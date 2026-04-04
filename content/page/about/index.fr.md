@@ -6,18 +6,52 @@ layout: "page"
 
 ## Korea Invest Insights
 
-Perspectives quotidiennes sur le marché coréen par un investisseur professionnel et capital-risqueur basé en Corée du Sud.
+Un **blog multilingue d'intelligence du marché coréen** animé par un investisseur professionnel et capital-risqueur basé à Séoul. Nous publions des analyses quotidiennes en **7 langues** pour les investisseurs internationaux qui manquent d'accès à une couverture de qualité du marché coréen.
 
-### Ce que nous offrons
+---
 
-- **Intelligence de marché quotidienne** : Analyse des thèmes, catalyseurs et risques du marché boursier coréen
-- **Rapports de clôture** : Évaluation du régime de marché, secteurs forts et faibles, actualités clés
-- **Analyse stratégique hebdomadaire** : Opportunités d'investissement avec cas haussiers et baissiers détaillés
+### Contenus
 
-### Pourquoi la Corée du Sud
+| Contenu | Fréquence | Description |
+|---------|-----------|-------------|
+| **Intelligence de Marché Quotidienne** | Jours ouvrés | Thèmes, catalyseurs et analyse des risques |
+| **Rapports de Clôture** | Jours ouvrés | Régime de marché, force/faiblesse sectorielle, actualités clés |
+| **Stratégie Hebdomadaire** | Vendredis | Scénarios haussiers/baissiers, opportunités d'investissement |
+| **Analyses Approfondies** | 2x par semaine | 18 entreprises dans 8 secteurs (rotation de 4 semaines) |
 
-La Corée du Sud abrite des leaders mondiaux dans les semi-conducteurs, les batteries pour véhicules électriques, la biotechnologie et le divertissement numérique. Pourtant, l'information sur le marché coréen en français reste extrêmement rare.
+### Secteurs Couverts
+
+- **Semi-conducteurs / HBM** — SK hynix, Samsung Electronics
+- **K-Beauty** — Pharma Research (Rejuran), APR (Medicube), Cosmax, CJ (Olive Young)
+- **K-Défense** — Hanwha Aerospace, LIG Nex1, Hanwha Ocean
+- **Gaming** — Pearl Abyss (Crimson Desert), Krafton (PUBG)
+- **K-Food** — Samyang Foods (Buldak Ramen)
+- **Auto / VE** — Hyundai Motor, Kia, Hyundai Mobis (Boston Dynamics)
+- **Construction Navale** — Samsung Heavy Industries, Hanwha Ocean
+- **Divertissement** — HYBE (BTS), YG Entertainment (BLACKPINK)
+
+### Langues Disponibles
+
+🇺🇸 English | 🇰🇷 한국어 | 🇯🇵 日本語 | 🇨🇳 简体中文 | 🇪🇸 Español | 🇫🇷 Français | 🇻🇳 Tiếng Việt
+
+---
+
+### S'abonner
+
+- 📱 **Telegram** : [@korea_invest_insights](https://t.me/korea_invest_insights) — Alertes nouvelles publications
+- 📡 **RSS** : [S'abonner au flux](/korea-invest-insights/fr/feed/)
+- 💬 **Commentaires** : Giscus en bas de chaque article (compte GitHub requis)
+
+---
+
+### Pourquoi la Corée ?
+
+La Corée du Sud est la 10ème économie mondiale et un leader global dans les **semi-conducteurs (HBM)**, les **batteries pour VE**, les **exportations de défense** et le **K-Content**. Pourtant, les analyses de qualité dans des langues autres que le coréen et l'anglais restent extrêmement rares.
+
+Ce blog offre des **perspectives d'investisseurs professionnels locaux** sur le marché coréen, publiées simultanément en 7 langues grâce à un pipeline de traduction alimenté par l'IA.
+
+---
 
 ### Avertissement
 
-Ce blog est uniquement à des fins d'information et d'éducation. Il ne constitue pas un conseil en investissement.
+Ce blog est publié à des fins d'information et d'éducation uniquement. Il ne constitue pas un conseil en investissement. Toute décision d'investissement doit être prise sous votre propre jugement et responsabilité. Les performances passées ne préjugent pas des résultats futurs.
