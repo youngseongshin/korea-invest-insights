@@ -2,7 +2,7 @@ baseURL = "https://youngseongshin.github.io/korea-invest-insights/"
 title = "Korea Invest Insights"
 theme = "hugo-theme-stack"
 defaultContentLanguage = "es"
-hasCJKLanguage = false
+hasCJKLanguage = true
 enableRobotsTXT = true
 [pagination]
   pagerSize = 10
@@ -78,6 +78,63 @@ enableRobotsTXT = true
       weight = 2
     [[languages.fr.menu.main]]
       name = "À propos"
+      url = "/about"
+      weight = 3
+
+  [languages.en]
+    languageName = "English"
+    weight = 4
+    title = "Korea Invest Insights"
+    [languages.en.params]
+      description = "Korean market insights from a professional investor & VC perspective"
+    [[languages.en.menu.main]]
+      name = "Home"
+      url = "/"
+      weight = 1
+    [[languages.en.menu.main]]
+      name = "Archives"
+      url = "/archives"
+      weight = 2
+    [[languages.en.menu.main]]
+      name = "About"
+      url = "/about"
+      weight = 3
+
+  [languages.ja]
+    languageName = "日本語"
+    weight = 5
+    title = "Korea Invest Insights"
+    [languages.ja.params]
+      description = "プロ投資家・VCの視点から見た韓国市場インサイト"
+    [[languages.ja.menu.main]]
+      name = "ホーム"
+      url = "/"
+      weight = 1
+    [[languages.ja.menu.main]]
+      name = "アーカイブ"
+      url = "/archives"
+      weight = 2
+    [[languages.ja.menu.main]]
+      name = "このサイトについて"
+      url = "/about"
+      weight = 3
+
+  [languages.zh]
+    languageName = "简体中文"
+    weight = 6
+    title = "Korea Invest Insights"
+    [languages.zh.params]
+      description = "专业投资人与VC视角下的韩国市场洞察"
+    [[languages.zh.menu.main]]
+      name = "首页"
+      url = "/"
+      weight = 1
+    [[languages.zh.menu.main]]
+      name = "归档"
+      url = "/archives"
+      weight = 2
+    [[languages.zh.menu.main]]
+      name = "关于"
       url = "/about"
       weight = 3
 
