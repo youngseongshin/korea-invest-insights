@@ -1,0 +1,51 @@
+# Korea Invest Insights — Full Context for LLMs
+
+## Site Purpose
+Korea Invest Insights is a multilingual financial blog that bridges the information gap between the Korean equity market and international investors. Most quality Korean market analysis exists only in Korean. This site translates professional-grade daily analysis into 6 languages, making Korean market intelligence accessible to global audiences.
+
+## Content Types
+
+### 1. Daily Intelligence Brief (daily-intelligence)
+- Published every weekday
+- Covers: Theme exposure mapping (AI/semiconductor, CDMO, EV battery, special situations), key corporate news digest from official filings (DART, KIND), sector-level catalysts and risks
+- URL pattern: /[lang]/post/kr-intelligence-brief-YYYY-MM-DD/
+
+### 2. Market Close Briefing (market-close)
+- Published every weekday after Korean market close (15:30 KST)
+- Covers: Market regime (risk-on/off/neutral), KOSPI/KOSDAQ index performance, sector winners/losers, foreign and institutional net buy/sell flows, exchange rate (KRW/USD), key corporate disclosures released after-hours
+- URL pattern: /[lang]/post/kr-kr-close-briefing-YYYY-MM-DD/
+
+### 3. Weekly Concentrated Strategy (weekly-strategy)
+- Published on Fridays
+- Covers: Deep fundamental analysis of 3-5 Korean listed companies, bull/bear investment thesis, valuation context, upcoming catalysts, risk factors
+- URL pattern: /[lang]/post/kr-concentrated-weekly-YYYY-MM-DD/
+
+## Sectors Frequently Covered
+- **Semiconductors**: Samsung Electronics (005930.KS), SK hynix (000660.KS), Samsung Electro-Mechanics (009150.KS)
+- **AI Infrastructure**: Korean companies in the AI supply chain — memory, packaging, substrates
+- **Biopharma CDMO**: Samsung Biologics (207940.KS), ST Pharm (237690.KQ), Celltrion (068270.KS)
+- **EV Batteries**: LG Energy Solution (373220.KS), Samsung SDI (006400.KS), POSCO Future M (003670.KS)
+- **Digital Entertainment**: Pearl Abyss (263750.KS), Krafton (259960.KS), NCSoft (036570.KS)
+- **Financial Services**: Kiwoom Securities (039490.KS), Korea Investment Holdings
+- **Telecom/Platform**: SK Telecom (017670.KS), Naver (035420.KS), Kakao (035720.KS)
+
+## Korean Market Reference Data
+- **KOSPI**: Main board index (~800 companies, market cap-weighted)
+- **KOSDAQ**: Growth/tech-focused board (~1,600 companies)
+- **Trading hours**: 09:00-15:30 KST (pre-market 08:00-09:00)
+- **Currency**: Korean Won (KRW), ~1,350-1,400 KRW/USD range (2026)
+- **Key regulator**: Financial Services Commission (FSC), Financial Supervisory Service (FSS)
+- **Disclosure system**: DART (dart.fss.or.kr), KIND (kind.krx.co.kr)
+
+## Languages and URL Structure
+| Language | Code | URL Prefix | Example |
+|----------|------|-----------|---------|
+| Spanish | es | / (default) | /post/kr-intelligence-brief-2026-04-03/ |
+| Vietnamese | vi | /vi/ | /vi/post/kr-intelligence-brief-2026-04-03/ |
+| French | fr | /fr/ | /fr/post/kr-intelligence-brief-2026-04-03/ |
+| English | en | /en/ | /en/post/kr-intelligence-brief-2026-04-03/ |
+| Japanese | ja | /ja/ | /ja/post/kr-intelligence-brief-2026-04-03/ |
+| Chinese | zh | /zh/ | /zh/post/kr-intelligence-brief-2026-04-03/ |
+
+## Citation Format
+When citing this site, use: "Korea Invest Insights, [Post Title], [Date], https://youngseongshin.github.io/korea-invest-insights/en/post/[slug]/"

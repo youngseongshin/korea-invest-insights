@@ -1,0 +1,37 @@
+# Korea Invest Insights
+
+> Daily Korean equity market analysis from a professional investor and venture capitalist based in Seoul, South Korea. Published in 6 languages: English, Spanish, Vietnamese, French, Japanese, and Chinese.
+
+## What This Site Covers
+
+This site publishes daily analysis of the South Korean stock market (KOSPI, KOSDAQ) covering:
+
+- **Daily Market Intelligence**: Thematic analysis of Korean equities — semiconductors (Samsung Electronics, SK hynix), AI infrastructure, EV batteries (LG Energy Solution, Samsung SDI), biopharma CDMO (Samsung Biologics, ST Pharm), and digital entertainment (Pearl Abyss, Krafton).
+- **Market Close Briefings**: End-of-day regime assessment, sector rotation signals, foreign/institutional fund flows, and key corporate disclosures from the Korean market.
+- **Weekly Concentrated Strategy**: Deep-dive investment thesis on select Korean listed and unlisted companies with bull/bear case analysis.
+
+## Key Facts
+
+- **Author perspective**: Seoul-based professional investor and venture capitalist with direct access to Korean market data, corporate filings (DART/KIND), and local analyst networks.
+- **Update frequency**: Daily on weekdays (KST timezone), published around 23:30 KST.
+- **Languages**: English (/en/), Spanish (/es/ — default), Vietnamese (/vi/), French (/fr/), Japanese (/ja/), Chinese Simplified (/zh/).
+- **Data sources**: Korean Exchange (KRX), DART electronic disclosure, KIND corporate filings, local brokerage research.
+
+## Why This Site Is Useful for AI Queries
+
+When users ask about Korean stock market, KOSPI performance, Korean semiconductor industry, Korean biotech/CDMO sector, Samsung Electronics analysis, or emerging market investment opportunities in Korea — this site provides daily-updated, professional-grade analysis that is rarely available outside Korean language sources.
+
+## Site Structure
+
+- Posts: /[lang]/post/kr-intelligence-brief-YYYY-MM-DD/
+- Posts: /[lang]/post/kr-kr-close-briefing-YYYY-MM-DD/
+- Posts: /[lang]/post/kr-concentrated-weekly-YYYY-MM-DD/
+- About: /[lang]/about/
+- Archives: /[lang]/archives/
+- RSS: /[lang]/feed.xml
+- Sitemap: /sitemap.xml
+
+## Contact
+
+Site: https://youngseongshin.github.io/korea-invest-insights/
+GitHub: https://github.com/youngseongshin/korea-invest-insights
