@@ -1,4 +1,3 @@
-```markdown
 ---
 title: "Samyang Foods : L'Empire Buldak au Cœur de l'Ascension Mondiale de la K-Food"
 date: 2026-04-04T12:00:00+09:00
@@ -174,4 +173,3 @@ Pour les dernières données financières, consultez les dépôts DART sur **dar
 ---
 
 *Cette analyse est fournie à titre informatif uniquement et ne constitue pas un conseil en investissement. Toutes les données financières mentionnées sont issues de publications et déclarations accessibles au public pour les périodes les plus récemment publiées. Les investisseurs sont invités à effectuer leurs propres vérifications et à consulter un conseiller financier agréé avant de prendre toute décision d'investissement. Les performances passées ne préjugent pas des résultats futurs.*
-```

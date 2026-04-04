@@ -1,6 +1,3 @@
-Now I have the full context of how this pipeline works. Let me write the comprehensive deep-dive post.
-
-```markdown
 ---
 title: "Samyang Foods: The Buldak Empire Fueling K-Food's Global Rise"
 date: 2026-04-04T12:00:00+09:00
@@ -176,4 +173,3 @@ For the latest financials, access DART filings at **dart.fss.or.kr** (search: ì‚
 ---
 
 *This analysis is for informational purposes only and does not constitute investment advice. All financial data referenced is based on publicly available filings and disclosures as of the most recently reported periods. Investors should conduct their own due diligence and consult a licensed financial advisor before making investment decisions. Past performance is not indicative of future results.*
-```
