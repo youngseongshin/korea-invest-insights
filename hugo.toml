@@ -145,6 +145,25 @@ enableGitInfo = true
       url = "/about"
       weight = 3
 
+  [languages.ko]
+    languageName = "한국어"
+    weight = 7
+    title = "Korea Invest Insights"
+    [languages.ko.params]
+      description = "전문 투자자 및 VC 관점의 한국 시장 인사이트"
+    [[languages.ko.menu.main]]
+      name = "홈"
+      url = "/"
+      weight = 1
+    [[languages.ko.menu.main]]
+      name = "아카이브"
+      url = "/archives"
+      weight = 2
+    [[languages.ko.menu.main]]
+      name = "소개"
+      url = "/about"
+      weight = 3
+
 [taxonomies]
   category = "categories"
   tag = "tags"
