@@ -1,0 +1,65 @@
+{{/* ── hreflang: 다국어 SEO 핵심 ── */}}
+{{ if .IsTranslated }}
+  {{ range .Translations }}
+    <link rel="alternate" hreflang="{{ .Lang }}" href="{{ .Permalink }}" />
+  {{ end }}
+  <link rel="alternate" hreflang="{{ .Lang }}" href="{{ .Permalink }}" />
+  <link rel="alternate" hreflang="x-default" href="{{ .Permalink }}" />
+{{ end }}
+
+{{/* ── Canonical URL ── */}}
+<link rel="canonical" href="{{ .Permalink }}" />
+
+{{/* ── JSON-LD 구조화 데이터 ── */}}
+{{ if .IsPage }}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": {{ .Title | jsonify }},
+  "description": {{ with .Description }}{{ . | jsonify }}{{ else }}{{ .Summary | plainify | truncate 160 | jsonify }}{{ end }},
+  "datePublished": {{ .Date.Format "2006-01-02T15:04:05Z07:00" | jsonify }},
+  "dateModified": {{ .Lastmod.Format "2006-01-02T15:04:05Z07:00" | jsonify }},
+  "author": {
+    "@type": "Organization",
+    "name": "Korea Invest Insights"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Korea Invest Insights",
+    "url": {{ .Site.BaseURL | jsonify }}
+  },
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": {{ .Permalink | jsonify }}
+  },
+  "inLanguage": {{ .Lang | jsonify }}
+  {{ with .Params.tags }},
+  "keywords": {{ . | jsonify }}
+  {{ end }}
+}
+</script>
+{{ else if .IsHome }}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "WebSite",
+  "name": {{ .Site.Title | jsonify }},
+  "url": {{ .Site.BaseURL | jsonify }},
+  "description": {{ .Site.Params.description | jsonify }},
+  "inLanguage": {{ .Lang | jsonify }}
+}
+</script>
+{{ end }}
+
+{{/* ── Open Graph 보강 ── */}}
+<meta property="og:site_name" content="{{ .Site.Title }}" />
+<meta property="og:locale" content="{{ .Lang }}" />
+{{ range .Translations }}
+<meta property="og:locale:alternate" content="{{ .Lang }}" />
+{{ end }}
+
+{{/* ── Twitter Card ── */}}
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:title" content="{{ .Title }}" />
+<meta name="twitter:description" content="{{ with .Description }}{{ . }}{{ else }}{{ .Summary | plainify | truncate 160 }}{{ end }}" />
