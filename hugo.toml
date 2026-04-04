@@ -29,6 +29,21 @@ enableGitInfo = true
     math = false
     toc = true
     readingTime = true
+  [params.comments]
+    enabled = true
+    provider = "giscus"
+  [params.comments.giscus]
+    repo = "youngseongshin/korea-invest-insights"
+    repoId = "R_kgDOR5Ynbw"
+    category = "General"
+    categoryId = "DIC_kwDOR5Ynb84C6CPT"
+    mapping = "pathname"
+    reactionsEnabled = "1"
+    emitMetadata = "0"
+    inputPosition = "top"
+    lightTheme = "light"
+    darkTheme = "dark_dimmed"
+    lazyLoading = true
 
 [languages]
   [languages.es]
