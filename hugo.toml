@@ -58,11 +58,11 @@ enableGitInfo = true
       weight = 1
     [[languages.es.menu.main]]
       name = "Archivos"
-      url = "/archives"
+      url = "/page/archives"
       weight = 2
     [[languages.es.menu.main]]
       name = "Acerca de"
-      url = "/about"
+      url = "/page/about"
       weight = 3
 
   [languages.vi]
@@ -77,11 +77,11 @@ enableGitInfo = true
       weight = 1
     [[languages.vi.menu.main]]
       name = "Lưu trữ"
-      url = "/archives"
+      url = "/page/archives"
       weight = 2
     [[languages.vi.menu.main]]
       name = "Giới thiệu"
-      url = "/about"
+      url = "/page/about"
       weight = 3
 
   [languages.fr]
@@ -96,11 +96,11 @@ enableGitInfo = true
       weight = 1
     [[languages.fr.menu.main]]
       name = "Archives"
-      url = "/archives"
+      url = "/page/archives"
       weight = 2
     [[languages.fr.menu.main]]
       name = "À propos"
-      url = "/about"
+      url = "/page/about"
       weight = 3
 
   [languages.en]
@@ -115,11 +115,11 @@ enableGitInfo = true
       weight = 1
     [[languages.en.menu.main]]
       name = "Archives"
-      url = "/archives"
+      url = "/page/archives"
       weight = 2
     [[languages.en.menu.main]]
       name = "About"
-      url = "/about"
+      url = "/page/about"
       weight = 3
 
   [languages.ja]
@@ -134,11 +134,11 @@ enableGitInfo = true
       weight = 1
     [[languages.ja.menu.main]]
       name = "アーカイブ"
-      url = "/archives"
+      url = "/page/archives"
       weight = 2
     [[languages.ja.menu.main]]
       name = "このサイトについて"
-      url = "/about"
+      url = "/page/about"
       weight = 3
 
   [languages.zh]
@@ -153,11 +153,11 @@ enableGitInfo = true
       weight = 1
     [[languages.zh.menu.main]]
       name = "归档"
-      url = "/archives"
+      url = "/page/archives"
       weight = 2
     [[languages.zh.menu.main]]
       name = "关于"
-      url = "/about"
+      url = "/page/about"
       weight = 3
 
   [languages.ko]
@@ -172,11 +172,11 @@ enableGitInfo = true
       weight = 1
     [[languages.ko.menu.main]]
       name = "아카이브"
-      url = "/archives"
+      url = "/page/archives"
       weight = 2
     [[languages.ko.menu.main]]
       name = "소개"
-      url = "/about"
+      url = "/page/about"
       weight = 3
 
 [params.widgets]
