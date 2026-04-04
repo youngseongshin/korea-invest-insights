@@ -1,0 +1,7 @@
+widget:
+  subscribe:
+    title: "S'abonner"
+    newsletter_desc: "Recevez chaque semaine nos analyses du marché coréen."
+    email_placeholder: "votre@email.com"
+    button: "S'abonner"
+    telegram: "Rejoindre le canal Telegram"

@@ -1,0 +1,7 @@
+widget:
+  subscribe:
+    title: "購読する"
+    newsletter_desc: "毎週の韓国市場インサイトをメールでお届けします。"
+    email_placeholder: "メールアドレス"
+    button: "購読"
+    telegram: "Telegramチャンネルに参加"

@@ -1,0 +1,7 @@
+widget:
+  subscribe:
+    title: "Đăng ký"
+    newsletter_desc: "Nhận phân tích thị trường Hàn Quốc hàng tuần qua email."
+    email_placeholder: "email@example.com"
+    button: "Đăng ký"
+    telegram: "Tham gia kênh Telegram"

@@ -179,6 +179,28 @@ enableGitInfo = true
       url = "/about"
       weight = 3
 
+[params.widgets]
+  [[params.widgets.homepage]]
+    type = "search"
+  [[params.widgets.homepage]]
+    type = "archives"
+    [params.widgets.homepage.params]
+      limit = 5
+  [[params.widgets.homepage]]
+    type = "tag-cloud"
+    [params.widgets.homepage.params]
+      limit = 20
+  [[params.widgets.homepage]]
+    type = "subscribe"
+    [params.widgets.homepage.params]
+      telegram_channel = "korea_invest_insights"
+  [[params.widgets.page]]
+    type = "toc"
+  [[params.widgets.page]]
+    type = "subscribe"
+    [params.widgets.page.params]
+      telegram_channel = "korea_invest_insights"
+
 [taxonomies]
   category = "categories"
   tag = "tags"

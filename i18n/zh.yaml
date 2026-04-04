@@ -1,0 +1,7 @@
+widget:
+  subscribe:
+    title: "订阅"
+    newsletter_desc: "每周获取韩国市场深度分析，直达邮箱。"
+    email_placeholder: "邮箱地址"
+    button: "订阅"
+    telegram: "加入Telegram频道"
