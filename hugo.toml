@@ -1,0 +1,93 @@
+baseURL = "https://youngseongshin.github.io/korea-invest-insights/"
+title = "Korea Invest Insights"
+theme = "hugo-theme-stack"
+defaultContentLanguage = "es"
+hasCJKLanguage = false
+enableRobotsTXT = true
+[pagination]
+  pagerSize = 10
+
+[params]
+  mainSections = ["post"]
+  description = "Korean market insights from a professional investor & VC perspective"
+  [params.sidebar]
+    emoji = "🇰🇷"
+    subtitle = "Korean Market Intelligence"
+  [params.footer]
+    since = 2026
+  [params.dateFormat]
+    published = "2006-01-02"
+    lastUpdated = "2006-01-02 15:04 MST"
+  [params.article]
+    math = false
+    toc = true
+    readingTime = true
+
+[languages]
+  [languages.es]
+    languageName = "Español"
+    weight = 1
+    title = "Korea Invest Insights"
+    [languages.es.params]
+      description = "Perspectivas del mercado coreano desde un inversor profesional y VC"
+    [[languages.es.menu.main]]
+      name = "Inicio"
+      url = "/"
+      weight = 1
+    [[languages.es.menu.main]]
+      name = "Archivos"
+      url = "/archives"
+      weight = 2
+    [[languages.es.menu.main]]
+      name = "Acerca de"
+      url = "/about"
+      weight = 3
+
+  [languages.vi]
+    languageName = "Tiếng Việt"
+    weight = 2
+    title = "Korea Invest Insights"
+    [languages.vi.params]
+      description = "Góc nhìn thị trường Hàn Quốc từ nhà đầu tư chuyên nghiệp và VC"
+    [[languages.vi.menu.main]]
+      name = "Trang chủ"
+      url = "/"
+      weight = 1
+    [[languages.vi.menu.main]]
+      name = "Lưu trữ"
+      url = "/archives"
+      weight = 2
+    [[languages.vi.menu.main]]
+      name = "Giới thiệu"
+      url = "/about"
+      weight = 3
+
+  [languages.fr]
+    languageName = "Français"
+    weight = 3
+    title = "Korea Invest Insights"
+    [languages.fr.params]
+      description = "Perspectives du marché coréen par un investisseur professionnel et VC"
+    [[languages.fr.menu.main]]
+      name = "Accueil"
+      url = "/"
+      weight = 1
+    [[languages.fr.menu.main]]
+      name = "Archives"
+      url = "/archives"
+      weight = 2
+    [[languages.fr.menu.main]]
+      name = "À propos"
+      url = "/about"
+      weight = 3
+
+[taxonomies]
+  category = "categories"
+  tag = "tags"
+
+[markup]
+  [markup.highlight]
+    style = "monokai"
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
