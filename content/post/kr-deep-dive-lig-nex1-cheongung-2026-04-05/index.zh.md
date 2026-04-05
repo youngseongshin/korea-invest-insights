@@ -1,6 +1,6 @@
 ---
 title: "LIG Nex1：韩国导弹防御巨头剑指中东市场"
-date: 2026-04-05T21:00:00+09:00
+date: 2026-04-05T11:00:00+09:00
 slug: kr-deep-dive-lig-nex1-cheongung-2026-04-05
 categories: ["company-deep-dive"]
 tags:

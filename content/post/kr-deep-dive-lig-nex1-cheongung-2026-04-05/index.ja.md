@@ -1,6 +1,6 @@
 ---
 title: "LIGネクスワン：韓国のミサイル防衛大手、中東市場への躍進を狙う"
-date: 2026-04-05T21:00:00+09:00
+date: 2026-04-05T11:00:00+09:00
 slug: kr-deep-dive-lig-nex1-cheongung-2026-04-05
 categories: ["company-deep-dive"]
 tags:

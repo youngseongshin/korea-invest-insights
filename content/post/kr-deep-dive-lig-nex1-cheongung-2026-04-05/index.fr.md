@@ -1,6 +1,6 @@
 ---
 title: "LIG Nex1 : Le Géant Coréen de la Défense Antimissile Lorgne sur l'Essor du Moyen-Orient"
-date: 2026-04-05T21:00:00+09:00
+date: 2026-04-05T11:00:00+09:00
 slug: kr-deep-dive-lig-nex1-cheongung-2026-04-05
 categories: ["company-deep-dive"]
 tags:

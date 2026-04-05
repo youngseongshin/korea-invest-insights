@@ -1,6 +1,6 @@
 ---
 title: "LIG Nex1: 한국 미사일 방어의 강자, 중동 수요 급증에 주목"
-date: 2026-04-05T21:00:00+09:00
+date: 2026-04-05T11:00:00+09:00
 slug: kr-deep-dive-lig-nex1-cheongung-2026-04-05
 categories: ["company-deep-dive"]
 tags:
