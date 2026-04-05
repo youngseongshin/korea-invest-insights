@@ -17,6 +17,7 @@ enableGitInfo = true
   mainSections = ["post"]
   description = "Korean market insights from a professional investor & VC perspective"
   keywords = ["Korea stock market", "Korean investment", "KOSPI", "Korean VC", "semiconductor", "K-market analysis"]
+  substack_subdomain = "youngseongshin"
   [params.sidebar]
     emoji = "🇰🇷"
     subtitle = "Korean Market Intelligence"

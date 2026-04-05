@@ -5,3 +5,4 @@ widget:
     email_placeholder: "邮箱地址"
     button: "订阅"
     telegram: "加入Telegram频道"
+    substack: "在Substack订阅"

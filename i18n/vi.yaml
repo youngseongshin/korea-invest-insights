@@ -5,3 +5,4 @@ widget:
     email_placeholder: "email@example.com"
     button: "Đăng ký"
     telegram: "Tham gia kênh Telegram"
+    substack: "Đăng ký trên Substack"

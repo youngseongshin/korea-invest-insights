@@ -31,6 +31,15 @@
         </a>
         {{ end }}
 
+        {{/* Substack */}}
+        {{ with site.Params.substack_subdomain }}
+        <a href="https://{{ . }}.substack.com" target="_blank" rel="noopener"
+           style="display: flex; align-items: center; gap: 8px; padding: 10px 12px; margin-top: 8px; border: 1px solid var(--card-separator-color); border-radius: 6px; text-decoration: none; color: var(--card-text-color-main); transition: background 0.2s; background: linear-gradient(135deg, rgba(255,102,0,0.05), rgba(255,102,0,0.02));">
+            <svg width="20" height="20" viewBox="0 0 24 24" fill="#FF6600"><path d="M22.539 8.242H1.46V5.406h21.08v2.836zM1.46 10.812V24L12 18.11 22.54 24V10.812H1.46zM22.54 0H1.46v2.836h21.08V0z"/></svg>
+            <span style="font-weight: 500;">{{ T "widget.subscribe.substack" | default "Subscribe on Substack" }}</span>
+        </a>
+        {{ end }}
+
         {{/* RSS */}}
         <a href="{{ "feed" | absURL }}" target="_blank" rel="noopener"
            style="display: flex; align-items: center; gap: 8px; padding: 10px 12px; margin-top: 8px; border: 1px solid var(--card-separator-color); border-radius: 6px; text-decoration: none; color: var(--card-text-color-main); transition: background 0.2s;">

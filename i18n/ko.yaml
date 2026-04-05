@@ -5,3 +5,4 @@ widget:
     email_placeholder: "이메일 주소"
     button: "구독"
     telegram: "텔레그램 채널 참여"
+    substack: "Substack 구독"

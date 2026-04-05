@@ -5,3 +5,4 @@ widget:
     email_placeholder: "メールアドレス"
     button: "購読"
     telegram: "Telegramチャンネルに参加"
+    substack: "Substackで購読"

@@ -5,3 +5,4 @@ widget:
     email_placeholder: "votre@email.com"
     button: "S'abonner"
     telegram: "Rejoindre le canal Telegram"
+    substack: "S'abonner sur Substack"
