@@ -2,7 +2,7 @@
 slug: "nextbiomedical-nexpowder-nexphere-deep-dive-2026"
 title: "NextBiomedical (389650.KQ) 徹底分析：Nexpowderが下値を守り、Nexphere-Fが上値を拓く"
 description: "NextBiomedical投資分析。止血剤Nexpowderはメドトロニック経由で30カ国以上に商業化済み。吸収性塞栓マイクロスフィアNexphere-Fは米国ピボタル試験中・FDA画期的医療機器指定取得。2025年売上高KRW 16.5B、営業損失KRW 735M。HSコード輸出データに基づく2026年Q1推計とアナリスト目標株価の逆算分析。"
-date: 2026-04-14T21:00:00+09:00
+date: 2026-04-14T12:00:00+09:00
 categories: ["company-deep-dive"]
 tags: ["NextBiomedical", "389650", "Nexpowder", "Nexphere-F", "メドテック", "止血剤", "塞栓マイクロスフィア", "KOSDAQ", "バイオテック"]
 series: "Korean MedTech Deep Dive"

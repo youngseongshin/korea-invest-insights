@@ -2,7 +2,7 @@
 slug: "nextbiomedical-nexpowder-nexphere-deep-dive-2026"
 title: "넥스트바이오메디컬 (389650.KQ) 심층분석: 넥스파우더가 하방을 지지하고 넥스피어-F가 상방을 여는 구조"
 description: "넥스트바이오메디컬 투자 분석. 내시경 지혈재 넥스파우더 상업화 진행, 흡수성 색전 미립구 넥스피어-F 미국 임상·일본 파트너십 확장 중. 2025년 매출 165억 원, 영업손실 7.35억 원. HS코드 수출 데이터 기반 1Q26 실적 추정 및 애널리스트 목표가 역산 분석."
-date: 2026-04-14T21:00:00+09:00
+date: 2026-04-14T12:00:00+09:00
 categories: ["company-deep-dive"]
 tags: ["넥스트바이오메디컬", "389650", "넥스파우더", "Nexpowder", "넥스피어-F", "Nexphere-F", "메드테크", "지혈재", "색전 미립구", "KOSDAQ", "바이오"]
 series: "Korean MedTech Deep Dive"

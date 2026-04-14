@@ -2,7 +2,7 @@
 slug: "nextbiomedical-nexpowder-nexphere-deep-dive-2026"
 title: "NextBiomedical (389650.KQ) Phân Tích Chuyên Sâu: Nexpowder Bảo Vệ Đáy, Nexphere-F Mở Ra Tiềm Năng Tăng Trưởng"
 description: "Phân tích đầu tư NextBiomedical. Chất cầm máu Nexpowder đang trong giai đoạn thương mại hóa tại hơn 30 quốc gia thông qua Medtronic. Microsphere tắc mạch hấp thụ được Nexphere-F đang trong thử nghiệm then chốt tại Mỹ với Chỉ định Thiết bị Đột phá của FDA. Doanh thu 2025 đạt KRW 16,5 tỷ, lỗ hoạt động KRW 735 triệu. Ước tính Q1 2026 dựa trên dữ liệu xuất khẩu theo mã HS và phân tích ngược giá mục tiêu của chuyên viên phân tích."
-date: 2026-04-14T21:00:00+09:00
+date: 2026-04-14T12:00:00+09:00
 categories: ["company-deep-dive"]
 tags: ["NextBiomedical", "389650", "Nexpowder", "Nexphere-F", "MedTech", "chất cầm máu", "microsphere tắc mạch", "KOSDAQ", "công nghệ sinh học"]
 series: "Korean MedTech Deep Dive"

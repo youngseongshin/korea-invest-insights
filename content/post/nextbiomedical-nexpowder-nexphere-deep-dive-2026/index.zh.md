@@ -2,7 +2,7 @@
 slug: "nextbiomedical-nexpowder-nexphere-deep-dive-2026"
 title: "NextBiomedical (389650.KQ) 深度研究：Nexpowder 守住下行底部，Nexphere-F 打开上行空间"
 description: "NextBiomedical 投资分析。Nexpowder 止血剂已通过 Medtronic 在 30 余个国家进入商业化阶段。Nexphere-F 可吸收栓塞微球正在美国开展关键性临床试验，并获得 FDA 突破性器械认定。2025 年营收 165 亿韩元，营业亏损 7.35 亿韩元。基于 HS 编码出口数据的 2026 年 Q1 估算及分析师目标价逆向推导。"
-date: 2026-04-14T21:00:00+09:00
+date: 2026-04-14T12:00:00+09:00
 categories: ["company-deep-dive"]
 tags: ["NextBiomedical", "389650", "Nexpowder", "Nexphere-F", "医疗器械", "止血剂", "栓塞微球", "KOSDAQ", "生物科技"]
 series: "Korean MedTech Deep Dive"

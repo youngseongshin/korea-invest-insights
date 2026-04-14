@@ -2,7 +2,7 @@
 slug: "nextbiomedical-nexpowder-nexphere-deep-dive-2026"
 title: "NextBiomedical (389650.KQ) Análisis Profundo: Nexpowder Protege el Suelo, Nexphere-F Abre el Techo"
 description: "Análisis de inversión en NextBiomedical. Agente hemostático Nexpowder en fase de comercialización en más de 30 países a través de Medtronic. Microesfera de embolización absorbible Nexphere-F en ensayo pivotal en EE.UU. con designación de Dispositivo Innovador de la FDA. Ingresos 2025: KRW 16,5B, pérdida operativa: KRW 735M. Estimaciones del Q1 2026 basadas en datos de exportación por código HS e ingeniería inversa de precios objetivo de analistas."
-date: 2026-04-14T21:00:00+09:00
+date: 2026-04-14T12:00:00+09:00
 categories: ["company-deep-dive"]
 tags: ["NextBiomedical", "389650", "Nexpowder", "Nexphere-F", "MedTech", "agente hemostático", "microesfera de embolización", "KOSDAQ", "biotecnología"]
 series: "Korean MedTech Deep Dive"

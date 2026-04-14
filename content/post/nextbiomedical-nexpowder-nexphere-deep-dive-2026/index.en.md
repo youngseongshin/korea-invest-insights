@@ -2,7 +2,7 @@
 slug: "nextbiomedical-nexpowder-nexphere-deep-dive-2026"
 title: "NextBiomedical (389650.KQ) Deep Dive: Nexpowder Guards the Downside, Nexphere-F Opens the Upside"
 description: "NextBiomedical investment analysis. Nexpowder hemostatic agent in commercialization phase across 30+ countries via Medtronic. Nexphere-F absorbable embolization microsphere in US pivotal trial with FDA Breakthrough Device Designation. 2025 revenue KRW 16.5B, OP loss KRW 735M. HS code export data-based Q1 2026 estimates and analyst target price reverse-engineering."
-date: 2026-04-14T21:00:00+09:00
+date: 2026-04-14T12:00:00+09:00
 categories: ["company-deep-dive"]
 tags: ["NextBiomedical", "389650", "Nexpowder", "Nexphere-F", "MedTech", "hemostatic agent", "embolization microsphere", "KOSDAQ", "biotech"]
 series: "Korean MedTech Deep Dive"
