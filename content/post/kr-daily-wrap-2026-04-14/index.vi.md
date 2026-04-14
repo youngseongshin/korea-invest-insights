@@ -1,85 +1,92 @@
 ---
-title: "Korea Daily Wrap 2026-04-14: Dòng Tiền Thông Minh Săn Lợi Nhuận Cải Thiện"
+title: "Korea Daily Wrap 14/04/2026: KOSPI Bull – Smart Money Đổ Vào Chip & Hạ Tầng"
 date: 2026-04-14T16:30:00+09:00
 categories: ["daily-wrap"]
-tags: ["KOSPI", "Korea stocks", "smart money", "earnings improvement", "semiconductor", "telecom infrastructure", "SK하이닉스", "RFHIC"]
+tags: ["KOSPI", "Korea stocks", "Smart Money", "SK Hynix", "semiconductor", "earnings improvement", "KOSDAQ"]
 slug: "kr-daily-wrap-2026-04-14"
-description: "KOSPI +6.6% trong 5 ngày, chế độ Neutral. Bộ lọc Smart Money + Lợi nhuận hôm nay dẫn đầu bởi SK하이닉스 và RFHIC."
+description: "KOSPI Bull, KOSDAQ +2.9% trong 5 ngày. Screener Smart Money + Cải thiện lợi nhuận hôm nay: SK Hynix dẫn đầu chip, APR bùng nổ doanh thu."
 draft: false
 ---
 
-## Macro Dashboard
+## 1. Macro Dashboard – 14/04/2026
 
-| Chỉ số | Hiện tại | Thay đổi 5 ngày | Tín hiệu |
-|--------|----------|-----------------|----------|
-| KOSPI | 5.858,9 | +6,6% | Tăng mạnh |
-| KOSDAQ | 1.093,6 | +5,5% | Tăng mạnh |
-| VIX | 19,2 | −25,4% | Ổn định |
-| US 10Y | 4,30% | −0,05 điểm | Đi ngang |
-| USD/KRW | 1.482 | −1,1% | KRW mạnh lên |
-| Brent | $97,7 | +3,1% | Tăng |
-| DXY | 98,7 | −0,5% | Đi ngang |
+| Chỉ số | Giá trị | Thay đổi 5 ngày | Tín hiệu |
+|--------|---------|-----------------|----------|
+| KOSPI | 5.967,8 | +1,6% | → Ổn định |
+| KOSDAQ | 1.121,9 | +2,9% | 📈 Tăng mạnh |
+| USD/KRW | 1.471 | −1,8% | 🟢 KRW mạnh lên |
+| VIX | 18,4 | −12,4% | 🟢 Rủi ro hạ nhiệt |
+| US 10Y | 4,30% | −0,05 | → Ổn định |
+| Brent | 99,1 USD | +3,3% | 📈 Dầu tăng |
+| DXY | 98,1 | −0,8% | 📉 USD yếu |
 
-**Phán quyết chế độ:** Hàn Quốc `Neutral` · Mỹ `Neutral` → Chiến lược: **Duy trì chọn lọc**. Breadth trên 50MA/200MA đều ở mức 50%, cho thấy môi trường sàng lọc cổ phiếu khá thuận lợi nhưng chưa đủ để mở rộng ồ ạt.
+**Phán quyết Regime:** Hàn Quốc `Bull` / Mỹ `Neutral`
 
----
-
-## Market Wrap
-
-*(Dữ liệu phiên gần nhất: 2026-04-10 KST)*
-
-Phiên giao dịch gần nhất của thị trường Hàn Quốc mang đặc tính **Risk-On có chọn lọc với dấu hiệu quá nhiệt cục bộ** — mạnh hơn một bậc so với cảnh báo "Neutral" từ buổi sáng, nhưng không phải kiểu tăng diện rộng đồng đều.
-
-**Phong cách phiên:** Không phải "thị trường lên đều tất cả" mà là **"cổ phiếu tốt tốt hơn"** — vốn chạy tập trung vào các trục dẫn dắt, trong khi phần lớn các cổ phiếu đuổi theo đà tăng đều thất bại sau giờ giao dịch.
-
-**Nhóm mạnh:**
-- **Bán dẫn / AI Hardware:** Samsung Electro-Mechanics, Samsung Electronics, TES — lực mua ngoại/tổ chức dẫn dắt, câu chuyện AI infrastructure mở rộng
-- **Hạ tầng viễn thông / RF:** Daehankwangtongshin, Solid, RFHIC (218410.KQ), KMW — xuất hiện liên tục trong tín hiệu sớm, tạo thành một trong những trục dẫn đầu rõ ràng nhất phiên
-- **Xây dựng / Tái thiết Trung Đông:** Daewoo E&C, một số cổ phiếu thép — tăng theo tin tức môi giới, tuy nhiên nhiều cổ phiếu thất bại ở mức VWAP trong phiên
-- **SK Telecom:** Hana Securities duy trì khuyến nghị Mua, giá mục tiêu 100.000 KRW — không chỉ là cổ phiếu phòng thủ đơn thuần mà còn có câu chuyện lợi nhuận/cổ tức thực chất
-
-**Nhóm yếu:**
-- **Biotech tổng thể:** Bình luận thị trường lặp lại khuyến nghị giảm tỷ trọng biotech, chuyển sang bán dẫn/viễn thông
-- Các cổ phiếu đuổi theo đà tăng bị quá nhiệt: nhiều cổ phiếu không giữ được mức giá cơ sở/VWAP sau khi tăng mạnh
-
-**Dòng tiền:** Ngoại tổ chức dẫn dắt ở Samsung Electronics và Samsung Electro-Mechanics. Tín hiệu SMP +47% đẩy vốn vào cổ phiếu điện lực/ESS nhưng chưa có kết nối trực tiếp với cổ phiếu cụ thể đủ chất lượng để theo dõi gần.
-
-**Giải mã phiên:** Dù macro thuận lợi (VIX ổn định, KRW mạnh 5 ngày, Brent hồi phục), FTD Day 8 với Market Regime Bull 85 điểm không đồng nghĩa mua gì cũng được. Thông điệp chính: **nén lại vào các trục dẫn đầu, tránh đuổi theo**.
+Sự phân kỳ giữa KOSPI Bull và Mỹ Neutral tạo ra lợi thế tương đối rõ rệt cho cổ phiếu Hàn Quốc. VIX giảm về 18,4 kết hợp với KRW tăng giá (USD/KRW −1,8% trong 5 ngày) là môi trường hỗ trợ dòng tiền ngoại vào thị trường Korea. Dầu Brent vượt 99 USD cần theo dõi thêm—tích cực cho năng lượng/xây dựng, nhưng tiềm ẩn áp lực chi phí.
 
 ---
 
-## Screener Spotlight: Smart Money + Earnings Improvement
+## 2. Diễn biến thị trường – Nhận định từ phiên 10/04/2026
 
-*(Thứ Ba — Bộ lọc Smart Money + Cải thiện lợi nhuận | Dữ liệu: 2026-04-13)*
+> *Lưu ý: Bản tóm tắt phiên giao dịch mới nhất có sẵn là ngày 10/04/2026.*
 
-**Phương pháp:** Bộ lọc này kết hợp tín hiệu tích lũy của tổ chức/nước ngoài với các chỉ số cải thiện lợi nhuận cơ bản (tăng trưởng doanh thu/lợi nhuận hoạt động/lợi nhuận ròng, biên lợi nhuận, ROE) — nhằm xác định các cổ phiếu đang ở điểm ngoặt lợi nhuận thực sự có dòng tiền thông minh hỗ trợ, không chỉ là kỹ thuật thuần túy. Vũ trụ: 2.726 cổ phiếu Hàn Quốc, 20 ứng viên hàng đầu được xuất ra.
+**Tính chất phiên: Risk-On có chọn lọc — không phải rally diện rộng**
 
-### Top 10 Ứng Viên
+Thị trường chứng khoán Hàn Quốc phiên 10/04 không đồng đều. Đây là dạng **tập trung vào leader** chứ không phải sóng mua toàn thị trường — một đặc điểm của giai đoạn BULL chất lượng cao hơn là bong bóng ngắn hạn.
 
-| # | Mã | Tên | Ngành | Điểm CL | RS % | Tăng DT YoY | Tăng LN HĐ YoY | Tăng LN Ròng YoY |
-|---|----|----|-------|---------|------|-------------|-----------------|------------------|
-| 1 | 010820.KS | 퍼스텍 (Pertec) | Vũ khí/đạn dược | 0,815 | 97,7 | +42,2% | +148,8% | +34,9% |
-| 2 | 425420.KQ | 티에프이 (TFI) | Linh kiện điện tử | 0,814 | 92,5 | +51,8% | +334,1% | +1.106,7% |
-| 3 | 017960.KS | 한국카본 (Korea Carbon) | Sản phẩm kim loại cấu trúc | 0,811 | 94,1 | +22,5% | +188,5% | +401,0% |
-| 4 | 000660.KS | SK하이닉스 (SK Hynix) | Bán dẫn | 0,810 | 97,8 | +46,8% | +101,2% | +116,9% |
-| 5 | 402340.KS | SK스퀘어 (SK Square) | Tài chính khác | 0,810 | 98,2 | +77,8% | +124,4% | +141,6% |
-| 6 | 278470.KS | 에이피알 (APR) | Hóa chất | 0,805 | 97,6 | +111,3% | +197,9% | +169,2% |
-| 7 | 100840.KS | SNT에너지 (SNT Energy) | Máy móc đa dụng | 0,795 | 86,3 | +105,9% | +401,4% | +143,9% |
-| 8 | 298040.KS | 효성중공업 (Hyosung Heavy) | Thiết bị điện | 0,791 | 98,6 | +21,9% | +106,1% | +125,6% |
-| 9 | 218410.KQ | RFHIC | Thiết bị viễn thông | 0,786 | 98,9 | +61,7% | +1.960,0% | +80,2% |
-| 10 | 474610.KQ | RF시스템즈 (RF Systems) | Sản phẩm kim loại | 0,786 | 97,5 | +16,8% | +141,2% | — |
+### Trục mạnh
 
-### Spotlight: Top 3 Ứng Viên
+- **Bán dẫn / AI hardware:** Samsung Electro-Mechanics (삼성전기) và Samsung Electronics (삼성전자, 005930.KS) tiếp tục dẫn dắt. Câu chuyện không đơn thuần là phục hồi — dòng tiền trong chuỗi giá trị AI hardware và hạ tầng viễn thông đang mở rộng.
+- **Hạ tầng viễn thông / RF:** Daehan Optical (대한광통신), Solid (쏠리드), RFHIC (218410.KS), KMW (케이엠더블유) được nhắc đi nhắc lại trên các kênh theo dõi dòng tiền. Nhóm này tăng mạnh nhất trong phiên, phản ánh câu chuyện mở rộng capex 5G/AI infrastructure.
+- **Xây dựng / Tái thiết Trung Đông:** Hana Securities nâng mục tiêu Hyundai Engineering & Construction (현대건설) lên 240.000 KRW với luận điểm cải thiện Q2 + kỳ vọng tái thiết Trung Đông. NH duy trì quan điểm Positive cho toàn ngành xây dựng.
+- **SK Telecom (017670.KS):** Hana Securities duy trì khuyến nghị Buy, mục tiêu 100.000 KRW — kết hợp phòng thủ với câu chuyện chuẩn hóa cổ tức và kết quả Q1 khả quan. Không còn đơn thuần là cổ phiếu phòng thủ.
 
-**1. 퍼스텍 (010820.KS) — Vũ khí & Hệ thống Quốc phòng**
-Pertec là nhà sản xuất vũ khí và đạn dược Hàn Quốc, hưởng lợi từ chu kỳ tăng chi tiêu quốc phòng toàn cầu. Lợi nhuận hoạt động tăng +148,8% YoY trong khi RS percentile đạt 97,7 — tín hiệu dòng tiền thông minh rõ ràng với tag `Vol+, NearHigh`. Điểm chiến lược cao nhất trong danh sách (0,815) nhờ kết hợp hoàn hảo giữa momentum giá và cải thiện lợi nhuận cơ bản.
+### Trục yếu
 
-**2. 티에프이 (425420.KQ) — Linh kiện Điện tử / Bán dẫn Phụ trợ**
-TFI sản xuất linh kiện điện tử, hưởng lợi từ chu kỳ phục hồi đầu tư bán dẫn. Điểm nổi bật là lợi nhuận ròng tăng +1.106,7% YoY và ROE cải thiện +17,4 điểm — cho thấy đây là bước ngoặt lợi nhuận thực chất chứ không phải hiệu ứng nền thấp đơn thuần. Biên lợi nhuận hoạt động cải thiện +11,1 điểm, điểm cải thiện lợi nhuận đứng đầu danh sách (0,920).
+- **Biotech / Pharma:** Nhiều tín hiệu điều hướng dòng tiền từ bio sang IT/bán dẫn. Nhóm này kém tương đối trong phiên.
+- **Cổ phiếu xây dựng đuổi theo:** Mặc dù tin tức tích cực, nhiều mã như Daewoo E&C (대우건설) không giữ được VWAP trong phiên — cho thấy sức mua không đủ mạnh để justify entry ngay tại đỉnh ngắn hạn.
 
-**3. SK하이닉스 (000660.KS) — Bán dẫn HBM / DRAM**
-Gương mặt quen thuộc nhưng xuất hiện trong bộ lọc Smart Money không phải ngẫu nhiên: doanh thu +46,8%, lợi nhuận hoạt động +101,2%, biên lợi nhuận cải thiện +13,1 điểm. Với RS 97,8 và tag `NearHigh`, đây là trường hợp tổ chức/ngoại tiếp tục tích lũy ở vùng giá cao — tín hiệu xác nhận câu chuyện AI/HBM vẫn chưa kết thúc. Kết hợp với diễn biến phiên gần nhất (Samsung Electronics dẫn dắt), toàn bộ chuỗi giá trị bán dẫn đang trong giai đoạn tích lũy có tổ chức.
+### Tín hiệu dòng tiền đáng chú ý
+
+Khối ngoại dẫn dắt phục hồi Samsung Electronics. Tín hiệu chuỗi giá trị — dòng tiền không chỉ vào flagship mà lan sang linh kiện viễn thông (RF components, quang học) — là yếu tố chất lượng giúp phân biệt đợt tăng hiện tại với bouncing kỹ thuật thông thường. Tuy nhiên, một số mã trong nhóm RF đã tăng 20%+ trong ngày, nên không phù hợp để đuổi theo ngay.
 
 ---
 
-*Bản tin này chỉ mang tính chất thông tin thị trường, không phải khuyến nghị đầu tư. Dữ liệu phiên từ 2026-04-10 KST; dữ liệu screener từ 2026-04-13. Mọi quyết định đầu tư cần được thực hiện dựa trên đánh giá độc lập của nhà đầu tư.*
+## 3. Screener Spotlight: Smart Money + Earnings Improvement (Thứ Ba)
+
+**Phương pháp:** Screener này lọc toàn bộ 2.726 cổ phiếu niêm yết Hàn Quốc theo hai trục song song — (1) **Smart Money**: tích lũy bền vững của khối ngoại và tổ chức, điểm RS cao, khối lượng bất thường; (2) **Earnings Improvement**: cải thiện thực chất về doanh thu, lợi nhuận hoạt động, lợi nhuận ròng và ROE so với cùng kỳ. Chỉ những cổ phiếu đáp ứng cả hai tiêu chí mới lọt vào danh sách cuối.
+
+*Dữ liệu cập nhật: 14/04/2026 lúc 16:04 KST. Regime thị trường: BULL. Điểm chiến lược trung bình top 20: 0,797.*
+
+### Top 10 ứng viên hôm nay
+
+| # | Mã / Ticker | Tên | Điểm CL | RS% | DT YoY | LN HĐ YoY | LN ròng YoY |
+|---|-------------|-----|---------|-----|--------|-----------|------------|
+| 1 | 402340.KS | SK스퀘어 SK Square | 0,818 | 98,5 | +77,8% | +124,4% | +141,6% |
+| 2 | 000660.KS | SK하이닉스 SK Hynix | 0,816 | 97,7 | +46,8% | +101,2% | +116,9% |
+| 3 | 278470.KS | 에이피알 APR | 0,811 | 96,8 | +111,3% | +197,9% | +169,2% |
+| 4 | 425420.KS | 티에프이 TFE | 0,807 | 93,2 | +51,8% | +334,1% | +1.106,7% |
+| 5 | 241520.KS | DSC인베스트먼트 DSC Investment | 0,807 | 95,6 | +16,8% | +48,7% | +67,9% |
+| 6 | 080580.KS | 오킨스전자 Okines Electronics | 0,802 | 97,2 | +41,5% | +484,2% | — |
+| 7 | 006800.KS | 미래에셋증권 Mirae Asset Securities | 0,800 | 99,2 | +31,7% | +61,2% | +71,0% |
+| 8 | 298040.KS | 효성중공업 Hyosung Heavy Industries | 0,792 | 98,5 | +21,9% | +106,1% | +125,6% |
+| 9 | 218410.KS | RFHIC | 0,785 | 99,1 | +61,7% | +1.960,0% | +80,2% |
+| 10 | 100840.KS | SNT에너지 SNT Energy | 0,789 | 80,8 | +105,9% | +401,4% | +143,9% |
+
+### Góc nhìn sâu hơn – Top 3 đáng chú ý
+
+**SK Square (402340.KS) – Điểm chiến lược cao nhất: 0,818**
+
+SK Square là công ty holding đang nắm cổ phần kiểm soát tại SK Hynix. Điểm RS 98,5 nghĩa là cổ phiếu đang outperform 98,5% thị trường trong 12 tháng qua. Tăng trưởng lợi nhuận ròng +141,6% YoY phản ánh chu kỳ up-cycle bộ nhớ đang chuyển hóa thành cổ tức và NAV tích lũy. Với chiết khấu conglomerate điển hình của Hàn Quốc, câu chuyện thu hẹp discount có thể là động lực bổ sung nếu SK tiếp tục cải thiện quản trị.
+
+**SK Hynix (000660.KS) – Đầu tàu bán dẫn AI: 0,816**
+
+SK Hynix là nhà sản xuất DRAM và NAND hàng đầu thế giới, đặc biệt chiếm vị trí dẫn đầu thị trường HBM (High Bandwidth Memory) — loại chip bộ nhớ băng thông cao không thể thiếu trong các hệ thống AI. Doanh thu +46,8%, lợi nhuận hoạt động +101,2% YoY là minh chứng rõ ràng cho chu kỳ lên của bộ nhớ. RS 97,7 và vị trí gần đỉnh 52 tuần (NearHigh) cho thấy smart money đang tích lũy liên tục, không phải mua vào và xả ngay.
+
+**APR – 에이피알 (278470.KS) – Tăng trưởng doanh thu nổi bật nhất: 0,811**
+
+APR là công ty K-beauty & skincare đang mở rộng nhanh cả trong nước lẫn xuất khẩu — đặc biệt sang thị trường Mỹ và Nhật. Doanh thu tăng +111,3% và lợi nhuận hoạt động +197,9% YoY cho thấy đây không phải cải thiện chu kỳ mà là câu chuyện tăng trưởng cấu trúc. RS 96,8 và điểm ROE change +34% là hai tín hiệu chất lượng cao nhất trong top 20. Đây là cổ phiếu ít được theo dõi bởi nhà đầu tư quốc tế nhưng fundamentals đang ghi điểm ở mức class đầu bảng.
+
+---
+
+*Thông tin trong bài viết mang tính chất tham khảo và phân tích thị trường, không phải khuyến nghị đầu tư cụ thể.*
