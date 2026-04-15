@@ -1,7 +1,4 @@
 ---
-
-```markdown
----
 title: "CJ Corp: The Hidden Gem Behind the Olive Young K-Beauty Empire"
 date: 2026-04-14T12:00:00+09:00
 categories: ["company-deep-dive"]
