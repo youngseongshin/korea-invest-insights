@@ -1,81 +1,96 @@
 ---
-title: "Korea Daily Wrap 15-Abr-2026: Selectividad en Régimen Neutral"
+title: "Korea Daily Wrap 2026-04-15: Bull Coreano en Modo Selectivo"
 date: 2026-04-15T16:30:00+09:00
 categories: ["daily-wrap"]
-tags: ["KOSPI", "Korea stocks", "mercado coreano", "Quiet Accumulation", "semiconductores", "defensa", "acumulación extranjera"]
+tags: ["KOSPI", "Korea stocks", "acumulación silenciosa", "mercado coreano", "inversores extranjeros", "semiconductores", "Quiet Accumulation"]
 slug: "kr-daily-wrap-2026-04-15"
-description: "KOSPI 5.808, régimen Neutral KR/US. Semiconductores y telecom lideran. Screener Quiet Accumulation revela acumulación extranjera antes del breakout."
+description: "KOSPI en régimen Bull con +5,4% semanal; el screener Quiet Accumulation identifica 96 candidatos donde el capital extranjero se mueve en silencio."
 draft: false
 ---
 
-## Macro Dashboard — 15 de abril de 2026
+## Sección 1 — Macro Dashboard · 2026-04-15
 
-| Indicador | Valor | Δ 5 días | Señal |
-|-----------|------:|----------:|-------|
-| KOSPI | 5.808,6 | −1,1% | → Lateral |
-| KOSDAQ | 1.099,8 | +0,9% | → Lateral |
-| VIX | 18,4 | −12,7% | Estable |
-| US 10Y | 4,26% | −0,03 pp | → Lateral |
-| DXY | 98,1 | −0,7% | Débil |
-| USD/KRW | 1.477 | −0,1% | → Lateral |
-| Brent | 95,0 USD | −1,0% | → Estable |
+| Indicador | Valor | Var. 5D | Señal |
+|-----------|------:|--------:|-------|
+| KOSPI | 6.091,4 | +5,4% | Alcista |
+| KOSDAQ | 1.152,4 | +7,1% | Alcista |
+| VIX | 18,2 | −6,4% | Estable |
+| US 10Y | 4,26% | −0,03 pp | Neutro |
+| USD/KRW | 1.477 | −0,04% | Neutro |
+| Brent | 96,2 $ | +1,1% | Neutro |
+| DXY | 98,2 | −0,4% | Neutro |
 
-**Veredicto de régimen:** KR `Neutral` · US `Neutral` · Postura: *Mantenimiento Selectivo*
-
-El KOSPI acumula −63 puntos en cinco sesiones mientras el KOSDAQ se sostiene con una leve recuperación del +0,9%. La caída del VIX al 18,4 confirma un entorno de riesgo contenido. El DXY retrocede (−0,7%), aliviando algo de presión sobre el won, que cotiza estable en 1.477 por dólar. Clave de contexto: el régimen coreano acaba de retroceder de Bull a Neutral el pasado 13 de abril, tras un solo día de expansión. Esa transición exige mayor disciplina en la selección de nombres y reduce el apetito por perseguir ruptura de nuevos máximos sin confirmación.
-
----
-
-## Cierre del Mercado Coreano
-
-*Sesión de referencia: 10 de abril de 2026 — cierre más reciente disponible en el briefing*
-
-El mercado de valores de Corea del Sur registró una sesión de **carácter selectivo con sesgo Risk-On**: no fue una subida generalizada, sino una rotación de capital concentrada en los líderes establecidos mientras el resto del mercado quedaba rezagado o se agotaba tras aperturas alcistas sin continuidad intradía.
-
-**Temáticas líderes:**
-
-- **Semiconductores e infraestructura AI**: Samsung Electro-Mechanics (009150.KS) y Samsung Electronics (005930.KS) concentraron flujo institucional y extranjero sostenido. La narrativa se amplió hacia la cadena de valor de redes con Daehan Optical Communications, Solid, RFHIC y KMW liderando el segmento de infraestructura de telecomunicaciones. Analistas leen este movimiento como parte de la expansión del capex en AI hardware, no como rebote puntual.
-- **Telecomunicaciones defensivas**: SK Telecom (017670.KS) mostró fortaleza respaldada por un preavance de resultados del primer trimestre. Hana Securities mantiene Buy con precio objetivo de 100.000 won, integrando la historia de dividendo normalizado a la tesis. La señal no es solo rotación defensiva, sino también recuperación de beneficios.
-- **Construcción y reconstrucción de Oriente Medio**: La narrativa fue positiva —Hana elevó el precio objetivo de Hyundai Engineering & Construction a 240.000 won con visibilidad en contratos regionales; NH mantuvo visión Positiva del sector— pero la ejecución fue irregular. La mayoría de los candidatos de entrada en Daewoo Engineering y similares fallaron en sostener sus niveles de VWAP al cierre. El catalizador existe; el timing de entrada aún es prematuro.
-- **Energía y electricidad**: El SMP repuntó un +47% en la sesión, activando interés en generadores privados y proveedores de almacenamiento ESS. Por ahora, el flujo directo hacia nombres concretos fue limitado respecto a las temáticas principales.
-
-**Flujos notables:**
-
-El capital extranjero lideró la recuperación en Samsung Electronics y mantuvo presión compradora en Samsung Electro-Mechanics. Los institucionales mostraron ventas sostenidas en valores de videojuegos y en biotech selectivo. La estructura del día favoreció **compresión hacia líderes**: los nombres que no defendieron su VWAP al cierre registraron setups fallidos.
-
-**Conclusión de sesión:** La bolsa coreana premiará agregar en los líderes probados y reducir los más débiles. El mercado de Korea no está en modo de "comprar cualquier cosa"; está en modo de "lo bueno se pone más bueno".
+**Veredicto de régimen:** Corea → **Bull** · EE.UU. → **Neutral**  
+El diferencial KR-Bull / US-Neutral favorece una expansión selectiva en activos coreanos. El VIX por debajo de 19 y el won estabilizado son condiciones de fondo favorables; el petróleo al alza merece seguimiento para valorar su sostenibilidad.
 
 ---
 
-## Screener del Miércoles: Quiet Accumulation (Acumulación Silenciosa)
+## Sección 2 — Market Wrap · 2026-04-10 *(última sesión disponible)*
 
-*Datos: 14 de abril de 2026 · Total de candidatos: 84 · Tier A — Tight Coil: 14 nombres*
+> *Nota: el briefing de cierre más reciente disponible corresponde al 10 de abril. Los datos macro son del 15 de abril.*
 
-**Metodología:** El screener de Acumulación Silenciosa captura valores donde inversores extranjeros construyen posición de forma discreta *antes* del breakout. Los filtros exigen rango de precio ≤24% en 30 días (coiling), RSI neutro (38–62), cierre por encima de la MA60, incremento de participación extranjera ≥+0,05 pp en 20 días y calidad fundamental mínima (VQ ≥ 0,4). A diferencia del screener Smart Money, que actúa *después* del volumen, este detecta el coil previo al movimiento: es un sistema de anticipación, no de confirmación.
+La sesión del 10 de abril en el mercado coreano se caracterizó como **Risk-On selectivo**, lejos de un rally de amplitud. El dinero se concentró en focos muy definidos mientras la mayor parte del universo cotizó sin dirección. En resumen: los líderes ganaron terreno, el resto esperó.
 
-### Top 7 — Acumulación Silenciosa
+### Sectores fuertes
 
-| # | Ticker | Nombre | Precio (KRW) | Rango 30d | RSI | Part. Ext. | Δ20d (pp) | ROE | OPM | Score |
-|--:|--------|--------|-------------:|----------:|----:|-----------:|----------:|----:|----:|------:|
-| 1 | 012450.KS | 한화에어로스페이스 | 1.523.000 | 20,4% | 60,4 | 45,5% | +0,83 | 19,1 | 11,6 | +1,82 |
-| 2 | 002140.KS | 고려산업 | 2.840 | 8,5% | 57,6 | 7,0% | +3,91 | 8,4 | 4,6 | +1,65 |
-| 3 | 025880.KQ | 케이씨피드 | 3.035 | 11,8% | 60,7 | 14,9% | +2,55 | 13,7 | 10,0 | +0,98 |
-| 4 | 014580.KS | 태경비케이 | 4.630 | 11,6% | 57,5 | 3,9% | +0,61 | 10,6 | 10,6 | +0,36 |
-| 5 | 136480.KQ | 하림 | 3.240 | 8,5% | 58,3 | 8,8% | +0,88 | 12,6 | 3,3 | +0,34 |
-| 6 | 046940.KQ | 우원개발 | 4.710 | 17,9% | 54,7 | 9,2% | +0,70 | 36,8 | 17,9 | +0,25 |
-| 7 | 271560.KS | 오리온 | 131.400 | 10,9% | 52,2 | 36,4% | +0,70 | 10,5 | 16,8 | +0,12 |
+**Semiconductores e infraestructura AI** encabezaron la jornada. La cadena de valor de componentes —con Samsung Electro-Mechanics (009150.KS) y Samsung Electronics (005930.KS) como ejes— atrajo flujos de continuidad respaldados por compradores extranjeros. Al mismo tiempo, el subsector de **infraestructura de telecomunicaciones** protagonizó el movimiento más nítido del día: Daehan Kwangtong (001550.KS), Solid (050890.KQ), RFHIC (218410.KQ) y KMW (032500.KQ) acumularon menciones repetidas en los flujos de orden y registraron las variaciones más limpias de la sesión.
 
-### Contexto de los tres primeros
+El tema de **reconstrucción de Oriente Medio** continuó apoyado por analistas de Hana Securities —revisión al alza del objetivo de Hyundai Engineering & Construction (000720.KS) hasta 240.000 KRW— y por informes sectoriales positivos de NH Investments sobre construcción. Sin embargo, los flujos intradía revelaron que buena parte de los candidatos del sector no logró mantener el VWAP al cierre, lo que califica la señal como ruidosa en términos de ejecución.
 
-**한화에어로스페이스 (012450.KS) — Hanwha Aerospace**
-El mayor fabricante coreano de motores de propulsión y sistemas de defensa terrestre. Ingresos +137,6% interanual y beneficio operativo +78,4% —impulsados por contratos de defensa nacionales y exportaciones a Europa y el sudeste asiático en pleno ciclo de rearme global. Aparece en el Tier C por tener un rango de precio algo más amplio (20,4%), pero la señal de flujo es contundente: la participación extranjera supera el 45% y sigue creciendo (+0,83 pp en 20 días) con volumen controlado. Los grandes fondos internacionales están añadiendo posición en uno de los principales beneficiarios del superciclo defensivo asiático sin generar ruido de mercado.
+El sector **eléctrico/ESS** acumuló interés estructural: el SMP registró un alza intradiaria del +47% y los pedidos de ESS volvieron a circular en los flujos. No obstante, la conexión directa con nombres cotizados de alta calidad permaneció difusa.
 
-**고려산업 (002140.KS) — Koryo Industries**
-Compañía industrial del KOSPI con el delta de participación extranjera más alto de todo el screener en términos absolutos: +3,91 pp en 20 días. El rango de precio en 30 días es de apenas 8,5% —el más ajustado del Tier A— con volumen totalmente plano (ratio 5d/20d: 1,05). El perfil encaja de forma casi textual con el patrón de coil previo al movimiento: alguien acumula con disciplina sin presionar el precio. Los fundamentales son modestos (ROE 8,4%, OPM 4,6%), pero la señal de flujo es la más limpia del grupo.
+### Sectores débiles
 
-**케이씨피드 (025880.KQ) — KC Feed**
-Empresa de piensos y nutrición animal en KOSDAQ con crecimiento de beneficio operativo del +50,6% interanual sobre ingresos que crecen un +18,3%. Es el único nombre del Tier A donde la señal de acumulación extranjera (+2,55 pp en 20 días) se combina con fundamentales de crecimiento sólidos. La participación foránea del 14,9% sigue subiendo dentro de un rango de precio contenido (11,8%). Para un inversor internacional, es un nombre de calidad y valor que el mercado aún no ha redescubierto: exactamente el perfil que el screener está diseñado para detectar.
+**Biofarma** quedó en un lugar secundario claro. Los flujos de análisis reiteraron el mensaje de reducir exposición relativa al sector en favor de semiconductores y componentes IT. El universo bio en general no generó señales de entrada convincentes.
+
+Los candidatos que persiguieron la apertura alcista en construcción o en temas especulativos de telecomunicaciones —sin soporte de volumen— terminaron mayoritariamente por debajo del precio de referencia de la mañana, confirmando que la sesión penalizó la persecución y premió la selección previa.
+
+### Flujos institucionales y extranjeros
+
+El hilo conductor de la jornada fue la consistencia del comprador extranjero en semiconductores de gran capitalización, con SK Telecom (017670.KS) añadiéndose como nombre defensivo con catalizador de resultados. Los análisis del broker Hana reafirmaron Buy con objetivo de 100.000 KRW para SKT, subrayando la combinación de dividendo y normalización de beneficios como diferenciador frente a la teleco genérica.
+
+**Lectura del día:** el mercado coreano está en modo *compresión*, no en modo *expansión*. Los mejores nombres se aprecian; el pelotón espera.
 
 ---
 
-*Las señales del screener Quiet Accumulation identifican candidatos a breakout, no setups de entrada inmediata. Confirmar con precio de cierre sobre MA20, expansión de volumen y continuidad del flujo extranjero antes de actuar.*
+## Sección 3 — Screener Spotlight: Quiet Accumulation · 2026-04-15
+
+**Metodología.** El screener de *Acumulación Silenciosa* detecta nombres en los que el inversor extranjero lleva construyendo posición de forma discreta durante los últimos 20 días, sin que el precio haya roto todavía ningún nivel de resistencia. A diferencia de los screeners de momentum, este filtro captura la fase **previa** al breakout: rango de precio ajustado (≤24%), volumen bajo, RSI neutral (38–62), precio sobre MA60 y flujo neto extranjero positivo acumulado.
+
+El universo hoy: **96 candidatos** — 26 en Tier A (coil muy ajustado, ≤12%), 39 en Tier B (12–18%), 31 en Tier C (18–24%).
+
+### Top 10 — Tier A (TIGHT COIL)
+
+| # | Ticker | Nombre | Cierre (KRW) | Rango 30D | RSI | Extran. % | Δ20d (pp) | VQ | Score |
+|---|--------|--------|-------------:|----------:|----:|----------:|----------:|----|------:|
+| 1 | 002140.KS | 고려산업 | 2.805 | 8,4% | 54,9 | 7,57% | +4,48 | 0,56 | +1,61 |
+| 2 | 095570.KS | AJ네트웍스 | 5.080 | 8,0% | 49,1 | 6,31% | +0,97 | 0,66 | +0,48 |
+| 3 | 002900.KS | TYM | 7.020 | 10,8% | 53,5 | 21,62% | +0,84 | 0,74 | +0,45 |
+| 4 | 014580.KS | 태경비케이 | 4.635 | 6,7% | 57,8 | 4,15% | +0,94 | 0,75 | +0,44 |
+| 5 | 000910.KS | 유니온 | 4.505 | 8,4% | 58,3 | 6,99% | +1,46 | 0,61 | +0,41 |
+| 6 | 139480.KS | 이마트 | 97.700 | 11,2% | 54,2 | 25,34% | +1,05 | 0,56 | +0,36 |
+| 7 | 053800.KQ | 안랩 | 64.700 | 8,9% | 61,9 | 25,47% | +0,53 | 0,60 | +0,19 |
+| 8 | 089860.KS | 롯데렌탈 | 32.150 | 6,3% | 53,8 | 7,18% | +0,12 | 0,65 | +0,16 |
+| 9 | 138930.KS | BNK금융지주 | 18.890 | 9,4% | 56,7 | 41,67% | +0,16 | 0,66 | +0,09 |
+| 10 | 012450.KS | 한화에어로스페이스 | 1.509.000 | 20,3% | 58,7 | 45,51% | +0,79 | 0,44 | +1,95* |
+
+*\*한화에어로스페이스 aparece en Tier C por rango del 20,3%, pero lidera el score compuesto global.*
+
+### Contexto para los tres primeros nombres
+
+**고려산업 (002140.KS) — Score +1,61 · Tier A #1**  
+Empresa industrial coreana de materiales de construcción y química básica, listada en el mercado principal. El punto que destaca el screener es el **movimiento extranjero más agresivo del universo**: +4,48 pp en solo 20 días sobre una base de participación del 7,57%. El precio lleva 30 días en un rango del 8,4% con volumen prácticamente plano —clásico perfil de acumulación silenciosa antes de catalizador. ROE del 8,4% y margen operativo del 4,6% son discretos pero positivos; el atractivo aquí es la señal de flujo, no los fundamentales de crecimiento.
+
+**AJ네트웍스 (095570.KS) — Score +0,48 · Tier A #2**  
+Compañía de arrendamiento de equipos industriales y logística (grúas, equipos de construcción, IT). PER forward de 11x con margen operativo del 6,7% y ROE del 6,3%. La participación extranjera subió +0,97 pp en 20 días con flujo neto comprador confirmado. Rango de precio del 8% sobre MA60 y volumen contenido dibujan un coil técnico limpio. Sector de arrendamiento industrial tiende a beneficiarse de la reactivación de infraestructura, lo que encaja con el tema de reconstrucción presente en el mercado.
+
+**한화에어로스페이스 (012450.KS) — Score +1,95 · Mejor score global**  
+Holding aeroespacial y de defensa del grupo Hanwha —motores de cohetes, sistemas de armas, sistemas de propulsión naval. Con ingresos creciendo +137,6% interanual y beneficio operativo +78,4%, es uno de los nombres de mayor crecimiento en el universo defensivo coreano. Participación extranjera del 45,51% (+0,79 pp en 20 días) sobre un float elevado. El rango del 20% lo sitúa en Tier C, pero el score compuesto lo corona como el candidato con señal más completa de todo el screener. RSI en 58,7 —no sobrecomprado— y precio sobre MA60.
+
+### Lectura del screener
+
+El screener de hoy confirma una dinámica que el propio mercado viene señalando: **el capital extranjero no se ha ido del mercado coreano, simplemente ha bajado el ruido**. Con 96 candidatos activos en acumulación silenciosa, la base es amplia. Los nombres Tier A con delta de participación más agresivo —고려산업 a la cabeza— merecen vigilancia como potenciales líderes de la próxima rotación. 한화에어로스페이스 es el nombre de mayor convicción por fundamentales, aunque el rango amplio exige esperar compresión antes de evaluar entrada.
+
+---
+
+*Fuentes: macro-regime-verdict (2026-04-15), kr-close-briefing (2026-04-10), KR_Quiet_Accumulation_Engine (2026-04-15 16:07 KST). Este análisis es informativo y no constituye asesoramiento de inversión.*

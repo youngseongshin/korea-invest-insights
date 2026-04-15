@@ -1,92 +1,89 @@
 ---
-title: "Korea Daily Wrap 2026-04-15: Tích Lũy Im Lặng Ngoại Khối"
+title: "Korea Daily Wrap 2026-04-15: KOSPI Bull — Ngoại Tích Lũy Lặng Lẽ"
 date: 2026-04-15T16:30:00+09:00
 categories: ["daily-wrap"]
-tags: ["KOSPI", "Korea stocks", "quiet accumulation", "ngoại khối", "Hanwha Aerospace", "thị trường Hàn Quốc", "screener"]
+tags: ["KOSPI", "Korea stocks", "KOSDAQ", "Quiet Accumulation", "foreign buying", "Hanwha Aerospace", "semiconductor", "defense", "infrastructure"]
 slug: "kr-daily-wrap-2026-04-15"
-description: "KOSPI 5.808 — chế độ Neutral. Ngoại khối âm thầm gom hàng: Hanwha Aerospace và Orion dẫn đầu screener Tích Lũy Im Lặng."
+description: "KOSPI 6,091 trong chế độ Bull, KOSDAQ +7.1% trong 5 ngày. Screener Tích Lũy Lặng Lẽ nêu bật Hanwha Aerospace và dòng ngoại âm thầm tích lũy chọn lọc."
 draft: false
 ---
 
-## Phần 1: Bảng Macro Dashboard
+## 1. Macro Dashboard
 
-| Chỉ số | Giá trị | Thay đổi 5 ngày | Tín hiệu |
-|---|---|---|---|
-| KOSPI | 5.808,6 | -1,1% | → Trung tính |
-| KOSDAQ | 1.099,8 | +0,9% | → Trung tính |
-| USD/KRW | 1.477 | -0,1% | → Ổn định |
-| VIX | 18,4 | -12,7% | 🟢 Hạ nhiệt |
-| US 10Y | 4,26% | -0,03pp | → Giữ nguyên |
-| Brent | $95,0 | -1,0% | → Ổn định |
-| DXY | 98,1 | -0,7% | 📉 USD yếu |
+| Chỉ số | Giá trị | Biến động 5 ngày | Tín hiệu |
+|--------|---------|-----------------|----------|
+| KOSPI | 6,091.4 | +5.4% | Tăng mạnh |
+| KOSDAQ | 1,152.4 | +7.1% | Tăng mạnh |
+| VIX | 18.2 | −6.4% | Ổn định |
+| US 10Y | 4.26% | −0.03 | Đi ngang |
+| USD/KRW | 1,477 | −0.0% | Ổn định |
+| Brent | $96.2/thùng | +1.1% | Ổn định |
 
-**Phán quyết chế độ:** KR `Neutral` · US `Neutral` → **Duy trì chọn lọc**
+**Phán quyết chế độ:** KR = **Bull** | US = **Neutral** → Chiến lược: *Mở rộng chọn lọc tại Hàn Quốc*
 
-VIX giảm gần 13% trong 5 ngày, USD suy yếu và lợi suất trái phiếu Mỹ hạ nhẹ tạo nền tảng thuận lợi cho tài sản rủi ro. Tuy nhiên breadth 50MA và 200MA đều ở mức 50% — thị trường chưa xác nhận bull rõ ràng, cần tiếp tục chọn lọc cổ phiếu.
-
----
-
-## Phần 2: Tổng Kết Thị Trường
-
-*Nguồn: KR Close Briefing ngày 2026-04-10 — dữ liệu gần nhất có sẵn*
-
-**Tính cách phiên: Risk-on có chọn lọc — không phải bull diện rộng.**
-
-Phiên giao dịch gần nhất của thị trường chứng khoán Hàn Quốc không phải dạng "mua gì cũng thắng". Đây là phiên mà tiền bạc chảy mạnh vào đúng những trụ cột dẫn dắt, trong khi phần lớn danh mục còn lại đứng yên hoặc thất bại sau chuỗi đuổi giá quá đà.
-
-**Trục mạnh:**
-
-- **Bán dẫn & AI phần cứng**: Samsung Electro-Mechanics (009150.KS), Samsung Electronics (005930.KS), và các cổ phiếu thiết bị bán dẫn như TES (095190.KQ) đồng loạt thu hút dòng tiền. Câu chuyện AI hardware + chuỗi cung ứng thông tin liên lạc mở rộng đang được xác nhận dần.
-- **Hạ tầng viễn thông / RF**: Daehan Optical Communications, Solidmicro, RFHIC, KMW nổi bật rõ ràng nhất trong phiên với mức tăng mạnh. Đây là trục chủ đạo rõ nét nhất, phản ánh làn sóng đầu tư vào hạ tầng AI toàn cầu.
-- **SK Telecom (017670.KS)**: Hana Securities duy trì khuyến nghị Buy và giá mục tiêu 100.000 won, nhấn mạnh câu chuyện phục hồi lợi nhuận + cổ tức — không còn đơn thuần là cổ phiếu phòng thủ.
-- **Xây dựng & tái thiết Trung Đông**: Hyundai Engineering & Construction nhận nâng mục tiêu giá lên 240.000 won từ Hana Securities; nhóm thép và xây dựng được hỗ trợ bởi kỳ vọng tái thiết Trung Đông.
-
-**Trục yếu:**
-
-- **Biotech**: Tín hiệu liên tục từ các bản tin nội bộ là "thu hẹp biotech, nén IT/bán dẫn". Nhóm này kém hấp dẫn tương đối so với semiconductor.
-- **Cổ phiếu đuổi giá quá đà**: Nhiều cổ phiếu xây dựng và viễn thông dù tin tốt vẫn không giữ được VWAP trong phiên — tín hiệu cảnh báo chất lượng entry.
-
-**Dòng vốn ngoại**: Ngoại tệ dẫn dắt đà phục hồi của Samsung Electronics; dòng ngoại cũng đang gia tăng hiện diện trong nhóm bán dẫn và viễn thông cao cấp. SMP điện tăng +47% là tín hiệu đáng chú ý cho nhóm điện lực/ESS, dù chưa đến mức là điểm entry trực tiếp.
-
-**Kết luận:** Thị trường chứng khoán Hàn Quốc vận hành theo logic "nén — không mở rộng". Dẫn dắt đang thu hẹp về bán dẫn cốt lõi, viễn thông AI, và xây dựng chọn lọc. Không phải môi trường để mua đại trà.
+KOSPI đang giao dịch ở mức 6,091 điểm, tăng hơn 5% trong năm phiên gần nhất. KOSDAQ vượt trội hơn với mức tăng 7.1% cùng kỳ — cho thấy dòng tiền đang chấp nhận rủi ro ở cả hai sàn. VIX tại 18.2 phản ánh môi trường tâm lý được kiểm soát, không có áp lực hoảng loạn. Lợi suất trái phiếu Mỹ 10 năm đi ngang quanh 4.26%, DXY suy yếu nhẹ, và đồng won ổn định ở 1,477 — tổng thể là backdrop vĩ mô thuận lợi cho thị trường Hàn Quốc. Chênh lệch Bull (KR) versus Neutral (US) là tín hiệu rõ ràng ủng hộ phân bổ chọn lọc vào các lãnh đạo ngành tại KOSPI và KOSDAQ.
 
 ---
 
-## Phần 3: Screener Spotlight — Tích Lũy Im Lặng (Quiet Accumulation)
+## 2. Market Wrap
 
-*Dữ liệu ngày 2026-04-14 · Thứ Tư*
+> *Lưu ý: Bản tóm tắt phiên gần nhất hiện có là ngày 10/04/2026 — dữ liệu 15/04 sẽ được cập nhật khi đồng bộ.*
 
-**Phương pháp luận:** Screener này xác định các cổ phiếu mà nhà đầu tư nước ngoài đang âm thầm tích lũy *trước* khi breakout xảy ra — lọc theo vùng giao động giá hẹp (range ≤ 24%), khối lượng ổn định (vol_5d/vol_20d < 1,35), RSI trung tính (38–62), giá trên MA60, và tổng mua ròng ngoại 20 ngày dương. Mục tiêu: bắt tín hiệu "coil trước breakout", không phải đuổi sau khi đã tăng mạnh.
+**Đặc tính thị trường:** Risk-On chọn lọc — không phải broad rally toàn diện.
 
-Tổng cộng 84 ứng viên — 14 Tier A (coil chặt ≤ 12%), 37 Tier B, 33 Tier C.
+Phiên 10/04 là điển hình của thị trường **"cổ phiếu tốt trở nên tốt hơn"** — dòng tiền mạnh tập trung vào một số cụm chủ đạo cụ thể, trong khi phần lớn cổ phiếu còn lại không được hưởng lợi tương xứng. Nhiều setup đột phá buổi sáng thất bại sau khi quá nhiệt và không giữ được vùng VWAP — dấu hiệu thị trường phân hóa cao, không dung nạp momentum kém chất lượng.
 
-### Top 8 cổ phiếu nổi bật
+**Nhóm mạnh:**
 
-| # | Ticker | Tên | Sàn | Giá (₩) | Range% | RSI | Ngoại% | Δ20d | ROE | OPM | Score |
-|---|---|---|---|---:|---:|---:|---:|---:|---:|---:|---:|
-| 1 | `012450.KS` | Hanwha Aerospace | KOSPI | 1.523.000 | 20,4% | 60,4 | 45,5% | +0,83pp | 19,1% | 11,6% | **+1,82** |
-| 2 | `002140.KS` | Goryeo Industrial | KOSPI | 2.840 | 8,5% | 57,6 | 7,0% | +3,91pp | 8,4% | 4,6% | **+1,65** |
-| 3 | `025880.KQ` | KC Feed | KOSDAQ | 3.035 | 11,8% | 60,7 | 14,9% | +2,55pp | 13,7% | 10,0% | **+0,98** |
-| 4 | `017890.KQ` | Korea Alcohol | KOSDAQ | 12.130 | 17,7% | 61,3 | 14,2% | +2,19pp | 5,9% | 7,5% | **+0,69** |
-| 5 | `020000.KS` | Hansem | KOSPI | 23.700 | 21,6% | 52,1 | 21,4% | +2,23pp | 3,3% | 3,5% | **+0,63** |
-| 6 | `051160.KQ` | Giaso ft | KOSDAQ | 7.950 | 19,9% | 54,8 | 13,9% | +2,18pp | 8,8% | 4,3% | **+0,60** |
-| 7 | `147830.KQ` | Jeryong Industrial | KOSDAQ | 7.850 | 22,9% | 55,6 | 5,9% | +2,04pp | 13,9% | 27,9% | **+0,57** |
-| 8 | `002380.KS` | KCC Corporation | KOSPI | 542.000 | 20,1% | 55,5 | 16,6% | +1,28pp | 23,5% | 6,6% | **+0,54** |
+- **Bán dẫn & AI hardware**: Samsung Electro-Mechanics (009150.KS) và Samsung Electronics (005930.KS) dẫn dắt cụm này với sự hậu thuẫn từ cả ngoại tệ lẫn tổ chức. Narrative mở rộng ra hạ tầng viễn thông — nhóm cổ phiếu cáp quang, linh kiện RF, thiết bị 5G nổi lên liên tục trong các tín hiệu giao dịch nội ngày như một cụm phụ trợ của AI infrastructure.
+- **Viễn thông phòng thủ + tăng trưởng**: SK Telecom (017670.KS) được Hana Securities duy trì khuyến nghị Buy với giá mục tiêu 100,000 KRW, phản ánh kỳ vọng chuẩn hóa lợi nhuận và chính sách cổ tức — không đơn giản chỉ là cổ phiếu phòng thủ luân phiên.
+- **Xây dựng & tái thiết Trung Đông**: Hyundai E&C nhận Buy và nâng giá mục tiêu lên 240,000 KRW từ Hana Securities. NH Securities duy trì Positive cho ngành xây dựng với luận điểm tái thiết Trung Đông. Thép liên quan cũng được hưởng lợi từ cùng narrative.
+- **Điện lực & năng lượng**: SMP tăng vọt +47%, kỳ vọng đơn hàng ESS xuất hiện liên tục. Cụm này có câu chuyện cấu trúc hấp dẫn nhưng chưa đủ điểm trực tiếp tiếp xúc với portfolio chính.
 
-### Phân tích top 3 cổ phiếu
+**Nhóm yếu:**
 
-**1. Hanwha Aerospace (012450.KS) — Score +1,82 · Tier C**
+- **Biotech tổng thể**: Các bình luận thị trường liên tục kêu gọi *giảm tỷ trọng biotech, tập trung IT/bán dẫn linh kiện*. Sentiment tương đối kém so với các cụm chủ đạo.
+- **Đuổi giá quá nhiệt**: Ngay cả trong cụm xây dựng — vốn có tin tức rất tốt — nhiều cổ phiếu như Daewoo Construction cuối phiên không giữ được vùng hỗ trợ sau khi bùng giá sáng. Thị trường phạt mạnh các lệnh đuổi đà muộn.
 
-Tập đoàn quốc phòng và hàng không vũ trụ hàng đầu Hàn Quốc, sản xuất động cơ phản lực, hệ thống pháo tự hành K9, và đang mở rộng mạnh sang thị trường xuất khẩu vũ khí châu Âu. Doanh thu tăng trưởng +137,6% YoY và lợi nhuận hoạt động tăng +78,4% — nền tảng cực kỳ mạnh. Đây là cổ phiếu có điểm tổng hợp cao nhất trong toàn bộ 84 ứng viên. Ngoại khối đang nắm giữ 45,5% và tiếp tục mua thêm (+0,83pp trong 20 ngày) trong khi giá dao động coil 20%. Đây là tín hiệu tích lũy im lặng chất lượng cao — ngoại khối đang xây vị thế lớn trước khi câu chuyện xuất khẩu quốc phòng bùng nổ.
-
-**2. Goryeo Industrial (002140.KS) — Score +1,65 · Tier A**
-
-Doanh nghiệp vật liệu xây dựng và công nghiệp KOSPI quy mô vừa, đặc điểm nổi bật là vùng coil cực chặt chỉ 8,5% — tín hiệu tích lũy điển hình nhất trong screener. Dù tăng trưởng doanh thu âm nhẹ (-3,4% YoY), ngoại khối đã mua ròng mạnh nhất trong Tier A với mức tăng +3,91pp trong 20 ngày — con số bất thường với một cổ phiếu đang "đứng yên". Cấu trúc này thường xuất hiện trước khi có catalyst rõ ràng; đây là loại coil mà screener được thiết kế để săn tìm.
-
-**3. KC Feed (025880.KQ) — Score +0,98 · Tier A**
-
-Công ty thức ăn chăn nuôi KOSDAQ với nền tảng cơ bản tốt nhất trong Tier A: lợi nhuận hoạt động tăng +50,6% YoY, doanh thu +18,3% YoY, biên OPM 10% — hiếm có trong ngành này. RSI 60,7 gần chạm trần trung tính, khối lượng ổn định (vol ratio 0,96), và ngoại khối tăng +2,55pp. Đây là dạng "chất lượng âm thầm" — fundamental cải thiện rõ nhưng chưa được thị trường định giá lại. Nếu nhóm hàng tiêu dùng thiết yếu được luân chuyển vào, KC Feed là ứng viên phù hợp.
+**Tín hiệu dòng tiền:** Khối ngoại dẫn dắt phục hồi tại Samsung Electronics — đây là tín hiệu chất lượng, không phải rotation phòng thủ đơn thuần. Tổ chức phân hóa rõ: đồng hành với ngoại ở cụm bán dẫn/hạ tầng, bán mạnh ở cụm game và bio.
 
 ---
 
-*Bài viết này chỉ mang tính phân tích thị trường và thông tin. Không phải khuyến nghị đầu tư. Dữ liệu screener từ 2026-04-14; macro từ phiên sáng 2026-04-15.*
+## 3. Screener Spotlight: Quiet Accumulation — Tích Lũy Lặng Lẽ (Thứ Tư)
+
+**Phương pháp luận:** Screener này bắt đúng giai đoạn *trước breakout* — khi nhà đầu tư nước ngoài đang âm thầm xây dựng vị thế trong vùng sideway/coil, trước khi khối lượng bùng nổ. Không giống Smart Money Screener (nhận diện sau khi volume đã nổ), Quiet Accumulation tập trung vào cổ phiếu nén giá ổn định với dấu hiệu ngoại tích lũy kiên trì.
+
+*Dữ liệu: 2026-04-15 | 96 ứng cử viên | Tier A (range ≤12%): 26 | Tier B (12–18%): 39 | Tier C (18–24%): 15*
+
+### Top 10 — Xếp theo điểm tổng hợp
+
+| # | Ticker | Tên công ty | Sàn | Giá (KRW) | Range% | RSI | Ngoại% | Δ20d (pp) | ROE% | OPM% | Score |
+|---|--------|-------------|-----|-----------|--------|-----|--------|-----------|------|------|-------|
+| 1 | 012450.KS | 한화에어로스페이스 | KOSPI | 1,509,000 | 20.3 | 58.7 | 45.5 | +0.79 | 19.1 | 11.6 | +1.95 |
+| 2 | 002140.KS | 고려산업 | KOSPI | 2,805 | 8.4 | 54.9 | 7.6 | +4.48 | 8.4 | 4.6 | +1.61 |
+| 3 | 020000.KS | 한섬 | KOSPI | 23,900 | 18.4 | 53.1 | 21.5 | +2.48 | 3.3 | 3.5 | +0.81 |
+| 4 | 017890.KQ | 한국알콜 | KOSDAQ | 12,020 | 17.6 | 59.5 | 14.7 | +2.94 | 5.9 | 7.5 | +0.77 |
+| 5 | 147830.KQ | 제룡산업 | KOSDAQ | 8,020 | 14.1 | 58.1 | 6.1 | +2.04 | 13.9 | 27.9 | +0.64 |
+| 6 | 095570.KS | AJ네트웍스 | KOSPI | 5,080 | 8.0 | 49.1 | 6.3 | +0.97 | 6.3 | 6.7 | +0.48 |
+| 7 | 236200.KQ | 슈프리마 | KOSDAQ | 48,250 | 17.0 | 54.9 | 24.8 | +1.41 | 12.8 | 23.9 | +0.45 |
+| 8 | 002900.KS | TYM | KOSPI | 7,020 | 10.8 | 53.5 | 21.6 | +0.84 | 9.7 | 6.9 | +0.45 |
+| 9 | 014580.KS | 태경비케이 | KOSPI | 4,635 | 6.7 | 57.8 | 4.2 | +0.94 | 10.6 | 10.6 | +0.44 |
+| 10 | 014830.KS | 유니드 | KOSPI | 84,100 | 13.5 | 56.0 | 11.9 | +1.54 | 6.2 | 6.6 | +0.43 |
+
+### Phân tích Top 3
+
+**#1 — Hanwha Aerospace (012450.KS) | 1,509,000 KRW | Score: +1.95**
+
+Tập đoàn quốc phòng–hàng không lớn nhất Hàn Quốc, sản xuất động cơ phản lực, hệ thống vũ khí, và linh kiện hàng không vũ trụ. ROE 19.1% cùng doanh thu tăng trưởng YoY +137.6% phản ánh chu kỳ siêu tăng trưởng của ngành quốc phòng toàn cầu hậu 2022. Điều đáng chú ý là khối ngoại đang nắm giữ 45.5% vốn và *vẫn tiếp tục tích lũy thêm* (+0.79pp trong 20 ngày) dù giá đã ở vùng cao lịch sử — đây là conviction rõ ràng. Screener xếp vào Tier C (range 20.3%) nhưng dẫn đầu toàn bộ 96 ứng cử viên về điểm tổng hợp.
+
+**#2 — Goryeo Industrial (002140.KS) | 2,805 KRW | Score: +1.61**
+
+Nhà sản xuất vật liệu và linh kiện công nghiệp quy mô nhỏ tại KOSPI. Điểm nổi bật duy nhất nhưng rất sắc nét: **Δ20d = +4.48pp** — mức tăng tỷ lệ sở hữu ngoại tệ mạnh nhất trong toàn bộ Tier A. Giá dao động hẹp (8.4% range, RSI trung lập 54.9) cho thấy chưa có catalyst rõ ràng, nhưng dòng tiền ngoại đang hành động quyết đoán. Cơ sở kinh doanh ở mức trung bình (ROE 8.4%) — đây là bet thuần túy vào dòng tiền, không phải chất lượng nền tảng.
+
+**#3 — Handsome (020000.KS) | 23,900 KRW | Score: +0.81**
+
+Thương hiệu thời trang cao cấp thuộc tập đoàn Hyundai Department Store, vận hành các nhãn hàng như Time, System, SJSJ. Forward P/E chỉ 8x cho thấy định giá chiết khấu đáng kể trong khi khối ngoại tăng tỷ lệ sở hữu +2.48pp trong 20 ngày — mức tích lũy cao thứ hai toàn Tier C. Doanh thu ổn định, câu chuyện không ồn ào. Đây là nguyên mẫu cổ điển của Quiet Accumulation: giá nằm ngang, không có tin tức nổi bật, nhưng smart money đang xây dựng vị thế kiên nhẫn.
+
+---
+
+*Bản tin được tổng hợp từ dữ liệu macro, briefing thị trường, và screener nội bộ. Không phải khuyến nghị đầu tư.*
