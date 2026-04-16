@@ -1,89 +1,82 @@
 ---
-title: "Korea Daily Wrap 2026-04-16 : Régime Neutre, Sélectivité Maximale"
+title: "Korea Daily Wrap 16 Avr 2026 : Le Bull de Séoul s'affirme"
 date: 2026-04-16T16:30:00+09:00
 categories: ["daily-wrap"]
-tags: ["KOSPI", "Korea stocks", "Quality Compounder", "semi-conducteurs", "infrastructure télécom", "SK Hynix"]
+tags: ["KOSPI", "Korea stocks", "Quality Compounder", "semiconducteurs", "infrastructure telecom", "marche coreen", "screener"]
 slug: "kr-daily-wrap-2026-04-16"
-description: "KOSPI +3,3% sur 5j, régime Neutre KR/US. Marché sélectif dominé semi-conducteurs et télécom infra. Screener Quality Compounder : top 10 au 15 avril."
+description: "KOSPI +6,3% sur 5j en régime Bull, VIX à 18,2. Screener Quality Compounder : SK Square, Onconic Therapeutics, Saneun Electric en tête."
 draft: false
 ---
 
-## Tableau de Bord Macro
+## Tableau de Bord Macro — 16 Avril 2026
 
-| Indicateur | Niveau | Var. 5j | Signal |
+| Indicateur | Valeur | Var. 5j | Signal |
 |---|---|---|---|
-| KOSPI | 5 967,8 | +3,3% | Haussier |
-| KOSDAQ | 1 121,9 | +4,3% | Haussier |
-| VIX | 18,2 | −6,8% | Stable |
+| KOSPI | 6 226,1 | +6,3% | Haussier |
+| KOSDAQ | 1 163,0 | +6,3% | Haussier |
+| VIX | 18,2 | −5,2% | Stable |
 | US 10Y | 4,28% | −0,01 pt | Neutre |
-| DXY | 98,0 | −0,6% | Faible |
-| USD/KRW | 1 475 | +0,1% | Stable |
-| Brent | 94,7 $ | −0,6% | Stable |
+| USD/KRW | 1 475 | +0,1% | Neutre |
+| Brent | 95,6 $ | −3,7% | Baisse |
 
-**Verdict de régime :** KR `Neutre` · US `Neutre` · Stance recommandée : *Maintien sélectif*. La détente du VIX (−6,8% sur cinq séances) et le recul du dollar offrent un contexte macro favorable, mais les deux marchés restent à mi-chemin entre bull confirmé et consolidation — discipline de sélection requise.
-
----
-
-## Synthèse de Marché
-
-*(Données : séance du 10 avril 2026)*
-
-La séance a affiché un profil **Risk-On sélectif**, franchement au-dessus du régime Neutre matinal, mais sans la diffusion caractéristique d'un bull marché généralisé. Les flux se sont concentrés sur trois axes — semi-conducteurs/AI hardware, infrastructure télécom et construction/reconstruction Moyen-Orient — pendant que le reste du marché sous-performait ou décochait après une ouverture en sur-achat.
-
-**Semi-conducteurs & AI Hardware — axe dominant**
-
-Samsung Electro-Mechanics (009150.KS) et Samsung Electronics (005930.KS) ont animé la hausse côté mégacaps, portés par la continuité des achats étrangers et l'amélioration des tendances de prix. En marge de la chaîne de valeur, les composants d'infrastructure télécom ont capté les flux les plus dynamiques : RF Materials, Daehan Optical Communications, Solid, RFHIC et KMW ont tous progressé à deux chiffres. RF Materials a bondi de +22,5% en séance, signalant un élargissement de la thématique IA vers les composants RF et le réseau de transmission — une rotation à surveiller sur plusieurs séances.
-
-**Télécommunications défensives — qualité confirmée**
-
-SK Telecom (017670.KS) s'est distingué comme valeur hybride : protection défensive combinée à des catalyseurs de résultats tangibles. La maison Hana Securities a maintenu son objectif à 100 000 KRW (Buy) en soulignant un T1 2026 supérieur aux attentes et des perspectives de dividende normalisées. La hausse n'est donc pas un simple arbitrage défensif : elle intègre désormais une révision haussière de bénéfices.
-
-**Construction & Reconstruction — newsflow fort, exécution délicate**
-
-L'axe BTP/acier a bénéficié des actualités sur la reconstruction post-conflit régional. Hyundai Engineering & Construction a reçu une révision à la hausse d'objectif (240 000 KRW, Buy, Hana) intégrant l'accélération des projets Moyen-Orient. Cependant, les tentatives d'entrée intrajournalières sur Daewoo E&C et d'autres constructeurs ont majoritairement échoué à maintenir le VWAP — rappel que le flux d'actualités ne valide pas seul un point d'entrée tactique.
-
-**Biotech — axe sous-performant**
-
-Le secteur biopharma a été relégué au second plan pour la deuxième séance consécutive. Plusieurs commentaires institutionnels ont recommandé explicitement de réduire l'exposition biotech au profit de l'IT/semi-conducteurs. Sans catalyseurs de résultats imminents, les titres ont subi des prises de bénéfices systématiques.
-
-**Lecture de flux**
-
-Les étrangers ont maintenu des achats nets sur les semi-conducteurs blue chip. Les institutionnels ont été sélectifs, accompagnant les leaders sans s'aventurer sur les suiveurs. La dynamique de la journée se résume ainsi : *les bonnes valeurs deviennent meilleures, le reste stagne*. Le mot d'ordre pour les séances suivantes : **compression sur les leaders, zéro poursuite des cassures tardives.**
+**Verdict de régime :** Corée en **Bull** (transition confirmée le 15 avril), États-Unis en **Neutral**. L'écart de régime KR/US plaide pour une exposition sélective accrue sur les valeurs coréennes. La détente du VIX et la faiblesse du pétrole constituent un environnement porteur pour les actifs risqués de la péninsule.
 
 ---
 
-## Screener du Jour : Quality Compounder
+## Bilan de Séance — Marché Coréen
 
-*(Données : 15 avril 2026 · Univers KR : 2 724 titres · Passage des filtres : 139 · Score moyen top-20 : 0,911)*
+La séance du 10 avril sur le marché actions coréen a affiché un profil **Risk-On sélectif**, nettement au-delà du signal macro matinal (qui restait en mode Neutral prudent). Le KOSPI et le KOSDAQ ont progressé dans un environnement de flux concentrés — non pas une marée montante qui soulève tous les bateaux, mais une rotation ciblée vers quelques thèmes porteurs.
 
-**Méthodologie :** Le screener *Quality Compounder* identifie les entreprises cumulant ROE élevé, marges opérationnelles solides, bilan sain et dynamique de croissance des revenus — puis ne retient que celles dont la tendance de prix et la liquidité confirment l'intérêt institutionnel actif. En régime BULL confirmé, c'est l'outil de choix pour isoler des compounder à fort momentum de qualité.
+**Axes forts de la séance**
 
-### Top 10 — Quality Compounder (15 avr. 2026)
+Les **semi-conducteurs et l'infrastructure IA** ont dominé les échanges. Samsung Electro-Mechanics et Samsung Electronics ont attiré des flux institutionnels et étrangers solides, le tout soutenu par un récit d'expansion de la chaîne de valeur AI hardware + infrastructure télécom. Dans le segment des équipements télécom RF, les valeurs comme Daehan Optical Communications, Solid, RFHIC et KMW ont fait l'objet de mentions répétées dans les flux intrajournaliers, cristallisant le thème de l'infrastructure 5G/AI comme axe directeur du jour.
 
-| # | Ticker | Nom | Score | RS %ile | ROE (%) | Mg. Op. (%) | Croiss. CA YoY | PER |
-|---|---|---|---|---|---|---|---|---|
-| 1 | 402340.KS | SK Square | 0,966 | 98,5 | 37,8 | 84,1 | +77,8% | 10,0× |
-| 2 | 476060.KQ | Onconics Therapeutics | 0,961 | 88,5 | 24,7 | 23,6 | +260,8% | 63,4× |
-| 3 | 006910.KS | Bosung Powertech | 0,932 | 95,8 | 20,3 | 18,2 | +91,3% | 25,2× |
-| 4 | 062040.KQ | Sanilec | 0,930 | 93,4 | 29,2 | 35,6 | +50,3% | 39,7× |
-| 5 | 039200.KQ | Oscotec | 0,927 | 79,3 | 33,9 | 52,2 | +193,5% | 41,8× |
-| 6 | 058470.KQ | Leeno Industrial | 0,922 | 93,5 | 22,5 | 47,5 | +33,9% | 56,6× |
-| 7 | 005690.KQ | Pharmicell | 0,919 | 79,4 | 38,3 | 30,1 | +75,8% | 26,7× |
-| 8 | 307930.KQ | Company K | 0,911 | 83,8 | 9,3 | 45,2 | +43,0% | 19,6× |
-| 9 | 420770.KQ | Gigabis | 0,910 | 96,4 | 7,4 | 23,1 | +100,8% | 71,2× |
-| 10 | 000660.KS | SK Hynix | 0,907 | 97,6 | 44,2 | 48,6 | +46,8% | 19,3× |
+Le secteur **télécom défensif** a également brillé : SK Telecom a bénéficié d'un double catalyseur — opinion d'achat maintenue par Hana Securities avec un objectif de 100 000 KRW — combinant défense de bilan, normalisation des résultats et attentes de dividende.
 
-### Focus Top 3
+Le thème **construction/reconstruction Moyen-Orient** a généré du bruit : Hyundai Engineering & Construction a vu son objectif de cours relevé à 240 000 KRW par Hana Securities. Les valeurs sidérurgiques ont suivi. Toutefois, plusieurs setups intrajournaliers (Daewoo Construction notamment) n'ont pas tenu leurs niveaux VWAP — signe que le news flow est porteur mais que le timing d'entrée reste délicat.
 
-**SK Square (402340.KS) — Score 0,966 · #1**
-Holding technologique du groupe SK, SK Square (402340.KS) détient notamment une participation majeure dans SK Hynix (000660.KS) et des actifs dans les semi-conducteurs de conception (design). Avec un PER de seulement 10×, une marge opérationnelle de 84% et un ROE de 38%, le titre affiche une décote de conglomérat substantielle par rapport à la valeur de ses actifs sous-jacents. Un ratio dette/actifs de 9% et une croissance du CA de +77,8% complètent un profil fondamental rarissime sur le KOSPI.
+Le secteur **énergie/électricité** a suscité de l'intérêt après une hausse de +47% du SMP (prix spot de l'électricité), avec des attentes de commandes ESS en soutien. Thème structurellement valide, mais sans déclencheur immédiat sur les valeurs directement liées.
 
-**Onconics Therapeutics (476060.KQ) — Score 0,961 · #2**
-Acteur de R&D oncologique coté sur le KOSDAQ, Onconics Therapeutics (476060.KQ) affiche une croissance de revenus de +261% en glissement annuel, signalant une transition avancée de la phase préclinique vers la génération de revenus commerciaux. Le faible endettement (5,1%) et le ROE de 24,7% distinguent ce nom des biotechs à forte consommation de trésorerie. La présence dans le screener *Quality Compounder* — et non dans un screener momentum pur — indique une solidité bilancielle atypique pour le segment.
+**Axes faibles**
 
-**Bosung Powertech (006910.KS) — Score 0,932 · #3**
-Fabricant de structures métalliques industrielles et d'équipements de génération vapeur, Bosung Powertech (006910.KS) s'inscrit directement dans la thématique énergie/infrastructure qui domine les flux coréens depuis plusieurs semaines. Une croissance du CA de +91% YoY et un RS au 95e percentile indiquent une accélération structurelle — non un rebond conjoncturel. À 25× les bénéfices avec un ROE de 20% et des marges en expansion, la valorisation reste raisonnable pour ce profil de croissance dans l'infrastructure.
+Le **secteur biotech** a sous-performé en relatif. Les flux ont clairement privilégié la rotation vers IT/semi-conducteurs au détriment des valeurs pharmaceutiques. Les achats étrangers et institutionnels se sont concentrés sur les leaders établis plutôt que sur les poursuites de thèmes secondaires.
+
+**Lecture de synthèse :** Une séance de compression, non de diffusion. Les leaders se sont renforcés, les suiveurs ont décroché. Le cadre pour les prochains jours reste : maintien des positions core sur les axes forts, abstention sur les poursuites tardives.
 
 ---
 
-*Sources : macro-regime (16 avril 2026, session matinale) · kr-close-briefing (10 avril 2026) · screener Quality Compounder (15 avril 2026). Contenu fourni à titre informatif uniquement, ne constitue pas un conseil en investissement.*
+## Screener du Jour : Quality Compounder — Jeudi
+
+### Méthodologie
+
+Le screener **Quality Compounder** filtre l'univers coréen de 2 723 valeurs selon un score composite croisant ROE, marges opérationnelles, taux de croissance des revenus et niveau d'endettement — puis n'admet que les candidats dont la tendance de prix et la liquidité sont suffisantes pour une entrée opérationnelle. Aujourd'hui, 154 valeurs ont passé les filtres, pour un score moyen top-20 de 0,911. Le régime de marché BULL renforce la pertinence de ce filtre : les compounders de qualité tendent à surperformer en phase d'expansion.
+
+### Top 10 — Quality Compounder (16 Avr 2026)
+
+| Rang | Ticker | Nom | Secteur | Score | RS %ile | ROE (%) | Marge op. (%) | Croiss. CA (%) | PER |
+|---|---|---|---|---|---|---|---|---|---|
+| 1 | 402340.KS | SK Square | Financier (holding) | 0,966 | 98,8 | 37,8 | 84,1 | +77,8 | 10,4x |
+| 2 | 476060.KQ | Onconic Therapeutics | R&D biomédicale | 0,961 | 89,0 | 24,7 | 23,6 | +260,8 | 66,2x |
+| 3 | 006910.KS | Boseong Power Tech | Structures métalliques | 0,933 | 96,4 | 20,3 | 18,2 | +91,3 | 25,8x |
+| 4 | 062040.KS | Saneun Electric | Équip. électriques | 0,929 | 92,2 | 29,2 | 35,6 | +50,3 | 38,6x |
+| 5 | 039200.KQ | Oscotec | Pharma | 0,926 | 79,3 | 33,9 | 52,2 | +193,5 | 41,4x |
+| 6 | 005690.KS | Pharmicell | Biosubstances | 0,924 | 83,6 | 38,3 | 30,1 | +75,8 | 28,9x |
+| 7 | 058470.KS | Leeno Industrial | Composants électroniques | 0,922 | 93,5 | 22,5 | 47,5 | +33,9 | 57,7x |
+| 8 | 307930.KQ | Company K | Financier | 0,912 | 84,9 | 9,3 | 45,2 | +43,0 | 20,2x |
+| 9 | 420770.KQ | Gigabis | Machines spécialisées | 0,910 | 96,0 | 7,4 | 23,1 | +100,8 | 70,9x |
+| 10 | 000660.KS | SK Hynix | Semi-conducteurs | 0,907 | 97,9 | 44,2 | 48,6 | +46,8 | 19,6x |
+
+### Focus sur les 3 premiers
+
+**#1 — SK Square (402340.KS)**
+Holding technologique né du spin-off de SK Telecom en 2021, SK Square détient des participations dans SK Hynix, ID Quantum (cybersécurité), et plusieurs actifs digitaux. Sa marge opérationnelle de 84,1% reflète la nature quasi-pure-holding de son modèle. Avec un ROE de 37,8% et une dette nette quasi-nulle (ratio d'endettement de 9%), la valeur combine qualité de bilan et exposition indirecte à l'écosystème semi-conducteur coréen. Le PER de 10,4x reste faible au regard des actifs sous-jacents — la décote de holding est le principal levier de réévaluation.
+
+**#2 — Onconic Therapeutics (476060.KQ)**
+Spin-off de Hanmi Pharmaceutical spécialisé dans l'oncologie, Onconic affiche une croissance de revenus explosive à +260,8% en glissement annuel, portée par des accords de licence et des avancées en phase clinique sur plusieurs molécules ciblées. Son score compounder de 0,973 — le plus élevé du top 20 — témoigne d'une dynamique fondamentale rare dans le secteur biotech coréen. Le PER de 66x intègre des attentes de croissance élevées ; la valeur convient aux investisseurs avec horizon moyen terme et tolérance à la volatilité sectorielle.
+
+**#3 — Boseong Power Tech (006910.KS)**
+Fabricant de structures métalliques et d'équipements pour centrales électriques, Boseong Power Tech s'inscrit à l'intersection du thème énergie/électricité et de la reconstruction d'infrastructures. Sa croissance de CA à +91,3% et son RS au 96e percentile signalent une accélération récente des commandes. La faible valorisation relative (PER 25,8x) combinée à un ROE de 20% en fait un profil plus accessible que les pure-plays technologiques du screener — et potentiellement moins exposé aux révisions de multiples.
+
+---
+
+*Données screener au 16 avril 2026, 16h08 KST. KR Close Briefing basé sur la séance du 10 avril 2026. Ce document est fourni à titre informatif uniquement et ne constitue pas un conseil en investissement.*
