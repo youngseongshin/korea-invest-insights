@@ -32,4 +32,50 @@ Allow: /
 User-agent: cohere-ai
 Allow: /
 
+# ── Chinese / Russian Search Engines: Explicitly Allowed ──
+User-agent: Baiduspider
+Allow: /
+
+User-agent: Baiduspider-image
+Allow: /
+
+User-agent: Baiduspider-news
+Allow: /
+
+User-agent: Baiduspider-video
+Allow: /
+
+User-agent: Sogou web spider
+Allow: /
+
+User-agent: Sogou inst spider
+Allow: /
+
+User-agent: Sogou spider2
+Allow: /
+
+User-agent: 360Spider
+Allow: /
+
+User-agent: HaosouSpider
+Allow: /
+
+User-agent: YisouSpider
+Allow: /
+
+User-agent: YandexBot
+Allow: /
+
+User-agent: YandexImages
+Allow: /
+
+User-agent: NaverBot
+Allow: /
+
+User-agent: Yeti
+Allow: /
+
+User-agent: DaumoaBot
+Allow: /
+
 Sitemap: {{ .Site.BaseURL }}sitemap.xml
