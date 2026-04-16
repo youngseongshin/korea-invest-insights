@@ -5,6 +5,7 @@ defaultContentLanguage = "es"
 hasCJKLanguage = true
 enableRobotsTXT = true
 enableGitInfo = true
+buildFuture = true  # 장마감 브리핑(16:30 KST) 등 발행 시각보다 살짝 뒤 date 포스트도 빌드
 
 [sitemap]
   changefreq = "daily"
