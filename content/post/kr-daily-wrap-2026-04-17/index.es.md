@@ -1,76 +1,90 @@
 ---
-title: "Korea Daily Wrap 2026-04-17: Compresión Selectiva en Bull Market"
+title: "Korea Daily Wrap 2026-04-17: Bull Doble con Compresión en Líderes"
 date: 2026-04-17T16:30:00+09:00
 categories: ["daily-wrap"]
-tags: ["KOSPI", "Korea stocks", "mercado coreano", "infraestructura telecom", "Market Discovery", "semiconductores", "bull market"]
+tags: ["KOSPI", "Korea stocks", "Market Discovery", "semiconductores Korea", "infraestructura telecom", "bull market Korea", "KOSDAQ"]
 slug: "kr-daily-wrap-2026-04-17"
-description: "KOSPI en 6.091 con régimen Neutral/Bull: infraestructura telecom y semiconductores lideran; screener Market Discovery destaca RS extremos."
+description: "KOSPI en 6.192 con régimen Bull doble (KR+US): semiconductores e infraestructura telecom lideran; screener Market Discovery detecta 108 candidatos."
 draft: false
 ---
 
-## Macro Dashboard
+## Panel Macro
 
-| Indicador | Valor | Cambio 5D | Señal |
-|-----------|-------|-----------|-------|
-| KOSPI | 6.091,4 | +4,0% | ↑ Alcista |
-| KOSDAQ | 1.152,4 | +5,4% | ↑ Alcista |
-| VIX | 17,9 | −6,7% | ✅ Estable |
-| US 10Y | 4,31% | −0,01 pp | → Plano |
-| USD/KRW | 1.474 | −0,6% | → Estable |
-| Brent | $98,2 | −1,2% | → Neutro |
+| Indicador | Valor actual | Cambio 5 sesiones | Señal |
+|-----------|-------------|-------------------|-------|
+| KOSPI | 6.191,9 | +6,6% | Alcista |
+| KOSDAQ | 1.170,0 | +6,4% | Alcista |
+| VIX | 18,0 | −5,8% | Estable |
+| USD/KRW | 1.480 | −0,2% | Neutral |
+| US 10Y | 4,31% | −0,01 pp | Neutral |
+| DXY | 98,1 | −0,3% | Neutral |
+| Brent | 96,2 USD | −3,1% | Presión bajista |
 
-**Veredicto de régimen:** Corea en **Neutral**, EE.UU. en **Bull**. La divergencia KR/US sugiere ampliar selectivamente exposición a mercado estadounidense. KOSPI acumula +4% en cinco sesiones; la moderación del VIX y el retroceso del won frente al dólar refuerzan un entorno de riesgo contenido pero sin catalizador suficiente para que Corea escale a Bull pleno.
+**Veredicto de régimen:** KR = **Bull** · US = **Bull** · Stance = Expansión agresiva
+
+Régimen Bull en Korea desde el 15 de abril (día 2 de continuidad). La amplitud técnica es sólida: el 64,5% del universo cotiza sobre su media de 50 sesiones y el 60,2% sobre la de 200. El dólar débil y el petróleo a la baja componen un entorno macro favorable para activos de riesgo en mercados emergentes asiáticos.
 
 ---
 
-## Resumen de Mercado
+## Resumen de Mercado *(fuente: sesión del 10 de abril — datos más recientes disponibles)*
 
-La sesión del 10 de abril en el mercado de valores de Corea del Sur no fue una subida de marea que levantara todos los barcos: fue un **rally de compresión selectiva**. El régimen macro abría la jornada en Neutral, con el VIX estable y el USD/KRW en descenso de cinco días, lo que dibujaba un entorno de menor estrés sin euforia. El resultado fue un mercado donde las mejores ideas ganaron con fuerza y el resto quedó rezagado.
+La jornada en el mercado coreano de acciones tuvo un perfil claro de **riesgo activo pero selectivo**: no fue un rally de amplitud uniforme, sino una concentración agresiva de capital en tres ejes temáticos bien definidos, mientras la mayoría de candidatos secundarios no logró defender el VWAP ni los niveles de referencia intradía.
 
-**Sectores fuertes.** Infraestructura de telecomunicaciones e IA hardware concentraron el grueso del flujo comprador. Daehankwangtong, Solide, RFHIC y KMW repitieron en los radares de alerta temprana a lo largo de toda la jornada. Samsung Electro-Mechanics (009150.KS) encabezó el segmento de componentes con soporte simultáneo de institucionales y extranjeros, confirmando que la fortaleza no era un rebote aislado sino parte de la rotación de capital dentro de la cadena de valor de semiconductores/AI. SK Telecom (017670.KS) combinó su rol defensivo clásico con catalizadores de resultados y dividendo: Hana Securities mantuvo recomendación Compra con objetivo de 100.000 won, apuntando a una normalización de márgenes en el primer trimestre.
+**Sectores y temas con flujo positivo**
 
-El subsector de **construcción y reconstrucción de Oriente Medio** generó titulares positivos —Hana Securities elevó el objetivo de Hyundai E&C a 240.000 won; NH mantuvo perspectiva Positiva sobre el sector— pero la ejecución intradía fue irregular. Daewoo Engineering & Construction y otras constructoras no lograron sostener precios sobre VWAP tras la apertura alcista, clasificándolas como "buena tesis, mal timing".
+- **Semiconductores / Hardware AI**: Samsung Electro-Mechanics (009150.KS) y Samsung Electronics (005930.KS) encabezaron la narrativa. La fortaleza no se limitó a los megacaps: el dinero migró por toda la cadena de valor, desde diseño de chips hasta componentes pasivos de alta frecuencia. La presencia de RF Materials y fabricantes de equipos de semiconductores como Tes en los screeners confirma que se trata de rotación dentro del sector, no de un movimiento aislado en uno o dos nombres.
+- **Infraestructura de telecomunicaciones**: Daekwang Optical (대한광통신), Solid (쏠리드), RFHIC y KMW registraron entradas de capital sostenidas a lo largo de la sesión. El patrón sugiere que el mercado está ampliando la tesis AI de los grandes semiconductores hacia la capa de transmisión y hardware de red 5G/AI.
+- **Construcción / Reconstrucción Oriente Medio**: Daewoo E&C (047040.KS) lideró el tema, respaldado por upgrade de cobertura de Hana Securities sobre Hyundai E&C (Buy, objetivo 240.000 KRW) y nota sectorial positiva de NH Investment. El momentum es real, pero la mayoría de candidatos del subsector no sostuvo los niveles de entrada intradía —señal de que el tema tiene validez narrativa pero el timing de entrada sigue siendo exigente.
+- **Energía / Electricidad**: El SMP (precio del sistema de energía) repuntó un 47% en el período analizado, generando interés especulativo en generadoras privadas y empresas de ESS. Tema en observación; sin catalizador de corto plazo definitivo.
 
-**Electricidad/Energía** ganó atención gracias a un SMP con subida del +47% y noticias de adjudicaciones de ESS, aunque sin exposición directa suficiente en las carteras de referencia para activar señales de entrada.
+**Sectores con flujo negativo o relativo débil**
 
-**Flujos institucionales y extranjeros.** El patrón dominante fue acumulación extranjera en Samsung Electronics (005930.KS) y compra institucional en Samsung Electro-Mechanics. En el lado vendedor, Pearl Abyss (263750.KS) registró presión institucional continuada, el punto más débil de la sesión. Biofarma en general perdió relevancia relativa frente a IT/semiconductores, con varios comentarios de analistas sugiriendo reducir ponderación sectorial.
+- **Biotecnología** en general perdió relevancia relativa; el capital institucional se reposicionó claramente desde biofarma hacia IT y componentes semiconductores.
+- Candidatos de momentum tardío que rompieron referencias técnicas sin volumen de continuación —los llamados "chasers"— terminaron la sesión por debajo del nivel de entrada.
 
-La lectura de mercado para las próximas sesiones: **mantener líderes, no perseguir rezagados**.
+**Flujos institucionales y extranjeros**
+
+Los extranjeros sostuvieron compras netas en Samsung Electronics con señales de continuidad. El institucional mostró ventas en nombres especulativos y acumulación en semiconductores de calidad. El patrón dominante: **los buenos nombres se vuelven más buenos**, rotación compresiva, no expansión indiscriminada del mercado coreano.
 
 ---
 
 ## Screener Spotlight: Market Discovery (Viernes)
 
-*Datos del screener: 2026-04-16. El screener Market Discovery identifica líderes de momentum con mayor RS (Relative Strength percentil a 1 año) y señales de volumen extraordinario, filtrando entre los 106 valores que superan los criterios de régimen Bull.*
+> **Metodología**: El screener *Market Discovery* identifica los líderes de momentum del mercado coreano filtrando por RS Percentil (fuerza relativa a 1 año sobre el universo completo), RSI, isogage (distancia porcentual sobre media de largo plazo) y ratio de volumen relativo. El objetivo es detectar candidatos con breakout consolidado o potencial de ruptura en entornos de mercado alcista. Se ejecuta cada viernes.
 
-**Estado del mercado:** FTD Day 12 · Régimen BULL (Score 100/100) · 106 valores aprobados (KOSPI 54 / KOSDAQ 52)
+**Estado del screener a 2026-04-17:** BULL 100/100 · FTD Day 13 · **108 valores aprobados** (54 KOSPI + 54 KOSDAQ)
 
-### Top 10 por RS Percentil (Líderes de largo plazo)
+### Top 6 por RS Percentil
 
-| # | Empresa | Ticker | Precio | RS | RSI | Isodesv. |
-|---|---------|--------|--------|----|-----|----------|
-| 1 | 우리로 (Woori-ro) | 046970.KQ | 14.200₩ | 99,9 | 89,2 | 180,7% |
-| 2 | RF머트리얼즈 (RF Materials) | — | 96.200₩ | 99,8 | 66,0 | 125,7% |
-| 3 | 대우건설 (Daewoo E&C) | 047040.KS | 28.600₩ | 99,8 | 78,3 | 144,1% |
-| 4 | 에이치엠넥스 (HMnex) | — | 6.400₩ | 99,6 | 63,4 | 120,7% |
-| 5 | 미래에셋벤처투자 (Mirae Asset Venture) | 214490.KQ | 38.700₩ | 99,6 | 70,0 | 134,0% |
-| 6 | — | — | 91.500₩ | 99,5 | 67,8 | 120,4% |
-| 7 | — | — | 10.970₩ | 99,3 | 65,1 | 123,2% |
-| 8 | — | — | 71.300₩ | 99,2 | 58,1 | 108,7% |
-| 9 | — | — | 93.400₩ | 98,9 | 60,0 | 108,9% |
-| 10 | 삼성전기 (Samsung Electro-Mech.) | 009150.KS | 690.000₩ | 98,8 | 66,6 | 123,6% |
+| # | Empresa | Ticker | Precio | Var. día | RS | RSI | Isogage |
+|---|---------|--------|--------|----------|----|-----|---------|
+| 1 | Sungho Electronics 성호전자 | 043260.KQ | 52.500 ₩ | +5,3% | 100,0 | 61,6 | 115,2% |
+| 2 | RF Materials RF머트리얼즈 | — | 100.900 ₩ | +4,9% | 99,8 | 68,1 | 129,5% |
+| 3 | Daewoo E&C 대우건설 | 047040.KS | 28.700 ₩ | +0,3% | 99,8 | 78,4 | 141,2% |
+| 4 | HM Nexus 에이치엠넥스 | — | 7.700 ₩ | +20,3% | 99,7 | 70,5 | 141,5% |
+| 5 | Mirae Asset Venture 미래에셋벤처투자 | — | 46.300 ₩ | +19,6% | 99,6 | 76,9 | 154,0% |
+| 6 | Aju IB Investment 아주IB투자 | 027360.KQ | 11.930 ₩ | +8,8% | 99,3 | 68,7 | 130,6% |
 
-### Contexto de los tres primeros
+### Top 4 por Volumen Absoluto
 
-**1. 우리로 (046970.KQ) — RS 99,9 · RSI 89,2 · Isodesv. 180,7%**
-Fabricante de componentes de fibra óptica y cableado especializado. Lidera el screener por margen absoluto: RS en máximo histórico, RSI rozando sobrecompra extrema y precio un 80% por encima de su media de 200 sesiones. La señal no es de entrada inmediata —el estiramiento es excesivo— sino de confirmación de que la infraestructura óptica doméstica está en régimen de momentum puro. Sesión sin volumen registrado sugiere revisar liquidez antes de cualquier posición.
+| Empresa | Ticker | Precio | Var. día | Volumen |
+|---------|--------|--------|----------|---------|
+| Gigalane 기가레인 | 049080.KQ | 2.600 ₩ | +30,0% | 79,1 M acc. |
+| Gwangjeonja 광전자 | 017900.KQ | 13.810 ₩ | +7,1% | 59,5 M acc. |
+| LabGenomics 랩지노믹스 | 084650.KQ | 1.803 ₩ | +18,4% | 45,4 M acc. |
+| Aju IB Investment 아주IB투자 | 027360.KQ | 11.930 ₩ | +8,8% | 40,2 M acc. |
 
-**2. RF머트리얼즈 (RF Materials) — RS 99,8 · RSI 66,0 · Vol 357.529**
-Proveedor de materiales y componentes RF para infraestructura de telecomunicaciones 5G/AI. Subió un +22,5% el día anterior con volumen notable, posicionándose como proxy directo del ciclo de inversión en redes. RSI moderado respecto a su RS sugiere que el momentum no está sobrecomprado aún. Sin embargo, tras el salto vertical, la estrategia correcta es esperar retroceso a soporte con confirmación de volumen antes de iniciar posición.
+### Contexto: los tres nombres más destacados
 
-**3. 대우건설 (Daewoo E&C · 047040.KS) — RS 99,8 · RSI 78,3 · Isodesv. 144,1%**
-Una de las principales constructoras de Corea, con cartera significativa en proyectos de Oriente Medio. La narrativa de reconstrucción post-conflicto impulsa el RS, pero como se detalla en el resumen de mercado, la acción no sostuvo VWAP intradía. La tesis es sólida a medio plazo; la entrada táctica requiere consolidación adicional.
+**1 · Sungho Electronics (043260.KQ) — RS 100,0**
+Fabricante de componentes electrónicos pasivos (resistencias de chip, condensadores) orientado a la cadena de semiconductores y electrónica industrial. Un RS de 100 implica liderazgo absoluto de fuerza relativa sobre el universo completo de valores coreanos. Lo técnicamente relevante: el RSI de 61,6 no está sobrecomprado y el isogage del 115% sobre la media indica que el movimiento no está extendido en exceso. En un entorno Bull con FTD Day 13, este perfil es el arquetipo del "líder tranquilo" del screener.
+
+**2 · RF Materials RF머트리얼즈 — RS 99,8**
+Proveedor de materiales y componentes para equipos de radiofrecuencia, con posicionamiento directo en la cadena de suministro 5G y AI infrastructure. Su presencia simultánea en el screener y en los flujos de mercado del día confirma coherencia temática: el mismo capital que compra grandes semiconductores está comprando la cadena de RF/telecom. El RSI de 68,1 está elevado pero no en zona de agotamiento. **Caveat**: el isogage del 129,5% y la subida acumulada reciente aconsejan esperar pullback con confirmación de volumen antes de entrada.
+
+**3 · Daewoo E&C (047040.KS) — RS 99,8**
+Uno de los principales contratistas de ingeniería y construcción de Corea del Sur, con cartera de proyectos en Oriente Medio y creciente exposición al ciclo de reconstrucción post-conflicto. El respaldo de cobertura de Hana y NH esta semana da credibilidad fundamental a la fuerza relativa. El RSI de 78,4 y el isogage de 141,2% señalan **sobrecompra técnica relevante** —el tema es válido, pero el nivel de entrada actual exige disciplina de timing.
 
 ---
 
-*Este análisis es de carácter informativo y no constituye recomendación de inversión. Los datos de mercado corresponden a la sesión del 2026-04-16.*
+**Señal de régimen del screener**: Con 108 valores superando los filtros, FTD Day 13 y score perfecto de 100/100, el mercado coreano confirma fase Bull activa y madura. La distribución paritaria KOSPI/KOSDAQ (54/54) señala amplitud real más allá de los grandes caps. El playbook del viernes: compresión en líderes de calidad con RS alto y RSI no sobrecomprado, cautela ante nombres con isogage superior al 140%.

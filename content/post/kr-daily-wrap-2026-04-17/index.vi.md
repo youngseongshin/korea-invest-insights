@@ -1,83 +1,100 @@
 ---
-title: "Korea Daily Wrap 17/04/2026: Thị Trường Chọn Lọc, Dẫn Đầu Bởi Hạ Tầng AI"
+title: "Korea Daily Wrap 17/04/2026: BULL Toàn Thị Trường, Dẫn Dắt Bởi Hạ Tầng AI"
 date: 2026-04-17T16:30:00+09:00
 categories: ["daily-wrap"]
-tags: ["KOSPI", "Korea stocks", "Market Discovery", "thông tin hạ tầng", "bán dẫn", "Vietnam investor", "kr-daily-wrap"]
+tags: ["KOSPI", "Korea stocks", "Market Discovery", "viễn thông hạ tầng", "bán dẫn", "bull market", "KOSDAQ"]
 slug: "kr-daily-wrap-2026-04-17"
-description: "KOSPI 6.091 điểm, thị trường Hàn Quốc phân hóa mạnh: hạ tầng AI/thông tin dẫn sóng, bất động sản xây dựng cảnh giác. Screener Market Discovery nổi bật."
+description: "KOSPI +6.6% trong 5 ngày, chế độ BULL xác nhận. Screener Market Discovery dẫn đầu bởi Sungho Electronics, RF Materials trong phiên 17/04."
 draft: false
 ---
 
-## Bảng Macro (17/04/2026)
+## Macro Dashboard — 17/04/2026
 
-| Chỉ số | Hiện tại | Thay đổi 5 ngày | Tín hiệu |
-|---|---|---|---|
-| **KOSPI** | 6.091,4 | +4,0% | Tăng mạnh |
-| **KOSDAQ** | 1.152,4 | +5,4% | Tăng mạnh |
-| **USD/KRW** | 1.474 | -0,6% | Ổn định |
-| **VIX** | 17,9 | -6,7% | Rủi ro thấp |
-| **US 10Y** | 4,31% | -0,01 | Trung tính |
-| **Brent** | 98,2 USD | -1,2% | Ổn định |
+| Chỉ số | Giá trị | Thay đổi 5 ngày | Tín hiệu |
+|--------|---------|-----------------|----------|
+| **KOSPI** | 6.191,9 | +6,6% | 📈 Mạnh |
+| **KOSDAQ** | 1.170,0 | +6,4% | 📈 Mạnh |
+| **USD/KRW** | 1.480 | −0,2% | → Ổn định |
+| **VIX** | 18,0 | −5,8% | 🟢 Thấp áp lực |
+| **US 10Y** | 4,31% | −0,01 | → Trung lập |
+| **Brent** | $96,2 | −3,1% | 📉 Giảm |
 
-**Phán quyết Regime:** Hàn Quốc `Neutral` — Mỹ `Bull`
-Sự phân kỳ KR Neutral / US Bull dẫn đến chiến lược *mở rộng chọn lọc sang Mỹ*, trong khi thị trường Hàn Quốc đòi hỏi kỷ luật chọn mã nghiêm ngặt. KOSPI tăng +4% trong 5 ngày cho thấy đà phục hồi vẫn còn nhưng breadth chưa đủ để xác nhận xu thế Bull toàn thị trường.
+**Phán quyết chế độ:** KR = **Bull** · US = **Bull** · Lập trường: *Tích cực mở rộng*
 
----
-
-## Diễn Biến Thị Trường Hàn Quốc (Phiên Đóng cửa 10/04)
-
-Phiên giao dịch gần nhất ghi nhận tính chất **Risk-On có chọn lọc** — không phải đợt tăng đồng loạt mà là dòng tiền tập trung mạnh vào một số trục chủ đạo, trong khi phần lớn cổ phiếu còn lại không theo kịp.
-
-**Trục mạnh:**
-
-Hạ tầng thông tin và linh kiện AI chiếm lĩnh vị trí dẫn đầu. Các cổ phiếu như Daehan Optical Communication, Solid, RFHIC và KMW liên tục xuất hiện trong tín hiệu theo dõi nội ngày như những cái tên dẫn sóng rõ ràng nhất. Samsung Electro-Mechanics (009150.KS) và Samsung Electronics (005930.KS) củng cố thêm luận điểm rằng dòng tiền đang di chuyển theo chuỗi giá trị AI hardware — không phải đơn lẻ từng mã mà là cả hệ sinh thái. SK Telecom (017670.KS) cũng nổi bật như một mã phòng thủ được nâng cấp nhờ kỳ vọng lợi nhuận/cổ tức: Hana Securities duy trì khuyến nghị Buy với giá mục tiêu 100.000 KRW.
-
-Nhóm xây dựng/tái thiết Trung Đông cũng tạo tiếng vang trong ngày với Hyundai Engineering & Construction nhận nâng giá mục tiêu lên 240.000 KRW từ Hana Securities, cùng với nhóm thép hưởng lợi từ kỳ vọng tái thiết. Tuy nhiên, phần lớn cổ phiếu xây dựng — bao gồm Daewoo E&C (047040.KS) — không giữ được VWAP sau giai đoạn tăng mạnh trong ngày, cho thấy đây là giai đoạn **quan sát chứ chưa phải mua đuổi**.
-
-Nhóm điện lực/năng lượng ghi nhận SMP tăng vọt +47% và các tín hiệu tích cực về ESS, nhưng thiếu cổ phiếu đầu mối trực tiếp kết nối với dòng tiền chủ đạo trong phiên.
-
-**Trục yếu:**
-
-Biotech tiếp tục bị thu hẹp tỷ trọng tương đối — nhiều nhận định lặp lại thông điệp *giảm biotech, tập trung bán dẫn/vật tư IT*. Các mã đã tăng nhưng không giữ được mức hỗ trợ trong ngày được xem là thất bại setup, cần quan sát thêm.
-
-**Luồng vốn đáng chú ý:**
-
-Nước ngoài dẫn đầu đà phục hồi Samsung Electronics. Tổ chức và nước ngoài duy trì áp lực mua ở Samsung Electro-Mechanics. Kết luận chung: đây là phiên *"cổ phiếu tốt càng tốt hơn"*, không phải *"thị trường tăng đồng loạt"*.
+KOSPI và KOSDAQ đều tăng mạnh trong 5 phiên gần nhất, VIX giảm xuống vùng 18 cho thấy khẩu vị rủi ro được cải thiện rõ rệt. Đồng Won ổn định gần 1.480, trong khi Brent giảm nhẹ giảm bớt áp lực chi phí cho doanh nghiệp. Chế độ Bull ở cả hai thị trường Hàn–Mỹ tạo nền tảng thuận lợi để mở rộng vị thế có chọn lọc.
 
 ---
 
-## Screener Spotlight: Market Discovery (Thứ Sáu)
+## Market Wrap — Phiên 10/04/2026
 
-> **Phương pháp luận:** Market Discovery xác định các cổ phiếu dẫn động lượng thị trường dựa trên chỉ số sức mạnh tương đối (RS Percentile so với 1 năm), RSI, tỷ lệ biến động khối lượng (VR), và mức độ phân kỳ giá (이격도). Đây là screener phù hợp nhất cho môi trường Bull, lọc ra các nhà lãnh đạo thực sự từ đám đông ồn ào.
+> *Lưu ý: Dữ liệu KR Close Briefing mới nhất hiện có là từ phiên 10/04/2026.*
 
-**Trạng thái thị trường (16/04):** FTD Day 12 — Market Regime BULL (Score: 100/100). Tổng cộng **106 cổ phiếu** vượt lọc: 54 sàn HOSE, 52 KOSDAQ.
+Phiên hôm nay là một **thị trường chọn lọc có tính phân hóa cao** — không phải kiểu tăng đại trà mà là dòng tiền tập trung mạnh vào những nhóm dẫn dắt rõ ràng trong khi phần lớn cổ phiếu còn lại bị bỏ qua hoặc thất bại sau khi vượt VWAP.
 
-### Top 10 theo RS Percentile 1 năm
+**Nhóm dẫn dắt mạnh:**
 
-| Hạng | Cổ phiếu | Mã | Giá (KRW) | RS | RSI | 이격도 |
-|---|---|---|---|---|---|---|
-| 1 | 우리로 (Woori-ro) | 046970.KQ | 14.200 | 99,9 | 89,2 | 180,7% |
-| 2 | RF머트리얼즈 (RF Materials) | — | 96.200 | 99,8 | 66,0 | 125,7% |
-| 3 | 대우건설 (Daewoo E&C) | 047040.KS | 28.600 | 99,8 | 78,3 | 144,1% |
-| 4 | 에이치엠넥스 (HM Nex) | — | 6.400 | 99,6 | 63,4 | 120,7% |
-| 5 | 미래에셋벤처투자 | default | 38.700 | 99,6 | 70,0 | 134,0% |
-| 6 | — | — | 91.500 | 99,5 | 67,8 | 120,4% |
-| 7 | — | — | 10.970 | 99,3 | 65,1 | 123,2% |
-| 8 | — | — | 71.300 | 99,2 | 58,1 | 108,7% |
-| 9 | — | — | 93.400 | 98,9 | 60,0 | 108,9% |
-| 10 | 삼성전기 (Samsung Electro-Mech.) | 009150.KS | 690.000 | 98,8 | 66,6 | 123,6% |
+- **Bán dẫn / AI hardware**: Samsung Electro-Mechanics (009150.KS), Samsung Electronics (005930.KS) và các cổ phiếu thiết bị bán dẫn như TES (095610.KQ) duy trì đà tăng nhờ câu chuyện mở rộng AI infrastructure. Sức mạnh của Samsung Electro-Mechanics không phải sự kiện đơn lẻ mà phản ánh dòng tiền dịch chuyển trong chuỗi giá trị AI.
+- **Hạ tầng viễn thông / RF**: Daehan Optical Communications, Solid (050890.KQ), RFHIC (218410.KQ), KMW (032500.KQ) liên tục được đề cập trong các cảnh báo sớm. Nhóm này nổi lên như một trục chủ đạo thứ hai bên cạnh bán dẫn.
+- **Xây dựng / Tái thiết Trung Đông**: Daewoo E&C (047040.KS) hút dòng tiền theo thông tin Hana Securities nâng mục tiêu Hyundai E&C (000720.KS) lên 240.000 KRW; NH Securities duy trì đánh giá Positive cho toàn ngành xây dựng nhờ kỳ vọng tái thiết Trung Đông.
+- **Tiện ích / Điện lực**: SMP tăng +47% tạo sóng ngắn cho nhóm phát điện tư nhân và ESS, nhưng hiện vẫn ở mức quan sát, chưa có cú bứt phá xác nhận.
 
-### Phân tích 3 cái tên đứng đầu
+**Nhóm yếu hơn:**
 
-**1. 우리로 (046970.KQ) — RS 99,9 | RSI 89,2 | 이격 180,7%**
-우리로 là nhà cung cấp linh kiện quang học và kết nối tốc độ cao, hưởng lợi trực tiếp từ sự bùng nổ đầu tư hạ tầng trung tâm dữ liệu AI. RSI 89 và mức phân kỳ 180% so với MA cho thấy đà tăng đang ở vùng quá mua ngắn hạn — cần chờ nhịp điều chỉnh/xác nhận khối lượng trước khi tiếp cận.
+- **Biotech**: Dòng tiền tiếp tục rút khỏi nhóm này, các nhà phân tích liên tục nhắc đến "giảm tỷ trọng biotech, tập trung IT/bán dẫn thiết bị phụ trợ".
+- Các cổ phiếu xây dựng truy đuổi muộn (late chase): Dù tin tức tích cực, nhiều cổ phiếu xây dựng không giữ được VWAP sau mức đỉnh trong phiên — tín hiệu thất bại setup phổ biến.
 
-**2. RF머트리얼즈 (RF Materials) — RS 99,8 | +22,5% trong phiên**
-RF Materials sản xuất vật liệu RF và linh kiện cho thiết bị viễn thông, trực tiếp kết nối với nhóm hạ tầng 5G/AI đang dẫn sóng. Tăng +22,5% trong một phiên với khối lượng đột biến 357.529 đơn vị — tín hiệu dòng tiền rõ ràng nhưng cần xác nhận liệu đây là xu hướng nhiều ngày hay chỉ một phiên. Không nên mua đuổi ngay.
+**Tín hiệu dòng tiền:**
 
-**3. 대우건설 (Daewoo E&C — 047040.KS) — RS 99,8 | RSI 78,3 | 이격 144%**
-Daewoo E&C là tập đoàn xây dựng lớn của Hàn Quốc, hưởng lợi từ kỳ vọng tái thiết Trung Đông và mở rộng đầu tư hạ tầng. RS percentile cực cao phản ánh hiệu suất dài hạn vượt trội. Tuy nhiên, như đề cập trong phần Market Wrap, setup trong phiên thường không giữ được VWAP — nhà đầu tư nên chờ cấu trúc giá ổn định hơn thay vì mua vào sau đợt tăng.
+SK Telecom (017670.KS) được Hana Securities duy trì Buy với mục tiêu 100.000 KRW, xác nhận đây không chỉ là cổ phiếu phòng thủ thuần túy mà còn có câu chuyện phục hồi lợi nhuận và cổ tức. Nước ngoài tiếp tục dẫn dắt đà phục hồi của Samsung Electronics trong bối cảnh cải thiện xu hướng.
+
+**Kết luận phiên**: Thị trường đang ở chế độ *"cổ phiếu tốt càng tốt hơn"* — không phải "mua gì cũng được". Áp lực dòng tiền tập trung vào bán dẫn AI, hạ tầng viễn thông, và có chọn lọc ở xây dựng tái thiết.
 
 ---
 
-*Dữ liệu screener từ phiên 16/04/2026. Phân tích macro cập nhật sáng 17/04/2026. Bài viết mang tính chất thông tin thị trường, không phải khuyến nghị đầu tư.*
+## Today's Screener Spotlight — Market Discovery (Thứ Sáu)
+
+**Phương pháp luận**: Market Discovery screener xác định các *momentum leader* và ứng viên breakout bằng cách xếp hạng cổ phiếu theo RS Percentile (sức mạnh tương đối 1 năm), Volume Ratio (VR), và RSI — lọc ra những cổ phiếu đang dẫn dắt thực sự chứ không chỉ tăng theo sóng chung. Ngày hôm nay (17/04): **108 cổ phiếu vượt lọc**, Market Regime **BULL 100/100**, FTD Day 13 đã xác nhận.
+
+### Top 10 theo RS Percentile
+
+| # | Tên công ty | Mã | Giá | Thay đổi | RS | RSI | Igyeok |
+|---|-------------|-----|-----|----------|----|-----|--------|
+| 1 | Sungho Electronics | 043260.KQ | 52.500₩ | +5,3% | 100,0 | 61,6 | 115,2% |
+| 2 | RF Materials | 259630.KQ | 100.900₩ | +4,9% | 99,8 | 68,1 | 129,5% |
+| 3 | Daewoo E&C | 047040.KS | 28.700₩ | +0,3% | 99,8 | 78,4 | 141,2% |
+| 4 | HM Nex | 042040.KQ | 7.700₩ | +20,3% | 99,7 | 70,5 | 141,5% |
+| 5 | Mirae Asset Venture Investment | 019490.KQ | 46.300₩ | +19,6% | 99,6 | 76,9 | 154,0% |
+| 6 | Aju IB Investment | 027360.KQ | 11.930₩ | +8,8% | 99,3 | 68,7 | 130,6% |
+| 7 | — | — | 89.300₩ | −2,4% | 99,3 | 65,0 | 115,6% |
+| 8 | Samsung Electro-Mechanics | 009150.KS | 70.400₩ | −1,3% | 99,1 | 56,7 | 107,2% |
+| 9 | — | — | 93.300₩ | −0,1% | 99,0 | 59,9 | 108,0% |
+| 10 | Samsung Electronics | 005930.KS | 682.000₩ | −1,2% | 98,8 | 65,2 | 121,4% |
+
+*Igyeok = khoảng cách giá so với đường MA dài hạn (%)*
+
+### Top 3 Spotlight
+
+**1. Sungho Electronics (043260.KQ) — RS 100.0**
+Nhà sản xuất linh kiện điện tử (tụ điện, PCB components) niêm yết KOSDAQ. Với RS tuyệt đối 100.0 và khối lượng 2,3 triệu cổ phiếu trong phiên, đây là cổ phiếu dẫn dắt thị trường số 1 tính theo sức mạnh tương đối 1 năm. RSI 61,6 vẫn chưa vào vùng quá mua, tạo dư địa tiếp tục.
+
+**2. RF Materials (259630.KQ) — RS 99.8, +4.9%**
+Công ty chuyên vật liệu RF và linh kiện viễn thông cao tần — trực tiếp hưởng lợi từ làn sóng đầu tư 5G/AI infrastructure. Tăng +22,5% trong phiên trước theo briefing 10/04, phiên hôm nay +4,9% cho thấy momentum vẫn duy trì. Igyeok 129,5% phản ánh breakout mạnh khỏi vùng tích lũy dài hạn. Được đề cập như "thước đo" để xác nhận liệu hạ tầng viễn thông có thực sự trở thành trục dẫn dắt đa phiên hay không.
+
+**3. Daewoo E&C (047040.KS) — RS 99.8**
+Tập đoàn xây dựng lớn của Hàn Quốc, đang được hưởng lợi kép từ kỳ vọng tái thiết Trung Đông và cải thiện tâm lý Q2. Hana Securities nâng mục tiêu Hyundai E&C (cùng nhóm) lên 240.000 KRW; NH Securities duy trì Positive cho toàn ngành. Dù vậy, nhiều setup intraday của nhóm xây dựng thất bại khi không giữ VWAP — nhà đầu tư nên đợi xác nhận nghiêm ngặt hơn thay vì truy đuổi.
+
+### Top Volume Surge của phiên
+
+| Mã | Tên | Giá | +/- | Khối lượng |
+|----|-----|-----|-----|-----------|
+| — | Giga Lane (049080) | 2.600₩ | +30,0% | 79,1M |
+| 017900.KS | Kwangcheonnja | 13.810₩ | +7,1% | 59,5M |
+| 084650.KQ | Labgenomics | 1.803₩ | +18,4% | 45,4M |
+| 027360.KQ | Aju IB Investment | 11.930₩ | +8,8% | 40,2M |
+
+**Deep Buying Watch (RSI thấp nhất):**
+JR Global REIT (348950.KS) — 1.132₩ (−13,5%), RSI 25,5, VR 5,6x. Tín hiệu dòng tiền "mua đáy" đang vào nhóm REIT sau đợt bán tháo — theo dõi phục hồi kỹ thuật.
+
+---
+
+*Dữ liệu screener: 17/04/2026 16:05 KST. Bài viết chỉ mang tính thông tin, không phải khuyến nghị đầu tư.*
