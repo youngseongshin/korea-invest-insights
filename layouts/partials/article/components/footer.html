@@ -1,0 +1,66 @@
+{{/* Override: inject Telegram subscribe CTA on post pages, then render theme's default footer */}}
+
+{{ if eq .Section "post" }}
+    {{- $lang := .Lang -}}
+    {{- $headline := "" -}}
+    {{- $body := "" -}}
+    {{- $cta := "" -}}
+    {{- if eq $lang "ko" -}}
+        {{- $headline = "새 포스트를 가장 먼저 받아보세요" -}}
+        {{- $body = "텔레그램 채널로 새 분석이 게시되는 즉시 알림을 받을 수 있습니다." -}}
+        {{- $cta = "텔레그램 채널 구독" -}}
+    {{- else if eq $lang "ja" -}}
+        {{- $headline = "新着分析をいち早く受け取る" -}}
+        {{- $body = "Telegramチャンネルで新しい投稿をリアルタイム通知します。" -}}
+        {{- $cta = "Telegramチャンネル登録" -}}
+    {{- else if eq $lang "zh" -}}
+        {{- $headline = "第一时间获取最新分析" -}}
+        {{- $body = "订阅Telegram频道，每篇新文章发布即刻推送。" -}}
+        {{- $cta = "订阅Telegram频道" -}}
+    {{- else if eq $lang "es" -}}
+        {{- $headline = "Recibe los nuevos análisis primero" -}}
+        {{- $body = "Suscríbete al canal de Telegram para recibir cada publicación en tiempo real." -}}
+        {{- $cta = "Suscribirse al canal de Telegram" -}}
+    {{- else if eq $lang "fr" -}}
+        {{- $headline = "Recevez les nouvelles analyses en avant-première" -}}
+        {{- $body = "Abonnez-vous au canal Telegram pour être notifié dès la publication de chaque article." -}}
+        {{- $cta = "S'abonner au canal Telegram" -}}
+    {{- else if eq $lang "vi" -}}
+        {{- $headline = "Nhận phân tích mới sớm nhất" -}}
+        {{- $body = "Đăng ký kênh Telegram để nhận thông báo ngay khi có bài viết mới." -}}
+        {{- $cta = "Đăng ký kênh Telegram" -}}
+    {{- else -}}
+        {{/* default: en */}}
+        {{- $headline = "Get new analyses first" -}}
+        {{- $body = "Subscribe to the Telegram channel for instant notifications on every new post." -}}
+        {{- $cta = "Subscribe on Telegram" -}}
+    {{- end -}}
+
+<aside class="article-subscribe-cta" style="margin: 2rem 0; padding: 1.25rem 1.5rem; border-left: 4px solid #0088cc; background: var(--card-background, #f5f7fa); border-radius: 6px;">
+    <div style="font-weight: 600; font-size: 1.05rem; margin-bottom: 0.35rem;">📡 {{ $headline }}</div>
+    <div style="font-size: 0.95rem; opacity: 0.85; margin-bottom: 0.75rem;">{{ $body }}</div>
+    <a href="https://t.me/korea_invest_insights" target="_blank" rel="noopener" style="display: inline-block; padding: 0.5rem 1rem; background: #0088cc; color: #fff; text-decoration: none; border-radius: 4px; font-weight: 500; font-size: 0.95rem;">
+        {{ $cta }} →
+    </a>
+</aside>
+{{ end }}
+
+<footer class="article-meta article-footer">
+    {{ partial "article/components/tags" . }}
+
+    {{ if and (.Site.Params.article.license.enabled) (not (eq .Params.license false)) }}
+    <section class="article-copyright inline-meta">
+        {{ partial "helper/icon" "copyright" }}
+        <span>{{ default .Site.Params.article.license.default .Params.license | markdownify }}</span>
+    </section>
+    {{ end }}
+
+    {{- if ne .Lastmod .Date -}}
+    <section class="article-lastmod inline-meta">
+        {{ partial "helper/icon" "clock" }}
+        <span>
+            {{ T "article.lastUpdatedOn" }} {{ .Lastmod | time.Format .Site.Params.dateFormat.lastUpdated }}
+        </span>
+    </section>
+    {{- end -}}
+</footer>
