@@ -5,7 +5,7 @@ description: "Análisis profundo de inversión sobre Pearl Abyss. Crimson Desert
 date: 2026-04-08T09:00:00+09:00
 categories: ["company-deep-dive"]
 tags: ["Pearl Abyss", "263750", "Crimson Desert", "acciones gaming coreanas", "juego AAA", "resultados Q1 2026", "giro del sector gaming", "KOSDAQ gaming"]
-series: "Korean Gaming Deep Dive"
+series: ["pearl-abyss-crimson-desert-thesis"]
 ---
 
 ## 0. Resumen Ejecutivo

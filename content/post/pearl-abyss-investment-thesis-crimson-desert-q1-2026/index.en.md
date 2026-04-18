@@ -5,7 +5,7 @@ description: "Deep-dive investment thesis on Pearl Abyss. Crimson Desert sold 4M
 date: 2026-04-08T09:00:00+09:00
 categories: ["company-deep-dive"]
 tags: ["Pearl Abyss", "263750", "Crimson Desert", "Korean gaming stocks", "AAA game", "Q1 2026 earnings", "game industry turnaround", "KOSDAQ gaming"]
-series: "Korean Gaming Deep Dive"
+series: ["pearl-abyss-crimson-desert-thesis"]
 ---
 
 ## 0. Executive Summary

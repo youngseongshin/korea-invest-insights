@@ -5,7 +5,7 @@ description: "Rapport quotidien Pearl Abyss du 9/4. Range KRW 55 000 (support) /
 date: 2026-04-09T18:00:00+09:00
 categories: ["company-deep-dive"]
 tags: ["Pearl Abyss", "263750", "Crimson Desert", "valeurs gaming coréennes", "analyse des ventes à découvert", "analyse des flux", "rapport quotidien", "gaming KOSDAQ"]
-series: "Korean Gaming Deep Dive"
+series: ["pearl-abyss-crimson-desert-thesis"]
 ---
 
 > **Date :** 2026-04-09

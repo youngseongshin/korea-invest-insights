@@ -5,7 +5,7 @@ categories: ["company-deep-dive"]
 tags: ["Pearl Abyss", "263750", "Crimson Desert", "붉은사막", "Cổ phiếu Hàn Quốc", "KOSPI", "KOSDAQ", "Cổ phiếu game Hàn Quốc", "RPG thế giới mở", "Kết quả quý 1 2026"]
 slug: "kr-deep-dive-pearl-abyss-crimson-desert-q1-2026-04-06"
 description: "Crimson Desert của Pearl Abyss bán được 4 triệu bản trong 12 ngày. Doanh thu ước tính Q1 2026 đạt ₩430 tỷ, lợi nhuận hoạt động ₩223 tỷ — xóa sạch 3 năm thua lỗ chỉ trong một quý."
-series: ["Korean Gaming Studios"]
+series: ["pearl-abyss-crimson-desert-thesis"]
 draft: false
 ---
 

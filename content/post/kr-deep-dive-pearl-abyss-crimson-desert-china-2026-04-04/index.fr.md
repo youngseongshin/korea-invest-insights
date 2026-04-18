@@ -5,7 +5,7 @@ categories: ["company-deep-dive"]
 tags: ["Pearl Abyss", "263750.KS", "Crimson Desert", "Red Desert", "붉은사막", "actions de jeux vidéo coréens", "KOSPI", "Steam", "marché du jeu vidéo chinois"]
 slug: "kr-deep-dive-pearl-abyss-crimson-desert-china-2026-04-04"
 description: "Crimson Desert de Pearl Abyss atteint 86% de notes positives sur Steam et plus de 4 millions d'exemplaires vendus. Analyse approfondie de la percée sur le marché chinois, de l'envolée des ventes pendant le Festival Qingming, et des implications pour l'investissement dans 263750.KS."
-series: ["Korean Gaming Studios"]
+series: ["pearl-abyss-crimson-desert-thesis"]
 draft: false
 ---
 

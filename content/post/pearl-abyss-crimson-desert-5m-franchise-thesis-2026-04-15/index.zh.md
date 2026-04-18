@@ -5,7 +5,7 @@ categories: ["company-deep-dive"]
 tags: ["Pearl Abyss", "펄어비스", "263750", "Crimson Desert", "붉은사막", "Korean stocks", "KOSDAQ", "gaming stocks", "AAA games", "BlackSpace Engine", "franchise valuation"]
 slug: "pearl-abyss-crimson-desert-5m-franchise-thesis-2026-04-15"
 description: "珍珠深渊 (263750.KQ) 的《赤色沙漠》刚刚突破500万销量。本文深入分析为何750万只是底部而非天花板，免费更新路线图对长尾变现意味着什么，以及真正触发估值重估的关键因素究竟在哪里。"
-series: ["Gaming & Entertainment"]
+series: ["pearl-abyss-crimson-desert-thesis"]
 draft: false
 ---
 

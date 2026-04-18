@@ -5,7 +5,7 @@ description: "Pearl Abyss 4/9 每日报告。股价在55,000韩元支撑 / 56,60
 date: 2026-04-09T18:00:00+09:00
 categories: ["company-deep-dive"]
 tags: ["Pearl Abyss", "263750", "Crimson Desert", "韩国游戏股", "卖空分析", "资金流向分析", "每日报告", "KOSDAQ游戏"]
-series: "Korean Gaming Deep Dive"
+series: ["pearl-abyss-crimson-desert-thesis"]
 ---
 
 > **日期：** 2026-04-09

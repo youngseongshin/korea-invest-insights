@@ -5,7 +5,7 @@ categories: ["company-deep-dive"]
 tags: ["Pearl Abyss", "263750.KS", "Crimson Desert", "Red Desert", "붉은사막", "Cổ phiếu game Hàn Quốc", "KOSPI", "Steam", "Thị trường game Trung Quốc"]
 slug: "kr-deep-dive-pearl-abyss-crimson-desert-china-2026-04-04"
 description: "Crimson Desert của Pearl Abyss đạt điểm đánh giá Steam 86% và hơn 4 triệu bản được bán. Phân tích chuyên sâu về bước đột phá tại thị trường Trung Quốc, doanh số tăng vọt dịp lễ Thanh Minh, và hàm ý đầu tư đối với 263750.KS."
-series: ["Korean Gaming Studios"]
+series: ["pearl-abyss-crimson-desert-thesis"]
 draft: false
 ---
 

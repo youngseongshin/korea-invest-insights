@@ -5,7 +5,7 @@ categories: ["company-deep-dive"]
 tags: ["Pearl Abyss", "펄어비스", "263750", "Crimson Desert", "붉은사막", "Korean stocks", "KOSDAQ", "gaming stocks", "AAA games", "BlackSpace Engine", "franchise valuation"]
 slug: "pearl-abyss-crimson-desert-5m-franchise-thesis-2026-04-15"
 description: "パール・アビス（263750.KQ）のクリムゾンデザートが500万本を突破した。750万本がなぜ天井ではなく床なのか、無料アップデートのロードマップが長期マネタイズに何をもたらすか、そして本当の再評価トリガーはどこにあるかを詳細に分析する。"
-series: ["Gaming & Entertainment"]
+series: ["pearl-abyss-crimson-desert-thesis"]
 draft: false
 ---
 

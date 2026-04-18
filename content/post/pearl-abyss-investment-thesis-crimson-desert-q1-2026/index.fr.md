@@ -5,7 +5,7 @@ description: "Analyse approfondie de Pearl Abyss. Crimson Desert a dépassé les
 date: 2026-04-08T09:00:00+09:00
 categories: ["company-deep-dive"]
 tags: ["Pearl Abyss", "263750", "Crimson Desert", "actions jeux vidéo coréens", "jeu AAA", "résultats T1 2026", "retournement secteur jeux vidéo", "KOSDAQ gaming"]
-series: "Korean Gaming Deep Dive"
+series: ["pearl-abyss-crimson-desert-thesis"]
 ---
 
 ## 0. Synthèse

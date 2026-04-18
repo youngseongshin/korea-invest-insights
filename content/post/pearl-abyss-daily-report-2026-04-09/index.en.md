@@ -5,7 +5,7 @@ description: "Pearl Abyss 4/9 daily report. KRW 55,000 support / 56,600 resistan
 date: 2026-04-09T18:00:00+09:00
 categories: ["company-deep-dive"]
 tags: ["Pearl Abyss", "263750", "Crimson Desert", "Korean gaming stocks", "short selling analysis", "flow analysis", "daily report", "KOSDAQ gaming"]
-series: "Korean Gaming Deep Dive"
+series: ["pearl-abyss-crimson-desert-thesis"]
 ---
 
 > **Date:** 2026-04-09

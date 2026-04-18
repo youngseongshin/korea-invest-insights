@@ -206,6 +206,7 @@ buildFuture = true  # 장마감 브리핑(16:30 KST) 등 발행 시각보다 살
 [taxonomies]
   category = "categories"
   tag = "tags"
+  series = "series"
 
 [markup]
   [markup.highlight]

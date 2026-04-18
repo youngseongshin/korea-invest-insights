@@ -5,7 +5,7 @@ categories: ["company-deep-dive"]
 tags: ["Pearl Abyss", "263750", "Crimson Desert", "붉은사막", "acciones coreanas", "KOSPI", "KOSDAQ", "acciones gaming coreanas", "RPG mundo abierto", "resultados Q1 2026"]
 slug: "kr-deep-dive-pearl-abyss-crimson-desert-q1-2026-04-06"
 description: "Crimson Desert de Pearl Abyss vendió 4M de copias en 12 días. Estimación Q1 2026: ingresos ₩430B, beneficio operativo ₩223B — poniendo fin a 3 años de pérdidas en un solo trimestre."
-series: ["Korean Gaming Studios"]
+series: ["pearl-abyss-crimson-desert-thesis"]
 draft: false
 ---
 

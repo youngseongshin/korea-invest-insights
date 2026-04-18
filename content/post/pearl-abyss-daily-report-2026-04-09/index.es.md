@@ -5,7 +5,7 @@ description: "Informe diario de Pearl Abyss del 9/4. Rango lateralizado entre so
 date: 2026-04-09T18:00:00+09:00
 categories: ["company-deep-dive"]
 tags: ["Pearl Abyss", "263750", "Crimson Desert", "acciones de videojuegos coreanas", "análisis de ventas en corto", "análisis de flujo", "informe diario", "KOSDAQ gaming"]
-series: "Korean Gaming Deep Dive"
+series: ["pearl-abyss-crimson-desert-thesis"]
 ---
 
 > **Fecha:** 2026-04-09

@@ -5,7 +5,7 @@ categories: ["company-deep-dive"]
 tags: ["Pearl Abyss", "펄어비스", "263750", "Crimson Desert", "붉은사막", "Korean stocks", "KOSDAQ", "gaming stocks", "AAA games", "BlackSpace Engine", "franchise valuation"]
 slug: "pearl-abyss-crimson-desert-5m-franchise-thesis-2026-04-15"
 description: "펄어비스(263750.KQ)의 붉은사막이 500만 장을 돌파했다. 750만이 상단이 아닌 하단인 이유, 무료 업데이트 로드맵이 장기 수익화에 갖는 실질적 의미, 그리고 진정한 리레이팅 트리거가 무엇인지 분석한다."
-series: ["Gaming & Entertainment"]
+series: ["pearl-abyss-crimson-desert-thesis"]
 draft: false
 ---
 

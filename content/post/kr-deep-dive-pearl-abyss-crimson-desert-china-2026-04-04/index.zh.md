@@ -5,7 +5,7 @@ categories: ["company-deep-dive"]
 tags: ["Pearl Abyss", "263750.KS", "赤色沙漠", "붉은사막", "韩国游戏股票", "KOSPI", "Steam", "中国游戏市场"]
 slug: "kr-deep-dive-pearl-abyss-crimson-desert-china-2026-04-04"
 description: "Pearl Abyss旗下《赤色沙漠》Steam好评率达86%，全平台销量突破400万份。深度解析中国市场破局、清明节销售激增及263750.KS的投资价值。"
-series: ["Korean Gaming Studios"]
+series: ["pearl-abyss-crimson-desert-thesis"]
 draft: false
 ---
 ```

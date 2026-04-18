@@ -5,7 +5,7 @@ categories: ["company-deep-dive"]
 tags: ["Pearl Abyss", "펄어비스", "263750", "Crimson Desert", "붉은사막", "Korean stocks", "KOSDAQ", "gaming stocks", "AAA games", "BlackSpace Engine", "franchise valuation"]
 slug: "pearl-abyss-crimson-desert-5m-franchise-thesis-2026-04-15"
 description: "Pearl Abyss (263750.KQ) just crossed 5 million copies of Crimson Desert. We break down why 7.5M is now a floor, what the free update roadmap really means for long-tail monetization, and where the real re-rating triggers lie."
-series: ["Gaming & Entertainment"]
+series: ["pearl-abyss-crimson-desert-thesis"]
 draft: false
 ---
 

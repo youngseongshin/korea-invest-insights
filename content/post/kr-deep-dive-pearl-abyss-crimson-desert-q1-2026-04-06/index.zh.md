@@ -5,7 +5,7 @@ categories: ["company-deep-dive"]
 tags: ["Pearl Abyss", "263750", "Crimson Desert", "붉은사막", "韩国股票", "KOSPI", "KOSDAQ", "韩国游戏股", "开放世界RPG", "2026年Q1财报"]
 slug: "kr-deep-dive-pearl-abyss-crimson-desert-q1-2026-04-06"
 description: "Pearl Abyss旗下《赤色沙漠》12天销量突破400万份。2026年Q1预估营收4300亿韩元，营业利润2230亿韩元——一个季度终结三年连续亏损。"
-series: ["Korean Gaming Studios"]
+series: ["pearl-abyss-crimson-desert-thesis"]
 draft: false
 ---
 

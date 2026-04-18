@@ -5,7 +5,7 @@ description: "Phân tích chuyên sâu về Pearl Abyss. Crimson Desert bán hơ
 date: 2026-04-08T09:00:00+09:00
 categories: ["company-deep-dive"]
 tags: ["Pearl Abyss", "263750", "Crimson Desert", "cổ phiếu game Hàn Quốc", "game AAA", "kết quả kinh doanh Q1 2026", "ngành game phục hồi", "KOSDAQ game"]
-series: "Korean Gaming Deep Dive"
+series: ["pearl-abyss-crimson-desert-thesis"]
 ---
 
 ## 0. Tóm Tắt Đầu Tư

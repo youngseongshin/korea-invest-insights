@@ -5,7 +5,7 @@ categories: ["company-deep-dive"]
 tags: ["Pearl Abyss", "263750.KS", "Crimson Desert", "Red Desert", "붉은사막", "韓国ゲーム株", "KOSPI", "Steam", "中国ゲーム市場"]
 slug: "kr-deep-dive-pearl-abyss-crimson-desert-china-2026-04-04"
 description: "Pearl AbyssのCrimson DesertがSteamレーティング86%・累計販売400万本超を達成。中国市場への突破口、清明節セールス急増、そして263750.KSへの投資インプリケーションを徹底分析。"
-series: ["Korean Gaming Studios"]
+series: ["pearl-abyss-crimson-desert-thesis"]
 draft: false
 ---
 

@@ -5,7 +5,7 @@ description: "펄어비스 심층 투자 테시스. 붉은사막 12일 만에 40
 date: 2026-04-08T09:00:00+09:00
 categories: ["company-deep-dive"]
 tags: ["펄어비스", "263750", "붉은사막", "한국 게임주", "AAA 게임", "2026년 1분기 실적", "게임 산업 턴어라운드", "코스닥 게임"]
-series: "Korean Gaming Deep Dive"
+series: ["pearl-abyss-crimson-desert-thesis"]
 ---
 
 > **작성일:** 2026-04-08

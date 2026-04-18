@@ -5,7 +5,7 @@ categories: ["company-deep-dive"]
 tags: ["Pearl Abyss", "263750.KS", "Crimson Desert", "Red Desert", "붉은사막", "한국 게임주", "KOSPI", "Steam", "중국 게임 시장"]
 slug: "kr-deep-dive-pearl-abyss-crimson-desert-china-2026-04-04"
 description: "펄어비스의 붉은사막이 Steam 86% 긍정 평가와 400만 장 이상 판매를 기록했다. 중국 시장 돌파구, 청명절 매출 급등, 그리고 263750.KS 투자 시사점에 대한 심층 분석."
-series: ["Korean Gaming Studios"]
+series: ["pearl-abyss-crimson-desert-thesis"]
 draft: false
 ---
 
