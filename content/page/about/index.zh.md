@@ -39,7 +39,7 @@ layout: "page"
 ### 订阅与关注
 
 - 📱 **Telegram**: [@korea_invest_insights](https://t.me/korea_invest_insights) — 新文章提醒
-- 📡 **RSS**: [订阅源](/korea-invest-insights/zh/feed/)
+- 📡 **RSS**: [订阅源](/zh/feed/)
 - 💬 **评论**: 每篇文章底部Giscus（需GitHub账号）
 
 ---

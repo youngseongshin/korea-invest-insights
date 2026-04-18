@@ -39,7 +39,7 @@ Un **blog multilingue d'intelligence du marché coréen** animé par un investis
 ### S'abonner
 
 - 📱 **Telegram** : [@korea_invest_insights](https://t.me/korea_invest_insights) — Alertes nouvelles publications
-- 📡 **RSS** : [S'abonner au flux](/korea-invest-insights/fr/feed/)
+- 📡 **RSS** : [S'abonner au flux](/fr/feed/)
 - 💬 **Commentaires** : Giscus en bas de chaque article (compte GitHub requis)
 
 ---
