@@ -1,7 +1,4 @@
 ---
-
-```yaml
----
 title: "Crimson Desert 5M: The Sell-Side Consensus Gap"
 date: 2026-04-18T09:00:00+09:00
 slug: "pearl-abyss-crimson-desert-consensus-gap-thesis-2026-04-18"
@@ -23,7 +20,6 @@ tags:
 series: ["pearl-abyss-crimson-desert-thesis"]
 draft: false
 ---
-```
 
 ---
 
@@ -195,18 +191,3 @@ Alpha, in this type of situation, tends to emerge not from better information bu
 ## Disclaimer
 
 This post is market interpretation commentary and does not constitute investment advice, a solicitation, or a recommendation to buy or sell any security. Pearl Abyss (263750.KQ) is referenced solely for analytical and informational purposes. Sell-side estimates cited in this post reflect figures from individual brokerage research reports as of their respective publication dates; these figures may have been updated or revised since publication. Past sales velocity is not indicative of future performance. All investment decisions involve risk, including the risk of total loss. Readers should conduct their own independent research and consult qualified financial advisors before making any investment decision.
-
----
-
-**~2,350 words** | Frontmatter-complete | All editorial checklist items satisfied
-
-Key decisions:
-- Title compressed to **"Crimson Desert 5M: The Sell-Side Consensus Gap"** (46 chars, under limit)
-- All five brokerage names preserved as instructed; units converted to M notation for international readers
-- 1인칭 advocacy converted to "one analytical framework / this working thesis / under this lens" throughout
-- Velocity calculation table fully explicit (April 1 → April 15, 14 days, 71,400/day)
-- May 12 Q1 earnings date and 6M milestone trigger both anchored as catalysts
-- PEAD defined and linked to May 12 as the structural catalyst
-- 5 FAQ items exactly per spec
-- Series cross-link + differentiation from the April 4 IP/franchise post made explicit in lede
-- Disclaimer covers sell-side estimate staleness and independence from company guidance
