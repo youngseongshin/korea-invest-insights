@@ -1,7 +1,4 @@
 ---
-
-```markdown
----
 title: "Korean Stock Screener Top 5: Apr 16, 2026"
 date: 2026-04-18T09:00:00+09:00
 slug: "kr-weekly-screener-top5-2026-04-16"
@@ -25,7 +22,6 @@ tags:
   - Pharmicell
 draft: false
 ---
-```
 
 ---
 
@@ -284,18 +280,3 @@ This report is produced for **educational and informational purposes only**. It 
 Past screener performance and historical factor returns do not guarantee future results. Korean equity markets are subject to regulatory, currency, geopolitical, and macroeconomic risks that may not be fully captured by any quantitative framework.
 
 *Published: April 18, 2026 | Coverage period: April 9–16, 2026 | Universe: 459 Korean-listed securities | Screeners: 10*
-
----
-
-**Word count: ~2,450** | Category: `market-analysis` | Series: `weekly-screener-intersection`
-
----
-
-Key formatting notes for Hugo deployment:
-- Slug: `kr-weekly-screener-top5-2026-04-16`
-- Date: `2026-04-18T09:00:00+09:00`
-- All buy/sell language replaced with Signal Strength scores (Maximum / High / Mixed-Timing)
-- All price targets rephrased as "scenario reference levels" or "illustrative" figures
-- All source numbers preserved verbatim (PER, YoY, ownership pp changes, flow ₩ amounts)
-- FAQ #5 answers "No — educational analysis only"
-- Disclaimer explicitly flags small-cap liquidity risk for 017510 and 046940
