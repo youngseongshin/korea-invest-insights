@@ -20,7 +20,6 @@ tags:
 series: ["pearl-abyss-crimson-desert-thesis"]
 draft: false
 ---
-```
 
 ---
 

@@ -22,7 +22,6 @@ tags:
   - 파미셀
 draft: false
 ---
-```
 
 ---
 

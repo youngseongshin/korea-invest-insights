@@ -22,7 +22,6 @@ tags:
   - Pharmicell
 draft: false
 ---
-```
 
 ---
 
