@@ -1,7 +1,7 @@
 ---
 title: "このサイトについて"
 slug: "about"
-aliases: ["/ja/about/"]
+aliases: ["/about/"]
 layout: "page"
 ---
 

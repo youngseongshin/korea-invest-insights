@@ -1,7 +1,7 @@
 ---
 title: "About"
 slug: "about"
-aliases: ["/en/about/"]
+aliases: ["/about/"]
 layout: "page"
 ---
 

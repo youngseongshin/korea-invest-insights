@@ -1,7 +1,7 @@
 ---
 title: "À propos"
 slug: "about"
-aliases: ["/fr/about/"]
+aliases: ["/about/"]
 layout: "page"
 ---
 

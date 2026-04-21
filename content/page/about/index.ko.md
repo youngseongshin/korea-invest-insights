@@ -1,7 +1,7 @@
 ---
 title: "소개"
 slug: "about"
-aliases: ["/ko/about/"]
+aliases: ["/about/"]
 layout: "page"
 ---
 
