@@ -21,7 +21,7 @@ series: ["pearl-abyss-crimson-desert-thesis"]
 draft: false
 ---
 
-> 📚 **Série 5/5** : [Pearl Abyss × Thèse Crimson Desert — hub de la série →](/series/pearl-abyss-crimson-desert-thesis/)
+> 📚 **Série 5/6** : [Pearl Abyss × Thèse Crimson Desert — hub de la série →](/series/pearl-abyss-crimson-desert-thesis/)
 
 *Ce billet est le cinquième de la série. Précédemment : [le jalon des 5M et la réévaluation de la franchise](/post/pearl-abyss-crimson-desert-5m-franchise-thesis-2026-04-15/), [l'écart avec le consensus sell-side](/post/pearl-abyss-crimson-desert-consensus-gap-thesis-2026-04-18/), [la thèse initiale](/post/pearl-abyss-investment-thesis-crimson-desert-q1-2026/), et [le catalyseur de second ordre sur BDO que le marché a raté](/post/pearl-abyss-black-desert-online-resurgence-2026-04-19/). Ce billet est celui tourné vers l'avenir : à quoi devrait **réellement ressembler le résultat consolidé du 1T26**, compte tenu des jalons officiels de ventes et de la base de coûts 4T25 déjà connue ?*
 

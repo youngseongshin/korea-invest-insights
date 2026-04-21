@@ -21,7 +21,7 @@ series: ["pearl-abyss-crimson-desert-thesis"]
 draft: false
 ---
 
-> 📚 **シリーズ 5/5**: [パール・アビス × Crimson Desert テーゼ — シリーズハブ →](/series/pearl-abyss-crimson-desert-thesis/)
+> 📚 **シリーズ 5/6**: [パール・アビス × Crimson Desert テーゼ — シリーズハブ →](/series/pearl-abyss-crimson-desert-thesis/)
 
 *本稿はシリーズ第5回目の記事です。これまでの記事：[500万本マイルストーンとフランチャイズ再評価](/post/pearl-abyss-crimson-desert-5m-franchise-thesis-2026-04-15/)、[セルサイドコンセンサスとのギャップ](/post/pearl-abyss-crimson-desert-consensus-gap-thesis-2026-04-18/)、[初期テーゼ](/post/pearl-abyss-investment-thesis-crimson-desert-q1-2026/)、[市場が見落としたBDOのセカンドオーダー・カタリスト](/post/pearl-abyss-black-desert-online-resurgence-2026-04-19/)。本稿は前向きな視点から「**1Q26の連結決算は実際どのような数字になるべきか**」を、公式販売マイルストーンと既知の4Q25コスト構造に基づいて検討する。*
 

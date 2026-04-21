@@ -21,7 +21,7 @@ series: ["pearl-abyss-crimson-desert-thesis"]
 draft: false
 ---
 
-> 📚 **시리즈 4/5**: [Pearl Abyss × Crimson Desert 시리즈 허브 →](/series/pearl-abyss-crimson-desert-thesis/)
+> 📚 **시리즈 4/6**: [Pearl Abyss × Crimson Desert 시리즈 허브 →](/series/pearl-abyss-crimson-desert-thesis/)
 
 
 *이 포스트는 [Pearl Abyss Crimson Desert Thesis](/series/pearl-abyss-crimson-desert-thesis/) 시리즈의 일부입니다. 앞선 포스트에서는 [500만 마일스톤과 프랜차이즈 재평가](/post/pearl-abyss-crimson-desert-5m-franchise-thesis-2026-04-15/)와 [셀사이드 컨센서스 갭](/post/pearl-abyss-crimson-desert-consensus-gap-thesis-2026-04-18/)을 다뤘습니다. 이번 포스트는 전혀 다른 질문을 다룹니다. 시장이 크림슨 데저트의 판매량을 놓고 갑론을박하는 사이, Pearl Abyss의 9년 된 캐시카우가 2023년 이후 가장 강한 수치를 조용히 내고 있습니다. 특정 분석 프레임 하에서, 이 2차 효과는 2026년 실적 추정치를 의미 있게 바꿔 놓습니다.*

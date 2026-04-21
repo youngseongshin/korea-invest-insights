@@ -21,7 +21,7 @@ series: ["pearl-abyss-crimson-desert-thesis"]
 draft: false
 ---
 
-> 📚 **Series 5/5**: [Pearl Abyss × Crimson Desert Thesis — series hub →](/series/pearl-abyss-crimson-desert-thesis/)
+> 📚 **Series 5/6**: [Pearl Abyss × Crimson Desert Thesis — series hub →](/series/pearl-abyss-crimson-desert-thesis/)
 
 *This post is the fifth entry in the series. Previously: [5M milestone and franchise re-rating](/post/pearl-abyss-crimson-desert-5m-franchise-thesis-2026-04-15/), [sell-side consensus gap](/post/pearl-abyss-crimson-desert-consensus-gap-thesis-2026-04-18/), [initial thesis](/post/pearl-abyss-investment-thesis-crimson-desert-q1-2026/), and [the BDO second-order catalyst the market missed](/post/pearl-abyss-black-desert-online-resurgence-2026-04-19/). This entry is the forward-looking one: what should the **1Q26 consolidated print actually look like**, given the official sales milestones and the 4Q25 cost base we already know?*
 

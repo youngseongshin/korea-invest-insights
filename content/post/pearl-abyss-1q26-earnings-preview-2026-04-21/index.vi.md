@@ -21,7 +21,7 @@ series: ["pearl-abyss-crimson-desert-thesis"]
 draft: false
 ---
 
-> 📚 **Series 5/5**: [Pearl Abyss × Crimson Desert Thesis — trang tổng hợp series →](/series/pearl-abyss-crimson-desert-thesis/)
+> 📚 **Series 5/6**: [Pearl Abyss × Crimson Desert Thesis — trang tổng hợp series →](/series/pearl-abyss-crimson-desert-thesis/)
 
 *Đây là bài thứ năm trong series. Các bài trước: [Cột mốc 5 triệu và định giá lại franchise](/post/pearl-abyss-crimson-desert-5m-franchise-thesis-2026-04-15/), [Khoảng cách với đồng thuận sell-side](/post/pearl-abyss-crimson-desert-consensus-gap-thesis-2026-04-18/), [Luận điểm đầu tư ban đầu](/post/pearl-abyss-investment-thesis-crimson-desert-q1-2026/), và [Catalyst cấp hai từ BDO mà thị trường bỏ qua](/post/pearl-abyss-black-desert-online-resurgence-2026-04-19/). Bài này hướng về phía trước: **kết quả hợp nhất Q1/2026 thực sự nên trông như thế nào**, dựa trên các cột mốc doanh số chính thức và cơ cấu chi phí Q4/2025 đã biết?*
 

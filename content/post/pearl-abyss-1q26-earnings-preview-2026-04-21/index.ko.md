@@ -21,7 +21,7 @@ series: ["pearl-abyss-crimson-desert-thesis"]
 draft: false
 ---
 
-> 📚 **시리즈 5/5**: [펄어비스 × 크림슨 데저트 투자 논거 — 시리즈 허브 →](/series/pearl-abyss-crimson-desert-thesis/)
+> 📚 **시리즈 5/6**: [펄어비스 × 크림슨 데저트 투자 논거 — 시리즈 허브 →](/series/pearl-abyss-crimson-desert-thesis/)
 
 *이 글은 시리즈의 다섯 번째 편이다. 앞선 편: [500만 장 마일스톤과 프랜차이즈 재평가](/post/pearl-abyss-crimson-desert-5m-franchise-thesis-2026-04-15/), [셀사이드 컨센서스 괴리](/post/pearl-abyss-crimson-desert-consensus-gap-thesis-2026-04-18/), [초기 투자 논거](/post/pearl-abyss-investment-thesis-crimson-desert-q1-2026/), [시장이 놓친 BDO 2차 모멘텀](/post/pearl-abyss-black-desert-online-resurgence-2026-04-19/). 이번 편은 미래 지향적 질문에 답한다: 공식 판매 마일스톤과 이미 알려진 4Q25 비용 구조를 바탕으로, **1Q26 연결 실적은 실제로 어떤 모습이어야 하는가?***
 

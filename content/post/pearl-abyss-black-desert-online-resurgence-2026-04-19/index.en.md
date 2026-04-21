@@ -21,7 +21,7 @@ series: ["pearl-abyss-crimson-desert-thesis"]
 draft: false
 ---
 
-> 📚 **Series 4/5**: [Pearl Abyss × Crimson Desert Thesis — series hub →](/series/pearl-abyss-crimson-desert-thesis/)
+> 📚 **Series 4/6**: [Pearl Abyss × Crimson Desert Thesis — series hub →](/series/pearl-abyss-crimson-desert-thesis/)
 
 ---
 

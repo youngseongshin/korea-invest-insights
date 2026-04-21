@@ -21,7 +21,7 @@ series: ["pearl-abyss-crimson-desert-thesis"]
 draft: false
 ---
 
-> 📚 **Série 4/5**: [Pearl Abyss × Crimson Desert — série complète →](/series/pearl-abyss-crimson-desert-thesis/)
+> 📚 **Série 4/6**: [Pearl Abyss × Crimson Desert — série complète →](/series/pearl-abyss-crimson-desert-thesis/)
 
 
 *Ce billet fait partie de la série [Pearl Abyss Crimson Desert Thesis](/series/pearl-abyss-crimson-desert-thesis/). Les billets précédents ont examiné [le re-rating de la franchise au cap des 5M d'unités](/post/pearl-abyss-crimson-desert-5m-franchise-thesis-2026-04-15/) et [l'écart par rapport au consensus sell-side](/post/pearl-abyss-crimson-desert-consensus-gap-thesis-2026-04-18/). Ce billet aborde une question différente : pendant que le marché débat des ventes unitaires de Crimson Desert, la vache à lait vieille de neuf ans de Pearl Abyss affiche discrètement ses meilleurs chiffres depuis 2023. Sous un certain angle analytique, cet effet de second ordre remodèle sensiblement les prévisions de résultats 2026.*

@@ -21,7 +21,7 @@ series: ["pearl-abyss-crimson-desert-thesis"]
 draft: false
 ---
 
-> 📚 **系列 4/5**: [Pearl Abyss × Crimson Desert 系列主页 →](/series/pearl-abyss-crimson-desert-thesis/)
+> 📚 **系列 4/6**: [Pearl Abyss × Crimson Desert 系列主页 →](/series/pearl-abyss-crimson-desert-thesis/)
 
 
 *本文是 [Pearl Abyss Crimson Desert Thesis](/series/pearl-abyss-crimson-desert-thesis/) 系列的一部分。前序文章分别分析了 [500万里程碑带来的IP重估](/post/pearl-abyss-crimson-desert-5m-franchise-thesis-2026-04-15/) 以及 [卖方共识缺口](/post/pearl-abyss-crimson-desert-consensus-gap-thesis-2026-04-18/)。本文聚焦于一个截然不同的问题：当市场还在争论《绯红荒漠》的销量时，Pearl Abyss那款运营了九年的摇钱树正在悄然跑出2023年以来最强数据。从某一分析维度来看，这一二阶效应将实质性地重塑2026年的盈利预期。*

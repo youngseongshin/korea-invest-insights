@@ -21,7 +21,7 @@ series: ["pearl-abyss-crimson-desert-thesis"]
 draft: false
 ---
 
-> 📚 **Serie 5/5**: [Pearl Abyss × Crimson Desert Thesis — hub de la serie →](/series/pearl-abyss-crimson-desert-thesis/)
+> 📚 **Serie 5/6**: [Pearl Abyss × Crimson Desert Thesis — hub de la serie →](/series/pearl-abyss-crimson-desert-thesis/)
 
 *Esta es la quinta entrega de la serie. Anteriores: [el hito de 5M y la revalorización de la franquicia](/post/pearl-abyss-crimson-desert-5m-franchise-thesis-2026-04-15/), [la brecha con el consenso del sell-side](/post/pearl-abyss-crimson-desert-consensus-gap-thesis-2026-04-18/), [la tesis inicial](/post/pearl-abyss-investment-thesis-crimson-desert-q1-2026/) y [el catalizador de segundo orden de BDO que el mercado ignoró](/post/pearl-abyss-black-desert-online-resurgence-2026-04-19/). Esta entrega es la prospectiva: ¿cómo debería quedar realmente el **resultado consolidado del 1T26**, dados los hitos oficiales de ventas y la base de costes del 4T25 que ya conocemos?*
 

@@ -21,7 +21,7 @@ series: ["pearl-abyss-crimson-desert-thesis"]
 draft: false
 ---
 
-> 📚 **系列第 5 篇（共 5 篇）**：[Pearl Abyss × 绯红荒漠投资主题——系列目录 →](/series/pearl-abyss-crimson-desert-thesis/)
+> 📚 **系列第 5 篇（共 6 篇）**：[Pearl Abyss × 绯红荒漠投资主题——系列目录 →](/series/pearl-abyss-crimson-desert-thesis/)
 
 *本文是该系列的第五篇。此前内容：[500 万套里程碑与 IP 重新定价](/post/pearl-abyss-crimson-desert-5m-franchise-thesis-2026-04-15/)、[卖方共识偏差](/post/pearl-abyss-crimson-desert-consensus-gap-thesis-2026-04-18/)、[初始投资主题](/post/pearl-abyss-investment-thesis-crimson-desert-q1-2026/)、[市场忽视的 BDO 二阶催化剂](/post/pearl-abyss-black-desert-online-resurgence-2026-04-19/)。本篇聚焦前瞻：**结合官方销售里程碑与已知的 4Q25 成本基础，1Q26 合并报表究竟应该呈现怎样的数字？***
 
