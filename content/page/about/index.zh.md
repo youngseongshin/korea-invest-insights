@@ -1,6 +1,7 @@
 ---
 title: "关于"
 slug: "about"
+aliases: ["/zh/about/"]
 layout: "page"
 ---
 

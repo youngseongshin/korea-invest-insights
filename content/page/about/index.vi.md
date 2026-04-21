@@ -1,6 +1,7 @@
 ---
 title: "Giới thiệu"
 slug: "about"
+aliases: ["/vi/about/"]
 layout: "page"
 ---
 

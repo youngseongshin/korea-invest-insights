@@ -21,6 +21,8 @@ series: ["pearl-abyss-crimson-desert-thesis"]
 draft: false
 ---
 
+> 📚 **シリーズ 4/4**: [Pearl Abyss × Crimson Desert シリーズハブ →](/series/pearl-abyss-crimson-desert-thesis/)
+
 
 *このポストは[Pearl Abyss Crimson Desert Thesis](/series/pearl-abyss-crimson-desert-thesis/)シリーズの一部です。前回の記事では[500万本達成によるフランチャイズ再評価](/post/pearl-abyss-crimson-desert-5m-franchise-thesis-2026-04-15/)と[セルサイドのコンセンサスギャップ](/post/pearl-abyss-crimson-desert-consensus-gap-thesis-2026-04-18/)について考察しました。今回はまったく異なる問いを探ります。市場がCrimson Desertの販売本数を議論する裏で、Pearl Abyssの9年選手のキャッシュカウが2023年以来最強の数字を静かに叩き出しています。ある分析の観点からすれば、この二次効果は2026年の業績予想を大きく塗り替えます。*
 

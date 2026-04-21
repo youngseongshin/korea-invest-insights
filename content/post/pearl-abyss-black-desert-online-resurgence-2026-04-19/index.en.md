@@ -21,6 +21,8 @@ series: ["pearl-abyss-crimson-desert-thesis"]
 draft: false
 ---
 
+> 📚 **Series 4/4**: [Pearl Abyss × Crimson Desert Thesis — series hub →](/series/pearl-abyss-crimson-desert-thesis/)
+
 ---
 
 *This post is part of the [Pearl Abyss Crimson Desert Thesis](/series/pearl-abyss-crimson-desert-thesis/) series. Earlier posts examined [the 5M milestone franchise re-rating](/post/pearl-abyss-crimson-desert-5m-franchise-thesis-2026-04-15/) and [the sell-side consensus gap](/post/pearl-abyss-crimson-desert-consensus-gap-thesis-2026-04-18/). This post examines a different question entirely: while the market debates Crimson Desert unit sales, Pearl Abyss's nine-year-old cash cow is quietly running its strongest numbers since 2023. Under one analytical lens, that second-order effect materially reshapes 2026 earnings.*
