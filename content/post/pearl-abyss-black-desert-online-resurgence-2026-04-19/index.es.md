@@ -21,7 +21,7 @@ series: ["pearl-abyss-crimson-desert-thesis"]
 draft: false
 ---
 
-> 📚 **Serie 4/4**: [Pearl Abyss × Crimson Desert — serie completa →](/series/pearl-abyss-crimson-desert-thesis/)
+> 📚 **Serie 4/5**: [Pearl Abyss × Crimson Desert — serie completa →](/series/pearl-abyss-crimson-desert-thesis/)
 
 
 *Este artículo forma parte de la serie [Pearl Abyss Crimson Desert Thesis](/series/pearl-abyss-crimson-desert-thesis/). Los artículos anteriores analizaron [el re-rating de franquicia tras el hito de los 5M de unidades](/post/pearl-abyss-crimson-desert-5m-franchise-thesis-2026-04-15/) y [la brecha en el consenso del sell-side](/post/pearl-abyss-crimson-desert-consensus-gap-thesis-2026-04-18/). Este artículo examina una pregunta distinta: mientras el mercado debate las ventas unitarias de Crimson Desert, la vaca lechera de nueve años de Pearl Abyss registra silenciosamente sus mejores cifras desde 2023. Bajo cierta perspectiva analítica, ese efecto de segundo orden remodela materialmente los beneficios de 2026.*
