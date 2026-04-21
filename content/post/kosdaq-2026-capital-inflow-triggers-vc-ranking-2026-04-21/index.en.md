@@ -18,8 +18,11 @@ tags:
   - "productive finance"
   - "Korean equities"
   - "policy analysis"
+series: ["kosdaq-structural-2026"]
 draft: false
 ---
+
+> 📚 **Series 1/2**: [KOSDAQ Structural Deep-Dive — series hub →](/series/kosdaq-structural-2026/)
 
 > **The noise says "KRW 1,400T of pension money is coming." The math says KRW 20–40T across the stack. What's actually being rebuilt is the exit market — not a 3,000 index target.**
 
