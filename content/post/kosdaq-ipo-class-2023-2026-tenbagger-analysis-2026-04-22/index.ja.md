@@ -19,7 +19,7 @@ series: ["kosdaq-structural-2026"]
 draft: false
 ---
 
-> 📚 **シリーズ 2/2**: [KOSDAQストラクチャル深掘り——シリーズハブ →](/series/kosdaq-structural-2026/)
+> 📚 **シリーズ 2/3**: [KOSDAQストラクチャル深掘り——シリーズハブ →](/series/kosdaq-structural-2026/)
 
 *第2回。前回：[韓国の2026年KOSDAQポリシーパッケージ——10の資本流入トリガーのVCプラクティショナーランキング](/post/kosdaq-2026-capital-inflow-triggers-vc-ranking-2026-04-21/)では**資金流入チャネル**をマッピングした。今回はその逆の問いを立てる：資金が到達した後、**実際にどこで複利成長するのか？** 2023〜2026年の新規上場コホートから得られる答えは、驚くほど集中している。*
 

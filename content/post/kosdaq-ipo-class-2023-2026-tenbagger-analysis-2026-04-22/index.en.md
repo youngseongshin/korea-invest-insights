@@ -19,7 +19,7 @@ series: ["kosdaq-structural-2026"]
 draft: false
 ---
 
-> 📚 **Series 2/2**: [KOSDAQ Structural Deep-Dive — series hub →](/series/kosdaq-structural-2026/)
+> 📚 **Series 2/3**: [KOSDAQ Structural Deep-Dive — series hub →](/series/kosdaq-structural-2026/)
 
 *Second entry. Prior: [Korea's 2026 KOSDAQ Policy Package — A VC-Practitioner Ranking of the Ten Active Capital-Inflow Triggers](/post/kosdaq-2026-capital-inflow-triggers-vc-ranking-2026-04-21/) mapped the **money-in channels**. This post asks the opposite question: once the money arrives, **where does it actually compound?** The answer from the 2023-2026 new-listing cohort is surprisingly concentrated.*
 

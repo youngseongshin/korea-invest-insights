@@ -22,7 +22,7 @@ series: ["kosdaq-structural-2026"]
 draft: false
 ---
 
-> 📚 **Serie 1/2**: [KOSDAQ Análisis Estructural — hub de la serie →](/series/kosdaq-structural-2026/)
+> 📚 **Serie 1/3**: [KOSDAQ Análisis Estructural — hub de la serie →](/series/kosdaq-structural-2026/)
 
 > **El ruido dice "1.400 billones KRW de fondos de pensiones están llegando." Los números dicen 20–40 billones KRW en toda la cadena. Lo que realmente se está reconstruyendo es el mercado de salidas — no un objetivo de índice en 3.000.**
 

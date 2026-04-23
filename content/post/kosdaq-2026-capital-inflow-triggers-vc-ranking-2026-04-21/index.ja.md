@@ -22,7 +22,7 @@ series: ["kosdaq-structural-2026"]
 draft: false
 ---
 
-> 📚 **シリーズ 1/2**: [KOSDAQ構造分析 — シリーズハブ →](/series/kosdaq-structural-2026/)
+> 📚 **シリーズ 1/3**: [KOSDAQ構造分析 — シリーズハブ →](/series/kosdaq-structural-2026/)
 
 > **ノイズは「KRW 1,400Tの年金資金が流入する」と言う。計算上はスタック全体でKRW 20〜40Tだ。実際に再構築されているのはエグジット市場であり、3,000という指数目標ではない。**
 

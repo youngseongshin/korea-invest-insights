@@ -19,7 +19,7 @@ series: ["kosdaq-structural-2026"]
 draft: false
 ---
 
-> 📚 **Série 2/2** : [Analyse structurelle KOSDAQ — hub de la série →](/series/kosdaq-structural-2026/)
+> 📚 **Série 2/3** : [Analyse structurelle KOSDAQ — hub de la série →](/series/kosdaq-structural-2026/)
 
 *Deuxième article. Précédent : [Le programme KOSDAQ 2026 de la Corée — Classement des dix déclencheurs actifs d'afflux de capitaux par un praticien du capital-risque](/post/kosdaq-2026-capital-inflow-triggers-vc-ranking-2026-04-21/) a cartographié les **canaux d'entrée de capitaux**. Cet article pose la question inverse : une fois l'argent arrivé, **où se capitalise-t-il vraiment ?** La réponse tirée de la cohorte 2023-2026 des nouvelles introductions est étonnamment concentrée.*
 

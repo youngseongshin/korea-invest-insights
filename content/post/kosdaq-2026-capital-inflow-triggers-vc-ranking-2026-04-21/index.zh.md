@@ -22,7 +22,7 @@ series: ["kosdaq-structural-2026"]
 draft: false
 ---
 
-> 📚 **系列第 1 篇（共 2 篇）**：[KOSDAQ 结构深度分析 — 系列主页 →](/series/kosdaq-structural-2026/)
+> 📚 **系列第 1 篇（共 3 篇）**：[KOSDAQ 结构深度分析 — 系列主页 →](/series/kosdaq-structural-2026/)
 
 > **外界的声音是"140万亿韩元养老金即将入场"。算下来，整个组合的净新增资金约为20–40万亿韩元。真正在重建的，是退出市场——而不是一个3,000点的指数目标。**
 

@@ -19,7 +19,7 @@ series: ["kosdaq-structural-2026"]
 draft: false
 ---
 
-> 📚 **Series 2/2**: [KOSDAQ Structural Deep-Dive — series hub →](/series/kosdaq-structural-2026/)
+> 📚 **Series 2/3**: [KOSDAQ Structural Deep-Dive — series hub →](/series/kosdaq-structural-2026/)
 
 *Bài thứ hai trong series. Bài trước: [Gói Chính Sách KOSDAQ 2026 của Hàn Quốc — Xếp Hạng 10 Động Lực Dòng Tiền Đang Hoạt Động Theo Góc Nhìn VC Thực Hành](/post/kosdaq-2026-capital-inflow-triggers-vc-ranking-2026-04-21/) đã lập bản đồ các **kênh tiền vào**. Bài này đặt câu hỏi ngược lại: một khi tiền đã vào, **nó thực sự sinh lời ở đâu?** Câu trả lời từ nhóm niêm yết mới 2023-2026 tập trung đến mức đáng ngạc nhiên.*
 
