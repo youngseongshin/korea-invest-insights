@@ -5,7 +5,7 @@ date: 2026-04-23T10:30:00+09:00
 description: "Recensement complet sur 3 ans de KOSPI + KOSDAQ : 2 613 actions, 27 ont atteint le 10×, un taux de réussite de 1,03 %. Trois quarts sont rentables, l'énergie/réseau est le cluster discret (8 sur 27), et ROE≥40 % avec P/E≤15 aurait permis de repérer plusieurs noms en amont."
 categories: ["Korea Market"]
 tags: ["tenbagger", "KOSPI", "KOSDAQ", "réseau-électrique", "semi-conducteurs", "analyse-factorielle", "série"]
-series: ["kosdaq-structural-2026"]
+series: ["kosdaq-structural-2026", "tenbagger-analysis-2026"]
 ---
 
 > **Série — KOSDAQ Structural 2026 (Partie 3 sur 3)**

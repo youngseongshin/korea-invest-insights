@@ -5,7 +5,7 @@ date: 2026-04-23T10:30:00+09:00
 description: "KOSPI + KOSDAQ全量三年普查：2,613只股票，27只实现10倍，命中率1.03%。四分之三盈利，电力/电网是隐形集群（27只中占8只），事前满足ROE≥40%且P/E≤15可筛出多只。"
 categories: ["韩国市场"]
 tags: ["十倍股", "KOSPI", "KOSDAQ", "电力电网", "半导体", "因子分析", "系列"]
-series: ["kosdaq-structural-2026"]
+series: ["kosdaq-structural-2026", "tenbagger-analysis-2026"]
 ---
 
 > **系列文章 — KOSDAQ 结构性机遇 2026（第3篇，共3篇）**

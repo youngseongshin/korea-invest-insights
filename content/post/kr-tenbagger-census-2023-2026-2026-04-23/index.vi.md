@@ -5,7 +5,7 @@ date: 2026-04-23T10:30:00+09:00
 description: "Khảo sát toàn diện 3 năm trên KOSPI + KOSDAQ: 2.613 cổ phiếu, 27 vượt ngưỡng 10×, tỷ lệ thành công 1,03%. Ba phần tư có lợi nhuận, điện/lưới điện là cụm ẩn (8/27), và ROE≥40% kết hợp P/E≤15 có thể đã lọc ra nhiều cổ phiếu này từ trước."
 categories: ["Korea Market"]
 tags: ["tenbagger", "KOSPI", "KOSDAQ", "điện-lưới-điện", "bán-dẫn", "phân-tích-nhân-tố", "series"]
-series: ["kosdaq-structural-2026"]
+series: ["kosdaq-structural-2026", "tenbagger-analysis-2026"]
 ---
 
 > **Series — KOSDAQ Structural 2026 (Phần 3/3)**

@@ -5,7 +5,7 @@ date: 2026-04-23T10:30:00+09:00
 description: "KOSPI + KOSDAQ 전 종목 3년 총조사: 2,613개 중 27개가 10배 달성, 적중률 1.03%. 4분의 3은 흑자 기업이었고, 전력·전력망이 숨은 클러스터(27개 중 8개)였으며, ROE≥40% + P/E≤15 스크린이 사전적으로 다수를 포착할 수 있었다."
 categories: ["Korea Market"]
 tags: ["텐배거", "KOSPI", "KOSDAQ", "전력망", "반도체", "팩터분석", "시리즈"]
-series: ["kosdaq-structural-2026"]
+series: ["kosdaq-structural-2026", "tenbagger-analysis-2026"]
 ---
 
 > **시리즈 — KOSDAQ Structural 2026 (3부작 완결)**

@@ -5,7 +5,7 @@ date: 2026-04-23T10:30:00+09:00
 description: "Full 3-year census of KOSPI + KOSDAQ: 2,613 stocks, 27 passed 10×, a 1.03% hit rate. Three-quarters are profitable, power/grid is the hidden cluster (8 of 27), and ROE≥40% with P/E≤15 would have caught several ex-ante."
 categories: ["Korea Market"]
 tags: ["tenbagger", "KOSPI", "KOSDAQ", "power-grid", "semiconductors", "factor-analysis", "series"]
-series: ["kosdaq-structural-2026"]
+series: ["kosdaq-structural-2026", "tenbagger-analysis-2026"]
 ---
 
 > **Series — KOSDAQ Structural 2026 (Part 3 of 3)**

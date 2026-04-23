@@ -5,7 +5,7 @@ date: 2026-04-23T10:30:00+09:00
 description: "Censo completo de 3 años en KOSPI + KOSDAQ: 2.613 acciones, 27 superaron el 10×, con una tasa de acierto del 1,03%. Tres cuartas partes son rentables, el sector eléctrico/red es el clúster oculto (8 de 27), y un ROE≥40% con P/E≤15 habría capturado varios ex ante."
 categories: ["Mercado Coreano"]
 tags: ["tenbagger", "KOSPI", "KOSDAQ", "red-electrica", "semiconductores", "analisis-factorial", "serie"]
-series: ["kosdaq-structural-2026"]
+series: ["kosdaq-structural-2026", "tenbagger-analysis-2026"]
 ---
 
 > **Serie — KOSDAQ Estructural 2026 (Parte 3 de 3)**

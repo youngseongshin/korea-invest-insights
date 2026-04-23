@@ -5,7 +5,7 @@ date: 2026-04-23T10:30:00+09:00
 description: "KOSPI + KOSDAQ 全2,613銘柄を3年間にわたって調査：10倍達成は27銘柄、ヒット率1.03%。4分の3が黒字企業、電力・グリッドが最大クラスター（27銘柄中8銘柄）、そしてROE≥40%かつP/E≤15のスクリーンが事前に複数銘柄を捕捉していた。"
 categories: ["Korea Market"]
 tags: ["テンバガー", "KOSPI", "KOSDAQ", "電力グリッド", "半導体", "ファクター分析", "シリーズ"]
-series: ["kosdaq-structural-2026"]
+series: ["kosdaq-structural-2026", "tenbagger-analysis-2026"]
 ---
 
 > **シリーズ — KOSDAQ Structural 2026（第3回 全3回）**
