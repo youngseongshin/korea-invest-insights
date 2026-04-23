@@ -1,5 +1,5 @@
 ---
-title: "KR Tenbaggers 2023-2026: The Full 10x Census — 27 Names, 1.03% Hit Rate, and Why Power Grid Quietly Won"
+title: "Korea's 27 Tenbaggers of 2023-2026: 1 in 100 Stocks Worked — And Power Grid Quietly Beat AI"
 slug: kr-tenbagger-census-2023-2026-2026-04-23
 date: 2026-04-23T10:30:00+09:00
 description: "Full 3-year census of KOSPI + KOSDAQ: 2,613 stocks, 27 passed 10×, a 1.03% hit rate. Three-quarters are profitable, power/grid is the hidden cluster (8 of 27), and ROE≥40% with P/E≤15 would have caught several ex-ante."

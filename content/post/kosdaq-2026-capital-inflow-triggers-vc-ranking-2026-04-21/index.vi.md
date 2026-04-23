@@ -22,7 +22,7 @@ series: ["kosdaq-structural-2026"]
 draft: false
 ---
 
-> 📚 **Chuỗi bài 1/3**: [Phân tích cấu trúc KOSDAQ — trang tổng hợp →](/series/kosdaq-structural-2026/)
+> 📚 **Chuỗi bài 1/4**: [Phân tích cấu trúc KOSDAQ — trang tổng hợp →](/series/kosdaq-structural-2026/)
 
 > **Thị trường đồn rằng "1.400 nghìn tỷ KRW tiền lương hưu sắp đổ vào." Tính toán thực tế cho thấy 20–40 nghìn tỷ KRW trên toàn bộ cấu trúc. Thứ thực sự đang được xây dựng lại là thị trường thoát vốn — không phải mục tiêu chỉ số 3.000.**
 

@@ -1,5 +1,5 @@
 ---
-title: "Tenbaggers de Corea 2023-2026: El Censo Completo de las 10× — 27 Nombres, Tasa de Acierto del 1,03% y Por Qué la Red Eléctrica Ganó en Silencio"
+title: "Los 27 tenbaggers de Corea (2023-2026): 1 de cada 100 acciones funcionó — y la red eléctrica venció silenciosamente a la IA"
 slug: kr-tenbagger-census-2023-2026-2026-04-23
 date: 2026-04-23T10:30:00+09:00
 description: "Censo completo de 3 años en KOSPI + KOSDAQ: 2.613 acciones, 27 superaron el 10×, con una tasa de acierto del 1,03%. Tres cuartas partes son rentables, el sector eléctrico/red es el clúster oculto (8 de 27), y un ROE≥40% con P/E≤15 habría capturado varios ex ante."

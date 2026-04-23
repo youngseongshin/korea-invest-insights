@@ -1,5 +1,5 @@
 ---
-title: "KR Tenbagger 2023-2026: Toàn Bộ Danh Sách Tăng 10× — 27 Cổ Phiếu, Tỷ Lệ 1,03%, và Vì Sao Lưới Điện Thầm Lặng Chiến Thắng"
+title: "27 Cổ Phiếu Tăng 10 Lần Của Hàn Quốc (2023-2026): Cứ 100 Mã Thì 1 Mã Thành Công — Và Lưới Điện Đã Thầm Lặng Đánh Bại AI"
 slug: kr-tenbagger-census-2023-2026-2026-04-23
 date: 2026-04-23T10:30:00+09:00
 description: "Khảo sát toàn diện 3 năm trên KOSPI + KOSDAQ: 2.613 cổ phiếu, 27 vượt ngưỡng 10×, tỷ lệ thành công 1,03%. Ba phần tư có lợi nhuận, điện/lưới điện là cụm ẩn (8/27), và ROE≥40% kết hợp P/E≤15 có thể đã lọc ra nhiều cổ phiếu này từ trước."

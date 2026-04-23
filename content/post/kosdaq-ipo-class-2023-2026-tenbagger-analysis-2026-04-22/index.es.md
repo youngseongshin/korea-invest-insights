@@ -19,7 +19,7 @@ series: ["kosdaq-structural-2026"]
 draft: false
 ---
 
-> 📚 **Serie 2/3**: [KOSDAQ Structural Deep-Dive — hub de la serie →](/series/kosdaq-structural-2026/)
+> 📚 **Serie 2/4**: [KOSDAQ Structural Deep-Dive — hub de la serie →](/series/kosdaq-structural-2026/)
 
 *Segunda entrega. Anterior: [El Paquete de Política KOSDAQ 2026 de Corea — Una Clasificación de los Diez Catalizadores Activos de Entrada de Capital desde la Perspectiva de un Practicante de VC](/post/kosdaq-2026-capital-inflow-triggers-vc-ranking-2026-04-21/) trazó los **canales de entrada de dinero**. Esta publicación plantea la pregunta opuesta: una vez que el dinero llega, **¿dónde se multiplica realmente?** La respuesta de la cohorte de nuevas cotizaciones 2023-2026 es sorprendentemente concentrada.*
 

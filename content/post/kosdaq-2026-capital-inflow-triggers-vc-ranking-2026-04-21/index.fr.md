@@ -22,7 +22,7 @@ series: ["kosdaq-structural-2026"]
 draft: false
 ---
 
-> 📚 **Série 1/3**: [KOSDAQ Analyse Structurelle — hub de la série →](/series/kosdaq-structural-2026/)
+> 📚 **Série 1/4**: [KOSDAQ Analyse Structurelle — hub de la série →](/series/kosdaq-structural-2026/)
 
 > **Le bruit ambiant dit « 1 400 billions KRW de fonds de retraite arrivent ». Les calculs donnent 20–40 billions KRW sur l'ensemble de la pile. Ce qu'on reconstruit réellement, c'est le marché de sortie — pas un objectif d'indice à 3 000.**
 

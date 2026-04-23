@@ -1,5 +1,5 @@
 ---
-title: "KR Tenbaggers 2023-2026 : Le recensement complet des 10× — 27 noms, 1,03 % de taux de réussite, et pourquoi le réseau électrique a discrètement dominé"
+title: "Les 27 tenbaggers coréens de 2023-2026 : 1 action sur 100 a fonctionné — et le réseau électrique a discrètement battu l'IA"
 slug: kr-tenbagger-census-2023-2026-2026-04-23
 date: 2026-04-23T10:30:00+09:00
 description: "Recensement complet sur 3 ans de KOSPI + KOSDAQ : 2 613 actions, 27 ont atteint le 10×, un taux de réussite de 1,03 %. Trois quarts sont rentables, l'énergie/réseau est le cluster discret (8 sur 27), et ROE≥40 % avec P/E≤15 aurait permis de repérer plusieurs noms en amont."

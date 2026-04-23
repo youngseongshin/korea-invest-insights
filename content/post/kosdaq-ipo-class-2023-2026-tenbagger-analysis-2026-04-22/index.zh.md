@@ -19,7 +19,7 @@ series: ["kosdaq-structural-2026"]
 draft: false
 ---
 
-> 📚 **系列第2篇（共3篇）**：[KOSDAQ结构深度研究——系列总览 →](/series/kosdaq-structural-2026/)
+> 📚 **系列第2篇（共4篇）**：[KOSDAQ结构深度研究——系列总览 →](/series/kosdaq-structural-2026/)
 
 *本文为系列第二篇。上篇：[韩国2026年KOSDAQ政策组合拳——VC从业者视角的十大资金流入触发器排名](/post/kosdaq-2026-capital-inflow-triggers-vc-ranking-2026-04-21/)梳理了**资金流入渠道**。本文反向追问：资金进场之后，**究竟在哪里复利增长？** 从2023-2026届新股上市数据来看，答案出人意料地集中。*
 
