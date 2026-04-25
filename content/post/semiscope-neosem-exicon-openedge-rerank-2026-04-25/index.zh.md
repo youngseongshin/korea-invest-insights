@@ -2,7 +2,7 @@
 title: "SemiScope：韩国三家内存ATE与IP企业重新排名——为何Exicon才是2026年J曲线交易的核心，而非可有可无的配角"
 slug: semiscope-neosem-exicon-openedge-rerank-2026-04-25
 date: 2026-04-25T18:00:00+09:00
-description: "对市场共识"Neosem=核心仓位 / OpenEdge=长期期权 / Exicon=可有可无"这一框架的深度重读。一旦将CXL纯度棱镜与2026年盈利动能棱镜分开审视，Exicon（092870 KQ）便浮现为三者中近期J曲线最为陡峭的标的——累计订单达790亿韩元，对比2024年营收316亿韩元，CLT 11,520并行测试仪已完成三星单一供应商认证。Neosem是需要1Q26财报确认的周期中段赌注。OpenEdge仍是3至5年的IP期权，版税占比仅0.4%。"
+description: "对市场共识「Neosem=核心仓位 / OpenEdge=长期期权 / Exicon=可有可无」这一框架的深度重读。一旦将CXL纯度棱镜与2026年盈利动能棱镜分开审视，Exicon（092870 KQ）便浮现为三者中近期J曲线最为陡峭的标的——累计订单达790亿韩元，对比2024年营收316亿韩元，CLT 11,520并行测试仪已完成三星单一供应商认证。Neosem是需要1Q26财报确认的周期中段赌注。OpenEdge仍是3至5年的IP期权，版税占比仅0.4%。"
 categories: ["韩国科技供应链", "设备与材料", "半导体IP"]
 tags: ["Exicon", "Neosem", "OpenEdge", "CXL", "DRAM ATE", "SSD测试仪", "CLT", "三星", "HBM", "LPDDR6", "picks-and-shovels", "系列"]
 series: ["semiscope-2026"]
