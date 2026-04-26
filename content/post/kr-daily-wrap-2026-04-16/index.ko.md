@@ -1,10 +1,10 @@
 ---
-title: "Korea Daily Wrap 2026-04-16: 퀄리티 컴파운더가 이끄는 한국 불장"
+title: "SK스퀘어·온코닉테라퓨틱스·보성파워텍 부상: 4월 16일 퀄리티 컴파운더 장세"
 date: 2026-04-16T16:30:00+09:00
 categories: ["daily-wrap"]
-tags: ["KOSPI", "Korea stocks", "quality compounder", "반도체", "통신인프라", "한국주식", "퀄리티스크리너"]
+tags: ["KOSPI", "Korea stocks", "quality compounder", "SK스퀘어", "온코닉테라퓨틱스", "보성파워텍", "산일전기", "SK하이닉스", "리노공업", "반도체", "통신인프라", "한국주식", "퀄리티스크리너"]
 slug: "kr-daily-wrap-2026-04-16"
-description: "KOSPI 6,226 불레짐 확인, 반도체·통신인프라 주도. 퀄리티 컴파운더 스크리너 상위 10선 분석."
+description: "KOSPI 6,226 불레짐 속 퀄리티 컴파운더 스크리너에서 SK스퀘어, 온코닉테라퓨틱스, 보성파워텍이 상위권에 올랐다. 산일전기, SK하이닉스, 리노공업까지 반도체·전력 인프라 후보를 점검한다."
 draft: false
 ---
 

@@ -1,10 +1,10 @@
 ---
-title: "Korea Daily Wrap 2026-04-21: 한·미 동반 Bull, 스마트머니가 찍은 종목들"
+title: "선익시스템·동아엘텍·SK스퀘어 포착: 4월 21일 한·미 동반 Bull과 스마트머니 실적주"
 date: 2026-04-21T16:30:00+09:00
 categories: ["daily-wrap"]
-tags: ["KOSPI", "KOSDAQ", "Korea stocks", "스마트머니", "실적개선", "반도체", "방산", "전력기기"]
+tags: ["KOSPI", "KOSDAQ", "Korea stocks", "스마트머니", "실적개선", "선익시스템", "동아엘텍", "SK스퀘어", "SK하이닉스", "반도체", "방산", "전력기기"]
 slug: "kr-daily-wrap-2026-04-21"
-description: "KOSPI 6,388·KOSDAQ 1,179 강세 유지. 스마트머니+실적개선 스크리너 상위엔 반도체·방산·전력기기 집중."
+description: "4월 21일 스마트머니+실적개선 스크리너에서 선익시스템, 동아엘텍, SK스퀘어가 상위권에 올랐다. KOSPI 6,388·KOSDAQ 1,179 한·미 동반 Bull 속 반도체·방산·전력기기 수급을 점검한다."
 draft: false
 ---
 

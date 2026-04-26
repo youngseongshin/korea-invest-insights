@@ -1,10 +1,10 @@
 ---
-title: "Korea Daily Wrap 2026-04-23: 퀄리티 컴파운더가 이끄는 강세장"
+title: "SK스퀘어·산일전기·SK하이닉스 주목: 4월 23일 퀄리티 컴파운더 강세장"
 date: 2026-04-23T16:30:00+09:00
 categories: ["daily-wrap"]
-tags: ["KOSPI", "Korea stocks", "Quality Compounder", "SK하이닉스", "반도체", "장비주", "Bull market"]
+tags: ["KOSPI", "Korea stocks", "Quality Compounder", "SK스퀘어", "산일전기", "SK하이닉스", "세명전기", "기가비스", "반도체", "장비주", "전력기기", "Bull market"]
 slug: "kr-daily-wrap-2026-04-23"
-description: "KOSPI 6,476 강세 속 퀄리티 컴파운더 스크리너 상위 20종목 분석. SK스퀘어·산일전기·SK하이닉스 주목. (138자)"
+description: "4월 23일 퀄리티 컴파운더 스크리너에서 SK스퀘어, 산일전기, SK하이닉스가 주목 종목으로 부상했다. KOSPI 6,476 강세 속 전력기기·반도체 장비·전자부품 수급을 점검한다."
 draft: false
 ---
 

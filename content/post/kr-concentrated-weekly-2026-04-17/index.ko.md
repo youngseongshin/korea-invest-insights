@@ -1,10 +1,10 @@
 ---
-title: "KOSPI 집중 전략: AI·전장 핵심주 2026-04-17"
+title: "삼성전자·삼성전기·펄어비스 집중 전략: 4월 17일 KOSPI AI·전장 핵심주"
 date: 2026-04-17T23:30:00+09:00
 categories: ["weekly-strategy"]
-tags: ["KOSPI", "한국주식", "삼성전자", "삼성전기", "반도체"]
+tags: ["KOSPI", "한국주식", "삼성전자", "삼성전기", "펄어비스", "SK텔레콤", "마벨", "메타", "반도체", "AI인프라", "전장"]
 slug: "kr-concentrated-weekly-2026-04-17"
-description: "Risk-On 국면의 KOSPI에서 삼성전자·삼성전기·마벨·메타 중심 집중 전략과 펄어비스 재평가 근거를 분석합니다. (145자)"
+description: "Risk-On 국면의 KOSPI에서 삼성전자, 삼성전기, 펄어비스, SK텔레콤을 점검한다. 마벨·메타까지 연결해 AI 인프라, 전장 부품, 크림슨 데저트 재평가 근거를 분석한다."
 draft: false
 ---
 

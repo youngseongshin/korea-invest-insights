@@ -1,8 +1,8 @@
 ---
-title: "한국 주식 스크리너 Top 5: 2026년 4월 16일 기준"
+title: "세명전기·우원개발·SK하이닉스·SK스퀘어·파미셀: 한국 주식 스크리너 Top 5"
 date: 2026-04-18T09:00:00+09:00
 slug: "kr-weekly-screener-top5-2026-04-16"
-description: "2026년 4월 9~16일 한 주간, 복수의 독립적 정량 스크리너를 동시에 통과한 한국 주식 5종목 — 방법론, 주요 지표, 글로벌 투자자를 위한 리스크 프레임."
+description: "2026년 4월 9~16일 한 주간 세명전기, 우원개발, SK하이닉스, SK스퀘어, 파미셀이 복수의 독립 정량 스크리너를 동시에 통과했다. 방법론, 주요 지표, 리스크 프레임을 정리한다."
 categories: ["market-analysis"]
 series: "weekly-screener-intersection"
 tags:

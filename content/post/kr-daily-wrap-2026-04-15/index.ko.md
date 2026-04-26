@@ -1,10 +1,10 @@
 ---
-title: "Korea Daily Wrap 2026-04-15: 외국인 침묵 축적의 포착"
+title: "고려산업·케이씨피드·한화에어로스페이스 포착: 4월 15일 외국인 조용한 매집"
 date: 2026-04-15T16:30:00+09:00
 categories: ["daily-wrap"]
-tags: ["KOSPI", "Korea stocks", "Quiet Accumulation", "외국인 수급", "코스피", "한국 주식시장", "조용한수집"]
+tags: ["KOSPI", "Korea stocks", "Quiet Accumulation", "외국인 수급", "고려산업", "케이씨피드", "한화에어로스페이스", "삼성전자", "삼성전기", "대한광통신", "쏠리드", "RFHIC", "케이엠더블유", "코스피", "한국 주식시장", "조용한수집"]
 slug: "kr-daily-wrap-2026-04-15"
-description: "KOSPI 5,808 보합권 속 외국인이 조용히 쌓는 종목 포착. Quiet Accumulation 스크리너 상위 10선과 4월 한국 시장 흐름 심층 분석."
+description: "KOSPI 5,808 보합권 속 Quiet Accumulation 스크리너에서 고려산업, 케이씨피드, 한화에어로스페이스가 포착됐다. 외국인이 조용히 쌓는 한국 주식과 반도체·통신 인프라 수급을 점검한다."
 draft: false
 ---
 

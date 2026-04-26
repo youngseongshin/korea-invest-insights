@@ -1,10 +1,10 @@
 ---
-title: "Korea Daily Wrap 2026-04-17: Bull 레짐 Day 13, 주도주 압축 장세"
+title: "성호전자·대우건설·미래에셋벤처투자 강세: 4월 17일 Bull Day 13 주도주 압축"
 date: 2026-04-17T16:30:00+09:00
 categories: ["daily-wrap"]
-tags: ["KOSPI", "Korea stocks", "Market Discovery", "통신인프라", "반도체소부장", "주도주", "강세장"]
+tags: ["KOSPI", "Korea stocks", "Market Discovery", "성호전자", "대우건설", "미래에셋벤처투자", "아주IB투자", "기가레인", "광전자", "랩지노믹스", "RF머트리얼즈", "제이알글로벌리츠", "통신인프라", "반도체소부장", "주도주", "강세장"]
 slug: "kr-daily-wrap-2026-04-17"
-description: "KOSPI 6,192(+6.6%/5일)·KOSDAQ 1,170 강세, KR·US 동조 Bull 레짐. 통신 인프라·반도체 소부장 주도 선별 장세. Market Discovery 스크리너 종목 심층 분석 포함."
+description: "4월 17일 Market Discovery에서 성호전자, 대우건설, 미래에셋벤처투자, 아주IB투자, 기가레인이 상위권에 올랐다. KOSPI 6,192, KR·US 동조 Bull 레짐 속 주도주 압축 장세를 점검한다."
 draft: false
 ---
 

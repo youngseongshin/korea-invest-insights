@@ -1,10 +1,10 @@
 ---
-title: "Korea Daily Wrap 2026-04-14: Bull 전환, 스마트머니가 실적주 선점"
+title: "SK스퀘어·SK하이닉스·에이피알 선점: 4월 14일 Bull 전환과 스마트머니 실적주"
 date: 2026-04-14T16:30:00+09:00
 categories: ["daily-wrap"]
-tags: ["KOSPI", "Korea stocks", "스마트머니", "실적개선", "반도체", "SK하이닉스", "외국인수급"]
+tags: ["KOSPI", "Korea stocks", "스마트머니", "실적개선", "반도체", "SK스퀘어", "SK하이닉스", "에이피알", "삼성전자", "삼성전기", "대한광통신", "쏠리드", "RFHIC", "케이엠더블유", "외국인수급"]
 slug: "kr-daily-wrap-2026-04-14"
-description: "한국장 Bull 전환 첫날, KOSPI 5,968·KOSDAQ 1,122 강세. 스마트머니+실적개선 스크리너 상위 종목 총정리."
+description: "4월 14일 한국장 Bull 전환 첫날, 스마트머니+실적개선 스크리너에서 SK스퀘어, SK하이닉스, 에이피알이 상위권에 올랐다. 삼성전자·삼성전기와 통신 인프라 장비주 수급도 점검한다."
 draft: false
 ---
 

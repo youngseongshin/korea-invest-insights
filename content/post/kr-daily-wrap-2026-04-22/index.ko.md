@@ -1,10 +1,10 @@
 ---
-title: "Korea Daily Wrap 2026-04-22: KR·US 쌍불 레짐 복귀, 외인 조용히 쌓는다"
+title: "극동유화·고려산업·오리온 외인 매집: 4월 22일 KR·US 쌍불 레짐 복귀"
 date: 2026-04-22T16:30:00+09:00
 categories: ["daily-wrap"]
-tags: ["KOSPI", "Korea stocks", "Quiet Accumulation", "외인매집", "Bull regime", "방산", "소비재", "화학"]
+tags: ["KOSPI", "Korea stocks", "Quiet Accumulation", "외인매집", "극동유화", "고려산업", "오리온", "한화에어로스페이스", "SNT다이내믹스", "금호석유화학", "삼성증권", "DB손해보험", "삼성생명", "이마트", "대한항공", "Bull regime", "방산", "소비재", "화학"]
 slug: "kr-daily-wrap-2026-04-22"
-description: "KOSPI 6,418 KR·US 동반 Bull 레짐 복귀. VIX 19.1 안정, 브렌트 $94 급등 속 외인이 22개 종목에서 조용히 포지션 구축. 수요일 Quiet Accumulation 스크리너 심층 분석."
+description: "4월 22일 Quiet Accumulation 스크리너에서 극동유화, 고려산업, 오리온이 상위권에 올랐다. KOSPI 6,418 KR·US 동반 Bull 복귀 속 한화에어로스페이스, 금융주, 소비재의 외인 매집을 점검한다."
 draft: false
 ---
 

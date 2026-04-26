@@ -1,10 +1,10 @@
 ---
-title: "Korea Daily Wrap 2026-04-20: KOSPI Bull 전환, PEAD 드리프트 점화"
+title: "한화비전·우원개발·서호전기 급부상: 4월 20일 KOSPI Bull 전환과 PEAD 드리프트"
 date: 2026-04-20T16:30:00+09:00
 categories: ["daily-wrap"]
-tags: ["KOSPI", "Korea stocks", "PEAD", "실적드리프트", "한화비전", "SK하이닉스", "조선", "반도체"]
+tags: ["KOSPI", "Korea stocks", "PEAD", "실적드리프트", "한화비전", "우원개발", "서호전기", "SK하이닉스", "삼성전자", "대덕전자", "원익IPS", "HD현대마린엔진", "한화엔진", "에이피알", "삼양식품", "조선", "반도체"]
 slug: "kr-daily-wrap-2026-04-20"
-description: "KOSPI 6,219p Bull 레짐 전환 첫날 확인. PEAD 120종목 플래그, 한화비전 OP +2,851%·SK하이닉스 드리프트 가속. KR 선택 확대 스탠스 유효."
+description: "4월 20일 PEAD 스크리너에서 한화비전, 우원개발, 서호전기가 상위권에 올랐다. KOSPI 6,219p Bull 전환 속 SK하이닉스, 삼성전자, 조선·에너지·K뷰티 실적 드리프트를 점검한다."
 draft: false
 ---
 
