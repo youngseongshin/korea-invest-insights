@@ -113,16 +113,20 @@ buildFuture = true  # 장마감 브리핑(16:30 KST) 등 발행 시각보다 살
       description = "Korean market insights from a professional investor & VC perspective"
     [[languages.en.menu.main]]
       name = "Home"
-      url = "/"
+      url = "/en/"
       weight = 1
     [[languages.en.menu.main]]
-      name = "Archives"
-      url = "/page/archives"
+      name = "Start Here"
+      url = "/en/page/start-here"
       weight = 2
     [[languages.en.menu.main]]
-      name = "About"
-      url = "/page/about"
+      name = "Archives"
+      url = "/en/page/archives"
       weight = 3
+    [[languages.en.menu.main]]
+      name = "About"
+      url = "/en/page/about"
+      weight = 4
 
   [languages.ja]
     languageName = "日本語"

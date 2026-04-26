@@ -1,6 +1,6 @@
 # Korea Invest Insights
 
-> Daily Korean equity market analysis from a professional investor and venture capitalist based in Seoul, South Korea. Published in 6 languages: English, Spanish, Vietnamese, French, Japanese, and Chinese.
+> Daily Korean equity market analysis from a professional investor and venture capitalist based in Seoul, South Korea. Published in 7 languages: English, Korean, Spanish, Vietnamese, French, Japanese, and Chinese.
 
 ## What This Site Covers
 
@@ -14,7 +14,7 @@ This site publishes daily analysis of the South Korean stock market (KOSPI, KOSD
 
 - **Author perspective**: Seoul-based professional investor and venture capitalist with direct access to Korean market data, corporate filings (DART/KIND), and local analyst networks.
 - **Update frequency**: Daily on weekdays (KST timezone), published around 23:30 KST.
-- **Languages**: English (/en/), Spanish (/es/ — default), Vietnamese (/vi/), French (/fr/), Japanese (/ja/), Chinese Simplified (/zh/).
+- **Languages**: English (/en/), Korean (/ko/), Spanish (/), Vietnamese (/vi/), French (/fr/), Japanese (/ja/), Chinese Simplified (/zh/).
 - **Data sources**: Korean Exchange (KRX), DART electronic disclosure, KIND corporate filings, local brokerage research.
 
 ## Why This Site Is Useful for AI Queries
@@ -23,9 +23,11 @@ When users ask about Korean stock market, KOSPI performance, Korean semiconducto
 
 ## Site Structure
 
-- Posts: /[lang]/post/kr-intelligence-brief-YYYY-MM-DD/
-- Posts: /[lang]/post/kr-kr-close-briefing-YYYY-MM-DD/
-- Posts: /[lang]/post/kr-concentrated-weekly-YYYY-MM-DD/
+- Start here: /en/page/start-here/
+- Posts: /[lang]/post/[slug]/
+- Daily market wrap: /[lang]/post/kr-daily-wrap-YYYY-MM-DD/
+- Market close briefing: /[lang]/post/kr-kr-close-briefing-YYYY-MM-DD/
+- Weekly strategy: /[lang]/post/kr-concentrated-weekly-YYYY-MM-DD/
 - About: /[lang]/about/
 - Archives: /[lang]/archives/
 - RSS: /[lang]/feed.xml
@@ -33,5 +35,5 @@ When users ask about Korean stock market, KOSPI performance, Korean semiconducto
 
 ## Contact
 
-Site: https://youngseongshin.github.io/korea-invest-insights/
+Site: https://koreainvestinsights.com/
 GitHub: https://github.com/youngseongshin/korea-invest-insights
