@@ -1,5 +1,5 @@
 ---
-title: "Luận Điểm Tái Định Giá SK Telecom — Từ Cổ Phiếu Cổ Tức Viễn Thông Đến Nhà Vận Hành Hạ Tầng AI: Tại Sao ₩100,000 Không Phải Giá Vào Lệnh"
+title: "Luận Điểm Tái Định Giá SK Telecom — Từ Cổ Phiếu Cổ Tức Viễn Thông Đến Nhà Vận Hành Hạ Tầng AI"
 slug: sk-telecom-rerating-ai-infrastructure-operator-2026-04-25
 date: 2026-04-25T22:30:00+09:00
 description: "Câu chuyện tái định giá SK Telecom không phải là 'bình thường hóa cổ tức.' Đây là sự tổng hợp của dòng tiền viễn thông cốt lõi + vốn cổ phần Anthropic + AIDC/GPUaaS + các quyền chọn Edge AI/AI-RAN/Network API. Ở mức ₩100,000, chặng đầu tiên đã được định giá phần lớn. Nắm giữ / mua vào khi điều chỉnh xuống dưới ₩90,000 hoặc sau khi xác nhận cổ tức, kết quả kinh doanh quý 1/2 và tăng trưởng AIDC."

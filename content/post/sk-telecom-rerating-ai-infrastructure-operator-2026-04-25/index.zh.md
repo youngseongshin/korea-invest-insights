@@ -1,5 +1,5 @@
 ---
-title: "SK电信重新评级论点——从电信分红股到AI基础设施运营商：为何₩100,000并非理想入场价"
+title: "SK电信重新评级论点——从电信分红股到AI基础设施运营商"
 slug: sk-telecom-rerating-ai-infrastructure-operator-2026-04-25
 date: 2026-04-25T22:30:00+09:00
 description: "SK电信的重新评级并非'股息正常化'故事，而是电信核心现金流 + Anthropic股权 + AIDC/GPUaaS + 边缘AI/AI-RAN/网络API期权的重新组合。在₩100,000价位，第一阶段已基本反映。建议持有/逢低于₩90,000或1Q/2Q股息、业绩及AIDC增长确认后买入。"

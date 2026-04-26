@@ -1,5 +1,5 @@
 ---
-title: "Tesis de Re-Rating de SK Telecom — De Telco de Dividendos a Operador de Infraestructura IA: Por Qué ₩100.000 No Es el Precio de Entrada"
+title: "Tesis de Re-Rating de SK Telecom — De Telco de Dividendos a Operador de Infraestructura IA"
 slug: sk-telecom-rerating-ai-infrastructure-operator-2026-04-25
 date: 2026-04-25T22:30:00+09:00
 description: "El re-rating de SK Telecom no es una historia de 'normalización de dividendos'. Es la recombinación de flujo de caja telco central + participación en Anthropic + AIDC/GPUaaS + opciones de Edge AI/AI-RAN/Network API. A ₩100.000, la primera fase está ampliamente descontada. Mantener / comprar en caídas por debajo de ₩90.000 o tras la confirmación de dividendos del 1T/2T, resultados y crecimiento del AIDC."

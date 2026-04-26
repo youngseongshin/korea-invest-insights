@@ -1,5 +1,5 @@
 ---
-title: "SK Telecom Re-Rating Thesis — From Telco Dividend Stock to AI Infrastructure Operator: Why ₩100,000 Is Not the Entry Price"
+title: "SK Telecom Re-Rating Thesis — From Telco Dividend Stock to AI Infrastructure Operator"
 slug: sk-telecom-rerating-ai-infrastructure-operator-2026-04-25
 date: 2026-04-25T22:30:00+09:00
 description: "The SK Telecom re-rating is not a 'dividend normalization' story. It's a recombination of telco core cash flow + Anthropic equity + AIDC/GPUaaS + Edge AI/AI-RAN/Network API options. At ₩100,000 the first leg is largely priced in. Hold / buy on pullback below ₩90,000 or after 1Q/2Q dividend, earnings, and AIDC growth confirmation."

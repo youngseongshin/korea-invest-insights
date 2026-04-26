@@ -1,5 +1,5 @@
 ---
-title: "Thèse de réévaluation de SK Telecom — Du dividende télécoms à l'opérateur d'infrastructure IA : Pourquoi ₩100 000 n'est pas le prix d'entrée"
+title: "Thèse de réévaluation de SK Telecom — Du dividende télécoms à l'opérateur d'infrastructure IA"
 slug: sk-telecom-rerating-ai-infrastructure-operator-2026-04-25
 date: 2026-04-25T22:30:00+09:00
 description: "La réévaluation de SK Telecom n'est pas une histoire de « normalisation du dividende ». C'est la recombinaison du flux de trésorerie télécoms cœur + participation Anthropic + AIDC/GPUaaS + options Edge AI/AI-RAN/Network API. À ₩100 000, la première phase est largement intégrée dans les cours. Conserver / acheter sur repli sous ₩90 000 ou après confirmation du dividende, des résultats et de la croissance AIDC au 1T/2T."

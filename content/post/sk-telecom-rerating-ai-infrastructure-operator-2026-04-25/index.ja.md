@@ -1,5 +1,5 @@
 ---
-title: "SKテレコム再評価テーゼ — 通信配当株からAIインフラオペレーターへ：なぜ₩100,000は押し目の水準ではないのか"
+title: "SKテレコム再評価テーゼ — 通信配当株からAIインフラオペレーターへ"
 slug: sk-telecom-rerating-ai-infrastructure-operator-2026-04-25
 date: 2026-04-25T22:30:00+09:00
 description: "SKテレコムの再評価は「配当の正常化」ストーリーではない。通信コアキャッシュフロー＋Anthropic株式＋AIDC/GPUaaS＋Edge AI/AI-RAN/Network APIオプションの複合再編成である。₩100,000の時点では第一段階はほぼ織り込み済み。₩90,000以下、または1Q/2Q配当・業績・AIDC成長確認後の押し目買いが有効。"
