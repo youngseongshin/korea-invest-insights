@@ -1,10 +1,10 @@
 ---
-title: "Korea Daily Wrap 2026-04-24: 불마켓 17일, 건설·방산 주도주 가속"
+title: "대우건설·미래에셋벤처투자·한화엔진 부상: 4월 24일 불마켓 17일차 주도주 스크리닝"
 date: 2026-04-24T16:30:00+09:00
 categories: ["daily-wrap"]
-tags: ["KOSPI", "Korea stocks", "불마켓", "건설주", "방산주", "Market Discovery", "주도주 스크리닝"]
+tags: ["KOSPI", "Korea stocks", "불마켓", "건설주", "방산주", "대우건설", "미래에셋벤처투자", "한화엔진", "보성파워텍", "흥아해운", "기가레인", "Market Discovery", "주도주 스크리닝"]
 slug: "kr-daily-wrap-2026-04-24"
-description: "코스피 6,476 강세 지속, KR·US 동조 Bull. 대우건설 RS 99.9 주도, 방산·벤처 테마 부각. 금요일 Market Discovery 스크리너 공개."
+description: "4월 24일 Market Discovery 스크리너에서 대우건설(047040), 미래에셋벤처투자(267460), 한화엔진(082740)이 주도주로 부상했다. 코스피 6,476 강세 지속, KR·US 동조 Bull, 건설·방산·VC 테마 가속."
 draft: false
 ---
 
