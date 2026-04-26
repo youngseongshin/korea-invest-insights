@@ -1,14 +1,14 @@
 ---
-title: "SemiScope: 네오셈 — CXL·Gen6 SSD 테스터 순수 수혜주, 2026년 수주 사이클 변곡점"
+title: "CXL 수혜주 네오셈 분석: Gen6 SSD 테스터와 2026년 반도체 장비 수주 변곡점"
 slug: semiscope-neosem-cxl-ssd-ate-turnaround-2026-04-25
 date: 2026-04-25T19:20:00+09:00
-description: "네오셈(253590 KQ)은 PCIe Gen6 SSD 테스터, CXL 3.1 메모리 테스터, 서버 DIMM 자동화, SOCAMM, 잠재적 HBM 번인까지 아우르는 한국 ATE 전문기업이다. 2025년은 급격한 다운사이클이었으나, 2025년 하반기 수주 반등은 2026년 매출 변곡점 가능성을 시사한다."
+description: "CXL 수혜주와 반도체 장비주로 주목받는 네오셈(253590)을 분석한다. PCIe Gen6 SSD 테스터, CXL 3.1 메모리 테스터, 서버 DIMM 자동화, SOCAMM, HBM 번인 옵션까지 살펴보고 2025년 실적 급감 이후 2026년 수주·매출 변곡점 가능성을 점검한다."
 categories: ["한국 테크 공급망", "반도체 장비"]
-tags: ["네오셈", "253590", "SemiScope", "CXL", "Gen6 SSD", "PCIe 6.0", "ATE", "SSD 테스터", "메모리 테스터", "SOCAMM", "HBM 번인"]
+tags: ["CXL 수혜주", "네오셈", "253590", "반도체 장비주", "CXL", "Gen6 SSD", "PCIe 6.0", "ATE", "SSD 테스터", "메모리 테스터", "SOCAMM", "HBM 번인", "SemiScope"]
 series: ["semiscope-2026"]
 ---
 
-> **SemiScope 심층 분석.** 네오셈은 반도체 장비 광범위 바스켓이 아니다. PCIe Gen6 SSD, CXL 메모리 확장, 서버 DIMM 자동화, 그리고 AI 데이터센터 메모리의 차세대 테스트 병목이라는 교차점에 위치한 집중형 ATE 종목이다.
+> **SemiScope 심층 분석.** 네오셈은 CXL 수혜주이자 Gen6 SSD 테스터 반도체 장비주로 볼 수 있지만, 광범위한 장비 바스켓은 아니다. PCIe Gen6 SSD, CXL 메모리 확장, 서버 DIMM 자동화, 그리고 AI 데이터센터 메모리의 차세대 테스트 병목이라는 교차점에 위치한 집중형 ATE 종목이다.
 
 ---
 
