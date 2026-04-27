@@ -1,5 +1,5 @@
 ---
-title: "Định Giá IPO Upstage Phần 2: Daum, Nhu Cầu Sovereign AI và Bản Đồ Peer MiniMax"
+title: "Upstage AI: lãnh đạo AI chủ quyền của Hàn Quốc, thương vụ Daum và so sánh định giá IPO với MiniMax"
 slug: upstage-ai-daum-sovereign-ai-minimax-ipo-2026-04-27
 date: 2026-04-27T16:30:00+09:00
 description: "Phần 2 của luận điểm đầu tư Upstage AI: cách chương trình sovereign AI của Hàn Quốc, nhu cầu AX từ khu vực công, chương trình AI voucher, thương vụ mua lại Daum, các agent B2C và các công ty peer đã niêm yết như MiniMax/Zhipu có thể định hình lại con đường IPO của Upstage."

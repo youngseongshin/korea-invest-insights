@@ -1,5 +1,5 @@
 ---
-title: "Valoración del IPO de Upstage, Parte 2: Daum, la demanda de IA soberana y el mapa de comparables con MiniMax"
+title: "Upstage AI: líder de IA soberana de Corea, adquisición de Daum y comparables de valoración IPO con MiniMax"
 slug: upstage-ai-daum-sovereign-ai-minimax-ipo-2026-04-27
 date: 2026-04-27T16:30:00+09:00
 description: "Segunda parte del análisis de Upstage AI: cómo el programa de IA soberana de Corea, la demanda del sector público, los vales de IA, la adquisición de Daum, los agentes B2C y los comparables cotizados MiniMax/Zhipu pueden redefinir el camino de Upstage hacia su salida a bolsa."

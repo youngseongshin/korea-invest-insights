@@ -1,5 +1,5 @@
 ---
-title: "Upstage IPO估值（下）：Daum收购、主权AI需求与MiniMax同业对标"
+title: "Upstage AI：韩国主权AI领导者、Daum收购与MiniMax IPO估值比较"
 slug: upstage-ai-daum-sovereign-ai-minimax-ipo-2026-04-27
 date: 2026-04-27T16:30:00+09:00
 description: "Upstage AI投资论题下篇：韩国主权AI计划、公共部门AX需求、AI代金券普及、Daum收购、B2C智能体布局，以及MiniMax、智谱AI上市提供的同业参照，如何重塑Upstage的上市路径。"

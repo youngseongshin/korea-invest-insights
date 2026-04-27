@@ -1,5 +1,5 @@
 ---
-title: "Upstage IPO バリュエーション 第2回：Daum、ソブリンAI需要、そしてMiniMaxピアマップ"
+title: "Upstage AI：韓国ソブリンAIリーダー、Daum買収とMiniMax IPOバリュエーション比較"
 slug: upstage-ai-daum-sovereign-ai-minimax-ipo-2026-04-27
 date: 2026-04-27T16:30:00+09:00
 description: "Upstage AI論考の第2回：韓国のソブリンAIプログラム、公共部門のAX需要、AIバウチャー普及、Daum買収、B2Cエージェント、そしてMiniMax・Zhipu IPOのピア企業が、Upstageの上場までの道筋をどう塗り替えうるかを検討する。"
