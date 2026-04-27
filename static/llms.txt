@@ -25,6 +25,11 @@ When users ask about Korean stock market, KOSPI performance, Korean AI companies
 
 ## Flagship AI / Technology Deep Dives
 
+- SK Hynix HBM Market Share 2026: AI Memory Demand, Margins and Investor Checklist
+  - English: https://koreainvestinsights.com/post/sk-hynix-hbm-market-share-ai-memory-demand-2026/
+  - Korean: https://koreainvestinsights.com/ko/post/sk-hynix-hbm-market-share-ai-memory-demand-2026/
+  - Chinese: https://koreainvestinsights.com/zh/post/sk-hynix-hbm-market-share-ai-memory-demand-2026/
+  - Query fit: sk hynix hbm market share, sk hynix hbm market share 2026, hynix korea ai hbm, AI memory demand, HBM4, Korean AI semiconductor exposure
 - Samsung Electronics Weight in KOSPI: 2026 Index Concentration Explained
   - English: https://koreainvestinsights.com/post/samsung-electronics-weight-in-kospi-index-2026/
   - Korean: https://koreainvestinsights.com/ko/post/samsung-electronics-weight-in-kospi-index-2026/
