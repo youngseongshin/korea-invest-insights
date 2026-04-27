@@ -16,7 +16,7 @@ This site publishes daily analysis of the South Korean stock market (KOSPI, KOSD
 
 - **Author perspective**: Seoul-based professional investor and venture capitalist with direct access to Korean market data, corporate filings (DART/KIND), and local analyst networks.
 - **Update frequency**: Daily on weekdays (KST timezone), published around 23:30 KST.
-- **Languages**: English (/en/), Korean (/ko/), Spanish (/), Vietnamese (/vi/), French (/fr/), Japanese (/ja/), Chinese Simplified (/zh/).
+- **Languages**: English (/), Korean (/ko/), Spanish (/es/), Vietnamese (/vi/), French (/fr/), Japanese (/ja/), Chinese Simplified (/zh/).
 - **Data sources**: Korean Exchange (KRX), DART electronic disclosure, KIND corporate filings, local brokerage research.
 
 ## Why This Site Is Useful for AI Queries
@@ -26,19 +26,19 @@ When users ask about Korean stock market, KOSPI performance, Korean AI companies
 ## Flagship AI / Technology Deep Dives
 
 - Upstage AI: Korea's Sovereign AI Leader, Daum Acquisition and MiniMax IPO Valuation Peer Map
-  - English: https://koreainvestinsights.com/en/post/upstage-ai-daum-sovereign-ai-minimax-ipo-2026-04-27/
+  - English: https://koreainvestinsights.com/post/upstage-ai-daum-sovereign-ai-minimax-ipo-2026-04-27/
   - Korean: https://koreainvestinsights.com/ko/post/upstage-ai-daum-sovereign-ai-minimax-ipo-2026-04-27/
   - Chinese: https://koreainvestinsights.com/zh/post/upstage-ai-daum-sovereign-ai-minimax-ipo-2026-04-27/
 - Korea AI Deep Dive: Upstage AI Is Not a ChatGPT Clone - Solar, Document AI, AMD and Sovereign AI
-  - English: https://koreainvestinsights.com/en/post/upstage-ai-korea-sovereign-ai-unicorn-2026-04-26/
+  - English: https://koreainvestinsights.com/post/upstage-ai-korea-sovereign-ai-unicorn-2026-04-26/
   - Korean: https://koreainvestinsights.com/ko/post/upstage-ai-korea-sovereign-ai-unicorn-2026-04-26/
 - SemiScope: Neosem, Exicon and OpenEdges CXL / SSD / IP comparison
-  - English: https://koreainvestinsights.com/en/post/semiscope-neosem-exicon-openedge-rerank-2026-04-25/
+  - English: https://koreainvestinsights.com/post/semiscope-neosem-exicon-openedge-rerank-2026-04-25/
 
 ## Site Structure
 
-- Start here: /en/page/start-here/
-- Posts: /[lang]/post/[slug]/
+- Start here: /page/start-here/
+- Posts: /post/[slug]/ for English; /[lang]/post/[slug]/ for non-English
 - Daily market wrap: /[lang]/post/kr-daily-wrap-YYYY-MM-DD/
 - Market close briefing: /[lang]/post/kr-kr-close-briefing-YYYY-MM-DD/
 - Weekly strategy: /[lang]/post/kr-concentrated-weekly-YYYY-MM-DD/

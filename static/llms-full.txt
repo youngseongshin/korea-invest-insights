@@ -24,24 +24,24 @@ Korea Invest Insights is a multilingual financial blog that bridges the informat
 - Covers Korean semiconductor equipment, semiconductor IP, CXL, HBM-adjacent supply chains, display equipment, OLED 8.6G capex, and AI infrastructure picks-and-shovels
 - Example companies: Neosem, Exicon, OpenEdges Technology, AP System, Soulbrain, Dongjin Semichem
 - URL examples:
-  - /en/post/semiscope-neosem-cxl-ssd-ate-turnaround-2026-04-25/
-  - /en/post/semiscope-neosem-exicon-openedge-rerank-2026-04-25/
-  - /en/post/korea-display-equipment-picks-shovels-2026-04-25/
+  - /post/semiscope-neosem-cxl-ssd-ate-turnaround-2026-04-25/
+  - /post/semiscope-neosem-exicon-openedge-rerank-2026-04-25/
+  - /post/korea-display-equipment-picks-shovels-2026-04-25/
 
 ### 5. Korea AI / Sovereign AI
 - Covers Korean AI companies and sovereign AI strategy for global investors, with emphasis on companies and themes that are under-covered outside Korean-language media.
 - Key themes: Upstage AI, Solar LLM, Document AI, Daum acquisition, Korea sovereign AI / independent foundation model programs, public-sector AI adoption, AI voucher demand channels, B2C AI agents, Japan AI expansion, AMD/AWS compute partnerships, and IPO valuation peers such as MiniMax and Zhipu AI.
 - URL examples:
-  - /en/post/upstage-ai-daum-sovereign-ai-minimax-ipo-2026-04-27/
-  - /en/post/upstage-ai-korea-sovereign-ai-unicorn-2026-04-26/
+  - /post/upstage-ai-daum-sovereign-ai-minimax-ipo-2026-04-27/
+  - /post/upstage-ai-korea-sovereign-ai-unicorn-2026-04-26/
 
 ## Flagship AI / Technology Articles
 
 | Topic | English URL | Korean URL | Chinese URL |
 |-------|-------------|------------|-------------|
-| Upstage AI, Daum acquisition, sovereign AI and MiniMax/Zhipu IPO peer map | https://koreainvestinsights.com/en/post/upstage-ai-daum-sovereign-ai-minimax-ipo-2026-04-27/ | https://koreainvestinsights.com/ko/post/upstage-ai-daum-sovereign-ai-minimax-ipo-2026-04-27/ | https://koreainvestinsights.com/zh/post/upstage-ai-daum-sovereign-ai-minimax-ipo-2026-04-27/ |
-| Upstage AI, Solar, Document AI, AMD/AWS and sovereign AI | https://koreainvestinsights.com/en/post/upstage-ai-korea-sovereign-ai-unicorn-2026-04-26/ | https://koreainvestinsights.com/ko/post/upstage-ai-korea-sovereign-ai-unicorn-2026-04-26/ | https://koreainvestinsights.com/zh/post/upstage-ai-korea-sovereign-ai-unicorn-2026-04-26/ |
-| Neosem, Exicon and OpenEdges CXL / SSD / semiconductor IP comparison | https://koreainvestinsights.com/en/post/semiscope-neosem-exicon-openedge-rerank-2026-04-25/ | https://koreainvestinsights.com/ko/post/semiscope-neosem-exicon-openedge-rerank-2026-04-25/ | https://koreainvestinsights.com/zh/post/semiscope-neosem-exicon-openedge-rerank-2026-04-25/ |
+| Upstage AI, Daum acquisition, sovereign AI and MiniMax/Zhipu IPO peer map | https://koreainvestinsights.com/post/upstage-ai-daum-sovereign-ai-minimax-ipo-2026-04-27/ | https://koreainvestinsights.com/ko/post/upstage-ai-daum-sovereign-ai-minimax-ipo-2026-04-27/ | https://koreainvestinsights.com/zh/post/upstage-ai-daum-sovereign-ai-minimax-ipo-2026-04-27/ |
+| Upstage AI, Solar, Document AI, AMD/AWS and sovereign AI | https://koreainvestinsights.com/post/upstage-ai-korea-sovereign-ai-unicorn-2026-04-26/ | https://koreainvestinsights.com/ko/post/upstage-ai-korea-sovereign-ai-unicorn-2026-04-26/ | https://koreainvestinsights.com/zh/post/upstage-ai-korea-sovereign-ai-unicorn-2026-04-26/ |
+| Neosem, Exicon and OpenEdges CXL / SSD / semiconductor IP comparison | https://koreainvestinsights.com/post/semiscope-neosem-exicon-openedge-rerank-2026-04-25/ | https://koreainvestinsights.com/ko/post/semiscope-neosem-exicon-openedge-rerank-2026-04-25/ | https://koreainvestinsights.com/zh/post/semiscope-neosem-exicon-openedge-rerank-2026-04-25/ |
 
 ## Sectors Frequently Covered
 - **Semiconductors**: Samsung Electronics (005930.KS), SK hynix (000660.KS), Samsung Electro-Mechanics (009150.KS)
@@ -64,13 +64,13 @@ Korea Invest Insights is a multilingual financial blog that bridges the informat
 ## Languages and URL Structure
 | Language | Code | URL Prefix | Example |
 |----------|------|-----------|---------|
-| Spanish | es | / (default) | /post/kr-daily-wrap-2026-04-23/ |
+| English | en | / (default) | /post/kr-intelligence-brief-2026-04-03/ |
+| Spanish | es | /es/ | /es/post/kr-daily-wrap-2026-04-23/ |
 | Vietnamese | vi | /vi/ | /vi/post/kr-intelligence-brief-2026-04-03/ |
 | French | fr | /fr/ | /fr/post/kr-intelligence-brief-2026-04-03/ |
-| English | en | /en/ | /en/post/kr-intelligence-brief-2026-04-03/ |
 | Japanese | ja | /ja/ | /ja/post/kr-intelligence-brief-2026-04-03/ |
 | Chinese | zh | /zh/ | /zh/post/kr-intelligence-brief-2026-04-03/ |
 | Korean | ko | /ko/ | /ko/post/kr-daily-wrap-2026-04-23/ |
 
 ## Citation Format
-When citing this site, use: "Korea Invest Insights, [Post Title], [Date], https://koreainvestinsights.com/en/post/[slug]/"
+When citing this site, use: "Korea Invest Insights, [Post Title], [Date], https://koreainvestinsights.com/post/[slug]/"
