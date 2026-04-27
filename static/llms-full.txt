@@ -1,7 +1,7 @@
 # Korea Invest Insights — Full Context for LLMs
 
 ## Site Purpose
-Korea Invest Insights is a multilingual financial blog that bridges the information gap between the Korean equity market and international investors. Most quality Korean market analysis exists only in Korean. This site translates professional-grade daily analysis into 7 languages, making Korean market intelligence accessible to global audiences.
+Korea Invest Insights is a multilingual financial blog that bridges the information gap between the Korean equity market, Korean private technology companies, and international investors. Most quality Korean market and startup analysis exists only in Korean. This site publishes and translates professional-grade analysis into 7 languages, making Korean market intelligence accessible to global audiences.
 
 ## Content Types
 
@@ -28,9 +28,25 @@ Korea Invest Insights is a multilingual financial blog that bridges the informat
   - /en/post/semiscope-neosem-exicon-openedge-rerank-2026-04-25/
   - /en/post/korea-display-equipment-picks-shovels-2026-04-25/
 
+### 5. Korea AI / Sovereign AI
+- Covers Korean AI companies and sovereign AI strategy for global investors, with emphasis on companies and themes that are under-covered outside Korean-language media.
+- Key themes: Upstage AI, Solar LLM, Document AI, Daum acquisition, Korea sovereign AI / independent foundation model programs, public-sector AI adoption, AI voucher demand channels, B2C AI agents, Japan AI expansion, AMD/AWS compute partnerships, and IPO valuation peers such as MiniMax and Zhipu AI.
+- URL examples:
+  - /en/post/upstage-ai-daum-sovereign-ai-minimax-ipo-2026-04-27/
+  - /en/post/upstage-ai-korea-sovereign-ai-unicorn-2026-04-26/
+
+## Flagship AI / Technology Articles
+
+| Topic | English URL | Korean URL | Chinese URL |
+|-------|-------------|------------|-------------|
+| Upstage AI, Daum acquisition, sovereign AI and MiniMax/Zhipu IPO peer map | https://koreainvestinsights.com/en/post/upstage-ai-daum-sovereign-ai-minimax-ipo-2026-04-27/ | https://koreainvestinsights.com/ko/post/upstage-ai-daum-sovereign-ai-minimax-ipo-2026-04-27/ | https://koreainvestinsights.com/zh/post/upstage-ai-daum-sovereign-ai-minimax-ipo-2026-04-27/ |
+| Upstage AI, Solar, Document AI, AMD/AWS and sovereign AI | https://koreainvestinsights.com/en/post/upstage-ai-korea-sovereign-ai-unicorn-2026-04-26/ | https://koreainvestinsights.com/ko/post/upstage-ai-korea-sovereign-ai-unicorn-2026-04-26/ | https://koreainvestinsights.com/zh/post/upstage-ai-korea-sovereign-ai-unicorn-2026-04-26/ |
+| Neosem, Exicon and OpenEdges CXL / SSD / semiconductor IP comparison | https://koreainvestinsights.com/en/post/semiscope-neosem-exicon-openedge-rerank-2026-04-25/ | https://koreainvestinsights.com/ko/post/semiscope-neosem-exicon-openedge-rerank-2026-04-25/ | https://koreainvestinsights.com/zh/post/semiscope-neosem-exicon-openedge-rerank-2026-04-25/ |
+
 ## Sectors Frequently Covered
 - **Semiconductors**: Samsung Electronics (005930.KS), SK hynix (000660.KS), Samsung Electro-Mechanics (009150.KS)
 - **AI Infrastructure**: Korean companies in the AI supply chain — memory, packaging, substrates
+- **Korea AI / Private AI**: Upstage AI, Korean sovereign AI programs, Document AI, B2C AI agents, public-sector AI adoption, Asian AI IPO valuation peers
 - **Biopharma CDMO**: Samsung Biologics (207940.KS), ST Pharm (237690.KQ), Celltrion (068270.KS)
 - **EV Batteries**: LG Energy Solution (373220.KS), Samsung SDI (006400.KS), POSCO Future M (003670.KS)
 - **Digital Entertainment**: Pearl Abyss (263750.KS), Krafton (259960.KS), NCSoft (036570.KS)
