@@ -218,7 +218,6 @@ C'était **bien** :
 
 Le résultat d'aujourd'hui favorise le long. Mais **aujourd'hui n'est pas un jour "d'ajout".** Raisons :
 
-- Le poids de la position est déjà important.
 - Le support à ₩60 000 est confirmé ; une cassure haussière forte n'a **pas** été confirmée.
 - Les niveaux ₩61 700 / ₩62 600 n'ont **pas** été franchis.
 - Le montant échangé n'a pas dépassé le seuil de confirmation de ₩100 Mds.
@@ -326,7 +325,6 @@ Thèse ventes / avis Crimson Desert intacte
 > **Conserver. Pas d'ajout. Pas d'allègement.**
 
 **Pourquoi pas d'ajout :**
-- Le poids de la position est déjà important
 - Aujourd'hui est une confirmation de support de première ligne, pas une cassure de second niveau
 - Aucune raison de chasser avant la confirmation de ₩61 700 / ₩62 600
 

@@ -218,7 +218,6 @@ Hôm nay **đúng là**:
 
 Kết quả hôm nay có lợi cho bên mua. Nhưng **hôm nay không phải ngày "mua thêm"**. Lý do:
 
-- Tỷ trọng vị thế đã ở mức lớn.
 - Hỗ trợ ₩60.000 đã xác nhận; bứt phá mạnh **chưa** xác nhận.
 - Các mức ₩61.700 / ₩62.600 **chưa** bị phá vỡ.
 - Giá trị giao dịch chưa vượt ngưỡng xác nhận ₩100 tỷ.
@@ -326,7 +325,6 @@ Luận điểm doanh số / đánh giá Crimson Desert còn nguyên vẹn
 > **Giữ nguyên. Không thêm. Không cắt giảm.**
 
 **Tại sao không thêm:**
-- Tỷ trọng vị thế đã ở mức lớn
 - Hôm nay là xác nhận hỗ trợ hàng đầu, chưa phải bứt phá giai đoạn hai
 - Không có lý do để chạy đuổi khi chưa xác nhận ₩61.700 / ₩62.600
 

@@ -218,7 +218,6 @@ Lo que **sí** fue:
 
 El resultado del día favorece al largo. Pero **hoy no es un día de "añadir más"**. Razones:
 
-- El peso de la posición ya es elevado.
 - El soporte en ₩60.000 está confirmado; la ruptura alcista fuerte **no** lo está.
 - Los niveles de ₩61.700 / ₩62.600 **no** fueron superados.
 - La facturación no superó el umbral de confirmación de ₩100B.
@@ -326,7 +325,6 @@ Tesis de ventas / reseñas de Crimson Desert intacta
 > **Mantener. Sin añadir. Sin recortar.**
 
 **Por qué no añadir:**
-- El peso de la posición ya es elevado
 - Hoy es confirmación de soporte de primera línea, no una ruptura de segunda etapa
 - No hay motivo para perseguir el precio antes de la confirmación de ₩61.700 / ₩62.600
 

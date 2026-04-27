@@ -218,7 +218,6 @@ It **was**:
 
 Today's outcome favors the long. But **today is not an "add more" day**. Reasons:
 
-- Position weight is already large.
 - ₩60,000 support confirmed; strong breakout did **not** confirm.
 - ₩61,700 / ₩62,600 levels were **not** taken out.
 - Turnover did not clear the ₩100B confirmation threshold.
@@ -326,7 +325,6 @@ Crimson Desert sales / review thesis intact
 > **Hold. No adds. No trims.**
 
 **Why no adds:**
-- Position weight already large
 - Today is first-line-support confirmation, not a second-stage breakout
 - No reason to chase before ₩61,700 / ₩62,600 confirmation
 
