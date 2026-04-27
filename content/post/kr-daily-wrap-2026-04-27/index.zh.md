@@ -1,8 +1,8 @@
 ---
-title: "韩国日报 2026-04-27：半导体与电力设备联袂领涨，KOSPI强势突破"
+title: "韩国日报 2026-04-27：Hanwha Vision、Woowon Development、Pharmicell居PEAD前列，半导体与电力设备领涨"
 date: 2026-04-27T16:30:00+09:00
 categories: ["daily-wrap"]
-tags: ["KOSPI", "韩国股市", "半导体", "PEAD", "业绩漂移", "电力设备", "风险偏好"]
+tags: ["KOSPI", "韩国股市", "半导体", "PEAD", "业绩漂移", "电力设备", "风险偏好", "Hanwha Vision", "Woowon Development", "Pharmicell", "Bosung Powertech"]
 slug: "kr-daily-wrap-2026-04-27"
 description: "KOSPI单日劲涨2.5%，外资机构双向买入；PEAD筛选器锁定92只业绩超预期标的，汉华Vision以2851%利润增速高居榜首。"
 draft: false

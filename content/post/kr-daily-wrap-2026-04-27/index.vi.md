@@ -1,8 +1,8 @@
 ---
-title: "Korea Daily Wrap 2026-04-27: Làn Sóng Bán Dẫn Thống Lĩnh KOSPI"
+title: "Korea Daily Wrap 2026-04-27: Hanwha Vision, Woowon Development và Pharmicell dẫn đầu PEAD; bán dẫn và thiết bị điện kéo KOSPI"
 date: 2026-04-27T16:30:00+09:00
 categories: ["daily-wrap"]
-tags: ["KOSPI", "Korea stocks", "semiconductor", "PEAD screener", "Korea market wrap", "HBM", "power equipment", "earnings drift"]
+tags: ["KOSPI", "Korea stocks", "semiconductor", "PEAD screener", "Korea market wrap", "HBM", "power equipment", "earnings drift", "Hanwha Vision", "Woowon Development", "Pharmicell", "Bosung Powertech"]
 slug: "kr-daily-wrap-2026-04-27"
 description: "KOSPI tăng mạnh nhờ bán dẫn/HBM và thiết bị điện. Screener PEAD phát hiện 92 cổ phiếu vượt kỳ vọng lợi nhuận đang trong vùng drift."
 draft: false

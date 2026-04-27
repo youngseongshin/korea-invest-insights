@@ -1,8 +1,8 @@
 ---
-title: "Korea Daily Wrap 2026-04-27: Semiconductores Lideran Rally en KOSPI"
+title: "Korea Daily Wrap 2026-04-27: Hanwha Vision, Woowon Development y Pharmicell lideran PEAD; semis y equipos eléctricos impulsan KOSPI"
 date: 2026-04-27T16:30:00+09:00
 categories: ["daily-wrap"]
-tags: ["KOSPI", "Korea stocks", "semiconductores", "PEAD", "resultados-empresariales", "equipos-electricos", "mercado-coreano"]
+tags: ["KOSPI", "Korea stocks", "semiconductores", "PEAD", "resultados-empresariales", "equipos-electricos", "mercado-coreano", "Hanwha Vision", "Woowon Development", "Pharmicell", "Bosung Powertech"]
 slug: "kr-daily-wrap-2026-04-27"
 description: "KOSPI avanza +3.5% en 5 días con rally liderado por semiconductores y equipos eléctricos; screener PEAD detecta 92 sorpresas de resultados."
 draft: false

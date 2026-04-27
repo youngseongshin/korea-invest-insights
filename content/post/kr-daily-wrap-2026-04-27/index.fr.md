@@ -1,8 +1,8 @@
 ---
-title: "Korea Daily Wrap 27 avril 2026 : Rallye risk-on, semi-conducteurs en tête"
+title: "Korea Daily Wrap 27 avril 2026 : Hanwha Vision, Woowon Development et Pharmicell en tête du PEAD; semi-conducteurs et équipements électriques mènent"
 date: 2026-04-27T16:30:00+09:00
 categories: ["daily-wrap"]
-tags: ["KOSPI", "Korea stocks", "semi-conducteurs", "PEAD", "post-earnings drift", "équipements électriques", "risk-on"]
+tags: ["KOSPI", "Korea stocks", "semi-conducteurs", "PEAD", "post-earnings drift", "équipements électriques", "risk-on", "Hanwha Vision", "Woowon Development", "Pharmicell", "Bosung Powertech"]
 slug: "kr-daily-wrap-2026-04-27"
 description: "KOSPI +2,5 % en séance, rallye risk-on porté par semi-conducteurs et équipements électriques. Screener PEAD : 92 candidats au drift post-résultats."
 draft: false

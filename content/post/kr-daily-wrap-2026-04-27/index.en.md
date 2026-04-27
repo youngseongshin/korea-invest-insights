@@ -1,10 +1,10 @@
 ---
-title: "Korea Daily Wrap 2026-04-27: Semis and Power Lead Risk-On Surge"
+title: "Korea Daily Wrap 2026-04-27: Hanwha Vision, Woowon Development and Pharmicell Lead PEAD as Semis/Power Rally"
 date: 2026-04-27T16:30:00+09:00
 categories: ["daily-wrap"]
-tags: ["KOSPI", "Korea stocks", "semiconductors", "power infrastructure", "PEAD", "earnings drift", "HBM"]
+tags: ["KOSPI", "Korea stocks", "semiconductors", "power infrastructure", "PEAD", "earnings drift", "HBM", "Hanwha Vision", "Woowon Development", "Pharmicell", "Bosung Powertech"]
 slug: "kr-daily-wrap-2026-04-27"
-description: "KOSPI surges +2.5% in risk-on session led by semis and power equipment; Monday PEAD screener flags 92 earnings-drift candidates."
+description: "KOSPI surges +2.5% in a semis and power-equipment risk-on session; the PEAD screener flags Hanwha Vision, Woowon Development, Pharmicell and Bosung Powertech among the key earnings-drift names."
 draft: false
 ---
 

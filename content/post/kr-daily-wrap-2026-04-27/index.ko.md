@@ -1,10 +1,10 @@
 ---
-title: "Korea Daily Wrap 2026-04-27: 반도체·전력기기 주도 KOSPI 강세"
+title: "Korea Daily Wrap 2026-04-27: 한화비전·우원개발·파미셀 PEAD 상위, 반도체·전력기기 KOSPI 강세"
 date: 2026-04-27T16:30:00+09:00
 categories: ["daily-wrap"]
-tags: ["KOSPI", "Korea stocks", "반도체", "HBM", "전력기기", "PEAD", "실적드리프트", "한화비전"]
+tags: ["KOSPI", "Korea stocks", "반도체", "HBM", "전력기기", "PEAD", "실적드리프트", "한화비전", "우원개발", "파미셀", "보성파워텍"]
 slug: "kr-daily-wrap-2026-04-27"
-description: "KOSPI 6,615 반도체·전력기기 주도 risk-on 랠리. 외국인·기관 동반 순매수, breadth 211종목 확장. PEAD 스크리너 Tier A 한화비전·파미셀 등 상위 10종목 분석."
+description: "KOSPI 6,615 반도체·전력기기 주도 risk-on 랠리. 외국인·기관 동반 순매수, breadth 211종목 확장. PEAD 스크리너 Tier A 한화비전·우원개발·파미셀·보성파워텍 등 상위 종목 분석."
 draft: false
 ---
 
