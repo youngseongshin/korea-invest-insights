@@ -1,5 +1,5 @@
 ---
-title: "Pearl Abyss / Crimson Desert — パッチ後初週末データ：CCU -13%の減少がなぜ強気テーゼを裏付けるのか"
+title: "Pearl Abyss / Crimson Desert — パッチ後初週末データ：販売とレビュー品質の防衛がロングテール体力を確認"
 slug: pearl-abyss-crimson-desert-post-patch-weekend-data-2026-04-27
 date: 2026-04-27T11:00:00+09:00
 description: "Crimson Desertのパッチ1.04.00適用後初の完全な週末（4月25〜27日 KST）：平均CCUは前週末比-13.2%だったが、新規ネガティブレビューは-49.7%減、新規レビューの肯定率は+8.7pp上昇し87.3%に、米国Steamランクは#6.0→#5.1に改善。販売ペースの減衰（-5.7%）はCCU減衰（-13.2%）より大幅に緩やか——これはプラットフォーム再評価テーゼが予測する、ロングテール持続性のシグネチャーそのものだ。"

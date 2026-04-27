@@ -1,5 +1,5 @@
 ---
-title: "Pearl Abyss / Crimson Desert — Données du week-end post-patch : pourquoi une baisse de -13 % des CCU confirme en réalité la thèse"
+title: "Pearl Abyss / Crimson Desert — Données du week-end post-patch : ventes et qualité des avis défendues, durabilité du long-tail confirmée"
 slug: pearl-abyss-crimson-desert-post-patch-weekend-data-2026-04-27
 date: 2026-04-27T11:00:00+09:00
 description: "Premier week-end complet post-1.04.00 de Crimson Desert (25-27 avril KST) : CCU moyen -13,2 % par rapport au week-end précédent, mais nouvelles critiques négatives -49,7 %, positivité des nouvelles critiques +8,7 pp à 87,3 %, et classement Steam US amélioré de #6,0 → #5,1. La décélération des ventes (-5,7 %) est nettement plus faible que celle des CCU (-13,2 %) — exactement la signature de longue traîne que prédit la thèse de revalorisation de plateforme."

@@ -1,5 +1,5 @@
 ---
-title: "Pearl Abyss / Crimson Desert — 补丁后周末数据：-13% CCU 衰减为何实际上印证了论点"
+title: "Pearl Abyss / Crimson Desert — 补丁后周末数据：销售与评价质量防守稳健，长尾耐久度获印证"
 slug: pearl-abyss-crimson-desert-post-patch-weekend-data-2026-04-27
 date: 2026-04-27T11:00:00+09:00
 description: "Crimson Desert 首个完整的 1.04.00 补丁后周末（4月25–27日 KST）：平均 CCU 较上周末 -13.2%，但新增差评 -49.7%，新增评测好评率提升 +8.7pp 至 87.3%，美国 Steam 排名从 #6.0 改善至 #5.1。销售流速衰减（-5.7%）显著浅于 CCU 衰减（-13.2%）——这正是平台重估论点所预测的长尾特征。"

@@ -1,5 +1,5 @@
 ---
-title: "Pearl Abyss / Crimson Desert — Dữ Liệu Cuối Tuần Sau Bản Vá: Tại Sao Mức Giảm -13% CCU Lại Là Tín Hiệu Xác Nhận Luận Điểm"
+title: "Pearl Abyss / Crimson Desert — Dữ Liệu Cuối Tuần Sau Bản Vá: Doanh Số và Chất Lượng Đánh Giá Được Bảo Vệ, Sức Bền Long-Tail Được Xác Nhận"
 slug: pearl-abyss-crimson-desert-post-patch-weekend-data-2026-04-27
 date: 2026-04-27T11:00:00+09:00
 description: "Cuối tuần đầy đủ đầu tiên sau bản vá 1.04.00 của Crimson Desert (25–27/04 KST): CCU trung bình giảm -13,2% so với cuối tuần trước, nhưng đánh giá tiêu cực mới giảm -49,7%, tỷ lệ tích cực của đánh giá mới tăng +8,7pp lên 87,3%, và thứ hạng Steam tại Mỹ cải thiện từ #6,0 → #5,1. Tốc độ suy giảm doanh số (-5,7%) nhẹ hơn đáng kể so với suy giảm CCU (-13,2%) — đây chính xác là đặc điểm đuôi dài mà luận điểm định giá lại nền tảng dự báo."
