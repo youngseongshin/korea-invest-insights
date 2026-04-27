@@ -10,11 +10,16 @@
 
 {{/* ── hreflang: 다국어 SEO 핵심 ── */}}
 {{ if .IsTranslated }}
-  {{ range .Translations }}
+  {{ $defaultPage := . }}
+  {{ range .AllTranslations }}
+    {{ if eq .Lang "en" }}
+      {{ $defaultPage = . }}
+    {{ end }}
+  {{ end }}
+  {{ range .AllTranslations }}
     <link rel="alternate" hreflang="{{ .Lang }}" href="{{ .Permalink }}" />
   {{ end }}
-  <link rel="alternate" hreflang="{{ .Lang }}" href="{{ .Permalink }}" />
-  <link rel="alternate" hreflang="x-default" href="{{ .Permalink }}" />
+  <link rel="alternate" hreflang="x-default" href="{{ $defaultPage.Permalink }}" />
 {{ end }}
 
 {{/* ── Canonical URL ── */}}

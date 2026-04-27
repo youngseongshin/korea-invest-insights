@@ -4,6 +4,7 @@ date: 2026-04-09T12:00:00+09:00
 categories: ["company-deep-dive"]
 tags: ["Samyang Foods", "003230.KS", "KOSPI", "Buldak ramen", "Korean instant noodles", "K-food stocks", "K-food", "Korean stocks", "consumer staples", "food exports"]
 slug: "kr-deep-dive-samyang-foods-2026-04-09"
+aliases: ["/en/post/kr-deep-dive-samyang-foods-2026-04-09/"]
 description: "Deep-dive on Samyang Foods (003230.KS): FY2025 results, overseas expansion catalysts, and what Buldak's ₩1.82 trillion export run means for global investors."
 series: ["K-Food Global Expansion"]
 draft: false

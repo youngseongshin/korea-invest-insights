@@ -4,6 +4,7 @@ date: 2026-04-06T23:00:00+09:00
 categories: ["company-deep-dive"]
 tags: ["Pearl Abyss", "263750", "Crimson Desert", "붉은사막", "Korean stocks", "KOSPI", "KOSDAQ", "Korean gaming stocks", "open world RPG", "Q1 2026 earnings"]
 slug: "kr-deep-dive-pearl-abyss-crimson-desert-q1-2026-04-06"
+aliases: ["/en/post/kr-deep-dive-pearl-abyss-crimson-desert-q1-2026-04-06/"]
 description: "Pearl Abyss's Crimson Desert sold 4M copies in 12 days. Q1 2026 estimated revenue ₩430B, operating profit ₩223B — ending 3 years of losses in one quarter."
 series: ["pearl-abyss-crimson-desert-thesis"]
 draft: false

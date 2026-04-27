@@ -1,6 +1,7 @@
 ---
 title: "SemiScope: Three Korean Memory ATE & IP Names Re-Ranked — Why Exicon is the 2026 J-Curve Trade, Not the Afterthought"
 slug: semiscope-neosem-exicon-openedge-rerank-2026-04-25
+aliases: ["/en/post/semiscope-neosem-exicon-openedge-rerank-2026-04-25/"]
 date: 2026-04-25T18:00:00+09:00
 description: "A critical re-read of the consensus 'Neosem = Core / OpenEdge = long-dated option / Exicon = afterthought' framing. Once you separate the CXL purity prism from the 2026 earnings-momentum prism, Exicon (092870 KQ) emerges as the strongest near-term J-curve — KRW 79B in cumulative orders against 2024 revenue of KRW 31.6B, single-source CLT 11,520-parallel tester, Samsung qualified. Neosem is a mid-cycle bet that needs 1Q26 confirmation. OpenEdge stays a 3-5 year IP option with royalty mix at 0.4%."
 categories: ["Korea Tech Supply Chain", "Equipment & Materials", "Semiconductor IP"]

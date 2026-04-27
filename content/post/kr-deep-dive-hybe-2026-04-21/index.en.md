@@ -4,6 +4,7 @@ date: 2026-04-21T12:00:00+09:00
 categories: ["company-deep-dive"]
 tags: ["HYBE", "352820.KS", "BTS", "SEVENTEEN", "K-pop stocks", "KOSPI", "Korean stocks", "entertainment", "K-pop investment", "BTS company"]
 slug: "kr-deep-dive-hybe-2026-04-21"
+aliases: ["/en/post/kr-deep-dive-hybe-2026-04-21/"]
 description: "HYBE stock (352820.KS) deep-dive: BTS comeback cycle, SEVENTEEN's Billboard dominance, legal overhangs, and what 2026's earnings inflection means for global investors."
 series: ["K-Pop & Entertainment Empire"]
 draft: false

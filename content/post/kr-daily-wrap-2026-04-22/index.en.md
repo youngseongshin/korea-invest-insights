@@ -4,6 +4,7 @@ date: 2026-04-22T16:30:00+09:00
 categories: ["daily-wrap"]
 tags: ["KOSPI", "Korea stocks", "quiet accumulation", "foreign buying", "defense", "chemicals", "Hanwha Aerospace", "Korean market"]
 slug: "kr-daily-wrap-2026-04-22"
+aliases: ["/en/post/kr-daily-wrap-2026-04-22/"]
 description: "KOSPI 6,418 in fresh dual-Bull regime as foreigners quietly build defense and chemical positions ahead of expected breakouts. Wednesday screener deep-dive."
 draft: false
 ---

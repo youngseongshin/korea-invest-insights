@@ -4,6 +4,7 @@ date: 2026-04-21T16:30:00+09:00
 categories: ["daily-wrap"]
 tags: ["KOSPI", "Korea stocks", "smart money", "earnings improvement", "semiconductors", "defense", "shipbuilding"]
 slug: "kr-daily-wrap-2026-04-21"
+aliases: ["/en/post/kr-daily-wrap-2026-04-21/"]
 description: "KOSPI surges to 6,388 in dual-bull regime; smart money screener flags semis, machinery, and defense as earnings inflect. Tuesday deep-dive."
 draft: false
 ---

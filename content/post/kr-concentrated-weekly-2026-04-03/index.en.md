@@ -4,6 +4,7 @@ date: 2026-04-03T23:30:00+09:00
 categories: ["weekly-strategy"]
 tags: ["Korean equities", "KOSPI", "LG Innotek", "Pearl Abyss", "semiconductor", "risk-off"]
 slug: "kr-concentrated-weekly-2026-04-03"
+aliases: ["/en/post/kr-concentrated-weekly-2026-04-03/"]
 description: "As Korean equities shift into selective mode, we examine four names with structural catalysts worth watching — and the macro risks that could derail them."
 draft: false
 ---

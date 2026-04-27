@@ -1,6 +1,7 @@
 ---
 title: "Upstage AI: Korea's Sovereign AI Leader, Daum Acquisition and MiniMax IPO Valuation Peer Map"
 slug: upstage-ai-daum-sovereign-ai-minimax-ipo-2026-04-27
+aliases: ["/en/post/upstage-ai-daum-sovereign-ai-minimax-ipo-2026-04-27/"]
 date: 2026-04-27T16:30:00+09:00
 description: "Part 2 of the Upstage AI thesis: how Korea's sovereign AI program, public-sector AX demand, AI voucher adoption, the Daum acquisition, B2C agents and MiniMax/Zhipu IPO peers can reshape Upstage's path to listing."
 categories: ["Korea AI", "Venture & Private Markets", "Korea Tech Supply Chain"]

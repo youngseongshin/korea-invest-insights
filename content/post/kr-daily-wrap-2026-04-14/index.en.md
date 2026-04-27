@@ -4,6 +4,7 @@ date: 2026-04-14T16:30:00+09:00
 categories: ["daily-wrap"]
 tags: ["KOSPI", "Korea stocks", "smart money", "earnings improvement", "SK Hynix", "semiconductor", "telecom infrastructure"]
 slug: "kr-daily-wrap-2026-04-14"
+aliases: ["/en/post/kr-daily-wrap-2026-04-14/"]
 description: "KOSPI near 5,968 as Korea flips Bull vs US Neutral; Smart Money + Earnings screener flags SK Hynix, APR, and TFE as top names."
 draft: false
 ---

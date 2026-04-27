@@ -4,6 +4,7 @@ date: 2026-04-03T23:30:00+09:00
 categories: ["market-close"]
 tags: ["KOSPI", "Korean equities", "energy infrastructure", "fiber optics", "Samsung Electronics", "Pearl Abyss", "SK Telecom"]
 slug: "kr-kr-close-briefing-2026-04-03"
+aliases: ["/en/post/kr-kr-close-briefing-2026-04-03/"]
 description: "South Korea's equity market bounced on April 3, but the rally was narrow and theme-driven — power infrastructure and fiber optics outpaced semiconductors, signaling rotation rather than broad recovery."
 draft: false
 ---

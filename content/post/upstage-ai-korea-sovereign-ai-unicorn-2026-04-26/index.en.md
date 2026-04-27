@@ -1,6 +1,7 @@
 ---
 title: "Korea AI Deep Dive: Upstage AI Is Not a ChatGPT Clone - Solar, Document AI, AMD and Sovereign AI"
 slug: upstage-ai-korea-sovereign-ai-unicorn-2026-04-26
+aliases: ["/en/post/upstage-ai-korea-sovereign-ai-unicorn-2026-04-26/"]
 date: 2026-04-26T23:50:00+09:00
 description: "Upstage AI has become Korea's first generative AI unicorn. The real thesis is not a consumer chatbot story, but a sovereign AI and enterprise document-intelligence platform built around Solar, Document Parse, AMD/AWS infrastructure and Japan expansion."
 categories: ["Korea AI", "Venture & Private Markets", "Korea Tech Supply Chain"]

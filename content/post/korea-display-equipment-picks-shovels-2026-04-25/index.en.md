@@ -1,6 +1,7 @@
 ---
 title: "Korea Display Equipment Thesis: Why the BOE-vs-Korea Narrative is the Wrong Trade — Go to Picks & Shovels"
 slug: korea-display-equipment-picks-shovels-2026-04-25
+aliases: ["/en/post/korea-display-equipment-picks-shovels-2026-04-25/"]
 date: 2026-04-25T09:00:00+09:00
 description: "BOE's Apple line utilization collapsed from 82% to 48%. Korean panel-makers are getting headlines. But the real alpha is one layer down — the equipment and materials suppliers exposed to both the China 8.6G OLED CapEx cycle AND the HBM/DDR5 semiconductor cycle. AP System (265520), Soulbrain (357780), Dongjin Semichem (005290)."
 categories: ["Korea Tech Supply Chain", "Equipment & Materials"]

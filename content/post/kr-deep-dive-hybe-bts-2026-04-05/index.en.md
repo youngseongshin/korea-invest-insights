@@ -2,6 +2,7 @@
 title: "HYBE: BTS Comeback and the Platform Bet"
 date: 2026-04-05T10:00:00+09:00
 slug: "kr-deep-dive-hybe-bts-2026-04-05"
+aliases: ["/en/post/kr-deep-dive-hybe-bts-2026-04-05/"]
 categories: ["company-deep-dive"]
 tags:
   - HYBE

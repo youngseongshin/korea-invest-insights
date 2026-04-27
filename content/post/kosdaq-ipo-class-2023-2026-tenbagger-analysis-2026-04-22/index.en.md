@@ -2,6 +2,7 @@
 title: "KOSDAQ IPO Class of 2023-2026: Where the Tenbaggers Actually Live — 259 Firms, 3 Buckets, 11 Names"
 date: 2026-04-22T10:30:00+09:00
 slug: "kosdaq-ipo-class-2023-2026-tenbagger-analysis-2026-04-22"
+aliases: ["/en/post/kosdaq-ipo-class-2023-2026-tenbagger-analysis-2026-04-22/"]
 description: "259 real operating IPOs on KOSDAQ from 2023-2026 (after removing 49 SPACs): 15% hit +100%, but 44% of those winners cluster in just 3 buckets — bio R&D, semiconductors, medical devices. Strongest numerical signal: a 57% tenbagger hit rate among firms with YoY revenue growth above 200%. A structural backtest plus an 11-name Tier 1 shortlist."
 categories: ["korea-market"]
 tags:

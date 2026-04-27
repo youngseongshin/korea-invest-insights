@@ -4,6 +4,7 @@ date: 2026-04-17T16:30:00+09:00
 categories: ["daily-wrap"]
 tags: ["KOSPI", "Korea stocks", "Market Discovery", "RF materials", "telecom infrastructure", "bull market"]
 slug: "kr-daily-wrap-2026-04-17"
+aliases: ["/en/post/kr-daily-wrap-2026-04-17/"]
 description: "KOSPI hits 6,192 in dual Bull regime as telecom infra and semis lead; Market Discovery screener flags 성호전자 and RF머트리얼즈 at RS 100/99.8."
 draft: false
 ---

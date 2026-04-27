@@ -4,6 +4,7 @@ date: 2026-04-10T23:30:00+09:00
 categories: ["weekly-strategy"]
 tags: ["South Korea", "KOSPI", "Korean semiconductor stocks", "Samsung Electronics", "AI infrastructure"]
 slug: "kr-concentrated-weekly-2026-04-10"
+aliases: ["/en/post/kr-concentrated-weekly-2026-04-10/"]
 description: "KOSPI faces risk-off pressure as foreign outflows hit records. We break down AI semiconductor plays and Korea market themes for April 2026."
 draft: false
 ---

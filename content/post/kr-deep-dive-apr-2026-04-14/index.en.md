@@ -4,6 +4,7 @@ date: 2026-04-14T12:00:00+09:00
 categories: ["company-deep-dive"]
 tags: ["APR", "278470", "Medicube", "AGE-R", "K-beauty device", "Korean stocks", "KOSDAQ", "beauty tech", "K-beauty", "home beauty device"]
 slug: "kr-deep-dive-apr-2026-04-14"
+aliases: ["/en/post/kr-deep-dive-apr-2026-04-14/"]
 description: "Deep dive into APR (278470.KQ), the Korean company behind Medicube and AGE-R devices — a rare growth+profitability combination in global beauty tech."
 series: ["K-Beauty & Aesthetics"]
 draft: false

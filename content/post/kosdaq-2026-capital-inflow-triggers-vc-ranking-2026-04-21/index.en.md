@@ -2,6 +2,7 @@
 title: "Korea's 2026 KOSDAQ Policy Package: Which Triggers Actually Bring Money — A VC's Ranking"
 date: 2026-04-21T20:00:00+09:00
 slug: "kosdaq-2026-capital-inflow-triggers-vc-ranking-2026-04-21"
+aliases: ["/en/post/kosdaq-2026-capital-inflow-triggers-vc-ranking-2026-04-21/"]
 description: "Between slogans like 'KOSDAQ 3,000' and genuine structural levers like BDCs, Korea's 2026 policy package is being read wrong. A VC-practitioner ranking of the ten active triggers — what actually pipes money in (National Growth Fund, BDC, pension benchmark rewrite, active ETFs), what reshapes the supply side (mass-delisting reform, AI special listing, productive-finance pivot), and which numbers are realistic. Net new inflow: ~KRW 20–40T, not KRW 1,400T. The real story is exit-market reconstruction."
 categories: ["korea-market"]
 tags:

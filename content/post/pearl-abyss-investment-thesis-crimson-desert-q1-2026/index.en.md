@@ -1,5 +1,6 @@
 ---
 slug: "pearl-abyss-investment-thesis-crimson-desert-q1-2026"
+aliases: ["/en/post/pearl-abyss-investment-thesis-crimson-desert-q1-2026/"]
 title: "Pearl Abyss (263750.KQ) Investment Thesis: Crimson Desert's Record-Breaking Turnaround"
 description: "Deep-dive investment thesis on Pearl Abyss. Crimson Desert sold 4M+ copies in 12 days, projecting Q1 2026 OP of KRW 200-250B — a historic turnaround for Korean gaming."
 date: 2026-04-08T09:00:00+09:00

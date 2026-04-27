@@ -1,6 +1,7 @@
 ---
 title: "Pearl Abyss — Securing ₩60,000 as the New Support Floor: A Healthy Handoff from Retail to Institutions on April 27"
 slug: pearl-abyss-60k-new-support-retail-to-institutional-handoff-2026-04-27
+aliases: ["/en/post/pearl-abyss-60k-new-support-retail-to-institutional-handoff-2026-04-27/"]
 date: 2026-04-27T18:30:00+09:00
 description: "Pearl Abyss closed April 27 at ₩60,200 (+5.61%) — not via foreign-led mass buying, but by absorbing 75,930 shares of official short-selling, foreign-house net selling, and Kiwoom-led retail outflow with Shinhan/Korea Investment-led institutional buying. Short VWAP at ₩60,390 vs close ₩60,200 sets up immediate squeeze pressure if tomorrow holds above ₩60,400. ₩60,000 is now a first-line support, not a resistance."
 categories: ["Pearl Abyss", "Korea Market"]

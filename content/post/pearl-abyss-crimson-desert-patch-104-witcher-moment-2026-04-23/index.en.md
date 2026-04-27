@@ -1,6 +1,7 @@
 ---
 title: "Pearl Abyss Crimson Desert Patch 1.04.00: The Witcher-3 Moment — Why This Is the Re-Rating Catalyst"
 slug: pearl-abyss-crimson-desert-patch-104-witcher-moment-2026-04-23
+aliases: ["/en/post/pearl-abyss-crimson-desert-patch-104-witcher-moment-2026-04-23/"]
 date: 2026-04-23T22:30:00+09:00
 description: "Crimson Desert's 29GB 1.04.00 patch landed April 23 with difficulty modes, 1,000-slot housing, and pet systems. New review positivity hit 94.9% (+11.2pp). At P/E 15× this pushes fair value to ~83,000-86,000 KRW vs 53,100 spot — a 55-62% re-rating setup."
 categories: ["Pearl Abyss", "Korea Market"]

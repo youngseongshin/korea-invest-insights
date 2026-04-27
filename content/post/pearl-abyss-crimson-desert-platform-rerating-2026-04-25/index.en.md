@@ -1,6 +1,7 @@
 ---
 title: "Pearl Abyss — Why the Re-Rating Question Is No Longer 'How Many Copies?': MMORPG Live-Ops DNA Reshapes the AAA Package Long-Tail"
 slug: pearl-abyss-crimson-desert-platform-rerating-2026-04-25
+aliases: ["/en/post/pearl-abyss-crimson-desert-platform-rerating-2026-04-25/"]
 date: 2026-04-25T22:00:00+09:00
 description: "The Pearl Abyss thesis has moved past unit sales. The real question: can Crimson Desert force the market to reclassify Pearl Abyss from 'one-off package hit' to 'global AAA platform / proprietary-engine company'? 5M units, 1.04.00 patch, 95.8% post-patch review positivity, and persistent short balance say the option is mispriced — but not yet proven."
 categories: ["Pearl Abyss", "Korea Market"]

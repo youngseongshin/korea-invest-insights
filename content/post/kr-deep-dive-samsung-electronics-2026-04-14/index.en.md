@@ -4,6 +4,7 @@ date: 2026-04-14T12:00:00+09:00
 categories: ["company-deep-dive"]
 tags: ["Samsung Electronics", "005930.KS", "KOSPI", "HBM", "Korean stocks", "semiconductor", "Galaxy", "foundry", "AI chip", "Korean tech giant"]
 slug: "kr-deep-dive-samsung-electronics-2026-04-14"
+aliases: ["/en/post/kr-deep-dive-samsung-electronics-2026-04-14/"]
 description: "Deep-dive into Samsung Electronics (005930.KS): HBM memory, Galaxy, and foundry ambitions—what global investors need to know about Korea's tech crown jewel."
 series: ["Korean Semiconductor & HBM"]
 draft: false

@@ -1,5 +1,6 @@
 ---
 slug: "apr-medicube-age-r-deep-dive-valuation-2026"
+aliases: ["/en/post/apr-medicube-age-r-deep-dive-valuation-2026/"]
 title: "APR (278470.KQ) Deep Dive: How Medicube & AGE-R Crowned Korea's New Beauty Champion"
 description: "APR deep analysis. Market cap KRW 12T+ surpassing Amorepacific and LG H&H to become Korea's #1 beauty company. Medicube revenue KRW 1.4T, AGE-R 6M+ cumulative units, 2026 revenue guidance KRW 2.1T. Strong fundamentals and chart, but not cheap."
 date: 2026-04-09T21:00:00+09:00

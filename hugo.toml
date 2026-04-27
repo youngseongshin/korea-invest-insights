@@ -1,7 +1,8 @@
 baseURL = "https://koreainvestinsights.com/"
 title = "Korea Invest Insights"
 theme = "hugo-theme-stack"
-defaultContentLanguage = "es"
+defaultContentLanguage = "en"
+defaultContentLanguageInSubdir = false
 hasCJKLanguage = true
 enableRobotsTXT = true
 enableGitInfo = true
@@ -50,7 +51,7 @@ buildFuture = true  # 장마감 브리핑(16:30 KST) 등 발행 시각보다 살
 [languages]
   [languages.es]
     languageName = "Español"
-    weight = 1
+    weight = 2
     title = "Korea Invest Insights"
     [languages.es.params]
       description = "Perspectivas del mercado coreano desde un inversor profesional y VC"
@@ -69,7 +70,7 @@ buildFuture = true  # 장마감 브리핑(16:30 KST) 등 발행 시각보다 살
 
   [languages.vi]
     languageName = "Tiếng Việt"
-    weight = 2
+    weight = 3
     title = "Korea Invest Insights"
     [languages.vi.params]
       description = "Góc nhìn thị trường Hàn Quốc từ nhà đầu tư chuyên nghiệp và VC"
@@ -88,7 +89,7 @@ buildFuture = true  # 장마감 브리핑(16:30 KST) 등 발행 시각보다 살
 
   [languages.fr]
     languageName = "Français"
-    weight = 3
+    weight = 4
     title = "Korea Invest Insights"
     [languages.fr.params]
       description = "Perspectives du marché coréen par un investisseur professionnel et VC"
@@ -107,25 +108,25 @@ buildFuture = true  # 장마감 브리핑(16:30 KST) 등 발행 시각보다 살
 
   [languages.en]
     languageName = "English"
-    weight = 4
+    weight = 1
     title = "Korea Invest Insights"
     [languages.en.params]
       description = "Korean market insights from a professional investor & VC perspective"
     [[languages.en.menu.main]]
       name = "Home"
-      url = "/en/"
+      url = "/"
       weight = 1
     [[languages.en.menu.main]]
       name = "Start Here"
-      url = "/en/page/start-here"
+      url = "/page/start-here"
       weight = 2
     [[languages.en.menu.main]]
       name = "Archives"
-      url = "/en/page/archives"
+      url = "/page/archives"
       weight = 3
     [[languages.en.menu.main]]
       name = "About"
-      url = "/en/page/about"
+      url = "/page/about"
       weight = 4
 
   [languages.ja]

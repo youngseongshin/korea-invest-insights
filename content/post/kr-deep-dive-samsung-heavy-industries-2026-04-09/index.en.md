@@ -4,6 +4,7 @@ date: 2026-04-09T12:00:00+09:00
 categories: ["company-deep-dive"]
 tags: ["Samsung Heavy Industries", "010140.KS", "Korean shipbuilding", "LNG carrier", "FLNG", "KOSPI", "Korean stocks", "energy infrastructure"]
 slug: "kr-deep-dive-samsung-heavy-industries-2026-04-09"
+aliases: ["/en/post/kr-deep-dive-samsung-heavy-industries-2026-04-09/"]
 description: "A deep-dive into Samsung Heavy Industries (010140.KS) — the Korean shipyard dominating LNG carriers and floating LNG plants as global gas demand surges."
 series: ["Korean Shipbuilding Renaissance"]
 draft: false

@@ -4,6 +4,7 @@ date: 2026-04-21T12:00:00+09:00
 categories: ["company-deep-dive"]
 tags: ["Hanwha Aerospace", "012450", "K9 Thunder", "Korean defense industry", "Korean stocks", "KOSPI", "defense sector", "aerospace", "Hanwha defense"]
 slug: "kr-deep-dive-hanwha-aerospace-2026-04-21"
+aliases: ["/en/post/kr-deep-dive-hanwha-aerospace-2026-04-21/"]
 description: "A deep-dive into Hanwha Aerospace (012450.KS): the Korean defense giant behind the K9 Thunder howitzer, now riding a once-in-a-generation global rearmament wave."
 series: ["Korean Defense & Aerospace"]
 draft: false

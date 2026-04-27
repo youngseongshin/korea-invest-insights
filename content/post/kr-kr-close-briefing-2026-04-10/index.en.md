@@ -4,6 +4,7 @@ date: 2026-04-10T23:30:00+09:00
 categories: ["market-close"]
 tags: ["South Korea", "KOSPI", "Korean semiconductor stocks", "SK Telecom", "Samsung Electronics"]
 slug: "kr-kr-close-briefing-2026-04-10"
+aliases: ["/en/post/kr-kr-close-briefing-2026-04-10/"]
 description: "KOSPI closed in selective risk-on mode on April 10, with Samsung Electro-Mechanics surging 9.5% and telecom infrastructure stocks driving the day's narrative."
 draft: false
 ---

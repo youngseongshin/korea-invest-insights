@@ -4,6 +4,7 @@ date: 2026-04-09T23:30:00+09:00
 categories: ["market-close"]
 tags: ["KOSPI", "South Korea", "Samsung Electronics", "Korean semiconductor stocks", "KOSDAQ"]
 slug: "kr-kr-close-briefing-2026-04-09"
+aliases: ["/en/post/kr-kr-close-briefing-2026-04-09/"]
 description: "KOSPI ends April 9 in mild risk-off mode as Samsung Electronics slips 3%, overshadowing strength in telecom and EPC plays. Key levels to watch tomorrow."
 draft: false
 ---

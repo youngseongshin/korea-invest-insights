@@ -2,6 +2,7 @@
 title: "Samsung Electro-Mechanics (009150): Why The Stock Doubled In 90 Days — And What Has To Go Right From Here"
 date: 2026-04-21T10:00:00+09:00
 slug: "samsung-electro-mechanics-ai-infrastructure-rerating-2026-04-21"
+aliases: ["/en/post/samsung-electro-mechanics-ai-infrastructure-rerating-2026-04-21/"]
 description: "Samsung Electro-Mechanics (009150.KS) doubled in 90 days — KRW 400k to KRW 680k+. This wasn't a generic AI-tailwind rally: FC-BGA entered Nvidia's Vera Rubin ecosystem as first vendor on Groq3 LPU, MLCC pricing cycle turned with Murata/Taiyo Yuden leading hikes, and the Vietnam KRW 1.8T expansion plus Sumitomo glass-substrate JV added a 2027+ growth axis. This is a structural transition: price-taker to price-setter, Samsung-dependence to Big Tech 6-customer mix, MLCC+FC-BGA optionality on glass interposer."
 categories: ["company-deep-dive"]
 tags:

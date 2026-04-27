@@ -1,6 +1,7 @@
 ---
 title: "KOSDAQ Coverage Gaps 2026: 52 Names Analysts Actually Follow — And the 9 Small-Caps Hiding in Plain Sight"
 slug: kosdaq-coverage-gaps-variant-perception-2026-04-23
+aliases: ["/en/post/kosdaq-coverage-gaps-variant-perception-2026-04-23/"]
 date: 2026-04-23T18:00:00+09:00
 description: "Only 52 KOSDAQ names get real sell-side coverage (2+ brokers, 3M). Six archetype theses explain the small-cap cluster — and Amosense + Coats Technologies sit on choke points the market hasn't priced in yet."
 categories: ["Korea Market"]

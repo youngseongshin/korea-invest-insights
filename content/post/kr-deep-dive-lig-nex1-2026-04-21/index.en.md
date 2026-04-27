@@ -4,6 +4,7 @@ date: 2026-04-21T12:00:00+09:00
 categories: ["company-deep-dive"]
 tags: ["LIG Nex1", "079550.KS", "Korean defense stocks", "K-defense exports", "Chunmoo MLRS", "KOSPI", "precision-guided munitions", "Korean stocks"]
 slug: "kr-deep-dive-lig-nex1-2026-04-21"
+aliases: ["/en/post/kr-deep-dive-lig-nex1-2026-04-21/"]
 description: "A deep-dive into LIG Nex1 (079550.KS), South Korea's leading defense electronics firm and maker of the Chunmoo MLRS — the K-defense export story for global investors."
 series: ["Korean Defense & Aerospace"]
 draft: false

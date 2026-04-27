@@ -4,6 +4,7 @@ date: 2026-04-14T12:00:00+09:00
 categories: ["company-deep-dive"]
 tags: ["CJ Corp", "001040.KS", "Olive Young", "K-beauty retail", "Korean health beauty store", "Korean stocks", "KOSPI", "conglomerate", "K-content", "CJ ENM"]
 slug: "kr-deep-dive-cj-corp-2026-04-14"
+aliases: ["/en/post/kr-deep-dive-cj-corp-2026-04-14/"]
 description: "CJ Corp (001040.KS) is the holding company behind Olive Young, Korea's dominant K-beauty retail chain. A deep-dive for international investors."
 series: ["K-Beauty & Aesthetics"]
 draft: false

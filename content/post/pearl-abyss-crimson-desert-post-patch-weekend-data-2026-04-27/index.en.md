@@ -1,6 +1,7 @@
 ---
 title: "Pearl Abyss / Crimson Desert — Post-Patch Weekend Data: Sales and Review Quality Defended, Long-Tail Durability Confirmed"
 slug: pearl-abyss-crimson-desert-post-patch-weekend-data-2026-04-27
+aliases: ["/en/post/pearl-abyss-crimson-desert-post-patch-weekend-data-2026-04-27/"]
 date: 2026-04-27T11:00:00+09:00
 description: "Crimson Desert's first full post-1.04.00 weekend (April 25–27 KST): average CCU -13.2% vs prior weekend, but new negative reviews -49.7%, new-review positivity +8.7pp to 87.3%, and US Steam rank improved #6.0 → #5.1. Sales run-rate decay (-5.7%) is materially shallower than CCU decay (-13.2%) — exactly the long-tail signature the platform-rerating thesis predicts."
 categories: ["Pearl Abyss", "Korea Market"]

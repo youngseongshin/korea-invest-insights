@@ -1,6 +1,7 @@
 ---
 title: "Korea 2026: Why KOSPI +49% YTD Is a Re-Rating, Not a Rally — A Framework for Foreign Allocators"
 slug: korea-outperformance-2026-structural-rerating-2026-04-24
+aliases: ["/en/post/korea-outperformance-2026-structural-rerating-2026-04-24/"]
 date: 2026-04-24T09:00:00+09:00
 description: "KOSPI +49% YTD leads every major market by 30pp+. Three structural drivers fire at once — HBM supercycle, legislated governance reform, and Sell America rotation. Here's the 3-sleeve framework foreign allocators need to own Korea properly."
 categories: ["Korea Market"]

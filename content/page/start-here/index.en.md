@@ -1,7 +1,7 @@
 ---
 title: "Start Here: Korean Stock Market Research for Global Investors"
 slug: "start-here"
-aliases: ["/start-here/", "/en/start-here/"]
+aliases: ["/start-here/", "/en/start-here/", "/en/page/start-here/"]
 layout: "page"
 description: "A quick guide to Korea Invest Insights for global investors looking for Korean equity research, KOSPI/KOSDAQ market intelligence, and local-language analysis translated into English."
 ---

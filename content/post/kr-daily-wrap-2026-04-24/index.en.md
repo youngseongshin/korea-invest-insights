@@ -4,6 +4,7 @@ date: 2026-04-24T16:30:00+09:00
 categories: ["daily-wrap"]
 tags: ["KOSPI", "KOSDAQ", "Korea stocks", "Market Discovery", "momentum", "construction", "defense", "bull market"]
 slug: "kr-daily-wrap-2026-04-24"
+aliases: ["/en/post/kr-daily-wrap-2026-04-24/"]
 description: "KOSPI 6,476 in confirmed bull regime; Market Discovery screener flags Daewoo E&C, Hanwha Engine as momentum leaders. USD/KRW at 1,481."
 draft: false
 ---

@@ -4,6 +4,7 @@ date: 2026-04-20T16:30:00+09:00
 categories: ["daily-wrap"]
 tags: ["KOSPI", "Korea stocks", "PEAD", "earnings drift", "semiconductor", "shipbuilding", "SK Hynix", "Korean market"]
 slug: "kr-daily-wrap-2026-04-20"
+aliases: ["/en/post/kr-daily-wrap-2026-04-20/"]
 description: "KOSPI hits 6,219 as Korea flips to Bull regime; Monday PEAD screen surfaces 120 earnings-beat candidates led by Hanwha Vision and SK Square."
 draft: false
 ---

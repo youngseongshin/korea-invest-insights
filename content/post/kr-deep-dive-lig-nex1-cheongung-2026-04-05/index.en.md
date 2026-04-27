@@ -2,6 +2,7 @@
 title: "LIG Nex1: Korea's Missile Defense Giant Eyes Middle East Surge"
 date: 2026-04-05T11:00:00+09:00
 slug: kr-deep-dive-lig-nex1-cheongung-2026-04-05
+aliases: ["/en/post/kr-deep-dive-lig-nex1-cheongung-2026-04-05/"]
 categories: ["company-deep-dive"]
 tags:
   - "LIG Nex1"

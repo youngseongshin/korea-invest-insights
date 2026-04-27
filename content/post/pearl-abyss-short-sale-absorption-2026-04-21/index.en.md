@@ -2,6 +2,7 @@
 title: "Shorts Hit, But Couldn't Push — What Pearl Abyss's April 21 Close Data Actually Says"
 date: 2026-04-21T16:30:00+09:00
 slug: "pearl-abyss-short-sale-absorption-2026-04-21"
+aliases: ["/en/post/pearl-abyss-short-sale-absorption-2026-04-21/"]
 description: "Shorts dumped 64,362 shares on Pearl Abyss (263750.KQ) on April 21 and still couldn't hold the close below the average short price. Foreigners +28,741, institutions +7,960, low-to-close recovery of +2.06%. More importantly: short-sale intensity peaked on April 16 at 298,379 shares and has collapsed -78.4% since. Today's reading — shorts are still present, but price-setting power is slipping. This is the absorption tape, not the squeeze tape."
 categories: ["company-deep-dive"]
 tags:

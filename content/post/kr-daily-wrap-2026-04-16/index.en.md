@@ -4,6 +4,7 @@ date: 2026-04-16T16:30:00+09:00
 categories: ["daily-wrap"]
 tags: ["KOSPI", "Korea stocks", "quality compounder", "semiconductor", "telecom infrastructure", "KR bull regime"]
 slug: "kr-daily-wrap-2026-04-16"
+aliases: ["/en/post/kr-daily-wrap-2026-04-16/"]
 description: "KOSPI surges 6.3% over 5 days as Korea enters Bull regime. Quality Compounder screener flags SK Square, Riino, and SK Hynix. 154 stocks pass."
 draft: false
 ---

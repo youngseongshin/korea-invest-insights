@@ -4,6 +4,7 @@ date: 2026-04-24T23:30:00+09:00
 categories: ["weekly-strategy"]
 tags: ["South Korea", "KOSPI", "Korean semiconductor stocks", "SK Hynix", "Hyundai Engineering"]
 slug: "kr-concentrated-weekly-2026-04-24"
+aliases: ["/en/post/kr-concentrated-weekly-2026-04-24/"]
 description: "KOSPI turned bull on April 24 as Korea-US regimes aligned. SK Hynix leads watchlist while supply flow weakens in select names."
 draft: false
 ---

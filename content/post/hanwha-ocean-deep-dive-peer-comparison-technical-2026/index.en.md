@@ -1,5 +1,6 @@
 ---
 slug: "hanwha-ocean-deep-dive-peer-comparison-technical-2026"
+aliases: ["/en/post/hanwha-ocean-deep-dive-peer-comparison-technical-2026/"]
 title: "Hanwha Ocean Deep Dive: The LNG-Defense-Maritime Security Triple Narrative"
 description: "Hanwha Ocean deep analysis. LNG carriers drive earnings, special vessels/defense drive multiples, overseas MRO provides long-term optionality. Peer comparison with HD Korea Shipbuilding and Samsung Heavy Industries plus full technical analysis."
 date: 2026-04-09T20:00:00+09:00

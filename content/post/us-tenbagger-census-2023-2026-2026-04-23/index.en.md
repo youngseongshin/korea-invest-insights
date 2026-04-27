@@ -1,6 +1,7 @@
 ---
 title: "US 40 Tenbaggers of 2023-2026: The AI-Infrastructure Full Stack, and How It Pairs With Korea's 27"
 slug: us-tenbagger-census-2023-2026-2026-04-23
+aliases: ["/en/post/us-tenbagger-census-2023-2026-2026-04-23/"]
 date: 2026-04-23T21:00:00+09:00
 description: "Full 3-year US tenbagger census: 40 names from 1,690 tickers, 33% are AI-infra full stack, median 15.7× beats Korea's 13.8×. Where the US leads, Korea follows on a 3-6 month lag — here's the pair-trade map."
 categories: ["US Market", "Korea Market"]

@@ -4,6 +4,7 @@ date: 2026-04-04T21:00:00+09:00
 categories: ["company-deep-dive"]
 tags: ["Pearl Abyss", "263750.KS", "Crimson Desert", "Red Desert", "붉은사막", "Korean gaming stocks", "KOSPI", "Steam", "China gaming market"]
 slug: "kr-deep-dive-pearl-abyss-crimson-desert-china-2026-04-04"
+aliases: ["/en/post/kr-deep-dive-pearl-abyss-crimson-desert-china-2026-04-04/"]
 description: "Pearl Abyss's Crimson Desert hits 86% Steam rating and 4M+ copies sold. Deep analysis of China market breakthrough, Qingming Festival sales surge, and investment implications for 263750.KS."
 series: ["pearl-abyss-crimson-desert-thesis"]
 draft: false

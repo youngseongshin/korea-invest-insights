@@ -4,6 +4,7 @@ date: 2026-04-15T16:30:00+09:00
 categories: ["daily-wrap"]
 tags: ["KOSPI", "Korea stocks", "quiet accumulation", "foreign buying", "semiconductor", "telecom infrastructure"]
 slug: "kr-daily-wrap-2026-04-15"
+aliases: ["/en/post/kr-daily-wrap-2026-04-15/"]
 description: "KOSPI hits 6,091 in confirmed Bull regime as foreigners quietly build positions. Wednesday screener flags 96 coiling candidates."
 draft: false
 ---

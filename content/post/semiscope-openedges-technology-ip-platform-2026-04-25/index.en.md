@@ -1,6 +1,7 @@
 ---
 title: "SemiScope: OpenEdges Technology — Korea's Memory Subsystem IP Platform With a Royalty J-Curve Option"
 slug: semiscope-openedges-technology-ip-platform-2026-04-25
+aliases: ["/en/post/semiscope-openedges-technology-ip-platform-2026-04-25/"]
 date: 2026-04-25T18:30:00+09:00
 description: "OpenEdges Technology (394280 KQ) is not a CXL equipment trade. It is Korea's rare semiconductor IP platform: memory controller, DDR PHY, NPU, NoC, UCIe and CXL-adjacent memory IP, with near-term losses but a long-duration royalty option."
 categories: ["Korea Tech Supply Chain", "Semiconductor IP"]

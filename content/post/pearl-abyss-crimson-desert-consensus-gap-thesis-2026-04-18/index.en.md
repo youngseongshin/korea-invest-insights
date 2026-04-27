@@ -2,6 +2,7 @@
 title: "Crimson Desert 5M: The Sell-Side Consensus Gap"
 date: 2026-04-18T09:00:00+09:00
 slug: "pearl-abyss-crimson-desert-consensus-gap-thesis-2026-04-18"
+aliases: ["/en/post/pearl-abyss-crimson-desert-consensus-gap-thesis-2026-04-18/"]
 description: "Pearl Abyss (263750.KQ) hit 5M copies on April 15. Yet sell-side consensus still clusters at 5M–6M for full-year 2026 — the sell-side consensus gap explained."
 categories: ["company-deep-dive"]
 tags:

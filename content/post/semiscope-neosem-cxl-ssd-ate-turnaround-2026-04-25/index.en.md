@@ -1,6 +1,7 @@
 ---
 title: "SemiScope: Neosem - Korea's CXL and Gen6 SSD Tester Pure Play at a 2026 Order-Cycle Inflection"
 slug: semiscope-neosem-cxl-ssd-ate-turnaround-2026-04-25
+aliases: ["/en/post/semiscope-neosem-cxl-ssd-ate-turnaround-2026-04-25/"]
 date: 2026-04-25T19:20:00+09:00
 description: "Neosem (253590 KQ) is a Korean ATE company leveraged to PCIe Gen6 SSD testers, CXL 3.1 memory testers, server DIMM automation, SOCAMM and potentially HBM burn-in. 2025 was a sharp downcycle, but late-2025 orders point to a possible 2026 revenue inflection."
 categories: ["Korea Tech Supply Chain", "Semiconductor Equipment"]

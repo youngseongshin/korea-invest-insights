@@ -4,6 +4,7 @@ date: 2026-04-09T12:00:00+09:00
 categories: ["company-deep-dive"]
 tags: ["Hanwha Ocean", "042660.KS", "KOSPI", "Korean shipbuilding", "LNG carriers", "naval vessels", "Korean stocks", "defense shipbuilding", "KRX"]
 slug: "kr-deep-dive-hanwha-ocean-2026-04-09"
+aliases: ["/en/post/kr-deep-dive-hanwha-ocean-2026-04-09/"]
 description: "Hanwha Ocean (042660.KS) is no longer just a Korean shipyard. LNG dominance, naval contracts, and a US beachhead make it a global defense-maritime play."
 series: ["Korean Shipbuilding Renaissance"]
 draft: false

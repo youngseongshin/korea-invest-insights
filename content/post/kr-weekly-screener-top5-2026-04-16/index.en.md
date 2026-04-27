@@ -2,6 +2,7 @@
 title: "Korean Stock Screener Top 5: Apr 16, 2026"
 date: 2026-04-18T09:00:00+09:00
 slug: "kr-weekly-screener-top5-2026-04-16"
+aliases: ["/en/post/kr-weekly-screener-top5-2026-04-16/"]
 description: "Five Korean stocks that cleared multiple independent quantitative screens in the week of Apr 9–16, 2026 — methodology, metrics, and risk framing for global investors."
 categories: ["market-analysis"]
 series: "weekly-screener-intersection"

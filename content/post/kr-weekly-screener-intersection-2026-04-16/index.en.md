@@ -2,6 +2,7 @@
 title: "Korean Stocks: 8 Names That Beat 5+ Screeners"
 date: 2026-04-16T09:00:00+09:00
 slug: "kr-weekly-screener-intersection-2026-04-16"
+aliases: ["/en/post/kr-weekly-screener-intersection-2026-04-16/"]
 description: "Eight Korean stocks cleared 5–7 independent quant screeners in the week of Apr 16, 2026 — from SK Hynix to a little-known electrical-equipment compounder."
 categories: ["market-analysis"]
 tags:

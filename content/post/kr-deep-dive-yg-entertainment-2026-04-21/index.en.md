@@ -4,6 +4,7 @@ date: 2026-04-21T12:00:00+09:00
 categories: ["company-deep-dive"]
 tags: ["YG Entertainment", "122870.KS", "BLACKPINK", "BABYMONSTER", "K-pop agency", "Korean stocks", "KOSPI", "entertainment sector"]
 slug: "kr-deep-dive-yg-entertainment-2026-04-21"
+aliases: ["/en/post/kr-deep-dive-yg-entertainment-2026-04-21/"]
 description: "A deep-dive into YG Entertainment (122870.KS), home of BLACKPINK and BABYMONSTER — valuation, growth drivers, risks, and how foreign investors can gain exposure."
 series: ["K-Pop & Entertainment Empire"]
 draft: false

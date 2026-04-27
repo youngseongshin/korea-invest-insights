@@ -4,6 +4,7 @@ date: 2026-04-04T12:00:00+09:00
 categories: ["company-deep-dive"]
 tags: ["Samyang Foods", "003230.KS", "KOSPI", "Buldak ramen", "Korean instant noodles", "K-food stocks", "K-food", "Korean stocks"]
 slug: "kr-deep-dive-samyang-foods-2026-04-04"
+aliases: ["/en/post/kr-deep-dive-samyang-foods-2026-04-04/"]
 description: "Deep-dive on Samyang Foods (003230.KS): how Buldak ramen turned a mid-tier Korean noodle maker into a global K-food export powerhouse."
 series: ["K-Food Global Expansion"]
 draft: false

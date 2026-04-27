@@ -4,6 +4,7 @@ date: 2026-04-14T12:00:00+09:00
 categories: ["company-deep-dive"]
 tags: ["SK hynix", "000660.KS", "HBM memory", "Korean semiconductor", "AI memory chips", "KOSPI", "NAND flash", "Korean stocks"]
 slug: "kr-deep-dive-sk-hynix-2026-04-14"
+aliases: ["/en/post/kr-deep-dive-sk-hynix-2026-04-14/"]
 description: "Deep-dive on SK hynix (000660.KS): how the world's HBM leader became indispensable to AI infrastructure — and what it means for global investors."
 series: ["Korean Semiconductor & HBM"]
 draft: false

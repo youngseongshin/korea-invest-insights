@@ -4,6 +4,7 @@ date: 2026-04-17T23:30:00+09:00
 categories: ["weekly-strategy"]
 tags: ["KOSPI", "South Korea", "Samsung Electronics", "Korean semiconductor stocks", "MRVL", "Meta"]
 slug: "kr-concentrated-weekly-2026-04-17"
+aliases: ["/en/post/kr-concentrated-weekly-2026-04-17/"]
 description: "KOSPI technical indicators flash buy signals as BOK holds at 2.50%. Four focus stocks — Samsung Electronics, Marvell, Meta, and Samsung Electro-Mechanics — lead Korea's AI-driven equity theme this week."
 draft: false
 ---

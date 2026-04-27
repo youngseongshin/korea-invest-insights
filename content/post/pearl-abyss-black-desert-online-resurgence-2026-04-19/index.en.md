@@ -2,6 +2,7 @@
 title: "The BDO Resurgence Nobody Noticed: +40% YoY in Crimson Desert's Shadow"
 date: 2026-04-19T14:00:00+09:00
 slug: "pearl-abyss-black-desert-online-resurgence-2026-04-19"
+aliases: ["/en/post/pearl-abyss-black-desert-online-resurgence-2026-04-19/"]
 description: "Pearl Abyss (263750.KQ)'s 9-year-old MMO Black Desert Online quietly posted +40% YoY monthly average CCU in April 2026 — five consecutive months of growth while the market watched Crimson Desert. The second-order catalyst most models haven't priced."
 categories: ["company-deep-dive"]
 tags:

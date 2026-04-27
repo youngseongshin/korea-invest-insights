@@ -4,6 +4,7 @@ date: 2026-04-23T16:30:00+09:00
 categories: ["daily-wrap"]
 tags: ["KOSPI", "Korea stocks", "quality compounder", "semiconductors", "industrial machinery", "bull market"]
 slug: "kr-daily-wrap-2026-04-23"
+aliases: ["/en/post/kr-daily-wrap-2026-04-23/"]
 description: "KOSPI surges 4.6% over five sessions as dual Bull regime holds; Quality Compounder screener flags SK Hynix, Sanil Electric, and Leeno. (142 chars)"
 draft: false
 ---

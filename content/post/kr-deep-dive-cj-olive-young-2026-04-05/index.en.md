@@ -1,6 +1,7 @@
 ---
 title: "CJ Corp & Olive Young: K-Beauty's Hidden Gem"
 slug: "kr-deep-dive-cj-olive-young-2026-04-05"
+aliases: ["/en/post/kr-deep-dive-cj-olive-young-2026-04-05/"]
 date: "2026-04-05T10:00:00+09:00"
 description: "CJ Corp holds Olive Young, Korea's 1,300+ store beauty chain and K-Beauty's top retail platform. Inside the conglomerate discount, IPO optionality, and global expansion."
 categories: ["company-deep-dive"]

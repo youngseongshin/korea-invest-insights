@@ -2,6 +2,7 @@
 title: "Pearl Abyss 1Q26 Earnings Preview: KRW 395B Revenue / KRW 205B OP — Why 51.9% Margin Is The Defensible Central Case"
 date: 2026-04-21T15:00:00+09:00
 slug: "pearl-abyss-1q26-earnings-preview-2026-04-21"
+aliases: ["/en/post/pearl-abyss-1q26-earnings-preview-2026-04-21/"]
 description: "With Crimson Desert's official milestones (4M units by April 1, 5M by April 15) now on the record, what does Pearl Abyss's (263750.KQ) first launch quarter print actually look like? Central case: KRW 395B revenue, KRW 205B operating profit, 51.9% OPM. But the key 1Q26 variables aren't the unit number — they're the accounting frame (principal vs. agent), realized ASP, and the marketing/commission expense lines that are still footnoted black boxes."
 categories: ["company-deep-dive"]
 tags:

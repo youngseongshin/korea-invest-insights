@@ -4,6 +4,7 @@ date: 2026-04-16T12:00:00+09:00
 categories: ["company-deep-dive"]
 tags: ["Pharma Research Products", "파마리서치", "214450", "Rejuran", "PDRN skin booster", "Korean stocks", "KOSDAQ", "K-beauty stocks", "Korean aesthetics", "aesthetic injectables", "biostimulators", "PN therapy"]
 slug: "kr-deep-dive-pharma-research-products-2026-04-16"
+aliases: ["/en/post/kr-deep-dive-pharma-research-products-2026-04-16/"]
 description: "Deep-dive on Pharma Research Products (214450.KQ): the KOSDAQ company behind Rejuran PDRN skin boosters, riding the global K-beauty aesthetic injectable wave."
 series: ["K-Beauty & Aesthetics"]
 draft: false
