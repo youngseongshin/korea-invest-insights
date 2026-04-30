@@ -9,6 +9,8 @@ series: ["pearl-abyss-crimson-desert-thesis"]
 draft: false
 ---
 
+> **펄어비스 리서치 허브**: 이 글은 [펄어비스·붉은사막 투자 리서치 허브](/ko/page/pearl-abyss-crimson-desert-hub/)의 판매량·프랜차이즈 분석 출발점이다. 이후 업데이트는 [컨센서스 갭](/ko/post/pearl-abyss-crimson-desert-consensus-gap-thesis-2026-04-18/), [1Q26 실적 프리뷰](/ko/post/pearl-abyss-1q26-earnings-preview-2026-04-21/), [플랫폼 리레이팅](/ko/post/pearl-abyss-crimson-desert-platform-rerating-2026-04-25/)으로 이어진다.
+
 # 펄어비스 (263750.KQ): 판매량 500만 돌파 — 이제 질문은 "얼마나 팔리나?"가 아니라 "얼마나 오래 가나?"다
 
 4월 15일, 붉은사막이 **500만 장** 판매 달성을 펄어비스 공식 소셜 채널을 통해 확인했다. 4월 1일 400만 장 공식 발표 이후 불과 14일 만에 추가로 100만 장이 팔린 셈이다. 게임은 PS5, Xbox Series X|S, Steam, Mac, Epic Games Store에서 지속적으로 판매 중이며, 자체 엔진인 BlackSpace Engine 기반의 진정한 멀티플랫폼 체제를 갖추고 있다.

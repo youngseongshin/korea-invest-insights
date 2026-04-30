@@ -1,0 +1,88 @@
+---
+title: "Pearl Abyss and Crimson Desert Investment Research Hub"
+slug: "pearl-abyss-crimson-desert-hub"
+date: 2026-04-30T22:30:00+09:00
+aliases: ["/pearl-abyss/", "/crimson-desert/", "/en/pearl-abyss/", "/en/crimson-desert/", "/en/page/pearl-abyss-crimson-desert-hub/"]
+layout: "page"
+description: "A hub for Pearl Abyss and Crimson Desert investment research, covering unit sales, Patch 1.04, the KRW 60,000 support level, Shinhan's target-price gap, and the platform re-rating thesis."
+---
+
+## One-Line Thesis
+
+The Pearl Abyss thesis is no longer only about how many copies Crimson Desert sells. The deeper question is whether Crimson Desert can force the market to reclassify Pearl Abyss from a one-title launch story into a Korean AAA IP, proprietary-engine, and cash-flow platform company.
+
+This hub is the starting map for the full Pearl Abyss / Crimson Desert research thread.
+
+---
+
+## Start Here
+
+| Step | Question | Read |
+|---:|---|---|
+| 1 | Why does Crimson Desert matter for Pearl Abyss? | [Pearl Abyss: What Crimson Desert's Global Launch Means](/en/post/kr-deep-dive-pearl-abyss-2026-04-28/) |
+| 2 | Was Patch 1.04 a re-rating catalyst? | [Pearl Abyss: Why Crimson Desert Patch 1.04 Could Re-Rate the Stock](/en/post/pearl-abyss-crimson-desert-patch-104-witcher-moment-2026-04-23/) |
+| 3 | Has the thesis moved beyond unit sales? | [Pearl Abyss Re-Rating: Crimson Desert Is More Than a Unit-Sales Story](/en/post/pearl-abyss-crimson-desert-platform-rerating-2026-04-25/) |
+| 4 | Is KRW 60,000 support or resistance? | [Pearl Abyss KRW 60,000 Support: Retail-to-Institutional Handoff](/en/post/pearl-abyss-60k-new-support-retail-to-institutional-handoff-2026-04-27/) |
+| 5 | What did Shinhan's target-price raise capture or miss? | [Pearl Abyss Target Price Gap: Why Shinhan's 2027 Sales Cliff Looks Too Harsh](/en/post/pearl-abyss-shinhan-target-price-gap-analysis-2026-04-29/) |
+
+---
+
+## Latest Updates
+
+| Date | Topic | Read |
+|---|---|---|
+| 2026-04-29 | Shinhan target-price raise and 2027 sales assumptions | [Pearl Abyss Target Price Gap](/en/post/pearl-abyss-shinhan-target-price-gap-analysis-2026-04-29/) |
+| 2026-04-27 | KRW 60,000 support and retail-to-institutional handoff | [Pearl Abyss KRW 60,000 Support](/en/post/pearl-abyss-60k-new-support-retail-to-institutional-handoff-2026-04-27/) |
+| 2026-04-27 | Post-patch weekend data and long-tail durability | [Crimson Desert Post-Patch Data](/en/post/pearl-abyss-crimson-desert-post-patch-weekend-data-2026-04-27/) |
+| 2026-04-25 | Platform re-rating framework | [Pearl Abyss Re-Rating](/en/post/pearl-abyss-crimson-desert-platform-rerating-2026-04-25/) |
+
+---
+
+## Read by Thesis
+
+### Product Data and Game Quality
+
+- [Pearl Abyss: Why Crimson Desert Patch 1.04 Could Re-Rate the Stock](/en/post/pearl-abyss-crimson-desert-patch-104-witcher-moment-2026-04-23/)
+- [Crimson Desert Post-Patch Data: Reviews Hold, Long-Tail Thesis Improves](/en/post/pearl-abyss-crimson-desert-post-patch-weekend-data-2026-04-27/)
+- [Pearl Abyss After 5M Copies: Why 7.5M Is the New Floor](/en/post/pearl-abyss-crimson-desert-5m-franchise-thesis-2026-04-15/)
+
+### Earnings and Valuation
+
+- [Pearl Abyss 1Q26 Preview: 51.9% Margin Case After Crimson Desert](/en/post/pearl-abyss-1q26-earnings-preview-2026-04-21/)
+- [Pearl Abyss Target Price Gap: Why Shinhan's 2027 Sales Cliff Looks Too Harsh](/en/post/pearl-abyss-shinhan-target-price-gap-analysis-2026-04-29/)
+- [Pearl Abyss Investment Thesis: Crimson Desert Turnaround](/en/post/pearl-abyss-investment-thesis-crimson-desert-q1-2026/)
+
+### Flow and Price Levels
+
+- [Pearl Abyss KRW 60,000 Support: Retail-to-Institutional Handoff](/en/post/pearl-abyss-60k-new-support-retail-to-institutional-handoff-2026-04-27/)
+- [Pearl Abyss Short Sale Data: Shorts Hit, But Couldn't Push](/en/post/pearl-abyss-short-sale-absorption-2026-04-21/)
+- [Pearl Abyss Daily: KRW 55,000 Support and 5M Copy Watch](/en/post/pearl-abyss-daily-report-2026-04-09/)
+
+### Long-Term Platform Options
+
+- [Pearl Abyss Re-Rating: Crimson Desert Is More Than a Unit-Sales Story](/en/post/pearl-abyss-crimson-desert-platform-rerating-2026-04-25/)
+- [The BDO Resurgence Nobody Noticed: +40% YoY in Crimson Desert's Shadow](/en/post/pearl-abyss-black-desert-online-resurgence-2026-04-19/)
+
+---
+
+## FAQ
+
+### What is the core Pearl Abyss thesis?
+
+The core thesis is whether Crimson Desert can turn Pearl Abyss into a re-rated Korean AAA game platform company, not merely a one-quarter launch beneficiary.
+
+### Are unit sales enough?
+
+No. Unit sales are the first proof point. Review quality, patch cadence, CCU floors, DLC and multiplayer roadmap visibility, accounting treatment, and shareholder-return choices all matter.
+
+### Why did Patch 1.04 matter?
+
+Patch 1.04 was not just a bug-fix patch. It addressed difficulty, housing, pets, quality-of-life friction, and the endgame loop, showing that Pearl Abyss can convert launch feedback into product improvements quickly.
+
+### What are the key checkpoints now?
+
+The key checkpoints are 1Q26 earnings, formal confirmation of 6M+ copies, May patch-roadmap delivery, and whether stronger cash generation changes Pearl Abyss's capital-allocation posture.
+
+---
+
+*Disclaimer: For research and information purposes only. Not investment advice. Names cited are for analytical illustration; readers should perform their own due diligence and consult licensed advisors before any investment decision.*

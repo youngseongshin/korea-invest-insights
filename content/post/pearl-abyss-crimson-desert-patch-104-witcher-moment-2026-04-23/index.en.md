@@ -9,6 +9,8 @@ tags: ["pearl-abyss", "crimson-desert", "gaming", "patch-analysis", "valuation",
 series: ["pearl-abyss-crimson-desert-thesis"]
 ---
 
+> **Pearl Abyss research hub**: This note is part of the [Pearl Abyss and Crimson Desert investment research hub](/en/page/pearl-abyss-crimson-desert-hub/). The follow-through sequence is [platform re-rating](/en/post/pearl-abyss-crimson-desert-platform-rerating-2026-04-25/) · [post-patch weekend data](/en/post/pearl-abyss-crimson-desert-post-patch-weekend-data-2026-04-27/) · [Shinhan target-price gap](/en/post/pearl-abyss-shinhan-target-price-gap-analysis-2026-04-29/).
+
 > **Series — Pearl Abyss Crimson Desert Thesis (Part 7)**
 > Prior posts track the launch (3/19), the four-week retention curve, the BDO back-catalog re-rating, the short-sale response, and the April Developer Update. This post covers **patch 1.04.00 — the content update that forces the thesis upgrade.**
 

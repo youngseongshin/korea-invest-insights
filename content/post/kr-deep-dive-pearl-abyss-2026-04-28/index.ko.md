@@ -9,6 +9,8 @@ series: ["Korean Gaming Studios"]
 draft: false
 ---
 
+> **펄어비스 리서치 허브**: 처음 읽는다면 [펄어비스·붉은사막 투자 리서치 허브](/ko/page/pearl-abyss-crimson-desert-hub/)에서 전체 흐름을 먼저 볼 수 있다. 핵심 후속 글은 [1.04 패치](/ko/post/pearl-abyss-crimson-desert-patch-104-witcher-moment-2026-04-23/), [플랫폼 리레이팅](/ko/post/pearl-abyss-crimson-desert-platform-rerating-2026-04-25/), [신한증권 목표가 갭](/ko/post/pearl-abyss-shinhan-target-price-gap-analysis-2026-04-29/)이다.
+
 # 펄어비스(263750.KS): 붉은사막은 기대치를 정당화할 프랜차이즈가 될 수 있을까?
 
 *펄어비스(263750.KS, KOSPI)는 글로벌 인지도를 갖춘 검은사막 프랜차이즈를 보유한 한국 게임 개발사로, 2026년 3월 말을 기준으로 최근 기억에 남는 멀티플랫폼 액션 RPG 출시작 중 가장 화제를 모은 타이틀 — 붉은사막 — 의 제작사이기도 하다. 이 심층 분석은 출시 초반의 모멘텀이 지속 가능한 수익 창출력으로 이어질 수 있는지, 약세 시나리오는 어떻게 전개될 수 있는지, 그리고 해외 투자자가 어떻게 이 주식에 접근할 수 있는지를 살펴본다.*

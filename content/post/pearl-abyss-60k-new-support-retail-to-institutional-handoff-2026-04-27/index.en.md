@@ -9,6 +9,8 @@ tags: ["pearl-abyss", "263750", "crimson-desert", "short-selling", "tape-reading
 series: ["pearl-abyss-crimson-desert-thesis"]
 ---
 
+> **Pearl Abyss research hub**: This note is part of the [Pearl Abyss and Crimson Desert investment research hub](/en/page/pearl-abyss-crimson-desert-hub/). Product data sits in [Patch 1.04](/en/post/pearl-abyss-crimson-desert-patch-104-witcher-moment-2026-04-23/) and [post-patch weekend data](/en/post/pearl-abyss-crimson-desert-post-patch-weekend-data-2026-04-27/); valuation follow-through sits in the [Shinhan target-price gap](/en/post/pearl-abyss-shinhan-target-price-gap-analysis-2026-04-29/).
+
 > **Series — Pearl Abyss Crimson Desert Thesis (Part 10)**
 > Part 9 covered the post-1.04.00 weekend game-data read (CCU -13% but new-negative reviews -49.7%). This post covers the **tape side**: April 27 was the day ₩60,000 stopped being a resistance and started being a support — and the way that conversion happened says something specific about who is now holding the stock.
 

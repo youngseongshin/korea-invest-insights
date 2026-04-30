@@ -20,7 +20,7 @@ slug: pearl-abyss-shinhan-target-price-gap-analysis-2026-04-29
 series: ["pearl-abyss-crimson-desert-thesis"]
 ---
 
-> 📚 시리즈 14/14: [펄어비스 × 크림슨 데저트 투자 논거 — 시리즈 허브 →](https://koreainvestinsights.com/series/pearl-abyss-crimson-desert-thesis/)
+> 📚 [펄어비스·붉은사막 투자 리서치 허브](/ko/page/pearl-abyss-crimson-desert-hub/)에서 판매량, 1.04 패치, 플랫폼 리레이팅, 6만원 지지선, 신한증권 목표가 갭, CCP/EVE 매각까지 전체 논거를 순서대로 볼 수 있다.
 
 *이 글은 5월 1분기 실적 발표 전까지의 시리즈를 일단 닫는 마지막 편이다. 가장 최근 편들: [개인 → 기관 손바뀜으로 6만 원이 지지선이 된 날](https://koreainvestinsights.com/ko/post/pearl-abyss-60k-new-support-retail-to-institutional-handoff-2026-04-27/), [패치 후 첫 주말 데이터](https://koreainvestinsights.com/ko/post/pearl-abyss-crimson-desert-post-patch-weekend-data-2026-04-27/), [플랫폼 재평가](https://koreainvestinsights.com/ko/post/pearl-abyss-crimson-desert-platform-rerating-2026-04-25/), [1.04 패치 — 위쳐 3 모먼트](https://koreainvestinsights.com/ko/post/pearl-abyss-crimson-desert-patch-104-witcher-moment-2026-04-23/), [1분기 실적 프리뷰](https://koreainvestinsights.com/ko/post/pearl-abyss-1q26-earnings-preview-2026-04-21/), [공매도 흡수](https://koreainvestinsights.com/ko/post/pearl-abyss-short-sale-absorption-2026-04-21/), [컨센서스 괴리](https://koreainvestinsights.com/ko/post/pearl-abyss-crimson-desert-consensus-gap-thesis-2026-04-18/), [500만 장 프랜차이즈 재평가](https://koreainvestinsights.com/ko/post/pearl-abyss-crimson-desert-5m-franchise-thesis-2026-04-15/). 이번 편은 4월 29일 신한투자증권 리포트(목표가 75.6% 상향)가 우리 1분기 모델과 어디에서 만나고 어디에서 갈라지는지를 정면으로 분해한다. 영업이익 격차 497억 원의 정체, 목표가 72,000원의 의미, 그리고 5월 실적 발표까지의 매매 원칙.*
 

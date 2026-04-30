@@ -9,6 +9,8 @@ tags: ["pearl-abyss", "crimson-desert", "gaming", "platform-rerating", "blackspa
 series: ["pearl-abyss-crimson-desert-thesis"]
 ---
 
+> **Pearl Abyss research hub**: This note is part of the [Pearl Abyss and Crimson Desert investment research hub](/en/page/pearl-abyss-crimson-desert-hub/). Related reads: [Patch 1.04 re-rating](/en/post/pearl-abyss-crimson-desert-patch-104-witcher-moment-2026-04-23/) · [KRW 60,000 support](/en/post/pearl-abyss-60k-new-support-retail-to-institutional-handoff-2026-04-27/) · [Shinhan target-price gap](/en/post/pearl-abyss-shinhan-target-price-gap-analysis-2026-04-29/).
+
 > **Series — Pearl Abyss Crimson Desert Thesis (Part 8)**
 > Prior posts traced the launch sales arc, the BDO back-catalog re-rating, the short-sale absorption, the developer update, and the 1.04.00 patch as a Witcher-3 moment. This post zooms out: **the thesis is no longer about Crimson Desert as a single product. It is about Pearl Abyss as a platform.**
 

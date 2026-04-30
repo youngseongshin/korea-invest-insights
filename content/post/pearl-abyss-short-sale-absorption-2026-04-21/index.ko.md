@@ -21,7 +21,7 @@ series: ["pearl-abyss-crimson-desert-thesis"]
 draft: false
 ---
 
-> 📚 **시리즈 6/6**: [펄어비스 × 붉은사막 투자 thesis — 시리즈 허브 →](/series/pearl-abyss-crimson-desert-thesis/)
+> 📚 **펄어비스 리서치 허브**: 이 글은 [펄어비스·붉은사막 투자 리서치 허브](/ko/page/pearl-abyss-crimson-desert-hub/)의 수급 분석 축이다. 이후 수급 업데이트는 [6만원 지지선](/ko/post/pearl-abyss-60k-new-support-retail-to-institutional-handoff-2026-04-27/)에서 이어진다.
 
 *시리즈 여섯 번째 글. 이전 편: [500만 마일스톤과 리레이팅](/post/pearl-abyss-crimson-desert-5m-franchise-thesis-2026-04-15/), [셀사이드 컨센서스 갭](/post/pearl-abyss-crimson-desert-consensus-gap-thesis-2026-04-18/), [최초 투자 thesis](/post/pearl-abyss-investment-thesis-crimson-desert-q1-2026/), [BDO 2차 촉매](/post/pearl-abyss-black-desert-online-resurgence-2026-04-19/), [1Q26 실적 프리뷰](/post/pearl-abyss-1q26-earnings-preview-2026-04-21/). 이번 편은 장중 미시구조 분석이다: 4월 21일 테이프는 실제로 누가 주도권을 쥐고 있다고 말하는가?*
 

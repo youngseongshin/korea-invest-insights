@@ -21,6 +21,8 @@ series: ["pearl-abyss-crimson-desert-thesis"]
 draft: false
 ---
 
+> **펄어비스 리서치 허브**: 이 글은 [펄어비스·붉은사막 투자 리서치 허브](/ko/page/pearl-abyss-crimson-desert-hub/)의 컨센서스 갭 분석이다. 이후 논거는 [1Q26 실적 프리뷰](/ko/post/pearl-abyss-1q26-earnings-preview-2026-04-21/), [1.04 패치](/ko/post/pearl-abyss-crimson-desert-patch-104-witcher-moment-2026-04-23/), [플랫폼 리레이팅](/ko/post/pearl-abyss-crimson-desert-platform-rerating-2026-04-25/)으로 이어진다.
+
 ---
 
 *이 포스트는 [Pearl Abyss Crimson Desert Thesis](/series/pearl-abyss-crimson-desert-thesis/) 시리즈의 일부입니다. 프랜차이즈 IP 재평가 thesis에 대해서는 이전 포스트 [Pearl Abyss: Crimson Desert, 중국을 정복하다 — Steam 평점 86% & 400만 장 판매](/posts/kr-deep-dive-pearl-abyss-crimson-desert-china-2026-04-04/)를 참고하세요. 해당 포스트에서는 중국 시장 돌파와 상업적 성공 확인을 다뤘습니다. 이번 포스트는 다른 질문에 집중합니다: 왜 셀사이드 컨센서스는 여전히 뒤처져 있으며, 그 갭은 분석적으로 어떤 의미를 갖는가?*
