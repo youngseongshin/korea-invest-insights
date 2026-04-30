@@ -3,7 +3,7 @@ title: "SK Telecom Re-Rating: From Dividend Stock to AI Infrastructure"
 slug: sk-telecom-rerating-ai-infrastructure-operator-2026-04-25
 aliases: ["/en/post/sk-telecom-rerating-ai-infrastructure-operator-2026-04-25/"]
 date: 2026-04-25T22:30:00+09:00
-description: "The SK Telecom re-rating is not a 'dividend normalization' story. It's a recombination of telco core cash flow + Anthropic equity + AIDC/GPUaaS + Edge AI/AI-RAN/Network API options. At ₩100,000 the first leg is largely priced in. Hold / buy on pullback below ₩90,000 or after 1Q/2Q dividend, earnings, and AIDC growth confirmation."
+description: "The SK Telecom re-rating is not a 'dividend normalization' story. It's a recombination of telco core cash flow + Anthropic equity + AIDC/GPUaaS + Edge AI/AI-RAN/Network API options. At ₩100,000 the first leg is largely priced in. The next factors are price support below ₩90,000, 1Q/2Q dividend recovery, earnings, and AIDC growth confirmation."
 categories: ["Korea Market", "Telecom"]
 tags: ["sk-telecom", "017670", "ai-infrastructure", "aidc", "gpuaas", "anthropic", "ai-ran", "edge-ai", "rerating", "valuation"]
 ---
@@ -12,7 +12,7 @@ tags: ["sk-telecom", "017670", "ai-infrastructure", "aidc", "gpuaas", "anthropic
 
 - The substance of the SK Telecom re-rating is **not "dividend normalization."** It is the recombination of `telco core cash flow + Anthropic stake + AIDC/GPUaaS + Edge AI / AI-RAN / Network API options`.
 - At spot **₩100,000**, dividend normalization and the AI narrative are **largely priced in.** Further upside requires AIDC revenue growth, an Anthropic mark-up, and monetization evidence from AI-RAN / Edge AI.
-- Call: **Hold / Buy on pullback** rather than buy now. **New entries below ₩90,000**, or after 1Q / 2Q confirmation of dividend, earnings, and AIDC growth.
+- Factor read: **price support, dividend normalization, and AIDC growth confirmation** matter more than a simple buy/hold label. Below ₩90,000 the dividend-yield floor improves; after 1Q / 2Q confirmation, the AI infrastructure option becomes easier to underwrite.
 
 ---
 
@@ -117,7 +117,7 @@ Dividend yield = DPS / price
 | ₩100,000 | 3.20% | 3.54% | 3.60% |
 | ₩110,000 | 2.91% | 3.22% | 3.27% |
 
-**Read:** Below ₩90,000, the dividend-stock case re-engages. At ₩100,000, even a full DPS recovery to ₩3,540–3,600 yields only 3.5–3.6%. **Dividend recovery alone does not justify chasing here.**
+**Read:** Below ₩90,000, the dividend-stock case re-engages. At ₩100,000, even a full DPS recovery to ₩3,540–3,600 yields only 3.5–3.6%. **Dividend recovery alone is not enough; AIDC and AI-infrastructure confirmation are still needed.**
 
 ### 5-2. Anthropic stake — unlisted AI call option
 
@@ -285,19 +285,19 @@ Cap = price × shares
 
 ---
 
-## 9. Trade Plan
+## 9. Factor Checklist
 
-**Verdict matrix**
+**Read matrix**
 
-| Cohort | Call |
+| Cohort | Factor read |
 |---|---|
-| Existing holders | Hold |
-| New entrants | Wait |
-| Aggressive add | Below ₩90,000, or after earnings / dividend confirmation |
-| Above ₩118,000 | Consider partial profit-take |
+| Existing exposure | Dividend normalization and AIDC growth are the key factors |
+| New interest | Price and earnings confirmation still matter |
+| Higher-conviction setup | Below ₩90,000, or after earnings / dividend confirmation |
+| Above ₩118,000 | Valuation burden needs to be rechecked |
 | Above ₩130,000 | Need ≥2 of {Anthropic, AIDC, AI-RAN} confirmed in numbers |
 
-**Entry conditions**
+**Confirmation conditions**
 
 1. **Price:** ≤ ₩90,000. With DPS ₩3,540, yield ≈ 3.93% — floor improves.
 2. **Dividend:** Quarterly DPS recovers to **₩830–900** range — signal of return to normal 2024-level payout.
@@ -333,7 +333,7 @@ The SK Telecom re-rating thesis is **valid.** But **at ₩100,000 the first leg 
 
 From an investor's perspective, SK Telecom is no longer a simple telco — it is a **telecom operator attempting an AI-infrastructure transition.** But it is not yet structurally an AI-revenue explosion story like NVIDIA or the hyperscalers. **What is currently underwriteable in numbers: AIDC and dividend normalization.** AI-RAN and Edge AI remain long-dated options.
 
-Verdict, in short: **existing positions can be held; chasing here has poor expected return per unit risk.** New entries fit at **≤ ₩90,000** or after additional dividend / AIDC / Anthropic data. To see ₩118,000+, **the market must reclassify SK Telecom from "telco dividend stock" to "AI infrastructure operator."** Only some of that evidence has arrived.
+In short, the setup is constructive but no longer early. The cleaner confirmation points are **≤ ₩90,000** on price, or additional dividend / AIDC / Anthropic data. To see ₩118,000+, **the market must reclassify SK Telecom from "telco dividend stock" to "AI infrastructure operator."** Only some of that evidence has arrived.
 
 ---
 

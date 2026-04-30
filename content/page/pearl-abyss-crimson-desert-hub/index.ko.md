@@ -1,10 +1,10 @@
 ---
-title: "펄어비스·붉은사막 투자 허브: 목표가·공매도·패치 업데이트"
+title: "펄어비스·붉은사막 투자 허브: 목표주가·공매도·패치 업데이트"
 slug: "pearl-abyss-crimson-desert-hub"
 date: 2026-04-30T22:30:00+09:00
 aliases: ["/ko/pearl-abyss/", "/ko/crimson-desert/", "/ko/page/pearl-abyss/"]
 layout: "page"
-description: "펄어비스와 붉은사막 투자 논거를 한곳에 모은 리서치 허브. 목표가, 공매도 잔고, 1.04·1.05 패치, 6만원 지지선, CCP/EVE 매각, 플랫폼 리레이팅을 순서대로 정리한다."
+description: "펄어비스와 붉은사막 투자 논거를 한곳에 모은 리서치 허브. 목표주가, 공매도 잔고, 1.04·1.05 패치, 6만원 지지선, CCP/EVE 매각, 플랫폼 리레이팅을 순서대로 정리한다."
 ---
 
 ## 한 줄 결론
@@ -19,7 +19,7 @@ description: "펄어비스와 붉은사막 투자 논거를 한곳에 모은 리
 
 | 검색 질문 | 현재 답변 | 자세히 보기 |
 |---|---|---|
-| 펄어비스 목표가는 어디까지 봐야 하나 | 신한증권 7.2만 원은 정상화 구간 상단이고, 자체 1차 적정가는 7.5만 원, 8.5M 판매 검증 시 약 8만 원 안팎까지 열린다. | [펄어비스 목표가 갭](/ko/post/pearl-abyss-shinhan-target-price-gap-analysis-2026-04-29/) |
+| 펄어비스 목표주가는 어디까지 봐야 하나 | 신한증권 7.2만 원은 정상화 구간 상단이고, 자체 fair value 추정 범위의 중심값은 7.5만 원이다. 8.5M 판매 검증 시 약 8만 원 안팎까지 열릴 수 있다. | [펄어비스 목표주가 갭](/ko/post/pearl-abyss-shinhan-target-price-gap-analysis-2026-04-29/) |
 | 펄어비스 공매도 잔고가 주가를 누르고 있나 | 4월 중순 이후 공매도 거래 강도는 약해졌고, 4월 21일에는 외국인·기관 순매수가 공매도 물량을 흡수했다. 핵심은 공매도 존재가 아니라 가격 지배력 약화다. | [펄어비스 공매도 잔고와 수급](/ko/post/pearl-abyss-short-sale-absorption-2026-04-21/) |
 | 크림슨 데저트 1.05 패치는 왜 중요한가 | 1.04에서 난이도·주거·펫·QoL이 해결됐고, 1.05는 보스 재도전과 엔드게임 루프가 실제로 이어지는지 확인하는 다음 체크포인트다. | [1.04 패치 분석](/ko/post/pearl-abyss-crimson-desert-patch-104-witcher-moment-2026-04-23/) |
 | CCP/EVE 매각은 호재인가 | 단순 매각은 시총 대비 4.7% 현금 이벤트지만, 투자 논거의 본질은 매각대금이 자사주 매입·소각으로 이어지는지 여부다. | [CCP/EVE 매각 분석](/ko/post/pearl-abyss-ccp-eve-divestment-capital-return-2026-04-30/) |
@@ -34,7 +34,7 @@ description: "펄어비스와 붉은사막 투자 논거를 한곳에 모은 리
 | 2 | 패치 1.04가 리레이팅 촉매인가 | [펄어비스: 크림슨 데저트 1.04 패치가 리레이팅 촉매인가](/ko/post/pearl-abyss-crimson-desert-patch-104-witcher-moment-2026-04-23/) |
 | 3 | 논거가 판매량을 넘어 플랫폼 재평가로 이동했는가 | [펄어비스 리레이팅: 크림슨 데저트는 단순 판매량 게임이 아니다](/ko/post/pearl-abyss-crimson-desert-platform-rerating-2026-04-25/) |
 | 4 | 주가 6만원은 저항선인가 지지선인가 | [펄어비스 6만원 지지선: 개인에서 기관으로 넘어가는 수급](/ko/post/pearl-abyss-60k-new-support-retail-to-institutional-handoff-2026-04-27/) |
-| 5 | 증권사 목표가는 무엇을 반영했고 무엇을 놓쳤나 | [펄어비스 목표가 갭: 신한증권의 2027년 판매절벽 가정은 과도한가](/ko/post/pearl-abyss-shinhan-target-price-gap-analysis-2026-04-29/) |
+| 5 | 증권사 목표주가는 무엇을 반영했고 무엇을 놓쳤나 | [펄어비스 목표주가 갭: 신한증권의 2027년 판매절벽 가정은 과도한가](/ko/post/pearl-abyss-shinhan-target-price-gap-analysis-2026-04-29/) |
 
 ---
 

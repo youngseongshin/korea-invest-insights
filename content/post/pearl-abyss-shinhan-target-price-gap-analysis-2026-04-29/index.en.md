@@ -214,15 +214,15 @@ If any one of these three checkpoints is met, Shinhan's FY27 assumption of ₩11
 
 The ₩72,000 target sits precisely at **the upper end of our normalization range**. Shinhan has priced in "a 1Q earnings reset and nothing more." The 8.5M crossing, the 6M announcement, and BlackSpace Engine option value are not in this price.
 
-### 4.2 Price-Action Framework
+### 4.2 Price-Level Factor Framework
 
-| Price Range | Action |
+| Price Range | Factor read |
 | --- | --- |
-| ₩60,000–₩63,000 | Hold. New additions conditional on data (e.g., confirmation of sub-₩20B marketing spend). |
-| ₩68,000–₩72,000 | Bias toward holding. No chasing. Shinhan target being reached is not a sell signal, but new buys are prohibited. |
-| ₩74,000–₩76,000 | Begin first tranche of scale-down: 10–20%. |
-| ₩79,000–₩80,500 | Second tranche of scale-down: 15–20%. |
-| ₩86,000+ | Actively take profits. |
+| ₩60,000–₩63,000 | Data confirmation zone, especially sub-₩20B marketing spend and 6M unit trajectory. |
+| ₩68,000–₩72,000 | Shinhan target zone; reaching it is not thesis invalidation, but further upside needs new evidence. |
+| ₩74,000–₩76,000 | Internal fair value center; margin and accounting quality become more important. |
+| ₩79,000–₩80,500 | 8.5M unit trajectory needs stronger support. |
+| ₩86,000+ | Platform-option valuation requires clear BlackSpace / DokeV / long-tail evidence. |
 
 The no-new-buys rule stands. Until the May earnings release, there is no way to determine whether Shinhan's estimate (₩254.7B) or ours (₩205.0B) is correct. Adding to the position in the interim is a bet without data.
 

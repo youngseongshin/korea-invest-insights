@@ -3,7 +3,7 @@ title: "Pearl Abyss KRW 60,000 Support: Retail-to-Institutional Handoff"
 slug: pearl-abyss-60k-new-support-retail-to-institutional-handoff-2026-04-27
 aliases: ["/en/post/pearl-abyss-60k-new-support-retail-to-institutional-handoff-2026-04-27/"]
 date: 2026-04-27T18:30:00+09:00
-description: "Pearl Abyss closed April 27 at ₩60,200 (+5.61%) — not via foreign-led mass buying, but by absorbing 75,930 shares of official short-selling, foreign-house net selling, and Kiwoom-led retail outflow with Shinhan/Korea Investment-led institutional buying. Short VWAP at ₩60,390 vs close ₩60,200 sets up immediate squeeze pressure if tomorrow holds above ₩60,400. ₩60,000 is now a first-line support, not a resistance."
+description: "Pearl Abyss closed April 27 at ₩60,200 (+5.61%), not via foreign-led mass buying, but by absorbing 75,930 shares of official short-selling, foreign-house net selling, and Kiwoom-led retail outflow with Shinhan/Korea Investment-led institutional buying. Short VWAP at ₩60,390 vs close ₩60,200 makes ₩60,400 an important next-session factor. ₩60,000 is now a first-line support candidate, not a resistance."
 categories: ["Pearl Abyss", "Korea Market"]
 tags: ["pearl-abyss", "263750", "crimson-desert", "short-selling", "tape-reading", "institutional-flow", "retail-handoff", "support-level", "series"]
 series: ["pearl-abyss-crimson-desert-thesis"]
@@ -22,7 +22,7 @@ series: ["pearl-abyss-crimson-desert-thesis"]
 - Official short volume: **75,930 shares / ₩4.585B / VWAP ~₩60,390.** Short share of total volume and value: **~7.2%**.
 - Close ₩60,200 sits just below short-VWAP ₩60,390. **If tomorrow holds above ₩60,400, today's shorts immediately go offside.**
 - Flow structure was **not foreign-led mass buying.** It was **Kiwoom (retail) + foreign-house net selling + 75,930 shares of official shorts** absorbed by **Shinhan / Korea Investment-led institutional buying.** This is a textbook **retail → institutional handoff.**
-- Long-position posture: **Hold. No adds. No trims.** Today was first-line-support confirmation, not a second-stage breakout.
+- Positioning read: **first-line support confirmation, not a second-stage breakout.** The next factors are ₩60,400, ₩61,700, ₩62,600, and whether institutional absorption persists.
 
 ---
 
@@ -215,11 +215,11 @@ It **was**:
 
 ---
 
-## 8. Long-Position Posture
+## 8. Positioning Factors
 
-**Base call: Hold. No adds. No trims.**
+**Base read: first-line support confirmed, breakout not yet confirmed.**
 
-Today's outcome favors the long. But **today is not an "add more" day**. Reasons:
+Today's outcome favors the long side of the thesis. But it is better read as support confirmation than as a second-stage breakout. Reasons:
 
 - ₩60,000 support confirmed; strong breakout did **not** confirm.
 - ₩61,700 / ₩62,600 levels were **not** taken out.
@@ -228,7 +228,7 @@ Today's outcome favors the long. But **today is not an "add more" day**. Reasons
 
 ---
 
-## 9. Tomorrow — Scenario Playbook
+## 9. Tomorrow: Scenario Playbook
 
 ### Scenario A — best case
 
@@ -239,8 +239,8 @@ Conditions:
 - Turnover ≥ ₩60–80B
 - Crimson Desert sales rank / reviews held
 
-Response:
-> **Hold. On a clean break above ₩62,600, conviction in high-weight posture upgrades.**
+Interpretation:
+> A clean break above ₩62,600 would upgrade the conviction factor for a higher-weight posture.
 
 In this scenario, today's short-VWAP ₩60,390 becomes the active pressure point. Above ₩61,700, short-cover probability rises sharply.
 
@@ -252,10 +252,10 @@ Conditions:
 - Even if ₩60,000 breaks, recovers fast
 - Sales rank / reviews held
 
-Response:
-> **Just hold. Allow the chop. No adds.**
+Interpretation:
+> This is normal post-rally digestion. The key is whether ₩60,000 is recovered quickly after any intraday break.
 
-This is normal post-rally digestion. No reason to trim weight.
+This is normal post-rally digestion rather than thesis damage.
 
 ### Scenario C — caution
 
@@ -266,18 +266,18 @@ Conditions:
 - Foreign + institutional both net-sell
 - Steam Top-10 exit or review-quality deterioration
 
-Response:
-> **Thesis weakens. If ₩55,000 breaks **or** Crimson Desert metrics impair, normalize position weight.**
+Interpretation:
+> The thesis weakens if ₩55,000 breaks **or** Crimson Desert metrics deteriorate at the same time.
 
-A brief dip into the ₩59,000s alone is not a reason to trim. But **short volume rising + ₩60,000 failing + game metrics breaking simultaneously** is.
+A brief dip into the ₩59,000s alone is not decisive. The important combination is **short volume rising + ₩60,000 failing + game metrics breaking simultaneously**.
 
 ---
 
-## 10. Price-Level Long Playbook
+## 10. Price-Level Factor Map
 
-| Level | Response |
+| Level | Factor read |
 |---:|---|
-| **Break ₩62,600** | Short-cover / chase probability upgrade. Hold. |
+| **Break ₩62,600** | Short-cover probability rises; breakout factor improves. |
 | **Break ₩61,700** | Regular-session high taken out. Positive. |
 | **Hold above ₩60,400** | Above today's short VWAP. Short pain rises. |
 | **Around ₩60,000** | Core support test. Allow chop. |
@@ -323,18 +323,7 @@ Crimson Desert sales / review thesis intact
 = High-weight posture remains valid
 ```
 
-**Final response:**
-
-> **Hold. No adds. No trims.**
-
-**Why no adds:**
-- Today is first-line-support confirmation, not a second-stage breakout
-- No reason to chase before ₩61,700 / ₩62,600 confirmation
-
-**Why no trims:**
-- Close above ₩60,000 succeeded
-- Shorts and retail supply absorbed
-- Crimson Desert core data has not yet broken the thesis
+**Final factor read:** today is first-line-support confirmation, not a second-stage breakout. The constructive elements are the close above ₩60,000, absorption of shorts and retail supply, and the fact that Crimson Desert core data has not yet broken the thesis. The missing confirmation is a clean move through ₩61,700 / ₩62,600 with sustained institutional support.
 
 **The single sentence**: ₩60,000 is no longer where Pearl Abyss bumps its head. It is now where Pearl Abyss puts its feet.
 
