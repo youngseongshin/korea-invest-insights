@@ -1,5 +1,5 @@
 ---
-title: "OpenEdges Technology: Samsung LPDDR6 Memory IP Opportunity"
+title: "OpenEdges Technology: Samsung 4/5/8nm LPDDR6 and LPDDR5X Memory IP Upside"
 slug: semiscope-openedges-samsung-lpddr6-ip-option-2026-04-30
 aliases: ["/en/post/semiscope-openedges-samsung-lpddr6-ip-option-2026-04-30/"]
 date: 2026-04-30T12:00:00+09:00

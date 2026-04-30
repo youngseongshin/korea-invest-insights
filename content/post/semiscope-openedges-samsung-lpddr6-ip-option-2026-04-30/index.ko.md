@@ -1,5 +1,5 @@
 ---
-title: "오픈엣지테크놀로지: 삼성 LPDDR6 메모리 IP 성장 기회"
+title: "오픈엣지테크놀로지 분석: 삼성 4/5/8nm LPDDR6·LPDDR5X 메모리 IP 수혜 가능성"
 slug: semiscope-openedges-samsung-lpddr6-ip-option-2026-04-30
 aliases: ["/en/post/semiscope-openedges-samsung-lpddr6-ip-option-2026-04-30/"]
 date: 2026-04-30T12:00:00+09:00

@@ -278,18 +278,3 @@ Ce rapport est produit **à des fins éducatives et informatives uniquement**. I
 Les performances passées des filtres et les rendements historiques des facteurs ne garantissent pas les résultats futurs. Les marchés actions coréens sont soumis à des risques réglementaires, de change, géopolitiques et macroéconomiques qui peuvent ne pas être entièrement capturés par un quelconque cadre quantitatif.
 
 *Publié le : 18 avril 2026 | Période couverte : 9–16 avril 2026 | Univers : 459 valeurs coréennes cotées | Filtres : 10*
-
----
-
-**Nombre de mots : ~2 450** | Catégorie : `market-analysis` | Série : `weekly-screener-intersection`
-
----
-
-Notes de mise en forme pour le déploiement Hugo :
-- Slug : `kr-weekly-screener-top5-2026-04-16`
-- Date : `2026-04-18T09:00:00+09:00`
-- Tout le langage d'achat/vente remplacé par des scores de Force du Signal (Maximum / Élevée / Timing Mixte)
-- Tous les objectifs de cours reformulés comme « niveaux de référence de scénario » ou figures « illustratives »
-- Tous les chiffres sources préservés à l'identique (PER, glissement annuel, variations pp de participation, montants de flux en ₩)
-- La FAQ Q5 répond « Non — analyse éducative uniquement »
-- L'avertissement signale explicitement le risque de liquidité des petites capitalisations pour les titres 017510 et 046940

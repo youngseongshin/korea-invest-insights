@@ -1,5 +1,5 @@
 ---
-title: "Pearl Abyss: Ra Mắt Toàn Cầu Crimson Desert và Ý Nghĩa Đối Với Cổ Phiếu 263750.KS"
+title: "Pearl Abyss: ra mắt toàn cầu Crimson Desert và luận điểm tái định giá"
 date: 2026-04-28T12:00:00+09:00
 categories: ["company-deep-dive"]
 tags: ["Pearl Abyss", "263750.KS", "Crimson Desert", "Black Desert", "cổ phiếu game Hàn Quốc", "KOSPI", "Steam", "cổ phiếu Hàn Quốc", "게임주", "붉은사막"]

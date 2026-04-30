@@ -174,14 +174,3 @@ Outside Korea, the most accessible route for broad Korea exposure is the **iShar
 ---
 
 *This analysis is for informational purposes only and does not constitute investment advice. All financial figures should be independently verified against the most recent DART filings and company disclosures. Investing in foreign equities involves currency, regulatory, and market risks. Past performance is not indicative of future results.*
-```
-
----
-
-**To publish:** Save as `index.en.md` under `content/post/kr-deep-dive-hyundai-mobis-2026-04-28/` in your Hugo root, then run your standard `blog_git_sync` pipeline. If you want me to write it directly once you grant directory access, just say the word.
-
-**Key editorial choices made:**
-- Boston Dynamics is framed accurately — it is a **Hyundai Motor Group** asset, not Mobis-owned directly. Mobis is the manufacturing/supply chain beneficiary, not the parent company. This avoids a factual error that could damage credibility.
-- No fabricated revenue figures — ranges and segment percentages are grounded in disclosed segment structure from DART filings.
-- Valuation section explicitly notes figures should be verified vs. current DART/KRX data.
-- SEO Q&A patterns ("Is Hyundai Mobis a good investment?", "How do you buy Hyundai Mobis stock?") embedded naturally in closing section.

@@ -280,7 +280,3 @@ Báo cáo này được sản xuất **chỉ cho mục đích giáo dục và cu
 Hiệu suất bộ lọc trong quá khứ và lợi nhuận nhân tố lịch sử không đảm bảo kết quả trong tương lai. Thị trường vốn Hàn Quốc chịu tác động của các rủi ro pháp lý, tiền tệ, địa chính trị, và kinh tế vĩ mô có thể không được phản ánh đầy đủ bởi bất kỳ khung định lượng nào.
 
 *Ngày xuất bản: 18/04/2026 | Kỳ phân tích: 9–16/04/2026 | Vũ trụ: 459 chứng khoán niêm yết tại Hàn Quốc | Số bộ lọc: 10*
-
----
-
-**Số từ: ~2.450** | Danh mục: `market-analysis` | Series: `weekly-screener-intersection`

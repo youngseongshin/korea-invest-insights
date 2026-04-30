@@ -42,7 +42,7 @@ description: "펄어비스와 붉은사막 투자 논거를 한곳에 모은 리
 
 | 날짜 | 주제 | 글 |
 |---|---|---|
-| 2026-04-30 | 비핵심 자산 매각과 자사주 소각 옵션 | [펄어비스 CCP/EVE 매각: 진짜 트리거는 자사주 소각이다](/ko/post/pearl-abyss-ccp-eve-divestment-capital-return-2026-04-30/) |
+| 2026-04-30 | 비핵심 자산 매각과 자사주 소각 옵션 | [펄어비스 CCP/EVE 매각 분석: 1,771억 원 현금 유입과 자사주 소각 가능성](/ko/post/pearl-abyss-ccp-eve-divestment-capital-return-2026-04-30/) |
 | 2026-04-29 | 신한투자증권 목표가 상향과 2027년 매출 가정 | [펄어비스 목표가 갭](/ko/post/pearl-abyss-shinhan-target-price-gap-analysis-2026-04-29/) |
 | 2026-04-27 | 6만원 지지선과 개인·기관 손바뀜 | [펄어비스 6만원 지지선](/ko/post/pearl-abyss-60k-new-support-retail-to-institutional-handoff-2026-04-27/) |
 | 2026-04-27 | 패치 이후 주말 데이터와 롱테일 체력 | [크림슨 데저트 패치 후 데이터](/ko/post/pearl-abyss-crimson-desert-post-patch-weekend-data-2026-04-27/) |
@@ -74,7 +74,7 @@ description: "펄어비스와 붉은사막 투자 논거를 한곳에 모은 리
 
 - [펄어비스 리레이팅: 크림슨 데저트는 단순 판매량 게임이 아니다](/ko/post/pearl-abyss-crimson-desert-platform-rerating-2026-04-25/)
 - [아무도 몰랐던 BDO의 부활: 크림슨 데저트 그늘에서 전년比 +40%](/ko/post/pearl-abyss-black-desert-online-resurgence-2026-04-19/)
-- [펄어비스 CCP/EVE 매각: 진짜 트리거는 자사주 소각이다](/ko/post/pearl-abyss-ccp-eve-divestment-capital-return-2026-04-30/)
+- [펄어비스 CCP/EVE 매각 분석: 1,771억 원 현금 유입과 자사주 소각 가능성](/ko/post/pearl-abyss-ccp-eve-divestment-capital-return-2026-04-30/)
 
 ---
 

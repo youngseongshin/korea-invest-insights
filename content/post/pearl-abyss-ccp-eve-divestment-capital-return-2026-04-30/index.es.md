@@ -1,5 +1,5 @@
 ---
-title: "Pearl Abyss / CCP / Desinversión en EVE: El Verdadero Catalizador Es la Cancelación de Acciones Propias"
+title: "Pearl Abyss CCP/EVE: desinversión de ₩177,1 mil millones y posible cancelación de acciones propias"
 date: 2026-04-30T19:15:00+09:00
 slug: "pearl-abyss-ccp-eve-divestment-capital-return-2026-04-30"
 description: "Pearl Abyss desinvierte su participación íntegra en CCP Games por ₩177,1 mil millones, equivalente al 4,7% de la capitalización bursátil o ₩2.757 por acción en valor efectivo. La venta por sí sola apenas mueve el valor intrínseco, pero si los fondos se canalizan hacia recompras y cancelaciones de acciones, nuestro precio objetivo de ₩75.000 se reajusta mecánicamente a ₩78.000–82.500. La reforma de la Ley Comercial de 2026 ha encarecido estructuralmente el coste de mantener acciones propias en cartera, por lo que la pregunta clave no es la desinversión en sí, sino cómo asigna la dirección ese capital."

@@ -1,5 +1,5 @@
 ---
-title: "Pearl Abyss : Le lancement mondial de Crimson Desert et ses implications pour 263750.KS"
+title: "Pearl Abyss : lancement mondial de Crimson Desert et thèse de revalorisation"
 date: 2026-04-28T12:00:00+09:00
 categories: ["company-deep-dive"]
 tags: ["Pearl Abyss", "263750.KS", "Crimson Desert", "Black Desert", "actions jeux vidéo coréens", "KOSPI", "Steam", "actions coréennes", "게임주", "붉은사막"]

@@ -1,5 +1,5 @@
 ---
-title: "SemiScope: OpenEdges Technology — Cơ hội tăng trưởng IP bộ nhớ LPDDR6 trên Samsung 4/5/8nm"
+title: "OpenEdges Technology: cơ hội IP bộ nhớ LPDDR6 và LPDDR5X trên Samsung 4/5/8nm"
 slug: semiscope-openedges-samsung-lpddr6-ip-option-2026-04-30
 aliases: ["/en/post/semiscope-openedges-samsung-lpddr6-ip-option-2026-04-30/"]
 date: 2026-04-30T12:00:00+09:00

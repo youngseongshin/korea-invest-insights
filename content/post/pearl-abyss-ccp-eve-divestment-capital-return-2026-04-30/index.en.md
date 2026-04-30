@@ -1,5 +1,5 @@
 ---
-title: "Pearl Abyss / CCP / EVE Divestiture: The Real Trigger Is Treasury Share Cancellation"
+title: "Pearl Abyss CCP/EVE Divestiture: ₩177.1bn Cash Inflow and Treasury Cancellation"
 date: 2026-04-30T19:15:00+09:00
 slug: "pearl-abyss-ccp-eve-divestment-capital-return-2026-04-30"
 description: "Pearl Abyss is divesting its entire stake in CCP Games for ₩177.1bn, equivalent to 4.7% of market cap, or ₩2,757 per share in cash value. DART filings confirm 2,828,445 treasury shares, of which 320,000 are scheduled for stock-option delivery. If proceeds are channeled into share buybacks and cancellations, the ₩75,000 central fair value estimate can move toward the low-₩78,000 to low-₩82,000 range on a conservative base."

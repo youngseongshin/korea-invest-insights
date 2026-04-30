@@ -42,7 +42,7 @@ This hub is the starting map for the full Pearl Abyss / Crimson Desert research 
 
 | Date | Topic | Read |
 |---|---|---|
-| 2026-04-30 | Non-core asset divestiture and treasury-share cancellation option | [Pearl Abyss CCP/EVE Divestiture](/en/post/pearl-abyss-ccp-eve-divestment-capital-return-2026-04-30/) |
+| 2026-04-30 | Non-core asset divestiture and treasury-share cancellation option | [Pearl Abyss CCP/EVE Divestiture: ₩177.1bn Cash Inflow and Treasury Cancellation](/en/post/pearl-abyss-ccp-eve-divestment-capital-return-2026-04-30/) |
 | 2026-04-29 | Shinhan target-price raise and 2027 sales assumptions | [Pearl Abyss Target Price Gap](/en/post/pearl-abyss-shinhan-target-price-gap-analysis-2026-04-29/) |
 | 2026-04-27 | KRW 60,000 support and retail-to-institutional handoff | [Pearl Abyss KRW 60,000 Support](/en/post/pearl-abyss-60k-new-support-retail-to-institutional-handoff-2026-04-27/) |
 | 2026-04-27 | Post-patch weekend data and long-tail durability | [Crimson Desert Post-Patch Data](/en/post/pearl-abyss-crimson-desert-post-patch-weekend-data-2026-04-27/) |
@@ -74,7 +74,7 @@ This hub is the starting map for the full Pearl Abyss / Crimson Desert research 
 
 - [Pearl Abyss Re-Rating: Crimson Desert Is More Than a Unit-Sales Story](/en/post/pearl-abyss-crimson-desert-platform-rerating-2026-04-25/)
 - [The BDO Resurgence Nobody Noticed: +40% YoY in Crimson Desert's Shadow](/en/post/pearl-abyss-black-desert-online-resurgence-2026-04-19/)
-- [Pearl Abyss CCP/EVE Divestiture: The Real Trigger Is Treasury Share Cancellation](/en/post/pearl-abyss-ccp-eve-divestment-capital-return-2026-04-30/)
+- [Pearl Abyss CCP/EVE Divestiture: ₩177.1bn Cash Inflow and Treasury Cancellation](/en/post/pearl-abyss-ccp-eve-divestment-capital-return-2026-04-30/)
 
 ---
 

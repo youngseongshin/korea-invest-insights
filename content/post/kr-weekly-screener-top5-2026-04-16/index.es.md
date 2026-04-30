@@ -280,18 +280,3 @@ Este informe se produce **únicamente con fines educativos e informativos**. No 
 Los resultados previos del screener y las rentabilidades históricas de los factores no garantizan resultados futuros. Los mercados de renta variable coreanos están sujetos a riesgos regulatorios, de divisa, geopolíticos y macroeconómicos que pueden no estar plenamente capturados por ningún marco cuantitativo.
 
 *Publicado: 18 de abril de 2026 | Período de cobertura: 9–16 de abril de 2026 | Universo: 459 valores cotizados en Corea | Screeners: 10*
-
----
-
-**Recuento de palabras: ~2,450** | Categoría: `market-analysis` | Serie: `weekly-screener-intersection`
-
----
-
-Notas de formato clave para despliegue en Hugo:
-- Slug: `kr-weekly-screener-top5-2026-04-16`
-- Fecha: `2026-04-18T09:00:00+09:00`
-- Todo el lenguaje de compra/venta reemplazado por puntuaciones de Fuerza de Señal (Máxima / Alta / Timing Mixto)
-- Todos los objetivos de precio reformulados como "niveles de referencia de escenario" o cifras "ilustrativas"
-- Todos los números de fuente preservados literalmente (PER, interanual, variaciones de pp de participación, montos ₩ de flujo)
-- El FAQ #5 responde "No — análisis educativo únicamente"
-- El aviso legal señala explícitamente el riesgo de liquidez en small-caps para 017510 y 046940

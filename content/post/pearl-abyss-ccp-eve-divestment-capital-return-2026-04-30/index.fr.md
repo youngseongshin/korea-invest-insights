@@ -1,5 +1,5 @@
 ---
-title: "Pearl Abyss / CCP / Cession d'EVE : Le Vrai Catalyseur, c'est l'Annulation des Actions Propres"
+title: "Pearl Abyss CCP/EVE : cession de 177,1 Md ₩ et possible annulation d'actions propres"
 date: 2026-04-30T19:15:00+09:00
 slug: "pearl-abyss-ccp-eve-divestment-capital-return-2026-04-30"
 description: "Pearl Abyss cède l'intégralité de sa participation dans CCP Games pour ₩177,1 milliards — soit 4,7 % de la capitalisation boursière, ou ₩2 757 par action en valeur cash. La transaction seule ne déplace guère la juste valeur, mais si le produit est réinvesti en rachats suivis d'annulation, notre juste valeur de ₩75 000 se recalibrera mécaniquement à ₩78 000–82 500. L'amendement de 2026 à la Loi sur les Sociétés commerciales a structurellement relevé le coût de détention d'actions propres — la vraie question n'est donc pas la cession elle-même, mais l'affectation du capital par la direction."

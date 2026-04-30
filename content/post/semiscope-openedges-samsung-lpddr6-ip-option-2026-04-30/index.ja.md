@@ -1,5 +1,5 @@
 ---
-title: "SemiScope: OpenEdges Technology — Samsung 4/5/8nm LPDDR6メモリIPの成長機会"
+title: "OpenEdges Technology分析：Samsung 4/5/8nm LPDDR6・LPDDR5XメモリIPの恩恵"
 slug: semiscope-openedges-samsung-lpddr6-ip-option-2026-04-30
 aliases: ["/en/post/semiscope-openedges-samsung-lpddr6-ip-option-2026-04-30/"]
 date: 2026-04-30T12:00:00+09:00

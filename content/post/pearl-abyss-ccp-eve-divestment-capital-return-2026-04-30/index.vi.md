@@ -1,5 +1,5 @@
 ---
-title: "Pearl Abyss / CCP / Thoái Vốn EVE: Yếu Tố Kích Hoạt Thực Sự Là Hủy Cổ Phiếu Quỹ"
+title: "Pearl Abyss CCP/EVE: dòng tiền ₩177,1 tỷ và khả năng hủy cổ phiếu quỹ"
 date: 2026-04-30T19:15:00+09:00
 slug: "pearl-abyss-ccp-eve-divestment-capital-return-2026-04-30"
 description: "Pearl Abyss thoái toàn bộ vốn tại CCP Games với giá ₩177,1 tỷ — tương đương 4,7% vốn hóa thị trường, tức khoảng ₩2.757 tiền mặt trên mỗi cổ phiếu. Bản thân thương vụ không tác động nhiều đến giá trị hợp lý, nhưng nếu số tiền thu về được dùng để mua lại và hủy cổ phiếu, mức giá trị hợp lý ₩75.000 của chúng tôi có thể được điều chỉnh lên ₩78.000–82.500. Sửa đổi Luật Thương mại 2026 đã nâng cao đáng kể chi phí của việc giữ nguyên cổ phiếu quỹ, khiến câu hỏi thực sự không còn là bản thân thương vụ thoái vốn, mà là ban lãnh đạo sẽ phân bổ dòng vốn này như thế nào."

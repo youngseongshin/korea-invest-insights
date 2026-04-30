@@ -219,7 +219,3 @@ The K-beauty trend has moved from niche to mainstream. The infrastructure behind
 ---
 
 > **Disclaimer**: This analysis is for informational purposes only and does not constitute investment advice. All financial figures are sourced from publicly available disclosures and are subject to change. Past performance of any security does not guarantee future results. Investors should conduct their own due diligence and consult a qualified financial adviser before making investment decisions.
-
----
-
-**Word count: ~2,200 words.** The post covers all seven required sections, includes the Q&A block for GEO/SEO, references DART and KRX, and ends with the required disclaimer. Ready to drop directly into Hugo as-is.
