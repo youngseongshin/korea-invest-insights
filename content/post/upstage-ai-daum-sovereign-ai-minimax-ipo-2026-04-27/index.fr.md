@@ -668,3 +668,7 @@ Ce n'est que lorsque les deux livres de comptes s'améliorent simultanément que
 ---
 
 *Avertissement : à des fins de recherche et d'information uniquement. Ne constitue pas un conseil en investissement. Les noms cités le sont à des fins d'illustration analytique ; les lecteurs doivent effectuer leur propre diligence raisonnable et consulter des conseillers agréés avant toute décision d'investissement.*
+
+---
+
+*Disclaimer: For research and information purposes only. Not investment advice. Names cited are for analytical illustration; readers should perform their own due diligence and consult licensed advisors before any investment decision.*

@@ -51,7 +51,7 @@ La note de comparaison du consensus traite un seul axe d'analyse (la substituabi
 | Fourniture sole-source CLT | Non mentionné | **Samsung a obtenu la qualification CLT finale fin 2024 ; fournisseur unique du testeur LF depuis 2025** — bien plus concret que le vague cadrage « partenariat Samsung » de la note |
 | Commandes cumulées (oct. 2025 – mars 2026) | Non mentionné | **KRW 48,8 Mds (CLT/Burn-in) + KRW 30,2 Mds (SSD/CLT intégré) ≈ KRW 79 Mds — environ 2,5x le chiffre d'affaires 2024, sur cinq mois de réservations** |
 | Guidance 2026 | « Note de bas de page jusqu'à la confirmation du CapEx CXL Samsung » | **La société guide vers une première année de CA supérieur à KRW 100 Mds et un retour complet à la rentabilité en 2026** |
-| Avance technologique CLT | Non mentionné | **Traitement à 11 520 canaux parallèles (contre ~500 canaux pour la génération précédente), avance technologique d'au moins 2 ans sur les concurrents** |
+| Avance technologique CLT | Non mentionné | **Traitement à 11 520 canaux parallèles (contre \~500 canaux pour la génération précédente), avance technologique d'au moins 2 ans sur les concurrents** |
 
 En intégrant ces éléments, Exicon cesse d'être une « note de bas de page dépendante du CXL Samsung » pour devenir un « fournisseur CLT en source unique entrant dans sa J-curve ». La conclusion de la note de consensus appelle une correction partielle.
 
@@ -60,7 +60,7 @@ En intégrant ces éléments, Exicon cesse d'être une « note de bas de page d�
 | Élément | Note de consensus | Ajout SemiScope |
 |---|---|---|
 | Résultats 2024-2025 | « Fossé défensif le plus profond, mais faible visibilité sur les revenus CXL » | **CA 2024 -21,8 %, perte opérationnelle KRW -24,3 Mds (perte aggravée) ; perte cumulée sur 9 mois 2025 de KRW -21,3 Mds** — le cadrage « option longue » doit s'interpréter de façon plus conservative |
-| ASP des licences | Non mentionné | **Environ 1,1 M$ par contrat en moyenne, en forte hausse par rapport au trimestre précédent (~0,7 M$) — le mix d'IP sur nœuds avancés progresse** |
+| ASP des licences | Non mentionné | **Environ 1,1 M$ par contrat en moyenne, en forte hausse par rapport au trimestre précédent (\~0,7 M$) — le mix d'IP sur nœuds avancés progresse** |
 | LPDDR6 + Samsung 4 nm | Non mentionné | **Nouvel IP cœur en engagement multi-client en 2025** |
 | IP UCIe | « En développement » | **Le développement de l'IP contrôleur est achevé et en validation ; le PHY en phase de démarrage de conception** — stade plus précis que ce que laisse entendre la note |
 | Revenus de royalties | « Faible visibilité CXL » | **Mix royalties 1S 2025 à 0,4 % (KRW 0,029 Mds) — compte tenu du délai entre licence et volume, l'inflexion de la J-curve se situe vraisemblablement en 2026-2027 ou au-delà** |
@@ -105,7 +105,7 @@ Ce cadrage condense plusieurs horizons temporels. En les désagrégeant :
 | Élément | Neosem | Exicon | OpenEdge |
 |---|---:|---:|---:|
 | CA 2024 (KRW Mds) | 105,2 | 31,6 | 15,3 |
-| CA 2025E (KRW Mds, préliminaire) | **63,9** (-39,3 %) | ~60-70 (en reprise) | Fourchette large (Shinhan KRW 40,4 Mds vs KI conservateur) |
+| CA 2025E (KRW Mds, préliminaire) | **63,9** (-39,3 %) | \~60-70 (en reprise) | Fourchette large (Shinhan KRW 40,4 Mds vs KI conservateur) |
 | Résultat opérationnel 2024 (KRW Mds) | 16,5 | **-15,9** | **-24,3** |
 | Résultat opérationnel 2025E | **4,1** (préliminaire) | Tentative de retour à la rentabilité (1S -8,6) | Perte maintenue (9 mois cumulés -21,3) |
 | Guidance 2026E | « CA record » | « CA supérieur à KRW 100 Mds, retour à la rentabilité » | BEP (modèle Korea Investment) |
@@ -202,7 +202,7 @@ La note de consensus classe les trois valeurs à travers un seul prisme — la s
 
 - Produits principaux : CLT (Chambered Low-frequency memory Tester) à 11 520 canaux parallèles — testeur de stabilité DRAM nouvelle génération ; testeur SSD Gen5 (fourni à Samsung) ; testeur Burn-in ; testeur CXL 2.0 ; testeurs non-mémoire (SoC / CIS / DDI).
 - Marges / historique : CA 2024 KRW 31,6 Mds / perte opérationnelle KRW -15,9 Mds (déficitaire). Perte opérationnelle cumulée 1S 2025 KRW -8,6 Mds. Nouvelles commandes cumulées oct. 2025 - mars 2026 ≈ KRW 79 Mds (CLT / Burn-in / SSD). La société et le sell-side guident tous deux vers une **première année de CA supérieur à KRW 100 Mds + retour complet à la rentabilité en 2026**.
-- Fossé défensif technologique : traitement CLT à 11 520 canaux parallèles (~20x la génération précédente à 500 canaux). Qualification finale Samsung obtenue fin 2024, fournisseur sole-source du testeur LF depuis 2025 ; avance technologique estimée à au moins 2 ans sur les concurrents.
+- Fossé défensif technologique : traitement CLT à 11 520 canaux parallèles (\~20x la génération précédente à 500 canaux). Qualification finale Samsung obtenue fin 2024, fournisseur sole-source du testeur LF depuis 2025 ; avance technologique estimée à au moins 2 ans sur les concurrents.
 - Thèse d'investissement : **Valeur de retournement event-driven.** Sortie du creux 2024 grâce au CLT en source unique et à une J-curve portée par des commandes importantes. **Exposition la plus élevée au CapEx DRAM Samsung parmi les valeurs ATE back-end coréennes.**
 
 ### Cartographie clients
@@ -210,7 +210,7 @@ La note de consensus classe les trois valeurs à travers un seul prisme — la s
 | Stade | Client | Produit / procédé | Statut |
 |---|---|---|---|
 | En production | Samsung | **CLT (testeur LF DRAM, fournisseur sole-source)** | En production. KRW 20,4 Mds + KRW 19,6 Mds + KRW 8,8 Mds = KRW 48,8 Mds total divulgués en oct.-nov. 2025 |
-| En production | Samsung | **Fourniture combinée CLT + Testeur SSD** | KRW 30,2 Mds supplémentaires divulgués en mars 2026 (~95,5 % du dernier CA déclaré) |
+| En production | Samsung | **Fourniture combinée CLT + Testeur SSD** | KRW 30,2 Mds supplémentaires divulgués en mars 2026 (\~95,5 % du dernier CA déclaré) |
 | En production | Samsung | Testeur SSD Gen5 | En volume |
 | En production | Samsung | Testeur Burn-in | En volume |
 | En cours | Samsung | **Testeur CXL 2.0 (double sourcing potentiel avec Neosem)** | En développement + démarche d'adoption |
@@ -220,8 +220,8 @@ La note de consensus classe les trois valeurs à travers un seul prisme — la s
 
 ### Déclencheurs de saut quantique
 
-- **Déclencheur n°1 — Entrée dans le cycle de volumes CLT + 20 installations cumulées ou plus.** Selon la guidance de la société, atteindre environ 20 installations CLT cumulées sur les lignes DRAM Samsung en 2026 soutient un CA supérieur à KRW 100 Mds. CA 2024 KRW 31,6 Mds → CA 2026 KRW 100 Mds+ implique une multiplication du chiffre d'affaires par ~3,2 + retour à la rentabilité.
-- **Déclencheur n°2 — Entrée en double sourcing sur le CXL 3.1.** Si Samsung adopte une politique de double sourcing sur le CXL 3.1, Exicon pourrait capter ~50 % de la fourniture d'équipements aux côtés de Neosem. L'ASP CXL tourne à ~2-3x celui d'un testeur SSD, impliquant des revenus supplémentaires significatifs.
+- **Déclencheur n°1 — Entrée dans le cycle de volumes CLT + 20 installations cumulées ou plus.** Selon la guidance de la société, atteindre environ 20 installations CLT cumulées sur les lignes DRAM Samsung en 2026 soutient un CA supérieur à KRW 100 Mds. CA 2024 KRW 31,6 Mds → CA 2026 KRW 100 Mds+ implique une multiplication du chiffre d'affaires par \~3,2 + retour à la rentabilité.
+- **Déclencheur n°2 — Entrée en double sourcing sur le CXL 3.1.** Si Samsung adopte une politique de double sourcing sur le CXL 3.1, Exicon pourrait capter \~50 % de la fourniture d'équipements aux côtés de Neosem. L'ASP CXL tourne à \~2-3x celui d'un testeur SSD, impliquant des revenus supplémentaires significatifs.
 - **Déclencheur n°3 — R&D testeur SSD Gen6 → passage en volume.** La fourniture sur ligne R&D du testeur SSD Gen6 pourrait se concrétiser en 2026, avec une entrée en volume en 2027. Risque : Neosem conserve la pole position compte tenu de la sortie d'Advantest.
 - **Déclencheur n°4 — Reconnaissance en volume des testeurs non-mémoire (SoC / AP / DDI).** L'obtention d'un design-in chez Samsung S.LSI ou un fabless externe pour les testeurs DDI / AP dérivés du testeur CIS réduirait significativement la dépendance au cycle.
 
@@ -234,7 +234,7 @@ La note de consensus classe les trois valeurs à travers un seul prisme — la s
 ### Cinq points de contrôle pour les 1-2 prochains trimestres
 
 1. **Publication 1T26 — ampleur du retour à la rentabilité.** Dans quelle mesure les KRW 79 Mds du carnet de commandes se traduisent en chiffre d'affaires et en bénéfice opérationnel. Le test de stabilité le plus direct.
-2. **Nombre cumulé d'installations CLT en 2026.** La société guide vers ~20 unités. Suivi trimestriel de la conformité des installations à la trajectoire annoncée.
+2. **Nombre cumulé d'installations CLT en 2026.** La société guide vers \~20 unités. Suivi trimestriel de la conformité des installations à la trajectoire annoncée.
 3. **Calendrier de divulgation de la qualification Samsung du testeur CXL 3.1.** Probable au 1S 2026. Réussite = position de double source sécurisée. Échec = pas de participation au cycle CXL.
 4. **Entrée sur les lignes HBM pour les équipements d'inspection.** La question de savoir si la charge de validation back-end du HBM4E génère de la demande pour les CLT / Burn-in. Une divulgation formelle de spécifications HBM par la société constituerait le signal significatif.
 5. **Divulgation du chiffre d'affaires des testeurs non-mémoire (DDI / AP).** Une divulgation distincte avec un poste représentant plus de 10 % du chiffre d'affaires serait le signal quantitatif de diversification.
@@ -242,3 +242,7 @@ La note de consensus classe les trois valeurs à travers un seul prisme — la s
 ---
 
 *Avertissement : À des fins de recherche et d'information uniquement. Ne constitue pas un conseil en investissement. Les noms cités le sont à titre d'illustration analytique ; les lecteurs doivent effectuer leur propre diligence raisonnable et consulter des conseillers agréés avant toute décision d'investissement.*
+
+---
+
+*Disclaimer: For research and information purposes only. Not investment advice. Names cited are for analytical illustration; readers should perform their own due diligence and consult licensed advisors before any investment decision.*

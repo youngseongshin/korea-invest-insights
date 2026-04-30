@@ -10,7 +10,7 @@ series: ["tenbagger-analysis-2026"]
 ---
 
 > **Series — Tenbagger Analysis 2026 (Part 2 of 2)**
-> ① [Korea's 27 Tenbaggers of 2023-2026](/en/post/kr-tenbagger-census-2023-2026-2026-04-23/) — the KOSPI + KOSDAQ side
+> ① [Korea's 27 Tenbaggers of 2023-2026](/post/kr-tenbagger-census-2023-2026-2026-04-23/) — the KOSPI + KOSDAQ side
 > ② **This post** — the US side: 40 names, the AI-infra spine, and the pair-trade with Korea
 
 ---
@@ -36,7 +36,7 @@ series: ["tenbagger-analysis-2026"]
 - **Mean multiple**: 19.3× (Korea: 17.4×)
 - **Median multiple**: 15.7× (Korea: 13.8×)
 - **Max**: AAOI at 69.5×
-- **Median 3-year return**: ~1,480% (Korea median ~900%, so US runs ~1.6×)
+- **Median 3-year return**: \~1,480% (Korea median \~900%, so US runs \~1.6×)
 
 US doesn't just have more tenbaggers than Korea — the winners run further. The right tail is fatter.
 
@@ -193,6 +193,8 @@ The pair-trade map is the single most transferable output: **Korean AI-derivativ
 
 ---
 
-_This closes the Tenbagger Analysis 2026 series. [Part 1: Korea's 27 tenbaggers and why power grid quietly beat AI.](/en/post/kr-tenbagger-census-2023-2026-2026-04-23/)_
+_This closes the Tenbagger Analysis 2026 series. [Part 1: Korea's 27 tenbaggers and why power grid quietly beat AI.](/post/kr-tenbagger-census-2023-2026-2026-04-23/)_
 
-_All names listed are idea-generation candidates, not recommendations. Nothing here is investment advice._
+---
+
+*Disclaimer: For research and information purposes only. Not investment advice. Names cited are for analytical illustration; readers should perform their own due diligence and consult licensed advisors before any investment decision.*

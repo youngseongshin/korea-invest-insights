@@ -176,4 +176,4 @@ Los inversores extranjeros pueden adquirir **214450.KQ** directamente en KOSDAQ 
 
 ---
 
-*Este análisis tiene únicamente fines informativos y no constituye asesoramiento de inversión. Todos los datos financieros referenciados provienen de registros públicos disponibles y datos de mercado. Los inversores deben realizar su propia diligencia debida y consultar a un asesor financiero autorizado antes de tomar decisiones de inversión. El rendimiento pasado del valor o del sector no garantiza resultados futuros.*
+*Disclaimer: For research and information purposes only. Not investment advice. Names cited are for analytical illustration; readers should perform their own due diligence and consult licensed advisors before any investment decision.*

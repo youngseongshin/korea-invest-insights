@@ -269,4 +269,4 @@ Cleanest summary:
 
 ---
 
-*Research and commentary only, not investment advice. Short-sale source: user-provided end-of-session CSV. Price and flow data from KRX market-close feed, 2026-04-21 KST.*
+*Disclaimer: For research and information purposes only. Not investment advice. Names cited are for analytical illustration; readers should perform their own due diligence and consult licensed advisors before any investment decision.*

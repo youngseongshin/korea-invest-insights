@@ -212,4 +212,4 @@ Với các nhà đầu tư quốc tế đang nhìn vào Cuộc Phục Hưng Đó
 
 ---
 
-> **Tuyên bố miễn trách nhiệm:** Bài phân tích này chỉ mang mục đích thông tin và không cấu thành lời khuyên đầu tư. Kết quả quá khứ không phản ánh kết quả tương lai. Đầu tư vào chứng khoán nước ngoài tiềm ẩn rủi ro tiền tệ, rủi ro thanh khoản và rủi ro pháp lý. Vui lòng tham khảo ý kiến của cố vấn tài chính được cấp phép trước khi đưa ra quyết định đầu tư.
+*Disclaimer: For research and information purposes only. Not investment advice. Names cited are for analytical illustration; readers should perform their own due diligence and consult licensed advisors before any investment decision.*

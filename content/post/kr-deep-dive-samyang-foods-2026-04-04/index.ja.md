@@ -172,4 +172,4 @@ KOSPIにおける時価総額規模から、三養食品は複数の韓国フォ
 
 ---
 
-*本分析は情報提供のみを目的としており、投資助言を構成するものではありません。参照されているすべての財務データは、直近の報告期間時点での公開開示に基づいています。投資決定を行う前に、投資家はご自身でデューデリジェンスを実施し、資格を持つ金融アドバイザーにご相談ください。過去のパフォーマンスは将来の結果を示すものではありません。*
+*Disclaimer: For research and information purposes only. Not investment advice. Names cited are for analytical illustration; readers should perform their own due diligence and consult licensed advisors before any investment decision.*

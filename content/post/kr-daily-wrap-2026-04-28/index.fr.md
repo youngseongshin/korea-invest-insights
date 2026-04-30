@@ -80,3 +80,7 @@ Avec 4 chevauchements de screeners (QC · SMQ · SME · PEAD), 티에프이 pré
 ---
 
 *Ce document est une synthèse analytique à des fins d'information. Il ne constitue pas un conseil en investissement ni une recommandation d'achat ou de vente.*
+
+---
+
+*Disclaimer: For research and information purposes only. Not investment advice. Names cited are for analytical illustration; readers should perform their own due diligence and consult licensed advisors before any investment decision.*

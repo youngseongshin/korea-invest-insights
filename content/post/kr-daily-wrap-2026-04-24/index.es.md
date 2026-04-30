@@ -74,4 +74,4 @@ Firma de banca de inversión y capital privado de mediana capitalización. La co
 
 ---
 
-*Datos de cierre KST. No constituye asesoramiento de inversión.*
+*Disclaimer: For research and information purposes only. Not investment advice. Names cited are for analytical illustration; readers should perform their own due diligence and consult licensed advisors before any investment decision.*

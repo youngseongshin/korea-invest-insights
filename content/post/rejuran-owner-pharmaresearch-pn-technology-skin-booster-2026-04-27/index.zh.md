@@ -254,4 +254,4 @@ Rejuran的技术本质：
 
 ---
 
-**免责声明**：本文为研究性评论，不构成投资建议。文中引用的股票代码仅用于说明韩国医美篮子框架，不构成任何投资推荐。作用机制描述均摘自公开监管和临床文献，不构成医疗建议。在做出任何决策前，请进行独立尽职调查，并咨询持牌金融及医疗专业人士。
+*Disclaimer: For research and information purposes only. Not investment advice. Names cited are for analytical illustration; readers should perform their own due diligence and consult licensed advisors before any investment decision.*

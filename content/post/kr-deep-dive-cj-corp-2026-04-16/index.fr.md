@@ -178,3 +178,7 @@ Il offre une exposition indirecte à CJ Olive Young — l'épine dorsale de la d
 ---
 
 *Cette analyse est fournie à titre informatif uniquement et ne constitue pas un conseil en investissement. Toutes les données financières sont basées sur des dépôts publiquement disponibles et des rapports récents à la date de publication. Les performances passées ne préjugent pas des résultats futurs. Les investisseurs doivent effectuer leurs propres vérifications préalables avant de prendre toute décision d'investissement.*
+
+---
+
+*Disclaimer: For research and information purposes only. Not investment advice. Names cited are for analytical illustration; readers should perform their own due diligence and consult licensed advisors before any investment decision.*

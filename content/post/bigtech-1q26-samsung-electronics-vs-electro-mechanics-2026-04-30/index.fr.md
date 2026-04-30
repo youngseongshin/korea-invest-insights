@@ -31,7 +31,7 @@ tags:
 ## Synthèse
 
 - **Le message des grandes technologiques n'est pas la fatigue de la demande en IA. C'est la ré-accélération des capex IA.** AWS +28 %, Azure +39–40 %, Google Cloud +63 % — trois clouds d'hyperscalers accélèrent *simultanément*. Taux d'investissement IA/cloud 2026 combiné ≈ **650 milliards de dollars** pour les quatre groupes.
-- **Samsung Electronics est le bénéficiaire direct.** Avec un résultat d'exploitation de la division DS à ₩53,7T au 1T26 (~94 % du total), les capex des géants technologiques se convertissent quasi directement en commandes HBM / DDR5 / eSSD / DRAM serveur. Samsung est du côté **receveur** des capex, pas du côté charge.
+- **Samsung Electronics est le bénéficiaire direct.** Avec un résultat d'exploitation de la division DS à ₩53,7T au 1T26 (\~94 % du total), les capex des géants technologiques se convertissent quasi directement en commandes HBM / DDR5 / eSSD / DRAM serveur. Samsung est du côté **receveur** des capex, pas du côté charge.
 - **Samsung Electro-Mechanics bénéficie d'un vent porteur structurel, mais d'une valorisation déjà tendue à court terme.** La demande en MLCC pour serveurs IA et en FC-BGA est en véritable accélération, mais le marché a déjà requalifié l'action de « composant cycle smartphone » à « composant serveur IA ». Un potentiel de hausse supplémentaire suppose **deux à trois trimestres consécutifs de révisions à la hausse des estimations**, et non un seul bon résultat.
 - **Préférence relative sur 6 à 12 mois : Samsung Electronics > Samsung Electro-Mechanics.** Les porteurs existants de Samsung Electronics ont intérêt à conserver ; les nouveaux entrants privilégieront les replis. Samsung Electro-Mechanics : une prise de bénéfices partielle est rationnelle ; acheter en poursuite ici manque d'efficience.
 
@@ -58,14 +58,14 @@ Le message de cette saison de résultats n'est pas « moins de dépenses en IA �
 | --- | --- | --- |
 | **Amazon** | Revenus AWS $37,6B, **+28 % sur un an**. Objectif d'investissement IA 2026 **$200B confirmé** ; capex T1 $44,2B. | Déploiement de serveurs AWS → HBM / DDR5 / eSSD / DRAM serveur. Expansion des serveurs Trainium / ASIC → FC-BGA, MLCC haute densité. |
 | **Microsoft** | Azure **+39–40 %**, taux annualisé IA $37B, capex T3 $31,9B. | Réduction de la tension sur la capacité Azure = débit mémoire plus élevé. Demande en MLCC pour serveurs, réseaux et rails d'alimentation. |
-| **Alphabet** | Revenus Google Cloud $20B, **+63 % sur un an**, carnet de commandes ~$460B ; capex 2026 $180–190B. | Expansion TPU / serveurs IA → HBM / DRAM / NAND / SSD. TPU et cartes serveur / réseaux FC-BGA + MLCC. |
+| **Alphabet** | Revenus Google Cloud $20B, **+63 % sur un an**, carnet de commandes \~$460B ; capex 2026 $180–190B. | Expansion TPU / serveurs IA → HBM / DRAM / NAND / SSD. TPU et cartes serveur / réseaux FC-BGA + MLCC. |
 | **Meta** | Revenus $56,3B (+33 %), impressions publicitaires +19 %, tarification publicitaire +12 %. Guidance capex 2026 **relevée à $125–145B**. | La construction continue de centres de données IA stimule la demande en mémoire. Levier tarifaire favorable sur les composants. |
 
 Trois observations s'imposent.
 
-**Observation 1 — Trois clouds accélèrent *simultanément*.** AWS, Azure et Google Cloud à +28 % / ~+40 % / +63 % au même trimestre, c'est rare. Sur les deux trimestres précédents, au moins l'un des trois était à la traîne. Une accélération simultanée du trio est le signal le plus clair que les charges de travail IA ont dépassé le stade du pilote pour entrer dans la consommation cloud effective.
+**Observation 1 — Trois clouds accélèrent *simultanément*.** AWS, Azure et Google Cloud à +28 % / \~+40 % / +63 % au même trimestre, c'est rare. Sur les deux trimestres précédents, au moins l'un des trois était à la traîne. Une accélération simultanée du trio est le signal le plus clair que les charges de travail IA ont dépassé le stade du pilote pour entrer dans la consommation cloud effective.
 
-**Observation 2 — Les capex *augmentent*, ils ne baissent pas.** Amazon $200B confirmé ; Alphabet $180–190B ; Meta relevée à $125–145B ; Microsoft annualisé T3 ~$128B. Pour les actions des hyperscalers, c'est une pression sur le free cash flow. Pour la chaîne d'approvisionnement, c'est un carnet de commandes.
+**Observation 2 — Les capex *augmentent*, ils ne baissent pas.** Amazon $200B confirmé ; Alphabet $180–190B ; Meta relevée à $125–145B ; Microsoft annualisé T3 \~$128B. Pour les actions des hyperscalers, c'est une pression sur le free cash flow. Pour la chaîne d'approvisionnement, c'est un carnet de commandes.
 
 **Observation 3 — Mais le marché juge désormais le ROI des capex avec sévérité.** La pression sur le titre Meta juste après le relèvement de ses capex 2026 en est l'illustration la plus limpide. Donc *relever les capex seuls* ne soutient pas le cours de l'hyperscaler. Résultat : **le même chiffre de capex est comptablement positif pour la chaîne d'approvisionnement et comptablement prudentiel pour l'hyperscaler.**
 
@@ -88,7 +88,7 @@ Mise en garde — il ne s'agit *pas* d'un total annuel précis. Le chiffre Micro
 
 La conclusion reste claire :
 
-> **Pour les hyperscalers, ce sont ~$650B de charge sur le free cash flow. Pour la chaîne d'approvisionnement coréenne, ce sont ~$650B de budget d'achats.**
+> **Pour les hyperscalers, ce sont \~$650B de charge sur le free cash flow. Pour la chaîne d'approvisionnement coréenne, ce sont \~$650B de budget d'achats.**
 
 Le même chiffre se lit de manière opposée dans le compte de résultat selon le côté de la chaîne d'approvisionnement où l'on se trouve. Cette asymétrie est la caractéristique déterminante de ce cycle.
 
@@ -240,3 +240,7 @@ Cette séparation crée une asymétrie claire du côté coréen. Samsung Electro
 ---
 
 *Ce billet est une note de recherche et de commentaire uniquement, et ne constitue pas un conseil en investissement. Les positions peuvent évoluer sans préavis. Données au 30 avril 2026, heure de Séoul.*
+
+---
+
+*Disclaimer: For research and information purposes only. Not investment advice. Names cited are for analytical illustration; readers should perform their own due diligence and consult licensed advisors before any investment decision.*

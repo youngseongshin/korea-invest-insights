@@ -60,9 +60,9 @@ Jin was the first to return (discharged June 2024) and resumed solo activities, 
 
 | Metric | Estimate (2025) |
 |---|---|
-| Revenue | KRW 2.4 trillion (~USD 1.75B) |
-| Operating Income | KRW ~300 billion |
-| Operating Margin | ~12.5% |
+| Revenue | KRW 2.4 trillion (\~USD 1.75B) |
+| Operating Income | KRW \~300 billion |
+| Operating Margin | \~12.5% |
 | Weverse MAU | 100 million+ |
 
 These figures reflect the transition year — BTS members returning individually, HYBE's other labels carrying the load. The operative question for 2026 is how much incremental top-line lift a synchronized BTS campaign delivers, and how much flows to the bottom line given elevated platform investment spending.
@@ -200,8 +200,8 @@ HYBE is differentiated primarily by its proprietary platform (Weverse), multi-la
 | Category | Key Data Point |
 |---|---|
 | Ticker | 352820.KS (KRX) |
-| 2025E Revenue | KRW 2.4 trillion (~USD 1.75B) |
-| 2025E Operating Income | KRW ~300 billion |
+| 2025E Revenue | KRW 2.4 trillion (\~USD 1.75B) |
+| 2025E Operating Income | KRW \~300 billion |
 | Weverse MAU | 100 million+ |
 | Active Labels | 5+ (Big Hit, Source, Pledis, ADOR, KOZ, etc.) |
 | Key Portfolio Artists | BTS, SEVENTEEN, LE SSERAFIM, TXT, NewJeans, ENHYPEN |
@@ -215,3 +215,7 @@ HYBE is differentiated primarily by its proprietary platform (Weverse), multi-la
 *This blog post is for informational and educational purposes only. It does not constitute investment advice, a solicitation, or a recommendation to buy or sell any security. All financial estimates and projections cited are based on publicly available analyst consensus data and company disclosures as of the publication date. Past performance is not indicative of future results. Investing in Korean equities involves currency risk, regulatory risk, and other risks specific to emerging and developed Asian markets. Readers should conduct their own due diligence and consult a licensed financial advisor before making investment decisions.*
 
 *OpenClaw Research is not registered as an investment adviser. This content is produced for informational purposes only.*
+
+---
+
+*Disclaimer: For research and information purposes only. Not investment advice. Names cited are for analytical illustration; readers should perform their own due diligence and consult licensed advisors before any investment decision.*

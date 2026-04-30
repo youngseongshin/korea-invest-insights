@@ -265,3 +265,7 @@ Cho đến lúc đó, mô hình tư duy đúng rất đơn giản: đây không 
 ---
 
 *Tuyên bố miễn trách: Chỉ dành cho mục đích nghiên cứu và thông tin. Không phải tư vấn đầu tư. Các tên được đề cập chỉ nhằm mục đích minh họa phân tích; độc giả nên tự thực hiện thẩm định và tham khảo chuyên gia được cấp phép trước bất kỳ quyết định đầu tư nào.*
+
+---
+
+*Disclaimer: For research and information purposes only. Not investment advice. Names cited are for analytical illustration; readers should perform their own due diligence and consult licensed advisors before any investment decision.*

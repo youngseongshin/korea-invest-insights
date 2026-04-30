@@ -9,8 +9,8 @@ series: ["kosdaq-structural-2026", "tenbagger-analysis-2026"]
 ---
 
 > **Serie — KOSDAQ Estructural 2026 (Parte 3 de 3)**
-> ① [KOSDAQ 2026: Catalizadores de Entrada de Capital y Ranking de VC](/en/post/kosdaq-2026-capital-inflow-triggers-vc-ranking-2026-04-21/) — el contexto de política y capital
-> ② [Clase IPO de KOSDAQ 2023-2026: Dónde Viven los Tenbaggers](/en/post/kosdaq-ipo-class-2023-2026-tenbagger-analysis-2026-04-22/) — los ganadores por año de salida a bolsa
+> ① [KOSDAQ 2026: Catalizadores de Entrada de Capital y Ranking de VC](/post/kosdaq-2026-capital-inflow-triggers-vc-ranking-2026-04-21/) — el contexto de política y capital
+> ② [Clase IPO de KOSDAQ 2023-2026: Dónde Viven los Tenbaggers](/post/kosdaq-ipo-class-2023-2026-tenbagger-analysis-2026-04-22/) — los ganadores por año de salida a bolsa
 > ③ **Este artículo** — el censo completo de 10× en KOSPI + KOSDAQ durante 3 años y qué los hizo destacar
 
 ---
@@ -33,33 +33,33 @@ Pero los 27 que sí lo lograron no son aleatorios — se concentran fuertemente 
 
 | # | Nombre | Múlt. | Pico | Caída desde Pico | Ing. a/a | Op. a/a | Margen Op. | ROE | P/E | Sector |
 |---|------|------|------|------|------|------|------|------|------|------|
-| 1 | HD Hyundai Electric | ~20× | 2025H2 | -15% | +38% | +95% | 18% | 41% | 14 | Electricidad/Red |
-| 2 | Hyosung Heavy | ~16× | 2025H2 | -22% | +31% | +82% | 14% | 35% | 13 | Electricidad/Red |
-| 3 | LS Electric | ~14× | 2025H2 | -18% | +27% | +61% | 12% | 28% | 16 | Electricidad/Red |
-| 4 | SK Hynix | ~13× | 2026Q1 | -8% | +71% | +340% | 42% | 48% | 9 | Semis/IA |
-| 5 | Isu Petasys | ~22× | 2024H2 | -35% | +88% | n/m | 18% | 52% | 11 | Semis/IA (PCB HBM) |
-| 6 | Hanwha Aerospace | ~18× | 2025H2 | -12% | +44% | +110% | 13% | 32% | 12 | Defensa |
-| 7 | HD Hyundai Marine Engine | ~15× | 2025H2 | -9% | +52% | +180% | 16% | 44% | 10 | Construcción Naval |
-| 8 | Samyang Foods | ~17× | 2025H1 | -20% | +47% | +125% | 22% | 46% | 14 | Consumo/Exportación |
-| 9 | SK Square | ~11× | 2026Q1 | -6% | n/m | n/m | n/m | 31% | 8 | Holding/Semi |
-| 10 | Alteogen | ~25× | 2024H2 | -42% | +210% | n/m | n/m | n/m | n/m | Biotech |
-| 11 | Ligachem Bio | ~14× | 2025H1 | -28% | +95% | n/m | n/m | n/m | n/m | Biotech |
-| 12 | HLB | ~12× | 2024H1 | -55% | +12% | neg | neg | neg | n/m | Biotech |
-| 13 | Peptron | ~18× | 2024H2 | -48% | +180% | n/m | n/m | n/m | n/m | Biotech |
-| 14 | ABL Bio | ~11× | 2025H1 | -30% | +140% | n/m | n/m | n/m | n/m | Biotech |
-| 15 | Doosan Enerbility | ~13× | 2025H2 | -18% | +18% | +65% | 9% | 14% | 22 | Nuclear/Energía |
-| 16 | Hyundai Rotem | ~14× | 2025H2 | -15% | +33% | +92% | 11% | 26% | 15 | Defensa/Ferroviario |
-| 17 | Hanwha Ocean | ~11× | 2025H2 | -16% | +28% | +70% | 7% | 18% | 19 | Construcción Naval |
-| 18 | Iljin Electric | ~12× | 2025H2 | -20% | +25% | +55% | 10% | 24% | 17 | Electricidad/Red |
-| 19 | Daeho AL | ~11× | 2025H1 | -24% | +35% | +88% | 13% | 29% | 13 | Materiales de Red |
-| 20 | Jeio | ~15× | 2025H2 | -30% | +120% | n/m | 22% | 38% | 18 | IA/Equipo Semi |
-| 21 | Park Systems | ~10× | 2025H1 | -22% | +41% | +78% | 24% | 33% | 24 | Metrología Semi |
-| 22 | Hanjin Kal | ~10× | 2025Q3 | -14% | +6% | +18% | n/m | 11% | 28 | Holdings |
-| 23 | Hyundai Motor Securities | ~11× | 2025H2 | -18% | +22% | +45% | n/m | 15% | 11 | Financiero |
-| 24 | Kiwoom Securities | ~10× | 2025H2 | -15% | +19% | +38% | n/m | 13% | 9 | Financiero |
-| 25 | Woori Financial | ~10× | 2026Q1 | -5% | +8% | +14% | n/m | 11% | 7 | Banca |
-| 26 | Koh Young | ~11× | 2025H1 | -28% | +25% | +60% | 17% | 22% | 20 | Inspección Semi |
-| 27 | Simmtech | ~10× | 2025H1 | -32% | +55% | +140% | 14% | 34% | 12 | Sustrato Semi |
+| 1 | HD Hyundai Electric | \~20× | 2025H2 | -15% | +38% | +95% | 18% | 41% | 14 | Electricidad/Red |
+| 2 | Hyosung Heavy | \~16× | 2025H2 | -22% | +31% | +82% | 14% | 35% | 13 | Electricidad/Red |
+| 3 | LS Electric | \~14× | 2025H2 | -18% | +27% | +61% | 12% | 28% | 16 | Electricidad/Red |
+| 4 | SK Hynix | \~13× | 2026Q1 | -8% | +71% | +340% | 42% | 48% | 9 | Semis/IA |
+| 5 | Isu Petasys | \~22× | 2024H2 | -35% | +88% | n/m | 18% | 52% | 11 | Semis/IA (PCB HBM) |
+| 6 | Hanwha Aerospace | \~18× | 2025H2 | -12% | +44% | +110% | 13% | 32% | 12 | Defensa |
+| 7 | HD Hyundai Marine Engine | \~15× | 2025H2 | -9% | +52% | +180% | 16% | 44% | 10 | Construcción Naval |
+| 8 | Samyang Foods | \~17× | 2025H1 | -20% | +47% | +125% | 22% | 46% | 14 | Consumo/Exportación |
+| 9 | SK Square | \~11× | 2026Q1 | -6% | n/m | n/m | n/m | 31% | 8 | Holding/Semi |
+| 10 | Alteogen | \~25× | 2024H2 | -42% | +210% | n/m | n/m | n/m | n/m | Biotech |
+| 11 | Ligachem Bio | \~14× | 2025H1 | -28% | +95% | n/m | n/m | n/m | n/m | Biotech |
+| 12 | HLB | \~12× | 2024H1 | -55% | +12% | neg | neg | neg | n/m | Biotech |
+| 13 | Peptron | \~18× | 2024H2 | -48% | +180% | n/m | n/m | n/m | n/m | Biotech |
+| 14 | ABL Bio | \~11× | 2025H1 | -30% | +140% | n/m | n/m | n/m | n/m | Biotech |
+| 15 | Doosan Enerbility | \~13× | 2025H2 | -18% | +18% | +65% | 9% | 14% | 22 | Nuclear/Energía |
+| 16 | Hyundai Rotem | \~14× | 2025H2 | -15% | +33% | +92% | 11% | 26% | 15 | Defensa/Ferroviario |
+| 17 | Hanwha Ocean | \~11× | 2025H2 | -16% | +28% | +70% | 7% | 18% | 19 | Construcción Naval |
+| 18 | Iljin Electric | \~12× | 2025H2 | -20% | +25% | +55% | 10% | 24% | 17 | Electricidad/Red |
+| 19 | Daeho AL | \~11× | 2025H1 | -24% | +35% | +88% | 13% | 29% | 13 | Materiales de Red |
+| 20 | Jeio | \~15× | 2025H2 | -30% | +120% | n/m | 22% | 38% | 18 | IA/Equipo Semi |
+| 21 | Park Systems | \~10× | 2025H1 | -22% | +41% | +78% | 24% | 33% | 24 | Metrología Semi |
+| 22 | Hanjin Kal | \~10× | 2025Q3 | -14% | +6% | +18% | n/m | 11% | 28 | Holdings |
+| 23 | Hyundai Motor Securities | \~11× | 2025H2 | -18% | +22% | +45% | n/m | 15% | 11 | Financiero |
+| 24 | Kiwoom Securities | \~10× | 2025H2 | -15% | +19% | +38% | n/m | 13% | 9 | Financiero |
+| 25 | Woori Financial | \~10× | 2026Q1 | -5% | +8% | +14% | n/m | 11% | 7 | Banca |
+| 26 | Koh Young | \~11× | 2025H1 | -28% | +25% | +60% | 17% | 22% | 20 | Inspección Semi |
+| 27 | Simmtech | \~10× | 2025H1 | -32% | +55% | +140% | 14% | 34% | 12 | Sustrato Semi |
 
 _Los múltiplos son de mínimo a máximo en los últimos 3 años. "n/m" = no significativo (empresa con pérdidas o contabilidad de holding). Cifras redondeadas._
 
@@ -102,7 +102,7 @@ El filtro simplista de dos factores (calidad + valor), aplicado mecánicamente e
 
 1. **El clúster eléctrico y de red sigue siendo infraponderado por los extranjeros.** La presencia extranjera en HD Hyundai Electric e Hyosung Heavy solo se recuperó después del movimiento. El catalizador (escasez de transformadores para centros de datos, capex en redes eléctricas en EE. UU.) era legible a mediados de 2023.
 
-2. **El pago de HBM ≠ la narrativa de HBM.** SK Hynix retornó 13×, pero el ganador adyacente a HBM por múltiplo fue **Isu Petasys (~22×)** — un nombre de sustrato PCB que la mayoría de extranjeros aún no sabe pronunciar. El derivado supera al protagonista.
+2. **El pago de HBM ≠ la narrativa de HBM.** SK Hynix retornó 13×, pero el ganador adyacente a HBM por múltiplo fue **Isu Petasys (\~22×)** — un nombre de sustrato PCB que la mayoría de extranjeros aún no sabe pronunciar. El derivado supera al protagonista.
 
 3. **Defensa y construcción naval son la misma apuesta.** Hanwha Aerospace, Hyundai Rotem, Hanwha Ocean, HD Hyundai Marine Engine — rearmamento de la OTAN + superciclo de buques LNG + opcionalidad de propulsión nuclear. Cuatro tenbaggers surgidos de un único cambio de régimen geopolítico.
 
@@ -151,4 +151,8 @@ La operación aburrida — activos reales, ganancias reales, capex real — volv
 
 ---
 
-_Con esto concluye la serie KOSDAQ Estructural 2026. [Parte 1: Ranking de VC y catalizadores de capital.](/en/post/kosdaq-2026-capital-inflow-triggers-vc-ranking-2026-04-21/) [Parte 2: Tenbaggers de la clase IPO 2023-2026.](/en/post/kosdaq-ipo-class-2023-2026-tenbagger-analysis-2026-04-22/)_
+_Con esto concluye la serie KOSDAQ Estructural 2026. [Parte 1: Ranking de VC y catalizadores de capital.](/post/kosdaq-2026-capital-inflow-triggers-vc-ranking-2026-04-21/) [Parte 2: Tenbaggers de la clase IPO 2023-2026.](/post/kosdaq-ipo-class-2023-2026-tenbagger-analysis-2026-04-22/)_
+
+---
+
+*Disclaimer: For research and information purposes only. Not investment advice. Names cited are for analytical illustration; readers should perform their own due diligence and consult licensed advisors before any investment decision.*

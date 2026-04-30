@@ -20,7 +20,7 @@ series: ["pearl-abyss-crimson-desert-thesis"]
 draft: false
 ---
 
-> 📚 See the [Pearl Abyss and Crimson Desert research hub](/en/page/pearl-abyss-crimson-desert-hub/) for the full thread across target price, short-sale data, patch updates, KRW 60,000 support, and the CCP/EVE divestiture.
+> 📚 See the [Pearl Abyss and Crimson Desert research hub](/page/pearl-abyss-crimson-desert-hub/) for the full thread across target price, short-sale data, patch updates, KRW 60,000 support, and the CCP/EVE divestiture.
 
 > 🔗 **Related reads — Pearl Abyss × Crimson Desert series**: [Shinhan target ₩72,000 analysis](/post/pearl-abyss-shinhan-target-price-gap-analysis-2026-04-29/) · [Retail → institutional handoff at ₩60K](/post/pearl-abyss-60k-new-support-retail-to-institutional-handoff-2026-04-27/) · [Post-patch weekend data](/post/pearl-abyss-crimson-desert-post-patch-weekend-data-2026-04-27/) · [Platform re-rating](/post/pearl-abyss-crimson-desert-platform-rerating-2026-04-25/) · [1Q26 earnings preview](/post/pearl-abyss-1q26-earnings-preview-2026-04-21/) · [5M franchise re-rating](/post/pearl-abyss-crimson-desert-5m-franchise-thesis-2026-04-15/)
 
@@ -44,7 +44,7 @@ draft: false
 |---|---:|
 | Disposal proceeds | ₩177.1bn |
 | Expected closing date | 2026-05-06 |
-| Market cap (at ₩58,900 reference price) | ~₩3.78tn |
+| Market cap (at ₩58,900 reference price) | \~₩3.78tn |
 | Cash value per share | ₩2,757 |
 | Proceeds as % of market cap | 4.7% |
 | Near-term price impact (disposal only) | +3–5% downside buffer |
@@ -235,10 +235,10 @@ The DART basis is Pearl Abyss's [2025 annual report filed on March 19, 2026](htt
 |---|---|---:|---:|---:|
 | Cancel all existing treasury, DART balance | Existing position | 2.828M | 4.4% | **+4.6%** |
 | Conservative existing treasury cancellation, excluding option-delivery shares | Existing position | 2.508M | 3.9% | **+4.1%** |
-| 50% of CCP proceeds — buyback & cancel | ₩88.5bn | ~1.503M | 2.3% | +2.4% |
-| 100% of CCP proceeds — buyback & cancel | ₩177.1bn | ~3.007M | 4.7% | +4.9% |
-| Conservative existing + 50% of CCP proceeds | Position + ₩88.5bn | ~4.012M | 6.2% | **+6.7%** |
-| **Conservative existing + 100% of CCP proceeds** | Position + ₩177.1bn | ~5.515M | 8.6% | **+9.4%** |
+| 50% of CCP proceeds — buyback & cancel | ₩88.5bn | \~1.503M | 2.3% | +2.4% |
+| 100% of CCP proceeds — buyback & cancel | ₩177.1bn | \~3.007M | 4.7% | +4.9% |
+| Conservative existing + 50% of CCP proceeds | Position + ₩88.5bn | \~4.012M | 6.2% | **+6.7%** |
+| **Conservative existing + 100% of CCP proceeds** | Position + ₩177.1bn | \~5.515M | 8.6% | **+9.4%** |
 
 ### 6.3 Arithmetic Verification
 
@@ -373,4 +373,4 @@ The setup remains constructive, but still conditional. May needs to deliver on a
 
 ---
 
-*This material is for research and commentary purposes only and does not constitute investment advice. Positions may change without notice. Final disposal P&L figures are subject to change based on actual closing disclosures. Treasury-share figures are based on Pearl Abyss's 2025 annual report and the March 11, 2026 DART treasury-share disposal decision. Data as of April 30, 2026 KST.*
+*Disclaimer: For research and information purposes only. Not investment advice. Names cited are for analytical illustration; readers should perform their own due diligence and consult licensed advisors before any investment decision.*

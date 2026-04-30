@@ -78,14 +78,14 @@ La conclusión es, por tanto, sencilla. Mantener. Sin nuevas compras. Iniciar la
 
 Verificación aritmética:
 
-Brecha de ingresos = 433,5 − 395,0 = ₩38,5B  
+Brecha de ingresos = 433,5 − 395,0 = ₩38,5B
 Brecha de ingresos % = 38,5 / 395,0 = 9,7%
 
-Brecha de beneficio operativo = 254,7 − 205,0 = ₩49,7B  
+Brecha de beneficio operativo = 254,7 − 205,0 = ₩49,7B
 Brecha de beneficio operativo % = 49,7 / 205,0 = 24,2%
 
-Margen operativo Shinhan = 254,7 / 433,5 = 58,7%  
-Margen operativo interno = 205,0 / 395,0 = 51,9%  
+Margen operativo Shinhan = 254,7 / 433,5 = 58,7%
+Margen operativo interno = 205,0 / 395,0 = 51,9%
 Diferencia de margen = 58,7 − 51,9 = 6,9 p.p.
 
 Observación clave: la brecha en beneficio operativo (24,2%) es 2,5 veces mayor que la brecha en ingresos (9,7%). Esto significa que el modelo de Shinhan no es una apuesta por un volumen de unidades agresivo — es una apuesta por **hipótesis de margen agresivas**.
@@ -106,7 +106,7 @@ Conclusión clave: **Shinhan asume un volumen menor (Q) pero una economía unita
 
 Si deducimos de los ₩433,5B totales de Shinhan los ingresos de IP heredadas (BDO + EVE), utilizando la misma hipótesis de ₩97,0B que nuestro modelo, el precio medio implícito de Crimson Desert es el siguiente:
 
-Ingresos Crimson Desert ≈ 433,5 − 97,0 = ₩336,5B  
+Ingresos Crimson Desert ≈ 433,5 − 97,0 = ₩336,5B
 Precio medio implícito ≈ ₩336,5B / 3,70M = aproximadamente ₩91.000 por unidad
 
 En comparación con nuestro escenario interno (3,95M × ₩79.800 + ₩97,0B = ₩412,2B, menos un margen de seguridad de ₩17,2B = ₩395,0B), el reconocimiento de ingresos por unidad implícito de Shinhan es aproximadamente ₩11.000 superior.
@@ -270,4 +270,4 @@ Esta serie se cierra aquí por ahora. La próxima entrada llegará tras la publi
 
 ---
 
-*Esta entrada tiene únicamente fines de investigación y comentario, y no constituye asesoramiento de inversión. Las posiciones pueden cambiar sin previo aviso. Fuentes: [Informe Pearl Abyss de Shinhan Securities](https://www.inven.co.kr/webzine/news/?news=315945&site=crimson), [The Elec](https://www.thelec.kr/news/articleView.html?idxno=55833), [Comunicados oficiales de Pearl Abyss](https://www.pearlabyss.com/ko-KR/Board/Report). Datos a 29 de abril de 2026 KST.*
+*Disclaimer: For research and information purposes only. Not investment advice. Names cited are for analytical illustration; readers should perform their own due diligence and consult licensed advisors before any investment decision.*

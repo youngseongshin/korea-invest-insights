@@ -208,4 +208,4 @@ Pharma Research Products chưa phải tên tuổi quen thuộc bên ngoài giớ
 
 ---
 
-*Phân tích này chỉ mang mục đích thông tin và không cấu thành lời khuyên đầu tư. Mọi quyết định đầu tư đều bao gồm rủi ro, kể cả khả năng mất toàn bộ vốn gốc. Hiệu suất quá khứ của một cổ phiếu không phản ánh kết quả tương lai. Hãy tham khảo cố vấn tài chính có chuyên môn trước khi đưa ra bất kỳ quyết định đầu tư nào. Các số liệu tài chính được đề cập dựa trên hồ sơ DART công khai và dữ liệu thị trường tính đến kỳ báo cáo gần nhất; luôn xác minh với hồ sơ hiện tại trước khi hành động dựa trên bất kỳ điểm dữ liệu nào.*
+*Disclaimer: For research and information purposes only. Not investment advice. Names cited are for analytical illustration; readers should perform their own due diligence and consult licensed advisors before any investment decision.*

@@ -173,3 +173,7 @@ Samyang Foods là một trong những câu chuyện cơ cấu hấp dẫn nhất
 ---
 
 *Bài phân tích này chỉ mang mục đích thông tin và không cấu thành khuyến nghị đầu tư. Tất cả dữ liệu tài chính được đề cập đều dựa trên các hồ sơ và thông tin công bố công khai tính đến các kỳ gần nhất được báo cáo. Nhà đầu tư nên tự thực hiện thẩm định và tham khảo cố vấn tài chính có giấy phép trước khi đưa ra quyết định đầu tư. Hiệu suất quá khứ không phải chỉ báo cho kết quả tương lai.*
+
+---
+
+*Disclaimer: For research and information purposes only. Not investment advice. Names cited are for analytical illustration; readers should perform their own due diligence and consult licensed advisors before any investment decision.*

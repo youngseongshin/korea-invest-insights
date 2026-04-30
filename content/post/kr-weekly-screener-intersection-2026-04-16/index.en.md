@@ -270,6 +270,4 @@ Post-Earnings Announcement Drift (PEAD) is a well-documented market anomaly: sto
 
 ---
 
-## Disclaimer
-
-*This report is produced for informational and educational purposes only. It does not constitute investment advice, a solicitation to buy or sell any security, or a recommendation of any specific investment strategy. All data referenced — including financial metrics, price levels, ownership percentages, and screener scores — reflects the analysis period of April 9–16, 2026, and may have changed materially since publication. Korean-listed equities involve market, currency, liquidity, and regulatory risks that may differ significantly from investors' home markets. Past screener performance and historical data patterns do not guarantee future results. Readers should conduct their own due diligence and consult a licensed financial advisor before making any investment decisions. The author and publisher hold no positions in the securities discussed at the time of publication.*
+*Disclaimer: For research and information purposes only. Not investment advice. Names cited are for analytical illustration; readers should perform their own due diligence and consult licensed advisors before any investment decision.*

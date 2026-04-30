@@ -291,4 +291,4 @@ Pearl Abyss está en ese umbral ahora mismo. El mercado sigue poniendo precio a 
 
 ---
 
-**Aviso legal**: Esta entrada es comentario de investigación, no asesoramiento de inversión. Pearl Abyss se cubre como parte de la serie de tesis en curso del autor. Las posiciones, condiciones y niveles de precio pueden cambiar a medida que lleguen nuevos datos. Realice su propio análisis.
+*Disclaimer: For research and information purposes only. Not investment advice. Names cited are for analytical illustration; readers should perform their own due diligence and consult licensed advisors before any investment decision.*

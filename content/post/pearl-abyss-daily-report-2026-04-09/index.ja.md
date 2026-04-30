@@ -143,4 +143,4 @@ Pearl Abyss は現在、**株価は崩れていないが、ゲームのバイタ
 
 ---
 
-*免責事項: 本レポートは情報提供のみを目的としており、投資助言を構成するものではありません。過去のパフォーマンスは将来の結果を保証するものではありません。投資判断を行う際は、必ずご自身でデューデリジェンスを実施してください。*
+*Disclaimer: For research and information purposes only. Not investment advice. Names cited are for analytical illustration; readers should perform their own due diligence and consult licensed advisors before any investment decision.*

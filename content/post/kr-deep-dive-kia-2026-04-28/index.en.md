@@ -17,12 +17,12 @@ draft: false
 
 ## 1. Company Snapshot
 
-**Full name:** Kia Corporation (기아주식회사)  
-**Ticker / Exchange:** 000270.KS / KOSPI (Korea Exchange)  
-**Sector:** Consumer Discretionary — Automobiles  
-**Market cap:** Approximately KRW 25–28 trillion (as of late April 2026)  
-**Headquarters:** Seoul, South Korea  
-**Parent group:** Hyundai Motor Group (Hyundai Motor holds ~34% stake)
+**Full name:** Kia Corporation (기아주식회사)
+**Ticker / Exchange:** 000270.KS / KOSPI (Korea Exchange)
+**Sector:** Consumer Discretionary — Automobiles
+**Market cap:** Approximately KRW 25–28 trillion (as of late April 2026)
+**Headquarters:** Seoul, South Korea
+**Parent group:** Hyundai Motor Group (Hyundai Motor holds \~34% stake)
 
 **Elevator pitch:** Kia is no longer "the cheaper Hyundai." It is a design-forward, EV-native brand that won the 2022 World Car of the Year with the EV6, launched the stunning EV9 large SUV into the premium segment, and is pioneering the Purpose-Built Vehicle (PBV) category that could define urban commercial mobility this decade. As part of Hyundai Motor Group — the world's third-largest automaker by volume — Kia benefits from shared R&D, the proprietary E-GMP EV platform, and manufacturing scale that most EV pure-plays can only dream about. For international investors seeking EV exposure without paying 40–60x earnings multiples, Kia trades at a fraction of the valuation of its Western counterparts.
 
@@ -57,11 +57,11 @@ Kia generates revenue primarily through **vehicle sales**, with supplementary in
 
 | Region | Approximate Revenue Share |
 |---|---|
-| North America | ~30% |
-| Europe | ~20% |
-| South Korea (domestic) | ~15% |
-| India & Emerging Asia | ~12% |
-| Rest of World | ~23% |
+| North America | \~30% |
+| Europe | \~20% |
+| South Korea (domestic) | \~15% |
+| India & Emerging Asia | \~12% |
+| Rest of World | \~23% |
 
 The US and Europe tilt is important: these are Kia's highest-margin markets. North America has been particularly strong, driven by the Telluride (a large premium SUV that commands pricing well above brand average) and the growing EV lineup.
 
@@ -77,7 +77,7 @@ The US and Europe tilt is important: these are Kia's highest-margin markets. Nor
 
 ### Margin Profile
 
-Kia's operating margin recovery from near-zero levels during COVID (2020: ~3%) to double digits (2022–2023: ~10–12%) has been structural, not cyclical. Pricing power improved as Korean brands shed their discount-to-Western-peers reputation. The EV mix shift at current pricing is margin-dilutive versus ICE in the near term (battery costs still elevated), but Kia's management has guided for EV margin parity with ICE by approximately 2026, contingent on battery cost normalization and volume leverage.
+Kia's operating margin recovery from near-zero levels during COVID (2020: \~3%) to double digits (2022–2023: \~10–12%) has been structural, not cyclical. Pricing power improved as Korean brands shed their discount-to-Western-peers reputation. The EV mix shift at current pricing is margin-dilutive versus ICE in the near term (battery costs still elevated), but Kia's management has guided for EV margin parity with ICE by approximately 2026, contingent on battery cost normalization and volume leverage.
 
 ---
 
@@ -85,7 +85,7 @@ Kia's operating margin recovery from near-zero levels during COVID (2020: ~3%) t
 
 ### Catalyst 1: EV Margin Inflection
 
-If Kia achieves EV/ICE margin parity by 2026–2027 as guided — plausible given battery cost deflation curves and platform maturity — the earnings power of the company could re-rate significantly. A 1 percentage point improvement in blended operating margin on a ~KRW 100 trillion revenue base is roughly KRW 1 trillion in additional operating profit. Consensus estimates may underestimate this torque.
+If Kia achieves EV/ICE margin parity by 2026–2027 as guided — plausible given battery cost deflation curves and platform maturity — the earnings power of the company could re-rate significantly. A 1 percentage point improvement in blended operating margin on a \~KRW 100 trillion revenue base is roughly KRW 1 trillion in additional operating profit. Consensus estimates may underestimate this torque.
 
 ### Catalyst 2: India IPO or Spinout Optionality
 
@@ -121,11 +121,11 @@ As of late April 2026, Kia's valuation metrics (based on KRX data and recent Blo
 
 | Metric | Kia (000270.KS) | Global Peer Avg* |
 |---|---|---|
-| Trailing P/E | ~5–6x | ~10–15x |
-| Forward P/E | ~5–7x | ~9–12x |
-| P/B | ~0.8–1.0x | ~1.5–2.5x |
-| EV/EBITDA | ~3–4x | ~6–8x |
-| Dividend Yield | ~3–5% | ~2–3% |
+| Trailing P/E | \~5–6x | \~10–15x |
+| Forward P/E | \~5–7x | \~9–12x |
+| P/B | \~0.8–1.0x | \~1.5–2.5x |
+| EV/EBITDA | \~3–4x | \~6–8x |
+| Dividend Yield | \~3–5% | \~2–3% |
 
 *Global peers include Toyota, Stellantis, GM, Ford, Volkswagen Group
 
@@ -172,16 +172,16 @@ For pure-play auto sector exposure in Korea, no dedicated Korean auto ETF exists
 
 ## Frequently Asked Questions
 
-**Is Kia a good investment?**  
+**Is Kia a good investment?**
 This analysis does not make investment recommendations. Kia presents a case study in a globally competitive automaker trading at a discount to peers — whether that discount is justified depends on individual risk tolerance, currency exposure, and view on EV transition timing. Conduct independent due diligence using DART filings and KRX data.
 
-**How do I buy Kia stock (000270.KS)?**  
+**How do I buy Kia stock (000270.KS)?**
 Direct purchase requires a brokerage account with KRX access (Interactive Brokers, Fidelity International, or Korean brokerages like Mirae Asset, Samsung Securities, or Kiwoom). ETFs like EWY or FLKR provide indirect exposure through US-listed vehicles.
 
-**Is Kia the same as Hyundai?**  
+**Is Kia the same as Hyundai?**
 They are separate listed companies under the Hyundai Motor Group umbrella. Hyundai Motor (005380.KS) holds approximately 34% of Kia. They share platforms (E-GMP), manufacturing, and R&D, but maintain distinct brand identities and separate financial reporting. Kia is generally considered the design-forward, slightly younger-skewing brand.
 
-**What is Kia's EV target?**  
+**What is Kia's EV target?**
 Kia has publicly targeted **1.6 million annual EV sales by 2030** and aims to have 15 EV models globally in its lineup by that date. Progress can be tracked through quarterly sales disclosures on the KRX and via Kia's IR portal.
 
 ---
@@ -195,4 +195,4 @@ Kia has publicly targeted **1.6 million annual EV sales by 2030** and aims to ha
 
 ---
 
-*This analysis is for informational purposes only and does not constitute investment advice. All financial figures referenced are based on publicly available filings and data as of the most recent reported periods. Past performance and current valuation metrics are not indicative of future results. Investors should conduct independent research and consult a qualified financial advisor before making investment decisions.*
+*Disclaimer: For research and information purposes only. Not investment advice. Names cited are for analytical illustration; readers should perform their own due diligence and consult licensed advisors before any investment decision.*

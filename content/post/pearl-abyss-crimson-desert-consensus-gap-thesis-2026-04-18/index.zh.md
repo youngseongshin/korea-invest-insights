@@ -190,4 +190,6 @@ Pearl Abyss调控减速的能力取决于内容日历——重大更新补丁、
 
 ## 免责声明
 
-本文为市场解读性评述，不构成投资建议、邀约，或对任何证券的买入或卖出建议。Pearl Abyss（263750.KQ）的提及仅用于分析和信息目的。本文引用的卖方预测数据来自各券商研究报告，反映各报告发布时的数据；上述数据在发布后可能已有更新或修订。过去的销量速度不代表未来表现。所有投资决策均涉及风险，包括本金全部损失的风险。读者在作出任何投资决策前，应进行独立研究并咨询合格的财务顾问。
+---
+
+*Disclaimer: For research and information purposes only. Not investment advice. Names cited are for analytical illustration; readers should perform their own due diligence and consult licensed advisors before any investment decision.*

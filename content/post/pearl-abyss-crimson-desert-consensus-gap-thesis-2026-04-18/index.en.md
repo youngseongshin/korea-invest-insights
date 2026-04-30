@@ -95,7 +95,7 @@ One of the cleaner analytical tools available here is a simple velocity calculat
 | Date | Confirmed Copies Sold | Incremental | Days Elapsed | Daily Run Rate |
 |---|---:|---:|---:|---:|
 | April 1, 2026 | 4,000,000 | — | — | — |
-| April 15, 2026 | 5,000,000 | 1,000,000 | 14 | ~71,400 / day |
+| April 15, 2026 | 5,000,000 | 1,000,000 | 14 | \~71,400 / day |
 
 The April 1 to April 15 interval produced approximately **71,400 units per day** — the most recent official velocity observation. This is an important baseline because it captures the game's trajectory *after* initial launch enthusiasm had partially normalized, incorporating any Qingming Festival tailwinds.
 
@@ -109,13 +109,13 @@ The following table presents three independent scenario analyses for Crimson Des
 
 | Scenario | Full-Year 2026 Units | Incremental Needed | Required Daily Avg (≈260 days) | Key Assumption |
 |---|---:|---:|---:|---|
-| **Bear** | 7.5M | 2.5M | ~9,600 / day | Heavy deceleration; limited content; no new platforms |
-| **Base** | 8.5M | 3.5M | ~13,500 / day | Moderate deceleration (~81% below April velocity); regular updates |
-| **Bull** | 10.0M | 5.0M | ~19,200 / day | Mild deceleration; content expansion; possible new region or platform |
+| **Bear** | 7.5M | 2.5M | \~9,600 / day | Heavy deceleration; limited content; no new platforms |
+| **Base** | 8.5M | 3.5M | \~13,500 / day | Moderate deceleration (\~81% below April velocity); regular updates |
+| **Bull** | 10.0M | 5.0M | \~19,200 / day | Mild deceleration; content expansion; possible new region or platform |
 
-A critical observation: the **Bear scenario requires just ~9,600 units per day** — roughly **87% below the observed April 1–15 velocity of 71,400**. Even the most pessimistic modeled path produces a full-year outcome (7.5M) well above the majority sell-side position (≤5.26M for three of five brokerages).
+A critical observation: the **Bear scenario requires just \~9,600 units per day** — roughly **87% below the observed April 1–15 velocity of 71,400**. Even the most pessimistic modeled path produces a full-year outcome (7.5M) well above the majority sell-side position (≤5.26M for three of five brokerages).
 
-The **Base scenario at 8.5M** implies ~13,500 units per day — an 81% deceleration from the recent observed rate. This is a conservative, not heroic, assumption.
+The **Base scenario at 8.5M** implies \~13,500 units per day — an 81% deceleration from the recent observed rate. This is a conservative, not heroic, assumption.
 
 This is the structural reason the consensus gap exists: if even a Bear scenario produces outcomes above most current full-year estimates, the current consensus is almost certainly anchored to outdated assumptions.
 
@@ -189,6 +189,4 @@ Alpha, in this type of situation, tends to emerge not from better information bu
 
 ---
 
-## Disclaimer
-
-This post is market interpretation commentary and does not constitute investment advice, a solicitation, or a recommendation to buy or sell any security. Pearl Abyss (263750.KQ) is referenced solely for analytical and informational purposes. Sell-side estimates cited in this post reflect figures from individual brokerage research reports as of their respective publication dates; these figures may have been updated or revised since publication. Past sales velocity is not indicative of future performance. All investment decisions involve risk, including the risk of total loss. Readers should conduct their own independent research and consult qualified financial advisors before making any investment decision.
+*Disclaimer: For research and information purposes only. Not investment advice. Names cited are for analytical illustration; readers should perform their own due diligence and consult licensed advisors before any investment decision.*

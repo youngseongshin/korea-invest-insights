@@ -78,14 +78,14 @@ La conclusion est donc simple. Conserver. Ne pas acheter. Commencer un allègeme
 
 Vérification arithmétique :
 
-Écart CA = 433,5 − 395,0 = ₩38,5 Mds  
+Écart CA = 433,5 − 395,0 = ₩38,5 Mds
 Écart CA % = 38,5 / 395,0 = 9,7 %
 
-Écart résultat opérationnel = 254,7 − 205,0 = ₩49,7 Mds  
+Écart résultat opérationnel = 254,7 − 205,0 = ₩49,7 Mds
 Écart résultat opérationnel % = 49,7 / 205,0 = 24,2 %
 
-Marge opérationnelle Shinhan = 254,7 / 433,5 = 58,7 %  
-Marge opérationnelle interne = 205,0 / 395,0 = 51,9 %  
+Marge opérationnelle Shinhan = 254,7 / 433,5 = 58,7 %
+Marge opérationnelle interne = 205,0 / 395,0 = 51,9 %
 Écart de marge = 58,7 − 51,9 = 6,9 pts
 
 Observation clé : l'écart sur le résultat opérationnel (24,2 %) est 2,5 fois plus large que l'écart sur le chiffre d'affaires (9,7 %). Cela signifie que le modèle de Shinhan n'est pas un pari sur des volumes d'unités agressifs — c'est un pari sur des **hypothèses de marge agressives**.
@@ -106,7 +106,7 @@ Enseignement clé : **Shinhan suppose un volume plus faible (Q) mais une économ
 
 Si l'on isole les revenus des IP historiques (BDO + EVE) des ₩433,5 Mds totaux de Shinhan, en utilisant la même hypothèse de ₩97,0 Mds que notre modèle, l'ASP implicite de Crimson Desert est la suivante :
 
-Revenus Crimson Desert ≈ 433,5 − 97,0 = ₩336,5 Mds  
+Revenus Crimson Desert ≈ 433,5 − 97,0 = ₩336,5 Mds
 ASP implicite ≈ ₩336,5 Mds / 3,70 M = environ ₩91 000 par unité
 
 Par rapport à notre scénario interne (3,95 M × ₩79 800 + ₩97,0 Mds = ₩412,2 Mds, moins une marge de sécurité de ₩17,2 Mds = ₩395,0 Mds), la reconnaissance de revenu par unité implicite chez Shinhan est supérieure d'environ ₩11 000.
@@ -271,3 +271,7 @@ Cette série s'arrête ici pour l'instant. Le prochain article paraîtra après 
 ---
 
 *Cet article est publié à des fins de recherche et de commentaire uniquement et ne constitue pas un conseil en investissement. Les positions peuvent évoluer sans préavis. Sources : [Rapport Shinhan Securities sur Pearl Abyss](https://www.inven.co.kr/webzine/news/?news=315945&site=crimson), [The Elec](https://www.thelec.kr/news/articleView.html?idxno=55833), [Communiqués officiels de Pearl Abyss](https://www.pearlabyss.com/ko-KR/Board/Report). Données au 29 avril 2026, heure coréenne.*
+
+---
+
+*Disclaimer: For research and information purposes only. Not investment advice. Names cited are for analytical illustration; readers should perform their own due diligence and consult licensed advisors before any investment decision.*

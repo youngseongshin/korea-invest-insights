@@ -111,12 +111,12 @@ Esta es exactamente la asimetría que predice la tesis de revaluación de plataf
 
 **Lecturas bajistas**
 - El CCU está inequívocamente abajo un **-13%.**
-- La positividad de nuevas reseñas al 87,3% — por debajo del pico post-parche de ~95%.
+- La positividad de nuevas reseñas al 87,3% — por debajo del pico post-parche de \~95%.
 - Los rankings de FR / JP / TW / BR se debilitaron aún más.
 
 Las lecturas alcistas apuntan a *lo que realmente trata la tesis* — durabilidad de cola larga, reducción de fricción y conversión de nuevos compradores en mercados centrales. Las lecturas bajistas describen el arco de decaimiento natural de cualquier lanzamiento de paquete AAA. **Ambas pueden ser verdad simultáneamente**, y el encuadre correcto es determinar cuál está sobreponderando el mercado.
 
-Al precio spot de ~₩57.000, la cotización está más cerca del encuadre de "golpe de paquete único" que de "revaluación de plataforma / motor propietario." Los datos de este fin de semana se inclinan hacia el segundo.
+Al precio spot de \~₩57.000, la cotización está más cerca del encuadre de "golpe de paquete único" que de "revaluación de plataforma / motor propietario." Los datos de este fin de semana se inclinan hacia el segundo.
 
 ---
 
@@ -171,4 +171,4 @@ Por ahora, los datos de este fin de semana son **confirmatorios de la tesis, no 
 
 ---
 
-**Aviso legal**: Esta publicación es un comentario de investigación, no asesoramiento de inversión. Pearl Abyss se analiza como parte de la serie de tesis continua del autor. Las posiciones, condiciones y niveles de precio pueden cambiar a medida que lleguen nuevos datos. Haga su propio análisis.
+*Disclaimer: For research and information purposes only. Not investment advice. Names cited are for analytical illustration; readers should perform their own due diligence and consult licensed advisors before any investment decision.*

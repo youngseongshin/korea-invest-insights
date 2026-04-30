@@ -20,7 +20,7 @@ slug: pearl-abyss-shinhan-target-price-gap-analysis-2026-04-29
 series: ["pearl-abyss-crimson-desert-thesis"]
 ---
 
-> 📚 [Pearl Abyss and Crimson Desert investment research hub](/en/page/pearl-abyss-crimson-desert-hub/) collects the full thread: unit sales, Patch 1.04, platform re-rating, KRW 60,000 support, Shinhan's target-price gap, and the CCP/EVE divestiture.
+> 📚 [Pearl Abyss and Crimson Desert investment research hub](/page/pearl-abyss-crimson-desert-hub/) collects the full thread: unit sales, Patch 1.04, platform re-rating, KRW 60,000 support, Shinhan's target-price gap, and the CCP/EVE divestiture.
 
 *This is the closing installment of the series — at least for the run-up to the May 1Q26 earnings release. The most recent prior installments: [Retail → Institutional Handoff at ₩60K](https://koreainvestinsights.com/post/pearl-abyss-60k-new-support-retail-to-institutional-handoff-2026-04-27/), [Post-Patch Weekend Data](https://koreainvestinsights.com/post/pearl-abyss-crimson-desert-post-patch-weekend-data-2026-04-27/), [Platform Re-rating](https://koreainvestinsights.com/post/pearl-abyss-crimson-desert-platform-rerating-2026-04-25/), [Patch 1.04 Witcher Moment](https://koreainvestinsights.com/post/pearl-abyss-crimson-desert-patch-104-witcher-moment-2026-04-23/), [1Q26 Earnings Preview](https://koreainvestinsights.com/post/pearl-abyss-1q26-earnings-preview-2026-04-21/), [Short-Sale Absorption](https://koreainvestinsights.com/post/pearl-abyss-short-sale-absorption-2026-04-21/), [Sell-Side Consensus Gap](https://koreainvestinsights.com/post/pearl-abyss-crimson-desert-consensus-gap-thesis-2026-04-18/), [5M Franchise Re-rating](https://koreainvestinsights.com/post/pearl-abyss-crimson-desert-5m-franchise-thesis-2026-04-15/). This installment dissects where the April 29 Shinhan Securities report (75.6% target-price upgrade) aligns with and diverges from our 1Q26 model — the anatomy of the ₩49.7B operating-profit gap, the meaning of the ₩72,000 target, and our framework through the May earnings release.*
 
@@ -78,14 +78,14 @@ The conclusion is therefore simple. Hold. No new buys. Begin planned scaling-dow
 
 Arithmetic check:
 
-Revenue gap = 433.5 − 395.0 = ₩38.5B  
+Revenue gap = 433.5 − 395.0 = ₩38.5B
 Revenue gap % = 38.5 / 395.0 = 9.7%
 
-Operating profit gap = 254.7 − 205.0 = ₩49.7B  
+Operating profit gap = 254.7 − 205.0 = ₩49.7B
 Operating profit gap % = 49.7 / 205.0 = 24.2%
 
-Shinhan OPM = 254.7 / 433.5 = 58.7%  
-Internal OPM = 205.0 / 395.0 = 51.9%  
+Shinhan OPM = 254.7 / 433.5 = 58.7%
+Internal OPM = 205.0 / 395.0 = 51.9%
 OPM gap = 58.7 − 51.9 = 6.9%p
 
 Key observation: the operating profit gap (24.2%) is 2.5× wider than the revenue gap (9.7%). This means Shinhan's model is not a bet on aggressive unit volume — it is a bet on **aggressive margin assumptions**.
@@ -106,7 +106,7 @@ Key insight: **Shinhan assumes lower volume (Q) but more favorable unit economic
 
 If we back out legacy IP (BDO + EVE) revenue from Shinhan's ₩433.5B total, using the same ₩97.0B assumption as our model, the implied Crimson Desert ASP is as follows:
 
-Crimson Desert revenue ≈ 433.5 − 97.0 = ₩336.5B  
+Crimson Desert revenue ≈ 433.5 − 97.0 = ₩336.5B
 Implied ASP ≈ ₩336.5B / 3.70M = approximately ₩91,000 per unit
 
 Compared with our internal scenario (3.95M × ₩79,800 + ₩97.0B = ₩412.2B, less a ₩17.2B safety margin = ₩395.0B), Shinhan's implied per-unit revenue recognition is approximately ₩11,000 higher.
@@ -270,4 +270,4 @@ This series closes here for now. The next post will come after the May earnings 
 
 ---
 
-*This post is for research and commentary purposes only and does not constitute investment advice. Positions may change without notice. Sources: [Shinhan Securities Pearl Abyss Report](https://www.inven.co.kr/webzine/news/?news=315945&site=crimson), [The Elec](https://www.thelec.kr/news/articleView.html?idxno=55833), [Pearl Abyss Official Press Releases](https://www.pearlabyss.com/ko-KR/Board/Report). Data as of April 29, 2026 KST.*
+*Disclaimer: For research and information purposes only. Not investment advice. Names cited are for analytical illustration; readers should perform their own due diligence and consult licensed advisors before any investment decision.*

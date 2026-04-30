@@ -67,3 +67,7 @@ The question for tomorrow is not whether to turn bullish on Korean equities broa
 April 9 was not a day to chase Korean equities broadly. The market's internal quality — measured by whether genuine leaders are expanding in number and pulling the broader index higher — did not improve. Samsung Electro-Mechanics and SK Telecom demonstrated that pockets of durable strength exist. But until Samsung Electronics re-asserts its anchor role with price recovery and continued institutional accumulation, the KOSPI's recovery lacks a foundation wide enough to support aggressive positioning. The market remains in a selective, leader-first mode. Quality over quantity remains the appropriate framework until the breadth picture clarifies.
 
 *Flow data referenced in this article reflects April 8, 2026 KRX settlement data. Price data is as of April 9, 2026 market close (KST). Ticker symbols reference KRX listings.*
+
+---
+
+*Disclaimer: For research and information purposes only. Not investment advice. Names cited are for analytical illustration; readers should perform their own due diligence and consult licensed advisors before any investment decision.*

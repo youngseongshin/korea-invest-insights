@@ -138,8 +138,8 @@ Samyang Foods has historically traded at a significant premium to the KOSPI cons
 
 **Useful data anchors from recent filings (DART):**
 - FY2025 noodle/snack revenue: ₩2.1556T (+35.9%)
-- Q1 2025 consolidated operating margin: ~25.3%
-- 9M 2025 consolidated operating profit: ₩385B on ₩1.714T revenue (~22.5% margin)
+- Q1 2025 consolidated operating margin: \~25.3%
+- 9M 2025 consolidated operating profit: ₩385B on ₩1.714T revenue (\~22.5% margin)
 
 As of the latest annual report (FY2025), the fundamental trajectory remains intact. Whether the current market price already discounts that trajectory is a question each investor must answer relative to their own return requirements and time horizon.
 
@@ -182,7 +182,7 @@ This analysis does not make investment recommendations. What the data shows is a
 Samyang Foods (003230.KS) trades on the Korea Exchange (KOSPI). Most international brokers with Korean equity access can facilitate purchase. There is no US-listed ADR. For passive exposure, check the holdings of Korean equity and Asia consumer ETFs.
 
 **What is the Buldak brand worth to Samyang?**
-Based on FY2025 data, overseas noodle/snack exports — the vast majority of which are Buldak-driven — reached ₩1.8239 trillion. The Buldak brand is not separately valued in company filings, but it is effectively the engine behind ~84% of the noodle/snack segment's revenue. It is, in practical terms, Samyang's primary asset.
+Based on FY2025 data, overseas noodle/snack exports — the vast majority of which are Buldak-driven — reached ₩1.8239 trillion. The Buldak brand is not separately valued in company filings, but it is effectively the engine behind \~84% of the noodle/snack segment's revenue. It is, in practical terms, Samyang's primary asset.
 
 ---
 
@@ -196,4 +196,6 @@ The risks are real: China exposure, single-brand dependency, and execution on th
 
 *All financial data sourced from Samyang Foods official filings on DART (dart.fss.or.kr), including the FY2025 사업보고서 (제65기) and quarterly reports for 2025. News references from Yonhap News Agency (March 2026) and Korea Securities Newspaper (한국증권신문).*
 
-*This analysis is for informational purposes only and does not constitute investment advice. Investing in foreign-listed equities involves currency risk, geopolitical risk, and regulatory risk not present in domestic equity markets. Past financial performance does not guarantee future results. Consult a licensed financial advisor before making investment decisions.*
+---
+
+*Disclaimer: For research and information purposes only. Not investment advice. Names cited are for analytical illustration; readers should perform their own due diligence and consult licensed advisors before any investment decision.*

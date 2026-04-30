@@ -57,11 +57,11 @@ draft: false
 
 | 地区 | 营收占比（约） |
 |---|---|
-| 北美 | ~30% |
-| 欧洲 | ~20% |
-| 韩国本土 | ~15% |
-| 印度及新兴亚洲 | ~12% |
-| 其他地区 | ~23% |
+| 北美 | \~30% |
+| 欧洲 | \~20% |
+| 韩国本土 | \~15% |
+| 印度及新兴亚洲 | \~12% |
+| 其他地区 | \~23% |
 
 美国和欧洲的高权重至关重要：这是起亚利润率最高的市场。北美表现尤为强劲，主要得益于 Telluride（一款定价远超品牌均价的大型高端 SUV）以及电动车阵容的持续扩张。
 
@@ -121,11 +121,11 @@ draft: false
 
 | 指标 | Kia (000270.KS) | 全球同行均值* |
 |---|---|---|
-| 滚动市盈率 | ~5–6x | ~10–15x |
-| 预期市盈率 | ~5–7x | ~9–12x |
-| 市净率 | ~0.8–1.0x | ~1.5–2.5x |
-| EV/EBITDA | ~3–4x | ~6–8x |
-| 股息收益率 | ~3–5% | ~2–3% |
+| 滚动市盈率 | \~5–6x | \~10–15x |
+| 预期市盈率 | \~5–7x | \~9–12x |
+| 市净率 | \~0.8–1.0x | \~1.5–2.5x |
+| EV/EBITDA | \~3–4x | \~6–8x |
+| 股息收益率 | \~3–5% | \~2–3% |
 
 *全球同行包括 Toyota、Stellantis、GM、Ford、Volkswagen Group
 
@@ -195,4 +195,4 @@ draft: false
 
 ---
 
-*本文仅供参考，不构成投资建议。所有财务数据均来源于截至最新报告期的公开申报文件及市场数据。历史业绩及当前估值指标不代表未来表现。投资者应独立进行研究，并在做出投资决策前咨询具备相应资质的财务顾问。*
+*Disclaimer: For research and information purposes only. Not investment advice. Names cited are for analytical illustration; readers should perform their own due diligence and consult licensed advisors before any investment decision.*

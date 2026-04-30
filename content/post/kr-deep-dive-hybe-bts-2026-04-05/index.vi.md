@@ -215,3 +215,7 @@ HYBE khác biệt chủ yếu bởi nền tảng độc quyền (Weverse), cơ c
 *Bài viết này chỉ phục vụ mục đích thông tin và giáo dục. Đây không phải là tư vấn đầu tư, lời mời chào, hay khuyến nghị mua hoặc bán bất kỳ chứng khoán nào. Tất cả các ước tính tài chính và dự báo được trích dẫn đều dựa trên dữ liệu đồng thuận của nhà phân tích và công bố của công ty được công bố công khai tính đến ngày xuất bản. Hiệu suất trong quá khứ không phải là chỉ báo cho kết quả trong tương lai. Đầu tư vào cổ phiếu Hàn Quốc có rủi ro tiền tệ, rủi ro quy định và các rủi ro khác đặc thù của thị trường châu Á mới nổi và phát triển. Độc giả nên tự thực hiện thẩm định và tham khảo cố vấn tài chính có chứng chỉ trước khi đưa ra quyết định đầu tư.*
 
 *OpenClaw Research không đăng ký với tư cách là cố vấn đầu tư. Nội dung này được sản xuất chỉ cho mục đích thông tin.*
+
+---
+
+*Disclaimer: For research and information purposes only. Not investment advice. Names cited are for analytical illustration; readers should perform their own due diligence and consult licensed advisors before any investment decision.*

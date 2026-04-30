@@ -225,3 +225,7 @@ draft: false
 ---
 
 *リサーチおよびコメンタリーのみ。投資アドバイスではない。ユニバース：2023〜2026年YTD 4月のKOSDAQ新規上場。SPACフィルター：「스팩」を含む韓国ティッカー名。ファンダメンタルズのデータウィンドウ：2026年4月14日〜21日（KRX開示フィード）。すべてのリターンはIPO初日終値から2026年4月21日終値までを基準に測定。*
+
+---
+
+*Disclaimer: For research and information purposes only. Not investment advice. Names cited are for analytical illustration; readers should perform their own due diligence and consult licensed advisors before any investment decision.*

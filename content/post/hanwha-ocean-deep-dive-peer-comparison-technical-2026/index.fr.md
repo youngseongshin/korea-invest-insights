@@ -33,13 +33,13 @@ Structure fin 2025 :
 
 | Segment | Chiffre d'affaires | Notes |
 |---------|---------|-------|
-| Navires commerciaux | ~10,5 T KRW | Part dominante |
-| Offshore/Navires spéciaux | ~0,83 T KRW | Part réduite mais stratégiquement critique |
+| Navires commerciaux | \~10,5 T KRW | Part dominante |
+| Offshore/Navires spéciaux | \~0,83 T KRW | Part réduite mais stratégiquement critique |
 
 | Segment | Carnet de commandes |
 |---------|--------------|
-| Navires commerciaux | ~26,0 T KRW |
-| Offshore/Navires spéciaux | ~6,3 T KRW |
+| Navires commerciaux | \~26,0 T KRW |
+| Offshore/Navires spéciaux | \~6,3 T KRW |
 
 Cette structure est essentielle : **les résultats actuels sont portés par les navires commerciaux, tandis que les multiples sont tirés vers le haut par l'optionnalité navires spéciaux/défense**.
 
@@ -54,8 +54,8 @@ Cette structure est essentielle : **les résultats actuels sont portés par les 
 | Chiffre d'affaires | 3,23 T KRW |
 | Résultat opérationnel | 189,0 Mds KRW |
 | Marge opérationnelle affichée | 5,9 % |
-| Coûts exceptionnels | ~-240 Mds KRW (primes, coûts navires spéciaux) |
-| Marge opérationnelle normalisée (est.) | ~13 % |
+| Coûts exceptionnels | \~-240 Mds KRW (primes, coûts navires spéciaux) |
+| Marge opérationnelle normalisée (est.) | \~13 % |
 
 ### Interprétation
 
@@ -280,3 +280,7 @@ Le graphique de Hanwha Ocean reflète actuellement un état où **la tendance lo
 ---
 
 *Avertissement : Cette analyse est fournie à titre informatif uniquement et ne constitue pas un conseil en investissement. Les performances passées ne garantissent pas les résultats futurs. Effectuez toujours votre propre analyse approfondie avant de prendre toute décision d'investissement.*
+
+---
+
+*Disclaimer: For research and information purposes only. Not investment advice. Names cited are for analytical illustration; readers should perform their own due diligence and consult licensed advisors before any investment decision.*

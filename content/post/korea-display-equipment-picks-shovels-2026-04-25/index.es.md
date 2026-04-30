@@ -35,7 +35,7 @@ Un artículo del Korea Economic Daily muy citado (21 de abril de 2026) enmarca l
 | BOE bloqueado del comercio con el DoD de EE.UU. a finales de junio | **Parcialmente verdadero / desactualizado** | La prohibición directa 1260H entra en vigor el 30 de junio de 2026; la prohibición indirecta desde 2027. **BOE no está actualmente en la lista.** Alibaba/BYD fueron añadidos brevemente en febrero de 2026 y luego eliminados rápidamente — la inclusión en la lista es una variable política |
 | OLED del iPhone 18 / MacBook Pro de Apple desplazándose a fabricantes coreanos | **Verdadero** | Enero 2026: problemas de calidad de BOE activaron pedidos urgentes a Samsung Display |
 | Envíos de módulos de paneles Tianan/Asan → Vietnam +19% interanual | **Verdadero** | Confirmado en informes de fuentes |
-| CapEx 8.6G en China (BOE B16 ~13T KRW, Visionox V5 ~10,4T KRW) | **Verdadero** | Objetivos de lanzamiento 2026, pedidos de equipos en curso |
+| CapEx 8.6G en China (BOE B16 \~13T KRW, Visionox V5 \~10,4T KRW) | **Verdadero** | Objetivos de lanzamiento 2026, pedidos de equipos en curso |
 
 **Nivel de confianza: medio-alto.** La historia de primer orden (BOE presionado, Corea se beneficia) es real. La parte sobre la aplicación inminente de la 1260H es **un evento político sin resolver**. Tratarla como caso base introduce riesgo narrativo.
 
@@ -43,7 +43,7 @@ Un artículo del Korea Economic Daily muy citado (21 de abril de 2026) enmarca l
 
 El enfoque de "comprar fabricantes de paneles coreanos" tiene un defecto fatal para los inversores que buscan exposición tanto **semiconductora** como de **displays** en un solo nombre:
 
-- **Samsung Display no cotiza en bolsa.** Se puede comprar Samsung Electronics (005930), pero los displays representan ~10% de los ingresos y quedan diluidos por los negocios de memoria y fundición, mucho más grandes.
+- **Samsung Display no cotiza en bolsa.** Se puede comprar Samsung Electronics (005930), pero los displays representan \~10% de los ingresos y quedan diluidos por los negocios de memoria y fundición, mucho más grandes.
 - **LG Display (034220) es un fabricante de paneles puro** — sin ninguna exposición semiconductora. Así que aunque se beneficia del desplazamiento de BOE, no cabalga el ciclo HBM que corre en paralelo.
 
 Para capturar ambos ciclos en un solo ticker, hay que bajar a la **capa de equipos y materiales**. Y ahí es donde vive la historia de segundo orden.
@@ -85,7 +85,7 @@ El sell-side ha modelado el desplazamiento de paneles de BOE a Samsung Display. 
 
 ## Parte 4 — AP System (265520) en Profundidad
 
-> Acción ₩24.150 | Capitalización ~₩363,5B | PER TTM 15,4x | Propiedad extranjera 16,80% | A fecha de 2026-04-25
+> Acción ₩24.150 | Capitalización \~₩363,5B | PER TTM 15,4x | Propiedad extranjera 16,80% | A fecha de 2026-04-25
 
 ### Qué hace realmente
 
@@ -110,8 +110,8 @@ Por tanto, el encuadre más preciso es: **AP System está más directamente expu
 | Métrica | 2022 | 2023 | 2024 (est.) | 2025E (base acumulada 3T) |
 |---|---|---|---|---|
 | Ingresos (₩B) | 4.966 | 5.336 (+9,7%) | 4.850-5.164 | -6,9% interanual acumulado |
-| BI (₩B) | 905 | 601 (-33,6%) | ~462-487 | -30,7% interanual acumulado |
-| Margen operativo | 18,2% | 11,3% | ~9,2% | 8-10% est. |
+| BI (₩B) | 905 | 601 (-33,6%) | \~462-487 | -30,7% interanual acumulado |
+| Margen operativo | 18,2% | 11,3% | \~9,2% | 8-10% est. |
 | Caja neta (₩B) | — | — | 1.000+ | 1.000+ est. |
 
 Los márgenes alcanzaron su máximo del 18,2% en 2022. El fondo del ciclo actual es 2025. La inflexión en la recuperación llegará cuando **los ingresos procedentes de pedidos 8.6G comiencen a reconocerse — segundo semestre de 2026 a 2027.** "Comprar en la caída" en el mínimo de la curva en J es teóricamente correcto, pero la caída debe ser confirmada por la trayectoria trimestral, no solo por el precio.
@@ -195,4 +195,4 @@ Tratar el láser HBM como **opcionalidad, no como tesis central.** El plan de co
 
 ---
 
-_Este artículo es la primera entrega de la serie Display Equipment Thesis 2026. Se conecta con la tesis macro de Superación de Corea 2026 (marco macroeconómico) y la serie de Cambio Estructural en KOSDAQ 2026 (filtros micro). Nada aquí constituye asesoramiento de inversión; todas las estimaciones están sujetas a rangos dependientes de supuestos. Fuentes: presentaciones DART, FnGuide, Diylek, KIPOST, informes de brokers (Shinhan, NH, Korea IR Council), comunicados corporativos públicos._
+*Disclaimer: For research and information purposes only. Not investment advice. Names cited are for analytical illustration; readers should perform their own due diligence and consult licensed advisors before any investment decision.*

@@ -41,7 +41,7 @@ The consensus comparison doc treats one-axis prism (CXL substitutability) as the
 |---|---|---|
 | 2025 results | Not stated explicitly | **Revenue KRW 63.9B (-39.3% YoY), operating profit KRW 4.1B (-75.3% YoY), OPM 6.4%** — a meaningful self-cycle slowdown |
 | Advantest SSD ATE exit | Not mentioned | **Advantest withdrew from SSD ATE in Jan 2025 → Gen5/Gen6 SSD Tester is effectively a sole-source structure for Neosem** |
-| Nov 2025 IR guidance | Not mentioned | **Order momentum surged from late August. Sep-Nov bookings ran ~2x the Jan-Aug pace. Company guides to all-time-high 2026 results** |
+| Nov 2025 IR guidance | Not mentioned | **Order momentum surged from late August. Sep-Nov bookings ran \~2x the Jan-Aug pace. Company guides to all-time-high 2026 results** |
 | HBM back-end entry | Not mentioned | **HBM-dedicated BX burn-in tester is "under consideration" only — Techwing and Advantest have already moved. Late-mover risk** |
 
 ### 1-2. Exicon (092870 KQ)
@@ -52,7 +52,7 @@ The consensus comparison doc treats one-axis prism (CXL substitutability) as the
 | CLT sole supply | Not mentioned | **Samsung cleared final CLT qualification in late 2024; single supplier of LF tester from 2025** — much more concrete than the comp's vague "Samsung partnership" framing |
 | Cumulative orders (Oct 2025-Mar 2026) | Not mentioned | **KRW 48.8B (CLT/Burn-in) + KRW 30.2B (SSD/CLT integrated) ≈ KRW 79B — about 2.5x of 2024 revenue, in five months of bookings** |
 | 2026 guidance | "Afterthought until Samsung CXL CapEx confirmed" | **Company guides to first KRW 100B+ revenue year and full swing-to-profit in 2026** |
-| CLT technology edge | Not mentioned | **11,520-parallel processing (vs ~500-parallel legacy), at least a 2-year technology lead vs competitors** |
+| CLT technology edge | Not mentioned | **11,520-parallel processing (vs \~500-parallel legacy), at least a 2-year technology lead vs competitors** |
 
 If you fold these in, Exicon stops being a "Samsung-CXL-dependent afterthought" and becomes "single-source CLT supplier entering its J-curve." The consensus comp's conclusion needs partial correction.
 
@@ -61,7 +61,7 @@ If you fold these in, Exicon stops being a "Samsung-CXL-dependent afterthought" 
 | Item | Consensus comp | SemiScope addition |
 |---|---|---|
 | 2024-2025 results | "Deepest moat but low CXL revenue visibility" | **2024 revenue -21.8%, operating loss KRW -24.3B (loss widened); 3Q YTD 2025 cumulative loss KRW -21.3B** — the "long-dated option" framing should be read more conservatively |
-| License ASP | Not mentioned | **Avg ~$1.1M per deal, up sharply from prior quarter ~$0.7M — leading-node IP mix expanding** |
+| License ASP | Not mentioned | **Avg \~$1.1M per deal, up sharply from prior quarter \~$0.7M — leading-node IP mix expanding** |
 | LPDDR6 + Samsung 4nm | Not mentioned | **Core new IP under multi-customer engagement in 2025** |
 | UCIe IP | "Under development" | **Controller IP development complete and in validation; PHY in design start** — more specific stage than the comp implies |
 | Royalty revenue | "Low CXL visibility" | **1H 2025 royalty mix 0.4% (KRW 0.029B) — given the lag from license to volume, the J-curve inflection point likely sits in 2026-2027 or later** |
@@ -106,7 +106,7 @@ The framing collapses time horizons. Disaggregated:
 | Item | Neosem | Exicon | OpenEdge |
 |---|---:|---:|---:|
 | 2024 revenue (KRW B) | 105.2 | 31.6 | 15.3 |
-| 2025E revenue (KRW B, prelim) | **63.9** (-39.3%) | ~60-70 (rebounding) | Wide range (Shinhan KRW 40.4B vs KI conservative) |
+| 2025E revenue (KRW B, prelim) | **63.9** (-39.3%) | \~60-70 (rebounding) | Wide range (Shinhan KRW 40.4B vs KI conservative) |
 | 2024 OP (KRW B) | 16.5 | **-15.9** | **-24.3** |
 | 2025E OP | **4.1** (prelim) | Swing-to-profit attempt (1H -8.6) | Sustained loss (3Q YTD -21.3) |
 | 2026E guidance | "All-time-high revenue" | "KRW 100B+ revenue, swing to profit" | BEP (Korea Investment model) |
@@ -203,7 +203,7 @@ The consensus comp ranks the three names through a single prism — CXL substitu
 
 - Core products: CLT (Chambered Low-frequency memory Tester) at 11,520 parallel — next-gen DRAM stability tester; Gen5 SSD Tester (Samsung-supplied); Burn-in Tester; CXL 2.0 Tester; non-memory testers (SoC / CIS / DDI).
 - Margins / track record: 2024 revenue KRW 31.6B / operating loss KRW -15.9B (loss-making). 1H 2025 cumulative operating loss KRW -8.6B. Cumulative new orders Oct 2025 - Mar 2026 ≈ KRW 79B (CLT / Burn-in / SSD). Both company and sell-side guide to first **KRW 100B+ revenue year + full swing-to-profit in 2026**.
-- Technology moat: CLT 11,520-parallel processing (~20x prior-gen 500-parallel). Samsung final qualification cleared in late 2024, sole supplier of LF tester since 2025; estimated technology lead at least 2 years vs competitors.
+- Technology moat: CLT 11,520-parallel processing (\~20x prior-gen 500-parallel). Samsung final qualification cleared in late 2024, sole supplier of LF tester since 2025; estimated technology lead at least 2 years vs competitors.
 - Investment view: **Event-driven turnaround cycle name.** Exited the 2024 trough via single-source CLT and large-order J-curve entry. **Highest exposure to Samsung DRAM CapEx among Korean back-end ATE names.**
 
 ### Customer landscape
@@ -211,7 +211,7 @@ The consensus comp ranks the three names through a single prism — CXL substitu
 | Stage | Customer | Product / process | Status |
 |---|---|---|---|
 | Production | Samsung | **CLT (DRAM LF tester, sole supplier)** | In production. KRW 20.4B + KRW 19.6B + KRW 8.8B = KRW 48.8B total disclosed in Oct-Nov 2025 |
-| Production | Samsung | **CLT + SSD Tester combined supply** | Additional KRW 30.2B disclosed in Mar 2026 (~95.5% of latest reported revenue) |
+| Production | Samsung | **CLT + SSD Tester combined supply** | Additional KRW 30.2B disclosed in Mar 2026 (\~95.5% of latest reported revenue) |
 | Production | Samsung | Gen5 SSD Tester | In volume |
 | Production | Samsung | Burn-in Tester | In volume |
 | In progress | Samsung | **CXL 2.0 Tester (Neosem dual-source potential)** | In development + adoption push |
@@ -221,8 +221,8 @@ The consensus comp ranks the three names through a single prism — CXL substitu
 
 ### Quantum-jump triggers
 
-- **Trigger #1 — CLT volume cycle entry + 20+ cumulative installs.** Per company guidance, hitting ~20 cumulative CLT installs at Samsung DRAM lines in 2026 supports KRW 100B+ revenue. 2024 revenue KRW 31.6B → 2026 KRW 100B+ implies ~3.2x topline + swing-to-profit.
-- **Trigger #2 — CXL 3.1 dual-vendor entry.** If Samsung adopts a dual-sourcing policy on CXL 3.1, Exicon could capture ~50% of equipment supply alongside Neosem. CXL ASP runs ~2-3x SSD Tester levels, implying meaningful incremental revenue.
+- **Trigger #1 — CLT volume cycle entry + 20+ cumulative installs.** Per company guidance, hitting \~20 cumulative CLT installs at Samsung DRAM lines in 2026 supports KRW 100B+ revenue. 2024 revenue KRW 31.6B → 2026 KRW 100B+ implies \~3.2x topline + swing-to-profit.
+- **Trigger #2 — CXL 3.1 dual-vendor entry.** If Samsung adopts a dual-sourcing policy on CXL 3.1, Exicon could capture \~50% of equipment supply alongside Neosem. CXL ASP runs \~2-3x SSD Tester levels, implying meaningful incremental revenue.
 - **Trigger #3 — Gen6 SSD Tester R&D → volume.** R&D-line Gen6 SSD Tester supply could materialize in 2026, with volume entry in 2027. Risk: Neosem retains pole position given Advantest exit.
 - **Trigger #4 — Non-memory (SoC / AP / DDI) tester volume recognition.** CIS-tester-derived DDI / AP testers winning a Samsung S.LSI or external fabless design-in would meaningfully de-risk the cycle dependency.
 
@@ -235,7 +235,7 @@ The consensus comp ranks the three names through a single prism — CXL substitu
 ### Five checkpoints for the next 1-2 quarters
 
 1. **1Q26 print — magnitude of the swing to profit.** How much of the KRW 79B order book recognizes as revenue and operating profit. The cleanest stability check.
-2. **Cumulative CLT install count for 2026.** Company guides to ~20 units. Quarterly tracking of whether installs follow the trajectory.
+2. **Cumulative CLT install count for 2026.** Company guides to \~20 units. Quarterly tracking of whether installs follow the trajectory.
 3. **CXL 3.1 Tester Samsung qualification disclosure timing.** Most likely 1H 2026. Pass = dual-source seat secured. Miss = no CXL-cycle participation.
 4. **HBM-line entry for inspection equipment.** Whether HBM4E back-end-validation burden flows into CLT / Burn-in demand. A formal HBM-spec disclosure from the company would be the meaningful signal.
 5. **Non-memory (DDI / AP) tester revenue disclosure.** A separate disclosure with the line item exceeding 10% of revenue is the quantitative diversification signal.

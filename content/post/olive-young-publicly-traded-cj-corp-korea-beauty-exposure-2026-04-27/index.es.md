@@ -10,7 +10,7 @@ tags: ["olive-young", "cj-olive-young", "cj-corporation", "000120", "cj-cheiljed
 ## Resumen
 
 - **Olive Young no cotiza en bolsa.** Es una filial privada del Grupo CJ, formalmente denominada **CJ Olive Young Corp.**, que se escindió de CJ Olive Networks en 2019.
-- El **proxy indirecto** más limpio es **CJ Corporation (000120.KS)** — la sociedad holding que posee aproximadamente el **51,2%** de CJ Olive Young. La familia Lee (los hijos del presidente Lee Jay-hyun) controla otro **~22%** de forma directa, siendo el resto propiedad de inversores financieros tras una ronda pre-OPI en 2021.
+- El **proxy indirecto** más limpio es **CJ Corporation (000120.KS)** — la sociedad holding que posee aproximadamente el **51,2%** de CJ Olive Young. La familia Lee (los hijos del presidente Lee Jay-hyun) controla otro **\~22%** de forma directa, siendo el resto propiedad de inversores financieros tras una ronda pre-OPI en 2021.
 - **CJ CheilJedang (097950.KS) no es una apuesta directa sobre Olive Young.** Es el negocio de alimentación y biotecnología del grupo (Bibigo, lisina, metionina). El vínculo es "mismo grupo, entidad cotizada distinta."
 - **La OPI de Olive Young ha sido postergada al menos dos veces** (cancelada en 2022; revisión estratégica posterior). A abril de 2026, no hay fecha de cotización confirmada.
 - Para inversores que buscan **exposición real a K-beauty** (en lugar de una participación descontada vía holding), los nombres cotizados con mayor alineación son **AmorePacific, LG H&H, Cosmax, Kolmar Korea** y especialistas seleccionados en ODM/marca. El marco completo se detalla a continuación.
@@ -58,9 +58,9 @@ CJ Corporation es la sociedad holding cotizada que encabeza el Grupo CJ. Su part
 
 | Accionista | Participación (aprox.) |
 |---|---:|
-| CJ Corporation (000120.KS) | **~51,2%** |
-| Lee Sun-ho (hijo del presidente) | ~11,0% |
-| Lee Kyung-hoo (hija del presidente) | ~4,6% |
+| CJ Corporation (000120.KS) | **\~51,2%** |
+| Lee Sun-ho (hijo del presidente) | \~11,0% |
+| Lee Kyung-hoo (hija del presidente) | \~4,6% |
 | Glenwood / inversores financieros coreanos (ronda pre-OPI 2021) | saldo, con operaciones secundarias desde entonces |
 
 (Los porcentajes de participación corresponden a niveles reportados y han variado con cada evento de capital; el dato estructural — CJ Corp mayoritario + familia Lee significativa + flotante de inversores financieros — permanece estable.)
@@ -101,7 +101,7 @@ CJ CheilJedang (097950.KS) es la filial del Grupo CJ más buscada en inglés, en
 |---|---|---|---|
 | ¿Cotiza? | Sí (000120.KS) | Sí (097950.KS) | **No** |
 | Negocio | Holding | Alimentación / biotecnología | Retail H&B + marca |
-| Participación directa en OY | ~51,2% | Ninguna operativa | — |
+| Participación directa en OY | \~51,2% | Ninguna operativa | — |
 | ¿Útil para exposición a OY? | **Sí (indirectamente)** | **No** | — |
 
 Si algún resultado de búsqueda sugiere "compra CJ CheilJedang para obtener exposición a Olive Young", es incorrecto. CheilJedang es una empresa de alimentación y biociencia con su propia tesis de inversión (precio de la lisina, Bibigo en EE.UU., ciclo de metionina).
@@ -121,7 +121,7 @@ Una cronología resumida:
 **Por qué el retraso importa para los inversores**
 
 1. **La valoración probablemente ha aumentado.** La marca pre-OPI de 2021 de ₩1,5–1,8 billones ha quedado obsoleta. Cada año adicional de crecimiento de ingresos a doble dígito más expansión de márgenes eleva la valoración implícita de OPI, lo que amplía el NAV de CJ Corp — pero solo se materializa si el mercado reclasifica al alza el holding.
-2. **La titularidad de la generación sucesora importa.** La participación personal de ~11% de Lee Sun-ho no es trivial. Cualquier OPI futura más una venta secundaria posterior crea una vía para la **cristalización del patrimonio familiar**, lo que constituye un incentivo estructural para que el Grupo CJ impulse la cotización en algún momento.
+2. **La titularidad de la generación sucesora importa.** La participación personal de \~11% de Lee Sun-ho no es trivial. Cualquier OPI futura más una venta secundaria posterior crea una vía para la **cristalización del patrimonio familiar**, lo que constituye un incentivo estructural para que el Grupo CJ impulse la cotización en algún momento.
 3. **El contexto del Korea Value-Up.** Con la reforma de gobierno corporativo en Corea y la historia más amplia de reclasificación al alza de 2026 (fortaleza del KOSPI en lo que va de año, compresión del descuento de holdings), la **ventana para la OPI de Olive Young ha mejorado materialmente** frente al entorno de 2022.
 
 **Implicación:** la forma correcta de interpretar CJ Corp hoy es como **"un holding que posee un activo joya aún por salir a bolsa, aproximadamente un 50% más grande y estructuralmente mejor posicionado que en el último intento fallido de OPI."**
@@ -244,7 +244,7 @@ Por ahora, la respuesta más clara para quien busca en inglés es la misma con l
 
 ### [Especulación]
 
-- La participación directa de ~11% de Lee Sun-ho en CJ Olive Young es un incentivo estructural para que la familia / el grupo monetice eventualmente mediante OPI + secundaria.
+- La participación directa de \~11% de Lee Sun-ho en CJ Olive Young es un incentivo estructural para que la familia / el grupo monetice eventualmente mediante OPI + secundaria.
 - Una OPI exitosa de Olive Young a una valoración significativamente superior a la de 2022 podría desencadenar una compresión del descuento de holding en CJ Corp más allá de lo que justificaría por sí sola la matemática fundamental del NAV.
 
 ### [Sin confirmar]
@@ -255,4 +255,4 @@ Por ahora, la respuesta más clara para quien busca en inglés es la misma con l
 
 ---
 
-**Aviso legal**: Esta publicación es comentario de investigación, no asesoramiento de inversión. Los porcentajes de participación y los detalles de la estructura de capital se basan en niveles públicamente reportados y pueden haber variado con eventos de capital posteriores. Los tickers citados son ilustrativos para el marco de exposición a K-beauty, no constituyen recomendaciones. Realiza tu propia diligencia debida y consulta a asesores autorizados antes de tomar cualquier decisión de inversión.
+*Disclaimer: For research and information purposes only. Not investment advice. Names cited are for analytical illustration; readers should perform their own due diligence and consult licensed advisors before any investment decision.*

@@ -30,7 +30,7 @@ from abroad?"*, this deep-dive unpacks the full picture.
 | **Ticker** | 005380.KS |
 | **Exchange** | KOSPI (Korea Stock Exchange) |
 | **Sector** | Consumer Discretionary — Automobiles |
-| **Market Cap (approx.)** | ~KRW 40–45 trillion (~USD 29–33B as of latest trading) |
+| **Market Cap (approx.)** | \~KRW 40–45 trillion (\~USD 29–33B as of latest trading) |
 | **Fiscal Year End** | December 31 |
 | **Primary IR / DART** | [dart.fss.or.kr](https://dart.fss.or.kr) / [ir.hyundai.com](https://ir.hyundai.com) |
 
@@ -66,13 +66,13 @@ its most profitable market.
 
 ### Competitive Moat vs. Global Peers
 
-| OEM | EV Platform | Luxury Brand | ~Trailing P/E | Dividend Yield |
+| OEM | EV Platform | Luxury Brand | \~Trailing P/E | Dividend Yield |
 |---|---|---|---|---|
-| **Hyundai Motor** | E-GMP (800V) | Genesis | ~5–6x | ~3% |
-| Toyota | bZ / TNGA-EV | Lexus | ~9–11x | ~2.5% |
-| Volkswagen | MEB / PPE | Audi, Porsche | ~5–7x | ~4% |
-| General Motors | Ultium | Cadillac | ~5–7x | ~1% |
-| Stellantis | STLA Medium/Large | Maserati, Alfa | ~4–6x | ~5% |
+| **Hyundai Motor** | E-GMP (800V) | Genesis | \~5–6x | \~3% |
+| Toyota | bZ / TNGA-EV | Lexus | \~9–11x | \~2.5% |
+| Volkswagen | MEB / PPE | Audi, Porsche | \~5–7x | \~4% |
+| General Motors | Ultium | Cadillac | \~5–7x | \~1% |
+| Stellantis | STLA Medium/Large | Maserati, Alfa | \~4–6x | \~5% |
 
 Hyundai trades *in line* with the cheapest Western OEMs — despite having a
 meaningfully stronger EV pipeline, a faster-growing luxury segment, and
@@ -93,7 +93,7 @@ parts/service businesses.
 
 According to the company's FY2023 annual report filed on DART
 (dart.fss.or.kr), Hyundai Motor reported consolidated revenue of approximately
-**KRW 162.7 trillion** (up ~14% year-on-year), with operating profit of
+**KRW 162.7 trillion** (up \~14% year-on-year), with operating profit of
 **KRW 15.1 trillion** — a record high and an operating margin of approximately
 **9.3%**. Net income attributable to shareholders came in at roughly **KRW
 12.3 trillion**.
@@ -102,11 +102,11 @@ According to the company's FY2023 annual report filed on DART
 
 | Region | Share of Revenue (Est.) |
 |---|---|
-| North America | ~30% |
-| Korea (domestic) | ~22% |
-| Europe | ~19% |
-| Other Asia / India | ~15% |
-| Rest of World | ~14% |
+| North America | \~30% |
+| Korea (domestic) | \~22% |
+| Europe | \~19% |
+| Other Asia / India | \~15% |
+| Rest of World | \~14% |
 
 The United States is the most important single market by profitability — not
 just volume. Genesis vehicles sold in the US carry average transaction prices
@@ -114,12 +114,12 @@ well above USD 60,000, compared to roughly USD 35,000–40,000 for mainstream
 Hyundai models.
 
 **By business line:**
-- **Vehicle sales** (~85–87% of revenue): The core engine. Globally, Hyundai
+- **Vehicle sales** (\~85–87% of revenue): The core engine. Globally, Hyundai
   sold approximately 4.21 million units in FY2023 under the Hyundai and Genesis
   nameplates.
-- **Financial services** (~8–10%): HCA and global captive finance arms. Growing
+- **Financial services** (\~8–10%): HCA and global captive finance arms. Growing
   alongside EV lease penetration in the US.
-- **Parts & other** (~3–5%): Aftersales, components, robotics (Boston Dynamics
+- **Parts & other** (\~3–5%): Aftersales, components, robotics (Boston Dynamics
   is majority-owned by the group).
 
 ### Key Growth Drivers for the Next 12–24 Months
@@ -187,7 +187,7 @@ corporate governance concerns, chaebol structure complexity, and index
 accessibility friction. The Korean government's ongoing "Corporate Value-Up"
 initiative — modeled on Japan's similar push — is explicitly targeting P/B
 expansion among KOSPI large-caps. Hyundai, trading at approximately **0.5–
-0.7x book value** vs. Toyota at ~1.5x and BMW at ~0.8x, is a prime candidate
+0.7x book value** vs. Toyota at \~1.5x and BMW at \~0.8x, is a prime candidate
 for multiple re-rating if governance and capital return commitments improve.
 The company has already announced enhanced shareholder return programs,
 including buybacks, in recent annual reports.
@@ -239,14 +239,14 @@ of writing, Hyundai Motor trades at approximately:
 
 | Metric | Hyundai Motor | Toyota | GM | Ford | VW |
 |---|---|---|---|---|---|
-| **Trailing P/E** | ~5–6x | ~9–11x | ~5–7x | ~8–10x | ~5–7x |
-| **P/B** | ~0.5–0.7x | ~1.5x | ~1.1x | ~1.0x | ~0.7x |
-| **EV/EBITDA** | ~3–4x | ~8–10x | ~4–5x | ~4–6x | ~4–5x |
-| **Dividend Yield** | ~2.5–3.5% | ~2–3% | ~1% | ~5% | ~4–6% |
+| **Trailing P/E** | \~5–6x | \~9–11x | \~5–7x | \~8–10x | \~5–7x |
+| **P/B** | \~0.5–0.7x | \~1.5x | \~1.1x | \~1.0x | \~0.7x |
+| **EV/EBITDA** | \~3–4x | \~8–10x | \~4–5x | \~4–6x | \~4–5x |
+| **Dividend Yield** | \~2.5–3.5% | \~2–3% | \~1% | \~5% | \~4–6% |
 
 The discount to Toyota is especially striking given that:
-- Hyundai's FY2023 operating margin (~9.3%) actually *exceeded* Toyota's
-  (~8–9%) for the first time in history.
+- Hyundai's FY2023 operating margin (\~9.3%) actually *exceeded* Toyota's
+  (\~8–9%) for the first time in history.
 - Hyundai's EV product lineup is arguably more competitive than Toyota's
   current offerings (Toyota has lagged on BEV execution relative to its
   earlier hybrid dominance).
@@ -382,3 +382,7 @@ The post is ~2,300 words and covers all seven required sections. A few notes on 
 - **Valuation multiples** (5–6x P/E, 0.5–0.7x P/B) are approximate and flagged as such; readers are directed to DART and KRX for current data.
 - The **HMGMA Georgia plant** and **IRA credit eligibility** are confirmed public information from Hyundai IR.
 - No DB access was used — all figures are from training knowledge on published filings. If you want me to query the local `screener_kr.db` for live price/flow data to update the numbers, just approve the Bash/sqlite3 tool and I'll pull the latest figures.
+
+---
+
+*Disclaimer: For research and information purposes only. Not investment advice. Names cited are for analytical illustration; readers should perform their own due diligence and consult licensed advisors before any investment decision.*

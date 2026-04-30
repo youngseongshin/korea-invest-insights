@@ -32,7 +32,7 @@ Today's Korea stock market session (data sourced from Apr 10 close briefing, mos
 
 **Construction and Middle East reconstruction** was the day's second headline theme. Broker upgrades on Hyundai Engineering & Construction (Buy, TP raised to KRW 240,000) and a sector-wide Positive note citing Middle East rebuilding demand drove initial enthusiasm. However, execution was messy: names like Daewoo Engineering & Construction failed to hold their intraday VWAP, suggesting **the narrative is real but the entry timing is still rough**. Chasing construction prints at these levels was penalized.
 
-**Power and energy** generated significant buzz — spot SMP reportedly surged ~47%, lifting ESS and independent power producer names — but the theme remained at an observation level for most active managers, as direct stock-level linkages were fewer than in semis or telcos.
+**Power and energy** generated significant buzz — spot SMP reportedly surged \~47%, lifting ESS and independent power producer names — but the theme remained at an observation level for most active managers, as direct stock-level linkages were fewer than in semis or telcos.
 
 **Biotech underperformed** on a relative basis. Multiple broker desks reiterated a posture of reducing biotech weight in favor of IT/semiconductor components, and that tone was reflected in price action.
 
@@ -77,3 +77,7 @@ APR (에이피알) is a Korean beauty and wellness brand operator — best known
 ---
 
 *Note: The KR Close Briefing data reflects the Apr 10 session (most recent available as of publication). Macro regime data is current as of Apr 14 evening.*
+
+---
+
+*Disclaimer: For research and information purposes only. Not investment advice. Names cited are for analytical illustration; readers should perform their own due diligence and consult licensed advisors before any investment decision.*

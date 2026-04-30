@@ -107,3 +107,7 @@ Ba điều cần ghi nhớ:
 3. **Theo dõi dòng tiền khối ngoại**: Khi khối ngoại chuyển từ bán ròng sang mua ròng trên KOSPI, đó thường là tín hiệu xác nhận xu hướng hồi phục đáng tin cậy nhất.
 
 *Dữ liệu tham chiếu: KRX, BOK, Federal Reserve, Korea JoongAng Daily. Bài viết mang tính chất thông tin thị trường, không phải khuyến nghị đầu tư cụ thể.*
+
+---
+
+*Disclaimer: For research and information purposes only. Not investment advice. Names cited are for analytical illustration; readers should perform their own due diligence and consult licensed advisors before any investment decision.*

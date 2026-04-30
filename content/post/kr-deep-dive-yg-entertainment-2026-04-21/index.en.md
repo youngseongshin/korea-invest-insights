@@ -162,4 +162,4 @@ Artist concentration — specifically, the outsized dependence on BLACKPINK grou
 
 ---
 
-*This analysis is for informational purposes only and does not constitute investment advice. All figures and references are based on publicly available information and the author's analysis as of April 2026. Investors should conduct their own due diligence and consult qualified financial advisors before making investment decisions. Past performance of artist tours, album cycles, or stock price movements is not indicative of future results.*
+*Disclaimer: For research and information purposes only. Not investment advice. Names cited are for analytical illustration; readers should perform their own due diligence and consult licensed advisors before any investment decision.*

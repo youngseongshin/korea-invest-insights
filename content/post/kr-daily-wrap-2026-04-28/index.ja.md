@@ -44,7 +44,7 @@ draft: false
 
 本日のメタスクリーナーは139銘柄を対象に評価。上位候補のうち、4スクリーナー以上に同時登場する銘柄が複数確認された。フレームワークの優先順位は以下の通り：
 
-> Quality Compounder ∩ Smart Money Quality ∩ Cycle Rerating → 最上位候補  
+> Quality Compounder ∩ Smart Money Quality ∩ Cycle Rerating → 最上位候補
 > 上記 + Smart Money Earnings / PEAD → 追加確証
 
 ### 上位候補テーブル
@@ -79,3 +79,7 @@ SKハイニックスの持株会社であり、ハイニックス株価上昇の
 ---
 
 **編集注**: 本稿はスクリーナーに基づく候補の整理・後続リサーチのキューであり、売買推奨ではありません。個別銘柄への投資判断は各自でご確認ください。
+
+---
+
+*Disclaimer: For research and information purposes only. Not investment advice. Names cited are for analytical illustration; readers should perform their own due diligence and consult licensed advisors before any investment decision.*

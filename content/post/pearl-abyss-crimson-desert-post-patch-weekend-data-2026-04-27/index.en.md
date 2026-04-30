@@ -112,12 +112,12 @@ This is exactly the asymmetry the platform-rerating thesis predicts. **In an AAA
 
 **Bearish reads**
 - CCU is unambiguously down **-13%.**
-- New-review positivity at 87.3% — below the post-patch spike of ~95%.
+- New-review positivity at 87.3% — below the post-patch spike of \~95%.
 - FR / JP / TW / BR ranks weakened further.
 
 The bullish reads target *what the thesis is actually about* — long-tail durability, friction reduction, and new-buyer conversion in core markets. The bearish reads describe the natural decay arc of any AAA package release. **Both can be true simultaneously**, and the right framing is which set the market is overweighting.
 
-At spot ~₩57,000, the price is closer to "one-off package hit" framing than "platform / proprietary-engine re-rating." This weekend's data tilts toward the latter.
+At spot \~₩57,000, the price is closer to "one-off package hit" framing than "platform / proprietary-engine re-rating." This weekend's data tilts toward the latter.
 
 ---
 
@@ -172,4 +172,4 @@ For now, this weekend's data is **thesis-confirming, not thesis-killing.**
 
 ---
 
-**Disclaimer**: This post is research commentary, not investment advice. Pearl Abyss is covered as part of the author's ongoing thesis series. Positions, conditions, and price levels can change as new data arrives. Do your own work.
+*Disclaimer: For research and information purposes only. Not investment advice. Names cited are for analytical illustration; readers should perform their own due diligence and consult licensed advisors before any investment decision.*

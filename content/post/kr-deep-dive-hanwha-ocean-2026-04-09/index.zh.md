@@ -260,4 +260,4 @@ draft: false
 
 ---
 
-> **免责声明**：本分析仅供参考，不构成投资建议。过往表现不代表未来结果。投资境外股票涉及汇率风险、政治风险及市场风险。在做出任何投资决策前，请务必进行独立尽职调查，并咨询具备资质的财务顾问。
+*Disclaimer: For research and information purposes only. Not investment advice. Names cited are for analytical illustration; readers should perform their own due diligence and consult licensed advisors before any investment decision.*

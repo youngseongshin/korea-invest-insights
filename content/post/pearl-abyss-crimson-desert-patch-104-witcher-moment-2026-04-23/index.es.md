@@ -22,7 +22,7 @@ Dos eventos, un mismo día:
 | 23 abr, 10:48 | **Parche 1.04.00** (Revisado) — lanzamiento completo |
 | 23 abr, 23:46 | **Parche 1.04.01** hotfix (todas las plataformas) |
 
-Descarga total de **~29GB**. Esto no es un parche de balance. Es una mini-expansión publicada 35 días después del lanzamiento, manteniendo una cadencia quincenal que Pearl Abyss ha respetado sin excepción desde el 19/3.
+Descarga total de **\~29GB**. Esto no es un parche de balance. Es una mini-expansión publicada 35 días después del lanzamiento, manteniendo una cadencia quincenal que Pearl Abyss ha respetado sin excepción desde el 19/3.
 
 ---
 
@@ -129,12 +129,12 @@ Aplicando **P/E 15×** (apropiado para un título que ya ha demostrado una caden
 | Ingresos CD 2026E | ₩500-530B | **₩520-560B** |
 | Ingresos consolidados 2026E | ₩970B-1,0T | **₩990B-1,03T** |
 | BPA | ₩5.400-5.500 | **₩5.500-5.750** |
-| **Valor razonable (P/E 15×)** | — | **~₩82.500-86.250** |
+| **Valor razonable (P/E 15×)** | — | **\~₩82.500-86.250** |
 | Vs. spot ₩53.100 | — | **+55 a +62%** |
 
 La expansión del múltiplo de 12× a 15× es en sí misma una apuesta de tesis. El argumento: Pearl Abyss ya no es una compañía de un solo lanzamiento con CD. Es una **compañía de live-ops multi-IP con el legado de BDO y CD como franquicia de contenido recurrente**. Los comparables coreanos de gaming live-service multi-IP cotizan a 15-20× sobre beneficios estables. 15× es el extremo *bajo* de ese rango.
 
-En el escenario base más conservador de P/E 12×, el valor razonable es ~₩66.000-69.000 (+24-30%). Ese es el suelo. 15× es lo que ocurre si el mercado acepta que la musculatura de live-ops es real.
+En el escenario base más conservador de P/E 12×, el valor razonable es \~₩66.000-69.000 (+24-30%). Ese es el suelo. 15× es lo que ocurre si el mercado acepta que la musculatura de live-ops es real.
 
 ---
 
@@ -175,8 +175,8 @@ En el escenario base más conservador de P/E 12×, el valor razonable es ~₩66.
 
 ## Conclusión
 
-> El parche 1.04.00 de Crimson Desert cerró el principal argumento bajista (QoL + dificultad lastrando las reseñas) y demostró que la musculatura de live-service de Pearl Abyss — probada en BDO — se traslada al single-player. La positividad en reseñas recientes saltó al 94,9%, 11pp por encima del nivel pre-parche. A **P/E 15×** sobre un BPA revisado de ₩5.500-5.750, el valor razonable se sitúa en **~₩82.500-86.250 frente a un spot de ₩53.100 — una revalorización potencial del +55-62%.** El múltiplo en sí es la tesis: esto ya no está valorado como un juego de un solo lanzamiento.
+> El parche 1.04.00 de Crimson Desert cerró el principal argumento bajista (QoL + dificultad lastrando las reseñas) y demostró que la musculatura de live-service de Pearl Abyss — probada en BDO — se traslada al single-player. La positividad en reseñas recientes saltó al 94,9%, 11pp por encima del nivel pre-parche. A **P/E 15×** sobre un BPA revisado de ₩5.500-5.750, el valor razonable se sitúa en **\~₩82.500-86.250 frente a un spot de ₩53.100 — una revalorización potencial del +55-62%.** El múltiplo en sí es la tesis: esto ya no está valorado como un juego de un solo lanzamiento.
 
 ---
 
-_Los artículos anteriores de esta serie cubren la tesis completa de Pearl Abyss Crimson Desert desde el lanzamiento hasta la Actualización de Desarrolladores de abril. Nada de lo aquí expuesto constituye asesoramiento de inversión. Todas las estimaciones son de elaboración propia y están sujetas a los supuestos declarados._
+*Disclaimer: For research and information purposes only. Not investment advice. Names cited are for analytical illustration; readers should perform their own due diligence and consult licensed advisors before any investment decision.*

@@ -36,7 +36,7 @@ A widely-cited Korean Economic Daily piece (April 21, 2026) frames the story as:
 | BOE blocked from US DoD trade by end-June | **Partially true / outdated** | 1260H direct-trade ban effective June 30, 2026; indirect ban from 2027. **BOE not currently listed.** Alibaba/BYD were briefly added in Feb 2026 then quickly removed — listing is a political variable |
 | Apple iPhone 18 / MacBook Pro OLED shifting to Korean | **True** | January 2026: BOE quality issues triggered urgent re-orders to Samsung Display |
 | Panel module shipments Tianan/Asan → Vietnam +19% YoY | **True** | Confirmed in source reporting |
-| China 8.6G CapEx (BOE B16 ~13T KRW, Visionox V5 ~10.4T KRW) | **True** | 2026 launch targets, equipment orders proceeding |
+| China 8.6G CapEx (BOE B16 \~13T KRW, Visionox V5 \~10.4T KRW) | **True** | 2026 launch targets, equipment orders proceeding |
 
 **Confidence: medium-high.** The first-order story (BOE pressured, Korea benefits) is real. The 1260H imminent-application piece is **an unresolved political event**. Pricing it as base case introduces narrative risk.
 
@@ -44,7 +44,7 @@ A widely-cited Korean Economic Daily piece (April 21, 2026) frames the story as:
 
 The "buy Korean panel-makers" framing has a fatal flaw for investors who want both **semiconductor exposure** and **display exposure** in a single name:
 
-- **Samsung Display is not listed.** You can buy Samsung Electronics (005930) but display is ~10% of revenue and gets diluted by the much bigger memory and foundry businesses.
+- **Samsung Display is not listed.** You can buy Samsung Electronics (005930) but display is \~10% of revenue and gets diluted by the much bigger memory and foundry businesses.
 - **LG Display (034220) is a pure-play panel maker** — no semiconductor exposure at all. So while it benefits from the BOE shift, it doesn't ride the HBM cycle that's running in parallel.
 
 To get both cycles in one ticker, you have to step down to the **equipment and materials layer**. And that's where the second-order story lives.
@@ -86,7 +86,7 @@ Sell-side has modeled the BOE-to-Samsung-Display panel shift. What's underpriced
 
 ## Part 4 — AP System (265520) Deep Dive
 
-> Stock ₩24,150 | Market cap ~₩363.5B | TTM P/E 15.4x | Foreign ownership 16.80% | As-of 2026-04-25
+> Stock ₩24,150 | Market cap \~₩363.5B | TTM P/E 15.4x | Foreign ownership 16.80% | As-of 2026-04-25
 
 ### What it actually does
 
@@ -111,8 +111,8 @@ So the more precise framing is: **AP System is most directly exposed to the Chin
 | Metric | 2022 | 2023 | 2024 (est.) | 2025E (3Q YTD basis) |
 |---|---|---|---|---|
 | Revenue (₩B) | 4,966 | 5,336 (+9.7%) | 4,850-5,164 | -6.9% YoY YTD |
-| OP (₩B) | 905 | 601 (-33.6%) | ~462-487 | -30.7% YoY YTD |
-| OPM | 18.2% | 11.3% | ~9.2% | 8-10% est. |
+| OP (₩B) | 905 | 601 (-33.6%) | \~462-487 | -30.7% YoY YTD |
+| OPM | 18.2% | 11.3% | \~9.2% | 8-10% est. |
 | Net cash (₩B) | — | — | 1,000+ | 1,000+ est. |
 
 Margins peaked at 18.2% in 2022. The current cycle bottom is 2025. The recovery inflection is when **8.6G order revenue starts being recognized — 2026 H2 to 2027.** "Buy on dip" at the J-curve trough is theoretically correct, but the dip needs to be confirmed by quarterly trajectory, not by price alone.
@@ -196,4 +196,4 @@ Treat HBM laser as **optionality, not core thesis.** The 2026-04-24 RSU/RSA comp
 
 ---
 
-_This piece is the first installment of the Display Equipment Thesis 2026 series. It connects to the broader Korea Outperformance 2026 thesis (macro framework) and the KOSDAQ Structural Change 2026 series (micro screens). Nothing here is investment advice; all estimates carry assumption-dependent ranges. Sources: DART filings, FnGuide, Diylek, KIPOST, broker reports (Shinhan, NH, Korea IR Council), public corporate disclosures._
+*Disclaimer: For research and information purposes only. Not investment advice. Names cited are for analytical illustration; readers should perform their own due diligence and consult licensed advisors before any investment decision.*

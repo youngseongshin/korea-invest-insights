@@ -172,4 +172,4 @@ El K9 Thunder (K9 자주포) es un obús autopropulsado de 155mm/calibre 52 desa
 
 ---
 
-*Este análisis tiene únicamente fines informativos y no constituye asesoramiento de inversión. El rendimiento pasado no es indicativo de resultados futuros. Los inversores deben realizar su propia diligencia debida y consultar con un asesor financiero cualificado antes de tomar cualquier decisión de inversión. Los datos financieros referenciados reflejan información públicamente disponible a los períodos más recientemente reportados; los lectores deben verificar todas las cifras con los últimos archivos de DART y las divulgaciones de la compañía.*
+*Disclaimer: For research and information purposes only. Not investment advice. Names cited are for analytical illustration; readers should perform their own due diligence and consult licensed advisors before any investment decision.*

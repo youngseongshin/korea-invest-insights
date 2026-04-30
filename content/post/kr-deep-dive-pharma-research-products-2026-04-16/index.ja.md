@@ -177,3 +177,7 @@ KOSDAQヘルスケアおよびK-ビューティー美容医療テーマへの間
 ---
 
 *本分析は情報提供のみを目的としており、投資アドバイスを構成しない。参照されたすべての財務データは、公開されている開示資料および市場データから引用されている。投資家は独自のデューデリジェンスを行い、投資判断を下す前にライセンスを取得した金融アドバイザーに相談すること。株式またはセクターの過去のパフォーマンスは将来の結果を保証しない。*
+
+---
+
+*Disclaimer: For research and information purposes only. Not investment advice. Names cited are for analytical illustration; readers should perform their own due diligence and consult licensed advisors before any investment decision.*

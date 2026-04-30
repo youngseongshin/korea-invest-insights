@@ -31,7 +31,7 @@ draft: false
 ## TL;DR
 
 - **Central estimate**: Pearl Abyss 1Q26 consolidated revenue **KRW 395.0B**, operating profit **KRW 205.0B**, OPM **51.9%**.
-- **Core logic**: Given the company's official "4 million units by April 1" headline, the most reasonable 1Q-recognized unit count is **~3.95 million**, and legacy IP (BDO + EVE) lands around **KRW 97.0B** reflecting the steady base shown in 4Q25. But the real 1Q26 swing variable is not the unit count — it's **revenue-recognition frame (principal vs. agent), realized ASP, and the marketing / commission expense lines**.
+- **Core logic**: Given the company's official "4 million units by April 1" headline, the most reasonable 1Q-recognized unit count is **\~3.95 million**, and legacy IP (BDO + EVE) lands around **KRW 97.0B** reflecting the steady base shown in 4Q25. But the real 1Q26 swing variable is not the unit count — it's **revenue-recognition frame (principal vs. agent), realized ASP, and the marketing / commission expense lines**.
 - **Key uncertainty**: Until the 1Q26 quarterly report footnotes confirm principal/agent treatment, actual platform mix, and actual marketing expense, the estimate retains error bands. This is the **most defensible externally-shareable central case**, not a point forecast.
 
 ---
@@ -82,9 +82,9 @@ Against the April 1 official print of 4M, placing cutoff-day cumulative sales **
 
 No disclosure exists. The most contested assumption. PS Store top-ranking evidence argues for higher console weight; SteamDB CCU and review volume argue for higher PC weight. Rather than force one side, the central case uses **PC 52% / Console 48%** — enough to respect "PC-leaning likely" without discarding "strong console signal."
 
-### 3.3 Realized ASP (accounting basis): **~KRW 79.8k**
+### 3.3 Realized ASP (accounting basis): **\~KRW 79.8k**
 
-The aggressive gross-only frame puts ASP at **KRW 83.5k**. The mixed-recognition conservative view drops realized ASP into the **low KRW 70k's**. The central case is neither: weighting units, platform mix, and regional pricing, **~KRW 79.8k** (effectively ≈KRW 80k) — "keep a gross-leaning reported revenue stance, but don't take the full KRW 83.5k full adoption."
+The aggressive gross-only frame puts ASP at **KRW 83.5k**. The mixed-recognition conservative view drops realized ASP into the **low KRW 70k's**. The central case is neither: weighting units, platform mix, and regional pricing, **\~KRW 79.8k** (effectively ≈KRW 80k) — "keep a gross-leaning reported revenue stance, but don't take the full KRW 83.5k full adoption."
 
 ### 3.4 Legacy IP revenue: **KRW 97.0B**
 
@@ -100,7 +100,7 @@ This is the single biggest OP swing factor. A KRW 14.0B assumption is clearly to
 
 ### 3.7 Commissions: **KRW 76.0B**
 
-This line swings strongly with the recognition frame. Under gross-only, it can reach KRW 87.5B; under heavier mixed-recognition, it drops to ~KRW 70.0B. Crucially, **the OP impact is partially offset by the revenue-recognition choice** — commissions and reported revenue move together. Central case: **KRW 76.0B**, between the gross-only and mixed views.
+This line swings strongly with the recognition frame. Under gross-only, it can reach KRW 87.5B; under heavier mixed-recognition, it drops to \~KRW 70.0B. Crucially, **the OP impact is partially offset by the revenue-recognition choice** — commissions and reported revenue move together. Central case: **KRW 76.0B**, between the gross-only and mixed views.
 
 ### 3.8 D&A + other: **KRW 32.0B**
 
@@ -123,7 +123,7 @@ This line swings strongly with the recognition frame. Under gross-only, it can r
 - Legacy IP: KRW 97.0B
 - **Calculated: KRW 412.2B**
 
-For an externally-shareable central case, **a ~KRW 17.2B safety margin** is subtracted to reflect the March 31 cutoff cadence and principal/agent uncertainty:
+For an externally-shareable central case, **a \~KRW 17.2B safety margin** is subtracted to reflect the March 31 cutoff cadence and principal/agent uncertainty:
 
 → **KRW 412.2B calc → KRW 395.0B central case**
 
@@ -167,7 +167,7 @@ Gross-only is simple and easy to explain, but aggressive. Mixed-recognition has 
 
 ### 5.3 Operating profit clears KRW 200B but KRW 225B is still the upper zone
 
-Project aggressive base cases sit near KRW 223B; one external calculation reaches KRW 225.8B but drops to **~KRW 210B** on risk adjustment. A pure conservative read of KRW 195.0B is not wrong, but lower-bound. The **most defensible central value is near KRW 205B**.
+Project aggressive base cases sit near KRW 223B; one external calculation reaches KRW 225.8B but drops to **\~KRW 210B** on risk adjustment. A pure conservative read of KRW 195.0B is not wrong, but lower-bound. The **most defensible central value is near KRW 205B**.
 
 ---
 
@@ -213,4 +213,4 @@ The figure is grounded in the two official Crimson Desert milestones (4M by Apri
 
 ---
 
-*This is research and commentary only, not investment advice. Positioning may change without notice. Data as of 2026-04-21 KST.*
+*Disclaimer: For research and information purposes only. Not investment advice. Names cited are for analytical illustration; readers should perform their own due diligence and consult licensed advisors before any investment decision.*

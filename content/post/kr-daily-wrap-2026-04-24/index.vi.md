@@ -67,7 +67,7 @@ Ngược lại, một số mã kỹ thuật cao như 코리아써키트 (007810.
 
 **Điểm nhấn Top 3**
 
-**① 대우건설 (047040.KS)** — Tập đoàn xây dựng hàng đầu Hàn Quốc với vốn hóa ~13 nghìn tỷ KRW. RS đạt đỉnh tuyệt đối 99,9/100 cùng khối lượng 38 triệu cổ phiếu là tín hiệu cực mạnh của dòng tiền tổ chức. Igyeok 142% so với MA200 cho thấy xu hướng dài hạn vẫn hoàn toàn nguyên vẹn, dù nhà đầu tư cần thận trọng với RSI gần vùng quá mua (80,8).
+**① 대우건설 (047040.KS)** — Tập đoàn xây dựng hàng đầu Hàn Quốc với vốn hóa \~13 nghìn tỷ KRW. RS đạt đỉnh tuyệt đối 99,9/100 cùng khối lượng 38 triệu cổ phiếu là tín hiệu cực mạnh của dòng tiền tổ chức. Igyeok 142% so với MA200 cho thấy xu hướng dài hạn vẫn hoàn toàn nguyên vẹn, dù nhà đầu tư cần thận trọng với RSI gần vùng quá mua (80,8).
 
 **② 미래에셋벤처투자 (025620.KS)** — Arm đầu tư mạo hiểm của tập đoàn Mirae Asset, chuyên rót vốn vào startup công nghệ và biotech nội địa. Igyeok 165% — cao nhất trong Top 5 — và RSI 83,2 cho thấy cổ phiếu đang trong giai đoạn tăng tốc. Cú breakout này có thể phản ánh kỳ vọng IPO pipeline sắp tới.
 
@@ -76,3 +76,7 @@ Ngược lại, một số mã kỹ thuật cao như 코리아써키트 (007810.
 ---
 
 *Dữ liệu macro tính đến phiên chiều 24/04/2026. Screener Market Discovery cập nhật cuối phiên 23/04/2026. Bài viết mang tính thông tin thị trường, không phải khuyến nghị đầu tư.*
+
+---
+
+*Disclaimer: For research and information purposes only. Not investment advice. Names cited are for analytical illustration; readers should perform their own due diligence and consult licensed advisors before any investment decision.*

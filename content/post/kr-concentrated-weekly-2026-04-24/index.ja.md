@@ -82,3 +82,7 @@ draft: false
 - **マクロ**：米国インフレ指標、FOMC関連発言、地政学的リスクの更新
 
 4月24日のKOSPI市場が示したのは、**強気レジームへの移行と選別の必要性の両立**というシグナルだ。半導体・AIメモリの構造的需要を背景にSKハイニックスが首位に立つ一方、需給が劣化した銘柄の整理を進めることで、次の上昇局面に向けたポートフォリオの質を高めることが当面の最優先課題となる。
+
+---
+
+*Disclaimer: For research and information purposes only. Not investment advice. Names cited are for analytical illustration; readers should perform their own due diligence and consult licensed advisors before any investment decision.*

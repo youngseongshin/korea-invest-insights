@@ -52,11 +52,11 @@ El tipo de cambio contribuyó de forma significativa. El tipo promedio USD/KRW d
 
 | Fecha | Ventas acumuladas | Pico CCU Steam | Contexto |
 |---|---|---|---|
-| 20 de marzo (lanzamiento) | ~2M | 239.405 | Récord para título coreano de pago de un solo jugador |
-| 24 de marzo (D+4) | ~3M | — | Punto de equilibrio estimado sobre costes de desarrollo |
-| 30 de marzo (D+10) | ~3,7M | 276.261 (máximo histórico) | Pico de usuarios simultáneos tras parche |
+| 20 de marzo (lanzamiento) | \~2M | 239.405 | Récord para título coreano de pago de un solo jugador |
+| 24 de marzo (D+4) | \~3M | — | Punto de equilibrio estimado sobre costes de desarrollo |
+| 30 de marzo (D+10) | \~3,7M | 276.261 (máximo histórico) | Pico de usuarios simultáneos tras parche |
 | 1 de abril (D+12) | 4M | — | Confirmación oficial del CEO |
-| 6 de abril (actual) | ~4,3–4,5M est. | — | CEO: "rumbo a los 5M" |
+| 6 de abril (actual) | \~4,3–4,5M est. | — | CEO: "rumbo a los 5M" |
 
 Hay dos puntos de contexto relevantes para los inversores internacionales que lean estas cifras.
 
@@ -111,16 +111,16 @@ Al precio de cierre del 2 de abril de 2026 de ₩66.200 (el dato de referencia m
 
 Escenario base: BO 2026E de ₩420.000M a 14x PER → valor razonable de ₩71.800. Bajista: BO ₩350.000M a 12x → ₩51.100. Alcista: BO ₩450.000M a 18x → ₩98.700.
 
-El supuesto base de 14x PER refleja un descuento respecto a los comparables japoneses (Capcom cotiza en torno a 22x impulsado por el momentum de Monster Hunter Wilds) y respecto al comparable de CDPR (~35x por la opcionalidad de desarrollo de Witcher 4), pero con una prima ligera sobre Krafton (~12x, franquicia PUBG, dinámicas de descuento similares a las coreanas). La propia cotización en el KOSDAQ contribuye a la brecha de valoración — la participación extranjera en Pearl Abyss se sitúa en solo el 5,57%, frente al 42,4% de Krafton y el 34,8% de NCSoft. Un traslado al KOSPI, que la dirección ha mencionado para 2027, resolvería estructuralmente esta brecha en participación extranjera y podría añadir 3–5 puntos al PER aplicable, lo que implica entre ₩15.000 y ₩25.000 de valor adicional por acción.
+El supuesto base de 14x PER refleja un descuento respecto a los comparables japoneses (Capcom cotiza en torno a 22x impulsado por el momentum de Monster Hunter Wilds) y respecto al comparable de CDPR (\~35x por la opcionalidad de desarrollo de Witcher 4), pero con una prima ligera sobre Krafton (\~12x, franquicia PUBG, dinámicas de descuento similares a las coreanas). La propia cotización en el KOSDAQ contribuye a la brecha de valoración — la participación extranjera en Pearl Abyss se sitúa en solo el 5,57%, frente al 42,4% de Krafton y el 34,8% de NCSoft. Un traslado al KOSPI, que la dirección ha mencionado para 2027, resolvería estructuralmente esta brecha en participación extranjera y podría añadir 3–5 puntos al PER aplicable, lo que implica entre ₩15.000 y ₩25.000 de valor adicional por acción.
 
 **Comparativa de pares**
 
 | Compañía | Capitalización bursátil | PER 2026E | Perfil |
 |---|---|---|---|
-| Capcom (Japón) | ~$15B | ~22x | IP recurrente, momentum de MH Wilds |
-| CDPR (Polonia) | ~$10B | ~35x | Opcionalidad de desarrollo de Witcher 4 |
-| Krafton (Corea) | ~$11B | ~12x | Franquicia PUBG, descuento coreano aplicado |
-| Pearl Abyss | ₩3,87T | ~12x | Éxito de Crimson Desert, listada en KOSDAQ |
+| Capcom (Japón) | \~$15B | \~22x | IP recurrente, momentum de MH Wilds |
+| CDPR (Polonia) | \~$10B | \~35x | Opcionalidad de desarrollo de Witcher 4 |
+| Krafton (Corea) | \~$11B | \~12x | Franquicia PUBG, descuento coreano aplicado |
+| Pearl Abyss | ₩3,87T | \~12x | Éxito de Crimson Desert, listada en KOSDAQ |
 
 ---
 
@@ -147,7 +147,7 @@ El supuesto base de 14x PER refleja un descuento respecto a los comparables japo
 
 ## Escenario bajista
 
-**Preocupación central:** Crimson Desert es un título de un solo jugador sin componente de servicio en vivo confirmado. Los juegos de un solo jugador presentan caídas de usuarios simultáneos bien documentadas: una vez completado el arco narrativo (típicamente 20–40 horas), el tiempo de sesión cae de forma pronunciada. Sin DLC, modo multijugador o sistema de pase de batalla, los ingresos del Q2 2026 serán una fracción de los del Q1. La brecha entre los ingresos finales de Crimson Desert y el próximo título de Pearl Abyss (Project DokkaeBI, sin fecha confirmada) podría extenderse entre 18 y 24 meses — período durante el cual la compañía regresaría a la economía de Black Desert + EVE, en torno a ~₩95.000M por trimestre y ₩35.000–55.000M de beneficio operativo anual.
+**Preocupación central:** Crimson Desert es un título de un solo jugador sin componente de servicio en vivo confirmado. Los juegos de un solo jugador presentan caídas de usuarios simultáneos bien documentadas: una vez completado el arco narrativo (típicamente 20–40 horas), el tiempo de sesión cae de forma pronunciada. Sin DLC, modo multijugador o sistema de pase de batalla, los ingresos del Q2 2026 serán una fracción de los del Q1. La brecha entre los ingresos finales de Crimson Desert y el próximo título de Pearl Abyss (Project DokkaeBI, sin fecha confirmada) podría extenderse entre 18 y 24 meses — período durante el cual la compañía regresaría a la economía de Black Desert + EVE, en torno a \~₩95.000M por trimestre y ₩35.000–55.000M de beneficio operativo anual.
 
 El gobierno corporativo es una preocupación de segundo orden para los inversores internacionales. La participación extranjera del 5,57% es la más baja entre las principales compañías de videojuegos coreanas. La compañía no tiene historial de dividendos ni comité de auditoría. El bloque de accionistas de control (Kim Daeil y otros, 37–44%) implica que los mecanismos de protección de minoritarios son limitados. Para las instituciones con criterios ESG o de gobernanza, Pearl Abyss no cumplirá los requisitos de inclusión hasta que se realicen mejoras estructurales en este ámbito.
 
@@ -180,7 +180,7 @@ La publicación de resultados del Q1 2026 tiene como objetivo el 7 de mayo de 20
 |---|---|
 | Ticker | 263750 (KOSDAQ) |
 | Precio actual (ref.) | ₩60.200–₩66.200 |
-| Capitalización bursátil | ~₩3,87T |
+| Capitalización bursátil | \~₩3,87T |
 | Ingresos 2025 | ₩365.600M (+6,77% interanual) |
 | Ingresos Q1 2026E (base) | ₩430.000M |
 | BO Q1 2026E (base) | ₩223.000M (margen 51,9%) |
@@ -200,3 +200,7 @@ La publicación de resultados del Q1 2026 tiene como objetivo el 7 de mayo de 20
 ---
 
 *Este análisis tiene únicamente fines informativos y no constituye una recomendación de compra, venta o mantenimiento de ningún valor. Todas las estimaciones financieras son proyecciones propias del autor basadas en datos públicamente disponibles y conllevan incertidumbre inherente. Pearl Abyss (263750.KQ) cotiza en el mercado KOSDAQ de Corea del Sur. Los inversores deben realizar su propia diligencia debida y considerar su tolerancia al riesgo individual y sus objetivos de inversión antes de tomar cualquier decisión. Los resultados pasados y las métricas de lanzamiento no garantizan resultados futuros. Las conversiones de divisas asumen un tipo de cambio promedio USD/KRW para Q1 2026 de 1.464,8.*
+
+---
+
+*Disclaimer: For research and information purposes only. Not investment advice. Names cited are for analytical illustration; readers should perform their own due diligence and consult licensed advisors before any investment decision.*

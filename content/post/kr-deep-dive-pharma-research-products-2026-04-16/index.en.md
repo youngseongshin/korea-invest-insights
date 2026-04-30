@@ -177,4 +177,4 @@ Foreign investors can purchase **214450.KQ** directly on KOSDAQ through brokers 
 
 ---
 
-*This analysis is for informational purposes only and does not constitute investment advice. All financial data referenced is drawn from publicly available filings and market data. Investors should conduct their own due diligence and consult a licensed financial advisor before making investment decisions. Past performance of the stock or sector does not guarantee future results.*
+*Disclaimer: For research and information purposes only. Not investment advice. Names cited are for analytical illustration; readers should perform their own due diligence and consult licensed advisors before any investment decision.*

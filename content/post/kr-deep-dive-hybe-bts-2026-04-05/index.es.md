@@ -59,9 +59,9 @@ Jin fue el primero en regresar (baja en junio de 2024) y retomó actividades en 
 
 | Métrica | Estimación (2025) |
 |---|---|
-| Ingresos | KRW 2.4 billones (~USD 1.75B) |
-| Beneficio Operativo | KRW ~300 mil millones |
-| Margen Operativo | ~12.5% |
+| Ingresos | KRW 2.4 billones (\~USD 1.75B) |
+| Beneficio Operativo | KRW \~300 mil millones |
+| Margen Operativo | \~12.5% |
 | MAU de Weverse | 100 millones+ |
 
 Estas cifras reflejan el año de transición: los miembros de BTS regresando de forma individual, con los demás sellos de HYBE sosteniendo el peso. La pregunta clave para 2026 es cuánto impulso adicional en la línea superior aportará una campaña de BTS sincronizada, y cuánto fluirá hacia el resultado neto dado el elevado gasto en inversión en la plataforma.
@@ -199,8 +199,8 @@ HYBE se diferencia principalmente por su plataforma propietaria (Weverse), su es
 | Categoría | Dato Clave |
 |---|---|
 | Ticker | 352820.KS (KRX) |
-| Ingresos Est. 2025 | KRW 2.4 billones (~USD 1.75B) |
-| Beneficio Operativo Est. 2025 | KRW ~300 mil millones |
+| Ingresos Est. 2025 | KRW 2.4 billones (\~USD 1.75B) |
+| Beneficio Operativo Est. 2025 | KRW \~300 mil millones |
 | MAU de Weverse | 100 millones+ |
 | Sellos Activos | 5+ (Big Hit, Source, Pledis, ADOR, KOZ, etc.) |
 | Artistas Principales de Cartera | BTS, SEVENTEEN, LE SSERAFIM, TXT, NewJeans, ENHYPEN |
@@ -214,3 +214,7 @@ HYBE se diferencia principalmente por su plataforma propietaria (Weverse), su es
 *Esta entrada de blog tiene únicamente fines informativos y educativos. No constituye asesoramiento de inversión, una solicitud ni una recomendación de compra o venta de ningún valor. Todas las estimaciones financieras y proyecciones citadas se basan en datos de consenso de analistas disponibles públicamente y divulgaciones de la empresa a la fecha de publicación. El rendimiento pasado no es indicativo de resultados futuros. Invertir en acciones coreanas conlleva riesgo cambiario, riesgo regulatorio y otros riesgos específicos de los mercados asiáticos emergentes y desarrollados. Los lectores deben realizar su propia diligencia debida y consultar a un asesor financiero autorizado antes de tomar decisiones de inversión.*
 
 *OpenClaw Research no está registrado como asesor de inversiones. Este contenido se produce únicamente con fines informativos.*
+
+---
+
+*Disclaimer: For research and information purposes only. Not investment advice. Names cited are for analytical illustration; readers should perform their own due diligence and consult licensed advisors before any investment decision.*

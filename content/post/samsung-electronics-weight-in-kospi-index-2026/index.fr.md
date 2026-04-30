@@ -149,16 +149,16 @@ C'est pourquoi les ETF Corée peuvent ressembler à des fonds pays diversifiés 
 
 La pondération benchmark de Samsung n'est pas figée. Elle évolue avec quatre variables :
 
-1. **Le cours de l'action Samsung elle-même**  
+1. **Le cours de l'action Samsung elle-même**
    Si 005930.KS surperforme le reste de la Corée, son poids augmente.
 
-2. **Les mouvements de SK Hynix et des autres méga-caps**  
+2. **Les mouvements de SK Hynix et des autres méga-caps**
    Samsung peut progresser et néanmoins perdre du poids relatif si SK Hynix monte davantage.
 
-3. **Les règles de flottant et de plafonnement d'indice**  
+3. **Les règles de flottant et de plafonnement d'indice**
    Le MSCI Korea, le MSCI Korea 25/50, le KOSPI 200, le FTSE Korea et les ETF individuels ne traitent pas tous les limites de pondération de la même façon.
 
-4. **Les actions préférentielles et le traitement des catégories d'actions**  
+4. **Les actions préférentielles et le traitement des catégories d'actions**
    Les actions préférentielles Samsung Electronics sont des titres cotés séparément. Certains benchmarks les intègrent en ligne distincte ; certains investisseurs les agrègent mentalement avec les ordinaires en tant qu'exposition groupe Samsung.
 
 En 2026, le principal moteur a été la réévaluation liée à la mémoire IA. La leadership du marché coréen s'est resserré autour de Samsung Electronics, SK Hynix, l'infrastructure IA, la défense, les équipements électriques et certaines valeurs financières. Il en a résulté un profil de concentration plus marqué que ce à quoi les investisseurs étaient habitués durant la période de décote Corée 2021-2024.
@@ -349,3 +349,7 @@ Cette concentration n'est pas une raison d'éviter la Corée. C'est une raison d
 - [Seoul Economic Daily](https://en.sedaily.com/news/2026/02/27/samsung-sk-market-cap-hits-18t-doubling-share-to-61-percent) : rapport indiquant que Samsung Electronics et SK Hynix représentaient 39,88 % du KOSPI le 27 février 2026.
 
 *Avertissement : à des fins de recherche et d'information uniquement. Ne constitue pas un conseil en investissement. Les noms cités le sont à titre d'illustration analytique ; les lecteurs doivent effectuer leur propre analyse et consulter des conseillers agréés avant toute décision d'investissement.*
+
+---
+
+*Disclaimer: For research and information purposes only. Not investment advice. Names cited are for analytical illustration; readers should perform their own due diligence and consult licensed advisors before any investment decision.*

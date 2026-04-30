@@ -19,10 +19,10 @@ This hub is the starting map for the full Pearl Abyss / Crimson Desert research 
 
 | Search Question | Current Answer | Read |
 |---|---|---|
-| What is the Pearl Abyss target price case? | Shinhan's KRW 72,000 target captures the first earnings reset, while our first fair-value anchor is KRW 75,000 and the 8.5M-copy validation case points toward roughly KRW 80,000. | [Pearl Abyss Target Price Gap](/en/post/pearl-abyss-shinhan-target-price-gap-analysis-2026-04-29/) |
-| Are Pearl Abyss shorts still controlling the tape? | Short selling remains part of the tape, but the April 21 data showed foreign and institutional buying absorbing short-sale pressure. The key point is weakening price control, not the mere existence of shorts. | [Pearl Abyss Short Sale Data](/en/post/pearl-abyss-short-sale-absorption-2026-04-21/) |
-| Why does Crimson Desert Patch 1.05 matter? | Patch 1.04 fixed difficulty, housing, pets, and QoL friction. Patch 1.05 is the next proof point for boss-rematch delivery and the endgame-loop cadence. | [Patch 1.04 Analysis](/en/post/pearl-abyss-crimson-desert-patch-104-witcher-moment-2026-04-23/) |
-| Does the CCP/EVE divestiture matter? | The sale is a 4.7%-of-market-cap cash event, but the real upside trigger is whether proceeds flow into buybacks and treasury-share cancellation. | [CCP/EVE Divestiture Analysis](/en/post/pearl-abyss-ccp-eve-divestment-capital-return-2026-04-30/) |
+| What is the Pearl Abyss target price case? | Shinhan's KRW 72,000 target captures the first earnings reset, while our first fair-value anchor is KRW 75,000 and the 8.5M-copy validation case points toward roughly KRW 80,000. | [Pearl Abyss Target Price Gap](/post/pearl-abyss-shinhan-target-price-gap-analysis-2026-04-29/) |
+| Are Pearl Abyss shorts still controlling the tape? | Short selling remains part of the tape, but the April 21 data showed foreign and institutional buying absorbing short-sale pressure. The key point is weakening price control, not the mere existence of shorts. | [Pearl Abyss Short Sale Data](/post/pearl-abyss-short-sale-absorption-2026-04-21/) |
+| Why does Crimson Desert Patch 1.05 matter? | Patch 1.04 fixed difficulty, housing, pets, and QoL friction. Patch 1.05 is the next proof point for boss-rematch delivery and the endgame-loop cadence. | [Patch 1.04 Analysis](/post/pearl-abyss-crimson-desert-patch-104-witcher-moment-2026-04-23/) |
+| Does the CCP/EVE divestiture matter? | The sale is a 4.7%-of-market-cap cash event, but the real upside trigger is whether proceeds flow into buybacks and treasury-share cancellation. | [CCP/EVE Divestiture Analysis](/post/pearl-abyss-ccp-eve-divestment-capital-return-2026-04-30/) |
 
 ---
 
@@ -30,11 +30,11 @@ This hub is the starting map for the full Pearl Abyss / Crimson Desert research 
 
 | Step | Question | Read |
 |---:|---|---|
-| 1 | Why does Crimson Desert matter for Pearl Abyss? | [Pearl Abyss: What Crimson Desert's Global Launch Means](/en/post/kr-deep-dive-pearl-abyss-2026-04-28/) |
-| 2 | Was Patch 1.04 a re-rating catalyst? | [Pearl Abyss: Why Crimson Desert Patch 1.04 Could Re-Rate the Stock](/en/post/pearl-abyss-crimson-desert-patch-104-witcher-moment-2026-04-23/) |
-| 3 | Has the thesis moved beyond unit sales? | [Pearl Abyss Re-Rating: Crimson Desert Is More Than a Unit-Sales Story](/en/post/pearl-abyss-crimson-desert-platform-rerating-2026-04-25/) |
-| 4 | Is KRW 60,000 support or resistance? | [Pearl Abyss KRW 60,000 Support: Retail-to-Institutional Handoff](/en/post/pearl-abyss-60k-new-support-retail-to-institutional-handoff-2026-04-27/) |
-| 5 | What did Shinhan's target-price raise capture or miss? | [Pearl Abyss Target Price Gap: Why Shinhan's 2027 Sales Cliff Looks Too Harsh](/en/post/pearl-abyss-shinhan-target-price-gap-analysis-2026-04-29/) |
+| 1 | Why does Crimson Desert matter for Pearl Abyss? | [Pearl Abyss: What Crimson Desert's Global Launch Means](/post/kr-deep-dive-pearl-abyss-2026-04-28/) |
+| 2 | Was Patch 1.04 a re-rating catalyst? | [Pearl Abyss: Why Crimson Desert Patch 1.04 Could Re-Rate the Stock](/post/pearl-abyss-crimson-desert-patch-104-witcher-moment-2026-04-23/) |
+| 3 | Has the thesis moved beyond unit sales? | [Pearl Abyss Re-Rating: Crimson Desert Is More Than a Unit-Sales Story](/post/pearl-abyss-crimson-desert-platform-rerating-2026-04-25/) |
+| 4 | Is KRW 60,000 support or resistance? | [Pearl Abyss KRW 60,000 Support: Retail-to-Institutional Handoff](/post/pearl-abyss-60k-new-support-retail-to-institutional-handoff-2026-04-27/) |
+| 5 | What did Shinhan's target-price raise capture or miss? | [Pearl Abyss Target Price Gap: Why Shinhan's 2027 Sales Cliff Looks Too Harsh](/post/pearl-abyss-shinhan-target-price-gap-analysis-2026-04-29/) |
 
 ---
 
@@ -42,11 +42,11 @@ This hub is the starting map for the full Pearl Abyss / Crimson Desert research 
 
 | Date | Topic | Read |
 |---|---|---|
-| 2026-04-30 | Non-core asset divestiture and treasury-share cancellation option | [Pearl Abyss CCP/EVE Divestiture: ₩177.1bn Cash Inflow and Treasury Cancellation](/en/post/pearl-abyss-ccp-eve-divestment-capital-return-2026-04-30/) |
-| 2026-04-29 | Shinhan target-price raise and 2027 sales assumptions | [Pearl Abyss Target Price Gap](/en/post/pearl-abyss-shinhan-target-price-gap-analysis-2026-04-29/) |
-| 2026-04-27 | KRW 60,000 support and retail-to-institutional handoff | [Pearl Abyss KRW 60,000 Support](/en/post/pearl-abyss-60k-new-support-retail-to-institutional-handoff-2026-04-27/) |
-| 2026-04-27 | Post-patch weekend data and long-tail durability | [Crimson Desert Post-Patch Data](/en/post/pearl-abyss-crimson-desert-post-patch-weekend-data-2026-04-27/) |
-| 2026-04-25 | Platform re-rating framework | [Pearl Abyss Re-Rating](/en/post/pearl-abyss-crimson-desert-platform-rerating-2026-04-25/) |
+| 2026-04-30 | Non-core asset divestiture and treasury-share cancellation option | [Pearl Abyss CCP/EVE Divestiture: ₩177.1bn Cash Inflow and Treasury Cancellation](/post/pearl-abyss-ccp-eve-divestment-capital-return-2026-04-30/) |
+| 2026-04-29 | Shinhan target-price raise and 2027 sales assumptions | [Pearl Abyss Target Price Gap](/post/pearl-abyss-shinhan-target-price-gap-analysis-2026-04-29/) |
+| 2026-04-27 | KRW 60,000 support and retail-to-institutional handoff | [Pearl Abyss KRW 60,000 Support](/post/pearl-abyss-60k-new-support-retail-to-institutional-handoff-2026-04-27/) |
+| 2026-04-27 | Post-patch weekend data and long-tail durability | [Crimson Desert Post-Patch Data](/post/pearl-abyss-crimson-desert-post-patch-weekend-data-2026-04-27/) |
+| 2026-04-25 | Platform re-rating framework | [Pearl Abyss Re-Rating](/post/pearl-abyss-crimson-desert-platform-rerating-2026-04-25/) |
 
 ---
 
@@ -54,27 +54,27 @@ This hub is the starting map for the full Pearl Abyss / Crimson Desert research 
 
 ### Product Data and Game Quality
 
-- [Pearl Abyss: Why Crimson Desert Patch 1.04 Could Re-Rate the Stock](/en/post/pearl-abyss-crimson-desert-patch-104-witcher-moment-2026-04-23/)
-- [Crimson Desert Post-Patch Data: Reviews Hold, Long-Tail Thesis Improves](/en/post/pearl-abyss-crimson-desert-post-patch-weekend-data-2026-04-27/)
-- [Pearl Abyss After 5M Copies: Why 7.5M Is the New Floor](/en/post/pearl-abyss-crimson-desert-5m-franchise-thesis-2026-04-15/)
+- [Pearl Abyss: Why Crimson Desert Patch 1.04 Could Re-Rate the Stock](/post/pearl-abyss-crimson-desert-patch-104-witcher-moment-2026-04-23/)
+- [Crimson Desert Post-Patch Data: Reviews Hold, Long-Tail Thesis Improves](/post/pearl-abyss-crimson-desert-post-patch-weekend-data-2026-04-27/)
+- [Pearl Abyss After 5M Copies: Why 7.5M Is the New Floor](/post/pearl-abyss-crimson-desert-5m-franchise-thesis-2026-04-15/)
 
 ### Earnings and Valuation
 
-- [Pearl Abyss 1Q26 Preview: 51.9% Margin Case After Crimson Desert](/en/post/pearl-abyss-1q26-earnings-preview-2026-04-21/)
-- [Pearl Abyss Target Price Gap: Why Shinhan's 2027 Sales Cliff Looks Too Harsh](/en/post/pearl-abyss-shinhan-target-price-gap-analysis-2026-04-29/)
-- [Pearl Abyss Investment Thesis: Crimson Desert Turnaround](/en/post/pearl-abyss-investment-thesis-crimson-desert-q1-2026/)
+- [Pearl Abyss 1Q26 Preview: 51.9% Margin Case After Crimson Desert](/post/pearl-abyss-1q26-earnings-preview-2026-04-21/)
+- [Pearl Abyss Target Price Gap: Why Shinhan's 2027 Sales Cliff Looks Too Harsh](/post/pearl-abyss-shinhan-target-price-gap-analysis-2026-04-29/)
+- [Pearl Abyss Investment Thesis: Crimson Desert Turnaround](/post/pearl-abyss-investment-thesis-crimson-desert-q1-2026/)
 
 ### Flow and Price Levels
 
-- [Pearl Abyss KRW 60,000 Support: Retail-to-Institutional Handoff](/en/post/pearl-abyss-60k-new-support-retail-to-institutional-handoff-2026-04-27/)
-- [Pearl Abyss Short Sale Data: Shorts Hit, But Couldn't Push](/en/post/pearl-abyss-short-sale-absorption-2026-04-21/)
-- [Pearl Abyss Daily: KRW 55,000 Support and 5M Copy Watch](/en/post/pearl-abyss-daily-report-2026-04-09/)
+- [Pearl Abyss KRW 60,000 Support: Retail-to-Institutional Handoff](/post/pearl-abyss-60k-new-support-retail-to-institutional-handoff-2026-04-27/)
+- [Pearl Abyss Short Sale Data: Shorts Hit, But Couldn't Push](/post/pearl-abyss-short-sale-absorption-2026-04-21/)
+- [Pearl Abyss Daily: KRW 55,000 Support and 5M Copy Watch](/post/pearl-abyss-daily-report-2026-04-09/)
 
 ### Long-Term Platform Options
 
-- [Pearl Abyss Re-Rating: Crimson Desert Is More Than a Unit-Sales Story](/en/post/pearl-abyss-crimson-desert-platform-rerating-2026-04-25/)
-- [The BDO Resurgence Nobody Noticed: +40% YoY in Crimson Desert's Shadow](/en/post/pearl-abyss-black-desert-online-resurgence-2026-04-19/)
-- [Pearl Abyss CCP/EVE Divestiture: ₩177.1bn Cash Inflow and Treasury Cancellation](/en/post/pearl-abyss-ccp-eve-divestment-capital-return-2026-04-30/)
+- [Pearl Abyss Re-Rating: Crimson Desert Is More Than a Unit-Sales Story](/post/pearl-abyss-crimson-desert-platform-rerating-2026-04-25/)
+- [The BDO Resurgence Nobody Noticed: +40% YoY in Crimson Desert's Shadow](/post/pearl-abyss-black-desert-online-resurgence-2026-04-19/)
+- [Pearl Abyss CCP/EVE Divestiture: ₩177.1bn Cash Inflow and Treasury Cancellation](/post/pearl-abyss-ccp-eve-divestment-capital-return-2026-04-30/)
 
 ---
 

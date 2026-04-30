@@ -71,7 +71,7 @@ El Cheongung-II ofrece una alternativa técnicamente competitiva con plazos de e
 
 El contrato con los Emiratos Árabes Unidos —de aproximadamente **KRW 3,5 billones**— sigue siendo el mayor pedido de exportación individual en la historia de LIG Nex1. El contrato se firmó en 2022 y las entregas están actualmente en marcha, lo que significa que una parte significativa del reconocimiento de ingresos todavía está por llegar. Este contrato por sí solo valida la competitividad internacional del Cheongung-II y ha servido como el acuerdo de referencia para negociaciones posteriores.
 
-### Arabia Saudita (negociación activa, ~KRW 5 billones o más)
+### Arabia Saudita (negociación activa, \~KRW 5 billones o más)
 
 Arabia Saudita se encuentra actualmente en negociaciones activas para la adquisición del Cheongung-II. El valor estimado del contrato supera los KRW 5 billones, lo que haría palidecer el acuerdo con los EAU en comparación. No se ha anunciado públicamente ninguna fecha de firma, pero el agravamiento del riesgo iraní ha acelerado, según se informa, las conversaciones a nivel ministerial.
 
@@ -158,4 +158,6 @@ Los KRW 3,2 billones de ingresos en 2025 ya representan una expansión dramátic
 
 ## Aviso legal
 
-*Este artículo se elabora únicamente con fines informativos y educativos. No constituye asesoramiento de inversión, una solicitud de compra o venta de valores, ni una recomendación de ningún valor específico. Todos los datos provienen de comunicaciones públicas de la empresa, informes del sector y fuentes de noticias a la fecha de publicación. La rentabilidad pasada de una acción no es indicativa de resultados futuros. Los inversores deben realizar su propia diligencia debida y consultar con un asesor financiero autorizado antes de tomar decisiones de inversión. El autor y el editor no mantienen posiciones en ninguno de los valores mencionados en el momento de la publicación.*
+---
+
+*Disclaimer: For research and information purposes only. Not investment advice. Names cited are for analytical illustration; readers should perform their own due diligence and consult licensed advisors before any investment decision.*

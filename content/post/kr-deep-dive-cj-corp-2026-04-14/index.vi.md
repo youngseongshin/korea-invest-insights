@@ -217,4 +217,4 @@ Xu hướng K-beauty đã chuyển từ ngách sang chủ đạo. Hạ tầng đ
 
 ---
 
-> **Tuyên bố miễn trách nhiệm**: Bài phân tích này chỉ nhằm mục đích cung cấp thông tin và không cấu thành lời khuyên đầu tư. Tất cả số liệu tài chính được lấy từ các công bố thông tin đại chúng và có thể thay đổi. Kết quả trong quá khứ của bất kỳ chứng khoán nào không đảm bảo kết quả trong tương lai. Nhà đầu tư nên tự thực hiện thẩm định độc lập và tham khảo ý kiến cố vấn tài chính có chuyên môn trước khi đưa ra quyết định đầu tư.
+*Disclaimer: For research and information purposes only. Not investment advice. Names cited are for analytical illustration; readers should perform their own due diligence and consult licensed advisors before any investment decision.*

@@ -74,3 +74,7 @@ KOSPI銘柄の64.2%が50日移動平均線を上回り、59.3%が200日線超え
 ---
 
 *データ基準：2026-04-21 16:09 KST。スクリーナーはファンダメンタルズの改善を捉えるものであり、個別銘柄の売買推奨ではありません。*
+
+---
+
+*Disclaimer: For research and information purposes only. Not investment advice. Names cited are for analytical illustration; readers should perform their own due diligence and consult licensed advisors before any investment decision.*

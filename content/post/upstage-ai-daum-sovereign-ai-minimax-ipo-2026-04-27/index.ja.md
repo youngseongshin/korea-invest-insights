@@ -666,4 +666,4 @@ Upstageが「Daumは単にIPOの売上規模のために取得したポータル
 
 ---
 
-*免責事項：本稿は調査・情報提供を目的としたものであり、投資助言ではありません。記載された企業名は分析上の例示であり、投資判断を行う前に読者自身が十分なデューデリジェンスを実施し、有資格のアドバイザーに相談されることを強くお勧めします。*
+*Disclaimer: For research and information purposes only. Not investment advice. Names cited are for analytical illustration; readers should perform their own due diligence and consult licensed advisors before any investment decision.*

@@ -92,4 +92,4 @@ Với nhà đầu tư nước ngoài, tín hiệu quan trọng nhất cần theo
 
 ---
 
-*Bài viết mang tính phân tích thị trường và không cấu thành lời khuyên đầu tư. Mọi quyết định đầu tư cần được thực hiện dựa trên đánh giá độc lập và điều kiện tài chính cá nhân.*
+*Disclaimer: For research and information purposes only. Not investment advice. Names cited are for analytical illustration; readers should perform their own due diligence and consult licensed advisors before any investment decision.*

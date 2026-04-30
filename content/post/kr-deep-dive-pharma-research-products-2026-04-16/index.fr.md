@@ -177,3 +177,7 @@ Les investisseurs étrangers peuvent acheter **214450.KQ** directement sur le KO
 ---
 
 *Cette analyse est fournie à titre informatif uniquement et ne constitue pas un conseil en investissement. Toutes les données financières référencées sont issues de dépôts publics et de données de marché accessibles au public. Les investisseurs doivent effectuer leurs propres vérifications préalables et consulter un conseiller financier agréé avant toute décision d'investissement. Les performances passées de l'action ou du secteur ne garantissent pas les résultats futurs.*
+
+---
+
+*Disclaimer: For research and information purposes only. Not investment advice. Names cited are for analytical illustration; readers should perform their own due diligence and consult licensed advisors before any investment decision.*

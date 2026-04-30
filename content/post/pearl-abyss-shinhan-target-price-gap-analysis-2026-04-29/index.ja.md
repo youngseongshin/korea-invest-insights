@@ -78,14 +78,14 @@ series: ["pearl-abyss-crimson-desert-thesis"]
 
 計算確認：
 
-売上高乖離 = 433.5 − 395.0 = ₩38.5B  
+売上高乖離 = 433.5 − 395.0 = ₩38.5B
 売上高乖離率 = 38.5 / 395.0 = 9.7%
 
-営業利益乖離 = 254.7 − 205.0 = ₩49.7B  
+営業利益乖離 = 254.7 − 205.0 = ₩49.7B
 営業利益乖離率 = 49.7 / 205.0 = 24.2%
 
-新韓証券OPM = 254.7 / 433.5 = 58.7%  
-内部OPM = 205.0 / 395.0 = 51.9%  
+新韓証券OPM = 254.7 / 433.5 = 58.7%
+内部OPM = 205.0 / 395.0 = 51.9%
 OPM乖離 = 58.7 − 51.9 = 6.9%p
 
 重要な観察：営業利益の乖離（24.2%）は売上高の乖離（9.7%）の2.5倍に達する。つまり新韓証券のモデルは積極的なユニット数への賭けではなく、**積極的なマージン前提への賭け**である。
@@ -106,7 +106,7 @@ OPM乖離 = 58.7 − 51.9 = 6.9%p
 
 新韓証券の₩433.5B合計から、われわれのモデルと同様にレガシーIP（BDO + EVE）売上高₩97.0Bを控除すると、クリムゾンデザートの想定ASPは以下のとおりになる。
 
-クリムゾンデザート売上高 ≈ 433.5 − 97.0 = ₩336.5B  
+クリムゾンデザート売上高 ≈ 433.5 − 97.0 = ₩336.5B
 想定ASP ≈ ₩336.5B / 370万本 = 約₩91,000 / 本
 
 われわれの内部シナリオ（395万本 × ₩79,800 + ₩97.0B = ₩412.2B、安全マージン₩17.2B控除後 = ₩395.0B）と比較すると、新韓証券の想定1本あたり収益認識額は約₩11,000高い。
@@ -270,4 +270,4 @@ OPM乖離 = 58.7 − 51.9 = 6.9%p
 
 ---
 
-*本稿は調査・解説を目的としたものであり、投資助言を構成するものではありません。保有ポジションは予告なく変更されることがあります。情報源：[新韓証券 パール・アビスレポート](https://www.inven.co.kr/webzine/news/?news=315945&site=crimson)、[The Elec](https://www.thelec.kr/news/articleView.html?idxno=55833)、[パール・アビス公式プレスリリース](https://www.pearlabyss.com/ko-KR/Board/Report)。データは2026年4月29日（KST）時点。*
+*Disclaimer: For research and information purposes only. Not investment advice. Names cited are for analytical illustration; readers should perform their own due diligence and consult licensed advisors before any investment decision.*

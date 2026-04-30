@@ -27,7 +27,7 @@ draft: false
 
 ## TL;DR
 
-- **Pourquoi l'action a bougé** : (1) le FC-BGA est entré dans l'écosystème Nvidia Vera Rubin via le NV Switch, puis en tant que **premier fournisseur sur le Groq3 LPU** (production en série 2T26) — une place confirmée dans la chaîne de valeur des substrats de packaging pour serveurs IA ; (2) le cycle de prix des MLCC s'est retourné à mesure que le contenu en serveurs IA explosait (~600 000 MLCCs par VR200 NVL72) et que Murata / Taiyo Yuden prenaient l'initiative des hausses ; (3) l'expansion vietnamienne de KRW 1,8T et la co-entreprise Sumitomo sur les substrats en verre ont rendu visible l'axe de croissance 2027+.
+- **Pourquoi l'action a bougé** : (1) le FC-BGA est entré dans l'écosystème Nvidia Vera Rubin via le NV Switch, puis en tant que **premier fournisseur sur le Groq3 LPU** (production en série 2T26) — une place confirmée dans la chaîne de valeur des substrats de packaging pour serveurs IA ; (2) le cycle de prix des MLCC s'est retourné à mesure que le contenu en serveurs IA explosait (\~600 000 MLCCs par VR200 NVL72) et que Murata / Taiyo Yuden prenaient l'initiative des hausses ; (3) l'expansion vietnamienne de KRW 1,8T et la co-entreprise Sumitomo sur les substrats en verre ont rendu visible l'axe de croissance 2027+.
 - **Cadrage investisseur** : Un levier composants-et-substrats sur un cycle d'infrastructure IA à la Jevons. Pas une reprise cyclique — **un glissement structurel du mix plus un transfert du pouvoir de fixation des prix**. Event-driven (résultats 1T26, annonce prix Murata, rampe Groq3) se superposant à une optique de compounder de qualité.
 - **Prochaine action** : surveiller les résultats 1T26 fin avril → trajectoire de la marge opérationnelle sur composants et packaging → date officielle de hausse de prix Murata au 2T comme événement de confirmation. Conserver, ou renforcer sur les replis.
 
@@ -51,7 +51,7 @@ draft: false
 - **Produits phares** : (1) MLCC haute capacité, haute température pour serveurs IA, (2) FC-BGA pour accélérateurs IA (NV Switch, Groq3 LPU, AMD MI series).
 - **Chiffres** : Chiffre d'affaires 2025 de KRW 11,3T (record) ; bénéfice opérationnel de KRW 913,3B (+24,3% en glissement annuel). Consensus BO 2026E : KRW 1,1–1,28T. Marge opérationnelle sur composants en reprise structurelle.
 - **Synthèse du fossé concurrentiel** : N°2 mondial sur les MLCC (duopole avec Murata). Premier producteur coréen de FC-BGA de grade serveur en volume (depuis 2022) et l'un des rares acteurs mondiaux capables de produire des substrats serveur haut de gamme. Savoir-faire propriétaire en gravure fine, substrats grande surface à fort nombre de couches, matériaux à faibles pertes.
-- **Vecteur de tendance** : **Fort vent porteur.** Les serveurs IA nécessitent ~20× la quantité de MLCCs des smartphones (≈1 000 par téléphone contre ~600 000 par serveur IA). La tendance grande surface, fort nombre de couches des FC-BGA absorbe la capacité de production disponible.
+- **Vecteur de tendance** : **Fort vent porteur.** Les serveurs IA nécessitent \~20× la quantité de MLCCs des smartphones (≈1 000 par téléphone contre \~600 000 par serveur IA). La tendance grande surface, fort nombre de couches des FC-BGA absorbe la capacité de production disponible.
 - **Déclencheurs de saut quantique** : (a) Une hausse de 10% du prix moyen des MLCC génère un levier opérationnel d'environ KRW 600B ; (b) passage en production de masse des substrats en verre en 2027 ; (c) accession au rang de fournisseur Tier-1 de Nvidia.
 - **Positionnement investisseur** : **Leadership technologique + event-driven + revalorisation — le tout simultanément.** Zone de surchauffe à court terme, mais la mutation structurelle n'est qu'à mi-chemin.
 
@@ -71,10 +71,10 @@ Jusqu'à récemment, SEMCO était perçue comme un proxy Samsung — des substra
 
 | Segment | Produits phares | CA 2025 | Mix | Var. annuelle |
 |---|---|---|---|---|
-| **Composants** | MLCC, inductances de puissance, résistances de puce | ~46 000 | ~41% | +chiffres bas à deux chiffres |
-| **Package Solutions** | FC-BGA, BGA, FC-CSP | ~22 000 | ~19% | FC-BGA serveur +17% |
-| **Solutions Optiques** | Modules caméra, modules de communication | ~37 000 | ~33% | +9% |
-| **Autre / automobile** | — | ~8 000 | ~7% | — |
+| **Composants** | MLCC, inductances de puissance, résistances de puce | \~46 000 | \~41% | +chiffres bas à deux chiffres |
+| **Package Solutions** | FC-BGA, BGA, FC-CSP | \~22 000 | \~19% | FC-BGA serveur +17% |
+| **Solutions Optiques** | Modules caméra, modules de communication | \~37 000 | \~33% | +9% |
+| **Autre / automobile** | — | \~8 000 | \~7% | — |
 | **Total** | | **113 145** | 100% | +9,9% |
 
 > [Inféré] Les chiffres annuels par segment sont cumulés à partir des dépôts trimestriels. Le chiffre d'affaires standalone des composants au 4T25 de KRW 1,32T constituait un record sur un seul trimestre.
@@ -91,11 +91,11 @@ Jusqu'à récemment, SEMCO était perçue comme un proxy Samsung — des substra
 
 | | 2023 | 2024 | 2025 | 2026E | Lecture |
 |---|---|---|---|---|---|
-| Chiffre d'affaires (KRW T) | ~9,4 | ~10,3 | 11,31 | 12,3–12,8E | TCAM 3 ans ~10% |
-| Bénéfice opérationnel (KRW 100M) | ~6 300 | ~7 343 | 9 133 | 11 000–12 800E | [Inféré] fourchette sell-side |
-| Marge opérationnelle | ~6,7% | ~7,1% | 8,1% | **9–10%E** | Amélioration structurelle prix + mix |
-| Marge opérationnelle composants | ~13% | ~14% | ~16% | 18–20%E | Prix moyen MLCC comme moteur |
-| BO Package Solutions (KRW 100M) | ~1 355 | ~2 000 | 3 861E (Mirae) | 5 046E | +10% prix moyen FC-BGA intégré |
+| Chiffre d'affaires (KRW T) | \~9,4 | \~10,3 | 11,31 | 12,3–12,8E | TCAM 3 ans \~10% |
+| Bénéfice opérationnel (KRW 100M) | \~6 300 | \~7 343 | 9 133 | 11 000–12 800E | [Inféré] fourchette sell-side |
+| Marge opérationnelle | \~6,7% | \~7,1% | 8,1% | **9–10%E** | Amélioration structurelle prix + mix |
+| Marge opérationnelle composants | \~13% | \~14% | \~16% | 18–20%E | Prix moyen MLCC comme moteur |
+| BO Package Solutions (KRW 100M) | \~1 355 | \~2 000 | 3 861E (Mirae) | 5 046E | +10% prix moyen FC-BGA intégré |
 
 **Lacune de données** : Le chiffre d'affaires par client est entièrement non divulgué. Les ventilations intra-segment IA/serveur vs. IT vs. automobile ne relèvent que de commentaires qualitatifs.
 
@@ -115,7 +115,7 @@ Jusqu'à récemment, SEMCO était perçue comme un proxy Samsung — des substra
 ### Mécanique du fossé concurrentiel
 
 1. **Performance** : Sur la courbe capacité/tension, les MLCC relèvent d'un duopole Murata-SEMCO. Pour les pièces de grade serveur IA 1kV+, il n'existe pratiquement aucune alternative en dehors de ces deux acteurs.
-2. **Rendement / coût** : Le FC-BGA grande surface pour serveurs (4× la surface, 2× les couches) subit des rendements catastrophiques si le contrôle du gauchissement est défaillant. La R&D accumulée plus les lignes dédiées de Busan et du Vietnam (~KRW 1,9T de CAPEX cumulé plus KRW 1,8T supplémentaires au Vietnam) créent une barrière en termes de coût et de délai pour les suiveurs.
+2. **Rendement / coût** : Le FC-BGA grande surface pour serveurs (4× la surface, 2× les couches) subit des rendements catastrophiques si le contrôle du gauchissement est défaillant. La R&D accumulée plus les lignes dédiées de Busan et du Vietnam (\~KRW 1,9T de CAPEX cumulé plus KRW 1,8T supplémentaires au Vietnam) créent une barrière en termes de coût et de délai pour les suiveurs.
 3. **Qualification** : Les références fournisseurs Big-6 (Nvidia, AMD, Tesla, Broadcom, Apple, AWS) forment une boucle infinie pour les nouveaux entrants — aucune qualification sans références, aucune référence sans qualification. [Inféré] DB Securities cite ceci comme base d'une « croissance régulière et visible ».
 4. **Verrouillage écosystème** : La JV substrat en verre (avec Sumitomo et Dongwoo Fine-Chem) internalise le noyau en verre, un levier potentiel de réduction des coûts face à SKC Absolics. [Fait] SEMCO détient la majorité de la JV.
 
@@ -145,7 +145,7 @@ Jusqu'à récemment, SEMCO était perçue comme un proxy Samsung — des substra
 
 ### Clients MLCC (nature many-to-many)
 
-- **Serveur IA** : Nvidia VR200 NVL72 — ~600 000 MLCCs par serveur, 30%+ de plus que le GB300. [Fait] Samsung Securities (Lee Jong-wook)
+- **Serveur IA** : Nvidia VR200 NVL72 — \~600 000 MLCCs par serveur, 30%+ de plus que le GB300. [Fait] Samsung Securities (Lee Jong-wook)
 - **Automobile** : ADAS (3 000+ par voiture), xEV (10 000–15 000 par voiture)
 - **Smartphone** : Galaxy flagship, OEM chinois
 
@@ -184,7 +184,7 @@ Jusqu'à récemment, SEMCO était perçue comme un proxy Samsung — des substra
 | Définition | NV Switch → statut de premier fournisseur Groq3 LPU élargit l'empreinte substrat au sein de la plateforme IA Nvidia. |
 | Conditions préalables | Historique de production en série FC-BGA serveur + précédent AMD + validation du rendement |
 | Marqueurs confirmés | (i) Approvisionnement NV Switch confirmé fév. 2026 ; (ii) premier fournisseur Groq3 LPU avr. 2026, production en série 2T26 ; (iii) Tesla AI6 susceptible d'adopter |
-| Effet attendu | BO Package Solutions : KRW ~200B (2025) → KRW ~386B (2026) → KRW ~505B (2027) selon Mirae Asset |
+| Effet attendu | BO Package Solutions : KRW \~200B (2025) → KRW \~386B (2026) → KRW \~505B (2027) selon Mirae Asset |
 | Risque | (a) Glissement des expéditions GPU Nvidia ; (b) défense de parts Unimicron / Ibiden ; (c) volume réel Groq3 inférieur au plan |
 
 ### Déclencheur 2. Cycle de prix MLCC (event-driven, partiellement intégré)
@@ -272,10 +272,14 @@ Jusqu'à récemment, SEMCO était perçue comme un proxy Samsung — des substra
 2. **Amélioration qualitative du mix client** : Dépendance Samsung de >60% vers un Big-6 diversifié (Nvidia, AMD, Tesla, Broadcom, Apple, AWS), et plus précisément une **place Tier-1 au cœur de la plateforme Nvidia** comme actif de référence.
 3. **Option nouvelle génération sécurisée** : La JV substrat en verre positionne SEMCO aux côtés de SKC Absolics comme seules options d'approvisionnement coréennes.
 
-**Mise en garde** : à ~2,8× PBR et ~18× PER (sur 2025), la valorisation n'est pas encore aux extrêmes d'un pic cyclique, mais **le consensus intègre déjà un BO 2026E de KRW 1,1–1,3T**. Si la surprise sur les résultats est décevante, le repli peut s'amplifier. **Les résultats 1T26 et le rythme du transfert du prix moyen sont le pivot clé.**
+**Mise en garde** : à \~2,8× PBR et \~18× PER (sur 2025), la valorisation n'est pas encore aux extrêmes d'un pic cyclique, mais **le consensus intègre déjà un BO 2026E de KRW 1,1–1,3T**. Si la surprise sur les résultats est décevante, le repli peut s'amplifier. **Les résultats 1T26 et le rythme du transfert du prix moyen sont le pivot clé.**
 
 Sous l'angle du paradoxe de Jevons, les gains d'efficacité de l'inférence IA (TurboQuant, DeepSeek, etc.) sont plus susceptibles de se traduire par une **croissance agrégée des déploiements de serveurs** que de déprimer la demande en MLCC / FC-BGA. Au niveau des composants et des substrats, la courbe de demande à moyen terme devrait rester orientée à la hausse — un vecteur de levier qui opère à l'inverse du thème d'efficacité logicielle.
 
 ---
 
 *Ce billet est uniquement à des fins de recherche et de commentaire, et ne constitue pas un conseil en investissement. Le positionnement de l'auteur peut évoluer sans préavis. Données au 21 avril 2026 KST.*
+
+---
+
+*Disclaimer: For research and information purposes only. Not investment advice. Names cited are for analytical illustration; readers should perform their own due diligence and consult licensed advisors before any investment decision.*

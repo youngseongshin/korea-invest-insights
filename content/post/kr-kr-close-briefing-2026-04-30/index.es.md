@@ -82,3 +82,7 @@ Tres vectores macro dominaron el sentimiento de la sesión y seguirán siendo re
 El mercado coreano permanecerá cerrado el 1 de mayo por el Día del Trabajo, por lo que la próxima sesión regular será el lunes 4 de mayo. Los inversores internacionales deberán monitorizar durante el fin de semana el cierre de los mercados estadounidenses, la evolución del precio del petróleo y cualquier desarrollo en Oriente Medio que pueda marcar el tono de apertura de la semana.
 
 Los catalizadores domésticos más importantes a seguir son la publicación del informe completo de resultados de Samsung Electronics, la evolución del interés corto en Samsung Electro-Mechanics, y si los valores de energía eléctrica e infraestructura consolidan sus ganancias recientes o ceden ante la toma de beneficios. El KOSPI técnicamente sigue siendo alcista, pero la sesión de hoy recuerda que la liquidez extranjera puede cambiar el tono rápidamente cuando el contexto macro se complica.
+
+---
+
+*Disclaimer: For research and information purposes only. Not investment advice. Names cited are for analytical illustration; readers should perform their own due diligence and consult licensed advisors before any investment decision.*

@@ -173,4 +173,4 @@ The K9 Thunder (K9 자주포) is a 155mm/52-caliber self-propelled howitzer deve
 
 ---
 
-*This analysis is for informational purposes only and does not constitute investment advice. Past performance is not indicative of future results. Investors should conduct their own due diligence and consult a qualified financial advisor before making any investment decisions. Financial data referenced reflects publicly available information as of the most recently reported periods; readers should verify all figures against the latest DART filings and company disclosures.*
+*Disclaimer: For research and information purposes only. Not investment advice. Names cited are for analytical illustration; readers should perform their own due diligence and consult licensed advisors before any investment decision.*

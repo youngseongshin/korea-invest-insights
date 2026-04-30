@@ -36,7 +36,7 @@ Un article très cité du Korea Economic Daily (21 avril 2026) cadre l'histoire 
 | BOE bloqué des échanges avec le DoD américain avant fin juin | **Partiellement vrai / dépassé** | Interdiction directe 1260H effective le 30 juin 2026 ; indirecte à partir de 2027. **BOE n'est pas actuellement inscrit.** Alibaba/BYD ont été brièvement ajoutés en février 2026 puis rapidement retirés — l'inscription est une variable politique |
 | Transfert OLED iPhone 18 / MacBook Pro Apple vers les coréens | **Vrai** | Janvier 2026 : des problèmes de qualité BOE ont déclenché des re-commandes urgentes vers Samsung Display |
 | Expéditions de modules de panneaux Tianan/Asan → Vietnam +19 % en glissement annuel | **Vrai** | Confirmé dans les sources |
-| Capex 8,6G chinois (BOE B16 ~13 000 Mds KRW, Visionox V5 ~10 400 Mds KRW) | **Vrai** | Objectifs de lancement 2026, commandes d'équipements en cours |
+| Capex 8,6G chinois (BOE B16 \~13 000 Mds KRW, Visionox V5 \~10 400 Mds KRW) | **Vrai** | Objectifs de lancement 2026, commandes d'équipements en cours |
 
 **Niveau de confiance : moyen-élevé.** L'histoire au premier ordre (BOE sous pression, la Corée en bénéficie) est réelle. L'application imminente de la 1260H est **un événement politique non résolu**. La traiter comme un scénario de base introduit un risque narratif.
 
@@ -44,7 +44,7 @@ Un article très cité du Korea Economic Daily (21 avril 2026) cadre l'histoire 
 
 Le cadrage « acheter des fabricants de panneaux coréens » présente un défaut fatal pour les investisseurs souhaitant combiner **exposition aux semi-conducteurs** et **exposition aux écrans** sur un seul ticker :
 
-- **Samsung Display n'est pas coté.** On peut acheter Samsung Electronics (005930), mais l'affichage représente ~10 % du chiffre d'affaires, dilué par les activités bien plus importantes de la mémoire et de la fonderie.
+- **Samsung Display n'est pas coté.** On peut acheter Samsung Electronics (005930), mais l'affichage représente \~10 % du chiffre d'affaires, dilué par les activités bien plus importantes de la mémoire et de la fonderie.
 - **LG Display (034220) est un pur fabricant de panneaux** — sans exposition aux semi-conducteurs. S'il bénéficie du transfert des commandes depuis BOE, il ne profite pas du cycle HBM qui se déroule en parallèle.
 
 Pour cumuler les deux cycles sur un seul ticker, il faut descendre jusqu'à la **couche équipements et matériaux**. C'est là que réside l'histoire de second ordre.
@@ -86,7 +86,7 @@ Le sell-side a intégré le transfert de panneaux de BOE vers Samsung Display. C
 
 ## Partie 4 — AP System (265520) : analyse approfondie
 
-> Action ₩24 150 | Capitalisation boursière ~₩363,5 Mds | P/E TTM 15,4x | Participation étrangère 16,80 % | Au 25/04/2026
+> Action ₩24 150 | Capitalisation boursière \~₩363,5 Mds | P/E TTM 15,4x | Participation étrangère 16,80 % | Au 25/04/2026
 
 ### Ce que la société fait réellement
 
@@ -111,8 +111,8 @@ Le cadrage plus précis est donc : **AP System est le plus directement exposé a
 | Indicateur | 2022 | 2023 | 2024 (est.) | 2025E (base YTD 3T) |
 |---|---|---|---|---|
 | Chiffre d'affaires (₩ Mds) | 4 966 | 5 336 (+9,7 %) | 4 850-5 164 | -6,9 % en glissement annuel YTD |
-| Résultat opérationnel (₩ Mds) | 905 | 601 (-33,6 %) | ~462-487 | -30,7 % en glissement annuel YTD |
-| Marge opérationnelle | 18,2 % | 11,3 % | ~9,2 % | 8-10 % est. |
+| Résultat opérationnel (₩ Mds) | 905 | 601 (-33,6 %) | \~462-487 | -30,7 % en glissement annuel YTD |
+| Marge opérationnelle | 18,2 % | 11,3 % | \~9,2 % | 8-10 % est. |
 | Trésorerie nette (₩ Mds) | — | — | 1 000+ | 1 000+ est. |
 
 Les marges ont culminé à 18,2 % en 2022. Le plancher du cycle actuel se situe en 2025. L'inflexion de reprise interviendra lors de la reconnaissance des revenus des commandes 8,6G — second semestre 2026 à 2027. « Acheter sur repli » au creux de la courbe en J est théoriquement correct, mais le creux doit être confirmé par la trajectoire trimestrielle, pas uniquement par le prix.
@@ -197,3 +197,7 @@ Traitez le laser HBM comme une **optionnalité, pas comme la thèse principale.*
 ---
 
 _Cet article est le premier volet de la série Display Equipment Thesis 2026. Il s'articule avec la thèse plus large Korea Outperformance 2026 (cadre macro) et la série KOSDAQ Structural Change 2026 (filtres micro). Rien dans ce texte ne constitue un conseil en investissement ; toutes les estimations comportent des fourchettes dépendantes des hypothèses. Sources : dépôts DART, FnGuide, Diylek, KIPOST, rapports de brokers (Shinhan, NH, Korea IR Council), communiqués d'entreprise publics._
+
+---
+
+*Disclaimer: For research and information purposes only. Not investment advice. Names cited are for analytical illustration; readers should perform their own due diligence and consult licensed advisors before any investment decision.*

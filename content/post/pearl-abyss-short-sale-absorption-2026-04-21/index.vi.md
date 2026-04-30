@@ -269,3 +269,7 @@ Tóm gọn nhất:
 ---
 
 *Chỉ mang tính nghiên cứu và bình luận, không phải khuyến nghị đầu tư. Nguồn dữ liệu bán khống: CSV cuối phiên do người dùng cung cấp. Dữ liệu giá và dòng tiền từ feed đóng cửa KRX, ngày 21/04/2026 KST.*
+
+---
+
+*Disclaimer: For research and information purposes only. Not investment advice. Names cited are for analytical illustration; readers should perform their own due diligence and consult licensed advisors before any investment decision.*

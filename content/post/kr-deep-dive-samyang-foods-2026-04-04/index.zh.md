@@ -172,4 +172,4 @@ Buldak（불닭）在韩语中直译为"火鸡"。Buldak炒面是一种干拌式
 
 ---
 
-*本文仅供参考，不构成任何投资建议。文中所有财务数据均来源于截至最新报告期的公开文件与信息披露。投资者在作出任何投资决策前，应进行独立尽职调查并咨询持牌金融顾问。历史表现不代表未来结果。*
+*Disclaimer: For research and information purposes only. Not investment advice. Names cited are for analytical illustration; readers should perform their own due diligence and consult licensed advisors before any investment decision.*

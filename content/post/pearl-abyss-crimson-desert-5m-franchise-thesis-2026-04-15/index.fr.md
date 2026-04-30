@@ -19,7 +19,7 @@ Mais si vous cadrez encore la thèse Pearl Abyss autour de la question « attein
 
 ## Résumé
 
-- **7,5 millions d'exemplaires n'est plus le scénario haussier — c'est plutôt le plancher.** Avec 5 M confirmés au 15 avril et un rythme récent d'environ 71 000 exemplaires/jour sur la dernière fenêtre de suivi officielle, atteindre 7,5 M nécessite seulement ~9 600 unités/jour pour le reste de l'année. L'écart entre la vélocité actuelle et le rythme requis est considérable.
+- **7,5 millions d'exemplaires n'est plus le scénario haussier — c'est plutôt le plancher.** Avec 5 M confirmés au 15 avril et un rythme récent d'environ 71 000 exemplaires/jour sur la dernière fenêtre de suivi officielle, atteindre 7,5 M nécessite seulement \~9 600 unités/jour pour le reste de l'année. L'écart entre la vélocité actuelle et le rythme requis est considérable.
 - **Le véritable catalyseur est 9–10 millions d'exemplaires + une feuille de route formelle DLC/multijoueur.** Les mises à jour gratuites ne comptent pas pour leur chiffre d'affaires direct, mais pour leur capacité à **aplatir la courbe de déclin** et à prolonger la queue de revenus jusqu'en 2027.
 - **BlackSpace Engine est éprouvé. Dokabi reste une option.** Le moteur est passé du statut de démo technologique à infrastructure AAA commerciale — mais l'essentiel de toute revalorisation de la capitalisation boursière provient encore des flux de trésorerie post-2027 de Crimson Desert. Dokabi représente une valeur optionnelle à ce stade, rien de plus.
 
@@ -51,7 +51,7 @@ En décomposant selon le modèle **P × Q × C** : **P** = ASP du jeu de base pa
 
 **Classification : Alpha idiosyncratique**
 
-Au 15 avril, nous sommes à 5 millions. Pour atteindre 7,5 M d'ici la fin de l'année, il faut vendre 2,5 M de plus sur ~260 jours — soit environ **9 600 exemplaires par jour**. Pendant ce temps, la fenêtre officiellement traçable la plus récente (1er avril à 4 M → 15 avril à 5 M) implique environ **71 000 exemplaires par jour**. Ce rythme ne se maintiendra pas indéfiniment, mais l'écart entre la vélocité requise et celle observée est frappant.
+Au 15 avril, nous sommes à 5 millions. Pour atteindre 7,5 M d'ici la fin de l'année, il faut vendre 2,5 M de plus sur \~260 jours — soit environ **9 600 exemplaires par jour**. Pendant ce temps, la fenêtre officiellement traçable la plus récente (1er avril à 4 M → 15 avril à 5 M) implique environ **71 000 exemplaires par jour**. Ce rythme ne se maintiendra pas indéfiniment, mais l'écart entre la vélocité requise et celle observée est frappant.
 
 Dans notre évaluation, **7,5 millions n'est plus « jusqu'où peut-il aller ? » — c'est « quel est le minimum qu'il peut tenir ? »**
 
@@ -59,7 +59,7 @@ En termes de cours boursier : notre modèle interne de sensibilité aux bénéfi
 
 La mauvaise valorisation persistante du marché : le **cadre « pic de lancement → déclin immédiat »** que les investisseurs coréens appliquent de manière réflexive aux jeux en boîte. Les chiffres disent actuellement le contraire. 7,5 M est une barre trop basse. **Le débat devrait se concentrer sur 9 à 10 M et sur la question de savoir si les flux de trésorerie survivent jusqu'en 2027.**
 
-**Contre-argument :** Si le taux de sortie de mai-juin s'effondre et que les ventes quotidiennes convergent vers ~10 000, la thèse « 7,5 M est le plancher » s'affaiblit considérablement. **La pente de décélération de mai-juin compte davantage que le total absolu des ventes.**
+**Contre-argument :** Si le taux de sortie de mai-juin s'effondre et que les ventes quotidiennes convergent vers \~10 000, la thèse « 7,5 M est le plancher » s'affaiblit considérablement. **La pente de décélération de mai-juin compte davantage que le total absolu des ventes.**
 
 ### Thèse 2 : Les mises à jour gratuites ne concernent pas le contenu gratuit — elles défendent le taux de déclin
 
@@ -103,7 +103,7 @@ Le sens est simple. **Les positions existantes sont tenable, mais les nouveaux c
 
 **Le cadre de valorisation** fonctionne sur deux niveaux :
 
-1. **Le potentiel haussier du jeu de base** utilise le modèle de sensibilité aux bénéfices FY26 : **7,8 M d'exemplaires base = KRW 74 500 ; ~KRW 10 000 par million d'exemplaires supplémentaires ; PER +2–3x sur annonce DLC.**
+1. **Le potentiel haussier du jeu de base** utilise le modèle de sensibilité aux bénéfices FY26 : **7,8 M d'exemplaires base = KRW 74 500 ; \~KRW 10 000 par million d'exemplaires supplémentaires ; PER +2–3x sur annonce DLC.**
 2. **Les options moteur/Dokabi** utilisent une SOTP IP conservatrice : **Dokabi base KRW 0,2 billion / haussier KRW 0,4 billion ; moteur et autres options KRW 0,1–0,2 billion.**
 
 Matrice de scénarios :
@@ -146,7 +146,7 @@ Au-dessus de KRW 100 000, il faut **volume de ventes + feuille de route ensemble
 - 4 M d'exemplaires confirmés le 1er avril ; 5 M confirmés le 15 avril
 - Mises à jour gratuites avril-juin annoncées : défis de boss, reconquête, paramètres de difficulté, nouvelles compétences/costumes/familiers/montures, stockage, améliorations interface/contrôle
 - R&D S1 2025 : KRW 61,2 milliards (37,5 % du chiffre d'affaires) ; BlackSpace Engine axé sur le ray tracing, rendu, physique, optimisation monde ouvert
-- Direction : révélation de Dokabi « au moment approprié » après Crimson Desert ; rapport séparé estimant ~2 ans jusqu'au lancement
+- Direction : révélation de Dokabi « au moment approprié » après Crimson Desert ; rapport séparé estimant \~2 ans jusqu'au lancement
 
 **[Inférence]**
 - 7,5 M est désormais un plancher plutôt qu'un objectif haussier
@@ -170,3 +170,7 @@ Le prochain point de décision est unique : **les données de mai-juin soutienne
 ---
 
 *Avertissement : Cette analyse est fournie à titre informatif uniquement et ne constitue pas un conseil en investissement. Toutes les décisions d'investissement doivent être basées sur vos propres recherches et votre évaluation des risques.*
+
+---
+
+*Disclaimer: For research and information purposes only. Not investment advice. Names cited are for analytical illustration; readers should perform their own due diligence and consult licensed advisors before any investment decision.*

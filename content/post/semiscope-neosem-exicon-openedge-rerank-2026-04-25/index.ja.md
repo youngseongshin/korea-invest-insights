@@ -241,4 +241,4 @@ series: ["semiscope-2026"]
 
 ---
 
-*免責事項：本記事は調査・情報提供のみを目的としており、投資助言ではありません。記載された銘柄名は分析上の例示であり、読者は自身でデューデリジェンスを行い、投資判断を行う前にライセンスを有するアドバイザーに相談してください。*
+*Disclaimer: For research and information purposes only. Not investment advice. Names cited are for analytical illustration; readers should perform their own due diligence and consult licensed advisors before any investment decision.*

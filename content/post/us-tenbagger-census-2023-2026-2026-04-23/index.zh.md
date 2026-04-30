@@ -9,7 +9,7 @@ series: ["tenbagger-analysis-2026"]
 ---
 
 > **系列 — Tenbagger Analysis 2026（第2篇，共2篇）**
-> ① [韩国2023-2026年27只十倍股](/en/post/kr-tenbagger-census-2023-2026-2026-04-23/) — KOSPI + KOSDAQ侧
+> ① [韩国2023-2026年27只十倍股](/post/kr-tenbagger-census-2023-2026-2026-04-23/) — KOSPI + KOSDAQ侧
 > ② **本篇** — 美股侧：40只标的、AI基础设施主线，以及与韩股的配对交易
 
 ---
@@ -192,6 +192,8 @@ series: ["tenbagger-analysis-2026"]
 
 ---
 
-_本文为Tenbagger Analysis 2026系列收官篇。[第一篇：韩国27只十倍股，以及电网为何悄然跑赢AI。](/en/post/kr-tenbagger-census-2023-2026-2026-04-23/)_
+_本文为Tenbagger Analysis 2026系列收官篇。[第一篇：韩国27只十倍股，以及电网为何悄然跑赢AI。](/post/kr-tenbagger-census-2023-2026-2026-04-23/)_
 
-_文中所列标的均为选股灵感参考，非任何投资建议。_
+---
+
+*Disclaimer: For research and information purposes only. Not investment advice. Names cited are for analytical illustration; readers should perform their own due diligence and consult licensed advisors before any investment decision.*

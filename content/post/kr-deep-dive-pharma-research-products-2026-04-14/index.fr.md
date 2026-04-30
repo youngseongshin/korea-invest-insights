@@ -209,3 +209,7 @@ Pour les données financières les plus récentes, consultez le dernier rapport 
 ---
 
 *Cette analyse est fournie à titre informatif uniquement et ne constitue pas un conseil en investissement. Tout investissement comporte des risques, y compris la perte possible du capital investi. Les performances passées d'une action ne préjugent pas des résultats futurs. Consultez un conseiller financier qualifié avant de prendre toute décision d'investissement. Les chiffres financiers mentionnés sont basés sur les dépôts DART et les données de marché accessibles au public pour les périodes les plus récemment publiées ; vérifiez toujours les dépôts actuels avant d'agir sur la base d'une quelconque donnée.*
+
+---
+
+*Disclaimer: For research and information purposes only. Not investment advice. Names cited are for analytical illustration; readers should perform their own due diligence and consult licensed advisors before any investment decision.*

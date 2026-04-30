@@ -59,12 +59,12 @@ La ventaja de SK hynix en HBM es tanto técnica como relacional. La compañía c
 
 SK hynix reporta dos familias de productos principales:
 
-**DRAM (~70% de los ingresos)**
+**DRAM (\~70% de los ingresos)**
 - DDR5 convencional para servidores, PC y móviles — la base comoditizada
 - HBM (HBM3, HBM3E, y en transición a HBM4) — el motor de crecimiento premium de alto margen
 - La HBM conlleva un premio significativo en el precio de venta promedio (ASP) frente a la DRAM convencional, supuestamente 5–8 veces por bit en algunas configuraciones, lo que infla de manera desproporcionada los márgenes a medida que aumenta la mezcla de HBM
 
-**NAND (~30% de los ingresos)**
+**NAND (\~30% de los ingresos)**
 - NAND para clientes y consumidores (SSD, almacenamiento móvil)
 - SSD empresariales a través de Solidigm — el subsegmento de mayor crecimiento
 - Según presentaciones recientes y comentarios de resultados, los precios de los eSSD han subido de forma pronunciada, impulsados por la demanda de centros de datos de IA para SSD NVMe de alta capacidad
@@ -94,7 +94,7 @@ La cadena de suministro de HBM está extraordinariamente restringida. La producc
 
 ### Catalizador 2: Confirmación del liderazgo tecnológico en HBM4
 
-SK hynix ha anunciado su preparación para la producción de HBM4 en 2026. Si la compañía logra escalar HBM4 antes que Samsung — que ha tenido problemas documentados de rendimiento con HBM avanzada — la cuota de mercado de SK hynix podría expandirse del ~50% hacia el 55–60%. Cada punto porcentual de cuota de mercado de HBM a precios de HBM4 tiene implicaciones significativas en las ganancias por acción. Una victoria limpia en la calificación de HBM4 para Nvidia sería un catalizador positivo de peso.
+SK hynix ha anunciado su preparación para la producción de HBM4 en 2026. Si la compañía logra escalar HBM4 antes que Samsung — que ha tenido problemas documentados de rendimiento con HBM avanzada — la cuota de mercado de SK hynix podría expandirse del \~50% hacia el 55–60%. Cada punto porcentual de cuota de mercado de HBM a precios de HBM4 tiene implicaciones significativas en las ganancias por acción. Una victoria limpia en la calificación de HBM4 para Nvidia sería un catalizador positivo de peso.
 
 ### Catalizador 3: Alza del ciclo NAND / Opcionalidad de Solidigm
 
@@ -195,4 +195,6 @@ Para el inversor global que construye un portafolio de infraestructura de IA, SK
 
 *Referencias de datos: Presentaciones DART de SK hynix, datos de mercado KRX, canal de análisis interno (abril de 2026), materiales de relaciones con inversores de la compañía. Las cifras financieras citadas corresponden a los períodos reportados más recientemente y deben verificarse contra las presentaciones vigentes antes de su uso.*
 
-**Este análisis tiene únicamente fines informativos y no constituye asesoramiento de inversión. El rendimiento pasado no es indicativo de resultados futuros. Los inversores deben realizar su propia diligencia debida y consultar a un asesor financiero autorizado antes de tomar cualquier decisión de inversión.**
+---
+
+*Disclaimer: For research and information purposes only. Not investment advice. Names cited are for analytical illustration; readers should perform their own due diligence and consult licensed advisors before any investment decision.*

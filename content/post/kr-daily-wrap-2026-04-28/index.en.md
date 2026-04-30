@@ -83,4 +83,6 @@ Jeoryong Industrial manufactures structural metal products and power infrastruct
 
 **Screener Legend:** QC = KR Quality Compounder | SMQ = KR Smart Money Quality | CR = KR Cycle Rerating | SME = KR Smart Money Earnings | PEAD = KR Post-Earnings Drift | CU = Consensus Up Revision
 
-*This post is a screener-based editorial research queue, not investment advice. All flow data as of most recent available (April 24–28 per source). DART filings cited are from official DART disclosure system.*
+---
+
+*Disclaimer: For research and information purposes only. Not investment advice. Names cited are for analytical illustration; readers should perform their own due diligence and consult licensed advisors before any investment decision.*

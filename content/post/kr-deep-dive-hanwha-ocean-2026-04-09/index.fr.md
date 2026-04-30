@@ -25,7 +25,7 @@ draft: false
 | **Siège social** | Geoje, Corée du Sud |
 | **Produits clés** | Méthaniers GNL, VLCC, VLAC, sous-marins militaires, destroyers, services MRO |
 | **Cours de l'action (9 avr. 2026)** | KRW 123 500 |
-| **Objectif de cours consensus** | ~KRW 160 000–170 000 |
+| **Objectif de cours consensus** | \~KRW 160 000–170 000 |
 
 **En bref :** Hanwha Ocean est le deuxième constructeur naval coréen par le chiffre d'affaires et, sans doute, la plateforme de défense maritime la mieux positionnée stratégiquement du pays. L'entreprise tire ses revenus de la construction de méthaniers GNL et de supertankers qui alimentent le commerce énergétique mondial, tout en se positionnant comme fournisseur de référence pour les programmes de sous-marins et destroyers des alliés de l'OTAN — de la future flotte de sous-marins canadienne aux destroyers de nouvelle génération KDDX. Soutenu par le conglomérat de défense du groupe Hanwha (qui couvre déjà les systèmes terrestres, l'aérospatiale et les armements guidés), Hanwha Ocean constitue le bras maritime du groupe à une époque où les marines du monde entier cherchent désespérément à se réarmer plus vite que leurs chantiers navals nationaux ne le permettent.
 
@@ -51,7 +51,7 @@ Les budgets de défense mondiaux connaissent une hausse sans précédent depuis 
 
 **Vent porteur n°3 : La préférence pour la construction navale alliée**
 
-La politique de l'administration Trump en faveur des partenariats industriels alliés a constitué un catalyseur direct. Comme l'a résumé un titre de la presse coréenne : « Trump a choisi Hanwha Ocean — va-t-elle dominer le marché MRO de la Marine américaine estimé à KRW 55 000 milliards ? » Le marché annuel de construction navale et de MRO de la Marine américaine est estimé à plus de KRW 55 000 milliards (~38 milliards USD). Si Hanwha Ocean n'a pas vocation à « monopoliser » ce marché, l'alignement politique entre Washington et Séoul crée de véritables opportunités commerciales chez Philly Shipyard qui auraient été inimaginables il y a cinq ans.
+La politique de l'administration Trump en faveur des partenariats industriels alliés a constitué un catalyseur direct. Comme l'a résumé un titre de la presse coréenne : « Trump a choisi Hanwha Ocean — va-t-elle dominer le marché MRO de la Marine américaine estimé à KRW 55 000 milliards ? » Le marché annuel de construction navale et de MRO de la Marine américaine est estimé à plus de KRW 55 000 milliards (\~38 milliards USD). Si Hanwha Ocean n'a pas vocation à « monopoliser » ce marché, l'alignement politique entre Washington et Séoul crée de véritables opportunités commerciales chez Philly Shipyard qui auraient été inimaginables il y a cinq ans.
 
 ### Avantage concurrentiel face aux pairs mondiaux
 
@@ -75,9 +75,9 @@ D'après le rapport semestriel S1 2025 déposé sur DART (dart.fss.or.kr) et les
 
 | Segment | CA S1 2025 | Part |
 |---|---|---|
-| Marine marchande (상선) | KRW 5 370 mds | ~83 % |
-| Marine & Navires spéciaux (해양/특수선) | KRW 1 060 mds | ~16 % |
-| E&I / Autres | KRW 320 mds | ~5 % |
+| Marine marchande (상선) | KRW 5 370 mds | \~83 % |
+| Marine & Navires spéciaux (해양/특수선) | KRW 1 060 mds | \~16 % |
+| E&I / Autres | KRW 320 mds | \~5 % |
 | Ajustement de consolidation | (KRW 380 mds) | — |
 
 Pour l'exercice complet 2025, l'analyse interne évalue les revenus de la marine marchande à environ **KRW 10 500 milliards** et ceux de la marine/navires spéciaux à environ **KRW 830 milliards**, avec un carnet de commandes combiné d'environ **KRW 26 000 milliards** (marine marchande) et **KRW 6 300 milliards** (marine/spécial).
@@ -105,8 +105,8 @@ Hors éléments exceptionnels, la marge opérationnelle sous-jacente est estimé
 
 ### Profil de marges
 
-- **Marge opérationnelle publiée (T4 2025)** : ~5,9 % (avec d'importants éléments exceptionnels)
-- **Marge opérationnelle sous-jacente (ajustée par les analystes)** : ~13 %
+- **Marge opérationnelle publiée (T4 2025)** : \~5,9 % (avec d'importants éléments exceptionnels)
+- **Marge opérationnelle sous-jacente (ajustée par les analystes)** : \~13 %
 - **Trajectoire** : Haussière, à mesure que les contrats post-2023 à ASP élevé supplantent les travaux anciens à faibles marges, et que les revenus de défense/navires spéciaux croissent en proportion
 - **Risque** : Les dépassements de coûts sur les contrats de défense et les dépenses d'investissement pour l'expansion des capacités pourraient créer une volatilité trimestrielle
 
@@ -155,7 +155,7 @@ Un retard, un fractionnement ou une perte du contrat canadien supprimerait un pi
 Hanwha Ocean n'est manifestement pas un « compounder stable ». Les résultats trimestriels oscillent sensiblement en raison de :
 - Les modèles de comptabilisation des paiements progressifs sur les contrats de construction navale à cycle long
 - Les révisions des estimations de coûts pour la défense et les navires spéciaux
-- Les éléments exceptionnels importants (par exemple, les ~KRW 240 milliards de primes et la charge de coûts des navires spéciaux au T4 2025)
+- Les éléments exceptionnels importants (par exemple, les \~KRW 240 milliards de primes et la charge de coûts des navires spéciaux au T4 2025)
 
 Cette volatilité crée un risque de sentiment : une déception lors d'un trimestre à fortes attentes peut provoquer une compression disproportionnée du multiple de valorisation, même lorsque la thèse pluriannuelle sous-jacente reste intacte.
 
@@ -175,7 +175,7 @@ Au cours de clôture du 9 avril 2026 à KRW 123 500, avec des objectifs de cours
 
 | Métrique | Hanwha Ocean | HD KSOE (pair) | Samsung Heavy (pair) |
 |---|---|---|---|
-| PER prospectif | ~29,2x | Inférieur | Inférieur |
+| PER prospectif | \~29,2x | Inférieur | Inférieur |
 | P/B | Prime par rapport à l'historique | — | — |
 | Visibilité du carnet | 3+ ans | 3+ ans | 3+ ans |
 
@@ -231,7 +231,7 @@ Pour les investisseurs cherchant une exposition ciblée à la construction naval
 ## Questions fréquentes des investisseurs
 
 **Hanwha Ocean est-elle un bon investissement ?**
-Hanwha Ocean présente une thèse de croissance structurelle convaincante — domination sur les méthaniers GNL, revalorisation par la défense et tête de pont dans les marchés navals américains. L'action n'est pas bon marché à ~29x les bénéfices prospectifs, et la thèse exige une exécution continue sur de grands contrats navals. Elle convient aux investisseurs convaincus par le récit de la renaissance coréenne de la construction navale et capables de tolérer la volatilité trimestrielle des résultats. *Ceci est une analyse, et non un conseil en investissement.*
+Hanwha Ocean présente une thèse de croissance structurelle convaincante — domination sur les méthaniers GNL, revalorisation par la défense et tête de pont dans les marchés navals américains. L'action n'est pas bon marché à \~29x les bénéfices prospectifs, et la thèse exige une exécution continue sur de grands contrats navals. Elle convient aux investisseurs convaincus par le récit de la renaissance coréenne de la construction navale et capables de tolérer la volatilité trimestrielle des résultats. *Ceci est une analyse, et non un conseil en investissement.*
 
 **Comment acheter des actions Hanwha Ocean ?**
 Les investisseurs internationaux peuvent acquérir 042660.KS directement sur le KOSPI via des courtiers proposant un accès au marché coréen (ex. : Interactive Brokers). Il n'existe actuellement pas d'ADR coté aux États-Unis. Des ETF comme EWY offrent une exposition indirecte. Le règlement s'effectue en KRW (J+2).
@@ -260,3 +260,7 @@ Hanwha Ocean Co., Ltd. est cotée sous le ticker **042660** à la Bourse de Cor�
 ---
 
 > **Avertissement** : Cette analyse est fournie à titre informatif uniquement et ne constitue pas un conseil en investissement. Les performances passées ne préjugent pas des performances futures. Investir dans des actions étrangères comporte des risques de change, des risques politiques et des risques de marché. Effectuez toujours vos propres recherches et consultez un conseiller financier qualifié avant de prendre toute décision d'investissement.
+
+---
+
+*Disclaimer: For research and information purposes only. Not investment advice. Names cited are for analytical illustration; readers should perform their own due diligence and consult licensed advisors before any investment decision.*

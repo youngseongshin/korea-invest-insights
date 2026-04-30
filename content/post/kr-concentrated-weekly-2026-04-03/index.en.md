@@ -35,7 +35,7 @@ LG Innotek, the components subsidiary of LG Corp and a primary camera module sup
 
 The bull thesis is straightforward — multiple business lines are inflecting at the same time, and the earnings revision cycle has momentum. The key risk is concentrated in one question: North American smartphone demand. LG Innotek's fortunes are tightly coupled to its largest customer, and any confirmed softening in end-demand would quickly undermine the thesis.
 
-**Watch for:** 20-day moving average support holding, or further upward revision to Q1 2026 earnings previews.  
+**Watch for:** 20-day moving average support holding, or further upward revision to Q1 2026 earnings previews.
 **Invalidation:** Break of the 20-day moving average accompanied by evidence of North American demand deterioration.
 
 ---
@@ -46,7 +46,7 @@ Pearl Abyss, the Korean game developer behind the globally distributed *Black De
 
 That's the good news. The complication is that the stock has already moved substantially, and at this stage, adding aggressively would mean chasing price — a poor risk/reward trade. The correct posture here is hold and confirm, not buy more.
 
-**Watch for:** 10-day moving average holding, with continued foreign and institutional re-entry confirming the trend.  
+**Watch for:** 10-day moving average holding, with continued foreign and institutional re-entry confirming the trend.
 **Invalidation:** Break below the 10-day moving average, combined with deterioration in concurrent user metrics, review sentiment, or flow data.
 
 ---
@@ -59,7 +59,7 @@ The Q1 2026 earnings outlook is positive, and the investment case is reinforced 
 
 The risk is that trading volume contraction or regulatory disappointment slows the rerating trajectory considerably.
 
-**Watch for:** Relative attractiveness maintained versus Kiwoom, with earnings and dividend momentum confirming.  
+**Watch for:** Relative attractiveness maintained versus Kiwoom, with earnings and dividend momentum confirming.
 **Invalidation:** Sustained trading volume decline plus rollback of regulatory expectations.
 
 ---
@@ -70,7 +70,7 @@ RFHIC is a Korean manufacturer of GaN (gallium nitride) semiconductor components
 
 The problem is timing. The stock has already priced in a significant portion of the optimism, and buying at current levels would deteriorate the risk/reward ratio meaningfully. This is a name to track, not to initiate at current prices.
 
-**Watch for:** A consolidation phase followed by volume re-expansion — a classic momentum reset that would offer a more favorable entry.  
+**Watch for:** A consolidation phase followed by volume re-expansion — a classic momentum reset that would offer a more favorable entry.
 **Invalidation:** Order momentum slowing, or relative strength breaking down on a sustained basis.
 
 ---
@@ -95,4 +95,4 @@ For international investors with a Korean allocation, the current environment re
 
 ---
 
-*This analysis is for informational purposes only and does not constitute investment advice. All market data referenced reflects conditions as of April 3, 2026.*
+*Disclaimer: For research and information purposes only. Not investment advice. Names cited are for analytical illustration; readers should perform their own due diligence and consult licensed advisors before any investment decision.*

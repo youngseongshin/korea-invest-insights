@@ -76,3 +76,7 @@ Pharmos hoạt động trong lĩnh vực thành phần sinh học và mỹ phẩ
 **Lưu ý đọc bảng:** *OP YoY* = tăng trưởng lợi nhuận hoạt động YoY; *Δ Biên* = thay đổi biên lợi nhuận hoạt động (pp); *52w gap* = khoảng cách đến đỉnh 52 tuần (%); *RS%* = phần trăm sức mạnh tương đối. Dữ liệu chốt phiên 2026-04-27.
 
 *Bài viết này là tổng hợp dữ liệu thị trường và kết quả screener định lượng, không phải khuyến nghị đầu tư.*
+
+---
+
+*Disclaimer: For research and information purposes only. Not investment advice. Names cited are for analytical illustration; readers should perform their own due diligence and consult licensed advisors before any investment decision.*

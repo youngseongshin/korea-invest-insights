@@ -77,3 +77,7 @@ Công ty đầu tư và nắm giữ danh mục của SK Group, bao gồm cổ ph
 ---
 
 *Dữ liệu tính đến 16:09 KST ngày 21/04/2026. Không phải khuyến nghị đầu tư. Screener rotation: Thứ Hai PEAD · Thứ Ba Smart Money · Thứ Tư Quiet Accumulation · Thứ Năm Quality Compounder · Thứ Sáu Market Discovery.*
+
+---
+
+*Disclaimer: For research and information purposes only. Not investment advice. Names cited are for analytical illustration; readers should perform their own due diligence and consult licensed advisors before any investment decision.*

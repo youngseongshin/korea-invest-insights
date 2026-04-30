@@ -24,7 +24,7 @@ draft: false
 | **Ticker** | 352820.KS |
 | **Exchange** | KOSPI (Korea Composite Stock Price Index) |
 | **Sector** | Entertainment / Media |
-| **Market Cap** | Approximately ₩12–13 trillion (based on ~₩300,000/share range, as of Q1 2026) |
+| **Market Cap** | Approximately ₩12–13 trillion (based on \~₩300,000/share range, as of Q1 2026) |
 | **Key Brands** | BTS, SEVENTEEN, Le Sserafim, TOMORROW X TOGETHER (TXT), ENHYPEN |
 
 **Elevator Pitch:** HYBE is not a record label in the traditional sense. It is a vertically integrated entertainment technology company that controls the full IP lifecycle — artist development, music production, concert touring, merchandise, and direct-to-fan monetization through its proprietary Weverse platform — across labels in South Korea, Japan, and the United States. BTS's military discharge cycle (all seven members are now, as of 2025, returned or returning to civilian life) provides one of the most quantifiably predictable earnings catalysts in global entertainment: a once-in-a-generation supergroup, with a 50-million-strong global fanbase (ARMY), resuming full commercial activity simultaneously.
@@ -166,4 +166,4 @@ BTS is signed to Big Hit Music, one of several labels under the HYBE umbrella. H
 
 ---
 
-*This analysis is for informational purposes only and does not constitute investment advice. All financial figures referenced are based on publicly available brokerage estimates, company filings, and news sources as of April 2026. Investors should conduct their own due diligence before making any investment decisions. Past performance of Korean entertainment equities does not guarantee future results.*
+*Disclaimer: For research and information purposes only. Not investment advice. Names cited are for analytical illustration; readers should perform their own due diligence and consult licensed advisors before any investment decision.*

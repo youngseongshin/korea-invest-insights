@@ -60,8 +60,8 @@ Jin最先退伍（2024年6月），随即恢复个人活动，为退伍期间成
 | 指标 | 预估值（2025年） |
 |---|---|
 | 营收 | KRW 2.4万亿（约USD 17.5亿） |
-| 营业利润 | KRW ~3,000亿 |
-| 营业利润率 | ~12.5% |
+| 营业利润 | KRW \~3,000亿 |
+| 营业利润率 | \~12.5% |
 | Weverse MAU | 1亿+ |
 
 上述数字反映的是过渡年的状况——BTS成员陆续归队，HYBE旗下其他厂牌承担主要收入压力。2026年的核心问题在于：BTS协同回归能带来多大的额外顶线拉升，以及在平台持续高投入的背景下，有多少能流至利润端。
@@ -200,7 +200,7 @@ HYBE的核心差异化在于自有平台（Weverse）、多厂牌架构以及更
 |---|---|
 | 股票代码 | 352820.KS (KRX) |
 | 2025E营收 | KRW 2.4万亿（约USD 17.5亿） |
-| 2025E营业利润 | KRW ~3,000亿 |
+| 2025E营业利润 | KRW \~3,000亿 |
 | Weverse MAU | 1亿+ |
 | 活跃厂牌 | 5+（Big Hit、Source、Pledis、ADOR、KOZ等） |
 | 核心艺人矩阵 | BTS、SEVENTEEN、LE SSERAFIM、TXT、NewJeans、ENHYPEN |
@@ -214,3 +214,7 @@ HYBE的核心差异化在于自有平台（Weverse）、多厂牌架构以及更
 *本文仅供信息参考与教育目的，不构成投资建议、招揽或任何证券的买卖推荐。文中援引的所有财务预估与预测数据，均基于截至发布日期可公开获取的分析师一致预期及公司披露信息。历史表现不代表未来结果。投资韩国股票涉及汇率风险、监管风险，以及新兴与亚洲发达市场特有的其他风险。读者在作出投资决策前，应自行进行尽职调查，并咨询持牌金融顾问。*
 
 *OpenClaw Research未注册为投资顾问，本内容仅为信息目的而制作。*
+
+---
+
+*Disclaimer: For research and information purposes only. Not investment advice. Names cited are for analytical illustration; readers should perform their own due diligence and consult licensed advisors before any investment decision.*

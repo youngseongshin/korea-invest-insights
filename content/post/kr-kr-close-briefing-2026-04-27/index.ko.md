@@ -69,8 +69,12 @@ draft: false
 1. **외국인 수급 방향**: 오늘 KOSPI 상승이 외국인·기관 동반 순매수로 확인된다면 랠리 지속성이 높아진다. 특히 삼성전자에서 외국인 순매도가 재매수로 전환되는지가 핵심이다.
 2. **한화엔진 거래대금 유지**: 88,500원 고점 이후 거래대금이 유지되는지, 아니면 급감하는지로 단기 추세의 질을 판단할 수 있다.
 3. **미국 빅테크 실적**: 오늘 밤(한국 시간) 발표되는 미국 대형 기술주 실적이 AI 인프라 투자 기조를 재확인해줄 경우, 내일 한국 반도체·전력기기 섹터에 추가 상승 모멘텀을 제공할 수 있다.
-4. **신규 후보 과열 해소 여부**: SK하이닉스, LS ELECTRIC, 한미반도체는 오늘 단기 과열 구간에 진입했다. 1~3거래일간 가격 소화 후 진입 타이밍을 검토하는 것이 유효하다.
+4. **신규 후보 과열 해소 여부**: SK하이닉스, LS ELECTRIC, 한미반도체는 오늘 단기 과열 구간에 진입했다. 1\~3거래일간 가격 소화 후 진입 타이밍을 검토하는 것이 유효하다.
 
 ---
 
 오늘 한국 증시는 단순한 지수 반등이 아니었다. 한화엔진의 실적이 '조선 사이클 + AI 데이터센터'라는 새로운 교차점을 제시했고, 인텔 실적이 글로벌 반도체 수요 회복의 신호탄 역할을 했다. 폭넓은 종목 참여(시장 브레드스)가 확인된 만큼, 이 흐름이 외국인 자금 재유입으로 이어지는지가 다음 방향성을 가를 핵심 변수다.
+
+---
+
+*Disclaimer: For research and information purposes only. Not investment advice. Names cited are for analytical illustration; readers should perform their own due diligence and consult licensed advisors before any investment decision.*

@@ -74,3 +74,7 @@ Pionnier coréen des thérapies à base de cellules souches (thérapie cellulair
 ---
 
 *Données sources : KR PEAD Engine, KR Close Briefing, Macro Regime Verdict v2 — 27/04/2026 16:20 KST. Ce contenu est produit à des fins d'information uniquement et ne constitue pas un conseil en investissement.*
+
+---
+
+*Disclaimer: For research and information purposes only. Not investment advice. Names cited are for analytical illustration; readers should perform their own due diligence and consult licensed advisors before any investment decision.*

@@ -419,4 +419,6 @@ Cả hai đều có thể đúng.
 - Sự tham gia của nhà đầu tư chiến lược Hyundai Motor/Kia có ý nghĩa như một tín hiệu, nhưng sự phối hợp doanh thu thương mại trực tiếp là [Chưa rõ].
 - Hỗ trợ dự án sovereign AI quan trọng về mặt chiến lược, nhưng lựa chọn cuối cùng và chuyển đổi doanh thu thương mại vẫn còn [Chưa rõ].
 
-*Tuyên bố miễn trách: Chỉ dành cho mục đích nghiên cứu và thông tin. Không phải lời khuyên đầu tư. Các tên được trích dẫn chỉ nhằm mục đích minh họa phân tích; độc giả nên tự thực hiện thẩm định và tham khảo ý kiến cố vấn được cấp phép trước bất kỳ quyết định đầu tư nào.*
+---
+
+*Disclaimer: For research and information purposes only. Not investment advice. Names cited are for analytical illustration; readers should perform their own due diligence and consult licensed advisors before any investment decision.*

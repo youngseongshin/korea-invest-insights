@@ -281,3 +281,7 @@ This report is produced for **educational and informational purposes only**. It 
 Past screener performance and historical factor returns do not guarantee future results. Korean equity markets are subject to regulatory, currency, geopolitical, and macroeconomic risks that may not be fully captured by any quantitative framework.
 
 *Published: April 18, 2026 | Coverage period: April 9–16, 2026 | Universe: 459 Korean-listed securities | Screeners: 10*
+
+---
+
+*Disclaimer: For research and information purposes only. Not investment advice. Names cited are for analytical illustration; readers should perform their own due diligence and consult licensed advisors before any investment decision.*

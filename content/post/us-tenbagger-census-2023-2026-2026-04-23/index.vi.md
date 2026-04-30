@@ -9,7 +9,7 @@ series: ["tenbagger-analysis-2026"]
 ---
 
 > **Chuỗi bài — Tenbagger Analysis 2026 (Phần 2/2)**
-> ① [27 Tenbagger Hàn Quốc giai đoạn 2023-2026](/en/post/kr-tenbagger-census-2023-2026-2026-04-23/) — góc nhìn KOSPI + KOSDAQ
+> ① [27 Tenbagger Hàn Quốc giai đoạn 2023-2026](/post/kr-tenbagger-census-2023-2026-2026-04-23/) — góc nhìn KOSPI + KOSDAQ
 > ② **Bài này** — góc nhìn Mỹ: 40 cái tên, xương sống AI-hạ tầng, và giao dịch cặp với Hàn Quốc
 
 ---
@@ -35,7 +35,7 @@ series: ["tenbagger-analysis-2026"]
 - **Bội số trung bình**: 19,3× (Hàn Quốc: 17,4×)
 - **Bội số trung vị**: 15,7× (Hàn Quốc: 13,8×)
 - **Cao nhất**: AAOI ở mức 69,5×
-- **Lợi nhuận 3 năm trung vị**: ~1.480% (Hàn Quốc ~900%, tức Mỹ gấp ~1,6×)
+- **Lợi nhuận 3 năm trung vị**: \~1.480% (Hàn Quốc \~900%, tức Mỹ gấp \~1,6×)
 
 Mỹ không chỉ có nhiều tenbagger hơn Hàn Quốc — các cổ phiếu thắng còn tăng xa hơn. Đuôi phải của phân phối dày hơn rõ rệt.
 
@@ -192,6 +192,8 @@ Bản đồ giao dịch cặp là output có thể chuyển giao nhất: **Các 
 
 ---
 
-_Đây là bài kết thúc chuỗi Tenbagger Analysis 2026. [Phần 1: 27 tenbagger Hàn Quốc và lý do lưới điện âm thầm vượt mặt AI.](/en/post/kr-tenbagger-census-2023-2026-2026-04-23/)_
+_Đây là bài kết thúc chuỗi Tenbagger Analysis 2026. [Phần 1: 27 tenbagger Hàn Quốc và lý do lưới điện âm thầm vượt mặt AI.](/post/kr-tenbagger-census-2023-2026-2026-04-23/)_
 
-_Tất cả các tên được liệt kê là ứng cử viên để tạo ý tưởng, không phải khuyến nghị. Không có nội dung nào ở đây là lời khuyên đầu tư._
+---
+
+*Disclaimer: For research and information purposes only. Not investment advice. Names cited are for analytical illustration; readers should perform their own due diligence and consult licensed advisors before any investment decision.*

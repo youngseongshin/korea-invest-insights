@@ -57,11 +57,11 @@ Kia genera ingresos principalmente a través de la **venta de vehículos**, con 
 
 | Región | Cuota de Ingresos Aproximada |
 |---|---|
-| Norteamérica | ~30% |
-| Europa | ~20% |
-| Corea del Sur (mercado doméstico) | ~15% |
-| India y Asia Emergente | ~12% |
-| Resto del Mundo | ~23% |
+| Norteamérica | \~30% |
+| Europa | \~20% |
+| Corea del Sur (mercado doméstico) | \~15% |
+| India y Asia Emergente | \~12% |
+| Resto del Mundo | \~23% |
 
 El peso de EE.UU. y Europa es relevante: son los mercados de mayor margen para Kia. Norteamérica ha sido especialmente sólida, impulsada por el Telluride (un gran SUV premium con precios muy por encima de la media de la marca) y la creciente línea EV.
 
@@ -77,7 +77,7 @@ El peso de EE.UU. y Europa es relevante: son los mercados de mayor margen para K
 
 ### Perfil de Márgenes
 
-La recuperación del margen operativo de Kia desde niveles cercanos a cero durante la pandemia (2020: ~3%) hasta los dos dígitos (2022–2023: ~10–12%) ha sido estructural, no cíclica. El poder de fijación de precios mejoró a medida que las marcas coreanas abandonaron el descuento histórico frente a sus pares occidentales. El cambio en la mezcla hacia EV es dilutivo de márgenes frente a los ICE en el corto plazo (los costes de batería siguen elevados), pero la dirección de Kia ha anticipado la paridad de márgenes EV/ICE para aproximadamente 2026, sujeta a la normalización de los costes de batería y al apalancamiento de volumen.
+La recuperación del margen operativo de Kia desde niveles cercanos a cero durante la pandemia (2020: \~3%) hasta los dos dígitos (2022–2023: \~10–12%) ha sido estructural, no cíclica. El poder de fijación de precios mejoró a medida que las marcas coreanas abandonaron el descuento histórico frente a sus pares occidentales. El cambio en la mezcla hacia EV es dilutivo de márgenes frente a los ICE en el corto plazo (los costes de batería siguen elevados), pero la dirección de Kia ha anticipado la paridad de márgenes EV/ICE para aproximadamente 2026, sujeta a la normalización de los costes de batería y al apalancamiento de volumen.
 
 ---
 
@@ -85,7 +85,7 @@ La recuperación del margen operativo de Kia desde niveles cercanos a cero duran
 
 ### Catalizador 1: Inflexión de Márgenes EV
 
-Si Kia alcanza la paridad de márgenes EV/ICE para 2026–2027 según lo anunciado — plausible dado el ritmo de deflación de costes de baterías y la madurez de la plataforma — el potencial de beneficios de la compañía podría re-calificarse significativamente. Una mejora de 1 punto porcentual en el margen operativo combinado sobre una base de ingresos de ~KRW 100 billones equivale a aproximadamente KRW 1 billón adicional en beneficio operativo. Las estimaciones del consenso podrían subestimar esta palanca.
+Si Kia alcanza la paridad de márgenes EV/ICE para 2026–2027 según lo anunciado — plausible dado el ritmo de deflación de costes de baterías y la madurez de la plataforma — el potencial de beneficios de la compañía podría re-calificarse significativamente. Una mejora de 1 punto porcentual en el margen operativo combinado sobre una base de ingresos de \~KRW 100 billones equivale a aproximadamente KRW 1 billón adicional en beneficio operativo. Las estimaciones del consenso podrían subestimar esta palanca.
 
 ### Catalizador 2: Opcionalidad de una OPV o Escisión en India
 
@@ -121,11 +121,11 @@ A finales de abril de 2026, las métricas de valoración de Kia (basadas en dato
 
 | Métrica | Kia (000270.KS) | Media de Pares Globales* |
 |---|---|---|
-| PER histórico | ~5–6x | ~10–15x |
-| PER futuro | ~5–7x | ~9–12x |
-| P/VC | ~0,8–1,0x | ~1,5–2,5x |
-| EV/EBITDA | ~3–4x | ~6–8x |
-| Rentabilidad por dividendo | ~3–5% | ~2–3% |
+| PER histórico | \~5–6x | \~10–15x |
+| PER futuro | \~5–7x | \~9–12x |
+| P/VC | \~0,8–1,0x | \~1,5–2,5x |
+| EV/EBITDA | \~3–4x | \~6–8x |
+| Rentabilidad por dividendo | \~3–5% | \~2–3% |
 
 *Los pares globales incluyen Toyota, Stellantis, GM, Ford y Volkswagen Group
 
@@ -195,4 +195,4 @@ Kia tiene como objetivo público **1,6 millones de ventas anuales de EV para 203
 
 ---
 
-*Este análisis tiene únicamente fines informativos y no constituye asesoramiento de inversión. Todas las cifras financieras mencionadas están basadas en informes y datos públicamente disponibles a fecha de los períodos más recientemente reportados. El desempeño pasado y las métricas de valoración actuales no son indicativos de resultados futuros. Los inversores deben realizar su propia investigación independiente y consultar con un asesor financiero cualificado antes de tomar decisiones de inversión.*
+*Disclaimer: For research and information purposes only. Not investment advice. Names cited are for analytical illustration; readers should perform their own due diligence and consult licensed advisors before any investment decision.*

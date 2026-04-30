@@ -22,7 +22,7 @@ Hai sự kiện, cùng một ngày:
 | 23/4, 10:48 | **Bản vá 1.04.00** (Sửa đổi) — phát hành đầy đủ |
 | 23/4, 23:46 | **Hotfix 1.04.01** (tất cả nền tảng) |
 
-Tổng dung lượng tải về **~29GB**. Đây không phải bản vá cân bằng. Đây là một mini-expansion phát hành chỉ 35 ngày sau khi ra mắt — duy trì chu kỳ hai tuần mà Pearl Abyss đã không bỏ lỡ lần nào kể từ ngày 19/3.
+Tổng dung lượng tải về **\~29GB**. Đây không phải bản vá cân bằng. Đây là một mini-expansion phát hành chỉ 35 ngày sau khi ra mắt — duy trì chu kỳ hai tuần mà Pearl Abyss đã không bỏ lỡ lần nào kể từ ngày 19/3.
 
 ---
 
@@ -129,12 +129,12 @@ Cách đọc đúng về bản vá này là: **bản vá đã đóng lại yếu
 | Doanh thu CD 2026E | ₩500-530 tỷ | **₩520-560 tỷ** |
 | Doanh thu hợp nhất 2026E | ₩970 tỷ-1,0 nghìn tỷ | **₩990 tỷ-1,03 nghìn tỷ** |
 | EPS | ₩5.400-5.500 | **₩5.500-5.750** |
-| **Giá trị hợp lý (P/E 15×)** | — | **~₩82.500-86.250** |
+| **Giá trị hợp lý (P/E 15×)** | — | **\~₩82.500-86.250** |
 | So với giá hiện tại ₩53.100 | — | **+55 đến +62%** |
 
 Việc mở rộng bội số từ 12× lên 15× tự nó là một cược luận điểm. Lý lập luận: Pearl Abyss không còn là công ty một-tựa-game-CD nữa. Đây là **công ty live-ops đa IP với di sản BDO và CD như một franchise nội dung định kỳ**. Các công ty game Hàn Quốc kiểu multi-IP live-service giao dịch ở mức 15-20× trên thu nhập ổn định. 15× là *ngưỡng thấp* của khoảng đó.
 
-Trong kịch bản cơ sở thận trọng hơn với P/E 12×, giá trị hợp lý là ~₩66.000-69.000 (+24-30%). Đó là sàn. 15× là điều xảy ra nếu thị trường đồng thuận rằng năng lực live-ops là có thật.
+Trong kịch bản cơ sở thận trọng hơn với P/E 12×, giá trị hợp lý là \~₩66.000-69.000 (+24-30%). Đó là sàn. 15× là điều xảy ra nếu thị trường đồng thuận rằng năng lực live-ops là có thật.
 
 ---
 
@@ -175,8 +175,8 @@ Trong kịch bản cơ sở thận trọng hơn với P/E 12×, giá trị hợp
 
 ## Kết Luận
 
-> Bản vá 1.04.00 của Crimson Desert đã đóng lại điểm gấu lớn nhất (QoL + độ khó gây kéo điểm đánh giá) và chứng minh rằng năng lực live-service của Pearl Abyss — đã được kiểm chứng trên BDO — hoàn toàn có thể áp dụng cho game single-player. Tỷ lệ tích cực trên đánh giá mới nhảy lên 94,9%, cao hơn 11pp so với trước bản vá. Ở **P/E 15×** trên EPS điều chỉnh ₩5.500-5.750, giá trị hợp lý rơi vào **~₩82.500-86.250 so với giá hiện tại ₩53.100 — tiềm năng định giá lại +55-62%.** Chính bội số mới là cốt lõi luận điểm: đây không còn được định giá như một tựa game bán một lần nữa.
+> Bản vá 1.04.00 của Crimson Desert đã đóng lại điểm gấu lớn nhất (QoL + độ khó gây kéo điểm đánh giá) và chứng minh rằng năng lực live-service của Pearl Abyss — đã được kiểm chứng trên BDO — hoàn toàn có thể áp dụng cho game single-player. Tỷ lệ tích cực trên đánh giá mới nhảy lên 94,9%, cao hơn 11pp so với trước bản vá. Ở **P/E 15×** trên EPS điều chỉnh ₩5.500-5.750, giá trị hợp lý rơi vào **\~₩82.500-86.250 so với giá hiện tại ₩53.100 — tiềm năng định giá lại +55-62%.** Chính bội số mới là cốt lõi luận điểm: đây không còn được định giá như một tựa game bán một lần nữa.
 
 ---
 
-_Các bài trước trong series này theo dõi toàn bộ luận điểm về Pearl Abyss Crimson Desert từ ngày ra mắt đến Cập nhật từ Nhà phát triển tháng 4. Không có nội dung nào ở đây là lời khuyên đầu tư. Mọi ước tính đều dựa trên mô hình và chịu sự chi phối của các giả định đã công bố._
+*Disclaimer: For research and information purposes only. Not investment advice. Names cited are for analytical illustration; readers should perform their own due diligence and consult licensed advisors before any investment decision.*

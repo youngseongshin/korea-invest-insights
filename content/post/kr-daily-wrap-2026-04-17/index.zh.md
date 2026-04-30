@@ -93,4 +93,4 @@ draft: false
 
 ---
 
-*本报告数据来源：OpenClaw宏观格局引擎（2026-04-17 20:20 KST）及KR发掘筛选器（2026-04-17 16:05 KST）。收盘简报参考近期数据，不构成投资建议。*
+*Disclaimer: For research and information purposes only. Not investment advice. Names cited are for analytical illustration; readers should perform their own due diligence and consult licensed advisors before any investment decision.*

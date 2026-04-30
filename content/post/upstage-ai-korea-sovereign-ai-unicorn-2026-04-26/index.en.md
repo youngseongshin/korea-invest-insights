@@ -420,4 +420,6 @@ Both can be true.
 - Hyundai Motor/Kia strategic investor participation is meaningful as a signal, but direct commercial revenue synergy is [Unclear].
 - Sovereign AI project support is strategically important, but final selection and commercial revenue conversion remain [Unclear].
 
+---
+
 *Disclaimer: For research and information purposes only. Not investment advice. Names cited are for analytical illustration; readers should perform their own due diligence and consult licensed advisors before any investment decision.*

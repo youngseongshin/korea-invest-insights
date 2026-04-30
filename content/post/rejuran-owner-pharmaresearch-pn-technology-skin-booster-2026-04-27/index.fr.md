@@ -255,3 +255,7 @@ Pour les lecteurs internationaux qui cherchent « qui est derrière Rejuran » o
 ---
 
 **Avertissement** : cet article constitue un commentaire de recherche et non un conseil en investissement. Les tickers cités sont fournis à titre illustratif dans le cadre du panier K-aesthetics et ne constituent pas des recommandations. Les descriptions du mécanisme d'action sont synthétisées à partir de la littérature réglementaire et clinique publiquement disponible et ne constituent pas un avis médical. Effectuez votre propre analyse et consultez des professionnels financiers et médicaux agréés avant toute décision.
+
+---
+
+*Disclaimer: For research and information purposes only. Not investment advice. Names cited are for analytical illustration; readers should perform their own due diligence and consult licensed advisors before any investment decision.*

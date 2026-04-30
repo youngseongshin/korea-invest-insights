@@ -26,7 +26,7 @@ Ce n'est pas une mise à jour de routine. C'est le tableau complet.
 | **Place boursière** | KOSPI (Korea Exchange) |
 | **Secteur** | Technologies de l'information / Semi-conducteurs et équipements |
 | **Cours de clôture (2026-04-16)** | KRW 217 500 |
-| **Actionnariat étranger** | ~51 % (parmi les plus élevés du KOSPI) |
+| **Actionnariat étranger** | \~51 % (parmi les plus élevés du KOSPI) |
 | **Produits clés** | DRAM, NAND Flash, HBM, smartphones Galaxy, écrans OLED, électroménager, fonderie (logique avancée) |
 
 **En quelques mots :** Samsung Electronics est à la fois le premier fabricant mondial de mémoire, le deuxième vendeur mondial de smartphones et l'un des prétendants les plus ambitieux à contester la suprématie de TSMC dans la fonderie. L'entreprise se situe au croisement de trois grandes tendances technologiques de cette décennie : la construction des infrastructures IA (HBM, DRAM avancée), le supercycle mondial des smartphones (séries Galaxy S et Z) et la diversification souveraine des semi-conducteurs, qui oriente des milliards de subventions gouvernementales vers des capacités de logique avancée hors de Taïwan. Aucune autre entreprise en dehors des États-Unis ne concentre autant de vents porteurs structurels dans un seul ticker.
@@ -56,11 +56,11 @@ L'impératif de construire des capacités de logique avancée hors de Taïwan fa
 
 | Indicateur | Samsung | SK Hynix | Micron |
 |---|---|---|---|
-| Part mondiale DRAM | ~40 % | ~30 % | ~25 % |
+| Part mondiale DRAM | \~40 % | \~30 % | \~25 % |
 | Leadership HBM (cycle actuel) | Challenger | Leader du marché | Entrant tardif |
-| Part mondiale NAND | ~30 % | ~20 % (via Solidigm) | ~15 % |
-| Part de marché en fonderie | ~10–12 % | N/A | N/A |
-| Part mondiale smartphones | ~20 % | N/A | N/A |
+| Part mondiale NAND | \~30 % | \~20 % (via Solidigm) | \~15 % |
+| Part de marché en fonderie | \~10–12 % | N/A | N/A |
+| Part mondiale smartphones | \~20 % | N/A | N/A |
 
 L'évaluation honnête : le fossé concurrentiel de Samsung repose sur sa largeur et son intégration. Sa faiblesse dans le cycle IA actuel tient au fait que SK Hynix a obtenu la qualification HBM3E et la montée en volume chez Nvidia *avant* Samsung, créant un écart de qualité perçu par le marché. Cet écart — et la capacité de Samsung à le combler avec le HBM4 — est au cœur du débat sur la thèse en 2026.
 
@@ -180,3 +180,7 @@ Pour les investisseurs mondiaux, c'est une entreprise qui mérite une analyse di
 *Sources des données : Samsung Electronics IR (www.samsung.com/global/ir/), DART (dart.fss.or.kr), Korea Exchange (KRX) et pipeline d'analyse interne au mois d'avril 2026. Données de cours au clôture du 2026-04-16.*
 
 *Cette analyse est fournie à titre informatif uniquement et ne constitue pas un conseil en investissement. Les performances passées ne préjugent pas des résultats futurs. Tout investissement comporte des risques, y compris la perte potentielle du capital investi.*
+
+---
+
+*Disclaimer: For research and information purposes only. Not investment advice. Names cited are for analytical illustration; readers should perform their own due diligence and consult licensed advisors before any investment decision.*

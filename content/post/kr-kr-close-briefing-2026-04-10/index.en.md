@@ -102,3 +102,7 @@ For international investors using Korea as part of an emerging market or Asia Pa
 The next session's key test is whether Samsung Electro-Mechanics can consolidate above KRW 565,000 and whether Samsung Electronics can sustain foreign inflows above the KRW 206,000 level. If both conditions hold, the compression thesis extends. If not, the selective nature of this rally will become even more pronounced.
 
 *Data sourced from KRX trading records, DART (Data Analysis, Retrieval and Transfer System) filings, and sell-side research published April 10, 2026. All figures in Korean won unless otherwise stated.*
+
+---
+
+*Disclaimer: For research and information purposes only. Not investment advice. Names cited are for analytical illustration; readers should perform their own due diligence and consult licensed advisors before any investment decision.*

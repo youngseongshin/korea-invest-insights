@@ -79,4 +79,4 @@ KOSDAQ上場の中堅建設・土木企業。OP YoY+2,300%・Δマージン+16.9
 
 ---
 
-> **免責事項**：本稿は情報提供のみを目的としており、投資助言を構成するものではありません。すべての投資判断は読者自身の責任において行ってください。
+*Disclaimer: For research and information purposes only. Not investment advice. Names cited are for analytical illustration; readers should perform their own due diligence and consult licensed advisors before any investment decision.*

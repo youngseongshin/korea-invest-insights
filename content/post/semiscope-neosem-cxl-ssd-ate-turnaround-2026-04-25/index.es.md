@@ -256,4 +256,4 @@ Si todos esos elementos llegan juntos, Neosem no es solo una operación de rebot
 
 ---
 
-*Descargo de responsabilidad: Solo para fines de investigación e información. No constituye asesoramiento de inversión. Los nombres citados son únicamente para ilustración analítica; los lectores deben realizar su propia diligencia debida y consultar a asesores autorizados antes de cualquier decisión de inversión.*
+*Disclaimer: For research and information purposes only. Not investment advice. Names cited are for analytical illustration; readers should perform their own due diligence and consult licensed advisors before any investment decision.*

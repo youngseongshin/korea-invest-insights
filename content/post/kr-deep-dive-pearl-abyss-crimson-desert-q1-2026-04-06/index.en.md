@@ -53,11 +53,11 @@ FX contributed meaningfully. The Q1 2026 average USD/KRW rate of 1,464.8 against
 
 | Date | Cumulative Sales | Steam Peak CCU | Context |
 |---|---|---|---|
-| March 20 (Launch) | ~2M | 239,405 | Record for paid Korean single-player title |
-| March 24 (D+4) | ~3M | — | Estimated breakeven point for development costs |
-| March 30 (D+10) | ~3.7M | 276,261 (all-time peak) | Post-patch concurrent surge |
+| March 20 (Launch) | \~2M | 239,405 | Record for paid Korean single-player title |
+| March 24 (D+4) | \~3M | — | Estimated breakeven point for development costs |
+| March 30 (D+10) | \~3.7M | 276,261 (all-time peak) | Post-patch concurrent surge |
 | April 1 (D+12) | 4M | — | Official CEO confirmation |
-| April 6 (current) | ~4.3–4.5M est. | — | CEO: "heading toward 5M" |
+| April 6 (current) | \~4.3–4.5M est. | — | CEO: "heading toward 5M" |
 
 Two context points matter for international investors reading these figures.
 
@@ -112,16 +112,16 @@ At the April 2, 2026 closing price of ₩66,200 (the most recent data point in o
 
 Base case: FY2026E OP of ₩420B at 14x PER → ₩71,800 fair value. Bear: ₩350B OP at 12x → ₩51,100. Bull: ₩450B OP at 18x → ₩98,700.
 
-The 14x PER base assumption reflects a discount to Japanese peers (Capcom trades ~22x on Monster Hunter Wilds momentum) and to the CDPR comparable (~35x on Witcher 4 development optionality), but a slight premium to Krafton's ~12x (PUBG franchise, similar Korea discount dynamics). The KOSDAQ listing itself contributes to the valuation gap — Pearl Abyss's foreign ownership stands at only 5.57%, compared to Krafton at 42.4% and NCSoft at 34.8%. A KOSPI transfer, which management has discussed for 2027, would structurally address this foreign ownership gap and could add 3–5x to the applicable PER, implying ₩15,000–₩25,000 of incremental value per share.
+The 14x PER base assumption reflects a discount to Japanese peers (Capcom trades \~22x on Monster Hunter Wilds momentum) and to the CDPR comparable (\~35x on Witcher 4 development optionality), but a slight premium to Krafton's \~12x (PUBG franchise, similar Korea discount dynamics). The KOSDAQ listing itself contributes to the valuation gap — Pearl Abyss's foreign ownership stands at only 5.57%, compared to Krafton at 42.4% and NCSoft at 34.8%. A KOSPI transfer, which management has discussed for 2027, would structurally address this foreign ownership gap and could add 3–5x to the applicable PER, implying ₩15,000–₩25,000 of incremental value per share.
 
 **Peer Comparison**
 
 | Company | Market Cap | 2026E PER | Profile |
 |---|---|---|---|
-| Capcom (Japan) | ~$15B | ~22x | Recurring IP, MH Wilds momentum |
-| CDPR (Poland) | ~$10B | ~35x | Witcher 4 development optionality |
-| Krafton (Korea) | ~$11B | ~12x | PUBG franchise, Korea discount applied |
-| Pearl Abyss | ₩3.87T | ~12x | Crimson Desert hit, KOSDAQ-listed |
+| Capcom (Japan) | \~$15B | \~22x | Recurring IP, MH Wilds momentum |
+| CDPR (Poland) | \~$10B | \~35x | Witcher 4 development optionality |
+| Krafton (Korea) | \~$11B | \~12x | PUBG franchise, Korea discount applied |
+| Pearl Abyss | ₩3.87T | \~12x | Crimson Desert hit, KOSDAQ-listed |
 
 ---
 
@@ -148,7 +148,7 @@ The 14x PER base assumption reflects a discount to Japanese peers (Capcom trades
 
 ## Bear Case
 
-**Core concern:** Crimson Desert is a single-player title without a confirmed live-service component. Single-player games have well-documented concurrent user cliffs: after the completion arc (typically 20–40 hours), session time drops precipitously. Without DLC, a multiplayer mode, or a battle pass system, Q2 2026 revenue will be a fraction of Q1. The gap between Crimson Desert's final revenue and the next Pearl Abyss title (Project DokkaeBI, no confirmed date) could span 18–24 months — during which the company reverts to Black Desert + EVE run-rate economics of ~₩95B per quarter and ₩35–55B operating profit annually.
+**Core concern:** Crimson Desert is a single-player title without a confirmed live-service component. Single-player games have well-documented concurrent user cliffs: after the completion arc (typically 20–40 hours), session time drops precipitously. Without DLC, a multiplayer mode, or a battle pass system, Q2 2026 revenue will be a fraction of Q1. The gap between Crimson Desert's final revenue and the next Pearl Abyss title (Project DokkaeBI, no confirmed date) could span 18–24 months — during which the company reverts to Black Desert + EVE run-rate economics of \~₩95B per quarter and ₩35–55B operating profit annually.
 
 Governance is a second-order concern for international investors. Foreign ownership at 5.57% is the lowest among major Korean game companies. The company has no dividend history and no audit committee. The controlling shareholder block (Kim Daeil et al., 37–44%) means minority protection mechanisms are limited. For institutions with ESG or governance screens, Pearl Abyss will not qualify for inclusion until structural governance improvements are made.
 
@@ -181,7 +181,7 @@ The Q1 2026 earnings release is targeted for May 7, 2026, approximately seven we
 |---|---|
 | Ticker | 263750 (KOSDAQ) |
 | Current Price (ref.) | ₩60,200–₩66,200 |
-| Market Cap | ~₩3.87T |
+| Market Cap | \~₩3.87T |
 | FY2025 Revenue | ₩365.6B (+6.77% YoY) |
 | Q1 2026E Revenue (base) | ₩430B |
 | Q1 2026E OP (base) | ₩223B (OPM 51.9%) |
@@ -201,3 +201,7 @@ The Q1 2026 earnings release is targeted for May 7, 2026, approximately seven we
 ---
 
 *This analysis is for informational purposes only and does not constitute a recommendation to buy, sell, or hold any security. All financial estimates are the author's own projections based on publicly available data and carry inherent uncertainty. Pearl Abyss (263750.KQ) is traded on the KOSDAQ exchange in South Korea. Investors should conduct their own due diligence and consider their individual risk tolerance and investment objectives before making any investment decisions. Past performance and launch metrics are not guarantees of future results. Currency translations assume Q1 2026 average USD/KRW of 1,464.8.*
+
+---
+
+*Disclaimer: For research and information purposes only. Not investment advice. Names cited are for analytical illustration; readers should perform their own due diligence and consult licensed advisors before any investment decision.*

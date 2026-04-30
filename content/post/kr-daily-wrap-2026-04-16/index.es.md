@@ -65,3 +65,7 @@ En energía, el SMP (precio del pool eléctrico) marcó un alza del +47%, impuls
 **Bosung Powertech (006910.KS) — #3 con score 0,933.** Fabricante de estructuras metálicas y equipos de generación de vapor con exposición a infraestructura energética. Ingresos creciendo al +91,3% YoY, margen operativo del 18,2% y RS en percentil 96,4. Nombre de baja visibilidad mediática que el screener detecta por la combinación de crecimiento acelerado y solidez de balance —el perfil clásico del *quiet compounder* que aparece antes de que el consenso lo encuentre.
 
 > **Nota:** Los datos del screener Quality Compounder corresponden al cierre del 16 de abril de 2026 (16:08 KST). El régimen de mercado al momento del cálculo era **BULL**, con 154 valores superando todos los filtros sobre un universo de 2.723 nombres.
+
+---
+
+*Disclaimer: For research and information purposes only. Not investment advice. Names cited are for analytical illustration; readers should perform their own due diligence and consult licensed advisors before any investment decision.*

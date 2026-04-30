@@ -278,3 +278,7 @@ Ce rapport est produit **à des fins éducatives et informatives uniquement**. I
 Les performances passées des filtres et les rendements historiques des facteurs ne garantissent pas les résultats futurs. Les marchés actions coréens sont soumis à des risques réglementaires, de change, géopolitiques et macroéconomiques qui peuvent ne pas être entièrement capturés par un quelconque cadre quantitatif.
 
 *Publié le : 18 avril 2026 | Période couverte : 9–16 avril 2026 | Univers : 459 valeurs coréennes cotées | Filtres : 10*
+
+---
+
+*Disclaimer: For research and information purposes only. Not investment advice. Names cited are for analytical illustration; readers should perform their own due diligence and consult licensed advisors before any investment decision.*

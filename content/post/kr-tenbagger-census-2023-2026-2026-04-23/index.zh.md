@@ -9,8 +9,8 @@ series: ["kosdaq-structural-2026", "tenbagger-analysis-2026"]
 ---
 
 > **系列文章 — KOSDAQ 结构性机遇 2026（第3篇，共3篇）**
-> ① [KOSDAQ 2026 资金流入触发因素与VC排名](/en/post/kosdaq-2026-capital-inflow-triggers-vc-ranking-2026-04-21/) — 政策与资本布局
-> ② [KOSDAQ 2023-2026 IPO班级：十倍股究竟藏在哪里](/en/post/kosdaq-ipo-class-2023-2026-tenbagger-analysis-2026-04-22/) — IPO年份中的赢家
+> ① [KOSDAQ 2026 资金流入触发因素与VC排名](/post/kosdaq-2026-capital-inflow-triggers-vc-ranking-2026-04-21/) — 政策与资本布局
+> ② [KOSDAQ 2023-2026 IPO班级：十倍股究竟藏在哪里](/post/kosdaq-ipo-class-2023-2026-tenbagger-analysis-2026-04-22/) — IPO年份中的赢家
 > ③ **本篇** — KOSPI + KOSDAQ 三年10倍全量普查及入围条件拆解
 
 ---
@@ -33,33 +33,33 @@ series: ["kosdaq-structural-2026", "tenbagger-analysis-2026"]
 
 | # | 名称 | 涨幅 | 峰值时间 | 距峰回撤 | 营收同比 | 营业利润同比 | 营业利润率 | ROE | P/E | 板块 |
 |---|------|------|------|------|------|------|------|------|------|------|
-| 1 | HD Hyundai Electric | ~20× | 2025H2 | -15% | +38% | +95% | 18% | 41% | 14 | 电力/电网 |
-| 2 | Hyosung Heavy | ~16× | 2025H2 | -22% | +31% | +82% | 14% | 35% | 13 | 电力/电网 |
-| 3 | LS Electric | ~14× | 2025H2 | -18% | +27% | +61% | 12% | 28% | 16 | 电力/电网 |
-| 4 | SK Hynix | ~13× | 2026Q1 | -8% | +71% | +340% | 42% | 48% | 9 | 半导体/AI |
-| 5 | Isu Petasys | ~22× | 2024H2 | -35% | +88% | n/m | 18% | 52% | 11 | 半导体/AI（HBM PCB） |
-| 6 | Hanwha Aerospace | ~18× | 2025H2 | -12% | +44% | +110% | 13% | 32% | 12 | 国防 |
-| 7 | HD Hyundai Marine Engine | ~15× | 2025H2 | -9% | +52% | +180% | 16% | 44% | 10 | 造船 |
-| 8 | Samyang Foods | ~17× | 2025H1 | -20% | +47% | +125% | 22% | 46% | 14 | 消费/出口 |
-| 9 | SK Square | ~11× | 2026Q1 | -6% | n/m | n/m | n/m | 31% | 8 | 控股/半导体 |
-| 10 | Alteogen | ~25× | 2024H2 | -42% | +210% | n/m | n/m | n/m | n/m | 生物科技 |
-| 11 | Ligachem Bio | ~14× | 2025H1 | -28% | +95% | n/m | n/m | n/m | n/m | 生物科技 |
-| 12 | HLB | ~12× | 2024H1 | -55% | +12% | 亏损 | 亏损 | 亏损 | n/m | 生物科技 |
-| 13 | Peptron | ~18× | 2024H2 | -48% | +180% | n/m | n/m | n/m | n/m | 生物科技 |
-| 14 | ABL Bio | ~11× | 2025H1 | -30% | +140% | n/m | n/m | n/m | n/m | 生物科技 |
-| 15 | Doosan Enerbility | ~13× | 2025H2 | -18% | +18% | +65% | 9% | 14% | 22 | 核能/电力 |
-| 16 | Hyundai Rotem | ~14× | 2025H2 | -15% | +33% | +92% | 11% | 26% | 15 | 国防/轨交 |
-| 17 | Hanwha Ocean | ~11× | 2025H2 | -16% | +28% | +70% | 7% | 18% | 19 | 造船 |
-| 18 | Iljin Electric | ~12× | 2025H2 | -20% | +25% | +55% | 10% | 24% | 17 | 电力/电网 |
-| 19 | Daeho AL | ~11× | 2025H1 | -24% | +35% | +88% | 13% | 29% | 13 | 电网材料 |
-| 20 | Jeio | ~15× | 2025H2 | -30% | +120% | n/m | 22% | 38% | 18 | AI/半导体设备 |
-| 21 | Park Systems | ~10× | 2025H1 | -22% | +41% | +78% | 24% | 33% | 24 | 半导体计量 |
-| 22 | Hanjin Kal | ~10× | 2025Q3 | -14% | +6% | +18% | n/m | 11% | 28 | 控股 |
-| 23 | Hyundai Motor Securities | ~11× | 2025H2 | -18% | +22% | +45% | n/m | 15% | 11 | 金融 |
-| 24 | Kiwoom Securities | ~10× | 2025H2 | -15% | +19% | +38% | n/m | 13% | 9 | 金融 |
-| 25 | Woori Financial | ~10× | 2026Q1 | -5% | +8% | +14% | n/m | 11% | 7 | 银行 |
-| 26 | Koh Young | ~11× | 2025H1 | -28% | +25% | +60% | 17% | 22% | 20 | 半导体检测 |
-| 27 | Simmtech | ~10× | 2025H1 | -32% | +55% | +140% | 14% | 34% | 12 | 半导体基板 |
+| 1 | HD Hyundai Electric | \~20× | 2025H2 | -15% | +38% | +95% | 18% | 41% | 14 | 电力/电网 |
+| 2 | Hyosung Heavy | \~16× | 2025H2 | -22% | +31% | +82% | 14% | 35% | 13 | 电力/电网 |
+| 3 | LS Electric | \~14× | 2025H2 | -18% | +27% | +61% | 12% | 28% | 16 | 电力/电网 |
+| 4 | SK Hynix | \~13× | 2026Q1 | -8% | +71% | +340% | 42% | 48% | 9 | 半导体/AI |
+| 5 | Isu Petasys | \~22× | 2024H2 | -35% | +88% | n/m | 18% | 52% | 11 | 半导体/AI（HBM PCB） |
+| 6 | Hanwha Aerospace | \~18× | 2025H2 | -12% | +44% | +110% | 13% | 32% | 12 | 国防 |
+| 7 | HD Hyundai Marine Engine | \~15× | 2025H2 | -9% | +52% | +180% | 16% | 44% | 10 | 造船 |
+| 8 | Samyang Foods | \~17× | 2025H1 | -20% | +47% | +125% | 22% | 46% | 14 | 消费/出口 |
+| 9 | SK Square | \~11× | 2026Q1 | -6% | n/m | n/m | n/m | 31% | 8 | 控股/半导体 |
+| 10 | Alteogen | \~25× | 2024H2 | -42% | +210% | n/m | n/m | n/m | n/m | 生物科技 |
+| 11 | Ligachem Bio | \~14× | 2025H1 | -28% | +95% | n/m | n/m | n/m | n/m | 生物科技 |
+| 12 | HLB | \~12× | 2024H1 | -55% | +12% | 亏损 | 亏损 | 亏损 | n/m | 生物科技 |
+| 13 | Peptron | \~18× | 2024H2 | -48% | +180% | n/m | n/m | n/m | n/m | 生物科技 |
+| 14 | ABL Bio | \~11× | 2025H1 | -30% | +140% | n/m | n/m | n/m | n/m | 生物科技 |
+| 15 | Doosan Enerbility | \~13× | 2025H2 | -18% | +18% | +65% | 9% | 14% | 22 | 核能/电力 |
+| 16 | Hyundai Rotem | \~14× | 2025H2 | -15% | +33% | +92% | 11% | 26% | 15 | 国防/轨交 |
+| 17 | Hanwha Ocean | \~11× | 2025H2 | -16% | +28% | +70% | 7% | 18% | 19 | 造船 |
+| 18 | Iljin Electric | \~12× | 2025H2 | -20% | +25% | +55% | 10% | 24% | 17 | 电力/电网 |
+| 19 | Daeho AL | \~11× | 2025H1 | -24% | +35% | +88% | 13% | 29% | 13 | 电网材料 |
+| 20 | Jeio | \~15× | 2025H2 | -30% | +120% | n/m | 22% | 38% | 18 | AI/半导体设备 |
+| 21 | Park Systems | \~10× | 2025H1 | -22% | +41% | +78% | 24% | 33% | 24 | 半导体计量 |
+| 22 | Hanjin Kal | \~10× | 2025Q3 | -14% | +6% | +18% | n/m | 11% | 28 | 控股 |
+| 23 | Hyundai Motor Securities | \~11× | 2025H2 | -18% | +22% | +45% | n/m | 15% | 11 | 金融 |
+| 24 | Kiwoom Securities | \~10× | 2025H2 | -15% | +19% | +38% | n/m | 13% | 9 | 金融 |
+| 25 | Woori Financial | \~10× | 2026Q1 | -5% | +8% | +14% | n/m | 11% | 7 | 银行 |
+| 26 | Koh Young | \~11× | 2025H1 | -28% | +25% | +60% | 17% | 22% | 20 | 半导体检测 |
+| 27 | Simmtech | \~10× | 2025H1 | -32% | +55% | +140% | 14% | 34% | 12 | 半导体基板 |
 
 _涨幅为过去3年低点至高点的区间收益。"n/m"=不适用（亏损企业或控股公司会计处理）。数据已做四舍五入。_
 
@@ -102,7 +102,7 @@ _涨幅为过去3年低点至高点的区间收益。"n/m"=不适用（亏损企
 
 1. **电网集群至今仍是外资低配板块。** HD Hyundai Electric和Hyosung Heavy的外资持仓，是在股价上涨后才重建的。催化剂（数据中心变压器短缺、美国电网资本开支扩张）在2023年中就已清晰可见。
 
-2. **HBM受益≠HBM叙事。** SK Hynix涨了13倍，但HBM关联标的中涨幅最高的是**Isu Petasys（~22×）**——一只PCB基板公司，大多数外资连名字都念不顺。衍生标的的弹性往往强过主线。
+2. **HBM受益≠HBM叙事。** SK Hynix涨了13倍，但HBM关联标的中涨幅最高的是**Isu Petasys（\~22×）**——一只PCB基板公司，大多数外资连名字都念不顺。衍生标的的弹性往往强过主线。
 
 3. **国防与造船本质上是同一个交易。** Hanwha Aerospace、Hyundai Rotem、Hanwha Ocean、HD Hyundai Marine Engine——NATO重整军备+LNG运输船超级周期+核动力期权价值，四只十倍股源自同一次地缘政治格局切换。
 
@@ -151,4 +151,8 @@ _涨幅为过去3年低点至高点的区间收益。"n/m"=不适用（亏损企
 
 ---
 
-_KOSDAQ 结构性机遇 2026 系列就此收官。[第1篇：VC排名与资金触发因素。](/en/post/kosdaq-2026-capital-inflow-triggers-vc-ranking-2026-04-21/) [第2篇：2023-2026年IPO班级十倍股。](/en/post/kosdaq-ipo-class-2023-2026-tenbagger-analysis-2026-04-22/)_
+_KOSDAQ 结构性机遇 2026 系列就此收官。[第1篇：VC排名与资金触发因素。](/post/kosdaq-2026-capital-inflow-triggers-vc-ranking-2026-04-21/) [第2篇：2023-2026年IPO班级十倍股。](/post/kosdaq-ipo-class-2023-2026-tenbagger-analysis-2026-04-22/)_
+
+---
+
+*Disclaimer: For research and information purposes only. Not investment advice. Names cited are for analytical illustration; readers should perform their own due diligence and consult licensed advisors before any investment decision.*

@@ -209,7 +209,7 @@ Pharmicell 是一家专注于细胞治疗的韩国生物制药公司。其双向
 
 ### 技术面观察
 
-MA60位于₩15,500。布林带上轨约₩18,015；当前股价₩17,900处于带宽的97%位置。52周高点₩19,270（较当前+7%~8%）。若带宽扩张，情景参考位₩22,000（+23%）代表布林带扩张突破情景。
+MA60位于₩15,500。布林带上轨约₩18,015；当前股价₩17,900处于带宽的97%位置。52周高点₩19,270（较当前+7%\~8%）。若带宽扩张，情景参考位₩22,000（+23%）代表布林带扩张突破情景。
 
 ### 风险提示
 
@@ -280,3 +280,7 @@ PEAD代表"业绩公告后价格漂移"（Post-Earnings Announcement Drift）。
 历史选股器表现和因子回报不代表未来结果。韩国股票市场面临监管、货币、地缘政治和宏观经济风险，这些风险可能无法被任何量化框架完整捕捉。
 
 *发布日期：2026年4月18日 | 覆盖期：2026年4月9日至16日 | 宇宙：459只韩国上市证券 | 选股器：10个*
+
+---
+
+*Disclaimer: For research and information purposes only. Not investment advice. Names cited are for analytical illustration; readers should perform their own due diligence and consult licensed advisors before any investment decision.*

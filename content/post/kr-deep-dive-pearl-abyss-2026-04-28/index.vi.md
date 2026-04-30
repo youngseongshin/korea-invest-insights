@@ -55,7 +55,7 @@ Lợi thế cạnh tranh cơ cấu của Pearl Abyss dựa trên ba trụ cột:
 
 Pearl Abyss tạo ra doanh thu qua ba kênh chính:
 
-**1. Franchise Black Desert (lịch sử chiếm ~85–90% doanh thu)**
+**1. Franchise Black Desert (lịch sử chiếm \~85–90% doanh thu)**
 Bao gồm PC (*Black Desert Online*), mobile (*Black Desert Mobile*) và console (*Black Desert* trên PS4/Xbox). Phiên bản PC hoạt động theo mô hình mua-để-chơi kết hợp Pearl Abyss Store (cửa hàng nội game) tại hầu hết thị trường phương Tây, và mô hình đăng ký/cửa hàng nội game kết hợp tại một số thị trường châu Á. Mobile theo mô hình gacha miễn phí. Theo các kỳ tài chính báo cáo gần đây nhất (qua hồ sơ DART tại dart.fss.or.kr), franchise Black Desert — dù đã hơn một thập kỷ tuổi — cho thấy khả năng phục hồi đáng ngạc nhiên, với các bản cập nhật nội dung liên tục và sự kiện theo mùa duy trì mức độ tương tác.
 
 **2. Crimson Desert (mới từ Q1/2026)**
@@ -208,3 +208,7 @@ Pearl Abyss lịch sử ưu tiên tái đầu tư hơn hoàn trả cho cổ đô
 ---
 
 *Phân tích này chỉ nhằm mục đích thông tin và không cấu thành tư vấn đầu tư. Tất cả dữ liệu tài chính được đề cập phản ánh thông tin công khai sẵn có tính đến các ngày được ghi rõ. Hiệu suất trong quá khứ của bất kỳ chứng khoán nào không phải là chỉ báo cho kết quả tương lai. Nhà đầu tư nên tự thực hiện thẩm định của mình và tham khảo cố vấn tài chính có giấy phép trước khi đưa ra quyết định đầu tư. Pearl Abyss Corp. (263750.KS) là công ty niêm yết công khai trên Sở Giao dịch Chứng khoán Hàn Quốc; tất cả thông tin doanh nghiệp quan trọng có thể tra cứu qua DART (dart.fss.or.kr).*
+
+---
+
+*Disclaimer: For research and information purposes only. Not investment advice. Names cited are for analytical illustration; readers should perform their own due diligence and consult licensed advisors before any investment decision.*

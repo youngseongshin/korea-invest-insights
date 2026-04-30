@@ -25,7 +25,7 @@ draft: false
 | **Sede** | Geoje, Corea del Sur |
 | **Productos clave** | Buques metaneros, VLCCs, VLACs, submarinos militares, destructores, servicios MRO |
 | **Precio de la acción (9 abr. 2026)** | KRW 123.500 |
-| **Precio objetivo consenso** | ~KRW 160.000–170.000 |
+| **Precio objetivo consenso** | \~KRW 160.000–170.000 |
 
 **En pocas palabras:** Hanwha Ocean es el segundo constructor naval de Corea por ingresos y, sin duda, la plataforma de defensa marítima con mejor posicionamiento estratégico del país. Su negocio principal se sostiene en la construcción de buques metaneros y superpetroleros que abastecen el comercio energético mundial, al tiempo que se consolida como proveedor de referencia para programas aliados de submarinos y destructores —desde la próxima generación de submarinos de la Armada canadiense hasta el destructor de nueva generación KDDX de Corea—. Con el respaldo del conglomerado de defensa del Grupo Hanwha —que ya abarca sistemas terrestres, aeroespacial y armamento guiado—, Hanwha Ocean es el brazo marítimo del grupo en una era en que las marinas de todo el mundo intentan rearmar sus flotas más rápido de lo que sus astilleros nacionales son capaces de abastecer.
 
@@ -51,7 +51,7 @@ Los presupuestos de defensa a nivel mundial están aumentando a un ritmo no vist
 
 **Viento de cola 3: La Preferencia por Astilleros Aliados**
 
-El impulso de la administración Trump hacia alianzas industriales con países aliados ha sido un catalizador directo. Como capturó un titular de un medio coreano: "Trump eligió a Hanwha Ocean — ¿dominará el mercado MRO de la Armada de EE. UU. valorado en 55 billones de KRW?". El mercado anual de construcción naval y MRO de la Armada estadounidense se estima en más de KRW 55 billones (~US$38.000 millones). Si bien Hanwha Ocean no "monopolizará" este mercado, el alineamiento político entre Washington y Seúl está generando oportunidades comerciales reales en Philly Shipyard que habrían sido inimaginables hace cinco años.
+El impulso de la administración Trump hacia alianzas industriales con países aliados ha sido un catalizador directo. Como capturó un titular de un medio coreano: "Trump eligió a Hanwha Ocean — ¿dominará el mercado MRO de la Armada de EE. UU. valorado en 55 billones de KRW?". El mercado anual de construcción naval y MRO de la Armada estadounidense se estima en más de KRW 55 billones (\~US$38.000 millones). Si bien Hanwha Ocean no "monopolizará" este mercado, el alineamiento político entre Washington y Seúl está generando oportunidades comerciales reales en Philly Shipyard que habrían sido inimaginables hace cinco años.
 
 ### Ventaja Competitiva frente a sus Pares Globales
 
@@ -59,7 +59,7 @@ Hanwha Ocean compite principalmente con HD Korea Shipbuilding & Offshore Enginee
 
 Su ventaja competitiva tiene varias capas:
 
-1. **Liderazgo tecnológico en buques metaneros**: Los "tres grandes" astilleros coreanos concentran colectivamente ~80% de la cartera global de pedidos de buques metaneros. La experiencia específica de Hanwha Ocean en contenedores de GNL de membrana y en ingeniería de portadores de gas crea barreras de entrada significativas.
+1. **Liderazgo tecnológico en buques metaneros**: Los "tres grandes" astilleros coreanos concentran colectivamente \~80% de la cartera global de pedidos de buques metaneros. La experiencia específica de Hanwha Ocean en contenedores de GNL de membrana y en ingeniería de portadores de gas crea barreras de entrada significativas.
 
 2. **Credenciales en submarinos y buques de combate de superficie**: Hanwha Ocean ha construido los submarinos KSS-III Changbogo-III en servicio con la Armada de la República de Corea —plataformas con capacidad de lanzamiento de misiles balísticos desde submarinos (SLBM), consideradas entre los submarinos convencionales más sofisticados del mundo—. El ministro de adquisiciones de defensa de Canadá visitó personalmente uno de ellos en el astillero de Geoje en febrero de 2026.
 
@@ -75,9 +75,9 @@ Con base en el informe semestral del primer semestre de 2025 presentado ante DAR
 
 | Segmento | Ingresos 1S 2025 | Participación |
 |---|---|---|
-| Marina Mercante (상선) | KRW 5,37bn | ~83% |
-| Buques Marinos y Especiales (해양/특수선) | KRW 1,06bn | ~16% |
-| E&I / Otros | KRW 0,32bn | ~5% |
+| Marina Mercante (상선) | KRW 5,37bn | \~83% |
+| Buques Marinos y Especiales (해양/특수선) | KRW 1,06bn | \~16% |
+| E&I / Otros | KRW 0,32bn | \~5% |
 | Ajuste de consolidación | (KRW 0,38bn) | — |
 
 Para el año completo 2025, el análisis interno estima los ingresos de la marina mercante en aproximadamente **KRW 10,5 billones** y los de buques marinos y especiales en aproximadamente **KRW 0,83 billones**, con una cartera combinada de pedidos de aproximadamente **KRW 26,0 billones** (mercante) y **KRW 6,3 billones** (marino/especial).
@@ -105,8 +105,8 @@ Ajustando por estos extraordinarios, analistas estiman que el margen operativo s
 
 ### Perfil de Márgenes
 
-- **Margen operativo reportado actual (4T25)**: ~5,9% (con grandes extraordinarios)
-- **Margen operativo subyacente (ajustado por analistas)**: ~13%
+- **Margen operativo reportado actual (4T25)**: \~5,9% (con grandes extraordinarios)
+- **Margen operativo subyacente (ajustado por analistas)**: \~13%
 - **Tendencia**: Ascendente, a medida que los contratos post-2023 de alto ASP desplazan trabajo heredado de bajo margen, y los ingresos de buques especiales y defensa ganan peso en la mezcla
 - **Riesgo**: Las sobrecostes en contratos de defensa y el gasto de capital en expansión de capacidad podrían generar volatilidad trimestral
 
@@ -155,7 +155,7 @@ Un retraso, un reparto o la pérdida del contrato canadiense eliminaría un pila
 Hanwha Ocean no es en absoluto un "compounder estable". Los resultados trimestrales oscilan significativamente debido a:
 - Patrones de reconocimiento de facturación por avance de obra en contratos de construcción naval de ciclo largo
 - Revisiones de estimaciones de costes en buques especiales y de defensa
-- Grandes partidas extraordinarias (p. ej., la bonificación de ~KRW 240.000 millones y el cargo extraordinario de buques especiales en 4T25)
+- Grandes partidas extraordinarias (p. ej., la bonificación de \~KRW 240.000 millones y el cargo extraordinario de buques especiales en 4T25)
 
 Esta volatilidad genera riesgo de sentimiento: una decepción en un trimestre de altas expectativas puede provocar una compresión de múltiplo desproporcionada, incluso cuando la tesis subyacente a varios años permanece intacta.
 
@@ -175,7 +175,7 @@ Al cierre del 9 de abril de 2026 de KRW 123.500, con precios objetivo de consens
 
 | Métrica | Hanwha Ocean | HD KSOE (comparable) | Samsung Heavy (comparable) |
 |---|---|---|---|
-| PER a futuro | ~29,2x | Inferior | Inferior |
+| PER a futuro | \~29,2x | Inferior | Inferior |
 | P/VL | Prima respecto a la historia | — | — |
 | Visibilidad de cartera | 3+ años | 3+ años | 3+ años |
 
@@ -231,7 +231,7 @@ Para los inversores que busquen específicamente exposición a la construcción 
 ## Preguntas Frecuentes de los Inversores
 
 **¿Es Hanwha Ocean una buena inversión?**
-Hanwha Ocean presenta una tesis de crecimiento estructural convincente —dominio en buques metaneros, revalorización por el componente de defensa y presencia en los mercados navales de EE. UU.—. La acción no es barata a ~29x beneficios a futuro, y la tesis exige una ejecución continua en grandes contratos navales. Es adecuada para inversores con convicción en el relato del Renacimiento de la Construcción Naval Coreana y capaces de tolerar la volatilidad trimestral de los resultados. *Este análisis es meramente informativo y no constituye asesoramiento de inversión.*
+Hanwha Ocean presenta una tesis de crecimiento estructural convincente —dominio en buques metaneros, revalorización por el componente de defensa y presencia en los mercados navales de EE. UU.—. La acción no es barata a \~29x beneficios a futuro, y la tesis exige una ejecución continua en grandes contratos navales. Es adecuada para inversores con convicción en el relato del Renacimiento de la Construcción Naval Coreana y capaces de tolerar la volatilidad trimestral de los resultados. *Este análisis es meramente informativo y no constituye asesoramiento de inversión.*
 
 **¿Cómo comprar acciones de Hanwha Ocean?**
 Los inversores internacionales pueden adquirir 042660.KS directamente en el KOSPI a través de corredores con acceso al mercado coreano (p. ej., Interactive Brokers). Actualmente no existe un ADR cotizado en EE. UU. ETFs como EWY proporcionan exposición indirecta. La liquidación es en KRW (T+2).
@@ -259,4 +259,4 @@ Hanwha Ocean Co., Ltd. cotiza bajo el ticker **042660** en la Bolsa de Valores d
 
 ---
 
-> **Aviso legal**: Este análisis tiene únicamente fines informativos y no constituye asesoramiento de inversión. El rendimiento pasado no garantiza resultados futuros. La inversión en acciones extranjeras conlleva riesgo de tipo de cambio, riesgo político y riesgo de mercado. Realice siempre su propia investigación y consulte a un asesor financiero cualificado antes de tomar decisiones de inversión.
+*Disclaimer: For research and information purposes only. Not investment advice. Names cited are for analytical illustration; readers should perform their own due diligence and consult licensed advisors before any investment decision.*

@@ -173,4 +173,4 @@ K9 Thunder (K9 자주포) là pháo tự hành 155mm/52 caliber được Hàn Qu
 
 ---
 
-*Bài phân tích này chỉ mang tính thông tin và không cấu thành lời khuyên đầu tư. Kết quả trong quá khứ không phải là chỉ dấu cho kết quả tương lai. Nhà đầu tư cần tự tiến hành thẩm định và tham khảo cố vấn tài chính có chuyên môn trước khi đưa ra bất kỳ quyết định đầu tư nào. Dữ liệu tài chính được đề cập phản ánh thông tin công khai tính đến các kỳ báo cáo gần nhất; độc giả cần xác minh tất cả số liệu với các hồ sơ DART và công bố mới nhất của công ty.*
+*Disclaimer: For research and information purposes only. Not investment advice. Names cited are for analytical illustration; readers should perform their own due diligence and consult licensed advisors before any investment decision.*

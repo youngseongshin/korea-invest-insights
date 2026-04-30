@@ -218,4 +218,4 @@ The K-beauty trend has moved from niche to mainstream. The infrastructure behind
 
 ---
 
-> **Disclaimer**: This analysis is for informational purposes only and does not constitute investment advice. All financial figures are sourced from publicly available disclosures and are subject to change. Past performance of any security does not guarantee future results. Investors should conduct their own due diligence and consult a qualified financial adviser before making investment decisions.
+*Disclaimer: For research and information purposes only. Not investment advice. Names cited are for analytical illustration; readers should perform their own due diligence and consult licensed advisors before any investment decision.*

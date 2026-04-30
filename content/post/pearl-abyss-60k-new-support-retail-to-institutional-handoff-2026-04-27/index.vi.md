@@ -16,7 +16,7 @@ series: ["pearl-abyss-crimson-desert-thesis"]
 ## Tóm Tắt Nhanh
 
 - **Ngày 27/04 không phải "ngày không có bán khống".** Đây là ngày Pearl Abyss hấp thụ bán khống, dòng bán ra của khối ngoại và áp lực cung từ nhà đầu tư cá nhân qua Kiwoom — *và vẫn đưa ₩60,000 trở thành ngưỡng hỗ trợ hàng đầu.*
-- Khối lượng bán khống chính thức: **75.930 cổ phiếu / ₩4,585 tỷ / VWAP ~₩60,390.** Tỷ trọng bán khống trên tổng khối lượng và giá trị: **~7,2%**.
+- Khối lượng bán khống chính thức: **75.930 cổ phiếu / ₩4,585 tỷ / VWAP \~₩60,390.** Tỷ trọng bán khống trên tổng khối lượng và giá trị: **\~7,2%**.
 - Giá đóng cửa ₩60,200 thấp hơn một chút so với VWAP bán khống ₩60,390. **Nếu ngày mai giữ trên ₩60,400, toàn bộ bên bán khống hôm nay lập tức bị lỗ.**
 - Cấu trúc dòng tiền **không phải khối ngoại mua ồ ạt.** Mà là **Kiwoom (cá nhân) + khối ngoại bán ròng + 75.930 cổ phiếu bán khống chính thức** được **tổ chức nội địa dẫn đầu bởi Shinhan / Korea Investment** hấp thụ. Đây là **chuyển giao cổ phiếu từ cá nhân sang tổ chức** theo đúng nghĩa sách giáo khoa.
 - Chiến lược vị thế mua: **Giữ nguyên. Không thêm. Không cắt giảm.** Hôm nay là xác nhận ngưỡng hỗ trợ hàng đầu, chưa phải bứt phá giai đoạn hai.
@@ -100,10 +100,10 @@ VWAP toàn phiên thông thường tính trên tổng dòng chảy:
 Khối lượng bán khống hôm nay:
 
 - Gần bằng ngày 24/04
-- **~28% so với đợt bán khống đỉnh ngày 23/04** (269.865 cổ phiếu)
-- **~63%** so với bình quân 5 ngày gần nhất
-- **~51%** so với bình quân 10 ngày gần nhất
-- **~54%** so với bình quân 20 ngày gần nhất
+- **\~28% so với đợt bán khống đỉnh ngày 23/04** (269.865 cổ phiếu)
+- **\~63%** so với bình quân 5 ngày gần nhất
+- **\~51%** so với bình quân 10 ngày gần nhất
+- **\~54%** so với bình quân 20 ngày gần nhất
 
 Hôm nay **không phải ngày bên bán khống tấn công trở lại.** Họ có mặt, nhưng thất bại trong việc kéo giá xuống.
 
@@ -299,7 +299,7 @@ Ba điều cần theo dõi bắt đầu từ ngày mai:
    - VWAP giảm trong khi giá giữ vững → bên bán khống ở thế bất lợi
 
 3. **Số dư bán khống** (công bố KRX)
-   - Vùng trước ngày 22/04: ~1,76–1,91 triệu cổ phiếu
+   - Vùng trước ngày 22/04: \~1,76–1,91 triệu cổ phiếu
    - Giảm → đang cắt lỗ / cover
    - Duy trì / tăng → bên bán khống vẫn giữ cam kết
 
@@ -343,9 +343,9 @@ Luận điểm doanh số / đánh giá Crimson Desert còn nguyên vẹn
 
 - Đóng cửa ngày 27/04/2026: ₩60.200 (+5,61%); H ₩61.700, L ₩58.700; khối lượng 1.052.139; giá trị ₩63,64 tỷ.
 - Bao gồm NXT/trước giờ giao dịch: H ₩62.600 / L ₩58.100; tổng khối lượng 1.398.606; tổng giá trị ₩84,21 tỷ.
-- Khối lượng bán khống chính thức 75.930 cổ phiếu / ₩4.585.410.000; VWAP bán khống ₩60.390; tỷ trọng bán khống trên khối lượng & giá trị ~7,2%.
+- Khối lượng bán khống chính thức 75.930 cổ phiếu / ₩4.585.410.000; VWAP bán khống ₩60.390; tỷ trọng bán khống trên khối lượng & giá trị \~7,2%.
 - Áp dụng quy tắc uptick: 55.201 cổ phiếu @ ₩60.281; miễn quy tắc uptick: 20.729 cổ phiếu @ ₩60.681.
-- VWAP phiên thông thường hôm nay: ~₩60.486.
+- VWAP phiên thông thường hôm nay: \~₩60.486.
 - Ước tính ròng theo môi giới: Shinhan +51.245; Korea Investment +20.419; NH -16.581; Kiwoom -62.704; ước tính khối ngoại -38.336.
 - Tham chiếu khối lượng bán khống ngày 23/04: 269.865 cổ phiếu / ₩149,2 tỷ (đỉnh gần đây).
 
@@ -369,4 +369,4 @@ Luận điểm doanh số / đánh giá Crimson Desert còn nguyên vẹn
 
 ---
 
-**Tuyên bố miễn trừ trách nhiệm**: Bài viết này là bình luận nghiên cứu, không phải lời khuyên đầu tư. Pearl Abyss được theo dõi như một phần trong chuỗi luận điểm đầu tư của tác giả. Vị thế, điều kiện và mức giá có thể thay đổi khi dữ liệu mới xuất hiện. Hãy tự nghiên cứu trước khi đưa ra quyết định.
+*Disclaimer: For research and information purposes only. Not investment advice. Names cited are for analytical illustration; readers should perform their own due diligence and consult licensed advisors before any investment decision.*

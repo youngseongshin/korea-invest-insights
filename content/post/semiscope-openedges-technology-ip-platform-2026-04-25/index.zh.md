@@ -264,4 +264,4 @@ OpenEdges Technology是韩国半导体领域最具思考价值的标的之一，
 
 ---
 
-*免责声明：本文仅供研究与信息参考，不构成投资建议。所提及公司名称仅用于分析说明；读者在作出任何投资决策前，应进行独立尽职调查并咨询持牌投资顾问。*
+*Disclaimer: For research and information purposes only. Not investment advice. Names cited are for analytical illustration; readers should perform their own due diligence and consult licensed advisors before any investment decision.*

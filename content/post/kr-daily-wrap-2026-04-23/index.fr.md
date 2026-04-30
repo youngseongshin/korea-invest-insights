@@ -71,3 +71,7 @@ Spécialiste des transformateurs de puissance et des convertisseurs électriques
 ---
 
 *Données au 23 avril 2026, clôture KST. Ce contenu est fourni à titre informatif uniquement et ne constitue pas un conseil en investissement.*
+
+---
+
+*Disclaimer: For research and information purposes only. Not investment advice. Names cited are for analytical illustration; readers should perform their own due diligence and consult licensed advisors before any investment decision.*

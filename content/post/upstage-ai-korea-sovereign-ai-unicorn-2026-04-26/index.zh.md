@@ -419,4 +419,6 @@ Microsoft/OpenAI、Google、Anthropic/AWS、AWS原生服务、Naver Cloud、LG A
 - Hyundai Motor/Kia作为战略投资方的参与具有信号意义，但直接商业收入协同效应【尚不明确】。
 - 主权AI项目支持具有重要战略意义，但最终遴选结果和商业营收转化仍【尚不明确】。
 
-*免责声明：仅供研究和信息参考。不构成投资建议。文中提及的名称仅用于分析说明；读者在做出任何投资决策前，应自行进行尽职调查并咨询持牌顾问。*
+---
+
+*Disclaimer: For research and information purposes only. Not investment advice. Names cited are for analytical illustration; readers should perform their own due diligence and consult licensed advisors before any investment decision.*

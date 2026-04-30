@@ -73,3 +73,7 @@ Bức tranh thị trường hôm nay mang tính chất **mở rộng dựa trên
 ---
 
 *Dữ liệu chốt phiên 20/04/2026. Bài viết mang tính thông tin thị trường, không phải khuyến nghị đầu tư.*
+
+---
+
+*Disclaimer: For research and information purposes only. Not investment advice. Names cited are for analytical illustration; readers should perform their own due diligence and consult licensed advisors before any investment decision.*

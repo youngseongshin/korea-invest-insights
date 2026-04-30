@@ -40,9 +40,9 @@ CJ Corp là công ty mẹ đứng đầu CJ Group — một nhánh tách ra từ
 
 | Công ty con | Mã KRX | Lĩnh vực | Tỷ lệ sở hữu CJ Corp |
 |---|---|---|---|
-| CJ CheilJedang | 097950.KS | Thực phẩm & Sinh học | ~36% |
-| CJ ENM | 035760.KQ | Giải trí / Truyền thông | ~43% |
-| CJ Logistics | 000120.KS | Logistics | ~40% |
+| CJ CheilJedang | 097950.KS | Thực phẩm & Sinh học | \~36% |
+| CJ ENM | 035760.KQ | Giải trí / Truyền thông | \~43% |
+| CJ Logistics | 000120.KS | Logistics | \~40% |
 | CJ Olive Young | Chưa niêm yết | Bán lẻ sức khỏe & làm đẹp | 100% |
 
 **CJ CheilJedang** là cái tên nổi tiếng nhất trên trường quốc tế — sở hữu thương hiệu thực phẩm Hàn Quốc Bibigo hiện có mặt tại hơn 90 quốc gia, đồng thời vận hành mảng kinh doanh sinh học/lên men amino acid đang tăng trưởng mạnh. **CJ ENM** là đơn vị chủ quản của tvN, OCN, Mnet, cùng với các mối quan hệ sản xuất gắn với đạo diễn *Ký sinh trùng* Bong Joon-ho. **CJ Logistics** là doanh nghiệp giao nhận bưu kiện lớn nhất Hàn Quốc. Nhưng chính **CJ Olive Young** — thực thể duy nhất thuộc sở hữu toàn phần và chưa niêm yết trong bảng trên — mới là tâm điểm thu hút sự chú ý của các nhà đầu tư giá trị trong giai đoạn 2025–2026.
@@ -200,4 +200,4 @@ Nhà đầu tư cân nhắc CJ Corp nên tự đánh giá quan điểm của mì
 
 ---
 
-*Tuyên bố miễn trách: Bài viết này chỉ nhằm mục đích thông tin và giáo dục. Đây không phải lời khuyên đầu tư, lời mời mua bán bất kỳ chứng khoán nào, hay khuyến nghị dưới bất kỳ hình thức nào. Thông tin trình bày dựa trên dữ liệu công khai và ước tính của các nhà phân tích tính đến ngày xuất bản. Đầu tư cổ phiếu có rủi ro, bao gồm khả năng mất vốn. Nhà đầu tư quốc tế cần lưu ý rủi ro tỷ giá, sự khác biệt về quy định và các đặc thù của thị trường vốn Hàn Quốc. Luôn thực hiện thẩm định độc lập và tham khảo chuyên viên tư vấn tài chính có phép trước khi đưa ra quyết định đầu tư.*
+*Disclaimer: For research and information purposes only. Not investment advice. Names cited are for analytical illustration; readers should perform their own due diligence and consult licensed advisors before any investment decision.*

@@ -162,3 +162,7 @@ La concentration des artistes — et plus particulièrement la dépendance exces
 ---
 
 *Cette analyse est fournie à titre informatif uniquement et ne constitue pas un conseil en investissement. Tous les chiffres et références sont basés sur des informations publiquement disponibles et l'analyse de l'auteur telle qu'elle se présente en avril 2026. Les investisseurs sont invités à effectuer leur propre analyse approfondie et à consulter des conseillers financiers qualifiés avant de prendre toute décision d'investissement. Les performances passées des tournées d'artistes, des cycles d'albums ou des mouvements du cours de l'action ne préjugent pas des résultats futurs.*
+
+---
+
+*Disclaimer: For research and information purposes only. Not investment advice. Names cited are for analytical illustration; readers should perform their own due diligence and consult licensed advisors before any investment decision.*

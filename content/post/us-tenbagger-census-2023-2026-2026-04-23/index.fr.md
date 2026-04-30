@@ -9,7 +9,7 @@ series: ["tenbagger-analysis-2026"]
 ---
 
 > **Série — Tenbagger Analysis 2026 (Partie 2 sur 2)**
-> ① [Les 27 Tenbaggers coréens de 2023-2026](/en/post/kr-tenbagger-census-2023-2026-2026-04-23/) — le volet KOSPI + KOSDAQ
+> ① [Les 27 Tenbaggers coréens de 2023-2026](/post/kr-tenbagger-census-2023-2026-2026-04-23/) — le volet KOSPI + KOSDAQ
 > ② **Cet article** — le volet américain : 40 valeurs, la colonne vertébrale IA-infra, et le pair-trade avec la Corée
 
 ---
@@ -35,7 +35,7 @@ series: ["tenbagger-analysis-2026"]
 - **Multiple moyen** : 19,3× (Corée : 17,4×)
 - **Multiple médian** : 15,7× (Corée : 13,8×)
 - **Maximum** : AAOI à 69,5×
-- **Rendement médian sur 3 ans** : ~1 480 % (médiane coréenne ~900 %, soit un ratio US/KR de ~1,6×)
+- **Rendement médian sur 3 ans** : \~1 480 % (médiane coréenne \~900 %, soit un ratio US/KR de \~1,6×)
 
 Les États-Unis ne font pas que produire plus de tenbaggers que la Corée — les gagnants vont plus loin. La queue droite de la distribution est plus épaisse.
 
@@ -192,6 +192,10 @@ La carte des pair-trades est l'enseignement le plus transférable : **les valeur
 
 ---
 
-_Cet article clôt la série Tenbagger Analysis 2026. [Partie 1 : les 27 tenbaggers coréens et pourquoi le réseau électrique a discrètement surpassé l'IA.](/en/post/kr-tenbagger-census-2023-2026-2026-04-23/)_
+_Cet article clôt la série Tenbagger Analysis 2026. [Partie 1 : les 27 tenbaggers coréens et pourquoi le réseau électrique a discrètement surpassé l'IA.](/post/kr-tenbagger-census-2023-2026-2026-04-23/)_
 
 _Toutes les valeurs mentionnées sont des pistes de réflexion, non des recommandations. Rien dans cet article ne constitue un conseil en investissement._
+
+---
+
+*Disclaimer: For research and information purposes only. Not investment advice. Names cited are for analytical illustration; readers should perform their own due diligence and consult licensed advisors before any investment decision.*

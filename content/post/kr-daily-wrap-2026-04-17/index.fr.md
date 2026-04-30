@@ -84,3 +84,7 @@ Le screener identifie J&R Global REIT (348950.KS) comme acheteur le plus profond
 ---
 
 *Sources : rapport macro-régime du 17 avril 2026 ; close briefing du 10 avril 2026 ; screener Market Discovery du 17 avril 2026.*
+
+---
+
+*Disclaimer: For research and information purposes only. Not investment advice. Names cited are for analytical illustration; readers should perform their own due diligence and consult licensed advisors before any investment decision.*

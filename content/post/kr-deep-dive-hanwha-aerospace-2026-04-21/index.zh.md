@@ -172,4 +172,4 @@ K9雷霆（K9 자주포）是由韩国研发、韩华航空航天制造的155毫
 
 ---
 
-*本文仅供参考，不构成投资建议。历史表现不代表未来结果。投资者在做出任何投资决策前，应进行独立尽职调查并咨询具有资质的专业财务顾问。本文引用的财务数据均来自公开披露的最新报告期信息，读者应以DART最新申报文件及公司正式披露为准核实所有数据。*
+*Disclaimer: For research and information purposes only. Not investment advice. Names cited are for analytical illustration; readers should perform their own due diligence and consult licensed advisors before any investment decision.*

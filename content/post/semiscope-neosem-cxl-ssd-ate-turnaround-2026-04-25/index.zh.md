@@ -256,4 +256,4 @@ Neosem与OpenEdges是截然不同的投资工具。OpenEdges是长久期的IP版
 
 ---
 
-*免责声明：本文仅供研究与信息参考，不构成投资建议。文中提及的公司名称仅为分析举例之用，读者在作出任何投资决策前，应自行进行尽职调查并咨询持牌顾问。*
+*Disclaimer: For research and information purposes only. Not investment advice. Names cited are for analytical illustration; readers should perform their own due diligence and consult licensed advisors before any investment decision.*

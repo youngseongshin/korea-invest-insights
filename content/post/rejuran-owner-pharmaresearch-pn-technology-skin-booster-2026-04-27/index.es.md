@@ -255,3 +255,7 @@ Para los lectores globales que buscan "quién es el dueño de Rejuran" o "empres
 ---
 
 **Aviso legal**: Este artículo es un comentario de investigación, no un consejo de inversión. Los tickers mencionados son ilustrativos del marco de la cesta de K-aesthetics y no constituyen recomendaciones. Las descripciones del mecanismo de acción están resumidas a partir de literatura regulatoria y clínica disponible públicamente y no constituyen asesoramiento médico. Realice su propia diligencia debida y consulte a profesionales financieros y médicos con licencia antes de tomar cualquier decisión.
+
+---
+
+*Disclaimer: For research and information purposes only. Not investment advice. Names cited are for analytical illustration; readers should perform their own due diligence and consult licensed advisors before any investment decision.*

@@ -20,7 +20,7 @@ draft: false
 | Brent | 96,2 $ | +1,1% | Neutro |
 | DXY | 98,2 | −0,4% | Neutro |
 
-**Veredicto de régimen:** Corea → **Bull** · EE.UU. → **Neutral**  
+**Veredicto de régimen:** Corea → **Bull** · EE.UU. → **Neutral**
 El diferencial KR-Bull / US-Neutral favorece una expansión selectiva en activos coreanos. El VIX por debajo de 19 y el won estabilizado son condiciones de fondo favorables; el petróleo al alza merece seguimiento para valorar su sostenibilidad.
 
 ---
@@ -78,13 +78,13 @@ El universo hoy: **96 candidatos** — 26 en Tier A (coil muy ajustado, ≤12%),
 
 ### Contexto para los tres primeros nombres
 
-**고려산업 (002140.KS) — Score +1,61 · Tier A #1**  
+**고려산업 (002140.KS) — Score +1,61 · Tier A #1**
 Empresa industrial coreana de materiales de construcción y química básica, listada en el mercado principal. El punto que destaca el screener es el **movimiento extranjero más agresivo del universo**: +4,48 pp en solo 20 días sobre una base de participación del 7,57%. El precio lleva 30 días en un rango del 8,4% con volumen prácticamente plano —clásico perfil de acumulación silenciosa antes de catalizador. ROE del 8,4% y margen operativo del 4,6% son discretos pero positivos; el atractivo aquí es la señal de flujo, no los fundamentales de crecimiento.
 
-**AJ네트웍스 (095570.KS) — Score +0,48 · Tier A #2**  
+**AJ네트웍스 (095570.KS) — Score +0,48 · Tier A #2**
 Compañía de arrendamiento de equipos industriales y logística (grúas, equipos de construcción, IT). PER forward de 11x con margen operativo del 6,7% y ROE del 6,3%. La participación extranjera subió +0,97 pp en 20 días con flujo neto comprador confirmado. Rango de precio del 8% sobre MA60 y volumen contenido dibujan un coil técnico limpio. Sector de arrendamiento industrial tiende a beneficiarse de la reactivación de infraestructura, lo que encaja con el tema de reconstrucción presente en el mercado.
 
-**한화에어로스페이스 (012450.KS) — Score +1,95 · Mejor score global**  
+**한화에어로스페이스 (012450.KS) — Score +1,95 · Mejor score global**
 Holding aeroespacial y de defensa del grupo Hanwha —motores de cohetes, sistemas de armas, sistemas de propulsión naval. Con ingresos creciendo +137,6% interanual y beneficio operativo +78,4%, es uno de los nombres de mayor crecimiento en el universo defensivo coreano. Participación extranjera del 45,51% (+0,79 pp en 20 días) sobre un float elevado. El rango del 20% lo sitúa en Tier C, pero el score compuesto lo corona como el candidato con señal más completa de todo el screener. RSI en 58,7 —no sobrecomprado— y precio sobre MA60.
 
 ### Lectura del screener
@@ -93,4 +93,4 @@ El screener de hoy confirma una dinámica que el propio mercado viene señalando
 
 ---
 
-*Fuentes: macro-regime-verdict (2026-04-15), kr-close-briefing (2026-04-10), KR_Quiet_Accumulation_Engine (2026-04-15 16:07 KST). Este análisis es informativo y no constituye asesoramiento de inversión.*
+*Disclaimer: For research and information purposes only. Not investment advice. Names cited are for analytical illustration; readers should perform their own due diligence and consult licensed advisors before any investment decision.*

@@ -108,3 +108,7 @@ Phiên 27/4/2026 xác nhận một điều: **thị trường chứng khoán Hà
 Tuy nhiên, đây cũng là thời điểm mà kỷ luật đầu tư quan trọng hơn bao giờ hết. Nhiều cổ phiếu tốt nhất đã tăng 15-60% trong 5 ngày. Đối với nhà đầu tư quốc tế chưa có vị thế, chiến lược ưu tiên là **xây dựng danh sách theo dõi, chờ điều chỉnh kỹ thuật**, và tập trung vào các tên có RS cao, dòng tiền tổ chức mạnh, và catalyst rõ ràng từ lợi nhuận — như Hanwha Engine hay SK Hynix.
 
 *Dữ liệu dòng tiền dựa trên cơ sở dữ liệu KRX tính đến ngày 24/4/2026. Dữ liệu giá tính đến 14:20 KST ngày 27/4/2026. Bài viết này không cấu thành khuyến nghị đầu tư.*
+
+---
+
+*Disclaimer: For research and information purposes only. Not investment advice. Names cited are for analytical illustration; readers should perform their own due diligence and consult licensed advisors before any investment decision.*

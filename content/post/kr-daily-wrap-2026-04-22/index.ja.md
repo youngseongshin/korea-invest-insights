@@ -82,3 +82,7 @@ Tier Cながら全ティア通じて最高スコア+1.61を記録。売上高YoY
 ---
 
 *本レポートは市場データの分析を目的とするものであり、特定銘柄への投資を推奨するものではありません。*
+
+---
+
+*Disclaimer: For research and information purposes only. Not investment advice. Names cited are for analytical illustration; readers should perform their own due diligence and consult licensed advisors before any investment decision.*

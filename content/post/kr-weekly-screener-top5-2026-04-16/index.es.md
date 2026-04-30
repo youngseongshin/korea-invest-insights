@@ -280,3 +280,7 @@ Este informe se produce **únicamente con fines educativos e informativos**. No 
 Los resultados previos del screener y las rentabilidades históricas de los factores no garantizan resultados futuros. Los mercados de renta variable coreanos están sujetos a riesgos regulatorios, de divisa, geopolíticos y macroeconómicos que pueden no estar plenamente capturados por ningún marco cuantitativo.
 
 *Publicado: 18 de abril de 2026 | Período de cobertura: 9–16 de abril de 2026 | Universo: 459 valores cotizados en Corea | Screeners: 10*
+
+---
+
+*Disclaimer: For research and information purposes only. Not investment advice. Names cited are for analytical illustration; readers should perform their own due diligence and consult licensed advisors before any investment decision.*

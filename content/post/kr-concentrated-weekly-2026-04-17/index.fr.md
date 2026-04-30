@@ -96,3 +96,7 @@ SK Telecom, l'opérateur télécoms dominant en Corée du Sud avec plus de 30 mi
 Le marché coréen en ce milieu d'avril 2026 offre une fenêtre tactique sur des valeurs semiconductrices et technologiques avec des catalyseurs de résultats à horizon deux semaines. La configuration macro — BOK stable, Fed en pause, USD/KRW sans excès — est favorable aux actions coréennes libellées en won pour des investisseurs à horizon moyen terme. Mais le vrai différenciateur cette semaine sera la qualité des guidances : Samsung Electronics le 29 avril dira beaucoup sur l'état réel de la demande en IA hardware en 2026.
 
 *Les données de marché mentionnées dans cet article sont issues de sources publiques incluant les publications officielles de la BOK, les communiqués de la Fed, les données KRX, FnGuide, et les rapports trimestriels des sociétés concernées. Cet article est à visée informative et ne constitue pas un conseil en investissement.*
+
+---
+
+*Disclaimer: For research and information purposes only. Not investment advice. Names cited are for analytical illustration; readers should perform their own due diligence and consult licensed advisors before any investment decision.*

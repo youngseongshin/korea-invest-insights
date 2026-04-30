@@ -11,7 +11,7 @@ draft: false
 
 # APR (에이피알): El imperio Medicube que está redefiniendo silenciosamente la tecnología de belleza global
 
-APR Co., Ltd. (ticker: **278470.KQ**, KOSDAQ), la empresa coreana detrás de la marca de cuidado de piel **Medicube** y los dispositivos de belleza domésticos **AGE-R**, se ha convertido discretamente en una de las historias de convergencia más atractivas de la tecnología de consumo global. Con KRW 1,5 billones (~USD 1,1 mil millones) en ingresos para el año fiscal 2025, un margen operativo superior al 23% y aproximadamente el 80% de sus ventas generadas en el extranjero, APR ha cruzado el umbral que impide seguir clasificándola como un simple jugador regional de K-beauty. Este análisis desglosa qué hace a esta empresa estructuralmente diferente, de dónde vendrá el próximo crecimiento y qué riesgos deben considerar los inversores internacionales.
+APR Co., Ltd. (ticker: **278470.KQ**, KOSDAQ), la empresa coreana detrás de la marca de cuidado de piel **Medicube** y los dispositivos de belleza domésticos **AGE-R**, se ha convertido discretamente en una de las historias de convergencia más atractivas de la tecnología de consumo global. Con KRW 1,5 billones (\~USD 1,1 mil millones) en ingresos para el año fiscal 2025, un margen operativo superior al 23% y aproximadamente el 80% de sus ventas generadas en el extranjero, APR ha cruzado el umbral que impide seguir clasificándola como un simple jugador regional de K-beauty. Este análisis desglosa qué hace a esta empresa estructuralmente diferente, de dónde vendrá el próximo crecimiento y qué riesgos deben considerar los inversores internacionales.
 
 ---
 
@@ -64,14 +64,14 @@ La diferenciación estructural de APR es la **integración vertical en ambos ext
 
 | Segmento | Cuota de ingresos |
 |---|---|
-| Cosmética y belleza (liderado por Medicube) | ~71% |
-| Dispositivos de belleza domésticos (AGE-R) | ~27% |
-| Otros / Plataforma | ~2% |
+| Cosmética y belleza (liderado por Medicube) | \~71% |
+| Dispositivos de belleza domésticos (AGE-R) | \~27% |
+| Otros / Plataforma | \~2% |
 
 | Geografía | Cuota de ingresos |
 |---|---|
-| Internacional (agregado) | ~80% |
-| Corea (doméstico) | ~20% |
+| Internacional (agregado) | \~80% |
+| Corea (doméstico) | \~20% |
 
 **Principales cifras financieras del año fiscal 2025 (según lo reportado):**
 - **Ingresos anuales: KRW 1,5 billones** (aprox. USD 1,1 mil millones)
@@ -186,7 +186,7 @@ Estas son preguntas habituales de los inversores internacionales que investigan 
 
 ## Conclusión
 
-APR es el tipo de empresa que desafía las etiquetas de categoría. Es simultáneamente una marca de consumo, una empresa de hardware, una plataforma DTC y una historia de distribución global — y, excepcionalmente, ejecuta de forma creíble en los cuatro frentes. Los resultados del año fiscal 2025 (ingresos de KRW 1,5 billones, margen operativo del cuarto trimestre del 23,8%, mix internacional del 80%) y la orientación para el año fiscal 2026 (KRW 2,1 billones, ~25% de margen operativo) representan una combinación de crecimiento y rentabilidad genuinamente poco común en cualquier mercado global, no solo en Corea.
+APR es el tipo de empresa que desafía las etiquetas de categoría. Es simultáneamente una marca de consumo, una empresa de hardware, una plataforma DTC y una historia de distribución global — y, excepcionalmente, ejecuta de forma creíble en los cuatro frentes. Los resultados del año fiscal 2025 (ingresos de KRW 1,5 billones, margen operativo del cuarto trimestre del 23,8%, mix internacional del 80%) y la orientación para el año fiscal 2026 (KRW 2,1 billones, \~25% de margen operativo) representan una combinación de crecimiento y rentabilidad genuinamente poco común en cualquier mercado global, no solo en Corea.
 
 Los riesgos son reales: concentración en la marca Medicube, inflación de costes de marketing a medida que los canales internacionales escalan, y una valoración que deja poco margen para errores de ejecución. Pero los vientos de cola estructurales — democratización de los procedimientos estéticos, premiumización del cuidado de piel, base instalada de dispositivos AGE-R — son duraderos más que cíclicos.
 
@@ -196,4 +196,6 @@ Para los inversores internacionales que buscan exposición al tema de la tecnolo
 
 *Fuentes: Resultados anuales de APR para el año fiscal 2025 y declaración de beneficios del cuarto trimestre de 2025 (DART: dart.fss.or.kr); datos de mercado de KRX; análisis del lado vendedor (Mirae Asset, Meritz Securities, a principios de 2026); datos del pipeline de análisis interno a abril de 2026.*
 
-*Este análisis tiene únicamente fines informativos y no constituye asesoramiento de inversión. La rentabilidad pasada no es indicativa de resultados futuros. Todas las cifras financieras provienen de declaraciones de la empresa e investigaciones de terceros según se cita; las cifras en USD son aproximadas según los tipos de cambio vigentes. Los inversores deben realizar su propia diligencia debida y consultar a un asesor financiero cualificado antes de tomar cualquier decisión de inversión.*
+---
+
+*Disclaimer: For research and information purposes only. Not investment advice. Names cited are for analytical illustration; readers should perform their own due diligence and consult licensed advisors before any investment decision.*

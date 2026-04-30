@@ -268,4 +268,4 @@ Goldmanの「ジャパン2020トレード」という比較は有用だが、立
 
 ---
 
-_本稿は、KOSDAQ構造的2026シリーズ（資本トリガー→IPOテンバガー→27銘柄センサス→カバレッジギャップ）およびテンバガー分析2026シリーズ（韓国⇔米国ペアトレード・フレームワーク）と対で構成されている。本稿はいかなる意味においても投資助言ではない。すべての推計値は公開情報を出所とし、2026年4月24日時点の開示前提に基づく。_
+*Disclaimer: For research and information purposes only. Not investment advice. Names cited are for analytical illustration; readers should perform their own due diligence and consult licensed advisors before any investment decision.*

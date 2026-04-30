@@ -137,8 +137,8 @@ Samyang Foods ha cotizado históricamente con una prima significativa sobre la m
 
 **Referencias numéricas útiles de registros recientes (DART):**
 - Ingresos FY2025 en fideos/snacks: ₩2,1556 billones (+35,9%)
-- Margen operativo consolidado Q1 2025: ~25,3%
-- Beneficio operativo consolidado 9M 2025: ₩385 mil millones sobre ingresos de ₩1,714 billones (~22,5% de margen)
+- Margen operativo consolidado Q1 2025: \~25,3%
+- Beneficio operativo consolidado 9M 2025: ₩385 mil millones sobre ingresos de ₩1,714 billones (\~22,5% de margen)
 
 A fecha del último informe anual (FY2025), la trayectoria fundamental permanece intacta. Si el precio actual de mercado ya descuenta esa trayectoria es una pregunta que cada inversor debe responder en función de sus propios requisitos de rentabilidad y horizonte temporal.
 
@@ -181,7 +181,7 @@ Este análisis no formula recomendaciones de inversión. Lo que muestran los dat
 Samyang Foods (003230.KS) cotiza en la Korea Exchange (KOSPI). La mayoría de los brokers internacionales con acceso a renta variable coreana pueden facilitar la compra. No existe un ADR cotizado en EE. UU. Para una exposición pasiva, compruebe las posiciones de los ETFs de renta variable coreana y de consumo asiático.
 
 **¿Cuánto vale la marca Buldak para Samyang?**
-Según los datos de FY2025, las exportaciones exteriores de fideos/snacks — la gran mayoría de las cuales son impulsadas por Buldak — alcanzaron ₩1,8239 billones. La marca Buldak no se valora por separado en los registros de la empresa, pero es efectivamente el motor detrás del ~84% de los ingresos del segmento de fideos/snacks. En términos prácticos, es el activo principal de Samyang.
+Según los datos de FY2025, las exportaciones exteriores de fideos/snacks — la gran mayoría de las cuales son impulsadas por Buldak — alcanzaron ₩1,8239 billones. La marca Buldak no se valora por separado en los registros de la empresa, pero es efectivamente el motor detrás del \~84% de los ingresos del segmento de fideos/snacks. En términos prácticos, es el activo principal de Samyang.
 
 ---
 
@@ -195,4 +195,6 @@ Los riesgos son reales: la exposición a China, la dependencia de una sola marca
 
 *Todos los datos financieros proceden de los registros oficiales de Samyang Foods en DART (dart.fss.or.kr), incluyendo el 사업보고서 de FY2025 (제65기) y los informes trimestrales de 2025. Las referencias periodísticas corresponden a Yonhap News Agency (marzo de 2026) y Korea Securities Newspaper (한국증권신문).*
 
-*Este análisis tiene únicamente fines informativos y no constituye asesoramiento de inversión. La inversión en valores cotizados en el extranjero conlleva riesgo cambiario, riesgo geopolítico y riesgo regulatorio no presentes en los mercados de renta variable domésticos. El rendimiento financiero pasado no garantiza resultados futuros. Consulte a un asesor financiero autorizado antes de tomar decisiones de inversión.*
+---
+
+*Disclaimer: For research and information purposes only. Not investment advice. Names cited are for analytical illustration; readers should perform their own due diligence and consult licensed advisors before any investment decision.*

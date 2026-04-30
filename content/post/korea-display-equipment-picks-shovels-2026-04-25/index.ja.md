@@ -196,3 +196,7 @@ HBMレーザーは**オプション性として扱え——コアテーゼでは
 ---
 
 _本稿はDisplay Equipment Thesis 2026シリーズの第1回だ。より広いKorea Outperformance 2026テーゼ（マクロフレームワーク）とKOSDAQ Structural Change 2026シリーズ（マイクロスクリーン）に接続する。ここに記載されている内容は投資アドバイスではない；すべての推定は前提依存のレンジを持つ。出典：DART開示、FnGuide、Diylek、KIPOST、証券会社レポート（新韓証券、NH投資証券、Korea IR Council）、公開コーポレートディスクロージャー。_
+
+---
+
+*Disclaimer: For research and information purposes only. Not investment advice. Names cited are for analytical illustration; readers should perform their own due diligence and consult licensed advisors before any investment decision.*

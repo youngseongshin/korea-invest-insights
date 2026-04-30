@@ -33,13 +33,13 @@ Estructura de negocio a finales de 2025:
 
 | Segmento | Ingresos | Notas |
 |---------|---------|-------|
-| Buques Comerciales | ~KRW 10,5T | Participación dominante |
-| Buques Offshore/Especiales | ~KRW 0,83T | Participación pequeña pero estratégicamente crítica |
+| Buques Comerciales | \~KRW 10,5T | Participación dominante |
+| Buques Offshore/Especiales | \~KRW 0,83T | Participación pequeña pero estratégicamente crítica |
 
 | Segmento | Cartera de Pedidos |
 |---------|--------------|
-| Buques Comerciales | ~KRW 26,0T |
-| Buques Offshore/Especiales | ~KRW 6,3T |
+| Buques Comerciales | \~KRW 26,0T |
+| Buques Offshore/Especiales | \~KRW 6,3T |
 
 Esta estructura es clave: **los resultados actuales los generan los buques comerciales, mientras que los múltiplos se elevan por la opcionalidad de los buques especiales y la defensa**.
 
@@ -54,8 +54,8 @@ Esta estructura es clave: **los resultados actuales los generan los buques comer
 | Ingresos | KRW 3,23T |
 | Beneficio Operativo | KRW 189,0B |
 | Margen Operativo Reportado | 5,9% |
-| Costes Extraordinarios | ~KRW -240B (bonificaciones, costes de buques especiales) |
-| Margen Operativo Normalizado (est.) | ~13% |
+| Costes Extraordinarios | \~KRW -240B (bonificaciones, costes de buques especiales) |
+| Margen Operativo Normalizado (est.) | \~13% |
 
 ### Interpretación
 
@@ -279,4 +279,4 @@ El gráfico de Hanwha Ocean muestra actualmente un estado en que **la tendencia 
 
 ---
 
-*Aviso legal: Este análisis tiene únicamente fines informativos y no constituye asesoramiento de inversión. La rentabilidad pasada no garantiza resultados futuros. Realice siempre su propio análisis antes de tomar decisiones de inversión.*
+*Disclaimer: For research and information purposes only. Not investment advice. Names cited are for analytical illustration; readers should perform their own due diligence and consult licensed advisors before any investment decision.*

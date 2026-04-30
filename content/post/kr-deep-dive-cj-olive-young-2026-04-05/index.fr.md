@@ -40,9 +40,9 @@ CJ Corp est la société holding faîtière du groupe CJ, une émanation de Sams
 
 | Filiale | Ticker KRX | Secteur | Participation de CJ Corp |
 |---|---|---|---|
-| CJ CheilJedang | 097950.KS | Agroalimentaire & Bio | ~36 % |
-| CJ ENM | 035760.KQ | Divertissement / Médias | ~43 % |
-| CJ Logistics | 000120.KS | Logistique | ~40 % |
+| CJ CheilJedang | 097950.KS | Agroalimentaire & Bio | \~36 % |
+| CJ ENM | 035760.KQ | Divertissement / Médias | \~43 % |
+| CJ Logistics | 000120.KS | Logistique | \~40 % |
 | CJ Olive Young | Non coté | Distribution Santé & Beauté | 100 % |
 
 **CJ CheilJedang** est la plus visible à l'international — elle possède Bibigo, la marque de cuisine coréenne désormais vendue dans plus de 90 pays, et exploite une activité croissante de fermentation biologique et d'acides aminés. **CJ ENM** regroupe tvN, OCN, Mnet, ainsi que le studio lié aux productions du réalisateur de *Parasite*, Bong Joon-ho. **CJ Logistics** est le premier opérateur de livraison de colis en Corée. Mais c'est **CJ Olive Young** — la seule entité entièrement détenue et non cotée de ce tableau — qui est devenue le point de mire des investisseurs axés sur la valeur en 2025–2026.
@@ -201,3 +201,7 @@ Les investisseurs envisageant CJ Corp doivent évaluer leur propre point de vue 
 ---
 
 *Avertissement : Cet article est publié à des fins d'information et d'éducation uniquement. Il ne constitue pas un conseil en investissement, une sollicitation d'achat ou de vente de valeurs mobilières, ni une recommandation d'aucune sorte. Les informations présentées sont basées sur des données publiquement disponibles et des estimations d'analystes à la date de publication. Les investissements en actions comportent des risques, notamment la perte potentielle du capital investi. Les investisseurs internationaux doivent être conscients du risque de change, des différences réglementaires et des caractéristiques spécifiques des marchés de capitaux coréens. Effectuez toujours votre propre diligence raisonnable et consultez un conseiller financier agréé avant de prendre toute décision d'investissement.*
+
+---
+
+*Disclaimer: For research and information purposes only. Not investment advice. Names cited are for analytical illustration; readers should perform their own due diligence and consult licensed advisors before any investment decision.*

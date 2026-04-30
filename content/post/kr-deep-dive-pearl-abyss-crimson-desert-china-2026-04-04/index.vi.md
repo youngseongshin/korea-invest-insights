@@ -53,14 +53,14 @@ Những con số tổng quan kể một câu chuyện rõ ràng:
 
 | Chỉ Số | Con Số | Ngày |
 |--------|--------|------|
-| Doanh số Steam tháng 3 | ~2 triệu bản | Tháng 3 năm 2026 |
+| Doanh số Steam tháng 3 | \~2 triệu bản | Tháng 3 năm 2026 |
 | Doanh số toàn nền tảng | 4 triệu+ bản | 1 tháng 4 năm 2026 |
 | CCU đỉnh (Steam) | 276.261 | 29 tháng 3 năm 2026 |
 | Đánh giá Steam toàn cầu | 86% tích cực | 4 tháng 4 năm 2026 |
 | Tổng đánh giá Steam | 100.000+ (83% tích cực) | 4 tháng 4 năm 2026 |
 | Điểm Xiaoheihe Trung Quốc | 8,4/10 | 4 tháng 4 năm 2026 |
 
-Để đặt con số riêng Steam vào ngữ cảnh: ~2 triệu bản Steam tháng 3 của Crimson Desert khiến nó trở thành **game bán chạy thứ 2 trên Steam toàn cầu** trong tháng 3, sau Killing Tower 2 với 5,3 triệu bản. Nhưng điều quan trọng hơn, Crimson Desert **đứng #1 trên cơ sở đa nền tảng với 4 triệu bản** — sự phân biệt có ý nghĩa cho mô hình doanh thu vì margin console khác với mức phí 30% của Steam.
+Để đặt con số riêng Steam vào ngữ cảnh: \~2 triệu bản Steam tháng 3 của Crimson Desert khiến nó trở thành **game bán chạy thứ 2 trên Steam toàn cầu** trong tháng 3, sau Killing Tower 2 với 5,3 triệu bản. Nhưng điều quan trọng hơn, Crimson Desert **đứng #1 trên cơ sở đa nền tảng với 4 triệu bản** — sự phân biệt có ý nghĩa cho mô hình doanh thu vì margin console khác với mức phí 30% của Steam.
 
 Game giữ **vị trí #1 trên bảng xếp hạng doanh thu toàn cầu của Steam trong hai tuần liên tiếp** (24–31 tháng 3) và đồng thời **đứng đầu bảng xếp hạng doanh thu Steam tại Trung Quốc trong cùng khoảng thời gian** — sự thống trị kép hiếm gặp cho thấy nhu cầu từ Trung Quốc tập trung đến mức nào.
 
@@ -96,13 +96,13 @@ Sử dụng các giả định thận trọng:
 - Thêm tỷ lệ đính kèm DLC/gói mở rộng 15–20% ở mức $20 trung bình = $15–20 triệu tăng thêm
 - **Ước tính doanh thu Năm 1: $170–180 triệu** chỉ từ Crimson Desert
 
-Doanh thu 12 tháng liên tiếp của Pearl Abyss trước khi ra mắt ở mức khoảng ₩300–350 tỷ (~$220–260 triệu USD). Một lần ra mắt Crimson Desert thành công có khả năng **gần như nhân đôi tốc độ doanh thu hàng năm của công ty** trong Năm 1.
+Doanh thu 12 tháng liên tiếp của Pearl Abyss trước khi ra mắt ở mức khoảng ₩300–350 tỷ (\~$220–260 triệu USD). Một lần ra mắt Crimson Desert thành công có khả năng **gần như nhân đôi tốc độ doanh thu hàng năm của công ty** trong Năm 1.
 
 **So Sánh Với Đối Thủ**
 
 | Công Ty | Tựa Game Chủ Lực | Bội Số Doanh Thu Năm Ra Mắt |
 |---------|-----------------|---------------------------|
-| SHIFT UP (462870.KS) | Stellar Blade | ~2.5x |
+| SHIFT UP (462870.KS) | Stellar Blade | \~2.5x |
 | Krafton (259960.KS) | Chu kỳ tái ra mắt PUBG | 1.2–1.5x |
 | Pearl Abyss (263750.KS) | Crimson Desert (ước tính) | 1.8–2.1x |
 
@@ -110,7 +110,7 @@ So sánh với SHIFT UP rất có liên quan: Stellar Blade ra mắt như một 
 
 **Tập Trung Doanh Thu Từ Trung Quốc**
 
-Ước tính game thủ Trung Quốc chiếm 30–35% tổng lượng người chơi Steam — phù hợp với các tựa game xếp hạng cao điển hình tại Trung Quốc — tương đương khoảng 600.000–700.000 bản Steam được bán ở Trung Quốc tính đến ngày 1 tháng 4. Với giá khu vực Steam của Trung Quốc (~¥268, khoảng $37), đó là khoảng **$22–26 triệu chỉ từ Steam Trung Quốc**. Dữ liệu doanh số console tại Trung Quốc không được công bố công khai nhưng có thể đáng kể do khuếch đại truyền thông xã hội dịp Thanh Minh.
+Ước tính game thủ Trung Quốc chiếm 30–35% tổng lượng người chơi Steam — phù hợp với các tựa game xếp hạng cao điển hình tại Trung Quốc — tương đương khoảng 600.000–700.000 bản Steam được bán ở Trung Quốc tính đến ngày 1 tháng 4. Với giá khu vực Steam của Trung Quốc (\~¥268, khoảng $37), đó là khoảng **$22–26 triệu chỉ từ Steam Trung Quốc**. Dữ liệu doanh số console tại Trung Quốc không được công bố công khai nhưng có thể đáng kể do khuếch đại truyền thông xã hội dịp Thanh Minh.
 
 ---
 
@@ -212,3 +212,7 @@ Pearl Abyss đã xây dựng một thập kỷ năng lực live-service khi vậ
 *Bài viết này chỉ nhằm mục đích thông tin và giáo dục. Không cấu thành tư vấn tài chính, khuyến nghị đầu tư, hoặc đề nghị mua bán bất kỳ chứng khoán nào. Tất cả điểm dữ liệu đều có nguồn từ thông tin công khai tính đến ngày 4 tháng 4 năm 2026. Ước tính doanh số và dự báo doanh thu bao gồm các giả định và chịu sự không chắc chắn đáng kể. Nhà đầu tư nên tự nghiên cứu và tham khảo cố vấn tài chính có giấy phép trước khi đưa ra bất kỳ quyết định đầu tư nào. Tác giả có thể nắm giữ vị thế trong các chứng khoán được đề cập.*
 
 *Bộ sưu tập Korean Gaming Studios — Xuất bản ngày 4 tháng 4 năm 2026*
+
+---
+
+*Disclaimer: For research and information purposes only. Not investment advice. Names cited are for analytical illustration; readers should perform their own due diligence and consult licensed advisors before any investment decision.*

@@ -72,7 +72,7 @@ This distinction is the entire analysis. Most of the 2026 package is B. The visi
 | 2026.04 | National Growth Fund sub-fund GP selection begins (KOSDAQ + regional leagues) | KRW 7.45T indirect |
 | 2026.06–07 | Retail Participation Growth Fund launch (planned) | KRW 600B (+ 120B subordinated) |
 | 2026.H2 | National Growth Fund deployment ramps | — |
-| 2029 | Delisting market-cap threshold reaches KRW 30B (final step) | ~165 names (~9.5%) at risk |
+| 2029 | Delisting market-cap threshold reaches KRW 30B (final step) | \~165 names (\~9.5%) at risk |
 
 ---
 
@@ -88,7 +88,7 @@ Why this is the #1 item: Korea has had no listed-vehicle adventure-capital bridg
 2. **Retail access to growth-asset exposure** that wasn't accessible through blind-pool VC funds.
 3. **A listed growth-asset class** that re-rates the entire pre-IPO stack if well-received.
 
-Key caveat: early BDC mandates will likely run as **secondary-heavy portfolios** (up to ~90% secondary possible after safe-asset minimums), which is precisely what VCs need for LP liquidity. Securities firms are excluded from initial licensing on conflict grounds, so asset managers + VCs are the winners.
+Key caveat: early BDC mandates will likely run as **secondary-heavy portfolios** (up to \~90% secondary possible after safe-asset minimums), which is precisely what VCs need for LP liquidity. Securities firms are excluded from initial licensing on conflict grounds, so asset managers + VCs are the winners.
 
 **Verdict: Structural importance — highest. Directness — medium-high. Long-term impact — highest.**
 
@@ -98,7 +98,7 @@ The FY2026 government-fund operational-evaluation guideline shifts large and mid
 
 Yuanta's estimate for realized inflow: **KRW 16.5T**, or KRW 11T if finance-linked funds lag on ops changes. That's the right order of magnitude.
 
-The effect: KOSDAQ shifts from "optional" to "benchmark-tracking error if ignored" for the relevant pension pool. Day-one buying is limited — the 1st wave is **KOSDAQ150 leveraged ETF flows**, the 2nd is active-fund inclusions where analyst coverage exists. Since only ~111 KOSDAQ names carry ≥2 sell-side targets, **portfolio companies with sell-side coverage win the pension flow first**.
+The effect: KOSDAQ shifts from "optional" to "benchmark-tracking error if ignored" for the relevant pension pool. Day-one buying is limited — the 1st wave is **KOSDAQ150 leveraged ETF flows**, the 2nd is active-fund inclusions where analyst coverage exists. Since only \~111 KOSDAQ names carry ≥2 sell-side targets, **portfolio companies with sell-side coverage win the pension flow first**.
 
 **Verdict: Importance — high. Directness — medium. Durability — highest.**
 
@@ -112,7 +112,7 @@ This money does not enter KOSDAQ directly. The path is: **pre-IPO valuation supp
 
 ### (4) KOSDAQ active ETFs — fastest post-listing liquidity sensation
 
-Three first-tier active ETFs listed March 10 (Samsung, Time, Hanwha). Day-one combined inflow ~KRW 1.07T. Follow-up data: active ETF total AUM crossed KRW 100T in April (from ~KRW 91T at year-end 2025). Coverage approximately KRW 1T flowed into KoAct KOSDAQ Active specifically YTD.
+Three first-tier active ETFs listed March 10 (Samsung, Time, Hanwha). Day-one combined inflow \~KRW 1.07T. Follow-up data: active ETF total AUM crossed KRW 100T in April (from \~KRW 91T at year-end 2025). Coverage approximately KRW 1T flowed into KoAct KOSDAQ Active specifically YTD.
 
 Why it matters for VCs: active ETFs concentrate flow into **recently-listed growth names with limited float**, which historically dominate the early aftermarket. This is genuine **aftermarket support**. The flip side: active-ETF money is fast and concentrated, so it's a liquidity provider *and* a volatility amplifier. Don't model it as a long-term multiple anchor.
 
@@ -128,7 +128,7 @@ Not a direct VC LP source. The meaningful effect is **creating retail demand tha
 
 ### (6) Mass-delisting reform — the discount-rate reducer
 
-Delisting minimum market cap steps up: KRW 4B (2025) → 15B (2026) → 20B (2027) → 30B (2028–29). Revenue thresholds similarly step up. KRX simulation: ~230 firms can fall under the strengthened bar by 2029.
+Delisting minimum market cap steps up: KRW 4B (2025) → 15B (2026) → 20B (2027) → 30B (2028–29). Revenue thresholds similarly step up. KRX simulation: \~230 firms can fall under the strengthened bar by 2029.
 
 Not money in — but arguably the highest-leverage environment change. The Korean discount on KOSDAQ has always had a "zombie overhang" component. Mass-delisting **improves the average quality of the index → compresses the discount → normalizes multiples on good new issuers**. Near-term it elevates small-cap risk premium, so it's not a blanket tailwind — it's a **quality-sorting** catalyst.
 
@@ -148,7 +148,7 @@ This money goes into **pre-IPO, structured finance, ECM, block-trade, secondary*
 
 FSC added AI, aerospace, and energy to the customized technology-special-listing category (previously biotech-only), with additional categories under review for 2026 (advanced robotics, K-content, cybersecurity). This is not a relaxation — it's **sector-specific qualitative standard refinement**.
 
-Not a direct money trigger. But it defines **the listing path for AI portfolio companies**, which had been ambiguous. Success is gated on 1–2 clean AI IPOs with good aftermarket performance — then sector ETFs and active money follow. Caveat: **post-Fadu**, technology-special-listing rejection rate jumped to ~31% in 2024, so the bar is higher, not lower. Winners: AI companies with **real recurring revenue, customer references, defensible data or model moats, and regulatory fit** — not brand alone.
+Not a direct money trigger. But it defines **the listing path for AI portfolio companies**, which had been ambiguous. Success is gated on 1–2 clean AI IPOs with good aftermarket performance — then sector ETFs and active money follow. Caveat: **post-Fadu**, technology-special-listing rejection rate jumped to \~31% in 2024, so the bar is higher, not lower. Winners: AI companies with **real recurring revenue, customer references, defensible data or model moats, and regulatory fit** — not brand alone.
 
 **Verdict: Importance — medium-high. Directness — low. AI-portfolio exit optionality — high.**
 
@@ -156,7 +156,7 @@ Not a direct money trigger. But it defines **the listing path for AI portfolio c
 
 Political framing (Democratic Party's continuation of the "KOSPI 5,000" committee line) rather than a policy with its own capital mechanism. Both the ruling party and the FSC publicly stepped back from "index-lifting" language in March. The real policy body is the delisting reform + pension benchmark + BDC + National Growth Fund combination.
 
-**Verdict: Importance — low. Directness — ~none. Sentiment impact — partial.**
+**Verdict: Importance — low. Directness — \~none. Sentiment impact — partial.**
 
 ### (10) Tax and micro-items worth tracking
 
@@ -188,15 +188,15 @@ Political framing (Democratic Party's continuation of the "KOSPI 5,000" committe
 
 **(i) "KRW 1,400T into KOSDAQ" is a fantasy; realistic net new = KRW 20–40T.**
 
-Simple stack: pension benchmark change KRW 11–17T + National Growth Fund KOSDAQ/regional-league slice ~KRW 1–3T + active ETF YTD cumulative ~KRW 3–5T + early BDC ~KRW 1T + retail growth fund KRW 0.6T = **~KRW 17–27T**. Adding the portion of IMA / short-term paper / IBD adventure-capital that lands on listed names: upper bound ~KRW 30–40T. That's **6–8% of KOSDAQ market cap** (~KRW 489T). Enough to re-rate. Not enough for "3,000."
+Simple stack: pension benchmark change KRW 11–17T + National Growth Fund KOSDAQ/regional-league slice \~KRW 1–3T + active ETF YTD cumulative \~KRW 3–5T + early BDC \~KRW 1T + retail growth fund KRW 0.6T = **\~KRW 17–27T**. Adding the portion of IMA / short-term paper / IBD adventure-capital that lands on listed names: upper bound \~KRW 30–40T. That's **6–8% of KOSDAQ market cap** (\~KRW 489T). Enough to re-rate. Not enough for "3,000."
 
 **(ii) Pension benchmark effect flows through leveraged ETFs first, then active funds, not direct buying.**
 
-Short-term driver is the KOSDAQ150 leveraged ETF bid. Active funds constrained by coverage — only ~111 KOSDAQ names have ≥2 sell-side targets. Implication: **portfolio companies with analyst coverage capture pension flow first**; uncovered small caps stay in the dead zone. Research-coverage building becomes an explicit post-IPO VC work item.
+Short-term driver is the KOSDAQ150 leveraged ETF bid. Active funds constrained by coverage — only \~111 KOSDAQ names have ≥2 sell-side targets. Implication: **portfolio companies with analyst coverage capture pension flow first**; uncovered small caps stay in the dead zone. Research-coverage building becomes an explicit post-IPO VC work item.
 
 **(iii) BDC's real meaning for VCs is secondary-exit optionality, not primary capital.**
 
-Early BDC portfolios will be secondary-heavy (up to ~90% secondary after safe-asset minimums), which is exactly the capability VC LPs need. Block-sale of minority stakes, partial exits before full IPO, and secondary-fund formations (KDB's KRW 2T 5-year capital-return fund aligns) become real, not theoretical. This is the **highest-leverage item for an active Korean VC**.
+Early BDC portfolios will be secondary-heavy (up to \~90% secondary after safe-asset minimums), which is exactly the capability VC LPs need. Block-sale of minority stakes, partial exits before full IPO, and secondary-fund formations (KDB's KRW 2T 5-year capital-return fund aligns) become real, not theoretical. This is the **highest-leverage item for an active Korean VC**.
 
 **(iv) Mass-delisting reform is two-sided for VC books.**
 
@@ -224,4 +224,4 @@ For a Korean VC, the correct read is **not "index rally in progress"** but **"ex
 
 ---
 
-*Research and commentary only, not investment advice. Data and policy references as of 2026-04-21 KST. Figures cited from FSC public releases, KDI Economic Information Center, KRX disclosures, and brokerage research (Yuanta, etc.).*
+*Disclaimer: For research and information purposes only. Not investment advice. Names cited are for analytical illustration; readers should perform their own due diligence and consult licensed advisors before any investment decision.*

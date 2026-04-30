@@ -96,8 +96,12 @@ Cần kiểm tra tiếp: dòng ngoại có đảo chiều trong 3–5 ngày tớ
 
 Hôm nay có ba yếu tố hội tụ: kết quả sơ bộ Q1 tốt hơn kỳ vọng, hợp đồng mới công bố trên DART, và breakout khối lượng cao (gấp 3,8 lần trung bình). Đây là mã dẫn dắt rõ nhất trong nhóm biến áp/thiết bị điện ngày hôm nay.
 
-Cần kiểm tra tiếp: vùng hỗ trợ sau breakout (~237.000 KRW) — cổ phiếu hiện ở ~266.000 KRW, cách tham chiếu khoảng 12%. Chờ nhịp điều chỉnh để xác nhận hỗ trợ trước khi kết luận. Chi tiết hợp đồng mới (quy mô, thị trường) cần xác minh từ DART.
+Cần kiểm tra tiếp: vùng hỗ trợ sau breakout (\~237.000 KRW) — cổ phiếu hiện ở \~266.000 KRW, cách tham chiếu khoảng 12%. Chờ nhịp điều chỉnh để xác nhận hỗ trợ trước khi kết luận. Chi tiết hợp đồng mới (quy mô, thị trường) cần xác minh từ DART.
 
 ---
 
 *Nội dung này được tổng hợp từ bộ lọc định lượng phục vụ mục đích nghiên cứu và không phải khuyến nghị mua/bán chứng khoán.*
+
+---
+
+*Disclaimer: For research and information purposes only. Not investment advice. Names cited are for analytical illustration; readers should perform their own due diligence and consult licensed advisors before any investment decision.*

@@ -20,11 +20,11 @@ tags: ["sk-telecom", "017670", "ai-infrastructure", "aidc", "gpuaas", "anthropic
 
 **Verdict: Wait / Buy on pullback.**
 
-SK Telecom is no longer a simple telco dividend name. After 2025 earnings and dividends were impaired by a hacking incident and one-off costs, **2026 layered five things at once:** core-business normalization, dividend recovery, AIDC growth, the Anthropic equity option, and the AI-RAN / 6G narrative. 2025 consolidated revenue was **₩17.0992T**, operating profit **₩1.0732T**, net income **₩375.1B** — down -4.7% / -41.1% / -73.0% YoY — but **AIDC revenue grew ~35%.**
+SK Telecom is no longer a simple telco dividend name. After 2025 earnings and dividends were impaired by a hacking incident and one-off costs, **2026 layered five things at once:** core-business normalization, dividend recovery, AIDC growth, the Anthropic equity option, and the AI-RAN / 6G narrative. 2025 consolidated revenue was **₩17.0992T**, operating profit **₩1.0732T**, net income **₩375.1B** — down -4.7% / -41.1% / -73.0% YoY — but **AIDC revenue grew \~35%.**
 
 Spot is **₩100,000 (April 24, 2026 close).** The dislocation off the early-/mid-March lows is largely closed; the move into ₩100,000s during April means the market has already pre-loaded part of the dividend recovery and AI equity option.
 
-So the operative question is no longer *"Is SK Telecom a good company?"* — it is whether the current **~₩21.48T market cap** is supported by enough cash flow or asset value to justify another **20–30% re-rating from here.**
+So the operative question is no longer *"Is SK Telecom a good company?"* — it is whether the current **\~₩21.48T market cap** is supported by enough cash flow or asset value to justify another **20–30% re-rating from here.**
 
 ---
 
@@ -55,7 +55,7 @@ Step 5: Telco EV/EBITDA multiple expands to upper band
 | Item | Confirmed | Investment Read |
 |---|---|---|
 | Spot | ₩100,000 (2026-04-24) | Already at 52w-high range. Chase risk real. |
-| Shares out | 214,790,053 | Market cap ~₩21.48T at spot. |
+| Shares out | 214,790,053 | Market cap \~₩21.48T at spot. |
 | 2025 results | Rev ₩17.0992T / OP ₩1.0732T / NI ₩375.1B | Lowered base from hack + one-offs. Room for 2026 normalization. |
 | 2025 DPS | ₩1,660 | Sharp drop from ₩3,540 in 2024. Dividend recovery = 1st trigger. |
 | AI Infrastructure Superhighway | AIDC / GPUaaS / Edge AI three-axis | SKT officially positions as AI infra operator. |
@@ -238,11 +238,11 @@ Cap = price × shares
 | ₩118,000 | ₩25.345T | +₩3.866T |
 | ₩130,000 | ₩27.923T | +₩6.444T |
 
-**To get from ₩100,000 to ₩118,000, ~₩3.87T of additional equity value is required.** At least 2 of the following must materialize:
+**To get from ₩100,000 to ₩118,000, \~₩3.87T of additional equity value is required.** At least 2 of the following must materialize:
 
 | Value bucket | Conservative | Bull case | Required confirmation |
 |---|---|---|---|
-| Dividend normalization | Floor support | Telco-flow rotation back | 2026 DPS ~₩3,540 |
+| Dividend normalization | Floor support | Telco-flow rotation back | 2026 DPS \~₩3,540 |
 | AIDC / GPUaaS | ₩1.0–1.6T | ₩2.5T+ | Revenue growth, margin, customer contracts |
 | Anthropic stake | ₩1.0–2.0T | ₩3.0T+ | Stake %, dilution, IPO / new round |
 | Edge AI / AI-RAN / Network API | ₩0.3–1.0T | ₩2.5T+ | Paid PoC, API billing, RAN savings |
@@ -370,4 +370,4 @@ In short, the setup is constructive but no longer early. The cleaner confirmatio
 
 ---
 
-**Disclaimer**: This post is research commentary, not investment advice. Positions, conditions, and price levels can change as new data arrives. Do your own work.
+*Disclaimer: For research and information purposes only. Not investment advice. Names cited are for analytical illustration; readers should perform their own due diligence and consult licensed advisors before any investment decision.*

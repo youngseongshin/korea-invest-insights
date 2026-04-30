@@ -80,3 +80,7 @@ Fabricant de structures métalliques et d'équipements pour centrales électriqu
 ---
 
 *Données screener au 16 avril 2026, 16h08 KST. KR Close Briefing basé sur la séance du 10 avril 2026. Ce document est fourni à titre informatif uniquement et ne constitue pas un conseil en investissement.*
+
+---
+
+*Disclaimer: For research and information purposes only. Not investment advice. Names cited are for analytical illustration; readers should perform their own due diligence and consult licensed advisors before any investment decision.*

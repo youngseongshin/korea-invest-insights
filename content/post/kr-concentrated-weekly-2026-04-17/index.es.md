@@ -77,3 +77,7 @@ El mercado coreano en la semana del 17 de abril de 2026 ofrece una narrativa cla
 El marco macro —tasas estables en Corea y EE.UU., won en zona de corrección ordenada, flujos institucionales positivos en el KOSPI 200— es constructivo, pero no exento de riesgos geopolíticos. Para inversores internacionales con acceso a valores coreanos a través de KRX o ADRs, la semana que viene marcará el primer test real de la resistencia de los beneficios del sector tecnológico coreano ante las presiones del ciclo global.
 
 *Fuentes: Banco de Corea, Reserva Federal, KRX, DART (sistema de divulgación regulatoria de Corea), informes de inversores de Samsung Electronics, Marvell Technology y Meta Platforms.*
+
+---
+
+*Disclaimer: For research and information purposes only. Not investment advice. Names cited are for analytical illustration; readers should perform their own due diligence and consult licensed advisors before any investment decision.*

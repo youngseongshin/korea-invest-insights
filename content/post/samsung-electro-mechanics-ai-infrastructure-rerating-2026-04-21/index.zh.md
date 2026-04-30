@@ -278,4 +278,4 @@ draft: false
 
 ---
 
-*本文仅为研究与评论，不构成投资建议。作者持仓可能随时变动，恕不另行通知。数据截至 2026-04-21 KST。*
+*Disclaimer: For research and information purposes only. Not investment advice. Names cited are for analytical illustration; readers should perform their own due diligence and consult licensed advisors before any investment decision.*

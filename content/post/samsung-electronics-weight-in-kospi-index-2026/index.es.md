@@ -348,4 +348,6 @@ Esa concentración no es una razón para evitar Corea. Es una razón para dimens
 - [S&P Dow Jones Indices / KRX comparison](https://www.spglobal.com/spdji/en/documents/education/education-why-does-the-sp-500-matter-to-korea.pdf): concentración del KOSPI 200 y pesos de los principales componentes a 30 de septiembre de 2025.
 - [Seoul Economic Daily](https://en.sedaily.com/news/2026/02/27/samsung-sk-market-cap-hits-18t-doubling-share-to-61-percent): informe en el que se indicaba que Samsung Electronics y SK Hynix representaban el 39,88% del KOSPI el 27 de febrero de 2026.
 
-*Aviso legal: Contenido elaborado exclusivamente con fines de investigación e información. No constituye asesoramiento de inversión. Los valores mencionados se citan a efectos de ilustración analítica; los lectores deben realizar su propio análisis y consultar con asesores autorizados antes de tomar cualquier decisión de inversión.*
+---
+
+*Disclaimer: For research and information purposes only. Not investment advice. Names cited are for analytical illustration; readers should perform their own due diligence and consult licensed advisors before any investment decision.*

@@ -62,12 +62,12 @@ La ventaja competitiva de SK hynix en HBM es simultáneamente técnica y relacio
 
 SK hynix informa de dos familias principales de productos:
 
-**DRAM (~70% de los ingresos)**
+**DRAM (\~70% de los ingresos)**
 - *DRAM convencional para servidores, PCs y móviles* — la base de alto volumen en modo commodities, que se beneficia de la disciplina de oferta del sector y la recuperación de la demanda
 - *HBM (HBM3, HBM3E, en transición a HBM4)* — el motor de crecimiento premium; el HBM reporta una prima de precio de 5–8× por bit respecto a la DRAM convencional y expande de forma desproporcionada los márgenes combinados a medida que cambia el mix de producto
 - La cuota del HBM en los ingresos totales de DRAM ha ido creciendo de forma material cada trimestre
 
-**NAND (~30% de los ingresos)**
+**NAND (\~30% de los ingresos)**
 - *NAND para cliente y consumo* — SSDs para PCs y almacenamiento móvil; más commoditizado y cíclico
 - *SSD empresarial vía Solidigm* — el subsegmento de mayor crecimiento; controles de canal recientes y nuestros monitores internos indican que los precios de eSSD han subido bruscamente, impulsados por la demanda de los centros de datos de almacenamiento NVMe de alta capacidad
 
@@ -169,4 +169,4 @@ Los inversores internacionales pueden acceder a SK hynix (000660.KS) directament
 
 ---
 
-*Este análisis es únicamente con fines informativos y no constituye asesoramiento de inversión. El rendimiento pasado no es indicativo de resultados futuros. Todos los datos financieros referenciados provienen de presentaciones públicas de la empresa, materiales de relaciones con inversores e investigaciones del sector disponibles a la fecha de publicación. Los inversores deben realizar su propia diligencia debida y consultar con un asesor financiero cualificado antes de tomar cualquier decisión de inversión.*
+*Disclaimer: For research and information purposes only. Not investment advice. Names cited are for analytical illustration; readers should perform their own due diligence and consult licensed advisors before any investment decision.*

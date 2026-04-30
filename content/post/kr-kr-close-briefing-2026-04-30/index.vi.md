@@ -84,3 +84,7 @@ Nhà đầu tư quốc tế quan tâm đến cổ phiếu Hàn Quốc nên theo 
 - **Giá dầu và tin tức Trung Đông**: Đây là biến số vĩ mô chi phối tâm lý ngắn hạn nhiều hơn bất kỳ yếu tố vi mô nào.
 
 Thị trường chứng khoán Hàn Quốc hôm nay phản ánh một tình trạng quen thuộc: dữ liệu nền tảng tốt hơn kỳ vọng, nhưng dòng vốn ngắn hạn bị chi phối bởi rủi ro địa chính trị bên ngoài. Với nhà đầu tư dài hạn, đây thường là môi trường tích lũy — không phải bán tháo.
+
+---
+
+*Disclaimer: For research and information purposes only. Not investment advice. Names cited are for analytical illustration; readers should perform their own due diligence and consult licensed advisors before any investment decision.*

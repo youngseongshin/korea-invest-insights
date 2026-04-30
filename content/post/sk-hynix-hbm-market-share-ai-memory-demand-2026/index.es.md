@@ -49,9 +49,9 @@ Existen al menos cinco versiones distintas del número:
 
 | Ángulo de la cuota | Lectura práctica para 2026 | Por qué importa |
 |---|---:|---|
-| **Mercado total HBM 2025** | **~59% SK Hynix** | Muestra la posición de liderazgo con la que entra en 2026 |
-| **Mercado total HBM 2026E** | **~50% SK Hynix** | Mejor referencia de trabajo para la cuota de ingresos HBM en términos generales |
-| **Mercado HBM4 2026E** | **~54% SK Hynix / 28% Samsung / 18% Micron** según una proyección de Counterpoint | Mejor instantánea de la transición generacional |
+| **Mercado total HBM 2025** | **\~59% SK Hynix** | Muestra la posición de liderazgo con la que entra en 2026 |
+| **Mercado total HBM 2026E** | **\~50% SK Hynix** | Mejor referencia de trabajo para la cuota de ingresos HBM en términos generales |
+| **Mercado HBM4 2026E** | **\~54% SK Hynix / 28% Samsung / 18% Micron** según una proyección de Counterpoint | Mejor instantánea de la transición generacional |
 | **Asignación de HBM4 de Nvidia** | Fuentes del sector sugieren **alrededor de dos tercios**, posiblemente cerca del **70%+** para SK Hynix | El número más importante para la cuota de beneficios a corto plazo |
 | **Cuota del fondo de beneficios** | Probablemente superior a la cuota de envíos cuando el rendimiento y la mezcla de ASP son favorables | Lo que los inversores en renta variable deben tener en cuenta en última instancia |
 
@@ -319,4 +319,6 @@ Por eso este es uno de los gráficos de IA/HBM de Corea más importantes que hay
 - [Análisis del sector HBM de TrendForce, 1T26](https://www.trendforce.com/research/download/RP260204DA3) — transición HBM3E/HBM4, dinámica de proveedores y marco de corrección del mercado.
 - [Perspectivas de mercado de SK Hynix para 2026](https://news.skhynix.com/2026-market-outlook-focus-on-the-hbm-led-memory-supercycle/) — resumen elaborado por la compañía sobre el liderazgo en HBM, referencias de UBS/Goldman y perspectivas del mercado de memoria para 2026.
 
-*Aviso legal: Contenido elaborado con fines informativos y de investigación exclusivamente. No constituye asesoramiento de inversión. Las empresas mencionadas se citan con fines analíticos ilustrativos; los lectores deben realizar su propio análisis y consultar con asesores con licencia antes de tomar cualquier decisión de inversión.*
+---
+
+*Disclaimer: For research and information purposes only. Not investment advice. Names cited are for analytical illustration; readers should perform their own due diligence and consult licensed advisors before any investment decision.*

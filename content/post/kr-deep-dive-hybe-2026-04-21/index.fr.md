@@ -166,3 +166,7 @@ BTS est signé chez Big Hit Music, l'un des plusieurs labels sous l'ombrelle HYB
 ---
 
 *Cette analyse est fournie à titre informatif uniquement et ne constitue pas un conseil en investissement. Toutes les données financières mentionnées sont basées sur des estimations de courtiers accessibles au public, des dépôts de la société et des sources d'information disponibles en date d'avril 2026. Les investisseurs sont invités à effectuer leurs propres vérifications préalables avant toute décision d'investissement. Les performances passées des actions du divertissement coréen ne garantissent pas les résultats futurs.*
+
+---
+
+*Disclaimer: For research and information purposes only. Not investment advice. Names cited are for analytical illustration; readers should perform their own due diligence and consult licensed advisors before any investment decision.*

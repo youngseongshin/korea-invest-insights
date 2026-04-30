@@ -165,4 +165,4 @@ BTSはHYBEの傘下レーベルのひとつ、Big Hit Musicと契約している
 
 ---
 
-*本分析は情報提供を目的としたものであり、投資助言を構成するものではありません。記載されたすべての財務数値は、2026年4月時点で公開されている証券会社の推計、企業の開示資料、および報道に基づいています。投資判断を行う前に、投資家ご自身で十分なデューデリジェンスを実施してください。過去の韓国エンタテインメント株のパフォーマンスは、将来の結果を保証するものではありません。*
+*Disclaimer: For research and information purposes only. Not investment advice. Names cited are for analytical illustration; readers should perform their own due diligence and consult licensed advisors before any investment decision.*

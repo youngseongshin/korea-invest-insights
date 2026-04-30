@@ -224,4 +224,4 @@ Siguiente en la pila de investigación: análisis en profundidad de nombres indi
 
 ---
 
-*Solo investigación y comentario, no asesoramiento de inversión. Universo: nuevas cotizaciones en KOSDAQ 2023-2026 hasta abril YTD. Filtro SPAC: nombres de ticker coreanos que contienen "스팩." Ventana de datos para fundamentales: 14 al 21 de abril de 2026 (feed de divulgaciones KRX). Todos los retornos se miden desde el precio de cierre de la OPV hasta el cierre del 21 de abril de 2026.*
+*Disclaimer: For research and information purposes only. Not investment advice. Names cited are for analytical illustration; readers should perform their own due diligence and consult licensed advisors before any investment decision.*

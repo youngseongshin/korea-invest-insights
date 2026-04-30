@@ -17,12 +17,12 @@ draft: false
 
 ## 1. Company Snapshot
 
-**Full name:** Pearl Abyss Corp. (펄어비스)  
-**Ticker:** 263750.KS  
-**Exchange:** KOSPI (Korea Stock Exchange)  
-**Sector:** Entertainment / Video Games / Interactive Software  
-**Headquarters:** Anyang, Gyeonggi-do, South Korea  
-**Founded:** 2010 by Kim Dae-il  
+**Full name:** Pearl Abyss Corp. (펄어비스)
+**Ticker:** 263750.KS
+**Exchange:** KOSPI (Korea Stock Exchange)
+**Sector:** Entertainment / Video Games / Interactive Software
+**Headquarters:** Anyang, Gyeonggi-do, South Korea
+**Founded:** 2010 by Kim Dae-il
 
 ### Elevator Pitch
 
@@ -55,13 +55,13 @@ Pearl Abyss's structural moat rests on three pillars:
 
 Pearl Abyss generates revenue through three primary channels:
 
-**1. Black Desert franchise (historically ~85–90% of revenue)**  
+**1. Black Desert franchise (historically \~85–90% of revenue)**
 This includes PC (*Black Desert Online*), mobile (*Black Desert Mobile*), and console (*Black Desert* on PS4/Xbox). The PC version operates on a buy-to-play + Pearl Abyss Store (cash shop) model in most Western markets and a subscription/cash shop hybrid in some Asian markets. Mobile follows a free-to-play gacha model. As of the most recently reported fiscal periods (per DART filings at dart.fss.or.kr), the Black Desert franchise — despite being over a decade old — has demonstrated surprising resilience, with continuous content updates and seasonal events sustaining engagement.
 
-**2. Crimson Desert (new in Q1 2026)**  
+**2. Crimson Desert (new in Q1 2026)**
 *Crimson Desert* launched on PC (Steam, direct) and console platforms in late March 2026. The initial revenue model is a premium buy-to-play title ($49.99–$69.99 depending on edition). Management has indicated plans for post-launch content expansion. As of April 1, 2026, the title had sold 4M+ copies across all platforms, with Steam March 2026 sales of approximately 2M copies making it the #2 best-selling Steam title globally for the month. At a blended average selling price of roughly $50 after platform cuts (30% Steam tax, console platform fees), the initial revenue event is material.
 
-**3. CCP Games / EVE Online**  
+**3. CCP Games / EVE Online**
 EVE Online remains a subscription-based MMO with a dedicated global playerbase. Revenue from this segment is relatively stable and contributes to the consolidated P&L, though it is not the primary growth driver.
 
 ### Geographic Mix
@@ -70,13 +70,13 @@ Prior to *Crimson Desert*, Pearl Abyss derived meaningful revenue from Korea, No
 
 ### Key Growth Drivers for the Next 12–24 Months
 
-**Driver 1: Crimson Desert long-tail monetization**  
+**Driver 1: Crimson Desert long-tail monetization**
 The initial box sales event (the "booster shot") is already in progress. The more important question for sustained revenue is whether Pearl Abyss can successfully layer post-launch content — expansions, a multiplayer component, or a live-service shop — on top of the single-player core. Management has signaled interest in long-tail content development. If executed, this transforms a one-time premium sale into a recurring revenue engine.
 
-**Driver 2: China market penetration**  
+**Driver 2: China market penetration**
 The Qingming Festival window demonstrated Chinese demand is real and price-inelastic at the premium tier. As Chinese PC gaming infrastructure improves and the middle class continues expanding, a $50 title with Crimson Desert's production values sits at a sweet spot. Future mobile or cloud streaming versions for China represent additional optionality.
 
-**Driver 3: Crimson Desert sequel / multiplayer expansion**  
+**Driver 3: Crimson Desert sequel / multiplayer expansion**
 The world-building Pearl Abyss has invested in for *Crimson Desert* — the lore, the engine optimizations, the art direction — creates reuse value. A multiplayer or co-op expansion, or a sequel with online components, would leverage sunk development costs and tap Pearl Abyss's live-service playbook from Black Desert.
 
 ### Margin Profile
@@ -89,7 +89,7 @@ Pearl Abyss has historically operated with meaningful operating leverage when a 
 
 ### Catalyst 1: Crimson Desert Crosses 5M+ Copies — The Franchise Is Born
 
-Pearl Abyss CEO Huh Jin-young publicly stated the company "will announce 5M copies soon" in early April 2026. In Korean corporate culture, a CEO does not make this kind of forward-looking claim without near-certainty. If the company confirms 5M copies (and beyond), it crosses a psychological threshold: *Crimson Desert* becomes a franchise-scale IP, not just a launch event. At a 5M unit run rate with a blended ~$35 net revenue per unit (post-platform fees, pre-royalties), the launch-window revenue contribution alone approaches ₩250 billion — a transformative number relative to Pearl Abyss's historical quarterly revenue base.
+Pearl Abyss CEO Huh Jin-young publicly stated the company "will announce 5M copies soon" in early April 2026. In Korean corporate culture, a CEO does not make this kind of forward-looking claim without near-certainty. If the company confirms 5M copies (and beyond), it crosses a psychological threshold: *Crimson Desert* becomes a franchise-scale IP, not just a launch event. At a 5M unit run rate with a blended \~$35 net revenue per unit (post-platform fees, pre-royalties), the launch-window revenue contribution alone approaches ₩250 billion — a transformative number relative to Pearl Abyss's historical quarterly revenue base.
 
 ### Catalyst 2: Live-Service Layer Announced for Crimson Desert
 
@@ -171,16 +171,16 @@ Revenue from Crimson Desert is largely dollar- and euro-denominated, providing a
 
 ## Frequently Asked Questions
 
-**Is Pearl Abyss a good investment in 2026?**  
+**Is Pearl Abyss a good investment in 2026?**
 Pearl Abyss is a high-conviction thesis about the longevity of *Crimson Desert* as a franchise. It is not a "safe" investment — it is a concentrated bet on a specific gaming outcome. The launch data (4M+ copies, 86% Steam rating, China turnaround) is genuinely impressive. Whether it translates to sustained earnings power depends on post-launch content execution. This analysis does not constitute a recommendation to buy or sell.
 
-**How do I buy Pearl Abyss stock (263750.KS) as a foreign investor?**  
+**How do I buy Pearl Abyss stock (263750.KS) as a foreign investor?**
 You need a broker with Korean Stock Exchange access. Major international brokers including Interactive Brokers offer Korean market access. There is no US ADR available, so direct KRX purchase is required. Ensure you understand T+2 settlement and applicable withholding tax rules for dividends (Korea withholds 15–22% on dividends for non-residents, subject to tax treaty).
 
-**What is Crimson Desert's impact on Pearl Abyss revenue?**  
+**What is Crimson Desert's impact on Pearl Abyss revenue?**
 Based on publicly reported figures (4M+ copies sold through April 1, 2026, at a standard premium pricing tier), the launch-window revenue contribution is material relative to Pearl Abyss's historical quarterly revenue base. Pearl Abyss files quarterly earnings disclosures with the DART system (dart.fss.or.kr); the Q1 2026 report will provide the first official revenue breakout for Crimson Desert.
 
-**Does Pearl Abyss pay dividends?**  
+**Does Pearl Abyss pay dividends?**
 Pearl Abyss has historically prioritized reinvestment over shareholder returns. As of the most recent available information, the company does not offer a meaningful dividend yield. Investors should confirm current dividend policy via DART filings or the company's IR page.
 
 ---
@@ -207,4 +207,4 @@ Pearl Abyss has historically prioritized reinvestment over shareholder returns. 
 
 ---
 
-*This analysis is for informational purposes only and does not constitute investment advice. All financial data referenced reflects publicly available information as of the stated dates. Past performance of any security is not indicative of future results. Investors should conduct their own due diligence and consult a licensed financial advisor before making investment decisions. Pearl Abyss Corp. (263750.KS) is a publicly listed company on the Korea Stock Exchange; all material corporate information is available via DART (dart.fss.or.kr).*
+*Disclaimer: For research and information purposes only. Not investment advice. Names cited are for analytical illustration; readers should perform their own due diligence and consult licensed advisors before any investment decision.*

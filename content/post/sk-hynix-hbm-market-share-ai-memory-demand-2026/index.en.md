@@ -8,7 +8,7 @@ tags: ["SK Hynix", "000660.KS", "HBM Market Share", "HBM", "HBM3E", "HBM4", "AI 
 series: ["Korean Semiconductor & HBM"]
 ---
 
-> 📚 See the [Samsung Electronics, SK Hynix, HBM and KOSPI investment hub](/en/page/korea-semiconductor-hbm-kospi-hub/) for the full thread across HBM market share, Samsung's KOSPI weight, Korea's re-rating thesis and AI hardware supply-chain exposure.
+> 📚 See the [Samsung Electronics, SK Hynix, HBM and KOSPI investment hub](/page/korea-semiconductor-hbm-kospi-hub/) for the full thread across HBM market share, Samsung's KOSPI weight, Korea's re-rating thesis and AI hardware supply-chain exposure.
 
 > **Short answer:** SK Hynix remains the clearest public-market exposure to AI high-bandwidth memory in 2026, but investors should not rely on one single "HBM market share" number. The practical range is roughly **50% of total HBM revenue/share in 2026E**, with a potentially much higher share of Nvidia's HBM4 ramp if current allocation reports hold.
 
@@ -51,9 +51,9 @@ There are at least five different versions of the number:
 
 | Market share lens | Practical 2026 read-through | Why it matters |
 |---|---:|---|
-| **2025 total HBM market** | **~59% SK Hynix** | Shows the installed leadership position entering 2026 |
-| **2026E total HBM market** | **~50% SK Hynix** | Best working number for broad HBM revenue share |
-| **2026E HBM4 market** | **~54% SK Hynix / 28% Samsung / 18% Micron** in one Counterpoint projection | Best generational transition snapshot |
+| **2025 total HBM market** | **\~59% SK Hynix** | Shows the installed leadership position entering 2026 |
+| **2026E total HBM market** | **\~50% SK Hynix** | Best working number for broad HBM revenue share |
+| **2026E HBM4 market** | **\~54% SK Hynix / 28% Samsung / 18% Micron** in one Counterpoint projection | Best generational transition snapshot |
 | **Nvidia HBM4 allocation** | Industry sources suggest **about two-thirds**, possibly near **70%+** for SK Hynix | Most important number for near-term profit share |
 | **Profit pool share** | Likely higher than shipment share when yield and ASP mix are favorable | What equity investors should ultimately care about |
 
@@ -320,5 +320,7 @@ That is why this is one of the most important Korea AI/HBM charts to keep updati
 - [TrendForce, July 21, 2025](https://www.trendforce.com/news/2025/07/21/news-hbm-demand-from-asics-reportedly-to-surge-80-in-2026-fueling-samsung-sk-hynix-micron-rivalry/) — ASIC-related HBM demand growth and supplier dynamics.
 - [TrendForce HBM Industry Analysis 1Q26](https://www.trendforce.com/research/download/RP260204DA3) — HBM3E/HBM4 transition, supplier dynamics and market correction framework.
 - [SK hynix 2026 Market Outlook](https://news.skhynix.com/2026-market-outlook-focus-on-the-hbm-led-memory-supercycle/) — company-curated roundup of HBM leadership, UBS/Goldman references and 2026 memory market outlook.
+
+---
 
 *Disclaimer: For research and information purposes only. Not investment advice. Names cited are for analytical illustration; readers should perform their own due diligence and consult licensed advisors before any investment decision.*

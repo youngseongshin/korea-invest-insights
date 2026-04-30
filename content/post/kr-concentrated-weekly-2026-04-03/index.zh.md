@@ -97,3 +97,7 @@ draft: false
 当前韩国市场的逻辑，不是"要不要参与"，而是"如何参与"。筛选广度收窄、外资态度观望、宏观尾部风险犹存——这些信号共同指向一个结论：主动追涨已运行的强势股，比等待更高风险。
 
 真正的机会，往往留给那些在明确信号出现之前就已做好准备的人。
+
+---
+
+*Disclaimer: For research and information purposes only. Not investment advice. Names cited are for analytical illustration; readers should perform their own due diligence and consult licensed advisors before any investment decision.*

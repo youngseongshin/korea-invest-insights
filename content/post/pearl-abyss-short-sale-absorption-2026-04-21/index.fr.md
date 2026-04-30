@@ -269,3 +269,7 @@ Synthèse la plus claire :
 ---
 
 *Recherche et commentaires uniquement, ne constitue pas un conseil en investissement. Source des données de vente à découvert : CSV de fin de séance fourni par l'utilisateur. Données de prix et de flux issues du flux de clôture KRX, 21 avril 2026 KST.*
+
+---
+
+*Disclaimer: For research and information purposes only. Not investment advice. Names cited are for analytical illustration; readers should perform their own due diligence and consult licensed advisors before any investment decision.*

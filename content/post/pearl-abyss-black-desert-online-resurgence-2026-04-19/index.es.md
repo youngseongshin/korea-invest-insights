@@ -38,7 +38,7 @@ draft: false
 - **Cinco meses consecutivos de ganancias en el promedio mensual** desde el mínimo de noviembre de 2025 (15.785)
 - **Promedio de marzo de 2026: 21.969 — nuevo máximo mensual en 3 años**, coincidiendo con el mes de lanzamiento de Crimson Desert
 - Tres hipótesis plausibles: (1) efecto de arrastre por conocimiento de la IP de Pearl Abyss (+112% de pico en Google Trends), (2) reactivación de usuarios existentes, (3) efecto halo del gasto en marketing de Crimson Desert
-- Bajo este marco, las estimaciones de ingresos de BDO para 2026E en ~KRW 315B podrían necesitar revisarse hacia **KRW 380–400B** — una brecha que la mayoría de los modelos del sell-side aún no ha cerrado
+- Bajo este marco, las estimaciones de ingresos de BDO para 2026E en \~KRW 315B podrían necesitar revisarse hacia **KRW 380–400B** — una brecha que la mayoría de los modelos del sell-side aún no ha cerrado
 
 ---
 
@@ -172,8 +172,8 @@ Esto precisa la lectura analítica: la re-estimación de ingresos de BDO para 20
 
 Los datos financieros de 2025 de Pearl Abyss cerraron con **ingresos de KRW 365,6B** y una pérdida operativa de **-KRW 14,8B**. Desglosando los ingresos por título bajo supuestos estándar del sector:
 
-- **BDO**: ~KRW 315B (margen operativo estimado ~38%)
-- **EVE Online**: ~KRW 75B (margen operativo estimado ~40%, incluyendo la expansión Catalyst)
+- **BDO**: \~KRW 315B (margen operativo estimado \~38%)
+- **EVE Online**: \~KRW 75B (margen operativo estimado \~40%, incluyendo la expansión Catalyst)
 
 Si el CCU mensual de BDO en Steam está registrando +40% interanual, el marco de consenso existente — que típicamente asume **ingresos de BDO planos o ligeramente a la baja** a medida que el título madura — se vuelve internamente inconsistente con los datos observados. Bajo este marco, emergen los siguientes escenarios:
 
@@ -199,7 +199,7 @@ Con la confirmación del ranking de ventas regional superpuesta a los datos de C
 
 ### Recalibración del Valor Razonable
 
-Aplicando el PER medio del sector de videojuegos coreano de ~12x:
+Aplicando el PER medio del sector de videojuegos coreano de \~12x:
 
 - **Valor razonable anterior**: KRW 4.310 × 12 = **KRW 51.720**
 - **Valor razonable ajustado a datos**: KRW 4.891 × 12 = **KRW 58.690**
@@ -297,3 +297,7 @@ Notas sobre las decisiones de localización:
 - **Tickers y cifras financieras** (263750.KQ, KRW, Steam appid) — intactos
 - **"TL;DR"** — conservado tal cual, es de uso generalizado en internet en español
 - **Series field** — sin cambios (`pearl-abyss-crimson-desert-thesis`)
+
+---
+
+*Disclaimer: For research and information purposes only. Not investment advice. Names cited are for analytical illustration; readers should perform their own due diligence and consult licensed advisors before any investment decision.*

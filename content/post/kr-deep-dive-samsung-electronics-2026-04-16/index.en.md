@@ -27,7 +27,7 @@ This is not a routine update. This is the full picture.
 | **Exchange** | KOSPI (Korea Exchange) |
 | **Sector** | Information Technology / Semiconductors & Semiconductor Equipment |
 | **Close Price (2026-04-16)** | KRW 217,500 |
-| **Foreign Ownership** | ~51% (among the highest on KOSPI) |
+| **Foreign Ownership** | \~51% (among the highest on KOSPI) |
 | **Key Products** | DRAM, NAND Flash, HBM, Galaxy smartphones, OLED displays, home appliances, foundry (advanced logic) |
 
 **Elevator pitch:** Samsung Electronics is simultaneously the world's largest memory chip maker, the world's second-largest smartphone vendor, and one of the most ambitious foundry challengers to TSMC. It sits at the intersection of three defining technology trends of this decade: the AI infrastructure buildout (HBM, advanced DRAM), the global smartphone supercycle (Galaxy S and Z series), and the sovereign semiconductor diversification movement driving billions in government subsidy toward non-Taiwan advanced logic capacity. No single company outside the United States encapsulates more structural technology tailwinds in one ticker.
@@ -40,7 +40,7 @@ This is not a routine update. This is the full picture.
 
 The AI buildout is, at its core, a memory story. Every large language model training run—every Nvidia Blackwell or Hopper GPU in a hyperscaler rack—requires High-Bandwidth Memory stacked directly on top of it. Samsung is one of only three companies in the world capable of producing HBM at scale: itself, SK Hynix, and Micron. It is the only one of those three with a fully integrated chip-to-system supply chain—memory, logic chips, display panels, IoT silicon, and connected audio systems (via Harman)—all under one corporate roof.
 
-For global investors, Samsung Electronics offers one of the most liquid expressions of AI infrastructure demand available outside of US-listed equities. Its ~51% foreign ownership ratio and inclusion in MSCI Emerging Markets and FTSE EM indices means it already appears in most institutional portfolios by default. The question is whether you have conviction about the position—or are simply along for the index ride.
+For global investors, Samsung Electronics offers one of the most liquid expressions of AI infrastructure demand available outside of US-listed equities. Its \~51% foreign ownership ratio and inclusion in MSCI Emerging Markets and FTSE EM indices means it already appears in most institutional portfolios by default. The question is whether you have conviction about the position—or are simply along for the index ride.
 
 ### The Global Trends Samsung Rides
 
@@ -57,11 +57,11 @@ The imperative to build advanced logic capacity outside Taiwan has made Samsung 
 
 | Metric | Samsung | SK Hynix | Micron |
 |---|---|---|---|
-| DRAM Global Share | ~40% | ~30% | ~25% |
+| DRAM Global Share | \~40% | \~30% | \~25% |
 | HBM Leadership (current cycle) | Challenger | Market leader | Late entrant |
-| NAND Global Share | ~30% | ~20% (via Solidigm) | ~15% |
-| Foundry Market Share | ~10–12% | N/A | N/A |
-| Smartphone Global Share | ~20% | N/A | N/A |
+| NAND Global Share | \~30% | \~20% (via Solidigm) | \~15% |
+| Foundry Market Share | \~10–12% | N/A | N/A |
+| Smartphone Global Share | \~20% | N/A | N/A |
 
 The honest assessment: Samsung's competitive moat is breadth and integration. Its weakness in the current AI cycle is that SK Hynix achieved HBM3E qualification and volume ramp at Nvidia *ahead* of Samsung, creating a market-perceived quality gap. That gap—and whether Samsung closes it with HBM4—is the central thesis debate in 2026.
 
@@ -113,7 +113,7 @@ Samsung Foundry is currently valued as a subscale challenger. A credible yield i
 Samsung's HBM3E qualification lag versus SK Hynix was not a minor execution slip—it was a fundamental yield and packaging challenge. If similar issues recur in HBM4 development, Samsung risks ceding the most profitable segment of memory to SK Hynix for another product generation. This is the single most-cited risk in our internal analysis across all journal entries from March through April 2026.
 
 **Risk 2: Foreign Investor Selling Pressure and Won Weakness**
-With ~51% foreign ownership, Samsung is acutely sensitive to EM fund flows. Our internal journal flagged "accumulated foreign net selling" and "exchange rate shock" as meaningful near-term risks as recently as March 2026. The Korean won's trajectory against the dollar—with USDKRW at elevated levels—creates a headwind for foreign investors calculating returns in hard currency. A sustained period of KRW weakness effectively taxes the dollar-return investor.
+With \~51% foreign ownership, Samsung is acutely sensitive to EM fund flows. Our internal journal flagged "accumulated foreign net selling" and "exchange rate shock" as meaningful near-term risks as recently as March 2026. The Korean won's trajectory against the dollar—with USDKRW at elevated levels—creates a headwind for foreign investors calculating returns in hard currency. A sustained period of KRW weakness effectively taxes the dollar-return investor.
 
 **Risk 3: Memory Cycle Peak and Foundry Cash Burn**
 Memory is inherently cyclical. The current upcycle is already well-telegraphed and, to some degree, priced in. If supply additions (Samsung's own capex, potential Micron ramp, Chinese memory capacity) outpace demand growth, ASP expansion stalls. Simultaneously, Samsung Foundry's capital intensity—constructing advanced fabs is among the most expensive industrial undertakings on earth—represents a persistent cash burn that depresses free cash flow even in strong memory years. The capital allocation tension between foundry ambition and shareholder returns is unresolved.
@@ -180,4 +180,6 @@ For global investors, this is a company that deserves direct analysis—not just
 
 *Data sources: Samsung Electronics IR (www.samsung.com/global/ir/), DART (dart.fss.or.kr), Korea Exchange (KRX), and internal analysis pipeline as of April 2026. Price data as of 2026-04-16 close.*
 
-*This analysis is for informational purposes only and does not constitute investment advice. Past performance is not indicative of future results. All investments carry risk, including the potential loss of principal.*
+---
+
+*Disclaimer: For research and information purposes only. Not investment advice. Names cited are for analytical illustration; readers should perform their own due diligence and consult licensed advisors before any investment decision.*

@@ -296,4 +296,4 @@ Atinum的折价在整个板块中拥有最清晰的催化剂路径（LP基金募
 
 ---
 
-**免责声明**：本文为研究性评论，不构成投资建议。所引用数据基于公开报道的水平（年报、价值提升计划披露、投资者关系文件、卖方及行业媒体），后续事件可能已使相关数据发生变化。标的代码及机构名称仅为说明重新定价框架所用，不构成投资推荐。在做出任何决策前，请自行进行尽职调查并咨询持牌投资顾问。
+*Disclaimer: For research and information purposes only. Not investment advice. Names cited are for analytical illustration; readers should perform their own due diligence and consult licensed advisors before any investment decision.*

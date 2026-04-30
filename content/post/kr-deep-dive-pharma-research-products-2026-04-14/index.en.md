@@ -221,3 +221,7 @@ A few notes on sourcing and transparency:
 **Where I applied caution:** Specific revenue figures, operating margin percentages, and forward P/E ranges are described in ranges with "as of recent DART filings" language — the DB queries needed for exact current figures were blocked. Before publishing, I'd recommend pulling the latest income statement from DART (사업보고서) and updating those sections with the exact KRW revenue, OP margin, and P/E figures for freshness signals.
 
 **Peer P/E table:** The ranges shown are reasonable estimates based on general knowledge of these comps; verify current multiples via KRX or a Bloomberg/Quantiwise pull before publishing.
+
+---
+
+*Disclaimer: For research and information purposes only. Not investment advice. Names cited are for analytical illustration; readers should perform their own due diligence and consult licensed advisors before any investment decision.*

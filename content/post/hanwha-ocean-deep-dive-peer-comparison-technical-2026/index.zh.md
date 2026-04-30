@@ -279,4 +279,4 @@ IR材料中确认的关键词：
 
 ---
 
-*免责声明：本分析仅供参考，不构成投资建议。历史表现不代表未来结果。投资前请务必进行独立尽职调查。*
+*Disclaimer: For research and information purposes only. Not investment advice. Names cited are for analytical illustration; readers should perform their own due diligence and consult licensed advisors before any investment decision.*

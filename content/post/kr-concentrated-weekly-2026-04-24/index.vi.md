@@ -93,3 +93,7 @@ Hyundai E&C — đơn vị xây dựng hàng đầu Hàn Quốc với danh mục
 Ngày 24/4/2026, thị trường Hàn Quốc mang đến một kịch bản đặc thù: **KOSPI tăng nhưng nội lực không đồng đều.** Nhóm bán dẫn AI dẫn đầu với SK Hynix là tên tuổi đáng chú ý nhất, trong khi nhóm viễn thông và game đang phát đi tín hiệu suy yếu dòng tiền.
 
 Đối với nhà đầu tư quốc tế tiếp cận thị trường Hàn Quốc, bài học ngày hôm nay là: **chế độ tăng trưởng thị trường chỉ mở cửa cơ hội — nó không thay thế cho xác nhận dòng tiền và kỷ luật điểm vào.** Theo dõi dữ liệu giao dịch nước ngoài trên KRX, công bố DART, và báo cáo xuất khẩu chip hàng tháng của MOTIE sẽ là ba nguồn thông tin quan trọng nhất trong tuần tới.
+
+---
+
+*Disclaimer: For research and information purposes only. Not investment advice. Names cited are for analytical illustration; readers should perform their own due diligence and consult licensed advisors before any investment decision.*

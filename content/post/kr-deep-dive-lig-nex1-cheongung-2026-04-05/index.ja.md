@@ -158,4 +158,6 @@ LIG Nex1は単独で動いているわけではない。韓華エアロスペー
 
 ## 免責事項
 
-*本記事は情報提供および教育目的のみを意図して作成されており、投資助言、有価証券の売買勧誘、または特定の有価証券の推奨を構成するものではありません。すべてのデータは公開されている会社開示情報、業界レポート、および掲載時点のニュースソースを基にしています。過去の株価パフォーマンスは将来の結果を示すものではありません。投資判断を行う前に、投資家自身によるデューデリジェンスと、資格を持つファイナンシャルアドバイザーへの相談を強くお勧めします。著者および発行者は、掲載時点において本記事で言及されたいかなる有価証券もポジションを保有していません。*
+---
+
+*Disclaimer: For research and information purposes only. Not investment advice. Names cited are for analytical illustration; readers should perform their own due diligence and consult licensed advisors before any investment decision.*

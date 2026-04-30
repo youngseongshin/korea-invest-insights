@@ -87,3 +87,7 @@ Pour les investisseurs internationaux, le message est clair : **les opportunité
 La vraie inflexion du marché coréen ne se confirmera que lorsque Samsung Electronics reprendra son rôle de locomotive — et non de frein — à la prochaine session.
 
 *Les données de flux (achats/ventes nets d'investisseurs étrangers et institutionnels) sont issues de Korea Exchange (KRX) et correspondent au 8 avril 2026. Les données de prix sont au 9 avril 2026.*
+
+---
+
+*Disclaimer: For research and information purposes only. Not investment advice. Names cited are for analytical illustration; readers should perform their own due diligence and consult licensed advisors before any investment decision.*

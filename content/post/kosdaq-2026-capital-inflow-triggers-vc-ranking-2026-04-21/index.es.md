@@ -71,7 +71,7 @@ Esta distinción es el núcleo de todo el análisis. La mayor parte del paquete 
 | 2026.04 | Comienza la selección de GPs de subfondos del Fondo Nacional de Crecimiento (ligas KOSDAQ y regionales) | 7,45 billones KRW indirecto |
 | 2026.06–07 | Lanzamiento del Fondo de Crecimiento con Participación Minorista (previsto) | 600.000M KRW (+ 120.000M KRW subordinado) |
 | 2026.S2 | Aceleración del despliegue del Fondo Nacional de Crecimiento | — |
-| 2029 | Umbral de capitalización para expulsión alcanza los 30.000M KRW (etapa final) | ~165 empresas (~9,5%) en riesgo |
+| 2029 | Umbral de capitalización para expulsión alcanza los 30.000M KRW (etapa final) | \~165 empresas (\~9,5%) en riesgo |
 
 ---
 
@@ -87,7 +87,7 @@ Por qué este es el elemento nº 1: Corea ha carecido hasta ahora de un vehícul
 2. **Acceso minorista a activos de crecimiento** que no eran accesibles a través de fondos de VC de capital ciego.
 3. **Una clase de activos de crecimiento cotizada** que re-valora toda la cadena pre-IPO si tiene buena acogida.
 
-Advertencia clave: los primeros mandatos BDC probablemente operarán como **carteras de peso predominante en secundario** (hasta ~90% en secundario tras los mínimos en activos seguros), que es precisamente lo que los LPs de VC necesitan para liquidez. Las casas de valores quedan excluidas de la licencia inicial por conflictos de interés, por lo que las gestoras de activos y los VCs son los ganadores.
+Advertencia clave: los primeros mandatos BDC probablemente operarán como **carteras de peso predominante en secundario** (hasta \~90% en secundario tras los mínimos en activos seguros), que es precisamente lo que los LPs de VC necesitan para liquidez. Las casas de valores quedan excluidas de la licencia inicial por conflictos de interés, por lo que las gestoras de activos y los VCs son los ganadores.
 
 **Veredicto: Importancia estructural — máxima. Directividad — media-alta. Impacto a largo plazo — máximo.**
 
@@ -97,7 +97,7 @@ La directriz de evaluación operativa de fondos públicos para el ejercicio 2026
 
 Estimación de Yuanta para el flujo efectivo: **16,5 billones KRW**, u 11 billones si los fondos vinculados a finanzas se retrasan en los cambios operativos. Ese es el orden de magnitud correcto.
 
-El efecto: el KOSDAQ pasa de ser "opcional" a convertirse en "error de tracking si se ignora" para el conjunto de pensiones relevante. La compra el primer día es limitada: la 1ª ola son **flujos de ETFs apalancados sobre KOSDAQ150**, la 2ª son inclusiones en fondos activos donde existe cobertura de analistas. Dado que solo ~111 valores de KOSDAQ cuentan con ≥2 objetivos de casas de análisis vendedoras, **las empresas en cartera con cobertura sell-side capturan primero los flujos de pensiones**.
+El efecto: el KOSDAQ pasa de ser "opcional" a convertirse en "error de tracking si se ignora" para el conjunto de pensiones relevante. La compra el primer día es limitada: la 1ª ola son **flujos de ETFs apalancados sobre KOSDAQ150**, la 2ª son inclusiones en fondos activos donde existe cobertura de analistas. Dado que solo \~111 valores de KOSDAQ cuentan con ≥2 objetivos de casas de análisis vendedoras, **las empresas en cartera con cobertura sell-side capturan primero los flujos de pensiones**.
 
 **Veredicto: Importancia — alta. Directividad — media. Durabilidad — máxima.**
 
@@ -111,7 +111,7 @@ Este dinero no entra directamente en el KOSDAQ. La ruta es: **apoyo a la valorac
 
 ### (4) ETFs activos de KOSDAQ — la sensación de liquidez post-cotización más rápida
 
-Tres ETFs activos de primer nivel cotizaron el 10 de marzo (Samsung, Time, Hanwha). Entrada combinada el primer día ~1,07 billones KRW. Datos posteriores: el AUM total de ETFs activos cruzó los 100 billones KRW en abril (desde ~91 billones KRW a cierre de 2025). Aproximadamente 1 billón KRW fluyó específicamente al KoAct KOSDAQ Active en lo que va de año.
+Tres ETFs activos de primer nivel cotizaron el 10 de marzo (Samsung, Time, Hanwha). Entrada combinada el primer día \~1,07 billones KRW. Datos posteriores: el AUM total de ETFs activos cruzó los 100 billones KRW en abril (desde \~91 billones KRW a cierre de 2025). Aproximadamente 1 billón KRW fluyó específicamente al KoAct KOSDAQ Active en lo que va de año.
 
 Por qué importa para los VCs: los ETFs activos concentran flujos en **valores de crecimiento recién cotizados con flotación limitada**, que históricamente dominan el mercado secundario inicial. Esto es **apoyo real al aftermarket**. El reverso de la moneda: el dinero de ETFs activos es rápido y concentrado, por lo que es un proveedor de liquidez *y* un amplificador de volatilidad. No lo modeles como un ancla múltiple a largo plazo.
 
@@ -127,7 +127,7 @@ No es una fuente directa de LP para VCs. El efecto significativo es **crear dema
 
 ### (6) Reforma de expulsiones masivas — el reductor de la tasa de descuento
 
-La capitalización mínima para no ser expulsado sube escalonadamente: 4.000M KRW (2025) → 15.000M KRW (2026) → 20.000M KRW (2027) → 30.000M KRW (2028–29). Los umbrales de ingresos suben en paralelo. Simulación de KRX: ~230 empresas podrían quedar por debajo del umbral reforzado en 2029.
+La capitalización mínima para no ser expulsado sube escalonadamente: 4.000M KRW (2025) → 15.000M KRW (2026) → 20.000M KRW (2027) → 30.000M KRW (2028–29). Los umbrales de ingresos suben en paralelo. Simulación de KRX: \~230 empresas podrían quedar por debajo del umbral reforzado en 2029.
 
 No es una entrada de capital, pero es posiblemente el cambio de entorno con mayor palanca. El descuento del KOSDAQ siempre ha tenido un componente de "sobrepeso de zombis". La expulsión masiva **mejora la calidad media del índice → comprime el descuento → normaliza los múltiplos de los nuevos emisores de calidad**. A corto plazo eleva la prima de riesgo de las pequeñas capitalizaciones, por lo que no es un viento de cola universal — es un catalizador de **selección por calidad**.
 
@@ -147,7 +147,7 @@ Este dinero va a **pre-IPO, financiación estructurada, ECM, operaciones de bloq
 
 La FSC añadió IA, aeroespacial y energía a la categoría de listado especial tecnológico personalizado (anteriormente exclusiva de biotecnología), con categorías adicionales en revisión para 2026 (robótica avanzada, K-content, ciberseguridad). No se trata de una relajación — es una **refinación cualitativa de los estándares específicos por sector**.
 
-No es un detonante directo de capital. Pero define **la ruta de cotización para las empresas de IA en cartera**, que hasta ahora era ambigua. El éxito está condicionado a 1–2 IPOs de IA limpias con buen desempeño en el aftermarket — entonces los ETFs sectoriales y el dinero activo seguirán. Advertencia: **tras el caso Fadu**, la tasa de rechazo del listado especial tecnológico saltó al ~31% en 2024, por lo que el listón es más alto, no más bajo. Los ganadores: empresas de IA con **ingresos recurrentes reales, referencias de clientes, ventajas defensibles en datos o modelos, y adecuación regulatoria** — no solo notoriedad de marca.
+No es un detonante directo de capital. Pero define **la ruta de cotización para las empresas de IA en cartera**, que hasta ahora era ambigua. El éxito está condicionado a 1–2 IPOs de IA limpias con buen desempeño en el aftermarket — entonces los ETFs sectoriales y el dinero activo seguirán. Advertencia: **tras el caso Fadu**, la tasa de rechazo del listado especial tecnológico saltó al \~31% en 2024, por lo que el listón es más alto, no más bajo. Los ganadores: empresas de IA con **ingresos recurrentes reales, referencias de clientes, ventajas defensibles en datos o modelos, y adecuación regulatoria** — no solo notoriedad de marca.
 
 **Veredicto: Importancia — media-alta. Directividad — baja. Opcionalidad de salida para carteras de IA — alta.**
 
@@ -155,7 +155,7 @@ No es un detonante directo de capital. Pero define **la ruta de cotización para
 
 Encuadre político (continuación de la línea del comité "KOSPI 5.000" del Partido Democrático) más que una política con mecanismo de capital propio. Tanto el partido gobernante como la FSC se desmarcaron públicamente del lenguaje de "subir el índice" en marzo. El verdadero cuerpo político es la combinación de reforma de expulsiones + benchmark de pensiones + BDC + Fondo Nacional de Crecimiento.
 
-**Veredicto: Importancia — baja. Directividad — ~ninguna. Impacto en el sentimiento — parcial.**
+**Veredicto: Importancia — baja. Directividad — \~ninguna. Impacto en el sentimiento — parcial.**
 
 ### (10) Medidas fiscales y microelementos a seguir
 
@@ -187,15 +187,15 @@ Encuadre político (continuación de la línea del comité "KOSPI 5.000" del Par
 
 **(i) "1.400 billones KRW al KOSDAQ" es una fantasía; la entrada neta nueva realista = 20–40 billones KRW.**
 
-Cálculo simple: cambio de benchmark de pensiones 11–17 billones KRW + porción KOSDAQ/liga regional del Fondo Nacional de Crecimiento ~1–3 billones KRW + ETF activo acumulado en el año ~3–5 billones KRW + primeros BDC ~1 billón KRW + fondo de crecimiento minorista 0,6 billones KRW = **~17–27 billones KRW**. Añadiendo la porción de IMA / papel a corto plazo / capital riesgo IBD que aterriza en valores cotizados: límite superior ~30–40 billones KRW. Eso es **6–8% de la capitalización bursátil del KOSDAQ** (~489 billones KRW). Suficiente para re-valorar. Insuficiente para "3.000."
+Cálculo simple: cambio de benchmark de pensiones 11–17 billones KRW + porción KOSDAQ/liga regional del Fondo Nacional de Crecimiento \~1–3 billones KRW + ETF activo acumulado en el año \~3–5 billones KRW + primeros BDC \~1 billón KRW + fondo de crecimiento minorista 0,6 billones KRW = **\~17–27 billones KRW**. Añadiendo la porción de IMA / papel a corto plazo / capital riesgo IBD que aterriza en valores cotizados: límite superior \~30–40 billones KRW. Eso es **6–8% de la capitalización bursátil del KOSDAQ** (\~489 billones KRW). Suficiente para re-valorar. Insuficiente para "3.000."
 
 **(ii) El efecto del benchmark de pensiones fluye primero a través de ETFs apalancados, luego a fondos activos, no en compra directa.**
 
-El impulsor a corto plazo es la demanda del ETF apalancado sobre KOSDAQ150. Los fondos activos están limitados por la cobertura — solo ~111 valores de KOSDAQ tienen ≥2 objetivos sell-side. Implicación: **las empresas en cartera con cobertura de analistas capturan primero el flujo de pensiones**; las pequeñas caps sin cobertura permanecen en el punto muerto. Construir cobertura de análisis se convierte en una tarea explícita del VC tras la salida a bolsa.
+El impulsor a corto plazo es la demanda del ETF apalancado sobre KOSDAQ150. Los fondos activos están limitados por la cobertura — solo \~111 valores de KOSDAQ tienen ≥2 objetivos sell-side. Implicación: **las empresas en cartera con cobertura de analistas capturan primero el flujo de pensiones**; las pequeñas caps sin cobertura permanecen en el punto muerto. Construir cobertura de análisis se convierte en una tarea explícita del VC tras la salida a bolsa.
 
 **(iii) El significado real del BDC para los VCs es la opcionalidad de salida secundaria, no el capital primario.**
 
-Las primeras carteras BDC serán de peso predominante en secundario (hasta ~90% en secundario tras los mínimos en activos seguros), que es exactamente la capacidad que los LPs de VC necesitan. Las ventas en bloque de participaciones minoritarias, las salidas parciales antes de la IPO completa y la formación de fondos secundarios (el fondo de retorno de capital de 2 billones KRW a 5 años de KDB se alinea con esto) se vuelven reales, no teóricas. Este es el **elemento de mayor palanca para un VC coreano activo**.
+Las primeras carteras BDC serán de peso predominante en secundario (hasta \~90% en secundario tras los mínimos en activos seguros), que es exactamente la capacidad que los LPs de VC necesitan. Las ventas en bloque de participaciones minoritarias, las salidas parciales antes de la IPO completa y la formación de fondos secundarios (el fondo de retorno de capital de 2 billones KRW a 5 años de KDB se alinea con esto) se vuelven reales, no teóricas. Este es el **elemento de mayor palanca para un VC coreano activo**.
 
 **(iv) La reforma de expulsiones masivas tiene dos caras para las carteras de VC.**
 
@@ -223,4 +223,4 @@ Para un VC coreano, la lectura correcta no es **"rally de índice en curso"** si
 
 ---
 
-*Solo investigación y análisis, no asesoramiento de inversión. Datos y referencias de política a fecha de 2026-04-21 KST. Cifras citadas de comunicados públicos de la FSC, Centro de Información Económica del KDI, publicaciones de KRX e investigación de casas de análisis (Yuanta, entre otras).*
+*Disclaimer: For research and information purposes only. Not investment advice. Names cited are for analytical illustration; readers should perform their own due diligence and consult licensed advisors before any investment decision.*

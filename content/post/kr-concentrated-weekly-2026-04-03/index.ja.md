@@ -88,3 +88,7 @@ draft: false
 今週の韓国市場が投資家に示した教訓は明快だ。「すでに動いた銘柄を追いかけることがリスクになる局面がある」ということだ。パールアビスやサムスン電機のように上昇している銘柄への追加買いより、LGイノテックやNH投資証券のように「条件が揃えば入れる」候補を整備しておくことが、リスクオフ局面での合理的なスタンスといえる。
 
 韓国市場は現在、マクロのノイズと個別の強さが混在する難しい局面にある。しかし選別の精度を上げることで、こうした環境こそが次のアウトパフォームの種になる。スクリーニング通過銘柄数の推移と外国人フローの方向性を引き続き注視したい。
+
+---
+
+*Disclaimer: For research and information purposes only. Not investment advice. Names cited are for analytical illustration; readers should perform their own due diligence and consult licensed advisors before any investment decision.*

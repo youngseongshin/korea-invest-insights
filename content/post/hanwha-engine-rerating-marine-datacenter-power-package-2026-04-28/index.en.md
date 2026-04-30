@@ -10,7 +10,7 @@ tags: ["hanwha-engine", "082740", "hanwha-group", "shipbuilding", "marine-engine
 ## TL;DR
 
 - **Hanwha Engine is a stock where three re-rating layers have stacked on top of each other.** Layer 1: a high-margin marine-engine earnings cycle that is already showing up in print. Layer 2: a 4-stroke gas-engine option for US data-center power, following live contracts at Wärtsilä and HD Hyundai Heavy. Layer 3: a Hanwha Group US power package via Hanwha Energy USA, Hanwha Data Centers, and Hanwha Gas Power Solutions.
-- **The marine cycle alone supports a meaningful EPS step-up through 2026–2028E.** OPM trajectory: 2025 ~9.5% → 2026E ~17.5% → 2027E ~21.4% → 2028E ~22.7% (Meritz estimates). Backlog ~₩4.14T at 2025-end with DF-engine mix at 86%.
+- **The marine cycle alone supports a meaningful EPS step-up through 2026–2028E.** OPM trajectory: 2025 \~9.5% → 2026E \~17.5% → 2027E \~21.4% → 2028E \~22.7% (Meritz estimates). Backlog \~₩4.14T at 2025-end with DF-engine mix at 86%.
 - **The data-center optionality is the single largest source of incremental TAM.** Wärtsilä (412 MW Ohio + 790 MW Texas) and HD Hyundai Heavy (684 MW / ₩627.1B with US AEG) have already validated that gas-engine companies can win hyperscale-DC primary or bridge power, not just backup.
 - **The strongest version of the thesis is the captive-supplier path.** If Hanwha Engine becomes an internal 4-stroke gas-engine supplier inside Hanwha Energy USA / Hanwha Data Centers / Hanwha Gas Power Solutions, the company gets reclassified — from "shipbuilding equipment" to "AI-power-bottleneck dispatchable-power-equipment node." Whether that captive path materializes is the binary variable that separates a "good earnings cycle" stock from a "platform re-rating" stock.
 
@@ -39,9 +39,9 @@ Each successive layer changes both the scale of TAM and the *type* of multiple t
 | Period | Revenue | OP | OPM |
 |---|---:|---:|---:|
 | **1Q26** | ₩345.2B | ₩51.4B | **14.9%** |
-| **2026E** | ₩1,560B | ₩273.8B | ~17.5% |
-| **2027E** | ₩1,900B | ₩406.9B | ~21.4% |
-| **2028E** | ₩2,530B | ₩573.8B | ~22.7% |
+| **2026E** | ₩1,560B | ₩273.8B | \~17.5% |
+| **2027E** | ₩1,900B | ₩406.9B | \~21.4% |
+| **2028E** | ₩2,530B | ₩573.8B | \~22.7% |
 
 EPS path (Meritz estimates):
 
@@ -88,7 +88,7 @@ What this triad establishes:
 
 1. **Hyperscale data centers will purchase gas-engine power solutions in MW-to-GW units**, not just kW-class backup gensets.
 2. **Korean engine OEMs are credible counterparties** in this market — HD Hyundai Heavy's AEG win is the proof point.
-3. **Pricing benchmark exists**: HD Hyundai Heavy's contract implies **~₩0.917B per MW** at the system level.
+3. **Pricing benchmark exists**: HD Hyundai Heavy's contract implies **\~₩0.917B per MW** at the system level.
 
 ### 3-2. Where Hanwha Engine sits
 
@@ -100,10 +100,10 @@ What this triad establishes:
 
 | Factor | View | Read |
 |---|---|---|
-| **P (price)** | HD Hyundai Heavy benchmark ₩0.917B/MW; Hanwha Engine likely steps in below benchmark for early-reference deals — illustrative ASP gating ~70% of benchmark = **~₩0.642B/MW** | Acceptable for share-taking; thin if chronic |
+| **P (price)** | HD Hyundai Heavy benchmark ₩0.917B/MW; Hanwha Engine likely steps in below benchmark for early-reference deals — illustrative ASP gating \~70% of benchmark = **\~₩0.642B/MW** | Acceptable for share-taking; thin if chronic |
 | **Q (volume)** | DC-power packages typically clear in **100 MW – 1 GW** lots; pipeline depends on Hanwha Engine winning specific projects | High-variance; binary on first reference |
 | **C (cost)** | Licensing royalty, early-promotion pricing, US-side O&M build-out, certification, reliability ramp | Margin-compressing in early phase |
-| **Margin** | Engine-only sale OPM plausibly ~8–12%; package + O&M layered above can lift the blended | Re-rating-relevant range |
+| **Margin** | Engine-only sale OPM plausibly \~8–12%; package + O&M layered above can lift the blended | Re-rating-relevant range |
 | **Recurrence** | Captive supply via Hanwha Group US power assets would convert one-shot project economics into recurring O&M and parts/service | The actual quality variable |
 
 ---
@@ -148,7 +148,7 @@ Adj. P/E       = ₩80,400 / ₩4,117    = 19.5×
 **Interpretation note (analytical, not directional advice)**
 
 - A single 300 MW contract under base assumptions lifts EPS by roughly +5%. That is a real but **bounded** earnings event.
-- A 684 MW contract, at the HD HHI scale, lifts EPS by ~+12% — closer to a multiple-relevant magnitude.
+- A 684 MW contract, at the HD HHI scale, lifts EPS by \~+12% — closer to a multiple-relevant magnitude.
 - A cumulative 1 GW path or a contract that **embeds O&M / recurring services** changes the qualitative read, because it converts engine economics to a higher-multiple revenue type.
 
 ---
@@ -250,10 +250,10 @@ The table below maps **observable conditions** to **multiple-and-narrative regim
 
 | Stage | Observable condition | Narrative regime |
 |---|---|---|
-| **Stage 0** | Marine OPM 15–20% confirmed in run-rate | Industrials cycle multiple, ~18–21× 2027E EPS |
+| **Stage 0** | Marine OPM 15–20% confirmed in run-rate | Industrials cycle multiple, \~18–21× 2027E EPS |
 | **Stage 1** | ≤100 MW pilot DC engine order | Optionality acknowledged; small EPS lift; narrative validation |
-| **Stage 2** | ≥300 MW DC engine order | EPS impact ~+5%; multiple expansion partial |
-| **Stage 3** | 684 MW-class DC order | EPS impact ~+12%; multiple expansion meaningful |
+| **Stage 2** | ≥300 MW DC engine order | EPS impact \~+5%; multiple expansion partial |
+| **Stage 3** | 684 MW-class DC order | EPS impact \~+12%; multiple expansion meaningful |
 | **Stage 4** | Cumulative 1 GW + attached O&M | EPS +15–20% with recurrence; multiple regime shift candidate |
 | **Stage 5** | Disclosed captive supplier in Hanwha Energy USA / Hanwha Data Centers | Reclassification from shipbuilding-equipment to AI-power-infra node |
 
@@ -302,7 +302,7 @@ The data through 2026-04-28 says Layer 1 is real, Layer 2 is a directional optio
 ### [Fact]
 
 - 1Q26 results: revenue ₩345.2B, OP ₩51.4B, OPM 14.9%.
-- Meritz estimate framework: 2026E revenue ~₩1.56T / OP ₩273.8B / OPM ~17.5%; 2027E OP ₩406.9B; 2028E OP ₩573.8B.
+- Meritz estimate framework: 2026E revenue \~₩1.56T / OP ₩273.8B / OPM \~17.5%; 2027E OP ₩406.9B; 2028E OP ₩573.8B.
 - 2025-end marine engine backlog ≈ ₩4.14T; DF-engine mix 86%.
 - Wärtsilä disclosed a 412 MW US data-center primary-power project (Ohio reference) and a 790 MW Texas off-grid DC power solution.
 - HD Hyundai Heavy signed a 684 MW / ₩627.1B HiMSEN-based supply contract with US AEG for data-center power.
@@ -313,7 +313,7 @@ The data through 2026-04-28 says Layer 1 is real, Layer 2 is a directional optio
 ### [Inference]
 
 - The marine-engine earnings cycle alone supports a meaningful 2026–2028E EPS ramp; the current price embeds significant assumptions about that path.
-- A 300 MW DC engine win at base-case ASP/OPM lifts EPS by ~+5% — material but bounded; 684 MW lifts ~+12%; 1 GW or O&M-attached deals are the multiple-relevant magnitudes.
+- A 300 MW DC engine win at base-case ASP/OPM lifts EPS by \~+5% — material but bounded; 684 MW lifts \~+12%; 1 GW or O&M-attached deals are the multiple-relevant magnitudes.
 - A captive-supplier structure inside Hanwha Energy USA / Hanwha Data Centers / Hanwha Gas Power Solutions, if disclosed, would reclassify Hanwha Engine from shipbuilding-equipment to AI-power-infrastructure node.
 - The first-order beneficiary of Hanwha Group US power platform success can be the platform or affiliated entities rather than Hanwha Engine, absent a disclosed supply-chain role.
 
@@ -333,4 +333,4 @@ The data through 2026-04-28 says Layer 1 is real, Layer 2 is a directional optio
 
 ---
 
-**Disclaimer**: This post is research commentary, not investment advice. Estimate frameworks are sourced from publicly available sell-side material (Meritz Securities) and industry disclosures (Wärtsilä, HD Hyundai Heavy, Hanwha Energy USA platform pages); accuracy is dependent on those underlying sources. Tickers cited are illustrative for the re-rating framework, not recommendations. Do your own due diligence and consult licensed advisors before any investment decision.
+*Disclaimer: For research and information purposes only. Not investment advice. Names cited are for analytical illustration; readers should perform their own due diligence and consult licensed advisors before any investment decision.*

@@ -49,7 +49,7 @@ Atinum es la acción de apariencia más *convencional* dentro del universo de VC
 
 | Pilar | Estado |
 |---|---|
-| DPS 2025 | ₩140 (subido desde ₩130); pool total de dividendos ~₩6,4B; rentabilidad ≈ 4,5% |
+| DPS 2025 | ₩140 (subido desde ₩130); pool total de dividendos \~₩6,4B; rentabilidad ≈ 4,5% |
 | Pipeline de megafondo | Megafondo de ₩1T en proceso de constitución en 2026 |
 | PBR de referencia (14 días) | 0,73× — brecha amplia vs. Mirae Asset Venture / Aju IB / DSC |
 
@@ -81,8 +81,8 @@ Dentro del grupo de PBR premium, Company K Partners es el nombre donde el **even
 |---|---|
 | Exposición a Upstage | ₩10B en Series A de 2021 + ₩5B en Series B de 2024 = **₩15B total** invertido |
 | Recuperación implícita a valoración de ₩5T de Upstage | **>₩200B** (estimación del sector) |
-| Cotización de referencia 29 de abril | ~₩9.450 / capitalización bursátil ~₩150B |
-| Múltiplos (últimos) | PER ~20,7×, PBR ~1,83×, ROE ~8,83% |
+| Cotización de referencia 29 de abril | \~₩9.450 / capitalización bursátil \~₩150B |
+| Múltiplos (últimos) | PER \~20,7×, PBR \~1,83×, ROE \~8,83% |
 | Reacción el mismo día (8 de abril) | +10,04% ante noticias sobre la valoración de la IPO de Upstage (rango ₩3,5–5T) |
 
 ### Por qué la asimetría es real
@@ -93,7 +93,7 @@ La capitalización bursátil cotizada de Company K es **menor que la recuperaci�
 
 | Factor | Lectura |
 |---|---|
-| **P** | PBR ~1,8× — **menor que Mirae Asset Venture, DSC o Aju IB** dentro del grupo premium |
+| **P** | PBR \~1,8× — **menor que Mirae Asset Venture, DSC o Aju IB** dentro del grupo premium |
 | **Q** | La exposición a Upstage es concreta: ₩15B al coste; la recuperación escala con la valoración |
 | **C** | La recuperación **no** fluye 1:1 al P&L de la entidad cotizada — hay que descomponer la estructura del fondo, el % de commit del GP y el waterfall de comisiones de éxito |
 
@@ -112,18 +112,18 @@ El catalizador principal de DSC es **FuriosaAI**. DSC ha invertido en FuriosaAI 
 | Pilar | Estado |
 |---|---|
 | Inversión acumulada en FuriosaAI | ₩24B en 6 rondas |
-| Ronda pre-IPO | Tamaño de captación ~₩750B; valoración pre-money ~₩3T reportada |
-| Múltiplos (últimos) | PER ~28×, PBR ~3,85×, ROE ~13,7% |
+| Ronda pre-IPO | Tamaño de captación \~₩750B; valoración pre-money \~₩3T reportada |
+| Múltiplos (últimos) | PER \~28×, PBR \~3,85×, ROE \~13,7% |
 
 ### Régimen de re-rating
 
-DSC se sitúa dentro del grupo premium. El catalizador es concreto; el precio ya lo refleja. Para que el múltiplo **se expanda más** en lugar de simplemente mantenerse, el cierre de FuriosaAI debe producirse **por encima de ~₩3T**, con participación de inversores extranjeros estratégicos y un calendario de IPO más definido. Sin esos elementos, el "cumplimiento de expectativas" tiende a ser vendido en lugar de perseguido en los small-caps coreanos.
+DSC se sitúa dentro del grupo premium. El catalizador es concreto; el precio ya lo refleja. Para que el múltiplo **se expanda más** en lugar de simplemente mantenerse, el cierre de FuriosaAI debe producirse **por encima de \~₩3T**, con participación de inversores extranjeros estratégicos y un calendario de IPO más definido. Sin esos elementos, el "cumplimiento de expectativas" tiende a ser vendido en lugar de perseguido en los small-caps coreanos.
 
 ### P × Q × C
 
 | Factor | Lectura |
 |---|---|
-| **P** | Ya en zona premium — PBR ~3,85× |
+| **P** | Ya en zona premium — PBR \~3,85× |
 | **Q** | La posición en FuriosaAI es concreta y significativa |
 | **C** | La contabilidad mark-to-market de la posición es la palanca; las salidas realizadas siguen siendo futuras |
 
@@ -138,8 +138,8 @@ Mirae Asset Venture tiene el portafolio con mayor **densidad de titulares** dent
 | Pilar | Estado |
 |---|---|
 | Referencia 21 de abril | YTD +248%, 1 año +780% |
-| Exposición a Rebellions | 4 rondas (Series A hasta pre-IPO); acumulado del grupo ~₩147B; valoración de la ronda ~₩3,4T |
-| Múltiplos (últimos) | PER ~105×, PBR ~8,59×, ROE ~8,47% |
+| Exposición a Rebellions | 4 rondas (Series A hasta pre-IPO); acumulado del grupo \~₩147B; valoración de la ronda \~₩3,4T |
+| Múltiplos (últimos) | PER \~105×, PBR \~8,59×, ROE \~8,47% |
 | Acción corporativa | Emitió una comunicación a accionistas advirtiendo explícitamente del sobrecalentamiento, señalando que la mayoría de las inversiones se realizan *a través de fondos* y no se trasladan 1:1 al P&L corporativo |
 
 ### Régimen de re-rating
@@ -177,12 +177,12 @@ Q Capital es el único nombre con orientación hacia PE en este conjunto. Tanto 
 | Pilar | Estado |
 |---|---|
 | Resultados 2025 | Ingresos operativos ₩20,1B / BO ₩3,8B / BN ₩2,4B / ROE 1,73% / AUM ₩1.413,5B |
-| Múltiplos (últimos) | PER ~21,4×, PBR ~0,37×, BPS ₩792 |
+| Múltiplos (últimos) | PER \~21,4×, PBR \~0,37×, BPS ₩792 |
 | Plan de revalorización | ROE 2026 del 5%, AUM 2030 de ₩3,3T, ≥40% del beneficio neto para dividendos o recompra y amortización de acciones |
 
 ### Por qué el descuento es estructural y no solo de valor
 
-El PBR ~0,37× no es una ineficiencia de valoración limpia. Refleja un lastre específico y real: **el PEF Q-CP No. 15 de 2021**. El informe anual de Q Capital divulga un **compromiso de cobertura de pérdidas de ₩40,8B** como GP de ese fondo. El compromiso de capital del fondo es de ~₩406,7B y se desplegó en SK Ecoplant, Yanadoo, AirsMedical y una adquisición de control de Chorokbaem Media (₩140B del fondo + ~₩45B de financiación de adquisición). La operación de Chorokbaem consumió efectivamente la capacidad restante del fondo.
+El PBR \~0,37× no es una ineficiencia de valoración limpia. Refleja un lastre específico y real: **el PEF Q-CP No. 15 de 2021**. El informe anual de Q Capital divulga un **compromiso de cobertura de pérdidas de ₩40,8B** como GP de ese fondo. El compromiso de capital del fondo es de \~₩406,7B y se desplegó en SK Ecoplant, Yanadoo, AirsMedical y una adquisición de control de Chorokbaem Media (₩140B del fondo + \~₩45B de financiación de adquisición). La operación de Chorokbaem consumió efectivamente la capacidad restante del fondo.
 
 ### Inventario de calidad del portafolio dentro del Fondo 15
 
@@ -195,11 +195,11 @@ El PBR ~0,37× no es una ineficiencia de valoración limpia. Refleja un lastre e
 
 ### Verificación aritmética interna del plan de revalorización
 
-El plan apunta a un ROE 2026 del 5% con un BN de ₩5,0B sobre patrimonio de ₩141,2B. Esa matemática implica un ROE del 3,54%, no del 5%. Un ROE puro del 5% sobre la base patrimonial existente requiere un BN de ~₩7,06B. **La vía hacia el 5% exige por tanto una reducción del patrimonio (recompra y amortización) o un incremento del BN más allá del dato titular.** Esto es coherente con el marco de retorno de capital declarado por la empresa, pero vale la pena valorarlo explícitamente.
+El plan apunta a un ROE 2026 del 5% con un BN de ₩5,0B sobre patrimonio de ₩141,2B. Esa matemática implica un ROE del 3,54%, no del 5%. Un ROE puro del 5% sobre la base patrimonial existente requiere un BN de \~₩7,06B. **La vía hacia el 5% exige por tanto una reducción del patrimonio (recompra y amortización) o un incremento del BN más allá del dato titular.** Esto es coherente con el marco de retorno de capital declarado por la empresa, pero vale la pena valorarlo explícitamente.
 
 ### Régimen de re-rating
 
-El PBR de Q Capital puede revalorizarse desde ~0,3× hasta ~0,5–0,7× *si y solo si* (a) la resolución del Fondo 15 es visible (estabilización de Chorokbaem, deterioro de Yanadoo liquidado, salida de SK Ecoplant o AirsMedical registrada), y (b) el plan de revalorización genera recompras y amortizaciones reales y un ROE del 5%. Sin eso, el descuento es racional en lugar de una ineficiencia.
+El PBR de Q Capital puede revalorizarse desde \~0,3× hasta \~0,5–0,7× *si y solo si* (a) la resolución del Fondo 15 es visible (estabilización de Chorokbaem, deterioro de Yanadoo liquidado, salida de SK Ecoplant o AirsMedical registrada), y (b) el plan de revalorización genera recompras y amortizaciones reales y un ROE del 5%. Sin eso, el descuento es racional en lugar de una ineficiencia.
 
 ---
 
@@ -265,14 +265,14 @@ Cada régimen requiere un marco diferente, un calendario de catalizadores difere
 
 ### [Hecho]
 
-- Atinum Investment DPS 2025 ₩140; pool total de dividendos ~₩6,4B; pipeline de megafondo de ₩1T para 2026 reportado.
+- Atinum Investment DPS 2025 ₩140; pool total de dividendos \~₩6,4B; pipeline de megafondo de ₩1T para 2026 reportado.
 - Q Capital AUM 2025 ₩1.413,5B; ROE 1,73%; ROE 2026 publicado del 5% / objetivo AUM 2030 de ₩3,3T con pago de ≥40% del beneficio neto en dividendos o recompra y amortización.
 - Q Capital es GP del PEF Q-CP No. 15 de 2021 y divulga un compromiso de cobertura de pérdidas de ₩40,8B en su informe anual.
-- Fondo 15 de Q Capital: compromiso de ~₩406,7B; desplegado en SK Ecoplant, Yanadoo, AirsMedical; ₩140B + ~₩45B de financiación de adquisición en participación de control de Chorokbaem Media.
+- Fondo 15 de Q Capital: compromiso de \~₩406,7B; desplegado en SK Ecoplant, Yanadoo, AirsMedical; ₩140B + \~₩45B de financiación de adquisición en participación de control de Chorokbaem Media.
 - Company K Partners invirtió en Upstage ₩10B en la Series A de 2021 y ₩5B en la Series B de 2024, total ₩15B. El 8 de abril se observó una reacción el mismo día de +10,04% ante noticias sobre la valoración de Upstage.
 - DSC Investment invirtió en FuriosaAI en seis rondas (Seed → Series C), acumulado ₩24B.
 - Mirae Asset Venture emitió una comunicación a accionistas advirtiendo del sobrecalentamiento, señalando que la estructura de inversión a nivel de fondo amortigua el traslado 1:1 al P&L. Referencia 21 de abril: YTD +248%, 1 año +780%.
-- Inversión acumulada del grupo Mirae Asset en Rebellions ~₩147B en múltiples rondas; valoración de la última ronda de Rebellions ~₩3,4T.
+- Inversión acumulada del grupo Mirae Asset en Rebellions \~₩147B en múltiples rondas; valoración de la última ronda de Rebellions \~₩3,4T.
 
 ### [Inferencia]
 
@@ -296,4 +296,4 @@ Cada régimen requiere un marco diferente, un calendario de catalizadores difere
 
 ---
 
-**Aviso legal**: Esta publicación es comentario de investigación, no asesoramiento de inversión. Los datos citados se basan en niveles reportados públicamente (estados financieros anuales, divulgaciones de value-up, documentos de IR, prensa especializada y sell-side) y pueden haber variado con eventos posteriores. Los tickers y nombres de firmas son ilustrativos para el marco de re-rating, no constituyen recomendaciones. Realice su propia diligencia debida y consulte a asesores con licencia antes de tomar cualquier decisión.
+*Disclaimer: For research and information purposes only. Not investment advice. Names cited are for analytical illustration; readers should perform their own due diligence and consult licensed advisors before any investment decision.*

@@ -173,4 +173,6 @@ Foreign investors can buy LIG Nex1 (079550.KS) through any international brokera
 
 *Data references in this post draw on publicly available information including LIG Nex1 DART filings (dart.fss.or.kr), KRX market data, and company IR disclosures. Financial figures should be verified against the most current quarterly reports before making any decisions.*
 
-*This analysis is for informational purposes only and does not constitute investment advice. Past performance is not indicative of future results. Investing in foreign securities involves additional risks including currency risk, political risk, and differences in accounting standards. Consult a qualified financial advisor before making investment decisions.*
+---
+
+*Disclaimer: For research and information purposes only. Not investment advice. Names cited are for analytical illustration; readers should perform their own due diligence and consult licensed advisors before any investment decision.*

@@ -208,4 +208,4 @@ Rejuran是一款基于PDRN（聚脱氧核糖核苷酸）的注射型水光针，
 
 ---
 
-*本文仅供参考，不构成投资建议。所有投资均涉及风险，包括本金损失的可能性。过往股价表现不代表未来结果。在作出任何投资决策前，请咨询具有资质的专业财务顾问。文中引用的财务数据均来源于公开可查的DART申报文件及市场数据，反映的是最近已报告期间的信息；在采用任何数据前，请务必核实最新文件。*
+*Disclaimer: For research and information purposes only. Not investment advice. Names cited are for analytical illustration; readers should perform their own due diligence and consult licensed advisors before any investment decision.*

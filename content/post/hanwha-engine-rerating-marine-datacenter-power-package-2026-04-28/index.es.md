@@ -10,7 +10,7 @@ tags: ["hanwha-engine", "082740", "hanwha-group", "construcción-naval", "motor-
 ## Resumen Ejecutivo
 
 - **Hanwha Engine es un valor en el que tres capas de re-valoración se han superpuesto.** Capa 1: un ciclo de motores marinos de alto margen que ya se refleja en los resultados. Capa 2: una opción en motores de gas de 4 tiempos para alimentación primaria de centros de datos en EE.UU., siguiendo los contratos vigentes de Wärtsilä y HD Hyundai Heavy. Capa 3: un paquete energético de Hanwha Group en EE.UU. a través de Hanwha Energy USA, Hanwha Data Centers y Hanwha Gas Power Solutions.
-- **El ciclo marino por sí solo sustenta un salto significativo en BPA hasta 2026–2028E.** Trayectoria del MOP: 2025 ~9,5% → 2026E ~17,5% → 2027E ~21,4% → 2028E ~22,7% (estimaciones de Meritz). Cartera de pedidos ~₩4,14T a cierre de 2025 con una proporción del 86% en motores DF.
+- **El ciclo marino por sí solo sustenta un salto significativo en BPA hasta 2026–2028E.** Trayectoria del MOP: 2025 \~9,5% → 2026E \~17,5% → 2027E \~21,4% → 2028E \~22,7% (estimaciones de Meritz). Cartera de pedidos \~₩4,14T a cierre de 2025 con una proporción del 86% en motores DF.
 - **La opcionalidad en centros de datos es la mayor fuente de ampliación incremental del mercado potencial (TAM).** Wärtsilä (412 MW en Ohio + 790 MW en Texas) y HD Hyundai Heavy (684 MW / ₩627,1B con US AEG) ya han demostrado que los fabricantes de motores de gas pueden ganar contratos de alimentación primaria o puente para centros de datos de hiperscala, no solo de respaldo.
 - **La versión más sólida de la tesis es la vía de proveedor cautivo.** Si Hanwha Engine se convierte en proveedor interno de motores de gas de 4 tiempos dentro de Hanwha Energy USA / Hanwha Data Centers / Hanwha Gas Power Solutions, la compañía sería reclasificada: de "proveedor de equipos navales" a "nodo de potencia despachable en el cuello de botella energético de la IA." Si esa vía cautiva se materializa es la variable binaria que separa un valor de "buen ciclo de beneficios" de un valor de "re-valoración de plataforma."
 
@@ -39,9 +39,9 @@ Cada capa sucesiva modifica tanto la escala del TAM como el *tipo* de múltiplo 
 | Período | Ingresos | BO | MOP |
 |---|---:|---:|---:|
 | **1T26** | ₩345,2B | ₩51,4B | **14,9%** |
-| **2026E** | ₩1.560B | ₩273,8B | ~17,5% |
-| **2027E** | ₩1.900B | ₩406,9B | ~21,4% |
-| **2028E** | ₩2.530B | ₩573,8B | ~22,7% |
+| **2026E** | ₩1.560B | ₩273,8B | \~17,5% |
+| **2027E** | ₩1.900B | ₩406,9B | \~21,4% |
+| **2028E** | ₩2.530B | ₩573,8B | \~22,7% |
 
 Trayectoria de BPA (estimaciones de Meritz):
 
@@ -88,7 +88,7 @@ Lo que esta tríada establece:
 
 1. **Los centros de datos hiperscala comprarán soluciones de energía con motores de gas en unidades de MW a GW**, no solo grupos electrógenos de respaldo de clase kW.
 2. **Los fabricantes de motores coreanos son contrapartes creíbles** en este mercado — el contrato de HD Hyundai Heavy con AEG es la prueba de concepto.
-3. **Existe un punto de referencia de precios**: el contrato de HD Hyundai Heavy implica **~₩0,917B por MW** a nivel de sistema.
+3. **Existe un punto de referencia de precios**: el contrato de HD Hyundai Heavy implica **\~₩0,917B por MW** a nivel de sistema.
 
 ### 3-2. La posición de Hanwha Engine
 
@@ -100,10 +100,10 @@ Lo que esta tríada establece:
 
 | Factor | Visión | Lectura |
 |---|---|---|
-| **P (precio)** | Referencia de HD Hyundai Heavy ₩0,917B/MW; Hanwha Engine probablemente entraría por debajo del precio de referencia en los primeros contratos de referencia — ASP ilustrativo ~70% del benchmark = **~₩0,642B/MW** | Aceptable para ganar cuota; comprometido si es crónico |
+| **P (precio)** | Referencia de HD Hyundai Heavy ₩0,917B/MW; Hanwha Engine probablemente entraría por debajo del precio de referencia en los primeros contratos de referencia — ASP ilustrativo \~70% del benchmark = **\~₩0,642B/MW** | Aceptable para ganar cuota; comprometido si es crónico |
 | **Q (volumen)** | Los paquetes de alimentación para centros de datos suelen cerrar en lotes de **100 MW – 1 GW**; el pipeline depende de que Hanwha Engine gane proyectos específicos | Alta varianza; binario en la primera referencia |
 | **C (coste)** | Canon de licencia, precios de promoción inicial, desarrollo de operaciones y mantenimiento en EE.UU., certificación, curva de fiabilidad | Comprimen el margen en la fase inicial |
-| **Margen** | Venta de motor únicamente con MOP plausiblemente ~8–12%; el paquete + operaciones y mantenimiento por encima puede elevar el combinado | Rango relevante para la re-valoración |
+| **Margen** | Venta de motor únicamente con MOP plausiblemente \~8–12%; el paquete + operaciones y mantenimiento por encima puede elevar el combinado | Rango relevante para la re-valoración |
 | **Recurrencia** | El suministro cautivo a través de los activos energéticos de Hanwha Group en EE.UU. convertiría la economía de proyectos puntuales en operaciones y mantenimiento recurrentes y piezas/servicio | La variable de calidad real |
 
 ---
@@ -148,7 +148,7 @@ P/E ajustado   = ₩80.400 / ₩4.117   = 19,5×
 **Nota interpretativa (analítica, no directiva)**
 
 - Un contrato puntual de 300 MW bajo los supuestos de base eleva el BPA aproximadamente un +5%. Es un impacto real pero **acotado**.
-- Un contrato de 684 MW, a la escala de HD HHI, eleva el BPA ~+12% — más próximo a una magnitud relevante para el múltiplo.
+- Un contrato de 684 MW, a la escala de HD HHI, eleva el BPA \~+12% — más próximo a una magnitud relevante para el múltiplo.
 - Una senda acumulada de 1 GW o un contrato que **incluya operaciones y mantenimiento / servicios recurrentes** cambia la lectura cualitativa, porque convierte la economía de motores en un tipo de ingresos de mayor múltiplo.
 
 ---
@@ -250,10 +250,10 @@ La siguiente tabla mapea **condiciones observables** con **regímenes de múltip
 
 | Etapa | Condición observable | Régimen de relato |
 |---|---|---|
-| **Etapa 0** | MOP marino del 15–20% confirmado en tasa de ejecución | Múltiplo de ciclo industrial, ~18–21× BPA 2027E |
+| **Etapa 0** | MOP marino del 15–20% confirmado en tasa de ejecución | Múltiplo de ciclo industrial, \~18–21× BPA 2027E |
 | **Etapa 1** | Pedido piloto DC de ≤100 MW | Opcionalidad reconocida; pequeño aumento de BPA; validación del relato |
-| **Etapa 2** | Pedido DC de ≥300 MW | Impacto en BPA ~+5%; expansión de múltiplo parcial |
-| **Etapa 3** | Pedido DC de clase 684 MW | Impacto en BPA ~+12%; expansión de múltiplo significativa |
+| **Etapa 2** | Pedido DC de ≥300 MW | Impacto en BPA \~+5%; expansión de múltiplo parcial |
+| **Etapa 3** | Pedido DC de clase 684 MW | Impacto en BPA \~+12%; expansión de múltiplo significativa |
 | **Etapa 4** | 1 GW acumulado + operaciones y mantenimiento adjuntos | BPA +15–20% con recurrencia; candidato a cambio de régimen de múltiplo |
 | **Etapa 5** | Proveedor cautivo divulgado en Hanwha Energy USA / Hanwha Data Centers | Reclasificación de equipo para construcción naval a nodo de infraestructura energética IA |
 
@@ -302,7 +302,7 @@ Los datos hasta el 28-04-2026 indican que la Capa 1 es real, la Capa 2 es una op
 ### [Hecho]
 
 - Resultados 1T26: ingresos ₩345,2B, BO ₩51,4B, MOP 14,9%.
-- Marco de estimaciones de Meritz: ingresos 2026E ~₩1,56T / BO ₩273,8B / MOP ~17,5%; BO 2027E ₩406,9B; BO 2028E ₩573,8B.
+- Marco de estimaciones de Meritz: ingresos 2026E \~₩1,56T / BO ₩273,8B / MOP \~17,5%; BO 2027E ₩406,9B; BO 2028E ₩573,8B.
 - Cartera de pedidos de motores marinos a cierre de 2025 ≈ ₩4,14T; proporción de motores DF del 86%.
 - Wärtsilä divulgó un proyecto de alimentación primaria de 412 MW para centros de datos en EE.UU. (referencia Ohio) y una solución de alimentación fuera de red de 790 MW para un centro de datos en Texas.
 - HD Hyundai Heavy firmó un contrato de suministro basado en HiMSEN de 684 MW / ₩627,1B con US AEG para alimentación de centros de datos.
@@ -313,7 +313,7 @@ Los datos hasta el 28-04-2026 indican que la Capa 1 es real, la Capa 2 es una op
 ### [Inferencia]
 
 - El ciclo de beneficios en motores marinos por sí solo sustenta un crecimiento significativo del BPA para 2026–2028E; el precio actual incorpora supuestos importantes sobre esa trayectoria.
-- Un contrato DC de 300 MW a ASP/MOP de caso base eleva el BPA ~+5% — material pero acotado; 684 MW lo eleva ~+12%; 1 GW o contratos con operaciones y mantenimiento adjuntos son las magnitudes relevantes para el múltiplo.
+- Un contrato DC de 300 MW a ASP/MOP de caso base eleva el BPA \~+5% — material pero acotado; 684 MW lo eleva \~+12%; 1 GW o contratos con operaciones y mantenimiento adjuntos son las magnitudes relevantes para el múltiplo.
 - Una estructura de proveedor cautivo dentro de Hanwha Energy USA / Hanwha Data Centers / Hanwha Gas Power Solutions, si se divulga, reclasificaría a Hanwha Engine de equipo para construcción naval a nodo de infraestructura energética IA.
 - El beneficiario de primer orden del éxito de la plataforma energética de Hanwha Group en EE.UU. puede ser la propia plataforma o entidades afiliadas, y no Hanwha Engine, en ausencia de un rol divulgado en la cadena de suministro.
 
@@ -333,4 +333,4 @@ Los datos hasta el 28-04-2026 indican que la Capa 1 es real, la Capa 2 es una op
 
 ---
 
-**Aviso legal**: Este artículo es un comentario de investigación, no asesoramiento de inversión. Los marcos de estimación proceden de material público del lado vendedor (Meritz Securities) y divulgaciones del sector (Wärtsilä, HD Hyundai Heavy, páginas de la plataforma de Hanwha Energy USA); su precisión depende de esas fuentes subyacentes. Los tickers citados son ilustrativos para el marco de re-valoración, no recomendaciones. Realice su propia diligencia debida y consulte a asesores autorizados antes de tomar cualquier decisión de inversión.
+*Disclaimer: For research and information purposes only. Not investment advice. Names cited are for analytical illustration; readers should perform their own due diligence and consult licensed advisors before any investment decision.*

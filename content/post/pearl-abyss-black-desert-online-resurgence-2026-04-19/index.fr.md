@@ -172,8 +172,8 @@ Cela affine la lecture analytique : la réévaluation des revenus BDO 2026E ci-d
 
 Les résultats financiers 2025 de Pearl Abyss se sont clôturés à **KRW 365,6B de chiffre d'affaires** et une perte opérationnelle de **-KRW 14,8B**. En décomposant les revenus par titre selon les hypothèses standard du secteur :
 
-- **BDO** : ~KRW 315B (OPM estimée ~38%)
-- **EVE Online** : ~KRW 75B (OPM estimée ~40%, extension Catalyst incluse)
+- **BDO** : \~KRW 315B (OPM estimée \~38%)
+- **EVE Online** : \~KRW 75B (OPM estimée \~40%, extension Catalyst incluse)
 
 Si le CCU Steam de BDO suit une trajectoire de +40% en glissement annuel en 2026, le cadre de consensus existant — qui suppose généralement une **stabilité à légère baisse des revenus BDO** à mesure que le titre arrive à maturité — devient incompatible en interne avec les données observées. Dans ce cadre, les scénarios suivants émergent :
 
@@ -199,7 +199,7 @@ Avec la confirmation du rang de vente régional venant s'ajouter aux données CC
 
 ### Recalibrage de la Juste Valeur
 
-En appliquant le P/E moyen du secteur du jeu vidéo coréen de ~12x :
+En appliquant le P/E moyen du secteur du jeu vidéo coréen de \~12x :
 
 - **Juste valeur précédente** : KRW 4 310 × 12 = **KRW 51 720**
 - **Juste valeur ajustée aux données** : KRW 4 891 × 12 = **KRW 58 690**
@@ -283,3 +283,7 @@ Si les revenus BDO du T1 affichent moins de +10% de croissance en glissement ann
 ## ⚠️ Avertissement
 
 Ce billet est une analyse d'interprétation de marché basée sur des données publiquement disponibles. Il ne constitue pas un conseil en investissement, une sollicitation, ni une recommandation d'achat ou de vente de quelque valeur mobilière que ce soit. Pearl Abyss (263750.KQ) est mentionné uniquement à des fins analytiques et informatives. Toutes les estimations numériques — incluant les scénarios de revenus 2026E, le BPA réévalué et les calculs de juste valeur — sont des analyses de cadre indépendantes, et non des guidances officielles de Pearl Abyss. Les estimations sell-side et les calculs de juste valeur cités reflètent les chiffres disponibles à l'horodatage d'agrégation et peuvent avoir été révisés depuis. Les tendances passées du CCU et les multiples P/E historiques du secteur ne garantissent pas les résultats futurs. Tout investissement comporte des risques, y compris le risque de perte totale. Les lecteurs sont invités à mener leurs propres recherches indépendantes et à consulter des conseillers financiers qualifiés avant toute décision d'investissement.
+
+---
+
+*Disclaimer: For research and information purposes only. Not investment advice. Names cited are for analytical illustration; readers should perform their own due diligence and consult licensed advisors before any investment decision.*

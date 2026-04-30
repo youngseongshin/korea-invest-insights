@@ -26,7 +26,7 @@ Samsung Heavy Industries (삼성중공업, ticker **010140.KS**, KOSPI) no es el
 | Sede | Geoje, Corea del Sur |
 | Fundación | 1974 |
 | Productos Principales | Buques metaneros, plantas FLNG, buques perforadores, GNL-FSRU, petroleros rompehielos, portacontenedores de gran capacidad |
-| Ingresos FY2024 | ~KRW 9,9 billones (~USD 7,1 mil millones) |
+| Ingresos FY2024 | \~KRW 9,9 billones (\~USD 7,1 mil millones) |
 | Accionista de Control | Samsung C&T (삼성물산) |
 
 **Resumen ejecutivo:** Samsung Heavy Industries (SHI) es uno de los únicos tres astilleros del planeta capaces de construir la infraestructura energética flotante más grande y compleja del mundo: las plantas de Gas Natural Licuado Flotante (FLNG), que operan en alta mar y convierten el gas en bruto de los yacimientos en GNL exportable. Mientras HD Hyundai y Hanwha Ocean (antes Daewoo) compiten por volumen, SHI ha consolidado una posición casi monopólica en el segmento técnicamente más exigente y de mayor margen del mercado naval. A medida que el comercio mundial de GNL se expande hacia los 700 millones de toneladas anuales de aquí a 2040 (según el LNG Outlook de Shell), cada nuevo proyecto de licuefacción, cada buque metanero envejecido que necesita reemplazo y cada campo de gas marino que requiere monetización es una potencial orden para Samsung Heavy Industries.
@@ -76,7 +76,7 @@ El modelo de negocio de SHI es sencillo de describir y difícil de ejecutar: rec
 | Segmento | Ingresos (KRW mil millones) | Participación |
 |---|---|---|
 | Construcción Naval y Marina | 7.511 | 96,2% |
-| — de los cuales: Exportación | 7.592 (acumulado Q3 completo por categoría de buque/plataforma) | ~97% |
+| — de los cuales: Exportación | 7.592 (acumulado Q3 completo por categoría de buque/plataforma) | \~97% |
 | Construcción Civil (토건) | 301 | 3,8% |
 | **Total Acumulado (9M 2025)** | **7.812** | **100%** |
 
@@ -85,7 +85,7 @@ El segmento de construcción civil (contratos de obra civil doméstica) es esenc
 **Trayectoria de Ingresos Anuales:**
 - FY2023 (제50기): KRW 8,0 billones
 - FY2024 (제51기): KRW 9,9 billones (+24% interanual)
-- FY2025 (제52기, estimado): ~KRW 10,8 billones (~+9% interanual, basado en los resultados de 9M más estimaciones de Q4)
+- FY2025 (제52기, estimado): \~KRW 10,8 billones (\~+9% interanual, basado en los resultados de 9M más estimaciones de Q4)
 
 *Fuente: Presentaciones semestrales y trimestrales de DART (반기보고서 2025.06, 분기보고서 2025.09); cifras preliminares Q4 2025 según investigación de LS Securities*
 
@@ -211,4 +211,4 @@ Para los inversores internacionales que miran el Renacimiento de la Construcció
 
 ---
 
-> **Aviso Legal:** Este análisis tiene únicamente carácter informativo y no constituye asesoramiento de inversión. La rentabilidad pasada no es indicativa de resultados futuros. La inversión en valores extranjeros conlleva riesgo cambiario, riesgo de liquidez y riesgo regulatorio. Consulte a un asesor financiero autorizado antes de tomar decisiones de inversión.
+*Disclaimer: For research and information purposes only. Not investment advice. Names cited are for analytical illustration; readers should perform their own due diligence and consult licensed advisors before any investment decision.*

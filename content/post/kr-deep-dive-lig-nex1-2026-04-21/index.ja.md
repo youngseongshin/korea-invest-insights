@@ -172,4 +172,6 @@ LIG Nex1は現時点で米国預託証券（ADR）またはグローバル預託
 
 *本稿のデータ参照は、LIG Nex1のDART開示（dart.fss.or.kr）、KRX市場データ、および同社IR開示を含む公開情報に基づいている。財務数値はいかなる決定を行う前においても最新の四半期報告書で確認されたい。*
 
-*本分析は情報提供のみを目的としており、投資助言を構成するものではない。過去のパフォーマンスは将来の結果を示すものではない。外国証券への投資には通貨リスク、政治リスク、会計基準の相違など追加的なリスクが伴う。投資判断を行う前に、資格を有するファイナンシャルアドバイザーへの相談を推奨する。*
+---
+
+*Disclaimer: For research and information purposes only. Not investment advice. Names cited are for analytical illustration; readers should perform their own due diligence and consult licensed advisors before any investment decision.*

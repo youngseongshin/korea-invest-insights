@@ -70,4 +70,4 @@ The **weak side** was predictable for a risk-on day: **telecom and defensives** 
 
 ---
 
-*Data sourced from KRX real-time feeds and proprietary screener engines. Not investment advice. All figures KRW unless noted.*
+*Disclaimer: For research and information purposes only. Not investment advice. Names cited are for analytical illustration; readers should perform their own due diligence and consult licensed advisors before any investment decision.*

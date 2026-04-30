@@ -170,4 +170,4 @@ SK hynix目前没有在美国上市的ADR项目。这意味着美国散户投资
 
 ---
 
-*本分析仅供参考，不构成投资建议。过往表现不代表未来结果。所有引用的财务数据均来源于截至发布日期的公开公司文件、IR材料及行业研究。投资者在作出任何投资决策前，应自行进行尽职调查并咨询合格的财务顾问。*
+*Disclaimer: For research and information purposes only. Not investment advice. Names cited are for analytical illustration; readers should perform their own due diligence and consult licensed advisors before any investment decision.*

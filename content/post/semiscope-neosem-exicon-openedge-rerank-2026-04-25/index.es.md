@@ -40,7 +40,7 @@ El análisis comparativo de consenso trata el prisma de un solo eje (sustituibil
 |---|---|---|
 | Resultados 2025 | No indicado explícitamente | **Ingresos KRW 63,9B (-39,3% interanual), beneficio operativo KRW 4,1B (-75,3% interanual), OPM 6,4%** — una desaceleración de ciclo propio significativa |
 | Salida Advantest del ATE para SSD | No mencionado | **Advantest se retiró del ATE para SSD en enero de 2025 → el SSD Tester Gen5/Gen6 es efectivamente una estructura de proveedor único para Neosem** |
-| Orientación IR de noviembre de 2025 | No mencionado | **El momentum de pedidos se disparó desde finales de agosto. Las reservas de sept-nov corrieron al ~2x del ritmo de ene-ago. La compañía orienta a resultados récord históricos en 2026** |
+| Orientación IR de noviembre de 2025 | No mencionado | **El momentum de pedidos se disparó desde finales de agosto. Las reservas de sept-nov corrieron al \~2x del ritmo de ene-ago. La compañía orienta a resultados récord históricos en 2026** |
 | Entrada en HBM back-end | No mencionado | **El tester burn-in BX dedicado a HBM está "en estudio" solamente — Techwing y Advantest ya han avanzado. Riesgo de ser seguidor tardío** |
 
 ### 1-2. Exicon (092870 KQ)
@@ -51,7 +51,7 @@ El análisis comparativo de consenso trata el prisma de un solo eje (sustituibil
 | Suministro único CLT | No mencionado | **Samsung completó la homologación final CLT a finales de 2024; proveedor único del tester LF desde 2025** — mucho más concreto que el vago encuadre de "asociación con Samsung" del análisis |
 | Pedidos acumulados (oct. 2025-mar. 2026) | No mencionado | **KRW 48,8B (CLT/Burn-in) + KRW 30,2B (SSD/CLT integrado) ≈ KRW 79B — aproximadamente 2,5x los ingresos de 2024, en cinco meses de reservas** |
 | Orientación 2026 | "Idea secundaria hasta confirmar CapEx CXL de Samsung" | **La compañía orienta a primer año con ingresos superiores a KRW 100B y giro completo a beneficios en 2026** |
-| Ventaja tecnológica CLT | No mencionado | **Procesamiento en paralelo de 11.520 canales (vs ~500 en paralelo de generación anterior), ventaja tecnológica de al menos 2 años frente a competidores** |
+| Ventaja tecnológica CLT | No mencionado | **Procesamiento en paralelo de 11.520 canales (vs \~500 en paralelo de generación anterior), ventaja tecnológica de al menos 2 años frente a competidores** |
 
 Al incorporar estos datos, Exicon deja de ser una "idea secundaria dependiente del CXL de Samsung" y pasa a ser "el proveedor único de CLT que entra en su curva-J". La conclusión del análisis de consenso requiere una corrección parcial.
 
@@ -60,7 +60,7 @@ Al incorporar estos datos, Exicon deja de ser una "idea secundaria dependiente d
 | Elemento | Análisis de consenso | Adición SemiScope |
 |---|---|---|
 | Resultados 2024-2025 | "Foso más profundo pero baja visibilidad de ingresos CXL" | **Ingresos 2024 -21,8%, pérdida operativa KRW -24,3B (pérdida ampliada); pérdida acumulada 9M 2025 KRW -21,3B** — el encuadre de "opción a largo plazo" debe leerse de forma más conservadora |
-| ASP de licencias | No mencionado | **Promedio de ~$1,1M por operación, fuerte aumento respecto al trimestre anterior de ~$0,7M — mix de IP en nodos avanzados en expansión** |
+| ASP de licencias | No mencionado | **Promedio de \~$1,1M por operación, fuerte aumento respecto al trimestre anterior de \~$0,7M — mix de IP en nodos avanzados en expansión** |
 | LPDDR6 + Samsung 4nm | No mencionado | **IP nueva central bajo negociación con múltiples clientes en 2025** |
 | IP UCIe | "En desarrollo" | **Desarrollo de IP del controlador completo y en validación; PHY en fase de inicio de diseño** — etapa más específica de lo que implica el análisis |
 | Ingresos por regalías | "Baja visibilidad CXL" | **Mix de regalías 1S 2025 del 0,4% (KRW 0,029B) — dado el desfase de licencia a volumen, el punto de inflexión de la curva-J probablemente se sitúa en 2026-2027 o más tarde** |
@@ -105,7 +105,7 @@ El encuadre colapsa los horizontes temporales. Desagregado:
 | Elemento | Neosem | Exicon | OpenEdge |
 |---|---:|---:|---:|
 | Ingresos 2024 (KRW B) | 105,2 | 31,6 | 15,3 |
-| Ingresos 2025E (KRW B, preliminar) | **63,9** (-39,3%) | ~60-70 (en recuperación) | Rango amplio (Shinhan KRW 40,4B vs KI conservador) |
+| Ingresos 2025E (KRW B, preliminar) | **63,9** (-39,3%) | \~60-70 (en recuperación) | Rango amplio (Shinhan KRW 40,4B vs KI conservador) |
 | OP 2024 (KRW B) | 16,5 | **-15,9** | **-24,3** |
 | OP 2025E | **4,1** (preliminar) | Intento de giro a beneficios (1S -8,6) | Pérdida sostenida (9M -21,3) |
 | Orientación 2026E | "Ingresos récord históricos" | "Ingresos KRW 100B+, giro a beneficios" | BEP (modelo Korea Investment) |
@@ -202,7 +202,7 @@ El análisis de consenso clasifica los tres nombres a través de un único prism
 
 - Productos principales: CLT (Chambered Low-frequency memory Tester) con 11.520 canales en paralelo — tester de estabilidad DRAM de nueva generación; SSD Tester Gen5 (suministrado a Samsung); Burn-in Tester; CXL 2.0 Tester; testers no de memoria (SoC / CIS / DDI).
 - Márgenes / historial: Ingresos 2024 KRW 31,6B / pérdida operativa KRW -15,9B (en pérdidas). Pérdida operativa acumulada 1S 2025 KRW -8,6B. Nuevos pedidos acumulados oct. 2025 - mar. 2026 ≈ KRW 79B (CLT / Burn-in / SSD). Tanto la compañía como el sell-side orientan al primer **año con ingresos superiores a KRW 100B + giro completo a beneficios en 2026**.
-- Foso tecnológico: Procesamiento CLT en paralelo de 11.520 canales (~20x respecto a la generación anterior de 500 canales). Homologación final Samsung completada a finales de 2024, proveedor único del tester LF desde 2025; ventaja tecnológica estimada de al menos 2 años frente a competidores.
+- Foso tecnológico: Procesamiento CLT en paralelo de 11.520 canales (\~20x respecto a la generación anterior de 500 canales). Homologación final Samsung completada a finales de 2024, proveedor único del tester LF desde 2025; ventaja tecnológica estimada de al menos 2 años frente a competidores.
 - Perspectiva de inversión: **Nombre de recuperación cíclica impulsado por eventos.** Salió del mínimo de 2024 mediante CLT de proveedor único y entrada en la curva-J de grandes pedidos. **Mayor exposición al CapEx DRAM de Samsung entre los nombres coreanos de ATE back-end.**
 
 ### Panorama de clientes
@@ -210,7 +210,7 @@ El análisis de consenso clasifica los tres nombres a través de un único prism
 | Etapa | Cliente | Producto / proceso | Estado |
 |---|---|---|---|
 | Producción | Samsung | **CLT (tester LF DRAM, proveedor único)** | En producción. KRW 20,4B + KRW 19,6B + KRW 8,8B = KRW 48,8B total divulgado en oct-nov 2025 |
-| Producción | Samsung | **Suministro combinado CLT + SSD Tester** | KRW 30,2B adicionales divulgados en mar. 2026 (~95,5% de los ingresos reportados más recientes) |
+| Producción | Samsung | **Suministro combinado CLT + SSD Tester** | KRW 30,2B adicionales divulgados en mar. 2026 (\~95,5% de los ingresos reportados más recientes) |
 | Producción | Samsung | SSD Tester Gen5 | En volumen |
 | Producción | Samsung | Burn-in Tester | En volumen |
 | En curso | Samsung | **CXL 2.0 Tester (potencial doble fuente con Neosem)** | En desarrollo + impulso de adopción |
@@ -220,8 +220,8 @@ El análisis de consenso clasifica los tres nombres a través de un único prism
 
 ### Disparadores de salto cuántico
 
-- **Disparador #1 — Entrada en ciclo de volumen CLT + 20+ instalaciones acumuladas.** Según la orientación de la compañía, alcanzar ~20 instalaciones acumuladas de CLT en las líneas DRAM de Samsung en 2026 respalda ingresos superiores a KRW 100B. Ingresos 2024 KRW 31,6B → 2026 KRW 100B+ implica ~3,2x en la línea de ingresos + giro a beneficios.
-- **Disparador #2 — Entrada como segundo proveedor en CXL 3.1.** Si Samsung adopta una política de doble fuente en CXL 3.1, Exicon podría capturar ~50% del suministro de equipos junto a Neosem. El ASP del CXL es ~2-3x el del SSD Tester, lo que implica ingresos incrementales significativos.
+- **Disparador #1 — Entrada en ciclo de volumen CLT + 20+ instalaciones acumuladas.** Según la orientación de la compañía, alcanzar \~20 instalaciones acumuladas de CLT en las líneas DRAM de Samsung en 2026 respalda ingresos superiores a KRW 100B. Ingresos 2024 KRW 31,6B → 2026 KRW 100B+ implica \~3,2x en la línea de ingresos + giro a beneficios.
+- **Disparador #2 — Entrada como segundo proveedor en CXL 3.1.** Si Samsung adopta una política de doble fuente en CXL 3.1, Exicon podría capturar \~50% del suministro de equipos junto a Neosem. El ASP del CXL es \~2-3x el del SSD Tester, lo que implica ingresos incrementales significativos.
 - **Disparador #3 — I+D del SSD Tester Gen6 → volumen.** El suministro del SSD Tester Gen6 en línea de I+D podría materializarse en 2026, con entrada en volumen en 2027. Riesgo: Neosem mantiene la pole position dada la salida de Advantest.
 - **Disparador #4 — Reconocimiento de volumen del tester no de memoria (SoC / AP / DDI).** Ganar un diseño-in en Samsung S.LSI o un fabless externo con testers DDI / AP derivados del tester CIS reduciría significativamente la dependencia del ciclo.
 
@@ -234,11 +234,11 @@ El análisis de consenso clasifica los tres nombres a través de un único prism
 ### Cinco puntos de control para los próximos 1-2 trimestres
 
 1. **Resultados 1T26 — magnitud del giro a beneficios.** Cuánto del libro de pedidos de KRW 79B se reconoce como ingresos y beneficio operativo. La verificación de estabilidad más clara.
-2. **Recuento acumulado de instalaciones CLT en 2026.** La compañía orienta a ~20 unidades. Seguimiento trimestral de si las instalaciones siguen la trayectoria.
+2. **Recuento acumulado de instalaciones CLT en 2026.** La compañía orienta a \~20 unidades. Seguimiento trimestral de si las instalaciones siguen la trayectoria.
 3. **Momento de divulgación de la homologación Samsung del CXL 3.1 Tester.** Más probable en 1S 2026. Superación = plaza de doble fuente asegurada. Fallo = sin participación en el ciclo CXL.
 4. **Entrada en líneas HBM para equipos de inspección.** Si la carga de validación back-end de HBM4E fluye hacia demanda de CLT / Burn-in. Una divulgación formal de especificaciones HBM por parte de la compañía sería la señal relevante.
 5. **Divulgación de ingresos por tester no de memoria (DDI / AP).** Una divulgación separada con la partida superando el 10% de los ingresos es la señal cuantitativa de diversificación.
 
 ---
 
-*Aviso legal: Solo para fines de investigación e información. No constituye asesoramiento de inversión. Los nombres citados son para ilustración analítica; los lectores deben realizar su propia diligencia debida y consultar a asesores autorizados antes de tomar cualquier decisión de inversión.*
+*Disclaimer: For research and information purposes only. Not investment advice. Names cited are for analytical illustration; readers should perform their own due diligence and consult licensed advisors before any investment decision.*

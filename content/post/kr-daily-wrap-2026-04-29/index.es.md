@@ -76,3 +76,7 @@ Pharmicell es una biotecnológica especializada en terapias celulares y material
 ---
 
 **Tags:** KOSPI, Korea stocks, Quality Compounder, Smart Money, Cycle Rerating, PEAD, SK스퀘어, SK하이닉스, 파미셀, 세명전기, 보성파워텍, infraestructura energética, semiconductores Corea
+
+---
+
+*Disclaimer: For research and information purposes only. Not investment advice. Names cited are for analytical illustration; readers should perform their own due diligence and consult licensed advisors before any investment decision.*

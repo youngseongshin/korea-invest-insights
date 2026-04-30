@@ -179,4 +179,4 @@ Kotaku引用的玩家评论：
 
 ---
 
-_本系列前六篇涵盖了Pearl Abyss《赤色沙漠》从上线至4月开发者更新的完整投资论演进过程。本文不构成任何投资建议，所有估算均基于模型假设，受已披露前提条件约束。_
+*Disclaimer: For research and information purposes only. Not investment advice. Names cited are for analytical illustration; readers should perform their own due diligence and consult licensed advisors before any investment decision.*

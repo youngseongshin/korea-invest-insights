@@ -171,4 +171,4 @@ series: ["pearl-abyss-crimson-desert-thesis"]
 
 ---
 
-**免责声明**：本文为研究性评论，不构成投资建议。Pearl Abyss 系作者持续跟踪论点系列的研究标的。随着新数据的到来，持仓、观点及价格目标可能随时调整。请独立进行研究判断。
+*Disclaimer: For research and information purposes only. Not investment advice. Names cited are for analytical illustration; readers should perform their own due diligence and consult licensed advisors before any investment decision.*

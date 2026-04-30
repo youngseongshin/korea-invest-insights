@@ -95,10 +95,10 @@ Sanil Electric manufactures transformers and electrical conversion equipment —
 
 The timing issue is acute. Today's DART filings include both a preliminary earnings announcement and a new supply contract — a double catalyst on the same day. The stock responded: Kiwoom market surface data shows trading volume at 3.8x average, RS percentile at 94.0, with a +29% bid premium. The close briefing noted a single-day gain of approximately +20%.
 
-Chasing a +20% day is not the framework's intent. The candidate is correctly flagged, but the entry question is whether a pullback toward the breakout reference (~₩237,000) establishes a base before a second leg.
+Chasing a +20% day is not the framework's intent. The candidate is correctly flagged, but the entry question is whether a pullback toward the breakout reference (\~₩237,000) establishes a base before a second leg.
 
 **What to check next:** Confirm the supply contract size relative to annual revenue. Monitor whether the 5-day institutional flow (+₩9.6B) extends or reverses after today's spike.
 
 ---
 
-*Screener data dated 2026-04-28. Meta screener and market surface data dated 2026-04-30. This post is a research candidate queue, not investment advice.*
+*Disclaimer: For research and information purposes only. Not investment advice. Names cited are for analytical illustration; readers should perform their own due diligence and consult licensed advisors before any investment decision.*

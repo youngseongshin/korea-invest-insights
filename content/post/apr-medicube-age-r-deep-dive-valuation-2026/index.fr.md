@@ -9,7 +9,7 @@ series: "K-Beauty Deep Dive"
 ---
 
 > **Date :** 2026-04-09
-> **Clôture :** 365 500 KRW | **Capitalisation boursière :** ~12 200 Mds KRW | **Plus haut 52 semaines :** 377 000 KRW
+> **Clôture :** 365 500 KRW | **Capitalisation boursière :** \~12 200 Mds KRW | **Plus haut 52 semaines :** 377 000 KRW
 > **Verdict :** Bonne entreprise, action solide — mais pas donnée
 > **Piliers :** Medicube + AGE-R + Expansion DTC mondiale/Physique
 
@@ -19,7 +19,7 @@ series: "K-Beauty Deep Dive"
 
 - **Verdict en une ligne :** Bonne entreprise, action solide en ce moment. Mais pas une action bon marché.
 - APR repose sur des cosmétiques centrés sur Medicube + des appareils de beauté à domicile AGE-R + une expansion mondiale des canaux de distribution.
-- Avec une capitalisation dépassant 12 000 Mds KRW, APR a surpassé Amorepacific (~9 500 Mds KRW) et LG H&H (~4 200 Mds KRW) pour devenir **la première entreprise de beauté coréenne par capitalisation boursière**. Il s'agit d'un changement structurel.
+- Avec une capitalisation dépassant 12 000 Mds KRW, APR a surpassé Amorepacific (\~9 500 Mds KRW) et LG H&H (\~4 200 Mds KRW) pour devenir **la première entreprise de beauté coréenne par capitalisation boursière**. Il s'agit d'un changement structurel.
 - Les fondamentaux sont excellents et le graphique est solide. La vraie question n'est pas tant la valorisation en elle-même, mais **la durée pendant laquelle cette hypercroissance peut se maintenir**.
 
 ---
@@ -55,7 +55,7 @@ C'est une structure bien supérieure à celle d'une entreprise de cosmétiques p
 
 | Date | Ventes cumulées | Notes |
 |------|----------------|-------|
-| Lancement 2021 | ~50 000 unités | Démarrage |
+| Lancement 2021 | \~50 000 unités | Démarrage |
 | Mai 2025 | 4 M d'unités | — |
 | Sep. 2025 | 5 M d'unités | — |
 | Jan. 2026 | **6 M+ d'unités** | Part internationale : 60 %+ |
@@ -71,8 +71,8 @@ Multiplication par 100 depuis le lancement. Le fait que les ventes à l'étrange
 | Indicateur | T4 2025 | Exercice 2025 | Objectif 2026 |
 |------------|---------|--------------|--------------|
 | Chiffre d'affaires | 548 Mds KRW | 1 530 Mds KRW (+111 % sur un an) | 2 100 Mds KRW |
-| Résultat opérationnel | 130 Mds KRW | 355 Mds KRW (~×3 sur un an) | — |
-| Marge opérationnelle | 23,8 % | 23,9 % | ~25 % |
+| Résultat opérationnel | 130 Mds KRW | 355 Mds KRW (\~×3 sur un an) | — |
+| Marge opérationnelle | 23,8 % | 23,9 % | \~25 % |
 
 Ce n'est pas seulement « bon ». C'est une **rare combinaison de forte croissance et de forte rentabilité simultanées**.
 
@@ -107,19 +107,19 @@ Ce n'est pas de la simple vente de consommables — c'est une structure **matér
 ### Niveau C : Expansion mondiale — Canal par Canal
 
 **États-Unis (Principal moteur de croissance) :**
-- Revenus US janv.-sept. 2025 : ~980 Mds KRW (+250 % sur un an)
+- Revenus US janv.-sept. 2025 : \~980 Mds KRW (+250 % sur un an)
 - TikTok Shop seul a généré plus de $102 M
 - **Ulta Beauty : déploiement complet dans les 1 400+ magasins** (août 2025) — classé n°1 en e-commerce skincare Ulta, n°2 toutes catégories
 - Ventes Ulta +312 % en fin d'année
 - **Négociations en cours pour entrer chez Walmart et Target**
 
 **Japon :**
-- T1 2025 revenus Japon : 29,3 Mds KRW (~×3 sur un an) ; T2 ~×4,7 sur un an
+- T1 2025 revenus Japon : 29,3 Mds KRW (\~×3 sur un an) ; T2 \~×4,7 sur un an
 - Lauréat des Qoo10 Japan Mega Beauty Awards 2025
 - Expansion physique via Don Quijote et autres enseignes de proximité/pharmacies
 
 **Europe :**
-- **Partenariat Sephora** : déploiement dans ~450 magasins dans 17 pays
+- **Partenariat Sephora** : déploiement dans \~450 magasins dans 17 pays
 - Enregistrement CPNP finalisé, exportations vers 27 pays autorisées
 - Entrée sur le marché britannique en sept. 2024 — le Collagen Jelly Cream en rupture de stock dès le lancement
 
@@ -150,10 +150,10 @@ Nous sommes encore dans **une phase de croissance concentrée sur une méga-marq
 |------------|--------|
 | Clôture actuelle | 365 500 KRW |
 | Plus haut 52 semaines | 377 000 KRW (proche de l'ATH) |
-| PER prévisionnel | ~30× |
+| PER prévisionnel | \~30× |
 | Objectif Mirae Asset | 350 000 KRW (déjà dépassé) |
 | Objectif Meritz | 450 000 KRW |
-| Consensus moyen | ~345 000 KRW |
+| Consensus moyen | \~345 000 KRW |
 
 Certains objectifs d'analystes ont déjà été dépassés. Le marché considère déjà cette valeur comme une **action de croissance premium** — des bonnes nouvelles continues sont nécessaires pour justifier ce niveau.
 
@@ -215,9 +215,9 @@ Qu'APR devienne la première entreprise de beauté coréenne par capitalisation 
 
 | Entreprise | Capitalisation | Profil |
 |------------|---------------|--------|
-| **APR** | **~12 200 Mds KRW** | Start-up, D2C, appareils + cosmétiques |
-| Amorepacific | ~9 500 Mds KRW | Chaebol, axé physique, en sortie de crise Chine |
-| LG H&H | ~4 200 Mds KRW | Chaebol, CA -35,8 % sur 3 ans |
+| **APR** | **\~12 200 Mds KRW** | Start-up, D2C, appareils + cosmétiques |
+| Amorepacific | \~9 500 Mds KRW | Chaebol, axé physique, en sortie de crise Chine |
+| LG H&H | \~4 200 Mds KRW | Chaebol, CA -35,8 % sur 3 ans |
 
 Le succès d'APR démontre que le leadership du K-beauty migre du **modèle chaebol vers le modèle start-up/marque indépendante**. La nouvelle formule D2C + TikTok/commerce social + internalisation des appareils écrase les modèles traditionnels.
 
@@ -227,7 +227,7 @@ Le succès d'APR démontre que le leadership du K-beauty migre du **modèle chae
 
 L'argument contraire le plus solide :
 
-> « APR s'est amélioré, mais acheter à un PER prévisionnel de ~30× près de l'ATH revient à parier que "la croissance de 40 %+ se poursuit." Avec une concentration Medicube à 90 %+ et si le cycle des appareils ralentit ou si les performances Ulta/Sephora déçoivent ? »
+> « APR s'est amélioré, mais acheter à un PER prévisionnel de \~30× près de l'ATH revient à parier que "la croissance de 40 %+ se poursuit." Avec une concentration Medicube à 90 %+ et si le cycle des appareils ralentit ou si les performances Ulta/Sephora déçoivent ? »
 
 Pourquoi cet argument est recevable :
 - Les actions de croissance premium nécessitent que les bonnes nouvelles **continuent d'affluer** pour justifier le cours actuel
@@ -260,3 +260,7 @@ Pourquoi cet argument est recevable :
 ---
 
 *Avertissement : Cette analyse est fournie à titre informatif uniquement et ne constitue pas un conseil en investissement. Les performances passées ne préjugent pas des résultats futurs. Effectuez toujours vos propres recherches avant de prendre toute décision d'investissement.*
+
+---
+
+*Disclaimer: For research and information purposes only. Not investment advice. Names cited are for analytical illustration; readers should perform their own due diligence and consult licensed advisors before any investment decision.*

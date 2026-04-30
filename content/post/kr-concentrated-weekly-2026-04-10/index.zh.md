@@ -124,4 +124,6 @@ Pearl Abyss（263750.KS）是韩国游戏开发商，以《黑色沙漠》系列
 
 2026年4月的韩国股市，短期噪音（地缘风险、外资流出、KOSPI波动）与长期信号（AI半导体结构性需求、头部企业盈利改善）并存。对于有能力穿越短期波动的国际投资者而言，三星电子（005930.KS）与三星电机（009150.KS）代表了以合理估值参与韩国AI供应链的核心路径；而Marvell Technology（MRVL）则提供了直接捕获AI数据中心基础设施增长的全球敞口。
 
-**风险提示**：本文基于公开市场数据与定性分析，不构成投资建议。韩国市场数据参考来源包括韩国交易所（KRX）、韩国金融监督院（FSS）电子公示系统（DART）及韩国银行公开数据。投资者应结合自身风险承受能力与合规要求独立判断。
+---
+
+*Disclaimer: For research and information purposes only. Not investment advice. Names cited are for analytical illustration; readers should perform their own due diligence and consult licensed advisors before any investment decision.*

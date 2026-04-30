@@ -89,3 +89,7 @@ draft: false
 5. **宏观层面**：中东局势、油价走向，以及大型科技公司资本开支后续解读
 
 当前市场整体信号为"表面BULL、情绪risk-off"——技术趋势股仍然存活，但指数层面的流动性压力不可忽视。对于布局韩国市场的国际投资者而言，5月开局的重点在于甄别真正有催化剂支撑的主线，而非追随短线弹性。
+
+---
+
+*Disclaimer: For research and information purposes only. Not investment advice. Names cited are for analytical illustration; readers should perform their own due diligence and consult licensed advisors before any investment decision.*

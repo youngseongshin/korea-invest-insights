@@ -90,3 +90,7 @@ The KOSPI200's technical setup heading into late April 2026 — multiple indicat
 ## Bottom Line for International Investors
 
 The Korean market's April 2026 story is not a broad index trade — it is a stock-specific opportunity concentrated in companies with direct exposure to the AI infrastructure supply chain (Samsung Electronics, Samsung Electro-Mechanics) and global AI platform monetization (Marvell Technology, Meta). The macro backdrop, dual central bank holds and a stabilizing USD/KRW rate, removes the largest exogenous risks that derailed Korean equities in prior cycles. Watch Samsung's April 29 earnings closely: it will either validate or test this week's risk-on positioning for the entire Korea semiconductor sector.
+
+---
+
+*Disclaimer: For research and information purposes only. Not investment advice. Names cited are for analytical illustration; readers should perform their own due diligence and consult licensed advisors before any investment decision.*

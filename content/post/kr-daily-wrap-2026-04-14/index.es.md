@@ -80,4 +80,4 @@ Empresa de cosmética y cuidado de la piel con fuerte presencia en exportaciones
 
 ---
 
-*Datos de mercado al cierre del 10–14 de abril de 2026. Este análisis es de carácter informativo y no constituye asesoramiento de inversión.*
+*Disclaimer: For research and information purposes only. Not investment advice. Names cited are for analytical illustration; readers should perform their own due diligence and consult licensed advisors before any investment decision.*

@@ -320,3 +320,7 @@ SKハイニックスを韓国のAI/HBM投資テーマとして追うグローバ
 - [SKハイニックス 2026年市場見通し](https://news.skhynix.com/2026-market-outlook-focus-on-the-hbm-led-memory-supercycle/) — HBMリーダーシップ、UBS/Goldman引用、2026年メモリ市場見通しの社内まとめ。
 
 *免責事項：本記事は調査・情報提供を目的としており、投資アドバイスではありません。言及された企業名は分析上の例示であり、読者は投資判断を行う前に自身でデューデリジェンスを実施し、認可を受けた専門家に相談してください。*
+
+---
+
+*Disclaimer: For research and information purposes only. Not investment advice. Names cited are for analytical illustration; readers should perform their own due diligence and consult licensed advisors before any investment decision.*

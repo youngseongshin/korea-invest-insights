@@ -31,13 +31,13 @@ Au 22 avril 2026 :
 | Indice | YTD 2026 | Année 2025 | Niveau actuel |
 |---|---:|---:|---|
 | **KOSPI** | **+49,0%** | +75% | 6 417,93 (record historique) |
-| **KOSDAQ** | **+27,7%** | ~+16% | 1 181,12 (sommet en 25 ans) |
-| Nikkei 225 | +15,0% | ~+20% | Proche du record historique |
-| FTSE 100 | +5,5% | ~+10% | 2e tier mondial |
+| **KOSDAQ** | **+27,7%** | \~+16% | 1 181,12 (sommet en 25 ans) |
+| Nikkei 225 | +15,0% | \~+20% | Proche du record historique |
+| FTSE 100 | +5,5% | \~+10% | 2e tier mondial |
 | S&P 500 | +3,0% | +17,2% | Leadership en rotation vers biens de conso. défensifs/énergie |
-| Nasdaq 100 | ~stable | +21,5% | Reprise partielle après le repli de mars |
-| DAX | -5% (début mars) | ~+20% | Reprise partielle |
-| CAC 40 | -3% (début mars) | ~+5% | Reprise limitée |
+| Nasdaq 100 | \~stable | +21,5% | Reprise partielle après le repli de mars |
+| DAX | -5% (début mars) | \~+20% | Reprise partielle |
+| CAC 40 | -3% (début mars) | \~+5% | Reprise limitée |
 
 _Sources : KRX, CNBC/Barclays, Trading Economics, FXStreet. Monnaies locales._
 
@@ -80,9 +80,9 @@ Les semi-conducteurs coréens ont historiquement été traités comme de purs cy
 
 ### Paysage concurrentiel
 
-Parts de marché HBM : SK Hynix ~60%, Samsung ~30%, Micron ~10%. La structure IDM de Samsung lui permet de viser 35% après la production de masse HBM4. Mais l'intégration dans la feuille de route de l'« Alliance Triade » SK Hynix-TSMC-NVIDIA préserve vraisemblablement le leadership de SK Hynix jusqu'à Rubin / Rubin CPX.
+Parts de marché HBM : SK Hynix \~60%, Samsung \~30%, Micron \~10%. La structure IDM de Samsung lui permet de viser 35% après la production de masse HBM4. Mais l'intégration dans la feuille de route de l'« Alliance Triade » SK Hynix-TSMC-NVIDIA préserve vraisemblablement le leadership de SK Hynix jusqu'à Rubin / Rubin CPX.
 
-- **Le GPU NVIDIA Vera Rubin** est livré avec 288 Go de HBM4 par unité — soit ~3× Blackwell. Les objectifs de livraison 2026-2027 de NVIDIA sont désormais limités par l'approvisionnement en HBM.
+- **Le GPU NVIDIA Vera Rubin** est livré avec 288 Go de HBM4 par unité — soit \~3× Blackwell. Les objectifs de livraison 2026-2027 de NVIDIA sont désormais limités par l'approvisionnement en HBM.
 - **HBM 16 couches d'ici Q4 2026** — exigence NVIDIA. Selon Ahn Ki-hyun du KSIA, « le passage 12→16 est sensiblement plus difficile que 8→12 ». La barrière de rendement soutient le prix premium HBM.
 - **Micron accélère** — $20Md de capex 2026 sur le mega-fab de l'Idaho. Une menace à court terme sur les parts de marché de SK Hynix existe, mais les volumes significatifs n'arriveront qu'à partir de 2027+.
 
@@ -91,11 +91,11 @@ Parts de marché HBM : SK Hynix ~60%, Samsung ~30%, Micron ~10%. La structure ID
 - **Samsung Q4 2025 OP** : ₩18T+, segment semi-conducteurs ₩15,1T (QoQ +166%, YoY +422%) — au-dessus du consensus
 - **SK Hynix Q4 2025 OP** : ₩16,2T sur ₩30,3T de chiffre d'affaires — supérieur au consensus de +11%
 - **Attentes SK Hynix 1T26** : résultat net +200%+ YoY, revenus ×2 (TradingKey). Revenus HBM annuels +200% YoY. Objectifs de cours : Samsung Sec ₩1,8M, IBK relevé ₩1,1M → ₩1,8M.
-- **Niveaux actuels** : Samsung ~₩219 000, SK Hynix ₩1 224 000 (21 avr., premier franchissement de ₩1,2M).
+- **Niveaux actuels** : Samsung \~₩219 000, SK Hynix ₩1 224 000 (21 avr., premier franchissement de ₩1,2M).
 
 ### Contexte de valorisation
 
-KOSPI 2026E P/E **8,8×** (2027E 7,8×) — sensiblement inférieur à la moyenne des marchés émergents. **Mais hors Samsung + SK Hynix, le KOSPI se traite à 12,9× pour un ROE ~20%.**
+KOSPI 2026E P/E **8,8×** (2027E 7,8×) — sensiblement inférieur à la moyenne des marchés émergents. **Mais hors Samsung + SK Hynix, le KOSPI se traite à 12,9× pour un ROE \~20%.**
 
 L'indice paraît bon marché non pas parce que la Corée est sous-valorisée, mais parce que la concentration des bénéfices des semi-conducteurs dilue mécaniquement le multiple. Lire le KOSPI comme un « marché bon marché » est une erreur d'analyse. Le bon cadre : **une position semi-conducteurs de grande taille assortie d'une optionalité sur la réforme de gouvernance.**
 
@@ -108,7 +108,7 @@ L'indice paraît bon marché non pas parce que la Corée est sous-valorisée, ma
 Deux causes structurelles :
 
 1. **Gouvernance des chaebols.** Les familles contrôlant les conglomérats les dirigent avec 5 à 10% du capital. Le sacrifice des actionnaires minoritaires (transactions intragroupes, détournement d'opportunités, ratios de fusion biaisés) était la norme, pas l'exception.
-2. **Faible efficacité du capital.** Bénéfices non distribués improductifs, taux de distribution ~20%, actions propres utilisées comme outil de contrôle. Le verdict des institutionnels internationaux : faible ROE × faible distribution = absence de thèse d'investissement structurelle.
+2. **Faible efficacité du capital.** Bénéfices non distribués improductifs, taux de distribution \~20%, actions propres utilisées comme outil de contrôle. Le verdict des institutionnels internationaux : faible ROE × faible distribution = absence de thèse d'investissement structurelle.
 
 Résultat : MSCI Korea se traitait avec une décote persistante de 30 à 40% par rapport à MSCI World sur la valeur comptable et le P/E prospectif.
 
@@ -209,7 +209,7 @@ Cette séparation est essentielle car les trois poches répondent à **des catal
 
 | Nom | Secteur | Thèse | Catalyseur |
 |---|---|---|---|
-| SK Hynix | Semi-conducteurs | Leader HBM, OP 1T26 ~×2 | Montée en charge Vera Rubin, qualification HBM 16 couches |
+| SK Hynix | Semi-conducteurs | Leader HBM, OP 1T26 \~×2 | Montée en charge Vera Rubin, qualification HBM 16 couches |
 | Samsung Electronics | Semi-conducteurs | Rattrapage HBM4, objectif 30→35% de parts | Qualification HBM4 NVIDIA, approvisionnement 16 couches Q4 2026 |
 | KB Financial | Banques | Annulation ₩2,3T d'actions propres, distribution 53% | DPA 2026E +25%+, réduction de capital exonérée ₩11T en 2027 |
 | Shinhan | Banques | Value-Up 2.0, ROE cible 10%+ | 3 ans de dividendes exonérés, DPA +10% annuel |
@@ -224,7 +224,7 @@ Cette séparation est essentielle car les trois poches répondent à **des catal
 
 ## Partie 7 — Les risques, nommément
 
-1. **Risque de concentration (priorité absolue).** Samsung + SK Hynix = 52% du résultat net KOSPI 2026E, 68% de la croissance des bénéfices, ~30% du volume quotidien. Le bêta KOSPI ≈ le bêta des semi-conducteurs coréens. Une exposition à un indice unique génère une concentration involontaire — la construction en 3 poches est la réponse.
+1. **Risque de concentration (priorité absolue).** Samsung + SK Hynix = 52% du résultat net KOSPI 2026E, 68% de la croissance des bénéfices, \~30% du volume quotidien. Le bêta KOSPI ≈ le bêta des semi-conducteurs coréens. Une exposition à un indice unique génère une concentration involontaire — la construction en 3 poches est la réponse.
 2. **Retournement du cycle mémoire.** Historiquement, les pics de cycle mémoire surviennent 2 à 3 mois après les pics de révisions des bénéfices. Goldman a révisé le BPA à la hausse 3 fois ; déterminer si la troisième est la dernière est la variable à surveiller. L'amélioration du rendement HBM4E + le capex de $20Md de Micron + le rattrapage de YMTC pourraient peser sur les prix 2027.
 3. **Géopolitique — Ormuz / péninsule coréenne.** La clôture à -7,24% du KOSPI en une séance en mars (intraday -12%) était liée à l'escalade USA-Iran. Une fermeture du détroit d'Ormuz touche directement la Corée via ses importations énergétiques (plus de 70% du pétrole vient du Moyen-Orient). Le rebond de +10% en une séance (le plus fort depuis 1985) illustre la résilience mais confirme la volatilité de régime. Le risque de queue propre à la péninsule coréenne demeure permanent.
 4. **Faiblesse du KRW.** 1 476/USD actuellement. Une faiblesse supplémentaire pèse sur les rendements des investisseurs USD non couverts. Selon Lee Young-gun de Toss Securities : « Un retour au début des 1 400 est peu probable à court terme. » Les exportateurs en bénéficient — semi-conducteurs/défense/transport maritime surperforment — donc la faiblesse du change est en partie auto-renforçante dans la composition du leadership.
@@ -244,9 +244,9 @@ Cette séparation est essentielle car les trois poches répondent à **des catal
 | Baissier | 15% | 5 000-5 500 | -14 à -22% | Retournement prématuré cycle mémoire + KRW 1 550+ |
 | Crise | 5% | < 5 000 | < -22% | Fermeture Ormuz + resserrement Fed + effondrement capex IA |
 
-Rendement espéré pondéré : **+7 à +9%** (cible ~6 900).
+Rendement espéré pondéré : **+7 à +9%** (cible \~6 900).
 
-Objectifs sell-side à 12 mois : **Goldman ~8 000, JPMorgan ~8 500**, Hyundai Sec 5 500, Daol 3 740-4 930 (la fourchette Daol est déjà sous le niveau spot — vraisemblablement déjà réalisée).
+Objectifs sell-side à 12 mois : **Goldman \~8 000, JPMorgan \~8 500**, Hyundai Sec 5 500, Daol 3 740-4 930 (la fourchette Daol est déjà sous le niveau spot — vraisemblablement déjà réalisée).
 
 ---
 
@@ -269,3 +269,7 @@ Objectifs sell-side à 12 mois : **Goldman ~8 000, JPMorgan ~8 500**, Hyundai Se
 ---
 
 _Cet article indépendant est associé à la série KOSDAQ Structurel 2026 (déclencheurs de capital → IPO tenbaggers → recensement de 27 noms → lacunes de couverture) et à la série Tenbagger Analysis 2026 (cadre de pair-trade KR ↔ US) sur ce blog. Rien dans ces pages ne constitue un conseil en investissement. Toutes les estimations citent des sources publiques et sont soumises aux hypothèses déclarées au 2026-04-24._
+
+---
+
+*Disclaimer: For research and information purposes only. Not investment advice. Names cited are for analytical illustration; readers should perform their own due diligence and consult licensed advisors before any investment decision.*

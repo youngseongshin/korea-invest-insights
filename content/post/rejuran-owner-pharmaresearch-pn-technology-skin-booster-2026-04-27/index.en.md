@@ -7,7 +7,7 @@ categories: ["Korea Market", "Medical Aesthetics", "Healthcare"]
 tags: ["rejuran", "pharmaresearch", "214450", "pn-technology", "polynucleotide", "pdrn", "skin-booster", "k-aesthetics", "medical-aesthetics", "hugel", "medytox", "classys", "korea-beauty", "salmon-dna", "injectables"]
 ---
 
-> 📚 See the [Olive Young, PharmaResearch and K-Beauty investment hub](/en/page/k-beauty-olive-young-pharmaresearch-hub/) for the full thread across Rejuran / PharmaResearch, Olive Young, CJ and APR / Medicube.
+> 📚 See the [Olive Young, PharmaResearch and K-Beauty investment hub](/page/k-beauty-olive-young-pharmaresearch-hub/) for the full thread across Rejuran / PharmaResearch, Olive Young, CJ and APR / Medicube.
 
 ## TL;DR
 
@@ -256,4 +256,4 @@ For global readers searching "who owns Rejuran" or "rejuran parent company," the
 
 ---
 
-**Disclaimer**: This post is research commentary, not investment advice. Tickers cited are illustrative for the K-aesthetics basket framework, not recommendations. Mechanism-of-action descriptions are summarized from publicly available regulatory and clinical literature and are not medical advice. Do your own due diligence and consult licensed financial and medical professionals before any decision.
+*Disclaimer: For research and information purposes only. Not investment advice. Names cited are for analytical illustration; readers should perform their own due diligence and consult licensed advisors before any investment decision.*

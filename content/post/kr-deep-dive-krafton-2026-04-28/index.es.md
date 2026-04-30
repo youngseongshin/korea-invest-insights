@@ -11,7 +11,7 @@ draft: false
 
 # Krafton: El creador de PUBG apostando por inZOI y un futuro de 3 billones de wones
 
-**Krafton, Inc. (ticker: 259960.KS, KOSPI)** es la editora surcoreana de videojuegos conocida mundialmente como la creadora de *PUBG: Battlegrounds* — el fenómeno del battle royale que dio origen a todo un género y que, a marzo de 2026, nueve años después de su lanzamiento, sigue congregando más de 1,3 millones de jugadores simultáneos en Steam en sus momentos pico. En su informe anual de resultados de 2025, publicado el 9 de febrero de 2026, Krafton anunció ingresos anuales récord de **KRW 3,3266 billones** (~USD 2.400 millones), consolidando su entrada al exclusivo "club de los 3 billones de wones" en Corea y reafirmando su posición como una de las franquicias de videojuegos con mayor capacidad de generación de caja en Asia. Con una cartera creciente de nuevas IPs — entre ellas el simulador de vida con inteligencia artificial *inZOI* — y un roster de estudios que ya suma 19 equipos, Krafton evoluciona en silencio desde ser una empresa de una sola franquicia hasta convertirse en una casa de contenidos multi-IP con verdaderas ambiciones globales.
+**Krafton, Inc. (ticker: 259960.KS, KOSPI)** es la editora surcoreana de videojuegos conocida mundialmente como la creadora de *PUBG: Battlegrounds* — el fenómeno del battle royale que dio origen a todo un género y que, a marzo de 2026, nueve años después de su lanzamiento, sigue congregando más de 1,3 millones de jugadores simultáneos en Steam en sus momentos pico. En su informe anual de resultados de 2025, publicado el 9 de febrero de 2026, Krafton anunció ingresos anuales récord de **KRW 3,3266 billones** (\~USD 2.400 millones), consolidando su entrada al exclusivo "club de los 3 billones de wones" en Corea y reafirmando su posición como una de las franquicias de videojuegos con mayor capacidad de generación de caja en Asia. Con una cartera creciente de nuevas IPs — entre ellas el simulador de vida con inteligencia artificial *inZOI* — y un roster de estudios que ya suma 19 equipos, Krafton evoluciona en silencio desde ser una empresa de una sola franquicia hasta convertirse en una casa de contenidos multi-IP con verdaderas ambiciones globales.
 
 ---
 
@@ -26,7 +26,7 @@ draft: false
 | **Marcas principales** | PUBG: Battlegrounds, PUBG Mobile (licencia Tencent), inZOI, MIMESIS |
 | **Sede** | Seúl, Corea del Sur |
 | **CEO** | Chang-Han Kim (김창한) |
-| **Ingresos FY2025** | KRW 3,3266 billones (~USD 2.400M) |
+| **Ingresos FY2025** | KRW 3,3266 billones (\~USD 2.400M) |
 | **Beneficio operativo FY2025** | KRW 1,0544 billones |
 
 **Tesis en pocas palabras:** Krafton construyó una de las franquicias de servicio en vivo más duraderas de la historia del videojuego en PC con PUBG, y luego utilizó una década de flujos de caja para financiar una cartera de desarrollo de 26 títulos. Hoy está en transición: deja de ser un operador de una sola IP para convertirse en una compañía de IP diversificada, con exposición estructural al boom del videojuego móvil en India, al género de simulación de vida a nivel global y a aplicaciones nacientes de IA física — todo ello respaldado por un balance con deuda mínima y más de KRW 1 billón en caja neta.
@@ -168,11 +168,11 @@ Los pesos en los ETFs varían y se actualizan periódicamente; consulte los foll
 
 | Métrica | FY2023 | FY2024 | FY2025 |
 |---|---|---|---|
-| Ingresos (KRW mil millones) | ~1.910 | 2.709,8 | 3.326,6 |
+| Ingresos (KRW mil millones) | \~1.910 | 2.709,8 | 3.326,6 |
 | Crecimiento interanual de ingresos | — | +41,8% | +22,8% |
-| Beneficio operativo (KRW mil millones) | ~768 | 1.182,5 | 1.054,4 |
-| Margen operativo | — | ~43,6% | ~31,7% |
-| Beneficio neto (KRW mil millones) | ~594 | 1.302,6 | n/d |
+| Beneficio operativo (KRW mil millones) | \~768 | 1.182,5 | 1.054,4 |
+| Margen operativo | — | \~43,6% | \~31,7% |
+| Beneficio neto (KRW mil millones) | \~594 | 1.302,6 | n/d |
 | Margen EBITDA ajustado | — | 51,3% | n/d |
 
 *Fuentes: comunicado de resultados anuales de Krafton (9 de febrero de 2026), informe anual en DART (사업보고서) presentado para FY2024, materiales de IR de la compañía. Datos de segmentos detallados de FY2025 pendientes de la presentación anual completa.*
@@ -194,4 +194,4 @@ El reposicionamiento corporativo anunciado en febrero de 2026 — centrado en "B
 
 ---
 
-> **Descargo de responsabilidad:** Este análisis tiene únicamente fines informativos y no constituye asesoramiento de inversión. Todos los datos financieros citados proceden de registros públicos de la empresa, comunicados de prensa y divulgaciones regulatorias. El desempeño financiero pasado de una empresa no es indicativo de resultados futuros. Los inversores deben realizar su propia diligencia debida y consultar a un asesor financiero autorizado antes de tomar cualquier decisión de inversión.
+*Disclaimer: For research and information purposes only. Not investment advice. Names cited are for analytical illustration; readers should perform their own due diligence and consult licensed advisors before any investment decision.*

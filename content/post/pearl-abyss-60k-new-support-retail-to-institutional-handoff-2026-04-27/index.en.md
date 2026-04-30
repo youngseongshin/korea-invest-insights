@@ -9,7 +9,7 @@ tags: ["pearl-abyss", "263750", "crimson-desert", "short-selling", "tape-reading
 series: ["pearl-abyss-crimson-desert-thesis"]
 ---
 
-> **Pearl Abyss research hub**: This note is part of the [Pearl Abyss and Crimson Desert investment research hub](/en/page/pearl-abyss-crimson-desert-hub/). Product data sits in [Patch 1.04](/en/post/pearl-abyss-crimson-desert-patch-104-witcher-moment-2026-04-23/) and [post-patch weekend data](/en/post/pearl-abyss-crimson-desert-post-patch-weekend-data-2026-04-27/); valuation follow-through sits in the [Shinhan target-price gap](/en/post/pearl-abyss-shinhan-target-price-gap-analysis-2026-04-29/).
+> **Pearl Abyss research hub**: This note is part of the [Pearl Abyss and Crimson Desert investment research hub](/page/pearl-abyss-crimson-desert-hub/). Product data sits in [Patch 1.04](/post/pearl-abyss-crimson-desert-patch-104-witcher-moment-2026-04-23/) and [post-patch weekend data](/post/pearl-abyss-crimson-desert-post-patch-weekend-data-2026-04-27/); valuation follow-through sits in the [Shinhan target-price gap](/post/pearl-abyss-shinhan-target-price-gap-analysis-2026-04-29/).
 
 > **Series — Pearl Abyss Crimson Desert Thesis (Part 10)**
 > Part 9 covered the post-1.04.00 weekend game-data read (CCU -13% but new-negative reviews -49.7%). This post covers the **tape side**: April 27 was the day ₩60,000 stopped being a resistance and started being a support — and the way that conversion happened says something specific about who is now holding the stock.
@@ -19,7 +19,7 @@ series: ["pearl-abyss-crimson-desert-thesis"]
 ## TL;DR
 
 - **April 27 was not a "no-shorts day."** It was the day Pearl Abyss absorbed short-selling, foreign-house outflow, and Kiwoom-led retail supply *and still made ₩60,000 the first-line support.*
-- Official short volume: **75,930 shares / ₩4.585B / VWAP ~₩60,390.** Short share of total volume and value: **~7.2%**.
+- Official short volume: **75,930 shares / ₩4.585B / VWAP \~₩60,390.** Short share of total volume and value: **\~7.2%**.
 - Close ₩60,200 sits just below short-VWAP ₩60,390. **If tomorrow holds above ₩60,400, today's shorts immediately go offside.**
 - Flow structure was **not foreign-led mass buying.** It was **Kiwoom (retail) + foreign-house net selling + 75,930 shares of official shorts** absorbed by **Shinhan / Korea Investment-led institutional buying.** This is a textbook **retail → institutional handoff.**
 - Positioning read: **first-line support confirmation, not a second-stage breakout.** The next factors are ₩60,400, ₩61,700, ₩62,600, and whether institutional absorption persists.
@@ -103,10 +103,10 @@ Regular-session VWAP across all flow:
 Today's short volume is:
 
 - Roughly equal to April 24
-- **~28% of the April 23 mega-print** (269,865 sh)
-- **~63%** of the trailing 5-day average
-- **~51%** of the trailing 10-day average
-- **~54%** of the trailing 20-day average
+- **\~28% of the April 23 mega-print** (269,865 sh)
+- **\~63%** of the trailing 5-day average
+- **\~51%** of the trailing 10-day average
+- **\~54%** of the trailing 20-day average
 
 Today was **not a re-aggression day** for shorts. They were present, but they failed to break price.
 
@@ -302,7 +302,7 @@ Three things to watch starting tomorrow:
    - VWAP falling while price holds → shorts at a disadvantage
 
 3. **Short balance** (KRX disclosure)
-   - Pre-April-22 range: ~1.76–1.91M sh
+   - Pre-April-22 range: \~1.76–1.91M sh
    - Decreasing → covering
    - Maintained / increasing → shorts still committed
 
@@ -335,9 +335,9 @@ Crimson Desert sales / review thesis intact
 
 - April 27, 2026 close: ₩60,200 (+5.61%); H ₩61,700, L ₩58,700; volume 1,052,139; turnover ₩63.64B.
 - NXT/pre-market inclusive: H ₩62,600 / L ₩58,100; cum. volume 1,398,606; cum. turnover ₩84.21B.
-- Official short volume 75,930 shares / ₩4,585,410,000; short VWAP ₩60,390; short share of volume & value ~7.2%.
+- Official short volume 75,930 shares / ₩4,585,410,000; short VWAP ₩60,390; short share of volume & value \~7.2%.
 - Uptick-rule applied: 55,201 sh @ ₩60,281; uptick-rule exempt: 20,729 sh @ ₩60,681.
-- Today's regular-session VWAP: ~₩60,486.
+- Today's regular-session VWAP: \~₩60,486.
 - Net broker estimates: Shinhan +51,245; Korea Investment +20,419; NH -16,581; Kiwoom -62,704; foreign-house est. -38,336.
 - April 23 short volume reference: 269,865 sh / ₩149.2B (the recent peak).
 
@@ -361,4 +361,4 @@ Crimson Desert sales / review thesis intact
 
 ---
 
-**Disclaimer**: This post is research commentary, not investment advice. Pearl Abyss is covered as part of the author's ongoing thesis series. Positions, conditions, and price levels can change as new data arrives. Do your own work.
+*Disclaimer: For research and information purposes only. Not investment advice. Names cited are for analytical illustration; readers should perform their own due diligence and consult licensed advisors before any investment decision.*

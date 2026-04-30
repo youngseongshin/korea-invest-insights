@@ -62,12 +62,12 @@ Le fossé défensif de SK hynix dans la HBM est à la fois technique et relation
 
 SK hynix présente deux grandes familles de produits :
 
-**DRAM (~70 % du chiffre d'affaires)**
+**DRAM (\~70 % du chiffre d'affaires)**
 - *DRAM serveur, PC et mobile conventionnelle* — la base volumique à fort débit, qui bénéficie de la discipline d'offre du secteur et de la reprise de la demande
 - *HBM (HBM3, HBM3E, en transition vers HBM4)* — le moteur de croissance premium ; la HBM affiche une prime d'ASP rapportée de 5 à 8 fois par bit par rapport à la DRAM conventionnelle et gonfle de façon disproportionnée les marges consolidées à mesure que le mix produit évolue
 - La part de la HBM dans les revenus DRAM totaux augmente de façon significative chaque trimestre
 
-**NAND (~30 % du chiffre d'affaires)**
+**NAND (\~30 % du chiffre d'affaires)**
 - *NAND client et grand public* — SSD pour PC et stockage mobile ; plus banalisé et cyclique
 - *SSD entreprise via Solidigm* — le sous-segment à la croissance la plus rapide ; les vérifications récentes auprès des canaux de distribution et nos outils de veille internes indiquent une forte hausse des prix des eSSD, portée par la demande des datacentres en stockage NVMe haute capacité
 
@@ -170,3 +170,7 @@ Les investisseurs internationaux peuvent accéder à SK hynix (000660.KS) direct
 ---
 
 *Cette analyse est fournie à titre informatif uniquement et ne constitue pas un conseil en investissement. Les performances passées ne préjugent pas des résultats futurs. Toutes les données financières mentionnées sont issues de déclarations publiques de l'entreprise, de documents de relations investisseurs et de recherches sectorielles disponibles à la date de publication. Les investisseurs sont invités à effectuer leurs propres vérifications et à consulter un conseiller financier qualifié avant de prendre toute décision d'investissement.*
+
+---
+
+*Disclaimer: For research and information purposes only. Not investment advice. Names cited are for analytical illustration; readers should perform their own due diligence and consult licensed advisors before any investment decision.*

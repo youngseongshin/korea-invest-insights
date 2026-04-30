@@ -15,8 +15,8 @@ series: ["semiscope-2026"]
 
 ## Bài Viết Liên Quan
 
-- [SemiScope: OpenEdges Technology - Nền Tảng IP Hệ Thống Bộ Nhớ Hàn Quốc Với Quyền Chọn Đường Cong J Royalty](/en/post/semiscope-openedges-technology-ip-platform-2026-04-25/)
-- [SemiScope: Ba Tên Tuổi ATE & IP Bộ Nhớ Hàn Quốc Được Xếp Hạng Lại — Tại Sao Exicon Mới Là Giao Dịch Đường Cong J 2026, Không Phải Cái Tên Bị Bỏ Quên](/en/post/semiscope-neosem-exicon-openedge-rerank-2026-04-25/)
+- [SemiScope: OpenEdges Technology - Nền Tảng IP Hệ Thống Bộ Nhớ Hàn Quốc Với Quyền Chọn Đường Cong J Royalty](/post/semiscope-openedges-technology-ip-platform-2026-04-25/)
+- [SemiScope: Ba Tên Tuổi ATE & IP Bộ Nhớ Hàn Quốc Được Xếp Hạng Lại — Tại Sao Exicon Mới Là Giao Dịch Đường Cong J 2026, Không Phải Cái Tên Bị Bỏ Quên](/post/semiscope-neosem-exicon-openedge-rerank-2026-04-25/)
 
 ---
 
@@ -353,4 +353,6 @@ TSS và đơn vị tại Nhật củng cố nền tảng IP cốt lõi. OpenEdge
 - Bài viết của Design-Reuse về thương mại hóa LPDDR6/5X: [OpenEdges thúc đẩy thương mại hóa IP hệ thống bộ nhớ LPDDR6/5X](https://www.design-reuse.com/news/202530336-openedges-advances-commercialization-of-lpddr6-5x-memory-subsystem-ip-targeting-next-generation-ai-and-hpc-markets/).
 - Ảnh chụp thị trường dùng làm tham chiếu định giá: [Trang cổ phiếu Maeil Business cho OpenEdges Technology](https://stock.mk.co.kr/price/home/KR7394280002).
 
-*Tuyên bố từ chối trách nhiệm: Chỉ nhằm mục đích nghiên cứu và thông tin. Không phải lời khuyên đầu tư. Các tên được đề cập chỉ để minh họa phân tích; độc giả nên tự thực hiện thẩm định và tham khảo các cố vấn có giấy phép trước bất kỳ quyết định đầu tư nào.*
+---
+
+*Disclaimer: For research and information purposes only. Not investment advice. Names cited are for analytical illustration; readers should perform their own due diligence and consult licensed advisors before any investment decision.*

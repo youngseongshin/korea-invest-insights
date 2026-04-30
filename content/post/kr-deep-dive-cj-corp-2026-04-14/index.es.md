@@ -217,4 +217,4 @@ La tendencia K-beauty ha pasado de nicho a corriente principal. La infraestructu
 
 ---
 
-> **Aviso legal**: Este análisis tiene únicamente fines informativos y no constituye asesoramiento de inversión. Todas las cifras financieras están obtenidas de divulgaciones disponibles públicamente y están sujetas a cambios. El rendimiento pasado de cualquier valor no garantiza resultados futuros. Los inversores deben realizar su propia diligencia debida y consultar con un asesor financiero cualificado antes de tomar decisiones de inversión.
+*Disclaimer: For research and information purposes only. Not investment advice. Names cited are for analytical illustration; readers should perform their own due diligence and consult licensed advisors before any investment decision.*

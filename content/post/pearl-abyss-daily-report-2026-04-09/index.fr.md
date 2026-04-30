@@ -144,3 +144,7 @@ Pearl Abyss traverse actuellement une phase où **le cours ne s'effondre pas, ma
 ---
 
 *Avertissement : Cette analyse est fournie à titre informatif uniquement et ne constitue pas un conseil en investissement. Les performances passées ne préjugent pas des résultats futurs. Effectuez toujours vos propres vérifications avant de prendre toute décision d'investissement.*
+
+---
+
+*Disclaimer: For research and information purposes only. Not investment advice. Names cited are for analytical illustration; readers should perform their own due diligence and consult licensed advisors before any investment decision.*

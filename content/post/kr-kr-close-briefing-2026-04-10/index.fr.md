@@ -73,3 +73,7 @@ Deux idées hors-screener méritent l'attention des investisseurs à moyen terme
 La séance du 10 avril 2026 sur le KOSPI illustre parfaitement le type de marché que les gérants de fonds émergents doivent naviguer en ce moment en Corée : **un bull market sélectif**, où la surperformance appartient aux leaders sectoriels — semi-conducteurs, composants AI, infrastructure télécom — et non à l'ensemble de la cote. Pourquoi les investisseurs étrangers surpondèrent-ils les actions coréennes de semi-conducteurs en ce moment ? La réponse réside dans la convergence de la demande AI globale, du cycle de restockage mémoire et des valorisations encore compétitives de Samsung Electronics par rapport à ses pairs taïwanais et américains.
 
 Les données de flux KRX (Korea Exchange) et les rapports FSS (Financial Supervisory Service) disponibles dans les prochains jours permettront de confirmer si cette concentration sectorielle s'installe comme un régime durable ou s'estompe avec la prochaine rotation. Dans l'intervalle, la discipline prime sur l'enthousiasme.
+
+---
+
+*Disclaimer: For research and information purposes only. Not investment advice. Names cited are for analytical illustration; readers should perform their own due diligence and consult licensed advisors before any investment decision.*

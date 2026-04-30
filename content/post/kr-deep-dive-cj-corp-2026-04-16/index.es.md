@@ -177,4 +177,4 @@ Ofrece exposición indirecta a CJ Olive Young —la columna vertebral minorista 
 
 ---
 
-*Este análisis tiene únicamente fines informativos y no constituye asesoramiento de inversión. Todos los datos financieros se basan en comunicaciones públicas e informes recientes disponibles a la fecha de publicación. La rentabilidad pasada no es indicativa de resultados futuros. Los inversores deben realizar su propia diligencia debida antes de tomar cualquier decisión de inversión.*
+*Disclaimer: For research and information purposes only. Not investment advice. Names cited are for analytical illustration; readers should perform their own due diligence and consult licensed advisors before any investment decision.*

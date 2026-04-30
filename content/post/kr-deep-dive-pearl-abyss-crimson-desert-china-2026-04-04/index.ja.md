@@ -212,3 +212,7 @@ Pearl Abyssはグローバルでのブラックデザートオンライン運営
 *本記事は情報提供および教育目的のみを目的としており、財務アドバイス、投資推奨、または有価証券の売買の申し込みを構成するものではありません。すべてのデータは2026年4月4日時点で公開されている情報に基づいています。販売推定値および収益予測は一定の前提に基づいており、実際の結果と大きく異なる可能性があります。投資家は独自のリサーチを行い、投資判断を下す前に認可を受けた金融アドバイザーに相談することをお勧めします。筆者は本記事で言及されている有価証券のポジションを保有している可能性があります。*
 
 *Korean Gaming Studios シリーズ — 2026年4月4日掲載*
+
+---
+
+*Disclaimer: For research and information purposes only. Not investment advice. Names cited are for analytical illustration; readers should perform their own due diligence and consult licensed advisors before any investment decision.*

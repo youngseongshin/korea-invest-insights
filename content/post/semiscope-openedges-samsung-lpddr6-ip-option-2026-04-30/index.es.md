@@ -15,8 +15,8 @@ series: ["semiscope-2026"]
 
 ## Lecturas Relacionadas
 
-- [SemiScope: OpenEdges Technology - La Plataforma Coreana de IP de Subsistema de Memoria con una Opción de Curva J en Regalías](/en/post/semiscope-openedges-technology-ip-platform-2026-04-25/)
-- [SemiScope: Tres Nombres Coreanos de ATE e IP de Memoria Reclasificados — Por Qué Exicon es la Apuesta de la Curva J en 2026, No la Reflexión Tardía](/en/post/semiscope-neosem-exicon-openedge-rerank-2026-04-25/)
+- [SemiScope: OpenEdges Technology - La Plataforma Coreana de IP de Subsistema de Memoria con una Opción de Curva J en Regalías](/post/semiscope-openedges-technology-ip-platform-2026-04-25/)
+- [SemiScope: Tres Nombres Coreanos de ATE e IP de Memoria Reclasificados — Por Qué Exicon es la Apuesta de la Curva J en 2026, No la Reflexión Tardía](/post/semiscope-neosem-exicon-openedge-rerank-2026-04-25/)
 
 ---
 
@@ -353,4 +353,6 @@ Con una capitalización de mercado superior a KRW 500B y aproximadamente 17x las
 - Cobertura de Design-Reuse sobre la comercialización de LPDDR6/5X: [OpenEdges avanza en la comercialización del IP de subsistema de memoria LPDDR6/5X](https://www.design-reuse.com/news/202530336-openedges-advances-commercialization-of-lpddr6-5x-memory-subsystem-ip-targeting-next-generation-ai-and-hpc-markets/).
 - Instantánea de mercado utilizada como referencia de valoración: [Página de la acción de OpenEdges Technology en Maeil Business](https://stock.mk.co.kr/price/home/KR7394280002).
 
-*Descargo de responsabilidad: Solo para fines de investigación e información. No constituye asesoramiento de inversión. Los nombres citados son para ilustración analítica; los lectores deben realizar su propia diligencia debida y consultar a asesores autorizados antes de tomar cualquier decisión de inversión.*
+---
+
+*Disclaimer: For research and information purposes only. Not investment advice. Names cited are for analytical illustration; readers should perform their own due diligence and consult licensed advisors before any investment decision.*

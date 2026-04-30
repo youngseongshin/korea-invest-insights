@@ -85,4 +85,4 @@ Una de las marcas de snacks más reconocidas en Asia, con operaciones en China, 
 
 ---
 
-*Datos de cierre de mercado 22-abr-2026 (KST). Contenido informativo, no constituye asesoramiento de inversión.*
+*Disclaimer: For research and information purposes only. Not investment advice. Names cited are for analytical illustration; readers should perform their own due diligence and consult licensed advisors before any investment decision.*

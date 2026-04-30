@@ -255,3 +255,7 @@ Với độc giả toàn cầu đang tìm kiếm "rejuran thuộc về ai" hay "
 ---
 
 **Tuyên bố miễn trách nhiệm**: Bài viết này là bình luận nghiên cứu, không phải tư vấn đầu tư. Các mã cổ phiếu được đề cập mang tính minh họa cho khung rổ K-aesthetics, không phải khuyến nghị. Mô tả cơ chế tác động được tóm tắt từ tài liệu pháp lý và lâm sàng công khai và không phải là lời khuyên y tế. Hãy tự thẩm định và tham khảo chuyên gia tài chính và y tế có chứng chỉ trước bất kỳ quyết định nào.
+
+---
+
+*Disclaimer: For research and information purposes only. Not investment advice. Names cited are for analytical illustration; readers should perform their own due diligence and consult licensed advisors before any investment decision.*

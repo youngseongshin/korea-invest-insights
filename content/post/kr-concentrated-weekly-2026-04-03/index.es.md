@@ -79,3 +79,7 @@ El mercado coreano no está en modo de expansión. Está en modo de selección. 
 Para los inversores internacionales, el mensaje es claro. LG Innotek ofrece la combinación más atractiva de catalizadores fundamentales y técnicos en el universo coreano de mediana capitalización. NH Investment & Securities aporta exposición al ciclo regulatorio financiero con cobertura de dividendo. Pearl Abyss y RFHIC son historias de seguimiento, no de entrada nueva.
 
 La disciplina en este entorno no consiste en hacer más operaciones. Consiste en saber esperar.
+
+---
+
+*Disclaimer: For research and information purposes only. Not investment advice. Names cited are for analytical illustration; readers should perform their own due diligence and consult licensed advisors before any investment decision.*

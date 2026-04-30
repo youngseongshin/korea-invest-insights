@@ -419,4 +419,6 @@ Ambas pueden ser ciertas.
 - La participación de Hyundai Motor/Kia como inversores estratégicos es significativa como señal, pero la sinergia de ingresos comerciales directos es [No clara].
 - El apoyo del proyecto de IA soberana es estratégicamente importante, pero la selección final y la conversión en ingresos comerciales siguen siendo [No claras].
 
-*Aviso legal: Solo para fines de investigación e información. No constituye asesoramiento de inversión. Los nombres citados son a efectos de ilustración analítica; los lectores deben realizar su propia diligencia debida y consultar a asesores con licencia antes de tomar cualquier decisión de inversión.*
+---
+
+*Disclaimer: For research and information purposes only. Not investment advice. Names cited are for analytical illustration; readers should perform their own due diligence and consult licensed advisors before any investment decision.*

@@ -28,7 +28,7 @@ draft: false
 
 ## TL;DR
 
-- **Why the stock moved**: (1) FC-BGA entered Nvidia's Vera Rubin ecosystem via NV Switch and then as **first vendor on Groq3 LPU** (Q2 2026 mass production) — a confirmed slot in the AI-server package-substrate value chain; (2) MLCC pricing cycle turned as AI-server content exploded (~600,000 MLCCs per VR200 NVL72) and Murata / Taiyo Yuden led hikes; (3) the KRW 1.8T Vietnam expansion and Sumitomo glass-substrate JV made the 2027+ growth axis visible.
+- **Why the stock moved**: (1) FC-BGA entered Nvidia's Vera Rubin ecosystem via NV Switch and then as **first vendor on Groq3 LPU** (Q2 2026 mass production) — a confirmed slot in the AI-server package-substrate value chain; (2) MLCC pricing cycle turned as AI-server content exploded (\~600,000 MLCCs per VR200 NVL72) and Murata / Taiyo Yuden led hikes; (3) the KRW 1.8T Vietnam expansion and Sumitomo glass-substrate JV made the 2027+ growth axis visible.
 - **Investor framing**: A parts-and-substrate leverage play on a Jevons-paradox AI infrastructure cycle. Not a cyclical recovery — a **structural mix shift plus pricing-power handover**. Event-driven (1Q26 print, Murata price call, Groq3 ramp) overlapping with quality-compounder optics.
 - **Next action**: watch 1Q26 results late-April → component and package OPM trajectory → formal Murata price-hike date in 2Q as the confirmation event. Hold, or scale in on pullbacks.
 
@@ -52,8 +52,8 @@ draft: false
 - **Core products**: (1) high-capacity, high-temperature MLCC for AI servers, (2) FC-BGA for AI accelerators (NV Switch, Groq3 LPU, AMD MI series).
 - **Numbers**: 2025 revenue KRW 11.3T (record); operating profit KRW 913.3B (+24.3% YoY). 2026E consensus OP: KRW 1.1–1.28T. Component OPM structurally rebounding.
 - **Moat summary**: Global #2 in MLCC (duopoly with Murata). Korea's first server-grade FC-BGA volume producer (since 2022) and one of only a handful of high-end server-substrate capable names globally. In-house know-how in fine patterning, large-area and high-layer-count substrates, low-loss materials.
-- **Trend vector**: **Strong tailwind.** AI servers need ~20× the MLCC content of smartphones (≈1,000 per phone vs. ~600,000 per AI server). FC-BGA large-area, high-layer trend is consuming supply capacity.
-- **Quantum-jump triggers**: (a) A 10% MLCC ASP hike carries ~KRW 600B operating-profit leverage; (b) glass-substrate mass production entering 2027; (c) graduation to Nvidia Tier-1 supplier.
+- **Trend vector**: **Strong tailwind.** AI servers need \~20× the MLCC content of smartphones (≈1,000 per phone vs. \~600,000 per AI server). FC-BGA large-area, high-layer trend is consuming supply capacity.
+- **Quantum-jump triggers**: (a) A 10% MLCC ASP hike carries \~KRW 600B operating-profit leverage; (b) glass-substrate mass production entering 2027; (c) graduation to Nvidia Tier-1 supplier.
 - **Investor stance**: **Technology leadership + event-driven + valuation re-rating — all overlapping.** Short-term overheated zone, but the structural shift is still mid-play.
 
 ---
@@ -72,10 +72,10 @@ Until recently SEMCO was seen as a Samsung proxy — PC CPU substrates plus flag
 
 | Segment | Key products | 2025 rev | Mix | YoY |
 |---|---|---|---|---|
-| **Components** | MLCC, power inductors, chip resistors | ~46,000 | ~41% | +low teens |
-| **Package Solutions** | FC-BGA, BGA, FC-CSP | ~22,000 | ~19% | Server FC-BGA +17% |
-| **Optical Solutions** | Camera modules, comms modules | ~37,000 | ~33% | +9% |
-| **Other / automotive** | — | ~8,000 | ~7% | — |
+| **Components** | MLCC, power inductors, chip resistors | \~46,000 | \~41% | +low teens |
+| **Package Solutions** | FC-BGA, BGA, FC-CSP | \~22,000 | \~19% | Server FC-BGA +17% |
+| **Optical Solutions** | Camera modules, comms modules | \~37,000 | \~33% | +9% |
+| **Other / automotive** | — | \~8,000 | \~7% | — |
 | **Total** | | **113,145** | 100% | +9.9% |
 
 > [Inferred] Annual segment figures are cumulative from quarterly filings. 4Q25 standalone components revenue of KRW 1.32T was a single-quarter record.
@@ -92,11 +92,11 @@ Until recently SEMCO was seen as a Samsung proxy — PC CPU substrates plus flag
 
 | | 2023 | 2024 | 2025 | 2026E | Read |
 |---|---|---|---|---|---|
-| Revenue (KRW T) | ~9.4 | ~10.3 | 11.31 | 12.3–12.8E | 3Y CAGR ~10% |
-| Operating profit (KRW 100M) | ~6,300 | ~7,343 | 9,133 | 11,000–12,800E | [Inferred] sell-side range |
-| OPM | ~6.7% | ~7.1% | 8.1% | **9–10%E** | Structural lift from ASP + mix |
-| Component OPM | ~13% | ~14% | ~16% | 18–20%E | MLCC ASP the driver |
-| Package Solutions OP (KRW 100M) | ~1,355 | ~2,000 | 3,861E (Mirae) | 5,046E | FC-BGA +10% ASP embedded |
+| Revenue (KRW T) | \~9.4 | \~10.3 | 11.31 | 12.3–12.8E | 3Y CAGR \~10% |
+| Operating profit (KRW 100M) | \~6,300 | \~7,343 | 9,133 | 11,000–12,800E | [Inferred] sell-side range |
+| OPM | \~6.7% | \~7.1% | 8.1% | **9–10%E** | Structural lift from ASP + mix |
+| Component OPM | \~13% | \~14% | \~16% | 18–20%E | MLCC ASP the driver |
+| Package Solutions OP (KRW 100M) | \~1,355 | \~2,000 | 3,861E (Mirae) | 5,046E | FC-BGA +10% ASP embedded |
 
 **Data gap**: Customer-level revenue fully undisclosed. Within-segment splits of AI/server vs. IT vs. automotive are qualitative commentary only.
 
@@ -116,7 +116,7 @@ Until recently SEMCO was seen as a Samsung proxy — PC CPU substrates plus flag
 ### Moat mechanics
 
 1. **Performance**: On the capacitance/voltage curve MLCC is a Murata-SEMCO duopoly. For 1kV+ AI-server-grade parts there is effectively no alternative outside these two.
-2. **Yield / cost**: Large server FC-BGA (4× area, 2× layers) has catastrophic yield if warpage control fails. Accumulated R&D plus dedicated Busan and Vietnam lines (~KRW 1.9T cumulative CAPEX plus another KRW 1.8T in Vietnam) create a cost-and-time barrier to followers.
+2. **Yield / cost**: Large server FC-BGA (4× area, 2× layers) has catastrophic yield if warpage control fails. Accumulated R&D plus dedicated Busan and Vietnam lines (\~KRW 1.9T cumulative CAPEX plus another KRW 1.8T in Vietnam) create a cost-and-time barrier to followers.
 3. **Qualification**: Big-6 supplier references (Nvidia, AMD, Tesla, Broadcom, Apple, AWS) form an infinite loop for new entrants — no qualification without references, no references without qualification. [Inferred] DB Securities cites this as the basis for "visible steady growth."
 4. **Ecosystem lock-in**: The glass-substrate JV (with Sumitomo and Dongwoo Fine-Chem) internalizes the glass core, a potential cost-advantage lever vs. SKC's Absolics. [Fact] SEMCO holds majority of the JV.
 
@@ -146,7 +146,7 @@ Until recently SEMCO was seen as a Samsung proxy — PC CPU substrates plus flag
 
 ### MLCC customers (many-to-many by nature)
 
-- **AI server**: Nvidia VR200 NVL72 — ~600,000 MLCCs per server, 30%+ more than GB300. [Fact] Samsung Securities (Lee Jong-wook)
+- **AI server**: Nvidia VR200 NVL72 — \~600,000 MLCCs per server, 30%+ more than GB300. [Fact] Samsung Securities (Lee Jong-wook)
 - **Automotive**: ADAS (3,000+ per car), xEV (10,000–15,000 per car)
 - **Smartphone**: Galaxy flagship, Chinese OEMs
 
@@ -176,7 +176,7 @@ Until recently SEMCO was seen as a Samsung proxy — PC CPU substrates plus flag
 
 ## 8. Price-Driver Dissection
 
-> This section separates **already-priced-in triggers** from **expected triggers**. The ~100% move between February and April 2026 (KRW 400k → KRW 680k+) reflects simultaneous progress on the following.
+> This section separates **already-priced-in triggers** from **expected triggers**. The \~100% move between February and April 2026 (KRW 400k → KRW 680k+) reflects simultaneous progress on the following.
 
 ### Trigger 1. Nvidia supply-chain Tier-1 entry (event-driven, priced in and progressing)
 
@@ -185,7 +185,7 @@ Until recently SEMCO was seen as a Samsung proxy — PC CPU substrates plus flag
 | Definition | NV Switch → Groq3 LPU first-vendor status broadens the substrate footprint inside Nvidia's AI platform. |
 | Preconditions | Server FC-BGA mass-production record + AMD precedent + yield validation |
 | Confirmed markers | (i) Feb 2026 NV Switch supply confirmed; (ii) Apr 2026 Groq3 LPU first vendor, 2Q26 mass production; (iii) Tesla AI6 likely to adopt |
-| Expected effect | Package Solutions OP: KRW ~200B (2025) → KRW ~386B (2026) → KRW ~505B (2027) per Mirae Asset |
+| Expected effect | Package Solutions OP: KRW \~200B (2025) → KRW \~386B (2026) → KRW \~505B (2027) per Mirae Asset |
 | Risk | (a) Nvidia GPU shipment slip; (b) Unimicron / Ibiden share defense; (c) Groq3 real volume below plan |
 
 ### Trigger 2. MLCC pricing cycle (event-driven, partly priced in)
@@ -273,10 +273,10 @@ Until recently SEMCO was seen as a Samsung proxy — PC CPU substrates plus flag
 2. **Customer-mix quality step-up**: Samsung dependence from 60%+ to diversified Big-6 (Nvidia, AMD, Tesla, Broadcom, Apple, AWS), and specifically a **Tier-1 slot inside the Nvidia platform** as a reference asset.
 3. **Next-gen option secured**: glass-substrate JV positions SEMCO alongside SKC Absolics as the only Korean supply options.
 
-**Caveat**: at ~2.8× PBR and ~18× PER (on 2025), valuation is not yet at cyclical-peak extremes, but **2026E OP of KRW 1.1–1.3T is already in consensus**. If earnings surprise underwhelms, the drawdown can widen. **1Q26 results and the pace of ASP pass-through are the key pivot.**
+**Caveat**: at \~2.8× PBR and \~18× PER (on 2025), valuation is not yet at cyclical-peak extremes, but **2026E OP of KRW 1.1–1.3T is already in consensus**. If earnings surprise underwhelms, the drawdown can widen. **1Q26 results and the pace of ASP pass-through are the key pivot.**
 
 From a Jevons-paradox lens, AI-inference efficiency gains (TurboQuant, DeepSeek, etc.) are more likely to redirect into **aggregate server-deployment growth** than to depress MLCC / FC-BGA demand. At the part-and-substrate layer the mid-term demand curve should stay upward-sloping — a leverage vector that works opposite to the software-efficiency theme.
 
 ---
 
-*This post is research and commentary only, not investment advice. The author's positioning may change without notice. Data as of 2026-04-21 KST.*
+*Disclaimer: For research and information purposes only. Not investment advice. Names cited are for analytical illustration; readers should perform their own due diligence and consult licensed advisors before any investment decision.*

@@ -71,3 +71,7 @@ Société de financement spécialisé et de capital-développement cotée sur le
 ---
 
 *Données macro au 24 avril 2026 · Screener Market Discovery au 23 avril 2026. Ce document est une synthèse d'information financière à des fins éducatives uniquement — il ne constitue pas un conseil en investissement.*
+
+---
+
+*Disclaimer: For research and information purposes only. Not investment advice. Names cited are for analytical illustration; readers should perform their own due diligence and consult licensed advisors before any investment decision.*

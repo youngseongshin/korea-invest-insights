@@ -49,9 +49,9 @@ Il existe au moins cinq versions différentes de ce chiffre :
 
 | Angle d'analyse | Lecture pratique 2026 | Pourquoi c'est important |
 |---|---:|---|
-| **Marché HBM total 2025** | **~59 % SK Hynix** | Illustre la position de leadership acquise à l'entrée en 2026 |
-| **Marché HBM total 2026E** | **~50 % SK Hynix** | Meilleure estimation de travail pour la part de revenus HBM globale |
-| **Marché HBM4 2026E** | **~54 % SK Hynix / 28 % Samsung / 18 % Micron** selon une projection Counterpoint | Meilleur instantané de la transition générationnelle |
+| **Marché HBM total 2025** | **\~59 % SK Hynix** | Illustre la position de leadership acquise à l'entrée en 2026 |
+| **Marché HBM total 2026E** | **\~50 % SK Hynix** | Meilleure estimation de travail pour la part de revenus HBM globale |
+| **Marché HBM4 2026E** | **\~54 % SK Hynix / 28 % Samsung / 18 % Micron** selon une projection Counterpoint | Meilleur instantané de la transition générationnelle |
 | **Allocation HBM4 Nvidia** | Les sources sectorielles suggèrent **environ deux tiers**, possiblement **70 %+** pour SK Hynix | Chiffre le plus important pour la part des profits à court terme |
 | **Part du vivier de profits** | Probablement supérieure à la part des livraisons quand les rendements et le mix ASP sont favorables | Ce dont les investisseurs en actions devraient ultimement se préoccuper |
 
@@ -320,3 +320,7 @@ C'est pourquoi c'est l'un des graphiques IA/HBM coréens les plus importants à 
 - [Perspectives de marché 2026 de SK Hynix](https://news.skhynix.com/2026-market-outlook-focus-on-the-hbm-led-memory-supercycle/) — synthèse interne sur le leadership HBM, références UBS/Goldman Sachs et perspectives du marché mémoire 2026.
 
 *Avertissement : Document à visée informative et analytique uniquement. Ne constitue pas un conseil en investissement. Les noms cités le sont à titre d'illustration analytique ; les lecteurs sont invités à effectuer leur propre analyse et à consulter des conseillers agréés avant toute décision d'investissement.*
+
+---
+
+*Disclaimer: For research and information purposes only. Not investment advice. Names cited are for analytical illustration; readers should perform their own due diligence and consult licensed advisors before any investment decision.*

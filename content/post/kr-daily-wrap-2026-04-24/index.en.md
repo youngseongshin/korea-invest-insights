@@ -68,3 +68,7 @@ On the flow side, the broad rally with evenly distributed KOSPI/KOSDAQ participa
 **LTC (170920.KQ)** is a KOSDAQ-listed materials and components firm. The +15.7% single-session gain on volume of 1.26 million shares (4.2x average) with an RSI of 77.5 and 149% MA deviation puts it in the "high-velocity breakout" category. This is a higher-risk, higher-reward profile typical of KOSDAQ momentum plays in bull-market late stages — suitable for traders with tight stops, not long-term allocators.
 
 **Bottom line:** Friday's Market Discovery screen confirms the bull is broadening. The presence of construction, defense, shipping, and small-cap electronics across the top-volume and top-RS lists is consistent with a healthy risk-on rotation, not late-cycle narrowing. Regime remains Bull — stay long, size to conviction, watch Brent and KRW for the first cracks.
+
+---
+
+*Disclaimer: For research and information purposes only. Not investment advice. Names cited are for analytical illustration; readers should perform their own due diligence and consult licensed advisors before any investment decision.*

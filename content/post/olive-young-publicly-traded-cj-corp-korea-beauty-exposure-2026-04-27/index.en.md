@@ -7,12 +7,12 @@ categories: ["Korea Market", "Consumer", "K-Beauty"]
 tags: ["olive-young", "cj-olive-young", "cj-corporation", "000120", "cj-cheiljedang", "korea-beauty", "k-beauty", "amorepacific", "lg-hh", "cosmax", "kolmar-korea", "cosrx", "ipo", "private-company"]
 ---
 
-> 📚 See the [Olive Young, PharmaResearch and K-Beauty investment hub](/en/page/k-beauty-olive-young-pharmaresearch-hub/) for the full thread across Olive Young's listing status, CJ indirect exposure, Rejuran / PharmaResearch and APR / Medicube.
+> 📚 See the [Olive Young, PharmaResearch and K-Beauty investment hub](/page/k-beauty-olive-young-pharmaresearch-hub/) for the full thread across Olive Young's listing status, CJ indirect exposure, Rejuran / PharmaResearch and APR / Medicube.
 
 ## TL;DR
 
 - **Olive Young is not publicly traded.** It is a private subsidiary of the CJ Group, formally **CJ Olive Young Corp.**, which separated from CJ Olive Networks in 2019.
-- The cleanest **indirect proxy** is **CJ Corporation (000120.KS)** — the holding company that owns roughly **51.2%** of CJ Olive Young. The Lee family (chairman Lee Jay-hyun's children) holds another **~22%** directly, with the remainder held by financial investors after a 2021 pre-IPO round.
+- The cleanest **indirect proxy** is **CJ Corporation (000120.KS)** — the holding company that owns roughly **51.2%** of CJ Olive Young. The Lee family (chairman Lee Jay-hyun's children) holds another **\~22%** directly, with the remainder held by financial investors after a 2021 pre-IPO round.
 - **CJ CheilJedang (097950.KS) is not a direct Olive Young play.** It is the group's food / bio business (Bibigo, lysine, methionine). The cross-link is "same group, different listed entity."
 - **Olive Young's IPO has been deferred at least twice** (cancelled 2022; subsequent strategic review). As of April 2026 there is no confirmed listing date.
 - For investors who want **real K-beauty exposure** (rather than a holdco-discounted slice), the better-aligned listed names are **AmorePacific, LG H&H, Cosmax, Kolmar Korea**, and selected ODM/brand specialists. Full framework below.
@@ -60,9 +60,9 @@ CJ Corporation is the listed holding company at the top of the CJ Group. Its own
 
 | Holder | Stake (approx.) |
 |---|---:|
-| CJ Corporation (000120.KS) | **~51.2%** |
-| Lee Sun-ho (chairman's son) | ~11.0% |
-| Lee Kyung-hoo (chairman's daughter) | ~4.6% |
+| CJ Corporation (000120.KS) | **\~51.2%** |
+| Lee Sun-ho (chairman's son) | \~11.0% |
+| Lee Kyung-hoo (chairman's daughter) | \~4.6% |
 | Glenwood / Korean financial investors (2021 pre-IPO round) | balance, with secondary trades since |
 
 (Stake percentages are reported levels and have shifted with each capital event; the directional fact — CJ Corp majority + Lee-family meaningful, financial-investor float — is stable.)
@@ -103,7 +103,7 @@ CJ CheilJedang (097950.KS) is the most-googled CJ-affiliate in English, partly b
 |---|---|---|---|
 | Listed? | Yes (000120.KS) | Yes (097950.KS) | **No** |
 | Business | Holdco | Food / bio | H&B retail + brand |
-| Direct ownership of OY | ~51.2% | None operational | — |
+| Direct ownership of OY | \~51.2% | None operational | — |
 | Useful for OY exposure? | **Yes (indirect)** | **No** | — |
 
 If a search-engine result tells you "buy CJ CheilJedang to get Olive Young exposure," that's wrong. CheilJedang is a food + bioscience company with its own thesis (lysine pricing, Bibigo US, methionine cycle).
@@ -123,7 +123,7 @@ A short timeline:
 **Why the delay matters for investors**
 
 1. **Valuation has likely moved up.** The 2021 pre-IPO mark of ₩1.5–1.8T is dated. Every additional year of double-digit revenue + margin expansion lifts the implied IPO valuation, which expands CJ Corp's NAV — but only realizes if the market re-rates the holdco.
-2. **Successor-generation ownership matters.** Lee Sun-ho's ~11% personal stake is non-trivial. Any future IPO + post-IPO secondary creates a path to **family-wealth crystallization** that is a structural incentive for CJ Group to push the listing eventually.
+2. **Successor-generation ownership matters.** Lee Sun-ho's \~11% personal stake is non-trivial. Any future IPO + post-IPO secondary creates a path to **family-wealth crystallization** that is a structural incentive for CJ Group to push the listing eventually.
 3. **Korean Value-Up backdrop.** With Korean governance reform and the broader 2026 re-rating story (KOSPI YTD strength, holdco discount compression), the **window for Olive Young IPO has materially improved** vs. the 2022 environment.
 
 **Implication:** the right way to read CJ Corp today is **"holdco that owns a yet-to-IPO crown-jewel asset that is roughly 50% bigger and structurally better-positioned than at the last failed IPO attempt."**
@@ -246,7 +246,7 @@ For now, the cleanest English-search answer is the one we started with: **No, Ol
 
 ### [Speculation]
 
-- Lee Sun-ho's direct ~11% stake in CJ Olive Young is a structural incentive for the family / group to eventually monetize via IPO + secondary.
+- Lee Sun-ho's direct \~11% stake in CJ Olive Young is a structural incentive for the family / group to eventually monetize via IPO + secondary.
 - A successful Olive Young IPO at meaningfully higher valuation than 2022 could trigger holdco-discount compression at CJ Corp beyond what fundamental NAV math alone would justify.
 
 ### [Blocked]
@@ -257,4 +257,4 @@ For now, the cleanest English-search answer is the one we started with: **No, Ol
 
 ---
 
-**Disclaimer**: This post is research commentary, not investment advice. Ownership percentages and capital-structure details are based on publicly reported levels and may have shifted with subsequent capital events. Tickers cited are illustrative for the K-beauty exposure framework, not recommendations. Do your own due diligence and consult licensed advisors before any investment decision.
+*Disclaimer: For research and information purposes only. Not investment advice. Names cited are for analytical illustration; readers should perform their own due diligence and consult licensed advisors before any investment decision.*

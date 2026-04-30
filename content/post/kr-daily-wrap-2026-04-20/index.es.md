@@ -19,7 +19,7 @@ draft: false
 | USD/KRW | 1.472 | −0,3% | Neutral |
 | Brent | 95,2 USD | +0,2% | Estable |
 
-**Veredicto de régimen:** Corea 🟢 **Bull** · EE.UU. ⚪ **Neutral**  
+**Veredicto de régimen:** Corea 🟢 **Bull** · EE.UU. ⚪ **Neutral**
 **Posicionamiento sugerido:** Expansión selectiva en KR. La divergencia Bull KR / Neutral US favorece la rotación hacia renta variable coreana con criterio: breadth MA50 en 63,3%, breadth MA200 en 59,2% y Discovery Score en 100/100 (Día 14 consecutivo).
 
 ---
@@ -74,3 +74,7 @@ El posicionamiento institucional sigue inclinado hacia acumulación en el segmen
 ---
 
 *Datos de cierre: 20 de abril de 2026. Fuente: KR Macro Regime Engine v2, KR PEAD Engine. Este contenido es análisis de mercado con fines informativos y no constituye recomendación de inversión.*
+
+---
+
+*Disclaimer: For research and information purposes only. Not investment advice. Names cited are for analytical illustration; readers should perform their own due diligence and consult licensed advisors before any investment decision.*

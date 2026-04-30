@@ -110,3 +110,7 @@ Foreign outflow pressure, BOK rate caution, and geopolitical uncertainty argue f
 For investors asking "Is Korean stock market worth investing in 2026?" — the answer is conditional: yes, in AI infrastructure hardware and component supply chain names, with hedged currency exposure and stop-loss discipline. Broad KOSPI beta exposure carries too much macro noise at current levels.
 
 *Data references: Korea Exchange (KRX), Bank of Korea base rate announcements, U.S. Federal Reserve press releases (March 2026), FRED DFF series, Korea JoongAng Daily market data.*
+
+---
+
+*Disclaimer: For research and information purposes only. Not investment advice. Names cited are for analytical illustration; readers should perform their own due diligence and consult licensed advisors before any investment decision.*

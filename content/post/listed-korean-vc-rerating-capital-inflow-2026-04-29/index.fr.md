@@ -49,7 +49,7 @@ Atinum est le titre au profil le plus *classique* dans le segment des capital-ri
 
 | Pilier | État |
 |---|---|
-| DPS 2025 | ₩140 (relevé depuis ₩130) ; enveloppe totale de dividendes ~₩6,4 Mds ; rendement ≈ 4,5 % |
+| DPS 2025 | ₩140 (relevé depuis ₩130) ; enveloppe totale de dividendes \~₩6,4 Mds ; rendement ≈ 4,5 % |
 | Pipeline méga-fonds | Méga-fonds de ₩1 000 Mds en cours de constitution en 2026 |
 | PBR de référence sur 14 jours | 0,73× — écart marqué par rapport à Mirae Asset Venture / Aju IB / DSC |
 
@@ -81,8 +81,8 @@ Parmi la cohorte à PBR premium, Company K Partners est le titre pour lequel l'*
 |---|---|
 | Exposition à Upstage | ₩10 Mds en Série A 2021 + ₩5 Mds en Série B 2024 = **₩15 Mds investis au total** |
 | Récupération implicite à une valorisation Upstage de ₩5 000 Mds | **>₩200 Mds** (estimation du marché) |
-| Cours de référence au 29 avril | ~₩9 450 / capitalisation boursière ~₩150 Mds |
-| Multiples (derniers) | PER ~20,7×, PBR ~1,83×, ROE ~8,83 % |
+| Cours de référence au 29 avril | \~₩9 450 / capitalisation boursière \~₩150 Mds |
+| Multiples (derniers) | PER \~20,7×, PBR \~1,83×, ROE \~8,83 % |
 | Réaction le même jour (8 avril) | +10,04 % sur la nouvelle de la valorisation Upstage à l'introduction en bourse (fourchette de ₩3 500–5 000 Mds) |
 
 ### Pourquoi l'asymétrie est réelle
@@ -93,7 +93,7 @@ La capitalisation boursière cotée de Company K est **inférieure au gain impli
 
 | Facteur | Lecture |
 |---|---|
-| **P** | PBR ~1,8× — **inférieur à Mirae Asset Venture, DSC ou Aju IB** au sein de la cohorte premium |
+| **P** | PBR \~1,8× — **inférieur à Mirae Asset Venture, DSC ou Aju IB** au sein de la cohorte premium |
 | **Q** | L'exposition à Upstage est concrète : ₩15 Mds au coût ; la récupération évolue avec la valorisation |
 | **C** | La récupération ne transite **pas** 1:1 vers le compte de résultat de l'entité cotée — la structure du fonds, le pourcentage de commit GP et la cascade de performance fees doivent être décomposés |
 
@@ -113,17 +113,17 @@ Le catalyseur principal de DSC est **FuriosaAI**. DSC a investi dans FuriosaAI s
 |---|---|
 | Investissement cumulé dans FuriosaAI | ₩24 Mds sur 6 tours |
 | Tour pre-IPO | Levée d'environ ₩750 Mds, valorisation pre-money d'environ ₩3 000 Mds rapportée |
-| Multiples (derniers) | PER ~28×, PBR ~3,85×, ROE ~13,7 % |
+| Multiples (derniers) | PER \~28×, PBR \~3,85×, ROE \~13,7 % |
 
 ### Régime de réévaluation
 
-DSC est inscrit dans la cohorte premium. Le catalyseur est concret ; le cours l'intègre déjà. Pour que le multiple **se dilate davantage** plutôt que de simplement se maintenir, la clôture FuriosaAI devra intervenir **au-dessus de ~₩3 000 Mds**, avec la participation d'investisseurs étrangers stratégiques et une feuille de route d'introduction en bourse plus précise. Sans cela, une « attente comblée » tend à être vendue plutôt que recherchée sur les petites capitalisations coréennes.
+DSC est inscrit dans la cohorte premium. Le catalyseur est concret ; le cours l'intègre déjà. Pour que le multiple **se dilate davantage** plutôt que de simplement se maintenir, la clôture FuriosaAI devra intervenir **au-dessus de \~₩3 000 Mds**, avec la participation d'investisseurs étrangers stratégiques et une feuille de route d'introduction en bourse plus précise. Sans cela, une « attente comblée » tend à être vendue plutôt que recherchée sur les petites capitalisations coréennes.
 
 ### P × Q × C
 
 | Facteur | Lecture |
 |---|---|
-| **P** | Déjà premium — PBR ~3,85× |
+| **P** | Déjà premium — PBR \~3,85× |
 | **Q** | Position dans FuriosaAI concrète et significative |
 | **C** | La comptabilisation à la juste valeur de la position est le levier ; les sorties réalisées restent futures |
 
@@ -138,8 +138,8 @@ Mirae Asset Venture dispose du portefeuille le plus **dense en actualités** dan
 | Pilier | État |
 |---|---|
 | Référence au 21 avril | YTD +248 %, sur 1 an +780 % |
-| Exposition à Rebellions | 4 tours (Série A jusqu'au pre-IPO) ; cumul groupe ~₩147 Mds ; valorisation au dernier tour ~₩3 400 Mds |
-| Multiples (derniers) | PER ~105×, PBR ~8,59×, ROE ~8,47 % |
+| Exposition à Rebellions | 4 tours (Série A jusqu'au pre-IPO) ; cumul groupe \~₩147 Mds ; valorisation au dernier tour \~₩3 400 Mds |
+| Multiples (derniers) | PER \~105×, PBR \~8,59×, ROE \~8,47 % |
 | Action de la société | Publication d'une communication aux actionnaires mettant explicitement en garde contre la surchauffe, en précisant que la plupart des investissements sont réalisés *via des fonds* et ne se répercutent pas 1:1 sur le compte de résultat de la société |
 
 ### Régime de réévaluation
@@ -177,12 +177,12 @@ Q Capital est le seul nom à dominante capital-investissement dans cet ensemble.
 | Pilier | État |
 |---|---|
 | Résultats 2025 | Chiffre d'affaires opérationnel ₩20,1 Mds / OP ₩3,8 Mds / NI ₩2,4 Mds / ROE 1,73 % / AUM ₩1 413,5 Mds |
-| Multiples (derniers) | PER ~21,4×, PBR ~0,37×, BPS ₩792 |
+| Multiples (derniers) | PER \~21,4×, PBR \~0,37×, BPS ₩792 |
 | Plan Value-Up | ROE 2026 de 5 %, AUM 2030 de ₩3 300 Mds, ≥40 % du résultat net consacré aux dividendes ou aux rachats-annulations d'actions |
 
 ### Pourquoi la décote est structurelle, et non simplement liée à la valeur
 
-Le PBR de ~0,37× n'est pas une décote gratuite. Il reflète un surplomb spécifique et réel : **le PEF Q-CP No. 15 de 2021**. Le rapport annuel de Q Capital fait état d'un **engagement de couverture des pertes de ₩40,8 Mds** en tant que GP de ce fonds. L'engagement en capital du fonds est d'environ ₩406,7 Mds et a été déployé dans SK Ecoplant, Yanadoo, AirsMedical, et une acquisition de contrôle de Chorokbaem Media (₩140 Mds provenant du fonds + ~₩45 Mds de financement d'acquisition). L'opération Chorokbaem a pratiquement absorbé la capacité résiduelle du fonds.
+Le PBR de \~0,37× n'est pas une décote gratuite. Il reflète un surplomb spécifique et réel : **le PEF Q-CP No. 15 de 2021**. Le rapport annuel de Q Capital fait état d'un **engagement de couverture des pertes de ₩40,8 Mds** en tant que GP de ce fonds. L'engagement en capital du fonds est d'environ ₩406,7 Mds et a été déployé dans SK Ecoplant, Yanadoo, AirsMedical, et une acquisition de contrôle de Chorokbaem Media (₩140 Mds provenant du fonds + \~₩45 Mds de financement d'acquisition). L'opération Chorokbaem a pratiquement absorbé la capacité résiduelle du fonds.
 
 ### Bilan qualitatif du portefeuille du Fonds 15
 
@@ -195,11 +195,11 @@ Le PBR de ~0,37× n'est pas une décote gratuite. Il reflète un surplomb spéci
 
 ### Vérification arithmétique interne du plan Value-Up
 
-Le plan vise un ROE 2026 de 5 % avec un NI de ₩5,0 Mds contre des capitaux propres de ₩141,2 Mds. Ce calcul implique un ROE de 3,54 %, et non de 5 %. Un ROE pur de 5 % sur la base de capitaux propres existante nécessite un NI de ~₩7,06 Mds. **Le chemin vers 5 % requiert donc soit une réduction des capitaux propres (rachats-annulations), soit une progression du NI au-delà du chiffre annoncé.** C'est cohérent avec le cadre de retour de capital annoncé par la société, mais cela mérite d'être valorisé explicitement.
+Le plan vise un ROE 2026 de 5 % avec un NI de ₩5,0 Mds contre des capitaux propres de ₩141,2 Mds. Ce calcul implique un ROE de 3,54 %, et non de 5 %. Un ROE pur de 5 % sur la base de capitaux propres existante nécessite un NI de \~₩7,06 Mds. **Le chemin vers 5 % requiert donc soit une réduction des capitaux propres (rachats-annulations), soit une progression du NI au-delà du chiffre annoncé.** C'est cohérent avec le cadre de retour de capital annoncé par la société, mais cela mérite d'être valorisé explicitement.
 
 ### Régime de réévaluation
 
-Le PBR de Q Capital peut se réévaluer de ~0,3× à ~0,5–0,7× *si et seulement si* (a) le règlement du Fonds 15 est visible (stabilisation de Chorokbaem, apurement de la dépréciation Yanadoo, sortie de SK Ecoplant ou AirsMedical comptabilisée), et (b) le plan Value-Up se traduit par des rachats-annulations effectifs et un ROE de 5 %. Sans ces conditions, la décote est rationnelle et non une erreur de valorisation.
+Le PBR de Q Capital peut se réévaluer de \~0,3× à \~0,5–0,7× *si et seulement si* (a) le règlement du Fonds 15 est visible (stabilisation de Chorokbaem, apurement de la dépréciation Yanadoo, sortie de SK Ecoplant ou AirsMedical comptabilisée), et (b) le plan Value-Up se traduit par des rachats-annulations effectifs et un ROE de 5 %. Sans ces conditions, la décote est rationnelle et non une erreur de valorisation.
 
 ---
 
@@ -265,14 +265,14 @@ Chaque régime requiert un cadre différent, un calendrier de catalyseurs diffé
 
 ### [Fait]
 
-- Atinum Investment DPS 2025 ₩140 ; enveloppe totale de dividendes ~₩6,4 Mds ; pipeline méga-fonds 2026 de ₩1 000 Mds rapporté.
+- Atinum Investment DPS 2025 ₩140 ; enveloppe totale de dividendes \~₩6,4 Mds ; pipeline méga-fonds 2026 de ₩1 000 Mds rapporté.
 - Q Capital AUM 2025 ₩1 413,5 Mds ; ROE 1,73 % ; objectif publié de ROE 5 % en 2026 / AUM ₩3 300 Mds en 2030 avec ≥40 % du résultat net reversé sous forme de dividendes ou de rachats-annulations.
 - Q Capital est le GP du PEF Q-CP No. 15 de 2021 et divulgue un engagement de couverture des pertes de ₩40,8 Mds dans son dépôt annuel.
-- Fonds 15 de Q Capital : engagement d'environ ₩406,7 Mds ; déployé dans SK Ecoplant, Yanadoo, AirsMedical ; ₩140 Mds + ~₩45 Mds de financement d'acquisition dans une participation de contrôle de Chorokbaem Media.
+- Fonds 15 de Q Capital : engagement d'environ ₩406,7 Mds ; déployé dans SK Ecoplant, Yanadoo, AirsMedical ; ₩140 Mds + \~₩45 Mds de financement d'acquisition dans une participation de contrôle de Chorokbaem Media.
 - Company K Partners a investi dans Upstage pour ₩10 Mds en Série A 2021 et ₩5 Mds en Série B 2024, soit ₩15 Mds au total. Réaction de +10,04 % le même jour observée le 8 avril sur la nouvelle de valorisation Upstage.
 - DSC Investment a investi dans FuriosaAI sur six tours (Seed → Série C), pour un cumul de ₩24 Mds.
 - Mirae Asset Venture a publié une communication aux actionnaires mettant en garde contre la surchauffe, en indiquant que la structure d'investissement au niveau des fonds atténue la répercussion 1:1 sur le compte de résultat. Référence au 21 avril : YTD +248 %, sur 1 an +780 %.
-- Investissement cumulé du groupe Mirae Asset dans Rebellions ~₩147 Mds sur plusieurs tours ; valorisation du dernier tour de Rebellions ~₩3 400 Mds.
+- Investissement cumulé du groupe Mirae Asset dans Rebellions \~₩147 Mds sur plusieurs tours ; valorisation du dernier tour de Rebellions \~₩3 400 Mds.
 
 ### [Inférence]
 
@@ -297,3 +297,7 @@ Chaque régime requiert un cadre différent, un calendrier de catalyseurs diffé
 ---
 
 **Avertissement** : Ce billet est un commentaire de recherche, et non un conseil en investissement. Les chiffres cités sont basés sur des niveaux publiquement rapportés (dépôts annuels, communications Value-Up, documents IR, sell-side et presse spécialisée) et peuvent avoir évolué depuis lors. Les tickers et noms de maisons sont utilisés à titre illustratif pour le cadre de réévaluation, et ne constituent pas des recommandations. Faites votre propre analyse et consultez des conseillers agréés avant toute décision.
+
+---
+
+*Disclaimer: For research and information purposes only. Not investment advice. Names cited are for analytical illustration; readers should perform their own due diligence and consult licensed advisors before any investment decision.*

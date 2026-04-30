@@ -30,7 +30,7 @@ draft: false
 ## Resumen ejecutivo
 
 - **Estimación central**: ingresos consolidados 1T26 de Pearl Abyss **KRW 395,0B**, beneficio operativo **KRW 205,0B**, margen operativo **51,9%**.
-- **Lógica principal**: Dado el titular oficial de la compañía de "4 millones de unidades al 1 de abril", el número de unidades reconocidas en el 1T es razonablemente **~3,95 millones**, y la IP heredada (BDO + EVE) se sitúa en torno a **KRW 97,0B**, lo que refleja la base estable del 4T25. Pero la variable de mayor impacto en el 1T26 no es el recuento de unidades, sino el **marco de reconocimiento de ingresos (principal frente a agente), el precio de venta medio realizado y las líneas de gasto en marketing y comisiones**.
+- **Lógica principal**: Dado el titular oficial de la compañía de "4 millones de unidades al 1 de abril", el número de unidades reconocidas en el 1T es razonablemente **\~3,95 millones**, y la IP heredada (BDO + EVE) se sitúa en torno a **KRW 97,0B**, lo que refleja la base estable del 4T25. Pero la variable de mayor impacto en el 1T26 no es el recuento de unidades, sino el **marco de reconocimiento de ingresos (principal frente a agente), el precio de venta medio realizado y las líneas de gasto en marketing y comisiones**.
 - **Incertidumbre clave**: Hasta que las notas al informe trimestral del 1T26 confirmen el tratamiento principal/agente, la mezcla de plataformas real y el gasto real en marketing, la estimación conserva márgenes de error. Este es el **escenario central más defendible para compartir externamente**, no una previsión puntual.
 
 ---
@@ -81,9 +81,9 @@ Frente al dato oficial del 1 de abril de 4M, situar las ventas acumuladas en el 
 
 No existe divulgación oficial. Es el supuesto más controvertido. Las evidencias de posicionamiento top en PS Store argumentan a favor de mayor peso de consola; el CCU de SteamDB y el volumen de reseñas argumentan a favor de mayor peso de PC. En lugar de decantarse por un lado, el escenario central usa **PC 52% / Consola 48%**: suficiente para respetar el "probable mayor peso de PC" sin descartar la "señal fuerte de consola".
 
-### 3.3 Precio de venta medio realizado (base contable): **~KRW 79,8k**
+### 3.3 Precio de venta medio realizado (base contable): **\~KRW 79,8k**
 
-El enfoque agresivo de ingresos brutos sitúa el PVM en **KRW 83,5k**. La visión conservadora de reconocimiento mixto reduce el PVM realizado al rango **bajo de los KRW 70k**. El escenario central no adopta ninguno de los dos extremos: ponderando unidades, mezcla de plataformas y precios regionales, **~KRW 79,8k** (efectivamente ≈KRW 80k) — "mantener una postura de ingresos reportados con sesgo bruto, pero sin adoptar el KRW 83,5k completo".
+El enfoque agresivo de ingresos brutos sitúa el PVM en **KRW 83,5k**. La visión conservadora de reconocimiento mixto reduce el PVM realizado al rango **bajo de los KRW 70k**. El escenario central no adopta ninguno de los dos extremos: ponderando unidades, mezcla de plataformas y precios regionales, **\~KRW 79,8k** (efectivamente ≈KRW 80k) — "mantener una postura de ingresos reportados con sesgo bruto, pero sin adoptar el KRW 83,5k completo".
 
 ### 3.4 Ingresos de IP heredada: **KRW 97,0B**
 
@@ -99,7 +99,7 @@ Este es el mayor factor de variación del beneficio operativo. Un supuesto de KR
 
 ### 3.7 Comisiones: **KRW 76,0B**
 
-Esta línea oscila fuertemente con el marco de reconocimiento. En ingresos brutos puros puede alcanzar KRW 87,5B; con mayor reconocimiento mixto cae a ~KRW 70,0B. De forma crucial, **el impacto en el beneficio operativo está parcialmente compensado por la elección del reconocimiento de ingresos** — comisiones e ingresos reportados se mueven juntos. Escenario central: **KRW 76,0B**, entre las visiones de ingresos brutos y mixtos.
+Esta línea oscila fuertemente con el marco de reconocimiento. En ingresos brutos puros puede alcanzar KRW 87,5B; con mayor reconocimiento mixto cae a \~KRW 70,0B. De forma crucial, **el impacto en el beneficio operativo está parcialmente compensado por la elección del reconocimiento de ingresos** — comisiones e ingresos reportados se mueven juntos. Escenario central: **KRW 76,0B**, entre las visiones de ingresos brutos y mixtos.
 
 ### 3.8 Amortización + otros: **KRW 32,0B**
 
@@ -122,7 +122,7 @@ Esta línea oscila fuertemente con el marco de reconocimiento. En ingresos bruto
 - IP heredada: KRW 97,0B
 - **Calculado: KRW 412,2B**
 
-Para un escenario central compartible externamente, se aplica un **margen de seguridad de ~KRW 17,2B** para reflejar la cadencia de cierre del 31 de marzo y la incertidumbre de reconocimiento principal/agente:
+Para un escenario central compartible externamente, se aplica un **margen de seguridad de \~KRW 17,2B** para reflejar la cadencia de cierre del 31 de marzo y la incertidumbre de reconocimiento principal/agente:
 
 → **Cálculo KRW 412,2B → Escenario central KRW 395,0B**
 
@@ -166,7 +166,7 @@ Los ingresos brutos puros son simples y fáciles de explicar, pero agresivos. El
 
 ### 5.3 El beneficio operativo supera los KRW 200B, pero KRW 225B sigue siendo la zona superior
 
-Los casos base agresivos del proyecto se sitúan cerca de KRW 223B; un cálculo externo alcanza KRW 225,8B pero cae a **~KRW 210B** tras ajuste por riesgo. Una lectura puramente conservadora de KRW 195,0B no es incorrecta, pero representa el límite inferior. El **valor central más defendible se sitúa cerca de los KRW 205B**.
+Los casos base agresivos del proyecto se sitúan cerca de KRW 223B; un cálculo externo alcanza KRW 225,8B pero cae a **\~KRW 210B** tras ajuste por riesgo. Una lectura puramente conservadora de KRW 195,0B no es incorrecta, pero representa el límite inferior. El **valor central más defendible se sitúa cerca de los KRW 205B**.
 
 ---
 
@@ -212,4 +212,4 @@ La cifra se basa en los dos hitos oficiales de Crimson Desert (4M al 1 de abril,
 
 ---
 
-*Este contenido es investigación y comentario únicamente, no constituye asesoramiento de inversión. Las posiciones pueden cambiar sin previo aviso. Datos a 21 de abril de 2026 KST.*
+*Disclaimer: For research and information purposes only. Not investment advice. Names cited are for analytical illustration; readers should perform their own due diligence and consult licensed advisors before any investment decision.*

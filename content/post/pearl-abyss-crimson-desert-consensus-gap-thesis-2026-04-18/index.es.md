@@ -94,7 +94,7 @@ Una de las herramientas analíticas más limpias disponibles aquí es un sencill
 | Fecha | Copias confirmadas vendidas | Incremento | Días transcurridos | Ritmo diario |
 |---|---:|---:|---:|---:|
 | 1 de abril de 2026 | 4.000.000 | — | — | — |
-| 15 de abril de 2026 | 5.000.000 | 1.000.000 | 14 | ~71.400 / día |
+| 15 de abril de 2026 | 5.000.000 | 1.000.000 | 14 | \~71.400 / día |
 
 El intervalo del 1 al 15 de abril produjo aproximadamente **71.400 unidades por día** — la observación de velocidad oficial más reciente. Se trata de una referencia importante porque captura la trayectoria del juego *después* de que el entusiasmo inicial del lanzamiento se hubiera normalizado parcialmente, incorporando cualquier efecto del Festival de Qingming.
 
@@ -108,13 +108,13 @@ La siguiente tabla presenta tres análisis de escenario independientes para la t
 
 | Escenario | Unidades totales 2026 | Incremento necesario | Media diaria requerida (≈260 días) | Supuesto clave |
 |---|---:|---:|---:|---|
-| **Bajista** | 7,5M | 2,5M | ~9.600 / día | Desaceleración pronunciada; contenido limitado; sin nuevas plataformas |
-| **Base** | 8,5M | 3,5M | ~13.500 / día | Desaceleración moderada (~81% por debajo de la velocidad de abril); actualizaciones regulares |
-| **Alcista** | 10,0M | 5,0M | ~19.200 / día | Desaceleración suave; expansión de contenido; posible nueva región o plataforma |
+| **Bajista** | 7,5M | 2,5M | \~9.600 / día | Desaceleración pronunciada; contenido limitado; sin nuevas plataformas |
+| **Base** | 8,5M | 3,5M | \~13.500 / día | Desaceleración moderada (\~81% por debajo de la velocidad de abril); actualizaciones regulares |
+| **Alcista** | 10,0M | 5,0M | \~19.200 / día | Desaceleración suave; expansión de contenido; posible nueva región o plataforma |
 
-Una observación crítica: el **escenario bajista requiere apenas ~9.600 unidades por día** — aproximadamente un **87% por debajo de la velocidad observada del 1 al 15 de abril, de 71.400**. Incluso la trayectoria más pesimista modelada produce un resultado para todo el año (7,5M) muy por encima de la posición mayoritaria del lado vendedor (≤5,26M para tres de las cinco sociedades).
+Una observación crítica: el **escenario bajista requiere apenas \~9.600 unidades por día** — aproximadamente un **87% por debajo de la velocidad observada del 1 al 15 de abril, de 71.400**. Incluso la trayectoria más pesimista modelada produce un resultado para todo el año (7,5M) muy por encima de la posición mayoritaria del lado vendedor (≤5,26M para tres de las cinco sociedades).
 
-El **escenario base a 8,5M** implica ~13.500 unidades por día — una desaceleración del 81% respecto al ritmo reciente observado. Este es un supuesto conservador, no heroico.
+El **escenario base a 8,5M** implica \~13.500 unidades por día — una desaceleración del 81% respecto al ritmo reciente observado. Este es un supuesto conservador, no heroico.
 
 Este es el motivo estructural por el que existe la brecha de consenso: si incluso un escenario bajista produce resultados por encima de la mayoría de las estimaciones anuales actuales, el consenso actual está casi con certeza anclado a supuestos desactualizados.
 
@@ -190,4 +190,6 @@ El alfa, en este tipo de situación, tiende a emerger no de una información sup
 
 ## Aviso legal
 
-Esta entrada es un comentario de interpretación de mercado y no constituye asesoramiento de inversión, una solicitud ni una recomendación de compra o venta de ningún valor. Pearl Abyss (263750.KQ) se menciona exclusivamente con fines analíticos e informativos. Las estimaciones del lado vendedor citadas en esta entrada reflejan cifras de informes de investigación individuales de sociedades de valores a sus respectivas fechas de publicación; estas cifras pueden haber sido actualizadas o revisadas desde entonces. La velocidad de ventas pasada no es indicativa de rendimiento futuro. Toda decisión de inversión conlleva riesgo, incluido el riesgo de pérdida total. Los lectores deben realizar su propia investigación independiente y consultar con asesores financieros cualificados antes de tomar cualquier decisión de inversión.
+---
+
+*Disclaimer: For research and information purposes only. Not investment advice. Names cited are for analytical illustration; readers should perform their own due diligence and consult licensed advisors before any investment decision.*

@@ -77,3 +77,7 @@ Por qué los inversores extranjeros están comprando acciones coreanas ahora: la
 Los datos de flujo de KRX para mañana —especialmente la continuidad de la compra extranjera en Samsung Electronics y la dirección del dinero institucional en Samsung Electro-Mechanics— serán la señal más fiable para evaluar si este rally selectivo tiene base o si el mercado coreano necesita una pausa de consolidación antes del próximo impulso.
 
 *Fuentes de referencia: KRX (Korea Exchange) datos de flujo de inversores, DART (sistema de divulgación electrónica de la FSS coreana), informes de Hana Securities, NH Investment Securities y Mirae Asset del 10 de abril de 2026.*
+
+---
+
+*Disclaimer: For research and information purposes only. Not investment advice. Names cited are for analytical illustration; readers should perform their own due diligence and consult licensed advisors before any investment decision.*

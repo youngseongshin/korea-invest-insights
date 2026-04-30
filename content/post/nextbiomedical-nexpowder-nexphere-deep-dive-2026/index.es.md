@@ -9,7 +9,7 @@ series: "Korean MedTech Deep Dive"
 ---
 
 > **Fecha:** 2026-04-14
-> **Cierre:** ~KRW 64.700 | **Cap. de mercado:** ~KRW 528,3B | **Máximo/Mínimo 52 semanas:** KRW 101.000 / KRW 38.300
+> **Cierre:** \~KRW 64.700 | **Cap. de mercado:** \~KRW 528,3B | **Máximo/Mínimo 52 semanas:** KRW 101.000 / KRW 38.300
 > **Veredicto:** Esperar / Lista de seguimiento
 > **Núcleo:** Estructura dual — Nexpowder (comercializado) + Nexphere-F (pipeline)
 
@@ -41,7 +41,7 @@ El precio actual de la acción refleja ambos ejes simultáneamente. Nexpowder so
 
 * Ingresos consolidados 2025: **KRW 16,5B**
 * Pérdida operativa 2025: **KRW 735M**
-* Ingresos de Nexpowder: **~KRW 13,7B**
+* Ingresos de Nexpowder: **\~KRW 13,7B**
 
 2025 fue un año de fuerte crecimiento en la línea superior. Sin embargo, la rentabilidad se quedó justo por debajo del umbral de rentabilidad. La causa no fue el coste de ventas, sino **el incremento de los gastos generales y administrativos (SG&A)**, concretamente en I+D, ensayos clínicos y preparación regulatoria global.
 
@@ -64,8 +64,8 @@ Dos conclusiones clave:
 
 * **Q1 2025 ingresos Nexpowder: KRW 3,1B**
 * **Q2 2025 ingresos Nexpowder: KRW 3,4B / Ingresos consolidados: KRW 4,0B**
-* **Q3 2025 ingresos Nexpowder: KRW 4,3B / Ingresos consolidados: KRW 4,9B / Resultado operativo: ~KRW 400M**
-* **Q4 2025 Ingresos consolidados: KRW 3,8B / Pérdida operativa: ~KRW 400M**
+* **Q3 2025 ingresos Nexpowder: KRW 4,3B / Ingresos consolidados: KRW 4,9B / Resultado operativo: \~KRW 400M**
+* **Q4 2025 Ingresos consolidados: KRW 3,8B / Pérdida operativa: \~KRW 400M**
 
 La interpretación es clara:
 
@@ -116,17 +116,17 @@ La comparación de exportaciones trimestrales frente a los ingresos de Nexpowder
 * **Exportaciones Q1 2025: $2,58M → Nexpowder KRW 3,1B**
 * **Exportaciones Q2 2025: $2,83M → Nexpowder KRW 3,4B**
 * **Exportaciones Q3 2025: $3,50M → Nexpowder KRW 4,3B**
-* **Exportaciones Q4 2025: $2,36M → Nexpowder ~KRW 2,9B (implícito)**
+* **Exportaciones Q4 2025: $2,36M → Nexpowder \~KRW 2,9B (implícito)**
 
 El factor de conversión trimestral es prácticamente constante:
 
-> **$1M en exportaciones ≈ KRW 1,20~1,23B en ingresos de Nexpowder**
+> **$1M en exportaciones ≈ KRW 1,20\~1,23B en ingresos de Nexpowder**
 
 Esto es muy significativo. Significa que los datos de exportación por código HS no son solo un punto de referencia, sino **un indicador adelantado con utilidad práctica para los ingresos de Nexpowder**.
 
 ### 3.3 Interpretación de exportaciones Q1 2026
 
-* **Exportaciones Q1 2025: ~$2,57-2,58M**
+* **Exportaciones Q1 2025: \~$2,57-2,58M**
 * **Exportaciones Q1 2026: $2,60M**
 
 Las exportaciones del Q1 2026 fueron esencialmente **planas** en términos de dólares respecto al año anterior.
@@ -143,8 +143,8 @@ La lectura correcta no es "las exportaciones se dispararon", sino:
 
 Basado en las tasas medias mensuales USD/KRW:
 
-* **Media ponderada Q1 2025: ~KRW 1.452,98/USD**
-* **Media ponderada Q1 2026: ~KRW 1.465,60/USD**
+* **Media ponderada Q1 2025: \~KRW 1.452,98/USD**
+* **Media ponderada Q1 2026: \~KRW 1.465,60/USD**
 
 La diferencia es de aproximadamente **+0,87%**.
 
@@ -157,7 +157,7 @@ Partiendo de los ingresos de Nexpowder en Q1 2025 de KRW 3,1B:
 * Ingresos Q1 2026 Nexpowder solo por volumen: **KRW 3.136B**
 * Ingresos Q1 2026 Nexpowder ajustados por volumen + FX: **KRW 3.163B**
 
-La contribución cambiaria fue de apenas **~KRW 27M**.
+La contribución cambiaria fue de apenas **\~KRW 27M**.
 
 > **La clave de la defensa de resultados en Q1 2026 fue el sostenimiento del volumen, no el viento de cola cambiario.**
 
@@ -169,8 +169,8 @@ La contribución cambiaria fue de apenas **~KRW 27M**.
 
 Basado en el marco de conversión exportaciones-ingresos y la mezcla de productos:
 
-* **Ingresos Nexpowder Q1 2026: ~KRW 3,16B**
-* **Ingresos consolidados Q1 2026: KRW 3,6~3,8B**
+* **Ingresos Nexpowder Q1 2026: \~KRW 3,16B**
+* **Ingresos consolidados Q1 2026: KRW 3,6\~3,8B**
 * **Resultado operativo Q1 2026: KRW -200M hasta breakeven**
 
 Estas cifras se acercan más a lo **"defendido"** que a "sólido".
@@ -179,14 +179,14 @@ Estas cifras se acercan más a lo **"defendido"** que a "sólido".
 
 Escenario base:
 
-* Ingresos: **KRW 20,5~21,5B**
-* Coste de ventas: **KRW 6,1~6,4B**
-* SG&A: **KRW 14,5~15,5B**
+* Ingresos: **KRW 20,5\~21,5B**
+* Coste de ventas: **KRW 6,1\~6,4B**
+* SG&A: **KRW 14,5\~15,5B**
 * Resultado operativo: **KRW -200M a +200M**
 
 La empresa probablemente seguirá siendo un negocio **en el umbral de rentabilidad** en 2026.
 
-Un escenario agresivo de KRW 22,5~23,5B en ingresos con un resultado operativo de varios miles de millones es posible, pero requiere:
+Un escenario agresivo de KRW 22,5\~23,5B en ingresos con un resultado operativo de varios miles de millones es posible, pero requiere:
 
 1. Re-aceleración del crecimiento de Nexpowder
 2. Diferimiento parcial o control de los costos clínicos de Nexphere-F
@@ -203,7 +203,7 @@ Nexpowder ya se encuentra en fase de comercialización:
 * Expansión de indicación en 2024 para hemorragia gastrointestinal inferior
 * Aprobación PMDA en Japón y registro en el sistema de cobertura del seguro completados
 * Lanzamiento oficial en Japón en septiembre de 2025
-* Comercializado en ~30 países
+* Comercializado en \~30 países
 * Distribución en EE.UU. a través de Medtronic
 * Estudio de referencia en revista GUT: tasa de hemostasia inmediata del 94%
 
@@ -239,7 +239,7 @@ Estado actual de Nexphere-F:
 * Aprobación IDE de la FDA en EE.UU.
 * Designación de Dispositivo Innovador de la FDA
 * Progreso en Technology Access Pathway (TAP) de la FDA / CMS Category B
-* Primer paciente inscrito en el ensayo pivotal RESORB en octubre de 2025 — ~126 pacientes en más de 10 centros en EE.UU.
+* Primer paciente inscrito en el ensayo pivotal RESORB en octubre de 2025 — \~126 pacientes en más de 10 centros en EE.UU.
 * Acuerdo de distribución exclusiva en Japón firmado con Asahi Intecc (9 de abril de 2026)
 
 Este producto no se encuentra aún en la etapa de ingresos a gran escala, sino que está:
@@ -261,10 +261,10 @@ La clave de este negocio sigue siendo la **velocidad de progreso y la probabilid
 
 ### 8.1 Posición actual del precio
 
-* Precio actual: **~KRW 64.700**
-* Cap. de mercado: **~KRW 528,3B**
+* Precio actual: **\~KRW 64.700**
+* Cap. de mercado: **\~KRW 528,3B**
 * Máximo 52 semanas: **KRW 101.000**
-* Mínimo 52 semanas: **~KRW 38.300**
+* Mínimo 52 semanas: **\~KRW 38.300**
 
 La acción está **significativamente por debajo de sus máximos, pero aún elevada respecto a sus mínimos**.
 
@@ -288,7 +288,7 @@ Los dos últimos factores tienen mayor peso.
 
 ### Escenario base
 
-* Ingresos: **KRW 3,6~3,8B**
+* Ingresos: **KRW 3,6\~3,8B**
 * Resultado operativo: **KRW -200M hasta breakeven**
 * La empresa ofrece comentarios que apoyan el potencial de mejora en Q2 2026
 
@@ -345,7 +345,7 @@ La divergencia proviene de:
 
 ## 11. Ingeniería inversa del precio objetivo: KRW 83K / 90K / 120K
 
-Con ~8,204M de acciones en circulación, las capitalizaciones de mercado implícitas por precio objetivo son:
+Con \~8,204M de acciones en circulación, las capitalizaciones de mercado implícitas por precio objetivo son:
 
 * **KRW 83.000 → KRW 680,9B** (+28,9% de potencial alcista)
 * **KRW 90.000 → KRW 738,4B** (+39,8% de potencial alcista)
@@ -406,7 +406,7 @@ Es claramente una empresa de calidad. Pero para que la acción experimente una r
 ## Lista de seguimiento
 
 1. **Publicación de resultados Q1 2026 (prevista para mediados de mayo)**
-   * Ingresos en el rango KRW 3,6~3,8B
+   * Ingresos en el rango KRW 3,6\~3,8B
    * Resultado operativo en el rango KRW -200M hasta breakeven
 
 2. **Exportaciones confirmadas de abril y tendencia de exportaciones de mayo**
@@ -427,3 +427,7 @@ Es claramente una empresa de calidad. Pero para que la acción experimente una r
 ---
 
 **NextBiomedical es una atractiva empresa de MedTech donde Nexpowder protege el suelo bajista y Nexphere-F abre el techo alcista, pero para justificar un avance significativo del precio desde los niveles actuales, lo que se necesita no son más expectativas sino evidencia de ejecución: progreso clínico, monetización de alianzas y control de costos.**
+
+---
+
+*Disclaimer: For research and information purposes only. Not investment advice. Names cited are for analytical illustration; readers should perform their own due diligence and consult licensed advisors before any investment decision.*

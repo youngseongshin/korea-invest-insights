@@ -369,4 +369,4 @@ Kiwoom净流出-62,704股颇具说明意义。Kiwoom客群偏向散户 / 短线 
 
 ---
 
-**免责声明**：本文为研究评论，不构成投资建议。珍珠深渊相关内容属于作者持续跟踪的主题系列研究。仓位、条件和价格区间可能随新数据的出现而变化。请做好独立研究。
+*Disclaimer: For research and information purposes only. Not investment advice. Names cited are for analytical illustration; readers should perform their own due diligence and consult licensed advisors before any investment decision.*

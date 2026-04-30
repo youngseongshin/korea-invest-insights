@@ -365,4 +365,4 @@ CCP売却益の100%を特別配当として分配した場合：
 
 ---
 
-*本稿はリサーチおよびコメンタリーを目的としており、投資助言を構成するものではありません。ポジションは予告なく変更することがあります。最終的な売却損益は実際のクロージング開示に基づき変動します。既存の自己株式数は社内推定値であり、DARTの自己株式届出書で要確認。データは2026年4月30日KST時点。*
+*Disclaimer: For research and information purposes only. Not investment advice. Names cited are for analytical illustration; readers should perform their own due diligence and consult licensed advisors before any investment decision.*

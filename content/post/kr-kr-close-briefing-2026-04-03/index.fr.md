@@ -83,3 +83,7 @@ La séance du 4 avril sera un premier test de la durabilité de ces mouvements. 
 ---
 
 *Les données de flux présentées dans cet article correspondent aux transactions nettes des investisseurs étrangers et institutionnels sur le marché coréen (KRX). Elles reflètent la situation au 2 avril 2026 pour les données de flux et au 3 avril 2026 pour les données de prix.*
+
+---
+
+*Disclaimer: For research and information purposes only. Not investment advice. Names cited are for analytical illustration; readers should perform their own due diligence and consult licensed advisors before any investment decision.*

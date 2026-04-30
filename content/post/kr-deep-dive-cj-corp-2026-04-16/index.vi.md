@@ -178,3 +178,7 @@ Nó mang lại tiếp xúc gián tiếp với CJ Olive Young — xương sống 
 ---
 
 *Bài phân tích này chỉ nhằm mục đích cung cấp thông tin và không cấu thành khuyến nghị đầu tư. Tất cả dữ liệu tài chính dựa trên các hồ sơ công khai và báo cáo gần đây tính đến ngày xuất bản. Kết quả trong quá khứ không phản ánh kết quả trong tương lai. Nhà đầu tư nên tự thực hiện thẩm định trước khi đưa ra bất kỳ quyết định đầu tư nào.*
+
+---
+
+*Disclaimer: For research and information purposes only. Not investment advice. Names cited are for analytical illustration; readers should perform their own due diligence and consult licensed advisors before any investment decision.*

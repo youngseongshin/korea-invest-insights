@@ -68,4 +68,4 @@ draft: false
 
 ---
 
-*数据截至2026-04-23收盘。本文为市场信息汇总，不构成投资建议。*
+*Disclaimer: For research and information purposes only. Not investment advice. Names cited are for analytical illustration; readers should perform their own due diligence and consult licensed advisors before any investment decision.*

@@ -80,4 +80,4 @@ Today's run returned **106 candidates** across three tiers: 22 Tier A (tightest 
 
 ---
 
-*Data sourced from KR Quiet Accumulation Engine run 2026-04-22T16:10 KST. All prices KST close. Foreign ownership changes are 20-day rolling estimates. This is market analysis, not investment advice.*
+*Disclaimer: For research and information purposes only. Not investment advice. Names cited are for analytical illustration; readers should perform their own due diligence and consult licensed advisors before any investment decision.*

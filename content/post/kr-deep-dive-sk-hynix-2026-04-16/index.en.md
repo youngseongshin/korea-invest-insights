@@ -63,12 +63,12 @@ SK hynix's moat in HBM is simultaneously technical and relational. The company c
 
 SK hynix reports two primary product families:
 
-**DRAM (~70% of revenue)**
+**DRAM (\~70% of revenue)**
 - *Conventional server, PC, and mobile DRAM* — the high-volume commodity base, which benefits from industry supply discipline and demand recovery
 - *HBM (HBM3, HBM3E, transitioning to HBM4)* — the premium growth engine; HBM carries a reported 5–8× ASP premium per bit versus conventional DRAM and disproportionately inflates blended margins as the product mix shifts
 - HBM's share of total DRAM revenue has been rising materially each quarter
 
-**NAND (~30% of revenue)**
+**NAND (\~30% of revenue)**
 - *Client and consumer NAND* — SSDs for PCs and mobile storage; more commoditised and cyclical
 - *Enterprise SSD via Solidigm* — the fastest-growing sub-segment; recent channel checks and our internal monitors indicate that eSSD pricing has risen sharply, driven by data-centre demand for high-capacity NVMe storage
 
@@ -170,4 +170,4 @@ International investors can access SK hynix (000660.KS) directly on the KOSPI th
 
 ---
 
-*This analysis is for informational purposes only and does not constitute investment advice. Past performance is not indicative of future results. All financial data referenced is sourced from publicly available company filings, IR materials, and industry research as of the publication date. Investors should conduct their own due diligence and consult a qualified financial adviser before making any investment decisions.*
+*Disclaimer: For research and information purposes only. Not investment advice. Names cited are for analytical illustration; readers should perform their own due diligence and consult licensed advisors before any investment decision.*

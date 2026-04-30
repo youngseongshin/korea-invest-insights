@@ -213,3 +213,7 @@ Pearl Abyss凭借全球运营《黑色沙漠》积累了十年的实时服务能
 *本文仅供参考和教育目的，不构成财务建议、投资推荐或任何证券的买卖要约。所有数据均来源于截至2026年4月4日的公开信息。销售估算和收入预测涉及多项假设，存在重大不确定性。投资者在作出任何投资决策前，应自行进行研究并咨询持牌财务顾问。作者可能持有文中提及证券的仓位。*
 
 *Korean Gaming Studios系列——发布于2026年4月4日*
+
+---
+
+*Disclaimer: For research and information purposes only. Not investment advice. Names cited are for analytical illustration; readers should perform their own due diligence and consult licensed advisors before any investment decision.*

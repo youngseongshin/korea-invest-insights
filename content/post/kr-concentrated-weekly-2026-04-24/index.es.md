@@ -86,3 +86,7 @@ La respuesta que emerge del análisis del día es clara: SK Hynix (000660.KS) li
 Los valores que generan señales de salida — Pearl Abyss y SK Telecom — no implican un deterioro fundamental severo, pero sí indican que el flujo marginal está migrando hacia sectores con mayor tracción en el ciclo actual.
 
 Para los inversores que monitorizan el mercado coreano desde el exterior, los datos primarios a seguir esta semana son: publicaciones de DART de SK Hynix y Hyundai E&C, datos de exportaciones de semiconductores del Ministerio de Comercio coreano, y cualquier movimiento de posición de inversores extranjeros (foreigners' net buying/selling) publicado diariamente por KRX.
+
+---
+
+*Disclaimer: For research and information purposes only. Not investment advice. Names cited are for analytical illustration; readers should perform their own due diligence and consult licensed advisors before any investment decision.*

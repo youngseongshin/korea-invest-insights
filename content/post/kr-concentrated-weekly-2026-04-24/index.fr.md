@@ -80,3 +80,7 @@ Le 24 avril 2026 offre aux investisseurs internationaux un cadre plus favorable 
 Pour les gérants émergents surveillant le KOSPI, la question n'est pas « faut-il s'exposer à la Corée ? » mais « sur quels segments, à quel prix de confirmation, et avec quelle tolérance au risque de taux américains ? » — une nuance qui fera toute la différence d'ici la fin de semaine.
 
 *Sources : KRX (Korea Exchange), DART (système de dépôt réglementaire coréen), rapports sectoriels Hana Securities, NH Investment & Securities, Mirae Asset (24 avril 2026).*
+
+---
+
+*Disclaimer: For research and information purposes only. Not investment advice. Names cited are for analytical illustration; readers should perform their own due diligence and consult licensed advisors before any investment decision.*

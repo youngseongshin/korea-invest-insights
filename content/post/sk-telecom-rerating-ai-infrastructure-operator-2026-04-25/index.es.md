@@ -19,11 +19,11 @@ tags: ["sk-telecom", "017670", "infraestructura-ia", "aidc", "gpuaas", "anthropi
 
 **Veredicto: Esperar / Comprar en caídas.**
 
-SK Telecom ya no es un simple nombre telco de dividendos. Tras el deterioro de resultados y dividendos de 2025 por un incidente de hackeo y costes extraordinarios, **2026 suma cinco factores a la vez:** normalización del negocio central, recuperación del dividendo, crecimiento del AIDC, la opción sobre la participación en Anthropic, y la narrativa de AI-RAN / 6G. Los ingresos consolidados de 2025 fueron **₩17,0992T**, beneficio operativo **₩1,0732T**, beneficio neto **₩375,1B** — caídas del -4,7% / -41,1% / -73,0% interanual — pero **los ingresos del AIDC crecieron ~35%.**
+SK Telecom ya no es un simple nombre telco de dividendos. Tras el deterioro de resultados y dividendos de 2025 por un incidente de hackeo y costes extraordinarios, **2026 suma cinco factores a la vez:** normalización del negocio central, recuperación del dividendo, crecimiento del AIDC, la opción sobre la participación en Anthropic, y la narrativa de AI-RAN / 6G. Los ingresos consolidados de 2025 fueron **₩17,0992T**, beneficio operativo **₩1,0732T**, beneficio neto **₩375,1B** — caídas del -4,7% / -41,1% / -73,0% interanual — pero **los ingresos del AIDC crecieron \~35%.**
 
 El precio actual es **₩100.000 (cierre del 24 de abril de 2026).** La dislocación respecto a los mínimos de principios y mediados de marzo está prácticamente cerrada; el movimiento hasta los ₩100.000 en abril significa que el mercado ya ha descontado parte de la recuperación del dividendo y la opción sobre la participación en IA.
 
-Por tanto, la pregunta operativa ya no es *"¿Es SK Telecom una buena compañía?"* — sino si la **capitalización bursátil actual de ~₩21,48T** está respaldada por suficiente flujo de caja o valor de activos para justificar un **re-rating adicional del 20–30% desde aquí.**
+Por tanto, la pregunta operativa ya no es *"¿Es SK Telecom una buena compañía?"* — sino si la **capitalización bursátil actual de \~₩21,48T** está respaldada por suficiente flujo de caja o valor de activos para justificar un **re-rating adicional del 20–30% desde aquí.**
 
 ---
 
@@ -54,7 +54,7 @@ Paso 5: El múltiplo EV/EBITDA telco se expande hacia la banda alta
 | Elemento | Confirmado | Lectura de Inversión |
 |---|---|---|
 | Precio actual | ₩100.000 (2026-04-24) | Ya en rango de máximo de 52 semanas. El riesgo de perseguir el precio es real. |
-| Acciones en circulación | 214.790.053 | Cap. bursátil ~₩21,48T al precio actual. |
+| Acciones en circulación | 214.790.053 | Cap. bursátil \~₩21,48T al precio actual. |
 | Resultados 2025 | Ingresos ₩17,0992T / BO ₩1,0732T / BN ₩375,1B | Base reducida por hackeo + extraordinarios. Margen para normalización en 2026. |
 | DPS 2025 | ₩1.660 | Caída brusca desde ₩3.540 en 2024. Recuperación del dividendo = 1.er catalizador. |
 | Autopista de Infraestructura IA | Tres ejes: AIDC / GPUaaS / Edge AI | SKT se posiciona oficialmente como operador de infraestructura IA. |
@@ -237,11 +237,11 @@ Cap = precio × acciones
 | ₩118.000 | ₩25,345T | +₩3,866T |
 | ₩130.000 | ₩27,923T | +₩6,444T |
 
-**Para pasar de ₩100.000 a ₩118.000 se requieren ~₩3,87T de valor en renta variable adicional.** Al menos 2 de los siguientes deben materializarse:
+**Para pasar de ₩100.000 a ₩118.000 se requieren \~₩3,87T de valor en renta variable adicional.** Al menos 2 de los siguientes deben materializarse:
 
 | Bloque de valor | Caso conservador | Caso alcista | Confirmación requerida |
 |---|---|---|---|
-| Normalización del dividendo | Soporte de suelo | Rotación de flujo hacia telco de vuelta | DPS 2026 ~₩3.540 |
+| Normalización del dividendo | Soporte de suelo | Rotación de flujo hacia telco de vuelta | DPS 2026 \~₩3.540 |
 | AIDC / GPUaaS | ₩1,0–1,6T | ₩2,5T+ | Crecimiento de ingresos, margen, contratos con clientes |
 | Participación en Anthropic | ₩1,0–2,0T | ₩3,0T+ | % de participación, dilución, OPV / nueva ronda |
 | Edge AI / AI-RAN / Network API | ₩0,3–1,0T | ₩2,5T+ | PoC de pago, facturación API, ahorro en RAN |
@@ -370,3 +370,7 @@ Veredicto, en síntesis: **las posiciones existentes pueden mantenerse; persegui
 ---
 
 **Aviso legal**: Esta publicación es un comentario de investigación, no un consejo de inversión. Las posiciones, condiciones y niveles de precio pueden cambiar a medida que lleguen nuevos datos. Realice su propio análisis.
+
+---
+
+*Disclaimer: For research and information purposes only. Not investment advice. Names cited are for analytical illustration; readers should perform their own due diligence and consult licensed advisors before any investment decision.*

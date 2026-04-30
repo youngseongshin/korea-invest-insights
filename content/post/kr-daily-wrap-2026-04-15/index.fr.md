@@ -91,3 +91,7 @@ Groupe de mode premium coréen (marques Hansom, Time, SJSJ, Mine), filiale du gr
 ---
 
 *Sources : macro-regime 2026-04-15 session soir · kr-close-briefing 2026-04-10 (dernières données disponibles) · Screener Quiet Accumulation généré le 2026-04-15 à 16:07 KST.*
+
+---
+
+*Disclaimer: For research and information purposes only. Not investment advice. Names cited are for analytical illustration; readers should perform their own due diligence and consult licensed advisors before any investment decision.*

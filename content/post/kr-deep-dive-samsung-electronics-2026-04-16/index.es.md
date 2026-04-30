@@ -26,7 +26,7 @@ Esto no es una actualización rutinaria. Esta es la imagen completa.
 | **Bolsa** | KOSPI (Korea Exchange) |
 | **Sector** | Tecnología de la Información / Semiconductores y Equipos de Semiconductores |
 | **Precio de Cierre (2026-04-16)** | KRW 217.500 |
-| **Participación Extranjera** | ~51% (entre las más altas del KOSPI) |
+| **Participación Extranjera** | \~51% (entre las más altas del KOSPI) |
 | **Productos Clave** | DRAM, NAND Flash, HBM, smartphones Galaxy, pantallas OLED, electrodomésticos, foundry (lógica avanzada) |
 
 **Resumen ejecutivo:** Samsung Electronics es, simultáneamente, el mayor fabricante de chips de memoria del mundo, el segundo mayor proveedor de smartphones y uno de los retadores más ambiciosos a TSMC en la industria de foundry. Se encuentra en la confluencia de tres tendencias tecnológicas definitorias de esta década: el desarrollo de infraestructura de IA (HBM, DRAM avanzada), el superciclo global de smartphones (series Galaxy S y Z) y el movimiento de diversificación soberana de semiconductores que canaliza miles de millones en subsidios gubernamentales hacia capacidad lógica avanzada fuera de Taiwán. Ninguna empresa fuera de Estados Unidos concentra tantos vientos de cola tecnológicos estructurales en un solo ticker.
@@ -39,7 +39,7 @@ Esto no es una actualización rutinaria. Esta es la imagen completa.
 
 El desarrollo de infraestructura de IA es, en esencia, una historia de memoria. Cada ciclo de entrenamiento de un modelo de lenguaje a gran escala — cada GPU Nvidia Blackwell o Hopper en un rack de hiperescalador — requiere memoria de alto ancho de banda (HBM) apilada directamente sobre él. Samsung es una de las tres únicas empresas del mundo capaz de producir HBM a escala: ella misma, SK Hynix y Micron. Y es la única de las tres con una cadena de suministro completamente integrada de extremo a extremo — chips de memoria, chips lógicos, paneles de pantalla, silicio para IoT y sistemas de audio conectados (a través de Harman) — todo bajo un mismo techo corporativo.
 
-Para los inversores globales, Samsung Electronics ofrece una de las expresiones más líquidas de la demanda de infraestructura de IA disponibles fuera de los valores cotizados en EE.UU. Su ratio de participación extranjera del ~51% y su inclusión en los índices MSCI Emerging Markets y FTSE EM significa que ya aparece en la mayoría de las carteras institucionales por defecto. La pregunta es si tienes convicción sobre esa posición — o simplemente vas a remolque del índice.
+Para los inversores globales, Samsung Electronics ofrece una de las expresiones más líquidas de la demanda de infraestructura de IA disponibles fuera de los valores cotizados en EE.UU. Su ratio de participación extranjera del \~51% y su inclusión en los índices MSCI Emerging Markets y FTSE EM significa que ya aparece en la mayoría de las carteras institucionales por defecto. La pregunta es si tienes convicción sobre esa posición — o simplemente vas a remolque del índice.
 
 ### Las Tendencias Globales que Impulsan a Samsung
 
@@ -56,11 +56,11 @@ El imperativo de construir capacidad lógica avanzada fuera de Taiwán ha conver
 
 | Métrica | Samsung | SK Hynix | Micron |
 |---|---|---|---|
-| Cuota Global de DRAM | ~40% | ~30% | ~25% |
+| Cuota Global de DRAM | \~40% | \~30% | \~25% |
 | Liderazgo en HBM (ciclo actual) | Retador | Líder de mercado | Recién llegado |
-| Cuota Global de NAND | ~30% | ~20% (vía Solidigm) | ~15% |
-| Cuota de Mercado en Foundry | ~10–12% | N/A | N/A |
-| Cuota Global de Smartphones | ~20% | N/A | N/A |
+| Cuota Global de NAND | \~30% | \~20% (vía Solidigm) | \~15% |
+| Cuota de Mercado en Foundry | \~10–12% | N/A | N/A |
+| Cuota Global de Smartphones | \~20% | N/A | N/A |
 
 La valoración honesta: la ventaja competitiva de Samsung reside en su amplitud e integración. Su debilidad en el ciclo de IA actual es que SK Hynix logró la cualificación y la rampa de volumen de HBM3E en Nvidia *antes* que Samsung, generando una brecha de calidad percibida por el mercado. Esa brecha — y si Samsung la cierra con HBM4 — es el debate central de la tesis en 2026.
 
@@ -112,7 +112,7 @@ Samsung Foundry está actualmente valorada como una retadora de menor escala. Un
 El retraso de Samsung en la cualificación de HBM3E frente a SK Hynix no fue un desliz menor de ejecución — fue un reto fundamental de rendimiento de fabricación y empaquetado. Si problemas similares reaparecen en el desarrollo de HBM4, Samsung arriesga ceder el segmento más rentable de la memoria a SK Hynix durante otra generación de productos. Este es el riesgo más citado en nuestro análisis interno a lo largo de todas las entradas del diario de marzo a abril de 2026.
 
 **Riesgo 2: Presión Vendedora de Inversores Extranjeros y Debilidad del Won**
-Con ~51% de participación extranjera, Samsung es extremadamente sensible a los flujos de fondos de mercados emergentes. Nuestro diario interno señaló "ventas netas extranjeras acumuladas" y "shock del tipo de cambio" como riesgos significativos a corto plazo ya en marzo de 2026. La trayectoria del won coreano frente al dólar — con USDKRW en niveles elevados — crea un obstáculo para los inversores que calculan sus retornos en moneda fuerte. Un período sostenido de debilidad del KRW penaliza efectivamente los retornos en dólares.
+Con \~51% de participación extranjera, Samsung es extremadamente sensible a los flujos de fondos de mercados emergentes. Nuestro diario interno señaló "ventas netas extranjeras acumuladas" y "shock del tipo de cambio" como riesgos significativos a corto plazo ya en marzo de 2026. La trayectoria del won coreano frente al dólar — con USDKRW en niveles elevados — crea un obstáculo para los inversores que calculan sus retornos en moneda fuerte. Un período sostenido de debilidad del KRW penaliza efectivamente los retornos en dólares.
 
 **Riesgo 3: Pico del Ciclo de Memoria y Consumo de Caja en Foundry**
 La memoria es inherentemente cíclica. El ciclo alcista actual ya está ampliamente anticipado por el mercado y, en cierta medida, descontado en precio. Si las adiciones de oferta (el propio capex de Samsung, una posible rampa de Micron, capacidad de memoria china) superan el crecimiento de la demanda, la expansión de ASP se estanca. Simultáneamente, la intensidad de capital de Samsung Foundry — construir fábricas avanzadas es una de las inversiones industriales más costosas del planeta — representa un consumo de caja persistente que deprime el flujo de caja libre incluso en años de memoria sólidos. La tensión en la asignación de capital entre la ambición en foundry y la retribución al accionista permanece sin resolver.
@@ -179,4 +179,6 @@ Para los inversores globales, esta es una empresa que merece un análisis direct
 
 *Fuentes de datos: Samsung Electronics IR (www.samsung.com/global/ir/), DART (dart.fss.or.kr), Korea Exchange (KRX) y análisis interno a abril de 2026. Datos de precio a cierre del 2026-04-16.*
 
-*Este análisis tiene únicamente fines informativos y no constituye asesoramiento de inversión. El rendimiento pasado no es indicativo de resultados futuros. Toda inversión conlleva riesgos, incluida la posible pérdida del capital principal.*
+---
+
+*Disclaimer: For research and information purposes only. Not investment advice. Names cited are for analytical illustration; readers should perform their own due diligence and consult licensed advisors before any investment decision.*

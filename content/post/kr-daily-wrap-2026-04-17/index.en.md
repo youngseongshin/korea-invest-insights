@@ -66,10 +66,14 @@ Foreign investors continued to be the marginal buyer in large-cap tech. Institut
 
 ### Context on the Top 3
 
-**성호전자 (043260.KQ)** — An electronic components manufacturer specializing in passive components used in communications and industrial electronics. Its perfect RS of 100 means it has outperformed every other listed stock on a 1-year trailing basis. Volume of 2.3 million shares on a +5.3% day (market cap ~₩3 trillion range) without RSI overextension (61.6) is a technically constructive setup: momentum with room to run. The AI infrastructure build-out is a plausible demand driver for its product lines.
+**성호전자 (043260.KQ)** — An electronic components manufacturer specializing in passive components used in communications and industrial electronics. Its perfect RS of 100 means it has outperformed every other listed stock on a 1-year trailing basis. Volume of 2.3 million shares on a +5.3% day (market cap \~₩3 trillion range) without RSI overextension (61.6) is a technically constructive setup: momentum with room to run. The AI infrastructure build-out is a plausible demand driver for its product lines.
 
 **RF머트리얼즈 (055490.KQ)** — A specialist in RF (radio frequency) materials and components for next-generation wireless infrastructure, including 5G/6G base station builds. RS of 99.8 and a +22.5% single-day move cited in the briefing data make it one of the session's headline movers within the telecom infrastructure cluster (alongside RFHIC and 케이엠더블유). At 129.5% of its moving average with RSI at 68, it is extended but not yet at extreme readings. Pullback entries are the prudent approach given the overnight gap risk.
 
 **대우건설 (047040.KS)** — One of Korea's major construction conglomerates with significant exposure to overseas (particularly Middle East) project pipelines. The stock is flagging here on pure RS momentum (99.8) after a strong multi-week run tied to the Saudi/UAE reconstruction narrative. The divergence worth noting: RS is elite, but the day's +0.3% close and the VWAP failures in intraday action suggest the easy money from this re-rating may already be in. RSI at 78.4 and 141% deviation from the moving average are caution flags for new entries.
 
 **Bottom line for this screener:** The bull regime is confirmed and breadth is healthy enough to justify incremental exposure — but at FTD Day 13 with top names already 130–154% above their moving averages, the risk/reward on chasing favors waiting for controlled pullbacks over immediate breakout chasing.
+
+---
+
+*Disclaimer: For research and information purposes only. Not investment advice. Names cited are for analytical illustration; readers should perform their own due diligence and consult licensed advisors before any investment decision.*

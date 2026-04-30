@@ -77,3 +77,7 @@ Plusieurs catalyseurs méritent un suivi attentif dès le 1er mai :
 - **Macro** : évolution du pétrole et des tensions en mer d'Ormuz, interprétation des déclarations Fed post-FOMC.
 
 La structure du marché coréen reste en mode « sélectif ». Les indices reculent sous pression macro, mais les secteurs liés à l'infrastructure IA et à l'énergie électrique affichent une résilience qui témoigne d'une rotation de qualité plutôt que d'une liquidation généralisée. Pour les investisseurs internationaux, cette divergence entre la performance des indices et celle des leaders sectoriels constitue précisément le type d'opportunité que le KOSPI offre dans les phases de stress macro modéré.
+
+---
+
+*Disclaimer: For research and information purposes only. Not investment advice. Names cited are for analytical illustration; readers should perform their own due diligence and consult licensed advisors before any investment decision.*

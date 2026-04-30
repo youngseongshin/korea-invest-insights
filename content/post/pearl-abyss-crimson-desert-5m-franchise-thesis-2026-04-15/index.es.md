@@ -19,7 +19,7 @@ Pero si todavía enmarca la tesis de Pearl Abyss en torno a "¿llegará a 7,5 mi
 
 ## Resumen Ejecutivo
 
-- **7,5 millones de copias ya no es el potencial alcista — está más cerca de ser el suelo.** Con 5M confirmados al 15 de abril y una velocidad reciente de ~71.000 copias/día durante la última ventana de seguimiento oficial, alcanzar 7,5M requiere únicamente ~9.600/día durante el resto del año. La brecha entre la velocidad actual y el ritmo necesario es enorme.
+- **7,5 millones de copias ya no es el potencial alcista — está más cerca de ser el suelo.** Con 5M confirmados al 15 de abril y una velocidad reciente de \~71.000 copias/día durante la última ventana de seguimiento oficial, alcanzar 7,5M requiere únicamente \~9.600/día durante el resto del año. La brecha entre la velocidad actual y el ritmo necesario es enorme.
 - **El verdadero catalizador son 9–10 millones de copias + una hoja de ruta formal de DLC/multijugador.** Las actualizaciones gratuitas importan no por sus ingresos directos, sino por su capacidad de **aplanar la curva de decaimiento** y extender el flujo de ingresos hasta 2027.
 - **BlackSpace Engine está probado. Dokabi sigue siendo una opción.** El motor ha pasado de demo tecnológica a infraestructura comercial AAA — pero el grueso de cualquier revalorización de capitalización bursátil sigue proviniendo de los flujos de caja post-2027 de Crimson Desert. Dokabi es valor de opción en esta etapa, nada más.
 
@@ -51,7 +51,7 @@ Desglosando en **P × Q × C**: **P** = ASP del juego base por región más el p
 
 **Clasificación: Alpha Idiosincrásico**
 
-Al 15 de abril, estamos en 5 millones. Alcanzar 7,5M antes de fin de año requiere vender 2,5M más a lo largo de ~260 días — aproximadamente **9.600 copias por día**. Mientras tanto, la ventana oficialmente rastreable más reciente (1 de abril en 4M → 15 de abril en 5M) implica aproximadamente **71.000 copias por día**. Ese ritmo no se mantendrá indefinidamente, pero la brecha entre la velocidad requerida y la observada es llamativa.
+Al 15 de abril, estamos en 5 millones. Alcanzar 7,5M antes de fin de año requiere vender 2,5M más a lo largo de \~260 días — aproximadamente **9.600 copias por día**. Mientras tanto, la ventana oficialmente rastreable más reciente (1 de abril en 4M → 15 de abril en 5M) implica aproximadamente **71.000 copias por día**. Ese ritmo no se mantendrá indefinidamente, pero la brecha entre la velocidad requerida y la observada es llamativa.
 
 En nuestra evaluación, **7,5 millones ya no es "¿hasta dónde puede llegar?" — es "¿cuál es el mínimo que puede sostener?"**
 
@@ -59,7 +59,7 @@ Traduciendo al precio de la acción: nuestro modelo interno de sensibilidad de b
 
 El error persistente del mercado: el **marco "pico de lanzamiento → decaimiento inmediato"** que los inversores coreanos aplican reflexivamente a los juegos empaquetados. Los números actualmente dicen lo contrario. 7,5M es un listón demasiado bajo. **El debate debería centrarse en 9–10M y en si los flujos de caja sobreviven hasta 2027.**
 
-**Equipo Rojo:** Si la tasa de salida de mayo-junio colapsa y las ventas diarias convergen hacia ~10K, la tesis de "7,5M es el suelo" se debilita significativamente. **La pendiente de desaceleración en mayo-junio importa más que el total absoluto de ventas.**
+**Equipo Rojo:** Si la tasa de salida de mayo-junio colapsa y las ventas diarias convergen hacia \~10K, la tesis de "7,5M es el suelo" se debilita significativamente. **La pendiente de desaceleración en mayo-junio importa más que el total absoluto de ventas.**
 
 ### Tesis 2: Las Actualizaciones Gratuitas No Son Sobre Contenido Gratuito — Son Sobre la Defensa de la Tasa de Decaimiento
 
@@ -69,7 +69,7 @@ La hoja de ruta de actualizaciones de abril-junio no es un simple paquete de mej
 
 Los efectos ya son observables. Durante una ventana de seguimiento de 48 horas tras las actualizaciones recientes, registramos: **usuarios concurrentes en pico aumentaron un 35,9% (146K → 198K)**, **usuarios concurrentes en mínimo aumentaron un 72,5% (75,5K → 130,2K)**, **el ranking de ventas en EE.UU. mejoró del #5 al #2**, **China del #8 al #4**, y **positividad de nuevas reseñas al 94%**. Esto es evidencia — no prueba, sino evidencia — de que la cadencia de actualizaciones y la integración del feedback influyen de manera significativa en las ventas a corto plazo y la retención.
 
-Desde la perspectiva del inversor, el valor de las actualizaciones gratuitas **no son los ingresos directos sino las ventas incrementales del juego base**. Con una sensibilidad de ~KRW 10.000 por millón de copias, si el programa de actualizaciones impulsa 300.000–600.000 ventas acumuladas adicionales en 2026, eso es **KRW 3.000–6.000 de soporte al precio de la acción**. Ese es el efecto de primer orden.
+Desde la perspectiva del inversor, el valor de las actualizaciones gratuitas **no son los ingresos directos sino las ventas incrementales del juego base**. Con una sensibilidad de \~KRW 10.000 por millón de copias, si el programa de actualizaciones impulsa 300.000–600.000 ventas acumuladas adicionales en 2026, eso es **KRW 3.000–6.000 de soporte al precio de la acción**. Ese es el efecto de primer orden.
 
 El efecto de segundo orden es mayor. Cuando el mercado empiece a creer que "esto no es un paquete de usar y tirar — están construyendo una franquicia en vivo hasta 2027," **el múltiplo en sí cambia**. Nuestro modelo deja espacio para **PER +2–3x tras el anuncio formal de la hoja de ruta de DLC/multijugador**.
 
@@ -103,7 +103,7 @@ El significado es directo. **Las posiciones existentes son mantenibles, pero el 
 
 **El marco de valoración** opera en dos capas:
 
-1. **El potencial alcista del juego base** utiliza el modelo de sensibilidad de beneficios FY26: **caso base de 7,8M de copias = KRW 74.500; ~KRW 10.000 por cada millón adicional de copias; PER +2–3x ante anuncio de DLC.**
+1. **El potencial alcista del juego base** utiliza el modelo de sensibilidad de beneficios FY26: **caso base de 7,8M de copias = KRW 74.500; \~KRW 10.000 por cada millón adicional de copias; PER +2–3x ante anuncio de DLC.**
 2. **Las opciones de motor/Dokabi** utilizan un SOTP de IP conservador: **Dokabi base KRW 0,2 billones / alcista KRW 0,4 billones; motor y otras opciones KRW 0,1–0,2 billones.**
 
 Matriz de escenarios:
@@ -146,7 +146,7 @@ Por encima de KRW 100.000 se requieren **volumen de ventas + hoja de ruta juntos
 - 4M de copias confirmadas el 1 de abril; 5M confirmadas el 15 de abril
 - Actualizaciones gratuitas de abril-junio anunciadas: revanches contra jefes, reconquista, ajustes de dificultad, nuevas habilidades/trajes/mascotas/monturas, almacenamiento, mejoras de UI/controles
 - I+D H1 2025: KRW 61,2 mil millones (37,5% de ingresos); BlackSpace Engine con foco en trazado de rayos, renderizado, físicas, optimización de mundo abierto
-- Dirección: revelación de Dokabi "en el momento adecuado" tras Crimson Desert; informe separado estima ~2 años hasta el lanzamiento
+- Dirección: revelación de Dokabi "en el momento adecuado" tras Crimson Desert; informe separado estima \~2 años hasta el lanzamiento
 
 **[Inferencia]**
 - 7,5M es ahora un suelo en lugar de un objetivo alcista
@@ -169,4 +169,4 @@ El próximo punto de decisión es singular: **¿apoyan los datos de mayo-junio l
 
 ---
 
-*Aviso legal: Este análisis es únicamente para fines informativos y no constituye asesoramiento de inversión. Todas las decisiones de inversión deben basarse en su propia investigación y evaluación del riesgo.*
+*Disclaimer: For research and information purposes only. Not investment advice. Names cited are for analytical illustration; readers should perform their own due diligence and consult licensed advisors before any investment decision.*

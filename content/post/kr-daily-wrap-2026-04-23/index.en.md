@@ -63,7 +63,7 @@ Thursday's Korea stock market session extended a week-long recovery that has pus
 ### Top 3 in Focus
 
 **SK Square (402340.KS) — Score 0.966, P/E 10.9x**
-SK Square is the investment holding company that owns a ~20% stake in SK Hynix along with a portfolio of tech subsidiaries (11Street, SK Shieldus, Incross). The 84.1% operating margin reflects the holding-company structure — essentially a leveraged play on SK Hynix's semiconductor cycle at a significant NAV discount. At 10.9x trailing earnings, it is the cheapest name in the top-20 cohort by a wide margin, and its near-all-time-high RS (99.1 percentile) suggests the market is beginning to close that discount. The +77.8% revenue growth flags meaningful portfolio monetization on top of the HBM cycle tailwind.
+SK Square is the investment holding company that owns a \~20% stake in SK Hynix along with a portfolio of tech subsidiaries (11Street, SK Shieldus, Incross). The 84.1% operating margin reflects the holding-company structure — essentially a leveraged play on SK Hynix's semiconductor cycle at a significant NAV discount. At 10.9x trailing earnings, it is the cheapest name in the top-20 cohort by a wide margin, and its near-all-time-high RS (99.1 percentile) suggests the market is beginning to close that discount. The +77.8% revenue growth flags meaningful portfolio monetization on top of the HBM cycle tailwind.
 
 **Sanil Electric (062040.KS) — Score 0.930, P/E 43.2x**
 Sanil manufactures power transformers and distribution equipment, sitting at the intersection of two secular capex waves: domestic grid modernization and data-center power supply. ROE of 29.2% and a 35.6% operating margin are exceptional for heavy electrical manufacturing, pointing to pricing power from a constrained supply base. Revenue growth of +50.3% YoY reflects backlog execution rather than demand pull-forward, making the 43x multiple more defensible than it appears on the surface.
@@ -73,4 +73,4 @@ Leeno is the dominant Korean maker of semiconductor test sockets — the precisi
 
 ---
 
-*Data sourced from OpenClaw macro-regime and screener pipelines as of 16:23 KST, 2026-04-23. Not investment advice.*
+*Disclaimer: For research and information purposes only. Not investment advice. Names cited are for analytical illustration; readers should perform their own due diligence and consult licensed advisors before any investment decision.*

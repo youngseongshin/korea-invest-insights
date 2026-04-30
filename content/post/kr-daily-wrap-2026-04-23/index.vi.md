@@ -72,3 +72,7 @@ Nhà sản xuất máy biến áp và thiết bị điện phân phối — mộ
 ---
 
 *Dữ liệu screener tính đến 16:23 KST ngày 23/04/2026. Bài viết mang tính chất thông tin thị trường, không phải khuyến nghị đầu tư.*
+
+---
+
+*Disclaimer: For research and information purposes only. Not investment advice. Names cited are for analytical illustration; readers should perform their own due diligence and consult licensed advisors before any investment decision.*

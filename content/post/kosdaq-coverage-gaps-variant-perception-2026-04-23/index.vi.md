@@ -9,9 +9,9 @@ series: ["kosdaq-structural-2026"]
 ---
 
 > **Series — KOSDAQ Structural 2026 (Phần 4/4, bonus)**
-> ① [Điều kiện thu hút dòng vốn & Xếp hạng VC](/en/post/kosdaq-2026-capital-inflow-triggers-vc-ranking-2026-04-21/) — bối cảnh chính sách
-> ② [Thế hệ IPO 2023-2026: Nơi trú ngụ của những cổ phiếu tăng 10×](/en/post/kosdaq-ipo-class-2023-2026-tenbagger-analysis-2026-04-22/) — những cái tên chiến thắng hậu IPO
-> ③ [Thống kê đầy đủ tenbagger Hàn Quốc 10×](/en/post/kr-tenbagger-census-2023-2026-2026-04-23/) — những cổ phiếu thực sự tăng 10× trong 3 năm
+> ① [Điều kiện thu hút dòng vốn & Xếp hạng VC](/post/kosdaq-2026-capital-inflow-triggers-vc-ranking-2026-04-21/) — bối cảnh chính sách
+> ② [Thế hệ IPO 2023-2026: Nơi trú ngụ của những cổ phiếu tăng 10×](/post/kosdaq-ipo-class-2023-2026-tenbagger-analysis-2026-04-22/) — những cái tên chiến thắng hậu IPO
+> ③ [Thống kê đầy đủ tenbagger Hàn Quốc 10×](/post/kr-tenbagger-census-2023-2026-2026-04-23/) — những cổ phiếu thực sự tăng 10× trong 3 năm
 > ④ **Bài này** — nơi sell-side *chưa* có mặt, và tại sao điều đó quan trọng
 
 ---
@@ -22,7 +22,7 @@ Nếu tenbagger có xu hướng tập trung, sự chú ý của sell-side cũng 
 
 Chúng tôi rà soát toàn bộ báo cáo broker nộp lên Hankyung Consensus (한경컨센서스) trong 3 tháng gần nhất — từ 23/01 đến 23/04/2026 — trên 11 broker có tích hợp vào nền tảng này (LS, Eugene, SK, iM, Meritz, Yuanta, Hanwha, IBK, Daishin, Sangsangin, KoreaIR). **Chỉ 52 cổ phiếu KOSDAQ được phủ sóng từ ≥2 broker trong giai đoạn đó.**
 
-Con số này trên tổng ~1.777 cổ phiếu KOSDAQ.
+Con số này trên tổng \~1.777 cổ phiếu KOSDAQ.
 
 ---
 
@@ -31,7 +31,7 @@ Con số này trên tổng ~1.777 cổ phiếu KOSDAQ.
 Hankyung không bao gồm Samsung, Mirae Asset, Kiwoom, NH, Hana, Shinhan, KB, Korea Investment, DB, hay Daol — hơn 10 công ty lớn. Vì vậy "2 broker trên Hankyung" thực tế tương đương **4-6 broker thực sự** trên thị trường. Điều này đặc biệt quan trọng với một số cái tên bên dưới vốn bị đánh giá thấp hơn thực tế.
 
 - [Sự thật] 52 cổ phiếu vượt ngưỡng 2 broker / 3 tháng trên Hankyung
-- [Suy luận] Phủ sóng thực tế toàn thị trường cao hơn ~1,8-2,5 lần con số được công bố
+- [Suy luận] Phủ sóng thực tế toàn thị trường cao hơn \~1,8-2,5 lần con số được công bố
 - [Chưa có dữ liệu] Consensus giá mục tiêu và phân phối khuyến nghị không thể tính toán từ bộ dữ liệu này (cần FnGuide)
 
 ---
@@ -170,7 +170,7 @@ Vốn hóa 94 tỷ KRW, cổ tức ổn + cải thiện biên lợi nhuận, tă
 
 **Small-cap quốc phòng đang thu hút lượng traffic thực sự.** Ba cổ phiếu trong vùng vốn hóa 100-300 tỷ, tất cả đều có báo cáo gần đây (7/4, 15/4, 17/4). **Coats Technologies ở mức 124 tỷ KRW với 3 broker** là mật độ phủ sóng trên vốn hóa thường thấy trước khi một cổ phiếu được nâng cấp vào consensus sell-side chính thống.
 
-**Lạm phát từ KoreaIR Council.** ~5 trong 9 cổ phiếu vốn hóa nhỏ có một trong hai "lần phủ sóng" đến từ KoreaIR Council. Đây là sản phẩm nghiên cứu khởi điểm có tài trợ — hữu ích nhưng không phải ý kiến độc lập thứ hai. Loại bỏ yếu tố đó, hầu hết các cổ phiếu này thực chất chỉ là "1 broker + báo cáo khởi điểm" — mỏng hơn đáng kể so với con số thô, và phản ánh chính xác hơn nơi cơ hội variant perception thực sự tồn tại.
+**Lạm phát từ KoreaIR Council.** \~5 trong 9 cổ phiếu vốn hóa nhỏ có một trong hai "lần phủ sóng" đến từ KoreaIR Council. Đây là sản phẩm nghiên cứu khởi điểm có tài trợ — hữu ích nhưng không phải ý kiến độc lập thứ hai. Loại bỏ yếu tố đó, hầu hết các cổ phiếu này thực chất chỉ là "1 broker + báo cáo khởi điểm" — mỏng hơn đáng kể so với con số thô, và phản ánh chính xác hơn nơi cơ hội variant perception thực sự tồn tại.
 
 ---
 
@@ -202,6 +202,10 @@ Nếu sell-side chưa viết ra, thị trường chưa định giá. Đây là 9
 ---
 
 _Bài viết bonus này khép lại series KOSDAQ Structural 2026._
-_[Phần 1: Xếp hạng VC.](/en/post/kosdaq-2026-capital-inflow-triggers-vc-ranking-2026-04-21/) [Phần 2: Thế hệ IPO tenbagger.](/en/post/kosdaq-ipo-class-2023-2026-tenbagger-analysis-2026-04-22/) [Phần 3: Thống kê đầy đủ 10×.](/en/post/kr-tenbagger-census-2023-2026-2026-04-23/)_
+_[Phần 1: Xếp hạng VC.](/post/kosdaq-2026-capital-inflow-triggers-vc-ranking-2026-04-21/) [Phần 2: Thế hệ IPO tenbagger.](/post/kosdaq-ipo-class-2023-2026-tenbagger-analysis-2026-04-22/) [Phần 3: Thống kê đầy đủ 10×.](/post/kr-tenbagger-census-2023-2026-2026-04-23/)_
 
 _Không có nội dung nào ở đây là tư vấn đầu tư. Tất cả cổ phiếu được đề cập chỉ là ý tưởng để nghiên cứu thêm._
+
+---
+
+*Disclaimer: For research and information purposes only. Not investment advice. Names cited are for analytical illustration; readers should perform their own due diligence and consult licensed advisors before any investment decision.*

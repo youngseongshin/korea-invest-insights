@@ -224,4 +224,4 @@ draft: false
 
 ---
 
-*本文仅供研究参考，不构成投资建议。研究范围：2023-2026年截至4月的KOSDAQ新上市企业。SPAC过滤标准：韩文代码名称含"스팩"。基本面数据窗口：2026-04-14至2026-04-21（KRX信披数据）。所有回报均以上市首日收盘价为基准，计算至2026-04-21收盘。*
+*Disclaimer: For research and information purposes only. Not investment advice. Names cited are for analytical illustration; readers should perform their own due diligence and consult licensed advisors before any investment decision.*

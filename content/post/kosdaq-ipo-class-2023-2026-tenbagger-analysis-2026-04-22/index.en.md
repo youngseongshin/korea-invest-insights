@@ -225,4 +225,4 @@ Next on the research stack: Tier 1 single-name deep-dives — starting with the 
 
 ---
 
-*Research and commentary only, not investment advice. Universe: KOSDAQ new listings 2023-2026 YTD April. SPAC filter: Korean ticker names containing "스팩." Data window for fundamentals: 2026-04-14 to 2026-04-21 (KRX disclosure feed). All returns measured from IPO closing price to 2026-04-21 close.*
+*Disclaimer: For research and information purposes only. Not investment advice. Names cited are for analytical illustration; readers should perform their own due diligence and consult licensed advisors before any investment decision.*

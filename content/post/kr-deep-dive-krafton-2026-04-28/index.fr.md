@@ -11,7 +11,7 @@ draft: false
 
 # Krafton : Le créateur de PUBG mise sur inZOI et un avenir à 3 000 milliards de wons
 
-**Krafton, Inc. (ticker : 259960.KS, KOSPI)** est l'éditeur sud-coréen de jeux vidéo surtout connu comme le créateur de *PUBG: Battlegrounds* — le phénomène battle royale qui a engendré tout un genre et attire encore plus de 1,3 million de joueurs simultanés au pic sur Steam en mars 2026, neuf ans après son lancement. Dans ses résultats annuels 2025 publiés le 9 février 2026, Krafton a annoncé un chiffre d'affaires record de **3 326,6 milliards de KRW** (~2,4 milliards USD), faisant son entrée dans l'élite coréenne des entreprises dépassant les 3 000 milliards de wons et confirmant sa position parmi les franchises de jeux les plus rentables d'Asie. Avec un pipeline de nouvelles IP en pleine expansion — dont le simulateur de vie basé sur l'IA *inZOI* — et un portefeuille de studios désormais fort de 19 équipes, Krafton se transforme discrètement d'une entreprise à franchise unique en une maison de contenus multi-IP dotée de véritables ambitions mondiales.
+**Krafton, Inc. (ticker : 259960.KS, KOSPI)** est l'éditeur sud-coréen de jeux vidéo surtout connu comme le créateur de *PUBG: Battlegrounds* — le phénomène battle royale qui a engendré tout un genre et attire encore plus de 1,3 million de joueurs simultanés au pic sur Steam en mars 2026, neuf ans après son lancement. Dans ses résultats annuels 2025 publiés le 9 février 2026, Krafton a annoncé un chiffre d'affaires record de **3 326,6 milliards de KRW** (\~2,4 milliards USD), faisant son entrée dans l'élite coréenne des entreprises dépassant les 3 000 milliards de wons et confirmant sa position parmi les franchises de jeux les plus rentables d'Asie. Avec un pipeline de nouvelles IP en pleine expansion — dont le simulateur de vie basé sur l'IA *inZOI* — et un portefeuille de studios désormais fort de 19 équipes, Krafton se transforme discrètement d'une entreprise à franchise unique en une maison de contenus multi-IP dotée de véritables ambitions mondiales.
 
 ---
 
@@ -26,7 +26,7 @@ draft: false
 | **Marques phares** | PUBG: Battlegrounds, PUBG Mobile (sous licence Tencent), inZOI, MIMESIS |
 | **Siège social** | Séoul, Corée du Sud |
 | **PDG** | Chang-Han Kim (김창한) |
-| **CA FY2025** | 3 326,6 milliards de KRW (~2,4 Md USD) |
+| **CA FY2025** | 3 326,6 milliards de KRW (\~2,4 Md USD) |
 | **Résultat opérationnel FY2025** | 1 054,4 milliards de KRW |
 
 **L'essentiel en quelques mots :** Krafton a construit l'une des franchises live-service les plus durables de l'histoire du jeu PC avec PUBG, puis a utilisé une décennie de flux de trésorerie pour financer un pipeline de 26 titres en développement. L'entreprise opère aujourd'hui sa transition d'opérateur mono-IP vers une société de jeux vidéo diversifiée, avec une exposition structurelle au boom du jeu mobile en Inde, au segment mondial de la simulation de vie et aux applications naissantes de l'IA physique — le tout sur la base d'un bilan sans dette significative et d'une trésorerie nette supérieure à 1 000 milliards de KRW.
@@ -168,11 +168,11 @@ Les pondérations dans les ETF varient et sont mises à jour périodiquement ; c
 
 | Métrique | FY2023 | FY2024 | FY2025 |
 |---|---|---|---|
-| Chiffre d'affaires (Mds KRW) | ~1 910 | 2 709,8 | 3 326,6 |
+| Chiffre d'affaires (Mds KRW) | \~1 910 | 2 709,8 | 3 326,6 |
 | Croissance CA en g.a. | — | +41,8 % | +22,8 % |
-| Résultat opérationnel (Mds KRW) | ~768 | 1 182,5 | 1 054,4 |
-| Marge opérationnelle | — | ~43,6 % | ~31,7 % |
-| Résultat net (Mds KRW) | ~594 | 1 302,6 | n/d |
+| Résultat opérationnel (Mds KRW) | \~768 | 1 182,5 | 1 054,4 |
+| Marge opérationnelle | — | \~43,6 % | \~31,7 % |
+| Résultat net (Mds KRW) | \~594 | 1 302,6 | n/d |
 | Marge EBITDA ajustée | — | 51,3 % | n/d |
 
 *Sources : Communiqué de résultats annuels de Krafton (9 février 2026), rapport annuel DART (사업보고서) déposé pour FY2024, documents de relations investisseurs de l'entreprise. Les données détaillées par segment pour FY2025 sont en attente du dépôt annuel complet.*
@@ -195,3 +195,7 @@ Le repositionnement de vision d'entreprise annoncé en février 2026 — articul
 ---
 
 > **Avertissement :** Cette analyse est fournie à titre informatif uniquement et ne constitue pas un conseil en investissement. Toutes les données financières citées sont issues de documents publics de l'entreprise, de communiqués de presse et de déclarations réglementaires. Les performances passées d'une entreprise ne préjugent pas de ses résultats futurs. Les investisseurs sont invités à effectuer leur propre analyse et à consulter un conseiller financier agréé avant toute décision d'investissement.
+
+---
+
+*Disclaimer: For research and information purposes only. Not investment advice. Names cited are for analytical illustration; readers should perform their own due diligence and consult licensed advisors before any investment decision.*

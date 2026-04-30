@@ -143,4 +143,4 @@ Pearl Abyss atraviesa actualmente una fase en la que **el precio no se derrumba,
 
 ---
 
-*Aviso legal: Este análisis tiene únicamente fines informativos y no constituye asesoramiento de inversión. La rentabilidad pasada no garantiza resultados futuros. Realice siempre su propio análisis antes de tomar decisiones de inversión.*
+*Disclaimer: For research and information purposes only. Not investment advice. Names cited are for analytical illustration; readers should perform their own due diligence and consult licensed advisors before any investment decision.*

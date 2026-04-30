@@ -27,7 +27,7 @@ draft: false
 
 ## Tóm tắt nhanh
 
-- **Lý do cổ phiếu tăng**: (1) FC-BGA gia nhập hệ sinh thái Vera Rubin của Nvidia qua NV Switch, sau đó trở thành **nhà cung cấp đầu tiên cho Groq3 LPU** (sản xuất đại trà Q2/2026) — một vị trí được xác nhận trong chuỗi giá trị package substrate máy chủ AI; (2) chu kỳ giá MLCC đảo chiều khi hàm lượng MLCC trong máy chủ AI bùng nổ (~600.000 chiếc/VR200 NVL72) và Murata/Taiyo Yuden dẫn đầu đợt tăng giá; (3) khoản đầu tư 1,8 nghìn tỷ KRW tại Việt Nam và liên doanh glass substrate với Sumitomo làm rõ trục tăng trưởng từ 2027 trở đi.
+- **Lý do cổ phiếu tăng**: (1) FC-BGA gia nhập hệ sinh thái Vera Rubin của Nvidia qua NV Switch, sau đó trở thành **nhà cung cấp đầu tiên cho Groq3 LPU** (sản xuất đại trà Q2/2026) — một vị trí được xác nhận trong chuỗi giá trị package substrate máy chủ AI; (2) chu kỳ giá MLCC đảo chiều khi hàm lượng MLCC trong máy chủ AI bùng nổ (\~600.000 chiếc/VR200 NVL72) và Murata/Taiyo Yuden dẫn đầu đợt tăng giá; (3) khoản đầu tư 1,8 nghìn tỷ KRW tại Việt Nam và liên doanh glass substrate với Sumitomo làm rõ trục tăng trưởng từ 2027 trở đi.
 - **Góc nhìn đầu tư**: Đây là cách chơi đòn bẩy linh kiện và substrate trong một chu kỳ hạ tầng AI theo nghịch lý Jevons. Không phải hồi phục theo chu kỳ — đây là **sự chuyển dịch cơ cấu trong cơ cấu sản phẩm, kết hợp với việc chuyển giao quyền định giá**. Yếu tố sự kiện ngắn hạn (kết quả Q1/2026, thông báo tăng giá của Murata, ramping Groq3) giao thoa với đặc điểm của một công ty tăng trưởng bền vững.
 - **Hành động tiếp theo**: theo dõi kết quả Q1/2026 cuối tháng 4 → diễn biến OPM mảng linh kiện và đóng gói → ngày chính thức Murata tăng giá trong Q2 là sự kiện xác nhận then chốt. Nắm giữ, hoặc tích lũy thêm khi có nhịp điều chỉnh.
 
@@ -51,8 +51,8 @@ draft: false
 - **Sản phẩm cốt lõi**: (1) MLCC dung lượng cao, chịu nhiệt cao cho máy chủ AI; (2) FC-BGA cho chip tăng tốc AI (NV Switch, Groq3 LPU, AMD MI series).
 - **Các con số**: Doanh thu 2025 đạt 11,3 nghìn tỷ KRW (kỷ lục); lợi nhuận hoạt động 913,3 tỷ KRW (+24,3% so với cùng kỳ). Đồng thuận OP 2026E: 1,1–1,28 nghìn tỷ KRW. OPM mảng linh kiện đang phục hồi theo cơ cấu.
 - **Lợi thế cạnh tranh**: Xếp hạng #2 thế giới về MLCC (thế độc quyền nhị phân với Murata). Nhà sản xuất FC-BGA cấp máy chủ theo khối lượng đầu tiên của Hàn Quốc (từ 2022) và một trong số ít tên tuổi toàn cầu có năng lực sản xuất substrate cao cấp cấp máy chủ. Bí quyết nội tại về patterning mịn, substrate diện tích lớn và nhiều lớp, vật liệu low-loss.
-- **Xu hướng tăng trưởng**: **Thuận chiều mạnh.** Máy chủ AI cần hàm lượng MLCC cao gấp ~20 lần so với điện thoại thông minh (≈1.000 chiếc/điện thoại so với ~600.000 chiếc/máy chủ AI). Xu hướng FC-BGA diện tích lớn, nhiều lớp đang hấp thụ toàn bộ công suất cung ứng.
-- **Xúc tác bứt phá**: (a) Tăng 10% ASP MLCC tạo đòn bẩy lợi nhuận hoạt động ~600 tỷ KRW; (b) sản xuất đại trà glass substrate từ 2027; (c) thăng hạng lên Tier-1 supplier của Nvidia.
+- **Xu hướng tăng trưởng**: **Thuận chiều mạnh.** Máy chủ AI cần hàm lượng MLCC cao gấp \~20 lần so với điện thoại thông minh (≈1.000 chiếc/điện thoại so với \~600.000 chiếc/máy chủ AI). Xu hướng FC-BGA diện tích lớn, nhiều lớp đang hấp thụ toàn bộ công suất cung ứng.
+- **Xúc tác bứt phá**: (a) Tăng 10% ASP MLCC tạo đòn bẩy lợi nhuận hoạt động \~600 tỷ KRW; (b) sản xuất đại trà glass substrate từ 2027; (c) thăng hạng lên Tier-1 supplier của Nvidia.
 - **Nhận định đầu tư**: **Dẫn đầu công nghệ + yếu tố sự kiện + định giá lại — ba yếu tố cùng xảy ra đồng thời.** Vùng quá nhiệt ngắn hạn, nhưng sự chuyển dịch cơ cấu vẫn đang ở giữa chặng đường.
 
 ---
@@ -71,10 +71,10 @@ Cho đến gần đây, SEMCO vẫn bị nhìn nhận như một công ty phụ 
 
 | Phân khúc | Sản phẩm chính | Doanh thu 2025 | Tỷ trọng | So với cùng kỳ |
 |---|---|---|---|---|
-| **Linh kiện** | MLCC, power inductor, chip resistor | ~46.000 | ~41% | +low teens |
-| **Package Solutions** | FC-BGA, BGA, FC-CSP | ~22.000 | ~19% | FC-BGA máy chủ +17% |
-| **Optical Solutions** | Module camera, module viễn thông | ~37.000 | ~33% | +9% |
-| **Khác / ô tô** | — | ~8.000 | ~7% | — |
+| **Linh kiện** | MLCC, power inductor, chip resistor | \~46.000 | \~41% | +low teens |
+| **Package Solutions** | FC-BGA, BGA, FC-CSP | \~22.000 | \~19% | FC-BGA máy chủ +17% |
+| **Optical Solutions** | Module camera, module viễn thông | \~37.000 | \~33% | +9% |
+| **Khác / ô tô** | — | \~8.000 | \~7% | — |
 | **Tổng** | | **113.145** | 100% | +9,9% |
 
 > [Ước tính] Số liệu phân khúc hàng năm được cộng dồn từ các báo cáo quý. Doanh thu linh kiện riêng Q4/2025 đạt 1,32 nghìn tỷ KRW — mức kỷ lục trong một quý.
@@ -91,11 +91,11 @@ Cho đến gần đây, SEMCO vẫn bị nhìn nhận như một công ty phụ 
 
 | | 2023 | 2024 | 2025 | 2026E | Nhận xét |
 |---|---|---|---|---|---|
-| Doanh thu (nghìn tỷ KRW) | ~9,4 | ~10,3 | 11,31 | 12,3–12,8E | CAGR 3 năm ~10% |
-| Lợi nhuận hoạt động (100 triệu KRW) | ~6.300 | ~7.343 | 9.133 | 11.000–12.800E | [Ước tính] Dải dự báo sell-side |
-| OPM | ~6,7% | ~7,1% | 8,1% | **9–10%E** | Cải thiện cơ cấu nhờ ASP và mix |
-| OPM mảng linh kiện | ~13% | ~14% | ~16% | 18–20%E | Động lực từ ASP MLCC |
-| OP Package Solutions (100 triệu KRW) | ~1.355 | ~2.000 | 3.861E (Mirae) | 5.046E | Tích hợp tăng ASP FC-BGA 10% |
+| Doanh thu (nghìn tỷ KRW) | \~9,4 | \~10,3 | 11,31 | 12,3–12,8E | CAGR 3 năm \~10% |
+| Lợi nhuận hoạt động (100 triệu KRW) | \~6.300 | \~7.343 | 9.133 | 11.000–12.800E | [Ước tính] Dải dự báo sell-side |
+| OPM | \~6,7% | \~7,1% | 8,1% | **9–10%E** | Cải thiện cơ cấu nhờ ASP và mix |
+| OPM mảng linh kiện | \~13% | \~14% | \~16% | 18–20%E | Động lực từ ASP MLCC |
+| OP Package Solutions (100 triệu KRW) | \~1.355 | \~2.000 | 3.861E (Mirae) | 5.046E | Tích hợp tăng ASP FC-BGA 10% |
 
 **Khoảng trống dữ liệu**: Doanh thu theo từng khách hàng hoàn toàn không được công bố. Phân tách nội bộ phân khúc giữa AI/máy chủ, IT và ô tô chỉ là bình luận định tính.
 
@@ -115,7 +115,7 @@ Cho đến gần đây, SEMCO vẫn bị nhìn nhận như một công ty phụ 
 ### Cơ chế lợi thế cạnh tranh
 
 1. **Hiệu suất**: Trên đường cong điện dung/điện áp, MLCC là thế độc quyền nhị phân Murata-SEMCO. Đối với linh kiện cấp máy chủ AI cao áp 1kV+, thực tế không có lựa chọn thay thế nào ngoài hai công ty này.
-2. **Năng suất / chi phí**: FC-BGA máy chủ diện tích lớn (gấp 4 lần diện tích, gấp 2 lần số lớp) sẽ gặp tỷ lệ lỗi thảm hại nếu kiểm soát warpage thất bại. R&D tích lũy cùng với các dây chuyền chuyên biệt tại Busan và Việt Nam (~1,9 nghìn tỷ KRW CAPEX lũy kế cộng thêm 1,8 nghìn tỷ KRW tại Việt Nam) tạo ra rào cản về chi phí và thời gian cho các đối thủ đi sau.
+2. **Năng suất / chi phí**: FC-BGA máy chủ diện tích lớn (gấp 4 lần diện tích, gấp 2 lần số lớp) sẽ gặp tỷ lệ lỗi thảm hại nếu kiểm soát warpage thất bại. R&D tích lũy cùng với các dây chuyền chuyên biệt tại Busan và Việt Nam (\~1,9 nghìn tỷ KRW CAPEX lũy kế cộng thêm 1,8 nghìn tỷ KRW tại Việt Nam) tạo ra rào cản về chi phí và thời gian cho các đối thủ đi sau.
 3. **Xác nhận năng lực**: Các tham chiếu nhà cung cấp Big-6 (Nvidia, AMD, Tesla, Broadcom, Apple, AWS) tạo thành vòng lặp vô tận cho người mới gia nhập — không có xác nhận nếu không có tham chiếu, không có tham chiếu nếu không có xác nhận. [Ước tính] DB Securities dẫn điều này làm cơ sở cho "tăng trưởng ổn định và có thể nhìn thấy."
 4. **Khóa chặt hệ sinh thái**: Liên doanh glass substrate (với Sumitomo và Dongwoo Fine-Chem) nội bộ hóa glass core — đòn bẩy lợi thế chi phí tiềm năng so với Absolics của SKC. [Thực tế] SEMCO nắm phần lớn trong liên doanh.
 
@@ -145,7 +145,7 @@ Cho đến gần đây, SEMCO vẫn bị nhìn nhận như một công ty phụ 
 
 ### Khách hàng MLCC (bản chất nhiều-với-nhiều)
 
-- **Máy chủ AI**: Nvidia VR200 NVL72 — ~600.000 MLCC/máy chủ, nhiều hơn 30%+ so với GB300. [Thực tế] Samsung Securities (Lee Jong-wook)
+- **Máy chủ AI**: Nvidia VR200 NVL72 — \~600.000 MLCC/máy chủ, nhiều hơn 30%+ so với GB300. [Thực tế] Samsung Securities (Lee Jong-wook)
 - **Ô tô**: ADAS (3.000+ chiếc/xe), xEV (10.000–15.000 chiếc/xe)
 - **Smartphone**: Galaxy flagship, các OEM Trung Quốc
 
@@ -175,7 +175,7 @@ Cho đến gần đây, SEMCO vẫn bị nhìn nhận như một công ty phụ 
 
 ## 8. Phân tích các yếu tố thúc đẩy giá cổ phiếu
 
-> Phần này phân tách **các yếu tố đã phản ánh vào giá** và **các yếu tố dự kiến**. Đà tăng ~100% từ tháng 2 đến tháng 4/2026 (400.000 KRW → 680.000+ KRW) phản ánh tiến triển đồng thời trên các yếu tố sau.
+> Phần này phân tách **các yếu tố đã phản ánh vào giá** và **các yếu tố dự kiến**. Đà tăng \~100% từ tháng 2 đến tháng 4/2026 (400.000 KRW → 680.000+ KRW) phản ánh tiến triển đồng thời trên các yếu tố sau.
 
 ### Yếu tố 1. Gia nhập Tier-1 trong chuỗi cung ứng Nvidia (event-driven, đã phản ánh và đang tiếp diễn)
 
@@ -184,7 +184,7 @@ Cho đến gần đây, SEMCO vẫn bị nhìn nhận như một công ty phụ 
 | Định nghĩa | NV Switch → tư cách nhà cung cấp đầu tiên cho Groq3 LPU mở rộng diện tích substrate trong nền tảng AI của Nvidia. |
 | Điều kiện tiên quyết | Kỷ lục sản xuất đại trà FC-BGA máy chủ + tiền lệ AMD + xác nhận năng suất |
 | Dấu hiệu xác nhận | (i) Tháng 2/2026: xác nhận cung cấp NV Switch; (ii) tháng 4/2026: nhà cung cấp đầu tiên Groq3 LPU, sản xuất đại trà Q2/2026; (iii) Tesla AI6 khả năng cao sẽ áp dụng |
-| Hiệu ứng kỳ vọng | OP Package Solutions: ~200 tỷ KRW (2025) → ~386 tỷ KRW (2026) → ~505 tỷ KRW (2027) theo Mirae Asset |
+| Hiệu ứng kỳ vọng | OP Package Solutions: \~200 tỷ KRW (2025) → \~386 tỷ KRW (2026) → \~505 tỷ KRW (2027) theo Mirae Asset |
 | Rủi ro | (a) Trễ lịch giao hàng GPU Nvidia; (b) Unimicron/Ibiden bảo vệ thị phần; (c) Sản lượng thực tế Groq3 thấp hơn kế hoạch |
 
 ### Yếu tố 2. Chu kỳ giá MLCC (event-driven, đã phản ánh một phần)
@@ -272,10 +272,10 @@ Cho đến gần đây, SEMCO vẫn bị nhìn nhận như một công ty phụ 
 2. **Nâng cấp chất lượng cơ cấu khách hàng**: Mức phụ thuộc Samsung từ >60% xuống còn Big-6 đa dạng (Nvidia, AMD, Tesla, Broadcom, Apple, AWS), và đặc biệt là **vị trí Tier-1 trong nền tảng Nvidia** như một tài sản tham chiếu.
 3. **Quyền chọn thế hệ tiếp theo được đảm bảo**: Liên doanh glass substrate định vị SEMCO cùng với SKC Absolics là hai lựa chọn cung ứng duy nhất của Hàn Quốc.
 
-**Lưu ý**: Ở mức ~2,8 lần PBR và ~18 lần PER (trên kết quả 2025), định giá chưa đến mức cực đoan của đỉnh chu kỳ, nhưng **OP 2026E ở mức 1,1–1,3 nghìn tỷ KRW đã nằm trong đồng thuận thị trường**. Nếu kết quả thực tế thấp hơn kỳ vọng, mức drawdown có thể mở rộng. **Kết quả Q1/2026 và tốc độ truyền dẫn ASP là yếu tố quyết định then chốt.**
+**Lưu ý**: Ở mức \~2,8 lần PBR và \~18 lần PER (trên kết quả 2025), định giá chưa đến mức cực đoan của đỉnh chu kỳ, nhưng **OP 2026E ở mức 1,1–1,3 nghìn tỷ KRW đã nằm trong đồng thuận thị trường**. Nếu kết quả thực tế thấp hơn kỳ vọng, mức drawdown có thể mở rộng. **Kết quả Q1/2026 và tốc độ truyền dẫn ASP là yếu tố quyết định then chốt.**
 
 Nhìn từ góc độ nghịch lý Jevons, các cải tiến hiệu quả suy luận AI (TurboQuant, DeepSeek, v.v.) nhiều khả năng sẽ **chuyển hóa thành tăng trưởng triển khai máy chủ tổng hợp** hơn là làm giảm nhu cầu MLCC/FC-BGA. Ở lớp linh kiện và substrate, đường cầu trung hạn nên duy trì xu hướng tăng — một vector đòn bẩy hoạt động ngược chiều với chủ đề hiệu quả phần mềm.
 
 ---
 
-*Bài viết này chỉ mang tính chất nghiên cứu và bình luận, không phải lời khuyên đầu tư. Vị thế của tác giả có thể thay đổi mà không cần thông báo trước. Dữ liệu tính đến ngày 21/04/2026 theo giờ KST.*
+*Disclaimer: For research and information purposes only. Not investment advice. Names cited are for analytical illustration; readers should perform their own due diligence and consult licensed advisors before any investment decision.*

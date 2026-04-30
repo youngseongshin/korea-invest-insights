@@ -67,3 +67,7 @@ Hoy el universo de 2.722 valores generó **20 candidatos de alta convicción** c
 ---
 
 *Fuente: datos de cierre KRX 2026-04-21 · Screener calculado a las 16:09 KST · Régimen generado por macro_regime_verdict_v2*
+
+---
+
+*Disclaimer: For research and information purposes only. Not investment advice. Names cited are for analytical illustration; readers should perform their own due diligence and consult licensed advisors before any investment decision.*

@@ -94,7 +94,7 @@ L'un des outils analytiques les plus clairs disponibles ici est un simple calcul
 | Date | Exemplaires Vendus Confirmés | Incrément | Jours Écoulés | Cadence Journalière |
 |---|---:|---:|---:|---:|
 | 1er avril 2026 | 4 000 000 | — | — | — |
-| 15 avril 2026 | 5 000 000 | 1 000 000 | 14 | ~71 400 / jour |
+| 15 avril 2026 | 5 000 000 | 1 000 000 | 14 | \~71 400 / jour |
 
 L'intervalle du 1er au 15 avril a produit environ **71 400 unités par jour** — la dernière observation officielle de cadence disponible. C'est une référence importante car elle capture la trajectoire du jeu *après* que l'engouement initial du lancement s'est partiellement normalisé, intégrant les effets potentiels du festival Qingming.
 
@@ -108,13 +108,13 @@ Le tableau suivant présente trois analyses de scénarios indépendantes pour la
 
 | Scénario | Unités Annuelles 2026 | Incrément Nécessaire | Moyenne Journalière Requise (≈260 jours) | Hypothèse Clé |
 |---|---:|---:|---:|---|
-| **Baissier** | 7,5M | 2,5M | ~9 600 / jour | Forte décélération ; contenu limité ; aucune nouvelle plateforme |
-| **Central** | 8,5M | 3,5M | ~13 500 / jour | Décélération modérée (~81 % en dessous de la cadence d'avril) ; mises à jour régulières |
-| **Haussier** | 10,0M | 5,0M | ~19 200 / jour | Faible décélération ; extension de contenu ; possible nouvelle région ou plateforme |
+| **Baissier** | 7,5M | 2,5M | \~9 600 / jour | Forte décélération ; contenu limité ; aucune nouvelle plateforme |
+| **Central** | 8,5M | 3,5M | \~13 500 / jour | Décélération modérée (\~81 % en dessous de la cadence d'avril) ; mises à jour régulières |
+| **Haussier** | 10,0M | 5,0M | \~19 200 / jour | Faible décélération ; extension de contenu ; possible nouvelle région ou plateforme |
 
-Une observation déterminante : le **scénario baissier ne requiert que ~9 600 unités par jour** — soit environ **87 % en dessous de la cadence observée du 1er au 15 avril de 71 400**. Même le chemin le plus pessimiste modélisé aboutit à un résultat annuel (7,5M) bien supérieur à la majorité des positions côté vendeur (≤5,26M pour trois des cinq maisons de courtage).
+Une observation déterminante : le **scénario baissier ne requiert que \~9 600 unités par jour** — soit environ **87 % en dessous de la cadence observée du 1er au 15 avril de 71 400**. Même le chemin le plus pessimiste modélisé aboutit à un résultat annuel (7,5M) bien supérieur à la majorité des positions côté vendeur (≤5,26M pour trois des cinq maisons de courtage).
 
-Le **scénario central à 8,5M** implique ~13 500 unités par jour — une décélération de 81 % par rapport à la cadence observée récemment. Il s'agit d'une hypothèse conservatrice, pas héroïque.
+Le **scénario central à 8,5M** implique \~13 500 unités par jour — une décélération de 81 % par rapport à la cadence observée récemment. Il s'agit d'une hypothèse conservatrice, pas héroïque.
 
 C'est la raison structurelle pour laquelle l'écart de consensus existe : si même un scénario baissier produit des résultats supérieurs à la plupart des estimations annuelles actuelles, le consensus est presque certainement ancré à des hypothèses obsolètes.
 
@@ -191,3 +191,7 @@ L'alpha, dans ce type de situation, tend à émerger non pas d'une meilleure inf
 ## Avertissement
 
 Cet article constitue un commentaire d'interprétation de marché et ne saurait être considéré comme un conseil en investissement, une sollicitation ou une recommandation d'achat ou de vente de tout titre. Pearl Abyss (263750.KQ) est mentionné à des fins analytiques et informatives uniquement. Les estimations côté vendeur citées dans cet article reflètent des chiffres issus de rapports de recherche de courtiers individuels à leurs dates de publication respectives ; ces chiffres peuvent avoir été mis à jour ou révisés depuis lors. La cadence de ventes passée ne préjuge pas des performances futures. Tout investissement comporte des risques, y compris le risque de perte totale. Les lecteurs sont invités à mener leurs propres recherches indépendantes et à consulter des conseillers financiers qualifiés avant toute décision d'investissement.
+
+---
+
+*Disclaimer: For research and information purposes only. Not investment advice. Names cited are for analytical illustration; readers should perform their own due diligence and consult licensed advisors before any investment decision.*

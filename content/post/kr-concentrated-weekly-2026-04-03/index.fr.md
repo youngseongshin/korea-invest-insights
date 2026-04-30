@@ -73,3 +73,7 @@ Le marché coréen envoie un signal clair en ce début avril 2026 : la phase de 
 La tentation la plus dangereuse dans ce type d'environnement est de renforcer des valeurs simplement parce qu'elles ont bien performé. Pearl Abyss ou Samsung Electro-Mechanics ont progressé — mais "déjà monté" n'est pas synonyme de "bon point d'entrée". Le risque asymétrique, dans un marché qui se resserre, penche du côté de la prudence.
 
 Pour les investisseurs internationaux, la Corée offre aujourd'hui moins de largeur de marché, mais des thèses ciblées sur des segments précis — composants pour l'IA, GaN pour la défense, fintech et réforme des marchés de capitaux — qui méritent une attention disciplinée, entrée conditionnelle, et une gestion rigoureuse des invalidations.
+
+---
+
+*Disclaimer: For research and information purposes only. Not investment advice. Names cited are for analytical illustration; readers should perform their own due diligence and consult licensed advisors before any investment decision.*

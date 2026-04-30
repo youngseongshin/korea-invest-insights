@@ -17,10 +17,10 @@ draft: false
 
 ## 1. Perfil de la Empresa
 
-**Nombre completo:** Hyundai Mobis Co., Ltd. (현대모비스 주식회사)  
-**Ticker:** 012330.KS  
-**Bolsa:** Korea Exchange (KRX) — KOSPI  
-**Sector:** Autopartes y Equipamiento  
+**Nombre completo:** Hyundai Mobis Co., Ltd. (현대모비스 주식회사)
+**Ticker:** 012330.KS
+**Bolsa:** Korea Exchange (KRX) — KOSPI
+**Sector:** Autopartes y Equipamiento
 **Capitalización bursátil:** Aproximadamente KRW 18–20 billones (según cotización reciente, sujeta a variación diaria)
 
 **Propuesta de valor:** Hyundai Mobis es el principal proveedor Tier-1 de Hyundai Motor y Kia — dos marcas que juntas figuran entre los cinco mayores fabricantes de automóviles del mundo por volumen de ventas globales. Su cartera de productos abarca todo el espectro de la arquitectura del vehículo moderno: desde módulos de cabina y chasis hasta los sistemas de tracción eléctrica (PE) que son el corazón de cada EV de Hyundai. A medida que Hyundai Motor Group avanza en la robótica humanoide a través de su participación mayoritaria en **Boston Dynamics**, Mobis se posiciona como la columna vertebral manufacturera capaz de suministrar componentes críticos de actuadores y sensores a escala. Para un inversor global que busca exposición a la transición eléctrica y a la manufactura robótica emergente, Hyundai Mobis merece atención seria — especialmente dado lo asequible que resulta su valoración en relación con los activos y flujos de caja que controla.
@@ -51,7 +51,7 @@ A nivel global, sus comparables más cercanos son **Aptiv** (EE.UU.), **BorgWarn
 
 Hyundai Mobis opera en dos segmentos principales:
 
-**1. Módulos y Piezas Principales (~70% de los ingresos)**  
+**1. Módulos y Piezas Principales (\~70% de los ingresos)**
 Este segmento fabrica y suministra módulos de vehículos ensamblados — módulos frontales, de cabina y de chasis — directamente a las líneas de montaje de Hyundai y Kia bajo un esquema justo a tiempo. Más importante aún, produce **componentes EV clave**:
 
 - **Sistema PE (Power Electric):** La unidad de tracción integrada que combina motor, inversor y reductor. Es el componente de mayor valor que Mobis suministra por vehículo.
@@ -60,7 +60,7 @@ Este segmento fabrica y suministra módulos de vehículos ensamblados — módul
 - **HTRAC:** El sistema de tracción total utilizado en toda la gama Hyundai-Kia.
 - **ADAS / Sensores:** Radar, módulos de cámara e integración LiDAR para sistemas de asistencia al conductor.
 
-**2. Posventa A/S (~30% de los ingresos)**  
+**2. Posventa A/S (\~30% de los ingresos)**
 La división de posventa suministra piezas de repuesto originales Hyundai/Kia a través de una red de distribución global que abarca más de 190 países. Este segmento genera una rentabilidad muy superior a lo que su participación en ingresos sugiere: las piezas A/S tienen márgenes operativos significativamente más altos que el segmento manufacturero, impulsados por poder de fijación de precios, ciclos de vida largos y baja intensidad de capital. El creciente parque global de vehículos Hyundai-Kia — que supera los 100 millones de unidades acumuladas — proporciona una base en expansión que genera estos ingresos recurrentes y de alto margen durante años después de que cada vehículo sale de fábrica.
 
 ### Distribución Geográfica
@@ -117,7 +117,7 @@ La aceleración del EV requiere inversiones de capital iniciales sustanciales en
 Hyundai Mobis es una de las acciones industriales de gran capitalización más persistentemente baratas en Asia según métricas tradicionales.
 
 - **Ratio P/B:** Históricamente en el rango de **0,5–0,7x**, lo que significa que la acción cotiza muy por debajo del valor contable declarado de sus activos netos. A modo de comparación, pares de autopartes estadounidenses como Aptiv y BorgWarner frecuentemente cotizan a 1,5–3x en libros. Incluso Denso — el mayor proveedor automotriz de Japón — cotiza por encima de 1x en libros.
-- **Ratio P/E:** Típicamente en el rango de **6–10x sobre beneficios históricos**, nuevamente con un descuento pronunciado frente al grupo de pares global (Denso ~15x, Aptiv ~12–18x).
+- **Ratio P/E:** Típicamente en el rango de **6–10x sobre beneficios históricos**, nuevamente con un descuento pronunciado frente al grupo de pares global (Denso \~15x, Aptiv \~12–18x).
 - **EV/EBITDA:** Igualmente comprimido frente a los comparables occidentales.
 
 El descuento persistente refleja varios factores estructurales bien documentados en la renta variable coreana: estructuras de conglomerado poco transparentes (el llamado "descuento coreano"), ratios de reparto de dividendos históricamente bajos y limitado activismo accionarial. Sin embargo, estas no son características permanentes del mercado — son factores de gobernanza que se están abordando activamente a través del marco del programa Corporate Value-up de la FSC, que apunta explícitamente a las empresas del KOSPI que cotizan por debajo del valor en libros.
@@ -173,4 +173,4 @@ Fuera de Corea, la vía más accesible para obtener exposición general a Corea 
 
 ---
 
-*Este análisis tiene únicamente fines informativos y no constituye asesoramiento de inversión. Todas las cifras financieras deben verificarse de forma independiente con los informes más recientes de DART y las divulgaciones de la compañía. Invertir en valores extranjeros implica riesgos cambiarios, regulatorios y de mercado. El rendimiento pasado no es indicativo de resultados futuros.*
+*Disclaimer: For research and information purposes only. Not investment advice. Names cited are for analytical illustration; readers should perform their own due diligence and consult licensed advisors before any investment decision.*

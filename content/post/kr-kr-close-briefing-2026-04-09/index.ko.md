@@ -115,3 +115,7 @@ draft: false
 ---
 
 *본 콘텐츠는 시장 정보 제공을 목적으로 하며, 특정 종목에 대한 매수·매도 권유가 아닙니다. 투자 결정은 본인의 판단과 책임하에 이루어져야 합니다. 수급 데이터는 KRX 공시 기준이며, 당일 가격은 종가 기준입니다.*
+
+---
+
+*Disclaimer: For research and information purposes only. Not investment advice. Names cited are for analytical illustration; readers should perform their own due diligence and consult licensed advisors before any investment decision.*

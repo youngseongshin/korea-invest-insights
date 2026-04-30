@@ -92,3 +92,7 @@ April 24 delivered the regime alignment that bulls needed: KOSPI and U.S. equiti
 SK Hynix is the highest-conviction conditional entry on the Korean market right now, with a clear catalyst framework and explicit invalidation criteria. Hyundai E&C is the event-driven construction angle. Both require patience and confirmation before execution.
 
 For international investors monitoring Korean equities via KRX data and DART filings, the session structure of April 24 is a reminder that regime-level bull signals do not automatically extend to every name in the index — and that supply-demand verification at the individual stock level remains the primary discipline.
+
+---
+
+*Disclaimer: For research and information purposes only. Not investment advice. Names cited are for analytical illustration; readers should perform their own due diligence and consult licensed advisors before any investment decision.*

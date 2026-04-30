@@ -218,3 +218,7 @@ La tendance K-beauty est passée de phénomène de niche à courant dominant. L'
 ---
 
 > **Avertissement** : Cette analyse est fournie à titre informatif uniquement et ne constitue pas un conseil en investissement. Toutes les données financières sont issues de publications accessibles au public et sont susceptibles d'évoluer. Les performances passées d'un titre ne garantissent pas les résultats futurs. Les investisseurs sont invités à effectuer leurs propres recherches et à consulter un conseiller financier qualifié avant toute décision d'investissement.
+
+---
+
+*Disclaimer: For research and information purposes only. Not investment advice. Names cited are for analytical illustration; readers should perform their own due diligence and consult licensed advisors before any investment decision.*

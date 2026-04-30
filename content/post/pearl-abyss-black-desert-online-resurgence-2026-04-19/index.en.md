@@ -40,7 +40,7 @@ draft: false
 - **Five consecutive months of monthly average gains** since the November 2025 trough of 15,785
 - **March 2026 average: 21,969 — a new 3-year monthly high**, coinciding with the Crimson Desert launch month
 - Three plausible drivers: (1) Pearl Abyss IP awareness spillover (+112% peak Google interest), (2) existing-user re-activation, (3) Crimson Desert marketing spend halo effect
-- Under this framework, 2026E BDO revenue estimates at ~KRW 315B may need to revise toward **KRW 380–400B** — a gap most sell-side models haven't closed
+- Under this framework, 2026E BDO revenue estimates at \~KRW 315B may need to revise toward **KRW 380–400B** — a gap most sell-side models haven't closed
 
 ---
 
@@ -174,8 +174,8 @@ This tightens the analytical read: the 2026E BDO revenue re-estimation below gai
 
 Pearl Abyss's 2025 financials closed at **KRW 365.6B revenue** and an operating loss of **-KRW 14.8B**. Breaking down revenue by title under industry-standard assumptions:
 
-- **BDO**: ~KRW 315B (estimated OPM ~38%)
-- **EVE Online**: ~KRW 75B (estimated OPM ~40%, including Catalyst expansion)
+- **BDO**: \~KRW 315B (estimated OPM \~38%)
+- **EVE Online**: \~KRW 75B (estimated OPM \~40%, including Catalyst expansion)
 
 If 2026 BDO Steam CCU is tracking +40% YoY, the existing consensus framework — which typically assumes **flat-to-slightly-declining BDO revenue** as the title matures — becomes internally inconsistent with the observed data. Under this framework, the following scenarios emerge:
 
@@ -201,7 +201,7 @@ With the regional sales-rank confirmation layered on top of the CCU data, **the 
 
 ### Fair-Value Re-Calibration
 
-Applying Korean gaming-sector average P/E of ~12x:
+Applying Korean gaming-sector average P/E of \~12x:
 
 - **Prior fair value**: KRW 4,310 × 12 = **KRW 51,720**
 - **Data-reflected fair value**: KRW 4,891 × 12 = **KRW 58,690**
@@ -282,6 +282,4 @@ If Q1 BDO revenue shows less than +10% YoY growth despite CCU +33% YoY in March,
 
 ---
 
-## ⚠️ Disclaimer
-
-This post is market-interpretation analysis based on publicly available data. It does not constitute investment advice, a solicitation, or a recommendation to buy or sell any security. Pearl Abyss (263750.KQ) is referenced solely for analytical and informational purposes. All numerical estimates — including 2026E revenue scenarios, re-estimated EPS, and fair-value calculations — are independent framework analyses, not official Pearl Abyss guidance. Sell-side estimates and fair-value calculations cited reflect figures available as of the aggregation timestamp and may have been revised since. Past CCU trends and historical sector P/E multiples do not guarantee future results. All investment decisions involve risk, including the risk of total loss. Readers should conduct their own independent research and consult qualified financial advisors before making any investment decision.
+*Disclaimer: For research and information purposes only. Not investment advice. Names cited are for analytical illustration; readers should perform their own due diligence and consult licensed advisors before any investment decision.*

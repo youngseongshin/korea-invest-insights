@@ -272,3 +272,7 @@ La dérive post-annonce de résultats (Post-Earnings Announcement Drift, PEAD) e
 ## Avertissement
 
 *Ce rapport est produit à des fins d'information et d'éducation uniquement. Il ne constitue pas un conseil en investissement, une sollicitation d'achat ou de vente d'un titre, ni une recommandation d'une stratégie d'investissement particulière. Toutes les données mentionnées — y compris les indicateurs financiers, les niveaux de cours, les pourcentages de participation et les scores des screeners — reflètent la période d'analyse du 9 au 16 avril 2026 et peuvent avoir évolué de façon significative depuis la publication. Les actions cotées en Corée comportent des risques de marché, de change, de liquidité et réglementaires susceptibles de différer sensiblement des marchés d'origine des investisseurs. Les performances passées des screeners et les schémas historiques ne garantissent pas les résultats futurs. Les lecteurs sont invités à mener leurs propres analyses et à consulter un conseiller financier agréé avant de prendre toute décision d'investissement. L'auteur et l'éditeur ne détenaient aucune position dans les titres évoqués au moment de la publication.*
+
+---
+
+*Disclaimer: For research and information purposes only. Not investment advice. Names cited are for analytical illustration; readers should perform their own due diligence and consult licensed advisors before any investment decision.*

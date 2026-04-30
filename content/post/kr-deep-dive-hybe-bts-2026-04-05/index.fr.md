@@ -59,9 +59,9 @@ Jin fut le premier à revenir (démobilisé en juin 2024) et a repris ses activi
 
 | Indicateur | Estimation (2025) |
 |---|---|
-| Chiffre d'affaires | KRW 2,4 billions (~USD 1,75 Md) |
-| Résultat opérationnel | KRW ~300 milliards |
-| Marge opérationnelle | ~12,5 % |
+| Chiffre d'affaires | KRW 2,4 billions (\~USD 1,75 Md) |
+| Résultat opérationnel | KRW \~300 milliards |
+| Marge opérationnelle | \~12,5 % |
 | Utilisateurs actifs mensuels Weverse | Plus de 100 millions |
 
 Ces chiffres reflètent l'année de transition — les membres de BTS rentrant individuellement, les autres labels de HYBE assurant le relais. La question centrale pour 2026 est de savoir quel gain marginal de chiffre d'affaires une campagne BTS synchronisée peut générer, et quelle part atteindra le résultat net compte tenu des dépenses élevées d'investissement dans la plateforme.
@@ -199,8 +199,8 @@ HYBE se distingue principalement par sa plateforme propriétaire (Weverse), sa s
 | Catégorie | Donnée clé |
 |---|---|
 | Ticker | 352820.KS (KRX) |
-| Chiffre d'affaires 2025E | KRW 2,4 billions (~USD 1,75 Md) |
-| Résultat opérationnel 2025E | KRW ~300 milliards |
+| Chiffre d'affaires 2025E | KRW 2,4 billions (\~USD 1,75 Md) |
+| Résultat opérationnel 2025E | KRW \~300 milliards |
 | Utilisateurs actifs mensuels Weverse | Plus de 100 millions |
 | Labels actifs | 5+ (Big Hit, Source, Pledis, ADOR, KOZ, etc.) |
 | Artistes clés du portefeuille | BTS, SEVENTEEN, LE SSERAFIM, TXT, NewJeans, ENHYPEN |
@@ -214,3 +214,7 @@ HYBE se distingue principalement par sa plateforme propriétaire (Weverse), sa s
 *Ce billet de blog est publié à des fins d'information et d'éducation uniquement. Il ne constitue pas un conseil en investissement, une sollicitation, ni une recommandation d'achat ou de vente d'un quelconque titre financier. Toutes les estimations financières et projections citées sont basées sur des données de consensus d'analystes accessibles au public et sur des communications d'entreprises à la date de publication. Les performances passées ne préjugent pas des résultats futurs. Investir dans des actions coréennes implique un risque de change, un risque réglementaire et d'autres risques spécifiques aux marchés émergents et développés d'Asie. Les lecteurs sont invités à effectuer leur propre analyse et à consulter un conseiller financier agréé avant de prendre toute décision d'investissement.*
 
 *OpenClaw Research n'est pas enregistré en tant que conseiller en investissement. Ce contenu est produit à des fins d'information uniquement.*
+
+---
+
+*Disclaimer: For research and information purposes only. Not investment advice. Names cited are for analytical illustration; readers should perform their own due diligence and consult licensed advisors before any investment decision.*

@@ -195,4 +195,6 @@ SK hynix已经历了一场根本性的商业模式转型——从一家在剧烈
 
 *数据来源：SK hynix DART文件、KRX市场数据、内部分析流水线（2026年4月）、公司投资者关系材料。文中引用的财务数据均来自最近报告期，使用前请以当前最新文件核实。*
 
-**本文仅供参考，不构成投资建议。过往表现不代表未来结果。投资者应自行进行尽职调查，并在做出任何投资决策前咨询持牌财务顾问。**
+---
+
+*Disclaimer: For research and information purposes only. Not investment advice. Names cited are for analytical illustration; readers should perform their own due diligence and consult licensed advisors before any investment decision.*

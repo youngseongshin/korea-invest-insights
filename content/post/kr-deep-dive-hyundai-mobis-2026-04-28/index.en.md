@@ -17,10 +17,10 @@ draft: false
 
 ## 1. Company Snapshot
 
-**Full name:** Hyundai Mobis Co., Ltd. (현대모비스 주식회사)  
-**Ticker:** 012330.KS  
-**Exchange:** Korea Exchange (KRX) — KOSPI  
-**Sector:** Auto Parts & Equipment  
+**Full name:** Hyundai Mobis Co., Ltd. (현대모비스 주식회사)
+**Ticker:** 012330.KS
+**Exchange:** Korea Exchange (KRX) — KOSPI
+**Sector:** Auto Parts & Equipment
 **Market cap:** Approximately KRW 18–20 trillion (as of recent trading, subject to daily movement)
 
 **Elevator pitch:** Hyundai Mobis is the primary Tier-1 supplier to Hyundai Motor and Kia — two brands that together rank among the world's top five automakers by global sales volume. Its product portfolio spans the full spectrum of modern vehicle architecture: from cockpit and chassis modules to the power electric (PE) drive systems at the heart of every Hyundai EV. As Hyundai Motor Group pushes deeper into humanoid robotics through its majority ownership of **Boston Dynamics**, Mobis is positioned as the manufacturing backbone that could supply critical actuator and sensor components at scale. For a global investor seeking exposure to the EV transition and emerging robotics manufacturing, Hyundai Mobis is a name that deserves serious attention — particularly given how inexpensively it trades relative to the assets and cash flows it controls.
@@ -51,7 +51,7 @@ Globally, its closest comparables are **Aptiv** (US), **BorgWarner** (US), **Den
 
 Hyundai Mobis operates two primary business segments:
 
-**1. Module & Core Parts (~70% of revenue)**  
+**1. Module & Core Parts (\~70% of revenue)**
 This segment manufactures and supplies assembled vehicle modules — front-end modules, cockpit modules, and chassis modules — directly to Hyundai and Kia assembly lines on a just-in-time basis. More importantly, it produces **core EV components**:
 
 - **PE System (Power Electric):** The integrated drive unit combining motor, inverter, and reducer. This is the highest-value component Mobis supplies per vehicle.
@@ -60,7 +60,7 @@ This segment manufactures and supplies assembled vehicle modules — front-end m
 - **HTRAC:** The all-wheel-drive coupling system used across the Hyundai-Kia lineup.
 - **ADAS / Sensors:** Radar, camera modules, and LiDAR integration for driver assistance systems.
 
-**2. A/S (After-Sales) Parts (~30% of revenue)**  
+**2. A/S (After-Sales) Parts (\~30% of revenue)**
 The A/S division supplies genuine Hyundai/Kia replacement parts through a global distribution network spanning over 190 countries. This segment punches well above its revenue weight in profitability: A/S parts carry operating margins significantly higher than the manufacturing segment, driven by pricing power, long product tails, and low capital intensity. The growing global parc of Hyundai-Kia vehicles — now over 100 million cumulative units — provides an expanding base that generates this recurring, high-margin revenue for years after each vehicle leaves the factory.
 
 ### Geographic Mix
@@ -117,7 +117,7 @@ The EV ramp requires substantial upfront capital investment in new manufacturing
 Hyundai Mobis is one of the most persistently cheap large-cap industrial stocks in Asia on traditional metrics.
 
 - **P/B ratio:** Historically in the **0.5–0.7x range**, meaning the stock trades well below the stated book value of its net assets. For context, US auto parts peers like Aptiv and BorgWarner often trade at 1.5–3x book. Even Denso — Japan's largest auto supplier — trades above 1x book.
-- **P/E ratio:** Typically in the **6–10x trailing earnings range**, again at a steep discount to the global peer group (Denso ~15x, Aptiv ~12–18x).
+- **P/E ratio:** Typically in the **6–10x trailing earnings range**, again at a steep discount to the global peer group (Denso \~15x, Aptiv \~12–18x).
 - **EV/EBITDA:** Similarly compressed versus Western comparables.
 
 The persistent discount reflects several well-documented structural factors in Korean equities: opaque conglomerate structures (the so-called "Korea Discount"), historically low dividend payout ratios, and limited active shareholder engagement. However, these are not permanent features of the landscape — they are governance factors being actively addressed through the FSC's Corporate Value-up policy framework, which explicitly targets sub-book-value KOSPI companies.
@@ -173,4 +173,4 @@ Outside Korea, the most accessible route for broad Korea exposure is the **iShar
 
 ---
 
-*This analysis is for informational purposes only and does not constitute investment advice. All financial figures should be independently verified against the most recent DART filings and company disclosures. Investing in foreign equities involves currency, regulatory, and market risks. Past performance is not indicative of future results.*
+*Disclaimer: For research and information purposes only. Not investment advice. Names cited are for analytical illustration; readers should perform their own due diligence and consult licensed advisors before any investment decision.*

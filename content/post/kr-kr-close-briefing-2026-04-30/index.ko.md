@@ -86,3 +86,7 @@ KOSPI에서 외국인이 오늘만 삼성전자 한 종목에서 6,800억 원을
 - **유가·원화** 호르무즈 관련 뉴스 흐름과 원달러 환율 방향
 
 공격보다 선별 유지가 적합한 장이다. 새로운 주도주를 무조건 쫓기보다, 이미 강한 종목의 수급 연속성을 확인하면서 약한 축을 정리하는 흐름이 현 시장 레짐에 맞다.
+
+---
+
+*Disclaimer: For research and information purposes only. Not investment advice. Names cited are for analytical illustration; readers should perform their own due diligence and consult licensed advisors before any investment decision.*

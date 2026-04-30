@@ -420,3 +420,7 @@ Les deux peuvent être vraies.
 - Le soutien du projet d'IA souveraine est stratégiquement important, mais la sélection finale et la conversion en chiffre d'affaires commercial restent [Incertaines].
 
 *Avertissement : à des fins de recherche et d'information uniquement. Ceci ne constitue pas un conseil en investissement. Les noms cités le sont à titre d'illustration analytique ; les lecteurs doivent effectuer leur propre diligence raisonnable et consulter des conseillers agréés avant toute décision d'investissement.*
+
+---
+
+*Disclaimer: For research and information purposes only. Not investment advice. Names cited are for analytical illustration; readers should perform their own due diligence and consult licensed advisors before any investment decision.*

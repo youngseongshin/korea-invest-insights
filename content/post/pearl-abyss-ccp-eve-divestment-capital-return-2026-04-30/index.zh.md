@@ -365,4 +365,4 @@ CCP 100%注销效果                 = 1 ÷ (1 – 0.047) – 1 ≈ 4.9%
 
 ---
 
-*本文仅供研究与评论参考，不构成投资建议。持仓可能随时变动，恕不另行通知。最终处置损益数字以实际交割披露为准，可能有所变动。现有库存股数量为内部估算，应以 DART 库存股申报文件为准核实。数据截至2026年4月30日韩国标准时间。*
+*Disclaimer: For research and information purposes only. Not investment advice. Names cited are for analytical illustration; readers should perform their own due diligence and consult licensed advisors before any investment decision.*

@@ -53,14 +53,14 @@ Les chiffres parlent d'eux-mêmes :
 
 | Indicateur | Chiffre | Date |
 |--------|--------|------|
-| Ventes Steam en mars | ~2 millions d'exemplaires | Mars 2026 |
+| Ventes Steam en mars | \~2 millions d'exemplaires | Mars 2026 |
 | Ventes toutes plateformes | 4 millions+ d'exemplaires | 1er avril 2026 |
 | CCU maximum (Steam) | 276 261 | 29 mars 2026 |
 | Note globale Steam | 86% de notes positives | 4 avril 2026 |
 | Total d'avis Steam | 100 000+ (83% positifs) | 4 avril 2026 |
 | Score Xiaoheihe (Chine) | 8,4/10 | 4 avril 2026 |
 
-Pour situer le chiffre Steam uniquement : les ~2 millions d'exemplaires vendus sur Steam en mars font de Crimson Desert le **2e jeu le plus vendu sur Steam dans le monde** pour le mois de mars, derrière Killing Tower 2 et ses 5,3 millions d'unités. Mais, fait crucial, Crimson Desert s'est classé **1er toutes plateformes confondues avec 4 millions d'exemplaires** — une distinction qui compte pour la modélisation des revenus, les marges sur console différant de la commission de 30% de Steam.
+Pour situer le chiffre Steam uniquement : les \~2 millions d'exemplaires vendus sur Steam en mars font de Crimson Desert le **2e jeu le plus vendu sur Steam dans le monde** pour le mois de mars, derrière Killing Tower 2 et ses 5,3 millions d'unités. Mais, fait crucial, Crimson Desert s'est classé **1er toutes plateformes confondues avec 4 millions d'exemplaires** — une distinction qui compte pour la modélisation des revenus, les marges sur console différant de la commission de 30% de Steam.
 
 Le jeu a maintenu la **1re place du classement mondial des revenus Steam pendant deux semaines consécutives** (24–31 mars) et a simultanément dominé **le classement des revenus Steam en Chine sur la même période** — une double domination inhabituelle qui illustre à quel point la demande chinoise a été concentrée.
 
@@ -96,13 +96,13 @@ En utilisant des hypothèses conservatrices :
 - Ajout d'un taux d'accrochage DLC/extension de 15–20% à un prix moyen de 20 dollars = 15 à 20 millions de dollars supplémentaires
 - **Estimation totale des revenus en Année 1 : 170 à 180 millions de dollars** issus de Crimson Desert seul
 
-Le chiffre d'affaires des douze derniers mois de Pearl Abyss avant le lancement s'établissait à environ ₩300–350 milliards (~220 à 260 millions de dollars USD). Un lancement réussi de Crimson Desert pourrait **quasiment doubler le taux de revenus annuels de la société** dès la première année.
+Le chiffre d'affaires des douze derniers mois de Pearl Abyss avant le lancement s'établissait à environ ₩300–350 milliards (\~220 à 260 millions de dollars USD). Un lancement réussi de Crimson Desert pourrait **quasiment doubler le taux de revenus annuels de la société** dès la première année.
 
 **Comparaison sectorielle**
 
 | Société | Titre phare | Multiple de revenus l'année du lancement |
 |---------|---------------|------------------------------|
-| SHIFT UP (462870.KS) | Stellar Blade | ~2,5x |
+| SHIFT UP (462870.KS) | Stellar Blade | \~2,5x |
 | Krafton (259960.KS) | Cycles de relancement de PUBG | 1,2–1,5x |
 | Pearl Abyss (263750.KS) | Crimson Desert (est.) | 1,8–2,1x |
 
@@ -110,7 +110,7 @@ La comparaison avec SHIFT UP est pertinente : Stellar Blade s'est lancé comme u
 
 **Concentration des revenus spécifique à la Chine**
 
-En estimant les joueurs chinois à 30–35% du total de la base de joueurs Steam — ce qui est cohérent avec les titres Steam les mieux classés en Chine — cela implique environ 600 000 à 700 000 exemplaires Steam vendus en Chine au 1er avril. Au prix régional Steam de la Chine (~¥268, soit environ 37 dollars), cela représente environ **22 à 26 millions de dollars issus de Steam en Chine seul**. Les données de ventes console en Chine ne sont pas publiquement disponibles, mais sont probablement significatives compte tenu de l'amplification sur les réseaux sociaux pendant le Qingming.
+En estimant les joueurs chinois à 30–35% du total de la base de joueurs Steam — ce qui est cohérent avec les titres Steam les mieux classés en Chine — cela implique environ 600 000 à 700 000 exemplaires Steam vendus en Chine au 1er avril. Au prix régional Steam de la Chine (\~¥268, soit environ 37 dollars), cela représente environ **22 à 26 millions de dollars issus de Steam en Chine seul**. Les données de ventes console en Chine ne sont pas publiquement disponibles, mais sont probablement significatives compte tenu de l'amplification sur les réseaux sociaux pendant le Qingming.
 
 ---
 
@@ -212,3 +212,7 @@ Pearl Abyss a forgé une décennie d'expertise en live-service en gérant Black 
 *Cet article est publié à des fins d'information et d'éducation uniquement. Il ne constitue pas un conseil financier, une recommandation d'investissement, ni une offre d'achat ou de vente de valeurs mobilières. Tous les points de données sont issus d'informations publiquement disponibles au 4 avril 2026. Les estimations de ventes et les projections de revenus reposent sur des hypothèses et sont soumises à une incertitude significative. Les investisseurs sont invités à effectuer leurs propres recherches et à consulter un conseiller financier agréé avant de prendre toute décision d'investissement. L'auteur peut détenir des positions dans les titres mentionnés.*
 
 *Série Korean Gaming Studios — publié le 4 avril 2026*
+
+---
+
+*Disclaimer: For research and information purposes only. Not investment advice. Names cited are for analytical illustration; readers should perform their own due diligence and consult licensed advisors before any investment decision.*

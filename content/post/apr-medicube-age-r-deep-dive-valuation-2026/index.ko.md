@@ -49,7 +49,7 @@ series: "K-Beauty Deep Dive"
 
 - **ADC**에서 R&D
 - **에이피알팩토리**에서 생산
-- 기획~생산~판매~A/S까지 통합
+- 기획\~생산\~판매\~A/S까지 통합
 
 이건 단순 유행 화장품 회사보다 훨씬 좋은 구조입니다. 브랜드만 있는 게 아니라 **디바이스 밸류체인까지 일부 장악**하기 때문입니다.
 
@@ -57,7 +57,7 @@ series: "K-Beauty Deep Dive"
 
 | 시점 | 누적 판매 | 비고 |
 |------|----------|------|
-| 2021년 출시 | ~5만대 | 초기 |
+| 2021년 출시 | \~5만대 | 초기 |
 | 2025년 5월 | 400만대 | — |
 | 2025년 9월 | 500만대 | — |
 | 2026년 1월 | **600만대 돌파** | 해외 비중 60%+ |
@@ -111,7 +111,7 @@ series: "K-Beauty Deep Dive"
 ### C. 글로벌 확장 — 채널별 현황
 
 **미국 (최대 성장 동력):**
-- 2025년 1~9월 미국 매출 약 KRW 980억 (+250% YoY)
+- 2025년 1\~9월 미국 매출 약 KRW 980억 (+250% YoY)
 - TikTok Shop에서만 $102M+ 매출 달성
 - **Ulta Beauty 전 1,400+ 매장 입점 완료** (2025년 8월) — Ulta 스킨케어 이커머스 1위, 전체 2위
 - Ulta 매출 연말 기준 +312% 성장
@@ -264,4 +264,4 @@ series: "K-Beauty Deep Dive"
 
 ---
 
-*면책 조항: 본 분석은 정보 제공 목적이며 투자 권유가 아닙니다. 과거 실적이 미래 결과를 보장하지 않습니다. 투자 결정 전 반드시 자체 실사를 수행하시기 바랍니다.*
+*Disclaimer: For research and information purposes only. Not investment advice. Names cited are for analytical illustration; readers should perform their own due diligence and consult licensed advisors before any investment decision.*

@@ -17,12 +17,12 @@ draft: false
 
 ## 1. Perfil de la empresa
 
-**Nombre completo:** Pearl Abyss Corp. (펄어비스)  
-**Ticker:** 263750.KS  
-**Bolsa:** KOSPI (Korea Stock Exchange)  
-**Sector:** Entretenimiento / Videojuegos / Software interactivo  
-**Sede:** Anyang, Gyeonggi-do, Corea del Sur  
-**Fundación:** 2010, por Kim Dae-il  
+**Nombre completo:** Pearl Abyss Corp. (펄어비스)
+**Ticker:** 263750.KS
+**Bolsa:** KOSPI (Korea Stock Exchange)
+**Sector:** Entretenimiento / Videojuegos / Software interactivo
+**Sede:** Anyang, Gyeonggi-do, Corea del Sur
+**Fundación:** 2010, por Kim Dae-il
 
 ### Argumento de inversión en pocas palabras
 
@@ -55,13 +55,13 @@ La ventaja competitiva estructural de Pearl Abyss descansa sobre tres pilares:
 
 Pearl Abyss genera ingresos a través de tres canales principales:
 
-**1. Franquicia Black Desert (históricamente ~85–90% de los ingresos)**  
+**1. Franquicia Black Desert (históricamente \~85–90% de los ingresos)**
 Esto incluye PC (*Black Desert Online*), móvil (*Black Desert Mobile*) y consola (*Black Desert* en PS4/Xbox). La versión de PC funciona con un modelo de pago único + Pearl Abyss Store (tienda de micropagos) en la mayoría de los mercados occidentales, y un híbrido de suscripción/tienda en algunos mercados asiáticos. La versión móvil sigue un modelo free-to-play gacha. Según los períodos fiscales reportados más recientemente (conforme a las presentaciones en DART en dart.fss.or.kr), la franquicia Black Desert —pese a superar la década de vida— ha demostrado una resiliencia sorprendente, con actualizaciones de contenido continuas y eventos de temporada que sostienen el engagement.
 
-**2. Crimson Desert (nuevo en el Q1 2026)**  
+**2. Crimson Desert (nuevo en el Q1 2026)**
 *Crimson Desert* se lanzó en PC (Steam y venta directa) y plataformas de consola a finales de marzo de 2026. El modelo de ingresos inicial es el de un título premium de pago único ($49.99–$69.99 según la edición). La dirección ha indicado planes de expansión de contenido post-lanzamiento. A 1 de abril de 2026, el título había vendido más de 4M de copias en todas las plataformas, con ventas en Steam de aproximadamente 2M de copias en marzo de 2026, convirtiéndolo en el segundo título más vendido de Steam a nivel global ese mes. Aplicando un precio de venta neto ponderado de aproximadamente $50 tras los recortes de las plataformas (30% de comisión de Steam, comisiones de plataformas de consola), el impacto del ingreso inicial es materialmente significativo.
 
-**3. CCP Games / EVE Online**  
+**3. CCP Games / EVE Online**
 EVE Online sigue siendo un MMO basado en suscripción con una base de jugadores global y dedicada. Los ingresos de este segmento son relativamente estables y contribuyen al P&L consolidado, aunque no son el principal motor de crecimiento.
 
 ### Mix geográfico
@@ -70,13 +70,13 @@ Antes de *Crimson Desert*, Pearl Abyss obtenía ingresos significativos de Corea
 
 ### Principales motores de crecimiento para los próximos 12–24 meses
 
-**Motor 1: Monetización a largo plazo de Crimson Desert**  
+**Motor 1: Monetización a largo plazo de Crimson Desert**
 El evento inicial de venta de copias (el "impulso inicial") ya está en marcha. La pregunta más importante para los ingresos sostenidos es si Pearl Abyss puede añadir con éxito contenido post-lanzamiento —expansiones, un componente multijugador o una tienda de servicio en vivo— sobre el núcleo de un jugador. La dirección ha señalado interés en el desarrollo de contenido a largo plazo. Si se ejecuta con acierto, esto transforma una venta premium única en un motor de ingresos recurrentes.
 
-**Motor 2: Penetración en el mercado chino**  
+**Motor 2: Penetración en el mercado chino**
 La ventana del Festival Qingming demostró que la demanda china es real e inelástica al precio en el segmento premium. A medida que la infraestructura de PC gaming en China mejora y la clase media continúa expandiéndose, un título de $50 con los valores de producción de Crimson Desert ocupa un punto óptimo. Futuras versiones móviles o de streaming en la nube para China representan opcionalidad adicional.
 
-**Motor 3: Secuela de Crimson Desert / expansión multijugador**  
+**Motor 3: Secuela de Crimson Desert / expansión multijugador**
 El worldbuilding que Pearl Abyss ha invertido en *Crimson Desert* —el lore, las optimizaciones del motor, la dirección artística— genera valor reutilizable. Una expansión multijugador o cooperativa, o una secuela con componentes online, aprovecharía los costes de desarrollo ya amortizados y daría uso al manual de servicio en vivo de Black Desert.
 
 ### Perfil de márgenes
@@ -171,16 +171,16 @@ Los ingresos de Crimson Desert están en gran parte denominados en dólares y eu
 
 ## Preguntas frecuentes
 
-**¿Es Pearl Abyss una buena inversión en 2026?**  
+**¿Es Pearl Abyss una buena inversión en 2026?**
 Pearl Abyss es una tesis de alta convicción sobre la longevidad de *Crimson Desert* como franquicia. No es una inversión "segura" — es una apuesta concentrada en un resultado específico del sector de videojuegos. Los datos del lanzamiento (más de 4M de copias, 86% de valoración positiva en Steam, giro en China) son genuinamente impresionantes. Si se traducen en un poder de generación de beneficios sostenido depende de la ejecución del contenido post-lanzamiento. Este análisis no constituye una recomendación de compra o venta.
 
-**¿Cómo puedo comprar acciones de Pearl Abyss (263750.KS) como inversor extranjero?**  
+**¿Cómo puedo comprar acciones de Pearl Abyss (263750.KS) como inversor extranjero?**
 Necesita un bróker con acceso a la Korea Stock Exchange. Los grandes brókers internacionales, incluido Interactive Brokers, ofrecen acceso al mercado coreano. No existe ningún ADR en EE.UU., por lo que se requiere la compra directa en KRX. Asegúrese de comprender el ciclo de liquidación T+2 y las normas de retención fiscal aplicables a los dividendos (Corea retiene entre el 15% y el 22% sobre dividendos para no residentes, sujeto a convenio fiscal).
 
-**¿Cuál es el impacto de Crimson Desert en los ingresos de Pearl Abyss?**  
+**¿Cuál es el impacto de Crimson Desert en los ingresos de Pearl Abyss?**
 Basándose en las cifras publicadas (más de 4M de copias vendidas hasta el 1 de abril de 2026 a un precio de venta estándar de nivel premium), la contribución de ingresos en la ventana de lanzamiento es material en relación con la base histórica de ingresos trimestrales de Pearl Abyss. Pearl Abyss presenta sus resultados trimestrales en el sistema DART (dart.fss.or.kr); el informe del Q1 2026 proporcionará el primer desglose oficial de ingresos de Crimson Desert.
 
-**¿Paga dividendos Pearl Abyss?**  
+**¿Paga dividendos Pearl Abyss?**
 Pearl Abyss ha priorizado históricamente la reinversión sobre la remuneración al accionista. Según la información disponible más reciente, la compañía no ofrece una rentabilidad por dividendo significativa. Los inversores deben confirmar la política de dividendos actual a través de las presentaciones en DART o en la página de relaciones con inversores de la compañía.
 
 ---
@@ -207,4 +207,4 @@ Pearl Abyss ha priorizado históricamente la reinversión sobre la remuneración
 
 ---
 
-*Este análisis tiene únicamente fines informativos y no constituye asesoramiento de inversión. Todos los datos financieros referenciados reflejan información públicamente disponible a las fechas indicadas. El rendimiento pasado de cualquier valor no es indicativo de resultados futuros. Los inversores deben realizar su propio proceso de due diligence y consultar a un asesor financiero con licencia antes de tomar decisiones de inversión. Pearl Abyss Corp. (263750.KS) es una empresa que cotiza en la Korea Stock Exchange; toda la información corporativa material está disponible a través de DART (dart.fss.or.kr).*
+*Disclaimer: For research and information purposes only. Not investment advice. Names cited are for analytical illustration; readers should perform their own due diligence and consult licensed advisors before any investment decision.*

@@ -208,4 +208,4 @@ Para los datos financieros más actualizados, consulte el informe anual más rec
 
 ---
 
-*Este análisis tiene únicamente fines informativos y no constituye asesoramiento de inversión. Toda decisión de inversión conlleva riesgos, incluida la posible pérdida del capital invertido. La rentabilidad pasada de una acción no es indicativa de resultados futuros. Consulte a un asesor financiero cualificado antes de tomar cualquier decisión de inversión. Las cifras financieras mencionadas se basan en los registros de DART y datos de mercado disponibles públicamente a fecha de los períodos comunicados más recientemente; verifique siempre con los registros actuales antes de actuar sobre cualquier dato.*
+*Disclaimer: For research and information purposes only. Not investment advice. Names cited are for analytical illustration; readers should perform their own due diligence and consult licensed advisors before any investment decision.*

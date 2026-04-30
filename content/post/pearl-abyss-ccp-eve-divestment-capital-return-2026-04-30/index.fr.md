@@ -30,7 +30,7 @@ draft: false
 
 - Le produit de cession de ₩177,1 milliards représente environ 4,7 % de la capitalisation boursière et ₩2 757 par action en valeur cash. Prise isolément, la transaction constitue un événement de revalorisation à court terme de l'ordre de +3–5 %.
 - La plus-value de cession est un élément exceptionnel hors exploitation. En retenant une valeur comptable d'environ ₩107,9 milliards, la plus-value avant impôt s'établit à environ ₩69,2 milliards ; l'impact sur le BPA après impôt est estimé à **environ ₩800–860 par action**. Aucun multiple sur résultat récurrent ne doit lui être appliqué.
-- **Le vrai catalyseur réside dans l'affectation du produit et dans le traitement des actions propres existantes.** L'annulation des ~2,828 millions d'actions propres actuelles (≈4,4 % du capital) combinée à un rachat financé par le produit CCP recalibrerait mécaniquement notre juste valeur de ₩75 000 à **₩78 000–82 500**.
+- **Le vrai catalyseur réside dans l'affectation du produit et dans le traitement des actions propres existantes.** L'annulation des \~2,828 millions d'actions propres actuelles (≈4,4 % du capital) combinée à un rachat financé par le produit CCP recalibrerait mécaniquement notre juste valeur de ₩75 000 à **₩78 000–82 500**.
 - **Le troisième amendement de 2026 à la Loi sur les Sociétés commerciales** impose désormais, comme règle de base, l'annulation dans l'année des actions propres nouvellement acquises. Les actions propres antérieures à l'amendement sont soumises à un délai d'annulation de 18 mois, avec obligation de publication au niveau du conseil et d'approbation en assemblée des actionnaires pour justifier leur maintien. Le coût de simple détention d'actions propres a structurellement augmenté.
 - Recommandation : **Conserver / Ne pas renforcer les positions / Réviser la juste valeur si une annonce d'annulation ou de rachat-annulation se matérialise.** Cette seule divulgation ne justifie pas de courir après le titre.
 
@@ -42,7 +42,7 @@ draft: false
 |---|---:|
 | Produit de cession | ₩177,1 mds |
 | Date de clôture prévue | 2026-05-06 |
-| Capitalisation boursière (au prix de référence ₩58 900) | ~₩3,78 bn |
+| Capitalisation boursière (au prix de référence ₩58 900) | \~₩3,78 bn |
 | Valeur cash par action | ₩2 757 |
 | Produit en % de la capitalisation | 4,7 % |
 | Impact prix à court terme (cession seule) | Coussin de -3–5 % |
@@ -229,11 +229,11 @@ Le chiffre d'actions propres existantes est une estimation interne et doit être
 
 | Scénario | Source de Financement | Actions Annulées | % du Capital | Hausse de Valeur / Action |
 |---|---|---:|---:|---:|
-| Annulation des actions propres seules | Position existante | ~2,828M | 4,4 % | **+4,6 %** |
-| 50 % du produit CCP — rachat & annulation | ₩88,5 mds | ~1,503M | 2,3 % | +2,4 % |
-| 100 % du produit CCP — rachat & annulation | ₩177,1 mds | ~3,007M | 4,7 % | +4,9 % |
-| Existantes + 50 % du produit CCP | Position + ₩88,5 mds | ~4,331M | 6,7 % | **+7,2 %** |
-| **Existantes + 100 % du produit CCP** | Position + ₩177,1 mds | ~5,835M | 9,1 % | **+10,0 %** |
+| Annulation des actions propres seules | Position existante | \~2,828M | 4,4 % | **+4,6 %** |
+| 50 % du produit CCP — rachat & annulation | ₩88,5 mds | \~1,503M | 2,3 % | +2,4 % |
+| 100 % du produit CCP — rachat & annulation | ₩177,1 mds | \~3,007M | 4,7 % | +4,9 % |
+| Existantes + 50 % du produit CCP | Position + ₩88,5 mds | \~4,331M | 6,7 % | **+7,2 %** |
+| **Existantes + 100 % du produit CCP** | Position + ₩177,1 mds | \~5,835M | 9,1 % | **+10,0 %** |
 
 ### 6.3 Vérification Arithmétique
 
@@ -366,3 +366,7 @@ Un statu quo est défendable ici. Un renforcement ne l'est pas encore — pas av
 ---
 
 *Ce document est produit à des fins de recherche et de commentaire uniquement et ne constitue pas un conseil en investissement. Les positions peuvent évoluer sans préavis. Les chiffres définitifs du P&L de cession sont susceptibles de changer en fonction des divulgations réelles à la clôture. Le nombre d'actions propres existantes est une estimation interne et doit être vérifié par rapport à la déclaration d'actions propres sur DART. Données au 30 avril 2026, heure de Corée.*
+
+---
+
+*Disclaimer: For research and information purposes only. Not investment advice. Names cited are for analytical illustration; readers should perform their own due diligence and consult licensed advisors before any investment decision.*

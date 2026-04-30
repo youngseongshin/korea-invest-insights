@@ -93,3 +93,7 @@ Ngày hôm nay trên thị trường chứng khoán Hàn Quốc gửi đi một 
 Đối với nhà đầu tư quốc tế tiếp cận KOSPI qua ETF như EWY hoặc qua giao dịch trực tiếp trên KRX (Sàn giao dịch chứng khoán Hàn Quốc), ngày mai không phải là ngày để quyết định "thị trường Hàn Quốc có đáng đầu tư không" — mà là ngày để xác nhận liệu chuỗi dẫn dắt chất lượng cao (Samsung Electro-Mechanics + Samsung Electronics đồng thuận) có tái xuất hiện hay không. Câu trả lời đó sẽ định hình triển vọng ngắn hạn của KOSPI rõ ràng hơn bất kỳ chỉ số vĩ mô nào.
 
 *Dữ liệu giá và dòng tiền trong bài dựa trên số liệu KRX ngày 8–9/4/2026. Bài viết mang tính thông tin, không phải khuyến nghị đầu tư.*
+
+---
+
+*Disclaimer: For research and information purposes only. Not investment advice. Names cited are for analytical illustration; readers should perform their own due diligence and consult licensed advisors before any investment decision.*

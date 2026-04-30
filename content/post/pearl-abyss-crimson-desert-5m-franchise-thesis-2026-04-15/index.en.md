@@ -20,7 +20,7 @@ But if you're still framing the Pearl Abyss thesis around "will it hit 7.5 milli
 
 ## TL;DR
 
-- **7.5 million copies is no longer the upside — it's closer to the floor.** With 5M confirmed as of April 15 and a recent run-rate of ~71K copies/day over the last official tracking window, reaching 7.5M requires only ~9,600/day for the remainder of the year. The gap between current velocity and required pace is enormous.
+- **7.5 million copies is no longer the upside — it's closer to the floor.** With 5M confirmed as of April 15 and a recent run-rate of \~71K copies/day over the last official tracking window, reaching 7.5M requires only \~9,600/day for the remainder of the year. The gap between current velocity and required pace is enormous.
 - **The real unlock is 9–10 million copies + a formal DLC/multiplayer roadmap.** Free updates matter not for their direct revenue but for their ability to **flatten the decay curve** and extend the revenue tail into 2027.
 - **BlackSpace Engine is proven. Dokabi is still an option.** The engine has graduated from tech demo to commercial AAA infrastructure — but the bulk of any market-cap re-rating still comes from Crimson Desert's post-2027 cash flows. Dokabi is option value at this stage, nothing more.
 
@@ -52,7 +52,7 @@ Breaking it down into **P × Q × C**: **P** = base game ASP by region plus futu
 
 **Classification: Idiosyncratic Alpha**
 
-As of April 15, we're at 5 million. To reach 7.5M by year-end requires selling 2.5M more over ~260 days — roughly **9,600 copies per day**. Meanwhile, the most recent officially trackable window (April 1 at 4M → April 15 at 5M) implies about **71,000 copies per day**. That pace won't hold indefinitely, but the gap between required and observed velocity is striking.
+As of April 15, we're at 5 million. To reach 7.5M by year-end requires selling 2.5M more over \~260 days — roughly **9,600 copies per day**. Meanwhile, the most recent officially trackable window (April 1 at 4M → April 15 at 5M) implies about **71,000 copies per day**. That pace won't hold indefinitely, but the gap between required and observed velocity is striking.
 
 In our assessment, **7.5 million is no longer "how high can it go?" — it's "what's the minimum it can hold?"**
 
@@ -60,7 +60,7 @@ Translating to share price: our internal FY26 earnings sensitivity model puts **
 
 The market's persistent mispricing: the **"launch spike → immediate decay" framework** that Korean investors reflexively apply to packaged games. The math currently says the opposite. 7.5M is too low a bar. **The debate should center on 900K–1M and whether cash flows survive into 2027.**
 
-**Red Team:** If the May–June exit-rate collapses and daily sales converge to ~10K, the "7.5M is the floor" thesis weakens significantly. **The slope of deceleration in May–June matters more than the absolute sales total.**
+**Red Team:** If the May–June exit-rate collapses and daily sales converge to \~10K, the "7.5M is the floor" thesis weakens significantly. **The slope of deceleration in May–June matters more than the absolute sales total.**
 
 ### Thesis 2: Free Updates Are Not About Free Content — They're About Decay-Rate Defense
 
@@ -70,7 +70,7 @@ The April–June update roadmap isn't a simple QoL bundle. Boss re-challenges, r
 
 The effects are already observable. Over a 48-hour tracking window following recent updates, we recorded: **peak concurrent users up 35.9% (146K → 198K)**, **trough concurrent up 72.5% (75.5K → 130.2K)**, **US sales rank improving from #5 to #2**, **China from #8 to #4**, and **new review positivity at 94%**. This is evidence — not proof, but evidence — that update cadence and feedback integration are meaningfully influencing short-term sell-through and retention.
 
-From an investor's perspective, the value of free updates is **not direct revenue but incremental base-game sales**. With sensitivity at ~KRW 10,000 per million copies, if the update program pushes an additional 300K–600K cumulative sales in 2026, that's **KRW 3,000–6,000 in share-price support**. That's the first-order effect.
+From an investor's perspective, the value of free updates is **not direct revenue but incremental base-game sales**. With sensitivity at \~KRW 10,000 per million copies, if the update program pushes an additional 300K–600K cumulative sales in 2026, that's **KRW 3,000–6,000 in share-price support**. That's the first-order effect.
 
 The second-order effect is larger. When the market starts believing "this isn't a one-and-done package — they're building a live franchise through 2027," **the multiple itself changes**. Our model leaves room for **PER +2–3x upon formal DLC/multiplayer roadmap announcement**.
 
@@ -104,7 +104,7 @@ The meaning is straightforward. **Existing positions are holdable, but fresh cap
 
 **Valuation framework** operates on two layers:
 
-1. **Base game upside** uses the FY26 earnings sensitivity model: **7.8M copies base = KRW 74,500; ~KRW 10,000 per additional 1M copies; PER +2–3x on DLC announcement.**
+1. **Base game upside** uses the FY26 earnings sensitivity model: **7.8M copies base = KRW 74,500; \~KRW 10,000 per additional 1M copies; PER +2–3x on DLC announcement.**
 2. **Engine/Dokabi options** use a conservative IP SOTP: **Dokabi base KRW 0.2T / bull KRW 0.4T; engine and other options KRW 0.1–0.2T.**
 
 Scenario matrix:
@@ -147,7 +147,7 @@ Above KRW 100,000 requires **sales volume + roadmap together** — volume alone 
 - 4M copies confirmed April 1; 5M confirmed April 15
 - April–June free updates announced: boss re-challenges, reconquest, difficulty settings, new skills/costumes/pets/mounts, storage, UI/control improvements
 - H1 2025 R&D: KRW 61.2B (37.5% of revenue); BlackSpace Engine focus on ray tracing, rendering, physics, open-world optimization
-- Management: Dokabi reveal "at appropriate time" after Crimson Desert; separate report estimates ~2 years to launch
+- Management: Dokabi reveal "at appropriate time" after Crimson Desert; separate report estimates \~2 years to launch
 
 **[Inference]**
 - 7.5M is now a floor rather than an upside target
@@ -170,4 +170,4 @@ The next decision point is singular: **do May–June data support the 9-million-
 
 ---
 
-*Disclaimer: This analysis is for informational purposes only and does not constitute investment advice. All investment decisions should be based on your own research and risk assessment.*
+*Disclaimer: For research and information purposes only. Not investment advice. Names cited are for analytical illustration; readers should perform their own due diligence and consult licensed advisors before any investment decision.*

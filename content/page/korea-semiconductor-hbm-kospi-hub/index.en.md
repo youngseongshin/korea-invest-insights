@@ -17,10 +17,10 @@ Korean semiconductor exposure is not one trade. It combines **SK Hynix's HBM lea
 
 | Search Question | Current Answer | Read |
 |---|---|---|
-| What is SK Hynix's HBM market share? | A practical 2026 baseline is roughly 50% of total HBM revenue/share, with potentially higher exposure in Nvidia's HBM4 ramp if allocation reports hold. | [SK Hynix HBM Market Share 2026](/en/post/sk-hynix-hbm-market-share-ai-memory-demand-2026/) |
-| How large is Samsung Electronics in KOSPI? | For Korea ETF investors, Samsung Electronics is not just one holding. In major Korea index products, its weight typically sits in the low-20s to low-30s percentage range. | [Samsung Electronics Weight in KOSPI](/en/post/samsung-electronics-weight-in-kospi-index-2026/) |
-| Samsung or SK Hynix: which is cleaner HBM exposure? | SK Hynix is the cleaner public HBM exposure. Samsung is a broader semiconductor and electronics compounder with HBM recovery, DDR5/eSSD, foundry and device exposure. | [SK Hynix Deep Dive](/en/post/kr-deep-dive-sk-hynix-2026-04-16/) · [Samsung Electronics Deep Dive](/en/post/kr-deep-dive-samsung-electronics-2026-04-16/) |
-| Why is KOSPI being re-rated in 2026? | HBM earnings, governance reform and global allocation away from crowded US exposure are working together to compress Korea's discount. | [Korea 2026 Re-Rating](/en/post/korea-outperformance-2026-structural-rerating-2026-04-24/) |
+| What is SK Hynix's HBM market share? | A practical 2026 baseline is roughly 50% of total HBM revenue/share, with potentially higher exposure in Nvidia's HBM4 ramp if allocation reports hold. | [SK Hynix HBM Market Share 2026](/post/sk-hynix-hbm-market-share-ai-memory-demand-2026/) |
+| How large is Samsung Electronics in KOSPI? | For Korea ETF investors, Samsung Electronics is not just one holding. In major Korea index products, its weight typically sits in the low-20s to low-30s percentage range. | [Samsung Electronics Weight in KOSPI](/post/samsung-electronics-weight-in-kospi-index-2026/) |
+| Samsung or SK Hynix: which is cleaner HBM exposure? | SK Hynix is the cleaner public HBM exposure. Samsung is a broader semiconductor and electronics compounder with HBM recovery, DDR5/eSSD, foundry and device exposure. | [SK Hynix Deep Dive](/post/kr-deep-dive-sk-hynix-2026-04-16/) · [Samsung Electronics Deep Dive](/post/kr-deep-dive-samsung-electronics-2026-04-16/) |
+| Why is KOSPI being re-rated in 2026? | HBM earnings, governance reform and global allocation away from crowded US exposure are working together to compress Korea's discount. | [Korea 2026 Re-Rating](/post/korea-outperformance-2026-structural-rerating-2026-04-24/) |
 
 ---
 
@@ -28,11 +28,11 @@ Korean semiconductor exposure is not one trade. It combines **SK Hynix's HBM lea
 
 | Step | Question | Read |
 |---:|---|---|
-| 1 | How should investors think about Samsung's KOSPI weight? | [Samsung Electronics Weight in KOSPI: 2026 Index Concentration Explained](/en/post/samsung-electronics-weight-in-kospi-index-2026/) |
-| 2 | Where does SK Hynix stand in HBM and AI memory? | [SK Hynix HBM Market Share 2026: AI Memory Investor Guide](/en/post/sk-hynix-hbm-market-share-ai-memory-demand-2026/) |
-| 3 | What are Samsung's AI, HBM and foundry options? | [Samsung Electronics 2026: AI, HBM and Foundry Deep Dive](/en/post/kr-deep-dive-samsung-electronics-2026-04-16/) |
-| 4 | Why is SK Hynix central to AI infrastructure? | [SK Hynix: The HBM Leader Powering the AI Revolution](/en/post/kr-deep-dive-sk-hynix-2026-04-16/) |
-| 5 | Why is Korea being re-rated? | [Korea 2026: Why KOSPI +49% YTD Is a Re-Rating, Not a Rally](/en/post/korea-outperformance-2026-structural-rerating-2026-04-24/) |
+| 1 | How should investors think about Samsung's KOSPI weight? | [Samsung Electronics Weight in KOSPI: 2026 Index Concentration Explained](/post/samsung-electronics-weight-in-kospi-index-2026/) |
+| 2 | Where does SK Hynix stand in HBM and AI memory? | [SK Hynix HBM Market Share 2026: AI Memory Investor Guide](/post/sk-hynix-hbm-market-share-ai-memory-demand-2026/) |
+| 3 | What are Samsung's AI, HBM and foundry options? | [Samsung Electronics 2026: AI, HBM and Foundry Deep Dive](/post/kr-deep-dive-samsung-electronics-2026-04-16/) |
+| 4 | Why is SK Hynix central to AI infrastructure? | [SK Hynix: The HBM Leader Powering the AI Revolution](/post/kr-deep-dive-sk-hynix-2026-04-16/) |
+| 5 | Why is Korea being re-rated? | [Korea 2026: Why KOSPI +49% YTD Is a Re-Rating, Not a Rally](/post/korea-outperformance-2026-structural-rerating-2026-04-24/) |
 
 ---
 
@@ -40,21 +40,21 @@ Korean semiconductor exposure is not one trade. It combines **SK Hynix's HBM lea
 
 ### HBM and AI Memory
 
-- [SK Hynix HBM Market Share 2026: AI Memory Investor Guide](/en/post/sk-hynix-hbm-market-share-ai-memory-demand-2026/)
-- [SK Hynix: The HBM Leader Powering the AI Revolution](/en/post/kr-deep-dive-sk-hynix-2026-04-16/)
-- [Samsung Electronics 2026: AI, HBM and Foundry Deep Dive](/en/post/kr-deep-dive-samsung-electronics-2026-04-16/)
+- [SK Hynix HBM Market Share 2026: AI Memory Investor Guide](/post/sk-hynix-hbm-market-share-ai-memory-demand-2026/)
+- [SK Hynix: The HBM Leader Powering the AI Revolution](/post/kr-deep-dive-sk-hynix-2026-04-16/)
+- [Samsung Electronics 2026: AI, HBM and Foundry Deep Dive](/post/kr-deep-dive-samsung-electronics-2026-04-16/)
 
 ### KOSPI and Index Concentration
 
-- [Samsung Electronics Weight in KOSPI: 2026 Index Concentration Explained](/en/post/samsung-electronics-weight-in-kospi-index-2026/)
-- [Korea 2026: Why KOSPI +49% YTD Is a Re-Rating, Not a Rally](/en/post/korea-outperformance-2026-structural-rerating-2026-04-24/)
-- [KOSPI Focus Stocks: April 2026 Strategy](/en/post/kr-concentrated-weekly-2026-04-24/)
+- [Samsung Electronics Weight in KOSPI: 2026 Index Concentration Explained](/post/samsung-electronics-weight-in-kospi-index-2026/)
+- [Korea 2026: Why KOSPI +49% YTD Is a Re-Rating, Not a Rally](/post/korea-outperformance-2026-structural-rerating-2026-04-24/)
+- [KOSPI Focus Stocks: April 2026 Strategy](/post/kr-concentrated-weekly-2026-04-24/)
 
 ### AI Hardware Supply Chain
 
-- [Samsung Electronics vs Samsung Electro-Mechanics: Korean Supply-Chain Read-Through from Big Tech AI Capex](/en/post/bigtech-1q26-samsung-electronics-vs-electro-mechanics-2026-04-30/)
-- [Samsung Electro-Mechanics AI Infrastructure Re-Rating](/en/post/samsung-electro-mechanics-ai-infrastructure-rerating-2026-04-21/)
-- [Openedges Technology: Korea's Memory Subsystem IP Platform](/en/post/semiscope-openedges-technology-ip-platform-2026-04-25/)
+- [Samsung Electronics vs Samsung Electro-Mechanics: Korean Supply-Chain Read-Through from Big Tech AI Capex](/post/bigtech-1q26-samsung-electronics-vs-electro-mechanics-2026-04-30/)
+- [Samsung Electro-Mechanics AI Infrastructure Re-Rating](/post/samsung-electro-mechanics-ai-infrastructure-rerating-2026-04-21/)
+- [Openedges Technology: Korea's Memory Subsystem IP Platform](/post/semiscope-openedges-technology-ip-platform-2026-04-25/)
 
 ---
 

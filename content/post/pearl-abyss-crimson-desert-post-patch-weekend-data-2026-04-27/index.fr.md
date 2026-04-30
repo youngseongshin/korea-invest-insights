@@ -111,7 +111,7 @@ C'est exactement l'asymétrie que prédit la thèse de revalorisation de platefo
 
 **Arguments baissiers**
 - Les CCU sont indéniablement en baisse de **-13 %.**
-- La positivité des nouvelles critiques à 87,3 % reste en dessous du pic post-patch de ~95 %.
+- La positivité des nouvelles critiques à 87,3 % reste en dessous du pic post-patch de \~95 %.
 - Les classements FR / JP / TW / BR continuent de fléchir.
 
 Les arguments haussiers ciblent *ce sur quoi porte réellement la thèse* — la durabilité de la longue traîne, la réduction des frictions et la conversion de nouveaux acheteurs sur les marchés cœur. Les arguments baissiers décrivent la courbe de déclin naturelle de tout titre AAA vendu à l'exemplaire. **Les deux peuvent être vrais simultanément**, et le bon cadre d'analyse est de déterminer lequel le marché surpondère.
@@ -172,3 +172,7 @@ Pour l'heure, les données de ce week-end **confirment la thèse, elles ne la co
 ---
 
 **Avertissement** : Cet article est un commentaire de recherche, pas un conseil en investissement. Pearl Abyss est suivi dans le cadre de la série de thèses de l'auteur. Les positions, conditions et niveaux de prix peuvent évoluer à mesure que de nouvelles données arrivent. Faites votre propre analyse.
+
+---
+
+*Disclaimer: For research and information purposes only. Not investment advice. Names cited are for analytical illustration; readers should perform their own due diligence and consult licensed advisors before any investment decision.*

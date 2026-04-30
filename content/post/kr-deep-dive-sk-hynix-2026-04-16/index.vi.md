@@ -62,12 +62,12 @@ Hào cạnh tranh của SK hynix trong HBM vừa mang tính kỹ thuật, vừa 
 
 SK hynix báo cáo hai dòng sản phẩm chính:
 
-**DRAM (~70% doanh thu)**
+**DRAM (\~70% doanh thu)**
 - *DRAM server, PC và di động thông thường* — nền tảng hàng hóa khối lượng lớn, được hưởng lợi từ kỷ luật nguồn cung ngành và phục hồi nhu cầu
 - *HBM (HBM3, HBM3E, chuyển tiếp sang HBM4)* — động cơ tăng trưởng cao cấp; HBM có mức ASP cao hơn 5–8 lần mỗi bit so với DRAM thông thường và làm phồng biên lợi nhuận bình quân gia quyền một cách không cân đối khi tỷ trọng sản phẩm dịch chuyển
 - Tỷ trọng HBM trong tổng doanh thu DRAM đang tăng đáng kể mỗi quý
 
-**NAND (~30% doanh thu)**
+**NAND (\~30% doanh thu)**
 - *NAND dành cho khách hàng và tiêu dùng* — SSD cho PC và lưu trữ di động; chu kỳ hàng hóa hơn
 - *Enterprise SSD qua Solidigm* — phân khúc con tăng trưởng nhanh nhất; kiểm tra kênh phân phối gần đây và các màn hình nội bộ của chúng tôi cho thấy giá eSSD đã tăng mạnh, được thúc đẩy bởi nhu cầu trung tâm dữ liệu về lưu trữ NVMe dung lượng cao
 
@@ -170,3 +170,7 @@ Nhà đầu tư quốc tế có thể tiếp cận SK hynix (000660.KS) trực t
 ---
 
 *Phân tích này chỉ nhằm mục đích thông tin và không cấu thành tư vấn đầu tư. Hiệu suất trong quá khứ không phải chỉ báo cho kết quả tương lai. Tất cả dữ liệu tài chính được tham chiếu được lấy từ hồ sơ công ty có sẵn công khai, tài liệu IR và nghiên cứu ngành tính đến ngày đăng bài. Nhà đầu tư nên tự thẩm định và tham khảo cố vấn tài chính có chuyên môn trước khi đưa ra bất kỳ quyết định đầu tư nào.*
+
+---
+
+*Disclaimer: For research and information purposes only. Not investment advice. Names cited are for analytical illustration; readers should perform their own due diligence and consult licensed advisors before any investment decision.*

@@ -75,3 +75,7 @@ For investors tracking the Korean market into next week, the following checkpoin
 April 3 in Seoul was a day for selective positioning, not broad conviction. The energy infrastructure and fiber optics trades look structurally interesting and backed by genuine sell-side attention and institutional flows. The semiconductor thesis remains intact on a fundamental basis but requires patience as foreign investor sentiment stabilizes.
 
 For international allocators with Korean exposure, the current environment rewards stock-level differentiation over index-level calls. The KOSPI may be attempting a base, but the real alpha on days like today is in identifying which themes have the momentum and flow support to sustain their moves — and which rebounds are retail-driven noise.
+
+---
+
+*Disclaimer: For research and information purposes only. Not investment advice. Names cited are for analytical illustration; readers should perform their own due diligence and consult licensed advisors before any investment decision.*

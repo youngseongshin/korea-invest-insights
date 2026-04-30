@@ -95,10 +95,10 @@ Sanilelectric fabrica transformadores de potencia y equipos de conversión y dis
 
 **Por qué aparece en múltiples screeners.** Cruza Quality Compounder (ROE 29,2%, margen operativo 35,6%, crecimiento de ingresos +50,3%) y Smart Money Quality (flujo neto +9.620 millones en cinco días, posición número 6 en volumen de negociación en el ranking Kiwoom). El 30 de abril publicó resultados provisionales de beneficio consolidado y un contrato de suministro individual, ambos clasificados como catalizadores por el sistema DART.
 
-**Señal de cautela.** El valor acumula una subida del ~20% en la jornada anterior a la publicación de estos datos. El precio de referencia de ruptura es 237.000 won; el mercado cotizó en torno a 266.000 won, lo que implica extensión considerable. Acercarse en corrección o en consolidación, no persiguiendo el precio.
+**Señal de cautela.** El valor acumula una subida del \~20% en la jornada anterior a la publicación de estos datos. El precio de referencia de ruptura es 237.000 won; el mercado cotizó en torno a 266.000 won, lo que implica extensión considerable. Acercarse en corrección o en consolidación, no persiguiendo el precio.
 
 **Qué verificar a continuación.** Confirmar los detalles numéricos del contrato de suministro publicado en DART; revisar si el flujo institucional (actualmente en posición #280 del ranking Kiwoom) se incrementa en los próximos días.
 
 ---
 
-*Este análisis es un ejercicio editorial de selección de candidatos para investigación adicional. No constituye asesoramiento de inversión ni recomendación de compra o venta de valores.*
+*Disclaimer: For research and information purposes only. Not investment advice. Names cited are for analytical illustration; readers should perform their own due diligence and consult licensed advisors before any investment decision.*

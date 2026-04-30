@@ -23,7 +23,7 @@ draft: false
 | **Ticker** | 352820.KS |
 | **Bolsa** | KOSPI (Korea Composite Stock Price Index) |
 | **Sector** | Entretenimiento / Medios |
-| **Capitalización Bursátil** | Aproximadamente ₩12–13 billones (basado en un rango de ~₩300.000/acción, a partir del Q1 2026) |
+| **Capitalización Bursátil** | Aproximadamente ₩12–13 billones (basado en un rango de \~₩300.000/acción, a partir del Q1 2026) |
 | **Marcas Clave** | BTS, SEVENTEEN, Le Sserafim, TOMORROW X TOGETHER (TXT), ENHYPEN |
 
 **Resumen ejecutivo:** HYBE no es una discográfica en el sentido tradicional. Es una empresa de tecnología del entretenimiento con integración vertical que controla el ciclo de vida completo de la propiedad intelectual —desarrollo de artistas, producción musical, giras de conciertos, merchandising y monetización directa al fan a través de su plataforma propia Weverse— en sellos de Corea del Sur, Japón y Estados Unidos. El ciclo de licencias militares de BTS (los siete miembros han regresado o están regresando a la vida civil a partir de 2025) ofrece uno de los catalizadores de resultados más predeciblemente cuantificables del entretenimiento global: un supergrupo único en una generación, con una base de fans global de 50 millones (ARMY), retomando la actividad comercial plena de forma simultánea.
@@ -165,4 +165,4 @@ BTS está firmado con Big Hit Music, uno de los varios sellos bajo el paraguas d
 
 ---
 
-*Este análisis tiene únicamente fines informativos y no constituye asesoramiento de inversión. Todas las cifras financieras mencionadas se basan en estimaciones de casas de análisis disponibles públicamente, presentaciones de la empresa y fuentes de noticias a partir de abril de 2026. Los inversores deben realizar su propia diligencia debida antes de tomar cualquier decisión de inversión. El rendimiento pasado de la renta variable de entretenimiento coreana no garantiza resultados futuros.*
+*Disclaimer: For research and information purposes only. Not investment advice. Names cited are for analytical illustration; readers should perform their own due diligence and consult licensed advisors before any investment decision.*

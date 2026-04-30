@@ -80,3 +80,7 @@ Holding d'investissement technologique filiale de SK Group, détenteur notamment
 ---
 
 *Données au 21 avril 2026, clôture séance KST. Ce document est produit à des fins d'information et ne constitue pas un conseil en investissement.*
+
+---
+
+*Disclaimer: For research and information purposes only. Not investment advice. Names cited are for analytical illustration; readers should perform their own due diligence and consult licensed advisors before any investment decision.*

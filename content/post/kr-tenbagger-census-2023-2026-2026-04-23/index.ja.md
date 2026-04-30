@@ -9,8 +9,8 @@ series: ["kosdaq-structural-2026", "tenbagger-analysis-2026"]
 ---
 
 > **シリーズ — KOSDAQ Structural 2026（第3回 全3回）**
-> ① [KOSDAQ 2026 資金流入トリガーとVCランキング](/en/post/kosdaq-2026-capital-inflow-triggers-vc-ranking-2026-04-21/) — 政策・資本環境の整理
-> ② [KOSDAQ IPOクラス 2023-2026：テンバガーが実際に生まれた場所](/en/post/kosdaq-ipo-class-2023-2026-tenbagger-analysis-2026-04-22/) — IPOビンテージ別の勝者分析
+> ① [KOSDAQ 2026 資金流入トリガーとVCランキング](/post/kosdaq-2026-capital-inflow-triggers-vc-ranking-2026-04-21/) — 政策・資本環境の整理
+> ② [KOSDAQ IPOクラス 2023-2026：テンバガーが実際に生まれた場所](/post/kosdaq-ipo-class-2023-2026-tenbagger-analysis-2026-04-22/) — IPOビンテージ別の勝者分析
 > ③ **本稿** — KOSPI + KOSDAQ 3年間・10倍株の全数調査と、選別基準の実態
 
 ---
@@ -33,33 +33,33 @@ series: ["kosdaq-structural-2026", "tenbagger-analysis-2026"]
 
 | # | 銘柄名 | 倍率 | ピーク | ピーク比DD | 売上YoY | 営業利益YoY | 営業利益率 | ROE | P/E | セクター |
 |---|------|------|------|------|------|------|------|------|------|------|
-| 1 | HD Hyundai Electric | ~20× | 2025H2 | -15% | +38% | +95% | 18% | 41% | 14 | 電力/グリッド |
-| 2 | Hyosung Heavy | ~16× | 2025H2 | -22% | +31% | +82% | 14% | 35% | 13 | 電力/グリッド |
-| 3 | LS Electric | ~14× | 2025H2 | -18% | +27% | +61% | 12% | 28% | 16 | 電力/グリッド |
-| 4 | SK Hynix | ~13× | 2026Q1 | -8% | +71% | +340% | 42% | 48% | 9 | 半導体/AI |
-| 5 | Isu Petasys | ~22× | 2024H2 | -35% | +88% | n/m | 18% | 52% | 11 | 半導体/AI（HBM基板） |
-| 6 | Hanwha Aerospace | ~18× | 2025H2 | -12% | +44% | +110% | 13% | 32% | 12 | 防衛 |
-| 7 | HD Hyundai Marine Engine | ~15× | 2025H2 | -9% | +52% | +180% | 16% | 44% | 10 | 造船 |
-| 8 | Samyang Foods | ~17× | 2025H1 | -20% | +47% | +125% | 22% | 46% | 14 | 消費財/輸出 |
-| 9 | SK Square | ~11× | 2026Q1 | -6% | n/m | n/m | n/m | 31% | 8 | 持株/半導体 |
-| 10 | Alteogen | ~25× | 2024H2 | -42% | +210% | n/m | n/m | n/m | n/m | バイオテック |
-| 11 | Ligachem Bio | ~14× | 2025H1 | -28% | +95% | n/m | n/m | n/m | n/m | バイオテック |
-| 12 | HLB | ~12× | 2024H1 | -55% | +12% | 赤字 | 赤字 | 赤字 | n/m | バイオテック |
-| 13 | Peptron | ~18× | 2024H2 | -48% | +180% | n/m | n/m | n/m | n/m | バイオテック |
-| 14 | ABL Bio | ~11× | 2025H1 | -30% | +140% | n/m | n/m | n/m | n/m | バイオテック |
-| 15 | Doosan Enerbility | ~13× | 2025H2 | -18% | +18% | +65% | 9% | 14% | 22 | 原子力/電力 |
-| 16 | Hyundai Rotem | ~14× | 2025H2 | -15% | +33% | +92% | 11% | 26% | 15 | 防衛/鉄道 |
-| 17 | Hanwha Ocean | ~11× | 2025H2 | -16% | +28% | +70% | 7% | 18% | 19 | 造船 |
-| 18 | Iljin Electric | ~12× | 2025H2 | -20% | +25% | +55% | 10% | 24% | 17 | 電力/グリッド |
-| 19 | Daeho AL | ~11× | 2025H1 | -24% | +35% | +88% | 13% | 29% | 13 | グリッド素材 |
-| 20 | Jeio | ~15× | 2025H2 | -30% | +120% | n/m | 22% | 38% | 18 | AI/半導体製造装置 |
-| 21 | Park Systems | ~10× | 2025H1 | -22% | +41% | +78% | 24% | 33% | 24 | 半導体計測 |
-| 22 | Hanjin Kal | ~10× | 2025Q3 | -14% | +6% | +18% | n/m | 11% | 28 | 持株 |
-| 23 | Hyundai Motor Securities | ~11× | 2025H2 | -18% | +22% | +45% | n/m | 15% | 11 | 金融 |
-| 24 | Kiwoom Securities | ~10× | 2025H2 | -15% | +19% | +38% | n/m | 13% | 9 | 金融 |
-| 25 | Woori Financial | ~10× | 2026Q1 | -5% | +8% | +14% | n/m | 11% | 7 | 銀行 |
-| 26 | Koh Young | ~11× | 2025H1 | -28% | +25% | +60% | 17% | 22% | 20 | 半導体検査 |
-| 27 | Simmtech | ~10× | 2025H1 | -32% | +55% | +140% | 14% | 34% | 12 | 半導体基板 |
+| 1 | HD Hyundai Electric | \~20× | 2025H2 | -15% | +38% | +95% | 18% | 41% | 14 | 電力/グリッド |
+| 2 | Hyosung Heavy | \~16× | 2025H2 | -22% | +31% | +82% | 14% | 35% | 13 | 電力/グリッド |
+| 3 | LS Electric | \~14× | 2025H2 | -18% | +27% | +61% | 12% | 28% | 16 | 電力/グリッド |
+| 4 | SK Hynix | \~13× | 2026Q1 | -8% | +71% | +340% | 42% | 48% | 9 | 半導体/AI |
+| 5 | Isu Petasys | \~22× | 2024H2 | -35% | +88% | n/m | 18% | 52% | 11 | 半導体/AI（HBM基板） |
+| 6 | Hanwha Aerospace | \~18× | 2025H2 | -12% | +44% | +110% | 13% | 32% | 12 | 防衛 |
+| 7 | HD Hyundai Marine Engine | \~15× | 2025H2 | -9% | +52% | +180% | 16% | 44% | 10 | 造船 |
+| 8 | Samyang Foods | \~17× | 2025H1 | -20% | +47% | +125% | 22% | 46% | 14 | 消費財/輸出 |
+| 9 | SK Square | \~11× | 2026Q1 | -6% | n/m | n/m | n/m | 31% | 8 | 持株/半導体 |
+| 10 | Alteogen | \~25× | 2024H2 | -42% | +210% | n/m | n/m | n/m | n/m | バイオテック |
+| 11 | Ligachem Bio | \~14× | 2025H1 | -28% | +95% | n/m | n/m | n/m | n/m | バイオテック |
+| 12 | HLB | \~12× | 2024H1 | -55% | +12% | 赤字 | 赤字 | 赤字 | n/m | バイオテック |
+| 13 | Peptron | \~18× | 2024H2 | -48% | +180% | n/m | n/m | n/m | n/m | バイオテック |
+| 14 | ABL Bio | \~11× | 2025H1 | -30% | +140% | n/m | n/m | n/m | n/m | バイオテック |
+| 15 | Doosan Enerbility | \~13× | 2025H2 | -18% | +18% | +65% | 9% | 14% | 22 | 原子力/電力 |
+| 16 | Hyundai Rotem | \~14× | 2025H2 | -15% | +33% | +92% | 11% | 26% | 15 | 防衛/鉄道 |
+| 17 | Hanwha Ocean | \~11× | 2025H2 | -16% | +28% | +70% | 7% | 18% | 19 | 造船 |
+| 18 | Iljin Electric | \~12× | 2025H2 | -20% | +25% | +55% | 10% | 24% | 17 | 電力/グリッド |
+| 19 | Daeho AL | \~11× | 2025H1 | -24% | +35% | +88% | 13% | 29% | 13 | グリッド素材 |
+| 20 | Jeio | \~15× | 2025H2 | -30% | +120% | n/m | 22% | 38% | 18 | AI/半導体製造装置 |
+| 21 | Park Systems | \~10× | 2025H1 | -22% | +41% | +78% | 24% | 33% | 24 | 半導体計測 |
+| 22 | Hanjin Kal | \~10× | 2025Q3 | -14% | +6% | +18% | n/m | 11% | 28 | 持株 |
+| 23 | Hyundai Motor Securities | \~11× | 2025H2 | -18% | +22% | +45% | n/m | 15% | 11 | 金融 |
+| 24 | Kiwoom Securities | \~10× | 2025H2 | -15% | +19% | +38% | n/m | 13% | 9 | 金融 |
+| 25 | Woori Financial | \~10× | 2026Q1 | -5% | +8% | +14% | n/m | 11% | 7 | 銀行 |
+| 26 | Koh Young | \~11× | 2025H1 | -28% | +25% | +60% | 17% | 22% | 20 | 半導体検査 |
+| 27 | Simmtech | \~10× | 2025H1 | -32% | +55% | +140% | 14% | 34% | 12 | 半導体基板 |
 
 _倍率は直近3年間の安値から高値。「n/m」＝意味なし（赤字企業または持株会社の会計処理）。数値は丸め。_
 
@@ -151,4 +151,8 @@ _倍率は直近3年間の安値から高値。「n/m」＝意味なし（赤字
 
 ---
 
-_本稿でKOSDAQ Structural 2026シリーズは完結する。[第1回：VCランキングと資金流入トリガー](/en/post/kosdaq-2026-capital-inflow-triggers-vc-ranking-2026-04-21/) [第2回：2023-2026年IPOクラスのテンバガー分析](/en/post/kosdaq-ipo-class-2023-2026-tenbagger-analysis-2026-04-22/)_
+_本稿でKOSDAQ Structural 2026シリーズは完結する。[第1回：VCランキングと資金流入トリガー](/post/kosdaq-2026-capital-inflow-triggers-vc-ranking-2026-04-21/) [第2回：2023-2026年IPOクラスのテンバガー分析](/post/kosdaq-ipo-class-2023-2026-tenbagger-analysis-2026-04-22/)_
+
+---
+
+*Disclaimer: For research and information purposes only. Not investment advice. Names cited are for analytical illustration; readers should perform their own due diligence and consult licensed advisors before any investment decision.*

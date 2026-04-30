@@ -99,3 +99,7 @@ RSIや移動平均との関係では、**50日線突破後の5営業日以内の
 ---
 
 *本稿はKRX・DART・韓国銀行・FRBの公開データおよびKorea JoongAng Dailyの報道をもとに作成したものであり、特定の投資を推奨するものではありません。投資判断はご自身の責任において行ってください。*
+
+---
+
+*Disclaimer: For research and information purposes only. Not investment advice. Names cited are for analytical illustration; readers should perform their own due diligence and consult licensed advisors before any investment decision.*

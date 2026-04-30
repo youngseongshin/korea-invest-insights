@@ -85,3 +85,7 @@ Los inversores internacionales que monitorean el mercado coreano deberían centr
 3. **Macro global**: la volatilidad en tipos de cambio y precios del petróleo puede afectar desproporcionadamente al apetito por valores de crecimiento coreanos —semiconductores, tecnología— en favor de sectores más defensivos o con exposición directa a materias primas energéticas.
 
 El mercado coreano no ha recuperado aún su tendencia alcista de fondo. Pero dentro de esa fase de transición, los temas de energía, infraestructura de telecomunicaciones y contenidos digitales están mostrando la mayor resiliencia relativa. Para el inversor internacional, la sesión de hoy confirma que Corea sigue ofreciendo oportunidades —siempre que se mire con la granularidad sectorial adecuada.
+
+---
+
+*Disclaimer: For research and information purposes only. Not investment advice. Names cited are for analytical illustration; readers should perform their own due diligence and consult licensed advisors before any investment decision.*

@@ -80,3 +80,7 @@ Premier producteur mondial de DRAM HBM, SK하이닉스 affiche des fondamentaux 
 ---
 
 *Ce document constitue une analyse de marché à vocation informationnelle. Il ne représente pas un conseil en investissement. Les données des screeners individuels sont issues du 28 avril 2026 ; les données du méta-screener et de DART sont au 30 avril 2026.*
+
+---
+
+*Disclaimer: For research and information purposes only. Not investment advice. Names cited are for analytical illustration; readers should perform their own due diligence and consult licensed advisors before any investment decision.*

@@ -144,4 +144,4 @@ Pearl Abyss is currently in a phase where **the stock price isn't collapsing, bu
 
 ---
 
-*Disclaimer: This analysis is for informational purposes only and does not constitute investment advice. Past performance does not guarantee future results. Always conduct your own due diligence before making investment decisions.*
+*Disclaimer: For research and information purposes only. Not investment advice. Names cited are for analytical illustration; readers should perform their own due diligence and consult licensed advisors before any investment decision.*

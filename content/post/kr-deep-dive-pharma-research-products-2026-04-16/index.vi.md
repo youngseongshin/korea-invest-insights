@@ -176,4 +176,4 @@ Nhà đầu tư nước ngoài có thể mua **214450.KQ** trực tiếp trên K
 
 ---
 
-*Phân tích này chỉ mang tính thông tin và không cấu thành lời khuyên đầu tư. Tất cả dữ liệu tài chính được đề cập đều được lấy từ các hồ sơ và dữ liệu thị trường có sẵn công khai. Nhà đầu tư nên tự tiến hành thẩm định và tham khảo cố vấn tài chính có giấy phép trước khi đưa ra quyết định đầu tư. Hiệu suất quá khứ của cổ phiếu hay ngành không đảm bảo kết quả trong tương lai.*
+*Disclaimer: For research and information purposes only. Not investment advice. Names cited are for analytical illustration; readers should perform their own due diligence and consult licensed advisors before any investment decision.*

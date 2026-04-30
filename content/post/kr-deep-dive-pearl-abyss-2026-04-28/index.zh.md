@@ -208,4 +208,4 @@ draft: false
 
 ---
 
-*本文分析仅供参考，不构成投资建议。所有引用的财务数据均来自截至标注日期的公开可查信息。任何证券的历史表现不代表未来结果。投资者在作出投资决策前，应进行独立的尽职调查，并咨询持牌金融顾问。Pearl Abyss Corp.（263750.KS）为韩国证券交易所上市公司；所有重要公司信息均可通过DART（dart.fss.or.kr）公开查阅。*
+*Disclaimer: For research and information purposes only. Not investment advice. Names cited are for analytical illustration; readers should perform their own due diligence and consult licensed advisors before any investment decision.*

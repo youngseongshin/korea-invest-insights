@@ -15,8 +15,8 @@ series: ["semiscope-2026"]
 
 ## Lectures associées
 
-- [SemiScope : OpenEdges Technology — La plateforme d'IP de sous-système mémoire coréenne avec une option sur courbe en J de redevances](/en/post/semiscope-openedges-technology-ip-platform-2026-04-25/)
-- [SemiScope : Trois valeurs coréennes ATE et IP mémoire reclassées — Pourquoi Exicon est le trade de la courbe en J 2026, pas la deuxième chance](/en/post/semiscope-neosem-exicon-openedge-rerank-2026-04-25/)
+- [SemiScope : OpenEdges Technology — La plateforme d'IP de sous-système mémoire coréenne avec une option sur courbe en J de redevances](/post/semiscope-openedges-technology-ip-platform-2026-04-25/)
+- [SemiScope : Trois valeurs coréennes ATE et IP mémoire reclassées — Pourquoi Exicon est le trade de la courbe en J 2026, pas la deuxième chance](/post/semiscope-neosem-exicon-openedge-rerank-2026-04-25/)
 
 ---
 
@@ -354,3 +354,7 @@ TSS et la filiale japonaise renforcent la base d'IP principale. OpenEdges Square
 - Snapshot de marché utilisé pour la référence de valorisation : [Page boursière Maeil Business pour OpenEdges Technology](https://stock.mk.co.kr/price/home/KR7394280002).
 
 *Avertissement : À des fins de recherche et d'information uniquement. Ne constitue pas un conseil en investissement. Les noms cités le sont à titre d'illustration analytique ; les lecteurs doivent effectuer leur propre diligence raisonnable et consulter des conseillers agréés avant toute décision d'investissement.*
+
+---
+
+*Disclaimer: For research and information purposes only. Not investment advice. Names cited are for analytical illustration; readers should perform their own due diligence and consult licensed advisors before any investment decision.*

@@ -73,3 +73,7 @@ draft: false
 ---
 
 **편집 노트:** 오늘 PEAD 리스트에서 주목할 교차점은 **보성파워텍(006910.KQ)**이다. RS percentile 97, 5일 수익률 +20.9%로 이미 상당한 드리프트가 진행됐지만, 오늘 전력기기 섹터 랠리라는 매크로 테마와 실적 펀더멘털이 동시에 작동하고 있다. PEAD 이론에서 섹터 모멘텀과 개별 실적 서프라이즈가 맞물릴 때 드리프트 에너지가 증폭되는 패턴의 교과서적 사례다. 단, 5일 이미 +20.9%로 단기 소화 구간 진입 가능성은 병행 고려해야 한다.
+
+---
+
+*Disclaimer: For research and information purposes only. Not investment advice. Names cited are for analytical illustration; readers should perform their own due diligence and consult licensed advisors before any investment decision.*

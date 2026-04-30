@@ -31,7 +31,7 @@ tags:
 ## Executive Summary
 
 - **The big-tech message is not AI demand fatigue. It is AI capex re-acceleration.** AWS +28%, Azure +39–40%, Google Cloud +63% — three hyperscaler clouds are accelerating *simultaneously*. Combined 2026 AI/cloud capex run-rate ≈ **$650B** across the four names.
-- **Samsung Electronics is the direct beneficiary.** With DS operating profit at ₩53.7T in 1Q26 (~94% of total OP), big-tech capex translates almost one-to-one into HBM / DDR5 / eSSD / server DRAM orders. Samsung is on the **receiving end** of capex, not the burden side.
+- **Samsung Electronics is the direct beneficiary.** With DS operating profit at ₩53.7T in 1Q26 (\~94% of total OP), big-tech capex translates almost one-to-one into HBM / DDR5 / eSSD / server DRAM orders. Samsung is on the **receiving end** of capex, not the burden side.
 - **Samsung Electro-Mechanics has structural tailwind plus near-term price overhang.** AI-server MLCC and FC-BGA demand is genuinely accelerating, but the market has already re-rated the equity from "smartphone-cycle component" to "AI-server component." Further upside requires **two-to-three consecutive quarters of upward estimate revisions**, not just one strong print.
 - **6-12 month relative factor preference: Samsung Electronics > Samsung Electro-Mechanics.** Samsung Electronics has the cleaner first-order capex transmission. Samsung Electro-Mechanics needs estimate revisions and margin confirmation before the next leg is easier to underwrite.
 
@@ -58,14 +58,14 @@ The earnings season's message is not "spending less on AI." It is the opposite.
 | --- | --- | --- |
 | **Amazon** | AWS revenue $37.6B, **YoY +28%**. 2026 AI investment target **$200B reaffirmed**; Q1 capex $44.2B. | AWS server build-out → HBM / DDR5 / eSSD / server DRAM. Trainium / ASIC server expansion → FC-BGA, high-density MLCC. |
 | **Microsoft** | Azure **+39–40%**, AI annualized run-rate $37B, Q3 capex $31.9B. | Easing Azure capacity shortage = higher memory throughput. Server, networking, and power-rail MLCC demand. |
-| **Alphabet** | Google Cloud revenue $20B, **YoY +63%**, backlog ~$460B; 2026 capex $180–190B. | TPU / AI server expansion → HBM / DRAM / NAND / SSD. TPU and server-board / networking FC-BGA + MLCC. |
+| **Alphabet** | Google Cloud revenue $20B, **YoY +63%**, backlog \~$460B; 2026 capex $180–190B. | TPU / AI server expansion → HBM / DRAM / NAND / SSD. TPU and server-board / networking FC-BGA + MLCC. |
 | **Meta** | Revenue $56.3B (+33%), ad impressions +19%, ad pricing +12%. 2026 capex guidance **raised to $125–145B**. | Continued AI data-center build-out lifts memory demand. Component-pricing leverage favorable. |
 
 Three observations matter.
 
-**Observation 1 — Three clouds accelerating *simultaneously*.** AWS, Azure, and Google Cloud at +28% / ~+40% / +63% in the same quarter is rare. In the prior two quarters at least one of the three was lagging. A simultaneous cohort acceleration is the cleanest signal that AI workloads have moved past PoC into actual cloud consumption.
+**Observation 1 — Three clouds accelerating *simultaneously*.** AWS, Azure, and Google Cloud at +28% / \~+40% / +63% in the same quarter is rare. In the prior two quarters at least one of the three was lagging. A simultaneous cohort acceleration is the cleanest signal that AI workloads have moved past PoC into actual cloud consumption.
 
-**Observation 2 — Capex is *up*, not down.** Amazon $200B reaffirmed; Alphabet $180–190B; Meta raised to $125–145B; Microsoft Q3-annualized ~$128B. For the hyperscaler equities, this is FCF pressure. For the supply chain, it is order flow.
+**Observation 2 — Capex is *up*, not down.** Amazon $200B reaffirmed; Alphabet $180–190B; Meta raised to $125–145B; Microsoft Q3-annualized \~$128B. For the hyperscaler equities, this is FCF pressure. For the supply chain, it is order flow.
 
 **Observation 3 — But the market is grading capex ROI strictly.** Meta's stock pressure right after raising 2026 capex is the cleanest example. So *raising capex by itself* does not lift the hyperscaler equity. The result: **the same capex number reads accounting-positive for the supply chain and accounting-cautionary for the hyperscaler.**
 
@@ -88,7 +88,7 @@ Caveat — this is *not* a precise total annual capex number. Microsoft is annua
 
 The takeaway is still clear:
 
-> **For the hyperscalers, this is ~$650B of FCF burden. For the Korean supply chain, this is ~$650B of procurement budget.**
+> **For the hyperscalers, this is \~$650B of FCF burden. For the Korean supply chain, this is \~$650B of procurement budget.**
 
 The same number reads opposite ways on the income statement depending on which side of the supply chain you sit on. That asymmetry is the defining feature of this cycle.
 
@@ -239,4 +239,4 @@ That separation creates a clean asymmetry on the Korean side. Samsung Electronic
 
 ---
 
-*This post is research and commentary only, not investment advice. Positions can change without notice. Data as of April 30, 2026 KST.*
+*Disclaimer: For research and information purposes only. Not investment advice. Names cited are for analytical illustration; readers should perform their own due diligence and consult licensed advisors before any investment decision.*

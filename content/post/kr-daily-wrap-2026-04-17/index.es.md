@@ -88,3 +88,7 @@ Uno de los principales contratistas de ingeniería y construcción de Corea del 
 ---
 
 **Señal de régimen del screener**: Con 108 valores superando los filtros, FTD Day 13 y score perfecto de 100/100, el mercado coreano confirma fase Bull activa y madura. La distribución paritaria KOSPI/KOSDAQ (54/54) señala amplitud real más allá de los grandes caps. El playbook del viernes: compresión en líderes de calidad con RS alto y RSI no sobrecomprado, cautela ante nombres con isogage superior al 140%.
+
+---
+
+*Disclaimer: For research and information purposes only. Not investment advice. Names cited are for analytical illustration; readers should perform their own due diligence and consult licensed advisors before any investment decision.*

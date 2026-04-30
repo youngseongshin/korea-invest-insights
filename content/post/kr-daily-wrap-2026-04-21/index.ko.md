@@ -76,4 +76,4 @@ SK하이닉스·11번가 등 주요 IT 자산을 보유한 중간지주회사. R
 
 ---
 
-*본 콘텐츠는 시장 데이터 기반의 정보 제공 목적으로 작성되었으며 투자 권유가 아닙니다.*
+*Disclaimer: For research and information purposes only. Not investment advice. Names cited are for analytical illustration; readers should perform their own due diligence and consult licensed advisors before any investment decision.*

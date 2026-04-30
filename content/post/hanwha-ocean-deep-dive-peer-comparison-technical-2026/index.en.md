@@ -34,13 +34,13 @@ End-2025 business structure:
 
 | Segment | Revenue | Notes |
 |---------|---------|-------|
-| Commercial Vessels | ~KRW 10.5T | Dominant share |
-| Offshore/Special Vessels | ~KRW 0.83T | Small share but strategically critical |
+| Commercial Vessels | \~KRW 10.5T | Dominant share |
+| Offshore/Special Vessels | \~KRW 0.83T | Small share but strategically critical |
 
 | Segment | Order Backlog |
 |---------|--------------|
-| Commercial Vessels | ~KRW 26.0T |
-| Offshore/Special Vessels | ~KRW 6.3T |
+| Commercial Vessels | \~KRW 26.0T |
+| Offshore/Special Vessels | \~KRW 6.3T |
 
 This structure is key: **current earnings are driven by commercial vessels, while multiples are pulled up by the special vessel/defense optionality**.
 
@@ -55,8 +55,8 @@ This structure is key: **current earnings are driven by commercial vessels, whil
 | Revenue | KRW 3.23T |
 | Operating Profit | KRW 189.0B |
 | Headline OPM | 5.9% |
-| One-off Costs | ~KRW -240B (bonuses, special vessel costs) |
-| Normalized OPM (est.) | ~13% |
+| One-off Costs | \~KRW -240B (bonuses, special vessel costs) |
+| Normalized OPM (est.) | \~13% |
 
 ### Interpretation
 
@@ -280,4 +280,4 @@ Hanwha Ocean's chart currently shows a state where **the long-term trend hasn't 
 
 ---
 
-*Disclaimer: This analysis is for informational purposes only and does not constitute investment advice. Past performance does not guarantee future results. Always conduct your own due diligence before making investment decisions.*
+*Disclaimer: For research and information purposes only. Not investment advice. Names cited are for analytical illustration; readers should perform their own due diligence and consult licensed advisors before any investment decision.*

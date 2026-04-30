@@ -264,4 +264,4 @@ OpenEdges Technologyは、ファブレスエコシステムの上流に位置し
 
 ---
 
-*免責事項：本稿は調査・情報提供のみを目的としており、投資助言ではありません。言及された銘柄名は分析上の例示であり、読者はいかなる投資判断を行う前にも独自のデューデリジェンスを実施し、資格ある専門家に相談されることをお勧めします。*
+*Disclaimer: For research and information purposes only. Not investment advice. Names cited are for analytical illustration; readers should perform their own due diligence and consult licensed advisors before any investment decision.*

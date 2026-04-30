@@ -83,3 +83,7 @@ Géant de l'agroalimentaire coréen (biscuits, snacks, confiserie), opérant en 
 ---
 
 *Données : KR Quiet Accumulation Engine — 22 avril 2026, 16h10 KST. Ce document est fourni à titre informatif uniquement et ne constitue pas un conseil en investissement.*
+
+---
+
+*Disclaimer: For research and information purposes only. Not investment advice. Names cited are for analytical illustration; readers should perform their own due diligence and consult licensed advisors before any investment decision.*

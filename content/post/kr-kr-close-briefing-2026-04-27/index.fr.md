@@ -79,3 +79,7 @@ La séance du 27 avril 2026 confirme que le marché coréen se repositionne auto
 ---
 
 *Les données de flux institutionnels citées sont issues de KRX (Korea Exchange) et agrégées au 24 avril 2026. Les résultats financiers de Hanwha Engine sont extraits de la publication officielle du 1T 2026. Cet article est rédigé à titre informatif et ne constitue pas un conseil en investissement.*
+
+---
+
+*Disclaimer: For research and information purposes only. Not investment advice. Names cited are for analytical illustration; readers should perform their own due diligence and consult licensed advisors before any investment decision.*

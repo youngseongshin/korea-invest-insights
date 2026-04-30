@@ -78,14 +78,14 @@ Kết luận do đó rất đơn giản. Giữ. Không mua mới. Bắt đầu c
 
 Kiểm tra số học:
 
-Khoảng cách doanh thu = 433,5 − 395,0 = ₩38,5 tỷ  
+Khoảng cách doanh thu = 433,5 − 395,0 = ₩38,5 tỷ
 % khoảng cách doanh thu = 38,5 / 395,0 = 9,7%
 
-Khoảng cách lợi nhuận hoạt động = 254,7 − 205,0 = ₩49,7 tỷ  
+Khoảng cách lợi nhuận hoạt động = 254,7 − 205,0 = ₩49,7 tỷ
 % khoảng cách lợi nhuận hoạt động = 49,7 / 205,0 = 24,2%
 
-OPM Shinhan = 254,7 / 433,5 = 58,7%  
-OPM nội bộ = 205,0 / 395,0 = 51,9%  
+OPM Shinhan = 254,7 / 433,5 = 58,7%
+OPM nội bộ = 205,0 / 395,0 = 51,9%
 Khoảng cách OPM = 58,7 − 51,9 = 6,9%p
 
 Quan sát quan trọng: khoảng cách lợi nhuận hoạt động (24,2%) rộng hơn 2,5 lần so với khoảng cách doanh thu (9,7%). Điều này có nghĩa mô hình Shinhan không phải là cược vào khối lượng đơn vị cao — mà là cược vào **giả định biên lợi nhuận cao**.
@@ -106,7 +106,7 @@ Nhận xét then chốt: **Shinhan giả định khối lượng (Q) thấp hơn
 
 Nếu chúng ta loại trừ doanh thu IP cũ (BDO + EVE) khỏi tổng ₩433,5 tỷ của Shinhan, sử dụng cùng giả định ₩97,0 tỷ như mô hình của chúng tôi, ASP ngụ ý của Crimson Desert như sau:
 
-Doanh thu Crimson Desert ≈ 433,5 − 97,0 = ₩336,5 tỷ  
+Doanh thu Crimson Desert ≈ 433,5 − 97,0 = ₩336,5 tỷ
 ASP ngụ ý ≈ ₩336,5 tỷ / 3,70M = khoảng ₩91.000/đơn vị
 
 So với kịch bản nội bộ của chúng tôi (3,95M × ₩79.800 + ₩97,0 tỷ = ₩412,2 tỷ, trừ đi biên an toàn ₩17,2 tỷ = ₩395,0 tỷ), doanh thu ghi nhận trên mỗi đơn vị ngụ ý của Shinhan cao hơn khoảng ₩11.000.
@@ -270,4 +270,4 @@ Series này tạm thời kết thúc tại đây. Bài tiếp theo sẽ đến s
 
 ---
 
-*Bài viết này chỉ nhằm mục đích nghiên cứu và bình luận, không cấu thành lời khuyên đầu tư. Vị thế có thể thay đổi mà không cần thông báo. Nguồn: [Báo cáo Pearl Abyss của Shinhan Securities](https://www.inven.co.kr/webzine/news/?news=315945&site=crimson), [The Elec](https://www.thelec.kr/news/articleView.html?idxno=55833), [Thông cáo báo chí chính thức của Pearl Abyss](https://www.pearlabyss.com/ko-KR/Board/Report). Dữ liệu tính đến ngày 29/4/2026 KST.*
+*Disclaimer: For research and information purposes only. Not investment advice. Names cited are for analytical illustration; readers should perform their own due diligence and consult licensed advisors before any investment decision.*

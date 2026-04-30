@@ -90,3 +90,7 @@ APR là công ty K-beauty & skincare đang mở rộng nhanh cả trong nước 
 ---
 
 *Thông tin trong bài viết mang tính chất tham khảo và phân tích thị trường, không phải khuyến nghị đầu tư cụ thể.*
+
+---
+
+*Disclaimer: For research and information purposes only. Not investment advice. Names cited are for analytical illustration; readers should perform their own due diligence and consult licensed advisors before any investment decision.*

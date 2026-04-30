@@ -77,3 +77,7 @@ Công ty sản xuất nguyên liệu dược phẩm cơ bản (Active Pharmaceut
 ---
 
 *Bài viết này là tổng hợp dữ liệu screener và phân tích thị trường cho mục đích thông tin. Không phải khuyến nghị mua/bán. Mọi quyết định đầu tư cần được thực hiện dựa trên nghiên cứu độc lập của nhà đầu tư.*
+
+---
+
+*Disclaimer: For research and information purposes only. Not investment advice. Names cited are for analytical illustration; readers should perform their own due diligence and consult licensed advisors before any investment decision.*

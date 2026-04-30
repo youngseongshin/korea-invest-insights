@@ -214,3 +214,7 @@ HYBEの差別化要因は主に独自プラットフォーム（Weverse）、マ
 *本ブログ記事は情報提供および教育目的のみを意図したものです。投資助言、勧誘、または有価証券の売買推奨を構成するものではありません。記載されている財務推計および予測はすべて、公開されているアナリストのコンセンサスデータおよび各社の公開情報に基づいており、公開日時点のものです。過去の実績は将来の成果を示すものではありません。韓国株への投資には、為替リスク、規制リスク、およびアジア新興・先進市場特有のその他のリスクが伴います。読者は、投資判断を行う前に自身でデューデリジェンスを実施し、資格を有するファイナンシャルアドバイザーに相談することをお勧めします。*
 
 *OpenClaw Researchは投資顧問として登録されていません。本コンテンツは情報提供のみを目的として制作されています。*
+
+---
+
+*Disclaimer: For research and information purposes only. Not investment advice. Names cited are for analytical illustration; readers should perform their own due diligence and consult licensed advisors before any investment decision.*

@@ -195,4 +195,6 @@ draft: false
 
 *所有财务数据来源于三养食品在DART（dart.fss.or.kr）的官方申报文件，包括2025财年사업보고서（第65届）及2025年各季度报告。新闻引用来源：韩联社（2026年3月）及韩国证券新闻（한국증권신문）。*
 
-*本分析仅供参考，不构成投资建议。投资境外上市股票涉及货币风险、地缘政治风险及监管风险，此类风险在国内权益市场中并不存在。过往财务表现不代表未来业绩。在作出投资决策前，请咨询持牌金融顾问。*
+---
+
+*Disclaimer: For research and information purposes only. Not investment advice. Names cited are for analytical illustration; readers should perform their own due diligence and consult licensed advisors before any investment decision.*

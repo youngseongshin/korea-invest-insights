@@ -9,7 +9,7 @@ tags: ["pearl-abyss", "crimson-desert", "gaming", "patch-analysis", "valuation",
 series: ["pearl-abyss-crimson-desert-thesis"]
 ---
 
-> **Pearl Abyss research hub**: This note is part of the [Pearl Abyss and Crimson Desert investment research hub](/en/page/pearl-abyss-crimson-desert-hub/). The follow-through sequence is [platform re-rating](/en/post/pearl-abyss-crimson-desert-platform-rerating-2026-04-25/) · [post-patch weekend data](/en/post/pearl-abyss-crimson-desert-post-patch-weekend-data-2026-04-27/) · [Shinhan target-price gap](/en/post/pearl-abyss-shinhan-target-price-gap-analysis-2026-04-29/).
+> **Pearl Abyss research hub**: This note is part of the [Pearl Abyss and Crimson Desert investment research hub](/page/pearl-abyss-crimson-desert-hub/). The follow-through sequence is [platform re-rating](/post/pearl-abyss-crimson-desert-platform-rerating-2026-04-25/) · [post-patch weekend data](/post/pearl-abyss-crimson-desert-post-patch-weekend-data-2026-04-27/) · [Shinhan target-price gap](/post/pearl-abyss-shinhan-target-price-gap-analysis-2026-04-29/).
 
 > **Series — Pearl Abyss Crimson Desert Thesis (Part 7)**
 > Prior posts track the launch (3/19), the four-week retention curve, the BDO back-catalog re-rating, the short-sale response, and the April Developer Update. This post covers **patch 1.04.00 — the content update that forces the thesis upgrade.**
@@ -25,7 +25,7 @@ Two events, one day:
 | Apr 23, 10:48 | **Patch 1.04.00** (Revised) — full release |
 | Apr 23, 23:46 | **Patch 1.04.01** hotfix (all platforms) |
 
-Total download **~29GB**. That is not a balance patch. That is a mini-expansion shipping 35 days after launch — on a two-week cadence that Pearl Abyss has now hit every single release since 3/19.
+Total download **\~29GB**. That is not a balance patch. That is a mini-expansion shipping 35 days after launch — on a two-week cadence that Pearl Abyss has now hit every single release since 3/19.
 
 ---
 
@@ -132,12 +132,12 @@ Applying **P/E 15×** (appropriate for a title that has now demonstrated BDO-sty
 | CD 2026E revenue | ₩500-530B | **₩520-560B** |
 | Consolidated 2026E revenue | ₩970B-1.0T | **₩990B-1.03T** |
 | EPS | ₩5,400-5,500 | **₩5,500-5,750** |
-| **Fair value (P/E 15×)** | — | **~₩82,500-86,250** |
+| **Fair value (P/E 15×)** | — | **\~₩82,500-86,250** |
 | Vs. spot ₩53,100 | — | **+55 to +62%** |
 
 The 12× → 15× multiple expansion is itself a thesis bet. Argument: Pearl Abyss is no longer a one-shot CD company. It is a **multi-IP live-ops company with BDO legacy and CD as a recurring-content franchise**. Multi-IP live-service Korean gaming comps trade 15-20× on stable earnings. 15× is the *low* end of that range.
 
-On the more cautious P/E 12× base case, fair value is ~₩66,000-69,000 (+24-30%). That is the floor. 15× is what happens if the market agrees the live-ops muscle is real.
+On the more cautious P/E 12× base case, fair value is \~₩66,000-69,000 (+24-30%). That is the floor. 15× is what happens if the market agrees the live-ops muscle is real.
 
 ---
 
@@ -178,8 +178,8 @@ On the more cautious P/E 12× base case, fair value is ~₩66,000-69,000 (+24-30
 
 ## Bottom Line
 
-> Crimson Desert's 1.04.00 patch closed the biggest bear point (QoL + difficulty gating reviews) and demonstrated that Pearl Abyss's live-service muscle — proven on BDO — carries to single-player. New-review positivity jumped to 94.9%, 11pp above pre-patch. At **P/E 15×** on revised EPS of ₩5,500-5,750, fair value lands at **~₩82,500-86,250 vs ₩53,100 spot — a +55-62% re-rating setup.** The multiple itself is the thesis: this is no longer priced as a one-shot game.
+> Crimson Desert's 1.04.00 patch closed the biggest bear point (QoL + difficulty gating reviews) and demonstrated that Pearl Abyss's live-service muscle — proven on BDO — carries to single-player. New-review positivity jumped to 94.9%, 11pp above pre-patch. At **P/E 15×** on revised EPS of ₩5,500-5,750, fair value lands at **\~₩82,500-86,250 vs ₩53,100 spot — a +55-62% re-rating setup.** The multiple itself is the thesis: this is no longer priced as a one-shot game.
 
 ---
 
-_Prior posts in this series track the full Pearl Abyss Crimson Desert thesis from launch through the April Developer Update. Nothing here is investment advice. All estimates are model-based and subject to disclosed assumptions._
+*Disclaimer: For research and information purposes only. Not investment advice. Names cited are for analytical illustration; readers should perform their own due diligence and consult licensed advisors before any investment decision.*

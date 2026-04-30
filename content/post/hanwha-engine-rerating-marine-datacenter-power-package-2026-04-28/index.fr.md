@@ -10,7 +10,7 @@ tags: ["hanwha-engine", "082740", "hanwha-group", "construction-navale", "moteur
 ## En bref
 
 - **Hanwha Engine est un titre sur lequel trois couches de réévaluation se sont superposées.** Couche 1 : un cycle de moteurs marins à haute marge dont les effets sont déjà visibles dans les résultats publiés. Couche 2 : une option sur les moteurs à gaz 4-temps pour l'alimentation des centres de données américains, dans le sillage de contrats opérationnels chez Wärtsilä et HD Hyundai Heavy. Couche 3 : une offre américaine du Groupe Hanwha via Hanwha Energy USA, Hanwha Data Centers et Hanwha Gas Power Solutions.
-- **Le cycle marin seul justifie une progression significative du BPA sur 2026–2028E.** Trajectoire de marge opérationnelle : 2025 ~9,5 % → 2026E ~17,5 % → 2027E ~21,4 % → 2028E ~22,7 % (estimations Meritz). Carnet de commandes ~₩4,14T fin 2025 avec une part de moteurs DF atteignant 86 %.
+- **Le cycle marin seul justifie une progression significative du BPA sur 2026–2028E.** Trajectoire de marge opérationnelle : 2025 \~9,5 % → 2026E \~17,5 % → 2027E \~21,4 % → 2028E \~22,7 % (estimations Meritz). Carnet de commandes \~₩4,14T fin 2025 avec une part de moteurs DF atteignant 86 %.
 - **L'optionnalité liée aux centres de données représente la plus grande source d'expansion potentielle du marché adressable.** Wärtsilä (412 MW Ohio + 790 MW Texas) et HD Hyundai Heavy (684 MW / ₩627,1B avec US AEG) ont déjà démontré que des équipementiers de moteurs peuvent remporter des contrats d'alimentation primaire ou de transition pour des datacenters hyperscale — pas seulement de l'alimentation de secours.
 - **La version la plus convaincante de la thèse est celle du fournisseur captif.** Si Hanwha Engine devient le fournisseur interne de moteurs 4-temps à l'intérieur de Hanwha Energy USA / Hanwha Data Centers / Hanwha Gas Power Solutions, la société se verra reclassifiée — de « équipementier naval » à « nœud d'équipements d'alimentation dispatchable critique pour l'IA ». La question de savoir si cette voie captive se matérialisera est la variable binaire qui distingue un titre de « bon cycle de résultats » d'un titre de « réévaluation structurelle de plateforme ».
 
@@ -39,9 +39,9 @@ Chaque couche successive modifie à la fois l'échelle du marché adressable et 
 | Période | Revenus | OP | Marge OP |
 |---|---:|---:|---:|
 | **T1 2026** | ₩345,2B | ₩51,4B | **14,9 %** |
-| **2026E** | ₩1 560B | ₩273,8B | ~17,5 % |
-| **2027E** | ₩1 900B | ₩406,9B | ~21,4 % |
-| **2028E** | ₩2 530B | ₩573,8B | ~22,7 % |
+| **2026E** | ₩1 560B | ₩273,8B | \~17,5 % |
+| **2027E** | ₩1 900B | ₩406,9B | \~21,4 % |
+| **2028E** | ₩2 530B | ₩573,8B | \~22,7 % |
 
 Trajectoire du BPA (estimations Meritz) :
 
@@ -88,7 +88,7 @@ Ce que ce triptyque établit :
 
 1. **Les datacenters hyperscale achèteront des solutions d'alimentation par moteurs à gaz en unités de MW à GW**, pas seulement des groupes électrogènes de secours de quelques kW.
 2. **Les équipementiers coréens de moteurs sont des interlocuteurs crédibles** sur ce marché — le contrat AEG de HD Hyundai Heavy en est la preuve concrète.
-3. **Un point de référence tarifaire existe** : le contrat de HD Hyundai Heavy implique **~₩0,917B par MW** au niveau système.
+3. **Un point de référence tarifaire existe** : le contrat de HD Hyundai Heavy implique **\~₩0,917B par MW** au niveau système.
 
 ### 3-2. Où se positionne Hanwha Engine
 
@@ -100,10 +100,10 @@ Ce que ce triptyque établit :
 
 | Facteur | Vue | Lecture |
 |---|---|---|
-| **P (prix)** | Référence HD Hyundai Heavy ₩0,917B/MW ; Hanwha Engine entre probablement en dessous pour les premiers contrats de référence — ASP indicatif ~70 % de la référence = **~₩0,642B/MW** | Acceptable pour gagner des parts de marché ; problématique si structurel |
+| **P (prix)** | Référence HD Hyundai Heavy ₩0,917B/MW ; Hanwha Engine entre probablement en dessous pour les premiers contrats de référence — ASP indicatif \~70 % de la référence = **\~₩0,642B/MW** | Acceptable pour gagner des parts de marché ; problématique si structurel |
 | **Q (volume)** | Les projets d'alimentation datacenter se contractualisent typiquement par lots de **100 MW à 1 GW** ; le pipeline dépend de l'obtention de projets spécifiques | Très variable ; binaire sur la première référence |
 | **C (coût)** | Redevances de licence, tarification promotionnelle en phase initiale, déploiement du SAV américain, certification, montée en fiabilité | Compressif sur les marges en phase précoce |
-| **Marge** | Vente moteur seul avec marge opérationnelle ~8–12 % plausible ; package + SAV en couche supérieure peut améliorer le blended | Fourchette pertinente pour la réévaluation |
+| **Marge** | Vente moteur seul avec marge opérationnelle \~8–12 % plausible ; package + SAV en couche supérieure peut améliorer le blended | Fourchette pertinente pour la réévaluation |
 | **Récurrence** | L'approvisionnement captif via les actifs énergétiques américains du Groupe Hanwha convertirait une économie de projet ponctuel en SAV et pièces/services récurrents | Le vrai facteur de qualité |
 
 ---
@@ -148,7 +148,7 @@ P/E ajusté     = ₩80 400 / ₩4 117    = 19,5×
 **Note d'interprétation (analytique, sans caractère directionnel)**
 
 - Un seul contrat de 300 MW dans le scénario de base relève le BPA d'environ +5 %. C'est un événement sur les résultats réel mais **borné**.
-- Un contrat de 684 MW, à l'échelle du contrat HD HHI, relève le BPA de ~+12 % — plus proche d'un ordre de grandeur pertinent pour les multiples.
+- Un contrat de 684 MW, à l'échelle du contrat HD HHI, relève le BPA de \~+12 % — plus proche d'un ordre de grandeur pertinent pour les multiples.
 - Une trajectoire cumulative de 1 GW ou un contrat **intégrant du SAV / des services récurrents** change l'analyse qualitative, car il convertit l'économie moteur vers un type de revenus valorisé à un multiple supérieur.
 
 ---
@@ -250,10 +250,10 @@ Le tableau ci-dessous associe des **conditions observables** à des **régimes d
 
 | Étape | Condition observable | Régime narratif |
 |---|---|---|
-| **Étape 0** | Marge opérationnelle marine 15–20 % confirmée en régime de croisière | Multiple cycle industriel, ~18–21× BPA 2027E |
+| **Étape 0** | Marge opérationnelle marine 15–20 % confirmée en régime de croisière | Multiple cycle industriel, \~18–21× BPA 2027E |
 | **Étape 1** | ≤100 MW commande pilote moteur DC | Optionnalité reconnue ; faible lift BPA ; validation du récit |
-| **Étape 2** | ≥300 MW commande moteur DC | Impact BPA ~+5 % ; expansion partielle des multiples |
-| **Étape 3** | Commande DC de type 684 MW | Impact BPA ~+12 % ; expansion significative des multiples |
+| **Étape 2** | ≥300 MW commande moteur DC | Impact BPA \~+5 % ; expansion partielle des multiples |
+| **Étape 3** | Commande DC de type 684 MW | Impact BPA \~+12 % ; expansion significative des multiples |
 | **Étape 4** | Cumul 1 GW + SAV attaché | BPA +15–20 % avec récurrence ; candidat à un changement de régime de multiple |
 | **Étape 5** | Divulgation du statut de fournisseur captif dans Hanwha Energy USA / Hanwha Data Centers | Reclassification de équipementier naval à nœud d'infrastructure alimentation IA |
 
@@ -302,7 +302,7 @@ Les données au 28 avril 2026 indiquent que la couche 1 est réelle, que la couc
 ### [Fait]
 
 - Résultats T1 2026 : revenus ₩345,2B, OP ₩51,4B, marge opérationnelle 14,9 %.
-- Cadre d'estimation Meritz : 2026E revenus ~₩1,56T / OP ₩273,8B / marge OP ~17,5 % ; 2027E OP ₩406,9B ; 2028E OP ₩573,8B.
+- Cadre d'estimation Meritz : 2026E revenus \~₩1,56T / OP ₩273,8B / marge OP \~17,5 % ; 2027E OP ₩406,9B ; 2028E OP ₩573,8B.
 - Carnet de commandes moteurs marins fin 2025 ≈ ₩4,14T ; mix DF 86 %.
 - Wärtsilä a divulgué un projet d'alimentation primaire de 412 MW pour datacenter américain (référence Ohio) et une solution d'alimentation hors réseau de 790 MW pour un site datacenter au Texas.
 - HD Hyundai Heavy a signé un contrat de fourniture HiMSEN de 684 MW / ₩627,1B avec US AEG pour l'alimentation de datacenters.
@@ -313,7 +313,7 @@ Les données au 28 avril 2026 indiquent que la couche 1 est réelle, que la couc
 ### [Inférence]
 
 - Le seul cycle de moteurs marins justifie une progression significative du BPA sur 2026–2028E ; le cours actuel intègre des hypothèses importantes sur cette trajectoire.
-- Un contrat DC de 300 MW à l'ASP/marge de base relève le BPA de ~+5 % — significatif mais borné ; 684 MW relève de ~+12 % ; 1 GW ou des contrats avec SAV attaché constituent les ordres de grandeur pertinents pour les multiples.
+- Un contrat DC de 300 MW à l'ASP/marge de base relève le BPA de \~+5 % — significatif mais borné ; 684 MW relève de \~+12 % ; 1 GW ou des contrats avec SAV attaché constituent les ordres de grandeur pertinents pour les multiples.
 - Une structure de fournisseur captif au sein de Hanwha Energy USA / Hanwha Data Centers / Hanwha Gas Power Solutions, si divulguée, reclassifierait Hanwha Engine d'équipementier naval à nœud d'infrastructure alimentation IA.
 - Le premier bénéficiaire du succès de la plateforme américaine du Groupe Hanwha peut être la plateforme elle-même ou des entités affiliées plutôt que Hanwha Engine, en l'absence d'un rôle dans la chaîne d'approvisionnement officiellement divulgué.
 
@@ -334,3 +334,7 @@ Les données au 28 avril 2026 indiquent que la couche 1 est réelle, que la couc
 ---
 
 **Avertissement** : Cette publication est un commentaire de recherche, non un conseil en investissement. Les cadres d'estimation sont issus de documents sell-side publiquement disponibles (Meritz Securities) et de divulgations sectorielles (Wärtsilä, HD Hyundai Heavy, pages publiques de la plateforme Hanwha Energy USA) ; leur exactitude dépend de ces sources sous-jacentes. Les tickers cités sont fournis à titre illustratif pour le cadre de réévaluation, et non en tant que recommandations. Effectuez votre propre analyse et consultez des conseillers agréés avant toute décision d'investissement.
+
+---
+
+*Disclaimer: For research and information purposes only. Not investment advice. Names cited are for analytical illustration; readers should perform their own due diligence and consult licensed advisors before any investment decision.*

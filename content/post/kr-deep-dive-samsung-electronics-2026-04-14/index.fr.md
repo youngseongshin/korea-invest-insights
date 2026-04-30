@@ -24,7 +24,7 @@ draft: false
 | **Place boursière** | KOSPI (Korea Exchange) |
 | **Secteur** | Technologies de l'information / Semiconducteurs et équipements |
 | **Cours de clôture (2026-04-14)** | KRW 206 500 |
-| **Détention étrangère** | ~51 % (parmi les plus élevées du KOSPI) |
+| **Détention étrangère** | \~51 % (parmi les plus élevées du KOSPI) |
 | **Produits clés** | DRAM, NAND Flash, HBM (High-Bandwidth Memory), smartphones Galaxy, écrans OLED, électroménager, services de fonderie |
 
 **Résumé en quelques mots :** Samsung Electronics est à la fois le plus grand fabricant mondial de puces mémoire, le deuxième fabricant mondial de smartphones, et l'un des challengers les plus ambitieux sur les nœuds avancés en fonderie. L'entreprise se trouve au carrefour de trois grandes tendances technologiques de cette décennie : le déploiement de l'infrastructure IA (HBM, DRAM avancée), l'écosystème mondial du smartphone (gammes Galaxy S et Z), et le mouvement de diversification souveraine des semiconducteurs (sa feuille de route fonderie en 2 nm/3 nm). Aucune autre entreprise n'incarne autant les vents porteurs structurels qui reconfigurent la technologie mondiale.
@@ -51,11 +51,11 @@ Pour les investisseurs internationaux, Samsung est l'un des moyens les plus liqu
 
 | Indicateur | Samsung | SK Hynix | Micron |
 |---|---|---|---|
-| Part de marché mondiale DRAM | ~40 % | ~30 % | ~25 % |
+| Part de marché mondiale DRAM | \~40 % | \~30 % | \~25 % |
 | Leadership HBM (ère H100/B200) | Challenger | Leader du marché | Entrant tardif |
-| Part de marché mondiale NAND | ~30 % | ~20 % (via Solidigm) | ~15 % |
-| Part de marché fonderie | ~10–12 % | N/A | N/A |
-| Part de marché smartphones (mondial) | ~20 % | N/A | N/A |
+| Part de marché mondiale NAND | \~30 % | \~20 % (via Solidigm) | \~15 % |
+| Part de marché fonderie | \~10–12 % | N/A | N/A |
+| Part de marché smartphones (mondial) | \~20 % | N/A | N/A |
 
 L'avantage concurrentiel de Samsung repose sur sa largeur de gamme et son intégration verticale — aucune autre entreprise ne peut proposer à un hyperscaler un panel allant de la mémoire IA aux dalles d'affichage en passant par les puces IoT, sous un même toit. Sa faiblesse dans le cycle actuel tient au fait que SK Hynix a obtenu la qualification et le volume en production HBM3E chez Nvidia avant Samsung, créant une perception d'« écart de qualité » que le marché a déjà intégrée dans les cours.
 
@@ -69,7 +69,7 @@ Samsung rapporte ses résultats selon quatre grandes divisions. Sur la base des 
 
 - **DS (Device Solutions) :** Semiconducteurs — DRAM, NAND, HBM, System LSI (Exynos), Fonderie. Il s'agit du segment aux marges les plus élevées et à la volatilité la plus forte, principal moteur de la thèse d'investissement actuelle. Il représente environ 40 à 50 % du chiffre d'affaires consolidé, mais une part disproportionnée du résultat opérationnel en phase de cycle haussier.
 
-- **MX (Mobile eXperience) :** Smartphones Galaxy (gammes S, Z pliables, A), tablettes, wearables (Galaxy Watch, Buds). La plus grande activité mondiale de smartphones en volume unitaire. Contribution aux revenus ~30–35 % ; les marges sont plus faibles mais très stables.
+- **MX (Mobile eXperience) :** Smartphones Galaxy (gammes S, Z pliables, A), tablettes, wearables (Galaxy Watch, Buds). La plus grande activité mondiale de smartphones en volume unitaire. Contribution aux revenus \~30–35 % ; les marges sont plus faibles mais très stables.
 
 - **VD/DA (Visual Display / Digital Appliances) :** Téléviseurs (Samsung est numéro un mondial sur le segment premium), électroménager. Marges plus faibles, génération de trésorerie régulière.
 
@@ -132,8 +132,8 @@ Samsung Electronics a historiquement traité à une décote de valorisation sign
 | Indicateur | Samsung (approx.) | TSMC | SK Hynix | Micron |
 |---|---|---|---|---|
 | P/E (historique, approx.) | 12–16x | 22–28x | 15–20x | 10–18x |
-| P/B | ~1,3–1,5x | 5–7x | ~2–3x | ~2,5–3x |
-| Rendement du dividende | ~2–3 % | ~1,5 % | <1 % | <1 % |
+| P/B | \~1,3–1,5x | 5–7x | \~2–3x | \~2,5–3x |
+| Rendement du dividende | \~2–3 % | \~1,5 % | <1 % | <1 % |
 
 Le P/B de Samsung proche de la valeur comptable est historiquement bas à toute aune mondiale pour un semiconducteur. La décote persistante reflète des risques réels (gouvernance, cyclicité, incertitude fonderie) mais crée aussi une configuration asymétrique : si le catalyseur HBM4 se concrétise et que les bénéfices du cycle mémoire surprennent à la hausse, la revalorisation pourrait être substantielle compte tenu des multiples déjà très comprimés.
 
@@ -155,11 +155,11 @@ Pour les investisseurs qui ne peuvent pas, ou ne souhaitent pas, négocier direc
 
 | ETF | Ticker | Place boursière | Poids Samsung (approx.) |
 |---|---|---|---|
-| iShares MSCI South Korea ETF | EWY | NYSE Arca | ~20–25 % |
-| Franklin FTSE South Korea ETF | FLKR | NYSE Arca | ~20 %+ |
-| iShares MSCI Emerging Markets ETF | EEM | NYSE Arca | ~3–4 % |
-| Vanguard FTSE Emerging Markets ETF | VWO | NYSE | ~2–3 % |
-| KODEX 200 (ETF domestique coréen) | 069500 | KRX | ~25 %+ |
+| iShares MSCI South Korea ETF | EWY | NYSE Arca | \~20–25 % |
+| Franklin FTSE South Korea ETF | FLKR | NYSE Arca | \~20 %+ |
+| iShares MSCI Emerging Markets ETF | EEM | NYSE Arca | \~3–4 % |
+| Vanguard FTSE Emerging Markets ETF | VWO | NYSE | \~2–3 % |
+| KODEX 200 (ETF domestique coréen) | 069500 | KRX | \~25 %+ |
 
 EWY est de loin le véhicule mono-pays le plus populaire pour les investisseurs internationaux cherchant à s'exposer à Samsung. Une position en EWY revient essentiellement à un pari concentré sur Samsung Electronics, combiné à une exposition aux banques, à l'automobile et à d'autres valeurs KOSPI coréennes.
 
@@ -197,3 +197,7 @@ Samsung est le premier producteur mondial de DRAM et s'efforce de reconquérir l
 ---
 
 *Sources : Dépôts DART de Samsung Electronics (dart.fss.or.kr), Korea Exchange (krx.co.kr), pages de relations investisseurs de la société (samsung.com/investor-relations), pipeline d'analyse de portefeuille interne (2026-04-14), données offre/demande FnGuide.*
+
+---
+
+*Disclaimer: For research and information purposes only. Not investment advice. Names cited are for analytical illustration; readers should perform their own due diligence and consult licensed advisors before any investment decision.*

@@ -137,8 +137,8 @@ Samyang Foods s'est historiquement négocié avec une prime significative par ra
 
 **Éléments de données utiles issus des dépôts récents (DART) :**
 - Chiffre d'affaires FY2025 nouilles/snacks : ₩2,1556B (+35,9 %)
-- Marge opérationnelle consolidée T1 2025 : ~25,3 %
-- Résultat opérationnel consolidé 9M 2025 : ₩385Md pour un CA de ₩1 714Md (~22,5 % de marge)
+- Marge opérationnelle consolidée T1 2025 : \~25,3 %
+- Résultat opérationnel consolidé 9M 2025 : ₩385Md pour un CA de ₩1 714Md (\~22,5 % de marge)
 
 À la date du dernier rapport annuel (FY2025), la trajectoire fondamentale reste intacte. La question de savoir si le cours actuel intègre déjà cette trajectoire est une question à laquelle chaque investisseur doit répondre en fonction de ses propres exigences de rendement et de son horizon temporel.
 
@@ -196,3 +196,7 @@ Les risques sont bien réels : l'exposition à la Chine, la dépendance à une s
 *Toutes les données financières sont issues des dépôts officiels de Samyang Foods sur DART (dart.fss.or.kr), notamment le 사업보고서 FY2025 (제65기) et les rapports trimestriels pour 2025. Références journalistiques issues de l'Agence de presse Yonhap (mars 2026) et du Journal des valeurs mobilières coréen (한국증권신문).*
 
 *Cette analyse est fournie à titre informatif uniquement et ne constitue pas un conseil en investissement. Investir dans des actions cotées à l'étranger implique un risque de change, un risque géopolitique et un risque réglementaire absents des marchés d'actions domestiques. Les performances financières passées ne garantissent pas les résultats futurs. Consultez un conseiller financier agréé avant de prendre des décisions d'investissement.*
+
+---
+
+*Disclaimer: For research and information purposes only. Not investment advice. Names cited are for analytical illustration; readers should perform their own due diligence and consult licensed advisors before any investment decision.*

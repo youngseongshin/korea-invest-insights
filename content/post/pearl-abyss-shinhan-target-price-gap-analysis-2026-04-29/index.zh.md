@@ -270,4 +270,4 @@ Pearl Abyss 5月公布1Q26业绩前，需核实六项内容：
 
 ---
 
-*本文仅供研究与评论之用，不构成投资建议。持仓情况可能随时变动，恕不另行通知。资料来源：[신한证券Pearl Abyss研究报告](https://www.inven.co.kr/webzine/news/?news=315945&site=crimson)、[The Elec](https://www.thelec.kr/news/articleView.html?idxno=55833)、[Pearl Abyss官方新闻稿](https://www.pearlabyss.com/ko-KR/Board/Report)。数据截至2026年4月29日韩国标准时间。*
+*Disclaimer: For research and information purposes only. Not investment advice. Names cited are for analytical illustration; readers should perform their own due diligence and consult licensed advisors before any investment decision.*

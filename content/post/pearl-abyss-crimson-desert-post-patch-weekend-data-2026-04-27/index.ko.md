@@ -2,7 +2,7 @@
 title: "크림슨 데저트 패치 후 데이터: 리뷰 방어와 롱테일 체력 확인"
 slug: pearl-abyss-crimson-desert-post-patch-weekend-data-2026-04-27
 date: 2026-04-27T11:00:00+09:00
-description: "Crimson Desert의 1.04.00 패치 후 첫 주말(4월 25~27일 KST): 평균 CCU는 전주 대비 -13.2%였지만, 신규 부정 리뷰는 -49.7% 감소했고 신규 리뷰 긍정률은 +8.7pp 상승해 87.3%를 기록했으며, 미국 Steam 순위는 #6.0 → #5.1로 개선됐다. 매출 런레이트 감소폭(-5.7%)이 CCU 감소폭(-13.2%)보다 유의미하게 완만한 것은, 플랫폼 리레이팅 테제가 예측했던 롱테일 특성과 정확히 일치한다."
+description: "Crimson Desert의 1.04.00 패치 후 첫 주말(4월 25–27일 KST): 평균 CCU는 전주 대비 -13.2%였지만, 신규 부정 리뷰는 -49.7% 감소했고 신규 리뷰 긍정률은 +8.7pp 상승해 87.3%를 기록했으며, 미국 Steam 순위는 #6.0 → #5.1로 개선됐다. 매출 런레이트 감소폭(-5.7%)이 CCU 감소폭(-13.2%)보다 유의미하게 완만한 것은, 플랫폼 리레이팅 테제가 예측했던 롱테일 특성과 정확히 일치한다."
 categories: ["Pearl Abyss", "Korea Market"]
 tags: ["펄어비스", "크림슨데저트", "게임", "패치후분석", "주말데이터", "플랫폼리레이팅", "시리즈"]
 series: ["pearl-abyss-crimson-desert-thesis"]
@@ -113,7 +113,7 @@ series: ["pearl-abyss-crimson-desert-thesis"]
 
 **약세 근거**
 - CCU는 명백히 **-13%** 하락.
-- 신규 리뷰 긍정률 87.3% — 패치 직후 스파이크(~95%) 대비 낮은 수준.
+- 신규 리뷰 긍정률 87.3% — 패치 직후 스파이크(\~95%) 대비 낮은 수준.
 - 프랑스 / 일본 / 대만 / 브라질 순위 추가 약화.
 
 강세 근거는 테제의 본질인 롱테일 내구성, 마찰 감소, 핵심 시장 신규 구매 전환을 가리킨다. 약세 근거는 어떤 AAA 패키지 출시에서도 나타나는 자연적인 감쇠 곡선이다. **둘 다 동시에 사실일 수 있으며**, 중요한 것은 시장이 어느 쪽을 과대평가하고 있는가다.
@@ -173,4 +173,4 @@ series: ["pearl-abyss-crimson-desert-thesis"]
 
 ---
 
-**면책 고지**: 본 글은 리서치 논평이며 투자 조언이 아닙니다. Pearl Abyss는 필자의 지속적인 테제 시리즈의 일환으로 다루고 있습니다. 포지션, 상황, 가격 수준은 새로운 데이터가 유입됨에 따라 변경될 수 있습니다. 반드시 직접 검토하십시오.
+*Disclaimer: For research and information purposes only. Not investment advice. Names cited are for analytical illustration; readers should perform their own due diligence and consult licensed advisors before any investment decision.*

@@ -225,3 +225,7 @@ Tiếp theo trong danh sách nghiên cứu: phân tích sâu từng cổ phiếu
 ---
 
 *Chỉ mang tính nghiên cứu và bình luận, không phải tư vấn đầu tư. Vũ trụ: cổ phiếu niêm yết mới trên KOSDAQ từ 2023 đến YTD tháng 4 năm 2026. Bộ lọc SPAC: tên mã chứng khoán tiếng Hàn có chứa "스팩." Cửa sổ dữ liệu cho các chỉ số cơ bản: 2026-04-14 đến 2026-04-21 (nguồn công bố KRX). Tất cả lợi nhuận được tính từ giá đóng cửa ngày IPO đến ngày đóng cửa 2026-04-21.*
+
+---
+
+*Disclaimer: For research and information purposes only. Not investment advice. Names cited are for analytical illustration; readers should perform their own due diligence and consult licensed advisors before any investment decision.*

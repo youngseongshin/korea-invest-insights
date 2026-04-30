@@ -71,7 +71,7 @@ Le Cheongung-II offre une alternative techniquement compétitive avec des délai
 
 Le contrat avec les EAU — d'environ **KRW 3,5 billions** — reste la plus grande commande à l'exportation individuelle de l'histoire de LIG Nex1. Signé en 2022, les livraisons sont actuellement en cours, ce qui signifie qu'une part significative de la reconnaissance de revenus reste à venir. Ce contrat à lui seul valide la compétitivité internationale du Cheongung-II et a servi de contrat de référence pour les négociations ultérieures.
 
-### Arabie Saoudite (Négociation Active, ~KRW 5 Billions+)
+### Arabie Saoudite (Négociation Active, \~KRW 5 Billions+)
 
 L'Arabie saoudite est actuellement en négociations actives pour l'acquisition du Cheongung-II. La valeur estimée du contrat dépasse KRW 5 billions, ce qui éclipserait le contrat émirati en termes d'envergure. Aucune date de signature n'a été annoncée publiquement, mais la montée en puissance du risque iranien aurait accéléré les discussions au niveau ministériel.
 
@@ -159,3 +159,7 @@ Les KRW 3,2 billions de chiffre d'affaires 2025 représentent déjà une expansi
 ## Avertissement
 
 *Cet article est produit à des fins d'information et d'éducation uniquement. Il ne constitue pas un conseil en investissement, une sollicitation à l'achat ou à la vente de valeurs mobilières, ni une recommandation d'un titre spécifique. Toutes les données proviennent de communications d'entreprises, de rapports sectoriels et de sources d'information accessibles au public à la date de publication. Les performances passées d'une action ne préjugent pas des résultats futurs. Les investisseurs doivent effectuer leurs propres recherches et consulter un conseiller financier agréé avant de prendre toute décision d'investissement. L'auteur et l'éditeur ne détiennent aucune position dans les valeurs mentionnées au moment de la publication.*
+
+---
+
+*Disclaimer: For research and information purposes only. Not investment advice. Names cited are for analytical illustration; readers should perform their own due diligence and consult licensed advisors before any investment decision.*

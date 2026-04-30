@@ -433,3 +433,7 @@ NextBiomedicalは本質的に興味深い二軸構造を持つ：
 ---
 
 **NextBiomedicalは、Nexpowderが下値を守りNexphere-Fが上値を拓く魅力的なメドテック企業だ。しかし現在の水準から株価が本格的に上昇するために必要なのは、さらなる期待ではなく実行の証拠 — 臨床進捗、パートナーシップの収益化、そしてコスト管理だ。**
+
+---
+
+*Disclaimer: For research and information purposes only. Not investment advice. Names cited are for analytical illustration; readers should perform their own due diligence and consult licensed advisors before any investment decision.*

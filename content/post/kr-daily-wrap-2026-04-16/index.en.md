@@ -34,7 +34,7 @@ The session's strongest axis was **semiconductor and AI hardware infrastructure*
 
 **Construction and Middle East reconstruction** remained a thematic tailwind following a Hyundai Engineering & Construction (000720.KS) target price hike to KRW 240,000 from Hana, citing Q2 sentiment recovery and reconstruction pipeline. However, intraday setups in construction names including Daewoo E&C (047040.KS) largely failed to hold VWAP — the theme is real, but entry timing remains rough.
 
-**Power/energy** was the third orbit: SMP prices reportedly surged ~47% with ESS procurement activity accelerating. The macro setup for this theme is intact, but it lacked a clean vehicle for direct positioning today.
+**Power/energy** was the third orbit: SMP prices reportedly surged \~47% with ESS procurement activity accelerating. The macro setup for this theme is intact, but it lacked a clean vehicle for direct positioning today.
 
 Flow signals reinforced the selective read: foreign buying was concentrated in large-cap tech — Samsung Electronics' foreign-driven recovery was the most cited institutional signal in sell-side notes. Biotech underperformed across the board, with multiple desks explicitly recommending a reduction of bio exposure in favor of IT/semiconductor components. Today's market rewarded compression into leaders, not dispersion.
 
@@ -71,4 +71,4 @@ Flow signals reinforced the selective read: foreign buying was concentrated in l
 
 ---
 
-*Data sourced from OpenClaw macro-regime and screener pipelines as of 2026-04-16 16:08 KST. Market wrap reflects Apr 10 close briefing data — the most recent KR close briefing available. Not investment advice.*
+*Disclaimer: For research and information purposes only. Not investment advice. Names cited are for analytical illustration; readers should perform their own due diligence and consult licensed advisors before any investment decision.*

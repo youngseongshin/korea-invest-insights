@@ -191,3 +191,7 @@ Pearl Abyssが減速を緩和できるかどうかは、コンテンツカレン
 ## 免責事項
 
 本稿は市場解釈に関するコメンタリーであり、投資アドバイス、勧誘、または有価証券の売買推奨を構成するものではありません。Pearl Abyss（263750.KQ）は分析および情報提供のみを目的として言及されています。本稿で引用されたセルサイドの予想値は、各社のリサーチレポートの公表時点における数値であり、その後更新または修正されている可能性があります。過去の販売速度は将来のパフォーマンスを示すものではありません。すべての投資判断には、元本全額損失リスクを含むリスクが伴います。読者は独自の調査を行い、投資判断を下す前に資格を持つファイナンシャルアドバイザーに相談してください。
+
+---
+
+*Disclaimer: For research and information purposes only. Not investment advice. Names cited are for analytical illustration; readers should perform their own due diligence and consult licensed advisors before any investment decision.*

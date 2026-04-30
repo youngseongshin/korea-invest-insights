@@ -257,3 +257,7 @@ Si ces éléments se concrétisent ensemble, Neosem n'est plus seulement un trad
 ---
 
 *Avertissement : Contenu fourni à titre informatif et de recherche uniquement. Ne constitue pas un conseil en investissement. Les noms cités le sont à des fins d'illustration analytique ; les lecteurs sont invités à réaliser leur propre analyse et à consulter des conseillers agréés avant toute décision d'investissement.*
+
+---
+
+*Disclaimer: For research and information purposes only. Not investment advice. Names cited are for analytical illustration; readers should perform their own due diligence and consult licensed advisors before any investment decision.*

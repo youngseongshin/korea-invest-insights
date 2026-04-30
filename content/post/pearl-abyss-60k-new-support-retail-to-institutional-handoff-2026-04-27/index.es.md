@@ -16,7 +16,7 @@ series: ["pearl-abyss-crimson-desert-thesis"]
 ## Resumen ejecutivo
 
 - **El 27 de abril no fue un "día sin cortos".** Fue el día en que Pearl Abyss absorbió ventas en corto, salida de casas extranjeras y oferta retail liderada por Kiwoom *y aun así convirtió los ₩60.000 en soporte de primera línea.*
-- Volumen corto oficial: **75.930 acciones / ₩4.585B / VWAP ~₩60.390.** Participación del corto sobre el volumen y el valor total: **~7,2%**.
+- Volumen corto oficial: **75.930 acciones / ₩4.585B / VWAP \~₩60.390.** Participación del corto sobre el volumen y el valor total: **\~7,2%**.
 - El cierre de ₩60.200 queda justo por debajo del VWAP corto de ₩60.390. **Si mañana el precio aguanta por encima de ₩60.400, los cortos de hoy quedan inmediatamente en pérdidas.**
 - La estructura de flujo **no fue una compra masiva liderada por extranjeros.** Fue **ventas netas de Kiwoom (retail) + casas extranjeras + 75.930 acciones de cortos oficiales** absorbidas por **compras institucionales encabezadas por Shinhan y Korea Investment.** Es un **traspaso retail → institucional** de manual.
 - Postura en posición larga: **Mantener. Sin añadir. Sin recortar.** Hoy fue confirmación de soporte de primera línea, no una ruptura de segunda etapa.
@@ -100,10 +100,10 @@ VWAP de sesión regular sobre el conjunto del flujo:
 El volumen corto de hoy representa:
 
 - Prácticamente lo mismo que el 24 de abril
-- **~28% del mega-pico del 23 de abril** (269.865 acc.)
-- **~63%** de la media de los últimos 5 días
-- **~51%** de la media de los últimos 10 días
-- **~54%** de la media de los últimos 20 días
+- **\~28% del mega-pico del 23 de abril** (269.865 acc.)
+- **\~63%** de la media de los últimos 5 días
+- **\~51%** de la media de los últimos 10 días
+- **\~54%** de la media de los últimos 20 días
 
 Hoy **no fue un día de re-agresión** para los cortos. Estuvieron presentes, pero no lograron romper el precio.
 
@@ -299,7 +299,7 @@ Tres aspectos a vigilar a partir de mañana:
    - VWAP cayendo mientras el precio aguanta → los cortos en desventaja
 
 3. **Saldo corto** (divulgación KRX)
-   - Rango pre-22 de abril: ~1,76–1,91M acc.
+   - Rango pre-22 de abril: \~1,76–1,91M acc.
    - Disminuyendo → cierre de cortos
    - Mantenido / aumentando → los cortos siguen comprometidos
 
@@ -343,9 +343,9 @@ Tesis de ventas / reseñas de Crimson Desert intacta
 
 - Cierre del 27 de abril de 2026: ₩60.200 (+5,61%); Máx. ₩61.700, Mín. ₩58.700; volumen 1.052.139; facturación ₩63,64B.
 - Incluyendo NXT/preapertura: Máx. ₩62.600 / Mín. ₩58.100; vol. acumulado 1.398.606; facturación acumulada ₩84,21B.
-- Volumen corto oficial 75.930 acciones / ₩4.585.410.000; VWAP corto ₩60.390; participación del corto sobre volumen y valor ~7,2%.
+- Volumen corto oficial 75.930 acciones / ₩4.585.410.000; VWAP corto ₩60.390; participación del corto sobre volumen y valor \~7,2%.
 - Con regla de uptick: 55.201 acc. @ ₩60.281; exentos de uptick: 20.729 acc. @ ₩60.681.
-- VWAP de sesión regular de hoy: ~₩60.486.
+- VWAP de sesión regular de hoy: \~₩60.486.
 - Estimaciones de flujo neto por broker: Shinhan +51.245; Korea Investment +20.419; NH -16.581; Kiwoom -62.704; casas extranjeras est. -38.336.
 - Referencia de volumen corto del 23 de abril: 269.865 acc. / ₩149,2B (pico reciente).
 
@@ -370,3 +370,7 @@ Tesis de ventas / reseñas de Crimson Desert intacta
 ---
 
 **Aviso legal**: Este post es un comentario de investigación, no un consejo de inversión. Pearl Abyss se analiza como parte de la serie de tesis en curso del autor. Las posiciones, condiciones y niveles de precio pueden cambiar a medida que lleguen nuevos datos. Haga su propio análisis.
+
+---
+
+*Disclaimer: For research and information purposes only. Not investment advice. Names cited are for analytical illustration; readers should perform their own due diligence and consult licensed advisors before any investment decision.*

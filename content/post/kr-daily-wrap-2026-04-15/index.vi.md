@@ -87,3 +87,7 @@ Thương hiệu thời trang cao cấp thuộc tập đoàn Hyundai Department S
 ---
 
 *Bản tin được tổng hợp từ dữ liệu macro, briefing thị trường, và screener nội bộ. Không phải khuyến nghị đầu tư.*
+
+---
+
+*Disclaimer: For research and information purposes only. Not investment advice. Names cited are for analytical illustration; readers should perform their own due diligence and consult licensed advisors before any investment decision.*

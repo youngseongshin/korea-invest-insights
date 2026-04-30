@@ -161,4 +161,4 @@ La concentración en un artista — concretamente, la dependencia desproporciona
 
 ---
 
-*Este análisis tiene únicamente fines informativos y no constituye asesoramiento de inversión. Todas las cifras y referencias se basan en información públicamente disponible y en el análisis del autor a abril de 2026. Los inversores deben realizar su propia diligencia debida y consultar a asesores financieros cualificados antes de tomar decisiones de inversión. La rentabilidad pasada de giras artísticas, ciclos de álbumes o movimientos del precio de la acción no es indicativa de resultados futuros.*
+*Disclaimer: For research and information purposes only. Not investment advice. Names cited are for analytical illustration; readers should perform their own due diligence and consult licensed advisors before any investment decision.*

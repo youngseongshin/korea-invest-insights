@@ -25,7 +25,7 @@ draft: false
 | **Exchange** | KOSPI (Korea Exchange) |
 | **Sector** | Information Technology / Semiconductors & Semiconductor Equipment |
 | **Close Price (2026-04-14)** | KRW 206,500 |
-| **Foreign Ownership** | ~51% (among the highest on KOSPI) |
+| **Foreign Ownership** | \~51% (among the highest on KOSPI) |
 | **Key Products** | DRAM, NAND Flash, HBM (High-Bandwidth Memory), Galaxy smartphones, OLED displays, home appliances, foundry services |
 
 **Elevator Pitch:** Samsung Electronics is simultaneously the world's largest memory chip maker, the world's second-largest smartphone vendor, and one of the most ambitious advanced-node foundry challengers. It sits at the intersection of three of the defining technology trends of this decade: the AI infrastructure buildout (HBM, advanced DRAM), the global smartphone ecosystem (Galaxy S and Z series), and the sovereign semiconductor diversification movement (its 2nm/3nm foundry roadmap). No single company embodies more of the structural tailwinds reshaping global technology.
@@ -38,7 +38,7 @@ draft: false
 
 The AI buildout is fundamentally a memory story. Every large language model training run, every inference cluster, every Nvidia H100/B200 GPU requires High-Bandwidth Memory stacked on top of it. Samsung is one of only three companies in the world—alongside SK Hynix and Micron—capable of producing HBM at scale. It is the only one of those three with a fully integrated chip-to-system supply chain: it makes the memory, the logic chips, the display panels, and even the connected car audio systems (via Harman).
 
-For global investors, Samsung is one of the most liquid expressions of AI infrastructure demand outside of US equities. Its ~51% foreign ownership ratio and inclusion in global indices (MSCI EM, FTSE EM) means it already sits in most institutional portfolios—but most retail investors outside Korea have never looked at it directly.
+For global investors, Samsung is one of the most liquid expressions of AI infrastructure demand outside of US equities. Its \~51% foreign ownership ratio and inclusion in global indices (MSCI EM, FTSE EM) means it already sits in most institutional portfolios—but most retail investors outside Korea have never looked at it directly.
 
 ### The Global Trends It Rides
 
@@ -52,11 +52,11 @@ For global investors, Samsung is one of the most liquid expressions of AI infras
 
 | Metric | Samsung | SK Hynix | Micron |
 |---|---|---|---|
-| DRAM Global Share | ~40% | ~30% | ~25% |
+| DRAM Global Share | \~40% | \~30% | \~25% |
 | HBM Leadership (H100/B200 era) | Challenger | Market leader | Late entrant |
-| NAND Global Share | ~30% | ~20% (via Solidigm) | ~15% |
-| Foundry Share | ~10–12% | N/A | N/A |
-| Smartphone Market Share (global) | ~20% | N/A | N/A |
+| NAND Global Share | \~30% | \~20% (via Solidigm) | \~15% |
+| Foundry Share | \~10–12% | N/A | N/A |
+| Smartphone Market Share (global) | \~20% | N/A | N/A |
 
 Samsung's competitive moat is breadth and integration—no other company can offer a hyperscaler everything from AI memory to display panels to IoT chips under one roof. Its weakness in the current cycle is that SK Hynix achieved HBM3E qualification and volume ramp at Nvidia ahead of Samsung, creating a "quality gap" perception that the market has priced in.
 
@@ -70,7 +70,7 @@ Samsung reports four major divisions. Based on the most recent available filings
 
 - **DS (Device Solutions):** Semiconductors—DRAM, NAND, HBM, System LSI (Exynos), Foundry. This is the highest-margin, most volatile segment and the primary driver of the current investment thesis. Contributes roughly 40–50% of consolidated revenue but an outsized share of operating profit in upcycle conditions.
 
-- **MX (Mobile eXperience):** Galaxy smartphones (S series, Z foldables, A series), tablets, wearables (Galaxy Watch, Buds). The world's largest smartphone business by unit volume. Revenue contribution ~30–35%; margins are thinner but highly stable.
+- **MX (Mobile eXperience):** Galaxy smartphones (S series, Z foldables, A series), tablets, wearables (Galaxy Watch, Buds). The world's largest smartphone business by unit volume. Revenue contribution \~30–35%; margins are thinner but highly stable.
 
 - **VD/DA (Visual Display / Digital Appliances):** TVs (Samsung is the global #1 in premium TV), home appliances. Lower margin, steady cash generation.
 
@@ -116,7 +116,7 @@ The core bearish scenario is that SK Hynix's head start in HBM3E deepens into HB
 
 ### Risk #2: Macro Headwinds—FX, Rate Regime, Foreign Selling
 
-With the USD/KRW rate hovering around 1,500 and global risk sentiment in a "Risk-Neutral" regime (US Bear regime context per our April 2026 pipeline data), foreign institutional investors have been net sellers of Samsung at points. A further strengthening of the dollar or a deterioration in US/Korea macro would pressure the stock through the FX channel and could accelerate foreign outflows. Samsung's ~51% foreign ownership is a double-edged sword: deep liquidity in good times, but a large potential seller base in risk-off episodes.
+With the USD/KRW rate hovering around 1,500 and global risk sentiment in a "Risk-Neutral" regime (US Bear regime context per our April 2026 pipeline data), foreign institutional investors have been net sellers of Samsung at points. A further strengthening of the dollar or a deterioration in US/Korea macro would pressure the stock through the FX channel and could accelerate foreign outflows. Samsung's \~51% foreign ownership is a double-edged sword: deep liquidity in good times, but a large potential seller base in risk-off episodes.
 
 ### Risk #3: Foundry Execution and TSMC Competitive Gap
 
@@ -133,8 +133,8 @@ Samsung Electronics has historically traded at a significant valuation discount 
 | Metric | Samsung (approx.) | TSMC | SK Hynix | Micron |
 |---|---|---|---|---|
 | P/E (trailing, approx.) | 12–16x | 22–28x | 15–20x | 10–18x |
-| P/B | ~1.3–1.5x | 5–7x | ~2–3x | ~2.5–3x |
-| Dividend Yield | ~2–3% | ~1.5% | <1% | <1% |
+| P/B | \~1.3–1.5x | 5–7x | \~2–3x | \~2.5–3x |
+| Dividend Yield | \~2–3% | \~1.5% | <1% | <1% |
 
 Samsung's P/B near book value is historically low by any global semiconductor standard. The persistent discount reflects real risks (governance, cyclicality, foundry uncertainty) but also creates an asymmetric setup: if the HBM4 catalyst lands and memory cycle earnings beat, the re-rating could be substantial given how compressed multiples already are.
 
@@ -156,11 +156,11 @@ For investors who cannot or prefer not to trade KRX-listed shares directly, Sams
 
 | ETF | Ticker | Exchange | Samsung Weight (approx.) |
 |---|---|---|---|
-| iShares MSCI South Korea ETF | EWY | NYSE Arca | ~20–25% |
-| Franklin FTSE South Korea ETF | FLKR | NYSE Arca | ~20%+ |
-| iShares MSCI Emerging Markets ETF | EEM | NYSE Arca | ~3–4% |
-| Vanguard FTSE Emerging Markets ETF | VWO | NYSE | ~2–3% |
-| KODEX 200 (Korean domestic ETF) | 069500 | KRX | ~25%+ |
+| iShares MSCI South Korea ETF | EWY | NYSE Arca | \~20–25% |
+| Franklin FTSE South Korea ETF | FLKR | NYSE Arca | \~20%+ |
+| iShares MSCI Emerging Markets ETF | EEM | NYSE Arca | \~3–4% |
+| Vanguard FTSE Emerging Markets ETF | VWO | NYSE | \~2–3% |
+| KODEX 200 (Korean domestic ETF) | 069500 | KRX | \~25%+ |
 
 EWY is by far the most popular single-country vehicle for international investors seeking Samsung exposure. A position in EWY is essentially a leveraged bet on Samsung Electronics combined with exposure to Korean banks, auto, and other KOSPI names.
 
@@ -198,3 +198,7 @@ Samsung is the world's largest DRAM producer and is competing to recapture leade
 ---
 
 *Sources: Samsung Electronics DART filings (dart.fss.or.kr), Korea Exchange (krx.co.kr), company IR pages (samsung.com/investor-relations), internal portfolio analysis pipeline (2026-04-14), FnGuide supply/demand data.*
+
+---
+
+*Disclaimer: For research and information purposes only. Not investment advice. Names cited are for analytical illustration; readers should perform their own due diligence and consult licensed advisors before any investment decision.*

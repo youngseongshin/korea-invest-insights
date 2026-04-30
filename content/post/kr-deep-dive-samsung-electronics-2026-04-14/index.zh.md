@@ -197,3 +197,7 @@ EWY是国际投资者获取三星敞口最常用的单一国家工具。持有EW
 ---
 
 *资料来源：三星电子DART申报文件（dart.fss.or.kr）、韩国交易所（krx.co.kr）、公司投资者关系页面（samsung.com/investor-relations）、内部投资组合分析管道（2026-04-14）、FnGuide供需数据。*
+
+---
+
+*Disclaimer: For research and information purposes only. Not investment advice. Names cited are for analytical illustration; readers should perform their own due diligence and consult licensed advisors before any investment decision.*

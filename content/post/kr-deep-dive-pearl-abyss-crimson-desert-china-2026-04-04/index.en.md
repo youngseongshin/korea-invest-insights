@@ -54,14 +54,14 @@ The headline numbers tell a clean story:
 
 | Metric | Figure | Date |
 |--------|--------|------|
-| Steam March sales | ~2M copies | March 2026 |
+| Steam March sales | \~2M copies | March 2026 |
 | All-platform sales | 4M+ copies | April 1, 2026 |
 | Peak CCU (Steam) | 276,261 | March 29, 2026 |
 | Global Steam rating | 86% positive | April 4, 2026 |
 | Total Steam reviews | 100,000+ (83% positive) | April 4, 2026 |
 | China Xiaoheihe score | 8.4/10 | April 4, 2026 |
 
-To place the Steam-only figure in context: Crimson Desert's ~2M March Steam copies made it the **#2 best-selling game on Steam globally** for March, behind only Killing Tower 2's 5.3M. But critically, Crimson Desert was **#1 on a cross-platform basis at 4M copies**, a distinction that matters for revenue modeling since console margins differ from Steam's 30% cut.
+To place the Steam-only figure in context: Crimson Desert's \~2M March Steam copies made it the **#2 best-selling game on Steam globally** for March, behind only Killing Tower 2's 5.3M. But critically, Crimson Desert was **#1 on a cross-platform basis at 4M copies**, a distinction that matters for revenue modeling since console margins differ from Steam's 30% cut.
 
 The game held the **#1 position on Steam's global revenue chart for two consecutive weeks** (March 24–31) and simultaneously topped **China's Steam revenue ranking for the same period** — an unusual dual dominance that underscores how concentrated Chinese demand has been.
 
@@ -97,13 +97,13 @@ Using conservative assumptions:
 - Add DLC/expansion attach rate of 15–20% at average $20 = $15–20M incremental
 - **Total Year 1 revenue estimate: $170–180M** from Crimson Desert alone
 
-Pearl Abyss's trailing twelve-month revenue prior to launch was approximately ₩300–350B (~$220–260M USD). A successful Crimson Desert launch has the potential to **nearly double the company's annual revenue run rate** in Year 1.
+Pearl Abyss's trailing twelve-month revenue prior to launch was approximately ₩300–350B (\~$220–260M USD). A successful Crimson Desert launch has the potential to **nearly double the company's annual revenue run rate** in Year 1.
 
 **Peer Comparison**
 
 | Company | Flagship Title | Launch-Year Revenue Multiple |
 |---------|---------------|------------------------------|
-| SHIFT UP (462870.KS) | Stellar Blade | ~2.5x |
+| SHIFT UP (462870.KS) | Stellar Blade | \~2.5x |
 | Krafton (259960.KS) | PUBG relaunch cycles | 1.2–1.5x |
 | Pearl Abyss (263750.KS) | Crimson Desert (est.) | 1.8–2.1x |
 
@@ -111,7 +111,7 @@ The SHIFT UP comp is relevant: Stellar Blade launched as a premium single-player
 
 **China-Specific Revenue Concentration**
 
-Estimating Chinese players at 30–35% of the total Steam playerbase — consistent with typical top-ranked Steam titles in China — implies approximately 600,000–700,000 Steam copies sold in China as of April 1. At China's Steam regional pricing (~¥268, approximately $37), that represents approximately **$22–26M from Chinese Steam alone**. Console sales data from China is not publicly available but is likely significant given the Qingming social media amplification.
+Estimating Chinese players at 30–35% of the total Steam playerbase — consistent with typical top-ranked Steam titles in China — implies approximately 600,000–700,000 Steam copies sold in China as of April 1. At China's Steam regional pricing (\~¥268, approximately $37), that represents approximately **$22–26M from Chinese Steam alone**. Console sales data from China is not publicly available but is likely significant given the Qingming social media amplification.
 
 ---
 
@@ -213,3 +213,7 @@ Pearl Abyss built a decade of live-service muscle running Black Desert Online gl
 *This article is for informational and educational purposes only. It does not constitute financial advice, investment recommendations, or an offer to buy or sell any securities. All data points are sourced from publicly available information as of April 4, 2026. Sales estimates and revenue projections involve assumptions and are subject to material uncertainty. Investors should conduct their own research and consult a licensed financial advisor before making any investment decisions. The author may hold positions in securities mentioned.*
 
 *Korean Gaming Studios series — published April 4, 2026*
+
+---
+
+*Disclaimer: For research and information purposes only. Not investment advice. Names cited are for analytical illustration; readers should perform their own due diligence and consult licensed advisors before any investment decision.*

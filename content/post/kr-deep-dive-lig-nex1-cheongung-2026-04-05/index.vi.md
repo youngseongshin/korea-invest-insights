@@ -159,3 +159,7 @@ LIG Nex1 không hoạt động đơn độc. Đây là một mắt xích trong h
 ## Tuyên Bố Miễn Trừ Trách Nhiệm
 
 *Bài viết này được sản xuất chỉ nhằm mục đích thông tin và giáo dục. Nội dung không cấu thành tư vấn đầu tư, kêu gọi mua bán chứng khoán, hay khuyến nghị bất kỳ chứng khoán cụ thể nào. Tất cả dữ liệu đều được lấy từ các thông tin công bố của công ty, báo cáo ngành và nguồn tin tức có sẵn công khai tính đến ngày xuất bản. Hiệu suất cổ phiếu trong quá khứ không phải chỉ báo cho kết quả trong tương lai. Nhà đầu tư nên tự thực hiện thẩm định và tham khảo tư vấn tài chính có giấy phép trước khi đưa ra quyết định đầu tư. Tác giả và nhà xuất bản không nắm giữ bất kỳ vị thế nào trong các chứng khoán được đề cập tại thời điểm xuất bản.*
+
+---
+
+*Disclaimer: For research and information purposes only. Not investment advice. Names cited are for analytical illustration; readers should perform their own due diligence and consult licensed advisors before any investment decision.*

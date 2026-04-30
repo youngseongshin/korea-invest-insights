@@ -9,9 +9,9 @@ series: ["kosdaq-structural-2026"]
 ---
 
 > **シリーズ — KOSDAQ Structural 2026（第4回・ボーナス）**
-> ① [資金流入トリガーとVCランキング](/en/post/kosdaq-2026-capital-inflow-triggers-vc-ranking-2026-04-21/) — 政策環境の整理
-> ② [IPOクラス2023-2026：10倍株はどこに眠るか](/en/post/kosdaq-ipo-class-2023-2026-tenbagger-analysis-2026-04-22/) — IPO後の勝者分析
-> ③ [KR テンバガー全件センサス](/en/post/kr-tenbagger-census-2023-2026-2026-04-23/) — 3年間の実現10倍株
+> ① [資金流入トリガーとVCランキング](/post/kosdaq-2026-capital-inflow-triggers-vc-ranking-2026-04-21/) — 政策環境の整理
+> ② [IPOクラス2023-2026：10倍株はどこに眠るか](/post/kosdaq-ipo-class-2023-2026-tenbagger-analysis-2026-04-22/) — IPO後の勝者分析
+> ③ [KR テンバガー全件センサス](/post/kr-tenbagger-census-2023-2026-2026-04-23/) — 3年間の実現10倍株
 > ④ **本稿** — セルサイドがまだ書いていない場所、そしてその意味
 
 ---
@@ -202,6 +202,8 @@ KOSDAQのセルサイドカバレッジは52銘柄に集中している——指
 ---
 
 _このボーナス記事でKOSDAQ Structural 2026シリーズは完結です。_
-_[第1回：VCランキング](/en/post/kosdaq-2026-capital-inflow-triggers-vc-ranking-2026-04-21/) [第2回：IPOテンバガークラス](/en/post/kosdaq-ipo-class-2023-2026-tenbagger-analysis-2026-04-22/) [第3回：全件10倍センサス](/en/post/kr-tenbagger-census-2023-2026-2026-04-23/)_
+_[第1回：VCランキング](/post/kosdaq-2026-capital-inflow-triggers-vc-ranking-2026-04-21/) [第2回：IPOテンバガークラス](/post/kosdaq-ipo-class-2023-2026-tenbagger-analysis-2026-04-22/) [第3回：全件10倍センサス](/post/kr-tenbagger-census-2023-2026-2026-04-23/)_
 
-_本稿は投資助言ではありません。すべての銘柄はさらなるデューデリジェンスのためのアイデア候補として提示されています。_
+---
+
+*Disclaimer: For research and information purposes only. Not investment advice. Names cited are for analytical illustration; readers should perform their own due diligence and consult licensed advisors before any investment decision.*

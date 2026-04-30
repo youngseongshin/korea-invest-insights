@@ -88,3 +88,7 @@ SK하이닉스는 한국의 2위 메모리 반도체 기업으로, HBM(High Band
 4월 24일 KOSPI와 미국 증시의 동시 강세 전환은 분명한 시장 신호다. 그러나 지수 방향과 개별 종목 수급이 항상 동행하지는 않는다. 수급이 뒷받침되는 종목(SK하이닉스, 삼성전자)과 수급이 이탈하는 종목(펄어비스, SK텔레콤)이 같은 장에서 공존하는 이 구간에서, 성과는 결국 **옥석 가리기**로 결정된다.
 
 글로벌 투자자 입장에서 한국 증시의 현재 국면은 "반도체·AI 인프라 중심의 선택적 비중 확대 + 내수 방어주·모멘텀 소진 종목 비중 축소"로 요약된다. 레짐이 열렸다고 해서 문이 활짝 열린 것은 아니다. 진입 조건을 충족한 종목만, 확인된 수급과 함께 들어가는 것이 원칙이다.
+
+---
+
+*Disclaimer: For research and information purposes only. Not investment advice. Names cited are for analytical illustration; readers should perform their own due diligence and consult licensed advisors before any investment decision.*

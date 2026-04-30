@@ -94,3 +94,7 @@ SK스퀘어 es la holding de inversión tecnológica del grupo SK, cuyo activo p
 ### Nota sobre 티에프이 (425420.KQ)
 
 A pesar de aparecer en cuatro screeners (incluyendo PEAD con score +0,88), el flujo neto de cinco días es negativo en −114억. La tesis de calidad y resultados es sólida (ROE 19,3%, OP YoY +334,1%), pero la divergencia entre señal de screener y flujo real requiere confirmación antes de considerarlo candidato principal. Se mantiene en lista de vigilancia.
+
+---
+
+*Disclaimer: For research and information purposes only. Not investment advice. Names cited are for analytical illustration; readers should perform their own due diligence and consult licensed advisors before any investment decision.*

@@ -24,7 +24,7 @@ draft: false
 | **Mã cổ phiếu** | 352820.KS |
 | **Sàn giao dịch** | KOSPI (Korea Composite Stock Price Index) |
 | **Lĩnh vực** | Giải trí / Truyền thông |
-| **Vốn hóa thị trường** | Khoảng ₩12–13 nghìn tỷ (dựa trên vùng giá ~₩300.000/cổ phiếu, tính đến Q1 2026) |
+| **Vốn hóa thị trường** | Khoảng ₩12–13 nghìn tỷ (dựa trên vùng giá \~₩300.000/cổ phiếu, tính đến Q1 2026) |
 | **Thương hiệu chính** | BTS, SEVENTEEN, Le Sserafim, TOMORROW X TOGETHER (TXT), ENHYPEN |
 
 **Tóm tắt ngắn gọn:** HYBE không phải hãng thu âm theo nghĩa truyền thống. Đây là công ty công nghệ giải trí tích hợp theo chiều dọc, kiểm soát toàn bộ vòng đời tài sản trí tuệ — từ phát triển nghệ sĩ, sản xuất âm nhạc, lưu diễn, hàng hóa, đến kiếm tiền trực tiếp từ fan thông qua nền tảng Weverse độc quyền — trên các nhãn hiệu tại Hàn Quốc, Nhật Bản và Hoa Kỳ. Chu kỳ xuất ngũ của BTS (cả bảy thành viên tính đến năm 2025 đều đã hoặc đang trở lại cuộc sống thường dân) tạo ra một trong những chất xúc tác lợi nhuận có thể dự đoán định lượng rõ ràng nhất trong ngành giải trí toàn cầu: một siêu nhóm hiếm có một lần trong thế hệ, với lượng fan toàn cầu 50 triệu người (ARMY), đồng loạt nối lại hoạt động thương mại đầy đủ.
@@ -166,4 +166,4 @@ BTS ký hợp đồng với Big Hit Music, một trong số các nhãn hiệu tr
 
 ---
 
-*Phân tích này chỉ nhằm mục đích thông tin và không cấu thành lời khuyên đầu tư. Tất cả các con số tài chính được tham chiếu dựa trên ước tính công ty chứng khoán, hồ sơ công ty và nguồn tin tức có sẵn công khai tính đến tháng 4 năm 2026. Nhà đầu tư nên tự thực hiện thẩm định trước khi đưa ra bất kỳ quyết định đầu tư nào. Hiệu suất trong quá khứ của cổ phiếu giải trí Hàn Quốc không đảm bảo kết quả trong tương lai.*
+*Disclaimer: For research and information purposes only. Not investment advice. Names cited are for analytical illustration; readers should perform their own due diligence and consult licensed advisors before any investment decision.*

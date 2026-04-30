@@ -171,4 +171,4 @@ series: ["pearl-abyss-crimson-desert-thesis"]
 
 ---
 
-**免責事項**：本稿は調査コメンタリーであり、投資助言ではありません。Pearl Abyssは著者の継続的なテーゼシリーズの一部として取り上げています。ポジション、条件、価格水準は新たなデータの到来とともに変化することがあります。投資判断はご自身でお行いください。
+*Disclaimer: For research and information purposes only. Not investment advice. Names cited are for analytical illustration; readers should perform their own due diligence and consult licensed advisors before any investment decision.*

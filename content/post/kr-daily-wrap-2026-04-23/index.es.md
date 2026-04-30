@@ -72,4 +72,4 @@ Especialista en transformadores de potencia y equipos de conversión eléctrica,
 
 ---
 
-*Datos de cierre coreano a las 16:23 KST. Los screeners se elaboran sobre el universo KOSPI/KOSDAQ de 2.722 valores. Este análisis es puramente informativo y no constituye asesoramiento de inversión.*
+*Disclaimer: For research and information purposes only. Not investment advice. Names cited are for analytical illustration; readers should perform their own due diligence and consult licensed advisors before any investment decision.*

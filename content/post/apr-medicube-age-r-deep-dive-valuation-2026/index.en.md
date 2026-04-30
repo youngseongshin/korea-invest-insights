@@ -10,7 +10,7 @@ series: "K-Beauty Deep Dive"
 ---
 
 > **Date:** 2026-04-09
-> **Close:** KRW 365,500 | **Market Cap:** ~KRW 12.2T | **52-Week High:** KRW 377,000
+> **Close:** KRW 365,500 | **Market Cap:** \~KRW 12.2T | **52-Week High:** KRW 377,000
 > **Verdict:** Good company, strong stock — but not cheap
 > **Core:** Medicube + AGE-R + Global DTC/Offline Expansion
 
@@ -20,7 +20,7 @@ series: "K-Beauty Deep Dive"
 
 - **One-line verdict:** Good company, strong stock right now. But not a cheap stock.
 - APR's core is Medicube-centric cosmetics + AGE-R home beauty devices + global channel expansion.
-- At KRW 12T+ market cap, APR has surpassed both Amorepacific (~KRW 9.5T) and LG H&H (~KRW 4.2T) to become **Korea's #1 beauty company by market capitalization**. This is a structural shift.
+- At KRW 12T+ market cap, APR has surpassed both Amorepacific (\~KRW 9.5T) and LG H&H (\~KRW 4.2T) to become **Korea's #1 beauty company by market capitalization**. This is a structural shift.
 - Fundamentals are excellent and the chart is strong. The question is not valuation per se, but **how long hyper-growth can be sustained**.
 
 ---
@@ -56,7 +56,7 @@ This is a far superior structure to a typical trend-driven cosmetics company, be
 
 | Date | Cumulative Sales | Notes |
 |------|-----------------|-------|
-| 2021 Launch | ~50K units | Initial |
+| 2021 Launch | \~50K units | Initial |
 | May 2025 | 4M units | — |
 | Sep 2025 | 5M units | — |
 | Jan 2026 | **6M+ units** | Overseas share 60%+ |
@@ -72,8 +72,8 @@ Approximately 100x growth since launch. The fact that overseas sales exceed 60% 
 | Item | Q4 2025 | FY 2025 | 2026 Guidance |
 |------|---------|---------|--------------|
 | Revenue | KRW 548B | KRW 1.53T (+111% YoY) | KRW 2.1T |
-| Operating Profit | KRW 130B | KRW 355B (~3x YoY) | — |
-| OPM | 23.8% | 23.9% | ~25% |
+| Operating Profit | KRW 130B | KRW 355B (\~3x YoY) | — |
+| OPM | 23.8% | 23.9% | \~25% |
 
 This is not just "good." It is a **rare combination of high growth and high profitability simultaneously**.
 
@@ -108,19 +108,19 @@ This is not simple consumable sales — it is a **hardware + consumables/routine
 ### Layer C: Global Expansion — Channel-by-Channel
 
 **United States (Largest Growth Driver):**
-- US revenue Jan-Sep 2025: ~KRW 980B (+250% YoY)
+- US revenue Jan-Sep 2025: \~KRW 980B (+250% YoY)
 - TikTok Shop alone generated $102M+
 - **Ulta Beauty: full rollout to all 1,400+ stores** (Aug 2025) — ranked #1 in Ulta skincare e-commerce, #2 overall
 - Ulta sales +312% by year-end
 - **Walmart and Target entry negotiations underway**
 
 **Japan:**
-- Q1 2025 Japan revenue: KRW 29.3B (~3x YoY); Q2 ~4.7x YoY
+- Q1 2025 Japan revenue: KRW 29.3B (\~3x YoY); Q2 \~4.7x YoY
 - Won Qoo10 Japan Mega Beauty Awards 2025
 - Expanding offline through Don Quijote and other variety/drugstore chains
 
 **Europe:**
-- **Sephora partnership**: rolling out to ~450 stores across 17 countries
+- **Sephora partnership**: rolling out to \~450 stores across 17 countries
 - CPNP registration complete, exports to 27 countries enabled
 - UK market entered Sep 2024 — Collagen Jelly Cream sold out on launch
 
@@ -151,10 +151,10 @@ This is still a **mega-brand concentrated growth phase** rather than a multi-bra
 |------|-------|
 | Current Close | KRW 365,500 |
 | 52-Week High | KRW 377,000 (near ATH) |
-| Forward PER | ~30x |
+| Forward PER | \~30x |
 | Mirae Asset Target | KRW 350,000 (already breached) |
 | Meritz Target | KRW 450,000 |
-| Consensus Average | ~KRW 345,000 |
+| Consensus Average | \~KRW 345,000 |
 
 Some brokerage targets have already been exceeded. The market already views this as a **premium growth stock** — continued good news is required for justification.
 
@@ -216,9 +216,9 @@ APR becoming Korea's #1 beauty company by market cap is not just a stock price e
 
 | Company | Market Cap | Character |
 |---------|-----------|----------|
-| **APR** | **~KRW 12.2T** | Venture-based, D2C, device+cosmetics |
-| Amorepacific | ~KRW 9.5T | Chaebol-based, offline-centric, recovering from China |
-| LG H&H | ~KRW 4.2T | Chaebol-based, revenue -35.8% over 3 years |
+| **APR** | **\~KRW 12.2T** | Venture-based, D2C, device+cosmetics |
+| Amorepacific | \~KRW 9.5T | Chaebol-based, offline-centric, recovering from China |
+| LG H&H | \~KRW 4.2T | Chaebol-based, revenue -35.8% over 3 years |
 
 APR's success demonstrates that K-beauty leadership is migrating from **chaebol-led to venture/indie brand-led**. The new formula of D2C + TikTok/social commerce + device internalization is overwhelming legacy models.
 
@@ -228,7 +228,7 @@ APR's success demonstrates that K-beauty leadership is migrating from **chaebol-
 
 The strongest counter-argument:
 
-> "APR has improved, but buying at Forward PER ~30x near ATH is effectively betting that '40%+ growth continues.' With Medicube concentration at 90%+ and if the device cycle decelerates or Ulta/Sephora performance disappoints?"
+> "APR has improved, but buying at Forward PER \~30x near ATH is effectively betting that '40%+ growth continues.' With Medicube concentration at 90%+ and if the device cycle decelerates or Ulta/Sephora performance disappoints?"
 
 Why this counter-argument is valid:
 - Premium growth stocks require good news to **keep coming** to justify the current price
@@ -260,4 +260,4 @@ Why this counter-argument is valid:
 
 ---
 
-*Disclaimer: This analysis is for informational purposes only and does not constitute investment advice. Past performance does not guarantee future results. Always conduct your own due diligence before making investment decisions.*
+*Disclaimer: For research and information purposes only. Not investment advice. Names cited are for analytical illustration; readers should perform their own due diligence and consult licensed advisors before any investment decision.*

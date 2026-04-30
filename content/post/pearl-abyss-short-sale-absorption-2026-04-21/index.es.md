@@ -268,4 +268,4 @@ Resumen más claro posible:
 
 ---
 
-*Solo para fines de investigación y comentario, no constituye asesoramiento de inversión. Fuente de datos de venta en corto: CSV de fin de sesión proporcionado por el usuario. Datos de precio y flujo del feed de cierre de mercado de KRX, 2026-04-21 KST.*
+*Disclaimer: For research and information purposes only. Not investment advice. Names cited are for analytical illustration; readers should perform their own due diligence and consult licensed advisors before any investment decision.*

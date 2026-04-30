@@ -9,9 +9,9 @@ series: ["kosdaq-structural-2026"]
 ---
 
 > **Série — KOSDAQ Structurel 2026 (Partie 4 sur 4, bonus)**
-> ① [Déclencheurs d'entrées de capitaux & classement VC](/en/post/kosdaq-2026-capital-inflow-triggers-vc-ranking-2026-04-21/) — le cadre politique
-> ② [Classe IPO 2023-2026 : où vivent les tenbaggers](/en/post/kosdaq-ipo-class-2023-2026-tenbagger-analysis-2026-04-22/) — les gagnants post-introduction
-> ③ [Recensement complet des tenbaggers 10×](/en/post/kr-tenbagger-census-2023-2026-2026-04-23/) — les vrais gagnants sur 3 ans
+> ① [Déclencheurs d'entrées de capitaux & classement VC](/post/kosdaq-2026-capital-inflow-triggers-vc-ranking-2026-04-21/) — le cadre politique
+> ② [Classe IPO 2023-2026 : où vivent les tenbaggers](/post/kosdaq-ipo-class-2023-2026-tenbagger-analysis-2026-04-22/) — les gagnants post-introduction
+> ③ [Recensement complet des tenbaggers 10×](/post/kr-tenbagger-census-2023-2026-2026-04-23/) — les vrais gagnants sur 3 ans
 > ④ **Cet article** — là où le sell-side *n'est pas encore*, et pourquoi ça compte
 
 ---
@@ -22,7 +22,7 @@ Si les tenbaggers se regroupent, l'attention du sell-side aussi. Et l'écart ent
 
 Nous avons passé en revue chaque rapport de courtier déposé sur Hankyung Consensus (한경컨센서스) sur les 3 derniers mois — du 23 janvier au 23 avril 2026 — auprès des 11 courtiers qui alimentent la plateforme (LS, Eugene, SK, iM, Meritz, Yuanta, Hanwha, IBK, Daishin, Sangsangin, KoreaIR). **Seulement 52 valeurs KOSDAQ ont obtenu une couverture ≥2 courtiers sur cette période.**
 
-C'est sur un univers de ~1 777 titres KOSDAQ.
+C'est sur un univers de \~1 777 titres KOSDAQ.
 
 ---
 
@@ -31,7 +31,7 @@ C'est sur un univers de ~1 777 titres KOSDAQ.
 Hankyung n'inclut pas Samsung, Mirae Asset, Kiwoom, NH, Hana, Shinhan, KB, Korea Investment, DB ni Daol — soit plus de 10 grandes maisons. Ainsi, « 2 courtiers sur Hankyung » correspond généralement à **4 à 6 courtiers réels** sur le marché. C'est important pour certaines valeurs ci-dessous où le comptage publié sous-estime la réalité.
 
 - [Fait] 52 valeurs ont passé le seuil 2 courtiers / 3 mois sur Hankyung
-- [Inférence] La couverture réelle à l'échelle du marché est ~1,8 à 2,5 fois le nombre déclaré
+- [Inférence] La couverture réelle à l'échelle du marché est \~1,8 à 2,5 fois le nombre déclaré
 - [Non disponible] Les consensus de prix cible et distributions de recommandations ne sont pas calculables depuis ce jeu de données (nécessite FnGuide)
 
 ---
@@ -170,7 +170,7 @@ Cap de 94 Mds KRW, dividende correct + marges en amélioration, croissance minim
 
 **Les small-caps défense génèrent un vrai trafic.** Trois valeurs dans la tranche 100-300 Mds de cap, toutes avec des notes récentes (7 avr., 15 avr., 17 avr.). **Coats Technologies à 124 Mds KRW avec 3 courtiers** affiche une densité de couverture par capitalisation qui précède typiquement l'intégration dans le consensus sell-side élargi.
 
-**Gonflement par KoreaIR Council.** ~5 des 9 small-caps ont l'une de leurs deux « couvertures » assurée par KoreaIR Council. Il s'agit d'un produit de recherche sponsorisée / d'initiation — utile, mais pas un second avis indépendant. En l'excluant, la plupart de ces valeurs sont en réalité « 1 courtier + note d'initiation » — sensiblement plus mince que le chiffre brut ne le suggère, et reflet plus fidèle de l'endroit où l'opportunité de perception différenciée se situe réellement.
+**Gonflement par KoreaIR Council.** \~5 des 9 small-caps ont l'une de leurs deux « couvertures » assurée par KoreaIR Council. Il s'agit d'un produit de recherche sponsorisée / d'initiation — utile, mais pas un second avis indépendant. En l'excluant, la plupart de ces valeurs sont en réalité « 1 courtier + note d'initiation » — sensiblement plus mince que le chiffre brut ne le suggère, et reflet plus fidèle de l'endroit où l'opportunité de perception différenciée se situe réellement.
 
 ---
 
@@ -202,6 +202,10 @@ Si le sell-side ne l'a pas encore mis par écrit, ce n'est pas dans les cours. C
 ---
 
 _Cet article bonus clôt la série KOSDAQ Structurel 2026._
-_[Partie 1 : classement VC.](/en/post/kosdaq-2026-capital-inflow-triggers-vc-ranking-2026-04-21/) [Partie 2 : classe IPO tenbaggers.](/en/post/kosdaq-ipo-class-2023-2026-tenbagger-analysis-2026-04-22/) [Partie 3 : recensement complet 10×.](/en/post/kr-tenbagger-census-2023-2026-2026-04-23/)_
+_[Partie 1 : classement VC.](/post/kosdaq-2026-capital-inflow-triggers-vc-ranking-2026-04-21/) [Partie 2 : classe IPO tenbaggers.](/post/kosdaq-ipo-class-2023-2026-tenbagger-analysis-2026-04-22/) [Partie 3 : recensement complet 10×.](/post/kr-tenbagger-census-2023-2026-2026-04-23/)_
 
 _Rien ici ne constitue un conseil en investissement. Toutes les valeurs mentionnées sont des candidats à l'idéation, soumis à une analyse approfondie préalable._
+
+---
+
+*Disclaimer: For research and information purposes only. Not investment advice. Names cited are for analytical illustration; readers should perform their own due diligence and consult licensed advisors before any investment decision.*

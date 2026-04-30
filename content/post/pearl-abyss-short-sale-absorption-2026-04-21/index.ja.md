@@ -268,4 +268,4 @@ Pearl Abyssには依然として空売り残高が積み上がっている。そ
 
 ---
 
-*本稿は調査・解説目的であり、投資助言ではありません。空売りデータの出典：ユーザー提供の取引終了後CSVデータ。株価・フローデータはKRX市場終値フィード、2026年4月21日 KST。*
+*Disclaimer: For research and information purposes only. Not investment advice. Names cited are for analytical illustration; readers should perform their own due diligence and consult licensed advisors before any investment decision.*

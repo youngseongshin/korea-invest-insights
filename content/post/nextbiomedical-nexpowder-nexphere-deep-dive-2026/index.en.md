@@ -10,7 +10,7 @@ series: "Korean MedTech Deep Dive"
 ---
 
 > **Date:** 2026-04-14
-> **Close:** ~KRW 64,700 | **Market Cap:** ~KRW 528.3B | **52-Week High/Low:** KRW 101,000 / KRW 38,300
+> **Close:** \~KRW 64,700 | **Market Cap:** \~KRW 528.3B | **52-Week High/Low:** KRW 101,000 / KRW 38,300
 > **Verdict:** Wait / Watchlist
 > **Core:** Nexpowder (commercialized) + Nexphere-F (pipeline) dual structure
 
@@ -42,7 +42,7 @@ The current share price simultaneously reflects both axes. Nexpowder supports th
 
 * 2025 consolidated revenue: **KRW 16.5B**
 * 2025 operating loss: **KRW 735M**
-* Nexpowder revenue: **~KRW 13.7B**
+* Nexpowder revenue: **\~KRW 13.7B**
 
 2025 was a year of strong topline growth. However, profitability stopped just short of breakeven. The cause was not COGS but **SG&A increases**, specifically R&D, clinical trials, and global regulatory preparation costs.
 
@@ -57,7 +57,7 @@ The current share price simultaneously reflects both axes. Nexpowder supports th
 Two key takeaways:
 
 1. **COGS ratio improved** — Gross margin expanded from 61.3% to 69.9%, reflecting better product mix and scale effects.
-2. **SG&A grew significantly** — Up ~30.5% YoY as the company invested aggressively for the future.
+2. **SG&A grew significantly** — Up \~30.5% YoY as the company invested aggressively for the future.
 
 2025 was a year where product economics improved, but the company also spent more aggressively to build its future platform.
 
@@ -65,8 +65,8 @@ Two key takeaways:
 
 * **Q1 2025 Nexpowder revenue: KRW 3.1B**
 * **Q2 2025 Nexpowder revenue: KRW 3.4B / Consolidated revenue: KRW 4.0B**
-* **Q3 2025 Nexpowder revenue: KRW 4.3B / Consolidated revenue: KRW 4.9B / OP: ~KRW 400M**
-* **Q4 2025 Consolidated revenue: KRW 3.8B / OP loss: ~KRW 400M**
+* **Q3 2025 Nexpowder revenue: KRW 4.3B / Consolidated revenue: KRW 4.9B / OP: \~KRW 400M**
+* **Q4 2025 Consolidated revenue: KRW 3.8B / OP loss: \~KRW 400M**
 
 The interpretation is clear:
 
@@ -117,17 +117,17 @@ Comparing quarterly exports against Nexpowder revenue reveals remarkably high co
 * **Q1 2025 exports $2.58M → Nexpowder KRW 3.1B**
 * **Q2 2025 exports $2.83M → Nexpowder KRW 3.4B**
 * **Q3 2025 exports $3.50M → Nexpowder KRW 4.3B**
-* **Q4 2025 exports $2.36M → Nexpowder ~KRW 2.9B (implied)**
+* **Q4 2025 exports $2.36M → Nexpowder \~KRW 2.9B (implied)**
 
 The quarterly conversion factor is nearly constant:
 
-> **$1M in exports ≈ KRW 1.20~1.23B in Nexpowder revenue**
+> **$1M in exports ≈ KRW 1.20\~1.23B in Nexpowder revenue**
 
 This is highly significant. It means the HS code export data is not just a reference point but **a practically useful leading indicator for Nexpowder revenue**.
 
 ### 3.3 Q1 2026 Export Interpretation
 
-* **Q1 2025 exports: ~$2.57-2.58M**
+* **Q1 2025 exports: \~$2.57-2.58M**
 * **Q1 2026 exports: $2.60M**
 
 Q1 2026 exports were essentially **flat** in dollar terms versus a year ago.
@@ -144,8 +144,8 @@ The correct reading is not "exports surged" but rather:
 
 Based on monthly average USD/KRW rates:
 
-* **Q1 2025 weighted average FX: ~KRW 1,452.98/USD**
-* **Q1 2026 weighted average FX: ~KRW 1,465.60/USD**
+* **Q1 2025 weighted average FX: \~KRW 1,452.98/USD**
+* **Q1 2026 weighted average FX: \~KRW 1,465.60/USD**
 
 The difference is approximately **+0.87%**.
 
@@ -170,8 +170,8 @@ The FX contribution was only approximately **KRW 27M**.
 
 Based on the export-revenue conversion framework and product mix:
 
-* **Q1 2026 Nexpowder revenue: ~KRW 3.16B**
-* **Q1 2026 consolidated revenue: KRW 3.6~3.8B**
+* **Q1 2026 Nexpowder revenue: \~KRW 3.16B**
+* **Q1 2026 consolidated revenue: KRW 3.6\~3.8B**
 * **Q1 2026 operating income: KRW -200M to breakeven**
 
 These numbers are closer to **"defended"** than "strong."
@@ -180,14 +180,14 @@ These numbers are closer to **"defended"** than "strong."
 
 Base case scenario:
 
-* Revenue: **KRW 20.5~21.5B**
-* COGS: **KRW 6.1~6.4B**
-* SG&A: **KRW 14.5~15.5B**
+* Revenue: **KRW 20.5\~21.5B**
+* COGS: **KRW 6.1\~6.4B**
+* SG&A: **KRW 14.5\~15.5B**
 * Operating income: **KRW -200M to +200M**
 
 The company will likely remain a **near-breakeven** business in 2026.
 
-An aggressive scenario of KRW 22.5~23.5B revenue with mid-single-digit billion operating profit is possible, but requires:
+An aggressive scenario of KRW 22.5\~23.5B revenue with mid-single-digit billion operating profit is possible, but requires:
 
 1. Nexpowder growth re-acceleration
 2. Partial deferral or control of Nexphere-F clinical costs
@@ -204,7 +204,7 @@ Nexpowder is already in the commercialization phase:
 * 2024 indication expansion to lower GI bleeding
 * Japan PMDA approval and insurance listing completed
 * September 2025 official Japan launch
-* Sold in ~30 countries
+* Sold in \~30 countries
 * US distribution through Medtronic
 * GUT journal landmark study: 94% immediate hemostasis rate
 
@@ -240,7 +240,7 @@ Nexphere-F's current status:
 * US FDA IDE approval
 * FDA Breakthrough Device Designation
 * FDA Technology Access Pathway (TAP) / CMS Category B progress
-* RESORB pivotal trial first patient enrolled October 2025 — ~126 patients across 10+ US sites
+* RESORB pivotal trial first patient enrolled October 2025 — \~126 patients across 10+ US sites
 * Japan exclusive distribution deal signed with Asahi Intecc (April 9, 2026)
 
 This product is not yet at the large-scale revenue stage but rather:
@@ -262,10 +262,10 @@ The key for this business remains **progress rate and probability of success** r
 
 ### 8.1 Current Share Price Position
 
-* Current price: **~KRW 64,700**
-* Market cap: **~KRW 528.3B**
+* Current price: **\~KRW 64,700**
+* Market cap: **\~KRW 528.3B**
 * 52-week high: **KRW 101,000**
-* 52-week low: **~KRW 38,300**
+* 52-week low: **\~KRW 38,300**
 
 The stock is **significantly off its highs but still elevated relative to its lows**.
 
@@ -289,7 +289,7 @@ The latter two factors carry more weight.
 
 ### Base Case
 
-* Revenue: **KRW 3.6~3.8B**
+* Revenue: **KRW 3.6\~3.8B**
 * Operating income: **KRW -200M to breakeven**
 * Company provides commentary supporting Q2 2026 improvement potential
 
@@ -346,7 +346,7 @@ The divergence comes from:
 
 ## 11. Target Price Reverse Engineering: KRW 83K / 90K / 120K
 
-Based on ~8.204M shares outstanding, implied market caps by target price:
+Based on \~8.204M shares outstanding, implied market caps by target price:
 
 * **KRW 83,000 → KRW 680.9B** (+28.9% upside)
 * **KRW 90,000 → KRW 738.4B** (+39.8% upside)
@@ -407,7 +407,7 @@ This is clearly a quality company. But for the stock to meaningfully re-rate fro
 ## Monitoring Checklist
 
 1. **Q1 2026 earnings release (expected mid-May)**
-   * Revenue KRW 3.6~3.8B range
+   * Revenue KRW 3.6\~3.8B range
    * Operating income KRW -200M to breakeven range
 
 2. **April confirmed exports and May export trends**
@@ -428,3 +428,7 @@ This is clearly a quality company. But for the stock to meaningfully re-rate fro
 ---
 
 **NextBiomedical is an attractive MedTech company where Nexpowder guards the downside and Nexphere-F opens the upside, but to justify the stock moving meaningfully higher from here, what's needed is not more expectations but execution evidence — clinical progress, partnership monetization, and cost control.**
+
+---
+
+*Disclaimer: For research and information purposes only. Not investment advice. Names cited are for analytical illustration; readers should perform their own due diligence and consult licensed advisors before any investment decision.*

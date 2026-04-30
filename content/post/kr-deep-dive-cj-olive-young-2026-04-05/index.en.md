@@ -41,9 +41,9 @@ CJ Corp is the apex holding company of the CJ Group, a Samsung spin-off that has
 
 | Subsidiary | KRX Ticker | Sector | CJ Corp Ownership |
 |---|---|---|---|
-| CJ CheilJedang | 097950.KS | Food & Bio | ~36% |
-| CJ ENM | 035760.KQ | Entertainment / Media | ~43% |
-| CJ Logistics | 000120.KS | Logistics | ~40% |
+| CJ CheilJedang | 097950.KS | Food & Bio | \~36% |
+| CJ ENM | 035760.KQ | Entertainment / Media | \~43% |
+| CJ Logistics | 000120.KS | Logistics | \~40% |
 | CJ Olive Young | Unlisted | Health & Beauty Retail | 100% |
 
 **CJ CheilJedang** is the most visible globally — it owns Bibigo, the Korean food brand now sold in 90+ countries, and operates a growing biologics/amino-acid fermentation business. **CJ ENM** houses tvN, OCN, Mnet, and the studio behind *Parasite* director Bong Joon-ho's production relationships. **CJ Logistics** is Korea's largest parcel delivery operator. But it is **CJ Olive Young**, the only wholly owned and unlisted entity in that table, that has become the focal point for value investors in 2025–2026.
@@ -201,4 +201,4 @@ Investors considering CJ Corp should assess their own view on: (1) the probabili
 
 ---
 
-*Disclaimer: This post is for informational and educational purposes only. It does not constitute investment advice, a solicitation to buy or sell any security, or a recommendation of any kind. The information presented is based on publicly available data and analyst estimates as of the date of publication. Equity investments involve risk, including the potential loss of principal. International investors should be aware of currency risk, regulatory differences, and the specific characteristics of Korean capital markets. Always conduct your own due diligence and consult a licensed financial adviser before making investment decisions.*
+*Disclaimer: For research and information purposes only. Not investment advice. Names cited are for analytical illustration; readers should perform their own due diligence and consult licensed advisors before any investment decision.*

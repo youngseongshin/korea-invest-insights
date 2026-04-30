@@ -68,3 +68,7 @@ SK그룹의 ICT 투자 지주회사로 SK하이닉스 지분을 핵심 자산으
 HBM(고대역폭메모리) 수요 사이클을 배경으로 ROE 44.2%, 영업이익률 48.6%라는 반도체 업종 최고 수준의 수익성 지표를 기록 중이다. RS 퍼센타일 98.2로 시장 내 가격 모멘텀도 최상위권이며, PER 20.8배는 이익 성장 속도를 감안하면 여전히 합리적 밸류에이션으로 평가된다.
 
 > **편집자 노트:** 오늘 퀄리티 컴파운더 리스트에서 두드러지는 공통 분모는 **전력기기·반도체 장비·전자부품** 섹터의 집중이다. 세명전기(017510.KS)의 매출성장 +124.3%, 기가비스(420770.KS)의 +100.8%처럼 세 자릿수 성장 종목이 여럿 포진해 있다는 점은 현재 Bull 레짐 내에서 시장이 어디에 베팅하고 있는지를 명확히 보여준다.
+
+---
+
+*Disclaimer: For research and information purposes only. Not investment advice. Names cited are for analytical illustration; readers should perform their own due diligence and consult licensed advisors before any investment decision.*

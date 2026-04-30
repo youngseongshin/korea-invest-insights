@@ -17,11 +17,11 @@ draft: false
 
 ## 1. Présentation de la société
 
-**Raison sociale :** Kia Corporation (기아주식회사)  
-**Ticker / Bourse :** 000270.KS / KOSPI (Korea Exchange)  
-**Secteur :** Consommation discrétionnaire — Automobiles  
-**Capitalisation boursière :** Environ KRW 25–28 billions (fin avril 2026)  
-**Siège social :** Séoul, Corée du Sud  
+**Raison sociale :** Kia Corporation (기아주식회사)
+**Ticker / Bourse :** 000270.KS / KOSPI (Korea Exchange)
+**Secteur :** Consommation discrétionnaire — Automobiles
+**Capitalisation boursière :** Environ KRW 25–28 billions (fin avril 2026)
+**Siège social :** Séoul, Corée du Sud
 **Groupe d'appartenance :** Hyundai Motor Group (Hyundai Motor détient environ 34 % du capital)
 
 **Résumé en quelques mots :** Kia n'est plus « le Hyundai moins cher ». C'est désormais une marque tournée vers le design et native du tout-électrique, qui a décroché le titre de Voiture Mondiale de l'Année 2022 avec l'EV6, lancé l'imposant EV9 — un grand SUV qui s'attaque au segment premium — et qui ouvre la voie à la catégorie des véhicules à usage spécifique (PBV), susceptibles de définir la mobilité urbaine commerciale de cette décennie. En tant que membre du Hyundai Motor Group — troisième constructeur mondial en volume —, Kia profite d'un R&D mutualisé, de la plateforme EV propriétaire E-GMP et d'une échelle industrielle dont la plupart des pure-players de l'électrique ne peuvent que rêver. Pour les investisseurs internationaux qui recherchent une exposition aux VE sans payer des multiples de 40 à 60 fois les bénéfices, Kia se négocie à une fraction de la valorisation de ses homologues occidentaux.
@@ -57,11 +57,11 @@ Kia génère ses revenus principalement via la **vente de véhicules**, complét
 
 | Région | Part approximative du CA |
 |---|---|
-| Amérique du Nord | ~30 % |
-| Europe | ~20 % |
-| Corée du Sud (marché domestique) | ~15 % |
-| Inde et Asie émergente | ~12 % |
-| Reste du monde | ~23 % |
+| Amérique du Nord | \~30 % |
+| Europe | \~20 % |
+| Corée du Sud (marché domestique) | \~15 % |
+| Inde et Asie émergente | \~12 % |
+| Reste du monde | \~23 % |
 
 La pondération en faveur des États-Unis et de l'Europe est importante : ce sont les marchés à plus fortes marges de Kia. L'Amérique du Nord se distingue particulièrement, portée par le Telluride (un grand SUV premium qui s'affiche bien au-dessus du prix moyen de la marque) et par une gamme VE en pleine expansion.
 
@@ -77,7 +77,7 @@ La pondération en faveur des États-Unis et de l'Europe est importante : ce son
 
 ### Profil de marge
 
-La remontée de la marge opérationnelle de Kia depuis des niveaux proches de zéro pendant la période COVID (2020 : ~3 %) jusqu'aux deux chiffres (2022–2023 : ~10–12 %) est structurelle, non conjoncturelle. Le pouvoir de fixation des prix s'est amélioré à mesure que les marques coréennes ont rompu avec leur réputation de décote par rapport aux constructeurs occidentaux. Le mix VE actuel est dilutif en termes de marge par rapport au thermique à court terme (les coûts de batteries restent élevés), mais la direction de Kia a guidé vers une parité de marge VE/thermique aux alentours de 2026, sous réserve d'une normalisation des coûts de batteries et d'effets d'échelle sur les volumes.
+La remontée de la marge opérationnelle de Kia depuis des niveaux proches de zéro pendant la période COVID (2020 : \~3 %) jusqu'aux deux chiffres (2022–2023 : \~10–12 %) est structurelle, non conjoncturelle. Le pouvoir de fixation des prix s'est amélioré à mesure que les marques coréennes ont rompu avec leur réputation de décote par rapport aux constructeurs occidentaux. Le mix VE actuel est dilutif en termes de marge par rapport au thermique à court terme (les coûts de batteries restent élevés), mais la direction de Kia a guidé vers une parité de marge VE/thermique aux alentours de 2026, sous réserve d'une normalisation des coûts de batteries et d'effets d'échelle sur les volumes.
 
 ---
 
@@ -121,11 +121,11 @@ Fin avril 2026, les métriques de valorisation de Kia (d'après les données KRX
 
 | Indicateur | Kia (000270.KS) | Moyenne des pairs mondiaux* |
 |---|---|---|
-| P/E historique | ~5–6x | ~10–15x |
-| P/E prospectif | ~5–7x | ~9–12x |
-| P/B | ~0,8–1,0x | ~1,5–2,5x |
-| VE/EBITDA | ~3–4x | ~6–8x |
-| Rendement du dividende | ~3–5 % | ~2–3 % |
+| P/E historique | \~5–6x | \~10–15x |
+| P/E prospectif | \~5–7x | \~9–12x |
+| P/B | \~0,8–1,0x | \~1,5–2,5x |
+| VE/EBITDA | \~3–4x | \~6–8x |
+| Rendement du dividende | \~3–5 % | \~2–3 % |
 
 *Les pairs mondiaux incluent Toyota, Stellantis, GM, Ford, Volkswagen Group
 
@@ -172,16 +172,16 @@ Pour une exposition pure au secteur automobile coréen, il n'existe pas d'ETF co
 
 ## Questions fréquentes
 
-**Kia est-il un bon investissement ?**  
+**Kia est-il un bon investissement ?**
 Cette analyse ne formule pas de recommandations d'investissement. Kia constitue une étude de cas d'un constructeur mondialement compétitif se négociant avec une décote par rapport à ses pairs — le caractère justifié ou non de cette décote dépend de la tolérance au risque individuelle, de l'exposition au change et de la vision personnelle sur le calendrier de la transition électrique. Conduisez votre propre analyse à partir des dépôts DART et des données KRX.
 
-**Comment acheter des actions Kia (000270.KS) ?**  
+**Comment acheter des actions Kia (000270.KS) ?**
 L'achat direct nécessite un compte de courtage avec accès à la KRX (Interactive Brokers, Fidelity International, ou des courtiers coréens comme Mirae Asset, Samsung Securities ou Kiwoom). Les ETF tels que EWY ou FLKR offrent une exposition indirecte via des instruments cotés aux États-Unis.
 
-**Kia et Hyundai, c'est la même chose ?**  
+**Kia et Hyundai, c'est la même chose ?**
 Ce sont deux sociétés distinctement cotées sous l'égide du Hyundai Motor Group. Hyundai Motor (005380.KS) détient environ 34 % de Kia. Elles partagent des plateformes (E-GMP), des capacités industrielles et des ressources R&D, mais conservent des identités de marque distinctes et des reportings financiers séparés. Kia est généralement perçue comme la marque au design plus affirmé, avec un positionnement légèrement plus jeune.
 
-**Quel est l'objectif VE de Kia ?**  
+**Quel est l'objectif VE de Kia ?**
 Kia s'est publiquement fixé l'objectif de **1,6 million de ventes annuelles de VE d'ici 2030** et vise une gamme de 15 modèles électriques à l'échelle mondiale à cette date. L'avancement peut être suivi via les publications de ventes trimestrielles sur la KRX et sur le portail IR de Kia.
 
 ---
@@ -196,3 +196,7 @@ Kia s'est publiquement fixé l'objectif de **1,6 million de ventes annuelles de 
 ---
 
 *Cette analyse est fournie à titre informatif uniquement et ne constitue pas un conseil en investissement. Toutes les données financières mentionnées sont issues de dépôts et de données publiquement disponibles à la date des dernières périodes publiées. Les performances passées et les métriques de valorisation actuelles ne préjugent pas des résultats futurs. Les investisseurs sont invités à mener leurs propres recherches et à consulter un conseiller financier qualifié avant toute décision d'investissement.*
+
+---
+
+*Disclaimer: For research and information purposes only. Not investment advice. Names cited are for analytical illustration; readers should perform their own due diligence and consult licensed advisors before any investment decision.*

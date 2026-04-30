@@ -73,4 +73,4 @@ HBM 공급 대장주. ROE 44.1%, 영업이익 YoY +101.2%, 마진 +13.1pp. 6개 
 
 ---
 
-*본 분석은 투자 권유가 아닙니다. 스크리너 발굴 후 반드시 개별 기업의 재무·공시·리스크를 직접 확인하십시오.*
+*Disclaimer: For research and information purposes only. Not investment advice. Names cited are for analytical illustration; readers should perform their own due diligence and consult licensed advisors before any investment decision.*

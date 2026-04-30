@@ -39,9 +39,9 @@ tags: ["hanwha-engine", "082740", "hanwha-group", "造船", "船用发动机", "
 | 期间 | 营收 | 营业利润 | OPM |
 |---|---:|---:|---:|
 | **2026 年一季度** | ₩345.2B | ₩51.4B | **14.9%** |
-| **2026E** | ₩1,560B | ₩273.8B | ~17.5% |
-| **2027E** | ₩1,900B | ₩406.9B | ~21.4% |
-| **2028E** | ₩2,530B | ₩573.8B | ~22.7% |
+| **2026E** | ₩1,560B | ₩273.8B | \~17.5% |
+| **2027E** | ₩1,900B | ₩406.9B | \~21.4% |
+| **2028E** | ₩2,530B | ₩573.8B | \~22.7% |
 
 每股收益路径（Meritz Securities 估算）：
 
@@ -333,4 +333,4 @@ Hanwha Engine 尚未披露任何四冲程数据中心电力正式订单。卖方
 
 ---
 
-**免责声明**：本文为研究性评述，不构成投资建议。估算框架来源于公开卖方研究资料（Meritz Securities）及行业披露（Wärtsilä、HD Hyundai Heavy、Hanwha Energy USA 平台页面）；准确性取决于上述底层来源。所引代码仅为重新估值框架的说明，不构成投资推荐。在做出任何投资决策前，请进行独立尽职调查并咨询持牌顾问。
+*Disclaimer: For research and information purposes only. Not investment advice. Names cited are for analytical illustration; readers should perform their own due diligence and consult licensed advisors before any investment decision.*

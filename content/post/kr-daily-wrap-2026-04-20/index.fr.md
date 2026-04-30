@@ -75,3 +75,7 @@ VIX à 19,5 — en hausse de +6,3 % sur 5 jours mais toujours sous le seuil d'al
 ---
 
 *Sources : macro-regime-verdict v2, KR_PEAD_Engine — données au 20 avril 2026 16h09 KST. Ce document est fourni à titre informatif uniquement et ne constitue pas un conseil en investissement.*
+
+---
+
+*Disclaimer: For research and information purposes only. Not investment advice. Names cited are for analytical illustration; readers should perform their own due diligence and consult licensed advisors before any investment decision.*

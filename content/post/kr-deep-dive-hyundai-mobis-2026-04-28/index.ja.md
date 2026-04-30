@@ -174,4 +174,4 @@ KOSPI大型株としての地位から、現代モービスはグローバル上
 
 ---
 
-*本分析は情報提供のみを目的としており、投資助言を構成するものではありません。すべての財務数値は最新のDART開示資料および会社の公式情報と照合のうえ独自に確認してください。外国株式への投資には為替リスク、規制リスク、市場リスクが伴います。過去のパフォーマンスは将来の結果を保証するものではありません。*
+*Disclaimer: For research and information purposes only. Not investment advice. Names cited are for analytical illustration; readers should perform their own due diligence and consult licensed advisors before any investment decision.*

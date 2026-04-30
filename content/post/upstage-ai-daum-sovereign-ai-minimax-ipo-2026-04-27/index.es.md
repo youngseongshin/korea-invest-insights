@@ -667,4 +667,4 @@ Solo cuando ambos libros mejoran al mismo tiempo funciona la tesis completa de r
 
 ---
 
-*Aviso legal: Solo con fines de investigación e información. No constituye asesoramiento de inversión. Los nombres citados son a efectos de ilustración analítica; los lectores deben realizar su propia diligencia debida y consultar con asesores autorizados antes de tomar cualquier decisión de inversión.*
+*Disclaimer: For research and information purposes only. Not investment advice. Names cited are for analytical illustration; readers should perform their own due diligence and consult licensed advisors before any investment decision.*

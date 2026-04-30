@@ -91,3 +91,7 @@ Nhà sản xuất kết cấu thép và sản phẩm kim loại công nghiệp v
 ---
 
 *Phân tích trên chỉ mang tính thông tin thị trường. Không phải khuyến nghị đầu tư cá nhân.*
+
+---
+
+*Disclaimer: For research and information purposes only. Not investment advice. Names cited are for analytical illustration; readers should perform their own due diligence and consult licensed advisors before any investment decision.*

@@ -15,8 +15,8 @@ series: ["semiscope-2026"]
 
 ## Related Reading
 
-- [SemiScope: OpenEdges Technology - Korea's Memory Subsystem IP Platform With a Royalty J-Curve Option](/en/post/semiscope-openedges-technology-ip-platform-2026-04-25/)
-- [SemiScope: Three Korean Memory ATE & IP Names Re-Ranked - Why Exicon is the 2026 J-Curve Trade, Not the Afterthought](/en/post/semiscope-neosem-exicon-openedge-rerank-2026-04-25/)
+- [SemiScope: OpenEdges Technology - Korea's Memory Subsystem IP Platform With a Royalty J-Curve Option](/post/semiscope-openedges-technology-ip-platform-2026-04-25/)
+- [SemiScope: Three Korean Memory ATE & IP Names Re-Ranked - Why Exicon is the 2026 J-Curve Trade, Not the Afterthought](/post/semiscope-neosem-exicon-openedge-rerank-2026-04-25/)
 
 ---
 
@@ -352,5 +352,7 @@ At KRW 500B+ market capitalization and roughly 17x 2026F sales, the stock alread
 - DigitalToday coverage on OpenEdges Square capital increase and ownership change: [OpenEdges Technology participates in OpenEdges Square capital increase](https://www.digitaltoday.co.kr/news/articleView.html?idxno=611992).
 - Design-Reuse coverage on LPDDR6/5X commercialization: [OpenEdges advances commercialization of LPDDR6/5X Memory Subsystem IP](https://www.design-reuse.com/news/202530336-openedges-advances-commercialization-of-lpddr6-5x-memory-subsystem-ip-targeting-next-generation-ai-and-hpc-markets/).
 - Market snapshot used for valuation reference: [Maeil Business stock page for OpenEdges Technology](https://stock.mk.co.kr/price/home/KR7394280002).
+
+---
 
 *Disclaimer: For research and information purposes only. Not investment advice. Names cited are for analytical illustration; readers should perform their own due diligence and consult licensed advisors before any investment decision.*

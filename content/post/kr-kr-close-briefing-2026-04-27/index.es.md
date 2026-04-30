@@ -28,7 +28,7 @@ Un dato que los inversores extranjeros deben vigilar: a pesar del alza de precio
 
 ## Hanwha Engine: La Gran Sorpresa del Trimestre
 
-Si los semiconductores fueron el tema macro del día, **Hanwha Engine (082740.KS)** fue la historia corporativa. La compañía, fabricante surcoreano de motores de baja velocidad para buques metaneros (LNGC) y uno de los proveedores clave de la industria naval global, publicó resultados del primer trimestre de 2026 que superaron el consenso en un **15%**, con un beneficio operativo de **51.400 millones de won** (~35 millones de dólares).
+Si los semiconductores fueron el tema macro del día, **Hanwha Engine (082740.KS)** fue la historia corporativa. La compañía, fabricante surcoreano de motores de baja velocidad para buques metaneros (LNGC) y uno de los proveedores clave de la industria naval global, publicó resultados del primer trimestre de 2026 que superaron el consenso en un **15%**, con un beneficio operativo de **51.400 millones de won** (\~35 millones de dólares).
 
 La acción respondió con un alza del **+16.5% en una sola sesión**, acumulando un asombroso **+63% en cinco días**. SK Securities revisó al alza su precio objetivo desde 72.000 won hasta **100.000 won**, subrayando dos catalizadores estructurales: la mejora de márgenes en motores de baja velocidad para LNGC (del rango alto de un dígito al rango medio de dos dígitos), y las primeras consultas de pedido relacionadas con **motores de cuatro tiempos para centros de datos estadounidenses**. Este último punto es especialmente relevante: conecta la demanda de infraestructura de IA en Estados Unidos con la cadena de valor industrial coreana en un vector que pocos analistas tenían en sus modelos.
 
@@ -48,7 +48,7 @@ En el segmento de robótica, **Roboits (108490.KS)** —fabricante de actuadores
 
 Dos valores de mediana capitalización mostraron señales cuantitativas llamativas:
 
-- **Hanmi Semiconductor (042700.KS)**, fabricante de equipos de encapsulado para chips HBM, registró un volumen de negociación **5.9 veces superior** a su media, una puntuación de score cuantitativo de **0.899** y una fuerza relativa de **97.5**. El detonante adicional: el CEO de la compañía comunicó la adquisición de acciones propias por valor de **3.000 millones de won** (~2 millones de dólares), señal de confianza interna en el momento actual del ciclo. La acción subió más del **+26%**, por lo que la entrada directa requiere esperar una consolidación.
+- **Hanmi Semiconductor (042700.KS)**, fabricante de equipos de encapsulado para chips HBM, registró un volumen de negociación **5.9 veces superior** a su media, una puntuación de score cuantitativo de **0.899** y una fuerza relativa de **97.5**. El detonante adicional: el CEO de la compañía comunicó la adquisición de acciones propias por valor de **3.000 millones de won** (\~2 millones de dólares), señal de confianza interna en el momento actual del ciclo. La acción subió más del **+26%**, por lo que la entrada directa requiere esperar una consolidación.
 
 - **Jeju Semiconductor**, un fabricante especializado de chips de memoria de nicho, apareció como candidato satélite en el ecosistema HBM con un RS de **96.7** y volumen **4.4 veces** su media histórica.
 
@@ -81,4 +81,4 @@ El mercado coreano cerró el 27 de abril lanzando una señal clara: el régimen 
 
 ---
 
-*Los datos de flujo de inversores son los más recientes disponibles con corte al 24 de abril de 2026 según registros de KRX. Los precios de cierre corresponden a las 14:20 hora de Seúl (KST). Este análisis tiene carácter informativo y no constituye asesoramiento de inversión.*
+*Disclaimer: For research and information purposes only. Not investment advice. Names cited are for analytical illustration; readers should perform their own due diligence and consult licensed advisors before any investment decision.*

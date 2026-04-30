@@ -78,4 +78,4 @@ La gestión del riesgo en este entorno requiere monitorizar de cerca los flujos 
 
 ---
 
-*Los datos de flujos de capital referenciados corresponden a información publicada por Korea JoongAng Daily con fuente KRX (marzo 2026). Los datos técnicos de precios y volumen mencionados corresponden al snapshot del 10 de abril de 2026. Este artículo tiene carácter informativo y no constituye asesoramiento de inversión.*
+*Disclaimer: For research and information purposes only. Not investment advice. Names cited are for analytical illustration; readers should perform their own due diligence and consult licensed advisors before any investment decision.*

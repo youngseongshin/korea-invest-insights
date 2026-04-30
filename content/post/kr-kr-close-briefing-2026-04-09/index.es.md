@@ -79,3 +79,7 @@ El mercado de valores coreano el 9 de abril de 2026 no ofreció señales de entr
 Para los inversores internacionales con interés en el mercado coreano, las preguntas clave para las próximas sesiones son: ¿recupera Samsung Electronics su papel de ancla alcista? ¿Mantiene Samsung Electro-Mechanics su fortaleza relativa sin necesidad de perseguirla en sobrecompra? ¿Confirma SK Telecom su nuevo nivel de soporte? Las respuestas determinarán si el KOSPI retoma una tendencia de expansión de calidad o consolida en modo defensivo durante más tiempo.
 
 *Los datos de flujos de inversores hacen referencia a la sesión del 8 de abril de 2026 según registros de KRX. Los precios corresponden al cierre del 9 de abril de 2026.*
+
+---
+
+*Disclaimer: For research and information purposes only. Not investment advice. Names cited are for analytical illustration; readers should perform their own due diligence and consult licensed advisors before any investment decision.*

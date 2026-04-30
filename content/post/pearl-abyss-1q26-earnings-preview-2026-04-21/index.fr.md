@@ -30,7 +30,7 @@ draft: false
 ## En bref
 
 - **Estimation centrale** : CA consolidé 1T26 Pearl Abyss **KRW 395,0G**, résultat opérationnel **KRW 205,0G**, marge opérationnelle **51,9 %**.
-- **Logique centrale** : Au regard du titre officiel « 4 millions d'unités au 1er avril », le nombre d'unités comptabilisées en 1T est le plus raisonnablement estimé à **~3,95 millions**, et l'IP historique (BDO + EVE) se situe autour de **KRW 97,0G**, reflétant la base stable observée au 4T25. Mais la vraie variable d'ajustement du 1T26 n'est pas le nombre d'unités — c'est le **cadre de reconnaissance des revenus (principal vs. agent), le prix de vente moyen réalisé, et les lignes marketing / commissions**.
+- **Logique centrale** : Au regard du titre officiel « 4 millions d'unités au 1er avril », le nombre d'unités comptabilisées en 1T est le plus raisonnablement estimé à **\~3,95 millions**, et l'IP historique (BDO + EVE) se situe autour de **KRW 97,0G**, reflétant la base stable observée au 4T25. Mais la vraie variable d'ajustement du 1T26 n'est pas le nombre d'unités — c'est le **cadre de reconnaissance des revenus (principal vs. agent), le prix de vente moyen réalisé, et les lignes marketing / commissions**.
 - **Incertitude clé** : Tant que les notes aux états financiers du 1T26 ne confirment pas le traitement principal/agent, le mix plateforme effectif et les dépenses marketing réelles, l'estimation conserve des marges d'erreur. Il s'agit du **scénario central le plus défendable pour une diffusion externe**, et non d'une prévision ponctuelle.
 
 ---
@@ -81,9 +81,9 @@ Par rapport au chiffre officiel de 4M au 1er avril, placer les ventes cumulées 
 
 Aucune communication n'existe à ce sujet. C'est l'hypothèse la plus contestée. Les données de classement PS Store militent pour une pondération console plus élevée ; le CCU SteamDB et le volume d'avis militent pour une pondération PC plus élevée. Plutôt que de trancher, le scénario central retient **PC 52 % / Console 48 %** — suffisant pour respecter le « probable PC dominant » sans écarter le « signal console fort ».
 
-### 3.3 Prix de vente moyen réalisé (base comptable) : **~KRW 79 800**
+### 3.3 Prix de vente moyen réalisé (base comptable) : **\~KRW 79 800**
 
-Le cadre tout-brut agressif place le PSV à **KRW 83 500**. La vue conservative à reconnaissance mixte fait descendre le PSV réalisé dans les **bas KRW 70 000**. Le scénario central n'est ni l'un ni l'autre : en pondérant les unités, le mix plateforme et la tarification régionale, **~KRW 79 800** (≈KRW 80 000) — « conserver une posture de revenus déclarés proche du brut, sans retenir les KRW 83 500 en totalité ».
+Le cadre tout-brut agressif place le PSV à **KRW 83 500**. La vue conservative à reconnaissance mixte fait descendre le PSV réalisé dans les **bas KRW 70 000**. Le scénario central n'est ni l'un ni l'autre : en pondérant les unités, le mix plateforme et la tarification régionale, **\~KRW 79 800** (≈KRW 80 000) — « conserver une posture de revenus déclarés proche du brut, sans retenir les KRW 83 500 en totalité ».
 
 ### 3.4 Revenus IP historiques : **KRW 97,0G**
 
@@ -99,7 +99,7 @@ C'est le principal facteur d'ajustement du résultat opérationnel. Une hypothè
 
 ### 3.7 Commissions : **KRW 76,0G**
 
-Cette ligne varie fortement selon le cadre de reconnaissance. En tout-brut, elle peut atteindre KRW 87,5G ; en reconnaissance mixte plus prononcée, elle tombe à ~KRW 70,0G. Point crucial : **l'impact sur le résultat opérationnel est partiellement compensé par le choix de reconnaissance des revenus** — commissions et revenus déclarés évoluent ensemble. Scénario central : **KRW 76,0G**, entre les vues tout-brut et mixte.
+Cette ligne varie fortement selon le cadre de reconnaissance. En tout-brut, elle peut atteindre KRW 87,5G ; en reconnaissance mixte plus prononcée, elle tombe à \~KRW 70,0G. Point crucial : **l'impact sur le résultat opérationnel est partiellement compensé par le choix de reconnaissance des revenus** — commissions et revenus déclarés évoluent ensemble. Scénario central : **KRW 76,0G**, entre les vues tout-brut et mixte.
 
 ### 3.8 Amortissements + autres : **KRW 32,0G**
 
@@ -122,7 +122,7 @@ Cette ligne varie fortement selon le cadre de reconnaissance. En tout-brut, elle
 - IP historiques : KRW 97,0G
 - **Calculé : KRW 412,2G**
 
-Pour un scénario central partageable en externe, **une marge de sécurité de ~KRW 17,2G** est soustraite pour refléter le rythme de clôture au 31 mars et l'incertitude sur le traitement principal/agent :
+Pour un scénario central partageable en externe, **une marge de sécurité de \~KRW 17,2G** est soustraite pour refléter le rythme de clôture au 31 mars et l'incertitude sur le traitement principal/agent :
 
 → **KRW 412,2G calculé → KRW 395,0G scénario central**
 
@@ -166,7 +166,7 @@ Le tout-brut est simple et facile à expliquer, mais agressif. La reconnaissance
 
 ### 5.3 Le résultat opérationnel dépasse KRW 200G, mais KRW 225G reste la zone haute
 
-Les scénarios de base agressifs des projets internes avoisinent KRW 223G ; un calcul externe atteint KRW 225,8G mais tombe à **~KRW 210G** après ajustement du risque. Une lecture purement conservative à KRW 195,0G n'est pas fausse, mais représente le plancher. La **valeur centrale la plus défendable est proche de KRW 205G**.
+Les scénarios de base agressifs des projets internes avoisinent KRW 223G ; un calcul externe atteint KRW 225,8G mais tombe à **\~KRW 210G** après ajustement du risque. Une lecture purement conservative à KRW 195,0G n'est pas fausse, mais représente le plancher. La **valeur centrale la plus défendable est proche de KRW 205G**.
 
 ---
 
@@ -213,3 +213,7 @@ Ce chiffre s'appuie sur les deux jalons officiels de Crimson Desert (4M au 1er a
 ---
 
 *Ce contenu est uniquement à titre informatif et analytique, et ne constitue pas un conseil en investissement. Les positions peuvent évoluer sans préavis. Données au 21 avril 2026 KST.*
+
+---
+
+*Disclaimer: For research and information purposes only. Not investment advice. Names cited are for analytical illustration; readers should perform their own due diligence and consult licensed advisors before any investment decision.*

@@ -38,7 +38,7 @@ draft: false
 - **Năm tháng tăng liên tiếp** kể từ đáy tháng 11/2025 ở mức 15.785
 - **Bình quân tháng 3/2026: 21.969 — mức cao nhất 3 năm**, trùng với tháng ra mắt Crimson Desert
 - Ba giả thuyết về nguyên nhân: (1) hiệu ứng lan toa nhận thức thương hiệu Pearl Abyss (lượng tìm kiếm đỉnh tăng +112%), (2) người dùng cũ quay lại, (3) hiệu ứng hào quang từ chi phí marketing cho Crimson Desert
-- Theo khung phân tích này, ước tính doanh thu BDO 2026E hiện ở mức ~315 tỷ KRW có thể cần điều chỉnh lên **380–400 tỷ KRW** — một khoảng chênh lệch mà hầu hết mô hình sell-side chưa lấp đầy
+- Theo khung phân tích này, ước tính doanh thu BDO 2026E hiện ở mức \~315 tỷ KRW có thể cần điều chỉnh lên **380–400 tỷ KRW** — một khoảng chênh lệch mà hầu hết mô hình sell-side chưa lấp đầy
 
 ---
 
@@ -173,8 +173,8 @@ Tính đến 15h KST ngày 20/4/2026 (Top Seller Top 200 trên Steam, theo từn
 
 Tài chính 2025 của Pearl Abyss khép lại với **doanh thu 365,6 tỷ KRW** và lỗ hoạt động **-14,8 tỷ KRW**. Phân tách doanh thu theo tựa game theo giả định chuẩn ngành:
 
-- **BDO**: ~315 tỷ KRW (OPM ước tính ~38%)
-- **EVE Online**: ~75 tỷ KRW (OPM ước tính ~40%, bao gồm expansion Catalyst)
+- **BDO**: \~315 tỷ KRW (OPM ước tính \~38%)
+- **EVE Online**: \~75 tỷ KRW (OPM ước tính \~40%, bao gồm expansion Catalyst)
 
 Nếu CCU Steam của BDO trong 2026 đang theo dõi ở mức +40% YoY, khung đồng thuận hiện tại — vốn thường giả định **doanh thu BDO đi ngang đến giảm nhẹ** khi game trưởng thành — trở nên mâu thuẫn nội tại với dữ liệu quan sát được. Trong khung này, các kịch bản sau xuất hiện:
 
@@ -200,7 +200,7 @@ Với xác nhận từ xếp hạng doanh số khu vực được chồng lên d
 
 ### Tái Hiệu Chỉnh Giá Trị Hợp Lý
 
-Áp dụng P/E bình quân ngành game Hàn Quốc ~12x:
+Áp dụng P/E bình quân ngành game Hàn Quốc \~12x:
 
 - **Giá trị hợp lý cũ**: 4.310 KRW × 12 = **51.720 KRW**
 - **Giá trị hợp lý phản ánh dữ liệu**: 4.891 KRW × 12 = **58.690 KRW**
@@ -284,3 +284,7 @@ Nếu doanh thu BDO Q1 cho thấy tăng trưởng YoY dưới +10% dù CCU thán
 ## ⚠️ Tuyên Bố Miễn Trách
 
 Bài viết này là phân tích diễn giải thị trường dựa trên dữ liệu có sẵn công khai. Bài viết không cấu thành tư vấn đầu tư, chào mời, hay khuyến nghị mua bán bất kỳ chứng khoán nào. Pearl Abyss (263750.KQ) được đề cập thuần túy cho mục đích phân tích và thông tin. Tất cả các ước tính số liệu — bao gồm các kịch bản doanh thu 2026E, EPS tái ước tính, và tính toán giá trị hợp lý — là phân tích khung độc lập, không phải hướng dẫn chính thức của Pearl Abyss. Các ước tính sell-side và tính toán giá trị hợp lý được trích dẫn phản ánh số liệu có sẵn tính đến thời điểm tổng hợp và có thể đã được điều chỉnh kể từ đó. Xu hướng CCU trong quá khứ và hệ số P/E lịch sử của ngành không đảm bảo kết quả trong tương lai. Mọi quyết định đầu tư đều tiềm ẩn rủi ro, bao gồm rủi ro mất toàn bộ vốn. Độc giả nên tự thực hiện nghiên cứu độc lập và tham khảo các chuyên gia tư vấn tài chính có chuyên môn trước khi đưa ra bất kỳ quyết định đầu tư nào.
+
+---
+
+*Disclaimer: For research and information purposes only. Not investment advice. Names cited are for analytical illustration; readers should perform their own due diligence and consult licensed advisors before any investment decision.*

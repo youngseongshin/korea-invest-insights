@@ -76,3 +76,7 @@ Today's universe: 2,722 Korean listed names screened down to **20 top candidates
 ---
 
 *Data as of 2026-04-21 16:09 KST. Screener scores are quantitative signals, not investment recommendations. Always verify fundamentals independently.*
+
+---
+
+*Disclaimer: For research and information purposes only. Not investment advice. Names cited are for analytical illustration; readers should perform their own due diligence and consult licensed advisors before any investment decision.*

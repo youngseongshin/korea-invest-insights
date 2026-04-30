@@ -27,7 +27,7 @@ Samsung Heavy Industries (삼성중공업, ticker **010140.KS**, KOSPI) is not t
 | Headquarters | Geoje, South Korea |
 | Founded | 1974 |
 | Key Products | LNG carriers, FLNG plants, drillships, LNG-FSRU, icebreaking tankers, ultra-large container ships |
-| FY2024 Revenue | ~KRW 9.9 trillion (~USD 7.1 billion) |
+| FY2024 Revenue | \~KRW 9.9 trillion (\~USD 7.1 billion) |
 | Controlling Shareholder | Samsung C&T (삼성물산) |
 
 **Elevator pitch:** Samsung Heavy Industries (SHI) is one of only three shipyards on the planet capable of building the world's largest and most complex floating energy infrastructure — Floating Liquefied Natural Gas (FLNG) plants that sit offshore and convert raw wellhead gas into exportable LNG. While HD Hyundai and Hanwha Ocean (formerly Daewoo) compete for volume, SHI has carved out a near-monopoly in the most technically demanding and highest-margin corner of the shipbuilding market. As global LNG trade expands toward 700 million tonnes per annum by 2040 (per Shell's LNG Outlook), every new liquefaction project, every aging LNG carrier that needs replacing, and every offshore gas field that needs monetising is a potential order for Samsung Heavy Industries.
@@ -77,7 +77,7 @@ SHI's business model is simple to describe and difficult to execute: it takes or
 | Segment | Revenue (KRW bn) | Share |
 |---|---|---|
 | Shipbuilding & Marine | 7,511 | 96.2% |
-| — of which: Export | 7,592 (full Q3 YTD per ship/platform category) | ~97% |
+| — of which: Export | 7,592 (full Q3 YTD per ship/platform category) | \~97% |
 | Construction (토건) | 301 | 3.8% |
 | **Total YTD (9M 2025)** | **7,812** | **100%** |
 
@@ -86,7 +86,7 @@ The construction segment (domestic civil engineering contracts) is essentially a
 **Full-Year Revenue Trajectory:**
 - FY2023 (제50기): KRW 8.0 trillion
 - FY2024 (제51기): KRW 9.9 trillion (+24% YoY)
-- FY2025 (제52기, estimated): ~KRW 10.8 trillion (~+9% YoY based on 9M actuals plus Q4 estimates)
+- FY2025 (제52기, estimated): \~KRW 10.8 trillion (\~+9% YoY based on 9M actuals plus Q4 estimates)
 
 *Source: DART semi-annual and quarterly filings (반기보고서 2025.06, 분기보고서 2025.09); Q4 2025 preliminary figures per LS Securities research*
 
@@ -212,4 +212,4 @@ For international investors looking at the Korean Shipbuilding Renaissance, Sams
 
 ---
 
-> **Disclaimer:** This analysis is for informational purposes only and does not constitute investment advice. Past performance is not indicative of future results. Investing in foreign equities involves currency risk, liquidity risk, and regulatory risk. Please consult a licensed financial advisor before making investment decisions.
+*Disclaimer: For research and information purposes only. Not investment advice. Names cited are for analytical illustration; readers should perform their own due diligence and consult licensed advisors before any investment decision.*

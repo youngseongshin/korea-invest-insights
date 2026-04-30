@@ -83,3 +83,7 @@ Two questions will define whether the April 27 rally extends or consolidates:
 The broader KOSPI market structure remains constructive: above-average breadth, institutional and foreign co-buying in the morning session, and a screener passing count of 211 names suggest the risk-on regime has not exhausted itself. The near-term tactical question is whether the stocks that led today — up 16% to 26% on the session — have left room for new entrants, or whether the better trade is to let price digest before the next leg.
 
 *Market data references KRX closing figures and KRX institutional flow data as of April 24–27, 2026. Company financials sourced from DART (Data Analysis, Retrieval and Transfer system) disclosures and broker research notes cited within the text.*
+
+---
+
+*Disclaimer: For research and information purposes only. Not investment advice. Names cited are for analytical illustration; readers should perform their own due diligence and consult licensed advisors before any investment decision.*

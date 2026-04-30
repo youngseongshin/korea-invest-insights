@@ -239,4 +239,4 @@ AI服务器电源、网络及存储周边MLCC内容量
 
 ---
 
-*本文仅为研究与评论性内容，不构成投资建议。持仓可能随时变动，恕不另行通知。数据截至2026年4月30日（韩国标准时间）。*
+*Disclaimer: For research and information purposes only. Not investment advice. Names cited are for analytical illustration; readers should perform their own due diligence and consult licensed advisors before any investment decision.*

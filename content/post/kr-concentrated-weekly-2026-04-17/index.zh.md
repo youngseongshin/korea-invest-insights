@@ -89,3 +89,7 @@ draft: false
 在美联储与韩国央行均处于利率高位的背景下，流动性驱动的普涨行情空间有限。当前市场奖励的是那些能够在AI需求结构性增长中提供真实盈利能见度的公司——三星电子（半导体）、三星电机（封装/车载）、Marvell（AI芯片基础设施）和Meta（广告AI）构成了这一逻辑链条的四个节点。
 
 **为关注韩国科技股的国际投资者而言**，2026年4月29日三星电子业绩日是当前最值得重点跟踪的事件窗口。届时的营收指引质量，将为整个KOSPI科技板块的短期定价提供重要参考坐标。
+
+---
+
+*Disclaimer: For research and information purposes only. Not investment advice. Names cited are for analytical illustration; readers should perform their own due diligence and consult licensed advisors before any investment decision.*

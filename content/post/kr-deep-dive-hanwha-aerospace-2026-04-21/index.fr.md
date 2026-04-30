@@ -173,3 +173,7 @@ Le K9 Thunder (K9 자주포) est un obusier automoteur de 155 mm/52 calibres dé
 ---
 
 *Cette analyse est fournie à titre purement informatif et ne constitue pas un conseil en investissement. Les performances passées ne préjugent pas des résultats futurs. Les investisseurs sont invités à effectuer leurs propres vérifications et à consulter un conseiller financier qualifié avant toute décision d'investissement. Les données financières mentionnées reflètent les informations publiquement disponibles aux dates des dernières périodes publiées ; les lecteurs doivent vérifier l'ensemble des chiffres auprès des derniers dépôts DART et des publications officielles de l'entreprise.*
+
+---
+
+*Disclaimer: For research and information purposes only. Not investment advice. Names cited are for analytical illustration; readers should perform their own due diligence and consult licensed advisors before any investment decision.*

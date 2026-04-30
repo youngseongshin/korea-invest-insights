@@ -54,7 +54,7 @@ La vraie question n'est donc plus *« SK Telecom est-elle une bonne entreprise ?
 | Élément | Confirmé | Lecture investissement |
 |---|---|---|
 | Cours spot | ₩100 000 (2026-04-24) | Déjà dans la zone des plus hauts sur 52 semaines. Risque réel de chasser les cours. |
-| Nombre d'actions | 214 790 053 | Capitalisation ~₩21,48T au cours spot. |
+| Nombre d'actions | 214 790 053 | Capitalisation \~₩21,48T au cours spot. |
 | Résultats 2025 | CA ₩17,0992T / RO ₩1,0732T / RN ₩375,1B | Base abaissée par le piratage + éléments exceptionnels. Marge de normalisation en 2026. |
 | DPS 2025 | ₩1 660 | Forte baisse par rapport à ₩3 540 en 2024. Reprise du dividende = 1er déclencheur. |
 | AI Infrastructure Superhighway | AIDC / GPUaaS / Edge AI (trois axes) | SKT se positionne officiellement en tant qu'opérateur d'infrastructure IA. |
@@ -241,7 +241,7 @@ Capitalisation = cours × actions
 
 | Composante de valeur | Scénario conservateur | Scénario haussier | Confirmation requise |
 |---|---|---|---|
-| Normalisation du dividende | Soutien plancher | Rotation flux télécoms | DPS 2026 ~₩3 540 |
+| Normalisation du dividende | Soutien plancher | Rotation flux télécoms | DPS 2026 \~₩3 540 |
 | AIDC / GPUaaS | ₩1,0–1,6T | ₩2,5T+ | Croissance CA, marge, contrats clients |
 | Participation Anthropic | ₩1,0–2,0T | ₩3,0T+ | % participation, dilution, IPO / nouveau tour |
 | Edge AI / AI-RAN / Network API | ₩0,3–1,0T | ₩2,5T+ | PoC payant, facturation API, économies RAN |
@@ -370,3 +370,7 @@ Verdict, en résumé : **les positions existantes peuvent être conservées ; co
 ---
 
 **Avertissement** : Cet article est un commentaire de recherche, non un conseil en investissement. Les positions, conditions et niveaux de cours peuvent évoluer à mesure que de nouvelles données arrivent. Faites votre propre analyse.
+
+---
+
+*Disclaimer: For research and information purposes only. Not investment advice. Names cited are for analytical illustration; readers should perform their own due diligence and consult licensed advisors before any investment decision.*

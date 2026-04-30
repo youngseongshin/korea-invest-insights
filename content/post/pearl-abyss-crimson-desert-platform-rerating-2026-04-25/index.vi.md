@@ -291,4 +291,4 @@ Pearl Abyss đang ở ranh giới đó ngay bây giờ. Thị trường vẫn đ
 
 ---
 
-**Tuyên bố miễn trừ trách nhiệm**: Bài viết này là bình luận nghiên cứu, không phải lời khuyên đầu tư. Pearl Abyss được theo dõi như một phần trong chuỗi luận điểm đang triển khai của tác giả. Các vị thế, điều kiện, và mức giá có thể thay đổi khi có dữ liệu mới. Hãy tự thực hiện nghiên cứu của bạn.
+*Disclaimer: For research and information purposes only. Not investment advice. Names cited are for analytical illustration; readers should perform their own due diligence and consult licensed advisors before any investment decision.*

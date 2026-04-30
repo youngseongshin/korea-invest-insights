@@ -213,3 +213,7 @@ Crimson Desertは**2026年3月20日**に発売され、パール・アビスは*
 ---
 
 *本稿はリサーチおよびコメンタリーであり、投資アドバイスではありません。ポジションは予告なく変更される可能性があります。データは2026年4月21日 KST時点のものです。*
+
+---
+
+*Disclaimer: For research and information purposes only. Not investment advice. Names cited are for analytical illustration; readers should perform their own due diligence and consult licensed advisors before any investment decision.*

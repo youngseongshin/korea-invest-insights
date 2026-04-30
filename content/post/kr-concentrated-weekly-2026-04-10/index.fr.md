@@ -89,3 +89,7 @@ L'environnement de marché du 10 avril 2026 plaide pour une approche concentrée
 En résumé : **Samsung Electronics et Samsung Electro-Mechanics** offrent l'exposition la plus directe à la thématique IA en Corée du Sud ; Marvell Technology complète cette vue par l'aval de la chaîne de valeur infrastructure. SK Telecom apporte de la résilience. La sélectivité, et non la diversification à tout prix, reste la règle d'or dans ce régime de marché.
 
 *Sources : Korea JoongAng Daily, KRX, Banque de Corée, Federal Reserve, FRED, DART.*
+
+---
+
+*Disclaimer: For research and information purposes only. Not investment advice. Names cited are for analytical illustration; readers should perform their own due diligence and consult licensed advisors before any investment decision.*

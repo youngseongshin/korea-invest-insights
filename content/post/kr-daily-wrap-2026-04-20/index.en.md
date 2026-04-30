@@ -84,4 +84,4 @@ SK Square is the investment holding company spun off from SK Telecom in 2021, wi
 
 ---
 
-*All data as of 2026-04-20 close. Screener generated at 16:09 KST by KR_PEAD_Engine. This post is market analysis, not investment advice.*
+*Disclaimer: For research and information purposes only. Not investment advice. Names cited are for analytical illustration; readers should perform their own due diligence and consult licensed advisors before any investment decision.*

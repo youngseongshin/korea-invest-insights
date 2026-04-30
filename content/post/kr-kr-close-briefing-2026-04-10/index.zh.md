@@ -117,4 +117,4 @@ SK电讯是韩国最大的移动运营商，通常被归为防御型资产，但
 
 ---
 
-*数据来源：KRX（韩国交易所）成交数据、各券商研究报告（韩亚证券、NH投资证券、未来资产证券）、DART上市公司披露系统。本文仅供参考，不构成投资建议。*
+*Disclaimer: For research and information purposes only. Not investment advice. Names cited are for analytical illustration; readers should perform their own due diligence and consult licensed advisors before any investment decision.*

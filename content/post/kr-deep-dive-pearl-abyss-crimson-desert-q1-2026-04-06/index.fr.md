@@ -52,11 +52,11 @@ L'effet de change a contribué de manière significative. Le taux USD/KRW moyen 
 
 | Date | Ventes cumulées | Pic CCU Steam | Contexte |
 |---|---|---|---|
-| 20 mars (Lancement) | ~2M | 239 405 | Record pour un titre solo payant coréen |
-| 24 mars (J+4) | ~3M | — | Point d'équilibre estimé des coûts de développement |
-| 30 mars (J+10) | ~3,7M | 276 261 (pic absolu) | Hausse des simultanés après correctif |
+| 20 mars (Lancement) | \~2M | 239 405 | Record pour un titre solo payant coréen |
+| 24 mars (J+4) | \~3M | — | Point d'équilibre estimé des coûts de développement |
+| 30 mars (J+10) | \~3,7M | 276 261 (pic absolu) | Hausse des simultanés après correctif |
 | 1er avril (J+12) | 4M | — | Confirmation officielle du PDG |
-| 6 avril (situation actuelle) | ~4,3–4,5M est. | — | PDG : « cap sur les 5M » |
+| 6 avril (situation actuelle) | \~4,3–4,5M est. | — | PDG : « cap sur les 5M » |
 
 Deux éléments de contexte méritent l'attention des investisseurs internationaux.
 
@@ -111,16 +111,16 @@ Au cours de clôture du 2 avril 2026 de ₩66 200 (le point de données le plus 
 
 Scénario de base : RO FY2026E de ₩420B à 14x PER → juste valeur ₩71 800. Scénario pessimiste : RO ₩350B à 12x → ₩51 100. Scénario optimiste : RO ₩450B à 18x → ₩98 700.
 
-L'hypothèse de PER de base à 14x reflète une décote par rapport aux pairs japonais (Capcom se traite à environ 22x sur la dynamique de Monster Hunter Wilds) et au comparable CDPR (~35x sur l'optionnalité de développement de Witcher 4), mais une légère prime par rapport à Krafton (~12x, franchise PUBG, dynamique de décote coréenne similaire). La cotation sur KOSDAQ contribue elle-même à l'écart de valorisation — la part de l'actionnariat étranger de Pearl Abyss ne s'établit qu'à 5,57 %, contre 42,4 % pour Krafton et 34,8 % pour NCSoft. Un transfert sur le KOSPI, évoqué par la direction pour 2027, résoudrait structurellement cet écart et pourrait ajouter 3 à 5 points de PER, soit ₩15 000 à ₩25 000 de valeur intrinsèque supplémentaire par action.
+L'hypothèse de PER de base à 14x reflète une décote par rapport aux pairs japonais (Capcom se traite à environ 22x sur la dynamique de Monster Hunter Wilds) et au comparable CDPR (\~35x sur l'optionnalité de développement de Witcher 4), mais une légère prime par rapport à Krafton (\~12x, franchise PUBG, dynamique de décote coréenne similaire). La cotation sur KOSDAQ contribue elle-même à l'écart de valorisation — la part de l'actionnariat étranger de Pearl Abyss ne s'établit qu'à 5,57 %, contre 42,4 % pour Krafton et 34,8 % pour NCSoft. Un transfert sur le KOSPI, évoqué par la direction pour 2027, résoudrait structurellement cet écart et pourrait ajouter 3 à 5 points de PER, soit ₩15 000 à ₩25 000 de valeur intrinsèque supplémentaire par action.
 
 **Comparaison avec les pairs**
 
 | Société | Capitalisation boursière | PER 2026E | Profil |
 |---|---|---|---|
-| Capcom (Japon) | ~15 Md$ | ~22x | IP récurrente, dynamique Monster Hunter Wilds |
-| CDPR (Pologne) | ~10 Md$ | ~35x | Optionnalité de développement Witcher 4 |
-| Krafton (Corée) | ~11 Md$ | ~12x | Franchise PUBG, décote coréenne appliquée |
-| Pearl Abyss | ₩3 870 Mds | ~12x | Succès Crimson Desert, coté KOSDAQ |
+| Capcom (Japon) | \~15 Md$ | \~22x | IP récurrente, dynamique Monster Hunter Wilds |
+| CDPR (Pologne) | \~10 Md$ | \~35x | Optionnalité de développement Witcher 4 |
+| Krafton (Corée) | \~11 Md$ | \~12x | Franchise PUBG, décote coréenne appliquée |
+| Pearl Abyss | ₩3 870 Mds | \~12x | Succès Crimson Desert, coté KOSDAQ |
 
 ---
 
@@ -180,7 +180,7 @@ La publication des résultats du T1 2026 est prévue pour le 7 mai 2026, soit en
 |---|---|
 | Ticker | 263750 (KOSDAQ) |
 | Cours de référence | ₩60 200–₩66 200 |
-| Capitalisation boursière | ~₩3 870 Mds |
+| Capitalisation boursière | \~₩3 870 Mds |
 | CA FY2025 | ₩365,6B (+6,77 % en glissement annuel) |
 | CA T1 2026E (base) | ₩430B |
 | RO T1 2026E (base) | ₩223B (marge op. 51,9 %) |
@@ -200,3 +200,7 @@ La publication des résultats du T1 2026 est prévue pour le 7 mai 2026, soit en
 ---
 
 *Cette analyse est fournie à titre informatif uniquement et ne constitue pas une recommandation d'achat, de vente ou de conservation d'un quelconque titre financier. Toutes les estimations financières sont des projections personnelles de l'auteur fondées sur des données publiquement disponibles et comportent une incertitude inhérente. Pearl Abyss (263750.KQ) est négocié sur le marché KOSDAQ en Corée du Sud. Les investisseurs doivent réaliser leurs propres analyses et tenir compte de leur tolérance individuelle au risque et de leurs objectifs d'investissement avant toute décision. Les performances passées et les indicateurs de lancement ne garantissent pas les résultats futurs. Les conversions de devises supposent un taux USD/KRW moyen de 1 464,8 pour le T1 2026.*
+
+---
+
+*Disclaimer: For research and information purposes only. Not investment advice. Names cited are for analytical illustration; readers should perform their own due diligence and consult licensed advisors before any investment decision.*

@@ -271,4 +271,6 @@ Post-Earnings Announcement Drift (PEAD) là một bất thường thị trườn
 
 ## Tuyên Bố Miễn Trừ Trách Nhiệm
 
-*Báo cáo này được sản xuất chỉ nhằm mục đích thông tin và giáo dục. Nó không cấu thành lời khuyên đầu tư, lời mời mua hoặc bán bất kỳ chứng khoán nào, hoặc khuyến nghị về bất kỳ chiến lược đầu tư cụ thể nào. Tất cả dữ liệu được tham chiếu — bao gồm các chỉ số tài chính, mức giá, tỷ lệ sở hữu và điểm bộ lọc — phản ánh giai đoạn phân tích từ 9–16/04/2026 và có thể đã thay đổi đáng kể kể từ khi xuất bản. Cổ phiếu niêm yết tại Hàn Quốc mang các rủi ro thị trường, tiền tệ, thanh khoản và pháp lý có thể khác biệt đáng kể so với thị trường nội địa của nhà đầu tư. Hiệu suất bộ lọc trong quá khứ và các mẫu dữ liệu lịch sử không đảm bảo kết quả trong tương lai. Độc giả nên tự thực hiện thẩm định và tham khảo cố vấn tài chính được cấp phép trước khi đưa ra bất kỳ quyết định đầu tư nào. Tác giả và nhà xuất bản không nắm giữ vị thế nào trong các chứng khoán được thảo luận tại thời điểm xuất bản.*
+---
+
+*Disclaimer: For research and information purposes only. Not investment advice. Names cited are for analytical illustration; readers should perform their own due diligence and consult licensed advisors before any investment decision.*

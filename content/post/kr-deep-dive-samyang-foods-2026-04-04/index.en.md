@@ -173,4 +173,4 @@ For the latest financials, access DART filings at **dart.fss.or.kr** (search: ì‚
 
 ---
 
-*This analysis is for informational purposes only and does not constitute investment advice. All financial data referenced is based on publicly available filings and disclosures as of the most recently reported periods. Investors should conduct their own due diligence and consult a licensed financial advisor before making investment decisions. Past performance is not indicative of future results.*
+*Disclaimer: For research and information purposes only. Not investment advice. Names cited are for analytical illustration; readers should perform their own due diligence and consult licensed advisors before any investment decision.*

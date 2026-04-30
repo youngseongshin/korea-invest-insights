@@ -72,7 +72,7 @@ Cheongung-II offers a technically competitive alternative with faster delivery t
 
 The UAE contract — approximately **KRW 3.5 trillion** — remains the largest single export order in LIG Nex1's history. The contract was signed in 2022 and deliveries are currently in progress, meaning a meaningful portion of the revenue recognition still lies ahead. This contract alone validates Cheongung-II's international marketability and has served as the reference deal for subsequent negotiations.
 
-### Saudi Arabia (Active Negotiation, ~KRW 5 Trillion+)
+### Saudi Arabia (Active Negotiation, \~KRW 5 Trillion+)
 
 Saudi Arabia is currently in active negotiations for a Cheongung-II acquisition. Estimated contract value exceeds KRW 5 trillion, which would dwarf the UAE deal in scale. No signing date has been publicly announced, but the escalating Iran risk environment has reportedly accelerated ministerial-level discussions.
 
@@ -157,6 +157,4 @@ The KRW 3.2 trillion in 2025 revenue already represents a dramatic expansion fro
 
 ---
 
-## Disclaimer
-
-*This article is produced for informational and educational purposes only. It does not constitute investment advice, a solicitation to buy or sell securities, or a recommendation of any specific security. All data is sourced from publicly available company disclosures, industry reports, and news sources as of the date of publication. Past stock performance is not indicative of future results. Investors should conduct their own due diligence and consult a licensed financial advisor before making investment decisions. The author and publisher hold no positions in any securities mentioned at the time of publication.*
+*Disclaimer: For research and information purposes only. Not investment advice. Names cited are for analytical illustration; readers should perform their own due diligence and consult licensed advisors before any investment decision.*

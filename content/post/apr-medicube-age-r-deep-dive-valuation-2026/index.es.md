@@ -9,7 +9,7 @@ series: "K-Beauty Deep Dive"
 ---
 
 > **Fecha:** 2026-04-09
-> **Cierre:** KRW 365,500 | **Capitalización bursátil:** ~KRW 12.2T | **Máximo 52 semanas:** KRW 377,000
+> **Cierre:** KRW 365,500 | **Capitalización bursátil:** \~KRW 12.2T | **Máximo 52 semanas:** KRW 377,000
 > **Veredicto:** Buena empresa, acción sólida — pero no es barata
 > **Núcleo:** Medicube + AGE-R + Expansión DTC/Offline Global
 
@@ -19,7 +19,7 @@ series: "K-Beauty Deep Dive"
 
 - **Veredicto en una línea:** Buena empresa, acción sólida en este momento. Pero no es una acción barata.
 - El núcleo de APR es cosmética centrada en Medicube + dispositivos de belleza domésticos AGE-R + expansión global de canales.
-- Con una capitalización bursátil superior a KRW 12T, APR ha superado tanto a Amorepacific (~KRW 9.5T) como a LG H&H (~KRW 4.2T) para convertirse en la **empresa de belleza número 1 de Corea por capitalización bursátil**. Esto representa un cambio estructural.
+- Con una capitalización bursátil superior a KRW 12T, APR ha superado tanto a Amorepacific (\~KRW 9.5T) como a LG H&H (\~KRW 4.2T) para convertirse en la **empresa de belleza número 1 de Corea por capitalización bursátil**. Esto representa un cambio estructural.
 - Los fundamentos son excelentes y el gráfico es sólido. La pregunta no es la valoración en sí, sino **cuánto tiempo puede sostenerse el hipercrecimiento**.
 
 ---
@@ -55,7 +55,7 @@ Esta es una estructura muy superior a la de una empresa de cosméticos típicame
 
 | Fecha | Ventas Acumuladas | Notas |
 |------|-----------------|-------|
-| Lanzamiento 2021 | ~50K unidades | Inicial |
+| Lanzamiento 2021 | \~50K unidades | Inicial |
 | May 2025 | 4M unidades | — |
 | Sep 2025 | 5M unidades | — |
 | Ene 2026 | **6M+ unidades** | Participación en el exterior 60%+ |
@@ -71,8 +71,8 @@ Crecimiento de aproximadamente 100x desde el lanzamiento. El hecho de que las ve
 | Concepto | Q4 2025 | EF 2025 | Guía 2026 |
 |------|---------|---------|--------------|
 | Ingresos | KRW 548B | KRW 1.53T (+111% interanual) | KRW 2.1T |
-| Beneficio Operativo | KRW 130B | KRW 355B (~3x interanual) | — |
-| Margen Operativo | 23.8% | 23.9% | ~25% |
+| Beneficio Operativo | KRW 130B | KRW 355B (\~3x interanual) | — |
+| Margen Operativo | 23.8% | 23.9% | \~25% |
 
 Esto no es simplemente "bueno." Es una **combinación poco frecuente de alto crecimiento y alta rentabilidad simultáneos**.
 
@@ -107,19 +107,19 @@ No son simples ventas de consumibles — es una estructura de **hardware + consu
 ### Capa C: Expansión Global — Canal por Canal
 
 **Estados Unidos (Principal Motor de Crecimiento):**
-- Ingresos en EE.UU. de enero a septiembre 2025: ~KRW 980B (+250% interanual)
+- Ingresos en EE.UU. de enero a septiembre 2025: \~KRW 980B (+250% interanual)
 - Solo TikTok Shop generó más de $102M
 - **Ulta Beauty: despliegue completo en las más de 1,400 tiendas** (agosto 2025) — clasificada #1 en e-commerce de skincare en Ulta, #2 general
 - Ventas en Ulta +312% a fin de año
 - **Negociaciones de entrada en Walmart y Target en curso**
 
 **Japón:**
-- Ingresos en Japón Q1 2025: KRW 29.3B (~3x interanual); Q2 ~4.7x interanual
+- Ingresos en Japón Q1 2025: KRW 29.3B (\~3x interanual); Q2 \~4.7x interanual
 - Ganó los Qoo10 Japan Mega Beauty Awards 2025
 - Expansión offline a través de Don Quijote y otras cadenas de variedades y farmacias
 
 **Europa:**
-- **Alianza con Sephora**: desplegándose en ~450 tiendas en 17 países
+- **Alianza con Sephora**: desplegándose en \~450 tiendas en 17 países
 - Registro CPNP completado, exportaciones habilitadas para 27 países
 - Entrada en el mercado del Reino Unido en septiembre 2024 — Collagen Jelly Cream agotado en el lanzamiento
 
@@ -150,10 +150,10 @@ Esto sigue siendo una **fase de crecimiento concentrada en una megamarca** más 
 |------|-------|
 | Cierre Actual | KRW 365,500 |
 | Máximo 52 Semanas | KRW 377,000 (cerca de máximos históricos) |
-| PER Futuro | ~30x |
+| PER Futuro | \~30x |
 | Objetivo Mirae Asset | KRW 350,000 (ya superado) |
 | Objetivo Meritz | KRW 450,000 |
-| Promedio de Consenso | ~KRW 345,000 |
+| Promedio de Consenso | \~KRW 345,000 |
 
 Algunos objetivos de casas de análisis ya han sido superados. El mercado ya considera esta una **acción de crecimiento premium** — se requieren buenas noticias continuas para su justificación.
 
@@ -215,9 +215,9 @@ Que APR se convierta en la empresa de belleza número 1 de Corea por capitalizac
 
 | Empresa | Capitalización | Perfil |
 |---------|-----------|----------|
-| **APR** | **~KRW 12.2T** | Base venture, D2C, dispositivos+cosmética |
-| Amorepacific | ~KRW 9.5T | Base chaebol, centrado en offline, recuperándose de China |
-| LG H&H | ~KRW 4.2T | Base chaebol, ingresos -35.8% en 3 años |
+| **APR** | **\~KRW 12.2T** | Base venture, D2C, dispositivos+cosmética |
+| Amorepacific | \~KRW 9.5T | Base chaebol, centrado en offline, recuperándose de China |
+| LG H&H | \~KRW 4.2T | Base chaebol, ingresos -35.8% en 3 años |
 
 El éxito de APR demuestra que el liderazgo en K-beauty está migrando de los **chaebol hacia las marcas venture/indie**. La nueva fórmula de D2C + TikTok/comercio social + internalización de dispositivos está superando a los modelos tradicionales.
 
@@ -227,7 +227,7 @@ El éxito de APR demuestra que el liderazgo en K-beauty está migrando de los **
 
 El contraargumento más sólido:
 
-> "APR ha mejorado, pero comprar cerca de máximos históricos con un PER futuro de ~30x es apostar efectivamente a que 'el crecimiento del 40%+ continúa.' Con la concentración en Medicube al 90%+ y si el ciclo de dispositivos desacelera o el rendimiento en Ulta/Sephora decepciona, ¿qué ocurre?"
+> "APR ha mejorado, pero comprar cerca de máximos históricos con un PER futuro de \~30x es apostar efectivamente a que 'el crecimiento del 40%+ continúa.' Con la concentración en Medicube al 90%+ y si el ciclo de dispositivos desacelera o el rendimiento en Ulta/Sephora decepciona, ¿qué ocurre?"
 
 Por qué este contraargumento es válido:
 - Las acciones de crecimiento premium requieren que las buenas noticias **sigan llegando** para justificar el precio actual
@@ -259,4 +259,4 @@ Por qué este contraargumento es válido:
 
 ---
 
-*Descargo de responsabilidad: Este análisis es solo con fines informativos y no constituye asesoramiento de inversión. El rendimiento pasado no garantiza resultados futuros. Realice siempre su propia investigación antes de tomar decisiones de inversión.*
+*Disclaimer: For research and information purposes only. Not investment advice. Names cited are for analytical illustration; readers should perform their own due diligence and consult licensed advisors before any investment decision.*

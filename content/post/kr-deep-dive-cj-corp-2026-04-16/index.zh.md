@@ -177,4 +177,4 @@ CJ Olive Young是韩国最主导性的健康美妆专业零售商，在韩国国
 
 ---
 
-*本文仅供参考，不构成投资建议。所有财务数据均基于截至本文发布日的公开披露及近期报告。历史表现不代表未来结果。投资者在作出任何投资决策前，应进行独立尽职调查。*
+*Disclaimer: For research and information purposes only. Not investment advice. Names cited are for analytical illustration; readers should perform their own due diligence and consult licensed advisors before any investment decision.*

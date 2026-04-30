@@ -56,7 +56,7 @@ KOSPI는 5일 기준 -1.1%로 밀렸으나 KOSDAQ은 +0.9%로 소폭 역행. VIX
 
 **방법론**: 30일 가격 레인지 24% 이하의 횡보·코일링 구간에서 외국인 지분율이 20일간 꾸준히 올라가고 있는 종목을 걸러낸다. 거래량 급등 없이, 뉴스 없이, 조용히 사 모으는 외국인의 흔적을 Breakout **이전** 단계에서 포착하는 것이 핵심 철학이다.
 
-총 84종목 스캔 → Tier A(Tight Coil ≤12%): 14종 / Tier B(Mild Range 12~18%): 37종 / Tier C(Wide Accum 18~24%): 33종
+총 84종목 스캔 → Tier A(Tight Coil ≤12%): 14종 / Tier B(Mild Range 12\~18%): 37종 / Tier C(Wide Accum 18\~24%): 33종
 
 ### 상위 10선
 
@@ -87,3 +87,7 @@ KOSPI는 5일 기준 -1.1%로 밀렸으나 KOSDAQ은 +0.9%로 소폭 역행. VIX
 ---
 
 > **편집자 노트**: 이 Quiet Accumulation 스크리너는 Breakout 이후가 아닌 **이전** 단계를 포착하도록 설계됐다. 고 RS·고 거래량 종목을 추격하는 Smart Money 스크리너와 의도적으로 보완 관계를 이룬다. Tier A 종목일수록 코일 구간이 타이트해 Breakout 시 변동성이 크다는 점을 감안할 것.
+
+---
+
+*Disclaimer: For research and information purposes only. Not investment advice. Names cited are for analytical illustration; readers should perform their own due diligence and consult licensed advisors before any investment decision.*

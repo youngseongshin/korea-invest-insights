@@ -59,12 +59,12 @@ Lợi thế cạnh tranh của SK hynix trong HBM mang tính kỹ thuật lẫn 
 
 SK hynix báo cáo hai dòng sản phẩm chính:
 
-**DRAM (~70% doanh thu)**
+**DRAM (\~70% doanh thu)**
 - DRAM server, PC và di động DDR5 thông thường — nền tảng hàng hóa
 - HBM (HBM3, HBM3E, và đang chuyển tiếp sang HBM4) — động cơ tăng trưởng cao cấp, biên lợi nhuận cao
 - HBM mang mức giá bán trung bình (ASP) cao hơn đáng kể so với DRAM thông thường, được ghi nhận là gấp 5–8 lần mỗi bit trong một số cấu hình, điều này làm phình to biên lợi nhuận một cách không cân xứng khi tỷ trọng HBM tăng lên
 
-**NAND (~30% doanh thu)**
+**NAND (\~30% doanh thu)**
 - NAND cho máy khách và người dùng cá nhân (SSD, lưu trữ di động)
 - SSD doanh nghiệp qua Solidigm — phân khúc phụ tăng trưởng nhanh nhất
 - Theo các hồ sơ gần đây và bình luận từ báo cáo kết quả kinh doanh, giá eSSD đã tăng mạnh, được thúc đẩy bởi nhu cầu từ các trung tâm dữ liệu AI đối với SSD NVMe dung lượng cao
@@ -94,7 +94,7 @@ Chuỗi cung ứng HBM đang bị hạn chế cực kỳ nghiêm trọng. Sản 
 
 ### Chất xúc tác 2: Vị thế dẫn đầu công nghệ HBM4 được xác nhận
 
-SK hynix đã phát tín hiệu sẵn sàng sản xuất HBM4 vào năm 2026. Nếu công ty thành công đẩy mạnh HBM4 trước Samsung — vốn đã gặp phải các vấn đề năng suất được ghi nhận rộng rãi với HBM tiên tiến — thị phần HBM của SK hynix có thể mở rộng từ ~50% lên 55–60%. Mỗi điểm phần trăm thị phần HBM theo giá HBM4 mang lại ý nghĩa đáng kể đối với thu nhập trên mỗi cổ phiếu. Một chiến thắng chứng nhận HBM4 sạch sẽ tại Nvidia sẽ là chất xúc tác tích cực quan trọng.
+SK hynix đã phát tín hiệu sẵn sàng sản xuất HBM4 vào năm 2026. Nếu công ty thành công đẩy mạnh HBM4 trước Samsung — vốn đã gặp phải các vấn đề năng suất được ghi nhận rộng rãi với HBM tiên tiến — thị phần HBM của SK hynix có thể mở rộng từ \~50% lên 55–60%. Mỗi điểm phần trăm thị phần HBM theo giá HBM4 mang lại ý nghĩa đáng kể đối với thu nhập trên mỗi cổ phiếu. Một chiến thắng chứng nhận HBM4 sạch sẽ tại Nvidia sẽ là chất xúc tác tích cực quan trọng.
 
 ### Chất xúc tác 3: Tiềm năng từ chu kỳ NAND và lựa chọn Solidigm
 
@@ -196,3 +196,7 @@ Với nhà đầu tư toàn cầu đang xây dựng danh mục hạ tầng AI, S
 *Tham chiếu dữ liệu: Hồ sơ DART của SK hynix, dữ liệu thị trường KRX, đường ống phân tích nội bộ (tháng 4/2026), tài liệu IR của công ty. Các con số tài chính được trích dẫn tham chiếu đến các kỳ được báo cáo gần đây nhất và cần được xác minh đối chiếu với hồ sơ hiện hành trước khi sử dụng.*
 
 **Phân tích này chỉ nhằm mục đích thông tin và không cấu thành tư vấn đầu tư. Kết quả trong quá khứ không phản ánh kết quả trong tương lai. Nhà đầu tư nên tự thẩm định và tham khảo ý kiến của cố vấn tài chính có giấy phép trước khi đưa ra bất kỳ quyết định đầu tư nào.**
+
+---
+
+*Disclaimer: For research and information purposes only. Not investment advice. Names cited are for analytical illustration; readers should perform their own due diligence and consult licensed advisors before any investment decision.*

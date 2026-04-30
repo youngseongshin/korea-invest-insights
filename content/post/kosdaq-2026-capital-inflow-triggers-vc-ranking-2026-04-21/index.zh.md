@@ -71,7 +71,7 @@ draft: false
 | 2026.04 | 国民成长基金子基金GP遴选启动（KOSDAQ+地区联赛） | 7.45万亿韩元（间接） |
 | 2026.06–07 | 国民参与型成长基金启动（计划中） | 6,000亿韩元（+1,200亿韩元劣后级） |
 | 2026年下半年 | 国民成长基金部署提速 | — |
-| 2029 | 退市市值门槛升至300亿韩元（最终步骤） | ~165家（约9.5%）面临风险 |
+| 2029 | 退市市值门槛升至300亿韩元（最终步骤） | \~165家（约9.5%）面临风险 |
 
 ---
 
@@ -223,4 +223,4 @@ FSC将AI、航空航天和能源纳入定制化技术特别上市类别（此前
 
 ---
 
-*本文仅供研究与评论参考，不构成投资建议。数据与政策参考截至2026-04-21 KST。数据来源：FSC公开发布、KDI经济信息中心、KRX公告及券商研究报告（元大证券等）。*
+*Disclaimer: For research and information purposes only. Not investment advice. Names cited are for analytical illustration; readers should perform their own due diligence and consult licensed advisors before any investment decision.*

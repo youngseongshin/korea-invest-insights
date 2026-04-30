@@ -292,3 +292,7 @@ Pearl Abyss est à cette frontière aujourd'hui. Le marché fixe encore le prix 
 ---
 
 **Avertissement** : Cet article est un commentaire de recherche, non un conseil en investissement. Pearl Abyss est couvert dans le cadre de la série de thèses en cours de l'auteur. Les positions, conditions et niveaux de prix peuvent évoluer à mesure que de nouvelles données arrivent. Faites votre propre analyse.
+
+---
+
+*Disclaimer: For research and information purposes only. Not investment advice. Names cited are for analytical illustration; readers should perform their own due diligence and consult licensed advisors before any investment decision.*

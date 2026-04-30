@@ -11,7 +11,7 @@ draft: false
 
 # Krafton: The PUBG Creator Betting on inZOI and a 3-Trillion-Won Future
 
-**Krafton, Inc. (ticker: 259960.KS, KOSPI)** is the South Korean video-game publisher best known as the creator of *PUBG: Battlegrounds* — the battle-royale phenomenon that sparked an entire genre and still commands over 1.3 million peak concurrent players on Steam as of March 2026, nine years after launch. In its full-year 2025 earnings report released February 9, 2026, Krafton announced record annual revenue of **KRW 3.3266 trillion** (~USD 2.4 billion), marking its entry into Korea's exclusive "3-trillion-won revenue club" and cementing its position as one of Asia's most cash-generative gaming franchises. With a swelling pipeline of new IPs — including the AI-driven life-simulation title *inZOI* — and an expanding studio roster now numbering 19 teams, Krafton is quietly evolving from a one-franchise wonder into a multi-IP content house with genuine global ambitions.
+**Krafton, Inc. (ticker: 259960.KS, KOSPI)** is the South Korean video-game publisher best known as the creator of *PUBG: Battlegrounds* — the battle-royale phenomenon that sparked an entire genre and still commands over 1.3 million peak concurrent players on Steam as of March 2026, nine years after launch. In its full-year 2025 earnings report released February 9, 2026, Krafton announced record annual revenue of **KRW 3.3266 trillion** (\~USD 2.4 billion), marking its entry into Korea's exclusive "3-trillion-won revenue club" and cementing its position as one of Asia's most cash-generative gaming franchises. With a swelling pipeline of new IPs — including the AI-driven life-simulation title *inZOI* — and an expanding studio roster now numbering 19 teams, Krafton is quietly evolving from a one-franchise wonder into a multi-IP content house with genuine global ambitions.
 
 ---
 
@@ -26,7 +26,7 @@ draft: false
 | **Key Brands** | PUBG: Battlegrounds, PUBG Mobile (via Tencent licence), inZOI, MIMESIS |
 | **Headquarters** | Seoul, South Korea |
 | **CEO** | Chang-Han Kim (김창한) |
-| **FY2025 Revenue** | KRW 3.3266 trillion (~USD 2.4B) |
+| **FY2025 Revenue** | KRW 3.3266 trillion (\~USD 2.4B) |
 | **FY2025 Operating Profit** | KRW 1.0544 trillion |
 
 **Elevator pitch:** Krafton built one of the most durable live-service franchises in the history of PC gaming with PUBG, then used a decade of cash flows to fund a 26-title development pipeline. Today it is transitioning from a single-IP operator into a diversified game IP company with structural exposure to India's mobile-gaming boom, the global life-simulation genre, and nascent physical-AI applications — all from a balance sheet with minimal debt and over KRW 1 trillion in net cash.
@@ -168,11 +168,11 @@ ETF weights vary and are updated periodically; check current fund fact sheets fo
 
 | Metric | FY2023 | FY2024 | FY2025 |
 |---|---|---|---|
-| Revenue (KRW bn) | ~1,910 | 2,709.8 | 3,326.6 |
+| Revenue (KRW bn) | \~1,910 | 2,709.8 | 3,326.6 |
 | YoY Revenue Growth | — | +41.8% | +22.8% |
-| Operating Profit (KRW bn) | ~768 | 1,182.5 | 1,054.4 |
-| Operating Margin | — | ~43.6% | ~31.7% |
-| Net Income (KRW bn) | ~594 | 1,302.6 | n/d |
+| Operating Profit (KRW bn) | \~768 | 1,182.5 | 1,054.4 |
+| Operating Margin | — | \~43.6% | \~31.7% |
+| Net Income (KRW bn) | \~594 | 1,302.6 | n/d |
 | Adj. EBITDA Margin | — | 51.3% | n/d |
 
 *Sources: Krafton annual earnings press release (February 9, 2026), DART annual report (사업보고서) filed for FY2024, company IR materials. FY2025 detailed segment data pending full annual filing.*
@@ -194,4 +194,4 @@ The corporate vision rebranding announced in February 2026 — centered on "Bold
 
 ---
 
-> **Disclaimer:** This analysis is for informational purposes only and does not constitute investment advice. All financial data cited is sourced from publicly available company filings, press releases, and regulatory disclosures. Past performance of a company's financials is not indicative of future results. Investors should conduct their own due diligence and consult a licensed financial advisor before making any investment decisions.
+*Disclaimer: For research and information purposes only. Not investment advice. Names cited are for analytical illustration; readers should perform their own due diligence and consult licensed advisors before any investment decision.*

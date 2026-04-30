@@ -370,3 +370,7 @@ Crimson Desertの売上／レビューテーゼは維持
 ---
 
 **免責事項**：本稿はリサーチコメンタリーであり、投資アドバイスではありません。パールアビスは著者の継続的なテーゼシリーズの一環として取り上げています。ポジション・条件・価格水準は新たなデータが入り次第変わる可能性があります。投資判断はご自身でお願いします。
+
+---
+
+*Disclaimer: For research and information purposes only. Not investment advice. Names cited are for analytical illustration; readers should perform their own due diligence and consult licensed advisors before any investment decision.*

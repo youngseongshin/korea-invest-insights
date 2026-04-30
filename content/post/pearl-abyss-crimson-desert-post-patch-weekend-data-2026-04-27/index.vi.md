@@ -111,12 +111,12 @@ Xu hướng từ các tuần trước vẫn giữ nguyên: **các thị trườn
 
 **Luận điểm giảm giá**
 - CCU rõ ràng giảm **-13%.**
-- Tỷ lệ tích cực đánh giá mới ở mức 87,3% — thấp hơn đỉnh sau bản vá ~95%.
+- Tỷ lệ tích cực đánh giá mới ở mức 87,3% — thấp hơn đỉnh sau bản vá \~95%.
 - Thứ hạng FR / JP / TW / BR tiếp tục suy yếu.
 
 Luận điểm tăng giá nhắm vào *điều mà luận điểm thực sự nói đến* — độ bền đuôi dài, giảm ma sát, và chuyển đổi người mua mới tại các thị trường cốt lõi. Luận điểm giảm giá mô tả vòng cung suy giảm tự nhiên của bất kỳ game AAA bán lẻ nào. **Cả hai có thể đúng đồng thời**, và vấn đề cần xác định là thị trường đang định giá quá cao cái nào.
 
-Ở mức giá ~₩57.000, thị trường đang nghiêng về hướng "game bán lẻ một lần" hơn là "định giá lại nền tảng / engine độc quyền." Dữ liệu cuối tuần này nghiêng về phía sau.
+Ở mức giá \~₩57.000, thị trường đang nghiêng về hướng "game bán lẻ một lần" hơn là "định giá lại nền tảng / engine độc quyền." Dữ liệu cuối tuần này nghiêng về phía sau.
 
 ---
 
@@ -171,4 +171,4 @@ Hiện tại, dữ liệu cuối tuần này là **tín hiệu xác nhận luậ
 
 ---
 
-**Tuyên bố miễn trừ trách nhiệm**: Bài viết này là bình luận nghiên cứu, không phải lời khuyên đầu tư. Pearl Abyss được theo dõi như một phần trong chuỗi luận điểm đang diễn ra của tác giả. Vị thế, điều kiện, và mức giá có thể thay đổi khi có dữ liệu mới. Hãy tự nghiên cứu trước khi đưa ra quyết định.
+*Disclaimer: For research and information purposes only. Not investment advice. Names cited are for analytical illustration; readers should perform their own due diligence and consult licensed advisors before any investment decision.*

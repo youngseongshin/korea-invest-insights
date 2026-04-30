@@ -98,3 +98,7 @@ Phiên giao dịch ngày 27/4 mang tính chất **risk-on rõ rệt**. Dù buổ
 **Lưu ý biên tập:** 티에프이 (425420.KQ) xuất hiện 4 screener nhưng có dòng ngoại + tổ chức bán ròng -114.0 tỷ KRW trong 5 ngày — mâu thuẫn với tín hiệu screener. 파미셀 (005690.KQ) cũng bán ròng -37.7 tỷ KRW. Cả hai cần xác nhận lại dòng tiền trước khi nâng hạng. Meta Screener ưu tiên 000660 và 402340 dựa trên chất lượng tổng hợp và dòng tiền thực — đây là thứ tự đúng.
 
 > *Nội dung này là phân tích thị trường độc lập, không phải khuyến nghị mua/bán. Tất cả dữ liệu từ nguồn ngày 28/4/2026. Các tên xuất hiện trong screener là "ứng viên theo dõi" chứ không phải tín hiệu giao dịch.*
+
+---
+
+*Disclaimer: For research and information purposes only. Not investment advice. Names cited are for analytical illustration; readers should perform their own due diligence and consult licensed advisors before any investment decision.*

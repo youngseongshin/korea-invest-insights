@@ -173,3 +173,7 @@ Pour les dernières données financières, consultez les dépôts DART sur **dar
 ---
 
 *Cette analyse est fournie à titre informatif uniquement et ne constitue pas un conseil en investissement. Toutes les données financières mentionnées sont issues de publications et déclarations accessibles au public pour les périodes les plus récemment publiées. Les investisseurs sont invités à effectuer leurs propres vérifications et à consulter un conseiller financier agréé avant de prendre toute décision d'investissement. Les performances passées ne préjugent pas des résultats futurs.*
+
+---
+
+*Disclaimer: For research and information purposes only. Not investment advice. Names cited are for analytical illustration; readers should perform their own due diligence and consult licensed advisors before any investment decision.*

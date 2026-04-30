@@ -178,4 +178,4 @@ It offers indirect exposure to CJ Olive Young — the retail backbone of the K-b
 
 ---
 
-*This analysis is for informational purposes only and does not constitute investment advice. All financial data is based on publicly available filings and recent reports as of the publication date. Past performance is not indicative of future results. Investors should conduct their own due diligence before making any investment decisions.*
+*Disclaimer: For research and information purposes only. Not investment advice. Names cited are for analytical illustration; readers should perform their own due diligence and consult licensed advisors before any investment decision.*

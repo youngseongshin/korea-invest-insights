@@ -42,7 +42,7 @@ draft: false
 |---|---:|
 | Fondos de la desinversión | ₩177,1 mil millones |
 | Fecha prevista de cierre | 2026-05-06 |
-| Capitalización bursátil (precio de referencia ₩58.900) | ~₩3,78 billones |
+| Capitalización bursátil (precio de referencia ₩58.900) | \~₩3,78 billones |
 | Valor en efectivo por acción | ₩2.757 |
 | Fondos como % de la capitalización bursátil | 4,7% |
 | Impacto en precio a corto plazo (solo desinversión) | colchón bajista +3–5% |
@@ -229,11 +229,11 @@ La cifra de acciones propias existentes es una estimación interna y debe verifi
 
 | Escenario | Fuente de financiación | Acciones canceladas | % en circulación | Incremento de valor/acción |
 |---|---|---:|---:|---:|
-| Solo cancelar autocartera existente | Posición existente | ~2,828M | 4,4% | **+4,6%** |
-| 50% de fondos CCP — recompra y cancelación | ₩88,5 mil millones | ~1,503M | 2,3% | +2,4% |
-| 100% de fondos CCP — recompra y cancelación | ₩177,1 mil millones | ~3,007M | 4,7% | +4,9% |
-| Existentes + 50% de fondos CCP | Posición + ₩88,5 mil millones | ~4,331M | 6,7% | **+7,2%** |
-| **Existentes + 100% de fondos CCP** | Posición + ₩177,1 mil millones | ~5,835M | 9,1% | **+10,0%** |
+| Solo cancelar autocartera existente | Posición existente | \~2,828M | 4,4% | **+4,6%** |
+| 50% de fondos CCP — recompra y cancelación | ₩88,5 mil millones | \~1,503M | 2,3% | +2,4% |
+| 100% de fondos CCP — recompra y cancelación | ₩177,1 mil millones | \~3,007M | 4,7% | +4,9% |
+| Existentes + 50% de fondos CCP | Posición + ₩88,5 mil millones | \~4,331M | 6,7% | **+7,2%** |
+| **Existentes + 100% de fondos CCP** | Posición + ₩177,1 mil millones | \~5,835M | 9,1% | **+10,0%** |
 
 ### 6.3 Verificación aritmética
 
@@ -365,4 +365,4 @@ Mantener la posición es defendible en este punto. Incrementarla aún no — no 
 
 ---
 
-*Este material tiene únicamente fines de investigación y comentario, y no constituye asesoramiento de inversión. Las posiciones pueden cambiar sin previo aviso. Las cifras definitivas del resultado de la desinversión están sujetas a cambios en función de las comunicaciones reales del cierre. La cifra de acciones propias existentes es una estimación interna y debe verificarse contra la comunicación de autocartera en DART. Datos a 30 de abril de 2026, hora de Corea.*
+*Disclaimer: For research and information purposes only. Not investment advice. Names cited are for analytical illustration; readers should perform their own due diligence and consult licensed advisors before any investment decision.*

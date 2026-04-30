@@ -40,9 +40,9 @@ CJ Corp es la sociedad holding principal del Grupo CJ, una escisión de Samsung 
 
 | Subsidiaria | Ticker KRX | Sector | Participación de CJ Corp |
 |---|---|---|---|
-| CJ CheilJedang | 097950.KS | Alimentación y Biotech | ~36% |
-| CJ ENM | 035760.KQ | Entretenimiento / Medios | ~43% |
-| CJ Logistics | 000120.KS | Logística | ~40% |
+| CJ CheilJedang | 097950.KS | Alimentación y Biotech | \~36% |
+| CJ ENM | 035760.KQ | Entretenimiento / Medios | \~43% |
+| CJ Logistics | 000120.KS | Logística | \~40% |
 | CJ Olive Young | No cotiza | Salud y Belleza Minorista | 100% |
 
 **CJ CheilJedang** es la más visible a nivel global: es propietaria de Bibigo, la marca de comida coreana que hoy se vende en más de 90 países, y opera un creciente negocio de fermentación de biológicos y aminoácidos. **CJ ENM** alberga tvN, OCN, Mnet y el estudio vinculado a las producciones del director de *Parásitos*, Bong Joon-ho. **CJ Logistics** es el mayor operador de reparto de paquetes de Corea. Pero es **CJ Olive Young** —la única entidad de propiedad total y no cotizada en esa tabla— la que se ha convertido en el foco de atención de los inversores en valor en 2025–2026.
@@ -200,4 +200,4 @@ Los inversores que consideren CJ Corp deberían evaluar su propia visión sobre:
 
 ---
 
-*Aviso legal: Este artículo tiene fines exclusivamente informativos y educativos. No constituye asesoramiento de inversión, una invitación a comprar o vender ningún valor, ni una recomendación de ningún tipo. La información presentada se basa en datos de acceso público y estimaciones de analistas a la fecha de publicación. Las inversiones en renta variable conllevan riesgos, incluida la posible pérdida del capital invertido. Los inversores internacionales deben tener en cuenta el riesgo cambiario, las diferencias regulatorias y las características específicas de los mercados de capitales coreanos. Realice siempre su propia diligencia debida y consulte con un asesor financiero autorizado antes de tomar decisiones de inversión.*
+*Disclaimer: For research and information purposes only. Not investment advice. Names cited are for analytical illustration; readers should perform their own due diligence and consult licensed advisors before any investment decision.*

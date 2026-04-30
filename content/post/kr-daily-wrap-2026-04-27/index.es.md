@@ -66,4 +66,4 @@ La sesión del 27 de abril en la bolsa coreana adoptó un carácter marcadamente
 
 ---
 
-*Datos de mercado: cierre KST 2026-04-27. Fuentes: base de datos KR Screener, KR Close Briefing, Macro Regime Engine v2. Este contenido es exclusivamente informativo y no constituye asesoramiento de inversión.*
+*Disclaimer: For research and information purposes only. Not investment advice. Names cited are for analytical illustration; readers should perform their own due diligence and consult licensed advisors before any investment decision.*

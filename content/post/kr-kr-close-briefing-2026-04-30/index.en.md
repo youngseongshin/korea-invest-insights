@@ -79,3 +79,7 @@ SK Telecom's ADR listing (NYSE: SKM) makes today's 20-F filing directly relevant
 **Hanmi Semiconductor (042700.KS)**: South Korea's dominant HBM thermal compression bonding equipment supplier, with a relative strength score of 96.9, is a name to watch if the HBM demand narrative continues to strengthen. The stock is already correlated with Samsung Electronics' memory cycle, so investors should assess portfolio-level overlap before sizing in.
 
 **Macro**: Hormuz Strait and broader Middle East risk, Federal Reserve independence commentary, and follow-on analyst interpretations of the Big Tech AI CapEx disclosures will all feed into Thursday's open. The dominant regime entering May: selective, not aggressive.
+
+---
+
+*Disclaimer: For research and information purposes only. Not investment advice. Names cited are for analytical illustration; readers should perform their own due diligence and consult licensed advisors before any investment decision.*

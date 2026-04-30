@@ -35,7 +35,7 @@ Wednesday's Korea session — and the broader five-day tape — reads as **selec
 
 **Construction and Middle East reconstruction** generated headline flow. Hana Securities raised its target on Hyundai E&C to KRW 240,000 citing Q2 sentiment improvement and reconstruction pipeline expectations; NH maintained a Positive sector view. However, intraday price action told a more cautious story — several construction setups failed to hold VWAP, suggesting the news has outrun near-term entry quality.
 
-**Power and energy** saw SMP (System Marginal Price) reportedly jump ~47%, lifting ESS-adjacent names into the conversation. The theme has structural merit but lacks a direct large-cap anchor in the current leadership cluster, keeping it at an observational level.
+**Power and energy** saw SMP (System Marginal Price) reportedly jump \~47%, lifting ESS-adjacent names into the conversation. The theme has structural merit but lacks a direct large-cap anchor in the current leadership cluster, keeping it at an observational level.
 
 **Telecom** added a defensive-quality overlay. SK Telecom (017670.KS) received a reiterated Buy from Hana Securities with a KRW 100,000 target ahead of Q1 results, framing recent strength as earnings normalization plus dividend recovery rather than a simple defensive rotation.
 
@@ -88,3 +88,7 @@ Korea's premier defense and aerospace platform needs little introduction, but th
 ---
 
 *Data sources: macro-regime-verdict-v2 (2026-04-15 evening), KR close briefing (session: 2026-04-10), KR Quiet Accumulation screener (2026-04-15 16:07 KST). Screener rotation: Monday PEAD → Tuesday Smart Money → **Wednesday Quiet Accumulation** → Thursday Quality Compounder → Friday Market Discovery.*
+
+---
+
+*Disclaimer: For research and information purposes only. Not investment advice. Names cited are for analytical illustration; readers should perform their own due diligence and consult licensed advisors before any investment decision.*

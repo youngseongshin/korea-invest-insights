@@ -10,9 +10,9 @@ series: ["kosdaq-structural-2026"]
 ---
 
 > **Series — KOSDAQ Structural 2026 (Part 4 of 4, bonus)**
-> ① [Capital Inflow Triggers & VC Ranking](/en/post/kosdaq-2026-capital-inflow-triggers-vc-ranking-2026-04-21/) — the policy setup
-> ② [IPO Class of 2023-2026: Where the Tenbaggers Live](/en/post/kosdaq-ipo-class-2023-2026-tenbagger-analysis-2026-04-22/) — the post-IPO winners
-> ③ [KR Tenbaggers Full 10× Census](/en/post/kr-tenbagger-census-2023-2026-2026-04-23/) — the realized 3-year winners
+> ① [Capital Inflow Triggers & VC Ranking](/post/kosdaq-2026-capital-inflow-triggers-vc-ranking-2026-04-21/) — the policy setup
+> ② [IPO Class of 2023-2026: Where the Tenbaggers Live](/post/kosdaq-ipo-class-2023-2026-tenbagger-analysis-2026-04-22/) — the post-IPO winners
+> ③ [KR Tenbaggers Full 10× Census](/post/kr-tenbagger-census-2023-2026-2026-04-23/) — the realized 3-year winners
 > ④ **This post** — where sell-side *isn't* yet, and why that matters
 
 ---
@@ -23,7 +23,7 @@ If tenbaggers cluster, so does sell-side attention. And the gap between **where 
 
 We pulled every broker report filed to Hankyung Consensus (한경컨센서스) over the trailing 3 months — Jan 23 to Apr 23, 2026 — across 11 brokers that feed the platform (LS, Eugene, SK, iM, Meritz, Yuanta, Hanwha, IBK, Daishin, Sangsangin, KoreaIR). **Only 52 KOSDAQ names got ≥2 broker coverage in that window.**
 
-That's out of ~1,777 KOSDAQ stocks.
+That's out of \~1,777 KOSDAQ stocks.
 
 ---
 
@@ -32,7 +32,7 @@ That's out of ~1,777 KOSDAQ stocks.
 Hankyung does not include Samsung, Mirae Asset, Kiwoom, NH, Hana, Shinhan, KB, Korea Investment, DB, or Daol — 10+ major houses. So "2 brokers on Hankyung" typically maps to **4-6 actual brokers** in the real market. That matters for a few names below where the published count understates the truth.
 
 - [Fact] 52 names passed the 2-broker / 3-month threshold on Hankyung
-- [Inference] True market-wide coverage is ~1.8-2.5× the reported number
+- [Inference] True market-wide coverage is \~1.8-2.5× the reported number
 - [Blocked] Target-price consensus and recommendation distributions are not computable from this dataset (needs FnGuide)
 
 ---
@@ -171,7 +171,7 @@ These are the "quality small-cap" cluster. Raon's "aspirations" framing tells yo
 
 **Defense small-caps are getting real traffic.** Three names in the 100-300B cap range, all with recent notes (Apr 7, Apr 15, Apr 17). **Coats Technologies at 124B KRW with 3 brokers** is coverage-density-per-cap that typically precedes promotion into the sell-side consensus proper.
 
-**KoreaIR-Council inflation.** ~5 of the 9 small-caps have one of their two "covers" as KoreaIR Council. That is an initiation-style sponsored research product — useful, but not independent second-opinion coverage. Filtering it out, most of these names are really "1 broker + initiation note" — meaningfully thinner than the raw count suggests, and a better reflection of where the variant-perception opportunity actually lives.
+**KoreaIR-Council inflation.** \~5 of the 9 small-caps have one of their two "covers" as KoreaIR Council. That is an initiation-style sponsored research product — useful, but not independent second-opinion coverage. Filtering it out, most of these names are really "1 broker + initiation note" — meaningfully thinner than the raw count suggests, and a better reflection of where the variant-perception opportunity actually lives.
 
 ---
 
@@ -203,6 +203,8 @@ If sell-side hasn't written it down, it isn't priced. These 9 names are the chea
 ---
 
 _This bonus post closes the KOSDAQ Structural 2026 series._
-_[Part 1: VC ranking.](/en/post/kosdaq-2026-capital-inflow-triggers-vc-ranking-2026-04-21/) [Part 2: IPO tenbagger class.](/en/post/kosdaq-ipo-class-2023-2026-tenbagger-analysis-2026-04-22/) [Part 3: Full 10× census.](/en/post/kr-tenbagger-census-2023-2026-2026-04-23/)_
+_[Part 1: VC ranking.](/post/kosdaq-2026-capital-inflow-triggers-vc-ranking-2026-04-21/) [Part 2: IPO tenbagger class.](/post/kosdaq-ipo-class-2023-2026-tenbagger-analysis-2026-04-22/) [Part 3: Full 10× census.](/post/kr-tenbagger-census-2023-2026-2026-04-23/)_
 
-_Nothing here is investment advice. All names covered are idea-generation candidates for further diligence._
+---
+
+*Disclaimer: For research and information purposes only. Not investment advice. Names cited are for analytical illustration; readers should perform their own due diligence and consult licensed advisors before any investment decision.*

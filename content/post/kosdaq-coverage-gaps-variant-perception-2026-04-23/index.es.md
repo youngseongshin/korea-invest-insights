@@ -9,9 +9,9 @@ series: ["kosdaq-structural-2026"]
 ---
 
 > **Serie — KOSDAQ Structural 2026 (Parte 4 de 4, bonus)**
-> ① [Catalizadores de Entrada de Capital y Ranking de VC](/en/post/kosdaq-2026-capital-inflow-triggers-vc-ranking-2026-04-21/) — el marco político
-> ② [Clase IPO 2023-2026: Dónde Viven los Tenbaggers](/en/post/kosdaq-ipo-class-2023-2026-tenbagger-analysis-2026-04-22/) — los ganadores post-IPO
-> ③ [Censo Completo de Tenbaggers KR 10×](/en/post/kr-tenbagger-census-2023-2026-2026-04-23/) — los ganadores reales a 3 años
+> ① [Catalizadores de Entrada de Capital y Ranking de VC](/post/kosdaq-2026-capital-inflow-triggers-vc-ranking-2026-04-21/) — el marco político
+> ② [Clase IPO 2023-2026: Dónde Viven los Tenbaggers](/post/kosdaq-ipo-class-2023-2026-tenbagger-analysis-2026-04-22/) — los ganadores post-IPO
+> ③ [Censo Completo de Tenbaggers KR 10×](/post/kr-tenbagger-census-2023-2026-2026-04-23/) — los ganadores reales a 3 años
 > ④ **Este artículo** — dónde el sell-side *todavía no está*, y por qué importa
 
 ---
@@ -22,7 +22,7 @@ Si los tenbaggers se agrupan, la atención del sell-side también. Y la brecha e
 
 Extrajimos cada informe de broker registrado en Hankyung Consensus (한경컨센서스) durante los últimos 3 meses — del 23 de enero al 23 de abril de 2026 — entre los 11 brokers que alimentan la plataforma (LS, Eugene, SK, iM, Meritz, Yuanta, Hanwha, IBK, Daishin, Sangsangin, KoreaIR). **Solo 52 empresas del KOSDAQ recibieron cobertura de ≥2 brokers en ese período.**
 
-Eso es sobre un universo de ~1.777 acciones en KOSDAQ.
+Eso es sobre un universo de \~1.777 acciones en KOSDAQ.
 
 ---
 
@@ -170,7 +170,7 @@ Capitalización de 94B KRW, dividendo decente + márgenes mejorando, crecimiento
 
 **Las small-caps de defensa están recibiendo tráfico real.** Tres empresas en el rango de 100-300B de capitalización, todas con notas recientes (7 abr., 15 abr., 17 abr.). **Coats Technologies a 124B KRW con 3 brokers** tiene una densidad de cobertura por capitalización que típicamente precede la promoción al consenso formal del sell-side.
 
-**Inflación del KoreaIR Council.** ~5 de las 9 small-caps tienen a KoreaIR Council como una de sus dos "coberturas." Se trata de un producto de investigación iniciada/patrocinada — útil, pero no una segunda opinión independiente. Si se filtra, la mayoría de estos nombres son realmente "1 broker + nota de iniciación" — significativamente más delgado de lo que sugiere el conteo bruto, y una mejor aproximación de dónde vive realmente la oportunidad de percepción diferencial.
+**Inflación del KoreaIR Council.** \~5 de las 9 small-caps tienen a KoreaIR Council como una de sus dos "coberturas." Se trata de un producto de investigación iniciada/patrocinada — útil, pero no una segunda opinión independiente. Si se filtra, la mayoría de estos nombres son realmente "1 broker + nota de iniciación" — significativamente más delgado de lo que sugiere el conteo bruto, y una mejor aproximación de dónde vive realmente la oportunidad de percepción diferencial.
 
 ---
 
@@ -202,6 +202,8 @@ Si el sell-side no lo ha puesto por escrito, no está en el precio. Estas 9 empr
 ---
 
 _Este artículo bonus cierra la serie KOSDAQ Structural 2026._
-_[Parte 1: Ranking de VC.](/en/post/kosdaq-2026-capital-inflow-triggers-vc-ranking-2026-04-21/) [Parte 2: Clase tenbagger de IPOs.](/en/post/kosdaq-ipo-class-2023-2026-tenbagger-analysis-2026-04-22/) [Parte 3: Censo completo 10×.](/en/post/kr-tenbagger-census-2023-2026-2026-04-23/)_
+_[Parte 1: Ranking de VC.](/post/kosdaq-2026-capital-inflow-triggers-vc-ranking-2026-04-21/) [Parte 2: Clase tenbagger de IPOs.](/post/kosdaq-ipo-class-2023-2026-tenbagger-analysis-2026-04-22/) [Parte 3: Censo completo 10×.](/post/kr-tenbagger-census-2023-2026-2026-04-23/)_
 
-_Nada de lo aquí expresado constituye asesoramiento de inversión. Todos los nombres mencionados son candidatos para generación de ideas sujetos a análisis adicional._
+---
+
+*Disclaimer: For research and information purposes only. Not investment advice. Names cited are for analytical illustration; readers should perform their own due diligence and consult licensed advisors before any investment decision.*

@@ -27,7 +27,7 @@ draft: false
 
 ## En Resumen
 
-- **Por qué se movió la acción**: (1) El FC-BGA ingresó al ecosistema Vera Rubin de Nvidia a través del NV Switch y luego como **primer proveedor en el Groq3 LPU** (producción masiva en T2 2026) — un espacio confirmado en la cadena de valor de sustratos de empaquetado para servidores de AI; (2) el ciclo de precios de MLCC se revirtió al dispararse el contenido en servidores de AI (~600.000 MLCCs por VR200 NVL72) y Murata / Taiyo Yuden lideró las alzas; (3) la expansión en Vietnam por KRW 1,8T y la JV de sustratos de vidrio con Sumitomo hicieron visible el eje de crecimiento para 2027 en adelante.
+- **Por qué se movió la acción**: (1) El FC-BGA ingresó al ecosistema Vera Rubin de Nvidia a través del NV Switch y luego como **primer proveedor en el Groq3 LPU** (producción masiva en T2 2026) — un espacio confirmado en la cadena de valor de sustratos de empaquetado para servidores de AI; (2) el ciclo de precios de MLCC se revirtió al dispararse el contenido en servidores de AI (\~600.000 MLCCs por VR200 NVL72) y Murata / Taiyo Yuden lideró las alzas; (3) la expansión en Vietnam por KRW 1,8T y la JV de sustratos de vidrio con Sumitomo hicieron visible el eje de crecimiento para 2027 en adelante.
 - **Enfoque para el inversor**: Una apuesta de apalancamiento en componentes y sustratos dentro de un ciclo de infraestructura de AI con paradoja de Jevons. No es una recuperación cíclica — es un **cambio estructural en la mezcla más transferencia de poder de fijación de precios**. Catalizadores puntuales (resultados T1 2026, anuncio de precios de Murata, rampa de Groq3) que se superponen con la óptica de un compounder de calidad.
 - **Próxima acción**: monitorear resultados T1 2026 a finales de abril → trayectoria de margen operativo en componentes y empaquetado → fecha formal del alza de precios de Murata en T2 como evento de confirmación. Mantener, o incrementar posición en correcciones.
 
@@ -51,8 +51,8 @@ draft: false
 - **Productos principales**: (1) MLCC de alta capacidad y alta temperatura para servidores de AI, (2) FC-BGA para aceleradores de AI (NV Switch, Groq3 LPU, serie AMD MI).
 - **Cifras**: Ingresos 2025 de KRW 11,3T (récord); beneficio operativo KRW 913,3B (+24,3% interanual). Consenso de BO 2026E: KRW 1,1–1,28T. Margen operativo de componentes en recuperación estructural.
 - **Síntesis del foso competitivo**: N.º 2 global en MLCC (duopolio con Murata). Primer productor coreano en volumen de FC-BGA para servidores (desde 2022) y uno de los escasos nombres globales con capacidad en sustratos de alto nivel para servidores. Conocimiento técnico propio en patterning fino, sustratos de gran área y alto número de capas, y materiales de baja pérdida.
-- **Vector de tendencia**: **Viento de cola fuerte.** Los servidores de AI necesitan ~20× el contenido de MLCC de un smartphone (≈1.000 por teléfono vs. ~600.000 por servidor de AI). La tendencia de FC-BGA a gran área y alto número de capas está consumiendo la capacidad de oferta.
-- **Catalizadores de salto cuántico**: (a) Un alza del 10% en el ASP de MLCC conlleva un apalancamiento de ~KRW 600B en beneficio operativo; (b) la producción masiva de sustratos de vidrio a partir de 2027; (c) la graduación a proveedor Tier-1 de Nvidia.
+- **Vector de tendencia**: **Viento de cola fuerte.** Los servidores de AI necesitan \~20× el contenido de MLCC de un smartphone (≈1.000 por teléfono vs. \~600.000 por servidor de AI). La tendencia de FC-BGA a gran área y alto número de capas está consumiendo la capacidad de oferta.
+- **Catalizadores de salto cuántico**: (a) Un alza del 10% en el ASP de MLCC conlleva un apalancamiento de \~KRW 600B en beneficio operativo; (b) la producción masiva de sustratos de vidrio a partir de 2027; (c) la graduación a proveedor Tier-1 de Nvidia.
 - **Postura del inversor**: **Liderazgo tecnológico + catalizadores puntuales + revalorización de múltiplos — todo convergiendo.** Zona de sobrecalentamiento a corto plazo, pero el cambio estructural aún está en pleno desarrollo.
 
 ---
@@ -71,10 +71,10 @@ Hasta hace poco, SEMCO era percibida como un proxy de Samsung — sustratos para
 
 | Segmento | Productos clave | Ingresos 2025 | Participación | Interanual |
 |---|---|---|---|---|
-| **Componentes** | MLCC, inductores de potencia, resistencias de chip | ~46.000 | ~41% | +bajos dos dígitos |
-| **Soluciones de Empaquetado** | FC-BGA, BGA, FC-CSP | ~22.000 | ~19% | FC-BGA servidor +17% |
-| **Soluciones Ópticas** | Módulos de cámara, módulos de comunicaciones | ~37.000 | ~33% | +9% |
-| **Otros / automoción** | — | ~8.000 | ~7% | — |
+| **Componentes** | MLCC, inductores de potencia, resistencias de chip | \~46.000 | \~41% | +bajos dos dígitos |
+| **Soluciones de Empaquetado** | FC-BGA, BGA, FC-CSP | \~22.000 | \~19% | FC-BGA servidor +17% |
+| **Soluciones Ópticas** | Módulos de cámara, módulos de comunicaciones | \~37.000 | \~33% | +9% |
+| **Otros / automoción** | — | \~8.000 | \~7% | — |
 | **Total** | | **113.145** | 100% | +9,9% |
 
 > [Inferido] Las cifras anuales por segmento son acumuladas de los reportes trimestrales. Los ingresos de componentes del T4 2025 de KRW 1,32T fueron récord para un solo trimestre.
@@ -91,11 +91,11 @@ Hasta hace poco, SEMCO era percibida como un proxy de Samsung — sustratos para
 
 | | 2023 | 2024 | 2025 | 2026E | Lectura |
 |---|---|---|---|---|---|
-| Ingresos (KRW T) | ~9,4 | ~10,3 | 11,31 | 12,3–12,8E | CAGR 3A ~10% |
-| Beneficio operativo (KRW 100M) | ~6.300 | ~7.343 | 9.133 | 11.000–12.800E | [Inferido] rango consenso casas de bolsa |
-| MO | ~6,7% | ~7,1% | 8,1% | **9–10%E** | Mejora estructural por ASP + mezcla |
-| MO Componentes | ~13% | ~14% | ~16% | 18–20%E | ASP de MLCC como motor |
-| BO Soluciones de Empaquetado (KRW 100M) | ~1.355 | ~2.000 | 3.861E (Mirae) | 5.046E | Alza de ASP FC-BGA +10% incorporada |
+| Ingresos (KRW T) | \~9,4 | \~10,3 | 11,31 | 12,3–12,8E | CAGR 3A \~10% |
+| Beneficio operativo (KRW 100M) | \~6.300 | \~7.343 | 9.133 | 11.000–12.800E | [Inferido] rango consenso casas de bolsa |
+| MO | \~6,7% | \~7,1% | 8,1% | **9–10%E** | Mejora estructural por ASP + mezcla |
+| MO Componentes | \~13% | \~14% | \~16% | 18–20%E | ASP de MLCC como motor |
+| BO Soluciones de Empaquetado (KRW 100M) | \~1.355 | \~2.000 | 3.861E (Mirae) | 5.046E | Alza de ASP FC-BGA +10% incorporada |
 
 **Brecha de datos**: Los ingresos por cliente no están divulgados. Los desgloses dentro del segmento entre AI/servidor, IT y automoción son solo comentarios cualitativos.
 
@@ -115,7 +115,7 @@ Hasta hace poco, SEMCO era percibida como un proxy de Samsung — sustratos para
 ### Mecánica del foso competitivo
 
 1. **Rendimiento**: En la curva capacitancia/tensión del MLCC, existe un duopolio Murata-SEMCO. Para partes de 1kV+ para servidores de AI no hay prácticamente alternativa fuera de estas dos empresas.
-2. **Rendimiento de producción / coste**: Los FC-BGA de gran área para servidores (4× área, 2× capas) sufren caídas catastróficas en el rendimiento si falla el control de deformación. La I+D acumulada más las líneas dedicadas en Busan y Vietnam (~KRW 1,9T de CAPEX acumulado más otros KRW 1,8T en Vietnam) crean una barrera de coste y tiempo para los seguidores.
+2. **Rendimiento de producción / coste**: Los FC-BGA de gran área para servidores (4× área, 2× capas) sufren caídas catastróficas en el rendimiento si falla el control de deformación. La I+D acumulada más las líneas dedicadas en Busan y Vietnam (\~KRW 1,9T de CAPEX acumulado más otros KRW 1,8T en Vietnam) crean una barrera de coste y tiempo para los seguidores.
 3. **Calificación**: Las referencias de proveedor del Big-6 (Nvidia, AMD, Tesla, Broadcom, Apple, AWS) forman un ciclo infinito para los nuevos entrantes — sin calificación sin referencias, sin referencias sin calificación. [Inferido] DB Securities cita esto como base del "crecimiento estable visible".
 4. **Anclaje en el ecosistema**: La JV de sustratos de vidrio (con Sumitomo y Dongwoo Fine-Chem) internaliza el núcleo de vidrio, una palanca potencial de ventaja en costes frente a SKC's Absolics. [Hecho] SEMCO tiene la mayoría de la JV.
 
@@ -145,7 +145,7 @@ Hasta hace poco, SEMCO era percibida como un proxy de Samsung — sustratos para
 
 ### Clientes de MLCC (por naturaleza muchos-a-muchos)
 
-- **Servidor de AI**: Nvidia VR200 NVL72 — ~600.000 MLCCs por servidor, 30%+ más que el GB300. [Hecho] Samsung Securities (Lee Jong-wook)
+- **Servidor de AI**: Nvidia VR200 NVL72 — \~600.000 MLCCs por servidor, 30%+ más que el GB300. [Hecho] Samsung Securities (Lee Jong-wook)
 - **Automoción**: ADAS (3.000+ por vehículo), xEV (10.000–15.000 por vehículo)
 - **Smartphone**: Galaxy flagship, OEMs chinos
 
@@ -175,7 +175,7 @@ Hasta hace poco, SEMCO era percibida como un proxy de Samsung — sustratos para
 
 ## 8. Disección de los Impulsores del Precio
 
-> Esta sección separa los **catalizadores ya descontados** de los **catalizadores esperados**. El movimiento de ~100% entre febrero y abril de 2026 (KRW 400k → KRW 680k+) refleja el avance simultáneo en los siguientes factores.
+> Esta sección separa los **catalizadores ya descontados** de los **catalizadores esperados**. El movimiento de \~100% entre febrero y abril de 2026 (KRW 400k → KRW 680k+) refleja el avance simultáneo en los siguientes factores.
 
 ### Catalizador 1. Entrada como Tier-1 en la cadena de suministro de Nvidia (puntual, descontado y en progreso)
 
@@ -184,7 +184,7 @@ Hasta hace poco, SEMCO era percibida como un proxy de Samsung — sustratos para
 | Definición | NV Switch → el estatus de primer proveedor en el Groq3 LPU amplía la huella de sustratos dentro de la plataforma de AI de Nvidia. |
 | Condiciones previas | Récord de producción masiva de FC-BGA para servidores + precedente con AMD + validación de rendimiento de producción |
 | Marcadores confirmados | (i) Suministro de NV Switch confirmado en feb. 2026; (ii) Groq3 LPU primer proveedor en abr. 2026, producción masiva en T2 2026; (iii) Tesla AI6 probable adopción |
-| Efecto esperado | BO Soluciones de Empaquetado: KRW ~200B (2025) → KRW ~386B (2026) → KRW ~505B (2027) según Mirae Asset |
+| Efecto esperado | BO Soluciones de Empaquetado: KRW \~200B (2025) → KRW \~386B (2026) → KRW \~505B (2027) según Mirae Asset |
 | Riesgo | (a) Retraso en envíos de GPU de Nvidia; (b) defensa de cuota de Unimicron / Ibiden; (c) volumen real de Groq3 inferior al plan |
 
 ### Catalizador 2. Ciclo de precios de MLCC (puntual, parcialmente descontado)
@@ -272,10 +272,10 @@ Hasta hace poco, SEMCO era percibida como un proxy de Samsung — sustratos para
 2. **Mejora en la calidad de la mezcla de clientes**: dependencia de Samsung del 60%+ a un Big-6 diversificado (Nvidia, AMD, Tesla, Broadcom, Apple, AWS), y específicamente un **espacio Tier-1 dentro de la plataforma Nvidia** como activo de referencia.
 3. **Opción de próxima generación asegurada**: la JV de sustratos de vidrio posiciona a SEMCO junto a SKC Absolics como las únicas opciones de suministro coreanas.
 
-**Advertencia**: con un ~2,8× PBR y ~18× PER (sobre 2025), la valoración aún no está en los extremos de un pico cíclico, pero **el BO 2026E de KRW 1,1–1,3T ya está en el consenso**. Si la sorpresa de resultados decepciona, la corrección puede ampliarse. **Los resultados del T1 2026 y el ritmo de traslado del alza de ASP son el pivote clave.**
+**Advertencia**: con un \~2,8× PBR y \~18× PER (sobre 2025), la valoración aún no está en los extremos de un pico cíclico, pero **el BO 2026E de KRW 1,1–1,3T ya está en el consenso**. Si la sorpresa de resultados decepciona, la corrección puede ampliarse. **Los resultados del T1 2026 y el ritmo de traslado del alza de ASP son el pivote clave.**
 
 Desde la óptica de la paradoja de Jevons, las mejoras en la eficiencia de inferencia de AI (TurboQuant, DeepSeek, etc.) tienen más probabilidad de redirigirse hacia **crecimiento agregado en el despliegue de servidores** que de deprimir la demanda de MLCC / FC-BGA. En la capa de componentes y sustratos, la curva de demanda a mediano plazo debería mantenerse con pendiente positiva — un vector de apalancamiento que funciona en sentido contrario al tema de eficiencia del software.
 
 ---
 
-*Esta publicación es investigación y comentario únicamente, no constituye asesoramiento de inversión. El posicionamiento del autor puede cambiar sin previo aviso. Datos a 2026-04-21 KST.*
+*Disclaimer: For research and information purposes only. Not investment advice. Names cited are for analytical illustration; readers should perform their own due diligence and consult licensed advisors before any investment decision.*

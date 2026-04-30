@@ -60,12 +60,12 @@ SK hynix's moat in HBM is both technical and relational. The company co-develops
 
 SK hynix reports two primary product families:
 
-**DRAM (~70% of revenue)**
+**DRAM (\~70% of revenue)**
 - Conventional DDR5 server, PC, and mobile DRAM — the commodity base
 - HBM (HBM3, HBM3E, and transitioning to HBM4) — the premium, high-margin growth engine
 - HBM carries a significant ASP (average selling price) premium over conventional DRAM, reportedly 5–8× per bit in some configurations, which disproportionately inflates margins as HBM mix rises
 
-**NAND (~30% of revenue)**
+**NAND (\~30% of revenue)**
 - Client and consumer NAND (SSDs, mobile storage)
 - Enterprise SSDs through Solidigm — the fastest-growing sub-segment
 - According to recent filings and earnings commentary, eSSD pricing has risen sharply, driven by AI data-centre demand for high-capacity NVMe SSDs
@@ -95,7 +95,7 @@ The HBM supply chain is extraordinarily constrained. HBM production consumes a d
 
 ### Catalyst 2: HBM4 technology leadership confirmed
 
-SK hynix has telegraphed HBM4 production readiness in 2026. If the company successfully ramps HBM4 ahead of Samsung — which has had well-documented yield challenges with advanced HBM — SK hynix's market share could expand from ~50% toward 55–60%. Every percentage point of HBM market share at HBM4 pricing carries significant earnings-per-share implications. A clean HBM4 qualification win at Nvidia would be a material positive catalyst.
+SK hynix has telegraphed HBM4 production readiness in 2026. If the company successfully ramps HBM4 ahead of Samsung — which has had well-documented yield challenges with advanced HBM — SK hynix's market share could expand from \~50% toward 55–60%. Every percentage point of HBM market share at HBM4 pricing carries significant earnings-per-share implications. A clean HBM4 qualification win at Nvidia would be a material positive catalyst.
 
 ### Catalyst 3: NAND cycle upside / Solidigm optionality
 
@@ -196,4 +196,6 @@ For the global investor building an AI infrastructure portfolio, SK hynix (00066
 
 *Data references: SK hynix DART filings, KRX market data, internal analysis pipeline (April 2026), company IR materials. Financial figures cited refer to most recently reported periods and should be verified against current filings before use.*
 
-**This analysis is for informational purposes only and does not constitute investment advice. Past performance is not indicative of future results. Investors should conduct their own due diligence and consult a licensed financial advisor before making any investment decisions.**
+---
+
+*Disclaimer: For research and information purposes only. Not investment advice. Names cited are for analytical illustration; readers should perform their own due diligence and consult licensed advisors before any investment decision.*

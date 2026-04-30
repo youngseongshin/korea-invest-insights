@@ -79,7 +79,7 @@ draft: false
 
 ### 2.1 오늘은 "공매도가 강했던 날"이 아니라 "공매도가 힘없이 나왔던 날"이다
 
-64,362주가 제로는 아니지만 — 펄어비스가 최근 경험한 10만~30만주대 공매도 압력일들과 비교하면, 오늘의 강도는 한 단계 낮다. 규모보다 더 중요한 건 **결과**다:
+64,362주가 제로는 아니지만 — 펄어비스가 최근 경험한 10만\~30만주대 공매도 압력일들과 비교하면, 오늘의 강도는 한 단계 낮다. 규모보다 더 중요한 건 **결과**다:
 
 - 공매도 평균: **54,245원**
 - 종가: **54,400원**
@@ -219,7 +219,7 @@ draft: false
 ### 6.1 상방 전환 확인 조건
 
 1. 장중 고가 **55,100원** 돌파.
-2. 외국인 + 기관 **2~3거래일 연속 순매수**.
+2. 외국인 + 기관 **2\~3거래일 연속 순매수**.
 3. 공매도 거래량 **10만주 미만** 유지.
 
 ### 6.2 하락 시나리오로 재해석할 조건 (세 가지 동시 충족 시):
@@ -268,4 +268,4 @@ draft: false
 
 ---
 
-*본 글은 리서치 및 시황 해설 목적으로 작성되었으며, 투자 권유가 아닙니다. 공매도 데이터 출처: 사용자 제공 장마감 CSV. 가격·수급 데이터: KRX 장마감 피드, 2026-04-21 KST.*
+*Disclaimer: For research and information purposes only. Not investment advice. Names cited are for analytical illustration; readers should perform their own due diligence and consult licensed advisors before any investment decision.*

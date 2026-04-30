@@ -172,4 +172,4 @@ Para los últimos datos financieros, acceda a los registros de DART en **dart.fs
 
 ---
 
-*Este análisis es solo para fines informativos y no constituye asesoramiento de inversión. Todos los datos financieros referenciados se basan en registros y divulgaciones públicamente disponibles a la fecha de los períodos más recientemente reportados. Los inversores deben realizar su propia diligencia debida y consultar a un asesor financiero autorizado antes de tomar decisiones de inversión. El rendimiento pasado no es indicativo de resultados futuros.*
+*Disclaimer: For research and information purposes only. Not investment advice. Names cited are for analytical illustration; readers should perform their own due diligence and consult licensed advisors before any investment decision.*

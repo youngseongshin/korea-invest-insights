@@ -225,3 +225,7 @@ Prochaine étape dans la pile de recherche : analyses approfondies des noms indi
 ---
 
 *Recherche et commentaire uniquement, pas de conseil en investissement. Univers : nouvelles introductions KOSDAQ 2023-2026 cumulées à avril. Filtre SPAC : noms de cotation coréens contenant « 스팩 ». Fenêtre de données pour les fondamentaux : du 14 au 21 avril 2026 (flux de publications KRX). Tous les rendements sont mesurés à partir du cours de clôture de l'IPO jusqu'à la clôture du 21 avril 2026.*
+
+---
+
+*Disclaimer: For research and information purposes only. Not investment advice. Names cited are for analytical illustration; readers should perform their own due diligence and consult licensed advisors before any investment decision.*

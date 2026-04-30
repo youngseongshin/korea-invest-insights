@@ -79,3 +79,7 @@ APR est un groupe de cosmétiques/beauté coréen dont la croissance organique e
 ---
 
 *Données : clôture KOSPI/macro au 14 avril 2026. Screener Smart Money + Earnings Improvement basé sur les données fondamentales les plus récentes disponibles (univers KR 2 726 valeurs, extraction 16h04 KST).*
+
+---
+
+*Disclaimer: For research and information purposes only. Not investment advice. Names cited are for analytical illustration; readers should perform their own due diligence and consult licensed advisors before any investment decision.*

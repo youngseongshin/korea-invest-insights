@@ -271,4 +271,6 @@ El Post-Earnings Announcement Drift (PEAD) es una anomalía de mercado bien docu
 
 ## Aviso Legal
 
-*Este informe se elabora únicamente con fines informativos y educativos. No constituye asesoramiento de inversión, una invitación a comprar o vender ningún valor, ni una recomendación de ninguna estrategia de inversión específica. Todos los datos referenciados — incluidas métricas financieras, niveles de precios, porcentajes de participación y puntuaciones de filtros — reflejan el período de análisis del 9 al 16 de abril de 2026, y pueden haber cambiado materialmente desde la publicación. Los valores cotizados en Corea conllevan riesgos de mercado, divisa, liquidez y regulatorios que pueden diferir significativamente de los mercados de origen de los inversores. El rendimiento pasado de los filtros y los patrones históricos de datos no garantizan resultados futuros. Los lectores deben realizar su propia diligencia debida y consultar a un asesor financiero autorizado antes de tomar cualquier decisión de inversión. El autor y el editor no mantienen posiciones en los valores analizados en el momento de la publicación.*
+---
+
+*Disclaimer: For research and information purposes only. Not investment advice. Names cited are for analytical illustration; readers should perform their own due diligence and consult licensed advisors before any investment decision.*

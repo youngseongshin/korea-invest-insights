@@ -49,7 +49,7 @@ Pearl Abyss is in the midst of a historic turnaround — from three consecutive 
 **Premise Verification:**
 
 - **Gross Method Basis [Inference]:** Q4 2025 Commissions of KRW 19.2B and Q1 2025 of KRW 17.3B are recorded as independent line items within operating expenses. Cost of Revenue = 0 structure. Historical quarterly commission rates of 20-22% have been consistently maintained.
-- **ASP KRW 83,500 Cross-verification:** Samsung Securities ~KRW 80,000, Meritz ~KRW 84,000, Alinea Analytics $50 (approx. KRW 73,000, Gross/Net unclear). Converges at midpoint.
+- **ASP KRW 83,500 Cross-verification:** Samsung Securities \~KRW 80,000, Meritz \~KRW 84,000, Alinea Analytics $50 (approx. KRW 73,000, Gross/Net unclear). Converges at midpoint.
 - **Dev Cost Expensing [Inference]:** Three consecutive years of operating losses (2023-2025) = development costs reflected in P&L annually. Minimal development cost balance in intangible assets. No significant amortization burden post-launch, so revenue converts almost directly to OP.
 
 **Consensus Gap:**
@@ -60,7 +60,7 @@ Pearl Abyss is in the midst of a historic turnaround — from three consecutive 
 | Meritz (Lee Hyo-jin) | KRW 477.5B | KRW 275.2B | Upper bound |
 | Our Estimate (Base) | KRW 430B | KRW 223B | — |
 
-The NH estimate is most widely cited but is based on 3/25 data (3 million copies) and already outdated. At the 5/7 earnings release, revenue will be ~2x and OP ~3x versus NH estimates, forcing a consensus reset.
+The NH estimate is most widely cited but is based on 3/25 data (3 million copies) and already outdated. At the 5/7 earnings release, revenue will be \~2x and OP \~3x versus NH estimates, forcing a consensus reset.
 
 ### Argument 2: 5 Million Copies Achieved or Imminent; Path to 6 Million Is Open
 
@@ -71,7 +71,7 @@ The NH estimate is most widely cited but is based on 3/25 data (3 million copies
 | 0 to 2M | 1 day | 2M | 2M/day |
 | 2M to 3M | 4 days | 1M | 250K/day |
 | 3M to 4M | 8 days | 1M | 125K/day |
-| 4M to 5M | ~10 days [Inference] | 1M | ~100K/day |
+| 4M to 5M | \~10 days [Inference] | 1M | \~100K/day |
 
 **Evidence for 5M Achievement:**
 
@@ -82,16 +82,16 @@ The NH estimate is most widely cited but is based on 3/25 data (3 million copies
 
 **6 Million Scenario (Within April):**
 
-Current estimated daily sales of 70-100K x remaining ~22 days = 1.54-2.2M additional copies. From the 5M base, 6.2-7.2M copies achievable by end of April.
+Current estimated daily sales of 70-100K x remaining \~22 days = 1.54-2.2M additional copies. From the 5M base, 6.2-7.2M copies achievable by end of April.
 
 Additional catalysts:
 - Post-conversion from China's Qingming Festival (4/4-6) viral effect
 - China accounts for less than 10% of total — the Chinese market is effectively untapped
-- Steam global reviews settling at "Very Positive" (~85%) reduces friction for new buyers
+- Steam global reviews settling at "Very Positive" (\~85%) reduces friction for new buyers
 
 **Q2 Implications at 6M:**
 
-Q2 new sales ~2M copies x ASP KRW 83,500 = Crimson Desert Q2 revenue ~KRW 167B. Adding legacy business ~KRW 95B yields Q2 revenue ~KRW 260B, OP ~KRW 110B [Speculation].
+Q2 new sales \~2M copies x ASP KRW 83,500 = Crimson Desert Q2 revenue \~KRW 167B. Adding legacy business \~KRW 95B yields Q2 revenue \~KRW 260B, OP \~KRW 110B [Speculation].
 
 ### Argument 3: KRW 57,400 Represents an Excessive Discount to Fundamentals
 
@@ -100,7 +100,7 @@ Q2 new sales ~2M copies x ASP KRW 83,500 = Crimson Desert Q2 revenue ~KRW 167B. 
 | Date | Price | Event |
 |------|-------|-------|
 | 1/7 (52-week low) | KRW 29,000 | Pre-launch pessimism |
-| 3/19 (launch day) | ~KRW 55,000 | Expectations priced in |
+| 3/19 (launch day) | \~KRW 55,000 | Expectations priced in |
 | 3/20 (D+1) | Limit down | Metacritic below expectations + AI asset controversy |
 | 3/25 | +23% surge | 3M copies + patch response confirmed |
 | 4/1 (52-week high) | KRW 77,400 | 4M copies, Very Positive, blockbuster confirmed |
@@ -157,19 +157,19 @@ This remains [Speculation] at this stage and is not reflected in our valuation, 
 |------|-----------------|-----------|-------|
 | 3/20 (D+1) | 2M [Fact] | 248,530 | Achieved within 24 hours |
 | 3/24 (D+4) | 3M [Fact] | — | Estimated BEP breakthrough |
-| 3/29 (D+10) | ~3.7M [Inference] | 276,261 (ATH) | Post-patch rebound |
-| 3/31 (Q1 close) | ~3.9M [Inference] | — | Accounting cutoff |
+| 3/29 (D+10) | \~3.7M [Inference] | 276,261 (ATH) | Post-patch rebound |
+| 3/31 (Q1 close) | \~3.9M [Inference] | — | Accounting cutoff |
 | 4/1 (D+12) | 4M [Fact] | — | Official announcement |
 | 4/1-2 | 5M [Fact, KitGuru report] | — | Official confirmation pending |
-| 4/6 (current est.) | ~5.0-5.3M [Inference] | 236,253 (weekend peak) | CCU-based extrapolation |
+| 4/6 (current est.) | \~5.0-5.3M [Inference] | 236,253 (weekend peak) | CCU-based extrapolation |
 
 ### 2-2. Steam Review Trends [Fact]
 
 | Period | Global | Simplified Chinese | Notes |
 |--------|--------|-------------------|-------|
-| Post-launch | Mixed (~65%) | ~27% | Controls/UI controversy |
-| Post-3/29 patch | Very Positive (~82%) | ~60% | First reversal |
-| As of 4/3 | Very Positive (~85%) | ~70% | Second reversal, stabilized |
+| Post-launch | Mixed (\~65%) | \~27% | Controls/UI controversy |
+| Post-3/29 patch | Very Positive (\~82%) | \~60% | First reversal |
+| As of 4/3 | Very Positive (\~85%) | \~70% | Second reversal, stabilized |
 
 ### 2-3. CCU Retention — Exceptional for Single-Player
 
@@ -187,12 +187,12 @@ For comparison: most single-player AAA titles see peak CCU drop to 30-50% within
 
 | Platform | Revenue Share | Basis |
 |----------|-------------|-------|
-| Steam (PC) | ~45% | Largest global distribution channel |
-| PS5 | ~38% | Alinea Analytics: $75M/$200M |
-| Xbox Series | ~12% | Xbox sales ranking #2 |
-| Epic/Mac/Other | ~5% | Minor |
+| Steam (PC) | \~45% | Largest global distribution channel |
+| PS5 | \~38% | Alinea Analytics: $75M/$200M |
+| Xbox Series | \~12% | Xbox sales ranking #2 |
+| Epic/Mac/Other | \~5% | Minor |
 
-The PS5 share of ~38% is notably higher than expected. No Korean game company has achieved this level of console performance, suggesting brokerage models may be systematically underestimating console revenue.
+The PS5 share of \~38% is notably higher than expected. No Korean game company has achieved this level of console performance, suggesting brokerage models may be systematically underestimating console revenue.
 
 ### 2-5. Q1 2026 P&L Estimate — Operating Expense Detail
 
@@ -211,9 +211,9 @@ Commission Rate cross-check: Q1 2025 20.7%, Q2 2025 22.8%, Q4 2025 20.1% => Q1 2
 
 | Item | Value |
 |------|-------|
-| Q1 Average FX Rate | ~KRW 1,464.8/USD |
+| Q1 Average FX Rate | \~KRW 1,464.8/USD |
 | 3/31 Period-End Rate | KRW 1,513.4/USD |
-| Overseas Revenue Share | ~85% |
+| Overseas Revenue Share | \~85% |
 | Revenue FX Uplift | +KRW 11.5B (vs Q1 2025 base rate of KRW 1,420) |
 | OP FX Uplift | +KRW 8-9B |
 
@@ -237,7 +237,7 @@ Commission Rate cross-check: Q1 2025 20.7%, Q2 2025 22.8%, Q4 2025 20.1% => Q1 2
 | Crimson Desert Sales | 9.0M copies |
 | Total Revenue | KRW 1,100B+ |
 | Operating Profit | KRW 480B+ |
-| EPS | ~KRW 5,800 |
+| EPS | \~KRW 5,800 |
 | Fair Value (PER 14x) | KRW 81,200 |
 
 ---
@@ -248,11 +248,11 @@ Commission Rate cross-check: Q1 2025 20.7%, Q2 2025 22.8%, Q4 2025 20.1% => Q1 2
 
 | Company | Market Cap | 2026E PER | EV/EBITDA | Type |
 |---------|-----------|-----------|-----------|------|
-| Capcom | ~$15B | ~22x | ~16x | Recurring IP (MH Wilds) |
-| CDPR | ~$10B | ~35x | ~25x | Witcher 4 in development |
-| Krafton | ~$11B | ~12x | ~9x | PUBG, Korea discount |
-| Netmarble | ~$3.5B | ~15x | ~10x | RF Next |
-| **Pearl Abyss** | **KRW 3.61T** | **~11x** | **~8x** | **Crimson Desert hit, KOSDAQ** |
+| Capcom | \~$15B | \~22x | \~16x | Recurring IP (MH Wilds) |
+| CDPR | \~$10B | \~35x | \~25x | Witcher 4 in development |
+| Krafton | \~$11B | \~12x | \~9x | PUBG, Korea discount |
+| Netmarble | \~$3.5B | \~15x | \~10x | RF Next |
+| **Pearl Abyss** | **KRW 3.61T** | **\~11x** | **\~8x** | **Crimson Desert hit, KOSDAQ** |
 
 Pearl Abyss trades at the lowest multiple among peers. Reasons: (1) KOSDAQ listing discount, (2) foreign ownership at 5.6% — extremely low, (3) discount for one-time package game revenue structure.
 
@@ -269,7 +269,7 @@ Based on EPS KRW 5,130 x target PER. Base is set at 13x rather than 14x because 
 ### 3-3. EV/EBITDA Cross-Check
 
 - 2026E EBITDA: KRW 420B (OP) + KRW 26B (D&A) = KRW 446B
-- Estimated net cash: ~KRW 500B (end-2025 ~KRW 300B + Q1 operating CF ~KRW 200B) [Speculation]
+- Estimated net cash: \~KRW 500B (end-2025 \~KRW 300B + Q1 operating CF \~KRW 200B) [Speculation]
 
 | Scenario | EV/EBITDA | Fair EV | Fair Market Cap | Fair Price |
 |---------|-----------|---------|----------------|-----------|
@@ -315,7 +315,7 @@ Based on EPS KRW 5,130 x target PER. Base is set at 13x rather than 14x because 
 
 ### 4-2. Treasury Shares & Commercial Code Amendment Impact
 
-- Holdings: 2.828M shares (4.4%), ~KRW 162.4B at current price
+- Holdings: 2.828M shares (4.4%), \~KRW 162.4B at current price
 - 3rd Commercial Code Amendment (effective 2026.3.6): Mandatory cancellation of existing treasury shares within 18 months
 - **Cancellation deadline: September 6, 2027** (exception if AGM approves retention)
 - Cancellation effect: +4.6% per-share value
@@ -357,7 +357,7 @@ Fulfilling any one of these opens PER +2-3x upside.
 | No DLC + Dokkebi 2yr+ content gap | 50% | PER locked at 10-12x |
 | Major unrelated M&A (CCP-level) | 15% | Governance risk resurfaces |
 | Global macro deterioration (prolonged Middle East conflict) | 30% | Sector-wide de-rating, FX volatility |
-| Q1 refund rate 10%+ | 15% | Recognized volume drops to 3.6M, revenue ~KRW 300B, OP ~KRW 180B |
+| Q1 refund rate 10%+ | 15% | Recognized volume drops to 3.6M, revenue \~KRW 300B, OP \~KRW 180B |
 
 ---
 
@@ -429,7 +429,7 @@ Second, **governance is a structural discount factor.** Foreign ownership of 5.6
 
 ### [Fact]
 1. Global 4M copies sold (4/1 official announcement)
-2. Revenue ~$200M, PS5 $75M (Alinea Analytics estimate)
+2. Revenue \~$200M, PS5 $75M (Alinea Analytics estimate)
 3. Steam ATH CCU 276,261 (3/29)
 4. 4/6 weekend peak CCU 236,253 (85% of ATH)
 5. 4/8 price KRW 57,400, market cap KRW 3.61T, 52-week range KRW 29,000-77,400
@@ -437,20 +437,20 @@ Second, **governance is a structural discount factor.** Foreign ownership of 5.6
 7. Q1 2025: Revenue KRW 83.7B, OP -KRW 5.2B, overseas share 80%
 8. CEO 3/27 AGM: "will quickly announce 5M," free patches over DLC, Switch 2 R&D commenced
 9. PS5 download chart March: US/Canada #2, Asia #1
-10. Steam global reviews Very Positive (~85%), Simplified Chinese ~70%
+10. Steam global reviews Very Positive (\~85%), Simplified Chinese \~70%
 11. Treasury shares 2.828M (4.4%), Commercial Code amendment cancellation deadline 2027.9.6
 12. China market share below 10% of total (brokerage estimates)
 13. Meritz TP KRW 100,000, NH TP KRW 51,000
-14. Q1 average FX ~KRW 1,464.8/USD, period-end KRW 1,513.4/USD
+14. Q1 average FX \~KRW 1,464.8/USD, period-end KRW 1,513.4/USD
 
 ### [Inference]
-1. Q1 recognized volume ~3.9-4.0M copies, Reported Revenue ~KRW 400-430B
-2. Q1 OP ~KRW 195-250B (assuming gross method + dev cost expensing)
+1. Q1 recognized volume \~3.9-4.0M copies, Reported Revenue \~KRW 400-430B
+2. Q1 OP \~KRW 195-250B (assuming gross method + dev cost expensing)
 3. 5M copies achieved around 4/1-2 (KitGuru report + CEO statement consistent)
 4. Current daily sales of 70-100K (CCU retention + console chart ranking extrapolation)
 5. 60%+ probability of reaching 6M within April
-6. Commission rate ~20-22% (cross-verified from historical quarterly data)
-7. PS5 share ~38% — exceptional console performance for a Korean developer
+6. Commission rate \~20-22% (cross-verified from historical quarterly data)
+7. PS5 share \~38% — exceptional console performance for a Korean developer
 8. Development costs expensed (3-year loss pattern, minimal intangible dev cost balance)
 
 ### [Speculation]
@@ -459,7 +459,7 @@ Second, **governance is a structural discount factor.** Foreign ownership of 5.6
 3. China Douyin viral as structural Q2 sales driver
 4. Switch 2 port adding 2-3M copies potential
 5. 2027 treasury share cancellation yielding +4.6% per-share value
-6. Net cash ~KRW 500B (post-Q1 operating CF inflow)
+6. Net cash \~KRW 500B (post-Q1 operating CF inflow)
 7. Q2 OP KRW 105B (based on 6M scenario)
 
 ### [Blocked]
@@ -473,4 +473,4 @@ Second, **governance is a structural discount factor.** Foreign ownership of 5.6
 
 ---
 
-*Disclaimer: This analysis is for informational purposes only and does not constitute investment advice. Past performance does not guarantee future results. Always conduct your own due diligence before making investment decisions.*
+*Disclaimer: For research and information purposes only. Not investment advice. Names cited are for analytical illustration; readers should perform their own due diligence and consult licensed advisors before any investment decision.*
