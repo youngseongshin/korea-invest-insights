@@ -1,9 +1,9 @@
 ---
-title: "SemiScope : OpenEdges Technology — Option sur IP LPDDR6 Samsung 4/5/8nm, pas un pari NPU"
+title: "SemiScope : OpenEdges Technology — L'opportunité de croissance de l'IP mémoire LPDDR6 pour Samsung 4/5/8nm"
 slug: semiscope-openedges-samsung-lpddr6-ip-option-2026-04-30
 aliases: ["/en/post/semiscope-openedges-samsung-lpddr6-ip-option-2026-04-30/"]
 date: 2026-04-30T12:00:00+09:00
-description: "OpenEdges Technology (394280 KQ) mérite d'être analysée moins comme une valeur NPU coréenne que comme une option sur IP de sous-système mémoire LPDDR5X/LPDDR6 pour les nœuds Samsung 4/5/8nm. Ce suivi SemiScope passe en revue le fossé produit, la structure des filiales, la dilution, la valorisation et les jalons nécessaires avant tout renforcement de position."
+description: "OpenEdges Technology (394280 KQ) offre un angle ciblé pour analyser la demande d'IP de sous-système mémoire LPDDR5X/LPDDR6 sur les nœuds Samsung 4/5/8nm. Ce suivi SemiScope passe en revue le fossé produit, la structure des filiales, la dilution, la valorisation et les jalons nécessaires avant tout renforcement de position."
 categories: ["Chaîne d'approvisionnement tech coréenne", "IP semi-conducteur"]
 tags: ["OpenEdges Technology", "394280", "SemiScope", "Samsung Foundry", "LPDDR6", "LPDDR5X", "DDR PHY", "Contrôleur mémoire", "NoC", "OpenEdges Square", "Fabless coréen", "IP semi-conducteur"]
 series: ["semiscope-2026"]

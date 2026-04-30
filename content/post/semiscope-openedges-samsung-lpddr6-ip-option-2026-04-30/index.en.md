@@ -1,9 +1,9 @@
 ---
-title: "SemiScope: OpenEdges Technology — Samsung 4/5/8nm LPDDR6 IP Option, Not an NPU Trade"
+title: "SemiScope: OpenEdges Technology — Samsung 4/5/8nm LPDDR6 Memory IP Growth Opportunity"
 slug: semiscope-openedges-samsung-lpddr6-ip-option-2026-04-30
 aliases: ["/en/post/semiscope-openedges-samsung-lpddr6-ip-option-2026-04-30/"]
 date: 2026-04-30T12:00:00+09:00
-description: "OpenEdges Technology (394280 KQ) should be analyzed less as a Korean NPU stock and more as a Samsung 4/5/8nm LPDDR5X/LPDDR6 memory-subsystem IP call option. This SemiScope follow-up reviews the product moat, subsidiary structure, dilution, valuation and the milestones needed before scaling exposure."
+description: "OpenEdges Technology (394280 KQ) offers a focused way to analyze Samsung 4/5/8nm LPDDR5X/LPDDR6 memory-subsystem IP demand. This SemiScope follow-up reviews the product moat, subsidiary structure, dilution, valuation and the milestones needed before scaling exposure."
 categories: ["Korea Tech Supply Chain", "Semiconductor IP"]
 tags: ["OpenEdges Technology", "394280", "SemiScope", "Samsung Foundry", "LPDDR6", "LPDDR5X", "DDR PHY", "Memory Controller", "NoC", "OpenEdges Square", "Korea Fabless", "Semiconductor IP"]
 series: ["semiscope-2026"]

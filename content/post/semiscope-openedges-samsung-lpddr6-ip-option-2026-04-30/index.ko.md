@@ -1,9 +1,9 @@
 ---
-title: "SemiScope: 오픈엣지테크놀로지 — 삼성 4/5/8nm LPDDR6 IP 옵션, NPU 매매가 아니다"
+title: "SemiScope: 오픈엣지테크놀로지 — 삼성 4/5/8nm LPDDR6 메모리 IP가 여는 성장 기회"
 slug: semiscope-openedges-samsung-lpddr6-ip-option-2026-04-30
 aliases: ["/en/post/semiscope-openedges-samsung-lpddr6-ip-option-2026-04-30/"]
 date: 2026-04-30T12:00:00+09:00
-description: "오픈엣지테크놀로지(394280 KQ)는 국내 NPU 종목이 아니라 삼성 4/5/8nm LPDDR5X/LPDDR6 메모리 서브시스템 IP 옵션으로 봐야 한다. 이번 SemiScope 후속 노트에서는 제품 해자, 자회사 구조, 희석 리스크, 밸류에이션, 그리고 비중 확대 전에 확인해야 할 기준점을 정리한다."
+description: "오픈엣지테크놀로지(394280 KQ)는 삼성 4/5/8nm LPDDR5X/LPDDR6 메모리 서브시스템 IP 수요를 읽는 핵심 기업이다. 이번 SemiScope 후속 노트에서는 제품 해자, 자회사 구조, 희석 리스크, 밸류에이션, 그리고 비중 확대 전에 확인해야 할 기준점을 정리한다."
 categories: ["Korea Tech Supply Chain", "Semiconductor IP"]
 tags: ["오픈엣지테크놀로지", "394280", "SemiScope", "삼성파운드리", "LPDDR6", "LPDDR5X", "DDR PHY", "메모리 컨트롤러", "NoC", "오픈엣지스퀘어", "국내 팹리스", "반도체 IP"]
 series: ["semiscope-2026"]
