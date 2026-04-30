@@ -20,6 +20,8 @@ series: ["pearl-abyss-crimson-desert-thesis"]
 draft: false
 ---
 
+> 📚 [펄어비스·붉은사막 투자 허브](/ko/page/pearl-abyss-crimson-desert-hub/)에서 목표가, 공매도 잔고, 패치 업데이트, 6만원 지지선, CCP/EVE 매각까지 전체 논거를 순서대로 볼 수 있다.
+
 > 🔗 함께 읽으면 좋은 글 — 펄어비스 × 크림슨 데저트 시리즈: [신한투자증권 목표가 7.2만 원 분석](/ko/post/pearl-abyss-shinhan-target-price-gap-analysis-2026-04-29/) · [개인 → 기관 손바뀜으로 6만 원이 지지선이 된 날](/ko/post/pearl-abyss-60k-new-support-retail-to-institutional-handoff-2026-04-27/) · [패치 후 첫 주말 데이터](/ko/post/pearl-abyss-crimson-desert-post-patch-weekend-data-2026-04-27/) · [플랫폼 재평가](/ko/post/pearl-abyss-crimson-desert-platform-rerating-2026-04-25/) · [1Q26 실적 프리뷰](/ko/post/pearl-abyss-1q26-earnings-preview-2026-04-21/) · [5M 프랜차이즈 재평가](/ko/post/pearl-abyss-crimson-desert-5m-franchise-thesis-2026-04-15/)
 
 *펄어비스(263750.KQ)가 4월 30일 CCP게임즈 지분 전량 매각을 공시했다. 매각가 1,771억 원, 처분 예정일 5월 6일. 이번 글은 직전에 닫은 시리즈와는 별개의 이벤트성 분석이다. 핵심 질문은 둘이다: 이번 매각이 펀더멘털을 얼마나 바꾸는가, 그리고 매각대금이 자사주 소각으로 연결될 가능성은 얼마나 되는가.*

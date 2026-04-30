@@ -20,6 +20,8 @@ series: ["pearl-abyss-crimson-desert-thesis"]
 draft: false
 ---
 
+> 📚 See the [Pearl Abyss and Crimson Desert research hub](/en/page/pearl-abyss-crimson-desert-hub/) for the full thread across target price, short-sale data, patch updates, KRW 60,000 support, and the CCP/EVE divestiture.
+
 > 🔗 **Related reads — Pearl Abyss × Crimson Desert series**: [Shinhan target ₩72,000 analysis](/post/pearl-abyss-shinhan-target-price-gap-analysis-2026-04-29/) · [Retail → institutional handoff at ₩60K](/post/pearl-abyss-60k-new-support-retail-to-institutional-handoff-2026-04-27/) · [Post-patch weekend data](/post/pearl-abyss-crimson-desert-post-patch-weekend-data-2026-04-27/) · [Platform re-rating](/post/pearl-abyss-crimson-desert-platform-rerating-2026-04-25/) · [1Q26 earnings preview](/post/pearl-abyss-1q26-earnings-preview-2026-04-21/) · [5M franchise re-rating](/post/pearl-abyss-crimson-desert-5m-franchise-thesis-2026-04-15/)
 
 *Pearl Abyss (263750.KQ) disclosed on April 30 the full divestiture of its CCP Games stake for ₩177.1bn, with a closing date of May 6. This note is a standalone event-driven analysis, separate from the series closed immediately prior. Two questions drive the analysis: how much does this transaction move the fundamental picture, and what is the probability that the proceeds flow into a share cancellation program?*

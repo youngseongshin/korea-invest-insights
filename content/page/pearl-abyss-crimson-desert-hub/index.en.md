@@ -1,10 +1,10 @@
 ---
-title: "Pearl Abyss and Crimson Desert Investment Research Hub"
+title: "Pearl Abyss and Crimson Desert Research Hub: Target Price, Shorts, Patch Updates"
 slug: "pearl-abyss-crimson-desert-hub"
 date: 2026-04-30T22:30:00+09:00
 aliases: ["/pearl-abyss/", "/crimson-desert/", "/en/pearl-abyss/", "/en/crimson-desert/", "/en/page/pearl-abyss-crimson-desert-hub/"]
 layout: "page"
-description: "A hub for Pearl Abyss and Crimson Desert investment research, covering unit sales, Patch 1.04, the KRW 60,000 support level, Shinhan's target-price gap, and the platform re-rating thesis."
+description: "A hub for Pearl Abyss and Crimson Desert investment research, covering target price, short-sale data, Patch 1.04 and Patch 1.05 watch points, KRW 60,000 support, the CCP/EVE divestiture, and the platform re-rating thesis."
 ---
 
 ## One-Line Thesis
@@ -12,6 +12,17 @@ description: "A hub for Pearl Abyss and Crimson Desert investment research, cove
 The Pearl Abyss thesis is no longer only about how many copies Crimson Desert sells. The deeper question is whether Crimson Desert can force the market to reclassify Pearl Abyss from a one-title launch story into a Korean AAA IP, proprietary-engine, and cash-flow platform company.
 
 This hub is the starting map for the full Pearl Abyss / Crimson Desert research thread.
+
+---
+
+## Quick Answers
+
+| Search Question | Current Answer | Read |
+|---|---|---|
+| What is the Pearl Abyss target price case? | Shinhan's KRW 72,000 target captures the first earnings reset, while our first fair-value anchor is KRW 75,000 and the 8.5M-copy validation case points toward roughly KRW 80,000. | [Pearl Abyss Target Price Gap](/en/post/pearl-abyss-shinhan-target-price-gap-analysis-2026-04-29/) |
+| Are Pearl Abyss shorts still controlling the tape? | Short selling remains part of the tape, but the April 21 data showed foreign and institutional buying absorbing short-sale pressure. The key point is weakening price control, not the mere existence of shorts. | [Pearl Abyss Short Sale Data](/en/post/pearl-abyss-short-sale-absorption-2026-04-21/) |
+| Why does Crimson Desert Patch 1.05 matter? | Patch 1.04 fixed difficulty, housing, pets, and QoL friction. Patch 1.05 is the next proof point for boss-rematch delivery and the endgame-loop cadence. | [Patch 1.04 Analysis](/en/post/pearl-abyss-crimson-desert-patch-104-witcher-moment-2026-04-23/) |
+| Does the CCP/EVE divestiture matter? | The sale is a 4.7%-of-market-cap cash event, but the real upside trigger is whether proceeds flow into buybacks and treasury-share cancellation. | [CCP/EVE Divestiture Analysis](/en/post/pearl-abyss-ccp-eve-divestment-capital-return-2026-04-30/) |
 
 ---
 
@@ -31,6 +42,7 @@ This hub is the starting map for the full Pearl Abyss / Crimson Desert research 
 
 | Date | Topic | Read |
 |---|---|---|
+| 2026-04-30 | Non-core asset divestiture and treasury-share cancellation option | [Pearl Abyss CCP/EVE Divestiture](/en/post/pearl-abyss-ccp-eve-divestment-capital-return-2026-04-30/) |
 | 2026-04-29 | Shinhan target-price raise and 2027 sales assumptions | [Pearl Abyss Target Price Gap](/en/post/pearl-abyss-shinhan-target-price-gap-analysis-2026-04-29/) |
 | 2026-04-27 | KRW 60,000 support and retail-to-institutional handoff | [Pearl Abyss KRW 60,000 Support](/en/post/pearl-abyss-60k-new-support-retail-to-institutional-handoff-2026-04-27/) |
 | 2026-04-27 | Post-patch weekend data and long-tail durability | [Crimson Desert Post-Patch Data](/en/post/pearl-abyss-crimson-desert-post-patch-weekend-data-2026-04-27/) |
@@ -62,6 +74,7 @@ This hub is the starting map for the full Pearl Abyss / Crimson Desert research 
 
 - [Pearl Abyss Re-Rating: Crimson Desert Is More Than a Unit-Sales Story](/en/post/pearl-abyss-crimson-desert-platform-rerating-2026-04-25/)
 - [The BDO Resurgence Nobody Noticed: +40% YoY in Crimson Desert's Shadow](/en/post/pearl-abyss-black-desert-online-resurgence-2026-04-19/)
+- [Pearl Abyss CCP/EVE Divestiture: The Real Trigger Is Treasury Share Cancellation](/en/post/pearl-abyss-ccp-eve-divestment-capital-return-2026-04-30/)
 
 ---
 
