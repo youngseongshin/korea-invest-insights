@@ -1,5 +1,5 @@
 ---
-title: "Upstage AI: Korea's Sovereign AI Leader, Daum Acquisition and MiniMax IPO Valuation Peer Map"
+title: "Upstage AI Valuation Map: Daum, Sovereign AI and MiniMax IPO"
 slug: upstage-ai-daum-sovereign-ai-minimax-ipo-2026-04-27
 aliases: ["/en/post/upstage-ai-daum-sovereign-ai-minimax-ipo-2026-04-27/"]
 date: 2026-04-27T16:30:00+09:00

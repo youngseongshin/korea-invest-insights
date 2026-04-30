@@ -1,5 +1,5 @@
 ---
-title: "Pearl Abyss — Why the Re-Rating Question Is No Longer 'How Many Copies?': MMORPG Live-Ops DNA Reshapes the AAA Package Long-Tail"
+title: "Pearl Abyss Re-Rating: Crimson Desert Is More Than a Unit-Sales Story"
 slug: pearl-abyss-crimson-desert-platform-rerating-2026-04-25
 aliases: ["/en/post/pearl-abyss-crimson-desert-platform-rerating-2026-04-25/"]
 date: 2026-04-25T22:00:00+09:00

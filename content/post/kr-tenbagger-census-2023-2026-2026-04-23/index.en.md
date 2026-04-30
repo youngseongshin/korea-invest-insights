@@ -1,5 +1,5 @@
 ---
-title: "Korea's 27 Tenbaggers of 2023-2026: 1 in 100 Stocks Worked — And Power Grid Quietly Beat AI"
+title: "Korea Tenbaggers 2023-2026: Power Grid Beat the AI Hype"
 slug: kr-tenbagger-census-2023-2026-2026-04-23
 aliases: ["/en/post/kr-tenbagger-census-2023-2026-2026-04-23/"]
 date: 2026-04-23T10:30:00+09:00

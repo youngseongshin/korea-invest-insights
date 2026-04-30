@@ -1,5 +1,5 @@
 ---
-title: "Samsung Heavy Industries: The LNG Giant Powering the Global Energy Renaissance"
+title: "Samsung Heavy Industries: LNG Carriers and Energy Shipping Upside"
 date: 2026-04-09T12:00:00+09:00
 categories: ["company-deep-dive"]
 tags: ["Samsung Heavy Industries", "010140.KS", "Korean shipbuilding", "LNG carrier", "FLNG", "KOSPI", "Korean stocks", "energy infrastructure"]

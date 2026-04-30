@@ -1,6 +1,6 @@
 ---
 slug: "apr-medicube-age-r-deep-dive-valuation-2026"
-title: "에이피알(278470.KQ) 심층분석: 메디큐브·AGE-R로 K뷰티 1위에 오른 고성장주의 진짜 가치"
+title: "에이피알 분석: 메디큐브·AGE-R이 만든 K뷰티 1위주"
 description: "에이피알 심층분석. 시총 12조원으로 아모레퍼시픽·LG생활건강을 제치고 한국 뷰티 1위. 메디큐브 매출 1.4조, AGE-R 누적 600만대, 2026년 매출 가이던스 2.1조. 펀더멘털·차트 모두 강하지만 싼 종목은 아니다."
 date: 2026-04-09T21:00:00+09:00
 categories: ["company-deep-dive"]

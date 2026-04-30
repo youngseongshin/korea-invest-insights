@@ -1,5 +1,5 @@
 ---
-title: "Is Olive Young Publicly Traded? CJ Corp, CJ CheilJedang, and How to Get Real K-Beauty Exposure"
+title: "Is Olive Young Publicly Traded? How to Invest in K-Beauty Exposure"
 slug: olive-young-publicly-traded-cj-corp-korea-beauty-exposure-2026-04-27
 date: 2026-04-27T22:00:00+09:00
 description: "Olive Young is not publicly traded. The cleanest indirect proxy is CJ Corporation (000120.KS), which owns ~51.2% of CJ Olive Young. CJ CheilJedang is a separate food entity and is not a direct K-beauty play. Better-aligned listed names: AmorePacific (090430.KS), LG H&H (051900.KS), Cosmax (192820.KS), Kolmar Korea (161890.KS), COSRX (now under Kolmar BNH). Full ownership map, IPO history, and a 5-bucket exposure framework."

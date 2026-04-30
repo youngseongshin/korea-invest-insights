@@ -1,5 +1,5 @@
 ---
-title: "한국 퀄리티 리레이팅 워치 2026-04-28: SK하이닉스·SK스퀘어·제룡산업 — 수급·실적 동시 점화"
+title: "한국 퀄리티 리레이팅: SK하이닉스·SK스퀘어·제룡산업"
 date: 2026-04-28T16:30:00+09:00
 categories: ["daily-wrap"]
 tags: ["KOSPI", "한국주식", "Quality Compounder", "Smart Money", "Cycle Rerating", "PEAD", "SK하이닉스", "SK스퀘어", "제룡산업", "반도체", "전력기기", "Korea stocks"]

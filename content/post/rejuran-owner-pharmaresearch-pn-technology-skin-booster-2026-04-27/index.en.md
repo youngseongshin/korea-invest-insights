@@ -1,5 +1,5 @@
 ---
-title: "Who Owns Rejuran? PharmaResearch (214450.KS), the PN Technology Platform, and Global Skin-Booster Expansion"
+title: "Who Owns Rejuran? PharmaResearch and Korea's Skin-Booster Platform"
 slug: rejuran-owner-pharmaresearch-pn-technology-skin-booster-2026-04-27
 date: 2026-04-27T23:30:00+09:00
 description: "Rejuran is owned and manufactured by PharmaResearch (214450.KOSDAQ), a Korean medical-aesthetics company built on its proprietary PN (Polynucleotide) / PDRN salmon-DNA platform. Rejuran is the consumer brand; PN is the platform. The company is currently the only listed public proxy for the polynucleotide skin-booster category as it expands across Southeast Asia, the Middle East, Latin America, and pursues regulated entry into China, Europe, and the US. Full ownership map, product family, financial profile, competitive landscape vs Hugel / Medytox / Galderma, and investor framework."

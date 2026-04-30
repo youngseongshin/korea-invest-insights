@@ -1,5 +1,5 @@
 ---
-title: "Korea's 2026 KOSDAQ Policy Package: Which Triggers Actually Bring Money — A VC's Ranking"
+title: "KOSDAQ Policy Triggers: Which 2026 Reforms Bring Real Money?"
 date: 2026-04-21T20:00:00+09:00
 slug: "kosdaq-2026-capital-inflow-triggers-vc-ranking-2026-04-21"
 aliases: ["/en/post/kosdaq-2026-capital-inflow-triggers-vc-ranking-2026-04-21/"]

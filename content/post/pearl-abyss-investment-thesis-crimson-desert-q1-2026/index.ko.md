@@ -1,6 +1,6 @@
 ---
 slug: "pearl-abyss-investment-thesis-crimson-desert-q1-2026"
-title: "펄어비스(263750.KQ) 투자 테시스: 붉은사막의 역대급 턴어라운드"
+title: "펄어비스 투자 테시스: 크림슨 데저트 턴어라운드"
 description: "펄어비스 심층 투자 테시스. 붉은사막 12일 만에 400만장 판매, Q1 2026 영업이익 2,000~2,500억원 전망 — 한국 게임사 역대급 턴어라운드."
 date: 2026-04-08T09:00:00+09:00
 categories: ["company-deep-dive"]

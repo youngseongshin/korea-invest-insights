@@ -1,5 +1,5 @@
 ---
-title: "Korean Market Wrap: Selective Risk-On as Energy and Fiber Optics Lead the Rebound"
+title: "Korean Market Wrap Apr 3: Energy and Fiber Optics Lead"
 date: 2026-04-03T23:30:00+09:00
 categories: ["market-close"]
 tags: ["KOSPI", "Korean equities", "energy infrastructure", "fiber optics", "Samsung Electronics", "Pearl Abyss", "SK Telecom"]

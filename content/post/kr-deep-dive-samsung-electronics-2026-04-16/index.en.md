@@ -1,5 +1,5 @@
 ---
-title: "Samsung Electronics: Korea's AI & HBM Semiconductor Giant (2026 Deep Dive)"
+title: "Samsung Electronics 2026: AI, HBM and Foundry Deep Dive"
 date: 2026-04-16T12:00:00+09:00
 categories: ["company-deep-dive"]
 tags: ["Samsung Electronics", "005930.KS", "KOSPI", "HBM", "Korean stocks", "semiconductor", "Galaxy", "foundry", "AI chip", "Korean tech giant", "Samsung HBM", "Samsung Electronics stock"]

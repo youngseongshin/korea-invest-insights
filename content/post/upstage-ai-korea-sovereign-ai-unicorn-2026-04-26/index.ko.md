@@ -1,5 +1,5 @@
 ---
-title: "한국 AI 심층 분석: 업스테이지는 ChatGPT 클론이 아니다 - Solar, Document AI, AMD와 소버린 AI"
+title: "업스테이지 AI: Solar, Document AI, AMD와 한국 독자AI 베팅"
 slug: upstage-ai-korea-sovereign-ai-unicorn-2026-04-26
 date: 2026-04-26T23:50:00+09:00
 description: "업스테이지 AI가 한국 최초의 생성형 AI 유니콘이 됐다. 핵심 투자 논지는 소비자용 챗봇이 아니라, Solar와 Document Parse, AMD/AWS 인프라, 일본 시장 확장을 중심으로 구축된 소버린 AI·기업용 문서 인텔리전스 플랫폼이다."

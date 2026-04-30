@@ -1,5 +1,5 @@
 ---
-title: "삼성전기 (009150): 90일 만에 주가가 두 배 오른 이유 — 그리고 앞으로 무엇이 맞아떨어져야 하는가"
+title: "삼성전기 주가가 90일 만에 두 배 오른 이유"
 date: 2026-04-21T10:00:00+09:00
 slug: "samsung-electro-mechanics-ai-infrastructure-rerating-2026-04-21"
 description: "삼성전기(009150.KS)가 90일 만에 두 배 올랐다 — KRW 40만 원에서 KRW 68만 원 이상으로. 단순한 AI 수혜주 랠리가 아니다. FC-BGA는 Groq3 LPU 첫 번째 공급사로서 Nvidia의 Vera Rubin 생태계에 진입했고, Murata·Taiyo Yuden 주도의 가격 인상으로 MLCC 가격 사이클이 전환됐으며, 베트남 KRW 1.8조 증설과 Sumitomo 유리기판 JV가 2027년 이후 성장 축을 가시화했다. 이는 구조적 전환이다: 가격 수용자에서 가격 결정자로, 삼성 의존에서 빅테크 6개사 고객 믹스로, MLCC+FC-BGA의 유리 인터포저 옵션 확보."

@@ -1,5 +1,5 @@
 ---
-title: "SK Hynix HBM Market Share 2026: AI Memory Demand, Margins and Investor Checklist"
+title: "SK Hynix HBM Market Share 2026: AI Memory Investor Guide"
 slug: sk-hynix-hbm-market-share-ai-memory-demand-2026
 date: 2026-04-27T23:10:00+09:00
 description: "A practical 2026 guide for global investors on SK Hynix's HBM market share, AI memory demand, HBM3E/HBM4 transition, 72% operating margin and the key checklist for Korean AI semiconductor exposure."

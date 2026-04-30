@@ -1,5 +1,5 @@
 ---
-title: "Pearl Abyss 1Q26 Earnings Preview: KRW 395B Revenue / KRW 205B OP — Why 51.9% Margin Is The Defensible Central Case"
+title: "Pearl Abyss 1Q26 Preview: 51.9% Margin Case After Crimson Desert"
 date: 2026-04-21T15:00:00+09:00
 slug: "pearl-abyss-1q26-earnings-preview-2026-04-21"
 aliases: ["/en/post/pearl-abyss-1q26-earnings-preview-2026-04-21/"]

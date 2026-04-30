@@ -1,5 +1,5 @@
 ---
-title: "Korea 2026: Why KOSPI +49% YTD Is a Re-Rating, Not a Rally — A Framework for Foreign Allocators"
+title: "Korea 2026 Re-Rating: Why KOSPI +49% Is Not Just a Rally"
 slug: korea-outperformance-2026-structural-rerating-2026-04-24
 aliases: ["/en/post/korea-outperformance-2026-structural-rerating-2026-04-24/"]
 date: 2026-04-24T09:00:00+09:00

@@ -1,5 +1,5 @@
 ---
-title: "US 40 Tenbaggers of 2023-2026: The AI-Infrastructure Full Stack, and How It Pairs With Korea's 27"
+title: "US Tenbaggers 2023-2026: AI Infrastructure and Korea Pair Trades"
 slug: us-tenbagger-census-2023-2026-2026-04-23
 aliases: ["/en/post/us-tenbagger-census-2023-2026-2026-04-23/"]
 date: 2026-04-23T21:00:00+09:00

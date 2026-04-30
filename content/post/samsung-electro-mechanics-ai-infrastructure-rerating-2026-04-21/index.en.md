@@ -1,5 +1,5 @@
 ---
-title: "Samsung Electro-Mechanics (009150): Why The Stock Doubled In 90 Days — And What Has To Go Right From Here"
+title: "Samsung Electro-Mechanics: Why the Stock Doubled in 90 Days"
 date: 2026-04-21T10:00:00+09:00
 slug: "samsung-electro-mechanics-ai-infrastructure-rerating-2026-04-21"
 aliases: ["/en/post/samsung-electro-mechanics-ai-infrastructure-rerating-2026-04-21/"]

@@ -1,5 +1,5 @@
 ---
-title: "SemiScope: Three Korean Memory ATE & IP Names Re-Ranked — Why Exicon is the 2026 J-Curve Trade, Not the Afterthought"
+title: "Korean Memory ATE Stocks: Neosem, Exicon and OpenEdges Re-Ranked"
 slug: semiscope-neosem-exicon-openedge-rerank-2026-04-25
 aliases: ["/en/post/semiscope-neosem-exicon-openedge-rerank-2026-04-25/"]
 date: 2026-04-25T18:00:00+09:00

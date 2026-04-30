@@ -1,5 +1,5 @@
 ---
-title: "빅테크 1Q26 결산 — AI 투자 재가속이 한국 AI 공급망 우려를 어떻게 해소하는가: 삼성전자(005930) vs 삼성전기(009150)"
+title: "삼성전자 vs 삼성전기: 빅테크 AI 투자 재가속의 한국 공급망 시사점"
 slug: bigtech-1q26-samsung-electronics-vs-electro-mechanics-2026-04-30
 date: 2026-04-30T11:00:00+09:00
 description: "Amazon, Microsoft, Alphabet, Meta의 1Q26 실적이 전하는 핵심 메시지는 AI 수요 피로가 아니라 AI 투자 재가속이다. 네 개 하이퍼스케일러의 2026년 AI·클라우드 투자 합산 연환산 규모는 약 6,500억 달러다. 삼성전자(005930)에는 이 투자가 HBM·DDR5·eSSD·서버 DRAM 수주로 직결된다. 삼성전기(009150)는 AI용 MLCC·FC-BGA 수요 확대라는 구조적 흐름을 타고 있지만, 주가에는 이미 상당 부분 반영돼 있다. 6~12개월 상대 선호도: 삼성전자 > 삼성전기."

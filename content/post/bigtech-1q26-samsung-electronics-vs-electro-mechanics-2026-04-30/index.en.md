@@ -1,5 +1,5 @@
 ---
-title: "Big Tech 1Q26 Wrap — How AI Capex Re-Acceleration Resolves Korea's AI Supply-Chain Worry: Samsung Electronics (005930) vs Samsung Electro-Mechanics (009150)"
+title: "Samsung Electronics vs Samsung Electro-Mechanics: Big Tech AI Capex Read-Through"
 slug: bigtech-1q26-samsung-electronics-vs-electro-mechanics-2026-04-30
 date: 2026-04-30T11:00:00+09:00
 description: "The headline message from Amazon, Microsoft, Alphabet, and Meta's 1Q26 prints is not AI demand fatigue — it is AI capex re-acceleration. The four hyperscalers are running at a combined ~$650B 2026 AI/cloud capex run-rate. For Samsung Electronics (005930), that capex translates directly into HBM / DDR5 / eSSD / server DRAM order flow. For Samsung Electro-Mechanics (009150), the AI MLCC / FC-BGA exposure is real but already discounted by the tape. 6-12 month relative preference: Samsung Electronics > Samsung Electro-Mechanics."

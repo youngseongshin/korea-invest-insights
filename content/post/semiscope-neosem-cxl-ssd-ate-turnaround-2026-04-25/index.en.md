@@ -1,5 +1,5 @@
 ---
-title: "SemiScope: Neosem - Korea's CXL and Gen6 SSD Tester Pure Play at a 2026 Order-Cycle Inflection"
+title: "Neosem CXL Tester Thesis: Gen6 SSD Orders and 2026 Inflection"
 slug: semiscope-neosem-cxl-ssd-ate-turnaround-2026-04-25
 aliases: ["/en/post/semiscope-neosem-cxl-ssd-ate-turnaround-2026-04-25/"]
 date: 2026-04-25T19:20:00+09:00

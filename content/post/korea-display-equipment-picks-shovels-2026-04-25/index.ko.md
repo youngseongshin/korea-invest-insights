@@ -1,5 +1,5 @@
 ---
-title: "한국 디스플레이에 다시 기회가 온다: BOE 흔들림과 8.6G OLED 사이클에서 장비·소재주를 봐야 하는 이유"
+title: "한국 디스플레이 장비주: BOE 부진과 OLED 투자 사이클"
 slug: korea-display-equipment-picks-shovels-2026-04-25
 date: 2026-04-25T09:00:00+09:00
 description: "BOE의 Apple 라인 가동률이 82%에서 48%로 급락하면서 한국 디스플레이 공급망에 다시 기회가 열리고 있다. 다만 직접 패널주보다 더 매력적인 알파는 한 단계 아래 — 중국 8.6세대 OLED CapEx와 HBM/DDR5 반도체 사이클에 동시에 노출된 장비·소재주다. AP System(265520), Soulbrain(357780), 동진쎄미켐(005290)."

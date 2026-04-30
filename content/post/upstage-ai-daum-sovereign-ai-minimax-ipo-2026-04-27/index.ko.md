@@ -1,5 +1,5 @@
 ---
-title: "업스테이지 AI: 한국 독자AI 리더, 다음 인수와 MiniMax IPO 밸류에이션 비교"
+title: "업스테이지 AI 밸류에이션 지도: 다음 인수, 독자AI, MiniMax IPO"
 slug: upstage-ai-daum-sovereign-ai-minimax-ipo-2026-04-27
 date: 2026-04-27T16:30:00+09:00
 description: "업스테이지 AI 투자 논거 2부: 한국의 독자AI 프로그램, 공공부문 AX 수요, AI 바우처 도입, 다음 인수, B2C 에이전트, 그리고 MiniMax·Zhipu IPO 피어가 업스테이지의 상장 경로를 어떻게 바꿀 수 있는지 분석한다."

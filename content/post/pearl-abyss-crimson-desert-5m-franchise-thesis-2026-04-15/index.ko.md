@@ -1,5 +1,5 @@
 ---
-title: "500만 장 돌파 이후의 펄어비스: 750만이 상단이 아닌 하단인 이유"
+title: "펄어비스 500만 장 이후: 750만 장이 새 하단인 이유"
 date: 2026-04-15T18:00:00+09:00
 categories: ["company-deep-dive"]
 tags: ["Pearl Abyss", "펄어비스", "263750", "Crimson Desert", "붉은사막", "Korean stocks", "KOSDAQ", "gaming stocks", "AAA games", "BlackSpace Engine", "franchise valuation"]

@@ -1,5 +1,5 @@
 ---
-title: "Pearl Abyss: Crimson Desert Conquers China — 86% Steam Rating & 4M Copies Sold"
+title: "Pearl Abyss: Crimson Desert China Breakout and 4M Copies"
 date: 2026-04-04T21:00:00+09:00
 categories: ["company-deep-dive"]
 tags: ["Pearl Abyss", "263750.KS", "Crimson Desert", "Red Desert", "붉은사막", "Korean gaming stocks", "KOSPI", "Steam", "China gaming market"]

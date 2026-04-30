@@ -1,5 +1,5 @@
 ---
-title: "CXL 수혜주 네오셈 분석: Gen6 SSD 테스터와 2026년 반도체 장비 수주 변곡점"
+title: "네오셈 CXL 테스터 분석: Gen6 SSD 수주와 2026년 변곡점"
 slug: semiscope-neosem-cxl-ssd-ate-turnaround-2026-04-25
 date: 2026-04-25T19:20:00+09:00
 description: "CXL 수혜주와 반도체 장비주로 주목받는 네오셈(253590)을 분석한다. PCIe Gen6 SSD 테스터, CXL 3.1 메모리 테스터, 서버 DIMM 자동화, SOCAMM, HBM 번인 옵션까지 살펴보고 2025년 실적 급감 이후 2026년 수주·매출 변곡점 가능성을 점검한다."

@@ -1,5 +1,5 @@
 ---
-title: "2026년 한국: KOSPI +49% YTD는 랠리가 아닌 리레이팅이다 — 해외 기관 투자자를 위한 프레임워크"
+title: "2026년 한국 리레이팅: KOSPI +49%는 단순 랠리가 아니다"
 slug: korea-outperformance-2026-structural-rerating-2026-04-24
 date: 2026-04-24T09:00:00+09:00
 description: "KOSPI +49% YTD는 주요 글로벌 지수를 30%p 이상 앞선다. HBM 슈퍼사이클, 입법 기반 지배구조 개혁, Sell America 로테이션이 동시에 점화됐다. 해외 기관 투자자가 한국을 제대로 담기 위한 3-바스켓 프레임워크를 제시한다."

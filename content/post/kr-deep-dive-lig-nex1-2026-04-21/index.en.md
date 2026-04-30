@@ -1,5 +1,5 @@
 ---
-title: "LIG Nex1: Korea's Precision-Strike Powerhouse Riding the K-Defense Export Wave"
+title: "LIG Nex1: Korea Precision-Strike Stock Riding Defense Exports"
 date: 2026-04-21T12:00:00+09:00
 categories: ["company-deep-dive"]
 tags: ["LIG Nex1", "079550.KS", "Korean defense stocks", "K-defense exports", "Chunmoo MLRS", "KOSPI", "precision-guided munitions", "Korean stocks"]

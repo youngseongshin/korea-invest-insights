@@ -1,5 +1,5 @@
 ---
-title: "Korea Display Equipment Thesis: Why the BOE-vs-Korea Narrative is the Wrong Trade — Go to Picks & Shovels"
+title: "Korea Display Equipment Stocks: BOE Weakness and OLED Capex"
 slug: korea-display-equipment-picks-shovels-2026-04-25
 aliases: ["/en/post/korea-display-equipment-picks-shovels-2026-04-25/"]
 date: 2026-04-25T09:00:00+09:00

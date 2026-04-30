@@ -1,5 +1,5 @@
 ---
-title: "CXL 관련주 오픈엣지테크놀로지 분석: 장비주가 아닌 반도체 IP 플랫폼 옵션"
+title: "오픈엣지테크놀로지: 한국 메모리 IP 플랫폼과 로열티 옵션"
 slug: semiscope-openedges-technology-ip-platform-2026-04-25
 date: 2026-04-25T18:30:00+09:00
 description: "CXL 관련주로 거론되는 오픈엣지테크놀로지(394280)를 분석한다. 오픈엣지는 네오셈·엑시콘 같은 CXL 장비주가 아니라 메모리 컨트롤러, DDR PHY, NPU, UCIe, CXL 인접 메모리 IP를 보유한 반도체 IP 플랫폼 옵션에 가깝다."

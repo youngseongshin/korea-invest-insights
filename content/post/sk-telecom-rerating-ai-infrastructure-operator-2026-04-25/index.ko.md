@@ -1,5 +1,5 @@
 ---
-title: "SK텔레콤 리레이팅 테제 — 통신 배당주에서 AI 인프라 오퍼레이터로"
+title: "SK텔레콤 리레이팅: 배당주에서 AI 인프라 기업으로"
 slug: sk-telecom-rerating-ai-infrastructure-operator-2026-04-25
 date: 2026-04-25T22:30:00+09:00
 description: "SK텔레콤 리레이팅은 '배당 정상화' 스토리가 아니다. 통신 핵심 현금흐름 + Anthropic 지분 + AIDC/GPUaaS + Edge AI/AI-RAN/Network API 옵션의 복합 재편 스토리다. ₩100,000에서는 1차 상승의 상당 부분이 이미 반영됐다. 보유 유지 또는 ₩90,000 이하 혹은 1Q/2Q 배당·실적·AIDC 성장 확인 후 매수."

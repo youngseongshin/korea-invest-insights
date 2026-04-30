@@ -1,5 +1,5 @@
 ---
-title: "펄어비스: 붉은사막, 중국 정복 — Steam 86% 긍정 평가 & 400만 장 판매"
+title: "펄어비스: 붉은사막 중국 돌파와 400만 장 판매"
 date: 2026-04-04T21:00:00+09:00
 categories: ["company-deep-dive"]
 tags: ["Pearl Abyss", "263750.KS", "Crimson Desert", "Red Desert", "붉은사막", "한국 게임주", "KOSPI", "Steam", "중국 게임 시장"]

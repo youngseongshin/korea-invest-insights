@@ -1,5 +1,5 @@
 ---
-title: "Korea Quality Re-Rating Watch 2026-04-28: SK Hynix, SK Square, Jeoryong — Quality With Smart Money Flow"
+title: "Korea Quality Re-Rating Watch: SK Hynix, SK Square and Jeoryong"
 date: 2026-04-28T16:30:00+09:00
 categories: ["daily-wrap"]
 tags: ["KOSPI", "Korea stocks", "Quality Compounder", "Smart Money", "Cycle Rerating", "SK Hynix", "SK Square", "Jeoryong", "semiconductors", "power equipment"]

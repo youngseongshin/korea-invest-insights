@@ -1,5 +1,5 @@
 ---
-title: "KOSDAQ Coverage Gaps 2026: 52 Names Analysts Actually Follow — And the 9 Small-Caps Hiding in Plain Sight"
+title: "KOSDAQ Coverage Gaps: 52 Covered Names and 9 Hidden Small-Caps"
 slug: kosdaq-coverage-gaps-variant-perception-2026-04-23
 aliases: ["/en/post/kosdaq-coverage-gaps-variant-perception-2026-04-23/"]
 date: 2026-04-23T18:00:00+09:00

@@ -1,5 +1,5 @@
 ---
-title: "Korea AI Deep Dive: Upstage AI Is Not a ChatGPT Clone - Solar, Document AI, AMD and Sovereign AI"
+title: "Upstage AI: Solar, Document AI, AMD and Korea's Sovereign AI Bet"
 slug: upstage-ai-korea-sovereign-ai-unicorn-2026-04-26
 aliases: ["/en/post/upstage-ai-korea-sovereign-ai-unicorn-2026-04-26/"]
 date: 2026-04-26T23:50:00+09:00

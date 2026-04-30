@@ -1,5 +1,5 @@
 ---
-title: "SemiScope: OpenEdges Technology — Korea's Memory Subsystem IP Platform With a Royalty J-Curve Option"
+title: "OpenEdges Technology: Korea's Memory IP Platform and Royalty Option"
 slug: semiscope-openedges-technology-ip-platform-2026-04-25
 aliases: ["/en/post/semiscope-openedges-technology-ip-platform-2026-04-25/"]
 date: 2026-04-25T18:30:00+09:00

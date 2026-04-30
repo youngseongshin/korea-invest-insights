@@ -1,5 +1,5 @@
 ---
-title: "Korea Daily Wrap 2026-04-20: Bull Regime Confirmed, PEAD Signals Broad Earnings Strength"
+title: "Korea Daily Wrap Apr 20: Bull Regime and PEAD Strength"
 date: 2026-04-20T16:30:00+09:00
 categories: ["daily-wrap"]
 tags: ["KOSPI", "Korea stocks", "PEAD", "earnings drift", "semiconductor", "shipbuilding", "SK Hynix", "Korean market"]

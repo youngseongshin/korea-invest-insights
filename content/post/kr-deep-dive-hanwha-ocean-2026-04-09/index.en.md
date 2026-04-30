@@ -1,5 +1,5 @@
 ---
-title: "Hanwha Ocean: The Naval Shipbuilding Giant Riding the Korean Shipbuilding Renaissance"
+title: "Hanwha Ocean: LNG, Defense and Korea Shipbuilding Renaissance"
 date: 2026-04-09T12:00:00+09:00
 categories: ["company-deep-dive"]
 tags: ["Hanwha Ocean", "042660.KS", "KOSPI", "Korean shipbuilding", "LNG carriers", "naval vessels", "Korean stocks", "defense shipbuilding", "KRX"]

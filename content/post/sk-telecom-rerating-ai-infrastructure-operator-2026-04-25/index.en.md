@@ -1,5 +1,5 @@
 ---
-title: "SK Telecom Re-Rating Thesis — From Telco Dividend Stock to AI Infrastructure Operator"
+title: "SK Telecom Re-Rating: From Dividend Stock to AI Infrastructure"
 slug: sk-telecom-rerating-ai-infrastructure-operator-2026-04-25
 aliases: ["/en/post/sk-telecom-rerating-ai-infrastructure-operator-2026-04-25/"]
 date: 2026-04-25T22:30:00+09:00

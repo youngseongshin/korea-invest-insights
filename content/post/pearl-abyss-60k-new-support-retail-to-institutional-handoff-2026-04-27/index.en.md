@@ -1,5 +1,5 @@
 ---
-title: "Pearl Abyss — Securing ₩60,000 as the New Support Floor: A Healthy Handoff from Retail to Institutions on April 27"
+title: "Pearl Abyss KRW 60,000 Support: Retail-to-Institutional Handoff"
 slug: pearl-abyss-60k-new-support-retail-to-institutional-handoff-2026-04-27
 aliases: ["/en/post/pearl-abyss-60k-new-support-retail-to-institutional-handoff-2026-04-27/"]
 date: 2026-04-27T18:30:00+09:00

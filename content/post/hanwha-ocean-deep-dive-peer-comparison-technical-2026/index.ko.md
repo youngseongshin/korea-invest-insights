@@ -1,6 +1,6 @@
 ---
 slug: "hanwha-ocean-deep-dive-peer-comparison-technical-2026"
-title: "한화오션 심층분석: LNG·방산·해양안보 3층 내러티브와 피어 비교"
+title: "한화오션 분석: LNG·방산·해양안보 3중 테마"
 description: "한화오션 심층분석. LNG선으로 실적, 특수선/방산으로 멀티플, 해외 MRO로 장기 옵션. HD한국조선해양·삼성중공업 3사 비교 + 기술적 분석 종합."
 date: 2026-04-09T20:00:00+09:00
 categories: ["company-deep-dive"]

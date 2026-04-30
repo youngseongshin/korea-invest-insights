@@ -1,5 +1,5 @@
 ---
-title: "Korea Daily Wrap 2026-04-27: Hanwha Vision, Woowon Development and Pharmicell Lead PEAD as Semis/Power Rally"
+title: "Korea Daily Wrap Apr 27: Semis, Power and PEAD Leaders Rally"
 date: 2026-04-27T16:30:00+09:00
 categories: ["daily-wrap"]
 tags: ["KOSPI", "Korea stocks", "semiconductors", "power infrastructure", "PEAD", "earnings drift", "HBM", "Hanwha Vision", "Woowon Development", "Pharmicell", "Bosung Powertech"]

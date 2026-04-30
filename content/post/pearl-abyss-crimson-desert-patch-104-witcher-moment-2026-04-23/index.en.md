@@ -1,5 +1,5 @@
 ---
-title: "Pearl Abyss Crimson Desert Patch 1.04.00: The Witcher-3 Moment — Why This Is the Re-Rating Catalyst"
+title: "Crimson Desert Patch 1.04: Why It Could Re-Rate Pearl Abyss"
 slug: pearl-abyss-crimson-desert-patch-104-witcher-moment-2026-04-23
 aliases: ["/en/post/pearl-abyss-crimson-desert-patch-104-witcher-moment-2026-04-23/"]
 date: 2026-04-23T22:30:00+09:00

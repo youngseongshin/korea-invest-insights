@@ -1,5 +1,5 @@
 ---
-title: "한화엔진 (082740.KS) 리레이팅 분석 — 고마진 선박엔진 사이클 + 4행정 데이터센터 엔진 옵션 + 한화그룹 미국 전력 패키지"
+title: "한화엔진 리레이팅: 선박엔진, 데이터센터, 미국 전력 패키지"
 slug: hanwha-engine-rerating-marine-datacenter-power-package-2026-04-28
 date: 2026-04-28T11:00:00+09:00
 description: "한화엔진(082740.KS)은 세 가지 층위가 겹쳐 쌓이며 재평가되고 있다. ① 고마진 선박엔진 실적 사이클(OPM 9.5% → 2027E 21.4% 궤적), ② Wärtsilä·HD현대중공업의 실제 계약을 선례로 한 미국 데이터센터 전력용 4행정 가스엔진 옵션, ③ Hanwha Energy USA / Hanwha Data Centers / Hanwha Gas Power Solutions를 통한 한화그룹 미국 전력 패키지. 리레이팅 논리 전체, P×Q×C 분해, MW 규모별 실적 민감도, 피어 비교(HD현대중공업·STX엔진), 리레이팅 로드맵을 정리한다."

@@ -1,7 +1,7 @@
 ---
 slug: "pearl-abyss-daily-report-2026-04-09"
 aliases: ["/en/post/pearl-abyss-daily-report-2026-04-09/"]
-title: "Pearl Abyss (263750.KQ) Daily Report — KRW 55,000 Support Holds, Awaiting 5M Announcement"
+title: "Pearl Abyss Daily: KRW 55,000 Support and 5M Copy Watch"
 description: "Pearl Abyss 4/9 daily report. KRW 55,000 support / 56,600 resistance range-bound. Short selling surge is hedge-driven. Foreign +2.53M shares over 3 weeks but momentum fading. 5M copies announcement imminent."
 date: 2026-04-09T18:00:00+09:00
 categories: ["company-deep-dive"]

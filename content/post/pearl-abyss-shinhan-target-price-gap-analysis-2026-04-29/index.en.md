@@ -1,5 +1,5 @@
 ---
-title: "Shinhan Securities Pearl Abyss Report Analysis — 26E Revenue ₩1.038T and OP ₩473.3B, but Next Year's Sales Cliff Looks Too Harsh: Compared With Our Model"
+title: "Pearl Abyss Target Price Gap: Why Shinhan's 2027 Sales Cliff Looks Too Harsh"
 date: 2026-04-29T13:45:00+09:00
 description: "Shinhan Securities raised its Pearl Abyss target to ₩72,000 while modeling 2026E revenue of ₩1.038T and operating profit of ₩473.3B. That is close to our bull case, but the target is capped because Shinhan assumes a steep 2027 drop to ₩569.2B revenue and ₩117.0B operating profit. This note compares Shinhan's model with our estimates across 1Q26 units, revenue recognition, marketing expense and FY27 long-tail assumptions."
 categories: ["Pearl Abyss", "Korea Market"]

@@ -1,5 +1,5 @@
 ---
-title: "Pearl Abyss / Crimson Desert — Post-Patch Weekend Data: Sales and Review Quality Defended, Long-Tail Durability Confirmed"
+title: "Crimson Desert Post-Patch Data: Reviews Hold, Long-Tail Thesis Improves"
 slug: pearl-abyss-crimson-desert-post-patch-weekend-data-2026-04-27
 aliases: ["/en/post/pearl-abyss-crimson-desert-post-patch-weekend-data-2026-04-27/"]
 date: 2026-04-27T11:00:00+09:00

@@ -1,5 +1,5 @@
 ---
-title: "Shorts Hit, But Couldn't Push — What Pearl Abyss's April 21 Close Data Actually Says"
+title: "Pearl Abyss Short Sale Data: Shorts Hit, But Couldn't Push"
 date: 2026-04-21T16:30:00+09:00
 slug: "pearl-abyss-short-sale-absorption-2026-04-21"
 aliases: ["/en/post/pearl-abyss-short-sale-absorption-2026-04-21/"]

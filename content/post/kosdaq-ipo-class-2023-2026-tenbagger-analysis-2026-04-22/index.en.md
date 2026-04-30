@@ -1,5 +1,5 @@
 ---
-title: "KOSDAQ IPO Class of 2023-2026: Where the Tenbaggers Actually Live — 259 Firms, 3 Buckets, 11 Names"
+title: "KOSDAQ IPO Tenbaggers: 259 Firms, 3 Buckets and 11 Names"
 date: 2026-04-22T10:30:00+09:00
 slug: "kosdaq-ipo-class-2023-2026-tenbagger-analysis-2026-04-22"
 aliases: ["/en/post/kosdaq-ipo-class-2023-2026-tenbagger-analysis-2026-04-22/"]

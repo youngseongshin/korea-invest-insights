@@ -1,5 +1,5 @@
 ---
-title: "SK하이닉스 HBM 시장점유율 2026: AI 메모리 수요, 마진, 투자자 체크리스트"
+title: "SK하이닉스 HBM 시장점유율 2026: AI 메모리 투자 가이드"
 slug: sk-hynix-hbm-market-share-ai-memory-demand-2026
 date: 2026-04-27T23:10:00+09:00
 description: "SK하이닉스의 HBM 시장점유율, AI 메모리 수요, HBM3E/HBM4 전환, 72% 영업이익률, 그리고 한국 AI 반도체 투자를 위한 핵심 체크리스트를 다루는 2026년 글로벌 투자자 실전 가이드."
