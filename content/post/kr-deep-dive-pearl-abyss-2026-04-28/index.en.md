@@ -1,5 +1,5 @@
 ---
-title: "Pearl Abyss: Crimson Desert's Global Launch and What It Means for 263750.KS"
+title: "Pearl Abyss: What Crimson Desert's Global Launch Means"
 date: 2026-04-28T12:00:00+09:00
 categories: ["company-deep-dive"]
 tags: ["Pearl Abyss", "263750.KS", "Crimson Desert", "Black Desert", "Korean gaming stocks", "KOSPI", "Steam", "Korean stocks", "게임주", "붉은사막"]

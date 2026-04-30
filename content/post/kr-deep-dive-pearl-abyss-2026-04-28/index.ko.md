@@ -1,5 +1,5 @@
 ---
-title: "펄어비스: 붉은사막 글로벌 출시와 263750.KS의 의미"
+title: "펄어비스: 붉은사막 글로벌 출시가 의미하는 것"
 date: 2026-04-28T12:00:00+09:00
 categories: ["company-deep-dive"]
 tags: ["펄어비스", "263750.KS", "붉은사막", "검은사막", "게임주", "코스피", "Steam", "한국주식", "Korean gaming stocks", "Crimson Desert"]
