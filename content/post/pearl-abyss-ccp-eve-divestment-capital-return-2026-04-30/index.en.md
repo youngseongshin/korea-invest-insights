@@ -2,7 +2,7 @@
 title: "Pearl Abyss / CCP / EVE Divestiture: The Real Trigger Is Treasury Share Cancellation"
 date: 2026-04-30T19:15:00+09:00
 slug: "pearl-abyss-ccp-eve-divestment-capital-return-2026-04-30"
-description: "Pearl Abyss is divesting its entire stake in CCP Games for ₩177.1bn, equivalent to 4.7% of market cap, or ₩2,757 per share in cash value. The sale alone does little to move the fair value estimate range, but if the proceeds are channeled into share buybacks and cancellations, the ₩75,000 central estimate can move toward ₩78,000–82,500. The 2026 Commercial Act amendment has structurally raised the cost of sitting on treasury shares, making the real question not the divestiture itself but how management allocates the capital."
+description: "Pearl Abyss is divesting its entire stake in CCP Games for ₩177.1bn, equivalent to 4.7% of market cap, or ₩2,757 per share in cash value. DART filings confirm 2,828,445 treasury shares, of which 320,000 are scheduled for stock-option delivery. If proceeds are channeled into share buybacks and cancellations, the ₩75,000 central fair value estimate can move toward the low-₩78,000 to low-₩82,000 range on a conservative base."
 categories: ["company-deep-dive"]
 tags:
   - "Pearl Abyss"
@@ -32,7 +32,7 @@ draft: false
 
 - Disposal proceeds of ₩177.1bn represent approximately 4.7% of market cap and ₩2,757 per share in cash value. In isolation, the transaction is a near-term re-rating event worth roughly +3–5%.
 - The disposal gain is a one-off below-the-line item. Assuming a book value of approximately ₩107.9bn, the pre-tax gain is roughly ₩69.2bn; the post-tax EPS impact is estimated at **approximately ₩800–860 per share**. No recurring earnings multiple should be applied.
-- **The real trigger is how proceeds are deployed and how existing treasury shares are handled.** Cancelling the existing ~2.828 million treasury shares (≈4.4% of shares outstanding) and combining that with a buyback funded by CCP proceeds would move the ₩75,000 central fair value estimate toward **₩78,000–82,500**.
+- **The real trigger is how proceeds are deployed and how existing treasury shares are handled.** DART filings confirm **2,828,445 treasury shares, or 4.4% of shares outstanding**. However, **320,000 shares** were disclosed on March 11, 2026 as treasury shares scheduled for delivery upon stock-option exercise. On a conservative basis, the cancellable treasury-share base is therefore 2,508,445 shares. Combining that with a buyback funded by CCP proceeds would move the ₩75,000 central fair value estimate toward the **low-₩78,000 to low-₩82,000 range**.
 - **The 2026 Third Amendment to the Commercial Act** now requires newly acquired treasury shares to be cancelled within one year as a baseline rule. Existing pre-amendment treasury shares carry an 18-month cancellation deadline, with board-level disclosure and shareholder approval required to justify retention. The cost of simply sitting on treasury shares has structurally risen.
 - Factor read: **capital allocation confirmation matters more than the divestiture headline.** Treasury cancellation or a buyback-and-cancel announcement would change the per-share math; the disclosure alone is not enough to treat this as a completed re-rating event.
 
@@ -48,7 +48,7 @@ draft: false
 | Cash value per share | ₩2,757 |
 | Proceeds as % of market cap | 4.7% |
 | Near-term price impact (disposal only) | +3–5% downside buffer |
-| Central fair value estimate ₩75,000 → with shareholder return | ₩78,000–82,500 |
+| Central fair value estimate ₩75,000 → with shareholder return | Low-₩78,000 to low-₩82,000 range on conservative base |
 | Factor read | Capital allocation confirmation needed |
 
 This disclosure can be read through two very different lenses.
@@ -222,20 +222,23 @@ The current environment is precisely such a period. CCP disposal proceeds, the C
 Reference share price      = ₩58,900
 Shares outstanding         = 64,247,855
 CCP disposal proceeds      = ₩177.1bn
-Existing treasury shares   = ~2.828 million shares, ~4.4% of shares outstanding
+DART-confirmed treasury shares = 2,828,445 shares, 4.4% of shares outstanding
+Stock-option delivery plan      = 320,000 shares
+Conservative cancellable base   = 2,508,445 shares, 3.9% of shares outstanding
 ```
 
-The existing treasury share figure is an internal estimate and should be verified against the DART treasury share disclosure.
+The DART basis is Pearl Abyss's [2025 annual report filed on March 19, 2026](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260319001336) and its [March 11, 2026 treasury-share disposal decision](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260310003117). Both filings show **2,828,445 treasury shares** before disposal. The March 11 filing also discloses **320,000 shares** scheduled for delivery upon stock-option exercise.
 
 ### 6.2 Buyback-and-Cancel Scenarios — Shares and Per-Share Value Impact
 
 | Scenario | Funding Source | Shares Cancelled | % of Outstanding | Per-Share Value Uplift |
 |---|---|---:|---:|---:|
-| Cancel existing treasury only | Existing position | ~2.828M | 4.4% | **+4.6%** |
+| Cancel all existing treasury, DART balance | Existing position | 2.828M | 4.4% | **+4.6%** |
+| Conservative existing treasury cancellation, excluding option-delivery shares | Existing position | 2.508M | 3.9% | **+4.1%** |
 | 50% of CCP proceeds — buyback & cancel | ₩88.5bn | ~1.503M | 2.3% | +2.4% |
 | 100% of CCP proceeds — buyback & cancel | ₩177.1bn | ~3.007M | 4.7% | +4.9% |
-| Existing + 50% of CCP proceeds | Position + ₩88.5bn | ~4.331M | 6.7% | **+7.2%** |
-| **Existing + 100% of CCP proceeds** | Position + ₩177.1bn | ~5.835M | 9.1% | **+10.0%** |
+| Conservative existing + 50% of CCP proceeds | Position + ₩88.5bn | ~4.012M | 6.2% | **+6.7%** |
+| **Conservative existing + 100% of CCP proceeds** | Position + ₩177.1bn | ~5.515M | 8.6% | **+9.4%** |
 
 ### 6.3 Arithmetic Verification
 
@@ -290,17 +293,20 @@ The values established in the preceding series:
 ### 7.2 Mechanically Adding the Shareholder Return Effect
 
 ```text
-Existing treasury cancelled (4.4%):
+All existing treasury cancelled (4.4%):
 = ₩75,000 × 1.046 = ~₩78,450
 
-Existing treasury + 50% of CCP proceeds:
-= ₩75,000 × 1.072 = ~₩80,400
+Conservative existing treasury cancelled (3.9%):
+= ₩75,000 × 1.041 = ~₩78,050
 
-Existing treasury + 100% of CCP proceeds:
-= ₩75,000 × 1.100 = ~₩82,500
+Conservative existing treasury + 50% of CCP proceeds:
+= ₩75,000 × 1.067 = ~₩80,000
+
+Conservative existing treasury + 100% of CCP proceeds:
+= ₩75,000 × 1.094 = ~₩82,050
 ```
 
-In short, if shareholder return announcements are robust, the ₩75,000 central fair value estimate can move toward **₩78,000–82,500**.
+In short, if shareholder return announcements are robust, the ₩75,000 central fair value estimate can move toward the **low-₩78,000 to low-₩82,000 range** on the conservative base, or **₩78,500–82,500** if the full DART treasury balance is cancelled.
 
 ### 7.3 The Gap Between Arithmetic and Market Reaction
 
@@ -359,7 +365,7 @@ Any of the following would materially weaken the thesis:
 
 ## 9. The Single Most Important Takeaway
 
-The substance of this disclosure is not a ₩177.1bn cash event. It is a test of Pearl Abyss's capital allocation principles. The disposal itself is a +3–5% re-rating factor; everything beyond that depends on where the proceeds go. If CCP proceeds fund a buyback-and-cancel program and the existing treasury position is formally designated for cancellation, the ₩75,000 central fair value estimate can move toward **₩78,000–82,500**.
+The substance of this disclosure is not a ₩177.1bn cash event. It is a test of Pearl Abyss's capital allocation principles. The disposal itself is a +3–5% re-rating factor; everything beyond that depends on where the proceeds go. If CCP proceeds fund a buyback-and-cancel program and the existing treasury position is formally designated for cancellation, the ₩75,000 central fair value estimate can move toward the **low-₩78,000 to low-₩82,000 range** on the conservative base.
 
 What investors should be demanding from management right now is not an updated product roadmap. It is a clear statement of capital allocation intent. **The numbers are on the table; now show us the principles.** How Pearl Abyss handles both the existing treasury shares and the CCP proceeds is the real trigger for the next leg of re-rating.
 
@@ -367,4 +373,4 @@ The setup remains constructive, but still conditional. May needs to deliver on a
 
 ---
 
-*This material is for research and commentary purposes only and does not constitute investment advice. Positions may change without notice. Final disposal P&L figures are subject to change based on actual closing disclosures. The existing treasury share count is an internal estimate and should be verified against the DART treasury share filing. Data as of April 30, 2026 KST.*
+*This material is for research and commentary purposes only and does not constitute investment advice. Positions may change without notice. Final disposal P&L figures are subject to change based on actual closing disclosures. Treasury-share figures are based on Pearl Abyss's 2025 annual report and the March 11, 2026 DART treasury-share disposal decision. Data as of April 30, 2026 KST.*
