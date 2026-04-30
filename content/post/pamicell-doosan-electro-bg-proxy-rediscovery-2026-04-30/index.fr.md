@@ -214,4 +214,4 @@ Les faits clés ont été recoupés avec les divulgations et les rapports du mar
 - Contexte Doosan 1T26 et Electronic BG : [Korea Economic Daily, 30 avril 2026](https://www.hankyung.com/article/2026043074486)
 - Dépôts officiels : [DART](https://dart.fss.or.kr), [KRX](https://www.krx.co.kr)
 
-*Avertissement : À des fins de recherche et d'information uniquement. Ne constitue pas un conseil en investissement. Les noms cités le sont à titre illustratif ; les lecteurs doivent effectuer leur propre analyse et consulter des conseillers agréés avant toute décision d'investissement.*
+*Disclaimer: For research and information purposes only. Not investment advice. Names cited are for analytical illustration; readers should perform their own due diligence and consult licensed advisors before any investment decision.*

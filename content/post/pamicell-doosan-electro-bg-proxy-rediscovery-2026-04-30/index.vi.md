@@ -75,10 +75,10 @@ Cơ cấu phân khúc mới là điểm then chốt.
 
 | Mảng kinh doanh | Doanh thu 2025 | Tỷ trọng | Tăng trưởng YoY |
 |---|---:|---:|---:|
-| **Vật liệu điện tử low-Dk** | **₩64,7 tỷ** | **~56%** | **+118%** |
-| **Nguyên liệu dược phẩm** | **~₩20,4 tỷ** | **~18%** | **+84%** |
-| Vật liệu hóa sinh khác | ~₩26 tỷ | ~23% | Chưa công bố riêng |
-| Sinh y và tế bào gốc | ~₩2,5 tỷ | ~2% | Không phải động lực thu nhập |
+| **Vật liệu điện tử low-Dk** | **₩64,7 tỷ** | **\~56%** | **+118%** |
+| **Nguyên liệu dược phẩm** | **\~₩20,4 tỷ** | **\~18%** | **+84%** |
+| Vật liệu hóa sinh khác | \~₩26 tỷ | \~23% | Chưa công bố riêng |
+| Sinh y và tế bào gốc | \~₩2,5 tỷ | \~2% | Không phải động lực thu nhập |
 
 Đây là lần tái định khung đầu tiên và quan trọng nhất. **Pamicell không còn được định nghĩa về mặt kinh tế bởi tế bào gốc nữa.** Mảng y sinh vẫn là một phần bản sắc và có thể giữ giá trị quyền chọn, nhưng động lực thu nhập chính là vật liệu hóa sinh.
 
@@ -126,7 +126,7 @@ Dựa trên giá tham chiếu ngày 30 tháng 4:
 |---|---:|
 | Giá cổ phiếu | **₩18.110** |
 | Số cổ phiếu lưu hành | **60.016.964** |
-| Vốn hóa | **~₩1,087 nghìn tỷ** |
+| Vốn hóa | **\~₩1,087 nghìn tỷ** |
 | Doanh thu 2025 | **₩114,1 tỷ** |
 | Lợi nhuận hoạt động 2025 | **₩34,3 tỷ** |
 | Lợi nhuận ròng 2025 | **₩40,3 tỷ** |
@@ -139,7 +139,7 @@ Một khung kịch bản cơ sở trông như sau:
 |---|---:|---:|---:|
 | Doanh thu | ₩114,1 tỷ | ₩165 tỷ – ₩170 tỷ | ₩225 tỷ – ₩230 tỷ |
 | Lợi nhuận hoạt động | ₩34,3 tỷ | ₩59 tỷ – ₩63 tỷ | ₩85 tỷ – ₩93 tỷ |
-| Biên lợi nhuận hoạt động | 30,1% | Trung đến cao 30% | Cao 30% đến ~40% |
+| Biên lợi nhuận hoạt động | 30,1% | Trung đến cao 30% | Cao 30% đến \~40% |
 | Vốn hóa / Lợi nhuận HĐ | 31,7x | **17x – 18x** | **12x – 13x** |
 
 Đây là vùng tái phân loại. Nếu Pamicell được nhìn nhận như một nhãn biotech cũ với một năm thu nhập đột biến, cổ phiếu sẽ khó biện hộ cho bội số hiện tại. Nếu nó được nhìn nhận như một nhà cung cấp vật liệu thượng nguồn khan hiếm trong chu kỳ AI CCL của Doosan Electronic BG, khung phân tích thay đổi hoàn toàn.
@@ -156,7 +156,7 @@ Có ba điểm tôi theo dõi trong quý 1/2026.
 
 | Điểm kiểm tra | Điều kiện xác nhận luận điểm | Lý do quan trọng |
 |---|---|---|
-| Lợi nhuận hoạt động | ₩13,5 tỷ – ₩15,5 tỷ, hoặc thêm một quý duy trì biên ~30% | Xác nhận lợi nhuận 2025 không phải là sự kiện kế toán một lần |
+| Lợi nhuận hoạt động | ₩13,5 tỷ – ₩15,5 tỷ, hoặc thêm một quý duy trì biên \~30% | Xác nhận lợi nhuận 2025 không phải là sự kiện kế toán một lần |
 | Ghi nhận doanh thu từ Doosan | Ghi nhận có ý nghĩa từ hợp đồng tháng 2/2026 | Kết nối quy mô đơn hàng lớn hơn với doanh thu báo cáo |
 | Kỷ luật chi phí | Không có rò rỉ lớn từ SG&A hay chi phí sản xuất | Xác định liệu tăng trưởng doanh thu có còn chuyển hóa thành lợi nhuận hoạt động không |
 
@@ -214,4 +214,4 @@ Các dữ kiện chính được đối chiếu với các công bố và báo c
 - Bối cảnh quý 1/2026 của Doosan và Electronic BG: [Korea Economic Daily, 30 tháng 4 năm 2026](https://www.hankyung.com/article/2026043074486)
 - Hồ sơ chính thức: [DART](https://dart.fss.or.kr), [KRX](https://www.krx.co.kr)
 
-*Tuyên bố miễn trách nhiệm: Bài viết chỉ mang tính nghiên cứu và thông tin. Không phải lời khuyên đầu tư. Các tên được đề cập chỉ mang mục đích minh họa phân tích; độc giả cần tự thực hiện thẩm định và tham khảo chuyên gia có giấy phép trước khi đưa ra bất kỳ quyết định đầu tư nào.*
+*Disclaimer: For research and information purposes only. Not investment advice. Names cited are for analytical illustration; readers should perform their own due diligence and consult licensed advisors before any investment decision.*

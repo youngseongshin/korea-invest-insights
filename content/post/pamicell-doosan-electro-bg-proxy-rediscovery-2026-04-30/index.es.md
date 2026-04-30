@@ -75,10 +75,10 @@ La clave está en el mix de segmentos.
 
 | Línea de negocio | Ingresos 2025 | Peso sobre ingresos | Crecimiento interanual |
 |---|---:|---:|---:|
-| **Materiales electrónicos de bajo-Dk** | **₩64.700M** | **~56%** | **+118%** |
-| **Materias primas farmacéuticas** | **~₩20.400M** | **~18%** | **+84%** |
-| Otros materiales bioquímicos | ~₩26.000M | ~23% | no desglosado de la misma forma |
-| Biomédico y células madre | ~₩2.500M | ~2% | no es el motor de resultados |
+| **Materiales electrónicos de bajo-Dk** | **₩64.700M** | **\~56%** | **+118%** |
+| **Materias primas farmacéuticas** | **\~₩20.400M** | **\~18%** | **+84%** |
+| Otros materiales bioquímicos | \~₩26.000M | \~23% | no desglosado de la misma forma |
+| Biomédico y células madre | \~₩2.500M | \~2% | no es el motor de resultados |
 
 Este es el primer gran reencuadre. **Pamicell ya no está económicamente definida por las células madre.** El negocio biomédico sigue siendo parte de su identidad y puede conservar valor como opción, pero el motor de beneficios son los materiales bioquímicos.
 
@@ -126,7 +126,7 @@ Usando el precio de referencia del 30 de abril:
 |---|---:|
 | Precio de la acción | **₩18.110** |
 | Acciones en circulación | **60.016.964** |
-| Capitalización bursátil | **~₩1,087 billones** |
+| Capitalización bursátil | **\~₩1,087 billones** |
 | Ingresos 2025 | **₩114.100M** |
 | Beneficio operativo 2025 | **₩34.300M** |
 | Beneficio neto 2025 | **₩40.300M** |
@@ -139,7 +139,7 @@ Un marco base podría ser este:
 |---|---:|---:|---:|
 | Ingresos | ₩114.100M | ₩165.000–170.000M | ₩225.000–230.000M |
 | Beneficio operativo | ₩34.300M | ₩59.000–63.000M | ₩85.000–93.000M |
-| Margen operativo | 30,1% | rango medio-alto del 30% | alto 30% hasta ~40% |
+| Margen operativo | 30,1% | rango medio-alto del 30% | alto 30% hasta \~40% |
 | Capitalización / beneficio operativo | 31,7x | **17x a 18x** | **12x a 13x** |
 
 Esta es la zona de reclasificación. Si Pamicell se ve como una etiqueta biotecnológica antigua con un pico de resultados puntual, al valor le costará justificar el múltiplo. Si se ve como un proxy escaso de materiales upstream del ciclo de CCL para IA de Doosan Electronic BG, el marco cambia.
@@ -214,4 +214,4 @@ Los datos clave se contrastaron con comunicaciones oficiales e informes del merc
 - Contexto del 1T26 de Doosan y Doosan Electronic BG: [Korea Economic Daily, 30 de abril de 2026](https://www.hankyung.com/article/2026043074486)
 - Registros oficiales: [DART](https://dart.fss.or.kr), [KRX](https://www.krx.co.kr)
 
-*Aviso legal: Solo para fines de investigación e información. No constituye asesoramiento de inversión. Los nombres mencionados son únicamente a efectos analíticos; los lectores deben realizar su propia diligencia debida y consultar a asesores con licencia antes de tomar cualquier decisión de inversión.*
+*Disclaimer: For research and information purposes only. Not investment advice. Names cited are for analytical illustration; readers should perform their own due diligence and consult licensed advisors before any investment decision.*

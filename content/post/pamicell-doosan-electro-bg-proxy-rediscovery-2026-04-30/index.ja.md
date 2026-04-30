@@ -214,4 +214,4 @@ draft: false
 - 斗山1Q26・電子BG関連: [Korea Economic Daily, April 30, 2026](https://www.hankyung.com/article/2026043074486)
 - 公式開示: [DART](https://dart.fss.or.kr)、[KRX](https://www.krx.co.kr)
 
-*免責事項：本稿は調査・情報提供を目的としたものであり、投資助言ではありません。言及した銘柄は分析上の例示であり、読者は投資判断にあたって自らデューデリジェンスを行い、資格を持つアドバイザーに相談してください。*
+*Disclaimer: For research and information purposes only. Not investment advice. Names cited are for analytical illustration; readers should perform their own due diligence and consult licensed advisors before any investment decision.*
