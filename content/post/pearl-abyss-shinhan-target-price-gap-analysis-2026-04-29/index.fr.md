@@ -1,7 +1,7 @@
 ---
-title: "Shinhan Securities fixe un objectif de ₩72 000 pour Pearl Abyss — Le jour où le sell-side a reconnu la surprise du T1, l'écart réel porte sur les marges, pas sur les volumes vendus"
+title: "Shinhan Securities fixe un objectif de ₩72 000 pour Pearl Abyss — revenus 2026E de ₩1 038 Mds et OP de ₩473,3 Mds reconnus, mais l'hypothèse de chute 2027 paraît trop dure : comparaison avec notre modèle"
 date: 2026-04-29T13:45:00+09:00
-description: "Shinhan Securities a relevé son objectif de cours pour Pearl Abyss de 75,6 %, de ₩41 000 à ₩72 000. Son estimation du résultat opérationnel T1 26 à ₩254,7 Mds dépasse de 24 % notre scénario de base interne à ₩205,0 Mds. Pourtant, Shinhan intègre 250 000 unités reconnues de moins au T1 que nous — l'intégralité de l'écart provient des marges. Une seule hypothèse, ₩19,7 Mds de charges marketing, explique environ un cinquième de l'écart de ₩49,7 Mds sur le résultat opérationnel. La publication des résultats en mai tranchera entre les deux modèles."
+description: "Shinhan Securities a relevé son objectif pour Pearl Abyss à ₩72 000 avec des revenus 2026E de ₩1 038 Mds et un résultat opérationnel de ₩473,3 Mds. C'est proche de notre scénario haussier, mais l'objectif reste plafonné car Shinhan suppose une forte chute en 2027 à ₩569,2 Mds de revenus et ₩117,0 Mds de résultat opérationnel. Cette note compare son modèle à nos estimations sur les volumes T1 26, la reconnaissance du chiffre d'affaires, le marketing et la longue traîne FY27."
 categories: ["Pearl Abyss", "Korea Market"]
 tags:
  - "Pearl Abyss"

@@ -1,7 +1,7 @@
 ---
-title: "Shinhan Securities Đặt Mục Tiêu Pearl Abyss ₩72.000 — Ngày Sell-Side Thừa Nhận Bất Ngờ Q1, Khoảng Cách Thực Sự Nằm Ở Biên Lợi Nhuận, Không Phải Số Lượng Bán Ra"
+title: "Shinhan Securities đặt mục tiêu Pearl Abyss ₩72.000 — thừa nhận doanh thu 2026E ₩1,038T và OP ₩473,3B, nhưng giả định doanh số 2027 rơi mạnh có vẻ quá khắt khe: so sánh với mô hình của chúng tôi"
 date: 2026-04-29T13:45:00+09:00
-description: "Shinhan Securities nâng giá mục tiêu Pearl Abyss lên 75,6%, từ ₩41.000 lên ₩72.000. Ước tính lợi nhuận hoạt động Q1/26 của họ là ₩254,7 tỷ, cao hơn 24% so với kịch bản cơ sở nội bộ của chúng tôi là ₩205,0 tỷ. Tuy nhiên Shinhan giả định số lượng đơn vị ghi nhận trong Q1 thấp hơn 250.000 đơn vị so với chúng tôi — toàn bộ khoảng cách đến từ biên lợi nhuận. Một giả định duy nhất, ₩19,7 tỷ chi phí marketing, giải thích khoảng một phần năm trong khoảng cách lợi nhuận hoạt động ₩49,7 tỷ. Kết quả kinh doanh tháng 5 sẽ xác định mô hình nào đúng."
+description: "Shinhan Securities nâng mục tiêu Pearl Abyss lên ₩72.000 với doanh thu 2026E ₩1,038T và lợi nhuận hoạt động ₩473,3B. Con số này gần với kịch bản tích cực của chúng tôi, nhưng mục tiêu bị giới hạn vì Shinhan giả định 2027 giảm mạnh xuống doanh thu ₩569,2B và lợi nhuận hoạt động ₩117,0B. Bài viết so sánh mô hình Shinhan với ước tính của chúng tôi về số lượng Q1/26, ghi nhận doanh thu, chi phí marketing và giả định đuôi dài FY27."
 categories: ["Pearl Abyss", "Korea Market"]
 tags:
  - "Pearl Abyss"

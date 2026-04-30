@@ -1,7 +1,7 @@
 ---
-title: "Shinhan Securities Sets Pearl Abyss Target at ₩72,000 — The Day Sell-Side Acknowledged the 1Q Surprise, the Real Gap Is Margin, Not Units Sold"
+title: "Shinhan Securities Sets Pearl Abyss Target at ₩72,000 — 2026E Revenue ₩1.038T and OP ₩473.3B Accepted, but the 2027 Sales-Cliff Assumption Looks Too Harsh: Compared With Our Model"
 date: 2026-04-29T13:45:00+09:00
-description: "Shinhan Securities raised its Pearl Abyss target price by 75.6%, from ₩41,000 to ₩72,000. Its 1Q26 operating profit estimate of ₩254.7B is 24% above our internal base case of ₩205.0B. Yet Shinhan assumes 250,000 fewer units recognized in 1Q than we do — the entire gap comes from margin. A single assumption, ₩19.7B in marketing expenses, explains roughly one-fifth of the ₩49.7B operating profit gap. The May earnings release will determine which model is right."
+description: "Shinhan Securities raised its Pearl Abyss target to ₩72,000 while modeling 2026E revenue of ₩1.038T and operating profit of ₩473.3B. That is close to our bull case, but the target is capped because Shinhan assumes a steep 2027 drop to ₩569.2B revenue and ₩117.0B operating profit. This note compares Shinhan's model with our estimates across 1Q26 units, revenue recognition, marketing expense and FY27 long-tail assumptions."
 categories: ["Pearl Abyss", "Korea Market"]
 tags:
  - "Pearl Abyss"
