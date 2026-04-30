@@ -7,6 +7,8 @@ categories: ["Korea Market", "Consumer", "K-Beauty"]
 tags: ["olive-young", "cj-olive-young", "cj-corporation", "000120", "cj-cheiljedang", "korea-beauty", "k-beauty", "amorepacific", "lg-hh", "cosmax", "kolmar-korea", "cosrx", "ipo", "private-company"]
 ---
 
+> 📚 See the [Olive Young, PharmaResearch and K-Beauty investment hub](/en/page/k-beauty-olive-young-pharmaresearch-hub/) for the full thread across Olive Young's listing status, CJ indirect exposure, Rejuran / PharmaResearch and APR / Medicube.
+
 ## TL;DR
 
 - **Olive Young is not publicly traded.** It is a private subsidiary of the CJ Group, formally **CJ Olive Young Corp.**, which separated from CJ Olive Networks in 2019.

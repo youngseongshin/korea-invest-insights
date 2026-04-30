@@ -7,6 +7,8 @@ categories: ["Korea Market", "Medical Aesthetics", "Healthcare"]
 tags: ["rejuran", "pharmaresearch", "214450", "pn-technology", "polynucleotide", "pdrn", "skin-booster", "k-aesthetics", "medical-aesthetics", "hugel", "medytox", "classys", "korea-beauty", "salmon-dna", "injectables"]
 ---
 
+> 📚 See the [Olive Young, PharmaResearch and K-Beauty investment hub](/en/page/k-beauty-olive-young-pharmaresearch-hub/) for the full thread across Rejuran / PharmaResearch, Olive Young, CJ and APR / Medicube.
+
 ## TL;DR
 
 - **Rejuran is owned by PharmaResearch Co., Ltd. (KOSDAQ: 214450)**, a Korean medical-aesthetics specialty company. Rejuran is a **brand**; the underlying technology is PharmaResearch's proprietary **PN (Polynucleotide) / PDRN platform**, derived from purified salmon DNA fragments.

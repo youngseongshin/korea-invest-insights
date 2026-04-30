@@ -125,13 +125,21 @@ buildFuture = true  # 장마감 브리핑(16:30 KST) 등 발행 시각보다 살
       url = "/page/pearl-abyss-crimson-desert-hub"
       weight = 3
     [[languages.en.menu.main]]
+      name = "HBM Hub"
+      url = "/page/korea-semiconductor-hbm-kospi-hub"
+      weight = 4
+    [[languages.en.menu.main]]
+      name = "K-Beauty Hub"
+      url = "/page/k-beauty-olive-young-pharmaresearch-hub"
+      weight = 5
+    [[languages.en.menu.main]]
       name = "Archives"
       url = "/page/archives"
-      weight = 4
+      weight = 6
     [[languages.en.menu.main]]
       name = "About"
       url = "/page/about"
-      weight = 5
+      weight = 7
 
   [languages.ja]
     languageName = "日本語"
@@ -186,13 +194,21 @@ buildFuture = true  # 장마감 브리핑(16:30 KST) 등 발행 시각보다 살
       url = "/ko/page/pearl-abyss-crimson-desert-hub"
       weight = 2
     [[languages.ko.menu.main]]
+      name = "HBM 허브"
+      url = "/ko/page/korea-semiconductor-hbm-kospi-hub"
+      weight = 3
+    [[languages.ko.menu.main]]
+      name = "K-뷰티 허브"
+      url = "/ko/page/k-beauty-olive-young-pharmaresearch-hub"
+      weight = 4
+    [[languages.ko.menu.main]]
       name = "아카이브"
       url = "/page/archives"
-      weight = 3
+      weight = 5
     [[languages.ko.menu.main]]
       name = "소개"
       url = "/page/about"
-      weight = 4
+      weight = 6
 
 [params.widgets]
   [[params.widgets.homepage]]

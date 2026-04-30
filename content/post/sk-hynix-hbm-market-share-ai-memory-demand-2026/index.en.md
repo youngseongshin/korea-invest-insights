@@ -8,6 +8,8 @@ tags: ["SK Hynix", "000660.KS", "HBM Market Share", "HBM", "HBM3E", "HBM4", "AI 
 series: ["Korean Semiconductor & HBM"]
 ---
 
+> 📚 See the [Samsung Electronics, SK Hynix, HBM and KOSPI investment hub](/en/page/korea-semiconductor-hbm-kospi-hub/) for the full thread across HBM market share, Samsung's KOSPI weight, Korea's re-rating thesis and AI hardware supply-chain exposure.
+
 > **Short answer:** SK Hynix remains the clearest public-market exposure to AI high-bandwidth memory in 2026, but investors should not rely on one single "HBM market share" number. The practical range is roughly **50% of total HBM revenue/share in 2026E**, with a potentially much higher share of Nvidia's HBM4 ramp if current allocation reports hold.
 
 ---

@@ -7,6 +7,8 @@ categories: ["Korea Market", "Korea Tech Supply Chain"]
 tags: ["Samsung Electronics", "005930.KS", "Samsung Electronics Weight in KOSPI", "KOSPI", "KOSPI 200", "MSCI Korea", "EWY", "Korea ETF", "Index Concentration", "SK Hynix", "Korean Stocks"]
 ---
 
+> 📚 See the [Samsung Electronics, SK Hynix, HBM and KOSPI investment hub](/en/page/korea-semiconductor-hbm-kospi-hub/) for the full thread across Samsung's KOSPI weight, SK Hynix's HBM market share and Korea's market re-rating thesis.
+
 > **Short answer:** if you are a global investor using Korea ETFs, Samsung Electronics is not just another holding. In common Korea index products in 2026, Samsung Electronics typically represents roughly a low-20s to low-30s percentage of benchmark exposure depending on whether the index is capped, uncapped, float-adjusted, or broad-market.
 
 ---
