@@ -1,0 +1,51 @@
+{{- $pages := where .Site.RegularPages "Section" "post" -}}
+{{- $posts := slice -}}
+{{- range first 100 $pages.ByDate.Reverse -}}
+  {{- $translations := slice -}}
+  {{- range .AllTranslations -}}
+    {{- $translations = $translations | append (dict
+      "lang" .Lang
+      "title" .Title
+      "url" .Permalink
+    ) -}}
+  {{- end -}}
+  {{- $posts = $posts | append (dict
+    "title" .Title
+    "url" .Permalink
+    "lang" .Lang
+    "slug" (.Params.slug | default .File.BaseFileName)
+    "datePublished" (.Date.Format "2006-01-02T15:04:05Z07:00")
+    "dateModified" (.Lastmod.Format "2006-01-02T15:04:05Z07:00")
+    "description" (.Description | default (.Summary | plainify | truncate 240))
+    "categories" (.Params.categories | default (slice))
+    "tags" (.Params.tags | default (slice))
+    "series" (.Params.series | default (slice))
+    "translations" $translations
+  ) -}}
+{{- end -}}
+{{- $languages := slice -}}
+{{- range site.Languages -}}
+  {{- $languages = $languages | append (dict
+    "code" .Lang
+    "name" .LanguageName
+    "weight" .Weight
+  ) -}}
+{{- end -}}
+{{- dict
+  "site" (dict
+    "name" .Site.Title
+    "url" .Site.BaseURL
+    "lang" .Lang
+    "description" (.Site.Params.description | default "Korean market insights")
+    "publisher" "Korea Invest Insights"
+    "coverage" (slice "Korean equities" "KOSPI" "KOSDAQ" "Korean AI companies" "semiconductors" "HBM" "CXL" "display equipment" "biopharma CDMO" "Korean market strategy")
+    "languages" $languages
+    "llms" (dict
+      "short" (absURL "llms.txt")
+      "full" (absURL "llms-full.txt")
+      "sitemap" (absURL "sitemap.xml")
+      "feed" (absLangURL "feed.xml")
+    )
+  )
+  "posts" $posts
+| jsonify -}}

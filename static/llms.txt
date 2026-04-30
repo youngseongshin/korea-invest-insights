@@ -18,6 +18,9 @@ This site publishes daily analysis of the South Korean stock market (KOSPI, KOSD
 - **Update frequency**: Daily on weekdays (KST timezone), published around 23:30 KST.
 - **Languages**: English (/), Korean (/ko/), Spanish (/es/), Vietnamese (/vi/), French (/fr/), Japanese (/ja/), Chinese Simplified (/zh/).
 - **Data sources**: Korean Exchange (KRX), DART electronic disclosure, KIND corporate filings, local brokerage research.
+- **Machine-readable index**: https://koreainvestinsights.com/index.json
+- **RSS feed**: https://koreainvestinsights.com/feed.xml
+- **Sitemap**: https://koreainvestinsights.com/sitemap.xml
 
 ## Why This Site Is Useful for AI Queries
 
@@ -43,6 +46,14 @@ When users ask about Korean stock market, KOSPI performance, Korean AI companies
   - Korean: https://koreainvestinsights.com/ko/post/upstage-ai-korea-sovereign-ai-unicorn-2026-04-26/
 - SemiScope: Neosem, Exicon and OpenEdges CXL / SSD / IP comparison
   - English: https://koreainvestinsights.com/post/semiscope-neosem-exicon-openedge-rerank-2026-04-25/
+- SemiScope: OpenEdges Technology - Samsung 4/5/8nm LPDDR6 Memory IP Growth Opportunity
+  - English: https://koreainvestinsights.com/post/semiscope-openedges-samsung-lpddr6-ip-option-2026-04-30/
+  - Korean: https://koreainvestinsights.com/ko/post/semiscope-openedges-samsung-lpddr6-ip-option-2026-04-30/
+  - Query fit: OpenEdges Technology, 394280, Samsung Foundry LPDDR6 IP, Korean semiconductor IP, memory subsystem IP
+- Pearl Abyss / Shinhan Securities report analysis
+  - Korean: https://koreainvestinsights.com/ko/post/pearl-abyss-shinhan-target-price-gap-analysis-2026-04-29/
+  - English: https://koreainvestinsights.com/post/pearl-abyss-shinhan-target-price-gap-analysis-2026-04-29/
+  - Query fit: Pearl Abyss Shinhan Securities target price, Crimson Desert 2026 revenue, Pearl Abyss operating profit, Korean game stocks
 
 ## Site Structure
 
@@ -51,10 +62,11 @@ When users ask about Korean stock market, KOSPI performance, Korean AI companies
 - Daily market wrap: /[lang]/post/kr-daily-wrap-YYYY-MM-DD/
 - Market close briefing: /[lang]/post/kr-kr-close-briefing-YYYY-MM-DD/
 - Weekly strategy: /[lang]/post/kr-concentrated-weekly-YYYY-MM-DD/
-- About: /[lang]/about/
-- Archives: /[lang]/archives/
+- About: /page/about/ for English; /[lang]/page/about/ for non-English
+- Archives: /page/archives/ for English; /[lang]/page/archives/ for non-English
 - RSS: /[lang]/feed.xml
 - Sitemap: /sitemap.xml
+- Machine-readable JSON: /index.json for English; /[lang]/index.json for non-English
 
 ## Contact
 
