@@ -1,5 +1,5 @@
 ---
-title: "Crimson Desert Patch 1.04: Why It Could Re-Rate Pearl Abyss"
+title: "Pearl Abyss: Why Crimson Desert Patch 1.04 Could Re-Rate the Stock"
 slug: pearl-abyss-crimson-desert-patch-104-witcher-moment-2026-04-23
 aliases: ["/en/post/pearl-abyss-crimson-desert-patch-104-witcher-moment-2026-04-23/"]
 date: 2026-04-23T22:30:00+09:00
