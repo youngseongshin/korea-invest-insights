@@ -42,6 +42,39 @@ jobs:
           TZ: Asia/Seoul
         run: hugo --minify
 
+      - name: QA — block AI-leftover meta-commentary
+        run: |
+          set -e
+          # Patterns that should NEVER appear in published HTML.
+          # These indicate the translation pipeline leaked LLM scratchpad output.
+          # `frontmatter` alone is too generic so it is excluded; we use stricter phrases.
+          patterns=(
+            "The translation is ready"
+            "Here'?s a summary of the key"
+            "Here is a summary of the key"
+            "Please approve the file write"
+            "approve the file write when prompted"
+            "key localization decisions"
+            "summary of the key localization"
+            "Translation complete[.,]"
+            "Here is the translated"
+            "I have translated"
+            "I'?ll translate this"
+            "I will translate this"
+          )
+          fail=0
+          for pattern in "${patterns[@]}"; do
+            if grep -RniE "$pattern" public/ --include='*.html' 2>/dev/null; then
+              echo "::error::QA failed — forbidden pattern in published HTML: $pattern"
+              fail=1
+            fi
+          done
+          if [ "$fail" -ne 0 ]; then
+            echo "::error::Build is blocked. Inspect content/post/*/index.*.md for raw LLM scratchpad output and re-run the translation."
+            exit 1
+          fi
+          echo "QA passed — no AI-leftover meta-commentary in published HTML."
+
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
