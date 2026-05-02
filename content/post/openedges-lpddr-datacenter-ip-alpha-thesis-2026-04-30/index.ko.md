@@ -1,5 +1,5 @@
 ---
-title: "오픈엣지테크놀로지 (394280) — LPDDR가 AI 추론 서버 메모리로 전환되는 국면, 가장 직접적인 국내 상장 알파주"
+title: "오픈엣지테크놀로지 (394280) 주가 — 오픈엣지는 상장사인가? LPDDR이 AI 추론 서버 메모리로 전환되는 국면의 가장 직접적인 국내 상장 알파주"
 slug: openedges-lpddr-datacenter-ip-alpha-thesis-2026-04-30
 date: 2026-04-30T22:00:00+09:00
 description: "삼성전자의 SOCAMM2 출시, SK하이닉스의 엔비디아 Vera Rubin용 192GB SOCAMM2 양산, JEDEC의 LPDDR6 SOCAMM2 / LPDDR6 PIM 표준화가 맞물리며 LPDDR의 위상이 달라지고 있다 — 모바일 메모리에서 AI 추론 서버 메모리로. 이 전환에서 가장 직접적인 국내 상장 알파주는 LPDDR6 / LPDDR5X 메모리 컨트롤러·PHY·NoC IP를 통합 제공하는 오픈엣지테크놀로지 (394280)다. 모든 AI 추론 SoC가 SOCAMM2급 메모리를 달려면 반드시 지나야 하는 병목에 자리한다. 진짜 경쟁 우위는 '대안 없음'이 아니라 네 가지 구체적 강점이다: 삼성파운드리 SF5A LPDDR5X 실리콘 검증 완료, SAFE Sub-License 파트너 지위, 컨트롤러 + PHY + NoC 통합 번들, 그리고 양산 검증된 아시아 AI ASIC 틈새."

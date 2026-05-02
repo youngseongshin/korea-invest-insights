@@ -1,5 +1,5 @@
 ---
-title: "Korean Listed VC Stocks: Which Names Benefit From Capital Inflows?"
+title: "Korean Listed VC Stocks — Who Owns SpaceX, FuriosaAI, Upstage, Rebellions Through Atinum, Company K, DSC, Mirae Asset Venture"
 slug: listed-korean-vc-rerating-capital-inflow-2026-04-29
 date: 2026-04-29T22:30:00+09:00
 description: "As capital rotates into Korea in 2026, the listed venture-capital and PE complex is being repriced — but unevenly. The market is splitting into three regimes: (1) earnings-and-dividend value VCs (Atinum), (2) unlisted-mega-portfolio call-option VCs (Mirae Asset Venture, DSC, Company K, Aju IB), and (3) low-PBR structural-turnaround PE (Q Capital). The dispersion is not about manager quality — it is about which house owns a *named* unlisted asset (SpaceX, Rebellions, FuriosaAI, Upstage) the retail tape can chase. Full re-rating logic, valuation map, P×Q×C decomposition for six names, and where the market is misreading the moat."

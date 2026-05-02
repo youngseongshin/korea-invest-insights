@@ -323,4 +323,30 @@ That is why this is one of the most important Korea AI/HBM charts to keep updati
 
 ---
 
+---
+
+## FAQ — SK hynix and HBM
+
+**Q: What's SK hynix's HBM market share in 2026?**
+A: SK hynix is widely regarded as the global #1 in HBM, with the largest share of NVIDIA's HBM3 / HBM3E supply. Industry-tracked share estimates have placed SK hynix above 50% of the global HBM market through 2025–2026, with Samsung Electronics and Micron as the principal competitors.
+
+**Q: Is SK hynix publicly traded?**
+A: Yes. SK hynix is listed on KOSPI under ticker **000660**.
+
+**Q: Who owns SK hynix?**
+A: SK Square (KOSPI: 402340) is the controlling shareholder of SK hynix, holding approximately 20% as part of the broader SK Group. The remainder is held by institutional investors, the National Pension Service, and foreign shareholders.
+
+**Q: Does SK hynix supply HBM to NVIDIA?**
+A: Yes. SK hynix is the lead HBM supplier to NVIDIA across HBM3 and HBM3E generations and has announced mass production of LPDDR5X-based SOCAMM2 192GB optimized for NVIDIA's Vera Rubin platform.
+
+**Q: When did SK hynix start mass production of HBM4?**
+A: SK hynix has publicly disclosed HBM4 development and qualification progress with key customers; the company has guided toward HBM4 production ramp aligned to NVIDIA's next-generation accelerator timelines. Specific mass-production dates are tied to customer qualification milestones.
+
+**Q: Is SK hynix part of SK Group?**
+A: Yes. SK hynix is part of the SK Group, with SK Square as the immediate listed parent.
+
+**Q: Who is SK hynix's biggest customer?**
+A: NVIDIA is the largest single customer for HBM volume. Hyperscaler AI server builds, server DRAM, and enterprise SSD also represent material customer exposure.
+
+
 *Disclaimer: For research and information purposes only. Not investment advice. Names cited are for analytical illustration; readers should perform their own due diligence and consult licensed advisors before any investment decision.*

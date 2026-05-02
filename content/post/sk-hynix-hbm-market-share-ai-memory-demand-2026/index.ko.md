@@ -323,4 +323,30 @@ SK하이닉스는 2026년에 단순한 한국 메모리 주식이 아닙니다. 
 
 ---
 
+---
+
+## FAQ — SK하이닉스와 HBM
+
+**Q: 2026년 SK하이닉스의 HBM 점유율은 어떻게 되나요?**
+A: SK하이닉스는 글로벌 HBM 1위로 평가됩니다. 특히 NVIDIA의 HBM3 / HBM3E 공급에서 가장 큰 비중을 차지하며, 2025-2026년 글로벌 HBM 시장 점유율은 50%를 상회하는 것으로 추정됩니다. 삼성전자와 마이크론이 주요 경쟁사입니다.
+
+**Q: SK하이닉스는 상장사인가요?**
+A: 네. SK하이닉스는 KOSPI 상장사로, 종목코드는 **000660**입니다.
+
+**Q: SK하이닉스의 주인은 누구인가요?**
+A: SK스퀘어(KOSPI: 402340)가 약 20% 지분을 보유한 지배주주이며, SK그룹 산하입니다. 나머지는 기관·국민연금·외국인 투자자가 보유합니다.
+
+**Q: SK하이닉스는 NVIDIA에 HBM을 공급하나요?**
+A: 네. SK하이닉스는 NVIDIA의 HBM3·HBM3E 핵심 공급사입니다. 또한 NVIDIA Vera Rubin 플랫폼에 최적화된 LPDDR5X 기반 SOCAMM2 192GB 양산도 발표했습니다.
+
+**Q: SK하이닉스는 HBM4 양산을 언제 시작했나요?**
+A: SK하이닉스는 HBM4 개발과 주요 고객사 검증 진척을 공개해 왔으며, NVIDIA의 차세대 가속기 일정에 맞춰 HBM4 양산 램프업을 안내했습니다. 정확한 양산 시점은 고객 검증 마일스톤에 따라 결정됩니다.
+
+**Q: SK하이닉스는 SK그룹 소속인가요?**
+A: 네. SK하이닉스는 SK그룹 소속이며, 직접 상장 모회사는 SK스퀘어입니다.
+
+**Q: SK하이닉스의 최대 고객은 누구인가요?**
+A: HBM 물량 기준 NVIDIA가 최대 단일 고객입니다. 하이퍼스케일러 AI 서버, 서버 DRAM, 기업용 SSD에서도 의미 있는 노출이 있습니다.
+
+
 *Disclaimer: For research and information purposes only. Not investment advice. Names cited are for analytical illustration; readers should perform their own due diligence and consult licensed advisors before any investment decision.*

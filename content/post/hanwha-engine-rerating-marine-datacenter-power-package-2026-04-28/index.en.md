@@ -1,5 +1,5 @@
 ---
-title: "Hanwha Engine Re-Rating: Marine Engines, Data Centers and US Power"
+title: "Hanwha Engine (082740) Stock — Marine Engines, Data Centers and US Power Package Re-Rating"
 slug: hanwha-engine-rerating-marine-datacenter-power-package-2026-04-28
 date: 2026-04-28T11:00:00+09:00
 description: "Hanwha Engine (082740.KS) is being repriced on three layers stacked on top of each other: a high-margin marine-engine earnings cycle (OPM 9.5% → 21.4% trajectory through 2027E), a 4-stroke gas-engine option for US data-center power following Wärtsilä and HD Hyundai Heavy's actual contracts, and a Hanwha Group US power package via Hanwha Energy USA / Hanwha Data Centers / Hanwha Gas Power Solutions. Full re-rating logic, P×Q×C breakdown, MW-tier earnings sensitivity, peer mapping (HD Hyundai Heavy, STX Engine), and rerating roadmap."

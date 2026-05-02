@@ -1,5 +1,5 @@
 ---
-title: "OpenEdges Technology (394280) — Korea's Most Direct Alpha on LPDDR Becoming AI Inference Server Memory"
+title: "OpenEdges Technology (394280) — Is OpenEdges Publicly Traded? Korea's Most Direct Alpha on LPDDR Becoming AI Inference Server Memory"
 slug: openedges-lpddr-datacenter-ip-alpha-thesis-2026-04-30
 date: 2026-04-30T22:00:00+09:00
 description: "Samsung's SOCAMM2 launch, SK hynix's 192GB SOCAMM2 mass production for NVIDIA Vera Rubin, and JEDEC's LPDDR6 SOCAMM2 / LPDDR6 PIM standardization are jointly redefining LPDDR — from a mobile memory into AI inference server memory. The single most direct Korean-listed alpha on this category shift is OpenEdges Technology (394280), which integrates LPDDR6 / LPDDR5X Memory Controller, PHY, and NoC IP — the bottleneck every AI inference SoC has to cross to attach SOCAMM2-class memory. The honest moat is not 'no alternative' but four specific edges: Samsung Foundry SF5A LPDDR5X silicon-proven, SAFE Sub-License partner status, Controller + PHY + NoC integrated bundle, and the production-grade Asia AI ASIC niche."

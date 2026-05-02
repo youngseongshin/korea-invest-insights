@@ -257,4 +257,30 @@ For now, the cleanest English-search answer is the one we started with: **No, Ol
 
 ---
 
+---
+
+## FAQ — Olive Young
+
+**Q: Is Olive Young publicly traded?**
+A: No. Olive Young (CJ Olive Young Corp.) is not listed on any stock exchange. The cleanest indirect proxy is **CJ Corporation (KOSPI: 000120)**, which owns approximately 51.2% of CJ Olive Young.
+
+**Q: Who owns Olive Young?**
+A: CJ Corporation (000120.KS) is the controlling shareholder (~51.2%). Lee Sun-ho (chairman Lee Jay-hyun's son, ~11%) and Lee Kyung-hoo (daughter, ~5%) hold direct minority stakes. Financial investors hold the remainder via the 2021 pre-IPO round.
+
+**Q: When did Olive Young's IPO get postponed?**
+A: CJ Olive Young filed for a KOSPI listing in 2022, but the IPO was withdrawn that year, citing weak IPO market conditions. As of 2026, no confirmed listing date has been announced; multiple capital-structure options have been reported in the trade press.
+
+**Q: How much revenue does Olive Young generate?**
+A: Industry-tracked levels place CJ Olive Young in the ₩4T-class revenue range with double-digit YoY growth in recent cycles, driven by domestic H&B dominance and rising international / global online channel exposure.
+
+**Q: Is Olive Young coming to the US?**
+A: Olive Young already operates the global online channel (`globalolive.young.co.kr`) shipping to 150+ countries, with active cross-border digital promotion in the US, Japan, and Southeast Asia. Physical US retail expansion specifics are subject to company announcements.
+
+**Q: Is CJ CheilJedang the same as Olive Young?**
+A: No. CJ CheilJedang (KOSPI: 097950) is a separate listed entity in the CJ Group focused on food and bioscience (Bibigo, lysine, methionine). It does not operationally own Olive Young.
+
+**Q: What is the relationship between CJ Group and Olive Young?**
+A: Olive Young (CJ Olive Young Corp.) is a CJ Group affiliate. The listed CJ Group holding company, **CJ Corporation (000120.KS)**, is the majority shareholder of CJ Olive Young.
+
+
 *Disclaimer: For research and information purposes only. Not investment advice. Names cited are for analytical illustration; readers should perform their own due diligence and consult licensed advisors before any investment decision.*

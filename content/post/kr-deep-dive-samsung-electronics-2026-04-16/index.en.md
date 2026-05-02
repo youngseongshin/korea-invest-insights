@@ -182,4 +182,33 @@ For global investors, this is a company that deserves direct analysis—not just
 
 ---
 
+---
+
+## FAQ — Samsung Electronics
+
+**Q: Is Samsung Electronics publicly traded?**
+A: Yes. Samsung Electronics is listed on KOSPI under ticker **005930** (common shares) and **005935** (preferred shares).
+
+**Q: Who owns Samsung Electronics?**
+A: The largest shareholder block is the Lee family (Samsung Group founding family) and related Samsung-affiliate cross-holdings (Samsung Life Insurance, Samsung C&T). The National Pension Service holds a meaningful stake. Foreign institutional ownership is typically above 50% of the listed float.
+
+**Q: Who is the largest shareholder of Samsung Electronics?**
+A: Per public disclosures, Samsung Life Insurance has historically been the single largest entity shareholder, alongside the Lee family directly. Refer to DART filings for the most recent reported ownership structure.
+
+**Q: What's Samsung's HBM market share?**
+A: Samsung is one of the three global HBM suppliers (alongside SK hynix and Micron). SK hynix has been the leader in HBM3 and HBM3E to NVIDIA; Samsung's HBM3E qualification with NVIDIA has been a closely watched 2025–2026 milestone, and HBM4 customer expansion is the central question for Samsung's memory market-share trajectory.
+
+**Q: Does Samsung make Apple's iPhone screens?**
+A: Yes — Samsung Display (a Samsung Electronics subsidiary, not separately listed) is a major OLED panel supplier to Apple for iPhone, alongside LG Display (KOSPI: 034220).
+
+**Q: What businesses does Samsung Electronics include?**
+A: Samsung Electronics' Device Solutions (DS) division includes Memory (DRAM, NAND, HBM), System LSI (Exynos, image sensors), and Foundry. The Device eXperience (DX) division includes Mobile, Display, Visual Display, and Digital Appliances.
+
+**Q: Is Samsung Foundry the same as Samsung Electronics?**
+A: Samsung Foundry is the contract-manufacturing division inside Samsung Electronics' DS segment. It is not a separately listed entity. To get exposure, you buy Samsung Electronics (005930).
+
+**Q: What's the difference between Samsung Electronics common and preferred shares?**
+A: Common shares (005930) carry voting rights. Preferred shares (005935) typically trade at a discount and carry slightly higher dividends but do not have voting rights.
+
+
 *Disclaimer: For research and information purposes only. Not investment advice. Names cited are for analytical illustration; readers should perform their own due diligence and consult licensed advisors before any investment decision.*

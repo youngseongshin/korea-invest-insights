@@ -270,4 +270,30 @@ This series closes here for now. The next post will come after the May earnings 
 
 ---
 
+---
+
+## FAQ — Pearl Abyss / Crimson Desert
+
+**Q: Is Pearl Abyss publicly traded?**
+A: Yes. Pearl Abyss is listed on KOSDAQ under ticker **263750**.
+
+**Q: Who owns Pearl Abyss?**
+A: The largest shareholders are founder Daeil Kim (the Kim family — through direct holdings and related-party stakes) plus institutional investors. Foreign ownership has historically been meaningful. Pearl Abyss does not have a single controlling-conglomerate parent — it is an independent Korean game studio.
+
+**Q: When was Crimson Desert released?**
+A: Crimson Desert launched globally on March 19, 2026, simultaneously across PC (Steam) and console (PlayStation 5, Xbox Series X|S) platforms.
+
+**Q: How many copies of Crimson Desert sold?**
+A: Pearl Abyss officially announced cumulative global sales of **5 million units as of April 15, 2026** — 26 days after launch — making it the fastest-selling Korean console game in history. Cumulative figures continue to update.
+
+**Q: What's Pearl Abyss's market cap?**
+A: Pearl Abyss's market capitalization fluctuates with the share price; in the post-launch April 2026 window it has ranged broadly across the ₩3–4T-class as the equity tracks Crimson Desert sales and patch reception.
+
+**Q: Who is Pearl Abyss's largest shareholder?**
+A: Founder Daeil Kim and related-family entities are the largest shareholder block. Refer to DART filings for the most recent reported ownership structure.
+
+**Q: Is Pearl Abyss the same as Black Desert Online?**
+A: Pearl Abyss is the Korean game studio that develops and publishes Black Desert Online (BDO). Pearl Abyss also developed Crimson Desert (2026), and is working on DokeV and other titles. The studio uses its own proprietary BlackSpace Engine.
+
+
 *Disclaimer: For research and information purposes only. Not investment advice. Names cited are for analytical illustration; readers should perform their own due diligence and consult licensed advisors before any investment decision.*

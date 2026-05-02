@@ -256,4 +256,30 @@ For global readers searching "who owns Rejuran" or "rejuran parent company," the
 
 ---
 
+---
+
+## FAQ — Rejuran and PharmaResearch
+
+**Q: Is Rejuran publicly traded?**
+A: There is no separate "Rejuran" ticker. Rejuran is a brand owned and manufactured by **PharmaResearch Co., Ltd. (KOSDAQ: 214450)**. To get exposure, you buy PharmaResearch.
+
+**Q: Who owns Rejuran?**
+A: PharmaResearch Co., Ltd. (KOSDAQ: 214450), a Korean medical-aesthetics specialty company headquartered in Gangnam-gu, Seoul. Rejuran is PharmaResearch's flagship consumer brand.
+
+**Q: What is Rejuran made from?**
+A: Rejuran's active ingredient is purified, fragmented salmon DNA polynucleotides (PN / PDRN). The molecule is processed to a defined molecular-weight range and used as a regenerative skin-booster injectable.
+
+**Q: How is Rejuran different from Botox?**
+A: Botox is a botulinum toxin that paralyzes muscle to reduce dynamic wrinkles. Rejuran is a polynucleotide skin-booster that supports dermal-layer regeneration, fibroblast activity, and collagen / elastin synthesis — it does not paralyze muscle and does not add volume. They are different categories used for different indications.
+
+**Q: Where can I buy Rejuran?**
+A: Rejuran is administered by licensed clinics — typically dermatology and aesthetic clinics — across Korea, Southeast Asia, the Middle East, parts of Latin America, and selected European markets. It is not a consumer over-the-counter product.
+
+**Q: What is the difference between Rejuran Healer, HB, Eye, and S?**
+A: Rejuran Healer is the original signature product (full-face skin booster). Rejuran HB adds a hyaluronic-acid component for hydration emphasis. Rejuran Eye is formulated for the periorbital / under-eye area. Rejuran S targets atrophic acne and surgical scars.
+
+**Q: Is Rejuran FDA-approved in the US?**
+A: As of 2026, Rejuran does not have US FDA approval for the injectable product. Distribution outside Korea proceeds via local regulatory pathways in each market.
+
+
 *Disclaimer: For research and information purposes only. Not investment advice. Names cited are for analytical illustration; readers should perform their own due diligence and consult licensed advisors before any investment decision.*
