@@ -7,7 +7,7 @@ layout: "page"
 
 ## Korea Invest Insights
 
-**Blog phân tích thị trường Hàn Quốc đa ngôn ngữ** được điều hành bởi nhà đầu tư chuyên nghiệp và nhà đầu tư mạo hiểm tại Seoul. Chúng tôi xuất bản phân tích hàng ngày bằng **7 ngôn ngữ** dành cho các nhà đầu tư quốc tế thiếu kênh tiếp cận phân tích chất lượng về thị trường Hàn Quốc.
+**Blog phân tích thị trường Hàn Quốc đa ngôn ngữ** được điều hành bởi nhà đầu tư chuyên nghiệp tại Seoul. Chúng tôi xuất bản phân tích hàng ngày bằng **7 ngôn ngữ** dành cho các nhà đầu tư quốc tế thiếu kênh tiếp cận phân tích chất lượng về thị trường Hàn Quốc.
 
 ---
 

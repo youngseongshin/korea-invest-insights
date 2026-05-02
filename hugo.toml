@@ -17,8 +17,8 @@ buildFuture = true  # 장마감 브리핑(16:30 KST) 등 발행 시각보다 살
 
 [params]
   mainSections = ["post"]
-  description = "Korean market insights from a professional investor & VC perspective"
-  keywords = ["Korea stock market", "Korean investment", "KOSPI", "Korean VC", "semiconductor", "K-market analysis"]
+  description = "Korean market insights from a professional investor perspective"
+  keywords = ["Korea stock market", "Korean investment", "KOSPI", "semiconductor", "K-market analysis"]
   substack_subdomain = "koreainvestinsights"
   [params.sidebar]
     emoji = "🇰🇷"
@@ -54,7 +54,7 @@ buildFuture = true  # 장마감 브리핑(16:30 KST) 등 발행 시각보다 살
     weight = 2
     title = "Korea Invest Insights"
     [languages.es.params]
-      description = "Perspectivas del mercado coreano desde un inversor profesional y VC"
+      description = "Perspectivas del mercado coreano desde la visión de un inversor profesional"
     [[languages.es.menu.main]]
       name = "Inicio"
       url = "/"
@@ -73,7 +73,7 @@ buildFuture = true  # 장마감 브리핑(16:30 KST) 등 발행 시각보다 살
     weight = 3
     title = "Korea Invest Insights"
     [languages.vi.params]
-      description = "Góc nhìn thị trường Hàn Quốc từ nhà đầu tư chuyên nghiệp và VC"
+      description = "Góc nhìn thị trường Hàn Quốc từ nhà đầu tư chuyên nghiệp"
     [[languages.vi.menu.main]]
       name = "Trang chủ"
       url = "/"
@@ -92,7 +92,7 @@ buildFuture = true  # 장마감 브리핑(16:30 KST) 등 발행 시각보다 살
     weight = 4
     title = "Korea Invest Insights"
     [languages.fr.params]
-      description = "Perspectives du marché coréen par un investisseur professionnel et VC"
+      description = "Perspectives du marché coréen par un investisseur professionnel"
     [[languages.fr.menu.main]]
       name = "Accueil"
       url = "/"
@@ -111,7 +111,7 @@ buildFuture = true  # 장마감 브리핑(16:30 KST) 등 발행 시각보다 살
     weight = 1
     title = "Korea Invest Insights"
     [languages.en.params]
-      description = "Korean market insights from a professional investor & VC perspective"
+      description = "Korean market insights from a professional investor perspective"
     [[languages.en.menu.main]]
       name = "Home"
       url = "/"
@@ -146,7 +146,7 @@ buildFuture = true  # 장마감 브리핑(16:30 KST) 등 발행 시각보다 살
     weight = 5
     title = "Korea Invest Insights"
     [languages.ja.params]
-      description = "プロ投資家・VCの視点から見た韓国市場インサイト"
+      description = "プロ投資家の視点から見た韓国市場インサイト"
     [[languages.ja.menu.main]]
       name = "ホーム"
       url = "/"
@@ -165,7 +165,7 @@ buildFuture = true  # 장마감 브리핑(16:30 KST) 등 발행 시각보다 살
     weight = 6
     title = "Korea Invest Insights"
     [languages.zh.params]
-      description = "专业投资人与VC视角下的韩国市场洞察"
+      description = "专业投资人视角下的韩国市场洞察"
     [[languages.zh.menu.main]]
       name = "首页"
       url = "/"
@@ -184,13 +184,13 @@ buildFuture = true  # 장마감 브리핑(16:30 KST) 등 발행 시각보다 살
     weight = 7
     title = "Korea Invest Insights"
     [languages.ko.params]
-      description = "전문 투자자 및 VC 관점의 한국 시장 인사이트"
+      description = "전문 투자자 관점의 한국 시장 인사이트"
     [[languages.ko.menu.main]]
       name = "홈"
       url = "/"
       weight = 1
     [[languages.ko.menu.main]]
-      name = "펄어비스 허브"
+      name = "펄어비스 주가 허브"
       url = "/ko/page/pearl-abyss-crimson-desert-hub"
       weight = 2
     [[languages.ko.menu.main]]

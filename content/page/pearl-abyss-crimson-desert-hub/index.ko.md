@@ -1,17 +1,18 @@
 ---
-title: "펄어비스·붉은사막 투자 허브: 목표주가·공매도·패치 업데이트"
+title: "펄어비스 주가·목표주가 허브: 붉은사막, 공매도, 263750 분석"
 slug: "pearl-abyss-crimson-desert-hub"
 date: 2026-04-30T22:30:00+09:00
-aliases: ["/ko/pearl-abyss/", "/ko/crimson-desert/", "/ko/page/pearl-abyss/"]
+lastmod: 2026-05-02T18:00:00+09:00
+aliases: ["/pearl-abyss/", "/crimson-desert/", "/page/pearl-abyss/", "/pearl-abyss-stock-price/", "/pearl-abyss-stock/", "/263750/", "/263750-stock/", "/펄어비스-주가/"]
 layout: "page"
-description: "펄어비스와 붉은사막 투자 논거를 한곳에 모은 리서치 허브. 목표주가, 공매도 잔고, 1.04·1.05 패치, 6만원 지지선, CCP/EVE 매각, 플랫폼 리레이팅을 순서대로 정리한다."
+description: "펄어비스 주가(263750), 목표주가, 공매도 잔고, 붉은사막 판매량·패치, 6만원 지지선, CCP/EVE 매각과 자사주 소각 가능성을 한곳에 정리한 투자 리서치 허브."
 ---
 
 ## 한 줄 결론
 
-펄어비스 투자 논거는 이제 단순히 "붉은사막이 몇 장 팔렸는가"가 아니라, **붉은사막 흥행이 펄어비스를 일회성 게임 출시주에서 글로벌 AAA IP·자체 엔진·현금흐름을 가진 게임 플랫폼 기업으로 재평가하게 만들 수 있는가**의 문제다.
+펄어비스 주가를 볼 때 핵심은 이제 단순히 "붉은사막이 몇 장 팔렸는가"가 아니다. **붉은사막 흥행이 펄어비스(263750)를 일회성 게임 출시주에서 글로벌 AAA IP·자체 엔진·현금흐름을 가진 게임 플랫폼 기업으로 재평가하게 만들 수 있는가**가 본질이다.
 
-이 허브는 펄어비스와 붉은사막 관련 글을 처음 읽는 독자가 논거의 흐름을 빠르게 따라갈 수 있도록 만든 출발점이다.
+이 허브는 `펄어비스 주가`, `펄어비스 목표주가`, `펄어비스 공매도`, `붉은사막 판매량`을 검색한 독자가 논거의 흐름을 빠르게 따라갈 수 있도록 만든 출발점이다. 실시간 시세 제공 페이지가 아니라, 주가를 움직이는 핵심 변수와 관련 리서치를 연결하는 안내 페이지다.
 
 ---
 
@@ -19,6 +20,7 @@ description: "펄어비스와 붉은사막 투자 논거를 한곳에 모은 리
 
 | 검색 질문 | 현재 답변 | 자세히 보기 |
 |---|---|---|
+| 펄어비스 주가는 무엇을 봐야 하나 | 단기적으로는 6만원 지지선, 공매도 흡수 여부, 1Q26 실적 인식, 붉은사막 패치·판매량 업데이트가 핵심이다. | [펄어비스 6만원 지지선](/ko/post/pearl-abyss-60k-new-support-retail-to-institutional-handoff-2026-04-27/) |
 | 펄어비스 목표주가는 어디까지 봐야 하나 | 신한증권 7.2만 원은 정상화 구간 상단이고, 자체 fair value 추정 범위의 중심값은 7.5만 원이다. 8.5M 판매 검증 시 약 8만 원 안팎까지 열릴 수 있다. | [펄어비스 목표주가 갭](/ko/post/pearl-abyss-shinhan-target-price-gap-analysis-2026-04-29/) |
 | 펄어비스 공매도 잔고가 주가를 누르고 있나 | 4월 중순 이후 공매도 거래 강도는 약해졌고, 4월 21일에는 외국인·기관 순매수가 공매도 물량을 흡수했다. 핵심은 공매도 존재가 아니라 가격 지배력 약화다. | [펄어비스 공매도 잔고와 수급](/ko/post/pearl-abyss-short-sale-absorption-2026-04-21/) |
 | 크림슨 데저트 1.05 패치는 왜 중요한가 | 1.04에서 난이도·주거·펫·QoL이 해결됐고, 1.05는 보스 재도전과 엔드게임 루프가 실제로 이어지는지 확인하는 다음 체크포인트다. | [1.04 패치 분석](/ko/post/pearl-abyss-crimson-desert-patch-104-witcher-moment-2026-04-23/) |
@@ -52,6 +54,12 @@ description: "펄어비스와 붉은사막 투자 논거를 한곳에 모은 리
 
 ## 논거별로 읽기
 
+### 0. 펄어비스 주가와 수급
+
+- [펄어비스 6만원 지지선: 개인에서 기관으로 넘어가는 수급](/ko/post/pearl-abyss-60k-new-support-retail-to-institutional-handoff-2026-04-27/)
+- [펄어비스 공매도 잔고와 수급: 팔았지만 주가는 눌리지 않았다](/ko/post/pearl-abyss-short-sale-absorption-2026-04-21/)
+- [펄어비스 목표가 갭: 신한증권의 2027년 판매절벽 가정은 과도한가](/ko/post/pearl-abyss-shinhan-target-price-gap-analysis-2026-04-29/)
+
 ### 1. 게임 데이터와 제품 퀄리티
 
 - [펄어비스: 크림슨 데저트 1.04 패치가 리레이팅 촉매인가](/ko/post/pearl-abyss-crimson-desert-patch-104-witcher-moment-2026-04-23/)
@@ -64,13 +72,7 @@ description: "펄어비스와 붉은사막 투자 논거를 한곳에 모은 리
 - [펄어비스 목표가 갭: 신한증권의 2027년 판매절벽 가정은 과도한가](/ko/post/pearl-abyss-shinhan-target-price-gap-analysis-2026-04-29/)
 - [펄어비스 투자 테시스: 크림슨 데저트 턴어라운드](/ko/post/pearl-abyss-investment-thesis-crimson-desert-q1-2026/)
 
-### 3. 수급과 주가 레벨
-
-- [펄어비스 6만원 지지선: 개인에서 기관으로 넘어가는 수급](/ko/post/pearl-abyss-60k-new-support-retail-to-institutional-handoff-2026-04-27/)
-- [펄어비스 공매도 잔고와 수급: 팔았지만 주가는 눌리지 않았다](/ko/post/pearl-abyss-short-sale-absorption-2026-04-21/)
-- [펄어비스 일일 점검: 5만5000원 지지와 500만장 발표 대기](/ko/post/pearl-abyss-daily-report-2026-04-09/)
-
-### 4. 장기 플랫폼 옵션
+### 3. 장기 플랫폼 옵션
 
 - [펄어비스 리레이팅: 크림슨 데저트는 단순 판매량 게임이 아니다](/ko/post/pearl-abyss-crimson-desert-platform-rerating-2026-04-25/)
 - [아무도 몰랐던 BDO의 부활: 크림슨 데저트 그늘에서 전년比 +40%](/ko/post/pearl-abyss-black-desert-online-resurgence-2026-04-19/)
@@ -79,6 +81,10 @@ description: "펄어비스와 붉은사막 투자 논거를 한곳에 모은 리
 ---
 
 ## FAQ
+
+### 펄어비스 주가를 볼 때 가장 먼저 확인할 변수는?
+
+단기적으로는 6만원 지지선, 공매도 거래 강도, 외국인·기관 순매수, 1Q26 실적 인식, 붉은사막 패치 업데이트다. 중기적으로는 붉은사막이 일회성 패키지 판매를 넘어 롱테일 매출을 만들 수 있는지가 핵심이다.
 
 ### 펄어비스 투자 논거의 핵심은 무엇인가?
 

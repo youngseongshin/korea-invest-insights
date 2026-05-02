@@ -7,7 +7,7 @@ layout: "page"
 
 ## Korea Invest Insights
 
-A **multilingual Korean market intelligence blog** run by a professional investor and venture capitalist based in Seoul. We publish daily analysis in **7 languages** for international investors who lack access to quality Korean market coverage.
+A **multilingual Korean market intelligence blog** run by a professional investor based in Seoul. We publish daily analysis in **7 languages** for international investors who lack access to quality Korean market coverage.
 
 ---
 

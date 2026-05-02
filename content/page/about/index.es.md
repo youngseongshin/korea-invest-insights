@@ -7,7 +7,7 @@ layout: "page"
 
 ## Korea Invest Insights
 
-Un **blog multilingue de inteligencia del mercado coreano** dirigido por un inversor profesional y capitalista de riesgo con sede en Seúl. Publicamos análisis diarios en **7 idiomas** para inversores internacionales que carecen de acceso a cobertura de calidad del mercado coreano.
+Un **blog multilingue de inteligencia del mercado coreano** dirigido por un inversor profesional con sede en Seúl. Publicamos análisis diarios en **7 idiomas** para inversores internacionales que carecen de acceso a cobertura de calidad del mercado coreano.
 
 ---
 
