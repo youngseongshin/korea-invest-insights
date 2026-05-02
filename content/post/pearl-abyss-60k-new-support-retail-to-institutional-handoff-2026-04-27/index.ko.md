@@ -10,7 +10,7 @@ series: ["pearl-abyss-crimson-desert-thesis"]
 
 > **펄어비스 리서치 허브**: 이 글은 [펄어비스·붉은사막 투자 리서치 허브](/ko/page/pearl-abyss-crimson-desert-hub/)의 일부다. 제품 데이터는 [1.04 패치](/ko/post/pearl-abyss-crimson-desert-patch-104-witcher-moment-2026-04-23/)와 [패치 후 주말 데이터](/ko/post/pearl-abyss-crimson-desert-post-patch-weekend-data-2026-04-27/)에서, 밸류에이션은 [신한증권 목표가 갭](/ko/post/pearl-abyss-shinhan-target-price-gap-analysis-2026-04-29/)에서 이어진다.
 
-> **시리즈 — Pearl Abyss Crimson Desert Thesis (10편)**
+> **시리즈 — 펄어비스 Crimson Desert Thesis (10편)**
 > 9편에서는 1.04.00 패치 이후 주말 게임 데이터(CCU -13%, 신규 부정 리뷰 -49.7%)를 분석했다. 이번 편은 **수급 측면**을 다룬다: 4월 27일은 ₩60,000이 저항선에서 지지선으로 전환된 날이며, 그 전환 방식이 현재 주식을 보유하고 있는 주체가 누구인지를 명확히 보여준다.
 
 ---

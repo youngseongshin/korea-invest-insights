@@ -2,7 +2,7 @@
 title: "펄어비스: 붉은사막 400만 장 돌파, 영업이익 2,230억 원"
 date: 2026-04-06T23:00:00+09:00
 categories: ["company-deep-dive"]
-tags: ["Pearl Abyss", "263750", "Crimson Desert", "붉은사막", "한국 주식", "KOSPI", "KOSDAQ", "한국 게임주", "오픈월드 RPG", "2026년 1분기 실적"]
+tags: ["펄어비스", "263750", "Crimson Desert", "붉은사막", "한국 주식", "KOSPI", "KOSDAQ", "한국 게임주", "오픈월드 RPG", "2026년 1분기 실적"]
 slug: "kr-deep-dive-pearl-abyss-crimson-desert-q1-2026-04-06"
 description: "펄어비스의 붉은사막이 출시 12일 만에 400만 장을 판매했다. 2026년 1분기 추정 매출 4,300억 원, 영업이익 2,230억 원 — 3년간의 적자를 단 한 분기 만에 청산."
 series: ["pearl-abyss-crimson-desert-thesis"]

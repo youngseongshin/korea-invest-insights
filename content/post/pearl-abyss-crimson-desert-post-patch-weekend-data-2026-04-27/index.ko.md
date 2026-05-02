@@ -3,15 +3,15 @@ title: "크림슨 데저트 패치 후 데이터: 리뷰 방어와 롱테일 체
 slug: pearl-abyss-crimson-desert-post-patch-weekend-data-2026-04-27
 date: 2026-04-27T11:00:00+09:00
 description: "Crimson Desert의 1.04.00 패치 후 첫 주말(4월 25–27일 KST): 평균 CCU는 전주 대비 -13.2%였지만, 신규 부정 리뷰는 -49.7% 감소했고 신규 리뷰 긍정률은 +8.7pp 상승해 87.3%를 기록했으며, 미국 Steam 순위는 #6.0 → #5.1로 개선됐다. 매출 런레이트 감소폭(-5.7%)이 CCU 감소폭(-13.2%)보다 유의미하게 완만한 것은, 플랫폼 리레이팅 테제가 예측했던 롱테일 특성과 정확히 일치한다."
-categories: ["Pearl Abyss", "Korea Market"]
+categories: ["펄어비스", "Korea Market"]
 tags: ["펄어비스", "크림슨데저트", "게임", "패치후분석", "주말데이터", "플랫폼리레이팅", "시리즈"]
 series: ["pearl-abyss-crimson-desert-thesis"]
 ---
 
 > **펄어비스 리서치 허브**: 이 글은 [펄어비스·붉은사막 투자 리서치 허브](/ko/page/pearl-abyss-crimson-desert-hub/)의 일부다. 이전 글은 [1.04 패치 리레이팅](/ko/post/pearl-abyss-crimson-desert-patch-104-witcher-moment-2026-04-23/), 다음 핵심 글은 [6만원 지지선](/ko/post/pearl-abyss-60k-new-support-retail-to-institutional-handoff-2026-04-27/)과 [신한증권 목표가 갭](/ko/post/pearl-abyss-shinhan-target-price-gap-analysis-2026-04-29/)이다.
 
-> **시리즈 — Pearl Abyss Crimson Desert 테제 (9편)**
-> 8편에서는 테제의 무게중심이 *"판매량"*에서 *"Pearl Abyss가 글로벌 AAA 플랫폼 / 자체 엔진 회사로 리레이팅될 수 있는가"*로 이동했다고 논했다. 이번 글은 **패치 1.04.00 + 핫픽스 1.04.02 이후 첫 완전한 주말 데이터**로, 테제가 유효한지 확인하는 첫 번째 실증 자료다.
+> **시리즈 — 펄어비스 Crimson Desert 테제 (9편)**
+> 8편에서는 테제의 무게중심이 *"판매량"*에서 *"펄어비스가 글로벌 AAA 플랫폼 / 자체 엔진 회사로 리레이팅될 수 있는가"*로 이동했다고 논했다. 이번 글은 **패치 1.04.00 + 핫픽스 1.04.02 이후 첫 완전한 주말 데이터**로, 테제가 유효한지 확인하는 첫 번째 실증 자료다.
 
 ---
 
@@ -128,7 +128,7 @@ series: ["pearl-abyss-crimson-desert-thesis"]
 
 **이번 주말은 고점 붕괴가 아니었다. 매출 여력과 리뷰 품질을 지켜낸 정상적인 감쇠였다.**
 
-이 패턴은 Pearl Abyss가 **MMORPG 라이브 오퍼레이션 DNA를 오픈월드 AAA 패키지에 접목해 롱테일 내구성을 연장하고 있다**는 테제와 정렬된다. 이 역량은 DokeV, DLC, 확장팩, 다음 프로젝트로 이전될 수 있다. 그것이 플랫폼 리레이팅 스토리다.
+이 패턴은 펄어비스가 **MMORPG 라이브 오퍼레이션 DNA를 오픈월드 AAA 패키지에 접목해 롱테일 내구성을 연장하고 있다**는 테제와 정렬된다. 이 역량은 DokeV, DLC, 확장팩, 다음 프로젝트로 이전될 수 있다. 그것이 플랫폼 리레이팅 스토리다.
 
 **아직 증명되지 않은 것**: CCU 바닥이 구조적으로 상향 재설정되는지 여부. 다음 확인 지점은 명확하다:
 

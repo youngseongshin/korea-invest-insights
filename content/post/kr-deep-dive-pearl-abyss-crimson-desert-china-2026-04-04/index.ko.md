@@ -2,7 +2,7 @@
 title: "펄어비스: 붉은사막 중국 돌파와 400만 장 판매"
 date: 2026-04-04T21:00:00+09:00
 categories: ["company-deep-dive"]
-tags: ["Pearl Abyss", "263750.KS", "Crimson Desert", "Red Desert", "붉은사막", "한국 게임주", "KOSPI", "Steam", "중국 게임 시장"]
+tags: ["펄어비스", "263750.KS", "Crimson Desert", "Red Desert", "붉은사막", "한국 게임주", "KOSPI", "Steam", "중국 게임 시장"]
 slug: "kr-deep-dive-pearl-abyss-crimson-desert-china-2026-04-04"
 description: "펄어비스의 붉은사막이 Steam 86% 긍정 평가와 400만 장 이상 판매를 기록했다. 중국 시장 돌파구, 청명절 매출 급등, 그리고 263750.KS 투자 시사점에 대한 심층 분석."
 series: ["pearl-abyss-crimson-desert-thesis"]
@@ -183,7 +183,7 @@ SHIFT UP의 비교가 시사하는 바가 크다: Stellar Blade는 한국 스튜
 전 플랫폼 첫 달 판매량 기준으로, 붉은사막의 400만 장 이상(혼합 ASP $45\~50)은 SHIFT UP의 Stellar Blade와 비교해 유리한 편이며, 펄어비스의 기존 연간 매출 런레이트의 두 배에 근접하는 매출 이벤트가 될 수 있다.
 
 **Q: 펄어비스 주식 티커는?**
-펄어비스(Pearl Abyss)는 한국거래소(KOSPI)에 **263750**(KRX: 263750)으로 상장되어 있다. Reuters 식별자: 263750.KS.
+펄어비스는 한국거래소(KOSPI)에 **263750**(KRX: 263750)으로 상장되어 있다. Reuters 식별자: 263750.KS.
 
 ---
 
