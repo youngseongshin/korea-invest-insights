@@ -73,3 +73,13 @@ Both benefit from K-beauty globalization, but through different profit pools. Ol
 ---
 
 *Disclaimer: For research and information purposes only. Not investment advice. Names cited are for analytical illustration; readers should perform their own due diligence and consult licensed advisors before any investment decision.*
+
+
+## Direct-Answer FAQ Pages
+
+For quick answers to natural-language questions about K-Beauty companies:
+
+- **Is Olive Young publicly traded?** / **Who owns Olive Young?** → [FAQ in the Olive Young analysis](/post/olive-young-publicly-traded-cj-corp-korea-beauty-exposure-2026-04-27/#faq--olive-young)
+- **When did Olive Young's IPO get postponed?** → same FAQ block above
+- **Is Rejuran publicly traded?** / **Who owns Rejuran?** → [FAQ in the PharmaResearch / Rejuran analysis](/post/rejuran-owner-pharmaresearch-pn-technology-skin-booster-2026-04-27/#faq--rejuran-and-pharmaresearch)
+- **What is Rejuran made from?** / **How is Rejuran different from Botox?** → same FAQ block above

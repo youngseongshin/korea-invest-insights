@@ -214,13 +214,25 @@ buildFuture = true  # 장마감 브리핑(16:30 KST) 등 발행 시각보다 살
       url = "/ko/page/k-beauty-olive-young-pharmaresearch-hub"
       weight = 4
     [[languages.ko.menu.main]]
+      name = "데일리 마켓"
+      url = "/ko/page/korea-daily-market-hub"
+      weight = 5
+    [[languages.ko.menu.main]]
+      name = "한국 AI"
+      url = "/ko/page/korean-ai-companies-hub"
+      weight = 6
+    [[languages.ko.menu.main]]
+      name = "장비·IP"
+      url = "/ko/page/korea-semiconductor-equipment-ip-hub"
+      weight = 7
+    [[languages.ko.menu.main]]
       name = "아카이브"
       url = "/page/archives"
-      weight = 5
+      weight = 8
     [[languages.ko.menu.main]]
       name = "소개"
       url = "/page/about"
-      weight = 6
+      weight = 9
 
 [params.widgets]
   [[params.widgets.homepage]]

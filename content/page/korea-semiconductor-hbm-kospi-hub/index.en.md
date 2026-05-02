@@ -75,3 +75,13 @@ No. HBM is the strongest earnings engine, but Korea's 2026 re-rating also reflec
 ---
 
 *Disclaimer: For research and information purposes only. Not investment advice. Names cited are for analytical illustration; readers should perform their own due diligence and consult licensed advisors before any investment decision.*
+
+
+## Direct-Answer FAQ Pages
+
+For quick answers to natural-language questions about SK hynix and HBM:
+
+- **What's SK hynix's HBM market share in 2026?** → [FAQ in the SK hynix HBM analysis](/post/sk-hynix-hbm-market-share-ai-memory-demand-2026/#faq--sk-hynix-and-hbm)
+- **Is SK hynix publicly traded?** / **Who owns SK hynix?** → same FAQ block above
+- **Does SK hynix supply HBM to NVIDIA?** → same FAQ block above
+- **Is Samsung Electronics publicly traded?** / **Does Samsung make Apple's iPhone screens?** → [FAQ in the Samsung Electronics deep dive](/post/kr-deep-dive-samsung-electronics-2026-04-16/#faq--samsung-electronics)

@@ -99,3 +99,13 @@ The key checkpoints are 1Q26 earnings, formal confirmation of 6M+ copies, May pa
 ---
 
 *Disclaimer: For research and information purposes only. Not investment advice. Names cited are for analytical illustration; readers should perform their own due diligence and consult licensed advisors before any investment decision.*
+
+
+## Direct-Answer FAQ Pages
+
+For quick answers to natural-language questions about Pearl Abyss:
+
+- **Is Pearl Abyss publicly traded?** → see [FAQ in the Platform Re-rating analysis](/post/pearl-abyss-crimson-desert-platform-rerating-2026-04-25/#faq--pearl-abyss--crimson-desert)
+- **Who owns Pearl Abyss?** → same FAQ block above
+- **When was Crimson Desert released?** / **How many copies sold?** → [FAQ in the 5M franchise thesis](/post/pearl-abyss-crimson-desert-5m-franchise-thesis-2026-04-15/#faq--pearl-abyss--crimson-desert)
+- **What's Pearl Abyss's market cap?** → [FAQ in the Shinhan target analysis](/post/pearl-abyss-shinhan-target-price-gap-analysis-2026-04-29/#faq--pearl-abyss--crimson-desert)
