@@ -85,7 +85,7 @@ Value-up 이후의 한국 금융주에 대해 글로벌·국내 투자자가 묻
 | 서브섹터 | 상장 종목 | 허브 읽기 |
 |---|---|---|
 | **은행지주** | KB금융(105560), 신한지주(055550), 하나금융(086790), 우리금융(316140) | [시리즈 Part 3-4](/ko/post/kb-financial-foreign-access-proxy-third-peak-2026-05-03/) |
-| **증권** | 키움증권(039490), 한국금융지주(071050), 삼성증권(016360), NH투자증권(005940), 미래에셋증권(006800) | [시리즈 Part 2 — 키움](/ko/post/kiwoom-securities-roe20-recognition-completed-2026-04-30/) |
+| **증권** | 키움증권(039490), 한국금융지주(071050), 삼성증권(016360), NH투자증권(005940), 미래에셋증권(006800) | [시리즈 Part 2 — 키움](/ko/post/kiwoom-securities-roe20-recognition-completed-2026-04-30/) · [시리즈 Part 5 — 한국금융지주](/ko/post/korea-investment-holdings-fifth-coordinate-2026-05-03/) |
 | **보험** | 메리츠금융지주(138040, 복합), DB손해보험(005830), 삼성화재(000810), 한화생명 | [시리즈 Part 1 — 메리츠](/ko/post/meritz-financial-capital-buyback-compounding-standard-2026-04-30/) |
 | **상장 VC / PE** | 에이티넘(138110), 컴퍼니케이(307930), DSC(241520), 큐캐피탈(016600), 미래에셋벤처(100790), 아주IB(027360) | [상장 한국 VC 재평가](/ko/post/listed-korean-vc-rerating-capital-inflow-2026-04-29/) |
 
@@ -131,6 +131,7 @@ A: KOSPI 상장은 한국거래소에 직접 상장된 1차 상장입니다. ADR
 
 - **KB금융은 상장사인가요? / 누가 보유하나요?** → [KB금융 FAQ](/ko/post/kb-financial-foreign-access-proxy-third-peak-2026-05-03/#faq--kb-financial-group)
 - **신한지주는 상장사인가요? / Value-up 2.0은 무엇인가요?** → [신한 FAQ](/ko/post/shinhan-financial-transit-between-peaks-2026-05-03/#faq--shinhan-financial-group)
+- **한국금융지주는 상장사인가요? / 발행어음 / IMA는 무엇인가요?** → [한국금융지주 FAQ](/ko/post/korea-investment-holdings-fifth-coordinate-2026-05-03/#faq--korea-investment-holdings)
 - **메리츠금융지주는 상장사인가요? / 자사주 소각 모델은 왜 작동하나요?** → 위 시리즈 Part 1 참조
 
 ---
