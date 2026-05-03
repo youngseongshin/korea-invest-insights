@@ -1,7 +1,7 @@
 ---
 title: "メリッツ金融持株（138040）――韓国金融セクターの資本還元複利標準、そしてその頂点の先に広がる景色"
 slug: meritz-financial-capital-buyback-compounding-standard-2026-04-30
-date: 2026-04-30T22:00:00+09:00
+date: 2026-05-03T22:00:00+09:00
 description: "韓国金融株の再評価はすでに完了している。「低PBR割安資産」の時代は終わり、市場はいまや韓国金融セクターをROE×配当性向×EPS成長という軸で評価する。メリッツ金融持株（138040）はこの新たな基準を構築し、最も深く体現してきた企業だ――ROE約22%、純利益の50〜60%を自社株買い・消却に充当し、売上が縮小する中でもEPSは+13%成長。トップラインが縮む一方、一株当たり価値は複利で拡大し続ける。今問うべきは、KB Financial（105560）、Hana Financial（086790）、Shinhan Financial（055550）、DB Insurance（005830）、Korea Investment Holdings（071050）が同じ基準をどれほど早く採用するかであり、その時間的ズレの差分こそが韓国金融セクター内に残存するアルファを定義する。"
 categories: ["Sector-Deep-Dive", "Korea Market"]
 tags:

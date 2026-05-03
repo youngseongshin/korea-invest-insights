@@ -1,7 +1,7 @@
 ---
 title: "Meritz Financial Holdings (138040) — El estándar de capitalización mediante recompras para el sector financiero coreano, y el panorama más allá de su cima"
 slug: meritz-financial-capital-buyback-compounding-standard-2026-04-30
-date: 2026-04-30T22:00:00+09:00
+date: 2026-05-03T22:00:00+09:00
 description: "La revalorización de las acciones financieras coreanas ya ha ocurrido. La era del 'activo con descuento de bajo PBR' ha terminado; el mercado ahora evalúa los financieros coreanos a través de ROE × ratio de distribución × acreción de BPA. Meritz Financial Holdings (138040) es la empresa que construyó este nuevo estándar y lo incorporó más profundamente: ROE ~22%, 50–60% del beneficio neto destinado a recompra y cancelación de acciones, y BPA creciendo +13% incluso cuando los ingresos se contraen. El valor por acción se compone mientras la línea superior se reduce. La pregunta más relevante ahora es la *velocidad* a la que KB Financial (105560), Hana Financial (086790), Shinhan Financial (055550), DB Insurance (005830) y Korea Investment Holdings (071050) adoptan el mismo estándar — y las brechas temporales entre ellos definen dónde existe todavía alfa dentro del sector financiero coreano."
 categories: ["Sector-Deep-Dive", "Korea Market"]
 tags:

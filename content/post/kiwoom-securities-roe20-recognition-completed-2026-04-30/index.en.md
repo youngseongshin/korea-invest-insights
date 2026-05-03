@@ -1,7 +1,7 @@
 ---
 title: "Kiwoom Securities (039490) — From 'Cheap Brokerage' to 'ROE-20% Capital-Efficiency Brokerage': Why the Recognition Shift Is Already Complete, and the Self-Stabilization a Peak Price Brings"
 slug: kiwoom-securities-roe20-recognition-completed-2026-04-30
-date: 2026-04-30T22:30:00+09:00
+date: 2026-05-03T22:30:00+09:00
 description: "Kiwoom Securities (039490) is no longer a 'cheap brokerage' at PBR 0.6–0.8×. PBR moved from 0.55× (2024) to 1.39× (2026E) — the market has already reclassified Kiwoom as an ROE-20% capital-efficiency brokerage. The April 30 1Q26 strong-print sell-off (-6.02%) is not a model rejection. It is the natural self-stabilization signal of a price that already reflects the model. If Meritz Financial is the static 'ROE × payout' compounder, Kiwoom is the dynamic 'ROE × trading-volume beta × capital turnover' variant on the same matrix — and inside the post-recognition market, what gets verified next is no longer discovery but model durability."
 categories: ["Sector-Deep-Dive", "Korea Market"]
 tags:

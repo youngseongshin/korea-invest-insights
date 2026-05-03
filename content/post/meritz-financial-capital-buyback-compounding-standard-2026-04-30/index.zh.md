@@ -1,7 +1,7 @@
 ---
 title: "Meritz Financial Holdings (138040) — 韩国金融股资本回购复利的新标准，及其登顶后的市场格局"
 slug: meritz-financial-capital-buyback-compounding-standard-2026-04-30
-date: 2026-04-30T22:00:00+09:00
+date: 2026-05-03T22:00:00+09:00
 description: "韩国金融股的重新定价已经完成。'低市净率折价资产'的时代终结；市场如今以 ROE × 股东回报比率 × 每股收益增长的框架来评估韩国金融股。Meritz Financial Holdings (138040) 是构建这一新标准并将其执行最为彻底的公司：ROE 约 22%、将 50–60% 净利润用于股票回购注销，即便营收收缩，每股收益仍增长 +13%。每股价值持续复利，而营收规模却在萎缩。当前更核心的问题，在于 KB Financial (105560)、Hana Financial (086790)、Shinhan Financial (055550)、DB Insurance (005830) 以及 Korea Investment Holdings (071050) 采纳同一标准的速度——各家之间的时间差，正是韩国金融板块内部仍然存在超额收益的所在。"
 categories: ["Sector-Deep-Dive", "Korea Market"]
 tags:

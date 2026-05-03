@@ -1,7 +1,7 @@
 ---
 title: "Kiwoom Securities (039490) — De « courtier bon marché » à « courtier à efficacité de capital ROE-20 % » : pourquoi le changement de perception est déjà accompli, et l'auto-stabilisation qu'un prix au sommet génère"
 slug: kiwoom-securities-roe20-recognition-completed-2026-04-30
-date: 2026-04-30T22:30:00+09:00
+date: 2026-05-03T22:30:00+09:00
 description: "Kiwoom Securities (039490) n'est plus un « courtier bon marché » à PBR 0,6–0,8×. Le PBR est passé de 0,55× (2024) à 1,39× (2026E) — le marché a déjà reclassé Kiwoom comme courtier à efficacité de capital ROE-20 %. La chute post-résultats du 30 avril 1T26 (-6,02 %) n'est pas un rejet du modèle. C'est le signal naturel d'auto-stabilisation d'un prix qui reflète déjà le modèle. Si Meritz Financial est le « compounder ROE × rendement du capital » statique, Kiwoom en est la variante dynamique « ROE × bêta volume de trading × rotation du capital » sur la même matrice — et dans le marché post-reconnaissance, ce qui est vérifié ensuite n'est plus la découverte mais la durabilité du modèle."
 categories: ["Sector-Deep-Dive", "Korea Market"]
 tags:

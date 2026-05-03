@@ -1,7 +1,7 @@
 ---
 title: "Meritz Financial Holdings (138040) — Chuẩn Mực Tích Lũy Vốn Qua Mua Lại Cổ Phiếu của Tài Chính Hàn Quốc, và Bức Tranh Toàn Cảnh Sau Đỉnh"
 slug: meritz-financial-capital-buyback-compounding-standard-2026-04-30
-date: 2026-04-30T22:00:00+09:00
+date: 2026-05-03T22:00:00+09:00
 description: "Quá trình định giá lại cổ phiếu tài chính Hàn Quốc đã diễn ra xong. Kỷ nguyên 'tài sản chiết khấu PBR thấp' đã chấm dứt; thị trường hiện đánh giá các công ty tài chính Hàn Quốc qua ma trận ROE × tỷ lệ chi trả × tăng trưởng EPS. Meritz Financial Holdings (138040) là công ty đã xây dựng chuẩn mực mới này và thể hiện sâu sắc nhất: ROE ~22%, 50–60% lợi nhuận ròng được triển khai vào mua lại và hủy cổ phiếu, EPS tăng +13% ngay cả khi doanh thu co lại. Giá trị trên mỗi cổ phần tích lũy trong khi doanh thu đầu ra thu hẹp. Câu hỏi thực chất hơn lúc này là *tốc độ* mà KB Financial (105560), Hana Financial (086790), Shinhan Financial (055550), DB Insurance (005830), và Korea Investment Holdings (071050) áp dụng cùng chuẩn mực — và khoảng cách thời gian giữa họ chính là nơi alpha vẫn còn tồn tại trong ngành tài chính Hàn Quốc."
 categories: ["Sector-Deep-Dive", "Korea Market"]
 tags:

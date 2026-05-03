@@ -1,7 +1,7 @@
 ---
 title: "Kiwoom Securities (039490) — De 'Correduría Barata' a 'Correduría de Eficiencia de Capital con ROE del 20%': Por Qué el Cambio de Reconocimiento Ya Está Completo, y la Autoestabilización que Genera un Precio en Máximos"
 slug: kiwoom-securities-roe20-recognition-completed-2026-04-30
-date: 2026-04-30T22:30:00+09:00
+date: 2026-05-03T22:30:00+09:00
 description: "Kiwoom Securities (039490) ya no es una 'correduría barata' con PBR de 0,6–0,8×. El PBR pasó de 0,55× (2024) a 1,39× (2026E): el mercado ya ha reclasificado a Kiwoom como una correduría de eficiencia de capital con ROE del 20%. La caída del -6,02% el 30 de abril tras los sólidos resultados del 1T26 no es un rechazo del modelo. Es la señal natural de autoestabilización de un precio que ya refleja dicho modelo. Si Meritz Financial es el compounder estático de 'ROE × payout', Kiwoom es la variante dinámica de 'ROE × beta de volumen negociado × rotación de capital' sobre la misma matriz — y dentro del mercado post-reconocimiento, lo que se verifica a continuación ya no es el descubrimiento, sino la durabilidad del modelo."
 categories: ["Sector-Deep-Dive", "Korea Market"]
 tags:

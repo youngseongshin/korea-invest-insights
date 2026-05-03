@@ -1,7 +1,7 @@
 ---
 title: "Meritz Financial Holdings (138040) — The Capital-Buyback Compounding Standard for Korean Financials, and the Landscape Beyond Its Peak"
 slug: meritz-financial-capital-buyback-compounding-standard-2026-04-30
-date: 2026-04-30T22:00:00+09:00
+date: 2026-05-03T22:00:00+09:00
 description: "The repricing of Korean financial stocks has already happened. The 'low-PBR discounted asset' era is over; the market now evaluates Korean financials through ROE × payout ratio × EPS accretion. Meritz Financial Holdings (138040) is the company that built this new standard and embedded it most deeply: ROE ~22%, 50–60% net-income deployed to share-buyback-and-cancel, and EPS growing +13% even as revenue contracts. Per-share value compounds while top line shrinks. The cleaner question now is the *speed* at which KB Financial (105560), Hana Financial (086790), Shinhan Financial (055550), DB Insurance (005830), and Korea Investment Holdings (071050) adopt the same standard — and the time gaps among them define where alpha still exists inside Korean financials."
 categories: ["Sector-Deep-Dive", "Korea Market"]
 tags:
