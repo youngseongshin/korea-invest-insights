@@ -14,10 +14,10 @@ Value-up 이후의 한국 금융주에 대해 글로벌·국내 투자자가 묻
 | 검색 질문 | 빠른 답 | 읽을 글 |
 |---|---|---|
 | KB금융은 상장사인가요? | 네 — KOSPI 105560 / NYSE ADR KB. 한국 은행지주 중 외국인지분율(75.72%) 최고. | [KB금융: 외국인 액세스 프록시](/ko/post/kb-financial-foreign-access-proxy-third-peak-2026-05-03/) |
-| 신한지주는 상장사인가요? | 네 — KOSPI 055550 / NYSE ADR SHG. 외국인지분율 2위로, KB 좌표로 가장 빠르게 옮겨가는 회사. | [신한지주: 정점 사이의 이동](/ko/post/shinhan-financial-transit-between-peaks-2026-05-03/) |
+| 신한지주는 상장사인가요? | 네 — KOSPI 055550 / NYSE ADR SHG. 외국인지분율 2위로, KB 좌표로 가장 빠르게 옮겨가는 회사. | [신한금융그룹: 외국인 수급·주주환원 스토리](/ko/post/shinhan-financial-transit-between-peaks-2026-05-03/) |
 | 한국금융지주는 상장사인가요? | 네 — KOSPI 071050. 국내 유일 투자은행 중심 금융지주. 기존 4개 정점 어디에도 매핑되지 않는 다섯 번째 좌표('자본 운용 플랫폼')를 정의 중. | [한국금융지주: 다섯 번째 좌표](/ko/post/korea-investment-holdings-fifth-coordinate-2026-05-03/) |
-| 카카오뱅크는 상장사인가요? | 네 — KOSPI 323410. 국내 최대 인터넷전문은행. 시장이 이미 회사가 주장하는 'ROE 15%' 경로를 가격에 반영했고, 함의 자본비용 4.2%는 한국금융지주(17.3%)의 정반대 끝점. | [카카오뱅크: 한국금융지주의 거울상](/ko/post/kakaobank-mirror-of-korea-investment-2026-05-03/) |
-| 비바리퍼블리카(토스)는 상장사인가요? | 아직 비상장. 미국 ADR 상장이 준비 중인 것으로 보도됨. 정직한 IPO 가격 스펙트럼은 시장 분류에 따라 $5B-$15B로 펼쳐지며, 어느 점도 'base case'가 아님. | [토스 / 비바리퍼블리카 IPO 해부](/ko/post/toss-pre-listing-coordinate-definition-event-2026-05-03/) |
+| 카카오뱅크는 상장사인가요? | 네 — KOSPI 323410. 국내 최대 인터넷전문은행. 시장이 이미 회사가 주장하는 'ROE 15%' 경로를 가격에 반영했고, 함의 자본비용 4.2%는 한국금융지주(17.3%)의 정반대 끝점. | [카카오뱅크: ROE 11% 선반영 밸류에이션](/ko/post/kakaobank-mirror-of-korea-investment-2026-05-03/) |
+| 비바리퍼블리카(토스)는 상장사인가요? | 아직 비상장. 미국 ADR 상장이 준비 중인 것으로 보도됨. IPO 가격 스펙트럼은 시장 분류에 따라 $5B–$15B로 펼쳐지며, 어느 점도 'base case'가 아님. | [토스·비바리퍼블리카 IPO 시나리오](/ko/post/toss-pre-listing-coordinate-definition-event-2026-05-03/) |
 | Value-up 2.0은 무엇인가요? | 고정 배당성향 한도 대신 ROE × 성장률 × CET1을 formula로 연결한 자본정책. 신한지주 KRX 공시가 가장 명확한 사례. | [신한 Value-up 2.0](/ko/post/shinhan-financial-transit-between-peaks-2026-05-03/) |
 | 한국 금융주 중 ROE가 가장 높은 곳은? | 메리츠금융지주(약 22%)가 1위, 키움증권(약 20%)이 2위. 은행지주는 구조적으로 10-12% 영역. | [메리츠 재평가 표준](/ko/post/meritz-financial-capital-buyback-compounding-standard-2026-04-30/) |
 | 메리츠금융지주는 상장사인가요? | 네 — KOSPI 138040. '자본 소각 복리' 모델의 정적 정점. | [메리츠 재평가 표준](/ko/post/meritz-financial-capital-buyback-compounding-standard-2026-04-30/) |
@@ -36,10 +36,10 @@ Value-up 이후의 한국 금융주에 대해 글로벌·국내 투자자가 묻
 | 1 | 왜 한국 금융주의 인식 전환은 이미 끝났는가? | [Part 1 — 메리츠금융지주: 자본 소각 복리의 정적 정점](/ko/post/meritz-financial-capital-buyback-compounding-standard-2026-04-30/) |
 | 2 | '거래대금 베타' 정점은 어떻게 작동하는가 — 키움의 ROE 20% 인식 | [Part 2 — 키움증권: 거래대금 베타의 동적 정점](/ko/post/kiwoom-securities-roe20-recognition-completed-2026-04-30/) |
 | 3 | 외국인이 한국 금융주를 살 때 왜 KB부터 사는가? | [Part 3 — KB금융: 외국인 액세스 프록시의 수급 정점](/ko/post/kb-financial-foreign-access-proxy-third-peak-2026-05-03/) |
-| 4 | '정점 사이의 이동'은 어떤 모습인가 — 첫 추격자 사례 | [Part 4 — 신한지주: 정점 사이의 이동, 첫 사례](/ko/post/shinhan-financial-transit-between-peaks-2026-05-03/) |
+| 4 | '정점 사이의 이동'은 어떤 모습인가 — 첫 추격자 사례 | [Part 4 — 신한금융그룹: 외국인 수급·주주환원 스토리](/ko/post/shinhan-financial-transit-between-peaks-2026-05-03/) |
 | 5 | 기존 정점 어디에도 매핑되지 않는 회사는 어떤 모습인가 — 다섯 번째 좌표 정의 | [Part 5 — 한국금융지주: 자본 운용 플랫폼, 다섯 번째 좌표](/ko/post/korea-investment-holdings-fifth-coordinate-2026-05-03/) |
-| 6 | Part 5의 거울상은 어떤 모습인가 — 시장이 이미 새 좌표를 가격에 반영한 회사 | [Part 6 — 카카오뱅크: 시장이 이미 ROE 11%대를 인정한 은행](/ko/post/kakaobank-mirror-of-korea-investment-2026-05-03/) |
-| 7 | '좌표 정의 이벤트 자체'는 어떤 모습인가 — 가격이 아직 결정되지 않은 pre-listing 사례 | [Part 7 — 토스 / 비바리퍼블리카 IPO: 정직한 $5B-$15B 스펙트럼](/ko/post/toss-pre-listing-coordinate-definition-event-2026-05-03/) |
+| 6 | Part 5의 거울상은 어떤 모습인가 — 시장이 이미 새 좌표를 가격에 반영한 회사 | [Part 6 — 카카오뱅크: ROE 11% 선반영 밸류에이션](/ko/post/kakaobank-mirror-of-korea-investment-2026-05-03/) |
+| 7 | '좌표 정의 이벤트 자체'는 어떤 모습인가 — 가격이 아직 결정되지 않은 pre-listing 사례 | [Part 7 — 토스·비바리퍼블리카 IPO: $5B–$15B 기업가치 시나리오](/ko/post/toss-pre-listing-coordinate-definition-event-2026-05-03/) |
 
 ---
 
@@ -64,7 +64,7 @@ Value-up 이후의 한국 금융주에 대해 글로벌·국내 투자자가 묻
 | **정점 사이의 이동** (Part 4) | **신한지주(055550)** | 15.3% | 기존 정점(KB의 외국인 액세스)으로 옮겨가는 첫 추격자 |
 | **새 좌표 — 보수 끝점** (Part 5) | **한국금융지주(071050)** | 17.3% (시리즈 최고) | 회사가 새 좌표를 정의하려 하고, 시장은 보수적 디스카운트 적용 |
 | **새 좌표 — 공격 끝점** (Part 6) | **카카오뱅크(323410)** | 4.2% (시리즈 최저) | 거울상 — 시장이 회사가 주장하는 새 좌표를 이미 가격에 반영 |
-| **좌표 정의 이벤트 자체** (Part 7) | **비바리퍼블리카 / 토스** | 미상장 (스펙트럼 $5B-$15B) | Pre-listing — 어느 시장의 어느 분류가 가격을 결정하는가 |
+| **IPO 밸류에이션 시나리오** (Part 7) | **비바리퍼블리카·토스** | 미상장 (스펙트럼 $5B–$15B) | Pre-listing — 어느 시장의 어느 분류가 가격을 결정하는가 |
 
 이 챕터들은 분석 질문 자체를 바꿉니다 — '어느 정점에 속하는가'에서 '어느 속도로 이동하거나, 자기 좌표를 정의하거나, 시장이 미리 인정한 프리미엄을 회계로 검증받거나, 상장이라는 행위로 좌표가 결정되는가'로.
 
@@ -156,7 +156,7 @@ A: KOSPI 상장은 한국거래소에 직접 상장된 1차 상장입니다. ADR
 - **신한지주는 상장사인가요? / Value-up 2.0은 무엇인가요?** → [신한 FAQ](/ko/post/shinhan-financial-transit-between-peaks-2026-05-03/#faq--shinhan-financial-group)
 - **한국금융지주는 상장사인가요? / 발행어음 / IMA는 무엇인가요?** → [한국금융지주 FAQ](/ko/post/korea-investment-holdings-fifth-coordinate-2026-05-03/#faq--korea-investment-holdings)
 - **카카오뱅크는 상장사인가요? / 카카오뱅크와 카카오는 같은 회사인가요?** → [카카오뱅크 FAQ](/ko/post/kakaobank-mirror-of-korea-investment-2026-05-03/#faq--kakaobank)
-- **토스 / 비바리퍼블리카는 상장사인가요? / 예상 IPO 가격은?** → [토스 / 비바리퍼블리카 FAQ](/ko/post/toss-pre-listing-coordinate-definition-event-2026-05-03/#faq--viva-republica--toss)
+- **토스·비바리퍼블리카는 상장사인가요? / 예상 IPO 가격은?** → [토스·비바리퍼블리카 FAQ](/ko/post/toss-pre-listing-coordinate-definition-event-2026-05-03/#faq--viva-republica--toss)
 - **메리츠금융지주는 상장사인가요? / 자사주 소각 모델은 왜 작동하나요?** → 위 시리즈 Part 1 참조
 
 ---
