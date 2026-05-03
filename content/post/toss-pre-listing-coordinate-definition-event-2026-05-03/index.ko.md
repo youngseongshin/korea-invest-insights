@@ -31,7 +31,7 @@ tags:
 > - [1편 — 메리츠금융지주](/post/meritz-financial-capital-buyback-compounding-standard-2026-04-30/)
 > - [2편 — 키움증권](/post/kiwoom-securities-roe20-recognition-completed-2026-04-30/)
 > - [3편 — KB금융](/post/kb-financial-foreign-access-proxy-third-peak-2026-05-03/)
-> - [4편 — 신한금융: 고점 사이의 이행](/post/shinhan-financial-transit-between-peaks-2026-05-03/)
+> - [4편 — 신한지주: 고점 사이의 이행](/post/shinhan-financial-transit-between-peaks-2026-05-03/)
 > - [5편 — 한국금융지주: 다섯 번째 좌표](/post/korea-investment-holdings-fifth-coordinate-2026-05-03/)
 > - [6편 — 카카오뱅크: 한국금융지주의 거울](/post/kakaobank-mirror-of-korea-investment-2026-05-03/)
 
@@ -58,7 +58,7 @@ tags:
 | 편 | 회사 | 분석 차원 | 좌표 상태 | 톤 |
 | --- | --- | --- | --- | --- |
 | 1\~3편 | 메리츠 / 키움 / KB | 고점 지형 | 안착 | 우호적 |
-| 4편 | 신한금융 | 고점 사이의 이행 | 진행 중 | 우호적 |
+| 4편 | 신한지주 | 고점 사이의 이행 | 진행 중 | 우호적 |
 | 5편 | 한국금융지주 | 새 좌표 정의(보수적 끝점) | 회사가 시장을 끈다 | 우호적 |
 | 6편 | 카카오뱅크 | 새 좌표 정의(공격적 끝점) | 시장이 회사를 끈다 | 우호적 |
 | **7편(이 글)** | **비바리퍼블리카(토스)** | **좌표 정의 이벤트 그 자체** | **상장이 결정** | **중립** |
