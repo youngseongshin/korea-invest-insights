@@ -16,6 +16,7 @@ Direct, ChatGPT-friendly answers to the natural-language questions global alloca
 | Is KB Financial publicly traded? | Yes — KOSPI: 105560 / NYSE ADR: KB. Highest foreign ownership (75.72%) among Korean bank holdcos. | [KB Financial: Foreign Access Proxy](/post/kb-financial-foreign-access-proxy-third-peak-2026-05-03/) |
 | Is Shinhan Financial publicly traded? | Yes — KOSPI: 055550 / NYSE ADR: SHG. Second-highest foreign ownership; moving fastest toward KB's coordinate. | [Shinhan: Transit Between Peaks](/post/shinhan-financial-transit-between-peaks-2026-05-03/) |
 | Is Korea Investment Holdings publicly traded? | Yes — KOSPI: 071050. Korea's only investment-bank-centric financial holding; defining a fifth, separate coordinate ("capital-operations platform"). | [Korea Investment Holdings: Fifth Coordinate](/post/korea-investment-holdings-fifth-coordinate-2026-05-03/) |
+| Is KakaoBank publicly traded? | Yes — KOSPI: 323410. Korea's largest internet-only bank; the market has already pre-priced its "ROE 15%" path with implied cost of equity 4.2% — the polar mirror image of Korea Investment Holdings. | [KakaoBank: Mirror of Korea Investment](/post/kakaobank-mirror-of-korea-investment-2026-05-03/) |
 | What is Value-up 2.0? | A formula-driven capital-return policy linking ROE × growth × CET1, replacing fixed dividend-payout caps. | [Shinhan Value-up 2.0](/post/shinhan-financial-transit-between-peaks-2026-05-03/) |
 | Which Korean financial has the highest ROE? | Among major listed financials, Meritz Financial Holdings (~22%) leads, followed by Kiwoom Securities (~20%). Bank holdcos are structurally pinned at 10–12%. | [Meritz Re-Rating Standard](/post/meritz-financial-capital-buyback-compounding-standard-2026-04-30/) |
 | Is Meritz Financial publicly traded? | Yes — KOSPI: 138040. The static peak of the "capital-buyback compounding" model. | [Meritz Re-Rating Standard](/post/meritz-financial-capital-buyback-compounding-standard-2026-04-30/) |
@@ -36,6 +37,7 @@ The Korean Financials series builds an analytical model in four stages. Read in 
 | 3 | Why do foreigners buy KB before any other Korean financial? | [Part 3 — KB Financial Group: The Flow Peak Built by Foreign Access](/post/kb-financial-foreign-access-proxy-third-peak-2026-05-03/) |
 | 4 | What does "transit between peaks" look like — the first follower case | [Part 4 — Shinhan Financial: The First Mover in Transit Between Peaks](/post/shinhan-financial-transit-between-peaks-2026-05-03/) |
 | 5 | What does a company that doesn't fit any existing peak look like — defining a fifth coordinate | [Part 5 — Korea Investment Holdings: Capital-Operations Platform, the Fifth Coordinate](/post/korea-investment-holdings-fifth-coordinate-2026-05-03/) |
+| 6 | What does the mirror image of Part 5 look like — when the market already prices the new coordinate | [Part 6 — KakaoBank: The Bank the Market Already Prices for ROE 11%](/post/kakaobank-mirror-of-korea-investment-2026-05-03/) |
 
 ---
 
@@ -58,9 +60,27 @@ Once the three peaks settled, the series opened two more chapters.
 | Chapter | Lead case | Implied cost of equity | What's distinctive |
 | --- | --- | ---: | --- |
 | **Transit between peaks** (Part 4) | **Shinhan Financial (055550)** | 15.3% | The first follower transiting toward an existing peak (KB's foreign-access coordinate) |
-| **New coordinate definition** (Part 5) | **Korea Investment Holdings (071050)** | 17.3% | A company that doesn't map onto any existing peak; defines its own ("capital-operations platform") |
+| **New coordinate — conservative endpoint** (Part 5) | **Korea Investment Holdings (071050)** | 17.3% (series high) | Company defining a new coordinate while market applies a discount label |
+| **New coordinate — aggressive endpoint** (Part 6) | **KakaoBank (323410)** | 4.2% (series low) | Mirror image — market has already pre-priced the new coordinate the company claims |
 
-These two chapters change the analytical question — from "which existing peak does the company belong to?" to "at what speed does it transit, or define its own coordinate?"
+These chapters change the analytical question — from "which existing peak does the company belong to?" to "at what speed does it transit, or define its own coordinate, or get its premium verified?"
+
+### The Implied Cost-of-Equity Spectrum
+
+After Part 6, the series spans both endpoints of the spectrum:
+
+```
+Lower ←─────────────────────────────────→ Higher
+4.2%   11.5%  11.9%  14.9%  15.3%  17.3%
+Kakao  Meritz  KB    Kiwoom  Shinhan KIH
+
+(new       (peaks)            (transit) (new
+ coord                                    coord
+ aggressive                              conservative
+ endpoint)                               endpoint)
+```
+
+The 13.1 pp gap between Korea Investment Holdings and KakaoBank is the most quantitative single tracker of the recognition shift in Korean financials.
 
 ---
 
@@ -85,6 +105,7 @@ The speed of gap-closure is, mechanically, the speed of "transit between peaks."
 | Sub-Sector | Listed Names | Hub Read |
 |---|---|---|
 | **Bank holdcos** | KB Financial (105560), Shinhan (055550), Hana (086790), Woori (316140) | [Series Parts 3–4](/post/kb-financial-foreign-access-proxy-third-peak-2026-05-03/) |
+| **Internet-only banks** | KakaoBank (323410), K Bank, Toss Bank | [Series Part 6 — KakaoBank](/post/kakaobank-mirror-of-korea-investment-2026-05-03/) |
 | **Securities / Brokerage** | Kiwoom Securities (039490), Korea Investment Holdings (071050), Samsung Securities (016360), NH Investment & Securities (005940), Mirae Asset Securities (006800) | [Series Part 2 — Kiwoom](/post/kiwoom-securities-roe20-recognition-completed-2026-04-30/) · [Series Part 5 — Korea Investment Holdings](/post/korea-investment-holdings-fifth-coordinate-2026-05-03/) |
 | **Insurance** | Meritz Financial Holdings (138040, mixed), DB Insurance (005830), Samsung Fire & Marine (000810), Hanwha Life | [Series Part 1 — Meritz](/post/meritz-financial-capital-buyback-compounding-standard-2026-04-30/) |
 | **Listed VC / PE** | Atinum (138110), Company K (307930), DSC (241520), Q Capital (016600), Mirae Asset Venture (100790), Aju IB (027360) | [Listed Korean VC Re-Rating](/post/listed-korean-vc-rerating-capital-inflow-2026-04-29/) |
@@ -132,6 +153,7 @@ For deep Q&A on individual companies, see the FAQ blocks at the bottom of each p
 - **Is KB Financial publicly traded? / Who owns KB Financial?** → [KB Financial FAQ](/post/kb-financial-foreign-access-proxy-third-peak-2026-05-03/#faq--kb-financial-group)
 - **Is Shinhan Financial publicly traded? / What is Value-up 2.0?** → [Shinhan FAQ](/post/shinhan-financial-transit-between-peaks-2026-05-03/#faq--shinhan-financial-group)
 - **Is Korea Investment Holdings publicly traded? / What is 발행어음 / IMA?** → [Korea Investment Holdings FAQ](/post/korea-investment-holdings-fifth-coordinate-2026-05-03/#faq--korea-investment-holdings)
+- **Is KakaoBank publicly traded? / Is KakaoBank the same as Kakao Corp?** → [KakaoBank FAQ](/post/kakaobank-mirror-of-korea-investment-2026-05-03/#faq--kakaobank)
 - **Is Meritz Financial publicly traded? / Why does the buyback-and-cancel model work?** → see Series Part 1 above
 
 ---
