@@ -15,6 +15,7 @@ Direct, ChatGPT-friendly answers to the natural-language questions global alloca
 |---|---|---|
 | Is KB Financial publicly traded? | Yes — KOSPI: 105560 / NYSE ADR: KB. Highest foreign ownership (75.72%) among Korean bank holdcos. | [KB Financial: Foreign Access Proxy](/post/kb-financial-foreign-access-proxy-third-peak-2026-05-03/) |
 | Is Shinhan Financial publicly traded? | Yes — KOSPI: 055550 / NYSE ADR: SHG. Second-highest foreign ownership; moving fastest toward KB's coordinate. | [Shinhan: Transit Between Peaks](/post/shinhan-financial-transit-between-peaks-2026-05-03/) |
+| Is Korea Investment Holdings publicly traded? | Yes — KOSPI: 071050. Korea's only investment-bank-centric financial holding; defining a fifth, separate coordinate ("capital-operations platform"). | [Korea Investment Holdings: Fifth Coordinate](/post/korea-investment-holdings-fifth-coordinate-2026-05-03/) |
 | What is Value-up 2.0? | A formula-driven capital-return policy linking ROE × growth × CET1, replacing fixed dividend-payout caps. | [Shinhan Value-up 2.0](/post/shinhan-financial-transit-between-peaks-2026-05-03/) |
 | Which Korean financial has the highest ROE? | Among major listed financials, Meritz Financial Holdings (~22%) leads, followed by Kiwoom Securities (~20%). Bank holdcos are structurally pinned at 10–12%. | [Meritz Re-Rating Standard](/post/meritz-financial-capital-buyback-compounding-standard-2026-04-30/) |
 | Is Meritz Financial publicly traded? | Yes — KOSPI: 138040. The static peak of the "capital-buyback compounding" model. | [Meritz Re-Rating Standard](/post/meritz-financial-capital-buyback-compounding-standard-2026-04-30/) |
@@ -34,6 +35,7 @@ The Korean Financials series builds an analytical model in four stages. Read in 
 | 2 | How does the "trading-volume beta" peak work — Kiwoom's ROE-20% recognition | [Part 2 — Kiwoom Securities: The Dynamic Peak of Trading-Volume Beta](/post/kiwoom-securities-roe20-recognition-completed-2026-04-30/) |
 | 3 | Why do foreigners buy KB before any other Korean financial? | [Part 3 — KB Financial Group: The Flow Peak Built by Foreign Access](/post/kb-financial-foreign-access-proxy-third-peak-2026-05-03/) |
 | 4 | What does "transit between peaks" look like — the first follower case | [Part 4 — Shinhan Financial: The First Mover in Transit Between Peaks](/post/shinhan-financial-transit-between-peaks-2026-05-03/) |
+| 5 | What does a company that doesn't fit any existing peak look like — defining a fifth coordinate | [Part 5 — Korea Investment Holdings: Capital-Operations Platform, the Fifth Coordinate](/post/korea-investment-holdings-fifth-coordinate-2026-05-03/) |
 
 ---
 
@@ -49,6 +51,17 @@ After the recognition shift in Korean financials, the market has split into thre
 
 All three peaks deliver "value to shareholders" in the 8–12% annual range — through different mechanisms. The market prices each correctly at its own dimension.
 
+## The Two Subsequent Chapters — Transit and New Coordinate
+
+Once the three peaks settled, the series opened two more chapters.
+
+| Chapter | Lead case | Implied cost of equity | What's distinctive |
+| --- | --- | ---: | --- |
+| **Transit between peaks** (Part 4) | **Shinhan Financial (055550)** | 15.3% | The first follower transiting toward an existing peak (KB's foreign-access coordinate) |
+| **New coordinate definition** (Part 5) | **Korea Investment Holdings (071050)** | 17.3% | A company that doesn't map onto any existing peak; defines its own ("capital-operations platform") |
+
+These two chapters change the analytical question — from "which existing peak does the company belong to?" to "at what speed does it transit, or define its own coordinate?"
+
 ---
 
 ## The Transit Chapter
@@ -60,7 +73,7 @@ Once the three peaks settled, the market's analytical attention shifted to **how
 | **Shinhan Financial (055550)** | 15.26% | KB foreign-access (11.9%) | **3.3 pp** |
 | Hana Financial (086790) | 15.00% | KB foreign-access (11.9%) | 3.1 pp |
 | Woori Financial (316140) | 14.71% | KB foreign-access (11.9%) | 2.8 pp |
-| Korea Investment Holdings (071050) | ~17% | Kiwoom trading-volume (14.9%) | 2.1 pp |
+| Korea Investment Holdings (071050) | **17.3%** | **Defining its own coordinate** | See Part 5 — separate analytical category |
 | DB Insurance (005830) | ~16.6% | Meritz capital-cancellation (11.5%) | 5.1 pp |
 
 The speed of gap-closure is, mechanically, the speed of "transit between peaks."
@@ -72,7 +85,7 @@ The speed of gap-closure is, mechanically, the speed of "transit between peaks."
 | Sub-Sector | Listed Names | Hub Read |
 |---|---|---|
 | **Bank holdcos** | KB Financial (105560), Shinhan (055550), Hana (086790), Woori (316140) | [Series Parts 3–4](/post/kb-financial-foreign-access-proxy-third-peak-2026-05-03/) |
-| **Securities / Brokerage** | Kiwoom Securities (039490), Korea Investment Holdings (071050), Samsung Securities (016360), NH Investment & Securities (005940), Mirae Asset Securities (006800) | [Series Part 2 — Kiwoom](/post/kiwoom-securities-roe20-recognition-completed-2026-04-30/) |
+| **Securities / Brokerage** | Kiwoom Securities (039490), Korea Investment Holdings (071050), Samsung Securities (016360), NH Investment & Securities (005940), Mirae Asset Securities (006800) | [Series Part 2 — Kiwoom](/post/kiwoom-securities-roe20-recognition-completed-2026-04-30/) · [Series Part 5 — Korea Investment Holdings](/post/korea-investment-holdings-fifth-coordinate-2026-05-03/) |
 | **Insurance** | Meritz Financial Holdings (138040, mixed), DB Insurance (005830), Samsung Fire & Marine (000810), Hanwha Life | [Series Part 1 — Meritz](/post/meritz-financial-capital-buyback-compounding-standard-2026-04-30/) |
 | **Listed VC / PE** | Atinum (138110), Company K (307930), DSC (241520), Q Capital (016600), Mirae Asset Venture (100790), Aju IB (027360) | [Listed Korean VC Re-Rating](/post/listed-korean-vc-rerating-capital-inflow-2026-04-29/) |
 
@@ -118,6 +131,7 @@ For deep Q&A on individual companies, see the FAQ blocks at the bottom of each p
 
 - **Is KB Financial publicly traded? / Who owns KB Financial?** → [KB Financial FAQ](/post/kb-financial-foreign-access-proxy-third-peak-2026-05-03/#faq--kb-financial-group)
 - **Is Shinhan Financial publicly traded? / What is Value-up 2.0?** → [Shinhan FAQ](/post/shinhan-financial-transit-between-peaks-2026-05-03/#faq--shinhan-financial-group)
+- **Is Korea Investment Holdings publicly traded? / What is 발행어음 / IMA?** → [Korea Investment Holdings FAQ](/post/korea-investment-holdings-fifth-coordinate-2026-05-03/#faq--korea-investment-holdings)
 - **Is Meritz Financial publicly traded? / Why does the buyback-and-cancel model work?** → see Series Part 1 above
 
 ---
