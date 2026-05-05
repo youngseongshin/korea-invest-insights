@@ -18,6 +18,7 @@ AI substrates are not simply "the next theme after GPUs." They are a **common bo
 | Search Question | Quick Answer | Read |
 |---|---|---|
 | What is the AI PCB investment thesis? | Rack-scale AI systems add chips and boards together. Substrates are the common denominator across GPU, CPU, DPU, NIC and switch ASIC expansion. | [AI PCB and Substrate Thesis](/post/ai-pcb-thesis-system-bom-common-bottleneck-2026-05-05/) |
+| Which Korean AI PCB names should investors compare? | The ecosystem is broader than board manufacturers. Compare Samsung Electro-Mechanics, Daeduck, Isu Petasys, Simmtech and Korea Circuit with Doosan Electronic BG, Kolon Industries, Pamicell, TLB and Taesung. | [Korea AI PCB Ecosystem: 10 Companies](/post/korea-ai-pcb-ecosystem-ten-companies-2026-05-05/) |
 | Is Samsung Electro-Mechanics an AI substrate stock? | Samsung Electro-Mechanics combines FC-BGA and MLCC exposure, making it a premium Korean node in AI server substrates and power-stability components. | [Samsung Electro-Mechanics AI Infrastructure Re-Rating](/post/samsung-electro-mechanics-ai-infrastructure-rerating-2026-04-21/) |
 | Why is Pamicell connected to AI CCL? | Pamicell does not make PCBs. The thesis is upstream material exposure through low-dielectric materials tied to Doosan Electronic BG's high-end CCL cycle. | [Pamicell Part 1](/post/pamicell-doosan-electro-bg-proxy-rediscovery-2026-04-30/) |
 | Is Pamicell a one-quarter event or a cycle? | KRX reclassification, Doosan Electronic BG margins and CCL undersupply commentary extend the frame from one quarter to a 12-24 month industry cycle. | [Pamicell Part 2](/post/pamicell-four-layer-progress-and-fifth-cycle-layer-2026-05-03/) |
@@ -30,10 +31,11 @@ AI substrates are not simply "the next theme after GPUs." They are a **common bo
 | Step | Question | Read |
 |---:|---|---|
 | 1 | Why are AI substrates a common bottleneck rather than a late-cycle theme? | [AI PCB and Substrate Thesis](/post/ai-pcb-thesis-system-bom-common-bottleneck-2026-05-05/) |
-| 2 | Which large Korean name anchors FC-BGA and MLCC? | [Samsung Electro-Mechanics: Why the Stock Doubled in 90 Days](/post/samsung-electro-mechanics-ai-infrastructure-rerating-2026-04-21/) |
-| 3 | Why is Pamicell a Doosan Electronic BG CCL material proxy? | [Pamicell Analysis: AI CCL Materials Re-Rating](/post/pamicell-doosan-electro-bg-proxy-rediscovery-2026-04-30/) |
-| 4 | Has the Pamicell thesis moved into a 12-24 month cycle? | [Pamicell Part 2: AI CCL Materials and Industry Cycle](/post/pamicell-four-layer-progress-and-fifth-cycle-layer-2026-05-03/) |
-| 5 | How does Big Tech AI capex reach the Korean supply chain? | [Samsung Electronics vs Samsung Electro-Mechanics: Big Tech AI Capex Read-Through](/post/bigtech-1q26-samsung-electronics-vs-electro-mechanics-2026-04-30/) |
+| 2 | How should investors split the ten-company Korean AI PCB ecosystem? | [Korea AI PCB Ecosystem: 10 Companies](/post/korea-ai-pcb-ecosystem-ten-companies-2026-05-05/) |
+| 3 | Which large Korean name anchors FC-BGA and MLCC? | [Samsung Electro-Mechanics: Why the Stock Doubled in 90 Days](/post/samsung-electro-mechanics-ai-infrastructure-rerating-2026-04-21/) |
+| 4 | Why is Pamicell a Doosan Electronic BG CCL material proxy? | [Pamicell Analysis: AI CCL Materials Re-Rating](/post/pamicell-doosan-electro-bg-proxy-rediscovery-2026-04-30/) |
+| 5 | Has the Pamicell thesis moved into a 12-24 month cycle? | [Pamicell Part 2: AI CCL Materials and Industry Cycle](/post/pamicell-four-layer-progress-and-fifth-cycle-layer-2026-05-03/) |
+| 6 | How does Big Tech AI capex reach the Korean supply chain? | [Samsung Electronics vs Samsung Electro-Mechanics: Big Tech AI Capex Read-Through](/post/bigtech-1q26-samsung-electronics-vs-electro-mechanics-2026-04-30/) |
 
 ---
 

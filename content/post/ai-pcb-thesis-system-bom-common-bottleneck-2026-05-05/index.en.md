@@ -24,9 +24,9 @@ tags:
 series: ["ai-pcb-substrate-thesis-2026"]
 ---
 
-> **Sector map:** This is the upper-layer AI PCB and substrate thesis behind the Pamicell work. Read it together with the [AI PCB hub](/page/korea-ai-pcb-substrate-hub/), [Pamicell Part 1](/post/pamicell-doosan-electro-bg-proxy-rediscovery-2026-04-30/), [Pamicell Part 2](/post/pamicell-four-layer-progress-and-fifth-cycle-layer-2026-05-03/), and the earlier [Samsung Electro-Mechanics AI infrastructure re-rating note](/post/samsung-electro-mechanics-ai-infrastructure-rerating-2026-04-21/).
+> **Sector map:** This is the upper-layer AI PCB and substrate thesis behind the Pamicell work. The company comparison continues in [Korea AI PCB Ecosystem: 10 Companies](/post/korea-ai-pcb-ecosystem-ten-companies-2026-05-05/), and the full reading path sits in the [AI PCB hub](/page/korea-ai-pcb-substrate-hub/). Read it together with [Pamicell Part 1](/post/pamicell-doosan-electro-bg-proxy-rediscovery-2026-04-30/), [Pamicell Part 2](/post/pamicell-four-layer-progress-and-fifth-cycle-layer-2026-05-03/), and the [Samsung Electro-Mechanics AI infrastructure re-rating note](/post/samsung-electro-mechanics-ai-infrastructure-rerating-2026-04-21/).
 
-The previous company-level work asked a narrower question: which Korean names have the best position in AI PCB, FC-BGA and low-loss material supply? This note moves one level up. It asks why capital should enter the whole ecosystem in the first place.
+The company-level question is narrower: which Korean names have the best position in AI PCB, FC-BGA and low-loss material supply? This note moves one level up. It asks why capital should enter the whole ecosystem in the first place.
 
 The answer is not "substrates are the next theme after GPUs." That is too linear. AI infrastructure is no longer a GPU card. It is a rack-scale system. A modern AI rack has GPUs, CPUs, DPUs, NICs, switch ASICs, memory modules, power delivery, cooling control and high-speed boards. Each layer adds silicon. Each piece of silicon needs a package substrate, a module board, a motherboard, a switch board or a low-loss material stack.
 
