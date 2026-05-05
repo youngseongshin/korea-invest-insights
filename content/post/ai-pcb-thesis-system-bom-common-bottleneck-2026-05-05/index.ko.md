@@ -1,5 +1,5 @@
 ---
-title: "AI PCB·기판 투자 논거: GPU, CPU, NIC, CCL 수요는 하나의 시스템 병목"
+title: "AI 기판·PCB 투자 논거: GPU·CPU·NIC·CCL 수요가 함께 늘어나는 이유"
 slug: ai-pcb-thesis-system-bom-common-bottleneck-2026-05-05
 date: 2026-05-05T23:15:00+09:00
 description: "시장은 AI 하드웨어를 GPU → 메모리 → 기판 순서로 본다. 틀린 말은 아니지만, 절반만 맞다. AI 인프라는 이미 GPU·CPU·DPU·NIC·스위치 ASIC·메모리 모듈·전원 보드·저손실 CCL로 이뤄진 랙 단위 시스템이다. 칩이 늘어날 때마다 보드가 필요하다. 이 글은 삼성전기, 대덕전자, 두산 전자BG, 코오롱인더스트리, 파미셀을 같은 시스템 병목에 연결하는 섹터 투자 논거를 정리한다."
@@ -24,7 +24,7 @@ tags:
 series: ["ai-pcb-substrate-thesis-2026"]
 ---
 
-> **섹터 지도:** 이 글은 파미셀 분석의 상위 레이어에 해당하는 AI PCB·기판 투자 논거다. [AI PCB 허브](/page/korea-ai-pcb-substrate-hub/), [파미셀 1편](/post/pamicell-doosan-electro-bg-proxy-rediscovery-2026-04-30/), [파미셀 2편](/post/pamicell-four-layer-progress-and-fifth-cycle-layer-2026-05-03/), [삼성전기 AI 인프라 재평가 노트](/post/samsung-electro-mechanics-ai-infrastructure-rerating-2026-04-21/)와 함께 읽으면 좋다.
+> **섹터 지도:** 이 글은 파미셀 분석의 상위 레이어에 해당하는 AI 기판·PCB 투자 논거다. [AI 기판·PCB 허브](/ko/page/korea-ai-pcb-substrate-hub/), [파미셀 1편](/ko/post/pamicell-doosan-electro-bg-proxy-rediscovery-2026-04-30/), [파미셀 2편](/ko/post/pamicell-four-layer-progress-and-fifth-cycle-layer-2026-05-03/), [삼성전기 AI 인프라 재평가 노트](/ko/post/samsung-electro-mechanics-ai-infrastructure-rerating-2026-04-21/)와 함께 읽으면 좋다.
 
 이전 개별 기업 분석은 좁은 질문에서 출발했다. 한국 기업 중 AI PCB, FC-BGA, 저손실 소재 공급에서 가장 유리한 곳이 어디냐는 것이었다. 이 글은 한 단계 위로 올라간다. 왜 이 생태계 전체에 자금이 들어와야 하는지를 묻는다.
 
