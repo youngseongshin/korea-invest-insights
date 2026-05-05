@@ -21,6 +21,8 @@ tags:
 draft: false
 ---
 
+> **AI 기판 지도:** 삼성전기는 [AI 기판·PCB 허브](/ko/page/korea-ai-pcb-substrate-hub/)의 프리미엄 앵커다. FC-BGA·MLCC 논거를 더 넓은 시스템 병목 관점에서 보려면 [AI PCB와 기판 thesis](/ko/post/ai-pcb-thesis-system-bom-common-bottleneck-2026-05-05/)를 함께 읽으면 된다.
+
 > **90일 더블은 테마 장세가 아니었다. 가격 결정권 이전, 고객 믹스 변곡, 차세대 옵션 확보 — 세 가지 구조적 변화가 동시에 확정됐다. 그것이 리레이팅의 본질이다.**
 
 ---

@@ -52,6 +52,7 @@ description: "삼성전자, SK하이닉스, HBM, AI 메모리, 코스피 지수 
 
 ### AI 하드웨어 공급망
 
+- [AI 기판·PCB 허브: FC-BGA, CCL, 삼성전기, 대덕전자, 파미셀](/ko/page/korea-ai-pcb-substrate-hub/)
 - [삼성전자 vs 삼성전기: 빅테크 AI 투자 재가속의 한국 공급망 시사점](/ko/post/bigtech-1q26-samsung-electronics-vs-electro-mechanics-2026-04-30/)
 - [삼성전기 AI 인프라 리레이팅](/ko/post/samsung-electro-mechanics-ai-infrastructure-rerating-2026-04-21/)
 - [오픈엣지테크놀로지: 한국의 메모리 서브시스템 IP 플랫폼](/ko/post/semiscope-openedges-technology-ip-platform-2026-04-25/)

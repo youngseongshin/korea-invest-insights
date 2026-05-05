@@ -52,6 +52,7 @@ Korean semiconductor exposure is not one trade. It combines **SK Hynix's HBM lea
 
 ### AI Hardware Supply Chain
 
+- [AI PCB and Substrate Hub: FC-BGA, CCL, Samsung Electro-Mechanics, Daeduck, Pamicell](/page/korea-ai-pcb-substrate-hub/)
 - [Samsung Electronics vs Samsung Electro-Mechanics: Korean Supply-Chain Read-Through from Big Tech AI Capex](/post/bigtech-1q26-samsung-electronics-vs-electro-mechanics-2026-04-30/)
 - [Samsung Electro-Mechanics AI Infrastructure Re-Rating](/post/samsung-electro-mechanics-ai-infrastructure-rerating-2026-04-21/)
 - [Openedges Technology: Korea's Memory Subsystem IP Platform](/post/semiscope-openedges-technology-ip-platform-2026-04-25/)

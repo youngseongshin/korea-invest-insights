@@ -70,6 +70,7 @@ description: "한국 주식시장 일일 업데이트 허브 — KOSPI / KOSDAQ 
 |---|---|
 | 펄어비스 / 크림슨 데저트 (게임 섹터 대장주) | [펄어비스 허브](/ko/page/pearl-abyss-crimson-desert-hub/) |
 | 삼성전자 + SK하이닉스 + HBM | [한국 반도체 / HBM / KOSPI 허브](/ko/page/korea-semiconductor-hbm-kospi-hub/) |
+| AI 기판 / FC-BGA / CCL | [AI 기판·PCB 허브](/ko/page/korea-ai-pcb-substrate-hub/) |
 | 올리브영 + 파마리서치 + K-뷰티 | [K-뷰티 허브](/ko/page/k-beauty-olive-young-pharmaresearch-hub/) |
 | 한국 AI / Sovereign AI | [한국 AI 기업 허브](/ko/page/korean-ai-companies-hub/) |
 | 반도체 장비, IP, 파운드리 | [한국 반도체 장비·IP 허브](/ko/page/korea-semiconductor-equipment-ip-hub/) |

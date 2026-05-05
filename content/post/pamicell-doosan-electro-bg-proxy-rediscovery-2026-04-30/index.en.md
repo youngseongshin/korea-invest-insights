@@ -23,6 +23,8 @@ draft: false
 
 > 📚 **Series 1/N: Pamicell as a Doosan Electronic BG Proxy.** Future notes will track 1Q26 earnings, follow-on Doosan supply contracts, and the ramp path for the third Ulsan plant.
 
+> **Upper-sector map:** The Pamicell thesis belongs to the low-dielectric materials layer of the [AI PCB and Substrate Hub](/page/korea-ai-pcb-substrate-hub/) and the [AI PCB system-bottleneck thesis](/post/ai-pcb-thesis-system-bom-common-bottleneck-2026-05-05/). It should be read together with Samsung Electro-Mechanics, Daeduck Electronics, Doosan Electronic BG and Kolon Industries.
+
 *This note follows three discoveries. First, which stock produced the strongest April foreign-plus-institutional accumulation signal when adjusted for market cap? Second, does the actual business mix match the market's old label for the company? Third, if the market starts changing the label, what happens to the valuation framework?*
 
 ---

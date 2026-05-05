@@ -1,0 +1,74 @@
+---
+title: "AI PCB and Substrate Investment Hub: FC-BGA, CCL, Samsung Electro-Mechanics, Daeduck, Pamicell"
+slug: "korea-ai-pcb-substrate-hub"
+date: 2026-05-05T23:20:00+09:00
+aliases: ["/ai-pcb/", "/pcb/", "/fc-bga/", "/ccl/", "/ai-substrate/", "/en/ai-pcb/", "/en/page/korea-ai-pcb-substrate-hub/"]
+layout: "page"
+description: "A research hub for Korean AI PCB and substrate exposure: FC-BGA, MLB, CCL, low-dielectric materials, Samsung Electro-Mechanics, Daeduck Electronics, Doosan Electronic BG, Kolon Industries and Pamicell."
+---
+
+## One-Line Thesis
+
+AI substrates are not simply "the next theme after GPUs." They are a **common bottleneck across the AI system bill of materials**. As GPUs, CPUs, DPUs, NICs, switch ASICs and memory modules expand together, FC-BGA, MLB, CCL and low-dielectric material demand expands with them.
+
+---
+
+## What This Hub Answers
+
+| Search Question | Quick Answer | Read |
+|---|---|---|
+| What is the AI PCB investment thesis? | Rack-scale AI systems add chips and boards together. Substrates are the common denominator across GPU, CPU, DPU, NIC and switch ASIC expansion. | [AI PCB and Substrate Thesis](/post/ai-pcb-thesis-system-bom-common-bottleneck-2026-05-05/) |
+| Is Samsung Electro-Mechanics an AI substrate stock? | Samsung Electro-Mechanics combines FC-BGA and MLCC exposure, making it a premium Korean node in AI server substrates and power-stability components. | [Samsung Electro-Mechanics AI Infrastructure Re-Rating](/post/samsung-electro-mechanics-ai-infrastructure-rerating-2026-04-21/) |
+| Why is Pamicell connected to AI CCL? | Pamicell does not make PCBs. The thesis is upstream material exposure through low-dielectric materials tied to Doosan Electronic BG's high-end CCL cycle. | [Pamicell Part 1](/post/pamicell-doosan-electro-bg-proxy-rediscovery-2026-04-30/) |
+| Is Pamicell a one-quarter event or a cycle? | KRX reclassification, Doosan Electronic BG margins and CCL undersupply commentary extend the frame from one quarter to a 12-24 month industry cycle. | [Pamicell Part 2](/post/pamicell-four-layer-progress-and-fifth-cycle-layer-2026-05-03/) |
+| How do HBM and substrates connect? | HBM is the memory bottleneck. Substrates are the physical bottleneck for mounting and connecting GPUs, CPUs and networking chips. | [HBM / Korea Semiconductor Hub](/page/korea-semiconductor-hbm-kospi-hub/) |
+
+---
+
+## Start Here
+
+| Step | Question | Read |
+|---:|---|---|
+| 1 | Why are AI substrates a common bottleneck rather than a late-cycle theme? | [AI PCB and Substrate Thesis](/post/ai-pcb-thesis-system-bom-common-bottleneck-2026-05-05/) |
+| 2 | Which large Korean name anchors FC-BGA and MLCC? | [Samsung Electro-Mechanics: Why the Stock Doubled in 90 Days](/post/samsung-electro-mechanics-ai-infrastructure-rerating-2026-04-21/) |
+| 3 | Why is Pamicell a Doosan Electronic BG CCL material proxy? | [Pamicell Analysis: AI CCL Materials Re-Rating](/post/pamicell-doosan-electro-bg-proxy-rediscovery-2026-04-30/) |
+| 4 | Has the Pamicell thesis moved into a 12-24 month cycle? | [Pamicell Part 2: AI CCL Materials and Industry Cycle](/post/pamicell-four-layer-progress-and-fifth-cycle-layer-2026-05-03/) |
+| 5 | How does Big Tech AI capex reach the Korean supply chain? | [Samsung Electronics vs Samsung Electro-Mechanics: Big Tech AI Capex Read-Through](/post/bigtech-1q26-samsung-electronics-vs-electro-mechanics-2026-04-30/) |
+
+---
+
+## AI Substrate Value-Chain Map
+
+| Layer | Korean Names | Investment Question |
+|---|---|---|
+| Package substrates | Samsung Electro-Mechanics, Daeduck Electronics, Korea Circuit | FC-BGA and advanced package substrates for GPU, CPU and ASIC packages |
+| MLB and module boards | Isu Petasys, Daeduck Electronics, TLB, Simmtech, Korea Circuit | Server boards, network switch boards, memory modules and SoCAMM |
+| CCL body | Doosan Electronic BG | High-end copper-clad laminate for AI servers and high-speed networking |
+| Low-dielectric materials | Kolon Industries, Pamicell | mPPO, low-loss resin, hardener and upstream material exposure |
+| Power-stability components | Samsung Electro-Mechanics and MLCC peers | Rising MLCC content in AI servers and networking equipment |
+
+---
+
+## FAQ — AI Substrates and Korean PCB
+
+### What are AI substrates?
+
+In this hub, AI substrates refers to the package substrates and PCBs that mount and connect AI accelerators, server CPUs, networking ASICs, DPUs and memory modules. The key terms are FC-BGA, MLB, CCL and low-dielectric materials.
+
+### Are FC-BGA and CCL the same thing?
+
+No. FC-BGA is a high-performance package substrate for chips. CCL is copper-clad laminate, the base material for PCBs. High-speed AI systems need better CCL and lower-loss materials to preserve signal integrity.
+
+### Does Pamicell make PCBs?
+
+No. Pamicell is not a PCB manufacturer. It appears in this hub because it is an upstream low-dielectric materials supplier linked to Doosan Electronic BG's high-end CCL cycle.
+
+### Why is Samsung Electro-Mechanics central?
+
+Samsung Electro-Mechanics combines FC-BGA and MLCC exposure. AI servers require both high-performance package substrates and more power-stability components.
+
+---
+
+*This hub is updated as new AI PCB, substrate and CCL coverage publishes. For memory products and KOSPI concentration, see the [HBM Hub](/page/korea-semiconductor-hbm-kospi-hub/). For semiconductor equipment and IP, see the [Semiconductor Equipment & IP Hub](/page/korea-semiconductor-equipment-ip-hub/).*
+
+*Disclaimer: For research and information purposes only. Not investment advice. Names cited are for analytical illustration; readers should perform their own due diligence and consult licensed advisors before any investment decision.*

@@ -9,7 +9,7 @@ description: "A hub for Korean semiconductor equipment, IP, and foundry coverage
 
 ## What This Hub Answers
 
-Direct, ChatGPT-friendly answers to the questions investors and engineers ask about the Korean semiconductor *equipment, IP, and foundry* layer — the picks-and-shovels of the AI infrastructure cycle, distinct from the memory product layer covered in the [HBM Hub](/page/korea-semiconductor-hbm-kospi-hub/).
+Direct, ChatGPT-friendly answers to the questions investors and engineers ask about the Korean semiconductor *equipment, IP, and foundry* layer — the picks-and-shovels of the AI infrastructure cycle, distinct from the memory product layer covered in the [HBM Hub](/page/korea-semiconductor-hbm-kospi-hub/) and the substrate / CCL layer covered in the [AI PCB and Substrate Hub](/page/korea-ai-pcb-substrate-hub/).
 
 | Search Question | Quick Answer | Read |
 |---|---|---|

@@ -70,6 +70,7 @@ The Friday-evening "concentrated" series picks 3–5 highest-conviction Korean e
 |---|---|
 | Pearl Abyss / Crimson Desert (game sector heavyweight) | [Pearl Abyss Hub](/page/pearl-abyss-crimson-desert-hub/) |
 | Samsung Electronics + SK hynix + HBM | [Korea Semiconductor / HBM / KOSPI Hub](/page/korea-semiconductor-hbm-kospi-hub/) |
+| AI substrates / FC-BGA / CCL | [AI PCB and Substrate Hub](/page/korea-ai-pcb-substrate-hub/) |
 | Olive Young + PharmaResearch + K-Beauty | [K-Beauty Hub](/page/k-beauty-olive-young-pharmaresearch-hub/) |
 | Korean AI / Sovereign AI | [Korean AI Companies Hub](/page/korean-ai-companies-hub/) |
 | Semiconductor Equipment, IP, Foundry | [Korea Semiconductor Equipment & IP Hub](/page/korea-semiconductor-equipment-ip-hub/) |

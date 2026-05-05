@@ -22,6 +22,8 @@ tags:
 draft: false
 ---
 
+> **AI substrate map:** Samsung Electro-Mechanics is the premium anchor inside the [AI PCB and Substrate Hub](/page/korea-ai-pcb-substrate-hub/). For the broader system-bottleneck framing behind FC-BGA and MLCC, read the [AI PCB and Substrate Thesis](/post/ai-pcb-thesis-system-bom-common-bottleneck-2026-05-05/).
+
 > **The 90-day double wasn't theme-driven. Three structural shifts locked in simultaneously — pricing power transfer, customer-mix inflection, and a secured next-gen option. That's what got re-rated.**
 
 ---
