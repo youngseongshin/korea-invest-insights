@@ -33,7 +33,7 @@ series: ["korea-stocks-foreign-investor-guide"]
 2. **La historia más importante no es la acción de un solo broker.** Samsung Securities y Hana Securities importan como infraestructura de acceso, pero el cambio estructural es que Corea puede convertirse en un mercado de selección individual de valores para inversores minoristas extranjeros, en lugar de un mercado al que se accede principalmente a través de ETFs, ADRs y canales institucionales.
 3. **La primera capa de demanda estará impulsada por búsquedas.** Consultas como "acciones coreanas en IBKR", "cómo comprar acciones coreanas", "KOSPI vs KOSDAQ", "Samsung Electronics vs SK Hynix", "acción de Pearl Abyss", "acciones coreanas de IA" y "mejores acciones coreanas para comprar" tendrán relevancia antes de que los flujos se reflejen con claridad en los datos de volumen.
 4. **Los primeros grupos de contenido invertibles ya son visibles.** Memoria HBM e IA, sustratos de IA y CCL, financieras coreanas bajo Value-Up, Pearl Abyss / Crimson Desert y K-beauty son los temas que los inversores minoristas globales pueden comprender con mayor rapidez.
-5. **Nuestra respuesta es una arquitectura de descubrimiento.** Korea Invest Insights está construyendo el hub prioritario en inglés, páginas de preguntas frecuentes con respuestas directas, enlaces internos, publicaciones con fuentes verificadas y seguimiento multilingüe necesarios para captar esta nueva demanda de búsqueda internacional.
+5. **Para el lector, la respuesta práctica es un filtro, no una señal de compra.** Un acceso más fácil sirve para construir una lista de seguimiento por temas: primero estructura de mercado, luego HBM, sustratos de IA, financieras, videojuegos y K-beauty, siempre verificando disponibilidad del broker y liquidez antes de cualquier decisión.
 
 ---
 
@@ -172,65 +172,39 @@ Ahí está la oportunidad.
 
 ---
 
-## 6. Nuestra respuesta como blog
+## 6. Mapa práctico de lectura para inversores extranjeros
 
-Korea Invest Insights debe tratar esto como un canal de adquisición, no solo como una noticia.
+La pregunta útil para el lector no es "qué titular de broker parece más emocionante". Es cómo convertir un acceso más fácil en un proceso disciplinado de investigación sobre Corea.
 
-### 6.1 Construir la entrada para el inversor extranjero
+### 6.1 Empezar por el acceso, pero separar negociabilidad y tesis
 
-El nuevo [hub de acciones coreanas para inversores extranjeros](/es/page/korea-stocks-foreign-investors-hub/) es la página de tope de embudo. Su función es responder las preguntas naturales antes de que el lector conozca nuestras categorías internas:
+Primero hay que confirmar si el broker permite operar en KRX según país de residencia, tipo de cuenta y universo de productos. El acceso directo a acciones coreanas no significa que todos los valores de KOSPI y KOSDAQ estén disponibles, sean líquidos o encajen en cualquier cuenta.
 
-- ¿Pueden los extranjeros comprar acciones coreanas a través de IBKR?
-- ¿Qué es KOSPI?
-- ¿Qué es KOSDAQ?
-- ¿Qué acciones coreanas de IA debería conocer primero?
-- ¿Pearl Abyss cotiza en bolsa?
-- ¿Qué financieras coreanas se benefician de Value-Up?
-- ¿Qué valores coreanos de K-beauty son públicos?
+Después hay que separar la pregunta de cuenta de la pregunta de inversión. "¿Puedo comprarlo?" es solo la primera puerta. Las preguntas más difíciles son liquidez, calidad de disclosure, límites de propiedad extranjera, impuestos, divisa y si la tesis puede verificarse con filings, no solo con titulares.
 
-### 6.2 Hacer que cada hub responda una consulta de búsqueda
+### 6.2 Bajar de estructura de mercado a temas y luego a acciones
 
-Cada hub debe contener lenguaje de preguntas frecuentes con respuestas directas, no solo ensayos de inversión. El objetivo es AEO tanto como SEO: ChatGPT, Perplexity, Google AI Overviews, búsqueda de Naver y fragmentos de búsqueda ordinarios necesitan respuestas cortas, atribuibles y estructuradas.
+La forma más limpia de estudiar Corea desde el exterior es pasar de estructura de mercado a temas, y de ahí a compañías concretas.
 
-La arquitectura interna debe verse así:
+| Paso | Pregunta | Qué comprobar |
+|---:|---|---|
+| 1 | ¿Cómo funciona la estructura del mercado? | KOSPI, KOSDAQ, liquidación KRX, límites de propiedad extranjera |
+| 2 | ¿Cuáles son los anclajes líquidos del índice? | Samsung Electronics, SK Hynix, Hyundai Motor, grandes financieras |
+| 3 | ¿Qué temas globales se traducen bien en Corea? | HBM, sustratos de IA, IP de videojuegos, K-beauty, financieras Value-Up |
+| 4 | ¿Dónde es mayor la brecha de información? | Especialistas de KOSDAQ, proveedores de hardware IA, materiales |
+| 5 | ¿Qué hay que verificar antes de operar? | Disponibilidad del broker, liquidez, filings, FX, impuestos, tamaño de posición |
 
-```
-Hub IBKR / Acceso Extranjero
-   -> Hub de Mercado Diario de Corea
-   -> Hub Samsung / SK Hynix / HBM
-   -> Hub de PCB y Sustratos de IA
-   -> Hub de Financieras Coreanas
-   -> Hub de Pearl Abyss
-   -> Hub de K-Beauty
-```
+### 6.3 Usar la noticia de acceso como punto de partida de investigación
 
-### 6.3 Promover con ángulos específicos por consulta
+La noticia de acceso es más útil como disparador para ordenar la investigación que como señal de compra.
 
-El mismo artículo no debe promoverse con un único titular genérico. Necesita múltiples ángulos de entrada:
+- El [hub de acciones coreanas para inversores extranjeros](/es/page/korea-stocks-foreign-investors-hub/) ayuda a empezar por estructura de mercado y acceso.
+- El [Korea Daily Market Hub](/es/page/korea-daily-market-hub/) sirve para entender la cinta diaria, los flujos extranjeros y la rotación sectorial.
+- El [hub Samsung / SK Hynix / HBM](/es/page/korea-semiconductor-hbm-kospi-hub/) cubre la capa large-cap de memoria IA.
+- El [hub AI PCB and Substrate](/es/page/korea-ai-pcb-substrate-hub/) cubre la cadena de hardware IA de segundo orden.
+- El [hub de financieras coreanas](/es/page/korean-financials-hub/), el [hub Pearl Abyss](/es/page/pearl-abyss-crimson-desert-hub/) y el [hub K-Beauty](/es/page/k-beauty-olive-young-pharmaresearch-hub/) ayudan a comparar temas fáciles de entender para lectores extranjeros.
 
-| Canal | Ángulo |
-|---|---|
-| Substack | "Corea se está volviendo buscable para los inversores minoristas extranjeros" |
-| Telegram | "Acceso IBKR / Futu: qué cambia en el descubrimiento de renta variable coreana" |
-| X / Notes | "Corea puede estar pasando de mercado solo-ETF a mercado de selección de valores para inversores extranjeros" |
-| Google / IndexNow | URLs del hub y del artículo enviadas de inmediato |
-| Enlaces internos | Añadir el hub a las páginas de Inicio, Mercado Diario, Financieras, HBM y PCB de IA |
-
-### 6.4 Monitorear las métricas correctas
-
-Esto es medible. La lista de seguimiento es sencilla:
-
-- impresiones para "acciones coreanas IBKR"
-- impresiones para "cómo comprar acciones coreanas"
-- impresiones para "KOSPI vs KOSDAQ"
-- cuota de tráfico extranjero desde EE. UU., Singapur, Hong Kong, Japón y Vietnam
-- clics hacia los hubs de PCB de IA, HBM, Pearl Abyss y K-beauty
-- tráfico de referencia de Substack de vuelta al sitio
-- tasa de clics en Telegram sobre titulares en inglés
-
-Si esos indicadores se mueven, la tesis está funcionando antes de que se refleje en clics directos de búsqueda.
-
----
+El punto no es perseguir todas las historias que ahora parecen más accesibles. El punto es construir el mapa de investigación antes de que liquidez y titulares lleguen al mismo tiempo.
 
 ## 7. Riesgos y limitaciones
 
@@ -254,7 +228,7 @@ La historia de acceso de IBKR / Futu a Corea es fácil de subestimar como un tit
 
 Las acciones coreanas son cada vez más accesibles desde interfaces de brokers extranjeros. Eso hace que Corea sea más buscable. Una vez que un mercado se vuelve buscable, el cuello de botella se desplaza del acceso a cuentas a la calidad de la explicación.
 
-Ahí es donde Korea Invest Insights puede competir. No gritando "compra Corea", sino construyendo el mapa: KOSPI, KOSDAQ, Samsung Electronics, SK Hynix, HBM, sustratos de IA, Pearl Abyss, financieras coreanas, K-beauty y el tape del mercado diario.
+Para el lector, la disciplina consiste en usar el nuevo canal de acceso como punto de partida, no como conclusión. La secuencia correcta es comprobar acceso, dibujar el mapa de mercado, filtrar por tema, hacer due diligence por compañía y solo después decidir tamaño de posición.
 
 La infraestructura de acceso se está abriendo. La próxima carrera es la capa de descubrimiento.
 
