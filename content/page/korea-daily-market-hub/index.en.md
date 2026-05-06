@@ -18,6 +18,7 @@ Direct, search-engine-friendly answers to the questions global investors ask abo
 | Are foreigners buying or selling Korean stocks? | Daily wraps include the foreigner / institutional / individual net-flow split for KOSPI and KOSDAQ. | [Recent Foreign Flow Analysis](/post/kr-kr-close-briefing-2026-04-27/) |
 | What is KOSPI? | The Korea Composite Stock Price Index — the main large-cap index of the Korea Exchange (similar role to the S&P 500). Top weights: Samsung Electronics, SK hynix, LG Energy Solution, Hyundai Motor, Samsung Biologics. | [Samsung Electronics Weight in KOSPI](/post/samsung-electronics-weight-in-kospi-index-2026/) |
 | What is KOSDAQ? | The Korean small-and-mid-cap exchange — analogous to the Nasdaq for smaller, often technology- and growth-oriented Korean listings. | [KOSDAQ Coverage Gaps Analysis](/post/kosdaq-coverage-gaps-variant-perception-2026-04-23/) |
+| Can foreigners buy Korean stocks through IBKR or other global brokers? | Korea's omnibus-account reforms and new broker partnerships are opening a path from overseas brokerage accounts to KRX-listed stocks. Availability still depends on broker, country and product coverage. | [Foreign Investor Korea Stocks Hub](/page/korea-stocks-foreign-investors-hub/) |
 | Is the Korean market outperforming in 2026? | KOSPI and KOSDAQ both showed structural re-rating tailwinds in early 2026 — Value-Up reform, foreign rotation, and the AI infrastructure cycle. | [Korea Outperformance 2026](/post/korea-outperformance-2026-structural-rerating-2026-04-24/) |
 
 ---
@@ -69,6 +70,7 @@ The Friday-evening "concentrated" series picks 3–5 highest-conviction Korean e
 | Theme | Direct Answer Link |
 |---|---|
 | Pearl Abyss / Crimson Desert (game sector heavyweight) | [Pearl Abyss Hub](/page/pearl-abyss-crimson-desert-hub/) |
+| Foreign investor access / IBKR / KRX basics | [Korea Stocks for Foreign Investors Hub](/page/korea-stocks-foreign-investors-hub/) |
 | Samsung Electronics + SK hynix + HBM | [Korea Semiconductor / HBM / KOSPI Hub](/page/korea-semiconductor-hbm-kospi-hub/) |
 | AI substrates / FC-BGA / CCL | [AI PCB and Substrate Hub](/page/korea-ai-pcb-substrate-hub/) |
 | Olive Young + PharmaResearch + K-Beauty | [K-Beauty Hub](/page/k-beauty-olive-young-pharmaresearch-hub/) |

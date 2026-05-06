@@ -16,6 +16,12 @@ The goal is simple: turn local Korean market information into usable investment 
 
 ## Best Places To Start
 
+### 0. Foreign Investor Entrance
+
+- [Korea Stocks for Foreign Investors: IBKR, KOSPI, KOSDAQ and Sector Research Hub](/page/korea-stocks-foreign-investors-hub/)
+- [IBKR Korea Stocks: Why Foreign Retail Access Could Reprice KOSPI and KOSDAQ Discovery](/post/ibkr-korea-stocks-foreign-retail-access-2026-05-07/)
+- [Korea Daily Market Hub: KOSPI, KOSDAQ and Daily Wraps](/page/korea-daily-market-hub/)
+
 ### 1. Korea Market Re-Rating
 
 - [Korea 2026: Why KOSPI +49% YTD Is a Re-Rating, Not a Rally](/post/korea-outperformance-2026-structural-rerating-2026-04-24/)

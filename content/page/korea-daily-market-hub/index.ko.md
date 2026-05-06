@@ -18,6 +18,7 @@ description: "한국 주식시장 일일 업데이트 허브 — KOSPI / KOSDAQ 
 | 외국인이 한국 주식을 사고 있나요, 팔고 있나요? | 일일 브리핑에 KOSPI / KOSDAQ 외국인·기관·개인 순매수 분해가 포함됩니다. | [최근 외국인 수급 분석](/ko/post/kr-kr-close-briefing-2026-04-27/) |
 | KOSPI는 무엇인가요? | 한국 종합주가지수 — 한국거래소의 대형주 메인 지수(미국의 S&P 500과 유사한 역할). 시총 상위: 삼성전자, SK하이닉스, LG에너지솔루션, 현대차, 삼성바이오로직스. | [삼성전자 KOSPI 비중](/ko/post/samsung-electronics-weight-in-kospi-index-2026/) |
 | KOSDAQ은 무엇인가요? | 한국 중소형주 거래소 — 미국 나스닥에 비유되는 기술·성장 중심 거래소. | [KOSDAQ 커버리지 갭 분석](/ko/post/kosdaq-coverage-gaps-variant-perception-2026-04-23/) |
+| 해외 투자자가 IBKR 같은 글로벌 증권사로 한국 주식을 살 수 있나요? | 옴니버스 계좌 제도 개선과 해외 증권사 제휴로 KRX 상장주 접근 경로가 열리고 있다. 다만 실제 이용 가능 여부는 증권사, 거주 국가, 거래 가능 종목에 따라 달라진다. | [해외 투자자용 한국 주식 허브](/ko/page/korea-stocks-foreign-investors-hub/) |
 | 2026년 한국 시장은 글로벌 대비 강한가요? | 2026년 초 KOSPI / KOSDAQ 모두 구조적 재평가 흐름. Value-Up, 외국인 로테이션, AI 인프라 사이클이 3대 동력. | [한국 시장 2026 아웃퍼포먼스](/ko/post/korea-outperformance-2026-structural-rerating-2026-04-24/) |
 
 ---
@@ -69,6 +70,7 @@ description: "한국 주식시장 일일 업데이트 허브 — KOSPI / KOSDAQ 
 | 테마 | 직답 링크 |
 |---|---|
 | 펄어비스 / 크림슨 데저트 (게임 섹터 대장주) | [펄어비스 허브](/ko/page/pearl-abyss-crimson-desert-hub/) |
+| 해외 투자자 접근 / IBKR / KRX 기본 지도 | [해외 투자자용 한국 주식 허브](/ko/page/korea-stocks-foreign-investors-hub/) |
 | 삼성전자 + SK하이닉스 + HBM | [한국 반도체 / HBM / KOSPI 허브](/ko/page/korea-semiconductor-hbm-kospi-hub/) |
 | AI 기판 / FC-BGA / CCL | [AI 기판·PCB 허브](/ko/page/korea-ai-pcb-substrate-hub/) |
 | 올리브영 + 파마리서치 + K-뷰티 | [K-뷰티 허브](/ko/page/k-beauty-olive-young-pharmaresearch-hub/) |

@@ -20,7 +20,17 @@ Korean semiconductor exposure is not one trade. It combines **SK Hynix's HBM lea
 | What is SK Hynix's HBM market share? | A practical 2026 baseline is roughly 50% of total HBM revenue/share, with potentially higher exposure in Nvidia's HBM4 ramp if allocation reports hold. | [SK Hynix HBM Market Share 2026](/post/sk-hynix-hbm-market-share-ai-memory-demand-2026/) |
 | How large is Samsung Electronics in KOSPI? | For Korea ETF investors, Samsung Electronics is not just one holding. In major Korea index products, its weight typically sits in the low-20s to low-30s percentage range. | [Samsung Electronics Weight in KOSPI](/post/samsung-electronics-weight-in-kospi-index-2026/) |
 | Samsung or SK Hynix: which is cleaner HBM exposure? | SK Hynix is the cleaner public HBM exposure. Samsung is a broader semiconductor and electronics compounder with HBM recovery, DDR5/eSSD, foundry and device exposure. | [SK Hynix Deep Dive](/post/kr-deep-dive-sk-hynix-2026-04-16/) · [Samsung Electronics Deep Dive](/post/kr-deep-dive-samsung-electronics-2026-04-16/) |
+| How can foreign investors access Korean AI memory stocks? | Start with the access map, then move from KOSPI heavyweights into HBM, equipment and substrate names. Broker availability depends on country and account type. | [Korea Stocks for Foreign Investors Hub](/page/korea-stocks-foreign-investors-hub/) |
 | Why is KOSPI being re-rated in 2026? | HBM earnings, governance reform and global allocation away from crowded US exposure are working together to compress Korea's discount. | [Korea 2026 Re-Rating](/post/korea-outperformance-2026-structural-rerating-2026-04-24/) |
+| Why did Samsung jump +14.4% and SK Hynix +10.6% on May 6? | ₩3.1T foreign net buying on Samsung in a single session, re-pricing "AI memory bottleneck at NVIDIA / TSMC discount." Spread to AI substrate (Daeduck +9.62%, Simmtech +6.35%) and front-end equipment (Wonik IPS, Eugene Tech, KC Tech). | [Korean Semis Rally May 6: Samsung + SK Hynix + Substrate + Equipment](/post/korean-semis-rally-may-6-samsung-sk-hynix-substrate-equipment-2026-05-07/) |
+
+---
+
+## Latest Sector Updates
+
+| Date | Topic | Read |
+|---|---|---|
+| 2026-05-07 | May 6 rally — Samsung +14.4% / SK Hynix +10.6%, ₩3.1T foreign buying, two-stage spread to substrate + equipment | [Korean Semis Rally May 6](/post/korean-semis-rally-may-6-samsung-sk-hynix-substrate-equipment-2026-05-07/) |
 
 ---
 

@@ -22,6 +22,7 @@ AI substrates are not simply "the next theme after GPUs." They are a **common bo
 | Is Samsung Electro-Mechanics an AI substrate stock? | Samsung Electro-Mechanics combines FC-BGA and MLCC exposure, making it a premium Korean node in AI server substrates and power-stability components. | [Samsung Electro-Mechanics AI Infrastructure Re-Rating](/post/samsung-electro-mechanics-ai-infrastructure-rerating-2026-04-21/) |
 | Why is Pamicell connected to AI CCL? | Pamicell does not make PCBs. The thesis is upstream material exposure through low-dielectric materials tied to Doosan Electronic BG's high-end CCL cycle. | [Pamicell Part 1](/post/pamicell-doosan-electro-bg-proxy-rediscovery-2026-04-30/) |
 | Is Pamicell a one-quarter event or a cycle? | KRX reclassification, Doosan Electronic BG margins and CCL undersupply commentary extend the frame from one quarter to a 12-24 month industry cycle. | [Pamicell Part 2](/post/pamicell-four-layer-progress-and-fifth-cycle-layer-2026-05-03/) |
+| How would overseas retail investors discover Korean AI substrate stocks? | Easier IBKR / foreign-broker access can turn AI substrates from a local supply-chain theme into a searchable global small-mid-cap cluster. | [Foreign Investor Korea Stocks Hub](/page/korea-stocks-foreign-investors-hub/) |
 | How do HBM and substrates connect? | HBM is the memory bottleneck. Substrates are the physical bottleneck for mounting and connecting GPUs, CPUs and networking chips. | [HBM / Korea Semiconductor Hub](/page/korea-semiconductor-hbm-kospi-hub/) |
 
 ---

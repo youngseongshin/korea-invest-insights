@@ -18,9 +18,19 @@ description: "삼성전자, SK하이닉스, HBM, AI 메모리, 코스피 지수 
 | 검색 질문 | 현재 답변 | 자세히 보기 |
 |---|---|---|
 | SK하이닉스 HBM 시장점유율은 어느 정도인가 | 2026년 전체 HBM 매출·점유율 기준으로는 약 50% 안팎이 실용적 기준이며, 엔비디아 HBM4 램프업에서는 더 높은 점유율 가능성이 있다. | [SK하이닉스 HBM 시장점유율 2026](/ko/post/sk-hynix-hbm-market-share-ai-memory-demand-2026/) |
-| 삼성전자 코스피 비중은 얼마나 큰가 | 한국 ETF 투자자 기준 삼성전자는 단일 종목이 아니라 지수 자체를 좌우하는 핵심 익스포저다. 주요 한국 지수 상품에서 대략 20% 초반\~30% 초반 비중으로 나타난다. | [삼성전자 코스피 비중](/ko/post/samsung-electronics-weight-in-kospi-index-2026/) |
+| 삼성전자 코스피 비중은 얼마나 큰가 | 한국 ETF 투자자 기준 삼성전자는 단일 종목이 아니라 지수 자체를 좌우하는 핵심 익스포저다. 주요 한국 지수 상품에서 대략 20% 초반에서 30% 초반 비중으로 나타난다. | [삼성전자 코스피 비중](/ko/post/samsung-electronics-weight-in-kospi-index-2026/) |
 | 삼성전자와 SK하이닉스 중 HBM 순수 노출은 어디가 강한가 | 순수 HBM 노출은 SK하이닉스가 더 명확하다. 삼성전자는 HBM 회복, DDR5/eSSD, 파운드리 옵션, 스마트폰·세트 사업까지 포함한 복합 반도체·전자 대형주다. | [SK하이닉스 딥다이브](/ko/post/kr-deep-dive-sk-hynix-2026-04-16/) · [삼성전자 딥다이브](/ko/post/kr-deep-dive-samsung-electronics-2026-04-16/) |
+| 해외 투자자는 한국 AI 메모리 주식에 어떻게 접근하나요 | 먼저 해외 투자자 접근 지도를 확인하고, KOSPI 대형주에서 HBM·장비·기판 종목으로 확장하는 순서가 좋다. 실제 매매 가능 여부는 국가와 계좌 유형에 따라 다르다. | [해외 투자자용 한국 주식 허브](/ko/page/korea-stocks-foreign-investors-hub/) |
 | KOSPI 2026 리레이팅의 핵심 동력은 무엇인가 | HBM 슈퍼사이클, 지배구조 개혁, Sell America 로테이션이 동시에 작동하면서 한국 시장의 할인율이 낮아지는 구조다. | [2026년 한국 리레이팅](/ko/post/korea-outperformance-2026-structural-rerating-2026-04-24/) |
+| 5월 6일 삼성전자 +14.4%, SK하이닉스 +10.6% 급등 이유는? | 외국인 단일 세션 ₩3.1조 삼성전자 순매수가 'AI 메모리 병목을 NVIDIA / TSMC 할인 가격에 사는' 거래를 재가격화. 그 다음 AI 기판(대덕전자 +9.62%, 심텍 +6.35%)과 전공정 장비(원익IPS, 유진테크, 케이씨텍)로 확산. | [한국 반도체 5월 6일 랠리: 삼성전자·SK하이닉스·기판·장비](/ko/post/korean-semis-rally-may-6-samsung-sk-hynix-substrate-equipment-2026-05-07/) |
+
+---
+
+## 최신 섹터 업데이트
+
+| 날짜 | 주제 | 자세히 보기 |
+|---|---|---|
+| 2026-05-07 | 5월 6일 랠리 — 삼성전자 +14.4% / SK하이닉스 +10.6%, 외국인 ₩3.1조 매수, 기판·장비로 2단 확산 | [한국 반도체 5월 6일 랠리](/ko/post/korean-semis-rally-may-6-samsung-sk-hynix-substrate-equipment-2026-05-07/) |
 
 ---
 
