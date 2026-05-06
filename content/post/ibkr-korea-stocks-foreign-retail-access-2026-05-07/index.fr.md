@@ -23,7 +23,7 @@ tags:
 series: ["korea-stocks-foreign-investor-guide"]
 ---
 
-> **Réaction à l'actualité et feuille de route.** Cet article est lié au nouveau [hub Korea Stocks for Foreign Investors](/page/korea-stocks-foreign-investors-hub/), qui centralise les ressources sur l'accès de type IBKR, le KOSPI, le KOSDAQ, la HBM, les substrats IA, les valeurs financières coréennes, Pearl Abyss et le K-beauty pour les lecteurs étrangers.
+> **Réaction à l'actualité et feuille de route.** Cet article est lié au nouveau [hub Korea Stocks for Foreign Investors](/fr/page/korea-stocks-foreign-investors-hub/), qui centralise les ressources sur l'accès de type IBKR, le KOSPI, le KOSDAQ, la HBM, les substrats IA, les valeurs financières coréennes, Pearl Abyss et le K-beauty pour les lecteurs étrangers.
 
 ---
 
@@ -86,7 +86,7 @@ Le premier cluster étranger est évident : Samsung Electronics et SK Hynix. Ils
 
 Pour un investisseur étranger, Samsung Electronics n'est pas simplement « la plus grande entreprise de Corée ». C'est une combinaison de DRAM, NAND, reprise HBM, optionalité fonderie, smartphones, affichage et pondération indicielle. SK Hynix offre une exposition HBM plus pure et est le pont coréen le plus direct avec la demande de mémoire IA liée à Nvidia.
 
-C'est pourquoi nous avons créé le [hub Samsung Electronics, SK Hynix, HBM et KOSPI](/page/korea-semiconductor-hbm-kospi-hub/). L'objectif n'est pas d'imposer une réponse unique. Il s'agit d'expliquer la carte des facteurs : concentration indicielle, part de marché HBM, demande en mémoire IA, reprise fonderie et réévaluation du KOSPI.
+C'est pourquoi nous avons créé le [hub Samsung Electronics, SK Hynix, HBM et KOSPI](/fr/page/korea-semiconductor-hbm-kospi-hub/). L'objectif n'est pas d'imposer une réponse unique. Il s'agit d'expliquer la carte des facteurs : concentration indicielle, part de marché HBM, demande en mémoire IA, reprise fonderie et réévaluation du KOSPI.
 
 ### 3.2 Substrats IA, FC-BGA et CCL
 
@@ -94,7 +94,7 @@ La deuxième couche est moins évidente mais plus intéressante : le matériel I
 
 Si les investisseurs étrangers apprennent que l'IA ne se limite pas aux GPU mais comprend aussi les CPU, les NIC, les DPU, les ASIC de commutation, les modules mémoire, le FC-BGA, le MLB et le CCL, alors les valeurs coréennes de substrats et de matériaux deviennent un cluster de recherche naturel de second ordre. Samsung Electro-Mechanics, Daeduck Electronics, Doosan Electronic BG, Kolon Industries et Pamicell s'inscrivent dans cette logique.
 
-Ce n'est pas une histoire abstraite de « petites capitalisations coréennes ». C'est une histoire de goulot d'étranglement physique. Les systèmes IA à l'échelle d'un rack nécessitent davantage de puces, et ces puces ont besoin de substrats plus avancés et de matériaux à faibles pertes. C'est la logique derrière notre [hub IA PCB et Substrats](/page/korea-ai-pcb-substrate-hub/).
+Ce n'est pas une histoire abstraite de « petites capitalisations coréennes ». C'est une histoire de goulot d'étranglement physique. Les systèmes IA à l'échelle d'un rack nécessitent davantage de puces, et ces puces ont besoin de substrats plus avancés et de matériaux à faibles pertes. C'est la logique derrière notre [hub IA PCB et Substrats](/fr/page/korea-ai-pcb-substrate-hub/).
 
 ### 3.3 Les valeurs financières coréennes et le canal d'accès
 
@@ -111,7 +111,7 @@ Mais le bon prisme n'est pas « acheter chaque courtier ». C'est l'analyse par 
 | Retour de capital Value-Up | KB Financial, Shinhan Financial, Hana Financial, Meritz Financial | Rachat et annulation, politique de dividende, marge CET1 |
 | Plateforme banque d'investissement | Korea Investment Holdings | Rotation du capital, IMA, mix courtage et gestion d'actifs |
 
-Le [hub Valeurs financières coréennes](/page/korean-financials-hub/) doit désormais être lu non seulement comme une carte Value-Up, mais aussi comme une carte de l'accès étranger.
+Le [hub Valeurs financières coréennes](/fr/page/korean-financials-hub/) doit désormais être lu non seulement comme une carte Value-Up, mais aussi comme une carte de l'accès étranger.
 
 ### 3.4 Pearl Abyss, Krafton et l'IP du jeu vidéo coréen
 
@@ -119,13 +119,13 @@ Les investisseurs particuliers étrangers comprennent le jeu vidéo. Ils ne maî
 
 C'est pourquoi Pearl Abyss peut devenir un cas de recherche naturel à l'étranger. Un investisseur mondial cherchant Crimson Desert peut finir par se demander si Pearl Abyss est coté en bourse, où il se négocie et quelle est la thèse d'investissement. Krafton joue un rôle similaire via PUBG et inZOI.
 
-Le [hub Pearl Abyss / Crimson Desert](/page/pearl-abyss-crimson-desert-hub/) existe précisément pour cette raison : il transforme une question sur un IP mondial en un chemin de recherche sur une action coréenne cotée.
+Le [hub Pearl Abyss / Crimson Desert](/fr/page/pearl-abyss-crimson-desert-hub/) existe précisément pour cette raison : il transforme une question sur un IP mondial en un chemin de recherche sur une action coréenne cotée.
 
 ### 3.5 K-beauty et esthétique médicale
 
 Le K-beauty est un autre thème accessible aux particuliers du monde entier. Les lecteurs étrangers peuvent connaître Olive Young, Rejuran, la PDRN, les skin boosters, l'esthétique médicale ou les cosmétiques coréens avant même de connaître le KOSPI et le KOSDAQ.
 
-Cela crée un entonnoir différent. Le lecteur peut commencer par « Olive Young est-elle cotée en bourse ? » et découvrir ensuite que PharmaResearch, Classys, Hugel et APR sont des pistes cotées pour explorer le volet marché public de la beauté et de l'esthétique coréennes. Le [hub K-Beauty](/page/k-beauty-olive-young-pharmaresearch-hub/) est construit autour de ce chemin de découverte.
+Cela crée un entonnoir différent. Le lecteur peut commencer par « Olive Young est-elle cotée en bourse ? » et découvrir ensuite que PharmaResearch, Classys, Hugel et APR sont des pistes cotées pour explorer le volet marché public de la beauté et de l'esthétique coréennes. Le [hub K-Beauty](/fr/page/k-beauty-olive-young-pharmaresearch-hub/) est construit autour de ce chemin de découverte.
 
 ---
 
@@ -178,7 +178,7 @@ Korea Invest Insights doit traiter cela comme un canal d'acquisition, pas simple
 
 ### 6.1 Construire l'entrée pour l'investisseur étranger
 
-Le nouveau [hub Korea Stocks for Foreign Investors](/page/korea-stocks-foreign-investors-hub/) est la page d'entrée de l'entonnoir. Son rôle est de répondre aux questions naturelles avant que le lecteur ne connaisse nos catégories internes :
+Le nouveau [hub Korea Stocks for Foreign Investors](/fr/page/korea-stocks-foreign-investors-hub/) est la page d'entrée de l'entonnoir. Son rôle est de répondre aux questions naturelles avant que le lecteur ne connaisse nos catégories internes :
 
 - Les étrangers peuvent-ils acheter des actions coréennes via IBKR ?
 - Qu'est-ce que le KOSPI ?
