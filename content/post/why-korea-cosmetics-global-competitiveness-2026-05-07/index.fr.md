@@ -1,5 +1,5 @@
 ---
-title: "Why Korea — Partie 2 : Comment les cosmétiques coréens sont devenus l'une des trois premières industries exportatrices mondiales, sans le luxe à la française"
+title: "Why Korea, Partie 2 : Comment les cosmétiques coréens sont devenus l'une des trois premières industries exportatrices mondiales, sans le luxe à la française"
 slug: why-korea-cosmetics-global-competitiveness-2026-05-07
 date: 2026-05-07T23:05:00+09:00
 description: "La Corée a exporté pour USD 11,43 milliards de cosmétiques en 2025, un record historique. Elle figure désormais parmi les trois premiers exportateurs mondiaux de cosmétiques, et selon les classifications, dispute à l'Amérique la deuxième place derrière la France. Pourtant, la Corée ne possède ni L'Oréal ni Estée Lauder. Son avantage repose sur un écosystème d'expérimentation rapide : fabricants ODM, consommateurs exigeants, Olive Young, contenus coréens, distribution numérique et culture skincare."
@@ -7,7 +7,7 @@ categories: ["Why-Korea"]
 tags: ["Why Korea", "cosmétiques coréens", "K-beauty", "soins de la peau", "Olive Young", "ODM", "Kolmar Korea", "Cosmax", "APR", "Medicube", "appareils de beauté", "vague coréenne", "actions coréennes"]
 ---
 
-> **Série Why Korea, Partie 2.** La Partie 1 s'interrogeait sur [les raisons qui expliquent la concentration de fabricants de substrats semi-conducteurs en Corée](/post/why-korea-semiconductor-substrate-competitive-edge-2026-05-07/). Cette note pose la même question dans la grande consommation : pourquoi la Corée a-t-elle vu émerger simultanément des marques beauté à portée mondiale, des fabricants ODM, une plateforme retail dominante et des acteurs d'appareils de beauté ? À lire en parallèle avec le [hub Olive Young, PharmaResearch et K-Beauty](/page/k-beauty-olive-young-pharmaresearch-hub/), l'[analyse APR / Medicube](/post/apr-medicube-age-r-deep-dive-valuation-2026/) et le [guide investisseur sur Olive Young via CJ Corp](/post/olive-young-publicly-traded-cj-corp-korea-beauty-exposure-2026-04-27/).
+> **Série Why Korea, Partie 2.** La Partie 1 s'interrogeait sur [les raisons qui expliquent la concentration de fabricants de substrats semi-conducteurs en Corée](/fr/post/why-korea-semiconductor-substrate-competitive-edge-2026-05-07/). Cette note pose la même question dans la grande consommation : pourquoi la Corée a-t-elle vu émerger simultanément des marques beauté à portée mondiale, des fabricants ODM, une plateforme retail dominante et des acteurs d'appareils de beauté ? À lire en parallèle avec le [hub Olive Young, PharmaResearch et K-Beauty](/page/k-beauty-olive-young-pharmaresearch-hub/), l'[analyse APR / Medicube](/fr/post/apr-medicube-age-r-deep-dive-valuation-2026/) et le [guide investisseur sur Olive Young via CJ Corp](/fr/post/olive-young-publicly-traded-cj-corp-korea-beauty-exposure-2026-04-27/).
 
 La Corée a exporté pour USD 11,43 milliards de cosmétiques en 2025. Un record absolu. Le pays est désormais régulièrement cité aux côtés de la France et des États-Unis parmi les trois premiers exportateurs mondiaux, et selon les classifications retenues, il dispute au marché américain la deuxième place derrière la France.
 
@@ -100,7 +100,7 @@ C'est l'une des raisons pour lesquelles les soins coréens voyagent bien à l'in
 
 ## 4. Deuxième raison : l'ODM a abaissé la barrière à l'entrée pour créer une marque
 
-Le moteur discret de la K-beauty, c'est la fabrication en sous-traitance — l'ODM en particulier. Kolmar Korea et Cosmax en sont les exemples les plus connus.
+Le moteur discret de la K-beauty, c'est la fabrication en sous-traitance, l'ODM en particulier. Kolmar Korea et Cosmax en sont les exemples les plus connus.
 
 Avant le modèle ODM, créer une marque cosmétique nécessitait des laboratoires, des usines, un contrôle qualité, un approvisionnement en ingrédients, des tests de stabilité et une documentation réglementaire. Ce contexte favorisait les grandes entreprises.
 
