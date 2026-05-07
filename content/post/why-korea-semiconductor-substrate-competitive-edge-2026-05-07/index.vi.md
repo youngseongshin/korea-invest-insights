@@ -7,7 +7,7 @@ categories: ["Why-Korea"]
 tags: ["Tại sao Hàn Quốc", "đế chip bán dẫn", "FC-BGA", "ABF", "hạ tầng AI", "sản xuất Hàn Quốc", "vật liệu Nhật Bản", "xưởng đúc Đài Loan", "cổ phiếu Hàn Quốc", "PCB AI"]
 ---
 
-> **Chuỗi bài Tại Sao Hàn Quốc, Phần 1.** Đây là tầng chiến lược phía sau [Trung Tâm PCB và Đế Chip AI của Hàn Quốc](/page/korea-ai-pcb-substrate-hub/). Hãy đọc cùng với [Luận Điểm AI PCB và Đế Chip](/post/ai-pcb-thesis-system-bom-common-bottleneck-2026-05-05/), [Hệ Sinh Thái AI PCB Hàn Quốc: 10 Công Ty](/post/korea-ai-pcb-ecosystem-ten-companies-2026-05-05/), và [Samsung Electro-Mechanics: Định Giá Lại Trong Hạ Tầng AI](/post/samsung-electro-mechanics-ai-infrastructure-rerating-2026-04-21/).
+> **Chuỗi bài Tại Sao Hàn Quốc, Phần 1.** Đây là tầng chiến lược phía sau [Trung Tâm PCB và Đế Chip AI của Hàn Quốc](/vi/page/korea-ai-pcb-substrate-hub/). Hãy đọc cùng với [Luận Điểm AI PCB và Đế Chip](/vi/post/ai-pcb-thesis-system-bom-common-bottleneck-2026-05-05/), [Hệ Sinh Thái AI PCB Hàn Quốc: 10 Công Ty](/vi/post/korea-ai-pcb-ecosystem-ten-companies-2026-05-05/), và [Samsung Electro-Mechanics: Định Giá Lại Trong Hạ Tầng AI](/vi/post/samsung-electro-mechanics-ai-infrastructure-rerating-2026-04-21/).
 
 Có một câu hỏi nằm sâu bên dưới toàn bộ chủ đề đế chip AI Hàn Quốc mà đáng được dành riêng một bài để phân tích: **tại sao Hàn Quốc lại có nhiều công ty đế chip và PCB liền kề được niêm yết đến vậy?**
 
@@ -230,7 +230,7 @@ Câu trả lời tạo ra một bản đồ cổ phiếu tốt hơn:
 | MLB cao cấp | Isu Petasys | Tiếp xúc bo mạch mạng / máy chủ |
 | CCL và vật liệu | Doosan Electronic BG, Kolon Industries, Pamicell | Tiếp xúc nút thắt cổ chai thượng nguồn và vật liệu tổn hao thấp |
 
-[Luận Điểm AI PCB và Đế Chip](/post/ai-pcb-thesis-system-bom-common-bottleneck-2026-05-05/) giải thích tại sao đế chip là nút thắt cổ chai hệ thống. [Bài phân tích 10 công ty](/post/korea-ai-pcb-ecosystem-ten-companies-2026-05-05/) so sánh các tên Hàn Quốc niêm yết. Bài Tại Sao Hàn Quốc này bổ sung nền tảng lịch sử: Hàn Quốc có những công ty này vì các vòng lặp khách hàng, sản xuất và học hỏi quy trình đã tích lũy ở đó.
+[Luận Điểm AI PCB và Đế Chip](/vi/post/ai-pcb-thesis-system-bom-common-bottleneck-2026-05-05/) giải thích tại sao đế chip là nút thắt cổ chai hệ thống. [Bài phân tích 10 công ty](/vi/post/korea-ai-pcb-ecosystem-ten-companies-2026-05-05/) so sánh các tên Hàn Quốc niêm yết. Bài Tại Sao Hàn Quốc này bổ sung nền tảng lịch sử: Hàn Quốc có những công ty này vì các vòng lặp khách hàng, sản xuất và học hỏi quy trình đã tích lũy ở đó.
 
 Điều đó không loại bỏ rủi ro định giá. Nó chỉ giải thích tại sao cụm này là thật.
 

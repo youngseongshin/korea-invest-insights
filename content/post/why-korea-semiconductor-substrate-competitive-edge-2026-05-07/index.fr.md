@@ -7,7 +7,7 @@ categories: ["Why-Korea"]
 tags: ["Pourquoi la Corée", "substrats pour semiconducteurs", "FC-BGA", "ABF", "infrastructure IA", "industrie coréenne", "matériaux japonais", "fonderie taïwanaise", "actions coréennes", "PCB IA"]
 ---
 
-> **Série Pourquoi la Corée, partie 1.** Voici la couche stratégique qui sous-tend le [Hub PCB et substrats IA](/page/korea-ai-pcb-substrate-hub/). À lire en parallèle avec [La thèse PCB et substrats IA](/post/ai-pcb-thesis-system-bom-common-bottleneck-2026-05-05/), [L'écosystème PCB IA coréen : 10 entreprises](/post/korea-ai-pcb-ecosystem-ten-companies-2026-05-05/) et [Samsung Electro-Mechanics : réévaluation infrastructure IA](/post/samsung-electro-mechanics-ai-infrastructure-rerating-2026-04-21/).
+> **Série Pourquoi la Corée, partie 1.** Voici la couche stratégique qui sous-tend le [Hub PCB et substrats IA](/fr/page/korea-ai-pcb-substrate-hub/). À lire en parallèle avec [La thèse PCB et substrats IA](/fr/post/ai-pcb-thesis-system-bom-common-bottleneck-2026-05-05/), [L'écosystème PCB IA coréen : 10 entreprises](/fr/post/korea-ai-pcb-ecosystem-ten-companies-2026-05-05/) et [Samsung Electro-Mechanics : réévaluation infrastructure IA](/fr/post/samsung-electro-mechanics-ai-infrastructure-rerating-2026-04-21/).
 
 Une question de fond traverse toute notre analyse des substrats IA coréens et mérite sa propre note : **pourquoi la Corée compte-t-elle autant d'entreprises cotées dans les substrats et le PCB au départ ?**
 
@@ -231,7 +231,7 @@ La réponse permet de construire une meilleure carte des actions :
 | MLB haut de gamme | Isu Petasys | Exposition cartes réseau / serveur |
 | CCL et matériaux | Doosan Electronic BG, Kolon Industries, Pamicell | Goulot d'étranglement amont et exposition matériaux à faibles pertes |
 
-La [thèse PCB et substrats IA](/post/ai-pcb-thesis-system-bom-common-bottleneck-2026-05-05/) explique pourquoi les substrats sont un goulot d'étranglement du système. La [note sur l'écosystème des 10 entreprises](/post/korea-ai-pcb-ecosystem-ten-companies-2026-05-05/) compare les noms coréens cotés. Cette note Pourquoi la Corée ajoute la base historique : la Corée a ces entreprises parce que les boucles clients, fabrication et apprentissage des procédés s'y sont accumulées.
+La [thèse PCB et substrats IA](/fr/post/ai-pcb-thesis-system-bom-common-bottleneck-2026-05-05/) explique pourquoi les substrats sont un goulot d'étranglement du système. La [note sur l'écosystème des 10 entreprises](/fr/post/korea-ai-pcb-ecosystem-ten-companies-2026-05-05/) compare les noms coréens cotés. Cette note Pourquoi la Corée ajoute la base historique : la Corée a ces entreprises parce que les boucles clients, fabrication et apprentissage des procédés s'y sont accumulées.
 
 Cela n'élimine pas le risque de valorisation. Cela explique simplement pourquoi le cluster est réel.
 

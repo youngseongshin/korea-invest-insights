@@ -7,7 +7,7 @@ categories: ["Why-Korea"]
 tags: ["Por qué Corea", "sustratos para semiconductores", "FC-BGA", "ABF", "infraestructura de IA", "manufactura coreana", "materiales japoneses", "fundición taiwanesa", "acciones coreanas", "PCB de IA"]
 ---
 
-> **Serie Por Qué Corea, Parte 1.** Esta es la capa estratégica detrás del [Hub de PCB y Sustratos para IA de Corea](/page/korea-ai-pcb-substrate-hub/). Léalo junto con [Tesis de PCB y Sustratos para IA](/post/ai-pcb-thesis-system-bom-common-bottleneck-2026-05-05/), [Ecosistema de PCB para IA en Corea: 10 Empresas](/post/korea-ai-pcb-ecosystem-ten-companies-2026-05-05/) y [Samsung Electro-Mechanics: Re-valoración en Infraestructura de IA](/post/samsung-electro-mechanics-ai-infrastructure-rerating-2026-04-21/).
+> **Serie Por Qué Corea, Parte 1.** Esta es la capa estratégica detrás del [Hub de PCB y Sustratos para IA de Corea](/es/page/korea-ai-pcb-substrate-hub/). Léalo junto con [Tesis de PCB y Sustratos para IA](/es/post/ai-pcb-thesis-system-bom-common-bottleneck-2026-05-05/), [Ecosistema de PCB para IA en Corea: 10 Empresas](/es/post/korea-ai-pcb-ecosystem-ten-companies-2026-05-05/) y [Samsung Electro-Mechanics: Re-valoración en Infraestructura de IA](/es/post/samsung-electro-mechanics-ai-infrastructure-rerating-2026-04-21/).
 
 Hay una pregunta latente en el trabajo de sustratos de IA coreanos que merece su propio análisis: **¿por qué Corea tiene tantas empresas cotizadas de sustratos y PCB adyacentes en primer lugar?**
 
@@ -230,7 +230,7 @@ La respuesta genera un mapa de acciones más útil:
 | MLB de alto rendimiento | Isu Petasys | Exposición a placas de red / servidor |
 | CCL y materiales | Doosan Electronic BG, Kolon Industries, Pamicell | Cuello de botella aguas arriba y exposición a materiales de baja pérdida |
 
-La [Tesis de PCB y Sustratos para IA](/post/ai-pcb-thesis-system-bom-common-bottleneck-2026-05-05/) explica por qué los sustratos son un cuello de botella sistémico. La [nota del ecosistema de 10 empresas](/post/korea-ai-pcb-ecosystem-ten-companies-2026-05-05/) compara los nombres coreanos cotizados. Esta nota de Por Qué Corea añade la base histórica: Corea tiene las empresas porque los ciclos de clientes, manufactura y aprendizaje de proceso se acumularon allí.
+La [Tesis de PCB y Sustratos para IA](/es/post/ai-pcb-thesis-system-bom-common-bottleneck-2026-05-05/) explica por qué los sustratos son un cuello de botella sistémico. La [nota del ecosistema de 10 empresas](/es/post/korea-ai-pcb-ecosystem-ten-companies-2026-05-05/) compara los nombres coreanos cotizados. Esta nota de Por Qué Corea añade la base histórica: Corea tiene las empresas porque los ciclos de clientes, manufactura y aprendizaje de proceso se acumularon allí.
 
 Eso no elimina el riesgo de valoración. Solo explica por qué el clúster es real.
 
