@@ -23,6 +23,7 @@ Foreign access to Korean equities is becoming less of a brokerage problem and mo
 | What is KOSDAQ? | Korea's growth and small-mid-cap market. It is where many biotech, game, AI software, semiconductor equipment and niche industrial names trade. | [KOSDAQ Coverage Gaps](/post/kosdaq-coverage-gaps-variant-perception-2026-04-23/) |
 | Which Korean AI stocks should a foreign investor study first? | Start with Samsung Electronics, SK Hynix and the HBM chain, then move into AI substrates, CCL, FC-BGA and low-dielectric materials. | [Samsung / SK Hynix / HBM Hub](/page/korea-semiconductor-hbm-kospi-hub/) |
 | Which Korean small-cap AI hardware names matter? | The AI substrate ecosystem includes Samsung Electro-Mechanics, Daeduck Electronics, Doosan Electronic BG, Kolon Industries and Pamicell. | [AI PCB and Substrate Hub](/page/korea-ai-pcb-substrate-hub/) |
+| Why do Korean AI substrate stocks matter to global investors? | Korea's substrate cluster is not just a theme. It reflects three decades of manufacturing, customer certification and yield learning. That structure is the base layer behind the stock map. | [Why Korea Part 1: Semiconductor Substrates](/post/why-korea-semiconductor-substrate-competitive-edge-2026-05-07/) |
 | What are the Korean gaming names global investors search for? | Pearl Abyss is the main Crimson Desert / Black Desert case; Krafton is the PUBG and inZOI large-cap case. | [Pearl Abyss Hub](/page/pearl-abyss-crimson-desert-hub/) |
 | Which Korean financial stocks benefit from Value-Up and foreign access? | KB, Shinhan, Hana, Meritz, Kiwoom, Korea Investment Holdings and brokerages sit at the intersection of capital return, liquidity and foreign access. | [Korean Financials Hub](/page/korean-financials-hub/) |
 | Which Korean K-beauty stocks are investable? | PharmaResearch is the listed Rejuran / PDRN compounding case; Olive Young is private but creates a category map for public alternatives. | [K-Beauty Hub](/page/k-beauty-olive-young-pharmaresearch-hub/) |
@@ -38,8 +39,9 @@ Foreign access to Korean equities is becoming less of a brokerage problem and mo
 | 3 | Why is Korea being re-rated in 2026? | [Korea 2026: Structural Re-Rating](/post/korea-outperformance-2026-structural-rerating-2026-04-24/) |
 | 4 | How should I think about Samsung Electronics, SK Hynix and HBM? | [Samsung / SK Hynix / HBM Hub](/page/korea-semiconductor-hbm-kospi-hub/) |
 | 5 | What is the AI PCB and substrate thesis? | [AI PCB and Substrate Hub](/page/korea-ai-pcb-substrate-hub/) |
-| 6 | Which Korean financials matter under Value-Up? | [Korean Financials Hub](/page/korean-financials-hub/) |
-| 7 | Which Korean consumer and game stories are searchable globally? | [Pearl Abyss Hub](/page/pearl-abyss-crimson-desert-hub/) · [K-Beauty Hub](/page/k-beauty-olive-young-pharmaresearch-hub/) |
+| 6 | Why does Korea have so many AI substrate companies? | [Why Korea Part 1: Semiconductor Substrates](/post/why-korea-semiconductor-substrate-competitive-edge-2026-05-07/) |
+| 7 | Which Korean financials matter under Value-Up? | [Korean Financials Hub](/page/korean-financials-hub/) |
+| 8 | Which Korean consumer and game stories are searchable globally? | [Pearl Abyss Hub](/page/pearl-abyss-crimson-desert-hub/) · [K-Beauty Hub](/page/k-beauty-olive-young-pharmaresearch-hub/) |
 
 ---
 
