@@ -26,6 +26,7 @@ Foreign access to Korean equities is becoming less of a brokerage problem and mo
 | Why do Korean AI substrate stocks matter to global investors? | Korea's substrate cluster is not just a theme. It reflects three decades of manufacturing, customer certification and yield learning. That structure is the base layer behind the stock map. | [Why Korea Part 1: Semiconductor Substrates](/post/why-korea-semiconductor-substrate-competitive-edge-2026-05-07/) |
 | What are the Korean gaming names global investors search for? | Pearl Abyss is the main Crimson Desert / Black Desert case; Krafton is the PUBG and inZOI large-cap case. | [Pearl Abyss Hub](/page/pearl-abyss-crimson-desert-hub/) |
 | Which Korean financial stocks benefit from Value-Up and foreign access? | KB, Shinhan, Hana, Meritz, Kiwoom, Korea Investment Holdings and brokerages sit at the intersection of capital return, liquidity and foreign access. | [Korean Financials Hub](/page/korean-financials-hub/) |
+| Why do Korean K-beauty stocks matter to global investors? | Korea's cosmetics exports reached USD 11.43 billion in 2025, and the public-market value chain now spans Olive Young, ODM manufacturers, APR, PharmaResearch and listed brand platforms. | [Why Korea Part 2: Korean Cosmetics](/post/why-korea-cosmetics-global-competitiveness-2026-05-07/) |
 | Which Korean K-beauty stocks are investable? | PharmaResearch is the listed Rejuran / PDRN compounding case; Olive Young is private but creates a category map for public alternatives. | [K-Beauty Hub](/page/k-beauty-olive-young-pharmaresearch-hub/) |
 
 ---
@@ -41,7 +42,8 @@ Foreign access to Korean equities is becoming less of a brokerage problem and mo
 | 5 | What is the AI PCB and substrate thesis? | [AI PCB and Substrate Hub](/page/korea-ai-pcb-substrate-hub/) |
 | 6 | Why does Korea have so many AI substrate companies? | [Why Korea Part 1: Semiconductor Substrates](/post/why-korea-semiconductor-substrate-competitive-edge-2026-05-07/) |
 | 7 | Which Korean financials matter under Value-Up? | [Korean Financials Hub](/page/korean-financials-hub/) |
-| 8 | Which Korean consumer and game stories are searchable globally? | [Pearl Abyss Hub](/page/pearl-abyss-crimson-desert-hub/) · [K-Beauty Hub](/page/k-beauty-olive-young-pharmaresearch-hub/) |
+| 8 | Why did Korean cosmetics become a top-three export industry? | [Why Korea Part 2: Korean Cosmetics](/post/why-korea-cosmetics-global-competitiveness-2026-05-07/) |
+| 9 | Which Korean consumer and game stories are searchable globally? | [Pearl Abyss Hub](/page/pearl-abyss-crimson-desert-hub/) · [K-Beauty Hub](/page/k-beauty-olive-young-pharmaresearch-hub/) |
 
 ---
 

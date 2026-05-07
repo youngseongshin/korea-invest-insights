@@ -17,6 +17,7 @@ K-beauty is not one trade. **Olive Young is a private retail and discovery platf
 
 | Search Question | Current Answer | Read |
 |---|---|---|
+| Why did Korean cosmetics become a top-three export industry? | Korea's edge is not a L'Oreal-style luxury giant. It is fast product development, ODM infrastructure, demanding consumers, Olive Young, Korean content and digital distribution working together. | [Why Korea Part 2: Korean Cosmetics](/post/why-korea-cosmetics-global-competitiveness-2026-05-07/) |
 | Is Olive Young publicly traded? | No. CJ Olive Young is private. The closest listed indirect proxy is CJ Corporation, while CJ CheilJedang is a separate food and bio company rather than a direct Olive Young exposure. | [Is Olive Young Publicly Traded?](/post/olive-young-publicly-traded-cj-corp-korea-beauty-exposure-2026-04-27/) |
 | What would an Olive Young IPO mean? | An IPO could crystallize hidden value inside CJ Corp and reduce the holding-company discount, but there is no confirmed listing timetable as of April 2026. | [CJ Corp and Olive Young Deep Dive](/post/kr-deep-dive-cj-olive-young-2026-04-05/) |
 | Who owns Rejuran? | Rejuran is owned and manufactured by PharmaResearch. The investment thesis is not just the consumer brand, but the PN/PDRN platform and global medical-aesthetics expansion. | [Who Owns Rejuran?](/post/rejuran-owner-pharmaresearch-pn-technology-skin-booster-2026-04-27/) |
@@ -28,15 +29,20 @@ K-beauty is not one trade. **Olive Young is a private retail and discovery platf
 
 | Step | Question | Read |
 |---:|---|---|
-| 1 | Can investors buy Olive Young stock directly? | [Is Olive Young Publicly Traded? How to Invest in K-Beauty Exposure](/post/olive-young-publicly-traded-cj-corp-korea-beauty-exposure-2026-04-27/) |
-| 2 | What is the CJ holding-company discount and Olive Young IPO option? | [CJ Corp and Olive Young: Korea's Hidden K-Beauty Asset](/post/kr-deep-dive-cj-olive-young-2026-04-05/) |
-| 3 | What is the real investment point behind Rejuran and PharmaResearch? | [Who Owns Rejuran? PharmaResearch and Korea's Skin-Booster Platform](/post/rejuran-owner-pharmaresearch-pn-technology-skin-booster-2026-04-27/) |
-| 4 | How scalable is PharmaResearch's PN/PDRN platform? | [PharmaResearch: The PDRN Pioneer Behind Rejuran](/post/kr-deep-dive-pharma-research-products-2026-04-16/) |
-| 5 | What kind of K-beauty growth stock is APR? | [APR Analysis: Medicube and AGE-R's K-Beauty Growth Platform](/post/apr-medicube-age-r-deep-dive-valuation-2026/) |
+| 1 | Why did Korean cosmetics become a top-three export industry? | [Why Korea Part 2: Korean Cosmetics](/post/why-korea-cosmetics-global-competitiveness-2026-05-07/) |
+| 2 | Can investors buy Olive Young stock directly? | [Is Olive Young Publicly Traded? How to Invest in K-Beauty Exposure](/post/olive-young-publicly-traded-cj-corp-korea-beauty-exposure-2026-04-27/) |
+| 3 | What is the CJ holding-company discount and Olive Young IPO option? | [CJ Corp and Olive Young: Korea's Hidden K-Beauty Asset](/post/kr-deep-dive-cj-olive-young-2026-04-05/) |
+| 4 | What is the real investment point behind Rejuran and PharmaResearch? | [Who Owns Rejuran? PharmaResearch and Korea's Skin-Booster Platform](/post/rejuran-owner-pharmaresearch-pn-technology-skin-booster-2026-04-27/) |
+| 5 | How scalable is PharmaResearch's PN/PDRN platform? | [PharmaResearch: The PDRN Pioneer Behind Rejuran](/post/kr-deep-dive-pharma-research-products-2026-04-16/) |
+| 6 | What kind of K-beauty growth stock is APR? | [APR Analysis: Medicube and AGE-R's K-Beauty Growth Platform](/post/apr-medicube-age-r-deep-dive-valuation-2026/) |
 
 ---
 
 ## Read by Thesis
+
+### Why Korea and the K-Beauty Ecosystem
+
+- [Why Korea Part 2: How Korean Cosmetics Became a Top-Three Export Industry](/post/why-korea-cosmetics-global-competitiveness-2026-05-07/)
 
 ### Olive Young and CJ
 
