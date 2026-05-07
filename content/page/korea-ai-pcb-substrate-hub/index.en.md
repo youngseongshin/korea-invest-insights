@@ -26,6 +26,7 @@ AI substrates are not simply "the next theme after GPUs." They are a **common bo
 | Is Pamicell a one-quarter event or a cycle? | KRX reclassification, Doosan Electronic BG margins and CCL undersupply commentary extend the frame from one quarter to a 12-24 month industry cycle. | [Pamicell Part 2](/post/pamicell-four-layer-progress-and-fifth-cycle-layer-2026-05-03/) |
 | How would overseas retail investors discover Korean AI substrate stocks? | Easier IBKR / foreign-broker access can turn AI substrates from a local supply-chain theme into a searchable global small-mid-cap cluster. | [Foreign Investor Korea Stocks Hub](/page/korea-stocks-foreign-investors-hub/) |
 | How do HBM and substrates connect? | HBM is the memory bottleneck. Substrates are the physical bottleneck for mounting and connecting GPUs, CPUs and networking chips. | [HBM / Korea Semiconductor Hub](/page/korea-semiconductor-hbm-kospi-hub/) |
+| Why is Haesung DS in the PCB cluster? | Haesung DS is not a PCB or substrate manufacturer per se. It is the eleventh name in the cluster: global lead-frame #2 + DDR memory package substrate + the optional AI heat-spreader second-source angle. The only non-PCB axis in the cluster. | [Haesung DS: Lead-Frame Compounder Pivoting to AI Heat-Spreader Second-Source](/post/haesung-ds-leadframe-ai-heat-spreader-second-source-2026-05-07/) |
 
 ---
 
@@ -41,6 +42,7 @@ AI substrates are not simply "the next theme after GPUs." They are a **common bo
 | 6 | Why is Pamicell a Doosan Electronic BG CCL material proxy? | [Pamicell Analysis: AI CCL Materials Re-Rating](/post/pamicell-doosan-electro-bg-proxy-rediscovery-2026-04-30/) |
 | 7 | Has the Pamicell thesis moved into a 12-24 month cycle? | [Pamicell Part 2: AI CCL Materials and Industry Cycle](/post/pamicell-four-layer-progress-and-fifth-cycle-layer-2026-05-03/) |
 | 8 | How does Big Tech AI capex reach the Korean supply chain? | [Samsung Electronics vs Samsung Electro-Mechanics: Big Tech AI Capex Read-Through](/post/bigtech-1q26-samsung-electronics-vs-electro-mechanics-2026-04-30/) |
+| 9 | Where is the eleventh cluster name with the unique lead-frame-to-AI-thermal angle? | [Haesung DS: Lead-Frame Compounder Pivoting to AI Heat-Spreader Second-Source](/post/haesung-ds-leadframe-ai-heat-spreader-second-source-2026-05-07/) |
 
 ---
 
@@ -50,9 +52,11 @@ AI substrates are not simply "the next theme after GPUs." They are a **common bo
 |---|---|---|
 | Package substrates | Samsung Electro-Mechanics, Daeduck Electronics, Korea Circuit | FC-BGA and advanced package substrates for GPU, CPU and ASIC packages |
 | MLB and module boards | Isu Petasys, Daeduck Electronics, TLB, Simmtech, Korea Circuit | Server boards, network switch boards, memory modules and SoCAMM |
+| Memory package substrate + lead frame | Haesung DS | DDR4/DDR5 R2R substrate + global lead-frame #2; automotive + memory dual axis |
 | CCL body | Doosan Electronic BG | High-end copper-clad laminate for AI servers and high-speed networking |
 | Low-dielectric materials | Kolon Industries, Pamicell | mPPO, low-loss resin, hardener and upstream material exposure |
 | Power-stability components | Samsung Electro-Mechanics and MLCC peers | Rising MLCC content in AI servers and networking equipment |
+| AI package thermal | Haesung DS (option) | Heat slug / heat spreader second-source optionality in the Shinko / Honeywell / Jentech / I-Chiun ~85%-concentrated market |
 
 ---
 
