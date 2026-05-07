@@ -7,7 +7,7 @@ categories: ["Analyst-Report-Cover"]
 tags: ["Samsung Electro-Mechanics", "009150", "Mirae Asset Securities", "MLCC", "FC-BGA", "serveur IA", "PCB IA", "actions coréennes", "cadre de valorisation"]
 ---
 
-> Lectures associées : [Hub PCB IA et substrats](/page/korea-ai-pcb-substrate-hub/), [Revalorisation infrastructure IA de Samsung Electro-Mechanics](/post/samsung-electro-mechanics-ai-infrastructure-rerating-2026-04-21/), [Thèse PCB IA et substrats](/post/ai-pcb-thesis-system-bom-common-bottleneck-2026-05-05/) et [Écosystème PCB IA coréen : 10 entreprises](/post/korea-ai-pcb-ecosystem-ten-companies-2026-05-05/).
+> Lectures associées : [Hub PCB IA et substrats](/fr/page/korea-ai-pcb-substrate-hub/), [Revalorisation infrastructure IA de Samsung Electro-Mechanics](/fr/post/samsung-electro-mechanics-ai-infrastructure-rerating-2026-04-21/), [Thèse PCB IA et substrats](/fr/post/ai-pcb-thesis-system-bom-common-bottleneck-2026-05-05/) et [Écosystème PCB IA coréen : 10 entreprises](/fr/post/korea-ai-pcb-ecosystem-ten-companies-2026-05-05/).
 
 Mirae Asset Securities a relevé son objectif de cours sur Samsung Electro-Mechanics de 530 000 KRW à 1,3 million KRW. Le chiffre paraît spectaculaire, mais le mécanisme est simple : on déplace l'année de référence de la valorisation de 2026 à 2028 et on applique un PER de 37x, que Mirae Asset rattache à la phase initiale du cycle de pénurie MLCC de 2017.
 

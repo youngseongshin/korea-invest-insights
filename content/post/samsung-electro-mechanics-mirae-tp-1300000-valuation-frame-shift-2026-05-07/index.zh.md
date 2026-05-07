@@ -7,7 +7,7 @@ categories: ["Analyst-Report-Cover"]
 tags: ["三星电机", "009150", "未来资产证券", "MLCC", "FC-BGA", "AI服务器", "AI PCB", "韩国股票", "估值框架"]
 ---
 
-> 延伸阅读：[AI PCB与基板专题汇总](/page/korea-ai-pcb-substrate-hub/)、[三星电机AI基础设施重估](/post/samsung-electro-mechanics-ai-infrastructure-rerating-2026-04-21/)、[AI PCB与基板投资逻辑](/post/ai-pcb-thesis-system-bom-common-bottleneck-2026-05-05/)、[韩国AI PCB生态：十家核心企业](/post/korea-ai-pcb-ecosystem-ten-companies-2026-05-05/)。
+> 延伸阅读：[AI PCB与基板专题汇总](/zh/page/korea-ai-pcb-substrate-hub/)、[三星电机AI基础设施重估](/zh/post/samsung-electro-mechanics-ai-infrastructure-rerating-2026-04-21/)、[AI PCB与基板投资逻辑](/zh/post/ai-pcb-thesis-system-bom-common-bottleneck-2026-05-05/)、[韩国AI PCB生态：十家核心企业](/zh/post/korea-ai-pcb-ecosystem-ten-companies-2026-05-05/)。
 
 未来资产证券将三星电机目标价从53万韩元上调至130万韩元。数字看似惊人，但逻辑并不复杂：将估值基准年从2026年移至2028年，并套用37倍市盈率——而这一倍数，未来资产将其与2017年MLCC短缺周期初期相挂钩。
 

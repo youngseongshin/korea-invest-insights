@@ -7,7 +7,7 @@ categories: ["Analyst-Report-Cover"]
 tags: ["サムスン電機", "009150", "ミレアセット証券", "MLCC", "FC-BGA", "AIサーバー", "AI基板", "韓国株", "バリュエーション・フレーム"]
 ---
 
-> 関連記事：[AI基板・サブストレートハブ](/page/korea-ai-pcb-substrate-hub/)、[サムスン電機 AIインフラ再評価](/post/samsung-electro-mechanics-ai-infrastructure-rerating-2026-04-21/)、[AI基板テーゼ](/post/ai-pcb-thesis-system-bom-common-bottleneck-2026-05-05/)、[韓国AI基板エコシステム：10社分析](/post/korea-ai-pcb-ecosystem-ten-companies-2026-05-05/)
+> 関連記事：[AI基板・サブストレートハブ](/ja/page/korea-ai-pcb-substrate-hub/)、[サムスン電機 AIインフラ再評価](/ja/post/samsung-electro-mechanics-ai-infrastructure-rerating-2026-04-21/)、[AI基板テーゼ](/ja/post/ai-pcb-thesis-system-bom-common-bottleneck-2026-05-05/)、[韓国AI基板エコシステム：10社分析](/ja/post/korea-ai-pcb-ecosystem-ten-companies-2026-05-05/)
 
 ミレアセット証券がサムスン電機の目標株価を53万ウォンから130万ウォンへ引き上げた。数字は派手だが、仕組みは単純だ。バリュエーションの基準年を2026年から2028年に移し、2017年のMLCCショート相場初期に適用されたとされる37倍のPERを掛ける、それだけである。
 

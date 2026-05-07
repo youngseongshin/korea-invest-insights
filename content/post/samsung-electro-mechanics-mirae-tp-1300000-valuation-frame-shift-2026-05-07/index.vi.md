@@ -7,7 +7,7 @@ categories: ["Analyst-Report-Cover"]
 tags: ["Samsung Electro-Mechanics", "009150", "Mirae Asset Securities", "MLCC", "FC-BGA", "máy chủ AI", "PCB AI", "cổ phiếu Hàn Quốc", "khung định giá"]
 ---
 
-> Đọc thêm: [Trung tâm PCB AI và Substrate Hàn Quốc](/page/korea-ai-pcb-substrate-hub/), [Samsung Electro-Mechanics Định Giá Lại Hạ Tầng AI](/post/samsung-electro-mechanics-ai-infrastructure-rerating-2026-04-21/), [Luận điểm PCB AI và Substrate](/post/ai-pcb-thesis-system-bom-common-bottleneck-2026-05-05/), và [Hệ Sinh Thái PCB AI Hàn Quốc: 10 Công Ty](/post/korea-ai-pcb-ecosystem-ten-companies-2026-05-05/).
+> Đọc thêm: [Trung tâm PCB AI và Substrate Hàn Quốc](/vi/page/korea-ai-pcb-substrate-hub/), [Samsung Electro-Mechanics Định Giá Lại Hạ Tầng AI](/vi/post/samsung-electro-mechanics-ai-infrastructure-rerating-2026-04-21/), [Luận điểm PCB AI và Substrate](/vi/post/ai-pcb-thesis-system-bom-common-bottleneck-2026-05-05/), và [Hệ Sinh Thái PCB AI Hàn Quốc: 10 Công Ty](/vi/post/korea-ai-pcb-ecosystem-ten-companies-2026-05-05/).
 
 Mirae Asset Securities nâng mục tiêu giá Samsung Electro-Mechanics từ 530.000 KRW lên 1,3 triệu KRW. Con số trông có vẻ ấn tượng, nhưng cơ chế thực ra đơn giản: dịch chuyển năm định giá từ 2026 sang 2028 và áp bội số P/E 37x — mức mà Mirae Asset liên kết với giai đoạn đầu chu kỳ thiếu hụt MLCC năm 2017.
 
