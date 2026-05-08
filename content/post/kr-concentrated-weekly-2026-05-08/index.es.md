@@ -24,7 +24,7 @@ Mirae Asset elevó hoy su precio objetivo de Samsung Electronics desde 320.000 h
 
 El análisis fundamental apunta hacia arriba. La cotización lleva cinco días con una rentabilidad superior al 15% y diez días acumulando casi el 19%. Sin embargo, el RSI —índice de fuerza relativa— alcanzó 80,9, una zona que históricamente precede correcciones técnicas. La salida masiva de extranjeros este miércoles añade una capa de cautela que los indicadores macroeconómicos no recogen.
 
-¿Por qué están vendiendo los extranjeros? La hipótesis más sólida combina toma de beneficios tras el rally acelerado, preocupación por la competitividad de Samsung en HBM frente a SK Hynix, y la posible reconfiguración de carteras hacia exposición más pura a memoria de alto rendimiento.
+¿Por qué están vendiendo los extranjeros? La hipótesis más sólida combina toma de beneficios tras el rally acelerado, preocupación por la competitividad de Samsung en HBM frente a SK Hynix, y la posible reconfiguración de exposición sectorial hacia memoria de alto rendimiento.
 
 ---
 

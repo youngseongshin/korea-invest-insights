@@ -22,7 +22,7 @@ La vraie surprise du 8 mai vient de Samsung Electro-Mechanics (009150.KS), fabri
 
 L'analyste anticipe un BPA 2028 de 34 764 wons, valorisé à 37 fois les bénéfices — un multiple qui rappelle le pic de cycle MLCC de 2017. Concrètement, Samsung Electro-Mechanics fournit des substrats de packaging aux fabricants de puces pour accélérateurs IA, un maillon structurellement en tension depuis que la montée en puissance des GPU et des XPU dépasse les capacités des fonderies de packaging. Mirae Asset projette un taux d'utilisation MLCC à 95 % et une hausse du prix de vente moyen FC-BGA de 13 %.
 
-Le problème immédiat : l'RSI dépasse 84 et les étrangers liquident des positions. Le signal à surveiller pour une entrée est un retour vers la moyenne à 20 jours conjugué à une stabilisation des flux étrangers.
+Le problème immédiat : l'RSI dépasse 84 et les étrangers allègent leur exposition. Le signal à surveiller pour une entrée est un retour vers la moyenne à 20 jours conjugué à une stabilisation des flux étrangers.
 
 ---
 
@@ -42,7 +42,7 @@ LIG Nex1 (079550.KS), l'un des principaux maîtres d'œuvre de la défense élec
 
 Et pourtant, le titre a reculé de 11,5 % après la publication. Ce type de réaction — solide trimestre, correction boursière — n'est pas rare dans le secteur K-défense lorsque les attentes sont déjà généreusement intégrées. La question pour les investisseurs étrangers est de savoir si ce recul constitue une opportunité de point d'entrée ou un avertissement sur la durabilité des marges à l'export.
 
-Le cas LIG Nex1 illustre l'une des caractéristiques structurelles de l'industrie : les contrats d'exportation (Pologne, Émirats, Arabie Saoudite) génèrent des revenus par tranches irrégulières, ce qui crée une volatilité trimestrielle difficile à modéliser. La zone de support 920 000–950 000 wons et la visibilité sur la marge export du deuxième trimestre constitueront les deux déclencheurs à surveiller pour une position pilote.
+Le cas LIG Nex1 illustre l'une des caractéristiques structurelles de l'industrie : les contrats d'exportation (Pologne, Émirats, Arabie Saoudite) génèrent des revenus par tranches irrégulières, ce qui crée une volatilité trimestrielle difficile à modéliser. La zone de support 920 000–950 000 wons et la visibilité sur la marge export du deuxième trimestre constitueront les deux déclencheurs à surveiller pour un point d'entrée prudent.
 
 ---
 
@@ -56,13 +56,13 @@ Deux situations illustrent le décalage possible entre signal fondamental et com
 
 ---
 
-## SK Hynix : L'Alternative HBM Pure dans un Portefeuille Déjà Dense
+## SK Hynix : L'Alternative HBM Pure dans un Secteur Déjà Chargé
 
 SK Hynix (000660.KS), numéro deux mondial de la mémoire DRAM et leader incontesté de la mémoire HBM (High Bandwidth Memory) pour GPU IA, fait l'objet d'une révision à la hausse par Mirae Asset : nouvel objectif à 2 700 000 wons (contre 2 000 000 précédemment), avec des projections de revenus HBM à 54 000 milliards de wons pour 2026 et 75 000 milliards pour 2027, soutenues par une hausse du prix de vente moyen HBM de 19,7 %.
 
 Le positionnement de SK Hynix face à Samsung Electronics n'est pas une question de qualité relative, mais d'exposition : SK Hynix génère une part bien plus élevée de ses revenus via le HBM, tandis que Samsung Electronics reste exposé à la DRAM conventionnelle et aux NAND. Pour un investisseur souhaitant une exposition plus pure à la demande IA en mémoire, l'arbitrage Samsung → SK Hynix est une option de gestion structurelle, non un pari directionnel supplémentaire sur les semi-conducteurs.
 
-La caution à intégrer : les étrangers et institutionnels coréens ont vendu conjointement pour plus de 7 100 milliards de wons sur cinq jours sur SK Hynix — un flux de dégagement qui mérite attention avant d'initier ou de renforcer.
+La caution à intégrer : les étrangers et institutionnels coréens ont vendu conjointement pour plus de 7 100 milliards de wons sur cinq jours sur SK Hynix — un flux de dégagement qui mérite attention avant toute prise de risque supplémentaire.
 
 ---
 
