@@ -8,6 +8,8 @@ tags: ["Why Korea", "반도체 기판", "FC-BGA", "ABF", "AI 인프라", "한국
 ---
 
 > **Why Korea 시리즈 1편.** 이 글은 [AI 기판·PCB 투자 허브](/ko/page/korea-ai-pcb-substrate-hub/)의 산업 배경이다. [AI PCB와 기판 투자 논거](/ko/post/ai-pcb-thesis-system-bom-common-bottleneck-2026-05-05/), [한국 AI 기판·PCB 생태계 10개사](/ko/post/korea-ai-pcb-ecosystem-ten-companies-2026-05-05/), [삼성전기 AI 인프라 리레이팅](/ko/post/samsung-electro-mechanics-ai-infrastructure-rerating-2026-04-21/)과 함께 읽으면 전체 구도가 더 선명해진다.
+>
+> 📚 **이어지는 편**: [2편 — 한국 화장품](/ko/post/why-korea-cosmetics-global-competitiveness-2026-05-07/) · [3편 — 삼성·SK하이닉스의 한국 경제 리레이팅](/ko/post/samsung-sk-hynix-korea-ai-economy-rerating-2026-05-09/) · [4편 — 67억 달러 유입과 코리아 할인 해소 vs 밸류 트랩](/ko/post/korea-67-billion-etf-inflow-korea-discount-or-value-trap-2026-05-09/)
 
 기판 시리즈에서 한국 상장사 10개를 비교하면서 남겨둔 질문이 하나 있다. **왜 한국에는 반도체 기판과 PCB 인접 회사가 이렇게 많은가.**
 

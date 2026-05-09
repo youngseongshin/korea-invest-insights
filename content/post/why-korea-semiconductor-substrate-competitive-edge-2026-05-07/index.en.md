@@ -8,6 +8,8 @@ tags: ["Why Korea", "semiconductor substrates", "FC-BGA", "ABF", "AI infrastruct
 ---
 
 > **Why Korea series, Part 1.** This is the strategic layer behind the [AI PCB and Substrate Hub](/page/korea-ai-pcb-substrate-hub/). Read it together with [AI PCB and Substrate Thesis](/post/ai-pcb-thesis-system-bom-common-bottleneck-2026-05-05/), [Korea AI PCB Ecosystem: 10 Companies](/post/korea-ai-pcb-ecosystem-ten-companies-2026-05-05/), and [Samsung Electro-Mechanics AI Infrastructure Re-Rating](/post/samsung-electro-mechanics-ai-infrastructure-rerating-2026-04-21/).
+>
+> 📚 **Subsequent parts**: [Part 2 — Korean Cosmetics](/post/why-korea-cosmetics-global-competitiveness-2026-05-07/) · [Part 3 — Samsung / SK hynix → Korean Economy Re-rating](/post/samsung-sk-hynix-korea-ai-economy-rerating-2026-05-09/) · [Part 4 — $6.7B Inflows, Korea-Discount Dissolving or Value Trap?](/post/korea-67-billion-etf-inflow-korea-discount-or-value-trap-2026-05-09/)
 
 There is a question sitting underneath the Korean AI substrate work that deserves its own note: **why does Korea have so many listed substrate and PCB-adjacent companies in the first place?**
 

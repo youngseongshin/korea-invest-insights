@@ -8,6 +8,8 @@ tags: ["Why Korea", "Korean cosmetics", "K-beauty", "skincare", "Olive Young", "
 ---
 
 > **Why Korea series, Part 2.** Part 1 asked [why Korea has so many semiconductor substrate companies](/post/why-korea-semiconductor-substrate-competitive-edge-2026-05-07/). This note asks the same question in consumer products: why did Korea produce globally relevant beauty brands, ODM manufacturers, a dominant retail platform and beauty-device companies at the same time? Read this together with the [Olive Young, PharmaResearch and K-Beauty Hub](/page/k-beauty-olive-young-pharmaresearch-hub/), [APR / Medicube analysis](/post/apr-medicube-age-r-deep-dive-valuation-2026/), and [Olive Young public-stock explainer](/post/olive-young-publicly-traded-cj-corp-korea-beauty-exposure-2026-04-27/).
+>
+> 📚 **Subsequent parts**: [Part 3 — Samsung / SK hynix → Korean Economy Re-rating](/post/samsung-sk-hynix-korea-ai-economy-rerating-2026-05-09/) · [Part 4 — $6.7B Inflows, Korea-Discount Dissolving or Value Trap?](/post/korea-67-billion-etf-inflow-korea-discount-or-value-trap-2026-05-09/)
 
 Korea exported USD 11.43 billion of cosmetics in 2025. That was a record. Korea is now commonly discussed alongside France and the United States as one of the world's top three cosmetics exporters, and depending on classification it competes with the U.S. for the number-two slot behind France.
 

@@ -7,6 +7,8 @@ categories: ["Why-Korea"]
 tags: ["Samsung Electronics", "SK hynix", "Korea Economy", "AI Memory", "HBM", "KOSPI", "Foreign Investors"]
 ---
 
+> **Why Korea series, Part 3.** Earlier parts: [Part 1 — Substrates](/post/why-korea-semiconductor-substrate-competitive-edge-2026-05-07/) · [Part 2 — Korean Cosmetics](/post/why-korea-cosmetics-global-competitiveness-2026-05-07/). Next: [Part 4 — $6.7B Inflows, Korea-Discount Dissolving or Value Trap?](/post/korea-67-billion-etf-inflow-korea-discount-or-value-trap-2026-05-09/).
+>
 > **Answer first:** Korea is no longer only a cyclical export beta. In 2026, Samsung Electronics and SK hynix are turning AI memory profits into taxes, worker income, pension wealth, supplier orders and capital investment. That is why foreign investors should think about Korea as an economy whose fiscal and capital-market weight is being re-rated.
 
 ---

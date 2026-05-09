@@ -7,6 +7,8 @@ categories: ["Why-Korea"]
 tags: ["삼성전자", "SK하이닉스", "한국 경제", "AI 메모리", "HBM", "KOSPI", "외국인 투자자"]
 ---
 
+> **Why Korea 시리즈 3편.** 이전 편: [1편 — 반도체 기판](/ko/post/why-korea-semiconductor-substrate-competitive-edge-2026-05-07/) · [2편 — 한국 화장품](/ko/post/why-korea-cosmetics-global-competitiveness-2026-05-07/). 다음 편: [4편 — 67억 달러 유입과 코리아 할인 해소 vs 밸류 트랩](/ko/post/korea-67-billion-etf-inflow-korea-discount-or-value-trap-2026-05-09/).
+>
 > **결론부터:** 한국은 더 이상 단순한 경기순환형 수출 시장이 아니다. 2026년, 삼성전자와 SK하이닉스는 AI 메모리 이익을 세금·근로자 소득·연금 자산·협력사 투자·자본투자로 바꾸고 있다. 외국인 투자자가 한국을 재정 여력과 자본시장 비중이 모두 올라가는 경제로 다시 봐야 하는 이유가 여기에 있다.
 
 ---
