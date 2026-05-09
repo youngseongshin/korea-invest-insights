@@ -1,5 +1,5 @@
 ---
-title: "Samsung, SK Hynix and Korea’s AI Economy Re-Rating"
+title: "Samsung, SK Hynix: KRW 94.8T Q1 Profit Re-Rates Korea"
 slug: samsung-sk-hynix-korea-ai-economy-rerating-2026-05-09
 date: 2026-05-09T14:30:00+09:00
 description: "Samsung Electronics and SK hynix are converting AI memory profits into tax revenue, wages, pensions and capex. Here is why Korea’s economy is being re-rated."

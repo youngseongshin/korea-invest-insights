@@ -1,5 +1,5 @@
 ---
-title: "Samsung, SK Hynix et la réévaluation de l'économie coréenne à l'ère de l'IA"
+title: "Samsung et SK Hynix : 94,8 T KRW de profit réévaluent la Corée"
 slug: samsung-sk-hynix-korea-ai-economy-rerating-2026-05-09
 date: 2026-05-09T14:30:00+09:00
 description: "Samsung Electronics et SK hynix convertissent leurs bénéfices issus de la mémoire IA en recettes fiscales, salaires, retraites et investissements. Voici pourquoi l'économie coréenne fait l'objet d'une réévaluation profonde."

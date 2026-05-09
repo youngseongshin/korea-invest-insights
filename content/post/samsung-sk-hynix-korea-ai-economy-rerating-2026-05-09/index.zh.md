@@ -1,5 +1,5 @@
 ---
-title: "三星、SK海力士与韩国AI经济重估"
+title: "三星、SK海力士：94.8万亿韩元利润重估韩国经济"
 slug: samsung-sk-hynix-korea-ai-economy-rerating-2026-05-09
 date: 2026-05-09T14:30:00+09:00
 description: "三星电子和SK海力士正在把AI内存利润转化为税收、工资、养老金资产和资本开支。韩国经济为何正在被重新定价。"

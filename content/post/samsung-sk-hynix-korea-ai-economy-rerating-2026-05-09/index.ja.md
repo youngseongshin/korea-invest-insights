@@ -1,5 +1,5 @@
 ---
-title: "サムスン、SKハイニックス、そして韓国AI経済の再評価"
+title: "サムスン・SKハイニックス：94.8兆ウォン利益が韓国を再評価"
 slug: samsung-sk-hynix-korea-ai-economy-rerating-2026-05-09
 date: 2026-05-09T14:30:00+09:00
 description: "Samsung ElectronicsとSK hynixはAIメモリの利益を税収・賃金・年金・設備投資へと転換しつつある。韓国経済が再評価されている理由を解説する。"

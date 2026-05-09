@@ -1,5 +1,5 @@
 ---
-title: "삼성전자·SK하이닉스와 한국 AI 경제의 재평가"
+title: "삼성전자·SK하이닉스 1Q 영업이익 94.8조원: 한국 경제 재평가"
 slug: samsung-sk-hynix-korea-ai-economy-rerating-2026-05-09
 date: 2026-05-09T14:30:00+09:00
 description: "삼성전자와 SK하이닉스가 AI 메모리 이익을 세수·임금·연금·설비투자로 전환하고 있다. 한국 경제가 재평가되는 이유를 짚어본다."
