@@ -7,6 +7,8 @@ categories: ["Company-Deep-Dive"]
 tags: ["Easy Bio", "353810", "feed additives", "Devenish", "BioMatrix", "Nutribins", "North America M&A", "Korean small caps", "Korean equities"]
 ---
 
+> 📄 **Part 2 follow-up**: [Easy Bio Revisited — Korean Feed Stock or Korean Anpario / Phibro? Why the 1Q26 9.4% Margin Print Will Decide the Re-classification](/post/easybio-anpario-phibro-discount-1q-checkpoint-2026-05-09/) — global peer-multiple gap, the 1Q26 OPM verification gate, and the mechanism by which the "feed-stock" label dissolves.
+
 Most Korean feed sector screens return Easy Bio somewhere near the bottom of a sorted list alongside commodity grain processors and integrated poultry operators. The ticker, 353810 on the KOSDAQ, rarely appears in English-language coverage. When it does surface, the framing is almost always "domestic feed company with some specialty exposure." That framing is roughly three years out of date. As of the third quarter of 2025, feed additives account for 78% of cumulative revenue, and the company's M&A activity since 2022 has been concentrated entirely in North America, targeting functional coating, sourcing infrastructure, and specialty product lines. The market has not repriced accordingly. The gap between what the business has become and how it continues to be categorized is the central analytical question for any portfolio considering Korean small-cap exposure.
 
 ---
