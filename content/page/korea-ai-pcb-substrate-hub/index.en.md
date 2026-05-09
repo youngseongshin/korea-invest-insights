@@ -27,6 +27,7 @@ AI substrates are not simply "the next theme after GPUs." They are a **common bo
 | How would overseas retail investors discover Korean AI substrate stocks? | Easier IBKR / foreign-broker access can turn AI substrates from a local supply-chain theme into a searchable global small-mid-cap cluster. | [Foreign Investor Korea Stocks Hub](/page/korea-stocks-foreign-investors-hub/) |
 | How do HBM and substrates connect? | HBM is the memory bottleneck. Substrates are the physical bottleneck for mounting and connecting GPUs, CPUs and networking chips. | [HBM / Korea Semiconductor Hub](/page/korea-semiconductor-hbm-kospi-hub/) |
 | Why is Haesung DS in the PCB cluster? | Haesung DS is not a PCB or substrate manufacturer per se. It is the eleventh name in the cluster: global lead-frame #2 + DDR memory package substrate + the optional AI heat-spreader second-source angle. The only non-PCB axis in the cluster. | [Haesung DS: Lead-Frame Compounder Pivoting to AI Heat-Spreader Second-Source](/post/haesung-ds-leadframe-ai-heat-spreader-second-source-2026-05-07/) |
+| How do the Korean optical / CPO names map? | Of seven listed names only OE Solutions is genuinely close to CPO via its ELSFP external laser source — the others are downstream beneficiaries or themes. Six of seven are up +300–900% YTD with earnings still not following. Same system-BOM thesis as substrate, but at an earlier and more overheated stage. | [Korea Optical & CPO Value Chain — Seven Companies](/post/korea-optical-cpo-value-chain-seven-companies-2026-05-09/) |
 
 ---
 
@@ -43,6 +44,7 @@ AI substrates are not simply "the next theme after GPUs." They are a **common bo
 | 7 | Has the Pamicell thesis moved into a 12-24 month cycle? | [Pamicell Part 2: AI CCL Materials and Industry Cycle](/post/pamicell-four-layer-progress-and-fifth-cycle-layer-2026-05-03/) |
 | 8 | How does Big Tech AI capex reach the Korean supply chain? | [Samsung Electronics vs Samsung Electro-Mechanics: Big Tech AI Capex Read-Through](/post/bigtech-1q26-samsung-electronics-vs-electro-mechanics-2026-04-30/) |
 | 9 | Where is the eleventh cluster name with the unique lead-frame-to-AI-thermal angle? | [Haesung DS: Lead-Frame Compounder Pivoting to AI Heat-Spreader Second-Source](/post/haesung-ds-leadframe-ai-heat-spreader-second-source-2026-05-07/) |
+| 10 | What's the next AI data-center bottleneck after substrate — and which Korean names are real vs. thematic? | [Korea Optical & CPO Value Chain — Only OE Solutions Is Truly Close to CPO](/post/korea-optical-cpo-value-chain-seven-companies-2026-05-09/) |
 
 ---
 
@@ -57,6 +59,7 @@ AI substrates are not simply "the next theme after GPUs." They are a **common bo
 | Low-dielectric materials | Kolon Industries, Pamicell | mPPO, low-loss resin, hardener and upstream material exposure |
 | Power-stability components | Samsung Electro-Mechanics and MLCC peers | Rising MLCC content in AI servers and networking equipment |
 | AI package thermal | Haesung DS (option) | Heat slug / heat spreader second-source optionality in the Shinko / Honeywell / Jentech / I-Chiun ~85%-concentrated market |
+| AI optical / CPO | OE Solutions (core), Optocore / Daehan Optical / BWE / WooriRo / Lycom / Coset (thematic) | 800G/1.6T transceivers, CPO ELSFP external laser source, optical fiber — same system-BOM bottleneck logic as substrate, but earnings still trailing the price |
 
 ---
 
