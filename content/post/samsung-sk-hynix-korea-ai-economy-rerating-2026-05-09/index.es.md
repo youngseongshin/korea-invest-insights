@@ -1,5 +1,5 @@
 ---
-title: "Samsung y SK Hynix: KRW 94,8T de Beneficio Revalorizan Corea"
+title: "Why Korea Parte 3: Samsung y SK Hynix, KRW 300T+ de beneficio anual que eleva la economía coreana"
 slug: samsung-sk-hynix-korea-ai-economy-rerating-2026-05-09
 date: 2026-05-09T14:30:00+09:00
 description: "Samsung Electronics y SK hynix están convirtiendo los beneficios de la memoria para IA en ingresos fiscales, salarios, pensiones y capex. Por qué la economía de Corea está siendo revalorizada."

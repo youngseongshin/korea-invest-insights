@@ -1,5 +1,5 @@
 ---
-title: "Samsung, SK Hynix: 94,8 Nghìn Tỷ KRW Tái Định Giá Hàn Quốc"
+title: "Why Korea Phần 3: Lợi nhuận thường niên KRW 300T+ của Samsung và SK Hynix nâng cấp kinh tế Hàn Quốc"
 slug: samsung-sk-hynix-korea-ai-economy-rerating-2026-05-09
 date: 2026-05-09T14:30:00+09:00
 description: "Samsung Electronics và SK hynix đang chuyển hóa lợi nhuận từ bộ nhớ AI thành nguồn thu thuế, tiền lương, quỹ hưu trí và đầu tư vốn. Đây là lý do nền kinh tế Hàn Quốc đang được định giá lại."

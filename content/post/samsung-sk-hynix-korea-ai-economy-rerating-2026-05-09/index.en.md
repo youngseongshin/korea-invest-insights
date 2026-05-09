@@ -1,5 +1,5 @@
 ---
-title: "Why Korea Part 3: Samsung, SK Hynix KRW 94.8T Q1 Profit and KRW 90–120T Tax Upside"
+title: "Why Korea Part 3: Samsung and SK Hynix’s KRW 300T+ Annual Profit Upgrades Korea’s Economy"
 slug: samsung-sk-hynix-korea-ai-economy-rerating-2026-05-09
 date: 2026-05-09T14:30:00+09:00
 description: "Samsung Electronics and SK hynix could turn the AI memory boom into KRW 90–120T of incremental tax capacity, KRW 30–40T of household cash income and a KRW 120–150T pension buffer versus 2024."
