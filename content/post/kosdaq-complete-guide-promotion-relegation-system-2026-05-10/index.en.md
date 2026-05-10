@@ -19,6 +19,8 @@ tags:
   - "Korea capital markets reform"
 ---
 
+> 📚 **KOSDAQ Series — Part 1.** Continue with: [Part 2 — Screening for Quality with ROE: 1,820 → 105 → 35 → 6](/post/kosdaq-high-roe-quality-screening-2026-05-10/)
+
 *While KOSPI breached 7,500 and printed an all-time market-cap high, KOSDAQ has been oscillating around the 1,200 line. YTD 2026 the small-cap board is +30% — not bad in absolute terms, ahead of Turkey, Japan, and Brazil — but less than half of KOSPI's +75%. The retail-investor complaint is by now familiar: "KOSDAQ doesn't go up when KOSPI goes up, and goes down when KOSPI goes down." Underneath the relative-performance frustration, however, the structural change worth tracking has finally surfaced: a promotion-relegation system that splits all \~1,820 KOSDAQ-listed companies into Premium (Tier 1, ≤100 names), Standard (Tier 2), and Watch (Tier 3) segments, with movement between tiers based on earnings and governance. The reform launches as early as October 2026. The point is not to publish another curated list — the 2022 KOSDAQ Global Index already proved the curation worked but the money didn't follow. This time the design must build the buy-side plumbing too.*
 
 ---
