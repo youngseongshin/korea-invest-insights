@@ -5,7 +5,7 @@ date: 2026-05-03T11:00:00+09:00
 aliases: ["/korea-daily/", "/kospi/", "/kosdaq/", "/en/korea-daily/", "/en/page/korea-daily-market-hub/", "/es/page/korea-daily-market-hub/", "/vi/page/korea-daily-market-hub/", "/fr/page/korea-daily-market-hub/", "/ja/page/korea-daily-market-hub/", "/zh/page/korea-daily-market-hub/"]
 layout: "page"
 description: "A hub for Korean stock market daily updates — KOSPI and KOSDAQ market closes, weekly concentrated picks, foreign-investor flows, sector rotation, and what's actually moving in Korean equities each session. Direct answers to 'What is the Korean stock market doing today?' and similar queries."
-lastmod: 2026-05-12T23:58:00+09:00
+lastmod: 2026-05-13T00:03:19+09:00
 ---
 
 ## What This Hub Answers
@@ -51,6 +51,8 @@ Sequential reading for someone new to Korean equities — what to read in order 
 | 2026-05-01 | Korea Quality Re-Rating Watch 2026-05-01: Sanil Electric, Lino Industrial & HD Hyundai Energy Solutions — Smart Money Meets Earnings Inflection | [Korea Daily Wrap 2026-05-01](/post/kr-daily-wrap-2026-05-01/) |
 
 For older daily wraps, see [Archives](/page/archives).
+
+---
 
 ## Weekly Concentrated Strategy
 
