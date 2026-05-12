@@ -30,6 +30,7 @@ description: "삼성전자, SK하이닉스, HBM, AI 메모리, 코스피 지수 
 
 | 날짜 | 주제 | 자세히 보기 |
 |---|---|---|
+| 2026-05-12 | **AI 국민배당과 반도체 초과세수 논쟁** — 코스피 오전 급락 후 반등, 삼성전자·SK하이닉스 EPS 리스크와 정책 할인율 구분 | [5월 12일 코스피 급락·반등 분석](/ko/post/kospi-may-12-ai-citizen-dividend-tax-windfall-2026-05-12/) |
 | 2026-05-11 | **Citi 삼성전자 목표가 46만원** — 1Q DS 이익률 65.7%, 메모리 사이클 프레임 자체가 틀렸다는 논거 | [삼성전자 Citi 목표가 46만원 — 메모리 리레이팅](/ko/post/samsung-electronics-citi-tp-460000-memory-rerating-2026-05-11/) |
 | 2026-05-09 | Why Korea 3편 — 삼성·SK하이닉스 연 300조 이익이 한국 경제 체질을 업그레이드 | [Why Korea 3편](/ko/post/samsung-sk-hynix-korea-ai-economy-rerating-2026-05-09/) |
 | 2026-05-07 | 5월 6일 랠리 — 삼성전자 +14.4% / SK하이닉스 +10.6%, 외국인 ₩3.1조 매수, 기판·장비로 2단 확산 | [한국 반도체 5월 6일 랠리](/ko/post/korean-semis-rally-may-6-samsung-sk-hynix-substrate-equipment-2026-05-07/) |

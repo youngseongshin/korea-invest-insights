@@ -41,6 +41,7 @@ description: "한국 주식시장 일일 업데이트 허브 — KOSPI / KOSDAQ 
 
 | 날짜 | 주제 | 읽을 글 |
 |---|---|---|
+| 2026-05-12 | 오전 급락 후 반등: AI 국민배당·초과세수 논쟁과 반도체 정책 리스크 | [5월 12일 코스피 급락·반등 분석](/ko/post/kospi-may-12-ai-citizen-dividend-tax-windfall-2026-05-12/) |
 | 2026-04-30 | 월말 마감 + AI capex 재가속 해석 | [장마감 브리핑 2026-04-30](/ko/post/kr-kr-close-briefing-2026-04-30/) |
 | 2026-04-29 | 펄어비스 목표가 상향에 대한 셀사이드 반응 | [펄어비스 목표가 갭 분석](/ko/post/pearl-abyss-shinhan-target-price-gap-analysis-2026-04-29/) |
 | 2026-04-28 | 빅테크 실적 셋업 + 현대모비스 해석 | [Korea Daily Wrap 2026-04-28](/ko/post/kr-daily-wrap-2026-04-28/) |

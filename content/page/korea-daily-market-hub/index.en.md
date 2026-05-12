@@ -41,6 +41,7 @@ Sequential reading for someone new to Korean equities — what to read in order 
 
 | Date | Theme | Read |
 |---|---|---|
+| 2026-05-12 | Morning selloff and rebound: AI citizen dividend, excess tax revenue and Korea semiconductor policy risk | [KOSPI May 12 selloff and rebound](/post/kospi-may-12-ai-citizen-dividend-tax-windfall-2026-05-12/) |
 | 2026-04-30 | End-of-month close + AI capex re-acceleration read | [KR Close Briefing 2026-04-30](/post/kr-kr-close-briefing-2026-04-30/) |
 | 2026-04-29 | Sell-side response to PA target raise + sector rotation | [Pearl Abyss target price gap analysis](/post/pearl-abyss-shinhan-target-price-gap-analysis-2026-04-29/) |
 | 2026-04-28 | Big-tech earnings setup + Hyundai Mobis read | [Korea Daily Wrap 2026-04-28](/post/kr-daily-wrap-2026-04-28/) |
