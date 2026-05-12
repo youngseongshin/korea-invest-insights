@@ -24,6 +24,7 @@ Foreign access to Korean equities is becoming less of a brokerage problem and mo
 | Which Korean AI stocks should a foreign investor study first? | Start with Samsung Electronics, SK Hynix and the HBM chain, then move into AI substrates, CCL, FC-BGA and low-dielectric materials. | [Samsung / SK Hynix / HBM Hub](/page/korea-semiconductor-hbm-kospi-hub/) |
 | Which Korean small-cap AI hardware names matter? | The AI substrate ecosystem includes Samsung Electro-Mechanics, Daeduck Electronics, Doosan Electronic BG, Kolon Industries and Pamicell. | [AI PCB and Substrate Hub](/page/korea-ai-pcb-substrate-hub/) |
 | Why do Korean AI substrate stocks matter to global investors? | Korea's substrate cluster is not just a theme. It reflects three decades of manufacturing, customer certification and yield learning. That structure is the base layer behind the stock map. | [Why Korea Part 1: Semiconductor Substrates](/post/why-korea-semiconductor-substrate-competitive-edge-2026-05-07/) |
+| Where should foreign investors start with Korean robotics and physical AI stocks? | Start with Samsung, Hyundai and LG's robotics roadmaps, then follow the value chain down to reducers, actuators, cameras, batteries and assembly suppliers. | [Korea Humanoid Robot Value Chain](/post/korea-robotics-value-chain-complete-map-2026-05-11/) |
 | What are the Korean gaming names global investors search for? | Pearl Abyss is the main Crimson Desert / Black Desert case; Krafton is the PUBG and inZOI large-cap case. | [Pearl Abyss Hub](/page/pearl-abyss-crimson-desert-hub/) |
 | Which Korean financial stocks benefit from Value-Up and foreign access? | KB, Shinhan, Hana, Meritz, Kiwoom, Korea Investment Holdings and brokerages sit at the intersection of capital return, liquidity and foreign access. | [Korean Financials Hub](/page/korean-financials-hub/) |
 | Why do Korean K-beauty stocks matter to global investors? | Korea's cosmetics exports reached USD 11.43 billion in 2025, and the public-market value chain now spans Olive Young, ODM manufacturers, APR, PharmaResearch and listed brand platforms. | [Why Korea Part 2: Korean Cosmetics](/post/why-korea-cosmetics-global-competitiveness-2026-05-07/) |
@@ -41,9 +42,10 @@ Foreign access to Korean equities is becoming less of a brokerage problem and mo
 | 4 | How should I think about Samsung Electronics, SK Hynix and HBM? | [Samsung / SK Hynix / HBM Hub](/page/korea-semiconductor-hbm-kospi-hub/) |
 | 5 | What is the AI PCB and substrate thesis? | [AI PCB and Substrate Hub](/page/korea-ai-pcb-substrate-hub/) |
 | 6 | Why does Korea have so many AI substrate companies? | [Why Korea Part 1: Semiconductor Substrates](/post/why-korea-semiconductor-substrate-competitive-edge-2026-05-07/) |
-| 7 | Which Korean financials matter under Value-Up? | [Korean Financials Hub](/page/korean-financials-hub/) |
-| 8 | Why did Korean cosmetics become a top-three export industry? | [Why Korea Part 2: Korean Cosmetics](/post/why-korea-cosmetics-global-competitiveness-2026-05-07/) |
-| 9 | Which Korean consumer and game stories are searchable globally? | [Pearl Abyss Hub](/page/pearl-abyss-crimson-desert-hub/) · [K-Beauty Hub](/page/k-beauty-olive-young-pharmaresearch-hub/) |
+| 7 | How should I map Korean robotics and physical AI stocks? | [Korea Humanoid Robot Value Chain](/post/korea-robotics-value-chain-complete-map-2026-05-11/) |
+| 8 | Which Korean financials matter under Value-Up? | [Korean Financials Hub](/page/korean-financials-hub/) |
+| 9 | Why did Korean cosmetics become a top-three export industry? | [Why Korea Part 2: Korean Cosmetics](/post/why-korea-cosmetics-global-competitiveness-2026-05-07/) |
+| 10 | Which Korean consumer and game stories are searchable globally? | [Pearl Abyss Hub](/page/pearl-abyss-crimson-desert-hub/) · [K-Beauty Hub](/page/k-beauty-olive-young-pharmaresearch-hub/) |
 
 ---
 
@@ -53,6 +55,7 @@ Foreign access to Korean equities is becoming less of a brokerage problem and mo
 |---|---|---|
 | HBM and AI memory | Samsung Electronics, SK Hynix | The biggest KOSPI weights and the cleanest bridge from global AI capex to Korean earnings. |
 | AI substrates and CCL | Samsung Electro-Mechanics, Daeduck Electronics, Doosan, Kolon Industries, Pamicell | The second-order hardware layer behind GPUs, CPUs, NICs and switch ASICs. |
+| Physical AI and robotics | Rainbow Robotics, SPG, Robotis, Samsung Electro-Mechanics, LG Innotek, HL Mando, Hyundai Mobis | Robot revenue may appear first in reducers, actuators and sensors before pure humanoid makers scale. |
 | Korea Value-Up financials | KB Financial, Shinhan Financial, Hana Financial, Meritz Financial, Kiwoom Securities, Korea Investment Holdings, Samsung Securities | Capital return, brokerage volume, foreign access and governance reform meet in one sector. |
 | Gaming and content | Pearl Abyss, Krafton | Globally recognizable IP gives foreign retail investors a natural single-stock entry point. |
 | K-beauty and medical aesthetics | PharmaResearch, Classys, Hugel, APR | Korean consumer-health brands and aesthetics franchises are easier to understand than many domestic industrial names. |

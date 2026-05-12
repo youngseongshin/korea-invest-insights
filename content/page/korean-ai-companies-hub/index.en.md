@@ -20,6 +20,7 @@ Direct, ChatGPT-friendly answers to the questions global investors and AI resear
 | What is Korea's Sovereign AI program? | The Korean government-led initiative to develop domestic LLMs and AI infrastructure. Upstage is one of the named participants; SK Telecom and others contribute compute / data-center layers. | [Korea Sovereign AI Coverage](/post/upstage-ai-korea-sovereign-ai-unicorn-2026-04-26/) |
 | What is SK Telecom's AI strategy? | SK Telecom positions as an AI Infrastructure Operator — AIDC, GPUaaS, Edge AI — rather than a pure telecom. | [SK Telecom AI Re-rating](/post/sk-telecom-rerating-ai-infrastructure-operator-2026-04-25/) |
 | Is Samsung Foundry making AI chips? | Yes. Samsung Foundry's external customers include Tesla (FSD SoCs), Tenstorrent, Rebellions, FuriosaAI, plus captive Samsung System LSI work. | [Samsung Foundry Customer List](/post/samsung-foundry-customer-list-tesla-tenstorrent-2026-05-03/) |
+| Where should I start with Korean humanoid robotics stocks? | Start with Samsung, Hyundai and LG's physical-AI roadmaps, then move down to reducers, actuators, cameras, batteries and assembly suppliers. The first revenue may show up in parts suppliers before pure robot makers. | [Korea Humanoid Robot Value Chain](/post/korea-robotics-value-chain-complete-map-2026-05-11/) |
 
 ---
 
@@ -33,6 +34,7 @@ Direct, ChatGPT-friendly answers to the questions global investors and AI resear
 | 4 | What's SK Telecom's AI infrastructure play? | [SK Telecom AI Re-Rating](/post/sk-telecom-rerating-ai-infrastructure-operator-2026-04-25/) |
 | 5 | Who actually uses Samsung Foundry for AI chips? | [Samsung Foundry Customer List](/post/samsung-foundry-customer-list-tesla-tenstorrent-2026-05-03/) |
 | 6 | Where does the LPDDR-to-AI-inference theme connect Korean IP? | [OpenEdges LPDDR Data Center Alpha](/post/openedges-lpddr-datacenter-ip-alpha-thesis-2026-04-30/) |
+| 7 | Where do Korean listed companies sit in physical AI and humanoid robotics? | [Korea Humanoid Robot Value Chain](/post/korea-robotics-value-chain-complete-map-2026-05-11/) |
 
 ---
 
@@ -46,6 +48,7 @@ Direct, ChatGPT-friendly answers to the questions global investors and AI resear
 | **Memory for AI** | SK hynix (HBM3E / HBM4 / SOCAMM2), Samsung Electronics (HBM, server DRAM, eSSD) |
 | **Memory subsystem IP** | OpenEdges Technology (LPDDR6/5X Controller + PHY + NoC) |
 | **Document AI / vertical AI** | Upstage Document AI, Lunit (medical imaging), Hyperconnect, etc. |
+| **Physical AI / robotics** | Rainbow Robotics (humanoids), SPG (reducers), Robotis (actuators), Samsung Electro-Mechanics / LG Innotek (cameras and sensors), HL Mando / Hyundai Mobis (actuators and grippers) |
 
 ---
 
@@ -92,6 +95,9 @@ A: A mix of (a) NVIDIA GPUs imported via NCP / Naver Cloud / KT Cloud / SK Telec
 
 **Q: Is Korea building its own NPU?**
 A: Yes. Rebellions and FuriosaAI are the two leading Korean NPU / AI accelerator startups, with multiple-generation production at Samsung Foundry. DeepX and additional Korean startups participate at the edge-AI layer.
+
+**Q: Where should investors start with Korean robotics stocks?**
+A: Do not start only with finished humanoid makers. Break the value chain into reducers, actuators, cameras and sensors, batteries and assembly. The first measurable revenue from Samsung, Hyundai and LG's robotics roadmaps may appear in parts suppliers before pure robot manufacturers. See the [Korea Humanoid Robot Value Chain](/post/korea-robotics-value-chain-complete-map-2026-05-11/).
 
 ---
 
