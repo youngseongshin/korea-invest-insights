@@ -23,6 +23,8 @@ draft: false
 ---
 
 > 📚 **Series 5/6**: [Pearl Abyss × Crimson Desert Thesis — series hub →](/series/pearl-abyss-crimson-desert-thesis/)
+>
+> 🔄 **See actual print (2026-05-12)**: [1Q26 Comprehensive — OP ₩212.1bn (+48% vs consensus), Company Guidance FY26 OP ₩487.6-572.6bn](/post/pearl-abyss-1q26-earnings-guidance-comprehensive-2026-05-12/) — this post's revenue ₩395.0bn estimate ran -17% off; OP ₩205.0bn estimate ran +3%. The revenue-recognition assumption was the main driver of the divergence.
 
 *This post is the fifth entry in the series. Previously: [5M milestone and franchise re-rating](/post/pearl-abyss-crimson-desert-5m-franchise-thesis-2026-04-15/), [sell-side consensus gap](/post/pearl-abyss-crimson-desert-consensus-gap-thesis-2026-04-18/), [initial thesis](/post/pearl-abyss-investment-thesis-crimson-desert-q1-2026/), and [the BDO second-order catalyst the market missed](/post/pearl-abyss-black-desert-online-resurgence-2026-04-19/). This entry is the forward-looking one: what should the **1Q26 consolidated print actually look like**, given the official sales milestones and the 4Q25 cost base we already know?*
 

@@ -42,6 +42,8 @@ This hub is the starting map for the full Pearl Abyss / Crimson Desert research 
 
 | Date | Topic | Read |
 |---|---|---|
+| 2026-05-12 | **1Q26 Comprehensive** — OP ₩212.1bn (+48% vs consensus), OPM 64.6%; first-ever company guidance FY26 OP ₩487.6-572.6bn | [Pearl Abyss 1Q26 Comprehensive](/post/pearl-abyss-1q26-earnings-guidance-comprehensive-2026-05-12/) |
+| 2026-05-11 | Next Week's Korean Earnings Preview — Pearl Abyss #1 surprise candidate | [Earnings-Week Preview](/post/next-week-earnings-preview-pearl-abyss-surprise-2026-05-11/) |
 | 2026-04-30 | Non-core asset divestiture and treasury-share cancellation option | [Pearl Abyss CCP/EVE Divestiture: ₩177.1bn Cash Inflow and Treasury Cancellation](/post/pearl-abyss-ccp-eve-divestment-capital-return-2026-04-30/) |
 | 2026-04-29 | Shinhan target-price raise and 2027 sales assumptions | [Pearl Abyss Target Price Gap](/post/pearl-abyss-shinhan-target-price-gap-analysis-2026-04-29/) |
 | 2026-04-27 | KRW 60,000 support and retail-to-institutional handoff | [Pearl Abyss KRW 60,000 Support](/post/pearl-abyss-60k-new-support-retail-to-institutional-handoff-2026-04-27/) |

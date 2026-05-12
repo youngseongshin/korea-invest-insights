@@ -17,6 +17,8 @@ tags:
   - "earnings surprise"
 ---
 
+> 🔄 **Post-print update (2026-05-12)**: Pearl Abyss 1Q26 OP came in at ₩212.1bn, beating consensus ₩143.5bn by **+48%**. This post's "highest surprise probability" call held up. Detailed analysis, company guidance, and forward triggers are covered in the [1Q26 Comprehensive write-up](/post/pearl-abyss-1q26-earnings-guidance-comprehensive-2026-05-12/).
+
 *Ten major Korean listed companies report Q1 2026 earnings during May 11–15. Where is the largest gap between FnGuide consensus and likely actual? **Pearl Abyss tops the list.** Consensus operating profit is ₩143.5bn; some sell-side estimates run ₩254.7–₩275.2bn — a +75–92% gap. Crimson Desert sold 4 million units within 12 days of launch (March 20) and 5 million units within 26 days, with the bulk of Q1-attributable revenue landing in the period. **This isn't "modest beat" territory — it's "consensus is structurally wrong" territory.***
 
 ---
