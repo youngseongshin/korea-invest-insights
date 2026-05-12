@@ -16,8 +16,10 @@ tags:
   - "Korean equities"
 ---
 
-> 📚 **Korea robotics series.**
-> Previous: [Korea Robotics Value Chain — Samsung / Hyundai Motor / LG Moving in Parallel](/post/korea-robotics-value-chain-complete-map-2026-05-11/)
+> 📚 **Korea robotics series — Part 2.**
+> Part 1: [Korea Robotics Value Chain — Samsung / Hyundai Motor / LG Moving in Parallel](/post/korea-robotics-value-chain-complete-map-2026-05-11/)
+> Part 3: [Robotis vs. Rainbow Robotics — Humanoid Whole-Robot Compare](/post/robotis-vs-rainbow-robotics-humanoid-comparison-2026-05-12/)
+> Hub: [Korea Humanoid / Robotics Investment Hub](/page/korea-humanoid-robotics-hub/)
 
 *SPG appeared 5 times in the Korea-robotics value-chain piece — supplying reducers to Boston Dynamics, Rainbow Robotics, Samsung, and LG. Market cap ₩3.0tn, PER \~110×. Halla Cast more recently won a humanoid-component order from a "global AI automaker." Market cap ₩620bn, PER \~62×. Both are tagged as "robot names" — but the position in the value chain, the price, and the shape of the risk differ. Which is the better setup — more precisely, which carries less risk?*
 
