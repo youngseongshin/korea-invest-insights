@@ -5,6 +5,7 @@ date: 2026-05-03T11:00:00+09:00
 aliases: ["/korea-daily/", "/kospi/", "/kosdaq/", "/en/korea-daily/", "/en/page/korea-daily-market-hub/", "/es/page/korea-daily-market-hub/", "/vi/page/korea-daily-market-hub/", "/fr/page/korea-daily-market-hub/", "/ja/page/korea-daily-market-hub/", "/zh/page/korea-daily-market-hub/"]
 layout: "page"
 description: "A hub for Korean stock market daily updates — KOSPI and KOSDAQ market closes, weekly concentrated picks, foreign-investor flows, sector rotation, and what's actually moving in Korean equities each session. Direct answers to 'What is the Korean stock market doing today?' and similar queries."
+lastmod: 2026-05-12T23:58:00+09:00
 ---
 
 ## What This Hub Answers
@@ -13,7 +14,7 @@ Direct, search-engine-friendly answers to the questions global investors ask abo
 
 | Search Question | Quick Answer | Read |
 |---|---|---|
-| What is the Korean stock market doing today? | The most recent KR Daily Wrap covers the day's regime, sector rotation, foreign flows, and key disclosures. | [Latest KR Close Briefing](/post/kr-kr-close-briefing-2026-04-30/) |
+| What is the Korean stock market doing today? | The most recent Korea Daily Wrap covers the day's regime, sector rotation, foreign flows, and key disclosures. | [Latest Korea Daily Wrap](/post/kr-daily-wrap-2026-05-12/) |
 | What are this week's top Korean concentrated picks? | The Weekly Concentrated Strategy publishes Friday evening (KST) with 3–5 deep-dive picks. | [Latest Weekly Concentrated](/post/kr-concentrated-weekly-2026-04-24/) |
 | Are foreigners buying or selling Korean stocks? | Daily wraps include the foreigner / institutional / individual net-flow split for KOSPI and KOSDAQ. | [Recent Foreign Flow Analysis](/post/kr-kr-close-briefing-2026-04-27/) |
 | What is KOSPI? | The Korea Composite Stock Price Index — the main large-cap index of the Korea Exchange (similar role to the S&P 500). Top weights: Samsung Electronics, SK hynix, LG Energy Solution, Hyundai Motor, Samsung Biologics. | [Samsung Electronics Weight in KOSPI](/post/samsung-electronics-weight-in-kospi-index-2026/) |
@@ -30,7 +31,7 @@ Sequential reading for someone new to Korean equities — what to read in order 
 | Step | Question | Read |
 |---:|---|---|
 | 1 | Why is Korea outperforming in 2026? | [Korea Outperformance 2026: The Structural Re-Rating Backdrop](/post/korea-outperformance-2026-structural-rerating-2026-04-24/) |
-| 2 | What's actually driving the daily tape? | [Latest KR Close Briefing](/post/kr-kr-close-briefing-2026-04-30/) |
+| 2 | What's actually driving the daily tape? | [Latest Korea Daily Wrap](/post/kr-daily-wrap-2026-05-12/) |
 | 3 | Where is the high-conviction concentrated alpha? | [Latest Weekly Concentrated Strategy](/post/kr-concentrated-weekly-2026-04-24/) |
 | 4 | What's the deeper story on the largest names? | [Samsung Electronics Deep Dive](/post/kr-deep-dive-samsung-electronics-2026-04-16/) · [SK hynix Deep Dive](/post/kr-deep-dive-sk-hynix-2026-04-16/) |
 | 5 | Where are the un-priced KOSDAQ corners? | [KOSDAQ Coverage Gaps & Variant Perception](/post/kosdaq-coverage-gaps-variant-perception-2026-04-23/) |
@@ -41,17 +42,15 @@ Sequential reading for someone new to Korean equities — what to read in order 
 
 | Date | Theme | Read |
 |---|---|---|
-| 2026-05-12 | Morning selloff and rebound: AI citizen dividend, excess tax revenue and Korea semiconductor policy risk | [KOSPI May 12 selloff and rebound](/post/kospi-may-12-ai-citizen-dividend-tax-windfall-2026-05-12/) |
-| 2026-04-30 | End-of-month close + AI capex re-acceleration read | [KR Close Briefing 2026-04-30](/post/kr-kr-close-briefing-2026-04-30/) |
-| 2026-04-29 | Sell-side response to PA target raise + sector rotation | [Pearl Abyss target price gap analysis](/post/pearl-abyss-shinhan-target-price-gap-analysis-2026-04-29/) |
-| 2026-04-28 | Big-tech earnings setup + Hyundai Mobis read | [Korea Daily Wrap 2026-04-28](/post/kr-daily-wrap-2026-04-28/) |
-| 2026-04-27 | Bull-market 17 days, construction & defense leadership | [KR Close Briefing 2026-04-27](/post/kr-kr-close-briefing-2026-04-27/) |
-| 2026-04-25 | Foundry IP and AI inference theme | [OpenEdges Technology IP Platform](/post/semiscope-openedges-technology-ip-platform-2026-04-25/) |
-| 2026-04-24 | Korea Outperformance + concentrated week-end | [KOSPI Focus Stocks: April 2026 Strategy](/post/kr-concentrated-weekly-2026-04-24/) |
+| 2026-05-12 | Korea Quality Re-Rating Watch 2026-05-12: VM, Gigavis, TES — Smart Money on Earnings Inflection | [Korea Daily Wrap 2026-05-12](/post/kr-daily-wrap-2026-05-12/) |
+| 2026-05-08 | Korea Quality Re-Rating Watch 2026-05-08: RFHIC, Wonik IPS, HD Hyundai — Smart Money Lands on Quality | [Korea Daily Wrap 2026-05-08](/post/kr-daily-wrap-2026-05-08/) |
+| 2026-05-07 | Korea Quality Re-Rating Watch 2026-05-07: RFHIC Tops All 5 Screeners | [Korea Daily Wrap 2026-05-07](/post/kr-daily-wrap-2026-05-07/) |
+| 2026-05-06 | Korea Quality Re-Rating Watch May 6: SK Hynix, Hanwha & Protec Lead | [Korea Daily Wrap 2026-05-06](/post/kr-daily-wrap-2026-05-06/) |
+| 2026-05-05 | Korea Quality Re-Rating Watch 2026-05-05: SK Hynix, Samsung Electronics & Boseong Powertec — Memory Leads, Power Holds | [Korea Daily Wrap 2026-05-05](/post/kr-daily-wrap-2026-05-05/) |
+| 2026-05-04 | Korea Quality Re-Rating Watch 2026-05-04: SK Hynix, Bossung Powertech & Pamcell — Smart Money Storms KOSPI | [Korea Daily Wrap 2026-05-04](/post/kr-daily-wrap-2026-05-04/) |
+| 2026-05-01 | Korea Quality Re-Rating Watch 2026-05-01: Sanil Electric, Lino Industrial & HD Hyundai Energy Solutions — Smart Money Meets Earnings Inflection | [Korea Daily Wrap 2026-05-01](/post/kr-daily-wrap-2026-05-01/) |
 
 For older daily wraps, see [Archives](/page/archives).
-
----
 
 ## Weekly Concentrated Strategy
 
