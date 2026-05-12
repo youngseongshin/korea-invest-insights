@@ -30,6 +30,8 @@ Korean semiconductor exposure is not one trade. It combines **SK Hynix's HBM lea
 
 | Date | Topic | Read |
 |---|---|---|
+| 2026-05-11 | **Citi Samsung Electronics TP ₩460,000** — 1Q DS margin 65.7%; the claim is that the memory-cycle frame itself is wrong this time | [Samsung Citi TP ₩460,000 — Memory Re-rating](/post/samsung-electronics-citi-tp-460000-memory-rerating-2026-05-11/) |
+| 2026-05-09 | Why Korea Part 3 — Samsung / SK hynix ₩300tn+ profit pool upgrading Korean fiscal capacity | [Why Korea Part 3](/post/samsung-sk-hynix-korea-ai-economy-rerating-2026-05-09/) |
 | 2026-05-07 | May 6 rally — Samsung +14.4% / SK Hynix +10.6%, ₩3.1T foreign buying, two-stage spread to substrate + equipment | [Korean Semis Rally May 6](/post/korean-semis-rally-may-6-samsung-sk-hynix-substrate-equipment-2026-05-07/) |
 
 ---
