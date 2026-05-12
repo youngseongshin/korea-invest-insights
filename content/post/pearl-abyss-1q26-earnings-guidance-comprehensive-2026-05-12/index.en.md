@@ -20,6 +20,7 @@ tags:
 > Earlier: [Earnings-Week Setup (5/11) — Consensus ₩143.5bn but Likely ₩250bn+ Actual](/post/next-week-earnings-preview-pearl-abyss-surprise-2026-05-11/)
 >
 > 🔗 **Related**: [Pearl Abyss Hub — 263750 Price / Target / Crimson Desert Analysis](/page/pearl-abyss-crimson-desert-hub/) · [CCP / EVE Divestment](/post/pearl-abyss-ccp-eve-divestment-capital-return-2026-04-30/) · [Shinhan Target-Price Gap Analysis](/post/pearl-abyss-shinhan-target-price-gap-analysis-2026-04-29/)
+> Follow-up: [Pearl Abyss May 21 IR Watch — Capital Return, DLC and DokeV Decide the Next Re-Rating](/post/pearl-abyss-521-ir-capital-return-dlc-dokev-2026-05-12/)
 
 *Pearl Abyss released 1Q26 earnings together with its first-ever quantitative annual guidance. The headline: OP ₩212.1bn beat consensus by +48%, and the company set FY26 OP at ₩487.6-572.6bn. 2Q Crimson Desert revenue guidance of ₩224.2-276.5bn (-16% to +4% vs. 1Q) directly rebuts the market's "1Q boom → 2Q cliff" fear. The arithmetic that has to land for the guidance to be confirmed is still ahead.*
 

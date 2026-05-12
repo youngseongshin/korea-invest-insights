@@ -20,6 +20,7 @@ tags:
 > 이전 글: [실적 주간편 (5/11) — 시장 예상 1,435억인데 실제는 2,500억일 수 있다](/ko/post/next-week-earnings-preview-pearl-abyss-surprise-2026-05-11/)
 >
 > 🔗 **함께 읽기**: [펄어비스 허브 — 263750 주가·목표가·붉은사막 분석](/ko/page/pearl-abyss-crimson-desert-hub/) · [CCP/EVE 매각 분석](/ko/post/pearl-abyss-ccp-eve-divestment-capital-return-2026-04-30/) · [신한 목표가 갭](/ko/post/pearl-abyss-shinhan-target-price-gap-analysis-2026-04-29/)
+> 후속 글: [펄어비스 5월 21일 IR 체크포인트 — 주주환원·DLC·도깨비가 리레이팅을 결정한다](/ko/post/pearl-abyss-521-ir-capital-return-dlc-dokev-2026-05-12/)
 
 *펄어비스가 1분기 실적과 함께 처음으로 정량적 연간 전망을 내놨다. 숫자만 보면 명확하다 — 영업이익 2,121억원은 시장 예상을 48% 넘겼고, 회사는 2026년 전체 영업이익을 4,876\~5,726억원으로 제시했다. 2분기 붉은사막 매출도 1분기 대비 급락이 아니라 유지 구간을 가정했다. '1분기 대박 → 2분기 절벽'이라는 시장의 공포를 정면으로 반박한 것이다. 다만 이 숫자들이 실제로 달성되려면 확인해야 할 것이 남아 있다.*
 
