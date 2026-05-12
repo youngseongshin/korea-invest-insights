@@ -1,7 +1,6 @@
 ---
 title: "À propos"
 slug: "about"
-aliases: ["/about/"]
 layout: "page"
 ---
 
@@ -40,7 +39,7 @@ Un **blog multilingue d'intelligence du marché coréen** animé par un investis
 ### S'abonner
 
 - 📱 **Telegram** : [@korea_invest_insights](https://t.me/korea_invest_insights) — Alertes nouvelles publications
-- 📡 **RSS** : [S'abonner au flux](/fr/feed/)
+- 📡 **RSS** : [S'abonner au flux](/fr/feed.xml)
 - 💬 **Commentaires** : Giscus en bas de chaque article (compte GitHub requis)
 
 ---

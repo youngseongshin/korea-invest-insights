@@ -1,7 +1,6 @@
 ---
 title: "Giới thiệu"
 slug: "about"
-aliases: ["/about/"]
 layout: "page"
 ---
 
@@ -40,7 +39,7 @@ layout: "page"
 ### Đăng ký & Kết nối
 
 - 📱 **Telegram**: [@korea_invest_insights](https://t.me/korea_invest_insights) — Thông báo bài viết mới
-- 📡 **RSS**: [Đăng ký feed](/vi/feed/)
+- 📡 **RSS**: [Đăng ký feed](/vi/feed.xml)
 - 💬 **Bình luận**: Giscus ở cuối mỗi bài viết (cần tài khoản GitHub)
 
 ---

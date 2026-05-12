@@ -23,7 +23,7 @@ draft: false
 
 ---
 
-*Esta entrada forma parte de la serie [Pearl Abyss Crimson Desert Thesis](/series/pearl-abyss-crimson-desert-thesis/). Para la tesis de revalorización de la IP como franquicia, consulta la entrada anterior [Pearl Abyss: Crimson Desert conquista China — 86% en Steam y 4M de copias vendidas](/posts/kr-deep-dive-pearl-abyss-crimson-desert-china-2026-04-04/). Ese análisis examinó la penetración en el mercado chino y la confirmación del éxito a escala de producción. Esta entrada se centra en una pregunta diferente: ¿por qué el consenso del lado vendedor sigue rezagado, y qué implica analíticamente esa brecha?*
+*Esta entrada forma parte de la serie [Pearl Abyss Crimson Desert Thesis](/series/pearl-abyss-crimson-desert-thesis/). Para la tesis de revalorización de la IP como franquicia, consulta la entrada anterior [Pearl Abyss: Crimson Desert conquista China — 86% en Steam y 4M de copias vendidas](/post/kr-deep-dive-pearl-abyss-crimson-desert-china-2026-04-04/). Ese análisis examinó la penetración en el mercado chino y la confirmación del éxito a escala de producción. Esta entrada se centra en una pregunta diferente: ¿por qué el consenso del lado vendedor sigue rezagado, y qué implica analíticamente esa brecha?*
 
 ---
 
@@ -184,7 +184,7 @@ El alfa, en este tipo de situación, tiende a emerger no de una información sup
 
 ---
 
-*Lectura relacionada de esta serie: [Pearl Abyss: Crimson Desert conquista China — 86% en Steam y 4M de copias vendidas](/posts/kr-deep-dive-pearl-abyss-crimson-desert-china-2026-04-04/) — tesis de revalorización de la IP como franquicia y reapertura del mercado chino.*
+*Lectura relacionada de esta serie: [Pearl Abyss: Crimson Desert conquista China — 86% en Steam y 4M de copias vendidas](/post/kr-deep-dive-pearl-abyss-crimson-desert-china-2026-04-04/) — tesis de revalorización de la IP como franquicia y reapertura del mercado chino.*
 
 ---
 

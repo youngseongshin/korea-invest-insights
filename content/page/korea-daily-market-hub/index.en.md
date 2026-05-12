@@ -2,7 +2,7 @@
 title: "Korea Daily Market Hub: KOSPI, KOSDAQ, Daily Wraps and Weekly Concentrated Strategy"
 slug: "korea-daily-market-hub"
 date: 2026-05-03T11:00:00+09:00
-aliases: ["/korea-daily/", "/kospi/", "/kosdaq/", "/en/korea-daily/", "/en/page/korea-daily-market-hub/"]
+aliases: ["/korea-daily/", "/kospi/", "/kosdaq/", "/en/korea-daily/", "/en/page/korea-daily-market-hub/", "/es/page/korea-daily-market-hub/", "/vi/page/korea-daily-market-hub/", "/fr/page/korea-daily-market-hub/", "/ja/page/korea-daily-market-hub/", "/zh/page/korea-daily-market-hub/"]
 layout: "page"
 description: "A hub for Korean stock market daily updates — KOSPI and KOSDAQ market closes, weekly concentrated picks, foreign-investor flows, sector rotation, and what's actually moving in Korean equities each session. Direct answers to 'What is the Korean stock market doing today?' and similar queries."
 ---
@@ -42,11 +42,11 @@ Sequential reading for someone new to Korean equities — what to read in order 
 | Date | Theme | Read |
 |---|---|---|
 | 2026-04-30 | End-of-month close + AI capex re-acceleration read | [KR Close Briefing 2026-04-30](/post/kr-kr-close-briefing-2026-04-30/) |
-| 2026-04-29 | Sell-side response to PA target raise + sector rotation | [KR Close Briefing 2026-04-29](/post/kr-kr-close-briefing-2026-04-29/) |
-| 2026-04-28 | Big-tech earnings setup + Hyundai Mobis read | [KR Close Briefing 2026-04-28](/post/kr-kr-close-briefing-2026-04-28/) |
+| 2026-04-29 | Sell-side response to PA target raise + sector rotation | [Pearl Abyss target price gap analysis](/post/pearl-abyss-shinhan-target-price-gap-analysis-2026-04-29/) |
+| 2026-04-28 | Big-tech earnings setup + Hyundai Mobis read | [Korea Daily Wrap 2026-04-28](/post/kr-daily-wrap-2026-04-28/) |
 | 2026-04-27 | Bull-market 17 days, construction & defense leadership | [KR Close Briefing 2026-04-27](/post/kr-kr-close-briefing-2026-04-27/) |
-| 2026-04-25 | Foundry IP and AI inference theme | [KR Close Briefing 2026-04-25](/post/kr-kr-close-briefing-2026-04-25/) |
-| 2026-04-24 | Korea Outperformance + concentrated week-end | [KR Close Briefing 2026-04-24](/post/kr-kr-close-briefing-2026-04-24/) |
+| 2026-04-25 | Foundry IP and AI inference theme | [OpenEdges Technology IP Platform](/post/semiscope-openedges-technology-ip-platform-2026-04-25/) |
+| 2026-04-24 | Korea Outperformance + concentrated week-end | [KOSPI Focus Stocks: April 2026 Strategy](/post/kr-concentrated-weekly-2026-04-24/) |
 
 For older daily wraps, see [Archives](/page/archives).
 

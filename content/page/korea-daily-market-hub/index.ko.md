@@ -42,11 +42,11 @@ description: "한국 주식시장 일일 업데이트 허브 — KOSPI / KOSDAQ 
 | 날짜 | 주제 | 읽을 글 |
 |---|---|---|
 | 2026-04-30 | 월말 마감 + AI capex 재가속 해석 | [장마감 브리핑 2026-04-30](/ko/post/kr-kr-close-briefing-2026-04-30/) |
-| 2026-04-29 | 펄어비스 목표가 상향에 대한 셀사이드 반응 | [장마감 브리핑 2026-04-29](/ko/post/kr-kr-close-briefing-2026-04-29/) |
-| 2026-04-28 | 빅테크 실적 셋업 + 현대모비스 해석 | [장마감 브리핑 2026-04-28](/ko/post/kr-kr-close-briefing-2026-04-28/) |
+| 2026-04-29 | 펄어비스 목표가 상향에 대한 셀사이드 반응 | [펄어비스 목표가 갭 분석](/ko/post/pearl-abyss-shinhan-target-price-gap-analysis-2026-04-29/) |
+| 2026-04-28 | 빅테크 실적 셋업 + 현대모비스 해석 | [Korea Daily Wrap 2026-04-28](/ko/post/kr-daily-wrap-2026-04-28/) |
 | 2026-04-27 | 불마켓 17일차, 건설·방산 주도 | [장마감 브리핑 2026-04-27](/ko/post/kr-kr-close-briefing-2026-04-27/) |
-| 2026-04-25 | 파운드리 IP와 AI 추론 테마 | [장마감 브리핑 2026-04-25](/ko/post/kr-kr-close-briefing-2026-04-25/) |
-| 2026-04-24 | 한국 아웃퍼포먼스 + 집중 주간 마감 | [장마감 브리핑 2026-04-24](/ko/post/kr-kr-close-briefing-2026-04-24/) |
+| 2026-04-25 | 파운드리 IP와 AI 추론 테마 | [오픈엣지테크놀로지 IP 플랫폼](/ko/post/semiscope-openedges-technology-ip-platform-2026-04-25/) |
+| 2026-04-24 | 한국 아웃퍼포먼스 + 집중 주간 마감 | [KOSPI Focus Stocks: April 2026 Strategy](/ko/post/kr-concentrated-weekly-2026-04-24/) |
 
 이전 일일 브리핑은 [아카이브](/ko/page/archives)에서 확인할 수 있습니다.
 
@@ -61,7 +61,7 @@ description: "한국 주식시장 일일 업데이트 허브 — KOSPI / KOSDAQ 
 | 2026-04-24 | [주간 집중 2026-04-24](/ko/post/kr-concentrated-weekly-2026-04-24/) |
 | 2026-04-17 | [주간 집중 2026-04-17](/ko/post/kr-concentrated-weekly-2026-04-17/) |
 | 2026-04-10 | [주간 집중 2026-04-10](/ko/post/kr-concentrated-weekly-2026-04-10/) |
-| 2026-04-03 | [주간 집중 2026-04-03](/ko/post/kr-concentrated-weekly-2026-04-03/) |
+| 2026-04-03 | [주간 집중 2026-04-03](/post/kr-concentrated-weekly-2026-04-03/) |
 
 ---
 

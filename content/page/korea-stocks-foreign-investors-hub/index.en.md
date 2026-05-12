@@ -2,7 +2,7 @@
 title: "Korea Stocks for Foreign Investors: IBKR, KOSPI, KOSDAQ and Sector Research Hub"
 slug: "korea-stocks-foreign-investors-hub"
 date: 2026-05-07T00:40:00+09:00
-aliases: ["/korea-stocks/", "/korean-stocks/", "/ibkr-korea-stocks/", "/foreign-investors-korea/", "/en/korea-stocks/", "/en/korean-stocks/", "/en/ibkr-korea-stocks/", "/en/page/korea-stocks-foreign-investors-hub/"]
+aliases: ["/korea-stocks/", "/korean-stocks/", "/ibkr-korea-stocks/", "/foreign-investors-korea/", "/en/korea-stocks/", "/en/korean-stocks/", "/en/ibkr-korea-stocks/", "/en/page/korea-stocks-foreign-investors-hub/", "/es/page/korea-stocks-foreign-investors-hub/", "/vi/page/korea-stocks-foreign-investors-hub/", "/fr/page/korea-stocks-foreign-investors-hub/", "/ja/page/korea-stocks-foreign-investors-hub/", "/zh/page/korea-stocks-foreign-investors-hub/"]
 layout: "page"
 description: "A foreign-investor guide to Korean stocks: IBKR and international-broker access, KOSPI, KOSDAQ, Samsung Electronics, SK Hynix, Pearl Abyss, Korean financials, AI hardware, K-beauty and daily market research."
 ---

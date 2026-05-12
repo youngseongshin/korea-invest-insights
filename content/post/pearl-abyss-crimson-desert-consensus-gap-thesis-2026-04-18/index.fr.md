@@ -23,7 +23,7 @@ draft: false
 
 ---
 
-*Cet article fait partie de la série [Pearl Abyss Crimson Desert Thesis](/series/pearl-abyss-crimson-desert-thesis/). Pour la thèse de réévaluation de l'IP franchise, voir l'article précédent [Pearl Abyss : Crimson Desert à la Conquête de la Chine — 86% sur Steam & 4M d'Exemplaires Vendus](/posts/kr-deep-dive-pearl-abyss-crimson-desert-china-2026-04-04/). Ce premier article analysait la percée sur le marché chinois et la confirmation du succès commercial. Le présent article se penche sur une question différente : pourquoi le consensus côté vendeur accuse-t-il toujours un retard, et que signifie analytiquement cet écart ?*
+*Cet article fait partie de la série [Pearl Abyss Crimson Desert Thesis](/series/pearl-abyss-crimson-desert-thesis/). Pour la thèse de réévaluation de l'IP franchise, voir l'article précédent [Pearl Abyss : Crimson Desert à la Conquête de la Chine — 86% sur Steam & 4M d'Exemplaires Vendus](/post/kr-deep-dive-pearl-abyss-crimson-desert-china-2026-04-04/). Ce premier article analysait la percée sur le marché chinois et la confirmation du succès commercial. Le présent article se penche sur une question différente : pourquoi le consensus côté vendeur accuse-t-il toujours un retard, et que signifie analytiquement cet écart ?*
 
 ---
 
@@ -184,7 +184,7 @@ L'alpha, dans ce type de situation, tend à émerger non pas d'une meilleure inf
 
 ---
 
-*Lecture complémentaire dans cette série : [Pearl Abyss : Crimson Desert à la Conquête de la Chine — 86% sur Steam & 4M d'Exemplaires Vendus](/posts/kr-deep-dive-pearl-abyss-crimson-desert-china-2026-04-04/) — thèse sur l'IP franchise et réévaluation du marché chinois.*
+*Lecture complémentaire dans cette série : [Pearl Abyss : Crimson Desert à la Conquête de la Chine — 86% sur Steam & 4M d'Exemplaires Vendus](/post/kr-deep-dive-pearl-abyss-crimson-desert-china-2026-04-04/) — thèse sur l'IP franchise et réévaluation du marché chinois.*
 
 ---
 

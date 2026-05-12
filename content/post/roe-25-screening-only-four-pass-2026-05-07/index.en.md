@@ -143,7 +143,7 @@ P/E 21.1× → not yet expensively priced
 Foreign+Inst 20D +₩53.7bn → flow strongest in cohort
 ```
 
-Pamicell was already analyzed in [Series Part 3](/post/pamicell-peer-matrix-quality-garp-2026-05-03/) with a GARP Score of 150 (top of the materials-stock universe). The fact that it also clears this independent ROE-25%-multi-factor screen means **the appeal holds across very different filter logic** — quality + price + flow as a distinct lens from the original GARP composite.
+Pamicell was already analyzed in [Series Part 3](/post/pamicell-four-layer-progress-and-fifth-cycle-layer-2026-05-03/) with a GARP Score of 150 (top of the materials-stock universe). The fact that it also clears this independent ROE-25%-multi-factor screen means **the appeal holds across very different filter logic** — quality + price + flow as a distinct lens from the original GARP composite.
 
 That said, 20-day return +36.7% raises near-term overheating risk. The right posture is "wait for pullback or scale in after 1Q earnings confirm" rather than "full conviction now."
 
@@ -293,7 +293,7 @@ The screen is "look at this name more deeply," not "buy this name." That four cl
 ### 8.1 Pamicell (Focus Candidate)
 - ₩19,000–20,000 holding as support
 - 1Q26 OP ≥₩11.5bn with OPM ≥30%
-- Same tracking variables as [Series Part 3](/post/pamicell-peer-matrix-quality-garp-2026-05-03/)
+- Same tracking variables as [Series Part 3](/post/pamicell-four-layer-progress-and-fifth-cycle-layer-2026-05-03/)
 
 ### 8.2 Silicon2 (Quality Candidate)
 - ₩41,500–43,000 holding as support

@@ -23,7 +23,7 @@ draft: false
 
 ---
 
-*本文为 [Pearl Abyss Crimson Desert Thesis](/series/pearl-abyss-crimson-desert-thesis/) 系列的组成部分。关于特许经营IP重估论点，请参阅此前发布的文章 [Pearl Abyss：Crimson Desert征服中国市场——Steam好评率86%，销量突破400万份](/posts/kr-deep-dive-pearl-abyss-crimson-desert-china-2026-04-04/)。该文着重分析了中国市场的突破态势与产品层面的成功验证。本文聚焦于一个不同的问题：卖方机构共识为何仍然滞后，这一缺口在分析层面意味着什么？*
+*本文为 [Pearl Abyss Crimson Desert Thesis](/series/pearl-abyss-crimson-desert-thesis/) 系列的组成部分。关于特许经营IP重估论点，请参阅此前发布的文章 [Pearl Abyss：Crimson Desert征服中国市场——Steam好评率86%，销量突破400万份](/post/kr-deep-dive-pearl-abyss-crimson-desert-china-2026-04-04/)。该文着重分析了中国市场的突破态势与产品层面的成功验证。本文聚焦于一个不同的问题：卖方机构共识为何仍然滞后，这一缺口在分析层面意味着什么？*
 
 ---
 
@@ -184,7 +184,7 @@ Pearl Abyss调控减速的能力取决于内容日历——重大更新补丁、
 
 ---
 
-*系列相关阅读：[Pearl Abyss：Crimson Desert征服中国市场——Steam好评率86%，销量突破400万份](/posts/kr-deep-dive-pearl-abyss-crimson-desert-china-2026-04-04/)——特许经营IP论点与中国市场重估分析。*
+*系列相关阅读：[Pearl Abyss：Crimson Desert征服中国市场——Steam好评率86%，销量突破400万份](/post/kr-deep-dive-pearl-abyss-crimson-desert-china-2026-04-04/)——特许经营IP论点与中国市场重估分析。*
 
 ---
 

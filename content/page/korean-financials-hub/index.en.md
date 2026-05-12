@@ -2,7 +2,7 @@
 title: "Korean Financials Hub: Capital-Buyback Compounding, ROE / PBR Matrix, and the Transit Between Peaks"
 slug: "korean-financials-hub"
 date: 2026-05-03T22:30:00+09:00
-aliases: ["/korean-financials/", "/k-financials/", "/value-up/", "/en/korean-financials/", "/en/page/korean-financials-hub/"]
+aliases: ["/korean-financials/", "/k-financials/", "/value-up/", "/en/korean-financials/", "/en/page/korean-financials-hub/", "/es/page/korean-financials-hub/", "/vi/page/korean-financials-hub/", "/fr/page/korean-financials-hub/", "/ja/page/korean-financials-hub/", "/zh/page/korean-financials-hub/"]
 layout: "page"
 description: "A hub for Korean financial stocks under the new Value-up regime — KB Financial, Shinhan, Hana, Woori, Meritz, Kiwoom, DB Insurance, Korea Investment Holdings, Mirae Asset Venture. Direct answers to 'Is KB Financial publicly traded?', 'What is Korea Value-up 2.0?', 'Who has the highest ROE in Korean banks?', and the full series mapping the three peaks (capital cancellation / capital turnover / foreign access) and the transit between them."
 ---

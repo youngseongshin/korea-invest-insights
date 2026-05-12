@@ -143,7 +143,7 @@ P/E 21,1× → pas encore valorisée trop cher
 Flux étrangers+inst. 20J +₩53,7 Mds → flux le plus fort de la cohorte
 ```
 
-Pamicell a déjà été analysée dans la [Partie 3 de la Série](/post/pamicell-peer-matrix-quality-garp-2026-05-03/) avec un Score GARP de 150 (sommet de l'univers valeurs-matériaux). Le fait qu'elle passe également cet écran multi-facteurs ROE-25% indépendant signifie que **l'attrait se maintient à travers des logiques de filtres très différentes** — qualité + valorisation + flux comme prisme distinct du composite GARP original.
+Pamicell a déjà été analysée dans la [Partie 3 de la Série](/post/pamicell-four-layer-progress-and-fifth-cycle-layer-2026-05-03/) avec un Score GARP de 150 (sommet de l'univers valeurs-matériaux). Le fait qu'elle passe également cet écran multi-facteurs ROE-25% indépendant signifie que **l'attrait se maintient à travers des logiques de filtres très différentes** — qualité + valorisation + flux comme prisme distinct du composite GARP original.
 
 Cela dit, un rendement sur 20 jours de +36,7% soulève un risque de surchauffe à court terme. La bonne posture est « attendre un repli ou rentrer progressivement après confirmation des résultats T1 » plutôt que « conviction totale maintenant ».
 
@@ -293,7 +293,7 @@ L'écran signifie « regarder cette valeur de plus près », pas « acheter cett
 ### 8.1 Pamicell (Candidat Principal)
 - ₩19 000–20 000 tenant comme support
 - RO T1 2026 ≥₩11,5 Mds avec marge op. ≥30%
-- Mêmes variables de suivi que la [Partie 3 de la Série](/post/pamicell-peer-matrix-quality-garp-2026-05-03/)
+- Mêmes variables de suivi que la [Partie 3 de la Série](/post/pamicell-four-layer-progress-and-fifth-cycle-layer-2026-05-03/)
 
 ### 8.2 Silicon2 (Candidat Qualité)
 - ₩41 500–43 000 tenant comme support

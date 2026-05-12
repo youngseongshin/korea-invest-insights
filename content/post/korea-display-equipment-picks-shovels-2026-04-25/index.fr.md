@@ -1,7 +1,6 @@
 ---
 title: "Actions d'équipements d'affichage en Corée : faiblesse de BOE et capex OLED"
 slug: korea-display-equipment-picks-shovels-2026-04-25
-aliases: ["/en/post/korea-display-equipment-picks-shovels-2026-04-25/"]
 date: 2026-04-25T09:00:00+09:00
 description: "Le taux d'utilisation de la ligne Apple de BOE s'est effondré de 82 % à 48 %. Les fabricants de panneaux coréens font les gros titres. Mais le vrai alpha se trouve un niveau plus bas — les fournisseurs d'équipements et de matériaux exposés à la fois au cycle d'investissement 8,6G OLED en Chine ET au cycle des semi-conducteurs HBM/DDR5. AP System (265520), Soulbrain (357780), Dongjin Semichem (005290)."
 categories: ["Chaîne d'approvisionnement technologique coréenne", "Équipements et matériaux"]

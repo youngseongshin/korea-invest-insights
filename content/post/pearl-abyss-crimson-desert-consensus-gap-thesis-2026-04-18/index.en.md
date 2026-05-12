@@ -24,7 +24,7 @@ draft: false
 
 ---
 
-*This post is part of the [Pearl Abyss Crimson Desert Thesis](/series/pearl-abyss-crimson-desert-thesis/) series. For the franchise IP re-rating thesis, see the earlier post [Pearl Abyss: Crimson Desert Conquers China — 86% Steam Rating & 4M Copies Sold](/posts/kr-deep-dive-pearl-abyss-crimson-desert-china-2026-04-04/). That post examined the China market breakthrough and production-level success confirmation. This post focuses on a different question: why does sell-side consensus still lag, and what does that gap mean analytically?*
+*This post is part of the [Pearl Abyss Crimson Desert Thesis](/series/pearl-abyss-crimson-desert-thesis/) series. For the franchise IP re-rating thesis, see the earlier post [Pearl Abyss: Crimson Desert Conquers China — 86% Steam Rating & 4M Copies Sold](/post/kr-deep-dive-pearl-abyss-crimson-desert-china-2026-04-04/). That post examined the China market breakthrough and production-level success confirmation. This post focuses on a different question: why does sell-side consensus still lag, and what does that gap mean analytically?*
 
 ---
 
@@ -185,7 +185,7 @@ Alpha, in this type of situation, tends to emerge not from better information bu
 
 ---
 
-*Related reading in this series: [Pearl Abyss: Crimson Desert Conquers China — 86% Steam Rating & 4M Copies Sold](/posts/kr-deep-dive-pearl-abyss-crimson-desert-china-2026-04-04/) — franchise IP thesis and China market re-rating.*
+*Related reading in this series: [Pearl Abyss: Crimson Desert Conquers China — 86% Steam Rating & 4M Copies Sold](/post/kr-deep-dive-pearl-abyss-crimson-desert-china-2026-04-04/) — franchise IP thesis and China market re-rating.*
 
 ---
 

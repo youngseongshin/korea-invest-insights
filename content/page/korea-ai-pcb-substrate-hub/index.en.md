@@ -2,7 +2,7 @@
 title: "AI PCB and Substrate Investment Hub: FC-BGA, CCL, Samsung Electro-Mechanics, Daeduck, Pamicell"
 slug: "korea-ai-pcb-substrate-hub"
 date: 2026-05-05T23:20:00+09:00
-aliases: ["/ai-pcb/", "/pcb/", "/fc-bga/", "/ccl/", "/ai-substrate/", "/en/ai-pcb/", "/en/page/korea-ai-pcb-substrate-hub/"]
+aliases: ["/ai-pcb/", "/pcb/", "/fc-bga/", "/ccl/", "/ai-substrate/", "/en/ai-pcb/", "/en/page/korea-ai-pcb-substrate-hub/", "/es/page/korea-ai-pcb-substrate-hub/", "/vi/page/korea-ai-pcb-substrate-hub/", "/fr/page/korea-ai-pcb-substrate-hub/", "/ja/page/korea-ai-pcb-substrate-hub/", "/zh/page/korea-ai-pcb-substrate-hub/"]
 layout: "page"
 description: "A research hub for Korean AI PCB and substrate exposure: FC-BGA, MLB, CCL, low-dielectric materials, Samsung Electro-Mechanics, Daeduck Electronics, Doosan Electronic BG, Kolon Industries and Pamicell."
 ---

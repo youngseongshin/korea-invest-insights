@@ -137,7 +137,7 @@ PER 21.1배 → 아직 비싸지 않다
 외인+기관 20D +537억 → 4종목 중 수급 1위
 ```
 
-파미셀은 [시리즈 3편](/ko/post/pamicell-peer-matrix-quality-garp-2026-05-03/)에서 이미 GARP Score 150(소재주 universe 단일 최상위)으로 분석했다. 이번 ROE 25% 스크리닝에서도 통과했다는 건 '품질 + 가격 + 수급'이라는 전혀 다른 잣대로 봐도 매력이 남아 있다는 뜻이다.
+파미셀은 [시리즈 3편](/ko/post/pamicell-four-layer-progress-and-fifth-cycle-layer-2026-05-03/)에서 이미 GARP Score 150(소재주 universe 단일 최상위)으로 분석했다. 이번 ROE 25% 스크리닝에서도 통과했다는 건 '품질 + 가격 + 수급'이라는 전혀 다른 잣대로 봐도 매력이 남아 있다는 뜻이다.
 
 다만 20일 수익률 +36.7%는 단기 과열 가능성. 지금은 '풀매수'보다 '눌림 대기 또는 1Q 실적 확인 후 비중 확대'가 더 나은 자리다.
 
@@ -287,7 +287,7 @@ HD현대마린엔진은 PER 0.7배 차이. 공격형 장세에서 PER 기준을 
 ### 8.1 파미셀 (Focus 후보)
 * 19,000\~20,000원 지지 확인
 * 1Q26 OP 115억 이상, OPM 30% 이상
-* [시리즈 3편](/ko/post/pamicell-peer-matrix-quality-garp-2026-05-03/)의 추적 변수와 동일
+* [시리즈 3편](/ko/post/pamicell-four-layer-progress-and-fifth-cycle-layer-2026-05-03/)의 추적 변수와 동일
 
 ### 8.2 실리콘투 (Quality 후보)
 * 41,500\~43,000원 지지 확인

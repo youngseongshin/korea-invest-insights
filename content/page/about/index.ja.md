@@ -1,7 +1,6 @@
 ---
 title: "このサイトについて"
 slug: "about"
-aliases: ["/about/"]
 layout: "page"
 ---
 
@@ -40,7 +39,7 @@ layout: "page"
 ### 購読・フォロー
 
 - 📱 **Telegram**: [@korea_invest_insights](https://t.me/korea_invest_insights) — 新着記事通知
-- 📡 **RSS**: [フィード購読](/ja/feed/)
+- 📡 **RSS**: [フィード購読](/ja/feed.xml)
 - 💬 **コメント**: 各記事下部のGiscus（GitHubアカウント必要）
 
 ---

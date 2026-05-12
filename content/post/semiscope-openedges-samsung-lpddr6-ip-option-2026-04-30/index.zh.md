@@ -1,7 +1,6 @@
 ---
 title: "OpenEdges Technology分析：三星4/5/8nm LPDDR6与LPDDR5X存储IP受益机会"
 slug: semiscope-openedges-samsung-lpddr6-ip-option-2026-04-30
-aliases: ["/en/post/semiscope-openedges-samsung-lpddr6-ip-option-2026-04-30/"]
 date: 2026-04-30T12:00:00+09:00
 description: "OpenEdges Technology（394280 KQ）是观察三星4/5/8nm LPDDR5X/LPDDR6存储子系统IP需求的重要公司。本篇SemiScope后续报告回顾其产品护城河、子公司结构、稀释效应、估值，以及在加仓前需确认的关键里程碑。"
 categories: ["韩国科技供应链", "半导体IP"]

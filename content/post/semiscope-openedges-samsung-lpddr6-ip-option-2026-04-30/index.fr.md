@@ -1,7 +1,6 @@
 ---
 title: "OpenEdges Technology : potentiel des IP mémoire LPDDR6 et LPDDR5X sur Samsung 4/5/8nm"
 slug: semiscope-openedges-samsung-lpddr6-ip-option-2026-04-30
-aliases: ["/en/post/semiscope-openedges-samsung-lpddr6-ip-option-2026-04-30/"]
 date: 2026-04-30T12:00:00+09:00
 description: "OpenEdges Technology (394280 KQ) offre un angle ciblé pour analyser la demande d'IP de sous-système mémoire LPDDR5X/LPDDR6 sur les nœuds Samsung 4/5/8nm. Ce suivi SemiScope passe en revue le fossé produit, la structure des filiales, la dilution, la valorisation et les jalons nécessaires avant tout renforcement de position."
 categories: ["Chaîne d'approvisionnement tech coréenne", "IP semi-conducteur"]

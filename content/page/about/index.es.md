@@ -1,7 +1,6 @@
 ---
 title: "Acerca de"
 slug: "about"
-aliases: ["/about/"]
 layout: "page"
 ---
 
@@ -40,7 +39,7 @@ Un **blog multilingue de inteligencia del mercado coreano** dirigido por un inve
 ### Suscríbete
 
 - 📱 **Telegram**: [@korea_invest_insights](https://t.me/korea_invest_insights) — Alertas de nuevas publicaciones
-- 📡 **RSS**: [Suscribirse al feed](/feed/)
+- 📡 **RSS**: [Suscribirse al feed](/feed.xml)
 - 💬 **Comentarios**: Giscus al final de cada publicación (requiere cuenta de GitHub)
 
 ---

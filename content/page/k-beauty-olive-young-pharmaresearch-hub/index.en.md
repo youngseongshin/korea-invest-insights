@@ -2,7 +2,7 @@
 title: "Olive Young, PharmaResearch and K-Beauty Investment Hub"
 slug: "k-beauty-olive-young-pharmaresearch-hub"
 date: 2026-04-30T23:05:00+09:00
-aliases: ["/k-beauty/", "/olive-young/", "/pharmaresearch/", "/rejuran/", "/en/k-beauty/", "/en/olive-young/", "/en/pharmaresearch/", "/en/rejuran/", "/en/page/k-beauty-olive-young-pharmaresearch-hub/"]
+aliases: ["/k-beauty/", "/olive-young/", "/pharmaresearch/", "/rejuran/", "/en/k-beauty/", "/en/olive-young/", "/en/pharmaresearch/", "/en/rejuran/", "/en/page/k-beauty-olive-young-pharmaresearch-hub/", "/es/page/k-beauty-olive-young-pharmaresearch-hub/", "/vi/page/k-beauty-olive-young-pharmaresearch-hub/", "/fr/page/k-beauty-olive-young-pharmaresearch-hub/", "/ja/page/k-beauty-olive-young-pharmaresearch-hub/", "/zh/page/k-beauty-olive-young-pharmaresearch-hub/"]
 layout: "page"
 description: "A research hub for Olive Young, CJ Corp, PharmaResearch, Rejuran, APR and Korean beauty equities. Covers whether Olive Young is publicly traded, CJ as indirect exposure, PharmaResearch's PN/PDRN platform and listed K-beauty growth stocks."
 ---

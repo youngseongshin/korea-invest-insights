@@ -23,7 +23,7 @@ draft: false
 
 ---
 
-*本稿は[Pearl Abyss Crimson Desert Thesis](/series/pearl-abyss-crimson-desert-thesis/)シリーズの一部です。フランチャイズIPの再評価テーゼについては、先行記事[Pearl Abyss: Crimson Desertが中国を制す——Steamレーティング86%・400万本販売](/posts/kr-deep-dive-pearl-abyss-crimson-desert-china-2026-04-04/)をご参照ください。同記事では中国市場への突破口と、商業的成功の確認について検討しました。本稿が掘り下げるのは別の問いです——なぜセルサイドのコンセンサスは依然として遅れているのか、そしてその乖離は分析上何を意味するのか。*
+*本稿は[Pearl Abyss Crimson Desert Thesis](/series/pearl-abyss-crimson-desert-thesis/)シリーズの一部です。フランチャイズIPの再評価テーゼについては、先行記事[Pearl Abyss: Crimson Desertが中国を制す——Steamレーティング86%・400万本販売](/post/kr-deep-dive-pearl-abyss-crimson-desert-china-2026-04-04/)をご参照ください。同記事では中国市場への突破口と、商業的成功の確認について検討しました。本稿が掘り下げるのは別の問いです——なぜセルサイドのコンセンサスは依然として遅れているのか、そしてその乖離は分析上何を意味するのか。*
 
 ---
 
@@ -184,7 +184,7 @@ Pearl Abyssが減速を緩和できるかどうかは、コンテンツカレン
 
 ---
 
-*シリーズ関連記事：[Pearl Abyss: Crimson Desertが中国を制す——Steamレーティング86%・400万本販売](/posts/kr-deep-dive-pearl-abyss-crimson-desert-china-2026-04-04/) ——フランチャイズIPテーゼと中国市場の再評価。*
+*シリーズ関連記事：[Pearl Abyss: Crimson Desertが中国を制す——Steamレーティング86%・400万本販売](/post/kr-deep-dive-pearl-abyss-crimson-desert-china-2026-04-04/) ——フランチャイズIPテーゼと中国市場の再評価。*
 
 ---
 

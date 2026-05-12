@@ -2,7 +2,7 @@
 title: "Pearl Abyss and Crimson Desert Research Hub: Target Price, Shorts, Patch Updates"
 slug: "pearl-abyss-crimson-desert-hub"
 date: 2026-04-30T22:30:00+09:00
-aliases: ["/pearl-abyss/", "/crimson-desert/", "/en/pearl-abyss/", "/en/crimson-desert/", "/en/page/pearl-abyss-crimson-desert-hub/"]
+aliases: ["/pearl-abyss/", "/crimson-desert/", "/en/pearl-abyss/", "/en/crimson-desert/", "/en/page/pearl-abyss-crimson-desert-hub/", "/es/page/pearl-abyss-crimson-desert-hub/", "/vi/page/pearl-abyss-crimson-desert-hub/", "/fr/page/pearl-abyss-crimson-desert-hub/", "/ja/page/pearl-abyss-crimson-desert-hub/", "/zh/page/pearl-abyss-crimson-desert-hub/"]
 layout: "page"
 description: "A hub for Pearl Abyss and Crimson Desert investment research, covering target price, short-sale data, Patch 1.04 and Patch 1.05 watch points, KRW 60,000 support, the CCP/EVE divestiture, and the platform re-rating thesis."
 ---
