@@ -4,6 +4,7 @@ date: 2026-04-16T12:00:00+09:00
 categories: ["company-deep-dive"]
 tags: ["APR", "278470", "Medicube", "AGE-R", "thiết bị làm đẹp K-beauty", "cổ phiếu Hàn Quốc", "KOSDAQ", "công nghệ làm đẹp", "K-beauty", "thiết bị làm đẹp tại nhà", "công nghệ làm đẹp Hàn Quốc", "cổ phiếu APR"]
 slug: "kr-deep-dive-apr-2026-04-16"
+aliases: ["/post/kr-deep-dive-apr-2026-05-12/"]
 description: "Phân tích chuyên sâu về APR (278470.KQ), công ty vận hành thương hiệu Medicube và AGE-R — một trong số ít cổ phiếu tăng trưởng Hàn Quốc hiếm hoi kết hợp biên lợi nhuận hoạt động trên 23% với doanh thu nước ngoài chiếm 80%."
 series: ["K-Beauty & Aesthetics"]
 draft: false

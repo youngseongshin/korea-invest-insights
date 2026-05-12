@@ -4,6 +4,7 @@ date: 2026-04-16T12:00:00+09:00
 categories: ["company-deep-dive"]
 tags: ["APR", "278470", "Medicube", "AGE-R", "K-beautyデバイス", "韓国株", "KOSDAQ", "美容テック", "K-beauty", "家庭用美容器", "韓国美容テック", "APR株"]
 slug: "kr-deep-dive-apr-2026-04-16"
+aliases: ["/post/kr-deep-dive-apr-2026-05-12/"]
 description: "APR（278470.KQ）徹底分析。Medicubeとホーム美容器AGE-Rを展開する同社は、23%超の営業利益率と海外売上比率80%を両立する希少な韓国成長株だ。"
 series: ["K-Beauty & Aesthetics"]
 draft: false

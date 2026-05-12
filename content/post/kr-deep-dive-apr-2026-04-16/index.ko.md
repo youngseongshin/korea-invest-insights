@@ -4,6 +4,7 @@ date: 2026-04-16T12:00:00+09:00
 categories: ["company-deep-dive"]
 tags: ["에이피알", "278470", "메디큐브", "AGE-R", "K-뷰티 디바이스", "한국 주식", "코스닥", "뷰티 테크", "K-뷰티", "홈 뷰티 디바이스", "한국 뷰티 테크", "에이피알 주식"]
 slug: "kr-deep-dive-apr-2026-04-16"
+aliases: ["/post/kr-deep-dive-apr-2026-05-12/"]
 description: "에이피알(278470.KQ) 심층 분석 — 메디큐브와 AGE-R을 운영하는 기업으로, 23% 이상의 영업이익률과 해외 매출 비중 80%를 동시에 달성한 희귀한 한국 성장주."
 series: ["K-Beauty & Aesthetics"]
 draft: false

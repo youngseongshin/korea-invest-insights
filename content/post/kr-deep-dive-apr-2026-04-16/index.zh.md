@@ -4,6 +4,7 @@ date: 2026-04-16T12:00:00+09:00
 categories: ["公司深度分析"]
 tags: ["APR", "278470", "Medicube", "AGE-R", "K-beauty 设备", "韩国股票", "KOSDAQ", "美容科技", "K-beauty", "家用美容仪", "韩国美容科技", "APR 股票"]
 slug: "kr-deep-dive-apr-2026-04-16"
+aliases: ["/post/kr-deep-dive-apr-2026-05-12/"]
 description: "深度解析 APR（278470.KQ）——Medicube 与 AGE-R 品牌的运营主体，这是一只罕见的韩国成长股，兼具 23% 以上的营业利润率与约 80% 的海外收入占比。"
 series: ["K-Beauty & Aesthetics"]
 draft: false

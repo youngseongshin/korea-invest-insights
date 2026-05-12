@@ -4,6 +4,7 @@ date: 2026-04-16T12:00:00+09:00
 categories: ["company-deep-dive"]
 tags: ["APR", "278470", "Medicube", "AGE-R", "dispositivo de belleza coreano", "acciones coreanas", "KOSDAQ", "tecnología de belleza", "K-beauty", "dispositivo de belleza doméstico", "tecnología de belleza coreana", "acción APR"]
 slug: "kr-deep-dive-apr-2026-04-16"
+aliases: ["/post/kr-deep-dive-apr-2026-05-12/"]
 description: "Análisis en profundidad de APR (278470.KQ), operadora de Medicube y AGE-R — una de las pocas acciones de crecimiento coreanas que combina márgenes operativos superiores al 23% con un 80% de ingresos internacionales."
 series: ["K-Beauty & Aesthetics"]
 draft: false
