@@ -1,6 +1,7 @@
 ---
 title: "韩国为何系列 第2篇：韩国美妆如何在没有法式奢侈品传统的情况下跻身全球出口三强"
 slug: why-korea-cosmetics-global-competitiveness-2026-05-07
+aliases: ["/post/kr-deep-dive-cosmax-2026-05-12/"]
 date: 2026-05-07T23:05:00+09:00
 description: "2025年韩国美妆出口额达114.3亿美元，创历史新高。韩国已跻身全球美妆出口三强，在部分统计口径下甚至与美国争夺仅次于法国的第二位。然而韩国没有欧莱雅，也没有雅诗兰黛。其核心竞争力在于一套以ODM代工厂、高要求消费者、Olive Young、韩流内容、数字渠道和护肤文化为基础构建的快速实验生态系统。"
 categories: ["Why-Korea"]

@@ -1,6 +1,7 @@
 ---
 title: "Tại Sao Là Hàn Quốc - Phần 2: Mỹ Phẩm Hàn Quốc Trở Thành Ngành Xuất Khẩu Top 3 Thế Giới Mà Không Cần Xa Xỉ Kiểu Pháp"
 slug: why-korea-cosmetics-global-competitiveness-2026-05-07
+aliases: ["/post/kr-deep-dive-cosmax-2026-05-12/"]
 date: 2026-05-07T23:05:00+09:00
 description: "Năm 2025, Hàn Quốc xuất khẩu 11,43 tỷ USD mỹ phẩm, mức kỷ lục. Nước này hiện là một trong ba nhà xuất khẩu mỹ phẩm lớn nhất thế giới, thậm chí cạnh tranh với Mỹ để giành vị trí thứ hai sau Pháp tùy theo cách phân loại. Nhưng Hàn Quốc không có L'Oreal hay Estee Lauder. Lợi thế của họ nằm ở một hệ sinh thái thử nghiệm nhanh: nhà sản xuất ODM, người tiêu dùng khắt khe, Olive Young, nội dung Hàn Quốc, phân phối kỹ thuật số và văn hóa chăm sóc da."
 categories: ["Why-Korea"]

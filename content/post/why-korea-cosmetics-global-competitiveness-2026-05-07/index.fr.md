@@ -1,6 +1,7 @@
 ---
 title: "Why Korea, Partie 2 : Comment les cosmétiques coréens sont devenus l'une des trois premières industries exportatrices mondiales, sans le luxe à la française"
 slug: why-korea-cosmetics-global-competitiveness-2026-05-07
+aliases: ["/post/kr-deep-dive-cosmax-2026-05-12/"]
 date: 2026-05-07T23:05:00+09:00
 description: "La Corée a exporté pour USD 11,43 milliards de cosmétiques en 2025, un record historique. Elle figure désormais parmi les trois premiers exportateurs mondiaux de cosmétiques, et selon les classifications, dispute à l'Amérique la deuxième place derrière la France. Pourtant, la Corée ne possède ni L'Oréal ni Estée Lauder. Son avantage repose sur un écosystème d'expérimentation rapide : fabricants ODM, consommateurs exigeants, Olive Young, contenus coréens, distribution numérique et culture skincare."
 categories: ["Why-Korea"]

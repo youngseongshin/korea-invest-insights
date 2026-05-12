@@ -1,6 +1,7 @@
 ---
 title: "Why Korea Part 2: How Korean Cosmetics Became a Top-Three Export Industry Without French-Style Luxury"
 slug: why-korea-cosmetics-global-competitiveness-2026-05-07
+aliases: ["/post/kr-deep-dive-cosmax-2026-05-12/", "/en/post/kr-deep-dive-cosmax-2026-05-12/"]
 date: 2026-05-07T23:05:00+09:00
 description: "Korea exported USD 11.43 billion of cosmetics in 2025, a record high. It is now one of the world's top three cosmetics exporters, and in some classifications it competes with the U.S. for the number-two position behind France. Yet Korea does not have a L'Oreal or Estee Lauder. Its edge is a fast experimentation ecosystem built on ODM manufacturers, demanding consumers, Olive Young, Korean content, digital distribution and skincare-first culture."
 categories: ["Why-Korea"]
