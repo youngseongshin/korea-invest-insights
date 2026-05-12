@@ -8,6 +8,8 @@ tags: ["로봇", "휴머노이드", "피지컬 AI", "보스턴다이내믹스", 
 ---
 
 > 이 글은 한국 AI 하드웨어 생태계의 다음 레이어를 다룬다. 먼저 [한국 AI 기업 허브](/ko/page/korean-ai-companies-hub/)와 [코스닥 완전 가이드](/ko/post/kosdaq-complete-guide-promotion-relegation-system-2026-05-10/)를 보면, 왜 로봇이 한국 성장주 시장에서 큰 테마가 됐는지 더 쉽게 연결된다. 삼성전기 관점은 [삼성전기 목표가 130만 원 리포트 분석](/ko/post/samsung-electro-mechanics-mirae-tp-1300000-valuation-frame-shift-2026-05-07/), 현대차그룹 관점은 [현대모비스 딥다이브](/ko/post/kr-deep-dive-hyundai-mobis-2026-04-28/)와 함께 읽으면 좋다.
+>
+> 🔄 **부품주 심층 비교 (2026-05-12)**: [에스피지(감속기, PER 110배) vs 한라캐스트(경량 구조부품, PER 62배) — 둘 다 비싼데, 어느 쪽이 덜 위험한가](/ko/post/spg-vs-halla-cast-robot-component-comparison-2026-05-12/)
 
 한국 로봇 산업을 보는 핵심 질문은 "로봇이 유망한가"가 아니다. 그 질문에는 이미 시장이 큰 값을 매겼다. 더 중요한 질문은 **어느 부품과 어느 회사에서 매출이 먼저 확인되는가**다.
 

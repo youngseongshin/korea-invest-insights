@@ -8,6 +8,8 @@ tags: ["Robotics", "Humanoid Robots", "Physical AI", "Boston Dynamics", "Rainbow
 ---
 
 > This is a Korea AI hardware value-chain piece. For broader context, start with the [Korean AI Companies Hub](/page/korean-ai-companies-hub/) and the [KOSDAQ complete guide](/post/kosdaq-complete-guide-promotion-relegation-system-2026-05-10/). For related public-market angles, see the Samsung Electro-Mechanics coverage on [AI infrastructure re-rating](/post/samsung-electro-mechanics-mirae-tp-1300000-valuation-frame-shift-2026-05-07/) and the Hyundai Mobis [EV and robotics deep dive](/post/kr-deep-dive-hyundai-mobis-2026-04-28/).
+>
+> 🔄 **Component-level deep dive (2026-05-12)**: [SPG (reducers, PER 110×) vs. Halla Cast (lightweight structural parts, PER 62×) — Both Expensive, but the Risk Shape Differs](/post/spg-vs-halla-cast-robot-component-comparison-2026-05-12/)
 
 The useful question in Korean robotics is not whether robots are a promising theme. The market has already assigned a large amount of value to that answer. The more practical question is simpler: **where does revenue show up first?**
 
