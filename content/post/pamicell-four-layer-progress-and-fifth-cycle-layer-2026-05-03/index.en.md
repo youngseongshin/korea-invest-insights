@@ -25,6 +25,7 @@ tags:
 
 > 📚 **Pamicell × Doosan Electro BG Proxy Series — Part 2/N.**
 > Previous: [Part 1 — Pamicell (005690): A Bio Stem-Cell Company Quietly Becoming an AI-CCL Materials Company](/post/pamicell-doosan-electro-bg-proxy-rediscovery-2026-04-30/)
+> Next: [Part 3 — 1Q26 Earnings Confirmation: Revenue ₩36.7bn, OP ₩13.1bn, OPM 35.7%](/post/pamicell-1q26-earnings-confirmation-2026-05-12/)
 
 > **Upper-sector map:** The fifth layer in this note, industry-cycle duration, is expanded in the [AI PCB and Substrate Hub](/page/korea-ai-pcb-substrate-hub/) and the [AI PCB system-bottleneck thesis](/post/ai-pcb-thesis-system-bom-common-bottleneck-2026-05-05/). The key is that Pamicell is not just a single-stock event; it is a low-dielectric materials proxy to AI system BOM expansion.
 

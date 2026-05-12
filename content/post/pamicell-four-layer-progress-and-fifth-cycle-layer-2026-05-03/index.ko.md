@@ -25,6 +25,7 @@ tags:
 
 > 📚 **파미셀 × 두산 전자BG 프록시 시리즈 — 2편/N.**
 > 이전 글: [1편 — 파미셀(005690): 바이오 줄기세포 기업이 조용히 AI-CCL 소재 기업으로 바뀌고 있다](/ko/post/pamicell-doosan-electro-bg-proxy-rediscovery-2026-04-30/)
+> 다음 글: [3편 — 1Q26 실적 확인: 매출 367억, 영업이익 131억, 영업이익률 35.7%](/ko/post/pamicell-1q26-earnings-confirmation-2026-05-12/)
 
 > **상위 섹터 지도:** 이 글의 5번째 층(산업 사이클 지속 기간)은 [AI 기판·PCB 허브](/ko/page/korea-ai-pcb-substrate-hub/)와 [AI PCB와 기판 thesis](/ko/post/ai-pcb-thesis-system-bom-common-bottleneck-2026-05-05/)에서 더 넓게 다룬다. 핵심은 파미셀이 단일 종목 이벤트가 아니라 AI 시스템 BOM 확장의 저유전율 소재 프록시라는 점이다.
 
