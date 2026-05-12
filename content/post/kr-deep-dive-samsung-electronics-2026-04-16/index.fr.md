@@ -4,6 +4,7 @@ date: 2026-04-16T12:00:00+09:00
 categories: ["company-deep-dive"]
 tags: ["Samsung Electronics", "005930.KS", "KOSPI", "HBM", "actions coréennes", "semi-conducteur", "Galaxy", "fonderie", "puce IA", "géant technologique coréen", "Samsung HBM", "action Samsung Electronics"]
 slug: "kr-deep-dive-samsung-electronics-2026-04-16"
+aliases: ["/post/kr-deep-dive-samsung-electronics-2026-05-12/"]
 description: "Une analyse approfondie de Samsung Electronics (005930.KS) : mémoire HBM, smartphones Galaxy et ambitions de fonderie — ce que les investisseurs mondiaux doivent savoir en 2026."
 series: ["Korean Semiconductor & HBM"]
 draft: false

@@ -4,6 +4,7 @@ date: 2026-04-16T12:00:00+09:00
 categories: ["company-deep-dive"]
 tags: ["삼성전자", "005930.KS", "KOSPI", "HBM", "한국 주식", "반도체", "갤럭시", "파운드리", "AI 칩", "한국 빅테크", "삼성 HBM", "삼성전자 주식"]
 slug: "kr-deep-dive-samsung-electronics-2026-04-16"
+aliases: ["/post/kr-deep-dive-samsung-electronics-2026-05-12/"]
 description: "삼성전자(005930.KS) 심층 분석: HBM 메모리, 갤럭시 스마트폰, 파운드리 야망—2026년 글로벌 투자자가 알아야 할 모든 것"
 series: ["Korean Semiconductor & HBM"]
 draft: false

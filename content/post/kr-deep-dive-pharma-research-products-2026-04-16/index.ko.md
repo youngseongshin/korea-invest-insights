@@ -4,6 +4,7 @@ date: 2026-04-16T12:00:00+09:00
 categories: ["company-deep-dive"]
 tags: ["파마리서치", "214450", "Rejuran", "PDRN 스킨부스터", "한국 주식", "코스닥", "K-뷰티 주식", "한국 미용의료", "미용 주사제", "바이오스티뮬레이터", "PN 테라피"]
 slug: "kr-deep-dive-pharma-research-products-2026-04-16"
+aliases: ["/post/kr-deep-dive-pharma-research-products-2026-05-12/"]
 description: "파마리서치(214450.KQ) 심층 분석: 리쥬란 PDRN 스킨부스터로 글로벌 K-뷰티 미용 주사제 시장을 선도하는 코스닥 기업."
 series: ["K-Beauty & Aesthetics"]
 draft: false

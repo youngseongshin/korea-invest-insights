@@ -4,6 +4,7 @@ date: 2026-04-16T12:00:00+09:00
 categories: ["company-deep-dive"]
 tags: ["SK hynix", "000660.KS", "bộ nhớ HBM", "bán dẫn Hàn Quốc", "chip nhớ AI", "KOSPI", "NAND flash", "cổ phiếu Hàn Quốc"]
 slug: "kr-deep-dive-sk-hynix-2026-04-16"
+aliases: ["/post/kr-deep-dive-sk-hynix-2026-05-12/"]
 description: "Phân tích chuyên sâu về SK hynix (000660.KS): vì sao gã khổng lồ HBM thế giới trở thành mắt xích không thể thiếu trong hạ tầng AI — và điều đó có ý nghĩa gì với nhà đầu tư quốc tế."
 series: ["Korean Semiconductor & HBM"]
 draft: false

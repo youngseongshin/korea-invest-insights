@@ -4,6 +4,7 @@ date: 2026-04-16T12:00:00+09:00
 categories: ["company-deep-dive"]
 tags: ["SK하이닉스", "000660.KS", "HBM 메모리", "한국 반도체", "AI 메모리 칩", "KOSPI", "낸드플래시", "한국 주식"]
 slug: "kr-deep-dive-sk-hynix-2026-04-16"
+aliases: ["/post/kr-deep-dive-sk-hynix-2026-05-12/"]
 description: "SK하이닉스(000660.KS) 심층 분석: 세계 HBM 시장을 장악한 이 기업이 어떻게 AI 인프라의 핵심 공급자가 됐는지, 그리고 글로벌 투자자에게 무엇을 의미하는지 살펴본다."
 series: ["Korean Semiconductor & HBM"]
 draft: false

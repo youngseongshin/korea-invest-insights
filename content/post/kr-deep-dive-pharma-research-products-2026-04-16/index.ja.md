@@ -4,6 +4,7 @@ date: 2026-04-16T12:00:00+09:00
 categories: ["company-deep-dive"]
 tags: ["Pharma Research Products", "파마리서치", "214450", "Rejuran", "PDRNスキンブースター", "韓国株", "KOSDAQ", "K-ビューティー株", "韓国美容医療", "美容注射剤", "バイオスティミュレーター", "PN療法"]
 slug: "kr-deep-dive-pharma-research-products-2026-04-16"
+aliases: ["/post/kr-deep-dive-pharma-research-products-2026-05-12/"]
 description: "Pharma Research Products（214450.KQ）の詳細分析：KOSDAQに上場するRejuran PDRNスキンブースターのメーカーが、グローバルK-ビューティー美容注射市場の波に乗る。"
 series: ["K-Beauty & Aesthetics"]
 draft: false

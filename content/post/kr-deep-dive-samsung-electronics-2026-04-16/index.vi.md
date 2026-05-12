@@ -4,6 +4,7 @@ date: 2026-04-16T12:00:00+09:00
 categories: ["company-deep-dive"]
 tags: ["Samsung Electronics", "005930.KS", "KOSPI", "HBM", "cổ phiếu Hàn Quốc", "bán dẫn", "Galaxy", "foundry", "chip AI", "đại gia công nghệ Hàn Quốc", "Samsung HBM", "cổ phiếu Samsung Electronics"]
 slug: "kr-deep-dive-samsung-electronics-2026-04-16"
+aliases: ["/post/kr-deep-dive-samsung-electronics-2026-05-12/"]
 description: "Phân tích chuyên sâu về Samsung Electronics (005930.KS): bộ nhớ HBM, smartphone Galaxy, và tham vọng foundry—những điều nhà đầu tư toàn cầu cần biết trong năm 2026."
 series: ["Korean Semiconductor & HBM"]
 draft: false

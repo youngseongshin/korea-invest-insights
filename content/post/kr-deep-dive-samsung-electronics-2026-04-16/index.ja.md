@@ -4,6 +4,7 @@ date: 2026-04-16T12:00:00+09:00
 categories: ["company-deep-dive"]
 tags: ["サムスン電子", "005930.KS", "KOSPI", "HBM", "韓国株", "半導体", "Galaxy", "ファウンドリ", "AIチップ", "韓国テック大手", "サムスンHBM", "サムスン電子株"]
 slug: "kr-deep-dive-samsung-electronics-2026-04-16"
+aliases: ["/post/kr-deep-dive-samsung-electronics-2026-05-12/"]
 description: "サムスン電子（005930.KS）の深層分析：HBMメモリ、Galaxyスマートフォン、ファウンドリ戦略まで——2026年のグローバル投資家が押さえるべきすべて。"
 series: ["Korean Semiconductor & HBM"]
 draft: false

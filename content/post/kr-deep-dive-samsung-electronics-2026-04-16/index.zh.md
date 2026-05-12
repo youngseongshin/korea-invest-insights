@@ -4,6 +4,7 @@ date: 2026-04-16T12:00:00+09:00
 categories: ["company-deep-dive"]
 tags: ["三星电子", "005930.KS", "KOSPI", "HBM", "韩国股票", "半导体", "Galaxy", "晶圆代工", "AI芯片", "韩国科技巨头", "三星HBM", "三星电子股票"]
 slug: "kr-deep-dive-samsung-electronics-2026-04-16"
+aliases: ["/post/kr-deep-dive-samsung-electronics-2026-05-12/"]
 description: "深度解析三星电子（005930.KS）：HBM存储器、Galaxy智能手机与晶圆代工野心——2026年全球投资者不可不知的核心议题。"
 series: ["Korean Semiconductor & HBM"]
 draft: false
