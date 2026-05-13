@@ -4,6 +4,7 @@ date: 2026-04-16T12:00:00+09:00
 categories: ["company-deep-dive"]
 tags: ["CJコープ", "001040.KS", "オリーブヤング", "Kビューティーリテール", "韓国ヘルス＆ビューティーストア", "韓国株", "KOSPI", "コングロマリット", "Kコンテンツ", "CJ ENM", "CJチェイルジェダン", "韓流"]
 slug: "kr-deep-dive-cj-corp-2026-04-16"
+aliases: ["/post/kr-deep-dive-cj-corp-2026-05-13/", "/post/kr-deep-dive-cj-corp-2026-05-12/"]
 description: "CJコープ（001040.KS）はオリーブヤングを傘下に持つ、韓国最大のKビューティーリテーラーのオーナー企業。Kビューティーブームへの投資機会を探る海外投資家向け深掘り分析。"
 series: ["K-Beauty & Aesthetics"]
 draft: false

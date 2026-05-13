@@ -4,6 +4,7 @@ date: 2026-04-16T12:00:00+09:00
 categories: ["company-deep-dive"]
 tags: ["CJ Corp", "001040.KS", "Olive Young", "distribution K-beauty", "magasin beauté santé coréen", "actions coréennes", "KOSPI", "conglomérat", "K-content", "CJ ENM", "CJ CheilJedang", "Hallyu"]
 slug: "kr-deep-dive-cj-corp-2026-04-16"
+aliases: ["/post/kr-deep-dive-cj-corp-2026-05-13/", "/post/kr-deep-dive-cj-corp-2026-05-12/"]
 description: "CJ Corp (001040.KS) détient Olive Young, l'enseigne K-beauty dominante en Corée. Une analyse approfondie pour les investisseurs internationaux souhaitant s'exposer à l'essor du K-beauty."
 series: ["K-Beauty & Aesthetics"]
 draft: false

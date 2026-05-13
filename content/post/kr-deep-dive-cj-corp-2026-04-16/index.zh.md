@@ -4,6 +4,7 @@ date: 2026-04-16T12:00:00+09:00
 categories: ["company-deep-dive"]
 tags: ["CJ Corp", "001040.KS", "Olive Young", "K-beauty零售", "韩国健康美妆店", "韩国股票", "KOSPI", "综合企业集团", "K-content", "CJ ENM", "CJ CheilJedang", "韩流"]
 slug: "kr-deep-dive-cj-corp-2026-04-16"
+aliases: ["/post/kr-deep-dive-cj-corp-2026-05-13/", "/post/kr-deep-dive-cj-corp-2026-05-12/"]
 description: "CJ Corp (001040.KS) 持有韩国最大K-beauty零售商Olive Young。面向希望借道K-beauty热潮布局的国际投资者的深度解析。"
 series: ["K-Beauty & Aesthetics"]
 draft: false

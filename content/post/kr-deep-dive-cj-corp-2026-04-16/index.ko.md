@@ -4,6 +4,7 @@ date: 2026-04-16T12:00:00+09:00
 categories: ["company-deep-dive"]
 tags: ["CJ주식회사", "001040.KS", "올리브영", "K-뷰티 리테일", "한국 헬스앤뷰티 스토어", "한국 주식", "코스피", "복합기업", "K-콘텐츠", "CJ ENM", "CJ제일제당", "한류"]
 slug: "kr-deep-dive-cj-corp-2026-04-16"
+aliases: ["/post/kr-deep-dive-cj-corp-2026-05-13/", "/post/kr-deep-dive-cj-corp-2026-05-12/"]
 description: "CJ주식회사(001040.KS)는 국내 최대 K-뷰티 리테일 체인 올리브영의 모회사다. K-뷰티 붐에 올라타려는 해외 투자자를 위한 심층 분석."
 series: ["K-Beauty & Aesthetics"]
 draft: false
