@@ -1,0 +1,3 @@
+# Google AdSense placeholder.
+# Replace this file with the publisher-specific record after AdSense issues a publisher ID:
+# google.com, pub-0000000000000000, DIRECT, f08c47fec0942fa0

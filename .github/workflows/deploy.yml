@@ -39,8 +39,18 @@ jobs:
         env:
           HUGO_CACHEDIR: ${{ runner.temp }}/hugo_cache
           HUGO_ENVIRONMENT: production
+          HUGO_ADSENSE_PUBLISHER_ID: ${{ secrets.GOOGLE_ADSENSE_PUBLISHER_ID }}
           TZ: Asia/Seoul
         run: hugo --minify
+
+      - name: Configure ads.txt
+        env:
+          GOOGLE_ADSENSE_PUBLISHER_ID: ${{ secrets.GOOGLE_ADSENSE_PUBLISHER_ID }}
+        run: |
+          if [ -n "$GOOGLE_ADSENSE_PUBLISHER_ID" ]; then
+            ADSENSE_SELLER_ID="${GOOGLE_ADSENSE_PUBLISHER_ID#ca-}"
+            printf 'google.com, %s, DIRECT, f08c47fec0942fa0\n' "$ADSENSE_SELLER_ID" > public/ads.txt
+          fi
 
       - name: QA — block AI-leftover meta-commentary
         run: |

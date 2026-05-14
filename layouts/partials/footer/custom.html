@@ -1,3 +1,12 @@
+{{- $isKo := eq .Site.Language.Lang "ko" -}}
+{{- $prefix := cond $isKo "/ko" "" -}}
+<nav class="kii-policy-links" aria-label="{{ if $isKo }}사이트 정책{{ else }}Site policies{{ end }}">
+  <a href="{{ printf "%s/page/about/" $prefix | relURL }}">{{ if $isKo }}소개{{ else }}About{{ end }}</a>
+  <a href="{{ printf "%s/page/contact/" $prefix | relURL }}">{{ if $isKo }}연락처{{ else }}Contact{{ end }}</a>
+  <a href="{{ printf "%s/page/privacy/" $prefix | relURL }}">{{ if $isKo }}개인정보{{ else }}Privacy{{ end }}</a>
+  <a href="{{ printf "%s/page/disclaimer/" $prefix | relURL }}">{{ if $isKo }}면책{{ else }}Disclaimer{{ end }}</a>
+</nav>
+
 {{/* ── GoatCounter Analytics (free, no cookies, GDPR compliant) ── */}}
 {{ if not hugo.IsServer }}
 <script data-goatcounter="https://korea-invest-insights.goatcounter.com/count"
