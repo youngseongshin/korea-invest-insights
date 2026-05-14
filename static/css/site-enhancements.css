@@ -19,14 +19,14 @@
   --accent-color-darker: #1d4ed8;
   --accent-color-text: #ffffff;
 
-  /* Text */
-  --body-text-color: #2d3748;
-  --card-text-color-main: #1a202c;
-  --card-text-color-secondary: #4a5568;
-  --card-text-color-tertiary: #718096;
+  /* Text — slate family, harmonizes with cobalt accent (no pure black) */
+  --body-text-color: #334155;       /* slate-700 */
+  --card-text-color-main: #1e293b;  /* slate-800 */
+  --card-text-color-secondary: #475569; /* slate-600 */
+  --card-text-color-tertiary: #64748b;  /* slate-500 */
 
   --pre-background-color: #f6f8fa;
-  --pre-text-color: #1a202c;
+  --pre-text-color: #1e293b; /* slate-800 */
 }
 
 [data-scheme="dark"] {
