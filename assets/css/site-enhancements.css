@@ -4,10 +4,12 @@
    ────────────────────────────────────────────── */
 
 /* ── Color palette override: cobalt blue monotone ──
-   Stack theme exposes all colors as CSS variables; we just
-   override the variables here. Light mode applies via :root,
-   dark mode via [data-scheme="dark"]. No SCSS rebuild needed. */
-:root {
+   Stack theme defines variables with compound selectors like
+   :root[data-scheme="dark"] (specificity 0,0,2,0) and
+   [data-scheme="light"] for code-block tokens. We must match or
+   exceed that specificity, otherwise Stack's defaults win. */
+html:root,
+html[data-scheme="light"] {
   /* Light surface */
   --body-background: #fafbfc;
   --card-background: #ffffff;
@@ -20,16 +22,17 @@
   --accent-color-text: #ffffff;
 
   /* Text — slate family, harmonizes with cobalt accent (no pure black) */
-  --body-text-color: #334155;       /* slate-700 */
-  --card-text-color-main: #1e293b;  /* slate-800 */
-  --card-text-color-secondary: #475569; /* slate-600 */
-  --card-text-color-tertiary: #64748b;  /* slate-500 */
+  --body-text-color: #334155;            /* slate-700 */
+  --card-text-color-main: #1e293b;       /* slate-800 */
+  --card-text-color-secondary: #475569;  /* slate-600 */
+  --card-text-color-tertiary: #64748b;   /* slate-500 */
 
   --pre-background-color: #f6f8fa;
-  --pre-text-color: #1e293b; /* slate-800 */
+  --pre-text-color: #1e293b;
 }
 
-[data-scheme="dark"] {
+html:root[data-scheme="dark"],
+html[data-scheme="dark"] {
   --body-background: #0d1117;
   --card-background: #161b22;
   --card-background-selected: #1f2733;

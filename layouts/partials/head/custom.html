@@ -1,5 +1,12 @@
-{{/* ── Site-level CSS enhancements (series nav, table mobile, hubs grid, ticker index) ── */}}
-<link rel="stylesheet" href="{{ "css/site-enhancements.css" | absURL }}" />
+{{/* ── Site-level CSS enhancements (series nav, table mobile, hubs grid, ticker index) ──
+     Use Hugo's resource fingerprint so Cloudflare/browser caches refresh
+     whenever the file changes. */}}
+{{- with resources.Get "css/site-enhancements.css" -}}
+  {{- $css := . | minify | fingerprint "sha256" -}}
+  <link rel="stylesheet" href="{{ $css.RelPermalink }}" integrity="{{ $css.Data.Integrity }}" crossorigin="anonymous" />
+{{- else -}}
+  <link rel="stylesheet" href="{{ "css/site-enhancements.css" | absURL }}" />
+{{- end }}
 
 {{/* ── Google Search Console 인증 ── */}}
 {{/* koreainvestinsights.com 속성 (custom domain) */}}
