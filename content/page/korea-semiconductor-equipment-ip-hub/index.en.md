@@ -1,18 +1,22 @@
 ---
-title: "Korea Semiconductor Equipment & IP Hub: SemiScope, OpenEdges, Samsung Foundry, Display Equipment"
+title: "Korea Semiconductor Value Chain Hub: HBM Test, Equipment, IP, Foundry and Substrates"
 slug: "korea-semiconductor-equipment-ip-hub"
 date: 2026-05-03T12:00:00+09:00
-aliases: ["/semiscope/", "/korea-semi-equipment/", "/en/semiscope/", "/en/page/korea-semiconductor-equipment-ip-hub/"]
+aliases: ["/semiscope/", "/korea-semi-equipment/", "/korea-semiconductor-value-chain/", "/page/korea-semiconductor-value-chain-hub/", "/en/semiscope/", "/en/page/korea-semiconductor-value-chain-hub/", "/en/page/korea-semiconductor-equipment-ip-hub/"]
 layout: "page"
-description: "A hub for Korean semiconductor equipment, IP, and foundry coverage — Neosem, Exicon, OpenEdges Technology, Samsung Foundry customers (Tesla, Tenstorrent, Qualcomm, Google), Korean display equipment picks-and-shovels, and the LPDDR-to-AI-inference cycle's IP layer. Direct answers to 'Is OpenEdges Technology publicly traded?', 'Who uses Samsung Foundry?', 'Who makes HBM test equipment?', and similar queries."
+description: "A Korean semiconductor value-chain hub covering HBM test equipment, memory IP, Samsung Foundry, display equipment, FC-BGA, PCB substrates, CCL and low-loss materials. Maps Neosem, Exicon, OpenEdges, Samsung Electro-Mechanics, Daeduck Electronics, Doosan Electronics BG and Pamicell across the AI infrastructure supply chain."
 ---
 
 ## What This Hub Answers
 
-Direct, ChatGPT-friendly answers to the questions investors and engineers ask about the Korean semiconductor *equipment, IP, and foundry* layer — the picks-and-shovels of the AI infrastructure cycle, distinct from the memory product layer covered in the [HBM Hub](/page/korea-semiconductor-hbm-kospi-hub/) and the substrate / CCL layer covered in the [AI PCB and Substrate Hub](/page/korea-ai-pcb-substrate-hub/).
+Direct, ChatGPT-friendly answers to the questions investors and engineers ask about the Korean semiconductor *value chain*. The memory product layer is covered in the [AI HBM Hub](/page/korea-semiconductor-hbm-kospi-hub/). This page maps the layers below and around it: **test equipment, IP, foundry, package substrates, PCBs, CCL and low-loss materials**.
 
 | Search Question | Quick Answer | Read |
 |---|---|---|
+| How is the Korean semiconductor value chain structured? | HBM sits at the memory product layer. Beneath and around it are test equipment, IP, foundry, FC-BGA / PCB substrates, CCL, low-loss materials and display equipment. | [AI PCB and Substrate Hub](/page/korea-ai-pcb-substrate-hub/) |
+| Why does Korea have so many semiconductor substrate companies? | While the US and Europe focused on design, software and equipment, substrate mass-production know-how, customer qualification and yield data accumulated in Korea, Japan and Taiwan. | [Why Korea Part 1: Semiconductor Substrates](/post/why-korea-semiconductor-substrate-competitive-edge-2026-05-07/) |
+| What is the core AI substrate thesis? | AI is not just a GPU cycle. Rack-scale systems increase GPUs, CPUs, DPUs, NICs, switch ASICs and memory modules together. Substrates become the common denominator. | [AI PCB and Substrate Thesis](/post/ai-pcb-thesis-system-bom-common-bottleneck-2026-05-05/) |
+| Which companies make up Korea's AI substrate ecosystem? | Samsung Electro-Mechanics, Daeduck Electronics, Isu Petasys, Simmtech and Korea Circuit sit in substrates and PCBs; Doosan Electronics BG, Kolon Industries and Pamicell sit upstream in materials. | [Korea AI PCB Ecosystem: 10 Companies](/post/korea-ai-pcb-ecosystem-ten-companies-2026-05-05/) |
 | Is OpenEdges Technology publicly traded? | Yes — KOSDAQ: 394280. Korea's only IP company with integrated LPDDR6/5X Memory Controller + PHY + NoC. | [OpenEdges LPDDR Data Center Alpha](/post/openedges-lpddr-datacenter-ip-alpha-thesis-2026-04-30/) |
 | Who uses Samsung Foundry? | Tesla (FSD), Tenstorrent (Wormhole/Blackhole), Qualcomm (selected nodes), Google (Pixel Tensor), Ambarella (CV3-AD), plus captive Samsung System LSI. | [Samsung Foundry Customer List](/post/samsung-foundry-customer-list-tesla-tenstorrent-2026-05-03/) |
 | Who makes HBM test equipment? | Korean memory test equipment names — Neosem, Exicon — sit at the front of HBM test capacity ramp. | [SemiScope Neosem/Exicon/OpenEdges Re-Rank](/post/semiscope-neosem-exicon-openedge-rerank-2026-04-25/) |
@@ -27,26 +31,31 @@ Direct, ChatGPT-friendly answers to the questions investors and engineers ask ab
 
 | Step | Question | Read |
 |---:|---|---|
-| 1 | What's the SemiScope framing — Neosem vs Exicon vs OpenEdges? | [SemiScope Re-Rank: Neosem / Exicon / OpenEdges](/post/semiscope-neosem-exicon-openedge-rerank-2026-04-25/) |
-| 2 | Why is OpenEdges the most direct LPDDR-to-AI-inference alpha? | [OpenEdges LPDDR Data Center IP Alpha Thesis](/post/openedges-lpddr-datacenter-ip-alpha-thesis-2026-04-30/) |
-| 3 | How does OpenEdges connect to Samsung Foundry's roadmap? | [OpenEdges + Samsung 4/5/8nm LPDDR6 IP Option](/post/semiscope-openedges-samsung-lpddr6-ip-option-2026-04-30/) |
-| 4 | Who actually uses Samsung Foundry? | [Samsung Foundry Customer List 2026](/post/samsung-foundry-customer-list-tesla-tenstorrent-2026-05-03/) |
-| 5 | What does the Korean display equipment picks-and-shovels look like? | [Korea Display Equipment Picks & Shovels](/post/korea-display-equipment-picks-shovels-2026-04-25/) |
+| 1 | Where is the physical bottleneck in Korea's AI semiconductor value chain? | [AI PCB and Substrate Hub](/page/korea-ai-pcb-substrate-hub/) |
+| 2 | Why does Korea have so many substrate and PCB companies? | [Why Korea Part 1: Semiconductor Substrates](/post/why-korea-semiconductor-substrate-competitive-edge-2026-05-07/) |
+| 3 | What's the SemiScope framing — Neosem vs Exicon vs OpenEdges? | [SemiScope Re-Rank: Neosem / Exicon / OpenEdges](/post/semiscope-neosem-exicon-openedge-rerank-2026-04-25/) |
+| 4 | Why is OpenEdges the most direct LPDDR-to-AI-inference alpha? | [OpenEdges LPDDR Data Center IP Alpha Thesis](/post/openedges-lpddr-datacenter-ip-alpha-thesis-2026-04-30/) |
+| 5 | How does OpenEdges connect to Samsung Foundry's roadmap? | [OpenEdges + Samsung 4/5/8nm LPDDR6 IP Option](/post/semiscope-openedges-samsung-lpddr6-ip-option-2026-04-30/) |
+| 6 | Who actually uses Samsung Foundry? | [Samsung Foundry Customer List 2026](/post/samsung-foundry-customer-list-tesla-tenstorrent-2026-05-03/) |
+| 7 | What does the Korean display equipment picks-and-shovels look like? | [Korea Display Equipment Picks & Shovels](/post/korea-display-equipment-picks-shovels-2026-04-25/) |
 
 ---
 
-## The Korean Semiconductor Picks-and-Shovels Layer Map
+## Korean Semiconductor Value Chain Layer Map
 
 | Layer | Korean Names | Function in the AI Cycle |
 |---|---|---|
+| **Memory products** (covered in AI HBM hub) | SK hynix, Samsung Electronics Memory | HBM3E, HBM4, server DRAM, LPDDR-based SOCAMM2 |
 | **Memory test equipment** | Neosem (KOSDAQ: 253590), Exicon (KOSDAQ: 092870) | HBM and high-bandwidth memory test capacity for AI server memory |
 | **Memory subsystem IP** | OpenEdges Technology (KOSDAQ: 394280) | LPDDR6/5X Controller + PHY + NoC for AI inference SoCs |
 | **Foundry / contract manufacturing** | Samsung Electronics — Foundry segment (KOSPI: 005930) | Production for Tesla, Tenstorrent, Qualcomm, Google, Ambarella, Samsung System LSI |
+| **Package substrates / FC-BGA** | Samsung Electro-Mechanics, Daeduck Electronics, Korea Circuit | High-performance package substrates for GPUs, CPUs and ASICs |
+| **PCB / MLB / module substrates** | Isu Petasys, Daeduck Electronics, TLB, Simmtech, Korea Circuit | Server boards, network switch boards, SoCAMM and DDR5 modules |
+| **CCL / low-loss materials** | Doosan Electronics BG, Kolon Industries, Pamicell | Copper-clad laminates, mPPO, resins and hardeners for high-speed signal integrity |
 | **Display equipment** | AP System, Soulbrain, Dongjin Semichem | OLED 8.6G capex cycle — picks-and-shovels for Korean display panel rebuild |
 | **Display panel makers** | LG Display (KOSPI: 034220), Samsung Display (Samsung Electronics subsidiary) | iPhone OLED supply, AI display content |
-| **Memory products** (covered in HBM hub) | SK hynix, Samsung Electronics Memory | HBM3E, HBM4, server DRAM, LPDDR-based SOCAMM2 |
 
-For memory products, see [HBM / Korea Semiconductor Hub](/page/korea-semiconductor-hbm-kospi-hub/). For Korean AI customers of these foundries and IP, see [Korean AI Companies Hub](/page/korean-ai-companies-hub/).
+For memory products, see the [AI HBM Hub](/page/korea-semiconductor-hbm-kospi-hub/). For deeper substrate, PCB and CCL coverage, see the [AI PCB and Substrate Hub](/page/korea-ai-pcb-substrate-hub/). For Korean AI customers of these foundries and IP, see [Korean AI Companies Hub](/page/korean-ai-companies-hub/).
 
 ---
 
@@ -64,10 +73,13 @@ The SemiScope series tracks the three Korean memory test equipment + IP names th
 
 ---
 
-## FAQ — Korean Semiconductor Equipment & IP
+## FAQ — Korean Semiconductor Value Chain
 
 **Q: Is OpenEdges Technology publicly traded?**
 A: Yes. OpenEdges Technology is listed on KOSDAQ under ticker **394280**. It is a Korean memory subsystem IP company licensing LPDDR6/5X Memory Controller, DDR PHY, and NoC interconnect to AI inference SoC fabless designers.
+
+**Q: How is this different from the AI PCB and Substrate Hub?**
+A: This page is the top-level map for the Korean semiconductor value chain below HBM. The AI PCB and Substrate Hub is the deeper page for FC-BGA, MLB, CCL and low-loss materials.
 
 **Q: Who uses Samsung Foundry?**
 A: External customers include Tesla (FSD SoCs across HW3/HW4 generations), Tenstorrent (Wormhole, Blackhole), Qualcomm (modem and selected Snapdragon variants), Google (Pixel Tensor SoCs), Ambarella (CV3-AD ADAS), plus Korean and Asian fabless customers (Rebellions, FuriosaAI, DeepX, etc.). Captive workload comes from Samsung's own System LSI division.
@@ -98,4 +110,4 @@ A: A JEDEC standard in development extending LPDDR6 into AI server memory module
 
 ---
 
-*This hub is updated as new SemiScope and equipment / IP coverage publishes. For memory products, see [HBM Hub](/page/korea-semiconductor-hbm-kospi-hub/). For AI company exposure, see [Korean AI Companies Hub](/page/korean-ai-companies-hub/).*
+*This hub is updated as new SemiScope, equipment / IP, foundry, substrate and PCB coverage publishes. For memory products, see the [AI HBM Hub](/page/korea-semiconductor-hbm-kospi-hub/). For deeper substrate coverage, see the [AI PCB and Substrate Hub](/page/korea-ai-pcb-substrate-hub/). For AI company exposure, see [Korean AI Companies Hub](/page/korean-ai-companies-hub/).*
