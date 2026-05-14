@@ -24,6 +24,8 @@ description: "한국 반도체 밸류체인 허브 — HBM 테스트 장비, 메
 | OpenEdges + 삼성 4/5/8nm 스토리는 어떤 모습인가요? | OpenEdges는 삼성 SF5A에서 LPDDR5X 8,533 Mbps silicon-proven, SAFE Sub-License 파트너, 2026년 4월 LPDDR6/5X 첫 라이선스 공개. | [OpenEdges 삼성 LPDDR6 IP 옵션](/ko/post/semiscope-openedges-samsung-lpddr6-ip-option-2026-04-30/) |
 | 한국 디스플레이 장비 picks-and-shovels thesis는? | BOE Apple 라인 가동률 약세 + 한국 디스플레이 패널사 + AP System / Soulbrain / Dongjin Semichem 의 OLED 8.6G capex 사이클. | [한국 디스플레이 장비 Picks & Shovels](/ko/post/korea-display-equipment-picks-shovels-2026-04-25/) |
 | OpenEdges 테크놀로지는 무엇인가요? | 메모리 컨트롤러 + DDR PHY + NoC 인터커넥트 — AI 추론 SoC가 LPDDR을 붙이는 데 필요한 3개 블록을 통합 제공하는 한국 IP 회사 (KOSDAQ 394280). | [OpenEdges IP 플랫폼 개요](/ko/post/semiscope-openedges-technology-ip-platform-2026-04-25/) |
+| 삼성전기는 정확히 뭘 만드는 회사인가요? | 칩을 만들지 않는다. **MLCC(전력 안정 부품)와 FC-BGA 패키지기판(AI 칩을 메인보드에 연결하는 기판)**, 그리고 카메라모듈을 만든다. AI 반도체의 '보이지 않는 기반시설'. | [삼성전기 세 사업부 해부](/ko/post/samsung-electro-mechanics-mlcc-fcbga-ai-infrastructure-deep-dive-2026-05-15/) |
+| 삼성전기의 '스마트폰 부품 → AI 인프라' 리레이팅, 이미 주가에 반영됐나요? | 주가 102만원(2027년 PER 약 38배)은 구조적 시나리오를 상당 부분 반영했다. 기본 시나리오 적정가 115만원(+12%), 비관 73만원(-29%). 이익 추정 상향이 지속되어야 함. | [삼성전기 세 사업부 해부](/ko/post/samsung-electro-mechanics-mlcc-fcbga-ai-infrastructure-deep-dive-2026-05-15/) |
 
 ---
 
@@ -38,6 +40,7 @@ description: "한국 반도체 밸류체인 허브 — HBM 테스트 장비, 메
 | 5 | OpenEdges는 삼성파운드리 로드맵과 어떻게 연결되나? | [OpenEdges + 삼성 4/5/8nm LPDDR6 IP 옵션](/ko/post/semiscope-openedges-samsung-lpddr6-ip-option-2026-04-30/) |
 | 6 | 삼성파운드리는 누가 실제로 사용하나? | [삼성파운드리 고객사 리스트 2026](/ko/post/samsung-foundry-customer-list-tesla-tenstorrent-2026-05-03/) |
 | 7 | 한국 디스플레이 장비 picks-and-shovels는 어떤 모습? | [한국 디스플레이 장비 Picks & Shovels](/ko/post/korea-display-equipment-picks-shovels-2026-04-25/) |
+| 8 | 삼성전기는 정확히 뭘 만들고, 주가 102만원에서 여전히 살 만한가? | [삼성전기 MLCC / FC-BGA / 광학 사업부 해부](/ko/post/samsung-electro-mechanics-mlcc-fcbga-ai-infrastructure-deep-dive-2026-05-15/) |
 
 ---
 
@@ -70,6 +73,19 @@ SemiScope 시리즈는 AI 메모리 사이클에 가장 깨끗한 picks-and-shov
 | 2026-04-25 | OpenEdges 테크놀로지 IP 플랫폼 개요 | [OpenEdges IP 플랫폼](/ko/post/semiscope-openedges-technology-ip-platform-2026-04-25/) |
 | 2026-04-30 | OpenEdges + 삼성파운드리 LPDDR6 옵션 | [OpenEdges 삼성 LPDDR6 IP 옵션](/ko/post/semiscope-openedges-samsung-lpddr6-ip-option-2026-04-30/) |
 | 2026-04-30 | OpenEdges = LPDDR-to-AI-추론의 가장 직접적 알파 | [OpenEdges LPDDR 데이터센터 알파](/ko/post/openedges-lpddr-datacenter-ip-alpha-thesis-2026-04-30/) |
+
+---
+
+## 삼성전기 심층 분석
+
+삼성전기는 AI 서버 사이클이 드러낸 두 가지 병목 — MLCC 공급 타이트닝과 FC-BGA 캐파 부족 — 의 교차점에 자리한 한국 종목이다.
+
+| 날짜 | 주제 | 읽을 글 |
+|---|---|---|
+| 2026-05-15 | 세 사업부 해부: MLCC / FC-BGA / 광학솔루션, 왜 'AI 인프라 부품 플랫폼'인가, 주가 102만원이 무엇을 반영하는가 | [삼성전기 MLCC / FC-BGA / 광학 사업부 해부](/ko/post/samsung-electro-mechanics-mlcc-fcbga-ai-infrastructure-deep-dive-2026-05-15/) |
+| 2026-05-07 | 미래에셋, 목표가 130만원으로 상향 — '한국 부품주'에서 '글로벌 AI 피어'로 밸류에이션 프레임 시프트 | [삼성전기 미래에셋 목표가 프레임 시프트](/ko/post/samsung-electro-mechanics-mirae-tp-1300000-valuation-frame-shift-2026-05-07/) |
+| 2026-04-30 | 1분기 실적 한판 비교: 삼성전자 vs 삼성전기 이익 품질 | [빅테크 1Q26: 삼성전자 vs 삼성전기](/ko/post/bigtech-1q26-samsung-electronics-vs-electro-mechanics-2026-04-30/) |
+| 2026-04-21 | 최초 리레이팅 콜: AI 인프라 리레이팅 후보로서의 삼성전기 | [삼성전기 AI 인프라 리레이팅](/ko/post/samsung-electro-mechanics-ai-infrastructure-rerating-2026-04-21/) |
 
 ---
 

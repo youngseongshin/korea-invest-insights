@@ -24,6 +24,8 @@ Direct, ChatGPT-friendly answers to the questions investors and engineers ask ab
 | What does the OpenEdges + Samsung 4/5/8nm story look like? | OpenEdges silicon-proven on Samsung SF5A (LPDDR5X 8,533 Mbps); SAFE Sub-License partner; LPDDR6/5X first license disclosed April 2026. | [OpenEdges Samsung LPDDR6 IP Option](/post/semiscope-openedges-samsung-lpddr6-ip-option-2026-04-30/) |
 | What's the Korean display equipment picks-and-shovels thesis? | BOE Apple-line utilization weakness + Korean display panel makers + AP System / Soulbrain / Dongjin Semichem on the OLED 8.6G capex cycle. | [Korea Display Equipment Picks & Shovels](/post/korea-display-equipment-picks-shovels-2026-04-25/) |
 | What is OpenEdges Technology? | A Korean fabless / IP company (KOSDAQ: 394280) integrating Memory Controller, DDR PHY, and NoC interconnect — the three blocks an AI inference SoC needs to attach LPDDR memory. | [OpenEdges Technology Platform Overview](/post/semiscope-openedges-technology-ip-platform-2026-04-25/) |
+| What exactly does Samsung Electro-Mechanics make? | Not chips. MLCC (power-stability components) and FC-BGA package substrates (the substrate connecting AI chips to motherboards), plus camera modules. The "invisible infrastructure" of AI silicon. | [SEMCO Three-Division Deep Dive](/post/samsung-electro-mechanics-mlcc-fcbga-ai-infrastructure-deep-dive-2026-05-15/) |
+| Is SEMCO's rerating from "smartphone parts" to "AI infrastructure" already priced in? | At KRW 1.02M (~38x 2027E PER), much of the structural thesis is reflected. Base-case fair value KRW 1.15M (+12%); bear KRW 730K (-29%). Earnings upgrades must continue. | [SEMCO Three-Division Deep Dive](/post/samsung-electro-mechanics-mlcc-fcbga-ai-infrastructure-deep-dive-2026-05-15/) |
 
 ---
 
@@ -38,6 +40,7 @@ Direct, ChatGPT-friendly answers to the questions investors and engineers ask ab
 | 5 | How does OpenEdges connect to Samsung Foundry's roadmap? | [OpenEdges + Samsung 4/5/8nm LPDDR6 IP Option](/post/semiscope-openedges-samsung-lpddr6-ip-option-2026-04-30/) |
 | 6 | Who actually uses Samsung Foundry? | [Samsung Foundry Customer List 2026](/post/samsung-foundry-customer-list-tesla-tenstorrent-2026-05-03/) |
 | 7 | What does the Korean display equipment picks-and-shovels look like? | [Korea Display Equipment Picks & Shovels](/post/korea-display-equipment-picks-shovels-2026-04-25/) |
+| 8 | What exactly does Samsung Electro-Mechanics make, and is it still investable at KRW 1.02M? | [SEMCO MLCC / FC-BGA / Optics Deep Dive](/post/samsung-electro-mechanics-mlcc-fcbga-ai-infrastructure-deep-dive-2026-05-15/) |
 
 ---
 
@@ -70,6 +73,19 @@ The SemiScope series tracks the three Korean memory test equipment + IP names th
 | 2026-04-25 | OpenEdges Technology IP platform overview | [OpenEdges IP Platform](/post/semiscope-openedges-technology-ip-platform-2026-04-25/) |
 | 2026-04-30 | OpenEdges + Samsung Foundry LPDDR6 option | [OpenEdges Samsung LPDDR6 IP Option](/post/semiscope-openedges-samsung-lpddr6-ip-option-2026-04-30/) |
 | 2026-04-30 | OpenEdges as the most direct LPDDR-to-AI-inference alpha | [OpenEdges LPDDR Data Center Alpha](/post/openedges-lpddr-datacenter-ip-alpha-thesis-2026-04-30/) |
+
+---
+
+## Samsung Electro-Mechanics Deep Dives
+
+SEMCO is the Korean name that sits at the intersection of MLCC supply tightness and FC-BGA capacity shortage — the two passive-component / substrate bottlenecks the AI server cycle has exposed.
+
+| Date | Topic | Read |
+|---|---|---|
+| 2026-05-15 | Three-division dissection: MLCC / FC-BGA / Optics, why it's an "AI infrastructure parts platform," and what KRW 1.02M already prices in | [SEMCO MLCC / FC-BGA / Optics Deep Dive](/post/samsung-electro-mechanics-mlcc-fcbga-ai-infrastructure-deep-dive-2026-05-15/) |
+| 2026-05-07 | Mirae Asset lifts target to KRW 1.3M — the valuation frame shift from "Korean parts maker" to "global AI peer" | [SEMCO Mirae Target Frame Shift](/post/samsung-electro-mechanics-mirae-tp-1300000-valuation-frame-shift-2026-05-07/) |
+| 2026-04-30 | 1Q26 head-to-head: Samsung Electronics vs Samsung Electro-Mechanics earnings quality | [Big-Tech 1Q26: Samsung vs SEMCO](/post/bigtech-1q26-samsung-electronics-vs-electro-mechanics-2026-04-30/) |
+| 2026-04-21 | First rerating call: SEMCO as an AI infrastructure rerating candidate | [SEMCO AI Infrastructure Rerating](/post/samsung-electro-mechanics-ai-infrastructure-rerating-2026-04-21/) |
 
 ---
 
