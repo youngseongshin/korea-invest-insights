@@ -3,6 +3,66 @@
    Applied on top of hugo-theme-stack.
    ────────────────────────────────────────────── */
 
+/* ── Color palette override: cobalt blue monotone ──
+   Stack theme exposes all colors as CSS variables; we just
+   override the variables here. Light mode applies via :root,
+   dark mode via [data-scheme="dark"]. No SCSS rebuild needed. */
+:root {
+  /* Light surface */
+  --body-background: #fafbfc;
+  --card-background: #ffffff;
+  --card-background-selected: #f1f5f9;
+  --card-separator-color: rgba(15, 23, 42, 0.08);
+
+  /* Cobalt blue accent */
+  --accent-color: #2563eb;
+  --accent-color-darker: #1d4ed8;
+  --accent-color-text: #ffffff;
+
+  /* Text */
+  --body-text-color: #2d3748;
+  --card-text-color-main: #1a202c;
+  --card-text-color-secondary: #4a5568;
+  --card-text-color-tertiary: #718096;
+
+  --pre-background-color: #f6f8fa;
+  --pre-text-color: #1a202c;
+}
+
+[data-scheme="dark"] {
+  --body-background: #0d1117;
+  --card-background: #161b22;
+  --card-background-selected: #1f2733;
+  --card-separator-color: rgba(240, 246, 252, 0.1);
+
+  --accent-color: #58a6ff;
+  --accent-color-darker: #388bfd;
+  --accent-color-text: #0d1117;
+
+  --body-text-color: #e6edf3;
+  --card-text-color-main: #f0f6fc;
+  --card-text-color-secondary: #c9d1d9;
+  --card-text-color-tertiary: #8b949e;
+
+  --pre-background-color: #161b22;
+  --pre-text-color: #e6edf3;
+}
+
+/* Tighten link/heading accent application on the new palette */
+.article-content a:not(.no-style) {
+  color: var(--accent-color);
+  text-decoration-thickness: 1px;
+  text-underline-offset: 2px;
+}
+
+.article-content a:not(.no-style):hover {
+  color: var(--accent-color-darker);
+}
+
+[data-scheme="dark"] .article-content a:not(.no-style):hover {
+  color: #79b8ff;
+}
+
 /* ── Series navigation widget ── */
 .series-nav {
   margin: 1.5rem 0 2rem;
