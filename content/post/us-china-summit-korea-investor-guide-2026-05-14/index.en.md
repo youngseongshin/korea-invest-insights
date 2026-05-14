@@ -21,6 +21,8 @@ tags:
 ---
 
 > 🔗 **Related reading**: [Why Korea Part 4 — $6.7B ETF Inflows + KOSPI Valuation Paradox](/post/korea-67-billion-etf-inflow-korea-discount-or-value-trap-2026-05-09/) · [Korea AI PCB Ecosystem: 10 Companies](/post/korea-ai-pcb-ecosystem-ten-companies-2026-05-05/) · [Korea Optical / CPO Value Chain — 7 Companies](/post/korea-optical-cpo-value-chain-seven-companies-2026-05-09/) · [KOSDAQ Series Part 1](/post/kosdaq-complete-guide-promotion-relegation-system-2026-05-10/) · [KOSDAQ Series Part 2](/post/kosdaq-high-roe-quality-screening-2026-05-10/)
+>
+> 🔄 **Post-event analysis (2026-05-15)**: [Summit Result — Hormuz Agreement, H200 Licenses, $30B Tariff Talks Landed, but KOSPI 7,900 Already Priced It](/post/us-china-summit-result-korea-investor-implications-2026-05-15/)
 
 *Trump and Xi meet in Beijing on May 14-15. Markets read it as "tariff easing → China-stock bounce." That framing misses the actual investment substance. Korea and Japan are not at the negotiating table but are the largest stakeholders in the result. If semiconductor export controls hold, Korea's memory oligopoly tightens. If the rare-earth pause is extended, Korean battery and auto cost structures stabilize. If Hormuz reopens, energy import costs fall. Conversely, if controls loosen, China's domestic memory self-sufficiency accelerates. If Taiwan tensions escalate, Korea's geopolitical discount widens. **The question is not "should I buy China." It's "where does Korea sit in this set of outcomes."***
 

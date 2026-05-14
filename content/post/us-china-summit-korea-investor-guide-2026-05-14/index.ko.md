@@ -19,6 +19,8 @@ tags:
 ---
 
 > 🔗 **함께 읽기**: [Why Korea 4편 — 67억 달러 유입과 코리아 할인 vs 밸류 트랩](/ko/post/korea-67-billion-etf-inflow-korea-discount-or-value-trap-2026-05-09/) · [한국 AI 기판·PCB 생태계 10개사](/ko/post/korea-ai-pcb-ecosystem-ten-companies-2026-05-05/) · [한국 광통신·CPO 7개사](/ko/post/korea-optical-cpo-value-chain-seven-companies-2026-05-09/) · [코스닥 시리즈 1편](/ko/post/kosdaq-complete-guide-promotion-relegation-system-2026-05-10/) · [코스닥 시리즈 2편](/ko/post/kosdaq-high-roe-quality-screening-2026-05-10/)
+>
+> 🔄 **결과 분석 (2026-05-15)**: [회담 결과 — 호르무즈 합의·H200 허가·300억 달러 관세 완화는 나왔지만 코스피 7,900은 이미 반영했다](/ko/post/us-china-summit-result-korea-investor-implications-2026-05-15/)
 
 *트럼프와 시진핑이 5월 14\~15일 베이징에서 만난다. 시장은 '관세 완화 → 중국주 반등'으로 단순하게 본다. 하지만 진짜 투자 포인트는 다른 곳에 있다. 한국과 일본은 협상 테이블에 앉지 않지만 결과의 최대 이해관계자다. 반도체 수출통제가 유지되면 한국 메모리의 구조적 과점이 강화되고, 희토류 유예가 연장되면 한국 배터리·자동차 원가가 안정되고, 호르무즈가 열리면 에너지 수입 비용이 줄어든다. 반대로 반도체 통제가 풀리면 중국 자립이 빨라지고, 대만 긴장이 고조되면 지정학 할인이 커진다. '중국주를 살까'가 아니라 '한국이 어디에 있는가'가 핵심이다.*
 
