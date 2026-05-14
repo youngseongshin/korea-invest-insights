@@ -1,0 +1,263 @@
+/* ──────────────────────────────────────────────
+   Korea Invest Insights — site-level CSS enhancements
+   Applied on top of hugo-theme-stack.
+   ────────────────────────────────────────────── */
+
+/* ── Series navigation widget ── */
+.series-nav {
+  margin: 1.5rem 0 2rem;
+  padding: 1rem 1.25rem;
+  border: 1px solid var(--card-separator-color, rgba(0, 0, 0, 0.08));
+  border-left: 4px solid var(--accent-color, #34495e);
+  border-radius: 8px;
+  background: var(--card-background, rgba(0, 0, 0, 0.02));
+}
+
+[data-scheme="dark"] .series-nav {
+  border-color: rgba(255, 255, 255, 0.1);
+  background: rgba(255, 255, 255, 0.03);
+}
+
+.series-nav-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  margin-bottom: 0.75rem;
+  font-size: 0.875rem;
+}
+
+.series-nav-label {
+  font-weight: 600;
+  color: var(--accent-color, #34495e);
+}
+
+.series-nav-counter {
+  font-size: 0.8125rem;
+  opacity: 0.7;
+}
+
+.series-nav-list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  display: grid;
+  gap: 0.4rem;
+  counter-reset: none;
+}
+
+.series-nav-item {
+  display: grid;
+  grid-template-columns: 1.75rem 1fr;
+  align-items: baseline;
+  gap: 0.5rem;
+  padding: 0.3rem 0.5rem;
+  border-radius: 4px;
+  font-size: 0.9375rem;
+  line-height: 1.4;
+  transition: background-color 0.15s ease;
+}
+
+.series-nav-item:hover {
+  background: var(--body-background, rgba(0, 0, 0, 0.04));
+}
+
+[data-scheme="dark"] .series-nav-item:hover {
+  background: rgba(255, 255, 255, 0.05);
+}
+
+.series-nav-item.is-current {
+  background: var(--accent-color-darker, rgba(52, 73, 94, 0.12));
+  font-weight: 600;
+}
+
+[data-scheme="dark"] .series-nav-item.is-current {
+  background: rgba(255, 255, 255, 0.08);
+}
+
+.series-nav-num {
+  font-variant-numeric: tabular-nums;
+  font-weight: 600;
+  font-size: 0.8125rem;
+  opacity: 0.65;
+  text-align: right;
+}
+
+.series-nav-item.is-current .series-nav-num {
+  opacity: 1;
+  color: var(--accent-color, #34495e);
+}
+
+.series-nav-title {
+  text-decoration: none;
+  color: inherit;
+}
+
+.series-nav-title:hover,
+.series-nav-title:focus-visible {
+  text-decoration: underline;
+}
+
+/* ── Wide tables: better mobile scroll behavior ── */
+.article-content .table-wrapper {
+  overflow-x: auto;
+  -webkit-overflow-scrolling: touch;
+  margin: 1rem 0 1.5rem;
+  border-radius: 6px;
+  border: 1px solid var(--card-separator-color, rgba(0, 0, 0, 0.06));
+  /* Visual hint that the table can scroll horizontally */
+  background:
+    linear-gradient(to right, var(--card-background, #fff) 30%, rgba(255, 255, 255, 0)) 0 0 / 40px 100% no-repeat local,
+    linear-gradient(to right, rgba(0, 0, 0, 0.08), transparent 30%) 0 0 / 20px 100% no-repeat scroll,
+    linear-gradient(to left, var(--card-background, #fff) 30%, rgba(255, 255, 255, 0)) 100% 0 / 40px 100% no-repeat local,
+    linear-gradient(to left, rgba(0, 0, 0, 0.08), transparent 30%) 100% 0 / 20px 100% no-repeat scroll;
+}
+
+[data-scheme="dark"] .article-content .table-wrapper {
+  border-color: rgba(255, 255, 255, 0.08);
+}
+
+.article-content .table-wrapper > table {
+  margin: 0;
+  /* Force tables to not collapse to viewport width on mobile */
+  min-width: 100%;
+}
+
+@media (max-width: 768px) {
+  .article-content .table-wrapper > table {
+    font-size: 0.875rem;
+  }
+  .article-content .table-wrapper th,
+  .article-content .table-wrapper td {
+    white-space: nowrap;
+    padding: 0.5rem 0.7rem;
+  }
+  /* Allow first content cell to wrap so labels aren't truncated */
+  .article-content .table-wrapper td:first-child {
+    white-space: normal;
+    min-width: 9rem;
+  }
+}
+
+/* ── Code blocks: better mobile + horizontal scroll cue ── */
+.article-content .highlight,
+.article-content pre {
+  border-radius: 6px;
+  overflow-x: auto;
+  -webkit-overflow-scrolling: touch;
+}
+
+@media (max-width: 768px) {
+  .article-content .highlight pre,
+  .article-content pre {
+    font-size: 0.8125rem;
+    line-height: 1.45;
+  }
+}
+
+/* ── Homepage hubs grid (used by home enhancement) ── */
+.home-hubs {
+  margin: 0 0 2rem;
+  padding: 1rem;
+  background: var(--card-background, #fff);
+  border-radius: 10px;
+  box-shadow: var(--shadow-l1, 0 4px 6px rgba(0, 0, 0, 0.04));
+}
+
+.home-hubs-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  margin-bottom: 1rem;
+}
+
+.home-hubs-title {
+  font-size: 1.125rem;
+  font-weight: 700;
+  margin: 0;
+}
+
+.home-hubs-sub {
+  font-size: 0.875rem;
+  opacity: 0.7;
+}
+
+.home-hubs-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(240px, 1fr));
+  gap: 0.75rem;
+}
+
+.home-hub-card {
+  display: block;
+  padding: 0.85rem 1rem;
+  border: 1px solid var(--card-separator-color, rgba(0, 0, 0, 0.06));
+  border-radius: 8px;
+  text-decoration: none;
+  color: inherit;
+  transition: transform 0.15s ease, box-shadow 0.15s ease, border-color 0.15s ease;
+  background: var(--body-background, transparent);
+}
+
+[data-scheme="dark"] .home-hub-card {
+  border-color: rgba(255, 255, 255, 0.1);
+  background: rgba(255, 255, 255, 0.03);
+}
+
+.home-hub-card:hover {
+  transform: translateY(-1px);
+  border-color: var(--accent-color, #34495e);
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.06);
+}
+
+.home-hub-card-title {
+  display: block;
+  font-weight: 600;
+  font-size: 0.9375rem;
+  margin-bottom: 0.25rem;
+  line-height: 1.3;
+}
+
+.home-hub-card-desc {
+  display: block;
+  font-size: 0.8125rem;
+  opacity: 0.7;
+  line-height: 1.35;
+}
+
+/* ── Ticker index page ── */
+.ticker-index-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(140px, 1fr));
+  gap: 0.5rem;
+  margin: 1rem 0;
+}
+
+.ticker-chip {
+  display: block;
+  padding: 0.5rem 0.75rem;
+  border: 1px solid var(--card-separator-color, rgba(0, 0, 0, 0.08));
+  border-radius: 6px;
+  text-decoration: none;
+  color: inherit;
+  text-align: center;
+  font-variant-numeric: tabular-nums;
+  font-size: 0.875rem;
+  transition: all 0.15s ease;
+}
+
+.ticker-chip:hover {
+  border-color: var(--accent-color, #34495e);
+  background: var(--card-background, rgba(0, 0, 0, 0.02));
+}
+
+.ticker-chip-count {
+  display: inline-block;
+  margin-left: 0.4rem;
+  font-size: 0.75rem;
+  opacity: 0.6;
+  font-weight: 600;
+}

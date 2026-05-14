@@ -149,13 +149,17 @@ buildFuture = true  # 장마감 브리핑(16:30 KST) 등 발행 시각보다 살
       url = "/page/korean-financials-hub"
       weight = 9
     [[languages.en.menu.main]]
+      name = "Tickers"
+      url = "/page/tickers/"
+      weight = 10
+    [[languages.en.menu.main]]
       name = "Archives"
       url = "/page/archives"
-      weight = 10
+      weight = 11
     [[languages.en.menu.main]]
       name = "About"
       url = "/page/about"
-      weight = 11
+      weight = 12
 
   [languages.ja]
     languageName = "日本語"
@@ -234,13 +238,17 @@ buildFuture = true  # 장마감 브리핑(16:30 KST) 등 발행 시각보다 살
       url = "/ko/page/korean-financials-hub"
       weight = 8
     [[languages.ko.menu.main]]
+      name = "종목 색인"
+      url = "/ko/page/tickers/"
+      weight = 9
+    [[languages.ko.menu.main]]
       name = "아카이브"
       url = "/ko/page/archives"
-      weight = 9
+      weight = 10
     [[languages.ko.menu.main]]
       name = "소개"
       url = "/ko/page/about"
-      weight = 10
+      weight = 11
 
 [params.widgets]
   [[params.widgets.homepage]]

@@ -1,0 +1,66 @@
+{{ define "main" }}
+    {{- $paginator := partial "helper/paginator.html" . -}}
+
+    {{/* ── Featured hubs grid (homepage page 1 only) ── */}}
+    {{- if eq $paginator.PageNumber 1 -}}
+      {{- $lang := .Lang -}}
+      {{- $featured := index hugo.Data.hubs "featured" -}}
+      {{- if $featured -}}
+        {{- /* defaultContentLanguageInSubdir=false: English at root, others under /<lang>/ */ -}}
+        {{- $langPrefix := "" -}}
+        {{- if ne $lang "en" -}}
+          {{- $langPrefix = printf "/%s" $lang -}}
+        {{- end -}}
+        <section class="home-hubs" aria-label="Featured research hubs">
+          <div class="home-hubs-header">
+            <h2 class="home-hubs-title">
+              {{- if eq $lang "ko" -}}
+                주제별로 시작하기
+              {{- else if eq $lang "ja" -}}
+                テーマ別の入口
+              {{- else if eq $lang "zh" -}}
+                按主题开始
+              {{- else -}}
+                Start by Topic
+              {{- end -}}
+            </h2>
+            <span class="home-hubs-sub">
+              {{- if eq $lang "ko" -}}
+                {{ len $featured }}개 리서치 허브
+              {{- else if eq $lang "ja" -}}
+                {{ len $featured }} 個のリサーチハブ
+              {{- else if eq $lang "zh" -}}
+                {{ len $featured }} 个研究中心
+              {{- else -}}
+                {{ len $featured }} research hubs
+              {{- end -}}
+            </span>
+          </div>
+          <div class="home-hubs-grid">
+            {{- range $featured -}}
+              {{- $href := printf "%s/page/%s/" $langPrefix .slug -}}
+              {{- $title := index . (printf "title_%s" $lang) | default .title_en -}}
+              {{- $desc := index . (printf "desc_%s" $lang) | default .desc_en -}}
+              <a class="home-hub-card" href="{{ $href }}">
+                <span class="home-hub-card-title">{{ $title }}</span>
+                <span class="home-hub-card-desc">{{ $desc }}</span>
+              </a>
+            {{- end -}}
+          </div>
+        </section>
+      {{- end -}}
+    {{- end -}}
+
+    <section class="article-list">
+        {{ range $index, $element := $paginator.Pages }}
+            {{ partial "article-list/default" . }}
+        {{ end }}
+    </section>
+
+    {{- partial "pagination.html" . -}}
+    {{- partial "footer/footer" . -}}
+{{ end }}
+
+{{ define "right-sidebar" }}
+    {{ partial "sidebar/right.html" (dict "Context" . "Scope" "homepage") }}
+{{ end }}

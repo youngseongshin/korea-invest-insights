@@ -1,0 +1,58 @@
+{{/*
+  Series navigation block.
+
+  Triggers when a post sets `series` (string) and `series_order` (int) in frontmatter.
+  Renders a "Part X of Y" header + clickable list of all parts in the same series
+  (within the same language), with the current part highlighted.
+
+  Frontmatter example:
+    series: "Why Korea"
+    series_order: 4
+
+  Place this partial inside an article page context.
+*/}}
+{{- $page := . -}}
+{{- $seriesName := $page.Params.series -}}
+{{- $seriesOrder := $page.Params.series_order -}}
+{{- if and $seriesName $seriesOrder -}}
+  {{- $lang := $page.Lang -}}
+  {{- $parts := slice -}}
+  {{- range where (where $page.Site.RegularPages "Section" "post") "Params.series" $seriesName -}}
+    {{- if and (eq .Lang $lang) .Params.series_order -}}
+      {{- $parts = $parts | append . -}}
+    {{- end -}}
+  {{- end -}}
+  {{- $sorted := sort $parts ".Params.series_order" "asc" -}}
+  {{- $total := len $sorted -}}
+  {{- if gt $total 1 -}}
+  <aside class="series-nav" aria-label="{{ $seriesName }} series">
+    <div class="series-nav-header">
+      <span class="series-nav-label">📚 {{ $seriesName }}</span>
+      <span class="series-nav-counter">
+        {{- if eq $lang "ko" -}}
+          {{ $seriesOrder }}편 / 총 {{ $total }}편
+        {{- else if eq $lang "ja" -}}
+          第 {{ $seriesOrder }} 部 / 全 {{ $total }} 部
+        {{- else if eq $lang "zh" -}}
+          第 {{ $seriesOrder }} 部分 / 共 {{ $total }} 部分
+        {{- else -}}
+          Part {{ $seriesOrder }} of {{ $total }}
+        {{- end -}}
+      </span>
+    </div>
+    <ol class="series-nav-list">
+      {{- range $sorted -}}
+        {{- $isCurrent := eq .RelPermalink $page.RelPermalink -}}
+        <li class="series-nav-item{{ if $isCurrent }} is-current{{ end }}">
+          <span class="series-nav-num">{{ .Params.series_order }}</span>
+          {{- if $isCurrent -}}
+            <span class="series-nav-title">{{ .LinkTitle | default .Title }}</span>
+          {{- else -}}
+            <a href="{{ .RelPermalink }}" class="series-nav-title">{{ .LinkTitle | default .Title }}</a>
+          {{- end -}}
+        </li>
+      {{- end -}}
+    </ol>
+  </aside>
+  {{- end -}}
+{{- end -}}

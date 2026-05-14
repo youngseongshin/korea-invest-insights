@@ -1,0 +1,75 @@
+{{ define "body-class" }}article-page{{ end }}
+
+{{ define "main" }}
+<article class="main-article">
+  <header class="article-header">
+    {{ partial "article/components/details" (dict "Page" . "IsList" false) }}
+  </header>
+
+  <section class="article-content">
+    {{ .Content }}
+
+    {{/* ── Ticker grid ── */}}
+    {{- $lang := .Lang -}}
+    {{- $tags := index .Site.Taxonomies "tags" -}}
+    {{- $tickerKeys := slice -}}
+    {{- range $tag, $entries := $tags -}}
+      {{- if and (eq (len $tag) 6) (findRE "^[0-9]{6}$" $tag) -}}
+        {{- $tickerKeys = $tickerKeys | append $tag -}}
+      {{- end -}}
+    {{- end -}}
+    {{- $tickerKeys = sort $tickerKeys "value" "asc" -}}
+
+    <h2>
+      {{- if eq $lang "ko" -}}
+        커버된 종목 코드 ({{ len $tickerKeys }}개)
+      {{- else if eq $lang "ja" -}}
+        カバー銘柄コード ({{ len $tickerKeys }}件)
+      {{- else if eq $lang "zh" -}}
+        覆盖股票代码 (共 {{ len $tickerKeys }})
+      {{- else -}}
+        Covered Tickers ({{ len $tickerKeys }})
+      {{- end -}}
+    </h2>
+
+    <p style="opacity: 0.75; font-size: 0.875rem; margin-bottom: 1rem;">
+      {{- if eq $lang "ko" -}}
+        Korea Invest Insights가 분석한 KOSPI / KOSDAQ 종목 코드 모음입니다. 종목 코드를 클릭하면 해당 종목 관련 글을 모아 볼 수 있습니다.
+      {{- else if eq $lang "ja" -}}
+        Korea Invest Insights が分析した KOSPI / KOSDAQ 銘柄コードの一覧です。コードをクリックすると関連分析記事を一覧で見られます。
+      {{- else if eq $lang "zh" -}}
+        Korea Invest Insights 分析过的 KOSPI / KOSDAQ 股票代码列表。点击代码可查看该股票相关分析。
+      {{- else -}}
+        All Korean stocks (KOSPI / KOSDAQ) covered by Korea Invest Insights, indexed by 6-digit ticker code. Click a code to see all related posts.
+      {{- end -}}
+    </p>
+
+    <div class="ticker-index-grid">
+      {{- range $tickerKeys -}}
+        {{- $tag := . -}}
+        {{- $entries := index $tags $tag -}}
+        {{- $count := len $entries.Pages -}}
+        <a class="ticker-chip" href="{{ printf "/tags/%s/" $tag | relLangURL }}">
+          <span>{{ $tag }}</span>
+          <span class="ticker-chip-count">({{ $count }})</span>
+        </a>
+      {{- end -}}
+    </div>
+
+    {{- if not $tickerKeys -}}
+      <p>
+        {{- if eq $lang "ko" -}}
+          아직 색인된 종목 코드가 없습니다. 글 frontmatter의 tags 배열에 6자리 종목 코드를 포함하면 자동으로 색인됩니다.
+        {{- else -}}
+          No ticker codes indexed yet. Add 6-digit codes to post frontmatter <code>tags:</code> to auto-index.
+        {{- end -}}
+      </p>
+    {{- end -}}
+  </section>
+</article>
+
+{{ partialCached "footer/footer" . }}
+{{ end }}
+
+{{ define "right-sidebar" }}
+{{ end }}
