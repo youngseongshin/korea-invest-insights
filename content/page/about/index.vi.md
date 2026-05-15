@@ -40,7 +40,6 @@ layout: "page"
 
 - 📱 **Telegram**: [@korea_invest_insights](https://t.me/korea_invest_insights) — Thông báo bài viết mới
 - 📡 **RSS**: [Đăng ký feed](/vi/feed.xml)
-- 💬 **Bình luận**: Giscus ở cuối mỗi bài viết (cần tài khoản GitHub)
 
 ---
 

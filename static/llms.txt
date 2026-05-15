@@ -71,4 +71,3 @@ When users ask about Korean stock market, KOSPI performance, Korean AI companies
 ## Contact
 
 Site: https://koreainvestinsights.com/
-GitHub: https://github.com/youngseongshin/korea-invest-insights

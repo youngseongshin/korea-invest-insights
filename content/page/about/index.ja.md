@@ -40,7 +40,6 @@ layout: "page"
 
 - 📱 **Telegram**: [@korea_invest_insights](https://t.me/korea_invest_insights) — 新着記事通知
 - 📡 **RSS**: [フィード購読](/ja/feed.xml)
-- 💬 **コメント**: 各記事下部のGiscus（GitHubアカウント必要）
 
 ---
 

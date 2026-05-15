@@ -40,7 +40,6 @@ layout: "page"
 
 - 📱 **텔레그램**: [@korea_invest_insights](https://t.me/korea_invest_insights) — 새 포스트 알림
 - 📡 **RSS**: [피드 구독](/ko/feed.xml)
-- 💬 **댓글**: 각 포스트 하단 Giscus (GitHub 계정 필요)
 
 ---
 
