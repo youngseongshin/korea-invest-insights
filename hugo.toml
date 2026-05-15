@@ -21,8 +21,9 @@ buildFuture = true  # 장마감 브리핑(16:30 KST) 등 발행 시각보다 살
   keywords = ["Korea stock market", "Korean investment", "KOSPI", "semiconductor", "K-market analysis"]
   substack_subdomain = "koreainvestinsights"
   adsensePublisherID = ""
+  favicon = "img/korea-invest-insights-logo.png"
   [params.sidebar]
-    emoji = "🇰🇷"
+    avatar = "img/korea-invest-insights-logo.png"
     subtitle = "Korean Market Intelligence"
   [params.footer]
     since = 2026
