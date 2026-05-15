@@ -22,11 +22,11 @@
 
     <h2>
       {{- if eq $lang "ko" -}}
-        커버된 종목 코드 ({{ len $tickerKeys }}개)
+        커버된 종목 ({{ len $tickerKeys }}개)
       {{- else if eq $lang "ja" -}}
-        カバー銘柄コード ({{ len $tickerKeys }}件)
+        カバー銘柄 ({{ len $tickerKeys }}件)
       {{- else if eq $lang "zh" -}}
-        覆盖股票代码 (共 {{ len $tickerKeys }})
+        覆盖股票 (共 {{ len $tickerKeys }})
       {{- else -}}
         Covered Tickers ({{ len $tickerKeys }})
       {{- end -}}
@@ -34,13 +34,13 @@
 
     <p style="opacity: 0.75; font-size: 0.875rem; margin-bottom: 1rem;">
       {{- if eq $lang "ko" -}}
-        Korea Invest Insights가 분석한 KOSPI / KOSDAQ 종목 코드 모음입니다. 종목 코드를 클릭하면 해당 종목 관련 글을 모아 볼 수 있습니다.
+        Korea Invest Insights가 분석한 KOSPI / KOSDAQ 종목 모음입니다. 종목명과 6자리 코드를 함께 표시하며, 클릭하면 해당 종목 관련 글을 모아 볼 수 있습니다.
       {{- else if eq $lang "ja" -}}
-        Korea Invest Insights が分析した KOSPI / KOSDAQ 銘柄コードの一覧です。コードをクリックすると関連分析記事を一覧で見られます。
+        Korea Invest Insights が分析した KOSPI / KOSDAQ 銘柄の一覧です。銘柄名と6桁コードを併記し、クリックすると関連分析記事を一覧で見られます。
       {{- else if eq $lang "zh" -}}
-        Korea Invest Insights 分析过的 KOSPI / KOSDAQ 股票代码列表。点击代码可查看该股票相关分析。
+        Korea Invest Insights 分析过的 KOSPI / KOSDAQ 股票列表。页面同时显示股票名称和6位代码，点击即可查看相关分析。
       {{- else -}}
-        All Korean stocks (KOSPI / KOSDAQ) covered by Korea Invest Insights, indexed by 6-digit ticker code. Click a code to see all related posts.
+        All Korean stocks (KOSPI / KOSDAQ) covered by Korea Invest Insights, shown with company name and 6-digit KRX ticker code. Click a ticker to see all related posts.
       {{- end -}}
     </p>
 
@@ -49,8 +49,36 @@
         {{- $tag := . -}}
         {{- $entries := index $tags $tag -}}
         {{- $count := len $entries.Pages -}}
+        {{- $displayName := "" -}}
+        {{- with index hugo.Data.tickers $tag -}}
+          {{- $mappedName := or (index . $lang) (index . "en") (index . "ko") -}}
+          {{- if $mappedName -}}
+            {{- $displayName = $mappedName -}}
+          {{- end -}}
+        {{- end -}}
+        {{- if not $displayName -}}
+          {{- range $entries.Pages -}}
+            {{- if not $displayName -}}
+              {{- $pageTags := .Params.tags -}}
+              {{- range $idx, $pageTag := $pageTags -}}
+                {{- $pageTagText := trim (printf "%v" $pageTag) " " -}}
+                {{- if and (not $displayName) (eq $pageTagText $tag) (gt $idx 0) -}}
+                  {{- $candidate := trim (printf "%v" (index $pageTags (sub $idx 1))) " " -}}
+                  {{- if and $candidate (not (findRE "^[0-9]{6}(\\.(KS|KQ))?$" $candidate)) -}}
+                    {{- $displayName = $candidate -}}
+                  {{- end -}}
+                {{- end -}}
+              {{- end -}}
+            {{- end -}}
+          {{- end -}}
+        {{- end -}}
         <a class="ticker-chip" href="{{ printf "/tags/%s/" $tag | relLangURL }}">
-          <span>{{ $tag }}</span>
+          {{- if $displayName -}}
+            <span class="ticker-chip-name">{{ $displayName }}</span>
+            <span class="ticker-chip-code">{{ $tag }}</span>
+          {{- else -}}
+            <span class="ticker-chip-name">{{ $tag }}</span>
+          {{- end -}}
           <span class="ticker-chip-count">({{ $count }})</span>
         </a>
       {{- end -}}

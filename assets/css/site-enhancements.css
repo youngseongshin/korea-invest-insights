@@ -314,21 +314,22 @@ html[data-scheme="dark"] {
 /* ── Ticker index page ── */
 .ticker-index-grid {
   display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(140px, 1fr));
-  gap: 0.5rem;
-  margin: 1rem 0;
+  grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
+  gap: 0.75rem;
+  margin: 1.15rem 0;
 }
 
 .ticker-chip {
   display: block;
-  padding: 0.5rem 0.75rem;
+  position: relative;
+  padding: 0.8rem 1rem;
   border: 1px solid var(--card-separator-color, rgba(0, 0, 0, 0.08));
   border-radius: 6px;
   text-decoration: none;
   color: inherit;
-  text-align: center;
+  text-align: left;
   font-variant-numeric: tabular-nums;
-  font-size: 0.875rem;
+  font-size: 1rem;
   transition: all 0.15s ease;
 }
 
@@ -338,11 +339,27 @@ html[data-scheme="dark"] {
 }
 
 .ticker-chip-count {
-  display: inline-block;
-  margin-left: 0.4rem;
-  font-size: 0.75rem;
+  display: block;
+  margin-top: 0.32rem;
+  font-size: 0.84rem;
   opacity: 0.6;
   font-weight: 600;
+}
+
+.ticker-chip-name {
+  display: block;
+  font-weight: 700;
+  font-size: 1.06rem;
+  line-height: 1.25;
+  color: var(--card-text-color-main, inherit);
+}
+
+.ticker-chip-code {
+  display: block;
+  margin-top: 0.3rem;
+  color: var(--card-text-color-secondary, #4a5568);
+  font-size: 0.92rem;
+  letter-spacing: 0;
 }
 
 /* ── Footer policy links for AdSense/readiness pages ── */

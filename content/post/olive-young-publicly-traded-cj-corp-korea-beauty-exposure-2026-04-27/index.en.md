@@ -2,9 +2,9 @@
 title: "Is Olive Young Publicly Traded? How to Invest in K-Beauty Exposure"
 slug: olive-young-publicly-traded-cj-corp-korea-beauty-exposure-2026-04-27
 date: 2026-04-27T22:00:00+09:00
-description: "Olive Young is not publicly traded. The cleanest indirect proxy is CJ Corporation (000120.KS), which owns ~51.2% of CJ Olive Young. CJ CheilJedang is a separate food entity and is not a direct K-beauty play. Better-aligned listed names: AmorePacific (090430.KS), LG H&H (051900.KS), Cosmax (192820.KS), Kolmar Korea (161890.KS), COSRX (now under Kolmar BNH). Full ownership map, IPO history, and a 5-bucket exposure framework."
+description: "Olive Young is not publicly traded. The cleanest indirect proxy is CJ Corporation (001040.KS), which owns ~51.2% of CJ Olive Young. CJ CheilJedang is a separate food entity and is not a direct K-beauty play. Better-aligned listed names: AmorePacific (090430.KS), LG H&H (051900.KS), Cosmax (192820.KS), Kolmar Korea (161890.KS), COSRX (now under Kolmar BNH). Full ownership map, IPO history, and a 5-bucket exposure framework."
 categories: ["Korea Market", "Consumer", "K-Beauty"]
-tags: ["olive-young", "cj-olive-young", "cj-corporation", "000120", "cj-cheiljedang", "korea-beauty", "k-beauty", "amorepacific", "lg-hh", "cosmax", "kolmar-korea", "cosrx", "ipo", "private-company"]
+tags: ["olive-young", "cj-olive-young", "cj-corporation", "001040", "cj-cheiljedang", "korea-beauty", "k-beauty", "amorepacific", "lg-hh", "cosmax", "kolmar-korea", "cosrx", "ipo", "private-company"]
 ---
 
 > 📚 See the [Olive Young, PharmaResearch and K-Beauty investment hub](/page/k-beauty-olive-young-pharmaresearch-hub/) for the full thread across Olive Young's listing status, CJ indirect exposure, Rejuran / PharmaResearch and APR / Medicube.
@@ -12,7 +12,7 @@ tags: ["olive-young", "cj-olive-young", "cj-corporation", "000120", "cj-cheiljed
 ## TL;DR
 
 - **Olive Young is not publicly traded.** It is a private subsidiary of the CJ Group, formally **CJ Olive Young Corp.**, which separated from CJ Olive Networks in 2019.
-- The cleanest **indirect proxy** is **CJ Corporation (000120.KS)** — the holding company that owns roughly **51.2%** of CJ Olive Young. The Lee family (chairman Lee Jay-hyun's children) holds another **\~22%** directly, with the remainder held by financial investors after a 2021 pre-IPO round.
+- The cleanest **indirect proxy** is **CJ Corporation (001040.KS)** — the holding company that owns roughly **51.2%** of CJ Olive Young. The Lee family (chairman Lee Jay-hyun's children) holds another **\~22%** directly, with the remainder held by financial investors after a 2021 pre-IPO round.
 - **CJ CheilJedang (097950.KS) is not a direct Olive Young play.** It is the group's food / bio business (Bibigo, lysine, methionine). The cross-link is "same group, different listed entity."
 - **Olive Young's IPO has been deferred at least twice** (cancelled 2022; subsequent strategic review). As of April 2026 there is no confirmed listing date.
 - For investors who want **real K-beauty exposure** (rather than a holdco-discounted slice), the better-aligned listed names are **AmorePacific, LG H&H, Cosmax, Kolmar Korea**, and selected ODM/brand specialists. Full framework below.
@@ -31,7 +31,7 @@ Search-engine queries like "is olive young publicly traded" or "olive young stoc
 |---|---|
 | Legal name | CJ Olive Young Corp. (CJ 올리브영 주식회사) |
 | Ultimate parent group | CJ Group |
-| Direct parent (controlling) | CJ Corporation (000120.KS) |
+| Direct parent (controlling) | CJ Corporation (001040.KS) |
 | Spin-off lineage | Carved out from CJ Olive Networks in 2019 |
 | Listed? | **No** |
 | Most recent IPO attempt | 2022 (withdrawn) |
@@ -52,7 +52,7 @@ This is exactly the profile US / EU / SEA retail investors want to own. The fric
 
 ---
 
-## 3. The Cleanest Indirect Proxy: CJ Corporation (000120.KS)
+## 3. The Cleanest Indirect Proxy: CJ Corporation (001040.KS)
 
 CJ Corporation is the listed holding company at the top of the CJ Group. Its ownership in CJ Olive Young is the largest single block.
 
@@ -60,7 +60,7 @@ CJ Corporation is the listed holding company at the top of the CJ Group. Its own
 
 | Holder | Stake (approx.) |
 |---|---:|
-| CJ Corporation (000120.KS) | **\~51.2%** |
+| CJ Corporation (001040.KS) | **\~51.2%** |
 | Lee Sun-ho (chairman's son) | \~11.0% |
 | Lee Kyung-hoo (chairman's daughter) | \~4.6% |
 | Glenwood / Korean financial investors (2021 pre-IPO round) | balance, with secondary trades since |
@@ -101,7 +101,7 @@ CJ CheilJedang (097950.KS) is the most-googled CJ-affiliate in English, partly b
 
 | Aspect | CJ Corporation | CJ CheilJedang | CJ Olive Young |
 |---|---|---|---|
-| Listed? | Yes (000120.KS) | Yes (097950.KS) | **No** |
+| Listed? | Yes (001040.KS) | Yes (097950.KS) | **No** |
 | Business | Holdco | Food / bio | H&B retail + brand |
 | Direct ownership of OY | \~51.2% | None operational | — |
 | Useful for OY exposure? | **Yes (indirect)** | **No** | — |
@@ -168,13 +168,13 @@ ODMs are often the **purest K-beauty wave play** — they manufacture for whoeve
 
 ### Bucket E — Holdco Indirects (where Olive Young actually sits)
 
-- **CJ Corporation (000120.KS)** — the Olive Young holdco proxy itself.
+- **CJ Corporation (001040.KS)** — the Olive Young holdco proxy itself.
 
 ### Quick decision framework
 
 | Your goal | Best path |
 |---|---|
-| Pure Olive Young upside | **CJ Corporation (000120.KS)** + accept holdco discount, watch for IPO catalyst |
+| Pure Olive Young upside | **CJ Corporation (001040.KS)** + accept holdco discount, watch for IPO catalyst |
 | K-beauty premium-brand cycle | AmorePacific / LG H&H |
 | Indie + US TikTok cycle | Cosmax / Kolmar Korea (ODMs) |
 | US-Amazon-bestseller specifically | Kolmar BNH (COSRX) |
@@ -214,14 +214,14 @@ This trade is not a free option. Specific risks:
 
 **The exact answer to "Is Olive Young publicly traded?" is: No, and the right follow-up question is what you're actually trying to own.**
 
-- If you want **Olive Young specifically**, your only public route is **CJ Corporation (000120.KS)** — accept the holdco discount, track the IPO timeline, treat the position as a Value-Up + IPO-catalyst combo.
+- If you want **Olive Young specifically**, your only public route is **CJ Corporation (001040.KS)** — accept the holdco discount, track the IPO timeline, treat the position as a Value-Up + IPO-catalyst combo.
 - If you want **K-beauty as a wave**, ignore the search-engine impulse to find an Olive Young ticker and instead build exposure through AmorePacific / LG H&H (brands), Cosmax / Kolmar Korea (ODMs), and Kolmar BNH / COSRX (US-Amazon-bestseller specific).
 - If you want **CJ Group exposure broadly** (food, entertainment, logistics, beauty), CJ Corporation again is the single-ticker entry point.
 - **Avoid** the common misconception that CJ CheilJedang gives you Olive Young exposure — it doesn't.
 
 The most underappreciated piece of this whole picture is that **Olive Young is materially larger and more profitable than at the 2022 IPO attempt**, while CJ Corporation's holdco discount has not yet meaningfully closed. Whenever the next IPO window opens — whether 2026, 2027, or 2028 — the **NAV recognition** of Olive Young is a real event for CJ Corporation shareholders.
 
-For now, the cleanest English-search answer is the one we started with: **No, Olive Young is not publicly traded. The closest you can get is CJ Corporation (000120.KS).**
+For now, the cleanest English-search answer is the one we started with: **No, Olive Young is not publicly traded. The closest you can get is CJ Corporation (001040.KS).**
 
 ---
 
@@ -262,10 +262,10 @@ For now, the cleanest English-search answer is the one we started with: **No, Ol
 ## FAQ — Olive Young
 
 **Q: Is Olive Young publicly traded?**
-A: No. Olive Young (CJ Olive Young Corp.) is not listed on any stock exchange. The cleanest indirect proxy is **CJ Corporation (KOSPI: 000120)**, which owns approximately 51.2% of CJ Olive Young.
+A: No. Olive Young (CJ Olive Young Corp.) is not listed on any stock exchange. The cleanest indirect proxy is **CJ Corporation (KOSPI: 001040)**, which owns approximately 51.2% of CJ Olive Young.
 
 **Q: Who owns Olive Young?**
-A: CJ Corporation (000120.KS) is the controlling shareholder (~51.2%). Lee Sun-ho (chairman Lee Jay-hyun's son, ~11%) and Lee Kyung-hoo (daughter, ~5%) hold direct minority stakes. Financial investors hold the remainder via the 2021 pre-IPO round.
+A: CJ Corporation (001040.KS) is the controlling shareholder (~51.2%). Lee Sun-ho (chairman Lee Jay-hyun's son, ~11%) and Lee Kyung-hoo (daughter, ~5%) hold direct minority stakes. Financial investors hold the remainder via the 2021 pre-IPO round.
 
 **Q: When did Olive Young's IPO get postponed?**
 A: CJ Olive Young filed for a KOSPI listing in 2022, but the IPO was withdrawn that year, citing weak IPO market conditions. As of 2026, no confirmed listing date has been announced; multiple capital-structure options have been reported in the trade press.
@@ -280,7 +280,7 @@ A: Olive Young already operates the global online channel (`globalolive.young.co
 A: No. CJ CheilJedang (KOSPI: 097950) is a separate listed entity in the CJ Group focused on food and bioscience (Bibigo, lysine, methionine). It does not operationally own Olive Young.
 
 **Q: What is the relationship between CJ Group and Olive Young?**
-A: Olive Young (CJ Olive Young Corp.) is a CJ Group affiliate. The listed CJ Group holding company, **CJ Corporation (000120.KS)**, is the majority shareholder of CJ Olive Young.
+A: Olive Young (CJ Olive Young Corp.) is a CJ Group affiliate. The listed CJ Group holding company, **CJ Corporation (001040.KS)**, is the majority shareholder of CJ Olive Young.
 
 
 *Disclaimer: For research and information purposes only. Not investment advice. Names cited are for analytical illustration; readers should perform their own due diligence and consult licensed advisors before any investment decision.*

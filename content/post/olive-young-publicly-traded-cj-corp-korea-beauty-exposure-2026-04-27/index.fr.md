@@ -2,15 +2,15 @@
 title: "Olive Young est-elle cotée en bourse ? CJ Corp, CJ CheilJedang et comment s'exposer vraiment à la K-Beauty"
 slug: olive-young-publicly-traded-cj-corp-korea-beauty-exposure-2026-04-27
 date: 2026-04-27T22:00:00+09:00
-description: "Olive Young n'est pas cotée en bourse. Le meilleur proxy indirect est CJ Corporation (000120.KS), qui détient ~51,2 % de CJ Olive Young. CJ CheilJedang est une entité agroalimentaire distincte et ne constitue pas un vecteur direct d'exposition à la K-beauty. Valeurs cotées mieux positionnées : AmorePacific (090430.KS), LG H&H (051900.KS), Cosmax (192820.KS), Kolmar Korea (161890.KS), COSRX (désormais sous Kolmar BNH). Cartographie complète de l'actionnariat, historique d'introduction en bourse et cadre d'exposition en 5 catégories."
+description: "Olive Young n'est pas cotée en bourse. Le meilleur proxy indirect est CJ Corporation (001040.KS), qui détient ~51,2 % de CJ Olive Young. CJ CheilJedang est une entité agroalimentaire distincte et ne constitue pas un vecteur direct d'exposition à la K-beauty. Valeurs cotées mieux positionnées : AmorePacific (090430.KS), LG H&H (051900.KS), Cosmax (192820.KS), Kolmar Korea (161890.KS), COSRX (désormais sous Kolmar BNH). Cartographie complète de l'actionnariat, historique d'introduction en bourse et cadre d'exposition en 5 catégories."
 categories: ["Marché coréen", "Consommation", "K-Beauty"]
-tags: ["olive-young", "cj-olive-young", "cj-corporation", "000120", "cj-cheiljedang", "korea-beauty", "k-beauty", "amorepacific", "lg-hh", "cosmax", "kolmar-korea", "cosrx", "introduction-en-bourse", "société-non-cotée"]
+tags: ["olive-young", "cj-olive-young", "cj-corporation", "001040", "cj-cheiljedang", "korea-beauty", "k-beauty", "amorepacific", "lg-hh", "cosmax", "kolmar-korea", "cosrx", "introduction-en-bourse", "société-non-cotée"]
 ---
 
 ## En bref
 
 - **Olive Young n'est pas cotée en bourse.** Il s'agit d'une filiale privée du groupe CJ, formellement dénommée **CJ Olive Young Corp.**, issue d'une scission de CJ Olive Networks en 2019.
-- Le meilleur **proxy indirect** est **CJ Corporation (000120.KS)** — la holding qui détient environ **51,2 %** de CJ Olive Young. Les enfants du président Lee Jay-hyun détiennent directement environ **\~22 %** supplémentaires, le reste étant aux mains d'investisseurs financiers depuis un tour de table pré-IPO en 2021.
+- Le meilleur **proxy indirect** est **CJ Corporation (001040.KS)** — la holding qui détient environ **51,2 %** de CJ Olive Young. Les enfants du président Lee Jay-hyun détiennent directement environ **\~22 %** supplémentaires, le reste étant aux mains d'investisseurs financiers depuis un tour de table pré-IPO en 2021.
 - **CJ CheilJedang (097950.KS) n'est pas un vecteur direct d'exposition à Olive Young.** C'est la branche agroalimentaire et biotechnologique du groupe (Bibigo, lysine, méthionine). Le lien se limite à "même groupe, entité cotée différente."
 - **L'introduction en bourse d'Olive Young a été reportée au moins deux fois** (annulée en 2022 ; revue stratégique ultérieure). En avril 2026, aucune date de cotation n'est confirmée.
 - Pour les investisseurs souhaitant une **exposition directe à la K-beauty** (plutôt qu'une part décotée via une holding), les valeurs cotées mieux alignées sont **AmorePacific, LG H&H, Cosmax, Kolmar Korea** ainsi que certains spécialistes ODM/marques. Cadre complet ci-dessous.
@@ -29,7 +29,7 @@ Les requêtes du type "olive young est-elle cotée" ou "action olive young" abou
 |---|---|
 | Dénomination légale | CJ Olive Young Corp. (CJ 올리브영 주식회사) |
 | Groupe actionnaire ultime | CJ Group |
-| Actionnaire direct (contrôle) | CJ Corporation (000120.KS) |
+| Actionnaire direct (contrôle) | CJ Corporation (001040.KS) |
 | Généalogie | Scindée de CJ Olive Networks en 2019 |
 | Cotée ? | **Non** |
 | Dernière tentative d'IPO | 2022 (retrait) |
@@ -50,7 +50,7 @@ C'est exactement le profil que les investisseurs particuliers américains, europ
 
 ---
 
-## 3. Le meilleur proxy indirect : CJ Corporation (000120.KS)
+## 3. Le meilleur proxy indirect : CJ Corporation (001040.KS)
 
 CJ Corporation est la holding cotée en tête du groupe CJ. Sa participation dans CJ Olive Young en constitue le principal bloc.
 
@@ -58,7 +58,7 @@ CJ Corporation est la holding cotée en tête du groupe CJ. Sa participation dan
 
 | Actionnaire | Part (approx.) |
 |---|---:|
-| CJ Corporation (000120.KS) | **\~51,2 %** |
+| CJ Corporation (001040.KS) | **\~51,2 %** |
 | Lee Sun-ho (fils du président) | \~11,0 % |
 | Lee Kyung-hoo (fille du président) | \~4,6 % |
 | Glenwood / investisseurs financiers coréens (tour pré-IPO 2021) | solde, avec transactions secondaires depuis |
@@ -99,7 +99,7 @@ CJ CheilJedang (097950.KS) est l'affilié CJ le plus recherché en anglais, nota
 
 | Aspect | CJ Corporation | CJ CheilJedang | CJ Olive Young |
 |---|---|---|---|
-| Cotée ? | Oui (000120.KS) | Oui (097950.KS) | **Non** |
+| Cotée ? | Oui (001040.KS) | Oui (097950.KS) | **Non** |
 | Activité | Holding | Agroalimentaire / biotech | Distribution H&B + marques |
 | Participation directe dans OY | \~51,2 % | Aucune | — |
 | Utile pour l'exposition OY ? | **Oui (indirect)** | **Non** | — |
@@ -166,13 +166,13 @@ Les ODM constituent souvent le **meilleur vecteur pur de la vague K-beauty** —
 
 ### Catégorie E — Holdings indirectes (où Olive Young se situe réellement)
 
-- **CJ Corporation (000120.KS)** — le proxy holding Olive Young lui-même.
+- **CJ Corporation (001040.KS)** — le proxy holding Olive Young lui-même.
 
 ### Cadre de décision rapide
 
 | Votre objectif | Meilleure approche |
 |---|---|
-| Potentiel pur Olive Young | **CJ Corporation (000120.KS)** + accepter la décote holding, surveiller le catalyseur IPO |
+| Potentiel pur Olive Young | **CJ Corporation (001040.KS)** + accepter la décote holding, surveiller le catalyseur IPO |
 | Cycle marques premium K-beauty | AmorePacific / LG H&H |
 | Cycle indépendants + TikTok US | Cosmax / Kolmar Korea (ODMs) |
 | Bestseller Amazon US spécifiquement | Kolmar BNH (COSRX) |
@@ -212,14 +212,14 @@ Ce pari n'est pas une option gratuite. Risques spécifiques :
 
 **La réponse exacte à "Olive Young est-elle cotée ?" est : Non, et la bonne question suivante est : qu'essayez-vous réellement de posséder ?**
 
-- Si vous visez **Olive Young spécifiquement**, votre seul accès public est **CJ Corporation (000120.KS)** — acceptez la décote holding, suivez le calendrier d'IPO, considérez la position comme un combo Value-Up + catalyseur IPO.
+- Si vous visez **Olive Young spécifiquement**, votre seul accès public est **CJ Corporation (001040.KS)** — acceptez la décote holding, suivez le calendrier d'IPO, considérez la position comme un combo Value-Up + catalyseur IPO.
 - Si vous visez **la K-beauty comme tendance**, ignorez l'impulsion du moteur de recherche consistant à trouver un ticker Olive Young et construisez plutôt votre exposition via AmorePacific / LG H&H (marques), Cosmax / Kolmar Korea (ODMs), et Kolmar BNH / COSRX (bestsellers Amazon US spécifiquement).
 - Si vous visez une **exposition large au groupe CJ** (agroalimentaire, divertissement, logistique, beauté), CJ Corporation reste le point d'entrée mono-ticker.
 - **Évitez** l'idée reçue selon laquelle CJ CheilJedang offre une exposition à Olive Young — ce n'est pas le cas.
 
 L'élément le plus sous-estimé de ce tableau d'ensemble est qu'**Olive Young est matériellement plus grande et plus rentable qu'au moment de la tentative d'IPO de 2022**, tandis que la décote holding de CJ Corporation ne s'est pas encore significativement réduite. Quelle que soit la prochaine fenêtre d'introduction en bourse — 2026, 2027 ou 2028 — la **reconnaissance de la VAN** d'Olive Young constitue un événement réel pour les actionnaires de CJ Corporation.
 
-En attendant, la réponse la plus claire à la recherche en anglais est celle par laquelle nous avons commencé : **Non, Olive Young n'est pas cotée en bourse. La façon la plus proche d'y accéder reste CJ Corporation (000120.KS).**
+En attendant, la réponse la plus claire à la recherche en anglais est celle par laquelle nous avons commencé : **Non, Olive Young n'est pas cotée en bourse. La façon la plus proche d'y accéder reste CJ Corporation (001040.KS).**
 
 ---
 
