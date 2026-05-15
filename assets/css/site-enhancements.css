@@ -238,7 +238,7 @@ html[data-scheme="dark"] {
 }
 
 .home-hubs-title {
-  font-size: 1.25rem;
+  font-size: 1.4rem;
   font-weight: 700;
   margin: 0;
 }
@@ -289,7 +289,7 @@ html[data-scheme="dark"] {
 .home-hub-card-title {
   display: block;
   font-weight: 600;
-  font-size: 0.9375rem;
+  font-size: 1.05rem;
   margin-bottom: 0.25rem;
   line-height: 1.3;
   color: var(--card-text-color-main, inherit);
@@ -301,7 +301,7 @@ html[data-scheme="dark"] {
 
 .home-hub-card-desc {
   display: block;
-  font-size: 0.8125rem;
+  font-size: 0.9rem;
   line-height: 1.4;
   color: var(--card-text-color-secondary, #4a5568);
   opacity: 1;
