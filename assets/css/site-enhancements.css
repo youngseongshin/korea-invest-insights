@@ -252,6 +252,64 @@ html[data-scheme="dark"] {
   text-align: center;
 }
 
+.post-recommendation-list-count {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.32rem;
+  padding: 0.16rem 0.5rem;
+  border: 1px solid var(--card-separator-color, rgba(15, 23, 42, 0.1));
+  border-radius: 999px;
+  background: rgba(37, 99, 235, 0.07);
+  color: var(--card-text-color-tertiary, #64748b);
+  font-size: 1.28rem;
+  line-height: 1.2;
+  font-weight: 650;
+  white-space: nowrap;
+}
+
+.post-recommendation-list-count::before {
+  content: "★";
+  color: var(--accent-color, #2563eb);
+  font-size: 0.9em;
+  line-height: 1;
+}
+
+.post-recommendation-list-value {
+  min-width: 1.1em;
+  font-variant-numeric: tabular-nums;
+  text-align: right;
+}
+
+.article-meta .post-recommendation-list-count,
+.article-meta .post-recommendation-list-count span {
+  font-size: 1.28rem;
+  color: var(--card-text-color-tertiary, #64748b);
+}
+
+[data-scheme="dark"] .post-recommendation-list-count {
+  border-color: rgba(240, 246, 252, 0.12);
+  background: rgba(88, 166, 255, 0.12);
+}
+
+.article-list--compact .post-recommendation-list-count {
+  font-size: 1.25rem;
+}
+
+.article-list--compact .post-recommendation-list-count span {
+  font-size: 1.25rem;
+}
+
+.article-list--tile .post-recommendation-list-count {
+  align-self: flex-start;
+  color: var(--article-tile-text-color, #fff);
+  background: rgba(0, 0, 0, 0.28);
+  border-color: rgba(255, 255, 255, 0.18);
+}
+
+.article-list--tile .post-recommendation-list-count::before {
+  color: inherit;
+}
+
 @media (max-width: 768px) {
   .post-recommendation {
     align-items: stretch;

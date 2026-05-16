@@ -15,14 +15,7 @@
 {{- end -}}
 {{- $endpoint := $config.apiEndpoint | default (getenv "HUGO_RECOMMENDATIONS_API") -}}
 {{- if and $enabled $endpoint (eq .Section "post") -}}
-  {{- $key := .RelPermalink -}}
-  {{- with .File -}}
-    {{- $dir := path.Dir .Path -}}
-    {{- $bundle := path.Base $dir -}}
-    {{- if and $bundle (ne $bundle "post") -}}
-      {{- $key = printf "post:%s" $bundle -}}
-    {{- end -}}
-  {{- end -}}
+  {{- $key := partial "article/components/recommendation-key.html" . -}}
   {{- $lang := .Lang -}}
   {{- $headline := "Was this useful?" -}}
   {{- $body := "Recommend this post if it helped. The count is shared across translations." -}}

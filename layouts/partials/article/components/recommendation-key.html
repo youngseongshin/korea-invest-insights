@@ -1,0 +1,14 @@
+{{/*
+  Return the language-agnostic recommendation key for a post.
+  Leaf bundle translations share the same bundle directory, so this keeps
+  recommendation counts shared across languages.
+*/}}
+{{- $key := .RelPermalink -}}
+{{- with .File -}}
+  {{- $dir := path.Dir .Path -}}
+  {{- $bundle := path.Base $dir -}}
+  {{- if and $bundle (ne $bundle "post") -}}
+    {{- $key = printf "post:%s" $bundle -}}
+  {{- end -}}
+{{- end -}}
+{{- return $key -}}

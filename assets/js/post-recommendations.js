@@ -1,5 +1,6 @@
 (function () {
   const WIDGET_SELECTOR = "[data-recommendation-widget]";
+  const COUNT_SELECTOR = "[data-recommendation-count]";
   const VOTER_KEY = "kii:recommendations:voter";
   const VOTE_PREFIX = "kii:recommendations:voted:";
 
@@ -81,7 +82,7 @@
   }
 
   function setCount(widget, count) {
-    const countNode = widget.querySelector(".post-recommendation-count");
+    const countNode = widget.querySelector(".post-recommendation-count, .post-recommendation-list-value");
     if (countNode) countNode.textContent = formatCount(count);
   }
 
@@ -105,6 +106,21 @@
     if (!response.ok) throw new Error(`GET ${response.status}`);
     const payload = await response.json();
     setCount(widget, payload.count || 0);
+  }
+
+  async function loadCountBatch(endpoint, keys) {
+    const url = new URL(endpoint, window.location.origin);
+    url.searchParams.set("keys", keys.join(","));
+
+    const response = await fetch(url, {
+      method: "GET",
+      headers: { Accept: "application/json" },
+      credentials: "omit",
+    });
+
+    if (!response.ok) throw new Error(`GET ${response.status}`);
+    const payload = await response.json();
+    return payload.counts || {};
   }
 
   async function submitRecommendation(widget) {
@@ -164,8 +180,41 @@
     });
   }
 
+  function initCountBadges() {
+    const badges = Array.from(document.querySelectorAll(COUNT_SELECTOR));
+    if (!badges.length) return;
+
+    const groups = new Map();
+    badges.forEach((badge) => {
+      const endpoint = badge.dataset.endpoint;
+      const key = badge.dataset.key;
+      if (!endpoint || !key) return;
+      if (!groups.has(endpoint)) groups.set(endpoint, []);
+      groups.get(endpoint).push(badge);
+    });
+
+    groups.forEach((items, endpoint) => {
+      const keys = Array.from(new Set(items.map((item) => item.dataset.key).filter(Boolean)));
+      if (!keys.length) return;
+
+      loadCountBatch(endpoint, keys)
+        .then((counts) => {
+          items.forEach((item) => {
+            const key = item.dataset.key;
+            setCount(item, counts[key] || 0);
+          });
+        })
+        .catch(() => {
+          items.forEach((item) => {
+            item.dataset.recommendationCountError = "true";
+          });
+        });
+    });
+  }
+
   function init() {
     document.querySelectorAll(WIDGET_SELECTOR).forEach(initWidget);
+    initCountBadges();
   }
 
   if (document.readyState === "loading") {

@@ -55,8 +55,49 @@ async function getCount(db, key) {
   return row ? Number(row.count || 0) : 0;
 }
 
+function validateKeys(value) {
+  if (typeof value !== "string") return [];
+
+  const keys = [];
+  const seen = new Set();
+  value
+    .split(",")
+    .map((item) => validateKey(item))
+    .filter(Boolean)
+    .forEach((key) => {
+      if (seen.has(key) || keys.length >= 100) return;
+      seen.add(key);
+      keys.push(key);
+    });
+
+  return keys;
+}
+
+async function getCounts(db, keys) {
+  const counts = Object.fromEntries(keys.map((key) => [key, 0]));
+  if (!keys.length) return counts;
+
+  const placeholders = keys.map(() => "?").join(",");
+  const result = await db
+    .prepare(`SELECT post_key, count FROM recommendations WHERE post_key IN (${placeholders})`)
+    .bind(...keys)
+    .all();
+
+  for (const row of result.results || []) {
+    if (row.post_key in counts) counts[row.post_key] = Number(row.count || 0);
+  }
+
+  return counts;
+}
+
 async function handleGet(request, env, headers) {
   const url = new URL(request.url);
+  const keys = validateKeys(url.searchParams.get("keys"));
+  if (keys.length) {
+    const counts = await getCounts(env.DB, keys);
+    return json({ ok: true, counts }, 200, headers);
+  }
+
   const key = validateKey(url.searchParams.get("key"));
   if (!key) return json({ ok: false, error: "invalid_key" }, 400, headers);
 

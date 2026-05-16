@@ -1,0 +1,37 @@
+{{/*
+  Compact recommendation count for article lists.
+  Hidden unless the recommendation API endpoint is configured.
+*/}}
+{{- $config := .Site.Params.recommendations | default dict -}}
+{{- $enabled := true -}}
+{{- with $config.enabled -}}
+  {{- $enabled = . -}}
+{{- end -}}
+{{- $endpoint := $config.apiEndpoint | default (getenv "HUGO_RECOMMENDATIONS_API") -}}
+{{- if and $enabled $endpoint (eq .Section "post") -}}
+  {{- $key := partial "article/components/recommendation-key.html" . -}}
+  {{- $lang := .Lang -}}
+  {{- $label := "Recommendations" -}}
+  {{- if eq $lang "ko" -}}
+    {{- $label = "추천" -}}
+  {{- else if eq $lang "ja" -}}
+    {{- $label = "おすすめ" -}}
+  {{- else if eq $lang "zh" -}}
+    {{- $label = "推荐" -}}
+  {{- else if eq $lang "es" -}}
+    {{- $label = "Recomendaciones" -}}
+  {{- else if eq $lang "fr" -}}
+    {{- $label = "Recommandations" -}}
+  {{- else if eq $lang "vi" -}}
+    {{- $label = "Đề xuất" -}}
+  {{- end -}}
+  <span
+    class="post-recommendation-list-count"
+    data-recommendation-count
+    data-endpoint="{{ $endpoint }}"
+    data-key="{{ $key }}"
+    aria-label="{{ $label }}">
+    <span class="post-recommendation-list-label">{{ $label }}</span>
+    <span class="post-recommendation-list-value">0</span>
+  </span>
+{{- end -}}
