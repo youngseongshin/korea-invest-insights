@@ -40,6 +40,7 @@ jobs:
           HUGO_CACHEDIR: ${{ runner.temp }}/hugo_cache
           HUGO_ENVIRONMENT: production
           HUGO_ADSENSE_PUBLISHER_ID: ${{ secrets.GOOGLE_ADSENSE_PUBLISHER_ID }}
+          HUGO_RECOMMENDATIONS_API: ${{ secrets.HUGO_RECOMMENDATIONS_API }}
           TZ: Asia/Seoul
         run: hugo --minify
 

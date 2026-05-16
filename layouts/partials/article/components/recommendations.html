@@ -1,0 +1,101 @@
+{{/*
+  Reader recommendation widget.
+  Hidden unless an API endpoint is configured through either:
+  - params.recommendations.apiEndpoint in hugo.toml, or
+  - HUGO_RECOMMENDATIONS_API in the build environment.
+
+  The key is intentionally language-agnostic for multilingual leaf bundles:
+  post:<bundle-slug>. That means all translations of the same post share one
+  recommendation count.
+*/}}
+{{- $config := .Site.Params.recommendations | default dict -}}
+{{- $enabled := true -}}
+{{- with $config.enabled -}}
+  {{- $enabled = . -}}
+{{- end -}}
+{{- $endpoint := $config.apiEndpoint | default (getenv "HUGO_RECOMMENDATIONS_API") -}}
+{{- if and $enabled $endpoint (eq .Section "post") -}}
+  {{- $key := .RelPermalink -}}
+  {{- with .File -}}
+    {{- $dir := path.Dir .Path -}}
+    {{- $bundle := path.Base $dir -}}
+    {{- if and $bundle (ne $bundle "post") -}}
+      {{- $key = printf "post:%s" $bundle -}}
+    {{- end -}}
+  {{- end -}}
+  {{- $lang := .Lang -}}
+  {{- $headline := "Was this useful?" -}}
+  {{- $body := "Recommend this post if it helped. The count is shared across translations." -}}
+  {{- $button := "Recommend" -}}
+  {{- $done := "Recommended" -}}
+  {{- $loading := "Loading" -}}
+  {{- $error := "Recommendation count is temporarily unavailable." -}}
+  {{- if eq $lang "ko" -}}
+    {{- $headline = "이 글이 도움이 되었나요?" -}}
+    {{- $body = "도움이 되었다면 추천을 눌러주세요. 추천 수는 번역본 전체에서 함께 집계됩니다." -}}
+    {{- $button = "추천하기" -}}
+    {{- $done = "추천됨" -}}
+    {{- $loading = "불러오는 중" -}}
+    {{- $error = "추천 수를 잠시 불러오지 못했습니다." -}}
+  {{- else if eq $lang "ja" -}}
+    {{- $headline = "この記事は役に立ちましたか？" -}}
+    {{- $body = "役に立ったらおすすめしてください。件数は翻訳版全体で共有されます。" -}}
+    {{- $button = "おすすめ" -}}
+    {{- $done = "おすすめ済み" -}}
+    {{- $loading = "読み込み中" -}}
+    {{- $error = "おすすめ数を一時的に取得できません。" -}}
+  {{- else if eq $lang "zh" -}}
+    {{- $headline = "这篇文章有帮助吗？" -}}
+    {{- $body = "如果有帮助，请推荐这篇文章。推荐数会在所有翻译版本之间共享。" -}}
+    {{- $button = "推荐" -}}
+    {{- $done = "已推荐" -}}
+    {{- $loading = "加载中" -}}
+    {{- $error = "暂时无法加载推荐数。" -}}
+  {{- else if eq $lang "es" -}}
+    {{- $headline = "¿Te resultó útil este artículo?" -}}
+    {{- $body = "Recomiéndalo si te ayudó. El conteo se comparte entre las traducciones." -}}
+    {{- $button = "Recomendar" -}}
+    {{- $done = "Recomendado" -}}
+    {{- $loading = "Cargando" -}}
+    {{- $error = "El conteo de recomendaciones no está disponible temporalmente." -}}
+  {{- else if eq $lang "fr" -}}
+    {{- $headline = "Cet article vous a-t-il été utile ?" -}}
+    {{- $body = "Recommandez-le s'il vous a aidé. Le compteur est partagé entre les traductions." -}}
+    {{- $button = "Recommander" -}}
+    {{- $done = "Recommandé" -}}
+    {{- $loading = "Chargement" -}}
+    {{- $error = "Le compteur de recommandations est temporairement indisponible." -}}
+  {{- else if eq $lang "vi" -}}
+    {{- $headline = "Bài viết này có hữu ích không?" -}}
+    {{- $body = "Hãy đề xuất nếu bài viết hữu ích. Số lượt được tính chung cho mọi bản dịch." -}}
+    {{- $button = "Đề xuất" -}}
+    {{- $done = "Đã đề xuất" -}}
+    {{- $loading = "Đang tải" -}}
+    {{- $error = "Tạm thời chưa tải được số lượt đề xuất." -}}
+  {{- end -}}
+
+<aside
+  class="post-recommendation"
+  data-recommendation-widget
+  data-endpoint="{{ $endpoint }}"
+  data-key="{{ $key }}"
+  data-label-button="{{ $button }}"
+  data-label-done="{{ $done }}"
+  data-label-loading="{{ $loading }}"
+  data-label-error="{{ $error }}">
+  <div class="post-recommendation-copy">
+    <div class="post-recommendation-title">{{ $headline }}</div>
+    <p>{{ $body }}</p>
+  </div>
+  <button class="post-recommendation-button" type="button" aria-pressed="false">
+    <span class="post-recommendation-button-text">{{ $button }}</span>
+    <span class="post-recommendation-count" aria-live="polite">0</span>
+  </button>
+  <p class="post-recommendation-status" hidden></p>
+</aside>
+
+{{- with resources.Get "js/post-recommendations.js" -}}
+  {{- $js := . | minify | fingerprint "sha256" -}}
+  <script defer src="{{ $js.RelPermalink }}" integrity="{{ $js.Data.Integrity }}" crossorigin="anonymous"></script>
+{{- end -}}
+{{- end -}}

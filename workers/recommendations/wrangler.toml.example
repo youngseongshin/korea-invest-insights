@@ -1,0 +1,16 @@
+name = "korea-invest-insights-recommendations"
+main = "src/worker.js"
+compatibility_date = "2026-05-16"
+
+# Route this Worker to the same origin used by the Hugo widget, for example:
+# routes = [
+#   { pattern = "koreainvestinsights.com/api/recommendations", custom_domain = false }
+# ]
+
+[[d1_databases]]
+binding = "DB"
+database_name = "korea-invest-insights-recommendations"
+database_id = "replace-with-cloudflare-d1-database-id"
+
+[vars]
+ALLOWED_ORIGINS = "https://koreainvestinsights.com,https://www.koreainvestinsights.com,http://localhost:1313"

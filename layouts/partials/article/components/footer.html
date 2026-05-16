@@ -1,6 +1,8 @@
 {{/* Override: inject Telegram subscribe CTA on post pages, then render theme's default footer */}}
 
 {{ if eq .Section "post" }}
+    {{ partial "article/components/recommendations.html" . }}
+
     {{- $lang := .Lang -}}
     {{- $headline := "" -}}
     {{- $body := "" -}}
