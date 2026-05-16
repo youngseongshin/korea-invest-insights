@@ -26,9 +26,9 @@ slug: pearl-abyss-crimson-desert-patch-107-weekend-data-2026-05-17
 
 ## 1. Dữ liệu cuối tuần
 
-> **Nguồn** SteamDB / SteamCharts (dữ liệu công khai)
-> **Thời điểm chụp** 2026-05-16 23:20 KST
-> **Khung so sánh** 15/05 18:00 – 16/05 23:20 so với cuối tuần trước 8/05 18:00 – 9/05 23:20
+- **Nguồn** — SteamDB / SteamCharts (dữ liệu công khai)
+- **Thời điểm chụp** — 2026-05-16 23:20 KST
+- **Khung so sánh** — 15/05 18:00 – 16/05 23:20 so với cuối tuần trước 8/05 18:00 – 9/05 23:20
 
 | Chỉ số | Cuối tuần này | Cuối tuần trước | Δ |
 |---|---:|---:|---:|
@@ -59,9 +59,9 @@ Theo ghi chú chính thức, 1.07 bổ sung chế độ đánh lại boss, kỹ 
 
 ## 3. Ước tính số bản bán ra
 
-> **Tổng đánh giá tích lũy hiện tại** 151.847
-> **Đánh giá tại mốc 5 triệu bản** 130.635
-> **Tỷ lệ đánh giá/bản bán dựa trên mốc** 2,6127%
+- **Tổng đánh giá tích lũy hiện tại** — 151.847
+- **Đánh giá tại mốc 5 triệu bản** — 130.635
+- **Tỷ lệ đánh giá/bản bán dựa trên mốc** — 2,6127%
 
 Ước tính trung tâm số bản bán ra: **\~5,81 triệu bản**
 

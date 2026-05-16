@@ -26,9 +26,9 @@ slug: pearl-abyss-crimson-desert-patch-107-weekend-data-2026-05-17
 
 ## 1. Les données du week-end
 
-> **Source** SteamDB / SteamCharts (données publiques)
-> **Instantané** 16 mai 2026, 23h20 KST
-> **Fenêtre** 15 mai 18h00 – 16 mai 23h20 vs week-end précédent 8 mai 18h00 – 9 mai 23h20
+- **Source** — SteamDB / SteamCharts (données publiques)
+- **Instantané** — 16 mai 2026, 23h20 KST
+- **Fenêtre** — 15 mai 18h00 – 16 mai 23h20 vs week-end précédent 8 mai 18h00 – 9 mai 23h20
 
 | Métrique | Ce week-end | Week-end précédent | Δ |
 |---|---:|---:|---:|
@@ -59,9 +59,9 @@ D'après les notes officielles, le 1.07 ajoute des revanches contre les boss, de
 
 ## 3. Estimation des unités vendues
 
-> **Avis cumulés actuels** 151 847
-> **Avis au seuil d'ancrage de 5 M** 130 635
-> **Ratio avis/unités basé sur l'ancrage** 2,6127 %
+- **Avis cumulés actuels** — 151 847
+- **Avis au seuil d'ancrage de 5 M** — 130 635
+- **Ratio avis/unités basé sur l'ancrage** — 2,6127 %
 
 Estimation centrale : **\~5,81 M**
 

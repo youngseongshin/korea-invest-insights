@@ -26,9 +26,9 @@ slug: pearl-abyss-crimson-desert-patch-107-weekend-data-2026-05-17
 
 ## 1. Los datos del fin de semana
 
-> **Fuente** SteamDB / SteamCharts (datos públicos)
-> **Snapshot** 2026-05-16 23:20 KST
-> **Ventana** 15 de mayo 18:00 – 16 de mayo 23:20 vs fin de semana anterior 8 de mayo 18:00 – 9 de mayo 23:20
+- **Fuente** — SteamDB / SteamCharts (datos públicos)
+- **Snapshot** — 2026-05-16 23:20 KST
+- **Ventana** — 15 de mayo 18:00 – 16 de mayo 23:20 vs fin de semana anterior 8 de mayo 18:00 – 9 de mayo 23:20
 
 | Métrica | Este fin de semana | Fin de semana anterior | Δ |
 |---|---:|---:|---:|
@@ -59,9 +59,9 @@ Según las notas oficiales, 1.07 añadió revanchas de jefes, nuevas habilidades
 
 ## 3. Estimación de unidades
 
-> **Reseñas acumuladas actuales** 151.847
-> **Reseñas en el punto de anclaje de 5M** 130.635
-> **Ratio reseñas/unidades basado en el anclaje** 2,6127%
+- **Reseñas acumuladas actuales** — 151.847
+- **Reseñas en el punto de anclaje de 5M** — 130.635
+- **Ratio reseñas/unidades basado en el anclaje** — 2,6127%
 
 Estimación central de unidades: **\~5,81M**
 

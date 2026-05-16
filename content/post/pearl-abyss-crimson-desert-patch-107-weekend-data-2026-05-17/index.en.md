@@ -26,9 +26,9 @@ slug: pearl-abyss-crimson-desert-patch-107-weekend-data-2026-05-17
 
 ## 1. The weekend data
 
-> **Source** SteamDB / SteamCharts public data
-> **Snapshot** 2026-05-16 23:20 KST
-> **Window** May 15 18:00 – May 16 23:20 vs prior-weekend May 8 18:00 – May 9 23:20
+- **Source** — SteamDB / SteamCharts public data
+- **Snapshot** — 2026-05-16 23:20 KST
+- **Window** — May 15 18:00 – May 16 23:20 vs prior-weekend May 8 18:00 – May 9 23:20
 
 | Metric | This weekend | Last weekend | Δ |
 |---|---:|---:|---:|
@@ -59,9 +59,9 @@ Per the official notes, 1.07 added boss rematches, new Damiane combat skills, mo
 
 ## 3. Units estimate
 
-> **Current cumulative reviews** 151,847
-> **Reviews at the 5M anchor** 130,635
-> **Anchor-based review/units ratio** 2.6127%
+- **Current cumulative reviews** — 151,847
+- **Reviews at the 5M anchor** — 130,635
+- **Anchor-based review/units ratio** — 2.6127%
 
 Central units estimate: **\~5.81M**
 
