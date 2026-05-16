@@ -77,6 +77,32 @@ This lets SEO-canonical evergreen research stay canonical on Korea Invest
 Insights while time-sensitive distribution pieces can be consumed directly
 inside Valley.
 
+## Valley Cashtags
+
+Valley can internally link stock-related posts when a company name is written as
+a cashtag, for example `$삼성전자`.
+
+The cross-post script therefore adds a short `관련 종목` block near the top of
+the Valley body instead of rewriting every company mention in the article. This
+keeps the prose clean while still giving Valley its internal stock-link signal.
+
+Cashtags are inferred from:
+
+- six-digit KRX ticker tags when a Korean name is known
+- known Korean company-name tags
+- important Korean stock names found in the title, description, or body
+
+Per-post override is available:
+
+```yaml
+valley_cashtags:
+  - 삼성전자
+  - SK하이닉스
+```
+
+Use the override when the article is about a listed company but its tags are
+too thematic for the automatic detector.
+
 ## GitHub Configuration
 
 Set the repository variable:

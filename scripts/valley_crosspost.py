@@ -61,6 +61,49 @@ AUTO_FULL_SLUG_PREFIXES = (
 )
 AUTO_FULL_MAX_CHARS = 9000
 AUTO_FULL_MAX_TABLE_LINES = 8
+FALLBACK_KOREAN_TICKERS = {
+    "000660": "SK하이닉스",
+    "005930": "삼성전자",
+    "009150": "삼성전기",
+    "010130": "고려아연",
+    "010140": "삼성중공업",
+    "011200": "HMM",
+    "012450": "한화에어로스페이스",
+    "015760": "한국전력",
+    "017960": "한국카본",
+    "028260": "삼성물산",
+    "032830": "삼성생명",
+    "035420": "네이버",
+    "035720": "카카오",
+    "042660": "한화오션",
+    "051900": "LG생활건강",
+    "064350": "현대로템",
+    "068270": "셀트리온",
+    "090430": "아모레퍼시픽",
+    "096770": "SK이노베이션",
+    "105560": "KB금융",
+    "207940": "삼성바이오로직스",
+    "259960": "크래프톤",
+    "267260": "HD현대일렉트릭",
+    "285130": "SK케미칼",
+    "302440": "SK바이오사이언스",
+    "323410": "카카오뱅크",
+    "373220": "LG에너지솔루션",
+    "402340": "SK스퀘어",
+}
+GENERIC_CASHTAG_EXCLUSIONS = {
+    "AI",
+    "HBM",
+    "KOSPI",
+    "KOSDAQ",
+    "KRX",
+    "NVIDIA",
+    "TSMC",
+    "한국 주식",
+    "한국 반도체",
+    "이벤트 분석",
+}
+MAX_RELATED_CASHTAGS = 6
 
 
 class ValleyCrosspostError(RuntimeError):
@@ -321,8 +364,88 @@ def resolve_body_mode(post: dict[str, Any], body_mode: str) -> str:
     return "teaser"
 
 
+def repo_root_for_post(post: dict[str, Any]) -> Path:
+    path = Path(post["path"]).resolve()
+    for parent in path.parents:
+        if (parent / "content").is_dir() and (parent / "data").is_dir():
+            return parent
+    return path.parents[3] if len(path.parents) > 3 else Path.cwd()
+
+
+def load_ticker_name_map(repo_root: Path) -> dict[str, str]:
+    ticker_map = dict(FALLBACK_KOREAN_TICKERS)
+    data_path = repo_root / "data" / "tickers.yaml"
+    if not data_path.exists():
+        return ticker_map
+
+    current_code: str | None = None
+    for raw_line in data_path.read_text(encoding="utf-8").splitlines():
+        code_match = re.match(r'^"?(?P<code>\d{6})"?:\s*$', raw_line.strip())
+        if code_match:
+            current_code = code_match.group("code")
+            continue
+        ko_match = re.match(r'^\s+ko:\s*["\']?(?P<name>[^"\']+)["\']?\s*$', raw_line)
+        if ko_match and current_code:
+            ticker_map[current_code] = ko_match.group("name").strip()
+    return ticker_map
+
+
+def list_frontmatter_values(value: Any) -> list[str]:
+    if not value:
+        return []
+    if isinstance(value, list):
+        return [str(item).strip() for item in value if str(item).strip()]
+    return [str(value).strip()]
+
+
+def related_cashtags(post: dict[str, Any]) -> list[str]:
+    explicit = list_frontmatter_values(post["front_matter"].get("valley_cashtags"))
+    if explicit:
+        names = explicit
+    else:
+        ticker_map = load_ticker_name_map(repo_root_for_post(post))
+        name_set = set(ticker_map.values())
+        tags = [str(tag).strip() for tag in post.get("tags", []) if str(tag).strip()]
+        text = " ".join([post["title"], post["description"], post["body"], " ".join(tags)])
+        names = []
+
+        for tag in tags:
+            if re.fullmatch(r"\d{6}", tag) and tag in ticker_map:
+                names.append(ticker_map[tag])
+            elif tag in name_set:
+                names.append(tag)
+
+        fallback_names = set(FALLBACK_KOREAN_TICKERS.values())
+        for code, name in ticker_map.items():
+            if code in tags or name in tags or (
+                name in fallback_names and re.search(rf"(?<!\$){re.escape(name)}", text)
+            ):
+                names.append(name)
+
+    normalized: list[str] = []
+    seen: set[str] = set()
+    for name in names:
+        clean_name = str(name).strip().lstrip("$")
+        if not clean_name or clean_name in GENERIC_CASHTAG_EXCLUSIONS or clean_name in seen:
+            continue
+        seen.add(clean_name)
+        normalized.append(f"${clean_name}")
+        if len(normalized) >= MAX_RELATED_CASHTAGS:
+            break
+    return normalized
+
+
+def related_cashtags_block(post: dict[str, Any]) -> str:
+    cashtags = related_cashtags(post)
+    if not cashtags:
+        return ""
+    label = "관련 종목" if post["lang"] == "ko" else "Related tickers"
+    return f"{label}\n{' · '.join(cashtags)}"
+
+
 def build_body(post: dict[str, Any], body_mode: str) -> str:
     body_mode = resolve_body_mode(post, body_mode)
+    related_block = related_cashtags_block(post)
     if post["lang"] == "ko":
         source_label = "원문 전체 읽기"
         summary_label = "핵심 요약"
@@ -334,7 +457,8 @@ def build_body(post: dict[str, Any], body_mode: str) -> str:
 
     if body_mode == "full":
         source = f"{source_label}\n{post['canonical_url']}"
-        return f"{source}\n\n---\n\n{post['body'].strip()}\n\n---\n\n{footer}"
+        intro = "\n\n".join(part for part in [source, related_block] if part)
+        return f"{intro}\n\n---\n\n{post['body'].strip()}\n\n---\n\n{footer}"
 
     summary = extract_summary(post["body"])
     parts = []
@@ -343,6 +467,7 @@ def build_body(post: dict[str, Any], body_mode: str) -> str:
     parts.extend(
         [
             f"{source_label}\n{post['canonical_url']}",
+            related_block,
             summary_label,
         ]
     )
