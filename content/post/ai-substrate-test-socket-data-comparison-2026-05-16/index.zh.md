@@ -8,6 +8,8 @@ tags:
   - "基板"
   - "测试插座"
   - "内存"
+  - "三星电子"
+  - "SK海力士"
   - "韩国股票"
   - "估值"
 slug: ai-substrate-test-socket-data-comparison-2026-05-16

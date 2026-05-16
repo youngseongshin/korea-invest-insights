@@ -8,6 +8,8 @@ tags:
   - "substrate"
   - "test socket"
   - "memory"
+  - "Samsung Electronics"
+  - "SK Hynix"
   - "Korea stocks"
   - "valuation"
 slug: ai-substrate-test-socket-data-comparison-2026-05-16

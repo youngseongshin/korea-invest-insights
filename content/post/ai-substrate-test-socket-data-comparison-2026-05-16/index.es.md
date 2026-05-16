@@ -8,6 +8,8 @@ tags:
   - "sustrato"
   - "zócalo de prueba"
   - "memoria"
+  - "Samsung Electronics"
+  - "SK Hynix"
   - "bolsa coreana"
   - "valoración"
 slug: ai-substrate-test-socket-data-comparison-2026-05-16

@@ -8,6 +8,8 @@ tags:
   - "サブストレート"
   - "テストソケット"
   - "メモリ"
+  - "サムスン電子"
+  - "SKハイニックス"
   - "韓国株"
   - "バリュエーション"
 slug: ai-substrate-test-socket-data-comparison-2026-05-16

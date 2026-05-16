@@ -8,6 +8,8 @@ tags:
   - "기판"
   - "테스트 소켓"
   - "메모리"
+  - "삼성전자"
+  - "SK하이닉스"
   - "한국 주식"
   - "밸류에이션"
 slug: ai-substrate-test-socket-data-comparison-2026-05-16
