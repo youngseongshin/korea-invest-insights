@@ -36,7 +36,7 @@ Ambas acciones se dispararon en el 1T26. Hana Micron obtuvo un beneficio operati
 
 Tomadas al pie de la letra, ambas empresas califican como "sorpresas de ganancias". Hana Micron superó el beneficio operativo consensuado en aproximadamente un 30%. Jeju Semiconductor aumentó las ganancias operativas casi 18 veces año tras año.
 
-| Métrica | NOMBREZX4ZX | NOMBREZX5ZX |
+| Métrica | Hana Micron | Jeju Semiconductor |
 | --- | ---: | ---: |
 | Capitalización de mercado (15 de mayo) | \~KRW 3,52 billones | \~KRW 2,83 billones |
 | Ingresos 1T26 | 507.700 millones de wones | 180.500 millones de wones |
@@ -85,7 +85,7 @@ En consecuencia, el 37,2% OPM en el 1T26 se lee mejor como un margen de exceso d
 
 El resumen más claro del contraste es el siguiente: para Hana Micron, la pregunta es si la estructura de precios ha cambiado permanentemente. Para Jeju Semiconductor, la pregunta es cuánto durará la escasez de suministro.
 
-| Dimensión | ZXNOMBRE0ZX | NOMBREZX1ZX |
+| Dimensión | Hana Micron | Jeju Semiconductor |
 | --- | --- | --- |
 | Tipo de cambio | Mejora del modelo de negocio | Beneficio excedente cíclico |
 | Conductor principal | Revisión de precios de transferencia de costos de Vina | LPDDR4X escasez de suministro |
@@ -145,10 +145,10 @@ Hana Micron es principalmente una historia de OSAT. A medida que crece la demand
 
 | Empresa | 2027E PER / Métrico | Tesis central |
 | --- | ---: | --- |
-| NOMBREZX3ZX | \~5x | Líder HBM, preocupación por el pico del ciclo |
-| NOMBREZX4ZX | \~5–6x | HBM4 + opcionalidad de fundición |
-| NOMBREZX1ZX | \~14–19x | Vina/Brasil mejora estructural |
-| NOMBREZX2ZX | 9x (tasa de ejecución del 1T); \~16–17x (EV) | Ciclo de suministro LPDDR4X, sin consenso |
+| SK hynix | \~5x | Líder HBM, preocupación por el pico del ciclo |
+| Samsung Electronics | \~5–6x | HBM4 + opcionalidad de fundición |
+| Hana Micron | \~14–19x | Mejora estructural Vina/Brasil |
+| Jeju Semiconductor | 9x (tasa de ejecución del 1T); \~16–17x (EV) | Ciclo de suministro LPDDR4X, sin consenso |
 | Simmtech | \~20x | Recuperación del sustrato |
 | Hae Seong DS | \~15x | Candidato de sustrato más barato |
 | Leeno Industrial | \~33x | Enchufe de prueba de calidad premium |
