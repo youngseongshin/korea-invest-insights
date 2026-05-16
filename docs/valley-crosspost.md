@@ -98,7 +98,30 @@ Cashtags are inferred from:
 
 - six-digit KRX ticker tags when a Korean name is known
 - known Korean company-name tags
-- important Korean stock names found in the title, description, or body
+- important Korean stock names found in the title or description
+
+The detector intentionally does **not** scan the full article body. Body scans
+were too noisy because related-post sections and market-context paragraphs often
+mention large names such as Samsung Electronics or SK Hynix even when they are
+not the article's actual subject.
+
+Valley linkifies stock cashtags and hashtags most reliably when each token is
+committed separately in the editor. The automation therefore emits these blocks
+one token per line, which is the API-side equivalent of entering each token and
+pressing Enter:
+
+```text
+관련 종목
+$하나마이크론
+$제주반도체
+
+해시태그
+#AI후공정
+#메모리
+```
+
+Stock-name tags and six-digit ticker tags are omitted from the visible hashtag
+block because they are already represented by `$종목명` cashtags.
 
 Per-post override is available:
 
@@ -110,6 +133,15 @@ valley_cashtags:
 
 Use the override when the article is about a listed company but its tags are
 too thematic for the automatic detector.
+
+Per-post exclusion is also available when a large-cap name must be mentioned in
+the title or description but should not become a Valley stock-link signal:
+
+```yaml
+valley_cashtag_exclude:
+  - 삼성전자
+  - SK하이닉스
+```
 
 ## GitHub Configuration
 

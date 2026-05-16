@@ -128,6 +128,38 @@ valley_cashtags:
   - SK하이닉스
 ```
 
+Automatic Valley cashtags come only from high-signal fields: explicit
+`valley_cashtags`, six-digit ticker tags, known Korean company-name tags, and
+company names in the title or description. The full body is not scanned because
+related-post links and market context can mention Samsung Electronics or SK
+Hynix even when they are not the post's true subject.
+
+When a title or description must mention a company that should not become a
+Valley stock link, exclude it explicitly:
+
+```yaml
+valley_cashtag_exclude:
+  - 삼성전자
+  - SK하이닉스
+```
+
+The Valley payload writes each related stock and hashtag on its own line:
+
+```text
+관련 종목
+$하나마이크론
+$제주반도체
+
+해시태그
+#AI후공정
+#메모리
+```
+
+This mirrors the Valley editor behavior of typing a token and pressing Enter so
+the platform can resolve the internal stock and hashtag links.
+Stock-name tags and six-digit ticker tags are skipped from this hashtag block
+because the stock-link block already carries them as `$종목명`.
+
 ## Safety Boundary
 
 Do not put a Valley browser session cookie into GitHub Actions or the

@@ -72,41 +72,57 @@ FALLBACK_KOREAN_TICKERS = {
     "011200": "HMM",
     "012450": "한화에어로스페이스",
     "015760": "한국전력",
+    "017670": "SK텔레콤",
     "017960": "한국카본",
     "028260": "삼성물산",
+    "032500": "KMW",
     "032830": "삼성생명",
     "035420": "네이버",
     "035720": "카카오",
     "042660": "한화오션",
     "051900": "LG생활건강",
     "064350": "현대로템",
+    "067310": "하나마이크론",
     "068270": "셀트리온",
+    "080220": "제주반도체",
     "090430": "아모레퍼시픽",
     "096770": "SK이노베이션",
     "105560": "KB금융",
+    "138080": "오이솔루션",
+    "204320": "HL만도",
     "207940": "삼성바이오로직스",
+    "218410": "RFHIC",
+    "222800": "심텍",
     "259960": "크래프톤",
     "267260": "HD현대일렉트릭",
+    "277810": "레인보우로보틱스",
     "285130": "SK케미칼",
     "302440": "SK바이오사이언스",
     "323410": "카카오뱅크",
+    "353200": "대덕전자",
     "373220": "LG에너지솔루션",
     "402340": "SK스퀘어",
 }
 GENERIC_CASHTAG_EXCLUSIONS = {
     "AI",
+    "AI 후공정",
     "HBM",
     "KOSPI",
     "KOSDAQ",
     "KRX",
     "NVIDIA",
     "TSMC",
+    "메모리",
+    "반도체",
     "한국 주식",
     "한국 반도체",
     "이벤트 분석",
 }
 MAX_RELATED_CASHTAGS = 6
 MAX_VISIBLE_HASHTAGS = 8
+CASHTAG_BLOCK_LABELS = {"관련 종목", "Related tickers"}
+HASHTAG_BLOCK_LABELS = {"해시태그", "Hashtags"}
+TOKEN_BLOCK_LABELS = CASHTAG_BLOCK_LABELS | HASHTAG_BLOCK_LABELS
 
 
 class ValleyCrosspostError(RuntimeError):
@@ -401,35 +417,63 @@ def list_frontmatter_values(value: Any) -> list[str]:
     return [str(value).strip()]
 
 
+def normalize_cashtag_name(value: Any, ticker_map: dict[str, str]) -> str:
+    clean_name = str(value).strip().lstrip("$")
+    if re.fullmatch(r"\d{6}", clean_name) and clean_name in ticker_map:
+        return ticker_map[clean_name]
+    return clean_name
+
+
 def related_cashtags(post: dict[str, Any]) -> list[str]:
+    ticker_map = load_ticker_name_map(repo_root_for_post(post))
+    excludes = {
+        normalize_cashtag_name(value, ticker_map)
+        for value in list_frontmatter_values(post["front_matter"].get("valley_cashtag_exclude"))
+    }
     explicit = list_frontmatter_values(post["front_matter"].get("valley_cashtags"))
     if explicit:
-        names = explicit
+        names = [normalize_cashtag_name(value, ticker_map) for value in explicit]
     else:
-        ticker_map = load_ticker_name_map(repo_root_for_post(post))
         name_set = set(ticker_map.values())
         tags = [str(tag).strip() for tag in post.get("tags", []) if str(tag).strip()]
-        text = " ".join([post["title"], post["description"], post["body"], " ".join(tags)])
+        tag_set = set(tags)
+        searchable_text = " ".join([post["title"], post["description"], " ".join(tags)])
         names = []
 
-        for tag in tags:
+        for index, tag in enumerate(tags):
             if re.fullmatch(r"\d{6}", tag) and tag in ticker_map:
                 names.append(ticker_map[tag])
-            elif tag in name_set:
+            elif tag in name_set or (
+                re.search(r"[가-힣]", tag)
+                and tag not in GENERIC_CASHTAG_EXCLUSIONS
+                and (
+                    (index > 0 and re.fullmatch(r"\d{6}", tags[index - 1]))
+                    or (index + 1 < len(tags) and re.fullmatch(r"\d{6}", tags[index + 1]))
+                )
+            ):
                 names.append(tag)
 
         fallback_names = set(FALLBACK_KOREAN_TICKERS.values())
         for code, name in ticker_map.items():
-            if code in tags or name in tags or (
-                name in fallback_names and re.search(rf"(?<!\$){re.escape(name)}", text)
-            ):
+            if code in tag_set or name in tag_set:
+                continue
+            # Deliberately avoid full-body scans here. Related-link sections and
+            # context paragraphs often mention Samsung Electronics / SK Hynix,
+            # which made Valley cashtags drift away from the article's real
+            # subject. Title, description, and tags are the high-signal fields.
+            if name in fallback_names and name in searchable_text:
                 names.append(name)
 
     normalized: list[str] = []
     seen: set[str] = set()
     for name in names:
-        clean_name = str(name).strip().lstrip("$")
-        if not clean_name or clean_name in GENERIC_CASHTAG_EXCLUSIONS or clean_name in seen:
+        clean_name = normalize_cashtag_name(name, ticker_map)
+        if (
+            not clean_name
+            or clean_name in GENERIC_CASHTAG_EXCLUSIONS
+            or clean_name in excludes
+            or clean_name in seen
+        ):
             continue
         seen.add(clean_name)
         normalized.append(f"${clean_name}")
@@ -443,7 +487,7 @@ def related_cashtags_block(post: dict[str, Any]) -> str:
     if not cashtags:
         return ""
     label = "관련 종목" if post["lang"] == "ko" else "Related tickers"
-    return f"{label}\n{' · '.join(cashtags)}"
+    return "\n".join([label, *cashtags])
 
 
 def normalize_hashtag(tag: str) -> str:
@@ -456,7 +500,11 @@ def normalize_hashtag(tag: str) -> str:
 def visible_hashtags_block(post: dict[str, Any]) -> str:
     tags: list[str] = []
     seen: set[str] = set()
+    related_stock_names = {cashtag.lstrip("$") for cashtag in related_cashtags(post)}
     for tag in post.get("tags", []):
+        raw_tag = str(tag).strip().lstrip("#")
+        if re.fullmatch(r"\d{6}", raw_tag) or raw_tag in related_stock_names:
+            continue
         normalized = normalize_hashtag(str(tag))
         if not normalized or normalized in seen:
             continue
@@ -467,7 +515,7 @@ def visible_hashtags_block(post: dict[str, Any]) -> str:
     if not tags:
         return ""
     label = "해시태그" if post["lang"] == "ko" else "Hashtags"
-    return f"{label}\n{' '.join(tags)}"
+    return "\n".join([label, *tags])
 
 
 def botmadang_style_teaser_body(post: dict[str, Any], related_block: str) -> str | None:
@@ -598,6 +646,12 @@ def text_to_tiptap_doc(text: str) -> dict[str, Any]:
         if not block:
             continue
         lines = [line.strip() for line in block.splitlines() if line.strip()]
+        if len(lines) > 1 and lines[0] in TOKEN_BLOCK_LABELS:
+            flush_bullets()
+            content.append(heading_node(lines[0], 3))
+            for line in lines[1:]:
+                content.append(paragraph_node(line))
+            continue
         if len(lines) > 1 and all(line.startswith(("- ", "* ")) for line in lines):
             pending_bullets.extend(lines)
             continue
