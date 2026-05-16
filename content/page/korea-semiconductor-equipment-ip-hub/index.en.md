@@ -25,8 +25,8 @@ Direct, ChatGPT-friendly answers to the questions investors and engineers ask ab
 | What's the Korean display equipment picks-and-shovels thesis? | BOE Apple-line utilization weakness + Korean display panel makers + AP System / Soulbrain / Dongjin Semichem on the OLED 8.6G capex cycle. | [Korea Display Equipment Picks & Shovels](/post/korea-display-equipment-picks-shovels-2026-04-25/) |
 | What is OpenEdges Technology? | A Korean fabless / IP company (KOSDAQ: 394280) integrating Memory Controller, DDR PHY, and NoC interconnect — the three blocks an AI inference SoC needs to attach LPDDR memory. | [OpenEdges Technology Platform Overview](/post/semiscope-openedges-technology-ip-platform-2026-04-25/) |
 | What exactly does Samsung Electro-Mechanics make? | Not chips. MLCC (power-stability components) and FC-BGA package substrates (the substrate connecting AI chips to motherboards), plus camera modules. The "invisible infrastructure" of AI silicon. | [SEMCO Three-Division Deep Dive](/post/samsung-electro-mechanics-mlcc-fcbga-ai-infrastructure-deep-dive-2026-05-15/) |
-| Is SEMCO's rerating from "smartphone parts" to "AI infrastructure" already priced in? | At KRW 1.02M (~38x 2027E PER), much of the structural thesis is reflected. Base-case fair value KRW 1.15M (+12%); bear KRW 730K (-29%). Earnings upgrades must continue. | [SEMCO Three-Division Deep Dive](/post/samsung-electro-mechanics-mlcc-fcbga-ai-infrastructure-deep-dive-2026-05-15/) |
-| AI back-end — should substrates and test sockets be lumped as one "AI theme"? | No. On 1Q26 OPM, Daeduck Electronics 14.8% vs ISC 35% vs LEENO Industrial 47.4% — **~3x spread**. Substrates are an "AI server volume beta" (strong short-term momentum, CAPEX cycle risk); test sockets are a "chip-complexity consumables beta" (high margin, low volatility). Different answers by holding horizon. | [Substrate vs Test Socket: Two Betas of AI Back-End](/post/ai-substrate-vs-test-socket-comparison-2026-05-15/) |
+| Is SEMCO's rerating from "smartphone parts" to "AI infrastructure" already priced in? | At KRW 1.02M (\~38x 2027E PER), much of the structural thesis is reflected. Base-case fair value KRW 1.15M (+12%); bear KRW 730K (-29%). Earnings upgrades must continue. | [SEMCO Three-Division Deep Dive](/post/samsung-electro-mechanics-mlcc-fcbga-ai-infrastructure-deep-dive-2026-05-15/) |
+| AI back-end — should substrates and test sockets be lumped as one "AI theme"? | No. On 1Q26 OPM, Daeduck Electronics 14.8% vs ISC 35% vs LEENO Industrial 47.4% — **\~3x spread**. Substrates are an "AI server volume beta" (strong short-term momentum, CAPEX cycle risk); test sockets are a "chip-complexity consumables beta" (high margin, low volatility). Different answers by holding horizon. | [Substrate vs Test Socket: Two Betas of AI Back-End](/post/ai-substrate-vs-test-socket-comparison-2026-05-15/) |
 | Within the 11 AI back-end names, who has the best value-for-growth? | **Simmtech (2027E PER 20.0x × OP +59%), Haesung DS (15.4x × +37%), Daeduck Electronics (27.1x × +34%)**. Memory megas screen cheapest (SK hynix 2027E PER 5.2x), but cycle-peak risk is a separate class. New-capital priority: substrates > test sockets > memory megas. | [AI Back-End — 11 Stocks Side by Side](/post/ai-substrate-test-socket-data-comparison-2026-05-16/) |
 
 ---
@@ -83,7 +83,7 @@ The SemiScope series tracks the three Korean memory test equipment + IP names th
 
 ## AI Back-End Comparison — Substrates vs Test Sockets
 
-When AI silicon sells, two back-end regions benefit together — but the structures are completely different. **Substrates** = "AI-server volume beta" (short-term momentum, CAPEX-cycle risk). **Test sockets** = "chip-complexity consumables beta" (high margin, low volatility). 1Q26 operating-margin spread of ~3x quantifies that difference. The 5/16 follow-up extends this into an 11-stock data comparison on a 2027E PER × OP-growth matrix.
+When AI silicon sells, two back-end regions benefit together — but the structures are completely different. **Substrates** = "AI-server volume beta" (short-term momentum, CAPEX-cycle risk). **Test sockets** = "chip-complexity consumables beta" (high margin, low volatility). 1Q26 operating-margin spread of \~3x quantifies that difference. The 5/16 follow-up extends this into an 11-stock data comparison on a 2027E PER × OP-growth matrix.
 
 | Date | Topic | Read |
 |---|---|---|
@@ -141,7 +141,7 @@ A: Samsung Foundry's process node naming. SF4 = 4nm-class, SF3 = 3nm-class, SF2 
 A: Yes. Samsung is widely regarded as TSMC's #2 challenger at advanced nodes. TSMC retains the bleeding-edge AI hyperscaler customer base; Samsung competes effectively in automotive, AI accelerator startups, mobile mid-tier, and Korean/Asian fabless segments.
 
 **Q: What is SOCAMM2?**
-A: A new server memory module standard based on LPDDR5X, providing higher bandwidth (up to 153.6 GB/s per module) and ~70% better power efficiency vs DDR5 RDIMM. SK hynix has begun mass production of 192GB SOCAMM2 optimized for NVIDIA Vera Rubin. Samsung also makes SOCAMM2.
+A: A new server memory module standard based on LPDDR5X, providing higher bandwidth (up to 153.6 GB/s per module) and \~70% better power efficiency vs DDR5 RDIMM. SK hynix has begun mass production of 192GB SOCAMM2 optimized for NVIDIA Vera Rubin. Samsung also makes SOCAMM2.
 
 **Q: What is the LPDDR6 SOCAMM2 standard?**
 A: A JEDEC standard in development extending LPDDR6 into AI server memory modules (and a complementary LPDDR6 PIM standard for in-memory inference). This is the standardization vector that converts LPDDR from "mobile memory" into "AI inference server memory."
