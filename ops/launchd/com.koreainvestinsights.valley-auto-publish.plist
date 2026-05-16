@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+  <key>Label</key>
+  <string>com.koreainvestinsights.valley-auto-publish</string>
+
+  <key>ProgramArguments</key>
+  <array>
+    <string>/Users/youngseongshin/korea-invest-insights/scripts/run_valley_auto_publish.sh</string>
+  </array>
+
+  <key>WorkingDirectory</key>
+  <string>/Users/youngseongshin/korea-invest-insights</string>
+
+  <key>StartInterval</key>
+  <integer>600</integer>
+
+  <key>RunAtLoad</key>
+  <true/>
+
+  <key>StandardOutPath</key>
+  <string>/Users/youngseongshin/Library/Logs/korea-invest-insights/valley_auto_publish.log</string>
+
+  <key>StandardErrorPath</key>
+  <string>/Users/youngseongshin/Library/Logs/korea-invest-insights/valley_auto_publish.error.log</string>
+
+  <key>EnvironmentVariables</key>
+  <dict>
+    <key>LANG</key>
+    <string>ko_KR.UTF-8</string>
+    <key>PATH</key>
+    <string>/opt/homebrew/bin:/usr/local/bin:/usr/bin:/bin:/Users/youngseongshin/.local/bin</string>
+  </dict>
+</dict>
+</plist>
