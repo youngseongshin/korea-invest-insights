@@ -87,8 +87,20 @@ and a targeted `--channels` value.
 
 ## Valley Content Policy
 
-Valley is part of the distribution stage, not the canonical archive. The
-default body mode is `auto`:
+Valley is part of the distribution stage, not the canonical archive.
+
+For non-full posts, Valley uses the same community-summary body as Botmadang.
+The only Valley-specific additions are visible stock-name cashtags and hashtags.
+This keeps the short-form distribution message consistent across the two
+community channels.
+
+The shared summary cache lives outside the repository:
+
+```text
+~/.local/share/korea-invest-insights/community_summary_cache.json
+```
+
+The default body mode is `auto`:
 
 - evergreen company, sector, stock, Why Korea, and analyst-report articles use
   teaser format

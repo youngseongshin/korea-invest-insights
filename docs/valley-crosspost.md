@@ -33,20 +33,27 @@ Only newly added Korean posts are published. Edits to old posts, theme changes,
 workflow changes, and reruns are skipped so the same article is not repeatedly
 posted to Valley.
 
-The published Valley article is a teaser, not a full mirror:
+The published Valley article is normally a teaser, not a full mirror:
 
-- description
-- canonical Korea Invest Insights URL
-- key summary bullets
+- the same community-summary body used for Botmadang
+- canonical Korea Invest Insights URL inside that body
+- Valley-only visible stock cashtags and hashtags
 
 That keeps the full article canonical on Korea Invest Insights while still
 creating a Valley entry for discovery.
+
+The Botmadang-style community summary is cached locally so Botmadang and Valley
+reuse the same body:
+
+```text
+~/.local/share/korea-invest-insights/community_summary_cache.json
+```
 
 ## Teaser vs Full-Text Policy
 
 Valley publishing supports three body modes:
 
-- `teaser`: description, canonical URL, and key takeaways only
+- `teaser`: Botmadang-style community summary plus Valley cashtags/hashtags
 - `full`: canonical URL plus the full article body
 - `auto`: choose `teaser` or `full` from the post category, length, and table
   density
@@ -82,9 +89,10 @@ inside Valley.
 Valley can internally link stock-related posts when a company name is written as
 a cashtag, for example `$삼성전자`.
 
-The cross-post script therefore adds a short `관련 종목` block near the top of
-the Valley body instead of rewriting every company mention in the article. This
-keeps the prose clean while still giving Valley its internal stock-link signal.
+The cross-post script therefore adds a short `관련 종목` block after the
+Botmadang-style summary instead of rewriting every company mention in the
+article. This keeps the prose clean while still giving Valley its internal
+stock-link signal.
 
 Cashtags are inferred from:
 
@@ -267,9 +275,9 @@ If you explicitly want to backfill recent posts, run the script manually with
 
 By default, direct manual posting sends a teaser rather than the full article:
 
-- description
+- Botmadang-style community summary
 - canonical Korea Invest Insights URL
-- key summary bullets
+- visible stock cashtags and hashtags
 
 This avoids creating a full duplicate copy of the article on Valley. To send the
 full Markdown text instead:

@@ -21,6 +21,8 @@ import urllib.request
 from pathlib import Path
 from typing import Any
 
+from community_summary import generate_botmadang_summary
+
 
 SITE_BASE_URL = "https://koreainvestinsights.com"
 VALLEY_API_BASE_URL = "https://api.valley.town"
@@ -104,6 +106,7 @@ GENERIC_CASHTAG_EXCLUSIONS = {
     "이벤트 분석",
 }
 MAX_RELATED_CASHTAGS = 6
+MAX_VISIBLE_HASHTAGS = 8
 
 
 class ValleyCrosspostError(RuntimeError):
@@ -443,6 +446,52 @@ def related_cashtags_block(post: dict[str, Any]) -> str:
     return f"{label}\n{' · '.join(cashtags)}"
 
 
+def normalize_hashtag(tag: str) -> str:
+    cleaned = str(tag).strip().lstrip("#")
+    cleaned = re.sub(r"\s+", "", cleaned)
+    cleaned = re.sub(r"[^\w가-힣一-龥ぁ-んァ-ン0-9_]", "", cleaned)
+    return f"#{cleaned}" if cleaned else ""
+
+
+def visible_hashtags_block(post: dict[str, Any]) -> str:
+    tags: list[str] = []
+    seen: set[str] = set()
+    for tag in post.get("tags", []):
+        normalized = normalize_hashtag(str(tag))
+        if not normalized or normalized in seen:
+            continue
+        seen.add(normalized)
+        tags.append(normalized)
+        if len(tags) >= MAX_VISIBLE_HASHTAGS:
+            break
+    if not tags:
+        return ""
+    label = "해시태그" if post["lang"] == "ko" else "Hashtags"
+    return f"{label}\n{' '.join(tags)}"
+
+
+def botmadang_style_teaser_body(post: dict[str, Any], related_block: str) -> str | None:
+    if post["lang"] != "ko":
+        return None
+    summary = generate_botmadang_summary(post["slug"], repo_root=repo_root_for_post(post))
+    if not summary:
+        return None
+    content = str(summary.get("content", "")).strip()
+    if not content:
+        return None
+    if post["canonical_url"] not in content:
+        content = content.rstrip() + f"\n\n자세한 분석: {post['canonical_url']}"
+    return "\n\n".join(
+        part
+        for part in [
+            content,
+            related_block,
+            visible_hashtags_block(post),
+        ]
+        if part
+    )
+
+
 def build_body(post: dict[str, Any], body_mode: str) -> str:
     body_mode = resolve_body_mode(post, body_mode)
     related_block = related_cashtags_block(post)
@@ -459,6 +508,10 @@ def build_body(post: dict[str, Any], body_mode: str) -> str:
         source = f"{source_label}\n{post['canonical_url']}"
         intro = "\n\n".join(part for part in [source, related_block] if part)
         return f"{intro}\n\n---\n\n{post['body'].strip()}\n\n---\n\n{footer}"
+
+    community_body = botmadang_style_teaser_body(post, related_block)
+    if community_body:
+        return community_body
 
     summary = extract_summary(post["body"])
     parts = []
