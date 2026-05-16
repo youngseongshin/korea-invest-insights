@@ -1,7 +1,7 @@
 # Valley Space Cross-Post Workflow
 
 This repository can prepare a Korea Invest Insights post for Valley Space and,
-when local credentials are available, create a Valley draft.
+when credentials are available, publish a teaser post back to Valley.
 
 ## Current Integration Boundary
 
@@ -12,10 +12,55 @@ Valley currently uses session-backed web app endpoints under:
 - `https://api.valley.town/post/categories`
 
 No documented public publishing token was found during inspection. Because of
-that, do **not** place a Valley browser session cookie in GitHub Actions. Use the
-workflow locally until Valley provides an official API token.
+that, do **not** place a Valley browser session cookie in GitHub Actions. The
+GitHub Actions path below is designed for an official Valley token if Valley
+provides one.
 
-## Recommended Flow
+## Automatic Public Publishing
+
+The GitHub Pages deploy workflow contains an optional `valley-publish` job. It
+runs only when all of the following are true:
+
+- the workflow was triggered by a push to `main`
+- the run is the first attempt, not a manual rerun
+- repository variable `VALLEY_AUTO_PUBLISH` is set to `true`
+- repository secret `VALLEY_API_TOKEN` exists
+- repository secret `VALLEY_POST_CATEGORY_ID` exists
+- the push added one or more Korean post files matching
+  `content/post/*/index.ko.md`
+
+Only newly added Korean posts are published. Edits to old posts, theme changes,
+workflow changes, and reruns are skipped so the same article is not repeatedly
+posted to Valley.
+
+The published Valley article is a teaser, not a full mirror:
+
+- description
+- canonical Korea Invest Insights URL
+- key summary bullets
+
+That keeps the full article canonical on Korea Invest Insights while still
+creating a Valley entry for discovery.
+
+## GitHub Configuration
+
+Set the repository variable:
+
+```text
+VALLEY_AUTO_PUBLISH=true
+```
+
+Set the repository secrets:
+
+```text
+VALLEY_API_TOKEN=...
+VALLEY_POST_CATEGORY_ID=...
+```
+
+If Valley does not provide an official token, keep GitHub auto-publish disabled
+and use the local command below.
+
+## Local Flow
 
 1. Publish the Hugo site as usual.
 2. Run a local preview for the latest Korean post:
@@ -76,10 +121,10 @@ scripts/valley_crosspost.py --latest --lang ko --body-mode full
 For durable automation, prefer one of these two paths:
 
 1. **Official Valley token path**: when Valley provides a publishing token, use
-   `VALLEY_API_TOKEN` in a post-deploy job.
+   `VALLEY_API_TOKEN` in the post-deploy `valley-publish` job.
 2. **Local Research OS path**: a local scheduled job reads the live feed, creates
    Valley drafts with the local Valley session, and sends a Telegram reminder for
    manual review.
 
-Until Valley has an official token, the local draft-first flow is the safer
-default.
+Until Valley has an official token, keep GitHub auto-publish disabled and use a
+local publish command if automatic public posting is still required.
