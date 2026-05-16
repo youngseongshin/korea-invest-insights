@@ -15,6 +15,7 @@ slug: pearl-abyss-dlc-package-to-franchise-rerating-2026-05-15
 
 > 📚 Pearl Abyss series
 > Previously covered: post-launch reception, 1Q26 earnings summary, Crimson Desert revenue-recognition structure
+> Read next: [Patch 1.07 weekend data check — global #18 recovered, 6M ETA May 27–29](/post/pearl-abyss-crimson-desert-patch-107-weekend-data-2026-05-17/)
 
 *Pearl Abyss printed a record 1Q26: revenue KRW 328.5B, operating profit KRW 212.1B. Yet the stock has been weak. On the same earnings call the company said it is "exploring next-stage expansion including DLC" for Crimson Desert. Foreign outlets read that as "DLC confirmed," the market twitched, and then drifted back lower. The meaning of that DLC line is widely misread. The headline is not "KRW 60B in DLC revenue." The headline is that this comment removes the "2027 cliff discount" the market has been applying to Pearl Abyss. That moves the multiple from single-digit PER toward the global game-publisher average (15–25x) — and that reclassification matters far more than the dollars do.*
 
