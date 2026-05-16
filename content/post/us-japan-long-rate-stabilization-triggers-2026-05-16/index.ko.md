@@ -10,6 +10,8 @@ tags:
   - "term premium"
   - "BOJ"
   - "글로벌 매크로"
+  - "삼성전자"
+  - "SK하이닉스"
 slug: us-japan-long-rate-stabilization-triggers-2026-05-16
 ---
 

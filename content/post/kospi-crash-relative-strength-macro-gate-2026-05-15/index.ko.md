@@ -9,6 +9,8 @@ tags:
   - "상대강도"
   - "매크로 게이트"
   - "한국 주식"
+  - "삼성전자"
+  - "SK하이닉스"
 slug: kospi-crash-relative-strength-macro-gate-2026-05-15
 ---
 

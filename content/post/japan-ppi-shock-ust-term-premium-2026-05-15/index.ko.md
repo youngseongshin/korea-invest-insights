@@ -10,6 +10,8 @@ tags:
   - "term premium"
   - "엔화"
   - "글로벌 매크로"
+  - "삼성전자"
+  - "SK하이닉스"
 slug: japan-ppi-shock-ust-term-premium-2026-05-15
 ---
 

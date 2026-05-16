@@ -11,6 +11,8 @@ tags:
   - "미국 인플레이션"
   - "BOJ"
   - "미중관계"
+  - "삼성전자"
+  - "SK하이닉스"
 slug: 2026-q2-macro-cycle-synthesis-2026-05-15
 ---
 
