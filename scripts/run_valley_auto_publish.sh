@@ -13,5 +13,5 @@ exec /usr/bin/python3 "${REPO_ROOT}/scripts/valley_auto_publish.py" \
   --lang ko \
   --since-days 14 \
   --max-posts 3 \
-  --body-mode teaser \
+  --body-mode auto \
   --require-live

@@ -321,7 +321,7 @@ def build_parser() -> argparse.ArgumentParser:
     parser.add_argument("--lang", default=DEFAULT_LANG)
     parser.add_argument("--since-days", type=int, default=14)
     parser.add_argument("--max-posts", type=int, default=3)
-    parser.add_argument("--body-mode", choices=("teaser", "full"), default="teaser")
+    parser.add_argument("--body-mode", choices=("auto", "teaser", "full"), default="auto")
     parser.add_argument("--category-id", default=os.environ.get("VALLEY_POST_CATEGORY_ID"))
     parser.add_argument("--api-base", default=os.environ.get("VALLEY_API_BASE", valley.VALLEY_API_BASE_URL))
     parser.add_argument("--log-path", default=str(valley.DEFAULT_LOG_PATH))

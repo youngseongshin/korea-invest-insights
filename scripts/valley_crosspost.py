@@ -41,6 +41,26 @@ SUMMARY_HEADINGS = (
     "Resumen clave",
     "要点",
 )
+AUTO_FULL_CATEGORIES = {
+    "Market-Outlook",
+    "Macro-Insight",
+    "Market-Commentary",
+    "Daily-Intelligence",
+}
+AUTO_TEASER_CATEGORIES = {
+    "Company-Deep-Dive",
+    "Sector-Deep-Dive",
+    "Stock-Analysis",
+    "Why-Korea",
+    "Analyst-Report-Cover",
+}
+AUTO_FULL_SLUG_PREFIXES = (
+    "kr-daily-wrap-",
+    "kospi-",
+    "google-io-",
+)
+AUTO_FULL_MAX_CHARS = 9000
+AUTO_FULL_MAX_TABLE_LINES = 8
 
 
 class ValleyCrosspostError(RuntimeError):
@@ -277,19 +297,44 @@ def strip_markdown_noise(line: str) -> str:
     return line
 
 
+def resolve_body_mode(post: dict[str, Any], body_mode: str) -> str:
+    if body_mode != "auto":
+        return body_mode
+
+    explicit = str(post["front_matter"].get("valley_body_mode", "")).strip().lower()
+    if explicit in {"teaser", "full"}:
+        return explicit
+
+    body = post["body"]
+    body_chars = len(body)
+    table_lines = sum(1 for line in body.splitlines() if line.strip().startswith("|"))
+    categories = {str(category) for category in post.get("categories", [])}
+
+    if categories & AUTO_TEASER_CATEGORIES:
+        return "teaser"
+    if body_chars > AUTO_FULL_MAX_CHARS or table_lines > AUTO_FULL_MAX_TABLE_LINES:
+        return "teaser"
+    if categories & AUTO_FULL_CATEGORIES:
+        return "full"
+    if post["slug"].startswith(AUTO_FULL_SLUG_PREFIXES):
+        return "full"
+    return "teaser"
+
+
 def build_body(post: dict[str, Any], body_mode: str) -> str:
+    body_mode = resolve_body_mode(post, body_mode)
     if post["lang"] == "ko":
-        source_label = "원문"
+        source_label = "원문 전체 읽기"
         summary_label = "핵심 요약"
-        footer = "전체 글은 Korea Invest Insights에서 확인할 수 있습니다."
+        footer = "표, 내부 링크, 전체 맥락은 Korea Invest Insights 원문에서 확인할 수 있습니다."
     else:
-        source_label = "Full post"
+        source_label = "Read the full post"
         summary_label = "Key takeaways"
-        footer = "Read the full version on Korea Invest Insights."
+        footer = "Tables, internal links, and the full context are available on Korea Invest Insights."
 
     if body_mode == "full":
-        source = f"{source_label}: {post['canonical_url']}"
-        return f"{source}\n\n{post['body'].strip()}\n\n{footer}"
+        source = f"{source_label}\n{post['canonical_url']}"
+        return f"{source}\n\n---\n\n{post['body'].strip()}\n\n---\n\n{footer}"
 
     summary = extract_summary(post["body"])
     parts = []
@@ -297,7 +342,7 @@ def build_body(post: dict[str, Any], body_mode: str) -> str:
         parts.append(post["description"].strip())
     parts.extend(
         [
-            f"{source_label}: {post['canonical_url']}",
+            f"{source_label}\n{post['canonical_url']}",
             summary_label,
         ]
     )
@@ -306,30 +351,103 @@ def build_body(post: dict[str, Any], body_mode: str) -> str:
     return "\n\n".join(part for part in parts if part)
 
 
+def text_content(text: str) -> list[dict[str, Any]]:
+    url_match = re.search(r"https?://\S+", text)
+    if not url_match:
+        return [{"type": "text", "text": text}]
+
+    content: list[dict[str, Any]] = []
+    before = text[: url_match.start()]
+    url = url_match.group(0)
+    after = text[url_match.end() :]
+    if before:
+        content.append({"type": "text", "text": before})
+    content.append(
+        {
+            "type": "text",
+            "text": url,
+            "marks": [
+                {
+                    "type": "link",
+                    "attrs": {
+                        "href": url,
+                        "target": "_blank",
+                        "rel": "noopener noreferrer nofollow",
+                    },
+                }
+            ],
+        }
+    )
+    if after:
+        content.append({"type": "text", "text": after})
+    return content
+
+
+def paragraph_node(text: str) -> dict[str, Any]:
+    return {"type": "paragraph", "content": text_content(text)}
+
+
+def heading_node(text: str, level: int = 2) -> dict[str, Any]:
+    return {"type": "heading", "attrs": {"level": level}, "content": [{"type": "text", "text": text}]}
+
+
+def bullet_list_node(lines: list[str]) -> dict[str, Any]:
+    return {
+        "type": "bulletList",
+        "content": [
+            {
+                "type": "listItem",
+                "content": [paragraph_node(line.lstrip("-*").strip())],
+            }
+            for line in lines
+            if line.lstrip("-*").strip()
+        ],
+    }
+
+
 def text_to_tiptap_doc(text: str) -> dict[str, Any]:
     content: list[dict[str, Any]] = []
+    pending_bullets: list[str] = []
+
+    def flush_bullets() -> None:
+        nonlocal pending_bullets
+        if pending_bullets:
+            content.append(bullet_list_node(pending_bullets))
+            pending_bullets = []
+
     for block in re.split(r"\n{2,}", text.strip()):
         block = block.strip()
         if not block:
             continue
+        lines = [line.strip() for line in block.splitlines() if line.strip()]
+        if len(lines) > 1 and all(line.startswith(("- ", "* ")) for line in lines):
+            pending_bullets.extend(lines)
+            continue
+        if len(lines) == 1 and lines[0].startswith(("- ", "* ")):
+            pending_bullets.extend(lines)
+            continue
+        flush_bullets()
         if block.startswith("#"):
             level = min(len(block) - len(block.lstrip("#")), 3)
             heading_text = block.lstrip("#").strip()
-            content.append(
-                {
-                    "type": "heading",
-                    "attrs": {"level": level},
-                    "content": [{"type": "text", "text": heading_text}],
-                }
-            )
+            content.append(heading_node(heading_text, level))
+        elif block.strip() in SUMMARY_HEADINGS:
+            content.append(heading_node(block.strip(), 2))
+        elif block.strip() == "---":
+            content.append({"type": "horizontalRule"})
+        elif len(lines) == 2 and lines[1].startswith("http"):
+            content.append(heading_node(lines[0], 3))
+            content.append(paragraph_node(lines[1]))
         else:
             paragraph_text = re.sub(r"\s*\n\s*", "\n", block)
-            content.append({"type": "paragraph", "content": [{"type": "text", "text": paragraph_text}]})
+            content.append(paragraph_node(paragraph_text))
+    flush_bullets()
     return {"type": "doc", "content": content or [{"type": "paragraph"}]}
 
 
 def build_valley_payload(post: dict[str, Any], body_mode: str, category_id: str | None) -> dict[str, Any]:
-    body = build_body(post, body_mode)
+    resolved_body_mode = resolve_body_mode(post, body_mode)
+    body = build_body(post, resolved_body_mode)
     payload: dict[str, Any] = {
         "type": "POST",
         "title": post["title"],
@@ -463,6 +581,25 @@ def run(args: argparse.Namespace) -> int:
         response = api_request("POST", "/post/posts", outbound_body, api_base)
     elif args.mode == "draft":
         response = api_request("POST", "/post/drafts", outbound_body, api_base)
+    elif args.mode == "update":
+        if not args.confirm_update:
+            raise ValleyCrosspostError("Updating requires --confirm-update.")
+        post_id = args.post_id or log.get("posts", {}).get(post["canonical_url"], {}).get("response", {}).get("id")
+        if not post_id:
+            raise ValleyCrosspostError("Updating requires --post-id or an existing id in the local crosspost log.")
+        if not payload.get("postCategoryId"):
+            raise ValleyCrosspostError("Updating requires --category-id.")
+        update_body = {
+            "update": {
+                "title": payload["title"],
+                "content": payload["content"],
+                "contentJson": payload["contentJson"],
+                "attachments": payload.get("attachments", []),
+                "tags": payload.get("tags", []),
+                "postCategoryId": payload.get("postCategoryId"),
+            },
+        }
+        response = api_request("PUT", f"/post/posts/{post_id}", update_body, api_base)
     else:
         raise ValleyCrosspostError(f"Unknown mode: {args.mode}")
 
@@ -495,6 +632,9 @@ def build_parser() -> argparse.ArgumentParser:
               Create a Valley draft locally:
                 VALLEY_COOKIE='...' scripts/valley_crosspost.py --latest --lang ko --mode draft
 
+              Update an existing Valley post from the local log:
+                VALLEY_COOKIE='...' scripts/valley_crosspost.py --post content/post/.../index.ko.md --mode update --confirm-update
+
               List Valley categories:
                 VALLEY_COOKIE='...' scripts/valley_crosspost.py --mode categories
             """
@@ -505,13 +645,15 @@ def build_parser() -> argparse.ArgumentParser:
     source.add_argument("--latest", action="store_true", help="Use the latest published post for --lang")
     parser.add_argument("--lang", default="ko", help="Language for --latest (default: ko)")
     parser.add_argument("--repo-root", default=".", help="Repository root (default: current directory)")
-    parser.add_argument("--mode", choices=("preview", "draft", "publish", "categories"), default="preview")
-    parser.add_argument("--body-mode", choices=("teaser", "full"), default="teaser")
+    parser.add_argument("--mode", choices=("preview", "draft", "publish", "update", "categories"), default="preview")
+    parser.add_argument("--body-mode", choices=("auto", "teaser", "full"), default="teaser")
     parser.add_argument("--category-id", default=os.environ.get("VALLEY_POST_CATEGORY_ID"))
     parser.add_argument("--api-base", default=os.environ.get("VALLEY_API_BASE", VALLEY_API_BASE_URL))
     parser.add_argument("--log-path", default=str(DEFAULT_LOG_PATH))
     parser.add_argument("--force", action="store_true", help="Send even if canonical URL exists in local crosspost log")
     parser.add_argument("--confirm-publish", action="store_true", help="Required for mode=publish")
+    parser.add_argument("--confirm-update", action="store_true", help="Required for mode=update")
+    parser.add_argument("--post-id", help="Valley post id for mode=update. Defaults to id stored in local log.")
     return parser
 
 

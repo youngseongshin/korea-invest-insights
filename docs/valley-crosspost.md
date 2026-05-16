@@ -42,6 +42,41 @@ The published Valley article is a teaser, not a full mirror:
 That keeps the full article canonical on Korea Invest Insights while still
 creating a Valley entry for discovery.
 
+## Teaser vs Full-Text Policy
+
+Valley publishing supports three body modes:
+
+- `teaser`: description, canonical URL, and key takeaways only
+- `full`: canonical URL plus the full article body
+- `auto`: choose `teaser` or `full` from the post category, length, and table
+  density
+
+The local LaunchAgent uses `auto`.
+
+Conservative default:
+
+- company deep-dives, sector deep-dives, stock analysis, Why Korea essays, and
+  analyst report cover articles publish as `teaser`
+- shorter market-outlook, macro, and daily-intelligence articles may publish as
+  `full` if they are under the length and table thresholds
+- long articles or table-heavy articles always publish as `teaser`
+
+Per-post override is available in front matter:
+
+```yaml
+valley_body_mode: full
+```
+
+or:
+
+```yaml
+valley_body_mode: teaser
+```
+
+This lets SEO-canonical evergreen research stay canonical on Korea Invest
+Insights while time-sensitive distribution pieces can be consumed directly
+inside Valley.
+
 ## GitHub Configuration
 
 Set the repository variable:
@@ -186,7 +221,7 @@ If you explicitly want to backfill recent posts, run the script manually with
 
 ## Content Format
 
-By default, the script sends a teaser rather than the full article:
+By default, direct manual posting sends a teaser rather than the full article:
 
 - description
 - canonical Korea Invest Insights URL
@@ -199,6 +234,17 @@ full Markdown text instead:
 scripts/valley_crosspost.py --latest --lang ko --body-mode full
 ```
 
+To use the same policy as the local LaunchAgent:
+
+```bash
+scripts/valley_crosspost.py --latest --lang ko --body-mode auto
+```
+
+The generated Valley editor payload uses structured headings, clickable source
+links, and real bullet-list nodes instead of plain markdown bullets. Valley
+renders the `contentJson` field, so formatting quality depends on that
+structured payload rather than only the plain text `content` field.
+
 ## Production Recommendation
 
 For durable automation, prefer one of these two paths:
@@ -206,8 +252,9 @@ For durable automation, prefer one of these two paths:
 1. **Official Valley token path**: when Valley provides a publishing token, use
    `VALLEY_API_TOKEN` in the post-deploy `valley-publish` job.
 2. **Local Research OS path**: use
-   `com.koreainvestinsights.valley-auto-publish` to publish Korean teaser posts
-   from the local Mac after the blog URL is live.
+   `com.koreainvestinsights.valley-auto-publish` to publish Korean Valley posts
+   from the local Mac after the blog URL is live. The local path uses
+   `--body-mode auto`.
 
 Until Valley has an official token, keep GitHub auto-publish disabled unless an
 official `VALLEY_API_TOKEN` is configured. Local automation is the safer default
