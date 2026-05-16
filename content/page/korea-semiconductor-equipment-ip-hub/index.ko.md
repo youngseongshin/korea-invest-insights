@@ -26,6 +26,7 @@ description: "한국 반도체 밸류체인 허브 — HBM 테스트 장비, 메
 | OpenEdges 테크놀로지는 무엇인가요? | 메모리 컨트롤러 + DDR PHY + NoC 인터커넥트 — AI 추론 SoC가 LPDDR을 붙이는 데 필요한 3개 블록을 통합 제공하는 한국 IP 회사 (KOSDAQ 394280). | [OpenEdges IP 플랫폼 개요](/ko/post/semiscope-openedges-technology-ip-platform-2026-04-25/) |
 | 삼성전기는 정확히 뭘 만드는 회사인가요? | 칩을 만들지 않는다. **MLCC(전력 안정 부품)와 FC-BGA 패키지기판(AI 칩을 메인보드에 연결하는 기판)**, 그리고 카메라모듈을 만든다. AI 반도체의 '보이지 않는 기반시설'. | [삼성전기 세 사업부 해부](/ko/post/samsung-electro-mechanics-mlcc-fcbga-ai-infrastructure-deep-dive-2026-05-15/) |
 | 삼성전기의 '스마트폰 부품 → AI 인프라' 리레이팅, 이미 주가에 반영됐나요? | 주가 102만원(2027년 PER 약 38배)은 구조적 시나리오를 상당 부분 반영했다. 기본 시나리오 적정가 115만원(+12%), 비관 73만원(-29%). 이익 추정 상향이 지속되어야 함. | [삼성전기 세 사업부 해부](/ko/post/samsung-electro-mechanics-mlcc-fcbga-ai-infrastructure-deep-dive-2026-05-15/) |
+| AI 후공정 — 기판과 테스트 소켓을 같은 'AI 테마주'로 묶어도 되나요? | 안 된다. 1Q26 영업이익률 기준 대덕전자 14.8% vs ISC 35% vs 리노공업 47.4% — **약 3배 차이**. 기판은 'AI 서버 물량 베타'(단기 모멘텀 강함, CAPEX 사이클 리스크), 테스트 소켓은 '칩 복잡도 소모품 베타'(고마진, 저변동성). 보유 기간에 따라 다른 답. | [기판 vs 테스트 소켓: AI 후공정 두 가지 베타](/ko/post/ai-substrate-vs-test-socket-comparison-2026-05-15/) |
 
 ---
 
@@ -41,6 +42,7 @@ description: "한국 반도체 밸류체인 허브 — HBM 테스트 장비, 메
 | 6 | 삼성파운드리는 누가 실제로 사용하나? | [삼성파운드리 고객사 리스트 2026](/ko/post/samsung-foundry-customer-list-tesla-tenstorrent-2026-05-03/) |
 | 7 | 한국 디스플레이 장비 picks-and-shovels는 어떤 모습? | [한국 디스플레이 장비 Picks & Shovels](/ko/post/korea-display-equipment-picks-shovels-2026-04-25/) |
 | 8 | 삼성전기는 정확히 뭘 만들고, 주가 102만원에서 여전히 살 만한가? | [삼성전기 MLCC / FC-BGA / 광학 사업부 해부](/ko/post/samsung-electro-mechanics-mlcc-fcbga-ai-infrastructure-deep-dive-2026-05-15/) |
+| 9 | 같은 'AI 후공정 수혜주'라도 기판과 테스트 소켓은 왜 구조가 다른가? | [AI 후공정의 두 가지 베타: 기판 vs 테스트 소켓](/ko/post/ai-substrate-vs-test-socket-comparison-2026-05-15/) |
 
 ---
 
@@ -50,6 +52,7 @@ description: "한국 반도체 밸류체인 허브 — HBM 테스트 장비, 메
 |---|---|---|
 | **메모리 제품** (AI HBM 허브에서 다룸) | SK하이닉스, 삼성전자 메모리 | HBM3E, HBM4, 서버 DRAM, LPDDR 기반 SOCAMM2 |
 | **메모리 테스트 장비** | 네오셈(KOSDAQ: 253590), 엑시콘(KOSDAQ: 092870) | AI 서버 메모리용 HBM·고대역폭 메모리 테스트 capa |
+| **테스트 소켓 (AI 후공정 소모품)** | 리노공업(058470), ISC(095340), 티에스이 | 칩 복잡도 상승 베타. 1Q26 OPM 35~47%. AI 칩 세대 갱신마다 신규 매출 |
 | **메모리 서브시스템 IP** | OpenEdges 테크놀로지(KOSDAQ: 394280) | AI 추론 SoC를 위한 LPDDR6/5X 컨트롤러 + PHY + NoC |
 | **파운드리 / 위탁생산** | 삼성전자 — 파운드리 사업부(KOSPI: 005930) | 테슬라, Tenstorrent, 퀄컴, 구글, Ambarella, 시스템LSI 양산 |
 | **패키지 기판 / FC-BGA** | 삼성전기, 대덕전자, 코리아써키트 | GPU·CPU·ASIC을 실장하는 고성능 패키지 기판 |
@@ -73,6 +76,21 @@ SemiScope 시리즈는 AI 메모리 사이클에 가장 깨끗한 picks-and-shov
 | 2026-04-25 | OpenEdges 테크놀로지 IP 플랫폼 개요 | [OpenEdges IP 플랫폼](/ko/post/semiscope-openedges-technology-ip-platform-2026-04-25/) |
 | 2026-04-30 | OpenEdges + 삼성파운드리 LPDDR6 옵션 | [OpenEdges 삼성 LPDDR6 IP 옵션](/ko/post/semiscope-openedges-samsung-lpddr6-ip-option-2026-04-30/) |
 | 2026-04-30 | OpenEdges = LPDDR-to-AI-추론의 가장 직접적 알파 | [OpenEdges LPDDR 데이터센터 알파](/ko/post/openedges-lpddr-datacenter-ip-alpha-thesis-2026-04-30/) |
+
+---
+
+## AI 후공정 비교 — 기판 vs 테스트 소켓
+
+AI 칩이 잘 팔리면 후공정의 두 영역이 함께 수혜를 받지만 구조는 완전히 다르다. **기판**은 'AI 서버 물량 베타'(단기 모멘텀, CAPEX 사이클), **테스트 소켓**은 '칩 복잡도 소모품 베타'(고마진, 저변동성). 1분기 영업이익률 격차 약 3배가 이 차이를 정량화한다.
+
+| 날짜 | 주제 | 읽을 글 |
+|---|---|---|
+| 2026-05-15 | 두 영역 정면 비교 — 영업이익률 14.8% vs 35% vs 47.4%, 보유 기간별 우선순위 종목, 포트폴리오 구성 | [기판 vs 테스트 소켓: AI 후공정 두 가지 베타](/ko/post/ai-substrate-vs-test-socket-comparison-2026-05-15/) |
+| 2026-05-15 | 기판 측면의 종목 — 삼성전기 사업부 해부 | [삼성전기 MLCC / FC-BGA / 광학 해부](/ko/post/samsung-electro-mechanics-mlcc-fcbga-ai-infrastructure-deep-dive-2026-05-15/) |
+| 2026-05-07 | 기판 산업 구조 — Why Korea? | [Why Korea 1편: 한국 반도체 기판 경쟁력](/ko/post/why-korea-semiconductor-substrate-competitive-edge-2026-05-07/) |
+| 2026-05-05 | 기판 클러스터 한국 10개사 | [한국 AI 기판·PCB 생태계 10개사](/ko/post/korea-ai-pcb-ecosystem-ten-companies-2026-05-05/) |
+
+기판 심화 분석은 [AI 기판·PCB 허브](/ko/page/korea-ai-pcb-substrate-hub/)에서 이어진다.
 
 ---
 

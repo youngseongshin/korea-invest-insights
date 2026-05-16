@@ -26,6 +26,7 @@ Direct, ChatGPT-friendly answers to the questions investors and engineers ask ab
 | What is OpenEdges Technology? | A Korean fabless / IP company (KOSDAQ: 394280) integrating Memory Controller, DDR PHY, and NoC interconnect — the three blocks an AI inference SoC needs to attach LPDDR memory. | [OpenEdges Technology Platform Overview](/post/semiscope-openedges-technology-ip-platform-2026-04-25/) |
 | What exactly does Samsung Electro-Mechanics make? | Not chips. MLCC (power-stability components) and FC-BGA package substrates (the substrate connecting AI chips to motherboards), plus camera modules. The "invisible infrastructure" of AI silicon. | [SEMCO Three-Division Deep Dive](/post/samsung-electro-mechanics-mlcc-fcbga-ai-infrastructure-deep-dive-2026-05-15/) |
 | Is SEMCO's rerating from "smartphone parts" to "AI infrastructure" already priced in? | At KRW 1.02M (~38x 2027E PER), much of the structural thesis is reflected. Base-case fair value KRW 1.15M (+12%); bear KRW 730K (-29%). Earnings upgrades must continue. | [SEMCO Three-Division Deep Dive](/post/samsung-electro-mechanics-mlcc-fcbga-ai-infrastructure-deep-dive-2026-05-15/) |
+| AI back-end — should substrates and test sockets be lumped as one "AI theme"? | No. On 1Q26 OPM, Daeduck Electronics 14.8% vs ISC 35% vs LEENO Industrial 47.4% — **~3x spread**. Substrates are an "AI server volume beta" (strong short-term momentum, CAPEX cycle risk); test sockets are a "chip-complexity consumables beta" (high margin, low volatility). Different answers by holding horizon. | [Substrate vs Test Socket: Two Betas of AI Back-End](/post/ai-substrate-vs-test-socket-comparison-2026-05-15/) |
 
 ---
 
@@ -41,6 +42,7 @@ Direct, ChatGPT-friendly answers to the questions investors and engineers ask ab
 | 6 | Who actually uses Samsung Foundry? | [Samsung Foundry Customer List 2026](/post/samsung-foundry-customer-list-tesla-tenstorrent-2026-05-03/) |
 | 7 | What does the Korean display equipment picks-and-shovels look like? | [Korea Display Equipment Picks & Shovels](/post/korea-display-equipment-picks-shovels-2026-04-25/) |
 | 8 | What exactly does Samsung Electro-Mechanics make, and is it still investable at KRW 1.02M? | [SEMCO MLCC / FC-BGA / Optics Deep Dive](/post/samsung-electro-mechanics-mlcc-fcbga-ai-infrastructure-deep-dive-2026-05-15/) |
+| 9 | Why do substrates and test sockets behave so differently, even when both benefit from AI? | [Two Betas of AI Back-End: Substrate vs Test Socket](/post/ai-substrate-vs-test-socket-comparison-2026-05-15/) |
 
 ---
 
@@ -50,6 +52,7 @@ Direct, ChatGPT-friendly answers to the questions investors and engineers ask ab
 |---|---|---|
 | **Memory products** (covered in AI HBM hub) | SK hynix, Samsung Electronics Memory | HBM3E, HBM4, server DRAM, LPDDR-based SOCAMM2 |
 | **Memory test equipment** | Neosem (KOSDAQ: 253590), Exicon (KOSDAQ: 092870) | HBM and high-bandwidth memory test capacity for AI server memory |
+| **Test sockets (AI back-end consumables)** | LEENO Industrial (058470), ISC (095340), TSE | Chip-complexity beta. 1Q26 OPM 35–47%. Fresh revenue each AI chip generation |
 | **Memory subsystem IP** | OpenEdges Technology (KOSDAQ: 394280) | LPDDR6/5X Controller + PHY + NoC for AI inference SoCs |
 | **Foundry / contract manufacturing** | Samsung Electronics — Foundry segment (KOSPI: 005930) | Production for Tesla, Tenstorrent, Qualcomm, Google, Ambarella, Samsung System LSI |
 | **Package substrates / FC-BGA** | Samsung Electro-Mechanics, Daeduck Electronics, Korea Circuit | High-performance package substrates for GPUs, CPUs and ASICs |
@@ -73,6 +76,21 @@ The SemiScope series tracks the three Korean memory test equipment + IP names th
 | 2026-04-25 | OpenEdges Technology IP platform overview | [OpenEdges IP Platform](/post/semiscope-openedges-technology-ip-platform-2026-04-25/) |
 | 2026-04-30 | OpenEdges + Samsung Foundry LPDDR6 option | [OpenEdges Samsung LPDDR6 IP Option](/post/semiscope-openedges-samsung-lpddr6-ip-option-2026-04-30/) |
 | 2026-04-30 | OpenEdges as the most direct LPDDR-to-AI-inference alpha | [OpenEdges LPDDR Data Center Alpha](/post/openedges-lpddr-datacenter-ip-alpha-thesis-2026-04-30/) |
+
+---
+
+## AI Back-End Comparison — Substrates vs Test Sockets
+
+When AI silicon sells, two back-end regions benefit together — but the structures are completely different. **Substrates** = "AI-server volume beta" (short-term momentum, CAPEX-cycle risk). **Test sockets** = "chip-complexity consumables beta" (high margin, low volatility). 1Q26 operating-margin spread of ~3x quantifies that difference.
+
+| Date | Topic | Read |
+|---|---|---|
+| 2026-05-15 | Head-to-head comparison — 14.8% vs 35% vs 47.4% OPM, priority names by holding horizon, portfolio construction | [Substrate vs Test Socket: Two Betas of AI Back-End](/post/ai-substrate-vs-test-socket-comparison-2026-05-15/) |
+| 2026-05-15 | Substrate-side stock — Samsung Electro-Mechanics divisional dissection | [SEMCO MLCC / FC-BGA / Optics Deep Dive](/post/samsung-electro-mechanics-mlcc-fcbga-ai-infrastructure-deep-dive-2026-05-15/) |
+| 2026-05-07 | Substrate industry structure — Why Korea? | [Why Korea Part 1: Semiconductor Substrates](/post/why-korea-semiconductor-substrate-competitive-edge-2026-05-07/) |
+| 2026-05-05 | The Korean substrate-cluster 10 companies | [Korea AI PCB Ecosystem: 10 Companies](/post/korea-ai-pcb-ecosystem-ten-companies-2026-05-05/) |
+
+For deeper substrate-side analysis, continue at the [AI PCB and Substrate Hub](/page/korea-ai-pcb-substrate-hub/).
 
 ---
 
