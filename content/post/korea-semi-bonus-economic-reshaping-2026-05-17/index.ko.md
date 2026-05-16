@@ -18,6 +18,10 @@ slug: korea-semi-bonus-economic-reshaping-2026-05-17
 
 > 📚 관련 시리즈
 > [삼성전자 파업 vs 메모리 슈퍼사이클](https://koreainvestinsights.com/ko/post/samsung-electronics-strike-vs-memory-supercycle-2026-05-15/) / [삼성전자 TSMC식 리레이팅](https://koreainvestinsights.com/ko/post/samsung-electronics-tsmc-rerating-thesis-2026-05-16/) / [AI 후공정 데이터 비교](https://koreainvestinsights.com/ko/post/ai-substrate-test-socket-data-comparison-2026-05-16/)
+>
+> 같이 보면 좋은 글:
+> [5월 12일 코스피 급락·반등 분석 — AI 국민배당, 초과세수, 이익 배분 논쟁](https://koreainvestinsights.com/ko/post/kospi-may-12-ai-citizen-dividend-tax-windfall-2026-05-12/) — 본 글의 '초과세수 재분배 채널'을 이미 시장이 5/12에 한 차례 가격에 반영했던 케이스
+> [Why Korea 3편 — 삼성전자·SK하이닉스 연 300조원+ 이익이 한국 경제 체질을 업그레이드한다](https://koreainvestinsights.com/ko/post/samsung-sk-hynix-korea-ai-economy-rerating-2026-05-09/) — 본 글의 'K자 재편'을 거시 한 단계 위에서 본 큰 그림
 
 *삼성전자와 SK하이닉스의 AI 반도체 이익은 이제 개별 기업 실적을 넘어 한국 경제의 돈 흐름을 바꾸는 변수다. SK하이닉스는 영업이익의 10%를 성과급 재원으로 쓰는 구조를 만들었고, 삼성전자 DS부문도 영업이익 연동 특별성과급 논의가 이어지고 있다. 2026년 컨센서스 기준으로 계산하면 두 회사의 성과급 재원은 약 62.5조원까지 커질 수 있다. 이 숫자는 크다. 그러나 이 돈이 곧바로 한국 전체 내수를 되살린다고 보면 틀린다. 핵심은 '소비 회복'이 아니라 '이익의 재배분'이다. 상장주식 투자자는 이 돈이 어디로 흘러가고, 어느 업종의 손익계산서에 실제로 찍히는지를 봐야 한다.*
 
