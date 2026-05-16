@@ -162,7 +162,7 @@ jobs:
             scripts/valley_crosspost.py \
               --post "$post" \
               --mode publish \
-              --body-mode teaser \
+              --body-mode auto \
               --category-id "$VALLEY_POST_CATEGORY_ID" \
               --confirm-publish
           done
