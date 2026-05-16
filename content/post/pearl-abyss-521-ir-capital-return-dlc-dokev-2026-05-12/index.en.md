@@ -19,6 +19,7 @@ draft: false
 
 > 📚 **Pearl Abyss follow-up.**
 > Read first: [Pearl Abyss 1Q26 earnings comprehensive: ₩212.1B OP, 64.6% margin, FY26 OP guidance of ₩487.6-572.6B](/post/pearl-abyss-1q26-earnings-guidance-comprehensive-2026-05-12/)
+> Read next: [What the DLC "exploring" comment really means — not the KRW 60B in sales, but the removal of the "2027 cliff" discount](/post/pearl-abyss-dlc-package-to-franchise-rerating-2026-05-15/)
 > Hub: [Pearl Abyss and Crimson Desert Research Hub](/page/pearl-abyss-crimson-desert-hub/)
 
 *Pearl Abyss's May 12 earnings release changed the center of the debate. The question is no longer whether Crimson Desert worked. The first-quarter numbers answered that. The next question is whether Pearl Abyss can be valued as a quality Korean AAA IP company, not just as a one-time package-game launch story. The answer now depends on what the company says at the May 21 IR about capital allocation, Crimson Desert's expansion roadmap, and DokeV visibility.*

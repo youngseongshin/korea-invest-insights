@@ -2,7 +2,7 @@
 title: "Pearl Abyss and Crimson Desert Research Hub: Target Price, Shorts, Patch Updates"
 slug: "pearl-abyss-crimson-desert-hub"
 date: 2026-04-30T22:30:00+09:00
-lastmod: 2026-05-12T23:30:00+09:00
+lastmod: 2026-05-15T22:00:00+09:00
 aliases: ["/pearl-abyss/", "/crimson-desert/", "/en/pearl-abyss/", "/en/crimson-desert/", "/en/page/pearl-abyss-crimson-desert-hub/", "/es/page/pearl-abyss-crimson-desert-hub/", "/vi/page/pearl-abyss-crimson-desert-hub/", "/fr/page/pearl-abyss-crimson-desert-hub/", "/ja/page/pearl-abyss-crimson-desert-hub/", "/zh/page/pearl-abyss-crimson-desert-hub/"]
 layout: "page"
 description: "A hub for Pearl Abyss and Crimson Desert investment research, covering target price, short-sale data, Patch 1.04 and Patch 1.05 watch points, KRW 60,000 support, the CCP/EVE divestiture, and the platform re-rating thesis."
@@ -25,6 +25,7 @@ This hub is the starting map for the full Pearl Abyss / Crimson Desert research 
 | Why does Crimson Desert Patch 1.05 matter? | Patch 1.04 fixed difficulty, housing, pets, and QoL friction. Patch 1.05 is the next proof point for boss-rematch delivery and the endgame-loop cadence. | [Patch 1.04 Analysis](/post/pearl-abyss-crimson-desert-patch-104-witcher-moment-2026-04-23/) |
 | Does the CCP/EVE divestiture matter? | The sale is a 4.7%-of-market-cap cash event, but the real upside trigger is whether proceeds flow into buybacks and treasury-share cancellation. | [CCP/EVE Divestiture Analysis](/post/pearl-abyss-ccp-eve-divestment-capital-return-2026-04-30/) |
 | What should investors watch at the May 21 IR? | 1Q26 earnings proved the core case. The next variables are capital return, DLC/platform expansion, and DokeV roadmap visibility. | [May 21 IR Watch](/post/pearl-abyss-521-ir-capital-return-dlc-dokev-2026-05-12/) |
+| What does the DLC "exploring" comment really mean? | Not "KRW 60B in DLC sales." The point is **removing the market's "2027 cliff" discount** — a re-classification from package-game maker to franchise IP. The multiple lift from single-digit PER to 14–16x dwarfs the direct revenue effect. | [DLC: Package → Franchise Re-Rating](/post/pearl-abyss-dlc-package-to-franchise-rerating-2026-05-15/) |
 
 ---
 
@@ -44,6 +45,7 @@ This hub is the starting map for the full Pearl Abyss / Crimson Desert research 
 
 | Date | Topic | Read |
 |---|---|---|
+| 2026-05-15 | **What DLC "exploring" really means** — not KRW 60B of sales, but the removal of the "2027 cliff" discount. The PER re-rating from single-digit to 14–16x is the real alpha | [Pearl Abyss DLC: Package → Franchise Re-Rating](/post/pearl-abyss-dlc-package-to-franchise-rerating-2026-05-15/) |
 | 2026-05-12 | **May 21 IR Watch** — after ₩212.1bn OP, capital return, DLC and DokeV visibility decide the next multiple | [Pearl Abyss May 21 IR Watch](/post/pearl-abyss-521-ir-capital-return-dlc-dokev-2026-05-12/) |
 | 2026-05-12 | **1Q26 Comprehensive** — OP ₩212.1bn (+48% vs consensus), OPM 64.6%; first-ever company guidance FY26 OP ₩487.6-572.6bn | [Pearl Abyss 1Q26 Comprehensive](/post/pearl-abyss-1q26-earnings-guidance-comprehensive-2026-05-12/) |
 | 2026-05-11 | Next Week's Korean Earnings Preview — Pearl Abyss #1 surprise candidate | [Earnings-Week Preview](/post/next-week-earnings-preview-pearl-abyss-surprise-2026-05-11/) |
@@ -65,6 +67,7 @@ This hub is the starting map for the full Pearl Abyss / Crimson Desert research 
 
 ### Earnings and Valuation
 
+- [Pearl Abyss DLC: Why the "Exploring" Line Is a Package → Franchise Re-Classification](/post/pearl-abyss-dlc-package-to-franchise-rerating-2026-05-15/)
 - [Pearl Abyss 5/21 IR Watch: Capital Return, DLC and DokeV After ₩212.1B OP](/post/pearl-abyss-521-ir-capital-return-dlc-dokev-2026-05-12/)
 - [Pearl Abyss 1Q26 Preview: 51.9% Margin Case After Crimson Desert](/post/pearl-abyss-1q26-earnings-preview-2026-04-21/)
 - [Pearl Abyss Target Price Gap: Why Shinhan's 2027 Sales Cliff Looks Too Harsh](/post/pearl-abyss-shinhan-target-price-gap-analysis-2026-04-29/)
@@ -78,6 +81,7 @@ This hub is the starting map for the full Pearl Abyss / Crimson Desert research 
 
 ### Long-Term Platform Options
 
+- [Pearl Abyss DLC: Removing the "2027 Cliff" Discount via Multiple Re-Classification](/post/pearl-abyss-dlc-package-to-franchise-rerating-2026-05-15/)
 - [Pearl Abyss 5/21 IR Watch: Capital Return, DLC and DokeV After ₩212.1B OP](/post/pearl-abyss-521-ir-capital-return-dlc-dokev-2026-05-12/)
 - [Pearl Abyss Re-Rating: Crimson Desert Is More Than a Unit-Sales Story](/post/pearl-abyss-crimson-desert-platform-rerating-2026-04-25/)
 - [The BDO Resurgence Nobody Noticed: +40% YoY in Crimson Desert's Shadow](/post/pearl-abyss-black-desert-online-resurgence-2026-04-19/)
