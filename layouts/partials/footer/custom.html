@@ -1,5 +1,6 @@
 {{- $isKo := eq .Site.Language.Lang "ko" -}}
 {{- $prefix := cond $isKo "/ko" "" -}}
+{{ partial "article/components/recommendation-script.html" . }}
 <nav class="kii-policy-links" aria-label="{{ if $isKo }}사이트 정책{{ else }}Site policies{{ end }}">
   <a href="{{ printf "%s/page/about/" $prefix | relURL }}">{{ if $isKo }}소개{{ else }}About{{ end }}</a>
   <a href="{{ printf "%s/page/contact/" $prefix | relURL }}">{{ if $isKo }}연락처{{ else }}Contact{{ end }}</a>

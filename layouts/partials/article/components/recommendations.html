@@ -86,9 +86,4 @@
   </button>
   <p class="post-recommendation-status" hidden></p>
 </aside>
-
-{{- with resources.Get "js/post-recommendations.js" -}}
-  {{- $js := . | minify | fingerprint "sha256" -}}
-  <script defer src="{{ $js.RelPermalink }}" integrity="{{ $js.Data.Integrity }}" crossorigin="anonymous"></script>
-{{- end -}}
 {{- end -}}

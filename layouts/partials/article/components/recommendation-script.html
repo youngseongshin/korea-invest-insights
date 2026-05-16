@@ -1,0 +1,16 @@
+{{/*
+  Recommendation runtime.
+  Loaded once from the site footer so both article widgets and list badges work.
+*/}}
+{{- $config := .Site.Params.recommendations | default dict -}}
+{{- $enabled := true -}}
+{{- with $config.enabled -}}
+  {{- $enabled = . -}}
+{{- end -}}
+{{- $endpoint := $config.apiEndpoint | default (getenv "HUGO_RECOMMENDATIONS_API") -}}
+{{- if and $enabled $endpoint -}}
+  {{- with resources.Get "js/post-recommendations.js" -}}
+    {{- $js := . | minify | fingerprint "sha256" -}}
+    <script defer src="{{ $js.RelPermalink }}" integrity="{{ $js.Data.Integrity }}" crossorigin="anonymous"></script>
+  {{- end -}}
+{{- end -}}
