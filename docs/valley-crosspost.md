@@ -165,21 +165,23 @@ Direct publish is intentionally guarded by `--confirm-publish`.
 ## Local Auto-Publish Flow
 
 The preferred production path is still the canonical OpenClaw blog publish
-pipeline. That pipeline creates the multilingual post, publishes Substack,
-sends Telegram, posts to Botmadang, and now adds Valley as the final local-only
-step. The LaunchAgent below is a Valley-only safety net for posts committed
-manually outside that pipeline.
+pipeline. After the canonical blog URL is live, the local post-publish
+distribution stage runs Telegram, Botmadang, Substack, and Valley together. The
+LaunchAgent below remains named for the original Valley-only job, but its
+script now delegates to the unified distribution wrapper.
 
-After the GitHub Pages deploy is live, run Valley only:
+After the GitHub Pages deploy is live, run the full distribution wrapper:
 
 ```bash
-scripts/valley_auto_publish.py
+scripts/run_post_publish_distribution.sh
 ```
 
 For normal unattended operation, the local LaunchAgent runs the same Valley
-auto-publisher every 10 minutes. It checks the local Hugo content, verifies that
-the canonical Korean URL is live on `koreainvestinsights.com`, and publishes only
-posts that do not exist in the Valley de-duplication log.
+entrypoint every 10 minutes. The entrypoint now checks the local Hugo content,
+verifies that the canonical Korean URL is live on `koreainvestinsights.com`, and
+runs all configured channels. Each channel has its own de-duplication log, so an
+already-sent Telegram alert, Botmadang post, Substack article, or Valley article
+is not repeated.
 
 Create a local secret file. This file is intentionally outside the repository:
 
@@ -201,10 +203,10 @@ commit it. To discover the category id:
 VALLEY_COOKIE='...' scripts/valley_crosspost.py --mode categories
 ```
 
-Run a dry-run before enabling launchd:
+Run a full dry-run before enabling launchd:
 
 ```bash
-scripts/valley_auto_publish.py --dry-run
+scripts/post_publish_distribution.py --dry-run --max-posts 1 --no-require-live
 ```
 
 Install the LaunchAgent:
@@ -220,7 +222,7 @@ launchctl enable "gui/$(id -u)/com.koreainvestinsights.valley-auto-publish"
 launchctl kickstart -k "gui/$(id -u)/com.koreainvestinsights.valley-auto-publish"
 ```
 
-Logs:
+Logs still use the original launchd filenames for compatibility:
 
 ```text
 ~/Library/Logs/korea-invest-insights/valley_auto_publish.log
@@ -237,25 +239,29 @@ rm ~/Library/LaunchAgents/com.koreainvestinsights.valley-auto-publish.plist
 
 Safety rules:
 
-- missing `valley.env` means the job skips cleanly
-- `VALLEY_AUTO_PUBLISH` must be `true`
-- `VALLEY_POST_CATEGORY_ID` is required for public publishing
-- on first activation, the job writes a local watermark and does not backfill
-  old posts
+- Valley publishing reads `valley.env`; if Valley credentials are unavailable,
+  Valley skips or fails without exposing cookies in GitHub.
+- `VALLEY_AUTO_PUBLISH` must be `true` for Valley public publishing.
+- `VALLEY_POST_CATEGORY_ID` is required for Valley public publishing.
+- on first unified-distribution activation, each non-Valley channel writes a
+  `unifiedDistributionActivatedAt` watermark and does not backfill old posts
 - only Korean posts after that watermark and from the last 14 days are
   considered
 - the canonical blog URL must return HTTP 2xx/3xx before publishing
-- the same canonical URL is never published twice unless the log is manually
-  edited
+- the same canonical URL is never sent twice on the same channel unless that
+  channel's log is manually edited
 
-Watermark state is stored at:
+Watermark states are stored at:
 
 ```text
 ~/.local/share/korea-invest-insights/valley_auto_publish_state.json
+~/.local/share/korea-invest-insights/telegram_auto_publish_state.json
+~/.local/share/korea-invest-insights/botmadang_auto_publish_state.json
+~/.local/share/korea-invest-insights/substack_auto_publish_state.json
 ```
 
 If you explicitly want to backfill recent posts, run the script manually with
-`--allow-backfill` or set `VALLEY_BACKFILL=true` for one run only.
+`--allow-backfill` and a targeted `--channels` value.
 
 ## Content Format
 

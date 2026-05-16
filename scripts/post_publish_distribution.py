@@ -24,7 +24,9 @@ DEFAULT_REPO_ROOT = Path(__file__).resolve().parents[1]
 DEFAULT_CONFIG_PATH = Path.home() / ".config" / "korea-invest-insights" / "valley.env"
 DEFAULT_DATA_DIR = Path.home() / ".local" / "share" / "korea-invest-insights"
 OPENCLAW_TOOLS = Path.home() / ".openclaw" / "workspace" / "tools"
-SUPPORTED_CHANNELS = {"valley"}
+DEFAULT_CHANNELS = ["telegram", "botmadang", "substack", "valley"]
+SUPPORTED_CHANNELS = set(DEFAULT_CHANNELS)
+UNIFIED_WATERMARK_KEY = "unifiedDistributionActivatedAt"
 
 
 def parse_channels(raw: str) -> list[str]:
@@ -32,7 +34,7 @@ def parse_channels(raw: str) -> list[str]:
     unknown = sorted(set(channels) - SUPPORTED_CHANNELS)
     if unknown:
         raise SystemExit(f"Unsupported distribution channel(s): {', '.join(unknown)}")
-    return channels or ["valley"]
+    return channels or list(DEFAULT_CHANNELS)
 
 
 def run_valley(args: argparse.Namespace) -> int:
@@ -138,10 +140,12 @@ def discover_channel_candidates(args: argparse.Namespace, channel: str) -> tuple
     state_path = channel_state_path(channel)
     state = load_json(state_path)
     started_at = parse_iso_timestamp(state.get("startedAt"))
+    unified_started_at = parse_iso_timestamp(state.get(UNIFIED_WATERMARK_KEY))
 
     if not args.dry_run and started_at is None and not args.allow_backfill:
         now = dt.datetime.now(dt.timezone.utc).isoformat()
-        save_json(state_path, {"startedAt": now, "backfill": False})
+        state.update({"startedAt": now, "backfill": False, UNIFIED_WATERMARK_KEY: now})
+        save_json(state_path, state)
         return [], {
             "status": "initialized",
             "reason": "Created first-run watermark; existing posts were not backfilled",
@@ -149,12 +153,26 @@ def discover_channel_candidates(args: argparse.Namespace, channel: str) -> tuple
             "startedAt": now,
         }
 
+    if not args.dry_run and unified_started_at is None and not args.allow_backfill:
+        now = dt.datetime.now(dt.timezone.utc).isoformat()
+        state[UNIFIED_WATERMARK_KEY] = now
+        save_json(state_path, state)
+        return [], {
+            "status": "initialized",
+            "reason": "Created unified distribution watermark; existing posts were not backfilled",
+            "statePath": str(state_path),
+            UNIFIED_WATERMARK_KEY: now,
+        }
+
+    watermarks = [value for value in (started_at, unified_started_at) if value is not None]
+    min_timestamp = max(watermarks) if watermarks else None
+
     candidates = discover_distribution_candidates(
         Path(args.repo_root).resolve(),
         args.lang,
         args.since_days,
         channel_log_path(channel),
-        started_at,
+        min_timestamp,
     )
     return candidates, None
 
@@ -327,8 +345,8 @@ def main(argv: list[str] | None = None) -> int:
     parser.add_argument("--config", default=str(DEFAULT_CONFIG_PATH))
     parser.add_argument(
         "--channels",
-        default="valley",
-        help="Comma-separated channels. Only 'valley' is supported here; Telegram/Substack/Botmadang stay in the canonical blog pipeline.",
+        default=",".join(DEFAULT_CHANNELS),
+        help="Comma-separated channels to run after the blog URL is live. Default: telegram,botmadang,substack,valley.",
     )
     parser.add_argument("--lang", default="ko")
     parser.add_argument("--since-days", type=int, default=14)

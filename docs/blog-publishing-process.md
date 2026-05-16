@@ -2,9 +2,9 @@
 
 This is the canonical operating flow for Korea Invest Insights posts. The
 OpenClaw blog publish pipeline remains the source of truth: it creates the
-multilingual Hugo files, commits/pushes them, submits IndexNow, publishes the
-English Substack copy, sends Telegram alerts, and posts to Botmadang. Valley is
-an additional local-only step at the end of that existing pipeline.
+multilingual Hugo files, commits/pushes them, submits IndexNow, and then runs a
+single post-live distribution stage. That stage keeps Telegram, Botmadang,
+Substack, and Valley aligned from the same canonical blog URL.
 
 ## Standard Flow
 
@@ -27,44 +27,63 @@ an additional local-only step at the end of that existing pipeline.
 
 4. Commit and push the post.
 5. Wait for the GitHub Pages deploy to complete.
-6. Valley is handled either by the OpenClaw pipeline's final step or by the
-   local Valley-only LaunchAgent on the next cycle:
+6. Run the unified post-publish distribution stage, or let the local LaunchAgent
+   pick it up on the next 10-minute cycle:
 
    ```bash
-   scripts/run_valley_auto_publish.sh
+   scripts/run_post_publish_distribution.sh
    ```
 
-Do not use the Valley LaunchAgent to send Telegram, Botmadang, or Substack. Those
-belong to the canonical OpenClaw publish pipeline.
+The legacy `scripts/run_valley_auto_publish.sh` entrypoint is still present for
+launchd compatibility, but it now delegates to the unified distribution stage.
 
 ## Channel Ownership
 
-Channel ownership is intentionally split:
+All channel notifications are now run from one post-live wrapper:
 
-- **Substack**: OpenClaw `blog_publish_pipeline.py`, English version only.
-- **Telegram**: OpenClaw `blog_publish_pipeline.py`, after the live URL exists.
-- **Botmadang**: OpenClaw `blog_publish_pipeline.py`, after the live URL exists.
-- **Valley**: added at the end of `blog_publish_pipeline.py`; the local
-  LaunchAgent is a Valley-only safety net for posts that were committed manually.
+- **Telegram**: `scripts/post_publish_distribution.py` calls OpenClaw
+  `blog_channel_notify.py` after the live URL exists.
+- **Botmadang**: `scripts/post_publish_distribution.py` calls OpenClaw
+  `blog_botmadang_notify.py` after the live URL exists.
+- **Substack**: `scripts/post_publish_distribution.py` publishes the English
+  version only. Korean-only posts are logged as `skip_no_english`, not treated as
+  failures.
+- **Valley**: `scripts/post_publish_distribution.py` calls the local
+  Valley publisher with the selected body mode.
 
-`scripts/post_publish_distribution.py` is kept only as a thin Valley wrapper for
-legacy launchd compatibility. It supports `--channels valley` only.
+The default channel set is:
 
-For a Valley dry-run:
-
-```bash
-scripts/valley_auto_publish.py --dry-run
+```text
+telegram,botmadang,substack,valley
 ```
 
-For urgent manual Valley publishing after the GitHub Pages deploy is live:
+Override only for targeted recovery:
 
 ```bash
-scripts/valley_auto_publish.py --max-posts 1
+scripts/post_publish_distribution.py --channels telegram,botmadang
 ```
 
-For normal publishing, no manual Valley action is required if the local
-LaunchAgent is enabled. It runs every 10 minutes and uses the Valley
-de-duplication log.
+For a full dry-run:
+
+```bash
+scripts/post_publish_distribution.py --dry-run --max-posts 1 --no-require-live
+```
+
+For urgent manual full distribution after the GitHub Pages deploy is live:
+
+```bash
+scripts/post_publish_distribution.py --max-posts 1
+```
+
+For normal publishing, no manual action is required if the local LaunchAgent is
+enabled. It runs every 10 minutes and each channel uses its own de-duplication
+log.
+
+When the unified wrapper is enabled for an already-running installation, the
+first non-dry-run pass writes a `unifiedDistributionActivatedAt` watermark per
+non-Valley channel. This prevents older manually published posts from being
+backfilled unexpectedly. Explicit recovery still works with `--allow-backfill`
+and a targeted `--channels` value.
 
 ## Valley Content Policy
 

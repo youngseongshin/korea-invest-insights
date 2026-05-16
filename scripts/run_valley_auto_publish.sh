@@ -1,17 +1,7 @@
 #!/bin/bash
 set -euo pipefail
 
-REPO_ROOT="/Users/youngseongshin/korea-invest-insights"
-CONFIG_PATH="${HOME}/.config/korea-invest-insights/valley.env"
-
-mkdir -p "${HOME}/Library/Logs/korea-invest-insights"
-cd "${REPO_ROOT}"
-
-exec /usr/bin/python3 "${REPO_ROOT}/scripts/valley_auto_publish.py" \
-  --repo-root "${REPO_ROOT}" \
-  --config "${CONFIG_PATH}" \
-  --lang ko \
-  --since-days 14 \
-  --max-posts 3 \
-  --body-mode auto \
-  --require-live
+# Backward-compatible entrypoint for the existing LaunchAgent.
+# The legacy Valley-only job now runs the unified post-publish distribution
+# stage so Telegram, Botmadang, Substack, and Valley stay in sync.
+exec /Users/youngseongshin/korea-invest-insights/scripts/run_post_publish_distribution.sh
