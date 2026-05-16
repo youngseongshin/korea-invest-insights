@@ -1,68 +1,70 @@
 # Blog Publishing Process
 
-This is the canonical operating flow for Korea Invest Insights posts. GitHub
-Pages remains the source of truth for publishing. External channels are a
-post-publish distribution stage, so they run only after the canonical blog URL
-is live.
+This is the canonical operating flow for Korea Invest Insights posts. The
+OpenClaw blog publish pipeline remains the source of truth: it creates the
+multilingual Hugo files, commits/pushes them, submits IndexNow, publishes the
+English Substack copy, sends Telegram alerts, and posts to Botmadang. Valley is
+an additional local-only step at the end of that existing pipeline.
 
 ## Standard Flow
 
-1. Write or update the post in `content/post/*/index.<lang>.md`.
-2. Validate locally:
+1. Publish through the OpenClaw blog pipeline when creating a new post. This is
+   the normal path for multilingual posts:
+
+   ```python
+   from blog_publish_pipeline import publish_blog
+
+   publish_blog(english_md=english_content, korean_md=korean_content)
+   ```
+
+2. For manual Hugo edits, update `content/post/*/index.<lang>.md`.
+3. Validate locally:
 
    ```bash
    git diff --check
    hugo --minify
    ```
 
-3. Commit and push the post.
-4. Wait for the GitHub Pages deploy to complete.
-5. Run the local distribution stage, or let launchd run it on the next cycle:
+4. Commit and push the post.
+5. Wait for the GitHub Pages deploy to complete.
+6. Valley is handled either by the OpenClaw pipeline's final step or by the
+   local Valley-only LaunchAgent on the next cycle:
 
    ```bash
-   scripts/post_publish_distribution.py
+   scripts/run_valley_auto_publish.sh
    ```
 
-The distribution command includes Valley Space, Telegram channel alerts,
-Botmadang finance posts, and Substack for posts that have an English version.
+Do not use the Valley LaunchAgent to send Telegram, Botmadang, or Substack. Those
+belong to the canonical OpenClaw publish pipeline.
 
-## Distribution Stage
+## Channel Ownership
 
-`scripts/post_publish_distribution.py` calls the local distribution adapters
-with the same safe defaults used by launchd:
+Channel ownership is intentionally split:
 
-- Korean posts only
-- last 14 days only
-- maximum 3 posts per run
-- `--body-mode auto`
-- canonical URL must already be live
-- local per-channel de-duplication logs prevent repeat posts
+- **Substack**: OpenClaw `blog_publish_pipeline.py`, English version only.
+- **Telegram**: OpenClaw `blog_publish_pipeline.py`, after the live URL exists.
+- **Botmadang**: OpenClaw `blog_publish_pipeline.py`, after the live URL exists.
+- **Valley**: added at the end of `blog_publish_pipeline.py`; the local
+  LaunchAgent is a Valley-only safety net for posts that were committed manually.
 
-Channel behavior:
+`scripts/post_publish_distribution.py` is kept only as a thin Valley wrapper for
+legacy launchd compatibility. It supports `--channels valley` only.
 
-- `valley`: publishes Korean posts to Valley using the local Valley session or
-  API token.
-- `telegram`: sends a public Telegram channel alert through the legacy
-  OpenClaw notifier.
-- `botmadang`: posts a short Korean finance-community summary to Botmadang.
-- `substack`: publishes only when `index.en.md` exists; Korean-only posts are
-  recorded as skipped so the job does not retry forever.
-
-For a dry-run:
+For a Valley dry-run:
 
 ```bash
-scripts/post_publish_distribution.py --dry-run
+scripts/valley_auto_publish.py --dry-run
 ```
 
-For urgent manual publishing after the GitHub Pages deploy is live:
+For urgent manual Valley publishing after the GitHub Pages deploy is live:
 
 ```bash
-scripts/post_publish_distribution.py --channels valley,telegram,botmadang,substack
+scripts/valley_auto_publish.py --max-posts 1
 ```
 
-For normal publishing, no manual action is required if the local LaunchAgent is
-enabled. The LaunchAgent runs every 10 minutes and uses the same per-channel
-de-duplication logs.
+For normal publishing, no manual Valley action is required if the local
+LaunchAgent is enabled. It runs every 10 minutes and uses the Valley
+de-duplication log.
 
 ## Valley Content Policy
 

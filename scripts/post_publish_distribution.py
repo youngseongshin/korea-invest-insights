@@ -24,7 +24,7 @@ DEFAULT_REPO_ROOT = Path(__file__).resolve().parents[1]
 DEFAULT_CONFIG_PATH = Path.home() / ".config" / "korea-invest-insights" / "valley.env"
 DEFAULT_DATA_DIR = Path.home() / ".local" / "share" / "korea-invest-insights"
 OPENCLAW_TOOLS = Path.home() / ".openclaw" / "workspace" / "tools"
-SUPPORTED_CHANNELS = {"valley", "telegram", "botmadang", "substack"}
+SUPPORTED_CHANNELS = {"valley"}
 
 
 def parse_channels(raw: str) -> list[str]:
@@ -327,8 +327,8 @@ def main(argv: list[str] | None = None) -> int:
     parser.add_argument("--config", default=str(DEFAULT_CONFIG_PATH))
     parser.add_argument(
         "--channels",
-        default="valley,telegram,botmadang,substack",
-        help="Comma-separated channels: valley,telegram,botmadang,substack",
+        default="valley",
+        help="Comma-separated channels. Only 'valley' is supported here; Telegram/Substack/Botmadang stay in the canonical blog pipeline.",
     )
     parser.add_argument("--lang", default="ko")
     parser.add_argument("--since-days", type=int, default=14)

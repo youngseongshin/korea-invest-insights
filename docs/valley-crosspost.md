@@ -164,20 +164,22 @@ Direct publish is intentionally guarded by `--confirm-publish`.
 
 ## Local Auto-Publish Flow
 
-The preferred production path is the standard post-publish distribution stage.
-After the GitHub Pages deploy is live, run:
+The preferred production path is still the canonical OpenClaw blog publish
+pipeline. That pipeline creates the multilingual post, publishes Substack,
+sends Telegram, posts to Botmadang, and now adds Valley as the final local-only
+step. The LaunchAgent below is a Valley-only safety net for posts committed
+manually outside that pipeline.
+
+After the GitHub Pages deploy is live, run Valley only:
 
 ```bash
-scripts/post_publish_distribution.py
+scripts/valley_auto_publish.py
 ```
 
-That wrapper now calls the local distribution adapters for Valley, Telegram,
-Botmadang, and Substack. For normal unattended operation, the local LaunchAgent
-runs the same distribution wrapper every 10 minutes. It checks the local Hugo
-content, verifies that the canonical Korean URL is live on
-`koreainvestinsights.com`, and then publishes or notifies only posts that do
-not exist in each channel's local de-duplication log. Substack is English-only:
-Korean-only posts are marked as skipped for that channel.
+For normal unattended operation, the local LaunchAgent runs the same Valley
+auto-publisher every 10 minutes. It checks the local Hugo content, verifies that
+the canonical Korean URL is live on `koreainvestinsights.com`, and publishes only
+posts that do not exist in the Valley de-duplication log.
 
 Create a local secret file. This file is intentionally outside the repository:
 
@@ -202,7 +204,7 @@ VALLEY_COOKIE='...' scripts/valley_crosspost.py --mode categories
 Run a dry-run before enabling launchd:
 
 ```bash
-scripts/post_publish_distribution.py --channels valley,telegram,botmadang,substack --dry-run
+scripts/valley_auto_publish.py --dry-run
 ```
 
 Install the LaunchAgent:
