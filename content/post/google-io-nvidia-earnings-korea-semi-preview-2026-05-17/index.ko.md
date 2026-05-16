@@ -16,7 +16,7 @@ slug: google-io-nvidia-earnings-korea-semi-preview-2026-05-17
 ---
 
 > 📚 **관련 시리즈**
-> [AI 후공정의 두 가지 베타](/ko/post/ai-substrate-vs-test-socket-comparison-2026-05-15/) · [AI 후공정 11개 종목 데이터 비교](/ko/post/ai-substrate-test-socket-data-comparison-2026-05-16/) · [삼성전자 TSMC식 리레이팅 가능성](/ko/post/samsung-electronics-tsmc-rerating-thesis-2026-05-16/) · [AI HBM 허브](/ko/page/korea-semiconductor-hbm-kospi-hub/)
+> [AI 후공정의 두 가지 베타](/ko/post/ai-substrate-vs-test-socket-comparison-2026-05-15/) · [AI 후공정 11개 종목 데이터 비교](/ko/post/ai-substrate-test-socket-data-comparison-2026-05-16/) · [삼성전자 TSMC식 리레이팅 가능성](/ko/post/samsung-electronics-tsmc-rerating-thesis-2026-05-16/) · [AI-RAN 공급망 후속 분석](/ko/post/ai-ran-nvidia-earnings-skt-vs-supply-chain-2026-05-17/) · [AI HBM 허브](/ko/page/korea-semiconductor-hbm-kospi-hub/)
 
 다음 주 글로벌 AI 시장에는 성격이 다른 두 이벤트가 연속으로 온다. 한국 시간으로 5월 20일 오전 2시에는 구글 I/O 키노트가 열리고, 5월 21일 오전 5시 20분에는 NVIDIA FY2027 1분기 실적 자료가 공개된 뒤 오전 6시에 컨퍼런스콜이 이어진다.
 
