@@ -26,9 +26,9 @@ slug: pearl-abyss-crimson-desert-patch-107-weekend-data-2026-05-17
 
 ## 1. Los datos del fin de semana
 
-Fuente: SteamDB / SteamCharts (datos públicos)
-Snapshot: **2026-05-16 23:20 KST**
-Ventana: **15 de mayo 18:00 – 16 de mayo 23:20 vs fin de semana anterior 8 de mayo 18:00 – 9 de mayo 23:20**
+> **Fuente** SteamDB / SteamCharts (datos públicos)
+> **Snapshot** 2026-05-16 23:20 KST
+> **Ventana** 15 de mayo 18:00 – 16 de mayo 23:20 vs fin de semana anterior 8 de mayo 18:00 – 9 de mayo 23:20
 
 | Métrica | Este fin de semana | Fin de semana anterior | Δ |
 |---|---:|---:|---:|
@@ -59,13 +59,11 @@ Según las notas oficiales, 1.07 añadió revanchas de jefes, nuevas habilidades
 
 ## 3. Estimación de unidades
 
-Reseñas acumuladas actuales: **151.847**
-Reseñas en el punto de anclaje de 5M: **130.635**
-Ratio reseñas/unidades basado en el anclaje: **2,6127%**
+> **Reseñas acumuladas actuales** 151.847
+> **Reseñas en el punto de anclaje de 5M** 130.635
+> **Ratio reseñas/unidades basado en el anclaje** 2,6127%
 
-Estimación central de unidades:
-
-**\~5,81M**
+Estimación central de unidades: **\~5,81M**
 
 Sensibilidad:
 
@@ -99,23 +97,12 @@ El resumen más claro es que este fin de semana no es "estamos aguantando" — s
 
 ## 5. Cómo se vincula con otras publicaciones
 
-```
-DLC paquete → reclasificación como franquicia (15 de mayo):
-→ "No son KRW 60B de ingresos por DLC — es una reclasificación de múltiplo"
-→ Los datos de este fin de semana son una variable observable para el camino del Escenario B.
+- **[DLC paquete → reclasificación como franquicia (15 de mayo)](/es/post/pearl-abyss-dlc-package-to-franchise-rerating-2026-05-15/)** — "No son KRW 60B de ingresos por DLC — es una reclasificación de múltiplo". Los datos de este fin de semana son una variable observable para el camino del Escenario B.
+- **[Datos de fin de semana post-Parche 1.04 (27 de abr)](/es/post/pearl-abyss-crimson-desert-post-patch-weekend-data-2026-04-27/)** — la primera línea base comparable de parche / fin de semana. La cadencia de parches entre 1.04 y 1.07 es el núcleo de la tesis.
+- **[Seguimiento del IR del 21 de mayo (12 de mayo)](/es/post/pearl-abyss-521-ir-capital-return-dlc-dokev-2026-05-12/)** — retorno de capital, DLC, DokeV. Directamente vinculado a la lista de "condiciones para matar la tesis" aquí.
+- **[Análisis de brecha en el precio objetivo de Shinhan (29 de abr)](/es/post/pearl-abyss-shinhan-target-price-gap-analysis-2026-04-29/)** — el supuesto de "caída de ventas en 2027" de Shinhan. Alcanzar 6M más la aceptación del Parche 1.07 son los primeros datos que lo erosionan.
 
-Datos de fin de semana post-Parche 1.04 (27 de abr):
-→ La primera línea base comparable de parche / fin de semana
-→ La cadencia de parches entre 1.04 y 1.07 es el núcleo de la tesis.
-
-Seguimiento del IR del 21 de mayo (12 de mayo):
-→ Retorno de capital, DLC, DokeV
-→ Directamente vinculado a la lista de "condiciones para matar la tesis" aquí.
-
-Análisis de brecha en el precio objetivo de Shinhan (29 de abr):
-→ El supuesto de "caída de ventas en 2027" de Shinhan
-→ Alcanzar 6M más la aceptación del Parche 1.07 son los primeros datos que lo erosionan.
-```
+📚 La serie completa de Pearl Abyss está recopilada en el [Hub de investigación de Pearl Abyss / Crimson Desert](/es/page/pearl-abyss-crimson-desert-hub/).
 
 ---
 

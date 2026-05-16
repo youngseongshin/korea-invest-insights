@@ -26,9 +26,9 @@ slug: pearl-abyss-crimson-desert-patch-107-weekend-data-2026-05-17
 
 ## 1. Les données du week-end
 
-Source : SteamDB / SteamCharts (données publiques)
-Instantané : **16 mai 2026, 23h20 KST**
-Fenêtre : **15 mai 18h00 – 16 mai 23h20 vs week-end précédent 8 mai 18h00 – 9 mai 23h20**
+> **Source** SteamDB / SteamCharts (données publiques)
+> **Instantané** 16 mai 2026, 23h20 KST
+> **Fenêtre** 15 mai 18h00 – 16 mai 23h20 vs week-end précédent 8 mai 18h00 – 9 mai 23h20
 
 | Métrique | Ce week-end | Week-end précédent | Δ |
 |---|---:|---:|---:|
@@ -59,13 +59,11 @@ D'après les notes officielles, le 1.07 ajoute des revanches contre les boss, de
 
 ## 3. Estimation des unités vendues
 
-Avis cumulés actuels : **151 847**
-Avis au seuil d'ancrage de 5 M : **130 635**
-Ratio avis/unités basé sur l'ancrage : **2,6127 %**
+> **Avis cumulés actuels** 151 847
+> **Avis au seuil d'ancrage de 5 M** 130 635
+> **Ratio avis/unités basé sur l'ancrage** 2,6127 %
 
-Estimation centrale :
-
-**\~5,81 M**
+Estimation centrale : **\~5,81 M**
 
 Sensibilité :
 
@@ -99,23 +97,12 @@ Le résumé le plus limpide est que ce week-end ne se lit pas comme « on s'accr
 
 ## 5. Liens avec les autres articles
 
-```
-Reclassification DLC package → franchise (15 mai) :
-→ « Pas 60 milliards KRW de revenus DLC — une reclassification de multiple »
-→ Les données de ce week-end constituent une variable observable pour le chemin Scénario B.
+- **[Reclassification DLC package → franchise (15 mai)](/fr/post/pearl-abyss-dlc-package-to-franchise-rerating-2026-05-15/)** — « Pas 60 milliards KRW de revenus DLC — une reclassification de multiple ». Les données de ce week-end constituent une variable observable pour le chemin Scénario B.
+- **[Données post-patch du week-end Patch 1.04 (27 avr.)](/fr/post/pearl-abyss-crimson-desert-post-patch-weekend-data-2026-04-27/)** — le premier patch / week-end de référence comparable. La cadence des patches entre le 1.04 et le 1.07 est le cœur de la thèse.
+- **[Veille IR du 21 mai (12 mai)](/fr/post/pearl-abyss-521-ir-capital-return-dlc-dokev-2026-05-12/)** — retour de capital, DLC, DokeV. Directement lié à la liste des « conditions d'invalidation » ici.
+- **[Analyse de l'écart de prix cible Shinhan (29 avr.)](/fr/post/pearl-abyss-shinhan-target-price-gap-analysis-2026-04-29/)** — l'hypothèse de « falaise des ventes 2027 » de Shinhan. Atteindre les 6 M et l'acceptation du Patch 1.07 constituent les premiers points de données qui l'érodent.
 
-Données post-patch du week-end Patch 1.04 (27 avr.) :
-→ Le premier patch / week-end de référence comparable
-→ La cadence des patches entre le 1.04 et le 1.07 est le cœur de la thèse.
-
-Veille IR du 21 mai (12 mai) :
-→ Retour de capital, DLC, DokeV
-→ Directement lié à la liste des « conditions d'invalidation » ici.
-
-Analyse de l'écart de prix cible Shinhan (29 avr.) :
-→ L'hypothèse de « falaise des ventes 2027 » de Shinhan
-→ Atteindre les 6 M et l'acceptation du Patch 1.07 constituent les premiers points de données qui l'érodent.
-```
+📚 La série complète Pearl Abyss est regroupée dans le [hub de recherche Pearl Abyss / Crimson Desert](/fr/page/pearl-abyss-crimson-desert-hub/).
 
 ---
 

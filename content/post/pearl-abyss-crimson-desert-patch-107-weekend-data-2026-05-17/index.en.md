@@ -26,9 +26,9 @@ slug: pearl-abyss-crimson-desert-patch-107-weekend-data-2026-05-17
 
 ## 1. The weekend data
 
-Source: SteamDB / SteamCharts public data
-Snapshot: **2026-05-16 23:20 KST**
-Window: **May 15 18:00 – May 16 23:20 vs prior-weekend May 8 18:00 – May 9 23:20**
+> **Source** SteamDB / SteamCharts public data
+> **Snapshot** 2026-05-16 23:20 KST
+> **Window** May 15 18:00 – May 16 23:20 vs prior-weekend May 8 18:00 – May 9 23:20
 
 | Metric | This weekend | Last weekend | Δ |
 |---|---:|---:|---:|
@@ -59,13 +59,11 @@ Per the official notes, 1.07 added boss rematches, new Damiane combat skills, mo
 
 ## 3. Units estimate
 
-Current cumulative reviews: **151,847**
-Reviews at the 5M anchor: **130,635**
-Anchor-based review/units ratio: **2.6127%**
+> **Current cumulative reviews** 151,847
+> **Reviews at the 5M anchor** 130,635
+> **Anchor-based review/units ratio** 2.6127%
 
-Central units estimate:
-
-**\~5.81M**
+Central units estimate: **\~5.81M**
 
 Sensitivity:
 
@@ -99,23 +97,12 @@ The cleanest summary is that this weekend is not "we're hanging on" — it is cl
 
 ## 5. How this links to other posts
 
-```
-DLC package → franchise re-classification (May 15):
-→ "Not KRW 60B of DLC revenue — a multiple re-classification"
-→ This weekend's data is an observable variable for the Scenario B path.
+- **[DLC package → franchise re-classification (May 15)](/post/pearl-abyss-dlc-package-to-franchise-rerating-2026-05-15/)** — "Not KRW 60B of DLC revenue — a multiple re-classification." This weekend's data is an observable variable for the Scenario B path.
+- **[Patch 1.04 post-patch weekend data (Apr 27)](/post/pearl-abyss-crimson-desert-post-patch-weekend-data-2026-04-27/)** — the first comparable patch / weekend baseline. The patch cadence between 1.04 and 1.07 is the core of the thesis.
+- **[May 21 IR watch (May 12)](/post/pearl-abyss-521-ir-capital-return-dlc-dokev-2026-05-12/)** — capital return, DLC, DokeV. Directly tied to the "thesis-kill" conditions above.
+- **[Shinhan target-price gap analysis (Apr 29)](/post/pearl-abyss-shinhan-target-price-gap-analysis-2026-04-29/)** — Shinhan's "2027 sales-cliff" assumption. Hitting 6M plus acceptance of Patch 1.07 are the first datapoints that erode it.
 
-Patch 1.04 post-patch weekend data (Apr 27):
-→ The first comparable patch / weekend baseline
-→ The patch cadence between 1.04 and 1.07 is the core of the thesis.
-
-May 21 IR watch (May 12):
-→ Capital return, DLC, DokeV
-→ Directly tied to the "thesis-kill" condition list here.
-
-Shinhan target-price gap analysis (Apr 29):
-→ Shinhan's "2027 sales-cliff" assumption
-→ Hitting 6M plus acceptance of Patch 1.07 are the first datapoints that erode it.
-```
+📚 The full Pearl Abyss series is collected in the [Pearl Abyss / Crimson Desert research hub](/page/pearl-abyss-crimson-desert-hub/).
 
 ---
 

@@ -26,9 +26,9 @@ slug: pearl-abyss-crimson-desert-patch-107-weekend-data-2026-05-17
 
 ## 1. Dữ liệu cuối tuần
 
-Nguồn: SteamDB / SteamCharts (dữ liệu công khai)
-Thời điểm chụp: **2026-05-16 23:20 KST**
-Khung so sánh: **15/05 18:00 – 16/05 23:20 so với cuối tuần trước 8/05 18:00 – 9/05 23:20**
+> **Nguồn** SteamDB / SteamCharts (dữ liệu công khai)
+> **Thời điểm chụp** 2026-05-16 23:20 KST
+> **Khung so sánh** 15/05 18:00 – 16/05 23:20 so với cuối tuần trước 8/05 18:00 – 9/05 23:20
 
 | Chỉ số | Cuối tuần này | Cuối tuần trước | Δ |
 |---|---:|---:|---:|
@@ -59,13 +59,11 @@ Theo ghi chú chính thức, 1.07 bổ sung chế độ đánh lại boss, kỹ 
 
 ## 3. Ước tính số bản bán ra
 
-Tổng đánh giá tích lũy hiện tại: **151.847**
-Đánh giá tại mốc 5 triệu bản: **130.635**
-Tỷ lệ đánh giá/bản bán dựa trên mốc: **2,6127%**
+> **Tổng đánh giá tích lũy hiện tại** 151.847
+> **Đánh giá tại mốc 5 triệu bản** 130.635
+> **Tỷ lệ đánh giá/bản bán dựa trên mốc** 2,6127%
 
-Ước tính trung tâm số bản bán ra:
-
-**\~5,81 triệu bản**
+Ước tính trung tâm số bản bán ra: **\~5,81 triệu bản**
 
 Phân tích độ nhạy:
 
@@ -99,23 +97,12 @@ Tóm tắt rõ ràng nhất là cuối tuần này không phải "chúng ta đan
 
 ## 5. Liên kết với các bài viết khác
 
-```
-DLC package → tái phân loại franchise (ngày 15/05):
-→ "Không phải KRW 60 tỷ doanh thu DLC — mà là tái phân loại định giá"
-→ Dữ liệu cuối tuần này là biến quan sát được cho con đường Kịch bản B.
+- **[DLC package → tái phân loại franchise (ngày 15/05)](/vi/post/pearl-abyss-dlc-package-to-franchise-rerating-2026-05-15/)** — "Không phải KRW 60 tỷ doanh thu DLC — mà là tái phân loại định giá". Dữ liệu cuối tuần này là biến quan sát được cho con đường Kịch bản B.
+- **[Dữ liệu cuối tuần hậu Patch 1.04 (ngày 27/04)](/vi/post/pearl-abyss-crimson-desert-post-patch-weekend-data-2026-04-27/)** — baseline patch / cuối tuần có thể so sánh đầu tiên. Cadence patch giữa 1.04 và 1.07 là cốt lõi của luận điểm.
+- **[Theo dõi IR ngày 21/05 (ngày 12/05)](/vi/post/pearl-abyss-521-ir-capital-return-dlc-dokev-2026-05-12/)** — hoàn trả vốn, DLC, DokeV. Gắn trực tiếp với danh sách điều kiện "phá vỡ luận điểm" ở đây.
+- **[Phân tích khoảng cách giá mục tiêu Shinhan (ngày 29/04)](/vi/post/pearl-abyss-shinhan-target-price-gap-analysis-2026-04-29/)** — giả định "vách doanh số 2027" của Shinhan. Đạt 6 triệu bản cộng với sự chấp nhận Patch 1.07 là các điểm dữ liệu đầu tiên xói mòn giả định đó.
 
-Dữ liệu cuối tuần hậu Patch 1.04 (ngày 27/04):
-→ Baseline patch / cuối tuần có thể so sánh đầu tiên
-→ Cadence patch giữa 1.04 và 1.07 là cốt lõi của luận điểm.
-
-Theo dõi IR ngày 21/05 (ngày 12/05):
-→ Hoàn trả vốn, DLC, DokeV
-→ Gắn trực tiếp với danh sách điều kiện "phá vỡ luận điểm" ở đây.
-
-Phân tích khoảng cách giá mục tiêu Shinhan (ngày 29/04):
-→ Giả định "vách doanh số 2027" của Shinhan
-→ Đạt 6 triệu bản cộng với sự chấp nhận Patch 1.07 là các điểm dữ liệu đầu tiên xói mòn giả định đó.
-```
+📚 Toàn bộ chuỗi bài Pearl Abyss được tổng hợp tại [Hub nghiên cứu Pearl Abyss / Crimson Desert](/vi/page/pearl-abyss-crimson-desert-hub/).
 
 ---
 
