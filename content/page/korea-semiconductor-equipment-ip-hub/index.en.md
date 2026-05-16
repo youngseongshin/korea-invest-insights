@@ -27,6 +27,7 @@ Direct, ChatGPT-friendly answers to the questions investors and engineers ask ab
 | What exactly does Samsung Electro-Mechanics make? | Not chips. MLCC (power-stability components) and FC-BGA package substrates (the substrate connecting AI chips to motherboards), plus camera modules. The "invisible infrastructure" of AI silicon. | [SEMCO Three-Division Deep Dive](/post/samsung-electro-mechanics-mlcc-fcbga-ai-infrastructure-deep-dive-2026-05-15/) |
 | Is SEMCO's rerating from "smartphone parts" to "AI infrastructure" already priced in? | At KRW 1.02M (~38x 2027E PER), much of the structural thesis is reflected. Base-case fair value KRW 1.15M (+12%); bear KRW 730K (-29%). Earnings upgrades must continue. | [SEMCO Three-Division Deep Dive](/post/samsung-electro-mechanics-mlcc-fcbga-ai-infrastructure-deep-dive-2026-05-15/) |
 | AI back-end — should substrates and test sockets be lumped as one "AI theme"? | No. On 1Q26 OPM, Daeduck Electronics 14.8% vs ISC 35% vs LEENO Industrial 47.4% — **~3x spread**. Substrates are an "AI server volume beta" (strong short-term momentum, CAPEX cycle risk); test sockets are a "chip-complexity consumables beta" (high margin, low volatility). Different answers by holding horizon. | [Substrate vs Test Socket: Two Betas of AI Back-End](/post/ai-substrate-vs-test-socket-comparison-2026-05-15/) |
+| Within the 11 AI back-end names, who has the best value-for-growth? | **Simmtech (2027E PER 20.0x × OP +59%), Haesung DS (15.4x × +37%), Daeduck Electronics (27.1x × +34%)**. Memory megas screen cheapest (SK hynix 2027E PER 5.2x), but cycle-peak risk is a separate class. New-capital priority: substrates > test sockets > memory megas. | [AI Back-End — 11 Stocks Side by Side](/post/ai-substrate-test-socket-data-comparison-2026-05-16/) |
 
 ---
 
@@ -43,6 +44,7 @@ Direct, ChatGPT-friendly answers to the questions investors and engineers ask ab
 | 7 | What does the Korean display equipment picks-and-shovels look like? | [Korea Display Equipment Picks & Shovels](/post/korea-display-equipment-picks-shovels-2026-04-25/) |
 | 8 | What exactly does Samsung Electro-Mechanics make, and is it still investable at KRW 1.02M? | [SEMCO MLCC / FC-BGA / Optics Deep Dive](/post/samsung-electro-mechanics-mlcc-fcbga-ai-infrastructure-deep-dive-2026-05-15/) |
 | 9 | Why do substrates and test sockets behave so differently, even when both benefit from AI? | [Two Betas of AI Back-End: Substrate vs Test Socket](/post/ai-substrate-vs-test-socket-comparison-2026-05-15/) |
+| 10 | Of the 11 AI back-end names, who actually has the best value-for-growth? — 2027E PER × OP-growth matrix | [AI Back-End — 11 Stocks Side by Side](/post/ai-substrate-test-socket-data-comparison-2026-05-16/) |
 
 ---
 
@@ -81,10 +83,11 @@ The SemiScope series tracks the three Korean memory test equipment + IP names th
 
 ## AI Back-End Comparison — Substrates vs Test Sockets
 
-When AI silicon sells, two back-end regions benefit together — but the structures are completely different. **Substrates** = "AI-server volume beta" (short-term momentum, CAPEX-cycle risk). **Test sockets** = "chip-complexity consumables beta" (high margin, low volatility). 1Q26 operating-margin spread of ~3x quantifies that difference.
+When AI silicon sells, two back-end regions benefit together — but the structures are completely different. **Substrates** = "AI-server volume beta" (short-term momentum, CAPEX-cycle risk). **Test sockets** = "chip-complexity consumables beta" (high margin, low volatility). 1Q26 operating-margin spread of ~3x quantifies that difference. The 5/16 follow-up extends this into an 11-stock data comparison on a 2027E PER × OP-growth matrix.
 
 | Date | Topic | Read |
 |---|---|---|
+| 2026-05-16 | **Data follow-up** — 11 stocks in one table (2026 YTD, 2026E/2027E PER, OP YoY, OPM), PEG-style ranking, priority order for new capital | [AI Back-End — 11 Stocks Side by Side](/post/ai-substrate-test-socket-data-comparison-2026-05-16/) |
 | 2026-05-15 | Head-to-head comparison — 14.8% vs 35% vs 47.4% OPM, priority names by holding horizon, portfolio construction | [Substrate vs Test Socket: Two Betas of AI Back-End](/post/ai-substrate-vs-test-socket-comparison-2026-05-15/) |
 | 2026-05-15 | Substrate-side stock — Samsung Electro-Mechanics divisional dissection | [SEMCO MLCC / FC-BGA / Optics Deep Dive](/post/samsung-electro-mechanics-mlcc-fcbga-ai-infrastructure-deep-dive-2026-05-15/) |
 | 2026-05-07 | Substrate industry structure — Why Korea? | [Why Korea Part 1: Semiconductor Substrates](/post/why-korea-semiconductor-substrate-competitive-edge-2026-05-07/) |

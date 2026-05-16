@@ -15,6 +15,7 @@ slug: ai-substrate-vs-test-socket-comparison-2026-05-15
 
 > 📚 AI back-end series
 > Previously: Samsung Electro-Mechanics MLCC and FC-BGA deep dive, Jeju Semiconductor legacy-memory thesis
+> Read next: [AI back-end — 11 stocks side by side on 2027E PER × OP growth](/post/ai-substrate-test-socket-data-comparison-2026-05-16/)
 
 *Who actually makes money when AI silicon sells? Nvidia (GPU) and SK hynix (HBM) are the names that come to mind first. But the "back end" of the supply chain has major winners too. We call it AI back-end. Two regions matter most: substrates and test sockets. Both are parts that an AI chip passes through before completion — but the investment structures are completely different. Substrates are a bet on "AI server units." Test sockets are a bet on "AI chip complexity." Margins are roughly 3x higher in test sockets, and momentum is faster in substrates. Which is the better investment depends on how long you plan to hold.*
 
