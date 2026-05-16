@@ -1,7 +1,7 @@
 ---
 title: "Memory Pulse 数据看板正式上线——三星电子与SK hynix 实时信号监控台，将博客分析与实时数据打通"
 slug: memory-pulse-dashboard-launch-2026-05-16
-date: 2026-05-16T09:00:00+09:00
+date: 2026-05-15T09:00:00+09:00
 description: "memory.koreainvestinsights.com 自定义域名已正式启用。「Memory Pulse」是围绕三星电子与SK hynix 构建的实时信号看板。页面包含以韩国时区为基准的执行摘要、市场快照、三星/hynix 个股卡片、信号驱动因素（美国半导体传导、外汇、宏观风险、存储周期代理指标）以及可排序的品种涨跌表，全部集中于同一屏幕。每个数据点均标注 Live / Delayed / Fallback / Missing 新鲜度标签，确保透明度。博客分析在季度/周级别解释「为什么」，看板展示「此刻正在发生什么」。页面内设 HBM Hub、Daily Market Hub、Telegram 及 Substack 直达链接。"
 categories: ["工具", "韩国市场"]
 tags:

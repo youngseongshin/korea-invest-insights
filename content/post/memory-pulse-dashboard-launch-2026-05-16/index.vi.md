@@ -1,7 +1,7 @@
 ---
 title: "Memory Pulse Dashboard Chính Thức Ra Mắt — Bảng Tín Hiệu Thời Gian Thực Cho Samsung Electronics và SK hynix. Kết Nối Phân Tích Blog Với Dữ Liệu Trực Tiếp"
 slug: memory-pulse-dashboard-launch-2026-05-16
-date: 2026-05-16T09:00:00+09:00
+date: 2026-05-15T09:00:00+09:00
 description: "Tên miền tùy chỉnh memory.koreainvestinsights.com đã chính thức hoạt động. 'Memory Pulse' là bảng tín hiệu thời gian thực xây dựng xung quanh Samsung Electronics và SK hynix. Tóm tắt điều hành theo giờ Hàn Quốc, ảnh chụp thị trường, thẻ công ty Samsung / hynix, các yếu tố dẫn động tín hiệu (tín hiệu từ bán dẫn Mỹ, tỷ giá, rủi ro vĩ mô, proxy chu kỳ bộ nhớ), và bảng biến động công cụ có thể sắp xếp — tất cả trên một màn hình. Mỗi điểm dữ liệu đều có nhãn độ tươi Live / Delayed / Fallback / Missing để đảm bảo minh bạch. Blog phân tích 'tại sao' theo chu kỳ quý / tuần; dashboard cho thấy 'ngay lúc này.' Liên kết trực tiếp đến HBM Hub, Daily Market Hub, Telegram và Substack."
 categories: ["Công Cụ", "Thị Trường Hàn Quốc"]
 tags:

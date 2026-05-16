@@ -1,7 +1,7 @@
 ---
 title: "Memory Pulse 대시보드 정식 오픈 — 삼성전자·SK하이닉스 실시간 시그널 보드. 블로그 분석을 실시간 데이터와 잇는다"
 slug: memory-pulse-dashboard-launch-2026-05-16
-date: 2026-05-16T09:00:00+09:00
+date: 2026-05-15T09:00:00+09:00
 description: "memory.koreainvestinsights.com 커스텀 도메인이 정식 활성화됐다. 'Memory Pulse'는 삼성전자와 SK하이닉스에 특화된 실시간 시그널 보드다. 한국 시간 기준 장중 한 줄 요약, 시장 스냅샷, 삼성·하이닉스 카드 비교, 시그널 드라이버(미국 반도체 read-through·환율·매크로 리스크·메모리 사이클), 종목별 변동표를 한 화면에 모았다. 모든 데이터에 Live/Delayed/Fallback/Missing 라벨이 붙어 신뢰도를 투명하게 보여준다. 블로그의 분기·주간 분석이 '이유'를 설명한다면, 대시보드는 '지금 이 순간'을 보여준다. HBM 허브, Daily Market 허브, 텔레그램, 서브스택과 모두 연결돼 있다."
 categories: ["Tools", "한국 시장"]
 tags:

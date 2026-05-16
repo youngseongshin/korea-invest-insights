@@ -1,7 +1,7 @@
 ---
 title: "Memory Pulseダッシュボード、正式公開 — サムスン電子・SKハイニックスのリアルタイム・シグナルボード。ブログ分析とライブデータをつなぐ"
 slug: memory-pulse-dashboard-launch-2026-05-16
-date: 2026-05-16T09:00:00+09:00
+date: 2026-05-15T09:00:00+09:00
 description: "カスタムドメイン memory.koreainvestinsights.com が正式稼働。「Memory Pulse」はサムスン電子とSKハイニックスを軸に構築したリアルタイム・シグナルダッシュボード。韓国時間基準のエグゼクティブサマリー、マーケットスナップショット、Samsung / hynix のカンパニーカード、シグナルドライバー（米国半導体リードスルー・FX・マクロリスク・メモリサイクルプロキシ）、ソート可能な銘柄騰落テーブルを1画面に集約。すべてのデータポイントに Live / Delayed / Fallback / Missing の鮮度ラベルを付与し、透明性を確保。ブログ分析が「なぜ」を四半期・週次で説明し、ダッシュボードが「今この瞬間」を映す。HBMハブ、デイリーマーケットハブ、Telegram、Substackへの直接リンクも完備。"
 categories: ["Tools", "Korea Market"]
 tags:

@@ -1,7 +1,7 @@
 ---
 title: "Memory Pulse Dashboard Ya Está en Vivo — Panel de Señales en Tiempo Real para Samsung Electronics y SK hynix. El Análisis del Blog, Conectado a Datos en Directo"
 slug: memory-pulse-dashboard-launch-2026-05-16
-date: 2026-05-16T09:00:00+09:00
+date: 2026-05-15T09:00:00+09:00
 description: "El dominio personalizado memory.koreainvestinsights.com ya está activo. 'Memory Pulse' es un panel de señales en tiempo real centrado en Samsung Electronics y SK hynix. Resumen ejecutivo anclado al horario de Corea, instantánea de mercado, tarjetas por compañía de Samsung y hynix, factores impulsores de señal (lectura del sector semiconductor estadounidense, divisas, riesgo macro, proxies del ciclo de memoria) y una tabla de movimientos de instrumentos ordenable — todo en una sola pantalla. Cada dato lleva una etiqueta de frescura Live / Delayed / Fallback / Missing para total transparencia. El blog explica el 'por qué' en un horizonte trimestral/semanal; el dashboard muestra el 'ahora mismo'. Accesos directos al HBM Hub, al Daily Market Hub, a Telegram y a Substack."
 categories: ["Herramientas", "Mercado Coreano"]
 tags:
