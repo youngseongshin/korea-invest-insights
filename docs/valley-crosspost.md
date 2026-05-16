@@ -164,10 +164,19 @@ Direct publish is intentionally guarded by `--confirm-publish`.
 
 ## Local Auto-Publish Flow
 
-The preferred production path is a local LaunchAgent. It checks the local Hugo
-content every 10 minutes, verifies that the canonical Korean URL is live on
-`koreainvestinsights.com`, and then publishes only posts that do not exist in
-the local de-duplication log.
+The preferred production path is the standard post-publish distribution stage.
+After the GitHub Pages deploy is live, run:
+
+```bash
+scripts/post_publish_distribution.py
+```
+
+That wrapper currently calls the Valley auto-publisher and can later be
+extended to Telegram, Substack, or Botmadang. For normal unattended operation,
+the local LaunchAgent runs the same Valley auto-publisher every 10 minutes. It
+checks the local Hugo content, verifies that the canonical Korean URL is live
+on `koreainvestinsights.com`, and then publishes only posts that do not exist
+in the local de-duplication log.
 
 Create a local secret file. This file is intentionally outside the repository:
 
@@ -192,7 +201,7 @@ VALLEY_COOKIE='...' scripts/valley_crosspost.py --mode categories
 Run a dry-run before enabling launchd:
 
 ```bash
-scripts/valley_auto_publish.py --dry-run
+scripts/post_publish_distribution.py --dry-run
 ```
 
 Install the LaunchAgent:
