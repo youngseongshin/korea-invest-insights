@@ -26,7 +26,7 @@ slug: pearl-abyss-crimson-desert-patch-107-weekend-data-2026-05-17
 
 ## 1. 周末数据
 
-数据来源：`comprehensive_vault.csv`（内部追踪器）
+数据来源：SteamDB / SteamCharts（公开数据）
 快照时间：**2026-05-16 23:20 北京时间**
 对比窗口：**5 月 15 日 18:00 – 5 月 16 日 23:20 vs 上周末 5 月 8 日 18:00 – 5 月 9 日 23:20**
 
@@ -119,6 +119,6 @@ Patch 1.04 后周末数据（4 月 27 日）：
 
 ---
 
-*本文仅为研究与评论，不构成投资建议。同时在线人数、新增评价、销售榜排名数据来自 SteamDB / SteamCharts，经内部追踪器（`comprehensive_vault.csv`）于北京时间 5 月 16 日 23:20 抓取，可能与实时数值存在偏差。累计评价数 151,847 及 5M 锚点时的 130,635 均为 Steam 公开数据的实测值。5.81M 销量中枢估算基于 2.6127% 的锚点评价/销量比率，为作者估算；实际销量以公司官方披露为准。5 月 27–29 日的 6M 预计到达时间为当前评价增长速度的简单外推，未经证实。Patch 1.07 内容参考 Pearl Abyss 官方《绯红荒漠》补丁说明。投资操作建议（持有、有条件加仓等）为作者假设，不提供任何保证。全球宏观变量（美国利率、油价、美元/韩元汇率、VIX）可能作为 KOSDAQ 长久期资产独立影响 Pearl Abyss 股价走势。本分析可能存在错误。数据截止日期：2026 年 5 月 17 日北京时间。*
+*本文仅为研究与评论，不构成投资建议。同时在线人数、新增评价、销售榜排名数据来自 SteamDB / SteamCharts，截至北京时间 5 月 16 日 23:20，可能与实时数值存在偏差。累计评价数 151,847 及 5M 锚点时的 130,635 均为 Steam 公开数据的实测值。5.81M 销量中枢估算基于 2.6127% 的锚点评价/销量比率，为作者估算；实际销量以公司官方披露为准。5 月 27–29 日的 6M 预计到达时间为当前评价增长速度的简单外推，未经证实。Patch 1.07 内容参考 Pearl Abyss 官方《绯红荒漠》补丁说明。投资操作建议（持有、有条件加仓等）为作者假设，不提供任何保证。全球宏观变量（美国利率、油价、美元/韩元汇率、VIX）可能作为 KOSDAQ 长久期资产独立影响 Pearl Abyss 股价走势。本分析可能存在错误。数据截止日期：2026 年 5 月 17 日北京时间。*
 
 *Disclaimer: For research and information purposes only. Not investment advice. Names cited are for analytical illustration; readers should perform their own due diligence and consult licensed advisors before any investment decision.*

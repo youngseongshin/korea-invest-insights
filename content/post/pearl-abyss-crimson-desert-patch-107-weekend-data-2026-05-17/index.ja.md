@@ -26,7 +26,7 @@ slug: pearl-abyss-crimson-desert-patch-107-weekend-data-2026-05-17
 
 ## 1. 週末データ
 
-出所：`comprehensive_vault.csv`（内部トラッカー）
+出所：SteamDB / SteamCharts（公開データ）
 スナップショット：**2026-05-16 23:20 KST**
 比較窓：**5月15日18:00〜5月16日23:20 vs 先週末5月8日18:00〜5月9日23:20**
 
@@ -119,6 +119,6 @@ DLCパッケージ→フランチャイズ再分類（5月15日）:
 
 ---
 
-*本記事はリサーチおよびコメンタリーであり、投資助言ではありません。CCU・新規レビュー・販売ランクの数値は、内部トラッカー（`comprehensive_vault.csv`）が5月16日23:20 KSTに取得したSteamDB / SteamChartsのスナップショットに基づいており、リアルタイム値と異なる場合があります。累積レビュー151,847件および500万本アンカー時点の130,635件はSteam公開データからの実測値です。581万本の中央値推定は2.6127%のアンカーベース比率を適用した筆者の推計であり、実際の販売数は企業開示に依存します。600万本到達ETAの5月27〜29日は現在のレビュー増加ペースの単純外挿であり、確定値ではありません。パッチ1.07の内容はPearl Abyssの公式Crimson Desertパッチノートを参照しています。投資アクション（ホールド・条件付き追加など）は筆者の仮説であり、結果を保証するものではありません。グローバルマクロ変数（米金利・原油・USD/KRW・VIX）はKOSDAQの長期デュレーション資産であるPearl Abyssに独立した影響を与え得ます。本分析は誤りを含む可能性があります。データ基準日：2026年5月17日 KST。*
+*本記事はリサーチおよびコメンタリーであり、投資助言ではありません。CCU・新規レビュー・販売ランクの数値は、5月16日23:20 KST時点のSteamDB / SteamChartsのスナップショットに基づいており、リアルタイム値と異なる場合があります。累積レビュー151,847件および500万本アンカー時点の130,635件はSteam公開データからの実測値です。581万本の中央値推定は2.6127%のアンカーベース比率を適用した筆者の推計であり、実際の販売数は企業開示に依存します。600万本到達ETAの5月27〜29日は現在のレビュー増加ペースの単純外挿であり、確定値ではありません。パッチ1.07の内容はPearl Abyssの公式Crimson Desertパッチノートを参照しています。投資アクション（ホールド・条件付き追加など）は筆者の仮説であり、結果を保証するものではありません。グローバルマクロ変数（米金利・原油・USD/KRW・VIX）はKOSDAQの長期デュレーション資産であるPearl Abyssに独立した影響を与え得ます。本分析は誤りを含む可能性があります。データ基準日：2026年5月17日 KST。*
 
 *Disclaimer: For research and information purposes only. Not investment advice. Names cited are for analytical illustration; readers should perform their own due diligence and consult licensed advisors before any investment decision.*

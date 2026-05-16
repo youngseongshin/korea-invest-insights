@@ -26,7 +26,7 @@ slug: pearl-abyss-crimson-desert-patch-107-weekend-data-2026-05-17
 
 ## 1. Dữ liệu cuối tuần
 
-Nguồn: `comprehensive_vault.csv` (tracker nội bộ)
+Nguồn: SteamDB / SteamCharts (dữ liệu công khai)
 Thời điểm chụp: **2026-05-16 23:20 KST**
 Khung so sánh: **15/05 18:00 – 16/05 23:20 so với cuối tuần trước 8/05 18:00 – 9/05 23:20**
 
@@ -119,6 +119,6 @@ Phân tích khoảng cách giá mục tiêu Shinhan (ngày 29/04):
 
 ---
 
-*Bài viết này chỉ mang tính nghiên cứu và bình luận, không phải lời khuyên đầu tư. Các số liệu CCU, đánh giá mới và thứ hạng doanh số lấy từ SteamDB / SteamCharts qua tracker nội bộ (`comprehensive_vault.csv`) tại thời điểm chụp 23:20 KST ngày 16/05 và có thể khác với giá trị thời gian thực. Tổng đánh giá tích lũy 151.847 và con số 130.635 tại mốc 5 triệu bản là các giá trị quan sát từ dữ liệu công khai của Steam. Ước tính trung tâm 5,81 triệu bản áp dụng tỷ lệ đánh giá/bản bán 2,6127% dựa trên mốc và là ước tính của tác giả; số bản thực tế phụ thuộc vào công bố của công ty. ETA ngày 27–29/05 cho 6 triệu bản là phép ngoại suy đơn giản từ tốc độ tăng trưởng đánh giá hiện tại và chưa được xác nhận. Nội dung Patch 1.07 tham chiếu ghi chú patch Crimson Desert chính thức của Pearl Abyss. Các khuyến nghị hành động đầu tư (giữ hiện tại, mua thêm có điều kiện, v.v.) là giả thuyết của tác giả và không được đảm bảo. Các biến vĩ mô toàn cầu (lãi suất Mỹ, dầu, USD/KRW, VIX) có thể độc lập ảnh hưởng đến Pearl Abyss với tư cách là tài sản KOSDAQ thời hạn dài. Phân tích có thể sai. Dữ liệu cắt tại: ngày 17/05/2026 KST.*
+*Bài viết này chỉ mang tính nghiên cứu và bình luận, không phải lời khuyên đầu tư. Các số liệu CCU, đánh giá mới và thứ hạng doanh số lấy từ SteamDB / SteamCharts tại thời điểm chụp 23:20 KST ngày 16/05 và có thể khác với giá trị thời gian thực. Tổng đánh giá tích lũy 151.847 và con số 130.635 tại mốc 5 triệu bản là các giá trị quan sát từ dữ liệu công khai của Steam. Ước tính trung tâm 5,81 triệu bản áp dụng tỷ lệ đánh giá/bản bán 2,6127% dựa trên mốc và là ước tính của tác giả; số bản thực tế phụ thuộc vào công bố của công ty. ETA ngày 27–29/05 cho 6 triệu bản là phép ngoại suy đơn giản từ tốc độ tăng trưởng đánh giá hiện tại và chưa được xác nhận. Nội dung Patch 1.07 tham chiếu ghi chú patch Crimson Desert chính thức của Pearl Abyss. Các khuyến nghị hành động đầu tư (giữ hiện tại, mua thêm có điều kiện, v.v.) là giả thuyết của tác giả và không được đảm bảo. Các biến vĩ mô toàn cầu (lãi suất Mỹ, dầu, USD/KRW, VIX) có thể độc lập ảnh hưởng đến Pearl Abyss với tư cách là tài sản KOSDAQ thời hạn dài. Phân tích có thể sai. Dữ liệu cắt tại: ngày 17/05/2026 KST.*
 
 *Disclaimer: For research and information purposes only. Not investment advice. Names cited are for analytical illustration; readers should perform their own due diligence and consult licensed advisors before any investment decision.*

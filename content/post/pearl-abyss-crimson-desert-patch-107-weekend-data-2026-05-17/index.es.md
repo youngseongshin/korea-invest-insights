@@ -26,7 +26,7 @@ slug: pearl-abyss-crimson-desert-patch-107-weekend-data-2026-05-17
 
 ## 1. Los datos del fin de semana
 
-Fuente: `comprehensive_vault.csv` (tracker interno)
+Fuente: SteamDB / SteamCharts (datos públicos)
 Snapshot: **2026-05-16 23:20 KST**
 Ventana: **15 de mayo 18:00 – 16 de mayo 23:20 vs fin de semana anterior 8 de mayo 18:00 – 9 de mayo 23:20**
 
@@ -119,6 +119,6 @@ Análisis de brecha en el precio objetivo de Shinhan (29 de abr):
 
 ---
 
-*Este artículo es solo investigación y comentario y no constituye asesoramiento de inversión. Los datos de CCU, nuevas reseñas y ranking de ventas provienen de SteamDB / SteamCharts a través del tracker interno (`comprehensive_vault.csv`) con snapshot al 16 de mayo, 23:20 KST y pueden diferir de los valores en tiempo real. Las reseñas acumuladas de 151.847 y el dato de 130.635 en el punto de anclaje de 5M son valores observados de los datos públicos de Steam. La estimación central de 5,81M unidades aplica un ratio reseñas/unidades del 2,6127% basado en el anclaje y es estimación del autor; las unidades reales dependen de la divulgación de la compañía. La ETA del 27–29 de mayo para los 6M es una extrapolación simple del ritmo actual de crecimiento de reseñas y no está confirmada. Las referencias al contenido del Parche 1.07 provienen de las notas oficiales de parche de Crimson Desert de Pearl Abyss. Las recomendaciones de acción de inversión (mantener la posición actual, añadir de forma condicional, etc.) son hipótesis del autor y no están garantizadas. Las variables macroeconómicas globales (tipos en EE.UU., petróleo, USD/KRW, VIX) pueden mover independientemente a Pearl Abyss como activo de larga duración en el KOSDAQ. El análisis puede ser incorrecto. Corte de datos: 17 de mayo de 2026 KST.*
+*Este artículo es solo investigación y comentario y no constituye asesoramiento de inversión. Los datos de CCU, nuevas reseñas y ranking de ventas provienen de SteamDB / SteamCharts con corte al 16 de mayo, 23:20 KST y pueden diferir de los valores en tiempo real. Las reseñas acumuladas de 151.847 y el dato de 130.635 en el punto de anclaje de 5M son valores observados de los datos públicos de Steam. La estimación central de 5,81M unidades aplica un ratio reseñas/unidades del 2,6127% basado en el anclaje y es estimación del autor; las unidades reales dependen de la divulgación de la compañía. La ETA del 27–29 de mayo para los 6M es una extrapolación simple del ritmo actual de crecimiento de reseñas y no está confirmada. Las referencias al contenido del Parche 1.07 provienen de las notas oficiales de parche de Crimson Desert de Pearl Abyss. Las recomendaciones de acción de inversión (mantener la posición actual, añadir de forma condicional, etc.) son hipótesis del autor y no están garantizadas. Las variables macroeconómicas globales (tipos en EE.UU., petróleo, USD/KRW, VIX) pueden mover independientemente a Pearl Abyss como activo de larga duración en el KOSDAQ. El análisis puede ser incorrecto. Corte de datos: 17 de mayo de 2026 KST.*
 
 *Disclaimer: For research and information purposes only. Not investment advice. Names cited are for analytical illustration; readers should perform their own due diligence and consult licensed advisors before any investment decision.*

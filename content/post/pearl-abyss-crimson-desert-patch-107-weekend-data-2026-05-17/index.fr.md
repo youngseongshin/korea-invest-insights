@@ -26,7 +26,7 @@ slug: pearl-abyss-crimson-desert-patch-107-weekend-data-2026-05-17
 
 ## 1. Les données du week-end
 
-Source : `comprehensive_vault.csv` (tracker interne)
+Source : SteamDB / SteamCharts (données publiques)
 Instantané : **16 mai 2026, 23h20 KST**
 Fenêtre : **15 mai 18h00 – 16 mai 23h20 vs week-end précédent 8 mai 18h00 – 9 mai 23h20**
 
@@ -119,6 +119,6 @@ Analyse de l'écart de prix cible Shinhan (29 avr.) :
 
 ---
 
-*Cet article est une recherche et un commentaire uniquement ; il ne constitue pas un conseil en investissement. Les chiffres de CCU, de nouveaux avis et de classement des ventes proviennent de SteamDB / SteamCharts via le tracker interne (`comprehensive_vault.csv`), instantané au 16 mai, 23h20 KST, et peuvent différer des valeurs en temps réel. Les 151 847 avis cumulés et les 130 635 avis au seuil d'ancrage des 5 M sont des valeurs observées à partir des données publiques Steam. L'estimation centrale de 5,81 M d'unités applique un ratio avis/unités de 2,6127 % basé sur l'ancrage et reflète l'estimation de l'auteur ; les unités réelles dépendent des communications de la société. La date d'atteinte des 6 M autour du 27–29 mai est une simple extrapolation du rythme actuel de croissance des avis et n'est pas confirmée. Le contenu du Patch 1.07 fait référence aux notes de patch officielles de Crimson Desert par Pearl Abyss. Les recommandations d'action en matière d'investissement (conserver, renforcement conditionnel, etc.) sont des hypothèses de l'auteur et ne sont pas garanties. Les variables macroéconomiques mondiales (taux américains, pétrole, USD/KRW, VIX) peuvent affecter Pearl Abyss indépendamment en tant qu'actif KOSDAQ à longue duration. L'analyse peut se révéler erronée. Date de coupure des données : 17 mai 2026, KST.*
+*Cet article est une recherche et un commentaire uniquement ; il ne constitue pas un conseil en investissement. Les chiffres de CCU, de nouveaux avis et de classement des ventes proviennent de SteamDB / SteamCharts, instantané au 16 mai, 23h20 KST, et peuvent différer des valeurs en temps réel. Les 151 847 avis cumulés et les 130 635 avis au seuil d'ancrage des 5 M sont des valeurs observées à partir des données publiques Steam. L'estimation centrale de 5,81 M d'unités applique un ratio avis/unités de 2,6127 % basé sur l'ancrage et reflète l'estimation de l'auteur ; les unités réelles dépendent des communications de la société. La date d'atteinte des 6 M autour du 27–29 mai est une simple extrapolation du rythme actuel de croissance des avis et n'est pas confirmée. Le contenu du Patch 1.07 fait référence aux notes de patch officielles de Crimson Desert par Pearl Abyss. Les recommandations d'action en matière d'investissement (conserver, renforcement conditionnel, etc.) sont des hypothèses de l'auteur et ne sont pas garanties. Les variables macroéconomiques mondiales (taux américains, pétrole, USD/KRW, VIX) peuvent affecter Pearl Abyss indépendamment en tant qu'actif KOSDAQ à longue duration. L'analyse peut se révéler erronée. Date de coupure des données : 17 mai 2026, KST.*
 
 *Disclaimer: For research and information purposes only. Not investment advice. Names cited are for analytical illustration; readers should perform their own due diligence and consult licensed advisors before any investment decision.*

@@ -26,7 +26,7 @@ slug: pearl-abyss-crimson-desert-patch-107-weekend-data-2026-05-17
 
 ## 1. The weekend data
 
-Source: `comprehensive_vault.csv` (internal tracker)
+Source: SteamDB / SteamCharts public data
 Snapshot: **2026-05-16 23:20 KST**
 Window: **May 15 18:00 – May 16 23:20 vs prior-weekend May 8 18:00 – May 9 23:20**
 
@@ -119,6 +119,6 @@ Shinhan target-price gap analysis (Apr 29):
 
 ---
 
-*This article is research and commentary only and is not investment advice. CCU, new-review, and sales-rank figures come from SteamDB / SteamCharts via the internal tracker (`comprehensive_vault.csv`) snapshot at May 16, 23:20 KST and may differ from real-time values. Cumulative reviews of 151,847 and the 130,635 figure at the 5M anchor are observed values from Steam public data. The 5.81M central units estimate applies a 2.6127% anchor-based review/units ratio and is the author's estimate; actual units depend on company disclosure. The May 27–29 ETA for 6M is a simple extrapolation of the current review-growth pace and is not confirmed. Patch 1.07 content references Pearl Abyss's official Crimson Desert patch notes. The investment-action calls (hold current, conditional add, etc.) are author hypotheses and are not guaranteed. Global macro variables (US rates, oil, USD/KRW, VIX) can independently move Pearl Abyss as a KOSDAQ long-duration asset. The analysis may be wrong. Data cut-off: May 17, 2026 KST.*
+*This article is research and commentary only and is not investment advice. CCU, new-review, and sales-rank figures come from SteamDB / SteamCharts as of the May 16, 23:20 KST snapshot and may differ from real-time values. Cumulative reviews of 151,847 and the 130,635 figure at the 5M anchor are observed values from Steam public data. The 5.81M central units estimate applies a 2.6127% anchor-based review/units ratio and is the author's estimate; actual units depend on company disclosure. The May 27–29 ETA for 6M is a simple extrapolation of the current review-growth pace and is not confirmed. Patch 1.07 content references Pearl Abyss's official Crimson Desert patch notes. The investment-action calls (hold current, conditional add, etc.) are author hypotheses and are not guaranteed. Global macro variables (US rates, oil, USD/KRW, VIX) can independently move Pearl Abyss as a KOSDAQ long-duration asset. The analysis may be wrong. Data cut-off: May 17, 2026 KST.*
 
 *Disclaimer: For research and information purposes only. Not investment advice. Names cited are for analytical illustration; readers should perform their own due diligence and consult licensed advisors before any investment decision.*
