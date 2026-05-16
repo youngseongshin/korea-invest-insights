@@ -337,7 +337,6 @@ def build_valley_payload(post: dict[str, Any], body_mode: str, category_id: str 
         "contentJson": json.dumps(text_to_tiptap_doc(body), ensure_ascii=False),
         "attachments": [],
         "tags": valley_tags(post["tags"]),
-        "thumbnailUrl": None,
     }
     if category_id:
         payload["postCategoryId"] = category_id
