@@ -20,12 +20,23 @@ Deploy the worker in `workers/recommendations`, then set this GitHub Actions
 secret:
 
 ```text
-HUGO_RECOMMENDATIONS_API=https://koreainvestinsights.com/api/recommendations
+HUGO_RECOMMENDATIONS_API=https://<recommendations-worker-endpoint>/
 ```
 
 The Hugo build reads that environment variable and automatically renders the
 widget. If the secret is empty, no button is rendered, so the live site does not
 show a broken API call.
+
+The preferred production shape is same-origin:
+
+```text
+https://koreainvestinsights.com/api/recommendations
+```
+
+That route requires `koreainvestinsights.com` to be managed as a proxied
+Cloudflare zone. If the domain is not available as a Cloudflare zone, deploy the
+worker on `workers.dev` first and set `HUGO_RECOMMENDATIONS_API` to that
+endpoint. The worker already supports CORS for the live site.
 
 ## Cloudflare D1 setup
 
@@ -46,5 +57,5 @@ Recommended Worker route:
 koreainvestinsights.com/api/recommendations
 ```
 
-After the route is live, set `HUGO_RECOMMENDATIONS_API` and redeploy the Hugo
-site.
+After the route or `workers.dev` endpoint is live, set
+`HUGO_RECOMMENDATIONS_API` and redeploy the Hugo site.

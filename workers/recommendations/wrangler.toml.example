@@ -2,10 +2,15 @@ name = "korea-invest-insights-recommendations"
 main = "src/worker.js"
 compatibility_date = "2026-05-16"
 
-# Route this Worker to the same origin used by the Hugo widget, for example:
+# Preferred: route this Worker to the same origin used by the Hugo widget.
+# This requires the domain to be a proxied Cloudflare zone, for example:
 # routes = [
 #   { pattern = "koreainvestinsights.com/api/recommendations", custom_domain = false }
 # ]
+#
+# Fallback: deploy to workers.dev and set HUGO_RECOMMENDATIONS_API to that
+# workers.dev endpoint. Keep ALLOWED_ORIGINS restricted to the live site.
+# workers_dev = true
 
 [[d1_databases]]
 binding = "DB"
