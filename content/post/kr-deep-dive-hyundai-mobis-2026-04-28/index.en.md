@@ -11,6 +11,8 @@ draft: false
 
 # Hyundai Mobis (012330.KS): The EV Parts Giant at the Center of Korea's Robotics Ambition
 
+> 📚 **Follow-up (May 17):** [Hyundai Mobis Robotics / Atlas Valuation — The 30K-Atlas Case Is Largely In the Price. Next Are Grippers, External Customers, and the Boston Dynamics Stake](/post/hyundai-mobis-atlas-robot-valuation-comprehensive-2026-05-17/) — quantifies the "3-pillar" framing introduced here, and back-solves that ~KRW 5T of robot optionality is already embedded in today's KRW 629,000 quote.
+
 **Hyundai Mobis** (현대모비스, ticker **012330.KS**, KOSPI) is one of Korea's largest automotive parts makers and a core pillar of the Hyundai Motor Group ecosystem. Yet outside Korea, it remains surprisingly under-owned — trading at a persistent discount to its Western and Japanese peers despite sitting squarely at the intersection of three of the most powerful secular trends in global mobility: electric vehicle adoption, autonomous driving, and humanoid robotics. This deep-dive examines whether that discount is an opportunity or a trap.
 
 ---
