@@ -38,10 +38,17 @@
           </div>
           <div class="home-hubs-grid">
             {{- range $featured -}}
-              {{- $href := printf "%s/page/%s/" $langPrefix .slug -}}
+              {{- $explicitURL := index . (printf "url_%s" $lang) | default .url -}}
+              {{- $href := "" -}}
+              {{- if $explicitURL -}}
+                {{- $href = $explicitURL -}}
+              {{- else -}}
+                {{- $href = printf "%s/page/%s/" $langPrefix .slug -}}
+              {{- end -}}
+              {{- $isExternal := or (hasPrefix $href "https://") (hasPrefix $href "http://") -}}
               {{- $title := index . (printf "title_%s" $lang) | default .title_en -}}
               {{- $desc := index . (printf "desc_%s" $lang) | default .desc_en -}}
-              <a class="home-hub-card" href="{{ $href }}">
+              <a class="home-hub-card" href="{{ $href }}"{{ if $isExternal }} target="_blank" rel="noopener"{{ end }}>
                 <span class="home-hub-card-title">{{ $title }}</span>
                 <span class="home-hub-card-desc">{{ $desc }}</span>
               </a>

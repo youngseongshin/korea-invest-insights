@@ -9,6 +9,13 @@ featured:
     desc_en: "Samsung, SK hynix, HBM market share and Korea's memory cycle"
     desc_ko: "삼성전자·SK하이닉스·HBM·코스피 쏠림 분석"
 
+  - url: "https://memory.koreainvestinsights.com/"
+    url_ko: "https://memory.koreainvestinsights.com/kr"
+    title_en: "AI Memory Dashboard"
+    title_ko: "AI 메모리 대시보드"
+    desc_en: "Samsung Electronics, SK hynix, HBM earnings and Korea memory-cycle dashboard"
+    desc_ko: "삼성전자·SK하이닉스·HBM 이익과 한국 메모리 사이클 대시보드"
+
   - slug: korea-ai-pcb-substrate-hub
     title_en: "AI PCB & Substrate"
     title_ko: "AI 기판·PCB"
