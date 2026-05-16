@@ -168,4 +168,6 @@ LG전자가 가장 명확한 예다. 5월 14일까지 외국인 누적 순매수
 
 ---
 
-*이 글은 리서치와 논평으로만 활용해야 하며 투자 조언이 아닙니다. 수급 데이터는 2026년 5월 4일~5월 14일 누적 및 2026년 5월 15일 일일 수급을 기준으로 한 스크리닝입니다. 외국인·기관·개인 수급은 거래소 및 시장 데이터 집계 방식에 따라 차이가 있을 수 있습니다. 수급이 좋다고 주가 상승이 보장되는 것은 아니며, 단기 급등 종목은 변동성과 차익실현 위험이 큽니다. 분석이 틀릴 수도 있습니다. 데이터 기준일: 2026년 5월 15일 KST.*
+*이 글은 리서치와 논평으로만 활용해야 하며 투자 조언이 아닙니다. 수급 데이터는 2026년 5월 4일\~5월 14일 누적 및 2026년 5월 15일 일일 수급을 기준으로 한 스크리닝입니다. 외국인·기관·개인 수급은 거래소 및 시장 데이터 집계 방식에 따라 차이가 있을 수 있습니다. 수급이 좋다고 주가 상승이 보장되는 것은 아니며, 단기 급등 종목은 변동성과 차익실현 위험이 큽니다. 분석이 틀릴 수도 있습니다. 데이터 기준일: 2026년 5월 15일 KST.*
+
+*Disclaimer: For research and information purposes only. Not investment advice. Names cited are for analytical illustration; readers should perform their own due diligence and consult licensed advisors before any investment decision.*
