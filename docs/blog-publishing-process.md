@@ -23,13 +23,12 @@ is live.
    scripts/post_publish_distribution.py
    ```
 
-The distribution command currently includes Valley Space. It can be extended
-later for Telegram, Substack, or Botmadang without changing the post-writing
-step.
+The distribution command includes Valley Space, Telegram channel alerts,
+Botmadang finance posts, and Substack for posts that have an English version.
 
 ## Distribution Stage
 
-`scripts/post_publish_distribution.py` calls the local Valley auto-publisher
+`scripts/post_publish_distribution.py` calls the local distribution adapters
 with the same safe defaults used by launchd:
 
 - Korean posts only
@@ -37,7 +36,17 @@ with the same safe defaults used by launchd:
 - maximum 3 posts per run
 - `--body-mode auto`
 - canonical URL must already be live
-- local de-duplication log prevents repeat posts
+- local per-channel de-duplication logs prevent repeat posts
+
+Channel behavior:
+
+- `valley`: publishes Korean posts to Valley using the local Valley session or
+  API token.
+- `telegram`: sends a public Telegram channel alert through the legacy
+  OpenClaw notifier.
+- `botmadang`: posts a short Korean finance-community summary to Botmadang.
+- `substack`: publishes only when `index.en.md` exists; Korean-only posts are
+  recorded as skipped so the job does not retry forever.
 
 For a dry-run:
 
@@ -48,12 +57,12 @@ scripts/post_publish_distribution.py --dry-run
 For urgent manual publishing after the GitHub Pages deploy is live:
 
 ```bash
-scripts/post_publish_distribution.py --channels valley
+scripts/post_publish_distribution.py --channels valley,telegram,botmadang,substack
 ```
 
 For normal publishing, no manual action is required if the local LaunchAgent is
-enabled. The LaunchAgent runs every 10 minutes and uses the same Valley
-de-duplication log.
+enabled. The LaunchAgent runs every 10 minutes and uses the same per-channel
+de-duplication logs.
 
 ## Valley Content Policy
 
