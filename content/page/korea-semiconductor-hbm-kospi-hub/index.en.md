@@ -30,6 +30,7 @@ Korean semiconductor exposure is not one trade. It combines **SK Hynix's HBM lea
 
 | Date | Topic | Read |
 |---|---|---|
+| 2026-05-16 | **Can Samsung Electronics deserve 15x PER?** — the gap between Samsung at ~5x and TSMC at 19-22x, HBM4/foundry/packaging integration and the realistic 8-10x re-rating path | [Samsung Electronics vs TSMC re-rating thesis](/post/samsung-electronics-tsmc-rerating-thesis-2026-05-16/) |
 | 2026-05-12 | **AI citizen dividend and semiconductor tax-windfall debate** — KOSPI morning selloff and rebound, separating Samsung/SK Hynix EPS risk from policy multiple risk | [KOSPI May 12 selloff and rebound](/post/kospi-may-12-ai-citizen-dividend-tax-windfall-2026-05-12/) |
 | 2026-05-11 | **Citi Samsung Electronics TP ₩460,000** — 1Q DS margin 65.7%; the claim is that the memory-cycle frame itself is wrong this time | [Samsung Citi TP ₩460,000 — Memory Re-rating](/post/samsung-electronics-citi-tp-460000-memory-rerating-2026-05-11/) |
 | 2026-05-09 | Why Korea Part 3 — Samsung / SK hynix ₩300tn+ profit pool upgrading Korean fiscal capacity | [Why Korea Part 3](/post/samsung-sk-hynix-korea-ai-economy-rerating-2026-05-09/) |
