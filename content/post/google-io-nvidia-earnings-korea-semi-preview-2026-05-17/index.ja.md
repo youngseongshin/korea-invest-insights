@@ -10,6 +10,8 @@ tags:
   - "HBM"
   - "韓国半導体"
   - "イベント分析"
+  - "サムスン電子"
+  - "SKハイニックス"
 slug: google-io-nvidia-earnings-korea-semi-preview-2026-05-17
 ---
 

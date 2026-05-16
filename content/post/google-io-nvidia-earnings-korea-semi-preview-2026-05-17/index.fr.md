@@ -10,6 +10,8 @@ tags:
   - "HBM"
   - "Semi-conducteurs coréens"
   - "Analyse d'événement"
+  - "Samsung Electronics"
+  - "SK Hynix"
 slug: google-io-nvidia-earnings-korea-semi-preview-2026-05-17
 ---
 
