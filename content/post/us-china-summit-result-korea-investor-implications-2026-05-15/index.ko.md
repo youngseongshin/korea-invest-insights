@@ -18,6 +18,7 @@ tags:
 
 > 📚 **미중 정상회담 시리즈.**
 > 이전 글: [사전 분석 — 10개 어젠다와 시나리오별 전략](/ko/post/us-china-summit-korea-investor-guide-2026-05-14/)
+> 후속 글: [5/14-15 베이징 미중 정상회담 — 관리된 휴전과 H200 거부가 한국 반도체에 주는 신호](/ko/post/us-china-summit-tech-decoupling-korea-impact-2026-05-17/)
 >
 > 🔗 **함께 읽기**: [KOSPI 5월 13일 V자 반등 — 외국인 3.76조 매도에도 신고가](/ko/post/kospi-may-13-v-reversal-large-cap-compression-rally-2026-05-14/) · [삼성전자 Citi 목표가 46만원 — 메모리 사이클 프레임 재해석](/ko/post/samsung-electronics-citi-tp-460000-memory-rerating-2026-05-11/) · [Why Korea 4편 — 67억 달러 유입과 코리아 할인 vs 밸류 트랩](/ko/post/korea-67-billion-etf-inflow-korea-discount-or-value-trap-2026-05-09/)
 

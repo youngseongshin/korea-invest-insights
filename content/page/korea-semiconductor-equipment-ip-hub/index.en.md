@@ -87,6 +87,7 @@ When AI silicon sells, two back-end regions benefit together — but the structu
 
 | Date | Topic | Read |
 |---|---|---|
+| 2026-05-17 | **US-China technology decoupling and the semiconductor value chain** — what the H200 refusal and Huawei CloudMatrix imply for memory, optical interconnect, substrates and back-end supply-chain exposure | [US-China summit follow-up](/post/us-china-summit-tech-decoupling-korea-impact-2026-05-17/) |
 | 2026-05-17 | **Google I/O / NVIDIA earnings preview** — how NVIDIA's Q2 guide and Data Center revenue flow through HBM, FC-BGA, MLCC and test sockets | [Korean semiconductor event preview](/post/google-io-nvidia-earnings-korea-semi-preview-2026-05-17/) |
 | 2026-05-16 | **Data follow-up** — 11 stocks in one table (2026 YTD, 2026E/2027E PER, OP YoY, OPM), PEG-style ranking, priority order for new capital | [AI Back-End — 11 Stocks Side by Side](/post/ai-substrate-test-socket-data-comparison-2026-05-16/) |
 | 2026-05-15 | Head-to-head comparison — 14.8% vs 35% vs 47.4% OPM, priority names by holding horizon, portfolio construction | [Substrate vs Test Socket: Two Betas of AI Back-End](/post/ai-substrate-vs-test-socket-comparison-2026-05-15/) |

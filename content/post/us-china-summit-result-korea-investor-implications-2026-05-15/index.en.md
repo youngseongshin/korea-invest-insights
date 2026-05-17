@@ -18,6 +18,7 @@ tags:
 
 > 📚 **US-China summit series.**
 > Previous: [Pre-Analysis — 10 Agendas and Scenario Strategy](/post/us-china-summit-korea-investor-guide-2026-05-14/)
+> Follow-up: [The May 14-15 Beijing US-China Summit — Managed Truce, H200 Refusal, and What It Means for Korean Semiconductors](/post/us-china-summit-tech-decoupling-korea-impact-2026-05-17/)
 >
 > 🔗 **Related**: [KOSPI May 13 V-Reversal — All-Time High Through ₩3.76tn Foreign Selling](/post/kospi-may-13-v-reversal-large-cap-compression-rally-2026-05-14/) · [Samsung Electronics Citi TP ₩460,000 — Memory-Cycle Frame Reset](/post/samsung-electronics-citi-tp-460000-memory-rerating-2026-05-11/) · [Why Korea Part 4 — $6.7B Inflows, Korea-Discount Dissolving or Value Trap?](/post/korea-67-billion-etf-inflow-korea-discount-or-value-trap-2026-05-09/)
 
