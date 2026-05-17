@@ -85,6 +85,12 @@ non-Valley channel. This prevents older manually published posts from being
 backfilled unexpectedly. Explicit recovery still works with `--allow-backfill`
 and a targeted `--channels` value.
 
+Distribution eligibility is based on the post frontmatter `date`, not the file
+modification time. Editing an older article should therefore deploy the blog
+change silently without re-sending Telegram, Botmadang, Substack, or Valley
+notifications. If a post has no parseable `date`, the scripts fall back to the
+file modification time.
+
 ## Valley Content Policy
 
 Valley is part of the distribution stage, not the canonical archive.

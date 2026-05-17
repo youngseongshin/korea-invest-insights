@@ -98,6 +98,11 @@ def post_slug(post: dict) -> str:
     return path.parent.name
 
 
+def distribution_sort_timestamp(post: dict, path: Path) -> float:
+    parsed = valley.parse_date(post.get("date"))
+    return valley.date_sort_key(parsed, path.stat().st_mtime)
+
+
 def channel_log_path(channel: str) -> Path:
     return DEFAULT_DATA_DIR / f"{channel}_distribution_log.json"
 
@@ -125,7 +130,7 @@ def discover_distribution_candidates(
             continue
         if post["canonical_url"] in sent_urls:
             continue
-        timestamp = path.stat().st_mtime
+        timestamp = distribution_sort_timestamp(post, path)
         if cutoff is not None and timestamp < cutoff:
             continue
         if min_timestamp is not None and timestamp < min_timestamp:
