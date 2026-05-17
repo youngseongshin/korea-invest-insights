@@ -285,9 +285,9 @@ Safety rules:
 - `VALLEY_POST_CATEGORY_ID` is required for Valley public publishing.
 - on first unified-distribution activation, each non-Valley channel writes a
   `unifiedDistributionActivatedAt` watermark and does not backfill old posts
-- only Korean posts whose frontmatter `date` is after that watermark and from
-  the last 14 days are considered; ordinary edits to older posts are ignored by
-  the notification channels
+- non-Valley notification channels use the Git add time of the Korean post file
+  against that watermark; ordinary edits to older posts are ignored by the
+  notification channels
 - the canonical blog URL must return HTTP 2xx/3xx before publishing
 - the same canonical URL is never sent twice on the same channel unless that
   channel's log is manually edited

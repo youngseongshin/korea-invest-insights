@@ -98,7 +98,35 @@ def post_slug(post: dict) -> str:
     return path.parent.name
 
 
-def distribution_sort_timestamp(post: dict, path: Path) -> float:
+def git_added_timestamp(repo_root: Path, path: Path) -> float | None:
+    try:
+        relative_path = str(path.resolve().relative_to(repo_root.resolve()))
+    except ValueError:
+        relative_path = str(path)
+
+    completed = subprocess.run(
+        ["git", "log", "--diff-filter=A", "--format=%ct", "-1", "--", relative_path],
+        cwd=repo_root,
+        check=False,
+        text=True,
+        capture_output=True,
+        timeout=10,
+    )
+    if completed.returncode != 0:
+        return None
+    output = completed.stdout.strip().splitlines()
+    if not output:
+        return None
+    try:
+        return float(output[0])
+    except ValueError:
+        return None
+
+
+def distribution_sort_timestamp(post: dict, path: Path, repo_root: Path) -> float:
+    added_at = git_added_timestamp(repo_root, path)
+    if added_at is not None:
+        return added_at
     parsed = valley.parse_date(post.get("date"))
     return valley.date_sort_key(parsed, path.stat().st_mtime)
 
@@ -130,7 +158,7 @@ def discover_distribution_candidates(
             continue
         if post["canonical_url"] in sent_urls:
             continue
-        timestamp = distribution_sort_timestamp(post, path)
+        timestamp = distribution_sort_timestamp(post, path, repo_root)
         if cutoff is not None and timestamp < cutoff:
             continue
         if min_timestamp is not None and timestamp < min_timestamp:
