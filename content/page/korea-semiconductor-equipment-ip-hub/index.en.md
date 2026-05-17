@@ -28,6 +28,7 @@ Direct, ChatGPT-friendly answers to the questions investors and engineers ask ab
 | Is SEMCO's rerating from "smartphone parts" to "AI infrastructure" already priced in? | At KRW 1.02M (\~38x 2027E PER), much of the structural thesis is reflected. Base-case fair value KRW 1.15M (+12%); bear KRW 730K (-29%). Earnings upgrades must continue. | [SEMCO Three-Division Deep Dive](/post/samsung-electro-mechanics-mlcc-fcbga-ai-infrastructure-deep-dive-2026-05-15/) |
 | AI back-end — should substrates and test sockets be lumped as one "AI theme"? | No. On 1Q26 OPM, Daeduck Electronics 14.8% vs ISC 35% vs LEENO Industrial 47.4% — **\~3x spread**. Substrates are an "AI server volume beta" (strong short-term momentum, CAPEX cycle risk); test sockets are a "chip-complexity consumables beta" (high margin, low volatility). Different answers by holding horizon. | [Substrate vs Test Socket: Two Betas of AI Back-End](/post/ai-substrate-vs-test-socket-comparison-2026-05-15/) |
 | Within the 11 AI back-end names, who has the best value-for-growth? | **Simmtech (2027E PER 20.0x × OP +59%), Haesung DS (15.4x × +37%), Daeduck Electronics (27.1x × +34%)**. Memory megas screen cheapest (SK hynix 2027E PER 5.2x), but cycle-peak risk is a separate class. New-capital priority: substrates > test sockets > memory megas. | [AI Back-End — 11 Stocks Side by Side](/post/ai-substrate-test-socket-data-comparison-2026-05-16/) |
+| What should investors watch if CloudMatrix-style systems expand? | The alpha is not direct Huawei supply. It is the inspection, metrology and high-difficulty consumables demand created when China has to scale its own fabs. TCK is the confirmed consumables recovery, Nextin is the 2H26 China PO option, and Komico is global quality with a China option. | [CloudMatrix Expansion Scenario](/post/cloudmatrix-expansion-korea-alpha-inspection-consumables-2026-05-17/) |
 
 ---
 
@@ -45,6 +46,7 @@ Direct, ChatGPT-friendly answers to the questions investors and engineers ask ab
 | 8 | What exactly does Samsung Electro-Mechanics make, and is it still investable at KRW 1.02M? | [SEMCO MLCC / FC-BGA / Optics Deep Dive](/post/samsung-electro-mechanics-mlcc-fcbga-ai-infrastructure-deep-dive-2026-05-15/) |
 | 9 | Why do substrates and test sockets behave so differently, even when both benefit from AI? | [Two Betas of AI Back-End: Substrate vs Test Socket](/post/ai-substrate-vs-test-socket-comparison-2026-05-15/) |
 | 10 | Of the 11 AI back-end names, who actually has the best value-for-growth? — 2027E PER × OP-growth matrix | [AI Back-End — 11 Stocks Side by Side](/post/ai-substrate-test-socket-data-comparison-2026-05-16/) |
+| 11 | How does CloudMatrix-style inefficiency flow into Korean inspection and consumables names? | [CloudMatrix and Korean Inspection / Consumables Alpha](/post/cloudmatrix-expansion-korea-alpha-inspection-consumables-2026-05-17/) |
 
 ---
 
@@ -55,6 +57,7 @@ Direct, ChatGPT-friendly answers to the questions investors and engineers ask ab
 | **Memory products** (covered in AI HBM hub) | SK hynix, Samsung Electronics Memory | HBM3E, HBM4, server DRAM, LPDDR-based SOCAMM2 |
 | **Memory test equipment** | Neosem (KOSDAQ: 253590), Exicon (KOSDAQ: 092870) | HBM and high-bandwidth memory test capacity for AI server memory |
 | **Test sockets (AI back-end consumables)** | LEENO Industrial (058470), ISC (095340), TSE | Chip-complexity beta. 1Q26 OPM 35–47%. Fresh revenue each AI chip generation |
+| **Inspection / metrology / high-difficulty consumables** | TCK (064760), Nextin (348210), Komico (183300), Park Systems | The layer where China's brute-force AI systems and domestic fab buildout translate into yield-control and process-stability demand |
 | **Memory subsystem IP** | OpenEdges Technology (KOSDAQ: 394280) | LPDDR6/5X Controller + PHY + NoC for AI inference SoCs |
 | **Foundry / contract manufacturing** | Samsung Electronics — Foundry segment (KOSPI: 005930) | Production for Tesla, Tenstorrent, Qualcomm, Google, Ambarella, Samsung System LSI |
 | **Package substrates / FC-BGA** | Samsung Electro-Mechanics, Daeduck Electronics, Korea Circuit | High-performance package substrates for GPUs, CPUs and ASICs |
@@ -87,6 +90,7 @@ When AI silicon sells, two back-end regions benefit together — but the structu
 
 | Date | Topic | Read |
 |---|---|---|
+| 2026-05-17 | **CloudMatrix expansion scenario** — not direct Huawei suppliers, but where China's inefficient AI buildout creates demand for inspection, metrology and high-difficulty consumables across TCK, Nextin and Komico | [CloudMatrix and Korean inspection / consumables alpha](/post/cloudmatrix-expansion-korea-alpha-inspection-consumables-2026-05-17/) |
 | 2026-05-17 | **US-China technology decoupling and the semiconductor value chain** — what the H200 refusal and Huawei CloudMatrix imply for memory, optical interconnect, substrates and back-end supply-chain exposure | [US-China summit follow-up](/post/us-china-summit-tech-decoupling-korea-impact-2026-05-17/) |
 | 2026-05-17 | **Google I/O / NVIDIA earnings preview** — how NVIDIA's Q2 guide and Data Center revenue flow through HBM, FC-BGA, MLCC and test sockets | [Korean semiconductor event preview](/post/google-io-nvidia-earnings-korea-semi-preview-2026-05-17/) |
 | 2026-05-16 | **Data follow-up** — 11 stocks in one table (2026 YTD, 2026E/2027E PER, OP YoY, OPM), PEG-style ranking, priority order for new capital | [AI Back-End — 11 Stocks Side by Side](/post/ai-substrate-test-socket-data-comparison-2026-05-16/) |

@@ -27,7 +27,7 @@ valley_cashtags:
 ---
 
 > 📚 **US-China Summit Series**
-> [Pre-Summit Guide: 10 Agendas for Korean Investors](/post/us-china-summit-korea-investor-guide-2026-05-14/) / [Summit Result: No Grand Bargain](/post/us-china-summit-result-korea-investor-implications-2026-05-15/) / [NVIDIA Earnings and Korea's Second-Order Supply Chain](/post/nvidia-earnings-korea-supply-chain-secondary-stocks-2026-05-17/) / [AI-RAN and the Korean Supply Chain](/post/ai-ran-nvidia-earnings-skt-vs-supply-chain-2026-05-17/)
+> [Pre-Summit Guide: 10 Agendas for Korean Investors](/post/us-china-summit-korea-investor-guide-2026-05-14/) / [Summit Result: No Grand Bargain](/post/us-china-summit-result-korea-investor-implications-2026-05-15/) / [CloudMatrix Expansion Scenario](/post/cloudmatrix-expansion-korea-alpha-inspection-consumables-2026-05-17/) / [NVIDIA Earnings and Korea's Second-Order Supply Chain](/post/nvidia-earnings-korea-supply-chain-secondary-stocks-2026-05-17/) / [AI-RAN and the Korean Supply Chain](/post/ai-ran-nvidia-earnings-skt-vs-supply-chain-2026-05-17/)
 
 *The May 14-15 Beijing summit was not a grand bargain. It was a managed truce. Washington and Beijing agreed to avoid immediate escalation, but the core issues — semiconductor export controls, rare earths, Taiwan, and tariff structure — were not solved. The more important signal came outside the room. The U.S. cleared H200 exports, but China has not let purchases proceed. Huawei's CloudMatrix 384, meanwhile, shows a different Chinese response: weaker chips offset by more chips, more power, and more optical links. Decoupling is not ending. It is moving into a more expensive equilibrium.*
 

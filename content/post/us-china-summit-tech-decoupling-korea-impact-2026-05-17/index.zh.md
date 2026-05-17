@@ -27,7 +27,7 @@ valley_cashtags:
 ---
 
 > 📚 **中美峰会系列**
-> [峰会前瞻：韩国投资者需关注的10大议题](/post/us-china-summit-korea-investor-guide-2026-05-14/) / [峰会结果：没有全面协议](/post/us-china-summit-result-korea-investor-implications-2026-05-15/) / [NVIDIA财报与韩国二阶供应链](/post/nvidia-earnings-korea-supply-chain-secondary-stocks-2026-05-17/) / [AI-RAN与韩国供应链](/post/ai-ran-nvidia-earnings-skt-vs-supply-chain-2026-05-17/)
+> [峰会前瞻：韩国投资者需关注的10大议题](/post/us-china-summit-korea-investor-guide-2026-05-14/) / [峰会结果：没有全面协议](/post/us-china-summit-result-korea-investor-implications-2026-05-15/) / [CloudMatrix 扩张情景](/zh/post/cloudmatrix-expansion-korea-alpha-inspection-consumables-2026-05-17/) / [NVIDIA财报与韩国二阶供应链](/post/nvidia-earnings-korea-supply-chain-secondary-stocks-2026-05-17/) / [AI-RAN与韩国供应链](/post/ai-ran-nvidia-earnings-skt-vs-supply-chain-2026-05-17/)
 
 *5月14-15日的北京峰会并非全面协议，而是一次有限停战。华盛顿与北京同意避免即时升级，但核心问题——半导体出口管制、稀土、台湾以及关税结构——均未得到解决。更重要的信号来自会场之外：美方已放行H200出口，但中方并未批准采购，芯片至今未出货。与此同时，华为CloudMatrix 384呈现的是另一种中国式应对：用更多芯片、更高功耗和更多光互联链路来弥补单芯片效率的差距。脱钩并未终止，而是正在演变为一种代价更高的新均衡。*
 

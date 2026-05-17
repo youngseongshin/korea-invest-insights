@@ -28,7 +28,7 @@ valley_cashtags:
 ---
 
 > 📚 **미중 정상회담 시리즈**
-> [사전 분석 — 한국 투자자가 봐야 할 10개 어젠다](/ko/post/us-china-summit-korea-investor-guide-2026-05-14/) / [결과 분석 — 대타협은 없었다](/ko/post/us-china-summit-result-korea-investor-implications-2026-05-15/) / [엔비디아 실적 한국 2~3차 밸류체인](/ko/post/nvidia-earnings-korea-supply-chain-secondary-stocks-2026-05-17/) / [AI-RAN과 한국 공급망](/ko/post/ai-ran-nvidia-earnings-skt-vs-supply-chain-2026-05-17/)
+> [사전 분석 — 한국 투자자가 봐야 할 10개 어젠다](/ko/post/us-china-summit-korea-investor-guide-2026-05-14/) / [결과 분석 — 대타협은 없었다](/ko/post/us-china-summit-result-korea-investor-implications-2026-05-15/) / [CloudMatrix 확장 시나리오](/ko/post/cloudmatrix-expansion-korea-alpha-inspection-consumables-2026-05-17/) / [엔비디아 실적 한국 2~3차 밸류체인](/ko/post/nvidia-earnings-korea-supply-chain-secondary-stocks-2026-05-17/) / [AI-RAN과 한국 공급망](/ko/post/ai-ran-nvidia-earnings-skt-vs-supply-chain-2026-05-17/)
 
 *5월 14~15일 베이징 미중 정상회담은 빅딜이 아니라 관리된 휴전이었다. 트럼프와 시진핑은 충돌을 더 키우지 않는 데에는 합의했지만, 반도체 수출통제·희토류·대만·관세의 핵심 구조를 풀지는 못했다. 그런데 회담보다 더 중요한 신호가 따로 있었다. 미국이 H200 수출을 열어줬는데 중국이 받지 않았다. 동시에 화웨이는 CloudMatrix 384로 칩 열위를 시스템 총량으로 우회하고 있다. 이 두 사건은 같은 방향을 가리킨다. 미중 기술 디커플링은 끝나는 것이 아니라, 더 비싸고 더 비효율적인 균형으로 이동하고 있다.*
 

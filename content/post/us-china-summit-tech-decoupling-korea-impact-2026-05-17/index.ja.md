@@ -27,7 +27,7 @@ valley_cashtags:
 ---
 
 > 📚 **米中首脳会談シリーズ**
-> [会談前ガイド：韓国投資家のための10大アジェンダ](/post/us-china-summit-korea-investor-guide-2026-05-14/) / [会談結果：包括合意なし](/post/us-china-summit-result-korea-investor-implications-2026-05-15/) / [NVIDIAの決算と韓国の二次サプライチェーン](/post/nvidia-earnings-korea-supply-chain-secondary-stocks-2026-05-17/) / [AI-RANと韓国サプライチェーン](/post/ai-ran-nvidia-earnings-skt-vs-supply-chain-2026-05-17/)
+> [会談前ガイド：韓国投資家のための10大アジェンダ](/post/us-china-summit-korea-investor-guide-2026-05-14/) / [会談結果：包括合意なし](/post/us-china-summit-result-korea-investor-implications-2026-05-15/) / [CloudMatrix拡張シナリオ](/ja/post/cloudmatrix-expansion-korea-alpha-inspection-consumables-2026-05-17/) / [NVIDIAの決算と韓国の二次サプライチェーン](/post/nvidia-earnings-korea-supply-chain-secondary-stocks-2026-05-17/) / [AI-RANと韓国サプライチェーン](/post/ai-ran-nvidia-earnings-skt-vs-supply-chain-2026-05-17/)
 
 *5月14〜15日の北京首脳会談は包括合意ではなかった。管理された休戦だった。ワシントンと北京は目前のエスカレーションを回避することで合意したが、半導体輸出規制・希少土類・台湾・関税構造といった核心課題は何ひとつ解決しなかった。より重要なシグナルは会議室の外から届いた。米国はH200の輸出を解禁したが、中国は購入を進めようとしない。一方でHuaweiのCloudMatrix 384は別の中国的回答を示している――チップの弱さをチップ数・電力・光リンクの増量で補う設計だ。デカップリングは終わっていない。より高コストな均衡へと移行しつつある。*
 
