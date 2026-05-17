@@ -259,6 +259,22 @@ def run(args: argparse.Namespace) -> int:
             )
             continue
 
+        # A manual post-publish run and the launchd poller can overlap around
+        # the moment a GitHub Pages URL becomes live. Re-check the crosspost log
+        # after the live check so a stale candidate snapshot cannot publish the
+        # same article twice.
+        if not args.dry_run:
+            latest_log = read_crosspost_log(log_path)
+            if post["canonical_url"] in latest_log.get("posts", {}):
+                results.append(
+                    {
+                        "status": "skipped_already_crossposted",
+                        "title": post["title"],
+                        "url": post["canonical_url"],
+                    }
+                )
+                continue
+
         if args.dry_run:
             results.append(
                 {

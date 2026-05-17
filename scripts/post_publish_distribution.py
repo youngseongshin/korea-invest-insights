@@ -303,6 +303,21 @@ def run_candidate_channel(channel: str, args: argparse.Namespace) -> int:
             )
             continue
 
+        # The launchd poller and manual publish commands can be active at the
+        # same time. Re-read the channel log after the live check so a stale
+        # candidate list cannot notify or publish the same post twice.
+        if not args.dry_run:
+            latest_log = load_json(channel_log_path(channel))
+            if post["canonical_url"] in latest_log.get("posts", {}):
+                results.append(
+                    {
+                        "status": "skipped_already_distributed",
+                        "title": post["title"],
+                        "url": post["canonical_url"],
+                    }
+                )
+                continue
+
         if channel == "telegram":
             result = run_telegram_for_post(post, args)
         elif channel == "botmadang":
