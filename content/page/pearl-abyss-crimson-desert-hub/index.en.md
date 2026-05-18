@@ -2,7 +2,7 @@
 title: "Pearl Abyss and Crimson Desert Research Hub: Target Price, Shorts, Patch Updates"
 slug: "pearl-abyss-crimson-desert-hub"
 date: 2026-04-30T22:30:00+09:00
-lastmod: 2026-05-17T23:55:00+09:00
+lastmod: 2026-05-18T18:30:00+09:00
 aliases: ["/pearl-abyss/", "/crimson-desert/", "/en/pearl-abyss/", "/en/crimson-desert/", "/en/page/pearl-abyss-crimson-desert-hub/", "/es/page/pearl-abyss-crimson-desert-hub/", "/vi/page/pearl-abyss-crimson-desert-hub/", "/fr/page/pearl-abyss-crimson-desert-hub/", "/ja/page/pearl-abyss-crimson-desert-hub/", "/zh/page/pearl-abyss-crimson-desert-hub/"]
 layout: "page"
 description: "A hub for Pearl Abyss and Crimson Desert investment research, covering target price, short-sale data, Patch 1.04 and Patch 1.05 watch points, KRW 60,000 support, the CCP/EVE divestiture, and the platform re-rating thesis."
@@ -28,6 +28,7 @@ This hub is the starting map for the full Pearl Abyss / Crimson Desert research 
 | Is the 3.1M 1Q recognized-copy and ~3M 2Q case reasonable? | It is an accounting-recognition estimate, not an official unit-sales disclosure. Meritz estimates 3.089M recognized copies in 1Q; applying the same ASP to 2Q guidance implies 2.6M-3.2M recognized copies, midpoint ~2.9M. The bigger debate is now the 2027 earnings cliff. | [Recognized Copies and the 2027 Cliff](/post/pearl-abyss-1q26-recognized-sales-2027-cliff-2026-05-17/) |
 | What does the DLC "exploring" comment really mean? | Not "KRW 60B in DLC sales." The point is **removing the market's "2027 cliff" discount** — a re-classification from package-game maker to franchise IP. The multiple lift from single-digit PER to 14–16x dwarfs the direct revenue effect. | [DLC: Package → Franchise Re-Rating](/post/pearl-abyss-dlc-package-to-franchise-rerating-2026-05-15/) |
 | What does the weekend data after Patch 1.07 say? | **"Sales-rank recovery," not "CCU rebound."** May 16, 23:20 KST: global #18, US #19, Korea #7, China #16. New-review positive rate 94.0% (vs 82.1% prior weekend). Cumulative reviews 151,847 → ~5.81M units, 6M ETA ~May 27–29. Fast patch cadence is defending the thesis. | [Patch 1.07 Weekend Data Check](/post/pearl-abyss-crimson-desert-patch-107-weekend-data-2026-05-17/) |
+| Has the recent flow turned? | Not yet. This is a **flow-bottom test**, not a confirmed turn. Foreigners and program trading have partially recovered after the May 13 forced-selling episode, but securities firms and private funds kept selling. A true turn requires holding ₩45,500–₩46,000, reclaiming ₩47,200, and seeing trust funds, pensions and insurers re-enter. | [May 18 Flow Bottom Test](/post/pearl-abyss-flow-bottom-test-2026-05-18/) |
 
 ---
 
@@ -47,6 +48,7 @@ This hub is the starting map for the full Pearl Abyss / Crimson Desert research 
 
 | Date | Topic | Read |
 |---|---|---|
+| 2026-05-18 | **Flow-bottom test** — the stock fell 21.7% from May 4 to May 18, with foreigners and institutions net selling over the full two weeks. Foreigners and program trading recovered after the May 13 panic, but institutional sub-category flow has not yet turned | [Pearl Abyss Flow Check: Not a Turn Yet](/post/pearl-abyss-flow-bottom-test-2026-05-18/) |
 | 2026-05-17 | **3.09M 1Q recognized copies and ~3M 2Q possibility** — accounting ASP near KRW 86,300; 2Q guidance implies 2.6M-3.2M recognized copies. The real debate is the 2027 earnings cliff | [Recognized Copies and the 2027 Cliff](/post/pearl-abyss-1q26-recognized-sales-2027-cliff-2026-05-17/) |
 | 2026-05-17 | **Patch 1.07 weekend data** — CCU 66,448, global rank back to #18, new-review positive rate 94%. ~5.81M units, 6M ETA May 27–29 | [Patch 1.07 Weekend Data Check](/post/pearl-abyss-crimson-desert-patch-107-weekend-data-2026-05-17/) |
 | 2026-05-15 | **What DLC "exploring" really means** — not KRW 60B of sales, but the removal of the "2027 cliff" discount. The PER re-rating from single-digit to 14–16x is the real alpha | [Pearl Abyss DLC: Package → Franchise Re-Rating](/post/pearl-abyss-dlc-package-to-franchise-rerating-2026-05-15/) |
@@ -81,6 +83,7 @@ This hub is the starting map for the full Pearl Abyss / Crimson Desert research 
 
 ### Flow and Price Levels
 
+- [Pearl Abyss Flow Check: Not a Turn Yet — The ₩45,500 Test Between Foreign Bargain Buying and Institutional Selling](/post/pearl-abyss-flow-bottom-test-2026-05-18/)
 - [Pearl Abyss KRW 60,000 Support: Retail-to-Institutional Handoff](/post/pearl-abyss-60k-new-support-retail-to-institutional-handoff-2026-04-27/)
 - [Pearl Abyss Short Sale Data: Shorts Hit, But Couldn't Push](/post/pearl-abyss-short-sale-absorption-2026-04-21/)
 - [Pearl Abyss Daily: KRW 55,000 Support and 5M Copy Watch](/post/pearl-abyss-daily-report-2026-04-09/)
