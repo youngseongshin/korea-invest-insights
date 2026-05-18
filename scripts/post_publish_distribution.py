@@ -10,6 +10,7 @@ from __future__ import annotations
 
 import argparse
 import datetime as dt
+import fcntl
 import json
 import os
 import subprocess
@@ -23,6 +24,7 @@ import valley_crosspost as valley
 DEFAULT_REPO_ROOT = Path(__file__).resolve().parents[1]
 DEFAULT_CONFIG_PATH = Path.home() / ".config" / "korea-invest-insights" / "valley.env"
 DEFAULT_DATA_DIR = Path.home() / ".local" / "share" / "korea-invest-insights"
+LOCK_PATH = DEFAULT_DATA_DIR / "post_publish_distribution.lock"
 OPENCLAW_TOOLS = Path.home() / ".openclaw" / "workspace" / "tools"
 DEFAULT_CHANNELS = ["telegram", "botmadang", "substack", "valley"]
 SUPPORTED_CHANNELS = set(DEFAULT_CHANNELS)
@@ -91,6 +93,19 @@ def save_json(path: Path, data: dict) -> None:
     path = path.expanduser()
     path.parent.mkdir(parents=True, exist_ok=True)
     path.write_text(json.dumps(data, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
+
+
+def acquire_distribution_lock() -> object | None:
+    LOCK_PATH.parent.mkdir(parents=True, exist_ok=True)
+    lock_handle = LOCK_PATH.open("w", encoding="utf-8")
+    try:
+        fcntl.flock(lock_handle.fileno(), fcntl.LOCK_EX | fcntl.LOCK_NB)
+    except BlockingIOError:
+        lock_handle.close()
+        return None
+    lock_handle.write(f"{os.getpid()}\n")
+    lock_handle.flush()
+    return lock_handle
 
 
 def post_slug(post: dict) -> str:
@@ -408,6 +423,21 @@ def main(argv: list[str] | None = None) -> int:
     parser.add_argument("--dry-run", action="store_true")
     args = parser.parse_args(argv)
 
+    lock_handle = acquire_distribution_lock() if not args.dry_run else None
+    if not args.dry_run and lock_handle is None:
+        print(
+            json.dumps(
+                {
+                    "stage": "post_publish_distribution",
+                    "status": "skipped",
+                    "reason": "Another post-publish distribution run is already active.",
+                    "lockPath": str(LOCK_PATH),
+                },
+                ensure_ascii=False,
+            )
+        )
+        return 0
+
     channels = parse_channels(args.channels)
     results: list[dict[str, int | str]] = []
 
@@ -432,6 +462,9 @@ def main(argv: list[str] | None = None) -> int:
             ensure_ascii=False,
         )
     )
+    if lock_handle is not None:
+        fcntl.flock(lock_handle.fileno(), fcntl.LOCK_UN)
+        lock_handle.close()
     return 0 if status == "completed" else 1
 
 
