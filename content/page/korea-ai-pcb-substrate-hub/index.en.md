@@ -24,6 +24,7 @@ AI substrates are not simply "the next theme after GPUs." They are a **common bo
 | What does Mirae Asset's KRW 1.3M Samsung Electro-Mechanics target mean? | The KRW 1.3M target applies a 37x 2017-style MLCC shortage multiple to 2028F EPS. With the stock already above a normal upcycle multiple, the key evidence is MLCC pricing and FC-BGA margin realization. | [Samsung Electro-Mechanics KRW 1.3M Target Analysis](/post/samsung-electro-mechanics-mirae-tp-1300000-valuation-frame-shift-2026-05-07/) |
 | Why is Pamicell connected to AI CCL? | Pamicell does not make PCBs. The thesis is upstream material exposure through low-dielectric materials tied to Doosan Electronic BG's high-end CCL cycle. | [Pamicell Part 1](/post/pamicell-doosan-electro-bg-proxy-rediscovery-2026-04-30/) |
 | Is Pamicell a one-quarter event or a cycle? | KRX reclassification, Doosan Electronic BG margins and CCL undersupply commentary extend the frame from one quarter to a 12-24 month industry cycle. | [Pamicell Part 2](/post/pamicell-four-layer-progress-and-fifth-cycle-layer-2026-05-03/) |
+| Has Pamicell already been reclassified by the market as an AI substrate materials stock? | Fundamentally it is close to an electronic materials stock, but the flow data says not yet. From May 4 to May 18, Pamicell fell -17.9% with only KRW 1.6bn of foreign + institutional net buying, while Daeduck rose +22.7% with KRW 64.8bn. That recognition gap is the key. | [Pamicell flow analysis](/post/pamicell-supply-demand-analysis-recognition-gap-2026-05-18/) |
 | How would overseas retail investors discover Korean AI substrate stocks? | Easier IBKR / foreign-broker access can turn AI substrates from a local supply-chain theme into a searchable global small-mid-cap cluster. | [Foreign Investor Korea Stocks Hub](/page/korea-stocks-foreign-investors-hub/) |
 | How do HBM and substrates connect? | HBM is the memory bottleneck. Substrates are the physical bottleneck for mounting and connecting GPUs, CPUs and networking chips. | [HBM / Korea Semiconductor Hub](/page/korea-semiconductor-hbm-kospi-hub/) |
 | Why is Haesung DS in the PCB cluster? | Haesung DS is not a PCB or substrate manufacturer per se. It is the eleventh name in the cluster: global lead-frame #2 + DDR memory package substrate + the optional AI heat-spreader second-source angle. The only non-PCB axis in the cluster. | [Haesung DS: Lead-Frame Compounder Pivoting to AI Heat-Spreader Second-Source](/post/haesung-ds-leadframe-ai-heat-spreader-second-source-2026-05-07/) |
@@ -43,10 +44,11 @@ AI substrates are not simply "the next theme after GPUs." They are a **common bo
 | 5 | What valuation frame sits behind Mirae Asset's KRW 1.3M Samsung Electro-Mechanics target? | [Samsung Electro-Mechanics KRW 1.3M Target Analysis](/post/samsung-electro-mechanics-mirae-tp-1300000-valuation-frame-shift-2026-05-07/) |
 | 6 | Why is Pamicell a Doosan Electronic BG CCL material proxy? | [Pamicell Analysis: AI CCL Materials Re-Rating](/post/pamicell-doosan-electro-bg-proxy-rediscovery-2026-04-30/) |
 | 7 | Has the Pamicell thesis moved into a 12-24 month cycle? | [Pamicell Part 2: AI CCL Materials and Industry Cycle](/post/pamicell-four-layer-progress-and-fifth-cycle-layer-2026-05-03/) |
-| 8 | How does Big Tech AI capex reach the Korean supply chain? | [Samsung Electronics vs Samsung Electro-Mechanics: Big Tech AI Capex Read-Through](/post/bigtech-1q26-samsung-electronics-vs-electro-mechanics-2026-04-30/) |
-| 9 | Where is the eleventh cluster name with the unique lead-frame-to-AI-thermal angle? | [Haesung DS: Lead-Frame Compounder Pivoting to AI Heat-Spreader Second-Source](/post/haesung-ds-leadframe-ai-heat-spreader-second-source-2026-05-07/) |
-| 10 | What's the next AI data-center bottleneck after substrate — and which Korean names are real vs. thematic? | [Korea Optical & CPO Value Chain — Only OE Solutions Is Truly Close to CPO](/post/korea-optical-cpo-value-chain-seven-companies-2026-05-09/) |
-| 11 | Why is it wrong to group substrates and test sockets as one "AI back-end theme"? | [Two Betas of AI Back-End: Substrate vs Test Socket](/post/ai-substrate-vs-test-socket-comparison-2026-05-15/) |
+| 8 | Why are Pamicell's fundamentals and flow-based market recognition still misaligned? | [Pamicell Flow Analysis: Between Doosan and ST Pharm; Daeduck Is Still Far Away](/post/pamicell-supply-demand-analysis-recognition-gap-2026-05-18/) |
+| 9 | How does Big Tech AI capex reach the Korean supply chain? | [Samsung Electronics vs Samsung Electro-Mechanics: Big Tech AI Capex Read-Through](/post/bigtech-1q26-samsung-electronics-vs-electro-mechanics-2026-04-30/) |
+| 10 | Where is the eleventh cluster name with the unique lead-frame-to-AI-thermal angle? | [Haesung DS: Lead-Frame Compounder Pivoting to AI Heat-Spreader Second-Source](/post/haesung-ds-leadframe-ai-heat-spreader-second-source-2026-05-07/) |
+| 11 | What's the next AI data-center bottleneck after substrate — and which Korean names are real vs. thematic? | [Korea Optical & CPO Value Chain — Only OE Solutions Is Truly Close to CPO](/post/korea-optical-cpo-value-chain-seven-companies-2026-05-09/) |
+| 12 | Why is it wrong to group substrates and test sockets as one "AI back-end theme"? | [Two Betas of AI Back-End: Substrate vs Test Socket](/post/ai-substrate-vs-test-socket-comparison-2026-05-15/) |
 
 ---
 
@@ -78,6 +80,10 @@ No. FC-BGA is a high-performance package substrate for chips. CCL is copper-clad
 ### Does Pamicell make PCBs?
 
 No. Pamicell is not a PCB manufacturer. It appears in this hub because it is an upstream low-dielectric materials supplier linked to Doosan Electronic BG's high-end CCL cycle.
+
+### Does the market already trade Pamicell as an AI substrate materials stock?
+
+Not yet. The 1Q26 low-dielectric materials mix and KRX reclassification support the electronic-materials thesis, but May 4-18 flow and price correlation still look closer to Doosan, ST Pharm and Kolon Industries than to Daeduck. A higher Daeduck correlation and foreign + institutional net buying above roughly 3% of turnover would be the early evidence of reclassification.
 
 ### Why is Samsung Electro-Mechanics central?
 
