@@ -698,6 +698,10 @@ def valley_tags(tags: list[str]) -> list[dict[str, str]]:
     seen: set[str] = set()
     for tag in tags:
         key = str(tag).strip().lstrip("#")
+        key = re.sub(r"\s+", "", key)
+        key = re.sub(r"[^\w가-힣一-龥ぁ-んァ-ン0-9_]", "", key)
+        if re.fullmatch(r"\d+", key):
+            continue
         if not key or key in seen:
             continue
         seen.add(key)
