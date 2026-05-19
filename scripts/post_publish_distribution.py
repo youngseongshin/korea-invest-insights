@@ -26,8 +26,10 @@ DEFAULT_CONFIG_PATH = Path.home() / ".config" / "korea-invest-insights" / "valle
 DEFAULT_DATA_DIR = Path.home() / ".local" / "share" / "korea-invest-insights"
 LOCK_PATH = DEFAULT_DATA_DIR / "post_publish_distribution.lock"
 OPENCLAW_TOOLS = Path.home() / ".openclaw" / "workspace" / "tools"
-DEFAULT_CHANNELS = ["telegram", "botmadang", "substack", "valley"]
-SUPPORTED_CHANNELS = set(DEFAULT_CHANNELS)
+# Valley cross-posting is paused in the default blog publish path. Keep it as
+# an explicit opt-in channel so it can be revived without restoring old code.
+DEFAULT_CHANNELS = ["telegram", "botmadang", "substack"]
+SUPPORTED_CHANNELS = set(DEFAULT_CHANNELS) | {"valley"}
 UNIFIED_WATERMARK_KEY = "unifiedDistributionActivatedAt"
 
 
@@ -409,7 +411,11 @@ def main(argv: list[str] | None = None) -> int:
     parser.add_argument(
         "--channels",
         default=",".join(DEFAULT_CHANNELS),
-        help="Comma-separated channels to run after the blog URL is live. Default: telegram,botmadang,substack,valley.",
+        help=(
+            "Comma-separated channels to run after the blog URL is live. "
+            "Default: telegram,botmadang,substack. Valley is paused by default "
+            "but remains available by passing --channels valley or adding valley explicitly."
+        ),
     )
     parser.add_argument("--lang", default="ko")
     parser.add_argument("--since-days", type=int, default=14)
