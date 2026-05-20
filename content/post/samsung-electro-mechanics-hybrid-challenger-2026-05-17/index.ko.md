@@ -21,6 +21,8 @@ draft: false
 
 > 📚 삼성전기 시리즈
 > [삼성전기 AI 인프라 리레이팅](/ko/post/samsung-electro-mechanics-ai-infrastructure-rerating-2026-04-21/) / [미래에셋 130만원 목표가 분석](/ko/post/samsung-electro-mechanics-mirae-tp-1300000-valuation-frame-shift-2026-05-07/) / [MLCC·FC-BGA·광학 세 사업부 해부](/ko/post/samsung-electro-mechanics-mlcc-fcbga-ai-infrastructure-deep-dive-2026-05-15/)
+>
+> **다음 글 (5/21):** [실리콘 커패시터 1.5조원 — 'AI 패키지 핵심 부품사'로 분류가 바뀌는 사건](/ko/post/samsung-electro-mechanics-silicon-capacitor-1p5tn-2026-05-21/) — 본 글의 '2027E OP 2.7조원' 프레임에 실리콘 커패시터 1.5조원 계약이 약 1,000~2,000억원 영업이익으로 기여 가능.
 
 > 📚 관련 시리즈
 > [AI 후공정 11개 종목 데이터 비교](/ko/post/ai-substrate-test-socket-data-comparison-2026-05-16/) / [엔비디아 한국 2~3차 밸류체인](/ko/post/nvidia-earnings-korea-supply-chain-secondary-stocks-2026-05-17/) / [5/17 시황 종합](/ko/post/macro-snapshot-complex-risk-off-recovery-triggers-2026-05-17/)

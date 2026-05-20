@@ -21,6 +21,8 @@ draft: false
 
 > 📚 Samsung Electro-Mechanics Series
 > [Samsung Electro-Mechanics AI Infrastructure Re-rating](/post/samsung-electro-mechanics-ai-infrastructure-rerating-2026-04-21/) / [Mirae Asset ₩1,300,000 Target Price Analysis](/post/samsung-electro-mechanics-mirae-tp-1300000-valuation-frame-shift-2026-05-07/) / [MLCC · FC-BGA · Optics — Three-Division Deep Dive](/post/samsung-electro-mechanics-mlcc-fcbga-ai-infrastructure-deep-dive-2026-05-15/)
+>
+> **Read next (May 21):** [Silicon-Capacitor KRW 1.5T — A Reclassification, Not a Single Order](/post/samsung-electro-mechanics-silicon-capacitor-1p5tn-2026-05-21/) — the KRW 1.5T Si-Cap contract adds an estimated KRW 100–200B to OP under base-case margins, fitting directly into this article's "what KRW 1.01M implies for 2027E OP KRW 2.7T" framing.
 
 > 📚 Related Series
 > [AI Back-End 11-Stock Data Comparison](/post/ai-substrate-test-socket-data-comparison-2026-05-16/) / [NVIDIA Korea 2nd–3rd Tier Value Chain](/post/nvidia-earnings-korea-supply-chain-secondary-stocks-2026-05-17/) / [May 17 Market Overview](/post/macro-snapshot-complex-risk-off-recovery-triggers-2026-05-17/)

@@ -27,6 +27,7 @@ description: "한국 반도체 밸류체인 허브 — HBM 테스트 장비, 메
 | 삼성전기는 정확히 뭘 만드는 회사인가요? | 칩을 만들지 않는다. **MLCC(전력 안정 부품)와 FC-BGA 패키지기판(AI 칩을 메인보드에 연결하는 기판)**, 그리고 카메라모듈을 만든다. AI 반도체의 '보이지 않는 기반시설'. | [삼성전기 세 사업부 해부](/ko/post/samsung-electro-mechanics-mlcc-fcbga-ai-infrastructure-deep-dive-2026-05-15/) |
 | 삼성전기의 '스마트폰 부품 → AI 인프라' 리레이팅, 이미 주가에 반영됐나요? | 주가 102만원(2027년 PER 약 38배)은 구조적 시나리오를 상당 부분 반영했다. 기본 시나리오 적정가 115만원(+12%), 비관 73만원(-29%). 이익 추정 상향이 지속되어야 함. | [삼성전기 세 사업부 해부](/ko/post/samsung-electro-mechanics-mlcc-fcbga-ai-infrastructure-deep-dive-2026-05-15/) |
 | 삼성전기는 무라타·이비덴 중 누구와 비교해야 하나요? | 둘 중 하나가 아니라 MLCC와 FC-BGA를 같이 가진 하이브리드 챌린저다. 현 주가 101만원은 2027E PER 40배대를 이미 반영했고, 120만~150만원은 2027E OP 2.7조원 이상과 패키지 OPM 20% 접근이 필요하다. | [삼성전기 하이브리드 챌린저](/ko/post/samsung-electro-mechanics-hybrid-challenger-2026-05-17/) |
+| 삼성전기 실리콘 커패시터 1.5조원 계약은 어떤 의미인가요? | **MLCC·기판 회사 → AI 패키지 전력 안정화 부품사로 분류가 바뀌는 사건**. 2년 1.557조원(연 7,785억원, 2025년 매출의 6.9%), 2027~2028년 인식. FC-BGA·MLCC·Si-Cap 통합 공급이 가능한 글로벌 유일 업체. 다만 5/20 +7.5%, 5/21 프리마켓 1,109,000원으로 이미 상당히 반영. | [Si-Cap 1.5조원 — 분류가 바뀌는 사건 (5/21)](/ko/post/samsung-electro-mechanics-silicon-capacitor-1p5tn-2026-05-21/) |
 | AI 후공정 — 기판과 테스트 소켓을 같은 'AI 테마주'로 묶어도 되나요? | 안 된다. 1Q26 영업이익률 기준 대덕전자 14.8% vs ISC 35% vs 리노공업 47.4% — **약 3배 차이**. 기판은 'AI 서버 물량 베타'(단기 모멘텀 강함, CAPEX 사이클 리스크), 테스트 소켓은 '칩 복잡도 소모품 베타'(고마진, 저변동성). 보유 기간에 따라 다른 답. | [기판 vs 테스트 소켓: AI 후공정 두 가지 베타](/ko/post/ai-substrate-vs-test-socket-comparison-2026-05-15/) |
 | AI 후공정 11개 종목 중 가장 가성비 좋은 종목은? | **심텍(2027E PER 20.0배 × OP +59%)·해성디에스(15.4배 × +37%)·대덕전자(27.1배 × +34%)**. 메모리는 SK하이닉스 2027E PER 5.2배로 압도적이지만 사이클 피크 리스크가 별도. 신규 자금 우선순위: 기판 > 테스트 소켓 > 메모리 대형주. | [11개 종목 데이터 비교](/ko/post/ai-substrate-test-socket-data-comparison-2026-05-16/) |
 | 하나마이크론과 제주반도체 중 어느 쪽 1Q26 서프라이즈가 더 지속 가능한가요? | 하나마이크론은 Vina 원가 연동 단가 구조와 브라질 법인 마진 개선으로 구조 개선 성격이 강하다. 제주반도체는 LPDDR4X 공급 부족과 관세 선주문 영향이 커 사이클 피크 성격이 강하다. | [하나마이크론 vs 제주반도체](/ko/post/hanamicron-jeju-semi-1q26-comparison-2026-05-17/) |
@@ -47,6 +48,7 @@ description: "한국 반도체 밸류체인 허브 — HBM 테스트 장비, 메
 | 7 | 한국 디스플레이 장비 picks-and-shovels는 어떤 모습? | [한국 디스플레이 장비 Picks & Shovels](/ko/post/korea-display-equipment-picks-shovels-2026-04-25/) |
 | 8 | 삼성전기는 정확히 뭘 만들고, 주가 102만원에서 여전히 살 만한가? | [삼성전기 MLCC / FC-BGA / 광학 사업부 해부](/ko/post/samsung-electro-mechanics-mlcc-fcbga-ai-infrastructure-deep-dive-2026-05-15/) |
 | 9 | 삼성전기는 무라타·이비덴과 비교해 어느 정도 멀티플을 받아야 하나? | [삼성전기 하이브리드 챌린저](/ko/post/samsung-electro-mechanics-hybrid-challenger-2026-05-17/) |
+| 9+ | 삼성전기 실리콘 커패시터 1.5조원 — 분류가 바뀌는 사건. 96.7만원이 이미 반영한 것 vs 아닌 것 | [Si-Cap 1.5조원 공급계약 분석 (5/21)](/ko/post/samsung-electro-mechanics-silicon-capacitor-1p5tn-2026-05-21/) |
 | 10 | 같은 'AI 후공정 수혜주'라도 기판과 테스트 소켓은 왜 구조가 다른가? | [AI 후공정의 두 가지 베타: 기판 vs 테스트 소켓](/ko/post/ai-substrate-vs-test-socket-comparison-2026-05-15/) |
 | 11 | 11개 후공정 종목 중 가성비가 가장 좋은 종목은? — 2027E PER × 영업이익 성장률 매트릭스 | [AI 후공정 11개 종목 데이터 비교](/ko/post/ai-substrate-test-socket-data-comparison-2026-05-16/) |
 | 12 | 하나마이크론과 제주반도체의 1Q26 어닝 서프라이즈는 같은 성격인가? | [하나마이크론 vs 제주반도체: 구조 개선인가 사이클 피크인가](/ko/post/hanamicron-jeju-semi-1q26-comparison-2026-05-17/) |
