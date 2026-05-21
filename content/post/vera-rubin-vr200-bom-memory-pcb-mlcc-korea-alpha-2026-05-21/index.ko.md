@@ -38,11 +38,11 @@ draft: false
 
 ## 핵심 요약
 
-이 표의 핵심은 **Memory dollar content**다. VR200 총 BOM 증가분 **+$380.9만** 중 Memory 증가분은 **+$162.8만**, 전체 증가분의 **42.7%**다. GPU 증가분 **+$144.0만**, **37.8%**보다 크다. GPU가 여전히 랙 BOM의 절반 이상을 차지하지만, 증분을 움직이는 더 큰 축은 Memory다.
+이 표의 핵심은 **Memory dollar content**다. VR200 총 BOM 증가분 **+$380.9만** 중 Memory 증가분은 **+$162.8만**, 전체 증가분의 <strong>42.7%</strong>다. GPU 증가분 **+$144.0만**, <strong>37.8%</strong>보다 크다. GPU가 여전히 랙 BOM의 절반 이상을 차지하지만, 증분을 움직이는 더 큰 축은 Memory다.
 
 국내 투자 우선순위는 **HBM4·LPDDR5X·SOCAMM > PCB/ABF/CCL > silicon capacitor·power integrity > 일반 MLCC**다. 다만 이 순위는 "증가율"이 아니라 **증분 dollar content × 직접 공급 가능성 × ASP pass-through × LTA 기반 증설**을 기준으로 한 순위다.
 
-PCB는 +232.6%, MLCC는 +182.4%로 headline 증가율이 강하다. 그러나 PCB 증가액은 Memory 증가액의 약 **5.0%**, MLCC 증가액은 Memory 증가액의 약 **0.17%**다. 즉 "PCB/MLCC가 Memory보다 더 큰 수혜"라는 해석은 틀리고, "작은 dollar content라도 고난도·고마진·공급 집중도가 있으면 특정 종목에는 강한 영업 레버리지가 생길 수 있다"가 맞다.
+PCB는 +232.6%, MLCC는 +182.4%로 headline 증가율이 강하다. 그러나 PCB 증가액은 Memory 증가액의 약 **5.0%**, MLCC 증가액은 Memory 증가액의 약 <strong>0.17%</strong>다. 즉 "PCB/MLCC가 Memory보다 더 큰 수혜"라는 해석은 틀리고, "작은 dollar content라도 고난도·고마진·공급 집중도가 있으면 특정 종목에는 강한 영업 레버리지가 생길 수 있다"가 맞다.
 
 삼성전기는 이 표의 MLCC row보다 **silicon capacitor** 관점이 더 중요하다. 삼성전기의 1.5조원 규모 AI 칩 부품 계약은 일반 MLCC가 아니라 AI 패키지 내부 전력 안정화 부품이라는 새 병목을 보여준다. 따라서 삼성전기 thesis는 "MLCC +182%"가 아니라 **FC-BGA + silicon capacitor + AI용 MLCC**의 복합 exposure다.
 
@@ -88,7 +88,7 @@ PCB는 +232.6%, MLCC는 +182.4%로 headline 증가율이 강하다. 그러나 PC
 
 첫째, **Memory가 GPU보다 더 큰 incremental BOM driver**다. VR200에서 GPU는 여전히 총액 기준 1위지만, GB300 대비 증가분만 보면 Memory가 더 크다.
 
-둘째, **GPU + Memory만으로 총 증가분의 80.5%**가 설명된다. 이 표는 "AI 서버 부품 전반이 다 같이 오른다"보다 "GPU와 Memory가 대부분의 dollar content를 가져간다"에 가깝다.
+둘째, <strong>GPU + Memory만으로 총 증가분의 80.5%</strong>가 설명된다. 이 표는 "AI 서버 부품 전반이 다 같이 오른다"보다 "GPU와 Memory가 대부분의 dollar content를 가져간다"에 가깝다.
 
 셋째, PCB와 MLCC는 증가율 착시가 크다. PCB는 +232.6%지만 총 증가액 기여도는 2.1%다. MLCC는 +182.4%지만 총 증가액 기여도는 0.1%다. 이 숫자를 보고 PCB/MLCC 전체를 Memory와 같은 본류로 보면 안 된다.
 
@@ -123,7 +123,7 @@ LPDDR5X / SOCAMM
 
 ## 4. PCB/ABF/CCL — 상승률은 크지만 절대액을 봐야 한다
 
-PCB row는 투자자 눈에 가장 쉽게 들어온다. **$35,100 → $116,730**, 증가율 **+232.6%**다. headline만 보면 대단히 강하다.
+PCB row는 투자자 눈에 가장 쉽게 들어온다. **$35,100 → $116,730**, 증가율 <strong>+232.6%</strong>다. headline만 보면 대단히 강하다.
 
 하지만 절대액으로 보면 다르다.
 
@@ -156,7 +156,7 @@ PCB dollar content는 작다
 
 ## 5. MLCC row보다 중요한 것은 silicon capacitor
 
-MLCC row도 비슷하다. 증가율은 **+182.4%**로 높다. 그러나 증가액은 **+$2,790/rack**뿐이다. 총 증가분 기여도는 0.1% 안팎이다. 이 표만 놓고 "MLCC 단독 thesis"를 세우기에는 약하다.
+MLCC row도 비슷하다. 증가율은 <strong>+182.4%</strong>로 높다. 그러나 증가액은 **+$2,790/rack**뿐이다. 총 증가분 기여도는 0.1% 안팎이다. 이 표만 놓고 "MLCC 단독 thesis"를 세우기에는 약하다.
 
 오히려 봐야 할 것은 **silicon capacitor**다.
 
@@ -298,7 +298,7 @@ NVIDIA가 rack-scale system 통합을 강화할수록 ODM과 일부 부품사의
 
 ## 11. 마지막 한 줄
 
-Vera Rubin VR200 BOM 표는 "AI 서버 부품 전부를 사라"는 자료가 아니다. 숫자를 검산하면 더 냉정한 결론이 나온다. 총 증가분 **+$380.9만** 중 Memory가 **+$162.8만, 42.7%**, GPU가 **+$144.0만, 37.8%**다. 둘이 합쳐 증가분의 **80.5%**를 설명한다.
+Vera Rubin VR200 BOM 표는 "AI 서버 부품 전부를 사라"는 자료가 아니다. 숫자를 검산하면 더 냉정한 결론이 나온다. 총 증가분 **+$380.9만** 중 Memory가 **+$162.8만, 42.7%**, GPU가 <strong>+$144.0만, 37.8%</strong>다. 둘이 합쳐 증가분의 <strong>80.5%</strong>를 설명한다.
 
 PCB와 MLCC는 증가율이 예쁘다. PCB +232.6%, MLCC +182.4%. 그러나 절대 증가액은 각각 전체 증가분의 2.1%, 0.1% 수준이다. 따라서 "PCB/MLCC 전체 매수"가 아니라 **direct qualification이 있는 고부가 부품사만 선별**해야 한다.
 
