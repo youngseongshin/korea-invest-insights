@@ -3,6 +3,17 @@
 This repository can prepare a Korea Invest Insights post for Valley Space and,
 when credentials are available, publish a teaser post back to Valley.
 
+## Operational Status
+
+**Suspended as of 2026-05-21.** Valley sent an abnormal-access warning, so
+automated Valley publishing must remain disabled. The local LaunchAgent is
+unloaded/disabled, the legacy entrypoint is a no-op, and explicit `--channels
+valley` runs are skipped unless the user intentionally sets
+`VALLEY_ACCESS_OVERRIDE=true` for a one-off manual recovery test.
+
+Do not re-enable cookie-backed or browser-backed Valley posting until the user
+has cleared the warning with Valley and explicitly asks to resume.
+
 ## Current Integration Boundary
 
 Valley currently uses session-backed web app endpoints under:

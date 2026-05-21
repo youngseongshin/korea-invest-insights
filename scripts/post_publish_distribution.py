@@ -33,6 +33,10 @@ SUPPORTED_CHANNELS = set(DEFAULT_CHANNELS) | {"valley"}
 UNIFIED_WATERMARK_KEY = "unifiedDistributionActivatedAt"
 
 
+def valley_access_allowed() -> bool:
+    return os.environ.get("VALLEY_ACCESS_OVERRIDE", "").strip().lower() in {"1", "true", "yes", "on"}
+
+
 def parse_channels(raw: str) -> list[str]:
     channels = [part.strip().lower() for part in raw.split(",") if part.strip()]
     unknown = sorted(set(channels) - SUPPORTED_CHANNELS)
@@ -448,8 +452,16 @@ def main(argv: list[str] | None = None) -> int:
     results: list[dict[str, int | str]] = []
 
     if "valley" in channels:
-        code = run_valley(args)
-        results.append({"channel": "valley", "exitCode": code})
+        if valley_access_allowed():
+            code = run_valley(args)
+            results.append({"channel": "valley", "exitCode": code})
+        else:
+            results.append({
+                "channel": "valley",
+                "exitCode": 0,
+                "status": "skipped",
+                "reason": "Valley access suspended after abnormal-access warning",
+            })
 
     for channel in ("telegram", "botmadang", "substack"):
         if channel in channels:

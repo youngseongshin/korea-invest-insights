@@ -1,7 +1,8 @@
 #!/bin/bash
 set -euo pipefail
 
-# Backward-compatible entrypoint for the existing LaunchAgent.
-# The legacy Valley-only job now runs the unified post-publish distribution
-# stage so Telegram, Botmadang, Substack, and Valley stay in sync.
-exec /Users/youngseongshin/korea-invest-insights/scripts/run_post_publish_distribution.sh
+# Valley access is suspended after an abnormal-access warning from Valley.
+# Keep the entrypoint as a clean no-op so a loaded legacy LaunchAgent cannot
+# accidentally hit Valley or the unified distribution stage.
+echo "{\"status\":\"skipped\",\"reason\":\"Valley access suspended after abnormal-access warning\"}"
+exit 0

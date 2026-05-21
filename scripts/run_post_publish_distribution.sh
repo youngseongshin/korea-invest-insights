@@ -14,5 +14,5 @@ exec /usr/bin/python3 "${REPO_ROOT}/scripts/post_publish_distribution.py" \
   --since-days "${KII_DISTRIBUTION_SINCE_DAYS:-14}" \
   --max-posts "${KII_DISTRIBUTION_MAX_POSTS:-3}" \
   --body-mode "${KII_DISTRIBUTION_BODY_MODE:-auto}" \
-  --channels "${KII_DISTRIBUTION_CHANNELS:-telegram,botmadang,substack,valley}" \
+  --channels "${KII_DISTRIBUTION_CHANNELS:-telegram,botmadang,substack}" \
   --require-live

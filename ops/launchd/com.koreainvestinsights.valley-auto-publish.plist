@@ -5,6 +5,9 @@
   <key>Label</key>
   <string>com.koreainvestinsights.valley-auto-publish</string>
 
+  <key>Disabled</key>
+  <true/>
+
   <key>ProgramArguments</key>
   <array>
     <string>/Users/youngseongshin/korea-invest-insights/scripts/run_valley_auto_publish.sh</string>
@@ -17,7 +20,7 @@
   <integer>600</integer>
 
   <key>RunAtLoad</key>
-  <true/>
+  <false/>
 
   <key>StandardOutPath</key>
   <string>/Users/youngseongshin/Library/Logs/korea-invest-insights/valley_auto_publish.log</string>
@@ -31,6 +34,8 @@
     <string>ko_KR.UTF-8</string>
     <key>PATH</key>
     <string>/opt/homebrew/bin:/usr/local/bin:/usr/bin:/bin:/Users/youngseongshin/.local/bin</string>
+    <key>VALLEY_ACCESS_SUSPENDED</key>
+    <string>true</string>
   </dict>
 </dict>
 </plist>

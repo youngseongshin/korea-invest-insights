@@ -55,6 +55,10 @@ def truthy(value: str | None) -> bool:
     return (value or "").strip().lower() in {"1", "true", "yes", "y", "on"}
 
 
+def valley_access_allowed() -> bool:
+    return truthy(os.environ.get("VALLEY_ACCESS_OVERRIDE"))
+
+
 def read_crosspost_log(path: Path) -> dict[str, Any]:
     try:
         return valley.load_log(path.expanduser())
@@ -169,6 +173,19 @@ def run(args: argparse.Namespace) -> int:
     config_loaded = load_env_file(Path(args.config))
     args.category_id = args.category_id or os.environ.get("VALLEY_POST_CATEGORY_ID")
     args.api_base = args.api_base or os.environ.get("VALLEY_API_BASE", valley.VALLEY_API_BASE_URL)
+
+    if not args.dry_run and not valley_access_allowed():
+        print(
+            json.dumps(
+                {
+                    "status": "skipped",
+                    "reason": "Valley access suspended after abnormal-access warning",
+                    "configLoaded": config_loaded,
+                },
+                ensure_ascii=False,
+            )
+        )
+        return 0
 
     if not args.dry_run and not truthy(os.environ.get("VALLEY_AUTO_PUBLISH")):
         print(
