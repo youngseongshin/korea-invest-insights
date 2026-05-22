@@ -2,7 +2,7 @@
 title: "Pearl Abyss and Crimson Desert Research Hub: Target Price, Shorts, Patch Updates"
 slug: "pearl-abyss-crimson-desert-hub"
 date: 2026-04-30T22:30:00+09:00
-lastmod: 2026-05-18T18:30:00+09:00
+lastmod: 2026-05-23T10:40:00+09:00
 aliases: ["/pearl-abyss/", "/crimson-desert/", "/en/pearl-abyss/", "/en/crimson-desert/", "/en/page/pearl-abyss-crimson-desert-hub/", "/es/page/pearl-abyss-crimson-desert-hub/", "/vi/page/pearl-abyss-crimson-desert-hub/", "/fr/page/pearl-abyss-crimson-desert-hub/", "/ja/page/pearl-abyss-crimson-desert-hub/", "/zh/page/pearl-abyss-crimson-desert-hub/"]
 layout: "page"
 description: "A hub for Pearl Abyss and Crimson Desert investment research, covering target price, short-sale data, Patch 1.04 and Patch 1.05 watch points, KRW 60,000 support, the CCP/EVE divestiture, and the platform re-rating thesis."
@@ -29,6 +29,7 @@ This hub is the starting map for the full Pearl Abyss / Crimson Desert research 
 | What does the DLC "exploring" comment really mean? | Not "KRW 60B in DLC sales." The point is **removing the market's "2027 cliff" discount** — a re-classification from package-game maker to franchise IP. The multiple lift from single-digit PER to 14–16x dwarfs the direct revenue effect. | [DLC: Package → Franchise Re-Rating](/post/pearl-abyss-dlc-package-to-franchise-rerating-2026-05-15/) |
 | What does the weekend data after Patch 1.07 say? | **"Sales-rank recovery," not "CCU rebound."** May 16, 23:20 KST: global #18, US #19, Korea #7, China #16. New-review positive rate 94.0% (vs 82.1% prior weekend). Cumulative reviews 151,847 → ~5.81M units, 6M ETA ~May 27–29. Fast patch cadence is defending the thesis. | [Patch 1.07 Weekend Data Check](/post/pearl-abyss-crimson-desert-patch-107-weekend-data-2026-05-17/) |
 | Has the recent flow turned? | Not yet. This is a **flow-bottom test**, not a confirmed turn. Foreigners and program trading have partially recovered after the May 13 forced-selling episode, but securities firms and private funds kept selling. A true turn requires holding ₩45,500–₩46,000, reclaiming ₩47,200, and seeing trust funds, pensions and insurers re-enter. | [May 18 Flow Bottom Test](/post/pearl-abyss-flow-bottom-test-2026-05-18/) |
+| What is the closest comp for Pearl Abyss now? | The closest Korean discount comp is Neowiz after `Lies of P`, while the re-rating path resembles CD Projekt around `Cyberpunk 2077`'s recovery and `Phantom Liberty`. Capcom is the target model, not the current comp. | [Pearl Abyss Comps](/post/pearl-abyss-neowiz-cd-projekt-rerating-comps-2026-05-23/) |
 
 ---
 
@@ -48,6 +49,8 @@ This hub is the starting map for the full Pearl Abyss / Crimson Desert research 
 
 | Date | Topic | Read |
 |---|---|---|
+| 2026-05-23 | **Neowiz discount vs CD Projekt re-rating path**: Crimson Desert's success is acknowledged, but Pearl Abyss is not yet priced as a platform company. Neowiz is the Korean one-title-discount warning, CD Projekt is the patch-plus-expansion re-rating path, and Capcom is the target model | [Pearl Abyss Comps](/post/pearl-abyss-neowiz-cd-projekt-rerating-comps-2026-05-23/) |
+| 2026-05-22 | **KOSDAQ smart money and oversold rebound setup**: KOSDAQ relative strength is near a two-month low, while recent foreign, institutional and program flow has improved. Pearl Abyss ranks among the deepest drawdowns in the KOSDAQ top 100 | [KOSDAQ Smart Money](/post/kosdaq-smart-money-return-pearl-abyss-rebound-2026-05-22/) |
 | 2026-05-18 | **Flow-bottom test** — the stock fell 21.7% from May 4 to May 18, with foreigners and institutions net selling over the full two weeks. Foreigners and program trading recovered after the May 13 panic, but institutional sub-category flow has not yet turned | [Pearl Abyss Flow Check: Not a Turn Yet](/post/pearl-abyss-flow-bottom-test-2026-05-18/) |
 | 2026-05-17 | **3.09M 1Q recognized copies and ~3M 2Q possibility** — accounting ASP near KRW 86,300; 2Q guidance implies 2.6M-3.2M recognized copies. The real debate is the 2027 earnings cliff | [Recognized Copies and the 2027 Cliff](/post/pearl-abyss-1q26-recognized-sales-2027-cliff-2026-05-17/) |
 | 2026-05-17 | **Patch 1.07 weekend data** — CCU 66,448, global rank back to #18, new-review positive rate 94%. ~5.81M units, 6M ETA May 27–29 | [Patch 1.07 Weekend Data Check](/post/pearl-abyss-crimson-desert-patch-107-weekend-data-2026-05-17/) |
@@ -83,6 +86,8 @@ This hub is the starting map for the full Pearl Abyss / Crimson Desert research 
 
 ### Flow and Price Levels
 
+- [Pearl Abyss Comps: Between Neowiz's Post-Lies-of-P Discount and CD Projekt's Re-Rating Path](/post/pearl-abyss-neowiz-cd-projekt-rerating-comps-2026-05-23/)
+- [KOSDAQ Smart Money Returns: Pearl Abyss as an Oversold Rebound Candidate](/post/kosdaq-smart-money-return-pearl-abyss-rebound-2026-05-22/)
 - [Pearl Abyss Flow Check: Not a Turn Yet — The ₩45,500 Test Between Foreign Bargain Buying and Institutional Selling](/post/pearl-abyss-flow-bottom-test-2026-05-18/)
 - [Pearl Abyss KRW 60,000 Support: Retail-to-Institutional Handoff](/post/pearl-abyss-60k-new-support-retail-to-institutional-handoff-2026-04-27/)
 - [Pearl Abyss Short Sale Data: Shorts Hit, But Couldn't Push](/post/pearl-abyss-short-sale-absorption-2026-04-21/)
@@ -90,6 +95,7 @@ This hub is the starting map for the full Pearl Abyss / Crimson Desert research 
 
 ### Long-Term Platform Options
 
+- [Pearl Abyss Comps: Between Neowiz's Post-Lies-of-P Discount and CD Projekt's Re-Rating Path](/post/pearl-abyss-neowiz-cd-projekt-rerating-comps-2026-05-23/)
 - [Pearl Abyss DLC: Removing the "2027 Cliff" Discount via Multiple Re-Classification](/post/pearl-abyss-dlc-package-to-franchise-rerating-2026-05-15/)
 - [Pearl Abyss 5/21 IR Watch: Capital Return, DLC and DokeV After ₩212.1B OP](/post/pearl-abyss-521-ir-capital-return-dlc-dokev-2026-05-12/)
 - [Pearl Abyss Re-Rating: Crimson Desert Is More Than a Unit-Sales Story](/post/pearl-abyss-crimson-desert-platform-rerating-2026-04-25/)
@@ -99,6 +105,10 @@ This hub is the starting map for the full Pearl Abyss / Crimson Desert research 
 ---
 
 ## FAQ
+
+### What is the closest public-market comp for Pearl Abyss?
+
+Pearl Abyss now sits between the Neowiz post-`Lies of P` discount and the CD Projekt `Phantom Liberty` re-rating path. Capcom is not the current comp; it is the target model if Pearl Abyss proves repeatable AAA IP, long-tail sales and a durable production pipeline.
 
 ### What is the core Pearl Abyss thesis?
 
@@ -114,7 +124,7 @@ Patch 1.04 was not just a bug-fix patch. It addressed difficulty, housing, pets,
 
 ### What are the key checkpoints now?
 
-After 1Q26 earnings, the nearest checkpoint is the May 21 IR. Investors should watch whether management gives clearer answers on capital allocation, DLC/platform expansion, and DokeV development stage. The next hard proof point is whether 2Q26 results land inside company guidance of ₩129.6-176.7bn in operating profit.
+After 1Q26 earnings, the key checkpoints are an official 6M-copy milestone, a DLC or expansion roadmap, DokeV development visibility, and capital allocation or shareholder-return messaging. The next hard proof point is whether 2Q26 results land inside company guidance of ₩129.6-176.7bn in operating profit.
 
 ---
 
