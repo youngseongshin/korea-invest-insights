@@ -16,7 +16,7 @@ slug: mlcc-silicon-capacitor-ai-package-power-integrity-2026-05-22
 ---
 
 > 📚 Related Series
-> [Samsung Electro-Mechanics Silicon Capacitor ₩1.5 Trillion Contract](/en/post/samsung-electro-mechanics-silicon-capacitor-1p5tn-2026-05-21/) / [Samsung Electro-Mechanics Hybrid Challenger](/en/post/samsung-electro-mechanics-hybrid-challenger-2026-05-17/) / [Samsung Electro-Mechanics MLCC & FC-BGA Business Deep Dive](/en/post/samsung-electro-mechanics-mlcc-fcbga-ai-infrastructure-deep-dive-2026-05-15/) / [Semiconductor Value Chain Hub](/en/page/korea-semiconductor-equipment-ip-hub/) / [AI Substrate & PCB Hub](/en/page/korea-ai-pcb-substrate-hub/)
+> [Samsung Electro-Mechanics Silicon Capacitor ₩1.5 Trillion Contract](/post/samsung-electro-mechanics-silicon-capacitor-1p5tn-2026-05-21/) / [Samsung Electro-Mechanics Hybrid Challenger](/post/samsung-electro-mechanics-hybrid-challenger-2026-05-17/) / [Samsung Electro-Mechanics MLCC & FC-BGA Business Deep Dive](/post/samsung-electro-mechanics-mlcc-fcbga-ai-infrastructure-deep-dive-2026-05-15/) / [Semiconductor Value Chain Hub](/page/korea-semiconductor-equipment-ip-hub/) / [AI Substrate & PCB Hub](/page/korea-ai-pcb-substrate-hub/)
 
 <figure>
   <img src="/img/posts/mlcc-silicon-capacitor-ai-package-power-integrity-2026-05-22/MLCC_Concept.png" alt="Conceptual diagram of MLCCs and silicon capacitors" loading="lazy">
