@@ -544,3 +544,39 @@ html[data-scheme="dark"] {
   text-decoration: underline;
   text-underline-offset: 2px;
 }
+
+/* ── Article meta — view counter + recommendation badge ──
+   Sits next to the existing date / reading-time chips inside .inline-meta.
+   Width is the same as the surrounding time chips so it doesn't reflow when
+   the API number arrives. */
+.article-views {
+  display: inline-flex;
+  align-items: center;
+  font-variant-numeric: tabular-nums;
+  white-space: nowrap;
+}
+
+.article-views[aria-busy="true"] .article-views-value {
+  opacity: 0.55;
+}
+
+.article-views-value {
+  transition: opacity 0.18s ease;
+}
+
+.post-recommendation-list-count {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.3rem;
+  font-variant-numeric: tabular-nums;
+  white-space: nowrap;
+  color: inherit;
+}
+
+.post-recommendation-list-label {
+  opacity: 0.85;
+}
+
+.post-recommendation-list-value {
+  font-weight: 600;
+}

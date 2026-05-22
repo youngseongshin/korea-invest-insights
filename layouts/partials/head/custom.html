@@ -164,3 +164,13 @@
 <meta name="twitter:card" content="summary" />
 <meta name="twitter:title" content="{{ .Title }}" />
 <meta name="twitter:description" content="{{ with .Description }}{{ . }}{{ else }}{{ .Summary | plainify | truncate 160 }}{{ end }}" />
+
+{{/* ── GoatCounter view-counter widget loader ──
+     The actual tracking pixel (<script data-goatcounter=...>) is already
+     wired in layouts/partials/footer/custom.html. Here we only load the
+     small client that fetches /counter/<path>.json and injects the
+     unique-visit count into [data-goatcounter-views] elements. */}}
+{{- with resources.Get "js/view-counter.js" -}}
+  {{- $js := . | minify | fingerprint "sha256" -}}
+  <script defer src="{{ $js.RelPermalink }}" integrity="{{ $js.Data.Integrity }}" crossorigin="anonymous"></script>
+{{- end }}

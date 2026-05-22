@@ -33,9 +33,21 @@
     {{ $showTime := or $showDate $showReadingTime }}
     {{ $showTranslations := $Page.IsTranslated }}
     {{ $showTags := and $Page.Site.Params.Article.List.ShowTags ($Page.GetTerms "tags") $IsList }}
-    {{ $showRecommendationCount := and $IsList (eq $Page.Section "post") }}
+    {{/* Show views + recommendation count on EVERY post page (single + list). */}}
+    {{ $showViews := eq $Page.Section "post" }}
+    {{ $showRecommendationCount := eq $Page.Section "post" }}
 
-    {{ if or $showTime $showTranslations $showTags $showRecommendationCount }}
+    {{/* Per-locale label for the view counter. */}}
+    {{ $viewLabel := "Views" }}
+    {{ if eq $Page.Lang "ko" }}{{ $viewLabel = "조회" }}
+    {{ else if eq $Page.Lang "ja" }}{{ $viewLabel = "閲覧" }}
+    {{ else if eq $Page.Lang "zh" }}{{ $viewLabel = "浏览" }}
+    {{ else if eq $Page.Lang "es" }}{{ $viewLabel = "Vistas" }}
+    {{ else if eq $Page.Lang "fr" }}{{ $viewLabel = "Vues" }}
+    {{ else if eq $Page.Lang "vi" }}{{ $viewLabel = "Lượt xem" }}
+    {{ end }}
+
+    {{ if or $showTime $showTranslations $showTags $showRecommendationCount $showViews }}
     <footer class="article-meta">
         {{ if $showTime }}
             <div class="inline-meta">
@@ -53,13 +65,28 @@
                     </time>
                 {{ end }}
 
+                {{ if $showViews }}
+                    {{ partial "helper/icon" "eye" }}
+                    <span class="article-views" aria-label="{{ $viewLabel }}" aria-busy="true">
+                        <span class="article-views-value" data-goatcounter-views>—</span>
+                    </span>
+                {{ end }}
+
                 {{ if $showRecommendationCount }}
                     {{ partial "article/components/recommendation-count.html" $Page }}
                 {{ end }}
             </div>
-        {{ else if $showRecommendationCount }}
+        {{ else if or $showRecommendationCount $showViews }}
             <div class="inline-meta">
-                {{ partial "article/components/recommendation-count.html" $Page }}
+                {{ if $showViews }}
+                    {{ partial "helper/icon" "eye" }}
+                    <span class="article-views" aria-label="{{ $viewLabel }}" aria-busy="true">
+                        <span class="article-views-value" data-goatcounter-views>—</span>
+                    </span>
+                {{ end }}
+                {{ if $showRecommendationCount }}
+                    {{ partial "article/components/recommendation-count.html" $Page }}
+                {{ end }}
             </div>
         {{ end }}
 
