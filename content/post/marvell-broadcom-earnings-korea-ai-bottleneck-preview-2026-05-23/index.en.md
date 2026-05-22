@@ -31,6 +31,8 @@ draft: false
 
 *Marvell and Broadcom's next earnings calls are not just U.S. semiconductor events. They are a check on whether the AI infrastructure bottleneck is moving from GPU-only demand into custom ASICs, Ethernet networking, optical links, package substrates, silicon capacitors, high-speed PCBs and test sockets. If the numbers are strong, Korea's read-through expands from SK hynix and Samsung Electronics HBM into Samsung Electro-Mechanics, FC-BGA, power-integrity components and selected back-end names.*
 
+![AI infrastructure bottleneck map: GPU, custom ASIC, HBM, Ethernet, optical links, packaging, power stability and testing](ai-infra-bottleneck-map-en.png)
+
 ## Summary
 
 Broadcom is the larger macro signal. In Q1 FY2026, Broadcom reported revenue of **$19.311B**, AI revenue of **$8.4B**, Q2 revenue guidance of **$22.0B**, and Q2 AI semiconductor revenue guidance of **$10.7B**. On that guidance, AI semiconductor revenue alone would be **48.6%** of total Q2 revenue. Broadcom is no longer just "semis plus VMware." It is increasingly an **AI custom-chip and AI networking company with a VMware cash-flow engine attached**. ([Broadcom][1])
