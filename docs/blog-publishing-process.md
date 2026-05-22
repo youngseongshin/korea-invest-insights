@@ -53,7 +53,8 @@ All channel notifications are now run from one post-live wrapper:
   `blog_botmadang_notify.py` after the live URL exists.
 - **Substack**: `scripts/post_publish_distribution.py` publishes the English
   version only. Korean-only posts are logged as `skip_no_english`, not treated as
-  failures.
+  failures. That skip is retryable: if `index.en.md` is added later, the
+  Substack channel may publish the post on the next targeted run.
 - **Valley**: paused by default after the abnormal-access warning. The code path
   remains available for explicit recovery, but do not include it in default
   follow-up distribution until the user resumes Valley posting.

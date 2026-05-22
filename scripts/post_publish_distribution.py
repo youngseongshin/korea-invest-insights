@@ -156,6 +156,34 @@ def channel_log_path(channel: str) -> Path:
     return DEFAULT_DATA_DIR / f"{channel}_distribution_log.json"
 
 
+def channel_from_log_path(log_path: Path) -> str:
+    suffix = "_distribution_log.json"
+    name = log_path.name
+    if name.endswith(suffix):
+        return name[: -len(suffix)]
+    return ""
+
+
+def is_blocking_distribution_entry(channel: str, entry: dict | None) -> bool:
+    if not entry:
+        return False
+    # A Korean-only post can be logged as skipped before an English version is
+    # generated. Once index.en.md exists, Substack must be allowed to retry.
+    if channel == "substack" and entry.get("mode") == "skip_no_english":
+        return False
+    return True
+
+
+def blocking_sent_urls(log: dict, log_path: Path) -> set[str]:
+    channel = channel_from_log_path(log_path)
+    posts = log.get("posts", {})
+    return {
+        url
+        for url, entry in posts.items()
+        if is_blocking_distribution_entry(channel, entry)
+    }
+
+
 def channel_state_path(channel: str) -> Path:
     return DEFAULT_DATA_DIR / f"{channel}_auto_publish_state.json"
 
@@ -169,7 +197,7 @@ def discover_distribution_candidates(
 ) -> list[dict]:
     post_paths = sorted((repo_root / "content" / "post").glob(f"*/index.{lang}.md"))
     log = valley_auto_publish.read_crosspost_log(log_path)
-    sent_urls = set(log.get("posts", {}).keys())
+    sent_urls = blocking_sent_urls(log, log_path)
     cutoff = dt.datetime.now(dt.timezone.utc).timestamp() - since_days * 86400 if since_days > 0 else None
     candidates: list[tuple[float, dict]] = []
 
@@ -208,7 +236,11 @@ def discover_channel_candidates(args: argparse.Namespace, channel: str) -> tuple
                 "path": str(post_path),
             }
         log = valley_auto_publish.read_crosspost_log(channel_log_path(channel))
-        if not args.dry_run and post["canonical_url"] in log.get("posts", {}):
+        existing = log.get("posts", {}).get(post["canonical_url"])
+        if (
+            not args.dry_run
+            and is_blocking_distribution_entry(channel, existing)
+        ):
             return [], {
                 "status": "already_distributed",
                 "reason": f"Post already distributed to channel={channel}",
@@ -387,7 +419,8 @@ def run_candidate_channel(channel: str, args: argparse.Namespace) -> int:
         # candidate list cannot notify or publish the same post twice.
         if not args.dry_run:
             latest_log = load_json(channel_log_path(channel))
-            if post["canonical_url"] in latest_log.get("posts", {}):
+            existing = latest_log.get("posts", {}).get(post["canonical_url"])
+            if is_blocking_distribution_entry(channel, existing):
                 results.append(
                     {
                         "status": "skipped_already_distributed",
