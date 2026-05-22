@@ -191,6 +191,31 @@ def discover_distribution_candidates(
 
 
 def discover_channel_candidates(args: argparse.Namespace, channel: str) -> tuple[list[dict], dict | None]:
+    if args.slug:
+        repo_root = Path(args.repo_root).resolve()
+        post_path = repo_root / "content" / "post" / args.slug / f"index.{args.lang}.md"
+        if not post_path.exists():
+            return [], {
+                "status": "missing_slug",
+                "reason": f"Post markdown not found for slug={args.slug!r}, lang={args.lang!r}",
+                "path": str(post_path),
+            }
+        post = valley.load_post(post_path)
+        if post["front_matter"].get("draft") is True:
+            return [], {
+                "status": "draft_slug",
+                "reason": f"Post is draft for slug={args.slug!r}, lang={args.lang!r}",
+                "path": str(post_path),
+            }
+        log = valley_auto_publish.read_crosspost_log(channel_log_path(channel))
+        if not args.dry_run and post["canonical_url"] in log.get("posts", {}):
+            return [], {
+                "status": "already_distributed",
+                "reason": f"Post already distributed to channel={channel}",
+                "url": post["canonical_url"],
+            }
+        return [post], None
+
     state_path = channel_state_path(channel)
     state = load_json(state_path)
     started_at = parse_iso_timestamp(state.get("startedAt"))
@@ -424,6 +449,14 @@ def main(argv: list[str] | None = None) -> int:
     parser.add_argument("--lang", default="ko")
     parser.add_argument("--since-days", type=int, default=14)
     parser.add_argument("--max-posts", type=int, default=3)
+    parser.add_argument(
+        "--slug",
+        default="",
+        help=(
+            "Distribute only this post slug. When set, channel watermarks are "
+            "ignored but per-channel duplicate logs are still respected."
+        ),
+    )
     parser.add_argument("--body-mode", choices=("teaser", "full", "auto"), default="auto")
     parser.add_argument("--botmadang-submadang", default="finance")
     parser.add_argument("--channel-timeout", type=int, default=240)
