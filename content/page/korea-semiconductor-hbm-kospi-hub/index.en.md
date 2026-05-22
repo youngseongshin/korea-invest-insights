@@ -20,6 +20,7 @@ Korean semiconductor exposure is not one trade. It combines **SK Hynix's HBM lea
 | What is SK Hynix's HBM market share? | A practical 2026 baseline is roughly 50% of total HBM revenue/share, with potentially higher exposure in Nvidia's HBM4 ramp if allocation reports hold. | [SK Hynix HBM Market Share 2026](/post/sk-hynix-hbm-market-share-ai-memory-demand-2026/) |
 | How large is Samsung Electronics in KOSPI? | For Korea ETF investors, Samsung Electronics is not just one holding. In major Korea index products, its weight typically sits in the low-20s to low-30s percentage range. | [Samsung Electronics Weight in KOSPI](/post/samsung-electronics-weight-in-kospi-index-2026/) |
 | Samsung or SK Hynix: which is cleaner HBM exposure? | SK Hynix is the cleaner public HBM exposure. Samsung is a broader semiconductor and electronics compounder with HBM recovery, DDR5/eSSD, foundry and device exposure. | [SK Hynix Deep Dive](/post/kr-deep-dive-sk-hynix-2026-04-16/) · [Samsung Electronics Deep Dive](/post/kr-deep-dive-samsung-electronics-2026-04-16/) |
+| What do Marvell and Broadcom earnings mean for HBM? | If custom AI chips and AI Ethernet networking stay strong, HBM demand broadens beyond Nvidia GPUs into Broadcom XPUs, Google TPUs, OpenAI accelerators and Marvell custom silicon. | [Marvell and Broadcom earnings preview for Korea's AI bottlenecks](/post/marvell-broadcom-earnings-korea-ai-bottleneck-preview-2026-05-23/) |
 | How can foreign investors access Korean AI memory stocks? | Start with the access map, then move from KOSPI heavyweights into HBM, equipment and substrate names. Broker availability depends on country and account type. | [Korea Stocks for Foreign Investors Hub](/page/korea-stocks-foreign-investors-hub/) |
 | Why is KOSPI being re-rated in 2026? | HBM earnings, governance reform and global allocation away from crowded US exposure are working together to compress Korea's discount. | [Korea 2026 Re-Rating](/post/korea-outperformance-2026-structural-rerating-2026-04-24/) |
 | Why did Samsung jump +14.4% and SK Hynix +10.6% on May 6? | ₩3.1T foreign net buying on Samsung in a single session, re-pricing "AI memory bottleneck at NVIDIA / TSMC discount." Spread to AI substrate (Daeduck +9.62%, Simmtech +6.35%) and front-end equipment (Wonik IPS, Eugene Tech, KC Tech). | [Korean Semis Rally May 6: Samsung + SK Hynix + Substrate + Equipment](/post/korean-semis-rally-may-6-samsung-sk-hynix-substrate-equipment-2026-05-07/) |
@@ -30,6 +31,7 @@ Korean semiconductor exposure is not one trade. It combines **SK Hynix's HBM lea
 
 | Date | Topic | Read |
 |---|---|---|
+| 2026-05-23 | **Marvell and Broadcom earnings preview** — using Broadcom's $10.7B AI semiconductor guide and Marvell's 74% data-center revenue mix to test whether Korea's AI read-through expands from HBM into custom ASICs, Ethernet, optical links and Samsung Electro-Mechanics silicon capacitors | [Marvell / Broadcom and Korea's AI bottlenecks](/post/marvell-broadcom-earnings-korea-ai-bottleneck-preview-2026-05-23/) |
 | 2026-05-17 | **US-China summit and technology decoupling** — separating Korea's short-term memory upside from long-term standard fragmentation risk through the H200 refusal, Huawei CloudMatrix and ITIF's USD 21B Korea absorption estimate | [US-China tech decoupling and Korean semiconductors](/post/us-china-summit-tech-decoupling-korea-impact-2026-05-17/) |
 | 2026-05-17 | **Google I/O and NVIDIA earnings preview** — separating AI use-case expansion from infrastructure CAPEX confirmation, and what NVIDIA's Q2 guide and 75% gross margin signal for Korean HBM, substrates and MLCC | [Korean semiconductor event preview](/post/google-io-nvidia-earnings-korea-semi-preview-2026-05-17/) |
 | 2026-05-16 | **Can Samsung Electronics deserve 15x PER?** — the gap between Samsung at \~5x and TSMC at 19-22x, HBM4/foundry/packaging integration and the realistic 8-10x re-rating path | [Samsung Electronics vs TSMC re-rating thesis](/post/samsung-electronics-tsmc-rerating-thesis-2026-05-16/) |
@@ -56,6 +58,7 @@ Korean semiconductor exposure is not one trade. It combines **SK Hynix's HBM lea
 
 ### HBM and AI Memory
 
+- [Marvell and Broadcom earnings preview: from single HBM bet to AI ASIC, networking and power-delivery bottlenecks](/post/marvell-broadcom-earnings-korea-ai-bottleneck-preview-2026-05-23/)
 - [SK Hynix HBM Market Share 2026: AI Memory Investor Guide](/post/sk-hynix-hbm-market-share-ai-memory-demand-2026/)
 - [SK Hynix: The HBM Leader Powering the AI Revolution](/post/kr-deep-dive-sk-hynix-2026-04-16/)
 - [Samsung Electronics 2026: AI, HBM and Foundry Deep Dive](/post/kr-deep-dive-samsung-electronics-2026-04-16/)
