@@ -17,6 +17,7 @@ slug: samsung-electro-mechanics-silicon-capacitor-1p5tn-2026-05-21
 > 📚 삼성전기 시리즈
 > 1편: [삼성전기 — 'AI 반도체의 보이지 않는 기반시설' (MLCC·FC-BGA·카메라 사업부 해부, 5/15)](/ko/post/samsung-electro-mechanics-mlcc-fcbga-ai-infrastructure-deep-dive-2026-05-15/)
 > 2편: [삼성전기 하이브리드 챌린저 — 무라타와 이비덴 사이, 101만원이 묻는 2027E OP 2.7조원 (5/17)](/ko/post/samsung-electro-mechanics-hybrid-challenger-2026-05-17/)
+> 개념 정리: [MLCC와 실리콘 커패시터 이해하기 — AI 패키지 전력 병목 (5/22)](/ko/post/mlcc-silicon-capacitor-ai-package-power-integrity-2026-05-22/)
 > 미래에셋 130만원 목표가: [밸류에이션 프레임 시프트 (5/7)](/ko/post/samsung-electro-mechanics-mirae-tp-1300000-valuation-frame-shift-2026-05-07/)
 > 최초 리레이팅 콜: [AI 인프라 부품주로의 재분류 (4/21)](/ko/post/samsung-electro-mechanics-ai-infrastructure-rerating-2026-04-21/)
 
