@@ -3,8 +3,10 @@
 This is the canonical operating flow for Korea Invest Insights posts. The
 OpenClaw blog publish pipeline remains the source of truth: it creates the
 multilingual Hugo files, commits/pushes them, submits IndexNow, and then runs a
-single post-live distribution stage. That stage keeps Telegram, Botmadang,
-Substack, and Valley aligned from the same canonical blog URL.
+single post-live distribution stage. That stage keeps Telegram, Botmadang, and
+Substack aligned from the same canonical blog URL. Valley remains available as
+an explicit opt-in channel, but it is not part of the default flow while Valley
+posting is paused.
 
 ## Standard Flow
 
@@ -27,12 +29,16 @@ Substack, and Valley aligned from the same canonical blog URL.
 
 4. Commit and push the post.
 5. Wait for the GitHub Pages deploy to complete.
-6. Run the unified post-publish distribution stage, or let the local LaunchAgent
-   pick it up on the next 10-minute cycle:
+6. Run the unified post-publish distribution stage after the GitHub Pages URL is
+   live. For Codex/manual blog publishing tasks, this is mandatory unless the
+   user explicitly says not to run follow-up distribution:
 
    ```bash
-   scripts/run_post_publish_distribution.sh
+   scripts/post_publish_distribution.py --slug <post-slug> --max-posts 1
    ```
+
+   The local LaunchAgent can still catch missed posts on its 10-minute cycle,
+   but it is a backup, not a substitute for the active publishing task.
 
 The legacy `scripts/run_valley_auto_publish.sh` entrypoint is still present for
 launchd compatibility, but it now delegates to the unified distribution stage.
@@ -48,13 +54,14 @@ All channel notifications are now run from one post-live wrapper:
 - **Substack**: `scripts/post_publish_distribution.py` publishes the English
   version only. Korean-only posts are logged as `skip_no_english`, not treated as
   failures.
-- **Valley**: `scripts/post_publish_distribution.py` calls the local
-  Valley publisher with the selected body mode.
+- **Valley**: paused by default after the abnormal-access warning. The code path
+  remains available for explicit recovery, but do not include it in default
+  follow-up distribution until the user resumes Valley posting.
 
 The default channel set is:
 
 ```text
-telegram,botmadang,substack,valley
+telegram,botmadang,substack
 ```
 
 Override only for targeted recovery:
@@ -72,12 +79,13 @@ scripts/post_publish_distribution.py --dry-run --max-posts 1 --no-require-live
 For urgent manual full distribution after the GitHub Pages deploy is live:
 
 ```bash
-scripts/post_publish_distribution.py --max-posts 1
+scripts/post_publish_distribution.py --slug <post-slug> --max-posts 1
 ```
 
-For normal publishing, no manual action is required if the local LaunchAgent is
-enabled. It runs every 10 minutes and each channel uses its own de-duplication
-log.
+For normal background recovery, no manual action is required if the local
+LaunchAgent is enabled. It runs every 10 minutes and each channel uses its own
+de-duplication log. During an active Codex publishing task, however, run the
+targeted `--slug` command directly and report the channel results.
 
 When the unified wrapper is enabled for an already-running installation, the
 first non-dry-run pass writes a `unifiedDistributionActivatedAt` watermark per
