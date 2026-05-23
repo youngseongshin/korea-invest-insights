@@ -51,9 +51,6 @@
   <link rel="alternate" hreflang="x-default" href="{{ $defaultPage.Permalink }}" />
 {{ end }}
 
-{{/* ── Canonical URL ── */}}
-<link rel="canonical" href="{{ .Permalink }}" />
-
 {{/* ── JSON-LD 구조화 데이터 ── */}}
 {{ if .IsPage }}
 {{- $description := .Description | default (.Summary | plainify | truncate 180) -}}
@@ -153,17 +150,11 @@
 </script>
 {{ end }}
 
-{{/* ── Open Graph 보강 ── */}}
-<meta property="og:site_name" content="{{ .Site.Title }}" />
+{{/* ── Open Graph locale 보강 ── */}}
 <meta property="og:locale" content="{{ .Lang }}" />
 {{ range .Translations }}
 <meta property="og:locale:alternate" content="{{ .Lang }}" />
 {{ end }}
-
-{{/* ── Twitter Card ── */}}
-<meta name="twitter:card" content="summary" />
-<meta name="twitter:title" content="{{ .Title }}" />
-<meta name="twitter:description" content="{{ with .Description }}{{ . }}{{ else }}{{ .Summary | plainify | truncate 160 }}{{ end }}" />
 
 {{/* ── GoatCounter view-counter widget loader ──
      The actual tracking pixel (<script data-goatcounter=...>) is already
