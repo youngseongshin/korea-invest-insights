@@ -68,7 +68,7 @@
                 {{ if $showViews }}
                     {{ partial "helper/icon" "eye" }}
                     <span class="article-views" aria-label="{{ $viewLabel }}" aria-busy="true">
-                        <span class="article-views-value" data-goatcounter-views>—</span>
+                        <span class="article-views-value" data-goatcounter-views="{{ $Page.RelPermalink }}">—</span>
                     </span>
                 {{ end }}
 
@@ -81,7 +81,7 @@
                 {{ if $showViews }}
                     {{ partial "helper/icon" "eye" }}
                     <span class="article-views" aria-label="{{ $viewLabel }}" aria-busy="true">
-                        <span class="article-views-value" data-goatcounter-views>—</span>
+                        <span class="article-views-value" data-goatcounter-views="{{ $Page.RelPermalink }}">—</span>
                     </span>
                 {{ end }}
                 {{ if $showRecommendationCount }}

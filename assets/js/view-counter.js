@@ -17,27 +17,51 @@
   var els = document.querySelectorAll('[data-goatcounter-views]');
   if (!els.length) return;
 
-  // Strip trailing slash to align with how GoatCounter records paths,
-  // but keep the leading slash that the counter endpoint expects.
-  var rawPath = window.location.pathname || '/';
-  var path = rawPath === '/' ? '/' : rawPath.replace(/\/$/, '');
+  var ENDPOINT_BASE = 'https://korea-invest-insights.goatcounter.com/counter/';
 
-  var endpoint = 'https://korea-invest-insights.goatcounter.com/counter/' +
-    encodeURIComponent(path) + '.json';
+  // Each element carries its own target path via the attribute value
+  // (set by the article-details partial as $Page.RelPermalink). On list
+  // pages this is critical: every card has a DIFFERENT path, not the
+  // page-level window.location.pathname. The empty-attribute case falls
+  // back to the current page path for safety.
+  function normalisePath(raw) {
+    if (!raw) return '/';
+    if (raw === '/') return '/';
+    return raw.replace(/\/$/, '');
+  }
 
-  fetch(endpoint, { cache: 'no-store', credentials: 'omit' })
-    .then(function (r) { return r.ok ? r.json() : null; })
-    .then(function (j) {
-      if (!j) return;
-      // Prefer unique-visit count when present, fall back to total count.
-      var raw = j.count_unique != null ? j.count_unique : j.count;
-      var n = parseInt(String(raw || '0'), 10);
-      if (!Number.isFinite(n)) return;
-      var formatted = n.toLocaleString();
-      for (var i = 0; i < els.length; i++) {
-        els[i].textContent = formatted;
-        els[i].removeAttribute('aria-busy');
-      }
-    })
-    .catch(function () { /* silent */ });
+  // Group elements by the path they want to count, so we only fetch each
+  // unique path once even when the same article appears multiple times
+  // on a list page.
+  var groups = {};
+  for (var i = 0; i < els.length; i++) {
+    var el = els[i];
+    var attr = el.getAttribute('data-goatcounter-views');
+    var rawPath = (attr && attr !== 'true') ? attr : window.location.pathname;
+    var path = normalisePath(rawPath);
+    if (!groups[path]) groups[path] = [];
+    groups[path].push(el);
+  }
+
+  function applyCount(targets, value) {
+    var n = parseInt(String(value || '0').replace(/[^0-9]/g, ''), 10);
+    if (!Number.isFinite(n)) return;
+    var formatted = n.toLocaleString();
+    for (var i = 0; i < targets.length; i++) {
+      targets[i].textContent = formatted;
+      targets[i].removeAttribute('aria-busy');
+    }
+  }
+
+  Object.keys(groups).forEach(function (path) {
+    var url = ENDPOINT_BASE + encodeURIComponent(path) + '.json';
+    fetch(url, { cache: 'no-store', credentials: 'omit' })
+      .then(function (r) { return r.ok ? r.json() : null; })
+      .then(function (j) {
+        if (!j) return;
+        var raw = j.count_unique != null ? j.count_unique : j.count;
+        applyCount(groups[path], raw);
+      })
+      .catch(function () { /* silent */ });
+  });
 })();
