@@ -122,7 +122,7 @@
 <meta name="citation_online_date" content="{{ .Date.Format "2006/01/02" }}" />
 <meta name="citation_language" content="{{ .Lang }}" />
 {{ else if .IsHome }}
-{{- $searchTarget := printf "%spage/search/?keyword={search_term_string}" .Site.BaseURL -}}
+{{- $searchTarget := printf "%s?keyword={search_term_string}" (absLangURL "page/search/") -}}
 {{- $website := dict
   "@context" "https://schema.org"
   "@type" "WebSite"
