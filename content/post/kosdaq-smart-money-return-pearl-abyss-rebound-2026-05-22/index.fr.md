@@ -18,7 +18,7 @@ draft: false
 ---
 
 > 📚 **Série liée**
-> [Test de plancher des flux de Pearl Abyss](/fr/post/pearl-abyss-flow-bottom-test-2026-05-18/) / [Hub Pearl Abyss](/fr/page/pearl-abyss-crimson-desert-hub/) / [Synthèse marché du 17 mai](/fr/post/macro-snapshot-complex-risk-off-recovery-triggers-2026-05-17/) / [Guide complet du KOSDAQ](/fr/post/kosdaq-complete-guide-promotion-relegation-system-2026-05-10/)
+> [Test de plancher des flux de Pearl Abyss](/fr/post/pearl-abyss-flow-bottom-test-2026-05-18/) / [Hub Pearl Abyss](/fr/page/pearl-abyss-crimson-desert-hub/) / [Synthèse marché du 17 mai](/fr/post/macro-snapshot-complex-risk-off-recovery-triggers-2026-05-17/) / [Guide complet du KOSDAQ](/fr/post/kosdaq-complete-guide-promotion-relegation-system-2026-05-10/) / [Fonds national de croissance et capital politique KOSDAQ](/fr/post/national-growth-fund-kosdaq-smart-money-policy-bottlenecks-2026-05-24/)
 
 *Les deux derniers mois ont été une victoire nette des grandes capitalisations du KOSPI et une phase de faiblesse relative extrême du KOSDAQ. Selon un indice approximatif pondéré par la capitalisation, le KOSPI a progressé de +49,8% et le KOSDAQ de +11,4%, soit -38,4 points de retard. Pourtant, les flux commencent à diverger du prix. Sur les cinq dernières séances, le KOSDAQ affiche +707,9 Mds₩ d'achats étrangers+institutions et +410,4 Mds₩ d'achats de programmes. Sur la même période, le KOSPI affiche -14 058 Mds₩ de ventes étrangers+institutions et -8 157 Mds₩ de ventes de programmes. Le prix dit que le KOSPI a gagné. Le nouvel argent commence à regarder à nouveau le KOSDAQ.*
 

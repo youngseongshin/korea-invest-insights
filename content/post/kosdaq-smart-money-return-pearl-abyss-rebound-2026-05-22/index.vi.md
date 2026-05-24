@@ -18,7 +18,7 @@ draft: false
 ---
 
 > 📚 **Chuỗi liên quan**
-> [Pearl Abyss kiểm tra đáy dòng tiền](/vi/post/pearl-abyss-flow-bottom-test-2026-05-18/) / [Hub Pearl Abyss](/vi/page/pearl-abyss-crimson-desert-hub/) / [Tổng quan thị trường 17/5](/vi/post/macro-snapshot-complex-risk-off-recovery-triggers-2026-05-17/) / [Hướng dẫn đầy đủ về KOSDAQ](/vi/post/kosdaq-complete-guide-promotion-relegation-system-2026-05-10/)
+> [Pearl Abyss kiểm tra đáy dòng tiền](/vi/post/pearl-abyss-flow-bottom-test-2026-05-18/) / [Hub Pearl Abyss](/vi/page/pearl-abyss-crimson-desert-hub/) / [Tổng quan thị trường 17/5](/vi/post/macro-snapshot-complex-risk-off-recovery-triggers-2026-05-17/) / [Hướng dẫn đầy đủ về KOSDAQ](/vi/post/kosdaq-complete-guide-promotion-relegation-system-2026-05-10/) / [Quỹ Tăng trưởng Quốc gia và vốn chính sách KOSDAQ](/vi/post/national-growth-fund-kosdaq-smart-money-policy-bottlenecks-2026-05-24/)
 
 *Hai tháng gần đây là giai đoạn KOSPI vốn hóa lớn thắng áp đảo và KOSDAQ suy yếu tương đối cực đoan. Theo chỉ số ước tính trọng số vốn hóa, KOSPI tăng +49,8%, KOSDAQ tăng +11,4%; KOSDAQ kém KOSPI -38,4 điểm phần trăm. Nhưng dòng tiền bắt đầu đi khác với giá. Trong 5 phiên gần nhất, KOSDAQ có +707,9 tỷ won mua ròng của khối ngoại+tổ chức và +410,4 tỷ won mua ròng chương trình. Cùng kỳ, KOSPI bị khối ngoại+tổ chức bán ròng -14.058 tỷ won và chương trình bán ròng -8.157 tỷ won. Giá nói KOSPI thắng. Dòng tiền mới bắt đầu nhìn lại KOSDAQ.*
 

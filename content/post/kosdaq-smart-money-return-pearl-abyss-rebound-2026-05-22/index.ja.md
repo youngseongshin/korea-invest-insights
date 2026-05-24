@@ -18,7 +18,7 @@ draft: false
 ---
 
 > 📚 **関連シリーズ**
-> [Pearl Abyssの資金フロー底値テスト](/ja/post/pearl-abyss-flow-bottom-test-2026-05-18/) / [Pearl Abyssハブ](/ja/page/pearl-abyss-crimson-desert-hub/) / [5月17日マーケット総合](/ja/post/macro-snapshot-complex-risk-off-recovery-triggers-2026-05-17/) / [KOSDAQ完全ガイド](/ja/post/kosdaq-complete-guide-promotion-relegation-system-2026-05-10/)
+> [Pearl Abyssの資金フロー底値テスト](/ja/post/pearl-abyss-flow-bottom-test-2026-05-18/) / [Pearl Abyssハブ](/ja/page/pearl-abyss-crimson-desert-hub/) / [5月17日マーケット総合](/ja/post/macro-snapshot-complex-risk-off-recovery-triggers-2026-05-17/) / [KOSDAQ完全ガイド](/ja/post/kosdaq-complete-guide-promotion-relegation-system-2026-05-10/) / [国民成長ファンドとKOSDAQ政策資金](/ja/post/national-growth-fund-kosdaq-smart-money-policy-bottlenecks-2026-05-24/)
 
 *直近2か月はKOSPI大型株の圧勝、KOSDAQの相対的な弱さが極端化した局面だった。時価総額加重の近似指数ではKOSPIが+49.8%、KOSDAQが+11.4%。KOSDAQはKOSPI比で-38.4ポイント劣後した。しかし資金フローは価格と違う動きを始めている。直近5営業日のKOSDAQは外国人+機関が+7,079億ウォン、プログラム売買が+4,104億ウォン。一方、KOSPIは同期間に外国人+機関が-14兆578億ウォン、プログラムが-8兆1,572億ウォンの売り越しだった。価格はKOSPIの勝ちだが、新しい資金はKOSDAQを再び見始めている。*
 

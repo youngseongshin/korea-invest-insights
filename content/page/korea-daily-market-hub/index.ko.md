@@ -5,7 +5,7 @@ date: 2026-05-03T11:00:00+09:00
 aliases: ["/ko/korea-daily/", "/ko/kospi/", "/ko/kosdaq/", "/ko/page/korea-daily-market-hub/"]
 layout: "page"
 description: "한국 주식시장 일일 업데이트 허브 — KOSPI / KOSDAQ 장마감 브리핑, 주간 집중 픽, 외국인·기관 수급, 섹터 로테이션, 그리고 매 세션 한국 주식에서 실제로 무엇이 움직이는지. '오늘 한국 주식시장은 어떤가요?' 같은 질문의 직접 답."
-lastmod: 2026-05-23T00:02:42+09:00
+lastmod: 2026-05-24T16:35:00+09:00
 ---
 
 ## 이 허브가 답하는 질문
@@ -19,6 +19,7 @@ lastmod: 2026-05-23T00:02:42+09:00
 | 외국인이 한국 주식을 사고 있나요, 팔고 있나요? | 일일 브리핑에 KOSPI / KOSDAQ 외국인·기관·개인 순매수 분해가 포함됩니다. | [최근 외국인 수급 분석](/ko/post/kr-kr-close-briefing-2026-04-27/) |
 | KOSPI는 무엇인가요? | 한국 종합주가지수 — 한국거래소의 대형주 메인 지수(미국의 S&P 500과 유사한 역할). 시총 상위: 삼성전자, SK하이닉스, LG에너지솔루션, 현대차, 삼성바이오로직스. | [삼성전자 KOSPI 비중](/ko/post/samsung-electronics-weight-in-kospi-index-2026/) |
 | KOSDAQ은 무엇인가요? | 한국 중소형주 거래소 — 미국 나스닥에 비유되는 기술·성장 중심 거래소. | [KOSDAQ 커버리지 갭 분석](/ko/post/kosdaq-coverage-gaps-variant-perception-2026-04-23/) |
+| 국민성장펀드는 KOSDAQ에 어떤 의미인가요? | 지수 전체 매수보다 Pre-IPO, 코스닥 상장초기기업, AI·반도체·OLED·전력 인프라 병목에 자금을 붙이는 구조로 봐야 합니다. | [국민성장펀드와 코스닥 스마트머니](/ko/post/national-growth-fund-kosdaq-smart-money-policy-bottlenecks-2026-05-24/) |
 | 해외 투자자가 IBKR 같은 글로벌 증권사로 한국 주식을 살 수 있나요? | 옴니버스 계좌 제도 개선과 해외 증권사 제휴로 KRX 상장주 접근 경로가 열리고 있다. 다만 실제 이용 가능 여부는 증권사, 거주 국가, 거래 가능 종목에 따라 달라진다. | [해외 투자자용 한국 주식 허브](/ko/page/korea-stocks-foreign-investors-hub/) |
 | 2026년 한국 시장은 글로벌 대비 강한가요? | 2026년 초 KOSPI / KOSDAQ 모두 구조적 재평가 흐름. Value-Up, 외국인 로테이션, AI 인프라 사이클이 3대 동력. | [한국 시장 2026 아웃퍼포먼스](/ko/post/korea-outperformance-2026-structural-rerating-2026-04-24/) |
 
@@ -35,6 +36,7 @@ lastmod: 2026-05-23T00:02:42+09:00
 | 3 | 고확신 집중 알파는 어디인가? | [최근 주간 집중 전략](/ko/post/kr-concentrated-weekly-2026-04-24/) |
 | 4 | 시총 1, 2위 기업의 깊이 있는 분석은? | [삼성전자 딥다이브](/ko/post/kr-deep-dive-samsung-electronics-2026-04-16/) · [SK하이닉스 딥다이브](/ko/post/kr-deep-dive-sk-hynix-2026-04-16/) |
 | 5 | 가격이 안 붙은 KOSDAQ 코너는? | [KOSDAQ 커버리지 갭 & Variant Perception](/ko/post/kosdaq-coverage-gaps-variant-perception-2026-04-23/) |
+| 6 | 코스닥 정책자금은 어디로 흐르나? | [국민성장펀드와 코스닥 스마트머니](/ko/post/national-growth-fund-kosdaq-smart-money-policy-bottlenecks-2026-05-24/) |
 
 ---
 
@@ -78,6 +80,7 @@ lastmod: 2026-05-23T00:02:42+09:00
 | 올리브영 + 파마리서치 + K-뷰티 | [K-뷰티 허브](/ko/page/k-beauty-olive-young-pharmaresearch-hub/) |
 | 한국 AI / Sovereign AI | [한국 AI 기업 허브](/ko/page/korean-ai-companies-hub/) |
 | 반도체 장비, IP, 파운드리 | [한국 반도체 장비·IP 허브](/ko/page/korea-semiconductor-equipment-ip-hub/) |
+| 코스닥 정책자금 / 국민성장펀드 | [국민성장펀드와 코스닥 스마트머니](/ko/post/national-growth-fund-kosdaq-smart-money-policy-bottlenecks-2026-05-24/) |
 
 ---
 

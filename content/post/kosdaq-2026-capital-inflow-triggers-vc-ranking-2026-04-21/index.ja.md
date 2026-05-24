@@ -24,6 +24,8 @@ draft: false
 
 > 📚 **シリーズ 1/4**: [KOSDAQ構造分析 — シリーズハブ →](/series/kosdaq-structural-2026/)
 
+> 🔁 **後続アップデート**: [国民成長ファンドとKOSDAQスマートマネー](/ja/post/national-growth-fund-kosdaq-smart-money-policy-bottlenecks-2026-05-24/)
+
 > **ノイズは「KRW 1,400Tの年金資金が流入する」と言う。計算上はスタック全体でKRW 20〜40Tだ。実際に再構築されているのはエグジット市場であり、3,000という指数目標ではない。**
 
 ---

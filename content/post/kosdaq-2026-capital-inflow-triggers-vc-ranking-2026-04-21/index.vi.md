@@ -24,6 +24,8 @@ draft: false
 
 > 📚 **Chuỗi bài 1/4**: [Phân tích cấu trúc KOSDAQ — trang tổng hợp →](/series/kosdaq-structural-2026/)
 
+> 🔁 **Cập nhật tiếp theo**: [Quỹ Tăng trưởng Quốc gia và dòng tiền thông minh KOSDAQ](/vi/post/national-growth-fund-kosdaq-smart-money-policy-bottlenecks-2026-05-24/)
+
 > **Thị trường đồn rằng "1.400 nghìn tỷ KRW tiền lương hưu sắp đổ vào." Tính toán thực tế cho thấy 20–40 nghìn tỷ KRW trên toàn bộ cấu trúc. Thứ thực sự đang được xây dựng lại là thị trường thoát vốn — không phải mục tiêu chỉ số 3.000.**
 
 ---

@@ -18,7 +18,7 @@ draft: false
 ---
 
 > 📚 **Series relacionadas**
-> [Prueba de suelo de flujos en Pearl Abyss](/es/post/pearl-abyss-flow-bottom-test-2026-05-18/) / [Hub de Pearl Abyss](/es/page/pearl-abyss-crimson-desert-hub/) / [Panorama de mercado del 17 de mayo](/es/post/macro-snapshot-complex-risk-off-recovery-triggers-2026-05-17/) / [Guía completa del KOSDAQ](/es/post/kosdaq-complete-guide-promotion-relegation-system-2026-05-10/)
+> [Prueba de suelo de flujos en Pearl Abyss](/es/post/pearl-abyss-flow-bottom-test-2026-05-18/) / [Hub de Pearl Abyss](/es/page/pearl-abyss-crimson-desert-hub/) / [Panorama de mercado del 17 de mayo](/es/post/macro-snapshot-complex-risk-off-recovery-triggers-2026-05-17/) / [Guía completa del KOSDAQ](/es/post/kosdaq-complete-guide-promotion-relegation-system-2026-05-10/) / [Fondo Nacional de Crecimiento y capital político KOSDAQ](/es/post/national-growth-fund-kosdaq-smart-money-policy-bottlenecks-2026-05-24/)
 
 *Los últimos dos meses fueron una victoria clara de las grandes capitalizaciones del KOSPI y una fase de debilidad relativa extrema del KOSDAQ. Según un índice aproximado ponderado por capitalización, el KOSPI avanzó +49,8% y el KOSDAQ +11,4%; el KOSDAQ quedó -38,4 puntos porcentuales por detrás. Pero los flujos empiezan a moverse de forma distinta al precio. En las últimas cinco sesiones, el KOSDAQ registró +707.900 millones de wones de compra neta de extranjeros+instituciones y +410.400 millones de programas. En el KOSPI, durante el mismo periodo, extranjeros+instituciones vendieron -14,058 billones de wones y los programas vendieron -8,157 billones. El precio dice que ganó el KOSPI. El dinero nuevo empieza a mirar de nuevo al KOSDAQ.*
 

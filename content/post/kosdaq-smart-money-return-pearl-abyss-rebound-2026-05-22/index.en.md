@@ -18,7 +18,7 @@ draft: false
 ---
 
 > 📚 **Related Series**
-> [Pearl Abyss Flow Bottom Test](/post/pearl-abyss-flow-bottom-test-2026-05-18/) / [Pearl Abyss Hub](/page/pearl-abyss-crimson-desert-hub/) / [May 17 Market Snapshot](/post/macro-snapshot-complex-risk-off-recovery-triggers-2026-05-17/) / [Complete KOSDAQ Guide](/post/kosdaq-complete-guide-promotion-relegation-system-2026-05-10/)
+> [Pearl Abyss Flow Bottom Test](/post/pearl-abyss-flow-bottom-test-2026-05-18/) / [Pearl Abyss Hub](/page/pearl-abyss-crimson-desert-hub/) / [May 17 Market Snapshot](/post/macro-snapshot-complex-risk-off-recovery-triggers-2026-05-17/) / [Complete KOSDAQ Guide](/post/kosdaq-complete-guide-promotion-relegation-system-2026-05-10/) / [National Growth Fund and KOSDAQ Policy Capital](/post/national-growth-fund-kosdaq-smart-money-policy-bottlenecks-2026-05-24/)
 
 *The past two months were a decisive KOSPI large-cap win and an extreme KOSDAQ relative slump. On a market-cap-weighted proxy, KOSPI gained +49.8% while KOSDAQ gained +11.4%, leaving KOSDAQ -38.4 percentage points behind KOSPI. But flows are starting to move differently from prices. Over the past five sessions, KOSDAQ recorded +KRW 707.9bn of foreign-plus-institutional buying and +KRW 410.4bn of program buying. KOSPI, over the same period, recorded -KRW 14.058tn of foreign-plus-institutional selling and -KRW 8.157tn of program selling. Price says KOSPI won. Fresh money is starting to look back at KOSDAQ.*
 

@@ -19,7 +19,7 @@ draft: false
 ---
 
 > 📚 관련 시리즈
-> [펄어비스 수급 바닥 테스트](/ko/post/pearl-abyss-flow-bottom-test-2026-05-18/) / [펄어비스 허브](/ko/page/pearl-abyss-crimson-desert-hub/) / [5/17 시황 종합](/ko/post/macro-snapshot-complex-risk-off-recovery-triggers-2026-05-17/) / [코스닥 완전 가이드](/ko/post/kosdaq-complete-guide-promotion-relegation-system-2026-05-10/)
+> [펄어비스 수급 바닥 테스트](/ko/post/pearl-abyss-flow-bottom-test-2026-05-18/) / [펄어비스 허브](/ko/page/pearl-abyss-crimson-desert-hub/) / [5/17 시황 종합](/ko/post/macro-snapshot-complex-risk-off-recovery-triggers-2026-05-17/) / [코스닥 완전 가이드](/ko/post/kosdaq-complete-guide-promotion-relegation-system-2026-05-10/) / [국민성장펀드와 코스닥 정책자금](/ko/post/national-growth-fund-kosdaq-smart-money-policy-bottlenecks-2026-05-24/)
 
 *최근 2개월 시장은 코스피 대형주 압승과 코스닥 상대 약세 극단화로 요약된다. 시총가중 대용 지수 기준 코스피는 +49.8%, 코스닥은 +11.4%다. 코스닥은 코스피 대비 -38.4%p 뒤처졌다. 그런데 수급은 가격과 다르게 움직이기 시작했다. 최근 5거래일 기준 코스닥은 외국인+기관 +7,079억원, 프로그램 +4,104억원이다. 코스피는 같은 기간 외국인+기관 -140,578억원, 프로그램 -81,572억원이다. 가격은 코스피가 이겼지만, 새 돈의 방향은 코스닥을 다시 보기 시작했다.*
 

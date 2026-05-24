@@ -25,6 +25,8 @@ draft: false
 
 > 📚 **Series 1/4**: [KOSDAQ Structural Deep-Dive — series hub →](/series/kosdaq-structural-2026/)
 
+> 🔁 **Follow-up update**: [National Growth Fund and KOSDAQ Smart Money — Where the ₩150T Policy Capital Actually Flows](/post/national-growth-fund-kosdaq-smart-money-policy-bottlenecks-2026-05-24/)
+
 > **The noise says "KRW 1,400T of pension money is coming." The math says KRW 20–40T across the stack. What's actually being rebuilt is the exit market — not a 3,000 index target.**
 
 ---

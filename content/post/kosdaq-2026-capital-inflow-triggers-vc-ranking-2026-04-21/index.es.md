@@ -24,6 +24,8 @@ draft: false
 
 > 📚 **Serie 1/4**: [KOSDAQ Análisis Estructural — hub de la serie →](/series/kosdaq-structural-2026/)
 
+> 🔁 **Actualización de seguimiento**: [Fondo Nacional de Crecimiento y dinero inteligente del KOSDAQ](/es/post/national-growth-fund-kosdaq-smart-money-policy-bottlenecks-2026-05-24/)
+
 > **El ruido dice "1.400 billones KRW de fondos de pensiones están llegando." Los números dicen 20–40 billones KRW en toda la cadena. Lo que realmente se está reconstruyendo es el mercado de salidas — no un objetivo de índice en 3.000.**
 
 ---

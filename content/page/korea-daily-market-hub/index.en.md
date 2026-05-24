@@ -5,7 +5,7 @@ date: 2026-05-03T11:00:00+09:00
 aliases: ["/korea-daily/", "/kospi/", "/kosdaq/", "/en/korea-daily/", "/en/page/korea-daily-market-hub/", "/es/page/korea-daily-market-hub/", "/vi/page/korea-daily-market-hub/", "/fr/page/korea-daily-market-hub/", "/ja/page/korea-daily-market-hub/", "/zh/page/korea-daily-market-hub/"]
 layout: "page"
 description: "A hub for Korean stock market daily updates — KOSPI and KOSDAQ market closes, weekly concentrated picks, foreign-investor flows, sector rotation, and what's actually moving in Korean equities each session. Direct answers to 'What is the Korean stock market doing today?' and similar queries."
-lastmod: 2026-05-23T00:02:42+09:00
+lastmod: 2026-05-24T16:35:00+09:00
 ---
 
 ## What This Hub Answers
@@ -19,6 +19,7 @@ Direct, search-engine-friendly answers to the questions global investors ask abo
 | Are foreigners buying or selling Korean stocks? | Daily wraps include the foreigner / institutional / individual net-flow split for KOSPI and KOSDAQ. | [Recent Foreign Flow Analysis](/post/kr-kr-close-briefing-2026-04-27/) |
 | What is KOSPI? | The Korea Composite Stock Price Index — the main large-cap index of the Korea Exchange (similar role to the S&P 500). Top weights: Samsung Electronics, SK hynix, LG Energy Solution, Hyundai Motor, Samsung Biologics. | [Samsung Electronics Weight in KOSPI](/post/samsung-electronics-weight-in-kospi-index-2026/) |
 | What is KOSDAQ? | The Korean small-and-mid-cap exchange — analogous to the Nasdaq for smaller, often technology- and growth-oriented Korean listings. | [KOSDAQ Coverage Gaps Analysis](/post/kosdaq-coverage-gaps-variant-perception-2026-04-23/) |
+| What does the National Growth Fund mean for KOSDAQ? | It is not an index-buying program. It matters through Pre-IPO support, early KOSDAQ-listed companies, and AI / semiconductor / OLED / power-infrastructure bottlenecks. | [National Growth Fund and KOSDAQ Smart Money](/post/national-growth-fund-kosdaq-smart-money-policy-bottlenecks-2026-05-24/) |
 | Can foreigners buy Korean stocks through IBKR or other global brokers? | Korea's omnibus-account reforms and new broker partnerships are opening a path from overseas brokerage accounts to KRX-listed stocks. Availability still depends on broker, country and product coverage. | [Foreign Investor Korea Stocks Hub](/page/korea-stocks-foreign-investors-hub/) |
 | Is the Korean market outperforming in 2026? | KOSPI and KOSDAQ both showed structural re-rating tailwinds in early 2026 — Value-Up reform, foreign rotation, and the AI infrastructure cycle. | [Korea Outperformance 2026](/post/korea-outperformance-2026-structural-rerating-2026-04-24/) |
 
@@ -35,6 +36,7 @@ Sequential reading for someone new to Korean equities — what to read in order 
 | 3 | Where is the high-conviction concentrated alpha? | [Latest Weekly Concentrated Strategy](/post/kr-concentrated-weekly-2026-04-24/) |
 | 4 | What's the deeper story on the largest names? | [Samsung Electronics Deep Dive](/post/kr-deep-dive-samsung-electronics-2026-04-16/) · [SK hynix Deep Dive](/post/kr-deep-dive-sk-hynix-2026-04-16/) |
 | 5 | Where are the un-priced KOSDAQ corners? | [KOSDAQ Coverage Gaps & Variant Perception](/post/kosdaq-coverage-gaps-variant-perception-2026-04-23/) |
+| 6 | Where does KOSDAQ policy capital actually flow? | [National Growth Fund and KOSDAQ Smart Money](/post/national-growth-fund-kosdaq-smart-money-policy-bottlenecks-2026-05-24/) |
 
 ---
 
@@ -78,6 +80,7 @@ The Friday-evening "concentrated" series picks 3–5 highest-conviction Korean e
 | Olive Young + PharmaResearch + K-Beauty | [K-Beauty Hub](/page/k-beauty-olive-young-pharmaresearch-hub/) |
 | Korean AI / Sovereign AI | [Korean AI Companies Hub](/page/korean-ai-companies-hub/) |
 | Semiconductor Equipment, IP, Foundry | [Korea Semiconductor Equipment & IP Hub](/page/korea-semiconductor-equipment-ip-hub/) |
+| KOSDAQ policy capital / National Growth Fund | [National Growth Fund and KOSDAQ Smart Money](/post/national-growth-fund-kosdaq-smart-money-policy-bottlenecks-2026-05-24/) |
 
 ---
 

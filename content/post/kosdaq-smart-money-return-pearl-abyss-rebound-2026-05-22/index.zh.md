@@ -18,7 +18,7 @@ draft: false
 ---
 
 > 📚 **相关系列**
-> [Pearl Abyss资金流底部测试](/zh/post/pearl-abyss-flow-bottom-test-2026-05-18/) / [Pearl Abyss枢纽页](/zh/page/pearl-abyss-crimson-desert-hub/) / [5月17日市场总览](/zh/post/macro-snapshot-complex-risk-off-recovery-triggers-2026-05-17/) / [KOSDAQ完整指南](/zh/post/kosdaq-complete-guide-promotion-relegation-system-2026-05-10/)
+> [Pearl Abyss资金流底部测试](/zh/post/pearl-abyss-flow-bottom-test-2026-05-18/) / [Pearl Abyss枢纽页](/zh/page/pearl-abyss-crimson-desert-hub/) / [5月17日市场总览](/zh/post/macro-snapshot-complex-risk-off-recovery-triggers-2026-05-17/) / [KOSDAQ完整指南](/zh/post/kosdaq-complete-guide-promotion-relegation-system-2026-05-10/) / [国民增长基金与KOSDAQ政策资金](/zh/post/national-growth-fund-kosdaq-smart-money-policy-bottlenecks-2026-05-24/)
 
 *过去两个月是KOSPI大型股大胜、KOSDAQ相对弱势极端化的阶段。按市值加权近似指数计算，KOSPI上涨+49.8%，KOSDAQ上涨+11.4%，KOSDAQ相对KOSPI落后-38.4个百分点。但资金流开始与价格走势不同步。最近5个交易日，KOSDAQ外资+机构净买入7,079亿韩元，程序交易净买入4,104亿韩元。同期KOSPI外资+机构净卖出140,578亿韩元，程序交易净卖出81,572亿韩元。价格显示KOSPI赢了，但新资金开始重新看向KOSDAQ。*
 
