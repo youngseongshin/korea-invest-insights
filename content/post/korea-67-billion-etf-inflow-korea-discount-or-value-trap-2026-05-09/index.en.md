@@ -21,6 +21,8 @@ tags:
 
 > **Why Korea Series — Part 4.** [Part 1](/post/why-korea-semiconductor-substrate-competitive-edge-2026-05-07/) examined why Korea hosts most of the world's commercial-scale semiconductor substrate manufacturing. [Part 2](/post/why-korea-cosmetics-global-competitiveness-2026-05-07/) examined why Korea became the world's #2–#3 cosmetics exporter without producing a single luxury house. [Part 3](/post/samsung-sk-hynix-korea-ai-economy-rerating-2026-05-09/) examined how Samsung and SK hynix's combined ₩300tn+ profit pool is upgrading the Korean fiscal-and-household structure itself. Parts 1–3 answered "why money has to come to Korea" at the industry, ecosystem, and macro levels. **Part 4 looks at what happens when the money actually arrives** — and produces a valuation paradox where PER falls *below* the 10-year average even as PBR climbs *above* it.
 
+> **Follow-up:** Korea's market cap has since moved into global top-six headline territory. The data and investment read-through are checked in [Why Korea Part 5: Korea's Stock Market Is Now Near Global No. 6 — Buy Signal or Warning Light?](/post/why-korea-market-cap-global-six-ai-memory-rerating-2026-05-24/).
+
 *Korea ETF inflows in 2026 sit at \~US$6.7bn — the highest in 20 years and more than 3× the 2025 print. KOSPI is up roughly +50% YTD, the #1 print among major global indices. Total market cap of ₩6,058tn places Korea 8th globally — an all-time high. Yet forward PER reads \~8×, below the 10-year \~10× average. Money pours in at a record pace, but the multiple compresses. The paradox is the entire question of 2H26: is this the early stage of Korea-discount dissolution, or the structural top before a profit-revision cycle turns Korea into a value trap?*
 
 ---

@@ -5,6 +5,7 @@ date: 2026-05-07T00:40:00+09:00
 aliases: ["/korea-stocks/", "/korean-stocks/", "/ibkr-korea-stocks/", "/foreign-investors-korea/", "/en/korea-stocks/", "/en/korean-stocks/", "/en/ibkr-korea-stocks/", "/en/page/korea-stocks-foreign-investors-hub/", "/es/page/korea-stocks-foreign-investors-hub/", "/vi/page/korea-stocks-foreign-investors-hub/", "/fr/page/korea-stocks-foreign-investors-hub/", "/ja/page/korea-stocks-foreign-investors-hub/", "/zh/page/korea-stocks-foreign-investors-hub/"]
 layout: "page"
 description: "A foreign-investor guide to Korean stocks: IBKR and international-broker access, KOSPI, KOSDAQ, Samsung Electronics, SK Hynix, Pearl Abyss, Korean financials, AI hardware, K-beauty and daily market research."
+lastmod: 2026-05-24T21:45:00+09:00
 ---
 
 ## One-Line Thesis
@@ -20,6 +21,7 @@ Foreign access to Korean equities is becoming less of a brokerage problem and mo
 | Can foreigners buy Korean stocks through IBKR? | According to Korean media and FSC policy changes, international-broker access to KRX stocks is opening through omnibus-account partnerships. Service details still depend on broker, jurisdiction and product coverage. | [IBKR Korea Stocks: Foreign Retail Access Analysis](/post/ibkr-korea-stocks-foreign-retail-access-2026-05-07/) |
 | How do I start researching Korean stocks from outside Korea? | Start with market structure, then move from index heavyweights to sector hubs: HBM, AI substrates, gaming, financials and K-beauty. | [Korea Daily Market Hub](/page/korea-daily-market-hub/) |
 | What is KOSPI? | Korea's large-cap market index. It is heavily influenced by Samsung Electronics, SK Hynix, Hyundai Motor, LG Energy Solution and large financials. | [Korea Daily Market Hub](/page/korea-daily-market-hub/#faq--korean-stock-market) |
+| What does Korea being near global No. 6 by market cap mean? | Korea has re-rated, but the key is whether Samsung + SK hynix AI-memory earnings last and whether flows broaden beyond mega-cap semis. | [Why Korea Part 5: Global No. 6 Market Cap](/post/why-korea-market-cap-global-six-ai-memory-rerating-2026-05-24/) |
 | What is KOSDAQ? | Korea's growth and small-mid-cap market. It is where many biotech, game, AI software, semiconductor equipment and niche industrial names trade. | [KOSDAQ Coverage Gaps](/post/kosdaq-coverage-gaps-variant-perception-2026-04-23/) |
 | Which Korean AI stocks should a foreign investor study first? | Start with Samsung Electronics, SK Hynix and the HBM chain, then move into AI substrates, CCL, FC-BGA and low-dielectric materials. | [Samsung / SK Hynix / HBM Hub](/page/korea-semiconductor-hbm-kospi-hub/) |
 | Which Korean small-cap AI hardware names matter? | The AI substrate ecosystem includes Samsung Electro-Mechanics, Daeduck Electronics, Doosan Electronic BG, Kolon Industries and Pamicell. | [AI PCB and Substrate Hub](/page/korea-ai-pcb-substrate-hub/) |
@@ -39,13 +41,14 @@ Foreign access to Korean equities is becoming less of a brokerage problem and mo
 | 1 | What changed in foreign retail access to Korean stocks? | [IBKR Korea Stocks: Foreign Retail Access Analysis](/post/ibkr-korea-stocks-foreign-retail-access-2026-05-07/) |
 | 2 | What is happening in the Korean market today? | [Korea Daily Market Hub](/page/korea-daily-market-hub/) |
 | 3 | Why is Korea being re-rated in 2026? | [Korea 2026: Structural Re-Rating](/post/korea-outperformance-2026-structural-rerating-2026-04-24/) |
-| 4 | How should I think about Samsung Electronics, SK Hynix and HBM? | [Samsung / SK Hynix / HBM Hub](/page/korea-semiconductor-hbm-kospi-hub/) |
-| 5 | What is the AI PCB and substrate thesis? | [AI PCB and Substrate Hub](/page/korea-ai-pcb-substrate-hub/) |
-| 6 | Why does Korea have so many AI substrate companies? | [Why Korea Part 1: Semiconductor Substrates](/post/why-korea-semiconductor-substrate-competitive-edge-2026-05-07/) |
-| 7 | How should I map Korean robotics and physical AI stocks? | [Korea Humanoid Robot Value Chain](/post/korea-robotics-value-chain-complete-map-2026-05-11/) |
-| 8 | Which Korean financials matter under Value-Up? | [Korean Financials Hub](/page/korean-financials-hub/) |
-| 9 | Why did Korean cosmetics become a top-three export industry? | [Why Korea Part 2: Korean Cosmetics](/post/why-korea-cosmetics-global-competitiveness-2026-05-07/) |
-| 10 | Which Korean consumer and game stories are searchable globally? | [Pearl Abyss Hub](/page/pearl-abyss-crimson-desert-hub/) · [K-Beauty Hub](/page/k-beauty-olive-young-pharmaresearch-hub/) |
+| 4 | What does Korea's global No. 6 market-cap headline mean? | [Why Korea Part 5: Global No. 6 Market Cap](/post/why-korea-market-cap-global-six-ai-memory-rerating-2026-05-24/) |
+| 5 | How should I think about Samsung Electronics, SK Hynix and HBM? | [Samsung / SK Hynix / HBM Hub](/page/korea-semiconductor-hbm-kospi-hub/) |
+| 6 | What is the AI PCB and substrate thesis? | [AI PCB and Substrate Hub](/page/korea-ai-pcb-substrate-hub/) |
+| 7 | Why does Korea have so many AI substrate companies? | [Why Korea Part 1: Semiconductor Substrates](/post/why-korea-semiconductor-substrate-competitive-edge-2026-05-07/) |
+| 8 | How should I map Korean robotics and physical AI stocks? | [Korea Humanoid Robot Value Chain](/post/korea-robotics-value-chain-complete-map-2026-05-11/) |
+| 9 | Which Korean financials matter under Value-Up? | [Korean Financials Hub](/page/korean-financials-hub/) |
+| 10 | Why did Korean cosmetics become a top-three export industry? | [Why Korea Part 2: Korean Cosmetics](/post/why-korea-cosmetics-global-competitiveness-2026-05-07/) |
+| 11 | Which Korean consumer and game stories are searchable globally? | [Pearl Abyss Hub](/page/pearl-abyss-crimson-desert-hub/) · [K-Beauty Hub](/page/k-beauty-olive-young-pharmaresearch-hub/) |
 
 ---
 

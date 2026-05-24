@@ -10,6 +10,8 @@ series: ["korea-rerating-2026"]
 
 > **단독 심층 분석.** 이 글은 해외 기관 투자자를 대상으로 2026년 한국 아웃퍼폼 thesis를 정리한 장문 분석의 압축본이다. KOSDAQ 구조적 변화 2026 시리즈 및 텐배거 분석 2026 시리즈, 거시 환경 분석과 결합된다.
 
+> **후속 연결:** 이 리레이팅 thesis가 실제 시가총액 순위로 어떻게 나타났는지는 [Why Korea 5편: 한국 증시 시총 세계 6위](/ko/post/why-korea-market-cap-global-six-ai-memory-rerating-2026-05-24/)에서 WFE·CEIC·KRX·Research OS proxy로 재검증했다.
+
 ---
 
 ## 핵심 요약

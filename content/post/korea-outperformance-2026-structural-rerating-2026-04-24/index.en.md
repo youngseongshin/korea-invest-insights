@@ -11,6 +11,8 @@ series: ["korea-rerating-2026"]
 
 > **Standalone deep-dive.** This post distills a long-form Korea 2026 outperformance thesis for a foreign-allocator audience. It connects to the KOSDAQ Structural 2026 and Tenbagger Analysis 2026 series as the macro-level overlay.
 
+> **Follow-up:** The market-cap ranking evidence for this re-rating is updated in [Why Korea Part 5: Korea's Stock Market Is Now Near Global No. 6](/post/why-korea-market-cap-global-six-ai-memory-rerating-2026-05-24/), using WFE, CEIC, KRX and a Research OS local proxy.
+
 ---
 
 ## Executive Summary
