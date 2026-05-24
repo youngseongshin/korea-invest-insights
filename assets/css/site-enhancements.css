@@ -10,8 +10,16 @@
    exceed that specificity, otherwise Stack's defaults win. */
 html:root,
 html[data-scheme="light"] {
+  --kii-body-font: "Inter", "Pretendard", "Apple SD Gothic Neo", "Noto Sans KR", -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+  --kii-heading-font: "IBM Plex Serif", "Noto Serif KR", "AppleMyungjo", "Nanum Myeongjo", Georgia, serif;
+  --kii-mono-font: "SFMono-Regular", "Cascadia Mono", "IBM Plex Mono", ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace;
+
+  --base-font-family: var(--kii-body-font);
+  --article-font-family: var(--kii-body-font);
+  --code-font-family: var(--kii-mono-font);
+
   /* Light surface */
-  --body-background: #fafbfc;
+  --body-background: #f7f8fb;
   --card-background: #ffffff;
   --card-background-selected: #f1f5f9;
   --card-separator-color: rgba(15, 23, 42, 0.08);
@@ -29,10 +37,20 @@ html[data-scheme="light"] {
 
   --pre-background-color: #f6f8fa;
   --pre-text-color: #1e293b;
+  --card-border-radius: 8px;
+  --tag-border-radius: 5px;
 }
 
 html:root[data-scheme="dark"],
 html[data-scheme="dark"] {
+  --kii-body-font: "Inter", "Pretendard", "Apple SD Gothic Neo", "Noto Sans KR", -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+  --kii-heading-font: "IBM Plex Serif", "Noto Serif KR", "AppleMyungjo", "Nanum Myeongjo", Georgia, serif;
+  --kii-mono-font: "SFMono-Regular", "Cascadia Mono", "IBM Plex Mono", ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace;
+
+  --base-font-family: var(--kii-body-font);
+  --article-font-family: var(--kii-body-font);
+  --code-font-family: var(--kii-mono-font);
+
   --body-background: #0d1117;
   --card-background: #161b22;
   --card-background-selected: #1f2733;
@@ -49,6 +67,29 @@ html[data-scheme="dark"] {
 
   --pre-background-color: #161b22;
   --pre-text-color: #e6edf3;
+  --card-border-radius: 8px;
+  --tag-border-radius: 5px;
+}
+
+body {
+  font-feature-settings: "tnum" 1, "cv05" 1;
+  letter-spacing: 0;
+}
+
+@media (min-width: 1024px) {
+  .container.extended {
+    max-width: 1360px;
+    --left-sidebar-max-width: 18%;
+    --right-sidebar-max-width: 24%;
+  }
+}
+
+@media (min-width: 1280px) {
+  .container.extended {
+    max-width: 1540px;
+    --left-sidebar-max-width: 14%;
+    --right-sidebar-max-width: 22%;
+  }
 }
 
 /* Tighten link/heading accent application on the new palette */
@@ -64,6 +105,180 @@ html[data-scheme="dark"] {
 
 [data-scheme="dark"] .article-content a:not(.no-style):hover {
   color: #79b8ff;
+}
+
+/* ── Editorial research note typography ── */
+.article-title,
+.article-content h1,
+.article-content h2,
+.article-content h3,
+.article-content h4,
+.home-hubs-title,
+.article-list .article-title {
+  font-family: var(--kii-heading-font);
+  letter-spacing: 0;
+}
+
+.article-page .main-article,
+.article-list article,
+.home-hubs,
+.widget,
+.widget--toc {
+  border: 1px solid var(--card-separator-color, rgba(15, 23, 42, 0.08));
+  box-shadow: 0 10px 28px rgba(15, 23, 42, 0.045);
+}
+
+[data-scheme="dark"] .article-page .main-article,
+[data-scheme="dark"] .article-list article,
+[data-scheme="dark"] .home-hubs,
+[data-scheme="dark"] .widget,
+[data-scheme="dark"] .widget--toc {
+  border-color: rgba(240, 246, 252, 0.1);
+  box-shadow: 0 12px 32px rgba(0, 0, 0, 0.34);
+}
+
+.article-page .main-article .article-header--single .article-details--single {
+  padding: clamp(2.2rem, 3vw, 4rem) clamp(2rem, 4vw, 4.2rem);
+  padding-bottom: clamp(2rem, 2.6vw, 3rem);
+  gap: 1.15rem;
+  border-bottom: 1px solid var(--card-separator-color, rgba(15, 23, 42, 0.08));
+  background:
+    linear-gradient(180deg, rgba(37, 99, 235, 0.035), rgba(255, 255, 255, 0) 58%),
+    var(--card-background, #fff);
+}
+
+[data-scheme="dark"] .article-page .main-article .article-header--single .article-details--single {
+  background:
+    linear-gradient(180deg, rgba(88, 166, 255, 0.08), rgba(22, 27, 34, 0) 62%),
+    var(--card-background, #161b22);
+}
+
+.article-details--single .article-category {
+  gap: 0.7rem;
+}
+
+.article-details--single .article-category a,
+.article-list .article-category a {
+  border-radius: 6px;
+  padding: 0.52rem 1.05rem;
+  font-size: 1.18rem;
+  font-weight: 750;
+  letter-spacing: 0;
+  line-height: 1.2;
+  box-shadow: inset 0 0 0 1px rgba(255, 255, 255, 0.22);
+}
+
+.article-details--single .article-title {
+  max-width: 13.5em;
+  font-size: clamp(2.75rem, 3.35vw, 4.35rem);
+  line-height: 1.13;
+  font-weight: 700;
+  text-wrap: balance;
+}
+
+.article-details--single .article-title a {
+  color: var(--card-text-color-main);
+}
+
+.article-details--single .article-subtitle {
+  max-width: 36em;
+  font-size: clamp(1.6rem, 1.55vw, 2.05rem);
+  line-height: 1.62;
+  color: var(--card-text-color-secondary);
+}
+
+.article-details--single .article-meta {
+  margin-top: 0.25rem;
+  padding-top: 1rem;
+  border-top: 1px solid var(--card-separator-color, rgba(15, 23, 42, 0.08));
+}
+
+.article-details--single .article-meta,
+.article-details--single .article-meta time,
+.article-details--single .article-meta a,
+.article-details--single .article-meta span {
+  font-size: 1.26rem;
+}
+
+.article-details--list .article-title {
+  font-size: clamp(2rem, 2.1vw, 2.55rem);
+  line-height: 1.18;
+  font-weight: 700;
+  text-wrap: balance;
+}
+
+.article-details--list .article-subtitle {
+  font-size: 1.55rem;
+  line-height: 1.55;
+}
+
+.article-content {
+  font-size: clamp(1.62rem, 1.18vw, 1.76rem);
+  line-height: 1.78;
+  color: var(--card-text-color-main);
+}
+
+.article-content > p,
+.article-content > ul,
+.article-content > ol {
+  max-width: 43rem;
+}
+
+.article-content > h2 {
+  margin-top: 2.5em;
+  margin-bottom: 0.9em;
+  font-size: clamp(2.25rem, 2.1vw, 3.05rem);
+  line-height: 1.22;
+  font-weight: 700;
+  color: var(--card-text-color-main);
+}
+
+.article-content > h3 {
+  margin-top: 2.2em;
+  margin-bottom: 0.75em;
+  font-size: clamp(1.95rem, 1.6vw, 2.45rem);
+  line-height: 1.26;
+  font-weight: 700;
+}
+
+.article-content > h2:first-of-type {
+  margin-top: 1.6em;
+}
+
+.article-content > h2:first-of-type + ul,
+.article-content > h2:first-of-type + ol {
+  margin: 0 0 2.2rem;
+  padding: 1.15rem 1.35rem 1.15rem 2.5rem;
+  max-width: 43rem;
+  border: 1px solid rgba(37, 99, 235, 0.16);
+  border-left: 4px solid var(--accent-color, #2563eb);
+  border-radius: 8px;
+  background: rgba(37, 99, 235, 0.045);
+}
+
+[data-scheme="dark"] .article-content > h2:first-of-type + ul,
+[data-scheme="dark"] .article-content > h2:first-of-type + ol {
+  border-color: rgba(88, 166, 255, 0.18);
+  background: rgba(88, 166, 255, 0.08);
+}
+
+@media (max-width: 768px) {
+  .article-page .main-article .article-header--single .article-details--single {
+    padding: 2rem;
+  }
+
+  .article-details--single .article-title {
+    font-size: clamp(2.25rem, 7vw, 2.8rem);
+  }
+
+  .article-details--single .article-subtitle {
+    font-size: 1.52rem;
+  }
+
+  .article-content {
+    font-size: 1.56rem;
+    line-height: 1.72;
+  }
 }
 
 /* ── Series navigation widget ── */
@@ -344,6 +559,53 @@ html[data-scheme="dark"] {
   margin: 0;
   /* Force tables to not collapse to viewport width on mobile */
   min-width: 100%;
+  font-size: 0.95em;
+  font-variant-numeric: tabular-nums;
+  border-collapse: separate;
+  border-spacing: 0;
+}
+
+.article-content .table-wrapper th {
+  position: sticky;
+  top: 0;
+  z-index: 1;
+  background: #eef3f8;
+  color: #1e293b;
+  font-weight: 750;
+}
+
+[data-scheme="dark"] .article-content .table-wrapper th {
+  background: #202a36;
+  color: #f0f6fc;
+}
+
+.article-content .table-wrapper th,
+.article-content .table-wrapper td {
+  padding: 0.62rem 0.78rem;
+  border-color: rgba(15, 23, 42, 0.11);
+}
+
+[data-scheme="dark"] .article-content .table-wrapper th,
+[data-scheme="dark"] .article-content .table-wrapper td {
+  border-color: rgba(240, 246, 252, 0.11);
+}
+
+.article-content .table-wrapper tbody tr:nth-child(even) {
+  background-color: rgba(15, 23, 42, 0.028);
+}
+
+[data-scheme="dark"] .article-content .table-wrapper tbody tr:nth-child(even) {
+  background-color: rgba(240, 246, 252, 0.045);
+}
+
+.article-content .table-wrapper th[style*="right"],
+.article-content .table-wrapper td[style*="right"] {
+  text-align: right !important;
+  font-variant-numeric: tabular-nums;
+}
+
+.article-content .table-wrapper strong {
+  color: var(--card-text-color-main);
 }
 
 @media (max-width: 768px) {
