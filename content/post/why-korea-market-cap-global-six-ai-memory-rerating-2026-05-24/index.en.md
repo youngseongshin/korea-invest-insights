@@ -18,7 +18,7 @@ tags:
 series: ["why-korea", "korea-rerating-2026"]
 ---
 
-> **Why Korea Part 5.** Part 1 covered [semiconductor substrates](/post/why-korea-semiconductor-substrate-competitive-edge-2026-05-07/), Part 2 covered [K-beauty](/post/why-korea-cosmetics-global-competitiveness-2026-05-07/), Part 3 covered [Samsung Electronics and SK hynix earnings leverage](/post/samsung-sk-hynix-korea-ai-economy-rerating-2026-05-09/), and Part 4 covered the [$6.7B Korea ETF inflow and value-trap debate](/post/korea-67-billion-etf-inflow-korea-discount-or-value-trap-2026-05-09/). This article connects that thesis to the new headline: **Korea’s equity market is now appearing near global No. 6 by market cap.**
+> **Why Korea Part 5.** Part 1 covered [semiconductor substrates](/post/why-korea-semiconductor-substrate-competitive-edge-2026-05-07/), Part 2 covered [K-beauty](/post/why-korea-cosmetics-global-competitiveness-2026-05-07/), Part 3 covered [Samsung Electronics and SK hynix earnings leverage](/post/samsung-sk-hynix-korea-ai-economy-rerating-2026-05-09/), and Part 4 covered the [$6.7B Korea ETF inflow and value-trap debate](/post/korea-67-billion-etf-inflow-korea-discount-or-value-trap-2026-05-09/). This article connects that thesis to the new headline: **Korea’s equity market is now appearing near global No. 6 by market cap.** The dedicated flow follow-up is [Korea Foreign Investor Flow Analysis](/post/korea-foreign-investor-flow-memory-megacap-rotation-2026-05-24/).
 
 ## TL;DR
 
@@ -122,4 +122,3 @@ The next alpha is not broad Korea beta. It is the next bottleneck: AI memory, pa
 * KRX/Asia Business Daily: Korea market cap broke **KRW 6,031.97T** on Apr. 27, 2026. ([Asia Business Daily](https://www.asiae.co.kr/en/article/2026042710205999315))
 * Seoul Economic Daily: KOSPI closed at **7,847.71** on May 22, 2026. ([Seoul Economic Daily](https://en.sedaily.com/finance/2026/05/22/kospi-closes-up-3212-points-at-784771))
 * CEIC: Korea market cap to GDP was **149.6%** in 2025. ([CEIC](https://www.ceicdata.com/en/indicator/korea/market-capitalization--nominal-gdp))
-

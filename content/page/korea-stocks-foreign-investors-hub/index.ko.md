@@ -5,7 +5,7 @@ date: 2026-05-07T00:40:00+09:00
 aliases: ["/ko/korea-stocks/", "/ko/korean-stocks/", "/ko/ibkr-korea-stocks/", "/ko/foreign-investors-korea/", "/ko/page/korea-stocks-foreign-investors-hub/"]
 layout: "page"
 description: "해외 투자자를 위한 한국 주식 허브. IBKR·해외 증권사 한국 주식 접근, KOSPI, KOSDAQ, 삼성전자, SK하이닉스, 펄어비스, 한국 금융주, AI 하드웨어, K-뷰티, 일간 시장 브리핑을 한곳에 정리한다."
-lastmod: 2026-05-24T21:45:00+09:00
+lastmod: 2026-05-24T23:55:00+09:00
 ---
 
 ## 한 줄 결론
@@ -22,6 +22,7 @@ lastmod: 2026-05-24T21:45:00+09:00
 | 해외에서 한국 주식을 처음 리서치하려면 어디서 시작하나요? | 시장 구조를 먼저 잡고, 삼성전자·SK하이닉스 같은 지수 대형주에서 HBM, AI 기판, 게임, 금융주, K-뷰티 허브로 이동하는 순서가 좋다. | [한국 데일리 마켓 허브](/ko/page/korea-daily-market-hub/) |
 | KOSPI는 무엇인가요? | 한국 대형주 중심 시장 지수다. 삼성전자, SK하이닉스, 현대차, LG에너지솔루션, 대형 금융주가 큰 비중을 차지한다. | [한국 데일리 마켓 허브](/ko/page/korea-daily-market-hub/#faq--한국-주식시장) |
 | 한국 증시가 세계 6위권 시총이라는 말은 무슨 뜻인가요? | 한국이 재평가된 것은 맞지만, 핵심은 삼성전자·SK하이닉스 AI 메모리 이익 지속성과 수급 확산 여부다. | [Why Korea 5편: 한국 시총 세계 6위](/ko/post/why-korea-market-cap-global-six-ai-memory-rerating-2026-05-24/) |
+| 외국인은 2026년에 한국 주식을 팔고 있나요? | 전체 순매도는 크지만 대부분 삼성전자·SK하이닉스 두 메모리 대형주에서 발생했다. 한국 이탈보다 메모리 분배와 선별 로테이션에 가깝다. | [한국증시 외국인 수급 분석](/ko/post/korea-foreign-investor-flow-memory-megacap-rotation-2026-05-24/) |
 | KOSDAQ은 무엇인가요? | 한국의 성장주·중소형주 시장이다. 바이오, 게임, AI 소프트웨어, 반도체 장비, 틈새 산업재 기업이 많이 상장돼 있다. | [KOSDAQ 커버리지 갭](/ko/post/kosdaq-coverage-gaps-variant-perception-2026-04-23/) |
 | 해외 투자자가 먼저 볼 한국 AI 주식은 무엇인가요? | 삼성전자, SK하이닉스, HBM 체인을 먼저 보고, 이후 AI 기판, CCL, FC-BGA, 저유전율 소재로 확장하는 순서가 자연스럽다. | [삼성전자·SK하이닉스·HBM 허브](/ko/page/korea-semiconductor-hbm-kospi-hub/) |
 | 한국 중소형 AI 하드웨어 종목은 어디를 봐야 하나요? | AI 기판 생태계에는 삼성전기, 대덕전자, 두산전자BG, 코오롱인더, 파미셀 등이 포함된다. | [AI 기판·PCB 허브](/ko/page/korea-ai-pcb-substrate-hub/) |
@@ -42,13 +43,14 @@ lastmod: 2026-05-24T21:45:00+09:00
 | 2 | 오늘 한국 시장은 어떤 흐름인가 | [한국 데일리 마켓 허브](/ko/page/korea-daily-market-hub/) |
 | 3 | 2026년 한국 시장은 왜 재평가되고 있나 | [2026년 한국 구조적 리레이팅](/ko/post/korea-outperformance-2026-structural-rerating-2026-04-24/) |
 | 4 | 한국 시총 세계 6위 헤드라인은 어떤 의미인가 | [Why Korea 5편: 한국 시총 세계 6위](/ko/post/why-korea-market-cap-global-six-ai-memory-rerating-2026-05-24/) |
-| 5 | 삼성전자, SK하이닉스, HBM은 어떻게 봐야 하나 | [삼성전자·SK하이닉스·HBM 허브](/ko/page/korea-semiconductor-hbm-kospi-hub/) |
-| 6 | AI 기판과 CCL 논거는 무엇인가 | [AI 기판·PCB 허브](/ko/page/korea-ai-pcb-substrate-hub/) |
-| 7 | 왜 한국에 AI 기판 회사가 이렇게 많은가 | [Why Korea 1편: 한국 반도체 기판 경쟁력](/ko/post/why-korea-semiconductor-substrate-competitive-edge-2026-05-07/) |
-| 8 | 한국 로봇·피지컬 AI 밸류체인은 어떻게 보나 | [한국 휴머노이드 로봇 밸류체인 분석](/ko/post/korea-robotics-value-chain-complete-map-2026-05-11/) |
-| 9 | 밸류업 국면의 한국 금융주는 어디를 봐야 하나 | [한국 금융주 허브](/ko/page/korean-financials-hub/) |
-| 10 | 왜 한국 화장품은 세계 2-3위 수출 산업이 됐나 | [Why Korea 2편: 한국 화장품 경쟁력](/ko/post/why-korea-cosmetics-global-competitiveness-2026-05-07/) |
-| 11 | 해외 검색 수요가 붙기 쉬운 소비·게임주는 어디인가 | [펄어비스 허브](/ko/page/pearl-abyss-crimson-desert-hub/) · [K-뷰티 허브](/ko/page/k-beauty-olive-young-pharmaresearch-hub/) |
+| 5 | 외국인 수급은 한국 이탈인가, 메모리 대형주 분배인가 | [한국증시 외국인 수급 분석](/ko/post/korea-foreign-investor-flow-memory-megacap-rotation-2026-05-24/) |
+| 6 | 삼성전자, SK하이닉스, HBM은 어떻게 봐야 하나 | [삼성전자·SK하이닉스·HBM 허브](/ko/page/korea-semiconductor-hbm-kospi-hub/) |
+| 7 | AI 기판과 CCL 논거는 무엇인가 | [AI 기판·PCB 허브](/ko/page/korea-ai-pcb-substrate-hub/) |
+| 8 | 왜 한국에 AI 기판 회사가 이렇게 많은가 | [Why Korea 1편: 한국 반도체 기판 경쟁력](/ko/post/why-korea-semiconductor-substrate-competitive-edge-2026-05-07/) |
+| 9 | 한국 로봇·피지컬 AI 밸류체인은 어떻게 보나 | [한국 휴머노이드 로봇 밸류체인 분석](/ko/post/korea-robotics-value-chain-complete-map-2026-05-11/) |
+| 10 | 밸류업 국면의 한국 금융주는 어디를 봐야 하나 | [한국 금융주 허브](/ko/page/korean-financials-hub/) |
+| 11 | 왜 한국 화장품은 세계 2-3위 수출 산업이 됐나 | [Why Korea 2편: 한국 화장품 경쟁력](/ko/post/why-korea-cosmetics-global-competitiveness-2026-05-07/) |
+| 12 | 해외 검색 수요가 붙기 쉬운 소비·게임주는 어디인가 | [펄어비스 허브](/ko/page/pearl-abyss-crimson-desert-hub/) · [K-뷰티 허브](/ko/page/k-beauty-olive-young-pharmaresearch-hub/) |
 
 ---
 

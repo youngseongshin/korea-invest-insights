@@ -22,7 +22,7 @@ valley_cashtags:
 ---
 
 > 📚 **관련 시리즈**
-> [미중 정상회담 디커플링 분석](/ko/post/us-china-summit-tech-decoupling-korea-impact-2026-05-17/) / [CloudMatrix 한국 알파 분석](/ko/post/cloudmatrix-expansion-korea-alpha-inspection-consumables-2026-05-17/) / [장기금리 진정 트리거](/ko/post/us-japan-long-rate-stabilization-triggers-2026-05-16/) / [거시 사이클 종합](/ko/post/2026-q2-macro-cycle-synthesis-2026-05-15/)
+> [미중 정상회담 디커플링 분석](/ko/post/us-china-summit-tech-decoupling-korea-impact-2026-05-17/) / [CloudMatrix 한국 알파 분석](/ko/post/cloudmatrix-expansion-korea-alpha-inspection-consumables-2026-05-17/) / [장기금리 진정 트리거](/ko/post/us-japan-long-rate-stabilization-triggers-2026-05-16/) / [거시 사이클 종합](/ko/post/2026-q2-macro-cycle-synthesis-2026-05-15/) / [한국증시 외국인 수급 분석](/ko/post/korea-foreign-investor-flow-memory-megacap-rotation-2026-05-24/)
 
 *지난주 후반 시장이 흔들렸다. 단순 금리 쇼크가 아니었다. 유가 충격, 장기 실질금리 상승, 달러 강세, AI 포지션 과밀, 중국 신용 부진이 동시에 작동한 5중 복합 risk-off였다. WTI는 105달러대, Brent는 109달러대까지 올랐고, 미국 4월 PPI는 전년 대비 6%대로 재가속했다. 미국 10년물은 4.6% 위를 건드렸고, 원/달러는 1,500원대에 머물렀다. 이런 환경에서는 종목 thesis만 보고 매수하면 손실 확률이 높다. 회복은 가능하지만, 그 출발점은 "경기가 강하다"가 아니라 "더 나빠지지 않는다"는 확인이다.*
 

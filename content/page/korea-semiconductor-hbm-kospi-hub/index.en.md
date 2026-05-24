@@ -5,7 +5,7 @@ date: 2026-04-30T23:05:00+09:00
 aliases: ["/hbm/", "/semiconductor/", "/samsung-hynix/", "/kospi-hbm/", "/en/hbm/", "/en/semiconductor/", "/en/samsung-hynix/", "/en/kospi-hbm/", "/en/page/korea-semiconductor-hbm-kospi-hub/", "/es/page/korea-semiconductor-hbm-kospi-hub/", "/vi/page/korea-semiconductor-hbm-kospi-hub/", "/fr/page/korea-semiconductor-hbm-kospi-hub/", "/ja/page/korea-semiconductor-hbm-kospi-hub/", "/zh/page/korea-semiconductor-hbm-kospi-hub/"]
 layout: "page"
 description: "AI HBM hub for Samsung Electronics, SK Hynix, HBM, AI memory and KOSPI concentration. Covers HBM market share, Samsung's KOSPI weight, Korean semiconductor exposure and the 2026 KOSPI re-rating thesis."
-lastmod: 2026-05-24T21:45:00+09:00
+lastmod: 2026-05-24T23:55:00+09:00
 ---
 
 ## One-Line Thesis
@@ -24,6 +24,7 @@ Korean semiconductor exposure is not one trade. It combines **SK Hynix's HBM lea
 | Why is HBM a bottleneck from a chip-design perspective? | AI performance is less about headline FLOPS and more about how close data sits to compute. HBM is the common memory bottleneck for GPUs and custom ASICs, and it pulls FC-BGA, PCBs and power-integrity parts into the same thesis. | [AI chip design and the data-movement bottleneck](/post/ai-chip-design-data-movement-fcbga-bottleneck-2026-05-24/) |
 | What do Marvell and Broadcom earnings mean for HBM? | If custom AI chips and AI Ethernet networking stay strong, HBM demand broadens beyond Nvidia GPUs into Broadcom XPUs, Google TPUs, OpenAI accelerators and Marvell custom silicon. | [Marvell and Broadcom earnings preview for Korea's AI bottlenecks](/post/marvell-broadcom-earnings-korea-ai-bottleneck-preview-2026-05-23/) |
 | What does Korea's global No. 6 market-cap headline mean for HBM? | It is not a buy button. It is a signal to verify Samsung + SK hynix AI-memory earnings durability and KOSPI concentration risk. | [Why Korea Part 5: Global No. 6 Market Cap](/post/why-korea-market-cap-global-six-ai-memory-rerating-2026-05-24/) |
+| Does foreign selling in Samsung and SK Hynix kill the HBM thesis? | Not by itself. Most 2026 foreign selling was concentrated in the two memory mega-caps, but domestic liquidity absorbed the supply. The discipline is to wait for foreign re-buying or ownership recovery before chasing. | [Korea Foreign Investor Flow Analysis](/post/korea-foreign-investor-flow-memory-megacap-rotation-2026-05-24/) |
 | How can foreign investors access Korean AI memory stocks? | Start with the access map, then move from KOSPI heavyweights into HBM, equipment and substrate names. Broker availability depends on country and account type. | [Korea Stocks for Foreign Investors Hub](/page/korea-stocks-foreign-investors-hub/) |
 | Why is KOSPI being re-rated in 2026? | HBM earnings, governance reform and global allocation away from crowded US exposure are working together to compress Korea's discount. | [Korea 2026 Re-Rating](/post/korea-outperformance-2026-structural-rerating-2026-04-24/) |
 | Why did Samsung jump +14.4% and SK Hynix +10.6% on May 6? | ₩3.1T foreign net buying on Samsung in a single session, re-pricing "AI memory bottleneck at NVIDIA / TSMC discount." Spread to AI substrate (Daeduck +9.62%, Simmtech +6.35%) and front-end equipment (Wonik IPS, Eugene Tech, KC Tech). | [Korean Semis Rally May 6: Samsung + SK Hynix + Substrate + Equipment](/post/korean-semis-rally-may-6-samsung-sk-hynix-substrate-equipment-2026-05-07/) |
@@ -35,6 +36,7 @@ Korean semiconductor exposure is not one trade. It combines **SK Hynix's HBM lea
 | Date | Topic | Read |
 |---|---|---|
 | 2026-05-24 | **Korea market cap near global No. 6 and AI-memory concentration** — cross-checking WFE, CEIC, KRX and a Research OS proxy to explain why the headline is mainly a Samsung + SK hynix AI-memory re-rating | [Why Korea Part 5: Global No. 6 Market Cap](/post/why-korea-market-cap-global-six-ai-memory-rerating-2026-05-24/) |
+| 2026-05-24 | **Foreign-flow distribution in Korea's memory mega-caps** — breaking down why KRW 84.8T of the KRW 89.2T YTD foreign net selling came from Samsung Electronics and SK hynix | [Korea Foreign Investor Flow Analysis](/post/korea-foreign-investor-flow-memory-megacap-rotation-2026-05-24/) |
 | 2026-05-24 | **After NVIDIA, the AI semiconductor bottleneck** — translating Dwarkesh/Reiner Pope's chip-design discussion into an investment frame: AI performance is moving from headline FLOPS into data movement, HBM, FC-BGA, power integrity and testing | [AI chip design and Korea's lower-stack bottlenecks](/post/ai-chip-design-data-movement-fcbga-bottleneck-2026-05-24/) |
 | 2026-05-23 | **Marvell and Broadcom earnings preview** — using Broadcom's $10.7B AI semiconductor guide and Marvell's 74% data-center revenue mix to test whether Korea's AI read-through expands from HBM into custom ASICs, Ethernet, optical links and Samsung Electro-Mechanics silicon capacitors | [Marvell / Broadcom and Korea's AI bottlenecks](/post/marvell-broadcom-earnings-korea-ai-bottleneck-preview-2026-05-23/) |
 | 2026-05-17 | **US-China summit and technology decoupling** — separating Korea's short-term memory upside from long-term standard fragmentation risk through the H200 refusal, Huawei CloudMatrix and ITIF's USD 21B Korea absorption estimate | [US-China tech decoupling and Korean semiconductors](/post/us-china-summit-tech-decoupling-korea-impact-2026-05-17/) |
@@ -57,6 +59,7 @@ Korean semiconductor exposure is not one trade. It combines **SK Hynix's HBM lea
 | 4 | Why is SK Hynix central to AI infrastructure? | [SK Hynix: The HBM Leader Powering the AI Revolution](/post/kr-deep-dive-sk-hynix-2026-04-16/) |
 | 5 | Why is Korea being re-rated? | [Korea 2026: Why KOSPI +49% YTD Is a Re-Rating, Not a Rally](/post/korea-outperformance-2026-structural-rerating-2026-04-24/) |
 | 6 | Is Korea's global No. 6 market-cap headline a buy signal? | [Why Korea Part 5: Global No. 6 Market Cap](/post/why-korea-market-cap-global-six-ai-memory-rerating-2026-05-24/) |
+| 7 | Is foreign selling a HBM thesis break or position reduction? | [Korea Foreign Investor Flow Analysis](/post/korea-foreign-investor-flow-memory-megacap-rotation-2026-05-24/) |
 
 ---
 
@@ -74,6 +77,7 @@ Korean semiconductor exposure is not one trade. It combines **SK Hynix's HBM lea
 
 - [Samsung Electronics Weight in KOSPI: 2026 Index Concentration Explained](/post/samsung-electronics-weight-in-kospi-index-2026/)
 - [Why Korea Part 5: Korea's Stock Market Is Now Near Global No. 6](/post/why-korea-market-cap-global-six-ai-memory-rerating-2026-05-24/)
+- [Korea Foreign Investor Flows: 95% of the selling came from Samsung and SK hynix](/post/korea-foreign-investor-flow-memory-megacap-rotation-2026-05-24/)
 - [Korea 2026: Why KOSPI +49% YTD Is a Re-Rating, Not a Rally](/post/korea-outperformance-2026-structural-rerating-2026-04-24/)
 - [KOSPI Focus Stocks: April 2026 Strategy](/post/kr-concentrated-weekly-2026-04-24/)
 

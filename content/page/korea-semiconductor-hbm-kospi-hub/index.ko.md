@@ -5,7 +5,7 @@ date: 2026-04-30T23:05:00+09:00
 aliases: ["/ko/hbm/", "/ko/semiconductor/", "/ko/samsung-hynix/", "/ko/kospi-hbm/", "/ko/page/hbm/"]
 layout: "page"
 description: "AI HBM 허브. 삼성전자, SK하이닉스, HBM, AI 메모리, 코스피 지수 쏠림과 한국 반도체 투자 논거를 한곳에 모은 리서치 허브. HBM 시장점유율, 삼성전자 코스피 비중, KOSPI 리레이팅, AI 서버 수요를 순서대로 정리한다."
-lastmod: 2026-05-24T21:45:00+09:00
+lastmod: 2026-05-24T23:55:00+09:00
 ---
 
 ## 한 줄 결론
@@ -25,6 +25,7 @@ lastmod: 2026-05-24T21:45:00+09:00
 | AI 칩 설계 관점에서 HBM은 왜 병목인가 | AI 성능은 초당 연산량보다 데이터를 얼마나 가까운 곳에서, 얼마나 덜 움직이는지가 중요하다. 그래서 HBM은 GPU·맞춤형 ASIC 공통 병목이고, 그 아래 FC-BGA·PCB·전력 안정화 부품까지 같이 봐야 한다. | [AI 칩 설계와 데이터 이동 병목](/ko/post/ai-chip-design-data-movement-fcbga-bottleneck-2026-05-24/) |
 | 마벨·브로드컴 실적은 HBM 투자에 어떤 의미인가 | AI 맞춤형 칩과 이더넷 네트워크가 강하면 HBM 수요는 NVIDIA GPU 단일 고객 의존이 아니라 Broadcom XPU·Google TPU·OpenAI accelerator·Marvell custom silicon까지 넓어진다. | [마벨·브로드컴 실적 전 한국 반도체 병목 점검](/ko/post/marvell-broadcom-earnings-korea-ai-bottleneck-preview-2026-05-23/) |
 | 한국 증시 시총 세계 6위는 HBM 투자에 어떤 의미인가 | 세계 6위 헤드라인은 매수 신호가 아니라 삼성전자·SK하이닉스 AI 메모리 이익 지속성과 KOSPI 집중도를 검증하라는 신호다. | [Why Korea 5편: 한국 시총 세계 6위](/ko/post/why-korea-market-cap-global-six-ai-memory-rerating-2026-05-24/) |
+| 외국인이 삼성전자·SK하이닉스를 팔고 있다면 HBM 투자는 끝났나 | 아니다. 2026년 외국인 순매도 대부분은 두 메모리 대형주 비중 축소지만, 가격은 국내 유동성이 흡수했다. 추격보다 외국인 재매수·지분율 회복을 확인해야 한다. | [한국증시 외국인 수급 분석](/ko/post/korea-foreign-investor-flow-memory-megacap-rotation-2026-05-24/) |
 | 해외 투자자는 한국 AI 메모리 주식에 어떻게 접근하나요 | 먼저 해외 투자자 접근 지도를 확인하고, KOSPI 대형주에서 HBM·장비·기판 종목으로 확장하는 순서가 좋다. 실제 매매 가능 여부는 국가와 계좌 유형에 따라 다르다. | [해외 투자자용 한국 주식 허브](/ko/page/korea-stocks-foreign-investors-hub/) |
 | KOSPI 2026 리레이팅의 핵심 동력은 무엇인가 | HBM 슈퍼사이클, 지배구조 개혁, Sell America 로테이션이 동시에 작동하면서 한국 시장의 할인율이 낮아지는 구조다. | [2026년 한국 리레이팅](/ko/post/korea-outperformance-2026-structural-rerating-2026-04-24/) |
 | 5월 6일 삼성전자 +14.4%, SK하이닉스 +10.6% 급등 이유는? | 외국인 단일 세션 ₩3.1조 삼성전자 순매수가 'AI 메모리 병목을 NVIDIA / TSMC 할인 가격에 사는' 거래를 재가격화. 그 다음 AI 기판(대덕전자 +9.62%, 심텍 +6.35%)과 전공정 장비(원익IPS, 유진테크, 케이씨텍)로 확산. | [한국 반도체 5월 6일 랠리: 삼성전자·SK하이닉스·기판·장비](/ko/post/korean-semis-rally-may-6-samsung-sk-hynix-substrate-equipment-2026-05-07/) |
@@ -36,6 +37,7 @@ lastmod: 2026-05-24T21:45:00+09:00
 | 날짜 | 주제 | 자세히 보기 |
 |---|---|---|
 | 2026-05-24 | **한국 시총 세계 6위와 AI 메모리 집중도** — WFE·CEIC·KRX·Research OS proxy로 한국 4조 달러대 후반 시총 헤드라인을 검증하고, 삼성전자·SK하이닉스 집중도가 KOSPI 리레이팅을 어떻게 설명하는지 정리 | [Why Korea 5편: 한국 시총 세계 6위](/ko/post/why-korea-market-cap-global-six-ai-memory-rerating-2026-05-24/) |
+| 2026-05-24 | **외국인 수급으로 본 메모리 대형주 분배** — 전체 외국인 순매도 -89.2조원 중 삼성전자·SK하이닉스가 -84.8조원을 차지한 구조를 분해하고, HBM 대장주 추격보다 보유 관리가 맞는 이유를 정리 | [한국증시 외국인 수급 분석](/ko/post/korea-foreign-investor-flow-memory-megacap-rotation-2026-05-24/) |
 | 2026-05-24 | **엔비디아 이후 AI 반도체 병목** — Dwarkesh/Reiner Pope의 칩 설계 설명을 투자 언어로 번역해, AI 성능 경쟁이 초당 연산량보다 데이터 이동·HBM·FC-BGA·전력 안정화·테스트 병목으로 내려오고 있음을 정리 | [AI 칩 설계와 한국 반도체 하부 병목](/ko/post/ai-chip-design-data-movement-fcbga-bottleneck-2026-05-24/) |
 | 2026-05-23 | **마벨·브로드컴 실적 전 한국 반도체 병목 점검** — Broadcom AI 반도체 107억 달러 가이던스와 Marvell 데이터센터 74% 매출 구조를 기준으로 HBM, 맞춤형 ASIC, 이더넷, 광연결, 삼성전기 실리콘 커패시터까지 수혜 확산 여부 점검 | [마벨·브로드컴 실적 프리뷰와 한국 AI 병목](/ko/post/marvell-broadcom-earnings-korea-ai-bottleneck-preview-2026-05-23/) |
 | 2026-05-21 | **엔비디아 VR200 부품 원가표 검산** — GB300 대비 VR200 증가분에서 메모리가 42.7%, GPU가 37.8%를 차지한다는 모건스탠리 추정치를 검산하고 HBM4·LPDDR5X·SOCAMM, PCB, 실리콘 커패시터의 우선순위를 재정리 | [VR200 부품 원가와 한국 메모리·기판 알파](/ko/post/vera-rubin-vr200-bom-memory-pcb-mlcc-korea-alpha-2026-05-21/) |
@@ -60,6 +62,7 @@ lastmod: 2026-05-24T21:45:00+09:00
 | 4 | SK하이닉스가 AI 인프라 핵심 공급자가 된 이유는 무엇인가 | [SK하이닉스: AI 혁명을 이끄는 HBM 절대강자](/ko/post/kr-deep-dive-sk-hynix-2026-04-16/) |
 | 5 | 한국 시장 전체를 왜 리레이팅으로 봐야 하나 | [2026년 한국 리레이팅: KOSPI +49%는 단순 랠리가 아니다](/ko/post/korea-outperformance-2026-structural-rerating-2026-04-24/) |
 | 6 | 한국 시총 세계 6위 헤드라인은 매수 신호인가 | [Why Korea 5편: 한국 시총 세계 6위](/ko/post/why-korea-market-cap-global-six-ai-memory-rerating-2026-05-24/) |
+| 7 | 외국인 매도는 HBM thesis 훼손인가, 비중 조절인가 | [한국증시 외국인 수급 분석](/ko/post/korea-foreign-investor-flow-memory-megacap-rotation-2026-05-24/) |
 
 ---
 
@@ -78,6 +81,7 @@ lastmod: 2026-05-24T21:45:00+09:00
 
 - [삼성전자 코스피 비중: 2026년 지수 쏠림 현상 완전 해설](/ko/post/samsung-electronics-weight-in-kospi-index-2026/)
 - [Why Korea 5편: 한국 증시 시총 세계 6위 — 4.9조 달러 리레이팅은 매수 신호인가, 경고등인가](/ko/post/why-korea-market-cap-global-six-ai-memory-rerating-2026-05-24/)
+- [한국증시 외국인 수급 분석: -89조원 매도의 95%는 삼성전자·SK하이닉스였다](/ko/post/korea-foreign-investor-flow-memory-megacap-rotation-2026-05-24/)
 - [2026년 한국 리레이팅: KOSPI +49%는 단순 랠리가 아니다](/ko/post/korea-outperformance-2026-structural-rerating-2026-04-24/)
 - [KOSPI Focus Stocks: April 2026 Strategy](/ko/post/kr-concentrated-weekly-2026-04-24/)
 

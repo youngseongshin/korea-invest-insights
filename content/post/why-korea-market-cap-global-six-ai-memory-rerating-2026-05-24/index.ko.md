@@ -19,7 +19,7 @@ tags:
 series: ["why-korea", "korea-rerating-2026"]
 ---
 
-> **Why Korea 시리즈 5편.** 1편은 [반도체 기판](/ko/post/why-korea-semiconductor-substrate-competitive-edge-2026-05-07/), 2편은 [K-뷰티](/ko/post/why-korea-cosmetics-global-competitiveness-2026-05-07/), 3편은 [삼성전자·SK하이닉스 이익 레버리지](/ko/post/samsung-sk-hynix-korea-ai-economy-rerating-2026-05-09/), 4편은 [67억 달러 한국 ETF 유입과 밸류 트랩 논쟁](/ko/post/korea-67-billion-etf-inflow-korea-discount-or-value-trap-2026-05-09/)이었다. 이번 글은 그 결과물인 **한국 증시 시가총액 급팽창**을 다룬다. 기존 [2026년 한국 리레이팅](/ko/post/korea-outperformance-2026-structural-rerating-2026-04-24/)과 [삼성전자 KOSPI 비중](/ko/post/samsung-electronics-weight-in-kospi-index-2026/)의 후속편이다.
+> **Why Korea 시리즈 5편.** 1편은 [반도체 기판](/ko/post/why-korea-semiconductor-substrate-competitive-edge-2026-05-07/), 2편은 [K-뷰티](/ko/post/why-korea-cosmetics-global-competitiveness-2026-05-07/), 3편은 [삼성전자·SK하이닉스 이익 레버리지](/ko/post/samsung-sk-hynix-korea-ai-economy-rerating-2026-05-09/), 4편은 [67억 달러 한국 ETF 유입과 밸류 트랩 논쟁](/ko/post/korea-67-billion-etf-inflow-korea-discount-or-value-trap-2026-05-09/)이었다. 이번 글은 그 결과물인 **한국 증시 시가총액 급팽창**을 다룬다. 기존 [2026년 한국 리레이팅](/ko/post/korea-outperformance-2026-structural-rerating-2026-04-24/)과 [삼성전자 KOSPI 비중](/ko/post/samsung-electronics-weight-in-kospi-index-2026/)의 후속편이다. 수급 후속편은 [한국증시 외국인 수급 분석](/ko/post/korea-foreign-investor-flow-memory-megacap-rotation-2026-05-24/)에서 분리해 다뤘다.
 
 ## TL;DR
 
@@ -184,4 +184,3 @@ Research OS proxy로 보면 2026년 5월 22일 기준 대형 반도체 집중도
 
 * 위키 표의 GDP 대비 **190%**는 원자료 GDP 분모·환율·포함 시장 기준 확인 전까지 확정 지표로 쓰기 어렵다.
 * Research OS local DB proxy는 외국인 보유주식수와 지분율로 역산한 값이므로 공식 KRX 시총과 다를 수 있다.
-

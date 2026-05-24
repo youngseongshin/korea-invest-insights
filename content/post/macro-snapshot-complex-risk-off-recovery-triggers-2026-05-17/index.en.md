@@ -22,7 +22,7 @@ valley_cashtags:
 ---
 
 > 📚 **Related Series**
-> [US-China Summit Tech Decoupling Analysis](/post/us-china-summit-tech-decoupling-korea-impact-2026-05-17/) / [CloudMatrix Korean Alpha Analysis](/post/cloudmatrix-expansion-korea-alpha-inspection-consumables-2026-05-17/) / [Long-Rate Stabilization Triggers](/post/us-japan-long-rate-stabilization-triggers-2026-05-16/) / [Macro Cycle Synthesis](/post/2026-q2-macro-cycle-synthesis-2026-05-15/)
+> [US-China Summit Tech Decoupling Analysis](/post/us-china-summit-tech-decoupling-korea-impact-2026-05-17/) / [CloudMatrix Korean Alpha Analysis](/post/cloudmatrix-expansion-korea-alpha-inspection-consumables-2026-05-17/) / [Long-Rate Stabilization Triggers](/post/us-japan-long-rate-stabilization-triggers-2026-05-16/) / [Macro Cycle Synthesis](/post/2026-q2-macro-cycle-synthesis-2026-05-15/) / [Korea Foreign Investor Flow Analysis](/post/korea-foreign-investor-flow-memory-megacap-rotation-2026-05-24/)
 
 *Markets wobbled in the latter half of last week — and not from a simple rate shock. An oil price surge, rising long-term real rates, dollar strength, crowded AI positioning, and weak Chinese credit all moved in the same direction at the same time, producing a five-layer complex risk-off. WTI touched the $105 range; Brent, $109. US April PPI re-accelerated to roughly +6% YoY. The 10-year Treasury threatened 4.6%, and USD/KRW stayed anchored in the 1,500s. In this environment, buying on stock-level thesis alone raises the probability of loss. Recovery is possible, but its starting point is not "the economy is strong" — it is confirmation that things are not getting any worse.*
 
@@ -292,4 +292,3 @@ This correction is not a confirmed structural bear market. But it is also not a 
 * Reuters, [China wants Strait of Hormuz open free of curbs](https://www.reuters.com/world/china/china-wants-strait-hormuz-open-without-restrictions-ustr-greer-tells-bloomberg-2026-05-15/)
 
 *This post is intended solely for research and commentary purposes and does not constitute investment advice. Data on WTI, Brent, US PPI, China new RMB loans, G7 schedule, Fed chair pro tempore designation, Warsh swearing-in pending status, and RMP/SRF/Treasury/eSLR details are based on public reporting and official sources. Scenario probabilities, the 7 recovery triggers, asset weight guidance, and Korean stock classifications represent the analyst's subjective framework and may differ from actual outcomes. Hormuz passage normalization, G7 communiqué content, Warsh Fed operating style, and Chinese credit stabilization are all uncertain. The global macro environment can change daily and this analysis may prove incorrect. Data as of May 17, 2026 KST.*
-
