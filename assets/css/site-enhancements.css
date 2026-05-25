@@ -624,6 +624,85 @@ body {
   }
 }
 
+/* ── Tables — research polish (extends the base above) ──
+   Adds row hover, automatic row-highlight when the leading cell is bold
+   (the site's markdown convention for "기준 / Base / Recommended" rows),
+   bolder first-column label, optional caption styling, and a total-row
+   treatment when the final row consists entirely of bold cells. */
+
+.article-content .table-wrapper tbody tr {
+  transition: background-color 0.12s ease;
+}
+
+.article-content .table-wrapper tbody tr:hover {
+  background-color: rgba(37, 99, 235, 0.06);
+}
+
+[data-scheme="dark"] .article-content .table-wrapper tbody tr:hover {
+  background-color: rgba(88, 166, 255, 0.10);
+}
+
+/* Highlighted row — fires when the very first body cell starts with
+   <strong> (e.g. "| **기본** | ..." in markdown). */
+.article-content .table-wrapper tbody tr:has(> td:first-child > strong:first-child) {
+  background-color: rgba(37, 99, 235, 0.085);
+}
+
+[data-scheme="dark"] .article-content .table-wrapper tbody tr:has(> td:first-child > strong:first-child) {
+  background-color: rgba(88, 166, 255, 0.14);
+}
+
+.article-content .table-wrapper tbody tr:has(> td:first-child > strong:first-child) > td {
+  font-weight: 600;
+  color: var(--card-text-color-main);
+}
+
+/* First-column label — slightly heavier than body so the row reads as
+   "label : value" even when the label cell isn't itself bold. */
+.article-content .table-wrapper tbody > tr > td:first-child {
+  color: var(--card-text-color-main);
+  font-weight: 550;
+}
+
+/* Caption (only when author writes an explicit <caption>). */
+.article-content .table-wrapper > table > caption {
+  caption-side: top;
+  padding: 0.25rem 0.4rem 0.7rem;
+  font-size: 0.92em;
+  line-height: 1.5;
+  color: var(--card-text-color-secondary);
+  font-style: italic;
+  text-align: left;
+}
+
+/* Total / footer row — when the last body row's cells are ALL strong-only,
+   treat it as a totals row with an accent divider. */
+.article-content .table-wrapper tbody tr:last-child:not(:first-child):has(> td:not(:has(strong))) {
+  /* skip: row has a non-strong cell, do nothing */
+}
+.article-content .table-wrapper tbody tr:last-child:not(:first-child):not(:has(> td:not(:has(strong)))) > td {
+  border-top: 2px solid var(--accent-color, #2563eb);
+  background-color: rgba(37, 99, 235, 0.07);
+  font-weight: 700;
+  color: var(--card-text-color-main);
+}
+
+[data-scheme="dark"] .article-content .table-wrapper tbody tr:last-child:not(:first-child):not(:has(> td:not(:has(strong)))) > td {
+  border-top-color: var(--accent-color, #58a6ff);
+  background-color: rgba(88, 166, 255, 0.12);
+}
+
+/* Compact dense-table variant — opt-in via class="dense" on the
+   surrounding wrapper or <table> for very tall scenario / sensitivity
+   tables. Reduces padding 25%. */
+.article-content .table-wrapper.dense > table th,
+.article-content .table-wrapper.dense > table td,
+.article-content table.dense th,
+.article-content table.dense td {
+  padding-top: 0.42rem;
+  padding-bottom: 0.42rem;
+}
+
 /* ── Code blocks: better mobile + horizontal scroll cue ── */
 .article-content .highlight,
 .article-content pre {
