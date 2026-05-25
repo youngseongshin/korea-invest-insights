@@ -124,8 +124,8 @@ body {
 .home-hubs,
 .widget,
 .widget--toc {
-  border: 1px solid var(--card-separator-color, rgba(15, 23, 42, 0.08));
-  box-shadow: 0 10px 28px rgba(15, 23, 42, 0.045);
+  border: 1px solid transparent;
+  box-shadow: 0 12px 30px rgba(15, 23, 42, 0.052);
 }
 
 [data-scheme="dark"] .article-page .main-article,
@@ -133,7 +133,7 @@ body {
 [data-scheme="dark"] .home-hubs,
 [data-scheme="dark"] .widget,
 [data-scheme="dark"] .widget--toc {
-  border-color: rgba(240, 246, 252, 0.1);
+  border-color: transparent;
   box-shadow: 0 12px 32px rgba(0, 0, 0, 0.34);
 }
 
@@ -467,14 +467,14 @@ body {
   align-items: center;
   justify-content: space-between;
   gap: 1rem;
-  border: 1px solid var(--card-separator-color, rgba(15, 23, 42, 0.08));
+  border: 1px solid transparent;
   border-radius: 8px;
   background: var(--card-background, #fff);
   box-shadow: var(--shadow-l1, 0 4px 6px rgba(15, 23, 42, 0.04));
 }
 
 [data-scheme="dark"] .post-recommendation {
-  border-color: rgba(240, 246, 252, 0.12);
+  border-color: transparent;
   background: #1f2733;
 }
 
@@ -853,19 +853,19 @@ body {
 .home-hub-card {
   display: block;
   padding: 1rem 1.1rem;
-  border: 1px solid var(--card-separator-color, rgba(0, 0, 0, 0.06));
+  border: 1px solid transparent;
   border-radius: 8px;
   text-decoration: none;
   color: var(--body-text-color, inherit);
   transition: transform 0.15s ease, box-shadow 0.15s ease, border-color 0.15s ease, background-color 0.15s ease;
-  background: var(--body-background, transparent);
+  background: rgba(15, 23, 42, 0.025);
 }
 
 [data-scheme="dark"] .home-hub-card {
   /* Lift the card a clear step above the surrounding .home-hubs panel
      (which sits at --card-background = #161b22) so the card edges read
      in dark mode. */
-  border-color: rgba(240, 246, 252, 0.18);
+  border-color: transparent;
   background: #1f2733;
   color: var(--card-text-color-main, #f0f6fc);
 }
@@ -1311,7 +1311,8 @@ body {
   justify-content: space-between;
   gap: 0.6rem;
   padding: 0.55rem 0.2rem;
-  border-bottom: 1px solid var(--card-separator-color, rgba(15, 23, 42, 0.06));
+  border: 0;
+  border-bottom: 1px solid rgba(15, 23, 42, 0.055);
   color: var(--card-text-color-main);
   text-decoration: none;
   transition: color 0.15s ease, background-color 0.15s ease;
@@ -1351,9 +1352,9 @@ body {
   display: inline-flex;
   align-items: center;
   padding: 0.32rem 0.7rem;
-  border: 1px solid var(--card-separator-color, rgba(15, 23, 42, 0.1));
+  border: 1px solid transparent;
   border-radius: 5px;
-  background: transparent;
+  background: rgba(15, 23, 42, 0.028);
   color: var(--card-text-color-secondary);
   font-size: 1.02rem;
   font-weight: 500;
@@ -1372,6 +1373,10 @@ body {
   color: var(--accent-color, #58a6ff);
   border-color: var(--accent-color, #58a6ff);
   background: rgba(88, 166, 255, 0.08);
+}
+
+[data-scheme="dark"] .widget.tagCloud .tagCloud-tags a {
+  background: rgba(240, 246, 252, 0.055);
 }
 
 /* Widget title — a touch more weight, single accent underline. */
