@@ -137,7 +137,7 @@ SHI facture principalement en dollars américains mais supporte la majorité de 
 
 *Remarque : La discussion suivante s'appuie sur des données de marché publiquement disponibles et des estimations d'analystes. Elle ne constitue pas un objectif de cours ni une recommandation.*
 
-Samsung Heavy Industries est cotée au KOSPI sous le ticker 010140.KS. En tant qu'entreprise industrielle cyclique et capitalistique qui émerge d'un creux, le cadre de valorisation le plus pertinent est le **Price-to-Book (P/B)** et l'**EV/EBITDA** par rapport au cycle de la construction navale.
+Samsung Heavy Industries est cotée au KOSPI sous le ticker 010140.KS. En tant qu'entreprise industrielle cyclique et capitalistique qui émerge d'un creux, le cadre de valorisation le plus pertinent est le **Price-to-Book (P/B)<strong> et l'</strong>EV/EBITDA** par rapport au cycle de la construction navale.
 
 **Contexte historique :**
 - Au pic du boom de la construction navale de 2008, les chantiers coréens se traitaient à des multiples P/B de 2,5 à 4,0x

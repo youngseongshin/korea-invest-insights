@@ -301,6 +301,12 @@ buildFuture = true  # 장마감 브리핑(16:30 KST) 등 발행 시각보다 살
   [markup.goldmark]
     [markup.goldmark.renderer]
       unsafe = true
+    # Disable single-tilde strikethrough — Hugo 0.159 treats single `~`
+    # as <del> by default, which mangles Korean numeric ranges like
+    # "2021~2022년 49~50%대" into "2021<del>2022년 49</del>50%대".
+    # We do not use ~~double-tilde~~ anywhere, so disabling is safe.
+    [markup.goldmark.extensions]
+      strikethrough = false
 
 [outputs]
   home = ["HTML", "RSS", "JSON"]

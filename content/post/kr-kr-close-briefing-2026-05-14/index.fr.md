@@ -70,7 +70,7 @@ Le rachat-annulation est un signal de politique de retour aux actionnaires clair
 
 ## Secteurs porteurs et catalyseurs pour demain
 
-Les forces du jour se concentrent dans les **semi-conducteurs et la mémoire**, l'**agroalimentaire/consommation**, et les **assurances/valeurs financières**. Les secteurs à la traîne sont la **construction navale**, les **machines industrielles** et les **utilities** (électricité-gaz).
+Les forces du jour se concentrent dans les **semi-conducteurs et la mémoire<strong>, l'</strong>agroalimentaire/consommation**, et les **assurances/valeurs financières**. Les secteurs à la traîne sont la **construction navale**, les **machines industrielles** et les **utilities** (électricité-gaz).
 
 Pour la séance du 15 mai, quatre questions structurent le suivi :
 

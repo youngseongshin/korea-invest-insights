@@ -90,7 +90,7 @@ _倍率は直近3年間の安値から高値。「n/m」＝意味なし（赤字
 27銘柄のうち：
 
 - **74%はスクリーニング時点で黒字**。「宝くじ的な赤字株」のステレオタイプが当てはまるのはバイオテッククラスターだけだ。
-- **7銘柄**が事前に**ROE ≥ 40%**を達成：Isu Petasys、SK Hynix、Samyang Foods、HD Hyundai Marine Engine、HD Hyundai Electric、Hyosung Heavy（境界値）、Alteogen（黒字化後）。純粋なROE≥40%スクリーンで、コア産業株の勝者群を引き出せた。
+- **7銘柄**が事前に<strong>ROE ≥ 40%</strong>を達成：Isu Petasys、SK Hynix、Samyang Foods、HD Hyundai Marine Engine、HD Hyundai Electric、Hyosung Heavy（境界値）、Alteogen（黒字化後）。純粋なROE≥40%スクリーンで、コア産業株の勝者群を引き出せた。
 - **8銘柄**が事前に**P/E ≤ 15**を達成：Woori Financial、SK Square、SK Hynix、Kiwoom Securities、HD Hyundai Marine Engine、Simmtech、Isu Petasys、Hyosung Heavy。「割安かつ複利成長」は韓国でも神話ではない——ただし希少だ。
 - **交差条件（ROE≥40 かつ P/E≤15）：** **5銘柄。** 2,613銘柄中5銘柄——基準ベースレートは0.19%だが、このスクリーン内ではヒット率100%。
 

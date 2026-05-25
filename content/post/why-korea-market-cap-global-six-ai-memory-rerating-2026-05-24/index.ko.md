@@ -25,7 +25,7 @@ series: ["why-korea", "korea-rerating-2026"]
 
 * 한국 증시 시가총액 급등은 **방향성상 사실**이다. WFE 기준 KRX 국내 상장사 시총은 2025년 12월 **2.67조 달러**였고, 전년 말 대비 **+71.4% 달러 기준** 증가했다. CEIC는 2026년 2월 한국 시총을 **4.03조 달러**로 제시한다.
 * 위키 기반 표의 **한국 4.89조 달러 / 세계 6위 / GDP 대비 190%** 숫자는 최근 추가 상승을 반영한 스냅샷으로 볼 수 있다. 다만 GDP 대비 190%는 원자료의 GDP 분모와 환율 기준을 확인하기 전까지 그대로 쓰면 위험하다.
-* Research OS local DB proxy 기준 2026년 5월 22일 KRX 상장주식 시총은 약 **6,851조 원**이다. 이 중 삼성전자와 SK하이닉스 proxy 합산이 약 **3,093조 원**, 전체의 **45.1%**다. 즉 헤드라인은 “한국 전체 재평가”라기보다 **AI 메모리 초대형주 압축 리레이팅**에 가깝다.
+* Research OS local DB proxy 기준 2026년 5월 22일 KRX 상장주식 시총은 약 **6,851조 원**이다. 이 중 삼성전자와 SK하이닉스 proxy 합산이 약 **3,093조 원**, 전체의 <strong>45.1%</strong>다. 즉 헤드라인은 “한국 전체 재평가”라기보다 **AI 메모리 초대형주 압축 리레이팅**에 가깝다.
 * 투자 결론은 **한국 시장 전체 추격매수보다 AI 메모리 이익 지속성 + 수급 확산 확인**이다. 세계 6위 헤드라인은 알파가 아니라 후행 트로피다. 알파는 이익 추정이 아직 덜 올라간 병목 밸류체인과 코스닥 우량주로 확산될 때 나온다.
 
 ## 1. 숫자부터 다시 보자
@@ -51,13 +51,13 @@ series: ["why-korea", "korea-rerating-2026"]
 
 ## 2. GDP 대비 190%는 조심해서 써야 한다
 
-위키 표에는 한국 시총이 GDP 대비 **190%**로 표시된다. 이 숫자를 단순 역산하면 GDP 분모는 다음과 같다.
+위키 표에는 한국 시총이 GDP 대비 <strong>190%</strong>로 표시된다. 이 숫자를 단순 역산하면 GDP 분모는 다음과 같다.
 
 ```text
 implied GDP = 4.89조 달러 / 1.90 = 2.57조 달러
 ```
 
-그런데 CEIC는 2025년 말 한국 시총/GDP를 **149.6%**로 제시한다. CEIC의 방법론은 KOSPI + KOSDAQ 원화 시총을 한국은행 명목 GDP로 나누는 구조다. 2026년 들어 시총이 더 올랐으니 149.6%보다 높아졌을 수는 있다. 다만 **190%라는 숫자는 원자료의 GDP 분모, 환율, 포함 시장, 기준일을 확인해야 한다.**
+그런데 CEIC는 2025년 말 한국 시총/GDP를 <strong>149.6%</strong>로 제시한다. CEIC의 방법론은 KOSPI + KOSDAQ 원화 시총을 한국은행 명목 GDP로 나누는 구조다. 2026년 들어 시총이 더 올랐으니 149.6%보다 높아졌을 수는 있다. 다만 **190%라는 숫자는 원자료의 GDP 분모, 환율, 포함 시장, 기준일을 확인해야 한다.**
 
 투자 판단에서는 이렇게 쓰는 게 안전하다.
 
@@ -75,7 +75,7 @@ implied GDP = 4.89조 달러 / 1.90 = 2.57조 달러
 | Q, 물량 | AI 서버·custom ASIC·GPU 클러스터 증설 | HBM, DDR5, LPDDR, SOCAMM 수요 기반 확대 |
 | C, 비용 | 고정비 레버리지 | 가격 상승이 영업이익률로 크게 전이 |
 
-Research OS local DB proxy 기준 2026년 5월 22일 삼성전자와 SK하이닉스의 시총 proxy 합산은 약 **3,093조 원**이다. 전체 proxy 6,851조 원의 **45.1%**다.
+Research OS local DB proxy 기준 2026년 5월 22일 삼성전자와 SK하이닉스의 시총 proxy 합산은 약 **3,093조 원**이다. 전체 proxy 6,851조 원의 <strong>45.1%</strong>다.
 
 이 숫자는 공식 KRX 시총이 아니라 외국인 보유주식수와 외국인 지분율로 역산한 proxy다. 그래도 방향은 분명하다. 한국 증시 시총 급등의 절반 가까이는 사실상 **삼성전자 + SK하이닉스**다.
 
@@ -172,7 +172,7 @@ Research OS proxy로 보면 2026년 5월 22일 기준 대형 반도체 집중도
 * CEIC 기준 한국 시총은 2026년 2월 **4.03조 달러**다. ([CEIC](https://www.ceicdata.com/en/indicator/korea/market-capitalization))
 * 2026년 4월 27일 KRX 기준 국내 증시 시총은 장중 **6,031.97조 원**을 돌파했다. ([Asia Business Daily](https://www.asiae.co.kr/en/article/2026042710205999315))
 * KOSPI는 2026년 5월 22일 **7,847.71pt**로 마감했다. ([Seoul Economic Daily](https://en.sedaily.com/finance/2026/05/22/kospi-closes-up-3212-points-at-784771))
-* CEIC 기준 한국 시총/GDP는 2025년 말 **149.6%**다. ([CEIC](https://www.ceicdata.com/en/indicator/korea/market-capitalization--nominal-gdp))
+* CEIC 기준 한국 시총/GDP는 2025년 말 <strong>149.6%</strong>다. ([CEIC](https://www.ceicdata.com/en/indicator/korea/market-capitalization--nominal-gdp))
 
 ### [Inference]
 
@@ -182,5 +182,5 @@ Research OS proxy로 보면 2026년 5월 22일 기준 대형 반도체 집중도
 
 ### [Blocked]
 
-* 위키 표의 GDP 대비 **190%**는 원자료 GDP 분모·환율·포함 시장 기준 확인 전까지 확정 지표로 쓰기 어렵다.
+* 위키 표의 GDP 대비 <strong>190%</strong>는 원자료 GDP 분모·환율·포함 시장 기준 확인 전까지 확정 지표로 쓰기 어렵다.
 * Research OS local DB proxy는 외국인 보유주식수와 지분율로 역산한 값이므로 공식 KRX 시총과 다를 수 있다.

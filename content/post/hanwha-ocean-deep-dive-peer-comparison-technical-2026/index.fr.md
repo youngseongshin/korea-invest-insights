@@ -144,7 +144,7 @@ Le cours actuel **n'est pas une sous-évaluation absolue**, mais plutôt **un pr
 
 ### Timing
 
-**Pas mauvais, mais pas non plus une zone de repli idéale.** En tant que valeur déjà très suivie, la phase « négligée et bon marché » est probablement révolue. Il s'agit plutôt d'**une valeur de conviction en amont d'événements catalyseurs**.
+**Pas mauvais, mais pas non plus une zone de repli idéale.<strong> En tant que valeur déjà très suivie, la phase « négligée et bon marché » est probablement révolue. Il s'agit plutôt d'</strong>une valeur de conviction en amont d'événements catalyseurs**.
 
 ### Concentration
 
@@ -257,7 +257,7 @@ Le graphique de Hanwha Ocean reflète actuellement un état où **la tendance lo
 
 ## 10. Verdict Final
 
-**Hanwha Ocean est une bonne valeur.** Mais l'interprétation correcte à ce prix est celle d'**une « valeur de qualité » plutôt que d'une « valeur bon marché ».**
+**Hanwha Ocean est une bonne valeur.<strong> Mais l'interprétation correcte à ce prix est celle d'</strong>une « valeur de qualité » plutôt que d'une « valeur bon marché ».**
 
 | Élément | Évaluation |
 |------|-----------|

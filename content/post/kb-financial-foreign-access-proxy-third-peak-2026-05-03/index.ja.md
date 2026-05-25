@@ -161,7 +161,7 @@ KBの外国人プレミアムは偶然の産物ではない。四つの独立し
 
 ### 3.1 第1の柱――パッシブ自動組み入れ
 
-KB Financialは**MSCI Korea 25/50インデックスにウェイト2.00%**で採用されている。同インデックスの上位ウェイトはSK hynix 22.84%、Samsung Electronics 22.49%、SK Square 2.80%、Hyundai Motor 2.42%、そして**KB Financial 2.00%**――KBは**インデックス第5位、金融セクター第1位のウェイト**を持つ。
+KB Financialは<strong>MSCI Korea 25/50インデックスにウェイト2.00%</strong>で採用されている。同インデックスの上位ウェイトはSK hynix 22.84%、Samsung Electronics 22.49%、SK Square 2.80%、Hyundai Motor 2.42%、そして**KB Financial 2.00%**――KBは**インデックス第5位、金融セクター第1位のウェイト**を持つ。
 
 EWY（iShares MSCI South Korea ETF）がこのインデックスを追跡しており、AUMは**2026年5月1日時点で209.1億ドル**。
 

@@ -122,7 +122,7 @@ SK hynix opère dans un environnement réglementaire américano-chinois complexe
 
 ## 6. Éléments de valorisation
 
-Valoriser SK hynix exige d'accepter la volatilité des bénéfices cycliques — le multiple P/E fluctue considérablement au gré des cycles mémoire. Une approche plus stable repose sur le **Price-to-Book (P/B)** et l'**EV/EBITDA**.
+Valoriser SK hynix exige d'accepter la volatilité des bénéfices cycliques — le multiple P/E fluctue considérablement au gré des cycles mémoire. Une approche plus stable repose sur le **Price-to-Book (P/B)<strong> et l'</strong>EV/EBITDA**.
 
 Historiquement, SK hynix a oscillé entre 1,0× P/B (creux de cycle) et 3,0–4,0× P/B (sommet de cycle). Début 2026, avec des bénéfices en forte reprise et la HBM qui relève structurellement le plancher de marge, le titre s'est négocié vers le haut de sa fourchette historique de P/B — reflétant le sentiment du marché que ce cycle est qualitativement différent des précédentes reprises de commodités.
 

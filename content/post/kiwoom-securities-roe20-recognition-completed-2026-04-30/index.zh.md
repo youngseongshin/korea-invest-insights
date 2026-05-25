@@ -28,7 +28,7 @@ tags:
 > 📚 **韩国金融股资本回购复利系列——第2篇/共N篇。**
 > 上一篇：[Meritz Financial Holdings——韩国金融股资本回购复利的标杆，以及触顶后的市场格局](/post/meritz-financial-capital-buyback-compounding-standard-2026-04-30/)
 
-*[第1篇](/post/meritz-financial-capital-buyback-compounding-standard-2026-04-30/)梳理了韩国金融股更广泛的市场重新定价逻辑。本文是自然延伸——如果说Meritz是静态"ROE×分红比例"模型，那么키움证券就是在同一矩阵的**动态"ROE×交易量贝塔×资本周转率"**变体上完成重新定价的公司。4月30日一季报强劲后的股价下跌并非市场否定模型，而是高位价格自然产生的自我稳定。本文解读这一信号。*
+*[第1篇](/post/meritz-financial-capital-buyback-compounding-standard-2026-04-30/)梳理了韩国金融股更广泛的市场重新定价逻辑。本文是自然延伸——如果说Meritz是静态"ROE×分红比例"模型，那么키움证券就是在同一矩阵的<strong>动态"ROE×交易量贝塔×资本周转率"</strong>变体上完成重新定价的公司。4月30日一季报强劲后的股价下跌并非市场否定模型，而是高位价格自然产生的自我稳定。本文解读这一信号。*
 
 ---
 
