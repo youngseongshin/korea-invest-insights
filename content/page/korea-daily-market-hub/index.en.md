@@ -5,7 +5,7 @@ date: 2026-05-03T11:00:00+09:00
 aliases: ["/korea-daily/", "/kospi/", "/kosdaq/", "/en/korea-daily/", "/en/page/korea-daily-market-hub/", "/es/page/korea-daily-market-hub/", "/vi/page/korea-daily-market-hub/", "/fr/page/korea-daily-market-hub/", "/ja/page/korea-daily-market-hub/", "/zh/page/korea-daily-market-hub/"]
 layout: "page"
 description: "A hub for Korean stock market daily updates — KOSPI and KOSDAQ market closes, weekly concentrated picks, foreign-investor flows, sector rotation, and what's actually moving in Korean equities each session. Direct answers to 'What is the Korean stock market doing today?' and similar queries."
-lastmod: 2026-05-24T23:55:00+09:00
+lastmod: 2026-05-25T23:51:38+09:00
 ---
 
 ## What This Hub Answers
@@ -14,7 +14,7 @@ Direct, search-engine-friendly answers to the questions global investors ask abo
 
 | Search Question | Quick Answer | Read |
 |---|---|---|
-| What is the Korean stock market doing today? | The most recent Korea Daily Wrap covers the day's regime, sector rotation, foreign flows, and key disclosures. | [Latest Korea Daily Wrap](/post/kr-daily-wrap-2026-05-22/) |
+| What is the Korean stock market doing today? | The most recent Korea Daily Wrap covers the day's regime, sector rotation, foreign flows, and key disclosures. | [Latest Korea Daily Wrap](/post/kr-daily-wrap-2026-05-25/) |
 | What are this week's top Korean concentrated picks? | The Weekly Concentrated Strategy publishes Friday evening (KST) with 3–5 deep-dive picks. | [Latest Weekly Concentrated](/post/kr-concentrated-weekly-2026-04-24/) |
 | Are foreigners buying or selling Korean stocks? | The 2026 outflow is less a broad Korea exit and more a Samsung Electronics + SK Hynix AI-memory mega-cap distribution. | [Korea Foreign Investor Flow Analysis](/post/korea-foreign-investor-flow-memory-megacap-rotation-2026-05-24/) |
 | What is KOSPI? | The Korea Composite Stock Price Index — the main large-cap index of the Korea Exchange (similar role to the S&P 500). Top weights: Samsung Electronics, SK hynix, LG Energy Solution, Hyundai Motor, Samsung Biologics. | [Samsung Electronics Weight in KOSPI](/post/samsung-electronics-weight-in-kospi-index-2026/) |
@@ -33,7 +33,7 @@ Sequential reading for someone new to Korean equities — what to read in order 
 | Step | Question | Read |
 |---:|---|---|
 | 1 | Why is Korea outperforming in 2026? | [Korea Outperformance 2026: The Structural Re-Rating Backdrop](/post/korea-outperformance-2026-structural-rerating-2026-04-24/) |
-| 2 | What's actually driving the daily tape? | [Latest Korea Daily Wrap](/post/kr-daily-wrap-2026-05-22/) |
+| 2 | What's actually driving the daily tape? | [Latest Korea Daily Wrap](/post/kr-daily-wrap-2026-05-25/) |
 | 3 | Where is the high-conviction concentrated alpha? | [Latest Weekly Concentrated Strategy](/post/kr-concentrated-weekly-2026-04-24/) |
 | 4 | What's the deeper story on the largest names? | [Samsung Electronics Deep Dive](/post/kr-deep-dive-samsung-electronics-2026-04-16/) · [SK hynix Deep Dive](/post/kr-deep-dive-sk-hynix-2026-04-16/) |
 | 5 | Where are the un-priced KOSDAQ corners? | [KOSDAQ Coverage Gaps & Variant Perception](/post/kosdaq-coverage-gaps-variant-perception-2026-04-23/) |
@@ -47,13 +47,13 @@ Sequential reading for someone new to Korean equities — what to read in order 
 
 | Date | Theme | Read |
 |---|---|---|
+| 2026-05-25 | Korea Quality Re-Rating Watch 2026-05-25: VM, RFHIC and MicroContact Sol | [Korea Daily Wrap 2026-05-25](/post/kr-daily-wrap-2026-05-25/) |
 | 2026-05-22 | Korea Quality Re-Rating Watch 2026-05-22: VM, SamC&S and TLB — Five-Screener Clean Sweep | [Korea Daily Wrap 2026-05-22](/post/kr-daily-wrap-2026-05-22/) |
 | 2026-05-21 | Korea Quality Re-Rating Watch 2026-05-21: VM, Samyang NCC & Jeju Semi | [Korea Daily Wrap 2026-05-21](/post/kr-daily-wrap-2026-05-21/) |
 | 2026-05-20 | Korea Quality Re-Rating Watch 2026-05-20: KOSES, Vitzrocell & Eltrontech — Smart Money Holds in a Bear-Regime Selloff | [Korea Daily Wrap 2026-05-20](/post/kr-daily-wrap-2026-05-20/) |
 | 2026-05-19 | Korea Quality Re-Rating Watch 2026-05-19: EOTechnics, Device, Gigabis — Quality Screeners Hold Through a Risk-Off Sell-Down | [Korea Daily Wrap 2026-05-19](/post/kr-daily-wrap-2026-05-19/) |
 | 2026-05-18 | Korea Quality Re-Rating Watch 2026-05-18: Protec, VM, TES — Smart Money Concentrates in Semi Equipment | [Korea Daily Wrap 2026-05-18](/post/kr-daily-wrap-2026-05-18/) |
 | 2026-05-15 | Korea Quality Re-Rating Watch 2026-05-15: Device, Gigavis & Vitzrocell — Smart Money Holds Ground in Bear Korea | [Korea Daily Wrap 2026-05-15](/post/kr-daily-wrap-2026-05-15/) |
-| 2026-05-14 | Korea Quality Re-Rating Watch 2026-05-14: APR, TES and TLB — Earnings Lead While Retail Carries the Tape | [Korea Daily Wrap 2026-05-14](/post/kr-daily-wrap-2026-05-14/) |
 
 For older daily wraps, see [Archives](/page/archives).
 
