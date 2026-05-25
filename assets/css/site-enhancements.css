@@ -1662,4 +1662,19 @@ html[lang^="zh"] .left-sidebar #main-menu > li[data-menu-section]::before {
   .article-content .table-wrapper > table:has(thead th:nth-child(2)):not(:has(thead th:nth-child(3))) tr > :nth-child(2) {
     width: 68%;
   }
+
+  /* Override the global first-column `white-space: nowrap` for these
+     FAQ/term tables. The first column holds full sentences (questions
+     or definition terms) that MUST wrap; without this override the
+     text overflows visually into the second column. `keep-all` keeps
+     Korean words intact, so wrapping happens on word boundaries only. */
+  .article-content .table-wrapper > table:has(thead th:nth-child(3)):not(:has(thead th:nth-child(4))) tbody > tr > td:first-child,
+  .article-content .table-wrapper > table:has(thead th:nth-child(3)):not(:has(thead th:nth-child(4))) thead > tr > th:first-child,
+  .article-content .table-wrapper > table:has(thead th:nth-child(2)):not(:has(thead th:nth-child(3))) tbody > tr > td:first-child,
+  .article-content .table-wrapper > table:has(thead th:nth-child(2)):not(:has(thead th:nth-child(3))) thead > tr > th:first-child {
+    white-space: normal;
+    word-break: keep-all;
+    overflow-wrap: break-word;
+    min-width: 0;
+  }
 }
