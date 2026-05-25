@@ -5,7 +5,7 @@ date: 2026-04-30T23:05:00+09:00
 aliases: ["/ko/hbm/", "/ko/semiconductor/", "/ko/samsung-hynix/", "/ko/kospi-hbm/", "/ko/page/hbm/"]
 layout: "page"
 description: "AI HBM 허브. 삼성전자, SK하이닉스, HBM, AI 메모리, 코스피 지수 쏠림과 한국 반도체 투자 논거를 한곳에 모은 리서치 허브. HBM 시장점유율, 삼성전자 코스피 비중, KOSPI 리레이팅, AI 서버 수요를 순서대로 정리한다."
-lastmod: 2026-05-24T23:55:00+09:00
+lastmod: 2026-05-26T09:00:00+09:00
 ---
 
 ## 한 줄 결론
@@ -24,6 +24,7 @@ lastmod: 2026-05-24T23:55:00+09:00
 | 엔비디아 Vera Rubin VR200 부품 원가표에서 한국 메모리 수혜는 무엇인가 | 모건스탠리 추정 기준 VR200 총 부품 원가 증가분의 42.7%가 메모리에서 발생한다. 단, HBM4뿐 아니라 LPDDR5X·SOCAMM까지 같이 봐야 한다. | [엔비디아 VR200 부품 원가표 검산](/ko/post/vera-rubin-vr200-bom-memory-pcb-mlcc-korea-alpha-2026-05-21/) |
 | AI 칩 설계 관점에서 HBM은 왜 병목인가 | AI 성능은 초당 연산량보다 데이터를 얼마나 가까운 곳에서, 얼마나 덜 움직이는지가 중요하다. 그래서 HBM은 GPU·맞춤형 ASIC 공통 병목이고, 그 아래 FC-BGA·PCB·전력 안정화 부품까지 같이 봐야 한다. | [AI 칩 설계와 데이터 이동 병목](/ko/post/ai-chip-design-data-movement-fcbga-bottleneck-2026-05-24/) |
 | 마벨·브로드컴 실적은 HBM 투자에 어떤 의미인가 | AI 맞춤형 칩과 이더넷 네트워크가 강하면 HBM 수요는 NVIDIA GPU 단일 고객 의존이 아니라 Broadcom XPU·Google TPU·OpenAI accelerator·Marvell custom silicon까지 넓어진다. | [마벨·브로드컴 실적 전 한국 반도체 병목 점검](/ko/post/marvell-broadcom-earnings-korea-ai-bottleneck-preview-2026-05-23/) |
+| 삼성전기 시총 100조원은 HBM thesis와 어떻게 연결되나 | HBM이 커질수록 GPU·ASIC 패키지 안쪽의 전력 안정화와 FC-BGA도 같이 병목이 된다. 삼성전기 100조원은 HBM 아래 전력무결성 레이어가 별도 멀티플을 받기 시작했다는 신호다. | [삼성전기 시총 100조 돌파](/ko/post/samsung-electro-mechanics-100tn-murata-hyundai-market-cap-2026-05-26/) |
 | 한국 증시 시총 세계 6위는 HBM 투자에 어떤 의미인가 | 세계 6위 헤드라인은 매수 신호가 아니라 삼성전자·SK하이닉스 AI 메모리 이익 지속성과 KOSPI 집중도를 검증하라는 신호다. | [Why Korea 5편: 한국 시총 세계 6위](/ko/post/why-korea-market-cap-global-six-ai-memory-rerating-2026-05-24/) |
 | 외국인이 삼성전자·SK하이닉스를 팔고 있다면 HBM 투자는 끝났나 | 아니다. 2026년 외국인 순매도 대부분은 두 메모리 대형주 비중 축소지만, 가격은 국내 유동성이 흡수했다. 추격보다 외국인 재매수·지분율 회복을 확인해야 한다. | [한국증시 외국인 수급 분석](/ko/post/korea-foreign-investor-flow-memory-megacap-rotation-2026-05-24/) |
 | 해외 투자자는 한국 AI 메모리 주식에 어떻게 접근하나요 | 먼저 해외 투자자 접근 지도를 확인하고, KOSPI 대형주에서 HBM·장비·기판 종목으로 확장하는 순서가 좋다. 실제 매매 가능 여부는 국가와 계좌 유형에 따라 다르다. | [해외 투자자용 한국 주식 허브](/ko/page/korea-stocks-foreign-investors-hub/) |
@@ -36,6 +37,7 @@ lastmod: 2026-05-24T23:55:00+09:00
 
 | 날짜 | 주제 | 자세히 보기 |
 |---|---|---|
+| 2026-05-26 | **삼성전기 시총 100조원과 HBM 아래 전력무결성 병목** — 현대차·무라타 비교를 통해 AI GPU·HBM 패키지 내부 실리콘 커패시터와 FC-BGA가 별도 멀티플을 받기 시작했는지 점검 | [삼성전기 100조원과 무라타·현대차 비교](/ko/post/samsung-electro-mechanics-100tn-murata-hyundai-market-cap-2026-05-26/) |
 | 2026-05-24 | **한국 시총 세계 6위와 AI 메모리 집중도** — WFE·CEIC·KRX·Research OS proxy로 한국 4조 달러대 후반 시총 헤드라인을 검증하고, 삼성전자·SK하이닉스 집중도가 KOSPI 리레이팅을 어떻게 설명하는지 정리 | [Why Korea 5편: 한국 시총 세계 6위](/ko/post/why-korea-market-cap-global-six-ai-memory-rerating-2026-05-24/) |
 | 2026-05-24 | **외국인 수급으로 본 메모리 대형주 분배** — 전체 외국인 순매도 -89.2조원 중 삼성전자·SK하이닉스가 -84.8조원을 차지한 구조를 분해하고, HBM 대장주 추격보다 보유 관리가 맞는 이유를 정리 | [한국증시 외국인 수급 분석](/ko/post/korea-foreign-investor-flow-memory-megacap-rotation-2026-05-24/) |
 | 2026-05-24 | **엔비디아 이후 AI 반도체 병목** — Dwarkesh/Reiner Pope의 칩 설계 설명을 투자 언어로 번역해, AI 성능 경쟁이 초당 연산량보다 데이터 이동·HBM·FC-BGA·전력 안정화·테스트 병목으로 내려오고 있음을 정리 | [AI 칩 설계와 한국 반도체 하부 병목](/ko/post/ai-chip-design-data-movement-fcbga-bottleneck-2026-05-24/) |
@@ -71,6 +73,7 @@ lastmod: 2026-05-24T23:55:00+09:00
 ### HBM과 AI 메모리
 
 - [엔비디아 이후 AI 반도체 병목: 초당 연산량보다 데이터 이동, HBM, FC-BGA, 전력 안정화](/ko/post/ai-chip-design-data-movement-fcbga-bottleneck-2026-05-24/)
+- [삼성전기 시총 100조 돌파: 무라타와 현대차를 넘어설 수 있을까](/ko/post/samsung-electro-mechanics-100tn-murata-hyundai-market-cap-2026-05-26/)
 - [마벨·브로드컴 실적 전 한국 반도체 병목 점검: HBM 단일 베팅에서 AI ASIC·네트워크·전력 안정화로](/ko/post/marvell-broadcom-earnings-korea-ai-bottleneck-preview-2026-05-23/)
 - [엔비디아 VR200 부품 원가표 검산: 메모리 부품 금액과 한국 AI 메모리 알파](/ko/post/vera-rubin-vr200-bom-memory-pcb-mlcc-korea-alpha-2026-05-21/)
 - [SK하이닉스 HBM 시장점유율 2026: AI 메모리 투자 가이드](/ko/post/sk-hynix-hbm-market-share-ai-memory-demand-2026/)
