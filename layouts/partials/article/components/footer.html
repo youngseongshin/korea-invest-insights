@@ -48,6 +48,61 @@
 <footer class="article-meta article-footer">
     {{ partial "article/components/tags" . }}
 
+    {{/* Share — Web Share API (mobile) + copy-link fallback + X + LinkedIn.
+         JS handler lives in article-enhancements.js. */}}
+    {{- if eq .Section "post" -}}
+        {{- $lang := .Lang -}}
+        {{- $label := "Share" -}}
+        {{- $copy := "Copy link" -}}
+        {{- $copied := "Link copied to clipboard" -}}
+        {{- if eq $lang "ko" -}}
+            {{- $label = "공유" -}}
+            {{- $copy = "링크 복사" -}}
+            {{- $copied = "링크가 복사되었습니다" -}}
+        {{- else if eq $lang "ja" -}}
+            {{- $label = "シェア" -}}
+            {{- $copy = "リンクをコピー" -}}
+            {{- $copied = "リンクをコピーしました" -}}
+        {{- else if eq $lang "zh" -}}
+            {{- $label = "分享" -}}
+            {{- $copy = "复制链接" -}}
+            {{- $copied = "链接已复制" -}}
+        {{- else if eq $lang "es" -}}
+            {{- $label = "Compartir" -}}
+            {{- $copy = "Copiar enlace" -}}
+            {{- $copied = "Enlace copiado" -}}
+        {{- else if eq $lang "fr" -}}
+            {{- $label = "Partager" -}}
+            {{- $copy = "Copier le lien" -}}
+            {{- $copied = "Lien copié" -}}
+        {{- else if eq $lang "vi" -}}
+            {{- $label = "Chia sẻ" -}}
+            {{- $copy = "Sao chép liên kết" -}}
+            {{- $copied = "Đã sao chép liên kết" -}}
+        {{- end -}}
+        <section class="article-share">
+            <span class="article-share-label">{{ $label }}</span>
+            <div class="article-share-buttons">
+                <button type="button" class="article-share-button"
+                        data-share="copy"
+                        data-url="{{ .Permalink }}"
+                        data-title="{{ .Title }}"
+                        data-label-toast="{{ $copied }}"
+                        aria-label="{{ $copy }}">{{ $copy }}</button>
+                <button type="button" class="article-share-button"
+                        data-share="twitter"
+                        data-url="{{ .Permalink }}"
+                        data-title="{{ .Title }}"
+                        aria-label="X (Twitter)">X</button>
+                <button type="button" class="article-share-button"
+                        data-share="linkedin"
+                        data-url="{{ .Permalink }}"
+                        data-title="{{ .Title }}"
+                        aria-label="LinkedIn">LinkedIn</button>
+            </div>
+        </section>
+    {{- end }}
+
     {{ if and (.Site.Params.article.license.enabled) (not (eq .Params.license false)) }}
     <section class="article-copyright inline-meta">
         {{ partial "helper/icon" "copyright" }}
