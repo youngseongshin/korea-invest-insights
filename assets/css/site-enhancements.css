@@ -250,17 +250,16 @@ body {
 .article-content > h2:first-of-type + ul,
 .article-content > h2:first-of-type + ol {
   margin: 0 0 2.2rem;
-  padding: 1.15rem 1.35rem 1.15rem 2.5rem;
+  padding: 1.15rem 1.35rem 1.15rem 2.05rem;
   max-width: min(68rem, 100%);
-  border: 1px solid rgba(37, 99, 235, 0.16);
-  border-left: 4px solid var(--accent-color, #2563eb);
+  border: 1px solid transparent;
   border-radius: 8px;
   background: rgba(37, 99, 235, 0.045);
 }
 
 [data-scheme="dark"] .article-content > h2:first-of-type + ul,
 [data-scheme="dark"] .article-content > h2:first-of-type + ol {
-  border-color: rgba(88, 166, 255, 0.18);
+  border-color: transparent;
   background: rgba(88, 166, 255, 0.08);
 }
 
@@ -622,9 +621,11 @@ body {
 .article-content .table-wrapper {
   overflow-x: auto;
   -webkit-overflow-scrolling: touch;
-  margin: 1rem 0 1.5rem;
+  width: min(68rem, 100%);
+  padding: 0;
+  margin: 1rem auto 1.5rem;
   border-radius: 6px;
-  border: 1px solid var(--card-separator-color, rgba(0, 0, 0, 0.06));
+  border: 1px solid transparent;
   /* Visual hint that the table can scroll horizontally */
   background:
     linear-gradient(to right, var(--card-background, #fff) 30%, rgba(255, 255, 255, 0)) 0 0 / 40px 100% no-repeat local,
@@ -634,13 +635,16 @@ body {
 }
 
 [data-scheme="dark"] .article-content .table-wrapper {
-  border-color: rgba(255, 255, 255, 0.08);
+  border-color: transparent;
 }
 
 .article-content .table-wrapper > table {
-  margin: 0;
-  /* Force tables to not collapse to viewport width on mobile */
-  min-width: 100%;
+  margin: 0 auto;
+  /* Let narrow tables sit centered while wide research tables keep their
+     scroll affordance when they genuinely exceed the content column. */
+  width: 100%;
+  max-width: 100%;
+  min-width: min(100%, 42rem);
   font-size: 0.95em;
   font-variant-numeric: tabular-nums;
   border-collapse: collapse;
@@ -704,7 +708,13 @@ body {
 }
 
 @media (max-width: 768px) {
+  .article-content .table-wrapper {
+    width: 100%;
+  }
+
   .article-content .table-wrapper > table {
+    width: max-content;
+    max-width: none;
     min-width: 64rem;
     font-size: 1.16rem;
   }
