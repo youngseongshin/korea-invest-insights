@@ -1621,3 +1621,45 @@ html[lang^="zh"] .left-sidebar #main-menu > li[data-menu-section]::before {
 [data-scheme="dark"] .widget--toc .toc-nav > ul > li > a {
   color: var(--card-text-color-main);
 }
+
+/* ──────────────────────────────────────────────
+   Fix: hub-page FAQ tables — rebalance 3-column widths
+   ──────────────────────────────────────────────
+   Hub Q&A tables use a 3-column structure (Question | Quick Answer |
+   Read). The browser's auto table-layout was giving the short
+   "Question" label column far too much width, leaving the long
+   "Quick Answer" cramped and the "Read" link broken character by
+   character. Switch to a fixed layout with explicit shares only when
+   the table has exactly three columns; other column counts (2, 4, 5+)
+   keep the auto layout. Disabled below 768px so narrow screens still
+   get the existing horizontal-scroll wrapper. */
+
+@media (min-width: 768px) {
+  /* 3-column tables: 25% / 55% / 20% (question / answer / link) */
+  .article-content .table-wrapper > table:has(thead th:nth-child(3)):not(:has(thead th:nth-child(4))) {
+    table-layout: fixed;
+    width: 100%;
+  }
+  .article-content .table-wrapper > table:has(thead th:nth-child(3)):not(:has(thead th:nth-child(4))) tr > :nth-child(1) {
+    width: 25%;
+  }
+  .article-content .table-wrapper > table:has(thead th:nth-child(3)):not(:has(thead th:nth-child(4))) tr > :nth-child(2) {
+    width: 55%;
+  }
+  .article-content .table-wrapper > table:has(thead th:nth-child(3)):not(:has(thead th:nth-child(4))) tr > :nth-child(3) {
+    width: 20%;
+  }
+
+  /* 2-column tables (term / definition): 32% / 68% — keeps the term
+     column from devouring half the width on short labels. */
+  .article-content .table-wrapper > table:has(thead th:nth-child(2)):not(:has(thead th:nth-child(3))) {
+    table-layout: fixed;
+    width: 100%;
+  }
+  .article-content .table-wrapper > table:has(thead th:nth-child(2)):not(:has(thead th:nth-child(3))) tr > :nth-child(1) {
+    width: 32%;
+  }
+  .article-content .table-wrapper > table:has(thead th:nth-child(2)):not(:has(thead th:nth-child(3))) tr > :nth-child(2) {
+    width: 68%;
+  }
+}
