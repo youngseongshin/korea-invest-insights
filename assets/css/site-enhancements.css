@@ -1152,3 +1152,151 @@ body {
   opacity: 1;
   transform: translateX(-50%) translateY(0);
 }
+
+/* ──────────────────────────────────────────────
+   Fix: tables — keep Korean label cells from breaking glyph-by-glyph
+   ──────────────────────────────────────────────
+   Korean has no inter-word spaces, so when the first column is narrow
+   the browser inserts a line break between every character ("삼/화/콘/
+   덴/서"). `word-break: keep-all` keeps each word intact; combined with
+   a sensible minimum width and proper alignment the label column
+   always reads as a single line of words. */
+
+.article-content .table-wrapper tbody > tr > td:first-child,
+.article-content .table-wrapper thead > tr > th:first-child {
+  word-break: keep-all;
+  overflow-wrap: normal;
+  min-width: 7.5rem;
+  text-align: left;
+  white-space: normal;
+}
+
+/* On desktop give the label column a bit more breathing room so it
+   never wraps unnecessarily when there's space available. */
+@media (min-width: 768px) {
+  .article-content .table-wrapper tbody > tr > td:first-child,
+  .article-content .table-wrapper thead > tr > th:first-child {
+    min-width: 9rem;
+    white-space: nowrap;
+  }
+  /* Allow longer label cells to wrap on words when truly long. */
+  .article-content .table-wrapper tbody > tr > td:first-child:has(> *),
+  .article-content .table-wrapper tbody > tr > td:first-child {
+    /* nowrap above; the keep-all rule covers any forced wrap. */
+  }
+}
+
+/* ──────────────────────────────────────────────
+   Fix: right-sidebar widgets — calm down the nested borders
+   ──────────────────────────────────────────────
+   The .widget shell already carries a card border + shadow (editorial
+   layer). Stack's default markup THEN wraps each archives row and each
+   tag chip in its own card-ish background — producing a "card inside
+   card" effect that reads as visually heavy. Flatten the inner items
+   so the outer widget card does the framing job alone. */
+
+/* Archives — flat rows instead of cards.
+   Markup: .widget.archives > .widget-archive--list > .archives-year > a
+   (a contains <span class="year"> + <span class="count">). */
+.widget.archives .widget-archive--list {
+  display: flex;
+  flex-direction: column;
+  gap: 0.1rem;
+}
+
+.widget.archives .archives-year {
+  margin: 0;
+  background: transparent !important;
+  border: none !important;
+  box-shadow: none !important;
+  padding: 0;
+}
+
+.widget.archives .archives-year a {
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+  gap: 0.6rem;
+  padding: 0.55rem 0.2rem;
+  border-bottom: 1px solid var(--card-separator-color, rgba(15, 23, 42, 0.06));
+  color: var(--card-text-color-main);
+  text-decoration: none;
+  transition: color 0.15s ease, background-color 0.15s ease;
+}
+
+.widget.archives .archives-year:last-child a {
+  border-bottom: none;
+}
+
+.widget.archives .archives-year a:hover {
+  color: var(--accent-color, #2563eb);
+  background-color: rgba(37, 99, 235, 0.035);
+}
+
+.widget.archives .archives-year .year {
+  font-weight: 700;
+  font-size: 1.15rem;
+  letter-spacing: 0;
+}
+
+.widget.archives .archives-year .count {
+  font-variant-numeric: tabular-nums;
+  font-size: 1.02rem;
+  color: var(--card-text-color-secondary);
+  font-weight: 500;
+}
+
+/* Tag cloud — lighter chips, tighter pack.
+   Markup: .widget.tagCloud > .tagCloud-tags > a (one per tag). */
+.widget.tagCloud .tagCloud-tags {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.4rem;
+}
+
+.widget.tagCloud .tagCloud-tags a {
+  display: inline-flex;
+  align-items: center;
+  padding: 0.32rem 0.7rem;
+  border: 1px solid var(--card-separator-color, rgba(15, 23, 42, 0.1));
+  border-radius: 5px;
+  background: transparent;
+  color: var(--card-text-color-secondary);
+  font-size: 1.02rem;
+  font-weight: 500;
+  text-decoration: none;
+  white-space: nowrap;
+  transition: color 0.15s ease, border-color 0.15s ease, background-color 0.15s ease;
+}
+
+.widget.tagCloud .tagCloud-tags a:hover {
+  color: var(--accent-color, #2563eb);
+  border-color: var(--accent-color, #2563eb);
+  background: rgba(37, 99, 235, 0.04);
+}
+
+[data-scheme="dark"] .widget.tagCloud .tagCloud-tags a:hover {
+  color: var(--accent-color, #58a6ff);
+  border-color: var(--accent-color, #58a6ff);
+  background: rgba(88, 166, 255, 0.08);
+}
+
+/* Widget title — a touch more weight, single accent underline. */
+.widget .widget-title.section-title {
+  font-size: 1.4rem;
+  font-weight: 700;
+  letter-spacing: 0.01em;
+  margin-bottom: 0.85rem;
+  padding-bottom: 0.45rem;
+  border-bottom: 1px solid var(--card-separator-color, rgba(15, 23, 42, 0.08));
+  color: var(--card-text-color-main);
+}
+
+.widget .widget-title.section-title a {
+  color: inherit;
+  text-decoration: none;
+}
+
+.widget .widget-title.section-title a:hover {
+  color: var(--accent-color, #2563eb);
+}
