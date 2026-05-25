@@ -57,7 +57,7 @@
         {{ $currentRel := replaceRE "/$" "" $currentPage.RelPermalink }}
         {{ $menuRel := replaceRE "/$" "" .URL }}
         {{ $active := or (eq $currentRel $menuRel) (or ($currentPage.HasMenuCurrent "main" .) ($currentPage.IsMenuCurrent "main" .)) }}
-        {{ $isHub := or (in .URL "hub") (in .URL "daily-market") (in .URL "korean-ai-companies") (in .URL "korean-financials") }}
+        {{ $isHub := or (in .URL "hub") (in .URL "daily-market") (in .URL "korean-ai-companies") (in .URL "korean-financials") (in .URL "start-here") }}
         {{ $isUtility := or (in .URL "tickers") (in .URL "archives") }}
         {{ $isInfo := or (in .URL "about") (in .URL "contact") (in .URL "privacy") (in .URL "disclaimer") }}
         {{ $showHubLabel := and $isHub (not ($.Scratch.Get "kiiSeenHubMenu")) }}
