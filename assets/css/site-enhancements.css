@@ -221,7 +221,10 @@ body {
 .article-content > p,
 .article-content > ul,
 .article-content > ol {
-  max-width: 43rem;
+  /* 56rem ≈ 896px — uses the full article-card width on desktop while
+     keeping the line at ~75 characters for readability. Wraps naturally
+     on narrower viewports. */
+  max-width: min(56rem, 100%);
 }
 
 .article-content > h2 {
@@ -249,7 +252,7 @@ body {
 .article-content > h2:first-of-type + ol {
   margin: 0 0 2.2rem;
   padding: 1.15rem 1.35rem 1.15rem 2.5rem;
-  max-width: 43rem;
+  max-width: min(56rem, 100%);
   border: 1px solid rgba(37, 99, 235, 0.16);
   border-left: 4px solid var(--accent-color, #2563eb);
   border-radius: 8px;
