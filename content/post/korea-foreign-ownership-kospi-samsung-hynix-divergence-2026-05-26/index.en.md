@@ -14,14 +14,14 @@ valley_cashtag_exclude:
   - Samsung Electro-Mechanics
 ---
 
-> This is a follow-up to [Korea Foreign Investor Flow Analysis](/post/korea-foreign-investor-flow-memory-megacap-rotation-2026-05-24/). That note showed that most 2026 foreign selling was concentrated in Samsung Electronics and SK Hynix. This note asks the next question: **how much ownership-based selling pressure is left?**
+> This is a follow-up to [Korea Foreign Investor Flow Analysis](/post/korea-foreign-investor-flow-memory-megacap-rotation-2026-05-24/). That note showed that most 2026 foreign selling was concentrated in Samsung Electronics and SK Hynix. This note asks the next question: <strong>how much ownership-based selling pressure is left?</strong>
 
 ## TL;DR
 
-* KOSPI market-cap-weighted foreign ownership is still high. On the user's benchmark series, it rose from **36.02%** at the start of 2026 to **38.56%** as of May 22.
-* Yet the two stocks actually being sold are already near 2026 lows. Research OS local DB shows Samsung Electronics foreign ownership falling from **52.37% to 48.32%**, and SK Hynix from **53.81% to 51.62%**.
+* KOSPI market-cap-weighted foreign ownership is still high. On the user's benchmark series, it rose from <strong>36.02%</strong> at the start of 2026 to <strong>38.56%</strong> as of May 22.
+* Yet the two stocks actually being sold are already near 2026 lows. Research OS local DB shows Samsung Electronics foreign ownership falling from <strong>52.37% to 48.32%</strong>, and SK Hynix from <strong>53.81% to 51.62%</strong>.
 * That divergence exists because KOSPI ownership is value-weighted. Foreigners can sell shares, but if their remaining Samsung/SK Hynix positions surge in price, their market-cap-weighted KOSPI ownership can still rise.
-* The practical trigger is now flow speed: first stabilization needs KOSPI foreign ownership below roughly **38.2%** plus five-day average foreign net selling below about **KRW 1tn per day**.
+* The practical trigger is now flow speed: first stabilization needs KOSPI foreign ownership below roughly <strong>38.2%</strong> plus five-day average foreign net selling below about <strong>KRW 1tn per day</strong>.
 
 ## The Core Data
 
@@ -35,17 +35,17 @@ valley_cashtag_exclude:
 
 Yonhap Infomax reported that Samsung Electronics' 48.32% foreign ownership was the lowest since September 2013, while SK Hynix's 51.62% was the lowest since May 2023. It also reported YTD foreign net selling of KRW 50.2027tn in Samsung and KRW 34.2279tn in SK Hynix. ([Yonhap Infomax](https://news.einfomax.co.kr/news/articleViewAmp.html?idxno=4416519))
 
-Samsung's historical anchor is much higher. In May 2019, Korea JoongAng Daily reported foreign ownership at **57.33%**, above the prior 2001 record of 57.30%. ([Korea JoongAng Daily](https://koreajoongangdaily.joins.com/2019/05/08/industry/Samsung-Electronics-now-57037-foreign-owned/3062820.html))
+Samsung's historical anchor is much higher. In May 2019, Korea JoongAng Daily reported foreign ownership at <strong>57.33%</strong>, above the prior 2001 record of 57.30%. ([Korea JoongAng Daily](https://koreajoongangdaily.joins.com/2019/05/08/industry/Samsung-Electronics-now-57037-foreign-owned/3062820.html))
 
 ## Why The Aggregate Still Looks High
 
 The KOSPI foreign ownership ratio is a market-value measure, not simply a share-count measure. Seoul Economic Daily explained the gap clearly: foreign selling pulled down the ratio, but price appreciation in foreign-held shares added even more to the ownership value. ([Seoul Economic Daily](https://en.sedaily.com/finance/2026/05/13/foreign-ownership-of-kospi-rises-despite-heavy-net-selling))
 
-That means the aggregate KOSPI ratio says **foreign portfolio value is still heavy**, while Samsung/SK Hynix share-count ownership says **the two key positions have already been reduced materially**.
+That means the aggregate KOSPI ratio says <strong>foreign portfolio value is still heavy</strong>, while Samsung/SK Hynix share-count ownership says <strong>the two key positions have already been reduced materially</strong>.
 
 ## Flow Is Still Not Calm
 
-The problem is speed. From May 18 to May 22, foreigners net-sold **KRW 14.4477tn** in KOSPI. SK Hynix and Samsung represented roughly 73% of that one-week selling. From May 7 to May 22, foreigners net-sold **KRW 46.3383tn**, with Samsung and SK Hynix together accounting for **82.9%**. ([Daum / Energy Economy](https://v.daum.net/v/20260525140625125?f=p))
+The problem is speed. From May 18 to May 22, foreigners net-sold <strong>KRW 14.4477tn</strong> in KOSPI. SK Hynix and Samsung represented roughly 73% of that one-week selling. From May 7 to May 22, foreigners net-sold <strong>KRW 46.3383tn</strong>, with Samsung and SK Hynix together accounting for <strong>82.9%</strong>. ([Daum / Energy Economy](https://v.daum.net/v/20260525140625125?f=p))
 
 Research OS local all-listed-stock proxy points in the same direction:
 
@@ -70,8 +70,8 @@ So the ownership level is getting closer to a clearing point, but the flow is st
 
 For Samsung Electronics, the foreign share-count ratio already looks low. Below 48% would look like a late-stage reduction signal. But the stock still needs foreign selling speed to slow before new money gets a cleaner entry.
 
-For SK Hynix, 51-52% is a lower-neutral zone, not a full trough. A move toward **50.5-51.0%** with price resilience would make the risk/reward more comfortable.
+For SK Hynix, 51-52% is a lower-neutral zone, not a full trough. A move toward <strong>50.5-51.0%</strong> with price resilience would make the risk/reward more comfortable.
 
-The final line is simple: **KOSPI-level foreign ownership still argues for rebalancing pressure, but Samsung and SK Hynix ownership already argues that the selling is closer to exhaustion than the headline flow suggests.** This is not a buy-now signal. It is a wait-for-flow-to-slow signal.
+The final line is simple: <strong>KOSPI-level foreign ownership still argues for rebalancing pressure, but Samsung and SK Hynix ownership already argues that the selling is closer to exhaustion than the headline flow suggests.</strong> This is not a buy-now signal. It is a wait-for-flow-to-slow signal.
 
 *Disclaimer: For research and information purposes only. Not investment advice.*

@@ -8,13 +8,13 @@ tags: ["Why Korea", "KOSPI", "KOSDAQ", "Samsung Electronics", "SK hynix", "HBM",
 series: ["why-korea", "korea-rerating-2026"]
 ---
 
-> **Why Korea 第5篇。** 前几篇讨论了韩国半导体基板、K-Beauty、三星电子/ SK海力士的盈利杠杆，以及外资流入韩国ETF。这一篇接着看一个新标题：韩国股市市值已经接近**全球第六**。
+> <strong>Why Korea 第5篇。</strong> 前几篇讨论了韩国半导体基板、K-Beauty、三星电子/ SK海力士的盈利杠杆，以及外资流入韩国ETF。这一篇接着看一个新标题：韩国股市市值已经接近<strong>全球第六</strong>。
 
 ## TL;DR
 
-* 方向是真实的。WFE数据显示，2025年12月KRX国内上市公司市值为 **2.67万亿美元**，以美元计同比增长 **71.4%**。CEIC显示2026年2月韩国市值为 **4.03万亿美元**。
-* 公开排名表中的 **4.89万亿美元 / 全球第六 / GDP比190%** 可以作为近期快照参考，但GDP比率需要核对方法、汇率、市场范围和日期。
-* Research OS local DB proxy显示，2026年5月22日韩国上市市场市值约 **6,851万亿韩元**。三星电子和SK海力士合计约 **3,093万亿韩元**，占proxy的 **45.1%**。
+* 方向是真实的。WFE数据显示，2025年12月KRX国内上市公司市值为 <strong>2.67万亿美元</strong>，以美元计同比增长 <strong>71.4%</strong>。CEIC显示2026年2月韩国市值为 <strong>4.03万亿美元</strong>。
+* 公开排名表中的 <strong>4.89万亿美元 / 全球第六 / GDP比190%</strong> 可以作为近期快照参考，但GDP比率需要核对方法、汇率、市场范围和日期。
+* Research OS local DB proxy显示，2026年5月22日韩国上市市场市值约 <strong>6,851万亿韩元</strong>。三星电子和SK海力士合计约 <strong>3,093万亿韩元</strong>，占proxy的 <strong>45.1%</strong>。
 * 投资结论不是无差别买入韩国市场，而是验证AI存储盈利能否持续，以及资金是否向下一个瓶颈扩散。
 
 ## 真正的驱动力
@@ -47,12 +47,12 @@ series: ["why-korea", "korea-rerating-2026"]
 
 | 领域 | 判断 |
 |---|---|
-| KOSPI整体 | **等待** |
-| 三星电子 | **Watchlist** |
-| SK海力士 | **Watchlist / 回调买入候选** |
-| 三星电机 | **二级瓶颈**：FC-BGA、MLCC、硅电容 |
-| 电力基础设施 | **精选** |
-| KOSDAQ优质股 | **有条件**，需确认市场宽度和资金流 |
+| KOSPI整体 | <strong>等待</strong> |
+| 三星电子 | <strong>Watchlist</strong> |
+| SK海力士 | <strong>Watchlist / 回调买入候选</strong> |
+| 三星电机 | <strong>二级瓶颈</strong>：FC-BGA、MLCC、硅电容 |
+| 电力基础设施 | <strong>精选</strong> |
+| KOSDAQ优质股 | <strong>有条件</strong>，需确认市场宽度和资金流 |
 
 ## 结论
 

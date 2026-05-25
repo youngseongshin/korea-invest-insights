@@ -25,7 +25,7 @@ The Bank of Korea has maintained its benchmark rate at 2.50% (as of May 2025 gui
 
 Meanwhile, the U.S. Federal Reserve held its target range at 3.50–3.75% as of its March 2026 meeting, with the effective federal funds rate near 3.64% (FRED data). This "higher for longer" posture removes a key catalyst for emerging market re-rating, keeping the macro backdrop neutral-to-negative for risk assets.
 
-**Regime verdict**: Risk-Off/Neutral. Capital allocation should favor quality, liquidity, and AI structural themes over speculative small-caps. Elevated cash buffers (15–25% range) are warranted until outflow pressure stabilizes.
+<strong>Regime verdict</strong>: Risk-Off/Neutral. Capital allocation should favor quality, liquidity, and AI structural themes over speculative small-caps. Elevated cash buffers (15–25% range) are warranted until outflow pressure stabilizes.
 
 ---
 
@@ -37,9 +37,9 @@ Samsung Electronics, South Korea's largest company by market capitalization and 
 
 The investment thesis rests on structural HBM (High Bandwidth Memory) demand tied to AI training infrastructure. As AI model complexity scales, memory bandwidth requirements grow disproportionately — Samsung is one of only three global suppliers of HBM3E, the current generation required by NVIDIA's H100/H200 and next-gen accelerators.
 
-**Key risk**: Samsung's stock fell -2.38% on April 9 alongside broader KOSPI weakness, confirming its sensitivity to macro sentiment shifts. Currency volatility (KRW/USD) remains a persistent earnings risk given Samsung's USD-denominated export exposure.
+<strong>Key risk</strong>: Samsung's stock fell -2.38% on April 9 alongside broader KOSPI weakness, confirming its sensitivity to macro sentiment shifts. Currency volatility (KRW/USD) remains a persistent earnings risk given Samsung's USD-denominated export exposure.
 
-**What to watch**: Quarterly memory guidance, HBM shipment volumes, and any revision to DRAM/NAND pricing from DART (Korea's electronic disclosure system) filings.
+<strong>What to watch</strong>: Quarterly memory guidance, HBM shipment volumes, and any revision to DRAM/NAND pricing from DART (Korea's electronic disclosure system) filings.
 
 ### Samsung Electro-Mechanics (009150.KS): The AI Server Supply Chain Play
 
@@ -47,7 +47,7 @@ Samsung Electro-Mechanics, a leading manufacturer of multilayer ceramic capacito
 
 The company's 2026 earnings trajectory reflects the convergence of AI server demand, automotive electronics growth, and improving margin structure. For investors seeking Korean semiconductor exposure with lower single-stock concentration risk than Samsung Electronics, Samsung Electro-Mechanics represents a differentiated entry point.
 
-**Key risk**: Component manufacturers are cyclically sensitive. A synchronized slowdown in AI Capex and automotive production would compress margins quickly.
+<strong>Key risk</strong>: Component manufacturers are cyclically sensitive. A synchronized slowdown in AI Capex and automotive production would compress margins quickly.
 
 ---
 
@@ -59,7 +59,7 @@ Why is Marvell Technology relevant to Korean market investors? Marvell's growth 
 
 On April 10, MRVL traded down -2.86% on volume 8% below its 20-day average, with RSI at 61.48 — above both its 50-day ($82.17) and 200-day ($79.92) moving averages. This configuration suggests a consolidation phase within an uptrend rather than trend reversal.
 
-**Concentration risk**: Marvell's revenue is heavily dependent on a small number of hyperscale customers (Amazon, Google, Microsoft). Any signal of Capex moderation from these platforms would disproportionately affect MRVL.
+<strong>Concentration risk</strong>: Marvell's revenue is heavily dependent on a small number of hyperscale customers (Amazon, Google, Microsoft). Any signal of Capex moderation from these platforms would disproportionately affect MRVL.
 
 ---
 
@@ -85,7 +85,7 @@ Pearl Abyss, the Korean game developer behind *Black Desert Online* and the upco
 
 Korean gaming stocks are acutely sensitive to title release timelines and player reception. Without a confirmed commercial launch for *Crimson Desert* and a visible path to profitability, Pearl Abyss represents a momentum-negative situation in the current risk-off regime. The stock scores poorly on relative strength metrics and lacks the institutional sponsorship that typically drives sustained rallies in Korean mid-caps.
 
-**What would change the view**: A confirmed *Crimson Desert* global launch date with strong pre-registration data, combined with a return to operating profit guidance, would warrant reassessment.
+<strong>What would change the view</strong>: A confirmed *Crimson Desert* global launch date with strong pre-registration data, combined with a return to operating profit guidance, would warrant reassessment.
 
 ---
 
@@ -93,11 +93,11 @@ Korean gaming stocks are acutely sensitive to title release timelines and player
 
 International investors positioning in Korean AI semiconductor stocks should monitor three systemic risks:
 
-1. **Geopolitical escalation**: Renewed Middle East conflict has already triggered KOSPI volatility spikes and foreign outflows. A sustained conflict scenario would amplify risk-off pressure on Korean equities broadly, regardless of fundamental earnings trajectories.
+1. <strong>Geopolitical escalation</strong>: Renewed Middle East conflict has already triggered KOSPI volatility spikes and foreign outflows. A sustained conflict scenario would amplify risk-off pressure on Korean equities broadly, regardless of fundamental earnings trajectories.
 
-2. **Memory price cycle reversal**: DRAM and NAND spot prices are lagging indicators of supply-demand balance. If AI training Capex decelerates faster than Samsung and SK Hynix have guided, inventory build could trigger a sharp margin compression cycle — similar to 2022-2023.
+2. <strong>Memory price cycle reversal</strong>: DRAM and NAND spot prices are lagging indicators of supply-demand balance. If AI training Capex decelerates faster than Samsung and SK Hynix have guided, inventory build could trigger a sharp margin compression cycle — similar to 2022-2023.
 
-3. **KRW/USD deterioration**: The Korean won remains vulnerable to dollar strength and current account pressures. For non-hedged foreign investors, currency losses can materially offset equity gains in Korea-listed positions.
+3. <strong>KRW/USD deterioration</strong>: The Korean won remains vulnerable to dollar strength and current account pressures. For non-hedged foreign investors, currency losses can materially offset equity gains in Korea-listed positions.
 
 ---
 

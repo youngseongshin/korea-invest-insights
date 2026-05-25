@@ -17,22 +17,22 @@ valley_cashtags:
 draft: false
 ---
 
-> 📚 **Series relacionadas**
+> 📚 <strong>Series relacionadas</strong>
 > [Prueba de suelo de flujos en Pearl Abyss](/es/post/pearl-abyss-flow-bottom-test-2026-05-18/) / [Hub de Pearl Abyss](/es/page/pearl-abyss-crimson-desert-hub/) / [Panorama de mercado del 17 de mayo](/es/post/macro-snapshot-complex-risk-off-recovery-triggers-2026-05-17/) / [Guía completa del KOSDAQ](/es/post/kosdaq-complete-guide-promotion-relegation-system-2026-05-10/) / [Fondo Nacional de Crecimiento y capital político KOSDAQ](/es/post/national-growth-fund-kosdaq-smart-money-policy-bottlenecks-2026-05-24/)
 
 *Los últimos dos meses fueron una victoria clara de las grandes capitalizaciones del KOSPI y una fase de debilidad relativa extrema del KOSDAQ. Según un índice aproximado ponderado por capitalización, el KOSPI avanzó +49,8% y el KOSDAQ +11,4%; el KOSDAQ quedó -38,4 puntos porcentuales por detrás. Pero los flujos empiezan a moverse de forma distinta al precio. En las últimas cinco sesiones, el KOSDAQ registró +707.900 millones de wones de compra neta de extranjeros+instituciones y +410.400 millones de programas. En el KOSPI, durante el mismo periodo, extranjeros+instituciones vendieron -14,058 billones de wones y los programas vendieron -8,157 billones. El precio dice que ganó el KOSPI. El dinero nuevo empieza a mirar de nuevo al KOSDAQ.*
 
 ## Resumen clave
 
-- **El precio a dos meses es una victoria del KOSPI.** En índice aproximado ponderado por capitalización, KOSPI +49,8%, KOSDAQ +11,4%. En 20 sesiones, KOSPI +27,0% y KOSDAQ -0,1%.
-- **La rentabilidad con igual ponderación es distinta.** A dos meses, KOSPI +14,5% y KOSDAQ +17,4%. La amplitud del mercado KOSDAQ no se ha derrumbado; el índice KOSPI fue arrastrado por mega caps de infraestructura IA.
-- **La relación KOSDAQ/KOSPI está cerca del mínimo de dos meses.** La relación actual es 74,1, -29,5% desde el máximo de 105,1. La puntuación estándar de 40 sesiones es -1,88σ, una zona de sobreventa relativa.
-- **Los flujos mejoran primero en KOSDAQ.** En cinco sesiones, extranjeros+instituciones compraron +707.900 millones de wones y los programas +410.400 millones. El KOSPI sigue con ventas de extranjeros+instituciones y programas.
-- **La composición institucional también difiere.** En KOSPI la compra institucional se concentra en inversión financiera, que puede mezclar índice, derivados y arbitraje. En KOSDAQ aparece compra de fondos de inversión por +124.900 millones de wones.
-- **Pearl Abyss es la 7.ª mayor caída entre las 100 grandes del KOSDAQ.** Cayó -41,3% desde 77.400 wones a 45.450 wones, unos 19 puntos porcentuales más que la mediana de -22,0%.
-- **Pearl Abyss se parece más a un candidato de rebote invertible que a una simple sobreventa.** Tiene OP 2026E de 476.900 millones de wones, PER 2026E de 8,0x, ROE 2026E de 36,9%, compra neta de extranjeros+instituciones de +22.080 millones en cinco sesiones y venta de minoristas por -22.330 millones.
+- <strong>El precio a dos meses es una victoria del KOSPI.</strong> En índice aproximado ponderado por capitalización, KOSPI +49,8%, KOSDAQ +11,4%. En 20 sesiones, KOSPI +27,0% y KOSDAQ -0,1%.
+- <strong>La rentabilidad con igual ponderación es distinta.</strong> A dos meses, KOSPI +14,5% y KOSDAQ +17,4%. La amplitud del mercado KOSDAQ no se ha derrumbado; el índice KOSPI fue arrastrado por mega caps de infraestructura IA.
+- <strong>La relación KOSDAQ/KOSPI está cerca del mínimo de dos meses.</strong> La relación actual es 74,1, -29,5% desde el máximo de 105,1. La puntuación estándar de 40 sesiones es -1,88σ, una zona de sobreventa relativa.
+- <strong>Los flujos mejoran primero en KOSDAQ.</strong> En cinco sesiones, extranjeros+instituciones compraron +707.900 millones de wones y los programas +410.400 millones. El KOSPI sigue con ventas de extranjeros+instituciones y programas.
+- <strong>La composición institucional también difiere.</strong> En KOSPI la compra institucional se concentra en inversión financiera, que puede mezclar índice, derivados y arbitraje. En KOSDAQ aparece compra de fondos de inversión por +124.900 millones de wones.
+- <strong>Pearl Abyss es la 7.ª mayor caída entre las 100 grandes del KOSDAQ.</strong> Cayó -41,3% desde 77.400 wones a 45.450 wones, unos 19 puntos porcentuales más que la mediana de -22,0%.
+- <strong>Pearl Abyss se parece más a un candidato de rebote invertible que a una simple sobreventa.</strong> Tiene OP 2026E de 476.900 millones de wones, PER 2026E de 8,0x, ROE 2026E de 36,9%, compra neta de extranjeros+instituciones de +22.080 millones en cinco sesiones y venta de minoristas por -22.330 millones.
 
-La conclusión es sencilla. El KOSDAQ aún no está confirmado como nuevo líder. Pero **los flujos empiezan a girar antes que el precio**. Dentro de ese marco, Pearl Abyss es uno de los candidatos grandes más interesantes de rebote por caída excesiva.
+La conclusión es sencilla. El KOSDAQ aún no está confirmado como nuevo líder. Pero <strong>los flujos empiezan a girar antes que el precio</strong>. Dentro de ese marco, Pearl Abyss es uno de los candidatos grandes más interesantes de rebote por caída excesiva.
 
 ---
 
@@ -49,7 +49,7 @@ Las cifras de este artículo no son valores oficiales del índice KRX. Son serie
 | Método | Índice aproximado ponderado por capitalización basado en acciones individuales |
 | Advertencia | No es un índice oficial de KRX |
 
-El objetivo no es replicar exactamente el índice oficial. El objetivo es detectar dónde **la fuerza relativa del precio y la dirección de los flujos se separan**.
+El objetivo no es replicar exactamente el índice oficial. El objetivo es detectar dónde <strong>la fuerza relativa del precio y la dirección de los flujos se separan</strong>.
 
 ---
 
@@ -59,17 +59,17 @@ Mirando solo el precio de los últimos dos meses, la conclusión es clara: las g
 
 | Categoría | KOSPI | KOSDAQ | Interpretación |
 |---|---:|---:|---|
-| Rentabilidad 2M ponderada por capitalización | **+49,8%** | **+11,4%** | Victoria clara del KOSPI |
-| Rentabilidad 2M igual ponderada | +14,5% | **+17,4%** | La amplitud del KOSDAQ no es mala |
-| Rentabilidad reciente 20D | **+27,0%** | -0,1% | El KOSDAQ quedó totalmente relegado en el último mes |
-| Rentabilidad reciente 5D | **+4,8%** | -0,5% | El KOSPI sigue liderando |
+| Rentabilidad 2M ponderada por capitalización | <strong>+49,8%</strong> | <strong>+11,4%</strong> | Victoria clara del KOSPI |
+| Rentabilidad 2M igual ponderada | +14,5% | <strong>+17,4%</strong> | La amplitud del KOSDAQ no es mala |
+| Rentabilidad reciente 20D | <strong>+27,0%</strong> | -0,1% | El KOSDAQ quedó totalmente relegado en el último mes |
+| Rentabilidad reciente 5D | <strong>+4,8%</strong> | -0,5% | El KOSPI sigue liderando |
 | Ratio medio de acciones al alza 2M | 43,1% | 41,5% | La amplitud es débil en ambos |
 
 Lo importante es la diferencia entre ponderación por capitalización e igual ponderación. En ponderación por capitalización, el KOSPI aplasta al KOSDAQ. Pero en igual ponderación, KOSPI +14,5% y KOSDAQ +17,4%.
 
-Eso no significa que todas las acciones del KOSPI estuvieran fuertes. Significa que **mega capitalizaciones de infraestructura IA como Samsung Electronics, SK Hynix y Samsung Electro-Mechanics arrastraron el índice KOSPI**.
+Eso no significa que todas las acciones del KOSPI estuvieran fuertes. Significa que <strong>mega capitalizaciones de infraestructura IA como Samsung Electronics, SK Hynix y Samsung Electro-Mechanics arrastraron el índice KOSPI</strong>.
 
-El KOSDAQ fue débil a nivel de índice, pero el conjunto interno de acciones no se rompió por completo. La debilidad del KOSDAQ no fue "todas las acciones están peor", sino **que el liderazgo de capitalización y de flujos se fue a las mega caps del KOSPI**.
+El KOSDAQ fue débil a nivel de índice, pero el conjunto interno de acciones no se rompió por completo. La debilidad del KOSDAQ no fue "todas las acciones están peor", sino <strong>que el liderazgo de capitalización y de flujos se fue a las mega caps del KOSPI</strong>.
 
 ---
 
@@ -81,15 +81,15 @@ Si normalizamos la relación KOSDAQ/KOSPI a 100, la posición actual se ve mejor
 |---|---:|
 | Relación inicial 2M | 99,7 |
 | Máximo de 2M | 105,1, 2026-03-31 |
-| Actual | **74,1** |
-| Desde máximo | **-29,5%** |
-| Cambio 2M | **-25,6%** |
-| Frente a media 20D | **-12,5%** |
-| Puntuación estándar 40 sesiones | **-1,88σ** |
+| Actual | <strong>74,1</strong> |
+| Desde máximo | <strong>-29,5%</strong> |
+| Cambio 2M | <strong>-25,6%</strong> |
+| Frente a media 20D | <strong>-12,5%</strong> |
+| Puntuación estándar 40 sesiones | <strong>-1,88σ</strong> |
 
 El KOSDAQ está en su menor fuerza relativa frente al KOSPI de los últimos dos meses. Una puntuación estándar de -1,88σ en 40 sesiones es una zona de debilidad relativa bastante profunda.
 
-Pero eso no significa saltar directamente a "comprar KOSDAQ". La sobreventa relativa señala **posibilidad de rebote**, no **inicio confirmado del rebote**.
+Pero eso no significa saltar directamente a "comprar KOSDAQ". La sobreventa relativa señala <strong>posibilidad de rebote</strong>, no <strong>inicio confirmado del rebote</strong>.
 
 La posición actual se resume mejor así:
 
@@ -110,8 +110,8 @@ Unidad: 100 millones de wones
 
 | Mercado | Minoristas 2M | Extranjeros 2M | Instituciones 2M | Extranjeros+Instituciones 2M | Programas 2M |
 |---|---:|---:|---:|---:|---:|
-| KOSPI | +252.628 | -555.191 | +177.042 | **-378.149** | -293.401 |
-| KOSDAQ | +4.765 | +19.909 | -36.542 | **-16.632** | +6.300 |
+| KOSPI | +252.628 | -555.191 | +177.042 | <strong>-378.149</strong> | -293.401 |
+| KOSDAQ | +4.765 | +19.909 | -36.542 | <strong>-16.632</strong> | +6.300 |
 
 En dos meses, extranjeros+instituciones son negativos en ambos mercados. Pero la calidad es distinta.
 
@@ -123,12 +123,12 @@ La señal más importante aparece en los últimos 20 y 5 días.
 
 | Mercado | Extranjeros+Instituciones 20D | Programas 20D | Extranjeros+Instituciones 5D | Programas 5D |
 |---|---:|---:|---:|---:|
-| KOSPI | **-323.604** | -219.789 | **-140.578** | -81.572 |
-| KOSDAQ | **+876** | +5.182 | **+7.079** | +4.104 |
+| KOSPI | <strong>-323.604</strong> | -219.789 | <strong>-140.578</strong> | -81.572 |
+| KOSDAQ | <strong>+876</strong> | +5.182 | <strong>+7.079</strong> | +4.104 |
 
 Este es el núcleo del análisis.
 
-**El precio es claramente más fuerte en KOSPI, pero la mejora reciente de flujos es mejor en KOSDAQ.**
+<strong>El precio es claramente más fuerte en KOSPI, pero la mejora reciente de flujos es mejor en KOSDAQ.</strong>
 
 El precio es el resultado del pasado. Los flujos son una pista del próximo movimiento. El KOSDAQ sigue débil en precio, pero en flujos se parece a un mercado que empieza a probar suelo.
 
@@ -139,7 +139,7 @@ El precio es el resultado del pasado. Los flujos son una pista del próximo movi
 | Mercado | Inversión financiera 5D | Seguros 5D | Fondos de inversión 5D | Fondos privados 5D | Pensiones/Estado 5D |
 |---|---:|---:|---:|---:|---:|
 | KOSPI | +45.340 | -623 | +1.143 | +3.299 | -2.409 |
-| KOSDAQ | +177 | +4 | **+1.249** | +205 | -690 |
+| KOSDAQ | +177 | +4 | <strong>+1.249</strong> | +205 | -690 |
 
 La mayoría de la compra institucional en KOSPI viene de inversión financiera. Puede contener operaciones de índice, derivados y arbitraje; hay que tener cuidado antes de leerlo como capital direccional de largo plazo.
 
@@ -179,7 +179,7 @@ Distribución de caídas entre las 100 mayores del KOSDAQ:
 | Caída superior a -30% | 23 nombres |
 | Caída superior a -40% | 7 nombres |
 
-Pearl Abyss, con -41,3%, está exactamente dentro del **grupo de siete acciones con caídas superiores al -40%**. No es solo una acción algo castigada; es una de las mayores caídas entre grandes del KOSDAQ.
+Pearl Abyss, con -41,3%, está exactamente dentro del <strong>grupo de siete acciones con caídas superiores al -40%</strong>. No es solo una acción algo castigada; es una de las mayores caídas entre grandes del KOSDAQ.
 
 ---
 
@@ -193,14 +193,14 @@ Pearl Abyss, con -41,3%, está exactamente dentro del **grupo de siete acciones 
 | 4 | Seers Technology | 88 | 63.200 | 34.300 | -45,7% |
 | 5 | Woori Technology | 39 | 29.500 | 16.700 | -43,4% |
 | 6 | ABL Bio | 11 | 189.400 | 109.900 | -42,0% |
-| **7** | **Pearl Abyss** | **38** | **77.400** | **45.450** | **-41,3%** |
+| <strong>7</strong> | <strong>Pearl Abyss</strong> | <strong>38</strong> | <strong>77.400</strong> | <strong>45.450</strong> | <strong>-41,3%</strong> |
 | 8 | LigaChem Biosciences | 15 | 224.000 | 139.500 | -37,7% |
 | 9 | Sampyo Cement | 84 | 19.690 | 12.780 | -35,1% |
 | 10 | Curiox Biosystems | 81 | 126.800 | 82.500 | -34,9% |
 
 Pearl Abyss tiene dos rasgos. Primero, cayó junto a valores biotecnológicos de evento, pero su naturaleza es distinta. Segundo, puede analizarse con cifras de beneficios: OP 2026E de 476.900 millones de wones, PER 2026E de 8,0x y ROE 2026E de 36,9%.
 
-Por eso, dentro del grupo de grandes caídas, Pearl Abyss no es un rebote de evento biotecnológico. Puede convertirse en **un rebote invertible si beneficios y flujos se confirman juntos**.
+Por eso, dentro del grupo de grandes caídas, Pearl Abyss no es un rebote de evento biotecnológico. Puede convertirse en <strong>un rebote invertible si beneficios y flujos se confirman juntos</strong>.
 
 ---
 
@@ -212,7 +212,7 @@ Por eso, dentro del grupo de grandes caídas, Pearl Abyss no es un rebote de eve
 | 4 | Seers Technology | -45,7% | 607 | 22,6x | 86,1% | +114,5 | +22,2 | -121,7 | +172,3 |
 | 5 | Woori Technology | -43,4% | [No confirmado] | [No confirmado] | [No confirmado] | +368,5 | +9,6 | +6,1 | +190,1 |
 | 6 | ABL Bio | -42,0% | -486 | Pérdidas | -26,4% | +564,0 | -1.026,5 | -556,5 | +779,1 |
-| **7** | **Pearl Abyss** | **-41,3%** | **4.769** | **8,0x** | **36,9%** | **+220,8** | **-73,8** | **-223,3** | **+235,6** |
+| <strong>7</strong> | <strong>Pearl Abyss</strong> | <strong>-41,3%</strong> | <strong>4.769</strong> | <strong>8,0x</strong> | <strong>36,9%</strong> | <strong>+220,8</strong> | <strong>-73,8</strong> | <strong>-223,3</strong> | <strong>+235,6</strong> |
 | 8 | LigaChem Biosciences | -37,7% | 268 | 116,1x | 8,1% | -860,4 | -815,0 | +821,1 | -149,4 |
 | 13 | Peptro | -33,2% | [No confirmado] | [No confirmado] | [No confirmado] | -263,9 | -958,8 | -70,3 | [No confirmado] |
 | 15 | Oscotec | -32,7% | 340 | 46,5x | 16,6% | -76,4 | -237,1 | +80,7 | +7,5 |
@@ -226,9 +226,9 @@ Pearl Abyss es el nombre más equilibrado en esta tabla: caída profunda, PER ba
 
 | Grupo | Compra neta 5D |
 |---|---:|
-| Minoristas | **-22.330 millones de wones** |
-| Extranjeros | **+20.770 millones de wones** |
-| Instituciones total | **+1.320 millones de wones** |
+| Minoristas | <strong>-22.330 millones de wones</strong> |
+| Extranjeros | <strong>+20.770 millones de wones</strong> |
+| Instituciones total | <strong>+1.320 millones de wones</strong> |
 | Inversión financiera | -1.610 millones |
 | Seguros | +10 millones |
 | Fondos de inversión | +300 millones |
@@ -252,13 +252,13 @@ Pero ya aparecieron señales iniciales de giro.
 
 ### Pearl Abyss frente a biotecnológicas castigadas
 
-Las biotecnológicas castigadas suelen depender de ensayos clínicos, licencias o eventos regulatorios. Incluso con buen flujo, es difícil anclar la valoración en beneficios. Pearl Abyss sí tiene números: OP 2026E de 476.900 millones, PER 8,0x y ROE 36,9%. La pregunta central no es si tiene una opción, sino **cuánto de los beneficios de 2026 puede sostenerse en 2027**.
+Las biotecnológicas castigadas suelen depender de ensayos clínicos, licencias o eventos regulatorios. Incluso con buen flujo, es difícil anclar la valoración en beneficios. Pearl Abyss sí tiene números: OP 2026E de 476.900 millones, PER 8,0x y ROE 36,9%. La pregunta central no es si tiene una opción, sino <strong>cuánto de los beneficios de 2026 puede sostenerse en 2027</strong>.
 
 ### Pearl Abyss frente a Seers Technology
 
 Seers Technology es atractiva: OP 2026E de 60.700 millones, PER 22,6x, ROE 86,1% y compra neta de extranjeros+instituciones de +11.450 millones. Pero Pearl Abyss tiene valoración mucho más baja y una señal de extranjeros más fondos privados.
 
-En riesgo ajustado: **Pearl Abyss > Seers Technology**, aunque ambas requieren más confirmación de calidad de flujos.
+En riesgo ajustado: <strong>Pearl Abyss > Seers Technology</strong>, aunque ambas requieren más confirmación de calidad de flujos.
 
 ### Pearl Abyss frente a Woori Technology y Sungho Electronics
 
@@ -308,7 +308,7 @@ La relación KOSDAQ/KOSPI está en 74,1, -29,5% desde su máximo de dos meses, c
 
 Pearl Abyss es el nombre representativo a vigilar. Es la 7.ª mayor caída entre las 100 grandes del KOSDAQ, desde 77.400 a 45.450 wones (-41,3%). Pero tiene OP 2026E de 476.900 millones, PER 8,0x y ROE 36,9%. En cinco sesiones, minoristas vendieron -22.330 millones, extranjeros compraron +20.770 millones e instituciones +1.320 millones. Por eso no es solo una sobreventa, sino un candidato de rebote invertible.
 
-Aun así, el giro no está confirmado. Los flujos de 20 sesiones de extranjeros+instituciones siguen en -7.380 millones, y el precio no ha confirmado el rebote relativo del KOSDAQ. Esta es una fase en la que **los flujos empiezan a volver, pero el precio aún no lo confirmó**. Pearl Abyss no es tanto un candidato de corte de pérdidas como una gran acción castigada con alto rebote si defiende 45.000 wones y continúa la compra de extranjeros y fondos privados.
+Aun así, el giro no está confirmado. Los flujos de 20 sesiones de extranjeros+instituciones siguen en -7.380 millones, y el precio no ha confirmado el rebote relativo del KOSDAQ. Esta es una fase en la que <strong>los flujos empiezan a volver, pero el precio aún no lo confirmó</strong>. Pearl Abyss no es tanto un candidato de corte de pérdidas como una gran acción castigada con alto rebote si defiende 45.000 wones y continúa la compra de extranjeros y fondos privados.
 
 ---
 

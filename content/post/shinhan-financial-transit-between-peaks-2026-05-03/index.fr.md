@@ -27,23 +27,23 @@ tags:
   - "actions coréennes"
 ---
 
-> 📚 **Série Capitalisation-Rachat Composé — Finance Coréenne — Partie 4/N.**
+> 📚 <strong>Série Capitalisation-Rachat Composé — Finance Coréenne — Partie 4/N.</strong>
 > Épisodes précédents :
 > - [Partie 1 — Meritz Financial Holdings : Le Pic Statique de la Capitalisation-Rachat Composé](/post/meritz-financial-capital-buyback-compounding-standard-2026-04-30/)
 > - [Partie 2 — Kiwoom Securities : Le Pic Dynamique du Bêta-Volume de Trading](/post/kiwoom-securities-roe20-recognition-completed-2026-04-30/)
 > - [Partie 3 — KB Financial Group : Le Pic de Flux Construit par l'Accès Étranger](/post/kb-financial-foreign-access-proxy-third-peak-2026-05-03/)
 
-*Les parties 1 à 3 ont posé la finance coréenne comme un marché où trois pics distincts coexistent simultanément. Meritz, Kiwoom, KB. Une fois que trois coordonnées se stabilisent sur la même matrice, le regard du marché se déplace naturellement vers ce qui vient ensuite — **la vitesse à laquelle les suiveurs progressent vers ces pics**. Cet épisode introduit le premier cas de ce nouveau chapitre. Shinhan Financial Group est la société qui se rapproche le plus vite de la coordonnée « accès étranger » que KB a atteinte en premier. Et le volume a reconnu ce mouvement avant le prix — capturé dans le fait comptable ci-dessous.*
+*Les parties 1 à 3 ont posé la finance coréenne comme un marché où trois pics distincts coexistent simultanément. Meritz, Kiwoom, KB. Une fois que trois coordonnées se stabilisent sur la même matrice, le regard du marché se déplace naturellement vers ce qui vient ensuite — <strong>la vitesse à laquelle les suiveurs progressent vers ces pics</strong>. Cet épisode introduit le premier cas de ce nouveau chapitre. Shinhan Financial Group est la société qui se rapproche le plus vite de la coordonnée « accès étranger » que KB a atteinte en premier. Et le volume a reconnu ce mouvement avant le prix — capturé dans le fait comptable ci-dessous.*
 
 ---
 
 ## Synthèse
 
-- **Après l'établissement des trois pics, le marché commence à surveiller le « transit ».** Une fois que Meritz, Kiwoom et KB ont chacun établi un pic sur des dimensions différentes, la prochaine question analytique naturelle est : **à quelle vitesse tel suiveur se rapproche-t-il de tel pic ?** Shinhan Financial est le premier cas.
-- **Shinhan se dirige vers la coordonnée « accès étranger » que KB a atteinte en premier.** Participation étrangère de l'ordre de 60 % (2e derrière KB à 75,72 %), CET1 **13,19 %** (à seulement 0,44 pp de KB à 13,63 %), ROE 1T26 **11,9 %** (supérieur à celui de KB à 10,5 %), taux de distribution 2025 **50,2 %**, et un rachat-annulation d'actions propres de ₩700 Mds annoncé pour le premier semestre.
-- **Le volume a reconnu le mouvement en premier.** Selon les données internes, le NVR (Net Volume Ratio) affiche **+18 %** — ce qui signifie que, dans une fenêtre où le prix a à peine bougé, **le volume des journées de hausse a dépassé celui des journées de baisse d'environ 44 %**. C'est un signal d'accumulation plus robuste qu'une lecture brute OBV de +37 %, et il pointe vers un avantage de flux qui n'a pas encore été pleinement intégré dans les prix.
-- **Les fondamentaux et la politique soutiennent le signal.** Le cœur du Value-up 2.0 n'est pas une simple hausse du dividende — c'est **une politique de capital qui relie explicitement ROE × croissance × CET1 dans une formule**. Cela place Shinhan à l'intérieur de la même matrice « ROE × distribution × accrétion du BPA » sur laquelle Meritz et KB opèrent déjà, dans la version holding bancaire.
-- **Le coût implicite des fonds propres concrétise la position.** ROE 11,9 % / PBR 0,78× = **15,26 %**. Soit 3,4 pp au-dessus de KB à 11,9 %. La vitesse à laquelle cet écart se resserre est, mécaniquement, la vitesse du « transit entre les sommets ».
+- <strong>Après l'établissement des trois pics, le marché commence à surveiller le « transit ».</strong> Une fois que Meritz, Kiwoom et KB ont chacun établi un pic sur des dimensions différentes, la prochaine question analytique naturelle est : <strong>à quelle vitesse tel suiveur se rapproche-t-il de tel pic ?</strong> Shinhan Financial est le premier cas.
+- <strong>Shinhan se dirige vers la coordonnée « accès étranger » que KB a atteinte en premier.</strong> Participation étrangère de l'ordre de 60 % (2e derrière KB à 75,72 %), CET1 <strong>13,19 %</strong> (à seulement 0,44 pp de KB à 13,63 %), ROE 1T26 <strong>11,9 %</strong> (supérieur à celui de KB à 10,5 %), taux de distribution 2025 <strong>50,2 %</strong>, et un rachat-annulation d'actions propres de ₩700 Mds annoncé pour le premier semestre.
+- <strong>Le volume a reconnu le mouvement en premier.</strong> Selon les données internes, le NVR (Net Volume Ratio) affiche <strong>+18 %</strong> — ce qui signifie que, dans une fenêtre où le prix a à peine bougé, <strong>le volume des journées de hausse a dépassé celui des journées de baisse d'environ 44 %</strong>. C'est un signal d'accumulation plus robuste qu'une lecture brute OBV de +37 %, et il pointe vers un avantage de flux qui n'a pas encore été pleinement intégré dans les prix.
+- <strong>Les fondamentaux et la politique soutiennent le signal.</strong> Le cœur du Value-up 2.0 n'est pas une simple hausse du dividende — c'est <strong>une politique de capital qui relie explicitement ROE × croissance × CET1 dans une formule</strong>. Cela place Shinhan à l'intérieur de la même matrice « ROE × distribution × accrétion du BPA » sur laquelle Meritz et KB opèrent déjà, dans la version holding bancaire.
+- <strong>Le coût implicite des fonds propres concrétise la position.</strong> ROE 11,9 % / PBR 0,78× = <strong>15,26 %</strong>. Soit 3,4 pp au-dessus de KB à 11,9 %. La vitesse à laquelle cet écart se resserre est, mécaniquement, la vitesse du « transit entre les sommets ».
 
 ---
 
@@ -59,7 +59,7 @@ La série a débuté avec trois pics :
 | Partie 2 | Kiwoom Securities | Bêta-volume de trading (dynamique) | 14,9 % |
 | Partie 3 | KB Financial Group | Proxy d'accès étranger (flux) | 11,9 % |
 
-Une fois ces trois pics stabilisés, l'attention du marché se déplace naturellement vers la suite — **à quelle vitesse les suiveurs progressent-ils vers quel pic ?** C'est à ce moment que Shinhan Financial Group devient visible.
+Une fois ces trois pics stabilisés, l'attention du marché se déplace naturellement vers la suite — <strong>à quelle vitesse les suiveurs progressent-ils vers quel pic ?</strong> C'est à ce moment que Shinhan Financial Group devient visible.
 
 ### 1.2 Shinhan Financial en Un Tableau
 
@@ -69,19 +69,19 @@ Une fois ces trois pics stabilisés, l'attention du marché se déplace naturell
 | Plus haut sur 52 semaines | ₩107 200 |
 | Distance par rapport au plus haut | -6,8 % |
 | Capitalisation boursière | ₩47,4 T |
-| Participation étrangère | **61,37 %** |
+| Participation étrangère | <strong>61,37 %</strong> |
 | Rendement sur 1 an | +94,36 % |
 | Rendement sur 1 mois | +10,39 % |
-| P/E 2026E / P/B 2026E | 8,61× / **0,78×** |
+| P/E 2026E / P/B 2026E | 8,61× / <strong>0,78×</strong> |
 | BPA 2026E / VCP 2026E | ₩11 604 / ₩128 901 |
 | DPA 2026E / rendement dividende | ₩2 979 / 2,98 % |
-| **ROE 1T26** | **11,9 %** |
-| **CET1 1T26** | **13,19 %** |
+| <strong>ROE 1T26</strong> | <strong>11,9 %</strong> |
+| <strong>CET1 1T26</strong> | <strong>13,19 %</strong> |
 | Ratio Coût/Revenu 1T26 | 36,7 % |
 | Taux de coût du crédit 1T26 | 0,46 % |
 | Taux de distribution 2025 | 50,2 % |
 | Rachat-annulation d'actions propres 1S26 | ₩700 Mds |
-| **NVR (fenêtre personnalisée, données internes)** | **+18 %** |
+| <strong>NVR (fenêtre personnalisée, données internes)</strong> | <strong>+18 %</strong> |
 
 Vérifications arithmétiques :
 - PBR 2026E = 99 900 / 128 901 = 0,7750 ≈ 0,78× ✓
@@ -90,7 +90,7 @@ Vérifications arithmétiques :
 - Ratio de rachat = 700 / 47 418 = 1,476 % ≈ 1,48 %
 - Distance par rapport au plus haut = 99 900 / 107 200 - 1 = -6,81 % ≈ -6,8 % ✓
 
-Ce que ce tableau montre : **les coordonnées fondamentales de Shinhan (ROE 11,9 %, CET1 13,19 %) ont déjà atteint, et dans certains cas dépassé, le niveau de KB Financial.** Pourtant, le PBR à 0,78× est 12 % inférieur à celui de KB à 0,88×. Cet écart constitue la marge pour le « transit ».
+Ce que ce tableau montre : <strong>les coordonnées fondamentales de Shinhan (ROE 11,9 %, CET1 13,19 %) ont déjà atteint, et dans certains cas dépassé, le niveau de KB Financial.</strong> Pourtant, le PBR à 0,78× est 12 % inférieur à celui de KB à 0,88×. Cet écart constitue la marge pour le « transit ».
 
 ---
 
@@ -136,7 +136,7 @@ Vérification :
 - Hausse − Baisse = 20,65 − 14,35 = 6,3 M ✓
 - (20,65 − 14,35) / (20,65 + 14,35) = 6,3 / 35,0 = 0,18 = 18 % ✓
 
-Lecture : **Dans une fenêtre où le prix a à peine bougé, le volume des journées de hausse a dépassé celui des journées de baisse d'environ 44 %.**
+Lecture : <strong>Dans une fenêtre où le prix a à peine bougé, le volume des journées de hausse a dépassé celui des journées de baisse d'environ 44 %.</strong>
 
 Qu'est-ce que cela signifie ? Une augmentation de l'OBV après une hausse de prix de +20–30 % n'est souvent que du volume suiveur. Mais un NVR de +18 % dans une fenêtre où le prix est plat est un schéma différent.
 
@@ -148,7 +148,7 @@ Prix sans réaction
   → prix pas encore pleinement intégré
 ```
 
-C'est la signature comptable d'une société **où le mouvement a commencé mais où le prix n'a pas encore réagi** — non pas d'une société qui a déjà couru.
+C'est la signature comptable d'une société <strong>où le mouvement a commencé mais où le prix n'a pas encore réagi</strong> — non pas d'une société qui a déjà couru.
 
 ### 2.3 Limite Méthodologique — Mise en Garde Honnête
 
@@ -156,11 +156,11 @@ Pour évaluer équitablement la crédibilité du signal, une mise en garde doit 
 
 Le signal devrait donc être interprété comme l'un des cas suivants :
 
-- **Erreur de libellé** — le NVR réel sur 30 jours de trading doit être recalculé avec la bonne fenêtre
-- **Signal d'accumulation 50J** — si lu comme une fenêtre à moyen terme, l'implication est structurellement plus forte
-- **Signal de fenêtre événementielle personnalisée** — interprétable comme accumulation cumulée autour d'un événement spécifique
+- <strong>Erreur de libellé</strong> — le NVR réel sur 30 jours de trading doit être recalculé avec la bonne fenêtre
+- <strong>Signal d'accumulation 50J</strong> — si lu comme une fenêtre à moyen terme, l'implication est structurellement plus forte
+- <strong>Signal de fenêtre événementielle personnalisée</strong> — interprétable comme accumulation cumulée autour d'un événement spécifique
 
-La directionnalité du signal est robuste, mais **la définition de la fenêtre nécessite une vérification séparée**. Puisque cette série suit la façon dont le volume reconnaît le « transit entre les sommets », plus la définition de la fenêtre est précise, plus l'interprétation du signal est claire. Les prochains épisodes suivront les NVR sur 20J / 30J / 50J calculés selon la même formule.
+La directionnalité du signal est robuste, mais <strong>la définition de la fenêtre nécessite une vérification séparée</strong>. Puisque cette série suit la façon dont le volume reconnaît le « transit entre les sommets », plus la définition de la fenêtre est précise, plus l'interprétation du signal est claire. Les prochains épisodes suivront les NVR sur 20J / 30J / 50J calculés selon la même formule.
 
 ---
 
@@ -168,21 +168,21 @@ La directionnalité du signal est robuste, mais **la définition de la fenêtre 
 
 ### 3.1 Où les Résultats 1T26 Placent Shinhan
 
-Le résultat 1T26 de Shinhan n'est pas simplement « un bon trimestre » — c'est **la preuve comptable que les fondamentaux ont déjà atteint la coordonnée de KB Financial**.
+Le résultat 1T26 de Shinhan n'est pas simplement « un bon trimestre » — c'est <strong>la preuve comptable que les fondamentaux ont déjà atteint la coordonnée de KB Financial</strong>.
 
 | Indicateur | Shinhan 1T26 | KB 1T26 |
 | --- | ---: | ---: |
 | Résultat net | ₩1,6226 T (record trimestriel) | ₩1,89 T |
-| ROE | **11,9 %** | 10,5 % |
-| CET1 | **13,19 %** | 13,63 % |
+| ROE | <strong>11,9 %</strong> | 10,5 % |
+| CET1 | <strong>13,19 %</strong> | 13,63 % |
 | Ratio Coût/Revenu | 36,7 % | — |
 | Taux de coût du crédit | 0,46 % | — |
 
 Calcul : ROE 11,9 % (Shinhan) − 10,5 % (KB) = +1,4 pp. CET1 13,63 % (KB) − 13,19 % (Shinhan) = +0,44 pp.
 
-Observation notable : **Le ROE est supérieur chez Shinhan.** La hausse du ROE hors banque est venue du résultat net 1T de Shinhan Investment (+167,4 % en glissement annuel), ce qui a tiré le ROE du groupe vers le haut. Le CET1 est supérieur de 0,44 pp chez KB, mais les deux se situent dans la classe 13 % — c'est-à-dire que tous deux satisfont au « plafond comptable de capacité de retour en capital ».
+Observation notable : <strong>Le ROE est supérieur chez Shinhan.</strong> La hausse du ROE hors banque est venue du résultat net 1T de Shinhan Investment (+167,4 % en glissement annuel), ce qui a tiré le ROE du groupe vers le haut. Le CET1 est supérieur de 0,44 pp chez KB, mais les deux se situent dans la classe 13 % — c'est-à-dire que tous deux satisfont au « plafond comptable de capacité de retour en capital ».
 
-La ligne directrice de ce tableau : **la coordonnée fondamentale de Shinhan n'est plus une coordonnée de « suiveur ».** Elle se situe déjà à peu près au même endroit que la « coordonnée d'accès étranger » que KB a atteinte en premier.
+La ligne directrice de ce tableau : <strong>la coordonnée fondamentale de Shinhan n'est plus une coordonnée de « suiveur ».</strong> Elle se situe déjà à peu près au même endroit que la « coordonnée d'accès étranger » que KB a atteinte en premier.
 
 ### 3.2 Value-up 2.0 — Même Langage, Sur la Même Matrice
 
@@ -195,7 +195,7 @@ Le cœur du Value-up 2.0 n'est pas une hausse de dividende en titre. Selon la co
 | CET1 | Gestion stable au-dessus de 13 % |
 | Mécanisme d'implémentation | Liaison ROE × croissance × CET1 |
 
-Ce cadre parle le même langage que les parties 1 / 2 / 3 parce que l'algorithme est le même : **« construire le ROE → recycler l'excédent de capital en retour de capital → stimuler l'accrétion du BPA ».** Meritz opère cet algorithme à ROE 22,4 % ; KB l'opère à ROE 10,5 % ; Shinhan entre maintenant dans le même algorithme à ROE 11,9 %.
+Ce cadre parle le même langage que les parties 1 / 2 / 3 parce que l'algorithme est le même : <strong>« construire le ROE → recycler l'excédent de capital en retour de capital → stimuler l'accrétion du BPA ».</strong> Meritz opère cet algorithme à ROE 22,4 % ; KB l'opère à ROE 10,5 % ; Shinhan entre maintenant dans le même algorithme à ROE 11,9 %.
 
 L'arithmétique du Value-up 2.0 (selon les informations de Yonhap) :
 
@@ -208,7 +208,7 @@ Avec une croissance de 4–5 % :
   → Le plafond effectif sur le taux de distribution disparaît
 ```
 
-Point crucial : **la société n'est plus plafonnée à un taux de distribution dividende de 30–40 %.** Le taux de distribution devient une fonction du ROE et de la croissance, s'ajustant automatiquement. C'est le même type d'allocation de capital piloté par algorithme que Meritz utilise (rachats auto-calibrés quand 1/PER dépasse le coût des fonds propres).
+Point crucial : <strong>la société n'est plus plafonnée à un taux de distribution dividende de 30–40 %.</strong> Le taux de distribution devient une fonction du ROE et de la croissance, s'ajustant automatiquement. C'est le même type d'allocation de capital piloté par algorithme que Meritz utilise (rachats auto-calibrés quand 1/PER dépasse le coût des fonds propres).
 
 ### 3.3 Le Calcul du Rachat de ₩700 Mds
 
@@ -224,7 +224,7 @@ Ratio de rachat annualisé ≈ \~2,96 % (simple ×2)
 Rendement total visible ≈ 2,98 % + \~3 % = \~6 %
 ```
 
-Ce \~6 % se situe entre Meritz (6,7 % en partie 1) et KB (9,6 % en partie 3). Sur la seule base du rendement total, Shinhan est légèrement en retrait de Meritz et clairement en retrait de KB. Plus important que le niveau absolu : **cet écart est la marge pour le transit.**
+Ce \~6 % se situe entre Meritz (6,7 % en partie 1) et KB (9,6 % en partie 3). Sur la seule base du rendement total, Shinhan est légèrement en retrait de Meritz et clairement en retrait de KB. Plus important que le niveau absolu : <strong>cet écart est la marge pour le transit.</strong>
 
 ---
 
@@ -238,8 +238,8 @@ Regroupant toutes les lectures de coût implicite des fonds propres produites pa
 | --- | ---: | ---: | ---: |
 | Meritz Financial Holdings | 22,4 % | 1,57× | 14,3 % (base Wise) \~ 11,5 % (base source) |
 | Kiwoom Securities | 20,7 % | 1,39× | 14,9 % |
-| KB Financial Group | 10,5 % | 0,88× | **11,9 %** |
-| **Shinhan Financial** | **11,9 %** | **0,78×** | **15,26 %** |
+| KB Financial Group | 10,5 % | 0,88× | <strong>11,9 %</strong> |
+| <strong>Shinhan Financial</strong> | <strong>11,9 %</strong> | <strong>0,78×</strong> | <strong>15,26 %</strong> |
 | Hana Financial | 10,5 % | 0,70× | 15,00 % |
 
 Vérification :
@@ -247,7 +247,7 @@ Vérification :
 - KB : 10,5 / 0,88 = 11,93 % ≈ 11,9 % ✓
 - Shinhan − KB = 15,26 − 11,93 = 3,33 pp
 
-Observation clé : **Le coût implicite des fonds propres de Shinhan à 15,26 % est 3,3 pp au-dessus de celui de KB à 11,93 %** — même si les deux appartiennent à la catégorie ROE 10 %, partagent la solidité structurelle CET1 13 %, ont une actionnariat à orientation étrangère, et opèrent tous deux dans le cadre Value-up.
+Observation clé : <strong>Le coût implicite des fonds propres de Shinhan à 15,26 % est 3,3 pp au-dessus de celui de KB à 11,93 %</strong> — même si les deux appartiennent à la catégorie ROE 10 %, partagent la solidité structurelle CET1 13 %, ont une actionnariat à orientation étrangère, et opèrent tous deux dans le cadre Value-up.
 
 Cet écart de 3,3 pp est précisément la « marge pour le transit ». À mesure que Shinhan converge vers la coordonnée atteinte par KB, l'écart se resserre mécaniquement.
 
@@ -257,17 +257,17 @@ En maintenant le ROE à 11,9 % constant et en abaissant progressivement le coût
 
 | Coût implicite des fonds propres | PBR justifié | Prix justifié (VCP ₩128 901) | Signification |
 | ---: | ---: | ---: | --- |
-| 15,3 % (actuel) | 0,78× | **₩99 900 (actuel)** | Début du transit |
+| 15,3 % (actuel) | 0,78× | <strong>₩99 900 (actuel)</strong> | Début du transit |
 | 14,0 % | 0,85× | ₩109 600 | Premier rapprochement |
 | 13,0 % | 0,92× | ₩118 500 | À moins de 1 pp de KB |
-| 11,9 % (niveau KB) | 1,00× | **₩128 900** | Atteint la coordonnée KB |
+| 11,9 % (niveau KB) | 1,00× | <strong>₩128 900</strong> | Atteint la coordonnée KB |
 | 10,5 % (KB à PBR 1,13× hypothétique) | 1,13× | ₩145 700 | Dépasse KB |
 
 Vérification :
 - PBR 0,92× = 11,9 / 13,0 = 0,915 ≈ 0,92× ; prix = 128 901 × 0,92 = ₩118 589 ≈ ₩118 500 ✓
 - Prix PBR 1,00× = 128 901 × 1,00 = ₩128 901 ✓
 
-Ce que ce tableau montre en une ligne : **l'hypothèse « Shinhan transite vers la coordonnée atteinte par KB » s'exprime, mathématiquement, comme PBR 1,00× et un prix de \~₩128 900.** Ce n'est pas un objectif de cours — c'est la position comptable à laquelle « le marché accepte le coût des fonds propres de Shinhan au niveau de KB ».
+Ce que ce tableau montre en une ligne : <strong>l'hypothèse « Shinhan transite vers la coordonnée atteinte par KB » s'exprime, mathématiquement, comme PBR 1,00× et un prix de \~₩128 900.</strong> Ce n'est pas un objectif de cours — c'est la position comptable à laquelle « le marché accepte le coût des fonds propres de Shinhan au niveau de KB ».
 
 ### 4.3 Comment le Mécanisme de Transit Opère
 
@@ -283,9 +283,9 @@ Moteurs du transit :
   → Même ROE, même VCP, mais le PBR monte mécaniquement
 ```
 
-C'est le même type de mécanisme auto-renforçant décrit en Partie 1 (capitalisation-rachat composé), Partie 2 (bêta-volume de trading), et Partie 3 (proxy d'accès étranger). La différence dans le cas de Shinhan est que **ce mécanisme opère « vers le pic » plutôt que « au pic ».**
+C'est le même type de mécanisme auto-renforçant décrit en Partie 1 (capitalisation-rachat composé), Partie 2 (bêta-volume de trading), et Partie 3 (proxy d'accès étranger). La différence dans le cas de Shinhan est que <strong>ce mécanisme opère « vers le pic » plutôt que « au pic ».</strong>
 
-Cette distinction est exactement la raison pour laquelle Shinhan occupe une position significative dans la série. Les parties 1 à 3 ont peint le paysage *des* pics ; Shinhan est le premier cas qui montre **comment un suiveur se déplace entre les pics sur la même matrice**.
+Cette distinction est exactement la raison pour laquelle Shinhan occupe une position significative dans la série. Les parties 1 à 3 ont peint le paysage *des* pics ; Shinhan est le premier cas qui montre <strong>comment un suiveur se déplace entre les pics sur la même matrice</strong>.
 
 ---
 
@@ -295,17 +295,17 @@ Cette distinction est exactement la raison pour laquelle Shinhan occupe une posi
 
 L'alignement le plus intéressant de cet article est le suivant.
 
-**Signal 1 (volume)** : NVR +18 % — dans une fenêtre de prix essentiellement stable, le volume des journées de hausse a dépassé celui des journées de baisse de 44 %. Schéma d'accumulation.
+<strong>Signal 1 (volume)</strong> : NVR +18 % — dans une fenêtre de prix essentiellement stable, le volume des journées de hausse a dépassé celui des journées de baisse de 44 %. Schéma d'accumulation.
 
-**Signal 2 (fondamentaux)** : ROE 11,9 %, CET1 13,19 %, rachat de ₩700 Mds, Value-up 2.0 — déjà à la coordonnée atteinte par KB.
+<strong>Signal 2 (fondamentaux)</strong> : ROE 11,9 %, CET1 13,19 %, rachat de ₩700 Mds, Value-up 2.0 — déjà à la coordonnée atteinte par KB.
 
-**Signal 3 (valorisation)** : PBR 0,78× vs KB 0,88× — mêmes fondamentaux, prix 12 % inférieur.
+<strong>Signal 3 (valorisation)</strong> : PBR 0,78× vs KB 0,88× — mêmes fondamentaux, prix 12 % inférieur.
 
 Les trois signaux pointent dans la même direction. Le volume a reconnu le « transit » en premier ; les fondamentaux vérifient la « coordonnée de transit » ; l'écart de valorisation montre la « marge pour le transit ».
 
 ### 5.2 Signification dans le Cadre de la Série
 
-La raison pour laquelle cet alignement compte dans les termes de la série est simple. **Le signal de volume (NVR) est co-aligné avec l'écart de coût implicite des fonds propres (+3,3 pp vs KB) — ce qui signifie que le marché a commencé à reconnaître le « transit entre les sommets » en termes comptables.**
+La raison pour laquelle cet alignement compte dans les termes de la série est simple. <strong>Le signal de volume (NVR) est co-aligné avec l'écart de coût implicite des fonds propres (+3,3 pp vs KB) — ce qui signifie que le marché a commencé à reconnaître le « transit entre les sommets » en termes comptables.</strong>
 
 ```
 Phase de reconnaissance des pics (Parties 1–3) :
@@ -327,15 +327,15 @@ Ce changement de phase est lui-même un signal de stade plus profond dans la pro
 
 Le bond de +167,4 % en glissement annuel du résultat net de Shinhan Investment au 1T26 a été la variable décisive qui a produit un ROE de groupe de 11,9 %. Mais les résultats des valeurs mobilières sont sensibles au volume de transactions et à l'environnement de marché — exactement la volatilité suivie en Partie 2 chez Kiwoom.
 
-Ainsi, savoir si le ROE de 11,9 % de Shinhan est un « transit structurel » ou un « one-off du 1T » nécessite une vérification **à partir du 2T26**. Si les résultats hors banque se maintiennent au 2T, la lecture de la coordonnée de transit se renforce. Si le 1T s'avère être un one-off, le transit ralentit.
+Ainsi, savoir si le ROE de 11,9 % de Shinhan est un « transit structurel » ou un « one-off du 1T » nécessite une vérification <strong>à partir du 2T26</strong>. Si les résultats hors banque se maintiennent au 2T, la lecture de la coordonnée de transit se renforce. Si le 1T s'avère être un one-off, le transit ralentit.
 
-Ce n'est pas une faiblesse — c'est le **mécanisme d'auto-vérification du modèle**. Même type de signal que la (Partie 1) auto-stabilisation de Meritz ou la (Partie 2) auto-vérification de Kiwoom. Les données nécessaires pour valider le transit s'impriment automatiquement chaque trimestre.
+Ce n'est pas une faiblesse — c'est le <strong>mécanisme d'auto-vérification du modèle</strong>. Même type de signal que la (Partie 1) auto-stabilisation de Meritz ou la (Partie 2) auto-vérification de Kiwoom. Les données nécessaires pour valider le transit s'impriment automatiquement chaque trimestre.
 
 ### 6.2 La Définition de la Fenêtre NVR Elle-Même Nécessite une Vérification
 
 Comme signalé en Section 2.3, le libellé interne « 30 jours de trading » ne correspond pas au calendrier. La directionnalité du NVR +18 % est robuste, mais la précision de la fenêtre nécessite une vérification séparée.
 
-Cette limite n'est pas simplement un problème de précision des données — c'est le **prérequis pour mesurer avec précision « à quelle vitesse le transit se produit »**. Que la fenêtre soit 30J ou 50J change l'interprétation de la vitesse. Puisque la série suit la vitesse du transit inter-pics, une définition propre de la fenêtre rend l'analyse plus propre.
+Cette limite n'est pas simplement un problème de précision des données — c'est le <strong>prérequis pour mesurer avec précision « à quelle vitesse le transit se produit »</strong>. Que la fenêtre soit 30J ou 50J change l'interprétation de la vitesse. Puisque la série suit la vitesse du transit inter-pics, une définition propre de la fenêtre rend l'analyse plus propre.
 
 Les prochains épisodes suivront les NVR sur 20J / 30J / 50J calculés selon la même formule et alignés dans une comparaison unique.
 
@@ -347,25 +347,25 @@ Non pas des déclencheurs de trading. Des points d'observation montrant la vites
 
 ### 7.1 Shinhan Financial — Vérifier le Transit
 
-- **ROE 2T26 maintenu au-dessus de 10 %.** Vérification de la nature structurelle de la hausse hors banque du 1T. Une stabilisation au-dessus de 10 % clôture le mouvement de coordonnée de transit comptablement.
-- **CET1 maintenu au-dessus de 13,0 %.** Le plafond de capacité de retour en capital. En dessous de 13,0 %, l'algorithme de rachat-annulation serait ébranlé.
-- **Annonce de rachat-annulation supplémentaire 2S26.** Une taille second semestre comparable aux ₩700 Mds du 1S cimente le rendement total annualisé de \~6 %.
-- **Progression de la participation étrangère de 60 % → 65–70 %.** Rapprochement progressif des 75,72 % de KB. Le signal le plus direct de transit vers la coordonnée d'accès étranger.
-- **Franchissement du plus haut sur 52 semaines (₩107 200) accompagné de volume.** La vérification comptable du signal NVR.
+- <strong>ROE 2T26 maintenu au-dessus de 10 %.</strong> Vérification de la nature structurelle de la hausse hors banque du 1T. Une stabilisation au-dessus de 10 % clôture le mouvement de coordonnée de transit comptablement.
+- <strong>CET1 maintenu au-dessus de 13,0 %.</strong> Le plafond de capacité de retour en capital. En dessous de 13,0 %, l'algorithme de rachat-annulation serait ébranlé.
+- <strong>Annonce de rachat-annulation supplémentaire 2S26.</strong> Une taille second semestre comparable aux ₩700 Mds du 1S cimente le rendement total annualisé de \~6 %.
+- <strong>Progression de la participation étrangère de 60 % → 65–70 %.</strong> Rapprochement progressif des 75,72 % de KB. Le signal le plus direct de transit vers la coordonnée d'accès étranger.
+- <strong>Franchissement du plus haut sur 52 semaines (₩107 200) accompagné de volume.</strong> La vérification comptable du signal NVR.
 
 ### 7.2 Méta-Signaux au Niveau de la Série
 
-- **Vitesse à laquelle le coût implicite des fonds propres de Shinhan à 15,26 % se rapproche de 14 % → 13 % → 12 %.** La mesure la plus directe de la « vitesse de transit ».
-- **Co-mouvement entre le signal NVR et l'écart de coût implicite des fonds propres.** Lorsque les deux se déplacent dans la même direction, le modèle de « transit » gagne en profondeur.
-- **Changements de position des autres suiveurs.** Hana Financial (15,00 %), Woori Financial (14,71 %) — à quelles vitesses se déplacent-ils chacun sur la même matrice ?
+- <strong>Vitesse à laquelle le coût implicite des fonds propres de Shinhan à 15,26 % se rapproche de 14 % → 13 % → 12 %.</strong> La mesure la plus directe de la « vitesse de transit ».
+- <strong>Co-mouvement entre le signal NVR et l'écart de coût implicite des fonds propres.</strong> Lorsque les deux se déplacent dans la même direction, le modèle de « transit » gagne en profondeur.
+- <strong>Changements de position des autres suiveurs.</strong> Hana Financial (15,00 %), Woori Financial (14,71 %) — à quelles vitesses se déplacent-ils chacun sur la même matrice ?
 
 ### 7.3 Prochains Candidats
 
 Si Shinhan est le « premier cas de transit », les prochains articles de la série examineront d'autres suiveurs :
 
-- **Hana Financial Holdings** — Coût implicite des fonds propres 15,00 %, PBR 0,7×. Presque la même coordonnée que Shinhan, mais avec une participation étrangère inférieure (\~68 % vs Shinhan 61 %, KB 75 %). Le transit vers « l'accès étranger » est structurellement une étape plus en retrait de Shinhan.
-- **DB Insurance** — Candidat à transiter vers la coordonnée Meritz dans l'assurance. La transition du taux de distribution de 30 % → 35 %+ est le signal clé.
-- **Korea Investment Holdings** — Candidat de la cohorte valeurs mobilières à transiter vers la coordonnée Kiwoom. La question clé est de savoir si le ROE se stabilise dans la fourchette 16 % tout en acceptant la volatilité.
+- <strong>Hana Financial Holdings</strong> — Coût implicite des fonds propres 15,00 %, PBR 0,7×. Presque la même coordonnée que Shinhan, mais avec une participation étrangère inférieure (\~68 % vs Shinhan 61 %, KB 75 %). Le transit vers « l'accès étranger » est structurellement une étape plus en retrait de Shinhan.
+- <strong>DB Insurance</strong> — Candidat à transiter vers la coordonnée Meritz dans l'assurance. La transition du taux de distribution de 30 % → 35 %+ est le signal clé.
+- <strong>Korea Investment Holdings</strong> — Candidat de la cohorte valeurs mobilières à transiter vers la coordonnée Kiwoom. La question clé est de savoir si le ROE se stabilise dans la fourchette 16 % tout en acceptant la volatilité.
 
 Quel pic chaque candidat vise — et à quelle vitesse — définit le prochain chapitre de la série.
 
@@ -373,7 +373,7 @@ Quel pic chaque candidat vise — et à quelle vitesse — définit le prochain 
 
 ## 8. La Ligne de Clôture
 
-Les parties 1 à 3 ont peint le paysage de « trois pics coexistant simultanément ». Cette Partie 4 ajoute un chapitre à ce paysage — **une fois les pics stabilisés, le marché commence à surveiller le « transit entre les sommets ».** Shinhan Financial Group est le premier cas de ce nouveau chapitre.
+Les parties 1 à 3 ont peint le paysage de « trois pics coexistant simultanément ». Cette Partie 4 ajoute un chapitre à ce paysage — <strong>une fois les pics stabilisés, le marché commence à surveiller le « transit entre les sommets ».</strong> Shinhan Financial Group est le premier cas de ce nouveau chapitre.
 
 Les coordonnées fondamentales de Shinhan (ROE 11,9 %, CET1 13,19 %, Value-up 2.0) sont presque identiques à la coordonnée « accès étranger » que KB a atteinte en premier. Mais le coût implicite des fonds propres est 3,3 pp plus élevé que celui de KB. Cet écart est la « marge pour le transit », et NVR +18 % est le signal comptable que le volume a reconnu le transit en premier. Volume, fondamentaux et écart de valorisation pointent tous dans le même sens.
 
@@ -385,28 +385,28 @@ Le prochain article de la série paraîtra lorsque (1) le ROE 2T26 de Shinhan se
 
 ## FAQ — Shinhan Financial Group
 
-**Q : Shinhan Financial est-il coté en bourse ?**
-R : Oui. Shinhan Financial Group est coté au KOSPI sous le ticker **055550**. Des ADR sont négociés au NYSE sous le ticker **SHG**.
+<strong>Q : Shinhan Financial est-il coté en bourse ?</strong>
+R : Oui. Shinhan Financial Group est coté au KOSPI sous le ticker <strong>055550</strong>. Des ADR sont négociés au NYSE sous le ticker <strong>SHG</strong>.
 
-**Q : Qui détient Shinhan Financial ?**
+<strong>Q : Qui détient Shinhan Financial ?</strong>
 R : Shinhan Financial n'a pas de famille contrôlante ni de bloc de capital industriel. Les principaux actionnaires comprennent le National Pension Service, des investisseurs institutionnels étrangers et des gestionnaires d'actifs mondiaux. La participation étrangère est d'environ 61 % fin avril 2026 — deuxième plus élevée parmi les quatre grands holdings bancaires coréens, derrière seulement KB Financial.
 
-**Q : Quel est le taux de participation étrangère de Shinhan ?**
+<strong>Q : Quel est le taux de participation étrangère de Shinhan ?</strong>
 R : \~61,37 % au 30 avril 2026. Le classement des quatre holdings bancaires est : KB (75,72 %) > Shinhan (\~61 %) > Hana (\~68 %) > Woori (\~48 %).
 
-**Q : Qu'est-ce que le Value-up 2.0 ?**
+<strong>Q : Qu'est-ce que le Value-up 2.0 ?</strong>
 R : Le plan de valorisation d'entreprise renforcé de Shinhan, divulgué via le KRX. Il relie ROE × croissance × CET1 dans une formule explicite plutôt que de fixer la société à un taux de distribution dividende fixe. ROE 10 %+, distribution 50 %+, gestion stable du CET1 au-dessus de 13 %.
 
-**Q : Quel est le ticker ADR de Shinhan ?**
+<strong>Q : Quel est le ticker ADR de Shinhan ?</strong>
 R : SHG au NYSE.
 
-**Q : Comment Shinhan se compare-t-il à KB Financial ?**
+<strong>Q : Comment Shinhan se compare-t-il à KB Financial ?</strong>
 R : Fondamentalement très proche. ROE : Shinhan 11,9 % vs KB 10,5 % (Shinhan supérieur). CET1 : Shinhan 13,19 % vs KB 13,63 % (KB légèrement supérieur). Participation étrangère : Shinhan \~61 % vs KB \~76 % (KB supérieur). PBR : Shinhan 0,78× vs KB 0,88× (KB supérieur). La série décrit Shinhan comme « transitant vers la coordonnée atteinte en premier par KB ».
 
-**Q : Le record de résultat trimestriel 1T26 de Shinhan est-il durable ?**
+<strong>Q : Le record de résultat trimestriel 1T26 de Shinhan est-il durable ?</strong>
 R : Les ₩1,6226 T du 1T étaient un record. Le bras hors banque — Shinhan Investment Corp — a entraîné une hausse du résultat net de +167,4 % en glissement annuel, ce qui a porté le ROE du groupe à 11,9 %. La durabilité nécessite une vérification au 2T et au-delà, car les résultats des valeurs mobilières sont sensibles au volume de transactions.
 
-**Q : Qu'est-ce que le NVR (Net Volume Ratio) ?**
+<strong>Q : Qu'est-ce que le NVR (Net Volume Ratio) ?</strong>
 R : Un indicateur d'accumulation normalisé : (volume journées hausse − volume journées baisse) / (volume journées hausse + volume journées baisse). Plage : −1 à +1. Contrairement à l'OBV brut, il permet une comparaison plus propre entre différentes valeurs. NVR +18 % signifie que le volume des journées de hausse a dépassé celui des journées de baisse d'environ 44 %.
 
 ---

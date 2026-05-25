@@ -14,7 +14,7 @@ tags:
 slug: samsung-electronics-tsmc-rerating-thesis-2026-05-16
 ---
 
-> 📚 **Samsung Electronics シリーズ**
+> 📚 <strong>Samsung Electronics シリーズ</strong>
 > Part 1: [シティTP KRW 460,000 — メモリサイクルの枠組みが間違っている理由](/post/samsung-electronics-citi-tp-460000-memory-rerating-2026-05-11/)
 > Part 2: [ストライキ vs メモリスーパーサイクル — 問われるのは超過利益を誰が取るかだ](/post/samsung-electronics-strike-vs-memory-supercycle-2026-05-15/)
 > 関連ハブ: [AI HBM Hub](/page/korea-semiconductor-hbm-kospi-hub/) · [Memory Pulse Dashboard](https://memory.koreainvestinsights.com/)

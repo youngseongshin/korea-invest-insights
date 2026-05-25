@@ -8,13 +8,13 @@ categories: ["Why-Korea"]
 tags: ["Why Korea", "mỹ phẩm Hàn Quốc", "K-beauty", "chăm sóc da", "Olive Young", "ODM", "Kolmar Korea", "Cosmax", "APR", "Medicube", "thiết bị làm đẹp", "làn sóng Hàn Quốc", "cổ phiếu Hàn Quốc"]
 ---
 
-> **Series Why Korea, Phần 2.** Phần 1 đặt câu hỏi [tại sao Hàn Quốc có nhiều công ty sản xuất đế bán dẫn đến vậy](/vi/post/why-korea-semiconductor-substrate-competitive-edge-2026-05-07/). Bài này đặt câu hỏi tương tự trong lĩnh vực hàng tiêu dùng: tại sao Hàn Quốc lại sản sinh ra các thương hiệu làm đẹp có tầm ảnh hưởng toàn cầu, nhà sản xuất ODM, một nền tảng bán lẻ thống trị lẫn các công ty thiết bị làm đẹp, tất cả cùng một lúc? Đọc bài này cùng với [Olive Young, PharmaResearch và K-Beauty Hub](/page/k-beauty-olive-young-pharmaresearch-hub/), [phân tích APR / Medicube](/vi/post/apr-medicube-age-r-deep-dive-valuation-2026/) và [bài giải thích về cổ phiếu niêm yết Olive Young](/vi/post/olive-young-publicly-traded-cj-corp-korea-beauty-exposure-2026-04-27/).
+> <strong>Series Why Korea, Phần 2.</strong> Phần 1 đặt câu hỏi [tại sao Hàn Quốc có nhiều công ty sản xuất đế bán dẫn đến vậy](/vi/post/why-korea-semiconductor-substrate-competitive-edge-2026-05-07/). Bài này đặt câu hỏi tương tự trong lĩnh vực hàng tiêu dùng: tại sao Hàn Quốc lại sản sinh ra các thương hiệu làm đẹp có tầm ảnh hưởng toàn cầu, nhà sản xuất ODM, một nền tảng bán lẻ thống trị lẫn các công ty thiết bị làm đẹp, tất cả cùng một lúc? Đọc bài này cùng với [Olive Young, PharmaResearch và K-Beauty Hub](/page/k-beauty-olive-young-pharmaresearch-hub/), [phân tích APR / Medicube](/vi/post/apr-medicube-age-r-deep-dive-valuation-2026/) và [bài giải thích về cổ phiếu niêm yết Olive Young](/vi/post/olive-young-publicly-traded-cj-corp-korea-beauty-exposure-2026-04-27/).
 
 Năm 2025, Hàn Quốc xuất khẩu 11,43 tỷ USD mỹ phẩm, con số kỷ lục. Tên Hàn Quốc hiện thường xuất hiện cùng Pháp và Mỹ khi nhắc đến ba nhà xuất khẩu mỹ phẩm hàng đầu thế giới, và tùy theo cách phân loại, Hàn Quốc đang cạnh tranh với Mỹ để giành vị trí thứ hai sau Pháp.
 
 Điều đó nghe có vẻ khó tin. Hàn Quốc không có L'Oreal, Estee Lauder, Chanel hay Dior. Nước này không có truyền thống nước hoa và xa xỉ phẩm hàng thế kỷ như Pháp. Dân số trong nước chỉ khoảng 50 triệu người. Vậy mỹ phẩm Hàn Quốc đã trở nên lớn mạnh đến thế bằng cách nào?
 
-Câu trả lời không phải là một quán quân duy nhất. Đó là cả một hệ sinh thái: **phát triển sản phẩm nhanh, sản xuất theo hợp đồng, người tiêu dùng khắt khe, Olive Young như một nền tảng kiểm chứng thị trường, xuất khẩu văn hóa Hàn Quốc, và phân phối kỹ thuật số qua Amazon, TikTok Shop, Sephora, Ulta cùng nhiều kênh khác.**
+Câu trả lời không phải là một quán quân duy nhất. Đó là cả một hệ sinh thái: <strong>phát triển sản phẩm nhanh, sản xuất theo hợp đồng, người tiêu dùng khắt khe, Olive Young như một nền tảng kiểm chứng thị trường, xuất khẩu văn hóa Hàn Quốc, và phân phối kỹ thuật số qua Amazon, TikTok Shop, Sephora, Ulta cùng nhiều kênh khác.</strong>
 
 Cơ cấu sản phẩm nói lên rất nhiều điều. Năm 2025, xuất khẩu chăm sóc da đạt 8,54 tỷ USD, chiếm khoảng 75% tổng xuất khẩu mỹ phẩm của Hàn Quốc. Hàn Quốc không chủ yếu xuất khẩu nước hoa. Nước này đang xuất khẩu một văn hóa quản lý da: dưỡng ẩm, làm dịu, phục hồi hàng rào bảo vệ da, kem chống nắng, làm sáng da, chống lão hóa, mặt nạ, miếng pad, serum và ampoule.
 
@@ -57,7 +57,7 @@ Cơ cấu sản phẩm cũng quan trọng không kém.
 
 Kiểm tra: 8,54 / 11,43 = 74,7%.
 
-Kết luận rất rõ ràng. Hàn Quốc không chủ yếu xuất khẩu nước hoa, cũng không chủ yếu xuất khẩu trang điểm cao cấp. Hàn Quốc là **nhà xuất khẩu chăm sóc da**. Điều này thay đổi cả mô hình kinh tế. Nước hoa và trang điểm prestige phụ thuộc nhiều vào hào quang thương hiệu và sức mạnh chiến dịch quảng cáo. Chăm sóc da nghiêng về thành phần, kết cấu, mua hàng lặp lại, đánh giá và dữ liệu phân phối. Hệ sinh thái của Hàn Quốc được xây dựng cho mô hình thứ hai.
+Kết luận rất rõ ràng. Hàn Quốc không chủ yếu xuất khẩu nước hoa, cũng không chủ yếu xuất khẩu trang điểm cao cấp. Hàn Quốc là <strong>nhà xuất khẩu chăm sóc da</strong>. Điều này thay đổi cả mô hình kinh tế. Nước hoa và trang điểm prestige phụ thuộc nhiều vào hào quang thương hiệu và sức mạnh chiến dịch quảng cáo. Chăm sóc da nghiêng về thành phần, kết cấu, mua hàng lặp lại, đánh giá và dữ liệu phân phối. Hệ sinh thái của Hàn Quốc được xây dựng cho mô hình thứ hai.
 
 ---
 

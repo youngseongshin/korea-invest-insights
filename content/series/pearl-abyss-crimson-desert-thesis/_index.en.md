@@ -5,16 +5,16 @@ description: "Running research series on Pearl Abyss (263750.KQ) and Crimson Des
 
 ## What This Series Covers
 
-This is a structured, evolving research thread on **Pearl Abyss (263750.KQ)** and its tentpole AAA title **Crimson Desert**. Each post addresses a distinct analytical question as new data points arrive — China launch reception, 4M unit milestone, 5M milestone, sell-side consensus lag, and the post-launch normalization curve.
+This is a structured, evolving research thread on <strong>Pearl Abyss (263750.KQ)</strong> and its tentpole AAA title <strong>Crimson Desert</strong>. Each post addresses a distinct analytical question as new data points arrive — China launch reception, 4M unit milestone, 5M milestone, sell-side consensus lag, and the post-launch normalization curve.
 
 Posts are ordered chronologically. Read newest-first for current thesis state; read oldest-first to reconstruct how the information set evolved.
 
 ## The Core Questions Tracked
 
-1. **Is Crimson Desert commercially successful?** — Answered yes at the 4M/5M milestones. Franchise IP re-rating question.
-2. **Why has the stock lagged the news?** — Sell-side consensus gap thesis: institutional models update on earnings cycle, not milestone announcements.
-3. **Where does full-year 2026 sales normalize?** — Scenario framing: 7.5M floor / 8.5M base / 10M upside under current velocity assumptions.
-4. **What are the catalysts?** — Q1 2026 earnings (May 12), 6M milestone disclosure, deceleration curve shape.
+1. <strong>Is Crimson Desert commercially successful?</strong> — Answered yes at the 4M/5M milestones. Franchise IP re-rating question.
+2. <strong>Why has the stock lagged the news?</strong> — Sell-side consensus gap thesis: institutional models update on earnings cycle, not milestone announcements.
+3. <strong>Where does full-year 2026 sales normalize?</strong> — Scenario framing: 7.5M floor / 8.5M base / 10M upside under current velocity assumptions.
+4. <strong>What are the catalysts?</strong> — Q1 2026 earnings (May 12), 6M milestone disclosure, deceleration curve shape.
 
 ## Disclaimer
 

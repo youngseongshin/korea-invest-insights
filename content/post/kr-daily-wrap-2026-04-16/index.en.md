@@ -20,21 +20,21 @@ draft: false
 | USD/KRW | 1,475 | +0.1% | Flat |
 | Brent | $95.6 | -3.7% | Softening |
 
-**Regime Verdict:** Korea **Bull** / US **Neutral** — divergence favors selective KR expansion. Korea flipped to Bull on Apr 15; Day 1 of the new regime. Discovery screener printing 100/100 for Day 12 confirms breadth conditions are constructive, not yet extended.
+<strong>Regime Verdict:</strong> Korea <strong>Bull</strong> / US <strong>Neutral</strong> — divergence favors selective KR expansion. Korea flipped to Bull on Apr 15; Day 1 of the new regime. Discovery screener printing 100/100 for Day 12 confirms breadth conditions are constructive, not yet extended.
 
 ---
 
 ## Market Wrap
 
-Korea's equity market delivered a decisive session — not a broad-based melt-up, but a sharp capital rotation into a handful of high-conviction themes. The day's character: **selective risk-on**, where quality names in the right sectors widened their leads while the rest of the market was left behind.
+Korea's equity market delivered a decisive session — not a broad-based melt-up, but a sharp capital rotation into a handful of high-conviction themes. The day's character: <strong>selective risk-on</strong>, where quality names in the right sectors widened their leads while the rest of the market was left behind.
 
-The session's strongest axis was **semiconductor and AI hardware infrastructure**. Samsung Electro-Mechanics (009150.KS), Samsung Electronics (005930.KS), and semiconductor equipment name TES (095610.KS) all posted meaningful gains, supported by a broadening narrative around AI hardware demand and domestic supply chain re-rating. The strength wasn't isolated — it connected directly to a secondary theme of **telecom/RF infrastructure**, where names such as Daehan Optical Fiber (010580.KS), Solid (050890.KS), RFHIC (218410.KS), and KMW (032500.KS) led intraday momentum. The market is beginning to price an expansion of the AI infrastructure buildout beyond chip design into the RF and optical layers.
+The session's strongest axis was <strong>semiconductor and AI hardware infrastructure</strong>. Samsung Electro-Mechanics (009150.KS), Samsung Electronics (005930.KS), and semiconductor equipment name TES (095610.KS) all posted meaningful gains, supported by a broadening narrative around AI hardware demand and domestic supply chain re-rating. The strength wasn't isolated — it connected directly to a secondary theme of <strong>telecom/RF infrastructure</strong>, where names such as Daehan Optical Fiber (010580.KS), Solid (050890.KS), RFHIC (218410.KS), and KMW (032500.KS) led intraday momentum. The market is beginning to price an expansion of the AI infrastructure buildout beyond chip design into the RF and optical layers.
 
-**SK Telecom (017670.KS)** was a notable standout in the defensive bucket. Hana Securities maintained a Buy rating with a KRW 100,000 target ahead of Q1 results, framing the upside as dividend normalization plus re-rating potential — not just a defensive rotation. The stock outperformed its telecom peers on a combination of yield appeal and fundamental improvement expectations.
+<strong>SK Telecom (017670.KS)</strong> was a notable standout in the defensive bucket. Hana Securities maintained a Buy rating with a KRW 100,000 target ahead of Q1 results, framing the upside as dividend normalization plus re-rating potential — not just a defensive rotation. The stock outperformed its telecom peers on a combination of yield appeal and fundamental improvement expectations.
 
-**Construction and Middle East reconstruction** remained a thematic tailwind following a Hyundai Engineering & Construction (000720.KS) target price hike to KRW 240,000 from Hana, citing Q2 sentiment recovery and reconstruction pipeline. However, intraday setups in construction names including Daewoo E&C (047040.KS) largely failed to hold VWAP — the theme is real, but entry timing remains rough.
+<strong>Construction and Middle East reconstruction</strong> remained a thematic tailwind following a Hyundai Engineering & Construction (000720.KS) target price hike to KRW 240,000 from Hana, citing Q2 sentiment recovery and reconstruction pipeline. However, intraday setups in construction names including Daewoo E&C (047040.KS) largely failed to hold VWAP — the theme is real, but entry timing remains rough.
 
-**Power/energy** was the third orbit: SMP prices reportedly surged \~47% with ESS procurement activity accelerating. The macro setup for this theme is intact, but it lacked a clean vehicle for direct positioning today.
+<strong>Power/energy</strong> was the third orbit: SMP prices reportedly surged \~47% with ESS procurement activity accelerating. The macro setup for this theme is intact, but it lacked a clean vehicle for direct positioning today.
 
 Flow signals reinforced the selective read: foreign buying was concentrated in large-cap tech — Samsung Electronics' foreign-driven recovery was the most cited institutional signal in sell-side notes. Biotech underperformed across the board, with multiple desks explicitly recommending a reduction of bio exposure in favor of IT/semiconductor components. Today's market rewarded compression into leaders, not dispersion.
 
@@ -42,9 +42,9 @@ Flow signals reinforced the selective read: foreign buying was concentrated in l
 
 ## Today's Screener Spotlight: Quality Compounder (Thursday)
 
-**Screener methodology:** The Quality Compounder screen filters the 2,723-stock KR universe for high ROE, strong operating margins, low debt, and durable revenue growth — then cross-checks each candidate against price trend and liquidity. Only 154 stocks passed today's filter (5.7% of universe), with the top 20 averaging a strategy score of 0.911. This is a slow-money screen: it surfaces businesses that compound capital efficiently over time, not momentum chasers.
+<strong>Screener methodology:</strong> The Quality Compounder screen filters the 2,723-stock KR universe for high ROE, strong operating margins, low debt, and durable revenue growth — then cross-checks each candidate against price trend and liquidity. Only 154 stocks passed today's filter (5.7% of universe), with the top 20 averaging a strategy score of 0.911. This is a slow-money screen: it surfaces businesses that compound capital efficiently over time, not momentum chasers.
 
-**Today's regime context:** BULL regime with 62.0% of stocks above the 50MA and 58.8% above 200MA. Breadth is improving but not extreme — a healthy backdrop for quality-first selection.
+<strong>Today's regime context:</strong> BULL regime with 62.0% of stocks above the 50MA and 58.8% above 200MA. Breadth is improving but not extreme — a healthy backdrop for quality-first selection.
 
 ### Top 10 Quality Compounders — 2026-04-16
 
@@ -63,11 +63,11 @@ Flow signals reinforced the selective read: foreign buying was concentrated in l
 
 ### Top 3 in Focus
 
-**#1 — SK Square (402340.KS):** SK Square is the investment holding company spun off from SK Telecom, owning major stakes in SK Hynix and a portfolio of tech assets. It's flagging with the highest strategy score today (0.966) driven by a remarkable 84.1% operating margin — largely reflecting the high-value nature of its holdings — alongside a 37.8% ROE and a 10.4x P/E that remains compelling for the quality on offer. With RS at 98.8 and the stock near highs, the market is beginning to close the conglomerate discount. The SK Hynix re-rating cycle makes this an indirect high-quality play on HBM/AI memory demand without paying the full semiconductor equipment multiple.
+<strong>#1 — SK Square (402340.KS):</strong> SK Square is the investment holding company spun off from SK Telecom, owning major stakes in SK Hynix and a portfolio of tech assets. It's flagging with the highest strategy score today (0.966) driven by a remarkable 84.1% operating margin — largely reflecting the high-value nature of its holdings — alongside a 37.8% ROE and a 10.4x P/E that remains compelling for the quality on offer. With RS at 98.8 and the stock near highs, the market is beginning to close the conglomerate discount. The SK Hynix re-rating cycle makes this an indirect high-quality play on HBM/AI memory demand without paying the full semiconductor equipment multiple.
 
-**#4 — Sаnil Electric (062040.KS):** Sanil Electric manufactures power transformers and electrical conversion equipment — squarely in the structural tailwind of grid modernization and AI data center power infrastructure. ROE of 29.2%, operating margin of 35.6%, and 50.3% revenue growth YoY at a 38.6x P/E is a premium valuation, but the combination of RS 92.2 and near-high price action suggests the market is willing to pay it. This name connects directly to today's SMP surge and ESS procurement theme flagged in sell-side flow.
+<strong>#4 — Sаnil Electric (062040.KS):</strong> Sanil Electric manufactures power transformers and electrical conversion equipment — squarely in the structural tailwind of grid modernization and AI data center power infrastructure. ROE of 29.2%, operating margin of 35.6%, and 50.3% revenue growth YoY at a 38.6x P/E is a premium valuation, but the combination of RS 92.2 and near-high price action suggests the market is willing to pay it. This name connects directly to today's SMP surge and ESS procurement theme flagged in sell-side flow.
 
-**#7 — Leeno Industrial (058470.KQ):** Leeno is one of Korea's highest-quality precision electronic components makers — known for test sockets and semiconductor interconnect components. The 47.5% operating margin and near-zero debt ratio (8.3%) signal a capital-light compounder with genuine pricing power. Revenue growth of 33.9% YoY at RS 93.5 with a 57.7x P/E reflects the market already knows the quality — but the BULL regime context suggests this premium can persist as semiconductor equipment spending accelerates.
+<strong>#7 — Leeno Industrial (058470.KQ):</strong> Leeno is one of Korea's highest-quality precision electronic components makers — known for test sockets and semiconductor interconnect components. The 47.5% operating margin and near-zero debt ratio (8.3%) signal a capital-light compounder with genuine pricing power. Revenue growth of 33.9% YoY at RS 93.5 with a 57.7x P/E reflects the market already knows the quality — but the BULL regime context suggests this premium can persist as semiconductor equipment spending accelerates.
 
 ---
 

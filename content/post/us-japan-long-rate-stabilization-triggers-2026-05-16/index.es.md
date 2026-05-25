@@ -13,7 +13,7 @@ tags:
 slug: us-japan-long-rate-stabilization-triggers-2026-05-16
 ---
 
-> 📚 **Serie del Ciclo Macro**
+> 📚 <strong>Serie del Ciclo Macro</strong>
 >
 > Anterior: [Por qué todo se mueve al mismo tiempo — Irán, petróleo, inflación en EE.UU., China y Japón como un único ciclo](/post/2026-q2-macro-cycle-synthesis-2026-05-15/)
 >
@@ -31,13 +31,13 @@ Mi valoración se sitúa entre ambos extremos. Una estabilización a corto plazo
 
 ## Resumen Clave
 
-* **Situación actual**: Bono a 10 años de EE.UU. al 4,46%, a 30 años al 5,02%, JGB japonés a 10 años al 2,55% (máximo desde 1997), JGB a 30 años cerca del 4,0%.
-* **Desglose de los factores**: No es simplemente el resultado de comentarios restrictivos de la Fed. Las expectativas de tipos a corto plazo, las primas de inflación, las primas por plazo y las primas por oferta de deuda han subido todas al mismo tiempo.
-* **Potencial de estabilización**: Posible, pero condicional. La estructura no se deshace automáticamente con el tiempo.
-* **Cinco catalizadores clave**: Normalización de Ormuz y caída del precio del petróleo; contención del traslado energético al CPI/PPI subyacente de EE.UU.; orientación del BOJ en la reunión de junio; recuperación de la demanda en las subastas del Tesoro a 10 y 30 años; flujos hacia activos refugio provocados por correcciones en activos de riesgo.
-* **Escenarios a 1-3 meses**: Estabilización rápida 20–25%, consolidación en rango 45–50%, nueva convulsión 25–30%.
-* **Variable más importante**: La normalización del tránsito por Ormuz. Esta única variable incide simultáneamente en la inflación de EE.UU. y en los precios de importación de Japón.
-* **Valoración de inversión**: Es prematuro apostar fuerte por la estabilización de antemano. Una entrada escalonada tras confirmar dos o tres de los cinco catalizadores es un enfoque más sólido.
+* <strong>Situación actual</strong>: Bono a 10 años de EE.UU. al 4,46%, a 30 años al 5,02%, JGB japonés a 10 años al 2,55% (máximo desde 1997), JGB a 30 años cerca del 4,0%.
+* <strong>Desglose de los factores</strong>: No es simplemente el resultado de comentarios restrictivos de la Fed. Las expectativas de tipos a corto plazo, las primas de inflación, las primas por plazo y las primas por oferta de deuda han subido todas al mismo tiempo.
+* <strong>Potencial de estabilización</strong>: Posible, pero condicional. La estructura no se deshace automáticamente con el tiempo.
+* <strong>Cinco catalizadores clave</strong>: Normalización de Ormuz y caída del precio del petróleo; contención del traslado energético al CPI/PPI subyacente de EE.UU.; orientación del BOJ en la reunión de junio; recuperación de la demanda en las subastas del Tesoro a 10 y 30 años; flujos hacia activos refugio provocados por correcciones en activos de riesgo.
+* <strong>Escenarios a 1-3 meses</strong>: Estabilización rápida 20–25%, consolidación en rango 45–50%, nueva convulsión 25–30%.
+* <strong>Variable más importante</strong>: La normalización del tránsito por Ormuz. Esta única variable incide simultáneamente en la inflación de EE.UU. y en los precios de importación de Japón.
+* <strong>Valoración de inversión</strong>: Es prematuro apostar fuerte por la estabilización de antemano. Una entrada escalonada tras confirmar dos o tres de los cinco catalizadores es un enfoque más sólido.
 
 ---
 

@@ -11,7 +11,7 @@ tags: ["Samsung Electro-Mechanics", "009150", "Mirae Asset Securities", "MLCC", 
 
 Mirae Asset Securities raised its Samsung Electro-Mechanics target price from KRW 530,000 to KRW 1.3 million. The number looks dramatic, but the mechanism is simple: move the valuation year from 2026 to 2028 and apply a 37x PER, which Mirae Asset links to the early phase of the 2017 MLCC shortage cycle.
 
-That makes this less a normal earnings revision and more a **valuation-frame revision**. The core debate is whether Samsung Electro-Mechanics should still be read as a cyclical electronics component company, or whether AI server MLCC and FC-BGA demand has moved it into an AI-infrastructure bottleneck category.
+That makes this less a normal earnings revision and more a <strong>valuation-frame revision</strong>. The core debate is whether Samsung Electro-Mechanics should still be read as a cyclical electronics component company, or whether AI server MLCC and FC-BGA demand has moved it into an AI-infrastructure bottleneck category.
 
 ---
 
@@ -76,7 +76,7 @@ The 37x multiple is not a neutral number. It says Samsung Electro-Mechanics is e
 
 That may be right. It may also be too aggressive. A 37x multiple on a company whose 10-year average is closer to 15x requires a very specific regime: tight supply, visible pricing power, customer prepayments or volume commitments, and margin expansion that survives more than one quarter.
 
-This is why the article should be read as a **conditional re-rating framework**, not as a mechanical target-price endorsement.
+This is why the article should be read as a <strong>conditional re-rating framework</strong>, not as a mechanical target-price endorsement.
 
 ---
 
@@ -220,7 +220,7 @@ The upside frame is clear. The failure paths are also clear.
 | Consensus becomes one-sided | With most brokers already constructive, disappointment can travel quickly |
 | 2028 EPS proves too far forward | Pulling valuation two years ahead increases duration and forecast risk |
 
-The most important distinction is between **a real shortage** and **a priced-in shortage**. Both can be true at the same time. The company can be in a strong AI component cycle while the stock already discounts a large part of it.
+The most important distinction is between <strong>a real shortage</strong> and <strong>a priced-in shortage</strong>. Both can be true at the same time. The company can be in a strong AI component cycle while the stock already discounts a large part of it.
 
 ---
 

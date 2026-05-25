@@ -11,7 +11,7 @@ tags: ["Samsung Electro-Mechanics", "009150", "Mirae Asset Securities", "MLCC", 
 
 Mirae Asset Securities nâng mục tiêu giá Samsung Electro-Mechanics từ 530.000 KRW lên 1,3 triệu KRW. Con số trông có vẻ ấn tượng, nhưng cơ chế thực ra đơn giản: dịch chuyển năm định giá từ 2026 sang 2028 và áp bội số P/E 37x — mức mà Mirae Asset liên kết với giai đoạn đầu chu kỳ thiếu hụt MLCC năm 2017.
 
-Điều này khiến đây không còn là một lần điều chỉnh lợi nhuận thông thường, mà là một **sự thay đổi khung định giá**. Tranh luận cốt lõi là liệu Samsung Electro-Mechanics có nên tiếp tục được đọc như một công ty linh kiện điện tử chu kỳ, hay nhu cầu MLCC máy chủ AI và FC-BGA đã đưa nó vào hạng mục nút thắt cơ sở hạ tầng AI.
+Điều này khiến đây không còn là một lần điều chỉnh lợi nhuận thông thường, mà là một <strong>sự thay đổi khung định giá</strong>. Tranh luận cốt lõi là liệu Samsung Electro-Mechanics có nên tiếp tục được đọc như một công ty linh kiện điện tử chu kỳ, hay nhu cầu MLCC máy chủ AI và FC-BGA đã đưa nó vào hạng mục nút thắt cơ sở hạ tầng AI.
 
 ---
 
@@ -76,7 +76,7 @@ Bội số 37x không phải con số trung lập. Nó nói rằng Samsung Elect
 
 Điều đó có thể đúng. Nhưng cũng có thể quá tích cực. Bội số 37x trên một công ty có trung bình 10 năm gần 15x đòi hỏi một môi trường rất cụ thể: cung thắt chặt, sức mạnh định giá hiện hữu, đặt cọc trước của khách hàng hoặc cam kết về khối lượng, và biên lợi nhuận mở rộng tồn tại hơn một quý.
 
-Đây là lý do bài viết này nên được đọc như một **khung định giá lại có điều kiện**, không phải là sự chứng thực cơ học về mục tiêu giá.
+Đây là lý do bài viết này nên được đọc như một <strong>khung định giá lại có điều kiện</strong>, không phải là sự chứng thực cơ học về mục tiêu giá.
 
 ---
 
@@ -220,7 +220,7 @@ Khung tăng giá rõ ràng. Các con đường thất bại cũng rõ ràng.
 | Đồng thuận trở nên một chiều | Với hầu hết các công ty môi giới đã tích cực, sự thất vọng có thể lan nhanh |
 | EPS 2028 hóa ra quá xa | Kéo định giá hai năm về phía trước làm tăng rủi ro về thời gian và dự báo |
 
-Sự phân biệt quan trọng nhất là giữa **thiếu hụt thực sự** và **thiếu hụt đã được định giá vào**. Cả hai có thể đúng cùng lúc. Công ty có thể đang trong chu kỳ linh kiện AI mạnh trong khi cổ phiếu đã phản ánh phần lớn chu kỳ đó.
+Sự phân biệt quan trọng nhất là giữa <strong>thiếu hụt thực sự</strong> và <strong>thiếu hụt đã được định giá vào</strong>. Cả hai có thể đúng cùng lúc. Công ty có thể đang trong chu kỳ linh kiện AI mạnh trong khi cổ phiếu đã phản ánh phần lớn chu kỳ đó.
 
 ---
 

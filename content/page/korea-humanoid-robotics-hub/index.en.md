@@ -9,7 +9,7 @@ description: "Research hub for Korea's humanoid and robotics value chain — cov
 
 ## One-Line Thesis
 
-The relevant question in Korean robotics isn't "is robotics a good theme?" — it's **"which components and which companies will show revenue first?"** Samsung, Hyundai Motor, and LG are moving in parallel; 28+ listed companies span the value chain, but only 3-4 are profitable. **The distance between expectation and earnings varies stock by stock**, and the alpha lives in measuring that distance accurately.
+The relevant question in Korean robotics isn't "is robotics a good theme?" — it's <strong>"which components and which companies will show revenue first?"</strong> Samsung, Hyundai Motor, and LG are moving in parallel; 28+ listed companies span the value chain, but only 3-4 are profitable. <strong>The distance between expectation and earnings varies stock by stock</strong>, and the alpha lives in measuring that distance accurately.
 
 ---
 
@@ -30,9 +30,9 @@ The relevant question in Korean robotics isn't "is robotics a good theme?" — i
 
 | Date | Topic | Read |
 |---|---|---|
-| 2026-05-12 | **Robotis vs. Rainbow Robotics** — actuator vs. humanoid platform, the 3× cap gap created by the "Samsung option" | [Part 3 — Humanoid Whole-Robot Compare](/post/robotis-vs-rainbow-robotics-humanoid-comparison-2026-05-12/) |
-| 2026-05-12 | **SPG vs. Halla Cast** — reducers (PER 110×) vs. lightweight structural parts (PER 62×), why both are rich and how the risk shape differs | [Part 2 — Robot Component Compare](/post/spg-vs-halla-cast-robot-component-comparison-2026-05-12/) |
-| 2026-05-11 | **Korea Robotics Value Chain Complete Map** — seven component layers with Samsung / Hyundai / LG moving in parallel | [Part 1 — Value-Chain Map](/post/korea-robotics-value-chain-complete-map-2026-05-11/) |
+| 2026-05-12 | <strong>Robotis vs. Rainbow Robotics</strong> — actuator vs. humanoid platform, the 3× cap gap created by the "Samsung option" | [Part 3 — Humanoid Whole-Robot Compare](/post/robotis-vs-rainbow-robotics-humanoid-comparison-2026-05-12/) |
+| 2026-05-12 | <strong>SPG vs. Halla Cast</strong> — reducers (PER 110×) vs. lightweight structural parts (PER 62×), why both are rich and how the risk shape differs | [Part 2 — Robot Component Compare](/post/spg-vs-halla-cast-robot-component-comparison-2026-05-12/) |
+| 2026-05-11 | <strong>Korea Robotics Value Chain Complete Map</strong> — seven component layers with Samsung / Hyundai / LG moving in parallel | [Part 1 — Value-Chain Map](/post/korea-robotics-value-chain-complete-map-2026-05-11/) |
 
 ---
 
@@ -74,11 +74,11 @@ The relevant question in Korean robotics isn't "is robotics a good theme?" — i
 
 ### Does Korean robotics have real global competitiveness?
 
-At the component layer, yes. SPG is the only Korean firm producing all three reducer types (harmonic / planetary / RV); Robotis has 20 years of actuator focus with 90%+ in-house component ratio. At the whole-robot layer, Rainbow Robotics carries KAIST HUBO technical heritage. **Mass-production / cost / overseas-market expansion** remain in the verification stage.
+At the component layer, yes. SPG is the only Korean firm producing all three reducer types (harmonic / planetary / RV); Robotis has 20 years of actuator focus with 90%+ in-house component ratio. At the whole-robot layer, Rainbow Robotics carries KAIST HUBO technical heritage. <strong>Mass-production / cost / overseas-market expansion</strong> remain in the verification stage.
 
 ### Will the humanoid market really explode?
 
-The long-term direction is clear — population decline, rising labor cost, manufacturing automation pressure. Near-term bottlenecks are **unit cost, safety, and reliability**, and global humanoid mass production is earliest 2027-2028. Analytically, "when does it explode?" is less practical than "which components / companies show revenue first?"
+The long-term direction is clear — population decline, rising labor cost, manufacturing automation pressure. Near-term bottlenecks are <strong>unit cost, safety, and reliability</strong>, and global humanoid mass production is earliest 2027-2028. Analytically, "when does it explode?" is less practical than "which components / companies show revenue first?"
 
 ### Could Samsung fully acquire Rainbow Robotics?
 
@@ -86,7 +86,7 @@ Possible but not officially confirmed. Adding to the 35% stake or full consolida
 
 ### Which name is safest?
 
-"Safe robotics name" is a difficult framing — all are high-multiple thematic names. Structures combining **base business + robotics option** are more verifiable than **robotics-option-only** structures — Hyundai Mobis (EV-parts base) and Samsung Electro-Mechanics (AI PCB / MLCC base) are examples. Among pure-plays, turn-positive Robotis has the highest verifiability.
+"Safe robotics name" is a difficult framing — all are high-multiple thematic names. Structures combining <strong>base business + robotics option</strong> are more verifiable than <strong>robotics-option-only</strong> structures — Hyundai Mobis (EV-parts base) and Samsung Electro-Mechanics (AI PCB / MLCC base) are examples. Among pure-plays, turn-positive Robotis has the highest verifiability.
 
 ---
 

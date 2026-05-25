@@ -19,29 +19,29 @@ tags:
 series: ["korea-market-policy-watch"]
 ---
 
-> 🔗 **Lectures associées** : [Why Korea Partie 3 — Samsung Electronics et SK Hynix rehaussent le poids économique de la Corée](/post/samsung-sk-hynix-korea-ai-economy-rerating-2026-05-09/) · [Analyse de l'objectif de cours Citi KRW 460 000 pour Samsung Electronics](/post/samsung-electronics-citi-tp-460000-memory-rerating-2026-05-11/) · [Hub Semi-conducteurs coréens, HBM et KOSPI](/page/korea-semiconductor-hbm-kospi-hub/)
+> 🔗 <strong>Lectures associées</strong> : [Why Korea Partie 3 — Samsung Electronics et SK Hynix rehaussent le poids économique de la Corée](/post/samsung-sk-hynix-korea-ai-economy-rerating-2026-05-09/) · [Analyse de l'objectif de cours Citi KRW 460 000 pour Samsung Electronics](/post/samsung-electronics-citi-tp-460000-memory-rerating-2026-05-11/) · [Hub Semi-conducteurs coréens, HBM et KOSPI](/page/korea-semiconductor-hbm-kospi-hub/)
 
-Le repli intraday et le rebond du KOSPI le 12 mai ne doivent pas être réduits à une simple volatilité des semi-conducteurs. L'explication de surface était familière : correction de l'exposition mondiale à l'IA, bruit pétrolier et géopolitique, prises de bénéfices après un rallye très marqué des semi-conducteurs coréens. Mais la rapidité du mouvement et la façon dont le marché a rebondi désignent un autre déclencheur : **la question politique de savoir comment la Corée devrait distribuer les gains du supercycle des semi-conducteurs IA**.
+Le repli intraday et le rebond du KOSPI le 12 mai ne doivent pas être réduits à une simple volatilité des semi-conducteurs. L'explication de surface était familière : correction de l'exposition mondiale à l'IA, bruit pétrolier et géopolitique, prises de bénéfices après un rallye très marqué des semi-conducteurs coréens. Mais la rapidité du mouvement et la façon dont le marché a rebondi désignent un autre déclencheur : <strong>la question politique de savoir comment la Corée devrait distribuer les gains du supercycle des semi-conducteurs IA</strong>.
 
-Kim Yong-beom, directeur du Bureau des politiques présidentielles, ne semblait pas lancer une attaque directe contre Samsung Electronics ou SK Hynix. Ses propos se lisent mieux comme une tentative d'inscrire le boom des semi-conducteurs IA dans un cadre fiscal, distributif et de stratégie nationale. Mais les marchés ne décortiquent pas lentement la philosophie politique. Quand « profits excessifs », « dividende citoyen », « retour structurel » et le fonds pétrolier norvégien apparaissent dans le même contexte politique, les investisseurs étrangers entendent autre chose : **le risque d'une taxe sur les surprofits IA des semi-conducteurs coréens**.
+Kim Yong-beom, directeur du Bureau des politiques présidentielles, ne semblait pas lancer une attaque directe contre Samsung Electronics ou SK Hynix. Ses propos se lisent mieux comme une tentative d'inscrire le boom des semi-conducteurs IA dans un cadre fiscal, distributif et de stratégie nationale. Mais les marchés ne décortiquent pas lentement la philosophie politique. Quand « profits excessifs », « dividende citoyen », « retour structurel » et le fonds pétrolier norvégien apparaissent dans le même contexte politique, les investisseurs étrangers entendent autre chose : <strong>le risque d'une taxe sur les surprofits IA des semi-conducteurs coréens</strong>.
 
-C'est pourquoi le mouvement du 12 mai est important. La question n'était pas seulement de savoir si Samsung et SK Hynix avaient progressé trop vite. C'était le premier test de marché d'une question plus profonde : **les marges exceptionnelles créées par le goulet d'étranglement de l'infrastructure IA coréenne vont-elles revenir aux actionnaires, ou les décideurs vont-ils progressivement considérer ces gains comme une ressource sociale et fiscale ?**
+C'est pourquoi le mouvement du 12 mai est important. La question n'était pas seulement de savoir si Samsung et SK Hynix avaient progressé trop vite. C'était le premier test de marché d'une question plus profonde : <strong>les marges exceptionnelles créées par le goulet d'étranglement de l'infrastructure IA coréenne vont-elles revenir aux actionnaires, ou les décideurs vont-ils progressivement considérer ces gains comme une ressource sociale et fiscale ?</strong>
 
 ---
 
 ## Résumé
 
-* **Les commentaires de Kim ressemblent davantage à un argument sur l'excédent de recettes fiscales qu'à un prélèvement direct sur les bénéfices des entreprises.** Sa séquence récente est cohérente : réévaluation du KOSPI, aubaine fiscale issue des semi-conducteurs, conception d'une redistribution à l'ère de l'IA, et un cadre de stratégie d'État plus large.
-* **Le problème de communication était réel.** En mélangeant « excédent de recettes fiscales » et « profits excessifs », le message était facile à lire comme une éventuelle taxe sur les surprofits IA ou semi-conducteurs visant Samsung Electronics et SK Hynix.
-* **Le repli matinal et le rebond ressemblent à un dénouement de risque lié à un titre politique.** La première lecture était « profits IA partagés avec les citoyens » ; la clarification ultérieure se rapprochait davantage de « excédent de recettes fiscales, pas partage des bénéfices des entreprises ».
-* **La thèse fondamentale sur les bénéfices de Samsung et SK Hynix n'est pas remise en cause.** Aucune taxe spéciale, aucun projet de loi sur les surprofits ni mécanisme de partage forcé des bénéfices n'a été confirmé. Mais la prime de risque politique n'a pas disparu.
-* **Le débat est inévitable.** Si Samsung Electronics et SK Hynix peuvent générer plus de KRW 300 000 milliards de bénéfices annuels lors d'un cycle IA, la question de savoir qui en bénéficie — actionnaires, salariés, État, régions et non-bénéficiaires — devient un enjeu national.
+* <strong>Les commentaires de Kim ressemblent davantage à un argument sur l'excédent de recettes fiscales qu'à un prélèvement direct sur les bénéfices des entreprises.</strong> Sa séquence récente est cohérente : réévaluation du KOSPI, aubaine fiscale issue des semi-conducteurs, conception d'une redistribution à l'ère de l'IA, et un cadre de stratégie d'État plus large.
+* <strong>Le problème de communication était réel.</strong> En mélangeant « excédent de recettes fiscales » et « profits excessifs », le message était facile à lire comme une éventuelle taxe sur les surprofits IA ou semi-conducteurs visant Samsung Electronics et SK Hynix.
+* <strong>Le repli matinal et le rebond ressemblent à un dénouement de risque lié à un titre politique.</strong> La première lecture était « profits IA partagés avec les citoyens » ; la clarification ultérieure se rapprochait davantage de « excédent de recettes fiscales, pas partage des bénéfices des entreprises ».
+* <strong>La thèse fondamentale sur les bénéfices de Samsung et SK Hynix n'est pas remise en cause.</strong> Aucune taxe spéciale, aucun projet de loi sur les surprofits ni mécanisme de partage forcé des bénéfices n'a été confirmé. Mais la prime de risque politique n'a pas disparu.
+* <strong>Le débat est inévitable.</strong> Si Samsung Electronics et SK Hynix peuvent générer plus de KRW 300 000 milliards de bénéfices annuels lors d'un cycle IA, la question de savoir qui en bénéficie — actionnaires, salariés, État, régions et non-bénéficiaires — devient un enjeu national.
 
 ---
 
 ## 1. Ce que le marché a d'abord intégré
 
-Le marché n'a pas intégré une facture fiscale le matin du 12 mai. Aucune taxe spéciale sur les semi-conducteurs n'avait été annoncée. Aucun mécanisme de partage des bénéfices des entreprises n'avait été légiféré. Ce que le marché a intégré, c'est **le vocabulaire politique**.
+Le marché n'a pas intégré une facture fiscale le matin du 12 mai. Aucune taxe spéciale sur les semi-conducteurs n'avait été annoncée. Aucun mécanisme de partage des bénéfices des entreprises n'avait été légiféré. Ce que le marché a intégré, c'est <strong>le vocabulaire politique</strong>.
 
 La phrase sensible était l'idée que les fruits de l'ère de l'infrastructure IA ne devaient pas rester uniquement entre les mains d'entreprises spécifiques et de détenteurs d'actifs, mais devaient être partagés structurellement avec les citoyens. L'édition anglaise du Seoul Economic Daily a rapporté que Kim a soutenu que la Corée pourrait avoir besoin d'un nouveau contrat social à mesure que les puces IA, les réseaux électriques et les centres de données remodèlent la structure de l'économie coréenne. Asia Economy a relayé en coréen que Kim avait évoqué le principe d'un dividende national à l'ère de l'IA. ([Seoul Economic Daily](https://en.sedaily.com/politics/2026/05/12/kim-yong-beom-calls-for-national-dividend-on-ai-excess), [Asia Economy](https://www.asiae.co.kr/article/2026051207392568597))
 
@@ -57,7 +57,7 @@ La demande IA s'accroît
   -> Décote sur le BPA ou le multiple
 ```
 
-L'enjeu n'est pas le code fiscal actuel. L'enjeu est **l'incertitude sur qui capte la marge incrémentale**. Le rallye des semi-conducteurs coréens n'est pas seulement une histoire de croissance du chiffre d'affaires. C'est une histoire de marges de rareté. Si les investisseurs commencent à douter que cette marge incrémentale appartienne pleinement aux actionnaires, ils vendent d'abord et posent les questions ensuite.
+L'enjeu n'est pas le code fiscal actuel. L'enjeu est <strong>l'incertitude sur qui capte la marge incrémentale</strong>. Le rallye des semi-conducteurs coréens n'est pas seulement une histoire de croissance du chiffre d'affaires. C'est une histoire de marges de rareté. Si les investisseurs commencent à douter que cette marge incrémentale appartienne pleinement aux actionnaires, ils vendent d'abord et posent les questions ensuite.
 
 C'est la meilleure façon de comprendre le mouvement matinal. Ce n'était pas un jugement sur la détérioration de la demande en mémoire IA. C'était une réévaluation de la propriété perçue des rendements excédentaires des semi-conducteurs IA.
 
@@ -110,7 +110,7 @@ Supercycle des semi-conducteurs
 
 Le commentaire du 12 mai pousse cette logique un cran plus loin. Si l'infrastructure IA crée des rendements excédentaires structurels et si cela génère un excédent de recettes fiscales, quel principe doit guider l'utilisation sociale de ces gains ?
 
-Cela ressemble beaucoup plus à un **cadre d'excédent de recettes fiscales** qu'à une saisie directe des bénéfices des entreprises. Le problème est que le vocabulaire était imprécis pour les marchés. « Excédent de recettes fiscales » et « profits excessifs » sont des concepts très différents, mais dans la fenêtre de trading ils ont été perçus comme un seul et même concept.
+Cela ressemble beaucoup plus à un <strong>cadre d'excédent de recettes fiscales</strong> qu'à une saisie directe des bénéfices des entreprises. Le problème est que le vocabulaire était imprécis pour les marchés. « Excédent de recettes fiscales » et « profits excessifs » sont des concepts très différents, mais dans la fenêtre de trading ils ont été perçus comme un seul et même concept.
 
 ---
 
@@ -124,7 +124,7 @@ Pour les investisseurs étrangers, la thèse des semi-conducteurs IA coréens re
 | Résultats | La tarification HBM et DRAM plus les contraintes d'offre génèrent un levier opérationnel |
 | Indice | Leur poids dans le KOSPI attire des capitaux étrangers actifs et passifs |
 
-Le pilier le plus important est les résultats. Plus précisément, la **marge incrémentale**. Le scénario haussier n'est pas simplement que la Corée vende plus de mémoire. C'est que les conditions de pénurie permettent à la Corée de vendre des mémoires IA critiques à des marges bien meilleures.
+Le pilier le plus important est les résultats. Plus précisément, la <strong>marge incrémentale</strong>. Le scénario haussier n'est pas simplement que la Corée vende plus de mémoire. C'est que les conditions de pénurie permettent à la Corée de vendre des mémoires IA critiques à des marges bien meilleures.
 
 Quand un haut responsable politique utilise le vocabulaire des profits excessifs de l'IA, des dividendes citoyens et de la redistribution structurelle, les investisseurs étrangers le traduisent ainsi :
 
@@ -138,7 +138,7 @@ Quand un haut responsable politique utilise le vocabulaire des profits excessifs
 
 Cette combinaison évoque naturellement le spectre d'une taxe sur les surprofits. Le titre initial de Bloomberg encadrait la question autour de l'utilisation des profits IA pour un dividende citoyen, ce qui a suffi pour que les investisseurs mondiaux et les algorithmes réagissent. La clarification ultérieure selon laquelle l'idée reposait sur l'excédent de recettes fiscales plutôt que sur le partage des bénéfices des entreprises a contribué à inverser une partie du mouvement. ([Bloomberg](https://www.bloomberg.com/news/articles/2026-05-12/korea-floats-citizen-dividend-using-ai-profits-samsung-falls))
 
-Cela rend le rebond intraday compréhensible : **risque de taxe sur les surprofits intégré, clarification sur l'excédent de recettes fiscales réintégrée**.
+Cela rend le rebond intraday compréhensible : <strong>risque de taxe sur les surprofits intégré, clarification sur l'excédent de recettes fiscales réintégrée</strong>.
 
 ---
 
@@ -216,7 +216,7 @@ Le débat sur le dividende citoyen n'est pas un choc direct sur le BPA de ces va
 
 Ce n'est pas uniquement un enjeu pour les semi-conducteurs. Une fois que le gouvernement commence à parler de retours sociaux issus des profits excessifs au niveau sectoriel, ce cadre peut s'appliquer ultérieurement aux banques, aux plateformes et aux opérateurs télécoms — secteurs qui portent déjà des récits d'intérêt public.
 
-Le signal plus large est que **les secteurs coréens affichant des profits excessifs inhabituellement élevés pourraient faire face à davantage de discours politiques autour du retour social**.
+Le signal plus large est que <strong>les secteurs coréens affichant des profits excessifs inhabituellement élevés pourraient faire face à davantage de discours politiques autour du retour social</strong>.
 
 ---
 
@@ -236,7 +236,7 @@ Le signal plus large est que **les secteurs coréens affichant des profits exces
 
 ## Note finale
 
-Le repli et le rebond du KOSPI le 12 mai ont mis en lumière la prochaine variable du rallye des semi-conducteurs IA coréens. Quand les bénéfices deviennent très importants, les marchés cessent de se demander uniquement quelle peut en être l'ampleur. Ils commencent à se demander **à qui ils reviennent**.
+Le repli et le rebond du KOSPI le 12 mai ont mis en lumière la prochaine variable du rallye des semi-conducteurs IA coréens. Quand les bénéfices deviennent très importants, les marchés cessent de se demander uniquement quelle peut en être l'ampleur. Ils commencent à se demander <strong>à qui ils reviennent</strong>.
 
 Le vocabulaire du dividende citoyen IA de Kim Yong-beom ressemble actuellement davantage à un débat sur l'utilisation de l'excédent de recettes fiscales qu'à un projet de saisie directe des bénéfices de Samsung ou SK Hynix. C'est pourquoi le risque direct sur le BPA est faible, et pourquoi le rebond intraday est logique.
 

@@ -10,7 +10,7 @@ lastmod: 2026-05-26T11:30:00+09:00
 
 ## One-Line Thesis
 
-AI substrates are not simply "the next theme after GPUs." They are a **common bottleneck across the AI system bill of materials**. As GPUs, CPUs, DPUs, NICs, switch ASICs and memory modules expand together, FC-BGA, MLB, CCL and low-dielectric material demand expands with them.
+AI substrates are not simply "the next theme after GPUs." They are a <strong>common bottleneck across the AI system bill of materials</strong>. As GPUs, CPUs, DPUs, NICs, switch ASICs and memory modules expand together, FC-BGA, MLB, CCL and low-dielectric material demand expands with them.
 
 ---
 

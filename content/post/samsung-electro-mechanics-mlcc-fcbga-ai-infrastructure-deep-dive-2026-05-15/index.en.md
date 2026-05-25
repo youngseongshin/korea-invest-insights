@@ -20,12 +20,12 @@ slug: samsung-electro-mechanics-mlcc-fcbga-ai-infrastructure-deep-dive-2026-05-1
 
 ## Key takeaways
 
-* **SEMCO is not a chip maker.** It makes the **power-stability components (MLCC)** and the **substrates that connect AI chips to motherboards (FC-BGA)** that AI silicon needs to function inside a server.
-* **Three divisions**: Component (MLCC, 46% of revenue, 67% of profit), Package Solution (FC-BGA, 20% of revenue, 15% of profit), Optics (camera modules, 34% of revenue, 18% of profit).
-* **Core shift**: previously a "smartphone parts maker." Today, the rerating thesis is **AI-server / xEV high-end MLCC + AI-accelerator FC-BGA in structural supply shortage**.
-* **1Q26 results**: revenue KRW 3.21T (+17% YoY), operating profit KRW 280.6B (+40% YoY). Stripping a one-off severance charge of KRW 71.4B, underlying operating profit was KRW 352.0B.
-* **The division that matters most**: Component (MLCC) defends earnings. Package Solution (FC-BGA) drives the share price. Optics is the optionality bucket.
-* **At KRW 1.02M today**: expensive on 2026 numbers, defensible only if the AI-substrate cycle keeps running through 2027–2028. A patient approach — waiting for next prints — is more reasonable than chasing the move.
+* <strong>SEMCO is not a chip maker.</strong> It makes the <strong>power-stability components (MLCC)</strong> and the <strong>substrates that connect AI chips to motherboards (FC-BGA)</strong> that AI silicon needs to function inside a server.
+* <strong>Three divisions</strong>: Component (MLCC, 46% of revenue, 67% of profit), Package Solution (FC-BGA, 20% of revenue, 15% of profit), Optics (camera modules, 34% of revenue, 18% of profit).
+* <strong>Core shift</strong>: previously a "smartphone parts maker." Today, the rerating thesis is <strong>AI-server / xEV high-end MLCC + AI-accelerator FC-BGA in structural supply shortage</strong>.
+* <strong>1Q26 results</strong>: revenue KRW 3.21T (+17% YoY), operating profit KRW 280.6B (+40% YoY). Stripping a one-off severance charge of KRW 71.4B, underlying operating profit was KRW 352.0B.
+* <strong>The division that matters most</strong>: Component (MLCC) defends earnings. Package Solution (FC-BGA) drives the share price. Optics is the optionality bucket.
+* <strong>At KRW 1.02M today</strong>: expensive on 2026 numbers, defensible only if the AI-substrate cycle keeps running through 2027–2028. A patient approach — waiting for next prints — is more reasonable than chasing the move.
 
 ---
 
@@ -33,7 +33,7 @@ slug: samsung-electro-mechanics-mlcc-fcbga-ai-infrastructure-deep-dive-2026-05-1
 
 ### 1.1 The invisible infrastructure of AI silicon
 
-In an earlier piece on Samsung Electronics, I called HBM "the workbench of AI silicon." But even the best workbench (memory) and the best computer (GPU) won't work if **the power supply is unstable (the system crashes) or if the chip isn't properly wired to the motherboard (data flow breaks).**
+In an earlier piece on Samsung Electronics, I called HBM "the workbench of AI silicon." But even the best workbench (memory) and the best computer (GPU) won't work if <strong>the power supply is unstable (the system crashes) or if the chip isn't properly wired to the motherboard (data flow breaks).</strong>
 
 What SEMCO makes is exactly this kind of "invisible infrastructure."
 
@@ -82,7 +82,7 @@ FC-BGA:
 → From now through 2027 is the "supply-short" window
 ```
 
-**One-line summary**: SEMCO isn't an AI chipmaker; it makes the **power and connectivity parts AI chips cannot run without** — and those parts are in shortage today.
+<strong>One-line summary</strong>: SEMCO isn't an AI chipmaker; it makes the <strong>power and connectivity parts AI chips cannot run without</strong> — and those parts are in shortage today.
 
 ---
 
@@ -92,10 +92,10 @@ FC-BGA:
 
 | Division | Key products | 2025 revenue | Mix | 2025 profit | Profit mix | Margin |
 | --- | --- | ---: | ---: | ---: | ---: | ---: |
-| **Component** | **MLCC, inductors, chip resistors** | **KRW 5.20T** | **46%** | **KRW 609.4B** | **67%** | **11.7%** |
+| <strong>Component</strong> | <strong>MLCC, inductors, chip resistors</strong> | <strong>KRW 5.20T</strong> | <strong>46%</strong> | <strong>KRW 609.4B</strong> | <strong>67%</strong> | <strong>11.7%</strong> |
 | Package Solution | FC-BGA package substrates | KRW 2.30T | 20% | KRW 135.2B | 15% | 5.9% |
 | Optics | Camera modules | KRW 3.81T | 34% | KRW 168.7B | 18% | 4.4% |
-| **Total** | | **KRW 11.31T** | **100%** | **KRW 913.3B** | **100%** | **8.1%** |
+| <strong>Total</strong> | | <strong>KRW 11.31T</strong> | <strong>100%</strong> | <strong>KRW 913.3B</strong> | <strong>100%</strong> | <strong>8.1%</strong> |
 
 ```
 Role-split inside SEMCO:
@@ -110,7 +110,7 @@ Optics (cameras)       = builds top-line scale + future optionality
 
 ### 3.1 What is an MLCC?
 
-MLCC = Multi-Layer Ceramic Capacitor. The name is technical, but the job is simple — **it stores electricity for an instant and supplies it smoothly to nearby chips**.
+MLCC = Multi-Layer Ceramic Capacitor. The name is technical, but the job is simple — <strong>it stores electricity for an instant and supplies it smoothly to nearby chips</strong>.
 
 ```
 Analogy: a water tank in a plumbing system
@@ -153,7 +153,7 @@ Why AI-server MLCC is especially hard:
 
 Management said high-end MLCC demand for AI servers and data centers remains strong into 2Q. Both MLCC shipments and average selling price (ASP) are expected to rise quarter on quarter.
 
-**The most important change**: selected MLCC products are **starting to see price increases**. Murata and Taiyo Yuden reported book-to-bill ratios of 1.36 and 1.31 — the highest in five years (post-2021). "BB > 1" simply means orders exceed shipments; the gap is now wide enough to talk about real undersupply.
+<strong>The most important change</strong>: selected MLCC products are <strong>starting to see price increases</strong>. Murata and Taiyo Yuden reported book-to-bill ratios of 1.36 and 1.31 — the highest in five years (post-2021). "BB > 1" simply means orders exceed shipments; the gap is now wide enough to talk about real undersupply.
 
 ---
 
@@ -161,7 +161,7 @@ Management said high-end MLCC demand for AI servers and data centers remains str
 
 ### 4.1 What is FC-BGA?
 
-FC-BGA = Flip Chip Ball Grid Array — a **high-density circuit substrate** that connects AI chips (GPUs, CPUs) to the motherboard.
+FC-BGA = Flip Chip Ball Grid Array — a <strong>high-density circuit substrate</strong> that connects AI chips (GPUs, CPUs) to the motherboard.
 
 ```
 Analogy: the chip's foothold
@@ -233,9 +233,9 @@ in-house.
 
 ### 4.4 What is not yet proven
 
-Package Solution's 2025 operating margin was **just 5.9%**. Revenue grew +13% YoY, but profit fell -14%. Why? Raw-material costs (CCL, prepreg) rose +19% while average selling prices rose only +4%.
+Package Solution's 2025 operating margin was <strong>just 5.9%</strong>. Revenue grew +13% YoY, but profit fell -14%. Why? Raw-material costs (CCL, prepreg) rose +19% while average selling prices rose only +4%.
 
-**The key question: in 2026, will revenue growth come with margin recovery?** If only the top line grows and margins stagnate, the current price is hard to justify. Whether 2Q Package Solution margin lifts above 12% is the single biggest gate for the rerating to continue.
+<strong>The key question: in 2026, will revenue growth come with margin recovery?</strong> If only the top line grows and margins stagnate, the current price is hard to justify. Whether 2Q Package Solution margin lifts above 12% is the single biggest gate for the rerating to continue.
 
 ---
 
@@ -260,7 +260,7 @@ Current market share: \~9% (down from \~11% in 2024)
 → Real technology, but not the rerating thesis
 ```
 
-**Investor view**: Optics adds revenue stability but does not move the stock. MLCC and FC-BGA do. Automotive and robotics cameras are long-dated options — not something to pay for at today's multiple.
+<strong>Investor view</strong>: Optics adds revenue stability but does not move the stock. MLCC and FC-BGA do. Automotive and robotics cameras are long-dated options — not something to pay for at today's multiple.
 
 ---
 
@@ -290,17 +290,17 @@ Mid-May: KB Sec           KRW 1,400,000
 → Target prices more than tripled in roughly three months.
 ```
 
-**Why so fast?** The valuation frame itself shifted. SEMCO used to trade as a "Korean electronic-parts maker." Today, the sell side benchmarks it against **global AI-substrate and passive-component peers** — Japan's Ibiden, Taiwan's Unimicron, Japan's Murata. Apply those multiples and targets jump.
+<strong>Why so fast?</strong> The valuation frame itself shifted. SEMCO used to trade as a "Korean electronic-parts maker." Today, the sell side benchmarks it against <strong>global AI-substrate and passive-component peers</strong> — Japan's Ibiden, Taiwan's Unimicron, Japan's Murata. Apply those multiples and targets jump.
 
 ### 6.3 Scenario-based fair value
 
 | Scenario | 2027E EPS | Applied PER | Fair value | vs. spot |
 | --- | ---: | ---: | ---: | ---: |
 | Bear (MLCC price hike contained, FC-BGA capex weighs) | KRW 22,000 | 33x | KRW 730,000 | -29% |
-| **Base** (AI cycle persists + Package margin recovers) | **KRW 26,800** | **43x** | **KRW 1,150,000** | **+12%** |
+| <strong>Base</strong> (AI cycle persists + Package margin recovers) | <strong>KRW 26,800</strong> | <strong>43x</strong> | <strong>KRW 1,150,000</strong> | <strong>+12%</strong> |
 | Bull (MLCC + FC-BGA price hikes together + LTA) | KRW 30,000 | 50x | KRW 1,500,000 | +47% |
 
-**Today's KRW 1.02M offers +12% upside in the base case** — and -29% downside if the bear case prints, +47% upside if the bull case prints. At this price, waiting for the next earnings confirmation is more reasonable than chasing the rally.
+<strong>Today's KRW 1.02M offers +12% upside in the base case</strong> — and -29% downside if the bear case prints, +47% upside if the bull case prints. At this price, waiting for the next earnings confirmation is more reasonable than chasing the rally.
 
 ### 6.4 The key framing: not "cheap," but "expensive without continuous earnings upgrades"
 
@@ -328,7 +328,7 @@ Zero of these = waiting for a pullback is the right call.
 
 | Trigger | Bull line | Bear line | When |
 | --- | --- | --- | --- |
-| **2Q operating profit** | **above KRW 400B** | below KRW 360B | Late July |
+| <strong>2Q operating profit</strong> | <strong>above KRW 400B</strong> | below KRW 360B | Late July |
 | MLCC price hike | Spreads to direct AI customers | Stays at cost pass-through | 2Q |
 | FC-BGA utilization | Full utilization in 2H | New-customer ramp delays | 3Q |
 | Package Solution margin | 12%+ in 2Q | Below 10% | Late July |
@@ -348,7 +348,7 @@ Zero of these = waiting for a pullback is the right call.
 
 | Risk | Description |
 | --- | --- |
-| **Already expensive** | 2027 PER \~38x. If earnings estimates roll over, the stock falls hard |
+| <strong>Already expensive</strong> | 2027 PER \~38x. If earnings estimates roll over, the stock falls hard |
 | FC-BGA capex burden | Doubling capex doubles depreciation; revenue must follow or margin compresses |
 | Pass-through failure | If CCL, gold, copper inflation can't be passed on, margins suffer |
 | Smartphone weakness | Camera modules and some MLCC SKUs remain phone-cycle exposed |
@@ -382,7 +382,7 @@ SEMCO is the invisible infrastructure layer of AI silicon. MLCC stabilizes power
 
 But at KRW 1.02M, much of that thesis is already in the price. On 2027 earnings, PER is \~38x — "great company" and "great entry price" are different questions. To chase the move from here, the numbers have to confirm: 2Q operating profit above KRW 400B, MLCC price hikes spreading, FC-BGA margins recovering.
 
-**One-line: this is not a cheap stock — it is a stock that is only "not expensive" if earnings upgrades keep coming.** The pace of revision matters more than the headline news flow.
+<strong>One-line: this is not a cheap stock — it is a stock that is only "not expensive" if earnings upgrades keep coming.</strong> The pace of revision matters more than the headline news flow.
 
 ---
 

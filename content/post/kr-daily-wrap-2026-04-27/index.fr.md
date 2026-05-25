@@ -12,40 +12,40 @@ draft: false
 
 | Indicateur | Valeur | Δ 5 jours | Signal |
 |---|---|---|---|
-| **KOSPI** | 6 615,0 | +3,5 % | ▲ Haussier |
-| **KOSDAQ** | 1 226,2 | +4,0 % | ▲ Haussier |
+| <strong>KOSPI</strong> | 6 615,0 | +3,5 % | ▲ Haussier |
+| <strong>KOSDAQ</strong> | 1 226,2 | +4,0 % | ▲ Haussier |
 | USD/KRW | 1 470 | +0,1 % | → Stable |
 | VIX | 18,96 | −2,8 % | 🟢 Apaisé |
 | US 10 ans | 4,31 % | +0,06 pp | → Neutre |
 | Brent | 100,37 $ | −1,5 % | → Neutre |
 
-**Verdict de régime :** Corée **Bull** · États-Unis **Neutral** — divergence favorable à un élargissement sélectif des positions KR. La largeur de marché confirme : 68 % des titres au-dessus de leur MA50, 60 % au-dessus de leur MA200, 211 titres passant les filtres opérationnels.
+<strong>Verdict de régime :</strong> Corée <strong>Bull</strong> · États-Unis <strong>Neutral</strong> — divergence favorable à un élargissement sélectif des positions KR. La largeur de marché confirme : 68 % des titres au-dessus de leur MA50, 60 % au-dessus de leur MA200, 211 titres passant les filtres opérationnels.
 
 ---
 
 ## Section 2 — Synthèse de séance
 
-La séance du 27 avril sur les marchés coréens s'est inscrite sous le signe d'un **risk-on prononcé**, avec un KOSPI qui a progressé de +2,51 % à 14h20 et un KOSDAQ en hausse de +1,83 % — des gains construits sur la durée plutôt qu'un simple gap d'ouverture, signe d'une demande institutionnelle réelle.
+La séance du 27 avril sur les marchés coréens s'est inscrite sous le signe d'un <strong>risk-on prononcé</strong>, avec un KOSPI qui a progressé de +2,51 % à 14h20 et un KOSDAQ en hausse de +1,83 % — des gains construits sur la durée plutôt qu'un simple gap d'ouverture, signe d'une demande institutionnelle réelle.
 
-**Secteurs moteurs.** Les semi-conducteurs et la mémoire HBM ont constitué l'ossature du rallye : des résultats Intel supérieurs aux attentes et une hausse de l'indice Philadelphia Semiconductor ont créé un fort effet de contagion positive, entraînant SK Hynix de +6 % et Samsung Electronics (005930.KS) de +2 %. Le segment des **équipements électriques** — exposé à l'infrastructure IA — s'est imposé comme le deuxième pilier, aux côtés de la **mécanique industrielle et des moteurs de navires**. La **robotique et l'IA physique** ont également attiré des flux, avec plusieurs titres en hausse à deux chiffres en séance.
+<strong>Secteurs moteurs.</strong> Les semi-conducteurs et la mémoire HBM ont constitué l'ossature du rallye : des résultats Intel supérieurs aux attentes et une hausse de l'indice Philadelphia Semiconductor ont créé un fort effet de contagion positive, entraînant SK Hynix de +6 % et Samsung Electronics (005930.KS) de +2 %. Le segment des <strong>équipements électriques</strong> — exposé à l'infrastructure IA — s'est imposé comme le deuxième pilier, aux côtés de la <strong>mécanique industrielle et des moteurs de navires</strong>. La <strong>robotique et l'IA physique</strong> ont également attiré des flux, avec plusieurs titres en hausse à deux chiffres en séance.
 
-**Secteurs en retrait.** Les valeurs défensives ont subi l'effet d'éviction classique d'un marché risk-on : les télécoms ont reculé en relatif, tout comme la pharmacie et certaines valeurs de batteries secondaires. La rotation sectorielle est nette — les portefeuilles se réallouent vers des noms à bêta plus élevé.
+<strong>Secteurs en retrait.</strong> Les valeurs défensives ont subi l'effet d'éviction classique d'un marché risk-on : les télécoms ont reculé en relatif, tout comme la pharmacie et certaines valeurs de batteries secondaires. La rotation sectorielle est nette — les portefeuilles se réallouent vers des noms à bêta plus élevé.
 
-**Flux de capitaux.** La configuration la plus constructive de la journée est la **co-accumulation étrangers + institutionnels** sur les leaders sectoriels. Le moteur de navires Hanwha Engine (009970.KS) illustre parfaitement cette dynamique : résultats T1 2026 supérieurs de +15 % au consensus (bénéfice opérationnel 51,4 Mds KRW), objectif de cours relevé de 72 000 à 100 000 KRW par SK Securities — l'action a bondi de +16,5 % en séance, +63 % sur cinq jours, tirée par des institutionnels (+38,9 Mds KRW net sur 5 jours). À l'inverse, Samsung Electronics affiche un signal contradictoire : hausse du prix mais flux étrangers et institutionnels nets négatifs sur la période récente, ce qui justifie une prudence avant tout renforcement.
+<strong>Flux de capitaux.</strong> La configuration la plus constructive de la journée est la <strong>co-accumulation étrangers + institutionnels</strong> sur les leaders sectoriels. Le moteur de navires Hanwha Engine (009970.KS) illustre parfaitement cette dynamique : résultats T1 2026 supérieurs de +15 % au consensus (bénéfice opérationnel 51,4 Mds KRW), objectif de cours relevé de 72 000 à 100 000 KRW par SK Securities — l'action a bondi de +16,5 % en séance, +63 % sur cinq jours, tirée par des institutionnels (+38,9 Mds KRW net sur 5 jours). À l'inverse, Samsung Electronics affiche un signal contradictoire : hausse du prix mais flux étrangers et institutionnels nets négatifs sur la période récente, ce qui justifie une prudence avant tout renforcement.
 
 La largeur du rallye — 211 titres passant les filtres BULL du screener opérationnel — indique que la progression n'est pas le fait de quelques méga-caps, mais d'une participation sectorielle étendue, condition nécessaire à la durabilité d'un régime Bull.
 
-**À surveiller demain :** la persistance des achats étrangers sur Samsung Electronics sera le test clé de la conviction du marché. Un deuxième jour de risk-on avec maintien de la co-accumulation étrangers/institutionnels validerait une extension du mouvement.
+<strong>À surveiller demain :</strong> la persistance des achats étrangers sur Samsung Electronics sera le test clé de la conviction du marché. Un deuxième jour de risk-on avec maintien de la co-accumulation étrangers/institutionnels validerait une extension du mouvement.
 
 ---
 
 ## Section 3 — Screener du jour : PEAD (Post-Earnings Announcement Drift)
 
-**Lundi → Screener PEAD**
+<strong>Lundi → Screener PEAD</strong>
 
-Le PEAD (*Post-Earnings Announcement Drift*) exploite l'une des anomalies les mieux documentées de la finance comportementale : après une surprise bénéficiaire significative, le cours d'une action a tendance à **dériver dans la direction de la surprise pendant 1 à 4 semaines**, le marché intégrant progressivement l'information plutôt qu'immédiatement. En Corée, les résultats annuels 2025 ayant été massivement publiés en février-mars, la fenêtre de drift pour les meilleures surprises reste ouverte en avril. Le screener combine (1) surprise sur bénéfice opérationnel YoY ≥ 20 %, (2) expansion de marge ≥ +0,5 pp et (3) confirmation technique (cours ≥ MA50, distance au plus haut 52 semaines ≤ 35 %).
+Le PEAD (*Post-Earnings Announcement Drift*) exploite l'une des anomalies les mieux documentées de la finance comportementale : après une surprise bénéficiaire significative, le cours d'une action a tendance à <strong>dériver dans la direction de la surprise pendant 1 à 4 semaines</strong>, le marché intégrant progressivement l'information plutôt qu'immédiatement. En Corée, les résultats annuels 2025 ayant été massivement publiés en février-mars, la fenêtre de drift pour les meilleures surprises reste ouverte en avril. Le screener combine (1) surprise sur bénéfice opérationnel YoY ≥ 20 %, (2) expansion de marge ≥ +0,5 pp et (3) confirmation technique (cours ≥ MA50, distance au plus haut 52 semaines ≤ 35 %).
 
-**Résultats du jour : 92 candidats — 38 Tier A / 27 Tier B / 27 Tier C**
+<strong>Résultats du jour : 92 candidats — 38 Tier A / 27 Tier B / 27 Tier C</strong>
 
 ### Top 8 — Tier A (STRONG BEAT)
 
@@ -62,13 +62,13 @@ Le PEAD (*Post-Earnings Announcement Drift*) exploite l'une des anomalies les mi
 
 ### Focus sur les trois premiers noms
 
-**1. 한화비전 (489790.KS) — Score PEAD : +3,72**
+<strong>1. 한화비전 (489790.KS) — Score PEAD : +3,72</strong>
 Filiale du groupe Hanwha spécialisée dans les systèmes de vidéosurveillance intelligente (caméras IP, analytics IA, sécurité périmétrique). Le bénéfice opérationnel a littéralement explosé — ×29 en glissement annuel — sur fond de montée en puissance de la demande en solutions de sécurité IA pour datacenters et infrastructures critiques. La marge opérationnelle passe à 9,1 %, avec un écart au plus haut 52 semaines de seulement 4,2 % : le drift potentiel reste ouvert mais la fenêtre se resserre. Signal technique propre : MA50 dépassée de +15,3 %.
 
-**2. 우원개발 (046940.KQ) — Score PEAD : +2,46**
+<strong>2. 우원개발 (046940.KQ) — Score PEAD : +2,46</strong>
 Société de génie civil et de développement immobilier cotée sur le KOSDAQ. La rentabilité a connu un retournement spectaculaire : ROE à 36,8 %, marge opérationnelle à 17,9 %, +16,9 pp d'expansion — l'un des profils d'amélioration de marge les plus nets du screener toutes tiers confondues. À surveiller : la liquidité reste inférieure aux grandes capitalisations, ce qui justifie un dimensionnement prudent.
 
-**3. 파미셀 (005690.KS) — Score PEAD : +1,82**
+<strong>3. 파미셀 (005690.KS) — Score PEAD : +1,82</strong>
 Pionnier coréen des thérapies à base de cellules souches (thérapie cellulaire cardiaque, médecine régénérative). Avec un bénéfice opérationnel en hausse de +630 % YoY, une marge opérationnelle de 30,1 % et un ROE de 38,3 %, Pamicel affiche l'un des profils qualité les plus solides du Tier A. Le retour en grâce du segment biotech dans un contexte de risk-on généralisé amplifie la dynamique de prix.
 
 ---

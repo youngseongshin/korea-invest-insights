@@ -8,18 +8,18 @@ tags: ["Why Korea", "KOSPI", "KOSDAQ", "Samsung Electronics", "SK hynix", "HBM",
 series: ["why-korea", "korea-rerating-2026"]
 ---
 
-> **Why Korea Parte 5.** Esta es la continuación de la tesis sobre el re-rating de Corea: semiconductores, K-beauty, beneficios de Samsung/SK hynix y flujos extranjeros hacia ETFs coreanos. El nuevo titular es que la bolsa coreana aparece ya cerca del **sexto lugar mundial por capitalización**.
+> <strong>Why Korea Parte 5.</strong> Esta es la continuación de la tesis sobre el re-rating de Corea: semiconductores, K-beauty, beneficios de Samsung/SK hynix y flujos extranjeros hacia ETFs coreanos. El nuevo titular es que la bolsa coreana aparece ya cerca del <strong>sexto lugar mundial por capitalización</strong>.
 
 ## TL;DR
 
-* La dirección es real. WFE sitúa la capitalización doméstica de KRX en **2,67 billones de dólares** en diciembre de 2025, +71,4% interanual en dólares. CEIC muestra **4,03 billones** en febrero de 2026.
-* La cifra de tabla pública de **4,89 billones de dólares / sexto puesto mundial / 190% del PIB** es plausible como foto reciente, pero el ratio sobre PIB exige verificar metodología, tipo de cambio y fecha.
-* El proxy local de Research OS estima unos **6.851 billones de wones** a 22 de mayo de 2026. Samsung Electronics y SK hynix suman alrededor de **3.093 billones**, o **45,1%** del proxy.
+* La dirección es real. WFE sitúa la capitalización doméstica de KRX en <strong>2,67 billones de dólares</strong> en diciembre de 2025, +71,4% interanual en dólares. CEIC muestra <strong>4,03 billones</strong> en febrero de 2026.
+* La cifra de tabla pública de <strong>4,89 billones de dólares / sexto puesto mundial / 190% del PIB</strong> es plausible como foto reciente, pero el ratio sobre PIB exige verificar metodología, tipo de cambio y fecha.
+* El proxy local de Research OS estima unos <strong>6.851 billones de wones</strong> a 22 de mayo de 2026. Samsung Electronics y SK hynix suman alrededor de <strong>3.093 billones</strong>, o <strong>45,1%</strong> del proxy.
 * Conclusión: no es una invitación a comprar Corea de forma indiscriminada. Es una invitación a comprobar si los beneficios de memoria IA pueden durar y si el flujo se extiende a los siguientes cuellos de botella.
 
 ## La Lectura Correcta
 
-Corea ha subido en las tablas globales porque el mercado está revalorando su papel en la infraestructura de IA. Pero el corazón de esa subida no es todo el mercado coreano. Es la combinación de **HBM, DRAM, Samsung Electronics y SK hynix**.
+Corea ha subido en las tablas globales porque el mercado está revalorando su papel en la infraestructura de IA. Pero el corazón de esa subida no es todo el mercado coreano. Es la combinación de <strong>HBM, DRAM, Samsung Electronics y SK hynix</strong>.
 
 El marco es P x Q x C:
 
@@ -47,12 +47,12 @@ Si la respuesta es sí, el sexto puesto mundial puede ser una etapa intermedia d
 
 | Área | Lectura |
 |---|---|
-| KOSPI amplio | **Esperar**. El titular global ya es posterior al movimiento. |
-| Samsung Electronics | **Watchlist**. HBM, DRAM y foundry necesitan ejecución. |
-| SK hynix | **Watchlist / compra en corrección**. Es la exposición HBM más pura, pero ya descuenta mucho éxito. |
-| Samsung Electro-Mechanics | **Cuello de botella secundario**: FC-BGA, MLCC y capacitores de silicio para power integrity. |
-| Infraestructura eléctrica | **Selectivo**. Centros de datos y clústeres de semiconductores necesitan red eléctrica. |
-| KOSDAQ de calidad | **Condicional**. Solo si mejora el breadth y aparecen flujos inteligentes. |
+| KOSPI amplio | <strong>Esperar</strong>. El titular global ya es posterior al movimiento. |
+| Samsung Electronics | <strong>Watchlist</strong>. HBM, DRAM y foundry necesitan ejecución. |
+| SK hynix | <strong>Watchlist / compra en corrección</strong>. Es la exposición HBM más pura, pero ya descuenta mucho éxito. |
+| Samsung Electro-Mechanics | <strong>Cuello de botella secundario</strong>: FC-BGA, MLCC y capacitores de silicio para power integrity. |
+| Infraestructura eléctrica | <strong>Selectivo</strong>. Centros de datos y clústeres de semiconductores necesitan red eléctrica. |
+| KOSDAQ de calidad | <strong>Condicional</strong>. Solo si mejora el breadth y aparecen flujos inteligentes. |
 
 ## Conclusión
 

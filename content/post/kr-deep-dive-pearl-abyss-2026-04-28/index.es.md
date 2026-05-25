@@ -17,12 +17,12 @@ draft: false
 
 ## 1. Perfil de la empresa
 
-**Nombre completo:** Pearl Abyss Corp. (펄어비스)
-**Ticker:** 263750.KS
-**Bolsa:** KOSPI (Korea Stock Exchange)
-**Sector:** Entretenimiento / Videojuegos / Software interactivo
-**Sede:** Anyang, Gyeonggi-do, Corea del Sur
-**Fundación:** 2010, por Kim Dae-il
+<strong>Nombre completo:</strong> Pearl Abyss Corp. (펄어비스)
+<strong>Ticker:</strong> 263750.KS
+<strong>Bolsa:</strong> KOSPI (Korea Stock Exchange)
+<strong>Sector:</strong> Entretenimiento / Videojuegos / Software interactivo
+<strong>Sede:</strong> Anyang, Gyeonggi-do, Corea del Sur
+<strong>Fundación:</strong> 2010, por Kim Dae-il
 
 ### Argumento de inversión en pocas palabras
 
@@ -34,18 +34,18 @@ Pearl Abyss es uno de los pocos estudios de videojuegos coreanos que ha competid
 
 ### ¿Por qué debería importarle a un inversor no coreano?
 
-El sector de videojuegos coreano ha operado durante mucho tiempo a la sombra de sus homólogos japoneses y estadounidenses. Nintendo, Sony, Activision Blizzard y EA dominan las conversaciones globales. Sin embargo, Pearl Abyss representa una tesis específica que resuena cada vez más entre los asignadores internacionales: **un estudio coreano de tamaño medio con capacidad de distribución global genuina, un motor propietario y una franquicia que compite de forma directa con los títulos AAA occidentales en términos de calidad**.
+El sector de videojuegos coreano ha operado durante mucho tiempo a la sombra de sus homólogos japoneses y estadounidenses. Nintendo, Sony, Activision Blizzard y EA dominan las conversaciones globales. Sin embargo, Pearl Abyss representa una tesis específica que resuena cada vez más entre los asignadores internacionales: <strong>un estudio coreano de tamaño medio con capacidad de distribución global genuina, un motor propietario y una franquicia que compite de forma directa con los títulos AAA occidentales en términos de calidad</strong>.
 
-La tendencia global en la que Pearl Abyss navega es el **renacimiento de los videojuegos premium para PC y consola**. Tras años de dominio del mobile-first en Asia, una parte de los jugadores —especialmente en China— está demostrando su disposición a pagar entre $50 y $70 por una experiencia cinematográfica y físicamente rica. El lanzamiento de *Crimson Desert* en China es la evidencia más clara hasta la fecha: un juego de un desarrollador coreano alcanzó el puesto número 1 en ingresos en Steam China durante dos semanas consecutivas (24–31 de marzo de 2026), encabezando al mismo tiempo el ranking global de ingresos de Steam. Eso no es una historia coreana. Es una historia sobre la estructura del mercado global.
+La tendencia global en la que Pearl Abyss navega es el <strong>renacimiento de los videojuegos premium para PC y consola</strong>. Tras años de dominio del mobile-first en Asia, una parte de los jugadores —especialmente en China— está demostrando su disposición a pagar entre $50 y $70 por una experiencia cinematográfica y físicamente rica. El lanzamiento de *Crimson Desert* en China es la evidencia más clara hasta la fecha: un juego de un desarrollador coreano alcanzó el puesto número 1 en ingresos en Steam China durante dos semanas consecutivas (24–31 de marzo de 2026), encabezando al mismo tiempo el ranking global de ingresos de Steam. Eso no es una historia coreana. Es una historia sobre la estructura del mercado global.
 
 ### Posición competitiva frente a pares globales
 
 Pearl Abyss ocupa un nivel competitivo diferenciado: demasiado grande y sofisticado para ser un estudio independiente puro, pero demasiado pequeño para absorber un presupuesto de marketing a la escala de *Grand Theft Auto VI*. Sus pares funcionales más próximos a nivel global son estudios como CD Projekt RED (CDP.WA) —el creador de *The Witcher* y *Cyberpunk 2077*— y Larian Studios (empresa privada, *Baldur's Gate 3*). La comparación más ilustrativa es con CD Projekt: un estudio con dependencia de un único IP que se convirtió en marca global gracias a una franquicia de ruptura y que cotizó con prima de valoración durante años sobre la promesa de la longevidad de ese IP.
 
 La ventaja competitiva estructural de Pearl Abyss descansa sobre tres pilares:
-1. **Motor propietario** — El motor de Black Desert (utilizado tanto para BDO como para Crimson Desert) está desarrollado internamente, lo que permite iterar rápidamente sin las restricciones de licencias de terceros como Unreal o Unity.
-2. **ADN de servicio en vivo** — A diferencia de los estudios puramente orientados al modo un jugador, Pearl Abyss acumula más de una década de experiencia gestionando y monetizando un ecosistema de servicio en vivo, lo que otorga a Crimson Desert un recorrido de ingresos post-lanzamiento creíble si se introduce con éxito una capa multijugador o de contenido en vivo.
-3. **Propiedad de CCP Games** — Pearl Abyss adquirió CCP Games (creadores de *EVE Online*) en 2018. EVE sigue siendo el referente en diseño de MMO sandbox profundo, y el IP representa una opción de valor para proyectos futuros.
+1. <strong>Motor propietario</strong> — El motor de Black Desert (utilizado tanto para BDO como para Crimson Desert) está desarrollado internamente, lo que permite iterar rápidamente sin las restricciones de licencias de terceros como Unreal o Unity.
+2. <strong>ADN de servicio en vivo</strong> — A diferencia de los estudios puramente orientados al modo un jugador, Pearl Abyss acumula más de una década de experiencia gestionando y monetizando un ecosistema de servicio en vivo, lo que otorga a Crimson Desert un recorrido de ingresos post-lanzamiento creíble si se introduce con éxito una capa multijugador o de contenido en vivo.
+3. <strong>Propiedad de CCP Games</strong> — Pearl Abyss adquirió CCP Games (creadores de *EVE Online*) en 2018. EVE sigue siendo el referente en diseño de MMO sandbox profundo, y el IP representa una opción de valor para proyectos futuros.
 
 ---
 
@@ -55,13 +55,13 @@ La ventaja competitiva estructural de Pearl Abyss descansa sobre tres pilares:
 
 Pearl Abyss genera ingresos a través de tres canales principales:
 
-**1. Franquicia Black Desert (históricamente \~85–90% de los ingresos)**
+<strong>1. Franquicia Black Desert (históricamente \~85–90% de los ingresos)</strong>
 Esto incluye PC (*Black Desert Online*), móvil (*Black Desert Mobile*) y consola (*Black Desert* en PS4/Xbox). La versión de PC funciona con un modelo de pago único + Pearl Abyss Store (tienda de micropagos) en la mayoría de los mercados occidentales, y un híbrido de suscripción/tienda en algunos mercados asiáticos. La versión móvil sigue un modelo free-to-play gacha. Según los períodos fiscales reportados más recientemente (conforme a las presentaciones en DART en dart.fss.or.kr), la franquicia Black Desert —pese a superar la década de vida— ha demostrado una resiliencia sorprendente, con actualizaciones de contenido continuas y eventos de temporada que sostienen el engagement.
 
-**2. Crimson Desert (nuevo en el Q1 2026)**
+<strong>2. Crimson Desert (nuevo en el Q1 2026)</strong>
 *Crimson Desert* se lanzó en PC (Steam y venta directa) y plataformas de consola a finales de marzo de 2026. El modelo de ingresos inicial es el de un título premium de pago único ($49.99–$69.99 según la edición). La dirección ha indicado planes de expansión de contenido post-lanzamiento. A 1 de abril de 2026, el título había vendido más de 4M de copias en todas las plataformas, con ventas en Steam de aproximadamente 2M de copias en marzo de 2026, convirtiéndolo en el segundo título más vendido de Steam a nivel global ese mes. Aplicando un precio de venta neto ponderado de aproximadamente $50 tras los recortes de las plataformas (30% de comisión de Steam, comisiones de plataformas de consola), el impacto del ingreso inicial es materialmente significativo.
 
-**3. CCP Games / EVE Online**
+<strong>3. CCP Games / EVE Online</strong>
 EVE Online sigue siendo un MMO basado en suscripción con una base de jugadores global y dedicada. Los ingresos de este segmento son relativamente estables y contribuyen al P&L consolidado, aunque no son el principal motor de crecimiento.
 
 ### Mix geográfico
@@ -70,13 +70,13 @@ Antes de *Crimson Desert*, Pearl Abyss obtenía ingresos significativos de Corea
 
 ### Principales motores de crecimiento para los próximos 12–24 meses
 
-**Motor 1: Monetización a largo plazo de Crimson Desert**
+<strong>Motor 1: Monetización a largo plazo de Crimson Desert</strong>
 El evento inicial de venta de copias (el "impulso inicial") ya está en marcha. La pregunta más importante para los ingresos sostenidos es si Pearl Abyss puede añadir con éxito contenido post-lanzamiento —expansiones, un componente multijugador o una tienda de servicio en vivo— sobre el núcleo de un jugador. La dirección ha señalado interés en el desarrollo de contenido a largo plazo. Si se ejecuta con acierto, esto transforma una venta premium única en un motor de ingresos recurrentes.
 
-**Motor 2: Penetración en el mercado chino**
+<strong>Motor 2: Penetración en el mercado chino</strong>
 La ventana del Festival Qingming demostró que la demanda china es real e inelástica al precio en el segmento premium. A medida que la infraestructura de PC gaming en China mejora y la clase media continúa expandiéndose, un título de $50 con los valores de producción de Crimson Desert ocupa un punto óptimo. Futuras versiones móviles o de streaming en la nube para China representan opcionalidad adicional.
 
-**Motor 3: Secuela de Crimson Desert / expansión multijugador**
+<strong>Motor 3: Secuela de Crimson Desert / expansión multijugador</strong>
 El worldbuilding que Pearl Abyss ha invertido en *Crimson Desert* —el lore, las optimizaciones del motor, la dirección artística— genera valor reutilizable. Una expansión multijugador o cooperativa, o una secuela con componentes online, aprovecharía los costes de desarrollo ya amortizados y daría uso al manual de servicio en vivo de Black Desert.
 
 ### Perfil de márgenes
@@ -119,21 +119,21 @@ Pearl Abyss genera una parte sustancial de sus ingresos en USD y EUR (de jugador
 
 ## 6. Contexto de valoración
 
-A 28 de abril de 2026, Pearl Abyss (263750.KS) cotiza en torno a **₩60.600 por acción**, en un contexto de incertidumbre significativa sobre cómo modelar la contribución de ingresos a largo plazo de *Crimson Desert*.
+A 28 de abril de 2026, Pearl Abyss (263750.KS) cotiza en torno a <strong>₩60.600 por acción</strong>, en un contexto de incertidumbre significativa sobre cómo modelar la contribución de ingresos a largo plazo de *Crimson Desert*.
 
-**Consideraciones clave de valoración:**
+<strong>Consideraciones clave de valoración:</strong>
 
-- **Línea de base pre-Crimson Desert:** Antes del lanzamiento, Pearl Abyss cotizaba a un múltiplo que reflejaba el crecimiento decreciente de la franquicia Black Desert y los retrasos persistentes en el pipeline de *Crimson Desert*. La acción había tenido un rendimiento inferior al índice sectorial de videojuegos del KOSPI en los 12 meses anteriores.
+- <strong>Línea de base pre-Crimson Desert:</strong> Antes del lanzamiento, Pearl Abyss cotizaba a un múltiplo que reflejaba el crecimiento decreciente de la franquicia Black Desert y los retrasos persistentes en el pipeline de *Crimson Desert*. La acción había tenido un rendimiento inferior al índice sectorial de videojuegos del KOSPI en los 12 meses anteriores.
 
-- **Reclasificación post-lanzamiento:** El lanzamiento de *Crimson Desert* ha creado un salto puntual en los beneficios. Los mercados están determinando si asignarle un múltiplo de "evento único" (más bajo) o un múltiplo de "plataforma de franquicia" (más alto). Esta ambigüedad es la pregunta de valoración definitoria.
+- <strong>Reclasificación post-lanzamiento:</strong> El lanzamiento de *Crimson Desert* ha creado un salto puntual en los beneficios. Los mercados están determinando si asignarle un múltiplo de "evento único" (más bajo) o un múltiplo de "plataforma de franquicia" (más alto). Esta ambigüedad es la pregunta de valoración definitoria.
 
-- **Comparación con pares:** CD Projekt RED (CDP.WA), el comparable más ilustrativo, cotizó a ratios P/E elevados durante años tras el lanzamiento de *Witcher 3* sobre la promesa de la longevidad de la franquicia. Cuando *Cyberpunk 2077* tropezó en el lanzamiento antes de recuperarse, la acción experimentó una fuerte compresión de múltiplos —para finalmente recuperarse cuando la tesis de largo recorrido fue validada. Los inversores de Pearl Abyss están haciendo esencialmente una apuesta similar sobre la longevidad de la franquicia.
+- <strong>Comparación con pares:</strong> CD Projekt RED (CDP.WA), el comparable más ilustrativo, cotizó a ratios P/E elevados durante años tras el lanzamiento de *Witcher 3* sobre la promesa de la longevidad de la franquicia. Cuando *Cyberpunk 2077* tropezó en el lanzamiento antes de recuperarse, la acción experimentó una fuerte compresión de múltiplos —para finalmente recuperarse cuando la tesis de largo recorrido fue validada. Los inversores de Pearl Abyss están haciendo esencialmente una apuesta similar sobre la longevidad de la franquicia.
 
-- **EV/Ingresos o EV/EBITDA:** Dada la naturaleza irregular de los beneficios de los estudios de videojuegos, los múltiplos basados en ingresos suelen ser más informativos que los basados en beneficios en el período inmediatamente posterior a un lanzamiento importante. Los inversores deben consultar las presentaciones de resultados trimestrales de Pearl Abyss en DART (dart.fss.or.kr, código de empresa 263750) para obtener las cifras más actualizadas.
+- <strong>EV/Ingresos o EV/EBITDA:</strong> Dada la naturaleza irregular de los beneficios de los estudios de videojuegos, los múltiplos basados en ingresos suelen ser más informativos que los basados en beneficios en el período inmediatamente posterior a un lanzamiento importante. Los inversores deben consultar las presentaciones de resultados trimestrales de Pearl Abyss en DART (dart.fss.or.kr, código de empresa 263750) para obtener las cifras más actualizadas.
 
-- **Contexto histórico:** Pearl Abyss ha comandado históricamente una prima sobre sus pares de videojuegos coreanos, justificada por la diversificación geográfica de ingresos y la titularidad de un motor propietario. Si el nivel actual refleja un valor razonable depende en gran medida de la rapidez con que se descuente el recorrido de ingresos de *Crimson Desert*.
+- <strong>Contexto histórico:</strong> Pearl Abyss ha comandado históricamente una prima sobre sus pares de videojuegos coreanos, justificada por la diversificación geográfica de ingresos y la titularidad de un motor propietario. Si el nivel actual refleja un valor razonable depende en gran medida de la rapidez con que se descuente el recorrido de ingresos de *Crimson Desert*.
 
-**¿Está cara o barata la acción de Pearl Abyss?** A los niveles actuales, la acción parece incorporar un escenario en el que *Crimson Desert* logra una monetización a largo plazo significativa. Si ese escenario se materializa, la valoración puede parecer modesta en retrospectiva. Si no lo hace, la acción tiene un riesgo a la baja considerable hasta su línea de base pre-lanzamiento. Se trata de una situación clásica de resultado binario —que no es barata ni cara en términos absolutos, sino una propuesta de alto riesgo y alta recompensa en relación con el índice KOSPI.
+<strong>¿Está cara o barata la acción de Pearl Abyss?</strong> A los niveles actuales, la acción parece incorporar un escenario en el que *Crimson Desert* logra una monetización a largo plazo significativa. Si ese escenario se materializa, la valoración puede parecer modesta en retrospectiva. Si no lo hace, la acción tiene un riesgo a la baja considerable hasta su línea de base pre-lanzamiento. Se trata de una situación clásica de resultado binario —que no es barata ni cara en términos absolutos, sino una propuesta de alto riesgo y alta recompensa en relación con el índice KOSPI.
 
 ---
 
@@ -143,23 +143,23 @@ A 28 de abril de 2026, Pearl Abyss (263750.KS) cotiza en torno a **₩60.600 por
 
 La vía más directa para los inversores internacionales es comprar 263750.KS a través de un bróker con acceso a la Korea Stock Exchange. La mayoría de los grandes brókers internacionales (Interactive Brokers, Schwab International, Fidelity International) ofrecen acceso al mercado coreano. Hay que tener en cuenta:
 
-- **Liquidación:** Corea opera con un ciclo de liquidación T+2.
-- **Registro de inversores extranjeros:** Según la normativa más reciente, los inversores extranjeros ya no tienen que registrarse previamente ante el Servicio de Supervisión Financiera (FSS) para la mayoría de los valores — el antiguo requisito del Certificado de Registro de Inversión Extranjera (FIRC) fue simplificado. Confirme los requisitos actuales con su bróker.
-- **Horario de negociación:** KRX opera de 09:00 a 15:30 hora estándar de Corea (UTC+9), de lunes a viernes.
-- **Idioma de la documentación:** Todas las presentaciones en DART (dart.fss.or.kr) están principalmente en coreano. Pearl Abyss publica una sección de Relaciones con Inversores en inglés en su sitio web corporativo (pearlabyss.com) con presentaciones seleccionadas y resúmenes de resultados en inglés, aunque las presentaciones trimestrales completas permanecen en coreano.
+- <strong>Liquidación:</strong> Corea opera con un ciclo de liquidación T+2.
+- <strong>Registro de inversores extranjeros:</strong> Según la normativa más reciente, los inversores extranjeros ya no tienen que registrarse previamente ante el Servicio de Supervisión Financiera (FSS) para la mayoría de los valores — el antiguo requisito del Certificado de Registro de Inversión Extranjera (FIRC) fue simplificado. Confirme los requisitos actuales con su bróker.
+- <strong>Horario de negociación:</strong> KRX opera de 09:00 a 15:30 hora estándar de Corea (UTC+9), de lunes a viernes.
+- <strong>Idioma de la documentación:</strong> Todas las presentaciones en DART (dart.fss.or.kr) están principalmente en coreano. Pearl Abyss publica una sección de Relaciones con Inversores en inglés en su sitio web corporativo (pearlabyss.com) con presentaciones seleccionadas y resúmenes de resultados en inglés, aunque las presentaciones trimestrales completas permanecen en coreano.
 
 ### Disponibilidad de ADR / GDR
 
-A la fecha de este análisis, **Pearl Abyss no dispone de un ADR listado en EE.UU. ni de un GDR listado internacionalmente**. Los inversores extranjeros deben acceder a la acción mediante exposición directa al mercado coreano. Esta es una limitación práctica importante — restringe la accesibilidad internacional minorista en comparación con empresas coreanas que cuentan con un ADR negociado en EE.UU.
+A la fecha de este análisis, <strong>Pearl Abyss no dispone de un ADR listado en EE.UU. ni de un GDR listado internacionalmente</strong>. Los inversores extranjeros deben acceder a la acción mediante exposición directa al mercado coreano. Esta es una limitación práctica importante — restringe la accesibilidad internacional minorista en comparación con empresas coreanas que cuentan con un ADR negociado en EE.UU.
 
 ### Exposición a través de ETFs
 
 Para los inversores que buscan exposición indirecta, varios ETFs incluyen Pearl Abyss como componente:
 
-- **VanEck Vietnam ETF (VNM)** — *Nota: Pearl Abyss no forma parte de este fondo. No confundir "videojuegos coreanos" con asignaciones pan-asiáticas.*
-- **Global X Video Games & Esports ETF (HERO)** — Ha mantenido históricamente posiciones en nombres de videojuegos coreanos, incluida Pearl Abyss con diversas ponderaciones. Confirme las posiciones actuales en el folleto oficial del fondo.
-- **iShares MSCI South Korea ETF (EWY)** — Exposición amplia al mercado coreano; Pearl Abyss es un componente de menor ponderación en relación con Samsung Electronics, SK Hynix y los principales financieros.
-- **Fondos coreanos de gaming/tecnología** — Varios ETFs domésticos coreanos (listados en KRX) se orientan específicamente al sector de videojuegos, con Pearl Abyss como componente de peso significativo.
+- <strong>VanEck Vietnam ETF (VNM)</strong> — *Nota: Pearl Abyss no forma parte de este fondo. No confundir "videojuegos coreanos" con asignaciones pan-asiáticas.*
+- <strong>Global X Video Games & Esports ETF (HERO)</strong> — Ha mantenido históricamente posiciones en nombres de videojuegos coreanos, incluida Pearl Abyss con diversas ponderaciones. Confirme las posiciones actuales en el folleto oficial del fondo.
+- <strong>iShares MSCI South Korea ETF (EWY)</strong> — Exposición amplia al mercado coreano; Pearl Abyss es un componente de menor ponderación en relación con Samsung Electronics, SK Hynix y los principales financieros.
+- <strong>Fondos coreanos de gaming/tecnología</strong> — Varios ETFs domésticos coreanos (listados en KRX) se orientan específicamente al sector de videojuegos, con Pearl Abyss como componente de peso significativo.
 
 Verifique siempre las posiciones actuales de los ETFs directamente con el proveedor del fondo, ya que los rebalanceos pueden alterar la exposición.
 
@@ -171,16 +171,16 @@ Los ingresos de Crimson Desert están en gran parte denominados en dólares y eu
 
 ## Preguntas frecuentes
 
-**¿Es Pearl Abyss una buena inversión en 2026?**
+<strong>¿Es Pearl Abyss una buena inversión en 2026?</strong>
 Pearl Abyss es una tesis de alta convicción sobre la longevidad de *Crimson Desert* como franquicia. No es una inversión "segura" — es una apuesta concentrada en un resultado específico del sector de videojuegos. Los datos del lanzamiento (más de 4M de copias, 86% de valoración positiva en Steam, giro en China) son genuinamente impresionantes. Si se traducen en un poder de generación de beneficios sostenido depende de la ejecución del contenido post-lanzamiento. Este análisis no constituye una recomendación de compra o venta.
 
-**¿Cómo puedo comprar acciones de Pearl Abyss (263750.KS) como inversor extranjero?**
+<strong>¿Cómo puedo comprar acciones de Pearl Abyss (263750.KS) como inversor extranjero?</strong>
 Necesita un bróker con acceso a la Korea Stock Exchange. Los grandes brókers internacionales, incluido Interactive Brokers, ofrecen acceso al mercado coreano. No existe ningún ADR en EE.UU., por lo que se requiere la compra directa en KRX. Asegúrese de comprender el ciclo de liquidación T+2 y las normas de retención fiscal aplicables a los dividendos (Corea retiene entre el 15% y el 22% sobre dividendos para no residentes, sujeto a convenio fiscal).
 
-**¿Cuál es el impacto de Crimson Desert en los ingresos de Pearl Abyss?**
+<strong>¿Cuál es el impacto de Crimson Desert en los ingresos de Pearl Abyss?</strong>
 Basándose en las cifras publicadas (más de 4M de copias vendidas hasta el 1 de abril de 2026 a un precio de venta estándar de nivel premium), la contribución de ingresos en la ventana de lanzamiento es material en relación con la base histórica de ingresos trimestrales de Pearl Abyss. Pearl Abyss presenta sus resultados trimestrales en el sistema DART (dart.fss.or.kr); el informe del Q1 2026 proporcionará el primer desglose oficial de ingresos de Crimson Desert.
 
-**¿Paga dividendos Pearl Abyss?**
+<strong>¿Paga dividendos Pearl Abyss?</strong>
 Pearl Abyss ha priorizado históricamente la reinversión sobre la remuneración al accionista. Según la información disponible más reciente, la compañía no ofrece una rentabilidad por dividendo significativa. Los inversores deben confirmar la política de dividendos actual a través de las presentaciones en DART o en la página de relaciones con inversores de la compañía.
 
 ---
@@ -200,10 +200,10 @@ Pearl Abyss ha priorizado históricamente la reinversión sobre la remuneración
 
 ## Fuentes oficiales para el proceso de due diligence
 
-- **DART (전자공시시스템):** [dart.fss.or.kr](https://dart.fss.or.kr) — Código de empresa 263750. Todas las presentaciones oficiales, incluidos los resultados trimestrales (분기보고서), los informes anuales (사업보고서) y las divulgaciones materiales.
-- **Datos de mercado KRX:** [krx.co.kr](https://krx.co.kr) — Datos de precios en tiempo real, gráficos históricos y estadísticas de negociación.
-- **IR de Pearl Abyss:** [pearlabyss.com](https://www.pearlabyss.com) — Relaciones con inversores corporativos, comunicados de prensa y resúmenes de resultados en inglés.
-- **Steam SteamSpy / SteamDB:** Para el seguimiento de usuarios simultáneos por parte de terceros e historial de reseñas en Steam.
+- <strong>DART (전자공시시스템):</strong> [dart.fss.or.kr](https://dart.fss.or.kr) — Código de empresa 263750. Todas las presentaciones oficiales, incluidos los resultados trimestrales (분기보고서), los informes anuales (사업보고서) y las divulgaciones materiales.
+- <strong>Datos de mercado KRX:</strong> [krx.co.kr](https://krx.co.kr) — Datos de precios en tiempo real, gráficos históricos y estadísticas de negociación.
+- <strong>IR de Pearl Abyss:</strong> [pearlabyss.com](https://www.pearlabyss.com) — Relaciones con inversores corporativos, comunicados de prensa y resúmenes de resultados en inglés.
+- <strong>Steam SteamSpy / SteamDB:</strong> Para el seguimiento de usuarios simultáneos por parte de terceros e historial de reseñas en Steam.
 
 ---
 

@@ -9,7 +9,7 @@ tags: ["Robot", "Robot Hình Người", "Physical AI", "Boston Dynamics", "Rainb
 
 > Đây là bài phân tích chuỗi giá trị phần cứng AI Hàn Quốc. Để có bức tranh tổng thể hơn, hãy bắt đầu với [Korean AI Companies Hub](/page/korean-ai-companies-hub/) và [hướng dẫn toàn diện về KOSDAQ](/post/kosdaq-complete-guide-promotion-relegation-system-2026-05-10/). Về các góc nhìn thị trường liên quan, xem thêm phân tích Samsung Electro-Mechanics về [định giá lại hạ tầng AI](/post/samsung-electro-mechanics-mirae-tp-1300000-valuation-frame-shift-2026-05-07/) và bài [phân tích sâu về EV và robot của Hyundai Mobis](/post/kr-deep-dive-hyundai-mobis-2026-04-28/).
 
-Câu hỏi thực sự trong ngành robot Hàn Quốc không phải là liệu robot có phải chủ đề hứa hẹn hay không. Thị trường đã định giá câu trả lời đó từ lâu. Câu hỏi thực tế hơn rất đơn giản: **doanh thu sẽ xuất hiện đầu tiên ở đâu?**
+Câu hỏi thực sự trong ngành robot Hàn Quốc không phải là liệu robot có phải chủ đề hứa hẹn hay không. Thị trường đã định giá câu trả lời đó từ lâu. Câu hỏi thực tế hơn rất đơn giản: <strong>doanh thu sẽ xuất hiện đầu tiên ở đâu?</strong>
 
 Samsung Electronics đang nói về nhà máy dẫn dắt bởi AI và Physical AI. Hyundai Motor Group có lộ trình cụ thể qua Boston Dynamics và robot hình người Atlas. LG Electronics đang xây dựng hệ sinh thái xung quanh bộ truyền động, robot dịch vụ và các linh kiện Physical AI. Định hướng là có thật.
 
@@ -21,12 +21,12 @@ Bài này không nhằm thổi phồng hay phủ nhận ngành. Đây là bản 
 
 ## TL;DR
 
-1. **Samsung, Hyundai và LG đang cùng lúc dịch chuyển.** Samsung định vị robot gắn với sản xuất dẫn dắt bởi AI, Hyundai có Boston Dynamics và kế hoạch triển khai Atlas, còn LG đẩy mạnh bộ truyền động và robot dịch vụ.
-2. **Cửa sổ kiểm chứng đầu tiên là 2H26 đến 2028.** Module camera humanoid của Samsung Electro-Mechanics, RMAC của Hyundai và triển khai Atlas, sản xuất bộ truyền động của LG, cùng kế hoạch xây dựng dây chuyền bộ truyền động 2027-2028 của HL Mando đều nằm trong khung thời gian này.
-3. **Robot hình người là bài toán linh kiện không kém gì bài toán AI.** Hộp giảm tốc, bộ truyền động, module camera, cảm biến, pin, tay gắp và chất lượng lắp ráp quyết định chi phí và hiệu suất.
-4. **Nhiều cổ phiếu robot niêm yết tại Hàn Quốc vẫn có lợi nhuận tụt xa so với định giá.** Các tên thuần robot có thể có vốn hóa thị trường rất lớn so với doanh thu hiện tại.
-5. **Doanh thu có thể xuất hiện sớm nhất ở các nhà cung cấp linh kiện.** SPG, Robotis, HL Mando, Samsung Electro-Mechanics, LG Innotek và Hyundai Mobis đều có hoạt động sản xuất hiện hữu, có thể hấp thụ nhu cầu robot như doanh thu tăng thêm.
-6. **Chuỗi cung ứng Atlas và Optimus vẫn còn nhiều ước tính.** Hãy phân biệt rõ ba giai đoạn: tiếp cận phát triển, đơn hàng xác nhận và doanh thu đã ghi nhận.
+1. <strong>Samsung, Hyundai và LG đang cùng lúc dịch chuyển.</strong> Samsung định vị robot gắn với sản xuất dẫn dắt bởi AI, Hyundai có Boston Dynamics và kế hoạch triển khai Atlas, còn LG đẩy mạnh bộ truyền động và robot dịch vụ.
+2. <strong>Cửa sổ kiểm chứng đầu tiên là 2H26 đến 2028.</strong> Module camera humanoid của Samsung Electro-Mechanics, RMAC của Hyundai và triển khai Atlas, sản xuất bộ truyền động của LG, cùng kế hoạch xây dựng dây chuyền bộ truyền động 2027-2028 của HL Mando đều nằm trong khung thời gian này.
+3. <strong>Robot hình người là bài toán linh kiện không kém gì bài toán AI.</strong> Hộp giảm tốc, bộ truyền động, module camera, cảm biến, pin, tay gắp và chất lượng lắp ráp quyết định chi phí và hiệu suất.
+4. <strong>Nhiều cổ phiếu robot niêm yết tại Hàn Quốc vẫn có lợi nhuận tụt xa so với định giá.</strong> Các tên thuần robot có thể có vốn hóa thị trường rất lớn so với doanh thu hiện tại.
+5. <strong>Doanh thu có thể xuất hiện sớm nhất ở các nhà cung cấp linh kiện.</strong> SPG, Robotis, HL Mando, Samsung Electro-Mechanics, LG Innotek và Hyundai Mobis đều có hoạt động sản xuất hiện hữu, có thể hấp thụ nhu cầu robot như doanh thu tăng thêm.
+6. <strong>Chuỗi cung ứng Atlas và Optimus vẫn còn nhiều ước tính.</strong> Hãy phân biệt rõ ba giai đoạn: tiếp cận phát triển, đơn hàng xác nhận và doanh thu đã ghi nhận.
 
 ---
 
@@ -59,7 +59,7 @@ Robot cũ lặp lại các chuyển động được lập trình sẵn và dừ
 
 Điều này quan trọng nhất với robot hình người. Một robot hình người chỉ hữu ích khi có thể hoạt động trong môi trường lộn xộn như nhà máy, kho hàng, cửa hàng và cuối cùng là gia đình — đòi hỏi cả trí tuệ máy và phần cứng đáng tin cậy.
 
-AI không loại bỏ nút thắt cổ chai phần cứng. Nếu hộp giảm tốc ồn ào, bộ truyền động đắt đỏ, pin cạn nhanh hay camera không đủ hỗ trợ gắp kẹp chính xác, thương mại hóa vẫn bị chậm lại. Vì vậy, Physical AI cần được phân tích như một **chuỗi giá trị thân-và-não**, không chỉ là phần mềm.
+AI không loại bỏ nút thắt cổ chai phần cứng. Nếu hộp giảm tốc ồn ào, bộ truyền động đắt đỏ, pin cạn nhanh hay camera không đủ hỗ trợ gắp kẹp chính xác, thương mại hóa vẫn bị chậm lại. Vì vậy, Physical AI cần được phân tích như một <strong>chuỗi giá trị thân-và-não</strong>, không chỉ là phần mềm.
 
 ---
 
@@ -71,29 +71,29 @@ Robot hình người chia thành nhiều lớp phần cứng cốt lõi.
 
 Motor quay nhanh, nhưng khớp robot cần chuyển động chậm hơn với mô-men xoắn cao. Hộp giảm tốc chuyển đổi tốc độ motor thành lực điều khiển được.
 
-Hộp giảm tốc tốn kém và đòi hỏi kỹ thuật cao vì sai số nhỏ tạo ra rung động và thiếu chính xác. Harmonic Drive của Nhật Bản từ lâu đã là công ty tham chiếu trong lớp này. Tại Hàn Quốc, **SPG** là nhà cung cấp hộp giảm tốc niêm yết nổi bật nhất, xuất hiện liên tục trong các bản đồ chuỗi giá trị robot Hàn Quốc liên quan đến Boston Dynamics, Rainbow Robotics, Samsung và các nền tảng liên quan LG.
+Hộp giảm tốc tốn kém và đòi hỏi kỹ thuật cao vì sai số nhỏ tạo ra rung động và thiếu chính xác. Harmonic Drive của Nhật Bản từ lâu đã là công ty tham chiếu trong lớp này. Tại Hàn Quốc, <strong>SPG</strong> là nhà cung cấp hộp giảm tốc niêm yết nổi bật nhất, xuất hiện liên tục trong các bản đồ chuỗi giá trị robot Hàn Quốc liên quan đến Boston Dynamics, Rainbow Robotics, Samsung và các nền tảng liên quan LG.
 
 ### 3.2 Bộ Truyền Động: Module Cơ Bắp
 
 Một bộ truyền động kết hợp motor, hộp giảm tốc, driver và cảm biến vào một module khớp. Robot hình người có thể dùng từ 20-40 bộ truyền động trở lên, nên cả giá thành lẫn độ tin cậy đều quan trọng.
 
-Các tên Hàn Quốc trong lớp này bao gồm **Robotis**, **HL Mando**, **Hyundai Mobis** và **LG Electronics**. HL Mando đang cố gắng mở rộng kiến thức về lái xe và phanh ô tô sang bộ truyền động robot. LG Electronics nhấn mạnh sản xuất bộ truyền động vì đây là phần chiếm tỷ trọng lớn trong chi phí robot.
+Các tên Hàn Quốc trong lớp này bao gồm <strong>Robotis</strong>, <strong>HL Mando</strong>, <strong>Hyundai Mobis</strong> và <strong>LG Electronics</strong>. HL Mando đang cố gắng mở rộng kiến thức về lái xe và phanh ô tô sang bộ truyền động robot. LG Electronics nhấn mạnh sản xuất bộ truyền động vì đây là phần chiếm tỷ trọng lớn trong chi phí robot.
 
 ### 3.3 Camera và Cảm Biến: Đôi Mắt
 
 Physical AI cần năng lực nhận thức. Camera, lidar, cảm biến quán tính và cảm biến lực-mô-men xoắn cho phép robot xác định vị trí vật thể, di chuyển quanh người và thực hiện gắp kẹp.
 
-**Samsung Electro-Mechanics** và **LG Innotek** là những tên Hàn Quốc tự nhiên ở đây vì cả hai đã sản xuất hàng loạt module camera cho smartphone, xe hơi và các ứng dụng liền kề. Samsung Electro-Mechanics đã thảo luận về module nhận diện độ phân giải cao cho khách hàng humanoid và công nghệ camera nhỏ, mỏng cho gắp kẹp chính xác. Các báo cáo truyền thông đã chỉ ra sản xuất module camera humanoid trong nửa cuối năm 2026.
+<strong>Samsung Electro-Mechanics</strong> và <strong>LG Innotek</strong> là những tên Hàn Quốc tự nhiên ở đây vì cả hai đã sản xuất hàng loạt module camera cho smartphone, xe hơi và các ứng dụng liền kề. Samsung Electro-Mechanics đã thảo luận về module nhận diện độ phân giải cao cho khách hàng humanoid và công nghệ camera nhỏ, mỏng cho gắp kẹp chính xác. Các báo cáo truyền thông đã chỉ ra sản xuất module camera humanoid trong nửa cuối năm 2026.
 
 ### 3.4 Pin và Nguồn Điện
 
 Robot hình người tiêu thụ điện qua motor, máy tính và cảm biến. Mật độ năng lượng và độ an toàn của pin vì vậy rất quan trọng.
 
-**LG Energy Solution** và **Samsung SDI** là những tên Hàn Quốc tự nhiên ở lớp nguồn điện. Samsung SDI đã thảo luận về pin thể rắn cho Physical AI, còn LG Energy Solution có năng lực sản xuất cell và pack sâu có thể mở rộng sang robot theo thời gian.
+<strong>LG Energy Solution</strong> và <strong>Samsung SDI</strong> là những tên Hàn Quốc tự nhiên ở lớp nguồn điện. Samsung SDI đã thảo luận về pin thể rắn cho Physical AI, còn LG Energy Solution có năng lực sản xuất cell và pack sâu có thể mở rộng sang robot theo thời gian.
 
 ### 3.5 Lắp Ráp và Sản Xuất
 
-Robot cũng là sản phẩm gia công chính xác. Khung, vỏ, dây điện, quản lý nhiệt, kiểm tra chất lượng và lắp ráp cuối đều quan trọng. **Intops** thường được đề cập như ứng viên lắp ráp OEM nhờ nền tảng sản xuất điện tử.
+Robot cũng là sản phẩm gia công chính xác. Khung, vỏ, dây điện, quản lý nhiệt, kiểm tra chất lượng và lắp ráp cuối đều quan trọng. <strong>Intops</strong> thường được đề cập như ứng viên lắp ráp OEM nhờ nền tảng sản xuất điện tử.
 
 Đây là nơi nền tảng sản xuất rộng hơn của Hàn Quốc trở nên liên quan. Robot nằm giữa linh kiện điện tử và linh kiện ô tô — và Hàn Quốc có cả hai.
 

@@ -26,17 +26,17 @@ draft: false
 
 ## Key Takeaways
 
-ARM's rally is a **reclassification event**: from mobile IP royalty company toward AI data-center CPU platform company. As AI agents run continuously, call tools, move data and coordinate GPUs, ASICs and memory, the CPU becomes the orchestration layer of the AI rack.
+ARM's rally is a <strong>reclassification event</strong>: from mobile IP royalty company toward AI data-center CPU platform company. As AI agents run continuously, call tools, move data and coordinate GPUs, ASICs and memory, the CPU becomes the orchestration layer of the AI rack.
 
-The external catalyst was NVIDIA's Q1 FY27. NVIDIA reported **$81.6B** in revenue, **$75.2B** in Data Center revenue, and Q2 guidance of **$91.0B ±2%**. The market read that as acceleration, not peak-out, and began repricing the layers below GPUs: CPU, memory, interconnect, power and substrates. ([NVIDIA][1])
+The external catalyst was NVIDIA's Q1 FY27. NVIDIA reported <strong>$81.6B</strong> in revenue, <strong>$75.2B</strong> in Data Center revenue, and Q2 guidance of <strong>$91.0B ±2%</strong>. The market read that as acceleration, not peak-out, and began repricing the layers below GPUs: CPU, memory, interconnect, power and substrates. ([NVIDIA][1])
 
-ARM's own story is strong. FY26 revenue was **$4.92B**, royalty revenue **$2.61B**, licensing revenue **$2.31B**, and non-GAAP EPS **$1.77**. The Arm AGI CPU is positioned as a data-center CPU platform with Meta as lead partner, and Arm says FY27-FY28 customer demand is already above **$2B**. ([Arm][2])
+ARM's own story is strong. FY26 revenue was <strong>$4.92B</strong>, royalty revenue <strong>$2.61B</strong>, licensing revenue <strong>$2.31B</strong>, and non-GAAP EPS <strong>$1.77</strong>. The Arm AGI CPU is positioned as a data-center CPU platform with Meta as lead partner, and Arm says FY27-FY28 customer demand is already above <strong>$2B</strong>. ([Arm][2])
 
-The problem is price. Research OS local DB shows ARM closed at **$298.23** on May 21, 2026. Against FY26 non-GAAP EPS of $1.77, that is roughly **168.5x** earnings. Using a market capitalization around the low-$300B range and FY26 revenue of $4.92B, the stock trades around the **60x sales** zone. The thesis is real; the stock is not cheap.
+The problem is price. Research OS local DB shows ARM closed at <strong>$298.23</strong> on May 21, 2026. Against FY26 non-GAAP EPS of $1.77, that is roughly <strong>168.5x</strong> earnings. Using a market capitalization around the low-$300B range and FY26 revenue of $4.92B, the stock trades around the <strong>60x sales</strong> zone. The thesis is real; the stock is not cheap.
 
 The practical alpha is therefore not ARM itself, but the bottlenecks ARM's move points toward: Marvell's custom silicon and optical fabric, Samsung Electro-Mechanics' silicon capacitor, SK hynix / Samsung Electronics HBM and DRAM, high-speed substrates and test sockets.
 
-The one-line conclusion: **ARM is the signal. The alpha sits in the bottlenecks.**
+The one-line conclusion: <strong>ARM is the signal. The alpha sits in the bottlenecks.</strong>
 
 ---
 
@@ -65,7 +65,7 @@ But the right investment question is not "is ARM's thesis right?" It is "does th
 
 ## 2. Arm AGI CPU: From IP Vendor to Silicon Platform
 
-Arm has put the **Arm AGI CPU** at the center of the story. It describes the product as production silicon for agentic AI data centers, with Meta as lead partner. Arm also says commercial systems are available to order through ASRock, Lenovo, Quanta and Supermicro. ([Arm][2])
+Arm has put the <strong>Arm AGI CPU</strong> at the center of the story. It describes the product as production silicon for agentic AI data centers, with Meta as lead partner. Arm also says commercial systems are available to order through ASRock, Lenovo, Quanta and Supermicro. ([Arm][2])
 
 The old Arm model was:
 
@@ -95,7 +95,7 @@ The AGI CPU is a long-term call option, but it also makes Arm heavier, more comp
 
 The uncomfortable part of the ARM rally is the math. Directionally, the thesis makes sense. Valuation already discounts a long runway.
 
-Research OS local DB shows ARM closed at **$298.23** on May 21, 2026. Against FY26 non-GAAP EPS of $1.77:
+Research OS local DB shows ARM closed at <strong>$298.23</strong> on May 21, 2026. Against FY26 non-GAAP EPS of $1.77:
 
 ```text
 FY26 non-GAAP P/E
@@ -115,15 +115,15 @@ This is not a price for "good current earnings." It is a price for a 2030-2031 s
 
 If Arm reaches something like $25B of revenue and $9+ of EPS by FY31, today's price can be explained. But that is a five-year success case. Investors need to separate a correct story from a good entry.
 
-Our view is **Avoid at current price / Wait**. The company is not the problem. The entry price is.
+Our view is <strong>Avoid at current price / Wait</strong>. The company is not the problem. The entry price is.
 
 ---
 
 ## 4. Better Alpha 1: Marvell and the Connectivity Bottleneck
 
-If ARM represents CPU orchestration, Marvell represents **custom compute plus optical connectivity plus switching**. This may be the more actionable derivative idea.
+If ARM represents CPU orchestration, Marvell represents <strong>custom compute plus optical connectivity plus switching</strong>. This may be the more actionable derivative idea.
 
-Marvell reported FY26 revenue of **$8.195B** and non-GAAP EPS of **$2.84**. It expects FY27 revenue to approach $11B, with data center leading growth and interconnect revenue growing more than 50%. ([Marvell][4])
+Marvell reported FY26 revenue of <strong>$8.195B</strong> and non-GAAP EPS of <strong>$2.84</strong>. It expects FY27 revenue to approach $11B, with data center leading growth and interconnect revenue growing more than 50%. ([Marvell][4])
 
 Marvell is not just a networking chip company.
 
@@ -136,9 +136,9 @@ Marvell is not just a networking chip company.
 
 The Celestial AI acquisition adds a photonic scale-up platform. Marvell has said it expects the business to reach a $500M annualized run-rate by Q4 FY28 and a $1B annualized run-rate by Q4 FY29, if milestones are met. ([Marvell Celestial][5])
 
-The caveat: Marvell has already rallied. Research OS local DB shows MRVL closed at **$190.69** on May 21, 2026. At this level, the May 27 earnings report needs to confirm the FY27 revenue path, data-center demand, custom silicon and optical interconnect momentum.
+The caveat: Marvell has already rallied. Research OS local DB shows MRVL closed at <strong>$190.69</strong> on May 21, 2026. At this level, the May 27 earnings report needs to confirm the FY27 revenue path, data-center demand, custom silicon and optical interconnect momentum.
 
-Our view: **Wait / Buy on pullback**.
+Our view: <strong>Wait / Buy on pullback</strong>.
 
 ---
 
@@ -146,7 +146,7 @@ Our view: **Wait / Buy on pullback**.
 
 In Korea, the clearest second-order bottleneck is Samsung Electro-Mechanics.
 
-On May 20, 2026, Samsung Electro-Mechanics announced a silicon-capacitor supply contract worth approximately **KRW 1.5T** over two years, from January 1, 2027 to December 31, 2028. The company explained that silicon capacitors are installed inside high-performance semiconductor packages such as AI server GPUs and HBM to improve power stability. ([Samsung Electro-Mechanics][6])
+On May 20, 2026, Samsung Electro-Mechanics announced a silicon-capacitor supply contract worth approximately <strong>KRW 1.5T</strong> over two years, from January 1, 2027 to December 31, 2028. The company explained that silicon capacitors are installed inside high-performance semiconductor packages such as AI server GPUs and HBM to improve power stability. ([Samsung Electro-Mechanics][6])
 
 This is the same direction as ARM's rally. As AI racks become systems rather than GPU boxes, CPU, GPU, HBM and ASIC packages become denser and draw power faster. Voltage noise and power fluctuations become a bottleneck.
 
@@ -164,7 +164,7 @@ AI package power-integrity components
 
 A silicon capacitor does not replace all MLCCs. It is a high-performance complement used inside or very close to AI GPU / HBM packages. This can reclassify Samsung Electro-Mechanics from a passive-parts cycle name into an AI package power-integrity supplier.
 
-The risks are clear: the customer is undisclosed, 2026 earnings impact is limited, margins are not disclosed, and the stock has already reacted. Our view remains **Watchlist → Buy on pullback**.
+The risks are clear: the customer is undisclosed, 2026 earnings impact is limited, margins are not disclosed, and the stock has already reacted. Our view remains <strong>Watchlist → Buy on pullback</strong>.
 
 ---
 
@@ -178,7 +178,7 @@ GPU-centric server
 → higher rack-level memory capacity and bandwidth
 ```
 
-SK hynix is the cleanest HBM and server DRAM beneficiary, but it is also a crowded winner. The view is **Hold / Pullback Buy**.
+SK hynix is the cleanest HBM and server DRAM beneficiary, but it is also a crowded winner. The view is <strong>Hold / Pullback Buy</strong>.
 
 Samsung Electronics is different. It is the catch-up option: HBM4, SOCAMM2, server DRAM, eSSD, HBM4 base die and foundry optionality. Since Arm AGI CPU manufacturing is tied to TSMC 3nm, one should not overstate direct Samsung Foundry exposure. But AI rack diversification still improves the value of Samsung's memory and packaging ecosystem.
 
@@ -195,9 +195,9 @@ Samsung needs evidence: HBM4 qualification, volume, margins and foundry loss red
 
 As AI racks evolve from single GPU boards into dense systems, substrates and testing become second-order winners.
 
-**High-speed substrates and PCBs.** More CPUs, GPUs, ASICs, HBM, NICs and switch ASICs mean more high-speed signaling and more complex board design. Isu Petasys, Daeduck Electronics, TLB, Korea Circuit and Simmtech are candidates. But direct orders, customer qualification, ASP and margin must be verified.
+<strong>High-speed substrates and PCBs.</strong> More CPUs, GPUs, ASICs, HBM, NICs and switch ASICs mean more high-speed signaling and more complex board design. Isu Petasys, Daeduck Electronics, TLB, Korea Circuit and Simmtech are candidates. But direct orders, customer qualification, ASP and margin must be verified.
 
-**Test sockets.** As chips become faster, hotter and more pin-dense, sockets and probe-card requirements rise. ISC, LEENO Industrial and TSE are relevant candidates. This layer can carry higher margins and less capex cyclicality than substrates, but product mix matters.
+<strong>Test sockets.</strong> As chips become faster, hotter and more pin-dense, sockets and probe-card requirements rise. ISC, LEENO Industrial and TSE are relevant candidates. This layer can carry higher margins and less capex cyclicality than substrates, but product mix matters.
 
 | Layer | Candidates | What to Verify |
 |---|---|---|
@@ -205,7 +205,7 @@ As AI racks evolve from single GPU boards into dense systems, substrates and tes
 | Test sockets | ISC, LEENO, TSE | ASIC/HBM/CXL customers, product mix, new socket revenue |
 | Package substrate | Samsung Electro-Mechanics, Daeduck, Korea Circuit | FC-BGA utilization, qualification, margins |
 
-The rule: **do not buy the phrase "AI exposure." Buy verified customers, orders and margins.**
+The rule: <strong>do not buy the phrase "AI exposure." Buy verified customers, orders and margins.</strong>
 
 ---
 
@@ -246,7 +246,7 @@ ARM's rally is a correct revaluation signal. AI servers are no longer GPU boxes.
 
 But buying ARM after the move may confuse the signal with the asset. The better question is: which bottleneck has not yet been fully priced?
 
-Our answer: **ARM is the signal. The alpha sits in the bottlenecks.**
+Our answer: <strong>ARM is the signal. The alpha sits in the bottlenecks.</strong>
 
 ---
 

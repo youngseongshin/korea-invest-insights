@@ -22,13 +22,13 @@ slug: pearl-abyss-dlc-package-to-franchise-rerating-2026-05-15
 
 ## Conclusiones clave
 
-* **Situación actual**: Pearl Abyss publicó un 1T26 récord (ingresos KRW 328.500M, beneficio operativo KRW 212.100M), pero la acción ha mostrado debilidad. El PER se sitúa en un solo dígito.
-* **El comentario sobre DLC**: la dirección señaló formalmente que está "explorando la expansión, incluido el DLC". Pero esto *no* es una confirmación — aún no hay precio, fecha de lanzamiento ni alcance del contenido.
-* **Malinterpretación #1**: "Las ventas de DLC serán enormes." En términos realistas, el ingreso incremental es KRW 25–40.000M (escenario bajista), KRW 55–75.000M (escenario base), KRW 100–140.000M (escenario alcista). Son cifras relevantes, pero no decisivas frente a una capitalización bursátil de \~KRW 3 billones.
-* **Malinterpretación #2**: "Ya vendieron 5M de unidades, la historia terminó." El ingreso del 1T26 fue un 81% de Crimson Desert; la guía anual de la compañía para el título es de KRW 644.100–734.800M.
-* **El punto real**: el DLC importa no por los ingresos, sino por la **reclasificación — de desarrollador de juegos de paquete a propietaria de IP de franquicia**. Eso mueve el PER desde un solo dígito hacia la media global de publishers de videojuegos (15–25x).
-* **Qué está descontado hoy**: la suposición de que "los ingresos de 2026 por el juego base están bien, pero 2027 será un precipicio".
-* **Qué rompe la formalización del DLC**: exactamente esa suposición del precipicio. El impacto directo en BPA (≈ +KRW 625/acción) es pequeño frente al impacto por expansión de múltiplo (PER 14–16x).
+* <strong>Situación actual</strong>: Pearl Abyss publicó un 1T26 récord (ingresos KRW 328.500M, beneficio operativo KRW 212.100M), pero la acción ha mostrado debilidad. El PER se sitúa en un solo dígito.
+* <strong>El comentario sobre DLC</strong>: la dirección señaló formalmente que está "explorando la expansión, incluido el DLC". Pero esto *no* es una confirmación — aún no hay precio, fecha de lanzamiento ni alcance del contenido.
+* <strong>Malinterpretación #1</strong>: "Las ventas de DLC serán enormes." En términos realistas, el ingreso incremental es KRW 25–40.000M (escenario bajista), KRW 55–75.000M (escenario base), KRW 100–140.000M (escenario alcista). Son cifras relevantes, pero no decisivas frente a una capitalización bursátil de \~KRW 3 billones.
+* <strong>Malinterpretación #2</strong>: "Ya vendieron 5M de unidades, la historia terminó." El ingreso del 1T26 fue un 81% de Crimson Desert; la guía anual de la compañía para el título es de KRW 644.100–734.800M.
+* <strong>El punto real</strong>: el DLC importa no por los ingresos, sino por la <strong>reclasificación — de desarrollador de juegos de paquete a propietaria de IP de franquicia</strong>. Eso mueve el PER desde un solo dígito hacia la media global de publishers de videojuegos (15–25x).
+* <strong>Qué está descontado hoy</strong>: la suposición de que "los ingresos de 2026 por el juego base están bien, pero 2027 será un precipicio".
+* <strong>Qué rompe la formalización del DLC</strong>: exactamente esa suposición del precipicio. El impacto directo en BPA (≈ +KRW 625/acción) es pequeño frente al impacto por expansión de múltiplo (PER 14–16x).
 
 ---
 
@@ -184,9 +184,9 @@ Tabla de escenarios para ingresos incrementales:
 
 | Escenario | Base instalada | Adopción | Precio DLC | Ingr. incremental | B. op. incremental |
 | --- | ---: | ---: | ---: | ---: | ---: |
-| **Bajista** | 7,5M | 15% | KRW 20k | KRW 25–40.000M | KRW 15–25.000M |
-| **Base** | 8,5M | 25% | KRW 28k | KRW 55–75.000M | KRW 35–50.000M |
-| **Alcista** | 10,0M | 35% | KRW 35k | KRW 100–140.000M | KRW 65–95.000M |
+| <strong>Bajista</strong> | 7,5M | 15% | KRW 20k | KRW 25–40.000M | KRW 15–25.000M |
+| <strong>Base</strong> | 8,5M | 25% | KRW 28k | KRW 55–75.000M | KRW 35–50.000M |
+| <strong>Alcista</strong> | 10,0M | 35% | KRW 35k | KRW 100–140.000M | KRW 65–95.000M |
 
 ### 3.2 Traduciendo el efecto directo sobre ingresos al precio de la acción
 
@@ -481,15 +481,15 @@ Post de la cumbre EE. UU.-China:
 
 ## 8. La conclusión en una línea
 
-El verdadero significado del comentario sobre DLC de Pearl Abyss no es "KRW 60.000M de ingresos por DLC". Es **la reclasificación de Crimson Desert de un juego de paquete de una sola vez a una IP de franquicia con ingresos recurrentes**.
+El verdadero significado del comentario sobre DLC de Pearl Abyss no es "KRW 60.000M de ingresos por DLC". Es <strong>la reclasificación de Crimson Desert de un juego de paquete de una sola vez a una IP de franquicia con ingresos recurrentes</strong>.
 
 El PER actual se sitúa en un solo dígito por una razón simple: "los beneficios de 2026 son reales, pero 2027 será un precipicio". Esa única suposición está anclando el múltiplo a menos de la mitad de la media global de publishers de videojuegos (15–25x).
 
-Cuando el DLC se formalice, esa suposición se rompe. El impacto directo en BPA (≈ +KRW 625/acción, ≈ +KRW 9.000/acción con PER de 14x) es real — pero secundario. El verdadero potencial alcista es **la re-valoración del múltiplo en sí, de fabricante de juegos de paquete a publisher de franquicia**. Con el mismo BPA, aplicar un PER de 14x en lugar de 8x eleva el valor razonable aproximadamente un +75%. Los múltiplos, y no los ingresos, impulsan la brecha.
+Cuando el DLC se formalice, esa suposición se rompe. El impacto directo en BPA (≈ +KRW 625/acción, ≈ +KRW 9.000/acción con PER de 14x) es real — pero secundario. El verdadero potencial alcista es <strong>la re-valoración del múltiplo en sí, de fabricante de juegos de paquete a publisher de franquicia</strong>. Con el mismo BPA, aplicar un PER de 14x en lugar de 8x eleva el valor razonable aproximadamente un +75%. Los múltiplos, y no los ingresos, impulsan la brecha.
 
 Aun así, perseguir el precio aquí es ineficiente. La barrera macro no se ha despejado, y el DLC es "exploratorio", no "confirmado". Para los tenedores, Mantener es la decisión racional. Para los nuevos compradores, espera al menos dos de estas condiciones: ① estabilización de la barrera macro, ② ingresos del 2T superando el límite inferior de la guía, ③ concreción del DLC — y luego añade en tramos.
 
-**Invertir es comprar una buena compañía a un buen precio.** Pearl Abyss es una buena compañía, y el precio está en niveles atractivos — pero el **buen punto de entrada llega cuando se juega la próxima carta**. Cuando lo haga, la clasificación cambiará de juego de paquete a publisher de franquicia. La reclasificación — no los ingresos — es el alfa.
+<strong>Invertir es comprar una buena compañía a un buen precio.</strong> Pearl Abyss es una buena compañía, y el precio está en niveles atractivos — pero el <strong>buen punto de entrada llega cuando se juega la próxima carta</strong>. Cuando lo haga, la clasificación cambiará de juego de paquete a publisher de franquicia. La reclasificación — no los ingresos — es el alfa.
 
 ---
 

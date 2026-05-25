@@ -12,7 +12,7 @@ draft: false
 
 El 8 de mayo de 2026, el KOSPI —el índice de referencia de la bolsa surcoreana, que agrupa a unas 800 compañías cotizadas— confirmó su transición a régimen alcista pleno. El indicador de amplitud de la media de 50 días superó el 57%, el VIX cerró en 17,1 puntos y el mercado estadounidense operó en modo *bull* simultáneo. Sobre el papel, el entorno invita a asumir riesgo.
 
-El problema está en los flujos. Los inversores extranjeros descargaron Samsung Electronics (005930.KS), el mayor fabricante de semiconductores y smartphones de Corea del Sur, por un importe equivalente a **2,55 billones de wones en una sola sesión** —aproximadamente 1.740 millones de dólares—. Es una señal que los gestores internacionales no pueden ignorar: cuando la mano extranjera vende a esa escala en el valor de mayor peso del KOSPI, el mercado sube con barro en los pies.
+El problema está en los flujos. Los inversores extranjeros descargaron Samsung Electronics (005930.KS), el mayor fabricante de semiconductores y smartphones de Corea del Sur, por un importe equivalente a <strong>2,55 billones de wones en una sola sesión</strong> —aproximadamente 1.740 millones de dólares—. Es una señal que los gestores internacionales no pueden ignorar: cuando la mano extranjera vende a esa escala en el valor de mayor peso del KOSPI, el mercado sube con barro en los pies.
 
 Esta tensión —régimen alcista con salida de capital extranjero en grandes capitalizaciones— es el tema central del día.
 
@@ -20,7 +20,7 @@ Esta tensión —régimen alcista con salida de capital extranjero en grandes ca
 
 ## Samsung Electronics: objetivo de precio disparado, pero RSI en sobrecompra
 
-Mirae Asset elevó hoy su precio objetivo de Samsung Electronics desde 320.000 hasta **400.000 wones por acción**, respaldado por tres catalizadores concretos: avances en la memoria HBM4 (*High Bandwidth Memory* de cuarta generación), un diseño en proceso para el chip de inteligencia artificial de 2 nanómetros de Tesla, y la fortaleza en precios de venta medios (*ASP*) tanto en DRAM como en NAND.
+Mirae Asset elevó hoy su precio objetivo de Samsung Electronics desde 320.000 hasta <strong>400.000 wones por acción</strong>, respaldado por tres catalizadores concretos: avances en la memoria HBM4 (*High Bandwidth Memory* de cuarta generación), un diseño en proceso para el chip de inteligencia artificial de 2 nanómetros de Tesla, y la fortaleza en precios de venta medios (*ASP*) tanto en DRAM como en NAND.
 
 El análisis fundamental apunta hacia arriba. La cotización lleva cinco días con una rentabilidad superior al 15% y diez días acumulando casi el 19%. Sin embargo, el RSI —índice de fuerza relativa— alcanzó 80,9, una zona que históricamente precede correcciones técnicas. La salida masiva de extranjeros este miércoles añade una capa de cautela que los indicadores macroeconómicos no recogen.
 
@@ -32,7 +32,7 @@ El análisis fundamental apunta hacia arriba. La cotización lleva cinco días c
 
 SK Hynix (000660.KS), el segundo mayor fabricante de memoria del mundo, aparece como la alternativa lógica para inversores que quieren reducir exposición a Samsung sin salir del ciclo de semiconductores coreanos.
 
-Mirae Asset revisó al alza el objetivo de SK Hynix desde 2 millones hasta **2,7 millones de wones**, con previsiones de ventas de HBM para 2026 de 54 billones de wones y para 2027 de 75 billones de wones, con un incremento del ASP del 19,7% interanual. La tesis es directa: SK Hynix es el proveedor dominante de HBM3E y HBM4 para los grandes proveedores de infraestructura de IA, con diseños validados en el ecosistema de NVIDIA.
+Mirae Asset revisó al alza el objetivo de SK Hynix desde 2 millones hasta <strong>2,7 millones de wones</strong>, con previsiones de ventas de HBM para 2026 de 54 billones de wones y para 2027 de 75 billones de wones, con un incremento del ASP del 19,7% interanual. La tesis es directa: SK Hynix es el proveedor dominante de HBM3E y HBM4 para los grandes proveedores de infraestructura de IA, con diseños validados en el ecosistema de NVIDIA.
 
 La advertencia para hoy: los flujos combinados de extranjeros e instituciones acumulan ventas netas de más de 7 billones de wones en cinco días. No se trata de una rotación sectorial limpia, sino de una corrección amplia en el segmento de semiconductores de alta capitalización. Entrar en SK Hynix como sustituto de Samsung tiene lógica estratégica, pero exige esperar que la presión vendedora remita.
 
@@ -40,7 +40,7 @@ La advertencia para hoy: los flujos combinados de extranjeros e instituciones ac
 
 ## Samsung Electro-Mechanics: el objetivo de precio que sorprendió al mercado
 
-La revisión más llamativa del día llegó de Samsung Electro-Mechanics (009150.KS), fabricante de componentes electrónicos especializados. Mirae Asset multiplicó casi por 2,5 su precio objetivo, elevándolo desde 530.000 hasta **1,3 millones de wones por acción**, con una estimación de BPA para 2028 de 34.764 wones y un múltiplo PER implícito de 37 veces.
+La revisión más llamativa del día llegó de Samsung Electro-Mechanics (009150.KS), fabricante de componentes electrónicos especializados. Mirae Asset multiplicó casi por 2,5 su precio objetivo, elevándolo desde 530.000 hasta <strong>1,3 millones de wones por acción</strong>, con una estimación de BPA para 2028 de 34.764 wones y un múltiplo PER implícito de 37 veces.
 
 La tesis descansa en dos motores. Primero, los sustratos FC-BGA (*Flip Chip Ball Grid Array*) para servidores de IA, donde la compañía está posicionada como proveedor con capacidad de incrementar precios de venta. Segundo, los condensadores MLCC (*Multi-Layer Ceramic Capacitor*), donde una posible escasez similar a la de 2017 podría reactivar una reclasificación del múltiplo de valoración.
 
@@ -60,7 +60,7 @@ Para inversores internacionales, LIG Nex1 ofrece algo infrecuente en el KOSPI: u
 
 ## Pearl Abyss y el mercado de videojuegos coreano: tesis intacta, precio roto
 
-Pearl Abyss (263750.KS), desarrolladora surcoreana conocida por *Black Desert Online*, lanzó *Crimson Desert* en PS Store durante abril. Los datos de descarga del mes sitúan el título en el **tercer puesto en EE.UU. y Canadá y el segundo en la Unión Europea** entre los juegos de PS5.
+Pearl Abyss (263750.KS), desarrolladora surcoreana conocida por *Black Desert Online*, lanzó *Crimson Desert* en PS Store durante abril. Los datos de descarga del mes sitúan el título en el <strong>tercer puesto en EE.UU. y Canadá y el segundo en la Unión Europea</strong> entre los juegos de PS5.
 
 Los números de descarga respaldan la tesis de lanzamiento. El precio no: la acción cedió más del 10% en cinco días, con ventas netas consistentes de extranjeros e instituciones. La divergencia entre métricas de producto y comportamiento bursátil refleja una sobreponderación de inversores que acumularon posición anticipando el lanzamiento y ahora rotan hacia otras oportunidades. Los resultados del 12 de mayo serán el siguiente punto de validación real.
 

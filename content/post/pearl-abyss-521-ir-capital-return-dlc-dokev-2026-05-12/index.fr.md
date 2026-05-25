@@ -17,7 +17,7 @@ series: ["pearl-abyss-crimson-desert"]
 draft: false
 ---
 
-> 📚 **Suite de la couverture Pearl Abyss.**
+> 📚 <strong>Suite de la couverture Pearl Abyss.</strong>
 > À lire en premier : [Pearl Abyss 1T26 résultats complets : ₩212,1 Mds de bénéfice opérationnel, marge de 64,6 %, guidance annuelle BO de ₩487,6-572,6 Mds](/post/pearl-abyss-1q26-earnings-guidance-comprehensive-2026-05-12/)
 > Hub : [Pearl Abyss et Crimson Desert — Centre de recherche](/page/pearl-abyss-crimson-desert-hub/)
 
@@ -27,12 +27,12 @@ draft: false
 
 ## En résumé
 
-* **La preuve par les résultats est faite.** Pearl Abyss a publié pour le 1T26 un chiffre d'affaires de ₩328,5 Mds, un bénéfice opérationnel de ₩212,1 Mds et une marge opérationnelle de 64,6 %. Le [Korea JoongAng Daily](https://koreajoongangdaily.joins.com/news/2026-05-12/culture/gamesWebtoons/Game-developer-Pearl-Abyss-reports-30200-onquarter-increase-in-operating-profit-due-to-Crimson-Desert/2590360) a rapporté que Crimson Desert a généré ₩266,5 Mds sur le trimestre et que l'Amérique du Nord et l'Europe ont représenté 81 % du chiffre d'affaires.
-* **L'argument du « cliff » au 2T est moins convaincant.** La société a guidé vers un bénéfice opérationnel annuel 2026 de ₩487,6-572,6 Mds et un bénéfice opérationnel 2T26 de ₩129,6-176,7 Mds. [ZDNet Korea via Daum](https://v.daum.net/v/20260512170904017) a également rapporté une guidance de chiffre d'affaires 2T de ₩271,3-324,7 Mds.
-* **Le sujet suivant est le multiple.** De bons résultats font monter le BPA. Une bonne allocation du capital et la visibilité sur la feuille de route post-lancement font monter le multiple. L'IR du 21 mai est le premier test permettant de savoir si Pearl Abyss peut articuler les deux.
-* **Le retour du capital ne se réduit pas à une question de dividende.** La vraie question est de savoir si la direction est capable d'énoncer une règle crédible pour équilibrer rachats d'actions, dividendes, investissement dans la prochaine IP, rétention des talents et M&A, à mesure que Crimson Desert et la cession de CCP/Fenris améliorent les flux de trésorerie.
-* **Les DLC et l'expansion sur de nouvelles plateformes importent parce qu'ils ancrent des flux de trésorerie 2027.** Si l'histoire se limite aux ventes du jeu de base, le marché traitera 2026 comme un pic de résultats. Les DLC payants, les extensions, les nouvelles plateformes ou un contenu endgame récurrent peuvent prolonger la courbe de revenus.
-* **DokeV reste une option.** Mais si le stade de développement, le calendrier de communication et la réutilisation du BlackSpace Engine se précisent, Pearl Abyss passe du statut de coup unique à celui de studio capable de produire plusieurs IP de manière répétable.
+* <strong>La preuve par les résultats est faite.</strong> Pearl Abyss a publié pour le 1T26 un chiffre d'affaires de ₩328,5 Mds, un bénéfice opérationnel de ₩212,1 Mds et une marge opérationnelle de 64,6 %. Le [Korea JoongAng Daily](https://koreajoongangdaily.joins.com/news/2026-05-12/culture/gamesWebtoons/Game-developer-Pearl-Abyss-reports-30200-onquarter-increase-in-operating-profit-due-to-Crimson-Desert/2590360) a rapporté que Crimson Desert a généré ₩266,5 Mds sur le trimestre et que l'Amérique du Nord et l'Europe ont représenté 81 % du chiffre d'affaires.
+* <strong>L'argument du « cliff » au 2T est moins convaincant.</strong> La société a guidé vers un bénéfice opérationnel annuel 2026 de ₩487,6-572,6 Mds et un bénéfice opérationnel 2T26 de ₩129,6-176,7 Mds. [ZDNet Korea via Daum](https://v.daum.net/v/20260512170904017) a également rapporté une guidance de chiffre d'affaires 2T de ₩271,3-324,7 Mds.
+* <strong>Le sujet suivant est le multiple.</strong> De bons résultats font monter le BPA. Une bonne allocation du capital et la visibilité sur la feuille de route post-lancement font monter le multiple. L'IR du 21 mai est le premier test permettant de savoir si Pearl Abyss peut articuler les deux.
+* <strong>Le retour du capital ne se réduit pas à une question de dividende.</strong> La vraie question est de savoir si la direction est capable d'énoncer une règle crédible pour équilibrer rachats d'actions, dividendes, investissement dans la prochaine IP, rétention des talents et M&A, à mesure que Crimson Desert et la cession de CCP/Fenris améliorent les flux de trésorerie.
+* <strong>Les DLC et l'expansion sur de nouvelles plateformes importent parce qu'ils ancrent des flux de trésorerie 2027.</strong> Si l'histoire se limite aux ventes du jeu de base, le marché traitera 2026 comme un pic de résultats. Les DLC payants, les extensions, les nouvelles plateformes ou un contenu endgame récurrent peuvent prolonger la courbe de revenus.
+* <strong>DokeV reste une option.</strong> Mais si le stade de développement, le calendrier de communication et la réutilisation du BlackSpace Engine se précisent, Pearl Abyss passe du statut de coup unique à celui de studio capable de produire plusieurs IP de manière répétable.
 
 ---
 
@@ -53,7 +53,7 @@ C'est pourquoi l'IR du 21 mai compte. Ce n'est pas une simple session d'explicat
 
 Le fil directeur est simple :
 
-**La publication des résultats était la preuve. L'IR du 21 mai est le premier test de reclassification.**
+<strong>La publication des résultats était la preuve. L'IR du 21 mai est le premier test de reclassification.</strong>
 
 ---
 
@@ -77,7 +77,7 @@ Mais le point le plus important est la rentabilité. Le chiffre d'affaires étai
 
 L'ajustement à retenir est donc le suivant :
 
-**Le cadre de comptabilisation des revenus doit devenir plus conservateur. Le cadre de rentabilité doit devenir plus solide.**
+<strong>Le cadre de comptabilisation des revenus doit devenir plus conservateur. Le cadre de rentabilité doit devenir plus solide.</strong>
 
 ---
 
@@ -100,7 +100,7 @@ La marge opérationnelle du 2T peut néanmoins se contracter par rapport au 1T. 
 
 L'implication pour les investisseurs est claire :
 
-**Si les résultats du 2T se situent dans la fourchette de guidance, Pearl Abyss peut commencer à s'extraire de la décote de pic de résultats.**
+<strong>Si les résultats du 2T se situent dans la fourchette de guidance, Pearl Abyss peut commencer à s'extraire de la décote de pic de résultats.</strong>
 
 Une société ayant réalisé un excellent trimestre de lancement mérite un multiple faible. Une société dont les revenus de lancement se maintiennent au 2T mérite un modèle de BPA différent.
 
@@ -110,7 +110,7 @@ Une société ayant réalisé un excellent trimestre de lancement mérite un mul
 
 Les résultats du premier trimestre ont prouvé que Pearl Abyss sait générer des bénéfices. La question plus difficile est désormais :
 
-**Que fera la direction avec cet argent ?**
+<strong>Que fera la direction avec cet argent ?</strong>
 
 De bons résultats font monter la valeur de l'entreprise. Une bonne allocation du capital fait monter le multiple. Pearl Abyss a historiquement subi une décote non seulement parce que ses résultats étaient faibles, mais aussi parce que la durabilité des flux de trésorerie, la visibilité sur le prochain titre et les règles d'allocation du capital manquaient de clarté.
 
@@ -154,7 +154,7 @@ Le marché n'a donc pas besoin d'entendre seulement que des DLC sont à l'étude
 | Expansion sur de nouvelles plateformes | De nouvelles plateformes ou régions sont-elles envisagées ? |
 | Contenu récurrent | Comment la boucle endgame sera-t-elle maintenue active ? |
 
-L'enjeu des DLC n'est pas une ligne de revenus supplémentaire. **C'est la preuve que Pearl Abyss peut encore gagner de l'argent avec Crimson Desert en 2027.**
+L'enjeu des DLC n'est pas une ligne de revenus supplémentaire. <strong>C'est la preuve que Pearl Abyss peut encore gagner de l'argent avec Crimson Desert en 2027.</strong>
 
 ---
 
@@ -236,7 +236,7 @@ Quatrièmement, DokeV pourrait rester une option sans date. S'il reste indéfini
 
 La conclusion n'est donc pas que Pearl Abyss est déjà la société de qualité la plus affirmée du KOSDAQ. La conclusion plus précise est la suivante :
 
-**Pearl Abyss dispose, pour la première fois, des conditions pour devenir un candidat au statut de société de qualité sur le KOSDAQ. Ces conditions ne se traduiront par un multiple plus élevé que si l'IR du 21 mai apporte une visibilité concrète sur l'allocation du capital et le pipeline.**
+<strong>Pearl Abyss dispose, pour la première fois, des conditions pour devenir un candidat au statut de société de qualité sur le KOSDAQ. Ces conditions ne se traduiront par un multiple plus élevé que si l'IR du 21 mai apporte une visibilité concrète sur l'allocation du capital et le pipeline.</strong>
 
 ---
 

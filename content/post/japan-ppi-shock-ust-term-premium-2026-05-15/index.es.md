@@ -13,17 +13,17 @@ tags:
 slug: japan-ppi-shock-ust-term-premium-2026-05-15
 ---
 
-*El mercado habla de "Japón deshaciendo posiciones en Treasuries". El IPP de Japón sorprendió al alza, subieron las probabilidades de suba del BOJ, y la narrativa dice que el capital japonés vende Treasuries y vuelve a casa. Esa narrativa solo tiene razón a medias. **El riesgo real no es "Japón vendiendo Treasuries", sino "Japón dejando de comprarlos".** Cuando el mayor tenedor extranjero de Treasuries del mundo deja de incrementar su posición, los precios caen incluso sin ventas. Y cuando el rendimiento del bono a 10 años de EE.UU. sube, la tasa de descuento global sube con él — lo que reprecia cada activo de riesgo, tanto en EE.UU. como en Corea.*
+*El mercado habla de "Japón deshaciendo posiciones en Treasuries". El IPP de Japón sorprendió al alza, subieron las probabilidades de suba del BOJ, y la narrativa dice que el capital japonés vende Treasuries y vuelve a casa. Esa narrativa solo tiene razón a medias. <strong>El riesgo real no es "Japón vendiendo Treasuries", sino "Japón dejando de comprarlos".</strong> Cuando el mayor tenedor extranjero de Treasuries del mundo deja de incrementar su posición, los precios caen incluso sin ventas. Y cuando el rendimiento del bono a 10 años de EE.UU. sube, la tasa de descuento global sube con él — lo que reprecia cada activo de riesgo, tanto en EE.UU. como en Corea.*
 
 ---
 
 ## Puntos clave
 
-* **El mecanismo en una línea**: Shock IPP Japón → probabilidad de suba BOJ ↑ → rendimiento JGB ↑ + expectativas de fortaleza del JPY ↑ → retorno post-cobertura de Treasuries ↓ → demanda marginal japonesa de Treasuries ↓ → prima de plazo UST ↑ → tasa de descuento global ↑.
-* **La idea central**: esto no es un "evento de ventas", es **erosión de demanda marginal**. Japón no necesita deshacerse de nada. Simplemente dejar de agregar es suficiente para bajar los precios (subir los rendimientos).
-* **Por qué importa**: Japón es el **mayor tenedor extranjero de Treasuries del mundo**, con \~USD 1,13 billones. Cuando esa demanda marginal se debilita, el equilibrio oferta-demanda se rompe.
-* **Efectos de segundo orden**: el bono a 10 años de EE.UU. sube → se reprecia la tasa de descuento global → se comprimen los múltiplos de las grandes tecnológicas estadounidenses → se ve afectada la prima de riesgo de las acciones coreanas.
-* **Puntos de control**: reuniones de política del BOJ, el JGB a 10 años, USD/JPY, el lenguaje de asignación de activos de GPIF y las aseguradoras de vida japonesas, estimaciones de prima de plazo a 10 años del NY Fed.
+* <strong>El mecanismo en una línea</strong>: Shock IPP Japón → probabilidad de suba BOJ ↑ → rendimiento JGB ↑ + expectativas de fortaleza del JPY ↑ → retorno post-cobertura de Treasuries ↓ → demanda marginal japonesa de Treasuries ↓ → prima de plazo UST ↑ → tasa de descuento global ↑.
+* <strong>La idea central</strong>: esto no es un "evento de ventas", es <strong>erosión de demanda marginal</strong>. Japón no necesita deshacerse de nada. Simplemente dejar de agregar es suficiente para bajar los precios (subir los rendimientos).
+* <strong>Por qué importa</strong>: Japón es el <strong>mayor tenedor extranjero de Treasuries del mundo</strong>, con \~USD 1,13 billones. Cuando esa demanda marginal se debilita, el equilibrio oferta-demanda se rompe.
+* <strong>Efectos de segundo orden</strong>: el bono a 10 años de EE.UU. sube → se reprecia la tasa de descuento global → se comprimen los múltiplos de las grandes tecnológicas estadounidenses → se ve afectada la prima de riesgo de las acciones coreanas.
+* <strong>Puntos de control</strong>: reuniones de política del BOJ, el JGB a 10 años, USD/JPY, el lenguaje de asignación de activos de GPIF y las aseguradoras de vida japonesas, estimaciones de prima de plazo a 10 años del NY Fed.
 
 ---
 
@@ -70,7 +70,7 @@ Tasa de descuento global se reprecia
 Presión de valoración en todos los activos de riesgo
 ```
 
-**La clave**: no "ventas", sino **"nueva demanda más débil".** Aunque Japón no venda ni un solo Treasury, simplemente desacelerar las compras baja los precios de los UST (sube los rendimientos).
+<strong>La clave</strong>: no "ventas", sino <strong>"nueva demanda más débil".</strong> Aunque Japón no venda ni un solo Treasury, simplemente desacelerar las compras baja los precios de los UST (sube los rendimientos).
 
 ---
 
@@ -344,9 +344,9 @@ Cómo difieren:
 
 | Indicador | Por qué importa |
 | --- | --- |
-| **Decisión de política del BOJ** | La próxima reunión es crucial. ¿Está el camino ya descontado? |
+| <strong>Decisión de política del BOJ</strong> | La próxima reunión es crucial. ¿Está el camino ya descontado? |
 | IPP / IPC de Japón | Inflación transitoria o estructural |
-| **Rendimiento JGB a 10 años** | JGB más alto = menor atractivo del UST post-cobertura |
+| <strong>Rendimiento JGB a 10 años</strong> | JGB más alto = menor atractivo del UST post-cobertura |
 | USD/JPY | La fortaleza del JPY aumenta la carga de cobertura para los inversores japoneses |
 | Lenguaje de asignación de activos de GPIF / aseguradoras de vida | La señal conductual real |
 
@@ -354,8 +354,8 @@ Cómo difieren:
 
 | Indicador | Por qué importa |
 | --- | --- |
-| **Rendimiento a 10 años de EE.UU.** | Lectura más directa |
-| **Estimaciones de prima de plazo del NY Fed** | Modelos ACM / KW — cerca de 100pb es peligroso |
+| <strong>Rendimiento a 10 años de EE.UU.</strong> | Lectura más directa |
+| <strong>Estimaciones de prima de plazo del NY Fed</strong> | Modelos ACM / KW — cerca de 100pb es peligroso |
 | MOVE (volatilidad de opciones UST) | Medidor de estrés del mercado de Treasuries |
 | Datos TIC de tenencias extranjeras | Datos duros sobre compras/ventas japonesas (rezago de 2 meses) |
 
@@ -363,9 +363,9 @@ Cómo difieren:
 
 | Escenario | Bono EE.UU. 10 años | Acciones coreanas |
 | --- | --- | --- |
-| **A. Subidas graduales del BOJ + la demanda de EE.UU. absorbe el exceso** | Rango 4,0–4,5% | Impacto limitado |
-| **B. BOJ acelera + prima de plazo sube** | 4,5–5,0% | Presión sobre crecimiento / alto PER |
-| **C. Se materializa una venta japonesa real** | 5,0%+ | Corrección amplia de activos de riesgo |
+| <strong>A. Subidas graduales del BOJ + la demanda de EE.UU. absorbe el exceso</strong> | Rango 4,0–4,5% | Impacto limitado |
+| <strong>B. BOJ acelera + prima de plazo sube</strong> | 4,5–5,0% | Presión sobre crecimiento / alto PER |
+| <strong>C. Se materializa una venta japonesa real</strong> | 5,0%+ | Corrección amplia de activos de riesgo |
 
 El caso base se ubica entre A y B. C es baja probabilidad, alto impacto.
 
@@ -395,9 +395,9 @@ Artículo sobre rotación de consumo: "El capital rota fuera de la concentració
 
 ## 8. La conclusión en una línea
 
-El shock del IPP japonés no es el "miedo a que Japón venda Treasuries de EE.UU." Es **"el miedo a que el mayor tenedor extranjero del mundo deje de incrementar su posición"** — erosión de demanda marginal.
+El shock del IPP japonés no es el "miedo a que Japón venda Treasuries de EE.UU." Es <strong>"el miedo a que el mayor tenedor extranjero del mundo deje de incrementar su posición"</strong> — erosión de demanda marginal.
 
-Esto no es un evento de ventas; es un **cambio estructural en la oferta y la demanda**. Más gradual, pero más duradero. Incluso sin ventas, cuando el comprador marginal desaparece, los precios caen (los rendimientos suben). La prima de plazo se amplía, eso eleva el bono a 10 años de EE.UU., eso redefine la tasa de descuento global, y eso se traslada a todos los activos de riesgo.
+Esto no es un evento de ventas; es un <strong>cambio estructural en la oferta y la demanda</strong>. Más gradual, pero más duradero. Incluso sin ventas, cuando el comprador marginal desaparece, los precios caen (los rendimientos suben). La prima de plazo se amplía, eso eleva el bono a 10 años de EE.UU., eso redefine la tasa de descuento global, y eso se traslada a todos los activos de riesgo.
 
 ```
 La ecuación estructural precisa:
@@ -411,7 +411,7 @@ Shock IPP Japón
 → Tasa de descuento global ↑
 ```
 
-Lo que realmente necesitamos monitorear no es "¿venderá Japón Treasuries?" sino **"¿dónde asignarán las aseguradoras de vida y los fondos de pensión japoneses el dinero nuevo?"** La reunión del BOJ, el rendimiento del JGB y el lenguaje de GPIF y las aseguradoras de vida — esos tres juntos son el nuevo panel de control de la tasa de descuento de los activos de riesgo globales.
+Lo que realmente necesitamos monitorear no es "¿venderá Japón Treasuries?" sino <strong>"¿dónde asignarán las aseguradoras de vida y los fondos de pensión japoneses el dinero nuevo?"</strong> La reunión del BOJ, el rendimiento del JGB y el lenguaje de GPIF y las aseguradoras de vida — esos tres juntos son el nuevo panel de control de la tasa de descuento de los activos de riesgo globales.
 
 ---
 

@@ -11,7 +11,7 @@ draft: false
 
 # Samsung Heavy Industries (010140.KS): The FLNG Monopolist Fueling the Global Gas Trade
 
-Samsung Heavy Industries (삼성중공업, ticker **010140.KS**, KOSPI) is not the Samsung that makes your Galaxy phone — but it may be the Samsung that keeps gas flowing to every continent for the next two decades. As the world's most technically capable builder of LNG carriers and Floating Liquefied Natural Gas (FLNG) plants, Samsung Heavy Industries sits at the intersection of three structural macro forces simultaneously in play: the permanent rewiring of European energy supply away from Russian pipelines, a resurgent wave of U.S. LNG export approvals, and an offshore gas investment cycle that has been coiled for years. For international investors seeking industrial exposure to the energy transition's infrastructure layer — not its headline battery stories — this Korean shipyard deserves a serious, unhurried look.
+Samsung Heavy Industries (삼성중공업, ticker <strong>010140.KS</strong>, KOSPI) is not the Samsung that makes your Galaxy phone — but it may be the Samsung that keeps gas flowing to every continent for the next two decades. As the world's most technically capable builder of LNG carriers and Floating Liquefied Natural Gas (FLNG) plants, Samsung Heavy Industries sits at the intersection of three structural macro forces simultaneously in play: the permanent rewiring of European energy supply away from Russian pipelines, a resurgent wave of U.S. LNG export approvals, and an offshore gas investment cycle that has been coiled for years. For international investors seeking industrial exposure to the energy transition's infrastructure layer — not its headline battery stories — this Korean shipyard deserves a serious, unhurried look.
 
 ---
 
@@ -19,17 +19,17 @@ Samsung Heavy Industries (삼성중공업, ticker **010140.KS**, KOSPI) is not t
 
 | Field | Detail |
 |---|---|
-| **Full Name** | Samsung Heavy Industries Co., Ltd. (삼성중공업 주식회사) |
-| **Ticker** | 010140.KS |
-| **Exchange** | Korea Stock Exchange (KOSPI) |
-| **Sector** | Industrials — Heavy Equipment / Shipbuilding |
-| **Headquarters** | Geoje, South Korea |
-| **Founded** | 1974 |
-| **Key Products** | LNG carriers, FLNG plants, drillships, LNG-FSRU, icebreaking tankers, ultra-large container ships |
-| **FY2024 Revenue** | \~KRW 9.9 trillion (\~USD 7.1 billion) |
-| **Controlling Shareholder** | Samsung C&T (삼성물산) |
+| <strong>Full Name</strong> | Samsung Heavy Industries Co., Ltd. (삼성중공업 주식회사) |
+| <strong>Ticker</strong> | 010140.KS |
+| <strong>Exchange</strong> | Korea Stock Exchange (KOSPI) |
+| <strong>Sector</strong> | Industrials — Heavy Equipment / Shipbuilding |
+| <strong>Headquarters</strong> | Geoje, South Korea |
+| <strong>Founded</strong> | 1974 |
+| <strong>Key Products</strong> | LNG carriers, FLNG plants, drillships, LNG-FSRU, icebreaking tankers, ultra-large container ships |
+| <strong>FY2024 Revenue</strong> | \~KRW 9.9 trillion (\~USD 7.1 billion) |
+| <strong>Controlling Shareholder</strong> | Samsung C&T (삼성물산) |
 
-**Elevator pitch.** Samsung Heavy Industries (SHI) is one of only three shipyards on the planet that can design, build, and deliver a Floating LNG plant — an offshore factory ship that sits above a subsea gas reservoir, liquefies the output at sea, and loads it directly onto carriers. That technical barrier is genuine, not marketing. While HD Hyundai and Hanwha Ocean compete hard on volume across container ships, tankers, and conventional LNG carriers, SHI has deliberately concentrated into the most complex, highest-margin segment of the entire marine industry. As global LNG trade expands toward 700 million tonnes per annum by 2040 (Shell LNG Outlook), every new offshore monetisation project, every aging carrier retiring from service, and every stranded gas field being unlocked with FLNG technology is a potential multibillion-dollar order for this company.
+<strong>Elevator pitch.</strong> Samsung Heavy Industries (SHI) is one of only three shipyards on the planet that can design, build, and deliver a Floating LNG plant — an offshore factory ship that sits above a subsea gas reservoir, liquefies the output at sea, and loads it directly onto carriers. That technical barrier is genuine, not marketing. While HD Hyundai and Hanwha Ocean compete hard on volume across container ships, tankers, and conventional LNG carriers, SHI has deliberately concentrated into the most complex, highest-margin segment of the entire marine industry. As global LNG trade expands toward 700 million tonnes per annum by 2040 (Shell LNG Outlook), every new offshore monetisation project, every aging carrier retiring from service, and every stranded gas field being unlocked with FLNG technology is a potential multibillion-dollar order for this company.
 
 ---
 
@@ -39,11 +39,11 @@ Samsung Heavy Industries (삼성중공업, ticker **010140.KS**, KOSPI) is not t
 
 Old-school shipbuilding cycles were brutal: boom, oversupply, bust, repeat. The current cycle has a different DNA. Three structural forces are compressing simultaneously in a way the industry has not seen in a generation.
 
-**Force 1 — Europe's permanent LNG pivot.** The rupture of Russian pipeline gas supply after 2022 was not a temporary disruption; it was a permanent rewiring of the European energy map. European utilities signed long-term LNG supply contracts with U.S., Qatari, and Australian producers through the mid-2030s. Each new liquefaction terminal — whether in Louisiana or Qatar's North Field — requires a dedicated fleet of carriers to deliver the commodity to European import terminals. DNV projects LNG bunkering consumption alone rising from 3.7 million tonnes in 2023 to over 10 million tonnes by 2027. The physical shipping layer is irreplaceable.
+<strong>Force 1 — Europe's permanent LNG pivot.</strong> The rupture of Russian pipeline gas supply after 2022 was not a temporary disruption; it was a permanent rewiring of the European energy map. European utilities signed long-term LNG supply contracts with U.S., Qatari, and Australian producers through the mid-2030s. Each new liquefaction terminal — whether in Louisiana or Qatar's North Field — requires a dedicated fleet of carriers to deliver the commodity to European import terminals. DNV projects LNG bunkering consumption alone rising from 3.7 million tonnes in 2023 to over 10 million tonnes by 2027. The physical shipping layer is irreplaceable.
 
-**Force 2 — The Trump LNG revival.** The Biden administration's 2024 pause on new LNG export approvals to non-FTA countries had frozen a substantial pipeline of Final Investment Decisions. The Trump administration's reversal unlocked projects including Plaquemines LNG Phase 2, CP2 LNG, and Lake Charles LNG. Each sanctioned project triggers procurement of dedicated carriers within 18–24 months of FID. According to SHI's FY2025 annual report filed with DART (사업보고서 2025.12), new LNG carrier orders began materially recovering in H2 2025 precisely as FID momentum resumed. This is not speculative: the orders are being signed.
+<strong>Force 2 — The Trump LNG revival.</strong> The Biden administration's 2024 pause on new LNG export approvals to non-FTA countries had frozen a substantial pipeline of Final Investment Decisions. The Trump administration's reversal unlocked projects including Plaquemines LNG Phase 2, CP2 LNG, and Lake Charles LNG. Each sanctioned project triggers procurement of dedicated carriers within 18–24 months of FID. According to SHI's FY2025 annual report filed with DART (사업보고서 2025.12), new LNG carrier orders began materially recovering in H2 2025 precisely as FID momentum resumed. This is not speculative: the orders are being signed.
 
-**Force 3 — Offshore gas monetisation via FLNG.** The decade of underinvestment in offshore production during the low-oil-price era left enormous stranded gas reserves — particularly off the coasts of Africa, Southeast Asia, and the Eastern Mediterranean — that lack the onshore infrastructure to support traditional pipeline-to-shore development. FLNG technology solves this by deploying a self-contained floating processing plant directly over the reservoir. SHI is the dominant builder of these assets. LS Securities analyst Lee Jae-hyuk (January 2026) estimated SHI had over **USD 7 billion in FLNG orders** in its 2026 pipeline, a figure that represents a step-change from any prior comparable period.
+<strong>Force 3 — Offshore gas monetisation via FLNG.</strong> The decade of underinvestment in offshore production during the low-oil-price era left enormous stranded gas reserves — particularly off the coasts of Africa, Southeast Asia, and the Eastern Mediterranean — that lack the onshore infrastructure to support traditional pipeline-to-shore development. FLNG technology solves this by deploying a self-contained floating processing plant directly over the reservoir. SHI is the dominant builder of these assets. LS Securities analyst Lee Jae-hyuk (January 2026) estimated SHI had over <strong>USD 7 billion in FLNG orders</strong> in its 2026 pipeline, a figure that represents a step-change from any prior comparable period.
 
 ### Competitive Moat vs. Global Peers
 
@@ -53,7 +53,7 @@ The global shipbuilding market is functionally a Korea-China duopoly at the volu
 |---|---|---|
 | Hyundai Samho | 25.3% | Container ships, bulk carriers |
 | Hanwha Ocean | 24.6% | LNG carriers, submarines |
-| **Samsung Heavy Industries** | **20.2%** | **FLNG, LNG carriers, drillships** |
+| <strong>Samsung Heavy Industries</strong> | <strong>20.2%</strong> | <strong>FLNG, LNG carriers, drillships</strong> |
 | HD Hyundai Heavy Industries | 14.7% | Volume, tankers, gas carriers |
 | Hyundai Mipo | 9.7% | Mid-size vessels, PC tankers |
 
@@ -61,7 +61,7 @@ The global shipbuilding market is functionally a Korea-China duopoly at the volu
 
 Raw tonnage share understates SHI's value position. FLNG plants and large LNG carriers command contract values 3–5x higher per compensated gross tonne than bulk carriers or container ships. No Chinese shipyard currently builds FLNG at commercial scale — the technology barrier encompasses cryogenic engineering, offshore topsides integration, and decades of proprietary know-how that cannot be replicated quickly.
 
-A strategically important development came in April 2026, when SHI was reported (UPI) to have joined a **U.S. Navy ship maintenance and repair program** — Korean yards' formal entry into the American defense shipbuilding ecosystem. The long-term revenue optionality from this partnership is only beginning to be priced by the market.
+A strategically important development came in April 2026, when SHI was reported (UPI) to have joined a <strong>U.S. Navy ship maintenance and repair program</strong> — Korean yards' formal entry into the American defense shipbuilding ecosystem. The long-term revenue optionality from this partnership is only beginning to be priced by the market.
 
 ---
 
@@ -71,7 +71,7 @@ A strategically important development came in April 2026, when SHI was reported 
 
 SHI's revenue model is order-book driven: contracts signed today translate into revenue recognized over 2–4 year build cycles as vessels progress through construction milestones. This creates high revenue visibility but also long operating cycles where input cost inflation can erode margins if not hedged.
 
-**Revenue by segment (FY2024, approximate):**
+<strong>Revenue by segment (FY2024, approximate):</strong>
 
 | Segment | Share of Revenue | Trend |
 |---|---|---|
@@ -84,11 +84,11 @@ Geographically, the order base is global by nature — SHI's clients include She
 
 ### Key Growth Drivers for the Next 12–24 Months
 
-1. **FLNG backlog conversion.** The multi-billion-dollar FLNG pipeline expected to materialize through 2026 would, if confirmed, push SHI's total order backlog to multi-year record levels, securing revenue recognition well into 2029–2030.
+1. <strong>FLNG backlog conversion.</strong> The multi-billion-dollar FLNG pipeline expected to materialize through 2026 would, if confirmed, push SHI's total order backlog to multi-year record levels, securing revenue recognition well into 2029–2030.
 
-2. **LNG carrier replacement cycle.** A significant portion of the global LNG carrier fleet was built in the 2000–2010 period. As these vessels approach 20-year survey intervals and face increasingly stringent IMO carbon intensity regulations, replacement orders are expected to accelerate from 2025 onward.
+2. <strong>LNG carrier replacement cycle.</strong> A significant portion of the global LNG carrier fleet was built in the 2000–2010 period. As these vessels approach 20-year survey intervals and face increasingly stringent IMO carbon intensity regulations, replacement orders are expected to accelerate from 2025 onward.
 
-3. **U.S. defense adjacency.** The Navy MRO partnership, if it scales, introduces a recurring, margin-stable revenue stream that is structurally uncorrelated to the civilian shipping cycle.
+3. <strong>U.S. defense adjacency.</strong> The Navy MRO partnership, if it scales, introduces a recurring, margin-stable revenue stream that is structurally uncorrelated to the civilian shipping cycle.
 
 ### Margin Profile
 
@@ -144,7 +144,7 @@ This is not cheap in the absolute sense — the re-rating from trough has been s
 
 ### Direct KRX Access
 
-Samsung Heavy Industries trades on the Korea Stock Exchange (KRX) under ticker **010140**. Foreign investors can access it directly through brokers with Korean market access (Interactive Brokers, Saxo Bank, and most major Asian prime brokers support KRX settlement). Settlement is T+2 in Korean won (KRW). Disclosure filings are in Korean but are available via DART ([dart.fss.or.kr](https://dart.fss.or.kr)) with machine-translation support increasingly viable for financial statement parsing.
+Samsung Heavy Industries trades on the Korea Stock Exchange (KRX) under ticker <strong>010140</strong>. Foreign investors can access it directly through brokers with Korean market access (Interactive Brokers, Saxo Bank, and most major Asian prime brokers support KRX settlement). Settlement is T+2 in Korean won (KRW). Disclosure filings are in Korean but are available via DART ([dart.fss.or.kr](https://dart.fss.or.kr)) with machine-translation support increasingly viable for financial statement parsing.
 
 ### ADR / GDR
 
@@ -154,33 +154,33 @@ Samsung Heavy Industries does not currently maintain a sponsored ADR program on 
 
 Several Korea-focused and global industrials ETFs carry SHI as a constituent:
 
-- **iShares MSCI South Korea ETF (EWY)** — broad KOSPI coverage; SHI is typically a small-to-mid weight position
-- **Korea-focused thematic ETFs** (industrials, shipbuilding, energy infrastructure) — check current holdings on fund provider websites as weights shift with index rebalancing
-- **Global industrials ETFs** with emerging markets tilt — SHI occasionally appears in broader EM industrial baskets
+- <strong>iShares MSCI South Korea ETF (EWY)</strong> — broad KOSPI coverage; SHI is typically a small-to-mid weight position
+- <strong>Korea-focused thematic ETFs</strong> (industrials, shipbuilding, energy infrastructure) — check current holdings on fund provider websites as weights shift with index rebalancing
+- <strong>Global industrials ETFs</strong> with emerging markets tilt — SHI occasionally appears in broader EM industrial baskets
 
 For investors wanting specific shipbuilding exposure without full single-stock risk, Korean industrial sector ETFs provide a reasonable blended entry point.
 
 ### Practical Notes for Foreign Investors
 
-- **FX risk:** Revenue is USD-denominated (contracts), costs are KRW-denominated (labor, domestic steel). A strengthening KRW relative to USD is a headwind; a weakening KRW is a tailwind to reported profitability. Monitor KRW/USD alongside the investment thesis.
-- **Disclosure language:** Annual reports (사업보고서) and quarterly reports (분기보고서) are filed in Korean on DART. SHI does publish English-language investor presentations via its IR page; for the most granular financial data, Korean-language DART filings remain the primary source.
-- **Corporate governance:** SHI is part of the Samsung Group conglomerate, controlled via Samsung C&T. Investors should be aware of the Korean conglomerate (재벌) governance structure, which can involve complex cross-shareholdings and decisions made with group-level considerations in mind.
-- **Korea-specific risks:** KOSPI is sensitive to KRW/USD moves, North Korea headline risk, and global risk-off episodes that trigger foreign institutional outflows from EM. These macro overlays can disconnect share price from fundamental developments in the short term.
+- <strong>FX risk:</strong> Revenue is USD-denominated (contracts), costs are KRW-denominated (labor, domestic steel). A strengthening KRW relative to USD is a headwind; a weakening KRW is a tailwind to reported profitability. Monitor KRW/USD alongside the investment thesis.
+- <strong>Disclosure language:</strong> Annual reports (사업보고서) and quarterly reports (분기보고서) are filed in Korean on DART. SHI does publish English-language investor presentations via its IR page; for the most granular financial data, Korean-language DART filings remain the primary source.
+- <strong>Corporate governance:</strong> SHI is part of the Samsung Group conglomerate, controlled via Samsung C&T. Investors should be aware of the Korean conglomerate (재벌) governance structure, which can involve complex cross-shareholdings and decisions made with group-level considerations in mind.
+- <strong>Korea-specific risks:</strong> KOSPI is sensitive to KRW/USD moves, North Korea headline risk, and global risk-off episodes that trigger foreign institutional outflows from EM. These macro overlays can disconnect share price from fundamental developments in the short term.
 
 ---
 
 ## Frequently Asked Questions
 
-**Is Samsung Heavy Industries a good investment?**
+<strong>Is Samsung Heavy Industries a good investment?</strong>
 This analysis does not constitute investment advice. What the data shows is that SHI occupies a technically defensible niche in a structurally growing global LNG market, with a recovering order book and margin trajectory aligned to a multi-year cycle. Investors should evaluate it against their own risk tolerance, time horizon, and portfolio construction needs.
 
-**How do I buy Samsung Heavy Industries stock?**
+<strong>How do I buy Samsung Heavy Industries stock?</strong>
 Direct purchase requires a brokerage account with KRX access. Ticker is 010140 on the Korea Stock Exchange. No major sponsored ADR exists. ETF exposure via EWY or Korea-focused industrial ETFs is an alternative for investors without direct KRX access.
 
-**What is Samsung Heavy Industries' main product?**
+<strong>What is Samsung Heavy Industries' main product?</strong>
 LNG (Liquefied Natural Gas) carriers and Floating LNG (FLNG) plants are the company's highest-value and most strategically significant product lines. SHI also builds drillships, LNG-FSRU vessels, icebreaking tankers, and ultra-large container ships.
 
-**How is Samsung Heavy Industries different from Samsung Electronics?**
+<strong>How is Samsung Heavy Industries different from Samsung Electronics?</strong>
 They share a brand name and Samsung Group heritage but are separate listed companies with entirely distinct businesses. Samsung Electronics (005930.KS) makes semiconductors and consumer electronics. Samsung Heavy Industries (010140.KS) builds ships and offshore structures. They have no significant operational overlap.
 
 ---

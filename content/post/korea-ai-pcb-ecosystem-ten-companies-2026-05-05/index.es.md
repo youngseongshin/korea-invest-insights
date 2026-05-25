@@ -27,7 +27,7 @@ tags:
 series: ["ai-pcb-substrate-thesis-2026"]
 ---
 
-> **Mapa sectorial:** Esta es la nota de análisis por empresa que acompaña a la [Tesis sobre PCB y sustratos para IA](/es/post/ai-pcb-thesis-system-bom-common-bottleneck-2026-05-05/) y al [Hub de PCB y sustratos para IA de Corea](/es/page/korea-ai-pcb-substrate-hub/). La tesis anterior explicó por qué los sustratos para IA constituyen un cuello de botella a nivel de sistema. Esta nota analiza qué segmentos del ecosistema coreano concentran la mayor calidad de negocio y dónde la configuración de factores todavía parece menos descontada por el mercado.
+> <strong>Mapa sectorial:</strong> Esta es la nota de análisis por empresa que acompaña a la [Tesis sobre PCB y sustratos para IA](/es/post/ai-pcb-thesis-system-bom-common-bottleneck-2026-05-05/) y al [Hub de PCB y sustratos para IA de Corea](/es/page/korea-ai-pcb-substrate-hub/). La tesis anterior explicó por qué los sustratos para IA constituyen un cuello de botella a nivel de sistema. Esta nota analiza qué segmentos del ecosistema coreano concentran la mayor calidad de negocio y dónde la configuración de factores todavía parece menos descontada por el mercado.
 
 ---
 

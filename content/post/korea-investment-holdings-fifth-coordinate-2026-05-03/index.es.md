@@ -27,24 +27,24 @@ tags:
   - "renta variable coreana"
 ---
 
-> 📚 **Serie Financieras Coreanas: Capitalización, Recompras y Efecto Compuesto — Parte 5/N.**
+> 📚 <strong>Serie Financieras Coreanas: Capitalización, Recompras y Efecto Compuesto — Parte 5/N.</strong>
 > Entregas anteriores:
 > - [Parte 1 — Meritz Financial Holdings](/post/meritz-financial-capital-buyback-compounding-standard-2026-04-30/)
 > - [Parte 2 — Kiwoom Securities](/post/kiwoom-securities-roe20-recognition-completed-2026-04-30/)
 > - [Parte 3 — KB Financial Group](/post/kb-financial-foreign-access-proxy-third-peak-2026-05-03/)
 > - [Parte 4 — Shinhan Financial: Tránsito entre Picos](/post/shinhan-financial-transit-between-peaks-2026-05-03/)
 
-*Las Partes 1–3 de la serie definieron a Meritz, Kiwoom y KB como tres picos que coexisten. La Parte 4 trazó el "tránsito entre picos" de Shinhan hacia las coordenadas de KB. Korea Investment Holdings, protagonista de la Parte 5, es un paisaje completamente distinto: no encaja con limpieza en ninguna de las cuatro coordenadas existentes. Su ROE, PBR, participación extranjera y ratio de distribución se sitúan en un lugar diferente al de Meritz, Kiwoom, KB y Shinhan. Sin embargo, su estructura de "plataforma de capital-operaciones" — patrimonio neto ₩12,1B → pagarés a corto plazo ₩21,5B → IMA ₩1,9B → capacidad de financiación combinada ₩36,3B — es exclusivamente suya. Por primera vez en esta serie, analizamos una empresa que no sigue ningún pico existente, sino que es candidata a **definir su propia coordenada**.*
+*Las Partes 1–3 de la serie definieron a Meritz, Kiwoom y KB como tres picos que coexisten. La Parte 4 trazó el "tránsito entre picos" de Shinhan hacia las coordenadas de KB. Korea Investment Holdings, protagonista de la Parte 5, es un paisaje completamente distinto: no encaja con limpieza en ninguna de las cuatro coordenadas existentes. Su ROE, PBR, participación extranjera y ratio de distribución se sitúan en un lugar diferente al de Meritz, Kiwoom, KB y Shinhan. Sin embargo, su estructura de "plataforma de capital-operaciones" — patrimonio neto ₩12,1B → pagarés a corto plazo ₩21,5B → IMA ₩1,9B → capacidad de financiación combinada ₩36,3B — es exclusivamente suya. Por primera vez en esta serie, analizamos una empresa que no sigue ningún pico existente, sino que es candidata a <strong>definir su propia coordenada</strong>.*
 
 ---
 
 ## Resumen Ejecutivo
 
-- **Korea Investment Holdings no encaja limpiamente en ninguno de los cuatro picos existentes de la serie.** Con un ROE del 18,5%, queda por debajo del 22,4% de Meritz; con un PBR de 1,07×, por debajo del 1,39× de Kiwoom; y con una participación extranjera del 36,7%, es menos de la mitad del 75,72% de KB. Pero el ciclo de capital "captación de fondos → creación de activos → operaciones" — pagarés a corto plazo (발행어음) ₩21,48B + IMA ₩1,89B + banca de inversión ₩705,2B + gestión de activos ₩1,27B — está estructuralmente ausente en todas las demás empresas de la serie.
-- **La compañía se define a sí misma como "el único holding financiero centrado en banca de inversión de Corea".** Si Kiwoom es un modelo de "ROE × beta del volumen negociado" (dinámico), Korea Investment Holdings es **"ROE × capacidad de financiación × capacidad de creación de activos"** — un modelo de plataforma de capital-operaciones. La esencia contable es simple: cada ₩1B de patrimonio neto adicional expande la capacidad de financiación en ₩3B.
-- **El coste de capital implícito concreta la posición.** ROE 18,5% / PBR 1,07× = **17,3%**. Superior al de Meritz (11,5%), Kiwoom (14,9%), KB (11,9%) y Shinhan (15,3%). La más conservadoramente valorada de las cinco. Dentro de la misma categoría de ROE, Korea Investment recibe un coste de capital 5,8 pp superior al de Meritz.
-- **Esos 5,8 pp se descomponen cuantitativamente en 5 factores de descuento.** Volatilidad del P&L de operaciones (\~1,5 pp) + posibilidad de M&A en seguros (\~0,8 pp) + dotaciones en banco de ahorro/capital (\~1,0 pp) + descuento por gobierno corporativo (\~1,5 pp) + política débil de retribución al accionista (\~1,0 pp) ≈ **5,8 pp**. No es casualidad — es la **consecuencia contable de una empresa que no encaja en ninguna categoría que el mercado ya clasifique con claridad**.
-- **La velocidad a la que se reconoce la nueva coordenada la determinan dos mecanismos de autoestabilización.** Primero, el gobierno corporativo: separación entre el CEO y el Presidente del Consejo, y una hoja de ruta para cancelar el 5,4% de acciones en autocartera. Segundo, la retribución al accionista: un ratio explícito de retribución total al accionista (TSR) del 30%+. Cuando ambos mecanismos funcionen, el coste de capital se reducirá de forma natural hasta el 14–15%. **Por eso Korea Investment Holdings importa en esta serie.**
+- <strong>Korea Investment Holdings no encaja limpiamente en ninguno de los cuatro picos existentes de la serie.</strong> Con un ROE del 18,5%, queda por debajo del 22,4% de Meritz; con un PBR de 1,07×, por debajo del 1,39× de Kiwoom; y con una participación extranjera del 36,7%, es menos de la mitad del 75,72% de KB. Pero el ciclo de capital "captación de fondos → creación de activos → operaciones" — pagarés a corto plazo (발행어음) ₩21,48B + IMA ₩1,89B + banca de inversión ₩705,2B + gestión de activos ₩1,27B — está estructuralmente ausente en todas las demás empresas de la serie.
+- <strong>La compañía se define a sí misma como "el único holding financiero centrado en banca de inversión de Corea".</strong> Si Kiwoom es un modelo de "ROE × beta del volumen negociado" (dinámico), Korea Investment Holdings es <strong>"ROE × capacidad de financiación × capacidad de creación de activos"</strong> — un modelo de plataforma de capital-operaciones. La esencia contable es simple: cada ₩1B de patrimonio neto adicional expande la capacidad de financiación en ₩3B.
+- <strong>El coste de capital implícito concreta la posición.</strong> ROE 18,5% / PBR 1,07× = <strong>17,3%</strong>. Superior al de Meritz (11,5%), Kiwoom (14,9%), KB (11,9%) y Shinhan (15,3%). La más conservadoramente valorada de las cinco. Dentro de la misma categoría de ROE, Korea Investment recibe un coste de capital 5,8 pp superior al de Meritz.
+- <strong>Esos 5,8 pp se descomponen cuantitativamente en 5 factores de descuento.</strong> Volatilidad del P&L de operaciones (\~1,5 pp) + posibilidad de M&A en seguros (\~0,8 pp) + dotaciones en banco de ahorro/capital (\~1,0 pp) + descuento por gobierno corporativo (\~1,5 pp) + política débil de retribución al accionista (\~1,0 pp) ≈ <strong>5,8 pp</strong>. No es casualidad — es la <strong>consecuencia contable de una empresa que no encaja en ninguna categoría que el mercado ya clasifique con claridad</strong>.
+- <strong>La velocidad a la que se reconoce la nueva coordenada la determinan dos mecanismos de autoestabilización.</strong> Primero, el gobierno corporativo: separación entre el CEO y el Presidente del Consejo, y una hoja de ruta para cancelar el 5,4% de acciones en autocartera. Segundo, la retribución al accionista: un ratio explícito de retribución total al accionista (TSR) del 30%+. Cuando ambos mecanismos funcionen, el coste de capital se reducirá de forma natural hasta el 14–15%. <strong>Por eso Korea Investment Holdings importa en esta serie.</strong>
 
 ---
 
@@ -60,9 +60,9 @@ Todas las coordenadas visitadas hasta ahora en la serie, reunidas en una sola ta
 | Parte 2 | Kiwoom Securities | 20,7% | 1,39× | 14,9% | Beta del volumen negociado (dinámico) |
 | Parte 3 | KB Financial Group | 10,5% | 0,88× | 11,9% | Proxy de acceso para extranjeros (flujo) |
 | Parte 4 | Shinhan Financial | 11,9% | 0,78× | 15,3% | Tránsito hacia las coordenadas de KB |
-| **Parte 5 (esta entrega)** | **Korea Investment Holdings** | **18,5%** (2025) / 16,8% (2026E) | **1,07×** | **17,3%** | **Plataforma de capital-operaciones (nueva coordenada)** |
+| <strong>Parte 5 (esta entrega)</strong> | <strong>Korea Investment Holdings</strong> | <strong>18,5%</strong> (2025) / 16,8% (2026E) | <strong>1,07×</strong> | <strong>17,3%</strong> | <strong>Plataforma de capital-operaciones (nueva coordenada)</strong> |
 
-Lectura en una línea: **Korea Investment Holdings no encaja limpiamente en ninguna de las cuatro coordenadas existentes.** Si la Parte 4, Shinhan, era un "seguidor en tránsito hacia un pico existente", la Parte 5, Korea Investment, es el primer caso de **una empresa que no se dirige hacia ningún pico, sino que está definiendo su propia coordenada**.
+Lectura en una línea: <strong>Korea Investment Holdings no encaja limpiamente en ninguna de las cuatro coordenadas existentes.</strong> Si la Parte 4, Shinhan, era un "seguidor en tránsito hacia un pico existente", la Parte 5, Korea Investment, es el primer caso de <strong>una empresa que no se dirige hacia ningún pico, sino que está definiendo su propia coordenada</strong>.
 
 ### 1.2 Korea Investment Holdings en una Tabla
 
@@ -73,18 +73,18 @@ Lectura en una línea: **Korea Investment Holdings no encaja limpiamente en ning
 | Máximo / Mínimo de 52 semanas | ₩300.500 / ₩80.100 |
 | Distancia desde el máximo | -20,1% |
 | vs. mínimo | +199,6% |
-| **Participación extranjera** | **36,7%** |
+| <strong>Participación extranjera</strong> | <strong>36,7%</strong> |
 | Kim Nam-koo + partes vinculadas | 21,3% |
 | National Pension Service | 13,4% |
 | Autocartera | 5,4% |
-| **ROE 2025** | **18,5%** (según divulgación Value-up) |
+| <strong>ROE 2025</strong> | <strong>18,5%</strong> (según divulgación Value-up) |
 | ROE 2026E | 16,8% (Yuanta) \~ 18,4% (SK Securities) |
 | BPA / VCN 2026E | ₩36.234 / ₩224.562 (Yuanta) |
-| **PER / PBR 2026E** | **6,62× / 1,07×** |
+| <strong>PER / PBR 2026E</strong> | <strong>6,62× / 1,07×</strong> |
 | Patrimonio neto 2025 (consolidado) | ₩12,10B |
-| **Saldo de pagarés a corto plazo en circulación (발행어음)** | **₩21,48B (+24,0% interanual)** |
-| **Saldo IMA (enero 2026)** | **₩1,89B** |
-| **AUM del grupo** | **₩502,5B** |
+| <strong>Saldo de pagarés a corto plazo en circulación (발행어음)</strong> | <strong>₩21,48B (+24,0% interanual)</strong> |
+| <strong>Saldo IMA (enero 2026)</strong> | <strong>₩1,89B</strong> |
+| <strong>AUM del grupo</strong> | <strong>₩502,5B</strong> |
 | Ingresos operativos netos 2025 de Korea Investment & Securities | ₩3.056,8B (+39,0% interanual) |
 | Gestión de activos / Operaciones 2025 | ₩1.276,2B (+76,3% interanual) |
 | Ingresos de banca de inversión 2025 | ₩705,2B (+14,9% interanual) |
@@ -104,7 +104,7 @@ Verificaciones:
 - Peso banca de inversión = 705,2/3.056,8 = 23,07% ≈ 23,1% ✓
 - Peso corretaje = 489,6/3.056,8 = 16,02% ≈ 16,0% ✓
 
-Dos datos que coexisten: los fundamentales pertenecen al grupo más equilibrado de la serie, pero el coste de capital implícito es el más alto. **"Fundamentales sólidos + descuento amplio" conviven aquí.**
+Dos datos que coexisten: los fundamentales pertenecen al grupo más equilibrado de la serie, pero el coste de capital implícito es el más alto. <strong>"Fundamentales sólidos + descuento amplio" conviven aquí.</strong>
 
 ---
 
@@ -117,8 +117,8 @@ Identidad de la Parte 1: ROE \~22%, ratio de distribución 60%+, algoritmo de re
 | Concepto | Meritz | Korea Investment | Encaje |
 | --- | ---: | ---: | --- |
 | ROE | 22,4% | 18,5% | Parcial (brecha de 3,9 pp) |
-| Ratio de distribución | 62,5% | 25,1% | **No encaja** |
-| Algoritmo de recompra | Cadencia trimestral | Ausente (5,4% autocartera, sin hoja de ruta de cancelación) | **No encaja** |
+| Ratio de distribución | 62,5% | 25,1% | <strong>No encaja</strong> |
+| Algoritmo de recompra | Cadencia trimestral | Ausente (5,4% autocartera, sin hoja de ruta de cancelación) | <strong>No encaja</strong> |
 
 Tanto el algoritmo de cancelación como la estructura de distribución no encajan. El encaje con Meritz falla.
 
@@ -129,9 +129,9 @@ Identidad de la Parte 2: ROE \~20%, beta del volumen negociado, n.º 1 en retail
 | Concepto | Kiwoom | Korea Investment | Encaje |
 | --- | ---: | ---: | --- |
 | ROE | 20,7% | 18,5% | Similar |
-| Variable clave | Volumen negociado | Pagarés a corto plazo / IMA / banca de inversión / gestión de activos | **Variable diferente** |
-| Cuota retail | N.º 1 | Posición media-alta | **No encaja** |
-| Peso del corretaje en ingresos | Muy alto | **16,0%** | **Diferencia clara** |
+| Variable clave | Volumen negociado | Pagarés a corto plazo / IMA / banca de inversión / gestión de activos | <strong>Variable diferente</strong> |
+| Cuota retail | N.º 1 | Posición media-alta | <strong>No encaja</strong> |
+| Peso del corretaje en ingresos | Muy alto | <strong>16,0%</strong> | <strong>Diferencia clara</strong> |
 
 La composición de ingresos netos operativos de Korea Investment & Securities en el ejercicio 2025: corretaje 16,0%, gestión de activos 41,7%, banca de inversión 23,1%. Una categoría distinta a la "beta del volumen negociado retail" de Kiwoom. El encaje con Kiwoom es solo parcial.
 
@@ -141,12 +141,12 @@ Identidad de la Parte 3: participación extranjera 75,72%, ponderación en MSCI 
 
 | Concepto | KB | Korea Investment | Encaje |
 | --- | ---: | ---: | --- |
-| Participación extranjera | 75,72% | 36,7% | **\~la mitad** |
-| Ponderación en índice pasivo | MSCI Korea 2,00% | Desconocida (pequeña) | **No encaja** |
-| Gobierno sin accionista de control | Sí | Kim Nam-koo 21,3% (propietario-gestor) | **Opuesto** |
-| Ratio de distribución (incl. cancelación) | 83,0% | 25,1% | **No encaja** |
+| Participación extranjera | 75,72% | 36,7% | <strong>\~la mitad</strong> |
+| Ponderación en índice pasivo | MSCI Korea 2,00% | Desconocida (pequeña) | <strong>No encaja</strong> |
+| Gobierno sin accionista de control | Sí | Kim Nam-koo 21,3% (propietario-gestor) | <strong>Opuesto</strong> |
+| Ratio de distribución (incl. cancelación) | 83,0% | 25,1% | <strong>No encaja</strong> |
 
-Prácticamente todo no encaja. KB es la "primera puerta que los extranjeros cruzan para invertir en financieras coreanas"; Korea Investment es un "holding de banca de inversión centrado en el propietario-gestor". Misma categoría amplia, pero **filosofías de gobierno corporativo fundamentalmente distintas**.
+Prácticamente todo no encaja. KB es la "primera puerta que los extranjeros cruzan para invertir en financieras coreanas"; Korea Investment es un "holding de banca de inversión centrado en el propietario-gestor". Misma categoría amplia, pero <strong>filosofías de gobierno corporativo fundamentalmente distintas</strong>.
 
 ### 2.4 Distancia de las Coordenadas de Shinhan (Tránsito)
 
@@ -154,12 +154,12 @@ La Parte 4 definió a Shinhan como el "primer seguidor en tránsito hacia KB."
 
 | Concepto | Shinhan | Korea Investment | Encaje |
 | --- | ---: | ---: | --- |
-| Identidad del modelo | Seguidor de las coordenadas de KB | Definidor de coordenada propia | **Categoría diferente** |
+| Identidad del modelo | Seguidor de las coordenadas de KB | Definidor de coordenada propia | <strong>Categoría diferente</strong> |
 | Coste de capital implícito | 15,3% | 17,3% | Korea Investment mayor |
 | Participación extranjera | 61,4% | 36,7% | Shinhan mayor |
-| Negocio principal | Banco + no banco equilibrado | Centrado en valores (dependencia del 72,4%) | **Diferente** |
+| Negocio principal | Banco + no banco equilibrado | Centrado en valores (dependencia del 72,4%) | <strong>Diferente</strong> |
 
-Ambas están "en curso, sin haber llegado al pico", pero en direcciones distintas. Shinhan avanza hacia "una coordenada existente"; Korea Investment está en una posición que **exige el reconocimiento de una nueva coordenada** para ser revalorada.
+Ambas están "en curso, sin haber llegado al pico", pero en direcciones distintas. Shinhan avanza hacia "una coordenada existente"; Korea Investment está en una posición que <strong>exige el reconocimiento de una nueva coordenada</strong> para ser revalorada.
 
 ### 2.5 Resumen de la Matriz de Encaje
 
@@ -170,7 +170,7 @@ Ambas están "en curso, sin haber llegado al pico", pero en direcciones distinta
 | KB (acceso extranjero) | Casi ninguno | Participación extranjera, filosofía de gobierno corporativo |
 | Shinhan (tránsito hacia KB) | Casi ninguno | La dirección misma difiere |
 
-Los cuatro no encajan con claridad. **Por primera vez en la serie, nos encontramos con una empresa a la que no se puede aplicar ninguna de las coordenadas existentes.** Este hecho define el lugar de Korea Investment Holdings en la serie.
+Los cuatro no encajan con claridad. <strong>Por primera vez en la serie, nos encontramos con una empresa a la que no se puede aplicar ninguna de las coordenadas existentes.</strong> Este hecho define el lugar de Korea Investment Holdings en la serie.
 
 ---
 
@@ -178,7 +178,7 @@ Los cuatro no encajan con claridad. **Por primera vez en la serie, nos encontram
 
 ### 3.1 Autodefinición
 
-Korea Investment Holdings se describe oficialmente como "el único holding financiero centrado en banca de inversión de Corea". Esta autodefinición importa en términos de la serie porque **la propia empresa está declarando que no pertenece a las categorías existentes**.
+Korea Investment Holdings se describe oficialmente como "el único holding financiero centrado en banca de inversión de Corea". Esta autodefinición importa en términos de la serie porque <strong>la propia empresa está declarando que no pertenece a las categorías existentes</strong>.
 
 Líneas de negocio:
 - Korea Investment & Securities (corretaje, banca de inversión, gestión de activos, trading, pagarés a corto plazo, IMA)
@@ -225,10 +225,10 @@ Lo que hace diferente a este ciclo del resto de empresas:
 
 | Empresa | Cómo gestiona el capital |
 | --- | --- |
-| Meritz | **Reduce** el capital para incrementar el BPA (recompra y cancelación) |
-| Kiwoom | **Rota** el capital más rápido para aumentar el beneficio (volumen negociado) |
-| KB | **Gestiona** el capital de forma estable mientras lo distribuye (CET1 + política de distribución) |
-| **Korea Investment** | **Usa** el patrimonio neto como capacidad de financiación para expandir activos (pagarés/IMA → banca de inversión/operaciones) |
+| Meritz | <strong>Reduce</strong> el capital para incrementar el BPA (recompra y cancelación) |
+| Kiwoom | <strong>Rota</strong> el capital más rápido para aumentar el beneficio (volumen negociado) |
+| KB | <strong>Gestiona</strong> el capital de forma estable mientras lo distribuye (CET1 + política de distribución) |
+| <strong>Korea Investment</strong> | <strong>Usa</strong> el patrimonio neto como capacidad de financiación para expandir activos (pagarés/IMA → banca de inversión/operaciones) |
 
 Los cuatro mecanismos son "caminos distintos hacia el mismo ROE", pero el de Korea Investment es único en la serie.
 
@@ -250,9 +250,9 @@ Verificaciones:
 - Techo combinado IMA = 12,10 × 3 = ₩36,30B ✓
 - Utilización combinada IMA = (21,48 + 1,89) / 36,30 = 23,37 / 36,30 = 64,38% ≈ 64,4% ✓
 
-Lectura en una línea: **cada ₩1B de patrimonio neto adicional en Korea Investment Holdings expande su capacidad de financiación en ₩3B.** Alcanzar el objetivo de ₩15B de patrimonio neto para 2030 expande la capacidad combinada de ₩36,3B a ₩45B. Esa es la esencia contable del modelo de "plataforma de capital-operaciones".
+Lectura en una línea: <strong>cada ₩1B de patrimonio neto adicional en Korea Investment Holdings expande su capacidad de financiación en ₩3B.</strong> Alcanzar el objetivo de ₩15B de patrimonio neto para 2030 expande la capacidad combinada de ₩36,3B a ₩45B. Esa es la esencia contable del modelo de "plataforma de capital-operaciones".
 
-Este mecanismo está ausente en todas las demás empresas de la serie. Ni Meritz, ni Kiwoom, ni KB tienen el "apalancamiento del patrimonio neto al 200–300% mediante financiación" como variable central. **Este único hecho define a Korea Investment Holdings como una categoría aparte.**
+Este mecanismo está ausente en todas las demás empresas de la serie. Ni Meritz, ni Kiwoom, ni KB tienen el "apalancamiento del patrimonio neto al 200–300% mediante financiación" como variable central. <strong>Este único hecho define a Korea Investment Holdings como una categoría aparte.</strong>
 
 ### 3.5 P × Q × C de la Nueva Coordenada
 
@@ -260,13 +260,13 @@ El P × Q × C de Korea Investment Holdings usa variables distintas al resto de 
 
 | Factor | Variables clave de Korea Investment Holdings |
 | --- | --- |
-| **P (precio)** | Tasas de comisión, márgenes en crédito, rendimiento de pagarés/IMA, tasas de captación de banca de inversión, rendimiento de operaciones |
-| **Q (volumen)** | Volumen negociado, activos de clientes, saldo de pagarés, suscripción de IMA, **patrimonio neto (la base del techo de financiación)**, flujo de operaciones |
-| **C (coste)** | Tasas de financiación, dotaciones, pérdidas en financiación de proyectos, pérdidas en operaciones, coste de personal, coste regulatorio de capital |
+| <strong>P (precio)</strong> | Tasas de comisión, márgenes en crédito, rendimiento de pagarés/IMA, tasas de captación de banca de inversión, rendimiento de operaciones |
+| <strong>Q (volumen)</strong> | Volumen negociado, activos de clientes, saldo de pagarés, suscripción de IMA, <strong>patrimonio neto (la base del techo de financiación)</strong>, flujo de operaciones |
+| <strong>C (coste)</strong> | Tasas de financiación, dotaciones, pérdidas en financiación de proyectos, pérdidas en operaciones, coste de personal, coste regulatorio de capital |
 
-De forma crítica, **el patrimonio neto en sí mismo entra en Q.** En las otras empresas, el patrimonio neto actúa solo como denominador (en el ROE). Aquí, actúa simultáneamente como el **techo que determina el numerador**: aumentar el patrimonio neto amplía el denominador del ROE, pero al mismo tiempo expande la capacidad de financiación que crea el numerador.
+De forma crítica, <strong>el patrimonio neto en sí mismo entra en Q.</strong> En las otras empresas, el patrimonio neto actúa solo como denominador (en el ROE). Aquí, actúa simultáneamente como el <strong>techo que determina el numerador</strong>: aumentar el patrimonio neto amplía el denominador del ROE, pero al mismo tiempo expande la capacidad de financiación que crea el numerador.
 
-Esto es lo inverso del "compounder de capital y recompras" de Meritz. **Meritz reduce el capital para que el denominador sea más pequeño; Korea Investment hace crecer el capital para expandir simultáneamente tanto el numerador como el denominador.** Ambas son vías válidas para mantener el ROE.
+Esto es lo inverso del "compounder de capital y recompras" de Meritz. <strong>Meritz reduce el capital para que el denominador sea más pequeño; Korea Investment hace crecer el capital para expandir simultáneamente tanto el numerador como el denominador.</strong> Ambas son vías válidas para mantener el ROE.
 
 ---
 
@@ -284,7 +284,7 @@ Korea Investment: 18,5% / 1,07× = 17,3%
 
 El coste de capital implícito más alto de la serie. +5,8 pp frente a Meritz, +5,4 pp frente a KB, +2,4 pp frente a Kiwoom, +2,0 pp frente a Shinhan.
 
-La brecha importa porque **el ROE del 18,5% de Korea Investment es el segundo más alto tras Meritz, pero el mercado aplica el coste de capital más elevado.** El orden de los ROE y el orden de los costes de capital no coinciden.
+La brecha importa porque <strong>el ROE del 18,5% de Korea Investment es el segundo más alto tras Meritz, pero el mercado aplica el coste de capital más elevado.</strong> El orden de los ROE y el orden de los costes de capital no coinciden.
 
 ### 4.2 Los Cinco Factores de Descuento que Conforman los 5,8 pp
 
@@ -297,21 +297,21 @@ Los 5,8 pp no son una "anomalía de valoración". Hay razones contables para el 
 | Dotaciones en banco de ahorro/capital | Tasa de morosidad del banco de ahorro 8,59%, ratio de créditos dudosos 11,53% | \~1,0 pp |
 | Descuento por gobierno corporativo | CEO y Presidente del Consejo coincidentes (12 años consecutivos), tasa de aprobación de remuneración de consejeros 59,8% | \~1,5 pp |
 | Política débil de retribución al accionista | Distribución 25,1%, sin hoja de ruta de cancelación del 5,4% de autocartera, sin objetivo TSR | \~1,0 pp |
-| **Total** | | **\~5,8 pp** |
+| <strong>Total</strong> | | <strong>\~5,8 pp</strong> |
 
-Cada factor que añade entre 0,8 pp y 1,5 pp al coste de capital suma limpiamente 5,8 pp. El 17,3% que aplica el mercado no es casualidad: es **la consecuencia contable de una empresa que no encaja en ninguna categoría que el mercado pueda clasificar con claridad**.
+Cada factor que añade entre 0,8 pp y 1,5 pp al coste de capital suma limpiamente 5,8 pp. El 17,3% que aplica el mercado no es casualidad: es <strong>la consecuencia contable de una empresa que no encaja en ninguna categoría que el mercado pueda clasificar con claridad</strong>.
 
-Esta descomposición importa en términos de la serie porque **el primer factor de descuento que se cierre determinará la velocidad a la que el 17,3% se estreche.** La normalización de operaciones se verifica en la publicación de resultados del 1T26; el M&A en seguros, en el momento de la decisión sobre el precio; las dotaciones del banco de ahorro, en las tendencias trimestrales; el gobierno corporativo, en la separación del Presidente; y la retribución al accionista, en un anuncio de cancelación — cada uno se cierra en un momento diferente.
+Esta descomposición importa en términos de la serie porque <strong>el primer factor de descuento que se cierre determinará la velocidad a la que el 17,3% se estreche.</strong> La normalización de operaciones se verifica en la publicación de resultados del 1T26; el M&A en seguros, en el momento de la decisión sobre el precio; las dotaciones del banco de ahorro, en las tendencias trimestrales; el gobierno corporativo, en la separación del Presidente; y la retribución al accionista, en un anuncio de cancelación — cada uno se cierra en un momento diferente.
 
 ### 4.3 La 'Velocidad de Reconocimiento' Determina la Compresión del Coste de Capital
 
-Aquí es donde se activa el mensaje central de la serie. **El 17,3% es la señal contable de que "la definición de la coordenada está en curso".** Cuando el mercado acepte con claridad "holding financiero de tipo banca de inversión" como una categoría, el coste de capital se reducirá de forma natural al 14–15%.
+Aquí es donde se activa el mensaje central de la serie. <strong>El 17,3% es la señal contable de que "la definición de la coordenada está en curso".</strong> Cuando el mercado acepte con claridad "holding financiero de tipo banca de inversión" como una categoría, el coste de capital se reducirá de forma natural al 14–15%.
 
 Escenarios de PBR:
 
 | Coste de capital implícito | PBR justificado | Precio justificado (VCN ₩224.562) | Significado |
 | ---: | ---: | ---: | --- |
-| 17,3% (actual) | 1,07× | **₩240.300 (actual)** | Definición de coordenada en curso |
+| 17,3% (actual) | 1,07× | <strong>₩240.300 (actual)</strong> | Definición de coordenada en curso |
 | 16,0% | 1,16× | ₩260.490 | Primera reducción |
 | 15,0% (nivel Shinhan) | 1,23× | ₩276.210 | Coste de capital al nivel de Shinhan |
 | 14,0% | 1,32× | ₩296.420 | Entre Kiwoom y Shinhan |
@@ -323,7 +323,7 @@ Verificaciones:
 - Precio al 15,0%: 224.562 × (18,5/15,0) = 224.562 × 1,233 = ₩276.985 ≈ ₩276.210
 - Precio al 12,0%: 224.562 × (18,5/12,0) = 224.562 × 1,542 = ₩346.275 ≈ ₩345.820
 
-Lectura en una línea: **si el coste de capital se estrecha del 17,3% al 12–13% con el reconocimiento pleno de la definición de la coordenada, el mismo VCN / mismo ROE se reprecia a aproximadamente ₩320.000–₩346.000.** Los objetivos de precio del lado vendedor — ₩335.000 (Daishin) y ₩399.000 (SK Securities) — se sitúan dentro de este rango por la misma razón aritmética.
+Lectura en una línea: <strong>si el coste de capital se estrecha del 17,3% al 12–13% con el reconocimiento pleno de la definición de la coordenada, el mismo VCN / mismo ROE se reprecia a aproximadamente ₩320.000–₩346.000.</strong> Los objetivos de precio del lado vendedor — ₩335.000 (Daishin) y ₩399.000 (SK Securities) — se sitúan dentro de este rango por la misma razón aritmética.
 
 Esta es la matemática. Para que el coste de capital se estreche efectivamente, los cinco factores de descuento deben cerrarse uno a uno — que es lo que impulsan los dos mecanismos de autoestabilización de la siguiente sección.
 
@@ -337,16 +337,16 @@ La velocidad de reconocimiento de la nueva coordenada está determinada por dos 
 
 El gobierno corporativo de Korea Investment Holdings equilibra el modelo de "propietario-gestor" con la "independencia del consejo".
 
-**Estructura actual:**
+<strong>Estructura actual:</strong>
 - Kim Nam-koo ocupa simultáneamente los cargos de CEO y Presidente del Consejo (12 años consecutivos hasta 2026)
 - Los consejeros independientes representan el 75,0% (6 de 8)
 - Kim Nam-koo + partes vinculadas 21,3%, NPS 13,4%, extranjeros 36,7%, autocartera 5,4%
 - Sin control de mayoría absoluta
 
-**Señal de alerta:**
-En la junta general de accionistas de 2026, la elección de Kim Nam-koo como consejero ejecutivo se aprobó con el 88,6% y la de Oh Tae-kyun con el 88,9%. Sin embargo, **la aprobación del límite de remuneración de los consejeros fue del 59,8%**, con un 40,2% en contra o abstención. No es territorio de sustitución de la dirección, pero sí una señal contable clara de malestar de los accionistas con la remuneración y el gobierno corporativo.
+<strong>Señal de alerta:</strong>
+En la junta general de accionistas de 2026, la elección de Kim Nam-koo como consejero ejecutivo se aprobó con el 88,6% y la de Oh Tae-kyun con el 88,9%. Sin embargo, <strong>la aprobación del límite de remuneración de los consejeros fue del 59,8%</strong>, con un 40,2% en contra o abstención. No es territorio de sustitución de la dirección, pero sí una señal contable clara de malestar de los accionistas con la remuneración y el gobierno corporativo.
 
-**Dos caras:**
+<strong>Dos caras:</strong>
 
 | Aspecto | Fortaleza | Factor de descuento |
 | --- | --- | --- |
@@ -355,7 +355,7 @@ En la junta general de accionistas de 2026, la elección de Kim Nam-koo como con
 | Gestión de riesgos | Responsabilidad clara | Independencia del límite de riesgo debilitada |
 | Intereses de minoritarios | Alineación parcial con el propietario | Posibles conflictos en sucesión / distribución |
 
-**Dirección de autoestabilización:**
+<strong>Dirección de autoestabilización:</strong>
 
 ```
 ROE 15%+ mantenido + ciclo de capital-operaciones en funcionamiento
@@ -395,9 +395,9 @@ Constructivo — pero comparado con el resto de la serie:
 | KB | 83,0% (incl. cancelación) | Rutinaria | Claro |
 | Kiwoom | \~30%-clase | Cancelación escalonada del 7,99% | Parcial |
 | Shinhan | 50,2% | ₩700B en curso | Claro |
-| **Korea Investment** | **25,1%** | **5,4% autocartera, sin hoja de ruta de cancelación** | **Ausente** |
+| <strong>Korea Investment</strong> | <strong>25,1%</strong> | <strong>5,4% autocartera, sin hoja de ruta de cancelación</strong> | <strong>Ausente</strong> |
 
-**¿Es racional la lógica de "crecimiento primero" de la empresa?**
+<strong>¿Es racional la lógica de "crecimiento primero" de la empresa?</strong>
 
 Tasa de retención interna 74,9% × ROE 18,5% = tasa de crecimiento sostenible \~13,9%. Esa aritmética justifica la lógica de "crecimiento primero" — el patrimonio neto crece \~14% anual incluso sin distribución.
 
@@ -415,12 +415,12 @@ Validez de la política de "crecimiento primero" confirmada
 Estrechez del coste de capital
 ```
 
-Pero para que este mecanismo funcione como autoestabilización, se necesita **la credibilidad de que "el crecimiento primero está justificado"**. Señales clave de esa credibilidad:
+Pero para que este mecanismo funcione como autoestabilización, se necesita <strong>la credibilidad de que "el crecimiento primero está justificado"</strong>. Señales clave de esa credibilidad:
 
-- **Cancelación de parte del 5,4% de la autocartera** — señal explícita de que "también se gestiona el valor por acción"
-- **Ratio de retribución total al accionista (TSR) explícito del 30%+** — algoritmización de la política de devolución de capital
-- **Criterios explícitos de ROE / ratio de capital para M&A** — verificación de la disciplina de despliegue de capital
-- **Anuncio de política de ratio de distribución del 30%+ o TSR del 35%+** — transición de la fase 1 a la fase 2
+- <strong>Cancelación de parte del 5,4% de la autocartera</strong> — señal explícita de que "también se gestiona el valor por acción"
+- <strong>Ratio de retribución total al accionista (TSR) explícito del 30%+</strong> — algoritmización de la política de devolución de capital
+- <strong>Criterios explícitos de ROE / ratio de capital para M&A</strong> — verificación de la disciplina de despliegue de capital
+- <strong>Anuncio de política de ratio de distribución del 30%+ o TSR del 35%+</strong> — transición de la fase 1 a la fase 2
 
 Si llega aunque sea una de estas señales, el coste de capital se estrecha un paso. Un anuncio de recompra por sí solo podría comprimir alrededor de 1,0 pp de descuento.
 
@@ -440,13 +440,13 @@ La coordenada de "holding financiero de banca de inversión" es reconocida
 Coste de capital 17,3% → 14–15% → 12–13%
 ```
 
-Por eso Korea Investment Holdings se lee en la serie como "una empresa que está definiendo su propia coordenada". Meritz ya ejecuta el algoritmo de recompra; KB ya tiene la infraestructura de acceso extranjero. Korea Investment está **ejecutando estos dos mecanismos, pero sin haberlos completado**. Por eso se aplica el 17,3%. **Y la velocidad a la que ese 17,3% se estrecha es la velocidad a la que la nueva coordenada es reconocida.**
+Por eso Korea Investment Holdings se lee en la serie como "una empresa que está definiendo su propia coordenada". Meritz ya ejecuta el algoritmo de recompra; KB ya tiene la infraestructura de acceso extranjero. Korea Investment está <strong>ejecutando estos dos mecanismos, pero sin haberlos completado</strong>. Por eso se aplica el 17,3%. <strong>Y la velocidad a la que ese 17,3% se estrecha es la velocidad a la que la nueva coordenada es reconocida.</strong>
 
 ---
 
 ## 6. Verificación de la Calidad del Crecimiento del +76,3% en Operaciones
 
-La Sección 4 atribuyó 1,5 pp del descuento sobre el coste de capital a la "volatilidad del P&L de operaciones". Este factor importa en términos de la serie porque determina **cuán repetible es realmente el ROE del 18,5% de Korea Investment**.
+La Sección 4 atribuyó 1,5 pp del descuento sobre el coste de capital a la "volatilidad del P&L de operaciones". Este factor importa en términos de la serie porque determina <strong>cuán repetible es realmente el ROE del 18,5% de Korea Investment</strong>.
 
 ### 6.1 Descomposición de la Línea de Operaciones de ₩1,27B
 
@@ -458,7 +458,7 @@ Las operaciones de Korea Investment & Securities en el ejercicio 2025 fueron de 
 | P&L de trading | Desconocido | Desconocido | — | Beta de mercado |
 | Ganancias por valoración/desinversión | Desconocido | Desconocido | — | En gran medida no recurrente |
 | Margen de operaciones financiadas con pagarés | Desconocido | Desconocido | — | Recurrente |
-| **Total** | **₩1.276,2B** | **₩723,7B** | **+76,3%** | Mixto |
+| <strong>Total</strong> | <strong>₩1.276,2B</strong> | <strong>₩723,7B</strong> | <strong>+76,3%</strong> | Mixto |
 
 Los ingresos por dividendos y distribuciones de ₩552,3B representan \~el 43% de los ingresos por operaciones. Este componente es parcialmente recurrente — mientras se mantengan los activos subyacentes, los dividendos y distribuciones llegan cada año.
 
@@ -468,17 +468,17 @@ En la misma dimensión, comparación de la volatilidad del margen entre las empr
 
 | Empresa | Fuente de volatilidad de resultados | Volatilidad trimestral | Estabilidad anual |
 | --- | --- | --- | --- |
-| Meritz | Algoritmo de recompra | **Baja** | **Alta** |
+| Meritz | Algoritmo de recompra | <strong>Baja</strong> | <strong>Alta</strong> |
 | KB | CET1 + política de distribución | Baja | Alta |
 | Shinhan | Partidas no recurrentes de no bancario (valores) | Media | Media |
-| Kiwoom | Ciclo del volumen negociado | **Alta** | Media |
-| **Korea Investment** | **Operaciones + ganancias por valoración + beta alcista de mercado** | **Alta** | Media |
+| Kiwoom | Ciclo del volumen negociado | <strong>Alta</strong> | Media |
+| <strong>Korea Investment</strong> | <strong>Operaciones + ganancias por valoración + beta alcista de mercado</strong> | <strong>Alta</strong> | Media |
 
 La volatilidad trimestral de Korea Investment es similar a la de Kiwoom, pero la fuente difiere. Kiwoom está expuesta directamente a las oscilaciones del volumen negociado; Korea Investment, a la volatilidad de las operaciones y las ganancias por valoración. Ambas crean fundamentos para que el mercado aplique un "descuento por estabilidad".
 
 ### 6.3 La 'Estructuralidad Respaldada por Pagarés/IMA' Absorbe la Volatilidad
 
-Aquí hay una consistencia importante. A medida que la financiación de Korea Investment Holdings basada en pagarés/IMA se expande, **la propia base de activos operativos crece estructuralmente**. Incluso con el mismo rendimiento de operaciones, si la base de activos crece de ₩21,5B a ₩25B y a ₩30B, los ingresos operativos absolutos aumentan mecánicamente.
+Aquí hay una consistencia importante. A medida que la financiación de Korea Investment Holdings basada en pagarés/IMA se expande, <strong>la propia base de activos operativos crece estructuralmente</strong>. Incluso con el mismo rendimiento de operaciones, si la base de activos crece de ₩21,5B a ₩25B y a ₩30B, los ingresos operativos absolutos aumentan mecánicamente.
 
 ```
 P&L de operaciones = Activos operativos × Rendimiento de operaciones
@@ -504,7 +504,7 @@ Parte 4:    Tránsito entre picos (Shinhan → coordenadas de KB)
 Parte 5:    Definición de nueva coordenada (Korea Investment → plataforma de capital-operaciones)
 ```
 
-El significado del cambio de capítulo es simple: **el desplazamiento de reconocimiento en las financieras coreanas ha profundizado desde "¿a cuál de los tres picos se une?" hasta "¿puede definir una nueva coordenada?"**
+El significado del cambio de capítulo es simple: <strong>el desplazamiento de reconocimiento en las financieras coreanas ha profundizado desde "¿a cuál de los tres picos se une?" hasta "¿puede definir una nueva coordenada?"</strong>
 
 Mientras que Shinhan era "un seguidor en tránsito hacia un pico existente", Korea Investment es "una empresa para la que un pico existente no es la respuesta correcta". Por lo tanto, aplicarle directamente el múltiplo de Meritz o de KB no funciona — se necesita una nueva matriz de múltiplos adaptada a su propio modelo de negocio (pagarés / IMA / banca de inversión / operaciones).
 
@@ -518,17 +518,17 @@ Esta dimensión analítica de "definición de nueva coordenada" es la siguiente 
 
 El crecimiento del +76,3% en las operaciones de Korea Investment & Securities en el ejercicio 2025 es innegablemente sólido. Pero en su interior se encuentran el efecto del mercado alcista, las ganancias por valoración de PI y el reconocimiento no recurrente de dividendos/distribuciones. Tratar la totalidad de los ₩1,27B como ingresos repetibles podría sobreestimar el ROE del 18,5%.
 
-Dicho esto, la expansión estructural de los pagarés/IMA hace crecer la propia base de activos operativos. Algo es no recurrente; algo es estructural. Lo que la serie rastrea es **cómo cambia trimestre a trimestre la proporción de ingresos repetibles** — esa es la verificación contable de la definición de la coordenada.
+Dicho esto, la expansión estructural de los pagarés/IMA hace crecer la propia base de activos operativos. Algo es no recurrente; algo es estructural. Lo que la serie rastrea es <strong>cómo cambia trimestre a trimestre la proporción de ingresos repetibles</strong> — esa es la verificación contable de la definición de la coordenada.
 
 Esto no es una debilidad: es el mecanismo de autoverificación del modelo. El mismo tipo de consistencia que la "aceptar la volatilidad trimestral, comprar el ROE medio anual" de Kiwoom Parte 2, Sección 7.1.
 
 ### 8.2 ¿Implica la Expansión del Patrimonio Neto el Mantenimiento del ROE?
 
-El modelo de plataforma de capital-operaciones asume que "patrimonio neto +₩1B → capacidad de financiación +₩3B → expansión de banca de inversión / activos operativos → ROE mantenido". Pero esta suposición tiene una condición previa — **los activos expandidos deben mantener el rendimiento.**
+El modelo de plataforma de capital-operaciones asume que "patrimonio neto +₩1B → capacidad de financiación +₩3B → expansión de banca de inversión / activos operativos → ROE mantenido". Pero esta suposición tiene una condición previa — <strong>los activos expandidos deben mantener el rendimiento.</strong>
 
 Si la competencia en los mercados de pagarés/IMA se intensifica, los márgenes se comprimen. El mismo capital con márgenes más delgados significa que el ROE se diluye junto con la expansión del patrimonio neto. Este escenario se materializa si la empresa ejecuta un M&A caro en seguros, o si la competencia por los mejores proyectos de banca de inversión se calienta.
 
-Esto es el **mecanismo de autoestabilización inherente a la identidad del modelo** antes que un defecto. El modelo de plataforma de capital-operaciones funciona sobre "el equilibrio entre capacidad de financiación y margen de activos". Si ese equilibrio se rompe, el coste de capital del 17,3% permanece donde está — ese es el escenario en que la nueva coordenada no logra reconocimiento.
+Esto es el <strong>mecanismo de autoestabilización inherente a la identidad del modelo</strong> antes que un defecto. El modelo de plataforma de capital-operaciones funciona sobre "el equilibrio entre capacidad de financiación y margen de activos". Si ese equilibrio se rompe, el coste de capital del 17,3% permanece donde está — ese es el escenario en que la nueva coordenada no logra reconocimiento.
 
 ---
 
@@ -538,11 +538,11 @@ No son disparadores de operaciones. Son puntos de observación que muestran la r
 
 ### 9.1 Korea Investment Holdings — Verificación de la Definición de la Coordenada
 
-- **Beneficio neto del accionista de control en el 1T26**: las estimaciones del lado vendedor oscilan entre ₩604,4B (Yuanta) y ₩822,0B (Daishin). Por encima de ₩700B implica un ROE anualizado de \~17% — primera verificación contable de la coordenada.
-- **Expansión adicional del saldo IMA**: progresión de ₩1,89B a ₩3B+. Variable central del modelo de plataforma de capital-operaciones.
-- **Utilización de pagarés 88,8% → 95%**: la señal de cómo opera la presión de expansión del patrimonio neto.
-- **Calidad del P&L de operaciones**: separación del peso de las ganancias por valoración vs. el peso de intereses/dividendos. Verificación de la estructuralidad del +76,3% del ejercicio 2025.
-- **Estabilización de la morosidad del banco de ahorro al 8,59%**: señal de reducción del descuento de dotaciones de 1,0 pp.
+- <strong>Beneficio neto del accionista de control en el 1T26</strong>: las estimaciones del lado vendedor oscilan entre ₩604,4B (Yuanta) y ₩822,0B (Daishin). Por encima de ₩700B implica un ROE anualizado de \~17% — primera verificación contable de la coordenada.
+- <strong>Expansión adicional del saldo IMA</strong>: progresión de ₩1,89B a ₩3B+. Variable central del modelo de plataforma de capital-operaciones.
+- <strong>Utilización de pagarés 88,8% → 95%</strong>: la señal de cómo opera la presión de expansión del patrimonio neto.
+- <strong>Calidad del P&L de operaciones</strong>: separación del peso de las ganancias por valoración vs. el peso de intereses/dividendos. Verificación de la estructuralidad del +76,3% del ejercicio 2025.
+- <strong>Estabilización de la morosidad del banco de ahorro al 8,59%</strong>: señal de reducción del descuento de dotaciones de 1,0 pp.
 
 ### 9.2 Mecanismos de Autoestabilización — Catalizadores Clave
 
@@ -557,22 +557,22 @@ Impacto estimado en el coste de capital para cada uno:
 | M&A en seguros: criterios de ROE + impacto en ratio de capital divulgados | Decisión de adquisición | \~−0,8 pp |
 | Divulgación del peso de los ingresos recurrentes en el P&L de operaciones | IR trimestral | \~−1,5 pp |
 
-Lectura en una línea: **los seis catalizadores operando juntos pueden comprimir el descuento en el coste de capital aproximadamente 6,0 pp en total.** 17,3% − 6,0% ≈ 11,3% — coste de capital al nivel de Meritz/KB. Que todos operen simultáneamente es poco probable; incluso la mitad operando lo estrecharía hasta el rango del 14%.
+Lectura en una línea: <strong>los seis catalizadores operando juntos pueden comprimir el descuento en el coste de capital aproximadamente 6,0 pp en total.</strong> 17,3% − 6,0% ≈ 11,3% — coste de capital al nivel de Meritz/KB. Que todos operen simultáneamente es poco probable; incluso la mitad operando lo estrecharía hasta el rango del 14%.
 
 ### 9.3 Señales Meta a Nivel de Serie
 
-- **Trayectoria temporal del coste de capital implícito del 17,3%**: la velocidad a la que se estreche hacia el 14–15% es directamente = la velocidad de reconocimiento de la definición de la coordenada.
-- **Migración de categoría en el lado vendedor**: de "valor del ciclo de valores" a "holding financiero de banca de inversión".
-- **Aumento gradual de la participación extranjera**: 36,7% → 45–50% significaría que el capital global comienza a reconocer la nueva coordenada.
-- **Casos de "definición de nueva coordenada" en otras empresas**: Mirae Asset Securities (PI / plataforma de activos digitales), DB Insurance (operaciones de capital de seguros) y otras pueden entrar en esta dimensión analítica.
+- <strong>Trayectoria temporal del coste de capital implícito del 17,3%</strong>: la velocidad a la que se estreche hacia el 14–15% es directamente = la velocidad de reconocimiento de la definición de la coordenada.
+- <strong>Migración de categoría en el lado vendedor</strong>: de "valor del ciclo de valores" a "holding financiero de banca de inversión".
+- <strong>Aumento gradual de la participación extranjera</strong>: 36,7% → 45–50% significaría que el capital global comienza a reconocer la nueva coordenada.
+- <strong>Casos de "definición de nueva coordenada" en otras empresas</strong>: Mirae Asset Securities (PI / plataforma de activos digitales), DB Insurance (operaciones de capital de seguros) y otras pueden entrar en esta dimensión analítica.
 
 ---
 
 ## 10. La Línea Final de Cierre
 
-Esta serie pintó "tres picos consolidados" en las Partes 1–3, y abrió el capítulo de "tránsito entre picos" en la Parte 4. Korea Investment Holdings en la Parte 5 añade otro capítulo — **"una empresa que no encaja en ninguno de los cuatro picos existentes, y está definiendo su propia coordenada".**
+Esta serie pintó "tres picos consolidados" en las Partes 1–3, y abrió el capítulo de "tránsito entre picos" en la Parte 4. Korea Investment Holdings en la Parte 5 añade otro capítulo — <strong>"una empresa que no encaja en ninguno de los cuatro picos existentes, y está definiendo su propia coordenada".</strong>
 
-ROE 18,5%, PBR 1,07×, coste de capital 17,3%. Estos números describen una posición distinta al resto de la serie. Ni Meritz, ni Kiwoom, ni KB, ni Shinhan explican con precisión las coordenadas de Korea Investment Holdings. **Una categoría separada llamada "holding financiero de banca de inversión"** — que genera ROE no reduciendo el patrimonio neto, sino usándolo como capacidad de financiación, a través del ciclo de capital-operaciones de 5 pasos: patrimonio neto ₩12,1B → pagarés ₩21,5B → IMA ₩1,9B → techo combinado ₩36,3B.
+ROE 18,5%, PBR 1,07×, coste de capital 17,3%. Estos números describen una posición distinta al resto de la serie. Ni Meritz, ni Kiwoom, ni KB, ni Shinhan explican con precisión las coordenadas de Korea Investment Holdings. <strong>Una categoría separada llamada "holding financiero de banca de inversión"</strong> — que genera ROE no reduciendo el patrimonio neto, sino usándolo como capacidad de financiación, a través del ciclo de capital-operaciones de 5 pasos: patrimonio neto ₩12,1B → pagarés ₩21,5B → IMA ₩1,9B → techo combinado ₩36,3B.
 
 Los cinco factores de descuento que conforman el 17,3% — volatilidad del P&L de operaciones (1,5 pp) + posibilidad de M&A en seguros (0,8 pp) + dotaciones en banco de ahorro/capital (1,0 pp) + descuento por gobierno corporativo (1,5 pp) + política débil de retribución al accionista (1,0 pp) — son todos rastreables contablemente. La velocidad a la que cada factor se cierra uno a uno es la velocidad a la que se reconoce la definición de la coordenada.
 
@@ -586,31 +586,31 @@ La próxima entrega de la serie llegará cuando (1) se publiquen los resultados 
 
 ## FAQ — Korea Investment Holdings
 
-**P: ¿Cotiza en bolsa Korea Investment Holdings?**
-R: Sí. Korea Investment Holdings cotiza en el KOSPI con el tícker **071050**. Korea Investment & Securities, la principal filial de valores del grupo, no cotiza y es propiedad al 100% del holding.
+<strong>P: ¿Cotiza en bolsa Korea Investment Holdings?</strong>
+R: Sí. Korea Investment Holdings cotiza en el KOSPI con el tícker <strong>071050</strong>. Korea Investment & Securities, la principal filial de valores del grupo, no cotiza y es propiedad al 100% del holding.
 
-**P: ¿Quién es el propietario de Korea Investment Holdings?**
+<strong>P: ¿Quién es el propietario de Korea Investment Holdings?</strong>
 R: Kim Nam-koo (Presidente) y partes vinculadas poseen \~el 21,3% de las acciones; National Pension Service \~el 13,4%; inversores extranjeros \~el 36,7%; autocartera el 5,4%. El resto está en manos de inversores institucionales y minoristas domésticos.
 
-**P: ¿Qué es Korea Investment & Securities?**
+<strong>P: ¿Qué es Korea Investment & Securities?</strong>
 R: La principal filial de valores dentro de Korea Investment Holdings. Opera corretaje, banca de inversión, gestión de activos, trading, pagarés a corto plazo (발행어음) e IMA (cuenta individual). No cotiza por separado.
 
-**P: ¿Qué son los 발행어음 (pagarés a corto plazo)?**
+<strong>P: ¿Qué son los 발행어음 (pagarés a corto plazo)?</strong>
 R: Un producto de pagarés a corto plazo emitido por intermediarios de valores coreanos en el que los clientes reciben un rendimiento comparable al de los depósitos bancarios. Las principales casas de valores coreanas (incluida Korea Investment & Securities) emiten pagarés de hasta el 200% de su patrimonio neto, proporcionando financiación de mercado que permite la expansión de la banca de inversión y los activos operativos. El saldo de pagarés en circulación de Korea Investment & Securities alcanzó ₩21,48B al cierre de 2025 (+24,0% interanual), el mayor de la industria.
 
-**P: ¿Qué es el IMA?**
+<strong>P: ¿Qué es el IMA?</strong>
 R: Investment-Management Account (Cuenta de Gestión de Inversiones) — un vehículo de financiación integral para intermediarios de valores de gran tamaño que combina características más allá de los pagarés a corto plazo estándar. El saldo IMA de Korea Investment & Securities alcanzó ₩1,89B a enero de 2026.
 
-**P: ¿Cuál es la diferencia entre Korea Investment Holdings y Korea Investment & Securities?**
+<strong>P: ¿Cuál es la diferencia entre Korea Investment Holdings y Korea Investment & Securities?</strong>
 R: Korea Investment Holdings (KOSPI 071050) es la sociedad holding cotizada en bolsa. Korea Investment & Securities es la principal filial de valores, de propiedad íntegra, que no cotiza. Los inversores internacionales que buscan exposición a "Korea Investment & Securities" lo hacen a través de la cotización de Korea Investment Holdings en el KOSPI.
 
-**P: ¿Cuál es la diferencia entre Korea Investment Holdings y Mirae Asset Securities?**
+<strong>P: ¿Cuál es la diferencia entre Korea Investment Holdings y Mirae Asset Securities?</strong>
 R: Ambas son grandes holdings centrados en valores coreanos, pero con diferentes identidades de modelo. Korea Investment está más centrado en la banca de inversión tradicional / gestión de activos / financiación de tipo banca de inversión (pagarés, IMA). Mirae Asset Securities tiene mayor énfasis en inversiones PI, plataformas de activos digitales y gestión de activos global. Además, Korea Investment Holdings es un holding; Mirae Asset Securities es la entidad operativa de valores.
 
-**P: ¿En qué se diferencia Korea Investment Holdings de Kiwoom Securities?**
+<strong>P: ¿En qué se diferencia Korea Investment Holdings de Kiwoom Securities?</strong>
 R: Kiwoom es el n.º 1 en corretaje retail de Corea con \~16% de cuota de mercado y un ROE impulsado por ciclos de volumen negociado. Korea Investment está más diversificado — corretaje 16%, gestión de activos 41,7%, banca de inversión 23,1%. El mecanismo de creación de ROE de Korea Investment es "expandir el patrimonio neto → expandir la capacidad de financiación → expandir los activos", no "rotación del volumen negociado".
 
-**P: ¿Cuál es la política de dividendos?**
+<strong>P: ¿Cuál es la política de dividendos?</strong>
 R: El ratio de distribución de 2025 alcanzó el 25,1% (+2,7 pp interanual). El DPA subió a ₩8.690 (+118,3% interanual). La empresa ha comenzado a enmarcar la devolución de capital de forma más explícita bajo el régimen Value-up de Corea, aunque aún se espera el objetivo explícito de retribución total al accionista.
 
 ---

@@ -20,7 +20,7 @@ draft: false
 | Brent | $97,38 | +2,0% | ▲ Presión |
 | DXY | 98,8 | +0,8% | ▲ Dólar firme |
 
-**Veredicto de régimen:** `Bull` en Corea · `Bull` en EE.UU. → **Posición: Expansión Activa**
+<strong>Veredicto de régimen:</strong> `Bull` en Corea · `Bull` en EE.UU. → <strong>Posición: Expansión Activa</strong>
 
 El breadth de mercado coreano mantiene el 61,4% de acciones sobre su MM50 y el 58,6% sobre la MM200, confirmando la amplitud del rally. La divergencia de 4,2 puntos porcentuales entre KOSPI (+4,6%) y KOSDAQ (+0,4%) en el período de cinco días señala que el dinero fluye con preferencia hacia grandes capitalizaciones.
 
@@ -30,19 +30,19 @@ El breadth de mercado coreano mantiene el 61,4% de acciones sobre su MM50 y el 5
 
 El mercado de valores de Corea cerró la sesión del jueves con un carácter claramente diferenciado: rally en grandes capitalizaciones, lateralidad en el universo de pequeña y mediana empresa. El KOSPI consolidó su posición por encima de los 6.475 puntos, afianzando el régimen alcista inaugurado el 22 de abril, mientras el KOSDAQ apenas varió en el entorno de 1.174 puntos.
 
-**Tema dominante: maquinaria industrial y semiconductores.** El screener de Quality Compounder de hoy—179 valores que superan el filtro sobre un universo de 2.722 acciones—está copado por fabricantes de maquinaria de propósito especial y componentes electrónicos, dos sectores que históricamente lideran las fases de expansión cíclica en Corea. La densidad de señales `RS85+` y `NearHigh` en estos grupos indica que la fortaleza relativa no es nueva: los gestores institucionales llevan semanas construyendo posición.
+<strong>Tema dominante: maquinaria industrial y semiconductores.</strong> El screener de Quality Compounder de hoy—179 valores que superan el filtro sobre un universo de 2.722 acciones—está copado por fabricantes de maquinaria de propósito especial y componentes electrónicos, dos sectores que históricamente lideran las fases de expansión cíclica en Corea. La densidad de señales `RS85+` y `NearHigh` en estos grupos indica que la fortaleza relativa no es nueva: los gestores institucionales llevan semanas construyendo posición.
 
-**Flujos y rotación.** La concentración de señales `Vol+` en nombres como Bosung Powertech (006910.KS), Sanil Electric (062040.KS) y Lino Industries (058470.KS) apunta a actividad compradora por encima de la media histórica, consistente con acumulación institucional sistemática. El holding tecnológico SK Square (402340.KS) lidera el screener con una puntuación de estrategia de 0,966 y un percentil de fortaleza relativa del 99,1, lo que lo convierte en el nombre de mayor consenso entre los algoritmos cuantitativos de calidad.
+<strong>Flujos y rotación.</strong> La concentración de señales `Vol+` en nombres como Bosung Powertech (006910.KS), Sanil Electric (062040.KS) y Lino Industries (058470.KS) apunta a actividad compradora por encima de la media histórica, consistente con acumulación institucional sistemática. El holding tecnológico SK Square (402340.KS) lidera el screener con una puntuación de estrategia de 0,966 y un percentil de fortaleza relativa del 99,1, lo que lo convierte en el nombre de mayor consenso entre los algoritmos cuantitativos de calidad.
 
-**Macro de fondo.** El VIX en 19,5 se mantiene por debajo del umbral de estrés de 20, lo que facilita la toma de riesgo. El Brent en $97,4 añade un leve coste al sector industrial importador de energía, pero no frena el momentum. El USD/KRW estable cerca de 1.482 elimina el riesgo de translación negativo para el inversor extranjero de corto plazo. El rendimiento del Treasury a 10 años cediendo dos puntos básicos hasta el 4,29% proporciona un viento de cola moderado para las valoraciones de crecimiento.
+<strong>Macro de fondo.</strong> El VIX en 19,5 se mantiene por debajo del umbral de estrés de 20, lo que facilita la toma de riesgo. El Brent en $97,4 añade un leve coste al sector industrial importador de energía, pero no frena el momentum. El USD/KRW estable cerca de 1.482 elimina el riesgo de translación negativo para el inversor extranjero de corto plazo. El rendimiento del Treasury a 10 años cediendo dos puntos básicos hasta el 4,29% proporciona un viento de cola moderado para las valoraciones de crecimiento.
 
-**Síntesis:** sesión de consolidación alcista con sesgo hacia calidad y visibilidad de beneficios. Los catalizadores de corto plazo son la continuidad del régimen Bull en EE.UU. y la estabilidad cambiaria.
+<strong>Síntesis:</strong> sesión de consolidación alcista con sesgo hacia calidad y visibilidad de beneficios. Los catalizadores de corto plazo son la continuidad del régimen Bull en EE.UU. y la estabilidad cambiaria.
 
 ---
 
 ## Screener del Día: Quality Compounder (Jueves)
 
-**Metodología en dos líneas:** el screener Quality Compounder filtra el universo coreano por ROE sostenido, márgenes operativos elevados, deuda baja y crecimiento de ingresos; solo pasan los valores donde el momentum de precio confirma la calidad fundamental. Hoy superaron el filtro 179 de 2.722 acciones, con una puntuación media de 0,905 sobre 1,000.
+<strong>Metodología en dos líneas:</strong> el screener Quality Compounder filtra el universo coreano por ROE sostenido, márgenes operativos elevados, deuda baja y crecimiento de ingresos; solo pasan los valores donde el momentum de precio confirma la calidad fundamental. Hoy superaron el filtro 179 de 2.722 acciones, con una puntuación media de 0,905 sobre 1,000.
 
 ### Top 10 — Quality Compounder · 23 abr 2026
 
@@ -61,13 +61,13 @@ El mercado de valores de Corea cerró la sesión del jueves con un carácter cla
 
 ### Contexto de los tres primeros
 
-**1. SK Square (402340.KS) — Score 0,966 · RS 99,1**
+<strong>1. SK Square (402340.KS) — Score 0,966 · RS 99,1</strong>
 SK Square es el holding de inversiones en tecnología desglosado de SK Telecom, con participaciones en SK Hynix (000660.KS) y otras empresas de semiconductores y plataformas digitales. Su margen operativo del 84,1% refleja ingresos basados en dividendos y plusvalías de cartera con costes operativos mínimos. El ROE del 37,8% y un P/E de apenas 10,9x sobre un universo donde la mediana supera 30x señalan un descuento de holding que los inversores value-growth están comenzando a cerrar. La señal `NearHigh` confirma que el precio ya está actuando.
 
-**2. Bosung Powertech (006910.KS) — Score 0,933 · RS 96,5**
+<strong>2. Bosung Powertech (006910.KS) — Score 0,933 · RS 96,5</strong>
 Fabricante de estructuras metálicas de precisión y componentes para plantas de energía e infraestructura industrial. El crecimiento de ingresos del +91,3% en términos interanuales es la estadística que más llama la atención: combinado con una deuda reducida (ratio 20,9%) y la señal `Vol+`, sugiere un incremento real de la demanda en el ciclo de inversión en infraestructura energética, tanto en Corea como en mercados de exportación asiáticos.
 
-**3. Sanil Electric (062040.KS) — Score 0,930 · RS 93,5**
+<strong>3. Sanil Electric (062040.KS) — Score 0,930 · RS 93,5</strong>
 Especialista en transformadores de potencia y equipos de conversión eléctrica, un nicho de alta demanda en un entorno de electrificación acelerada y expansión de centros de datos. Con un margen operativo del 35,6%, un ROE del 29,2% y crecimiento de ingresos del +50,3%, Sanil muestra el perfil clásico del compounder industrial coreano: negocio defensivo con aceleración cíclica. La señal `NearHigh` indica que el mercado ya está valorando la mejora de fundamentales.
 
 ---

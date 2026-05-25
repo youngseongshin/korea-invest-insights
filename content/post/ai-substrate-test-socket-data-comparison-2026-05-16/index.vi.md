@@ -24,12 +24,12 @@ slug: ai-substrate-test-socket-data-comparison-2026-05-16
 
 ## Điểm mấu chốt
 
-* **Xét thuần túy về "giá rẻ"**: SK hynix (PER 2027E 5,2x), Samsung Electronics (5,6x), Haesung DS (15,4x). Nhưng các ông lớn bộ nhớ bị chi phối bởi rủi ro "đỉnh chu kỳ."
-* **Xét "định giá điều chỉnh theo tăng trưởng"**: Daeduck Electronics (PER 2027E 27,1x so với OP +34%) và Simmtech (20,0x so với OP +59%) là thiết lập hấp dẫn nhất.
-* **"Đã tăng hết phần"**: Samsung Electro-Mechanics (YTD 2026 +296%, PER 2026E 61,9x), Isu Petasys (+346% năm 2025 nhưng chỉ +7% YTD 2026), Simmtech (+352% năm 2025).
-* **"Chất lượng, nhưng định giá cao"**: LEENO Industrial (OPM 48,6%, PER 2026E 41,2x), ISC (PER 2026E 58,5x).
-* **"Tăng trưởng ở mức giá hợp lý"**: TSE (OP 2026E +82%, PER 29,4x).
-* **Kết luận**: trong AI back-end, mức độ hấp dẫn xếp theo thứ tự **substrate > test socket > ông lớn bộ nhớ**. Trong nhóm substrate, Daeduck và Simmtech là rõ ràng nhất.
+* <strong>Xét thuần túy về "giá rẻ"</strong>: SK hynix (PER 2027E 5,2x), Samsung Electronics (5,6x), Haesung DS (15,4x). Nhưng các ông lớn bộ nhớ bị chi phối bởi rủi ro "đỉnh chu kỳ."
+* <strong>Xét "định giá điều chỉnh theo tăng trưởng"</strong>: Daeduck Electronics (PER 2027E 27,1x so với OP +34%) và Simmtech (20,0x so với OP +59%) là thiết lập hấp dẫn nhất.
+* <strong>"Đã tăng hết phần"</strong>: Samsung Electro-Mechanics (YTD 2026 +296%, PER 2026E 61,9x), Isu Petasys (+346% năm 2025 nhưng chỉ +7% YTD 2026), Simmtech (+352% năm 2025).
+* <strong>"Chất lượng, nhưng định giá cao"</strong>: LEENO Industrial (OPM 48,6%, PER 2026E 41,2x), ISC (PER 2026E 58,5x).
+* <strong>"Tăng trưởng ở mức giá hợp lý"</strong>: TSE (OP 2026E +82%, PER 29,4x).
+* <strong>Kết luận</strong>: trong AI back-end, mức độ hấp dẫn xếp theo thứ tự <strong>substrate > test socket > ông lớn bộ nhớ</strong>. Trong nhóm substrate, Daeduck và Simmtech là rõ ràng nhất.
 
 ---
 
@@ -100,19 +100,19 @@ ma trận PER 2027E × OP YoY 2027E.
 
 ### 2.1 So sánh cơ bản
 
-| Nhóm | Tên | Tỷ suất 2025 | YTD 2026 | OP YoY 2025 | OP YoY 2026E | OP YoY 2027E | PER 2026E | **PER 2027E** | OPM 2026E |
+| Nhóm | Tên | Tỷ suất 2025 | YTD 2026 | OP YoY 2025 | OP YoY 2026E | OP YoY 2027E | PER 2026E | <strong>PER 2027E</strong> | OPM 2026E |
 | --- | --- | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
-| Bộ nhớ | Samsung Electronics | +124,5% | +125,6% | +33,2% | +688,6% | +26,7% | 7,0x | **5,6x** | 51,1% |
-| Bộ nhớ | SK hynix | +280,3% | +179,4% | +101,2% | +433,1% | +36,0% | 6,8x | **5,2x** | 75,9% |
+| Bộ nhớ | Samsung Electronics | +124,5% | +125,6% | +33,2% | +688,6% | +26,7% | 7,0x | <strong>5,6x</strong> | 51,1% |
+| Bộ nhớ | SK hynix | +280,3% | +179,4% | +101,2% | +433,1% | +36,0% | 6,8x | <strong>5,2x</strong> | 75,9% |
 | Bộ nhớ | Jeju Semiconductor | +186,4% | +212,3% | +274,0% | n/a | n/a | n/a | n/a | n/a |
-| Test socket | LEENO Industrial | +52,1% | +67,5% | +42,5% | +23,2% | +24,1% | 41,2x | **33,4x** | 48,6% |
-| Test socket | ISC | +58,7% | +102,1% | +34,2% | +65,9% | +41,4% | 58,5x | **43,2x** | 31,8% |
-| Test socket | TSE | +39,5% | +215,1% | +23,3% | +81,9% | +21,5% | 29,4x | **24,7x** | 17,0% |
-| Substrate | Samsung Electro-Mechanics | +108,3% | +296,1% | +24,3% | +72,0% | +50,0% | 61,9x | **41,9x** | 11,8% |
-| Substrate | Daeduck Electronics | +206,0% | +188,3% | +334,5% | +375,4% | +34,4% | 36,1x | **27,1x** | 15,5% |
-| Substrate | Simmtech | +351,9% | +103,2% | lỗ→lãi | +1.234,5% | +58,7% | 31,0x | **20,0x** | 8,6% |
-| Substrate | Haesung DS | +140,6% | +57,3% | -18,3% | +99,6% | +36,6% | 20,3x | **15,4x** | 11,4% |
-| Substrate | Isu Petasys | +346,5% | +7,4% | +100,9% | +57,1% | +33,0% | 35,6x | **26,7x** | 21,1% |
+| Test socket | LEENO Industrial | +52,1% | +67,5% | +42,5% | +23,2% | +24,1% | 41,2x | <strong>33,4x</strong> | 48,6% |
+| Test socket | ISC | +58,7% | +102,1% | +34,2% | +65,9% | +41,4% | 58,5x | <strong>43,2x</strong> | 31,8% |
+| Test socket | TSE | +39,5% | +215,1% | +23,3% | +81,9% | +21,5% | 29,4x | <strong>24,7x</strong> | 17,0% |
+| Substrate | Samsung Electro-Mechanics | +108,3% | +296,1% | +24,3% | +72,0% | +50,0% | 61,9x | <strong>41,9x</strong> | 11,8% |
+| Substrate | Daeduck Electronics | +206,0% | +188,3% | +334,5% | +375,4% | +34,4% | 36,1x | <strong>27,1x</strong> | 15,5% |
+| Substrate | Simmtech | +351,9% | +103,2% | lỗ→lãi | +1.234,5% | +58,7% | 31,0x | <strong>20,0x</strong> | 8,6% |
+| Substrate | Haesung DS | +140,6% | +57,3% | -18,3% | +99,6% | +36,6% | 20,3x | <strong>15,4x</strong> | 11,4% |
+| Substrate | Isu Petasys | +346,5% | +7,4% | +100,9% | +57,1% | +33,0% | 35,6x | <strong>26,7x</strong> | 21,1% |
 
 ### 2.2 Cách đọc bảng
 
@@ -378,17 +378,17 @@ Nguyên tắc phân bổ:
 
 | Hạng | Tên | Nhận xét một dòng |
 | ---: | --- | --- |
-| 1 | **Daeduck Electronics** | Cân bằng tốt nhất giữa tăng trưởng, vị thế dẫn đầu và định giá. Beta AI MLB / FC-BGA trực tiếp. |
-| 2 | **Simmtech** | Thiết lập tăng trưởng so với PER tốt nhất trên 2027E. Cần mở rộng biên 2026 thêm để xác nhận. |
-| 3 | **Haesung DS** | Ứng viên substrate rẻ nhất. Vị thế dẫn đầu yếu hơn, nhưng giá trị theo tăng trưởng mạnh. |
-| 4 | **SK hynix** | Dẫn đầu bộ nhớ. Rẻ trên màn hình; rủi ro đỉnh chu kỳ là biến số quyết định. |
-| 5 | **TSE** | Giá trị theo tăng trưởng tốt nhất trong nhóm test interface. Nhưng YTD 2026 +215% — đã đang chạy. |
-| 6 | **LEENO Industrial** | Chất lượng hàng đầu, định giá đầy. Tốt nhất là vị trí cốt lõi nắm giữ 1–2 năm. |
-| 7 | **Samsung Electro-Mechanics** | Công ty tuyệt vời, nhưng +296% YTD và PER 2026E 61,9x khiến việc đuổi theo kém hiệu quả. |
-| 8 | **ISC** | Tăng trưởng thực sự, nhưng định giá chặt nhất. Beta AI data-center thuần nhất. |
-| 9 | **Isu Petasys** | Cấu trúc dài hạn mạnh, nhưng +7% YTD — chờ phục hồi sức mạnh tương đối. |
-| 10 | **Samsung Electronics** | Rẻ về con số, nhưng chiết khấu so với SK hynix trong câu chuyện HBM là có thật. |
-| 11 | **Jeju Semiconductor** | Cổ phiếu và lợi nhuận mạnh, nhưng không có đồng thuận 2026–27 → bị loại khỏi so sánh trực tiếp. |
+| 1 | <strong>Daeduck Electronics</strong> | Cân bằng tốt nhất giữa tăng trưởng, vị thế dẫn đầu và định giá. Beta AI MLB / FC-BGA trực tiếp. |
+| 2 | <strong>Simmtech</strong> | Thiết lập tăng trưởng so với PER tốt nhất trên 2027E. Cần mở rộng biên 2026 thêm để xác nhận. |
+| 3 | <strong>Haesung DS</strong> | Ứng viên substrate rẻ nhất. Vị thế dẫn đầu yếu hơn, nhưng giá trị theo tăng trưởng mạnh. |
+| 4 | <strong>SK hynix</strong> | Dẫn đầu bộ nhớ. Rẻ trên màn hình; rủi ro đỉnh chu kỳ là biến số quyết định. |
+| 5 | <strong>TSE</strong> | Giá trị theo tăng trưởng tốt nhất trong nhóm test interface. Nhưng YTD 2026 +215% — đã đang chạy. |
+| 6 | <strong>LEENO Industrial</strong> | Chất lượng hàng đầu, định giá đầy. Tốt nhất là vị trí cốt lõi nắm giữ 1–2 năm. |
+| 7 | <strong>Samsung Electro-Mechanics</strong> | Công ty tuyệt vời, nhưng +296% YTD và PER 2026E 61,9x khiến việc đuổi theo kém hiệu quả. |
+| 8 | <strong>ISC</strong> | Tăng trưởng thực sự, nhưng định giá chặt nhất. Beta AI data-center thuần nhất. |
+| 9 | <strong>Isu Petasys</strong> | Cấu trúc dài hạn mạnh, nhưng +7% YTD — chờ phục hồi sức mạnh tương đối. |
+| 10 | <strong>Samsung Electronics</strong> | Rẻ về con số, nhưng chiết khấu so với SK hynix trong câu chuyện HBM là có thật. |
+| 11 | <strong>Jeju Semiconductor</strong> | Cổ phiếu và lợi nhuận mạnh, nhưng không có đồng thuận 2026–27 → bị loại khỏi so sánh trực tiếp. |
 
 ### 6.2 Danh sách kiểm tra trước khi vào lệnh
 
@@ -522,15 +522,15 @@ Bài KOSPI sụp + cổng vĩ mô:
 
 ## 9. Kết luận một dòng
 
-Ngay trong nhóm "người chiến thắng AI back-end," mức độ giá đã phản ánh bao nhiêu khác nhau rất lớn. **PER thấp đơn độc ≠ hấp dẫn.** PER thấp có thể nghĩa là "thị trường lo ngại chu kỳ đang đỉnh" (bộ nhớ) hoặc "thị trường chưa tin vào" (các mã turnaround).
+Ngay trong nhóm "người chiến thắng AI back-end," mức độ giá đã phản ánh bao nhiêu khác nhau rất lớn. <strong>PER thấp đơn độc ≠ hấp dẫn.</strong> PER thấp có thể nghĩa là "thị trường lo ngại chu kỳ đang đỉnh" (bộ nhớ) hoặc "thị trường chưa tin vào" (các mã turnaround).
 
-Xếp trên một bảng, bức tranh rõ ràng. Trên ma trận **PER × tăng trưởng OP**, các thiết lập sắc nét nhất là **Simmtech, Daeduck Electronics và Haesung DS**. Cả ba đều là mã substrate — điều đó không phải ngẫu nhiên. Substrate đang ở giữa chu kỳ "thiếu hụt → tăng ASP → mở rộng biên."
+Xếp trên một bảng, bức tranh rõ ràng. Trên ma trận <strong>PER × tăng trưởng OP</strong>, các thiết lập sắc nét nhất là <strong>Simmtech, Daeduck Electronics và Haesung DS</strong>. Cả ba đều là mã substrate — điều đó không phải ngẫu nhiên. Substrate đang ở giữa chu kỳ "thiếu hụt → tăng ASP → mở rộng biên."
 
-Trong test socket, **LEENO Industrial là dẫn đầu về chất lượng nhưng định giá đã đầy; ISC là beta AI data-center thuần nhất nhưng mang định giá chặt nhất**. Cho giá trị tốt nhất theo tăng trưởng trên vị trí mới, **TSE** là lựa chọn giá trị.
+Trong test socket, <strong>LEENO Industrial là dẫn đầu về chất lượng nhưng định giá đã đầy; ISC là beta AI data-center thuần nhất nhưng mang định giá chặt nhất</strong>. Cho giá trị tốt nhất theo tăng trưởng trên vị trí mới, <strong>TSE</strong> là lựa chọn giá trị.
 
-Các ông lớn bộ nhớ cho thấy **những con số ấn tượng nhưng cuộc tranh luận đỉnh chu kỳ** nằm ở cốt lõi. PER 2027E 5,2x của SK hynix sẽ ngụ ý rủi ro phá sản trong ngành bình thường; trong bộ nhớ nó nghĩa là "thị trường nghi ngờ tính bền vững của lợi nhuận." Nếu chu kỳ tiếp tục, upside rất lớn; thời điểm nó đảo chiều, định giá tự động mở rộng.
+Các ông lớn bộ nhớ cho thấy <strong>những con số ấn tượng nhưng cuộc tranh luận đỉnh chu kỳ</strong> nằm ở cốt lõi. PER 2027E 5,2x của SK hynix sẽ ngụ ý rủi ro phá sản trong ngành bình thường; trong bộ nhớ nó nghĩa là "thị trường nghi ngờ tính bền vững của lợi nhuận." Nếu chu kỳ tiếp tục, upside rất lớn; thời điểm nó đảo chiều, định giá tự động mở rộng.
 
-**Ở giá hôm nay, thứ tự hợp lý cho vốn mới là substrate > test socket > ông lớn bộ nhớ.** Trong substrate, **Daeduck Electronics (premium vị thế dẫn đầu) và Simmtech (giá trị turnaround)** là rõ ràng nhất. Dù chọn gì, **chỉ vào lệnh theo từng phần sau khi cổng vĩ mô thông**. Mua công ty tốt ở giá đúng mới là công việc thực sự.
+<strong>Ở giá hôm nay, thứ tự hợp lý cho vốn mới là substrate > test socket > ông lớn bộ nhớ.</strong> Trong substrate, <strong>Daeduck Electronics (premium vị thế dẫn đầu) và Simmtech (giá trị turnaround)</strong> là rõ ràng nhất. Dù chọn gì, <strong>chỉ vào lệnh theo từng phần sau khi cổng vĩ mô thông</strong>. Mua công ty tốt ở giá đúng mới là công việc thực sự.
 
 ---
 

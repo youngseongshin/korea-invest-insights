@@ -23,11 +23,11 @@ slug: samsung-electronics-strike-vs-memory-supercycle-2026-05-15
 
 ## Points clés
 
-* **Situation actuelle** : le syndicat de Samsung Electronics a notifié une grève générale du 21 mai au 7 juin. Revendications principales : versement fixe de 15 % du résultat opérationnel de la division DS (semiconducteurs) à titre de prime de performance, plus suppression du plafond à 50 % du salaire de base. Des recours restent possibles : médiation du NLRC le 16 mai, injonctions judiciaires et pouvoir d'arbitrage d'urgence du gouvernement.
-* **Estimations de pertes** : JP Morgan chiffre 21 000 à 35 000 milliards KRW ; les estimations sectorielles citées par Yonhap atteignent jusqu'à 100 000 milliards KRW. Cet écart considérable reflète les inconnues liées au taux de participation, aux perturbations de production et aux délais de redémarrage.
-* **La logique de compensation par les prix** : avec DRAM +58–63 % et NAND +70–75 % au T2, une perte de production de 1–2 % est mathématiquement compensable. JP Morgan maintient son objectif de 350 000 KRW sur cette base.
-* **Mais la compensation est incomplète** : (1) le coût salarial structurel lié à une formule de prime fixe ne peut pas être effacé par les prix ; (2) si les clients transfèrent leurs commandes vers SK hynix ou Micron, Samsung captera une part moindre de la hausse des prix.
-* **La vraie question** : non pas « grève ou pas grève », mais **« comment évolue la formule de partage du profit — c'est cela qui compte pour la valorisation à moyen et long terme ».**
+* <strong>Situation actuelle</strong> : le syndicat de Samsung Electronics a notifié une grève générale du 21 mai au 7 juin. Revendications principales : versement fixe de 15 % du résultat opérationnel de la division DS (semiconducteurs) à titre de prime de performance, plus suppression du plafond à 50 % du salaire de base. Des recours restent possibles : médiation du NLRC le 16 mai, injonctions judiciaires et pouvoir d'arbitrage d'urgence du gouvernement.
+* <strong>Estimations de pertes</strong> : JP Morgan chiffre 21 000 à 35 000 milliards KRW ; les estimations sectorielles citées par Yonhap atteignent jusqu'à 100 000 milliards KRW. Cet écart considérable reflète les inconnues liées au taux de participation, aux perturbations de production et aux délais de redémarrage.
+* <strong>La logique de compensation par les prix</strong> : avec DRAM +58–63 % et NAND +70–75 % au T2, une perte de production de 1–2 % est mathématiquement compensable. JP Morgan maintient son objectif de 350 000 KRW sur cette base.
+* <strong>Mais la compensation est incomplète</strong> : (1) le coût salarial structurel lié à une formule de prime fixe ne peut pas être effacé par les prix ; (2) si les clients transfèrent leurs commandes vers SK hynix ou Micron, Samsung captera une part moindre de la hausse des prix.
+* <strong>La vraie question</strong> : non pas « grève ou pas grève », mais <strong>« comment évolue la formule de partage du profit — c'est cela qui compte pour la valorisation à moyen et long terme ».</strong>
 
 ---
 
@@ -35,7 +35,7 @@ slug: samsung-electronics-strike-vs-memory-supercycle-2026-05-15
 
 ### 1.1 Ampleur de la grève
 
-Le syndicat a notifié une **grève générale de 18 jours** du 21 mai au 7 juin. Jusqu'à **50 000 salariés** sont attendus — le risque de grève le plus important que Samsung Electronics ait jamais connu.
+Le syndicat a notifié une <strong>grève générale de 18 jours</strong> du 21 mai au 7 juin. Jusqu'à <strong>50 000 salariés</strong> sont attendus — le risque de grève le plus important que Samsung Electronics ait jamais connu.
 
 Les sessions de médiation du NLRC des 11 et 12 mai ont échoué dans la nuit du 12 au 13 mai. Position du syndicat : « sans institutionnalisation concrète, il n'y a aucune raison de négocier. »
 
@@ -63,11 +63,11 @@ Pourquoi c'est important :
 
 ### 1.3 Pourquoi ce dossier a explosé
 
-**Premièrement, l'écart de rémunération avec SK hynix.** Après son succès dans l'HBM, SK hynix a significativement augmenté les primes de ses salariés. Au sein du même secteur mémoire, les employés de Samsung se sentent relativement sous-payés.
+<strong>Premièrement, l'écart de rémunération avec SK hynix.</strong> Après son succès dans l'HBM, SK hynix a significativement augmenté les primes de ses salariés. Au sein du même secteur mémoire, les employés de Samsung se sentent relativement sous-payés.
 
-**Deuxièmement, la masse de profit est devenue trop importante pour être ignorée.** Le résultat opérationnel DS du seul T1 atteignait 53 700 milliards KRW avec une marge de 65,7 %. Quand les excédents de profit sont aussi élevés, la question « qui en bénéficie ? » devient politiquement inévitable.
+<strong>Deuxièmement, la masse de profit est devenue trop importante pour être ignorée.</strong> Le résultat opérationnel DS du seul T1 atteignait 53 700 milliards KRW avec une marge de 65,7 %. Quand les excédents de profit sont aussi élevés, la question « qui en bénéficie ? » devient politiquement inévitable.
 
-**Troisièmement, la production en fab est singulièrement fragile.** Une fab de semiconducteurs fonctionne en flux continu 24h/24, 7j/7. Un arrêt signifie des plaquettes mises au rebut, des rendements en baisse et de longs délais de redémarrage. La simple *menace* d'une grève affecte déjà les opérations. Selon la presse, Samsung a entamé un « ralentissement préventif » — réduisant les nouveaux lancements de plaquettes par anticipation.
+<strong>Troisièmement, la production en fab est singulièrement fragile.</strong> Une fab de semiconducteurs fonctionne en flux continu 24h/24, 7j/7. Un arrêt signifie des plaquettes mises au rebut, des rendements en baisse et de longs délais de redémarrage. La simple *menace* d'une grève affecte déjà les opérations. Selon la presse, Samsung a entamé un « ralentissement préventif » — réduisant les nouveaux lancements de plaquettes par anticipation.
 
 ---
 
@@ -109,7 +109,7 @@ ne pas l'appliquer mécaniquement.
 
 ### 3.1 Ce qu'a dit JP Morgan
 
-Dans sa note du 13 mai, JP Morgan (équipe de Jay Kwon) a maintenu **Surpondérer, objectif 350 000 KRW**. Argument central : « les prix de la mémoire sont plus solides qu'attendu et peuvent absorber une grande partie des pertes liées à la grève. »
+Dans sa note du 13 mai, JP Morgan (équipe de Jay Kwon) a maintenu <strong>Surpondérer, objectif 350 000 KRW</strong>. Argument central : « les prix de la mémoire sont plus solides qu'attendu et peuvent absorber une grande partie des pertes liées à la grève. »
 
 | Élément | JP Morgan |
 | --- | ---: |
@@ -137,7 +137,7 @@ Si la perte de production est de 1–2 % :
 ∴ Pour la perte de production DIRECTE seule, le calcul se compense sans problème.
 ```
 
-Le calcul plus important — le gain de prix **« excédentaire »** par rapport aux anticipations antérieures :
+Le calcul plus important — le gain de prix <strong>« excédentaire »</strong> par rapport aux anticipations antérieures :
 
 ```
 Anticipation antérieure : DRAM +45 %, NAND +45 % (milieu de fourchette)
@@ -154,9 +154,9 @@ NAND : 1,725 / 1,45 - 1 = +19,0 %
 
 ### 3.3 Ce qui est juste et ce qui manque
 
-**Ce qui est juste** : la perte de production directe (\~1–2 % du chiffre d'affaires DS) est largement couverte par les gains de prix. Les estimations T2 pourraient même être révisées en hausse. **Pour les résultats à court terme, la logique de JP Morgan tient.**
+<strong>Ce qui est juste</strong> : la perte de production directe (\~1–2 % du chiffre d'affaires DS) est largement couverte par les gains de prix. Les estimations T2 pourraient même être révisées en hausse. <strong>Pour les résultats à court terme, la logique de JP Morgan tient.</strong>
 
-**Trois lacunes** :
+<strong>Trois lacunes</strong> :
 
 ```
 1. Le coût salarial structurel n'est pas un problème de « prix ».
@@ -194,10 +194,10 @@ NAND : 1,725 / 1,45 - 1 = +19,0 %
 
 | Date | Événement | Importance |
 | --- | --- | --- |
-| **15 mai, 10h00** | Délai de réponse du PDG au syndicat | Le ton peut basculer ici |
-| **16 mai** | Réouverture de la médiation de suivi du NLRC | Dernière fenêtre de négociation formelle |
-| **Vers le 20 mai** | Décision du tribunal sur l'injonction | Exclusion ou non des travailleurs essentiels |
-| **21 mai** | Date de début de la grève | Le taux de participation réel est le facteur décisif |
+| <strong>15 mai, 10h00</strong> | Délai de réponse du PDG au syndicat | Le ton peut basculer ici |
+| <strong>16 mai</strong> | Réouverture de la médiation de suivi du NLRC | Dernière fenêtre de négociation formelle |
+| <strong>Vers le 20 mai</strong> | Décision du tribunal sur l'injonction | Exclusion ou non des travailleurs essentiels |
+| <strong>21 mai</strong> | Date de début de la grève | Le taux de participation réel est le facteur décisif |
 
 ### 4.2 Un arrêt total est peu probable
 
@@ -218,7 +218,7 @@ Coupe-feu 4 : les intérêts propres des deux parties
 → Gouvernement : les semi-conducteurs représentaient 37 % des exportations d'avril — enjeu économique national
 ```
 
-**Scénario de base : un arrêt complet sera vraisemblablement évité.** Mais « pas d'arrêt » et « pas de risque » sont deux affirmations différentes.
+<strong>Scénario de base : un arrêt complet sera vraisemblablement évité.</strong> Mais « pas d'arrêt » et « pas de risque » sont deux affirmations différentes.
 
 ---
 
@@ -228,9 +228,9 @@ Coupe-feu 4 : les intérêts propres des deux parties
 
 | Scénario | Description | Impact sur le cours |
 | --- | --- | --- |
-| **A. Accord / suspension** | Grève évitée via la médiation du NLRC ou l'intervention gouvernementale. La prime reste dans le cadre OPI existant + versement spécial | **Rebond à court terme** — prime de risque effacée, le cycle mémoire revient au premier plan |
-| **B. Grève partielle** | Certains salariés débrayent ; lignes critiques maintenues ; participation modeste | **Neutre à légèrement négatif** — bruit persistant, impact limité sur les résultats |
-| **C. Grève majeure** | Le personnel critique DS participe ; le ralentissement préventif s'accentue ; les clients réallouent | **Correction significative** — révisions des estimations à la baisse et dé-rating des multiples |
+| <strong>A. Accord / suspension</strong> | Grève évitée via la médiation du NLRC ou l'intervention gouvernementale. La prime reste dans le cadre OPI existant + versement spécial | <strong>Rebond à court terme</strong> — prime de risque effacée, le cycle mémoire revient au premier plan |
+| <strong>B. Grève partielle</strong> | Certains salariés débrayent ; lignes critiques maintenues ; participation modeste | <strong>Neutre à légèrement négatif</strong> — bruit persistant, impact limité sur les résultats |
+| <strong>C. Grève majeure</strong> | Le personnel critique DS participe ; le ralentissement préventif s'accentue ; les clients réallouent | <strong>Correction significative</strong> — révisions des estimations à la baisse et dé-rating des multiples |
 
 ### 5.2 Plus important que le scénario — la STRUCTURE de l'accord sur les primes
 
@@ -250,7 +250,7 @@ Pire cas (défavorable aux actionnaires) :
 → Baisse structurelle du ROIC à long terme
 ```
 
-**La façon dont cette formule sera décidée compte davantage pour la valorisation à moyen et long terme de Samsung que la survenue ou non de la grève.** Une grève qui se termine en un jour verrouille quand même une économie actionnaire dégradée si la prime est fixée à 15 %.
+<strong>La façon dont cette formule sera décidée compte davantage pour la valorisation à moyen et long terme de Samsung que la survenue ou non de la grève.</strong> Une grève qui se termine en un jour verrouille quand même une économie actionnaire dégradée si la prime est fixée à 15 %.
 
 ---
 
@@ -267,7 +267,7 @@ Comme traité dans l'article précédent :
 
 | Courtier | Résultat opérationnel T2 | Objectif de cours |
 | --- | ---: | ---: |
-| Kiwoom Securities | **100 000 Mds KRW** | 330 000 KRW |
+| Kiwoom Securities | <strong>100 000 Mds KRW</strong> | 330 000 KRW |
 | Yuanta Securities | 86 800 Mds KRW | 340 000 KRW |
 | JP Morgan | — | 350 000 KRW |
 
@@ -293,12 +293,12 @@ Potentiel de +11,5 % face à un risque d'événement réel :
 
 | # | Événement | Quoi vérifier |
 | ---: | --- | --- |
-| 1 | **15 mai, 10h00** Réponse du PDG | Réaction syndicale — possibilité de rouvrir les discussions |
-| 2 | **16 mai** Médiation NLRC | Une proposition intermédiaire sur les primes émerge-t-elle ? |
-| 3 | **Vers le 20 mai** Décision judiciaire | Périmètre d'exclusion des travailleurs essentiels |
-| 4 | **21 mai** Début de la grève | Participation effective, impact sur les lignes critiques DS |
-| 5 | Après la grève | **Lancements de plaquettes, retards d'expédition, changements d'allocation clients** |
-| 6 | Accord sur les primes | **Ratio fixe vs discrétionnaire** — détermine le ROIC à long terme |
+| 1 | <strong>15 mai, 10h00</strong> Réponse du PDG | Réaction syndicale — possibilité de rouvrir les discussions |
+| 2 | <strong>16 mai</strong> Médiation NLRC | Une proposition intermédiaire sur les primes émerge-t-elle ? |
+| 3 | <strong>Vers le 20 mai</strong> Décision judiciaire | Périmètre d'exclusion des travailleurs essentiels |
+| 4 | <strong>21 mai</strong> Début de la grève | Participation effective, impact sur les lignes critiques DS |
+| 5 | Après la grève | <strong>Lancements de plaquettes, retards d'expédition, changements d'allocation clients</strong> |
+| 6 | Accord sur les primes | <strong>Ratio fixe vs discrétionnaire</strong> — détermine le ROIC à long terme |
 
 ---
 
@@ -328,13 +328,13 @@ Article sur le sommet États-Unis–Chine :
 
 ## 9. La conclusion en une ligne
 
-La grève de Samsung Electronics ne porte pas vraiment sur « les fabs vont-elles s'arrêter ». Elle porte sur **« qui s'approprie le profit exceptionnel du supercycle mémoire — les salariés ou les actionnaires ».**
+La grève de Samsung Electronics ne porte pas vraiment sur « les fabs vont-elles s'arrêter ». Elle porte sur <strong>« qui s'approprie le profit exceptionnel du supercycle mémoire — les salariés ou les actionnaires ».</strong>
 
-À court terme, la logique de JP Morgan tient : avec DRAM +60 % et NAND +73 %, une perte de production de 1–2 % est mathématiquement compensée. Mais si 15 % du résultat opérationnel DS est verrouillé en prime fixe, il ne s'agit pas d'un coût trimestriel à « compenser » — c'est un **changement dans la façon dont le profit est partagé**. Et si les clients transfèrent leurs allocations HBM et DRAM serveur vers SK hynix ou Micron, Samsung capte moins de la hausse, même si les prix continuent de progresser.
+À court terme, la logique de JP Morgan tient : avec DRAM +60 % et NAND +73 %, une perte de production de 1–2 % est mathématiquement compensée. Mais si 15 % du résultat opérationnel DS est verrouillé en prime fixe, il ne s'agit pas d'un coût trimestriel à « compenser » — c'est un <strong>changement dans la façon dont le profit est partagé</strong>. Et si les clients transfèrent leurs allocations HBM et DRAM serveur vers SK hynix ou Micron, Samsung capte moins de la hausse, même si les prix continuent de progresser.
 
 Un arrêt complet est peu probable — la médiation du NLRC, les injonctions judiciaires et le pouvoir d'arbitrage d'urgence du gouvernement constituent autant de coupe-feu. Mais « pas d'arrêt » et « pas de risque » ne signifient pas la même chose. Les porteurs n'ont pas à surréagir ; les acheteurs potentiels ont tout intérêt à attendre le résultat de la médiation du 16 mai et la décision de grève du 21 mai.
 
-**Ce dont on a besoin aujourd'hui, c'est de gérer le risque d'événement, pas de faire preuve de courage.**
+<strong>Ce dont on a besoin aujourd'hui, c'est de gérer le risque d'événement, pas de faire preuve de courage.</strong>
 
 ---
 

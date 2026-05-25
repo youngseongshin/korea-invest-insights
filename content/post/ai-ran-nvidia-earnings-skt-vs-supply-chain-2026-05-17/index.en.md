@@ -26,27 +26,27 @@ valley_cashtags:
   - KMW
 ---
 
-> 📚 **Related Series**
+> 📚 <strong>Related Series</strong>
 > [SK Telecom Re-rating: From Dividend Stock to AI Infrastructure Operator](/post/sk-telecom-rerating-ai-infrastructure-operator-2026-04-25/) / [Next Week's Google I/O and NVIDIA Earnings Preview](/post/google-io-nvidia-earnings-korea-semi-preview-2026-05-17/) / [AI Advanced Packaging Data Comparison](/post/ai-substrate-test-socket-data-comparison-2026-05-16/) / [Samsung Electronics TSMC-Style Re-rating](/post/samsung-electronics-tsmc-rerating-thesis-2026-05-16/)
 
 *NVIDIA's FY2027 Q1 earnings call lands in the early hours of May 21. "AI-RAN" could surface on that call, and the Korean market's reflexive response will be to reach for SK Telecom. SKT sits inside NVIDIA's Global 6G Coalition of twelve carriers, its AIDC revenue grew 89% YoY, and foreign investors have been buying. Even so, "AI-RAN theme = buy SKT" is the most common and least efficient inference you can make. Why? The three carriers NVIDIA called out by name at MWC 2026 were T-Mobile, SoftBank, and Indosat Ooredoo Hutchison — SKT was not on that list. More fundamentally, the economic value of AI-RAN accrues to GPUs, memory, vRAN software, RU/RF components, and optical interconnects before it ever reaches the operator. Real alpha begins not with the word "AI-RAN" but with the question: where does the money actually go?*
 
 ## Key Takeaways
 
-* **Upcoming event**: NVIDIA FY2027 Q1 earnings call at 6:00 a.m. KST on Thursday, May 21.
-* **AI-RAN mention probability**: telecom/Aerial/wireless general mention 70–80%; direct "AI-RAN" reference 50–60%; specific carrier named 15–25%; **SKT named directly 5–15%**.
-* **The market's reflex**: AI-RAN mention → buy SKT. This is the most common trap.
-* **Reality**: NVIDIA's MWC 2026 field-trial carriers = T-Mobile, SoftBank, IOH. **SKT was not among them.**
-* **AI-RAN economic-value waterfall**:
-  * **Layer 1 — largest pool**: GPU/HBM/memory (NVIDIA → SK hynix, Samsung Electronics)
-  * **Layer 2**: vRAN/network equipment (Samsung Networks, Nokia, Ericsson)
-  * **Layer 3**: RU/RF/power amplifiers (RFHIC, KMW)
-  * **Layer 4**: optical interconnects/CPO (Oi Solutions, Bit&Electron)
-  * **Layer 5 — CAPEX spender**: SK Telecom, T-Mobile, SoftBank
-* **SKT's real investment case**: not AI-RAN, but **AIDC + GPUaaS + sovereign AI**. Q1 2026 AIDC revenue of KRW 131.4 bn is already visible on the income statement.
-* **Actionable conclusions**:
+* <strong>Upcoming event</strong>: NVIDIA FY2027 Q1 earnings call at 6:00 a.m. KST on Thursday, May 21.
+* <strong>AI-RAN mention probability</strong>: telecom/Aerial/wireless general mention 70–80%; direct "AI-RAN" reference 50–60%; specific carrier named 15–25%; <strong>SKT named directly 5–15%</strong>.
+* <strong>The market's reflex</strong>: AI-RAN mention → buy SKT. This is the most common trap.
+* <strong>Reality</strong>: NVIDIA's MWC 2026 field-trial carriers = T-Mobile, SoftBank, IOH. <strong>SKT was not among them.</strong>
+* <strong>AI-RAN economic-value waterfall</strong>:
+  * <strong>Layer 1 — largest pool</strong>: GPU/HBM/memory (NVIDIA → SK hynix, Samsung Electronics)
+  * <strong>Layer 2</strong>: vRAN/network equipment (Samsung Networks, Nokia, Ericsson)
+  * <strong>Layer 3</strong>: RU/RF/power amplifiers (RFHIC, KMW)
+  * <strong>Layer 4</strong>: optical interconnects/CPO (Oi Solutions, Bit&Electron)
+  * <strong>Layer 5 — CAPEX spender</strong>: SK Telecom, T-Mobile, SoftBank
+* <strong>SKT's real investment case</strong>: not AI-RAN, but <strong>AIDC + GPUaaS + sovereign AI</strong>. Q1 2026 AIDC revenue of KRW 131.4 bn is already visible on the income statement.
+* <strong>Actionable conclusions</strong>:
   * SKT: Hold / new positions → Wait. The stock has already rallied YTD; chasing is inefficient.
-  * Supply-chain priority: **Samsung Electronics core > RFHIC conditional > Oi Solutions as option > KMW on hold > small-cap optical as speculation**.
+  * Supply-chain priority: <strong>Samsung Electronics core > RFHIC conditional > Oi Solutions as option > KMW on hold > small-cap optical as speculation</strong>.
   * Most rational portfolio structure: large-cap memory as core + RFHIC/Oi Solutions as satellites.
 
 ## 1. The "Automatic Reflex" Trap
@@ -110,27 +110,27 @@ In other words: the linkage is thin, and much of it is already in the price. Bet
 
 NVIDIA singled out three carriers as first-name field-trial partners at MWC 2026.
 
-**1. T-Mobile US**
+<strong>1. T-Mobile US</strong>
 
 A proof-of-concept running video streaming, generative AI queries, and video captioning simultaneously using Nokia AirScale Massive MIMO and a single GH200, with over-the-air validation at the Seattle AI-RAN Innovation Center.
 
-**2. SoftBank (AITRAS)**
+<strong>2. SoftBank (AITRAS)</strong>
 
 World-first 16-layer Multi-User MIMO downlink, fully software-defined 5G vRAN, and 3× spectral efficiency versus a conventional 4-layer configuration. Of all carriers, SoftBank has the most advanced AI-RAN commercialization story.
 
-**3. Indosat Ooredoo Hutchison (IOH)**
+<strong>3. Indosat Ooredoo Hutchison (IOH)</strong>
 
 Southeast Asia's first AI-RAN-powered Layer 3 5G call, live remote control of a robot dog over a live 5G network, and pre-commercial validation milestone.
 
-The key point is simple: **SKT was not among these three.** SKT appears in group mentions, but it was not a carrier NVIDIA cited with a concrete field-trial use case.
+The key point is simple: <strong>SKT was not among these three.</strong> SKT appears in group mentions, but it was not a carrier NVIDIA cited with a concrete field-trial use case.
 
 ### 2.2 NVIDIA's Korea-Related Marquee Announcements Were Elsewhere
 
 NVIDIA's most prominent Korea-related announcements at MWC 2026 split into two tracks — neither of which is AI-RAN per se.
 
-The first was the **Supermicro SKT Haein cluster**: a deployment of 1,000+ AI servers. This is AI datacenter and sovereign AI infrastructure, not AI-RAN.
+The first was the <strong>Supermicro SKT Haein cluster</strong>: a deployment of 1,000+ AI servers. This is AI datacenter and sovereign AI infrastructure, not AI-RAN.
 
-The second was **Samsung Electronics vRAN demo**: an AI-MIMO beamforming demonstration using Samsung's own vRAN software, NVIDIA Grace CPU, and L4 GPUs in a multi-cell test environment.
+The second was <strong>Samsung Electronics vRAN demo</strong>: an AI-MIMO beamforming demonstration using Samsung's own vRAN software, NVIDIA Grace CPU, and L4 GPUs in a multi-cell test environment.
 
 From an AI-RAN standpoint, the Korean company NVIDIA most explicitly highlighted as a partner was Samsung Networks, not SK Telecom. SKT connects more directly through the AIDC lens. These are different theses.
 
@@ -161,27 +161,27 @@ SKT is closer to a future-vision leader. As a short-term revenue beta, it is wea
 
 When one unit of AI-RAN infrastructure is deployed, spending flows through roughly five layers.
 
-**Layer 1 — GPU/HBM/Memory: the largest pool**
+<strong>Layer 1 — GPU/HBM/Memory: the largest pool</strong>
 
 NVIDIA GB200/GB300, L4, RTX Pro GPUs and Grace CPUs, along with HBM and DRAM inside those chips, are the heart of the system. Revenue accrues to NVIDIA and its memory supply chain — SK hynix and Samsung Electronics. This layer could absorb 40–50% of total AI-RAN CAPEX.
 
-**Layer 2 — vRAN/Network Software**
+<strong>Layer 2 — vRAN/Network Software</strong>
 
 5G/6G vRAN stacks, AI channel estimation, schedulers, and network optimization software live here. Samsung Networks, Nokia, and Ericsson are the key players, accounting for roughly 15–20% of CAPEX.
 
-**Layer 3 — RU/RF/Power Amplifiers**
+<strong>Layer 3 — RU/RF/Power Amplifiers</strong>
 
 Radio units, GaN PAs, filters, antennas, and mMIMO hardware. RFHIC, KMW, and the RU divisions of Nokia and Ericsson are involved. Share: roughly 10–15%.
 
-**Layer 4 — Optical Interconnects/CPO**
+<strong>Layer 4 — Optical Interconnects/CPO</strong>
 
 800G/1.6T optical transceivers, ELSFP, CPO, Spectrum-X, and ConnectX-class networking. NVIDIA on one end; Oi Solutions, Bit&Electron, and Lycom on the Korean supply side. Share: roughly 5–10%.
 
-**Layer 5 — Operators / CAPEX Spenders**
+<strong>Layer 5 — Operators / CAPEX Spenders</strong>
 
 SK Telecom, T-Mobile, SoftBank, and IOH sit here. Their role is to buy layers 1–4. Revenue may eventually return to them through network efficiency gains and future edge AI service monetization — but from a pure AI-RAN CAPEX perspective, they are cost centers.
 
-This is the most important insight. **Operators are not the ones receiving the money. They are the ones spending it.**
+This is the most important insight. <strong>Operators are not the ones receiving the money. They are the ones spending it.</strong>
 
 ### 3.2 Why Operators Trend Toward Cost Centers
 
@@ -293,17 +293,17 @@ Why foreigners are buying requires separate analysis — it could be a mix of AI
 
 | Rank | Name | Code | AI-RAN Direct Exposure | NVIDIA Beta | Fundamentals | View |
 |---:|---|---|---|---|---|---|
-| 1 | **Samsung Electronics** | 005930 | High (vRAN + HBM) | Very High | Strong | Watchlist → Buy on dip |
-| 2 | **SK hynix** | 000660 | Medium (HBM indirect) | Very High | Strong | Hold / avoid chasing |
-| 3 | **RFHIC** | 218410 | Very High (GaN RU) | Indirect | Strong (Q1 2026 OPM 18%) | Wait (valuation stretched) |
-| 4 | **Oi Solutions** | 138080 | High (1.6T optical) | Indirect | Turnaround in progress | Watchlist (conditional) |
-| 5 | **KMW** | 032500 | High (mMIMO) | Indirect | Weak (operating loss) | Avoid until earnings turn |
-| 6 | **Bit&Electron / Lycom** | — | Medium (optical module) | Indirect | Weak | Speculative only |
-| Reference | **SK Telecom** | 017670 | Low (operator) | Indirect | AIDC growth | Hold / new → Wait |
+| 1 | <strong>Samsung Electronics</strong> | 005930 | High (vRAN + HBM) | Very High | Strong | Watchlist → Buy on dip |
+| 2 | <strong>SK hynix</strong> | 000660 | Medium (HBM indirect) | Very High | Strong | Hold / avoid chasing |
+| 3 | <strong>RFHIC</strong> | 218410 | Very High (GaN RU) | Indirect | Strong (Q1 2026 OPM 18%) | Wait (valuation stretched) |
+| 4 | <strong>Oi Solutions</strong> | 138080 | High (1.6T optical) | Indirect | Turnaround in progress | Watchlist (conditional) |
+| 5 | <strong>KMW</strong> | 032500 | High (mMIMO) | Indirect | Weak (operating loss) | Avoid until earnings turn |
+| 6 | <strong>Bit&Electron / Lycom</strong> | — | Medium (optical module) | Indirect | Weak | Speculative only |
+| Reference | <strong>SK Telecom</strong> | 017670 | Low (operator) | Indirect | AIDC growth | Hold / new → Wait |
 
 ### 5.2 Name-by-Name Thesis Summary
 
-**Samsung Electronics — #1 priority**
+<strong>Samsung Electronics — #1 priority</strong>
 
 Samsung Electronics has three layers of AI-RAN exposure: HBM and DRAM that go into NVIDIA servers; Samsung Networks vRAN software; and AI-MIMO algorithms validated in a multi-cell NVIDIA-based test environment.
 
@@ -311,7 +311,7 @@ The appeal is cross-layer exposure to the entire AI-RAN stack, with a memory sup
 
 Risks include the May 21 labor strike, a secondary position to SK hynix in HBM market share, and the integrated-device-manufacturer discount. The call is to hold on the watchlist and accumulate in tranches after macro stabilizes. If the strike resolves and NVIDIA beats simultaneously, the case for adding weight strengthens.
 
-**RFHIC — #3 priority, conditional**
+<strong>RFHIC — #3 priority, conditional</strong>
 
 RFHIC supplies GaN packages for RU power amplifiers and sits inside Samsung Networks' equipment supply chain, benefiting from 5G, AI-RAN, and defense simultaneously.
 
@@ -319,17 +319,17 @@ Q1 2026: revenue KRW 43.1 bn, operating profit KRW 7.7 bn, OPM 18% — the turna
 
 The issue is valuation: roughly 60× 2026E P/E and roughly 40× 2027E P/E means a great deal of expectation is already embedded. A better entry point would follow a new order announcement or a price pullback.
 
-**Oi Solutions — #4 priority, option**
+<strong>Oi Solutions — #4 priority, option</strong>
 
 Oi Solutions is exposed to 1.6 Tbps OSFP optical transceivers for AI datacenters, ELSFP for CPO applications, and AI-RAN fronthaul/backhaul optical interconnects.
 
 Positives: expected to turn profitable in 2026, growing datacom mix, simultaneous exposure to AI-RAN and AI datacenters. But ELSFP volume production visibility matters more from 2027 onward, and recent price volatility has been elevated. A more measured approach is to wait for Q3 2026 ELSFP sampling confirmation before entering.
 
-**KMW — #5 priority, on hold**
+<strong>KMW — #5 priority, on hold</strong>
 
 KMW carries C-band 64TRx 640W mMIMO, antenna, filter, and RU beta. But Q1 2026 revenue was KRW 21.5 bn with an operating loss of KRW 5.7 bn — fundamental proof remains weak. With a lossmaking company trading at an elevated P/B, chasing before a quarterly profit turn is not advisable.
 
-**Small-cap optical names — #6 priority, speculative**
+<strong>Small-cap optical names — #6 priority, speculative</strong>
 
 Bit&Electron, Lycom, and similar companies unveiled 1.6T optical transceivers, 100G ER1 Bidi, and 6G fronthaul products at OFC 2026. But the gap between product introduction and volume production revenue is wide. A safer posture for long-oriented investors is to wait for confirmed order announcements before sizing in.
 
@@ -373,7 +373,7 @@ AIDC and GPUaaS are far more direct catalysts than AI-RAN. At current prices, ho
 | "AI-RAN deployments with operators" | Medium | Medium | Medium |
 | "Samsung Networks validation" | Medium | Strong (Samsung Electronics direct) | Strong |
 | "Operator deployment with SoftBank/T-Mobile" | Weak | Strong (equipment names) | Strong |
-| "Operator deployment with SK Telecom" | **Very Strong** | Strong | Very Strong |
+| "Operator deployment with SK Telecom" | <strong>Very Strong</strong> | Strong | Very Strong |
 | "Commercial revenue from AI-RAN" | Strong | Strong (broad) | Very Strong |
 
 The highest-probability scenario is a general Aerial/telecom/wireless reference plus coalition group mentions. In that case, SKT's near-term move may be noise, while the supply chain — Samsung Electronics in particular — could see a more meaningful reaction.
@@ -384,19 +384,19 @@ Another low-probability scenario: a direct Samsung Networks callout. The share-p
 
 ### 6.2 Practical Trading Guide
 
-**Scenario A: SKT named directly — probability 5–15%**
+<strong>Scenario A: SKT named directly — probability 5–15%</strong>
 
 Short-term +5–10% possible. Existing holders can consider trimming; new buyers should not chase. The better entry is after the post-announcement dip.
 
-**Scenario B: AI-RAN mentioned directly — probability 50–60%**
+<strong>Scenario B: AI-RAN mentioned directly — probability 50–60%</strong>
 
 Elevated volatility across the supply chain. SKT likely sees a noise-level response. Samsung Electronics on a pullback is the more rational buy. Avoid chasing Oi Solutions or KMW immediately after any spike.
 
-**Scenario C: General telecom mention — probability 70–80%**
+<strong>Scenario C: General telecom mention — probability 70–80%</strong>
 
 Most likely outcome is no meaningful market reaction. Revert to fundamentals-based decision-making. There is no reason to buy on the word alone.
 
-**Scenario D: AI-RAN/telecom not mentioned — probability 10–20%**
+<strong>Scenario D: AI-RAN/telecom not mentioned — probability 10–20%</strong>
 
 The AI-RAN theme may cool temporarily. This could actually create an opportunity to build positions in supply-chain names such as Samsung Electronics and RFHIC at better prices.
 
@@ -436,37 +436,37 @@ Given that the stock is significantly above its 52-week low, new buyers are bett
 
 It depends on your holding horizon and volatility tolerance.
 
-**Defensive**: Samsung Electronics and SK hynix as the core. Lower direct AI-RAN exposure, but the safest names in the basket.
+<strong>Defensive</strong>: Samsung Electronics and SK hynix as the core. Lower direct AI-RAN exposure, but the safest names in the basket.
 
-**Balanced**: Samsung Electronics as core with a partial allocation to Oi Solutions, RFHIC, and SK hynix. Balances direct AI-RAN exposure and stability.
+<strong>Balanced</strong>: Samsung Electronics as core with a partial allocation to Oi Solutions, RFHIC, and SK hynix. Balances direct AI-RAN exposure and stability.
 
-**Aggressive**: A blend of RFHIC, Oi Solutions, Samsung Electronics, KMW, and small-cap optical names. In this case, clearing a macro gate and using tranche-based entries are essential.
+<strong>Aggressive</strong>: A blend of RFHIC, Oi Solutions, Samsung Electronics, KMW, and small-cap optical names. In this case, clearing a macro gate and using tranche-based entries are essential.
 
 The common principle: avoid over-concentrating in any single name. AI-RAN is still in early commercialization, so a basket structured around value-accrual layers is more rational than a single-name bet.
 
 ## 8. How This Piece Connects to the Series
 
-The **Google I/O + NVIDIA Earnings Preview** covered next week's event schedule and the significance of NVIDIA's Q2 guidance. This piece extracts only the AI-RAN portion and expands it through a Korean supply-chain lens.
+The <strong>Google I/O + NVIDIA Earnings Preview</strong> covered next week's event schedule and the significance of NVIDIA's Q2 guidance. This piece extracts only the AI-RAN portion and expands it through a Korean supply-chain lens.
 
-The **SK Telecom Re-rating** piece argued that SKT's real identity is not a dividend stock but an AIDC, GPUaaS, and sovereign AI infrastructure operator. This piece maintains that thesis while adding a caution: chasing SKT as a pure AI-RAN play is inefficient.
+The <strong>SK Telecom Re-rating</strong> piece argued that SKT's real identity is not a dividend stock but an AIDC, GPUaaS, and sovereign AI infrastructure operator. This piece maintains that thesis while adding a caution: chasing SKT as a pure AI-RAN play is inefficient.
 
-The **AI Advanced Packaging Data Comparison** piece mapped structural differences across memory, substrate, and test-socket layers. The same principle applies to the AI-RAN supply chain — what matters is not the label but where the money sticks.
+The <strong>AI Advanced Packaging Data Comparison</strong> piece mapped structural differences across memory, substrate, and test-socket layers. The same principle applies to the AI-RAN supply chain — what matters is not the label but where the money sticks.
 
-The **Samsung Electronics TSMC-Style Re-rating** piece examined whether Samsung Electronics can be reclassified from a memory-cycle name to an integrated AI platform. Samsung Networks vRAN is one small option within that reclassification thesis.
+The <strong>Samsung Electronics TSMC-Style Re-rating</strong> piece examined whether Samsung Electronics can be reclassified from a memory-cycle name to an integrated AI platform. Samsung Networks vRAN is one small option within that reclassification thesis.
 
 ## 9. The Bottom Line
 
 AI-RAN could come up on next week's NVIDIA earnings call. The market's reflex will be to buy SK Telecom. That reflex is the most common and least efficient inference available.
 
-Why? At MWC 2026, NVIDIA named T-Mobile, SoftBank, and Indosat Ooredoo Hutchison as its marquee field-trial carriers. SKT was not on that list. More fundamentally, **AI-RAN's economic value flows to GPUs, memory, vRAN equipment, RU components, and optical interconnects — not to the operator.** Operators are the CAPEX spenders. They are on the paying side of the equation. The pattern that repeated through 2G, 3G, 4G, and 5G is highly likely to repeat through 6G and AI-RAN.
+Why? At MWC 2026, NVIDIA named T-Mobile, SoftBank, and Indosat Ooredoo Hutchison as its marquee field-trial carriers. SKT was not on that list. More fundamentally, <strong>AI-RAN's economic value flows to GPUs, memory, vRAN equipment, RU components, and optical interconnects — not to the operator.</strong> Operators are the CAPEX spenders. They are on the paying side of the equation. The pattern that repeated through 2G, 3G, 4G, and 5G is highly likely to repeat through 6G and AI-RAN.
 
 The real priority order for Korea's AI-RAN supply chain is: Samsung Electronics (memory + vRAN simultaneously) > SK hynix (HBM indirect) > RFHIC (GaN RU direct) > Oi Solutions (optical interconnect option) > KMW (mMIMO beta) > small-cap optical (speculative). SKT sits at the back of this queue, in the operator seat.
 
-SKT does have genuine appeal. But that appeal comes from **AIDC + GPUaaS + sovereign AI**, not from AI-RAN. Q1 2026 AIDC revenue of KRW 131.4 bn growing 89% YoY is the evidence. At roughly 3.0% of consolidated revenue, however, it takes 2–3 years to reach a meaningful group-level contribution. At current prices, waiting for a pullback is more rational than entering now.
+SKT does have genuine appeal. But that appeal comes from <strong>AIDC + GPUaaS + sovereign AI</strong>, not from AI-RAN. Q1 2026 AIDC revenue of KRW 131.4 bn growing 89% YoY is the evidence. At roughly 3.0% of consolidated revenue, however, it takes 2–3 years to reach a meaningful group-level contribution. At current prices, waiting for a pullback is more rational than entering now.
 
 Three practical actions: First, if NVIDIA names SK Telecom directly on the call, existing holders trim; new buyers do not chase. Second, if Samsung Networks validation or AI-RAN commercial deployment is mentioned, revisit Samsung Electronics and RFHIC after 1–2 days of price settlement. Third, if it is a generic "telecom is next" comment, revert to fundamentals and hold off on chasing any AI-RAN theme name.
 
-**Real alpha does not start with the word "AI-RAN." It starts with asking where the economic value accrues.** Ask that question precisely and the answer becomes clear: supply chain, not operator. And within the supply chain, large-cap memory as core plus RU and optical as satellites is the most rational structure. Buying the theme label is the fastest path to losses; understanding the value-accrual architecture is the path that lasts.
+<strong>Real alpha does not start with the word "AI-RAN." It starts with asking where the economic value accrues.</strong> Ask that question precisely and the answer becomes clear: supply chain, not operator. And within the supply chain, large-cap memory as core plus RU and optical as satellites is the most rational structure. Buying the theme label is the fastest path to losses; understanding the value-accrual architecture is the path that lasts.
 
 ---
 

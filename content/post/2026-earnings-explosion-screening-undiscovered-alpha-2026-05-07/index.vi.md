@@ -21,19 +21,19 @@ tags:
   - "alpha vốn hóa nhỏ"
 ---
 
-> 🔗 **Bài liên quan**: [Korea Daily Market Hub](/page/korea-daily-market-hub/) · [Korean Semis Rally May 6](/post/korean-semis-rally-may-6-samsung-sk-hynix-substrate-equipment-2026-05-07/) · [Korea Semiconductor HBM Hub](/page/korea-semiconductor-hbm-kospi-hub/)
+> 🔗 <strong>Bài liên quan</strong>: [Korea Daily Market Hub](/page/korea-daily-market-hub/) · [Korean Semis Rally May 6](/post/korean-semis-rally-may-6-samsung-sk-hynix-substrate-equipment-2026-05-07/) · [Korea Semiconductor HBM Hub](/page/korea-semiconductor-hbm-kospi-hub/)
 
-*Sàng lọc cổ phiếu Hàn Quốc theo điều kiện `(2025 OP > 0) ∧ (2025 NI > 0) ∧ (2026F OP > 0) ∧ (2026F NI > 0) ∧ (2026F OP growth ≥ +80%) ∧ (2026F NI growth ≥ +80%)` cho ra **67 kết quả**. Điều đáng chú ý: hầu hết đã tăng giá. Câu hỏi phân tích khó hơn không phải là "tôi nên mua cổ phiếu nào từ kết quả bộ lọc?" mà là "trong 67 cổ phiếu đó, alpha còn lại nằm ở đâu và vì sao?" Bài viết này lấy FnGuide làm trường hợp tham chiếu cho trạng thái 'sau khi được thị trường phát hiện,' rồi phân tích chuyên sâu ba cổ phiếu có hồ sơ 'chưa được thị trường chú ý' rõ nét nhất: QRT (kiểm định độ tin cậy bán dẫn), BCnC (nội địa hóa vật liệu nền bán dẫn), và Wirenet (thiết bị truyền dẫn 5G-SA).*
+*Sàng lọc cổ phiếu Hàn Quốc theo điều kiện `(2025 OP > 0) ∧ (2025 NI > 0) ∧ (2026F OP > 0) ∧ (2026F NI > 0) ∧ (2026F OP growth ≥ +80%) ∧ (2026F NI growth ≥ +80%)` cho ra <strong>67 kết quả</strong>. Điều đáng chú ý: hầu hết đã tăng giá. Câu hỏi phân tích khó hơn không phải là "tôi nên mua cổ phiếu nào từ kết quả bộ lọc?" mà là "trong 67 cổ phiếu đó, alpha còn lại nằm ở đâu và vì sao?" Bài viết này lấy FnGuide làm trường hợp tham chiếu cho trạng thái 'sau khi được thị trường phát hiện,' rồi phân tích chuyên sâu ba cổ phiếu có hồ sơ 'chưa được thị trường chú ý' rõ nét nhất: QRT (kiểm định độ tin cậy bán dẫn), BCnC (nội địa hóa vật liệu nền bán dẫn), và Wirenet (thiết bị truyền dẫn 5G-SA).*
 
 ---
 
 ## Tóm tắt Điều hành
 
-- **Bộ lọc trả về 67 cổ phiếu — hầu hết đã tăng mạnh.** Ngay cả với tiêu chí chặt chẽ (lợi nhuận 2025 dương + lợi nhuận 2026 dương + tăng trưởng OP và NI năm 2026 ≥+80%), 67 cổ phiếu niêm yết Hàn Quốc vẫn lọt qua. Hơn một nửa đã tăng >+50% YTD. Bộ lọc tự nó không tạo ra alpha; thị trường đã phát hiện phần lớn các cổ phiếu này.
-- **FnGuide minh họa rõ nhất trạng thái 'sau khi được phát hiện.'** P/E đầu năm 10× và P/B 1,4× → P/E tháng 5 là 38× và P/B 5,45×. Tổng lợi nhuận YTD +279%. Đây là một doanh nghiệp thực sự chất lượng — hạ tầng dữ liệu, chỉ số và thông tin tài chính của Hàn Quốc với vị thế gần như độc quyền, OPM năm 2025 đạt 30%, ROE 15%. Nhưng ở mức giá hôm nay, cổ phiếu này không còn là "rẻ và mua" nữa — nó đang đặt cược vào việc OP 2026 phải đạt \~₩20,0 tỷ. Ngay cả trong đợt tăng mạnh ngày 6/5, cả khối ngoại và tổ chức đều bán ròng.
-- **Trong 67 cổ phiếu, nhóm tăng tương đối ít hơn**: QRT (YTD +27–42%), BCnC (+26–33%), Tech Wing (+22%), STI (+20%), DI (+47%), Devsisters (-35%), Alteogen (-21%). "Tăng ít hơn" không đồng nghĩa với "định giá thấp" — đó có thể là mức chiết khấu có lý do. Phân biệt hai trường hợp này mới là công việc phân tích thực sự.
-- **Thứ tự ưu tiên phân tích chuyên sâu ba cổ phiếu: QRT > BCnC > Wirenet.** QRT mang một luận điểm cơ cấu ("chip càng phức tạp, kiểm định càng trở thành điểm nghẽn") áp dụng xuyên suốt cho AI / HBM / CXL / RF / vũ trụ — một luận điểm đa hướng. BCnC có câu chuyện nội địa hóa vật liệu rõ ràng, nhưng P/E 42× với ROE 6,4% — giá đã chạy trước thu nhập. Wirenet tăng +118% YTD với khối ngoại bán ròng — thị trường đã phát hiện ra nó; alpha thêm đòi hỏi sự xác nhận, không phải sự khám phá.
-- **Bài học về bản thân bộ lọc**: bộ lọc là điểm khởi đầu, không phải đích đến. 67 kết quả nhưng hầu hết đã tăng. Alpha nằm ở **"tốc độ thị trường phát hiện so với khoảng cách còn lại,"** — đó là câu hỏi riêng biệt so với "cái gì vượt qua bộ lọc."
+- <strong>Bộ lọc trả về 67 cổ phiếu — hầu hết đã tăng mạnh.</strong> Ngay cả với tiêu chí chặt chẽ (lợi nhuận 2025 dương + lợi nhuận 2026 dương + tăng trưởng OP và NI năm 2026 ≥+80%), 67 cổ phiếu niêm yết Hàn Quốc vẫn lọt qua. Hơn một nửa đã tăng >+50% YTD. Bộ lọc tự nó không tạo ra alpha; thị trường đã phát hiện phần lớn các cổ phiếu này.
+- <strong>FnGuide minh họa rõ nhất trạng thái 'sau khi được phát hiện.'</strong> P/E đầu năm 10× và P/B 1,4× → P/E tháng 5 là 38× và P/B 5,45×. Tổng lợi nhuận YTD +279%. Đây là một doanh nghiệp thực sự chất lượng — hạ tầng dữ liệu, chỉ số và thông tin tài chính của Hàn Quốc với vị thế gần như độc quyền, OPM năm 2025 đạt 30%, ROE 15%. Nhưng ở mức giá hôm nay, cổ phiếu này không còn là "rẻ và mua" nữa — nó đang đặt cược vào việc OP 2026 phải đạt \~₩20,0 tỷ. Ngay cả trong đợt tăng mạnh ngày 6/5, cả khối ngoại và tổ chức đều bán ròng.
+- <strong>Trong 67 cổ phiếu, nhóm tăng tương đối ít hơn</strong>: QRT (YTD +27–42%), BCnC (+26–33%), Tech Wing (+22%), STI (+20%), DI (+47%), Devsisters (-35%), Alteogen (-21%). "Tăng ít hơn" không đồng nghĩa với "định giá thấp" — đó có thể là mức chiết khấu có lý do. Phân biệt hai trường hợp này mới là công việc phân tích thực sự.
+- <strong>Thứ tự ưu tiên phân tích chuyên sâu ba cổ phiếu: QRT > BCnC > Wirenet.</strong> QRT mang một luận điểm cơ cấu ("chip càng phức tạp, kiểm định càng trở thành điểm nghẽn") áp dụng xuyên suốt cho AI / HBM / CXL / RF / vũ trụ — một luận điểm đa hướng. BCnC có câu chuyện nội địa hóa vật liệu rõ ràng, nhưng P/E 42× với ROE 6,4% — giá đã chạy trước thu nhập. Wirenet tăng +118% YTD với khối ngoại bán ròng — thị trường đã phát hiện ra nó; alpha thêm đòi hỏi sự xác nhận, không phải sự khám phá.
+- <strong>Bài học về bản thân bộ lọc</strong>: bộ lọc là điểm khởi đầu, không phải đích đến. 67 kết quả nhưng hầu hết đã tăng. Alpha nằm ở <strong>"tốc độ thị trường phát hiện so với khoảng cách còn lại,"</strong> — đó là câu hỏi riêng biệt so với "cái gì vượt qua bộ lọc."
 
 ---
 
@@ -61,13 +61,13 @@ Sắp xếp nhóm theo lợi nhuận từ đầu năm đến nay cho thấy quan
 
 | Nhóm YTD | Số lượng ước tính | Tên đại diện |
 | --- | ---: | --- |
-| ≥ +200% | 5+ | Joosung Engineering (+319%), HD Hyundai Energy (+286%), **FnGuide (+279%)**, Amotech (+215%) |
+| ≥ +200% | 5+ | Joosung Engineering (+319%), HD Hyundai Energy (+286%), <strong>FnGuide (+279%)</strong>, Amotech (+215%) |
 | +100% đến +200% | 15+ | Daeduck Electronics (+162%), SK Hynix (+137%), Kolon Industries (+125%), Wirenet (+112%), Samsung Electronics (+107%) |
 | +50% đến +100% | 15+ | Korea Circuit (+99%), Hooseong (+91%), Nano (+88%), Dongwoon Anatech (+74%), Wonik IPS (+61%) |
-| +0% đến +50% | 20+ | **QRT (+27–42%)**, **BCnC (+26–33%)**, Tech Wing (+22%), STI (+20%), Robotis (+15%) |
+| +0% đến +50% | 20+ | <strong>QRT (+27–42%)</strong>, <strong>BCnC (+26–33%)</strong>, Tech Wing (+22%), STI (+20%), Robotis (+15%) |
 | Âm | 6 | Devsisters (-35%), Astera Sys (-22%), Alteogen (-21%), SBS (-17%) |
 
-Tóm lại trong một câu: **hơn một nửa trong 67 cổ phiếu đã tăng >+50% YTD.** Xem "kết quả bộ lọc" là danh sách mua về bản chất là đến muộn.
+Tóm lại trong một câu: <strong>hơn một nửa trong 67 cổ phiếu đã tăng >+50% YTD.</strong> Xem "kết quả bộ lọc" là danh sách mua về bản chất là đến muộn.
 
 ### 1.3 Nhóm Chưa Tăng Nhiều — Nơi Alpha Còn Lại Có Thể Ẩn Náu
 
@@ -77,14 +77,14 @@ Các ứng viên tiềm năng nhất trong nhóm này:
 
 | Tên | YTD | OP 2026F | Tăng trưởng OP | P/E 2026F | Vì sao chưa tăng nhiều? |
 | --- | ---: | ---: | ---: | ---: | --- |
-| **QRT** | +27–42% | ₩10,8 tỷ | +125% | 33,3× | Kiểm định bán dẫn chưa được công nhận là "chủ đề đầu tư" |
-| **BCnC** | +26–33% | ₩10,9 tỷ | +180% | 42,0× | Câu chuyện nội địa hóa vật liệu tốt, nhưng ROE chỉ 6,4% |
+| <strong>QRT</strong> | +27–42% | ₩10,8 tỷ | +125% | 33,3× | Kiểm định bán dẫn chưa được công nhận là "chủ đề đầu tư" |
+| <strong>BCnC</strong> | +26–33% | ₩10,9 tỷ | +180% | 42,0× | Câu chuyện nội địa hóa vật liệu tốt, nhưng ROE chỉ 6,4% |
 | Tech Wing | +22% | — | — | — | Câu chuyện lợi nhuận thiết bị kiểm tra bán dẫn yên lặng |
 | STI | +20% | — | — | — | Thiết bị / linh kiện bán dẫn |
 | Devsisters | -35% | — | — | — | Mảng game sụt giảm rồi phục hồi — ít sự quan tâm của thị trường |
 | Alteogen | -21% | — | — | — | Điều chỉnh giá biotech so với kỳ vọng |
 
-Ba cổ phiếu đứng đầu danh sách cần phân tích chuyên sâu: **QRT, BCnC, Wirenet**. (Wirenet được đưa vào từ nhóm +100–200% vì nó đại diện cho trường hợp tương phản "đã được phát hiện.")
+Ba cổ phiếu đứng đầu danh sách cần phân tích chuyên sâu: <strong>QRT, BCnC, Wirenet</strong>. (Wirenet được đưa vào từ nhóm +100–200% vì nó đại diện cho trường hợp tương phản "đã được phát hiện.")
 
 ---
 
@@ -99,7 +99,7 @@ Trước khi đi vào phân tích chuyên sâu ba cổ phiếu, FnGuide là trư
 | 2 tháng 1 | ₩8.690 | 10,0× | 1,44× | 5,1× |
 | 27 tháng 2 | ₩20.400 | 23,6× | 3,38× | 12,0× |
 | 30 tháng 4 | ₩27.200 | 31,4× | 4,50× | 16,0× |
-| **6 tháng 5** | **₩32.900** | **38,0×** | **5,45×** | **19,4×** |
+| <strong>6 tháng 5</strong> | <strong>₩32.900</strong> | <strong>38,0×</strong> | <strong>5,45×</strong> | <strong>19,4×</strong> |
 
 Trong năm tháng, P/E mở rộng từ 10× lên 38× và P/B từ 1,4× lên 5,45×. Tổng lợi nhuận YTD +279%.
 
@@ -163,11 +163,11 @@ Bốn bài học này định khung cho ba cổ phiếu tiếp theo. "Bùng nổ
 
 ### 3.1 Mảng Kinh doanh
 
-QRT trong một câu: **chuyên gia kiểm định độ tin cậy bán dẫn của Hàn Quốc**. Không phải nhà sản xuất chip — mà là công ty xác nhận liệu chip có hoạt động đúng hay không.
+QRT trong một câu: <strong>chuyên gia kiểm định độ tin cậy bán dẫn của Hàn Quốc</strong>. Không phải nhà sản xuất chip — mà là công ty xác nhận liệu chip có hoạt động đúng hay không.
 
 Hanyang Securities định vị QRT là "nền tảng kiểm định thực hiện đánh giá độ tin cậy và phân tích toàn diện đồng thời." KB Securities phân loại nó là "công ty kiểm định độ tin cậy bán dẫn nội địa của Hàn Quốc."
 
-Lý do điều này quan trọng: **chip càng phức tạp, kiểm định càng trở thành điểm nghẽn**.
+Lý do điều này quan trọng: <strong>chip càng phức tạp, kiểm định càng trở thành điểm nghẽn</strong>.
 
 ```
 Chip AI ngày càng phức tạp → Stack HBM ngày càng cao → Kết nối CXL được bổ sung
@@ -194,7 +194,7 @@ Số lượng công ty có khả năng thực hiện kiểm định này là có
 | P/E 2026F | 33,3× |
 | Tăng trưởng OP | +125% |
 
-Hanyang Securities ước tính doanh thu 2026F ₩85,0 tỷ, OP ₩9,45 tỷ. OP ₩10,8 tỷ trong cơ sở dữ liệu nội địa có vẻ là mức trung bình từ các nguồn. Dù sao đi nữa, **OP \~₩10 tỷ là mốc kiểm chứng cốt lõi năm 2026**.
+Hanyang Securities ước tính doanh thu 2026F ₩85,0 tỷ, OP ₩9,45 tỷ. OP ₩10,8 tỷ trong cơ sở dữ liệu nội địa có vẻ là mức trung bình từ các nguồn. Dù sao đi nữa, <strong>OP \~₩10 tỷ là mốc kiểm chứng cốt lõi năm 2026</strong>.
 
 MOU mới được công bố với Hyperaccel về hợp tác phát triển sản phẩm chip AI và kiểm soát chất lượng sản xuất đại trà là tín hiệu tích cực — nhưng MOU không phải doanh thu.
 
@@ -219,9 +219,9 @@ Luận điểm "chip càng phức tạp, kiểm định càng là điểm nghẽ
 
 | Yếu tố | Nhận định |
 | --- | --- |
-| **P (đơn giá)** | Các bài kiểm tra phức tạp hơn trên AI / HBM / CXL / RF / vũ trụ đòi giá đơn vị cao hơn |
-| **Q (khối lượng)** | Khách hàng, dòng sản phẩm, hạng mục kiểm định mở rộng (AI, RF, vũ trụ, xe tự lái) |
-| **C (chi phí)** | Tăng tỷ lệ sử dụng thiết bị + đòn bẩy nhân sự phân tích thúc đẩy OPM tăng |
+| <strong>P (đơn giá)</strong> | Các bài kiểm tra phức tạp hơn trên AI / HBM / CXL / RF / vũ trụ đòi giá đơn vị cao hơn |
+| <strong>Q (khối lượng)</strong> | Khách hàng, dòng sản phẩm, hạng mục kiểm định mở rộng (AI, RF, vũ trụ, xe tự lái) |
+| <strong>C (chi phí)</strong> | Tăng tỷ lệ sử dụng thiết bị + đòn bẩy nhân sự phân tích thúc đẩy OPM tăng |
 
 ### 3.5 Những Lưu ý Trung thực
 
@@ -244,7 +244,7 @@ Luận điểm "chip càng phức tạp, kiểm định càng là điểm nghẽ
 
 ### 4.1 Mảng Kinh doanh
 
-BCnC sản xuất các linh kiện tiêu hao (thạch anh, silicon, gốm sứ) cho quy trình etch và deposition bán dẫn. Luận điểm cốt lõi là **nội địa hóa thạch anh tổng hợp (QD9 / QD9+) và silicon (SD9+)**.
+BCnC sản xuất các linh kiện tiêu hao (thạch anh, silicon, gốm sứ) cho quy trình etch và deposition bán dẫn. Luận điểm cốt lõi là <strong>nội địa hóa thạch anh tổng hợp (QD9 / QD9+) và silicon (SD9+)</strong>.
 
 ```
 Quy trình etch bán dẫn
@@ -315,7 +315,7 @@ Hana Securities nâng giá mục tiêu lên ₩25.000 vào tháng 4/2026, với 
 | Chỉ tiêu | Giá trị |
 | --- | ---: |
 | Giá đóng cửa 6/5 | ₩15.810 |
-| YTD | **+118,1%** |
+| YTD | <strong>+118,1%</strong> |
 | Lợi nhuận 20 ngày | +41,9% |
 | Lợi nhuận 60 ngày | +100,6% |
 | RSI(14) | 60,2 |
@@ -324,7 +324,7 @@ Hana Securities nâng giá mục tiêu lên ₩25.000 vào tháng 4/2026, với 
 | OPM 2026F | 7,5% |
 | P/E 2026F | 23,7× |
 | Tăng trưởng OP | +358% |
-| Khối ngoại 20 ngày | **-₩6,5 tỷ (bán ròng)** |
+| Khối ngoại 20 ngày | <strong>-₩6,5 tỷ (bán ròng)</strong> |
 
 ### 5.3 Vấn đề: Đã Tăng +118% YTD Kèm Theo Khối Ngoại Bán Ròng
 
@@ -359,10 +359,10 @@ Dư địa giá mục tiêu của Hana còn lớn. Nhưng cổ phiếu này khô
 | OP 2026F | ₩10,8 tỷ | ₩10,9 tỷ | ₩8,7 tỷ |
 | P/E 2026F | 33,3× | 42,0× | 23,7× |
 | ROE | (chưa xác nhận) | 6,4% | (chưa xác nhận) |
-| Khối ngoại 20 ngày | +₩210 triệu | +₩3,97 tỷ | **-₩6,5 tỷ** |
+| Khối ngoại 20 ngày | +₩210 triệu | +₩3,97 tỷ | <strong>-₩6,5 tỷ</strong> |
 | Điểm mạnh cốt lõi | Mở rộng AI / RF / vũ trụ, mảng kinh doanh điểm nghẽn | Nội địa hóa vật liệu, mở rộng khách hàng | 5G-SA, tùy chọn mật mã lượng tử |
 | Điểm yếu cốt lõi | Gánh nặng P/E 33× | P/E 42× + ROE thấp | Đã tăng +118%, dòng tiền yếu |
-| Thứ tự ưu tiên | **#1** | **#2** | **#3** |
+| Thứ tự ưu tiên | <strong>#1</strong> | <strong>#2</strong> | <strong>#3</strong> |
 
 QRT xếp #1 vì luận điểm đa hướng mang tính cơ cấu. AI, HBM, CXL, RF, vũ trụ — mọi vector đều thúc đẩy nhu cầu kiểm định. Luận điểm không đặt cược vào một hướng duy nhất; nó đặt cược vào nhiều hướng đồng thời.
 
@@ -453,7 +453,7 @@ Việc 67 cổ phiếu vượt qua tiêu chí "bùng nổ lợi nhuận" rất t
 
 Bộ lọc "bùng nổ lợi nhuận" trả về 67 cổ phiếu. Hầu hết đã tăng mạnh. FnGuide minh họa rõ nhất trạng thái "sau khi được phát hiện" — P/E 10× → 38×, +279%. Mua FnGuide hôm nay với lý do "bùng nổ lợi nhuận" là mua gần đỉnh.
 
-Alpha nằm ở **"tốc độ thị trường phát hiện so với khoảng cách còn lại,"** không nằm ở bản thân kết quả bộ lọc. Trong ba cổ phiếu chưa tăng nhiều — QRT (+42%, điểm nghẽn kiểm định bán dẫn), BCnC (+33%, nội địa hóa vật liệu), Wirenet (+118%, đã được phát hiện) — câu trả lời cho "vì sao chưa tăng nhiều?" là khác nhau.
+Alpha nằm ở <strong>"tốc độ thị trường phát hiện so với khoảng cách còn lại,"</strong> không nằm ở bản thân kết quả bộ lọc. Trong ba cổ phiếu chưa tăng nhiều — QRT (+42%, điểm nghẽn kiểm định bán dẫn), BCnC (+33%, nội địa hóa vật liệu), Wirenet (+118%, đã được phát hiện) — câu trả lời cho "vì sao chưa tăng nhiều?" là khác nhau.
 
 QRT chưa tăng nhiều vì "kiểm định bán dẫn" chưa được công nhận là chủ đề thị trường. Luận điểm cơ cấu của nó ("chip càng phức tạp, kiểm định càng là điểm nghẽn") áp dụng xuyên suốt AI / HBM / CXL / RF / vũ trụ. Câu chuyện nội địa hóa vật liệu của BCnC đã được biết đến nhưng P/E 42× × ROE 6,4% có nghĩa là giá đã chạy trước. Wirenet ở mức +118% YTD với khối ngoại bán ròng -₩6,5 tỷ trong 20 ngày là đà tăng giai đoạn cuối — mạnh nhưng đã qua giai đoạn khám phá.
 
@@ -463,31 +463,31 @@ Cả ba đều tăng +40–50% trong 20 phiên gần nhất. Đây không phải
 
 ## FAQ — Bộ lọc Bùng nổ Lợi nhuận Hàn Quốc tháng 5/2026
 
-**H: Có bao nhiêu cổ phiếu Hàn Quốc vượt qua bộ lọc "bùng nổ lợi nhuận" cho năm 2026?**
+<strong>H: Có bao nhiêu cổ phiếu Hàn Quốc vượt qua bộ lọc "bùng nổ lợi nhuận" cho năm 2026?</strong>
 Đ: Tính đến ngày 7/5/2026: 67 cổ phiếu vượt qua tiêu chí `(2025 OP > 0) ∧ (2025 NI > 0) ∧ (2026F OP > 0) ∧ (2026F NI > 0) ∧ (2026F OP growth ≥ +80%) ∧ (2026F NI growth ≥ +80%)`. Hơn một nửa trong 67 cổ phiếu đó đã tăng >+50% YTD.
 
-**H: FnGuide là gì và tại sao nó quan trọng như một trường hợp tham chiếu?**
+<strong>H: FnGuide là gì và tại sao nó quan trọng như một trường hợp tham chiếu?</strong>
 Đ: FnGuide là công ty hạ tầng dữ liệu tài chính và chỉ số của Hàn Quốc. Từ đầu năm đến ngày 6/5/2026, P/E của nó mở rộng từ 10× lên 38× và tổng lợi nhuận đạt +279%. Nó minh họa cách thức tổ hợp "bùng nổ lợi nhuận + định giá thấp + doanh nghiệp tốt" diễn ra dưới sự khám phá của thị trường — và vì sao việc sàng lọc để tìm các cổ phiếu như vậy sau sự kiện tái định giá về bản chất là đến muộn.
 
-**H: QRT (405100) có được niêm yết công khai không?**
+<strong>H: QRT (405100) có được niêm yết công khai không?</strong>
 Đ: Có — QRT được niêm yết trên KOSDAQ với mã 405100. Hoạt động kinh doanh cốt lõi của nó là kiểm định độ tin cậy bán dẫn (dịch vụ kiểm tra và phân tích cho các nhà sản xuất chip và nhà thiết kế fabless).
 
-**H: Vì sao QRT được coi là thú vị về mặt cơ cấu?**
+<strong>H: Vì sao QRT được coi là thú vị về mặt cơ cấu?</strong>
 Đ: Luận điểm "chip càng phức tạp, kiểm định càng là điểm nghẽn" áp dụng cho AI, HBM, CXL, RF, và chip dùng trong vũ trụ. Nhu cầu kiểm định tăng theo độ phức tạp của chip, và năng lực kiểm định khó tăng trong thời gian ngắn. QRT là người thụ hưởng đa hướng thay vì phụ thuộc vào bất kỳ chu kỳ sản phẩm đơn lẻ nào.
 
-**H: BCnC (146320) có được niêm yết công khai không?**
+<strong>H: BCnC (146320) có được niêm yết công khai không?</strong>
 Đ: Có — BCnC được niêm yết trên KOSDAQ với mã 146320. Nó sản xuất các linh kiện tiêu hao (thạch anh tổng hợp QD9 / QD9+, silicon SD9+, gốm sứ CD9) cho các quy trình etch và deposition bán dẫn, với luận điểm cải thiện biên lợi nhuận thông qua nội địa hóa.
 
-**H: Wirenet (115440) có được niêm yết công khai không?**
+<strong>H: Wirenet (115440) có được niêm yết công khai không?</strong>
 Đ: Có — Wirenet được niêm yết trên KOSDAQ với mã 115440. Đây là công ty thiết bị truyền dẫn viễn thông Hàn Quốc, được hưởng lợi từ quá trình chuyển đổi 5G-SA, nhu cầu PTN, thay thế mạng truyền dẫn, và tùy chọn mật mã lượng tử.
 
-**H: Cổ phiếu vốn hóa nhỏ Hàn Quốc nào có alpha "bùng nổ lợi nhuận" rõ ràng nhất hiện tại?**
+<strong>H: Cổ phiếu vốn hóa nhỏ Hàn Quốc nào có alpha "bùng nổ lợi nhuận" rõ ràng nhất hiện tại?</strong>
 Đ: Trong ba cổ phiếu được phân tích ở đây, QRT xếp đầu về chất lượng luận điểm cơ cấu (đa hướng, tính chất điểm nghẽn, năng lực bị hạn chế về nguồn cung). BCnC xếp thứ hai về câu chuyện nội địa hóa nhưng với P/E 42× và ROE 6,4%, bội số đã chạy trước. Wirenet xếp thứ ba — đà tăng mạnh nhưng đã tăng +118% YTD với khối ngoại bán ròng, gần với giao dịch sự kiện hơn là tích lũy cốt lõi.
 
-**H: Kết quả 67 cổ phiếu của bộ lọc có phải là danh sách mua không?**
+<strong>H: Kết quả 67 cổ phiếu của bộ lọc có phải là danh sách mua không?</strong>
 Đ: Không. Bộ lọc là bộ lọc khởi đầu, không phải danh sách mua. Hơn một nửa trong 67 cổ phiếu đã tăng >+50% YTD. Công việc phân tích thực sự là phân biệt "vẫn chưa được khám phá" với "bị chiết khấu có lý do" trong nhóm cổ phiếu đó.
 
-**H: Bài học quan trọng nhất từ trường hợp tham chiếu FnGuide là gì?**
+<strong>H: Bài học quan trọng nhất từ trường hợp tham chiếu FnGuide là gì?</strong>
 Đ: Tái định giá từ bội số thấp lên cao nén không gian lợi nhuận tương lai. P/E 10× → 38× trong năm tháng có nghĩa là mức giá hôm nay đòi hỏi ước tính thu nhập tích cực nhất phải thành hiện thực mới là "hợp lý." Sàng lọc để tìm các cổ phiếu như vậy sau sự kiện tái định giá về bản chất là đến muộn.
 
 ---

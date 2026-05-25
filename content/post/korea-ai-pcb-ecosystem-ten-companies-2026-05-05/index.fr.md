@@ -27,7 +27,7 @@ tags:
 series: ["ai-pcb-substrate-thesis-2026"]
 ---
 
-> **Cartographie sectorielle :** Cette note constitue la matrice d'entreprises associée à la [thèse sur les PCB et substrats pour l'IA](/fr/post/ai-pcb-thesis-system-bom-common-bottleneck-2026-05-05/) ainsi qu'au [hub PCB et substrats pour l'IA](/fr/page/korea-ai-pcb-substrate-hub/). La thèse précédente a expliqué pourquoi les substrats pour l'IA représentent un goulot d'étranglement au niveau système. Cette note cherche à identifier quels segments de l'écosystème coréen offrent la meilleure qualité de franchise, et où les facteurs restent les moins pleinement valorisés.
+> <strong>Cartographie sectorielle :</strong> Cette note constitue la matrice d'entreprises associée à la [thèse sur les PCB et substrats pour l'IA](/fr/post/ai-pcb-thesis-system-bom-common-bottleneck-2026-05-05/) ainsi qu'au [hub PCB et substrats pour l'IA](/fr/page/korea-ai-pcb-substrate-hub/). La thèse précédente a expliqué pourquoi les substrats pour l'IA représentent un goulot d'étranglement au niveau système. Cette note cherche à identifier quels segments de l'écosystème coréen offrent la meilleure qualité de franchise, et où les facteurs restent les moins pleinement valorisés.
 
 ---
 

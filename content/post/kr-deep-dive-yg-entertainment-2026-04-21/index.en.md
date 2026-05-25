@@ -16,9 +16,9 @@ draft: false
 
 ## 1. Company Snapshot
 
-**YG Entertainment Co., Ltd.** (Korean: YG엔터테인먼트, Ticker: **122870.KS**, Exchange: **KOSPI**, Sector: Entertainment / Media) is one of South Korea's "Big Four" music talent agencies, alongside HYBE, SM Entertainment, and JYP Entertainment. Founded in 1996 by Yang Hyun-suk — a former member of the pioneering idol group Seo Taiji and Boys — YG has spent three decades building a distinctive brand identity centered on hip-hop authenticity, high-production-value music videos, and a comparatively small-but-elite artist roster.
+<strong>YG Entertainment Co., Ltd.</strong> (Korean: YG엔터테인먼트, Ticker: <strong>122870.KS</strong>, Exchange: <strong>KOSPI</strong>, Sector: Entertainment / Media) is one of South Korea's "Big Four" music talent agencies, alongside HYBE, SM Entertainment, and JYP Entertainment. Founded in 1996 by Yang Hyun-suk — a former member of the pioneering idol group Seo Taiji and Boys — YG has spent three decades building a distinctive brand identity centered on hip-hop authenticity, high-production-value music videos, and a comparatively small-but-elite artist roster.
 
-**The elevator pitch:** YG Entertainment is the corporate parent of BLACKPINK, the most-followed music group on YouTube in history and arguably the most commercially potent K-pop act ever assembled. Beyond BLACKPINK, the agency manages TREASURE (a 12-member boy group) and BABYMONSTER (a seven-member girl group that debuted in 2023 and represents YG's highest-stakes bet on the next generation). For international investors, YG is the most direct listed-equity way to own a piece of the global K-pop cultural phenomenon — a business model that monetizes fandom at stadium scale across Asia, the Americas, and Europe.
+<strong>The elevator pitch:</strong> YG Entertainment is the corporate parent of BLACKPINK, the most-followed music group on YouTube in history and arguably the most commercially potent K-pop act ever assembled. Beyond BLACKPINK, the agency manages TREASURE (a 12-member boy group) and BABYMONSTER (a seven-member girl group that debuted in 2023 and represents YG's highest-stakes bet on the next generation). For international investors, YG is the most direct listed-equity way to own a piece of the global K-pop cultural phenomenon — a business model that monetizes fandom at stadium scale across Asia, the Americas, and Europe.
 
 ---
 
@@ -28,13 +28,13 @@ draft: false
 
 K-pop is not a niche trend. It is a structurally growing global entertainment category that has outperformed Western music industry revenue growth over the past decade. According to Korea's Ministry of Culture, Sports and Tourism and the Korea Creative Content Agency (KOCCA), the Korean music export market has grown at a compound rate that significantly outpaces traditional recorded music industry benchmarks, driven by social media virality, a deeply engaged global fandom culture, and the industry's systematic approach to content production and fan monetization.
 
-BLACKPINK's numbers illustrate the scale. The group's **Born Pink World Tour** (2022–2023) sold out stadium dates across North America, Europe, Asia-Pacific, and Latin America, making it one of the highest-grossing touring acts of that cycle. The group's YouTube channel has crossed 90 million subscribers. Individual members — Jennie, Rosé, Lisa, and Jisoo — each command enormous independent audiences that amplify the YG brand even during periods between group activities.
+BLACKPINK's numbers illustrate the scale. The group's <strong>Born Pink World Tour</strong> (2022–2023) sold out stadium dates across North America, Europe, Asia-Pacific, and Latin America, making it one of the highest-grossing touring acts of that cycle. The group's YouTube channel has crossed 90 million subscribers. Individual members — Jennie, Rosé, Lisa, and Jisoo — each command enormous independent audiences that amplify the YG brand even during periods between group activities.
 
-The global trend YG rides is the **platformization of fandom**. Unlike traditional record labels, which monetize passive listeners, K-pop agencies monetize *participation* — fan club memberships, physical album variants with photo card collectibles, virtual fan meetings, branded merchandise, and increasingly, digital fan engagement platforms. This model generates revenue streams that are stickier, more recurring, and less exposed to streaming royalty compression than a Western label's P&L would be.
+The global trend YG rides is the <strong>platformization of fandom</strong>. Unlike traditional record labels, which monetize passive listeners, K-pop agencies monetize *participation* — fan club memberships, physical album variants with photo card collectibles, virtual fan meetings, branded merchandise, and increasingly, digital fan engagement platforms. This model generates revenue streams that are stickier, more recurring, and less exposed to streaming royalty compression than a Western label's P&L would be.
 
 ### Competitive Moat
 
-YG's moat is simultaneously its greatest strength and its most scrutinized risk factor: **extreme brand concentration**. No other K-pop agency in history has produced a group with BLACKPINK's global commercial reach. That scarcity is a genuine moat — BLACKPINK's IP, training system, and global label partnerships (notably with Interscope Records / Universal Music Group in the US) took years and substantial capital to build.
+YG's moat is simultaneously its greatest strength and its most scrutinized risk factor: <strong>extreme brand concentration</strong>. No other K-pop agency in history has produced a group with BLACKPINK's global commercial reach. That scarcity is a genuine moat — BLACKPINK's IP, training system, and global label partnerships (notably with Interscope Records / Universal Music Group in the US) took years and substantial capital to build.
 
 Among direct peers, HYBE (352820.KS) has greater revenue scale and roster diversification through BTS and acquired labels (Ador, Source Music, Belift Lab). JYP (035900.KQ) competes with TWICE, Stray Kids, and ITZY. SM Entertainment (041510.KQ) anchors on EXO, aespa, and NCT. YG's differentiation is quality-over-quantity — fewer acts, higher individual act ceiling — but this also means greater revenue volatility between release and tour cycles.
 
@@ -46,23 +46,23 @@ Among direct peers, HYBE (352820.KS) has greater revenue scale and roster divers
 
 YG's consolidated revenues flow through several interconnected streams:
 
-- **Music (Albums & Digital):** Physical album sales, digital streaming royalties, and music video monetization. BLACKPINK releases have historically driven outsized spikes in this segment.
-- **Concert & Tour Revenue:** Live performance revenue is the highest-margin, highest-ticket-size segment. A BLACKPINK stadium tour generates materially more per event than a typical arena act.
-- **Merchandise & Licensing:** Fan goods, branded collaboration products (BLACKPINK has partnered with luxury brands including Chanel, Celine, and Bvlgari at the individual member level, which enhances YG's IP value).
-- **Management Fees & Artist Services:** Revenue from managing the commercial activities of solo artist careers.
-- **YG Plus (Subsidiary):** YG's distribution and content subsidiary handles physical distribution and has diversified into cosmetics licensing and content production.
+- <strong>Music (Albums & Digital):</strong> Physical album sales, digital streaming royalties, and music video monetization. BLACKPINK releases have historically driven outsized spikes in this segment.
+- <strong>Concert & Tour Revenue:</strong> Live performance revenue is the highest-margin, highest-ticket-size segment. A BLACKPINK stadium tour generates materially more per event than a typical arena act.
+- <strong>Merchandise & Licensing:</strong> Fan goods, branded collaboration products (BLACKPINK has partnered with luxury brands including Chanel, Celine, and Bvlgari at the individual member level, which enhances YG's IP value).
+- <strong>Management Fees & Artist Services:</strong> Revenue from managing the commercial activities of solo artist careers.
+- <strong>YG Plus (Subsidiary):</strong> YG's distribution and content subsidiary handles physical distribution and has diversified into cosmetics licensing and content production.
 
 According to filings available on DART (dart.fss.or.kr), YG's revenue profile shows significant lumpiness: concert tour years produce sharp top-line acceleration, while "in-between" years — when major artists are renewing contracts, recording, or pursuing solo projects — generate lower consolidated revenue. This cyclicality is well understood by the market and is a core reason why YG's stock can be highly volatile around artist activity announcements.
 
-As of the most recently reported fiscal year, **BLACKPINK-related revenues** (direct and indirect) remain the single largest contributor to YG's consolidated results. Management has acknowledged the need to reduce this concentration, which is precisely the strategic rationale behind BABYMONSTER's development and debut.
+As of the most recently reported fiscal year, <strong>BLACKPINK-related revenues</strong> (direct and indirect) remain the single largest contributor to YG's consolidated results. Management has acknowledged the need to reduce this concentration, which is precisely the strategic rationale behind BABYMONSTER's development and debut.
 
 ### Key Growth Drivers (Next 12–24 Months)
 
-1. **BABYMONSTER's Commercial Maturation:** The group debuted in April 2023 (initially as a six-member unit, later with the full seven-member lineup). Their initial releases demonstrated strong chart performance in Korea and Japan and meaningful streaming traction globally. The 2025–2026 window is critical for the group's transition from "rising act" to "headlining revenue generator." A successful international tour would mark a significant step toward reducing BLACKPINK revenue dependence.
+1. <strong>BABYMONSTER's Commercial Maturation:</strong> The group debuted in April 2023 (initially as a six-member unit, later with the full seven-member lineup). Their initial releases demonstrated strong chart performance in Korea and Japan and meaningful streaming traction globally. The 2025–2026 window is critical for the group's transition from "rising act" to "headlining revenue generator." A successful international tour would mark a significant step toward reducing BLACKPINK revenue dependence.
 
-2. **BLACKPINK Group Activity Post-Military/Hiatus Cycle:** BLACKPINK members have pursued individual solo careers with significant commercial success (Rosé's solo releases under Atlantic Records in Western markets; Lisa's global solo activities; Jennie's independent label venture). Group activity — whether a new studio album or a return to stadium touring — would be the single largest near-term positive catalyst for the stock.
+2. <strong>BLACKPINK Group Activity Post-Military/Hiatus Cycle:</strong> BLACKPINK members have pursued individual solo careers with significant commercial success (Rosé's solo releases under Atlantic Records in Western markets; Lisa's global solo activities; Jennie's independent label venture). Group activity — whether a new studio album or a return to stadium touring — would be the single largest near-term positive catalyst for the stock.
 
-3. **YG Plus Revenue Expansion:** The subsidiary has been building its content and distribution capabilities. Any step-change in third-party distribution clients or licensing revenue from the YG music catalog would improve the quality (and stability) of YG's earnings profile.
+3. <strong>YG Plus Revenue Expansion:</strong> The subsidiary has been building its content and distribution capabilities. Any step-change in third-party distribution clients or licensing revenue from the YG music catalog would improve the quality (and stability) of YG's earnings profile.
 
 ### Margin Profile
 
@@ -104,17 +104,17 @@ The global K-pop market is no longer a blue ocean. The number of active idol gro
 
 ## 6. Valuation Context
 
-YG Entertainment, like its Korean entertainment peers, trades at **growth-company multiples** — P/E ratios that embed significant expectations for future artist activity cycles rather than reflecting trailing earnings alone. In "quiet" years (low album and touring activity), trailing P/E multiples can appear elevated or even negative (loss quarters are not uncommon when overheads run against low revenues). In active years, normalized earnings can make the multiple look more reasonable.
+YG Entertainment, like its Korean entertainment peers, trades at <strong>growth-company multiples</strong> — P/E ratios that embed significant expectations for future artist activity cycles rather than reflecting trailing earnings alone. In "quiet" years (low album and touring activity), trailing P/E multiples can appear elevated or even negative (loss quarters are not uncommon when overheads run against low revenues). In active years, normalized earnings can make the multiple look more reasonable.
 
-**Relative to peers:**
+<strong>Relative to peers:</strong>
 - HYBE (352820.KS) generally commands the highest absolute market capitalization in the sector and benefits from a valuation premium tied to BTS's global stature and the agency's platform/label diversification strategy.
 - JYP Entertainment (035900.KQ) has historically traded at a premium to YG on a P/E basis due to its perceived roster diversification and more consistent release cadence.
 - SM Entertainment (041510.KQ) has undergone shareholder restructuring that has affected its valuation dynamics.
-- YG has historically traded at a **discount to JYP and HYBE** on a normalized basis, largely reflecting the artist concentration discount. The question for investors is whether BABYMONSTER's trajectory and any BLACKPINK group activity warrant a narrowing of that discount.
+- YG has historically traded at a <strong>discount to JYP and HYBE</strong> on a normalized basis, largely reflecting the artist concentration discount. The question for investors is whether BABYMONSTER's trajectory and any BLACKPINK group activity warrant a narrowing of that discount.
 
-**EV/EBITDA** is arguably a more useful lens for entertainment companies with lumpy earnings, as it filters out financing structure differences. YG's EBITDA profile should be assessed on a through-the-cycle basis across a full release and touring cycle rather than any single trailing twelve-month window.
+<strong>EV/EBITDA</strong> is arguably a more useful lens for entertainment companies with lumpy earnings, as it filters out financing structure differences. YG's EBITDA profile should be assessed on a through-the-cycle basis across a full release and touring cycle rather than any single trailing twelve-month window.
 
-Investors can access YG's most recent financial disclosures — including quarterly earnings, annual reports, and major announcements — through **DART (dart.fss.or.kr)** and the **KRX (krx.co.kr)** disclosure system. YG maintains an IR page (ir.yg-life.com) with English-language summaries of major earnings announcements, though full disclosure documents are primarily in Korean.
+Investors can access YG's most recent financial disclosures — including quarterly earnings, annual reports, and major announcements — through <strong>DART (dart.fss.or.kr)</strong> and the <strong>KRX (krx.co.kr)</strong> disclosure system. YG maintains an IR page (ir.yg-life.com) with English-language summaries of major earnings announcements, though full disclosure documents are primarily in Korean.
 
 *Is YG Entertainment a good investment?* That depends on one's view of BLACKPINK's group trajectory, BABYMONSTER's commercial ceiling, and one's tolerance for the cyclicality and concentration risk inherent in the model. The valuation framework above should help investors contextualize the risk/reward rather than rely on any single metric.
 
@@ -124,40 +124,40 @@ Investors can access YG's most recent financial disclosures — including quarte
 
 ### Direct Exchange Access
 
-YG Entertainment (122870.KS) trades on the **Korea Stock Exchange (KOSPI)**. Foreign investors can access it directly through brokers with Korean equity market access. Settlement follows a **T+2 cycle** in KRW. Foreign ownership is tracked and disclosed; the company does not have restrictions that would preclude foreign institutional or retail ownership at current levels.
+YG Entertainment (122870.KS) trades on the <strong>Korea Stock Exchange (KOSPI)</strong>. Foreign investors can access it directly through brokers with Korean equity market access. Settlement follows a <strong>T+2 cycle</strong> in KRW. Foreign ownership is tracked and disclosed; the company does not have restrictions that would preclude foreign institutional or retail ownership at current levels.
 
 ### ADR / GDR
 
-As of the time of writing, YG Entertainment does **not have a sponsored ADR program** on US exchanges. OTC pink-sheet access may be available through some brokers, but liquidity and price discovery in OTC venues are materially inferior to the KRX primary listing.
+As of the time of writing, YG Entertainment does <strong>not have a sponsored ADR program</strong> on US exchanges. OTC pink-sheet access may be available through some brokers, but liquidity and price discovery in OTC venues are materially inferior to the KRX primary listing.
 
 ### Key ETFs with Exposure
 
 Several ETFs provide indirect exposure to YG Entertainment as part of broader Korean equity or Asia entertainment baskets. Notable examples include:
 
-- **iShares MSCI South Korea ETF (EWY):** The largest and most liquid Korea equity ETF. YG is typically a small-weight holding.
-- **Global X Funds ETFs with Korea/Asia media exposure:** Some thematic ETFs focused on Asian media, content, or K-pop as a category have included YG and peers.
-- **Korean domestic ETFs:** Funds tracking the KOSPI or Korean media/entertainment sector indices listed on KRX provide the most direct sector exposure with KRW denomination.
+- <strong>iShares MSCI South Korea ETF (EWY):</strong> The largest and most liquid Korea equity ETF. YG is typically a small-weight holding.
+- <strong>Global X Funds ETFs with Korea/Asia media exposure:</strong> Some thematic ETFs focused on Asian media, content, or K-pop as a category have included YG and peers.
+- <strong>Korean domestic ETFs:</strong> Funds tracking the KOSPI or Korean media/entertainment sector indices listed on KRX provide the most direct sector exposure with KRW denomination.
 
 Investors should verify current holdings directly with fund providers, as constituent weights change with rebalancing cycles.
 
 ### Practical Notes for Foreign Investors
 
-- **Currency:** All Korean equity transactions settle in **Korean Won (KRW)**. USD/KRW and other major FX pairs expose investors to currency risk. The Won has historically been a "risk-sensitive" EM currency — it tends to weaken during global risk-off episodes, which can amplify drawdowns for foreign holders of Korean equities.
-- **Disclosure Language:** DART filings are predominantly in Korean. YG provides English-language summaries for major earnings releases and IR events, but forensic analysis of subsidiary financials requires Korean-language capability or a translation workflow.
-- **Tax:** Foreign investors in Korean equities are subject to Korean withholding tax on dividends (typically 22% including local surtax, subject to applicable tax treaty rates). Capital gains from stock sales are generally not subject to Korean tax for non-resident investors holding less than 25% of a company, but investors should verify this with their tax advisors given jurisdictional variation.
-- **How to buy YG Entertainment stock:** International investors typically access the KRX through global brokers offering Korean equity trading (Interactive Brokers, Fidelity International, and major prime brokerage platforms). Some Korean brokers (Kiwoom, Mirae Asset) offer English-language online brokerage services for non-residents, though account opening requirements vary.
+- <strong>Currency:</strong> All Korean equity transactions settle in <strong>Korean Won (KRW)</strong>. USD/KRW and other major FX pairs expose investors to currency risk. The Won has historically been a "risk-sensitive" EM currency — it tends to weaken during global risk-off episodes, which can amplify drawdowns for foreign holders of Korean equities.
+- <strong>Disclosure Language:</strong> DART filings are predominantly in Korean. YG provides English-language summaries for major earnings releases and IR events, but forensic analysis of subsidiary financials requires Korean-language capability or a translation workflow.
+- <strong>Tax:</strong> Foreign investors in Korean equities are subject to Korean withholding tax on dividends (typically 22% including local surtax, subject to applicable tax treaty rates). Capital gains from stock sales are generally not subject to Korean tax for non-resident investors holding less than 25% of a company, but investors should verify this with their tax advisors given jurisdictional variation.
+- <strong>How to buy YG Entertainment stock:</strong> International investors typically access the KRX through global brokers offering Korean equity trading (Interactive Brokers, Fidelity International, and major prime brokerage platforms). Some Korean brokers (Kiwoom, Mirae Asset) offer English-language online brokerage services for non-residents, though account opening requirements vary.
 
 ---
 
 ## Quick Q&A
 
-**Is YG Entertainment a good investment?**
+<strong>Is YG Entertainment a good investment?</strong>
 YG offers concentrated exposure to BLACKPINK's global commercial reach and the emerging BABYMONSTER opportunity. It is a high-conviction, high-volatility play for investors who believe K-pop's global growth runway remains long. It is not suitable for investors seeking stable earnings or who are uncomfortable with artist concentration risk. This analysis does not constitute a recommendation.
 
-**How to buy YG Entertainment stock?**
+<strong>How to buy YG Entertainment stock?</strong>
 The stock trades on KOSPI under ticker 122870.KS. Foreign investors can access it through brokers offering Korean equity market connectivity. No US-listed ADR exists as of April 2026. Broad Korea ETFs (e.g., EWY) offer indirect, lower-conviction exposure.
 
-**What is YG Entertainment's main risk?**
+<strong>What is YG Entertainment's main risk?</strong>
 Artist concentration — specifically, the outsized dependence on BLACKPINK group activity — is the most cited structural risk. Secondary risks include corporate governance history and the broader challenge of sustaining K-pop audience growth in increasingly competitive global markets.
 
 ---

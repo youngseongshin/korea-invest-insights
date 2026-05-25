@@ -19,11 +19,11 @@ description: "Combining cumulative accumulation from May 4–14 with same-day ab
 draft: false
 ---
 
-> 🔗 **Related reading**: [May 15 Closing Brief — Samsung Electronics ₩2.5T Foreign Sell, Why Now](/ko/post/kr-kr-close-briefing-2026-05-15/) · [May 15 Macro Gate — Relative Strength Survivors in the KOSPI Crash](/ko/post/kospi-crash-relative-strength-macro-gate-2026-05-15/) · [Jeju Semiconductor 1Q26 Earnings — Benefiting from AI-Driven Legacy Memory Tightness](/ko/post/jeju-semiconductor-1q26-earnings-legacy-memory-squeeze-2026-05-15/)
+> 🔗 <strong>Related reading</strong>: [May 15 Closing Brief — Samsung Electronics ₩2.5T Foreign Sell, Why Now](/ko/post/kr-kr-close-briefing-2026-05-15/) · [May 15 Macro Gate — Relative Strength Survivors in the KOSPI Crash](/ko/post/kospi-crash-relative-strength-macro-gate-2026-05-15/) · [Jeju Semiconductor 1Q26 Earnings — Benefiting from AI-Driven Legacy Memory Tightness](/ko/post/jeju-semiconductor-1q26-earnings-legacy-memory-squeeze-2026-05-15/)
 
-May 15 was a brutal session for Korean equities. Market-wide flow came in at foreigners **-₩5.18T**, institutions **-₩1.88T**, and retail **+₩6.93T**. Foreign selling was concentrated in large-caps, with retail absorbing the bulk of the supply.
+May 15 was a brutal session for Korean equities. Market-wide flow came in at foreigners <strong>-₩5.18T</strong>, institutions <strong>-₩1.88T</strong>, and retail <strong>+₩6.93T</strong>. Foreign selling was concentrated in large-caps, with retail absorbing the bulk of the supply.
 
-On a day like this, looking only at the top net-buy names is not enough. The more important question is: **which names had already been accumulating through May 14, and continued to see foreign and institutional buying even as the broader market sold off on May 15?**
+On a day like this, looking only at the top net-buy names is not enough. The more important question is: <strong>which names had already been accumulating through May 14, and continued to see foreign and institutional buying even as the broader market sold off on May 15?</strong>
 
 The answer from that lens is fairly clear. Hana Micron, HL Mando, Simtec, Jeju Semiconductor, and Rainbow Robotics stand out. Hana Micron and HL Mando in particular show the cleanest structure — retail selling, foreigners and institutions absorbing — during the crash.
 
@@ -33,11 +33,11 @@ Data covers cumulative flow from May 4 through May 14, 2026, combined with May 1
 
 ## Key Summary
 
-Layering the May 4–14 accumulation signal on top of the May 15 crash-day absorption reveals better candidates than a simple net-buy ranking. The core filter is **simultaneous foreign and institutional buying paired with retail selling**.
+Layering the May 4–14 accumulation signal on top of the May 15 crash-day absorption reveals better candidates than a simple net-buy ranking. The core filter is <strong>simultaneous foreign and institutional buying paired with retail selling</strong>.
 
 The strongest structure is: foreigners and institutions buying together through May 14, retail selling throughout, and both groups continuing to absorb on May 15. Names that pass this combined filter include Hana Micron, HL Mando, Rainbow Robotics, Jeju Semiconductor, Hugel, and GS Retail.
 
-Within semiconductors, Hana Micron stands out the most. On May 15 alone, foreigners net-bought **+₩91.8B**, while retail sold **-₩93.8B**. Simtec had strong dual-accumulation through May 14 but saw institutional wobble on the 15th. Jeju Semiconductor has strong flow but has already run sharply.
+Within semiconductors, Hana Micron stands out the most. On May 15 alone, foreigners net-bought <strong>+₩91.8B</strong>, while retail sold <strong>-₩93.8B</strong>. Simtec had strong dual-accumulation through May 14 but saw institutional wobble on the 15th. Jeju Semiconductor has strong flow but has already run sharply.
 
 On the flip side, LG Electronics, Hyundai Motor, and Hyundai E&C showed strong cumulative flow through May 14 but saw heavy foreign selling on May 15. These are not new screening candidates — they warrant caution around distribution rather than fresh entry.
 
@@ -63,9 +63,9 @@ The names below form the core of this screen. Foreigners and institutions bought
 
 The two most important rows in this table are Hana Micron and HL Mando.
 
-Hana Micron had been accumulating quietly through May 14. Then on May 15 — a crash day — foreigners net-bought **+₩91.8B** in a single session while retail sold **-₩93.8B**. The stock rose +18.61%. Flow and price exploded in the same direction simultaneously. Chasing the move carries short-term risk, but this is the strongest name from this screen.
+Hana Micron had been accumulating quietly through May 14. Then on May 15 — a crash day — foreigners net-bought <strong>+₩91.8B</strong> in a single session while retail sold <strong>-₩93.8B</strong>. The stock rose +18.61%. Flow and price exploded in the same direction simultaneously. Chasing the move carries short-term risk, but this is the strongest name from this screen.
 
-HL Mando offers a more comfortable setup. The stock declined -1.91% on May 15, but foreigners bought **+₩21.4B**, institutions bought **+₩13.6B**, and retail sold **-₩33.7B**. Foreigners and institutions absorbed retail supply together during the crash. The entry burden is considerably lower than names that have already surged.
+HL Mando offers a more comfortable setup. The stock declined -1.91% on May 15, but foreigners bought <strong>+₩21.4B</strong>, institutions bought <strong>+₩13.6B</strong>, and retail sold <strong>-₩33.7B</strong>. Foreigners and institutions absorbed retail supply together during the crash. The entry burden is considerably lower than names that have already surged.
 
 Rainbow Robotics has the best raw flow quality. However, it had already gained +22.8% through May 14 and carries significant valuation risk. "Good stock" and "good entry point" are different things. Here, waiting for a pullback is more prudent than chasing.
 
@@ -77,14 +77,14 @@ Within semiconductors, the ranking is sharper. Hana Micron leads, Simtec follows
 
 | Name | Interpretation |
 |---|---|
-| **Hana Micron** | Foreign buying of +₩91.8B on May 15 is dominant. Accumulation was quiet through May 14, then exploded on the crash day. Short-term chase risk is real, but this is the #1 name from this screen. |
-| **Simtec** | Through May 14: foreigners +₩66.6B, institutions +₩33.0B, retail -₩43.7B. On May 15: foreigners +₩12.6B, institutions -₩7.6B. Foreigners held but institutions wavered. |
-| **Jeju Semiconductor** | Dual accumulation through May 14 and again on May 15. But with +33.3% through May 14 and an additional +8.86% on May 15, chase risk is elevated. |
-| **Daeduck Electronics** | Core signal through May 14 was institutional +₩41.1B. On May 15: foreigners +₩3.8B, institutions -₩7.5B. Flow quality below Simtec. |
-| **Philoptics** | Strong through May 14, but saw simultaneous foreign and institutional selling on May 15. Downgraded from candidate list. |
-| **HPSP** | Foreign and institutional flow was intact through May 14, but foreigners sold on May 15. Appropriate for secondary observation only. |
+| <strong>Hana Micron</strong> | Foreign buying of +₩91.8B on May 15 is dominant. Accumulation was quiet through May 14, then exploded on the crash day. Short-term chase risk is real, but this is the #1 name from this screen. |
+| <strong>Simtec</strong> | Through May 14: foreigners +₩66.6B, institutions +₩33.0B, retail -₩43.7B. On May 15: foreigners +₩12.6B, institutions -₩7.6B. Foreigners held but institutions wavered. |
+| <strong>Jeju Semiconductor</strong> | Dual accumulation through May 14 and again on May 15. But with +33.3% through May 14 and an additional +8.86% on May 15, chase risk is elevated. |
+| <strong>Daeduck Electronics</strong> | Core signal through May 14 was institutional +₩41.1B. On May 15: foreigners +₩3.8B, institutions -₩7.5B. Flow quality below Simtec. |
+| <strong>Philoptics</strong> | Strong through May 14, but saw simultaneous foreign and institutional selling on May 15. Downgraded from candidate list. |
+| <strong>HPSP</strong> | Foreign and institutional flow was intact through May 14, but foreigners sold on May 15. Appropriate for secondary observation only. |
 
-Semiconductor flow conclusion: **Hana Micron > Simtec > Jeju Semiconductor > Daeduck Electronics**.
+Semiconductor flow conclusion: <strong>Hana Micron > Simtec > Jeju Semiconductor > Daeduck Electronics</strong>.
 
 Jeju Semiconductor, as covered separately in the earnings note, posted 1Q26 revenue of ₩180.5B, operating profit of ₩67.1B, and an operating margin of 37.2%. Earnings and flow are aligned. However, the stock moved first and moved hard — for new screening purposes, "strong but wait for a pullback" is the more reasonable framing.
 
@@ -137,12 +137,12 @@ Hyundai Motor follows the same pattern. Institutions held their position, but fo
 
 | Priority | Name | Conclusion |
 |---:|---|---|
-| 1 | **Hana Micron** | +₩91.8B foreign buying on the crash day vs. -₩93.8B retail selling. Strongest flow reversal on the screen |
-| 2 | **HL Mando** | Consecutive foreign and institutional buying; limited drawdown on May 15. Relatively low chase risk |
-| 3 | **Simtec** | Dual accumulation through May 14, foreigners held on May 15. Valid if institutional re-entry is confirmed |
-| 4 | **Jeju Semiconductor** | Flow very strong but already overheated. Wait for a pullback |
-| 5 | **Rainbow Robotics** | Best-in-class flow. Valuation and price burden argue against chasing |
-| 6 | **Hugel / GS Retail** | Defensive and consumer staples secondary ideas |
+| 1 | <strong>Hana Micron</strong> | +₩91.8B foreign buying on the crash day vs. -₩93.8B retail selling. Strongest flow reversal on the screen |
+| 2 | <strong>HL Mando</strong> | Consecutive foreign and institutional buying; limited drawdown on May 15. Relatively low chase risk |
+| 3 | <strong>Simtec</strong> | Dual accumulation through May 14, foreigners held on May 15. Valid if institutional re-entry is confirmed |
+| 4 | <strong>Jeju Semiconductor</strong> | Flow very strong but already overheated. Wait for a pullback |
+| 5 | <strong>Rainbow Robotics</strong> | Best-in-class flow. Valuation and price burden argue against chasing |
+| 6 | <strong>Hugel / GS Retail</strong> | Defensive and consumer staples secondary ideas |
 
 In practice, the candidates fall into three buckets.
 
@@ -162,7 +162,7 @@ By that standard, the two cleanest names are Hana Micron and HL Mando. Hana Micr
 
 Conversely, LG Electronics, Hyundai Motor, and Hyundai E&C should not be evaluated on their May 4–14 cumulative flow alone. The moment foreigners sold heavily on May 15, the conclusion changes. These names belong closer to profit-taking watch lists than new discovery candidates.
 
-From a portfolio manager's perspective, the genuinely strong stocks in a crash are not the top performers on the day. They are **the names where retail sold and foreigners plus institutions absorbed**. By that measure, Hana Micron and HL Mando passed the test most cleanly in this screen.
+From a portfolio manager's perspective, the genuinely strong stocks in a crash are not the top performers on the day. They are <strong>the names where retail sold and foreigners plus institutions absorbed</strong>. By that measure, Hana Micron and HL Mando passed the test most cleanly in this screen.
 
 ---
 

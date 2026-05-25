@@ -26,7 +26,7 @@ Dans la fibre optique proprement dite, Daihan Optical (010170.KS), fabricant de 
 
 Pourquoi ce mouvement aujourd'hui ? Le consensus de marché s'établit autour d'un seul moteur : la demande d'infrastructure physique liée à l'intelligence artificielle. Les hyperscalers américains et asiatiques accélèrent leurs dépenses en centres de données, ce qui crée un besoin direct en câbles à haute tension (pour alimenter les GPU clusters) et en fibre optique (pour les interconnexions à faible latence entre serveurs). Les sociétés coréennes sont positionnées sur la partie amont de cette chaîne, moins visible que les fabricants de puces mais structurellement exposée à la même tendance.
 
-**Un point de prudence s'impose cependant** : Gaon Cable affiche un RSI (indice de force relative technique) de 95,5 et un écart de prix par rapport à sa moyenne mobile de +231 %. Ces niveaux signalent une surchauffe à court terme. Pour les investisseurs qui ne sont pas encore positionnés, une correction de un à deux jours offrirait une meilleure fenêtre d'entrée que le cours actuel.
+<strong>Un point de prudence s'impose cependant</strong> : Gaon Cable affiche un RSI (indice de force relative technique) de 95,5 et un écart de prix par rapport à sa moyenne mobile de +231 %. Ces niveaux signalent une surchauffe à court terme. Pour les investisseurs qui ne sont pas encore positionnés, une correction de un à deux jours offrirait une meilleure fenêtre d'entrée que le cours actuel.
 
 ---
 
@@ -66,8 +66,8 @@ Pearl Abyss (263750.KQ), éditeur coréen du jeu en ligne *Black Desert Online* 
 
 Trois indicateurs concentreront l'attention des opérateurs le 9 mai :
 
-1. **Le flux étranger sur Samsung Electronics** : un retour sous 2 000 milliards de ventes nettes quotidiennes serait un signal d'apaisement.
-2. **La tenue de Daeduck Electronics au-dessus de 120 000 wons** avec maintien du flux composite positif — validation d'un signal d'achat de qualité.
-3. **Les détails du contrat Pharmicell** publiés sur DART : contrepartie et montant seront déterminants pour évaluer si le marché a sous-réagi ou correctement anticipé.
+1. <strong>Le flux étranger sur Samsung Electronics</strong> : un retour sous 2 000 milliards de ventes nettes quotidiennes serait un signal d'apaisement.
+2. <strong>La tenue de Daeduck Electronics au-dessus de 120 000 wons</strong> avec maintien du flux composite positif — validation d'un signal d'achat de qualité.
+3. <strong>Les détails du contrat Pharmicell</strong> publiés sur DART : contrepartie et montant seront déterminants pour évaluer si le marché a sous-réagi ou correctement anticipé.
 
 La bourse coréenne navigue en régime haussier confirmé, mais la séance du 8 mai enseigne une leçon précieuse : dans un bull market de deuxième phase, ce sont les rotations sectorielles — et non la marée montante générale — qui font la différence entre performance et sous-performance.

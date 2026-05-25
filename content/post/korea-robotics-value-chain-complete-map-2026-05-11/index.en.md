@@ -9,12 +9,12 @@ tags: ["Robotics", "Humanoid Robots", "Physical AI", "Boston Dynamics", "Rainbow
 
 > This is a Korea AI hardware value-chain piece. For broader context, start with the [Korean AI Companies Hub](/page/korean-ai-companies-hub/) and the [KOSDAQ complete guide](/post/kosdaq-complete-guide-promotion-relegation-system-2026-05-10/). For related public-market angles, see the Samsung Electro-Mechanics coverage on [AI infrastructure re-rating](/post/samsung-electro-mechanics-mirae-tp-1300000-valuation-frame-shift-2026-05-07/) and the Hyundai Mobis [EV and robotics deep dive](/post/kr-deep-dive-hyundai-mobis-2026-04-28/).
 >
-> 🔄 **Robotics series follow-ups (2026-05-12)**:
+> 🔄 <strong>Robotics series follow-ups (2026-05-12)</strong>:
 > · [Part 2 — SPG vs. Halla Cast (reducers vs. structural parts)](/post/spg-vs-halla-cast-robot-component-comparison-2026-05-12/)
 > · [Part 3 — Robotis vs. Rainbow Robotics (humanoid whole-robot compare)](/post/robotis-vs-rainbow-robotics-humanoid-comparison-2026-05-12/)
 > · [Korea Humanoid / Robotics Investment Hub](/page/korea-humanoid-robotics-hub/)
 
-The useful question in Korean robotics is not whether robots are a promising theme. The market has already assigned a large amount of value to that answer. The more practical question is simpler: **where does revenue show up first?**
+The useful question in Korean robotics is not whether robots are a promising theme. The market has already assigned a large amount of value to that answer. The more practical question is simpler: <strong>where does revenue show up first?</strong>
 
 Samsung Electronics is talking about AI-driven factories and physical AI. Hyundai Motor Group has a concrete route through Boston Dynamics and the Atlas humanoid. LG Electronics is building around actuators, service robots and physical-AI components. The direction is real.
 
@@ -26,12 +26,12 @@ This post is not an attempt to hype or dismiss the sector. It is a map of the di
 
 ## TL;DR
 
-1. **Samsung, Hyundai and LG are all moving at the same time.** Samsung is framing robotics around AI-driven manufacturing, Hyundai has Boston Dynamics and Atlas deployment plans, and LG is pushing actuators and service robots.
-2. **The first verification window is 2H26 through 2028.** Samsung Electro-Mechanics humanoid camera modules, Hyundai's RMAC and Atlas deployment, LG actuator production and HL Mando's 2027-2028 actuator line buildout sit in this window.
-3. **Humanoid robots are a parts problem as much as an AI problem.** Reducers, actuators, camera modules, sensors, batteries, grippers and assembly quality determine cost and performance.
-4. **Many Korean robotics listings still have earnings far behind valuation.** Pure-play robotics names may have large market caps relative to current sales.
-5. **Revenue may appear first in parts suppliers.** SPG, Robotis, HL Mando, Samsung Electro-Mechanics, LG Innotek and Hyundai Mobis have existing manufacturing businesses that can absorb robotics demand as incremental revenue.
-6. **Atlas and Optimus supply chains include many estimates.** Treat development exposure, confirmed orders and recognized revenue as three different stages.
+1. <strong>Samsung, Hyundai and LG are all moving at the same time.</strong> Samsung is framing robotics around AI-driven manufacturing, Hyundai has Boston Dynamics and Atlas deployment plans, and LG is pushing actuators and service robots.
+2. <strong>The first verification window is 2H26 through 2028.</strong> Samsung Electro-Mechanics humanoid camera modules, Hyundai's RMAC and Atlas deployment, LG actuator production and HL Mando's 2027-2028 actuator line buildout sit in this window.
+3. <strong>Humanoid robots are a parts problem as much as an AI problem.</strong> Reducers, actuators, camera modules, sensors, batteries, grippers and assembly quality determine cost and performance.
+4. <strong>Many Korean robotics listings still have earnings far behind valuation.</strong> Pure-play robotics names may have large market caps relative to current sales.
+5. <strong>Revenue may appear first in parts suppliers.</strong> SPG, Robotis, HL Mando, Samsung Electro-Mechanics, LG Innotek and Hyundai Mobis have existing manufacturing businesses that can absorb robotics demand as incremental revenue.
+6. <strong>Atlas and Optimus supply chains include many estimates.</strong> Treat development exposure, confirmed orders and recognized revenue as three different stages.
 
 ---
 
@@ -64,7 +64,7 @@ Older robots repeated pre-programmed motions. They stopped when the environment 
 
 That matters most for humanoids. A humanoid is only useful if it can operate in messy environments such as factories, warehouses, stores and eventually homes. That requires both machine intelligence and reliable hardware.
 
-AI does not remove the hardware bottleneck. If reducers are noisy, actuators are expensive, batteries last too briefly or cameras cannot support precise gripping, commercialization still slows. Physical AI should therefore be analyzed as a **body-plus-brain value chain**, not as software alone.
+AI does not remove the hardware bottleneck. If reducers are noisy, actuators are expensive, batteries last too briefly or cameras cannot support precise gripping, commercialization still slows. Physical AI should therefore be analyzed as a <strong>body-plus-brain value chain</strong>, not as software alone.
 
 ---
 
@@ -76,29 +76,29 @@ A humanoid robot breaks into several core hardware layers.
 
 Motors spin fast. Robot joints need slower motion with high torque. A reducer converts motor speed into controlled force.
 
-Reducers are costly and technically demanding because small errors create vibration and imprecision. Japan's Harmonic Drive has long been the reference company in this layer. In Korea, **SPG** is the most visible listed reducer supplier. It appears repeatedly in Korean robotics value-chain maps across Boston Dynamics, Rainbow Robotics, Samsung and LG-related platforms.
+Reducers are costly and technically demanding because small errors create vibration and imprecision. Japan's Harmonic Drive has long been the reference company in this layer. In Korea, <strong>SPG</strong> is the most visible listed reducer supplier. It appears repeatedly in Korean robotics value-chain maps across Boston Dynamics, Rainbow Robotics, Samsung and LG-related platforms.
 
 ### 3.2 Actuators: The Muscle Module
 
 An actuator combines motor, reducer, driver and sensor into a joint module. A humanoid can use 20-40 or more actuators, so both price and reliability matter.
 
-Korean names in this layer include **Robotis**, **HL Mando**, **Hyundai Mobis** and **LG Electronics**. HL Mando is trying to extend automotive steering and braking know-how into robot actuators. LG Electronics has emphasized actuator production because actuators represent a large share of robot cost.
+Korean names in this layer include <strong>Robotis</strong>, <strong>HL Mando</strong>, <strong>Hyundai Mobis</strong> and <strong>LG Electronics</strong>. HL Mando is trying to extend automotive steering and braking know-how into robot actuators. LG Electronics has emphasized actuator production because actuators represent a large share of robot cost.
 
 ### 3.3 Cameras and Sensors: The Eyes
 
 Physical AI needs perception. Cameras, lidar, inertial sensors and force-torque sensors allow robots to locate objects, move around people and perform gripping.
 
-**Samsung Electro-Mechanics** and **LG Innotek** are natural Korean names here because both already mass-produce camera modules for smartphones, vehicles and adjacent applications. Samsung Electro-Mechanics has discussed high-resolution recognition modules for humanoid customers and small, thin camera technology for precise gripping. Media reports have pointed to humanoid camera-module production in the second half of 2026.
+<strong>Samsung Electro-Mechanics</strong> and <strong>LG Innotek</strong> are natural Korean names here because both already mass-produce camera modules for smartphones, vehicles and adjacent applications. Samsung Electro-Mechanics has discussed high-resolution recognition modules for humanoid customers and small, thin camera technology for precise gripping. Media reports have pointed to humanoid camera-module production in the second half of 2026.
 
 ### 3.4 Batteries and Power
 
 Humanoids consume power through motors, compute and sensors. Battery density and safety therefore matter.
 
-**LG Energy Solution** and **Samsung SDI** are the natural Korean power-layer names. Samsung SDI has discussed solid-state batteries for physical AI, while LG Energy Solution has deep cell and pack manufacturing capabilities that could extend into robotics over time.
+<strong>LG Energy Solution</strong> and <strong>Samsung SDI</strong> are the natural Korean power-layer names. Samsung SDI has discussed solid-state batteries for physical AI, while LG Energy Solution has deep cell and pack manufacturing capabilities that could extend into robotics over time.
 
 ### 3.5 Assembly and Manufacturing
 
-A robot is also a precision-manufactured product. Frames, covers, wiring, heat management, quality testing and final assembly all matter. **Intops** is often mentioned as an OEM assembly candidate because of its electronics manufacturing background.
+A robot is also a precision-manufactured product. Frames, covers, wiring, heat management, quality testing and final assembly all matter. <strong>Intops</strong> is often mentioned as an OEM assembly candidate because of its electronics manufacturing background.
 
 This is where Korea's broader manufacturing base becomes relevant. Robotics sits between electronics and automotive components. Korea has both.
 

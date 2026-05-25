@@ -23,13 +23,13 @@ slug: ai-substrate-vs-test-socket-comparison-2026-05-15
 
 ## Key takeaways
 
-* **Two regions in AI back-end**: substrates and test sockets.
-* **Substrate essence**: a "direct CAPEX beta" on AI-server build-out. More units → more revenue; larger packages → higher ASP.
-* **Test-socket essence**: a "high-margin consumables beta" on chip complexity. More complex chips → harder testing → more / harder sockets.
-* **Profitability gap**: on 1Q26, Daeduck Electronics 14.8% vs ISC 35% vs LEENO Industrial 47.4%. **Test sockets dominate**.
-* **Momentum gap**: substrate earnings revisions are faster — ASP hikes, new big-tech LTAs, capacity tightness are all near-term catalysts.
-* **Cycle risk**: substrates are a CAPEX cycle (shortage → CAPEX → glut). Test sockets, being consumables, run with lower cyclicality.
-* **Bottom line**: short-term momentum trades → substrates (Daeduck Electronics, Samsung Electro-Mechanics). 1–2 year compounding → test sockets (LEENO Industrial, ISC). These are not the same "AI theme."
+* <strong>Two regions in AI back-end</strong>: substrates and test sockets.
+* <strong>Substrate essence</strong>: a "direct CAPEX beta" on AI-server build-out. More units → more revenue; larger packages → higher ASP.
+* <strong>Test-socket essence</strong>: a "high-margin consumables beta" on chip complexity. More complex chips → harder testing → more / harder sockets.
+* <strong>Profitability gap</strong>: on 1Q26, Daeduck Electronics 14.8% vs ISC 35% vs LEENO Industrial 47.4%. <strong>Test sockets dominate</strong>.
+* <strong>Momentum gap</strong>: substrate earnings revisions are faster — ASP hikes, new big-tech LTAs, capacity tightness are all near-term catalysts.
+* <strong>Cycle risk</strong>: substrates are a CAPEX cycle (shortage → CAPEX → glut). Test sockets, being consumables, run with lower cyclicality.
+* <strong>Bottom line</strong>: short-term momentum trades → substrates (Daeduck Electronics, Samsung Electro-Mechanics). 1–2 year compounding → test sockets (LEENO Industrial, ISC). These are not the same "AI theme."
 
 ---
 
@@ -649,15 +649,15 @@ KOSPI crash + macro-gate piece:
 
 ## 9. The one-line bottom line
 
-When AI silicon sells, the first beneficiaries are the GPU and HBM makers. But the back end also has two big winners — **substrates and test sockets**.
+When AI silicon sells, the first beneficiaries are the GPU and HBM makers. But the back end also has two big winners — <strong>substrates and test sockets</strong>.
 
-Both are grouped as "AI back-end," but the structures are completely different. **Substrates are an "AI server volume beta."** Volumes rise, packages get bigger, ASPs lift — direct upside. Momentum is fast and operating margins expand from a \~12–15% base in 1Q26. But this is a CAPEX-cycle industry, and the build-out-complete date is the risk.
+Both are grouped as "AI back-end," but the structures are completely different. <strong>Substrates are an "AI server volume beta."</strong> Volumes rise, packages get bigger, ASPs lift — direct upside. Momentum is fast and operating margins expand from a \~12–15% base in 1Q26. But this is a CAPEX-cycle industry, and the build-out-complete date is the risk.
 
-**Test sockets are a "chip-complexity beta."** As chips get more complex, testing gets harder, and new sockets are needed each time. OPM sits at 35% for ISC and 47% for LEENO — roughly 3x substrate margins. Consumable economics dampen cyclicality. The downsides: the TAM is small and multiples are already rich.
+<strong>Test sockets are a "chip-complexity beta."</strong> As chips get more complex, testing gets harder, and new sockets are needed each time. OPM sits at 35% for ISC and 47% for LEENO — roughly 3x substrate margins. Consumable economics dampen cyclicality. The downsides: the TAM is small and multiples are already rich.
 
-**Don't lump them as one "AI theme."** For short-term momentum, substrates (Daeduck Electronics, Samsung Electro-Mechanics) lead. For 1–2 year holding, test sockets (LEENO Industrial, ISC) make more sense. The best play is to hold both as complements — when substrates shake at a cycle peak, test sockets defend; when test sockets feel multiple pressure, substrates' momentum carries.
+<strong>Don't lump them as one "AI theme."</strong> For short-term momentum, substrates (Daeduck Electronics, Samsung Electro-Mechanics) lead. For 1–2 year holding, test sockets (LEENO Industrial, ISC) make more sense. The best play is to hold both as complements — when substrates shake at a cycle peak, test sockets defend; when test sockets feel multiple pressure, substrates' momentum carries.
 
-**Same AI tailwind, completely different structures — understanding just that lifts the quality of back-end investment decisions by a full step.**
+<strong>Same AI tailwind, completely different structures — understanding just that lifts the quality of back-end investment decisions by a full step.</strong>
 
 ---
 

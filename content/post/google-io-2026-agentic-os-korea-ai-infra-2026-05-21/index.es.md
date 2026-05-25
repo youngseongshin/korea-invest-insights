@@ -28,20 +28,20 @@ valley_cashtags:
   - 효성중공업
 ---
 
-> 📚 **Series relacionadas**
+> 📚 <strong>Series relacionadas</strong>
 > [Vista previa Google I/O + resultados NVIDIA]/es/post/google-io-nvidia-earnings-korea-semi-preview-2026-05-17/) / [Infraestructura IA coreana tras NVIDIA Q1 FY27]/es/post/nvidia-q1-fy27-korea-ai-infra-supply-chain-2026-05-21/) / [Samsung Electronics: rerating al estilo TSMC]/es/post/samsung-electronics-tsmc-rerating-thesis-2026-05-16/) / [Samsung Electro-Mechanics: retador híbrido]/es/post/samsung-electro-mechanics-hybrid-challenger-2026-05-17/) / [Panorama de mercado del 17 de mayo]/es/post/macro-snapshot-complex-risk-off-recovery-triggers-2026-05-17/)
 
 *Google I/O 2026 no fue un simple anuncio de modelos. Fue un evento que agrupó Gemini 3.5, Gemini Omni, Gemini Spark, Antigravity, AI Search, Universal Cart y Android XR para rediseñar todo el portafolio de productos de Google como un OS agéntico. La búsqueda deja de ser una ventana que muestra enlaces y se convierte en una interfaz que ejecuta tareas; el shopping se convierte en un agente de carrito; las herramientas para desarrolladores se convierten en un runtime que ejecuta múltiples agentes en paralelo. Desde la perspectiva inversora, lo clave no es Alphabet en sí, sino los cuellos de botella de infraestructura que esta transformación genera: rendimiento de tokens, tráfico de inferencia, CapEx de centros de datos, HBM, packaging, integridad de energía, PCBs de alta capa y equipos de potencia. Tras Google I/O, el alfa coreano proviene no de los modelos, sino de los cuellos de botella.*
 
 ## Puntos clave
 
-* **La esencia de Google I/O 2026**: Google reunió Gemini 3.5 Flash, Gemini Omni Flash, agentes de búsqueda, Gemini Spark, Antigravity 2.0, Managed Agents API, Universal Cart y Android XR en una sola capa de producto agéntico.
-* **La tesis del colapso de la búsqueda aún no está respaldada por los números**: Los ingresos de Search & other de Alphabet en Q1 2026 fueron de 60.399 millones de dólares, un aumento aproximado del 19,1% interanual frente a los 50.702 millones del mismo período del año anterior. Por ahora, esto se parece menos a que la IA esté erosionando Search y más a que Google absorbe Search dentro de una interfaz de IA.
-* **El número más importante es el rendimiento de tokens**: Google reveló que los tokens procesados mensualmente crecieron de 9,7 billones en mayo de 2024, a aproximadamente 480 billones en el I/O de 2025, y a más de 32 cuatrillones en mayo de 2026. El OS agéntico desplaza la unidad de uso desde las consultas de búsqueda hacia tokens, tareas y conteos de ejecución de agentes.
-* **Las acciones de Alphabet confirman defensividad; Corea debería seguir el cuello de botella**: El caso de Alphabet como empresa de IA de pila completa se ha fortalecido, pero su capitalización en el rango de los 4 billones de dólares y un múltiplo de beneficios en torno a 30× ya reflejan expectativas significativas. El alfa fresco es más visible en HBM, packaging, integridad de energía, PCBs y potencia para centros de datos.
-* **Prioridad coreana**: Samsung Electro-Mechanics > Samsung Electronics > SK Hynix > Equipos de test/socket/HBM > ISU Petasys · Daeduck Electronics · TLB · Korea Circuit > Equipos de potencia.
-* **La idea más sólida**: Samsung Electro-Mechanics. El contrato de condensadores de silicio por 1,557 billones de KRW es evidencia de que la estabilización de energía dentro de los paquetes de IA ha emergido como un cuello de botella diferenciado.
-* **Condiciones macro**: Si las siete compuertas macro del panorama del 17 de mayo no se han despejado, los nombres de infraestructura IA con P/E elevado pueden tambalearse incluso con una buena tesis. Escalar posiciones tras confirmación supera a perseguir movimientos.
+* <strong>La esencia de Google I/O 2026</strong>: Google reunió Gemini 3.5 Flash, Gemini Omni Flash, agentes de búsqueda, Gemini Spark, Antigravity 2.0, Managed Agents API, Universal Cart y Android XR en una sola capa de producto agéntico.
+* <strong>La tesis del colapso de la búsqueda aún no está respaldada por los números</strong>: Los ingresos de Search & other de Alphabet en Q1 2026 fueron de 60.399 millones de dólares, un aumento aproximado del 19,1% interanual frente a los 50.702 millones del mismo período del año anterior. Por ahora, esto se parece menos a que la IA esté erosionando Search y más a que Google absorbe Search dentro de una interfaz de IA.
+* <strong>El número más importante es el rendimiento de tokens</strong>: Google reveló que los tokens procesados mensualmente crecieron de 9,7 billones en mayo de 2024, a aproximadamente 480 billones en el I/O de 2025, y a más de 32 cuatrillones en mayo de 2026. El OS agéntico desplaza la unidad de uso desde las consultas de búsqueda hacia tokens, tareas y conteos de ejecución de agentes.
+* <strong>Las acciones de Alphabet confirman defensividad; Corea debería seguir el cuello de botella</strong>: El caso de Alphabet como empresa de IA de pila completa se ha fortalecido, pero su capitalización en el rango de los 4 billones de dólares y un múltiplo de beneficios en torno a 30× ya reflejan expectativas significativas. El alfa fresco es más visible en HBM, packaging, integridad de energía, PCBs y potencia para centros de datos.
+* <strong>Prioridad coreana</strong>: Samsung Electro-Mechanics > Samsung Electronics > SK Hynix > Equipos de test/socket/HBM > ISU Petasys · Daeduck Electronics · TLB · Korea Circuit > Equipos de potencia.
+* <strong>La idea más sólida</strong>: Samsung Electro-Mechanics. El contrato de condensadores de silicio por 1,557 billones de KRW es evidencia de que la estabilización de energía dentro de los paquetes de IA ha emergido como un cuello de botella diferenciado.
+* <strong>Condiciones macro</strong>: Si las siete compuertas macro del panorama del 17 de mayo no se han despejado, los nombres de infraestructura IA con P/E elevado pueden tambalearse incluso con una buena tesis. Escalar posiciones tras confirmación supera a perseguir movimientos.
 
 ---
 
@@ -299,12 +299,12 @@ La prioridad coreana, por tanto, no es ningún diseñador de chips estadounidens
 
 ### Condiciones de entrada
 
-* **Samsung Electro-Mechanics**: Confirmación de clientes adicionales de condensadores de silicio, planes de expansión y posible desglose de ingresos de AI MLCC/FC-BGA.
-* **Samsung Electronics**: Calificación de clientes HBM4, die base HBM4, volumen hacia clientes Google/Broadcom/ASIC, o señales de recuperación de foundry.
-* **SK Hynix**: Los precios de HBM4 se mantienen, rampa de NVIDIA Rubin, corrección del 10–15%, o alivio del sobrecalentamiento de oferta/demanda.
-* **PCB / Sustratos**: Cuando se confirmen en resultados trimestrales la mezcla de ingresos orientada a IA, la prima de ASP y el mantenimiento de margen operativo.
-* **Test / Socket**: Confirmación de referencias de clientes TPU/ASIC/HBM y nuevos ingresos por socket.
-* **Equipos de potencia**: Cuando se confirmen simultáneamente el crecimiento de la cartera de pedidos de centros de datos norteamericanos y el mantenimiento del margen operativo.
+* <strong>Samsung Electro-Mechanics</strong>: Confirmación de clientes adicionales de condensadores de silicio, planes de expansión y posible desglose de ingresos de AI MLCC/FC-BGA.
+* <strong>Samsung Electronics</strong>: Calificación de clientes HBM4, die base HBM4, volumen hacia clientes Google/Broadcom/ASIC, o señales de recuperación de foundry.
+* <strong>SK Hynix</strong>: Los precios de HBM4 se mantienen, rampa de NVIDIA Rubin, corrección del 10–15%, o alivio del sobrecalentamiento de oferta/demanda.
+* <strong>PCB / Sustratos</strong>: Cuando se confirmen en resultados trimestrales la mezcla de ingresos orientada a IA, la prima de ASP y el mantenimiento de margen operativo.
+* <strong>Test / Socket</strong>: Confirmación de referencias de clientes TPU/ASIC/HBM y nuevos ingresos por socket.
+* <strong>Equipos de potencia</strong>: Cuando se confirmen simultáneamente el crecimiento de la cartera de pedidos de centros de datos norteamericanos y el mantenimiento del margen operativo.
 
 ### Catalizadores
 
@@ -356,7 +356,7 @@ Los números del Q1 2026 de Alphabet muestran que esta transición aún no ha da
 
 Pero el verdadero punto de inversión es el cuello de botella de infraestructura IA, no la propia Alphabet. Google reveló que los tokens procesados mensualmente crecieron de 9,7 billones en mayo de 2024 a más de 32 cuatrillones en mayo de 2026. También indicó que el CapEx podría expandirse de 31.000 millones de dólares en 2022 a aproximadamente 180.000–190.000 millones este año. Este desplazamiento es una función de demanda para HBM, packaging, integridad de energía, PCBs e infraestructura eléctrica.
 
-Las prioridades coreanas son claras. **Samsung Electro-Mechanics** ha confirmado el cuello de botella de integridad de energía en paquetes IA a través de un contrato real a gran escala de condensadores de silicio. **Samsung Electronics** es una opción donde la multipolaridad TPU/ASIC puede reducir el descuento por HBM tardío. **SK Hynix** sigue siendo el nombre más sólido en HBM pero ya es una operación congestionada. **PCBs/sustratos, test y equipos de potencia** tienen un potencial significativo de beneficiario pero requieren confirmación de resultados.
+Las prioridades coreanas son claras. <strong>Samsung Electro-Mechanics</strong> ha confirmado el cuello de botella de integridad de energía en paquetes IA a través de un contrato real a gran escala de condensadores de silicio. <strong>Samsung Electronics</strong> es una opción donde la multipolaridad TPU/ASIC puede reducir el descuento por HBM tardío. <strong>SK Hynix</strong> sigue siendo el nombre más sólido en HBM pero ya es una operación congestionada. <strong>PCBs/sustratos, test y equipos de potencia</strong> tienen un potencial significativo de beneficiario pero requieren confirmación de resultados.
 
 La conclusión es simple. El alfa post-Google I/O no proviene de "qué modelo es más inteligente" sino de "dónde el creciente uso agéntico obliga a gastar en cuellos de botella". La respuesta no es solo Alphabet. Es HBM, packaging, condensadores de silicio, PCBs de alta capa y potencia para centros de datos. De estos, el alfa coreano más fresco ahora mismo es Samsung Electro-Mechanics. Pero hasta que las compuertas macro se abran, escalar posiciones tras confirmación supera a perseguir el movimiento.
 

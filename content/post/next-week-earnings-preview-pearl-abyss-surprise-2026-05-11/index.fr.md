@@ -17,18 +17,18 @@ tags:
   - "Surprise de résultats"
 ---
 
-*Dix grandes sociétés cotées coréennes publient leurs résultats du T1 2026 entre le 11 et le 15 mai. Où l'écart entre le consensus FnGuide et la réalité probable est-il le plus prononcé ? **Pearl Abyss arrive largement en tête.** Le résultat opérationnel consensuel est de ₩143,5 Mds ; certaines estimations sell-side s'échelonnent entre ₩254,7 Mds et ₩275,2 Mds — un écart de +75 à +92 %. Crimson Desert s'est vendu à 4 millions d'unités dans les 12 premiers jours suivant son lancement (20 mars) et à 5 millions en 26 jours, l'essentiel des revenus imputables au T1 tombant bien sur cette période. **On n'est pas dans le registre d'un « léger dépassement » — on est dans celui d'un « consensus structurellement erroné ».**
+*Dix grandes sociétés cotées coréennes publient leurs résultats du T1 2026 entre le 11 et le 15 mai. Où l'écart entre le consensus FnGuide et la réalité probable est-il le plus prononcé ? <strong>Pearl Abyss arrive largement en tête.</strong> Le résultat opérationnel consensuel est de ₩143,5 Mds ; certaines estimations sell-side s'échelonnent entre ₩254,7 Mds et ₩275,2 Mds — un écart de +75 à +92 %. Crimson Desert s'est vendu à 4 millions d'unités dans les 12 premiers jours suivant son lancement (20 mars) et à 5 millions en 26 jours, l'essentiel des revenus imputables au T1 tombant bien sur cette période. <strong>On n'est pas dans le registre d'un « léger dépassement » — on est dans celui d'un « consensus structurellement erroné ».</strong>
 
 ---
 
 ## Résumé
 
-* **Principal candidat à la surprise : Pearl Abyss.** RO du 1T26 selon le consensus FnGuide : ₩143,5 Mds, contre ₩254,7 Mds (Shinhan Investment) et ₩275,2 Mds (Meritz Securities) — écart de +75 à +92 %. Les 3,0 à 3,8 millions d'unités imputables au T1 pour Crimson Desert se concentrent sur un seul trimestre dans le compte de résultat.
-* **N° 2 : SK Innovation.** RO consensuel ₩2,05 billions ; certains analystes sell-side projettent ₩2,5 à ₩3,8 billions. Mais l'écart est en grande partie ponctuel (marges de raffinage + gains de réévaluation des stocks), ce qui pourrait amener le marché à le minorer en tant que non-récurrent.
-* **N° 3 : Mirae Asset Securities.** Volume journalier du KOSPI au T1 : ₩45,3 billions (+147 % en GA). Des résultats solides sont hautement probables, mais le volume est observable publiquement — le consensus s'est déjà ajusté. La *taille de la surprise* reste donc limitée.
-* **Lotte Chemical = candidat à la surprise négative.** La perte opérationnelle consensuelle de -₩20,3 Mds sous-estime probablement la pression des coûts du naphta (certaines prévisions tablent sur -₩121,8 Mds, soit 6 fois plus large). Prendre position avant la publication est inefficient.
-* **KT&G a déjà publié.** Publication du 7 mai : RO de ₩364,5 Mds, soit +6,5 % au-dessus du consensus.
-* **Positionnement le plus rationnel.** Attendre la publication, puis réagir aux révisions du consensus et à la réponse des flux — plutôt que de parier avant la sortie des chiffres.
+* <strong>Principal candidat à la surprise : Pearl Abyss.</strong> RO du 1T26 selon le consensus FnGuide : ₩143,5 Mds, contre ₩254,7 Mds (Shinhan Investment) et ₩275,2 Mds (Meritz Securities) — écart de +75 à +92 %. Les 3,0 à 3,8 millions d'unités imputables au T1 pour Crimson Desert se concentrent sur un seul trimestre dans le compte de résultat.
+* <strong>N° 2 : SK Innovation.</strong> RO consensuel ₩2,05 billions ; certains analystes sell-side projettent ₩2,5 à ₩3,8 billions. Mais l'écart est en grande partie ponctuel (marges de raffinage + gains de réévaluation des stocks), ce qui pourrait amener le marché à le minorer en tant que non-récurrent.
+* <strong>N° 3 : Mirae Asset Securities.</strong> Volume journalier du KOSPI au T1 : ₩45,3 billions (+147 % en GA). Des résultats solides sont hautement probables, mais le volume est observable publiquement — le consensus s'est déjà ajusté. La *taille de la surprise* reste donc limitée.
+* <strong>Lotte Chemical = candidat à la surprise négative.</strong> La perte opérationnelle consensuelle de -₩20,3 Mds sous-estime probablement la pression des coûts du naphta (certaines prévisions tablent sur -₩121,8 Mds, soit 6 fois plus large). Prendre position avant la publication est inefficient.
+* <strong>KT&G a déjà publié.</strong> Publication du 7 mai : RO de ₩364,5 Mds, soit +6,5 % au-dessus du consensus.
+* <strong>Positionnement le plus rationnel.</strong> Attendre la publication, puis réagir aux révisions du consensus et à la réponse des flux — plutôt que de parier avant la sortie des chiffres.
 
 ---
 
@@ -39,7 +39,7 @@ tags:
 | 11/05 Lun | Lotte Shopping | +28,8 % | ₩207,5 Mds | Durabilité de la reprise des grands magasins |
 | 12/05 Mar | Mirae Asset Securities | +17,6 % | ₩1 357 Mds | Validation du rallye du courtage |
 | 12/05 Mar | Hanwha Life | -0,4 % | n/d | Raisons de la sous-performance des assureurs |
-| **12/05 Mar** | **Pearl Abyss** | **-7,1 %** | **₩143,5 Mds** | **Impact de Crimson Desert sur le P&L** |
+| <strong>12/05 Mar</strong> | <strong>Pearl Abyss</strong> | <strong>-7,1 %</strong> | <strong>₩143,5 Mds</strong> | <strong>Impact de Crimson Desert sur le P&L</strong> |
 | 13/05 Mer | SK Innovation | +11,9 % | ₩2 050 Mds | Sursaut du raffinage + retournement batterie |
 | 13/05 Mer | KT&G | +14,2 % | ₩342,1 Mds | *(publié le 7 mai : ₩364,5 Mds)* |
 | 14/05 Jeu | Samsung F&M Insurance | +6,6 % | ₩846,6 Mds | Valeur phare du secteur ; politique de dividende |
@@ -55,7 +55,7 @@ tags:
 
 ### 2.1 Ce qui produit une vraie surprise
 
-Les surprises de résultats exigent une structure spécifique : **un indicateur avancé observable publiquement que le consensus n'a pas encore intégré.**
+Les surprises de résultats exigent une structure spécifique : <strong>un indicateur avancé observable publiquement que le consensus n'a pas encore intégré.</strong>
 
 En appliquant ce filtre aux 10 valeurs :
 
@@ -78,12 +78,12 @@ Vent contraire structurel (risque de surprise négative) :
 
 | Rang | Société | Probabilité de surprise | Direction | Rationale principale |
 |---:|---|---|---|---|
-| **1** | **Pearl Abyss** | **Très élevée** | **Hausse** | Consensus ₩143,5 Mds vs. probable ₩250 Mds+ |
+| <strong>1</strong> | <strong>Pearl Abyss</strong> | <strong>Très élevée</strong> | <strong>Hausse</strong> | Consensus ₩143,5 Mds vs. probable ₩250 Mds+ |
 | 2 | SK Innovation | Élevée | Hausse | Marge de raffinage + gain sur stocks. Mais ponctuel |
 | 3 | Mirae Asset Securities | Moyen-élevé | Hausse | Sursaut du volume clair, mais déjà dans le consensus |
 | 4 | Lotte Shopping | Moyen | Légère hausse | Résultat solide mais seulement \~+2 % au-dessus du consensus |
 | 5 | CJ Corporation | Moyen-faible | Mixte | Le positif Olive Young compense la faiblesse CJ CheilJedang |
-| — | **Lotte Chemical** | **Moyen** | **Baisse** | La perte consensuelle de -₩20,3 Mds est peut-être trop optimiste |
+| — | <strong>Lotte Chemical</strong> | <strong>Moyen</strong> | <strong>Baisse</strong> | La perte consensuelle de -₩20,3 Mds est peut-être trop optimiste |
 | — | Assureurs (3) | Faible | Neutre | Pression du ratio sinistres auto. La publication importe moins que le dividende |
 
 ---
@@ -98,15 +98,15 @@ Le RO consensuel de Pearl Abyss pour le 1T26 est de ₩143,5 Mds. Certains analy
 |---|---:|---:|
 | Consensus (médiane) | ₩143,5 Mds | — |
 | NH Investment (début mars) | ₩78,6 Mds | -45 % |
-| Shinhan Investment | **₩254,7 Mds** | **+77 %** |
-| Meritz Securities | **₩275,2 Mds** | **+92 %** |
+| Shinhan Investment | <strong>₩254,7 Mds</strong> | <strong>+77 %</strong> |
+| Meritz Securities | <strong>₩275,2 Mds</strong> | <strong>+92 %</strong> |
 
 Vérifications croisées :
 
 * Écart Shinhan = (254,7 - 143,5) / 143,5 = +77,5 % ✓
 * Écart Meritz = (275,2 - 143,5) / 143,5 = +91,8 % ✓
 
-L'explication de cet écart est simple. La médiane du consensus inclut des estimations de début mars/avril, lorsque Crimson Desert venait tout juste d'être lancé (20 mars) et que la trajectoire des ventes d'unités était encore floue. Les données de ventes ont accéléré rapidement, mais les mises à jour broker par broker ont pris du retard. **La médiane lente à s'ajuster est structurellement inférieure à la réalité actuelle.**
+L'explication de cet écart est simple. La médiane du consensus inclut des estimations de début mars/avril, lorsque Crimson Desert venait tout juste d'être lancé (20 mars) et que la trajectoire des ventes d'unités était encore floue. Les données de ventes ont accéléré rapidement, mais les mises à jour broker par broker ont pris du retard. <strong>La médiane lente à s'ajuster est structurellement inférieure à la réalité actuelle.</strong>
 
 ### 3.2 Pourquoi les ventes de Crimson Desert sont si déterminantes
 
@@ -120,7 +120,7 @@ Jour 12 (01/04) :   4,0 millions d'unités
 Jour 26 (15/04) :   5,0 millions d'unités
 ```
 
-Les ventes imputables au T1 couvrent du 20 au 31 mars, soit \~12 jours. Avec 4,0 millions d'unités vendues au 1er avril, **les unités imputables au T1 s'établissent à environ 3,0–3,8 millions.**
+Les ventes imputables au T1 couvrent du 20 au 31 mars, soit \~12 jours. Avec 4,0 millions d'unités vendues au 1er avril, <strong>les unités imputables au T1 s'établissent à environ 3,0–3,8 millions.</strong>
 
 ```
 Estimation du chiffre d'affaires T1 (à titre indicatif) :
@@ -133,19 +133,19 @@ Mais la méthode de comptabilisation (brut vs. net) fait varier ce chiffre de fa
 La comptabilisation brute produit un CA beaucoup plus élevé ; la comptabilisation nette reste autour du chiffre ci-dessus.
 ```
 
-Cette estimation est simplifiée — les chiffres réels dépendent du mix de plateformes, des effets de change, des remises et des taux de remboursement. L'essentiel : **Crimson Desert a généré un pic de revenus important et soudain au T1, que le consensus n'a pas pleinement intégré.**
+Cette estimation est simplifiée — les chiffres réels dépendent du mix de plateformes, des effets de change, des remises et des taux de remboursement. L'essentiel : <strong>Crimson Desert a généré un pic de revenus important et soudain au T1, que le consensus n'a pas pleinement intégré.</strong>
 
 ### 3.3 Le titre a déjà corrigé — opportunité ?
 
 Pearl Abyss a clôturé le 8 mai à ₩52 500, en retrait par rapport au plus haut sur 52 semaines de ₩71 900 (-27 % depuis le pic). Performance sur 20 jours : -7,1 %. Facteurs : rotation des investisseurs vers les semi-conducteurs et prises de bénéfices post-rallye.
 
-**Ce que cela implique** : le consensus est bas, *et* le titre a corrigé. « Chiffre probablement fort sur un cours décoté » amplifie structurellement la réaction haussière *si* la publication confirme les attentes.
+<strong>Ce que cela implique</strong> : le consensus est bas, *et* le titre a corrigé. « Chiffre probablement fort sur un cours décoté » amplifie structurellement la réaction haussière *si* la publication confirme les attentes.
 
-**Mais « bon résultat = bon cours » n'est pas automatique.** Trois conditions sont nécessaires pour un reclassement durable :
+<strong>Mais « bon résultat = bon cours » n'est pas automatique.</strong> Trois conditions sont nécessaires pour un reclassement durable :
 
-1. **RO ≥ ₩220 Mds** — l'ampleur du dépassement doit être significative
-2. **Persistance visible des ventes au T2** — si l'élan du lancement laisse place à un fort repli, le marché classera ce chiffre comme ponctuel
-3. **Feuille de route contenu** — que se passe-t-il après Crimson Desert ? Le risque d'une falaise de revenus en 2027 est réel
+1. <strong>RO ≥ ₩220 Mds</strong> — l'ampleur du dépassement doit être significative
+2. <strong>Persistance visible des ventes au T2</strong> — si l'élan du lancement laisse place à un fort repli, le marché classera ce chiffre comme ponctuel
+3. <strong>Feuille de route contenu</strong> — que se passe-t-il après Crimson Desert ? Le risque d'une falaise de revenus en 2027 est réel
 
 ### 3.4 Scénarios
 
@@ -163,11 +163,11 @@ Pearl Abyss a clôturé le 8 mai à ₩52 500, en retrait par rapport au plus ha
 
 RO consensuel : ₩2,05 billions. BNK Investment projette ₩2,49 billions ; certains analystes sell-side atteignent ₩3,8 billions. La vigueur du segment raffinage (marge de raffinage + gain de réévaluation des stocks lors de la hausse du pétrole) en est le moteur.
 
-Le problème est la **qualité des résultats**. Les gains de réévaluation des stocks apparaissent quand le pétrole monte et s'inversent quand il baisse. Le marché pénalise les résultats non récurrents. Le gain de Pearl Abyss lié à Crimson Desert est spécifique à l'entreprise ; la marge de raffinage de SK Innovation dépend du prix du brut, déterminé en externe.
+Le problème est la <strong>qualité des résultats</strong>. Les gains de réévaluation des stocks apparaissent quand le pétrole monte et s'inversent quand il baisse. Le marché pénalise les résultats non récurrents. Le gain de Pearl Abyss lié à Crimson Desert est spécifique à l'entreprise ; la marge de raffinage de SK Innovation dépend du prix du brut, déterminé en externe.
 
 Le segment batteries reste en perte (-₩367,0 Mds projeté). La vigueur du raffinage masque le fait que le retournement structurel est inachevé.
 
-**Lecture** : n° 2 en termes de surprise par taille absolue, mais inférieur à Pearl Abyss comme thèse d'investissement. Même une publication solide pourrait produire une réaction boursière atténuée si le marché classe la hausse comme ponctuelle.
+<strong>Lecture</strong> : n° 2 en termes de surprise par taille absolue, mais inférieur à Pearl Abyss comme thèse d'investissement. Même une publication solide pourrait produire une réaction boursière atténuée si le marché classe la hausse comme ponctuelle.
 
 ---
 
@@ -181,11 +181,11 @@ Le RO consensuel de ₩1 357 Mds est déjà en hausse de +39 % par rapport au co
 
 ### 5.2 Pourquoi la taille de la surprise reste limitée
 
-Le volume journalier est **observable publiquement, divulgué chaque jour**. Tout le monde le sait. Donc, même si Mirae Asset publie au-dessus du consensus, la hausse a plus de chances de provenir du trading pour compte propre ou de la gestion d'actifs que de données « inattendues ».
+Le volume journalier est <strong>observable publiquement, divulgué chaque jour</strong>. Tout le monde le sait. Donc, même si Mirae Asset publie au-dessus du consensus, la hausse a plus de chances de provenir du trading pour compte propre ou de la gestion d'actifs que de données « inattendues ».
 
 Le titre, avec +17,6 % sur 20 jours, a également déjà intégré l'attente de résultats solides.
 
-**Lecture** : n° 3 en matière de surprise. Résultat solide, oui — surprise, limitée.
+<strong>Lecture</strong> : n° 3 en matière de surprise. Résultat solide, oui — surprise, limitée.
 
 ---
 
@@ -199,7 +199,7 @@ Le rallye de +9,1 % sur 20 jours signale des achats spéculatifs sur le thème d
 
 L'arrêt de 3 ans de l'unité NCC de Daesan (1,1 Mt, dans le cadre d'une restructuration) est un signal positif à moyen terme, mais sans lien avec la publication du T1.
 
-**Lecture** : prendre position avant la publication est inefficient. Mieux vaut attendre la clarification sur l'ampleur de la perte, puis évaluer le scénario de retournement sur le second semestre.
+<strong>Lecture</strong> : prendre position avant la publication est inefficient. Mieux vaut attendre la clarification sur l'ampleur de la perte, puis évaluer le scénario de retournement sur le second semestre.
 
 ---
 
@@ -207,7 +207,7 @@ L'arrêt de 3 ans de l'unité NCC de Daesan (1,1 Mt, dans le cadre d'une restruc
 
 ### 7.1 Samsung F&M / DB Insurance
 
-Les valeurs d'assurance ne réagissent pas aux surprises de RO du T1. Un ratio sinistres auto de 85,2 % (au-dessus du seuil de rentabilité de 80 %) constitue un frein sectoriel. La direction des cours est dictée par **le dividende, le rachat d'actions et la solvabilité K-ICS** — et non par la publication trimestrielle en elle-même.
+Les valeurs d'assurance ne réagissent pas aux surprises de RO du T1. Un ratio sinistres auto de 85,2 % (au-dessus du seuil de rentabilité de 80 %) constitue un frein sectoriel. La direction des cours est dictée par <strong>le dividende, le rachat d'actions et la solvabilité K-ICS</strong> — et non par la publication trimestrielle en elle-même.
 
 Samsung F&M publie le 14 mai, DB Insurance le 15 mai.
 
@@ -217,7 +217,7 @@ RO consensuel : ₩207,5 Mds. Une prévision individuelle place ce chiffre à �
 
 ### 7.3 CJ Corporation
 
-Le cours de CJ n'est pas valorisé sur la base du RO consolidé — il l'est sur la **valeur intrinsèque d'Olive Young**. Olive Young n'étant pas cotée, l'action CJ intègre une décote implicite. Le contenu coréen et le tourisme entrant boostent les revenus d'Olive Young, mais la faiblesse des acides aminés de CJ CheilJedang compense. La direction du titre viendra de publications ou de changements structurels liés à Olive Young, et non de surprises sur le RO.
+Le cours de CJ n'est pas valorisé sur la base du RO consolidé — il l'est sur la <strong>valeur intrinsèque d'Olive Young</strong>. Olive Young n'étant pas cotée, l'action CJ intègre une décote implicite. Le contenu coréen et le tourisme entrant boostent les revenus d'Olive Young, mais la faiblesse des acides aminés de CJ CheilJedang compense. La direction du titre viendra de publications ou de changements structurels liés à Olive Young, et non de surprises sur le RO.
 
 ---
 
@@ -228,7 +228,7 @@ Le cours de CJ n'est pas valorisé sur la base du RO consolidé — il l'est sur
 | 13/05 (après clôture US) | Cisco | Demande en équipements réseau ; orientation capex datacenter IA |
 | 14/05 (après clôture US) | Applied Materials | Commandes d'équipements semi-conducteurs ; impact des contrôles à l'export vers la Chine |
 
-Applied Materials (14/05) coïncide avec le sommet sino-américain (14-15/05). Les résultats des équipementiers semi + l'issue du sommet tombent la même semaine — ce qui signifie que **les grandes capitalisations coréennes du secteur semi-conducteurs font face à deux catalyseurs simultanés**. Analyse détaillée des scénarios du sommet : [Guide de l'investisseur coréen pour le sommet sino-américain (14–15 mai)](/post/us-china-summit-korea-investor-guide-2026-05-14/).
+Applied Materials (14/05) coïncide avec le sommet sino-américain (14-15/05). Les résultats des équipementiers semi + l'issue du sommet tombent la même semaine — ce qui signifie que <strong>les grandes capitalisations coréennes du secteur semi-conducteurs font face à deux catalyseurs simultanés</strong>. Analyse détaillée des scénarios du sommet : [Guide de l'investisseur coréen pour le sommet sino-américain (14–15 mai)](/post/us-china-summit-korea-investor-guide-2026-05-14/).
 
 ---
 
@@ -236,21 +236,21 @@ Applied Materials (14/05) coïncide avec le sommet sino-américain (14-15/05). L
 
 | Priorité | Société | Date | Verdict | Points clés |
 |---:|---|---|---|---|
-| **1** | **Pearl Abyss** | **12/05 Mar** | **Le plus important** | RO ≥ ₩220 Mds, persistance ventes T2, méthode de comptabilisation des revenus |
+| <strong>1</strong> | <strong>Pearl Abyss</strong> | <strong>12/05 Mar</strong> | <strong>Le plus important</strong> | RO ≥ ₩220 Mds, persistance ventes T2, méthode de comptabilisation des revenus |
 | 2 | SK Innovation | 13/05 Mer | Validation du retournement | RO ≥ ₩2 billions, mais décote ponctuelle probable |
 | 3 | Mirae Asset Securities | 12/05 Mar | Confirmation du bénéficiaire courtage | Volume confirmé, ROE / politique de capital |
 | 4 | Samsung F&M | 14/05 Jeu | Valeur phare assurance | La publication compte moins que la politique de dividende |
-| 5 | Lotte Chemical | 15/05 Ven | **Risque le plus élevé** | La perte pourrait se creuser. Ne pas chasser |
+| 5 | Lotte Chemical | 15/05 Ven | <strong>Risque le plus élevé</strong> | La perte pourrait se creuser. Ne pas chasser |
 
 ### 9.1 Principe fondamental
 
-**Attendre la publication, réagir après — ne pas parier avant.** Le raisonnement est simple :
+<strong>Attendre la publication, réagir après — ne pas parier avant.</strong> Le raisonnement est simple :
 
 * Pearl Abyss : savoir si le RO dépasse ₩220 Mds sera confirmé le 12 mai. Un ou deux jours de patience apportent la certitude.
 * SK Innovation : la classification ponctuel vs. structurel requiert la lecture du communiqué. Impossible à inférer avant publication.
 * Lotte Chemical : l'ampleur de la perte est inconnue jusqu'au 15 mai.
 
-**Exception** : les positions existantes (Pearl Abyss pour ceux déjà positionnés à l'achat) sont raisonnables à conserver jusqu'à la publication. Vendre par anticipation d'une publication probablement solide risque d'empêcher un réengage propre par la suite.
+<strong>Exception</strong> : les positions existantes (Pearl Abyss pour ceux déjà positionnés à l'achat) sont raisonnables à conserver jusqu'à la publication. Vendre par anticipation d'une publication probablement solide risque d'empêcher un réengage propre par la suite.
 
 ---
 
@@ -260,31 +260,31 @@ Pearl Abyss est le principal candidat à une surprise de résultats pour le 1T26
 
 Mais « bon résultat = bon cours » n'est pas automatique. Le titre ayant déjà perdu -27 % par rapport au pic de 71 900 wons pour atteindre 52 500 wons, un reclassement durable exige un RO ≥ ₩220 Mds ET une persistance visible des ventes au T2. SK Innovation affiche la plus forte hausse absolue, mais l'essentiel est ponctuel (réévaluation des stocks). Mirae Asset Securities est solide mais anticipé. Lotte Chemical porte un risque de surprise négative.
 
-Positionnement rationnel : **ne pas parier avant la publication — réagir après.** Une publication solide mardi peut encore s'acheter mercredi. Une publication décevante, c'est une balle que vous n'avez pas prise.
+Positionnement rationnel : <strong>ne pas parier avant la publication — réagir après.</strong> Une publication solide mardi peut encore s'acheter mercredi. Une publication décevante, c'est une balle que vous n'avez pas prise.
 
 ---
 
 ## FAQ
 
-**Q : Pourquoi Pearl Abyss en n° 1 ?**
+<strong>Q : Pourquoi Pearl Abyss en n° 1 ?</strong>
 R : Plus grand écart entre la médiane du consensus (₩143,5 Mds) et les estimations des brokers (₩254,7–₩275,2 Mds), soit +75 à +92 %. Crimson Desert s'est vendu à 4 millions d'unités en 12 jours après son lancement, l'essentiel atterrissant dans le P&L du T1. Le titre est déjà en baisse de -27 % depuis le pic, si bien qu'un dépassement confirmé présente la plus forte probabilité de réaction haussière.
 
-**Q : Faut-il acheter Pearl Abyss si la publication est solide ?**
+<strong>Q : Faut-il acheter Pearl Abyss si la publication est solide ?</strong>
 R : Pas automatiquement. Trois conditions sont nécessaires pour un mouvement durable : RO ≥ ₩220 Mds (dépassement significatif), persistance visible des ventes au T2 (pas de fort repli), et une feuille de route contenu (après Crimson Desert). Sans ces trois éléments, le marché peut traiter la publication comme ponctuelle.
 
-**Q : Pourquoi SK Innovation est-elle moins prioritaire malgré un chiffre absolu plus élevé ?**
+<strong>Q : Pourquoi SK Innovation est-elle moins prioritaire malgré un chiffre absolu plus élevé ?</strong>
 R : La taille est plus importante (₩2,5–₩3,8 billions potentiels contre \~₩250 Mds pour Pearl Abyss), mais la qualité est moindre. Les gains sur marges de raffinage et réévaluation des stocks sont non récurrents. Le marché n'attribue généralement pas des multiples élevés à des résultats ponctuels, si bien que même des publications solides peuvent produire des réactions boursières amorties.
 
-**Q : Pourquoi Lotte Chemical est-elle la valeur la plus dangereuse ?**
+<strong>Q : Pourquoi Lotte Chemical est-elle la valeur la plus dangereuse ?</strong>
 R : Perte opérationnelle consensuelle de -₩20,3 Mds contre certaines prévisions à -₩121,8 Mds — un écart de 6 fois. Les tensions sur le détroit d'Ormuz liées à l'Iran ont structurellement renchéri le naphta, et le consensus sous-estime peut-être cette pression. Le titre est en hausse de +9,1 % sur 20 jours sur la spéculation d'un « creux de la chimie » ; une perte plus large qu'attendu pourrait déclencher un dénouement rapide des positions.
 
-**Q : Pourquoi Mirae Asset Securities ne surprendra-t-elle pas malgré de solides résultats ?**
+<strong>Q : Pourquoi Mirae Asset Securities ne surprendra-t-elle pas malgré de solides résultats ?</strong>
 R : Le volume journalier est observable publiquement. Le consensus a déjà révisé à la hausse de +39 % (₩978,2 Mds → ₩1 357 Mds). Le titre a progressé de +17,6 % sur 20 jours. L'information qui sous-tend la publication est déjà dans les cours.
 
-**Q : Comment aborder les valeurs d'assurance ?**
+<strong>Q : Comment aborder les valeurs d'assurance ?</strong>
 R : Les actions d'assurance ne sont pas pilotées par le RO du T1. Le ratio sinistres auto (85,2 %, au-dessus du seuil de rentabilité de 80 %) est un frein sectoriel. La direction des cours est déterminée par les politiques de dividende, de rachat d'actions et de solvabilité K-ICS.
 
-**Q : Quel lien avec les résultats américains de la même semaine ?**
+<strong>Q : Quel lien avec les résultats américains de la même semaine ?</strong>
 R : Cisco (13/05, demande en équipements réseau) et Applied Materials (14/05, commandes d'équipements semi-conducteurs + impact des contrôles à l'export vers la Chine) publient leurs résultats. Applied Materials coïncide avec le sommet sino-américain (14-15/05) — ce qui signifie que les grandes capitalisations coréennes du secteur semi-conducteurs font face à deux catalyseurs simultanés en une seule semaine.
 
 ---

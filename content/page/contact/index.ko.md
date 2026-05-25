@@ -9,7 +9,7 @@ lastmod: 2026-05-15
 
 정정 요청, 개인정보 관련 문의, 제휴 제안, 독자 피드백은 아래 채널을 이용해 주세요.
 
-- **텔레그램**: [@korea_invest_insights](https://t.me/korea_invest_insights)
-- **서브스택**: [Korea Invest Insights](https://koreainvestinsights.substack.com/)
+- <strong>텔레그램</strong>: [@korea_invest_insights](https://t.me/korea_invest_insights)
+- <strong>서브스택</strong>: [Korea Invest Insights](https://koreainvestinsights.substack.com/)
 
 개인 계좌 정보, 민감한 개인정보, 주문 지시 등은 보내지 말아 주세요. Korea Invest Insights는 개인 맞춤형 투자 조언을 제공하지 않습니다.

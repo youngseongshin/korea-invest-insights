@@ -35,19 +35,19 @@ draft: false
 
 ## Summary
 
-Broadcom is the larger macro signal. In Q1 FY2026, Broadcom reported revenue of **$19.311B**, AI revenue of **$8.4B**, Q2 revenue guidance of **$22.0B**, and Q2 AI semiconductor revenue guidance of **$10.7B**. On that guidance, AI semiconductor revenue alone would be **48.6%** of total Q2 revenue. Broadcom is no longer just "semis plus VMware." It is increasingly an **AI custom-chip and AI networking company with a VMware cash-flow engine attached**. ([Broadcom][1])
+Broadcom is the larger macro signal. In Q1 FY2026, Broadcom reported revenue of <strong>$19.311B</strong>, AI revenue of <strong>$8.4B</strong>, Q2 revenue guidance of <strong>$22.0B</strong>, and Q2 AI semiconductor revenue guidance of <strong>$10.7B</strong>. On that guidance, AI semiconductor revenue alone would be <strong>48.6%</strong> of total Q2 revenue. Broadcom is no longer just "semis plus VMware." It is increasingly an <strong>AI custom-chip and AI networking company with a VMware cash-flow engine attached</strong>. ([Broadcom][1])
 
-Marvell is smaller, but the signal is cleaner. Q4 FY2026 revenue was **$2.219B**, Q1 FY2027 guidance is **$2.4B ±5%**, and Q4 data-center revenue was **$1.651B**, or **74%** of revenue. Marvell's call will test whether custom silicon, electro-optics and CXL/PCIe switching are moving from narrative into revenue acceleration. ([Marvell][2])
+Marvell is smaller, but the signal is cleaner. Q4 FY2026 revenue was <strong>$2.219B</strong>, Q1 FY2027 guidance is <strong>$2.4B ±5%</strong>, and Q4 data-center revenue was <strong>$1.651B</strong>, or <strong>74%</strong> of revenue. Marvell's call will test whether custom silicon, electro-optics and CXL/PCIe switching are moving from narrative into revenue acceleration. ([Marvell][2])
 
-For Korean investors, the question is not "Are Marvell and Broadcom AI winners?" The question is whether their comments confirm a broader physical bottleneck: **XPU + HBM + Ethernet fabric + optical links + advanced packaging + power integrity**.
+For Korean investors, the question is not "Are Marvell and Broadcom AI winners?" The question is whether their comments confirm a broader physical bottleneck: <strong>XPU + HBM + Ethernet fabric + optical links + advanced packaging + power integrity</strong>.
 
 If that signal is strong, the Korean priority stack becomes:
 
-1. **SK hynix / Samsung Electronics** — HBM, server DRAM, LPDDR/SOCAMM.
-2. **Samsung Electro-Mechanics** — silicon capacitor, FC-BGA, MLCC and package-level power integrity.
-3. **High-speed PCB and test sockets** — Isu Petasys, Daeduck, Simmtech, TLB, Korea Circuit, ISC, LEENO, TSE, with direct revenue proof required.
+1. <strong>SK hynix / Samsung Electronics</strong> — HBM, server DRAM, LPDDR/SOCAMM.
+2. <strong>Samsung Electro-Mechanics</strong> — silicon capacitor, FC-BGA, MLCC and package-level power integrity.
+3. <strong>High-speed PCB and test sockets</strong> — Isu Petasys, Daeduck, Simmtech, TLB, Korea Circuit, ISC, LEENO, TSE, with direct revenue proof required.
 
-The conclusion is simple: **Marvell and Broadcom earnings are a test of whether Korea's AI semiconductor thesis should broaden beyond HBM into ASIC networking, packaging and power-delivery bottlenecks.**
+The conclusion is simple: <strong>Marvell and Broadcom earnings are a test of whether Korea's AI semiconductor thesis should broaden beyond HBM into ASIC networking, packaging and power-delivery bottlenecks.</strong>
 
 ---
 
@@ -56,18 +56,18 @@ The conclusion is simple: **Marvell and Broadcom earnings are a test of whether 
 | Item | Marvell | Broadcom |
 |---|---:|---:|
 | Next earnings | Q1 FY2027, May 27, 2026 at 1:45 p.m. PDT | Q2 FY2026, June 3, 2026 at 5:00 p.m. EDT |
-| Korea time | **May 28, 2026 05:45 KST** | **June 4, 2026 06:00 KST** |
-| Latest reported revenue | Q4 FY26 **$2.219B** | Q1 FY26 **$19.311B** |
-| Next guidance | Q1 FY27 **$2.4B ±5%** | Q2 FY26 **$22.0B** |
-| AI / data-center benchmark | Q4 data-center **$1.651B**, **74%** mix | Q1 AI revenue **$8.4B**, Q2 AI semiconductor **$10.7B** guide |
+| Korea time | <strong>May 28, 2026 05:45 KST</strong> | <strong>June 4, 2026 06:00 KST</strong> |
+| Latest reported revenue | Q4 FY26 <strong>$2.219B</strong> | Q1 FY26 <strong>$19.311B</strong> |
+| Next guidance | Q1 FY27 <strong>$2.4B ±5%</strong> | Q2 FY26 <strong>$22.0B</strong> |
+| AI / data-center benchmark | Q4 data-center <strong>$1.651B</strong>, <strong>74%</strong> mix | Q1 AI revenue <strong>$8.4B</strong>, Q2 AI semiconductor <strong>$10.7B</strong> guide |
 
-Marvell's Q1 guide implies roughly **+8.2% QoQ** growth at the midpoint. Broadcom's Q2 AI semiconductor guide implies **+27.4% QoQ** from Q1 AI revenue. These are the two numbers to watch first.
+Marvell's Q1 guide implies roughly <strong>+8.2% QoQ</strong> growth at the midpoint. Broadcom's Q2 AI semiconductor guide implies <strong>+27.4% QoQ</strong> from Q1 AI revenue. These are the two numbers to watch first.
 
 ---
 
 ## 2. Broadcom — The Bigger Macro Signal
 
-The key Broadcom question is not only whether AI semiconductor revenue beats **$10.7B**. The more important question is whether AI networking is rising inside the AI revenue mix.
+The key Broadcom question is not only whether AI semiconductor revenue beats <strong>$10.7B</strong>. The more important question is whether AI networking is rising inside the AI revenue mix.
 
 Broadcom's AI infrastructure exposure includes custom XPUs, Ethernet switches, NICs, SerDes, DSPs, retimers and optical connectivity. As clusters expand, the bottleneck shifts from individual accelerators to the fabric connecting chips, racks and data centers.
 
@@ -79,7 +79,7 @@ Broadcom's AI infrastructure exposure includes custom XPUs, Ethernet switches, N
 | Margin defense | Revenue growth must convert into profit | Supplier pricing power check |
 | Packaging and supply-chain comments | Shows where the physical constraint sits | Samsung Electro-Mechanics, memory, substrates, test |
 
-Broadcom's OpenAI collaboration is also important. The companies announced a **10GW** custom AI accelerator collaboration, with deployment expected to begin in the second half of 2026 and run through the end of 2029. The system includes accelerators as well as Ethernet, PCIe and optical connectivity. ([Broadcom OpenAI][3])
+Broadcom's OpenAI collaboration is also important. The companies announced a <strong>10GW</strong> custom AI accelerator collaboration, with deployment expected to begin in the second half of 2026 and run through the end of 2029. The system includes accelerators as well as Ethernet, PCIe and optical connectivity. ([Broadcom OpenAI][3])
 
 ---
 
@@ -119,7 +119,7 @@ Custom ASICs may compete with NVIDIA GPUs for some workloads, but they do not re
 
 ### Samsung Electro-Mechanics Is the Cleanest Non-Memory Bottleneck
 
-Samsung Electro-Mechanics has three relevant exposures: FC-BGA, MLCC and silicon capacitors. The company announced an approximately **KRW 1.5T** silicon capacitor supply contract for 2027-2028 and described the product as a component used inside high-performance packages such as AI server GPUs and HBM to stabilize power supply. ([Samsung Electro-Mechanics][6])
+Samsung Electro-Mechanics has three relevant exposures: FC-BGA, MLCC and silicon capacitors. The company announced an approximately <strong>KRW 1.5T</strong> silicon capacitor supply contract for 2027-2028 and described the product as a component used inside high-performance packages such as AI server GPUs and HBM to stabilize power supply. ([Samsung Electro-Mechanics][6])
 
 This is the cleanest Korean non-memory read-through from AI ASIC and AI networking. As chips get larger and more power-dense, power integrity becomes a package-level constraint.
 
@@ -145,14 +145,14 @@ Isu Petasys, Daeduck, Simmtech, TLB and Korea Circuit are plausible high-speed b
 
 For Broadcom, bullish lines would be:
 
-- AI semiconductor revenue tracking above **$10.7B**.
+- AI semiconductor revenue tracking above <strong>$10.7B</strong>.
 - AI networking share rising.
 - Better visibility into 2027.
 - Supply chain and packaging constraints under control.
 
 For Marvell, bullish lines would be:
 
-- Q1 FY27 above the **$2.4B** midpoint and Q2 guidance showing acceleration.
+- Q1 FY27 above the <strong>$2.4B</strong> midpoint and Q2 guidance showing acceleration.
 - Record custom-silicon bookings or design wins.
 - Electro-optics, optical DSP and CXL/PCIe switching turning into FY27/FY28 revenue.
 - Data-center growth and gross margin holding together.
@@ -163,7 +163,7 @@ For Marvell, bullish lines would be:
 
 Marvell and Broadcom earnings are not a blanket buy signal for Korean semiconductors. They are a bottleneck map.
 
-If Broadcom beats the AI semiconductor guide and talks up AI networking, Korea's read-through expands beyond HBM into FC-BGA, high-speed PCBs, test sockets and silicon capacitors. If Marvell confirms custom silicon and optical interconnect acceleration, AI servers should be viewed less as GPU boxes and more as **memory, connectivity, package and power-delivery systems**.
+If Broadcom beats the AI semiconductor guide and talks up AI networking, Korea's read-through expands beyond HBM into FC-BGA, high-speed PCBs, test sockets and silicon capacitors. If Marvell confirms custom silicon and optical interconnect acceleration, AI servers should be viewed less as GPU boxes and more as <strong>memory, connectivity, package and power-delivery systems</strong>.
 
 The safest conclusion is still disciplined: SK hynix and Samsung Electronics remain the memory core; Samsung Electro-Mechanics is the clearest non-memory bottleneck; PCB and test-socket names need revenue and margin proof before they deserve full re-rating.
 

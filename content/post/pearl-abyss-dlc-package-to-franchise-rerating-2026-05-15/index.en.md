@@ -23,13 +23,13 @@ slug: pearl-abyss-dlc-package-to-franchise-rerating-2026-05-15
 
 ## Key takeaways
 
-* **Where we stand**: Pearl Abyss printed record 1Q26 (revenue KRW 328.5B, operating profit KRW 212.1B), yet the stock has been weak. The PER sits in the single digits.
-* **The DLC comment**: management formally said it is "exploring expansion including DLC." But this is *not* a confirmation — no pricing, no release date, no content scope yet.
-* **Market misread #1**: "DLC sales are huge." Realistically incremental revenue is KRW 25–40B (bear), KRW 55–75B (base), KRW 100–140B (bull). Big numbers, but not decisive against a \~KRW 3T market cap.
-* **Market misread #2**: "They already sold 5M, the story is over." 1Q26 revenue was 81% Crimson Desert; FY26 company guidance for the title is KRW 644.1–734.8B.
-* **The real point**: DLC matters not for the dollars but for the **reclassification — package-game maker → franchise IP**. That moves the PER from the single digits toward the global game-publisher average (15–25x).
-* **What's priced in today**: the assumption that "2026 base-game revenue is fine but 2027 is a cliff."
-* **What DLC formalization breaks**: precisely that cliff assumption. The direct EPS lift (≈ +KRW 625/share) is small versus the multiple-expansion lift (PER 14–16x).
+* <strong>Where we stand</strong>: Pearl Abyss printed record 1Q26 (revenue KRW 328.5B, operating profit KRW 212.1B), yet the stock has been weak. The PER sits in the single digits.
+* <strong>The DLC comment</strong>: management formally said it is "exploring expansion including DLC." But this is *not* a confirmation — no pricing, no release date, no content scope yet.
+* <strong>Market misread #1</strong>: "DLC sales are huge." Realistically incremental revenue is KRW 25–40B (bear), KRW 55–75B (base), KRW 100–140B (bull). Big numbers, but not decisive against a \~KRW 3T market cap.
+* <strong>Market misread #2</strong>: "They already sold 5M, the story is over." 1Q26 revenue was 81% Crimson Desert; FY26 company guidance for the title is KRW 644.1–734.8B.
+* <strong>The real point</strong>: DLC matters not for the dollars but for the <strong>reclassification — package-game maker → franchise IP</strong>. That moves the PER from the single digits toward the global game-publisher average (15–25x).
+* <strong>What's priced in today</strong>: the assumption that "2026 base-game revenue is fine but 2027 is a cliff."
+* <strong>What DLC formalization breaks</strong>: precisely that cliff assumption. The direct EPS lift (≈ +KRW 625/share) is small versus the multiple-expansion lift (PER 14–16x).
 
 ---
 
@@ -185,9 +185,9 @@ Scenario table for incremental revenue:
 
 | Scenario | Installed base | Attach | DLC price | Incr. revenue | Incr. op profit |
 | --- | ---: | ---: | ---: | ---: | ---: |
-| **Bear** | 7.5M | 15% | KRW 20k | KRW 25–40B | KRW 15–25B |
-| **Base** | 8.5M | 25% | KRW 28k | KRW 55–75B | KRW 35–50B |
-| **Bull** | 10.0M | 35% | KRW 35k | KRW 100–140B | KRW 65–95B |
+| <strong>Bear</strong> | 7.5M | 15% | KRW 20k | KRW 25–40B | KRW 15–25B |
+| <strong>Base</strong> | 8.5M | 25% | KRW 28k | KRW 55–75B | KRW 35–50B |
+| <strong>Bull</strong> | 10.0M | 35% | KRW 35k | KRW 100–140B | KRW 65–95B |
 
 ### 3.2 Translating the direct revenue effect to share price
 
@@ -483,15 +483,15 @@ US-China summit piece:
 
 ## 8. The one-line bottom line
 
-The real meaning of Pearl Abyss's DLC line is not "KRW 60B of DLC revenue." It is **the reclassification of Crimson Desert from a one-shot package game to a recurring-revenue franchise IP**.
+The real meaning of Pearl Abyss's DLC line is not "KRW 60B of DLC revenue." It is <strong>the reclassification of Crimson Desert from a one-shot package game to a recurring-revenue franchise IP</strong>.
 
 The current PER sits in the single digits for a simple reason: "2026 earnings are real, but 2027 is a cliff." That single assumption is pinning the multiple below half the global game-publisher average (15–25x).
 
-When DLC is formalized, the assumption breaks. The direct EPS lift (≈ +KRW 625/share, ≈ +KRW 9,000/share at 14x) is real — but secondary. The real upside is **the multiple itself re-rating from package-game maker to franchise publisher**. With the same EPS, applying a 14x PER instead of 8x lifts fair value by roughly +75%. Multiples, not revenue, drive the gap.
+When DLC is formalized, the assumption breaks. The direct EPS lift (≈ +KRW 625/share, ≈ +KRW 9,000/share at 14x) is real — but secondary. The real upside is <strong>the multiple itself re-rating from package-game maker to franchise publisher</strong>. With the same EPS, applying a 14x PER instead of 8x lifts fair value by roughly +75%. Multiples, not revenue, drive the gap.
 
 Even so, chasing here is inefficient. The macro gate has not cleared, and DLC is "exploring," not "confirmed." For holders, Hold is the rational call. For new buyers, wait for at least two of: ① macro-gate stabilization, ② 2Q revenue clearing the lower-bound guide, ③ DLC concretization — then add in tranches.
 
-**Investing is buying a good company at a good price.** Pearl Abyss is a good company, and the price is at attractive levels — but the **good entry point comes when the next card is played**. When it is, the classification flips from package-game to franchise-publisher. The reclassification — not the revenue — is the alpha.
+<strong>Investing is buying a good company at a good price.</strong> Pearl Abyss is a good company, and the price is at attractive levels — but the <strong>good entry point comes when the next card is played</strong>. When it is, the classification flips from package-game to franchise-publisher. The reclassification — not the revenue — is the alpha.
 
 ---
 

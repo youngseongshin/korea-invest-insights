@@ -9,19 +9,19 @@ tags: ["Samsung Electronics", "005930.KS", "Samsung Electronics Weight in KOSPI"
 
 > 📚 See the [Samsung Electronics, SK Hynix, HBM and KOSPI investment hub](/page/korea-semiconductor-hbm-kospi-hub/) for the full thread across Samsung's KOSPI weight, SK Hynix's HBM market share and Korea's market re-rating thesis.
 
-> **Follow-up:** Korea's move toward global top-six market-cap status is rechecked in [Why Korea Part 5: Korea's Stock Market Is Now Near Global No. 6](/post/why-korea-market-cap-global-six-ai-memory-rerating-2026-05-24/), including the Samsung + SK hynix concentration effect.
+> <strong>Follow-up:</strong> Korea's move toward global top-six market-cap status is rechecked in [Why Korea Part 5: Korea's Stock Market Is Now Near Global No. 6](/post/why-korea-market-cap-global-six-ai-memory-rerating-2026-05-24/), including the Samsung + SK hynix concentration effect.
 
-> **Short answer:** if you are a global investor using Korea ETFs, Samsung Electronics is not just another holding. In common Korea index products in 2026, Samsung Electronics typically represents roughly a low-20s to low-30s percentage of benchmark exposure depending on whether the index is capped, uncapped, float-adjusted, or broad-market.
+> <strong>Short answer:</strong> if you are a global investor using Korea ETFs, Samsung Electronics is not just another holding. In common Korea index products in 2026, Samsung Electronics typically represents roughly a low-20s to low-30s percentage of benchmark exposure depending on whether the index is capped, uncapped, float-adjusted, or broad-market.
 
 ---
 
 ## TL;DR
 
-1. **For US ETF investors, the most practical Samsung weight is about 22-23%.** The iShares MSCI South Korea ETF (EWY) showed Samsung Electronics at **22.68%** of assets as of April 24, 2026, while the underlying MSCI Korea 25/50 Index showed **22.61%** as of March 31, 2026.
-2. **For uncapped MSCI Korea exposure, Samsung is much larger.** The MSCI Korea Index showed Samsung Electronics common shares at **32.72%** and Samsung Electronics preferred shares at **3.84%** as of March 31, 2026.
-3. **For KOSPI 200, Samsung is the anchor stock, not a normal mega-cap.** S&P Dow Jones Indices and KRX data showed Samsung Electronics at **25.06%** of KOSPI 200 and SK Hynix at **12.44%** as of September 30, 2025.
-4. **The broad KOSPI question is more subtle.** Korea's headline KOSPI is capitalization-weighted across the main board, while investable products usually track KOSPI 200, MSCI Korea, or MSCI Korea 25/50. In February 2026, Seoul Economic Daily reported Samsung Electronics and SK Hynix together at **39.88% of KOSPI**.
-5. **The investor conclusion:** buying Korea beta in 2026 is partly a macro trade, partly a KRW trade, and very materially a Samsung Electronics + SK Hynix AI-memory concentration trade.
+1. <strong>For US ETF investors, the most practical Samsung weight is about 22-23%.</strong> The iShares MSCI South Korea ETF (EWY) showed Samsung Electronics at <strong>22.68%</strong> of assets as of April 24, 2026, while the underlying MSCI Korea 25/50 Index showed <strong>22.61%</strong> as of March 31, 2026.
+2. <strong>For uncapped MSCI Korea exposure, Samsung is much larger.</strong> The MSCI Korea Index showed Samsung Electronics common shares at <strong>32.72%</strong> and Samsung Electronics preferred shares at <strong>3.84%</strong> as of March 31, 2026.
+3. <strong>For KOSPI 200, Samsung is the anchor stock, not a normal mega-cap.</strong> S&P Dow Jones Indices and KRX data showed Samsung Electronics at <strong>25.06%</strong> of KOSPI 200 and SK Hynix at <strong>12.44%</strong> as of September 30, 2025.
+4. <strong>The broad KOSPI question is more subtle.</strong> Korea's headline KOSPI is capitalization-weighted across the main board, while investable products usually track KOSPI 200, MSCI Korea, or MSCI Korea 25/50. In February 2026, Seoul Economic Daily reported Samsung Electronics and SK Hynix together at <strong>39.88% of KOSPI</strong>.
+5. <strong>The investor conclusion:</strong> buying Korea beta in 2026 is partly a macro trade, partly a KRW trade, and very materially a Samsung Electronics + SK Hynix AI-memory concentration trade.
 
 ---
 
@@ -49,20 +49,20 @@ The correct answer depends on which "Korea" product you are using.
 
 | Exposure proxy | What it represents | Samsung Electronics weight | Date / source | Investor use |
 |---|---:|---:|---|---|
-| **EWY** | iShares MSCI South Korea ETF, a US-listed Korea ETF tracking MSCI Korea 25/50 | **22.68%** | Apr. 24, 2026, StockAnalysis holdings mirror of EWY | Most practical number for US ETF investors |
-| **MSCI Korea 25/50 Index** | Capped MSCI Korea benchmark used by EWY and other regulated products | **22.61%** | Mar. 31, 2026, MSCI | Best benchmark number for capped ETF exposure |
-| **MSCI Korea Index** | Uncapped large/mid-cap Korea benchmark | **32.72%** common + **3.84%** preferred | Mar. 31, 2026, MSCI | Institutional benchmark / uncapped exposure |
-| **KOSPI 200** | KRX large-cap derivatives and ETF benchmark | **25.06%** | Sept. 30, 2025, S&P DJI / KRX data | Best domestic futures/ETF benchmark lens |
-| **Broad KOSPI** | Main-board Korea Composite Stock Price Index | Samsung + SK Hynix **39.88%** combined | Feb. 27, 2026, Seoul Economic Daily | Best concentration-risk lens, but not a product weight |
+| <strong>EWY</strong> | iShares MSCI South Korea ETF, a US-listed Korea ETF tracking MSCI Korea 25/50 | <strong>22.68%</strong> | Apr. 24, 2026, StockAnalysis holdings mirror of EWY | Most practical number for US ETF investors |
+| <strong>MSCI Korea 25/50 Index</strong> | Capped MSCI Korea benchmark used by EWY and other regulated products | <strong>22.61%</strong> | Mar. 31, 2026, MSCI | Best benchmark number for capped ETF exposure |
+| <strong>MSCI Korea Index</strong> | Uncapped large/mid-cap Korea benchmark | <strong>32.72%</strong> common + <strong>3.84%</strong> preferred | Mar. 31, 2026, MSCI | Institutional benchmark / uncapped exposure |
+| <strong>KOSPI 200</strong> | KRX large-cap derivatives and ETF benchmark | <strong>25.06%</strong> | Sept. 30, 2025, S&P DJI / KRX data | Best domestic futures/ETF benchmark lens |
+| <strong>Broad KOSPI</strong> | Main-board Korea Composite Stock Price Index | Samsung + SK Hynix <strong>39.88%</strong> combined | Feb. 27, 2026, Seoul Economic Daily | Best concentration-risk lens, but not a product weight |
 
-The important point is not whether the "true" number is 22.6%, 25.1%, or 32.7%. The important point is that **Samsung Electronics is big enough to dominate Korea benchmark returns**.
+The important point is not whether the "true" number is 22.6%, 25.1%, or 32.7%. The important point is that <strong>Samsung Electronics is big enough to dominate Korea benchmark returns</strong>.
 
 For a quick rule of thumb:
 
-- Use **22-23%** if you are analyzing EWY or MSCI Korea 25/50.
-- Use **25%** as a working number for KOSPI 200-style domestic large-cap exposure.
-- Use **30%+** only when you are discussing an uncapped MSCI Korea-type benchmark or Samsung common + preferred exposure.
-- Use **Samsung + SK Hynix combined** when you are asking whether Korea is really an AI memory trade.
+- Use <strong>22-23%</strong> if you are analyzing EWY or MSCI Korea 25/50.
+- Use <strong>25%</strong> as a working number for KOSPI 200-style domestic large-cap exposure.
+- Use <strong>30%+</strong> only when you are discussing an uncapped MSCI Korea-type benchmark or Samsung common + preferred exposure.
+- Use <strong>Samsung + SK Hynix combined</strong> when you are asking whether Korea is really an AI memory trade.
 
 ---
 
@@ -80,9 +80,9 @@ That distinction matters because a broad index includes many companies with limi
 
 ### 2. KOSPI 200 Is the Domestic Derivatives Benchmark
 
-KOSPI 200 is Korea's flagship domestic large-cap benchmark. It is widely used for futures, options, ETFs, and institutional hedging. S&P Dow Jones Indices' comparison with KRX data describes KOSPI 200 as a 200-constituent benchmark that reflected about **89% of KOSPI listed stocks by market capitalization** as of September 30, 2025, with both S&P 500 and KOSPI 200 using float-adjusted market-cap weighting.
+KOSPI 200 is Korea's flagship domestic large-cap benchmark. It is widely used for futures, options, ETFs, and institutional hedging. S&P Dow Jones Indices' comparison with KRX data describes KOSPI 200 as a 200-constituent benchmark that reflected about <strong>89% of KOSPI listed stocks by market capitalization</strong> as of September 30, 2025, with both S&P 500 and KOSPI 200 using float-adjusted market-cap weighting.
 
-That same S&P/KRX dataset showed the KOSPI 200 top ten at **53.33%** of the index, with Samsung Electronics at **25.06%** and SK Hynix at **12.44%**.
+That same S&P/KRX dataset showed the KOSPI 200 top ten at <strong>53.33%</strong> of the index, with Samsung Electronics at <strong>25.06%</strong> and SK Hynix at <strong>12.44%</strong>.
 
 In plain English: KOSPI 200 is not a small-cap breadth index. It is a large-cap Korea index where the first two semiconductor names can explain a large part of the return.
 
@@ -90,13 +90,13 @@ In plain English: KOSPI 200 is not a small-cap breadth index. It is a large-cap 
 
 Many international allocators do not benchmark Korea to KOSPI 200. They benchmark it to MSCI Korea.
 
-MSCI Korea is designed to cover the large- and mid-cap segments of the Korean market and covers about **85% of the Korean equity universe**, according to MSCI. As of March 31, 2026, MSCI listed:
+MSCI Korea is designed to cover the large- and mid-cap segments of the Korean market and covers about <strong>85% of the Korean equity universe</strong>, according to MSCI. As of March 31, 2026, MSCI listed:
 
 | MSCI Korea constituent | Weight |
 |---|---:|
-| Samsung Electronics common | **32.72%** |
-| SK Hynix | **18.21%** |
-| Samsung Electronics preferred | **3.84%** |
+| Samsung Electronics common | <strong>32.72%</strong> |
+| SK Hynix | <strong>18.21%</strong> |
+| Samsung Electronics preferred | <strong>3.84%</strong> |
 
 That makes MSCI Korea much more concentrated than many investors expect. In the uncapped index, Samsung common plus preferred can be more than one-third of the benchmark.
 
@@ -104,24 +104,24 @@ That makes MSCI Korea much more concentrated than many investors expect. In the 
 
 EWY, the most recognizable US-listed Korea ETF, tracks the MSCI Korea 25/50 Index rather than the plain MSCI Korea Index.
 
-That cap matters. MSCI says the Korea 25/50 Index applies investment limits for regulated investment companies under the US Internal Revenue Code and covers approximately **85% of Korea's free float-adjusted market capitalization**. As of March 31, 2026, MSCI Korea 25/50 showed:
+That cap matters. MSCI says the Korea 25/50 Index applies investment limits for regulated investment companies under the US Internal Revenue Code and covers approximately <strong>85% of Korea's free float-adjusted market capitalization</strong>. As of March 31, 2026, MSCI Korea 25/50 showed:
 
 | MSCI Korea 25/50 constituent | Weight |
 |---|---:|
-| Samsung Electronics | **22.61%** |
-| SK Hynix | **19.00%** |
+| Samsung Electronics | <strong>22.61%</strong> |
+| SK Hynix | <strong>19.00%</strong> |
 
 EWY holdings data showed a very similar real-world portfolio shape as of April 24, 2026:
 
 | EWY holding | Weight |
 |---|---:|
-| Samsung Electronics | **22.68%** |
-| SK Hynix | **21.99%** |
+| Samsung Electronics | <strong>22.68%</strong> |
+| SK Hynix | <strong>21.99%</strong> |
 | SK Square | 2.44% |
 | Hyundai Motor | 2.37% |
 | KB Financial Group | 1.99% |
 
-This is the key point for foreign investors: **EWY is not simply "the KOSPI." It is a capped, liquid, MSCI-style Korea exposure where Samsung and SK Hynix together still explain almost half the fund.**
+This is the key point for foreign investors: <strong>EWY is not simply "the KOSPI." It is a capped, liquid, MSCI-style Korea exposure where Samsung and SK Hynix together still explain almost half the fund.</strong>
 
 ---
 
@@ -143,7 +143,7 @@ If Samsung Electronics is 22.7% of EWY, then:
 
 That is just Samsung. If Samsung and SK Hynix move together, the effect is much larger.
 
-Using EWY's April 2026 weights, Samsung Electronics plus SK Hynix were roughly **44.7%** of the fund. A same-direction **+5%** move in the two memory leaders would mechanically add about **2.2 percentage points** to the ETF before the rest of the portfolio and KRW/USD translation.
+Using EWY's April 2026 weights, Samsung Electronics plus SK Hynix were roughly <strong>44.7%</strong> of the fund. A same-direction <strong>+5%</strong> move in the two memory leaders would mechanically add about <strong>2.2 percentage points</strong> to the ETF before the rest of the portfolio and KRW/USD translation.
 
 That is why Korea ETFs can look like broad country funds on the label but trade like AI memory baskets during semiconductor cycles.
 
@@ -153,21 +153,21 @@ That is why Korea ETFs can look like broad country funds on the label but trade 
 
 Samsung's benchmark weight is not fixed. It changes with four variables:
 
-1. **Samsung's own stock price**
+1. <strong>Samsung's own stock price</strong>
    If 005930.KS outperforms the rest of Korea, its weight rises.
 
-2. **SK Hynix and other mega-cap moves**
+2. <strong>SK Hynix and other mega-cap moves</strong>
    Samsung can rally and still lose relative weight if SK Hynix rallies more.
 
-3. **Free-float and index capping rules**
+3. <strong>Free-float and index capping rules</strong>
    MSCI Korea, MSCI Korea 25/50, KOSPI 200, FTSE Korea and individual ETFs do not all treat weight limits the same way.
 
-4. **Preferred shares and share-class treatment**
+4. <strong>Preferred shares and share-class treatment</strong>
    Samsung Electronics preferred shares are separate listed securities. Some benchmarks include preferred shares as a separate line item; some investors mentally combine them into Samsung group exposure.
 
 In 2026, the biggest driver was the AI memory re-rating. Korea's market leadership narrowed around Samsung Electronics, SK Hynix, AI infrastructure, defense, power equipment and selected financials. The result was a sharper concentration profile than investors were used to seeing during the 2021-2024 Korea-discount period.
 
-Seoul Economic Daily reported on February 27, 2026 that Samsung Electronics and SK Hynix together represented **39.88% of KOSPI**. Even if the exact number moves week by week, the strategic message is stable: **Korea's headline index is highly sensitive to the semiconductor profit cycle.**
+Seoul Economic Daily reported on February 27, 2026 that Samsung Electronics and SK Hynix together represented <strong>39.88% of KOSPI</strong>. Even if the exact number moves week by week, the strategic message is stable: <strong>Korea's headline index is highly sensitive to the semiconductor profit cycle.</strong>
 
 ---
 
@@ -258,7 +258,7 @@ For any Korea ETF or KOSPI-linked position, I would monitor five items.
 
 ### 1. Samsung + SK Hynix Combined Weight
 
-Single-stock Samsung weight matters, but the combined semiconductor mega-cap weight is the cleaner concentration gauge. In EWY, the pair was close to **45%** in late April 2026.
+Single-stock Samsung weight matters, but the combined semiconductor mega-cap weight is the cleaner concentration gauge. In EWY, the pair was close to <strong>45%</strong> in late April 2026.
 
 If that number keeps rising, the fund becomes less a Korea ETF and more a liquid AI memory proxy.
 
@@ -311,7 +311,7 @@ If Samsung remains in an HBM / DRAM / NAND upgrade cycle, concentration is toler
 
 ### Is Samsung Electronics 20%, 25%, or 30% of KOSPI?
 
-It depends on the index. For EWY and MSCI Korea 25/50, use roughly **22-23%** in early 2026. For KOSPI 200, a useful recent reference is **25.06%** as of September 30, 2025. For uncapped MSCI Korea, Samsung common was **32.72%** as of March 31, 2026, with preferred shares adding another **3.84%**.
+It depends on the index. For EWY and MSCI Korea 25/50, use roughly <strong>22-23%</strong> in early 2026. For KOSPI 200, a useful recent reference is <strong>25.06%</strong> as of September 30, 2025. For uncapped MSCI Korea, Samsung common was <strong>32.72%</strong> as of March 31, 2026, with preferred shares adding another <strong>3.84%</strong>.
 
 ### Why do Google results give different Samsung weights?
 
@@ -335,7 +335,7 @@ Not necessarily. Concentration is a risk when the top names are over-owned and e
 
 The cleanest answer to the search query is this:
 
-**Samsung Electronics is roughly one-quarter of the Korea exposure most global ETF investors actually hold, but the number can rise above one-third in uncapped MSCI-style benchmarks once preferred shares are considered.**
+<strong>Samsung Electronics is roughly one-quarter of the Korea exposure most global ETF investors actually hold, but the number can rise above one-third in uncapped MSCI-style benchmarks once preferred shares are considered.</strong>
 
 That makes Korea different from a normal broad-market country allocation. A Korea ETF position in 2026 is partly an allocation to Korean equities, but it is also a concentrated expression of Samsung Electronics, SK Hynix, AI memory pricing, KRW sentiment and foreign passive flows.
 

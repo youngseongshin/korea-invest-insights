@@ -19,7 +19,7 @@ tags:
   - "Korean equities"
 ---
 
-> 📚 **KOSDAQ Series — Part 2.**
+> 📚 <strong>KOSDAQ Series — Part 2.</strong>
 > Part 1: [KOSDAQ Complete Guide for Foreign Investors — 1,820 Companies, October 2026 Promotion / Relegation Reform](/post/kosdaq-complete-guide-promotion-relegation-system-2026-05-10/)
 
 *KOSDAQ's promotion-relegation reform launches in October 2026. Only 100 of \~1,820 listed companies enter the Premium tier. The criteria are financial soundness, growth, and governance. That's screen-able now. The wide net (ROE ≥15%, OP growth positive) returns 105 candidates. The tight net (ROE ≥25%, daily turnover ≥₩1bn) returns 35. Layering ROE + operating margin + earnings growth + foreign-and-institutional flow as 4 simultaneous filters compresses to 6 names. 1,820 → 105 → 35 → 6 — the final candidate set is 0.3% of the listed universe. **The real alpha in this reform is not owning KOSDAQ broadly. It is the separation between names institutions can buy and names they cannot.***
@@ -28,11 +28,11 @@ tags:
 
 ## TL;DR
 
-* **The 2-stage funnel: 105 → 35 → 6.** Filter 1 (ROE ≥15%, OP growth positive) clears 105 of KOSDAQ's \~1,820 names. Filter 2 (ROE ≥25%, ₩1bn daily turnover) cuts to 35. The intersection of high ROE, high margin, growth, and constructive flow narrows to 6 names — 0.3% of the universe.
-* **Three different shapes — growth, margin, value.** Silicon2 (ROE 47%, margin 18%, PER 15×) for balanced growth. Classys (ROE 26%, margin 51%, PER 27×) for highest-quality margins. Easy Bio (ROE 29%, PER 7×) for value.
-* **The real alpha is in classification, not the list itself.** The 2022 KOSDAQ Global Index proved curation works (+160% vs. broad +65%). It also proved that a "good list" without ETF / NPS / institutional plumbing doesn't move money. The October reform is designed to fix the second part — Premium ETFs, NPS benchmark inclusion, and the People's Growth Fund are the three explicit channels.
-* **There are losers from the reform too.** If Premium criteria are earnings-based, large-cap-but-loss-making names — Ecopro BM at PER \~596×, ABL Bio at -₩48.6bn, Robotis at PER \~390× — risk exclusion. Falling out of Premium means losing institutional and passive flow, which is a *negative* alpha vector worth tracking on the short side.
-* **Don't buy KOSDAQ. Separate it.** The investment substance of the reform is identifying which KOSDAQ names institutions will be *forced* to own and which will lose their pseudo-benchmark status.
+* <strong>The 2-stage funnel: 105 → 35 → 6.</strong> Filter 1 (ROE ≥15%, OP growth positive) clears 105 of KOSDAQ's \~1,820 names. Filter 2 (ROE ≥25%, ₩1bn daily turnover) cuts to 35. The intersection of high ROE, high margin, growth, and constructive flow narrows to 6 names — 0.3% of the universe.
+* <strong>Three different shapes — growth, margin, value.</strong> Silicon2 (ROE 47%, margin 18%, PER 15×) for balanced growth. Classys (ROE 26%, margin 51%, PER 27×) for highest-quality margins. Easy Bio (ROE 29%, PER 7×) for value.
+* <strong>The real alpha is in classification, not the list itself.</strong> The 2022 KOSDAQ Global Index proved curation works (+160% vs. broad +65%). It also proved that a "good list" without ETF / NPS / institutional plumbing doesn't move money. The October reform is designed to fix the second part — Premium ETFs, NPS benchmark inclusion, and the People's Growth Fund are the three explicit channels.
+* <strong>There are losers from the reform too.</strong> If Premium criteria are earnings-based, large-cap-but-loss-making names — Ecopro BM at PER \~596×, ABL Bio at -₩48.6bn, Robotis at PER \~390× — risk exclusion. Falling out of Premium means losing institutional and passive flow, which is a *negative* alpha vector worth tracking on the short side.
+* <strong>Don't buy KOSDAQ. Separate it.</strong> The investment substance of the reform is identifying which KOSDAQ names institutions will be *forced* to own and which will lose their pseudo-benchmark status.
 
 ---
 
@@ -47,7 +47,7 @@ tags:
 * Corporate-governance rating ≥B
 * Financial-health and disclosure-quality requirements
 
-Premium will likely be tighter than this. **The design intent is "names that actually earn money," not "names with large caps alone."**
+Premium will likely be tighter than this. <strong>The design intent is "names that actually earn money," not "names with large caps alone."</strong>
 
 ### 1.2 Why ROE is the right starting filter
 
@@ -86,7 +86,7 @@ KOSDAQ broad: \~15.6% CAGR
 
 Verification: Global CAGR = (2,602 / 1,000)^(1/3.46) - 1 = 31.8% ✓
 
-**The asset class isn't the problem. Selection is.** The Premium reform institutionalizes selection. For investors, the alpha lies in identifying probable-Premium names *before* the list is published.
+<strong>The asset class isn't the problem. Selection is.</strong> The Premium reform institutionalizes selection. For investors, the alpha lies in identifying probable-Premium names *before* the list is published.
 
 ---
 
@@ -108,8 +108,8 @@ Filter 1 conditions:
 
 | Group | Names passing |
 |---|---:|
-| **All Korean listed** | **173** |
-| **KOSDAQ** | **105** |
+| <strong>All Korean listed</strong> | <strong>173</strong> |
+| <strong>KOSDAQ</strong> | <strong>105</strong> |
 | KOSPI | 68 |
 
 105 of KOSDAQ's \~1,820 names clear Filter 1 — about 5.8%. That's the size of the universe of profitable, growing, high-ROE businesses on the small-cap board.
@@ -122,37 +122,37 @@ The top 27 of the 105, sorted by ROE:
 | Hanpass | 408470 | 94.2% | +58% | 12.4% | — | -22% | -₩5.5bn |
 | Genic | 123330 | 59.8% | +150% | 19.1% | 7.0× | -14% | -₩14.6bn |
 | JTC | 950170 | 57.4% | +117% | 15.4% | 3.3× | +7% | +₩0.3bn |
-| S-Connect | 096630 | 49.8% | +27% | 4.8% | 1.3× | **+390%** | -₩1.1bn |
-| **Silicon2** | 257720 | **46.9%** | +49% | **18.4%** | 14.8× | +9% | **+₩58.6bn** |
+| S-Connect | 096630 | 49.8% | +27% | 4.8% | 1.3× | <strong>+390%</strong> | -₩1.1bn |
+| <strong>Silicon2</strong> | 257720 | <strong>46.9%</strong> | +49% | <strong>18.4%</strong> | 14.8× | +9% | <strong>+₩58.6bn</strong> |
 | Sungho Electronics | 043260 | 46.3% | +21% | 3.3% | 6.9× | +3% | -₩4.0bn |
 | ITCEN Global | 124500 | 45.9% | +378% | 3.2% | 15.1× | +20% | -₩6.7bn |
-| BHI | 083650 | 44.4% | +245% | 9.8% | 24.8× | 0% | **-₩141.4bn** |
+| BHI | 083650 | 44.4% | +245% | 9.8% | 24.8× | 0% | <strong>-₩141.4bn</strong> |
 | SM Entertainment | 041510 | 41.6% | +110% | 15.6% | 8.9× | +6% | -₩0.9bn |
-| **Inca Financial Service** | 211050 | **39.7%** | +10% | 9.3% | 9.1× | -12% | ₩0bn |
-| **Alteogen** | 196170 | **39.4%** | +321% | **49.5%** | 170.7× | -9% | +₩20.6bn |
+| <strong>Inca Financial Service</strong> | 211050 | <strong>39.7%</strong> | +10% | 9.3% | 9.1× | -12% | ₩0bn |
+| <strong>Alteogen</strong> | 196170 | <strong>39.4%</strong> | +321% | <strong>49.5%</strong> | 170.7× | -9% | +₩20.6bn |
 | Wooone Construction | 046940 | 36.8% | +2,300% | 17.9% | 1.3× | +23% | -₩2.1bn |
 | Inzisoft | 100030 | 35.1% | +109% | 12.4% | 3.1× | +17% | ₩0bn |
 | Dong-Ah Eltec | 088130 | 33.6% | +670% | 19.4% | 1.4× | +41% | -₩12.7bn |
-| **KONA I** | 052400 | **32.6%** | +166% | **28.8%** | 8.9× | +7% | +₩7.5bn |
-| **KNJ** | 272110 | **30.8%** | +57% | **26.3%** | 6.8× | +11% | -₩0.9bn |
-| **Easy Bio** | 353810 | **29.1%** | +39% | 9.4% | **7.0×** | +4% | +₩1.7bn |
-| **Global Tax Free** | 204620 | **27.8%** | +34% | **18.8%** | **9.1×** | +20% | +₩6.4bn |
-| Mico | 059090 | 27.2% | +7% | 10.3% | 15.2× | **+72%** | +₩29.4bn |
-| **PharmaResearch** | 214450 | **26.9%** | +70% | **40.0%** | 28.4× | +16% | -₩21.9bn |
-| **Classys** | 214150 | **26.2%** | +39% | **50.6%** | 27.1× | +5% | +₩11.2bn |
-| Leeno Industrial | 058470 | 22.4% | +43% | **47.5%** | 30.2× | -4% | -₩80.5bn |
+| <strong>KONA I</strong> | 052400 | <strong>32.6%</strong> | +166% | <strong>28.8%</strong> | 8.9× | +7% | +₩7.5bn |
+| <strong>KNJ</strong> | 272110 | <strong>30.8%</strong> | +57% | <strong>26.3%</strong> | 6.8× | +11% | -₩0.9bn |
+| <strong>Easy Bio</strong> | 353810 | <strong>29.1%</strong> | +39% | 9.4% | <strong>7.0×</strong> | +4% | +₩1.7bn |
+| <strong>Global Tax Free</strong> | 204620 | <strong>27.8%</strong> | +34% | <strong>18.8%</strong> | <strong>9.1×</strong> | +20% | +₩6.4bn |
+| Mico | 059090 | 27.2% | +7% | 10.3% | 15.2× | <strong>+72%</strong> | +₩29.4bn |
+| <strong>PharmaResearch</strong> | 214450 | <strong>26.9%</strong> | +70% | <strong>40.0%</strong> | 28.4× | +16% | -₩21.9bn |
+| <strong>Classys</strong> | 214150 | <strong>26.2%</strong> | +39% | <strong>50.6%</strong> | 27.1× | +5% | +₩11.2bn |
+| Leeno Industrial | 058470 | 22.4% | +43% | <strong>47.5%</strong> | 30.2× | -4% | -₩80.5bn |
 | Jeju Semiconductor | 080220 | 19.2% | +274% | 11.9% | 23.0× | +27% | +₩116.0bn |
-| Dawonnexview | 323350 | 20.4% | +208% | 15.0% | 11.9× | **+96%** | +₩2.3bn |
+| Dawonnexview | 323350 | 20.4% | +208% | 15.0% | 11.9× | <strong>+96%</strong> | +₩2.3bn |
 | Vitzro Cell | 082920 | 18.6% | +34% | 28.5% | 14.0× | +52% | -₩5.0bn |
 | iNet | 462980 | 18.4% | +725% | 8.5% | 14.7× | -10% | -₩0.1bn |
 
 Three things become immediately visible:
 
-**One — Filter 1 alone mixes good candidates with traps.** S-Connect (+390% over 20 days), Dawonnexview (+96%), Mico (+72%) — already-overheated names. BHI (institutional net sells -₩141.4bn) — money walking out the door. Hanpass (data instability) — newly listed, unreliable record.
+<strong>One — Filter 1 alone mixes good candidates with traps.</strong> S-Connect (+390% over 20 days), Dawonnexview (+96%), Mico (+72%) — already-overheated names. BHI (institutional net sells -₩141.4bn) — money walking out the door. Hanpass (data instability) — newly listed, unreliable record.
 
-**Two — high ROE with thin margin is a quality trap.** Sungho Electronics (ROE 46.3%, margin 3.3%), ITCEN Global (margin 3.2%), S-Connect (margin 4.8%). Margins this thin disappear at the first environmental change.
+<strong>Two — high ROE with thin margin is a quality trap.</strong> Sungho Electronics (ROE 46.3%, margin 3.3%), ITCEN Global (margin 3.2%), S-Connect (margin 4.8%). Margins this thin disappear at the first environmental change.
 
-**Three — Inca Financial Service stands out.** ROE 39.7%, PER 9.1×, clean Filter-1 entry. Margin 9.3% and 20D price -12% mean it's not a market leader. Discussed separately as a "non-AI quality candidate" in §5.
+<strong>Three — Inca Financial Service stands out.</strong> ROE 39.7%, PER 9.1×, clean Filter-1 entry. Margin 9.3% and 20D price -12% mean it's not a market leader. Discussed separately as a "non-AI quality candidate" in §5.
 
 ### 2.2 Filter 2 — ROE ≥25% + ₩1bn daily turnover
 
@@ -164,22 +164,22 @@ Filter 2 additional conditions:
 - 20-day average daily turnover ≥₩1bn
 ```
 
-This returns **35 names** — under 2% of the listed universe.
+This returns <strong>35 names</strong> — under 2% of the listed universe.
 
 ### 2.3 Filter 2's top 10
 
 | Name | ROE | Margin | OP growth | PER | PBR |
 |---|---:|---:|---:|---:|---:|
-| **Silicon2** | 46.9% | 18.4% | +49.3% | 14.8× | 5.5× |
-| **Alteogen** | 39.4% | 49.5% | +320.9% | 170.7× | 54.4× |
-| **KONA I** | 32.6% | 28.8% | +166.2% | 8.9× | 2.5× |
-| **KNJ** | 30.8% | 26.3% | +57.4% | 6.8× | 1.8× |
-| **Easy Bio** | 29.1% | 9.4% | +38.9% | 7.0× | 1.8× |
-| **Global Tax Free** | 27.8% | 18.8% | +34.3% | 9.1× | 2.3× |
-| **Mico** | 27.2% | 10.3% | +6.8% | 15.2× | 3.7× |
-| **PharmaResearch** | 26.9% | 40.0% | +70.0% | 28.4× | 6.8× |
-| **Classys** | 26.2% | 50.7% | +39.4% | 27.1× | 6.4× |
-| **VT** | 25.7% | 19.0% | -25.2% | 10.2× | 2.5× |
+| <strong>Silicon2</strong> | 46.9% | 18.4% | +49.3% | 14.8× | 5.5× |
+| <strong>Alteogen</strong> | 39.4% | 49.5% | +320.9% | 170.7× | 54.4× |
+| <strong>KONA I</strong> | 32.6% | 28.8% | +166.2% | 8.9× | 2.5× |
+| <strong>KNJ</strong> | 30.8% | 26.3% | +57.4% | 6.8× | 1.8× |
+| <strong>Easy Bio</strong> | 29.1% | 9.4% | +38.9% | 7.0× | 1.8× |
+| <strong>Global Tax Free</strong> | 27.8% | 18.8% | +34.3% | 9.1× | 2.3× |
+| <strong>Mico</strong> | 27.2% | 10.3% | +6.8% | 15.2× | 3.7× |
+| <strong>PharmaResearch</strong> | 26.9% | 40.0% | +70.0% | 28.4× | 6.8× |
+| <strong>Classys</strong> | 26.2% | 50.7% | +39.4% | 27.1× | 6.4× |
+| <strong>VT</strong> | 25.7% | 19.0% | -25.2% | 10.2× | 2.5× |
 
 ### 2.4 Lesson — quality rises with each cut
 
@@ -191,19 +191,19 @@ Filter 2 (ROE ≥25%, ₩1bn turnover):                35 (1.9%)
 Filter 3 (ROE+margin+growth+flow combined):         6 (0.3%)
 ```
 
-1,820 → 105 → 35 → 6. **The final investable candidate set is 0.3% of the universe.** This is the operational mechanic behind the KOSDAQ Global Index's 2.5× outperformance — narrow enough selection, applied consistently.
+1,820 → 105 → 35 → 6. <strong>The final investable candidate set is 0.3% of the universe.</strong> This is the operational mechanic behind the KOSDAQ Global Index's 2.5× outperformance — narrow enough selection, applied consistently.
 
 ### 2.5 The five high-ROE traps to avoid
 
-**Trap 1 — High ROE with thin margin.** Sungho Electronics (ROE 46.3%, margin 3.3%). High ROE looks attractive but earnings quality is low.
+<strong>Trap 1 — High ROE with thin margin.</strong> Sungho Electronics (ROE 46.3%, margin 3.3%). High ROE looks attractive but earnings quality is low.
 
-**Trap 2 — Holding-company accounting.** Soulbrain Holdings (ROE 32.1%, PER 1.6×, margin 1.6%). PER 1.6× looks impossibly cheap, but margin 1.6% suggests holdco-accounting structure rather than operating reality.
+<strong>Trap 2 — Holding-company accounting.</strong> Soulbrain Holdings (ROE 32.1%, PER 1.6×, margin 1.6%). PER 1.6× looks impossibly cheap, but margin 1.6% suggests holdco-accounting structure rather than operating reality.
 
-**Trap 3 — Data instability.** Hanpass (ROE 94.2%). Newly listed; data history hasn't stabilized.
+<strong>Trap 3 — Data instability.</strong> Hanpass (ROE 94.2%). Newly listed; data history hasn't stabilized.
 
-**Trap 4 — Already overheated.** Mico (20D price +71.6%). Flow is constructive but the move is too fast — buying now is chasing.
+<strong>Trap 4 — Already overheated.</strong> Mico (20D price +71.6%). Flow is constructive but the move is too fast — buying now is chasing.
 
-**Trap 5 — Best-in-class quality at unsupportable multiple.** Alteogen (ROE 39.4%, margin 49.5%, PER 170.7×). Fundamentally a great business, but the multiple already prices several years of expected growth.
+<strong>Trap 5 — Best-in-class quality at unsupportable multiple.</strong> Alteogen (ROE 39.4%, margin 49.5%, PER 170.7×). Fundamentally a great business, but the multiple already prices several years of expected growth.
 
 ---
 
@@ -219,7 +219,7 @@ ROE 46.9% / Margin 18.4% / OP growth +49.3% / PER 14.8×
 
 K-beauty distribution platform — connecting Korean cosmetic brands to overseas channels. The structural advantage is brand-agnostic exposure: with a portfolio of brand mandates rather than a single hero brand, brand-cycle risk is diversified.
 
-ROE 47%, margin 18%, growth +49%, PER 15×, F+I flow strongest in the cohort at +₩58.6bn. **Cleanest 4-of-4 simultaneously.**
+ROE 47%, margin 18%, growth +49%, PER 15×, F+I flow strongest in the cohort at +₩58.6bn. <strong>Cleanest 4-of-4 simultaneously.</strong>
 
 The caveat is that it's already a known leader — chasing carries setup risk. Watch the 43,000–45,000 won support zone or a confirmed breakout above the prior high.
 
@@ -233,7 +233,7 @@ ROE 26.2% / Margin 50.7% / OP growth +39.4% / PER 27.1×
 
 Aesthetic medical-device company. HIFU (high-intensity focused ultrasound) systems plus consumables sold to dermatology clinics globally.
 
-**Margin 50.7%** is the headline — best-in-class even within the high-ROE cohort. Razor-and-blades structure: device sale + recurring consumable. 2026 estimate ROE 29.4%, PER 19.4× — not particularly stretched for a quality compounder.
+<strong>Margin 50.7%</strong> is the headline — best-in-class even within the high-ROE cohort. Razor-and-blades structure: device sale + recurring consumable. 2026 estimate ROE 29.4%, PER 19.4× — not particularly stretched for a quality compounder.
 
 Watch around the 55,000-won support zone.
 
@@ -259,7 +259,7 @@ ROE 29.1% / Margin 9.4% / OP growth +38.9% / PER 7.0×
 
 Covered in detail across [Part 1](/post/easybio-north-america-feed-additive-rollup-2026-05-07/) and [Part 2](/post/easybio-anpario-phibro-discount-1q-checkpoint-2026-05-09/) of the Easy Bio sequence. 78% of revenue is now feed additives, building a North America M&A platform. Trades at a 50–64% discount to global peers (Phibro 18×, Anpario 15×).
 
-PER 7× with ROE 29% — a rare combination across the entire Korean market. **Cheap high-ROE value play**, though not a market leader by character. Margin of 9.4% means it isn't a high-margin business. Premium-inclusion eligibility depends on whether market cap and absolute earnings clear the still-being-finalized criteria.
+PER 7× with ROE 29% — a rare combination across the entire Korean market. <strong>Cheap high-ROE value play</strong>, though not a market leader by character. Margin of 9.4% means it isn't a high-margin business. Premium-inclusion eligibility depends on whether market cap and absolute earnings clear the still-being-finalized criteria.
 
 ### 3.5 KNJ — numbers good, flow not yet engaged
 
@@ -291,7 +291,7 @@ Maker of Rejuran (PDRN-based skin regeneration product). Margin 40%, growth +70%
 
 A "buy KOSDAQ" trade off the reform headline has no alpha. As shown in Part 1, much of the 1,820-name universe is loss-making or theme-driven.
 
-The alpha is in the **separation between names institutions can buy and names they cannot**:
+The alpha is in the <strong>separation between names institutions can buy and names they cannot</strong>:
 
 ```
 If included in Premium:
@@ -307,7 +307,7 @@ If excluded from Premium:
 
 ### 4.2 The Premium-reform losers
 
-This is the under-discussed angle. If Premium criteria are earnings-based, **large-cap-but-loss-making names that currently sit in KOSDAQ 150 risk Premium exclusion**:
+This is the under-discussed angle. If Premium criteria are earnings-based, <strong>large-cap-but-loss-making names that currently sit in KOSDAQ 150 risk Premium exclusion</strong>:
 
 | Name | Market cap | Estimated 2026E NI | Implied PER | Risk |
 |---|---|---:|---:|---|
@@ -315,17 +315,17 @@ This is the under-discussed angle. If Premium criteria are earnings-based, **lar
 | ABL Bio | #9 by cap | -₩48.6bn (loss) | n/m | May fail earnings criterion |
 | Robotis | ₩5tn | \~₩10bn | \~390× | Cap excessive vs earnings |
 
-These aren't bad businesses. They may have large future growth. But **if Premium criteria require current earnings, exclusion would mean loss of institutional and passive-flow access** — a negative alpha vector worth tracking on the short side, or at minimum a position-size reduction signal.
+These aren't bad businesses. They may have large future growth. But <strong>if Premium criteria require current earnings, exclusion would mean loss of institutional and passive-flow access</strong> — a negative alpha vector worth tracking on the short side, or at minimum a position-size reduction signal.
 
 ### 4.3 Three tradable angles
 
-**Angle 1 — Already-quality names that gain incremental flow.** Leeno Industrial, Jusung Engineering, KOSDAQ Global Segment incumbents. Probably included in Premium. But the incremental alpha is limited — quality is already in the multiple.
+<strong>Angle 1 — Already-quality names that gain incremental flow.</strong> Leeno Industrial, Jusung Engineering, KOSDAQ Global Segment incumbents. Probably included in Premium. But the incremental alpha is limited — quality is already in the multiple.
 
 Leeno's 1Q26: revenue ₩99.8bn, OP ₩47.3bn, margin 47.4%. Target prices revised up to ₩150,000. High inclusion certainty but a less asymmetric setup than Angle 2.
 
-**Angle 2 — Earnings inflection + Premium-inclusion catalyst.** Simmtech is the cleanest example. 2025 OP ₩11.9bn → 2026E OP ₩120-150bn — a 10× lift driven by AI server / memory module substrate mix shift. The market currently treats it as a cyclical-substrate recovery name. If 2026 OP exceeds ₩100bn, it becomes a viable Premium-inclusion candidate. **Earnings inflection + policy-driven flow = double re-rating.**
+<strong>Angle 2 — Earnings inflection + Premium-inclusion catalyst.</strong> Simmtech is the cleanest example. 2025 OP ₩11.9bn → 2026E OP ₩120-150bn — a 10× lift driven by AI server / memory module substrate mix shift. The market currently treats it as a cyclical-substrate recovery name. If 2026 OP exceeds ₩100bn, it becomes a viable Premium-inclusion candidate. <strong>Earnings inflection + policy-driven flow = double re-rating.</strong>
 
-**Angle 3 — Non-AI quality candidates.** Inca Financial Service. Insurance distribution (general agency) business: 2025 revenue ₩1.022tn, OP ₩95.2bn, NI ₩71.3bn. 2026 NI target \~₩100bn. The market will likely interpret KOSDAQ reform through an AI / biotech / robotics lens — but if Premium criteria are earnings-and-governance based, profitable non-AI names also qualify. Surprise re-rating optionality.
+<strong>Angle 3 — Non-AI quality candidates.</strong> Inca Financial Service. Insurance distribution (general agency) business: 2025 revenue ₩1.022tn, OP ₩95.2bn, NI ₩71.3bn. 2026 NI target \~₩100bn. The market will likely interpret KOSDAQ reform through an AI / biotech / robotics lens — but if Premium criteria are earnings-and-governance based, profitable non-AI names also qualify. Surprise re-rating optionality.
 
 ---
 
@@ -338,7 +338,7 @@ Leeno's 1Q26: revenue ₩99.8bn, OP ₩47.3bn, margin 47.4%. Target prices revis
 | Silicon2 | 46.9% | High | All four (ROE / margin / growth / flow) clean |
 | Classys | 26.2% | High | Margin 50%+, stable profitability |
 | Global Tax Free | 27.8% | Medium | Cap and earnings size verification needed |
-| **Easy Bio** | 29.1% | Medium → High | Visible 2026 OP at \~₩50bn level should clear |
+| <strong>Easy Bio</strong> | 29.1% | Medium → High | Visible 2026 OP at \~₩50bn level should clear |
 | KNJ | 30.8% | Medium | Earnings size and cap thresholds need verification |
 | PharmaResearch | 26.9% | High | Margin 40%, stable profitability |
 
@@ -346,11 +346,11 @@ Leeno's 1Q26: revenue ₩99.8bn, OP ₩47.3bn, margin 47.4%. Target prices revis
 
 ROE under 25% can still clear Premium if absolute earnings and stability are strong:
 
-* **Leeno Industrial** — margin 47%, 1Q26 OP ₩47.3bn. Stable inclusion candidate.
-* **Jusung Engineering** — flagship semi-equipment name. Cap and earnings both clear typical thresholds.
-* **SOOP** — internet-broadcast platform. Stable profitability.
-* **Simmtech** — 2026 OP >₩100bn would clear earnings criterion.
-* **Inca Financial Service** — NI ₩70-100bn band. Non-AI quality candidate.
+* <strong>Leeno Industrial</strong> — margin 47%, 1Q26 OP ₩47.3bn. Stable inclusion candidate.
+* <strong>Jusung Engineering</strong> — flagship semi-equipment name. Cap and earnings both clear typical thresholds.
+* <strong>SOOP</strong> — internet-broadcast platform. Stable profitability.
+* <strong>Simmtech</strong> — 2026 OP >₩100bn would clear earnings criterion.
+* <strong>Inca Financial Service</strong> — NI ₩70-100bn band. Non-AI quality candidate.
 
 ---
 
@@ -358,7 +358,7 @@ ROE under 25% can still clear Premium if absolute earnings and stability are str
 
 ### 6.1 Final criteria not yet published
 
-The most important caveat. Final Premium-100 criteria are not yet released. Industry briefings are scheduled for June and finalization for July. This screen is **probable-candidate identification**, not a confirmed list.
+The most important caveat. Final Premium-100 criteria are not yet released. Industry briefings are scheduled for June and finalization for July. This screen is <strong>probable-candidate identification</strong>, not a confirmed list.
 
 ### 6.2 High ROE has many traps
 
@@ -366,7 +366,7 @@ ROE alone is not enough. Earnings quality (margin), persistence (growth), and ma
 
 ### 6.3 APR is KOSPI-listed, not KOSDAQ
 
-For the avoidance of doubt — **APR (KOSPI 278470) is on KOSPI, not KOSDAQ**, and is *not* a direct beneficiary of the KOSDAQ promotion-relegation reform. Same with Cosmax (KOSPI 192820). Both are well-known Korean beauty names but on the wrong exchange for this reform.
+For the avoidance of doubt — <strong>APR (KOSPI 278470) is on KOSPI, not KOSDAQ</strong>, and is *not* a direct beneficiary of the KOSDAQ promotion-relegation reform. Same with Cosmax (KOSPI 192820). Both are well-known Korean beauty names but on the wrong exchange for this reform.
 
 ### 6.4 Premium inclusion ≠ guaranteed price appreciation
 
@@ -378,18 +378,18 @@ If included, passive flow can arrive — but the lesson of the 2022 KOSDAQ Globa
 
 | Priority | Name | Character | Verdict | Trigger |
 |---:|---|---|---|---|
-| 1 | **Silicon2** | High-ROE growth | Pullback buy #1 | 43,000–45,000 won support OR confirmed new-high breakout |
-| 2 | **Classys** | High-margin device | Buy on support | \~55,000 won support hold |
-| 3 | **Simmtech** | Earnings inflection + Premium catalyst | Buy on confirmation | 2Q26 OP path ≥₩50bn confirmed |
-| 4 | **Easy Bio** | Cheap high-ROE value | Value candidate | 1Q26 OPM ≥9.4% confirmed |
-| 5 | **Leeno Industrial** | Stable inclusion candidate | Wait for pullback | 15–20% retracement |
-| 6 | **Global Tax Free** | Cheap high-ROE | Conditional buy | 6,000-won base + sustained turnover |
+| 1 | <strong>Silicon2</strong> | High-ROE growth | Pullback buy #1 | 43,000–45,000 won support OR confirmed new-high breakout |
+| 2 | <strong>Classys</strong> | High-margin device | Buy on support | \~55,000 won support hold |
+| 3 | <strong>Simmtech</strong> | Earnings inflection + Premium catalyst | Buy on confirmation | 2Q26 OP path ≥₩50bn confirmed |
+| 4 | <strong>Easy Bio</strong> | Cheap high-ROE value | Value candidate | 1Q26 OPM ≥9.4% confirmed |
+| 5 | <strong>Leeno Industrial</strong> | Stable inclusion candidate | Wait for pullback | 15–20% retracement |
+| 6 | <strong>Global Tax Free</strong> | Cheap high-ROE | Conditional buy | 6,000-won base + sustained turnover |
 
 ---
 
 ## 8. Bottom line
 
-The investment substance of the KOSDAQ reform is not "buy KOSDAQ." **It is the separation between names institutions can own and names they cannot.**
+The investment substance of the KOSDAQ reform is not "buy KOSDAQ." <strong>It is the separation between names institutions can own and names they cannot.</strong>
 
 Premium-100 inclusion isn't about market cap — it's about earnings. The wide net (ROE ≥15%, OP growth positive) clears 105 of 1,820 (5.8%). The tight net (ROE ≥25%, ₩1bn turnover) clears 35 (1.9%). The simultaneous-4 (ROE + margin + growth + flow) clears 6 (0.3%). Silicon2 is the most balanced, Classys the highest-margin, Easy Bio the cheapest.
 
@@ -401,25 +401,25 @@ Final criteria publish in July. Until then, the candidate list is preliminary. T
 
 ## FAQ
 
-**Q: Why ROE as the starting filter?**
+<strong>Q: Why ROE as the starting filter?</strong>
 A: Premium-tier criteria emphasize "financial soundness and growth." ROE captures both — it indicates the business has an earnings base and is using capital efficiently. This is exactly the profile pension capital can underwrite. A practical first filter for Premium-eligibility screening.
 
-**Q: Why narrow from 105 to just 6 final candidates?**
+<strong>Q: Why narrow from 105 to just 6 final candidates?</strong>
 A: ROE alone is not enough. Earnings quality (margin), persistence (growth), and market validation (foreign + institutional flow) all need to coincide. The intersection across all four filters is the 0.3% of the universe — and this 0.3% is where the alpha sits.
 
-**Q: Why does Alteogen drop out of the final 6 despite having ROE 39%, margin 49%?**
+<strong>Q: Why does Alteogen drop out of the final 6 despite having ROE 39%, margin 49%?</strong>
 A: Because PER 170× already prices in multi-year forward growth. "Good business" and "good entry price" are different questions. Alteogen the company is high-quality; Alteogen the entry-level position is not.
 
-**Q: Which names are likely to be excluded from Premium?**
+<strong>Q: Which names are likely to be excluded from Premium?</strong>
 A: Large-cap-but-low-earnings names. Ecopro BM (PER \~596×), ABL Bio (loss-making, -₩48.6bn), Robotis (PER \~390×). Future growth potential aside, *current* earnings criteria can fail them. Exclusion means losing institutional / passive-flow access — a negative alpha vector.
 
-**Q: Why include Simmtech in the watchlist if it's not in the final 6?**
+<strong>Q: Why include Simmtech in the watchlist if it's not in the final 6?</strong>
 A: Simmtech's 2026 OP forecast ₩120-150bn is a 10× jump from 2025 ₩11.9bn driven by AI server / memory module substrate mix. The market still treats it as cyclical recovery. If OP clears ₩100bn, it becomes Premium-eligible — a "double re-rating" candidate (earnings inflection + policy flow).
 
-**Q: Should one chase or wait?**
+<strong>Q: Should one chase or wait?</strong>
 A: Most of the final 6 have already moved meaningfully. Each has a separate entry condition: Silicon2 wants 43,000–45,000 won support or confirmed breakout, Classys wants \~55,000 won support hold, GlobalTaxFree wants 6,000-won basing with sustained turnover. Wait for the trigger; the chase has worse risk-reward.
 
-**Q: What changes in June and July that matters?**
+<strong>Q: What changes in June and July that matters?</strong>
 A: June industry briefings and the July KOSDAQ 30th-anniversary event are when Premium-100 final criteria publish. Whether the market-cap threshold is ₩500bn vs higher, whether the OP threshold is ₩30bn vs higher, and what governance grade is required — those details flip individual probabilities. Re-score the candidate list once the criteria are public.
 
 ---

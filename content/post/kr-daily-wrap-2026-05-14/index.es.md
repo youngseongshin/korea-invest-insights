@@ -20,19 +20,19 @@ draft: false
 | US 10Y | 4,48% | +0,09 | Neutral |
 | Brent | 105,4 USD | +1,2% | Estable |
 
-**Régimen:** Corea = Neutral · EE.UU. = Alcista. La divergencia de 7,8 pp entre el KOSPI de grandes capitalizaciones (+6,5% en 5 días) y el KOSDAQ (−1,4%) refleja una rotación defensiva hacia blue chips. El won débil y el petróleo en 105 USD mantienen la calidad del rebote por debajo de lo óptimo.
+<strong>Régimen:</strong> Corea = Neutral · EE.UU. = Alcista. La divergencia de 7,8 pp entre el KOSPI de grandes capitalizaciones (+6,5% en 5 días) y el KOSDAQ (−1,4%) refleja una rotación defensiva hacia blue chips. El won débil y el petróleo en 105 USD mantienen la calidad del rebote por debajo de lo óptimo.
 
 ---
 
 ## Sección 2 — Resumen de Mercado
 
-La sesión del 14 de mayo en el mercado coreano puede describirse como **riesgo activado con ventas extranjeras** (*risk-on con matiz negativo*). El KOSPI cerró en 7.981 (+1,75%) y el KOSDAQ en 1.191 (+1,20%), pero el fondo de la jornada fue menos sólido de lo que sugieren los índices: los inversores extranjeros vendieron cerca de 2,2 billones de won en el KOSPI y 170.000 millones en el KOSDAQ, y fueron los inversores individuales quienes absorbieron la oferta.
+La sesión del 14 de mayo en el mercado coreano puede describirse como <strong>riesgo activado con ventas extranjeras</strong> (*risk-on con matiz negativo*). El KOSPI cerró en 7.981 (+1,75%) y el KOSDAQ en 1.191 (+1,20%), pero el fondo de la jornada fue menos sólido de lo que sugieren los índices: los inversores extranjeros vendieron cerca de 2,2 billones de won en el KOSPI y 170.000 millones en el KOSDAQ, y fueron los inversores individuales quienes absorbieron la oferta.
 
-**Sectores fuertes:** Semiconductores y memoria encabezaron el avance, impulsados por expectativas en torno a la reunión bilateral entre EE.UU. y China y el ciclo de superprecio en memoria (NAND/HBM). El consumo básico (alimentación) y el sector financiero (seguros y valores) también registraron ganancias. Samsung Electronics (005930.KS) avanzó +4,23% con compras simultáneas de extranjeros, institucionales y programas, acercándose a máximos de 52 semanas. Daedeok Electronics (000177.KQ) prolongó su impulso de cinco días (+19,8%), respaldado por un anuncio de inversión en nuevas instalaciones y una fortaleza relativa (RS) de 98,2. Jeje Semiconductor (080220.KQ) fue el valor más llamativo de la sesión (+28,35%) tras publicar resultados del primer trimestre muy por encima de lo esperado (ventas 180.500 millones de won, beneficio operativo 67.100 millones), beneficiándose del alza de precios en MCP/DRAM; no obstante, las ventas de extranjeros y programas el mismo día aconsejan prudencia ante subidas adicionales.
+<strong>Sectores fuertes:</strong> Semiconductores y memoria encabezaron el avance, impulsados por expectativas en torno a la reunión bilateral entre EE.UU. y China y el ciclo de superprecio en memoria (NAND/HBM). El consumo básico (alimentación) y el sector financiero (seguros y valores) también registraron ganancias. Samsung Electronics (005930.KS) avanzó +4,23% con compras simultáneas de extranjeros, institucionales y programas, acercándose a máximos de 52 semanas. Daedeok Electronics (000177.KQ) prolongó su impulso de cinco días (+19,8%), respaldado por un anuncio de inversión en nuevas instalaciones y una fortaleza relativa (RS) de 98,2. Jeje Semiconductor (080220.KQ) fue el valor más llamativo de la sesión (+28,35%) tras publicar resultados del primer trimestre muy por encima de lo esperado (ventas 180.500 millones de won, beneficio operativo 67.100 millones), beneficiándose del alza de precios en MCP/DRAM; no obstante, las ventas de extranjeros y programas el mismo día aconsejan prudencia ante subidas adicionales.
 
-**Sectores débiles:** Construcción naval, maquinaria e infraestructura energética cedieron terreno frente al sector tecnológico.
+<strong>Sectores débiles:</strong> Construcción naval, maquinaria e infraestructura energética cedieron terreno frente al sector tecnológico.
 
-**Señales de flujo:** El hecho de que los extranjeros vendieran en un día alcista es la clave interpretativa de la jornada. En el caso de SK Hynix (000660.KS), las ventas de extranjeros e institucionales de calidad sumaron más de 11,4 billones de won en los últimos cinco días, lo que sugiere que incluso en el sector más fuerte hay rotación dentro del grupo. HD Hyundai Energy Solution (322000.KQ) destacó con flujos de extranjeros e institucionales simultaneamente positivos, reforzando su protagonismo en el cribado cuantitativo. En el sector de juegos, los flujos se desplazaron hacia valores con resultados confirmados, alejándose de candidatos pendientes de catalizador.
+<strong>Señales de flujo:</strong> El hecho de que los extranjeros vendieran en un día alcista es la clave interpretativa de la jornada. En el caso de SK Hynix (000660.KS), las ventas de extranjeros e institucionales de calidad sumaron más de 11,4 billones de won en los últimos cinco días, lo que sugiere que incluso en el sector más fuerte hay rotación dentro del grupo. HD Hyundai Energy Solution (322000.KQ) destacó con flujos de extranjeros e institucionales simultaneamente positivos, reforzando su protagonismo en el cribado cuantitativo. En el sector de juegos, los flujos se desplazaron hacia valores con resultados confirmados, alejándose de candidatos pendientes de catalizador.
 
 La combinación de USD/KRW en 1.492 y Brent en 105 USD limita la calidad del rebote: las condiciones son compatibles con posiciones selectivas, no con una ampliación generalizada de la exposición al mercado.
 
@@ -40,7 +40,7 @@ La combinación de USD/KRW en 1.492 y Brent en 105 USD limita la calidad del reb
 
 ## Sección 3 — Candidatos a Revaluación de Calidad
 
-El meta-cribador de hoy analiza 125 valores y eleva siete candidatos con presencia en tres o más cribadores individuales. La lógica editorial sigue tres capas: **calidad del negocio** (Quality Compounder), **flujo institucional/extranjero** (Smart Money), y **catalizador de revaluación** (Cycle Rerating / PEAD / revisión al alza del consenso).
+El meta-cribador de hoy analiza 125 valores y eleva siete candidatos con presencia en tres o más cribadores individuales. La lógica editorial sigue tres capas: <strong>calidad del negocio</strong> (Quality Compounder), <strong>flujo institucional/extranjero</strong> (Smart Money), y <strong>catalizador de revaluación</strong> (Cycle Rerating / PEAD / revisión al alza del consenso).
 
 ### Tabla de candidatos principales
 
@@ -60,13 +60,13 @@ El meta-cribador de hoy analiza 125 valores y eleva siete candidatos con presenc
 
 ### Análisis de los tres primeros candidatos
 
-**APR (278470.KS) — Puntuación meta 85,3 · 4 cribadores**
+<strong>APR (278470.KS) — Puntuación meta 85,3 · 4 cribadores</strong>
 APR es una empresa de productos de cuidado personal y cosmética con un perfil de crecimiento inusualmente sólido: ROE del 65%, crecimiento de beneficio operativo del +197,9% interanual y ventas que casi se duplicaron (+111,3%). Es el único valor del universo que combina los cuatro cribadores principales hoy. Los flujos de extranjeros e institucionales de calidad sumaron más de 91.000 millones de won en cinco días. El punto de atención: la tasa de ventas en corto del 11,1% y la participación extranjera del 37,5% implican que cualquier cambio en el apetito de riesgo externo puede presionar el valor. Próximo paso a verificar: sostenimiento del flujo institucional y evolución del margen operativo en resultados del segundo trimestre.
 
-**Device (187870.KQ) — Puntuación meta 63,8 · 3 cribadores**
+<strong>Device (187870.KQ) — Puntuación meta 63,8 · 3 cribadores</strong>
 Device es un fabricante de maquinaria especial que aparece en los cribadores de Quality Compounder, Cycle Rerating y PEAD simultáneamente. El crecimiento del beneficio operativo (+311,9%) y la expansión de margen (+11,7 pp) son las cifras más contundentes del cribador de ciclo hoy. La empresa aprobó recientemente una ampliación de capital sin costo (권리락) según los registros DART, lo que amplía el capital circulante. Señal de seguimiento: el valor está a un 29,9% de su máximo de 52 semanas; si el drift post-resultados se mantiene activo, ese espacio puede recorrerse gradualmente.
 
-**TES (테스, 095610.KQ) — Puntuación meta 59,9 · 3 cribadores**
+<strong>TES (테스, 095610.KQ) — Puntuación meta 59,9 · 3 cribadores</strong>
 TES fabrica equipos de proceso para semiconductores, un segmento con fuerte viento de cola dado el ciclo actual de memoria. Aparece en Quality Compounder, Smart Money Quality y Smart Money Earnings: la lógica es que el dinero institucional está confirmando una mejora de resultados en un negocio con fundamentos sólidos (ROE 14,5%, OP YoY +50,3%). El informe trimestral más reciente fue publicado el 13 de mayo (DART 20260513). El punto débil: la venta de extranjeros y programas el día de hoy sugiere que la rotación dentro del sector no es uniforme. Verificar si la tendencia de compra institucional se mantiene la próxima semana.
 
 ---

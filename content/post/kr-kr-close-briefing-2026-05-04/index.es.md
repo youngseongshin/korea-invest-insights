@@ -56,10 +56,10 @@ La divergencia sectorial fue pronunciada. Construcción, inmobiliario y papel/ma
 
 Con el mercado coreano cerrado el 5 de mayo por festivo nacional (Día del Niño), la atención se traslada a la reapertura del 6 de mayo. Los niveles técnicos y de flujo que definirán si el movimiento de hoy fue una sesión aislada o el inicio de una tendencia:
 
-- **Samsung Electronics**: ¿puede consolidar por encima de 232.500 wones con compras extranjeras por segundo día consecutivo?
-- **Samsung Electro-Mechanics**: la zona de 918.000 wones es el nivel de referencia para distinguir entre continuación y toma de beneficios.
-- **Equipos eléctricos (Hyosung, LS, Jerongjeon)**: los valores que subieron con más fuerza hoy necesitan una sesión de consolidación con caída de volumen antes de ofrecer una entrada con mejor relación riesgo/beneficio.
-- **Macro**: la evolución del precio del petróleo y cualquier señal de los bancos centrales sobre el ciclo de tipos serán los determinantes del apetito por riesgo global.
+- <strong>Samsung Electronics</strong>: ¿puede consolidar por encima de 232.500 wones con compras extranjeras por segundo día consecutivo?
+- <strong>Samsung Electro-Mechanics</strong>: la zona de 918.000 wones es el nivel de referencia para distinguir entre continuación y toma de beneficios.
+- <strong>Equipos eléctricos (Hyosung, LS, Jerongjeon)</strong>: los valores que subieron con más fuerza hoy necesitan una sesión de consolidación con caída de volumen antes de ofrecer una entrada con mejor relación riesgo/beneficio.
+- <strong>Macro</strong>: la evolución del precio del petróleo y cualquier señal de los bancos centrales sobre el ciclo de tipos serán los determinantes del apetito por riesgo global.
 
 ---
 

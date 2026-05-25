@@ -8,7 +8,7 @@ tags: ["OpenEdges Technology", "394280", "SemiScope", "Samsung Foundry", "LPDDR6
 series: ["semiscope-2026"]
 ---
 
-> **Suivi SemiScope.** La première note consacrée à OpenEdges présentait la société comme la rare plateforme d'IP de sous-système mémoire coréenne, adossée à une longue courbe en J de redevances. Cette deuxième analyse resserre la question investissable : OpenEdges Technology n'est pas avant tout une « valeur NPU ». C'est une option sur IP de sous-système mémoire LPDDR5X/LPDDR6 pour les nœuds Samsung 4/5/8nm, et le titre ne mérite une pondération plus élevée que lorsque les victoires de licences, la reconnaissance de revenus, la progression des redevances et la maîtrise des coûts commencent à valider cette option.
+> <strong>Suivi SemiScope.</strong> La première note consacrée à OpenEdges présentait la société comme la rare plateforme d'IP de sous-système mémoire coréenne, adossée à une longue courbe en J de redevances. Cette deuxième analyse resserre la question investissable : OpenEdges Technology n'est pas avant tout une « valeur NPU ». C'est une option sur IP de sous-système mémoire LPDDR5X/LPDDR6 pour les nœuds Samsung 4/5/8nm, et le titre ne mérite une pondération plus élevée que lorsque les victoires de licences, la reconnaissance de revenus, la progression des redevances et la maîtrise des coûts commencent à valider cette option.
 
 ---
 
@@ -21,13 +21,13 @@ series: ["semiscope-2026"]
 
 ## En bref
 
-1. **OpenEdges se comprend mieux comme une société d'IP de sous-système mémoire que comme une société NPU.** Le prisme d'investissement central est le PHY LPDDR5X/LPDDR6, le contrôleur mémoire et le NoC, le tout packagé pour les ASIC IA, l'IA embarquée, l'automobile et les puces gourmandes en données.
-2. **Le Samsung Foundry 4/5/8nm est le vrai terrain de jeu.** Le titre n'est pas un pari sur la victoire d'OpenEdges face à Synopsys ou Cadence à la frontière mondiale des 2/3nm. C'est un pari sur le fait que les nœuds milieu-avancés à fort volume de Samsung ont besoin d'une IP LPDDR locale, crédible et adaptée au procédé.
-3. **La chaîne de valeur est encore précoce : portage, licence, tape-out, validation silicium, production, redevances.** OpenEdges a dépassé le stade de pure R&D, mais n'est pas encore une plateforme de redevances mature.
-4. **TSS et la filiale japonaise renforcent la base technologique. OpenEdges Square est une option à risque plus élevé.** TSS et Japan sont des filiales à 100 % dédiées au PHY DDR et à la profondeur du contrôleur mémoire. Square est plus intéressante mais aussi plus dilutive, car la maison mère en détient environ 65 %.
-5. **La valorisation anticipe déjà beaucoup.** Une capitalisation boursière d'environ KRW 530 Mds face à un chiffre d'affaires 2026E d'environ KRW 30,4-31,8 Mds implique environ 16,7x-17,5x les ventes. Ce niveau ne se justifie que si les victoires LPDDR6/5X, la montée en charge des revenus au 2T-3T, la discipline sur les coûts et l'avancement des redevances se matérialisent.
+1. <strong>OpenEdges se comprend mieux comme une société d'IP de sous-système mémoire que comme une société NPU.</strong> Le prisme d'investissement central est le PHY LPDDR5X/LPDDR6, le contrôleur mémoire et le NoC, le tout packagé pour les ASIC IA, l'IA embarquée, l'automobile et les puces gourmandes en données.
+2. <strong>Le Samsung Foundry 4/5/8nm est le vrai terrain de jeu.</strong> Le titre n'est pas un pari sur la victoire d'OpenEdges face à Synopsys ou Cadence à la frontière mondiale des 2/3nm. C'est un pari sur le fait que les nœuds milieu-avancés à fort volume de Samsung ont besoin d'une IP LPDDR locale, crédible et adaptée au procédé.
+3. <strong>La chaîne de valeur est encore précoce : portage, licence, tape-out, validation silicium, production, redevances.</strong> OpenEdges a dépassé le stade de pure R&D, mais n'est pas encore une plateforme de redevances mature.
+4. <strong>TSS et la filiale japonaise renforcent la base technologique. OpenEdges Square est une option à risque plus élevé.</strong> TSS et Japan sont des filiales à 100 % dédiées au PHY DDR et à la profondeur du contrôleur mémoire. Square est plus intéressante mais aussi plus dilutive, car la maison mère en détient environ 65 %.
+5. <strong>La valorisation anticipe déjà beaucoup.</strong> Une capitalisation boursière d'environ KRW 530 Mds face à un chiffre d'affaires 2026E d'environ KRW 30,4-31,8 Mds implique environ 16,7x-17,5x les ventes. Ce niveau ne se justifie que si les victoires LPDDR6/5X, la montée en charge des revenus au 2T-3T, la discipline sur les coûts et l'avancement des redevances se matérialisent.
 
-**Conclusion :** OpenEdges reste un candidat **Liste de surveillance / Ligne pilote**. Une position pilote de 0,3 %-0,5 % peut se justifier pour les investisseurs souhaitant s'exposer à la couche IP des semi-conducteurs coréens. Passer au-dessus de 1 % devra attendre des victoires répétées sur LPDDR6/5X, une montée en charge visible des revenus, une réduction de la charge de coûts fixes et une meilleure visibilité sur OpenEdges Square.
+<strong>Conclusion :</strong> OpenEdges reste un candidat <strong>Liste de surveillance / Ligne pilote</strong>. Une position pilote de 0,3 %-0,5 % peut se justifier pour les investisseurs souhaitant s'exposer à la couche IP des semi-conducteurs coréens. Passer au-dessus de 1 % devra attendre des victoires répétées sur LPDDR6/5X, une montée en charge visible des revenus, une réduction de la charge de coûts fixes et une meilleure visibilité sur OpenEdges Square.
 
 ---
 
@@ -57,12 +57,12 @@ OpenEdges possède et développe plusieurs blocs d'IP :
 
 | Famille de produits | Fonction | Signification pour l'investisseur |
 |---|---|---|
-| **DDR PHY** | Couche de signal physique entre le SoC et la DRAM | Barrière technique la plus élevée ; hard IP spécifique au nœud ; nécessite une validation silicium |
-| **Contrôleur mémoire DDR** | Contrôle l'accès mémoire, l'ordonnancement et le comportement protocolaire | Plus précieux lorsqu'il est couplé au PHY |
-| **Interconnexion sur puce / NoC** | Déplace les données à l'intérieur du SoC | Plus important à mesure que les ASIC IA ajoutent des blocs de calcul |
-| **NPU / ENLIGHT** | Accélération de l'inférence IA | Utile, mais thèse d'investissement plus faible en standalone |
-| **Contrôleur UCIe / chiplet** | Communication die-to-die pour les systèmes chiplets | Option à long terme avec l'adoption des chiplets |
-| **IP mémoire adjacente CXL** | Blocs de contrôleur mémoire et PHY utilisés par de potentiels concepteurs de puces contrôleur CXL | Exposition CXL indirecte, sans visibilité de revenus comparable à l'équipement |
+| <strong>DDR PHY</strong> | Couche de signal physique entre le SoC et la DRAM | Barrière technique la plus élevée ; hard IP spécifique au nœud ; nécessite une validation silicium |
+| <strong>Contrôleur mémoire DDR</strong> | Contrôle l'accès mémoire, l'ordonnancement et le comportement protocolaire | Plus précieux lorsqu'il est couplé au PHY |
+| <strong>Interconnexion sur puce / NoC</strong> | Déplace les données à l'intérieur du SoC | Plus important à mesure que les ASIC IA ajoutent des blocs de calcul |
+| <strong>NPU / ENLIGHT</strong> | Accélération de l'inférence IA | Utile, mais thèse d'investissement plus faible en standalone |
+| <strong>Contrôleur UCIe / chiplet</strong> | Communication die-to-die pour les systèmes chiplets | Option à long terme avec l'adoption des chiplets |
+| <strong>IP mémoire adjacente CXL</strong> | Blocs de contrôleur mémoire et PHY utilisés par de potentiels concepteurs de puces contrôleur CXL | Exposition CXL indirecte, sans visibilité de revenus comparable à l'équipement |
 
 La version la plus forte de la société n'est pas « nous vendons un NPU ». C'est « nous réduisons les goulots d'étranglement mémoire dans les puces IA en vendant un sous-système mémoire packagé ».
 
@@ -148,11 +148,11 @@ Le problème de Samsung Foundry n'est pas seulement la technologie de procédé.
 | Design houses | Packages ASIC turnkey | Peut s'insérer dans des flux de conception récurrents |
 | Clients fabless / ASIC | Tape-out plus rapide avec risque mémoire réduit | Résout les goulots d'étranglement mémoire haute vitesse basse consommation |
 
-La première couche de fossé est le **portage DDR PHY**. Le PHY n'est pas un logiciel générique. C'est un bloc d'IP dur avec une complexité analogique et mixte. À des vitesses de 8,5-14,4 Gbps, l'intégrité du signal, la gigue, le bruit, la variation de tension et de température, la marge temporelle et les algorithmes d'entraînement comptent. Un bloc d'IP uniquement simulé ne suffit pas. Les clients veulent une validation silicium.
+La première couche de fossé est le <strong>portage DDR PHY</strong>. Le PHY n'est pas un logiciel générique. C'est un bloc d'IP dur avec une complexité analogique et mixte. À des vitesses de 8,5-14,4 Gbps, l'intégrité du signal, la gigue, le bruit, la variation de tension et de température, la marge temporelle et les algorithmes d'entraînement comptent. Un bloc d'IP uniquement simulé ne suffit pas. Les clients veulent une validation silicium.
 
-La deuxième couche de fossé est le **bundling PHY + contrôleur + NoC**. Les clients ASIC IA ne cherchent pas simplement un brochage d'interface. Ils ont besoin d'un système de déplacement des données fonctionnel. Si OpenEdges peut vendre le chemin mémoire comme un bundle, cela crée un coût de changement plus élevé qu'un bloc unique ne peut créer seul.
+La deuxième couche de fossé est le <strong>bundling PHY + contrôleur + NoC</strong>. Les clients ASIC IA ne cherchent pas simplement un brochage d'interface. Ils ont besoin d'un système de déplacement des données fonctionnel. Si OpenEdges peut vendre le chemin mémoire comme un bundle, cela crée un coût de changement plus élevé qu'un bloc unique ne peut créer seul.
 
-La troisième couche de fossé est **l'effet de levier du canal design house**. Si une design house utilise régulièrement l'IP OpenEdges dans des projets Samsung turnkey, OpenEdges n'a pas besoin de vendre à chaque client individuellement. L'IP peut faire partie d'un package réplicable.
+La troisième couche de fossé est <strong>l'effet de levier du canal design house</strong>. Si une design house utilise régulièrement l'IP OpenEdges dans des projets Samsung turnkey, OpenEdges n'a pas besoin de vendre à chaque client individuellement. L'IP peut faire partie d'un package réplicable.
 
 Le fossé n'est pas absolu. Il est local et spécifique au procédé. Mais des fossés locaux et spécifiques peuvent tout de même générer des rendements attractifs sur les marchés publics lorsque la base de revenus est faible.
 
@@ -164,10 +164,10 @@ La structure des filiales est importante car OpenEdges n'est pas seulement une e
 
 | Entité | Participation de la mère | Rôle principal | Lecture investissement |
 |---|---:|---|---|
-| **Maison mère OpenEdges Technology** | - | R&D IP, ventes et stratégie de plateforme intégrée | Activité cotée principale |
-| **The Six Semiconductor (TSS)** | 100 % | R&D IP DDR PHY | Renforce le fossé technique clé |
-| **OpenEdges Technology Japan** | 100 % | R&D IP contrôleur mémoire et capacité orientée Japon | Renforce la profondeur contrôleur et l'accès aux talents régionaux |
-| **OpenEdges Square** | environ 65 % | Plateforme de vente d'IP en ligne, CC NoC et options de plateforme futures | Option à risque plus élevé ; la hausse n'appartient pas entièrement à la maison mère |
+| <strong>Maison mère OpenEdges Technology</strong> | - | R&D IP, ventes et stratégie de plateforme intégrée | Activité cotée principale |
+| <strong>The Six Semiconductor (TSS)</strong> | 100 % | R&D IP DDR PHY | Renforce le fossé technique clé |
+| <strong>OpenEdges Technology Japan</strong> | 100 % | R&D IP contrôleur mémoire et capacité orientée Japon | Renforce la profondeur contrôleur et l'accès aux talents régionaux |
+| <strong>OpenEdges Square</strong> | environ 65 % | Plateforme de vente d'IP en ligne, CC NoC et options de plateforme futures | Option à risque plus élevé ; la hausse n'appartient pas entièrement à la maison mère |
 
 TSS doit être considérée comme un actif de fossé, non comme une dilution. Le DDR PHY est la partie la plus difficile de la pile. Si TSS approfondit la capacité PHY haute vitesse, les retombées économiques reviennent à la maison mère puisqu'elle est détenue à 100 %.
 
@@ -224,8 +224,8 @@ Sur la base du snapshot de marché aux alentours du 29 avril 2026, OpenEdges s'�
 
 | Base de revenus | Calcul | PSR implicite |
 |---|---:|---:|
-| Revenus 2026E KRW 30,4 Mds | KRW 530,9 Mds / KRW 30,4 Mds | **17,5x** |
-| Revenus 2026E KRW 31,8 Mds | KRW 530,9 Mds / KRW 31,8 Mds | **16,7x** |
+| Revenus 2026E KRW 30,4 Mds | KRW 530,9 Mds / KRW 30,4 Mds | <strong>17,5x</strong> |
+| Revenus 2026E KRW 31,8 Mds | KRW 530,9 Mds / KRW 31,8 Mds | <strong>16,7x</strong> |
 
 Ce n'est pas une petite capitalisation cyclique bon marché. C'est une option coûteuse sur un modèle économique futur meilleur.
 
@@ -287,7 +287,7 @@ C'est un scénario exigeant. La bonne conclusion n'est pas « éviter ». La bon
 
 ## 10. Positionnement : Liste de surveillance / Ligne pilote
 
-Pour l'instant, je classerais OpenEdges dans le bucket **Liste de surveillance / Ligne pilote**.
+Pour l'instant, je classerais OpenEdges dans le bucket <strong>Liste de surveillance / Ligne pilote</strong>.
 
 Le titre est investissable en petite position exploratoire car le chemin haussier est clair et la couche stratégique adressable est réelle. Mais la valorisation actuelle est trop élevée pour un renforcement aveugle. La société doit démontrer que sa feuille de route technologique peut se transformer en contrats répétables et en revenus reconnus.
 
@@ -333,13 +333,13 @@ Je n'envisagerais une position supérieure à 1 % qu'après que trois ou davanta
 
 OpenEdges est une bonne option technologique. Ce n'est pas encore une bonne société en termes de bénéfices.
 
-La thèse d'investissement la plus claire n'est pas « le champion coréen du NPU ». C'est **l'IP PHY et contrôleur LPDDR5X/LPDDR6 pour les clients ASIC IA et embarqués Samsung 4/5/8nm**. C'est plus étroit, mais aussi plus solide. Cela identifie le vrai goulot d'étranglement, le vrai vivier de clients et la vraie raison pour laquelle OpenEdges peut compter malgré les géants mondiaux de l'IP.
+La thèse d'investissement la plus claire n'est pas « le champion coréen du NPU ». C'est <strong>l'IP PHY et contrôleur LPDDR5X/LPDDR6 pour les clients ASIC IA et embarqués Samsung 4/5/8nm</strong>. C'est plus étroit, mais aussi plus solide. Cela identifie le vrai goulot d'étranglement, le vrai vivier de clients et la vraie raison pour laquelle OpenEdges peut compter malgré les géants mondiaux de l'IP.
 
 TSS et la filiale japonaise renforcent la base d'IP principale. OpenEdges Square ajoute une option distincte sur le CC NoC et la plateforme IP, mais cette option n'appartient qu'en partie à la maison mère cotée et doit être surveillée sous l'angle de la discipline des coûts. Le financement CPS 2026 donne à la société du runway, mais ajoute également un risque de dilution.
 
 À une capitalisation boursière supérieure à KRW 500 Mds et environ 17x les revenus 2026E, le titre anticipe déjà un avenir meilleur. La tâche maintenant n'est pas d'admirer la technologie. C'est de vérifier la chaîne de conversion : victoires LPDDR6/5X, tape-out, validation silicium, reconnaissance de revenus, équilibre et enfin redevances.
 
-**Ma conclusion est inchangée mais plus précise : Liste de surveillance / Ligne pilote. Renforcer seulement après que les chiffres commencent à confirmer l'histoire IP.**
+<strong>Ma conclusion est inchangée mais plus précise : Liste de surveillance / Ligne pilote. Renforcer seulement après que les chiffres commencent à confirmer l'histoire IP.</strong>
 
 ---
 

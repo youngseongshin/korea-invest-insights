@@ -7,11 +7,11 @@ categories: ["Why-Korea"]
 tags: ["Why Korea", "semiconductor substrates", "FC-BGA", "ABF", "AI infrastructure", "Korean manufacturing", "Japan materials", "Taiwan foundry", "Korean stocks", "AI PCB"]
 ---
 
-> **Why Korea series, Part 1.** This is the strategic layer behind the [AI PCB and Substrate Hub](/page/korea-ai-pcb-substrate-hub/). Read it together with [AI PCB and Substrate Thesis](/post/ai-pcb-thesis-system-bom-common-bottleneck-2026-05-05/), [Korea AI PCB Ecosystem: 10 Companies](/post/korea-ai-pcb-ecosystem-ten-companies-2026-05-05/), and [Samsung Electro-Mechanics AI Infrastructure Re-Rating](/post/samsung-electro-mechanics-ai-infrastructure-rerating-2026-04-21/).
+> <strong>Why Korea series, Part 1.</strong> This is the strategic layer behind the [AI PCB and Substrate Hub](/page/korea-ai-pcb-substrate-hub/). Read it together with [AI PCB and Substrate Thesis](/post/ai-pcb-thesis-system-bom-common-bottleneck-2026-05-05/), [Korea AI PCB Ecosystem: 10 Companies](/post/korea-ai-pcb-ecosystem-ten-companies-2026-05-05/), and [Samsung Electro-Mechanics AI Infrastructure Re-Rating](/post/samsung-electro-mechanics-ai-infrastructure-rerating-2026-04-21/).
 >
-> 📚 **Subsequent parts**: [Part 2 — Korean Cosmetics](/post/why-korea-cosmetics-global-competitiveness-2026-05-07/) · [Part 3 — Samsung / SK hynix → Korean Economy Re-rating](/post/samsung-sk-hynix-korea-ai-economy-rerating-2026-05-09/) · [Part 4 — $6.7B Inflows, Korea-Discount Dissolving or Value Trap?](/post/korea-67-billion-etf-inflow-korea-discount-or-value-trap-2026-05-09/)
+> 📚 <strong>Subsequent parts</strong>: [Part 2 — Korean Cosmetics](/post/why-korea-cosmetics-global-competitiveness-2026-05-07/) · [Part 3 — Samsung / SK hynix → Korean Economy Re-rating](/post/samsung-sk-hynix-korea-ai-economy-rerating-2026-05-09/) · [Part 4 — $6.7B Inflows, Korea-Discount Dissolving or Value Trap?](/post/korea-67-billion-etf-inflow-korea-discount-or-value-trap-2026-05-09/)
 
-There is a question sitting underneath the Korean AI substrate work that deserves its own note: **why does Korea have so many listed substrate and PCB-adjacent companies in the first place?**
+There is a question sitting underneath the Korean AI substrate work that deserves its own note: <strong>why does Korea have so many listed substrate and PCB-adjacent companies in the first place?</strong>
 
 The U.S. has Nvidia, AMD, Broadcom, Apple, Qualcomm, Synopsys, Cadence, Applied Materials, Lam Research and KLA. Europe has ASML, Infineon, STMicroelectronics, NXP and specialist materials companies. But if an investor looks for large-scale commercial semiconductor substrate manufacturers, the map quickly tilts toward Japan, Taiwan and Korea.
 
@@ -115,7 +115,7 @@ Europe is a little different, but the conclusion is similar. Europe has AT&S, an
 
 Japan's substrate strength starts with materials.
 
-The key word is **ABF**, Ajinomoto Build-up Film. ABF is an interlayer insulating film used in high-performance package substrates. Ajinomoto's official innovation history describes ABF as a standard material for high-performance CPUs, first adopted by a major semiconductor manufacturer in 1999, and developed from the company's fine-chemistry expertise.
+The key word is <strong>ABF</strong>, Ajinomoto Build-up Film. ABF is an interlayer insulating film used in high-performance package substrates. Ajinomoto's official innovation history describes ABF as a standard material for high-performance CPUs, first adopted by a major semiconductor manufacturer in 1999, and developed from the company's fine-chemistry expertise.
 
 That matters because the substrate is not just copper wiring. The insulating material between the layers determines how fine the circuit can be, how stable the structure is, and how the substrate behaves under heat and stress.
 
@@ -244,7 +244,7 @@ First, Korea is not number one in every layer. Memory and mass-production substr
 
 Second, the U.S. and Europe are not permanently absent. CHIPS funding, advanced packaging programs, glass substrates and HBM packaging investments are explicit attempts to rebuild missing parts of the stack. The time horizon is years, not quarters, but the direction is real.
 
-The right conclusion is not "Asia owns substrates forever." The right conclusion is: **the current substrate advantage is the product of decades of accumulated production learning, and that makes it durable enough to matter for this AI cycle.**
+The right conclusion is not "Asia owns substrates forever." The right conclusion is: <strong>the current substrate advantage is the product of decades of accumulated production learning, and that makes it durable enough to matter for this AI cycle.</strong>
 
 ---
 

@@ -14,7 +14,7 @@ tags:
 slug: samsung-electronics-tsmc-rerating-thesis-2026-05-16
 ---
 
-> 📚 **삼성전자 시리즈**
+> 📚 <strong>삼성전자 시리즈</strong>
 > 1편: [Citi 목표가 46만원 — 메모리 사이클 프레임이 틀렸다](/ko/post/samsung-electronics-citi-tp-460000-memory-rerating-2026-05-11/)
 > 2편: [파업 vs 메모리 슈퍼사이클 — 본질은 초과이익을 누가 가져가느냐](/ko/post/samsung-electronics-strike-vs-memory-supercycle-2026-05-15/)
 > 관련 허브: [AI HBM 허브](/ko/page/korea-semiconductor-hbm-kospi-hub/) · [Memory Pulse 대시보드](https://memory.koreainvestinsights.com/)

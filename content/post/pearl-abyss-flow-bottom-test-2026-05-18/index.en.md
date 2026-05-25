@@ -21,22 +21,22 @@ valley_cashtags:
 draft: false
 ---
 
-> 📚 **Pearl Abyss × Crimson Desert Series**
+> 📚 <strong>Pearl Abyss × Crimson Desert Series</strong>
 > [1Q Recognized Sales and the 2027 Cliff](/post/pearl-abyss-1q26-recognized-sales-2027-cliff-2026-05-17/) / [Patch 1.07 Weekend Data](/post/pearl-abyss-crimson-desert-patch-107-weekend-data-2026-05-17/) / [May 21 IR Checkpoint](/post/pearl-abyss-521-ir-capital-return-dlc-dokev-2026-05-12/) / [What the DLC Comments Really Mean](/post/pearl-abyss-dlc-package-to-franchise-rerating-2026-05-15/) / [Pearl Abyss Hub](/page/pearl-abyss-crimson-desert-hub/)
 
 *Pearl Abyss materially reduced "2Q cliff" concerns with its 1Q26 results and 2Q guidance. Yet the stock kept falling after the earnings release. The reason is straightforward: the market has moved on from 2Q and is now pricing the 2027 earnings cliff, capital allocation, and flow dynamics. The tape over the past two weeks does not yet look like a reversal. Foreigners have partially returned since the May 13 forced selling, but institutions have not. This is a "flow-bottom test," not a "flow turn."*
 
 ## Key Summary
 
-* **Two-week flow is not a turn yet.** From May 4 to May 18, 2026, the stock fell from ₩58,500 to ₩45,800, a decline of roughly **-21.7%**. This reads less like a routine pullback and more like a post-1Q valuation reset.
-* **Both foreigners and institutions were net sellers over the full two weeks.** Per Naver Finance, cumulative net selling from May 4–18 was -502,638 shares for institutions and -546,424 shares for foreigners, translating to estimated net consideration of approximately -₩26.4B and -₩30.1B respectively.
-* **That said, foreigners showed a partial reversal after the May 13 panic.** Net buying came in at +56,653 shares on May 14, +206,722 on May 15, and +65,936 on May 18. Foreign re-entry at lower prices is a positive.
-* **The institutional breakdown still looks weak.** Per the Research OS local DB from May 4–15, institutional selling was led by securities firms (-₩17.3B) and private funds (-₩7.5B). Pension funds and insurers have not stepped in meaningfully; trust funds were only marginally positive at +₩0.9B.
-* **Program trading and short selling have calmed, but loan balance risk remains.** Program trading swung from -₩34.5B on May 13 to +₩3.0B on May 14, +₩9.7B on May 15, and +₩3.2B on May 18. Short-selling share fell from 19.26% to the 7% range. However, the stock loan balance continued to rise through May 15.
-* **We are currently in stage 3 of a 4-stage process.** Distribution and forced selling are behind us; foreign bargain buying and program normalization have appeared. But institutional re-entry and trend recovery have not.
-* **The practical call is hold and observe; additional buying should wait.** A genuine flow turn requires holding ₩45,500–₩46,000, reclaiming ₩47,200, and seeing trust funds, pension funds, and insurers add positions in the institutional breakdown.
+* <strong>Two-week flow is not a turn yet.</strong> From May 4 to May 18, 2026, the stock fell from ₩58,500 to ₩45,800, a decline of roughly <strong>-21.7%</strong>. This reads less like a routine pullback and more like a post-1Q valuation reset.
+* <strong>Both foreigners and institutions were net sellers over the full two weeks.</strong> Per Naver Finance, cumulative net selling from May 4–18 was -502,638 shares for institutions and -546,424 shares for foreigners, translating to estimated net consideration of approximately -₩26.4B and -₩30.1B respectively.
+* <strong>That said, foreigners showed a partial reversal after the May 13 panic.</strong> Net buying came in at +56,653 shares on May 14, +206,722 on May 15, and +65,936 on May 18. Foreign re-entry at lower prices is a positive.
+* <strong>The institutional breakdown still looks weak.</strong> Per the Research OS local DB from May 4–15, institutional selling was led by securities firms (-₩17.3B) and private funds (-₩7.5B). Pension funds and insurers have not stepped in meaningfully; trust funds were only marginally positive at +₩0.9B.
+* <strong>Program trading and short selling have calmed, but loan balance risk remains.</strong> Program trading swung from -₩34.5B on May 13 to +₩3.0B on May 14, +₩9.7B on May 15, and +₩3.2B on May 18. Short-selling share fell from 19.26% to the 7% range. However, the stock loan balance continued to rise through May 15.
+* <strong>We are currently in stage 3 of a 4-stage process.</strong> Distribution and forced selling are behind us; foreign bargain buying and program normalization have appeared. But institutional re-entry and trend recovery have not.
+* <strong>The practical call is hold and observe; additional buying should wait.</strong> A genuine flow turn requires holding ₩45,500–₩46,000, reclaiming ₩47,200, and seeing trust funds, pension funds, and insurers add positions in the institutional breakdown.
 
-Data covers **May 4–18, 2026**. Price, foreign, and institutional flow data are sourced from the Research OS local DB and [Naver Finance Pearl Abyss foreign/institutional page](https://finance.naver.com/item/frgn.naver?code=263750).
+Data covers <strong>May 4–18, 2026</strong>. Price, foreign, and institutional flow data are sourced from the Research OS local DB and [Naver Finance Pearl Abyss foreign/institutional page](https://finance.naver.com/item/frgn.naver?code=263750).
 
 ## 1. The Price Action Signals a Post-Event Valuation Reset
 
@@ -62,7 +62,7 @@ The earnings debate around Pearl Abyss has already moved one chapter forward. Th
 
 > 2026 numbers look strong. But will earnings hold into 2027, and will those earnings return to shareholders?
 
-This decline is therefore best understood not as a simple price correction, but as a period in which **peak-earnings discounting and flow repositioning occurred simultaneously**.
+This decline is therefore best understood not as a simple price correction, but as a period in which <strong>peak-earnings discounting and flow repositioning occurred simultaneously</strong>.
 
 ## 2. Cumulative Two-Week Flow Is Still Negative
 
@@ -239,9 +239,9 @@ The key levels are ₩45,500–₩46,000 and ₩47,200. Holding ₩45,500–₩4
 
 The practical conclusion is simple.
 
-**Hold and observe. Additional buying after confirming ₩47,200 recovery and institutional breakdown improvement.**
+<strong>Hold and observe. Additional buying after confirming ₩47,200 recovery and institutional breakdown improvement.</strong>
 
-Now is not the time to aggressively add — it is the time to watch who is absorbing the post-panic supply. The next genuine reversal for Pearl Abyss becomes more credible when **sustained foreign buying + return of long-duration institutional capital + answers at the May 21 IR that break the 2027 cliff narrative** all arrive together.
+Now is not the time to aggressively add — it is the time to watch who is absorbing the post-panic supply. The next genuine reversal for Pearl Abyss becomes more credible when <strong>sustained foreign buying + return of long-duration institutional capital + answers at the May 21 IR that break the 2027 cliff narrative</strong> all arrive together.
 
 ---
 

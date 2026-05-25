@@ -17,11 +17,11 @@ slug: samsung-electro-mechanics-100tn-murata-hyundai-market-cap-2026-05-26
 
 ## Tóm tắt
 
-Samsung Electro-Mechanics hiện không còn được định giá như một nhà cung cấp linh kiện smartphone đơn thuần. Với giá tham chiếu **1.340.000 won** và **74.693.696** cổ phiếu, vốn hóa đạt khoảng **100,1 nghìn tỷ won**. Để vượt vốn hóa cổ phiếu thường của Hyundai Motor, khoảng **134,1 nghìn tỷ won**, cổ phiếu SEMCO cần lên khoảng **1,80 triệu won**, tương đương **+34,0%**.
+Samsung Electro-Mechanics hiện không còn được định giá như một nhà cung cấp linh kiện smartphone đơn thuần. Với giá tham chiếu <strong>1.340.000 won</strong> và <strong>74.693.696</strong> cổ phiếu, vốn hóa đạt khoảng <strong>100,1 nghìn tỷ won</strong>. Để vượt vốn hóa cổ phiếu thường của Hyundai Motor, khoảng <strong>134,1 nghìn tỷ won</strong>, cổ phiếu SEMCO cần lên khoảng <strong>1,80 triệu won</strong>, tương đương <strong>+34,0%</strong>.
 
-Murata là bằng chứng rằng trần định giá này tồn tại. Công ty dự báo FY3/2027 doanh thu **1,96 nghìn tỷ yen**, lợi nhuận hoạt động **380 tỷ yen** và biên hoạt động **19,4%**, với nhu cầu tụ điện và module nguồn cho server là động lực tăng trưởng.
+Murata là bằng chứng rằng trần định giá này tồn tại. Công ty dự báo FY3/2027 doanh thu <strong>1,96 nghìn tỷ yen</strong>, lợi nhuận hoạt động <strong>380 tỷ yen</strong> và biên hoạt động <strong>19,4%</strong>, với nhu cầu tụ điện và module nguồn cho server là động lực tăng trưởng.
 
-Với Samsung Electro-Mechanics, hợp đồng tụ điện silicon khoảng **1,5 nghìn tỷ won** cho giai đoạn 2027-2028 quan trọng vì nó xác nhận vị trí trong package GPU/HBM cho server AI. Ý nghĩa chiến lược lớn hơn đóng góp lợi nhuận ngắn hạn.
+Với Samsung Electro-Mechanics, hợp đồng tụ điện silicon khoảng <strong>1,5 nghìn tỷ won</strong> cho giai đoạn 2027-2028 quan trọng vì nó xác nhận vị trí trong package GPU/HBM cho server AI. Ý nghĩa chiến lược lớn hơn đóng góp lợi nhuận ngắn hạn.
 
 | Kịch bản | Doanh thu | OPM | Lợi nhuận hoạt động | Vốn hóa hợp lý ước tính |
 |---|---:|---:|---:|---:|
@@ -30,7 +30,7 @@ Với Samsung Electro-Mechanics, hợp đồng tụ điện silicon khoảng **1
 | Murata path | 22 nghìn tỷ won | 22% | 4,84 nghìn tỷ won | 145,2 nghìn tỷ won |
 | Extreme | 24 nghìn tỷ won | 25% | 6,0 nghìn tỷ won | 157,5 nghìn tỷ won |
 
-Kết luận: vượt Hyundai về vốn hóa là có thể, nhưng duy trì vùng 150 nghìn tỷ won cần lộ trình lợi nhuận hoạt động 2028 trên **4 nghìn tỷ won** và biên lợi nhuận toàn công ty tiến gần 20%. Đánh giá hiện tại: **Watchlist / Wait**.
+Kết luận: vượt Hyundai về vốn hóa là có thể, nhưng duy trì vùng 150 nghìn tỷ won cần lộ trình lợi nhuận hoạt động 2028 trên <strong>4 nghìn tỷ won</strong> và biên lợi nhuận toàn công ty tiến gần 20%. Đánh giá hiện tại: <strong>Watchlist / Wait</strong>.
 
 [1]: https://samsungsem.com/global/about-us/investor-relations/stock.do "Stocks | SAMSUNG ELECTRO-MECHANICS"
 [2]: https://samsungsem.com/global/newsroom/news/view.do?id=10310 "Samsung Electro-Mechanics Silicon Capacitor Contract"

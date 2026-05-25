@@ -12,9 +12,9 @@ draft: false
 
 Thị trường chứng khoán Hàn Quốc ngày 3/4/2026 không sụp đổ, nhưng cũng không mở rộng. Đây là tín hiệu đáng chú ý hơn nhiều so với một phiên giảm điểm thông thường.
 
-Bộ lọc tích hợp KR-US — thước đo đồng thời điều kiện cung-cầu và kỹ thuật giá — ghi nhận số cổ phiếu vượt ngưỡng giảm từ 120 xuống còn 79 trong vòng vài ngày. Con số này không báo hiệu thị trường gấu, nhưng nó xác nhận một điều quan trọng: đây là thị trường của **sự chọn lọc**, không phải của sự mở rộng. Nhà đầu tư nước ngoài quan tâm đến Hàn Quốc nên hiểu rõ sự khác biệt này.
+Bộ lọc tích hợp KR-US — thước đo đồng thời điều kiện cung-cầu và kỹ thuật giá — ghi nhận số cổ phiếu vượt ngưỡng giảm từ 120 xuống còn 79 trong vòng vài ngày. Con số này không báo hiệu thị trường gấu, nhưng nó xác nhận một điều quan trọng: đây là thị trường của <strong>sự chọn lọc</strong>, không phải của sự mở rộng. Nhà đầu tư nước ngoài quan tâm đến Hàn Quốc nên hiểu rõ sự khác biệt này.
 
-Khi thị trường thu hẹp theo cụm (clustered rebound), lợi nhuận tập trung vào số ít cổ phiếu dẫn dắt, trong khi phần còn lại đứng yên hoặc suy yếu. Chiến lược phù hợp lúc này không phải là tìm kiếm alpha mới, mà là **bảo vệ những vị thế đang thắng và cắt giảm những vị thế yếu**.
+Khi thị trường thu hẹp theo cụm (clustered rebound), lợi nhuận tập trung vào số ít cổ phiếu dẫn dắt, trong khi phần còn lại đứng yên hoặc suy yếu. Chiến lược phù hợp lúc này không phải là tìm kiếm alpha mới, mà là <strong>bảo vệ những vị thế đang thắng và cắt giảm những vị thế yếu</strong>.
 
 ---
 
@@ -36,11 +36,11 @@ Tỷ giá KRW/USD tiếp tục là biến số then chốt cho các cổ phiếu
 
 LG Innotek, nhà cung cấp linh kiện điện tử thuộc tập đoàn LG chuyên về module camera, bảng mạch và linh kiện xe hơi, đang nổi lên như lựa chọn hấp dẫn nhất trong bối cảnh hiện tại.
 
-**Điểm mạnh:** Các dự báo kết quả kinh doanh quý 1/2026 đã được điều chỉnh tăng đồng thời ở cả ba mảng: quang học (camera modules cho khách hàng Bắc Mỹ lớn), bảng mạch cơ bản (substrate), và linh kiện điện tử xe hơi (automotive). Đây là trường hợp hiếm gặp khi đồng thời có cả chất lượng cơ bản và thời điểm kỹ thuật thuận lợi.
+<strong>Điểm mạnh:</strong> Các dự báo kết quả kinh doanh quý 1/2026 đã được điều chỉnh tăng đồng thời ở cả ba mảng: quang học (camera modules cho khách hàng Bắc Mỹ lớn), bảng mạch cơ bản (substrate), và linh kiện điện tử xe hơi (automotive). Đây là trường hợp hiếm gặp khi đồng thời có cả chất lượng cơ bản và thời điểm kỹ thuật thuận lợi.
 
-**Rủi ro cần theo dõi:** Nếu dữ liệu nhu cầu từ khách hàng Bắc Mỹ — nhiều khả năng là Apple — cho thấy suy giảm, luận điểm đầu tư sẽ suy yếu ngay lập tức.
+<strong>Rủi ro cần theo dõi:</strong> Nếu dữ liệu nhu cầu từ khách hàng Bắc Mỹ — nhiều khả năng là Apple — cho thấy suy giảm, luận điểm đầu tư sẽ suy yếu ngay lập tức.
 
-**Điểm vào tham khảo:** Kiểm định đường trung bình 20 ngày hoặc xác nhận thêm từ báo cáo preview kết quả quý 1.
+<strong>Điểm vào tham khảo:</strong> Kiểm định đường trung bình 20 ngày hoặc xác nhận thêm từ báo cáo preview kết quả quý 1.
 
 ---
 
@@ -48,11 +48,11 @@ LG Innotek, nhà cung cấp linh kiện điện tử thuộc tập đoàn LG chu
 
 Pearl Abyss, nhà phát triển game Hàn Quốc nổi tiếng với tựa game Black Desert Online, đang là cổ phiếu có sức mạnh tương đối cao nhất trong danh mục Hàn Quốc hiện tại. Dòng vốn từ cả nhà đầu tư nước ngoài lẫn tổ chức trong nước đã duy trì ổn định trong 3-10 ngày gần đây.
 
-Tuy nhiên, đây là thông điệp quan trọng dành cho nhà đầu tư ngắn hạn: **một cổ phiếu đang dẫn đầu không có nghĩa là nên mua thêm ngay bây giờ**. Sau mức tăng đáng kể từ đáy, rủi ro/phần thưởng của việc gia tăng vị thế tại vùng giá hiện tại không còn hấp dẫn.
+Tuy nhiên, đây là thông điệp quan trọng dành cho nhà đầu tư ngắn hạn: <strong>một cổ phiếu đang dẫn đầu không có nghĩa là nên mua thêm ngay bây giờ</strong>. Sau mức tăng đáng kể từ đáy, rủi ro/phần thưởng của việc gia tăng vị thế tại vùng giá hiện tại không còn hấp dẫn.
 
 Chiến lược hợp lý: duy trì vị thế hiện có, chỉ xem xét tăng nhẹ nếu giá ổn định trên đường trung bình 10 ngày và dòng vốn ngoại/tổ chức tiếp tục tái đầu tư.
 
-**Điểm vô hiệu hóa:** Mất đường 10 ngày kết hợp với suy giảm đồng thời về lượng người chơi, đánh giá và dòng vốn.
+<strong>Điểm vô hiệu hóa:</strong> Mất đường 10 ngày kết hợp với suy giảm đồng thời về lượng người chơi, đánh giá và dòng vốn.
 
 ---
 
@@ -60,11 +60,11 @@ Chiến lược hợp lý: duy trì vị thế hiện có, chỉ xem xét tăng 
 
 NH Investment & Securities, một trong những công ty chứng khoán lớn nhất Hàn Quốc thuộc tập đoàn NH Financial Group (liên kết với Nonghyup — ngân hàng hợp tác xã nông nghiệp), đang nổi lên như lựa chọn thay thế hấp dẫn trong ngành tài chính.
 
-**Điểm mạnh:** Triển vọng lợi nhuận quý 1/2026 tích cực, kết hợp với chính sách cổ tức hào phóng và tiềm năng từ cơ chế IMA (Investment Management Account) — một cơ chế quản lý tài sản mới của Hàn Quốc cho phép các công ty chứng khoán lớn cung cấp dịch vụ giống ngân hàng đầu tư, đang trong giai đoạn triển khai pháp lý.
+<strong>Điểm mạnh:</strong> Triển vọng lợi nhuận quý 1/2026 tích cực, kết hợp với chính sách cổ tức hào phóng và tiềm năng từ cơ chế IMA (Investment Management Account) — một cơ chế quản lý tài sản mới của Hàn Quốc cho phép các công ty chứng khoán lớn cung cấp dịch vụ giống ngân hàng đầu tư, đang trong giai đoạn triển khai pháp lý.
 
-**Rủi ro chính:** Nếu giá trị giao dịch thị trường chứng khoán Hàn Quốc suy giảm (hiện đã giảm so với đỉnh) hoặc kỳ vọng về cải cách thể chế không được thực hiện, tốc độ định giá lại sẽ chậm lại đáng kể.
+<strong>Rủi ro chính:</strong> Nếu giá trị giao dịch thị trường chứng khoán Hàn Quốc suy giảm (hiện đã giảm so với đỉnh) hoặc kỳ vọng về cải cách thể chế không được thực hiện, tốc độ định giá lại sẽ chậm lại đáng kể.
 
-**Điều kiện vào lệnh:** Xác nhận rằng sức hấp dẫn tương đối so với các đối thủ cùng ngành được duy trì, kết hợp với xác nhận momentum lợi nhuận và cổ tức.
+<strong>Điều kiện vào lệnh:</strong> Xác nhận rằng sức hấp dẫn tương đối so với các đối thủ cùng ngành được duy trì, kết hợp với xác nhận momentum lợi nhuận và cổ tức.
 
 ---
 
@@ -74,19 +74,19 @@ RFHIC là nhà sản xuất linh kiện bán dẫn GaN (Gallium Nitride) của H
 
 Tuy nhiên, vấn đề nằm ở thời điểm. Cổ phiếu này đã tích hợp nhiều kỳ vọng tích cực vào giá, và việc mua đuổi ở vùng giá hiện tại sẽ làm xấu đáng kể tỷ lệ rủi ro/phần thưởng.
 
-**Chiến lược phù hợp:** Chờ đợt điều chỉnh hoặc giải phóng trạng thái quá mua, rồi quan sát sự gia tăng trở lại của khối lượng giao dịch như xác nhận trước khi vào vị thế thăm dò nhỏ.
+<strong>Chiến lược phù hợp:</strong> Chờ đợt điều chỉnh hoặc giải phóng trạng thái quá mua, rồi quan sát sự gia tăng trở lại của khối lượng giao dịch như xác nhận trước khi vào vị thế thăm dò nhỏ.
 
 ---
 
 ## Điểm Mấu Chốt Cho Nhà Đầu Tư Quốc Tế
 
-Thị trường Hàn Quốc hiện tại đưa ra một bài học không mới nhưng luôn cần nhắc lại: **trong giai đoạn chọn lọc, sai lầm phổ biến nhất là đuổi theo những gì đã tăng mạnh**.
+Thị trường Hàn Quốc hiện tại đưa ra một bài học không mới nhưng luôn cần nhắc lại: <strong>trong giai đoạn chọn lọc, sai lầm phổ biến nhất là đuổi theo những gì đã tăng mạnh</strong>.
 
 Samsung Electronics vẫn là cổ phiếu cần theo dõi vì các yếu tố cơ bản — dự báo lợi nhuận quý 1 được nâng lên, kỳ vọng về bộ nhớ HBM (High Bandwidth Memory, loại chip bộ nhớ băng thông cao cần thiết cho AI) tích cực — nhưng dòng vốn ngoại chưa xác nhận, và đây là lý do không thể tăng vị thế vội vàng.
 
 Samsung Electro-Mechanics (009150.KS), nhà sản xuất linh kiện điện tử cũng thuộc tập đoàn Samsung chuyên về tụ điện MLCC và bảng mạch cho AI/xe hơi, có chất lượng cấu trúc tốt nhưng cần thêm thời gian để xác nhận tính bền vững của xu hướng.
 
-Bức tranh tổng thể: Hàn Quốc đang ở giai đoạn chuyển tiếp — không hẳn là đầu chu kỳ tăng mới, cũng không phải suy thoái cấu trúc. Đây là môi trường mà **sự kiên nhẫn và kỷ luật trong chọn lọc** có giá trị cao hơn việc liên tục tìm kiếm ý tưởng mới.
+Bức tranh tổng thể: Hàn Quốc đang ở giai đoạn chuyển tiếp — không hẳn là đầu chu kỳ tăng mới, cũng không phải suy thoái cấu trúc. Đây là môi trường mà <strong>sự kiên nhẫn và kỷ luật trong chọn lọc</strong> có giá trị cao hơn việc liên tục tìm kiếm ý tưởng mới.
 
 Với nhà đầu tư nước ngoài, tín hiệu quan trọng nhất cần theo dõi trong tuần tới là: liệu dòng vốn ngoại vào Samsung Electronics có hồi phục bền vững trong 3 phiên liên tiếp hay không. Nếu có, đó sẽ là dấu hiệu rõ ràng nhất rằng giai đoạn phòng thủ đã kết thúc và thị trường sẵn sàng mở rộng trở lại.
 

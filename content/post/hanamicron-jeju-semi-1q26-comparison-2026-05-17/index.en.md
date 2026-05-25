@@ -14,7 +14,7 @@ tags:
 slug: hanamicron-jeju-semi-1q26-comparison-2026-05-17
 ---
 
-> **Related series**
+> <strong>Related series</strong>
 > [AI Back-End 11-Stock Data Comparison](/post/ai-substrate-test-socket-data-comparison-2026-05-16/) · [Jeju Semiconductor 1Q26 Deep Dive](/post/jeju-semiconductor-1q26-earnings-legacy-memory-squeeze-2026-05-15/) · [May 15 Flow Accumulation Screen](/post/kr-flow-accumulation-absorption-screen-2026-05-15/) · [Korea Semiconductor Value-Chain Hub](/page/korea-semiconductor-equipment-ip-hub/)
 
 Both stocks exploded in 1Q26. Hana Micron delivered operating profit of KRW 72.0bn; Jeju Semiconductor delivered KRW 67.1bn. On the first trading day after each announcement, the stocks gained +18.6% and +8.9% respectively. On the surface both look like "AI-era memory back-end beneficiaries." But the two surprises are structurally different. Hana Micron is closer to a business-model improvement story — repriced cost-pass-through at the Vina entity, margin step-up at the Brazil subsidiary. Jeju Semiconductor is closer to a cyclical windfall — LPDDR4X supply scarcity amplified by tariff-driven front-loading. The same label, "earnings surprise," masks very different durability profiles. That distinction is the whole point of this note.
@@ -23,12 +23,12 @@ Both stocks exploded in 1Q26. Hana Micron delivered operating profit of KRW 72.0
 
 ## Key Takeaways
 
-- **Both sets of numbers were strong.** Hana Micron: 1Q26 revenue KRW 507.7bn, OP KRW 72.0bn, OPM 14.2%. Jeju Semiconductor: revenue KRW 180.5bn, OP KRW 67.1bn, OPM 37.2%.
-- **The nature of each surprise is different.** Hana Micron's upside was driven by a repriced cost-pass-through structure at the Vina entity and a margin step-up at the Brazil subsidiary. Jeju Semiconductor's upside was driven by LPDDR4X supply scarcity and tariff-driven pre-orders.
-- **Durability favors Hana Micron.** The 1Q margin cannot all be annualized on repeat, but Hana Micron may have established a structurally higher margin floor. Jeju Semiconductor's 37.2% OPM is difficult to call a new normal.
-- **Multiple illusion is real for Jeju.** Simply annualizing 1Q net income implies a 9x PER — but that requires four identical quarters. Adjusting for normalization pushes the expected-value multiple to 16–17x.
-- **Both are clearly overbought near-term.** Hana Micron: +58.6% over 20 days, RSI \~78. Jeju Semiconductor: +94.3% over 20 days, RSI \~81.5, and +574% from the 52-week low.
-- **Entry priority: Hana Micron > Jeju Semiconductor.** But chasing either immediately after the print is inefficient. Real alpha lies in confirming that the surprise is not one-off — i.e., 2Q26 results — and buying into any post-confirmation weakness in tranches.
+- <strong>Both sets of numbers were strong.</strong> Hana Micron: 1Q26 revenue KRW 507.7bn, OP KRW 72.0bn, OPM 14.2%. Jeju Semiconductor: revenue KRW 180.5bn, OP KRW 67.1bn, OPM 37.2%.
+- <strong>The nature of each surprise is different.</strong> Hana Micron's upside was driven by a repriced cost-pass-through structure at the Vina entity and a margin step-up at the Brazil subsidiary. Jeju Semiconductor's upside was driven by LPDDR4X supply scarcity and tariff-driven pre-orders.
+- <strong>Durability favors Hana Micron.</strong> The 1Q margin cannot all be annualized on repeat, but Hana Micron may have established a structurally higher margin floor. Jeju Semiconductor's 37.2% OPM is difficult to call a new normal.
+- <strong>Multiple illusion is real for Jeju.</strong> Simply annualizing 1Q net income implies a 9x PER — but that requires four identical quarters. Adjusting for normalization pushes the expected-value multiple to 16–17x.
+- <strong>Both are clearly overbought near-term.</strong> Hana Micron: +58.6% over 20 days, RSI \~78. Jeju Semiconductor: +94.3% over 20 days, RSI \~81.5, and +574% from the 52-week low.
+- <strong>Entry priority: Hana Micron > Jeju Semiconductor.</strong> But chasing either immediately after the print is inefficient. Real alpha lies in confirming that the surprise is not one-off — i.e., 2Q26 results — and buying into any post-confirmation weakness in tranches.
 
 ---
 
@@ -51,7 +51,7 @@ Taken at face value, both companies qualify as "earnings surprises." Hana Micron
 
 Looking only at this table, Jeju Semiconductor appears cheaper — higher OPM and a lower annualized PER. But that arithmetic requires 1Q26 to repeat identically in Q2, Q3, and Q4. In memory cycles, that assumption is among the most dangerous you can make. A quarter driven by supply scarcity and pre-ordering can reverse within one reporting period.
 
-The real question, then, is not "who had the better quarter?" It is: **how repeatable is that profit?**
+The real question, then, is not "who had the better quarter?" It is: <strong>how repeatable is that profit?</strong>
 
 ---
 
@@ -160,7 +160,7 @@ In this peer table, Hana Micron sits at a reasonable middle-ground valuation for
 
 ## 8. Practical Checkpoints
 
-**For Hana Micron**, the critical variable in 2Q26 is OPM. If 1Q's 14.2% was genuinely one-off, the margin will fall sharply in Q2. If OPM holds at roughly 13%, that is evidence that the Vina pricing structure and Brazil subsidiary margin are real, durable changes to the company's earnings power.
+<strong>For Hana Micron</strong>, the critical variable in 2Q26 is OPM. If 1Q's 14.2% was genuinely one-off, the margin will fall sharply in Q2. If OPM holds at roughly 13%, that is evidence that the Vina pricing structure and Brazil subsidiary margin are real, durable changes to the company's earnings power.
 
 Four checkpoints to monitor:
 
@@ -169,7 +169,7 @@ Four checkpoints to monitor:
 - Brazil subsidiary sustaining high-teens OPM
 - Rising share of DDR5/eSSD packaging within the revenue mix
 
-**For Jeju Semiconductor**, the critical variable is the magnitude of 2Q deceleration. If Q2 operating profit holds above KRW 50bn with OPM above 30%, 1Q was not simply a one-time peak. If Q2 drops below KRW 40bn, the front-loading and scarcity effects are unwinding faster than hoped.
+<strong>For Jeju Semiconductor</strong>, the critical variable is the magnitude of 2Q deceleration. If Q2 operating profit holds above KRW 50bn with OPM above 30%, 1Q was not simply a one-time peak. If Q2 drops below KRW 40bn, the front-loading and scarcity effects are unwinding faster than hoped.
 
 Five checkpoints to monitor:
 
@@ -197,15 +197,15 @@ If holding both, a core-satellite structure is more natural: Hana Micron as the 
 
 Hana Micron and Jeju Semiconductor both delivered strong 1Q26 results. They are not the same kind of surprise.
 
-Hana Micron is a **structural improvement story**. The Vina cost-pass-through repricing, the Brazil high-teens OPM, and growing SK hynix-related packaging volume moved together. The 1Q margin cannot be fully normalized to an annualized run-rate, but the evidence suggests a higher earnings floor than in prior cycles.
+Hana Micron is a <strong>structural improvement story</strong>. The Vina cost-pass-through repricing, the Brazil high-teens OPM, and growing SK hynix-related packaging volume moved together. The 1Q margin cannot be fully normalized to an annualized run-rate, but the evidence suggests a higher earnings floor than in prior cycles.
 
-Jeju Semiconductor is closer to a **cycle peak**. The 37.2% OPM was produced by LPDDR4X supply scarcity and tariff-driven front-loading. The company's product capabilities and niche-market positioning are genuine, but treating 37.2% OPM as a sustainable steady-state is the wrong frame.
+Jeju Semiconductor is closer to a <strong>cycle peak</strong>. The 37.2% OPM was produced by LPDDR4X supply scarcity and tariff-driven front-loading. The company's product capabilities and niche-market positioning are genuine, but treating 37.2% OPM as a sustainable steady-state is the wrong frame.
 
 On multiples, Hana Micron looks more attractive. Jeju Semiconductor's 1Q run-rate PER of 9x is an illusion — it requires four identical quarters that are unlikely to materialize. Adjusting for normalization pushes the expected-value PER to 16–17x. Hana Micron, under a structural-improvement scenario through 2027, still offers expected-value upside from the current price.
 
 Neither stock is a good chase right now. The most dangerous move after a strong earnings print is buying immediately because the numbers look good. Real alpha comes from distinguishing the cause of the surprise, confirming durability in 2Q26, and entering in tranches after the post-announcement heat fades.
 
-**The one-line version: Hana Micron is a structural-improvement confirmation trade; Jeju Semiconductor is a cycle-peak timing call. New money priority favors Hana Micron, but chasing either before 2Q26 results is inefficient.**
+<strong>The one-line version: Hana Micron is a structural-improvement confirmation trade; Jeju Semiconductor is a cycle-peak timing call. New money priority favors Hana Micron, but chasing either before 2Q26 results is inefficient.</strong>
 
 ---
 

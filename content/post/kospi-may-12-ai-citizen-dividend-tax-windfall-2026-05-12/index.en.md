@@ -19,29 +19,29 @@ tags:
 series: ["korea-market-policy-watch"]
 ---
 
-> 🔗 **Related reading**: [Why Korea Part 3 — Samsung Electronics and SK Hynix are upgrading Korea's economic weight](/post/samsung-sk-hynix-korea-ai-economy-rerating-2026-05-09/) · [Samsung Electronics Citi KRW 460,000 target analysis](/post/samsung-electronics-citi-tp-460000-memory-rerating-2026-05-11/) · [Korea Semiconductor, HBM and KOSPI Hub](/page/korea-semiconductor-hbm-kospi-hub/)
+> 🔗 <strong>Related reading</strong>: [Why Korea Part 3 — Samsung Electronics and SK Hynix are upgrading Korea's economic weight](/post/samsung-sk-hynix-korea-ai-economy-rerating-2026-05-09/) · [Samsung Electronics Citi KRW 460,000 target analysis](/post/samsung-electronics-citi-tp-460000-memory-rerating-2026-05-11/) · [Korea Semiconductor, HBM and KOSPI Hub](/page/korea-semiconductor-hbm-kospi-hub/)
 
-The May 12 intraday selloff and rebound in KOSPI should not be dismissed as ordinary semiconductor volatility. The surface explanation was familiar: a pullback in global AI beta, oil and geopolitical noise, and profit-taking after a very sharp Korea semiconductor rally. But the speed of the move and the way the market rebounded point to another trigger: **the policy question of how Korea should distribute the gains from the AI semiconductor supercycle**.
+The May 12 intraday selloff and rebound in KOSPI should not be dismissed as ordinary semiconductor volatility. The surface explanation was familiar: a pullback in global AI beta, oil and geopolitical noise, and profit-taking after a very sharp Korea semiconductor rally. But the speed of the move and the way the market rebounded point to another trigger: <strong>the policy question of how Korea should distribute the gains from the AI semiconductor supercycle</strong>.
 
-Kim Yong-beom, head of the Presidential Policy Office, did not appear to be launching a direct attack on Samsung Electronics or SK Hynix. His comments are better read as an attempt to frame the AI semiconductor boom as a fiscal, distributional and national-strategy event. But markets do not parse political philosophy slowly. When "excess profits," "citizen dividend," "structural return" and Norway's oil fund appear in the same policy context, foreign investors hear a different phrase: **Korea AI semiconductor windfall-tax risk**.
+Kim Yong-beom, head of the Presidential Policy Office, did not appear to be launching a direct attack on Samsung Electronics or SK Hynix. His comments are better read as an attempt to frame the AI semiconductor boom as a fiscal, distributional and national-strategy event. But markets do not parse political philosophy slowly. When "excess profits," "citizen dividend," "structural return" and Norway's oil fund appear in the same policy context, foreign investors hear a different phrase: <strong>Korea AI semiconductor windfall-tax risk</strong>.
 
-That is why the May 12 move matters. This was not only a question of whether Samsung and SK Hynix had risen too fast. It was the first market test of a deeper issue: **will the excess margins created by Korea's AI infrastructure bottleneck accrue to shareholders, or will policymakers increasingly view those gains as a social and fiscal resource?**
+That is why the May 12 move matters. This was not only a question of whether Samsung and SK Hynix had risen too fast. It was the first market test of a deeper issue: <strong>will the excess margins created by Korea's AI infrastructure bottleneck accrue to shareholders, or will policymakers increasingly view those gains as a social and fiscal resource?</strong>
 
 ---
 
 ## TL;DR
 
-* **Kim's comments look closer to an excess-tax-revenue argument than a direct corporate-profit levy.** His recent sequence is consistent: KOSPI re-rating, semiconductor tax windfall, AI-era distribution design, and a broader state-strategy frame.
-* **The communication problem was real.** By mixing "excess tax revenue" with "excess profits," the message was easy to read as a potential AI or semiconductor windfall tax on Samsung Electronics and SK Hynix.
-* **The morning selloff and rebound looks like a policy-headline risk unwind.** The first read was "AI profits shared with citizens"; the later clarification was closer to "excess tax revenue, not corporate profit-sharing."
-* **The core Samsung-SK Hynix earnings thesis is not broken.** There is no confirmed special levy, windfall-tax bill or forced profit-sharing mechanism. But the policy-risk premium has not disappeared.
-* **The debate is unavoidable.** If Samsung Electronics and SK Hynix can generate more than KRW 300 trillion of annual profit in an AI cycle, the question of who receives the gains — shareholders, workers, the state, regions and non-beneficiaries — becomes a national issue.
+* <strong>Kim's comments look closer to an excess-tax-revenue argument than a direct corporate-profit levy.</strong> His recent sequence is consistent: KOSPI re-rating, semiconductor tax windfall, AI-era distribution design, and a broader state-strategy frame.
+* <strong>The communication problem was real.</strong> By mixing "excess tax revenue" with "excess profits," the message was easy to read as a potential AI or semiconductor windfall tax on Samsung Electronics and SK Hynix.
+* <strong>The morning selloff and rebound looks like a policy-headline risk unwind.</strong> The first read was "AI profits shared with citizens"; the later clarification was closer to "excess tax revenue, not corporate profit-sharing."
+* <strong>The core Samsung-SK Hynix earnings thesis is not broken.</strong> There is no confirmed special levy, windfall-tax bill or forced profit-sharing mechanism. But the policy-risk premium has not disappeared.
+* <strong>The debate is unavoidable.</strong> If Samsung Electronics and SK Hynix can generate more than KRW 300 trillion of annual profit in an AI cycle, the question of who receives the gains — shareholders, workers, the state, regions and non-beneficiaries — becomes a national issue.
 
 ---
 
 ## 1. What the Market Priced First
 
-The market did not price a tax bill on the morning of May 12. No semiconductor special levy had been announced. No corporate profit-sharing mechanism had been legislated. What the market priced was **policy language**.
+The market did not price a tax bill on the morning of May 12. No semiconductor special levy had been announced. No corporate profit-sharing mechanism had been legislated. What the market priced was <strong>policy language</strong>.
 
 The sensitive sentence was the idea that the fruits of the AI infrastructure era should not remain only with specific companies and asset owners, but should be structurally shared with citizens. Seoul Economic Daily's English edition reported that Kim argued Korea may need a new social contract as AI chips, power grids and data centers reshape the structure of the Korean economy. Asia Economy carried the Korean-language report that Kim had raised the principle of a national dividend in the AI era. ([Seoul Economic Daily](https://en.sedaily.com/politics/2026/05/12/kim-yong-beom-calls-for-national-dividend-on-ai-excess), [Asia Economy](https://www.asiae.co.kr/article/2026051207392568597))
 
@@ -57,7 +57,7 @@ AI demand expands
   -> EPS or multiple discount
 ```
 
-The key issue is not the current tax code. The issue is **uncertainty over who captures incremental margin**. The Korea semiconductor rally is not just a revenue-growth story. It is a scarcity-margin story. If investors begin to question whether that incremental margin fully belongs to shareholders, they sell first and ask questions later.
+The key issue is not the current tax code. The issue is <strong>uncertainty over who captures incremental margin</strong>. The Korea semiconductor rally is not just a revenue-growth story. It is a scarcity-margin story. If investors begin to question whether that incremental margin fully belongs to shareholders, they sell first and ask questions later.
 
 That is the best way to understand the morning move. It was not a judgment that AI memory demand had deteriorated. It was a repricing of the perceived ownership of AI semiconductor excess returns.
 
@@ -110,7 +110,7 @@ Semiconductor supercycle
 
 The May 12 comment takes that logic one step further. If AI infrastructure creates structural excess returns and if that produces excess tax revenue, what principle should guide the social use of those gains?
 
-That looks much closer to an **excess-tax-revenue framework** than a direct corporate-profit seizure. The problem is that the language was sloppy for markets. "Excess tax revenue" and "excess profits" are very different concepts, but in the trading window they were heard as one.
+That looks much closer to an <strong>excess-tax-revenue framework</strong> than a direct corporate-profit seizure. The problem is that the language was sloppy for markets. "Excess tax revenue" and "excess profits" are very different concepts, but in the trading window they were heard as one.
 
 ---
 
@@ -124,7 +124,7 @@ For foreign investors, the Korea AI semiconductor story has three major attracti
 | Earnings | HBM and DRAM pricing plus supply constraints drive operating leverage |
 | Index | Their KOSPI weights attract both active and passive foreign capital |
 
-The most important pillar is earnings. More precisely, it is **incremental margin**. The bull case is not merely that Korea sells more memory. It is that shortage conditions allow Korea to sell critical AI memory at much better margins.
+The most important pillar is earnings. More precisely, it is <strong>incremental margin</strong>. The bull case is not merely that Korea sells more memory. It is that shortage conditions allow Korea to sell critical AI memory at much better margins.
 
 When a senior policy official uses the language of AI excess profits, citizen dividends and structural redistribution, foreign investors translate it like this:
 
@@ -138,7 +138,7 @@ When a senior policy official uses the language of AI excess profits, citizen di
 
 This combination naturally raises the specter of a windfall tax. Bloomberg's original headline framed the issue around using AI profits for a citizen dividend, which was enough for global investors and algorithms to react. Subsequent clarification that the idea was based on excess tax revenue rather than corporate profit-sharing helped reverse part of the move. ([Bloomberg](https://www.bloomberg.com/news/articles/2026-05-12/korea-floats-citizen-dividend-using-ai-profits-samsung-falls))
 
-That makes the intraday rebound understandable: **windfall-tax risk priced in, excess-tax-revenue clarification priced back out**.
+That makes the intraday rebound understandable: <strong>windfall-tax risk priced in, excess-tax-revenue clarification priced back out</strong>.
 
 ---
 
@@ -216,7 +216,7 @@ The citizen-dividend debate is not a direct EPS hit to these names. The more imp
 
 This is not only a semiconductor issue. Once the government begins to speak in terms of social returns from industry-level excess profits, the frame can later apply to banks, platforms and telecom companies — sectors that already carry public-interest narratives.
 
-The broader signal is that **Korean sectors with unusually large excess profits may face more policy language around social return**.
+The broader signal is that <strong>Korean sectors with unusually large excess profits may face more policy language around social return</strong>.
 
 ---
 
@@ -236,7 +236,7 @@ The broader signal is that **Korean sectors with unusually large excess profits 
 
 ## Final Note
 
-The May 12 KOSPI selloff and rebound showed the next variable in the Korea AI semiconductor rally. When profits become very large, markets stop asking only how large those profits can be. They start asking **who gets to keep them**.
+The May 12 KOSPI selloff and rebound showed the next variable in the Korea AI semiconductor rally. When profits become very large, markets stop asking only how large those profits can be. They start asking <strong>who gets to keep them</strong>.
 
 Kim Yong-beom's AI citizen-dividend language currently looks closer to a debate over how to use excess tax revenue than a plan to directly seize Samsung or SK Hynix profits. That is why the direct EPS risk is low, and why the intraday rebound makes sense.
 

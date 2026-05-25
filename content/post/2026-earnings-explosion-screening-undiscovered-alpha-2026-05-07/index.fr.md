@@ -21,19 +21,19 @@ tags:
   - "alpha petites caps"
 ---
 
-> 🔗 **Articles associés** : [Korea Daily Market Hub](/page/korea-daily-market-hub/) · [Rebond des semi-conducteurs coréens 6 mai](/post/korean-semis-rally-may-6-samsung-sk-hynix-substrate-equipment-2026-05-07/) · [Korea Semiconductor HBM Hub](/page/korea-semiconductor-hbm-kospi-hub/)
+> 🔗 <strong>Articles associés</strong> : [Korea Daily Market Hub](/page/korea-daily-market-hub/) · [Rebond des semi-conducteurs coréens 6 mai](/post/korean-semis-rally-may-6-samsung-sk-hynix-substrate-equipment-2026-05-07/) · [Korea Semiconductor HBM Hub](/page/korea-semiconductor-hbm-kospi-hub/)
 
-*Appliquer le filtre `(2025 OP > 0) ∧ (2025 NI > 0) ∧ (2026F OP > 0) ∧ (2026F NI > 0) ∧ (2026F OP growth ≥ +80 %) ∧ (2026F NI growth ≥ +80 %)` sur les actions coréennes produit **67 valeurs**. Fait remarquable : la plupart ont déjà bougé. La vraie question analytique n'est pas « laquelle de ces 67 valeurs dois-je acheter ? » mais bien « où, parmi ces 67, l'alpha résiduel subsiste-t-il encore, et pourquoi ? » Cet article ancre cette réflexion avec FnGuide comme cas de référence « post-découverte », puis approfondit les trois valeurs au profil le plus distinctement sous-découvert : QRT (validation fiabilité semi-conducteurs), BCnC (localisation matériaux substrats) et Wirenet (équipements de transmission 5G-SA).*
+*Appliquer le filtre `(2025 OP > 0) ∧ (2025 NI > 0) ∧ (2026F OP > 0) ∧ (2026F NI > 0) ∧ (2026F OP growth ≥ +80 %) ∧ (2026F NI growth ≥ +80 %)` sur les actions coréennes produit <strong>67 valeurs</strong>. Fait remarquable : la plupart ont déjà bougé. La vraie question analytique n'est pas « laquelle de ces 67 valeurs dois-je acheter ? » mais bien « où, parmi ces 67, l'alpha résiduel subsiste-t-il encore, et pourquoi ? » Cet article ancre cette réflexion avec FnGuide comme cas de référence « post-découverte », puis approfondit les trois valeurs au profil le plus distinctement sous-découvert : QRT (validation fiabilité semi-conducteurs), BCnC (localisation matériaux substrats) et Wirenet (équipements de transmission 5G-SA).*
 
 ---
 
 ## Synthèse exécutive
 
-- **Le crible a retourné 67 valeurs — la plupart ont déjà progressé.** Même avec des critères stricts (bénéfices 2025 + bénéfices 2026 + croissance annuelle ≥+80 % du résultat opérationnel et net), 67 valeurs coréennes cotées ont passé le filtre. Plus de la moitié affichent une performance supérieure à +50 % depuis le 1er janvier. Le crible seul ne génère pas d'alpha ; le marché a déjà découvert la plupart de ces noms.
-- **FnGuide illustre le régime « post-découverte » de façon la plus saisissante.** Début d'année : P/E 10× et P/B 1,4×. En mai : P/E 38× et P/B 5,45×. Performance totale YTD +279 %. Une entreprise fondamentalement solide — infrastructure de données financières et d'indices en Corée, positionnement quasi-monopolistique, OPM 2025 à 30 %, ROE 15 %. Mais au cours actuel, le titre n'est plus « bon marché à acheter » — il exige désormais un résultat opérationnel 2026 d'environ ₩20,0 md pour être justifié. Même lors du rebond du 6 mai, étrangers et institutionnels ont tous deux vendu net.
-- **Au sein des 67, les valeurs relativement peu avancées** : QRT (YTD +27–42 %), BCnC (+26–33 %), Tech Wing (+22 %), STI (+20 %), DI (+47 %), Devsisters (-35 %), Alteogen (-21 %). « Moins hausse » ne signifie pas « sous-évalué » — cela peut refléter une décote justifiée. Distinguer les deux constitue le vrai travail analytique.
-- **Priorité d'approfondissement à trois noms : QRT > BCnC > Wirenet.** QRT porte une thèse structurelle (« plus les semi-conducteurs deviennent complexes, plus la validation est le goulot d'étranglement ») qui s'applique à l'IA, aux HBM, au CXL, au RF et au spatial — une thèse multi-vecteurs. BCnC dispose d'un récit de localisation des matériaux convaincant, mais P/E 42× avec un ROE de 6,4 % — le cours a devancé l'efficacité du capital. Wirenet affiche +118 % YTD avec des ventes nettes étrangères — le marché l'a déjà découvert ; tout alpha supplémentaire exige une confirmation, non une découverte.
-- **La leçon sur le criblage lui-même** : le crible est un point de départ, pas une destination. 67 résultats, mais la plupart ont déjà bougé. L'alpha réside dans **« la vitesse de découverte par le marché vs l'écart encore présent »**, une question distincte de « qu'est-ce qui a passé le filtre ».
+- <strong>Le crible a retourné 67 valeurs — la plupart ont déjà progressé.</strong> Même avec des critères stricts (bénéfices 2025 + bénéfices 2026 + croissance annuelle ≥+80 % du résultat opérationnel et net), 67 valeurs coréennes cotées ont passé le filtre. Plus de la moitié affichent une performance supérieure à +50 % depuis le 1er janvier. Le crible seul ne génère pas d'alpha ; le marché a déjà découvert la plupart de ces noms.
+- <strong>FnGuide illustre le régime « post-découverte » de façon la plus saisissante.</strong> Début d'année : P/E 10× et P/B 1,4×. En mai : P/E 38× et P/B 5,45×. Performance totale YTD +279 %. Une entreprise fondamentalement solide — infrastructure de données financières et d'indices en Corée, positionnement quasi-monopolistique, OPM 2025 à 30 %, ROE 15 %. Mais au cours actuel, le titre n'est plus « bon marché à acheter » — il exige désormais un résultat opérationnel 2026 d'environ ₩20,0 md pour être justifié. Même lors du rebond du 6 mai, étrangers et institutionnels ont tous deux vendu net.
+- <strong>Au sein des 67, les valeurs relativement peu avancées</strong> : QRT (YTD +27–42 %), BCnC (+26–33 %), Tech Wing (+22 %), STI (+20 %), DI (+47 %), Devsisters (-35 %), Alteogen (-21 %). « Moins hausse » ne signifie pas « sous-évalué » — cela peut refléter une décote justifiée. Distinguer les deux constitue le vrai travail analytique.
+- <strong>Priorité d'approfondissement à trois noms : QRT > BCnC > Wirenet.</strong> QRT porte une thèse structurelle (« plus les semi-conducteurs deviennent complexes, plus la validation est le goulot d'étranglement ») qui s'applique à l'IA, aux HBM, au CXL, au RF et au spatial — une thèse multi-vecteurs. BCnC dispose d'un récit de localisation des matériaux convaincant, mais P/E 42× avec un ROE de 6,4 % — le cours a devancé l'efficacité du capital. Wirenet affiche +118 % YTD avec des ventes nettes étrangères — le marché l'a déjà découvert ; tout alpha supplémentaire exige une confirmation, non une découverte.
+- <strong>La leçon sur le criblage lui-même</strong> : le crible est un point de départ, pas une destination. 67 résultats, mais la plupart ont déjà bougé. L'alpha réside dans <strong>« la vitesse de découverte par le marché vs l'écart encore présent »</strong>, une question distincte de « qu'est-ce qui a passé le filtre ».
 
 ---
 
@@ -61,13 +61,13 @@ Trier le vivier par performance depuis le 1er janvier révèle l'observation la 
 
 | Tranche YTD | Nombre approx. | Exemples représentatifs |
 | --- | ---: | --- |
-| ≥ +200 % | 5+ | Joosung Engineering (+319 %), HD Hyundai Energy (+286 %), **FnGuide (+279 %)**, Amotech (+215 %) |
+| ≥ +200 % | 5+ | Joosung Engineering (+319 %), HD Hyundai Energy (+286 %), <strong>FnGuide (+279 %)</strong>, Amotech (+215 %) |
 | +100 % à +200 % | 15+ | Daeduck Electronics (+162 %), SK Hynix (+137 %), Kolon Industries (+125 %), Wirenet (+112 %), Samsung Electronics (+107 %) |
 | +50 % à +100 % | 15+ | Korea Circuit (+99 %), Hooseong (+91 %), Nano (+88 %), Dongwoon Anatech (+74 %), Wonik IPS (+61 %) |
-| 0 % à +50 % | 20+ | **QRT (+27–42 %)**, **BCnC (+26–33 %)**, Tech Wing (+22 %), STI (+20 %), Robotis (+15 %) |
+| 0 % à +50 % | 20+ | <strong>QRT (+27–42 %)</strong>, <strong>BCnC (+26–33 %)</strong>, Tech Wing (+22 %), STI (+20 %), Robotis (+15 %) |
 | Négatif | 6 | Devsisters (-35 %), Astera Sys (-22 %), Alteogen (-21 %), SBS (-17 %) |
 
-Lecture en une ligne : **plus de la moitié des 67 valeurs affiche déjà une performance supérieure à +50 % YTD.** Traiter la sortie du crible comme une liste d'achat est structurellement tardif.
+Lecture en une ligne : <strong>plus de la moitié des 67 valeurs affiche déjà une performance supérieure à +50 % YTD.</strong> Traiter la sortie du crible comme une liste d'achat est structurellement tardif.
 
 ### 1.3 Le sous-ensemble peu avancé — où l'alpha résiduel pourrait se situer
 
@@ -77,14 +77,14 @@ Candidats les mieux positionnés dans ce groupe :
 
 | Valeur | YTD | RO 2026P | Croissance RO | P/E 2026P | Pourquoi peu avancée ? |
 | --- | ---: | ---: | ---: | ---: | --- |
-| **QRT** | +27–42 % | ₩10,8 md | +125 % | 33,3× | La validation semi-conducteurs n'est pas encore reconnue comme un « thème » |
-| **BCnC** | +26–33 % | ₩10,9 md | +180 % | 42,0× | Récit de localisation des matériaux solide, mais ROE 6,4 % |
+| <strong>QRT</strong> | +27–42 % | ₩10,8 md | +125 % | 33,3× | La validation semi-conducteurs n'est pas encore reconnue comme un « thème » |
+| <strong>BCnC</strong> | +26–33 % | ₩10,9 md | +180 % | 42,0× | Récit de localisation des matériaux solide, mais ROE 6,4 % |
 | Tech Wing | +22 % | — | — | — | Thèse discrète sur les équipements de test semi |
 | STI | +20 % | — | — | — | Équipements / pièces semi |
 | Devsisters | -35 % | — | — | — | Déclin du segment jeux suivi d'un retournement — faible intérêt du marché |
 | Alteogen | -21 % | — | — | — | Correction du cours biotech vs attentes |
 
-Trois noms ressortent en tête pour un approfondissement : **QRT, BCnC, Wirenet**. (Wirenet est inclus depuis la tranche +100–200 % car il représente le cas contraire de la « découverte déjà accomplie ».)
+Trois noms ressortent en tête pour un approfondissement : <strong>QRT, BCnC, Wirenet</strong>. (Wirenet est inclus depuis la tranche +100–200 % car il représente le cas contraire de la « découverte déjà accomplie ».)
 
 ---
 
@@ -99,7 +99,7 @@ Avant l'approfondissement sur les trois noms, FnGuide est le cas de référence 
 | 2 janv. | ₩8 690 | 10,0× | 1,44× | 5,1× |
 | 27 févr. | ₩20 400 | 23,6× | 3,38× | 12,0× |
 | 30 avr. | ₩27 200 | 31,4× | 4,50× | 16,0× |
-| **6 mai** | **₩32 900** | **38,0×** | **5,45×** | **19,4×** |
+| <strong>6 mai</strong> | <strong>₩32 900</strong> | <strong>38,0×</strong> | <strong>5,45×</strong> | <strong>19,4×</strong> |
 
 En cinq mois, le P/E est passé de 10× à 38× et le P/B de 1,4× à 5,45×. Performance totale YTD +279 %.
 
@@ -163,11 +163,11 @@ Ces quatre leçons encadrent les trois noms suivants. « Explosion des bénéfic
 
 ### 3.1 Activité
 
-QRT en une ligne : **un spécialiste coréen de la validation fiabilité des semi-conducteurs**. Pas un fabricant de puces — une entreprise qui valide si les puces fonctionnent correctement.
+QRT en une ligne : <strong>un spécialiste coréen de la validation fiabilité des semi-conducteurs</strong>. Pas un fabricant de puces — une entreprise qui valide si les puces fonctionnent correctement.
 
 Hanyang Securities qualifie QRT de « plateforme de validation réalisant simultanément évaluation de fiabilité et analyse complète ». KB Securities le classe comme « entreprise coréenne de validation fiabilité de semi-conducteurs ».
 
-La raison pour laquelle cela importe : **plus les semi-conducteurs deviennent complexes, plus la validation devient le goulot d'étranglement**.
+La raison pour laquelle cela importe : <strong>plus les semi-conducteurs deviennent complexes, plus la validation devient le goulot d'étranglement</strong>.
 
 ```
 Les puces IA deviennent plus complexes → les stacks HBM grandissent → des connexions CXL s'ajoutent
@@ -195,7 +195,7 @@ Le nombre d'entreprises capables d'assurer cette validation est contraint.
 | P/E 2026P | 33,3× |
 | Croissance RO | +125 % |
 
-Hanyang Securities estime le CA 2026P à ₩85,0 md, le RO à ₩9,45 md. Le RO local de ₩10,8 md semble être une moyenne des sources. Dans tous les cas, **un RO d'environ ₩10 md constitue la ligne de vérification centrale pour 2026**.
+Hanyang Securities estime le CA 2026P à ₩85,0 md, le RO à ₩9,45 md. Le RO local de ₩10,8 md semble être une moyenne des sources. Dans tous les cas, <strong>un RO d'environ ₩10 md constitue la ligne de vérification centrale pour 2026</strong>.
 
 Un MOU récemment divulgué avec Hyperaccel pour la coopération en matière de développement de produits et de contrôle qualité en production de masse de puces IA est encourageant — mais un MOU n'est pas un chiffre d'affaires.
 
@@ -222,9 +222,9 @@ La thèse « plus les semi-conducteurs deviennent complexes, plus la validation 
 
 | Facteur | Lecture |
 | --- | --- |
-| **P (prix)** | Des tests plus complexes sur IA / HBM / CXL / RF / spatial commandent des prix unitaires plus élevés |
-| **Q (volume)** | Les clients, familles de produits et éléments à valider s'étendent (IA, RF, spatial, conduite autonome) |
-| **C (coûts)** | Hausse du taux d'utilisation des équipements + levier sur les effectifs d'analyse tirent l'OPM vers le haut |
+| <strong>P (prix)</strong> | Des tests plus complexes sur IA / HBM / CXL / RF / spatial commandent des prix unitaires plus élevés |
+| <strong>Q (volume)</strong> | Les clients, familles de produits et éléments à valider s'étendent (IA, RF, spatial, conduite autonome) |
+| <strong>C (coûts)</strong> | Hausse du taux d'utilisation des équipements + levier sur les effectifs d'analyse tirent l'OPM vers le haut |
 
 ### 3.5 Mises en garde honnêtes
 
@@ -247,7 +247,7 @@ La thèse « plus les semi-conducteurs deviennent complexes, plus la validation 
 
 ### 4.1 Activité
 
-BCnC fabrique des pièces consommables (quartz, silicium, céramique) pour les procédés de gravure et de dépôt dans les semi-conducteurs. La thèse centrale est la **localisation du quartz synthétique (QD9 / QD9+) et du silicium (SD9+)**.
+BCnC fabrique des pièces consommables (quartz, silicium, céramique) pour les procédés de gravure et de dépôt dans les semi-conducteurs. La thèse centrale est la <strong>localisation du quartz synthétique (QD9 / QD9+) et du silicium (SD9+)</strong>.
 
 ```
 Procédé de gravure semi
@@ -318,7 +318,7 @@ Hana Securities a relevé son objectif de cours à ₩25 000 en avril 2026, avec
 | Élément | Valeur |
 | --- | ---: |
 | Cours du 6 mai | ₩15 810 |
-| YTD | **+118,1 %** |
+| YTD | <strong>+118,1 %</strong> |
 | Perf. 20 jours | +41,9 % |
 | Perf. 60 jours | +100,6 % |
 | RSI(14) | 60,2 |
@@ -327,7 +327,7 @@ Hana Securities a relevé son objectif de cours à ₩25 000 en avril 2026, avec
 | OPM 2026P | 7,5 % |
 | P/E 2026P | 23,7× |
 | Croissance RO | +358 % |
-| Étrangers 20 j | **-₩6,5 md (vente nette)** |
+| Étrangers 20 j | <strong>-₩6,5 md (vente nette)</strong> |
 
 ### 5.3 Le problème : déjà +118 % YTD avec des ventes nettes étrangères
 
@@ -362,10 +362,10 @@ La marge de progression jusqu'à l'objectif de Hana est importante. Mais ce nom 
 | RO 2026P | ₩10,8 md | ₩10,9 md | ₩8,7 md |
 | P/E 2026P | 33,3× | 42,0× | 23,7× |
 | ROE | (non confirmé) | 6,4 % | (non confirmé) |
-| Étrangers 20 j | +₩210 m | +₩3,97 md | **-₩6,5 md** |
+| Étrangers 20 j | +₩210 m | +₩3,97 md | <strong>-₩6,5 md</strong> |
 | Force principale | Expansion IA / RF / spatial, activité de goulot | Localisation matériaux, expansion clients | 5G-SA, option crypto quantique |
 | Faiblesse principale | Charge du P/E 33× | P/E 42× + ROE faible | Déjà +118 %, flux faibles |
-| Priorité | **#1** | **#2** | **#3** |
+| Priorité | <strong>#1</strong> | <strong>#2</strong> | <strong>#3</strong> |
 
 QRT est classé #1 en raison de la thèse structurelle multi-vecteurs. IA, HBM, CXL, RF, spatial — chaque vecteur accroît la demande de validation. La thèse ne mise pas sur une seule direction ; elle mise sur plusieurs simultanément.
 
@@ -456,7 +456,7 @@ Le fait que 67 valeurs aient satisfait les critères « explosion des bénéfice
 
 Le crible « explosion des bénéfices » a retourné 67 valeurs. La plupart ont déjà bougé. FnGuide illustre le régime « post-découverte » de façon la plus saisissante — P/E 10× → 38×, +279 %. Acheter FnGuide aujourd'hui sous l'angle « explosion des bénéfices » revient à acheter près du sommet.
 
-L'alpha réside dans **« la vitesse de découverte par le marché vs l'écart encore présent »**, non dans les résultats bruts du crible. Parmi les trois valeurs peu avancées — QRT (+42 %, goulot d'étranglement de la validation semi), BCnC (+33 %, localisation des matériaux), Wirenet (+118 %, déjà découvert) — la réponse à « pourquoi peu avancé ? » diffère.
+L'alpha réside dans <strong>« la vitesse de découverte par le marché vs l'écart encore présent »</strong>, non dans les résultats bruts du crible. Parmi les trois valeurs peu avancées — QRT (+42 %, goulot d'étranglement de la validation semi), BCnC (+33 %, localisation des matériaux), Wirenet (+118 %, déjà découvert) — la réponse à « pourquoi peu avancé ? » diffère.
 
 QRT est peu avancé parce que la « validation semi-conducteurs » n'a pas encore été revendiquée comme thème de marché. Sa thèse structurelle (« plus les semi-conducteurs deviennent complexes, plus la validation est le goulot d'étranglement ») s'active sur l'IA, le HBM, le CXL, le RF et le spatial. Le récit de localisation des matériaux de BCnC est connu mais P/E 42× × ROE 6,4 % signifie que le cours a devancé les bénéfices. Wirenet à +118 % YTD avec des étrangers à -₩6,5 md sur 20 jours est un momentum en phase tardive — fort mais au-delà du stade de découverte.
 
@@ -466,31 +466,31 @@ Les trois ont progressé de +40–50 % lors des 20 dernières séances. Ce n'est
 
 ## FAQ — Crible coréen d'explosion des bénéfices, mai 2026
 
-**Q : Combien d'actions coréennes passent un crible « explosion des bénéfices » pour 2026 ?**
+<strong>Q : Combien d'actions coréennes passent un crible « explosion des bénéfices » pour 2026 ?</strong>
 R : Au 7 mai 2026 : 67 valeurs ont satisfait les critères `(2025 OP > 0) ∧ (2025 NI > 0) ∧ (2026F OP > 0) ∧ (2026F NI > 0) ∧ (2026F OP growth ≥ +80 %) ∧ (2026F NI growth ≥ +80 %)`. Plus de la moitié de ces 67 valeurs affichent une performance supérieure à +50 % depuis le 1er janvier.
 
-**Q : Qu'est-ce que FnGuide et pourquoi constitue-t-il un cas de référence pertinent ?**
+<strong>Q : Qu'est-ce que FnGuide et pourquoi constitue-t-il un cas de référence pertinent ?</strong>
 R : FnGuide est une entreprise coréenne d'infrastructure de données financières et d'indices. Du début d'année au 6 mai 2026, son P/E est passé de 10× à 38× et sa performance totale a atteint +279 %. Il illustre la façon dont la combinaison « explosion des bénéfices + faible multiple + bonne entreprise » se déroule sous l'effet de la découverte par le marché — et pourquoi cribler de tels noms après l'événement de réévaluation est structurellement tardif.
 
-**Q : QRT (405100) est-il coté en bourse ?**
+<strong>Q : QRT (405100) est-il coté en bourse ?</strong>
 R : Oui — QRT est coté sur le KOSDAQ sous le ticker 405100. Son activité principale est la validation fiabilité des semi-conducteurs (services de test et d'analyse pour les fabricants de puces et les concepteurs fabless).
 
-**Q : Pourquoi QRT est-il jugé structurellement intéressant ?**
+<strong>Q : Pourquoi QRT est-il jugé structurellement intéressant ?</strong>
 R : La thèse « plus les semi-conducteurs deviennent complexes, plus la validation est le goulot d'étranglement » s'applique aux puces IA, HBM, CXL, RF et destinées au spatial. La demande de validation croît avec la complexité des puces, et la capacité de validation est difficile à accroître à court terme. QRT est un bénéficiaire multi-vecteurs plutôt que dépendant d'un seul cycle de produit.
 
-**Q : BCnC (146320) est-il coté en bourse ?**
+<strong>Q : BCnC (146320) est-il coté en bourse ?</strong>
 R : Oui — BCnC est coté sur le KOSDAQ sous le ticker 146320. Il fabrique des pièces consommables (quartz synthétique QD9 / QD9+, silicium SD9+, céramique CD9) pour les procédés de gravure et de dépôt dans les semi-conducteurs, avec une thèse d'amélioration des marges par la localisation.
 
-**Q : Wirenet (115440) est-il coté en bourse ?**
+<strong>Q : Wirenet (115440) est-il coté en bourse ?</strong>
 R : Oui — Wirenet est coté sur le KOSDAQ sous le ticker 115440. C'est une entreprise coréenne d'équipements de transmission télécoms exposée à la transition 5G-SA, à la demande PTN, au cycle de remplacement des réseaux de transmission et à l'optionnalité de la cryptographie quantique.
 
-**Q : Quelle petite capitalisation coréenne offre l'alpha « explosion des bénéfices » le plus propre actuellement ?**
+<strong>Q : Quelle petite capitalisation coréenne offre l'alpha « explosion des bénéfices » le plus propre actuellement ?</strong>
 R : Parmi les trois valeurs étudiées ici, QRT se classe en premier sur la qualité de la thèse structurelle (multi-vecteurs, caractère de goulot d'étranglement, capacité contrainte). BCnC se classe en deuxième sur le récit de localisation, mais avec un P/E de 42× et un ROE de 6,4 %, le multiple a devancé les bénéfices. Wirenet se classe en troisième — momentum fort mais déjà +118 % YTD avec des ventes nettes étrangères, plus proche du territoire trade événementiel que de l'ajout de position centrale.
 
-**Q : La sortie des 67 valeurs du crible est-elle une liste d'achat ?**
+<strong>Q : La sortie des 67 valeurs du crible est-elle une liste d'achat ?</strong>
 R : Non. Le crible est un filtre de départ, non une liste d'achat. Plus de la moitié des 67 valeurs ont déjà progressé de >+50 % YTD. Le vrai travail analytique consiste à distinguer « encore sous-découvert » de « décoté pour une raison valable » au sein du vivier.
 
-**Q : Quelle est la leçon la plus importante tirée du cas de référence FnGuide ?**
+<strong>Q : Quelle est la leçon la plus importante tirée du cas de référence FnGuide ?</strong>
 R : La réévaluation d'un faible multiple vers un multiple élevé comprime l'espace de rendement futur. Un P/E passant de 10× à 38× en cinq mois signifie que le cours actuel exige que l'estimation de bénéfices la plus agressive se matérialise juste pour être « juste ». Cribler de tels noms après l'événement de réévaluation est structurellement tardif.
 
 ---

@@ -21,7 +21,7 @@ draft: false
 | Brent | $108.1 | +6.7% | Rising |
 | DXY | 98.5 | +0.7% | Firm |
 
-**Regime verdict:** Korea — **Neutral** | US — **Bull**. The KOSPI has outperformed the KOSDAQ by 6.6 percentage points over five sessions, driven by large-cap defense. A strengthening won (USD/KRW +3.1% to 1,490) and elevated oil add macro friction. The regime divergence between a US Bull and a KR Neutral points toward selective, quality-focused exposure rather than broad-based risk-on.
+<strong>Regime verdict:</strong> Korea — <strong>Neutral</strong> | US — <strong>Bull</strong>. The KOSPI has outperformed the KOSDAQ by 6.6 percentage points over five sessions, driven by large-cap defense. A strengthening won (USD/KRW +3.1% to 1,490) and elevated oil add macro friction. The regime divergence between a US Bull and a KR Neutral points toward selective, quality-focused exposure rather than broad-based risk-on.
 
 ---
 
@@ -29,15 +29,15 @@ draft: false
 
 Korea's session carried a Bull-leaning neutral character with selective risk-on pockets rather than a uniform broad advance. The large-cap index held better than it appeared on the surface — but under that, flows were sharply divergent by sector.
 
-**The leading theme was AI infrastructure hardware.** Fiber-optic cable and power-transmission names dominated the tape, with the cable segment seeing breakout moves backed by strong institutional buying. 대한전선 (Korea Electric Wire) drew over ₩167.7bn in net foreign buying alongside ₩353bn institutional — a rare dual confirmation. 가온전선 (Gaon Cable) surged nearly 30%, though an RSI above 95 and a 231% gap from its 200-day MA placed it firmly in the blow-off zone.
+<strong>The leading theme was AI infrastructure hardware.</strong> Fiber-optic cable and power-transmission names dominated the tape, with the cable segment seeing breakout moves backed by strong institutional buying. 대한전선 (Korea Electric Wire) drew over ₩167.7bn in net foreign buying alongside ₩353bn institutional — a rare dual confirmation. 가온전선 (Gaon Cable) surged nearly 30%, though an RSI above 95 and a 231% gap from its 200-day MA placed it firmly in the blow-off zone.
 
-**Semiconductor flows were split.** Earnings thesis for the sector remained intact — broker target upgrades and AI infrastructure narratives continued to circulate — but near-term foreign selling in Samsung Electronics (005930.KS) ran at roughly ₩2.55 trillion for the session, with program selling near ₩1.66 trillion. A price decline of just −1.1% was technically resilient given that magnitude of supply, but the immediate read is that the AI semiconductor rally is digesting rather than accelerating.
+<strong>Semiconductor flows were split.</strong> Earnings thesis for the sector remained intact — broker target upgrades and AI infrastructure narratives continued to circulate — but near-term foreign selling in Samsung Electronics (005930.KS) ran at roughly ₩2.55 trillion for the session, with program selling near ₩1.66 trillion. A price decline of just −1.1% was technically resilient given that magnitude of supply, but the immediate read is that the AI semiconductor rally is digesting rather than accelerating.
 
-**The PCB / electronics hardware cluster was the quality pocket.** Daedeok Electronics (353200.KS) printed a clean day: +2.07%, with net foreign, institutional, and program buying all aligned. Samsung Electro-Mechanics (009150.KS) held its five-day gain of +10.5% with institutional defense offsetting persistent foreign and short-seller pressure (short interest ~13.3%).
+<strong>The PCB / electronics hardware cluster was the quality pocket.</strong> Daedeok Electronics (353200.KS) printed a clean day: +2.07%, with net foreign, institutional, and program buying all aligned. Samsung Electro-Mechanics (009150.KS) held its five-day gain of +10.5% with institutional defense offsetting persistent foreign and short-seller pressure (short interest ~13.3%).
 
-**Gaming and select defense names lagged.** Some game names faced foreign and institutional selling simultaneously, compounding a weak relative-strength reading. Without a fresh earnings catalyst or short-cover trigger, the technical picture in those sub-sectors remained cautious.
+<strong>Gaming and select defense names lagged.</strong> Some game names faced foreign and institutional selling simultaneously, compounding a weak relative-strength reading. Without a fresh earnings catalyst or short-cover trigger, the technical picture in those sub-sectors remained cautious.
 
-**Summary:** Large-cap Korea held on AI-infra hardware and quality chip-adjacent names; KOSDAQ lagged as momentum in consumer-facing tech softened. Institutional money continued rotating toward infrastructure and earnings-inflection names.
+<strong>Summary:</strong> Large-cap Korea held on AI-infra hardware and quality chip-adjacent names; KOSDAQ lagged as momentum in consumer-facing tech softened. Institutional money continued rotating toward infrastructure and earnings-inflection names.
 
 ---
 
@@ -62,13 +62,13 @@ Six names cleared three screeners simultaneously in today's run. Meta screener o
 
 ### Top 3 Context
 
-**기가비스 (420770.KQ) — Meta Rank 1, Score 68.9**
+<strong>기가비스 (420770.KQ) — Meta Rank 1, Score 68.9</strong>
 Gigabis makes automated optical inspection (AOI) equipment for PCBs and displays — a direct beneficiary of capacity expansion in AI-related printed circuit board manufacturing. It clears the Quality Compounder screen on the back of a 777% YoY operating income surge and revenue nearly doubling (+101%), with low debt (13.4% ratio) and the stock near its 52-week high. Smart Money screens confirm ₩15.6bn of net foreign plus quality-institutional buying over five days. One caution: the consensus revision screen flags a *downward* revision, which means the headline earnings beat is real but forward estimates are being trimmed — worth checking whether the Q1 result beat represents a pull-forward or a sustainable step change. DART shows a sales-contract filing (April 24) as the catalyst anchor.
 
-**테스 (095610.KQ) — Meta Rank 2, Score 62.3**
+<strong>테스 (095610.KQ) — Meta Rank 2, Score 62.3</strong>
 TES manufactures CVD/ALD semiconductor deposition equipment, serving both memory and logic fabs. ROE of 14.5% and operating income growth of +50% YoY pass the Quality Compounder hurdle cleanly. What makes it stand out is the ₩51.5bn five-day smart-money flow — the largest among the top six — combined with strong RS at the 95.6th percentile. Caution: foreign holdings are just 12.9% and foreign net flow has been negative recently, with short interest at 8.7% and program selling at −9.2%. The quality-institutional flow is real but broad foreign conviction hasn't confirmed yet. A quarterly report filed today (2026-05-13) is the immediate catalyst to check.
 
-**제주반도체 (080220.KQ) — Meta Rank 3, Score 62.1**
+<strong>제주반도체 (080220.KQ) — Meta Rank 3, Score 62.1</strong>
 Jeju Semiconductor designs low-power DRAM and specialty memory chips. ROE of 17.4% and operating income growth of +274% YoY deliver both quality and cycle-rerating characteristics. The stock ranks #2 on both the Smart Money Quality and Smart Money Earnings screens, with co-buying (institutional + foreign simultaneously) confirmed. Two DART risk filings in the lookback window warrant review before treating this as a high-conviction candidate — the filings relate to shareholder meeting notices rather than regulatory issues, but confirmation is recommended.
 
 ---

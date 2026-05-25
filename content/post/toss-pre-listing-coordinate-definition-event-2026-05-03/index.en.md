@@ -26,7 +26,7 @@ tags:
   - "US listing"
 ---
 
-> 📚 **Korean Financials Capital-Buyback Compounding Series — Part 7/N.**
+> 📚 <strong>Korean Financials Capital-Buyback Compounding Series — Part 7/N.</strong>
 > Previous installments:
 > - [Part 1 — Meritz Financial Holdings](/post/meritz-financial-capital-buyback-compounding-standard-2026-04-30/)
 > - [Part 2 — Kiwoom Securities](/post/kiwoom-securities-roe20-recognition-completed-2026-04-30/)
@@ -35,17 +35,17 @@ tags:
 > - [Part 5 — Korea Investment Holdings: Fifth Coordinate](/post/korea-investment-holdings-fifth-coordinate-2026-05-03/)
 > - [Part 6 — KakaoBank: Mirror of Korea Investment](/post/kakaobank-mirror-of-korea-investment-2026-05-03/)
 
-*[Part 5](/post/korea-investment-holdings-fifth-coordinate-2026-05-03/) was the conservative endpoint of "new coordinate definition" — company defining, market discounting. [Part 6](/post/kakaobank-mirror-of-korea-investment-2026-05-03/) was the aggressive endpoint — market pricing, company catching up. Part 7's Viva Republica (the parent of Toss) goes one step further — a **pre-listing case where the coordinate itself hasn't been accounting-closed yet**. The first time in this series where a "neutral anatomy" tone, rather than a constructive one, is the analytically honest stance. This piece refuses to declare a single "base case" — the possible price spectrum spans $5B to $15B, and treating any single point as the default would break the analysis.*
+*[Part 5](/post/korea-investment-holdings-fifth-coordinate-2026-05-03/) was the conservative endpoint of "new coordinate definition" — company defining, market discounting. [Part 6](/post/kakaobank-mirror-of-korea-investment-2026-05-03/) was the aggressive endpoint — market pricing, company catching up. Part 7's Viva Republica (the parent of Toss) goes one step further — a <strong>pre-listing case where the coordinate itself hasn't been accounting-closed yet</strong>. The first time in this series where a "neutral anatomy" tone, rather than a constructive one, is the analytically honest stance. This piece refuses to declare a single "base case" — the possible price spectrum spans $5B to $15B, and treating any single point as the default would break the analysis.*
 
 ---
 
 ## Executive Summary
 
-- **Toss is the series' first "pre-listing coordinate-definition event itself."** The two endpoints in Parts 5–6 (conservative and aggressive) were both already-listed companies. Toss has neither PBR, PER, nor implied cost of equity yet — those are determined by the act of listing.
-- **2025 consolidated results show the first meaningful profitability inflection.** Revenue ₩2,698.3B (+38.0% YoY), operating profit ₩336.0B (+270.3%), net income ₩201.8B (+846.7%). But group net income ₩201.8B < Toss Securities standalone net income ₩333.9B. **Whether the profit comes from "platform operating leverage" or from "Toss Securities' cyclical strength" is the first question the market asks.**
-- **This piece refuses to declare a "base case."** Considering the five institutional walls of US listing — public F-1 not yet filed, ADR/FPI discount, Korean financial-regulation exposure, secondary-share liquidity complexity, and the standard 30–40% IPO discount — the possible spectrum spans **$5B to $15B**. **Refusing to treat any single point as the default is the analytically honest position.**
-- **Reuters' "$10B+" headline is one point in the upper region.** It is reachable only when all five institutional walls are cleared, the US market classifies Toss as "fintech super app," and Toss Securities' 50.5% OPM is recognized as a repeatable margin. **If those seven conditions don't all operate, the price falls naturally toward the $5–7B range.**
-- **Inverting four scenarios into the series matrix reveals the spectrum.** $5B (P/E \~36×, implied cost of equity \~2.7%) → $7B (\~51×, \~2.0%) → $10B (\~73×, \~1.4%) → $15B (\~109×, \~0.9%). **Every scenario sits in more aggressive territory than any of the six other companies in the series**, but where it actually lands depends not only on company fundamentals but on **which market and which classification price it**.
+- <strong>Toss is the series' first "pre-listing coordinate-definition event itself."</strong> The two endpoints in Parts 5–6 (conservative and aggressive) were both already-listed companies. Toss has neither PBR, PER, nor implied cost of equity yet — those are determined by the act of listing.
+- <strong>2025 consolidated results show the first meaningful profitability inflection.</strong> Revenue ₩2,698.3B (+38.0% YoY), operating profit ₩336.0B (+270.3%), net income ₩201.8B (+846.7%). But group net income ₩201.8B < Toss Securities standalone net income ₩333.9B. <strong>Whether the profit comes from "platform operating leverage" or from "Toss Securities' cyclical strength" is the first question the market asks.</strong>
+- <strong>This piece refuses to declare a "base case."</strong> Considering the five institutional walls of US listing — public F-1 not yet filed, ADR/FPI discount, Korean financial-regulation exposure, secondary-share liquidity complexity, and the standard 30–40% IPO discount — the possible spectrum spans <strong>$5B to $15B</strong>. <strong>Refusing to treat any single point as the default is the analytically honest position.</strong>
+- <strong>Reuters' "$10B+" headline is one point in the upper region.</strong> It is reachable only when all five institutional walls are cleared, the US market classifies Toss as "fintech super app," and Toss Securities' 50.5% OPM is recognized as a repeatable margin. <strong>If those seven conditions don't all operate, the price falls naturally toward the $5–7B range.</strong>
+- <strong>Inverting four scenarios into the series matrix reveals the spectrum.</strong> $5B (P/E \~36×, implied cost of equity \~2.7%) → $7B (\~51×, \~2.0%) → $10B (\~73×, \~1.4%) → $15B (\~109×, \~0.9%). <strong>Every scenario sits in more aggressive territory than any of the six other companies in the series</strong>, but where it actually lands depends not only on company fundamentals but on <strong>which market and which classification price it</strong>.
 
 ---
 
@@ -61,9 +61,9 @@ A summary of how the series' analytical dimensions have evolved:
 | Part 4 | Shinhan Financial | Transit between peaks | In progress | Constructive |
 | Part 5 | Korea Investment Holdings | New coordinate definition (conservative endpoint) | Company pulls market | Constructive |
 | Part 6 | KakaoBank | New coordinate definition (aggressive endpoint) | Market pulls company | Constructive |
-| **Part 7 (this post)** | **Viva Republica (Toss)** | **Coordinate-definition event itself** | **Determined by listing** | **Neutral** |
+| <strong>Part 7 (this post)</strong> | <strong>Viva Republica (Toss)</strong> | <strong>Coordinate-definition event itself</strong> | <strong>Determined by listing</strong> | <strong>Neutral</strong> |
 
-Single-line read: **the series has tracked "coordinate changes of already-listed companies" so far; Part 7 introduces the first case where listing itself decides the coordinate.** This is also the first time the series uses a "neutral" rather than constructive tone — when price isn't determined yet, declaring a one-sided stance breaks analytical consistency, and assuming a single "base case" is itself a violation.
+Single-line read: <strong>the series has tracked "coordinate changes of already-listed companies" so far; Part 7 introduces the first case where listing itself decides the coordinate.</strong> This is also the first time the series uses a "neutral" rather than constructive tone — when price isn't determined yet, declaring a one-sided stance breaks analytical consistency, and assuming a single "base case" is itself a violation.
 
 ### 1.2 Toss in One Table
 
@@ -74,25 +74,25 @@ Single-line read: **the series has tracked "coordinate changes of already-listed
 | 2025 consolidated operating profit | ₩336.0B (+270.3% YoY) |
 | 2025 consolidated net income | ₩201.8B (+846.7% YoY) |
 | Users | 30M+ (2025-end) |
-| **Consolidated revenue mix** | |
+| <strong>Consolidated revenue mix</strong> | |
 | └ Consumer services | ₩1,775.5B (65.8%) |
 | └ Merchant services (PG / payments) | ₩922.8B (34.2%) |
-| **Subsidiary stakes** | |
+| <strong>Subsidiary stakes</strong> | |
 | └ Toss Securities | 97.4% |
 | └ Toss Bank | 28.3% |
-| **2025 Toss Securities (standalone)** | |
+| <strong>2025 Toss Securities (standalone)</strong> | |
 | └ Revenue / OPM | ₩882.6B / 50.5% |
 | └ Operating profit / Net income | ₩445.8B / ₩333.9B |
 | └ Attributable to Viva Republica | \~₩325.2B |
-| **2025 Toss Bank (standalone)** | |
+| <strong>2025 Toss Bank (standalone)</strong> | |
 | └ Net income (per disclosure) | ₩96.8B |
 | └ Attributable to Viva Republica | \~₩27.4B |
-| **Viva Republica standalone** | |
+| <strong>Viva Republica standalone</strong> | |
 | └ Revenue | ₩667.2B |
 | └ Advertising revenue | ₩278.8B (+24.7% YoY) |
 | └ Brokerage revenue | ₩197.8B (+4.7% YoY) |
 | └ Operating P&L | -₩43.8B (loss) |
-| **FX (USD/KRW)** | ₩1,471 |
+| <strong>FX (USD/KRW)</strong> | ₩1,471 |
 
 Verifications:
 - Revenue YoY = 2,698.3 / 1,955.6 − 1 = 37.97% ≈ 38.0% ✓
@@ -102,7 +102,7 @@ Verifications:
 - Toss Bank attributable = 96.8 × 0.283 = ₩27.4B ✓
 - Advertising YoY = 278.8 / 223.5 − 1 = 24.74% ≈ 24.7% ✓
 
-Two facts the table reveals: **top-line fundamentals are clearly strong**, but **group net income (₩201.8B) < Toss Securities standalone net income (₩333.9B)**. That asymmetry is the central variable in the IPO price negotiation.
+Two facts the table reveals: <strong>top-line fundamentals are clearly strong</strong>, but <strong>group net income (₩201.8B) < Toss Securities standalone net income (₩333.9B)</strong>. That asymmetry is the central variable in the IPO price negotiation.
 
 ---
 
@@ -110,11 +110,11 @@ Two facts the table reveals: **top-line fundamentals are clearly strong**, but *
 
 ### 2.1 Decomposing Group Earnings
 
-The series' core analytical question for any company is simple: **where do earnings come from, and are they repeatable?** For Toss, this question can be answered two ways.
+The series' core analytical question for any company is simple: <strong>where do earnings come from, and are they repeatable?</strong> For Toss, this question can be answered two ways.
 
-**Constructive read**: subsidiary earnings sum supports group net income, and Viva Republica standalone (the app body) is in temporary loss due to new-business investment but advertising +24.7% YoY shows growth. Toss Securities' strong margin is a consequence of its structurally #1 position in retail overseas-equity trading.
+<strong>Constructive read</strong>: subsidiary earnings sum supports group net income, and Viva Republica standalone (the app body) is in temporary loss due to new-business investment but advertising +24.7% YoY shows growth. Toss Securities' strong margin is a consequence of its structurally #1 position in retail overseas-equity trading.
 
-**Conservative read**: the absolute majority of group net income ₩201.8B comes from Toss Securities. If the cycle normalizes or a bear market arrives, group earnings could fall fast. Viva Republica standalone being in loss means **"the app body itself is not yet a self-sufficient profit engine."**
+<strong>Conservative read</strong>: the absolute majority of group net income ₩201.8B comes from Toss Securities. If the cycle normalizes or a bear market arrives, group earnings could fall fast. Viva Republica standalone being in loss means <strong>"the app body itself is not yet a self-sufficient profit engine."</strong>
 
 ```
 [Group net income decomposition]
@@ -141,16 +141,16 @@ Toss Securities' OPM 50.5% is higher than Kiwoom Securities (Part 2). How the ma
 | Item | Toss Securities 2025 | Kiwoom (Series Part 2) |
 | --- | ---: | ---: |
 | Revenue | ₩882.6B | — |
-| OPM | **50.5%** | \~25%-class |
+| OPM | <strong>50.5%</strong> | \~25%-class |
 | Core variable | #1 share in retail overseas-equity trading | Domestic retail trading volume |
 | Cycle dependence | US bull market + AI mega-caps + FX + trading volume | Domestic trading volume |
 
-Whether Toss Securities' 50.5% OPM is "repeatable margin" or "cyclical strength" can't be determined externally. **Both possibilities are reasonable**:
+Whether Toss Securities' 50.5% OPM is "repeatable margin" or "cyclical strength" can't be determined externally. <strong>Both possibilities are reasonable</strong>:
 
 - Possibility A: overseas-equity-trading market share is structurally entrenched, and FX / cash-management / interchange income are stable earnings streams. In this case, \~50% OPM holds at some level.
 - Possibility B: 2025's US bull market + AI fervor + favorable FX spread all worked simultaneously. As trading volume normalizes and FX stabilizes, OPM regresses toward 30–35%.
 
-When the S-1/F-1 discloses revenue decomposition (commission / FX / cash / margin / other) and quarterly OPM trajectory, this question closes accountingly. Until then, **both possibilities must be reflected in the price scenarios**.
+When the S-1/F-1 discloses revenue decomposition (commission / FX / cash / margin / other) and quarterly OPM trajectory, this question closes accountingly. Until then, <strong>both possibilities must be reflected in the price scenarios</strong>.
 
 ### 2.3 Toss Bank — Its Weight in the Toss IPO
 
@@ -159,9 +159,9 @@ When the S-1/F-1 discloses revenue decomposition (commission / FX / cash / margi
 | Net income | ₩96.8B | ₩480.3B |
 | Loans / Deposits | ₩15.35T / ₩30.07T | ₩46.9T / ₩68.3T |
 | BIS capital adequacy | 16.24% | — |
-| Viva Republica stake | **28.3%** | (n/a) |
+| Viva Republica stake | <strong>28.3%</strong> | (n/a) |
 
-Toss Bank is roughly 1/4 to 1/3 the size of KakaoBank, and Viva Republica's stake is a minority 28.3%. Combined, this means: **Toss Bank does not occupy a large share of Toss's SOTP**. Even multiplying KakaoBank's market cap by 1/3 and 28.3% gives only ₩0.5–1.0T.
+Toss Bank is roughly 1/4 to 1/3 the size of KakaoBank, and Viva Republica's stake is a minority 28.3%. Combined, this means: <strong>Toss Bank does not occupy a large share of Toss's SOTP</strong>. Even multiplying KakaoBank's market cap by 1/3 and 28.3% gives only ₩0.5–1.0T.
 
 But Toss Bank carries the option of a separate IPO. Toss Bank has 19 major shareholders besides Viva Republica, and their exit isn't solved by Viva Republica's listing alone. If a separate Toss Bank IPO is pursued, an additional SOTP discount applies to Viva Republica IPO investors.
 
@@ -170,23 +170,23 @@ But Toss Bank carries the option of a separate IPO. Toss Bank has 19 major share
 | Item | 2025 | 2024 | YoY |
 | --- | ---: | ---: | ---: |
 | Standalone revenue | ₩667.2B | — | — |
-| Advertising | ₩278.8B | ₩223.5B | **+24.7%** |
-| Brokerage | ₩197.8B | ₩188.9B | **+4.7%** |
+| Advertising | ₩278.8B | ₩223.5B | <strong>+24.7%</strong> |
+| Brokerage | ₩197.8B | ₩188.9B | <strong>+4.7%</strong> |
 | Payment | ₩136.1B | — | — |
-| Standalone operating P&L | **-₩43.8B (loss)** | — | — |
+| Standalone operating P&L | <strong>-₩43.8B (loss)</strong> | — | — |
 
 Per company commentary, 2H 2025 saw expanded headcount, promotion, and fee outflow related to FacePay, commerce, and ad-product upgrades, producing the annual operating loss. Two interpretations are possible:
 
 - Constructive: temporary loss in an "investment phase." Advertising +24.7% growth is clear progress, and once the new businesses reach BEP, the body turns profitable.
 - Conservative: only advertising is accelerating (+24.7%); brokerage is decelerating (+4.7%). Whether the platform body has reached "Coupang-style structural operating leverage" is unverified, and continued investment may extend the loss period.
 
-Both interpretations are accountingly valid. **At present, the external investor cannot conclude which one applies**, and S-1/F-1 disclosure of contribution margin / cohort retention / CAC is decisive in closing this question.
+Both interpretations are accountingly valid. <strong>At present, the external investor cannot conclude which one applies</strong>, and S-1/F-1 disclosure of contribution margin / cohort retention / CAC is decisive in closing this question.
 
 ---
 
 ## 3. Five Institutional Walls of US Listing — Why the Spectrum Is Wide
 
-This section is the most important analytical contribution of the post. The reason the Toss IPO price spectrum spans "$5B–$15B" is straightforward: **US listing carries five distinct institutional walls, and whether each is cleared determines the price stepwise**.
+This section is the most important analytical contribution of the post. The reason the Toss IPO price spectrum spans "$5B–$15B" is straightforward: <strong>US listing carries five distinct institutional walls, and whether each is cleared determines the price stepwise</strong>.
 
 ### 3.1 Wall 1 — Public F-1 Not Yet Confirmed
 
@@ -195,7 +195,7 @@ As of May 3, 2026, no publicly available F-1 or ADR-related public registration 
 - If public F-1 lands in May–June → Q2–Q3 2026 listing schedule possible.
 - If public F-1 slips past June → Q2 IPO becomes difficult; second-half or 2027 timing rises.
 
-**If this wall doesn't close, the IPO itself delays**. Market environment shifts can pull the entire price spectrum lower.
+<strong>If this wall doesn't close, the IPO itself delays</strong>. Market environment shifts can pull the entire price spectrum lower.
 
 ### 3.2 Wall 2 — ADR/FPI Structural Discount
 
@@ -206,7 +206,7 @@ Viva Republica likely lists as an ADR while maintaining its Korean entity. ADR s
 - Use of foreign accounting standards (K-IFRS), which adds analytical work for US investors
 - Partial exemption from certain US governance standards, producing discount
 
-This wall typically applies a **10–20% valuation discount**. Toss's position is different from Coupang's (US entity-centric structure).
+This wall typically applies a <strong>10–20% valuation discount</strong>. Toss's position is different from Coupang's (US entity-centric structure).
 
 ### 3.3 Wall 3 — Korean Financial-Regulation Exposure
 
@@ -217,7 +217,7 @@ Toss operates financial businesses. To US investors, Korean financial-regulation
 - BIS capital adequacy, K-ICS, and credit-risk frameworks applied per Korean financial regulation
 - Personal-data protection, network law, and other Korean IT/financial regulations
 
-This wall typically applies a **5–15% valuation discount**. The pre-existing global investor discount on Korean financials carries through to ADR structure.
+This wall typically applies a <strong>5–15% valuation discount</strong>. The pre-existing global investor discount on Korean financials carries through to ADR structure.
 
 ### 3.4 Wall 4 — Secondary-Share Liquidity Complexity
 
@@ -228,16 +228,16 @@ Viva Republica has many shareholders (Ant Group, VCs, institutions, employee SBC
 - Some individual investors may not be able to exit immediately post-IPO
 - Toss Bank shareholders (19 entities) and Viva Republica shareholders have separate exit paths
 
-This wall typically applies a **5–10% valuation discount**. Existing-shareholder exit pressure carries directly into price negotiation.
+This wall typically applies a <strong>5–10% valuation discount</strong>. Existing-shareholder exit pressure carries directly into price negotiation.
 
 ### 3.5 Wall 5 — Standard IPO Discount of 30–40%
 
-Across global IPOs, IPO pricing typically clears at a **30–40% discount to estimated market value**. This is standard "IPO discount" or "underpricing" practice.
+Across global IPOs, IPO pricing typically clears at a <strong>30–40% discount to estimated market value</strong>. This is standard "IPO discount" or "underpricing" practice.
 
 - If SOTP fair value is \~₩11–13T → IPO offer price clears 30–40% lower → \~₩7–9T ($4.8–6.1B)
 - This isn't because "the company is overpriced" — it stabilizes institutional book-building and ensures post-listing demand
 
-This wall is the **structural discount applied to all IPOs**.
+This wall is the <strong>structural discount applied to all IPOs</strong>.
 
 ### 3.6 When Five Walls Combine
 
@@ -253,22 +253,22 @@ SOTP fair-value midpoint (per source-2 base case): \~$7–10B
 
 These discounts aren't all cumulatively applied — some are already embedded in SOTP valuation, and IPO discount applies to offer price only (post-listing price may differ).
 
-**Core message**: even if only some of the five walls operate at "partial" levels, the price naturally narrows toward $5–7B. **$5B isn't a "bearish assumption" — it's the natural output when the five walls all operate at partial levels.** Conversely, reaching $10B+ requires clearing all five walls at meaningful levels and convincing the US market of the super-app narrative.
+<strong>Core message</strong>: even if only some of the five walls operate at "partial" levels, the price naturally narrows toward $5–7B. <strong>$5B isn't a "bearish assumption" — it's the natural output when the five walls all operate at partial levels.</strong> Conversely, reaching $10B+ requires clearing all five walls at meaningful levels and convincing the US market of the super-app narrative.
 
 ---
 
 ## 4. Four Points of IPO Valuation — A Spectrum Spread Evenly
 
-The analytical principle of this post is: **don't declare a "base case."** Spread four price points evenly to see the spectrum.
+The analytical principle of this post is: <strong>don't declare a "base case."</strong> Spread four price points evenly to see the spectrum.
 
 ### 4.1 The Four Points
 
 | Price | USD | KRW | Reaching condition |
 | --- | ---: | ---: | --- |
-| **$5B** | $5B | ₩7.36T | Natural output of five institutional walls + IPO discount |
-| **$7B** | $7B | ₩10.30T | SOTP fair-value range + partial standard IPO discount |
-| **$10B** | $10B | ₩14.71T | Reuters' "$10B+" headline — super-app classification + all seven conditions cleared |
-| **$15B** | $15B | ₩22.07T | Upper-bound reporting range — global option / FacePay / commerce all strongly priced in |
+| <strong>$5B</strong> | $5B | ₩7.36T | Natural output of five institutional walls + IPO discount |
+| <strong>$7B</strong> | $7B | ₩10.30T | SOTP fair-value range + partial standard IPO discount |
+| <strong>$10B</strong> | $10B | ₩14.71T | Reuters' "$10B+" headline — super-app classification + all seven conditions cleared |
+| <strong>$15B</strong> | $15B | ₩22.07T | Upper-bound reporting range — global option / FacePay / commerce all strongly priced in |
 
 ### 4.2 Headline P/E Inversion
 
@@ -318,7 +318,7 @@ Implication of this math:
 | $10B | 7.63% | \~3.1× |
 | $15B | 8.09% | \~3.2× |
 
-**All four prices imply perpetual growth at 2.5–3.2× Korea's GDP growth.** Even at $5B, the market assumes "Toss compounds earnings forever at 2.5× the speed of the Korean economy." Compared with the rest of the series, all four prices sit in "aggressive territory."
+<strong>All four prices imply perpetual growth at 2.5–3.2× Korea's GDP growth.</strong> Even at $5B, the market assumes "Toss compounds earnings forever at 2.5× the speed of the Korean economy." Compared with the rest of the series, all four prices sit in "aggressive territory."
 
 ### 4.5 Series Implied Cost-of-Equity Matrix — Including Toss's Four Points
 
@@ -335,10 +335,10 @@ $15B   $10B   $7B    $5B    (live) (peak)  (peak) (peak) (transit) (new coord
 
 What this spectrum reveals:
 
-1. **Even $5B (2.7%) is more aggressive than KakaoBank (4.2%)**. Even at Toss's most conservative possible price, it pushes the series' aggressive endpoint further out.
-2. **$10B (1.4%) is roughly 1/3 of KakaoBank's level**. The accounting territory the Reuters headline implies.
-3. **$15B (0.9%) would be the most aggressive endpoint of the entire series**. A state where option values are also fully priced in.
-4. **Every Toss price implies a lower cost of equity than any of the six other series companies**. That's the essence of "pre-listing coordinate definition" — Toss must be classified into "a different category from the existing series companies" for any of these prices to maintain consistency.
+1. <strong>Even $5B (2.7%) is more aggressive than KakaoBank (4.2%)</strong>. Even at Toss's most conservative possible price, it pushes the series' aggressive endpoint further out.
+2. <strong>$10B (1.4%) is roughly 1/3 of KakaoBank's level</strong>. The accounting territory the Reuters headline implies.
+3. <strong>$15B (0.9%) would be the most aggressive endpoint of the entire series</strong>. A state where option values are also fully priced in.
+4. <strong>Every Toss price implies a lower cost of equity than any of the six other series companies</strong>. That's the essence of "pre-listing coordinate definition" — Toss must be classified into "a different category from the existing series companies" for any of these prices to maintain consistency.
 
 ---
 
@@ -346,16 +346,16 @@ What this spectrum reveals:
 
 ### 5.1 US Market vs Korea Market — Different Classifications
 
-The most interesting feature of Toss is that **depending on where it lists, the same company could land at either endpoint of the series matrix**. This is the new analytical dimension Part 7 introduces.
+The most interesting feature of Toss is that <strong>depending on where it lists, the same company could land at either endpoint of the series matrix</strong>. This is the new analytical dimension Part 7 introduces.
 
 | Market | Possible classification | Applied multiple | Implied cost-of-equity range | Series-matrix position |
 | --- | --- | --- | ---: | --- |
-| **US (NYSE / Nasdaq)** | Global fintech super app (hybrid of Robinhood + SoFi + Coupang) | P/S 5–8×, P/E 70–110× | 0.9–1.4% | Push the series aggressive endpoint further |
-| **Korea (KOSPI)** | Financial holding + securities + PG + advertising SOTP | Decompose then sum | \~12–17%-class | Near Korea Investment Holdings (17.3%) |
+| <strong>US (NYSE / Nasdaq)</strong> | Global fintech super app (hybrid of Robinhood + SoFi + Coupang) | P/S 5–8×, P/E 70–110× | 0.9–1.4% | Push the series aggressive endpoint further |
+| <strong>Korea (KOSPI)</strong> | Financial holding + securities + PG + advertising SOTP | Decompose then sum | \~12–17%-class | Near Korea Investment Holdings (17.3%) |
 
 Verification: at Korean SOTP applying \~₩11T → P/E = 11,000 / 201.8 = 5.45 → implied cost of equity \~18.4%. Korea-market SOTP-applied implied cost of equity falls near the series' conservative endpoint (KIH 17.3%).
 
-The fact that **both classifications are "reasonable"** is critical. Neither can be declared "correct" — investor pools and category recognition differ across markets.
+The fact that <strong>both classifications are "reasonable"</strong> is critical. Neither can be declared "correct" — investor pools and category recognition differ across markets.
 
 ### 5.2 Why the Classification Difference Has an Accounting Reason
 
@@ -380,7 +380,7 @@ Same company:
 → Separate valuations, summed, then discounted
 ```
 
-The accounting difference between these two classifications produces the price difference. **The fact that the same company can be ₩14.7T or ₩11T or ₩7T — that is the essence of "the coordinate-definition event itself."**
+The accounting difference between these two classifications produces the price difference. <strong>The fact that the same company can be ₩14.7T or ₩11T or ₩7T — that is the essence of "the coordinate-definition event itself."</strong>
 
 ### 5.3 The New Analytical Dimension Part 7 Adds
 
@@ -395,7 +395,7 @@ Parts 5–6: Bidirectional (conservative / aggressive endpoints)
 Part 7:    Coordinate-definition-event dimension (which market and which classification price the company)
 ```
 
-The new analytical dimension Part 7 introduces is the meta-recognition that **"market classification itself is a price-determining variable."** This applies forward to the series — Mirae Asset Securities's "PI / digital-asset platform" classification, DB Insurance's "insurance capital-operations" classification, etc. all sit on the same "classification = price" mechanism.
+The new analytical dimension Part 7 introduces is the meta-recognition that <strong>"market classification itself is a price-determining variable."</strong> This applies forward to the series — Mirae Asset Securities's "PI / digital-asset platform" classification, DB Insurance's "insurance capital-operations" classification, etc. all sit on the same "classification = price" mechanism.
 
 ---
 
@@ -419,9 +419,9 @@ Decomposing the price-determination process into seven accounting variables:
 
 How each variable plays:
 
-- **Variables 1, 2, 3 determine the price region** (lower vs upper). All three favorable = $10B region; all three unfavorable = $5–6B region.
-- **Variables 4 and 5 determine the price width**. Both favorable add $1–3B.
-- **Variables 6 and 7 size the discount factor**. Both unfavorable subtract $1–3B.
+- <strong>Variables 1, 2, 3 determine the price region</strong> (lower vs upper). All three favorable = $10B region; all three unfavorable = $5–6B region.
+- <strong>Variables 4 and 5 determine the price width</strong>. Both favorable add $1–3B.
+- <strong>Variables 6 and 7 size the discount factor</strong>. Both unfavorable subtract $1–3B.
 
 ### 6.3 Mapping the Four Price Points to the Seven Variables
 
@@ -432,7 +432,7 @@ How each variable plays:
 | $10B | Timely | Super app | Repeatable | Both accelerating | Profit turnaround | Weak signal | Controlled |
 | $15B | Timely + favorable market | Super app + global | Repeatable + margin expansion | Double-digit on both | Clear profit | Weak signal | Controlled + options recognized |
 
-What this mapping says: **as of May 3, 2026, most of the seven variables are unconfirmed**. So instead of fixing a single base, **track how the seven variables close** — that is the series' analytical tool.
+What this mapping says: <strong>as of May 3, 2026, most of the seven variables are unconfirmed</strong>. So instead of fixing a single base, <strong>track how the seven variables close</strong> — that is the series' analytical tool.
 
 ---
 
@@ -449,7 +449,7 @@ Toss Securities OPM 50.5% is hard to evaluate externally in isolation. Determini
 - Revenue per ₩1T of trading volume (unit pricing)
 - FX-volatility margin sensitivity
 
-This data will be disclosed in S-1/F-1 or future quarterly IR. **At present, both interpretations sit in accounting-valid territory**. Refusing to declare which one is correct is the honest analytical posture.
+This data will be disclosed in S-1/F-1 or future quarterly IR. <strong>At present, both interpretations sit in accounting-valid territory</strong>. Refusing to declare which one is correct is the honest analytical posture.
 
 ### 7.2 IPO-Timing Market-Environment Variable
 
@@ -492,23 +492,23 @@ Not trade triggers. Observation points showing how the "coordinate-definition ev
 
 ### 8.3 Series-Level Meta Signals
 
-- **Where Toss's IPO price lands on the series matrix**: which of $5B (CoE 2.7%), $7B (2.0%), $10B (1.4%), $15B (0.9%) directly signals market classification.
-- **Accounting expression of US vs Korea classification difference**: if the same company prices differently in two markets, the difference is "the price of classification." A new dimension the series tracks.
-- **Other "coordinate-definition" candidates**: Mirae Asset Securities (PI / digital-asset platform), DB Insurance (insurance capital operations), etc. — possible entries into the series as "companies that don't map onto existing classifications."
+- <strong>Where Toss's IPO price lands on the series matrix</strong>: which of $5B (CoE 2.7%), $7B (2.0%), $10B (1.4%), $15B (0.9%) directly signals market classification.
+- <strong>Accounting expression of US vs Korea classification difference</strong>: if the same company prices differently in two markets, the difference is "the price of classification." A new dimension the series tracks.
+- <strong>Other "coordinate-definition" candidates</strong>: Mirae Asset Securities (PI / digital-asset platform), DB Insurance (insurance capital operations), etc. — possible entries into the series as "companies that don't map onto existing classifications."
 
 ---
 
 ## 9. The Single Closing Line
 
-This series painted "three peaks settled" in Parts 1–3, "transit between peaks" in Part 4, and the two endpoints (conservative / aggressive) of "new coordinate definition" in Parts 5–6. Part 7's Viva Republica (Toss) is the first time the series looks at **"the coordinate-definition event itself"** — a pre-listing case where price hasn't been determined yet.
+This series painted "three peaks settled" in Parts 1–3, "transit between peaks" in Part 4, and the two endpoints (conservative / aggressive) of "new coordinate definition" in Parts 5–6. Part 7's Viva Republica (Toss) is the first time the series looks at <strong>"the coordinate-definition event itself"</strong> — a pre-listing case where price hasn't been determined yet.
 
 2025 consolidated revenue ₩2.7T, operating profit ₩336.0B, net income ₩201.8B. Top-line fundamentals are clearly strong. But group net income ₩201.8B vs Toss Securities standalone net income ₩333.9B is an asymmetry that allows two interpretations of earnings quality simultaneously.
 
-The analytical principle of this piece is simple — **don't declare a "base case."** All five institutional walls of US listing (public F-1 unconfirmed, ADR/FPI discount, Korean financial-regulation exposure, secondary-share liquidity, standard 30–40% IPO discount) operating at "partial" levels is the standard IPO pattern, and combined, they narrow the price naturally toward $5–7B. **$5B isn't a "bearish assumption" — it's the natural output when all five walls operate.** Reaching $10B+ requires clearing all five walls and convincing the US market on the super-app narrative. Reuters' "$10B+" sits at one point in the upper region of the price spectrum, not the default.
+The analytical principle of this piece is simple — <strong>don't declare a "base case."</strong> All five institutional walls of US listing (public F-1 unconfirmed, ADR/FPI discount, Korean financial-regulation exposure, secondary-share liquidity, standard 30–40% IPO discount) operating at "partial" levels is the standard IPO pattern, and combined, they narrow the price naturally toward $5–7B. <strong>$5B isn't a "bearish assumption" — it's the natural output when all five walls operate.</strong> Reaching $10B+ requires clearing all five walls and convincing the US market on the super-app narrative. Reuters' "$10B+" sits at one point in the upper region of the price spectrum, not the default.
 
-Spreading four price points evenly across the series implied-cost-of-equity matrix reveals Toss's spectrum — $5B (2.7%) → $7B (2.0%) → $10B (1.4%) → $15B (0.9%). Every price sits in more aggressive territory than any of the six other series companies, but where Toss actually lands depends not only on company fundamentals but on **which market and which classification price the company**. Seven variables — public F-1 timing, US-market classification, Toss Securities OPM persistence, advertising / brokerage growth, Viva Republica standalone turnaround, Toss Bank separate-IPO signal, ADR / secondary-share complexity — determine which of the four points the price settles at.
+Spreading four price points evenly across the series implied-cost-of-equity matrix reveals Toss's spectrum — $5B (2.7%) → $7B (2.0%) → $10B (1.4%) → $15B (0.9%). Every price sits in more aggressive territory than any of the six other series companies, but where Toss actually lands depends not only on company fundamentals but on <strong>which market and which classification price the company</strong>. Seven variables — public F-1 timing, US-market classification, Toss Securities OPM persistence, advertising / brokerage growth, Viva Republica standalone turnaround, Toss Bank separate-IPO signal, ADR / secondary-share complexity — determine which of the four points the price settles at.
 
-The most striking fact is that the same company could land at either endpoint of the series matrix. If the US market classifies Toss as "fintech super app," CoE 1–2% (pushing the series aggressive endpoint further). If the Korean market classifies it as "financial holding + securities + PG SOTP," CoE 12–17% (near Korea Investment Holdings's 17.3%). **"The coordinate-definition event itself sets the price"** — which market and which investor pool classifies the company into which category determines the price — that is the analytical dimension Part 7 adds to the series.
+The most striking fact is that the same company could land at either endpoint of the series matrix. If the US market classifies Toss as "fintech super app," CoE 1–2% (pushing the series aggressive endpoint further). If the Korean market classifies it as "financial holding + securities + PG SOTP," CoE 12–17% (near Korea Investment Holdings's 17.3%). <strong>"The coordinate-definition event itself sets the price"</strong> — which market and which investor pool classifies the company into which category determines the price — that is the analytical dimension Part 7 adds to the series.
 
 The next post in the series returns when (1) public F-1 is filed, (2) Toss Securities and Toss Bank quarterly decomposition data prints, (3) Korean-listing review progresses, and (4) other "coordinate-definition" candidates — Mirae Asset Securities, DB Insurance — enter the same analytical dimension.
 
@@ -516,31 +516,31 @@ The next post in the series returns when (1) public F-1 is filed, (2) Toss Secur
 
 ## FAQ — Viva Republica / Toss
 
-**Q: Is Viva Republica (Toss) publicly traded?**
+<strong>Q: Is Viva Republica (Toss) publicly traded?</strong>
 A: Not yet. Viva Republica is unlisted; a US listing (likely as ADR) is widely reported as in preparation. Public F-1 filing has not been confirmed as of May 3, 2026.
 
-**Q: What is the relationship between Toss and Viva Republica?**
+<strong>Q: What is the relationship between Toss and Viva Republica?</strong>
 A: Viva Republica is the parent company. Toss is the consumer brand. Subsidiaries include Toss Securities (97.4% owned), Toss Bank (28.3% owned), and Toss Payments / Toss merchant services.
 
-**Q: What is the expected Toss IPO valuation?**
+<strong>Q: What is the expected Toss IPO valuation?</strong>
 A: A widely reported headline target is "$10B+." This piece argues the honest spectrum spans $5B–$15B depending on (a) which market lists the company, (b) which investor pool classifies it, (c) how each of the seven variables closes. No single point is treated as the default "base case."
 
-**Q: When is the Toss IPO?**
+<strong>Q: When is the Toss IPO?</strong>
 A: Not yet scheduled at a confirmed date. Public F-1 filing and a roadshow start would be the public milestones. Reporting suggests targeting Q2/Q3 2026 if F-1 lands in May–June; otherwise it could slip to second-half 2026 or 2027.
 
-**Q: Will Toss list in the US or Korea?**
+<strong>Q: Will Toss list in the US or Korea?</strong>
 A: A US (NYSE/Nasdaq) ADR listing is the more widely reported track. A Korean listing (KOSPI) has also been discussed but not as actively. The choice of market matters because — as this piece shows — US-classification ("super app") and Korea-classification ("financial holding SOTP") imply very different valuation multiples.
 
-**Q: Is Toss profitable?**
+<strong>Q: Is Toss profitable?</strong>
 A: 2025 was the first year of meaningful consolidated profitability — group net income ₩201.8B (+846.7% YoY). However, Viva Republica standalone (the app body itself) was loss-making in 2025 due to new-business investment; the consolidated profit is principally driven by Toss Securities.
 
-**Q: What is Toss Securities and why does its OPM 50.5% matter?**
+<strong>Q: What is Toss Securities and why does its OPM 50.5% matter?</strong>
 A: Toss Securities is the wholly-owned (97.4%) brokerage subsidiary, structurally #1 in retail overseas-equity trading in Korea. Its 50.5% operating margin is exceptionally high. Whether this represents "repeatable structural margin" or "cyclical strength from US bull market + favorable FX" is the key open question — answered when the F-1 discloses revenue decomposition and quarterly OPM trajectory.
 
-**Q: What is Toss Bank's role in the IPO?**
+<strong>Q: What is Toss Bank's role in the IPO?</strong>
 A: Toss Bank is roughly 1/4 to 1/3 the size of KakaoBank. Viva Republica owns 28.3%, a minority stake. In SOTP terms, Toss Bank is not a dominant valuation contributor. Toss Bank also has 19 other major shareholders, raising the option of a separate Toss Bank IPO — which would apply additional SOTP discount to a Viva Republica IPO.
 
-**Q: How does Toss compare to Korea Investment Holdings or KakaoBank in this series?**
+<strong>Q: How does Toss compare to Korea Investment Holdings or KakaoBank in this series?</strong>
 A: Korea Investment Holdings (Part 5) is the conservative endpoint of "new coordinate definition" — implied cost of equity 17.3%. KakaoBank (Part 6) is the aggressive endpoint — implied cost of equity 4.2%. Toss (Part 7) is pre-listing — its implied cost of equity at IPO will fall somewhere between 0.9% (at $15B valuation) and 2.7% (at $5B valuation), more aggressive than any of the existing series companies. Where it actually lands depends on which market and which classification price the company.
 
 ---

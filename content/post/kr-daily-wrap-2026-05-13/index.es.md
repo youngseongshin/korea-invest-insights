@@ -21,7 +21,7 @@ draft: false
 | Brent | $108,1 | +6,7% | Sube |
 | DXY | 98,5 | +0,7% | Dólar fuerte |
 
-**Veredicto de régimen:** KR = **Neutral** | EE.UU. = **Bull**
+<strong>Veredicto de régimen:</strong> KR = <strong>Neutral</strong> | EE.UU. = <strong>Bull</strong>
 
 El KOSPI avanza un 4,7% en cinco sesiones, pero el KOSDAQ cede un 1,9% en el mismo período — una divergencia de 6,6 puntos porcentuales que delata un mercado de gran capitalización selectivo, no de participación amplia. El Won se deprecia frente al dólar (+3,1% a 1.490), el petróleo Brent sube a $108 y el bono del Tesoro a 10 años escala hasta el 4,46%. La brecha KR Neutral / EE.UU. Bull orienta la asignación de capital hacia una exposición selectiva en mercados estadounidenses.
 
@@ -31,19 +31,19 @@ El KOSPI avanza un 4,7% en cinco sesiones, pero el KOSDAQ cede un 1,9% en el mis
 
 *El informe de cierre de mercado más reciente disponible corresponde a la sesión del 8 de mayo de 2026. Los datos de régimen y cribadores proceden del 13 de mayo de 2026.*
 
-La sesión del 8 de mayo fue de **selección activa, no de apertura generalizada**. El KOSPI cerró al alza (+1,43%), pero la amplitud fue estrecha: el breadth por encima de la media de 50 días se sitúa en solo el 42,8% del universo de calidad, lejos de niveles propios de un bull market pleno.
+La sesión del 8 de mayo fue de <strong>selección activa, no de apertura generalizada</strong>. El KOSPI cerró al alza (+1,43%), pero la amplitud fue estrecha: el breadth por encima de la media de 50 días se sitúa en solo el 42,8% del universo de calidad, lejos de niveles propios de un bull market pleno.
 
-**Sectores fuertes.** Los cables de transmisión y fibra óptica lideraron con claridad: Gaon Cable registró una ruptura del +30% con flujo institucional de +21,3 bn KRW, y Daehan Electric Wire (103590.KS) sumó compras simultáneas de extranjeros (+167,7 bn KRW), instituciones y programas — el patrón de flujo más limpio de la jornada. La infraestructura de IA (centros de datos, redes ópticas, HBM) siguió concentrando la atención del dinero activo.
+<strong>Sectores fuertes.</strong> Los cables de transmisión y fibra óptica lideraron con claridad: Gaon Cable registró una ruptura del +30% con flujo institucional de +21,3 bn KRW, y Daehan Electric Wire (103590.KS) sumó compras simultáneas de extranjeros (+167,7 bn KRW), instituciones y programas — el patrón de flujo más limpio de la jornada. La infraestructura de IA (centros de datos, redes ópticas, HBM) siguió concentrando la atención del dinero activo.
 
-**Sectores débiles.** Los semiconductores de gran capitalización sufrieron ventas masivas externas: Samsung Electronics (005930.KS) acumuló salidas extranjeras de 2,55 billones de KRW en un solo día, aunque el precio solo cedió un −1,1%, lo que sugiere absorción institucional (+293 bn KRW). El sector de videojuegos acusó caídas, con Pearl Abyss (263750.KQ) en −12,35% a cinco días y presión de posiciones cortas persistente.
+<strong>Sectores débiles.</strong> Los semiconductores de gran capitalización sufrieron ventas masivas externas: Samsung Electronics (005930.KS) acumuló salidas extranjeras de 2,55 billones de KRW en un solo día, aunque el precio solo cedió un −1,1%, lo que sugiere absorción institucional (+293 bn KRW). El sector de videojuegos acusó caídas, con Pearl Abyss (263750.KQ) en −12,35% a cinco días y presión de posiciones cortas persistente.
 
-**Señales de flujo relevantes.** Daeduk Electronics (353200.KQ) fue el caso más limpio del universo analizado: precio +2,07%, con extranjeros, instituciones y programas comprando a la vez. Kiwoom Securities (039490.KS) mostró el patrón opuesto — compra neta de los tres actores institucionales pero precio −2,90%, señal de absorción que merece seguimiento. El régimen KR en Neutral implica que la disciplina en la selección por nombre es más determinante que la dirección del índice.
+<strong>Señales de flujo relevantes.</strong> Daeduk Electronics (353200.KQ) fue el caso más limpio del universo analizado: precio +2,07%, con extranjeros, instituciones y programas comprando a la vez. Kiwoom Securities (039490.KS) mostró el patrón opuesto — compra neta de los tres actores institucionales pero precio −2,90%, señal de absorción que merece seguimiento. El régimen KR en Neutral implica que la disciplina en la selección por nombre es más determinante que la dirección del índice.
 
 ---
 
 ## Candidatos a Reclasificación de Calidad — 13 mayo 2026
 
-El meta-screener de hoy evalúa 135 valores sobre cinco ejes — calidad fundamental, flujo institucional, rerating de ciclo, mejora de resultados y revisiones de consenso. Los nombres que aparecen en **tres o más cribadores simultáneos** son los candidatos prioritarios de investigación.
+El meta-screener de hoy evalúa 135 valores sobre cinco ejes — calidad fundamental, flujo institucional, rerating de ciclo, mejora de resultados y revisiones de consenso. Los nombres que aparecen en <strong>tres o más cribadores simultáneos</strong> son los candidatos prioritarios de investigación.
 
 ### Tabla de candidatos principales
 
@@ -66,17 +66,17 @@ El meta-screener de hoy evalúa 135 valores sobre cinco ejes — calidad fundame
 
 ### Contexto de los tres primeros candidatos
 
-**#1 — Gigavis (420770.KQ) | Score 68,9**
+<strong>#1 — Gigavis (420770.KQ) | Score 68,9</strong>
 
-Gigavis fabrica equipos de inspección óptica para paneles OLED y semiconductores. Su presencia simultánea en los tres cribadores de mayor peso — Calidad, Dinero Inteligente y Mejora de Resultados — refleja un salto operativo excepcional: el beneficio operativo creció un +777% interanual con ingresos que se duplican (+100,6%). El flujo institucional neto en cinco días suma +156 bn KRW, respaldado por compras extranjeras indirectas. Un contrato de suministro notificado en DART el 24 de abril de 2026 añade un catalizador oficial reciente. El único elemento que genera cautela es su aparición también en el cribador de **revisión de consenso a la baja**, señal de que los analistas aún no han ajustado sus estimaciones al alza. Punto de verificación clave: si el nuevo contrato aporta ingresos recurrentes y si las revisiones de consenso empiezan a girar al alza en próximas semanas.
+Gigavis fabrica equipos de inspección óptica para paneles OLED y semiconductores. Su presencia simultánea en los tres cribadores de mayor peso — Calidad, Dinero Inteligente y Mejora de Resultados — refleja un salto operativo excepcional: el beneficio operativo creció un +777% interanual con ingresos que se duplican (+100,6%). El flujo institucional neto en cinco días suma +156 bn KRW, respaldado por compras extranjeras indirectas. Un contrato de suministro notificado en DART el 24 de abril de 2026 añade un catalizador oficial reciente. El único elemento que genera cautela es su aparición también en el cribador de <strong>revisión de consenso a la baja</strong>, señal de que los analistas aún no han ajustado sus estimaciones al alza. Punto de verificación clave: si el nuevo contrato aporta ingresos recurrentes y si las revisiones de consenso empiezan a girar al alza en próximas semanas.
 
-**#2 — TES (095610.KQ) | Score 62,3**
+<strong>#2 — TES (095610.KQ) | Score 62,3</strong>
 
 TES desarrolla equipos especiales para procesos de fabricación de semiconductores. Combina fundamentos sólidos (ROE 14,5%, crecimiento de ingresos +46,3%, margen operativo 16,5%) con el mayor flujo institucional neto entre los tres primeros: +515 bn KRW en cinco días. El ratio de posiciones cortas del 8,7% y la presión negativa de programas (−9,2%) indican que la tesis alcista no es unánime en el mercado. El informe trimestral (2026-T1) publicado el 13 de mayo de 2026 en DART ofrece material fresco para analizar la evolución de márgenes. Punto de verificación: si la reducción de posiciones cortas acompaña el movimiento de precio o si la presión de programa sigue siendo adversa.
 
-**#3 — Jeju Semiconductor (080220.KQ) | Score 62,1**
+<strong>#3 — Jeju Semiconductor (080220.KQ) | Score 62,1</strong>
 
-Jeju Semiconductor diseña memoria especializada de bajo consumo para aplicaciones industriales e IoT. Sus métricas combinan ROE del 17,4% con un crecimiento del beneficio operativo del +274% y flujo neto positivo de +238 bn KRW en cinco días, con compras simultáneas de extranjeros, instituciones y fondos cuantitativos (programa +14,7%). La señal de flujo es de las más amplias del universo. Dos elementos requieren análisis previo: los **dos avisos de riesgo registrados en DART** y la convocatoria a junta extraordinaria de accionistas publicada el 12 de mayo, que podría introducir incertidumbre corporativa a corto plazo. Punto de verificación: contenido de los avisos DART y orden del día de la junta antes de asumir que el flujo refleja una tendencia sostenida.
+Jeju Semiconductor diseña memoria especializada de bajo consumo para aplicaciones industriales e IoT. Sus métricas combinan ROE del 17,4% con un crecimiento del beneficio operativo del +274% y flujo neto positivo de +238 bn KRW en cinco días, con compras simultáneas de extranjeros, instituciones y fondos cuantitativos (programa +14,7%). La señal de flujo es de las más amplias del universo. Dos elementos requieren análisis previo: los <strong>dos avisos de riesgo registrados en DART</strong> y la convocatoria a junta extraordinaria de accionistas publicada el 12 de mayo, que podría introducir incertidumbre corporativa a corto plazo. Punto de verificación: contenido de los avisos DART y orden del día de la junta antes de asumir que el flujo refleja una tendencia sostenida.
 
 ---
 

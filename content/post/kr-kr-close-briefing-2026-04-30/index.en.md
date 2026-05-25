@@ -36,9 +36,9 @@ Short interest in Samsung Electro-Mechanics sits at approximately 10.8%, which i
 
 While blue chips sold off, Korea's power equipment and transformer stocks moved in the opposite direction, driven by ongoing AI data center buildout demand and domestic grid modernization themes.
 
-**Sanilelec (산일전기, 062040.KS)**, a Korean manufacturer of power transformers and distribution equipment, was the session's only confirmed operational breakout by quantitative screeners, with volume running approximately 3.8 times its average and a relative strength score of 96.0. The stock gained roughly 20% intraday. At these levels, the immediate post-breakout entry is stretched — but the underlying thesis is not: global demand for transformer capacity has structurally outpaced supply since 2023, and Korean manufacturers are benefiting from both export orders and domestic grid upgrades tied to data center power infrastructure.
+<strong>Sanilelec (산일전기, 062040.KS)</strong>, a Korean manufacturer of power transformers and distribution equipment, was the session's only confirmed operational breakout by quantitative screeners, with volume running approximately 3.8 times its average and a relative strength score of 96.0. The stock gained roughly 20% intraday. At these levels, the immediate post-breakout entry is stretched — but the underlying thesis is not: global demand for transformer capacity has structurally outpaced supply since 2023, and Korean manufacturers are benefiting from both export orders and domestic grid upgrades tied to data center power infrastructure.
 
-**Hyosung Heavy Industries (298040.KS)**, another high-voltage equipment maker with a relative strength score of 98.1, is trading near multi-year highs as part of the same supply-constrained transformer theme.
+<strong>Hyosung Heavy Industries (298040.KS)</strong>, another high-voltage equipment maker with a relative strength score of 98.1, is trading near multi-year highs as part of the same supply-constrained transformer theme.
 
 These stocks represent a different angle into the AI infrastructure trade than pure semiconductor names — one that is less correlated to US chip policy headlines and more tied to physical grid capacity constraints that take years to resolve.
 
@@ -46,7 +46,7 @@ These stocks represent a different angle into the AI infrastructure trade than p
 
 ## Shipbuilding: Hanwha Engine's Five-Day Run
 
-**Hanwha Engine (082740.KS)**, a Korean marine engine manufacturer and subsidiary within the Hanwha Group conglomerate, extended a remarkable five-session rally of approximately 25.5% through today's close, adding 0.3% on the day. The stock is benefiting from the sustained strength in Korean shipbuilding order intake — South Korean yards held the largest global share of LNG carrier orders as of Q1 2026 — and from specific demand for dual-fuel and alternative-fuel marine propulsion systems.
+<strong>Hanwha Engine (082740.KS)</strong>, a Korean marine engine manufacturer and subsidiary within the Hanwha Group conglomerate, extended a remarkable five-session rally of approximately 25.5% through today's close, adding 0.3% on the day. The stock is benefiting from the sustained strength in Korean shipbuilding order intake — South Korean yards held the largest global share of LNG carrier orders as of Q1 2026 — and from specific demand for dual-fuel and alternative-fuel marine propulsion systems.
 
 Institutional positioning over the five-day window shows cumulative net buying, even as today's single-session data showed some profit-taking. Bid-side depth softened into the close, a pattern that typically precedes consolidation after sharp moves. The shipbuilding theme itself remains structurally intact; the near-term question is entry timing after a move of this magnitude.
 
@@ -64,7 +64,7 @@ The confirmation of sustained hyperscaler CapEx is a demand signal for this supp
 
 ## SK Telecom's 20-F Filing: What It Means for Foreign Investors
 
-**SK Telecom (017670.KS / SKM)**, South Korea's largest wireless carrier by subscriber count, filed its annual Form 20-F report with the US Securities and Exchange Commission today — the mandatory annual filing for foreign private issuers listed on US exchanges via ADR. The company also announced a dividend record date.
+<strong>SK Telecom (017670.KS / SKM)</strong>, South Korea's largest wireless carrier by subscriber count, filed its annual Form 20-F report with the US Securities and Exchange Commission today — the mandatory annual filing for foreign private issuers listed on US exchanges via ADR. The company also announced a dividend record date.
 
 SK Telecom's ADR listing (NYSE: SKM) makes today's 20-F filing directly relevant to US-based holders. The stock has underperformed over the past week, with both foreign and institutional investors recording net selling. As a defensive telecom name, SK Telecom tends to lag during sessions where sector rotation favors industrials and infrastructure over yield proxies — which describes April 30 precisely.
 
@@ -72,13 +72,13 @@ SK Telecom's ADR listing (NYSE: SKM) makes today's 20-F filing directly relevant
 
 ## Forward Watch: What to Monitor on May 1
 
-**Samsung Electronics**: The ₩225,000 price level is a near-term technical reference. Sustained foreign buying returning to the name — after the heavy net selling today — would be the clearest signal that the preliminary earnings were received as a floor rather than a ceiling.
+<strong>Samsung Electronics</strong>: The ₩225,000 price level is a near-term technical reference. Sustained foreign buying returning to the name — after the heavy net selling today — would be the clearest signal that the preliminary earnings were received as a floor rather than a ceiling.
 
-**Sanilelec**: The breakout reference from the screener was approximately ₩237,000; the stock closed near ₩266,000 after today's surge. A pullback toward support with volume normalization would offer a better-defined entry than chasing the initial gap.
+<strong>Sanilelec</strong>: The breakout reference from the screener was approximately ₩237,000; the stock closed near ₩266,000 after today's surge. A pullback toward support with volume normalization would offer a better-defined entry than chasing the initial gap.
 
-**Hanmi Semiconductor (042700.KS)**: South Korea's dominant HBM thermal compression bonding equipment supplier, with a relative strength score of 96.9, is a name to watch if the HBM demand narrative continues to strengthen. The stock is already correlated with Samsung Electronics' memory cycle, so investors should assess portfolio-level overlap before sizing in.
+<strong>Hanmi Semiconductor (042700.KS)</strong>: South Korea's dominant HBM thermal compression bonding equipment supplier, with a relative strength score of 96.9, is a name to watch if the HBM demand narrative continues to strengthen. The stock is already correlated with Samsung Electronics' memory cycle, so investors should assess portfolio-level overlap before sizing in.
 
-**Macro**: Hormuz Strait and broader Middle East risk, Federal Reserve independence commentary, and follow-on analyst interpretations of the Big Tech AI CapEx disclosures will all feed into Thursday's open. The dominant regime entering May: selective, not aggressive.
+<strong>Macro</strong>: Hormuz Strait and broader Middle East risk, Federal Reserve independence commentary, and follow-on analyst interpretations of the Big Tech AI CapEx disclosures will all feed into Thursday's open. The dominant regime entering May: selective, not aggressive.
 
 ---
 

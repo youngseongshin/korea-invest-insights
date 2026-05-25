@@ -19,7 +19,7 @@ draft: false
 | Brent | 95,2 $ | +0,2 % | Stable |
 | US 10Y | 4,25 % | −0,05 pt | Stable |
 
-**Verdict de régime — KR : Bull · US : Neutral.** Écart KR/US → stance *Exposition sélective Corée*. C'est la première journée officielle du régime Bull KR, en transition depuis Neutral depuis le 19 avril. La largeur du marché confirme : 63,3 % des titres coréens au-dessus de leur MA50, 59,2 % au-dessus de leur MA200. Le signal Discovery affiche 100/100 pour le 14e jour consécutif.
+<strong>Verdict de régime — KR : Bull · US : Neutral.</strong> Écart KR/US → stance *Exposition sélective Corée*. C'est la première journée officielle du régime Bull KR, en transition depuis Neutral depuis le 19 avril. La largeur du marché confirme : 63,3 % des titres coréens au-dessus de leur MA50, 59,2 % au-dessus de leur MA200. Le signal Discovery affiche 100/100 pour le 14e jour consécutif.
 
 ---
 
@@ -27,17 +27,17 @@ draft: false
 
 Le KOSPI Korea s'est inscrit à 6 219 points lundi, cumulant +4,2 % sur cinq séances dans un contexte de reprise généralisée. Le KOSDAQ, plus exposé aux petites et moyennes capitalisations technologiques, surperforme légèrement à +4,7 % sur la même fenêtre — signe que le rally ne se cantonne pas aux grandes valeurs.
 
-La journée s'apparente à une **expansion sectorielle large** plutôt qu'à une rotation défensive. Plusieurs thèmes se distinguent dans les données de flux :
+La journée s'apparente à une <strong>expansion sectorielle large</strong> plutôt qu'à une rotation défensive. Plusieurs thèmes se distinguent dans les données de flux :
 
-**Semi-conducteurs et PCB avancé.** Le secteur reste le moteur structurel du marché coréen. SK하이닉스 (000660.KS) figure en bonne place dans les signaux PEAD avec une croissance opérationnelle de +101 % YoY et un retour sur 5 jours de +12,1 %. Dans l'écosystème PCB/substrat, 대덕전자 (353200.KS) et 이수페타시스 (007660.KS) confirment l'accélération de la demande en emballages avancés liée à l'IA.
+<strong>Semi-conducteurs et PCB avancé.</strong> Le secteur reste le moteur structurel du marché coréen. SK하이닉스 (000660.KS) figure en bonne place dans les signaux PEAD avec une croissance opérationnelle de +101 % YoY et un retour sur 5 jours de +12,1 %. Dans l'écosystème PCB/substrat, 대덕전자 (353200.KS) et 이수페타시스 (007660.KS) confirment l'accélération de la demande en emballages avancés liée à l'IA.
 
-**Construction navale et équipements maritimes.** La filière HD현대poursuit sa montée en puissance : HD현대마린엔진 (071970.KS, +6,9 % sur 5 jours) et HD현대마린솔루션 (443060.KS) bénéficient d'un carnet de commandes record et d'une dynamique de marges en forte expansion. Le titre 세진중공업 (075580.KS) confirme la profondeur sectorielle avec +10,0 % sur la semaine.
+<strong>Construction navale et équipements maritimes.</strong> La filière HD현대poursuit sa montée en puissance : HD현대마린엔진 (071970.KS, +6,9 % sur 5 jours) et HD현대마린솔루션 (443060.KS) bénéficient d'un carnet de commandes record et d'une dynamique de marges en forte expansion. Le titre 세진중공업 (075580.KS) confirme la profondeur sectorielle avec +10,0 % sur la semaine.
 
-**Défense et sécurité.** 한화비전 (489790.KS), spécialiste des systèmes de vidéosurveillance et de défense, affiche la surprise opérationnelle la plus spectaculaire du screener avec un OP YoY de +2 851 %. La montée en puissance des budgets de défense régionaux alimente une demande structurelle qui se lisait déjà dans les trimestriels.
+<strong>Défense et sécurité.</strong> 한화비전 (489790.KS), spécialiste des systèmes de vidéosurveillance et de défense, affiche la surprise opérationnelle la plus spectaculaire du screener avec un OP YoY de +2 851 %. La montée en puissance des budgets de défense régionaux alimente une demande structurelle qui se lisait déjà dans les trimestriels.
 
-**Énergie renouvelable.** HD현대에너지솔루션 (322000.KS) s'inscrit en hausse de +1,2 % sur 5 jours mais surtout à 0 % de son plus haut 52 semaines — le titre drif te en silence, soutenu par +1 077 % de croissance opérationnelle YoY dans le solaire.
+<strong>Énergie renouvelable.</strong> HD현대에너지솔루션 (322000.KS) s'inscrit en hausse de +1,2 % sur 5 jours mais surtout à 0 % de son plus haut 52 semaines — le titre drif te en silence, soutenu par +1 077 % de croissance opérationnelle YoY dans le solaire.
 
-**Flux institutionnels.** Les acheteurs étrangers et institutionnels semblent actifs sur les noms à forte visibilité internationale (semi-conducteurs, shipbuilding), tandis que les petites capitalisations KOSDAQ bénéficient d'un soutien retail dans les secteurs industriels de niche. Le won stable à 1 472 $/$ n'introduit pas de frein à court terme pour les flux entrants.
+<strong>Flux institutionnels.</strong> Les acheteurs étrangers et institutionnels semblent actifs sur les noms à forte visibilité internationale (semi-conducteurs, shipbuilding), tandis que les petites capitalisations KOSDAQ bénéficient d'un soutien retail dans les secteurs industriels de niche. Le won stable à 1 472 $/$ n'introduit pas de frein à court terme pour les flux entrants.
 
 VIX à 19,5 — en hausse de +6,3 % sur 5 jours mais toujours sous le seuil d'alerte à 20. L'environnement de taux américains (US 10Y à 4,25 %, en légère détente) reste constructif pour les marchés émergents asiatiques.
 
@@ -45,9 +45,9 @@ VIX à 19,5 — en hausse de +6,3 % sur 5 jours mais toujours sous le seuil d'al
 
 ## Screener du Lundi : PEAD — Dérive Post-Résultats
 
-**Méthodologie en bref.** Le screener PEAD (*Post-Earnings Announcement Drift*) capte les titres ayant publié une surprise positive de résultats (bénéfice opérationnel YoY ≥ 20 %, CA YoY ≥ 5 %, expansion de marge ≥ +0,5 pp) et dont le prix se confirme au-dessus de la MA50 — signal que le marché n'a pas encore entièrement intégré la surprise. L'anomalie est académiquement documentée sur une fenêtre de 1 à 4 semaines post-publication ; en Corée, avril correspond au plein pic du drift sur les résultats annuels 2025.
+<strong>Méthodologie en bref.</strong> Le screener PEAD (*Post-Earnings Announcement Drift*) capte les titres ayant publié une surprise positive de résultats (bénéfice opérationnel YoY ≥ 20 %, CA YoY ≥ 5 %, expansion de marge ≥ +0,5 pp) et dont le prix se confirme au-dessus de la MA50 — signal que le marché n'a pas encore entièrement intégré la surprise. L'anomalie est académiquement documentée sur une fenêtre de 1 à 4 semaines post-publication ; en Corée, avril correspond au plein pic du drift sur les résultats annuels 2025.
 
-**Aujourd'hui : 120 candidats, dont 59 Tier A (Strong Beat).**
+<strong>Aujourd'hui : 120 candidats, dont 59 Tier A (Strong Beat).</strong>
 
 ### Top 10 — Tier A (Strong Beat)
 
@@ -66,11 +66,11 @@ VIX à 19,5 — en hausse de +6,3 % sur 5 jours mais toujours sous le seuil d'al
 
 ### Focus sur les 3 premiers noms
 
-**한화비전 (489790.KS) — Score +3,47, #1 absolu.** Filiale sécurité de Hanwha Group, spécialisée dans les caméras de surveillance intelligentes, systèmes de défense périmétrique et solutions de vision pour drones. La croissance opérationnelle de +2 851 % YoY reflète un effet base et une montée en puissance des contrats export liés aux budgets de défense européens et moyen-orientaux. Retour 5 jours : +12,9 %. Distance au plus haut 52 semaines : seulement 8,4 % — potentiel de drift intact.
+<strong>한화비전 (489790.KS) — Score +3,47, #1 absolu.</strong> Filiale sécurité de Hanwha Group, spécialisée dans les caméras de surveillance intelligentes, systèmes de défense périmétrique et solutions de vision pour drones. La croissance opérationnelle de +2 851 % YoY reflète un effet base et une montée en puissance des contrats export liés aux budgets de défense européens et moyen-orientaux. Retour 5 jours : +12,9 %. Distance au plus haut 52 semaines : seulement 8,4 % — potentiel de drift intact.
 
-**우원개발 (046940.KQ) — Score +2,38, #2.** Constructeur spécialisé dans les travaux publics et génie civil industriel (KOSDAQ). Bénéfice opérationnel multiplié par 24 en un an avec une marge opérationnelle bondissant à 17,8 %. Titre à son plus haut 52 semaines (gap = 0 %) avec une dynamique de prix +16,9 % sur 5 jours — la fenêtre de drift post-résultats est à un stade précoce.
+<strong>우원개발 (046940.KQ) — Score +2,38, #2.</strong> Constructeur spécialisé dans les travaux publics et génie civil industriel (KOSDAQ). Bénéfice opérationnel multiplié par 24 en un an avec une marge opérationnelle bondissant à 17,8 %. Titre à son plus haut 52 semaines (gap = 0 %) avec une dynamique de prix +16,9 % sur 5 jours — la fenêtre de drift post-résultats est à un stade précoce.
 
-**서호전기 (065710.KQ) — Score +2,25, #3.** Fabricant d'équipements électriques de puissance (transformateurs, tableaux de distribution) pour les secteurs industriels et énergétiques. Bénéficie directement de la vague d'investissement en infrastructure électrique liée à la transition énergétique et aux data centers. Marge opérationnelle à 21,7 % (+18 pp YoY), ROE 24,4 % — profil qualité avec momentum.
+<strong>서호전기 (065710.KQ) — Score +2,25, #3.</strong> Fabricant d'équipements électriques de puissance (transformateurs, tableaux de distribution) pour les secteurs industriels et énergétiques. Bénéficie directement de la vague d'investissement en infrastructure électrique liée à la transition énergétique et aux data centers. Marge opérationnelle à 21,7 % (+18 pp YoY), ROE 24,4 % — profil qualité avec momentum.
 
 ---
 

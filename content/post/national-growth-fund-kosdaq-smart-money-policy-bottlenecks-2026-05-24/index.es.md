@@ -32,20 +32,20 @@ draft: false
 
 La nota anterior sobre flujos del KOSDAQ argumentaba que precio y flujo estaban divergiendo. Las grandes capitalizaciones del KOSPI habían dominado la cinta, pero los flujos recientes de capital extranjero, programático y de cuentas fiduciarias hacia el KOSDAQ mejoraban en silencio. Esta entrada es el seguimiento desde la óptica del capital de política pública: si el dinero empieza a mirar de nuevo al KOSDAQ, ¿qué canales de política industrial y cuellos de botella sectoriales pueden absorberlo realmente?
 
-La respuesta breve: el Fondo Nacional de Crecimiento de Corea no es una promesa de que el gobierno comprará el índice KOSDAQ. Se entiende mejor como una herramienta para reducir el coste del capital en industrias estratégicas y desbloquear decisiones de expansión o de capex que estaban retrasadas. La pregunta relevante para el inversor no es por tanto "¿qué valores llevan la etiqueta política?", sino **¿qué cuellos de botella pueden convertir el capital de política pública en pedidos, capacidad, ingresos y beneficios?**
+La respuesta breve: el Fondo Nacional de Crecimiento de Corea no es una promesa de que el gobierno comprará el índice KOSDAQ. Se entiende mejor como una herramienta para reducir el coste del capital en industrias estratégicas y desbloquear decisiones de expansión o de capex que estaban retrasadas. La pregunta relevante para el inversor no es por tanto "¿qué valores llevan la etiqueta política?", sino <strong>¿qué cuellos de botella pueden convertir el capital de política pública en pedidos, capacidad, ingresos y beneficios?</strong>
 
 ## Resumen Ejecutivo
 
-- **Separa los números por capa.** El Fondo Nacional de Crecimiento completo es un programa a cinco años de más de **₩150T**, que combina ₩75T del Fondo de Industrias Estratégicas Avanzadas y al menos ₩75T de capital privado, de fondos de pensiones, de instituciones financieras y público. [Comisión de Servicios Financieros][1]
-- **El plan de despliegue de 2026 es de ₩30T+.** Se compone de ₩3T en inversión directa, ₩7T en inversión indirecta, ₩10T en financiación de infraestructuras y ₩10T en préstamos a tipo ultrareducido. La suma simple es `3 + 7 + 10 + 10 = ₩30T`. [Comisión de Servicios Financieros][2]
-- **El paquete de ecosistema industrial avanzado de ₩50T+ anunciado en abril de 2026 es una capa separada.** Se centra en ₩35T de inversión indirecta y más de ₩15T de inversión directa. [Comisión de Servicios Financieros][3]
-- **La cifra de ₩6,6T de la primera ronda no es el tamaño total de los primeros siete megaproyectos.** Es el importe de apoyo aprobado entre enero y marzo de 2026: parque eólico marino Shinan Ui ₩3,4T, materiales de baterías de nueva generación de Ulsan ₩0,1T, base de producción de semiconductores de IA de Pyeongtaek ₩2,5T y participación de capital en Rebellions ₩0,6T. [Comisión de Servicios Financieros][3]
-- **Para el KOSDAQ, la estructura de inversión indirecta es la más relevante.** La FSC menciona explícitamente el apoyo a empresas Pre-IPO, empresas con cotización temprana en KOSDAQ, operaciones de M&A, reestructuración, fondos KOSDAQ y fondos regionales. [Comisión de Servicios Financieros][3]
-- **Las mejores ideas en mercados cotizados son proveedores de cuellos de botella, no valores genéricos de temática política.** Infraestructura eléctrica, servicios de diseño de semiconductores de IA, equipos OLED, packaging, sustratos, testing y biotecnología en fase avanzada son más relevantes que los grandes nombres titulares.
+- <strong>Separa los números por capa.</strong> El Fondo Nacional de Crecimiento completo es un programa a cinco años de más de <strong>₩150T</strong>, que combina ₩75T del Fondo de Industrias Estratégicas Avanzadas y al menos ₩75T de capital privado, de fondos de pensiones, de instituciones financieras y público. [Comisión de Servicios Financieros][1]
+- <strong>El plan de despliegue de 2026 es de ₩30T+.</strong> Se compone de ₩3T en inversión directa, ₩7T en inversión indirecta, ₩10T en financiación de infraestructuras y ₩10T en préstamos a tipo ultrareducido. La suma simple es `3 + 7 + 10 + 10 = ₩30T`. [Comisión de Servicios Financieros][2]
+- <strong>El paquete de ecosistema industrial avanzado de ₩50T+ anunciado en abril de 2026 es una capa separada.</strong> Se centra en ₩35T de inversión indirecta y más de ₩15T de inversión directa. [Comisión de Servicios Financieros][3]
+- <strong>La cifra de ₩6,6T de la primera ronda no es el tamaño total de los primeros siete megaproyectos.</strong> Es el importe de apoyo aprobado entre enero y marzo de 2026: parque eólico marino Shinan Ui ₩3,4T, materiales de baterías de nueva generación de Ulsan ₩0,1T, base de producción de semiconductores de IA de Pyeongtaek ₩2,5T y participación de capital en Rebellions ₩0,6T. [Comisión de Servicios Financieros][3]
+- <strong>Para el KOSDAQ, la estructura de inversión indirecta es la más relevante.</strong> La FSC menciona explícitamente el apoyo a empresas Pre-IPO, empresas con cotización temprana en KOSDAQ, operaciones de M&A, reestructuración, fondos KOSDAQ y fondos regionales. [Comisión de Servicios Financieros][3]
+- <strong>Las mejores ideas en mercados cotizados son proveedores de cuellos de botella, no valores genéricos de temática política.</strong> Infraestructura eléctrica, servicios de diseño de semiconductores de IA, equipos OLED, packaging, sustratos, testing y biotecnología en fase avanzada son más relevantes que los grandes nombres titulares.
 
 En una sola frase:
 
-**El Fondo Nacional de Crecimiento no compra el índice KOSDAQ; es un canal de capital que acota la búsqueda de los próximos candidatos a alfa en el KOSDAQ financiando empresas de crecimiento seleccionadas y cuellos de botella industriales.**
+<strong>El Fondo Nacional de Crecimiento no compra el índice KOSDAQ; es un canal de capital que acota la búsqueda de los próximos candidatos a alfa en el KOSDAQ financiando empresas de crecimiento seleccionadas y cuellos de botella industriales.</strong>
 
 ---
 
@@ -63,15 +63,15 @@ La dirección general es correcta. Corea está utilizando capital de política p
 
 Según la FSC, el Fondo Nacional de Crecimiento completo supera los ₩150T en cinco años. El gobierno amplió el plan original de ₩100T hasta al menos ₩150T, combinando ₩75T del Fondo de Industrias Estratégicas Avanzadas y al menos ₩75T de capital privado, de pensiones, de instituciones financieras y público. [Comisión de Servicios Financieros][1]
 
-El plan de 2026 es independiente. La FSC indica que el plan de apoyo para 2026 es de **₩30T+**: ₩3T en inversión directa, ₩7T en inversión indirecta, ₩10T en financiación de infraestructuras y ₩10T en préstamos a tipo ultrareducido. [Comisión de Servicios Financieros][2]
+El plan de 2026 es independiente. La FSC indica que el plan de apoyo para 2026 es de <strong>₩30T+</strong>: ₩3T en inversión directa, ₩7T en inversión indirecta, ₩10T en financiación de infraestructuras y ₩10T en préstamos a tipo ultrareducido. [Comisión de Servicios Financieros][2]
 
 El paquete de ecosistema industrial avanzado anunciado el 14 de abril de 2026 es otra capa. Yonhap lo describió como más de ₩50T en cinco años, repartidos entre ₩35T de inversión indirecta y ₩15T de inversión directa. [Agencia de Noticias Yonhap][4] La nota de la FSC también señala que el canal de inversión directa de ₩15T se utilizará para apoyo estratégico de gran envergadura y largo plazo, mientras que la inversión indirecta incluye Pre-IPO, empresas con cotización temprana en KOSDAQ, M&A, reestructuración, fondos KOSDAQ y fondos regionales. [Comisión de Servicios Financieros][3]
 
-El error más frecuente es la **cifra de ₩6,6T de la primera ronda**. No es el tamaño total de los primeros siete megaproyectos. Es el importe de apoyo aprobado entre enero y marzo de 2026:
+El error más frecuente es la <strong>cifra de ₩6,6T de la primera ronda</strong>. No es el tamaño total de los primeros siete megaproyectos. Es el importe de apoyo aprobado entre enero y marzo de 2026:
 
 `Shinan Ui ₩3,4T + materiales de baterías de Ulsan ₩0,1T + semiconductores de IA de Pyeongtaek ₩2,5T + Rebellions ₩0,6T = ₩6,6T`
 
-Por tanto, la pregunta de partida correcta no es "¿dónde inyecta el gobierno ₩50T de inmediato?". La pregunta correcta es **¿qué canal de financiación desbloquea qué cuello de botella, y con qué rapidez?**
+Por tanto, la pregunta de partida correcta no es "¿dónde inyecta el gobierno ₩50T de inmediato?". La pregunta correcta es <strong>¿qué canal de financiación desbloquea qué cuello de botella, y con qué rapidez?</strong>
 
 ---
 
@@ -94,7 +94,7 @@ Esta estructura no levanta mecánicamente todo el mercado KOSDAQ. Repara la cade
 
 La pregunta central es:
 
-**¿En qué parte del KOSDAQ puede el capital de política pública traducirse en cifras operativas reales?**
+<strong>¿En qué parte del KOSDAQ puede el capital de política pública traducirse en cifras operativas reales?</strong>
 
 ---
 
@@ -126,7 +126,7 @@ Los materiales de política incluyen la infraestructura energética como eje cen
 
 LS ELECTRIC es el proxy cotizado más fácil de entender. La empresa reportó para el primer trimestre de 2026 ingresos consolidados de ₩1,3766T y beneficio operativo de ₩126,6B, mientras que la cartera de pedidos al cierre del trimestre se situó en ₩5,6T. La cobertura mediática atribuyó esta solidez a la inversión en centros de datos de IA, el capex en semiconductores y la demanda de infraestructura eléctrica impulsada por las energías renovables. [Chosun Biz][5]
 
-Sin embargo, los inversores deben ser prudentes. Muchos valores de equipos eléctricos ya han sido revalorizados. Aunque el Fondo Nacional de Crecimiento refuerze la narrativa, el mercado puede haber descontado ya una gran parte del ciclo global de redes eléctricas y centros de datos de IA. Los indicadores reales son **la cartera de pedidos, la composición de ingresos por centros de datos y la durabilidad del margen**, no la etiqueta política.
+Sin embargo, los inversores deben ser prudentes. Muchos valores de equipos eléctricos ya han sido revalorizados. Aunque el Fondo Nacional de Crecimiento refuerze la narrativa, el mercado puede haber descontado ya una gran parte del ciclo global de redes eléctricas y centros de datos de IA. Los indicadores reales son <strong>la cartera de pedidos, la composición de ingresos por centros de datos y la durabilidad del margen</strong>, no la etiqueta política.
 
 | Concepto | Visión |
 |---|---|
@@ -141,7 +141,7 @@ Sin embargo, los inversores deben ser prudentes. Muchos valores de equipos eléc
 
 K-Nvidia y la IA Soberana son titulares poderosos, pero el acceso cotizado es limitado. Rebellions, FuriosaAI, DEEPX y otros nombres domésticos de chips de IA son en su mayoría empresas privadas. ¿Dónde pueden mirar entonces los inversores en mercados públicos?
 
-La respuesta está en el **cuello de botella de implementación**. Incluso cuando las startups de chips de IA reciben capital, siguen necesitando servicios de diseño, verificación, interfaz con la fundición, packaging y transición a la producción en masa. Las design houses y las empresas de servicios ASIC se encuentran en este flujo de trabajo.
+La respuesta está en el <strong>cuello de botella de implementación</strong>. Incluso cuando las startups de chips de IA reciben capital, siguen necesitando servicios de diseño, verificación, interfaz con la fundición, packaging y transición a la producción en masa. Las design houses y las empresas de servicios ASIC se encuentran en este flujo de trabajo.
 
 ADTechnology es el nombre más claro en la lista de vigilancia cotizada. En su página de relaciones con inversores, a 22 de mayo de 2026, la empresa mostraba un precio de acción de ₩42.600, un PER de 153,24x y 13.462.007 acciones en circulación. El cálculo simple de capitalización bursátil arroja `₩42.600 × 13.462.007 = aproximadamente ₩573,5B`. [ADTechnology][6]
 
@@ -155,7 +155,7 @@ La lógica es atractiva, pero el precio no es fácil. Un PER de 153x significa q
 4. Mayor credibilidad de los procesos de vanguardia de Samsung Foundry
 5. Ingresos recurrentes en lugar de honorarios de proyectos puntuales
 
-La conclusión es **Lista de Vigilancia**. ADTechnology es uno de los proxies cotizados más interesantes para la expansión del ecosistema doméstico de semiconductores de IA, pero la evidencia de pedidos y producción reales debe llegar antes de perseguir el valor.
+La conclusión es <strong>Lista de Vigilancia</strong>. ADTechnology es uno de los proxies cotizados más interesantes para la expansión del ecosistema doméstico de semiconductores de IA, pero la evidencia de pedidos y producción reales debe llegar antes de perseguir el valor.
 
 ---
 
@@ -165,7 +165,7 @@ Para el KOSDAQ, los equipos OLED son una de las áreas más limpias vinculadas a
 
 Aunque el capital de política pública fluya hacia los grandes fabricantes de paneles, el alfa en mercados cotizados puede ser más nítido en los proveedores de equipos. Las empresas de paneles asumen el riesgo de demanda, amortización, utilización y competencia china. Los fabricantes de equipos ven cómo la decisión de inversión se traduce en pedidos y reconocimiento de ingresos.
 
-Las áreas de vigilancia incluyen Sunic System, AP System, equipos de inspección, equipos láser y equipos de logística. Pero la clave no es la etiqueta OLED. Son los **pedidos reales de equipos**.
+Las áreas de vigilancia incluyen Sunic System, AP System, equipos de inspección, equipos láser y equipos de logística. Pero la clave no es la etiqueta OLED. Son los <strong>pedidos reales de equipos</strong>.
 
 | Evidencia a Vigilar | Por Qué Importa |
 |---|---|
@@ -185,7 +185,7 @@ Los megaproyectos de la segunda ronda incluyen biotecnología de nueva generaci�
 
 El apoyo político a la biotecnología debe interpretarse de forma diferente al de los equipos o la infraestructura eléctrica. Puede reducir el coste de la financiación de la Fase 3 y limitar la dilución. No aumenta la eficacia, la seguridad ni la probabilidad de aprobación de un fármaco.
 
-Por tanto, el apoyo político a la biotecnología se trata mejor como una temática **impulsada por eventos** que como una compra sectorial generalizada.
+Por tanto, el apoyo político a la biotecnología se trata mejor como una temática <strong>impulsada por eventos</strong> que como una compra sectorial generalizada.
 
 | Concepto | Qué Comprobar |
 |---|---|
@@ -234,10 +234,10 @@ El capital de política pública es un telón de fondo favorable. Se convierte e
 
 Ranking de prioridad:
 
-1. **Infraestructura eléctrica**: La más cercana a la demanda real, pero la valoración importa.
-2. **Servicios de diseño de semiconductores de IA**: Proxy cotizado escaso, pero debe crecer hasta justificar su valoración.
-3. **Equipos OLED**: Alta sensibilidad de beneficios si el capital de política pública desbloquea el capex.
-4. **Biotech en fase avanzada**: Impulsado por eventos, no una apuesta sectorial generalizada.
+1. <strong>Infraestructura eléctrica</strong>: La más cercana a la demanda real, pero la valoración importa.
+2. <strong>Servicios de diseño de semiconductores de IA</strong>: Proxy cotizado escaso, pero debe crecer hasta justificar su valoración.
+3. <strong>Equipos OLED</strong>: Alta sensibilidad de beneficios si el capital de política pública desbloquea el capex.
+4. <strong>Biotech en fase avanzada</strong>: Impulsado por eventos, no una apuesta sectorial generalizada.
 
 ---
 
@@ -249,7 +249,7 @@ Reduce las brechas de financiación para empresas Pre-IPO y de cotización tempr
 
 El seguimiento del dinero inteligente del KOSDAQ es, por tanto:
 
-**No compres toda la cesta política. Encuentra las empresas de cuello de botella donde el capital de política pública se convierte en pedidos revelados, expansión, inversión o financiación.**
+<strong>No compres toda la cesta política. Encuentra las empresas de cuello de botella donde el capital de política pública se convierte en pedidos revelados, expansión, inversión o financiación.</strong>
 
 Las próximas cuatro cosas que esperar:
 

@@ -24,12 +24,12 @@ slug: ai-substrate-test-socket-data-comparison-2026-05-16
 
 ## Conclusiones clave
 
-* **En "precio puro"**: SK hynix (PER 2027E 5,2x), Samsung Electronics (5,6x), Haesung DS (15,4x). Pero las grandes memorias están dominadas por el riesgo de "pico de ciclo".
-* **En "múltiplo ajustado por crecimiento"**: Daeduck Electronics (PER 2027E 27,1x vs BO +34%) y Simmtech (20,0x vs BO +59%) ofrecen la ecuación más atractiva.
-* **"El precio ya ha hecho el trabajo"**: Samsung Electro-Mechanics (YTD 2026 +296%, PER 2026E 61,9x), Isu Petasys (+346% en 2025 pero solo +7% YTD 2026), Simmtech (+352% en 2025).
-* **"Calidad, pero múltiplo caro"**: LEENO Industrial (MO 48,6%, PER 2026E 41,2x), ISC (PER 2026E 58,5x).
-* **"Crecimiento a precio razonable"**: TSE (BO 2026E +82%, PER 29,4x).
-* **Conclusión**: dentro del back-end de IA, el atractivo se ordena así: **sustratos > zócalos de prueba > grandes memorias**. Dentro de los sustratos, Daeduck y Simmtech son los más claros.
+* <strong>En "precio puro"</strong>: SK hynix (PER 2027E 5,2x), Samsung Electronics (5,6x), Haesung DS (15,4x). Pero las grandes memorias están dominadas por el riesgo de "pico de ciclo".
+* <strong>En "múltiplo ajustado por crecimiento"</strong>: Daeduck Electronics (PER 2027E 27,1x vs BO +34%) y Simmtech (20,0x vs BO +59%) ofrecen la ecuación más atractiva.
+* <strong>"El precio ya ha hecho el trabajo"</strong>: Samsung Electro-Mechanics (YTD 2026 +296%, PER 2026E 61,9x), Isu Petasys (+346% en 2025 pero solo +7% YTD 2026), Simmtech (+352% en 2025).
+* <strong>"Calidad, pero múltiplo caro"</strong>: LEENO Industrial (MO 48,6%, PER 2026E 41,2x), ISC (PER 2026E 58,5x).
+* <strong>"Crecimiento a precio razonable"</strong>: TSE (BO 2026E +82%, PER 29,4x).
+* <strong>Conclusión</strong>: dentro del back-end de IA, el atractivo se ordena así: <strong>sustratos > zócalos de prueba > grandes memorias</strong>. Dentro de los sustratos, Daeduck y Simmtech son los más claros.
 
 ---
 
@@ -100,19 +100,19 @@ una matriz PER 2027E × BO interanual 2027E.
 
 ### 2.1 La comparación básica
 
-| Segmento | Nombre | Rent. 2025 | YTD 2026 | BO int. 2025 | BO int. 2026E | BO int. 2027E | PER 2026E | **PER 2027E** | MO 2026E |
+| Segmento | Nombre | Rent. 2025 | YTD 2026 | BO int. 2025 | BO int. 2026E | BO int. 2027E | PER 2026E | <strong>PER 2027E</strong> | MO 2026E |
 | --- | --- | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
-| Memoria | Samsung Electronics | +124,5% | +125,6% | +33,2% | +688,6% | +26,7% | 7,0x | **5,6x** | 51,1% |
-| Memoria | SK hynix | +280,3% | +179,4% | +101,2% | +433,1% | +36,0% | 6,8x | **5,2x** | 75,9% |
+| Memoria | Samsung Electronics | +124,5% | +125,6% | +33,2% | +688,6% | +26,7% | 7,0x | <strong>5,6x</strong> | 51,1% |
+| Memoria | SK hynix | +280,3% | +179,4% | +101,2% | +433,1% | +36,0% | 6,8x | <strong>5,2x</strong> | 75,9% |
 | Memoria | Jeju Semiconductor | +186,4% | +212,3% | +274,0% | n/d | n/d | n/d | n/d | n/d |
-| Zócalo de prueba | LEENO Industrial | +52,1% | +67,5% | +42,5% | +23,2% | +24,1% | 41,2x | **33,4x** | 48,6% |
-| Zócalo de prueba | ISC | +58,7% | +102,1% | +34,2% | +65,9% | +41,4% | 58,5x | **43,2x** | 31,8% |
-| Zócalo de prueba | TSE | +39,5% | +215,1% | +23,3% | +81,9% | +21,5% | 29,4x | **24,7x** | 17,0% |
-| Sustrato | Samsung Electro-Mechanics | +108,3% | +296,1% | +24,3% | +72,0% | +50,0% | 61,9x | **41,9x** | 11,8% |
-| Sustrato | Daeduck Electronics | +206,0% | +188,3% | +334,5% | +375,4% | +34,4% | 36,1x | **27,1x** | 15,5% |
-| Sustrato | Simmtech | +351,9% | +103,2% | pérdidas→beneficios | +1.234,5% | +58,7% | 31,0x | **20,0x** | 8,6% |
-| Sustrato | Haesung DS | +140,6% | +57,3% | -18,3% | +99,6% | +36,6% | 20,3x | **15,4x** | 11,4% |
-| Sustrato | Isu Petasys | +346,5% | +7,4% | +100,9% | +57,1% | +33,0% | 35,6x | **26,7x** | 21,1% |
+| Zócalo de prueba | LEENO Industrial | +52,1% | +67,5% | +42,5% | +23,2% | +24,1% | 41,2x | <strong>33,4x</strong> | 48,6% |
+| Zócalo de prueba | ISC | +58,7% | +102,1% | +34,2% | +65,9% | +41,4% | 58,5x | <strong>43,2x</strong> | 31,8% |
+| Zócalo de prueba | TSE | +39,5% | +215,1% | +23,3% | +81,9% | +21,5% | 29,4x | <strong>24,7x</strong> | 17,0% |
+| Sustrato | Samsung Electro-Mechanics | +108,3% | +296,1% | +24,3% | +72,0% | +50,0% | 61,9x | <strong>41,9x</strong> | 11,8% |
+| Sustrato | Daeduck Electronics | +206,0% | +188,3% | +334,5% | +375,4% | +34,4% | 36,1x | <strong>27,1x</strong> | 15,5% |
+| Sustrato | Simmtech | +351,9% | +103,2% | pérdidas→beneficios | +1.234,5% | +58,7% | 31,0x | <strong>20,0x</strong> | 8,6% |
+| Sustrato | Haesung DS | +140,6% | +57,3% | -18,3% | +99,6% | +36,6% | 20,3x | <strong>15,4x</strong> | 11,4% |
+| Sustrato | Isu Petasys | +346,5% | +7,4% | +100,9% | +57,1% | +33,0% | 35,6x | <strong>26,7x</strong> | 21,1% |
 
 ### 2.2 Cómo leerla
 
@@ -378,17 +378,17 @@ Reglas de asignación:
 
 | Posición | Nombre | En una línea |
 | ---: | --- | --- |
-| 1 | **Daeduck Electronics** | Mejor equilibrio entre crecimiento, liderazgo y múltiplo. Beta directa de IA MLB / FC-BGA. |
-| 2 | **Simmtech** | Mejor ecuación crecimiento-PER en 2027E. Necesita más expansión de margen en 2026 para confirmarse. |
-| 3 | **Haesung DS** | El candidato de sustrato más barato. Menor perfil de liderazgo, pero buena ecuación valor-crecimiento. |
-| 4 | **SK hynix** | El líder en memoria. Barato en pantalla; el riesgo de pico de ciclo es la variable determinante. |
-| 5 | **TSE** | Mejor valor-crecimiento dentro del grupo de zócalos de prueba. Pero YTD 2026 +215% — ya en marcha. |
-| 6 | **LEENO Industrial** | Máxima calidad, múltiplo lleno. Mejor como posición core a 1–2 años. |
-| 7 | **Samsung Electro-Mechanics** | Gran empresa, pero +296% YTD y PER 2026E 61,9x hacen ineficiente perseguirla. |
-| 8 | **ISC** | Crecimiento real, pero múltiplo más ajustado. La beta más pura de centros de datos de IA. |
-| 9 | **Isu Petasys** | Estructura sólida a largo plazo, pero +7% YTD — esperar recuperación de la fortaleza relativa. |
-| 10 | **Samsung Electronics** | Barata en números, pero el descuento frente a SK hynix en la narrativa HBM es real. |
-| 11 | **Jeju Semiconductor** | Acción y beneficios sólidos, pero sin consenso 2026–27 → excluida de la comparación directa. |
+| 1 | <strong>Daeduck Electronics</strong> | Mejor equilibrio entre crecimiento, liderazgo y múltiplo. Beta directa de IA MLB / FC-BGA. |
+| 2 | <strong>Simmtech</strong> | Mejor ecuación crecimiento-PER en 2027E. Necesita más expansión de margen en 2026 para confirmarse. |
+| 3 | <strong>Haesung DS</strong> | El candidato de sustrato más barato. Menor perfil de liderazgo, pero buena ecuación valor-crecimiento. |
+| 4 | <strong>SK hynix</strong> | El líder en memoria. Barato en pantalla; el riesgo de pico de ciclo es la variable determinante. |
+| 5 | <strong>TSE</strong> | Mejor valor-crecimiento dentro del grupo de zócalos de prueba. Pero YTD 2026 +215% — ya en marcha. |
+| 6 | <strong>LEENO Industrial</strong> | Máxima calidad, múltiplo lleno. Mejor como posición core a 1–2 años. |
+| 7 | <strong>Samsung Electro-Mechanics</strong> | Gran empresa, pero +296% YTD y PER 2026E 61,9x hacen ineficiente perseguirla. |
+| 8 | <strong>ISC</strong> | Crecimiento real, pero múltiplo más ajustado. La beta más pura de centros de datos de IA. |
+| 9 | <strong>Isu Petasys</strong> | Estructura sólida a largo plazo, pero +7% YTD — esperar recuperación de la fortaleza relativa. |
+| 10 | <strong>Samsung Electronics</strong> | Barata en números, pero el descuento frente a SK hynix en la narrativa HBM es real. |
+| 11 | <strong>Jeju Semiconductor</strong> | Acción y beneficios sólidos, pero sin consenso 2026–27 → excluida de la comparación directa. |
 
 ### 6.2 Lista de verificación previa a la entrada
 
@@ -522,15 +522,15 @@ Artículo sobre el crash del KOSPI + filtro macro:
 
 ## 9. La conclusión en una línea
 
-Incluso entre los "ganadores del back-end de IA", cuánto precio ya ha hecho el trabajo difiere enormemente. **PER bajo solo ≠ atractivo.** Un PER bajo puede significar "el mercado teme que el ciclo esté llegando al techo" (memoria) o "el mercado aún no ha entrado" (valores en recuperación).
+Incluso entre los "ganadores del back-end de IA", cuánto precio ya ha hecho el trabajo difiere enormemente. <strong>PER bajo solo ≠ atractivo.</strong> Un PER bajo puede significar "el mercado teme que el ciclo esté llegando al techo" (memoria) o "el mercado aún no ha entrado" (valores en recuperación).
 
-Alineados en una tabla, el panorama es claro. En una matriz **PER × crecimiento del BO**, los mejores escenarios son **Simmtech, Daeduck Electronics y Haesung DS**. Los tres son valores de sustratos — y no es casualidad. Los sustratos están en mitad de un ciclo de "escasez → subida de ASP → expansión de márgenes".
+Alineados en una tabla, el panorama es claro. En una matriz <strong>PER × crecimiento del BO</strong>, los mejores escenarios son <strong>Simmtech, Daeduck Electronics y Haesung DS</strong>. Los tres son valores de sustratos — y no es casualidad. Los sustratos están en mitad de un ciclo de "escasez → subida de ASP → expansión de márgenes".
 
-Dentro de los zócalos de prueba, **LEENO Industrial es el líder en calidad pero el múltiplo está lleno; ISC es la beta más pura de centros de datos de IA pero con el múltiplo más ajustado**. Para la mejor ecuación precio-crecimiento en una nueva entrada, **TSE** es la opción de valor.
+Dentro de los zócalos de prueba, <strong>LEENO Industrial es el líder en calidad pero el múltiplo está lleno; ISC es la beta más pura de centros de datos de IA pero con el múltiplo más ajustado</strong>. Para la mejor ecuación precio-crecimiento en una nueva entrada, <strong>TSE</strong> es la opción de valor.
 
-Las grandes memorias muestran **números impresionantes pero un debate de pico de ciclo** en su núcleo. El PER 2027E 5,2x de SK hynix implicaría riesgo de quiebra en una industria normal; en memoria significa "el mercado duda de la durabilidad de los beneficios". Si el ciclo persiste, la subida potencial es enorme; en cuanto gira, el múltiplo se expande automáticamente.
+Las grandes memorias muestran <strong>números impresionantes pero un debate de pico de ciclo</strong> en su núcleo. El PER 2027E 5,2x de SK hynix implicaría riesgo de quiebra en una industria normal; en memoria significa "el mercado duda de la durabilidad de los beneficios". Si el ciclo persiste, la subida potencial es enorme; en cuanto gira, el múltiplo se expande automáticamente.
 
-**Al precio de hoy, el orden racional para el capital nuevo es sustratos > zócalos de prueba > grandes memorias.** Dentro de los sustratos, **Daeduck Electronics (prima de liderazgo) y Simmtech (valor de recuperación)** son los más claros. Sea cual sea la elección, **incorporar posiciones solo después de que el filtro macro se despeje**. Comprar una buena empresa al precio correcto es el verdadero trabajo.
+<strong>Al precio de hoy, el orden racional para el capital nuevo es sustratos > zócalos de prueba > grandes memorias.</strong> Dentro de los sustratos, <strong>Daeduck Electronics (prima de liderazgo) y Simmtech (valor de recuperación)</strong> son los más claros. Sea cual sea la elección, <strong>incorporar posiciones solo después de que el filtro macro se despeje</strong>. Comprar una buena empresa al precio correcto es el verdadero trabajo.
 
 ---
 

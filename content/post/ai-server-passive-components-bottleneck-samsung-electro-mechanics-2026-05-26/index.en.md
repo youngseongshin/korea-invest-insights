@@ -27,15 +27,15 @@ valley_cashtag_exclude:
 
 ## TL;DR
 
-- **The AI server passive-component bottleneck is not a GPU shortage.** It is the need for more and higher-spec parts that buffer, filter, and stabilize the power that GPUs consume.
-- Think of an AI server as a high-performance engine. **MLCCs, silicon capacitors, and inductors are the fuel-pressure regulators, shock absorbers, and filters.**
-- NVIDIA says a DGX GB200 rack consumes roughly **120kW**. Lenovo’s GB300 NVL72 guide cites **135kW TDP** and up to **155kW peak** per rack. ([NVIDIA][1], [Lenovo][2])
-- The investable bottleneck is not generic MLCC. It is **high-capacitance, low-ESR, low-noise, low-profile AI server components**.
-- Samsung Electro-Mechanics matters because it can connect **MLCC + FC-BGA + silicon capacitors** in one AI package power-integrity stack.
+- <strong>The AI server passive-component bottleneck is not a GPU shortage.</strong> It is the need for more and higher-spec parts that buffer, filter, and stabilize the power that GPUs consume.
+- Think of an AI server as a high-performance engine. <strong>MLCCs, silicon capacitors, and inductors are the fuel-pressure regulators, shock absorbers, and filters.</strong>
+- NVIDIA says a DGX GB200 rack consumes roughly <strong>120kW</strong>. Lenovo’s GB300 NVL72 guide cites <strong>135kW TDP</strong> and up to <strong>155kW peak</strong> per rack. ([NVIDIA][1], [Lenovo][2])
+- The investable bottleneck is not generic MLCC. It is <strong>high-capacitance, low-ESR, low-noise, low-profile AI server components</strong>.
+- Samsung Electro-Mechanics matters because it can connect <strong>MLCC + FC-BGA + silicon capacitors</strong> in one AI package power-integrity stack.
 
 ## One-Sentence Explanation
 
-**AI server passive-component bottlenecks mean GPUs now draw such large and fast-changing currents that the small parts stabilizing voltage near the chip become a performance bottleneck.**
+<strong>AI server passive-component bottlenecks mean GPUs now draw such large and fast-changing currents that the small parts stabilizing voltage near the chip become a performance bottleneck.</strong>
 
 GPU performance is usually explained through GPUs, HBM, and networking. That is true, but those chips need a stable power base. When GPU load changes, current can swing rapidly. If voltage droops or noise spikes, the system can lose performance or stability.
 
@@ -43,17 +43,17 @@ GPU performance is usually explained through GPUs, HBM, and networking. That is 
 
 | Component | Simple analogy | Role in an AI server |
 |---|---|---|
-| **MLCC / capacitor** | Water tank, shock absorber | Buffers current and absorbs voltage noise near chips and boards |
-| **Silicon capacitor** | Tiny emergency battery next to the GPU | Stabilizes power inside or very near GPU/HBM packages |
-| **Inductor** | Current inertia device | Smooths current in voltage conversion |
-| **Resistor / filter / ferrite** | Speed limiter, noise filter | Reduces noise on high-speed signal and power lines |
-| **VRM-side parts** | Power kitchen for the GPU | Converts 48V/12V rails into sub-1V GPU voltage |
+| <strong>MLCC / capacitor</strong> | Water tank, shock absorber | Buffers current and absorbs voltage noise near chips and boards |
+| <strong>Silicon capacitor</strong> | Tiny emergency battery next to the GPU | Stabilizes power inside or very near GPU/HBM packages |
+| <strong>Inductor</strong> | Current inertia device | Smooths current in voltage conversion |
+| <strong>Resistor / filter / ferrite</strong> | Speed limiter, noise filter | Reduces noise on high-speed signal and power lines |
+| <strong>VRM-side parts</strong> | Power kitchen for the GPU | Converts 48V/12V rails into sub-1V GPU voltage |
 
-TDK describes the data-center power chain as **UPS → PSU → IBC → VRM → CPU/GPU voltage**, with efficiency, ripple, heat tolerance, and long-term reliability required at every step. ([TDK][3])
+TDK describes the data-center power chain as <strong>UPS → PSU → IBC → VRM → CPU/GPU voltage</strong>, with efficiency, ripple, heat tolerance, and long-term reliability required at every step. ([TDK][3])
 
 ## Why AI Servers Changed the Bottleneck
 
-GPUs and CPUs can run below **1V**, while current can change by tens to hundreds of amperes depending on load. Samsung Electro-Mechanics says high-capacitance MLCCs near the GPU must act as current buffers for stable operation. ([Samsung Electro-Mechanics][4])
+GPUs and CPUs can run below <strong>1V</strong>, while current can change by tens to hundreds of amperes depending on load. Samsung Electro-Mechanics says high-capacitance MLCCs near the GPU must act as current buffers for stable operation. ([Samsung Electro-Mechanics][4])
 
 The bigger issue is peak power, not only average power. NVIDIA’s GB300 NVL72 PSU with energy storage is designed to smooth AI workload power spikes and reduce peak grid demand by up to 30%. ([NVIDIA Developer][5])
 
@@ -66,7 +66,7 @@ That logic travels down the stack. Rack-level power smoothing matters, but chip-
 | MLCC | Many places on board and near chips | Broad power stabilization | Fire extinguishers placed across the building |
 | Silicon capacitor | Inside or right next to GPU/HBM package | Ultra-close transient suppression | Fuel-pressure control next to the engine cylinder |
 
-Samsung Electro-Mechanics announced a roughly **KRW 1.5 trillion** silicon-capacitor supply contract for **2027-2028**. The company says the product improves power stability inside high-performance AI server semiconductor packages and has far lower ESL/ESR than conventional MLCCs. ([Samsung Electro-Mechanics][8])
+Samsung Electro-Mechanics announced a roughly <strong>KRW 1.5 trillion</strong> silicon-capacitor supply contract for <strong>2027-2028</strong>. The company says the product improves power stability inside high-performance AI server semiconductor packages and has far lower ESL/ESR than conventional MLCCs. ([Samsung Electro-Mechanics][8])
 
 ## Samsung Electro-Mechanics Read-Through
 
@@ -79,7 +79,7 @@ AI rack power rises
   → high-end MLCC, FC-BGA, and silicon capacitors gain strategic value
 ```
 
-That is why SEMCO’s rerating is tied to **AI package power integrity**, not only the legacy smartphone component cycle.
+That is why SEMCO’s rerating is tied to <strong>AI package power integrity</strong>, not only the legacy smartphone component cycle.
 
 The KPIs to watch:
 
@@ -97,11 +97,11 @@ That is the technical foundation behind the Samsung Electro-Mechanics, Murata, a
 
 ## Evidence Map
 
-**Facts:** NVIDIA GB200 rack power, Lenovo GB300 rack power, TDK power-chain architecture, Samsung Electro-Mechanics AI MLCC and silicon-capacitor disclosures.
+<strong>Facts:</strong> NVIDIA GB200 rack power, Lenovo GB300 rack power, TDK power-chain architecture, Samsung Electro-Mechanics AI MLCC and silicon-capacitor disclosures.
 
-**Inference:** The bottleneck is a combination of higher quantity, higher specification, closer placement, and harder qualification.
+<strong>Inference:</strong> The bottleneck is a combination of higher quantity, higher specification, closer placement, and harder qualification.
 
-**Blocked:** SEMCO’s exact silicon-capacitor customer, product margins, and platform-by-platform backlog are not public.
+<strong>Blocked:</strong> SEMCO’s exact silicon-capacitor customer, product margins, and platform-by-platform backlog are not public.
 
 [1]: https://docs.nvidia.com/dgx/dgxgb200-user-guide/hardware.html "Hardware — NVIDIA DGX GB Rack Scale Systems User Guide"
 [2]: https://lenovopress.lenovo.com/lp2357-lenovo-nvidia-gb300-nvl72-rack-scale-ai "Lenovo NVIDIA GB300 NVL72 Rack Scale AI Product Guide"

@@ -11,7 +11,7 @@ draft: false
 
 # Samsung Heavy Industries (010140.KS) : Le monopoleur FLNG au cœur du commerce mondial du gaz
 
-Samsung Heavy Industries (삼성중공업, ticker **010140.KS**, KOSPI), ce n'est pas le Samsung de votre Galaxy — mais c'est peut-être le Samsung qui va alimenter en gaz chaque continent pour les deux prochaines décennies. En tant que constructeur le plus techniquement avancé au monde de méthaniers et d'usines flottantes de gaz naturel liquéfié (FLNG), Samsung Heavy Industries se trouve au croisement de trois forces macrostructurelles qui agissent simultanément : le remodelage permanent de l'approvisionnement énergétique européen après la rupture avec les gazoducs russes, une vague relancée d'autorisations d'exportation de GNL américain, et un cycle d'investissement dans le gaz offshore comprimé depuis des années. Pour les investisseurs internationaux en quête d'exposition industrielle à la couche infrastructurelle de la transition énergétique — et non à ses récits vedettes sur les batteries — ce chantier naval coréen mérite un examen sérieux et approfondi.
+Samsung Heavy Industries (삼성중공업, ticker <strong>010140.KS</strong>, KOSPI), ce n'est pas le Samsung de votre Galaxy — mais c'est peut-être le Samsung qui va alimenter en gaz chaque continent pour les deux prochaines décennies. En tant que constructeur le plus techniquement avancé au monde de méthaniers et d'usines flottantes de gaz naturel liquéfié (FLNG), Samsung Heavy Industries se trouve au croisement de trois forces macrostructurelles qui agissent simultanément : le remodelage permanent de l'approvisionnement énergétique européen après la rupture avec les gazoducs russes, une vague relancée d'autorisations d'exportation de GNL américain, et un cycle d'investissement dans le gaz offshore comprimé depuis des années. Pour les investisseurs internationaux en quête d'exposition industrielle à la couche infrastructurelle de la transition énergétique — et non à ses récits vedettes sur les batteries — ce chantier naval coréen mérite un examen sérieux et approfondi.
 
 ---
 
@@ -19,17 +19,17 @@ Samsung Heavy Industries (삼성중공업, ticker **010140.KS**, KOSPI), ce n'es
 
 | Champ | Détail |
 |---|---|
-| **Raison sociale** | Samsung Heavy Industries Co., Ltd. (삼성중공업 주식회사) |
-| **Ticker** | 010140.KS |
-| **Bourse** | Korea Stock Exchange (KOSPI) |
-| **Secteur** | Industrie — Équipements lourds / Construction navale |
-| **Siège social** | Geoje, Corée du Sud |
-| **Fondée en** | 1974 |
-| **Produits phares** | Méthaniers, terminaux FLNG, navires de forage, GNL-FSRU, pétroliers brise-glace, porte-conteneurs géants |
-| **Chiffre d'affaires FY2024** | \~KRW 9,9 billions (\~USD 7,1 milliards) |
-| **Actionnaire de contrôle** | Samsung C&T (삼성물산) |
+| <strong>Raison sociale</strong> | Samsung Heavy Industries Co., Ltd. (삼성중공업 주식회사) |
+| <strong>Ticker</strong> | 010140.KS |
+| <strong>Bourse</strong> | Korea Stock Exchange (KOSPI) |
+| <strong>Secteur</strong> | Industrie — Équipements lourds / Construction navale |
+| <strong>Siège social</strong> | Geoje, Corée du Sud |
+| <strong>Fondée en</strong> | 1974 |
+| <strong>Produits phares</strong> | Méthaniers, terminaux FLNG, navires de forage, GNL-FSRU, pétroliers brise-glace, porte-conteneurs géants |
+| <strong>Chiffre d'affaires FY2024</strong> | \~KRW 9,9 billions (\~USD 7,1 milliards) |
+| <strong>Actionnaire de contrôle</strong> | Samsung C&T (삼성물산) |
 
-**En deux mots.** Samsung Heavy Industries (SHI) est l'un des trois seuls chantiers navals au monde capables de concevoir, construire et livrer une usine flottante de GNL — un navire-usine offshore ancré au-dessus d'un gisement sous-marin, qui liquéfie le gaz en mer et le transfère directement sur des méthaniers. Cette barrière technique est réelle, pas un argument marketing. Tandis que HD Hyundai et Hanwha Ocean se livrent une concurrence acharnée sur les volumes — porte-conteneurs, pétroliers, méthaniers classiques — SHI a délibérément concentré son positionnement sur le segment le plus complexe et à plus forte marge de toute l'industrie navale. À mesure que le commerce mondial du GNL s'oriente vers 700 millions de tonnes par an d'ici 2040 (Shell LNG Outlook), chaque nouveau projet de monétisation offshore, chaque méthanier vieillissant retiré du service, et chaque champ de gaz stranded débloqué par la technologie FLNG représente une commande potentielle de plusieurs milliards de dollars pour cette entreprise.
+<strong>En deux mots.</strong> Samsung Heavy Industries (SHI) est l'un des trois seuls chantiers navals au monde capables de concevoir, construire et livrer une usine flottante de GNL — un navire-usine offshore ancré au-dessus d'un gisement sous-marin, qui liquéfie le gaz en mer et le transfère directement sur des méthaniers. Cette barrière technique est réelle, pas un argument marketing. Tandis que HD Hyundai et Hanwha Ocean se livrent une concurrence acharnée sur les volumes — porte-conteneurs, pétroliers, méthaniers classiques — SHI a délibérément concentré son positionnement sur le segment le plus complexe et à plus forte marge de toute l'industrie navale. À mesure que le commerce mondial du GNL s'oriente vers 700 millions de tonnes par an d'ici 2040 (Shell LNG Outlook), chaque nouveau projet de monétisation offshore, chaque méthanier vieillissant retiré du service, et chaque champ de gaz stranded débloqué par la technologie FLNG représente une commande potentielle de plusieurs milliards de dollars pour cette entreprise.
 
 ---
 
@@ -39,11 +39,11 @@ Samsung Heavy Industries (삼성중공업, ticker **010140.KS**, KOSPI), ce n'es
 
 Les anciens cycles de la construction navale étaient brutaux : boom, surcapacité, effondrement, et ainsi de suite. Le cycle actuel a une toute autre nature. Trois forces structurelles se compriment simultanément d'une façon que le secteur n'avait pas connue depuis une génération.
 
-**Force 1 — Le pivot européen permanent vers le GNL.** La rupture de l'approvisionnement en gaz russe par gazoduc après 2022 n'est pas une perturbation passagère ; c'est un remodelage permanent de la carte énergétique européenne. Les services publics européens ont signé des contrats d'approvisionnement en GNL à long terme avec des producteurs américains, qatariens et australiens jusqu'au milieu des années 2030. Chaque nouveau terminal de liquéfaction — qu'il soit en Louisiane ou dans le North Field du Qatar — nécessite une flotte dédiée de méthaniers pour acheminer la marchandise vers les terminaux d'importation européens. DNV projette que la seule consommation de GNL comme carburant marin passera de 3,7 millions de tonnes en 2023 à plus de 10 millions de tonnes d'ici 2027. La couche physique du transport maritime est irremplaçable.
+<strong>Force 1 — Le pivot européen permanent vers le GNL.</strong> La rupture de l'approvisionnement en gaz russe par gazoduc après 2022 n'est pas une perturbation passagère ; c'est un remodelage permanent de la carte énergétique européenne. Les services publics européens ont signé des contrats d'approvisionnement en GNL à long terme avec des producteurs américains, qatariens et australiens jusqu'au milieu des années 2030. Chaque nouveau terminal de liquéfaction — qu'il soit en Louisiane ou dans le North Field du Qatar — nécessite une flotte dédiée de méthaniers pour acheminer la marchandise vers les terminaux d'importation européens. DNV projette que la seule consommation de GNL comme carburant marin passera de 3,7 millions de tonnes en 2023 à plus de 10 millions de tonnes d'ici 2027. La couche physique du transport maritime est irremplaçable.
 
-**Force 2 — La relance du GNL par l'administration Trump.** Le gel des nouvelles autorisations d'exportation de GNL vers des pays non signataires d'accords de libre-échange, décidé par l'administration Biden en 2024, avait bloqué un nombre considérable de décisions finales d'investissement (FID). Le revirement de l'administration Trump a débloqué des projets comme Plaquemines LNG Phase 2, CP2 LNG et Lake Charles LNG. Chaque projet sanctionné déclenche des commandes de méthaniers dédiés dans un délai de 18 à 24 mois après la FID. Selon le rapport annuel FY2025 de SHI déposé auprès de DART (사업보고서 2025.12), les nouvelles commandes de méthaniers ont amorcé une reprise significative au second semestre 2025, précisément au moment où le momentum des FID se renforçait. Ce n'est pas spéculatif : les commandes sont signées.
+<strong>Force 2 — La relance du GNL par l'administration Trump.</strong> Le gel des nouvelles autorisations d'exportation de GNL vers des pays non signataires d'accords de libre-échange, décidé par l'administration Biden en 2024, avait bloqué un nombre considérable de décisions finales d'investissement (FID). Le revirement de l'administration Trump a débloqué des projets comme Plaquemines LNG Phase 2, CP2 LNG et Lake Charles LNG. Chaque projet sanctionné déclenche des commandes de méthaniers dédiés dans un délai de 18 à 24 mois après la FID. Selon le rapport annuel FY2025 de SHI déposé auprès de DART (사업보고서 2025.12), les nouvelles commandes de méthaniers ont amorcé une reprise significative au second semestre 2025, précisément au moment où le momentum des FID se renforçait. Ce n'est pas spéculatif : les commandes sont signées.
 
-**Force 3 — La monétisation du gaz offshore via le FLNG.** La décennie de sous-investissement dans la production offshore pendant la période des bas prix du pétrole a laissé d'immenses réserves de gaz stranded — notamment au large des côtes africaines, d'Asie du Sud-Est et de Méditerranée orientale — qui ne disposent pas de l'infrastructure terrestre nécessaire à un développement traditionnel par gazoduc. La technologie FLNG résout ce problème en déployant une usine de traitement flottante et autonome directement au-dessus du gisement. SHI est le constructeur dominant de ces actifs. L'analyste de LS Securities Lee Jae-hyuk (janvier 2026) estimait que SHI disposait de plus de **USD 7 milliards de commandes FLNG** dans son pipeline 2026, un chiffre sans précédent au regard de toute période comparable.
+<strong>Force 3 — La monétisation du gaz offshore via le FLNG.</strong> La décennie de sous-investissement dans la production offshore pendant la période des bas prix du pétrole a laissé d'immenses réserves de gaz stranded — notamment au large des côtes africaines, d'Asie du Sud-Est et de Méditerranée orientale — qui ne disposent pas de l'infrastructure terrestre nécessaire à un développement traditionnel par gazoduc. La technologie FLNG résout ce problème en déployant une usine de traitement flottante et autonome directement au-dessus du gisement. SHI est le constructeur dominant de ces actifs. L'analyste de LS Securities Lee Jae-hyuk (janvier 2026) estimait que SHI disposait de plus de <strong>USD 7 milliards de commandes FLNG</strong> dans son pipeline 2026, un chiffre sans précédent au regard de toute période comparable.
 
 ### Avantage concurrentiel face aux acteurs mondiaux
 
@@ -53,7 +53,7 @@ Le marché mondial de la construction navale est fonctionnellement un duopole Co
 |---|---|---|
 | Hyundai Samho | 25,3 % | Porte-conteneurs, vraquiers |
 | Hanwha Ocean | 24,6 % | Méthaniers, sous-marins |
-| **Samsung Heavy Industries** | **20,2 %** | **FLNG, méthaniers, navires de forage** |
+| <strong>Samsung Heavy Industries</strong> | <strong>20,2 %</strong> | <strong>FLNG, méthaniers, navires de forage</strong> |
 | HD Hyundai Heavy Industries | 14,7 % | Volume, pétroliers, gaziers |
 | Hyundai Mipo | 9,7 % | Navires de taille intermédiaire, pétroliers chimiquiers |
 
@@ -61,7 +61,7 @@ Le marché mondial de la construction navale est fonctionnellement un duopole Co
 
 La part de tonnage brut sous-estime le positionnement en valeur de SHI. Les terminaux FLNG et les grands méthaniers commandent des valeurs contractuelles 3 à 5 fois plus élevées par tonne de jauge brute compensée que les vraquiers ou les porte-conteneurs. Aucun chantier naval chinois ne construit actuellement de FLNG à l'échelle commerciale — la barrière technologique englobe l'ingénierie cryogénique, l'intégration des topsides offshore et des décennies de savoir-faire propriétaire qui ne peuvent être reproduits rapidement.
 
-Un développement d'importance stratégique est intervenu en avril 2026 : SHI a été signalé (UPI) comme ayant rejoint un **programme de maintenance et de réparation navale de l'U.S. Navy** — une entrée formelle des chantiers coréens dans l'écosystème de construction navale de défense américaine. L'optionnalité de revenus à long terme découlant de ce partenariat commence à peine à être intégrée par le marché.
+Un développement d'importance stratégique est intervenu en avril 2026 : SHI a été signalé (UPI) comme ayant rejoint un <strong>programme de maintenance et de réparation navale de l'U.S. Navy</strong> — une entrée formelle des chantiers coréens dans l'écosystème de construction navale de défense américaine. L'optionnalité de revenus à long terme découlant de ce partenariat commence à peine à être intégrée par le marché.
 
 ---
 
@@ -71,7 +71,7 @@ Un développement d'importance stratégique est intervenu en avril 2026 : SHI a 
 
 Le modèle de revenus de SHI est piloté par le carnet de commandes : les contrats signés aujourd'hui se traduisent par des revenus reconnus sur des cycles de construction de 2 à 4 ans, au fur et à mesure que les navires franchissent les jalons de construction. Cela crée une visibilité élevée sur les revenus, mais aussi de longs cycles opérationnels où l'inflation des coûts des intrants peut éroder les marges si elle n'est pas couverte.
 
-**Revenus par segment (FY2024, approx.) :**
+<strong>Revenus par segment (FY2024, approx.) :</strong>
 
 | Segment | Part du chiffre d'affaires | Tendance |
 |---|---|---|
@@ -84,11 +84,11 @@ Géographiquement, le carnet de commandes est mondial par nature — les clients
 
 ### Principaux moteurs de croissance pour les 12 à 24 prochains mois
 
-1. **Conversion du carnet FLNG.** Le pipeline FLNG de plusieurs milliards de dollars attendu pour se matérialiser courant 2026 pourrait, s'il se confirme, porter le carnet de commandes total de SHI à des niveaux records sur plusieurs années, assurant une reconnaissance des revenus bien au-delà de 2029–2030.
+1. <strong>Conversion du carnet FLNG.</strong> Le pipeline FLNG de plusieurs milliards de dollars attendu pour se matérialiser courant 2026 pourrait, s'il se confirme, porter le carnet de commandes total de SHI à des niveaux records sur plusieurs années, assurant une reconnaissance des revenus bien au-delà de 2029–2030.
 
-2. **Cycle de remplacement des méthaniers.** Une part significative de la flotte mondiale de méthaniers a été construite entre 2000 et 2010. Alors que ces navires approchent de leurs inspections à 20 ans et font face à des réglementations IMO de plus en plus strictes sur l'intensité carbone, les commandes de remplacement devraient s'accélérer à partir de 2025.
+2. <strong>Cycle de remplacement des méthaniers.</strong> Une part significative de la flotte mondiale de méthaniers a été construite entre 2000 et 2010. Alors que ces navires approchent de leurs inspections à 20 ans et font face à des réglementations IMO de plus en plus strictes sur l'intensité carbone, les commandes de remplacement devraient s'accélérer à partir de 2025.
 
-3. **Adjacence avec la défense américaine.** Le partenariat MRO avec la Navy, s'il prend de l'ampleur, introduit un flux de revenus récurrent et à marge stable, structurellement non corrélé au cycle du transport maritime civil.
+3. <strong>Adjacence avec la défense américaine.</strong> Le partenariat MRO avec la Navy, s'il prend de l'ampleur, introduit un flux de revenus récurrent et à marge stable, structurellement non corrélé au cycle du transport maritime civil.
 
 ### Profil de marges
 
@@ -144,7 +144,7 @@ Ce n'est pas bon marché au sens absolu — la revalorisation depuis le point ba
 
 ### Accès direct via KRX
 
-Samsung Heavy Industries est cotée sur la Korea Stock Exchange (KRX) sous le ticker **010140**. Les investisseurs étrangers peuvent y accéder directement via des courtiers disposant d'un accès au marché coréen (Interactive Brokers, Saxo Bank et la plupart des grands prime brokers asiatiques prennent en charge le règlement KRX). Le règlement est J+2 en won coréen (KRW). Les dépôts réglementaires sont en coréen mais disponibles via DART ([dart.fss.or.kr](https://dart.fss.or.kr)), avec un support de traduction automatique de plus en plus viable pour l'analyse des états financiers.
+Samsung Heavy Industries est cotée sur la Korea Stock Exchange (KRX) sous le ticker <strong>010140</strong>. Les investisseurs étrangers peuvent y accéder directement via des courtiers disposant d'un accès au marché coréen (Interactive Brokers, Saxo Bank et la plupart des grands prime brokers asiatiques prennent en charge le règlement KRX). Le règlement est J+2 en won coréen (KRW). Les dépôts réglementaires sont en coréen mais disponibles via DART ([dart.fss.or.kr](https://dart.fss.or.kr)), avec un support de traduction automatique de plus en plus viable pour l'analyse des états financiers.
 
 ### ADR / GDR
 
@@ -154,33 +154,33 @@ Samsung Heavy Industries ne dispose pas actuellement d'un programme ADR sponsori
 
 Plusieurs ETF axés sur la Corée et les industriels mondiaux détiennent SHI comme constituant :
 
-- **iShares MSCI South Korea ETF (EWY)** — couverture large du KOSPI ; SHI y représente généralement une position de poids faible à intermédiaire
-- **ETF thématiques centrés sur la Corée** (industriels, construction navale, infrastructure énergétique) — vérifier les compositions actuelles sur les sites des gérants, car les pondérations évoluent avec les rééquilibrages d'indices
-- **ETF industriels mondiaux** à orientation marchés émergents — SHI apparaît parfois dans des paniers industriels EM plus larges
+- <strong>iShares MSCI South Korea ETF (EWY)</strong> — couverture large du KOSPI ; SHI y représente généralement une position de poids faible à intermédiaire
+- <strong>ETF thématiques centrés sur la Corée</strong> (industriels, construction navale, infrastructure énergétique) — vérifier les compositions actuelles sur les sites des gérants, car les pondérations évoluent avec les rééquilibrages d'indices
+- <strong>ETF industriels mondiaux</strong> à orientation marchés émergents — SHI apparaît parfois dans des paniers industriels EM plus larges
 
 Pour les investisseurs souhaitant une exposition spécifique à la construction navale sans prendre le risque total d'un titre unique, les ETF du secteur industriel coréen offrent un point d'entrée raisonnablement diversifié.
 
 ### Notes pratiques pour les investisseurs étrangers
 
-- **Risque de change :** Les revenus sont libellés en USD (contrats), les coûts en KRW (main-d'œuvre, acier domestique). Une appréciation du KRW face au USD constitue un frein ; une dépréciation du KRW est un catalyseur pour la rentabilité publiée. Surveillez le KRW/USD parallèlement à la thèse d'investissement.
-- **Langue des publications :** Les rapports annuels (사업보고서) et trimestriels (분기보고서) sont déposés en coréen sur DART. SHI publie des présentations investisseurs en anglais via sa page IR ; pour les données financières les plus granulaires, les dépôts DART en coréen restent la source primaire.
-- **Gouvernance d'entreprise :** SHI fait partie du conglomérat Samsung Group, contrôlé via Samsung C&T. Les investisseurs doivent être conscients de la structure de gouvernance des conglomérats coréens (재벌), qui peut impliquer des participations croisées complexes et des décisions prises avec une logique de groupe.
-- **Risques spécifiques à la Corée :** Le KOSPI est sensible aux fluctuations KRW/USD, aux risques liés à la Corée du Nord et aux épisodes d'aversion au risque mondial qui déclenchent des sorties institutionnelles étrangères des marchés émergents. Ces superpositions macro peuvent déconnecter le cours de bourse des fondamentaux à court terme.
+- <strong>Risque de change :</strong> Les revenus sont libellés en USD (contrats), les coûts en KRW (main-d'œuvre, acier domestique). Une appréciation du KRW face au USD constitue un frein ; une dépréciation du KRW est un catalyseur pour la rentabilité publiée. Surveillez le KRW/USD parallèlement à la thèse d'investissement.
+- <strong>Langue des publications :</strong> Les rapports annuels (사업보고서) et trimestriels (분기보고서) sont déposés en coréen sur DART. SHI publie des présentations investisseurs en anglais via sa page IR ; pour les données financières les plus granulaires, les dépôts DART en coréen restent la source primaire.
+- <strong>Gouvernance d'entreprise :</strong> SHI fait partie du conglomérat Samsung Group, contrôlé via Samsung C&T. Les investisseurs doivent être conscients de la structure de gouvernance des conglomérats coréens (재벌), qui peut impliquer des participations croisées complexes et des décisions prises avec une logique de groupe.
+- <strong>Risques spécifiques à la Corée :</strong> Le KOSPI est sensible aux fluctuations KRW/USD, aux risques liés à la Corée du Nord et aux épisodes d'aversion au risque mondial qui déclenchent des sorties institutionnelles étrangères des marchés émergents. Ces superpositions macro peuvent déconnecter le cours de bourse des fondamentaux à court terme.
 
 ---
 
 ## Questions fréquemment posées
 
-**Samsung Heavy Industries est-elle un bon investissement ?**
+<strong>Samsung Heavy Industries est-elle un bon investissement ?</strong>
 Cette analyse ne constitue pas un conseil en investissement. Ce que les données montrent, c'est que SHI occupe une niche techniquement défendable dans un marché mondial du GNL en croissance structurelle, avec un carnet de commandes en redressement et une trajectoire de marges alignée sur un cycle pluriannuel. Les investisseurs doivent l'évaluer au regard de leur propre tolérance au risque, de leur horizon de placement et de leurs besoins de construction de portefeuille.
 
-**Comment acheter des actions Samsung Heavy Industries ?**
+<strong>Comment acheter des actions Samsung Heavy Industries ?</strong>
 L'achat direct nécessite un compte de courtage avec accès au KRX. Le ticker est 010140 sur la Korea Stock Exchange. Il n'existe pas d'ADR majeur sponsorisé. L'exposition via EWY ou des ETF industriels axés sur la Corée est une alternative pour les investisseurs sans accès direct au KRX.
 
-**Quel est le principal produit de Samsung Heavy Industries ?**
+<strong>Quel est le principal produit de Samsung Heavy Industries ?</strong>
 Les méthaniers GNL (Gaz Naturel Liquéfié) et les terminaux GNL flottants (FLNG) constituent les lignes de produits à plus forte valeur et les plus stratégiquement significatives de la société. SHI construit également des navires de forage, des unités GNL-FSRU, des pétroliers brise-glace et des porte-conteneurs géants.
 
-**En quoi Samsung Heavy Industries diffère-t-elle de Samsung Electronics ?**
+<strong>En quoi Samsung Heavy Industries diffère-t-elle de Samsung Electronics ?</strong>
 Elles partagent une marque et un héritage au sein du Samsung Group, mais sont des sociétés cotées distinctes avec des métiers entièrement différents. Samsung Electronics (005930.KS) fabrique des semi-conducteurs et de l'électronique grand public. Samsung Heavy Industries (010140.KS) construit des navires et des structures offshore. Elles n'ont aucun chevauchement opérationnel significatif.
 
 ---

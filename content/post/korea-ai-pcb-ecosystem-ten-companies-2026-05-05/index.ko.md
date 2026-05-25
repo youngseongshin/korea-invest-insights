@@ -27,7 +27,7 @@ tags:
 series: ["ai-pcb-substrate-thesis-2026"]
 ---
 
-> **섹터 지도:** 이 글은 [AI PCB·기판 투자 논거](/ko/post/ai-pcb-thesis-system-bom-common-bottleneck-2026-05-05/)와 [AI PCB·기판 허브](/ko/page/korea-ai-pcb-substrate-hub/)의 기업 매트릭스 편이다. 투자 논거에서는 AI 기판이 시스템 전체의 병목이 되는 이유를 다뤘다. 이 글은 한국 생태계에서 어느 구간의 사업 품질이 더 좋은지, 가격에 아직 덜 반영된 곳이 어디인지 짚는다.
+> <strong>섹터 지도:</strong> 이 글은 [AI PCB·기판 투자 논거](/ko/post/ai-pcb-thesis-system-bom-common-bottleneck-2026-05-05/)와 [AI PCB·기판 허브](/ko/page/korea-ai-pcb-substrate-hub/)의 기업 매트릭스 편이다. 투자 논거에서는 AI 기판이 시스템 전체의 병목이 되는 이유를 다뤘다. 이 글은 한국 생태계에서 어느 구간의 사업 품질이 더 좋은지, 가격에 아직 덜 반영된 곳이 어디인지 짚는다.
 
 ---
 

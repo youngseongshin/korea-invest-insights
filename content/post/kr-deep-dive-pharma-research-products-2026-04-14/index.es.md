@@ -11,7 +11,7 @@ draft: false
 
 # Pharma Research Products (214450.KQ): El Pionero del PDRN que Impulsa la Revolución Global del Skin Booster
 
-Pharma Research Products (파마리서치, **214450.KQ**), una empresa coreana de ciencias de la vida cotizada en el KOSDAQ, ha construido silenciosamente una de las franquicias de marca más reconocibles en la estética médica global a través de su producto estrella, el skin booster Rejuran PDRN — un producto que se ha convertido en sinónimo de «tratamiento de calidad de piel» entre dermatólogos y médicos estéticos desde Seúl hasta Singapur y São Paulo. A medida que la demanda global de rejuvenecimiento cutáneo no quirúrgico se acelera, Pharma Research Products se sitúa en la confluencia de tres tendencias convergentes: la ola premium del K-beauty, el crecimiento global de la estética inyectable y la creciente aceptación clínica de la tecnología de polinucleótidos (PN/PDRN) como alternativa a los rellenos de ácido hialurónico tradicionales.
+Pharma Research Products (파마리서치, <strong>214450.KQ</strong>), una empresa coreana de ciencias de la vida cotizada en el KOSDAQ, ha construido silenciosamente una de las franquicias de marca más reconocibles en la estética médica global a través de su producto estrella, el skin booster Rejuran PDRN — un producto que se ha convertido en sinónimo de «tratamiento de calidad de piel» entre dermatólogos y médicos estéticos desde Seúl hasta Singapur y São Paulo. A medida que la demanda global de rejuvenecimiento cutáneo no quirúrgico se acelera, Pharma Research Products se sitúa en la confluencia de tres tendencias convergentes: la ola premium del K-beauty, el crecimiento global de la estética inyectable y la creciente aceptación clínica de la tecnología de polinucleótidos (PN/PDRN) como alternativa a los rellenos de ácido hialurónico tradicionales.
 
 ---
 
@@ -27,7 +27,7 @@ Pharma Research Products (파마리서치, **214450.KQ**), una empresa coreana d
 | Sede | Seongnam, Gyeonggi-do, Corea del Sur |
 | Comunicaciones / Registros | [DART](https://dart.fss.or.kr) (dart.fss.or.kr) |
 
-**Resumen ejecutivo:** Pharma Research Products es el líder mundial en la categoría de estética con PDRN (polidesoxirribonucleótido), un segmento en rápido crecimiento dentro del mercado global de inyectables estéticos, valorado en más de USD 14.000 millones. A través de Rejuran, la empresa ha alcanzado un reconocimiento de marca que rivaliza o supera al de competidores occidentales mucho más grandes en los principales mercados asiáticos, y ahora está expandiéndose hacia Europa y Oriente Medio. Combinado con su franquicia de rellenos de ácido hialurónico YVOIRE — una de las marcas de HA más vendidas en Corea —, la empresa opera dos potentes familias de productos generadoras de caja que se benefician de los mismos vientos de cola estructurales: el envejecimiento poblacional, el mayor gasto de la clase media en bienestar y el prestigio global de la estética médica coreana.
+<strong>Resumen ejecutivo:</strong> Pharma Research Products es el líder mundial en la categoría de estética con PDRN (polidesoxirribonucleótido), un segmento en rápido crecimiento dentro del mercado global de inyectables estéticos, valorado en más de USD 14.000 millones. A través de Rejuran, la empresa ha alcanzado un reconocimiento de marca que rivaliza o supera al de competidores occidentales mucho más grandes en los principales mercados asiáticos, y ahora está expandiéndose hacia Europa y Oriente Medio. Combinado con su franquicia de rellenos de ácido hialurónico YVOIRE — una de las marcas de HA más vendidas en Corea —, la empresa opera dos potentes familias de productos generadoras de caja que se benefician de los mismos vientos de cola estructurales: el envejecimiento poblacional, el mayor gasto de la clase media en bienestar y el prestigio global de la estética médica coreana.
 
 ---
 
@@ -41,22 +41,22 @@ Rejuran es el ejemplo de manual. Lanzado en Corea en 2014 tras recibir la aproba
 
 ### ¿Qué Tendencia Aprovecha?
 
-**Bioestimuladores frente a rellenos:** El mercado global de inyectables estéticos se está bifurcando. Los rellenos de HA tradicionales añaden volumen. Una nueva categoría de bioestimuladores (PDRN, polinucleótidos, ácido poli-L-láctico) mejoran la calidad intrínseca de la piel — densidad de colágeno, hidratación, tono — sin volumizar. Esta categoría de «calidad de piel» crece más rápido que el mercado general, impulsada por la demanda de pacientes más jóvenes que buscan tratamientos preventivos, no resultados de apariencia quirúrgica. Pharma Research Products fue pionera en esta categoría con datos clínicos publicados sobre PDRN que se remontan a más de una década.
+<strong>Bioestimuladores frente a rellenos:</strong> El mercado global de inyectables estéticos se está bifurcando. Los rellenos de HA tradicionales añaden volumen. Una nueva categoría de bioestimuladores (PDRN, polinucleótidos, ácido poli-L-láctico) mejoran la calidad intrínseca de la piel — densidad de colágeno, hidratación, tono — sin volumizar. Esta categoría de «calidad de piel» crece más rápido que el mercado general, impulsada por la demanda de pacientes más jóvenes que buscan tratamientos preventivos, no resultados de apariencia quirúrgica. Pharma Research Products fue pionera en esta categoría con datos clínicos publicados sobre PDRN que se remontan a más de una década.
 
-**Mercado global de inyectables estéticos:** Valorado en aproximadamente USD 14.000–16.000 millones según estimaciones recientes, con previsiones de crecimiento a una TCAC del 8–10% hasta 2030, impulsado por el envejecimiento demográfico en los mercados desarrollados y el aumento del gasto estético en la clase media emergente.
+<strong>Mercado global de inyectables estéticos:</strong> Valorado en aproximadamente USD 14.000–16.000 millones según estimaciones recientes, con previsiones de crecimiento a una TCAC del 8–10% hasta 2030, impulsado por el envejecimiento demográfico en los mercados desarrollados y el aumento del gasto estético en la clase media emergente.
 
 ### Ventaja Competitiva Duradera
 
 Pharma Research Products cuenta con varias ventajas competitivas duraderas:
 
-1. **Propiedad intelectual y experiencia en formulación:** La extracción de PDRN de los testículos del salmón (*Oncorhynchus mykiss*) requiere un procesamiento enzimático preciso. La empresa lleva más de dos décadas perfeccionando esta tecnología.
-2. **Las aprobaciones regulatorias como barrera de entrada:** Cada nuevo mercado exige registros regulatorios independientes (MFDS, NMPA de China, marcado CE, etc.). Pharma Research Products lleva entre 5 y 10 años de ventaja sobre la mayoría de sus competidores.
-3. **Valor de marca:** En muchos mercados asiáticos, «Rejuran» funciona como nombre de categoría, no de marca — un indicador clásico de foso competitivo, similar a cómo «Botox» se convirtió en sinónimo de toxina botulínica.
-4. **Base de evidencia clínica:** Las publicaciones revisadas por pares sobre regeneración cutánea con PDRN superan la docena, con citas específicas a Rejuran en muchas de ellas. Esto aporta una confianza a los prescriptores que los productos «PN» genéricos de los competidores occidentales no pueden ofrecer.
+1. <strong>Propiedad intelectual y experiencia en formulación:</strong> La extracción de PDRN de los testículos del salmón (*Oncorhynchus mykiss*) requiere un procesamiento enzimático preciso. La empresa lleva más de dos décadas perfeccionando esta tecnología.
+2. <strong>Las aprobaciones regulatorias como barrera de entrada:</strong> Cada nuevo mercado exige registros regulatorios independientes (MFDS, NMPA de China, marcado CE, etc.). Pharma Research Products lleva entre 5 y 10 años de ventaja sobre la mayoría de sus competidores.
+3. <strong>Valor de marca:</strong> En muchos mercados asiáticos, «Rejuran» funciona como nombre de categoría, no de marca — un indicador clásico de foso competitivo, similar a cómo «Botox» se convirtió en sinónimo de toxina botulínica.
+4. <strong>Base de evidencia clínica:</strong> Las publicaciones revisadas por pares sobre regeneración cutánea con PDRN superan la docena, con citas específicas a Rejuran en muchas de ellas. Esto aporta una confianza a los prescriptores que los productos «PN» genéricos de los competidores occidentales no pueden ofrecer.
 
-**Competencia doméstica:** Huons (una empresa farmacéutica coreana) comercializa un producto PDRN competidor, y han entrado otros actores domésticos menores. Sin embargo, el liderazgo de marca de Rejuran y su posición de primer movimiento en los mercados de exportación sigue siendo amplia.
+<strong>Competencia doméstica:</strong> Huons (una empresa farmacéutica coreana) comercializa un producto PDRN competidor, y han entrado otros actores domésticos menores. Sin embargo, el liderazgo de marca de Rejuran y su posición de primer movimiento en los mercados de exportación sigue siendo amplia.
 
-**Competencia internacional:** En la categoría más amplia de skin boosters, PROFHILO (IBSA, Suiza) y Restylane Skinboosters (Galderma) son los principales competidores occidentales — ambos basados en HA, no en PDRN. Los competidores puramente enfocados en PDRN a escala son limitados.
+<strong>Competencia internacional:</strong> En la categoría más amplia de skin boosters, PROFHILO (IBSA, Suiza) y Restylane Skinboosters (Galderma) son los principales competidores occidentales — ambos basados en HA, no en PDRN. Los competidores puramente enfocados en PDRN a escala son limitados.
 
 ---
 
@@ -66,18 +66,18 @@ Pharma Research Products opera con dos familias de productos principales y gener
 
 ### Cartera de Productos
 
-**Franquicia Rejuran (PDRN):**
-- **Rejuran Healer** — inyectable estrella, orientado a la calidad general de la piel y la regeneración
-- **Rejuran I** — formulación especializada periorbitaria (contorno de ojos), uno de los poquísimos productos con indicación clínica para esta zona sensible
-- **Rejuran S** — formulación de mayor viscosidad para el tratamiento de cicatrices (acné, cicatrices quirúrgicas)
-- **Rejuran HB (High Body)** — tratamiento de la piel corporal, SKU más reciente orientado a estrías y calidad de la piel del cuerpo
+<strong>Franquicia Rejuran (PDRN):</strong>
+- <strong>Rejuran Healer</strong> — inyectable estrella, orientado a la calidad general de la piel y la regeneración
+- <strong>Rejuran I</strong> — formulación especializada periorbitaria (contorno de ojos), uno de los poquísimos productos con indicación clínica para esta zona sensible
+- <strong>Rejuran S</strong> — formulación de mayor viscosidad para el tratamiento de cicatrices (acné, cicatrices quirúrgicas)
+- <strong>Rejuran HB (High Body)</strong> — tratamiento de la piel corporal, SKU más reciente orientado a estrías y calidad de la piel del cuerpo
 
-**Franquicia YVOIRE (Ácido Hialurónico):**
-- **YVOIRE Classic / Volume / Contour** — rellenos de HA para distintas zonas faciales
+<strong>Franquicia YVOIRE (Ácido Hialurónico):</strong>
+- <strong>YVOIRE Classic / Volume / Contour</strong> — rellenos de HA para distintas zonas faciales
 - Franquicia doméstica sólida; se encuentra entre las 3 marcas de rellenos de HA más vendidas en Corea por volumen
 
-**Quirúrgico / Oftalmológico:**
-- Productos **Healon** — dispositivos viscoelásticos oftálmicos (OVDs) para cirugía, distribuidos en asociación; contribución menor, pero que aporta una base de ingresos estable
+<strong>Quirúrgico / Oftalmológico:</strong>
+- Productos <strong>Healon</strong> — dispositivos viscoelásticos oftálmicos (OVDs) para cirugía, distribuidos en asociación; contribución menor, pero que aporta una base de ingresos estable
 
 ### Distribución de Ingresos y Geografía
 
@@ -87,10 +87,10 @@ Los ingresos domésticos siguen siendo un ancla importante — Corea tiene una d
 
 ### Motores de Crecimiento (Próximos 12–24 Meses)
 
-1. **Comercialización en China:** El proceso de aprobación del NMPA para dispositivos médicos es riguroso y lento, pero para las empresas que lo superan, el mercado potencial es enorme. Los avances en los registros regulatorios o en las alianzas de distribución en China representan el catalizador de ingresos a corto plazo más significativo.
-2. **Desarrollo del mercado europeo:** El marcado CE da acceso a los 27 estados miembros de la UE más el Espacio Económico Europeo. La medicina estética en Europa está creciendo, y el PDRN está ganando terreno especialmente en el sur y el este del continente.
-3. **Lanzamiento de nuevos SKUs:** Las extensiones de la franquicia Rejuran (aplicaciones corporales, protocolos combinados) añaden ingresos por cuenta sin un aumento proporcional en SG&A.
-4. **Posicionamiento de precio y premiumización de marca:** A medida que Rejuran gana reconocimiento entre los consumidores finales (a través de redes sociales y referencias del turismo médico), las clínicas adquieren mayor poder de fijación de precios — y Pharma Research Products dispone de palanca para elevar los precios en fábrica.
+1. <strong>Comercialización en China:</strong> El proceso de aprobación del NMPA para dispositivos médicos es riguroso y lento, pero para las empresas que lo superan, el mercado potencial es enorme. Los avances en los registros regulatorios o en las alianzas de distribución en China representan el catalizador de ingresos a corto plazo más significativo.
+2. <strong>Desarrollo del mercado europeo:</strong> El marcado CE da acceso a los 27 estados miembros de la UE más el Espacio Económico Europeo. La medicina estética en Europa está creciendo, y el PDRN está ganando terreno especialmente en el sur y el este del continente.
+3. <strong>Lanzamiento de nuevos SKUs:</strong> Las extensiones de la franquicia Rejuran (aplicaciones corporales, protocolos combinados) añaden ingresos por cuenta sin un aumento proporcional en SG&A.
+4. <strong>Posicionamiento de precio y premiumización de marca:</strong> A medida que Rejuran gana reconocimiento entre los consumidores finales (a través de redes sociales y referencias del turismo médico), las clínicas adquieren mayor poder de fijación de precios — y Pharma Research Products dispone de palanca para elevar los precios en fábrica.
 
 ### Perfil de Márgenes
 
@@ -132,11 +132,11 @@ Una proporción significativa del valor empresarial de Pharma Research Products 
 
 ## 6. Contexto de Valoración
 
-> **Importante:** La información a continuación se ofrece únicamente con fines informativos como contexto de mercado. No constituye un precio objetivo, una estimación de beneficios ni una recomendación.
+> <strong>Importante:</strong> La información a continuación se ofrece únicamente con fines informativos como contexto de mercado. No constituye un precio objetivo, una estimación de beneficios ni una recomendación.
 
-Pharma Research Products cotiza como una acción de crecimiento, no de valor, y su precio refleja esa naturaleza. Según los datos de mercado recientes disponibles en KRX y cotejados con los registros de DART, la acción ha tenido históricamente un **PER trailing en el rango de 30–60x** según el período — una prima significativa respecto tanto al índice KOSDAQ en su conjunto como a la media del sector farmacéutico coreano, pero coherente con la prima aplicada a empresas de salud estética de alto crecimiento y basadas en propiedad intelectual a nivel global.
+Pharma Research Products cotiza como una acción de crecimiento, no de valor, y su precio refleja esa naturaleza. Según los datos de mercado recientes disponibles en KRX y cotejados con los registros de DART, la acción ha tenido históricamente un <strong>PER trailing en el rango de 30–60x</strong> según el período — una prima significativa respecto tanto al índice KOSDAQ en su conjunto como a la media del sector farmacéutico coreano, pero coherente con la prima aplicada a empresas de salud estética de alto crecimiento y basadas en propiedad intelectual a nivel global.
 
-**Marco de comparación con empresas del sector:**
+<strong>Marco de comparación con empresas del sector:</strong>
 
 | Empresa | Mercado | Categoría | Rango de PER aproximado |
 |---|---|---|---|
@@ -149,7 +149,7 @@ Pharma Research Products cotiza como una acción de crecimiento, no de valor, y 
 
 La prima sobre los comparables de dispositivos basados en energía como InMode está justificada por la trayectoria de mayor crecimiento de Pharma Research Products y su valor de marca. La prima sobre Galderma está parcialmente justificada por una base más pequeña y una mayor tasa de crecimiento, pero también refleja la prima de riesgo adicional propia de una acción cotizada en un único mercado sin la diversificación de una empresa de cartera global.
 
-**¿Está barata o cara?** En términos históricos, la acción se ha des-valorado periódicamente durante desaceleraciones del crecimiento exportador o vientos en contra macroeconómicos relacionados con China (aranceles, cambios de política en estética médica). Esos períodos han representado históricamente puntos de entrada para inversores con horizontes plurianuales. En términos absolutos, el múltiplo actual (disponible en los datos en tiempo real de KRX) refleja un optimismo significativo sobre el crecimiento en China y a nivel global ya descontado en el precio. El margen de seguridad no es amplio; la ejecución es determinante.
+<strong>¿Está barata o cara?</strong> En términos históricos, la acción se ha des-valorado periódicamente durante desaceleraciones del crecimiento exportador o vientos en contra macroeconómicos relacionados con China (aranceles, cambios de política en estética médica). Esos períodos han representado históricamente puntos de entrada para inversores con horizontes plurianuales. En términos absolutos, el múltiplo actual (disponible en los datos en tiempo real de KRX) refleja un optimismo significativo sobre el crecimiento en China y a nivel global ya descontado en el precio. El margen de seguridad no es amplio; la ejecución es determinante.
 
 ---
 
@@ -157,44 +157,44 @@ La prima sobre los comparables de dispositivos basados en energía como InMode e
 
 ### ¿Está Disponible en ADR o GDR?
 
-A abril de 2026, **Pharma Research Products no tiene cotización ADR ni GDR** en ninguna bolsa internacional de referencia. Los inversores extranjeros deben acceder a la acción directamente a través del mercado de valores coreano.
+A abril de 2026, <strong>Pharma Research Products no tiene cotización ADR ni GDR</strong> en ninguna bolsa internacional de referencia. Los inversores extranjeros deben acceder a la acción directamente a través del mercado de valores coreano.
 
 ### Principales ETFs que Mantienen Esta Acción
 
 Varios ETFs temáticos centrados en Corea incluyen 214450.KQ, aunque las ponderaciones son típicamente pequeñas dado el estatus de mediana capitalización de la empresa en el KOSDAQ. ETFs relevantes a investigar (las ponderaciones y composiciones cambian con el tiempo — verifique siempre la composición actual):
 
-- **KODEX 미용·의료** (ETF doméstico coreano que sigue la estética médica y cosmética coreana)
-- **TIGER 헬스케어** (ETF temático de salud coreano)
-- Los inversores globales deben consultar las posiciones actuales de los ETFs de pequeña y mediana capitalización de Corea, como el **iShares MSCI South Korea ETF (EWY)** — aunque EWY está ponderado por capitalización bursátil y puede no incluir nombres más pequeños del KOSDAQ. El **Franklin FTSE South Korea ETF (FLKR)** y productos similares tienen una cobertura más amplia.
+- <strong>KODEX 미용·의료</strong> (ETF doméstico coreano que sigue la estética médica y cosmética coreana)
+- <strong>TIGER 헬스케어</strong> (ETF temático de salud coreano)
+- Los inversores globales deben consultar las posiciones actuales de los ETFs de pequeña y mediana capitalización de Corea, como el <strong>iShares MSCI South Korea ETF (EWY)</strong> — aunque EWY está ponderado por capitalización bursátil y puede no incluir nombres más pequeños del KOSDAQ. El <strong>Franklin FTSE South Korea ETF (FLKR)</strong> y productos similares tienen una cobertura más amplia.
 - Los ETFs temáticos de K-beauty o consumo asiático de proveedores como Global X o Mirae Asset incluyen ocasionalmente nombres de la estética coreana.
 
-**Nota:** Verifique siempre las posiciones actuales del ETF en el sitio web oficial del proveedor antes de tomar cualquier decisión de cartera.
+<strong>Nota:</strong> Verifique siempre las posiciones actuales del ETF en el sitio web oficial del proveedor antes de tomar cualquier decisión de cartera.
 
 ### Notas Prácticas para Inversores Extranjeros
 
-**Liquidación:** Los valores coreanos liquidan en T+2 en KRW a través del Korea Securities Depository (KSD). Los inversores extranjeros que mantengan más del 5% de las acciones en circulación deben notificarlo a la FSC/KRX conforme a las normas de divulgación de participaciones significativas.
+<strong>Liquidación:</strong> Los valores coreanos liquidan en T+2 en KRW a través del Korea Securities Depository (KSD). Los inversores extranjeros que mantengan más del 5% de las acciones en circulación deben notificarlo a la FSC/KRX conforme a las normas de divulgación de participaciones significativas.
 
-**Tipo de cambio:** Todos los dividendos y ganancias se liquidan en Won coreano (KRW). El riesgo cambiario frente al USD, EUR u otras monedas base es material, dado que el KRW históricamente presenta mayor volatilidad en relación con las divisas del G10. El KRW tiende a depreciarse en períodos de aversión al riesgo global y a apreciarse en entornos de apetito por el riesgo en mercados emergentes.
+<strong>Tipo de cambio:</strong> Todos los dividendos y ganancias se liquidan en Won coreano (KRW). El riesgo cambiario frente al USD, EUR u otras monedas base es material, dado que el KRW históricamente presenta mayor volatilidad en relación con las divisas del G10. El KRW tiende a depreciarse en períodos de aversión al riesgo global y a apreciarse en entornos de apetito por el riesgo en mercados emergentes.
 
-**Límites de propiedad extranjera:** La mayoría de los valores coreanos (incluidas las empresas cotizadas en el KOSDAQ) no tienen límites vinculantes de propiedad extranjera en los niveles actuales, pero los inversores deben verificar el ratio de propiedad extranjera actual en KRX. Cuando la propiedad extranjera se aproxima a los límites sectoriales específicos (infrecuente en estética), la acción puede cotizar con prima en los mercados offshore frente a los onshore.
+<strong>Límites de propiedad extranjera:</strong> La mayoría de los valores coreanos (incluidas las empresas cotizadas en el KOSDAQ) no tienen límites vinculantes de propiedad extranjera en los niveles actuales, pero los inversores deben verificar el ratio de propiedad extranjera actual en KRX. Cuando la propiedad extranjera se aproxima a los límites sectoriales específicos (infrecuente en estética), la acción puede cotizar con prima en los mercados offshore frente a los onshore.
 
-**Idioma de los registros:** Todos los registros oficiales (informes anuales, resultados trimestrales, comunicaciones de eventos relevantes) se presentan en coreano en DART (dart.fss.or.kr). Algunas empresas proporcionan resúmenes en inglés en sus materiales de relaciones con inversores; se recomienda consultar la página de IR de Pharma Research Products para obtener los materiales más recientes en inglés.
+<strong>Idioma de los registros:</strong> Todos los registros oficiales (informes anuales, resultados trimestrales, comunicaciones de eventos relevantes) se presentan en coreano en DART (dart.fss.or.kr). Algunas empresas proporcionan resúmenes en inglés en sus materiales de relaciones con inversores; se recomienda consultar la página de IR de Pharma Research Products para obtener los materiales más recientes en inglés.
 
-**Cómo comprar acciones de Pharma Research Products:** Los inversores internacionales pueden acceder a 214450.KQ a través de corredores globales con acceso al mercado coreano (Interactive Brokers, Schwab International y muchos bancos regionales asiáticos), o a través de corredores domésticos coreanos (Samsung Securities, Mirae Asset, Kiwoom, etc.) que aceptan solicitudes de cuentas extranjeras. Las implicaciones fiscales del tratado de doble imposición sobre los dividendos varían según el domicilio del inversor.
+<strong>Cómo comprar acciones de Pharma Research Products:</strong> Los inversores internacionales pueden acceder a 214450.KQ a través de corredores globales con acceso al mercado coreano (Interactive Brokers, Schwab International y muchos bancos regionales asiáticos), o a través de corredores domésticos coreanos (Samsung Securities, Mirae Asset, Kiwoom, etc.) que aceptan solicitudes de cuentas extranjeras. Las implicaciones fiscales del tratado de doble imposición sobre los dividendos varían según el domicilio del inversor.
 
 ---
 
 ## Preguntas Frecuentes
 
-**¿Es Pharma Research Products una buena inversión?**
+<strong>¿Es Pharma Research Products una buena inversión?</strong>
 
 Este análisis no constituye asesoramiento de inversión. Lo que sí podemos decir desde un punto de vista analítico: la empresa tiene un foso competitivo de marca defendible, vientos de cola de demanda estructural y un producto que ha demostrado una utilidad clínica genuina. La pregunta central es si la valoración actual ya descuenta los escenarios de crecimiento más optimistas — un juicio que cada inversor debe hacer por sí mismo.
 
-**¿Qué es Rejuran y por qué es relevante?**
+<strong>¿Qué es Rejuran y por qué es relevante?</strong>
 
 Rejuran es un skin booster inyectable basado en PDRN (polidesoxirribonucleótido), fragmentos de ADN extraídos del salmón. El PDRN estimula la regeneración tisular mediante la activación de los receptores de adenosina, promoviendo la síntesis de colágeno y la hidratación de la piel sin añadir volumen. Es el producto que define la categoría en el creciente segmento de «calidad de piel» de la estética médica global.
 
-**¿Cómo puedo comprar acciones de Pharma Research Products (214450) siendo inversor extranjero?**
+<strong>¿Cómo puedo comprar acciones de Pharma Research Products (214450) siendo inversor extranjero?</strong>
 
 La acción cotiza en el KOSDAQ (Corea) y es accesible a través de corredores internacionales con acceso al mercado KRX. No existe ADR en EE. UU. La liquidación se realiza en KRW (Won coreano), y todos los registros regulatorios están en coreano a través de DART (dart.fss.or.kr). Verifique el acceso de su corredor al KOSDAQ antes de intentar operar.
 

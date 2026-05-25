@@ -11,7 +11,7 @@ tags: ["Samsung Electro-Mechanics", "009150", "Mirae Asset Securities", "MLCC", 
 
 Mirae Asset Securities elevó su precio objetivo para Samsung Electro-Mechanics de KRW 530.000 a KRW 1,3 millones. La cifra parece llamativa, pero el mecanismo es sencillo: se traslada el año de valoración de 2026 a 2028 y se aplica un PER de 37x, que Mirae Asset vincula a la fase inicial del ciclo de escasez de MLCC de 2017.
 
-Esto lo convierte menos en una revisión de beneficios ordinaria y más en una **revisión del marco de valoración**. El debate central es si Samsung Electro-Mechanics debe seguir siendo analizada como una empresa cíclica de componentes electrónicos, o si la demanda de MLCC para servidores de IA y de FC-BGA la ha desplazado hacia la categoría de cuello de botella en infraestructura de IA.
+Esto lo convierte menos en una revisión de beneficios ordinaria y más en una <strong>revisión del marco de valoración</strong>. El debate central es si Samsung Electro-Mechanics debe seguir siendo analizada como una empresa cíclica de componentes electrónicos, o si la demanda de MLCC para servidores de IA y de FC-BGA la ha desplazado hacia la categoría de cuello de botella en infraestructura de IA.
 
 ---
 
@@ -76,7 +76,7 @@ El múltiplo de 37x no es un número neutral. Afirma que Samsung Electro-Mechani
 
 Puede que eso sea acertado. También puede ser excesivamente agresivo. Un múltiplo de 37x en una empresa cuya media de 10 años se acerca a 15x requiere un régimen muy específico: oferta ajustada, poder de fijación de precios visible, prepagos o compromisos de volumen por parte de los clientes, y expansión de márgenes que sobreviva más de un trimestre.
 
-Por eso este artículo debe leerse como un **marco condicional de revalorización**, no como un respaldo mecánico al precio objetivo.
+Por eso este artículo debe leerse como un <strong>marco condicional de revalorización</strong>, no como un respaldo mecánico al precio objetivo.
 
 ---
 
@@ -220,7 +220,7 @@ El escenario alcista está claro. Los escenarios de fracaso también lo están.
 | El consenso se vuelve unidireccional | Con la mayoría de los brokers ya constructivos, la decepción puede transmitirse con rapidez |
 | El BPA de 2028 resulta demasiado lejano | Adelantar la valoración dos años aumenta la duración y el riesgo de previsión |
 
-La distinción más importante es entre **una escasez real** y **una escasez ya descontada en el precio**. Ambas pueden ser ciertas al mismo tiempo. La empresa puede estar en un ciclo sólido de componentes de IA mientras la acción ya descuenta una gran parte del mismo.
+La distinción más importante es entre <strong>una escasez real</strong> y <strong>una escasez ya descontada en el precio</strong>. Ambas pueden ser ciertas al mismo tiempo. La empresa puede estar en un ciclo sólido de componentes de IA mientras la acción ya descuenta una gran parte del mismo.
 
 ---
 

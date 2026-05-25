@@ -16,11 +16,11 @@ tags:
   - "matériaux de spécialité"
 ---
 
-> 📚 **Série Pamicell — Partie 3.**
+> 📚 <strong>Série Pamicell — Partie 3.</strong>
 > Partie 1 : [Pamicell — Achats étrangers et institutionnels en avril et réévaluation des matériaux AI CCL de Doosan Electro BG](/post/pamicell-doosan-electro-bg-proxy-rediscovery-2026-04-30/)
 > Partie 2 : [Pamicell Partie 2 — Transition vers les matériaux AI CCL et le cycle industriel de 12-24 mois](/post/pamicell-four-layer-progress-and-fifth-cycle-layer-2026-05-03/)
 >
-> 🔗 **Lectures associées** : [Sélection ROE 25 % — 4 valeurs passant 9 filtres](/post/roe-25-screening-only-four-pass-2026-05-07/) · [Écosystème PCB IA en Corée : 10 sociétés](/post/korea-ai-pcb-ecosystem-ten-companies-2026-05-05/) · [Pourquoi la Corée Partie 1 — Substrats semi-conducteurs](/post/why-korea-semiconductor-substrate-competitive-edge-2026-05-07/)
+> 🔗 <strong>Lectures associées</strong> : [Sélection ROE 25 % — 4 valeurs passant 9 filtres](/post/roe-25-screening-only-four-pass-2026-05-07/) · [Écosystème PCB IA en Corée : 10 sociétés](/post/korea-ai-pcb-ecosystem-ten-companies-2026-05-05/) · [Pourquoi la Corée Partie 1 — Substrats semi-conducteurs](/post/why-korea-semiconductor-substrate-competitive-edge-2026-05-07/)
 
 *Les parties 1 et 2 ont tracé le repositionnement de Pamicell — de société biochimique à fournisseur amont de matériaux CCL (copper-clad-laminate) pour la mémoire IA. Le KRX a officiellement modifié le code sectoriel de « fabrication pharmaceutique de base » à « fabrication de composants électroniques » le 4 mai. Citi et Goldman Sachs ont recadré la pénurie d'approvisionnement en CCL comme le « nouveau régime normal » 2026-2027. Le 12 mai, les résultats du 1T26 sont tombés — CA ₩36,7 Mds (vs. consensus ₩33,1 Mds), RO ₩13,1 Mds (vs. consensus ₩10,6 Mds), MO 35,7 %. Il s'agit de la première confirmation chiffrée de la thèse des parties 1 et 2.*
 
@@ -28,11 +28,11 @@ tags:
 
 ## Résumé
 
-* **Le RO du 1T26 à ₩13,1 Mds dépasse le consensus (₩10,6 Mds) de +23,6 %.** Le CA à ₩36,7 Mds est également +10,9 % au-dessus du consensus à ₩33,1 Mds. MO de 35,7 %, avec un CA en hausse de +43,4 % en séquentiel (₩25,6 Mds → ₩36,7 Mds).
-* **La fourchette de CA s'est rompue à la hausse.** Quatre trimestres consécutifs (T1 25-T4 25) affichaient un CA dans la plage ₩21,5-27,0 Mds. Le T1 26 imprime ₩36,7 Mds — soit \~₩10 Mds au-dessus du plafond de la fourchette.
-* **La MO passe de 30-32 % à 35,7 %.** Une simple croissance en volume aurait produit une marge stable ; la progression simultanée du CA et de la marge indique une amélioration du mix vers des produits à plus forte valeur ajoutée (matériaux à faible constante diélectrique).
-* **Le scénario RO FY26 ₩60 Mds+ exige un RO trimestriel moyen de ₩15,0 Mds+ sur les T2-T4.** Le ₩13,1 Mds du T1 valide la « condition nécessaire », pas la « condition suffisante ».
-* **Le PER glissant 12 mois se situe dans la fourchette 23-30×.** Ni « très bon marché » ni « très cher » selon les standards du marché coréen. La validation du multiple dépend de la tenue du scénario prospectif 2026-2027.
+* <strong>Le RO du 1T26 à ₩13,1 Mds dépasse le consensus (₩10,6 Mds) de +23,6 %.</strong> Le CA à ₩36,7 Mds est également +10,9 % au-dessus du consensus à ₩33,1 Mds. MO de 35,7 %, avec un CA en hausse de +43,4 % en séquentiel (₩25,6 Mds → ₩36,7 Mds).
+* <strong>La fourchette de CA s'est rompue à la hausse.</strong> Quatre trimestres consécutifs (T1 25-T4 25) affichaient un CA dans la plage ₩21,5-27,0 Mds. Le T1 26 imprime ₩36,7 Mds — soit \~₩10 Mds au-dessus du plafond de la fourchette.
+* <strong>La MO passe de 30-32 % à 35,7 %.</strong> Une simple croissance en volume aurait produit une marge stable ; la progression simultanée du CA et de la marge indique une amélioration du mix vers des produits à plus forte valeur ajoutée (matériaux à faible constante diélectrique).
+* <strong>Le scénario RO FY26 ₩60 Mds+ exige un RO trimestriel moyen de ₩15,0 Mds+ sur les T2-T4.</strong> Le ₩13,1 Mds du T1 valide la « condition nécessaire », pas la « condition suffisante ».
+* <strong>Le PER glissant 12 mois se situe dans la fourchette 23-30×.</strong> Ni « très bon marché » ni « très cher » selon les standards du marché coréen. La validation du multiple dépend de la tenue du scénario prospectif 2026-2027.
 
 ---
 
@@ -66,7 +66,7 @@ MO attendue = 10,6 / 33,1 = 32,0 % ✓
 | T2 25 | ₩27,0 Mds | ₩8,4 Mds | ₩8,5 Mds | 31,1 % | 31,5 % |
 | T3 25 | ₩26,8 Mds | ₩8,2 Mds | ₩7,4 Mds | 30,6 % | 27,6 % |
 | T4 25 | ₩25,6 Mds | ₩8,1 Mds | ₩8,8 Mds | 31,6 % | 34,4 % |
-| **T1 26** | **₩36,7 Mds** | **₩13,1 Mds** | **₩11,7 Mds** | **35,7 %** | **31,9 %** |
+| <strong>T1 26</strong> | <strong>₩36,7 Mds</strong> | <strong>₩13,1 Mds</strong> | <strong>₩11,7 Mds</strong> | <strong>35,7 %</strong> | <strong>31,9 %</strong> |
 
 Variations annuelles / séquentielles :
 
@@ -79,7 +79,7 @@ RO séquentiel = 13,1 / 8,1 - 1 = +61,7 %
 RN séquentiel = 11,7 / 8,8 - 1 = +33,0 %
 ```
 
-Ce n'est pas un simple « dépassement modeste ». **Le CA quitte la plage ₩25-27 Mds pour atteindre ₩36,7 Mds — une rupture de range franche.** Et **la MO progresse d'une plage \~30-32 % à 35,7 %**, CA et marge avançant de concert — un signal que la seule croissance en volume ne saurait produire.
+Ce n'est pas un simple « dépassement modeste ». <strong>Le CA quitte la plage ₩25-27 Mds pour atteindre ₩36,7 Mds — une rupture de range franche.</strong> Et <strong>la MO progresse d'une plage \~30-32 % à 35,7 %</strong>, CA et marge avançant de concert — un signal que la seule croissance en volume ne saurait produire.
 
 ---
 
@@ -105,7 +105,7 @@ La partie 2 recensait cinq points de données début mai :
 4. Chaîne de valeur élargie à 4 niveaux (minéral amont → monomère → polymère → application CCL)
 5. Lien entre la MO de Doosan Electro BG et celle de Pamicell
 
-Les chiffres réels publiés ce jour (CA ₩36,7 Mds, RO ₩13,1 Mds, MO 35,7 %) dépassent l'estimation DS / Meritz (CA ₩36,2 Mds, RO ₩12,1 Mds, MO 33 %) de +1 % en CA, +8 % en RO, +2,7 pp en MO. **La thèse du « nouveau régime normal » vient d'obtenir un premier trimestre de confirmation chiffrée.**
+Les chiffres réels publiés ce jour (CA ₩36,7 Mds, RO ₩13,1 Mds, MO 35,7 %) dépassent l'estimation DS / Meritz (CA ₩36,2 Mds, RO ₩12,1 Mds, MO 33 %) de +1 % en CA, +8 % en RO, +2,7 pp en MO. <strong>La thèse du « nouveau régime normal » vient d'obtenir un premier trimestre de confirmation chiffrée.</strong>
 
 ---
 
@@ -126,7 +126,7 @@ PER annualisé = 1 102,5 / 46,8 = 23,6×
 EV/RO-proxy annualisé = 1 102,5 / 52,4 = 21,0×
 ```
 
-Ce n'est pas excessif selon les standards du marché coréen. Mais la **lecture de marché publiée de ₩56-63 Mds de RO FY26** exige davantage que ₩13,1 Mds T1 × 4.
+Ce n'est pas excessif selon les standards du marché coréen. Mais la <strong>lecture de marché publiée de ₩56-63 Mds de RO FY26</strong> exige davantage que ₩13,1 Mds T1 × 4.
 
 ### 3.2 Les trois trimestres restants
 
@@ -144,7 +144,7 @@ Objectif ₩60 Mds - T1 ₩13,1 Mds = ₩46,9 Mds / 3 = ₩15,6 Mds
 Objectif ₩60,5 Mds - T1 ₩13,1 Mds = ₩47,4 Mds / 3 = ₩15,8 Mds ✓
 ```
 
-En d'autres termes : **pour qu'un RO FY26 de ₩60 Mds+ soit naturel, le RO trimestriel à partir du T2 doit franchir le palier \~₩15-16 Mds**. Le ₩13,1 Mds du T1 est le point de départ, pas la destination.
+En d'autres termes : <strong>pour qu'un RO FY26 de ₩60 Mds+ soit naturel, le RO trimestriel à partir du T2 doit franchir le palier \~₩15-16 Mds</strong>. Le ₩13,1 Mds du T1 est le point de départ, pas la destination.
 
 ---
 
@@ -161,11 +161,11 @@ RO = 3,1 + 8,4 + 8,2 + 8,1 = ₩27,8 Mds
 RN = 4,2 + 8,5 + 7,4 + 8,8 = ₩28,9 Mds
 ```
 
-L'analyse des parties 1 et 2 s'appuyait sur les données annuelles IR FY25 : CA ₩114,0 Mds, RO ₩34,3 Mds, RN ₩40,3 Mds. **Écarts : CA ₩13 Mds, RO ₩6,5 Mds, RN ₩11,4 Mds.** Ces divergences peuvent provenir de (a) comptes sociaux vs. consolidés, (b) activités poursuivies vs. abandonnées, (c) conversion cumulatif vs. trimestriel, (d) reclassification d'éléments opérationnels vs. non opérationnels. Un rapprochement définitif nécessite la lecture du compte de résultat dans le rapport trimestriel intégral.
+L'analyse des parties 1 et 2 s'appuyait sur les données annuelles IR FY25 : CA ₩114,0 Mds, RO ₩34,3 Mds, RN ₩40,3 Mds. <strong>Écarts : CA ₩13 Mds, RO ₩6,5 Mds, RN ₩11,4 Mds.</strong> Ces divergences peuvent provenir de (a) comptes sociaux vs. consolidés, (b) activités poursuivies vs. abandonnées, (c) conversion cumulatif vs. trimestriel, (d) reclassification d'éléments opérationnels vs. non opérationnels. Un rapprochement définitif nécessite la lecture du compte de résultat dans le rapport trimestriel intégral.
 
 ### 4.2 TTM selon les deux bases
 
-**(A) Base somme des trimestres (conservatrice)**
+<strong>(A) Base somme des trimestres (conservatrice)</strong>
 
 ```
 CA TTM = 27,0 + 26,8 + 25,6 + 36,7 = ₩109,1 Mds
@@ -175,7 +175,7 @@ PER TTM = 1 102,5 / 36,4 = 30,3×
 Capi / RO TTM = 1 102,5 / 37,8 = 29,2×
 ```
 
-**(B) Base annuelle IR ajustée**
+<strong>(B) Base annuelle IR ajustée</strong>
 
 ```
 CA TTM = 114,0 - 21,5 + 36,7 = ₩129,2 Mds
@@ -185,7 +185,7 @@ PER TTM = 1 102,5 / 47,8 = 23,1×
 Capi / RO TTM = 1 102,5 / 44,3 = 24,9×
 ```
 
-**Les deux lectures convergent vers la même conclusion** : PER TTM 23-30× — ni « très bon marché » ni « très cher » selon les standards du marché coréen. La validation du multiple repose sur la **tenue du scénario prospectif 2026-2027**. Un seul trimestre ne règle pas la question.
+<strong>Les deux lectures convergent vers la même conclusion</strong> : PER TTM 23-30× — ni « très bon marché » ni « très cher » selon les standards du marché coréen. La validation du multiple repose sur la <strong>tenue du scénario prospectif 2026-2027</strong>. Un seul trimestre ne règle pas la question.
 
 ---
 
@@ -236,25 +236,25 @@ La partie 1 a introduit l'hypothèse de repositionnement en fournisseur amont AI
 
 ## FAQ
 
-**Q : ₩13,1 Mds de RO est-il un chiffre solide ?**
+<strong>Q : ₩13,1 Mds de RO est-il un chiffre solide ?</strong>
 R : Il est +23,6 % au-dessus du consensus à ₩10,6 Mds et porte la MO à 35,7 % — un palier au-dessus des 31,6 % du trimestre précédent. Le CA a également progressé de +43 % séquentiellement, de ₩25,6 Mds à ₩36,7 Mds. Cela qualifie comme un fort dépassement, avec la réserve qu'il s'agit d'un seul trimestre.
 
-**Q : Pourquoi le RN est-il conforme au consensus alors que le RO le dépasse nettement ?**
+<strong>Q : Pourquoi le RN est-il conforme au consensus alors que le RO le dépasse nettement ?</strong>
 R : Probablement des charges non opérationnelles ou une fiscalité supérieures aux attentes. Un rapprochement définitif nécessite le compte de résultat du rapport trimestriel. La MO à 35,7 % signale néanmoins un renforcement des fondamentaux opérationnels.
 
-**Q : Qu'est-ce qui explique le bond du CA à ₩36,7 Mds ?**
+<strong>Q : Qu'est-ce qui explique le bond du CA à ₩36,7 Mds ?</strong>
 R : L'hypothèse de travail des parties 1 / 2 est la croissance des revenus CCL haute valeur ajoutée pour la mémoire IA de Doosan Electro BG se répercutant en amont sur les matériaux à faible constante diélectrique. La société ne divulgue pas ses revenus par client, ce qui rend une vérification directe impossible. L'observation de la partie 2 selon laquelle la MO T1 26 de Doosan Electro BG (30,1 %) correspondait à la MO moyenne 2025 de Pamicell (30,1 %) fournit un signal indirect du lien.
 
-**Q : Le PER TTM de 23-30× est-il cher ou bon marché ?**
+<strong>Q : Le PER TTM de 23-30× est-il cher ou bon marché ?</strong>
 R : Ni l'un ni l'autre selon les standards du marché coréen. L'adéquation du multiple dépend de l'atteinte d'un RO FY26 dans la plage ₩60 Mds — auquel cas le PER prospectif FY26 descendrait à 17-20×.
 
-**Q : Qu'est-ce qui invaliderait la thèse des parties 1 / 2 ?**
+<strong>Q : Qu'est-ce qui invaliderait la thèse des parties 1 / 2 ?</strong>
 R : Trois ruptures principales : (1) un retour du CA T2-T4 dans la plage ₩25-30 Mds (lecture d'un évènement isolé) ; (2) la formalisation d'une qualification de concurrents PTFE instaurant un double sourcing (érosion de la position d'approvisionnement) ; (3) un affaiblissement de la guidance AI CCL de Doosan Electro BG (érosion du pouls de la demande). La concrétisation de l'un quelconque de ces scénarios affaiblirait significativement les parties 1 / 2.
 
-**Q : Quel est l'impact du changement de code sectoriel KRX ?**
+<strong>Q : Quel est l'impact du changement de code sectoriel KRX ?</strong>
 R : Depuis le 4 mai, la classification est passée de « fabrication pharmaceutique de base » à « fabrication de composants électroniques ». Les classifications d'indices / thématiques et les comportements de flux peuvent évoluer en conséquence. Les fondamentaux sous-jacents, eux, ne changent pas du fait du code en lui-même.
 
-**Q : Comment suivre les revenus par client de Pamicell en l'absence de divulgation ?**
+<strong>Q : Comment suivre les revenus par client de Pamicell en l'absence de divulgation ?</strong>
 R : Par des voies indirectes : (1) les IR trimestriels de Doosan Electro BG pour les commentaires sur les revenus / le mix CCL, (2) le corps du rapport trimestriel de Pamicell pour toute mention explicite du mix de matériaux à faible constante diélectrique, (3) le flux d'actualités sectorielles sur les tensions d'approvisionnement en CCL pour la mémoire / les serveurs.
 
 ---

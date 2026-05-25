@@ -15,7 +15,7 @@ tags:
 slug: google-io-nvidia-earnings-korea-semi-preview-2026-05-17
 ---
 
-> 📚 **相关系列**
+> 📚 <strong>相关系列</strong>
 > [AI 后端的两种贝塔](/zh/post/ai-substrate-vs-test-socket-comparison-2026-05-15/) · [AI 后端 11 只股票比较](/zh/post/ai-substrate-test-socket-data-comparison-2026-05-16/) · [三星电子与 TSMC 再定价论](/zh/post/samsung-electronics-tsmc-rerating-thesis-2026-05-16/) · [AI HBM Hub](/zh/page/korea-semiconductor-hbm-kospi-hub/)
 
 下周有两个重要的 AI 事件。Google I/O 主题演讲将在美国太平洋时间 5 月 19 日上午 10 点开始，也就是韩国时间 5 月 20 日凌晨 2 点。NVIDIA 将在美国太平洋时间 5 月 20 日下午 1 点 20 分左右发布 2027 财年第一季度业绩和 CFO 评论，并在下午 2 点举行电话会。韩国时间是 5 月 21 日凌晨 5 点 20 分和 6 点。
@@ -61,11 +61,11 @@ NVIDIA 财报不同。Data Center 收入增加，意味着 GPU、AI 系统、HBM
 
 ## 3. 韩国股票怎么看
 
-**SK hynix** 是最清晰的 HBM 标的。如果 NVIDIA 大幅超预期，它可能最先反应。但市场已经知道它是 HBM 领导者。如果 NVIDIA 只是符合预期，SK hynix 也可能成为最先被获利了结的股票。
+<strong>SK hynix</strong> 是最清晰的 HBM 标的。如果 NVIDIA 大幅超预期，它可能最先反应。但市场已经知道它是 HBM 领导者。如果 NVIDIA 只是符合预期，SK hynix 也可能成为最先被获利了结的股票。
 
-**Samsung Electronics** 更复杂。它有 HBM4、base die、foundry 和 packaging 的整合潜力。但 5 月 21 日也有罢工风险。如果 NVIDIA 指引强，劳资风险又受控，三星的 HBM4 再定价逻辑会增强。反之，如果 NVIDIA 低于预期且劳资风险延长，市场会先看到风险，而不是低 PER。
+<strong>Samsung Electronics</strong> 更复杂。它有 HBM4、base die、foundry 和 packaging 的整合潜力。但 5 月 21 日也有罢工风险。如果 NVIDIA 指引强，劳资风险又受控，三星的 HBM4 再定价逻辑会增强。反之，如果 NVIDIA 低于预期且劳资风险延长，市场会先看到风险，而不是低 PER。
 
-**Samsung Electro-Mechanics** 不是直接的 HBM 股票。但随着 AI 服务器和网络扩大，MLCC、FC-BGA 和 sensing module 的重要性上升。市场仍可能把它从“手机零部件公司”重新看作“AI 基础设施零部件平台”。不过股价已经大幅上涨，更适合等二季度评论确认需求后再判断。
+<strong>Samsung Electro-Mechanics</strong> 不是直接的 HBM 股票。但随着 AI 服务器和网络扩大，MLCC、FC-BGA 和 sensing module 的重要性上升。市场仍可能把它从“手机零部件公司”重新看作“AI 基础设施零部件平台”。不过股价已经大幅上涨，更适合等二季度评论确认需求后再判断。
 
 在后端领域，基板类股票对 Data Center 指引的短期敏感度更高。测试插座类股票可能滞后一两个季度，但毛利率更高，更多受益于芯片复杂度提升。
 

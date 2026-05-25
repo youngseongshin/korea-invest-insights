@@ -14,19 +14,19 @@ tags:
 slug: 2026-q2-macro-cycle-synthesis-2026-05-15
 ---
 
-*¿Qué ocurrió realmente entre el 14 y el 15 de mayo? El IPP de abril en EE.UU. registró un +6,0% interanual, el mayor desde 2022. El IPP de Japón tocó el +4,9%; el bono japonés a 10 años alcanzó su nivel más alto desde 1997. El bono estadounidense a 10 años está en el 4,46%; el de 30 años, en el 5,02%. El Brent cotiza a 108 USD. El Estrecho de Ormuz lleva efectivamente cerrado dos meses. La cumbre Xi–Trump terminó con un "pequeño acuerdo". El mercado está leyendo todo esto como noticias aisladas. Ese es el enfoque equivocado. Estas cinco variables no son eventos independientes — son **un solo ciclo**. Irán es el origen; una tasa de descuento global más alta es el punto de llegada. Dibuja el cuadro una sola vez, y el próximo titular te dirá en qué clase de activo va a aterrizar.*
+*¿Qué ocurrió realmente entre el 14 y el 15 de mayo? El IPP de abril en EE.UU. registró un +6,0% interanual, el mayor desde 2022. El IPP de Japón tocó el +4,9%; el bono japonés a 10 años alcanzó su nivel más alto desde 1997. El bono estadounidense a 10 años está en el 4,46%; el de 30 años, en el 5,02%. El Brent cotiza a 108 USD. El Estrecho de Ormuz lleva efectivamente cerrado dos meses. La cumbre Xi–Trump terminó con un "pequeño acuerdo". El mercado está leyendo todo esto como noticias aisladas. Ese es el enfoque equivocado. Estas cinco variables no son eventos independientes — son <strong>un solo ciclo</strong>. Irán es el origen; una tasa de descuento global más alta es el punto de llegada. Dibuja el cuadro una sola vez, y el próximo titular te dirá en qué clase de activo va a aterrizar.*
 
 ---
 
 ## Conclusiones clave
 
-* **Qué está descontando realmente el mercado**: las variables que sacudieron los mercados del 14 y 15 de mayo — Irán/Ormuz, petróleo, inflación en EE.UU., la cumbre EE.UU.–China, IPP japonés — son **un solo ciclo, no cinco eventos independientes**.
-* **Origen**: cuello de botella en Irán/Ormuz → shock de oferta global de crudo.
-* **Punto de llegada**: tipos largos estadounidenses más altos → tasa de descuento global repriced → compresión de múltiplos en activos de riesgo.
-* **Cinco eslabones de transmisión**: ① Irán/Ormuz → ② petróleo → ③ IPC/IPP de EE.UU. → ④ expectativas de recorte Fed se desvanecen + tipos largos suben → ⑤ IPP japonés → endurecimiento del BOJ → demanda marginal japonesa de bonos del Tesoro estadounidense (UST) se debilita → nueva subida de tipos en el tramo largo (autorreforzante).
-* **El papel de la cumbre EE.UU.–China**: no es una *causa* del ciclo, sino una **variable lateral que lo acelera o lo frena**.
-* **Para la renta variable coreana**: la concentración en semis y autos se deshace; refino, GNL y defensa reciben viento de cola relativo; los nombres de crecimiento y larga duración enfrentan presión.
-* **La variable más importante**: **cuándo se normaliza Ormuz**. Eso determina dónde termina el ciclo.
+* <strong>Qué está descontando realmente el mercado</strong>: las variables que sacudieron los mercados del 14 y 15 de mayo — Irán/Ormuz, petróleo, inflación en EE.UU., la cumbre EE.UU.–China, IPP japonés — son <strong>un solo ciclo, no cinco eventos independientes</strong>.
+* <strong>Origen</strong>: cuello de botella en Irán/Ormuz → shock de oferta global de crudo.
+* <strong>Punto de llegada</strong>: tipos largos estadounidenses más altos → tasa de descuento global repriced → compresión de múltiplos en activos de riesgo.
+* <strong>Cinco eslabones de transmisión</strong>: ① Irán/Ormuz → ② petróleo → ③ IPC/IPP de EE.UU. → ④ expectativas de recorte Fed se desvanecen + tipos largos suben → ⑤ IPP japonés → endurecimiento del BOJ → demanda marginal japonesa de bonos del Tesoro estadounidense (UST) se debilita → nueva subida de tipos en el tramo largo (autorreforzante).
+* <strong>El papel de la cumbre EE.UU.–China</strong>: no es una *causa* del ciclo, sino una <strong>variable lateral que lo acelera o lo frena</strong>.
+* <strong>Para la renta variable coreana</strong>: la concentración en semis y autos se deshace; refino, GNL y defensa reciben viento de cola relativo; los nombres de crecimiento y larga duración enfrentan presión.
+* <strong>La variable más importante</strong>: <strong>cuándo se normaliza Ormuz</strong>. Eso determina dónde termina el ciclo.
 
 ---
 
@@ -151,13 +151,13 @@ EE.UU. en abril:
 
 | Indicador | Mensual | Anual |
 | --- | ---: | ---: |
-| IPC general | +0,6% | **+3,8%** (máximo desde mayo de 2023) |
+| IPC general | +0,6% | <strong>+3,8%</strong> (máximo desde mayo de 2023) |
 | IPC subyacente | +0,4% | +2,8% |
-| **IPP** | **+1,4%** | **+6,0%** (mayor desde mar. de 2022) |
+| <strong>IPP</strong> | <strong>+1,4%</strong> | <strong>+6,0%</strong> (mayor desde mar. de 2022) |
 | Gasolina (IPP) | +15,6% | — |
 | Energía (IPC) | +3,8% | +17,9% |
 
-Un registro mensual del 0,6% se anualiza en \~7,4%; el +1,4% del IPP se anualiza en \~18%. Anualizar un solo mes exagera la tendencia, pero lo que mueve al mercado de bonos es la **dirección**.
+Un registro mensual del 0,6% se anualiza en \~7,4%; el +1,4% del IPP se anualiza en \~18%. Anualizar un solo mes exagera la tendencia, pero lo que mueve al mercado de bonos es la <strong>dirección</strong>.
 
 ### 3.2 Segundo orden: servicios y alojamiento
 
@@ -278,7 +278,7 @@ El rendimiento del bono a 10 años de EE.UU. sube más
 * Más gradual, pero más estructural.
 ```
 
-El mecanismo detallado aparece en un artículo separado — el punto clave es que Japón es el **comprador marginal** del mercado de bonos del Tesoro estadounidense. Incluso sin vender, cuando la demanda marginal se debilita, los precios caen (los rendimientos suben).
+El mecanismo detallado aparece en un artículo separado — el punto clave es que Japón es el <strong>comprador marginal</strong> del mercado de bonos del Tesoro estadounidense. Incluso sin vender, cuando la demanda marginal se debilita, los precios caen (los rendimientos suben).
 
 ### 5.3 El bucle autorreforzante
 
@@ -345,7 +345,7 @@ Estamos más cerca del escenario B.
 
 ### 6.3 Por qué la cumbre es una "variable lateral" y no el motor
 
-La cumbre no *creó* el ciclo. El ciclo ya estaba en marcha, con Irán/Ormuz como origen. La cumbre es una **variable que acelera o frena** el ciclo.
+La cumbre no *creó* el ciclo. El ciclo ya estaba en marcha, con Irán/Ormuz como origen. La cumbre es una <strong>variable que acelera o frena</strong> el ciclo.
 
 ```
 Aceleradores:
@@ -386,17 +386,17 @@ En concreto:
 
 | Sector | Efecto del ciclo | Lectura |
 | --- | --- | --- |
-| **Refino** | Márgenes de destilación en máximos históricos; beneficiario directo del petróleo alto | **Fortaleza relativa** |
-| **GNL / construcción naval** | Demanda por desvío de rutas por Ormuz, seguridad energética | Fortaleza relativa |
-| **Defensa** | Solapamiento del riesgo de Irán y Taiwán | Fortaleza relativa (ya muy subida) |
-| **Semiconductores** | La demanda de IA es el motor; el múltiplo sigue comprimido | Neutral |
-| **Bancos** | Tipos más altos amplían el margen de intermediación | Fortaleza relativa |
-| **Consumo básico** | Nombres impulsados por beneficios (Samyang Foods, etc.) | Fortaleza selectiva |
-| **Automóviles** | Ya +29% en mayo | Neutral a débil |
-| **Petroquímica** | Costes de nafta suben, presión en márgenes | **Debilidad relativa** |
-| **Aerolíneas** | Doble impacto de petróleo y tipos | Debilidad relativa |
-| **Crecimiento alto PER** | Máxima sensibilidad a movimientos de la tasa de descuento | **Debilidad relativa** |
-| **Biotech** | Presión por larga duración | Debilidad |
+| <strong>Refino</strong> | Márgenes de destilación en máximos históricos; beneficiario directo del petróleo alto | <strong>Fortaleza relativa</strong> |
+| <strong>GNL / construcción naval</strong> | Demanda por desvío de rutas por Ormuz, seguridad energética | Fortaleza relativa |
+| <strong>Defensa</strong> | Solapamiento del riesgo de Irán y Taiwán | Fortaleza relativa (ya muy subida) |
+| <strong>Semiconductores</strong> | La demanda de IA es el motor; el múltiplo sigue comprimido | Neutral |
+| <strong>Bancos</strong> | Tipos más altos amplían el margen de intermediación | Fortaleza relativa |
+| <strong>Consumo básico</strong> | Nombres impulsados por beneficios (Samyang Foods, etc.) | Fortaleza selectiva |
+| <strong>Automóviles</strong> | Ya +29% en mayo | Neutral a débil |
+| <strong>Petroquímica</strong> | Costes de nafta suben, presión en márgenes | <strong>Debilidad relativa</strong> |
+| <strong>Aerolíneas</strong> | Doble impacto de petróleo y tipos | Debilidad relativa |
+| <strong>Crecimiento alto PER</strong> | Máxima sensibilidad a movimientos de la tasa de descuento | <strong>Debilidad relativa</strong> |
+| <strong>Biotech</strong> | Presión por larga duración | Debilidad |
 
 ### 7.3 El bolsillo "menos descontado" del ciclo
 
@@ -425,11 +425,11 @@ Configuraciones más asimétricas:
 
 | Escenario | Premisa | Bono EE.UU. a 10 años | Renta variable coreana |
 | --- | --- | --- | --- |
-| **A. El ciclo termina** | Ormuz se normaliza, petróleo por debajo de 90, BOJ retrasa | 4,0–4,3% | Alivio en riesgo. Rebote del crecimiento |
-| **B. El ciclo persiste** (base) | Ormuz se prolonga, petróleo 100–110, BOJ sube en junio | 4,4–4,7% | Volatilidad se amplía; dispersión sectorial |
-| **C. El ciclo se acelera** | Ormuz empeora, petróleo 120+, ventas reales de japoneses | 5,0%+ | Risk-off generalizado, salidas de flujos extranjeros |
+| <strong>A. El ciclo termina</strong> | Ormuz se normaliza, petróleo por debajo de 90, BOJ retrasa | 4,0–4,3% | Alivio en riesgo. Rebote del crecimiento |
+| <strong>B. El ciclo persiste</strong> (base) | Ormuz se prolonga, petróleo 100–110, BOJ sube en junio | 4,4–4,7% | Volatilidad se amplía; dispersión sectorial |
+| <strong>C. El ciclo se acelera</strong> | Ormuz empeora, petróleo 120+, ventas reales de japoneses | 5,0%+ | Risk-off generalizado, salidas de flujos extranjeros |
 
-El caso base es **B**. El A requiere una normalización de Ormuz. El C requiere ventas confirmadas de UST por parte de Japón.
+El caso base es <strong>B</strong>. El A requiere una normalización de Ormuz. El C requiere ventas confirmadas de UST por parte de Japón.
 
 ### 8.2 Puntos de control (por orden de prioridad)
 
@@ -513,13 +513,13 @@ Artículo sobre el IPP japonés:
 
 ## 10. La conclusión en una línea
 
-Los eventos del 14 y 15 de mayo — IPP de EE.UU. en abril +6,0%, IPP japonés +4,9%, JGB a 10 años en máximos de 28 años, bono a 10 años de EE.UU. al 4,46%, a 30 años al 5,02%, Brent a 108, una cumbre EE.UU.–China de "pequeño acuerdo" — son **un solo ciclo, no cinco eventos independientes**.
+Los eventos del 14 y 15 de mayo — IPP de EE.UU. en abril +6,0%, IPP japonés +4,9%, JGB a 10 años en máximos de 28 años, bono a 10 años de EE.UU. al 4,46%, a 30 años al 5,02%, Brent a 108, una cumbre EE.UU.–China de "pequeño acuerdo" — son <strong>un solo ciclo, no cinco eventos independientes</strong>.
 
-El origen es **Irán / Ormuz**. La primera transmisión es el **petróleo**; la segunda, la **inflación en EE.UU. y Japón**; la tercera, los **cambios en la política de los bancos centrales**; la cuarta, los **tipos largos más altos en EE.UU.**; y el punto de llegada es **una repricing de la tasa de descuento global → compresión de múltiplos en activos de riesgo**. La cumbre EE.UU.–China no creó el ciclo; solo puede acelerarlo o retrasarlo.
+El origen es <strong>Irán / Ormuz</strong>. La primera transmisión es el <strong>petróleo</strong>; la segunda, la <strong>inflación en EE.UU. y Japón</strong>; la tercera, los <strong>cambios en la política de los bancos centrales</strong>; la cuarta, los <strong>tipos largos más altos en EE.UU.</strong>; y el punto de llegada es <strong>una repricing de la tasa de descuento global → compresión de múltiplos en activos de riesgo</strong>. La cumbre EE.UU.–China no creó el ciclo; solo puede acelerarlo o retrasarlo.
 
-Una vez que dibujas el cuadro, cada titular futuro te dice en qué clase de activo va a aterrizar. **El punto de control más importante es cuándo se normalice Ormuz.** Ahí es donde termina el ciclo. Si Ormuz se normaliza antes de junio, el ciclo termina y es posible un movimiento de alivio hacia activos de riesgo. Si se prolonga, los tipos largos en EE.UU. tienen más recorrido, y la repricing de la tasa de descuento se intensifica.
+Una vez que dibujas el cuadro, cada titular futuro te dice en qué clase de activo va a aterrizar. <strong>El punto de control más importante es cuándo se normalice Ormuz.</strong> Ahí es donde termina el ciclo. Si Ormuz se normaliza antes de junio, el ciclo termina y es posible un movimiento de alivio hacia activos de riesgo. Si se prolonga, los tipos largos en EE.UU. tienen más recorrido, y la repricing de la tasa de descuento se intensifica.
 
-Perseguir riesgo ahora sin verificar el ciclo es ineficiente. **Primero localiza el ciclo — dónde está, hacia dónde va — y luego evalúa apuestas asimétricas a nivel de acción.** Las grandes compañías se devalúan cuando el ciclo se acelera; las mediocres pueden rebotar cuando el ciclo se detiene. **El ciclo va antes que la acción.**
+Perseguir riesgo ahora sin verificar el ciclo es ineficiente. <strong>Primero localiza el ciclo — dónde está, hacia dónde va — y luego evalúa apuestas asimétricas a nivel de acción.</strong> Las grandes compañías se devalúan cuando el ciclo se acelera; las mediocres pueden rebotar cuando el ciclo se detiene. <strong>El ciclo va antes que la acción.</strong>
 
 ---
 

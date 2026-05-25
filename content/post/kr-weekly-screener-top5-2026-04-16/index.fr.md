@@ -25,7 +25,7 @@ draft: false
 
 # Top 5 du Screener Actions Coréennes (Semaine du 16 avr. 2026) : Les Valeurs Passant Plusieurs Filtres Indépendants
 
-Chaque semaine, notre cadre quantitatif fait tourner dix filtres indépendants sur 459 valeurs coréennes cotées identifiées de manière unique. Ce rapport met en avant les cinq valeurs ayant passé simultanément le plus grand nombre de ces filtres durant la période **du 9 au 16 avril 2026** — et explique pourquoi l'intersection, et non le filtre unique, constitue l'unité d'analyse pertinente.
+Chaque semaine, notre cadre quantitatif fait tourner dix filtres indépendants sur 459 valeurs coréennes cotées identifiées de manière unique. Ce rapport met en avant les cinq valeurs ayant passé simultanément le plus grand nombre de ces filtres durant la période <strong>du 9 au 16 avril 2026</strong> — et explique pourquoi l'intersection, et non le filtre unique, constitue l'unité d'analyse pertinente.
 
 ---
 
@@ -33,23 +33,23 @@ Chaque semaine, notre cadre quantitatif fait tourner dix filtres indépendants s
 
 La plupart des filtres quantitatifs sont des outils mono-thèse : un filtre de retour à la moyenne identifie des valeurs qui ont fortement corrigé ; un filtre momentum identifie des valeurs en tendance haussière ; un filtre de flux « smart money » identifie des valeurs où le positionnement institutionnel se construit. Chacun d'eux peut générer des faux positifs — une action peut passer un filtre de retour à la moyenne simplement parce qu'elle a chuté, sans qu'une véritable inflexion soit en cours.
 
-**Le filtrage par intersection** obéit à une logique différente. Lorsqu'une valeur passe simultanément des filtres fondés sur des *hypothèses opposées* — par exemple, à la fois un modèle de rebond post-correction et un modèle de momentum post-publication de résultats —, le recoupement est structurellement informatif. Ces deux cadres n'ont pas été conçus pour converger ; leur activation simultanée suggère que la valeur bénéficie de plusieurs vents porteurs indépendants, et non d'un seul facteur transitoire. En termes académiques, l'intersection réduit le bruit propre à chaque facteur et amplifie le ratio signal/bruit de chaque filtre pris individuellement.
+<strong>Le filtrage par intersection</strong> obéit à une logique différente. Lorsqu'une valeur passe simultanément des filtres fondés sur des *hypothèses opposées* — par exemple, à la fois un modèle de rebond post-correction et un modèle de momentum post-publication de résultats —, le recoupement est structurellement informatif. Ces deux cadres n'ont pas été conçus pour converger ; leur activation simultanée suggère que la valeur bénéficie de plusieurs vents porteurs indépendants, et non d'un seul facteur transitoire. En termes académiques, l'intersection réduit le bruit propre à chaque facteur et amplifie le ratio signal/bruit de chaque filtre pris individuellement.
 
 Nos dix filtres ciblent des régimes de marché distincts : Retour à la Moyenne (rebonds post-correction profonde), PEAD (Post-Earnings Announcement Drift — momentum de prix consécutif à des surprises sur les bénéfices), Compounder de Qualité (composeurs ROE/ROIC/croissance des bénéfices), Accumulation Discrète (accumulation institutionnelle furtive avant que le marché s'en aperçoive), trois variantes Smart Money Flow, Valeur-Qualité (bon marché sur les fondamentaux avec filtre qualité) et Cycle (rotation sectorielle liée aux régimes macro). Les hypothèses de conception de ces filtres étant contradictoires, une valeur apparaissant dans le quintile supérieur de cinq d'entre eux ou plus est — par construction — indépendante d'un artefact mono-facteur.
 
 Les cinq valeurs présentées ci-dessous sont celles affichant les plus hauts taux d'intersection parmi 459 sociétés coréennes cotées, sur jusqu'à trois snapshots quotidiens durant la période couverte. Elles s'étendent sur cinq régimes distincts (retour à la moyenne, retournement deep value, momentum en breakout, re-rating de holding et biotech smart money), ce qui offre une diversification naturelle par régime du point de vue de la construction de portefeuille.
 
-> **Cadrage important :** Les scores de force du signal utilisés dans ce rapport reflètent les taux d'intersection des filtres et l'alignement des facteurs — ils ne constituent pas des recommandations d'achat, de vente ou de conservation. Voir les sections FAQ et Avertissement.
+> <strong>Cadrage important :</strong> Les scores de force du signal utilisés dans ce rapport reflètent les taux d'intersection des filtres et l'alignement des facteurs — ils ne constituent pas des recommandations d'achat, de vente ou de conservation. Voir les sections FAQ et Avertissement.
 
 ---
 
 ## #1 — Sepong Electric (세명전기, 017510.KQ)
 
-**Force du Signal : Maximum** | Taux d'Intersection : 6/10
+<strong>Force du Signal : Maximum</strong> | Taux d'Intersection : 6/10
 
 ### Résumé des Intersections de Filtres
 
-Sepong Electric est la *seule* valeur de l'univers complet de 459 sociétés à passer simultanément les filtres **Retour à la Moyenne** et **PEAD** — deux cadres fondés sur des hypothèses mutuellement exclusives (l'un exige une baisse de prix ; l'autre exige une hausse de prix post-résultats). Elle a également passé les filtres Compounder de Qualité, deux variantes Smart Money et Valeur-Qualité, pour un total d'intersection de six.
+Sepong Electric est la *seule* valeur de l'univers complet de 459 sociétés à passer simultanément les filtres <strong>Retour à la Moyenne</strong> et <strong>PEAD</strong> — deux cadres fondés sur des hypothèses mutuellement exclusives (l'un exige une baisse de prix ; l'autre exige une hausse de prix post-résultats). Elle a également passé les filtres Compounder de Qualité, deux variantes Smart Money et Valeur-Qualité, pour un total d'intersection de six.
 
 ### Métriques Financières
 
@@ -57,13 +57,13 @@ Sepong Electric est la *seule* valeur de l'univers complet de 459 sociétés à 
 |---|---|
 | Prix Actuel | ₩10 200 |
 | Décote par Rapport au Plus Haut 52 semaines | −16,9 % |
-| Résultat Opérationnel (glissement annuel) | **+393 %** |
-| Résultat Net (glissement annuel) | **+172 %** |
+| Résultat Opérationnel (glissement annuel) | <strong>+393 %</strong> |
+| Résultat Net (glissement annuel) | <strong>+172 %</strong> |
 | PER Prévisionnel | 12,2× |
 | PBR | 1,73× |
 | Marge Opérationnelle | 45,8 % |
 | ROE | 15,1 % |
-| Variation des Participations Étrangères (20 j.) | **+1,56 pp**, achat net ₩3,1 Mds |
+| Variation des Participations Étrangères (20 j.) | <strong>+1,56 pp</strong>, achat net ₩3,1 Mds |
 | RSI | 58,6 |
 | MACD | Croisement positif |
 
@@ -83,7 +83,7 @@ Sepong Electric est une valeur KOSDAQ de petite à moyenne capitalisation, avec 
 
 ## #2 — Woowon Development (우원개발, 046940.KQ)
 
-**Force du Signal : Maximum** | Taux d'Intersection : 5/10
+<strong>Force du Signal : Maximum</strong> | Taux d'Intersection : 5/10
 
 ### Résumé des Intersections de Filtres
 
@@ -95,13 +95,13 @@ Woowon Development a passé cinq filtres : PEAD, Accumulation Discrète et trois
 |---|---|
 | Prix Actuel | ₩5 060 |
 | Décote par Rapport au Plus Haut 52 semaines | −2,5 % |
-| Résultat Opérationnel (glissement annuel) | **+2 300 %** |
-| Résultat Net (glissement annuel) | **+6 757 %** |
-| PER Prévisionnel | **1,9×** |
-| PBR | **0,58×** |
+| Résultat Opérationnel (glissement annuel) | <strong>+2 300 %</strong> |
+| Résultat Net (glissement annuel) | <strong>+6 757 %</strong> |
+| PER Prévisionnel | <strong>1,9×</strong> |
+| PBR | <strong>0,58×</strong> |
 | ROE | 36,8 % |
 | Marge Opérationnelle | 17,9 % |
-| Variation des Participations Étrangères (20 j.) | **+0,83 pp** |
+| Variation des Participations Étrangères (20 j.) | <strong>+0,83 pp</strong> |
 
 ### Thèse
 
@@ -119,7 +119,7 @@ Les cycliques de la construction figurent parmi les valeurs les plus sensibles a
 
 ## #3 — SK Hynix (SK하이닉스, 000660.KS)
 
-**Force du Signal : Élevée** | Taux d'Intersection : 5/10
+<strong>Force du Signal : Élevée</strong> | Taux d'Intersection : 5/10
 
 ### Métriques Financières
 
@@ -127,12 +127,12 @@ Les cycliques de la construction figurent parmi les valeurs les plus sensibles a
 |---|---|
 | Prix Actuel | ₩1 136 000 |
 | Statut 52 semaines | Nouveau plus haut 52 semaines |
-| Résultat Opérationnel (glissement annuel) | **+101 %** |
-| Résultat Net (glissement annuel) | **+117 %** |
-| PER Prévisionnel | **5,0×** |
+| Résultat Opérationnel (glissement annuel) | <strong>+101 %</strong> |
+| Résultat Net (glissement annuel) | <strong>+117 %</strong> |
+| PER Prévisionnel | <strong>5,0×</strong> |
 | ROE | 44,1 % |
-| Achat Net Institutionnel (10 j.) | **+₩1 952 Mds** |
-| Achat Net Étranger (5 j.) | **+₩2 547 Mds** |
+| Achat Net Institutionnel (10 j.) | <strong>+₩1 952 Mds</strong> |
+| Achat Net Étranger (5 j.) | <strong>+₩2 547 Mds</strong> |
 | Flux Étrangers Nets (20 j.) | −₩2 200 Mds |
 
 ### Thèse
@@ -151,7 +151,7 @@ SK Hynix est directement exposée aux restrictions commerciales américano-chino
 
 ## #4 — SK Square (SK스퀘어, 402340.KS)
 
-**Force du Signal : Élevée / Timing Mixte** | Taux d'Intersection : 7/10
+<strong>Force du Signal : Élevée / Timing Mixte</strong> | Taux d'Intersection : 7/10
 
 ### Métriques Financières
 
@@ -159,18 +159,18 @@ SK Hynix est directement exposée aux restrictions commerciales américano-chino
 |---|---|
 | Prix Actuel | ₩690 000 |
 | Statut 52 semaines | Nouveau plus haut 52 semaines |
-| PER Prévisionnel | **4,0×** |
+| PER Prévisionnel | <strong>4,0×</strong> |
 | PBR | 3,17× |
-| Résultat Opérationnel (glissement annuel) | **+124 %** |
+| Résultat Opérationnel (glissement annuel) | <strong>+124 %</strong> |
 | ROE | 37,8 % |
 | Marge Opérationnelle | 84,1 % |
-| Flux Étrangers Nets (20 j.) | **−₩223,6 Mds** (prise de bénéfices) |
+| Flux Étrangers Nets (20 j.) | <strong>−₩223,6 Mds</strong> (prise de bénéfices) |
 | Flux Institutionnels Nets (20 j.) | +₩130,8 Mds |
 | RSI | 66,6 |
 
 ### Thèse
 
-SK Square a atteint le **plus haut taux d'intersection du scan de cette semaine avec 7/10 filtres** — passant l'ensemble des grandes catégories de régime. SK Square est une holding dont l'actif principal est une participation substantielle dans SK Hynix. Le PER prévisionnel de 4,0× représente une décote structurelle par rapport à la valorisation propre de SK Hynix ; à mesure que la capacité bénéficiaire de SK Hynix est reconnue, la décote à laquelle SK Square se négocie par rapport à la valeur nette d'actif devrait se comprimer. La qualification « Timing Mixte » reflète une tension : le plus haut taux d'intersection (7/10) coexiste avec des indicateurs de prudence à court terme — les investisseurs étrangers sont vendeurs nets sur 20 jours (−₩223,6 Mds), le RSI est élevé à 66,6, et l'action est à un nouveau plus haut sur 52 semaines.
+SK Square a atteint le <strong>plus haut taux d'intersection du scan de cette semaine avec 7/10 filtres</strong> — passant l'ensemble des grandes catégories de régime. SK Square est une holding dont l'actif principal est une participation substantielle dans SK Hynix. Le PER prévisionnel de 4,0× représente une décote structurelle par rapport à la valorisation propre de SK Hynix ; à mesure que la capacité bénéficiaire de SK Hynix est reconnue, la décote à laquelle SK Square se négocie par rapport à la valeur nette d'actif devrait se comprimer. La qualification « Timing Mixte » reflète une tension : le plus haut taux d'intersection (7/10) coexiste avec des indicateurs de prudence à court terme — les investisseurs étrangers sont vendeurs nets sur 20 jours (−₩223,6 Mds), le RSI est élevé à 66,6, et l'action est à un nouveau plus haut sur 52 semaines.
 
 ### Observations Techniques
 
@@ -184,7 +184,7 @@ Les décotes des holdings coréennes sont structurellement persistantes. La valo
 
 ## #5 — Pharmicell (파미셀, 005690.KS)
 
-**Force du Signal : Élevée (Portée par les Flux)** | Taux d'Intersection : 4/10
+<strong>Force du Signal : Élevée (Portée par les Flux)</strong> | Taux d'Intersection : 4/10
 
 ### Métriques Financières
 
@@ -192,14 +192,14 @@ Les décotes des holdings coréennes sont structurellement persistantes. La valo
 |---|---|
 | Prix Actuel | ₩17 900 |
 | Décote par Rapport au Plus Haut | −7,1 % |
-| Résultat Opérationnel (glissement annuel) | **+630 %** |
-| Résultat Net (glissement annuel) | **+540 %** |
+| Résultat Opérationnel (glissement annuel) | <strong>+630 %</strong> |
+| Résultat Net (glissement annuel) | <strong>+540 %</strong> |
 | ROE | 38,3 % |
 | Marge Opérationnelle | 30,1 % |
 | PER | 26,7× |
 | PBR | 8,67× |
-| Flux Étrangers Nets (20 j.) | **+₩19,5 Mds, +2,69 pp de participation** |
-| Flux Institutionnels Nets (20 j.) | **+₩11,3 Mds** |
+| Flux Étrangers Nets (20 j.) | <strong>+₩19,5 Mds, +2,69 pp de participation</strong> |
+| Flux Institutionnels Nets (20 j.) | <strong>+₩11,3 Mds</strong> |
 
 ### Thèse
 
@@ -240,19 +240,19 @@ Les valeurs biotechnologiques comportent un risque d'événement binaire lié au
 
 ## FAQ
 
-**Q1 : Qu'est-ce que le filtrage par intersection ?**
+<strong>Q1 : Qu'est-ce que le filtrage par intersection ?</strong>
 Le filtrage par intersection est une méthodologie quantitative qui identifie des valeurs figurant simultanément dans la cohorte la mieux classée de plusieurs filtres indépendants. Plutôt que de sélectionner des actions qui passent *un* seul filtre, elle exige le passage de *plusieurs* filtres conçus sous des hypothèses différentes. Le recoupement est traité comme une preuve de plus haute confiance d'un alignement multi-facteur.
 
-**Q2 : Pourquoi faire tourner 10 filtres plutôt qu'un modèle composite unique ?**
+<strong>Q2 : Pourquoi faire tourner 10 filtres plutôt qu'un modèle composite unique ?</strong>
 Un modèle composite unique peut masquer la neutralisation des facteurs — un score élevé sur un facteur pourrait compenser un score faible sur un autre. Faire tourner 10 modèles séparés optimisant chacun pour un régime distinct oblige l'action à démontrer une force indépendante sur plusieurs dimensions. L'intersection est une forme de validation par ensemble.
 
-**Q3 : Que signifie PEAD ?**
+<strong>Q3 : Que signifie PEAD ?</strong>
 PEAD signifie Post-Earnings Announcement Drift (Dérive Post-Annonce de Résultats). Il s'agit d'une anomalie de marché documentée — identifiée dans la littérature académique (Ball & Brown, 1968 ; Bernard & Thomas, 1989) — selon laquelle les cours boursiers continuent de dériver dans la direction d'une surprise bénéficiaire pendant des semaines ou des mois après la date d'annonce, plutôt que de s'ajuster intégralement dès la publication. Un filtre PEAD identifie des actions qui ont récemment publié une surprise bénéficiaire et dont le cours n'a pas encore pleinement intégré l'information.
 
-**Q4 : Comment validez-vous que les intersections de filtres sont des signaux structurels plutôt qu'un chevauchement factoriel accidentel ?**
+<strong>Q4 : Comment validez-vous que les intersections de filtres sont des signaux structurels plutôt qu'un chevauchement factoriel accidentel ?</strong>
 C'est la question méthodologique centrale. Notre approche de validation actuelle : (a) vérifier la corrélation entre les facteurs des filtres en intersection pour s'assurer qu'ils ne mesurent pas des variables identiques (QC, VQ et SM-Q partagent tous une sensibilité au ROE — les utilisateurs devraient traiter ces trois-là comme un cluster partiel, et non comme trois votes totalement indépendants) ; (b) examiner les taux de succès hors échantillon pour les cohortes d'intersection précédentes ; (c) analyser les distributions de rendements prévisionnels à 12 mois pour des tailles d'intersection de 4+, 5+, 6+ et 7+. Un backtest complet sur la configuration simultanée MR+PEAD (telle qu'observée chez Sepong Electric cette semaine) est prévu.
 
-**Q5 : S'agit-il de conseils en investissement ?**
+<strong>Q5 : S'agit-il de conseils en investissement ?</strong>
 Non — analyse éducative uniquement. Ce rapport ne constitue pas un conseil en investissement, une sollicitation d'achat ou de vente d'un quelconque titre, ni une recommandation de prendre une quelconque décision financière. Tous les scores de force du signal, les niveaux de référence de scénario et les observations techniques sont de nature descriptive et informative.
 
 ---
@@ -269,11 +269,11 @@ Les cinq valeurs présentées cette semaine couvrent cinq régimes d'investissem
 
 ## Avertissement
 
-Ce rapport est produit **à des fins éducatives et informatives uniquement**. Il ne constitue pas un conseil en investissement, une sollicitation, une offre d'achat ou de vente d'un quelconque titre, ni une recommandation de prendre une quelconque décision financière. Les informations contenues dans ce rapport sont basées sur des données publiquement disponibles et des résultats de filtres quantitatifs ; elles peuvent contenir des erreurs ou des omissions, et aucune déclaration n'est faite quant à leur exactitude ou leur exhaustivité.
+Ce rapport est produit <strong>à des fins éducatives et informatives uniquement</strong>. Il ne constitue pas un conseil en investissement, une sollicitation, une offre d'achat ou de vente d'un quelconque titre, ni une recommandation de prendre une quelconque décision financière. Les informations contenues dans ce rapport sont basées sur des données publiquement disponibles et des résultats de filtres quantitatifs ; elles peuvent contenir des erreurs ou des omissions, et aucune déclaration n'est faite quant à leur exactitude ou leur exhaustivité.
 
-**Les investisseurs individuels doivent mener leurs propres recherches indépendantes** et consulter des conseillers financiers qualifiés avant de prendre toute décision d'investissement. Le profil de risque, le contexte de portefeuille, la situation fiscale, l'horizon d'investissement et l'environnement réglementaire de chaque investisseur sont différents.
+<strong>Les investisseurs individuels doivent mener leurs propres recherches indépendantes</strong> et consulter des conseillers financiers qualifiés avant de prendre toute décision d'investissement. Le profil de risque, le contexte de portefeuille, la situation fiscale, l'horizon d'investissement et l'environnement réglementaire de chaque investisseur sont différents.
 
-**Avis sur le risque de liquidité :** Sepong Electric (017510.KQ) et Woowon Development (046940.KQ) sont des valeurs KOSDAQ de petite à moyenne capitalisation avec une liquidité de trading quotidienne nettement inférieure à celle des grandes capitalisations du marché principal du KOSPI. Les investisseurs dans des titres peu liquides font face à des spreads acheteur-vendeur plus larges, à un impact de prix plus important lors de changements de position, et à une capacité potentiellement réduite à sortir aux prix souhaités.
+<strong>Avis sur le risque de liquidité :</strong> Sepong Electric (017510.KQ) et Woowon Development (046940.KQ) sont des valeurs KOSDAQ de petite à moyenne capitalisation avec une liquidité de trading quotidienne nettement inférieure à celle des grandes capitalisations du marché principal du KOSPI. Les investisseurs dans des titres peu liquides font face à des spreads acheteur-vendeur plus larges, à un impact de prix plus important lors de changements de position, et à une capacité potentiellement réduite à sortir aux prix souhaités.
 
 Les performances passées des filtres et les rendements historiques des facteurs ne garantissent pas les résultats futurs. Les marchés actions coréens sont soumis à des risques réglementaires, de change, géopolitiques et macroéconomiques qui peuvent ne pas être entièrement capturés par un quelconque cadre quantitatif.
 

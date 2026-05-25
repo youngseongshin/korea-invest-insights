@@ -94,28 +94,28 @@ The Friday-evening "concentrated" series picks 3–5 highest-conviction Korean e
 
 ## FAQ — Korean Stock Market
 
-**Q: What is the Korean stock market called?**
-A: Korea has two main public-equity exchanges, both operated by the Korea Exchange (KRX): **KOSPI** (large-cap) and **KOSDAQ** (small-and-mid-cap, with technology/growth tilt).
+<strong>Q: What is the Korean stock market called?</strong>
+A: Korea has two main public-equity exchanges, both operated by the Korea Exchange (KRX): <strong>KOSPI</strong> (large-cap) and <strong>KOSDAQ</strong> (small-and-mid-cap, with technology/growth tilt).
 
-**Q: What time does the Korean stock market open and close?**
-A: Regular hours are **09:00–15:30 KST**, Monday through Friday. Pre-market and post-market sessions extend before 09:00 and after 15:30 via auction and the NXT alternative trading system.
+<strong>Q: What time does the Korean stock market open and close?</strong>
+A: Regular hours are <strong>09:00–15:30 KST</strong>, Monday through Friday. Pre-market and post-market sessions extend before 09:00 and after 15:30 via auction and the NXT alternative trading system.
 
-**Q: What is the difference between KOSPI and KOSDAQ?**
+<strong>Q: What is the difference between KOSPI and KOSDAQ?</strong>
 A: KOSPI hosts the larger, more established companies (Samsung Electronics, SK hynix, Hyundai Motor, etc.). KOSDAQ focuses on smaller, often technology-oriented or growth-stage companies (HLB, Pharmaresearch, smaller AI / biotech / game names).
 
-**Q: Are foreign investors buying or selling Korean stocks in 2026?**
+<strong>Q: Are foreign investors buying or selling Korean stocks in 2026?</strong>
 A: Foreign-investor net-flow direction shifts day to day; daily KR Close Briefings publish the flow split. Structurally, the 2026 Korea Outperformance setup has had foreign rotation back into Korea as one of its three core drivers.
 
-**Q: What are the largest companies on KOSPI?**
+<strong>Q: What are the largest companies on KOSPI?</strong>
 A: By market cap, the dominant weights are Samsung Electronics (005930), SK hynix (000660), LG Energy Solution (373220), Hyundai Motor (005380), Samsung Biologics (207940), and Naver (035420), among others.
 
-**Q: How do I invest in Korean stocks from outside Korea?**
+<strong>Q: How do I invest in Korean stocks from outside Korea?</strong>
 A: Foreign investors typically access KRX-listed equities via an international broker that supports the Korea Exchange (most major global brokers do), or through Korean ETFs listed on the NYSE / Nasdaq / LSE. Some Korean companies are also dual-listed on US exchanges (Coupang, WEBTOON Entertainment).
 
-**Q: What is the Value-Up program?**
+<strong>Q: What is the Value-Up program?</strong>
 A: Korea's corporate-governance and capital-return reform program — the structural backdrop for the multi-year re-rating thesis that has lifted KOSPI and KOSDAQ valuations through 2025–2026. The program emphasizes shareholder return (buyback-and-cancel + dividends), capital efficiency, and listing-cohort discipline.
 
-**Q: Is there a daily summary of the Korean stock market in English?**
+<strong>Q: Is there a daily summary of the Korean stock market in English?</strong>
 A: Yes — this site publishes [KR Close Briefings](#daily-briefings--recent-sessions) and [Weekly Concentrated Strategy](#weekly-concentrated-strategy) posts daily, available in English plus six other languages.
 
 ---

@@ -18,7 +18,7 @@ tags:
   - "NAND"
 ---
 
-> 🔗 **Lecturas relacionadas**: [Samsung Electronics 2026 — IA / HBM / Foundry en profundidad](/post/kr-deep-dive-samsung-electronics-2026-04-16/) · [Samsung Electronics vs. Samsung Electro-Mechanics — Reaceleración del capex de IA en Big Tech](/post/bigtech-1q26-samsung-electronics-vs-electro-mechanics-2026-04-30/) · [El peso de Samsung Electronics en el índice KOSPI](/post/samsung-electronics-weight-in-kospi-index-2026/) · [SK hynix: cuota de mercado en HBM 2026](/post/sk-hynix-hbm-market-share-ai-memory-demand-2026/) · [Por qué Corea, Parte 3 — Samsung / SK hynix y el re-rating de la economía coreana](/post/samsung-sk-hynix-korea-ai-economy-rerating-2026-05-09/) · [Centro de inversión HBM / KOSPI](/page/korea-semiconductor-hbm-kospi-hub/)
+> 🔗 <strong>Lecturas relacionadas</strong>: [Samsung Electronics 2026 — IA / HBM / Foundry en profundidad](/post/kr-deep-dive-samsung-electronics-2026-04-16/) · [Samsung Electronics vs. Samsung Electro-Mechanics — Reaceleración del capex de IA en Big Tech](/post/bigtech-1q26-samsung-electronics-vs-electro-mechanics-2026-04-30/) · [El peso de Samsung Electronics en el índice KOSPI](/post/samsung-electronics-weight-in-kospi-index-2026/) · [SK hynix: cuota de mercado en HBM 2026](/post/sk-hynix-hbm-market-share-ai-memory-demand-2026/) · [Por qué Corea, Parte 3 — Samsung / SK hynix y el re-rating de la economía coreana](/post/samsung-sk-hynix-korea-ai-economy-rerating-2026-05-09/) · [Centro de inversión HBM / KOSPI](/page/korea-semiconductor-hbm-kospi-hub/)
 
 *Citi elevó el precio objetivo de Samsung Electronics de ₩300.000 a ₩460.000. Frente al cierre del 11 de mayo de ₩285.500, eso representa un potencial del +61%, lo que implicaría \~₩1.020 billones de capitalización adicional. Parece agresivo. Pero el fondo del informe no es "Samsung sube más". Es que la creencia de 30 años —"los precios de la memoria suben y luego caen"— puede estar equivocada esta vez, porque la IA ha cambiado estructuralmente la naturaleza de la demanda de memoria. Que esa tesis sea correcta o no importa más que el titular del precio objetivo. Para juzgarlo, primero hay que entender qué es la memoria y qué cambió la IA.*
 
@@ -26,10 +26,10 @@ tags:
 
 ## Resumen ejecutivo
 
-* **Citi TP ₩460.000.** Desde ₩300.000 (+53% de revisión). Potencial alcista del +61% frente al cierre del 11 de mayo de ₩285.500.
-* **El resultado del 1T es el punto de partida.** Samsung Electronics registró un beneficio operativo consolidado de ₩57,2 billones en el 1T26. Solo la división DS (semiconductores) aportó ₩53,7 billones con un **margen del 65,7%**. Eso no es el perfil financiero de una empresa de semiconductores; es el de una plataforma monopolística.
-* **La tesis central de Citi.** No se trata solo de que el HBM (memoria de alto ancho de banda para IA) suba de precio. La demanda de IA está absorbiendo capacidad de fabricación de forma generalizada, **elevando también los precios del DRAM y NAND de commodity junto con el HBM**. El argumento es que se trata de un cambio estructural en la forma de la demanda, no de un ciclo transitorio.
-* **Para que ₩460.000 sea alcanzable.** Los beneficios del 1T deben "sostenerse estructuralmente durante el 2S26" en lugar de ser un pico. Las dos variables de verificación son la trayectoria de precios de memoria en el 2T y las cualificaciones de clientes para HBM4E.
+* <strong>Citi TP ₩460.000.</strong> Desde ₩300.000 (+53% de revisión). Potencial alcista del +61% frente al cierre del 11 de mayo de ₩285.500.
+* <strong>El resultado del 1T es el punto de partida.</strong> Samsung Electronics registró un beneficio operativo consolidado de ₩57,2 billones en el 1T26. Solo la división DS (semiconductores) aportó ₩53,7 billones con un <strong>margen del 65,7%</strong>. Eso no es el perfil financiero de una empresa de semiconductores; es el de una plataforma monopolística.
+* <strong>La tesis central de Citi.</strong> No se trata solo de que el HBM (memoria de alto ancho de banda para IA) suba de precio. La demanda de IA está absorbiendo capacidad de fabricación de forma generalizada, <strong>elevando también los precios del DRAM y NAND de commodity junto con el HBM</strong>. El argumento es que se trata de un cambio estructural en la forma de la demanda, no de un ciclo transitorio.
+* <strong>Para que ₩460.000 sea alcanzable.</strong> Los beneficios del 1T deben "sostenerse estructuralmente durante el 2S26" en lugar de ser un pico. Las dos variables de verificación son la trayectoria de precios de memoria en el 2T y las cualificaciones de clientes para HBM4E.
 
 ---
 
@@ -37,7 +37,7 @@ tags:
 
 ### 1.1 Memoria = el "escritorio de trabajo" de un ordenador
 
-Los ordenadores necesitan dos cosas: **dispositivos de cómputo** (CPU, GPU) y **dispositivos de almacenamiento / preparación** (memoria, almacenamiento).
+Los ordenadores necesitan dos cosas: <strong>dispositivos de cómputo</strong> (CPU, GPU) y <strong>dispositivos de almacenamiento / preparación</strong> (memoria, almacenamiento).
 
 ```
 Analogía: un oficinista.
@@ -48,15 +48,15 @@ Almacenamiento (NAND) = el archivador. Guarda los archivos que no se están usan
                         Un archivador más grande permite guardar más documentos en total.
 ```
 
-**DRAM**: memoria volátil; los datos desaparecen al apagar el equipo. Se usa para "datos en uso en este momento" — lectura/escritura rápida. Se encuentra en smartphones, PCs y servidores.
+<strong>DRAM</strong>: memoria volátil; los datos desaparecen al apagar el equipo. Se usa para "datos en uso en este momento" — lectura/escritura rápida. Se encuentra en smartphones, PCs y servidores.
 
-**NAND**: memoria no volátil; los datos persisten al apagar el equipo. Se usa en SSD. Almacena fotos, vídeos y datos de aplicaciones.
+<strong>NAND</strong>: memoria no volátil; los datos persisten al apagar el equipo. Se usa en SSD. Almacena fotos, vídeos y datos de aplicaciones.
 
-Samsung Electronics es el **número 1 mundial tanto en DRAM como en NAND** por cuota de mercado. SK hynix es el número 2 y Micron (EE. UU.) el número 3. Estos tres concentran la mayor parte del mercado global de memoria.
+Samsung Electronics es el <strong>número 1 mundial tanto en DRAM como en NAND</strong> por cuota de mercado. SK hynix es el número 2 y Micron (EE. UU.) el número 3. Estos tres concentran la mayor parte del mercado global de memoria.
 
 ### 1.2 HBM — el "escritorio enorme" que la IA exigió
 
-El DRAM estándar es el "escritorio de tamaño normal". Basta para navegar por internet, trabajar con documentos o jugar. **La IA necesita que ese escritorio sea gigantesco.** Los grandes modelos de lenguaje al nivel de ChatGPT deben manipular cientos de miles de millones de parámetros simultáneamente.
+El DRAM estándar es el "escritorio de tamaño normal". Basta para navegar por internet, trabajar con documentos o jugar. <strong>La IA necesita que ese escritorio sea gigantesco.</strong> Los grandes modelos de lenguaje al nivel de ChatGPT deben manipular cientos de miles de millones de parámetros simultáneamente.
 
 ```
 DRAM estándar: 16 GB-64 GB. Suficiente para PCs y smartphones habituales.
@@ -75,7 +75,7 @@ Por qué el HBM es caro:
 → ASP varias veces o decenas de veces superior
 ```
 
-**Generaciones de HBM**: HBM → HBM2 → HBM2E → HBM3 → HBM3E → **HBM4** → HBM4E. A mayor generación, mayor capacidad, mayor ancho de banda y mejor eficiencia energética. Samsung Electronics **inició los envíos en producción masiva de HBM4 en el 1T** y planea **suministrar muestras de HBM4E en el 2T**.
+<strong>Generaciones de HBM</strong>: HBM → HBM2 → HBM2E → HBM3 → HBM3E → <strong>HBM4</strong> → HBM4E. A mayor generación, mayor capacidad, mayor ancho de banda y mejor eficiencia energética. Samsung Electronics <strong>inició los envíos en producción masiva de HBM4 en el 1T</strong> y planea <strong>suministrar muestras de HBM4E en el 2T</strong>.
 
 [SK hynix](/post/sk-hynix-hbm-market-share-ai-memory-demand-2026/) lidera el mercado de HBM (principal proveedor de NVIDIA); Samsung Electronics está cerrando distancias. Parte de lo que Citi está señalando es que "Samsung está recuperando terreno en HBM".
 
@@ -95,7 +95,7 @@ DIMM = un disco duro externo grande conectado por USB
 SOCAMM = memoria soldada directamente junto al procesador
 ```
 
-Samsung Electronics **inició los envíos en producción masiva de SOCAMM2 (segunda generación) en el 1T**. Este factor de forma se conecta a las próximas plataformas de IA de NVIDIA (Vera Rubin y sucesores).
+Samsung Electronics <strong>inició los envíos en producción masiva de SOCAMM2 (segunda generación) en el 1T</strong>. Este factor de forma se conecta a las próximas plataformas de IA de NVIDIA (Vera Rubin y sucesores).
 
 ### 1.4 Por qué la IA consume tanta memoria
 
@@ -124,7 +124,7 @@ Por qué la IA devora memoria:
    → usuarios simultáneos × tamaño del modelo × longitud del contexto = demanda de memoria astronómica
 ```
 
-**El "crecimiento de tokens de IA" — la expresión de Citi** — es exactamente esto. A medida que el número de tokens (fragmentos de palabras) que procesan los modelos de IA se dispara, la demanda de memoria se expande de forma estructural.
+<strong>El "crecimiento de tokens de IA" — la expresión de Citi</strong> — es exactamente esto. A medida que el número de tokens (fragmentos de palabras) que procesan los modelos de IA se dispara, la demanda de memoria se expande de forma estructural.
 
 ---
 
@@ -132,7 +132,7 @@ Por qué la IA devora memoria:
 
 ### 2.1 El patrón que se repitió durante tres décadas
 
-La industria de la memoria tiene un patrón bien establecido: **"los precios suben → las fábricas se expanden → la oferta se dispara → los precios se desploman."**
+La industria de la memoria tiene un patrón bien establecido: <strong>"los precios suben → las fábricas se expanden → la oferta se dispara → los precios se desploman."</strong>
 
 ```
 Ciclo de memoria convencional:
@@ -150,11 +150,11 @@ Los inversores conocen bien este patrón. Por eso, cuando suben los precios de l
 
 ### 2.2 La tesis de Citi — "Esta vez puede ser diferente"
 
-El argumento central de Citi es que **"el ciclo convencional puede no funcionar esta vez."** Dos razones:
+El argumento central de Citi es que <strong>"el ciclo convencional puede no funcionar esta vez."</strong> Dos razones:
 
-**Primera, la demanda de memoria para IA es estructural, no cíclica.** Los ciclos pasados de precios de memoria venían impulsados por ciclos de renovación de PCs, oleadas de adopción de smartphones, expansión de centros de datos — picos de demanda temporales. La IA es diferente. Los modelos siguen creciendo, los usuarios siguen aumentando y los agentes de IA consumen más memoria por "usuario" que los humanos. La demanda no "sube y baja" — **sigue creciendo**.
+<strong>Primera, la demanda de memoria para IA es estructural, no cíclica.</strong> Los ciclos pasados de precios de memoria venían impulsados por ciclos de renovación de PCs, oleadas de adopción de smartphones, expansión de centros de datos — picos de demanda temporales. La IA es diferente. Los modelos siguen creciendo, los usuarios siguen aumentando y los agentes de IA consumen más memoria por "usuario" que los humanos. La demanda no "sube y baja" — <strong>sigue creciendo</strong>.
 
-**Segunda, el HBM absorbe capacidad de fabricación.** El HBM se fabrica en las mismas plantas que el DRAM estándar, pero cada stack de HBM consume 3-4 veces más superficie de oblea que el DRAM de commodity equivalente. A medida que la demanda de IA redirige asignaciones de fábrica hacia el HBM, la producción de DRAM de commodity se reduce. Por tanto, **no solo el HBM se encarece — los precios del DRAM y NAND de commodity también suben.**
+<strong>Segunda, el HBM absorbe capacidad de fabricación.</strong> El HBM se fabrica en las mismas plantas que el DRAM estándar, pero cada stack de HBM consume 3-4 veces más superficie de oblea que el DRAM de commodity equivalente. A medida que la demanda de IA redirige asignaciones de fábrica hacia el HBM, la producción de DRAM de commodity se reduce. Por tanto, <strong>no solo el HBM se encarece — los precios del DRAM y NAND de commodity también suben.</strong>
 
 ```
 Silogismo central de Citi:
@@ -202,16 +202,16 @@ Samsung Electronics 1T26 (oficial):
 | Concepto | Importe |
 |---|---:|
 | Ingresos consolidados | ₩133,9 billones |
-| Beneficio operativo consolidado | **₩57,2 billones** |
+| Beneficio operativo consolidado | <strong>₩57,2 billones</strong> |
 | Ingresos DS (semiconductores) | ₩81,7 billones |
-| Beneficio operativo DS | **₩53,7 billones** |
-| Margen DS | **65,7%** |
+| Beneficio operativo DS | <strong>₩53,7 billones</strong> |
+| Margen DS | <strong>65,7%</strong> |
 
 Verificación: margen DS = 53,7 / 81,7 = 65,7% ✓
 
 ### 3.2 Por qué esto es extraordinario
 
-**Margen operativo del 65,7%** en contexto:
+<strong>Margen operativo del 65,7%</strong> en contexto:
 
 ```
 Trayectoria del margen DS de Samsung Electronics:
@@ -228,7 +228,7 @@ Margen operativo de Google: \~25-30%
 Los semiconductores de Samsung Electronics ahora producen márgenes al nivel de NVIDIA.
 ```
 
-Esto no son "buenos resultados" — es un número que obliga a preguntarse **"¿ha cambiado la estructura?"** En el ciclo convencional, un margen del 65% es el "pico del pico" y debe revertir a la media. Si la IA ha cambiado estructuralmente la forma de la demanda, este margen puede mantenerse.
+Esto no son "buenos resultados" — es un número que obliga a preguntarse <strong>"¿ha cambiado la estructura?"</strong> En el ciclo convencional, un margen del 65% es el "pico del pico" y debe revertir a la media. Si la IA ha cambiado estructuralmente la forma de la demanda, este margen puede mantenerse.
 
 [Por qué Corea, Parte 3](/post/samsung-sk-hynix-korea-ai-economy-rerating-2026-05-09/) enmarcó cómo el pool de beneficios combinado de Samsung / SK hynix está mejorando ahora la capacidad fiscal coreana, los ingresos de los hogares y los activos de pensiones a un nivel distinto al de ciclos anteriores.
 
@@ -239,15 +239,15 @@ Comprobación mecánica de si ₩460.000 es siquiera plausible:
 | Concepto | Valor |
 |---|---:|
 | Precio actual | ₩285.500 |
-| TP Citi | **₩460.000** |
-| Potencial alcista | **+61,1%** |
+| TP Citi | <strong>₩460.000</strong> |
+| Potencial alcista | <strong>+61,1%</strong> |
 | Capitalización bursátil actual | \~₩1.669 billones |
 | Capitalización implícita al TP | \~₩2.689 billones |
 | Beneficio operativo 1T26 | ₩57,2 billones |
 | Beneficio operativo anualizado simple | ₩228,8 billones (= 57,2 × 4) |
 | Estimación post-impuestos (24%) | ₩173,9 billones |
-| Cap. actual / post-impuestos | **\~9,6×** |
-| Cap. objetivo / post-impuestos | **\~15,5×** |
+| Cap. actual / post-impuestos | <strong>\~9,6×</strong> |
+| Cap. objetivo / post-impuestos | <strong>\~15,5×</strong> |
 
 Verificaciones:
 
@@ -255,9 +255,9 @@ Verificaciones:
 * Cap. TP = 1.669 × (460.000 / 285.500) = \~₩2.689 billones ✓
 * Anualizado = 57,2 × 4 = 228,8 × 0,76 = ₩173,9 billones ✓
 
-**Lectura**: al precio actual, Samsung Electronics cotiza a **\~9,6× los beneficios anualizados post-impuestos**. Para que funcione el TP de ₩460.000 de Citi, este múltiplo debe reclasificarse a **\~15,5×**. Pasar de 9,6× a 15,5× requiere un cambio de mentalidad del mercado: "esto no es un pico, es estructuralmente sostenible."
+<strong>Lectura</strong>: al precio actual, Samsung Electronics cotiza a <strong>\~9,6× los beneficios anualizados post-impuestos</strong>. Para que funcione el TP de ₩460.000 de Citi, este múltiplo debe reclasificarse a <strong>\~15,5×</strong>. Pasar de 9,6× a 15,5× requiere un cambio de mentalidad del mercado: "esto no es un pico, es estructuralmente sostenible."
 
-**En síntesis**: TP Citi ₩460.000 = **"resultados como los del 1T persistirán más tiempo"** + **"por lo tanto, el mercado debería pagar un múltiplo más alto."**
+<strong>En síntesis</strong>: TP Citi ₩460.000 = <strong>"resultados como los del 1T persistirán más tiempo"</strong> + <strong>"por lo tanto, el mercado debería pagar un múltiplo más alto."</strong>
 
 ---
 
@@ -267,11 +267,11 @@ Verificaciones:
 
 El volumen de tokens de IA se está disparando. Crecimiento de usuarios + contextos más largos + proliferación de agentes de IA = demanda de memoria en auge.
 
-Esto se traduce en una **demanda de memoria más amplia que la demanda de GPU**. Las GPU calculan; la memoria almacena y transporta los datos que se calculan. A medida que la IA escala, se necesitan más GPU pero se necesita *mucha más* memoria. Como hacer una multiplicación de 1.000 dígitos — se necesita una calculadora (GPU), pero se necesita muchísimo más papel (memoria).
+Esto se traduce en una <strong>demanda de memoria más amplia que la demanda de GPU</strong>. Las GPU calculan; la memoria almacena y transporta los datos que se calculan. A medida que la IA escala, se necesitan más GPU pero se necesita *mucha más* memoria. Como hacer una multiplicación de 1.000 dígitos — se necesita una calculadora (GPU), pero se necesita muchísimo más papel (memoria).
 
 ### 4.2 Pilar 2 — HBM4 / HBM4E / SOCAMM2 reestructuran la mezcla de productos
 
-La "mezcla" de memoria que vende Samsung está cambiando. Antes dominaba el DRAM estándar; ahora el HBM y el SOCAMM — **productos caros y de alto margen** — representan una proporción creciente.
+La "mezcla" de memoria que vende Samsung está cambiando. Antes dominaba el DRAM estándar; ahora el HBM y el SOCAMM — <strong>productos caros y de alto margen</strong> — representan una proporción creciente.
 
 ```
 Niveles de precios de la memoria (aproximados):
@@ -288,11 +288,11 @@ Samsung Electronics inició los envíos en producción masiva de HBM4 y SOCAMM2 
 
 ### 4.3 Pilar 3 — Los precios de la memoria de commodity también suben
 
-El pilar más importante. **No es solo el HBM el que se encarece — los precios del DRAM y NAND de commodity también suben.**
+El pilar más importante. <strong>No es solo el HBM el que se encarece — los precios del DRAM y NAND de commodity también suben.</strong>
 
-Por qué: Samsung / SK hynix / Micron fabrican HBM y DRAM de commodity en **líneas de fábrica compartidas**. A medida que explota la demanda de HBM y las fábricas reasignan capacidad a ese producto, la capacidad de producción de DRAM de commodity se reduce. La menor oferta sube el precio.
+Por qué: Samsung / SK hynix / Micron fabrican HBM y DRAM de commodity en <strong>líneas de fábrica compartidas</strong>. A medida que explota la demanda de HBM y las fábricas reasignan capacidad a ese producto, la capacidad de producción de DRAM de commodity se reduce. La menor oferta sube el precio.
 
-**Por qué esto importa para Samsung Electronics**: Samsung vende HBM, DRAM de commodity, NAND y eSSD (SSD de alto rendimiento para servidores). Cuando todos estos precios suben simultáneamente, la historia de beneficios no es la de una "monocultura de HBM" — es una **mejora de toda la cartera**. Esta es la tesis de Citi de "revisión al alza del ASP en toda la línea".
+<strong>Por qué esto importa para Samsung Electronics</strong>: Samsung vende HBM, DRAM de commodity, NAND y eSSD (SSD de alto rendimiento para servidores). Cuando todos estos precios suben simultáneamente, la historia de beneficios no es la de una "monocultura de HBM" — es una <strong>mejora de toda la cartera</strong>. Esta es la tesis de Citi de "revisión al alza del ASP en toda la línea".
 
 ---
 
@@ -304,13 +304,13 @@ El informe de Citi es específico sobre Samsung, pero una subida generalizada de
 
 | Orden | Nombre | Intensidad del vínculo | Razón |
 |---|---|---|---|
-| 1 | **Samsung Electronics** | Directo | Es el sujeto. Mejora de precios de memoria en toda la cartera |
-| 2 | **SK hynix** | Directo | Número 1 en HBM. La subida de precios de memoria es un positivo sectorial |
+| 1 | <strong>Samsung Electronics</strong> | Directo | Es el sujeto. Mejora de precios de memoria en toda la cartera |
+| 2 | <strong>SK hynix</strong> | Directo | Número 1 en HBM. La subida de precios de memoria es un positivo sectorial |
 | 3 | [Samsung Electro-Mechanics](/post/samsung-electro-mechanics-ai-infrastructure-rerating-2026-04-21/) | Indirecto | Beneficiario de sustratos y MLCC para servidores de IA. Este informe es una tesis sobre precios de memoria, no sobre sustratos |
 | 4 | [Daeduck Electronics](/post/korea-ai-pcb-ecosystem-ten-companies-2026-05-05/) | Indirecto | Demanda de sustratos para IA. Vínculo débil con los precios de Samsung específicamente |
 | 5 | Pamicell | Indirecto débil | El sentimiento positivo en infraestructura de IA ayuda, pero este informe por sí solo no es evidencia suficiente |
 
-**Lectura**: Samsung Electronics > SK hynix > Samsung Electro-Mechanics > sustratos y materiales de segundo nivel. La relación directa disminuye a medida que se baja en la cadena. El reflejo de "suben los precios de la memoria → compra todos los nombres de IA" es un salto lógico.
+<strong>Lectura</strong>: Samsung Electronics > SK hynix > Samsung Electro-Mechanics > sustratos y materiales de segundo nivel. La relación directa disminuye a medida que se baja en la cadena. El reflejo de "suben los precios de la memoria → compra todos los nombres de IA" es un salto lógico.
 
 ---
 
@@ -354,7 +354,7 @@ Señales que confirman la tesis:
 
 ## 8. Conclusión
 
-Citi elevó el precio objetivo de Samsung Electronics a ₩460.000. El fondo del informe no es "Samsung es una buena acción". Es que **la creencia de 30 años — 'los precios de la memoria suben y caen' — puede estar equivocada esta vez**, porque la IA ha remodelado la demanda de memoria y el HBM está absorbiendo capacidad de fabricación hasta el punto de que los precios de la memoria de commodity también suben.
+Citi elevó el precio objetivo de Samsung Electronics a ₩460.000. El fondo del informe no es "Samsung es una buena acción". Es que <strong>la creencia de 30 años — 'los precios de la memoria suben y caen' — puede estar equivocada esta vez</strong>, porque la IA ha remodelado la demanda de memoria y el HBM está absorbiendo capacidad de fabricación hasta el punto de que los precios de la memoria de commodity también suben.
 
 Beneficio operativo del 1T de ₩57,2 billones con un margen DS del 65,7% — numéricamente no es un negocio de semiconductores, es una plataforma monopolística. Para que ₩460.000 funcione, este perfil debe sostenerse en lugar de ser un pico.
 
@@ -364,22 +364,22 @@ El TP ₩460.000 de Citi exige que "esta vez sea diferente" sea realmente verdad
 
 ## Preguntas frecuentes
 
-**P: ¿Cómo llegó Citi a ₩460.000?**
+<strong>P: ¿Cómo llegó Citi a ₩460.000?</strong>
 R: El modelo exacto no estaba directamente accesible — el análisis se basa en capturas de pantalla del informe. Verificable mecánicamente: beneficio operativo 1T26 de ₩57,2 billones × 4 = ₩228,8 billones anualizados, × 0,76 (post-impuestos) = ₩173,9 billones, × \~15,5× múltiplo de beneficios. El mercado asigna actualmente \~9,6×, por lo que el TP implica un re-rating del múltiplo de \~60%.
 
-**P: ¿Ha terminado realmente el ciclo de memoria?**
+<strong>P: ¿Ha terminado realmente el ciclo de memoria?</strong>
 R: No puede confirmarse. "Esta vez es diferente" es la frase más peligrosa en la inversión. Para que Citi tenga razón, la demanda de IA no debe desacelerarse en el 2S26, el capex de Big Tech debe mantenerse y los tres fabricantes de memoria deben resistir la sobreinversión. Si falla cualquiera de estas condiciones, el ciclo convencional regresa.
 
-**P: ¿Por qué suben juntos los precios del HBM y del DRAM de commodity?**
+<strong>P: ¿Por qué suben juntos los precios del HBM y del DRAM de commodity?</strong>
 R: Por la fabricación en las mismas plantas. La concentración de HBM impulsada por la IA reduce la capacidad de producción de DRAM de commodity, elevando los precios. Samsung vende HBM + DRAM de commodity + NAND + eSSD, por lo que la mejora de precios en toda la cartera acelera los beneficios totales.
 
-**P: Samsung Electronics vs. SK hynix — ¿cuál es mejor?**
+<strong>P: Samsung Electronics vs. SK hynix — ¿cuál es mejor?</strong>
 R: La exposición pura al HBM es más directa en SK hynix (principal proveedor de NVIDIA). Samsung Electronics es un gran valor multisegmento (memoria + foundry + smartphones). Convicción exclusiva en HBM → SK hynix. Cartera de memoria + opción en foundry → Samsung Electronics. El [Centro de inversión HBM / KOSPI](/page/korea-semiconductor-hbm-kospi-hub/) tiene la comparativa completa.
 
-**P: Con una capitalización de \~1,2 billones de dólares, ¿no está ya cara?**
+<strong>P: Con una capitalización de \~1,2 billones de dólares, ¿no está ya cara?</strong>
 R: La capitalización absoluta es grande. Por múltiplo de beneficios (\~9,6× PER actual), sigue por debajo de sus pares globales (NVIDIA \~35×, TSMC \~25×). "Cara" depende de la vara con la que se mida.
 
-**P: ¿Cuándo se verifica más rápido la tesis de Citi?**
+<strong>P: ¿Cuándo se verifica más rápido la tesis de Citi?</strong>
 R: Dentro del 2T, dos confirmaciones simultáneas supondrían una validación sólida — (1) precios de DRAM/NAND subiendo más intertrimestral, y (2) anuncio de cualificación de clientes para HBM4E. La publicación de resultados del 2T en julio establece entonces una segunda verificación: ¿el margen DS se mantiene por encima del 55%?
 
 ---

@@ -21,20 +21,20 @@ valley_cashtags:
   - 하나마이크론
 ---
 
-> 📚 **Série associée**
+> 📚 <strong>Série associée</strong>
 > [Analyse du découplage technologique au sommet États-Unis–Chine](/fr/post/us-china-summit-tech-decoupling-korea-impact-2026-05-17/) / [Analyse de l'alpha coréen sur CloudMatrix](/fr/post/cloudmatrix-expansion-korea-alpha-inspection-consumables-2026-05-17/) / [Déclencheurs de stabilisation des taux longs](/fr/post/us-japan-long-rate-stabilization-triggers-2026-05-16/) / [Synthèse du cycle macro](/fr/post/2026-q2-macro-cycle-synthesis-2026-05-15/)
 
 *Les marchés ont vacillé en seconde partie de semaine dernière — et pas à cause d'un simple choc de taux. La flambée du pétrole, la hausse des taux réels longs, le raffermissement du dollar, un positionnement surchargé sur l'IA et la faiblesse du crédit chinois ont tous évolué dans le même sens en même temps, produisant un risk-off complexe à cinq niveaux. Le WTI a frôlé les 105 $ ; le Brent, les 109 $. Le PPI américain d'avril a réaccéléré à environ +6 % en glissement annuel. Le 10 ans US a menacé les 4,6 %, et l'USD/KRW est resté ancré dans les 1 500. Dans cet environnement, acheter sur la seule base d'une thèse action augmente la probabilité de perte. Une reprise est possible, mais son point de départ n'est pas « l'économie est solide » — c'est la confirmation que les choses ne s'aggravent plus.*
 
 ## Résumé exécutif
 
-* **La correction actuelle est un risk-off complexe à cinq niveaux.** Un choc pétrolier, la hausse des taux réels longs, le raffermissement du dollar, un positionnement surchargé sur l'IA et la faiblesse du crédit chinois agissent simultanément.
-* **Les déclencheurs de reprise sont bien définis.** Les seuils clés sont : WTI sous 100 $, Brent sous 105 $, 10 ans US sous 4,50–4,55 %, taux réel 10 ans sous 2,0 %, DXY sous 99, USD/KRW passant sous 1 500, et stabilisation de HYG.
-* **L'événement politique de la semaine, c'est le G7 de Paris.** Plus importante que toute action coordonnée sur les taux est la communication sur la sécurité énergétique, la volatilité des changes, le bon fonctionnement du marché des emprunts longs et la gestion du levier des IFNB.
-* **Ne pas lire la Fed Warsh comme simplement accommodante.** Ce que les marchés veulent, ce n'est pas une baisse immédiate — c'est le rétablissement de la crédibilité de la Fed et du bon fonctionnement des marchés.
-* **Les taux de marché peuvent baisser sans une baisse de la Fed.** Une combinaison de RMP, SRF, repo FIMA, rachats du Trésor, retenue sur les émissions à long terme, allègement de l'eSLR, normalisation du passage d'Hormuz et allègement partiel des droits de douane peut constituer un assouplissement furtif.
-* **La reprise du bêta coréen exige des conditions plus strictes qu'aux États-Unis.** Au-delà des taux longs américains, l'USD/KRW, le crédit chinois et les flux étrangers sur les semi-conducteurs doivent tous se retourner ensemble.
-* **L'action d'investissement n'est pas d'élargir le bêta.** C'est la phase pour raccourcir la duration vers des valeurs d'infrastructure IA aux résultats confirmés, préserver l'optionnalité en cash et attendre que les portes macro s'ouvrent.
+* <strong>La correction actuelle est un risk-off complexe à cinq niveaux.</strong> Un choc pétrolier, la hausse des taux réels longs, le raffermissement du dollar, un positionnement surchargé sur l'IA et la faiblesse du crédit chinois agissent simultanément.
+* <strong>Les déclencheurs de reprise sont bien définis.</strong> Les seuils clés sont : WTI sous 100 $, Brent sous 105 $, 10 ans US sous 4,50–4,55 %, taux réel 10 ans sous 2,0 %, DXY sous 99, USD/KRW passant sous 1 500, et stabilisation de HYG.
+* <strong>L'événement politique de la semaine, c'est le G7 de Paris.</strong> Plus importante que toute action coordonnée sur les taux est la communication sur la sécurité énergétique, la volatilité des changes, le bon fonctionnement du marché des emprunts longs et la gestion du levier des IFNB.
+* <strong>Ne pas lire la Fed Warsh comme simplement accommodante.</strong> Ce que les marchés veulent, ce n'est pas une baisse immédiate — c'est le rétablissement de la crédibilité de la Fed et du bon fonctionnement des marchés.
+* <strong>Les taux de marché peuvent baisser sans une baisse de la Fed.</strong> Une combinaison de RMP, SRF, repo FIMA, rachats du Trésor, retenue sur les émissions à long terme, allègement de l'eSLR, normalisation du passage d'Hormuz et allègement partiel des droits de douane peut constituer un assouplissement furtif.
+* <strong>La reprise du bêta coréen exige des conditions plus strictes qu'aux États-Unis.</strong> Au-delà des taux longs américains, l'USD/KRW, le crédit chinois et les flux étrangers sur les semi-conducteurs doivent tous se retourner ensemble.
+* <strong>L'action d'investissement n'est pas d'élargir le bêta.</strong> C'est la phase pour raccourcir la duration vers des valeurs d'infrastructure IA aux résultats confirmés, préserver l'optionnalité en cash et attendre que les portes macro s'ouvrent.
 
 ## 1. La nature du risk-off complexe
 
@@ -125,7 +125,7 @@ La trajectoire la plus rationnelle pour la Fed Warsh ressemble davantage à ce q
 
 Reuters a rapporté que les marchés ont commencé à priser environ 60 % de probabilité d'une hausse de taux de la Fed d'ici le FOMC de janvier 2027. Les marchés ne priscent pas déjà Warsh comme accommodant. En réalité, si un signal d'assouplissement prématuré émerge immédiatement après sa prise de fonction, les emprunts longs pourraient se vendre davantage — cela pourrait être lu comme un signal de dominance budgétaire.
 
-Ce que les marchés attendent de la Fed Warsh n'est donc pas une baisse immédiate. C'est un **pragmatiste crédible** : quelqu'un qui laisse le taux directeur inchangé mais stabilise le fonctionnement des marchés et fait baisser la prime de risque intégrée dans les taux longs.
+Ce que les marchés attendent de la Fed Warsh n'est donc pas une baisse immédiate. C'est un <strong>pragmatiste crédible</strong> : quelqu'un qui laisse le taux directeur inchangé mais stabilise le fonctionnement des marchés et fait baisser la prime de risque intégrée dans les taux longs.
 
 ## 5. Outils de politique pour faire baisser les taux de marché sans une baisse de la Fed
 
@@ -140,7 +140,7 @@ C'est l'enseignement le plus important de cet article. Les taux de marché ne so
 | Prime d'inflation | Stabilisation du pétrole, allègement des droits de douane, normalisation des chaînes d'approvisionnement |
 | Prime de bilan des teneurs de marché | Allègement de l'eSLR, amélioration de la structure du marché des bons du Trésor |
 
-Autrement dit, il existe des moyens de faire baisser les taux de marché sans réduire le taux directeur. J'appelle cette combinaison **assouplissement furtif composite**.
+Autrement dit, il existe des moyens de faire baisser les taux de marché sans réduire le taux directeur. J'appelle cette combinaison <strong>assouplissement furtif composite</strong>.
 
 Du côté de la Fed, le RMP, le SRF et le repo FIMA sont les instruments centraux. Le RMP est un achat technique de bons du Trésor à court terme pour la gestion des réserves — plus proche d'un achat technique pour maintenir des réserves abondantes que du QE. Le SRF plafonne la borne supérieure des taux du marché de financement à court terme. Le repo FIMA et les lignes de swap réduisent le risque que les banques centrales étrangères déversent des bons du Trésor sur le marché pour se procurer des dollars.
 
@@ -209,7 +209,7 @@ L'étape 1 n'est pas encore pleinement satisfaite. Dès lors, plutôt que d'éla
 | Valeurs en amélioration structurelle | Priorité aux valeurs avec des chiffres confirmés — ex. 하나마이크론, 티씨케이 |
 | Paris sur point d'inflexion | Approche conditionnelle pour les valeurs à forte volatilité pré-confirmation telles que Nextin, Jeju Semiconductor |
 
-La position de l'alpha coréen n'est pas « acheter parce que c'est bon marché ». C'est la phase pour **préparer les valeurs qui ont publié leurs résultats, peuvent traverser la porte macro, et seront les premiers achats lorsque les flux étrangers reviendront**.
+La position de l'alpha coréen n'est pas « acheter parce que c'est bon marché ». C'est la phase pour <strong>préparer les valeurs qui ont publié leurs résultats, peuvent traverser la porte macro, et seront les premiers achats lorsque les flux étrangers reviendront</strong>.
 
 ## 8. Orientations par actif et portefeuille
 
@@ -264,7 +264,7 @@ Les résultats NVIDIA constituent un événement à part entière, mais dans ce 
 
 ## 10. Conclusions finales
 
-La turbulence des marchés de la semaine dernière n'était pas un simple choc de taux. C'était un risk-off complexe dans lequel un choc pétrolier, la hausse des taux réels longs, le raffermissement du dollar, un positionnement surchargé sur l'IA et la faiblesse du crédit chinois ont tous frappé simultanément. Une reprise est possible — mais son point de départ n'est pas « la Fed baisse immédiatement ». La séquence est : **désescalade à Hormuz → recul du pétrole → stabilisation des taux longs → affaiblissement du dollar → rétablissement des flux étrangers vers la Corée**.
+La turbulence des marchés de la semaine dernière n'était pas un simple choc de taux. C'était un risk-off complexe dans lequel un choc pétrolier, la hausse des taux réels longs, le raffermissement du dollar, un positionnement surchargé sur l'IA et la faiblesse du crédit chinois ont tous frappé simultanément. Une reprise est possible — mais son point de départ n'est pas « la Fed baisse immédiatement ». La séquence est : <strong>désescalade à Hormuz → recul du pétrole → stabilisation des taux longs → affaiblissement du dollar → rétablissement des flux étrangers vers la Corée</strong>.
 
 L'événement décisif de cette semaine est le G7 de Paris. Le G7 ne peut pas supprimer directement les taux. Mais il peut délivrer des messages coordonnés sur la sécurité énergétique, le passage maritime, la volatilité des changes, le bon fonctionnement du marché des emprunts longs et le levier des IFNB — et même cela suffit à réduire la probabilité d'une nouvelle hausse.
 

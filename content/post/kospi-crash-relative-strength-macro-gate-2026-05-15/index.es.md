@@ -18,12 +18,12 @@ slug: kospi-crash-relative-strength-macro-gate-2026-05-15
 
 ## Conclusiones clave
 
-* **15 de mayo en Corea**: KOSPI 7.493,18 (**-6,12%**), KOSDAQ 1.129,82 (**-5,14%**). El cortacircuitos del lado vendedor se activó justo después de un nuevo máximo histórico.
-* **Causa**: no es simple toma de beneficios. PPI de EEUU +6,0% (el mayor desde 2022), PPI japonés +4,9%, bono japonés a 10 años en el nivel más alto desde 1997, bono EEUU a 10 años al 4,46%, Brent a 108, USD/KRW cerca de 1.500 — **un ciclo macro global que presiona los activos de riesgo simultáneamente**.
-* **Hay nombres con FR**: Hana Micron +18,6%, Jeju Semiconductor +8,9%, SFA Semiconductor +4,0%, Samsung Electro-Mechanics -1,4% (FR vs. índice +4,7pp). Doosan Robotics +19,3%, Robostar +9,9%.
-* **Pero perseguirlos es un error**: "no cayó hoy = próximo líder" es una falacia. Si el macro no se normaliza, los nombres con FR siguen al índice a la baja en la próxima sesión.
-* **La lectura correcta — filtro macro**: bono EEUU a 10 años por debajo del 4,45%, Brent por debajo de 105, USD/KRW por debajo de 1.480, VIX por debajo de 18. Al menos 2–3 de esas condiciones deben cumplirse antes de que tenga sentido comprar.
-* **Para qué sirve realmente el rastreo de FR de hoy**: no es una "señal de compra", sino una **"señal para generar una lista de seguimiento"**.
+* <strong>15 de mayo en Corea</strong>: KOSPI 7.493,18 (<strong>-6,12%</strong>), KOSDAQ 1.129,82 (<strong>-5,14%</strong>). El cortacircuitos del lado vendedor se activó justo después de un nuevo máximo histórico.
+* <strong>Causa</strong>: no es simple toma de beneficios. PPI de EEUU +6,0% (el mayor desde 2022), PPI japonés +4,9%, bono japonés a 10 años en el nivel más alto desde 1997, bono EEUU a 10 años al 4,46%, Brent a 108, USD/KRW cerca de 1.500 — <strong>un ciclo macro global que presiona los activos de riesgo simultáneamente</strong>.
+* <strong>Hay nombres con FR</strong>: Hana Micron +18,6%, Jeju Semiconductor +8,9%, SFA Semiconductor +4,0%, Samsung Electro-Mechanics -1,4% (FR vs. índice +4,7pp). Doosan Robotics +19,3%, Robostar +9,9%.
+* <strong>Pero perseguirlos es un error</strong>: "no cayó hoy = próximo líder" es una falacia. Si el macro no se normaliza, los nombres con FR siguen al índice a la baja en la próxima sesión.
+* <strong>La lectura correcta — filtro macro</strong>: bono EEUU a 10 años por debajo del 4,45%, Brent por debajo de 105, USD/KRW por debajo de 1.480, VIX por debajo de 18. Al menos 2–3 de esas condiciones deben cumplirse antes de que tenga sentido comprar.
+* <strong>Para qué sirve realmente el rastreo de FR de hoy</strong>: no es una "señal de compra", sino una <strong>"señal para generar una lista de seguimiento"</strong>.
 
 ---
 
@@ -122,14 +122,14 @@ Por qué analizarla:
 | 2 | Samji Electronics | +29,97% | +35,1pp | 77,5B KRW |
 | 3 | Doosan Robotics | +19,29% | +25,4pp | 1,08T KRW |
 | 4 | Hanson Engineering | +19,18% | +24,3pp | 60,6B KRW |
-| **5** | **Hana Micron** | **+18,61%** | **+23,8pp** | **688,8B KRW** |
+| <strong>5</strong> | <strong>Hana Micron</strong> | <strong>+18,61%</strong> | <strong>+23,8pp</strong> | <strong>688,8B KRW</strong> |
 | 6 | Jahwa Electronics | +16,53% | +22,7pp | 84,8B KRW |
 | 10 | LG Electronics | +10,83% | +17,0pp | 1,44T KRW |
 | 12 | Robostar | +9,90% | +15,0pp | 188,6B KRW |
-| **13** | **Jeju Semiconductor** | **+8,86%** | **+14,0pp** | **884,6B KRW** |
-| **17** | **SFA Semiconductor** | **+3,99%** | **+9,1pp** | **280,8B KRW** |
+| <strong>13</strong> | <strong>Jeju Semiconductor</strong> | <strong>+8,86%</strong> | <strong>+14,0pp</strong> | <strong>884,6B KRW</strong> |
+| <strong>17</strong> | <strong>SFA Semiconductor</strong> | <strong>+3,99%</strong> | <strong>+9,1pp</strong> | <strong>280,8B KRW</strong> |
 | 18 | Samsung SDS | +3,34% | +9,5pp | 366,7B KRW |
-| **20** | **Samsung Electro-Mechanics** | **-1,37%** | **+4,7pp** | **1,41T KRW** |
+| <strong>20</strong> | <strong>Samsung Electro-Mechanics</strong> | <strong>-1,37%</strong> | <strong>+4,7pp</strong> | <strong>1,41T KRW</strong> |
 
 ### 2.3 Trampa 1 — confundir "impulso al límite alcista" con "solidez de resultados"
 
@@ -313,9 +313,9 @@ Al menos 2–3 cumplidas → compra parcial permitida.
 
 | Escenario | Condiciones | Acción |
 | --- | --- | --- |
-| **A. El macro se recupera** | 3+ de 4 filtros superados | Compra escalonada en nombres con FR; máximo 30–40% del tamaño completo |
-| **B. Macro neutral** | 1–2 filtros superados | Solo observar el cierre; minimizar nuevas compras |
-| **C. El macro empeora** | Los filtros se deterioran aún más | Sin nuevas compras; solo reevaluar posiciones existentes por daño a la tesis |
+| <strong>A. El macro se recupera</strong> | 3+ de 4 filtros superados | Compra escalonada en nombres con FR; máximo 30–40% del tamaño completo |
+| <strong>B. Macro neutral</strong> | 1–2 filtros superados | Solo observar el cierre; minimizar nuevas compras |
+| <strong>C. El macro empeora</strong> | Los filtros se deterioran aún más | Sin nuevas compras; solo reevaluar posiciones existentes por daño a la tesis |
 
 ### 4.3 Relación entre "compras por FR" y el filtro macro
 
@@ -552,15 +552,15 @@ El artículo sobre rotación hacia consumo:
 
 ## 9. La conclusión en una frase
 
-El -6,12% del KOSPI del 15 de mayo no es una simple toma de beneficios. **Es el día en que el ciclo macro global se ajustó en el mercado coreano.** PPI de EEUU +6%, PPI de Japón +4,9%, bono EEUU a 10 años al 4,46%, Brent a 108, USD/KRW cerca de 1.500 — cada una de esas variables presionó los activos de riesgo coreanos en la misma dirección.
+El -6,12% del KOSPI del 15 de mayo no es una simple toma de beneficios. <strong>Es el día en que el ciclo macro global se ajustó en el mercado coreano.</strong> PPI de EEUU +6%, PPI de Japón +4,9%, bono EEUU a 10 años al 4,46%, Brent a 108, USD/KRW cerca de 1.500 — cada una de esas variables presionó los activos de riesgo coreanos en la misma dirección.
 
-En días como este surgen dos tentaciones. Una es buscar los nombres que no cayeron para encontrar el próximo líder. La otra es perseguir el mercado diciendo "todo ha caído, así que está barato". **Ambas son ineficientes si el filtro macro no se despeja.**
+En días como este surgen dos tentaciones. Una es buscar los nombres que no cayeron para encontrar el próximo líder. La otra es perseguir el mercado diciendo "todo ha caído, así que está barato". <strong>Ambas son ineficientes si el filtro macro no se despeja.</strong>
 
-Lo primero que hay que comprobar el lunes no es Hana Micron, Samsung E-M ni Jeju Semiconductor. **Es el bono EEUU a 10 años, el Brent, el USD/KRW y el VIX.** Hasta que al menos 2–3 de esas variables se estabilicen, perseguir incluso una gran acción es ineficiente.
+Lo primero que hay que comprobar el lunes no es Hana Micron, Samsung E-M ni Jeju Semiconductor. <strong>Es el bono EEUU a 10 años, el Brent, el USD/KRW y el VIX.</strong> Hasta que al menos 2–3 de esas variables se estabilicen, perseguir incluso una gran acción es ineficiente.
 
-El rastreo de FR de hoy no es una "señal de compra" — es una **"señal para generar una lista de seguimiento"**. Los próximos valores líderes no se descubren DESPUÉS de que el macro se recupere. Son los nombres que **no cayeron mientras el macro estaba mal**, se registran, y se compran **una vez que el macro se recupera**.
+El rastreo de FR de hoy no es una "señal de compra" — es una <strong>"señal para generar una lista de seguimiento"</strong>. Los próximos valores líderes no se descubren DESPUÉS de que el macro se recupere. Son los nombres que <strong>no cayeron mientras el macro estaba mal</strong>, se registran, y se compran <strong>una vez que el macro se recupera</strong>.
 
-**El ciclo antes que la acción. El filtro macro antes que el análisis de acciones.**
+<strong>El ciclo antes que la acción. El filtro macro antes que el análisis de acciones.</strong>
 
 ---
 

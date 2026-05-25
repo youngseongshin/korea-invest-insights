@@ -36,9 +36,9 @@ draft: false
 
 Le plus important des trois contenus est l'interview de Reiner Pope par Dwarkesh Patel. Elle ne commence pas par les manchettes de marché. Elle commence par ce qui se passe réellement à l'intérieur d'une puce : là où circule l'électricité, là où résident les données, et à quelle fréquence la puce doit déplacer ces données.[^dwarkesh]
 
-Le point essentiel est simple. La performance de l'IA ne dépend pas uniquement des FLOPS. Le vrai goulot d'étranglement, c'est **d'où viennent les données, où elles sont stockées, et quelle est la distance entre la mémoire et le calcul**. Dans cette optique, NVIDIA reste incontournable, mais la lecture investisseur s'étend à la HBM, aux substrats de boîtier, au FC-BGA, aux cartes PCB haute densité, à l'Ethernet, aux liaisons optiques, aux composants de stabilité d'alimentation et aux tests.
+Le point essentiel est simple. La performance de l'IA ne dépend pas uniquement des FLOPS. Le vrai goulot d'étranglement, c'est <strong>d'où viennent les données, où elles sont stockées, et quelle est la distance entre la mémoire et le calcul</strong>. Dans cette optique, NVIDIA reste incontournable, mais la lecture investisseur s'étend à la HBM, aux substrats de boîtier, au FC-BGA, aux cartes PCB haute densité, à l'Ethernet, aux liaisons optiques, aux composants de stabilité d'alimentation et aux tests.
 
-Pour les investisseurs coréens, la traduction est limpide. **Samsung Electronics et SK Hynix constituent le cœur mémoire. Samsung Electro-Mechanics est le nœud FC-BGA et condensateurs silicium pour l'intégrité de l'alimentation. Daeduck, Isu Petasys, Simmtech, Korea Circuit et TLB sont des candidats à la diversification substrats et PCB.** Ce n'est pas un marché où l'on chasse un gap du lundi matin. La vraie question est de savoir si le volume et les flux étrangers/institutionnels tiennent dans l'après-midi.
+Pour les investisseurs coréens, la traduction est limpide. <strong>Samsung Electronics et SK Hynix constituent le cœur mémoire. Samsung Electro-Mechanics est le nœud FC-BGA et condensateurs silicium pour l'intégrité de l'alimentation. Daeduck, Isu Petasys, Simmtech, Korea Circuit et TLB sont des candidats à la diversification substrats et PCB.</strong> Ce n'est pas un marché où l'on chasse un gap du lundi matin. La vraie question est de savoir si le volume et les flux étrangers/institutionnels tiennent dans l'après-midi.
 
 ---
 
@@ -46,7 +46,7 @@ Pour les investisseurs coréens, la traduction est limpide. **Samsung Electronic
 
 L'erreur courante en investissement dans les semi-conducteurs IA est d'assimiler la performance d'une puce à « plus de FLOPS = meilleure puce ». L'explication de Reiner Pope déconstruit ce cadre depuis la base.
 
-L'essentiel du calcul IA repose sur des multiplications matricielles répétées : multiplier de nombreux nombres, les additionner, et recommencer. Accélérer l'unité arithmétique compte, mais au niveau de la puce, la question centrale est souvent **d'où viennent ces nombres**.
+L'essentiel du calcul IA repose sur des multiplications matricielles répétées : multiplier de nombreux nombres, les additionner, et recommencer. Accélérer l'unité arithmétique compte, mais au niveau de la puce, la question centrale est souvent <strong>d'où viennent ces nombres</strong>.
 
 Une puce IA comporte plusieurs niveaux de stockage et de transfert.
 
@@ -58,9 +58,9 @@ Une puce IA comporte plusieurs niveaux de stockage et de transfert.
 | Carte serveur et réseau | Les routes à l'intérieur et à l'extérieur du rack | PCB haute densité, Ethernet, liaisons optiques |
 | Alimentation du datacenter | L'électricité pour l'ensemble du système | Transformateurs, distribution, refroidissement, coût d'exploitation total |
 
-Si l'unité arithmétique attend des données, la puce est sous-exploitée. La vraie question pour une puce IA n'est donc pas seulement « peut-on ajouter davantage de capacité de calcul ? » C'est : **« peut-on transférer moins de données, les garder plus proches et alimenter la puce sans gaspiller d'énergie ? »**
+Si l'unité arithmétique attend des données, la puce est sous-exploitée. La vraie question pour une puce IA n'est donc pas seulement « peut-on ajouter davantage de capacité de calcul ? » C'est : <strong>« peut-on transférer moins de données, les garder plus proches et alimenter la puce sans gaspiller d'énergie ? »</strong>
 
-C'est pourquoi la HBM, le FC-BGA, les condensateurs silicium et les PCB haute vitesse font partie du même sujet. Ils répondent tous au même problème physique : **maintenir les puces IA alimentées en données et en énergie stable**.
+C'est pourquoi la HBM, le FC-BGA, les condensateurs silicium et les PCB haute vitesse font partie du même sujet. Ils répondent tous au même problème physique : <strong>maintenir les puces IA alimentées en données et en énergie stable</strong>.
 
 ---
 
@@ -84,7 +84,7 @@ La valeur dans les semi-conducteurs IA ne s'arrête donc pas au fabricant de GPU
 
 ## 3. Les chiffres de NVIDIA sont solides. La question de marché a changé
 
-NVIDIA a publié un chiffre d'affaires Q1 FY27 de **81,6 milliards de dollars**, un chiffre d'affaires Data Center de **75,2 milliards de dollars**, et des prévisions de chiffre d'affaires Q2 de **91,0 milliards de dollars ±2 %**. Sur la base des chiffres officiels, la demande d'infrastructure IA ne s'est pas retournée.[^nvidia]
+NVIDIA a publié un chiffre d'affaires Q1 FY27 de <strong>81,6 milliards de dollars</strong>, un chiffre d'affaires Data Center de <strong>75,2 milliards de dollars</strong>, et des prévisions de chiffre d'affaires Q2 de <strong>91,0 milliards de dollars ±2 %</strong>. Sur la base des chiffres officiels, la demande d'infrastructure IA ne s'est pas retournée.[^nvidia]
 
 Mais le marché ne se demande plus seulement « NVIDIA est-il en forme ? » C'est déjà acquis. Les nouvelles questions sont :
 
@@ -93,7 +93,7 @@ Mais le marché ne se demande plus seulement « NVIDIA est-il en forme ? » C'es
 3. Les entreprises de modèles peuvent-elles continuer à payer des factures de tokens élevées ?
 4. Le rejet de l'IA et la réglementation vont-ils freiner le déploiement ?
 
-L'épisode All-In s'inscrit dans cette logique. Anthropic, Karpathy, SpaceX, les résultats NVIDIA et la réglementation IA font tous partie d'un même problème plus large : **l'IA n'est pas terminée, mais elle doit désormais prouver son efficacité en capital**.[^allin]
+L'épisode All-In s'inscrit dans cette logique. Anthropic, Karpathy, SpaceX, les résultats NVIDIA et la réglementation IA font tous partie d'un même problème plus large : <strong>l'IA n'est pas terminée, mais elle doit désormais prouver son efficacité en capital</strong>.[^allin]
 
 En langage de marché :
 
@@ -108,7 +108,7 @@ En langage de marché :
 
 ## 4. Marvell et Broadcom : la connectivité devient le prochain test
 
-Marvell et Broadcom sont les prochaines publications de résultats à surveiller dans ce cadre. Ni l'un ni l'autre n'est simplement un « concurrent de NVIDIA ». À mesure que les datacenters IA se développent, les deux s'attachent à la **connectivité, au switching, aux signaux optiques et aux puces IA personnalisées**.
+Marvell et Broadcom sont les prochaines publications de résultats à surveiller dans ce cadre. Ni l'un ni l'autre n'est simplement un « concurrent de NVIDIA ». À mesure que les datacenters IA se développent, les deux s'attachent à la <strong>connectivité, au switching, aux signaux optiques et aux puces IA personnalisées</strong>.
 
 Pour Marvell, la question centrale est de savoir si les puces IA personnalisées et la connectivité optique s'accélèrent pour se concrétiser en chiffre d'affaires réel. Pour Broadcom, la question centrale est de savoir si les ASIC IA et le réseau Ethernet IA progressent de concert. Si les deux sociétés affichent des résultats solides, la lecture coréenne devrait s'élargir au-delà de la pure HBM.
 
@@ -120,7 +120,7 @@ Pour Marvell, la question centrale est de savoir si les puces IA personnalisées
 | Expansion à l'échelle du rack | Équipements d'alimentation, refroidissement, coût d'exploitation des datacenters |
 | Boîtiers plus grands | FC-BGA Samsung Electro-Mechanics, Daeduck, Korea Circuit |
 
-La bonne lecture n'est pas « Broadcom / Marvell en forme signifie que tous les semi-coréens sont en forme ». C'est : **la croissance des puces IA bénéficie aux fournisseurs de goulots d'étranglement qui alimentent, connectent, stabilisent et testent ces puces.**
+La bonne lecture n'est pas « Broadcom / Marvell en forme signifie que tous les semi-coréens sont en forme ». C'est : <strong>la croissance des puces IA bénéficie aux fournisseurs de goulots d'étranglement qui alimentent, connectent, stabilisent et testent ces puces.</strong>
 
 ---
 
@@ -128,7 +128,7 @@ La bonne lecture n'est pas « Broadcom / Marvell en forme signifie que tous les 
 
 Le 21 mai 2026, AT&S a annoncé une extension de capacité pour les substrats CI haut de gamme utilisés dans l'IA, sur son site de Chongqing en Chine. L'investissement se situe dans la fourchette des dizaines de millions d'euros et est adossé à des contrats clients à long terme. AT&S anticipe un effet EBIT positif de plusieurs dizaines de millions d'euros en exercice 2026/27.[^ats-capacity]
 
-Le point clé n'est pas le nom du client. Le point clé est que **les capacités de substrats IA sont désormais étendues sous des accords à long terme**.
+Le point clé n'est pas le nom du client. Le point clé est que <strong>les capacités de substrats IA sont désormais étendues sous des accords à long terme</strong>.
 
 AT&S avait également présenté en avril les substrats à cœur de verre comme une fondation de nouvelle génération pour l'IA, le calcul haute performance, les communications haut débit et la photonique. À mesure que les boîtiers deviennent plus grands et plus complexes, la stabilité dimensionnelle, la qualité du signal, l'efficacité énergétique et le transfert de données deviennent des facteurs limitants.[^ats-glass]
 
@@ -152,7 +152,7 @@ Premièrement, le FC-BGA est le substrat de boîtier qui relie les puces haute p
 
 Deuxièmement, les condensateurs silicium stabilisent l'alimentation à l'intérieur du boîtier GPU IA / HBM. Samsung Electro-Mechanics a annoncé en mai 2026 un contrat de fourniture de condensateurs silicium d'environ 1 500 milliards de KRW avec un grand client mondial, en décrivant le produit comme un composant améliorant la stabilité de l'alimentation à l'intérieur des boîtiers semi-conducteurs haute performance tels que les GPU de serveurs IA et la HBM.[^semco-sicap]
 
-L'enjeu n'est pas « davantage de contenu MLCC ». L'enjeu est que Samsung Electro-Mechanics pourrait être reclassifié en **société de substrats dotée de composants d'intégrité de l'alimentation en boîtier**.
+L'enjeu n'est pas « davantage de contenu MLCC ». L'enjeu est que Samsung Electro-Mechanics pourrait être reclassifié en <strong>société de substrats dotée de composants d'intégrité de l'alimentation en boîtier</strong>.
 
 ### 6.3 Daeduck, Isu Petasys, Simmtech, Korea Circuit et TLB
 
@@ -165,7 +165,7 @@ Ces valeurs ne doivent pas être regroupées trop sommairement.
 | Simmtech / TLB | Modules mémoire, SoCAMM, PCB serveur | Mix de chiffre d'affaires IA et preuve de marge |
 | Korea Circuit | Optionnalité SoCAMM et FC-BGA | Calendrier de qualification et de chiffre d'affaires effectif |
 
-L'étiquette « exposition aux serveurs IA » ne suffit pas. Ce que les investisseurs doivent voir, c'est **un approvisionnement direct, une hausse du prix de vente moyen, des accords à long terme et une résilience des marges**.
+L'étiquette « exposition aux serveurs IA » ne suffit pas. Ce que les investisseurs doivent voir, c'est <strong>un approvisionnement direct, une hausse du prix de vente moyen, des accords à long terme et une résilience des marges</strong>.
 
 ---
 
@@ -177,7 +177,7 @@ Le signal positif est que les investisseurs restent prêts à financer des histo
 
 Le signal négatif est la concentration des risques. Trop de capital se concentre autour d'un petit nombre de méga-acteurs IA et d'infrastructure. Les dépenses des modèles IA privés devront inévitablement passer sous le regard des marchés publics, des budgets de capex des grandes technos ou générer de vrais revenus.
 
-Le message de 20VC n'est donc pas « acheter de l'exposition IA privée ». C'est : **l'appétit pour le risque IA est bien vivant, mais le marché va exiger de plus en plus la preuve de la monétisation et du cash flow.**
+Le message de 20VC n'est donc pas « acheter de l'exposition IA privée ». C'est : <strong>l'appétit pour le risque IA est bien vivant, mais le marché va exiger de plus en plus la preuve de la monétisation et du cash flow.</strong>
 
 ---
 
@@ -209,19 +209,19 @@ La discipline d'entrée est essentielle.
 
 Les trois contenus se résument en une phrase :
 
-**Le trade IA n'est pas terminé. Il descend dans la pile.**
+<strong>Le trade IA n'est pas terminé. Il descend dans la pile.</strong>
 
 2023-2025, c'était la phase GPU et HBM. À partir de 2026, les prochaines couches sont le transfert de données, le packaging, le FC-BGA, l'Ethernet et les liaisons optiques, l'intégrité de l'alimentation, les tests et le coût d'exploitation des datacenters. NVIDIA reste le centre. Mais la question investisseur est désormais : « quel goulot d'étranglement coréen convertit la croissance du chiffre d'affaires de NVIDIA en ses propres bénéfices ? »
 
 L'ordre actuel est :
 
-1. **Cœur mémoire :** Samsung Electronics, SK Hynix
-2. **Boîtier et intégrité alimentation :** Samsung Electro-Mechanics, Daeduck Electronics
-3. **PCB haute vitesse et modules :** Isu Petasys, Simmtech, Korea Circuit, TLB
-4. **Tests et prises :** ISC, LEENO Industrial, TSE
-5. **Alimentation et opérations datacenter :** équipements d'alimentation et infrastructure de refroidissement
+1. <strong>Cœur mémoire :</strong> Samsung Electronics, SK Hynix
+2. <strong>Boîtier et intégrité alimentation :</strong> Samsung Electro-Mechanics, Daeduck Electronics
+3. <strong>PCB haute vitesse et modules :</strong> Isu Petasys, Simmtech, Korea Circuit, TLB
+4. <strong>Tests et prises :</strong> ISC, LEENO Industrial, TSE
+5. <strong>Alimentation et opérations datacenter :</strong> équipements d'alimentation et infrastructure de refroidissement
 
-La phrase investisseur la plus importante est celle-ci : **la compétition de performance IA est une compétition sur le coût du transfert de données, et ce coût se traduit en HBM, packaging, substrats, réseau et alimentation.**
+La phrase investisseur la plus importante est celle-ci : <strong>la compétition de performance IA est une compétition sur le coût du transfert de données, et ce coût se traduit en HBM, packaging, substrats, réseau et alimentation.</strong>
 
 Si cette diffusion est confirmée par le volume et les flux étrangers/institutionnels, le FC-BGA et les PCB haute vitesse doivent être traités comme des goulots d'étranglement d'infrastructure IA, et non comme un simple thème de plus.
 

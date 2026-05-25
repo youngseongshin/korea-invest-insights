@@ -26,19 +26,19 @@ valley_cashtags:
   - 하나마이크론
 ---
 
-> 📚 **Series Hội nghị thượng đỉnh Mỹ-Trung**
+> 📚 <strong>Series Hội nghị thượng đỉnh Mỹ-Trung</strong>
 > [Hướng dẫn trước thượng đỉnh: 10 Nghị trình cho nhà đầu tư Hàn Quốc](/post/us-china-summit-korea-investor-guide-2026-05-14/) / [Kết quả thượng đỉnh: Không có thỏa thuận toàn diện](/post/us-china-summit-result-korea-investor-implications-2026-05-15/) / [Kịch bản mở rộng CloudMatrix](/vi/post/cloudmatrix-expansion-korea-alpha-inspection-consumables-2026-05-17/) / [Kết quả NVIDIA và chuỗi cung ứng bậc hai của Hàn Quốc](/post/nvidia-earnings-korea-supply-chain-secondary-stocks-2026-05-17/) / [AI-RAN và chuỗi cung ứng Hàn Quốc](/post/ai-ran-nvidia-earnings-skt-vs-supply-chain-2026-05-17/)
 
 *Hội nghị thượng đỉnh Bắc Kinh ngày 14-15/5 không phải là một thỏa thuận toàn diện. Đó là một cuộc đình chiến có kiểm soát. Washington và Bắc Kinh đồng ý tránh leo thang ngay lập tức, nhưng các vấn đề cốt lõi — kiểm soát xuất khẩu bán dẫn, đất hiếm, Đài Loan và cơ cấu thuế quan — vẫn chưa được giải quyết. Tín hiệu quan trọng hơn lại đến từ bên ngoài phòng họp. Mỹ đã cho phép xuất khẩu H200, nhưng Trung Quốc không để việc mua hàng tiến hành. CloudMatrix 384 của Huawei, trong khi đó, thể hiện một cách phản ứng khác của Trung Quốc: bù đắp chip yếu hơn bằng nhiều chip hơn, nhiều điện hơn và nhiều kết nối quang học hơn. Tách rời không kết thúc. Nó đang chuyển sang một trạng thái cân bằng tốn kém hơn.*
 
 ## Điểm mấu chốt
 
-* **Hội nghị thượng đỉnh là một cuộc đình chiến có kiểm soát.** Nó giảm thiểu rủi ro leo thang trong ngắn hạn nhưng không giải quyết được cơ cấu kiểm soát công nghệ.
-* **Sự kiện H200 quan trọng hơn bản thông cáo chung.** Mỹ đã cho phép bán cho khoảng 10 công ty Trung Quốc, nhưng theo các báo cáo, không có con chip H200 nào được giao vì Trung Quốc không phê duyệt việc mua hàng.
-* **CloudMatrix 384 là giải pháp vòng tránh ở cấp độ hệ thống.** Huawei không đánh bại NVIDIA về hiệu quả chip. Họ sử dụng nhiều chip hơn, nhiều điện hơn và một mạng lưới quang học lớn hơn để đạt được hiệu suất hữu ích ở cấp độ hệ thống.
-* **Mô hình của ITIF làm phức tạp thêm câu chuyện "tách rời có hại cho Hàn Quốc".** Trong kịch bản tách rời bán dẫn hoàn toàn, ITIF ước tính các công ty Mỹ có thể mất USD 77 tỷ doanh thu liên quan đến Trung Quốc trong năm đầu tiên, trong khi các công ty Hàn Quốc có thể thu về khoảng USD 21 tỷ.
-* **Mức độ ảnh hưởng của Hàn Quốc phụ thuộc vào thời gian.** Ngắn hạn thuận lợi cho HBM, bộ nhớ, substrate, MLCC và kết nối quang học. Trung hạn lẫn lộn. Dài hạn mang đến sự phân mảnh tiêu chuẩn, sự thay thế của Trung Quốc và chi phí chuỗi cung ứng kép.
-* **Alpha bậc hai rõ ràng nhất nằm ở kết nối quang học.** Hệ thống Mỹ cần nhiều CPO và optics quy mô rack hơn; hệ thống Trung Quốc cần thậm chí nhiều kết nối quang học hơn vì họ bù đắp bằng quy mô.
+* <strong>Hội nghị thượng đỉnh là một cuộc đình chiến có kiểm soát.</strong> Nó giảm thiểu rủi ro leo thang trong ngắn hạn nhưng không giải quyết được cơ cấu kiểm soát công nghệ.
+* <strong>Sự kiện H200 quan trọng hơn bản thông cáo chung.</strong> Mỹ đã cho phép bán cho khoảng 10 công ty Trung Quốc, nhưng theo các báo cáo, không có con chip H200 nào được giao vì Trung Quốc không phê duyệt việc mua hàng.
+* <strong>CloudMatrix 384 là giải pháp vòng tránh ở cấp độ hệ thống.</strong> Huawei không đánh bại NVIDIA về hiệu quả chip. Họ sử dụng nhiều chip hơn, nhiều điện hơn và một mạng lưới quang học lớn hơn để đạt được hiệu suất hữu ích ở cấp độ hệ thống.
+* <strong>Mô hình của ITIF làm phức tạp thêm câu chuyện "tách rời có hại cho Hàn Quốc".</strong> Trong kịch bản tách rời bán dẫn hoàn toàn, ITIF ước tính các công ty Mỹ có thể mất USD 77 tỷ doanh thu liên quan đến Trung Quốc trong năm đầu tiên, trong khi các công ty Hàn Quốc có thể thu về khoảng USD 21 tỷ.
+* <strong>Mức độ ảnh hưởng của Hàn Quốc phụ thuộc vào thời gian.</strong> Ngắn hạn thuận lợi cho HBM, bộ nhớ, substrate, MLCC và kết nối quang học. Trung hạn lẫn lộn. Dài hạn mang đến sự phân mảnh tiêu chuẩn, sự thay thế của Trung Quốc và chi phí chuỗi cung ứng kép.
+* <strong>Alpha bậc hai rõ ràng nhất nằm ở kết nối quang học.</strong> Hệ thống Mỹ cần nhiều CPO và optics quy mô rack hơn; hệ thống Trung Quốc cần thậm chí nhiều kết nối quang học hơn vì họ bù đắp bằng quy mô.
 
 ## 1. Hội nghị thượng đỉnh thực sự phát đi tín hiệu gì
 
@@ -90,9 +90,9 @@ Nhưng quan điểm dài hạn ít thoải mái hơn. Tách rời kéo dài càn
 
 Câu trả lời đúng là phân đoạn theo thời gian:
 
-* **6-12 tháng**: thuận lợi cho bộ nhớ và linh kiện AI của Hàn Quốc.
-* **1-3 năm**: lẫn lộn, khi sự thay thế của Trung Quốc bắt đầu gây áp lực lên giá cả và tiêu chuẩn.
-* **3-5 năm**: rủi ro về mặt cơ cấu hơn, vì chuỗi cung ứng kép và tiêu chuẩn phân mảnh làm tăng chi phí.
+* <strong>6-12 tháng</strong>: thuận lợi cho bộ nhớ và linh kiện AI của Hàn Quốc.
+* <strong>1-3 năm</strong>: lẫn lộn, khi sự thay thế của Trung Quốc bắt đầu gây áp lực lên giá cả và tiêu chuẩn.
+* <strong>3-5 năm</strong>: rủi ro về mặt cơ cấu hơn, vì chuỗi cung ứng kép và tiêu chuẩn phân mảnh làm tăng chi phí.
 
 ## 5. Ý nghĩa với cổ phiếu Hàn Quốc
 
@@ -136,13 +136,13 @@ Alpha không nằm ở việc nói "tách rời tốt" hay "tách rời xấu." 
 
 ## Nguồn và ghi chú bằng chứng
 
-**Thực tế**
+<strong>Thực tế</strong>
 
 * ITIF ước tính rằng trong kịch bản tách rời hoàn toàn, các công ty bán dẫn Mỹ có thể mất khoảng USD 77 tỷ doanh thu liên quan đến Trung Quốc trong năm đầu tiên, trong khi các công ty Hàn Quốc có thể thu về khoảng USD 21 tỷ.
 * Báo cáo được Reuters dẫn nguồn và bài viết của Tom's Hardware cho biết Mỹ đã cho phép bán H200 cho khoảng 10 công ty Trung Quốc nhưng không có chip nào được giao tính đến giữa tháng 5.
 * Báo cáo của Tom's Hardware và dựa trên SemiAnalysis mô tả Huawei CloudMatrix 384 là hệ thống 384 chip với khoảng 300 PFLOPs BF16 và công suất hệ thống khoảng 559kW.
 
-**Suy luận**
+<strong>Suy luận</strong>
 
 * Việc không giao H200 được hiểu ở đây là sự suy yếu của củ cà rốt giấy phép xuất khẩu.
 * CloudMatrix 384 được hiểu là giải pháp vòng tránh ở cấp độ hệ thống hơn là chiến thắng ở cấp độ chip.

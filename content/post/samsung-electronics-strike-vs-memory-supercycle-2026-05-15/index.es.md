@@ -23,11 +23,11 @@ slug: samsung-electronics-strike-vs-memory-supercycle-2026-05-15
 
 ## Conclusiones clave
 
-* **La situación actual**: el sindicato de Samsung Electronics ha notificado una huelga general para el 21 de mayo – 7 de junio. Demandas principales: un pago fijo equivalente al 15% del beneficio operativo de la división DS (semiconductores) como bonus de rendimiento, más la eliminación del límite del 50% del salario base. Los cortafuegos siguen activos: mediación del NLRC el 16 de mayo, recursos judiciales y la potestad del gobierno para imponer un arbitraje de emergencia.
-* **Estimaciones de pérdidas**: JP Morgan sitúa entre 21 y 35 billones de wones; estimaciones sectoriales recogidas por Yonhap apuntan hasta 100 billones. La amplia horquilla refleja las incógnitas sobre participación, interrupción de líneas y tiempo de rearranque.
-* **La lógica de compensación por precios**: con DRAM +58–63% y NAND +70–75% en el 2T, una caída de producción del 1–2% es matemáticamente compensable. JP Morgan mantiene su objetivo de 350.000 wones sobre esta base.
-* **Pero la compensación no es completa**: (1) el coste laboral estructural derivado de una fórmula de bonus fija no se puede cubrir con el precio; (2) si los clientes trasladan pedidos a SK hynix o Micron, Samsung captura menos del repunte de precios.
-* **La pregunta real**: no es "huelga o no huelga", sino **"cómo cambia la fórmula de reparto de beneficios — eso importa más para la valoración a medio y largo plazo."**
+* <strong>La situación actual</strong>: el sindicato de Samsung Electronics ha notificado una huelga general para el 21 de mayo – 7 de junio. Demandas principales: un pago fijo equivalente al 15% del beneficio operativo de la división DS (semiconductores) como bonus de rendimiento, más la eliminación del límite del 50% del salario base. Los cortafuegos siguen activos: mediación del NLRC el 16 de mayo, recursos judiciales y la potestad del gobierno para imponer un arbitraje de emergencia.
+* <strong>Estimaciones de pérdidas</strong>: JP Morgan sitúa entre 21 y 35 billones de wones; estimaciones sectoriales recogidas por Yonhap apuntan hasta 100 billones. La amplia horquilla refleja las incógnitas sobre participación, interrupción de líneas y tiempo de rearranque.
+* <strong>La lógica de compensación por precios</strong>: con DRAM +58–63% y NAND +70–75% en el 2T, una caída de producción del 1–2% es matemáticamente compensable. JP Morgan mantiene su objetivo de 350.000 wones sobre esta base.
+* <strong>Pero la compensación no es completa</strong>: (1) el coste laboral estructural derivado de una fórmula de bonus fija no se puede cubrir con el precio; (2) si los clientes trasladan pedidos a SK hynix o Micron, Samsung captura menos del repunte de precios.
+* <strong>La pregunta real</strong>: no es "huelga o no huelga", sino <strong>"cómo cambia la fórmula de reparto de beneficios — eso importa más para la valoración a medio y largo plazo."</strong>
 
 ---
 
@@ -35,7 +35,7 @@ slug: samsung-electronics-strike-vs-memory-supercycle-2026-05-15
 
 ### 1.1 Magnitud de la huelga
 
-El sindicato ha notificado una **huelga general de 18 días** del 21 de mayo al 7 de junio. Se esperan hasta **50.000 empleados** — el mayor riesgo de huelga al que Samsung Electronics se ha enfrentado jamás.
+El sindicato ha notificado una <strong>huelga general de 18 días</strong> del 21 de mayo al 7 de junio. Se esperan hasta <strong>50.000 empleados</strong> — el mayor riesgo de huelga al que Samsung Electronics se ha enfrentado jamás.
 
 Las sesiones de mediación del NLRC del 11 y 12 de mayo se rompieron en la madrugada del 13 de mayo. Posición del sindicato: "sin una institucionalización concreta, no hay razón para negociar."
 
@@ -63,11 +63,11 @@ Por qué importa:
 
 ### 1.3 Por qué ha estallado este conflicto
 
-**Primero, la brecha salarial con SK hynix.** Tras su éxito con HBM, SK hynix ha ampliado materialmente los bonuses para sus empleados. Dentro del mismo sector de memoria, los empleados de Samsung se sienten relativamente peor pagados.
+<strong>Primero, la brecha salarial con SK hynix.</strong> Tras su éxito con HBM, SK hynix ha ampliado materialmente los bonuses para sus empleados. Dentro del mismo sector de memoria, los empleados de Samsung se sienten relativamente peor pagados.
 
-**Segundo, la bolsa de beneficios se ha vuelto demasiado grande para ignorarla.** Solo el beneficio operativo de DS en el 1T fue de 53,7 billones de wones con un margen del 65,7%. Cuando los retornos extraordinarios son tan elevados, la pregunta "¿quién se lo queda?" se vuelve políticamente inevitable.
+<strong>Segundo, la bolsa de beneficios se ha vuelto demasiado grande para ignorarla.</strong> Solo el beneficio operativo de DS en el 1T fue de 53,7 billones de wones con un margen del 65,7%. Cuando los retornos extraordinarios son tan elevados, la pregunta "¿quién se lo queda?" se vuelve políticamente inevitable.
 
-**Tercero, la producción en las fábricas es especialmente frágil.** Una fábrica de semiconductores funciona en flujo continuo las 24 horas. Las paradas implican obleas desechadas, rendimientos menores y largos tiempos de rearranque. Incluso la *amenaza* de una huelga ya afecta a las operaciones. Según informaciones de prensa, Samsung ha iniciado un "enfriamiento" — reduciendo los nuevos inicios de obleas en previsión.
+<strong>Tercero, la producción en las fábricas es especialmente frágil.</strong> Una fábrica de semiconductores funciona en flujo continuo las 24 horas. Las paradas implican obleas desechadas, rendimientos menores y largos tiempos de rearranque. Incluso la *amenaza* de una huelga ya afecta a las operaciones. Según informaciones de prensa, Samsung ha iniciado un "enfriamiento" — reduciendo los nuevos inicios de obleas en previsión.
 
 ---
 
@@ -109,7 +109,7 @@ así que no lo apliques mecánicamente.
 
 ### 3.1 Qué dijo JP Morgan
 
-En su nota del 13 de mayo, JP Morgan (equipo de Jay Kwon) mantuvo **Overweight, objetivo 350.000 wones**. Argumento central: "los precios de memoria son más fuertes de lo esperado y pueden absorber gran parte de las pérdidas por la huelga."
+En su nota del 13 de mayo, JP Morgan (equipo de Jay Kwon) mantuvo <strong>Overweight, objetivo 350.000 wones</strong>. Argumento central: "los precios de memoria son más fuertes de lo esperado y pueden absorber gran parte de las pérdidas por la huelga."
 
 | Concepto | JP Morgan |
 | --- | ---: |
@@ -154,9 +154,9 @@ NAND: 1,725 / 1,45 - 1 = +19,0%
 
 ### 3.3 Qué es correcto y qué falta
 
-**Correcto**: la pérdida de producción directa (\~1–2% de los ingresos DS) queda holgadamente cubierta por las ganancias en precios. Las estimaciones del 2T podrían incluso subir. **Para los resultados a corto plazo, la lógica de JP Morgan se sostiene.**
+<strong>Correcto</strong>: la pérdida de producción directa (\~1–2% de los ingresos DS) queda holgadamente cubierta por las ganancias en precios. Las estimaciones del 2T podrían incluso subir. <strong>Para los resultados a corto plazo, la lógica de JP Morgan se sostiene.</strong>
 
-**Tres cosas que pasa por alto**:
+<strong>Tres cosas que pasa por alto</strong>:
 
 ```
 1. El coste laboral estructural no es un problema de "precio."
@@ -194,10 +194,10 @@ NAND: 1,725 / 1,45 - 1 = +19,0%
 
 | Fecha | Evento | Importancia |
 | --- | --- | --- |
-| **15 mayo, 10:00** | Plazo para la respuesta del CEO al sindicato | El tono puede cambiar aquí |
-| **16 mayo** | Mediación de seguimiento del NLRC | Última ventana formal de negociación |
-| **Alrededor del 20 mayo** | Resolución judicial sobre la orden | Si se excluye a los trabajadores esenciales |
-| **21 mayo** | Fecha de inicio de la huelga | La tasa real de participación es el factor decisivo |
+| <strong>15 mayo, 10:00</strong> | Plazo para la respuesta del CEO al sindicato | El tono puede cambiar aquí |
+| <strong>16 mayo</strong> | Mediación de seguimiento del NLRC | Última ventana formal de negociación |
+| <strong>Alrededor del 20 mayo</strong> | Resolución judicial sobre la orden | Si se excluye a los trabajadores esenciales |
+| <strong>21 mayo</strong> | Fecha de inicio de la huelga | La tasa real de participación es el factor decisivo |
 
 ### 4.2 Un cierre total es improbable
 
@@ -218,7 +218,7 @@ Cortafuegos 4: Los propios incentivos de ambas partes
 → Gobierno: los semiconductores representaron el 37% de las exportaciones de abril — hay mucho en juego para la economía nacional
 ```
 
-**Escenario base: es probable que se evite un cierre total.** Pero "sin cierre" y "sin riesgo" son afirmaciones distintas.
+<strong>Escenario base: es probable que se evite un cierre total.</strong> Pero "sin cierre" y "sin riesgo" son afirmaciones distintas.
 
 ---
 
@@ -228,9 +228,9 @@ Cortafuegos 4: Los propios incentivos de ambas partes
 
 | Escenario | Descripción | Impacto en precio |
 | --- | --- | --- |
-| **A. Acuerdo / suspensión** | Huelga evitada por mediación del NLRC o intervención gubernamental. El bonus se mantiene bajo el OPI existente + pago especial | **Rebote a corto plazo** — prima de riesgo eliminada, ciclo de memoria de nuevo en foco |
-| **B. Huelga parcial** | Parte del personal se va; líneas críticas mantenidas; participación moderada | **Neutral a ligeramente negativo** — el ruido persiste, impacto limitado en resultados |
-| **C. Huelga mayor** | Personal crítico de DS participa; el enfriamiento se profundiza; clientes reasignan | **Caída material** — recorte de estimaciones más compresión de múltiplo |
+| <strong>A. Acuerdo / suspensión</strong> | Huelga evitada por mediación del NLRC o intervención gubernamental. El bonus se mantiene bajo el OPI existente + pago especial | <strong>Rebote a corto plazo</strong> — prima de riesgo eliminada, ciclo de memoria de nuevo en foco |
+| <strong>B. Huelga parcial</strong> | Parte del personal se va; líneas críticas mantenidas; participación moderada | <strong>Neutral a ligeramente negativo</strong> — el ruido persiste, impacto limitado en resultados |
+| <strong>C. Huelga mayor</strong> | Personal crítico de DS participa; el enfriamiento se profundiza; clientes reasignan | <strong>Caída material</strong> — recorte de estimaciones más compresión de múltiplo |
 
 ### 5.2 Más importante que el escenario — la FORMA del acuerdo de bonus
 
@@ -250,7 +250,7 @@ Peor caso (desfavorable al accionista):
 → Declive estructural del ROIC a largo plazo
 ```
 
-**Cómo se decide esta fórmula importa más para la valoración a medio y largo plazo de Samsung que si la huelga llega a producirse.** Una huelga que termina en un día puede igualmente anclar una peor economía para el accionista si el bonus queda fijado al 15%.
+<strong>Cómo se decide esta fórmula importa más para la valoración a medio y largo plazo de Samsung que si la huelga llega a producirse.</strong> Una huelga que termina en un día puede igualmente anclar una peor economía para el accionista si el bonus queda fijado al 15%.
 
 ---
 
@@ -267,7 +267,7 @@ Tal como se analizó en el post anterior:
 
 | Broker | Beneficio operativo 2T | Precio objetivo |
 | --- | ---: | ---: |
-| Kiwoom Securities | **100 billones de wones** | 330.000 wones |
+| Kiwoom Securities | <strong>100 billones de wones</strong> | 330.000 wones |
 | Yuanta Securities | 86,8 billones de wones | 340.000 wones |
 | JP Morgan | — | 350.000 wones |
 
@@ -293,12 +293,12 @@ Subida del +11,5% frente a un riesgo de evento real:
 
 | # | Evento | Qué verificar |
 | ---: | --- | --- |
-| 1 | **15 mayo, 10:00** Respuesta del CEO | Reacción del sindicato — oportunidad de reabrir negociaciones |
-| 2 | **16 mayo** Mediación del NLRC | Si emerge una propuesta de bonus intermedia |
-| 3 | **Alrededor del 20 mayo** Resolución judicial | Alcance de la exclusión de trabajadores esenciales |
-| 4 | **21 mayo** Inicio de la huelga | Participación real, impacto en líneas críticas de DS |
-| 5 | Tras la huelga | **Inicios de obleas, retrasos en envíos, cambios en asignación de clientes** |
-| 6 | Acuerdo de bonus | **Ratio fijo vs discrecional** — determina el ROIC a largo plazo |
+| 1 | <strong>15 mayo, 10:00</strong> Respuesta del CEO | Reacción del sindicato — oportunidad de reabrir negociaciones |
+| 2 | <strong>16 mayo</strong> Mediación del NLRC | Si emerge una propuesta de bonus intermedia |
+| 3 | <strong>Alrededor del 20 mayo</strong> Resolución judicial | Alcance de la exclusión de trabajadores esenciales |
+| 4 | <strong>21 mayo</strong> Inicio de la huelga | Participación real, impacto en líneas críticas de DS |
+| 5 | Tras la huelga | <strong>Inicios de obleas, retrasos en envíos, cambios en asignación de clientes</strong> |
+| 6 | Acuerdo de bonus | <strong>Ratio fijo vs discrecional</strong> — determina el ROIC a largo plazo |
 
 ---
 
@@ -328,13 +328,13 @@ Artículo sobre la cumbre EE.UU.-China:
 
 ## 9. La conclusión en una línea
 
-La huelga de Samsung Electronics no trata realmente de "¿se para la fábrica?" Trata de **"quién captura el beneficio extraordinario del superciclo de memoria — los trabajadores o los accionistas."**
+La huelga de Samsung Electronics no trata realmente de "¿se para la fábrica?" Trata de <strong>"quién captura el beneficio extraordinario del superciclo de memoria — los trabajadores o los accionistas."</strong>
 
-A corto plazo, la lógica de JP Morgan se sostiene: con DRAM +60% y NAND +73%, una pérdida de producción del 1–2% queda matemáticamente compensada. Pero si el 15% del beneficio operativo de DS queda anclado como bonus fijo, eso no es un coste de un trimestre a "compensar" — es un **cambio en cómo se reparte el beneficio**. Y si los clientes trasladan sus asignaciones de HBM y DRAM de servidor a SK hynix o Micron, Samsung captura menos del repunte, aunque los precios sigan subiendo.
+A corto plazo, la lógica de JP Morgan se sostiene: con DRAM +60% y NAND +73%, una pérdida de producción del 1–2% queda matemáticamente compensada. Pero si el 15% del beneficio operativo de DS queda anclado como bonus fijo, eso no es un coste de un trimestre a "compensar" — es un <strong>cambio en cómo se reparte el beneficio</strong>. Y si los clientes trasladan sus asignaciones de HBM y DRAM de servidor a SK hynix o Micron, Samsung captura menos del repunte, aunque los precios sigan subiendo.
 
 Un cierre total es improbable — la mediación del NLRC, las órdenes judiciales y la potestad de emergencia del gobierno actúan como cortafuegos. Pero "sin cierre" y "sin riesgo" no son lo mismo. Los actuales tenedores no necesitan reaccionar en exceso; los nuevos compradores están mejor esperando el resultado de la mediación del 16 de mayo y la decisión de huelga del 21 de mayo.
 
-**Lo que se necesita hoy es gestión del riesgo de evento, no valentía.**
+<strong>Lo que se necesita hoy es gestión del riesgo de evento, no valentía.</strong>
 
 ---
 

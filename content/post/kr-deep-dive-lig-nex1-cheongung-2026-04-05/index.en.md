@@ -36,7 +36,7 @@ LIG Nex1 is not a household name outside Korea's defense community, but it sits 
 
 ## What Is LIG Nex1?
 
-LIG Nex1 is a defense subsidiary of the LIG Group, listed on the Korea Stock Exchange under ticker **079550.KS**. It is one of the so-called "K-defense Big Three" alongside Hanwha Aerospace and Hyundai Rotem, and is a constituent of the **PLUS K방산** and **KODEX 방산** defense ETFs.
+LIG Nex1 is a defense subsidiary of the LIG Group, listed on the Korea Stock Exchange under ticker <strong>079550.KS</strong>. It is one of the so-called "K-defense Big Three" alongside Hanwha Aerospace and Hyundai Rotem, and is a constituent of the <strong>PLUS K방산</strong> and <strong>KODEX 방산</strong> defense ETFs.
 
 The company's product portfolio covers the full spectrum of precision-guided munitions:
 
@@ -70,7 +70,7 @@ Cheongung-II offers a technically competitive alternative with faster delivery t
 
 ### UAE Contract (Signed 2022, Delivery Ongoing)
 
-The UAE contract — approximately **KRW 3.5 trillion** — remains the largest single export order in LIG Nex1's history. The contract was signed in 2022 and deliveries are currently in progress, meaning a meaningful portion of the revenue recognition still lies ahead. This contract alone validates Cheongung-II's international marketability and has served as the reference deal for subsequent negotiations.
+The UAE contract — approximately <strong>KRW 3.5 trillion</strong> — remains the largest single export order in LIG Nex1's history. The contract was signed in 2022 and deliveries are currently in progress, meaning a meaningful portion of the revenue recognition still lies ahead. This contract alone validates Cheongung-II's international marketability and has served as the reference deal for subsequent negotiations.
 
 ### Saudi Arabia (Active Negotiation, \~KRW 5 Trillion+)
 
@@ -78,8 +78,8 @@ Saudi Arabia is currently in active negotiations for a Cheongung-II acquisition.
 
 ### Additional Pipeline
 
-- **Iraq**: Preliminary export discussions underway; demand is driven by the same Iranian threat calculus affecting the broader Gulf.
-- **Poland**: In the context of NATO's eastern flank reinforcement, Poland is evaluating Cheongung-II as a complement to its Patriot and SHORAD layers.
+- <strong>Iraq</strong>: Preliminary export discussions underway; demand is driven by the same Iranian threat calculus affecting the broader Gulf.
+- <strong>Poland</strong>: In the context of NATO's eastern flank reinforcement, Poland is evaluating Cheongung-II as a complement to its Patriot and SHORAD layers.
 
 ---
 
@@ -92,7 +92,7 @@ Saudi Arabia is currently in active negotiations for a Cheongung-II acquisition.
 | Stock Performance vs. 2024 | +200%+ |
 | Primary Index | KOSPI (079550.KS) |
 
-The KRW 15 trillion backlog — representing roughly **4.7 years of 2025 revenue** at current run rates — is the single most important figure for long-duration investors. It provides extraordinary revenue visibility and significantly reduces the execution risk typically associated with defense primes dependent on lumpy contract awards.
+The KRW 15 trillion backlog — representing roughly <strong>4.7 years of 2025 revenue</strong> at current run rates — is the single most important figure for long-duration investors. It provides extraordinary revenue visibility and significantly reduces the execution risk typically associated with defense primes dependent on lumpy contract awards.
 
 The stock's +200% gain versus 2024 reflects both the backlog buildup and a sector-wide re-rating of Korean defense companies as a globally credible export category rather than purely domestic procurement plays. The re-rating is arguably still incomplete if Saudi Arabia signs and Iraq advances.
 
@@ -102,47 +102,47 @@ The stock's +200% gain versus 2024 reflects both the backlog buildup and a secto
 
 ### Bull Case
 
-**1. Saudi Arabia contract signing.** A KRW 5 trillion+ Saudi contract would add approximately one-third to the existing backlog and likely trigger a meaningful earnings revision cycle. The escalating Iran threat environment has compressed the timeline for a decision.
+<strong>1. Saudi Arabia contract signing.</strong> A KRW 5 trillion+ Saudi contract would add approximately one-third to the existing backlog and likely trigger a meaningful earnings revision cycle. The escalating Iran threat environment has compressed the timeline for a decision.
 
-**2. Iran escalation → Gulf rearmament wave.** If US military action against Iran materializes, every GCC state will accelerate air-defense procurement. LIG Nex1, as the fastest-to-deliver credible alternative to Patriot, is structurally positioned to capture a disproportionate share of emergency orders.
+<strong>2. Iran escalation → Gulf rearmament wave.</strong> If US military action against Iran materializes, every GCC state will accelerate air-defense procurement. LIG Nex1, as the fastest-to-deliver credible alternative to Patriot, is structurally positioned to capture a disproportionate share of emergency orders.
 
-**3. Bigeung (MANPADS) demand.** The Ukraine war permanently repriced the value of man-portable air-defense systems globally. LIG Nex1's Bigeung is well-regarded within the ROK military and is attracting growing export interest in the same markets as Cheongung-II.
+<strong>3. Bigeung (MANPADS) demand.</strong> The Ukraine war permanently repriced the value of man-portable air-defense systems globally. LIG Nex1's Bigeung is well-regarded within the ROK military and is attracting growing export interest in the same markets as Cheongung-II.
 
-**4. Backlog conversion.** KRW 15 trillion in backlog converts to future revenue regardless of new order intake. Even without new contracts, the earnings trajectory through 2028–2029 is largely secured.
+<strong>4. Backlog conversion.</strong> KRW 15 trillion in backlog converts to future revenue regardless of new order intake. Even without new contracts, the earnings trajectory through 2028–2029 is largely secured.
 
 ### Bear Case
 
-**1. ITAR dependencies.** Certain Cheongung-II subsystems involve US-origin components subject to ITAR. Washington retains the ability to block or complicate re-exports, particularly to politically sensitive buyers. Any deterioration in US-Korea relations or buyer country relationships with Washington creates a latent risk.
+<strong>1. ITAR dependencies.</strong> Certain Cheongung-II subsystems involve US-origin components subject to ITAR. Washington retains the ability to block or complicate re-exports, particularly to politically sensitive buyers. Any deterioration in US-Korea relations or buyer country relationships with Washington creates a latent risk.
 
-**2. Export schedule slippage.** Defense procurement timelines are notoriously difficult to predict. UAE deliveries, Saudi negotiations, and the Iraq/Poland pipelines could all slip materially due to bureaucratic, political, or industrial-base constraints on the Korean side.
+<strong>2. Export schedule slippage.</strong> Defense procurement timelines are notoriously difficult to predict. UAE deliveries, Saudi negotiations, and the Iraq/Poland pipelines could all slip materially due to bureaucratic, political, or industrial-base constraints on the Korean side.
 
-**3. Middle East geopolitical volatility.** The same tensions that are driving demand can also disrupt it. A ceasefire, a change in Gulf political leadership, or a shift in buyer priorities could reduce urgency on the procurement side.
+<strong>3. Middle East geopolitical volatility.</strong> The same tensions that are driving demand can also disrupt it. A ceasefire, a change in Gulf political leadership, or a shift in buyer priorities could reduce urgency on the procurement side.
 
-**4. Valuation after 200% re-rating.** The stock has already priced in a significant amount of the positive narrative. Investors entering at current levels are paying for a scenario that is partially but not fully reflected in consensus estimates. Disappointment on the Saudi timeline would likely produce a sharp correction.
+<strong>4. Valuation after 200% re-rating.</strong> The stock has already priced in a significant amount of the positive narrative. Investors entering at current levels are paying for a scenario that is partially but not fully reflected in consensus estimates. Disappointment on the Saudi timeline would likely produce a sharp correction.
 
 ---
 
 ## Frequently Asked Questions
 
-**What is the Cheongung-II (M-SAM) missile system?**
+<strong>What is the Cheongung-II (M-SAM) missile system?</strong>
 The Cheongung-II (천궁-II), formally designated M-SAM (Medium Surface-to-Air Missile), is a Korean-developed medium-range air-defense system designed to intercept aircraft, cruise missiles, and short-range ballistic missiles. It uses active radar homing and is interoperable with Korea's national KAMD architecture. It is widely considered the closest non-US alternative to the Patriot PAC-2 system in its performance class.
 
-**How large is LIG Nex1's order backlog?**
+<strong>How large is LIG Nex1's order backlog?</strong>
 As of the data available for FY2025, LIG Nex1's order backlog exceeded KRW 15 trillion — a record figure for the company. This represents approximately 4.7 years of 2025 annual revenue coverage.
 
-**What is the UAE Cheongung-II contract worth?**
+<strong>What is the UAE Cheongung-II contract worth?</strong>
 The UAE signed a Cheongung-II acquisition contract worth approximately KRW 3.5 trillion in 2022. Deliveries are currently in progress as of 2026.
 
-**Is the Saudi Arabia deal confirmed?**
+<strong>Is the Saudi Arabia deal confirmed?</strong>
 As of April 2026, Saudi Arabia and LIG Nex1/Korea are in active negotiations. No contract has been formally signed. The estimated deal size exceeds KRW 5 trillion, but timeline and terms remain subject to negotiation.
 
-**How does US-Iran tension affect LIG Nex1?**
+<strong>How does US-Iran tension affect LIG Nex1?</strong>
 US-Iran tensions raise the perceived air-defense risk across the Gulf Cooperation Council region. GCC states, particularly Saudi Arabia and the UAE, are accelerating procurement of systems capable of intercepting Iranian ballistic missiles and drones. Cheongung-II is one of the few systems that can be delivered on meaningful timescales given US Patriot production constraints.
 
-**What is the ITAR risk for Korean defense exports?**
+<strong>What is the ITAR risk for Korean defense exports?</strong>
 The International Traffic in Arms Regulations (ITAR) are US government controls on defense-related exports and re-exports. Some LIG Nex1 systems contain US-origin components that require US government approval for export to third parties. This gives Washington indirect veto power over certain Korean defense sales, creating regulatory risk that is difficult to quantify but real.
 
-**How is LIG Nex1 classified in Korean defense ETFs?**
+<strong>How is LIG Nex1 classified in Korean defense ETFs?</strong>
 LIG Nex1 (079550.KS) is a constituent of both the PLUS K방산 ETF and the KODEX 방산 ETF, making it accessible to investors seeking Korean defense sector exposure without single-stock concentration risk.
 
 ---

@@ -23,23 +23,23 @@ tags:
   - "sector reclassification"
 ---
 
-> 📚 **Pamicell × Doosan Electro BG Proxy Series — Part 2/N.**
+> 📚 <strong>Pamicell × Doosan Electro BG Proxy Series — Part 2/N.</strong>
 > Previous: [Part 1 — Pamicell (005690): A Bio Stem-Cell Company Quietly Becoming an AI-CCL Materials Company](/post/pamicell-doosan-electro-bg-proxy-rediscovery-2026-04-30/)
 > Next: [Part 3 — 1Q26 Earnings Confirmation: Revenue ₩36.7bn, OP ₩13.1bn, OPM 35.7%](/post/pamicell-1q26-earnings-confirmation-2026-05-12/)
 
-> **Upper-sector map:** The fifth layer in this note, industry-cycle duration, is expanded in the [AI PCB and Substrate Hub](/page/korea-ai-pcb-substrate-hub/) and the [AI PCB system-bottleneck thesis](/post/ai-pcb-thesis-system-bom-common-bottleneck-2026-05-05/). The key is that Pamicell is not just a single-stock event; it is a low-dielectric materials proxy to AI system BOM expansion.
+> <strong>Upper-sector map:</strong> The fifth layer in this note, industry-cycle duration, is expanded in the [AI PCB and Substrate Hub](/page/korea-ai-pcb-substrate-hub/) and the [AI PCB system-bottleneck thesis](/post/ai-pcb-thesis-system-bom-common-bottleneck-2026-05-05/). The key is that Pamicell is not just a single-stock event; it is a low-dielectric materials proxy to AI system BOM expansion.
 
-*[Part 1](/post/pamicell-doosan-electro-bg-proxy-rediscovery-2026-04-30/) framed Pamicell's identity transition through a **four-layer recognition gap matrix** — revenue structure (closed), margin structure (closed), channel structure (closing), market perception (just starting). Within a week, five new data points landed simultaneously. One of them is the accounting-level closure of the fourth layer; together, they also open a **fifth layer** that reframes the company entirely. This piece walks through that landscape.*
+*[Part 1](/post/pamicell-doosan-electro-bg-proxy-rediscovery-2026-04-30/) framed Pamicell's identity transition through a <strong>four-layer recognition gap matrix</strong> — revenue structure (closed), margin structure (closed), channel structure (closing), market perception (just starting). Within a week, five new data points landed simultaneously. One of them is the accounting-level closure of the fourth layer; together, they also open a <strong>fifth layer</strong> that reframes the company entirely. This piece walks through that landscape.*
 
 ---
 
 ## Executive Summary
 
-- **The fourth (market perception) layer has closed at the accounting level.** Effective May 4, KRX is officially reclassifying Pamicell from "Basic Pharmaceutical Manufacturing" to "Electronic Components Manufacturing." The cited reason: revenue-mix change. This is not the market beginning to perceive Pamicell differently — it is **the exchange itself reclassifying the company in its books**. The Layer-4 from Part 1 has stepped from "just starting" to "officially closed."
-- **And a fifth layer — industry-cycle duration — has just opened.** Citi and Goldman both treat CCL undersupply and quarterly price hikes through 2026–2027 as a **"new normal."** Premium CCL gross margin runs 40–45%; commodity CCL margins sit at 10–20% — a 4–10× ASP differential. Mix shift toward premium drives step-change incremental margin on the same line. This information **reframes Pamicell from a single-quarter event to a 12–24-month structural cycle**.
-- **The two OPMs match exactly — direct evidence of the same cycle structure.** Doosan Electro BG 1Q26 OPM **30.1%**; Pamicell 2025 OPM **30.1%**. Part 1 already flagged the alignment, but the fact that the latest 1Q26 Doosan print *re-printed* exactly 30.1% is no coincidence. **The same cycle is mapping into the same margin structure across both companies — at the accounting level.**
-- **Sell-side 1Q26 previews converged tightly.** DS revenue ₩36.0B / OP ₩11.6B / OPM 32.0%; Meritz revenue ₩36.2B / OP ₩12.3B / OPM 34.0%. Midpoint: revenue ₩36.1B / OP ₩12.0B / OPM 33.1%. The "OPM 30%-class hold" tracking point from Part 1 has anchored on the sell-side at OPM 32–34%.
-- **The value-chain matrix expanded into a four-tier structure.** Part 1 framed it as a 2-tier link (Pamicell ← Doosan Electro BG). Through May, the structure clarified into 4 tiers: Doosan – Pamicell – Lotte Energy Materials – PCB (Daeduck Electronics, Isu Petasys). Pamicell's position inside this matrix becomes more specific: **the only listed upstream materials company with a confirmed direct supply contract to Doosan**.
+- <strong>The fourth (market perception) layer has closed at the accounting level.</strong> Effective May 4, KRX is officially reclassifying Pamicell from "Basic Pharmaceutical Manufacturing" to "Electronic Components Manufacturing." The cited reason: revenue-mix change. This is not the market beginning to perceive Pamicell differently — it is <strong>the exchange itself reclassifying the company in its books</strong>. The Layer-4 from Part 1 has stepped from "just starting" to "officially closed."
+- <strong>And a fifth layer — industry-cycle duration — has just opened.</strong> Citi and Goldman both treat CCL undersupply and quarterly price hikes through 2026–2027 as a <strong>"new normal."</strong> Premium CCL gross margin runs 40–45%; commodity CCL margins sit at 10–20% — a 4–10× ASP differential. Mix shift toward premium drives step-change incremental margin on the same line. This information <strong>reframes Pamicell from a single-quarter event to a 12–24-month structural cycle</strong>.
+- <strong>The two OPMs match exactly — direct evidence of the same cycle structure.</strong> Doosan Electro BG 1Q26 OPM <strong>30.1%</strong>; Pamicell 2025 OPM <strong>30.1%</strong>. Part 1 already flagged the alignment, but the fact that the latest 1Q26 Doosan print *re-printed* exactly 30.1% is no coincidence. <strong>The same cycle is mapping into the same margin structure across both companies — at the accounting level.</strong>
+- <strong>Sell-side 1Q26 previews converged tightly.</strong> DS revenue ₩36.0B / OP ₩11.6B / OPM 32.0%; Meritz revenue ₩36.2B / OP ₩12.3B / OPM 34.0%. Midpoint: revenue ₩36.1B / OP ₩12.0B / OPM 33.1%. The "OPM 30%-class hold" tracking point from Part 1 has anchored on the sell-side at OPM 32–34%.
+- <strong>The value-chain matrix expanded into a four-tier structure.</strong> Part 1 framed it as a 2-tier link (Pamicell ← Doosan Electro BG). Through May, the structure clarified into 4 tiers: Doosan – Pamicell – Lotte Energy Materials – PCB (Daeduck Electronics, Isu Petasys). Pamicell's position inside this matrix becomes more specific: <strong>the only listed upstream materials company with a confirmed direct supply contract to Doosan</strong>.
 
 ---
 
@@ -49,13 +49,13 @@ Reuse the four-layer recognition gap matrix from [Part 1](/post/pamicell-doosan-
 
 | Layer | Part 1 (April 30) | Part 2 (May 3) — Change |
 | --- | --- | --- |
-| Revenue structure (97.8% biochemicals, 56.8% low-Dk) | **Already closed** | No change — 1Q26 Doosan-direct revenue estimate firms at ₩25.6–26.0B |
-| Margin structure (2025 OPM 30.1%) | **Already closed** | **Doosan Electro BG 1Q26 OPM also 30.1%, exact match** — direct evidence of identical cycle structure |
-| Channel structure (Doosan recurring orders) | Closing | **₩9.2B Feb-2026 contract recognizing into 1Q26** — the 1Q earnings release becomes the closure verification |
-| Market perception (bio → AI-CCL) | Just starting | **May 4 KRX sector reclassification — accounting closure** — the categorization itself shifts |
-| **Layer 5 (new): industry-cycle duration** | — | **Just opened** — Citi / Goldman call 2026–2027 CCL undersupply persistent |
+| Revenue structure (97.8% biochemicals, 56.8% low-Dk) | <strong>Already closed</strong> | No change — 1Q26 Doosan-direct revenue estimate firms at ₩25.6–26.0B |
+| Margin structure (2025 OPM 30.1%) | <strong>Already closed</strong> | <strong>Doosan Electro BG 1Q26 OPM also 30.1%, exact match</strong> — direct evidence of identical cycle structure |
+| Channel structure (Doosan recurring orders) | Closing | <strong>₩9.2B Feb-2026 contract recognizing into 1Q26</strong> — the 1Q earnings release becomes the closure verification |
+| Market perception (bio → AI-CCL) | Just starting | <strong>May 4 KRX sector reclassification — accounting closure</strong> — the categorization itself shifts |
+| <strong>Layer 5 (new): industry-cycle duration</strong> | — | <strong>Just opened</strong> — Citi / Goldman call 2026–2027 CCL undersupply persistent |
 
-This table is the post's starting point and destination. **All four layers continue to close, and within a week, a fifth layer has been added.** The fifth layer is what reframes the company from a single-quarter event into a 12–24-month structural cycle.
+This table is the post's starting point and destination. <strong>All four layers continue to close, and within a week, a fifth layer has been added.</strong> The fifth layer is what reframes the company from a single-quarter event into a 12–24-month structural cycle.
 
 ---
 
@@ -73,7 +73,7 @@ Filed:   April 28, 2026
 Effective: May 4, 2026
 ```
 
-Why this matters: this isn't an administrative event. It is **the exchange itself relabeling the company's category at the books level**. Layer-4 of Part 1's recognition gap moves from "in progress" to "officially closed."
+Why this matters: this isn't an administrative event. It is <strong>the exchange itself relabeling the company's category at the books level</strong>. Layer-4 of Part 1's recognition gap moves from "in progress" to "officially closed."
 
 ### 2.2 The Four Stages of Closure vs KRX Sector
 
@@ -83,20 +83,20 @@ Mapping Part 1's "four stages of recognition gap closure" against the KRX reclas
 | --- | --- | --- | --- |
 | Revenue accounting (97.8% biochemicals) | Company | Closed | Closed |
 | Margin accounting (OPM 30.1%) | Company | Closed | Closed + matches Doosan 30.1% |
-| Classification (KRX sector code) | **Exchange** | In progress | **Closed May 4** |
+| Classification (KRX sector code) | <strong>Exchange</strong> | In progress | <strong>Closed May 4</strong> |
 | Perception (investors/media/sell-side) | Market | Just starting | KRX change is the acceleration trigger |
 
 The closing of stage three — KRX classification — has specific implications:
 
-- **Sector / theme ETF reclassification potential.** Removed from bio ETFs; eligible for IT-component / electronic-materials ETF inclusion.
-- **Sell-side coverage migration.** From healthcare-analyst coverage to IT-component / electronic-materials-analyst coverage.
-- **Institutional portfolio classification change.** No longer ticks the healthcare-allocation bucket — starts to tick the IT-component bucket.
+- <strong>Sector / theme ETF reclassification potential.</strong> Removed from bio ETFs; eligible for IT-component / electronic-materials ETF inclusion.
+- <strong>Sell-side coverage migration.</strong> From healthcare-analyst coverage to IT-component / electronic-materials-analyst coverage.
+- <strong>Institutional portfolio classification change.</strong> No longer ticks the healthcare-allocation bucket — starts to tick the IT-component bucket.
 
-The speed at which each downstream change actually happens requires separate verification. But **the reclassification itself definitively marks the starting point** — that's what makes it a meaningful accounting closure.
+The speed at which each downstream change actually happens requires separate verification. But <strong>the reclassification itself definitively marks the starting point</strong> — that's what makes it a meaningful accounting closure.
 
 ### 2.3 Position Within Part 1's Meta-Matrix
 
-Part 1 noted that "the speed at which the last layer (market perception) closes is the speed at which price gets re-defined ahead." The KRX sector change is the first major milestone of that speed. **Once the classification itself shifts, the market starts applying a different multiple matrix** — not the bio PER 30–50× standard, but the AI-infrastructure-materials PER 18–25× matrix.
+Part 1 noted that "the speed at which the last layer (market perception) closes is the speed at which price gets re-defined ahead." The KRX sector change is the first major milestone of that speed. <strong>Once the classification itself shifts, the market starts applying a different multiple matrix</strong> — not the bio PER 30–50× standard, but the AI-infrastructure-materials PER 18–25× matrix.
 
 This re-verifies, at the accounting level, Part 1's diagnosis that Pamicell has already exited the bio multiple regime.
 
@@ -112,14 +112,14 @@ The May 1 Korean trade press summarized Citi's and Goldman's CCL industry analys
 | --- | --- |
 | CCL industry new capacity growth (2026) | \~20–30% |
 | CCL industry new capacity growth (2027) | \~30–40% |
-| Yet supply-demand | **Stays tight** |
+| Yet supply-demand | <strong>Stays tight</strong> |
 | Quarterly price hikes | Conditions met |
-| Goldman's framing of CCL price hikes | **"New normal"** |
+| Goldman's framing of CCL price hikes | <strong>"New normal"</strong> |
 | Premium CCL ASP / Commodity CCL ASP | 4–10× |
 | Premium CCL gross margin | 40–45% |
 | Commodity CCL gross margin | 10–20% |
 
-Math: premium / commodity gross margin = 40 / 15 (midpoint) = \~2.67×. Adding the 4–10× ASP gap, **mix-shift to premium on the same line drives unambiguous step-change incremental margin**.
+Math: premium / commodity gross margin = 40 / 15 (midpoint) = \~2.67×. Adding the 4–10× ASP gap, <strong>mix-shift to premium on the same line drives unambiguous step-change incremental margin</strong>.
 
 Target-price upgrade examples:
 
@@ -134,11 +134,11 @@ Verification: 1,500/1,100 − 1 = +36.36% ✓; 1,310/1,000 − 1 = +31.0% ✓.
 
 Pamicell is not a CCL maker — it is a low-Dk materials supplier. So CCL price hikes don't pass through 1:1 to Pamicell ASP. But this information strengthens Pamicell on three vectors:
 
-**P (price)**: Premium CCL mix expansion → Pamicell's pricing power on its inputs improves. When the CCL maker has the regime headroom to raise prices, the upstream materials supplier's negotiating position gets pulled along.
+<strong>P (price)</strong>: Premium CCL mix expansion → Pamicell's pricing power on its inputs improves. When the CCL maker has the regime headroom to raise prices, the upstream materials supplier's negotiating position gets pulled along.
 
-**Q (volume)**: CCL undersupply persisting through 2026–2027 means **the same period of Doosan Electro BG running at full utilization plus Pamicell taking recurring orders extends in lockstep**. The "recurring orders" time horizon flagged in Part 1 stretches from 6–12 months to **12–24 months**.
+<strong>Q (volume)</strong>: CCL undersupply persisting through 2026–2027 means <strong>the same period of Doosan Electro BG running at full utilization plus Pamicell taking recurring orders extends in lockstep</strong>. The "recurring orders" time horizon flagged in Part 1 stretches from 6–12 months to <strong>12–24 months</strong>.
 
-**C (cost)**: Premium CCL mix sustainment means Doosan Electro BG OPM holds — which means Pamicell's input pricing isn't squeezed by Doosan. Meritz's 1Q26 estimated OPM 34% and DS's 32% have an accounting basis for cycle persistence.
+<strong>C (cost)</strong>: Premium CCL mix sustainment means Doosan Electro BG OPM holds — which means Pamicell's input pricing isn't squeezed by Doosan. Meritz's 1Q26 estimated OPM 34% and DS's 32% have an accounting basis for cycle persistence.
 
 ### 3.3 The 'Newly Opened Fifth Layer' — From Single Event to Cycle
 
@@ -156,7 +156,7 @@ Part 2 analytical dimensions (5th layer added):
   Layer 5 (new): Industry-cycle duration — 12–24 month structural persistence
 ```
 
-When the 5th layer is added, the way you analyze the company changes. You no longer buy a single-quarter earnings event (1Q26 release in May). You instead track **how the entire 2026–2027 CCL cycle accumulates into Pamicell's P&L**. In Part 1, "1Q May earnings was the first verification gate." In Part 2, "1Q is just the first quarter of a 24-month cycle."
+When the 5th layer is added, the way you analyze the company changes. You no longer buy a single-quarter earnings event (1Q26 release in May). You instead track <strong>how the entire 2026–2027 CCL cycle accumulates into Pamicell's P&L</strong>. In Part 1, "1Q May earnings was the first verification gate." In Part 2, "1Q is just the first quarter of a 24-month cycle."
 
 That's the central landscape shift Part 2 introduces.
 
@@ -170,10 +170,10 @@ Ahead of the 1Q26 earnings release (expected May 8–15), the two sell-side esti
 
 | Item | DS Investment & Securities | Meritz Securities | Simple average (midpoint) |
 | --- | ---: | ---: | ---: |
-| Revenue | ₩36.0B | ₩36.2B | **₩36.1B** |
-| Operating profit | ₩11.6B | ₩12.3B | **₩12.0B** |
-| OPM | 32.0% | 34.0% | **33.1%** |
-| Doosan-direct / low-Dk revenue | ₩26.0B | ₩25.6B | **₩25.8B** |
+| Revenue | ₩36.0B | ₩36.2B | <strong>₩36.1B</strong> |
+| Operating profit | ₩11.6B | ₩12.3B | <strong>₩12.0B</strong> |
+| OPM | 32.0% | 34.0% | <strong>33.1%</strong> |
+| Doosan-direct / low-Dk revenue | ₩26.0B | ₩25.6B | <strong>₩25.8B</strong> |
 
 Verification:
 - Average OPM = 12.0 / 36.1 = 33.10% ≈ 33.1% ✓
@@ -184,7 +184,7 @@ Verification:
 
 Two sell-side firms arriving at narrow estimates carries accounting weight. Revenue ₩36.0–36.2B (0.6% spread), OP ₩11.6–12.3B (6% spread), OPM 32–34% (2 pp spread) — extremely tight dispersion.
 
-That tightness means Layers 2 (margin) and 3 (channel) from Part 1 are **closing inside the sell-side models on the same matrix**. Two firms using different data and different models still landing on similar numbers is independent external validation that the cycle structure is operating consistently.
+That tightness means Layers 2 (margin) and 3 (channel) from Part 1 are <strong>closing inside the sell-side models on the same matrix</strong>. Two firms using different data and different models still landing on similar numbers is independent external validation that the cycle structure is operating consistently.
 
 ### 4.3 Mapping Against Part 1's Checkpoints
 
@@ -211,7 +211,7 @@ Pamicell 2025 annual OPM = 343 / 1,141 = 30.06% ≈ 30.1%
 Doosan Electro BG 1Q26 OPM = 1,856 / 6,173 = 30.07% ≈ 30.1%
 ```
 
-Doosan re-printing the same 30.1% in 1Q26 makes the alignment harder to dismiss as coincidence. If it were coincidence, quarterly OPMs would scatter (28%, 31%, 32%, etc.). Re-printing 30.1% twice, on consecutive periods, is the kind of accounting consistency that suggests **two companies sitting in different positions of the same cycle, mapping to the same margin structure**.
+Doosan re-printing the same 30.1% in 1Q26 makes the alignment harder to dismiss as coincidence. If it were coincidence, quarterly OPMs would scatter (28%, 31%, 32%, etc.). Re-printing 30.1% twice, on consecutive periods, is the kind of accounting consistency that suggests <strong>two companies sitting in different positions of the same cycle, mapping to the same margin structure</strong>.
 
 ### 5.2 Sell-Side Estimate Consistency
 
@@ -228,7 +228,7 @@ The sell-side converging on a one-step OPM uplift is additional evidence that Pa
 
 ### 5.3 What the OPM Alignment Means for the Series
 
-This consistency builds the meta-message of the series. The series is tracking "where Pamicell sits in the Doosan Electro BG cycle." Two OPMs aligning at 30.1% across both companies is **direct evidence that the two companies are in the same cycle, in the same margin structure**. That alignment strengthens the series' analytical consistency.
+This consistency builds the meta-message of the series. The series is tracking "where Pamicell sits in the Doosan Electro BG cycle." Two OPMs aligning at 30.1% across both companies is <strong>direct evidence that the two companies are in the same cycle, in the same margin structure</strong>. That alignment strengthens the series' analytical consistency.
 
 ---
 
@@ -262,7 +262,7 @@ Each tier has a different verification status:
 | Tier | Company | Doosan link verification | Revenue stage |
 | --- | --- | --- | --- |
 | Anchor | Doosan (000150) | — | 1Q26 revenue ₩702.3B, OP ₩187.8B |
-| **Tier 2** | **Pamicell (005690)** | **5 supply contracts (4 in 2025 + 1 in Feb 2026)** | **Confirmed** |
+| <strong>Tier 2</strong> | <strong>Pamicell (005690)</strong> | <strong>5 supply contracts (4 in 2025 + 1 in Feb 2026)</strong> | <strong>Confirmed</strong> |
 | Tier 3 | Lotte Energy Materials (020150) | March 2026 MOU | MOU stage; revenue not yet booked |
 | Tier 4 | Daeduck / Isu Petasys / others | Direct Doosan link unconfirmed | AI PCB beta (indirect) |
 
@@ -270,9 +270,9 @@ Each tier has a different verification status:
 
 Within this matrix, Pamicell's position is:
 
-> **The only listed materials company in the 4-tier value chain with repeatedly confirmed direct supply contracts to Doosan.**
+> <strong>The only listed materials company in the 4-tier value chain with repeatedly confirmed direct supply contracts to Doosan.</strong>
 
-Tier 3's Lotte Energy Materials sits at MOU only — no revenue verification yet. Tier 4's PCB names are AI-PCB industry beta, not direct Doosan exposure. Pamicell uniquely satisfies **three conditions simultaneously**: direct value-chain exposure with recurring contract evidence + smaller market cap than Doosan + materials-grade margin structure (OPM 30%-class).
+Tier 3's Lotte Energy Materials sits at MOU only — no revenue verification yet. Tier 4's PCB names are AI-PCB industry beta, not direct Doosan exposure. Pamicell uniquely satisfies <strong>three conditions simultaneously</strong>: direct value-chain exposure with recurring contract evidence + smaller market cap than Doosan + materials-grade margin structure (OPM 30%-class).
 
 This positioning was implied in Part 1; the May 4-tier expansion makes it more specific.
 
@@ -282,12 +282,12 @@ A one-line identity per name:
 
 | Name | Model identity |
 | --- | --- |
-| **Doosan** | The CCL anchor — direct cycle beneficiary |
-| **Pamicell** | The most direct upstream compressed proxy of the Doosan cycle |
-| **Lotte Energy Materials** | A new option on the Doosan cycle — MOU stage, pre-revenue |
-| **Daeduck / Isu Petasys** | AI PCB industry beta — not direct Doosan link |
+| <strong>Doosan</strong> | The CCL anchor — direct cycle beneficiary |
+| <strong>Pamicell</strong> | The most direct upstream compressed proxy of the Doosan cycle |
+| <strong>Lotte Energy Materials</strong> | A new option on the Doosan cycle — MOU stage, pre-revenue |
+| <strong>Daeduck / Isu Petasys</strong> | AI PCB industry beta — not direct Doosan link |
 
-Pamicell's identity isn't "Doosan sub" or "AI PCB beta." It is **"the upstream compressed proxy of the Doosan cycle"** — its own category. That category clarification is the new structural insight Part 2 introduces.
+Pamicell's identity isn't "Doosan sub" or "AI PCB beta." It is <strong>"the upstream compressed proxy of the Doosan cycle"</strong> — its own category. That category clarification is the new structural insight Part 2 introduces.
 
 ---
 
@@ -303,9 +303,9 @@ Now check whether the five new data points point in the same direction:
 | 4. Two OPMs at 30.1% match | Layer 2 (margin) | Same cycle, same margin structure — direct evidence |
 | 5. 4-tier value-chain expansion | Layers 3 (channel) + 4 (perception) | Pamicell's position becomes sharper |
 
-All five point the same direction — **"recognition gap closing more deeply, time horizon extending."** None of the new information contradicts the model.
+All five point the same direction — <strong>"recognition gap closing more deeply, time horizon extending."</strong> None of the new information contradicts the model.
 
-That internal consistency is the most important landscape feature of Part 2. **The fact that five new data points arriving in a single week all align inside the same model is the accounting-level evidence that the model itself has gained a layer of trust.**
+That internal consistency is the most important landscape feature of Part 2. <strong>The fact that five new data points arriving in a single week all align inside the same model is the accounting-level evidence that the model itself has gained a layer of trust.</strong>
 
 ---
 
@@ -315,27 +315,27 @@ Not trade triggers. Observation points showing how the five layers carry forward
 
 ### 8.1 May — What 1Q26 Earnings Will Close
 
-- **1Q26 revenue ₩36.0–36.2B / OP ₩11.6–12.3B / OPM 32–34%**: meeting sell-side consensus closes Layer 2 (margin) and Layer 3 (channel) once more, simultaneously.
-- **Low-Dk materials revenue at \~₩25–26B confirmed**: clear 1Q recognition of Doosan-direct revenue. Direct verification of Layer 3.
-- **How OPM aligns with Doosan Electro BG's 30.1%**: 32–34% maps cleanly via operating leverage; 30%-class would re-confirm the OPM alignment.
+- <strong>1Q26 revenue ₩36.0–36.2B / OP ₩11.6–12.3B / OPM 32–34%</strong>: meeting sell-side consensus closes Layer 2 (margin) and Layer 3 (channel) once more, simultaneously.
+- <strong>Low-Dk materials revenue at \~₩25–26B confirmed</strong>: clear 1Q recognition of Doosan-direct revenue. Direct verification of Layer 3.
+- <strong>How OPM aligns with Doosan Electro BG's 30.1%</strong>: 32–34% maps cleanly via operating leverage; 30%-class would re-confirm the OPM alignment.
 
 ### 8.2 May–June — What Subsequent Contracts Will Close
 
-- **Doosan-direct contracts in May–June**: the Feb 2026 ₩9.2B contract runs through April 30. A successor at ₩8–10B closes the "monthly \~₩9B run-rate" hypothesis.
-- **Contract frequency × ticket-size step-up**: 2025 average ₩4.83B per contract; first 2026 contract ₩9.2B (+90%). A successor above ₩10B further closes the cycle Layer 5.
+- <strong>Doosan-direct contracts in May–June</strong>: the Feb 2026 ₩9.2B contract runs through April 30. A successor at ₩8–10B closes the "monthly \~₩9B run-rate" hypothesis.
+- <strong>Contract frequency × ticket-size step-up</strong>: 2025 average ₩4.83B per contract; first 2026 contract ₩9.2B (+90%). A successor above ₩10B further closes the cycle Layer 5.
 
 ### 8.3 2H 2026 — What Layer 5 Cycle Will Close
 
-- **Doosan Electro BG 2Q–4Q quarterly revenue and OPM**: 30%-class OPM holding quarter-by-quarter is direct verification of the "CCL undersupply through 2026–2027 persists" hypothesis.
-- **Plant 3 commissioning (target: September 30, 2026)**: the accounting foundation for 2027 revenue step-up. Already flagged in Part 1.
-- **Doosan's Thailand new plant (2028 mass-production)**: direct evidence that Doosan itself is sizing the cycle through 2028.
-- **Quarterly evolution of premium CCL ASP**: whether Goldman's "new normal" hypothesis prints in actual numbers.
+- <strong>Doosan Electro BG 2Q–4Q quarterly revenue and OPM</strong>: 30%-class OPM holding quarter-by-quarter is direct verification of the "CCL undersupply through 2026–2027 persists" hypothesis.
+- <strong>Plant 3 commissioning (target: September 30, 2026)</strong>: the accounting foundation for 2027 revenue step-up. Already flagged in Part 1.
+- <strong>Doosan's Thailand new plant (2028 mass-production)</strong>: direct evidence that Doosan itself is sizing the cycle through 2028.
+- <strong>Quarterly evolution of premium CCL ASP</strong>: whether Goldman's "new normal" hypothesis prints in actual numbers.
 
 ### 8.4 Series-Level Meta Signals
 
-- **ETF / passive inclusion shifts after KRX reclassification**: inclusion in IT-component / electronic-materials ETFs would deepen Layer-4 closure.
-- **Sell-side coverage category migration**: pharma analysts → IT-component analysts, observable.
-- **Emergence of 2027 target prices**: the direct evidence that the 1-year time horizon in sell-side models is extending to 24 months.
+- <strong>ETF / passive inclusion shifts after KRX reclassification</strong>: inclusion in IT-component / electronic-materials ETFs would deepen Layer-4 closure.
+- <strong>Sell-side coverage category migration</strong>: pharma analysts → IT-component analysts, observable.
+- <strong>Emergence of 2027 target prices</strong>: the direct evidence that the 1-year time horizon in sell-side models is extending to 24 months.
 
 ---
 
@@ -347,7 +347,7 @@ Part 1 (Section 8) already flagged this: Pamicell's moat isn't permanent. Once a
 
 The moat is "time-gap," not "absent." Per Meritz's analysis, raw-material substitution in CCL formulation carries property-variation and reliability risk, so short-term dual sourcing is unlikely. But within a 12–24-month cycle window, dual sourcing can progress incrementally.
 
-This is **the self-stabilizing mechanism of Layer 5**, not a weakness. As the cycle extends, dual-sourcing pressure builds in lockstep. The series is tracking when dual sourcing first prints in the accounting numbers.
+This is <strong>the self-stabilizing mechanism of Layer 5</strong>, not a weakness. As the cycle extends, dual-sourcing pressure builds in lockstep. The series is tracking when dual sourcing first prints in the accounting numbers.
 
 ### 9.2 Microadjusting Part 1's Assumption
 
@@ -361,7 +361,7 @@ If 1Q26 actually beats the sell-side consensus and lands at OP ₩13–15B, Part
 
 ## 10. The Single Closing Line
 
-[Part 1](/post/pamicell-doosan-electro-bg-proxy-rediscovery-2026-04-30/) framed it as **"the company has already become a different company; the market is catching up."** Within a week, five new data points arrived — and all five point in the same direction: **"the catch-up is going deeper, and the time horizon has extended to 24 months."**
+[Part 1](/post/pamicell-doosan-electro-bg-proxy-rediscovery-2026-04-30/) framed it as <strong>"the company has already become a different company; the market is catching up."</strong> Within a week, five new data points arrived — and all five point in the same direction: <strong>"the catch-up is going deeper, and the time horizon has extended to 24 months."</strong>
 
 KRX reclassification (May 4) closes the perception layer at the accounting level. The CCL undersupply 2026–2027 outlook opens a fifth layer — industry-cycle duration. The narrow sell-side preview convergence verifies margin and channel consistency. The 30.1% OPM match across both companies is direct evidence of the same cycle. The 4-tier value-chain expansion sharpens Pamicell's position.
 
@@ -373,28 +373,28 @@ The next post in the series returns when (1) 1Q26 results print, (2) May–June 
 
 ## FAQ — Pamicell
 
-**Q: Is Pamicell publicly traded?**
-A: Yes. Pamicell is listed on KOSPI under ticker **005690**.
+<strong>Q: Is Pamicell publicly traded?</strong>
+A: Yes. Pamicell is listed on KOSPI under ticker <strong>005690</strong>.
 
-**Q: What does Pamicell make?**
+<strong>Q: What does Pamicell make?</strong>
 A: Pamicell is being reclassified from a basic-pharmaceutical company to an electronic-components company by KRX, effective May 4, 2026. Its core products are now bio-chemical low-Dk (low dielectric constant) materials and curing agents used in the formulation of high-end CCL (copper-clad laminates) for AI accelerator and high-speed networking applications.
 
-**Q: Who is Pamicell's largest customer?**
+<strong>Q: Who is Pamicell's largest customer?</strong>
 A: Doosan Electro BG (within Doosan Corp, KOSPI 000150), the Korean high-end CCL maker, is Pamicell's largest direct customer. Multiple supply contracts have been disclosed (4 in 2025 + 1 in February 2026).
 
-**Q: Why is Pamicell linked to AI accelerators like NVIDIA's GB300 and Vera Rubin?**
+<strong>Q: Why is Pamicell linked to AI accelerators like NVIDIA's GB300 and Vera Rubin?</strong>
 A: Doosan Electro BG supplies the high-end CCL used in PCBs / substrates for AI accelerator and high-speed networking applications. Pamicell, as Doosan's upstream low-Dk materials supplier, sits in the value chain as a compressed proxy of that cycle.
 
-**Q: When does Pamicell change KRX sector?**
+<strong>Q: When does Pamicell change KRX sector?</strong>
 A: May 4, 2026. From "Basic Pharmaceutical Manufacturing" to "Electronic Components Manufacturing." Reason: revenue-mix change.
 
-**Q: What is OPM and why does the 30.1% match matter?**
+<strong>Q: What is OPM and why does the 30.1% match matter?</strong>
 A: OPM = Operating Profit Margin. Pamicell's 2025 OPM (30.1%) and Doosan Electro BG's 1Q26 OPM (30.1%) match exactly — a strong accounting indication that both companies sit in the same industry cycle with the same margin structure.
 
-**Q: What is CCL?**
+<strong>Q: What is CCL?</strong>
 A: Copper-Clad Laminate — a foundational substrate used in PCB manufacturing for electronics. High-end / low-Dk (low dielectric constant) CCL is required for high-frequency and high-bandwidth signal transmission in AI accelerators and networking ASICs.
 
-**Q: Is Pamicell still a stem-cell / pharmaceutical company?**
+<strong>Q: Is Pamicell still a stem-cell / pharmaceutical company?</strong>
 A: It still has biopharmaceutical-related operations historically, but the revenue mix has shifted decisively. As of 2025, biochemical (low-Dk and related materials) revenue is 97.8% of the total, with low-Dk specifically at 56.8%. KRX has formalized this with the May 4 sector reclassification.
 
 ---

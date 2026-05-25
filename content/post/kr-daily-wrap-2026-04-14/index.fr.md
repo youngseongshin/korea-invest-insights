@@ -20,35 +20,35 @@ draft: false
 | USD/KRW | 1 471 | −1,8 % | Won fort |
 | Brent | 99,1 $ | +3,3 % | En hausse |
 
-**Verdict de régime :** Corée → **Bull** / États-Unis → **Neutral**. La divergence KR/US oriente le positionnement vers une **sélection accrue sur la Corée**.
+<strong>Verdict de régime :</strong> Corée → <strong>Bull</strong> / États-Unis → <strong>Neutral</strong>. La divergence KR/US oriente le positionnement vers une <strong>sélection accrue sur la Corée</strong>.
 
 ---
 
 ## Bilan de Séance
 
-La séance du 10 avril sur le marché actions coréen (KOSPI) s'est caractérisée par un **risk-on sélectif**, loin d'un rallye généralisé. Le régime macro du matin affichait un signal Neutral, mais la clôture a révélé une dynamique d'un cran supérieur — portée par des flux concentrés sur quelques axes sectoriels forts, tandis que les suiveurs de tendance moins solides s'essoufflaient en cours de séance.
+La séance du 10 avril sur le marché actions coréen (KOSPI) s'est caractérisée par un <strong>risk-on sélectif</strong>, loin d'un rallye généralisé. Le régime macro du matin affichait un signal Neutral, mais la clôture a révélé une dynamique d'un cran supérieur — portée par des flux concentrés sur quelques axes sectoriels forts, tandis que les suiveurs de tendance moins solides s'essoufflaient en cours de séance.
 
-**Secteurs et thèmes dominants**
+<strong>Secteurs et thèmes dominants</strong>
 
-Les semi-conducteurs et le hardware IA ont mené la danse : Samsung Electro-Mechanics et Samsung Electronics ont bénéficié d'un flux acheteur cohérent, légitimé par la narrative d'expansion de l'infrastructure AI. Plus marquant encore, l'infrastructure télécom — Daehangwangtongsin, Solid, RFHIC (218410.KS) et KMW — a constitué l'axe le plus visible de la journée, avec des mentions répétées dans les flux d'information institutionnels. Cette force suggère que les capitaux s'étendent du hardware pur vers la **chaîne de valeur des équipements télécom/RF**, un signal de maturité du cycle AI.
+Les semi-conducteurs et le hardware IA ont mené la danse : Samsung Electro-Mechanics et Samsung Electronics ont bénéficié d'un flux acheteur cohérent, légitimé par la narrative d'expansion de l'infrastructure AI. Plus marquant encore, l'infrastructure télécom — Daehangwangtongsin, Solid, RFHIC (218410.KS) et KMW — a constitué l'axe le plus visible de la journée, avec des mentions répétées dans les flux d'information institutionnels. Cette force suggère que les capitaux s'étendent du hardware pur vers la <strong>chaîne de valeur des équipements télécom/RF</strong>, un signal de maturité du cycle AI.
 
 SK Telecom s'est distingué dans une configuration rare : valeur défensive *et* momentum de revalorisation, soutenu par un rapport de Hana Securities maintenant un objectif de 100 000 KRW avec recommandation Achat, et des anticipations de normalisation des résultats/dividendes.
 
-Le thème **construction/reconstruction Moyen-Orient** a également généré du bruit — Hyundai Engineering & Construction visé à 240 000 KRW par Hana (relèvement d'objectif), NH Securities maintenant un avis Positif sur le secteur. Toutefois, les setups intraday sur Daewoo E&C et consorts ont majoritairement échoué à tenir leur VWAP, signe que le timing d'entrée reste prématuré malgré la qualité des catalyseurs.
+Le thème <strong>construction/reconstruction Moyen-Orient</strong> a également généré du bruit — Hyundai Engineering & Construction visé à 240 000 KRW par Hana (relèvement d'objectif), NH Securities maintenant un avis Positif sur le secteur. Toutefois, les setups intraday sur Daewoo E&C et consorts ont majoritairement échoué à tenir leur VWAP, signe que le timing d'entrée reste prématuré malgré la qualité des catalyseurs.
 
-**Secteurs sous-performants**
+<strong>Secteurs sous-performants</strong>
 
-Le segment **biotech** a été explicitement sous-pondéré dans les flux institutionnels, les commentaires récurrents orientant vers une compression vers IT/semi-conducteurs. L'énergie/électricité (SMP +47 % signalé) reste un thème structurel à surveiller, mais sans relais de portefeuille direct ce jour.
+Le segment <strong>biotech</strong> a été explicitement sous-pondéré dans les flux institutionnels, les commentaires récurrents orientant vers une compression vers IT/semi-conducteurs. L'énergie/électricité (SMP +47 % signalé) reste un thème structurel à surveiller, mais sans relais de portefeuille direct ce jour.
 
-**Flux de capitaux**
+<strong>Flux de capitaux</strong>
 
-La caractéristique clé de la séance : les étrangers ont maintenu un flux acheteur sur Samsung Electronics, confirmant la dynamique de reprise pilotée par les non-résidents. Sur les valeurs télécom-infra, la profondeur des flux acheteurs était également correcte. En revanche, les valeurs les plus faibles ont enregistré une pression institutionnelle vendeuse persistante. Message central : **"les bonnes valeurs deviennent meilleures"** — ce n'est pas un marché où tout monte ensemble.
+La caractéristique clé de la séance : les étrangers ont maintenu un flux acheteur sur Samsung Electronics, confirmant la dynamique de reprise pilotée par les non-résidents. Sur les valeurs télécom-infra, la profondeur des flux acheteurs était également correcte. En revanche, les valeurs les plus faibles ont enregistré une pression institutionnelle vendeuse persistante. Message central : <strong>"les bonnes valeurs deviennent meilleures"</strong> — ce n'est pas un marché où tout monte ensemble.
 
 ---
 
 ## Screener du Jour : Smart Money + Amélioration des Résultats
 
-**Méthodologie :** Ce screener croise les signaux de flux institutionnels et étrangers (smart money) avec des critères d'inflexion fondamentale — croissance des revenus, du résultat opérationnel et du bénéfice net, amélioration des marges et du ROE. L'objectif : identifier les dossiers où les mains fortes s'accumulent *au moment précis* où les fondamentaux accélèrent. Univers : 2 726 valeurs coréennes, score stratégique moyen des 20 premières : 0,797.
+<strong>Méthodologie :</strong> Ce screener croise les signaux de flux institutionnels et étrangers (smart money) avec des critères d'inflexion fondamentale — croissance des revenus, du résultat opérationnel et du bénéfice net, amélioration des marges et du ROE. L'objectif : identifier les dossiers où les mains fortes s'accumulent *au moment précis* où les fondamentaux accélèrent. Univers : 2 726 valeurs coréennes, score stratégique moyen des 20 premières : 0,797.
 
 ### Top 10 — Tableau de Bord
 
@@ -67,13 +67,13 @@ La caractéristique clé de la séance : les étrangers ont maintenu un flux ach
 
 ### Focus sur les 3 premiers
 
-**1. SK Square (402340.KS) — Score 0,818**
+<strong>1. SK Square (402340.KS) — Score 0,818</strong>
 SK Square est la holding d'investissement technologique du groupe SK, dont le principal actif est une participation dans SK Hynix (000660.KS). La valeur affiche une croissance du bénéfice net de +141,6 % en glissement annuel avec une amélioration de marge opérationnelle de +17,5 pp — reflet direct du supercycle mémoire. Avec un RS percentile à 98,5 et le tag *NearHigh*, le titre se situe en zone de force relative maximale. Le screener le positionne en tête grâce à la combinaison rare d'un score smart money élevé (0,704) ET d'un score d'amélioration des résultats exceptionnel (0,874).
 
-**2. SK Hynix (000660.KS) — Score 0,816**
+<strong>2. SK Hynix (000660.KS) — Score 0,816</strong>
 Le leader mondial de la mémoire HBM (High Bandwidth Memory) pour applications IA n'a plus besoin de présentation. Croissance du résultat opérationnel +101 %, bénéfice net +117 %, marges en expansion de +13 pp. La valeur ressort également dans les flux étrangers acheteurs de la séance, confirmant la cohérence entre le signal screener et la dynamique de marché du jour. Pour les investisseurs internationaux cherchant une exposition au cycle IA via la Corée, SK Hynix reste le dossier de référence.
 
-**3. APR / 에이피알 (278470.KS) — Score 0,811**
+<strong>3. APR / 에이피알 (278470.KS) — Score 0,811</strong>
 APR est un groupe de cosmétiques/beauté coréen dont la croissance organique est explosive : revenus +111 % YoY, résultat opérationnel +198 %, bénéfice net +169 %. La dynamique ROE (+34 pp) est la plus forte du top 10. Moins exposé au cycle semi-conducteur, APR représente un diversifiant sectoriel intéressant dans un screener dominé par la tech. Le profil *smart money* (0,711) indique une accumulation institutionnelle discrète sur un dossier qui n'est pas encore dans le consensus.
 
 ---

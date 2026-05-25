@@ -32,20 +32,20 @@ draft: false
 
 The previous KOSDAQ flow note argued that price and flow were diverging. KOSPI large caps had dominated the tape, but recent foreign, program and trust-account flow into KOSDAQ was quietly improving. This post is the policy-capital follow-up: if money is starting to look back at KOSDAQ, which policy channels and industrial bottlenecks can actually absorb it?
 
-The short answer: Korea's National Growth Fund is not a promise that the government will buy the KOSDAQ index. It is better understood as a tool for lowering the cost of capital for strategic industries and unlocking delayed scale-up or capex decisions. The investable question is therefore not "which stocks have the policy label?" but **which bottlenecks can turn policy capital into orders, capacity, revenue and earnings?**
+The short answer: Korea's National Growth Fund is not a promise that the government will buy the KOSDAQ index. It is better understood as a tool for lowering the cost of capital for strategic industries and unlocking delayed scale-up or capex decisions. The investable question is therefore not "which stocks have the policy label?" but <strong>which bottlenecks can turn policy capital into orders, capacity, revenue and earnings?</strong>
 
 ## Executive Summary
 
-- **Separate the numbers by layer.** The full National Growth Fund is a five-year program of more than **₩150T**, combining ₩75T from the Advanced Strategic Industry Fund and at least ₩75T from private, pension, financial-institution and public money. [Financial Services Commission][1]
-- **The 2026 deployment plan is ₩30T+.** It consists of ₩3T direct investment, ₩7T indirect investment, ₩10T infrastructure financing and ₩10T ultra-low-interest loans. The simple sum is `3 + 7 + 10 + 10 = ₩30T`. [Financial Services Commission][2]
-- **The ₩50T+ package announced in April 2026 is a separate advanced-industry ecosystem layer.** It is centered on ₩35T of indirect investment and ₩15T+ of direct investment. [Financial Services Commission][3]
-- **The first-round ₩6.6T figure is not the total size of the first seven mega-projects.** It is the amount of support approved in January-March 2026: Shinan Ui offshore wind ₩3.4T, Ulsan next-generation battery materials ₩0.1T, Pyeongtaek AI semiconductor production base ₩2.5T, and Rebellions capital participation ₩0.6T. [Financial Services Commission][3]
-- **For KOSDAQ, the indirect-investment structure matters most.** The FSC explicitly discusses support for Pre-IPO companies, early KOSDAQ-listed companies, M&A, restructuring, KOSDAQ funds and regional funds. [Financial Services Commission][3]
-- **The best public-market ideas are bottleneck suppliers, not generic policy-theme stocks.** Power infrastructure, AI semiconductor design services, OLED equipment, packaging, substrates, testing and late-stage biotech are more important than the headline names.
+- <strong>Separate the numbers by layer.</strong> The full National Growth Fund is a five-year program of more than <strong>₩150T</strong>, combining ₩75T from the Advanced Strategic Industry Fund and at least ₩75T from private, pension, financial-institution and public money. [Financial Services Commission][1]
+- <strong>The 2026 deployment plan is ₩30T+.</strong> It consists of ₩3T direct investment, ₩7T indirect investment, ₩10T infrastructure financing and ₩10T ultra-low-interest loans. The simple sum is `3 + 7 + 10 + 10 = ₩30T`. [Financial Services Commission][2]
+- <strong>The ₩50T+ package announced in April 2026 is a separate advanced-industry ecosystem layer.</strong> It is centered on ₩35T of indirect investment and ₩15T+ of direct investment. [Financial Services Commission][3]
+- <strong>The first-round ₩6.6T figure is not the total size of the first seven mega-projects.</strong> It is the amount of support approved in January-March 2026: Shinan Ui offshore wind ₩3.4T, Ulsan next-generation battery materials ₩0.1T, Pyeongtaek AI semiconductor production base ₩2.5T, and Rebellions capital participation ₩0.6T. [Financial Services Commission][3]
+- <strong>For KOSDAQ, the indirect-investment structure matters most.</strong> The FSC explicitly discusses support for Pre-IPO companies, early KOSDAQ-listed companies, M&A, restructuring, KOSDAQ funds and regional funds. [Financial Services Commission][3]
+- <strong>The best public-market ideas are bottleneck suppliers, not generic policy-theme stocks.</strong> Power infrastructure, AI semiconductor design services, OLED equipment, packaging, substrates, testing and late-stage biotech are more important than the headline names.
 
 In one sentence:
 
-**The National Growth Fund is not an index buyer for KOSDAQ; it is a capital channel that narrows the search for the next KOSDAQ alpha candidates by funding selected growth companies and industrial bottlenecks.**
+<strong>The National Growth Fund is not an index buyer for KOSDAQ; it is a capital channel that narrows the search for the next KOSDAQ alpha candidates by funding selected growth companies and industrial bottlenecks.</strong>
 
 ---
 
@@ -63,15 +63,15 @@ The broad direction is correct. Korea is using policy capital to support AI, sem
 
 According to the FSC, the full National Growth Fund is more than ₩150T over five years. The government expanded the original ₩100T plan to at least ₩150T, combining ₩75T from the Advanced Strategic Industry Fund and at least ₩75T from private, pension, financial-institution and public money. [Financial Services Commission][1]
 
-The 2026 plan is separate. The FSC states that the 2026 support plan is **₩30T+**: ₩3T in direct investment, ₩7T in indirect investment, ₩10T in infrastructure financing and ₩10T in ultra-low-interest loans. [Financial Services Commission][2]
+The 2026 plan is separate. The FSC states that the 2026 support plan is <strong>₩30T+</strong>: ₩3T in direct investment, ₩7T in indirect investment, ₩10T in infrastructure financing and ₩10T in ultra-low-interest loans. [Financial Services Commission][2]
 
 The advanced-industry ecosystem package announced on April 14, 2026 is another layer. Yonhap described it as more than ₩50T over five years, split between ₩35T of indirect investment and ₩15T of direct investment. [Yonhap News Agency][4] The FSC release also says the ₩15T direct-investment channel will be used for large, long-term strategic support, while indirect investment includes Pre-IPO, early KOSDAQ-listed companies, M&A, restructuring, KOSDAQ funds and regional funds. [Financial Services Commission][3]
 
-The most common mistake is the **₩6.6T first-round figure**. That is not the total size of the first seven mega-projects. It is the amount of support approved in January-March 2026:
+The most common mistake is the <strong>₩6.6T first-round figure</strong>. That is not the total size of the first seven mega-projects. It is the amount of support approved in January-March 2026:
 
 `Shinan Ui ₩3.4T + Ulsan battery materials ₩0.1T + Pyeongtaek AI semiconductors ₩2.5T + Rebellions ₩0.6T = ₩6.6T`
 
-So the right starting question is not "where does the government immediately inject ₩50T?" The right question is **which funding channel unlocks which bottleneck, and how quickly?**
+So the right starting question is not "where does the government immediately inject ₩50T?" The right question is <strong>which funding channel unlocks which bottleneck, and how quickly?</strong>
 
 ---
 
@@ -94,7 +94,7 @@ This structure does not lift the entire KOSDAQ market mechanically. It repairs t
 
 The core question is:
 
-**Where in KOSDAQ can policy capital translate into real operating numbers?**
+<strong>Where in KOSDAQ can policy capital translate into real operating numbers?</strong>
 
 ---
 
@@ -126,7 +126,7 @@ Policy materials include energy infrastructure as a core axis. The second-round 
 
 LS ELECTRIC is the easiest listed proxy to understand. The company reported first-quarter 2026 consolidated revenue of ₩1.3766T and operating profit of ₩126.6B, while order backlog at the end of the quarter was reported at ₩5.6T. Media coverage attributed the strength to AI data-center investment, semiconductor capex and renewable-energy-driven power-infrastructure demand. [Chosun Biz][5]
 
-But investors should be careful. Many power-equipment stocks have already been re-rated. Even if the National Growth Fund strengthens the story, the market may already price in a large part of the global grid and AI data-center cycle. The real indicators are **order backlog, data-center revenue mix and margin durability**, not the policy label.
+But investors should be careful. Many power-equipment stocks have already been re-rated. Even if the National Growth Fund strengthens the story, the market may already price in a large part of the global grid and AI data-center cycle. The real indicators are <strong>order backlog, data-center revenue mix and margin durability</strong>, not the policy label.
 
 | Item | View |
 |---|---|
@@ -141,7 +141,7 @@ But investors should be careful. Many power-equipment stocks have already been r
 
 K-Nvidia and Sovereign AI are powerful headlines, but listed access is limited. Rebellions, FuriosaAI, DEEPX and other domestic AI chip names are largely private. So where can public investors look?
 
-The answer is the **implementation bottleneck**. Even when AI chip startups receive capital, they still need design services, verification, foundry interface, packaging and mass-production transition. Design houses and ASIC service firms sit in this workflow.
+The answer is the <strong>implementation bottleneck</strong>. Even when AI chip startups receive capital, they still need design services, verification, foundry interface, packaging and mass-production transition. Design houses and ASIC service firms sit in this workflow.
 
 ADTechnology is the clearest listed watchlist name. On its IR page, as of May 22, 2026, the company showed a share price of ₩42,600, PER of 153.24x and 13,462,007 shares outstanding. The simple market-cap calculation is `₩42,600 × 13,462,007 = roughly ₩573.5B`. [ADTechnology][6]
 
@@ -155,7 +155,7 @@ The logic is attractive, but the price is not easy. A 153x PER means the market 
 4. Improved credibility of Samsung Foundry leading-edge processes
 5. Repeatable revenue rather than one-off project fees
 
-The conclusion is **Watchlist**. ADTechnology is one of the more interesting listed proxies for domestic AI semiconductor ecosystem expansion, but actual order and production evidence should come before chasing.
+The conclusion is <strong>Watchlist</strong>. ADTechnology is one of the more interesting listed proxies for domestic AI semiconductor ecosystem expansion, but actual order and production evidence should come before chasing.
 
 ---
 
@@ -165,7 +165,7 @@ For KOSDAQ, OLED equipment is one of the cleanest policy-linked areas. OLED supe
 
 Even if policy capital flows to large panel makers, the public-market alpha can be clearer in equipment suppliers. Panel companies bear demand, depreciation, utilization and Chinese competition risk. Equipment makers see the investment decision translate into orders and revenue recognition.
 
-Watchlist areas include Sunic System, AP System, inspection equipment, laser equipment and logistics equipment. But the key is not the OLED label. It is **actual equipment orders**.
+Watchlist areas include Sunic System, AP System, inspection equipment, laser equipment and logistics equipment. But the key is not the OLED label. It is <strong>actual equipment orders</strong>.
 
 | Evidence to Watch | Why It Matters |
 |---|---|
@@ -185,7 +185,7 @@ The second-round mega-projects include next-generation biotech and vaccines. The
 
 Biotech policy support should be interpreted differently from equipment or power infrastructure. It can lower the cost of Phase 3 funding and reduce dilution. It does not increase drug efficacy, safety or approval probability.
 
-So biotech policy support is best treated as an **event-driven** theme rather than a blanket sector buy.
+So biotech policy support is best treated as an <strong>event-driven</strong> theme rather than a blanket sector buy.
 
 | Item | What to Check |
 |---|---|
@@ -234,10 +234,10 @@ Policy capital is a favorable backdrop. It becomes an investment opportunity onl
 
 Priority ranking:
 
-1. **Power infrastructure**: Closest to real-world demand, but valuation matters.
-2. **AI semiconductor design services**: Scarce listed proxy, but must grow into valuation.
-3. **OLED equipment**: Strong earnings sensitivity if policy capital unlocks capex.
-4. **Late-stage biotech**: Event-driven, not a blanket sector call.
+1. <strong>Power infrastructure</strong>: Closest to real-world demand, but valuation matters.
+2. <strong>AI semiconductor design services</strong>: Scarce listed proxy, but must grow into valuation.
+3. <strong>OLED equipment</strong>: Strong earnings sensitivity if policy capital unlocks capex.
+4. <strong>Late-stage biotech</strong>: Event-driven, not a blanket sector call.
 
 ---
 
@@ -249,7 +249,7 @@ It reduces funding gaps for Pre-IPO and early-listed companies. It supports M&A 
 
 The KOSDAQ smart-money follow-up is therefore:
 
-**Do not buy the whole policy basket. Find the bottleneck companies where policy capital turns into disclosed orders, expansion, investment or financing.**
+<strong>Do not buy the whole policy basket. Find the bottleneck companies where policy capital turns into disclosed orders, expansion, investment or financing.</strong>
 
 The next four things to wait for:
 

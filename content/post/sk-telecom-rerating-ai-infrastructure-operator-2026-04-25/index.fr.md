@@ -9,27 +9,27 @@ tags: ["sk-telecom", "017670", "infrastructure-ia", "aidc", "gpuaas", "anthropic
 
 ## En bref
 
-- Le contenu de la réévaluation de SK Telecom **n'est pas « la normalisation du dividende »**. C'est la recombinaison de `flux de trésorerie télécoms cœur + participation Anthropic + AIDC/GPUaaS + options Edge AI / AI-RAN / Network API`.
-- Au cours spot de **₩100 000**, la normalisation du dividende et le narratif IA sont **largement intégrés dans les cours.** Un potentiel de hausse supplémentaire exige une croissance du chiffre d'affaires AIDC, une revalorisation de la participation Anthropic et des preuves de monétisation de l'AI-RAN / Edge AI.
-- Recommandation : **Conserver / Acheter sur repli** plutôt qu'acheter maintenant. **Nouvelles entrées sous ₩90 000**, ou après confirmation au 1T / 2T du dividende, des résultats et de la croissance AIDC.
+- Le contenu de la réévaluation de SK Telecom <strong>n'est pas « la normalisation du dividende »</strong>. C'est la recombinaison de `flux de trésorerie télécoms cœur + participation Anthropic + AIDC/GPUaaS + options Edge AI / AI-RAN / Network API`.
+- Au cours spot de <strong>₩100 000</strong>, la normalisation du dividende et le narratif IA sont <strong>largement intégrés dans les cours.</strong> Un potentiel de hausse supplémentaire exige une croissance du chiffre d'affaires AIDC, une revalorisation de la participation Anthropic et des preuves de monétisation de l'AI-RAN / Edge AI.
+- Recommandation : <strong>Conserver / Acheter sur repli</strong> plutôt qu'acheter maintenant. <strong>Nouvelles entrées sous ₩90 000</strong>, ou après confirmation au 1T / 2T du dividende, des résultats et de la croissance AIDC.
 
 ---
 
 ## 1. Recommandation d'investissement principale
 
-**Verdict : Attendre / Acheter sur repli.**
+<strong>Verdict : Attendre / Acheter sur repli.</strong>
 
-SK Telecom n'est plus un simple titre de rendement télécoms. Après que les résultats et dividendes 2025 ont été pénalisés par un incident de piratage et des coûts exceptionnels, **2026 empile simultanément cinq éléments :** normalisation de l'activité cœur, reprise du dividende, croissance AIDC, option sur la participation Anthropic, et le narratif AI-RAN / 6G. Le chiffre d'affaires consolidé 2025 s'est établi à **₩17,0992T**, le résultat opérationnel à **₩1,0732T**, le résultat net à **₩375,1B** — en baisse de -4,7 % / -41,1 % / -73,0 % en glissement annuel — mais **le chiffre d'affaires AIDC a progressé d'environ 35 %.**
+SK Telecom n'est plus un simple titre de rendement télécoms. Après que les résultats et dividendes 2025 ont été pénalisés par un incident de piratage et des coûts exceptionnels, <strong>2026 empile simultanément cinq éléments :</strong> normalisation de l'activité cœur, reprise du dividende, croissance AIDC, option sur la participation Anthropic, et le narratif AI-RAN / 6G. Le chiffre d'affaires consolidé 2025 s'est établi à <strong>₩17,0992T</strong>, le résultat opérationnel à <strong>₩1,0732T</strong>, le résultat net à <strong>₩375,1B</strong> — en baisse de -4,7 % / -41,1 % / -73,0 % en glissement annuel — mais <strong>le chiffre d'affaires AIDC a progressé d'environ 35 %.</strong>
 
-Le cours spot est de **₩100 000 (clôture du 24 avril 2026).** Le décalage par rapport aux plus bas de début / mi-mars est largement comblé ; la progression vers ₩100 000 au cours d'avril signifie que le marché a déjà préintégré une partie de la reprise du dividende et de l'option sur la participation IA.
+Le cours spot est de <strong>₩100 000 (clôture du 24 avril 2026).</strong> Le décalage par rapport aux plus bas de début / mi-mars est largement comblé ; la progression vers ₩100 000 au cours d'avril signifie que le marché a déjà préintégré une partie de la reprise du dividende et de l'option sur la participation IA.
 
-La vraie question n'est donc plus *« SK Telecom est-elle une bonne entreprise ? »* — c'est de savoir si la **capitalisation boursière actuelle d'environ ₩21,48T** est soutenue par des flux de trésorerie ou une valeur d'actif suffisants pour justifier une **réévaluation supplémentaire de 20 à 30 % depuis ces niveaux.**
+La vraie question n'est donc plus *« SK Telecom est-elle une bonne entreprise ? »* — c'est de savoir si la <strong>capitalisation boursière actuelle d'environ ₩21,48T</strong> est soutenue par des flux de trésorerie ou une valeur d'actif suffisants pour justifier une <strong>réévaluation supplémentaire de 20 à 30 % depuis ces niveaux.</strong>
 
 ---
 
 ## 2. Architecture de la thèse
 
-**Thèse en une ligne :** *SK Telecom est un candidat à la réévaluation qui place la reprise du dividende télécoms cœur comme plancher, et tente de redéfinir le réseau en tant que **réseau de distribution d'inférence IA** via Anthropic, AIDC, AI-RAN, Edge AI et Network API.*
+<strong>Thèse en une ligne :</strong> *SK Telecom est un candidat à la réévaluation qui place la reprise du dividende télécoms cœur comme plancher, et tente de redéfinir le réseau en tant que <strong>réseau de distribution d'inférence IA</strong> via Anthropic, AIDC, AI-RAN, Edge AI et Network API.*
 
 ### Trajectoire de réévaluation
 
@@ -45,7 +45,7 @@ La vraie question n'est donc plus *« SK Telecom est-elle une bonne entreprise ?
 Étape 5 : Le multiple EV/EBITDA télécoms s'élargit vers la borne haute
 ```
 
-**Position actuelle : début de l'étape 2.** AIDC / GPUaaS est réel. Edge AI, AI-RAN, Network API restent des options.
+<strong>Position actuelle : début de l'étape 2.</strong> AIDC / GPUaaS est réel. Edge AI, AI-RAN, Network API restent des options.
 
 ---
 
@@ -80,7 +80,7 @@ GPU / accélérateur IA
 → SLA B2B / Network API
 ```
 
-Les premiers bénéficiaires ont été NVIDIA, HBM, serveurs, alimentation et refroidissement. **SK Telecom se situe dans le segment suiveur** — il bénéficie lorsque la charge de travail IA migre des clusters GPU centraux vers l'utilisation effective par les clients, l'inférence et la monétisation SLA.
+Les premiers bénéficiaires ont été NVIDIA, HBM, serveurs, alimentation et refroidissement. <strong>SK Telecom se situe dans le segment suiveur</strong> — il bénéficie lorsque la charge de travail IA migre des clusters GPU centraux vers l'utilisation effective par les clients, l'inférence et la monétisation SLA.
 
 ### 4-2. Position dans la chaîne de valeur
 
@@ -94,7 +94,7 @@ Les premiers bénéficiaires ont été NVIDIA, HBM, serveurs, alimentation et re
 | Network API | Télécoms | Peut monétiser localisation, identité, QoS, SLA |
 | SLA B2B | Télécoms, SI | Détient la base entreprises existante |
 
-Point clé : **SK Telecom ne vend pas du matériel IA.** Sa part porte sur **l'opération d'infrastructure IA, les emplacements de périphérie, le contrôle réseau et la monétisation des SLA B2B.**
+Point clé : <strong>SK Telecom ne vend pas du matériel IA.</strong> Sa part porte sur <strong>l'opération d'infrastructure IA, les emplacements de périphérie, le contrôle réseau et la monétisation des SLA B2B.</strong>
 
 ---
 
@@ -104,7 +104,7 @@ Point clé : **SK Telecom ne vend pas du matériel IA.** Sa part porte sur **l'o
 
 Le DPS 2025 s'est effondré à ₩1 660. En 2024, trois tranches trimestrielles de ₩830 plus un versement de fin d'année de ₩1 050 ont été versées, soit ₩3 540 au total.
 
-**Sensibilité du rendement dividende**
+<strong>Sensibilité du rendement dividende</strong>
 
 ```text
 Rendement dividende = DPS / cours
@@ -116,33 +116,33 @@ Rendement dividende = DPS / cours
 | ₩100 000 | 3,20 % | 3,54 % | 3,60 % |
 | ₩110 000 | 2,91 % | 3,22 % | 3,27 % |
 
-**Lecture :** Sous ₩90 000, le dossier de valeur de rendement se renforce. À ₩100 000, même une reprise totale du DPS à ₩3 540–3 600 ne donne qu'un rendement de 3,5–3,6 %. **La reprise du dividende seule ne justifie pas de courir après le titre à ces niveaux.**
+<strong>Lecture :</strong> Sous ₩90 000, le dossier de valeur de rendement se renforce. À ₩100 000, même une reprise totale du DPS à ₩3 540–3 600 ne donne qu'un rendement de 3,5–3,6 %. <strong>La reprise du dividende seule ne justifie pas de courir après le titre à ces niveaux.</strong>
 
 ### 5-2. Participation Anthropic — option d'achat IA non cotée
 
 SKT a investi $100M supplémentaires dans Anthropic en 2023, en parallèle d'un partenariat pour le développement de LLM spécialisés pour les télécoms.
 
-**Pour :**
+<strong>Pour :</strong>
 - La participation Anthropic peut représenter une part significative de la capitalisation boursière de SKT.
 - Des valorisations plus élevées des modèles IA améliorent la SOTP de SKT.
 - L'expansion d'Anthropic en Corée / Asie renforce les liens stratégiques avec SKT.
 
-**Contre :**
+<strong>Contre :</strong>
 - Le pourcentage exact de la participation, la propriété post-dilution et les conditions de sortie ne sont pas divulgués.
 - Les valorisations des titres non cotés présentent des écarts importants entre les prix des tours primaires et les marques secondaires.
 - Le calendrier de réalisation en liquidités pour les actionnaires de SKT reste flou.
 
-**Conclusion :** Anthropic **n'est pas un moteur de BPA à court terme** pour SKT. C'est une **option de revalorisation SOTP.** Partiellement intégrée dans les cours. Une introduction en bourse ou un nouveau tour majeur constituerait un déclencheur de réévaluation.
+<strong>Conclusion :</strong> Anthropic <strong>n'est pas un moteur de BPA à court terme</strong> pour SKT. C'est une <strong>option de revalorisation SOTP.</strong> Partiellement intégrée dans les cours. Une introduction en bourse ou un nouveau tour majeur constituerait un déclencheur de réévaluation.
 
 ### 5-3. AIDC / GPUaaS — la ligne IA la plus tangible aujourd'hui
 
-La stratégie d'infrastructure IA de SKT repose sur trois piliers : **AIDC, GPUaaS, Edge AI**. La société a présenté cela comme l'« AI Infrastructure Superhighway » au SK AI Summit 2024 — connectant GPUaaS métropolitain, AIDC régionaux et Edge AI.
+La stratégie d'infrastructure IA de SKT repose sur trois piliers : <strong>AIDC, GPUaaS, Edge AI</strong>. La société a présenté cela comme l'« AI Infrastructure Superhighway » au SK AI Summit 2024 — connectant GPUaaS métropolitain, AIDC régionaux et Edge AI.
 
-Le chiffre d'affaires AIDC 2025 s'est établi à **₩519,9B (+34,9 % en GA)** — du chiffre d'affaires effectivement comptabilisé, pas du narratif.
+Le chiffre d'affaires AIDC 2025 s'est établi à <strong>₩519,9B (+34,9 % en GA)</strong> — du chiffre d'affaires effectivement comptabilisé, pas du narratif.
 
-Le cluster **Haein** est réel : 1 000+ GPU NVIDIA B200 dans un seul cluster, mis à disposition des participants au projet gouvernemental de Sovereign AI Foundation Model.
+Le cluster <strong>Haein</strong> est réel : 1 000+ GPU NVIDIA B200 dans un seul cluster, mis à disposition des participants au projet gouvernemental de Sovereign AI Foundation Model.
 
-**Approche de valorisation AIDC** — la marge EBITDA, les capex, la durée des contrats et les coûts d'électricité ne sont pas suffisamment divulgués pour un DCF précis. Une sensibilité par multiple de chiffre d'affaires est appropriée.
+<strong>Approche de valorisation AIDC</strong> — la marge EBITDA, les capex, la durée des contrats et les coûts d'électricité ne sont pas suffisamment divulgués pour un DCF précis. Une sensibilité par multiple de chiffre d'affaires est appropriée.
 
 ```text
 VE AIDC = CA AIDC × Multiple de CA
@@ -154,11 +154,11 @@ VE AIDC = CA AIDC × Multiple de CA
 | ₩519,9B | 3,0× | ₩1,56T |
 | ₩519,9B | 5,0× | ₩2,60T |
 
-**Lecture :** L'AIDC seul peut déjà justifier un bloc SOTP de **₩1–3T.** Si GPUaaS est exposé à la concurrence tarifaire des clouds génériques, le multiple se comprime. Combiné avec Edge AI / SLA / IA souveraine, le multiple s'élargit.
+<strong>Lecture :</strong> L'AIDC seul peut déjà justifier un bloc SOTP de <strong>₩1–3T.</strong> Si GPUaaS est exposé à la concurrence tarifaire des clouds génériques, le multiple se comprime. Combiné avec Edge AI / SLA / IA souveraine, le multiple s'élargit.
 
 ### 5-4. Edge AI + AI-RAN + Network API — expansion multiple à long terme
 
-Le livre blanc 6G de SKT décrit un RAN natif IA faisant tourner en parallèle le service RAN et les charges de travail IA sur du matériel COTS à base de xPU, avec le calcul IA poussé vers la périphérie pour une inférence à faible latence et des services IA haute sécurité. Il nomme explicitement **les services Edge AI et la livraison via Network API** comme les nouveaux modèles économiques.
+Le livre blanc 6G de SKT décrit un RAN natif IA faisant tourner en parallèle le service RAN et les charges de travail IA sur du matériel COTS à base de xPU, avec le calcul IA poussé vers la périphérie pour une inférence à faible latence et des services IA haute sécurité. Il nomme explicitement <strong>les services Edge AI et la livraison via Network API</strong> comme les nouveaux modèles économiques.
 
 ```text
 AIDC central / cluster GPU Haein
@@ -179,11 +179,11 @@ Inférence à faible latence / IA sécurisée / Network API / SLA entreprise
 | Network API | Localisation, identité, QoS sous forme d'API | Appel API, SLA, facturation réseau premium |
 | SLA entreprise | Contrats avec garantie de qualité | Revenus récurrents B2B |
 
-**Lecture clé :** L'AI-RAN **n'est pas** un moteur de BPA en 2026. Mais s'il fonctionne, il change le **multiple terminal** de SKT — le réseau se retrouve reclassifié de « actif de facturation à la bande passante » en « infrastructure d'inférence IA distribuée ».
+<strong>Lecture clé :</strong> L'AI-RAN <strong>n'est pas</strong> un moteur de BPA en 2026. Mais s'il fonctionne, il change le <strong>multiple terminal</strong> de SKT — le réseau se retrouve reclassifié de « actif de facturation à la bande passante » en « infrastructure d'inférence IA distribuée ».
 
 ### 5-5. SK Inc. / incitations du propriétaire — poussée structurelle à la réévaluation
 
-SK Inc. détient **30,57 % / 65 668 397 actions** de SKT.
+SK Inc. détient <strong>30,57 % / 65 668 397 actions</strong> de SKT.
 
 ```text
 Valeur de la participation de SK Inc. à ₩100 000
@@ -191,35 +191,35 @@ Valeur de la participation de SK Inc. à ₩100 000
 = ₩6,567T
 ```
 
-**Pour chaque ₩10 000 de hausse de SKT, la NAV de SK Inc. évolue de :**
+<strong>Pour chaque ₩10 000 de hausse de SKT, la NAV de SK Inc. évolue de :</strong>
 
 ```text
 65 668 397 × ₩10 000 = ₩656,7B
 ```
 
-La participation du président Chey Tae-won dans SK Inc. est rapportée par Reuters à **17,7 %**, avec des informations selon lesquelles le nantissement des actions SK Inc. a été évoqué dans le contexte du financement de la procédure de divorce.
+La participation du président Chey Tae-won dans SK Inc. est rapportée par Reuters à <strong>17,7 %</strong>, avec des informations selon lesquelles le nantissement des actions SK Inc. a été évoqué dans le contexte du financement de la procédure de divorce.
 
-**Pour chaque ₩10 000 de hausse de SKT, l'attribution économique au président est approximativement :**
+<strong>Pour chaque ₩10 000 de hausse de SKT, l'attribution économique au président est approximativement :</strong>
 
 ```text
 ₩656,7B × 17,7 % ≈ ₩116,2B
 ```
 
-Selon la déclaration officielle de SK Inc., l'actionnaire majoritaire + parties liées = **25,4 % / 18 430 379 actions.**
+Selon la déclaration officielle de SK Inc., l'actionnaire majoritaire + parties liées = <strong>25,4 % / 18 430 379 actions.</strong>
 
-**Effet économique total des parties liées pour chaque ₩10 000 de hausse de SKT :**
+<strong>Effet économique total des parties liées pour chaque ₩10 000 de hausse de SKT :</strong>
 
 ```text
 ₩656,7B × 25,4 % ≈ ₩166,8B
 ```
 
-**Lecture :** La réévaluation de SKT ne représente pas une entrée de liquidités directe pour le propriétaire, mais est favorable à **la NAV de SK Inc., la capacité de nantissement, la stabilité du contrôle et le narratif IA du groupe.** La mise en avant de l'activité IA + la reprise du dividende s'inscrivent dans une fenêtre où **les incitations du propriétaire s'alignent partiellement avec les actionnaires minoritaires.**
+<strong>Lecture :</strong> La réévaluation de SKT ne représente pas une entrée de liquidités directe pour le propriétaire, mais est favorable à <strong>la NAV de SK Inc., la capacité de nantissement, la stabilité du contrôle et le narratif IA du groupe.</strong> La mise en avant de l'activité IA + la reprise du dividende s'inscrivent dans une fenêtre où <strong>les incitations du propriétaire s'alignent partiellement avec les actionnaires minoritaires.</strong>
 
 ---
 
 ## 6. Pont de valorisation
 
-**Ancrages**
+<strong>Ancrages</strong>
 - Cours spot : ₩100 000
 - Nombre d'actions : 214 790 053
 - Capitalisation actuelle : ₩21,479T
@@ -237,7 +237,7 @@ Capitalisation = cours × actions
 | ₩118 000 | ₩25,345T | +₩3,866T |
 | ₩130 000 | ₩27,923T | +₩6,444T |
 
-**Pour passer de ₩100 000 à ₩118 000, environ ₩3,87T de valeur actions supplémentaire est nécessaire.** Au moins 2 des éléments suivants doivent se matérialiser :
+<strong>Pour passer de ₩100 000 à ₩118 000, environ ₩3,87T de valeur actions supplémentaire est nécessaire.</strong> Au moins 2 des éléments suivants doivent se matérialiser :
 
 | Composante de valeur | Scénario conservateur | Scénario haussier | Confirmation requise |
 |---|---|---|---|
@@ -247,35 +247,35 @@ Capitalisation = cours × actions
 | Edge AI / AI-RAN / Network API | ₩0,3–1,0T | ₩2,5T+ | PoC payant, facturation API, économies RAN |
 | Incitations propriétaire / Holdco | Catalyseur | IR / retour capital renforcé | Politique capital SK Inc. / SKT |
 
-**Mon avis :** **₩118 000+ est atteignable.** Mais la trajectoire ne passe pas par le seul dividende. **Au moins 2 parmi {AIDC, Anthropic, AI-RAN}** doivent apparaître en chiffres.
+<strong>Mon avis :</strong> <strong>₩118 000+ est atteignable.</strong> Mais la trajectoire ne passe pas par le seul dividende. <strong>Au moins 2 parmi {AIDC, Anthropic, AI-RAN}</strong> doivent apparaître en chiffres.
 
 ---
 
 ## 7. Ce que le marché pourrait mal tarifer
 
-**Probablement sous-évalué**
+<strong>Probablement sous-évalué</strong>
 
-1. **L'AIDC perçu comme un simple centre de données.** Connecté avec GPUaaS, IA souveraine, Edge AI et Network API, l'AIDC peut atteindre des multiples plus élevés que la colocation classique.
-2. **L'AI-RAN traité comme un thème 6G lointain.** La valeur de premier ordre arrive plus tôt — efficacité énergétique RAN, automatisation réseau, infrastructure-isation de l'Edge AI — pas à partir des revenus 6G.
-3. **Incitations propriétaire / Holdco sous-pondérées.** La réévaluation de SKT est favorable à la NAV de SK Inc. et à la capacité de nantissement du président, créant une poussée structurelle en faveur du narratif IA et de la reprise du dividende.
-4. **Anthropic perçu comme une simple participation non cotée.** Ce n'est pas une participation financière — c'est un actif stratégique pour la coopération IA spécialisée dans les télécoms.
+1. <strong>L'AIDC perçu comme un simple centre de données.</strong> Connecté avec GPUaaS, IA souveraine, Edge AI et Network API, l'AIDC peut atteindre des multiples plus élevés que la colocation classique.
+2. <strong>L'AI-RAN traité comme un thème 6G lointain.</strong> La valeur de premier ordre arrive plus tôt — efficacité énergétique RAN, automatisation réseau, infrastructure-isation de l'Edge AI — pas à partir des revenus 6G.
+3. <strong>Incitations propriétaire / Holdco sous-pondérées.</strong> La réévaluation de SKT est favorable à la NAV de SK Inc. et à la capacité de nantissement du président, créant une poussée structurelle en faveur du narratif IA et de la reprise du dividende.
+4. <strong>Anthropic perçu comme une simple participation non cotée.</strong> Ce n'est pas une participation financière — c'est un actif stratégique pour la coopération IA spécialisée dans les télécoms.
 
-**Probablement surévalué**
+<strong>Probablement surévalué</strong>
 
-1. **Confusion entre AI-RAN et revenus à court terme.** Actuellement en phase de standardisation / PoC / démonstration technologique. Contribution P&L limitée en 2026.
-2. **Hypothèse que GPUaaS est à marges élevées.** Capex, électricité, amortissement et concurrence tarifaire sont importants. Aucun multiple élevé avant confirmation des marges.
-3. **Assimilation des totaux AIDC du groupe SK à la valeur pour les actionnaires de SKT.** L'AIDC d'Ulsan et les projets d'infrastructure IA du groupe nécessitent une attribution économique soigneuse entre SKT, SK Broadband, AWS et les filiales du groupe.
+1. <strong>Confusion entre AI-RAN et revenus à court terme.</strong> Actuellement en phase de standardisation / PoC / démonstration technologique. Contribution P&L limitée en 2026.
+2. <strong>Hypothèse que GPUaaS est à marges élevées.</strong> Capex, électricité, amortissement et concurrence tarifaire sont importants. Aucun multiple élevé avant confirmation des marges.
+3. <strong>Assimilation des totaux AIDC du groupe SK à la valeur pour les actionnaires de SKT.</strong> L'AIDC d'Ulsan et les projets d'infrastructure IA du groupe nécessitent une attribution économique soigneuse entre SKT, SK Broadband, AWS et les filiales du groupe.
 
 ---
 
 ## 8. Analyse des risques
 
-**Scénarios d'échec macro**
+<strong>Scénarios d'échec macro</strong>
 - Une réaccélération des taux ou des craintes de bulle sur les capex IA compriment les multiples AIDC / GPUaaS.
 - Des coûts d'alimentation / refroidissement plus élevés qu'attendu réduisent le ROIC de l'AIDC.
 - Les capex d'infrastructure IA se recentrent sur les hyperscalers, plafonnant le taux de capture de l'Edge AI télécoms.
 
-**Scénarios d'échec micro**
+<strong>Scénarios d'échec micro</strong>
 - DPS 2026 confirmé à ≤ ₩3 200 → la thèse de reprise du dividende s'affaiblit.
 - La croissance AIDC décélère ou la marge GPUaaS déçoit → pas de multiple infrastructure IA.
 - La participation / dilution Anthropic déçoit les attentes du marché → la revalorisation SOTP se réduit.
@@ -286,7 +286,7 @@ Capitalisation = cours × actions
 
 ## 9. Plan de trading
 
-**Matrice de verdict**
+<strong>Matrice de verdict</strong>
 
 | Profil | Recommandation |
 |---|---|
@@ -296,15 +296,15 @@ Capitalisation = cours × actions
 | Au-dessus de ₩118 000 | Envisager une prise de bénéfices partielle |
 | Au-dessus de ₩130 000 | Nécessite ≥ 2 parmi {Anthropic, AIDC, AI-RAN} confirmés en chiffres |
 
-**Conditions d'entrée**
+<strong>Conditions d'entrée</strong>
 
-1. **Cours :** ≤ ₩90 000. Avec DPS ₩3 540, rendement ≈ 3,93 % — le plancher s'améliore.
-2. **Dividende :** Le DPS trimestriel remonte dans la fourchette **₩830–900** — signal de retour au niveau de distribution normal de 2024.
-3. **Résultats :** Les prévisions orientent le RO 2026 vers le niveau normal de 2024 — la seule base abaissée de 2025 ne suffit pas ; la compétitivité cœur doit être restaurée.
-4. **AIDC :** Croissance du CA AIDC maintenue ≥ 30 % **ou** nouveaux contrats clients long terme divulgués. Le GPUaaS doit être qualifié de revenu d'infrastructure récurrent, et non de location courte durée.
-5. **AI-RAN / Edge :** ≥ 1 parmi {PoC payant, facturation Network API, % d'économies d'énergie RAN} divulgué. La valeur optionnelle peut alors être chiffrée plus agressivement.
+1. <strong>Cours :</strong> ≤ ₩90 000. Avec DPS ₩3 540, rendement ≈ 3,93 % — le plancher s'améliore.
+2. <strong>Dividende :</strong> Le DPS trimestriel remonte dans la fourchette <strong>₩830–900</strong> — signal de retour au niveau de distribution normal de 2024.
+3. <strong>Résultats :</strong> Les prévisions orientent le RO 2026 vers le niveau normal de 2024 — la seule base abaissée de 2025 ne suffit pas ; la compétitivité cœur doit être restaurée.
+4. <strong>AIDC :</strong> Croissance du CA AIDC maintenue ≥ 30 % <strong>ou</strong> nouveaux contrats clients long terme divulgués. Le GPUaaS doit être qualifié de revenu d'infrastructure récurrent, et non de location courte durée.
+5. <strong>AI-RAN / Edge :</strong> ≥ 1 parmi {PoC payant, facturation Network API, % d'économies d'énergie RAN} divulgué. La valeur optionnelle peut alors être chiffrée plus agressivement.
 
-**Catalyseurs**
+<strong>Catalyseurs</strong>
 
 | Catalyseur | Impact attendu |
 |---|---|
@@ -316,7 +316,7 @@ Capitalisation = cours × actions
 | Contrat payant Edge AI | L'option AI-RAN / Network API devient réelle |
 | Upgrade retour actionnaires SK Inc. / SKT | L'incitation propriétaire-Holdco s'aligne avec les minoritaires |
 
-**Invalidation**
+<strong>Invalidation</strong>
 - DPS 2026 maintenu à ≤ ₩3 200.
 - Croissance AIDC décélère à ≤ 20 %.
 - Marge GPUaaS si faible que l'AIDC = ligne dilutive de ROIC.
@@ -328,11 +328,11 @@ Capitalisation = cours × actions
 
 ## 10. Lecture finale
 
-La thèse de réévaluation de SK Telecom est **valide.** Mais **à ₩100 000, la première phase est achevée.** La normalisation du dividende seule offre un potentiel de hausse supplémentaire limité. Le potentiel résiduel est déterminé par **la conversion en bénéfices de l'AIDC / GPUaaS, la revalorisation de la participation Anthropic et les preuves de commercialisation de l'Edge AI / AI-RAN / Network API.**
+La thèse de réévaluation de SK Telecom est <strong>valide.</strong> Mais <strong>à ₩100 000, la première phase est achevée.</strong> La normalisation du dividende seule offre un potentiel de hausse supplémentaire limité. Le potentiel résiduel est déterminé par <strong>la conversion en bénéfices de l'AIDC / GPUaaS, la revalorisation de la participation Anthropic et les preuves de commercialisation de l'Edge AI / AI-RAN / Network API.</strong>
 
-Du point de vue d'un investisseur, SK Telecom n'est plus un simple opérateur télécoms — c'est un **opérateur télécoms en tentative de transition vers l'infrastructure IA.** Mais il n'est pas encore structurellement une histoire d'explosion des revenus IA comme NVIDIA ou les hyperscalers. **Ce qui peut être justifié en chiffres aujourd'hui : l'AIDC et la normalisation du dividende.** L'AI-RAN et l'Edge AI restent des options à longue échéance.
+Du point de vue d'un investisseur, SK Telecom n'est plus un simple opérateur télécoms — c'est un <strong>opérateur télécoms en tentative de transition vers l'infrastructure IA.</strong> Mais il n'est pas encore structurellement une histoire d'explosion des revenus IA comme NVIDIA ou les hyperscalers. <strong>Ce qui peut être justifié en chiffres aujourd'hui : l'AIDC et la normalisation du dividende.</strong> L'AI-RAN et l'Edge AI restent des options à longue échéance.
 
-Verdict, en résumé : **les positions existantes peuvent être conservées ; courir après le titre ici présente un rendement espéré défavorable par unité de risque.** Les nouvelles entrées s'inscrivent à **≤ ₩90 000** ou après des données supplémentaires sur le dividende / l'AIDC / Anthropic. Pour voir ₩118 000+, **le marché doit reclassifier SK Telecom de « titre de rendement télécoms » à « opérateur d'infrastructure IA ».** Seule une partie de ces preuves est arrivée.
+Verdict, en résumé : <strong>les positions existantes peuvent être conservées ; courir après le titre ici présente un rendement espéré défavorable par unité de risque.</strong> Les nouvelles entrées s'inscrivent à <strong>≤ ₩90 000</strong> ou après des données supplémentaires sur le dividende / l'AIDC / Anthropic. Pour voir ₩118 000+, <strong>le marché doit reclassifier SK Telecom de « titre de rendement télécoms » à « opérateur d'infrastructure IA ».</strong> Seule une partie de ces preuves est arrivée.
 
 ---
 
@@ -369,7 +369,7 @@ Verdict, en résumé : **les positions existantes peuvent être conservées ; co
 
 ---
 
-**Avertissement** : Cet article est un commentaire de recherche, non un conseil en investissement. Les positions, conditions et niveaux de cours peuvent évoluer à mesure que de nouvelles données arrivent. Faites votre propre analyse.
+<strong>Avertissement</strong> : Cet article est un commentaire de recherche, non un conseil en investissement. Les positions, conditions et niveaux de cours peuvent évoluer à mesure que de nouvelles données arrivent. Faites votre propre analyse.
 
 ---
 

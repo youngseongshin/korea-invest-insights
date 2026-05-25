@@ -27,7 +27,7 @@ tags:
 series: ["ai-pcb-substrate-thesis-2026"]
 ---
 
-> **セクターマップ：** 本稿は、[AI PCB・基板テーゼ](/ja/post/ai-pcb-thesis-system-bom-common-bottleneck-2026-05-05/)および[AI PCB・基板ハブ](/ja/page/korea-ai-pcb-substrate-hub/)の企業マトリクス補完版である。先のテーゼではAI基板がシステムレベルのボトルネックである理由を論じた。本稿では、韓国エコシステムのどの部分がより高いビジネス品質を持ち、どこにまだ十分に価格に織り込まれていないファクターが残っているかを問う。
+> <strong>セクターマップ：</strong> 本稿は、[AI PCB・基板テーゼ](/ja/post/ai-pcb-thesis-system-bom-common-bottleneck-2026-05-05/)および[AI PCB・基板ハブ](/ja/page/korea-ai-pcb-substrate-hub/)の企業マトリクス補完版である。先のテーゼではAI基板がシステムレベルのボトルネックである理由を論じた。本稿では、韓国エコシステムのどの部分がより高いビジネス品質を持ち、どこにまだ十分に価格に織り込まれていないファクターが残っているかを問う。
 
 ---
 

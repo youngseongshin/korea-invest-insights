@@ -21,7 +21,7 @@ draft: false
 | Brent | 108,5 $ | −0,7 % | → Stable |
 | DXY | 99,4 | +0,1 % | → Neutre |
 
-**Régime :** Corée — **Bear** | États-Unis — **Neutral**
+<strong>Régime :</strong> Corée — <strong>Bear</strong> | États-Unis — <strong>Neutral</strong>
 
 Le KOSPI abandonne près de 10 % en cinq séances sous la pression conjuguée du dollar, des taux longs américains à 4,67 % et de ventes étrangères massives. Le KOSDAQ recule plus vite encore (−11,3 %). Le won dépasse 1 500 KRW/USD, ce qui comprime les multiples des valeurs de croissance. Le VIX reste contenu à 17,9 — c'est précisément la divergence Bear coréen / Neutral américain qui impose la prudence sur les actions coréennes.
 
@@ -33,11 +33,11 @@ Le KOSPI abandonne près de 10 % en cinq séances sous la pression conjuguée du
 
 La séance du 19 mai a été marquée par un fort mouvement de vente étrangère. Le KOSPI a clôturé à 7 304,49 (−2,81 %) et le KOSDAQ à 1 084,43 (−2,40 %). Les investisseurs étrangers ont vendu pour 4 830 milliards de KRW net sur le KOSPI en une seule séance — une pression sans équivoque sur les grandes capitalisations.
 
-**Secteurs forts :** défense, énergie/électricité, infrastructure AI de niche. Ces thèmes ont résisté ou progressé malgré la baisse généralisée.
+<strong>Secteurs forts :</strong> défense, énergie/électricité, infrastructure AI de niche. Ces thèmes ont résisté ou progressé malgré la baisse généralisée.
 
-**Secteurs faibles :** semi-conducteurs large cap, robotique à haute valorisation, courtiers et machines industrielles. Les propos du PDG de Seagate sur la prudence en matière de capacités ont pesé sur l'ensemble de l'écosystème semi-conducteur coréen. En contrepoint, CoreWeave a sécurisé 3,1 milliards de dollars de financement adossé à des GPU — preuve que le capex AI reste intact sur le plan structurel.
+<strong>Secteurs faibles :</strong> semi-conducteurs large cap, robotique à haute valorisation, courtiers et machines industrielles. Les propos du PDG de Seagate sur la prudence en matière de capacités ont pesé sur l'ensemble de l'écosystème semi-conducteur coréen. En contrepoint, CoreWeave a sécurisé 3,1 milliards de dollars de financement adossé à des GPU — preuve que le capex AI reste intact sur le plan structurel.
 
-**Flux notables :** les étrangers ont vendu massivement les grandes valeurs semi ; les institutionnels ont partiellement absorbé ces ventes dans le segment des semi. Sur les petites capitalisations, certaines valeurs AI et composants électroniques ont enregistré des achats étrangers et institutionnels coordonnés en rebond intraday. Le won à 1 507 KRW amplifie la volatilité des valeurs de croissance. Le marché reste en mode de sélection stricte — les flux se concentrent sur les entreprises dont les bénéfices progressent effectivement, non sur les promesses de croissance future.
+<strong>Flux notables :</strong> les étrangers ont vendu massivement les grandes valeurs semi ; les institutionnels ont partiellement absorbé ces ventes dans le segment des semi. Sur les petites capitalisations, certaines valeurs AI et composants électroniques ont enregistré des achats étrangers et institutionnels coordonnés en rebond intraday. Le won à 1 507 KRW amplifie la volatilité des valeurs de croissance. Le marché reste en mode de sélection stricte — les flux se concentrent sur les entreprises dont les bénéfices progressent effectivement, non sur les promesses de croissance future.
 
 ---
 
@@ -60,23 +60,23 @@ Les screeners au 20 mai 2026 couvrent 102 titres. Le méta-screener classe les c
 | 9 | 089970.KQ | VM (브이엠) | 53,2 | QC · CR | 14,7 % | +387 % | +29,3 pp |
 | 10 | 329180.KS | HD Hyundai HI (HD현대중공업) | 33,5 | SMQ · CR · SME | 15,2 % | +189 % | +6,7 pp |
 
-**Légende :** QC = Quality Compounder · SMQ = Smart Money Quality · CR = Cycle Rerating · SME = Smart Money Earnings · PEAD = Post-Earnings Drift
+<strong>Légende :</strong> QC = Quality Compounder · SMQ = Smart Money Quality · CR = Cycle Rerating · SME = Smart Money Earnings · PEAD = Post-Earnings Drift
 
 ---
 
 ### Focus sur les trois premiers
 
-**1. Koses (089890.KQ) — Score 84,9 · 4 screeners**
+<strong>1. Koses (089890.KQ) — Score 84,9 · 4 screeners</strong>
 
-Koses fabrique des équipements spéciaux pour les semi-conducteurs (nettoyage, traitement de surface). La hausse de la marge opérationnelle de +29,2 pp et la croissance du résultat opérationnel de +410 % en glissement annuel révèlent un levier opérationnel exceptionnel. Les institutionnels et étrangers ont été acheteurs nets sur 5 jours (+2,1 milliards KRW combinés). C'est l'unique titre à croiser simultanément les quatre screeners QC, SMQ, CR et SME, ce qui lui vaut la première place du méta-classement. Un catalyseur DART confirme un avenant de contrat de fourniture (30 avril). **À vérifier :** ampleur du carnet de commandes et soutenabilité d'une valorisation à PER 47,7× face à la visibilité des marges.
+Koses fabrique des équipements spéciaux pour les semi-conducteurs (nettoyage, traitement de surface). La hausse de la marge opérationnelle de +29,2 pp et la croissance du résultat opérationnel de +410 % en glissement annuel révèlent un levier opérationnel exceptionnel. Les institutionnels et étrangers ont été acheteurs nets sur 5 jours (+2,1 milliards KRW combinés). C'est l'unique titre à croiser simultanément les quatre screeners QC, SMQ, CR et SME, ce qui lui vaut la première place du méta-classement. Un catalyseur DART confirme un avenant de contrat de fourniture (30 avril). <strong>À vérifier :</strong> ampleur du carnet de commandes et soutenabilité d'une valorisation à PER 47,7× face à la visibilité des marges.
 
-**2. Vitzrocell (082920.KQ) — Score 73,8 · 4 screeners**
+<strong>2. Vitzrocell (082920.KQ) — Score 73,8 · 4 screeners</strong>
 
-Vitzrocell produit des batteries primaires au lithium pour les marchés militaire, industriel et IoT. ROE de 17,2 %, marge opérationnelle à 28,5 %, endettement faible (12 %). Les achats étrangers et institutionnels nets atteignent +25,6 milliards KRW sur 5 jours. **Prudence :** un litige en cours (dépôt DART du 14 mai) constitue un risque à surveiller. Le taux de programme élevé (+20,6 %) est un signal ambigu sur la liquidité flottante. Le titre passe néanmoins les quatre filtres les plus exigeants du cadre.
+Vitzrocell produit des batteries primaires au lithium pour les marchés militaire, industriel et IoT. ROE de 17,2 %, marge opérationnelle à 28,5 %, endettement faible (12 %). Les achats étrangers et institutionnels nets atteignent +25,6 milliards KRW sur 5 jours. <strong>Prudence :</strong> un litige en cours (dépôt DART du 14 mai) constitue un risque à surveiller. Le taux de programme élevé (+20,6 %) est un signal ambigu sur la liquidité flottante. Le titre passe néanmoins les quatre filtres les plus exigeants du cadre.
 
-**3. Erantech (054210.KQ) — Score 65,8 · 4 screeners dont PEAD**
+<strong>3. Erantech (054210.KQ) — Score 65,8 · 4 screeners dont PEAD</strong>
 
-Erantech produit des composants électroniques — batteries et modules de puissance — pour smartphones et appareils connectés. Résultat opérationnel en hausse de +168 % avec une marge améliorée de +2,8 pp. Sa présence simultanée en tête de Smart Money Quality (#1), Smart Money Earnings (#1) et PEAD (#3) indique que les flux institutionnels et étrangers arrivent précisément après la publication des résultats — le signal PEAD recherché. Un IR (roadshow investisseurs) a été déposé au DART le 19 mai. **À vérifier :** ratio d'endettement élevé (118,6 %) ; le bilan mérite un examen approfondi avant tout positionnement.
+Erantech produit des composants électroniques — batteries et modules de puissance — pour smartphones et appareils connectés. Résultat opérationnel en hausse de +168 % avec une marge améliorée de +2,8 pp. Sa présence simultanée en tête de Smart Money Quality (#1), Smart Money Earnings (#1) et PEAD (#3) indique que les flux institutionnels et étrangers arrivent précisément après la publication des résultats — le signal PEAD recherché. Un IR (roadshow investisseurs) a été déposé au DART le 19 mai. <strong>À vérifier :</strong> ratio d'endettement élevé (118,6 %) ; le bilan mérite un examen approfondi avant tout positionnement.
 
 ---
 

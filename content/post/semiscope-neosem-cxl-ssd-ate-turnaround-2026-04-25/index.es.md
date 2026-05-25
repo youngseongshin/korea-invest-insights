@@ -8,17 +8,17 @@ tags: ["Neosem", "253590", "SemiScope", "CXL", "SSD Gen6", "PCIe 6.0", "ATE", "T
 series: ["semiscope-2026"]
 ---
 
-> **Análisis en profundidad SemiScope.** Neosem no es una apuesta genérica en equipamiento semiconductor. Es un nombre específico de ATE situado en la intersección entre SSD PCIe Gen6, expansión de memoria CXL, automatización de DIMM para servidores y los próximos cuellos de botella en test de memoria para centros de datos de IA.
+> <strong>Análisis en profundidad SemiScope.</strong> Neosem no es una apuesta genérica en equipamiento semiconductor. Es un nombre específico de ATE situado en la intersección entre SSD PCIe Gen6, expansión de memoria CXL, automatización de DIMM para servidores y los próximos cuellos de botella en test de memoria para centros de datos de IA.
 
 ---
 
 ## Resumen ejecutivo
 
-1. **Neosem (253590 KQ) es una empresa de ATE, no de propiedad intelectual.** Vende equipos de test post-proceso para semiconductores: testers de SSD PCIe, testers de memoria CXL, testers de automatización de DIMM para servidores y testers de burn-in. Si OpenEdges es la opción de IP en la parte alta de la cadena CXL, Neosem es la opción de equipamiento en la parte baja, que cobra cuando los fabricantes de memoria realizan pedidos de herramientas.
-2. **La franquicia central es el test de transiciones de interfaz.** Los testers de SSD PCIe Gen5, los testers de memoria CXL 1.1/2.0 y el próximo ciclo de PCIe Gen6/CXL 3.1 comparten un denominador común: cuando un nuevo estándar de interfaz de alta velocidad se convierte en realidad, el problema del test se vuelve más complejo y el contenido por equipo aumenta.
-3. **2025 fue difícil, pero precisamente por eso la situación es interesante.** Los ingresos cayeron un 39,3% interanual hasta KRW 63,9B, el beneficio operativo cedió un 75,3% hasta KRW 4,1B y el margen operativo se comprimió hasta el 6,4%. La pausa en el capex de memoria y el aumento del I+D coincidieron en el mismo ejercicio. Pero el IR de noviembre de la dirección apuntó a un fuerte repunte de pedidos desde finales de agosto, con los pedidos de septiembre a noviembre supuestamente duplicando el nivel acumulado de enero a agosto.
-4. **La cadena de catalizadores para 2026-2027 es inusualmente densa.** Las demostraciones del tester de SSD Gen6, las entregas de testers de producción CXL 3.1, GEMINI3 para SOCAMM, la opcionalidad de burn-in BX y la expansión hacia clientes internacionales crean múltiples vías de recuperación de ingresos. La señal más clara a corto plazo es si los pedidos de finales de 2025 se convierten en ingresos en 1T26/2T26.
-5. **Visión de inversión: recuperación impulsada por eventos más beta al ciclo.** Neosem no es aún un compounder estable. Es un valor de equipamiento volátil ligado al capex en memoria y a los tiempos de los clientes. Pero las referencias de pionero en CXL y un campo competitivo potencialmente más despejado en testers de SSD lo convierten en una de las formas más directas entre los valores cotizados coreanos de apostar por el próximo ciclo de test de interfaces.
+1. <strong>Neosem (253590 KQ) es una empresa de ATE, no de propiedad intelectual.</strong> Vende equipos de test post-proceso para semiconductores: testers de SSD PCIe, testers de memoria CXL, testers de automatización de DIMM para servidores y testers de burn-in. Si OpenEdges es la opción de IP en la parte alta de la cadena CXL, Neosem es la opción de equipamiento en la parte baja, que cobra cuando los fabricantes de memoria realizan pedidos de herramientas.
+2. <strong>La franquicia central es el test de transiciones de interfaz.</strong> Los testers de SSD PCIe Gen5, los testers de memoria CXL 1.1/2.0 y el próximo ciclo de PCIe Gen6/CXL 3.1 comparten un denominador común: cuando un nuevo estándar de interfaz de alta velocidad se convierte en realidad, el problema del test se vuelve más complejo y el contenido por equipo aumenta.
+3. <strong>2025 fue difícil, pero precisamente por eso la situación es interesante.</strong> Los ingresos cayeron un 39,3% interanual hasta KRW 63,9B, el beneficio operativo cedió un 75,3% hasta KRW 4,1B y el margen operativo se comprimió hasta el 6,4%. La pausa en el capex de memoria y el aumento del I+D coincidieron en el mismo ejercicio. Pero el IR de noviembre de la dirección apuntó a un fuerte repunte de pedidos desde finales de agosto, con los pedidos de septiembre a noviembre supuestamente duplicando el nivel acumulado de enero a agosto.
+4. <strong>La cadena de catalizadores para 2026-2027 es inusualmente densa.</strong> Las demostraciones del tester de SSD Gen6, las entregas de testers de producción CXL 3.1, GEMINI3 para SOCAMM, la opcionalidad de burn-in BX y la expansión hacia clientes internacionales crean múltiples vías de recuperación de ingresos. La señal más clara a corto plazo es si los pedidos de finales de 2025 se convierten en ingresos en 1T26/2T26.
+5. <strong>Visión de inversión: recuperación impulsada por eventos más beta al ciclo.</strong> Neosem no es aún un compounder estable. Es un valor de equipamiento volátil ligado al capex en memoria y a los tiempos de los clientes. Pero las referencias de pionero en CXL y un campo competitivo potencialmente más despejado en testers de SSD lo convierten en una de las formas más directas entre los valores cotizados coreanos de apostar por el próximo ciclo de test de interfaces.
 
 ---
 
@@ -46,10 +46,10 @@ Los productos de Neosem se agrupan en cuatro categorías.
 
 | Familia de producto | Qué testea | Por qué importa |
 |---|---|---|
-| **Tester de SSD PCIe** | SSDs empresariales y para centros de datos con interfaces PCIe Gen4/Gen5 y futuro Gen6. | Los servidores de IA necesitan almacenamiento más rápido y mayor fiabilidad. El aumento de velocidad de interfaz incrementa la complejidad del test. |
-| **Tester de Memoria CXL** | Dispositivos de memoria CXL y productos relacionados con expansión de memoria. | CXL conecta CPUs, memoria y aceleradores bajo una arquitectura de memoria coherente. La validación debe cubrir el comportamiento del protocolo, la latencia y la gestión de errores, no solo la señalización básica. |
-| **Automatización DIMM para Servidores / GEMINI** | Módulos de memoria para servidor y flujos de trabajo de test automatizados en cámara. | El test de memoria para servidor requiere rendimiento, automatización y fiabilidad a volumen. |
-| **Tester de Burn-in / serie BX** | Componentes de memoria bajo condiciones de estrés, incluyendo posibles variantes futuras relacionadas con HBM. | El burn-in filtra la fiabilidad bajo estrés de temperatura, tensión y tiempo. Existe una oportunidad específica en HBM, pero Neosem no es el líder hoy. |
+| <strong>Tester de SSD PCIe</strong> | SSDs empresariales y para centros de datos con interfaces PCIe Gen4/Gen5 y futuro Gen6. | Los servidores de IA necesitan almacenamiento más rápido y mayor fiabilidad. El aumento de velocidad de interfaz incrementa la complejidad del test. |
+| <strong>Tester de Memoria CXL</strong> | Dispositivos de memoria CXL y productos relacionados con expansión de memoria. | CXL conecta CPUs, memoria y aceleradores bajo una arquitectura de memoria coherente. La validación debe cubrir el comportamiento del protocolo, la latencia y la gestión de errores, no solo la señalización básica. |
+| <strong>Automatización DIMM para Servidores / GEMINI</strong> | Módulos de memoria para servidor y flujos de trabajo de test automatizados en cámara. | El test de memoria para servidor requiere rendimiento, automatización y fiabilidad a volumen. |
+| <strong>Tester de Burn-in / serie BX</strong> | Componentes de memoria bajo condiciones de estrés, incluyendo posibles variantes futuras relacionadas con HBM. | El burn-in filtra la fiabilidad bajo estrés de temperatura, tensión y tiempo. Existe una oportunidad específica en HBM, pero Neosem no es el líder hoy. |
 
 La franquicia más clara hoy es el test de SSD y módulos. Los materiales de KIRS sitúan el Tester de SSD más el Tester de DIMM para servidor en el 82,9% de los ingresos del 1S25. El test de componentes, incluido el burn-in, parece contribuir aproximadamente un 10-15%, mientras que CXL no se desglosa por separado.
 
@@ -63,10 +63,10 @@ Los números de Neosem en 2025 no admiten matices.
 
 | Métrica | 2022 | 2023 | 2024 | 2025 | Var. interanual 2025 |
 |---|---:|---:|---:|---:|---:|
-| Ingresos | KRW 74,7B | KRW 100,9B | **KRW 105,2B** | **KRW 63,9B** | **-39,3%** |
-| Beneficio operativo | KRW 8,4B | KRW 8,1B | **KRW 16,5B** | **KRW 4,1B** | **-75,3%** |
-| Margen operativo | 11,2% | 8,0% | **15,7%** | **6,4%** | -9,3pp |
-| Beneficio neto | KRW 10,0B | KRW 8,3B | KRW 19,2B | **KRW 4,8B** | -74,8% |
+| Ingresos | KRW 74,7B | KRW 100,9B | <strong>KRW 105,2B</strong> | <strong>KRW 63,9B</strong> | <strong>-39,3%</strong> |
+| Beneficio operativo | KRW 8,4B | KRW 8,1B | <strong>KRW 16,5B</strong> | <strong>KRW 4,1B</strong> | <strong>-75,3%</strong> |
+| Margen operativo | 11,2% | 8,0% | <strong>15,7%</strong> | <strong>6,4%</strong> | -9,3pp |
+| Beneficio neto | KRW 10,0B | KRW 8,3B | KRW 19,2B | <strong>KRW 4,8B</strong> | -74,8% |
 
 Fue una compresión clásica del ciclo de equipamiento. Los ingresos cayeron cuando los clientes de memoria retrasaron o redujeron el capex en equipos de inspección, mientras que los costes de I+D y desarrollo de producto no bajaron en la misma proporción. La empresa estaba invirtiendo en SSD Gen6, CXL 3.1, automatización SOCAMM y extensiones de burn-in mientras los clientes aún asimilaban la capacidad instalada previa.
 
@@ -84,11 +84,11 @@ La ventaja competitiva de Neosem no reside en que nadie más pueda fabricar test
 
 | Eje de ventaja | Valoración | Por qué |
 |---|---|---|
-| **Posición en tester de SSD PCIe** | Alta | Advantest supuestamente abandonó el negocio de testers de SSD en enero de 2025, reforzando la posición de Neosem en testers de SSD PCIe Gen5. |
-| **Referencias de producción en CXL** | Alta | Neosem cuenta con referencias comerciales en testers de producción CXL 1.1 y 2.0 suministrados a Samsung Electronics. |
-| **Historial de validación con clientes** | Media-alta | Los datos de validación específicos por dispositivo, el firmware, el historial de depuración y la integración en las líneas del cliente generan fricción al cambio. |
-| **Rendimiento / automatización** | Media | GEMINI ofrece exposición a la automatización de DIMM para servidor, pero el liderazgo en rendimiento debe demostrarse de nuevo en cada generación. |
-| **Competitividad en costes** | Media | Los proveedores de equipamiento coreanos pueden ser competitivos en costes, pero los grandes fabricantes globales de ATE tienen escala y profundidad de soporte. |
+| <strong>Posición en tester de SSD PCIe</strong> | Alta | Advantest supuestamente abandonó el negocio de testers de SSD en enero de 2025, reforzando la posición de Neosem en testers de SSD PCIe Gen5. |
+| <strong>Referencias de producción en CXL</strong> | Alta | Neosem cuenta con referencias comerciales en testers de producción CXL 1.1 y 2.0 suministrados a Samsung Electronics. |
+| <strong>Historial de validación con clientes</strong> | Media-alta | Los datos de validación específicos por dispositivo, el firmware, el historial de depuración y la integración en las líneas del cliente generan fricción al cambio. |
+| <strong>Rendimiento / automatización</strong> | Media | GEMINI ofrece exposición a la automatización de DIMM para servidor, pero el liderazgo en rendimiento debe demostrarse de nuevo en cada generación. |
+| <strong>Competitividad en costes</strong> | Media | Los proveedores de equipamiento coreanos pueden ser competitivos en costes, pero los grandes fabricantes globales de ATE tienen escala y profundidad de soporte. |
 
 El activo más importante es el historial de validación. En el test de interfaces de alta velocidad, la herramienta no solo necesita generar señales. Necesita comprender el comportamiento del dispositivo, los patrones de test, los modos de error, el timing del protocolo, los casos extremos del firmware y los flujos de producción específicos del cliente. Una vez que un fabricante de memoria ha depurado una nueva generación de dispositivos sobre una plataforma de test determinada, el cambio no es costoso.
 
@@ -124,15 +124,15 @@ La referencia de la dirección a un objetivo de alcanzar los US$100M en exportac
 
 | Tendencia | Impacto | Lectura para el inversor |
 |---|---|---|
-| **Capex en servidores de IA y PCIe 6.0 / SSD Gen6** | Viento de cola fuerte | Los SSDs más rápidos para centros de datos necesitan nueva cobertura de test. Si Advantest sigue fuera de los testers de SSD, la posición competitiva de Neosem puede ser excepcionalmente sólida. |
-| **Agrupación y expansión de memoria CXL** | Viento de cola fuerte | CXL 3.1 acerca la categoría al despliegue a escala. Las referencias de Neosem en CXL 1.1/2.0 son un activo real de ventaja pionera. |
-| **Adopción de SOCAMM por NVIDIA** | Viento de cola | GEMINI3 podría abrir una nueva categoría de automatización si SOCAMM se convierte en un estándar de volumen real. El timing y el tamaño del mercado siguen siendo inciertos. |
-| **Demanda de test de paquetes HBM** | Neutral a viento de cola | BX burn-in tiene opcionalidad, pero TechWing y Advantest son hoy más centrales en el test de HBM. Neosem no lidera claramente en testers HBM. |
-| **Integración de burn-in y test de alta densidad** | Viento de cola con competencia | BX incluye funcionalidad de test de baja frecuencia, pero el posicionamiento CLT de Exicon y la fortaleza de DI en burn-in incrementan la presión competitiva. |
-| **Recuperación del capex de memoria Samsung** | Viento de cola | Samsung es un cliente clave y el timing de CXL/Gen6 es directamente relevante. |
-| **Ciclo de capex de SK Hynix** | Neutral a leve viento de cola | Neosem tiene exposición en burn-in, pero el liderazgo en test específico de HBM parece estar en otra parte por ahora. |
-| **Controles de exportación EE.UU.-China** | Neutral a leve viento en contra | La exposición directa a China parece limitada, pero la asignación de capex de los fabricantes de memoria puede verse afectada por la geopolítica. |
-| **Localización de ATE coreano** | Viento de cola | Los fabricantes de memoria domésticos se benefician de contar con opciones locales en categorías de test estratégicamente importantes. |
+| <strong>Capex en servidores de IA y PCIe 6.0 / SSD Gen6</strong> | Viento de cola fuerte | Los SSDs más rápidos para centros de datos necesitan nueva cobertura de test. Si Advantest sigue fuera de los testers de SSD, la posición competitiva de Neosem puede ser excepcionalmente sólida. |
+| <strong>Agrupación y expansión de memoria CXL</strong> | Viento de cola fuerte | CXL 3.1 acerca la categoría al despliegue a escala. Las referencias de Neosem en CXL 1.1/2.0 son un activo real de ventaja pionera. |
+| <strong>Adopción de SOCAMM por NVIDIA</strong> | Viento de cola | GEMINI3 podría abrir una nueva categoría de automatización si SOCAMM se convierte en un estándar de volumen real. El timing y el tamaño del mercado siguen siendo inciertos. |
+| <strong>Demanda de test de paquetes HBM</strong> | Neutral a viento de cola | BX burn-in tiene opcionalidad, pero TechWing y Advantest son hoy más centrales en el test de HBM. Neosem no lidera claramente en testers HBM. |
+| <strong>Integración de burn-in y test de alta densidad</strong> | Viento de cola con competencia | BX incluye funcionalidad de test de baja frecuencia, pero el posicionamiento CLT de Exicon y la fortaleza de DI en burn-in incrementan la presión competitiva. |
+| <strong>Recuperación del capex de memoria Samsung</strong> | Viento de cola | Samsung es un cliente clave y el timing de CXL/Gen6 es directamente relevante. |
+| <strong>Ciclo de capex de SK Hynix</strong> | Neutral a leve viento de cola | Neosem tiene exposición en burn-in, pero el liderazgo en test específico de HBM parece estar en otra parte por ahora. |
+| <strong>Controles de exportación EE.UU.-China</strong> | Neutral a leve viento en contra | La exposición directa a China parece limitada, pero la asignación de capex de los fabricantes de memoria puede verse afectada por la geopolítica. |
+| <strong>Localización de ATE coreano</strong> | Viento de cola | Los fabricantes de memoria domésticos se benefician de contar con opciones locales en categorías de test estratégicamente importantes. |
 
 La distinción más importante es entre "adopción de CXL" y "timing de ingresos por CXL". Las previsiones del mercado de CXL pueden parecer enormes. Pero Neosem solo monetiza cuando los fabricantes de memoria hacen pedidos de testers de producción, no cuando el sector publica un gráfico de TAM. La secuencia es: finalización del estándar, desarrollo del dispositivo, calificación del cliente, herramientas piloto, herramientas de producción y luego ingresos.
 
@@ -207,12 +207,12 @@ El riesgo es la estandarización. Si SOCAMM sigue siendo estrecho, propietario o
 
 | Riesgo | Por qué importa | Qué vigilar |
 |---|---|---|
-| **Concentración de clientes** | Los ingresos de equipamiento pueden oscilar con unas pocas decisiones de los fabricantes de memoria. | Timing de pedidos de Samsung y Micron, cuota de ingresos internacionales, tono de la cartera de pedidos. |
-| **Dependencia del ciclo de capex** | 2025 demostró con qué rapidez pueden caer ingresos y márgenes cuando los clientes detienen el gasto. | Conversión de ingresos en 1T26 y 2T26 a partir de los pedidos de finales de 2025. |
-| **Competencia en CXL 3.1** | Las referencias de pionero pueden no garantizar el estatus de proveedor único. | Victorias de Exicon, DI y grandes fabricantes globales en testers CXL. |
-| **Riesgo de no materialización en HBM** | Neosem puede perderse el subciclo más rico en test de HBM si llega tarde. | Noticias sobre desarrollo y calificación del BX específico para HBM. |
-| **Presión en costes de I+D** | SSD Gen6, CXL 3.1, BX y GEMINI3 requieren inversión antes de que lleguen los ingresos. | Recuperación del margen operativo frente a gasto de ingeniería continuado. |
-| **Credibilidad de las previsiones** | Las previsiones del sell-side de 2025 quedaron muy por encima de los resultados reales. | Orientación de la dirección frente a divulgaciones de pedidos e ingresos reconocidos. |
+| <strong>Concentración de clientes</strong> | Los ingresos de equipamiento pueden oscilar con unas pocas decisiones de los fabricantes de memoria. | Timing de pedidos de Samsung y Micron, cuota de ingresos internacionales, tono de la cartera de pedidos. |
+| <strong>Dependencia del ciclo de capex</strong> | 2025 demostró con qué rapidez pueden caer ingresos y márgenes cuando los clientes detienen el gasto. | Conversión de ingresos en 1T26 y 2T26 a partir de los pedidos de finales de 2025. |
+| <strong>Competencia en CXL 3.1</strong> | Las referencias de pionero pueden no garantizar el estatus de proveedor único. | Victorias de Exicon, DI y grandes fabricantes globales en testers CXL. |
+| <strong>Riesgo de no materialización en HBM</strong> | Neosem puede perderse el subciclo más rico en test de HBM si llega tarde. | Noticias sobre desarrollo y calificación del BX específico para HBM. |
+| <strong>Presión en costes de I+D</strong> | SSD Gen6, CXL 3.1, BX y GEMINI3 requieren inversión antes de que lleguen los ingresos. | Recuperación del margen operativo frente a gasto de ingeniería continuado. |
+| <strong>Credibilidad de las previsiones</strong> | Las previsiones del sell-side de 2025 quedaron muy por encima de los resultados reales. | Orientación de la dirección frente a divulgaciones de pedidos e ingresos reconocidos. |
 
 El último punto es relevante. Una previsión del sell-side de enero de 2025 esperaba supuestamente ingresos de 2025 de unos KRW 131,5B, un alza del 28%. Los ingresos preliminares reales de 2025 fueron KRW 63,9B, una caída del 39%. Ese error no es solo un fallo de modelización; es un recordatorio de que los valores de equipamiento pueden pasar de "año récord el próximo año" a "retraso en capex" con mucha rapidez.
 
@@ -222,11 +222,11 @@ Para 2026, utilizaría el optimismo de la dirección como hipótesis, no como co
 
 ## Cinco puntos de verificación para los próximos dos trimestres
 
-1. **Recuperación de ingresos en el 1T26.** Si el repunte de pedidos de finales de 2025 es real, los ingresos deberían comenzar a recuperarse. Un resultado trimestral por encima de KRW 20B sería una señal importante.
-2. **Entrega del tester de producción CXL 3.1.** Un primer envío de producción CXL 3.1 relacionado con Samsung en el primer semestre de 2026 validaría la historia de la transición CXL.
-3. **Visibilidad de pedidos del tester de SSD Gen6.** Vigilar el timing de los pedidos de producción de SSD Gen6 de Samsung en el 2S26 y si Neosem sigue siendo el proveedor principal.
-4. **Decisión sobre BX específico para HBM.** Un anuncio formal de desarrollo o calificación enfocado en HBM añadiría una nueva pata de opcionalidad; el silencio mantiene a HBM fuera de la tesis central.
-5. **Cuota de exportaciones y tracción en Micron.** La evidencia de crecimiento de ingresos internacionales es lo que diferencia a un proxy del ciclo Samsung de una franquicia de test de equipamiento más global.
+1. <strong>Recuperación de ingresos en el 1T26.</strong> Si el repunte de pedidos de finales de 2025 es real, los ingresos deberían comenzar a recuperarse. Un resultado trimestral por encima de KRW 20B sería una señal importante.
+2. <strong>Entrega del tester de producción CXL 3.1.</strong> Un primer envío de producción CXL 3.1 relacionado con Samsung en el primer semestre de 2026 validaría la historia de la transición CXL.
+3. <strong>Visibilidad de pedidos del tester de SSD Gen6.</strong> Vigilar el timing de los pedidos de producción de SSD Gen6 de Samsung en el 2S26 y si Neosem sigue siendo el proveedor principal.
+4. <strong>Decisión sobre BX específico para HBM.</strong> Un anuncio formal de desarrollo o calificación enfocado en HBM añadiría una nueva pata de opcionalidad; el silencio mantiene a HBM fuera de la tesis central.
+5. <strong>Cuota de exportaciones y tracción en Micron.</strong> La evidencia de crecimiento de ingresos internacionales es lo que diferencia a un proxy del ciclo Samsung de una franquicia de test de equipamiento más global.
 
 ---
 
@@ -236,9 +236,9 @@ Valoraría a Neosem menos como un compounder de calidad estable y más como una 
 
 | Escenario | Qué debe ocurrir | Lectura para el inversor |
 |---|---|---|
-| **Escenario bajista** | Los pedidos de finales de 2025 no se convierten en ingresos, CXL 3.1 se retrasa o se reparte ampliamente entre proveedores, los pedidos de SSD Gen6 se demoran y el I+D mantiene los márgenes cerca de un dígito medio. | 2025 no fue un suelo temporal; el valor sigue siendo un nombre de equipamiento de pequeña capitalización volátil. |
-| **Escenario base** | Los ingresos del 1T26/2T26 se recuperan, se producen envíos piloto de CXL 3.1, el SSD Gen6 sigue en camino para 2027 y los márgenes se reconstruyen hacia los dos dígitos bajos. | Neosem puede re-calificarse como una apuesta creíble de recuperación en test de interfaces. |
-| **Escenario alcista** | La dinámica de proveedor único en testers de SSD Gen6 se mantiene, los pedidos de producción CXL 3.1 escalan, la cuota de Micron e ingresos internacionales aumenta, y SOCAMM o el burn-in HBM se vuelven materiales. | Los ingresos pueden superar el pico anterior y el mercado puede valorar una plataforma multi-producto de test de memoria para IA. |
+| <strong>Escenario bajista</strong> | Los pedidos de finales de 2025 no se convierten en ingresos, CXL 3.1 se retrasa o se reparte ampliamente entre proveedores, los pedidos de SSD Gen6 se demoran y el I+D mantiene los márgenes cerca de un dígito medio. | 2025 no fue un suelo temporal; el valor sigue siendo un nombre de equipamiento de pequeña capitalización volátil. |
+| <strong>Escenario base</strong> | Los ingresos del 1T26/2T26 se recuperan, se producen envíos piloto de CXL 3.1, el SSD Gen6 sigue en camino para 2027 y los márgenes se reconstruyen hacia los dos dígitos bajos. | Neosem puede re-calificarse como una apuesta creíble de recuperación en test de interfaces. |
+| <strong>Escenario alcista</strong> | La dinámica de proveedor único en testers de SSD Gen6 se mantiene, los pedidos de producción CXL 3.1 escalan, la cuota de Micron e ingresos internacionales aumenta, y SOCAMM o el burn-in HBM se vuelven materiales. | Los ingresos pueden superar el pico anterior y el mercado puede valorar una plataforma multi-producto de test de memoria para IA. |
 
 La sensibilidad clave es el timing. Un pedido de tester retrasado seis meses puede convertir una historia de año récord en otra decepción. Por eso el valor debe seguirse a través de la conversión de pedidos, no solo de los anuncios de producto.
 

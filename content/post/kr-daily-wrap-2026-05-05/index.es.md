@@ -11,7 +11,7 @@ draft: false
 
 ## 1. Panel Macroeconómico
 
-El mercado de valores de Corea opera en régimen **Bull** sincronizado con EE.UU. El KOSPI acumula una subida notable en la semana, mientras el KOSDAQ cede terreno ligeramente, reflejando una divergencia entre gran capitalización y valores de crecimiento de menor tamaño.
+El mercado de valores de Corea opera en régimen <strong>Bull</strong> sincronizado con EE.UU. El KOSPI acumula una subida notable en la semana, mientras el KOSDAQ cede terreno ligeramente, reflejando una divergencia entre gran capitalización y valores de crecimiento de menor tamaño.
 
 | Indicador | Valor actual | Cambio 5 días | Señal |
 |-----------|-------------|---------------|-------|
@@ -22,17 +22,17 @@ El mercado de valores de Corea opera en régimen **Bull** sincronizado con EE.UU
 | US 10Y | 4,45% | +0,09 pp | → Neutral |
 | Brent | 113,3 USD | −0,6% | → Estable |
 
-**Veredicto de régimen:** Bull en Corea y EE.UU. — postura de expansión activa.
+<strong>Veredicto de régimen:</strong> Bull en Corea y EE.UU. — postura de expansión activa.
 
 ---
 
 ## 2. Resumen del Mercado
 
-**Nota operativa:** El 5 de mayo es festivo nacional en Corea (Día del Niño). La Bolsa de Valores de Corea (KRX) estuvo cerrada. Los precios y flujos de referencia corresponden al último día hábil, **4 de mayo de 2026**. Los datos de los screeners de hoy son una recopilación actualizada sin nuevas señales de precio, por lo que no deben interpretarse como señales de entrada de sesión.
+<strong>Nota operativa:</strong> El 5 de mayo es festivo nacional en Corea (Día del Niño). La Bolsa de Valores de Corea (KRX) estuvo cerrada. Los precios y flujos de referencia corresponden al último día hábil, <strong>4 de mayo de 2026</strong>. Los datos de los screeners de hoy son una recopilación actualizada sin nuevas señales de precio, por lo que no deben interpretarse como señales de entrada de sesión.
 
-El contexto de mercado que dejó el viernes 4 de mayo dibuja un escenario con dos ejes bien definidos. El sector dominante fue **semiconductores/HBM** — con Samsung Electronics (005930.KS) y SK Hynix (000660.KS) recibiendo compras simultáneas de extranjeros e institucionales —, seguido por **energía eléctrica, cables y transformadores**, donde nombres como Sanil Electric (062040.KS) y Boseong Powertec (006910.KS) encabezaron la fortaleza relativa.
+El contexto de mercado que dejó el viernes 4 de mayo dibuja un escenario con dos ejes bien definidos. El sector dominante fue <strong>semiconductores/HBM</strong> — con Samsung Electronics (005930.KS) y SK Hynix (000660.KS) recibiendo compras simultáneas de extranjeros e institucionales —, seguido por <strong>energía eléctrica, cables y transformadores</strong>, donde nombres como Sanil Electric (062040.KS) y Boseong Powertec (006910.KS) encabezaron la fortaleza relativa.
 
-El eje débil fue **plataformas digitales** (NAVER y similares), con ventas sostenidas por parte tanto de institucionales como de extranjeros. Las acciones de energía que subieron con fuerza intradiaria empiezan a mostrar señales de distribución en los gráficos de corto plazo, lo que exige confirmar continuidad el lunes 6 de mayo.
+El eje débil fue <strong>plataformas digitales</strong> (NAVER y similares), con ventas sostenidas por parte tanto de institucionales como de extranjeros. Las acciones de energía que subieron con fuerza intradiaria empiezan a mostrar señales de distribución en los gráficos de corto plazo, lo que exige confirmar continuidad el lunes 6 de mayo.
 
 Desde el exterior, el flujo de noticias introdujo variables de riesgo relevantes: el riesgo geopolítico en el estrecho de Ormuz y UAE empuja el WTI por encima de los 105 USD y el bono a 30 años de EE.UU. supera el 5%. Esto crea presión para acciones de crecimiento con valoraciones altas y plataformas, pero resulta relativamente favorable para energía, infraestructura eléctrica y semiconductores de memoria. En EE.UU., Micron (+6,3%) y Sandisk (+5,8%) cerraron con fuerza el viernes, validando la fortaleza del ciclo de memoria que sostiene el caso de inversión en Corea.
 
@@ -42,7 +42,7 @@ El lunes 6 de mayo será clave para confirmar si el flujo institucional y extran
 
 ## 3. Candidatos a Revalorización de Calidad del Día
 
-El meta screener de hoy identifica candidatos donde **negocio de calidad, flujo de dinero institucional y catalizador de ciclo/resultados convergen al mismo tiempo**. Los nombres con 4 screeners activos simultáneos son los casos editoriales más sólidos.
+El meta screener de hoy identifica candidatos donde <strong>negocio de calidad, flujo de dinero institucional y catalizador de ciclo/resultados convergen al mismo tiempo</strong>. Los nombres con 4 screeners activos simultáneos son los casos editoriales más sólidos.
 
 ### Tabla resumen de candidatos
 
@@ -62,15 +62,15 @@ El meta screener de hoy identifica candidatos donde **negocio de calidad, flujo 
 
 ### Los tres nombres principales: contexto y lógica de tres capas
 
-**SK Hynix (000660.KS) — Meta rank 1, 4 screeners**
+<strong>SK Hynix (000660.KS) — Meta rank 1, 4 screeners</strong>
 
-Es el fabricante de memoria DRAM y NAND más avanzado de Corea, con liderazgo en HBM (High Bandwidth Memory) para aceleradores de IA. La lógica de tres capas es clara: (1) **calidad** — ROE del 44% con margen operativo del 48,6% y crecimiento de beneficios operativos del 101% interanual; (2) **flujo de dinero** — compra neta de extranjeros e institucionales de más de 3.194 MM KRW en los últimos 5 días; (3) **revalorización de ciclo** — la expansión de margen de +13 pp refleja el apalancamiento operativo del ciclo HBM que el mercado está revalorizando activamente. Las señales positivas en Micron y Sandisk el viernes refuerzan este vector. Existe una alerta DART menor (adquisición de bonos propios antes de vencimiento) que no altera el caso central.
+Es el fabricante de memoria DRAM y NAND más avanzado de Corea, con liderazgo en HBM (High Bandwidth Memory) para aceleradores de IA. La lógica de tres capas es clara: (1) <strong>calidad</strong> — ROE del 44% con margen operativo del 48,6% y crecimiento de beneficios operativos del 101% interanual; (2) <strong>flujo de dinero</strong> — compra neta de extranjeros e institucionales de más de 3.194 MM KRW en los últimos 5 días; (3) <strong>revalorización de ciclo</strong> — la expansión de margen de +13 pp refleja el apalancamiento operativo del ciclo HBM que el mercado está revalorizando activamente. Las señales positivas en Micron y Sandisk el viernes refuerzan este vector. Existe una alerta DART menor (adquisición de bonos propios antes de vencimiento) que no altera el caso central.
 
-**Boseong Powertec (006910.KS) — Meta rank 2, 4 screeners**
+<strong>Boseong Powertec (006910.KS) — Meta rank 2, 4 screeners</strong>
 
 Fabricante de estructuras metálicas y componentes para infraestructura de energía eléctrica. Destaca por un crecimiento de beneficio operativo del 458% interanual con expansión de margen de +11,9 pp — uno de los casos de apalancamiento de ciclo más pronunciados del universo. El flujo institucional y extranjero es positivo neto en la última semana, y su RS está en el percentil 96. La acción subió un 30% en la sesión del 4 de mayo, por lo que el primer paso es verificar si el lunes mantiene volumen y el precio digiere sin wick largo. La revalorización responde a la demanda estructural de infraestructura eléctrica en Corea y exportación.
 
-**Pharmicell (005690.KS) — Meta rank 4, 3 screeners**
+<strong>Pharmicell (005690.KS) — Meta rank 4, 3 screeners</strong>
 
 Empresa de componentes electrónicos con perfil de crecimiento excepcional: beneficio operativo +630% interanual y ROE del 38%. El flujo de dinero institucional y extranjero es positivo neto (+121 MM KRW en 5 días), y el programa de compras aparece en múltiples canales (extranjero, institucional, flujo de programa +18,6%). Sin alertas DART en el período reciente. Es el candidato con el ratio calidad/flujo más equilibrado del grupo después de SK Hynix: negocio que mejora rápido con dinero que entra.
 

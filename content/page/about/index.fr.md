@@ -6,7 +6,7 @@ layout: "page"
 
 ## Korea Invest Insights
 
-Un **blog multilingue d'intelligence du marché coréen** animé par un investisseur professionnel basé à Séoul. Nous publions des analyses quotidiennes en **7 langues** pour les investisseurs internationaux qui manquent d'accès à une couverture de qualité du marché coréen.
+Un <strong>blog multilingue d'intelligence du marché coréen</strong> animé par un investisseur professionnel basé à Séoul. Nous publions des analyses quotidiennes en <strong>7 langues</strong> pour les investisseurs internationaux qui manquent d'accès à une couverture de qualité du marché coréen.
 
 ---
 
@@ -14,21 +14,21 @@ Un **blog multilingue d'intelligence du marché coréen** animé par un investis
 
 | Contenu | Fréquence | Description |
 |---------|-----------|-------------|
-| **Intelligence de Marché Quotidienne** | Jours ouvrés | Thèmes, catalyseurs et analyse des risques |
-| **Rapports de Clôture** | Jours ouvrés | Régime de marché, force/faiblesse sectorielle, actualités clés |
-| **Stratégie Hebdomadaire** | Vendredis | Scénarios haussiers/baissiers, opportunités d'investissement |
-| **Analyses Approfondies** | 2x par semaine | 18 entreprises dans 8 secteurs (rotation de 4 semaines) |
+| <strong>Intelligence de Marché Quotidienne</strong> | Jours ouvrés | Thèmes, catalyseurs et analyse des risques |
+| <strong>Rapports de Clôture</strong> | Jours ouvrés | Régime de marché, force/faiblesse sectorielle, actualités clés |
+| <strong>Stratégie Hebdomadaire</strong> | Vendredis | Scénarios haussiers/baissiers, opportunités d'investissement |
+| <strong>Analyses Approfondies</strong> | 2x par semaine | 18 entreprises dans 8 secteurs (rotation de 4 semaines) |
 
 ### Secteurs Couverts
 
-- **Semi-conducteurs / HBM** — SK hynix, Samsung Electronics
-- **K-Beauty** — Pharma Research (Rejuran), APR (Medicube), Cosmax, CJ (Olive Young)
-- **K-Défense** — Hanwha Aerospace, LIG Nex1, Hanwha Ocean
-- **Gaming** — Pearl Abyss (Crimson Desert), Krafton (PUBG)
-- **K-Food** — Samyang Foods (Buldak Ramen)
-- **Auto / VE** — Hyundai Motor, Kia, Hyundai Mobis (Boston Dynamics)
-- **Construction Navale** — Samsung Heavy Industries, Hanwha Ocean
-- **Divertissement** — HYBE (BTS), YG Entertainment (BLACKPINK)
+- <strong>Semi-conducteurs / HBM</strong> — SK hynix, Samsung Electronics
+- <strong>K-Beauty</strong> — Pharma Research (Rejuran), APR (Medicube), Cosmax, CJ (Olive Young)
+- <strong>K-Défense</strong> — Hanwha Aerospace, LIG Nex1, Hanwha Ocean
+- <strong>Gaming</strong> — Pearl Abyss (Crimson Desert), Krafton (PUBG)
+- <strong>K-Food</strong> — Samyang Foods (Buldak Ramen)
+- <strong>Auto / VE</strong> — Hyundai Motor, Kia, Hyundai Mobis (Boston Dynamics)
+- <strong>Construction Navale</strong> — Samsung Heavy Industries, Hanwha Ocean
+- <strong>Divertissement</strong> — HYBE (BTS), YG Entertainment (BLACKPINK)
 
 ### Langues Disponibles
 
@@ -38,16 +38,16 @@ Un **blog multilingue d'intelligence du marché coréen** animé par un investis
 
 ### S'abonner
 
-- 📱 **Telegram** : [@korea_invest_insights](https://t.me/korea_invest_insights) — Alertes nouvelles publications
-- 📡 **RSS** : [S'abonner au flux](/fr/feed.xml)
+- 📱 <strong>Telegram</strong> : [@korea_invest_insights](https://t.me/korea_invest_insights) — Alertes nouvelles publications
+- 📡 <strong>RSS</strong> : [S'abonner au flux](/fr/feed.xml)
 
 ---
 
 ### Pourquoi la Corée ?
 
-La Corée du Sud est la 10ème économie mondiale et un leader global dans les **semi-conducteurs (HBM)**, les **batteries pour VE**, les **exportations de défense** et le **K-Content**. Pourtant, les analyses de qualité dans des langues autres que le coréen et l'anglais restent extrêmement rares.
+La Corée du Sud est la 10ème économie mondiale et un leader global dans les <strong>semi-conducteurs (HBM)</strong>, les <strong>batteries pour VE</strong>, les <strong>exportations de défense</strong> et le <strong>K-Content</strong>. Pourtant, les analyses de qualité dans des langues autres que le coréen et l'anglais restent extrêmement rares.
 
-Ce blog offre des **perspectives d'investisseurs professionnels locaux** sur le marché coréen, publiées simultanément en 7 langues grâce à un pipeline de traduction alimenté par l'IA.
+Ce blog offre des <strong>perspectives d'investisseurs professionnels locaux</strong> sur le marché coréen, publiées simultanément en 7 langues grâce à un pipeline de traduction alimenté par l'IA.
 
 ---
 

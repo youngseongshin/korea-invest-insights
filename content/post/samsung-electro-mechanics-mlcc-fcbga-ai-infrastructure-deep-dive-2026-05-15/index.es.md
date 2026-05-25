@@ -20,12 +20,12 @@ slug: samsung-electro-mechanics-mlcc-fcbga-ai-infrastructure-deep-dive-2026-05-1
 
 ## Conclusiones clave
 
-* **SEMCO no fabrica chips.** Fabrica los **componentes de estabilización de energía (MLCC)** y los **sustratos que conectan los chips de IA a las placas base (FC-BGA)** que el silicio de IA necesita para funcionar dentro de un servidor.
-* **Tres divisiones**: Componentes (MLCC, 46% de ingresos, 67% del beneficio), Soluciones de Encapsulado (FC-BGA, 20% de ingresos, 15% del beneficio), Óptica (módulos de cámara, 34% de ingresos, 18% del beneficio).
-* **Cambio estructural**: antes era un "fabricante de piezas para smartphones". Hoy, la tesis de revalorización es el **MLCC de alta gama para servidores de IA / xEV + FC-BGA para aceleradores de IA en escasez estructural de oferta**.
-* **Resultados 1T26**: ingresos KRW 3,21B (+17% interanual), beneficio operativo KRW 280,6B (+40% interanual). Excluyendo un cargo extraordinario por indemnizaciones de KRW 71,4B, el beneficio operativo subyacente fue de KRW 352,0B.
-* **La división más importante**: Componentes (MLCC) defiende los resultados. Soluciones de Encapsulado (FC-BGA) impulsa el precio de la acción. Óptica es el cubo de opcionalidad.
-* **Al precio actual de KRW 1,02M**: caro en cifras de 2026, justificable solo si el ciclo de sustratos para IA se mantiene hasta 2027–2028. Un enfoque paciente —esperar a los próximos resultados— es más razonable que perseguir el movimiento.
+* <strong>SEMCO no fabrica chips.</strong> Fabrica los <strong>componentes de estabilización de energía (MLCC)</strong> y los <strong>sustratos que conectan los chips de IA a las placas base (FC-BGA)</strong> que el silicio de IA necesita para funcionar dentro de un servidor.
+* <strong>Tres divisiones</strong>: Componentes (MLCC, 46% de ingresos, 67% del beneficio), Soluciones de Encapsulado (FC-BGA, 20% de ingresos, 15% del beneficio), Óptica (módulos de cámara, 34% de ingresos, 18% del beneficio).
+* <strong>Cambio estructural</strong>: antes era un "fabricante de piezas para smartphones". Hoy, la tesis de revalorización es el <strong>MLCC de alta gama para servidores de IA / xEV + FC-BGA para aceleradores de IA en escasez estructural de oferta</strong>.
+* <strong>Resultados 1T26</strong>: ingresos KRW 3,21B (+17% interanual), beneficio operativo KRW 280,6B (+40% interanual). Excluyendo un cargo extraordinario por indemnizaciones de KRW 71,4B, el beneficio operativo subyacente fue de KRW 352,0B.
+* <strong>La división más importante</strong>: Componentes (MLCC) defiende los resultados. Soluciones de Encapsulado (FC-BGA) impulsa el precio de la acción. Óptica es el cubo de opcionalidad.
+* <strong>Al precio actual de KRW 1,02M</strong>: caro en cifras de 2026, justificable solo si el ciclo de sustratos para IA se mantiene hasta 2027–2028. Un enfoque paciente —esperar a los próximos resultados— es más razonable que perseguir el movimiento.
 
 ---
 
@@ -33,7 +33,7 @@ slug: samsung-electro-mechanics-mlcc-fcbga-ai-infrastructure-deep-dive-2026-05-1
 
 ### 1.1 La infraestructura invisible del silicio de IA
 
-En un artículo anterior sobre Samsung Electronics, llamé al HBM "el banco de trabajo del silicio de IA". Pero ni el mejor banco de trabajo (memoria) ni el mejor ordenador (GPU) funcionarán si **el suministro eléctrico es inestable (el sistema se cuelga) o si el chip no está correctamente conectado a la placa base (el flujo de datos se interrumpe).**
+En un artículo anterior sobre Samsung Electronics, llamé al HBM "el banco de trabajo del silicio de IA". Pero ni el mejor banco de trabajo (memoria) ni el mejor ordenador (GPU) funcionarán si <strong>el suministro eléctrico es inestable (el sistema se cuelga) o si el chip no está correctamente conectado a la placa base (el flujo de datos se interrumpe).</strong>
 
 Lo que fabrica SEMCO es exactamente esta clase de "infraestructura invisible".
 
@@ -84,7 +84,7 @@ FC-BGA:
 → De ahora hasta 2027 es la ventana de "escasez de oferta"
 ```
 
-**Resumen en una línea**: SEMCO no fabrica chips de IA; fabrica los **componentes de energía y conectividad sin los que los chips de IA no pueden funcionar** — y esos componentes escasean hoy.
+<strong>Resumen en una línea</strong>: SEMCO no fabrica chips de IA; fabrica los <strong>componentes de energía y conectividad sin los que los chips de IA no pueden funcionar</strong> — y esos componentes escasean hoy.
 
 ---
 
@@ -94,10 +94,10 @@ FC-BGA:
 
 | División | Productos clave | Ingresos 2025 | Peso | Beneficio 2025 | Peso del beneficio | Margen |
 | --- | --- | ---: | ---: | ---: | ---: | ---: |
-| **Componentes** | **MLCC, inductores, resistencias de chip** | **KRW 5,20B** | **46%** | **KRW 609,4B** | **67%** | **11,7%** |
+| <strong>Componentes</strong> | <strong>MLCC, inductores, resistencias de chip</strong> | <strong>KRW 5,20B</strong> | <strong>46%</strong> | <strong>KRW 609,4B</strong> | <strong>67%</strong> | <strong>11,7%</strong> |
 | Soluciones de Encapsulado | Sustratos FC-BGA | KRW 2,30B | 20% | KRW 135,2B | 15% | 5,9% |
 | Óptica | Módulos de cámara | KRW 3,81B | 34% | KRW 168,7B | 18% | 4,4% |
-| **Total** | | **KRW 11,31B** | **100%** | **KRW 913,3B** | **100%** | **8,1%** |
+| <strong>Total</strong> | | <strong>KRW 11,31B</strong> | <strong>100%</strong> | <strong>KRW 913,3B</strong> | <strong>100%</strong> | <strong>8,1%</strong> |
 
 ```
 Reparto de roles dentro de SEMCO:
@@ -112,7 +112,7 @@ Soluciones de Encapsulado    = mueve el precio de la acción (+45% interanual)
 
 ### 3.1 ¿Qué es un MLCC?
 
-MLCC = Condensador Cerámico Multicapa (Multi-Layer Ceramic Capacitor). El nombre es técnico, pero la función es sencilla: **almacena electricidad por un instante y la suministra de forma estable a los chips cercanos**.
+MLCC = Condensador Cerámico Multicapa (Multi-Layer Ceramic Capacitor). El nombre es técnico, pero la función es sencilla: <strong>almacena electricidad por un instante y la suministra de forma estable a los chips cercanos</strong>.
 
 ```
 Analogía: el depósito de agua en una instalación de fontanería
@@ -158,7 +158,7 @@ Los ingresos de Componentes en 1T26 fueron KRW 1,41B (+16% interanual), con una 
 
 La dirección indicó que la demanda de MLCC de alta gama para servidores de IA y centros de datos se mantiene sólida en el 2T. Se espera que tanto los envíos de MLCC como el precio de venta medio (ASP) aumenten trimestre a trimestre.
 
-**El cambio más importante**: determinados productos MLCC están **empezando a ver subidas de precio**. Murata y Taiyo Yuden registraron ratios book-to-bill de 1,36 y 1,31 respectivamente — los más altos en cinco años (desde 2021). Un "BB > 1" significa sencillamente que los pedidos superan los envíos; la brecha es ahora lo suficientemente amplia como para hablar de escasez real.
+<strong>El cambio más importante</strong>: determinados productos MLCC están <strong>empezando a ver subidas de precio</strong>. Murata y Taiyo Yuden registraron ratios book-to-bill de 1,36 y 1,31 respectivamente — los más altos en cinco años (desde 2021). Un "BB > 1" significa sencillamente que los pedidos superan los envíos; la brecha es ahora lo suficientemente amplia como para hablar de escasez real.
 
 ---
 
@@ -166,7 +166,7 @@ La dirección indicó que la demanda de MLCC de alta gama para servidores de IA 
 
 ### 4.1 ¿Qué es un FC-BGA?
 
-FC-BGA = Flip Chip Ball Grid Array — un **sustrato de circuito de alta densidad** que conecta los chips de IA (GPU, CPU) a la placa base.
+FC-BGA = Flip Chip Ball Grid Array — un <strong>sustrato de circuito de alta densidad</strong> que conecta los chips de IA (GPU, CPU) a la placa base.
 
 ```
 Analogía: el punto de apoyo del chip
@@ -240,9 +240,9 @@ de forma interna.
 
 ### 4.4 Lo que aún no está probado
 
-El margen operativo de Soluciones de Encapsulado en 2025 fue de **apenas el 5,9%**. Los ingresos crecieron un +13% interanual, pero el beneficio cayó un -14%. ¿Por qué? Los costes de materias primas (CCL, prepreg) subieron un +19% mientras que los precios de venta medios solo subieron un +4%.
+El margen operativo de Soluciones de Encapsulado en 2025 fue de <strong>apenas el 5,9%</strong>. Los ingresos crecieron un +13% interanual, pero el beneficio cayó un -14%. ¿Por qué? Los costes de materias primas (CCL, prepreg) subieron un +19% mientras que los precios de venta medios solo subieron un +4%.
 
-**La pregunta clave: en 2026, ¿el crecimiento de ingresos vendrá acompañado de recuperación de márgenes?** Si solo crece la parte superior de la cuenta de resultados y los márgenes se estancan, el precio actual es difícil de justificar. Que el margen de Soluciones de Encapsulado en el 2T supere el 12% es la condición más importante para que la revalorización continúe.
+<strong>La pregunta clave: en 2026, ¿el crecimiento de ingresos vendrá acompañado de recuperación de márgenes?</strong> Si solo crece la parte superior de la cuenta de resultados y los márgenes se estancan, el precio actual es difícil de justificar. Que el margen de Soluciones de Encapsulado en el 2T supere el 12% es la condición más importante para que la revalorización continúe.
 
 ---
 
@@ -268,7 +268,7 @@ Cuota de mercado actual: \~9% (frente a \~11% en 2024)
 → Tecnología real, pero no es la tesis de revalorización
 ```
 
-**Visión del inversor**: Óptica aporta estabilidad de ingresos, pero no mueve la acción. MLCC y FC-BGA sí lo hacen. Las cámaras para automoción y robótica son opciones a largo plazo — no algo por lo que pagar al múltiplo actual.
+<strong>Visión del inversor</strong>: Óptica aporta estabilidad de ingresos, pero no mueve la acción. MLCC y FC-BGA sí lo hacen. Las cámaras para automoción y robótica son opciones a largo plazo — no algo por lo que pagar al múltiplo actual.
 
 ---
 
@@ -299,17 +299,17 @@ Med. may: KB Sec         KRW 1.400.000
   aproximadamente tres meses.
 ```
 
-**¿Por qué tan rápido?** El marco de valoración en sí cambió. SEMCO solía cotizar como un "fabricante coreano de componentes electrónicos". Hoy, el sell-side lo compara con **sus pares globales en sustratos para IA y componentes pasivos** — Ibiden (Japón), Unimicron (Taiwán), Murata (Japón). Al aplicar esos múltiplos, los objetivos se disparan.
+<strong>¿Por qué tan rápido?</strong> El marco de valoración en sí cambió. SEMCO solía cotizar como un "fabricante coreano de componentes electrónicos". Hoy, el sell-side lo compara con <strong>sus pares globales en sustratos para IA y componentes pasivos</strong> — Ibiden (Japón), Unimicron (Taiwán), Murata (Japón). Al aplicar esos múltiplos, los objetivos se disparan.
 
 ### 6.3 Valor razonable por escenarios
 
 | Escenario | BPA 2027E | PER aplicado | Valor razonable | vs. precio actual |
 | --- | ---: | ---: | ---: | ---: |
 | Bajista (subida de precios de MLCC contenida, capex de FC-BGA pesa) | KRW 22.000 | 33x | KRW 730.000 | -29% |
-| **Base** (ciclo de IA se mantiene + recuperación de margen en Encapsulado) | **KRW 26.800** | **43x** | **KRW 1.150.000** | **+12%** |
+| <strong>Base</strong> (ciclo de IA se mantiene + recuperación de margen en Encapsulado) | <strong>KRW 26.800</strong> | <strong>43x</strong> | <strong>KRW 1.150.000</strong> | <strong>+12%</strong> |
 | Alcista (subidas de precio en MLCC + FC-BGA juntos + LTA) | KRW 30.000 | 50x | KRW 1.500.000 | +47% |
 
-**Al precio actual de KRW 1,02M, el potencial alcista en el escenario base es del +12%** — con un potencial bajista del -29% si se materializa el escenario pesimista, y del +47% si se produce el optimista. A este precio, esperar a la próxima confirmación de resultados es más razonable que perseguir el rally.
+<strong>Al precio actual de KRW 1,02M, el potencial alcista en el escenario base es del +12%</strong> — con un potencial bajista del -29% si se materializa el escenario pesimista, y del +47% si se produce el optimista. A este precio, esperar a la próxima confirmación de resultados es más razonable que perseguir el rally.
 
 ### 6.4 El marco clave: no "barata", sino "cara sin revisiones continuas al alza de resultados"
 
@@ -338,7 +338,7 @@ Ninguna de ellas = esperar una corrección es la decisión correcta.
 
 | Detonante | Línea alcista | Línea bajista | Cuándo |
 | --- | --- | --- | --- |
-| **B. operativo 2T** | **Por encima de KRW 400B** | Por debajo de KRW 360B | Finales de julio |
+| <strong>B. operativo 2T</strong> | <strong>Por encima de KRW 400B</strong> | Por debajo de KRW 360B | Finales de julio |
 | Subida de precios MLCC | Se extiende a clientes directos de IA | Se queda en repercusión de costes | 2T |
 | Utilización FC-BGA | Plena utilización en 2S | Retrasos en incorporación de nuevos clientes | 3T |
 | Margen Soluciones de Encapsulado | 12%+ en 2T | Por debajo del 10% | Finales de julio |
@@ -358,7 +358,7 @@ Ninguna de ellas = esperar una corrección es la decisión correcta.
 
 | Riesgo | Descripción |
 | --- | --- |
-| **Ya está cara** | PER 2027 \~38x. Si las estimaciones de beneficio se revierten, la acción cae con fuerza |
+| <strong>Ya está cara</strong> | PER 2027 \~38x. Si las estimaciones de beneficio se revierten, la acción cae con fuerza |
 | Peso del capex de FC-BGA | Duplicar el capex duplica la amortización; los ingresos deben seguir o el margen se comprime |
 | Fallo en la repercusión de costes | Si la inflación de CCL, oro y cobre no puede trasladarse al precio, los márgenes sufren |
 | Debilidad en smartphones | Los módulos de cámara y algunas referencias de MLCC siguen expuestos al ciclo del móvil |
@@ -392,7 +392,7 @@ SEMCO es la capa de infraestructura invisible del silicio de IA. El MLCC estabil
 
 Pero a KRW 1,02M, buena parte de esa tesis ya está descontada en el precio. Con las estimaciones de 2027, el PER es de \~38x — "gran empresa" y "precio de entrada atractivo" son preguntas distintas. Para perseguir el movimiento desde aquí, los números tienen que confirmar: beneficio operativo en 2T por encima de KRW 400B, subidas de precio en MLCC extendiéndose y recuperación de márgenes en FC-BGA.
 
-**En una línea: no es una acción barata — es una acción que solo "no está cara" si las revisiones al alza de beneficios siguen llegando.** El ritmo de revisión importa más que el flujo de titulares.
+<strong>En una línea: no es una acción barata — es una acción que solo "no está cara" si las revisiones al alza de beneficios siguen llegando.</strong> El ritmo de revisión importa más que el flujo de titulares.
 
 ---
 

@@ -196,11 +196,11 @@ Do đó, quan điểm về SK Hynix là Nắm giữ / Mua khi điều chỉnh. C
 
 Kênh mà tăng trưởng doanh thu NVIDIA chảy vào Hàn Quốc không kết thúc ở HBM.
 
-**Thiết bị HBM / Kiểm tra / Socket.** Khi ngành chuyển đổi từ HBM3E sang HBM4 và HBM4E, sự phức tạp của TSV, liên kết, đóng gói và thử nghiệm tiếp tục tăng. Hanmi Semiconductor, PSK Holdings, Intekplus, ISC và Leeno Industrial vẫn trong danh mục hưởng lợi. Tuy nhiên, các cái tên như Hanmi Semiconductor đã tăng mạnh tốt hơn nên tiếp cận sau khi xác nhận khoảng trống đơn hàng, điều chỉnh, hoặc bằng chứng đa dạng hóa khách hàng thay vì mua mới.
+<strong>Thiết bị HBM / Kiểm tra / Socket.</strong> Khi ngành chuyển đổi từ HBM3E sang HBM4 và HBM4E, sự phức tạp của TSV, liên kết, đóng gói và thử nghiệm tiếp tục tăng. Hanmi Semiconductor, PSK Holdings, Intekplus, ISC và Leeno Industrial vẫn trong danh mục hưởng lợi. Tuy nhiên, các cái tên như Hanmi Semiconductor đã tăng mạnh tốt hơn nên tiếp cận sau khi xác nhận khoảng trống đơn hàng, điều chỉnh, hoặc bằng chứng đa dạng hóa khách hàng thay vì mua mới.
 
-**PCB / Đế mạch.** Máy chủ AI đòi hỏi tính toàn vẹn tín hiệu tốc độ cao và ổn định nguồn điện. Samsung Electro-Mechanics, Daeduck Electronics, Korea Circuit, Simtech và TLB là ứng viên trong không gian PCB/đế mạch máy chủ AI. Tuy nhiên, phân khúc này mang rủi ro cao về thái quá theo chủ đề. Các thuật ngữ như SOCAMM, module máy chủ LPDDR, khách hàng Bắc Mỹ, hoặc thiết kế tham chiếu NVIDIA, gắn với tên cổ phiếu mà không có đơn hàng được xác minh, dữ liệu ASP và biên lợi nhuận, vẫn nằm trong lãnh thổ chủ đề.
+<strong>PCB / Đế mạch.</strong> Máy chủ AI đòi hỏi tính toàn vẹn tín hiệu tốc độ cao và ổn định nguồn điện. Samsung Electro-Mechanics, Daeduck Electronics, Korea Circuit, Simtech và TLB là ứng viên trong không gian PCB/đế mạch máy chủ AI. Tuy nhiên, phân khúc này mang rủi ro cao về thái quá theo chủ đề. Các thuật ngữ như SOCAMM, module máy chủ LPDDR, khách hàng Bắc Mỹ, hoặc thiết kế tham chiếu NVIDIA, gắn với tên cổ phiếu mà không có đơn hàng được xác minh, dữ liệu ASP và biên lợi nhuận, vẫn nằm trong lãnh thổ chủ đề.
 
-**Hạ tầng điện.** Điểm tắc nghẽn trung tâm dữ liệu cuối cùng hội tụ về điện. HD Hyundai Electric, Hyosung Heavy Industries, LS ELECTRIC, LS Cable & System/LS và Gaon Cable có thể phục vụ như exposure hạ tầng AI thay thế khi beta bán dẫn trở nên quá nóng. Tuy vậy, nhiều cái tên thiết bị điện cũng đã tăng mạnh, làm cho định giá và tính bền vững biên lợi nhuận trở nên quan trọng.
+<strong>Hạ tầng điện.</strong> Điểm tắc nghẽn trung tâm dữ liệu cuối cùng hội tụ về điện. HD Hyundai Electric, Hyosung Heavy Industries, LS ELECTRIC, LS Cable & System/LS và Gaon Cable có thể phục vụ như exposure hạ tầng AI thay thế khi beta bán dẫn trở nên quá nóng. Tuy vậy, nhiều cái tên thiết bị điện cũng đã tăng mạnh, làm cho định giá và tính bền vững biên lợi nhuận trở nên quan trọng.
 
 ## 9. Quan Điểm Đầu Tư NVIDIA
 
@@ -273,11 +273,11 @@ NVIDIA Q1 FY27 bác bỏ câu chuyện AI CAPEX đạt đỉnh. Doanh thu $81,6 
 
 Nhưng cũng có thể hiểu tại sao cổ phiếu không tăng vọt ngay lập tức. Thị trường đã kỳ vọng những con số mạnh. Điều cần thiết bây giờ là xác nhận tính bền vững của ACIE, thực thi lộ trình Vera Rubin, duy trì tăng trưởng ngoài Trung Quốc, và bảo vệ trước sự xâm lấn của ASIC tùy chỉnh. NVIDIA vẫn là MUA, nhưng rủi ro không phải là thu nhập — mà là kỳ vọng.
 
-Hàm ý với Hàn Quốc quan trọng hơn. **HBM chưa kết thúc. Nhưng alpha đang lan rộng ra ngoài HBM.** SK Hynix là người chiến thắng trực tiếp nhất nhưng đã đông đúc. Samsung Electronics là tùy chọn theo đuổi HBM4. Samsung Electro-Mechanics, sau hợp đồng tụ silicon lớn, đã có khả năng được phân loại lại thành nhà cung cấp linh kiện ổn định nguồn điện gói AI.
+Hàm ý với Hàn Quốc quan trọng hơn. <strong>HBM chưa kết thúc. Nhưng alpha đang lan rộng ra ngoài HBM.</strong> SK Hynix là người chiến thắng trực tiếp nhất nhưng đã đông đúc. Samsung Electronics là tùy chọn theo đuổi HBM4. Samsung Electro-Mechanics, sau hợp đồng tụ silicon lớn, đã có khả năng được phân loại lại thành nhà cung cấp linh kiện ổn định nguồn điện gói AI.
 
 Câu hỏi thực sự không phải là "NVIDIA có tốt không?" Đã rõ rồi. Câu hỏi là "tăng trưởng doanh thu của NVIDIA chuyển hóa thành thu nhập mới tại nút Hàn Quốc nào?" Ngay bây giờ câu trả lời là Samsung Electro-Mechanics, Samsung Electronics HBM4, thiết bị HBM, đế mạch máy chủ AI, và hạ tầng điện.
 
-**Công ty tuyệt vời và cổ phiếu tuyệt vời là hai điều khác nhau. NVIDIA vẫn là công ty tuyệt vời. Tại Hàn Quốc, các cổ phiếu tuyệt vời nhiều khả năng đến không phải từ những cái tên dẫn đầu đã tăng mạnh, mà từ các nút tắc nghẽn nơi tăng trưởng doanh thu GPU chưa được định giá đầy đủ.**
+<strong>Công ty tuyệt vời và cổ phiếu tuyệt vời là hai điều khác nhau. NVIDIA vẫn là công ty tuyệt vời. Tại Hàn Quốc, các cổ phiếu tuyệt vời nhiều khả năng đến không phải từ những cái tên dẫn đầu đã tăng mạnh, mà từ các nút tắc nghẽn nơi tăng trưởng doanh thu GPU chưa được định giá đầy đủ.</strong>
 
 ---
 

@@ -20,19 +20,19 @@ valley_cashtags:
 draft: false
 ---
 
-> **Pearl Abyss × Série Crimson Desert**
+> <strong>Pearl Abyss × Série Crimson Desert</strong>
 > [Comparables Neowiz et CD Projekt](/post/pearl-abyss-neowiz-cd-projekt-rerating-comps-2026-05-23/) / [Smart money KOSDAQ et Pearl Abyss](/post/kosdaq-smart-money-return-pearl-abyss-rebound-2026-05-22/) / [Test de point bas des flux](/post/pearl-abyss-flow-bottom-test-2026-05-18/) / [Données week-end Patch 1.07](/post/pearl-abyss-crimson-desert-patch-107-weekend-data-2026-05-17/) / [Hub Pearl Abyss](/page/pearl-abyss-crimson-desert-hub/)
 
 *Le débat n'est plus "Crimson Desert a-t-il vendu ?", mais "combien de temps la queue de ventes peut-elle durer ?". Les données du 25 mai vont dans le même sens : le jeu défend son long tail, les shorts se détendent et les investisseurs étrangers absorbent l'offre.*
 
 ## Points Clés
 
-- **Crimson Desert ne s'effondre pas.** Au 25 mai 20:20 KST, le classement Steam est global **#18**, Corée **#5**, États-Unis **#13**, Chine **#17**.
-- **Le CCU baisse normalement, mais les proxys d'achat s'améliorent.** Le CCU moyen du week-end prolongé recule de **12,8%**, mais les nouveaux avis progressent de **5,2%**, les avis/jour de **4,7%** et le taux positif des nouveaux avis atteint **89,0%**.
-- **Le Patch 1.08 améliore le signal qualité.** Depuis le 22 mai 17:20 KST, il y a eu **1 318** nouveaux avis avec **90,0%** de positifs.
-- **La pression short recule.** Le solde short est passé d'environ **131,2 Md KRW** début avril à **62,1 Md KRW** au 20 mai. Le ratio de valeur short est passé de **32,1%** le 13 mai à **2,7%** le 22 mai.
-- **Les étrangers absorbent.** Du 1er avril au 22 mai, les étrangers ont acheté **56,6 Md KRW** net, les particuliers **19,2 Md KRW**, tandis que les institutions ont vendu **76,1 Md KRW**.
-- **Lecture: le Hold est renforcé.** Pour acheter davantage, il faut encore 6M officiel, roadmap DLC/extension, visibilité DokeV ou message de retour de capital.
+- <strong>Crimson Desert ne s'effondre pas.</strong> Au 25 mai 20:20 KST, le classement Steam est global <strong>#18</strong>, Corée <strong>#5</strong>, États-Unis <strong>#13</strong>, Chine <strong>#17</strong>.
+- <strong>Le CCU baisse normalement, mais les proxys d'achat s'améliorent.</strong> Le CCU moyen du week-end prolongé recule de <strong>12,8%</strong>, mais les nouveaux avis progressent de <strong>5,2%</strong>, les avis/jour de <strong>4,7%</strong> et le taux positif des nouveaux avis atteint <strong>89,0%</strong>.
+- <strong>Le Patch 1.08 améliore le signal qualité.</strong> Depuis le 22 mai 17:20 KST, il y a eu <strong>1 318</strong> nouveaux avis avec <strong>90,0%</strong> de positifs.
+- <strong>La pression short recule.</strong> Le solde short est passé d'environ <strong>131,2 Md KRW</strong> début avril à <strong>62,1 Md KRW</strong> au 20 mai. Le ratio de valeur short est passé de <strong>32,1%</strong> le 13 mai à <strong>2,7%</strong> le 22 mai.
+- <strong>Les étrangers absorbent.</strong> Du 1er avril au 22 mai, les étrangers ont acheté <strong>56,6 Md KRW</strong> net, les particuliers <strong>19,2 Md KRW</strong>, tandis que les institutions ont vendu <strong>76,1 Md KRW</strong>.
+- <strong>Lecture: le Hold est renforcé.</strong> Pour acheter davantage, il faut encore 6M officiel, roadmap DLC/extension, visibilité DokeV ou message de retour de capital.
 
 ## 1. Instantané
 
@@ -49,7 +49,7 @@ draft: false
 | États-Unis | #13 |
 | Chine | #17 |
 
-L'estimation pratique des ventes est proche de **5,93M** d'unités. Le franchissement réel des 6M fin mai ou début juin est plausible, même si l'annonce officielle peut être décalée.
+L'estimation pratique des ventes est proche de <strong>5,93M</strong> d'unités. Le franchissement réel des 6M fin mai ou début juin est plausible, même si l'annonce officielle peut être décalée.
 
 ## 2. Classements: Le Long Tail Tient
 
@@ -68,7 +68,7 @@ Le signal américain est le plus important. Dans un marché premium AAA exigeant
 
 ![Avis quotidiens et taux positif de Crimson Desert](crimson-desert-daily-reviews-positive-rate-2026-05-25.png)
 
-Les avis quotidiens ont quitté le pic de lancement, mais restent dans une zone **250-500 par jour** depuis un mois. Depuis le Patch 1.08:
+Les avis quotidiens ont quitté le pic de lancement, mais restent dans une zone <strong>250-500 par jour</strong> depuis un mois. Depuis le Patch 1.08:
 
 | Indicateur | Depuis Patch 1.08 |
 |---|---:|
@@ -103,7 +103,7 @@ Les données de solde KRX sont retardées; le dernier solde fiable est donc le 2
 | Particuliers | +19,2 Md KRW |
 | Institutions | -76,1 Md KRW |
 
-Sur les cinq dernières séances, les étrangers ont acheté **15,1 Md KRW** tandis que les particuliers vendaient **14,9 Md KRW**. Le schéma est une absorption étrangère avec digestion de la vente institutionnelle.
+Sur les cinq dernières séances, les étrangers ont acheté <strong>15,1 Md KRW</strong> tandis que les particuliers vendaient <strong>14,9 Md KRW</strong>. Le schéma est une absorption étrangère avec digestion de la vente institutionnelle.
 
 ## 5. Lecture d'Investissement
 
@@ -114,7 +114,7 @@ Sur les cinq dernières séances, les étrangers ont acheté **15,1 Md KRW** tan
 | Shorts | Solde en baisse, ratio effondré | Pression vendeuse moindre |
 | Flux | Achats étrangers, ventes institutionnelles | Repricing retardé, thèse intacte |
 
-**Position: Hold / ajouter seulement après catalyseurs.**
+<strong>Position: Hold / ajouter seulement après catalyseurs.</strong>
 
 | Catalyseur | Signification |
 |---|---|

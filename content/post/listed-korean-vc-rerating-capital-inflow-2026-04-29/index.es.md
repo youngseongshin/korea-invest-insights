@@ -9,11 +9,11 @@ tags: ["korea-vc", "listed-vc", "atinum-investment", "company-k-partners", "dsc-
 
 ## Resumen Ejecutivo
 
-- **El capital que fluye hacia Corea en 2026 está llegando por fin al segmento de VC / PE cotizados**, pero el re-rating se está dividiendo claramente en **tres regímenes de valoración** — no se trata de una operación sectorial uniforme.
-- **Régimen 1 — Valor por ganancias y dividendos (Atinum Investment)** — los fundamentos (ROE, dividendo, AUM, PBR bajo) están presentes, pero la acción sigue con descuento porque la firma carece de *un único activo no cotizado con nombre* que el inversor minorista pueda seguir.
-- **Régimen 2 — Opciones de compra sobre megaportafolios no cotizados (Mirae Asset Venture, DSC Investment, Company K Partners, Aju IB)** — el mercado paga PBRs premium por la exposición a activos conocidos como SpaceX, Rebellions, FuriosaAI y Upstage. La dispersión dentro de este régimen gira en torno a **qué opción de compra tiene el mayor catalizador incremental relativo a su capitalización bursátil**, no a la calidad del portafolio subyacente.
-- **Régimen 3 — Reestructuración estructural con PBR bajo (Q Capital)** — el plan de revalorización es real, pero el descuento también lo es, debido a un lastre específico a nivel de fondo (el PEF Q-CP No. 15 de 2021) que debe resolverse antes de que el múltiplo pueda normalizarse.
-- **La conclusión más importante del re-rating** es que el mercado *no* está valorando la calidad del gestor. Está valorando **si un VC cotizado determinado posee un activo no cotizado con nombre lo suficientemente grande en relación con su capitalización bursátil como para generar un evento asimétrico**. Esa única conclusión reordena por completo el ranking sectorial.
+- <strong>El capital que fluye hacia Corea en 2026 está llegando por fin al segmento de VC / PE cotizados</strong>, pero el re-rating se está dividiendo claramente en <strong>tres regímenes de valoración</strong> — no se trata de una operación sectorial uniforme.
+- <strong>Régimen 1 — Valor por ganancias y dividendos (Atinum Investment)</strong> — los fundamentos (ROE, dividendo, AUM, PBR bajo) están presentes, pero la acción sigue con descuento porque la firma carece de *un único activo no cotizado con nombre* que el inversor minorista pueda seguir.
+- <strong>Régimen 2 — Opciones de compra sobre megaportafolios no cotizados (Mirae Asset Venture, DSC Investment, Company K Partners, Aju IB)</strong> — el mercado paga PBRs premium por la exposición a activos conocidos como SpaceX, Rebellions, FuriosaAI y Upstage. La dispersión dentro de este régimen gira en torno a <strong>qué opción de compra tiene el mayor catalizador incremental relativo a su capitalización bursátil</strong>, no a la calidad del portafolio subyacente.
+- <strong>Régimen 3 — Reestructuración estructural con PBR bajo (Q Capital)</strong> — el plan de revalorización es real, pero el descuento también lo es, debido a un lastre específico a nivel de fondo (el PEF Q-CP No. 15 de 2021) que debe resolverse antes de que el múltiplo pueda normalizarse.
+- <strong>La conclusión más importante del re-rating</strong> es que el mercado *no* está valorando la calidad del gestor. Está valorando <strong>si un VC cotizado determinado posee un activo no cotizado con nombre lo suficientemente grande en relación con su capitalización bursátil como para generar un evento asimétrico</strong>. Esa única conclusión reordena por completo el ranking sectorial.
 
 ---
 
@@ -21,11 +21,11 @@ tags: ["korea-vc", "listed-vc", "atinum-investment", "company-k-partners", "dsc-
 
 La configuración de 2026 es inusual para el sector financiero coreano. Tres flujos se están acumulando simultáneamente:
 
-1. **Outperformance del KOSPI.** El KOSPI acumulado hasta abril supera a todos los grandes mercados desarrollados, con el relato macro desplazándose de "trampa de valor" a "beneficiario del Value-Up."
-2. **Rotación fuera de EE.UU.** Los asignadores transfronterizos que reducen su sobreponderación en activos estadounidenses están aumentando su exposición a Corea y Asia, y el segmento de plataformas financieras cotizadas — incluidos los VCs cotizados — es uno de los receptores naturales.
-3. **Pipeline de IPO en IA y deeptech.** Corea ha generado un banco de empresas pre-IPO relevante (Upstage, FuriosaAI, Rebellions, más exposición indirecta a SpaceX a través de inversores locales), y el camino hacia el descubrimiento de precios en mercados públicos se está acelerando.
+1. <strong>Outperformance del KOSPI.</strong> El KOSPI acumulado hasta abril supera a todos los grandes mercados desarrollados, con el relato macro desplazándose de "trampa de valor" a "beneficiario del Value-Up."
+2. <strong>Rotación fuera de EE.UU.</strong> Los asignadores transfronterizos que reducen su sobreponderación en activos estadounidenses están aumentando su exposición a Corea y Asia, y el segmento de plataformas financieras cotizadas — incluidos los VCs cotizados — es uno de los receptores naturales.
+3. <strong>Pipeline de IPO en IA y deeptech.</strong> Corea ha generado un banco de empresas pre-IPO relevante (Upstage, FuriosaAI, Rebellions, más exposición indirecta a SpaceX a través de inversores locales), y el camino hacia el descubrimiento de precios en mercados públicos se está acelerando.
 
-Para las acciones de VC cotizados, estos tres flujos no generan una revalorización uniforme. Generan un **proceso en dos etapas**: (a) re-rating de *los nombres con una historia clara de activos no cotizados* primero, y luego (b) re-rating de *los nombres sin esa historia pero con fundamentos sólidos* en segundo lugar. El paso (a) es lo que el mercado ha estado descontando hasta abril. El paso (b) es la brecha que crea la oportunidad más interesante.
+Para las acciones de VC cotizados, estos tres flujos no generan una revalorización uniforme. Generan un <strong>proceso en dos etapas</strong>: (a) re-rating de *los nombres con una historia clara de activos no cotizados* primero, y luego (b) re-rating de *los nombres sin esa historia pero con fundamentos sólidos* en segundo lugar. El paso (a) es lo que el mercado ha estado descontando hasta abril. El paso (b) es la brecha que crea la oportunidad más interesante.
 
 ---
 
@@ -33,11 +33,11 @@ Para las acciones de VC cotizados, estos tres flujos no generan una revalorizaci
 
 | Régimen | Nombres cotizados representativos | Qué está descontando el mercado | Mecánica del re-rating |
 |---|---|---|---|
-| **Valor por ganancias y dividendos** | Atinum Investment | ROE, rentabilidad por dividendo, AUM, PBR bajo | Normalización PBR 0,7× → 1,0–1,2× en base a **tiempo + cierre de fondo LP + recompra** |
-| **Opciones de compra sobre megaportafolios no cotizados** | Mirae Asset Venture, DSC Investment, Company K Partners, Aju IB | Portafolio pre-IPO de nombres conocidos (SpaceX / Rebellions / FuriosaAI / Upstage) | PBR premium sostenido por **flujo de eventos**; binario según catalizadores individuales del portafolio |
-| **Reestructuración estructural con PBR bajo** | Q Capital | Recuperación de AUM + plan de retorno al accionista + compras de directivos, compensado por el lastre a nivel de fondo | PBR 0,3× → 0,5–0,7× **condicionado a la resolución del fondo heredado** |
+| <strong>Valor por ganancias y dividendos</strong> | Atinum Investment | ROE, rentabilidad por dividendo, AUM, PBR bajo | Normalización PBR 0,7× → 1,0–1,2× en base a <strong>tiempo + cierre de fondo LP + recompra</strong> |
+| <strong>Opciones de compra sobre megaportafolios no cotizados</strong> | Mirae Asset Venture, DSC Investment, Company K Partners, Aju IB | Portafolio pre-IPO de nombres conocidos (SpaceX / Rebellions / FuriosaAI / Upstage) | PBR premium sostenido por <strong>flujo de eventos</strong>; binario según catalizadores individuales del portafolio |
+| <strong>Reestructuración estructural con PBR bajo</strong> | Q Capital | Recuperación de AUM + plan de retorno al accionista + compras de directivos, compensado por el lastre a nivel de fondo | PBR 0,3× → 0,5–0,7× <strong>condicionado a la resolución del fondo heredado</strong> |
 
-**La conclusión a nivel de categoría:** la dispersión entre regímenes no es "buen gestor vs. mal gestor." Es "¿tiene la acción un único activo que el mercado minorista pueda identificar y seguir?". Bloter ha enmarcado explícitamente el descuento de Atinum como provocado por la *ausencia de narrativa temática* más que por debilidades fundamentales — los inversores prefieren vehículos ligados a compañías no cotizadas de renombre. Esa lectura es la forma más clara de interpretar todo el segmento de VC / PE cotizado hoy.
+<strong>La conclusión a nivel de categoría:</strong> la dispersión entre regímenes no es "buen gestor vs. mal gestor." Es "¿tiene la acción un único activo que el mercado minorista pueda identificar y seguir?". Bloter ha enmarcado explícitamente el descuento de Atinum como provocado por la *ausencia de narrativa temática* más que por debilidades fundamentales — los inversores prefieren vehículos ligados a compañías no cotizadas de renombre. Esa lectura es la forma más clara de interpretar todo el segmento de VC / PE cotizado hoy.
 
 ---
 
@@ -57,17 +57,17 @@ Atinum es la acción de apariencia más *convencional* dentro del universo de VC
 
 | Factor | Lectura |
 |---|---|
-| **P (precio)** | El mercado no está pagando ninguna prima temática de VC. PER y PBR ambos en niveles de acción de valor. |
-| **Q (volumen)** | El fondo existente de ₩860B + el pipeline del megafondo de ₩1T eleva el AUM y la base de comisiones de gestión. |
-| **C (coste)** | La base de costes es de naturaleza fija; el margen incremental en eventos de salida es alto. |
+| <strong>P (precio)</strong> | El mercado no está pagando ninguna prima temática de VC. PER y PBR ambos en niveles de acción de valor. |
+| <strong>Q (volumen)</strong> | El fondo existente de ₩860B + el pipeline del megafondo de ₩1T eleva el AUM y la base de comisiones de gestión. |
+| <strong>C (coste)</strong> | La base de costes es de naturaleza fija; el margen incremental en eventos de salida es alto. |
 
 ### Régimen de re-rating
 
-La trayectoria realista de re-rating es **PBR 0,7–0,8× → 1,0–1,2×**, *no* el PBR de 3–8× al que cotiza el régimen de opciones de compra. Anclar Atinum a esos puntos de referencia sobreestima el potencial alcista; anclarlo a su propio PBR normalizado histórico lo subestima. El encuadre correcto es: "¿cuánto gana una acción de VC de calidad cuando el momentum de los LP se confirma y el historial de dividendos continúa?"
+La trayectoria realista de re-rating es <strong>PBR 0,7–0,8× → 1,0–1,2×</strong>, *no* el PBR de 3–8× al que cotiza el régimen de opciones de compra. Anclar Atinum a esos puntos de referencia sobreestima el potencial alcista; anclarlo a su propio PBR normalizado histórico lo subestima. El encuadre correcto es: "¿cuánto gana una acción de VC de calidad cuando el momentum de los LP se confirma y el historial de dividendos continúa?"
 
 ### Lo que el mercado puede malinterpretar
 
-Atinum es el slot donde los inversores que esperan reacciones impulsadas por titulares se llevarán una decepción. La revalorización aquí viene del **tiempo + cierre de fondo + recompra + dividendo**, no de un único titular de noticias. Precisamente por eso está mal valorada para el capital paciente.
+Atinum es el slot donde los inversores que esperan reacciones impulsadas por titulares se llevarán una decepción. La revalorización aquí viene del <strong>tiempo + cierre de fondo + recompra + dividendo</strong>, no de un único titular de noticias. Precisamente por eso está mal valorada para el capital paciente.
 
 ---
 
@@ -75,27 +75,27 @@ Atinum es el slot donde los inversores que esperan reacciones impulsadas por tit
 
 ### Óptica de re-rating
 
-Dentro del grupo de PBR premium, Company K Partners es el nombre donde el **evento de un único activo conocido es mayor en relación con la capitalización bursátil actual**. El activo es **Upstage**.
+Dentro del grupo de PBR premium, Company K Partners es el nombre donde el <strong>evento de un único activo conocido es mayor en relación con la capitalización bursátil actual</strong>. El activo es <strong>Upstage</strong>.
 
 | Pilar | Estado |
 |---|---|
-| Exposición a Upstage | ₩10B en Series A de 2021 + ₩5B en Series B de 2024 = **₩15B total** invertido |
-| Recuperación implícita a valoración de ₩5T de Upstage | **>₩200B** (estimación del sector) |
+| Exposición a Upstage | ₩10B en Series A de 2021 + ₩5B en Series B de 2024 = <strong>₩15B total</strong> invertido |
+| Recuperación implícita a valoración de ₩5T de Upstage | <strong>>₩200B</strong> (estimación del sector) |
 | Cotización de referencia 29 de abril | \~₩9.450 / capitalización bursátil \~₩150B |
 | Múltiplos (últimos) | PER \~20,7×, PBR \~1,83×, ROE \~8,83% |
 | Reacción el mismo día (8 de abril) | +10,04% ante noticias sobre la valoración de la IPO de Upstage (rango ₩3,5–5T) |
 
 ### Por qué la asimetría es real
 
-La capitalización bursátil cotizada de Company K es **menor que la recuperación implícita de la IPO de un único activo de su portafolio a la valoración de la banda alta**. Ese ratio — ganancia implícita de un único activo vs. capitalización bursátil total — es la forma más clara de medir qué VC cotizado tiene mayor apalancamiento ante un catalizador determinado. Por esa métrica, Company K encabeza el grupo premium.
+La capitalización bursátil cotizada de Company K es <strong>menor que la recuperación implícita de la IPO de un único activo de su portafolio a la valoración de la banda alta</strong>. Ese ratio — ganancia implícita de un único activo vs. capitalización bursátil total — es la forma más clara de medir qué VC cotizado tiene mayor apalancamiento ante un catalizador determinado. Por esa métrica, Company K encabeza el grupo premium.
 
 ### P × Q × C
 
 | Factor | Lectura |
 |---|---|
-| **P** | PBR \~1,8× — **menor que Mirae Asset Venture, DSC o Aju IB** dentro del grupo premium |
-| **Q** | La exposición a Upstage es concreta: ₩15B al coste; la recuperación escala con la valoración |
-| **C** | La recuperación **no** fluye 1:1 al P&L de la entidad cotizada — hay que descomponer la estructura del fondo, el % de commit del GP y el waterfall de comisiones de éxito |
+| <strong>P</strong> | PBR \~1,8× — <strong>menor que Mirae Asset Venture, DSC o Aju IB</strong> dentro del grupo premium |
+| <strong>Q</strong> | La exposición a Upstage es concreta: ₩15B al coste; la recuperación escala con la valoración |
+| <strong>C</strong> | La recuperación <strong>no</strong> fluye 1:1 al P&L de la entidad cotizada — hay que descomponer la estructura del fondo, el % de commit del GP y el waterfall de comisiones de éxito |
 
 ### Lo que el mercado puede malinterpretar
 
@@ -107,7 +107,7 @@ La simetría del riesgo opera en ambas direcciones: si el pre-IPO de Upstage cie
 
 ### Óptica de re-rating
 
-El catalizador principal de DSC es **FuriosaAI**. DSC ha invertido en FuriosaAI a lo largo de **seis rondas (Seed → Series C) por un total de ₩24B**.
+El catalizador principal de DSC es <strong>FuriosaAI</strong>. DSC ha invertido en FuriosaAI a lo largo de <strong>seis rondas (Seed → Series C) por un total de ₩24B</strong>.
 
 | Pilar | Estado |
 |---|---|
@@ -117,15 +117,15 @@ El catalizador principal de DSC es **FuriosaAI**. DSC ha invertido en FuriosaAI 
 
 ### Régimen de re-rating
 
-DSC se sitúa dentro del grupo premium. El catalizador es concreto; el precio ya lo refleja. Para que el múltiplo **se expanda más** en lugar de simplemente mantenerse, el cierre de FuriosaAI debe producirse **por encima de \~₩3T**, con participación de inversores extranjeros estratégicos y un calendario de IPO más definido. Sin esos elementos, el "cumplimiento de expectativas" tiende a ser vendido en lugar de perseguido en los small-caps coreanos.
+DSC se sitúa dentro del grupo premium. El catalizador es concreto; el precio ya lo refleja. Para que el múltiplo <strong>se expanda más</strong> en lugar de simplemente mantenerse, el cierre de FuriosaAI debe producirse <strong>por encima de \~₩3T</strong>, con participación de inversores extranjeros estratégicos y un calendario de IPO más definido. Sin esos elementos, el "cumplimiento de expectativas" tiende a ser vendido en lugar de perseguido en los small-caps coreanos.
 
 ### P × Q × C
 
 | Factor | Lectura |
 |---|---|
-| **P** | Ya en zona premium — PBR \~3,85× |
-| **Q** | La posición en FuriosaAI es concreta y significativa |
-| **C** | La contabilidad mark-to-market de la posición es la palanca; las salidas realizadas siguen siendo futuras |
+| <strong>P</strong> | Ya en zona premium — PBR \~3,85× |
+| <strong>Q</strong> | La posición en FuriosaAI es concreta y significativa |
+| <strong>C</strong> | La contabilidad mark-to-market de la posición es la palanca; las salidas realizadas siguen siendo futuras |
 
 ---
 
@@ -133,7 +133,7 @@ DSC se sitúa dentro del grupo premium. El catalizador es concreto; el precio ya
 
 ### Óptica de re-rating
 
-Mirae Asset Venture tiene el portafolio con mayor **densidad de titulares** dentro del universo de VC cotizados — exposición a SpaceX, Rebellions en cuatro rondas, más deeptech de IA. El precio lo refleja todo.
+Mirae Asset Venture tiene el portafolio con mayor <strong>densidad de titulares</strong> dentro del universo de VC cotizados — exposición a SpaceX, Rebellions en cuatro rondas, más deeptech de IA. El precio lo refleja todo.
 
 | Pilar | Estado |
 |---|---|
@@ -144,11 +144,11 @@ Mirae Asset Venture tiene el portafolio con mayor **densidad de titulares** dent
 
 ### Régimen de re-rating
 
-Este es el régimen en el que la acción ya no es un valor o incluso un equity GARP — es un **vehículo de noticias continuas**. El múltiplo se sostiene únicamente mientras continúe el flujo de catalizadores. Que la propia empresa señale esta dinámica es inusual e informativo.
+Este es el régimen en el que la acción ya no es un valor o incluso un equity GARP — es un <strong>vehículo de noticias continuas</strong>. El múltiplo se sostiene únicamente mientras continúe el flujo de catalizadores. Que la propia empresa señale esta dinámica es inusual e informativo.
 
 ### Lo que el mercado puede malinterpretar
 
-El malentendido más importante sobre Mirae Asset Venture es el **supuesto de traslado directo**. Los inversores suelen modelar "SpaceX sube un 30% → Mirae Asset Venture sube proporcionalmente," pero la propia divulgación de la empresa rechaza explícitamente esa mecánica. La estructuración a nivel de fondo, el waterfall LP/GP y la contabilidad de consolidación amortiguan la atribución a la entidad cotizada.
+El malentendido más importante sobre Mirae Asset Venture es el <strong>supuesto de traslado directo</strong>. Los inversores suelen modelar "SpaceX sube un 30% → Mirae Asset Venture sube proporcionalmente," pero la propia divulgación de la empresa rechaza explícitamente esa mecánica. La estructuración a nivel de fondo, el waterfall LP/GP y la contabilidad de consolidación amortiguan la atribución a la entidad cotizada.
 
 ---
 
@@ -156,7 +156,7 @@ El malentendido más importante sobre Mirae Asset Venture es el **supuesto de tr
 
 ### Óptica de re-rating
 
-Aju IB es genuinamente un VC de alta calidad — sólida red de salidas en biotech y healthcare estadounidense, portafolio amplio y relaciones institucionales duraderas. El desajuste radica en que el mercado actual recompensa **una narrativa única y dominante de activos no cotizados**, y un portafolio diversificado difumina esa señal.
+Aju IB es genuinamente un VC de alta calidad — sólida red de salidas en biotech y healthcare estadounidense, portafolio amplio y relaciones institucionales duraderas. El desajuste radica en que el mercado actual recompensa <strong>una narrativa única y dominante de activos no cotizados</strong>, y un portafolio diversificado difumina esa señal.
 
 ### Régimen de re-rating
 
@@ -182,20 +182,20 @@ Q Capital es el único nombre con orientación hacia PE en este conjunto. Tanto 
 
 ### Por qué el descuento es estructural y no solo de valor
 
-El PBR \~0,37× no es una ineficiencia de valoración limpia. Refleja un lastre específico y real: **el PEF Q-CP No. 15 de 2021**. El informe anual de Q Capital divulga un **compromiso de cobertura de pérdidas de ₩40,8B** como GP de ese fondo. El compromiso de capital del fondo es de \~₩406,7B y se desplegó en SK Ecoplant, Yanadoo, AirsMedical y una adquisición de control de Chorokbaem Media (₩140B del fondo + \~₩45B de financiación de adquisición). La operación de Chorokbaem consumió efectivamente la capacidad restante del fondo.
+El PBR \~0,37× no es una ineficiencia de valoración limpia. Refleja un lastre específico y real: <strong>el PEF Q-CP No. 15 de 2021</strong>. El informe anual de Q Capital divulga un <strong>compromiso de cobertura de pérdidas de ₩40,8B</strong> como GP de ese fondo. El compromiso de capital del fondo es de \~₩406,7B y se desplegó en SK Ecoplant, Yanadoo, AirsMedical y una adquisición de control de Chorokbaem Media (₩140B del fondo + \~₩45B de financiación de adquisición). La operación de Chorokbaem consumió efectivamente la capacidad restante del fondo.
 
 ### Inventario de calidad del portafolio dentro del Fondo 15
 
 | Participación | Lectura |
 |---|---|
-| **SK Ecoplant** | Neutral. El potencial alcista de la IPO se ha debilitado; son posibles vías de salida estructurada. |
-| **Yanadoo** | Negativa. ₩30B invertidos a valoración de ₩600B; el posterior tratamiento contable NIIF de las RCPS como deuda generó patrimonio neto negativo según la normativa contable local. |
-| **AirsMedical** | Neutral / levemente positiva. Opción de IA en imagen médica, pero con escala reducida. |
-| **Chorokbaem Media** | Negativa. Adquisición de participación de control por ₩180B; el fracaso en la recuperación deterioraría ampliamente los rendimientos del Fondo 15. |
+| <strong>SK Ecoplant</strong> | Neutral. El potencial alcista de la IPO se ha debilitado; son posibles vías de salida estructurada. |
+| <strong>Yanadoo</strong> | Negativa. ₩30B invertidos a valoración de ₩600B; el posterior tratamiento contable NIIF de las RCPS como deuda generó patrimonio neto negativo según la normativa contable local. |
+| <strong>AirsMedical</strong> | Neutral / levemente positiva. Opción de IA en imagen médica, pero con escala reducida. |
+| <strong>Chorokbaem Media</strong> | Negativa. Adquisición de participación de control por ₩180B; el fracaso en la recuperación deterioraría ampliamente los rendimientos del Fondo 15. |
 
 ### Verificación aritmética interna del plan de revalorización
 
-El plan apunta a un ROE 2026 del 5% con un BN de ₩5,0B sobre patrimonio de ₩141,2B. Esa matemática implica un ROE del 3,54%, no del 5%. Un ROE puro del 5% sobre la base patrimonial existente requiere un BN de \~₩7,06B. **La vía hacia el 5% exige por tanto una reducción del patrimonio (recompra y amortización) o un incremento del BN más allá del dato titular.** Esto es coherente con el marco de retorno de capital declarado por la empresa, pero vale la pena valorarlo explícitamente.
+El plan apunta a un ROE 2026 del 5% con un BN de ₩5,0B sobre patrimonio de ₩141,2B. Esa matemática implica un ROE del 3,54%, no del 5%. Un ROE puro del 5% sobre la base patrimonial existente requiere un BN de \~₩7,06B. <strong>La vía hacia el 5% exige por tanto una reducción del patrimonio (recompra y amortización) o un incremento del BN más allá del dato titular.</strong> Esto es coherente con el marco de retorno de capital declarado por la empresa, pero vale la pena valorarlo explícitamente.
 
 ### Régimen de re-rating
 
@@ -205,34 +205,34 @@ El PBR de Q Capital puede revalorizarse desde \~0,3× hasta \~0,5–0,7× *si y 
 
 ## 9. Malinterpretaciones Transversales del Mercado
 
-**Malinterpretación 1 — "VC cotizado = operación sectorial en VC coreano."**
-No existe ninguna operación sectorial de VC única en este momento. Hay **tres regímenes** con mecánicas diferentes. Una cesta diversificada que ignore la división de regímenes mezclará exposiciones de estilo valor y event-driven con calendarios de catalizadores contradictorios.
+<strong>Malinterpretación 1 — "VC cotizado = operación sectorial en VC coreano."</strong>
+No existe ninguna operación sectorial de VC única en este momento. Hay <strong>tres regímenes</strong> con mecánicas diferentes. Una cesta diversificada que ignore la división de regímenes mezclará exposiciones de estilo valor y event-driven con calendarios de catalizadores contradictorios.
 
-**Malinterpretación 2 — Tratar el PBR alto como señal de calidad.**
+<strong>Malinterpretación 2 — Tratar el PBR alto como señal de calidad.</strong>
 En el grupo premium, el PBR lo fija *qué activo conocido posee la firma*, no la calidad del gestor. Un PBR 8× no significa "una firma 8 veces mejor que el par con PBR 0,7×." Significa "8 veces más flujo de eventos asociado."
 
-**Malinterpretación 3 — La falacia del traslado directo.**
+<strong>Malinterpretación 3 — La falacia del traslado directo.</strong>
 Los incrementos en la valoración de rondas privadas de una empresa del portafolio raramente fluyen 1:1 a los retornos de la acción del VC cotizado. La estructura del fondo, el commit del GP, el waterfall de comisiones de éxito y la contabilidad de consolidación amortiguan la atribución. La propia comunicación a accionistas de Mirae Asset Venture es el reconocimiento más claro de esto, y aplica a todo el grupo — no solo a su propia acción.
 
-**Malinterpretación 4 — Confundir "PBR bajo" con "valor."**
+<strong>Malinterpretación 4 — Confundir "PBR bajo" con "valor."</strong>
 El PBR bajo de Q Capital no es un arbitraje. Es el mercado descontando un lastre específico a nivel de fondo. Tratar el múltiplo bajo como señal de valor genérico sin analizar el Fondo 15 produce un dimensionamiento erróneo.
 
-**Malinterpretación 5 — Infravalorar el slot aburrido.**
+<strong>Malinterpretación 5 — Infravalorar el slot aburrido.</strong>
 El descuento de Atinum tiene la trayectoria de catalizador más clara de cualquier nombre en el complejo (cierre de fondo LP + continuidad del dividendo + recompra + crecimiento compuesto del AUM). Los inversores que buscan titulares tienden a saltarse exactamente este slot, y la acción permanece infravalorada más tiempo del que justifican los fundamentos.
 
 ---
 
 ## 10. Análisis de Riesgos
 
-**Modo de fallo macroeconómico**
+<strong>Modo de fallo macroeconómico</strong>
 
 Si la rotación global de capital se invierte (rebote del mercado estadounidense, recuperación del dólar, debilidad del KRW), el complejo de VC cotizados es uno de los beneficiarios de mayor beta dentro del sector financiero coreano y se comprimiría de forma desproporcionada.
 
-**Modo de fallo del grupo de valoración**
+<strong>Modo de fallo del grupo de valoración</strong>
 
 Si los calendarios de pre-IPO (Upstage, FuriosaAI, Rebellions, rondas relacionadas con SpaceX) se retrasan significativamente, el grupo premium no puede sostener su múltiplo. La dispersión se cerraría a la baja hacia el régimen de Atinum, no al alza hacia el régimen de opciones de compra.
 
-**Modo de fallo idiosincrásico**
+<strong>Modo de fallo idiosincrásico</strong>
 
 Para Q Capital, reconocimientos adicionales de deterioro sobre las participaciones del Fondo 15 (especialmente Yanadoo o Chorokbaem) reafirmarían el escenario bajista.
 
@@ -240,7 +240,7 @@ Para Mirae Asset Venture, cualquier aclaración pública clara sobre la economí
 
 Para DSC, un cierre pre-IPO de FuriosaAI *a la valoración esperada* de ₩3T puede paradójicamente ser un evento decepcionante — "expectativa cumplida pero no superada" es un patrón de venta frecuente en los small-caps coreanos.
 
-**Modo de fallo por divulgación / contabilidad**
+<strong>Modo de fallo por divulgación / contabilidad</strong>
 
 La mayor parte del complejo de VC cotizados es sensible al mark-to-market de posiciones privadas. Las revisiones del informe anual o de las notas de auditoría sobre la metodología de valor razonable pueden generar cambios escalonados en el valor en libros y en la óptica del ROE que el mercado aún no ha descontado.
 
@@ -250,12 +250,12 @@ La mayor parte del complejo de VC cotizados es sensible al mark-to-market de pos
 
 La forma más clara de leer el complejo de VC coreanos cotizados en 2026 es abandonar el impulso de llamarlo un "sector."
 
-- **Atinum Investment** es una historia de normalización — ganancias, dividendo, AUM, tiempo.
-- **Company K Partners** es una historia de asimetría — evento de Upstage vs. capitalización bursátil base.
-- **DSC Investment** es una historia de confirmación — el catalizador es real pero ya está descontado; la expansión requiere sobre-cumplimiento.
-- **Mirae Asset Venture** es una historia de flujo continuo — el múltiplo se sostiene solo con noticias catalizadoras constantes.
-- **Aju IB** es una historia de calidad de plataforma — actualmente infravalorada por sus fortalezas porque el mercado está recompensando un atributo diferente.
-- **Q Capital** es una historia de reestructuración con lastre — plan real, fondo heredado real, sin atajos entre ambos.
+- <strong>Atinum Investment</strong> es una historia de normalización — ganancias, dividendo, AUM, tiempo.
+- <strong>Company K Partners</strong> es una historia de asimetría — evento de Upstage vs. capitalización bursátil base.
+- <strong>DSC Investment</strong> es una historia de confirmación — el catalizador es real pero ya está descontado; la expansión requiere sobre-cumplimiento.
+- <strong>Mirae Asset Venture</strong> es una historia de flujo continuo — el múltiplo se sostiene solo con noticias catalizadoras constantes.
+- <strong>Aju IB</strong> es una historia de calidad de plataforma — actualmente infravalorada por sus fortalezas porque el mercado está recompensando un atributo diferente.
+- <strong>Q Capital</strong> es una historia de reestructuración con lastre — plan real, fondo heredado real, sin atajos entre ambos.
 
 Cada régimen requiere un marco diferente, un calendario de catalizadores diferente y un umbral diferente para lo que cuenta como confirmación. El error es tratarlos como una única operación.
 

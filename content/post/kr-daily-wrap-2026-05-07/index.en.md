@@ -20,25 +20,25 @@ draft: false
 | US 10Y | 4.36% | −3bp | → Stable |
 | Brent | $98.5 | −13.9% | 📉 Declining |
 
-**Regime: KR Bull / US Bull — Stance: Aggressively Constructive.** KOSPI breadth sits at 56.0% above the 50MA and 56.5% above the 200MA, meaning the underlying selection environment is healthy. The KRW's 1.5% five-day appreciation removes a currency headwind for foreign investors, and Brent's sharp retreat takes pressure off Korea's energy import bill.
+<strong>Regime: KR Bull / US Bull — Stance: Aggressively Constructive.</strong> KOSPI breadth sits at 56.0% above the 50MA and 56.5% above the 200MA, meaning the underlying selection environment is healthy. The KRW's 1.5% five-day appreciation removes a currency headwind for foreign investors, and Brent's sharp retreat takes pressure off Korea's energy import bill.
 
 ---
 
 ## Market Wrap
 
-Today's Korea stock market session was **compressed bull** — not the broad, rising-tide variety, but a concentrated advance where a handful of large-cap themes did the heavy lifting while the rest of the market drifted.
+Today's Korea stock market session was <strong>compressed bull</strong> — not the broad, rising-tide variety, but a concentrated advance where a handful of large-cap themes did the heavy lifting while the rest of the market drifted.
 
 KOSPI closed at 7,490.05 (+1.43%), KOSDAQ at 1,199.18 (−0.91%). Total turnover came in at ₩49.8T on KOSPI and ₩16.9T on KOSDAQ. The 13.7 percentage-point divergence between the two indices over five sessions is the clearest evidence of rotation: money is consolidating into large-cap quality names and exiting the mid-to-small-cap fringe.
 
-**Sector winners: semiconductors and AI infrastructure.** Samsung Electronics (005930.KS) gained +2.07% to a 52-week high (RS 95.2), propelled in part by news that the KODEX AI Semiconductor ETF will restructure to a combined 50% weight in Samsung Electronics and SK Hynix (000660.KS). That structural buying creates a persistent institutional bid for both names. Samsung Electro-Mechanics (009150.KS) added +0.55%, with Mirae Asset issuing a target price hike to ₩1.3M (+145%), making the case that the company is no longer a generic MLCC recovery story but a direct AI server parts play via FC-BGA and AI MLCC pricing.
+<strong>Sector winners: semiconductors and AI infrastructure.</strong> Samsung Electronics (005930.KS) gained +2.07% to a 52-week high (RS 95.2), propelled in part by news that the KODEX AI Semiconductor ETF will restructure to a combined 50% weight in Samsung Electronics and SK Hynix (000660.KS). That structural buying creates a persistent institutional bid for both names. Samsung Electro-Mechanics (009150.KS) added +0.55%, with Mirae Asset issuing a target price hike to ₩1.3M (+145%), making the case that the company is no longer a generic MLCC recovery story but a direct AI server parts play via FC-BGA and AI MLCC pricing.
 
 Power and energy infrastructure also held ground. Doosan Enerbility topped the day's screener rankings with a +7.40% gain on continued electricity-sector momentum. In shipbuilding, HD Korea Shipbuilding & Offshore Engineering (009540.KS) filed preliminary Q1 earnings today — a live catalyst for the sector, which has been accumulating institutional buyers for three consecutive weeks.
 
 An Arista Networks Q1 review overnight confirmed AI networking demand acceleration and datacenter interconnect growth, providing indirect support for Korea's optical component and substrate names: Samsung Electro-Mechanics, Simmtech, and Daeduck Electronics.
 
-**Sector laggards: KOSDAQ small-caps and event-driven names.** Game stocks that had priced in event catalysts saw distribution. Biotech sentiment was soft. The pattern is consistent with a market that has spent five sessions on a strong run and is now concentrating rather than broadening.
+<strong>Sector laggards: KOSDAQ small-caps and event-driven names.</strong> Game stocks that had priced in event catalysts saw distribution. Biotech sentiment was soft. The pattern is consistent with a market that has spent five sessions on a strong run and is now concentrating rather than broadening.
 
-**Flow summary:** Foreign investors were net sellers on the KOSPI headline number but institutional and program buying offset the pressure in the large-cap AI chip complex. Semiconductor equipment, shipbuilding, and power infrastructure showed the cleanest buying profiles — foreign and institutional both net positive over five sessions in all three themes.
+<strong>Flow summary:</strong> Foreign investors were net sellers on the KOSPI headline number but institutional and program buying offset the pressure in the large-cap AI chip complex. Semiconductor equipment, shipbuilding, and power infrastructure showed the cleanest buying profiles — foreign and institutional both net positive over five sessions in all three themes.
 
 ---
 
@@ -64,7 +64,7 @@ The meta screener ranked 130 tickers across five frameworks today. The editorial
 
 ### Top 3 in Depth
 
-**#1 — RFHIC (218410.KQ) | Meta Score 93.0 | 5 Screeners**
+<strong>#1 — RFHIC (218410.KQ) | Meta Score 93.0 | 5 Screeners</strong>
 
 RFHIC designs and manufactures GaN (gallium nitride) power amplifiers for 5G base stations and defense RF applications. The company is this session's standout candidate for one simple reason: it clears all five screener frameworks simultaneously — quality, smart money, cycle rerating, earnings improvement, and post-earnings drift all fire at once. That is rare.
 
@@ -72,13 +72,13 @@ The three-layer logic: (1) Quality — ROE 8.8%, operating margin 16.6%, revenue
 
 Next check: whether the five-day inflow is spread across multiple sessions or concentrated in one day — spread accumulation carries cleaner signal quality.
 
-**#2 — Wonik IPS / 원익IPS (240810.KQ) | Meta Score 64.9 | 4 Screeners**
+<strong>#2 — Wonik IPS / 원익IPS (240810.KQ) | Meta Score 64.9 | 4 Screeners</strong>
 
 Wonik IPS makes ALD (atomic layer deposition) and CVD equipment for DRAM and NAND fabs — direct exposure to the semiconductor capex upcycle. Operating profit +596% YoY, net income +306%, operating margin up +6.7pp. Five-day combined foreign and institutional net buying: +₩26.3B. Short interest is a clean 2.1%.
 
 The stock hits every money-flow and earnings-leverage framework. The one gap versus RFHIC: it does not clear the Quality Compounder screen (ROE at 9.1% sits just below threshold), which accounts for the score difference. A DART filing from April 29 flags an upcoming results announcement — watch for the confirmed figures to extend the PEAD drift window. This is a semiconductor equipment name with hard earnings evidence and visible institutional accumulation.
 
-**#3 — HD Korea Shipbuilding / HD한국조선해양 (009540.KS) | Meta Score 61.0 | 4 Screeners**
+<strong>#3 — HD Korea Shipbuilding / HD한국조선해양 (009540.KS) | Meta Score 61.0 | 4 Screeners</strong>
 
 HD Korea Shipbuilding is the holding company for HD Hyundai Heavy Industries, Hyundai Mipo Dockyard, and Hyundai Samho Heavy Industries. The company filed preliminary Q1 earnings today (DART catalyst, May 7), making this a live post-earnings drift setup: OP YoY +172%, margin +7.4pp, five-day net buying +₩20.6B across foreign and institutional channels.
 

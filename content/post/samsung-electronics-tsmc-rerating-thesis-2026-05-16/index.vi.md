@@ -14,7 +14,7 @@ tags:
 slug: samsung-electronics-tsmc-rerating-thesis-2026-05-16
 ---
 
-> 📚 **Chuỗi bài Samsung Electronics**
+> 📚 <strong>Chuỗi bài Samsung Electronics</strong>
 > Phần 1: [Citi đặt mục tiêu KRW 460.000 — Tại sao khung chu kỳ bộ nhớ có thể sai](/post/samsung-electronics-citi-tp-460000-memory-rerating-2026-05-11/)
 > Phần 2: [Đình công vs Siêu chu kỳ bộ nhớ — Câu hỏi thực sự là ai nắm giữ lợi nhuận vượt trội](/post/samsung-electronics-strike-vs-memory-supercycle-2026-05-15/)
 > Hub liên quan: [AI HBM Hub](/page/korea-semiconductor-hbm-kospi-hub/) · [Memory Pulse Dashboard](https://memory.koreainvestinsights.com/)

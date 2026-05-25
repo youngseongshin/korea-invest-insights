@@ -24,7 +24,7 @@ tags:
 series: ["ai-pcb-substrate-thesis-2026"]
 ---
 
-> **Bản đồ ngành:** Đây là luận điểm tầng trên về AI PCB và substrate làm nền tảng cho các phân tích về Pamicell. Nên đọc cùng với [hub AI PCB](/page/korea-ai-pcb-substrate-hub/), [Pamicell Phần 1](/post/pamicell-doosan-electro-bg-proxy-rediscovery-2026-04-30/), [Pamicell Phần 2](/post/pamicell-four-layer-progress-and-fifth-cycle-layer-2026-05-03/), và [báo cáo tái định giá hạ tầng AI của Samsung Electro-Mechanics](/post/samsung-electro-mechanics-ai-infrastructure-rerating-2026-04-21/).
+> <strong>Bản đồ ngành:</strong> Đây là luận điểm tầng trên về AI PCB và substrate làm nền tảng cho các phân tích về Pamicell. Nên đọc cùng với [hub AI PCB](/page/korea-ai-pcb-substrate-hub/), [Pamicell Phần 1](/post/pamicell-doosan-electro-bg-proxy-rediscovery-2026-04-30/), [Pamicell Phần 2](/post/pamicell-four-layer-progress-and-fifth-cycle-layer-2026-05-03/), và [báo cáo tái định giá hạ tầng AI của Samsung Electro-Mechanics](/post/samsung-electro-mechanics-ai-infrastructure-rerating-2026-04-21/).
 
 Các phân tích cấp công ty trước đó đặt ra câu hỏi hẹp hơn: những cái tên Hàn Quốc nào đang ở vị thế tốt nhất trong chuỗi cung ứng AI PCB, FC-BGA và vật liệu tổn hao thấp? Bài viết này nhìn lên một tầng cao hơn: tại sao dòng vốn nên tham gia vào toàn bộ hệ sinh thái này ngay từ đầu?
 

@@ -10,7 +10,7 @@ series: ["pearl-abyss-crimson-desert-thesis"]
 
 ## 0. Resumen Ejecutivo
 
-Pearl Abyss atraviesa un giro histórico — de tres años consecutivos de pérdidas operativas a un beneficio operativo trimestral proyectado superior a KRW 200B — impulsado por el éxito comercial global de **Crimson Desert**, un título AAA de mundo abierto en solitario desarrollado durante siete años. El mercado aún no ha descontado plenamente la magnitud de estos resultados.
+Pearl Abyss atraviesa un giro histórico — de tres años consecutivos de pérdidas operativas a un beneficio operativo trimestral proyectado superior a KRW 200B — impulsado por el éxito comercial global de <strong>Crimson Desert</strong>, un título AAA de mundo abierto en solitario desarrollado durante siete años. El mercado aún no ha descontado plenamente la magnitud de estos resultados.
 
 | Concepto | Valor |
 |------|-------|
@@ -23,7 +23,7 @@ Pearl Abyss atraviesa un giro histórico — de tres años consecutivos de pérd
 | Rango de Valor Razonable | KRW 54.000-95.000 |
 | Rentabilidad/Riesgo (a KRW 57.400) | +24% / -6% (aprox. 4:1) |
 
-**Percepción diferencial clave:** El mercado considera Pearl Abyss como "una acción de gaming que vendió 4 millones de copias y ya está totalmente descontada." Sin embargo: (1) los resultados del Q1 probablemente superarán el consenso en casi 2x, (2) se han alcanzado efectivamente 5 millones de copias con un camino abierto hacia los 6 millones, y (3) el precio actual de KRW 57.400 refleja un descuento excesivo por factores macroeconómicos (tensiones en Oriente Medio, designación de advertencia de inversión) en relación con los fundamentales.
+<strong>Percepción diferencial clave:</strong> El mercado considera Pearl Abyss como "una acción de gaming que vendió 4 millones de copias y ya está totalmente descontada." Sin embargo: (1) los resultados del Q1 probablemente superarán el consenso en casi 2x, (2) se han alcanzado efectivamente 5 millones de copias con un camino abierto hacia los 6 millones, y (3) el precio actual de KRW 57.400 refleja un descuento excesivo por factores macroeconómicos (tensiones en Oriente Medio, designación de advertencia de inversión) en relación con los fundamentales.
 
 ---
 
@@ -31,9 +31,9 @@ Pearl Abyss atraviesa un giro histórico — de tres años consecutivos de pérd
 
 ### Argumento 1: Los Resultados del Q1 Ya Están Cerrados, y el Mercado No los Refleja con Precisión
 
-**Estructura:** Crimson Desert se lanzó el 19/3. Aproximadamente 3,9-4,0 millones de copias se reconocen como ingresos al cierre del Q1 el 31/3. La estructura de reconocimiento de ingresos de Pearl Abyss se aproxima al método bruto (principal), con las comisiones de plataforma registradas por separado como gastos operativos.
+<strong>Estructura:</strong> Crimson Desert se lanzó el 19/3. Aproximadamente 3,9-4,0 millones de copias se reconocen como ingresos al cierre del Q1 el 31/3. La estructura de reconocimiento de ingresos de Pearl Abyss se aproxima al método bruto (principal), con las comisiones de plataforma registradas por separado como gastos operativos.
 
-**Descomposición P x Q x C:**
+<strong>Descomposición P x Q x C:</strong>
 
 | Escenario | Conservador | Base | Optimista |
 |----------|-------------|------|-----------|
@@ -41,21 +41,21 @@ Pearl Abyss atraviesa un giro histórico — de tres años consecutivos de pérd
 | ASP Contable | KRW 82.000 | KRW 83.500 | KRW 85.000 |
 | Ingresos Reportados Crimson Desert | KRW 312B | KRW 334B | KRW 357B |
 | Negocio Existente (Black Desert + EVE) | KRW 93B | KRW 96B | KRW 98B |
-| **Ingresos Totales** | **KRW 405B** | **KRW 430B** | **KRW 455B** |
+| <strong>Ingresos Totales</strong> | <strong>KRW 405B</strong> | <strong>KRW 430B</strong> | <strong>KRW 455B</strong> |
 | Gastos Operativos | KRW 210B | KRW 207B | KRW 205B |
-| **Beneficio Operativo** | **KRW 195B** | **KRW 223B** | **KRW 250B** |
+| <strong>Beneficio Operativo</strong> | <strong>KRW 195B</strong> | <strong>KRW 223B</strong> | <strong>KRW 250B</strong> |
 
-**Verificación de Premisas:**
+<strong>Verificación de Premisas:</strong>
 
-- **Base del Método Bruto [Inferencia]:** Las comisiones del Q4 2025 de KRW 19,2B y del Q1 2025 de KRW 17,3B se registran como partidas independientes dentro de los gastos operativos. Estructura de Coste de Ventas = 0. Las tasas de comisión trimestrales históricas del 20-22% se han mantenido de forma consistente.
-- **Verificación cruzada del ASP KRW 83.500:** Samsung Securities \~KRW 80.000, Meritz \~KRW 84.000, Alinea Analytics $50 (aprox. KRW 73.000, método bruto/neto incierto). Converge en el punto medio.
-- **Imputación de Costes de Desarrollo [Inferencia]:** Tres años consecutivos de pérdidas operativas (2023-2025) = costes de desarrollo reflejados anualmente en la cuenta de resultados. Saldo mínimo de costes de desarrollo en activos intangibles. Sin carga significativa de amortización tras el lanzamiento, por lo que los ingresos se convierten casi directamente en beneficio operativo.
+- <strong>Base del Método Bruto [Inferencia]:</strong> Las comisiones del Q4 2025 de KRW 19,2B y del Q1 2025 de KRW 17,3B se registran como partidas independientes dentro de los gastos operativos. Estructura de Coste de Ventas = 0. Las tasas de comisión trimestrales históricas del 20-22% se han mantenido de forma consistente.
+- <strong>Verificación cruzada del ASP KRW 83.500:</strong> Samsung Securities \~KRW 80.000, Meritz \~KRW 84.000, Alinea Analytics $50 (aprox. KRW 73.000, método bruto/neto incierto). Converge en el punto medio.
+- <strong>Imputación de Costes de Desarrollo [Inferencia]:</strong> Tres años consecutivos de pérdidas operativas (2023-2025) = costes de desarrollo reflejados anualmente en la cuenta de resultados. Saldo mínimo de costes de desarrollo en activos intangibles. Sin carga significativa de amortización tras el lanzamiento, por lo que los ingresos se convierten casi directamente en beneficio operativo.
 
-**Brecha con el Consenso:**
+<strong>Brecha con el Consenso:</strong>
 
 | Bróker | Est. Ingresos Q1 | Est. BO Q1 | vs. Nuestra Estimación |
 |-----------|----------------|-----------|-----------------|
-| NH Investment (Ahn Jae-min) | KRW 210,6B | KRW 78,6B | **50% por debajo (desfasado, basado en 3M copias)** |
+| NH Investment (Ahn Jae-min) | KRW 210,6B | KRW 78,6B | <strong>50% por debajo (desfasado, basado en 3M copias)</strong> |
 | Meritz (Lee Hyo-jin) | KRW 477,5B | KRW 275,2B | Límite superior |
 | Nuestra Estimación (Base) | KRW 430B | KRW 223B | — |
 
@@ -63,7 +63,7 @@ La estimación de NH es la más citada, pero se basa en datos del 25/3 (3 millon
 
 ### Argumento 2: 5 Millones de Copias Alcanzados o Inminentes; El Camino hacia los 6 Millones Está Abierto
 
-**Trayectoria de Ventas:**
+<strong>Trayectoria de Ventas:</strong>
 
 | Tramo | Período | Volumen de Ventas | Media Diaria |
 |---------|--------|-------------|--------------|
@@ -72,14 +72,14 @@ La estimación de NH es la más citada, pero se basa en datos del 25/3 (3 millon
 | 3M a 4M | 8 días | 1M | 125K/día |
 | 4M a 5M | \~10 días [Inferencia] | 1M | \~100K/día |
 
-**Evidencias del Hito de los 5M:**
+<strong>Evidencias del Hito de los 5M:</strong>
 
 - El CEO declaró en la JGA del 27/3: "Anunciaremos pronto el logro de 5 millones de copias vendidas"
 - KitGuru (medio internacional) reportó que se superó el hito de los 5M (aprox. 1/4)
 - CCU máximo de Steam el fin de semana del 6/4: 236.253 — manteniendo el 85% del máximo histórico
 - Listas de descarga en PS5: #2 en EE.UU./Canadá, #1 en Asia (marzo)
 
-**Escenario de 6 Millones (Dentro de Abril):**
+<strong>Escenario de 6 Millones (Dentro de Abril):</strong>
 
 Ventas diarias estimadas actuales de 70-100K x \~22 días restantes = 1,54-2,2M copias adicionales. Desde la base de 5M, serían alcanzables 6,2-7,2M copias a finales de abril.
 
@@ -88,13 +88,13 @@ Catalizadores adicionales:
 - China representa menos del 10% del total — el mercado chino es prácticamente un territorio virgen
 - Las reseñas globales de Steam se estabilizan en "Muy Positivas" (\~85%), lo que reduce la fricción para nuevos compradores
 
-**Implicaciones para el Q2 con 6M:**
+<strong>Implicaciones para el Q2 con 6M:</strong>
 
 Nuevas ventas en Q2 \~2M copias x ASP KRW 83.500 = ingresos de Crimson Desert en Q2 \~KRW 167B. Sumando el negocio existente \~KRW 95B, se obtienen ingresos en Q2 \~KRW 260B, BO \~KRW 110B [Especulación].
 
 ### Argumento 3: KRW 57.400 Representa un Descuento Excesivo Respecto a los Fundamentales
 
-**Evolución del Precio de la Acción:**
+<strong>Evolución del Precio de la Acción:</strong>
 
 | Fecha | Precio | Evento |
 |------|-------|-------|
@@ -108,28 +108,28 @@ Nuevas ventas en Q2 \~2M copias x ASP KRW 83.500 = ingresos de Crimson Desert en
 La corrección del -26% entre el 1/4 y el 8/4 se desglosa así:
 - Macro: Desplome del KOSPI del -3% (3/4), tensiones en Oriente Medio, subida del precio del petróleo — las acciones de gaming sobrerreaccionan
 - Técnico: Designación de cautela de inversión (1/4), advertencia de inversión anticipada tras una subida de más del 60% en 5 días
-- Cambio fundamental: **Ninguno.** Las ventas y el CCU de Crimson Desert siguen siendo sólidos
+- Cambio fundamental: <strong>Ninguno.</strong> Las ventas y el CCU de Crimson Desert siguen siendo sólidos
 
 Por tanto, KRW 57.400 representa un descuento temporal impulsado por factores macro y técnicos, no fundamentales. El precio de convergencia una vez confirmados los resultados del Q1 (ancla fundamental) es KRW 65.000-72.000 en el escenario base.
 
-**Matriz de Valoración:**
+<strong>Matriz de Valoración:</strong>
 
 | | PER 10x | PER 12x | PER 13x | PER 14x | PER 16x |
 |---|---------|---------|---------|---------|---------|
 | BO KRW 350B | 42.600 | 51.100 | 55.400 | 59.700 | 68.200 |
 | BO KRW 400B | 48.700 | 58.400 | 63.300 | 68.100 | 77.900 |
-| **BO KRW 420B** | **51.300** | **61.500** | **66.600** | **71.800** | **82.000** |
+| <strong>BO KRW 420B</strong> | <strong>51.300</strong> | <strong>61.500</strong> | <strong>66.600</strong> | <strong>71.800</strong> | <strong>82.000</strong> |
 | BO KRW 450B | 54.800 | 65.800 | 71.200 | 76.700 | 87.700 |
 
 A KRW 57.400, la acción cotiza a PER 11,2x sobre un BO de KRW 420B — un descuento respecto a la media del sector gaming coreano de 12-15x.
 
 ### Argumento 4: Superados los 6M de Copias, el Mapa de Expansión del IP Gana Visibilidad, Creando las Condiciones para una Revaluación del Múltiplo
 
-**Interpretación Estratégica de las Declaraciones del CEO en la JGA del 27/3:**
+<strong>Interpretación Estratégica de las Declaraciones del CEO en la JGA del 27/3:</strong>
 
 El CEO expresó su preferencia por impulsar las ventas adicionales del juego base mediante expansión de contenido, en lugar de apostar de inmediato por la venta de expansiones de pago. Esto hace referencia al modelo de Monster Hunter de Capcom (actualizaciones mayores gratuitas que generan una segunda curva en las ventas del juego base). El DLC de pago a corto plazo queda aplazado, pero la estrategia maximiza las ventas acumuladas para ampliar la base instalada del IP.
 
-**Camino hacia la Revaluación del Múltiplo:**
+<strong>Camino hacia la Revaluación del Múltiplo:</strong>
 
 | Etapa | Momento | Evento | Impacto en PER |
 |-------|--------|-------|-----------|
@@ -138,7 +138,7 @@ El CEO expresó su preferencia por impulsar las ventas adicionales del juego bas
 | Etapa 3 | 2027+ | DLC/expansión de pago + multijugador | 14-18x (transición a ingresos recurrentes) |
 | Etapa 4 | Por determinar | Port a Switch 2 + multiplataforma | Ampliación adicional de base instalada |
 
-**Restricción Importante:** El CEO declaró explícitamente que el DLC de pago está en espera por ahora. La entrada en la Etapa 3 es como mínimo en 2027 o más tarde. Descontar una revaluación múltiple en este momento es prematuro — superar los 6M de copias es una "condición previa formada", no una "transición de múltiplo confirmada."
+<strong>Restricción Importante:</strong> El CEO declaró explícitamente que el DLC de pago está en espera por ahora. La entrada en la Etapa 3 es como mínimo en 2027 o más tarde. Descontar una revaluación múltiple en este momento es prematuro — superar los 6M de copias es una "condición previa formada", no una "transición de múltiplo confirmada."
 
 ### Argumento 5: El Port a Switch 2 + la Expansión en Consolas Existe como Valor de Opción
 
@@ -202,7 +202,7 @@ La cuota de PS5 del \~38% es notablemente superior a lo esperado. Ninguna empres
 | Publicidad | KRW 12,3B | KRW 7,3B | KRW 33,0B | Campaña de lanzamiento AAA global |
 | D&A | KRW 5,9B | KRW 6,3B | KRW 6,5B | Estable |
 | Otros | KRW 15,8B | KRW 9,0B | KRW 25,0B | Atención al cliente/servidores/parches/logística |
-| **Total** | **KRW 103,9B** | **KRW 88,9B** | **KRW 207,0B** | — |
+| <strong>Total</strong> | <strong>KRW 103,9B</strong> | <strong>KRW 88,9B</strong> | <strong>KRW 207,0B</strong> | — |
 
 Verificación cruzada de tasa de comisión: Q1 2025 20,7%, Q2 2025 22,8%, Q4 2025 20,1% => Q1 2026E 20,5% (incremento de cuota de consola compensado por descuentos por tramos de Steam).
 
@@ -218,18 +218,18 @@ Verificación cruzada de tasa de comisión: Q1 2025 20,7%, Q2 2025 22,8%, Q4 202
 
 ### 2-7. Escenario Anual 2026E
 
-**Escenario Base (Ventas Anuales 7,8M Copias):**
+<strong>Escenario Base (Ventas Anuales 7,8M Copias):</strong>
 
 | | Q1E | Q2E | Q3E | Q4E | 2026E |
 |---|-----|-----|-----|-----|-------|
 | Ventas Crimson Desert (Nuevas) | 4,0M | 2,0M | 1,0M | 0,8M | 7,8M |
 | Ingresos Crimson Desert | KRW 334B | KRW 150B | KRW 80B | KRW 60B | KRW 624B |
 | Ingresos Negocio Existente | KRW 96B | KRW 95B | KRW 92B | KRW 95B | KRW 378B |
-| **Ingresos Totales** | **KRW 430B** | **KRW 245B** | **KRW 172B** | **KRW 155B** | **KRW 1.002B** |
-| **Beneficio Operativo** | **KRW 223B** | **KRW 105B** | **KRW 57B** | **KRW 35B** | **KRW 420B** |
+| <strong>Ingresos Totales</strong> | <strong>KRW 430B</strong> | <strong>KRW 245B</strong> | <strong>KRW 172B</strong> | <strong>KRW 155B</strong> | <strong>KRW 1.002B</strong> |
+| <strong>Beneficio Operativo</strong> | <strong>KRW 223B</strong> | <strong>KRW 105B</strong> | <strong>KRW 57B</strong> | <strong>KRW 35B</strong> | <strong>KRW 420B</strong> |
 | Margen Operativo | 51,9% | 42,9% | 33,1% | 22,6% | 41,9% |
 
-**Escenario Alcista (Ventas Anuales 9,0M Copias, sin Switch 2):**
+<strong>Escenario Alcista (Ventas Anuales 9,0M Copias, sin Switch 2):</strong>
 
 | | 2026E |
 |---|-------|
@@ -251,7 +251,7 @@ Verificación cruzada de tasa de comisión: Q1 2025 20,7%, Q2 2025 22,8%, Q4 202
 | CDPR | \~$10B | \~35x | \~25x | Witcher 4 en desarrollo |
 | Krafton | \~$11B | \~12x | \~9x | PUBG, descuento coreano |
 | Netmarble | \~$3,5B | \~15x | \~10x | RF Next |
-| **Pearl Abyss** | **KRW 3,61T** | **\~11x** | **\~8x** | **Éxito de Crimson Desert, KOSDAQ** |
+| <strong>Pearl Abyss</strong> | <strong>KRW 3,61T</strong> | <strong>\~11x</strong> | <strong>\~8x</strong> | <strong>Éxito de Crimson Desert, KOSDAQ</strong> |
 
 Pearl Abyss cotiza al múltiplo más bajo entre sus pares. Razones: (1) descuento por cotización en KOSDAQ, (2) participación extranjera del 5,6% — extremadamente baja, (3) descuento por estructura de ingresos de juego de paquete no recurrente.
 
@@ -260,7 +260,7 @@ Pearl Abyss cotiza al múltiplo más bajo entre sus pares. Razones: (1) descuent
 | Escenario | PER | Justificación | Valor Razonable |
 |---------|-----|----------|-----------|
 | Bajista | 10x | Límite inferior gaming KOSDAQ, descuento de gobierno corporativo persiste | KRW 51.300 |
-| **Base** | **13x** | **Límite inferior promedio gaming coreano, moderada entrada de capital extranjero** | **KRW 66.700** |
+| <strong>Base</strong> | <strong>13x</strong> | <strong>Límite inferior promedio gaming coreano, moderada entrada de capital extranjero</strong> | <strong>KRW 66.700</strong> |
 | Alcista | 16x | Descuento frente a Capcom, impulso de transferencia a KOSPI | KRW 82.000 |
 
 Basado en BPA KRW 5.130 x PER objetivo. El escenario base se fija en 13x en lugar de 14x porque los problemas de gobierno corporativo (sin comité de auditoría, puntuación de supervisión 14/45, participación extranjera 5,6%) siguen sin resolverse, haciendo difícil justificar 14x o más.
@@ -273,7 +273,7 @@ Basado en BPA KRW 5.130 x PER objetivo. El escenario base se fija en 13x en luga
 | Escenario | EV/EBITDA | EV Justo | Cap. Bursátil Justa | Precio Justo |
 |---------|-----------|---------|----------------|-----------|
 | Bajista | 7x | KRW 3,12T | KRW 3,62T | KRW 56.400 |
-| **Base** | **9x** | **KRW 4,01T** | **KRW 4,51T** | **KRW 70.200** |
+| <strong>Base</strong> | <strong>9x</strong> | <strong>KRW 4,01T</strong> | <strong>KRW 4,51T</strong> | <strong>KRW 70.200</strong> |
 | Alcista | 12x | KRW 5,35T | KRW 5,85T | KRW 91.000 |
 
 ### 3-4. Rango de Convergencia
@@ -282,9 +282,9 @@ Basado en BPA KRW 5.130 x PER objetivo. El escenario base se fija en 13x en luga
 |------------|------|------|------|
 | Basado en PER | 53.900 | 66.700 | 82.000 |
 | Basado en EV/EBITDA | 56.400 | 70.200 | 91.000 |
-| **Promedio** | **53.900** | **68.500** | **86.500** |
+| <strong>Promedio</strong> | <strong>53.900</strong> | <strong>68.500</strong> | <strong>86.500</strong> |
 
-**vs. Precio Actual KRW 57.400: Base +19%, Bajista -6%, Alcista +51%**
+<strong>vs. Precio Actual KRW 57.400: Base +19%, Bajista -6%, Alcista +51%</strong>
 
 ### 3-5. Sensibilidad de Variables Clave
 
@@ -308,7 +308,7 @@ Basado en BPA KRW 5.130 x PER objetivo. El escenario base se fija en 13x en luga
 |------|---------|
 | Accionista Mayoritario | Kim Dae-il y otros (10 personas) 37,2-44,2% |
 | Consejo de Administración | 6 miembros (4 internos / 2 independientes) |
-| Comité de Auditoría | **Ausente** |
+| Comité de Auditoría | <strong>Ausente</strong> |
 | Puntuación de Función de Supervisión | 14/45 (nivel más bajo) |
 | Participación Extranjera | 5,57% (vs. Krafton 42,4%, NCSoft 34,8%) |
 
@@ -316,7 +316,7 @@ Basado en BPA KRW 5.130 x PER objetivo. El escenario base se fija en 13x en luga
 
 - Cartera: 2,828M acciones (4,4%), \~KRW 162,4B al precio actual
 - 3ª Reforma del Código Mercantil (en vigor desde 6.3.2026): Cancelación obligatoria de acciones propias existentes en un plazo de 18 meses
-- **Fecha límite de cancelación: 6 de septiembre de 2027** (excepción si la JGA aprueba la retención)
+- <strong>Fecha límite de cancelación: 6 de septiembre de 2027</strong> (excepción si la JGA aprueba la retención)
 - Efecto de cancelación: +4,6% en el valor por acción
 
 ### 4-3. Impacto del Gobierno Corporativo en la Valoración
@@ -341,7 +341,7 @@ El cumplimiento de cualquiera de estos puntos abre un alza adicional de PER +2-3
 |--------|-------|------------|-------------|
 | Principios-mediados de abril | Anuncio oficial de 5M | 90%+ | +5-10% |
 | Dentro de abril | 6M copias alcanzadas | 60% | Detonante de revisión de objetivo de precio |
-| **7 de mayo** | **Publicación de Resultados Q1** | **Confirmado** | **Evento clave. Reajuste forzado del consenso, revisiones al alza de objetivos de precio generalizadas** |
+| <strong>7 de mayo</strong> | <strong>Publicación de Resultados Q1</strong> | <strong>Confirmado</strong> | <strong>Evento clave. Reajuste forzado del consenso, revisiones al alza de objetivos de precio generalizadas</strong> |
 | 2S 2026 | Anuncio oficial de port a Switch 2 | 40% | PER +1-2x |
 | 2S 2026 | Actualización mayor de contenido gratuita | 70% | Impulsa recompras del juego base, confirma cola larga |
 | 2027+ | Hoja de ruta de DLC/multijugador | 50% | Revaluación de PER +2-3x |
@@ -366,7 +366,7 @@ El cumplimiento de cualquiera de estos puntos abre un alza adicional de PER +2-3
 
 | Tramo | Peso | Condición | Precio |
 |-------|--------|----------|-------|
-| **1ª Entrada** | **30%** | **Rango actual KRW 55.000-58.000** | **KRW 57.400** |
+| <strong>1ª Entrada</strong> | <strong>30%</strong> | <strong>Rango actual KRW 55.000-58.000</strong> | <strong>KRW 57.400</strong> |
 | 2ª Ampliación | 30% | 5M oficial + CCU días laborables >150K | KRW 55.000-62.000 |
 | 3ª Posición Completa | 40% | Resultados Q1 del 7/5: ingresos Crimson Desert >KRW 300B confirmados | Post-resultados |
 
@@ -376,11 +376,11 @@ A KRW 57.400 = PER 11x sobre un BO del Q1 de KRW 200B. Esto se aproxima al escen
 
 ### 6-3. Anulación de la Tesis (Condiciones de Invalidación)
 
-1. Ingresos reportados de Crimson Desert en Q1 **por debajo de KRW 250B** — método neto o reembolsos excesivos
-2. **Margen operativo Q1 por debajo del 40%** — estructura de costes mal estimada
-3. **CCU máximo de 24h en Steam a finales de abril por debajo de 100K** — colapso de la tesis de cola larga
-4. La empresa anuncia **una gran M&A no relacionada** — riesgo de gobierno corporativo materializado
-5. El CEO anuncia **ampliación de capital (derechos de suscripción/bonos convertibles)** — preocupaciones sobre la estructura financiera
+1. Ingresos reportados de Crimson Desert en Q1 <strong>por debajo de KRW 250B</strong> — método neto o reembolsos excesivos
+2. <strong>Margen operativo Q1 por debajo del 40%</strong> — estructura de costes mal estimada
+3. <strong>CCU máximo de 24h en Steam a finales de abril por debajo de 100K</strong> — colapso de la tesis de cola larga
+4. La empresa anuncia <strong>una gran M&A no relacionada</strong> — riesgo de gobierno corporativo materializado
+5. El CEO anuncia <strong>ampliación de capital (derechos de suscripción/bonos convertibles)</strong> — preocupaciones sobre la estructura financiera
 
 ### 6-4. Métricas de Seguimiento
 
@@ -401,7 +401,7 @@ Los siguientes ítems son críticos para la convicción en la tesis, pero actual
 
 | Ítem | Impacto | Resolución |
 |------|--------|-----------|
-| Notas de auditoría Principal/Agente (determinación final bruto/neto) | **Máximo** — determina la presentación de ingresos | Resultados 7/5 |
+| Notas de auditoría Principal/Agente (determinación final bruto/neto) | <strong>Máximo</strong> — determina la presentación de ingresos | Resultados 7/5 |
 | Tasa de reembolso Q1 y ajuste de ventas netas | Alto — diferencia de +/-200K copias | Resultados 7/5 |
 | Mezcla de ventas por plataforma (Steam vs PS5 vs Xbox) | Medio — precisión del ASP | Resultados 7/5 o IR |
 | Volumen reconocido contablemente exacto a 31/3 | Alto — ingresos Q1 +/-KRW 15B | Resultados 7/5 |
@@ -412,15 +412,15 @@ Los siguientes ítems son críticos para la convicción en la tesis, pero actual
 
 ## 8. Reflexión Final del Gestor de Cartera
 
-La esencia de esta inversión es una **apuesta por la asimetría de información.** Los resultados del Q1 ya están cerrados, y su magnitud probablemente superará las estimaciones de la mayoría de los analistas en casi 2x. El mercado percibe Pearl Abyss como "una acción de gaming con 4 millones de copias vendidas", pero en realidad la empresa está registrando un beneficio operativo trimestral superior a KRW 200B — un resultado histórico para el gaming coreano.
+La esencia de esta inversión es una <strong>apuesta por la asimetría de información.</strong> Los resultados del Q1 ya están cerrados, y su magnitud probablemente superará las estimaciones de la mayoría de los analistas en casi 2x. El mercado percibe Pearl Abyss como "una acción de gaming con 4 millones de copias vendidas", pero en realidad la empresa está registrando un beneficio operativo trimestral superior a KRW 200B — un resultado histórico para el gaming coreano.
 
 KRW 57.400 es un precio temporal donde el descuento macro (tensiones en Oriente Medio, advertencia de inversión) se ha acumulado, cotizando a PER 11x cerca del nivel bajista. Sin embargo, deben reconocerse con sobriedad dos restricciones estructurales.
 
-En primer lugar, **esto es un juego de paquete.** El CEO ha declarado que prioriza los parches gratuitos sobre el DLC de pago, por lo que la revaluación del múltiplo (de ingresos únicos a recurrentes) se producirá como mínimo en un año. Justificar un PER de 16x o superior en este momento requiere más evidencias.
+En primer lugar, <strong>esto es un juego de paquete.</strong> El CEO ha declarado que prioriza los parches gratuitos sobre el DLC de pago, por lo que la revaluación del múltiplo (de ingresos únicos a recurrentes) se producirá como mínimo en un año. Justificar un PER de 16x o superior en este momento requiere más evidencias.
 
-En segundo lugar, **el gobierno corporativo es un factor de descuento estructural.** Una participación extranjera del 5,6%, la ausencia de un comité de auditoría y la calificación de supervisión en el nivel más bajo son barreras estructurales para la entrada de capital global. A menos que se resuelvan, no cabe esperar múltiplos comparables a los de Krafton o Capcom.
+En segundo lugar, <strong>el gobierno corporativo es un factor de descuento estructural.</strong> Una participación extranjera del 5,6%, la ausencia de un comité de auditoría y la calificación de supervisión en el nivel más bajo son barreras estructurales para la entrada de capital global. A menos que se resuelvan, no cabe esperar múltiplos comparables a los de Krafton o Capcom.
 
-**Conclusión: El precio actual es atractivo y adecuado para una entrada inicial. No obstante, una entrada por tramos — añadiendo la mitad de la posición tras la confirmación de los resultados del 7/5 — es lo apropiado. Si el BO del Q1 supera KRW 200B, esperar convergencia hacia el rango KRW 65.000-72.000. Si se materializan 6M de copias junto con una hoja de ruta de contenidos, apuntar más alto.**
+<strong>Conclusión: El precio actual es atractivo y adecuado para una entrada inicial. No obstante, una entrada por tramos — añadiendo la mitad de la posición tras la confirmación de los resultados del 7/5 — es lo apropiado. Si el BO del Q1 supera KRW 200B, esperar convergencia hacia el rango KRW 65.000-72.000. Si se materializan 6M de copias junto con una hoja de ruta de contenidos, apuntar más alto.</strong>
 
 ---
 

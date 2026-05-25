@@ -21,22 +21,22 @@ valley_cashtags:
 draft: false
 ---
 
-> 📚 **Série Pearl Abyss × Crimson Desert**
+> 📚 <strong>Série Pearl Abyss × Crimson Desert</strong>
 > [Chiffre d'affaires comptabilisé en 1T et la falaise de 2027](/fr/post/pearl-abyss-1q26-recognized-sales-2027-cliff-2026-05-17/) / [Données du week-end Patch 1.07](/fr/post/pearl-abyss-crimson-desert-patch-107-weekend-data-2026-05-17/) / [Point IR du 21 mai](/fr/post/pearl-abyss-521-ir-capital-return-dlc-dokev-2026-05-12/) / [Ce que révèlent vraiment les commentaires sur le DLC](/fr/post/pearl-abyss-dlc-package-to-franchise-rerating-2026-05-15/) / [Hub Pearl Abyss](/fr/page/pearl-abyss-crimson-desert-hub/)
 
 *Pearl Abyss a sensiblement dissipé les craintes de "falaise 2T" grâce à ses résultats 1T26 et à sa guidance 2T. Pourtant, le titre a continué de baisser après la publication. L'explication est simple : le marché a tourné la page du 2T et valorise désormais la falaise bénéficiaire de 2027, l'allocation du capital et la dynamique des flux. Le comportement des deux dernières semaines ne ressemble pas encore à un renversement. Les étrangers sont partiellement revenus depuis les ventes forcées du 13 mai, mais les institutionnels ne l'ont pas fait. On est dans un « test de plancher en termes de flux », pas dans un « retournement des flux ».*
 
 ## Synthèse des points clés
 
-* **Les flux sur deux semaines ne constituent pas encore un retournement.** Du 4 au 18 mai 2026, le titre est passé de ₩58 500 à ₩45 800, soit une baisse d'environ **-21,7 %**. Cela ressemble moins à une correction ordinaire qu'à une remise à plat de la valorisation après les résultats.
-* **Étrangers et institutionnels ont tous deux été vendeurs nets sur l'ensemble des deux semaines.** D'après Naver Finance, les ventes nettes cumulées du 4 au 18 mai s'élèvent à -502 638 titres pour les institutionnels et à -546 424 titres pour les étrangers, soit une contrepartie nette estimée à environ -₩26,4 Mds et -₩30,1 Mds respectivement.
-* **Cela dit, les étrangers ont amorcé un retournement partiel après la panique du 13 mai.** Des achats nets sont apparus : +56 653 titres le 14 mai, +206 722 le 15 mai et +65 936 le 18 mai. Ce retour des étrangers à des niveaux plus bas est un élément positif.
-* **La décomposition des flux institutionnels reste peu engageante.** D'après la base locale Research OS pour la période du 4 au 15 mai, les ventes institutionnelles sont portées par les sociétés de bourse (-₩17,3 Mds) et les fonds privés (-₩7,5 Mds). Les fonds de pension et les assureurs ne sont pas intervenus de manière significative ; les fonds de placement ont été à peine positifs, à +₩0,9 Md.
-* **Le trading de programmes et les ventes à découvert se sont calmés, mais le risque lié au solde des prêts de titres subsiste.** Le trading de programmes est passé de -₩34,5 Mds le 13 mai à +₩3,0 Mds le 14, +₩9,7 Mds le 15 et +₩3,2 Mds le 18. La part des ventes à découvert est redescendue de 19,26 % à environ 7 %. Toutefois, le solde des prêts de titres a continué d'augmenter jusqu'au 15 mai.
-* **Nous sommes actuellement à l'étape 3 d'un processus en 4 phases.** La distribution et les ventes forcées sont derrière nous ; les rachats d'aubaine des étrangers et la normalisation des programmes sont apparus. Mais le retour des institutionnels et le redressement de la tendance n'ont pas encore eu lieu.
-* **La décision pratique est de conserver et d'observer ; les achats supplémentaires doivent attendre.** Un véritable retournement des flux nécessite de tenir ₩45 500–₩46 000, de reprendre ₩47 200, et de voir les fonds de placement, les fonds de pension et les assureurs augmenter leurs positions dans la décomposition institutionnelle.
+* <strong>Les flux sur deux semaines ne constituent pas encore un retournement.</strong> Du 4 au 18 mai 2026, le titre est passé de ₩58 500 à ₩45 800, soit une baisse d'environ <strong>-21,7 %</strong>. Cela ressemble moins à une correction ordinaire qu'à une remise à plat de la valorisation après les résultats.
+* <strong>Étrangers et institutionnels ont tous deux été vendeurs nets sur l'ensemble des deux semaines.</strong> D'après Naver Finance, les ventes nettes cumulées du 4 au 18 mai s'élèvent à -502 638 titres pour les institutionnels et à -546 424 titres pour les étrangers, soit une contrepartie nette estimée à environ -₩26,4 Mds et -₩30,1 Mds respectivement.
+* <strong>Cela dit, les étrangers ont amorcé un retournement partiel après la panique du 13 mai.</strong> Des achats nets sont apparus : +56 653 titres le 14 mai, +206 722 le 15 mai et +65 936 le 18 mai. Ce retour des étrangers à des niveaux plus bas est un élément positif.
+* <strong>La décomposition des flux institutionnels reste peu engageante.</strong> D'après la base locale Research OS pour la période du 4 au 15 mai, les ventes institutionnelles sont portées par les sociétés de bourse (-₩17,3 Mds) et les fonds privés (-₩7,5 Mds). Les fonds de pension et les assureurs ne sont pas intervenus de manière significative ; les fonds de placement ont été à peine positifs, à +₩0,9 Md.
+* <strong>Le trading de programmes et les ventes à découvert se sont calmés, mais le risque lié au solde des prêts de titres subsiste.</strong> Le trading de programmes est passé de -₩34,5 Mds le 13 mai à +₩3,0 Mds le 14, +₩9,7 Mds le 15 et +₩3,2 Mds le 18. La part des ventes à découvert est redescendue de 19,26 % à environ 7 %. Toutefois, le solde des prêts de titres a continué d'augmenter jusqu'au 15 mai.
+* <strong>Nous sommes actuellement à l'étape 3 d'un processus en 4 phases.</strong> La distribution et les ventes forcées sont derrière nous ; les rachats d'aubaine des étrangers et la normalisation des programmes sont apparus. Mais le retour des institutionnels et le redressement de la tendance n'ont pas encore eu lieu.
+* <strong>La décision pratique est de conserver et d'observer ; les achats supplémentaires doivent attendre.</strong> Un véritable retournement des flux nécessite de tenir ₩45 500–₩46 000, de reprendre ₩47 200, et de voir les fonds de placement, les fonds de pension et les assureurs augmenter leurs positions dans la décomposition institutionnelle.
 
-Les données couvrent la période **du 4 au 18 mai 2026**. Les données de cours, de flux étrangers et institutionnels sont issues de la base locale Research OS et de la [page étrangers/institutionnels de Pearl Abyss sur Naver Finance](https://finance.naver.com/item/frgn.naver?code=263750).
+Les données couvrent la période <strong>du 4 au 18 mai 2026</strong>. Les données de cours, de flux étrangers et institutionnels sont issues de la base locale Research OS et de la [page étrangers/institutionnels de Pearl Abyss sur Naver Finance](https://finance.naver.com/item/frgn.naver?code=263750).
 
 ## 1. L'action des prix signale une remise à plat de la valorisation post-événement
 
@@ -62,7 +62,7 @@ Le débat autour des bénéfices de Pearl Abyss a déjà avancé d'un chapitre. 
 
 > Les chiffres de 2026 sont solides. Mais les bénéfices tiendront-ils en 2027, et seront-ils redistribués aux actionnaires ?
 
-Ce repli est donc à lire non pas comme une simple correction, mais comme une période durant laquelle **l'actualisation du pic de bénéfices et le repositionnement des flux se sont produits simultanément**.
+Ce repli est donc à lire non pas comme une simple correction, mais comme une période durant laquelle <strong>l'actualisation du pic de bénéfices et le repositionnement des flux se sont produits simultanément</strong>.
 
 ## 2. Les flux cumulés sur deux semaines restent négatifs
 
@@ -239,9 +239,9 @@ Les niveaux clés sont ₩45 500–₩46 000 et ₩47 200. Tenir ₩45 500–₩
 
 La conclusion pratique est simple.
 
-**Conserver et observer. Renforcer après confirmation de la reprise de ₩47 200 et de l'amélioration de la décomposition institutionnelle.**
+<strong>Conserver et observer. Renforcer après confirmation de la reprise de ₩47 200 et de l'amélioration de la décomposition institutionnelle.</strong>
 
-Ce n'est pas le moment d'acheter agressivement — c'est le moment de regarder qui absorbe l'offre post-panique. Le prochain véritable retournement de Pearl Abyss deviendra plus crédible lorsque **des achats étrangers soutenus + le retour du capital institutionnel de long terme + des réponses au point IR du 21 mai brisant le scénario de falaise 2027** arriveront ensemble.
+Ce n'est pas le moment d'acheter agressivement — c'est le moment de regarder qui absorbe l'offre post-panique. Le prochain véritable retournement de Pearl Abyss deviendra plus crédible lorsque <strong>des achats étrangers soutenus + le retour du capital institutionnel de long terme + des réponses au point IR du 21 mai brisant le scénario de falaise 2027</strong> arriveront ensemble.
 
 ---
 

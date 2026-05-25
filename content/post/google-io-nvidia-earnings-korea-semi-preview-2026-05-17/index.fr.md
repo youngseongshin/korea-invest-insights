@@ -15,7 +15,7 @@ tags:
 slug: google-io-nvidia-earnings-korea-semi-preview-2026-05-17
 ---
 
-> 📚 **Série liée**
+> 📚 <strong>Série liée</strong>
 > [Deux bêtas du back-end IA](/fr/post/ai-substrate-vs-test-socket-comparison-2026-05-15/) · [11 valeurs du back-end IA](/fr/post/ai-substrate-test-socket-data-comparison-2026-05-16/) · [Samsung Electronics vs TSMC](/fr/post/samsung-electronics-tsmc-rerating-thesis-2026-05-16/) · [Hub AI HBM](/fr/page/korea-semiconductor-hbm-kospi-hub/)
 
 Deux événements IA très différents arrivent la semaine prochaine. Google I/O commence le 19 mai à 10h PT, soit le 20 mai à 2h du matin en Corée. NVIDIA publiera ses résultats du premier trimestre fiscal 2027 le 20 mai vers 13h20 PT, avec une conférence à 14h PT. En Corée, cela correspond au 21 mai à 5h20 et 6h.
@@ -61,11 +61,11 @@ Le duo le plus important est guidance Q2 + marge brute. Une guidance forte avec 
 
 ## 3. Lecture par valeur coréenne
 
-**SK hynix** est la lecture HBM la plus propre. Si NVIDIA surprend fortement, c'est le nom coréen le plus direct. Mais le leadership HBM est déjà bien connu. En cas de résultat simplement conforme, la prise de bénéfices peut aussi être rapide.
+<strong>SK hynix</strong> est la lecture HBM la plus propre. Si NVIDIA surprend fortement, c'est le nom coréen le plus direct. Mais le leadership HBM est déjà bien connu. En cas de résultat simplement conforme, la prise de bénéfices peut aussi être rapide.
 
-**Samsung Electronics** est plus complexe. La société a l'option HBM4, base die, fonderie et packaging. Mais le 21 mai peut aussi être affecté par le risque de grève. Une forte guidance NVIDIA et un risque social limité seraient constructifs. Une guidance faible et une tension sociale prolongée seraient négatives.
+<strong>Samsung Electronics</strong> est plus complexe. La société a l'option HBM4, base die, fonderie et packaging. Mais le 21 mai peut aussi être affecté par le risque de grève. Une forte guidance NVIDIA et un risque social limité seraient constructifs. Une guidance faible et une tension sociale prolongée seraient négatives.
 
-**Samsung Electro-Mechanics** n'est pas une exposition directe au HBM, mais MLCC, FC-BGA et modules de sensing deviennent plus importants dans les serveurs IA. La société peut encore passer du statut de fournisseur mobile à celui de plateforme de composants d'infrastructure IA. Toutefois, le titre a déjà beaucoup monté; il vaut mieux attendre la confirmation dans les commentaires du deuxième trimestre.
+<strong>Samsung Electro-Mechanics</strong> n'est pas une exposition directe au HBM, mais MLCC, FC-BGA et modules de sensing deviennent plus importants dans les serveurs IA. La société peut encore passer du statut de fournisseur mobile à celui de plateforme de composants d'infrastructure IA. Toutefois, le titre a déjà beaucoup monté; il vaut mieux attendre la confirmation dans les commentaires du deuxième trimestre.
 
 Dans le back-end, les substrats réagissent plus vite à la guidance Data Center. Les sockets de test peuvent réagir avec un décalage d'un ou deux trimestres, mais leur profil de marge est plus élevé.
 

@@ -20,7 +20,7 @@ draft: false
 | DXY | 98,3 | +0,1% | Đi ngang |
 | Brent | $90,6 | -8,9% | Giảm |
 
-**Phán quyết chế độ:** KR `Bull` · US `Bull` · Quan điểm: **Mở rộng tích cực**
+<strong>Phán quyết chế độ:</strong> KR `Bull` · US `Bull` · Quan điểm: <strong>Mở rộng tích cực</strong>
 
 Breadth thị trường Hàn Quốc duy trì sức mạnh rộng — 64,2% cổ phiếu trên 50MA và 59,3% trên 200MA. Discovery Score đạt 100/100 (ngày thứ 15 liên tiếp xác nhận). Brent dầu thô giảm gần 9% trong 5 ngày là yếu tố hỗ trợ chi phí đầu vào cho các doanh nghiệp công nghiệp và hóa chất. Lợi suất trái phiếu Mỹ kỳ hạn 10 năm ổn định ở 4,25% — không có áp lực tái định giá từ thị trường lãi suất. Đây là môi trường vĩ mô lý tưởng cho chiến lược chọn lọc cổ phiếu tích cực.
 
@@ -30,7 +30,7 @@ Breadth thị trường Hàn Quốc duy trì sức mạnh rộng — 64,2% cổ 
 
 Phiên giao dịch ngày 21/04/2026 tiếp nối xu hướng tích cực của tuần qua với thị trường chứng khoán Hàn Quốc duy trì đà Bull rõ nét. KOSPI củng cố vùng 6.388 điểm sau chuỗi tăng +4,9% trong 5 phiên — mức tăng cho thấy sức mua không mang tính đầu cơ ngắn hạn mà phản ánh dòng tiền tổ chức và nước ngoài đang tái phân bổ một cách có chủ đích.
 
-**Nhân tố dẫn dắt ngành:** Cổ phiếu máy móc đặc chủng nổi lên là chủ đề nổi bật nhất phiên này. Nhóm thiết bị sản xuất màn hình OLED và bán dẫn tiếp tục nhận được sự quan tâm của dòng tiền thông minh, phản ánh cycle đầu tư thiết bị đang tăng tốc từ phía các khách hàng đại lục và trong nước. Đây là tín hiệu trước chu kỳ (leading indicator) cho đơn đặt hàng thiết bị sản xuất chip thế hệ tiếp theo.
+<strong>Nhân tố dẫn dắt ngành:</strong> Cổ phiếu máy móc đặc chủng nổi lên là chủ đề nổi bật nhất phiên này. Nhóm thiết bị sản xuất màn hình OLED và bán dẫn tiếp tục nhận được sự quan tâm của dòng tiền thông minh, phản ánh cycle đầu tư thiết bị đang tăng tốc từ phía các khách hàng đại lục và trong nước. Đây là tín hiệu trước chu kỳ (leading indicator) cho đơn đặt hàng thiết bị sản xuất chip thế hệ tiếp theo.
 
 Nhóm bán dẫn vẫn là neo chặt chẽ với SK하이닉스 (000660.KS) tiếp tục xuất hiện trong top dòng tiền ngoại — tăng trưởng doanh thu +46,8% và lợi nhuận hoạt động +101,2% YoY khẳng định chu kỳ bộ nhớ HBM đang ở giai đoạn inflection point thực sự, không phải kỳ vọng thuần túy.
 
@@ -44,9 +44,9 @@ Về dòng chảy vĩ mô: Brent giảm mạnh (-8,9%) hỗ trợ lạm phát ch
 
 ## Screener Spotlight Hôm Nay: Smart Money + Earnings Improvement (Thứ Ba)
 
-**Phương pháp luận:** Screener này xác định các cổ phiếu có dòng tiền tổ chức và nước ngoài tích lũy *đồng thời* với cải thiện thực chất về doanh thu, lợi nhuận hoạt động và ROE so với cùng kỳ. Kết hợp hai tín hiệu — dòng tiền thông minh + inflection điểm cơ bản — để lọc ra những ứng viên trước khi thị trường định giá lại.
+<strong>Phương pháp luận:</strong> Screener này xác định các cổ phiếu có dòng tiền tổ chức và nước ngoài tích lũy *đồng thời* với cải thiện thực chất về doanh thu, lợi nhuận hoạt động và ROE so với cùng kỳ. Kết hợp hai tín hiệu — dòng tiền thông minh + inflection điểm cơ bản — để lọc ra những ứng viên trước khi thị trường định giá lại.
 
-**Thị trường:** 2.722 cổ phiếu trong vũ trụ KR | Breadth >50MA: 64,2% | Điểm chiến lược trung bình top 20: 0,793
+<strong>Thị trường:</strong> 2.722 cổ phiếu trong vũ trụ KR | Breadth >50MA: 64,2% | Điểm chiến lược trung bình top 20: 0,793
 
 ### Top 10 Ứng Viên — 21/04/2026
 
@@ -65,13 +65,13 @@ Về dòng chảy vĩ mô: Brent giảm mạnh (-8,9%) hỗ trợ lạm phát ch
 
 ### Spotlight 3 Cái Tên Đầu Bảng
 
-**선익시스템 (171090.KQ) — Score: 0,838**
+<strong>선익시스템 (171090.KQ) — Score: 0,838</strong>
 Nhà sản xuất thiết bị bay hơi OLED (evaporator) phục vụ cho các dây chuyền sản xuất tấm nền màn hình thế hệ mới. Doanh thu tăng gần 4 lần (+357%) YoY và lợi nhuận hoạt động tăng vọt +1.311% là tín hiệu rõ ràng của một đơn đặt hàng lớn đang được hạch toán. RS percentile 96 cho thấy giá cổ phiếu đang dẫn đầu thị trường — dòng tiền thông minh đã vào trước khi thị trường chú ý.
 
-**동아엘텍 (088130.KQ) — Score: 0,836**
+<strong>동아엘텍 (088130.KQ) — Score: 0,836</strong>
 Chuyên thiết bị kiểm tra và gia công bảng mạch (PCB testing & processing) cho chuỗi cung ứng bán dẫn và màn hình. Doanh thu +227%, lợi nhuận hoạt động +670% — đây là câu chuyện leverage hoạt động (operating leverage) kinh điển khi doanh thu vượt điểm hòa vốn và toàn bộ doanh thu gia tăng rơi vào lợi nhuận. Cổ phiếu đang giao dịch gần vùng cao nhất (NearHigh) — momentum và fundamentals cùng chiều.
 
-**SK스퀘어 (402340.KS) — Score: 0,815**
+<strong>SK스퀘어 (402340.KS) — Score: 0,815</strong>
 Công ty đầu tư và nắm giữ danh mục của SK Group, bao gồm cổ phần trong SK하이닉스, 11번가 và nhiều công ty công nghệ. Với RS percentile 99 — top 1% thị trường — và lợi nhuận ròng +142% YoY, đây là proxy gián tiếp vào toàn bộ hệ sinh thái công nghệ SK với discount định giá hấp dẫn so với giá trị tài sản ròng (NAV). Dòng tiền ngoại tích lũy mạnh xác nhận câu chuyện re-rating đang diễn ra.
 
 ---

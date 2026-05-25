@@ -36,9 +36,9 @@ draft: false
 
 The most important of the three videos is Dwarkesh Patel's interview with Reiner Pope. It does not start with market headlines. It starts with what actually happens inside a chip: where the electricity flows, where the data sits, and how often the chip has to move that data.[^dwarkesh]
 
-The key point is simple. AI performance is not only about FLOPS. The real bottleneck is **where the data comes from, where it is stored, and how short the path is between memory and compute**. In that frame, NVIDIA remains central, but the investment read-through spreads into HBM, package substrates, FC-BGA, high-layer PCBs, Ethernet, optical links, power-stability components and testing.
+The key point is simple. AI performance is not only about FLOPS. The real bottleneck is <strong>where the data comes from, where it is stored, and how short the path is between memory and compute</strong>. In that frame, NVIDIA remains central, but the investment read-through spreads into HBM, package substrates, FC-BGA, high-layer PCBs, Ethernet, optical links, power-stability components and testing.
 
-For Korean investors, the translation is clear. **Samsung Electronics and SK Hynix are the memory core. Samsung Electro-Mechanics is the FC-BGA and silicon-capacitor power-integrity node. Daeduck, Isu Petasys, Simmtech, Korea Circuit and TLB are substrate and PCB spread candidates.** This is not a market to chase a Monday gap. The key is whether turnover and foreign / institutional flow hold into the afternoon.
+For Korean investors, the translation is clear. <strong>Samsung Electronics and SK Hynix are the memory core. Samsung Electro-Mechanics is the FC-BGA and silicon-capacitor power-integrity node. Daeduck, Isu Petasys, Simmtech, Korea Circuit and TLB are substrate and PCB spread candidates.</strong> This is not a market to chase a Monday gap. The key is whether turnover and foreign / institutional flow hold into the afternoon.
 
 ---
 
@@ -46,7 +46,7 @@ For Korean investors, the translation is clear. **Samsung Electronics and SK Hyn
 
 A common mistake in AI semiconductor investing is to read chip performance as "more FLOPS equals a better chip." Reiner Pope's explanation breaks that frame from the bottom up.
 
-Much of AI computation is repeated matrix multiplication: multiply many numbers, add them, and do it again. Making the arithmetic unit faster matters, but at chip level the bigger question is often **where the numbers come from**.
+Much of AI computation is repeated matrix multiplication: multiply many numbers, add them, and do it again. Making the arithmetic unit faster matters, but at chip level the bigger question is often <strong>where the numbers come from</strong>.
 
 An AI chip has several layers of storage and movement.
 
@@ -58,9 +58,9 @@ An AI chip has several layers of storage and movement.
 | Server board and network | Roads inside and outside the rack | High-layer PCB, Ethernet, optical links |
 | Data-center power | Electricity for the whole system | Transformers, distribution, cooling, total operating cost |
 
-If the arithmetic unit waits for data, the chip is underused. So the real AI-chip question is not just "can we add more compute?" It is **"can we move less data, keep it closer, and feed the chip without wasting power?"**
+If the arithmetic unit waits for data, the chip is underused. So the real AI-chip question is not just "can we add more compute?" It is <strong>"can we move less data, keep it closer, and feed the chip without wasting power?"</strong>
 
-That is why HBM, FC-BGA, silicon capacitors and high-speed PCBs belong in the same discussion. They all solve the same physical problem: **keep AI chips fed with data and stable power**.
+That is why HBM, FC-BGA, silicon capacitors and high-speed PCBs belong in the same discussion. They all solve the same physical problem: <strong>keep AI chips fed with data and stable power</strong>.
 
 ---
 
@@ -84,7 +84,7 @@ So AI semiconductor value does not end at the GPU vendor. NVIDIA anchors the sys
 
 ## 3. NVIDIA's Numbers Are Strong. The Market Question Has Changed
 
-NVIDIA reported Q1 FY27 revenue of **$81.6 billion**, Data Center revenue of **$75.2 billion**, and Q2 revenue guidance of **$91.0 billion ±2%**. On official numbers, AI infrastructure demand has not rolled over.[^nvidia]
+NVIDIA reported Q1 FY27 revenue of <strong>$81.6 billion</strong>, Data Center revenue of <strong>$75.2 billion</strong>, and Q2 revenue guidance of <strong>$91.0 billion ±2%</strong>. On official numbers, AI infrastructure demand has not rolled over.[^nvidia]
 
 But the market is no longer asking only "is NVIDIA good?" That is already known. The new questions are:
 
@@ -93,7 +93,7 @@ But the market is no longer asking only "is NVIDIA good?" That is already known.
 3. Can model companies keep paying high token bills?
 4. Will AI backlash and regulation slow deployment?
 
-The All-In episode belongs in this bucket. Anthropic, Karpathy, SpaceX, NVIDIA earnings and AI regulation are all part of one larger issue: **AI is not over, but it now has to prove capital efficiency**.[^allin]
+The All-In episode belongs in this bucket. Anthropic, Karpathy, SpaceX, NVIDIA earnings and AI regulation are all part of one larger issue: <strong>AI is not over, but it now has to prove capital efficiency</strong>.[^allin]
 
 In market language:
 
@@ -108,7 +108,7 @@ In market language:
 
 ## 4. Marvell and Broadcom: Connectivity Becomes the Next Test
 
-Marvell and Broadcom are the next earnings events to watch through this frame. Neither is simply an "NVIDIA competitor." As AI data centers scale, both attach to **connectivity, switching, optical signals and custom AI silicon**.
+Marvell and Broadcom are the next earnings events to watch through this frame. Neither is simply an "NVIDIA competitor." As AI data centers scale, both attach to <strong>connectivity, switching, optical signals and custom AI silicon</strong>.
 
 For Marvell, the core question is whether custom AI silicon and optical connectivity are accelerating into actual revenue. For Broadcom, the core question is whether AI ASICs and AI Ethernet networking are scaling together. If both companies sound strong, the Korean read-through should broaden beyond pure HBM.
 
@@ -120,7 +120,7 @@ For Marvell, the core question is whether custom AI silicon and optical connecti
 | Rack-scale expansion | Power equipment, cooling, data-center operating cost |
 | Larger packages | Samsung Electro-Mechanics FC-BGA, Daeduck, Korea Circuit |
 
-The right translation is not "Broadcom / Marvell good means all Korean semis are good." It is: **AI-chip growth benefits the bottleneck suppliers that feed, connect, stabilize and test those chips.**
+The right translation is not "Broadcom / Marvell good means all Korean semis are good." It is: <strong>AI-chip growth benefits the bottleneck suppliers that feed, connect, stabilize and test those chips.</strong>
 
 ---
 
@@ -128,7 +128,7 @@ The right translation is not "Broadcom / Marvell good means all Korean semis are
 
 On May 21, 2026, AT&S announced a capacity expansion for high-end IC substrates used in AI, at its Chongqing site in China. The investment is in the high-double-digit million-euro range and is backed by long-term customer agreements. AT&S expects a high-double-digit million-euro positive EBIT effect in fiscal 2026/27.[^ats-capacity]
 
-The key point is not the customer name. The key point is that **AI substrate capacity is now being expanded under long-term agreements**.
+The key point is not the customer name. The key point is that <strong>AI substrate capacity is now being expanded under long-term agreements</strong>.
 
 AT&S also framed glass-core substrates in April as a next-generation foundation for AI, high-performance computing, high-speed communications and photonics. As packages become larger and more complex, dimensional stability, signal quality, power efficiency and data movement become limiting factors.[^ats-glass]
 
@@ -152,7 +152,7 @@ First, FC-BGA is the package substrate that connects high-performance chips to t
 
 Second, silicon capacitors stabilize power inside the AI GPU / HBM package. Samsung Electro-Mechanics announced a roughly KRW 1.5 trillion silicon-capacitor supply contract with a large global customer in May 2026, and described the product as a component that improves power stability inside high-performance semiconductor packages such as AI-server GPUs and HBM.[^semco-sicap]
 
-The point is not "more MLCC content." The point is that Samsung Electro-Mechanics could be reclassified as **a substrate company with in-package power-integrity components**.
+The point is not "more MLCC content." The point is that Samsung Electro-Mechanics could be reclassified as <strong>a substrate company with in-package power-integrity components</strong>.
 
 ### 6.3 Daeduck, Isu Petasys, Simmtech, Korea Circuit and TLB
 
@@ -165,7 +165,7 @@ These names should not be lumped together too loosely.
 | Simmtech / TLB | Memory modules, SoCAMM, server PCB | AI revenue mix and margin proof |
 | Korea Circuit | SoCAMM and FC-BGA optionality | Qualification and actual revenue timing |
 
-The phrase "AI server exposure" is not enough. The evidence investors need is **direct supply, ASP uplift, long-term agreements and margin resilience**.
+The phrase "AI server exposure" is not enough. The evidence investors need is <strong>direct supply, ASP uplift, long-term agreements and margin resilience</strong>.
 
 ---
 
@@ -177,7 +177,7 @@ The positive signal is that investors are still willing to fund AI infrastructur
 
 The negative signal is concentration risk. Too much capital is gathering around a small number of mega AI and infrastructure companies. Private AI model spending eventually has to pass through public-market scrutiny, big-tech capex budgets or real revenue.
 
-So the 20VC takeaway is not "buy private AI exposure." It is: **AI risk appetite is alive, but the market will increasingly demand monetization and cash-flow proof.**
+So the 20VC takeaway is not "buy private AI exposure." It is: <strong>AI risk appetite is alive, but the market will increasingly demand monetization and cash-flow proof.</strong>
 
 ---
 
@@ -209,19 +209,19 @@ Entry discipline matters.
 
 The three videos combine into one sentence:
 
-**The AI trade is not over. It is moving down the stack.**
+<strong>The AI trade is not over. It is moving down the stack.</strong>
 
 2023-2025 was the GPU and HBM phase. From 2026 onward, the next layers are data movement, packaging, FC-BGA, Ethernet and optical links, power integrity, testing and data-center operating cost. NVIDIA remains the center. But the investor question is now: "which Korean bottleneck turns NVIDIA's revenue growth into its own earnings?"
 
 The current order is:
 
-1. **Memory core:** Samsung Electronics, SK Hynix
-2. **Package and power integrity:** Samsung Electro-Mechanics, Daeduck Electronics
-3. **High-speed PCB and modules:** Isu Petasys, Simmtech, Korea Circuit, TLB
-4. **Testing and sockets:** ISC, LEENO Industrial, TSE
-5. **Power and data-center operations:** power equipment and cooling infrastructure
+1. <strong>Memory core:</strong> Samsung Electronics, SK Hynix
+2. <strong>Package and power integrity:</strong> Samsung Electro-Mechanics, Daeduck Electronics
+3. <strong>High-speed PCB and modules:</strong> Isu Petasys, Simmtech, Korea Circuit, TLB
+4. <strong>Testing and sockets:</strong> ISC, LEENO Industrial, TSE
+5. <strong>Power and data-center operations:</strong> power equipment and cooling infrastructure
 
-The most important investment sentence is this: **AI performance competition is a data-movement-cost competition, and that cost translates into HBM, packaging, substrates, networking and power.**
+The most important investment sentence is this: <strong>AI performance competition is a data-movement-cost competition, and that cost translates into HBM, packaging, substrates, networking and power.</strong>
 
 If that spread is confirmed by turnover and foreign / institutional flow, FC-BGA and high-speed PCB should be treated as AI infrastructure bottlenecks, not just another theme.
 

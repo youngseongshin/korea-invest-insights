@@ -13,17 +13,17 @@ tags:
 slug: japan-ppi-shock-ust-term-premium-2026-05-15
 ---
 
-*Le marché parle de « Japon vendant des bons du Trésor ». Les prix à la production japonais ont surpris à la hausse, les probabilités de hausse de la BOJ ont augmenté, et le récit dominant veut que les capitaux japonais vendent leurs Treasuries pour rentrer au bercail. Ce récit n'est qu'à moitié exact. **Le vrai risque n'est pas « le Japon vendant ses Treasuries » mais « le Japon cessant de les acheter ».** Quand le plus grand détenteur étranger de Treasuries au monde arrête d'en accumuler, les prix baissent même sans vente. Et quand le rendement à 10 ans américain monte, le taux d'actualisation mondial monte avec lui — ce qui repricie chaque actif risqué, aux États-Unis comme en Corée.*
+*Le marché parle de « Japon vendant des bons du Trésor ». Les prix à la production japonais ont surpris à la hausse, les probabilités de hausse de la BOJ ont augmenté, et le récit dominant veut que les capitaux japonais vendent leurs Treasuries pour rentrer au bercail. Ce récit n'est qu'à moitié exact. <strong>Le vrai risque n'est pas « le Japon vendant ses Treasuries » mais « le Japon cessant de les acheter ».</strong> Quand le plus grand détenteur étranger de Treasuries au monde arrête d'en accumuler, les prix baissent même sans vente. Et quand le rendement à 10 ans américain monte, le taux d'actualisation mondial monte avec lui — ce qui repricie chaque actif risqué, aux États-Unis comme en Corée.*
 
 ---
 
 ## Points clés
 
-* **Le mécanisme en une ligne** : choc du PPI japonais → probabilité de hausse de la BOJ ↑ → rendement JGB ↑ + anticipations de renforcement du JPY ↑ → rendement post-couverture des Treasuries ↓ → demande marginale japonaise pour les UST ↓ → prime de terme des UST ↑ → taux d'actualisation mondial ↑.
-* **L'idée centrale** : il ne s'agit pas d'un « événement de vente », mais d'une **érosion de la demande marginale**. Le Japon n'a pas besoin de se délester quoi que ce soit. Ne pas rajouter suffit à faire baisser les prix (monter les rendements).
-* **Pourquoi c'est important** : le Japon est le **plus grand détenteur étranger de bons du Trésor américain au monde**, avec environ 1 130 milliards USD. Quand cette offre marginale s'affaiblit, l'équilibre offre-demande des UST se rompt.
-* **Effets de second ordre** : hausse du 10 ans américain → rééquilibrage du taux d'actualisation mondial → compression des multiples des grandes techs américaines → prime de risque des actions coréennes affectée.
-* **Points de surveillance** : réunions de politique monétaire de la BOJ, JGB à 10 ans, USD/JPY, langage des allocations d'actifs du GPIF et des assureurs-vie japonais, estimations de prime de terme à 10 ans de la Fed de New York.
+* <strong>Le mécanisme en une ligne</strong> : choc du PPI japonais → probabilité de hausse de la BOJ ↑ → rendement JGB ↑ + anticipations de renforcement du JPY ↑ → rendement post-couverture des Treasuries ↓ → demande marginale japonaise pour les UST ↓ → prime de terme des UST ↑ → taux d'actualisation mondial ↑.
+* <strong>L'idée centrale</strong> : il ne s'agit pas d'un « événement de vente », mais d'une <strong>érosion de la demande marginale</strong>. Le Japon n'a pas besoin de se délester quoi que ce soit. Ne pas rajouter suffit à faire baisser les prix (monter les rendements).
+* <strong>Pourquoi c'est important</strong> : le Japon est le <strong>plus grand détenteur étranger de bons du Trésor américain au monde</strong>, avec environ 1 130 milliards USD. Quand cette offre marginale s'affaiblit, l'équilibre offre-demande des UST se rompt.
+* <strong>Effets de second ordre</strong> : hausse du 10 ans américain → rééquilibrage du taux d'actualisation mondial → compression des multiples des grandes techs américaines → prime de risque des actions coréennes affectée.
+* <strong>Points de surveillance</strong> : réunions de politique monétaire de la BOJ, JGB à 10 ans, USD/JPY, langage des allocations d'actifs du GPIF et des assureurs-vie japonais, estimations de prime de terme à 10 ans de la Fed de New York.
 
 ---
 
@@ -71,7 +71,7 @@ Taux d'actualisation mondial rééquilibré
 Pression sur les valorisations des actifs risqués
 ```
 
-**Le point essentiel** : pas de « vente », mais **« nouveaux achats plus faibles »**. Même si le Japon ne vend jamais un seul Treasury, le simple ralentissement des additions fait baisser les prix des UST (monter les rendements).
+<strong>Le point essentiel</strong> : pas de « vente », mais <strong>« nouveaux achats plus faibles »</strong>. Même si le Japon ne vend jamais un seul Treasury, le simple ralentissement des additions fait baisser les prix des UST (monter les rendements).
 
 ---
 
@@ -353,9 +353,9 @@ Différences :
 
 | Indicateur | Pourquoi c'est important |
 | --- | --- |
-| **Décision de politique monétaire de la BOJ** | La prochaine réunion est cruciale. Le chemin est-il déjà intégré ? |
+| <strong>Décision de politique monétaire de la BOJ</strong> | La prochaine réunion est cruciale. Le chemin est-il déjà intégré ? |
 | PPI / CPI japonais | Inflation transitoire ou structurelle |
-| **Rendement JGB à 10 ans** | JGB plus élevé = attrait post-couverture des UST plus faible |
+| <strong>Rendement JGB à 10 ans</strong> | JGB plus élevé = attrait post-couverture des UST plus faible |
 | USD/JPY | La force du JPY alourdit le coût de couverture pour les investisseurs japonais |
 | Langage des allocations d'actifs du GPIF / assureurs-vie | Le vrai signal comportemental |
 
@@ -363,8 +363,8 @@ Différences :
 
 | Indicateur | Pourquoi c'est important |
 | --- | --- |
-| **Rendement américain à 10 ans** | La lecture la plus directe |
-| **Estimations de prime de terme de la Fed de New York** | Modèles ACM / KW — proche de 100 pb est dangereux |
+| <strong>Rendement américain à 10 ans</strong> | La lecture la plus directe |
+| <strong>Estimations de prime de terme de la Fed de New York</strong> | Modèles ACM / KW — proche de 100 pb est dangereux |
 | MOVE (volatilité des options UST) | Jauge de stress du marché obligataire |
 | Données TIC sur les avoirs étrangers | Données brutes sur les achats / ventes japonais (décalage de 2 mois) |
 
@@ -372,9 +372,9 @@ Différences :
 
 | Scénario | Rendement américain à 10 ans | Actions coréennes |
 | --- | --- | --- |
-| **A. Hausses graduelles de la BOJ + la demande américaine absorbe le manque** | Fourchette 4,0–4,5 % | Impact limité |
-| **B. La BOJ accélère + la prime de terme monte** | 4,5–5,0 % | Pression sur la croissance / les PER élevés |
-| **C. Des ventes japonaises effectives se matérialisent** | 5,0 %+ | Correction générale des actifs risqués |
+| <strong>A. Hausses graduelles de la BOJ + la demande américaine absorbe le manque</strong> | Fourchette 4,0–4,5 % | Impact limité |
+| <strong>B. La BOJ accélère + la prime de terme monte</strong> | 4,5–5,0 % | Pression sur la croissance / les PER élevés |
+| <strong>C. Des ventes japonaises effectives se matérialisent</strong> | 5,0 %+ | Correction générale des actifs risqués |
 
 Le scénario de base se situe entre A et B. C est peu probable mais à fort impact.
 
@@ -406,9 +406,9 @@ la concentration semi-conducteurs »
 
 ## 8. La conclusion en une ligne
 
-Le choc du PPI japonais n'est pas la « peur que le Japon vende ses bons du Trésor américain ». C'est **« la peur que le plus grand détenteur étranger au monde cesse d'en acheter »** — une érosion de la demande marginale.
+Le choc du PPI japonais n'est pas la « peur que le Japon vende ses bons du Trésor américain ». C'est <strong>« la peur que le plus grand détenteur étranger au monde cesse d'en acheter »</strong> — une érosion de la demande marginale.
 
-Il ne s'agit pas d'un événement de vente ; c'est un **glissement structurel de l'équilibre offre-demande**. Plus graduel, mais plus durable. Même sans vente, quand l'acheteur marginal disparaît, les prix baissent (les rendements montent). La prime de terme s'élargit, ce qui fait monter le 10 ans américain, ce qui réinitialise le taux d'actualisation mondial, ce qui se répercute sur chaque actif risqué.
+Il ne s'agit pas d'un événement de vente ; c'est un <strong>glissement structurel de l'équilibre offre-demande</strong>. Plus graduel, mais plus durable. Même sans vente, quand l'acheteur marginal disparaît, les prix baissent (les rendements montent). La prime de terme s'élargit, ce qui fait monter le 10 ans américain, ce qui réinitialise le taux d'actualisation mondial, ce qui se répercute sur chaque actif risqué.
 
 ```
 L'équation structurelle précise :
@@ -422,7 +422,7 @@ Choc du PPI japonais
 → Taux d'actualisation mondial ↑
 ```
 
-Ce qu'il faut réellement surveiller n'est pas « le Japon va-t-il vendre des Treasuries ? » mais **« où les assureurs-vie et fonds de pension japonais vont-ils allouer leurs nouveaux flux ? »** La réunion de la BOJ, le rendement des JGB et le langage du GPIF et des assureurs-vie — ces trois éléments constituent désormais le nouveau tableau de bord du taux d'actualisation mondial des actifs risqués.
+Ce qu'il faut réellement surveiller n'est pas « le Japon va-t-il vendre des Treasuries ? » mais <strong>« où les assureurs-vie et fonds de pension japonais vont-ils allouer leurs nouveaux flux ? »</strong> La réunion de la BOJ, le rendement des JGB et le langage du GPIF et des assureurs-vie — ces trois éléments constituent désormais le nouveau tableau de bord du taux d'actualisation mondial des actifs risqués.
 
 ---
 

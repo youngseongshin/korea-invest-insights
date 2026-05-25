@@ -7,9 +7,9 @@ categories: ["Why-Korea"]
 tags: ["Por qué Corea", "sustratos para semiconductores", "FC-BGA", "ABF", "infraestructura de IA", "manufactura coreana", "materiales japoneses", "fundición taiwanesa", "acciones coreanas", "PCB de IA"]
 ---
 
-> **Serie Por Qué Corea, Parte 1.** Esta es la capa estratégica detrás del [Hub de PCB y Sustratos para IA de Corea](/es/page/korea-ai-pcb-substrate-hub/). Léalo junto con [Tesis de PCB y Sustratos para IA](/es/post/ai-pcb-thesis-system-bom-common-bottleneck-2026-05-05/), [Ecosistema de PCB para IA en Corea: 10 Empresas](/es/post/korea-ai-pcb-ecosystem-ten-companies-2026-05-05/) y [Samsung Electro-Mechanics: Re-valoración en Infraestructura de IA](/es/post/samsung-electro-mechanics-ai-infrastructure-rerating-2026-04-21/).
+> <strong>Serie Por Qué Corea, Parte 1.</strong> Esta es la capa estratégica detrás del [Hub de PCB y Sustratos para IA de Corea](/es/page/korea-ai-pcb-substrate-hub/). Léalo junto con [Tesis de PCB y Sustratos para IA](/es/post/ai-pcb-thesis-system-bom-common-bottleneck-2026-05-05/), [Ecosistema de PCB para IA en Corea: 10 Empresas](/es/post/korea-ai-pcb-ecosystem-ten-companies-2026-05-05/) y [Samsung Electro-Mechanics: Re-valoración en Infraestructura de IA](/es/post/samsung-electro-mechanics-ai-infrastructure-rerating-2026-04-21/).
 
-Hay una pregunta latente en el trabajo de sustratos de IA coreanos que merece su propio análisis: **¿por qué Corea tiene tantas empresas cotizadas de sustratos y PCB adyacentes en primer lugar?**
+Hay una pregunta latente en el trabajo de sustratos de IA coreanos que merece su propio análisis: <strong>¿por qué Corea tiene tantas empresas cotizadas de sustratos y PCB adyacentes en primer lugar?</strong>
 
 EE. UU. tiene Nvidia, AMD, Broadcom, Apple, Qualcomm, Synopsys, Cadence, Applied Materials, Lam Research y KLA. Europa tiene ASML, Infineon, STMicroelectronics, NXP y empresas especializadas en materiales. Pero cuando un inversor busca fabricantes comerciales de sustratos para semiconductores a gran escala, el mapa se inclina rápidamente hacia Japón, Taiwán y Corea.
 
@@ -113,7 +113,7 @@ Europa es algo diferente, pero la conclusión es similar. Europa tiene AT&S, y A
 
 La fortaleza de Japón en sustratos comienza con los materiales.
 
-La palabra clave es **ABF**, la Película de Construcción de Ajinomoto. ABF es una película aislante entre capas utilizada en sustratos de encapsulado de alto rendimiento. La historia oficial de innovación de Ajinomoto describe ABF como un material estándar para CPU de alto rendimiento, adoptado por primera vez por un importante fabricante de semiconductores en 1999, y desarrollado a partir de la experiencia en química fina de la empresa.
+La palabra clave es <strong>ABF</strong>, la Película de Construcción de Ajinomoto. ABF es una película aislante entre capas utilizada en sustratos de encapsulado de alto rendimiento. La historia oficial de innovación de Ajinomoto describe ABF como un material estándar para CPU de alto rendimiento, adoptado por primera vez por un importante fabricante de semiconductores en 1999, y desarrollado a partir de la experiencia en química fina de la empresa.
 
 Eso importa porque el sustrato no es solo cableado de cobre. El material aislante entre las capas determina cuán finos pueden ser los circuitos, cuán estable es la estructura y cómo se comporta el sustrato bajo el calor y el estrés.
 
@@ -242,7 +242,7 @@ Primero, Corea no es el número uno en todas las capas. Los sustratos de memoria
 
 Segundo, EE. UU. y Europa no están ausentes de forma permanente. La financiación de CHIPS, los programas de empaquetado avanzado, los sustratos de vidrio y las inversiones en empaquetado de HBM son intentos explícitos de reconstruir las piezas faltantes del ecosistema. El horizonte temporal es de años, no de trimestres, pero la dirección es real.
 
-La conclusión correcta no es "Asia posee los sustratos para siempre." La conclusión correcta es: **la ventaja actual en sustratos es el producto de décadas de aprendizaje productivo acumulado, y eso la hace lo suficientemente duradera como para importar en este ciclo de IA.**
+La conclusión correcta no es "Asia posee los sustratos para siempre." La conclusión correcta es: <strong>la ventaja actual en sustratos es el producto de décadas de aprendizaje productivo acumulado, y eso la hace lo suficientemente duradera como para importar en este ciclo de IA.</strong>
 
 ---
 

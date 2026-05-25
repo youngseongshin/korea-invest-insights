@@ -14,7 +14,7 @@ tags:
 slug: samsung-electronics-tsmc-rerating-thesis-2026-05-16
 ---
 
-> 📚 **三星电子系列**
+> 📚 <strong>三星电子系列</strong>
 > 第1篇：[Citi目标价46万韩元——为什么内存周期框架可能错了](/zh/post/samsung-electronics-citi-tp-460000-memory-rerating-2026-05-11/)
 > 第2篇：[罢工与内存超级周期——真正的问题是谁获得超额利润](/zh/post/samsung-electronics-strike-vs-memory-supercycle-2026-05-15/)
 > 相关枢纽：[AI HBM Hub](/zh/page/korea-semiconductor-hbm-kospi-hub/) · [Memory Pulse Dashboard](https://memory.koreainvestinsights.com/)

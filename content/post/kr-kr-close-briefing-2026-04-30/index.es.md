@@ -20,12 +20,12 @@ La última sesión de abril en la bolsa coreana terminó con un sabor agridulce.
 
 El rasgo más llamativo de esta sesión fue la bifurcación interna del mercado. Mientras los índices amplios caían, ciertos sectores se comportaron como si el entorno fuera otro.
 
-**Sectores con fortaleza relativa:**
-- **Energía eléctrica, cables y transformadores**: El único breakout operativo del día fue protagonizado por Sanil Electric (산일전기), fabricante de transformadores de potencia, que registró un volumen 3,8 veces superior a su media con una fuerza relativa de 96,0 sobre 100. La demanda estructural de infraestructura eléctrica para centros de datos de IA sigue siendo el catalizador de fondo.
-- **Astilleros**: Hanwha Engine (082740.KS), fabricante de motores para buques, acumuló una revalorización del 25% en los últimos cinco días de negociación. La demanda global de nuevos buques —impulsada por la transición energética y el ciclo de reposición de flota— sostiene el tono positivo del sector.
-- **Semiconductores de memoria avanzada (HBM)**: Hanmi Semiconductor (한미반도체), proveedor clave de equipos para el ensamblaje de HBM (*High Bandwidth Memory*), mantuvo su fuerza relativa en 96,9, reflejando el impacto positivo de los resultados y el aumento de gasto en IA de Alphabet, Amazon, Microsoft y Meta.
+<strong>Sectores con fortaleza relativa:</strong>
+- <strong>Energía eléctrica, cables y transformadores</strong>: El único breakout operativo del día fue protagonizado por Sanil Electric (산일전기), fabricante de transformadores de potencia, que registró un volumen 3,8 veces superior a su media con una fuerza relativa de 96,0 sobre 100. La demanda estructural de infraestructura eléctrica para centros de datos de IA sigue siendo el catalizador de fondo.
+- <strong>Astilleros</strong>: Hanwha Engine (082740.KS), fabricante de motores para buques, acumuló una revalorización del 25% en los últimos cinco días de negociación. La demanda global de nuevos buques —impulsada por la transición energética y el ciclo de reposición de flota— sostiene el tono positivo del sector.
+- <strong>Semiconductores de memoria avanzada (HBM)</strong>: Hanmi Semiconductor (한미반도체), proveedor clave de equipos para el ensamblaje de HBM (*High Bandwidth Memory*), mantuvo su fuerza relativa en 96,9, reflejando el impacto positivo de los resultados y el aumento de gasto en IA de Alphabet, Amazon, Microsoft y Meta.
 
-**Sectores bajo presión:**
+<strong>Sectores bajo presión:</strong>
 - Biotecnología y valores de pequeña capitalización sufrieron el mayor castigo en una sesión de aversión al riesgo.
 - Valores con guías de beneficios inciertas tras la temporada de resultados también cedieron terreno de forma notable.
 
@@ -55,13 +55,13 @@ Sin embargo, el mismo aumento de *CapEx* genera tensión en los mercados: más i
 
 Más allá de las posiciones establecidas, el escáner de mercado identificó varias situaciones de interés para inversores con horizonte de medio plazo:
 
-- **Sanil Electric (산일전기)**: El único breakout real de la jornada en el universo de valores en tendencia. Fuerza relativa de 96,0 y volumen 3,8 veces la media. El contexto es claro: la demanda de transformadores de alta potencia para centros de datos e infraestructura de red eléctrica no tiene visos de enfriarse. Tras una subida cercana al 20% en el día, la táctica habitual es esperar una corrección a soporte antes de evaluar entrada.
+- <strong>Sanil Electric (산일전기)</strong>: El único breakout real de la jornada en el universo de valores en tendencia. Fuerza relativa de 96,0 y volumen 3,8 veces la media. El contexto es claro: la demanda de transformadores de alta potencia para centros de datos e infraestructura de red eléctrica no tiene visos de enfriarse. Tras una subida cercana al 20% en el día, la táctica habitual es esperar una corrección a soporte antes de evaluar entrada.
 
-- **Hanmi Semiconductor (한미반도체)**: Fuerza relativa de 96,9 y líder del segmento de equipos para HBM. Con los grandes fabricantes de chips comprometidos a expandir capacidad de HBM hasta 2027, el ciclo de pedidos de equipamiento aún tiene recorrido. El riesgo es la posible redundancia si el inversor ya tiene exposición a Samsung Electronics o SK Hynix.
+- <strong>Hanmi Semiconductor (한미반도체)</strong>: Fuerza relativa de 96,9 y líder del segmento de equipos para HBM. Con los grandes fabricantes de chips comprometidos a expandir capacidad de HBM hasta 2027, el ciclo de pedidos de equipamiento aún tiene recorrido. El riesgo es la posible redundancia si el inversor ya tiene exposición a Samsung Electronics o SK Hynix.
 
-- **SK Square (SK스퀘어)**: Holding cotizado con exposición indirecta a SK Hynix —cuya calificación crediticia fue elevada recientemente— y otros activos tecnológicos. Fuerza relativa de 98,8. Para inversores que buscan exposición al ciclo de semiconductores con estructura de capital más compleja y potencial de revalorización de activos.
+- <strong>SK Square (SK스퀘어)</strong>: Holding cotizado con exposición indirecta a SK Hynix —cuya calificación crediticia fue elevada recientemente— y otros activos tecnológicos. Fuerza relativa de 98,8. Para inversores que buscan exposición al ciclo de semiconductores con estructura de capital más compleja y potencial de revalorización de activos.
 
-- **Hyosung Heavy Industries (효성중공업)**: Líder en equipos eléctricos de potencia, fuerza relativa de 98,1. Comparte el viento de cola con Sanil Electric en la temática de infraestructura eléctrica.
+- <strong>Hyosung Heavy Industries (효성중공업)</strong>: Líder en equipos eléctricos de potencia, fuerza relativa de 98,1. Comparte el viento de cola con Sanil Electric en la temática de infraestructura eléctrica.
 
 ---
 
@@ -69,11 +69,11 @@ Más allá de las posiciones establecidas, el escáner de mercado identificó va
 
 Tres vectores macro dominaron el sentimiento de la sesión y seguirán siendo relevantes en las próximas jornadas:
 
-1. **Tensiones en el estrecho de Ormuz**: Cualquier escalada en Oriente Medio impacta directamente en el precio del petróleo, lo que afecta tanto a los costes de producción industrial en Corea como al apetito de riesgo global. Corea del Sur, economía importadora neta de energía, es especialmente sensible a este canal.
+1. <strong>Tensiones en el estrecho de Ormuz</strong>: Cualquier escalada en Oriente Medio impacta directamente en el precio del petróleo, lo que afecta tanto a los costes de producción industrial en Corea como al apetito de riesgo global. Corea del Sur, economía importadora neta de energía, es especialmente sensible a este canal.
 
-2. **Precio del petróleo**: Correlacionado con el punto anterior, la volatilidad del crudo presiona los márgenes de empresas manufactureras y refuerza el atractivo relativo de valores relacionados con energía renovable e infraestructura eléctrica.
+2. <strong>Precio del petróleo</strong>: Correlacionado con el punto anterior, la volatilidad del crudo presiona los márgenes de empresas manufactureras y refuerza el atractivo relativo de valores relacionados con energía renovable e infraestructura eléctrica.
 
-3. **Independencia de la Fed**: Las especulaciones sobre presiones políticas sobre la política monetaria estadounidense generan incertidumbre sobre el camino de los tipos de interés, con efecto directo sobre la tasa de descuento de los activos de riesgo globales —incluido el KOSPI.
+3. <strong>Independencia de la Fed</strong>: Las especulaciones sobre presiones políticas sobre la política monetaria estadounidense generan incertidumbre sobre el camino de los tipos de interés, con efecto directo sobre la tasa de descuento de los activos de riesgo globales —incluido el KOSPI.
 
 ---
 

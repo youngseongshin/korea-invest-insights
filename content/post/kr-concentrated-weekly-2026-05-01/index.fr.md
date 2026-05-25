@@ -10,9 +10,9 @@ draft: false
 
 ## « Sell in May » sur le KOSPI : mythe saisonnier ou signal réel en 2026 ?
 
-Le dicton boursier « Sell in May and go away » revient chaque année. Sur le KOSPI — l'indice de référence sud-coréen regroupant environ 800 sociétés cotées — mai 2026 mérite une lecture plus fine que la simple saisonnalité. La vraie question n'est pas de savoir si l'on doit vendre, mais **quoi** vendre, et **vers quoi** pivoter.
+Le dicton boursier « Sell in May and go away » revient chaque année. Sur le KOSPI — l'indice de référence sud-coréen regroupant environ 800 sociétés cotées — mai 2026 mérite une lecture plus fine que la simple saisonnalité. La vraie question n'est pas de savoir si l'on doit vendre, mais <strong>quoi</strong> vendre, et <strong>vers quoi</strong> pivoter.
 
-La thèse centrale de ce mois : mai n'est pas un mois de retrait général, c'est un mois de **rotation** — sortir des gagnants surchauffés du cycle d'infrastructure IA pour entrer prudemment dans des proxies secondaires moins valorisés.
+La thèse centrale de ce mois : mai n'est pas un mois de retrait général, c'est un mois de <strong>rotation</strong> — sortir des gagnants surchauffés du cycle d'infrastructure IA pour entrer prudemment dans des proxies secondaires moins valorisés.
 
 ---
 
@@ -42,8 +42,8 @@ Des groupes comme Hanwha Engine (012450.KS), spécialiste des systèmes de propu
 
 Les chiffres provisoires des exportations sud-coréennes de fin avril 2026 confirment que le cycle matériel IA est loin d'être terminé :
 
-- **SSD** : +715 % en glissement annuel
-- **Ordinateurs et électronique grand public** : +242 % en glissement annuel
+- <strong>SSD</strong> : +715 % en glissement annuel
+- <strong>Ordinateurs et électronique grand public</strong> : +242 % en glissement annuel
 
 Ces chiffres, publiés par les douanes coréennes (Korea Customs Service), signalent une demande réelle et non spéculative. Réduire drastiquement son exposition aux semiconducteurs coréens sur la seule base de la saisonnalité, face à de telles données fondamentales, serait une erreur de positionnement.
 
@@ -82,9 +82,9 @@ Certaines positions méritent une surveillance accrue — non pas une liquidatio
 Pamicell est un fabricant coréen spécialisé dans les matériaux fonctionnels, notamment les CCL (Copper Clad Laminates) utilisés dans les substrats de packaging avancé pour puces IA. La société est positionnée comme fournisseur indirect dans la chaîne d'approvisionnement de Doosan Electro-Materials (336370.KS), elle-même exposée aux commandes des géants des centres de données.
 
 Catalyseurs à surveiller en mai :
-- **Résultat opérationnel du T1 2026** : le seuil de 14 milliards de KRW serait un signal de franchissement de rentabilité
-- **Contrat de suivi avec Doosan** : confirmation d'un deuxième cycle de commandes
-- **Franchissement des 20 000 KRW** avec volume significatif
+- <strong>Résultat opérationnel du T1 2026</strong> : le seuil de 14 milliards de KRW serait un signal de franchissement de rentabilité
+- <strong>Contrat de suivi avec Doosan</strong> : confirmation d'un deuxième cycle de commandes
+- <strong>Franchissement des 20 000 KRW</strong> avec volume significatif
 
 Avant validation de ces trois points, toute exposition doit rester limitée à moins de 1 % d'un portefeuille diversifié.
 
@@ -98,19 +98,19 @@ Exposition suggérée en phase d'entrée : 0,5 % à 1 % maximum, à consolider u
 
 ## Scénarios de risque pour mai 2026
 
-**Scénario central (rotation normale)** : les semiconducteurs et les valeurs électriques alternent en tête du marché, le KOSPI reste en territoire positif. Stratégie : maintenir le cœur de portefeuille, entrer prudemment sur Pamicell et Daeduck.
+<strong>Scénario central (rotation normale)</strong> : les semiconducteurs et les valeurs électriques alternent en tête du marché, le KOSPI reste en territoire positif. Stratégie : maintenir le cœur de portefeuille, entrer prudemment sur Pamicell et Daeduck.
 
-**Scénario de correction des gagnants** : Hanwha Engine, Samsung Electro-Mechanics et les valeurs électriques corrigent de 5 à 10 % sans dégradation fondamentale. Stratégie : profiter des replis pour renforcer les proxies secondaires, ne pas couper les positions cœur.
+<strong>Scénario de correction des gagnants</strong> : Hanwha Engine, Samsung Electro-Mechanics et les valeurs électriques corrigent de 5 à 10 % sans dégradation fondamentale. Stratégie : profiter des replis pour renforcer les proxies secondaires, ne pas couper les positions cœur.
 
-**Scénario de choc capex IA** : un ou plusieurs hyperscalers annoncent une révision à la baisse de leurs plans d'investissement. Ensemble du secteur — semiconducteurs, électrique, PCB — en repli simultané. Stratégie : gel des achats, remontée du cash au-dessus de 7 %, réduction des positions les moins visibles sur les résultats.
+<strong>Scénario de choc capex IA</strong> : un ou plusieurs hyperscalers annoncent une révision à la baisse de leurs plans d'investissement. Ensemble du secteur — semiconducteurs, électrique, PCB — en repli simultané. Stratégie : gel des achats, remontée du cash au-dessus de 7 %, réduction des positions les moins visibles sur les résultats.
 
-**Scénario macro (pétrole + taux + KRW)** : choc simultané sur le Brent, les taux longs américains et le won coréen, avec ventes nettes des étrangers sur le KOSPI. Stratégie : priorité à la préservation du capital, seules les positions cœur comme Samsung Electronics (005930.KS) sont maintenues intégralement.
+<strong>Scénario macro (pétrole + taux + KRW)</strong> : choc simultané sur le Brent, les taux longs américains et le won coréen, avec ventes nettes des étrangers sur le KOSPI. Stratégie : priorité à la préservation du capital, seules les positions cœur comme Samsung Electronics (005930.KS) sont maintenues intégralement.
 
 ---
 
 ## Conclusion : mai 2026, une question de rythme
 
-Le vrai message de mai 2026 sur le KOSPI n'est pas « vendez tout ». C'est : **ralentissez là où vous avez déjà gagné, accélérez prudemment là où le marché n'a pas encore regardé**.
+Le vrai message de mai 2026 sur le KOSPI n'est pas « vendez tout ». C'est : <strong>ralentissez là où vous avez déjà gagné, accélérez prudemment là où le marché n'a pas encore regardé</strong>.
 
 Les données d'exportation coréennes, les guidances des grandes maisons de recherche institutionnelles et la solidité du cycle matériel IA plaident pour maintenir une exposition significative. Mais la surchauffe de certains gagnants du premier trimestre, combinée aux risques macro (pétrole, taux, dollar), justifie une gestion active des pondérations plutôt qu'une stratégie buy-and-hold passive.
 

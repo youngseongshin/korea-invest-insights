@@ -21,7 +21,7 @@ series: ["pearl-abyss-crimson-desert-thesis"]
 draft: false
 ---
 
-> 📚 **Serie 6/6**: [Pearl Abyss × Crimson Desert Thesis — hub de la serie →](/series/pearl-abyss-crimson-desert-thesis/)
+> 📚 <strong>Serie 6/6</strong>: [Pearl Abyss × Crimson Desert Thesis — hub de la serie →](/series/pearl-abyss-crimson-desert-thesis/)
 
 *Sexta entrega de la serie. Anteriores: [hito de 5M y re-valoración](/post/pearl-abyss-crimson-desert-5m-franchise-thesis-2026-04-15/), [brecha en el consenso del sell-side](/post/pearl-abyss-crimson-desert-consensus-gap-thesis-2026-04-18/), [tesis inicial](/post/pearl-abyss-investment-thesis-crimson-desert-q1-2026/), [catalizador de segundo orden de BDO](/post/pearl-abyss-black-desert-online-resurgence-2026-04-19/), y [preview de resultados 1T26](/post/pearl-abyss-1q26-earnings-preview-2026-04-21/). Esta entrega es la lectura de microestructura intradía: ¿qué dijo realmente la cinta del 21 de abril sobre quién tiene el control?*
 
@@ -29,11 +29,11 @@ draft: false
 
 ## Resumen ejecutivo
 
-Los cortos descargaron 64.362 acciones y aun así no lograron que el cierre quedara por debajo del precio promedio de venta corta del día. El precio promedio corto fue de KRW **54.245**; Pearl Abyss cerró a KRW **54.400**. Cada posición corta abierta hoy está bajo el agua al cierre.
+Los cortos descargaron 64.362 acciones y aun así no lograron que el cierre quedara por debajo del precio promedio de venta corta del día. El precio promedio corto fue de KRW <strong>54.245</strong>; Pearl Abyss cerró a KRW <strong>54.400</strong>. Cada posición corta abierta hoy está bajo el agua al cierre.
 
-Extranjeros (+28.741) e instituciones (+7.960) compraron la cinta — un neto de **+36.701 acciones** absorbidas frente al flujo corto. La sesión registró una recuperación desde mínimos al cierre de **53.300 → 54.400**, un +2,06% desde el mínimo. En una frase: lo vendieron, y no se rompió.
+Extranjeros (+28.741) e instituciones (+7.960) compraron la cinta — un neto de <strong>+36.701 acciones</strong> absorbidas frente al flujo corto. La sesión registró una recuperación desde mínimos al cierre de <strong>53.300 → 54.400</strong>, un +2,06% desde el mínimo. En una frase: lo vendieron, y no se rompió.
 
-La historia del flujo importa más que el día en sí. El volumen corto alcanzó su pico el **16 de abril con 298.379 acciones** y ha colapsado desde entonces: 100.764 → 86.097 → **64.362**. **Caída del -78,4%** desde el pico en cuatro sesiones. Los cortos siguen apareciendo — pero cuanto más aprietan, menos se mueve el precio.
+La historia del flujo importa más que el día en sí. El volumen corto alcanzó su pico el <strong>16 de abril con 298.379 acciones</strong> y ha colapsado desde entonces: 100.764 → 86.097 → <strong>64.362</strong>. <strong>Caída del -78,4%</strong> desde el pico en cuatro sesiones. Los cortos siguen apareciendo — pero cuanto más aprietan, menos se mueve el precio.
 
 ---
 
@@ -41,21 +41,21 @@ La historia del flujo importa más que el día en sí. El volumen corto alcanzó
 
 ### 1.1 Precio y flujo
 
-- Cierre: **KRW 54.400**
-- Variación diaria: **+0,74%**
-- Apertura / Máximo / Mínimo: **KRW 53.700 / 55.100 / 53.300**
-- Compra neta extranjera: **+28.741 acciones**
-- Compra neta institucional: **+7.960 acciones**
-- Neto extranjeros + instituciones: **+36.701 acciones**
+- Cierre: <strong>KRW 54.400</strong>
+- Variación diaria: <strong>+0,74%</strong>
+- Apertura / Máximo / Mínimo: <strong>KRW 53.700 / 55.100 / 53.300</strong>
+- Compra neta extranjera: <strong>+28.741 acciones</strong>
+- Compra neta institucional: <strong>+7.960 acciones</strong>
+- Neto extranjeros + instituciones: <strong>+36.701 acciones</strong>
 
 ### 1.2 Datos de venta en corto
 
-- Volumen corto: **64.362 acciones**
-- Facturación de ventas cortas: **KRW 3.491.300.350**
-- Aplicación de regla uptick: **55.369 acciones**
-- Exento de regla uptick: **8.993 acciones**
-- Ratio exento de uptick: **14,0%**
-- Precio promedio corto: **KRW 54.245**
+- Volumen corto: <strong>64.362 acciones</strong>
+- Facturación de ventas cortas: <strong>KRW 3.491.300.350</strong>
+- Aplicación de regla uptick: <strong>55.369 acciones</strong>
+- Exento de regla uptick: <strong>8.993 acciones</strong>
+- Ratio exento de uptick: <strong>14,0%</strong>
+- Precio promedio corto: <strong>KRW 54.245</strong>
 
 ### 1.3 La aritmética
 
@@ -71,7 +71,7 @@ Cierre vs. promedio corto:
 54.400 − 54.245 = +155 KRW
 ```
 
-Cada acción vendida en corto hoy está **KRW 155 bajo el agua al cierre**.
+Cada acción vendida en corto hoy está <strong>KRW 155 bajo el agua al cierre</strong>.
 
 ---
 
@@ -79,13 +79,13 @@ Cada acción vendida en corto hoy está **KRW 155 bajo el agua al cierre**.
 
 ### 2.1 Este no fue un día de "cortos fuertes" — fue un día de "cortos que aparecieron débilmente"
 
-64.362 acciones no es cero — pero comparado con los días de presión corta de entre 100k y 300k que Pearl Abyss ha visto recientemente, la intensidad de hoy es un peldaño más suave. Lo que importa más que el tamaño es el **resultado**:
+64.362 acciones no es cero — pero comparado con los días de presión corta de entre 100k y 300k que Pearl Abyss ha visto recientemente, la intensidad de hoy es un peldaño más suave. Lo que importa más que el tamaño es el <strong>resultado</strong>:
 
-- Promedio corto: **KRW 54.245**
-- Cierre: **KRW 54.400**
-- Resultado: **cierre por encima del promedio corto**
+- Promedio corto: <strong>KRW 54.245</strong>
+- Cierre: <strong>KRW 54.400</strong>
+- Resultado: <strong>cierre por encima del promedio corto</strong>
 
-Traducción: **los cortos ejecutaron sus órdenes, pero no pudieron arrastrar el cierre por debajo de su propio promedio.** Los cortos de hoy se leen como **presión secundaria durante un retroceso**, no como el motor principal de la dirección.
+Traducción: <strong>los cortos ejecutaron sus órdenes, pero no pudieron arrastrar el cierre por debajo de su propio promedio.</strong> Los cortos de hoy se leen como <strong>presión secundaria durante un retroceso</strong>, no como el motor principal de la dirección.
 
 ### 2.2 La acción del precio habló más alto que la cinta corta
 
@@ -95,19 +95,19 @@ Trayectoria intradía:
 Apertura 53.700 → Mínimo 53.300 → Cierre 54.400
 ```
 
-Recuperación desde mínimos al cierre: **+KRW 1.100**, es decir, **+2,06%**:
+Recuperación desde mínimos al cierre: <strong>+KRW 1.100</strong>, es decir, <strong>+2,06%</strong>:
 
 ```
 (54.400 − 53.300) ÷ 53.300 = 2,06%
 ```
 
-Más el neto combinado de extranjeros e instituciones de **+36.701 acciones**. El mensaje es claro:
+Más el neto combinado de extranjeros e instituciones de <strong>+36.701 acciones</strong>. El mensaje es claro:
 
-> **La absorción superó la venta y la presión corta combinadas.**
+> <strong>La absorción superó la venta y la presión corta combinadas.</strong>
 
 ### 2.3 La proporción exenta de uptick luce transaccional, no táctica
 
-El ratio exento de uptick del 14,0% de hoy es bajo en comparación con los estándares de días de alta presión recientes. El perfil se lee como **operativa de trading o cobertura**, no como una ofensiva coordinada.
+El ratio exento de uptick del 14,0% de hoy es bajo en comparación con los estándares de días de alta presión recientes. El perfil se lee como <strong>operativa de trading o cobertura</strong>, no como una ofensiva coordinada.
 
 ---
 
@@ -147,7 +147,7 @@ Trayectoria del volumen corto:
 4/21  64.362
 ```
 
-La clave está en que **el 4/16 fue el pico corto**. La secuencia desde entonces:
+La clave está en que <strong>el 4/16 fue el pico corto</strong>. La secuencia desde entonces:
 
 ```
 298.379 → 100.764 → 86.097 → 64.362
@@ -160,15 +160,15 @@ Caída desde el pico:
 %  = 234.017 ÷ 298.379 = 78,4%
 ```
 
-Interpretar la cinta reciente como **"los cortos están re-acelerando"** es un error. La lectura correcta es **"la intensidad corta se está enfriando rápidamente tras la ofensiva del 16 de abril."**
+Interpretar la cinta reciente como <strong>"los cortos están re-acelerando"</strong> es un error. La lectura correcta es <strong>"la intensidad corta se está enfriando rápidamente tras la ofensiva del 16 de abril."</strong>
 
 ### 4.2 Días de alto volumen corto y días en que los cortos ganaron no son lo mismo
 
-- **4/13**: 266.406 cortos, cierre **por encima** del promedio corto del día.
-- **4/16**: 298.379 cortos, cierre **por debajo** del promedio corto del día.
-- **4/21**: 64.362 cortos, cierre **por encima** del promedio corto del día.
+- <strong>4/13</strong>: 266.406 cortos, cierre <strong>por encima</strong> del promedio corto del día.
+- <strong>4/16</strong>: 298.379 cortos, cierre <strong>por debajo</strong> del promedio corto del día.
+- <strong>4/21</strong>: 64.362 cortos, cierre <strong>por encima</strong> del promedio corto del día.
 
-De las últimas 10 sesiones, la única en que los vendedores en corto ganaron realmente fue el **4/16**. Hoy es lo contrario — **participaron, pero el resultado fue débil**. "Flujo corto presente" y "ventaja corta" no son sinónimos.
+De las últimas 10 sesiones, la única en que los vendedores en corto ganaron realmente fue el <strong>4/16</strong>. Hoy es lo contrario — <strong>participaron, pero el resultado fue débil</strong>. "Flujo corto presente" y "ventaja corta" no son sinónimos.
 
 ### 4.3 La posición corta neta sigue elevada, pero no está en re-acumulación sostenida
 
@@ -183,13 +183,13 @@ De las últimas 10 sesiones, la única en que los vendedores en corto ganaron re
 4/17  1.876.700
 ```
 
-La posición escaló del 4/8 al 4/16. Pero **el 4/17 bajó 35.758 acciones**:
+La posición escaló del 4/8 al 4/16. Pero <strong>el 4/17 bajó 35.758 acciones</strong>:
 
 ```
 1.912.458 − 1.876.700 = 35.758 acciones de descenso
 ```
 
-El nivel sigue elevado. Pero no hay datos suficientes para declarar **"re-acumulación estructural corta confirmada."** Hoy es una **zona de disputa con posición alta** — ni una resolución limpia de tendencia bajista ni una toma de control limpia por parte de los cortos.
+El nivel sigue elevado. Pero no hay datos suficientes para declarar <strong>"re-acumulación estructural corta confirmada."</strong> Hoy es una <strong>zona de disputa con posición alta</strong> — ni una resolución limpia de tendencia bajista ni una toma de control limpia por parte de los cortos.
 
 ---
 
@@ -197,20 +197,20 @@ El nivel sigue elevado. Pero no hay datos suficientes para declarar **"re-acumul
 
 ### Veredicto en una línea
 
-**Hoy no fue un día en que los cortos marcaran la dirección. Fue un día en que la compra extranjera e institucional y la recuperación desde mínimos al cierre drenaron la eficacia corta.**
+<strong>Hoy no fue un día en que los cortos marcaran la dirección. Fue un día en que la compra extranjera e institucional y la recuperación desde mínimos al cierre drenaron la eficacia corta.</strong>
 
 ### Por qué
 
-1. El volumen corto de hoy (**64.362**) es bajo en relación con los picos recientes.
-2. El cierre de **KRW 54.400** está por encima del promedio corto de **KRW 54.245** — los nuevos cortos están bajo el agua.
-3. Soporte de flujo: extranjeros **+28.741**, instituciones **+7.960**.
-4. Recuperación del mínimo intradía **KRW 53.300** al cierre **KRW 54.400**.
+1. El volumen corto de hoy (<strong>64.362</strong>) es bajo en relación con los picos recientes.
+2. El cierre de <strong>KRW 54.400</strong> está por encima del promedio corto de <strong>KRW 54.245</strong> — los nuevos cortos están bajo el agua.
+3. Soporte de flujo: extranjeros <strong>+28.741</strong>, instituciones <strong>+7.960</strong>.
+4. Recuperación del mínimo intradía <strong>KRW 53.300</strong> al cierre <strong>KRW 54.400</strong>.
 
 ### En qué tipo de zona estamos
 
-> **El alza aún no está desbloqueada, pero el control del lado bajista está cediendo — una zona de redefinición de rango.**
+> <strong>El alza aún no está desbloqueada, pero el control del lado bajista está cediendo — una zona de redefinición de rango.</strong>
 
-"Ventaja larga clara" es prematuro. "Ventaja corta" es la lectura equivocada. **Neutral con un ligero sesgo positivo** es la descripción honesta.
+"Ventaja larga clara" es prematuro. "Ventaja corta" es la lectura equivocada. <strong>Neutral con un ligero sesgo positivo</strong> es la descripción honesta.
 
 ---
 
@@ -218,25 +218,25 @@ El nivel sigue elevado. Pero no hay datos suficientes para declarar **"re-acumul
 
 ### 6.1 Confirmar un giro alcista
 
-1. Ruptura del máximo intradía de **KRW 55.100**.
-2. Extranjeros e instituciones con **2-3 días consecutivos de compra neta**.
-3. Volumen corto manteniéndose deprimido **por debajo de 100k**.
+1. Ruptura del máximo intradía de <strong>KRW 55.100</strong>.
+2. Extranjeros e instituciones con <strong>2-3 días consecutivos de compra neta</strong>.
+3. Volumen corto manteniéndose deprimido <strong>por debajo de 100k</strong>.
 
 ### 6.2 Revertir la lectura a bajista si se cumplen los tres:
 
 1. El volumen corto vuelve a acelerar.
-2. La posición corta neta rompe de nuevo por encima de **1,91M**.
-3. Cierre por debajo del promedio corto del día **durante sesiones consecutivas**.
+2. La posición corta neta rompe de nuevo por encima de <strong>1,91M</strong>.
+3. Cierre por debajo del promedio corto del día <strong>durante sesiones consecutivas</strong>.
 
 ---
 
 ## 7. Nota final
 
-Pearl Abyss sigue siendo un valor con cortos activos en el libro. Eso sigue siendo cierto. Pero los datos recientes muestran **una eficacia corta en decadencia**, no una presión corta fortaleciéndose. Hoy concretamente: **volumen corto a la baja + cierre por encima del promedio corto + co-compra extranjera e institucional + recuperación desde mínimos al cierre** — los cuatro indicadores alineados.
+Pearl Abyss sigue siendo un valor con cortos activos en el libro. Eso sigue siendo cierto. Pero los datos recientes muestran <strong>una eficacia corta en decadencia</strong>, no una presión corta fortaleciéndose. Hoy concretamente: <strong>volumen corto a la baja + cierre por encima del promedio corto + co-compra extranjera e institucional + recuperación desde mínimos al cierre</strong> — los cuatro indicadores alineados.
 
 Resumen más claro posible:
 
-> **Los cortos siguen en el valor, pero su poder para fijar el precio está cediendo. Hoy no fue ventaja corta — hoy fue absorción compradora de la presión corta.**
+> <strong>Los cortos siguen en el valor, pero su poder para fijar el precio está cediendo. Hoy no fue ventaja corta — hoy fue absorción compradora de la presión corta.</strong>
 
 ---
 

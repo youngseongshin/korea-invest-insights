@@ -25,20 +25,20 @@ valley_cashtags:
   - 오이솔루션
 ---
 
-> 📚 **US-China Decoupling Follow-Up Series**
+> 📚 <strong>US-China Decoupling Follow-Up Series</strong>
 > [US-China Summit Decoupling Analysis](/post/us-china-summit-tech-decoupling-korea-impact-2026-05-17/) / [NVIDIA Korea 2nd–3rd Tier Value Chain](/post/nvidia-earnings-korea-supply-chain-secondary-stocks-2026-05-17/) / [AI Back-End 11-Stock Data Comparison](/post/ai-substrate-test-socket-data-comparison-2026-05-16/) / [Semiconductor Value Chain Hub](/page/korea-semiconductor-equipment-ip-hub/)
 
 *Huawei's CloudMatrix 384 is not a simple story of China catching up to NVIDIA. It is a system that lashes together 384 Ascend chips, draws 559kW of power, and routes thousands of optical transceivers to match the GB200 NVL72 in aggregate throughput — not in efficiency. China lost on efficiency but countered with system scale. The real alpha that this inefficiency points to is not in direct Huawei suppliers. Because China cannot reach NVIDIA, it must scale up its own fab, equipment, and consumables investment — and that process generates demand for inspection, metrology, and high-difficulty consumables. Treating 티씨케이, 넥스틴, and 코미코 as the same China theme is a trap. The three companies differ in investment thesis, confirmed results, and buy timing.*
 
 ## Key Takeaways
 
-* **CloudMatrix 384's essence is aggregate bypass, not an efficiency victory.** 384 Ascend chips, roughly 559kW of power, and large-scale optical connectivity allow it to match the GB200 NVL72 on select metrics.
-* **The real alpha is not in direct Huawei suppliers.** HBM export controls and China's domestic substitution policy limit direct supply routes for Korean companies. What matters instead is the indirect accrual structure: as China invests in its own fabs, demand for inspection, metrology, and consumables grows.
-* **티씨케이 is a confirmed recovery play.** 1Q26 revenue of ₩95.4bn, operating income of ₩28.6bn, and an operating margin of roughly 30% reflect China customer normalization and high-layer NAND conversion benefits already in the numbers.
-* **넥스틴 is an inflection-point bet.** The China inspection equipment PO resumption and Wuxi subsidiary ramp are the key catalysts — but 1Q26 was an operating loss, and the May 15 tape showed simultaneous foreign and institutional selling. This is still a pre-confirmation zone.
-* **코미코 is global foundry quality with a China option, not a China play.** The core thesis is TSMC and global foundry cleaning/coating demand plus ESC product mix improvement.
-* **The May 15 tape differentiated the three names.** 티씨케이 saw foreign buying near the 20-day moving average despite the selloff. 넥스틴 broke below all major moving averages with retail absorbing the supply.
-* **Current priority order is 티씨케이 > 코미코 > 넥스틴.** 넥스틴 has the highest thematic purity, but purity and buy timing are different things.
+* <strong>CloudMatrix 384's essence is aggregate bypass, not an efficiency victory.</strong> 384 Ascend chips, roughly 559kW of power, and large-scale optical connectivity allow it to match the GB200 NVL72 on select metrics.
+* <strong>The real alpha is not in direct Huawei suppliers.</strong> HBM export controls and China's domestic substitution policy limit direct supply routes for Korean companies. What matters instead is the indirect accrual structure: as China invests in its own fabs, demand for inspection, metrology, and consumables grows.
+* <strong>티씨케이 is a confirmed recovery play.</strong> 1Q26 revenue of ₩95.4bn, operating income of ₩28.6bn, and an operating margin of roughly 30% reflect China customer normalization and high-layer NAND conversion benefits already in the numbers.
+* <strong>넥스틴 is an inflection-point bet.</strong> The China inspection equipment PO resumption and Wuxi subsidiary ramp are the key catalysts — but 1Q26 was an operating loss, and the May 15 tape showed simultaneous foreign and institutional selling. This is still a pre-confirmation zone.
+* <strong>코미코 is global foundry quality with a China option, not a China play.</strong> The core thesis is TSMC and global foundry cleaning/coating demand plus ESC product mix improvement.
+* <strong>The May 15 tape differentiated the three names.</strong> 티씨케이 saw foreign buying near the 20-day moving average despite the selloff. 넥스틴 broke below all major moving averages with retail absorbing the supply.
+* <strong>Current priority order is 티씨케이 > 코미코 > 넥스틴.</strong> 넥스틴 has the highest thematic purity, but purity and buy timing are different things.
 
 ## 1. What CloudMatrix Is Actually Pointing To
 
@@ -53,7 +53,7 @@ But the cost is steep. System power for CloudMatrix 384 is reported at approxima
 | System Power | ~559kW | ~145kW | NVIDIA leads in efficiency |
 | Optical Links | 6,912 × 800G-class LPO reported | Relatively fewer | China's aggregate bypass drives sharply higher optical dependency |
 
-What investors should extract from this table is not "Huawei won." It is **where the inefficiency accrues**. Weaker chips require more chips. More chips require more power, more cooling, more substrates, more optical connectivity, more inspection, and more process stability. The more inefficient China's AI infrastructure, the higher the total input volume of components and equipment.
+What investors should extract from this table is not "Huawei won." It is <strong>where the inefficiency accrues</strong>. Weaker chips require more chips. More chips require more power, more cooling, more substrates, more optical connectivity, more inspection, and more process stability. The more inefficient China's AI infrastructure, the higher the total input volume of components and equipment.
 
 This is where Korean alpha emerges — not because Korean companies can freely supply HBM or key equipment directly to Huawei. That route is constrained by sanctions and domestic substitution policy. The opposite is true: precisely because direct routes are blocked, China must scale investment in SMIC, CXMT, YMTC, and the broader Huawei ecosystem through its own fabs, equipment, and consumables. The resulting demand for yield-improving inspection and metrology equipment and high-difficulty process consumables flows outward from there.
 
@@ -129,21 +129,21 @@ Looking at 5-day and 20-day cumulative flow, the divergence is even more pronoun
 
 ## 4. Four Common Misreads
 
-**First misread:** connecting CloudMatrix to a search for direct Huawei suppliers. The pathway for Korean core components and equipment to reach Huawei directly is constrained by sanctions and China's domestic substitution policy. Alpha comes from indirect accrual, not direct supply. The more inefficient China's AI systems, the greater the demand for domestic fab investment and process stabilization — which flows into inspection, metrology, and consumables.
+<strong>First misread:</strong> connecting CloudMatrix to a search for direct Huawei suppliers. The pathway for Korean core components and equipment to reach Huawei directly is constrained by sanctions and China's domestic substitution policy. Alpha comes from indirect accrual, not direct supply. The more inefficient China's AI systems, the greater the demand for domestic fab investment and process stabilization — which flows into inspection, metrology, and consumables.
 
-**Second misread:** treating all inspection and metrology names as one block. 넥스틴 focuses on front-end pattern inspection, Park Systems on AFM metrology, OROS on overlay metrology, and Intekplus on FC-BGA and packaging inspection. They all carry the "inspection/metrology" label, but their catalysts, customer sets, and revenue recognition timing are different.
+<strong>Second misread:</strong> treating all inspection and metrology names as one block. 넥스틴 focuses on front-end pattern inspection, Park Systems on AFM metrology, OROS on overlay metrology, and Intekplus on FC-BGA and packaging inspection. They all carry the "inspection/metrology" label, but their catalysts, customer sets, and revenue recognition timing are different.
 
-**Third misread:** assuming a low RSI is always a buy signal. In an uptrend, RSI at 30–40 can mark a pullback opportunity. In a downtrend, RSI at 30–40 can signal continued weakness. 넥스틴 is trading below its 20-day, 50-day, and 120-day moving averages simultaneously. In that context, RSI 36.7 is a wait signal, not a buy signal.
+<strong>Third misread:</strong> assuming a low RSI is always a buy signal. In an uptrend, RSI at 30–40 can mark a pullback opportunity. In a downtrend, RSI at 30–40 can signal continued weakness. 넥스틴 is trading below its 20-day, 50-day, and 120-day moving averages simultaneously. In that context, RSI 36.7 is a wait signal, not a buy signal.
 
-**Fourth misread:** treating thematic purity as the primary buy criterion. 넥스틴 has the highest purity for the China AI self-sufficiency theme. But purity alone is insufficient. Buy attractiveness requires assessing purity, price positioning, supply/demand flow, and fundamental confirmation together. On current price and tape, 티씨케이 has the advantage. 넥스틴 is high-purity but unconfirmed, with weak flow.
+<strong>Fourth misread:</strong> treating thematic purity as the primary buy criterion. 넥스틴 has the highest purity for the China AI self-sufficiency theme. But purity alone is insufficient. Buy attractiveness requires assessing purity, price positioning, supply/demand flow, and fundamental confirmation together. On current price and tape, 티씨케이 has the advantage. 넥스틴 is high-purity but unconfirmed, with weak flow.
 
 ## 5. Name-by-Name Entry Guide
 
-**티씨케이** can be considered a pullback buy candidate on confirmation of ₩300,000 support. A first check is support at ₩300,000–305,000 with sustained foreign net buying. Secondary targets are recovery to ₩320,000, then ₩335,000. Conversely, a break below ₩295,000 accompanied by continued foreign selling warrants trimming. If 2Q26 operating margin falls below 25%, or if signals emerge that China normalization was a one-off event, the investment thesis weakens.
+<strong>티씨케이</strong> can be considered a pullback buy candidate on confirmation of ₩300,000 support. A first check is support at ₩300,000–305,000 with sustained foreign net buying. Secondary targets are recovery to ₩320,000, then ₩335,000. Conversely, a break below ₩295,000 accompanied by continued foreign selling warrants trimming. If 2Q26 operating margin falls below 25%, or if signals emerge that China normalization was a one-off event, the investment thesis weakens.
 
-**넥스틴** is still better observed than bought. A recovery to ₩69,500, a resumption of foreign buying, news on China PO or Wuxi subsidiary ramp, quarterly revenue recovery, and a visible path to operating profit breakeven need to appear together. Buying near ₩64,000 on RSI alone risks catching a falling knife. If China PO is not confirmed by 3Q26 or the Wuxi ramp is delayed, the thesis itself needs to be downgraded.
+<strong>넥스틴</strong> is still better observed than bought. A recovery to ₩69,500, a resumption of foreign buying, news on China PO or Wuxi subsidiary ramp, quarterly revenue recovery, and a visible path to operating profit breakeven need to appear together. Buying near ₩64,000 on RSI alone risks catching a falling knife. If China PO is not confirmed by 3Q26 or the Wuxi ramp is delayed, the thesis itself needs to be downgraded.
 
-**코미코** is a quality company but not a standalone CloudMatrix buy. To initiate a position, confirm the ESC volume production transition, utilization rate improvement across US, Taiwan, and Anseong facilities, TSMC revenue share trends, and the degree to which Mico Ceramics profits accrue to parent shareholders. The China option is a secondary catalyst.
+<strong>코미코</strong> is a quality company but not a standalone CloudMatrix buy. To initiate a position, confirm the ESC volume production transition, utilization rate improvement across US, Taiwan, and Anseong facilities, TSMC revenue share trends, and the degree to which Mico Ceramics profits accrue to parent shareholders. The China option is a secondary catalyst.
 
 ## 6. Portfolio Construction
 
@@ -177,23 +177,23 @@ What Korean investors should seek is not direct Huawei suppliers. That path is n
 
 At current prices and tape, 티씨케이 leads. 1Q26 results are confirmed, and foreigners were buying on the May 15 selloff. 코미코 is global foundry quality with a China option attached. 넥스틴 has the highest thematic purity but remains unconfirmed. A simultaneous appearance of 2H26 China PO resumption and flow recovery is needed before its buy priority rises.
 
-The real alpha is not in the word "CloudMatrix" itself. It lies in **matching where inefficiency accrues and whether the market tape is confirming that accrual structure**. Right now, the cleanest combination of those two conditions sits in 티씨케이. The largest option value is in 넥스틴. The longest-duration quality is in 코미코.
+The real alpha is not in the word "CloudMatrix" itself. It lies in <strong>matching where inefficiency accrues and whether the market tape is confirming that accrual structure</strong>. Right now, the cleanest combination of those two conditions sits in 티씨케이. The largest option value is in 넥스틴. The longest-duration quality is in 코미코.
 
 ## Sources and Evidence Classification
 
-**Fact**
+<strong>Fact</strong>
 
 * CloudMatrix 384 has been reported as a structure using 384 Ascend chips, approximately 559kW of power, and large-scale optical transceivers.
 * 티씨케이 disclosed 1Q26 revenue of approximately ₩95.39bn and operating income of approximately ₩28.6bn, implying an operating margin of roughly 30%.
 * May 15 supply/demand and price tape figures are based on backfill data provided by the user.
 
-**Inference**
+<strong>Inference</strong>
 
 * CloudMatrix's aggregate bypass structure was judged to require expanded Chinese investment in domestic fab, equipment, and consumables.
 * 티씨케이 was classified as a confirmed consumables recovery play, 넥스틴 as a China PO inflection bet, and 코미코 as global quality with a China option.
 * At current price and May 15 tape, 티씨케이 was judged to have greater buy attractiveness than 넥스틴.
 
-**Speculation**
+<strong>Speculation</strong>
 
 * 넥스틴's 2H26 China PO resumption, Wuxi subsidiary ramp, and 코미코's ESC revenue expansion are scenarios based on sell-side estimates and industry trend analysis.
 * The scenario-by-scenario impact of a September Xi visit and October truce expiration are analyst estimates.

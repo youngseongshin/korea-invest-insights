@@ -20,7 +20,7 @@ draft: false
 | USD/KRW | 1 514 | +1,4 % | Won sous pression |
 | Brent | 100,2 $ | −9,9 % | En repli |
 
-**Régime de marché :** Corée — **Bull** · États-Unis — **Neutral**
+<strong>Régime de marché :</strong> Corée — <strong>Bull</strong> · États-Unis — <strong>Neutral</strong>
 
 Le KOSPI progresse de +4,4 % sur cinq séances à 7 847,7 points, le KOSDAQ de +4,5 % à 1 161,1. La volatilité recule (VIX à 16,6), le Brent corrige fortement (−9,9 %), et le won reste faible face au dollar (1 514 KRW). L'écart entre un régime coréen Bull et un régime américain Neutral plaide pour une exposition sélective aux valeurs coréennes plutôt qu'un positionnement indiciel large.
 
@@ -30,19 +30,19 @@ Le KOSPI progresse de +4,4 % sur cinq séances à 7 847,7 points, le KOSDAQ de +
 
 *Données de clôture KR les plus récentes disponibles : 22 mai 2026.*
 
-La séance du 22 mai s'est caractérisée par une **dispersion marquée entre secteurs** plutôt qu'une progression homogène des indices. Le KOSPI a à peine bougé (+0,5 % en cours de séance) tandis que le KOSDAQ bondissait de +4 %, porté par les petites et moyennes capitalisations de croissance.
+La séance du 22 mai s'est caractérisée par une <strong>dispersion marquée entre secteurs</strong> plutôt qu'une progression homogène des indices. Le KOSPI a à peine bougé (+0,5 % en cours de séance) tandis que le KOSDAQ bondissait de +4 %, porté par les petites et moyennes capitalisations de croissance.
 
-**Secteurs forts.** La pharmacie et les biotechs ont mené la hausse sur le KOSDAQ. Les équipements et matériaux semiconducteurs (hors grandes capitalisations) ont suivi : Samsung Electro-Mechanics (삼성전기) a clôturé à +11,3 % sur la séance, portant son gain sur cinq jours à +32,7 %. Le catalyseur identifié : Morgan Stanley a révisé à la hausse ses prévisions de pénurie de substrats ABF haute performance pour 2030, de 15 % à 22 %. Daedeok Electronics (대덕전자), exposé au même thème, a progressé de +3,35 % avec un achat net institutionnel de +127 milliards KRW, même si les étrangers ont vendu pour −74 milliards KRW en parallèle.
+<strong>Secteurs forts.</strong> La pharmacie et les biotechs ont mené la hausse sur le KOSDAQ. Les équipements et matériaux semiconducteurs (hors grandes capitalisations) ont suivi : Samsung Electro-Mechanics (삼성전기) a clôturé à +11,3 % sur la séance, portant son gain sur cinq jours à +32,7 %. Le catalyseur identifié : Morgan Stanley a révisé à la hausse ses prévisions de pénurie de substrats ABF haute performance pour 2030, de 15 % à 22 %. Daedeok Electronics (대덕전자), exposé au même thème, a progressé de +3,35 % avec un achat net institutionnel de +127 milliards KRW, même si les étrangers ont vendu pour −74 milliards KRW en parallèle.
 
-**Secteurs faibles.** Les grandes capitalisations semiconducteurs ont subi des prises de bénéfices. Samsung Electronics (삼성전자) a encaissé des ventes étrangères de −1 010 milliards KRW le jour même — signal que le retour au premier plan de ce dossier ne s'est pas encore traduit par une conviction durable côté institutions étrangères. Le secteur télécoms est resté à l'écart, sans flux directionnel significatif.
+<strong>Secteurs faibles.</strong> Les grandes capitalisations semiconducteurs ont subi des prises de bénéfices. Samsung Electronics (삼성전자) a encaissé des ventes étrangères de −1 010 milliards KRW le jour même — signal que le retour au premier plan de ce dossier ne s'est pas encore traduit par une conviction durable côté institutions étrangères. Le secteur télécoms est resté à l'écart, sans flux directionnel significatif.
 
-**Signaux de flux.** La dynamique de marché révèle une rotation vers la profondeur de marché (*breadth*) : le screener enregistrait 99 titres en tendance active au fil de séance, avec une expansion notable sur les sous-traitants spécialisés. Le nombre de candidats actifs dans le screener KR Quality Compounder dépasse les 142 titres, confirmant un environnement favorable à la sélection. La faiblesse persistante du won reste un facteur de vigilance pour les valeurs importatrices nettes.
+<strong>Signaux de flux.</strong> La dynamique de marché révèle une rotation vers la profondeur de marché (*breadth*) : le screener enregistrait 99 titres en tendance active au fil de séance, avec une expansion notable sur les sous-traitants spécialisés. Le nombre de candidats actifs dans le screener KR Quality Compounder dépasse les 142 titres, confirmant un environnement favorable à la sélection. La faiblesse persistante du won reste un facteur de vigilance pour les valeurs importatrices nettes.
 
 ---
 
 ## 3. Candidats à la requalification qualité du jour
 
-Le méta-screener KR du 25 mai couvre 137 valeurs et classe les candidats selon cinq filtres cumulatifs : **Quality Compounder** (solidité fondamentale), **Smart Money Quality** (flux institutionnels et étrangers), **Cycle Rerating** (levier opérationnel), **Smart Money Earnings** (amélioration des résultats avec flux entrants), **PEAD** (dérive post-publication de résultats). Les titres présents dans 3 screeners ou plus sont traités comme candidats prioritaires.
+Le méta-screener KR du 25 mai couvre 137 valeurs et classe les candidats selon cinq filtres cumulatifs : <strong>Quality Compounder</strong> (solidité fondamentale), <strong>Smart Money Quality</strong> (flux institutionnels et étrangers), <strong>Cycle Rerating</strong> (levier opérationnel), <strong>Smart Money Earnings</strong> (amélioration des résultats avec flux entrants), <strong>PEAD</strong> (dérive post-publication de résultats). Les titres présents dans 3 screeners ou plus sont traités comme candidats prioritaires.
 
 ### Classement des principaux candidats
 
@@ -63,17 +63,17 @@ Le méta-screener KR du 25 mai couvre 137 valeurs et classe les candidats selon 
 
 ### Focus sur les trois premiers candidats
 
-**1. 브이엠 (089970.KQ) — Score 94,7 — 5 screeners actifs**
+<strong>1. 브이엠 (089970.KQ) — Score 94,7 — 5 screeners actifs</strong>
 
 VM est un fabricant coréen d'équipements de traitement thermique pour puces semiconducteurs. C'est le seul titre du classement présent dans les cinq screeners simultanément, ce qui en fait le candidat de référence du jour. Sur le plan fondamental, le ROE atteint 14,8 % et la marge opérationnelle a progressé de +29,3 points de pourcentage — signe qu'une forte croissance des volumes (+105,5 % de revenus YoY) se convertit directement en profitabilité. Les flux nets institutionnels et étrangers sur cinq jours atteignent +330 milliards KRW, à rebours de ventes nettes particulières de −214,5 milliards KRW. Le signal PEAD confirme la dynamique : +29,1 % au-dessus de la MA50, performance cinq jours à +19 %. Une publication DART (rapport trimestriel T1 2026) date du 15 mai. Points à vérifier : tenue du support autour de 64 500 KRW et continuité du flux institutionnel dans les prochaines séances.
 
-**2. 마이크로컨텍솔 (098120.KQ) — Score 77,2 — 4 screeners actifs**
+<strong>2. 마이크로컨텍솔 (098120.KQ) — Score 77,2 — 4 screeners actifs</strong>
 
 Fabricant de composants de test et de connectivité pour puces semiconducteurs. Le ROE de 23,1 % est le plus élevé du segment moyen du classement. La croissance opérationnelle atteint +73,5 % YoY avec une marge en hausse de +3 pp et un bénéfice net +58,9 %. Les flux nets institutionnels et étrangers sur cinq jours s'établissent à +74,6 milliards KRW. Le titre est présent dans Quality Compounder, Smart Money Quality, Smart Money Earnings et PEAD, avec un rapport DART amendé publié le 22 mai. À surveiller : la stabilisation du cours après la récente progression.
 
-**3. RFHIC (218410.KQ) — Score 73,9 — 4 screeners actifs**
+<strong>3. RFHIC (218410.KQ) — Score 73,9 — 4 screeners actifs</strong>
 
-Fournisseur de composants RF à base de nitrure de gallium (GaN) destinés aux infrastructures télécoms et à la défense. La croissance opérationnelle de +1 919 % YoY reflète un retournement de cycle très prononcé depuis une base déprimée. Les flux nets institutionnels et étrangers sur cinq jours atteignent +138,7 milliards KRW, avec des ventes nettes particulières de −160,9 milliards KRW. **Point d'attention :** le screener Kiwoom signale un taux de vente à découvert à 7,2 % avec une position de prêt en hausse. Ce signal de distribution potentielle mérite confirmation avant d'approfondir l'analyse.
+Fournisseur de composants RF à base de nitrure de gallium (GaN) destinés aux infrastructures télécoms et à la défense. La croissance opérationnelle de +1 919 % YoY reflète un retournement de cycle très prononcé depuis une base déprimée. Les flux nets institutionnels et étrangers sur cinq jours atteignent +138,7 milliards KRW, avec des ventes nettes particulières de −160,9 milliards KRW. <strong>Point d'attention :</strong> le screener Kiwoom signale un taux de vente à découvert à 7,2 % avec une position de prêt en hausse. Ce signal de distribution potentielle mérite confirmation avant d'approfondir l'analyse.
 
 ---
 

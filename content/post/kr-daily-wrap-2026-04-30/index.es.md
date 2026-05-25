@@ -22,23 +22,23 @@ draft: false
 | USD/KRW | 1.473 | −0,5% | → Estable |
 | Brent | 102,1 USD | −5,6% | 📉 Baja |
 
-**Veredicto de régimen:** Corea en **Bull** — amplitud sobre media de 50 días al 65,4%, sobre media de 200 días al 59,8%, señal Discovery en día 20. EE.UU. en **Bear** — amplitud sobre 50MA al 0%, sobre 200MA al 0%. La divergencia KR Bull / US Bear sugiere mantener exposición a Corea y reducir la de EE.UU.
+<strong>Veredicto de régimen:</strong> Corea en <strong>Bull</strong> — amplitud sobre media de 50 días al 65,4%, sobre media de 200 días al 59,8%, señal Discovery en día 20. EE.UU. en <strong>Bear</strong> — amplitud sobre 50MA al 0%, sobre 200MA al 0%. La divergencia KR Bull / US Bear sugiere mantener exposición a Corea y reducir la de EE.UU.
 
 ---
 
 ## Sección 2: Resumen del Mercado
 
-La sesión del 30 de abril en el mercado coreano fue de carácter **mixto-defensivo**: las pantallas de amplitud siguen en zona alcista, pero el índice cayó alrededor del 1% y el KOSDAQ retrocedió cerca del 2%, con inversores extranjeros e institucionales vendedores netos en términos generales.
+La sesión del 30 de abril en el mercado coreano fue de carácter <strong>mixto-defensivo</strong>: las pantallas de amplitud siguen en zona alcista, pero el índice cayó alrededor del 1% y el KOSDAQ retrocedió cerca del 2%, con inversores extranjeros e institucionales vendedores netos en términos generales.
 
-**Sectores fuertes.** Energía eléctrica, cables de alta tensión y transformadores marcaron el tono del día. Los valores de construcción naval mantuvieron su fortaleza relativa. Dentro de semiconductores, el subsegmento de HBM mostró resistencia, aunque el conjunto del sector sufrió presión vendedora de extranjeros.
+<strong>Sectores fuertes.</strong> Energía eléctrica, cables de alta tensión y transformadores marcaron el tono del día. Los valores de construcción naval mantuvieron su fortaleza relativa. Dentro de semiconductores, el subsegmento de HBM mostró resistencia, aunque el conjunto del sector sufrió presión vendedora de extranjeros.
 
-**Sectores débiles.** Los valores de crecimiento de pequeña capitalización, biotecnología y aquellas empresas con guías de resultados inciertas cedieron de forma amplia. El mercado penalizó sin distinción a todo lo que no mostrara catalizador de resultados concreto.
+<strong>Sectores débiles.</strong> Los valores de crecimiento de pequeña capitalización, biotecnología y aquellas empresas con guías de resultados inciertas cedieron de forma amplia. El mercado penalizó sin distinción a todo lo que no mostrara catalizador de resultados concreto.
 
-**Señales de flujo.** Samsung Electronics (005930.KS) registró ventas exteriores por encima de 680.000 millones de won en cinco días, aunque la institución local compensó parcialmente. Samsung Electro-Mechanics (009150.KS) combinó fortaleza de precio (+7,5% en cinco días) con un ratio de ventas en corto del 10,8%, lo que genera una señal mixta: buen comportamiento relativo pero fatiga visible en libro de órdenes. Hanwha Engine (082740.KS) acumula una subida del 25,5% en cinco días, siendo el valor más sólido en términos de momento dentro del radar de seguimiento institucional, aunque el flujo de órdenes empezó a deteriorarse tras el avance.
+<strong>Señales de flujo.</strong> Samsung Electronics (005930.KS) registró ventas exteriores por encima de 680.000 millones de won en cinco días, aunque la institución local compensó parcialmente. Samsung Electro-Mechanics (009150.KS) combinó fortaleza de precio (+7,5% en cinco días) con un ratio de ventas en corto del 10,8%, lo que genera una señal mixta: buen comportamiento relativo pero fatiga visible en libro de órdenes. Hanwha Engine (082740.KS) acumula una subida del 25,5% en cinco días, siendo el valor más sólido en términos de momento dentro del radar de seguimiento institucional, aunque el flujo de órdenes empezó a deteriorarse tras el avance.
 
 El contexto macro añade ruido: tensiones en Oriente Medio y en el estrecho de Ormuz, sensibilidad al precio del petróleo, y la cuestión de independencia de la Reserva Federal siguen presionando la prima de riesgo. Los resultados positivos de los grandes tecnológicos estadounidenses (Alphabet, Amazon, Microsoft, Meta) confirman la demanda de CapEx en inteligencia artificial, lo que es favorable para la cadena coreana de semiconductores y componentes, pero no fue suficiente para sostener el mercado local este jueves.
 
-En resumen: la estructura de fondo es alcista en Corea, pero la jornada fue de **aversión al riesgo selectiva**. Las empresas con catalizadores de resultados claros y flujo institucional visible aguantaron; el resto cedió.
+En resumen: la estructura de fondo es alcista en Corea, pero la jornada fue de <strong>aversión al riesgo selectiva</strong>. Las empresas con catalizadores de resultados claros y flujo institucional visible aguantaron; el resto cedió.
 
 ---
 
@@ -69,11 +69,11 @@ En resumen: la estructura de fondo es alcista en Corea, pero la jornada fue de *
 
 SK Square es la holding de inversión del grupo SK que agrupa participaciones en SK Hynix, SK Telecom y otras filiales tecnológicas. El descuento sobre NAV ha sido históricamente elevado; el mercado empieza a cerrarlo.
 
-**Por qué aparece en múltiples screeners.** Cruza los cuatro filtros más exigentes: Quality Compounder (ROE 37,8%, margen operativo 84,1%, deuda baja), Smart Money Quality (flujo neto de extranjeros e institucionales +167.700 millones de won en cinco días), Cycle Rerating (expansión de margen +17,5 puntos porcentuales, palanca operativa +46,6 pp) y Smart Money Earnings (beneficio operativo YoY +124,4%, beneficio neto +141,6%). El PER de 12,2x es llamativamente bajo para un negocio con esos retornos.
+<strong>Por qué aparece en múltiples screeners.</strong> Cruza los cuatro filtros más exigentes: Quality Compounder (ROE 37,8%, margen operativo 84,1%, deuda baja), Smart Money Quality (flujo neto de extranjeros e institucionales +167.700 millones de won en cinco días), Cycle Rerating (expansión de margen +17,5 puntos porcentuales, palanca operativa +46,6 pp) y Smart Money Earnings (beneficio operativo YoY +124,4%, beneficio neto +141,6%). El PER de 12,2x es llamativamente bajo para un negocio con esos retornos.
 
-**Catalizadores oficiales DART.** El 30 de abril la compañía publicó la resolución de dividendo en efectivo y la fecha de cierre del registro de accionistas. En el debe: un comunicado de riesgo sobre recompra anticipada de bonos canjeables (20260428), que conviene monitorizar.
+<strong>Catalizadores oficiales DART.</strong> El 30 de abril la compañía publicó la resolución de dividendo en efectivo y la fecha de cierre del registro de accionistas. En el debe: un comunicado de riesgo sobre recompra anticipada de bonos canjeables (20260428), que conviene monitorizar.
 
-**Qué verificar a continuación.** Confirmar si el flujo institucional de los últimos cinco días se mantiene coherente esta semana; revisar el descuento sobre NAV actualizado tras los resultados de SK Hynix del trimestre.
+<strong>Qué verificar a continuación.</strong> Confirmar si el flujo institucional de los últimos cinco días se mantiene coherente esta semana; revisar el descuento sobre NAV actualizado tras los resultados de SK Hynix del trimestre.
 
 ---
 
@@ -81,11 +81,11 @@ SK Square es la holding de inversión del grupo SK que agrupa participaciones en
 
 SK Hynix es el segundo mayor fabricante mundial de memoria DRAM y líder en HBM (High Bandwidth Memory), pieza clave para chips de inteligencia artificial.
 
-**Por qué aparece en múltiples screeners.** Además de los cuatro screeners base, se activa el filtro de Revisión de Consenso al Alza, lo que lo convierte en el único nombre con cinco señales simultáneas. ROE del 44,1%, margen operativo del 48,6% y crecimiento del beneficio operativo del 101,2% YoY describen una empresa que está revalorizando el ciclo de memoria. La aceleración del CapEx en IA por parte de los grandes tecnológicos americanos —confirmada esta semana— refuerza directamente la demanda de HBM.
+<strong>Por qué aparece en múltiples screeners.</strong> Además de los cuatro screeners base, se activa el filtro de Revisión de Consenso al Alza, lo que lo convierte en el único nombre con cinco señales simultáneas. ROE del 44,1%, margen operativo del 48,6% y crecimiento del beneficio operativo del 101,2% YoY describen una empresa que está revalorizando el ciclo de memoria. La aceleración del CapEx en IA por parte de los grandes tecnológicos americanos —confirmada esta semana— refuerza directamente la demanda de HBM.
 
-**Señal de cautela.** El flujo neto de extranjeros e institucionales en cinco días es negativo en 553.280 millones de won, lo que no encaja con la señal positiva del screener Smart Money Quality. La explicación probable es rotación táctica tras el rally reciente, pero es un elemento que diferencia a SK Hynix de SK Square en términos de convicción de flujo a corto plazo. Además hay un comunicado de riesgo DART sobre bonos canjeables del grupo.
+<strong>Señal de cautela.</strong> El flujo neto de extranjeros e institucionales en cinco días es negativo en 553.280 millones de won, lo que no encaja con la señal positiva del screener Smart Money Quality. La explicación probable es rotación táctica tras el rally reciente, pero es un elemento que diferencia a SK Hynix de SK Square en términos de convicción de flujo a corto plazo. Además hay un comunicado de riesgo DART sobre bonos canjeables del grupo.
 
-**Qué verificar a continuación.** Monitorizar si la presión vendedora extranjera cede en los próximos tres a cinco días y si las revisiones al alza del consenso se aceleran tras los resultados del primer trimestre.
+<strong>Qué verificar a continuación.</strong> Monitorizar si la presión vendedora extranjera cede en los próximos tres a cinco días y si las revisiones al alza del consenso se aceleran tras los resultados del primer trimestre.
 
 ---
 
@@ -93,11 +93,11 @@ SK Hynix es el segundo mayor fabricante mundial de memoria DRAM y líder en HBM 
 
 Sanilelectric fabrica transformadores de potencia y equipos de conversión y distribución eléctrica. Es uno de los beneficiarios directos del superciclo de infraestructura eléctrica global (centros de datos, energías renovables, modernización de redes).
 
-**Por qué aparece en múltiples screeners.** Cruza Quality Compounder (ROE 29,2%, margen operativo 35,6%, crecimiento de ingresos +50,3%) y Smart Money Quality (flujo neto +9.620 millones en cinco días, posición número 6 en volumen de negociación en el ranking Kiwoom). El 30 de abril publicó resultados provisionales de beneficio consolidado y un contrato de suministro individual, ambos clasificados como catalizadores por el sistema DART.
+<strong>Por qué aparece en múltiples screeners.</strong> Cruza Quality Compounder (ROE 29,2%, margen operativo 35,6%, crecimiento de ingresos +50,3%) y Smart Money Quality (flujo neto +9.620 millones en cinco días, posición número 6 en volumen de negociación en el ranking Kiwoom). El 30 de abril publicó resultados provisionales de beneficio consolidado y un contrato de suministro individual, ambos clasificados como catalizadores por el sistema DART.
 
-**Señal de cautela.** El valor acumula una subida del \~20% en la jornada anterior a la publicación de estos datos. El precio de referencia de ruptura es 237.000 won; el mercado cotizó en torno a 266.000 won, lo que implica extensión considerable. Acercarse en corrección o en consolidación, no persiguiendo el precio.
+<strong>Señal de cautela.</strong> El valor acumula una subida del \~20% en la jornada anterior a la publicación de estos datos. El precio de referencia de ruptura es 237.000 won; el mercado cotizó en torno a 266.000 won, lo que implica extensión considerable. Acercarse en corrección o en consolidación, no persiguiendo el precio.
 
-**Qué verificar a continuación.** Confirmar los detalles numéricos del contrato de suministro publicado en DART; revisar si el flujo institucional (actualmente en posición #280 del ranking Kiwoom) se incrementa en los próximos días.
+<strong>Qué verificar a continuación.</strong> Confirmar los detalles numéricos del contrato de suministro publicado en DART; revisar si el flujo institucional (actualmente en posición #280 del ranking Kiwoom) se incrementa en los próximos días.
 
 ---
 

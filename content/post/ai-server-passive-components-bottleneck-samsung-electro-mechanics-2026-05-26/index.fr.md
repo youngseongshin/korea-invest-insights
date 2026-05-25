@@ -15,16 +15,16 @@ valley_cashtag_exclude: ["삼성전자", "SK하이닉스"]
 ## TL;DR
 
 - Le problème n’est pas seulement le manque de GPU. C’est aussi la montée en gamme des petites pièces qui stabilisent l’énergie consommée par les GPU.
-- Un rack NVIDIA DGX GB200 consomme environ **120kW**; Lenovo cite **135kW TDP** et jusqu’à **155kW de pic** pour GB300 NVL72. ([NVIDIA][1], [Lenovo][2])
+- Un rack NVIDIA DGX GB200 consomme environ <strong>120kW</strong>; Lenovo cite <strong>135kW TDP</strong> et jusqu’à <strong>155kW de pic</strong> pour GB300 NVL72. ([NVIDIA][1], [Lenovo][2])
 - Les MLCC, condensateurs silicium et inductances sont les amortisseurs électriques du serveur IA.
 - L’opportunité concerne les composants haute capacité, faible ESR/ESL, faible bruit et très bas profil, pas les MLCC génériques.
-- Samsung Electro-Mechanics est intéressant car il relie **MLCC + FC-BGA + condensateurs silicium**.
+- Samsung Electro-Mechanics est intéressant car il relie <strong>MLCC + FC-BGA + condensateurs silicium</strong>.
 
 ## Explication simple
 
 Un serveur IA ressemble à un moteur de course. Le GPU est le moteur, HBM le réservoir rapide, le substrat la route, et les MLCC/condensateurs silicium stabilisent la pression électrique pour éviter les à-coups.
 
-TDK décrit la chaîne d’alimentation d’un data center comme **UPS → PSU → IBC → VRM → tension CPU/GPU**, avec efficacité, faible ripple, résistance thermique et fiabilité à chaque étape. ([TDK][3])
+TDK décrit la chaîne d’alimentation d’un data center comme <strong>UPS → PSU → IBC → VRM → tension CPU/GPU</strong>, avec efficacité, faible ripple, résistance thermique et fiabilité à chaque étape. ([TDK][3])
 
 Samsung Electro-Mechanics explique que les GPU/CPU fonctionnent sous 1V et que le courant peut varier immédiatement de dizaines à centaines d’ampères. Les MLCC de forte capacité proches du GPU servent donc de buffers de courant. ([Samsung Electro-Mechanics][4])
 
@@ -35,7 +35,7 @@ Samsung Electro-Mechanics explique que les GPU/CPU fonctionnent sous 1V et que l
 | MLCC | Carte et zones proches des puces | Stabilisation large de l’alimentation |
 | Condensateur silicium | Dans ou juste à côté du package GPU/HBM | Suppression ultraproche des transitoires |
 
-Samsung Electro-Mechanics a annoncé un contrat d’environ **1 500 milliards de KRW** pour des condensateurs silicium sur **2027-2028**. Ces composants améliorent la stabilité d’alimentation dans les packages de semi-conducteurs haute performance pour serveurs IA. ([Samsung Electro-Mechanics][8])
+Samsung Electro-Mechanics a annoncé un contrat d’environ <strong>1 500 milliards de KRW</strong> pour des condensateurs silicium sur <strong>2027-2028</strong>. Ces composants améliorent la stabilité d’alimentation dans les packages de semi-conducteurs haute performance pour serveurs IA. ([Samsung Electro-Mechanics][8])
 
 ## Lecture investissement
 

@@ -27,7 +27,7 @@ tags:
 series: ["ai-pcb-substrate-thesis-2026"]
 ---
 
-> **行业全景图：** 本文是[AI PCB与封装基板核心论点](/zh/post/ai-pcb-thesis-system-bom-common-bottleneck-2026-05-05/)以及[AI PCB与封装基板资讯中心](/zh/page/korea-ai-pcb-substrate-hub/)的企业矩阵配套篇。前述论点阐明了AI封装基板为何构成系统级瓶颈。本文进一步探讨：韩国生态系统中哪些环节具备更高的商业质量，哪些位置的因子配置尚未被充分定价。
+> <strong>行业全景图：</strong> 本文是[AI PCB与封装基板核心论点](/zh/post/ai-pcb-thesis-system-bom-common-bottleneck-2026-05-05/)以及[AI PCB与封装基板资讯中心](/zh/page/korea-ai-pcb-substrate-hub/)的企业矩阵配套篇。前述论点阐明了AI封装基板为何构成系统级瓶颈。本文进一步探讨：韩国生态系统中哪些环节具备更高的商业质量，哪些位置的因子配置尚未被充分定价。
 
 ---
 

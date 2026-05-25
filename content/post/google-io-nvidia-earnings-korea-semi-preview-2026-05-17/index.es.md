@@ -15,7 +15,7 @@ tags:
 slug: google-io-nvidia-earnings-korea-semi-preview-2026-05-17
 ---
 
-> 📚 **Serie relacionada**
+> 📚 <strong>Serie relacionada</strong>
 > [Dos betas del back-end de IA](/es/post/ai-substrate-vs-test-socket-comparison-2026-05-15/) · [11 acciones del back-end de IA](/es/post/ai-substrate-test-socket-data-comparison-2026-05-16/) · [Samsung Electronics vs TSMC](/es/post/samsung-electronics-tsmc-rerating-thesis-2026-05-16/) · [Hub de AI HBM](/es/page/korea-semiconductor-hbm-kospi-hub/)
 
 La próxima semana llegan dos eventos de IA muy distintos. Google I/O empieza con la conferencia principal el 19 de mayo a las 10:00 a.m. PT, que equivale al 20 de mayo a las 2:00 a.m. en Corea. NVIDIA publicará sus resultados del primer trimestre fiscal 2027 el 20 de mayo a la 1:20 p.m. PT, con conferencia a las 2:00 p.m. PT. En Corea, eso será el 21 de mayo a las 5:20 a.m. y 6:00 a.m.
@@ -57,11 +57,11 @@ Esta vez la lógica es similar. Si los ingresos del primer trimestre quedan cerc
 
 ## 3. Efecto por acción coreana
 
-**SK hynix** es la lectura más limpia de HBM. Si NVIDIA sorprende al alza, puede reaccionar primero. Pero el liderazgo HBM ya es conocido y la acción ya está muy comprada. El riesgo de toma de beneficios también es alto.
+<strong>SK hynix</strong> es la lectura más limpia de HBM. Si NVIDIA sorprende al alza, puede reaccionar primero. Pero el liderazgo HBM ya es conocido y la acción ya está muy comprada. El riesgo de toma de beneficios también es alto.
 
-**Samsung Electronics** ofrece una tesis más compleja: HBM4, base die, foundry y packaging integrado. Pero el 21 de mayo también puede coincidir con riesgo laboral. Si NVIDIA guía fuerte y el conflicto laboral se contiene, la tesis de reclasificación se fortalece. Si ambas cosas salen mal, el descuento por riesgo puede pesar más que el PER bajo.
+<strong>Samsung Electronics</strong> ofrece una tesis más compleja: HBM4, base die, foundry y packaging integrado. Pero el 21 de mayo también puede coincidir con riesgo laboral. Si NVIDIA guía fuerte y el conflicto laboral se contiene, la tesis de reclasificación se fortalece. Si ambas cosas salen mal, el descuento por riesgo puede pesar más que el PER bajo.
 
-**Samsung Electro-Mechanics** no es HBM directo, pero MLCC, FC-BGA y módulos de sensing ganan importancia con los servidores de IA. Todavía existe una transición de percepción desde "proveedor móvil" hacia "plataforma de piezas de infraestructura de IA". El problema es que la acción ya subió mucho, por lo que conviene esperar confirmación de demanda en el segundo trimestre.
+<strong>Samsung Electro-Mechanics</strong> no es HBM directo, pero MLCC, FC-BGA y módulos de sensing ganan importancia con los servidores de IA. Todavía existe una transición de percepción desde "proveedor móvil" hacia "plataforma de piezas de infraestructura de IA". El problema es que la acción ya subió mucho, por lo que conviene esperar confirmación de demanda en el segundo trimestre.
 
 En el back-end, los sustratos como Daeduck Electronics reaccionan más rápido a la guía de Data Center. Los sockets de prueba como LEENO Industrial e ISC pueden tener un desfase de uno o dos trimestres, pero ofrecen mejor margen y una beta más ligada a la complejidad del chip.
 

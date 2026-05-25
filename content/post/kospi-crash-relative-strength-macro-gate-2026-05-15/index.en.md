@@ -18,12 +18,12 @@ slug: kospi-crash-relative-strength-macro-gate-2026-05-15
 
 ## Key takeaways
 
-* **May 15 Korea**: KOSPI 7,493.18 (**-6.12%**), KOSDAQ 1,129.82 (**-5.14%**). Sell-side sidecar fired right after a fresh all-time high.
-* **Cause**: not simple profit-taking. US PPI +6.0% (largest since 2022), Japan PPI +4.9%, JGB 10-yr at the highest since 1997, US 10-yr 4.46%, Brent 108, USD/KRW near 1,500 — **a global macro cycle pressuring risk assets simultaneously**.
-* **There are RS names**: Hana Micron +18.6%, Jeju Semiconductor +8.9%, SFA Semiconductor +4.0%, Samsung Electro-Mechanics -1.4% (RS vs index +4.7pp). Doosan Robotics +19.3%, Robostar +9.9%.
-* **But chasing is wrong**: "didn't fall today = next leader" is a fallacy. If macro doesn't normalize, RS names follow the index down the next session.
-* **The real read — macro gate**: US 10-yr below 4.45%, Brent below 105, USD/KRW below 1,480, VIX below 18. At least 2–3 of those must clear before new buying is rational.
-* **What today's RS screen is actually for**: not a "buy signal," but **a "watchlist-generation signal."**
+* <strong>May 15 Korea</strong>: KOSPI 7,493.18 (<strong>-6.12%</strong>), KOSDAQ 1,129.82 (<strong>-5.14%</strong>). Sell-side sidecar fired right after a fresh all-time high.
+* <strong>Cause</strong>: not simple profit-taking. US PPI +6.0% (largest since 2022), Japan PPI +4.9%, JGB 10-yr at the highest since 1997, US 10-yr 4.46%, Brent 108, USD/KRW near 1,500 — <strong>a global macro cycle pressuring risk assets simultaneously</strong>.
+* <strong>There are RS names</strong>: Hana Micron +18.6%, Jeju Semiconductor +8.9%, SFA Semiconductor +4.0%, Samsung Electro-Mechanics -1.4% (RS vs index +4.7pp). Doosan Robotics +19.3%, Robostar +9.9%.
+* <strong>But chasing is wrong</strong>: "didn't fall today = next leader" is a fallacy. If macro doesn't normalize, RS names follow the index down the next session.
+* <strong>The real read — macro gate</strong>: US 10-yr below 4.45%, Brent below 105, USD/KRW below 1,480, VIX below 18. At least 2–3 of those must clear before new buying is rational.
+* <strong>What today's RS screen is actually for</strong>: not a "buy signal," but <strong>a "watchlist-generation signal."</strong>
 
 ---
 
@@ -122,14 +122,14 @@ Why look at it:
 | 2 | Samji Electronics | +29.97% | +35.1pp | KRW 77.5B |
 | 3 | Doosan Robotics | +19.29% | +25.4pp | KRW 1.08T |
 | 4 | Hanson Engineering | +19.18% | +24.3pp | KRW 60.6B |
-| **5** | **Hana Micron** | **+18.61%** | **+23.8pp** | **KRW 688.8B** |
+| <strong>5</strong> | <strong>Hana Micron</strong> | <strong>+18.61%</strong> | <strong>+23.8pp</strong> | <strong>KRW 688.8B</strong> |
 | 6 | Jahwa Electronics | +16.53% | +22.7pp | KRW 84.8B |
 | 10 | LG Electronics | +10.83% | +17.0pp | KRW 1.44T |
 | 12 | Robostar | +9.90% | +15.0pp | KRW 188.6B |
-| **13** | **Jeju Semiconductor** | **+8.86%** | **+14.0pp** | **KRW 884.6B** |
-| **17** | **SFA Semiconductor** | **+3.99%** | **+9.1pp** | **KRW 280.8B** |
+| <strong>13</strong> | <strong>Jeju Semiconductor</strong> | <strong>+8.86%</strong> | <strong>+14.0pp</strong> | <strong>KRW 884.6B</strong> |
+| <strong>17</strong> | <strong>SFA Semiconductor</strong> | <strong>+3.99%</strong> | <strong>+9.1pp</strong> | <strong>KRW 280.8B</strong> |
 | 18 | Samsung SDS | +3.34% | +9.5pp | KRW 366.7B |
-| **20** | **Samsung Electro-Mechanics** | **-1.37%** | **+4.7pp** | **KRW 1.41T** |
+| <strong>20</strong> | <strong>Samsung Electro-Mechanics</strong> | <strong>-1.37%</strong> | <strong>+4.7pp</strong> | <strong>KRW 1.41T</strong> |
 
 ### 2.3 Trap 1 — confusing "limit-up momentum" with "earnings strength"
 
@@ -313,9 +313,9 @@ At least 2–3 met → partial buying allowed.
 
 | Scenario | Conditions | Action |
 | --- | --- | --- |
-| **A. Macro recovers** | 3+ of 4 gates clear | Scaled buying in RS names; max 30–40% of full size |
-| **B. Macro neutral** | 1–2 gates clear | Just observe the close; minimize new buying |
-| **C. Macro worsens** | Gates deteriorate further | No new buying; only re-evaluate existing positions for thesis damage |
+| <strong>A. Macro recovers</strong> | 3+ of 4 gates clear | Scaled buying in RS names; max 30–40% of full size |
+| <strong>B. Macro neutral</strong> | 1–2 gates clear | Just observe the close; minimize new buying |
+| <strong>C. Macro worsens</strong> | Gates deteriorate further | No new buying; only re-evaluate existing positions for thesis damage |
 
 ### 4.3 Relationship between "RS buys" and the macro gate
 
@@ -552,15 +552,15 @@ The consumer-rotation piece:
 
 ## 9. The one-line bottom line
 
-May 15's KOSPI -6.12% is not simple profit-taking. **It is the day the global macro cycle settled in the Korean market.** US PPI +6%, Japan PPI +4.9%, US 10-yr 4.46%, Brent 108, USD/KRW near 1,500 — every one of those variables pressed Korean risk assets in the same direction.
+May 15's KOSPI -6.12% is not simple profit-taking. <strong>It is the day the global macro cycle settled in the Korean market.</strong> US PPI +6%, Japan PPI +4.9%, US 10-yr 4.46%, Brent 108, USD/KRW near 1,500 — every one of those variables pressed Korean risk assets in the same direction.
 
-On days like this, there are two temptations. One is to hunt the names that didn't fall in search of the next leader. The other is to chase, saying "everything fell, so it's cheap." **Both are inefficient if the macro gate doesn't clear.**
+On days like this, there are two temptations. One is to hunt the names that didn't fall in search of the next leader. The other is to chase, saying "everything fell, so it's cheap." <strong>Both are inefficient if the macro gate doesn't clear.</strong>
 
-The first thing to check Monday is not Hana Micron, Samsung E-M, or Jeju Semiconductor. **It is the US 10-year, Brent, USD/KRW, and the VIX.** Until at least 2–3 of those stabilize, chasing even a great stock is inefficient.
+The first thing to check Monday is not Hana Micron, Samsung E-M, or Jeju Semiconductor. <strong>It is the US 10-year, Brent, USD/KRW, and the VIX.</strong> Until at least 2–3 of those stabilize, chasing even a great stock is inefficient.
 
-Today's RS screen is not a "buy signal" — it is a **"watchlist-generation signal."** The next leadership stocks are not discovered AFTER the macro recovers. They are the names that **did NOT fall while the macro was bad**, recorded, and bought **once the macro recovers**.
+Today's RS screen is not a "buy signal" — it is a <strong>"watchlist-generation signal."</strong> The next leadership stocks are not discovered AFTER the macro recovers. They are the names that <strong>did NOT fall while the macro was bad</strong>, recorded, and bought <strong>once the macro recovers</strong>.
 
-**Cycle before the stock. Macro gate before stock work.**
+<strong>Cycle before the stock. Macro gate before stock work.</strong>
 
 ---
 

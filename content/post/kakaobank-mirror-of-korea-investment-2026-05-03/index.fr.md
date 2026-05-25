@@ -28,7 +28,7 @@ tags:
   - "banque numérique"
 ---
 
-> 📚 **Série « Financières coréennes : composition par capital et rachats » — Partie 6/N.**
+> 📚 <strong>Série « Financières coréennes : composition par capital et rachats » — Partie 6/N.</strong>
 > Épisodes précédents :
 > - [Partie 1 — Meritz Financial Holdings](/post/meritz-financial-capital-buyback-compounding-standard-2026-04-30/)
 > - [Partie 2 — Kiwoom Securities](/post/kiwoom-securities-roe20-recognition-completed-2026-04-30/)
@@ -36,17 +36,17 @@ tags:
 > - [Partie 4 — Shinhan Financial : transit entre les pics](/post/shinhan-financial-transit-between-peaks-2026-05-03/)
 > - [Partie 5 — Korea Investment Holdings : la cinquième coordonnée](/post/korea-investment-holdings-fifth-coordinate-2026-05-03/)
 
-*La [partie 5](/post/korea-investment-holdings-fifth-coordinate-2026-05-03/) avait introduit la « définition d'une nouvelle coordonnée » comme une nouvelle dimension analytique. Korea Investment Holdings incarnait le cas où **l'entreprise cherche à définir une nouvelle coordonnée pendant que le marché lui applique une étiquette de décote conservatrice<strong>. La partie 6 avec KakaoBank en est précisément l'</strong>image miroir** — l'entreprise revendique activement une nouvelle coordonnée (« plateforme financière mobile + banque IA native + ROE de 15 % »), et le marché a déjà intégré cette prétention dans son cours. Les deux extrémités du même chapitre « définition d'une nouvelle coordonnée » — l'entreprise qui tire le marché contre le marché qui tire l'entreprise.*
+*La [partie 5](/post/korea-investment-holdings-fifth-coordinate-2026-05-03/) avait introduit la « définition d'une nouvelle coordonnée » comme une nouvelle dimension analytique. Korea Investment Holdings incarnait le cas où <strong>l'entreprise cherche à définir une nouvelle coordonnée pendant que le marché lui applique une étiquette de décote conservatrice<strong>. La partie 6 avec KakaoBank en est précisément l'</strong>image miroir</strong> — l'entreprise revendique activement une nouvelle coordonnée (« plateforme financière mobile + banque IA native + ROE de 15 % »), et le marché a déjà intégré cette prétention dans son cours. Les deux extrémités du même chapitre « définition d'une nouvelle coordonnée » — l'entreprise qui tire le marché contre le marché qui tire l'entreprise.*
 
 ---
 
 ## Résumé exécutif
 
-- **KakaoBank est l'image miroir de Korea Investment Holdings (partie 5).** Les deux appartiennent au chapitre « définition d'une nouvelle coordonnée », mais à des extrémités exactement opposées. Korea Investment Holdings : le marché est conservateur, coût des fonds propres implicite de 17,3 % (territoire de décote). KakaoBank : le marché est agressif, coût des fonds propres implicite \~4,2 % (territoire de prime). Cette asymétrie polaire forme les deux extrémités d'une même dimension analytique.
-- **La nouvelle coordonnée revendiquée par l'entreprise est explicite.** « Pas une banque dépôts-crédit-marge, mais une banque-plateforme à faible coût de financement avec une couverture financière mobile nationale — la monétisation Fee & Platform + l'IA + les fusions-acquisitions + l'expansion mondiale portent le ROE à 15 %. » Sur les sept arguments à l'appui, le trafic (26,7 M de clients, MAU de 20,0 M) et les financements à faible coût (mix de 57,1 %) sont solidement vérifiés ; la monétisation Fee & Platform et le levier opérationnel de l'IA ne le sont pas encore.
-- **Le coût des fonds propres implicite de 4,2 % révèle la position du marché.** ROE 7,22 % / PBR 1,72× = **4,20 %**. Ce chiffre n'est pas le coût « actuel » des fonds propres appliqué par le marché — il représente effectivement **« un cours qui accepte déjà un ROE atteignant 11–15 % »**. En appliquant le modèle de Gordon à rebours, le ROE durable requis pour justifier un PBR de 1,63× est d'environ 11,2 %. L'objectif de ROE 2030 à 15 % est déjà pré-intégré à plus de la moitié.
-- **Les chiffres 2025 révèlent l'écart de vérification.** Produits d'exploitation +4,8 % (première croissance à un chiffre en 4 ans), résultat net +9,1 %, fees & platform +2,9 %. L'objectif de TCAC Fee & Platform à 20 % que s'est fixé l'entreprise se situe 17,1 pp au-dessus de la réalité comptable. L'écart entre le chemin de ROE déjà accepté par le marché et les données comptables effectives est la variable de suivi centrale à partir de la partie 7.
-- **Les deux extrémités de la série définissent la dimension analytique.** Korea Investment Holdings (coût des fonds propres 17,3 %, marché conservateur) et KakaoBank (coût des fonds propres 4,2 %, marché agressif) forment les **points d'ancrage comptables du chapitre « définition d'une nouvelle coordonnée »**. Pour les deux, la « vitesse de reconnaissance de la coordonnée » détermine la direction de convergence du coût des fonds propres — mais Korea Investment se resserre de 17,3 % vers 14–15 %, tandis que KakaoBank **défend 4,2 % contre un retour vers 8–10 %**.
+- <strong>KakaoBank est l'image miroir de Korea Investment Holdings (partie 5).</strong> Les deux appartiennent au chapitre « définition d'une nouvelle coordonnée », mais à des extrémités exactement opposées. Korea Investment Holdings : le marché est conservateur, coût des fonds propres implicite de 17,3 % (territoire de décote). KakaoBank : le marché est agressif, coût des fonds propres implicite \~4,2 % (territoire de prime). Cette asymétrie polaire forme les deux extrémités d'une même dimension analytique.
+- <strong>La nouvelle coordonnée revendiquée par l'entreprise est explicite.</strong> « Pas une banque dépôts-crédit-marge, mais une banque-plateforme à faible coût de financement avec une couverture financière mobile nationale — la monétisation Fee & Platform + l'IA + les fusions-acquisitions + l'expansion mondiale portent le ROE à 15 %. » Sur les sept arguments à l'appui, le trafic (26,7 M de clients, MAU de 20,0 M) et les financements à faible coût (mix de 57,1 %) sont solidement vérifiés ; la monétisation Fee & Platform et le levier opérationnel de l'IA ne le sont pas encore.
+- <strong>Le coût des fonds propres implicite de 4,2 % révèle la position du marché.</strong> ROE 7,22 % / PBR 1,72× = <strong>4,20 %</strong>. Ce chiffre n'est pas le coût « actuel » des fonds propres appliqué par le marché — il représente effectivement <strong>« un cours qui accepte déjà un ROE atteignant 11–15 % »</strong>. En appliquant le modèle de Gordon à rebours, le ROE durable requis pour justifier un PBR de 1,63× est d'environ 11,2 %. L'objectif de ROE 2030 à 15 % est déjà pré-intégré à plus de la moitié.
+- <strong>Les chiffres 2025 révèlent l'écart de vérification.</strong> Produits d'exploitation +4,8 % (première croissance à un chiffre en 4 ans), résultat net +9,1 %, fees & platform +2,9 %. L'objectif de TCAC Fee & Platform à 20 % que s'est fixé l'entreprise se situe 17,1 pp au-dessus de la réalité comptable. L'écart entre le chemin de ROE déjà accepté par le marché et les données comptables effectives est la variable de suivi centrale à partir de la partie 7.
+- <strong>Les deux extrémités de la série définissent la dimension analytique.</strong> Korea Investment Holdings (coût des fonds propres 17,3 %, marché conservateur) et KakaoBank (coût des fonds propres 4,2 %, marché agressif) forment les <strong>points d'ancrage comptables du chapitre « définition d'une nouvelle coordonnée »</strong>. Pour les deux, la « vitesse de reconnaissance de la coordonnée » détermine la direction de convergence du coût des fonds propres — mais Korea Investment se resserre de 17,3 % vers 14–15 %, tandis que KakaoBank <strong>défend 4,2 % contre un retour vers 8–10 %</strong>.
 
 ---
 
@@ -62,12 +62,12 @@ En rassemblant toutes les coordonnées visitées par la série, avec l'ajout de 
 | Partie 2 | Kiwoom Securities | 20,7 % | 1,39× | 14,9 % | Bêta volume d'échanges | Pic |
 | Partie 3 | KB Financial Group | 10,5 % | 0,88× | 11,9 % | Proxy d'accès étranger | Pic |
 | Partie 4 | Shinhan Financial | 11,9 % | 0,78× | 15,3 % | Transit vers la coordonnée KB | Transit |
-| Partie 5 | Korea Investment Holdings | 18,5 % | 1,07× | **17,3 %** (record de la série) | Plateforme capital-opérations | **Nouvelle coordonnée (extrémité conservatrice)** |
-| **Partie 6 (ce billet)** | **KakaoBank** | **7,22 %** (2025) / 7,8 % (2026E) | **1,72×** | **4,2 %** (plancher de la série) | **Plateforme financière mobile** | **Nouvelle coordonnée (extrémité agressive)** |
+| Partie 5 | Korea Investment Holdings | 18,5 % | 1,07× | <strong>17,3 %</strong> (record de la série) | Plateforme capital-opérations | <strong>Nouvelle coordonnée (extrémité conservatrice)</strong> |
+| <strong>Partie 6 (ce billet)</strong> | <strong>KakaoBank</strong> | <strong>7,22 %</strong> (2025) / 7,8 % (2026E) | <strong>1,72×</strong> | <strong>4,2 %</strong> (plancher de la série) | <strong>Plateforme financière mobile</strong> | <strong>Nouvelle coordonnée (extrémité agressive)</strong> |
 
 Vérification : coût des fonds propres implicite de KakaoBank = 7,22 / 1,72 = 4,198 % ≈ 4,2 % ✓
 
-Lecture en une ligne : **les cinq autres sociétés de la série se concentrent entre 11,5 % et 17,3 %, mais KakaoBank à 4,2 % se situe très en dehors.** Korea Investment Holdings (17,3 %) et KakaoBank (4,2 %) sont distants de 13,1 pp — les deux extrémités du même chapitre « définition d'une nouvelle coordonnée ».
+Lecture en une ligne : <strong>les cinq autres sociétés de la série se concentrent entre 11,5 % et 17,3 %, mais KakaoBank à 4,2 % se situe très en dehors.</strong> Korea Investment Holdings (17,3 %) et KakaoBank (4,2 %) sont distants de 13,1 pp — les deux extrémités du même chapitre « définition d'une nouvelle coordonnée ».
 
 ### 1.2 KakaoBank en un tableau
 
@@ -82,13 +82,13 @@ Lecture en une ligne : **les cinq autres sociétés de la série se concentrent 
 | P/E / P/B 2026E (LS, recalculé) | 21,5× / 1,64× |
 | ROE 2025 | 7,22 % |
 | ROE 2026E / ROE 2027E | 7,8 % / 8,1 % |
-| **Coût des fonds propres implicite (2025)** | **4,20 %** |
+| <strong>Coût des fonds propres implicite (2025)</strong> | <strong>4,20 %</strong> |
 | Clients (déc. 2025) | 26,7 M |
 | MAU / WAU | 20,0 M / 14,7 M |
 | Produits d'exploitation 2025 / variation annuelle | ₩3 086,3 Mds / +4,8 % |
 | Résultat d'exploitation 2025 / variation annuelle | ₩649,4 Mds / +7,0 % |
 | Résultat net 2025 / variation annuelle | ₩480,3 Mds / +9,1 % |
-| Revenus Fee & Platform 2025 / variation annuelle | ₩310,5 Mds / **+2,9 %** |
+| Revenus Fee & Platform 2025 / variation annuelle | ₩310,5 Mds / <strong>+2,9 %</strong> |
 | Revenus hors intérêts 2025 / variation annuelle | ₩1 088,6 Mds / +22,4 % |
 | Encours de dépôts (2025) | ₩68,3 Bn (+24,0 %) |
 | Mix dépôts à faible coût | 57,1 % (vs secteur 39,2 %) |
@@ -108,7 +108,7 @@ Vérifications :
 - Variation annuelle résultat net = 480,3 / 440,1 − 1 = 9,13 % ≈ 9,1 % ✓
 - Écart objectif TCAC vs réalisé = 20,0 − 2,9 = 17,1 pp
 
-Deux constats : KakaoBank affiche le ROE le plus faible de la série des six sociétés et simultanément le coût des fonds propres implicite le plus bas. **Une position où « faible ROE + faible coût des fonds propres » coexistent — signifiant que le marché a pré-accepté le chemin d'amélioration du ROE.**
+Deux constats : KakaoBank affiche le ROE le plus faible de la série des six sociétés et simultanément le coût des fonds propres implicite le plus bas. <strong>Une position où « faible ROE + faible coût des fonds propres » coexistent — signifiant que le marché a pré-accepté le chemin d'amélioration du ROE.</strong>
 
 ---
 
@@ -133,7 +133,7 @@ Vérification : écart du coût des fonds propres = 17,3 − 4,2 = 13,1 pp
 
 ### 2.2 Pourquoi les deux sociétés appartiennent au même chapitre
 
-La raison pour laquelle ces deux sociétés forment les extrémités du chapitre « définition d'une nouvelle coordonnée » est simple — **aucune des deux ne se superpose proprement à l'un des quatre pics existants de la série** (Meritz, Kiwoom, KB, transit Shinhan).
+La raison pour laquelle ces deux sociétés forment les extrémités du chapitre « définition d'une nouvelle coordonnée » est simple — <strong>aucune des deux ne se superpose proprement à l'un des quatre pics existants de la série</strong> (Meritz, Kiwoom, KB, transit Shinhan).
 
 ```
 Vérification du positionnement de Korea Investment Holdings :
@@ -157,9 +157,9 @@ Mais la *direction vers la coordonnée distincte* est opposée. Korea Investment
 
 Cette relation en miroir produit deux méta-messages pour la série.
 
-**Premièrement**, la « définition d'une nouvelle coordonnée » n'est pas un mécanisme unidirectionnel. Les deux directions existent — les entreprises qui tirent les marchés (Korea Investment) et les marchés qui tirent les entreprises (KakaoBank). Les deux s'expriment comme une convergence du coût des fonds propres, mais les points de départ diffèrent.
+<strong>Premièrement</strong>, la « définition d'une nouvelle coordonnée » n'est pas un mécanisme unidirectionnel. Les deux directions existent — les entreprises qui tirent les marchés (Korea Investment) et les marchés qui tirent les entreprises (KakaoBank). Les deux s'expriment comme une convergence du coût des fonds propres, mais les points de départ diffèrent.
 
-**Deuxièmement**, la direction de convergence opposée signifie que **les données nécessaires à la vérification sont différentes**. Korea Investment requiert une « vérification comptable du modèle économique de la société » ; KakaoBank requiert une « récupération comptable du chemin de ROE que le marché a déjà pré-intégré ». La nature des données trimestrielles dont chaque société a besoin est fondamentalement différente.
+<strong>Deuxièmement</strong>, la direction de convergence opposée signifie que <strong>les données nécessaires à la vérification sont différentes</strong>. Korea Investment requiert une « vérification comptable du modèle économique de la société » ; KakaoBank requiert une « récupération comptable du chemin de ROE que le marché a déjà pré-intégré ». La nature des données trimestrielles dont chaque société a besoin est fondamentalement différente.
 
 Ces deux méta-messages ne deviennent visibles qu'en lisant ensemble les parties 5 et 6.
 
@@ -188,15 +188,15 @@ Les sept arguments que KakaoBank présente pour sa « nouvelle coordonnée », c
 
 | Argument | Preuve de la société | Statut de vérification |
 | --- | --- | --- |
-| ① Avantage de trafic financier mobile | 26,7 M de clients, MAU 20,0 M, WAU 14,7 M | **Solidement vérifié** |
-| ② Force du financement à faible coût | Dépôts ₩68,3 Bn, mix faible coût 57,1 % (secteur 39,2 %) | **Solidement vérifié** |
-| ③ Monétisation Fee & Platform | Comparateur de crédit · publicité · plateforme investissement, objectif TCAC 20 % | **Non vérifié (réel +2,9 %)** |
+| ① Avantage de trafic financier mobile | 26,7 M de clients, MAU 20,0 M, WAU 14,7 M | <strong>Solidement vérifié</strong> |
+| ② Force du financement à faible coût | Dépôts ₩68,3 Bn, mix faible coût 57,1 % (secteur 39,2 %) | <strong>Solidement vérifié</strong> |
+| ③ Monétisation Fee & Platform | Comparateur de crédit · publicité · plateforme investissement, objectif TCAC 20 % | <strong>Non vérifié (réel +2,9 %)</strong> |
 | ④ Diversification gestion d'actifs / crédit | PME · garanties · expansion crédit réglementé | En cours, partiel |
 | ⑤ Banque IA Native | IA recherche / calculatrice / virement / conseil, 2,8 M d'utilisateurs | Faiblement vérifié (pas encore de monétisation) |
 | ⑥ Fusions-acquisitions · Expansion mondiale | Superbank, banque virtuelle Thaïlande, task force M&A | Stade optionnel |
 | ⑦ Retour aux actionnaires | Objectif de distribution 2026 à 50 % | En renforcement (45,6 % atteints) |
 
-La caractéristique clé est l'**asymétrie de vérification**. ①, ② et ⑦ sont clos ou en cours de clôture sur le plan comptable. ③, ④, ⑤ et ⑥ ne se ferment pas encore dans les données comptables.
+La caractéristique clé est l'<strong>asymétrie de vérification</strong>. ①, ② et ⑦ sont clos ou en cours de clôture sur le plan comptable. ③, ④, ⑤ et ⑥ ne se ferment pas encore dans les données comptables.
 
 ### 3.3 Ce que le marché a déjà pré-intégré
 
@@ -214,9 +214,9 @@ Vérification :
 - 1,63 × (9,0 % − 0,5 × ROE) = 0,5 × ROE
 - 14,67 % − 0,815 × ROE = 0,5 × ROE
 - 14,67 % = 1,315 × ROE
-- ROE = 14,67 % / 1,315 = **11,16 % ≈ 11,2 %** ✓
+- ROE = 14,67 % / 1,315 = <strong>11,16 % ≈ 11,2 %</strong> ✓
 
-Autrement dit : **un PBR de 1,63× implique que le marché perçoit le ROE durable de KakaoBank à 11,2 %**. Face au ROE 2025 de 7,22 %, au 7,8 % de 2026E et au 8,1 % de 2027E, l'écart est de +3,1 à +4,0 pp — cet écart est la « portion pré-intégrée ». C'est ce que représente concrètement un coût des fonds propres implicite de 4,2 %.
+Autrement dit : <strong>un PBR de 1,63× implique que le marché perçoit le ROE durable de KakaoBank à 11,2 %</strong>. Face au ROE 2025 de 7,22 %, au 7,8 % de 2026E et au 8,1 % de 2027E, l'écart est de +3,1 à +4,0 pp — cet écart est la « portion pré-intégrée ». C'est ce que représente concrètement un coût des fonds propres implicite de 4,2 %.
 
 ### 3.4 Le « cœur du pré-intégré » réside dans les arguments ③⑤⑥
 
@@ -224,17 +224,17 @@ Les arguments vérifiés ① ② ⑦ seuls ne justifient pas un PBR de 1,63×. E
 
 Le cœur du « pré-intégré » réside donc dans les arguments non vérifiés :
 
-- **③ Monétisation Fee & Platform** — le marché intègre partiellement un TCAC de 20 %
-- **⑤ Banque IA Native** — le levier opérationnel de l'IA améliore le CIR et le ROA, partiellement intégré
-- **⑥ Superbank · Banque virtuelle Thaïlande** — option de hausse inorganique du ROE, partiellement intégrée
+- <strong>③ Monétisation Fee & Platform</strong> — le marché intègre partiellement un TCAC de 20 %
+- <strong>⑤ Banque IA Native</strong> — le levier opérationnel de l'IA améliore le CIR et le ROA, partiellement intégré
+- <strong>⑥ Superbank · Banque virtuelle Thaïlande</strong> — option de hausse inorganique du ROE, partiellement intégrée
 
-La façon dont ces trois arguments se traduisent en données comptables chaque trimestre est le **seuil défendable** qui détermine si le coût des fonds propres de 4,2 % se maintient ou rebondit vers la plage 8–10 %. C'est la variable de suivi centrale à partir de la partie 6.
+La façon dont ces trois arguments se traduisent en données comptables chaque trimestre est le <strong>seuil défendable</strong> qui détermine si le coût des fonds propres de 4,2 % se maintient ou rebondit vers la plage 8–10 %. C'est la variable de suivi centrale à partir de la partie 6.
 
 ---
 
 ## 4. Décomposition du coût des fonds propres implicite de 4,2 % (les « 5 facteurs de prime »)
 
-La partie 5 décomposait les « 5 facteurs de décote (5,8 pp) » de Korea Investment Holdings. Pour KakaoBank, l'exercice en miroir produit les **« 5 facteurs de prime »** — cinq raisons pour lesquelles le marché abaisse le coût des fonds propres en dessous du repère normal d'environ 9 %.
+La partie 5 décomposait les « 5 facteurs de décote (5,8 pp) » de Korea Investment Holdings. Pour KakaoBank, l'exercice en miroir produit les <strong>« 5 facteurs de prime »</strong> — cinq raisons pour lesquelles le marché abaisse le coût des fonds propres en dessous du repère normal d'environ 9 %.
 
 ### 4.1 Décomposition en cinq facteurs de prime
 
@@ -245,7 +245,7 @@ La partie 5 décomposait les « 5 facteurs de décote (5,8 pp) » de Korea Inves
 | Scénario TCAC Fee & Platform 20 % (pré-intégré) | Guidance de la société, exécution comparateur crédit ₩5 Bn | \~−1,5 pp |
 | Levier opérationnel IA + option Superbank (pré-intégré) | 2,8 M d'utilisateurs IA, banque virtuelle Thaïlande opérationnelle | \~−1,0 pp |
 | Distribution 45,6 % → 50 % en cours (en vérification) | DPA ₩80 → ₩460, +475 % sur 5 ans | \~−0,5 pp |
-| **Total** | | **\~−4,8 pp** |
+| <strong>Total</strong> | | <strong>\~−4,8 pp</strong> |
 
 En supposant un coût des fonds propres normal de 9 %, les 4,2 % reflètent \~−4,8 pp de prime. Vérification : 9,0 − 4,8 = 4,2 % ✓
 
@@ -255,8 +255,8 @@ Placer les deux sociétés dans un même tableau révèle la décomposition pola
 
 | Société | Coût des fonds propres normal | Ajustement | Coût des fonds propres implicite |
 | --- | ---: | ---: | ---: |
-| Korea Investment Holdings | 11,5 % (niveau Meritz) | **+5,8 pp (décote)** | 17,3 % |
-| KakaoBank | 9,0 % (norme bancaire) | **−4,8 pp (prime)** | 4,2 % |
+| Korea Investment Holdings | 11,5 % (niveau Meritz) | <strong>+5,8 pp (décote)</strong> | 17,3 % |
+| KakaoBank | 9,0 % (norme bancaire) | <strong>−4,8 pp (prime)</strong> | 4,2 % |
 
 Les deux sociétés se situent « à l'écart du coût des fonds propres normal » — Korea Investment en territoire de décote, KakaoBank en territoire de prime. Korea Investment se réduit depuis la décote ; KakaoBank défend la prime.
 
@@ -288,7 +288,7 @@ La partie 5 vérifiait la « cohérence qualitative des opérations +76,3 % » d
 | 2022 | ₩1 605,8 Mds | +50,8 % | ₩263,1 Mds | +28,9 % |
 | 2023 | ₩2 494,0 Mds | +55,3 % | ₩354,9 Mds | +34,9 % |
 | 2024 | ₩2 945,6 Mds | +18,1 % | ₩440,1 Mds | +24,0 % |
-| 2025 | ₩3 086,3 Mds | **+4,8 %** | ₩480,3 Mds | **+9,1 %** |
+| 2025 | ₩3 086,3 Mds | <strong>+4,8 %</strong> | ₩480,3 Mds | <strong>+9,1 %</strong> |
 
 En quatre ans, la croissance des produits d'exploitation est passée de la plage +50 % à +4,8 %, et la croissance du résultat net de la plage +28 % à +9,1 %. Il s'agit de la maturation naturelle de la courbe de croissance — toute société à forte croissance converge inévitablement vers une croissance à un chiffre.
 
@@ -309,9 +309,9 @@ Selon LS Securities, le rythme de croissance du résultat normalisé de KakaoBan
 | KB | BPA +12,3 % (effet rachat inclus) |
 | Shinhan | +14,7 % |
 | Korea Investment | +6,1 % (normalisation des opérations) |
-| **KakaoBank** | **+12,2 % (LS) / +23,7 % (titre consensus)** |
+| <strong>KakaoBank</strong> | <strong>+12,2 % (LS) / +23,7 % (titre consensus)</strong> |
 
-À noter que la croissance du résultat net de +12,2 % estimée par LS pour KakaoBank ne diffère pas beaucoup du reste de la série. **La « prime de croissance » intégrée dans le cours tient moins à une progression du ROE qu'à une « croissance stable de 12 % après normalisation de la croissance des revenus ».**
+À noter que la croissance du résultat net de +12,2 % estimée par LS pour KakaoBank ne diffère pas beaucoup du reste de la série. <strong>La « prime de croissance » intégrée dans le cours tient moins à une progression du ROE qu'à une « croissance stable de 12 % après normalisation de la croissance des revenus ».</strong>
 
 ### 5.3 Le piège du P/E affiché à 19,5× — plus-value de réévaluation Superbank
 
@@ -326,7 +326,7 @@ BPA ajusté = ₩1 246 − ₩143 = \~₩1 103
 P/E ajusté = ₩24 350 / ₩1 103 = \~22,1×
 ```
 
-Ainsi, le « P/E sur résultats récurrents » est plus proche de **22–23×** que de 19,5×. Cet ajustement est important pour la série car le coût des fonds propres implicite de 4,2 % de KakaoBank est basé sur un BPA incluant des éléments non récurrents. Sur une base récurrente, le coût des fonds propres implicite se rapproche de 4,7–5,0 %.
+Ainsi, le « P/E sur résultats récurrents » est plus proche de <strong>22–23×</strong> que de 19,5×. Cet ajustement est important pour la série car le coût des fonds propres implicite de 4,2 % de KakaoBank est basé sur un BPA incluant des éléments non récurrents. Sur une base récurrente, le coût des fonds propres implicite se rapproche de 4,7–5,0 %.
 
 ```
 PBR sur bénéfices récurrents (VCA ₩14 936, cours ₩24 350) : 1,63× (inchangé)
@@ -334,17 +334,17 @@ ROE ajusté = ROE comptable 7,22 % × (part récurrente) ≈ \~6,5 %
 Coût des fonds propres implicite ajusté = 6,5 / 1,63 ≈ 4,0 %
 ```
 
-L'écart entre les 4,2 % affichés et les \~4,0 % ajustés est faible, mais directionnellement identique — **le marché perçoit le ROE de KakaoBank comme supérieur au ROE comptable affiché**. C'est l'essence même du « pré-intégré de la nouvelle coordonnée ».
+L'écart entre les 4,2 % affichés et les \~4,0 % ajustés est faible, mais directionnellement identique — <strong>le marché perçoit le ROE de KakaoBank comme supérieur au ROE comptable affiché</strong>. C'est l'essence même du « pré-intégré de la nouvelle coordonnée ».
 
 ---
 
 ## 6. Le mécanisme qui protège la « reconnaissance de coordonnée » du glissement
 
-La partie 5 encadrait le « resserrement du coût des fonds propres » de Korea Investment Holdings à travers deux mécanismes d'auto-stabilisation (gouvernance, retour aux actionnaires). Pour KakaoBank, l'exercice en miroir produit **deux mécanismes qui protègent le coût des fonds propres d'un retour dans la plage normale**.
+La partie 5 encadrait le « resserrement du coût des fonds propres » de Korea Investment Holdings à travers deux mécanismes d'auto-stabilisation (gouvernance, retour aux actionnaires). Pour KakaoBank, l'exercice en miroir produit <strong>deux mécanismes qui protègent le coût des fonds propres d'un retour dans la plage normale</strong>.
 
 ### 6.1 Mécanisme 1 — Le ROE comptable rattrape le ROE implicite de marché
 
-Le mécanisme d'auto-stabilisation le plus puissant de KakaoBank est simple — **le ROE comptable atteint effectivement les 11,2 % que le marché a impliqués**.
+Le mécanisme d'auto-stabilisation le plus puissant de KakaoBank est simple — <strong>le ROE comptable atteint effectivement les 11,2 % que le marché a impliqués</strong>.
 
 ```
 ROE 2025 : 7,22 %
@@ -376,7 +376,7 @@ Coût des fonds propres implicite 4,2 % se stabilise
 de « prime » vers « normal »
 ```
 
-Lorsque ce mécanisme opère, KakaoBank n'a pas besoin d'une revalorisation du PBR à la baisse pour « restaurer la prime ». **Le ROE lui-même rattrape la valeur impliquée par le marché**, et le coût des fonds propres reste dans la plage normalisée.
+Lorsque ce mécanisme opère, KakaoBank n'a pas besoin d'une revalorisation du PBR à la baisse pour « restaurer la prime ». <strong>Le ROE lui-même rattrape la valeur impliquée par le marché</strong>, et le coût des fonds propres reste dans la plage normalisée.
 
 ### 6.2 Mécanisme 2 — Vérification de la trajectoire de distribution à 50 %
 
@@ -404,11 +404,11 @@ Comparaison de ce mécanisme avec le reste de la série :
 | Shinhan | 50,2 % | En cours | Forte hausse |
 | Korea Investment | 25,1 % | Absent | +4,7 pp (lent) |
 | Kiwoom | \~classe 30 % | 7,99 % par étapes | En cours |
-| **KakaoBank** | **45,6 %** | **À l'étude** | **+31,1 pp (le plus rapide)** |
+| <strong>KakaoBank</strong> | <strong>45,6 %</strong> | <strong>À l'étude</strong> | <strong>+31,1 pp (le plus rapide)</strong> |
 
-Un fait frappant : **KakaoBank affiche la hausse la plus rapide du taux de distribution sur 5 ans (+31,1 pp) parmi les six sociétés de la série**. Il s'agit d'une preuve comptable directe que l'entreprise opère la transition la plus active de « valeur de croissance » vers « valeur de rendement ».
+Un fait frappant : <strong>KakaoBank affiche la hausse la plus rapide du taux de distribution sur 5 ans (+31,1 pp) parmi les six sociétés de la série</strong>. Il s'agit d'une preuve comptable directe que l'entreprise opère la transition la plus active de « valeur de croissance » vers « valeur de rendement ».
 
-C'est le mécanisme d'auto-stabilisation 2 — **le taux de distribution atteint rapidement les niveaux de la moyenne de la série (\~50 %), faisant progressivement évoluer la « prime de croissance » vers une « prime croissance + retour en capital ».**
+C'est le mécanisme d'auto-stabilisation 2 — <strong>le taux de distribution atteint rapidement les niveaux de la moyenne de la série (\~50 %), faisant progressivement évoluer la « prime de croissance » vers une « prime croissance + retour en capital ».</strong>
 
 ### 6.3 Les deux mécanismes opèrent ensemble
 
@@ -428,7 +428,7 @@ Coût des fonds propres implicite 4,2 % se maintient ou se normalise
 naturellement vers 5–6 %
 ```
 
-Que se passe-t-il si ces mécanismes ne fonctionnent pas ? **Si l'écart entre le ROE implicite de marché de 11,2 % et le ROE réel de 8 % ne se comble pas dans les données comptables trimestrielles, le marché exerce une pression pour « rappeler » le coût des fonds propres vers la plage normale (8–9 %)**. Cette pression peut s'exprimer sous forme d'une revalorisation du PBR à la baisse, de 1,63× vers \~1,0×. C'est la qualité défensive du mécanisme.
+Que se passe-t-il si ces mécanismes ne fonctionnent pas ? <strong>Si l'écart entre le ROE implicite de marché de 11,2 % et le ROE réel de 8 % ne se comble pas dans les données comptables trimestrielles, le marché exerce une pression pour « rappeler » le coût des fonds propres vers la plage normale (8–9 %)</strong>. Cette pression peut s'exprimer sous forme d'une revalorisation du PBR à la baisse, de 1,63× vers \~1,0×. C'est la qualité défensive du mécanisme.
 
 ---
 
@@ -440,8 +440,8 @@ La partie 5 avait introduit la « définition d'une nouvelle coordonnée » comm
 
 | Mode | Société | Position du marché | Direction de vérification |
 | --- | --- | --- | --- |
-| **L'entreprise tire le marché** | Korea Investment Holdings | Conservatrice (décote) | Le modèle économique accumule les vérifications comptables |
-| **Le marché tire l'entreprise** | KakaoBank | Agressive (prime) | La valeur implicite du marché est récupérée par la comptabilité |
+| <strong>L'entreprise tire le marché</strong> | Korea Investment Holdings | Conservatrice (décote) | Le modèle économique accumule les vérifications comptables |
+| <strong>Le marché tire l'entreprise</strong> | KakaoBank | Agressive (prime) | La valeur implicite du marché est récupérée par la comptabilité |
 
 Les deux modes sont des sous-ensembles de la « définition d'une nouvelle coordonnée », mais la nature des données trimestrielles requises est différente. Korea Investment suit « les coordonnées promises par l'entreprise se traduisent-elles en chiffres comptables ? » ; KakaoBank suit « le ROE pré-intégré par le marché est-il rattrapé par les données réelles ? »
 
@@ -456,11 +456,11 @@ Partie 5 :    Définition d'une nouvelle coordonnée (extrémité conservatrice)
 Partie 6 :    Définition d'une nouvelle coordonnée (extrémité agressive)
 ```
 
-Lus ensemble, les parties 5 et 6 révèlent que la **« définition d'une nouvelle coordonnée » est un spectre bidirectionnel, et non une dimension unique**. Les prochaines sociétés que la série pourrait couvrir — DB Insurance (candidate à une nouvelle coordonnée dans l'assurance), Mirae Asset Securities (candidate à une nouvelle coordonnée plateforme PI / actifs numériques) — se situeront quelque part sur ce spectre.
+Lus ensemble, les parties 5 et 6 révèlent que la <strong>« définition d'une nouvelle coordonnée » est un spectre bidirectionnel, et non une dimension unique</strong>. Les prochaines sociétés que la série pourrait couvrir — DB Insurance (candidate à une nouvelle coordonnée dans l'assurance), Mirae Asset Securities (candidate à une nouvelle coordonnée plateforme PI / actifs numériques) — se situeront quelque part sur ce spectre.
 
 ### 7.3 L'outil analytique que les deux extrémités apportent à la série
 
-La raison la plus importante pour laquelle ces deux sociétés comptent pour la série : **la matrice du coût des fonds propres implicite dispose maintenant de ses deux points d'ancrage « décote » et « prime »**. La matrice à la clôture de la partie 6 :
+La raison la plus importante pour laquelle ces deux sociétés comptent pour la série : <strong>la matrice du coût des fonds propres implicite dispose maintenant de ses deux points d'ancrage « décote » et « prime »</strong>. La matrice à la clôture de la partie 6 :
 
 ```
 Matrice du coût des fonds propres implicite (30 avril / 3 mai 2026) :
@@ -474,7 +474,7 @@ Kakao  Meritz   KB    Kiwoom  Shinhan   KIH
  agressive)
 ```
 
-Ce spectre est l'outil le plus quantitatif de la série pour suivre le changement de reconnaissance dans les financières coréennes. Suivre les évolutions de position des six sociétés chaque trimestre révèle **quelles coordonnées le marché commence à reconnaître plus profondément** sur le plan comptable.
+Ce spectre est l'outil le plus quantitatif de la série pour suivre le changement de reconnaissance dans les financières coréennes. Suivre les évolutions de position des six sociétés chaque trimestre révèle <strong>quelles coordonnées le marché commence à reconnaître plus profondément</strong> sur le plan comptable.
 
 ---
 
@@ -484,8 +484,8 @@ Ce spectre est l'outil le plus quantitatif de la série pour suivre le changemen
 
 Un coût des fonds propres implicite de 4,2 % implique simultanément deux scénarios futurs :
 
-- **Scénario A (auto-vérification)** : le ROE comptable atteint effectivement la plage des 11 %, faisant de 4,2 % le coût des fonds propres « normal ».
-- **Scénario B (normalisation)** : le ROE comptable reste dans la plage des 8 %, faisant de 4,2 % une « prime excessive » qui se convertit en pression de revalorisation du PBR à la baisse.
+- <strong>Scénario A (auto-vérification)</strong> : le ROE comptable atteint effectivement la plage des 11 %, faisant de 4,2 % le coût des fonds propres « normal ».
+- <strong>Scénario B (normalisation)</strong> : le ROE comptable reste dans la plage des 8 %, faisant de 4,2 % une « prime excessive » qui se convertit en pression de revalorisation du PBR à la baisse.
 
 Le scénario vers lequel chaque clôture comptable trimestrielle tend détermine la direction du resserrement du coût des fonds propres par le marché. Ce n'est pas une faiblesse — c'est le mécanisme d'auto-vérification du modèle, le même type de cohérence que Kiwoom (partie 2, section 7.1) reconnaissait avec « accepter la volatilité trimestrielle, acheter le ROE moyen annuel ».
 
@@ -495,7 +495,7 @@ L'écart entre l'objectif de TCAC Fee & Platform à 20 % de l'entreprise et le +
 
 Mais cet écart fonctionne comme une « variable de suivi », non comme une « faiblesse ». La vitesse à laquelle il se réduit trimestre après trimestre est le signal direct de la trajectoire ROE 8 % → 11 %. Si la croissance Fee & Platform récupère progressivement — +2,9 % → +5 % → +10 % → +15 % — sur T1 2026 → T2 2026 → T3 2026, le scénario d'auto-vérification est à l'œuvre.
 
-Ce n'est pas un défaut du modèle — c'est le **mécanisme d'auto-stabilisation inhérent à l'identité du modèle**. Un modèle cadré comme « un cours qui accepte déjà une nouvelle coordonnée » comporte structurellement la nécessité d'être « récupéré par des données de vérification chaque trimestre ».
+Ce n'est pas un défaut du modèle — c'est le <strong>mécanisme d'auto-stabilisation inhérent à l'identité du modèle</strong>. Un modèle cadré comme « un cours qui accepte déjà une nouvelle coordonnée » comporte structurellement la nécessité d'être « récupéré par des données de vérification chaque trimestre ».
 
 ---
 
@@ -505,11 +505,11 @@ Non pas des déclencheurs de transaction. Des points d'observation qui montrent 
 
 ### 9.1 KakaoBank — Vérification de la récupération de coordonnée
 
-- **Résultats T1 2026 (prévus le 6 mai 2026)** : un résultat net récurrent (hors plus-value Superbank) en hausse de +15 % ou plus en rythme annuel déclenche l'auto-vérification.
-- **Trajectoire trimestrielle du ROE** : progression 7,22 % → 7,8 % → 8 % → 9 % → classe 11 %. Même +0,2 pp par trimestre visualise un chemin vers les 11,2 % impliqués par le marché.
-- **Taux de croissance Fee & Platform** : une récupération du +2,9 % actuel vers +10 % ou plus renforce la crédibilité de l'objectif TCAC 20 % de la société.
-- **Levier opérationnel de la Banque IA Native** : si le CIR (actuellement 36,9 %) s'améliore en dessous de 35 %.
-- **Superbank · Banque virtuelle Thaïlande** : quand la contribution passe de « réévaluation » à « résultats récurrents ».
+- <strong>Résultats T1 2026 (prévus le 6 mai 2026)</strong> : un résultat net récurrent (hors plus-value Superbank) en hausse de +15 % ou plus en rythme annuel déclenche l'auto-vérification.
+- <strong>Trajectoire trimestrielle du ROE</strong> : progression 7,22 % → 7,8 % → 8 % → 9 % → classe 11 %. Même +0,2 pp par trimestre visualise un chemin vers les 11,2 % impliqués par le marché.
+- <strong>Taux de croissance Fee & Platform</strong> : une récupération du +2,9 % actuel vers +10 % ou plus renforce la crédibilité de l'objectif TCAC 20 % de la société.
+- <strong>Levier opérationnel de la Banque IA Native</strong> : si le CIR (actuellement 36,9 %) s'améliore en dessous de 35 %.
+- <strong>Superbank · Banque virtuelle Thaïlande</strong> : quand la contribution passe de « réévaluation » à « résultats récurrents ».
 
 ### 9.2 Mécanismes d'auto-stabilisation — Déclencheurs clés
 
@@ -523,14 +523,14 @@ Impact estimé sur la défense du coût des fonds propres pour chacun :
 | Croissance utilisateurs IA convertie en CIR ≤35 % | IR trimestriel | \~+0,3 pp de défense |
 | Reconnaissance des résultats récurrents Superbank · Thaïlande | 2S 2026 \~ 2027 | \~+0,5 pp de défense |
 
-Lecture en une ligne : **les cinq déclencheurs opérant ensemble offrent \~3,0 pp de défense supplémentaire pour le coût des fonds propres de 4,2 %**. Cela signifie que la valeur implicite du marché est récupérée en termes comptables, et que la valorisation « prime » se stabilise naturellement comme valorisation « normale ».
+Lecture en une ligne : <strong>les cinq déclencheurs opérant ensemble offrent \~3,0 pp de défense supplémentaire pour le coût des fonds propres de 4,2 %</strong>. Cela signifie que la valeur implicite du marché est récupérée en termes comptables, et que la valorisation « prime » se stabilise naturellement comme valorisation « normale ».
 
 ### 9.3 Méta-signaux au niveau de la série
 
-- **Trajectoire temporelle du coût des fonds propres implicite de 4,2 %** : hausse graduelle vers la plage des 5 % = auto-vérification en cours. Hausse brusque vers 7–9 % = pression de normalisation à l'œuvre.
-- **L'écart de 13,1 pp entre Korea Investment (17,3 %) et KakaoBank (4,2 %)** : la façon dont les deux extrémités de la série se resserrent dans le temps signale le rythme de progression du chapitre « définition d'une nouvelle coordonnée ».
-- **Distribution du coût des fonds propres dans les six sociétés de la série** : si la dispersion se resserre depuis la moyenne (\~12,0 %) mesure directement la profondeur du changement de reconnaissance dans les financières coréennes.
-- **Émergence de nouveaux candidats à la « définition d'une nouvelle coordonnée »** : où Mirae Asset Securities, DB Insurance, etc. se situent sur le spectre entre les deux extrémités.
+- <strong>Trajectoire temporelle du coût des fonds propres implicite de 4,2 %</strong> : hausse graduelle vers la plage des 5 % = auto-vérification en cours. Hausse brusque vers 7–9 % = pression de normalisation à l'œuvre.
+- <strong>L'écart de 13,1 pp entre Korea Investment (17,3 %) et KakaoBank (4,2 %)</strong> : la façon dont les deux extrémités de la série se resserrent dans le temps signale le rythme de progression du chapitre « définition d'une nouvelle coordonnée ».
+- <strong>Distribution du coût des fonds propres dans les six sociétés de la série</strong> : si la dispersion se resserre depuis la moyenne (\~12,0 %) mesure directement la profondeur du changement de reconnaissance dans les financières coréennes.
+- <strong>Émergence de nouveaux candidats à la « définition d'une nouvelle coordonnée »</strong> : où Mirae Asset Securities, DB Insurance, etc. se situent sur le spectre entre les deux extrémités.
 
 ---
 
@@ -538,13 +538,13 @@ Lecture en une ligne : **les cinq déclencheurs opérant ensemble offrent \~3,0 
 
 Cette série a peint « trois pics stabilisés » dans les parties 1–3, « transit entre les pics » dans la partie 4, et le premier cas de « définition d'une nouvelle coordonnée » dans la partie 5. KakaoBank en partie 6 en est l'image miroir — l'autre extrémité du même chapitre.
 
-ROE 7,22 %, PBR 1,72×, coût des fonds propres implicite 4,2 %. Ces chiffres représentent la position où le ROE le plus faible et le coût des fonds propres le plus bas coexistent dans la série des six sociétés. L'écart de 13,1 pp entre Korea Investment Holdings (17,3 %) et KakaoBank (4,2 %) définit les **points d'ancrage comptables du chapitre « définition d'une nouvelle coordonnée »** — d'un côté « l'entreprise qui tire le marché », de l'autre « le marché qui tire l'entreprise ».
+ROE 7,22 %, PBR 1,72×, coût des fonds propres implicite 4,2 %. Ces chiffres représentent la position où le ROE le plus faible et le coût des fonds propres le plus bas coexistent dans la série des six sociétés. L'écart de 13,1 pp entre Korea Investment Holdings (17,3 %) et KakaoBank (4,2 %) définit les <strong>points d'ancrage comptables du chapitre « définition d'une nouvelle coordonnée »</strong> — d'un côté « l'entreprise qui tire le marché », de l'autre « le marché qui tire l'entreprise ».
 
 Les « 5 facteurs de prime » qui constituent les 4,2 % — trafic financier mobile vérifié (−1,0 pp) + financement à faible coût vérifié (−0,8 pp) + scénario TCAC Fee & Platform 20 % pré-intégré (−1,5 pp) + option IA · Superbank pré-intégrée (−1,0 pp) + hausse du taux de distribution en cours de vérification (−0,5 pp) — se partagent entre clôturés en comptabilité (① ② ⑦) et vérifiables trimestre après trimestre (③ ④).
 
 Les deux mécanismes d'auto-stabilisation qui « protègent la coordonnée reconnue d'un glissement » sont : le ROE comptable qui rattrape le ROE implicite de marché de 11,2 %, et la progression rapide du taux de distribution de 45,6 % → 50 % (avec potentiel rachat-annulation) faisant progressivement évoluer la « prime de croissance » vers une « prime croissance + rendement ». Lorsque les deux mécanismes opèrent, le coût des fonds propres de 4,2 % se stabilise « de prime vers normal ».
 
-Le changement de reconnaissance dans les financières coréennes a désormais atteint le stade où **les deux extrémités de la « définition d'une nouvelle coordonnée » sont visibles en termes comptables**. Lire ensemble les parties 5 et 6 révèle que la « définition d'une nouvelle coordonnée » est un spectre bidirectionnel, non une dimension unique. Et la façon dont ce spectre se resserre trimestre après trimestre écrira le prochain chapitre du marché des financières coréennes.
+Le changement de reconnaissance dans les financières coréennes a désormais atteint le stade où <strong>les deux extrémités de la « définition d'une nouvelle coordonnée » sont visibles en termes comptables</strong>. Lire ensemble les parties 5 et 6 révèle que la « définition d'une nouvelle coordonnée » est un spectre bidirectionnel, non une dimension unique. Et la façon dont ce spectre se resserre trimestre après trimestre écrira le prochain chapitre du marché des financières coréennes.
 
 Le prochain billet de la série paraîtra lorsque (1) les résultats T1 2026 de KakaoBank seront publiés (prévu le 6 mai), (2) la récupération du taux de croissance Fee & Platform sera visible, (3) les résultats T1 2026 de Korea Investment Holdings seront publiés, et (4) d'autres candidats à la « définition d'une nouvelle coordonnée » — Mirae Asset Securities, DB Insurance, etc. — seront positionnables sur le spectre.
 
@@ -552,31 +552,31 @@ Le prochain billet de la série paraîtra lorsque (1) les résultats T1 2026 de 
 
 ## FAQ — KakaoBank
 
-**Q : KakaoBank est-elle cotée en bourse ?**
-R : Oui. KakaoBank est cotée sur le KOSPI sous le ticker **323410**.
+<strong>Q : KakaoBank est-elle cotée en bourse ?</strong>
+R : Oui. KakaoBank est cotée sur le KOSPI sous le ticker <strong>323410</strong>.
 
-**Q : Qui détient le capital de KakaoBank ?**
+<strong>Q : Qui détient le capital de KakaoBank ?</strong>
 R : Kakao Corp. est le principal actionnaire. Parmi les autres détenteurs significatifs figurent Korea Investment Value Asset Management, Kookmin Bank et le National Pension Service. Le reste est détenu par des investisseurs institutionnels et particuliers, coréens et étrangers.
 
-**Q : KakaoBank est-elle la même société que Kakao Corp ?**
+<strong>Q : KakaoBank est-elle la même société que Kakao Corp ?</strong>
 R : Non. KakaoBank est une banque exclusivement numérique — une filiale financière cotée séparément. Kakao Corp (KOSPI : 035720) est la grande plateforme internet qui détient la part majoritaire dans KakaoBank, mais constitue elle-même une société cotée distincte.
 
-**Q : Quelle est l'activité de KakaoBank ?**
+<strong>Q : Quelle est l'activité de KakaoBank ?</strong>
 R : KakaoBank est une banque commerciale coréenne opérant exclusivement par voie numérique. Elle propose des dépôts à la consommation, des crédits (notamment une plateforme de comparaison de prêts), des cartes de crédit (émises en partenariat) et une activité Fee & Platform en développement qui inclut l'investissement, la publicité et la distribution de produits financiers. Elle vise également un ROE d'environ 15 % d'ici 2030 et se positionne explicitement comme une « Banque IA Native ».
 
-**Q : Qu'est-ce qu'une banque exclusivement numérique en Corée ?**
+<strong>Q : Qu'est-ce qu'une banque exclusivement numérique en Corée ?</strong>
 R : Une catégorie réglementaire désignant les banques commerciales opérant sans agences physiques, distribuant leurs services exclusivement par voie numérique. KakaoBank, K Bank et Toss Bank sont les trois banques exclusivement numériques coréennes en 2026.
 
-**Q : Comment KakaoBank se compare-t-elle aux banques coréennes traditionnelles comme KB ou Shinhan ?**
+<strong>Q : Comment KakaoBank se compare-t-elle aux banques coréennes traditionnelles comme KB ou Shinhan ?</strong>
 R : Le ROE de KakaoBank à 7,2 % est inférieur à celui de KB (10,5 %) ou de Shinhan (11,9 %). Mais son PBR de 1,72× est bien supérieur au 0,88× de KB ou au 0,78× de Shinhan. Cet écart reflète le marché qui pré-intègre le chemin de KakaoBank vers un ROE plus élevé (objectif 15 % d'ici 2030) ainsi que son identité de plateforme financière mobile, que KB et Shinhan n'ont pas dans la même dimension.
 
-**Q : Qu'est-ce que Superbank ?**
+<strong>Q : Qu'est-ce que Superbank ?</strong>
 R : Un partenariat de banque numérique en Indonésie dans lequel KakaoBank détient des participations. Les plus-values de réévaluation de la participation Superbank sont identifiées dans les états financiers du T1 2026 comme un élément de résultat non opérationnel.
 
-**Q : Qu'est-ce que la banque virtuelle en Thaïlande ?**
+<strong>Q : Qu'est-ce que la banque virtuelle en Thaïlande ?</strong>
 R : Une initiative de banque virtuelle thaïlandaise ayant reçu son agrément en 2026 et ayant débuté ses opérations. KakaoBank y participe dans le cadre de sa stratégie d'expansion mondiale.
 
-**Q : Quelle est la politique de dividende de KakaoBank ?**
+<strong>Q : Quelle est la politique de dividende de KakaoBank ?</strong>
 R : Le taux de retour total aux actionnaires a atteint 45,6 % en 2025 (DPA ₩460, +27,8 % sur un an). Les orientations de la société pour 2026 visent 50 %. La hausse du taux de distribution sur 5 ans (+31,1 pp) est la plus rapide parmi les six sociétés suivies dans cette série.
 
 ---

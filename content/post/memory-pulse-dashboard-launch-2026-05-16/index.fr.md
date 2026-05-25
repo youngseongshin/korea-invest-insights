@@ -14,9 +14,9 @@ tags:
   - "actions coréennes"
 ---
 
-> 🔗 **À lire aussi** : [HBM / KOSPI Investment Hub](/page/korea-semiconductor-hbm-kospi-hub/) · [Korea Daily Market Hub](/page/korea-daily-market-hub/) · [Samsung Electronics Citi TP ₩460 000 — Recadrage du cycle mémoire](/post/samsung-electronics-citi-tp-460000-memory-rerating-2026-05-11/) · [Pourquoi la Corée — Partie 4 : 6,7 Mds$ d'entrées, la décote coréenne se dissout-elle ou est-ce un piège à valeur ?](/post/korea-67-billion-etf-inflow-korea-discount-or-value-trap-2026-05-09/)
+> 🔗 <strong>À lire aussi</strong> : [HBM / KOSPI Investment Hub](/page/korea-semiconductor-hbm-kospi-hub/) · [Korea Daily Market Hub](/page/korea-daily-market-hub/) · [Samsung Electronics Citi TP ₩460 000 — Recadrage du cycle mémoire](/post/samsung-electronics-citi-tp-460000-memory-rerating-2026-05-11/) · [Pourquoi la Corée — Partie 4 : 6,7 Mds$ d'entrées, la décote coréenne se dissout-elle ou est-ce un piège à valeur ?](/post/korea-67-billion-etf-inflow-korea-discount-or-value-trap-2026-05-09/)
 
-> 🌐 **Accéder** : **[memory.koreainvestinsights.com](https://memory.koreainvestinsights.com/)** — Memory Pulse Live Signal Board
+> 🌐 <strong>Accéder</strong> : <strong>[memory.koreainvestinsights.com](https://memory.koreainvestinsights.com/)</strong> — Memory Pulse Live Signal Board
 
 *Le domaine personnalisé memory.koreainvestinsights.com est officiellement en ligne. « Memory Pulse » est un tableau de bord de signaux en temps réel centré sur Samsung Electronics et SK hynix. Si les analyses du blog expliquent le « pourquoi » à l'horizon trimestriel / hebdomadaire, ce tableau de bord montre « maintenant » — où circulent les flux en intraday, comment les semi-conducteurs américains ont évolué du jour au lendemain, comment le FX et le risque macro progressent — le tout sur un seul écran.*
 
@@ -24,11 +24,11 @@ tags:
 
 ## En bref
 
-* **Ce que c'est.** Un tableau de bord de signaux en temps réel spécifiquement dédié à Samsung Electronics (005930) et SK hynix (000660). Ancré sur l'heure coréenne.
-* **Pourquoi nous l'avons construit.** Pour combler le fossé entre l'analyse du blog (trimestrielle / hebdomadaire) et les données de marché en direct. « Comment la thèse d'hier se concrétise-t-elle aujourd'hui ? » — visible en un seul écran.
-* **Comment l'utiliser.** Parcours : synthèse executive → aperçu du marché → fiches entreprises → moteurs de signaux → tableau des mouvements d'instruments.
-* **Transparence sur la fiabilité des données.** Chaque ligne porte un label **Live / Retardé / Substitut / Absent**. On distingue d'un coup d'œil les cotations en temps réel des valeurs retardées ou de substitution.
-* **Intégration au blog.** Liens directs vers le [HBM Hub](/page/korea-semiconductor-hbm-kospi-hub/), le [Daily Market Hub](/page/korea-daily-market-hub/), le canal Telegram et Substack. L'extension en temps réel du même cadre d'analyse.
+* <strong>Ce que c'est.</strong> Un tableau de bord de signaux en temps réel spécifiquement dédié à Samsung Electronics (005930) et SK hynix (000660). Ancré sur l'heure coréenne.
+* <strong>Pourquoi nous l'avons construit.</strong> Pour combler le fossé entre l'analyse du blog (trimestrielle / hebdomadaire) et les données de marché en direct. « Comment la thèse d'hier se concrétise-t-elle aujourd'hui ? » — visible en un seul écran.
+* <strong>Comment l'utiliser.</strong> Parcours : synthèse executive → aperçu du marché → fiches entreprises → moteurs de signaux → tableau des mouvements d'instruments.
+* <strong>Transparence sur la fiabilité des données.</strong> Chaque ligne porte un label <strong>Live / Retardé / Substitut / Absent</strong>. On distingue d'un coup d'œil les cotations en temps réel des valeurs retardées ou de substitution.
+* <strong>Intégration au blog.</strong> Liens directs vers le [HBM Hub](/page/korea-semiconductor-hbm-kospi-hub/), le [Daily Market Hub](/page/korea-daily-market-hub/), le canal Telegram et Substack. L'extension en temps réel du même cadre d'analyse.
 
 ---
 
@@ -36,9 +36,9 @@ tags:
 
 ### 1.1 Le blog et le tableau de bord sont des outils différents
 
-Les articles du blog expliquent **le « pourquoi »**. Lorsque l'[analyse Samsung Citi TP ₩460 000](/post/samsung-electronics-citi-tp-460000-memory-rerating-2026-05-11/) a examiné si le cadre du cycle mémoire pouvait se rompre, c'était une analyse approfondie à horizon trimestriel / hebdomadaire — une thèse qui reste valable plusieurs mois une fois rédigée.
+Les articles du blog expliquent <strong>le « pourquoi »</strong>. Lorsque l'[analyse Samsung Citi TP ₩460 000](/post/samsung-electronics-citi-tp-460000-memory-rerating-2026-05-11/) a examiné si le cadre du cycle mémoire pouvait se rompre, c'était une analyse approfondie à horizon trimestriel / hebdomadaire — une thèse qui reste valable plusieurs mois une fois rédigée.
 
-Le tableau de bord montre **le « maintenant »**. Si la thèse lue est validée par le flux du jour, quels signaux s'activent, lesquels s'estompent — minute par minute.
+Le tableau de bord montre <strong>le « maintenant »</strong>. Si la thèse lue est validée par le flux du jour, quels signaux s'activent, lesquels s'estompent — minute par minute.
 
 ```
 Analyse du blog : « Pourquoi le cadre du cycle mémoire pourrait se rompre » (trimestriel/hebdomadaire, axé sur la thèse)
@@ -62,17 +62,17 @@ Comme le notait [Pourquoi la Corée — Partie 4](/post/korea-67-billion-etf-inf
 
 | Section | Ce qu'elle montre |
 |---|---|
-| 1. **Synthèse executive** | Lecture intraday en une ligne — ton du marché en un coup d'œil |
-| 2. **Bande marché** | Aperçu KOSPI / KOSDAQ / FX / SOX |
-| 3. **Bande santé des sources** | Fonctionnement normal ou non de chaque source de données |
-| 4. **Signaux entreprises** | Fiches Samsung Electronics + SK hynix (signaux détaillés par valeur) |
-| 5. **Catégories de moteurs** | Catégories de forces qui pilotent le signal — semis US / FX / macro / cycle mémoire |
-| 6. **Mouvements d'instruments** | Tableau des mouvements triable (filtres Corée / US / Mémoire / Macro·Risque) |
-| 7. **Pied de page** | Liens vers le blog / Telegram / Substack |
+| 1. <strong>Synthèse executive</strong> | Lecture intraday en une ligne — ton du marché en un coup d'œil |
+| 2. <strong>Bande marché</strong> | Aperçu KOSPI / KOSDAQ / FX / SOX |
+| 3. <strong>Bande santé des sources</strong> | Fonctionnement normal ou non de chaque source de données |
+| 4. <strong>Signaux entreprises</strong> | Fiches Samsung Electronics + SK hynix (signaux détaillés par valeur) |
+| 5. <strong>Catégories de moteurs</strong> | Catégories de forces qui pilotent le signal — semis US / FX / macro / cycle mémoire |
+| 6. <strong>Mouvements d'instruments</strong> | Tableau des mouvements triable (filtres Corée / US / Mémoire / Macro·Risque) |
+| 7. <strong>Pied de page</strong> | Liens vers le blog / Telegram / Substack |
 
 ### 2.2 Labels de fraîcheur — la fonctionnalité la plus importante
 
-Chaque ligne porte un **label de fraîcheur**.
+Chaque ligne porte un <strong>label de fraîcheur</strong>.
 
 ```
 Live      : données en temps réel (≤ 1 min)
@@ -81,7 +81,7 @@ Substitut : valeur de substitution (ex. clôture précédente)
 Absent    : indisponibilité de la source
 ```
 
-**Pourquoi c'est important** : le délai des données de marché varie selon la source. Certaines cotations sont en direct ; d'autres correspondent à la clôture de la veille ; d'autres sont temporairement indisponibles. Sans labels, les utilisateurs supposent une fraîcheur uniforme. Memory Pulse **rend la fraîcheur transparente afin que les utilisateurs puissent vérifier la donnée elle-même avant d'agir sur les signaux**.
+<strong>Pourquoi c'est important</strong> : le délai des données de marché varie selon la source. Certaines cotations sont en direct ; d'autres correspondent à la clôture de la veille ; d'autres sont temporairement indisponibles. Sans labels, les utilisateurs supposent une fraîcheur uniforme. Memory Pulse <strong>rend la fraîcheur transparente afin que les utilisateurs puissent vérifier la donnée elle-même avant d'agir sur les signaux</strong>.
 
 ### 2.3 Quatre filtres — différentes perspectives
 
@@ -89,12 +89,12 @@ Le tableau des mouvements d'instruments se trie selon 4 filtres :
 
 | Filtre | Perspective |
 |---|---|
-| **Corée** | Valeurs KOSPI / KOSDAQ — flux du marché domestique |
-| **US** | NVIDIA / Micron / SOX, etc. — lecture des semis américains |
-| **Mémoire** | Proxies de prix HBM / DDR / NAND — lecture directe du cycle |
-| **Macro / Risque** | FX / pétrole / taux / VIX — environnement macro |
+| <strong>Corée</strong> | Valeurs KOSPI / KOSDAQ — flux du marché domestique |
+| <strong>US</strong> | NVIDIA / Micron / SOX, etc. — lecture des semis américains |
+| <strong>Mémoire</strong> | Proxies de prix HBM / DDR / NAND — lecture directe du cycle |
+| <strong>Macro / Risque</strong> | FX / pétrole / taux / VIX — environnement macro |
 
-**Comment l'utiliser** : par exemple, avant l'ouverture, parcourir l'onglet « Corée » pour la clôture de la veille + l'after-hours, l'onglet « US » pour la lecture mémoire / semis américains de la nuit, puis l'onglet « Macro / Risque » pour le FX / VIX. En trois vues sur un même écran, une première hypothèse sur « comment l'ouverture va probablement se configurer » prend forme rapidement.
+<strong>Comment l'utiliser</strong> : par exemple, avant l'ouverture, parcourir l'onglet « Corée » pour la clôture de la veille + l'after-hours, l'onglet « US » pour la lecture mémoire / semis américains de la nuit, puis l'onglet « Macro / Risque » pour le FX / VIX. En trois vues sur un même écran, une première hypothèse sur « comment l'ouverture va probablement se configurer » prend forme rapidement.
 
 ---
 
@@ -150,10 +150,10 @@ La navigation supérieure renvoie directement vers :
 
 | Lien du tableau de bord | Page blog associée | Comment les utiliser ensemble |
 |---|---|---|
-| **HBM Hub** | [HBM / KOSPI Investment Hub](/page/korea-semiconductor-hbm-kospi-pub/) | Signal mémoire dans le tableau de bord → profondeur de la thèse dans le hub |
-| **Daily Market** | [Korea Daily Market Hub](/page/korea-daily-market-hub/) | Collection d'analyses de flux de marché quotidiens |
-| **Telegram** | [@korea_invest_insights](https://t.me/korea_invest_insights) | Notifications de nouveaux articles immédiates |
-| **Substack** | [S'abonner](https://koreainvestinsights.substack.com/) | Analyses sélectionnées par e-mail |
+| <strong>HBM Hub</strong> | [HBM / KOSPI Investment Hub](/page/korea-semiconductor-hbm-kospi-pub/) | Signal mémoire dans le tableau de bord → profondeur de la thèse dans le hub |
+| <strong>Daily Market</strong> | [Korea Daily Market Hub](/page/korea-daily-market-hub/) | Collection d'analyses de flux de marché quotidiens |
+| <strong>Telegram</strong> | [@korea_invest_insights](https://t.me/korea_invest_insights) | Notifications de nouveaux articles immédiates |
+| <strong>Substack</strong> | [S'abonner](https://koreainvestinsights.substack.com/) | Analyses sélectionnées par e-mail |
 
 ### 4.2 Boucle analyse → tableau de bord → analyse
 
@@ -175,36 +175,36 @@ La navigation supérieure renvoie directement vers :
 
 ### 4.3 Deux limites assumées
 
-**Limite 1 : le tableau de bord n'émet pas de signaux d'achat / vente.** Comme indiqué en pied de page : « information de marché à vocation éducative, et non conseil en investissement ; n'émet aucune instruction d'achat, de vente ou de dimensionnement de position. » L'interprétation des signaux relève de la responsabilité de l'utilisateur.
+<strong>Limite 1 : le tableau de bord n'émet pas de signaux d'achat / vente.</strong> Comme indiqué en pied de page : « information de marché à vocation éducative, et non conseil en investissement ; n'émet aucune instruction d'achat, de vente ou de dimensionnement de position. » L'interprétation des signaux relève de la responsabilité de l'utilisateur.
 
-**Limite 2 : dépendance aux sources de données.** Lorsque les labels Substitut ou Absent sont fréquents (ex. fenêtres d'interruption de certains fournisseurs de données américains), la précision du tableau de bord s'en trouve affectée. C'est précisément pour cela que les labels sont explicites.
+<strong>Limite 2 : dépendance aux sources de données.</strong> Lorsque les labels Substitut ou Absent sont fréquents (ex. fenêtres d'interruption de certains fournisseurs de données américains), la précision du tableau de bord s'en trouve affectée. C'est précisément pour cela que les labels sont explicites.
 
 ---
 
 ## 5. FAQ
 
-**Q : Memory Pulse est-il gratuit ?**
+<strong>Q : Memory Pulse est-il gratuit ?</strong>
 R : Oui. Accessible à tous sur memory.koreainvestinsights.com.
 
-**Q : Fonctionne-t-il sur mobile ?**
+<strong>Q : Fonctionne-t-il sur mobile ?</strong>
 R : Design responsive — mobile, tablette et desktop sont tous pris en charge. Le tableau des mouvements d'instruments affiche davantage de colonnes sur les grands écrans.
 
-**Q : Coréen et anglais ?**
+<strong>Q : Coréen et anglais ?</strong>
 R : Le bouton « A / 가 » en haut à droite bascule instantanément. Idem pour le thème sombre / clair.
 
-**Q : Comment interpréter un label « Substitut » ?**
+<strong>Q : Comment interpréter un label « Substitut » ?</strong>
 R : Cela signifie que la source en temps réel présente un problème et que la valeur affichée est une valeur de substitution (ex. clôture précédente). Vérifiez toujours le label de fraîcheur avant d'agir. Seules les valeurs « Live » sont fiables en temps réel.
 
-**Q : Pourquoi uniquement Samsung et hynix ? D'autres valeurs seront-elles ajoutées ?**
+<strong>Q : Pourquoi uniquement Samsung et hynix ? D'autres valeurs seront-elles ajoutées ?</strong>
 R : Ces deux noms sont les deux piliers de la mémoire coréenne et représentent une large fraction du KOSPI. Se concentrer sur deux valeurs initialement a maximisé la qualité des signaux. L'expansion suivra les retours des utilisateurs et la stabilité des sources de données.
 
-**Q : Puis-je utiliser le tableau de bord sans avoir lu l'analyse du blog ?**
+<strong>Q : Puis-je utiliser le tableau de bord sans avoir lu l'analyse du blog ?</strong>
 R : Oui. Le tableau de bord fonctionne de manière autonome. Mais connaître le « contexte » des signaux facilite leur interprétation — lire le [HBM Hub](/page/korea-semiconductor-hbm-kospi-hub/) ou une analyse récente au préalable rend l'utilisation du tableau de bord plus efficace.
 
-**Q : Puis-je citer ou redistribuer les données du tableau de bord ?**
+<strong>Q : Puis-je citer ou redistribuer les données du tableau de bord ?</strong>
 R : Les conditions de licence varient selon la source — il est plus prudent de citer avec attribution de la source et le label de fraîcheur. Les captures d'écran du tableau de bord avec la mention « memory.koreainvestinsights.com » sont acceptables.
 
-**Q : Quelle est la suite ?**
+<strong>Q : Quelle est la suite ?</strong>
 R : Les sources de données, les catégories de signaux et le périmètre des instruments s'élargiront en fonction des retours utilisateurs. La priorité est d'approfondir le lien entre l'analyse du blog et les signaux du tableau de bord. Les nouvelles fonctionnalités seront annoncées via des articles dédiés.
 
 ---

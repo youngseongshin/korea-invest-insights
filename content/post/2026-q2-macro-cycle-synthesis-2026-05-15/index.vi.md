@@ -14,19 +14,19 @@ tags:
 slug: 2026-q2-macro-cycle-synthesis-2026-05-15
 ---
 
-*Chuyện gì thực sự xảy ra trong hai ngày 14–15/5? PPI tháng 4 của Mỹ in ở mức +6,0% so với cùng kỳ — cao nhất kể từ năm 2022. PPI Nhật đạt +4,9%; lợi suất JGB kỳ hạn 10 năm lên mức cao nhất từ năm 1997. Lợi suất trái phiếu Mỹ kỳ hạn 10 năm ở 4,46%; kỳ hạn 30 năm ở 5,02%. Brent ở 108 USD. Eo biển Hormuz trên thực tế đã đóng cửa suốt hai tháng. Hội nghị thượng đỉnh Tập–Trump kết thúc với một "thỏa thuận nhỏ." Thị trường đang đọc những điều này như những mẩu tin riêng lẻ. Đó là cách nhìn sai. Năm biến số này không phải các sự kiện độc lập — chúng là **một chu kỳ duy nhất**. Iran là điểm khởi đầu; lãi suất chiết khấu toàn cầu tăng cao là điểm kết thúc. Vẽ bức tranh một lần, và tiêu đề tiếp theo sẽ cho bạn biết nó sẽ đáp xuống nhóm tài sản nào.*
+*Chuyện gì thực sự xảy ra trong hai ngày 14–15/5? PPI tháng 4 của Mỹ in ở mức +6,0% so với cùng kỳ — cao nhất kể từ năm 2022. PPI Nhật đạt +4,9%; lợi suất JGB kỳ hạn 10 năm lên mức cao nhất từ năm 1997. Lợi suất trái phiếu Mỹ kỳ hạn 10 năm ở 4,46%; kỳ hạn 30 năm ở 5,02%. Brent ở 108 USD. Eo biển Hormuz trên thực tế đã đóng cửa suốt hai tháng. Hội nghị thượng đỉnh Tập–Trump kết thúc với một "thỏa thuận nhỏ." Thị trường đang đọc những điều này như những mẩu tin riêng lẻ. Đó là cách nhìn sai. Năm biến số này không phải các sự kiện độc lập — chúng là <strong>một chu kỳ duy nhất</strong>. Iran là điểm khởi đầu; lãi suất chiết khấu toàn cầu tăng cao là điểm kết thúc. Vẽ bức tranh một lần, và tiêu đề tiếp theo sẽ cho bạn biết nó sẽ đáp xuống nhóm tài sản nào.*
 
 ---
 
 ## Những điểm cốt lõi
 
-* **Thị trường đang thực sự định giá điều gì**: các biến số làm rung chuyển thị trường ngày 14–15/5 — Iran/Hormuz, dầu mỏ, lạm phát Mỹ, hội nghị thượng đỉnh Mỹ–Trung, PPI Nhật — là **một chu kỳ duy nhất, không phải năm sự kiện độc lập**.
-* **Điểm khởi đầu**: nút thắt Iran/Hormuz → cú sốc nguồn cung dầu thô toàn cầu.
-* **Điểm kết thúc**: lãi suất dài hạn Mỹ tăng → lãi suất chiết khấu toàn cầu được định giá lại → bội số P/E của tài sản rủi ro bị nén xuống.
-* **Năm mắt xích truyền dẫn**: ① Iran/Hormuz → ② dầu mỏ → ③ CPI/PPI Mỹ → ④ kỳ vọng cắt lãi suất Fed phai dần + lãi suất dài hạn Mỹ tăng → ⑤ PPI Nhật → BOJ thắt chặt → lực cầu biên của Nhật với UST suy yếu → lợi suất đầu dài tiếp tục tăng (vòng lặp tự củng cố).
-* **Vai trò của hội nghị thượng đỉnh Mỹ–Trung**: không phải *nguyên nhân* tạo ra chu kỳ mà là **biến số phụ làm tăng tốc hoặc làm chậm nó**.
-* **Đối với chứng khoán Hàn Quốc**: áp lực điều chỉnh với nhóm bán dẫn/ô tô đang tập trung; lọc dầu, LNG và quốc phòng hưởng lợi tương đối; nhóm tăng trưởng và thời hạn dài đối mặt áp lực.
-* **Biến số quan trọng nhất**: **khi nào Hormuz bình thường hóa**. Đây là yếu tố quyết định chu kỳ kết thúc ở đâu.
+* <strong>Thị trường đang thực sự định giá điều gì</strong>: các biến số làm rung chuyển thị trường ngày 14–15/5 — Iran/Hormuz, dầu mỏ, lạm phát Mỹ, hội nghị thượng đỉnh Mỹ–Trung, PPI Nhật — là <strong>một chu kỳ duy nhất, không phải năm sự kiện độc lập</strong>.
+* <strong>Điểm khởi đầu</strong>: nút thắt Iran/Hormuz → cú sốc nguồn cung dầu thô toàn cầu.
+* <strong>Điểm kết thúc</strong>: lãi suất dài hạn Mỹ tăng → lãi suất chiết khấu toàn cầu được định giá lại → bội số P/E của tài sản rủi ro bị nén xuống.
+* <strong>Năm mắt xích truyền dẫn</strong>: ① Iran/Hormuz → ② dầu mỏ → ③ CPI/PPI Mỹ → ④ kỳ vọng cắt lãi suất Fed phai dần + lãi suất dài hạn Mỹ tăng → ⑤ PPI Nhật → BOJ thắt chặt → lực cầu biên của Nhật với UST suy yếu → lợi suất đầu dài tiếp tục tăng (vòng lặp tự củng cố).
+* <strong>Vai trò của hội nghị thượng đỉnh Mỹ–Trung</strong>: không phải *nguyên nhân* tạo ra chu kỳ mà là <strong>biến số phụ làm tăng tốc hoặc làm chậm nó</strong>.
+* <strong>Đối với chứng khoán Hàn Quốc</strong>: áp lực điều chỉnh với nhóm bán dẫn/ô tô đang tập trung; lọc dầu, LNG và quốc phòng hưởng lợi tương đối; nhóm tăng trưởng và thời hạn dài đối mặt áp lực.
+* <strong>Biến số quan trọng nhất</strong>: <strong>khi nào Hormuz bình thường hóa</strong>. Đây là yếu tố quyết định chu kỳ kết thúc ở đâu.
 
 ---
 
@@ -149,13 +149,13 @@ Tháng 4 Mỹ:
 
 | Chỉ số | Tháng/Tháng | Năm/Năm |
 | --- | ---: | ---: |
-| CPI tiêu đề | +0,6% | **+3,8%** (cao nhất từ tháng 5/2023) |
+| CPI tiêu đề | +0,6% | <strong>+3,8%</strong> (cao nhất từ tháng 5/2023) |
 | CPI lõi | +0,4% | +2,8% |
-| **PPI** | **+1,4%** | **+6,0%** (cao nhất từ tháng 3/2022) |
+| <strong>PPI</strong> | <strong>+1,4%</strong> | <strong>+6,0%</strong> (cao nhất từ tháng 3/2022) |
 | Xăng dầu (PPI) | +15,6% | — |
 | Năng lượng (CPI) | +3,8% | +17,9% |
 
-Mức tăng 0,6% hàng tháng quy về năm là \~7,4%; PPI +1,4% quy về năm là \~18%. Quy đổi năm từ một tháng đơn lẻ phóng đại tốc độ thực, nhưng điều thị trường trái phiếu phản ứng là **hướng đi**.
+Mức tăng 0,6% hàng tháng quy về năm là \~7,4%; PPI +1,4% quy về năm là \~18%. Quy đổi năm từ một tháng đơn lẻ phóng đại tốc độ thực, nhưng điều thị trường trái phiếu phản ứng là <strong>hướng đi</strong>.
 
 ### 3.2 Bậc hai: dịch vụ và nhà ở
 
@@ -276,7 +276,7 @@ Lợi suất Mỹ kỳ hạn 10 năm tiếp tục tăng
 * Từ từ hơn, nhưng mang tính cấu trúc hơn.
 ```
 
-Cơ chế chi tiết được trình bày trong một bài riêng — điểm mấu chốt là Nhật Bản là **người mua biên** của thị trường UST. Ngay cả khi không bán, khi lực cầu biên suy yếu, giá giảm (lợi suất tăng).
+Cơ chế chi tiết được trình bày trong một bài riêng — điểm mấu chốt là Nhật Bản là <strong>người mua biên</strong> của thị trường UST. Ngay cả khi không bán, khi lực cầu biên suy yếu, giá giảm (lợi suất tăng).
 
 ### 5.3 Vòng lặp tự củng cố
 
@@ -343,7 +343,7 @@ Chúng ta đang gần hơn với kịch bản B.
 
 ### 6.3 Tại sao hội nghị là "biến số phụ," không phải động cơ chính
 
-Hội nghị không *tạo ra* chu kỳ. Chu kỳ đã chạy từ trước, với Iran/Hormuz là điểm khởi đầu. Hội nghị là **biến số làm tăng tốc hoặc làm chậm** chu kỳ.
+Hội nghị không *tạo ra* chu kỳ. Chu kỳ đã chạy từ trước, với Iran/Hormuz là điểm khởi đầu. Hội nghị là <strong>biến số làm tăng tốc hoặc làm chậm</strong> chu kỳ.
 
 ```
 Yếu tố tăng tốc:
@@ -384,17 +384,17 @@ Cụ thể:
 
 | Ngành | Tác động chu kỳ | Nhận định |
 | --- | --- | --- |
-| **Lọc dầu** | Crack spread ở mức cao lịch sử; hưởng lợi trực tiếp khi dầu tăng | **Sức mạnh tương đối** |
-| **LNG / đóng tàu** | Nhu cầu định tuyến lại qua Hormuz, an ninh năng lượng | Sức mạnh tương đối |
-| **Quốc phòng** | Rủi ro Iran + Đài Loan chồng lấp | Sức mạnh tương đối (đã tăng mạnh) |
-| **Bán dẫn** | Nhu cầu AI là trụ cột; bội số vẫn bị nén | Trung lập |
-| **Ngân hàng** | Lãi suất cao mở rộng NIM | Sức mạnh tương đối |
-| **Hàng tiêu dùng thiết yếu** | Cổ phiếu thúc đẩy bởi lợi nhuận (Samyang Foods...) | Sức mạnh chọn lọc |
-| **Ô tô** | Đã tăng +29% trong tháng 5 | Trung lập đến yếu |
-| **Hóa dầu** | Chi phí naphtha tăng, áp lực biên lợi nhuận | **Yếu tương đối** |
-| **Hàng không** | Dầu + lãi suất cùng lúc gây áp lực | Yếu tương đối |
-| **Tăng trưởng P/E cao** | Nhạy cảm nhất với biến động lãi suất chiết khấu | **Yếu tương đối** |
-| **Công nghệ sinh học** | Áp lực thời hạn dài | Yếu |
+| <strong>Lọc dầu</strong> | Crack spread ở mức cao lịch sử; hưởng lợi trực tiếp khi dầu tăng | <strong>Sức mạnh tương đối</strong> |
+| <strong>LNG / đóng tàu</strong> | Nhu cầu định tuyến lại qua Hormuz, an ninh năng lượng | Sức mạnh tương đối |
+| <strong>Quốc phòng</strong> | Rủi ro Iran + Đài Loan chồng lấp | Sức mạnh tương đối (đã tăng mạnh) |
+| <strong>Bán dẫn</strong> | Nhu cầu AI là trụ cột; bội số vẫn bị nén | Trung lập |
+| <strong>Ngân hàng</strong> | Lãi suất cao mở rộng NIM | Sức mạnh tương đối |
+| <strong>Hàng tiêu dùng thiết yếu</strong> | Cổ phiếu thúc đẩy bởi lợi nhuận (Samyang Foods...) | Sức mạnh chọn lọc |
+| <strong>Ô tô</strong> | Đã tăng +29% trong tháng 5 | Trung lập đến yếu |
+| <strong>Hóa dầu</strong> | Chi phí naphtha tăng, áp lực biên lợi nhuận | <strong>Yếu tương đối</strong> |
+| <strong>Hàng không</strong> | Dầu + lãi suất cùng lúc gây áp lực | Yếu tương đối |
+| <strong>Tăng trưởng P/E cao</strong> | Nhạy cảm nhất với biến động lãi suất chiết khấu | <strong>Yếu tương đối</strong> |
+| <strong>Công nghệ sinh học</strong> | Áp lực thời hạn dài | Yếu |
 
 ### 7.3 Túi tiền "chưa được định giá" nhất của chu kỳ
 
@@ -423,11 +423,11 @@ Cơ hội bất đối xứng nhất:
 
 | Kịch bản | Tiền đề | Lợi suất Mỹ 10 năm | Chứng khoán Hàn Quốc |
 | --- | --- | --- | --- |
-| **A. Chu kỳ kết thúc** | Hormuz bình thường hóa, dầu dưới 90, BOJ trì hoãn | 4,0–4,3% | Nhẹ nhõm với tài sản rủi ro. Nhóm tăng trưởng phục hồi |
-| **B. Chu kỳ kéo dài** (cơ sở) | Hormuz kéo dài, dầu 100–110, BOJ tăng lãi suất tháng 6 | 4,4–4,7% | Biến động tăng; phân hóa ngành mạnh |
-| **C. Chu kỳ tăng tốc** | Hormuz xấu hơn, dầu 120+, Nhật thực sự bán UST | 5,0%+ | Rủi ro diện rộng, dòng vốn ngoại rút mạnh |
+| <strong>A. Chu kỳ kết thúc</strong> | Hormuz bình thường hóa, dầu dưới 90, BOJ trì hoãn | 4,0–4,3% | Nhẹ nhõm với tài sản rủi ro. Nhóm tăng trưởng phục hồi |
+| <strong>B. Chu kỳ kéo dài</strong> (cơ sở) | Hormuz kéo dài, dầu 100–110, BOJ tăng lãi suất tháng 6 | 4,4–4,7% | Biến động tăng; phân hóa ngành mạnh |
+| <strong>C. Chu kỳ tăng tốc</strong> | Hormuz xấu hơn, dầu 120+, Nhật thực sự bán UST | 5,0%+ | Rủi ro diện rộng, dòng vốn ngoại rút mạnh |
 
-Kịch bản cơ sở là **B**. Kịch bản A cần Hormuz bình thường hóa. Kịch bản C cần xác nhận Nhật Bản thực sự bán UST.
+Kịch bản cơ sở là <strong>B</strong>. Kịch bản A cần Hormuz bình thường hóa. Kịch bản C cần xác nhận Nhật Bản thực sự bán UST.
 
 ### 8.2 Các điểm kiểm tra (theo thứ tự ưu tiên)
 
@@ -511,13 +511,13 @@ Bài PPI Nhật Bản:
 
 ## 10. Kết luận trong một câu
 
-Các sự kiện ngày 14–15/5 — PPI tháng 4 Mỹ +6,0%, PPI Nhật +4,9%, lợi suất JGB kỳ hạn 10 năm cao nhất 28 năm, lợi suất Mỹ 10 năm 4,46%, 30 năm 5,02%, Brent 108 USD, hội nghị thượng đỉnh Mỹ–Trung với thỏa thuận nhỏ — là **một chu kỳ duy nhất, không phải năm sự kiện độc lập**.
+Các sự kiện ngày 14–15/5 — PPI tháng 4 Mỹ +6,0%, PPI Nhật +4,9%, lợi suất JGB kỳ hạn 10 năm cao nhất 28 năm, lợi suất Mỹ 10 năm 4,46%, 30 năm 5,02%, Brent 108 USD, hội nghị thượng đỉnh Mỹ–Trung với thỏa thuận nhỏ — là <strong>một chu kỳ duy nhất, không phải năm sự kiện độc lập</strong>.
 
-Điểm khởi đầu là **Iran / Hormuz**. Kênh truyền dẫn đầu tiên là **dầu mỏ**, thứ hai là **lạm phát Mỹ và Nhật Bản**, thứ ba là **thay đổi chính sách ngân hàng trung ương**, thứ tư là **lãi suất dài hạn Mỹ tăng cao**, và điểm kết thúc là **định giá lại lãi suất chiết khấu toàn cầu → nén bội số tài sản rủi ro**. Hội nghị thượng đỉnh Mỹ–Trung không tạo ra chu kỳ; nó chỉ có thể làm tăng tốc hoặc trì hoãn nó.
+Điểm khởi đầu là <strong>Iran / Hormuz</strong>. Kênh truyền dẫn đầu tiên là <strong>dầu mỏ</strong>, thứ hai là <strong>lạm phát Mỹ và Nhật Bản</strong>, thứ ba là <strong>thay đổi chính sách ngân hàng trung ương</strong>, thứ tư là <strong>lãi suất dài hạn Mỹ tăng cao</strong>, và điểm kết thúc là <strong>định giá lại lãi suất chiết khấu toàn cầu → nén bội số tài sản rủi ro</strong>. Hội nghị thượng đỉnh Mỹ–Trung không tạo ra chu kỳ; nó chỉ có thể làm tăng tốc hoặc trì hoãn nó.
 
-Một khi vẽ được bức tranh, mọi tiêu đề tương lai đều cho bạn biết nó sẽ đáp xuống nhóm tài sản nào. **Điểm kiểm tra quan trọng nhất duy nhất là khi nào Hormuz bình thường hóa.** Đó là nơi chu kỳ kết thúc. Nếu Hormuz bình thường hóa trong tháng 6, chu kỳ kết thúc và một đợt phục hồi risk-on là có thể. Nếu kéo dài, lãi suất dài hạn Mỹ còn dư địa tăng thêm, và việc định giá lại lãi suất chiết khấu sẽ trở nên gay gắt hơn.
+Một khi vẽ được bức tranh, mọi tiêu đề tương lai đều cho bạn biết nó sẽ đáp xuống nhóm tài sản nào. <strong>Điểm kiểm tra quan trọng nhất duy nhất là khi nào Hormuz bình thường hóa.</strong> Đó là nơi chu kỳ kết thúc. Nếu Hormuz bình thường hóa trong tháng 6, chu kỳ kết thúc và một đợt phục hồi risk-on là có thể. Nếu kéo dài, lãi suất dài hạn Mỹ còn dư địa tăng thêm, và việc định giá lại lãi suất chiết khấu sẽ trở nên gay gắt hơn.
 
-Đuổi theo rủi ro ngay lúc này mà không kiểm tra chu kỳ là không hiệu quả. **Trước tiên hãy xác định vị trí chu kỳ — đang ở đâu, đang đi đâu — rồi mới đánh giá các cơ hội bất đối xứng ở cấp độ cổ phiếu.** Những công ty vĩ đại bị giảm bội số khi chu kỳ tăng tốc; những công ty bình thường có thể phục hồi khi chu kỳ dừng lại. **Chu kỳ đến trước, cổ phiếu đến sau.**
+Đuổi theo rủi ro ngay lúc này mà không kiểm tra chu kỳ là không hiệu quả. <strong>Trước tiên hãy xác định vị trí chu kỳ — đang ở đâu, đang đi đâu — rồi mới đánh giá các cơ hội bất đối xứng ở cấp độ cổ phiếu.</strong> Những công ty vĩ đại bị giảm bội số khi chu kỳ tăng tốc; những công ty bình thường có thể phục hồi khi chu kỳ dừng lại. <strong>Chu kỳ đến trước, cổ phiếu đến sau.</strong>
 
 ---
 

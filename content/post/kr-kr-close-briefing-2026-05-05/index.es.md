@@ -20,9 +20,9 @@ Pero los mercados globales sí operaron. Y lo que ocurrió durante el feriado co
 
 El principal catalizador detrás del rally del petróleo es el riesgo en el Estrecho de Ormuz y la tensión con los Emiratos Árabes Unidos. Más del 20% del suministro mundial de crudo transita por ese corredor. Una prima de riesgo sostenida en el petróleo tiene implicaciones asimétricas para los distintos sectores del KOSPI.
 
-**Los perjudicados**: las compañías de plataformas tecnológicas y los valores de crecimiento con múltiplos elevados (PER alto) soportan peor un entorno de tipos altos y energía cara. NAVER Corporation (035420.KS), el gigante de búsqueda e inteligencia artificial de Corea del Sur, ya venía registrando ventas netas institucionales y extranjeras antes del feriado. Con el bono a 30 años en el 5%, esa presión vendedora difícilmente se aliviará de inmediato.
+<strong>Los perjudicados</strong>: las compañías de plataformas tecnológicas y los valores de crecimiento con múltiplos elevados (PER alto) soportan peor un entorno de tipos altos y energía cara. NAVER Corporation (035420.KS), el gigante de búsqueda e inteligencia artificial de Corea del Sur, ya venía registrando ventas netas institucionales y extranjeras antes del feriado. Con el bono a 30 años en el 5%, esa presión vendedora difícilmente se aliviará de inmediato.
 
-**Los potenciales beneficiados**: el sector eléctrico y de infraestructura energética —transformadores, cables de alta tensión, equipos de subestaciones— se consolida como el eje de fortaleza relativa. El argumento es doble: la transición energética impulsa demanda doméstica y de exportación, y la subida del crudo realza el atractivo de alternativas como la energía nuclear, en la que Corea del Sur es exportador competitivo.
+<strong>Los potenciales beneficiados</strong>: el sector eléctrico y de infraestructura energética —transformadores, cables de alta tensión, equipos de subestaciones— se consolida como el eje de fortaleza relativa. El argumento es doble: la transición energética impulsa demanda doméstica y de exportación, y la subida del crudo realza el atractivo de alternativas como la energía nuclear, en la que Corea del Sur es exportador competitivo.
 
 ---
 
@@ -46,11 +46,11 @@ Conviene ser cautos: Samsung Foundry ha perdido cuota frente a TSMC (2330.TW) en
 
 Los datos del 4 de mayo —última sesión activa antes del feriado— muestran dos dinámicas que definirán la apertura del martes.
 
-**Infraestructura eléctrica en zona de sobrecompra**: Jeröng Electric (제룡전기, 361970.KQ) acumuló una subida del 30% en una semana, con volumen relativo en niveles extremos. Bosung Powertech (보성파워텍, 006910.KQ), otro operador en el segmento de energía nuclear y redes eléctricas, avanzó casi un 19%. Cuando un sector sube el 30% en pocos días, la primera sesión tras un feriado tiende a ser un test de distribución: ¿los inversores que compraron aprovechan la liquidez para tomar beneficios, o el flujo comprador se mantiene?
+<strong>Infraestructura eléctrica en zona de sobrecompra</strong>: Jeröng Electric (제룡전기, 361970.KQ) acumuló una subida del 30% en una semana, con volumen relativo en niveles extremos. Bosung Powertech (보성파워텍, 006910.KQ), otro operador en el segmento de energía nuclear y redes eléctricas, avanzó casi un 19%. Cuando un sector sube el 30% en pocos días, la primera sesión tras un feriado tiende a ser un test de distribución: ¿los inversores que compraron aprovechan la liquidez para tomar beneficios, o el flujo comprador se mantiene?
 
-**Samsung Securities como termómetro del apetito por riesgo**: Samsung Securities (016360.KS) cerró el 4 de mayo con una subida del 28,3% y fue el valor con mayor incremento de volumen en todo el mercado. Los valores de corretaje y gestión patrimonial en Corea actúan históricamente como indicadores adelantados del apetito institucional: cuando los inversores locales compran acciones de sus propias casas de bolsa, señalan confianza en que el rally del mercado continuará.
+<strong>Samsung Securities como termómetro del apetito por riesgo</strong>: Samsung Securities (016360.KS) cerró el 4 de mayo con una subida del 28,3% y fue el valor con mayor incremento de volumen en todo el mercado. Los valores de corretaje y gestión patrimonial en Corea actúan históricamente como indicadores adelantados del apetito institucional: cuando los inversores locales compran acciones de sus propias casas de bolsa, señalan confianza en que el rally del mercado continuará.
 
-**RF Materials (RF머트리얼즈, 096390.KQ)**: materiales especializados para radiofrecuencia, con una puntuación de fortaleza relativa de 99,8 sobre 100 y una subida del 16,4% con flujo comprador institucional y extranjero simultáneo. Es el tipo de perfil técnico que atrae a los algoritmos de momentum, aunque tras un movimiento de esta magnitud la confirmación del 6 de mayo es esencial antes de extraer conclusiones.
+<strong>RF Materials (RF머트리얼즈, 096390.KQ)</strong>: materiales especializados para radiofrecuencia, con una puntuación de fortaleza relativa de 99,8 sobre 100 y una subida del 16,4% con flujo comprador institucional y extranjero simultáneo. Es el tipo de perfil técnico que atrae a los algoritmos de momentum, aunque tras un movimiento de esta magnitud la confirmación del 6 de mayo es esencial antes de extraer conclusiones.
 
 ---
 
@@ -58,13 +58,13 @@ Los datos del 4 de mayo —última sesión activa antes del feriado— muestran 
 
 Cuatro variables concentran la atención para la sesión del martes:
 
-1. **Continuidad del flujo en semiconductores**: si el capital institucional y extranjero sigue comprando Samsung Electronics y el ecosistema HBM (sustratos, empaquetado avanzado) después del feriado, el régimen alcista iniciado en abril mantiene su estructura.
+1. <strong>Continuidad del flujo en semiconductores</strong>: si el capital institucional y extranjero sigue comprando Samsung Electronics y el ecosistema HBM (sustratos, empaquetado avanzado) después del feriado, el régimen alcista iniciado en abril mantiene su estructura.
 
-2. **Comportamiento de los valores eléctricos de alto vuelo**: ¿las subidas del 30% encuentran vendedores o nuevos compradores? La respuesta define si el sector tiene recorrido adicional o entra en pausa.
+2. <strong>Comportamiento de los valores eléctricos de alto vuelo</strong>: ¿las subidas del 30% encuentran vendedores o nuevos compradores? La respuesta define si el sector tiene recorrido adicional o entra en pausa.
 
-3. **Impacto del tipo de cambio**: el won a 1.475 por dólar en el mercado nocturno supone una depreciación que encarece las importaciones y presiona los márgenes de sectores dependientes de insumos extranjeros, pero ayuda temporalmente a los exportadores en términos de conversión de ingresos.
+3. <strong>Impacto del tipo de cambio</strong>: el won a 1.475 por dólar en el mercado nocturno supone una depreciación que encarece las importaciones y presiona los márgenes de sectores dependientes de insumos extranjeros, pero ayuda temporalmente a los exportadores en términos de conversión de ingresos.
 
-4. **Reacción de los bonos coreanos al entorno de deuda americana**: si el bono del Tesoro a 30 años consolida por encima del 5%, la presión sobre los activos de larga duración —incluidas las acciones de tecnología de alta valoración— se traslada a Seúl con cierto retraso.
+4. <strong>Reacción de los bonos coreanos al entorno de deuda americana</strong>: si el bono del Tesoro a 30 años consolida por encima del 5%, la presión sobre los activos de larga duración —incluidas las acciones de tecnología de alta valoración— se traslada a Seúl con cierto retraso.
 
 ---
 

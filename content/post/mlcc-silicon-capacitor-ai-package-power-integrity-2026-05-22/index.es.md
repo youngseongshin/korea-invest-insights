@@ -28,17 +28,17 @@ slug: mlcc-silicon-capacitor-ai-package-power-integrity-2026-05-22
 
 ## Resumen Ejecutivo
 
-Un condensador almacena carga eléctrica brevemente y la libera cuando se necesita. Para quienes no son ingenieros, puede pensarse como un **depósito de agua, amortiguador o filtro de ruido para un circuito eléctrico**. Un MLCC es la versión cerámica multicapa de mayor volumen de ese condensador. Samsung Electro-Mechanics describe los MLCCs como una "presa" que retiene la electricidad y la libera de forma controlada.[^samsung-mlcc]
+Un condensador almacena carga eléctrica brevemente y la libera cuando se necesita. Para quienes no son ingenieros, puede pensarse como un <strong>depósito de agua, amortiguador o filtro de ruido para un circuito eléctrico</strong>. Un MLCC es la versión cerámica multicapa de mayor volumen de ese condensador. Samsung Electro-Mechanics describe los MLCCs como una "presa" que retiene la electricidad y la libera de forma controlada.[^samsung-mlcc]
 
 Un condensador de silicio es también un tipo de condensador. A diferencia de un MLCC, que apila cientos de capas cerámicas, un condensador de silicio forma capas dieléctricas y de electrodo sobre una oblea de silicio. Según la documentación de productos de Samsung Electro-Mechanics, puede adelgazarse a menos de 100 micrómetros, embeberse dentro de un paquete y se beneficia de una baja inductancia parásita, favorable para la estabilización de potencia.[^samsung-sicap-product]
 
-El punto esencial es **no la sustitución, sino el desplazamiento de ubicación**. Los MLCCs se montan principalmente en la superficie de la PCB o alrededor del chip. Los condensadores de silicio pueden ir dentro del paquete, bajo el sustrato o directamente junto al die. Como las GPUs de IA y la HBM demandan picos de corriente repentinos e intensos, la proximidad importa tanto como la capacitancia bruta: "qué tan rápido puede entregarse la potencia" pasa a ser tan importante como "cuánto puede almacenarse".
+El punto esencial es <strong>no la sustitución, sino el desplazamiento de ubicación</strong>. Los MLCCs se montan principalmente en la superficie de la PCB o alrededor del chip. Los condensadores de silicio pueden ir dentro del paquete, bajo el sustrato o directamente junto al die. Como las GPUs de IA y la HBM demandan picos de corriente repentinos e intensos, la proximidad importa tanto como la capacitancia bruta: "qué tan rápido puede entregarse la potencia" pasa a ser tan importante como "cuánto puede almacenarse".
 
 El contrato de suministro de condensadores de silicio de Samsung Electro-Mechanics del 20 de mayo de 2026, valorado en aproximadamente ₩1,5 billones, es la primera evidencia a gran escala de este cambio estructural. El contrato va del 1 de enero de 2027 al 31 de diciembre de 2028. La empresa indicó que el producto se embebe dentro de paquetes de semiconductores de alto rendimiento —incluidas GPUs para servidores de IA y HBM— para mejorar la estabilidad del suministro eléctrico.[^samsung-sicap-contract]
 
 El juicio inversor, sin embargo, debe mantenerse frío. Esta semana (18–22 de mayo), los tres valores principales del sector MLCC promediaron <strong>+35,6%</strong>, superando ampliamente a los cinco valores principales de sustratos de IA, que promediaron <strong>+14,0%</strong>. Samsung Electro-Mechanics ganó un +32,7% en la semana; Samwha Capacitor se disparó un +56,4%. El impulso temático es innegable, pero la eficiencia del despliegue de nuevo capital se ha reducido drásticamente.
 
-Conclusión: **la importancia de los condensadores de silicio no reside en que reemplacen a los MLCCs, sino en la expansión del campo de batalla de los componentes pasivos desde la superficie de la PCB hacia el interior de los paquetes de semiconductores de IA**. Las líneas de productos premium de Samsung Electro-Mechanics y Murata podrían reclasificarse como activos de la cadena de suministro de infraestructura de IA. Pero un buen cambio sectorial y un buen precio de entrada siguen siendo preguntas completamente distintas.
+Conclusión: <strong>la importancia de los condensadores de silicio no reside en que reemplacen a los MLCCs, sino en la expansión del campo de batalla de los componentes pasivos desde la superficie de la PCB hacia el interior de los paquetes de semiconductores de IA</strong>. Las líneas de productos premium de Samsung Electro-Mechanics y Murata podrían reclasificarse como activos de la cadena de suministro de infraestructura de IA. Pero un buen cambio sectorial y un buen precio de entrada siguen siendo preguntas completamente distintas.
 
 ---
 
@@ -46,7 +46,7 @@ Conclusión: **la importancia de los condensadores de silicio no reside en que r
 
 Un condensador almacena carga eléctrica y la libera rápidamente cuando se necesita. Cuando un chip semiconductor demanda un repentino pico de corriente, el condensador cercano lo suministra, evitando que el voltaje colapse. A la inversa, cuando el voltaje sube bruscamente, el condensador absorbe parte de él y estabiliza el circuito. Por eso los condensadores desempeñan funciones de almacenamiento de energía, suavizado de voltaje, rechazo de ruido y estabilización de potencia en los circuitos electrónicos.
 
-Un MLCC —**Multi-Layer Ceramic Capacitor**— es un condensador ultracompacto construido apilando cientos de finas capas dieléctricas cerámicas intercaladas con capas de electrodo metálico. Samsung Electro-Mechanics menciona capacidad de producción para MLCCs de alta capacitancia con hasta 600 capas, señalando que su importancia crece con la expansión del 5G, la electrónica de consumo, los vehículos autónomos y el Internet de las Cosas.[^samsung-mlcc]
+Un MLCC —<strong>Multi-Layer Ceramic Capacitor</strong>— es un condensador ultracompacto construido apilando cientos de finas capas dieléctricas cerámicas intercaladas con capas de electrodo metálico. Samsung Electro-Mechanics menciona capacidad de producción para MLCCs de alta capacitancia con hasta 600 capas, señalando que su importancia crece con la expansión del 5G, la electrónica de consumo, los vehículos autónomos y el Internet de las Cosas.[^samsung-mlcc]
 
 La jerarquía es sencilla:
 
@@ -94,13 +94,13 @@ Los condensadores generales aparecen en prácticamente cualquier circuito eléct
 
 ### 3.2 MLCC
 
-La aplicación central de los MLCCs es la **estabilización de potencia alrededor de los chips**. Aparecen en smartphones, automóviles, servidores, equipos de red, electrodomésticos y maquinaria industrial. A medida que los dispositivos se reducen, los semiconductores conmutan más rápido y aumenta el número de sensores y módulos de comunicación, los puntos que requieren estabilización de voltaje crecen proporcionalmente.
+La aplicación central de los MLCCs es la <strong>estabilización de potencia alrededor de los chips</strong>. Aparecen en smartphones, automóviles, servidores, equipos de red, electrodomésticos y maquinaria industrial. A medida que los dispositivos se reducen, los semiconductores conmutan más rápido y aumenta el número de sensores y módulos de comunicación, los puntos que requieren estabilización de voltaje crecen proporcionalmente.
 
 La importancia de los MLCCs en los servidores de IA también está aumentando. TDK señala que, a medida que la demanda de IA y nube impulsa una mayor densidad de integración y rendimiento en los servidores de centros de datos, la densidad de potencia por rack y por servidor aumenta, lo que convierte el rendimiento y la huella de los componentes pasivos en una limitación real de diseño.[^tdk-capacitors] Por eso la tesis de los MLCCs ha evolucionado más allá de una simple recuperación del ciclo de smartphones hacia la estabilización de potencia en servidores de IA.
 
 ### 3.3 Condensadores de Silicio
 
-La aplicación central de los condensadores de silicio es la **estabilización de potencia dentro de los paquetes**. Samsung Electro-Mechanics describe los condensadores de silicio como dispositivos ultracompactos de alto rendimiento construidos sobre obleas de silicio, embebidos dentro de paquetes de semiconductores de alto rendimiento —incluidas GPUs para servidores de IA y HBM— para mejorar la estabilidad del suministro eléctrico.[^samsung-sicap-contract]
+La aplicación central de los condensadores de silicio es la <strong>estabilización de potencia dentro de los paquetes</strong>. Samsung Electro-Mechanics describe los condensadores de silicio como dispositivos ultracompactos de alto rendimiento construidos sobre obleas de silicio, embebidos dentro de paquetes de semiconductores de alto rendimiento —incluidas GPUs para servidores de IA y HBM— para mejorar la estabilidad del suministro eléctrico.[^samsung-sicap-contract]
 
 La documentación de producto de la empresa lo refuerza: los condensadores de silicio forman el dieléctrico y los electrodos internos sobre silicio, pueden adelgazarse a menos de 100 micrómetros mediante procesado de oblea y son adecuados para su embebido dentro de paquetes. La baja inductancia parásita es la ventaja clave para la estabilización de potencia.[^samsung-sicap-product]
 
@@ -112,7 +112,7 @@ Resistencia parásita = factor de interferencia que genera pérdidas de energía
 Integridad de potencia = capacidad de entregar voltaje y corriente estables y sin rizado al chip exactamente cuando se necesitan
 ```
 
-Los semiconductores de IA consumen potencia en picos repentinos e intensos. Un condensador alejado del die responde demasiado lento. La solución es mover el condensador inmediatamente junto al chip —o dentro del propio paquete—. La tesis de inversión en condensadores de silicio no es "mayor capacitancia" sino **respuesta más rápida desde una ubicación más cercana**.
+Los semiconductores de IA consumen potencia en picos repentinos e intensos. Un condensador alejado del die responde demasiado lento. La solución es mover el condensador inmediatamente junto al chip —o dentro del propio paquete—. La tesis de inversión en condensadores de silicio no es "mayor capacitancia" sino <strong>respuesta más rápida desde una ubicación más cercana</strong>.
 
 ---
 
@@ -127,7 +127,7 @@ Los semiconductores de IA consumen potencia en picos repentinos e intensos. Un c
 | Taiwán / Gran China | Yageo, Walsin | Cartera de componentes pasivos commodity, industrial y de precio medio-bajo |
 | EE.UU. / Filiales japonesas | KYOCERA AVX, KEMET/Yageo, Vishay | Condensadores especiales, líneas de producto automotriz, industrial y de alta frecuencia |
 
-La base de clientes de MLCC es enormemente amplia: fabricantes de smartphones, productores de PCs y servidores, OEMs de automoción, proveedores Tier-1, fabricantes de equipos de telecomunicaciones y empresas de módulos de semiconductores. Para invertir en MLCCs, **la mezcla de demanda por mercado final y la cuota de productos de alto valor** importan más que la exposición a un cliente concreto.
+La base de clientes de MLCC es enormemente amplia: fabricantes de smartphones, productores de PCs y servidores, OEMs de automoción, proveedores Tier-1, fabricantes de equipos de telecomunicaciones y empresas de módulos de semiconductores. Para invertir en MLCCs, <strong>la mezcla de demanda por mercado final y la cuota de productos de alto valor</strong> importan más que la exposición a un cliente concreto.
 
 ### 4.2 Principales Proveedores de Condensadores de Silicio
 
@@ -150,7 +150,7 @@ La contraparte del contrato de Samsung Electro-Mechanics se revela oficialmente 
 
 A medida que las GPUs de IA y la HBM escalan en intensidad de cómputo y movimiento de datos, la demanda de corriente instantánea ha crecido sustancialmente. El problema es que la potencia que llega desde lejos se ralentiza por los elementos parásitos en las trazas de alimentación, el sustrato y el paquete, lo que degrada la respuesta transitoria. La solución es acercar los condensadores al die.
 
-Los MLCCs convencionales se sitúan principalmente en la PCB o alrededor del perímetro del paquete. Los condensadores de silicio pueden ir dentro del paquete o inmediatamente adyacentes al die. Con condensadores de capacitancia equivalente, **la ubicación determina el rendimiento**.
+Los MLCCs convencionales se sitúan principalmente en la PCB o alrededor del perímetro del paquete. Los condensadores de silicio pueden ir dentro del paquete o inmediatamente adyacentes al die. Con condensadores de capacitancia equivalente, <strong>la ubicación determina el rendimiento</strong>.
 
 ### 5.2 Significado Empresarial — Los Componentes Pasivos se Revalúan como Componentes de Empaquetado de IA
 
@@ -181,23 +181,23 @@ Esta semana (18–22 de mayo de 2026), el mercado revaluó agresivamente el tema
 
 | Nombre | Retorno Semanal | 20D | 60D | PER 2026E | Extranjero | Institucional | Extr. + Inst. | Programa |
 |---|---:|---:|---:|---:|---:|---:|---:|---:|
-| Samwha Capacitor | **+56,4%** | +56,0% | +68,0% | 40,8x | -₩5,88MM | +₩16,09MM | +₩10,21MM | N/A |
-| Samsung Electro-Mechanics | **+32,7%** | +65,0% | +200,5% | 73,2x | -₩292,90MM | +₩111,79MM | -₩181,11MM | +₩170,96MM |
+| Samwha Capacitor | <strong>+56,4%</strong> | +56,0% | +68,0% | 40,8x | -₩5,88MM | +₩16,09MM | +₩10,21MM | N/A |
+| Samsung Electro-Mechanics | <strong>+32,7%</strong> | +65,0% | +200,5% | 73,2x | -₩292,90MM | +₩111,79MM | -₩181,11MM | +₩170,96MM |
 | Amotech | +17,6% | -18,4% | +55,2% | 18,9x | +₩4,91MM | -₩0,87MM | +₩4,05MM | +₩5,10MM |
 
-Samsung Electro-Mechanics encadenó tres sesiones consecutivas de fortaleza: +7,5% el 20 de mayo, +13,5% el 21 de mayo y +11,3% el 22 de mayo. Samwha Capacitor fue más extremo: +23,0% el 20 de mayo, +29,9% el 22 de mayo. Esto no es tanto un movimiento impulsado puramente por resultados como **una revaluación de los componentes de integridad de potencia para IA que se originó en Samsung Electro-Mechanics y se irradió hacia el ecosistema MLCC**.
+Samsung Electro-Mechanics encadenó tres sesiones consecutivas de fortaleza: +7,5% el 20 de mayo, +13,5% el 21 de mayo y +11,3% el 22 de mayo. Samwha Capacitor fue más extremo: +23,0% el 20 de mayo, +29,9% el 22 de mayo. Esto no es tanto un movimiento impulsado puramente por resultados como <strong>una revaluación de los componentes de integridad de potencia para IA que se originó en Samsung Electro-Mechanics y se irradió hacia el ecosistema MLCC</strong>.
 
 ### 6.2 Cesta de los Cinco Principales Valores de Sustratos de IA
 
 | Nombre | Retorno Semanal | 20D | 60D | PER 2026E | Extranjero | Institucional | Extr. + Inst. | Programa |
 |---|---:|---:|---:|---:|---:|---:|---:|---:|
-| Simtech | **+31,4%** | +52,2% | +146,8% | 38,7x | -₩24,58MM | +₩61,81MM | +₩37,22MM | -₩5,35MM |
+| Simtech | <strong>+31,4%</strong> | +52,2% | +146,8% | 38,7x | -₩24,58MM | +₩61,81MM | +₩37,22MM | -₩5,35MM |
 | TLB | +18,0% | +44,4% | +89,2% | 25,3x | -₩7,80MM | +₩15,30MM | +₩7,50MM | -₩3,98MM |
 | Daeduck Electronics | +11,4% | +49,5% | +132,8% | 38,9x | -₩2,93MM | +₩29,05MM | +₩26,12MM | +₩5,28MM |
 | Korea Circuit | +10,7% | +5,6% | +66,7% | 25,5x | -₩2,71MM | -₩0,58MM | -₩3,29MM | +₩0,44MM |
 | ISU Petasys | -1,5% | -21,9% | +12,7% | 35,6x | -₩119,17MM | -₩0,74MM | -₩119,90MM | -₩125,28MM |
 
-La cesta de sustratos de IA no fue una marea uniformemente al alza. Simtech, TLB y Daeduck Electronics fueron sólidos, pero ISU Petasys cerró la semana en -1,5% en medio de fuertes ventas de extranjeros y programas. Dentro de los sustratos de IA, el mercado pareció favorecer esta semana la **exposición a SoCAMM, módulos de memoria y FC-CSP frente a las placas de red de alto número de capas**.
+La cesta de sustratos de IA no fue una marea uniformemente al alza. Simtech, TLB y Daeduck Electronics fueron sólidos, pero ISU Petasys cerró la semana en -1,5% en medio de fuertes ventas de extranjeros y programas. Dentro de los sustratos de IA, el mercado pareció favorecer esta semana la <strong>exposición a SoCAMM, módulos de memoria y FC-CSP frente a las placas de red de alto número de capas</strong>.
 
 ### 6.3 El Liderazgo de Precio va a los MLCCs; la Calidad del Flujo Favorece a Ciertos Nombres de Sustratos de IA
 
@@ -207,7 +207,7 @@ La cesta de sustratos de IA no fue una marea uniformemente al alza. Simtech, TLB
 | Sustrato IA principal (5 valores) | -₩157,19MM | +₩104,84MM | -₩52,35MM | +₩52,05MM | -₩128,89MM |
 | Sustrato IA ex-ISU Petasys | -₩38,02MM | +₩105,57MM | +₩67,55MM | -₩65,47MM | -₩3,60MM |
 
-En precio, los MLCCs dominaron. En calidad de flujo, **la cesta de sustratos de IA excluyendo ISU Petasys** luce más limpia. Simtech, TLB y Daeduck muestran una clara acumulación institucional con vendedores minoristas o flujo minorista neutro —una configuración más constructiva—. En los valores de MLCC, los ₩292,9MM de ventas de extranjeros solo en Samsung Electro-Mechanics son demasiado grandes para ignorar. El precio de la acción fue fuerte, pero esto parece más una revaluación impulsada por institucionales, programas y minoristas que una acumulación liderada por extranjeros.
+En precio, los MLCCs dominaron. En calidad de flujo, <strong>la cesta de sustratos de IA excluyendo ISU Petasys</strong> luce más limpia. Simtech, TLB y Daeduck muestran una clara acumulación institucional con vendedores minoristas o flujo minorista neutro —una configuración más constructiva—. En los valores de MLCC, los ₩292,9MM de ventas de extranjeros solo en Samsung Electro-Mechanics son demasiado grandes para ignorar. El precio de la acción fue fuerte, pero esto parece más una revaluación impulsada por institucionales, programas y minoristas que una acumulación liderada por extranjeros.
 
 ---
 
@@ -223,7 +223,7 @@ En precio, los MLCCs dominaron. En calidad de flujo, **la cesta de sustratos de 
 | Simtech / TLB | Lideraron la expansión de sustratos de IA esta semana. La semana próxima, vigilar una consolidación post-calor antes de reentrar. |
 | ISU Petasys | Rezagado relativo dentro de los sustratos de IA. Menor prioridad hasta que el flujo de extranjeros se estabilice. |
 
-El mercado de esta semana fue uno en que **la atención se expandió desde los sustratos de IA hacia los MLCCs**. La tesis de los sustratos de IA no ha quedado invalidada. Más bien, el mercado está desagregando "el próximo cuello de botella después de la memoria" con mayor precisión, extendiendo la revaluación hacia los componentes de integridad de potencia en servidores de IA.
+El mercado de esta semana fue uno en que <strong>la atención se expandió desde los sustratos de IA hacia los MLCCs</strong>. La tesis de los sustratos de IA no ha quedado invalidada. Más bien, el mercado está desagregando "el próximo cuello de botella después de la memoria" con mayor precisión, extendiendo la revaluación hacia los componentes de integridad de potencia en servidores de IA.
 
 En términos prácticos:
 
@@ -241,9 +241,9 @@ Confirmación clave necesaria: Si las subidas de precio de MLCC y los ingresos d
 
 Un MLCC es el "depósito de agua cerámico ultracompacto" de la industria electrónica. Un condensador de silicio es un "estabilizador de potencia de ultraproximidad" embebido dentro de los paquetes de GPUs de IA y HBM. Los condensadores de silicio no reemplazan a los MLCCs. El campo de batalla de los componentes pasivos se está expandiendo desde la superficie de la PCB hacia el interior de los paquetes de semiconductores de IA.
 
-El verdadero significado del contrato de ₩1,5 billones de Samsung Electro-Mechanics no es "vender un tipo más de condensador". Es la señal de que **un fabricante de componentes pasivos ha entrado en la cadena de suministro de componentes clave dentro de los paquetes de semiconductores de IA**. Este cambio puede reclasificar las líneas de productos premium de Samsung Electro-Mechanics y Murata como activos de la cadena de valor de infraestructura de IA.
+El verdadero significado del contrato de ₩1,5 billones de Samsung Electro-Mechanics no es "vender un tipo más de condensador". Es la señal de que <strong>un fabricante de componentes pasivos ha entrado en la cadena de suministro de componentes clave dentro de los paquetes de semiconductores de IA</strong>. Este cambio puede reclasificar las líneas de productos premium de Samsung Electro-Mechanics y Murata como activos de la cadena de valor de infraestructura de IA.
 
-El mercado, sin embargo, ya ha respondido con rapidez. Los tres valores principales de MLCC promediaron +35,6% esta semana; Samsung Electro-Mechanics acumula +200,5% en 60 días y cotiza a 73,2x PER 2026E. La empresa es excelente y el cambio sectorial es real. Si el precio actual es también un buen punto de entrada nuevo es una pregunta completamente distinta. El próximo catalizador a seguir no es la acción del precio sino **las revisiones de resultados del 2T–3T, la divulgación desagregada de ingresos en servidores de IA, pedidos adicionales de condensadores de silicio y la recuperación del flujo de extranjeros**.
+El mercado, sin embargo, ya ha respondido con rapidez. Los tres valores principales de MLCC promediaron +35,6% esta semana; Samsung Electro-Mechanics acumula +200,5% en 60 días y cotiza a 73,2x PER 2026E. La empresa es excelente y el cambio sectorial es real. Si el precio actual es también un buen punto de entrada nuevo es una pregunta completamente distinta. El próximo catalizador a seguir no es la acción del precio sino <strong>las revisiones de resultados del 2T–3T, la divulgación desagregada de ingresos en servidores de IA, pedidos adicionales de condensadores de silicio y la recuperación del flujo de extranjeros</strong>.
 
 ---
 

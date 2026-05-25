@@ -21,7 +21,7 @@ tags:
 slug: roe-25-screening-only-four-pass-2026-05-07
 ---
 
-> 🔗 **Related**: [Earnings-Explosion Screen — 67 Names](/post/2026-earnings-explosion-screening-undiscovered-alpha-2026-05-07/) · [Korea Daily Market Hub](/page/korea-daily-market-hub/)
+> 🔗 <strong>Related</strong>: [Earnings-Explosion Screen — 67 Names](/post/2026-earnings-explosion-screening-undiscovered-alpha-2026-05-07/) · [Korea Daily Market Hub](/page/korea-daily-market-hub/)
 
 *The [previous post](/post/2026-earnings-explosion-screening-undiscovered-alpha-2026-05-07/) showed an "earnings explosion" screen returning 67 names with the lesson "most have already moved." This piece runs the inverse experiment: stack filters to the limit and see what actually clears. Nine simultaneous conditions — ROE ≥25%, revenue growth ≥+15%, OP growth ≥+20%, OPM ≥10%, P/E ≤25×, target headroom ≥+15%, daily turnover ≥₩3.0bn, foreign+institution net-buy, RSI <75 — and only four Korean equities pass.*
 
@@ -29,12 +29,12 @@ slug: roe-25-screening-only-four-pass-2026-05-07
 
 ## Executive Summary
 
-- **Only four names clear the nine simultaneous filters**: VM, Pamicell, Silicon2, Samyang Foods. Out of the entire Korean listed universe. The narrowness of the result is the point.
-- **The formula targets the intersection of "good business" and "what the market is currently buying."** ROE ≥25% catches efficient-capital users; P/E ≤25× catches names not yet expensively priced; foreign+institution net-buy catches names with active flow support. When all three filter dimensions clear simultaneously, **quality, price, and flow are confirmed in one cohort**.
-- **Pamicell survives both screens.** It cleared the previous earnings-explosion screen of 67 names *and* this 9-filter screen of 4 names. ROE 38%, OPM 36.3%, OP growth +72.3%, foreign+institution 20D +₩53.7bn. **Two independent screening lenses, same conclusion** — the strongest single signal in this cohort.
-- **Silicon2 has the cleanest quality-vs-price combination.** ROE 38.7%, P/E 13.3×, target headroom +36.8%. Among the four, the price-relative-to-quality combination is the cleanest. But its current leadership intensity is below Pamicell's.
-- **VM ranks #1 on raw quant but with elevated late-stage volatility risk.** OP growth +242.9%, P/E 19.8×, target headroom +29.8%. On numbers alone the strongest. But +451% off 52-week low is "already-moved" territory — a tactical/aggressive holding rather than a core position.
-- **The narrow-miss list is the more interesting research output.** HD Hyundai Marine Engine (P/E 25.7×, missed by 0.7×), Classys (only flow filter failed), PharmaResearch (only flow filter failed), Isu Petasys (P/E too high), Samsung Electronics (RSI too high). One condition flips and these names enter — useful "watch list" candidates.
+- <strong>Only four names clear the nine simultaneous filters</strong>: VM, Pamicell, Silicon2, Samyang Foods. Out of the entire Korean listed universe. The narrowness of the result is the point.
+- <strong>The formula targets the intersection of "good business" and "what the market is currently buying."</strong> ROE ≥25% catches efficient-capital users; P/E ≤25× catches names not yet expensively priced; foreign+institution net-buy catches names with active flow support. When all three filter dimensions clear simultaneously, <strong>quality, price, and flow are confirmed in one cohort</strong>.
+- <strong>Pamicell survives both screens.</strong> It cleared the previous earnings-explosion screen of 67 names *and* this 9-filter screen of 4 names. ROE 38%, OPM 36.3%, OP growth +72.3%, foreign+institution 20D +₩53.7bn. <strong>Two independent screening lenses, same conclusion</strong> — the strongest single signal in this cohort.
+- <strong>Silicon2 has the cleanest quality-vs-price combination.</strong> ROE 38.7%, P/E 13.3×, target headroom +36.8%. Among the four, the price-relative-to-quality combination is the cleanest. But its current leadership intensity is below Pamicell's.
+- <strong>VM ranks #1 on raw quant but with elevated late-stage volatility risk.</strong> OP growth +242.9%, P/E 19.8×, target headroom +29.8%. On numbers alone the strongest. But +451% off 52-week low is "already-moved" territory — a tactical/aggressive holding rather than a core position.
+- <strong>The narrow-miss list is the more interesting research output.</strong> HD Hyundai Marine Engine (P/E 25.7×, missed by 0.7×), Classys (only flow filter failed), PharmaResearch (only flow filter failed), Isu Petasys (P/E too high), Samsung Electronics (RSI too high). One condition flips and these names enter — useful "watch list" candidates.
 
 ---
 
@@ -54,7 +54,7 @@ ROE ≥25% carries three implications:
 | Reinvestment value | Re-deployed earnings compound the equity base |
 | Multiple justification | Higher P/E or P/B has analytic basis |
 
-The critical question is **whether the ROE is sustainable**. A single year of ROE 25% is meaningless. To be a "good ROE," it has to hold for 2–3+ years, be accompanied by revenue growth, and not depend on leverage.
+The critical question is <strong>whether the ROE is sustainable</strong>. A single year of ROE 25% is meaningless. To be a "good ROE," it has to hold for 2–3+ years, be accompanied by revenue growth, and not depend on leverage.
 
 ### 1.3 Good ROE 25% vs Bad ROE 25%
 
@@ -112,7 +112,7 @@ Market validation: foreign+institution flow + RSI + turnover
 
 A "good business" (quality) that is "not yet expensively priced" (price) and "currently being bought" (market validation) — the intersection.
 
-The fact that nine simultaneous filters are *hard to clear* is itself the value. Where the earnings-explosion screen returned 67, this screen returns 4. **Strict filters produce meaningful results.**
+The fact that nine simultaneous filters are *hard to clear* is itself the value. Where the earnings-explosion screen returned 67, this screen returns 4. <strong>Strict filters produce meaningful results.</strong>
 
 ---
 
@@ -121,7 +121,7 @@ The fact that nine simultaneous filters are *hard to clear* is itself the value.
 | Rank | Name | ROE | P/E | OP growth | OPM | Target hd | 20D return | Foreign+Inst 20D | Profile |
 | ---: | --- | ---: | ---: | ---: | ---: | ---: | ---: | ---: | --- |
 | 1 | VM (KOSDAQ: 081000) | 34.2% | 19.8× | +242.9% | 29.4% | +29.8% | +42.2% | +₩25.1bn | Aggressive momentum |
-| 2 | **Pamicell (KOSPI: 005690)** | **38.0%** | **21.1×** | **+72.3%** | **36.3%** | **+21.9%** | **+36.7%** | **+₩53.7bn** | **Focus candidate** |
+| 2 | <strong>Pamicell (KOSPI: 005690)</strong> | <strong>38.0%</strong> | <strong>21.1×</strong> | <strong>+72.3%</strong> | <strong>36.3%</strong> | <strong>+21.9%</strong> | <strong>+36.7%</strong> | <strong>+₩53.7bn</strong> | <strong>Focus candidate</strong> |
 | 3 | Silicon2 (KOSDAQ: 257720) | 38.7% | 13.3× | +30.3% | 18.0% | +36.8% | +15.1% | +₩31.7bn | Quality candidate |
 | 4 | Samyang Foods (KOSPI: 003230) | 35.3% | 18.8× | +31.7% | 23.4% | +38.2% | +7.1% | +₩16.3bn | Steady compounder |
 
@@ -143,7 +143,7 @@ P/E 21.1× → not yet expensively priced
 Foreign+Inst 20D +₩53.7bn → flow strongest in cohort
 ```
 
-Pamicell was already analyzed in [Series Part 3](/post/pamicell-four-layer-progress-and-fifth-cycle-layer-2026-05-03/) with a GARP Score of 150 (top of the materials-stock universe). The fact that it also clears this independent ROE-25%-multi-factor screen means **the appeal holds across very different filter logic** — quality + price + flow as a distinct lens from the original GARP composite.
+Pamicell was already analyzed in [Series Part 3](/post/pamicell-four-layer-progress-and-fifth-cycle-layer-2026-05-03/) with a GARP Score of 150 (top of the materials-stock universe). The fact that it also clears this independent ROE-25%-multi-factor screen means <strong>the appeal holds across very different filter logic</strong> — quality + price + flow as a distinct lens from the original GARP composite.
 
 That said, 20-day return +36.7% raises near-term overheating risk. The right posture is "wait for pullback or scale in after 1Q earnings confirm" rather than "full conviction now."
 
@@ -185,7 +185,7 @@ Target headroom +29.8% → adequate
 Foreign+Inst 20D +₩25.1bn → solid
 ```
 
-The issue is price location. **52-week-low to current: +451%.** A 4.5×-in-a-year run. This isn't "undervalued discovery" — it's "already-moved territory."
+The issue is price location. <strong>52-week-low to current: +451%.</strong> A 4.5×-in-a-year run. This isn't "undervalued discovery" — it's "already-moved territory."
 
 OP growth +242.9% may carry "turnaround base-effect" character. If 2025 OP was depressed, even modest absolute lift produces a large growth rate. Whether the growth is "structural" or "base effect" is the analytical question.
 
@@ -228,7 +228,7 @@ Tracking signals:
 | Isu Petasys | P/E 41.4×, target +10.5% | ⑤⑥ P/E + target | Leader, but priced |
 | Samsung Electronics | RSI >75 | ⑨ RSI | Hold OK; new entry per filter blocked |
 
-The near-miss list is more interesting than it looks because **a single condition relaxation puts each one in the active cohort**.
+The near-miss list is more interesting than it looks because <strong>a single condition relaxation puts each one in the active cohort</strong>.
 
 HD Hyundai Marine Engine is 0.7× away. In an aggressive-market regime where the P/E filter is loosened from 25× to 30×, it enters. Classys and PharmaResearch enter the moment flow turns positive. Samsung Electronics enters when RSI cools to <75.
 
@@ -238,7 +238,7 @@ Tracking these "waiting candidates" is part of the screen's value.
 
 ## 6. The Cross-Screen Intersection — Where 67 Meets 4
 
-The previous post returned 67 names from the earnings-explosion screen. This post returns 4 names from the ROE-25%-9-filter screen. **Cross the two — and Pamicell appears in both.**
+The previous post returned 67 names from the earnings-explosion screen. This post returns 4 names from the ROE-25%-9-filter screen. <strong>Cross the two — and Pamicell appears in both.</strong>
 
 ```
 [Earnings-explosion screen — 67 names]
@@ -258,7 +258,7 @@ Cross-screen result:
 
 This is why cross-screen analysis is more meaningful than any single screen. A single filter creates confirmation bias; two independent filters provide robustness.
 
-Whether Silicon2, VM, and Samyang Foods also cleared the earnings-explosion screen is a separate cross-check. The fact that **Pamicell appears in both is, by itself, the strongest analytical signal in this cohort**.
+Whether Silicon2, VM, and Samyang Foods also cleared the earnings-explosion screen is a separate cross-check. The fact that <strong>Pamicell appears in both is, by itself, the strongest analytical signal in this cohort</strong>.
 
 ---
 
@@ -279,10 +279,10 @@ VM and Pamicell are up 35–42% in 20 sessions. The screen flagged all four at t
 
 These nine conditions are not an absolute formula. Several traps:
 
-- **ROE may be temporary**: a strong 2025 ROE that drops in 2026 is meaningless
-- **Consensus estimates can revise**: 2026F OP-growth is a sell-side estimate, and estimates can be wrong
-- **Flow can reverse**: today's foreign+institution net-buy can become tomorrow's net-sell
-- **RSI <75 is a snapshot**: the next day's print may be ≥75
+- <strong>ROE may be temporary</strong>: a strong 2025 ROE that drops in 2026 is meaningless
+- <strong>Consensus estimates can revise</strong>: 2026F OP-growth is a sell-side estimate, and estimates can be wrong
+- <strong>Flow can reverse</strong>: today's foreign+institution net-buy can become tomorrow's net-sell
+- <strong>RSI <75 is a snapshot</strong>: the next day's print may be ≥75
 
 The screen is "look at this name more deeply," not "buy this name." That four cleared means "worth a closer look," not "guaranteed buy."
 
@@ -311,9 +311,9 @@ The screen is "look at this name more deeply," not "buy this name." That four cl
 - OPM peak-out check
 
 ### 8.5 Watch List
-- **HD Hyundai Marine Engine**: when P/E moves below 25×
-- **Classys / PharmaResearch**: when foreign+institution flow turns to net-buy
-- **Samsung Electronics**: when RSI cools to <75
+- <strong>HD Hyundai Marine Engine</strong>: when P/E moves below 25×
+- <strong>Classys / PharmaResearch</strong>: when foreign+institution flow turns to net-buy
+- <strong>Samsung Electronics</strong>: when RSI cools to <75
 
 ---
 
@@ -321,11 +321,11 @@ The screen is "look at this name more deeply," not "buy this name." That four cl
 
 ROE ≥25%, revenue growth ≥+15%, OP growth ≥+20%, OPM ≥10%, P/E ≤25×, target headroom ≥+15%, daily turnover ≥₩3.0bn, foreign+institution net-buy, RSI <75. Stack nine simultaneous filters and only four Korean names clear: VM, Pamicell, Silicon2, Samyang Foods.
 
-If the prior post's 67-name earnings-explosion screen taught "most have already moved," this 4-name screen teaches **"strict filters surface what actually compounds."** Sixty-seven is too many — the market has discovered most. Four is few enough to matter.
+If the prior post's 67-name earnings-explosion screen taught "most have already moved," this 4-name screen teaches <strong>"strict filters surface what actually compounds."</strong> Sixty-seven is too many — the market has discovered most. Four is few enough to matter.
 
 The four share efficient capital deployment, growing earnings, and active flow. Their differences are in character: Pamicell is the focus candidate (cleared both screens, ROE 38%, OPM 36.3%, flow +₩53.7bn); Silicon2 is the quality candidate (ROE 38.7% with P/E 13.3× — best quality-vs-price); VM is the aggressive position (OP growth +243%, dominant on pure quant, but +451% off low); Samyang Foods is the steady compounder (clean numbers, but not the current momentum leader).
 
-**Pamicell surviving both screens is the strongest analytical signal in this cohort.** Two independent filtering logics — earnings-explosion growth and ROE+price+flow quality — produce the same answer.
+<strong>Pamicell surviving both screens is the strongest analytical signal in this cohort.</strong> Two independent filtering logics — earnings-explosion growth and ROE+price+flow quality — produce the same answer.
 
 That said, all four have recently run hard. The screen result is not a "full-conviction-now" signal. Pullback wait or post-earnings entry is cleaner. The narrow-miss watch list (HD Hyundai Marine Engine, Classys, PharmaResearch, Samsung Electronics) is also worth tracking — relax one filter and any of them enters.
 
@@ -335,28 +335,28 @@ The screen is the start, not the destination. Whether the four names print 67 or
 
 ## FAQ — Korean Quality-Compounder Screen May 2026
 
-**Q: How many Korean stocks pass a strict 9-filter ROE-25% screen?**
+<strong>Q: How many Korean stocks pass a strict 9-filter ROE-25% screen?</strong>
 A: As of May 7, 2026: only 4 names — VM (KOSDAQ 081000), Pamicell (KOSPI 005690), Silicon2 (KOSDAQ 257720), Samyang Foods (KOSPI 003230). The criteria stack ROE ≥25%, revenue growth ≥+15%, OP growth ≥+20%, OPM ≥10%, P/E ≤25×, target headroom ≥+15%, daily turnover ≥₩3.0bn, foreign+institution net-buy, RSI <75.
 
-**Q: Why does ROE 25% matter as a screening threshold?**
+<strong>Q: Why does ROE 25% matter as a screening threshold?</strong>
 A: ROE 25% means the company generates ₩25 of net income per ₩100 of equity per year — a strong indicator of capital-deployment efficiency. Stacked with growth (revenue / OP / margin), valuation (P/E / target), and flow (foreign+institution / RSI) filters, it isolates "good business + reasonable price + active market support" simultaneously.
 
-**Q: Why does Pamicell stand out in this cohort?**
-A: Pamicell cleared **both** the previous earnings-explosion screen (67 names) and this ROE-25% screen (4 names). Two independent filtering logics produced the same answer, which is the strongest analytical signal in either screen. ROE 38%, OPM 36.3%, OP growth +72.3%, foreign+institution 20D +₩53.7bn.
+<strong>Q: Why does Pamicell stand out in this cohort?</strong>
+A: Pamicell cleared <strong>both</strong> the previous earnings-explosion screen (67 names) and this ROE-25% screen (4 names). Two independent filtering logics produced the same answer, which is the strongest analytical signal in either screen. ROE 38%, OPM 36.3%, OP growth +72.3%, foreign+institution 20D +₩53.7bn.
 
-**Q: Is Silicon2 (257720) publicly traded?**
+<strong>Q: Is Silicon2 (257720) publicly traded?</strong>
 A: Yes — Silicon2 is listed on KOSDAQ under ticker 257720. It is a global K-beauty distribution platform with high overseas-revenue mix and ROE 38.7%. Its P/E 13.3× combined with ROE near 39% is unusually clean quality-vs-price math by Korean-market standards.
 
-**Q: What is VM (081000)?**
+<strong>Q: What is VM (081000)?</strong>
 A: VM is a KOSDAQ-listed Korean equipment / industrial-products company that cleared the screen with the strongest pure quant score (OP growth +242.9%). However, it has run +451% off its 52-week low, putting it firmly in "already-moved" territory — closer to an aggressive position than a core hold.
 
-**Q: Why is Samyang Foods (003230) listed but flagged as steady-compounder?**
+<strong>Q: Why is Samyang Foods (003230) listed but flagged as steady-compounder?</strong>
 A: Samyang Foods (KOSPI 003230) clears all nine filters with strong fundamentals (ROE 35.3%, OPM 23.4%, P/E 18.8×). However, its 20-day return at +7.1% is the lowest in the cohort, meaning it is not currently the market's momentum leader — making it a steady-compound portfolio slot rather than a short-term-momentum slot.
 
-**Q: Should I just buy all four screen passes?**
+<strong>Q: Should I just buy all four screen passes?</strong>
 A: No. The screen is "worth a closer look," not "guaranteed buy." Four key caveats: ROE may be temporary, consensus estimates can revise, flow can reverse, and RSI <75 is a snapshot. Two of the four (VM and Pamicell) are up 35–42% in 20 sessions — pullback wait or post-earnings entry is cleaner than chasing.
 
-**Q: Why is the near-miss list ("HD Hyundai Marine Engine, Classys, PharmaResearch") interesting?**
+<strong>Q: Why is the near-miss list ("HD Hyundai Marine Engine, Classys, PharmaResearch") interesting?</strong>
 A: Each missed by exactly one condition. HD Hyundai Marine Engine: P/E 25.7× (0.7× miss). Classys / PharmaResearch: foreign+institution net-sell (only flow filter failed). One condition flips and they enter the active cohort. This makes them productive watch-list candidates.
 
 ---

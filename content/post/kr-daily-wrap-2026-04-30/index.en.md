@@ -20,29 +20,29 @@ draft: false
 | Brent | $102.1 | −5.6% | Falling |
 | US 10Y | 4.42% | +0.10pp | → Neutral |
 
-**Regime verdict:** Korea **Bull** / US **Bear**. The KR screener universe shows 65.4% of stocks above the 50-day MA and 59.8% above the 200-day MA — trend names are intact. US breadth is near zero on both measures. The divergence argues for maintaining Korea exposure while reducing US positions. The Brent slide and Hormuz tension are the primary macro wildcards.
+<strong>Regime verdict:</strong> Korea <strong>Bull</strong> / US <strong>Bear</strong>. The KR screener universe shows 65.4% of stocks above the 50-day MA and 59.8% above the 200-day MA — trend names are intact. US breadth is near zero on both measures. The divergence argues for maintaining Korea exposure while reducing US positions. The Brent slide and Hormuz tension are the primary macro wildcards.
 
 ---
 
 ## Section 2 — Market Wrap
 
-Today's Korea session was a split tape: the screener infrastructure reads **Bull**, but the live session read **neutral-to-risk-off**. KOSPI fell roughly 1% and KOSDAQ around 2%, with both foreign and institutional investors net sellers. The surface and the sentiment diverged.
+Today's Korea session was a split tape: the screener infrastructure reads <strong>Bull</strong>, but the live session read <strong>neutral-to-risk-off</strong>. KOSPI fell roughly 1% and KOSDAQ around 2%, with both foreign and institutional investors net sellers. The surface and the sentiment diverged.
 
-**Sector picture:**
+<strong>Sector picture:</strong>
 
-The strongest pillars were **power equipment and electrical infrastructure** — transformers, switchgear, and cable names held up or advanced. **Shipbuilding** continued its recent run, with marine engine names posting sharp 5-day gains. A slice of the **semiconductor/HBM complex** also survived the day, aided by overnight US mega-cap earnings beats and confirmation that AI capital expenditure is accelerating across Alphabet, Amazon, Microsoft, and Meta.
+The strongest pillars were <strong>power equipment and electrical infrastructure</strong> — transformers, switchgear, and cable names held up or advanced. <strong>Shipbuilding</strong> continued its recent run, with marine engine names posting sharp 5-day gains. A slice of the <strong>semiconductor/HBM complex</strong> also survived the day, aided by overnight US mega-cap earnings beats and confirmation that AI capital expenditure is accelerating across Alphabet, Amazon, Microsoft, and Meta.
 
 Weak spots were broad. Growth stocks and biotech/small-cap names fell across the board. Stocks that reported earnings but left guidance ambiguous were punished — the market had no patience for "wait and see" stories on a risk-off day.
 
-**Flow signals:**
+<strong>Flow signals:</strong>
 
 Foreign investors were net sellers in semiconductors (sizable in large-cap names) and in telecom. Institutional flows were mixed: some net buying in large-cap tech and incremental selling in defensives. The clearest positive flow signal was in the power equipment cluster, where 5-day cumulative buying was strong.
 
-**Earnings context:**
+<strong>Earnings context:</strong>
 
 Today was a busy disclosure day. Several large-cap names filed preliminary Q1 results alongside dividend decisions and buyback updates, giving the market real data to work with for the first time in weeks. In most cases, the disclosed numbers confirmed that margin expansion and operating leverage are real — the issue was whether guidance was attached, and in many cases it was not.
 
-**Tomorrow's read:**
+<strong>Tomorrow's read:</strong>
 
 The core tension heading into May is whether the broader risk-off impulse (driven by oil, Middle East, and US rate volatility) overwhelms the strong Korea-specific earnings cycle. The screener breadth says the trend is not broken. Price action says don't chase.
 
@@ -69,27 +69,27 @@ The meta screener ranked 139 tickers today. The top names are concentrated in fo
 
 ### Deep Context: Top 3 Names
 
-**1. SK Square (402340.KS) — Score 92.9, 4 screeners**
+<strong>1. SK Square (402340.KS) — Score 92.9, 4 screeners</strong>
 
 SK Square is the holding company that sits above SK Hynix, holding a concentrated stake in the memory giant alongside other SK Group telecom and digital assets. The investment thesis here is not a holding-company discount story — it is an operating leverage story that flows through from Hynix's memory cycle recovery. The Quality Compounder screener flags it at #1 in the entire universe: ROE of 37.8%, operating margin of 84.1% (holding-company accounting), and revenue up 77.8% year-on-year. The Cycle Rerating screener confirms the margin inflection — a +17.5 percentage point change, third-strongest in the screener. Smart Money Earnings puts it at #2 with operating income up 124.4% and net income up 141.6%. Most importantly, 5-day institutional and foreign combined net buying came in at +₩167.7 billion — money is actively moving into this name.
 
 Today's DART filings included a dividend record-date decision and a cash dividend announcement, both dated April 30. One risk-category filing (a subsidiary exchangeable bond early redemption) is worth reading before initiating a position.
 
-**What to check next:** Verify the Hynix stake valuation against current Hynix market cap to gauge NAV discount. Confirm whether the dividend announcement implies a shareholder return acceleration thesis.
+<strong>What to check next:</strong> Verify the Hynix stake valuation against current Hynix market cap to gauge NAV discount. Confirm whether the dividend announcement implies a shareholder return acceleration thesis.
 
 ---
 
-**2. SK Hynix (000660.KS) — Score 87.5, 4 screeners (+ Consensus Up Revision)**
+<strong>2. SK Hynix (000660.KS) — Score 87.5, 4 screeners (+ Consensus Up Revision)</strong>
 
 SK Hynix is Korea's largest memory semiconductor company and the global leader in HBM for AI accelerator stacks. The screener profile is strong: ROE of 44.1%, OPM of 48.6%, operating income up 101.2% year-on-year, and a margin expansion of +13.1 percentage points. The Consensus Up Revision signal is meaningful — analysts are raising forward estimates, not just extrapolating history.
 
 The caution is real. The 5-day net foreign and institutional flow is −₩553.3 billion — significant selling against an otherwise strong fundamental picture. This is the classic "great business, near-term seller overhang" setup. The AI infrastructure cycle (confirmed by US mega-cap CapEx) supports the long-term demand case for HBM, but today the stock moved with the broad market weakness.
 
-**What to check next:** Watch whether the foreign selling is index-rebalancing driven or reflects genuine fundamental skepticism. The preliminary earnings disclosure from a peer company in the same supply chain (filed today) may provide a read-through.
+<strong>What to check next:</strong> Watch whether the foreign selling is index-rebalancing driven or reflects genuine fundamental skepticism. The preliminary earnings disclosure from a peer company in the same supply chain (filed today) may provide a read-through.
 
 ---
 
-**3. Sanil Electric (062040.KQ) — Score 70.2, 2 screeners + DART catalyst**
+<strong>3. Sanil Electric (062040.KQ) — Score 70.2, 2 screeners + DART catalyst</strong>
 
 Sanil Electric manufactures transformers and electrical conversion equipment — exactly the category that is dominating Korea's domestic industrial capex cycle. ROE of 29.2%, OPM of 35.6%, operating income up 63.6% year-on-year. The Quality Compounder screener ranks it #4 in the universe.
 
@@ -97,7 +97,7 @@ The timing issue is acute. Today's DART filings include both a preliminary earni
 
 Chasing a +20% day is not the framework's intent. The candidate is correctly flagged, but the entry question is whether a pullback toward the breakout reference (\~₩237,000) establishes a base before a second leg.
 
-**What to check next:** Confirm the supply contract size relative to annual revenue. Monitor whether the 5-day institutional flow (+₩9.6B) extends or reverses after today's spike.
+<strong>What to check next:</strong> Confirm the supply contract size relative to annual revenue. Monitor whether the 5-day institutional flow (+₩9.6B) extends or reverses after today's spike.
 
 ---
 

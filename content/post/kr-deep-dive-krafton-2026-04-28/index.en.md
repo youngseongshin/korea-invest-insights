@@ -11,7 +11,7 @@ draft: false
 
 # Krafton: The PUBG Creator Betting on inZOI and a 3-Trillion-Won Future
 
-**Krafton, Inc. (ticker: 259960.KS, KOSPI)** is the South Korean video-game publisher best known as the creator of *PUBG: Battlegrounds* — the battle-royale phenomenon that sparked an entire genre and still commands over 1.3 million peak concurrent players on Steam as of March 2026, nine years after launch. In its full-year 2025 earnings report released February 9, 2026, Krafton announced record annual revenue of **KRW 3.3266 trillion** (\~USD 2.4 billion), marking its entry into Korea's exclusive "3-trillion-won revenue club" and cementing its position as one of Asia's most cash-generative gaming franchises. With a swelling pipeline of new IPs — including the AI-driven life-simulation title *inZOI* — and an expanding studio roster now numbering 19 teams, Krafton is quietly evolving from a one-franchise wonder into a multi-IP content house with genuine global ambitions.
+<strong>Krafton, Inc. (ticker: 259960.KS, KOSPI)</strong> is the South Korean video-game publisher best known as the creator of *PUBG: Battlegrounds* — the battle-royale phenomenon that sparked an entire genre and still commands over 1.3 million peak concurrent players on Steam as of March 2026, nine years after launch. In its full-year 2025 earnings report released February 9, 2026, Krafton announced record annual revenue of <strong>KRW 3.3266 trillion</strong> (\~USD 2.4 billion), marking its entry into Korea's exclusive "3-trillion-won revenue club" and cementing its position as one of Asia's most cash-generative gaming franchises. With a swelling pipeline of new IPs — including the AI-driven life-simulation title *inZOI* — and an expanding studio roster now numbering 19 teams, Krafton is quietly evolving from a one-franchise wonder into a multi-IP content house with genuine global ambitions.
 
 ---
 
@@ -19,17 +19,17 @@ draft: false
 
 | Field | Detail |
 |---|---|
-| **Full Name** | Krafton, Inc. (㈜크래프톤) |
-| **Ticker** | 259960.KS |
-| **Exchange** | KOSPI (Korea Exchange) |
-| **Sector** | Entertainment / Interactive Media & Games |
-| **Key Brands** | PUBG: Battlegrounds, PUBG Mobile (via Tencent licence), inZOI, MIMESIS |
-| **Headquarters** | Seoul, South Korea |
-| **CEO** | Chang-Han Kim (김창한) |
-| **FY2025 Revenue** | KRW 3.3266 trillion (\~USD 2.4B) |
-| **FY2025 Operating Profit** | KRW 1.0544 trillion |
+| <strong>Full Name</strong> | Krafton, Inc. (㈜크래프톤) |
+| <strong>Ticker</strong> | 259960.KS |
+| <strong>Exchange</strong> | KOSPI (Korea Exchange) |
+| <strong>Sector</strong> | Entertainment / Interactive Media & Games |
+| <strong>Key Brands</strong> | PUBG: Battlegrounds, PUBG Mobile (via Tencent licence), inZOI, MIMESIS |
+| <strong>Headquarters</strong> | Seoul, South Korea |
+| <strong>CEO</strong> | Chang-Han Kim (김창한) |
+| <strong>FY2025 Revenue</strong> | KRW 3.3266 trillion (\~USD 2.4B) |
+| <strong>FY2025 Operating Profit</strong> | KRW 1.0544 trillion |
 
-**Elevator pitch:** Krafton built one of the most durable live-service franchises in the history of PC gaming with PUBG, then used a decade of cash flows to fund a 26-title development pipeline. Today it is transitioning from a single-IP operator into a diversified game IP company with structural exposure to India's mobile-gaming boom, the global life-simulation genre, and nascent physical-AI applications — all from a balance sheet with minimal debt and over KRW 1 trillion in net cash.
+<strong>Elevator pitch:</strong> Krafton built one of the most durable live-service franchises in the history of PC gaming with PUBG, then used a decade of cash flows to fund a 26-title development pipeline. Today it is transitioning from a single-IP operator into a diversified game IP company with structural exposure to India's mobile-gaming boom, the global life-simulation genre, and nascent physical-AI applications — all from a balance sheet with minimal debt and over KRW 1 trillion in net cash.
 
 ---
 
@@ -39,11 +39,11 @@ draft: false
 
 Most global investors who know Krafton know it as "the PUBG company" and leave it at that. That framing undersells the opportunity. Three macro threads tie directly to Krafton's business model:
 
-**1. India's mobile-gaming explosion.** *PUBG Mobile* was banned in India in 2020. Krafton relaunched a localized version — *Battlegrounds Mobile India (BGMI)* — in 2021, and India has since become one of the franchise's highest-growth geographies. With 600+ million smartphone users and per-capita gaming spend still a fraction of South Korea or the US, India represents a multi-year monetization runway that few Western gaming peers possess.
+<strong>1. India's mobile-gaming explosion.</strong> *PUBG Mobile* was banned in India in 2020. Krafton relaunched a localized version — *Battlegrounds Mobile India (BGMI)* — in 2021, and India has since become one of the franchise's highest-growth geographies. With 600+ million smartphone users and per-capita gaming spend still a fraction of South Korea or the US, India represents a multi-year monetization runway that few Western gaming peers possess.
 
-**2. The life-simulation gap in gaming.** *The Sims* franchise from EA has lacked a credible full-3D successor for years. Krafton's *inZOI*, which launched in Early Access in March 2025, is built on Unreal Engine 5 with proprietary deep-learning tools for NPC behavior and surpassed **one million units sold** within its first year per the company's February 2026 press release. If inZOI captures even a fraction of the global life-simulation audience, the addressable market is enormous.
+<strong>2. The life-simulation gap in gaming.</strong> *The Sims* franchise from EA has lacked a credible full-3D successor for years. Krafton's *inZOI*, which launched in Early Access in March 2025, is built on Unreal Engine 5 with proprietary deep-learning tools for NPC behavior and surpassed <strong>one million units sold</strong> within its first year per the company's February 2026 press release. If inZOI captures even a fraction of the global life-simulation audience, the addressable market is enormous.
 
-**3. Physical AI as an emerging optionality.** In early 2026, Krafton announced a strategic alliance with **Hanwha Aerospace** to develop "physical AI" applications — a signal that Krafton intends to monetize its AI tooling and simulation expertise beyond gaming. This is early-stage and unproven, but it opens optionality in a category that carries premium valuations in global markets.
+<strong>3. Physical AI as an emerging optionality.</strong> In early 2026, Krafton announced a strategic alliance with <strong>Hanwha Aerospace</strong> to develop "physical AI" applications — a signal that Krafton intends to monetize its AI tooling and simulation expertise beyond gaming. This is early-stage and unproven, but it opens optionality in a category that carries premium valuations in global markets.
 
 ### Competitive moat
 
@@ -57,28 +57,28 @@ PUBG's staying power after nine years of intense competition from *Fortnite*, *A
 
 Krafton does not break out geography or segment in precise percentage terms in quarterly releases, but DART filings and IR presentations point to the following structural picture:
 
-- **PUBG IP Franchise** (PC + console + PUBG Mobile royalties): The dominant revenue driver, generating what the company describes as "double-digit growth" in FY2025 year-over-year. BGMI in India and PUBG Mobile in Southeast Asia and the Middle East are the fastest-growing sub-segments within this pillar.
-- **New IP titles (inZOI, MIMESIS, others):** Both inZOI and MIMESIS crossed the one-million-sales milestone during FY2025, their launch year. These are now contributors, not just pipeline items.
-- **Publishing & platform fees:** Krafton operates a second-party publishing (2PP) model for select third-party studios, adding a capital-light fee stream.
-- **Educational / CSR (Krafton Jungle):** A coding bootcamp program that is small in revenue but meaningful for brand and talent pipelines.
+- <strong>PUBG IP Franchise</strong> (PC + console + PUBG Mobile royalties): The dominant revenue driver, generating what the company describes as "double-digit growth" in FY2025 year-over-year. BGMI in India and PUBG Mobile in Southeast Asia and the Middle East are the fastest-growing sub-segments within this pillar.
+- <strong>New IP titles (inZOI, MIMESIS, others):</strong> Both inZOI and MIMESIS crossed the one-million-sales milestone during FY2025, their launch year. These are now contributors, not just pipeline items.
+- <strong>Publishing & platform fees:</strong> Krafton operates a second-party publishing (2PP) model for select third-party studios, adding a capital-light fee stream.
+- <strong>Educational / CSR (Krafton Jungle):</strong> A coding bootcamp program that is small in revenue but meaningful for brand and talent pipelines.
 
 ### Key growth drivers (next 12–24 months)
 
-**PUBG roadmap:** A 2026 development roadmap published in March 2026 outlined ongoing genre diversification and content expansion for PUBG's ninth year, with peak concurrent users reaching 1.3 million in March — tied for the game's historical high.
+<strong>PUBG roadmap:</strong> A 2026 development roadmap published in March 2026 outlined ongoing genre diversification and content expansion for PUBG's ninth year, with peak concurrent users reaching 1.3 million in March — tied for the game's historical high.
 
-**New title pipeline:** As of early 2026, Krafton has **26 new titles** actively in development across 19 studios, with a stated goal of releasing **12 new games over the next two years**. Notable near-term titles include *Blind Spot* (early access launched) and *Project Zeta* (domestic test completed Q1 2026). Industry analysts note that 2026 second half and 2027 are expected to see the most concentrated release cadence.
+<strong>New title pipeline:</strong> As of early 2026, Krafton has <strong>26 new titles</strong> actively in development across 19 studios, with a stated goal of releasing <strong>12 new games over the next two years</strong>. Notable near-term titles include *Blind Spot* (early access launched) and *Project Zeta* (domestic test completed Q1 2026). Industry analysts note that 2026 second half and 2027 are expected to see the most concentrated release cadence.
 
-**inZOI full release:** Still in Early Access as of April 2026. A full commercial launch would materially expand the addressable player base and average revenue per user.
+<strong>inZOI full release:</strong> Still in Early Access as of April 2026. A full commercial launch would materially expand the addressable player base and average revenue per user.
 
-**India monetization:** Continued ARPU improvement in BGMI as India's digital payment infrastructure matures.
+<strong>India monetization:</strong> Continued ARPU improvement in BGMI as India's digital payment infrastructure matures.
 
 ### Margin profile
 
-FY2025 numbers reveal an interesting tension: revenue rose **22.8% year-over-year** to KRW 3.3266 trillion, but operating profit came in at **KRW 1.0544 trillion**, below FY2024's KRW 1.1825 trillion. The compression reflects deliberate reinvestment — headcount and studio expansion from 16 to 19 studios, plus the marketing cost of launching inZOI and MIMESIS simultaneously.
+FY2025 numbers reveal an interesting tension: revenue rose <strong>22.8% year-over-year</strong> to KRW 3.3266 trillion, but operating profit came in at <strong>KRW 1.0544 trillion</strong>, below FY2024's KRW 1.1825 trillion. The compression reflects deliberate reinvestment — headcount and studio expansion from 16 to 19 studios, plus the marketing cost of launching inZOI and MIMESIS simultaneously.
 
-For context, FY2024 was a banner margin year: operating margin was approximately **43.6%**, and adjusted EBITDA margin hit **51.3%** (KRW 1.3896 trillion on KRW 2.7098 trillion revenue). The FY2025 operating margin step-down to roughly **31.7%** is largely a growth-investment artifact rather than structural deterioration. As the new studio pipeline matures and amortizes its sunk development costs, margins are expected to re-expand — management has signaled this trajectory in IR presentations.
+For context, FY2024 was a banner margin year: operating margin was approximately <strong>43.6%</strong>, and adjusted EBITDA margin hit <strong>51.3%</strong> (KRW 1.3896 trillion on KRW 2.7098 trillion revenue). The FY2025 operating margin step-down to roughly <strong>31.7%</strong> is largely a growth-investment artifact rather than structural deterioration. As the new studio pipeline matures and amortizes its sunk development costs, margins are expected to re-expand — management has signaled this trajectory in IR presentations.
 
-Net income in FY2024 was **KRW 1.3026 trillion**, more than double FY2023, largely on strong operating leverage and non-operating investment gains.
+Net income in FY2024 was <strong>KRW 1.3026 trillion</strong>, more than double FY2023, largely on strong operating leverage and non-operating investment gains.
 
 ---
 
@@ -120,16 +120,16 @@ As of April 2026, Krafton's stock (259960.KS) trades on KOSPI. Based on FY2025 r
 
 Key valuation reference points (based on public filings and market data available as of this writing):
 
-- **FY2024 net income:** KRW 1.3026 trillion — the strongest profitability year on record
-- **FY2025 operating profit:** KRW 1.0544 trillion — a deliberate investment-phase year
-- **Adjusted EBITDA margin (FY2024):** 51.3% — among the highest in global gaming
-- **Balance sheet:** Net cash position (minimal debt), enabling continued self-funded studio expansion and potential M&A
+- <strong>FY2024 net income:</strong> KRW 1.3026 trillion — the strongest profitability year on record
+- <strong>FY2025 operating profit:</strong> KRW 1.0544 trillion — a deliberate investment-phase year
+- <strong>Adjusted EBITDA margin (FY2024):</strong> 51.3% — among the highest in global gaming
+- <strong>Balance sheet:</strong> Net cash position (minimal debt), enabling continued self-funded studio expansion and potential M&A
 
 On a price-to-sales basis, Krafton trades at a meaningful discount to EA and Take-Two Interactive, reflecting both the Korean market discount and single-franchise concentration risk. On EV/EBITDA, the FY2024 adjusted EBITDA of KRW 1.3896 trillion provides a meaningful anchor — though FY2025 EBITDA compression should be factored into near-term models.
 
 Historically, Korean gaming stocks trade at a discount of 20–40% to Western peers on equivalent metrics, a persistent structural feature of the KOSPI that reflects foreign-investor friction, FX risk, and governance perception. Krafton's shareholder return program (buybacks and dividends disclosed in annual filings via DART at dart.fss.or.kr) has been a partial offset to this discount.
 
-**Is Krafton a good investment?** That depends entirely on your risk tolerance, time horizon, and views on the new IP pipeline. The valuation is not obviously expensive relative to cash generation, but it is not a deep-value situation either. The bull case requires pipeline execution; the bear case requires only PUBG fatigue.
+<strong>Is Krafton a good investment?</strong> That depends entirely on your risk tolerance, time horizon, and views on the new IP pipeline. The valuation is not obviously expensive relative to cash generation, but it is not a deep-value situation either. The bull case requires pipeline execution; the bear case requires only PUBG fatigue.
 
 ---
 
@@ -137,30 +137,30 @@ Historically, Korean gaming stocks trade at a discount of 20–40% to Western pe
 
 ### Direct purchase on KOSPI
 
-Krafton trades under ticker **259960** on the Korea Exchange (KRX). Foreign investors can purchase shares directly through brokers with Korea market access — Interactive Brokers, Fidelity's international desk, and most major Korean brokerages with foreign investor accounts (e.g., Mirae Asset, Kiwoom, Samsung Securities) support this.
+Krafton trades under ticker <strong>259960</strong> on the Korea Exchange (KRX). Foreign investors can purchase shares directly through brokers with Korea market access — Interactive Brokers, Fidelity's international desk, and most major Korean brokerages with foreign investor accounts (e.g., Mirae Asset, Kiwoom, Samsung Securities) support this.
 
-**Practical notes for foreign investors:**
+<strong>Practical notes for foreign investors:</strong>
 - Settlement is T+2, denominated in Korean Won (KRW)
-- Foreign investors must register for an **IRC (Investor Registration Certificate)** — this process has been streamlined by the Korea Financial Services Commission but still requires documentation
-- Financial disclosures are filed in Korean to DART (dart.fss.or.kr); the company publishes English-language IR materials, earnings releases, and annual reports on its investor relations page at **ir.krafton.com**
+- Foreign investors must register for an <strong>IRC (Investor Registration Certificate)</strong> — this process has been streamlined by the Korea Financial Services Commission but still requires documentation
+- Financial disclosures are filed in Korean to DART (dart.fss.or.kr); the company publishes English-language IR materials, earnings releases, and annual reports on its investor relations page at <strong>ir.krafton.com</strong>
 - Dividends are subject to a 22% withholding tax for most foreign investors (reducible via tax treaty depending on domicile)
 - FX risk is KRW/USD or KRW/EUR depending on your base currency
 
 ### ADR / GDR availability
 
-As of April 2026, **Krafton does not have a listed ADR or GDR** on US or European exchanges. Investors seeking USD-denominated exposure must access the stock directly on KRX.
+As of April 2026, <strong>Krafton does not have a listed ADR or GDR</strong> on US or European exchanges. Investors seeking USD-denominated exposure must access the stock directly on KRX.
 
 ### ETF exposure
 
 Several ETFs provide indirect exposure to Krafton as a KOSPI constituent:
 
-- **iShares MSCI South Korea ETF (EWY)** — the largest and most liquid Korea-focused ETF; Krafton is typically a top-20 holding
-- **Franklin FTSE South Korea ETF (FLKR)** — lower cost, similar broad Korea exposure
-- **Korea-focused thematic funds** — various Asian tech/gaming-focused funds managed by regional asset managers may hold Krafton with higher concentration
+- <strong>iShares MSCI South Korea ETF (EWY)</strong> — the largest and most liquid Korea-focused ETF; Krafton is typically a top-20 holding
+- <strong>Franklin FTSE South Korea ETF (FLKR)</strong> — lower cost, similar broad Korea exposure
+- <strong>Korea-focused thematic funds</strong> — various Asian tech/gaming-focused funds managed by regional asset managers may hold Krafton with higher concentration
 
 ETF weights vary and are updated periodically; check current fund fact sheets for exact allocations.
 
-**How to buy Krafton stock:** Open a brokerage account with Korea market access, complete the IRC registration process, and place an order for 259960.KS during KRX trading hours (09:00–15:30 KST, Monday–Friday).
+<strong>How to buy Krafton stock:</strong> Open a brokerage account with Korea market access, complete the IRC registration process, and place an order for 259960.KS during KRX trading hours (09:00–15:30 KST, Monday–Friday).
 
 ---
 

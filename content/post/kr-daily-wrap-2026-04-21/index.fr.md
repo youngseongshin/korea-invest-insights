@@ -19,7 +19,7 @@ draft: false
 | USD/KRW | 1 470 | +0,0 % | Neutre |
 | Brent | 90,6 $ | −8,9 % | Baissier |
 
-**Verdict de régime :** Bull KR / Bull US → Stance *Aggressivement haussier*. La largeur de marché reste solide (64,2 % des titres au-dessus de leur MA50 ; 59,3 % au-dessus de leur MA200). La chute du Brent de près de 9 % sur cinq séances allège la pression inflationniste sans signaler de récession imminente. Le VIX sous 19 confirme un appétit au risque intact.
+<strong>Verdict de régime :</strong> Bull KR / Bull US → Stance *Aggressivement haussier*. La largeur de marché reste solide (64,2 % des titres au-dessus de leur MA50 ; 59,3 % au-dessus de leur MA200). La chute du Brent de près de 9 % sur cinq séances allège la pression inflationniste sans signaler de récession imminente. Le VIX sous 19 confirme un appétit au risque intact.
 
 ---
 
@@ -27,19 +27,19 @@ draft: false
 
 Le marché coréen a terminé la séance du 21 avril dans un état de fermeté généralisée, le KOSPI consolidant ses gains hebdomadaires à 6 388 points, soit un rebond de près de 5 % sur cinq jours. L'environnement macro demeure favorable : la synchronisation Bull KR/Bull US soutient les flux entrants, tandis que la détente du pétrole réduit le risque de stagflation pour une économie très dépendante des importations énergétiques.
 
-**Caractère de séance :** Remontée sélective portée par les secteurs à forte teneur technologique et industrielle. La rotation observée depuis deux semaines — des valeurs défensives vers les cycliques de qualité — s'est poursuivie avec cohérence.
+<strong>Caractère de séance :</strong> Remontée sélective portée par les secteurs à forte teneur technologique et industrielle. La rotation observée depuis deux semaines — des valeurs défensives vers les cycliques de qualité — s'est poursuivie avec cohérence.
 
-**Secteurs forts :**
-- **Semi-conducteurs & équipements** : Le cycle mémoire continue de surprendre à la hausse. Les équipementiers spécialisés (test, dépôt, inspection) captent des commandes différées depuis 2024.
-- **Défense & aérospatiale** : La demande export de systèmes de propulsion navale et de munitions reste structurellement élevée dans le contexte géopolitique actuel.
-- **Énergie électrique & transformateurs** : La transition énergétique mondiale et les appels d'offres en infrastructure alimentent un carnet de commandes pluriannuel pour les fabricants de convertisseurs haute tension.
-- **Beauté & cosmétiques K-Beauty** : La demande asiatique et nord-américaine reste un moteur de croissance à double chiffre.
+<strong>Secteurs forts :</strong>
+- <strong>Semi-conducteurs & équipements</strong> : Le cycle mémoire continue de surprendre à la hausse. Les équipementiers spécialisés (test, dépôt, inspection) captent des commandes différées depuis 2024.
+- <strong>Défense & aérospatiale</strong> : La demande export de systèmes de propulsion navale et de munitions reste structurellement élevée dans le contexte géopolitique actuel.
+- <strong>Énergie électrique & transformateurs</strong> : La transition énergétique mondiale et les appels d'offres en infrastructure alimentent un carnet de commandes pluriannuel pour les fabricants de convertisseurs haute tension.
+- <strong>Beauté & cosmétiques K-Beauty</strong> : La demande asiatique et nord-américaine reste un moteur de croissance à double chiffre.
 
-**Secteurs sous pression :**
+<strong>Secteurs sous pression :</strong>
 - L'immobilier et la construction résidentielle restent en retrait face au maintien de taux élevés.
 - Les valeurs pétrolières et pétrochimiques subissent mécaniquement la correction du Brent.
 
-**Signaux de flux :** La largeur de marché à 64 % au-dessus de la MA50 indique une participation large, non concentrée sur quelques méga-caps. Les signaux de volume haussier (*Vol+*) relevés sur les candidats du screener suggèrent une accumulation institutionnelle et étrangère discrète mais persistante sur les valeurs industrielles de qualité.
+<strong>Signaux de flux :</strong> La largeur de marché à 64 % au-dessus de la MA50 indique une participation large, non concentrée sur quelques méga-caps. Les signaux de volume haussier (*Vol+*) relevés sur les candidats du screener suggèrent une accumulation institutionnelle et étrangère discrète mais persistante sur les valeurs industrielles de qualité.
 
 ---
 
@@ -47,9 +47,9 @@ Le marché coréen a terminé la séance du 21 avril dans un état de fermeté g
 
 *Mardi : Smart Money + Earnings Improvement*
 
-**Méthodologie :** Ce screener croise deux signaux indépendants — (1) l'accumulation institutionnelle et étrangère (flux nets, volume anormal, positionnement proche des sommets) et (2) l'inflexion fondamentale (croissance des revenus, accélération de l'EBIT, expansion des marges opérationnelles, amélioration du ROE). Seuls les titres validant les deux filtres simultanément sont retenus, ce qui élimine les "bonnes histoires" sans soutien de flux et les achats tactiques sans amélioration des fondamentaux.
+<strong>Méthodologie :</strong> Ce screener croise deux signaux indépendants — (1) l'accumulation institutionnelle et étrangère (flux nets, volume anormal, positionnement proche des sommets) et (2) l'inflexion fondamentale (croissance des revenus, accélération de l'EBIT, expansion des marges opérationnelles, amélioration du ROE). Seuls les titres validant les deux filtres simultanément sont retenus, ce qui élimine les "bonnes histoires" sans soutien de flux et les achats tactiques sans amélioration des fondamentaux.
 
-**Univers analysé :** 2 722 titres coréens | **Score stratégique moyen (top 20) :** 0,793
+<strong>Univers analysé :</strong> 2 722 titres coréens | <strong>Score stratégique moyen (top 20) :</strong> 0,793
 
 ### Top 10 Candidats
 
@@ -68,13 +68,13 @@ Le marché coréen a terminé la séance du 21 avril dans un état de fermeté g
 
 ### Focus sur les 3 premiers
 
-**1. 선익시스템 (171090.KS) — Score 0,838**
+<strong>1. 선익시스템 (171090.KS) — Score 0,838</strong>
 Fabricant coréen d'équipements de dépôt en couche mince (OLED, display) destinés aux producteurs de panneaux de nouvelle génération. Le chiffre d'affaires a bondi de +357 % en glissement annuel, porté par les commandes d'une nouvelle génération de lignes OLED foldable. La marge opérationnelle s'est améliorée de 14,6 points, signe que la croissance n'est pas achetée au prix de l'exécution. Le ROE a augmenté de 149 points — signal d'un levier opérationnel massif sur une base d'actifs restée stable.
 
-**2. 동아엘텍 (088130.KS) — Score 0,836**
+<strong>2. 동아엘텍 (088130.KS) — Score 0,836</strong>
 Équipementier en machines d'assemblage et de test pour l'industrie électronique. Bénéficie du même super-cycle display/semi que 선익시스템, avec une croissance de l'EBIT de +670 %. Le titre évolue près de ses plus hauts historiques (*NearHigh*) avec un volume anormal persistant, confirmant l'intérêt institutionnel. Premier candidat à surveiller pour une entrée sur repli.
 
-**3. SK스퀘어 (402340.KS) — Score 0,815**
+<strong>3. SK스퀘어 (402340.KS) — Score 0,815</strong>
 Holding d'investissement technologique filiale de SK Group, détenteur notamment d'une participation majeure dans SK하이닉스. La revalorisation en cours reflète la montée en puissance du cycle mémoire HBM (High Bandwidth Memory) pour l'IA. Avec un RS percentile de 99 et une amélioration de marge de +17,5 pp, le marché commence à intégrer la valeur de la NAV sous-jacente à un rythme plus agressif.
 
 ---

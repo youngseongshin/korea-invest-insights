@@ -23,9 +23,9 @@ slug: hyundai-mobis-atlas-robot-valuation-comprehensive-2026-05-17
 
 ## Resumen ejecutivo
 
-* **Conclusión:** A la cotización actual, Hyundai Mobis ya descuenta **la mayor parte del escenario de suministro de actuadores para 30K unidades/año de Atlas**. Lo que *no* está del todo descontado es la **expansión a grippers, sensores y controladores; contratos con clientes externos (fuera de HMG); y la participación indirecta en Boston Dynamics**.
-* **Estimación base:** Con 30K unidades de Atlas al año, el rango de ingresos de Mobis en componentes robóticos se sitúa entre **KRW 2,1 y 3,0 billones**, con un beneficio operativo de **KRW 170–360 mil millones** y un valor de segmento de **KRW 3,4–7,2 billones**.
-* **Postura de inversión:** La cotización actual no está "barata" — estamos en una **ventana de verificación**. Nuevas entradas: **esperar**. Tenedores: **mantener**. Las adiciones deberían ir condicionadas a la confirmación de alcance, unidades y márgenes.
+* <strong>Conclusión:</strong> A la cotización actual, Hyundai Mobis ya descuenta <strong>la mayor parte del escenario de suministro de actuadores para 30K unidades/año de Atlas</strong>. Lo que *no* está del todo descontado es la <strong>expansión a grippers, sensores y controladores; contratos con clientes externos (fuera de HMG); y la participación indirecta en Boston Dynamics</strong>.
+* <strong>Estimación base:</strong> Con 30K unidades de Atlas al año, el rango de ingresos de Mobis en componentes robóticos se sitúa entre <strong>KRW 2,1 y 3,0 billones</strong>, con un beneficio operativo de <strong>KRW 170–360 mil millones</strong> y un valor de segmento de <strong>KRW 3,4–7,2 billones</strong>.
+* <strong>Postura de inversión:</strong> La cotización actual no está "barata" — estamos en una <strong>ventana de verificación</strong>. Nuevas entradas: <strong>esperar</strong>. Tenedores: <strong>mantener</strong>. Las adiciones deberían ir condicionadas a la confirmación de alcance, unidades y márgenes.
 
 ---
 
@@ -35,15 +35,15 @@ slug: hyundai-mobis-atlas-robot-valuation-comprehensive-2026-05-17
 
 En su carta a los accionistas, Hyundai Motor anunció que desplegará los robots Atlas de Boston Dynamics en sus plantas de fabricación y construirá la infraestructura necesaria para escalar a 30.000 robots/año en 2028, con integración de infraestructura de inteligencia física de Google DeepMind y NVIDIA.
 
-En el CES 2026, Hyundai Mobis formalizó un marco de cooperación estratégica con Boston Dynamics y anunció que suministrará actuadores para Atlas. Mobis declaró que los actuadores representan **más del 60% del coste de materiales (BOM) de un robot humanoide**.
+En el CES 2026, Hyundai Mobis formalizó un marco de cooperación estratégica con Boston Dynamics y anunció que suministrará actuadores para Atlas. Mobis declaró que los actuadores representan <strong>más del 60% del coste de materiales (BOM) de un robot humanoide</strong>.
 
 En el CEO Investor Day 2026 de Kia, la compañía anunció que Atlas se desplegará en HMGMA en 2028 y se extenderá a Kia AutoLand Georgia en 2029. Con esto, Atlas deja de ser un proyecto de escaparate y entra en una hoja de ruta real de despliegue en planta.
 
-Resultados de Hyundai Mobis en 1T26: ingresos **KRW 15,5605 billones**, beneficio operativo **KRW 802,6 mil millones**. El negocio de posventa registró ingresos de **KRW 3,5190 billones** y un beneficio operativo de **KRW 923,9 mil millones**, sosteniendo la rentabilidad global mientras el segmento de Módulos y Componentes Principales operó en pérdidas.
+Resultados de Hyundai Mobis en 1T26: ingresos <strong>KRW 15,5605 billones</strong>, beneficio operativo <strong>KRW 802,6 mil millones</strong>. El negocio de posventa registró ingresos de <strong>KRW 3,5190 billones</strong> y un beneficio operativo de <strong>KRW 923,9 mil millones</strong>, sosteniendo la rentabilidad global mientras el segmento de Módulos y Componentes Principales operó en pérdidas.
 
-FY2025: ingresos **KRW 61,1180 billones**, beneficio operativo **KRW 3,3570 billones**, beneficio neto **KRW 3,6650 billones**, BPA **KRW 40.861**.
+FY2025: ingresos <strong>KRW 61,1180 billones</strong>, beneficio operativo <strong>KRW 3,3570 billones</strong>, beneficio neto <strong>KRW 3,6650 billones</strong>, BPA <strong>KRW 40.861</strong>.
 
-A 16 de mayo de 2026: precio de la acción **KRW 629.000**, BPA últimos doce meses **KRW 40.861**, PER \~**15,4x**, capitalización bursátil aproximada de **KRW 56 billones**. Precio objetivo promedio del consenso de analistas: **KRW 568.828**, objetivo máximo: **KRW 750.000**.
+A 16 de mayo de 2026: precio de la acción <strong>KRW 629.000</strong>, BPA últimos doce meses <strong>KRW 40.861</strong>, PER \~<strong>15,4x</strong>, capitalización bursátil aproximada de <strong>KRW 56 billones</strong>. Precio objetivo promedio del consenso de analistas: <strong>KRW 568.828</strong>, objetivo máximo: <strong>KRW 750.000</strong>.
 
 ---
 
@@ -65,7 +65,7 @@ Actuadores / Reductores / Motores / Grippers
 Ensamblaje del robot / Despliegue en planta / Mantenimiento
 ```
 
-La posición formalmente declarada de Hyundai Mobis es el **suministro de actuadores**. KB Securities espera que Boston Dynamics adquiera la totalidad de sus actuadores a Mobis, y señala que hay conversaciones en curso sobre componentes adicionales — en particular grippers.
+La posición formalmente declarada de Hyundai Mobis es el <strong>suministro de actuadores</strong>. KB Securities espera que Boston Dynamics adquiera la totalidad de sus actuadores a Mobis, y señala que hay conversaciones en curso sobre componentes adicionales — en particular grippers.
 
 Esto convierte la tesis de inversión en algo más que el simple suministro de componentes robóticos. Las verdaderas variables clave son tres:
 
@@ -81,28 +81,28 @@ Esto convierte la tesis de inversión en algo más que el simple suministro de c
 
 ### 3.1 El cálculo
 
-**Ingresos de Mobis en componentes robóticos = unidades de Atlas × contenido Mobis por unidad × tipo de cambio**
+<strong>Ingresos de Mobis en componentes robóticos = unidades de Atlas × contenido Mobis por unidad × tipo de cambio</strong>
 
 Supuestos:
 
-* Unidades de Atlas: **30.000 / año**
-* Tipo de cambio: **KRW 1.500 / USD**
-* Contenido Mobis por unidad: **$30.000 – $80.000**
+* Unidades de Atlas: <strong>30.000 / año</strong>
+* Tipo de cambio: <strong>KRW 1.500 / USD</strong>
+* Contenido Mobis por unidad: <strong>$30.000 – $80.000</strong>
 * Redondeo: ingresos a KRW 0,01 billones, beneficio operativo a KRW 10 mil millones.
 
-El contenido real por unidad, el precio de venta promedio y el margen bruto de Mobis en Atlas no están divulgados oficialmente. **Existe una incertidumbre genuina en este punto.** La verificación llegará a través del IR de Mobis, la divulgación de contratos de suministro de Boston Dynamics, notas de seguimiento de analistas y cualquier guía futura de ingresos por componentes robóticos. Para decisiones provisionales, un rango de $50.000–$65.000 por unidad representa un caso base conservador.
+El contenido real por unidad, el precio de venta promedio y el margen bruto de Mobis en Atlas no están divulgados oficialmente. <strong>Existe una incertidumbre genuina en este punto.</strong> La verificación llegará a través del IR de Mobis, la divulgación de contratos de suministro de Boston Dynamics, notas de seguimiento de analistas y cualquier guía futura de ingresos por componentes robóticos. Para decisiones provisionales, un rango de $50.000–$65.000 por unidad representa un caso base conservador.
 
 ### 3.2 Sensibilidad de ingresos
 
 | Contenido Mobis por unidad | Ingresos anuales en USD | Ingresos en KRW |
 | ---: | ---: | ---: |
-| $30.000 | $0,90 mil mill. | **KRW 1,35 bill.** |
-| $40.000 | $1,20 mil mill. | **KRW 1,80 bill.** |
-| $50.000 | $1,50 mil mill. | **KRW 2,25 bill.** |
-| $65.000 | $1,95 mil mill. | **KRW 2,93 bill.** |
-| $80.000 | $2,40 mil mill. | **KRW 3,60 bill.** |
+| $30.000 | $0,90 mil mill. | <strong>KRW 1,35 bill.</strong> |
+| $40.000 | $1,20 mil mill. | <strong>KRW 1,80 bill.</strong> |
+| $50.000 | $1,50 mil mill. | <strong>KRW 2,25 bill.</strong> |
+| $65.000 | $1,95 mil mill. | <strong>KRW 2,93 bill.</strong> |
+| $80.000 | $2,40 mil mill. | <strong>KRW 3,60 bill.</strong> |
 
-**Rango base: KRW 2,1–3,0 billones al año.**
+<strong>Rango base: KRW 2,1–3,0 billones al año.</strong>
 
 Este rango es coherente con un ASP de Atlas de aproximadamente $190.000 y que Mobis capture el 25–35% del contenido por unidad. KB Securities modela un escenario para 2035 de 1,5 millones de humanoides premium a \~$190.000 cada uno.
 
@@ -112,7 +112,7 @@ Este rango es coherente con un ASP de Atlas de aproximadamente $190.000 y que Mo
 
 ### 4.1 Sensibilidad del beneficio operativo
 
-Es probable que los actuadores robóticos sean de mayor valor que los módulos de automoción tradicionales, pero hay que descontar los costes del arranque de producción, la validación de calidad y el CAPEX. Como primera aproximación, un **margen operativo del 8–12%** es el rango correcto.
+Es probable que los actuadores robóticos sean de mayor valor que los módulos de automoción tradicionales, pero hay que descontar los costes del arranque de producción, la validación de calidad y el CAPEX. Como primera aproximación, un <strong>margen operativo del 8–12%</strong> es el rango correcto.
 
 | Contenido por unidad | Ingresos | BO @ 8% | BO @ 12% |
 | ---: | ---: | ---: | ---: |
@@ -122,11 +122,11 @@ Es probable que los actuadores robóticos sean de mayor valor que los módulos d
 | $65.000 | KRW 2,93 bill. | KRW 234 mil mill. | KRW 351 mil mill. |
 | $80.000 | KRW 3,60 bill. | KRW 288 mil mill. | KRW 432 mil mill. |
 
-**Valores base:**
+<strong>Valores base:</strong>
 
-* Ingresos: **KRW 2,25–2,93 billones**
-* Beneficio operativo: **KRW 180–351 mil millones**
-* Punto medio: **ingresos \~KRW 2,6 bill., BO \~KRW 260–300 mil mill.**
+* Ingresos: <strong>KRW 2,25–2,93 billones</strong>
+* Beneficio operativo: <strong>KRW 180–351 mil millones</strong>
+* Punto medio: <strong>ingresos \~KRW 2,6 bill., BO \~KRW 260–300 mil mill.</strong>
 
 ### 4.2 Múltiplos adecuados
 
@@ -139,11 +139,11 @@ Aplicar un múltiplo de empresa puramente robótica a toda la franquicia de Mobi
 | Segmento actuadores Atlas | EV/EBIT 18–22x | Base: 20x |
 | Caso alcista robótico (expansión) | EV/EBIT 25–30x | Requiere cliente externo + expansión a grippers/sensores |
 
-KB Securities mantiene un precio objetivo de KRW 750.000, con una capitalización de mercado implícita por DCF de KRW 67 billones, PER forward a 12 meses de 16,0x y P/B de 1,22x. KB también señala que Hyundai Mobis posee el 20,0% de Hyundai Global, y Hyundai Global a su vez tiene el 54,7% de Boston Dynamics — lo que otorga a Mobis una exposición económica indirecta del **10,9% sobre Boston Dynamics**.
+KB Securities mantiene un precio objetivo de KRW 750.000, con una capitalización de mercado implícita por DCF de KRW 67 billones, PER forward a 12 meses de 16,0x y P/B de 1,22x. KB también señala que Hyundai Mobis posee el 20,0% de Hyundai Global, y Hyundai Global a su vez tiene el 54,7% de Boston Dynamics — lo que otorga a Mobis una exposición económica indirecta del <strong>10,9% sobre Boston Dynamics</strong>.
 
 ### 4.3 Valor del segmento
 
-**Valor del segmento robótico = BO robótico × múltiplo EV/EBIT**
+<strong>Valor del segmento robótico = BO robótico × múltiplo EV/EBIT</strong>
 
 | Contenido por unidad | BO @ 8% | Valor @ 20x | BO @ 12% | Valor @ 20x |
 | ---: | ---: | ---: | ---: | ---: |
@@ -153,9 +153,9 @@ KB Securities mantiene un precio objetivo de KRW 750.000, con una capitalizació
 | $65.000 | KRW 234 mil mill. | KRW 4,68 bill. | KRW 351 mil mill. | KRW 7,02 bill. |
 | $80.000 | KRW 288 mil mill. | KRW 5,76 bill. | KRW 432 mil mill. | KRW 8,64 bill. |
 
-**Lectura base:** Con 30K unidades de Atlas, el valor del segmento robótico de Mobis se sitúa en **\~KRW 3,6–7,0 billones**.
+<strong>Lectura base:</strong> Con 30K unidades de Atlas, el valor del segmento robótico de Mobis se sitúa en <strong>\~KRW 3,6–7,0 billones</strong>.
 
-Un caso alcista con $80.000/unidad y un margen operativo del 12% llegaría a **KRW 8,6 billones**, pero ya incorpora al menos una expansión parcial más allá del contenido puro de actuadores.
+Un caso alcista con $80.000/unidad y un margen operativo del 12% llegaría a <strong>KRW 8,6 billones</strong>, pero ya incorpora al menos una expansión parcial más allá del contenido puro de actuadores.
 
 ---
 
@@ -165,28 +165,28 @@ Un caso alcista con $80.000/unidad y un margen operativo del 12% llegaría a **K
 
 A KRW 629.000 y un BPA de KRW 40.861 en los últimos doce meses, el PER resulta:
 
-**629.000 ÷ 40.861 = 15,39x**
+<strong>629.000 ÷ 40.861 = 15,39x</strong>
 
 ### 5.2 SOTP sobre BPA últimos doce meses
 
 Supuestos:
 
-* BPA últimos 12 meses: **KRW 40.861**
-* PER razonable del negocio tradicional: **14x**
-* Acciones en circulación: \~**89,2 millones**
-* Precio actual: **KRW 629.000**
+* BPA últimos 12 meses: <strong>KRW 40.861</strong>
+* PER razonable del negocio tradicional: <strong>14x</strong>
+* Acciones en circulación: \~<strong>89,2 millones</strong>
+* Precio actual: <strong>KRW 629.000</strong>
 
 Cálculo:
 
-* **Valor negocio tradicional / acción = 40.861 × 14 = KRW 572.054**
-* **Valor residual de opcionalidad / acción = 629.000 − 572.054 = KRW 56.946**
-* **Opcionalidad agregada = 56.946 × 89,2M ≈ KRW 5,1 billones**
+* <strong>Valor negocio tradicional / acción = 40.861 × 14 = KRW 572.054</strong>
+* <strong>Valor residual de opcionalidad / acción = 629.000 − 572.054 = KRW 56.946</strong>
+* <strong>Opcionalidad agregada = 56.946 × 89,2M ≈ KRW 5,1 billones</strong>
 
-En otras palabras, aplicando el BPA de los últimos doce meses y un PER de 14x para el negocio tradicional, la cotización actual ya incorpora **\~KRW 5 billones de opcionalidad robótica / Boston Dynamics**.
+En otras palabras, aplicando el BPA de los últimos doce meses y un PER de 14x para el negocio tradicional, la cotización actual ya incorpora <strong>\~KRW 5 billones de opcionalidad robótica / Boston Dynamics</strong>.
 
 ### 5.3 SOTP sobre BPA estimado 2026
 
-KB Securities modela un beneficio neto atribuible de **KRW 4,115 billones** para 2026, lo que implica un BPA de **\~KRW 46.100** por acción sobre \~89,2 millones de acciones.
+KB Securities modela un beneficio neto atribuible de <strong>KRW 4,115 billones</strong> para 2026, lo que implica un BPA de <strong>\~KRW 46.100</strong> por acción sobre \~89,2 millones de acciones.
 
 | PER negocio tradicional | Valor tradicional/acción | Valor residual opcionalidad/acción | Opcionalidad agregada |
 | ---: | ---: | ---: | ---: |
@@ -197,9 +197,9 @@ KB Securities modela un beneficio neto atribuible de **KRW 4,115 billones** para
 
 Esta tabla es la clave:
 
-**La opcionalidad robótica incorporada en el precio actual oscila entre KRW 0 y \~11 billones, dependiendo del múltiplo que se asigne al negocio tradicional.**
+<strong>La opcionalidad robótica incorporada en el precio actual oscila entre KRW 0 y \~11 billones, dependiendo del múltiplo que se asigne al negocio tradicional.</strong>
 
-Una banda realista para el negocio tradicional es 12–14x. En ese rango, la cotización actual incorpora **KRW 0–7 billones de opcionalidad robótica**, con un punto medio en torno a **\~KRW 5 billones**.
+Una banda realista para el negocio tradicional es 12–14x. En ese rango, la cotización actual incorpora <strong>KRW 0–7 billones de opcionalidad robótica</strong>, con un punto medio en torno a <strong>\~KRW 5 billones</strong>.
 
 ---
 
@@ -207,7 +207,7 @@ Una banda realista para el negocio tradicional es 12–14x. En ese rango, la cot
 
 ### 6.1 ¿Está el escenario de 30K Atlas ya descontado?
 
-**Sí — en su mayor parte.**
+<strong>Sí — en su mayor parte.</strong>
 
 | Escenario | Valor del segmento robótico |
 | --- | ---: |
@@ -216,7 +216,7 @@ Una banda realista para el negocio tradicional es 12–14x. En ese rango, la cot
 | Alto | KRW 4,7–7,0 bill. |
 | Alcista | KRW 5,8–8,6 bill. |
 
-El valor de opcionalidad implícito en el precio actual es \~**KRW 5 billones**. Por tanto, **el caso base de suministro de actuadores para 30K unidades de Atlas por sí solo no hace que la acción resulte "barata" a este nivel**.
+El valor de opcionalidad implícito en el precio actual es \~<strong>KRW 5 billones</strong>. Por tanto, <strong>el caso base de suministro de actuadores para 30K unidades de Atlas por sí solo no hace que la acción resulte "barata" a este nivel</strong>.
 
 ### 6.2 Lo que *aún no* está descontado
 
@@ -236,7 +236,7 @@ KB Securities sitúa a Mobis como pieza central de la cadena de suministro que p
 
 ### 7.1 La conclusión
 
-**Hyundai Mobis: Esperar / Tenedores: Mantener**
+<strong>Hyundai Mobis: Esperar / Tenedores: Mantener</strong>
 
 Ya no estamos ante una cotización de "autopartes baratas". La posventa como fuente de caja, la opción robótica, la participación indirecta en Boston Dynamics y las expectativas de mejora de gobierno corporativo están todas, al menos parcialmente, descontadas.
 
@@ -246,7 +246,7 @@ Ya no estamos ante una cotización de "autopartes baratas". La posventa como fue
 | ---: | --- | --- |
 | KRW 500–550K | Negocio tradicional a 11–12x + opción robótica parcial | Alto interés comprador |
 | KRW 560–600K | Parte del escenario 30K Atlas incorporado | Compra condicional |
-| **KRW 620–650K** | Nivel actual — actuadores 30K sustancialmente incorporados | **Esperar / Mantener** |
+| <strong>KRW 620–650K</strong> | Nivel actual — actuadores 30K sustancialmente incorporados | <strong>Esperar / Mantener</strong> |
 | KRW 700–750K | Se acerca al objetivo de KB. Requiere más datos | Perseguir la cotización: ineficiente |
 | Por encima de KRW 750K | Escenario de plataforma a largo plazo anticipado | Riesgo de sobrecalentamiento |
 
@@ -275,10 +275,10 @@ La tesis de revalorización robótica se debilita ante cualquiera de los siguien
 
 ## 8. Relación con otras publicaciones
 
-- **[Hyundai Mobis — El gigante de componentes EV que impulsa la robótica (análisis profundo del 28 de abril)](/post/kr-deep-dive-hyundai-mobis-2026-04-28/)** — el punto de partida. Define el marco de tres pilares: componentes EV + posventa como fuente de caja + opción robótica.
-- **[Mapa completo de la cadena de valor robótica de Corea (11 de mayo)](/post/korea-robotics-value-chain-complete-map-2026-05-11/)** — sitúa a Mobis en la capa de actuadores; útil para comparar las capas superiores e inferiores.
-- **[SPG vs Halla Cast — Comparativa de componentes robóticos (12 de mayo)](/post/spg-vs-halla-cast-robot-component-comparison-2026-05-12/)** — los competidores de menor capitalización en componentes; útil como contraste en tamaño, múltiplos y opcionalidad frente a Mobis (cautivo + grande).
-- **[Robotis vs Rainbow Robotics — Comparativa de OEMs humanoides (12 de mayo)](/post/robotis-vs-rainbow-robotics-humanoid-comparison-2026-05-12/)** — los candidatos coreanos a OEM de humanoides; útil para ver el contraste entre "plataforma de componentes" (Mobis) y "OEM".
+- <strong>[Hyundai Mobis — El gigante de componentes EV que impulsa la robótica (análisis profundo del 28 de abril)](/post/kr-deep-dive-hyundai-mobis-2026-04-28/)</strong> — el punto de partida. Define el marco de tres pilares: componentes EV + posventa como fuente de caja + opción robótica.
+- <strong>[Mapa completo de la cadena de valor robótica de Corea (11 de mayo)](/post/korea-robotics-value-chain-complete-map-2026-05-11/)</strong> — sitúa a Mobis en la capa de actuadores; útil para comparar las capas superiores e inferiores.
+- <strong>[SPG vs Halla Cast — Comparativa de componentes robóticos (12 de mayo)](/post/spg-vs-halla-cast-robot-component-comparison-2026-05-12/)</strong> — los competidores de menor capitalización en componentes; útil como contraste en tamaño, múltiplos y opcionalidad frente a Mobis (cautivo + grande).
+- <strong>[Robotis vs Rainbow Robotics — Comparativa de OEMs humanoides (12 de mayo)](/post/robotis-vs-rainbow-robotics-humanoid-comparison-2026-05-12/)</strong> — los candidatos coreanos a OEM de humanoides; útil para ver el contraste entre "plataforma de componentes" (Mobis) y "OEM".
 
 ---
 
@@ -286,9 +286,9 @@ La tesis de revalorización robótica se debilita ante cualquiera de los siguien
 
 La historia robótica de Hyundai Mobis tiene fundamento. El plan de Hyundai Motor para 30K robots/año en 2028, la hoja de ruta de despliegue en planta de Kia en 2028–2029, y el anuncio de suministro de actuadores de Mobis en el CES 2026 son todos hechos confirmados.
 
-Sin embargo, la cotización actual ya incorpora una parte significativa del **valor base del escenario Atlas-actuadores de KRW 3,6–5,4 billones**. Para que la acción suba desde aquí, la pregunta ya no es "30K Atlas" — es **cuánto del hardware de Atlas capturará Mobis y si podrá conquistar clientes externos (fuera de HMG)**.
+Sin embargo, la cotización actual ya incorpora una parte significativa del <strong>valor base del escenario Atlas-actuadores de KRW 3,6–5,4 billones</strong>. Para que la acción suba desde aquí, la pregunta ya no es "30K Atlas" — es <strong>cuánto del hardware de Atlas capturará Mobis y si podrá conquistar clientes externos (fuera de HMG)</strong>.
 
-**El precio actual no está barato. Pero si la transición a proveedor de plataforma robótica global a largo plazo se confirma, tampoco está "agotado".**
+<strong>El precio actual no está barato. Pero si la transición a proveedor de plataforma robótica global a largo plazo se confirma, tampoco está "agotado".</strong>
 
 Lo que se necesita ahora es verificación, no compra. Mantén lo que ya tienes; pospón nuevas adiciones hasta que el alcance y los márgenes sean observables. Eso es lo que exige la rentabilidad ajustada al riesgo en este momento.
 

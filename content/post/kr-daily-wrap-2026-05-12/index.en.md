@@ -11,7 +11,7 @@ draft: false
 
 ## Macro Dashboard
 
-Both Korea and U.S. market regimes are rated **Bull** as of May 12, 2026.
+Both Korea and U.S. market regimes are rated <strong>Bull</strong> as of May 12, 2026.
 
 | Indicator | Level | 5D Change | Signal |
 |---|---|---|---|
@@ -28,13 +28,13 @@ KOSPI is outperforming KOSDAQ by 6 percentage points over five days — a select
 
 ## Market Wrap *(Close data from 2026-05-08; May 12 official close pending)*
 
-The May 8 session is best described as **selective risk-on**: the broad breadth reading was firmly constructive — KR Discovery hit 100/100 with 290 stocks passing — but the character underneath was rotational, not indiscriminate.
+The May 8 session is best described as <strong>selective risk-on</strong>: the broad breadth reading was firmly constructive — KR Discovery hit 100/100 with 290 stocks passing — but the character underneath was rotational, not indiscriminate.
 
-**Sector leaders:** Power cable, fiber optic, and energy infrastructure stocks dominated. Gaon Cable (가온전선) surged nearly +30% with institutional buying of over +21 billion KRW. Daehan Electric Wire (대한전선, 001440.KS) logged coordinated foreign (+167.7B KRW), institutional (+35.3B KRW), and program (+171.5B KRW) net buying in a single session — the kind of tri-party flow that signals conviction rather than momentum chasing. AI datacenter and optical networking themes repeated across brokerage and channel sources, with Daehan Fiber Optics (대한광통신) reaching RS 99.9 after a sharp multi-day rally.
+<strong>Sector leaders:</strong> Power cable, fiber optic, and energy infrastructure stocks dominated. Gaon Cable (가온전선) surged nearly +30% with institutional buying of over +21 billion KRW. Daehan Electric Wire (대한전선, 001440.KS) logged coordinated foreign (+167.7B KRW), institutional (+35.3B KRW), and program (+171.5B KRW) net buying in a single session — the kind of tri-party flow that signals conviction rather than momentum chasing. AI datacenter and optical networking themes repeated across brokerage and channel sources, with Daehan Fiber Optics (대한광통신) reaching RS 99.9 after a sharp multi-day rally.
 
-**Sector laggards:** Gaming and select defense names underperformed. Large-cap semiconductors absorbed heavy foreign outflows: Samsung Electronics (삼성전자, 005930.KS) saw approximately -2.55 trillion KRW in foreign net selling, partially offset by +293.4B KRW of institutional buying. The stock held (-1.1%), suggesting underlying institutional demand, but the foreign supply overhang remains a near-term headwind. MLCC and components names saw split signals — institutional defense paired with ongoing foreign and short pressure.
+<strong>Sector laggards:</strong> Gaming and select defense names underperformed. Large-cap semiconductors absorbed heavy foreign outflows: Samsung Electronics (삼성전자, 005930.KS) saw approximately -2.55 trillion KRW in foreign net selling, partially offset by +293.4B KRW of institutional buying. The stock held (-1.1%), suggesting underlying institutional demand, but the foreign supply overhang remains a near-term headwind. MLCC and components names saw split signals — institutional defense paired with ongoing foreign and short pressure.
 
-**Breadth context:** KR Discovery is on Day 19 of a confirmed Follow-Through Day signal. 43.9% of stocks are above their 50-day MA; 51.6% above their 200-day MA. Conditions support stock selection, not blanket buying. The premium in large-cap KOSPI over KOSDAQ suggests rotation toward quality defensibles rather than broad speculative expansion.
+<strong>Breadth context:</strong> KR Discovery is on Day 19 of a confirmed Follow-Through Day signal. 43.9% of stocks are above their 50-day MA; 51.6% above their 200-day MA. Conditions support stock selection, not blanket buying. The premium in large-cap KOSPI over KOSDAQ suggests rotation toward quality defensibles rather than broad speculative expansion.
 
 ---
 
@@ -58,11 +58,11 @@ The May 12 meta-screener and overlap analysis flag five names clearing three scr
 
 ### Top 3 in Focus
 
-**#1 — VM (브이엠, 089970.KQ)** makes specialized semiconductor and display process equipment. It clears Quality Compounder (ROE 14.8%, OP +387% YoY, revenue +105%), Smart Money Quality (5-day foreign + quality-institution net buy +17.8B KRW), and Smart Money Earnings. A consensus upgrade revision — composite z-score +0.83 — adds a forward-looking re-pricing signal on top of the backward-looking operational improvement. No DART risk filings. The 79.0 meta score leads today's screened universe by a clear margin. What to check next: whether estimates are being revised higher across multiple brokers and whether the 5-day institutional flow is sustained beyond a single day.
+<strong>#1 — VM (브이엠, 089970.KQ)</strong> makes specialized semiconductor and display process equipment. It clears Quality Compounder (ROE 14.8%, OP +387% YoY, revenue +105%), Smart Money Quality (5-day foreign + quality-institution net buy +17.8B KRW), and Smart Money Earnings. A consensus upgrade revision — composite z-score +0.83 — adds a forward-looking re-pricing signal on top of the backward-looking operational improvement. No DART risk filings. The 79.0 meta score leads today's screened universe by a clear margin. What to check next: whether estimates are being revised higher across multiple brokers and whether the 5-day institutional flow is sustained beyond a single day.
 
-**#2 — Gigavis (기가비스, 420770.KQ)** makes automated optical inspection (AOI) equipment for PCBs and panels — a direct beneficiary of PCB complexity upgrades driven by AI server demand. Operating income grew 777% YoY on 101% revenue growth. Both foreign and quality-institution buying were positive over five days (+9.7B KRW net). The stock recently moved to a higher exchange tier (DART filing, April 30) and disclosed a new supply contract (April 24) — tangible sequential catalysts. One flag: consensus revision is *downward*, meaning forward estimates are being cut even as trailing numbers look exceptional. Market may be pricing in near-term margin peak. Watch next quarterly guidance closely.
+<strong>#2 — Gigavis (기가비스, 420770.KQ)</strong> makes automated optical inspection (AOI) equipment for PCBs and panels — a direct beneficiary of PCB complexity upgrades driven by AI server demand. Operating income grew 777% YoY on 101% revenue growth. Both foreign and quality-institution buying were positive over five days (+9.7B KRW net). The stock recently moved to a higher exchange tier (DART filing, April 30) and disclosed a new supply contract (April 24) — tangible sequential catalysts. One flag: consensus revision is *downward*, meaning forward estimates are being cut even as trailing numbers look exceptional. Market may be pricing in near-term margin peak. Watch next quarterly guidance closely.
 
-**#3 — TES (테스, 095610.KQ)** manufactures semiconductor CVD/ALD deposition equipment used in memory and logic fabs. ROE 14.5%, OP YoY +50%. The 5-day F+QI inflow of +49.4B KRW is the largest in today's cluster — a meaningful signal of institutional conviction. Short interest is moderate at 6.7%, and foreign ownership at 13.3% leaves room for incremental accumulation. Caution: the Kiwoom surface flags foreign net outflow even as quality-institution flows are positive. That divergence warrants checking whether foreign selling has genuinely paused or is ongoing beneath the institutional bid.
+<strong>#3 — TES (테스, 095610.KQ)</strong> manufactures semiconductor CVD/ALD deposition equipment used in memory and logic fabs. ROE 14.5%, OP YoY +50%. The 5-day F+QI inflow of +49.4B KRW is the largest in today's cluster — a meaningful signal of institutional conviction. Short interest is moderate at 6.7%, and foreign ownership at 13.3% leaves room for incremental accumulation. Caution: the Kiwoom surface flags foreign net outflow even as quality-institution flows are positive. That divergence warrants checking whether foreign selling has genuinely paused or is ongoing beneath the institutional bid.
 
 ### Honorable Mention — RFHIC (218410.KQ)
 

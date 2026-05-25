@@ -14,9 +14,9 @@ tags:
   - "Korean equities"
 ---
 
-> 🔗 **Related**: [HBM / KOSPI Investment Hub](/page/korea-semiconductor-hbm-kospi-hub/) · [Korea Daily Market Hub](/page/korea-daily-market-hub/) · [Samsung Electronics Citi TP ₩460,000 — Memory-Cycle Frame Reset](/post/samsung-electronics-citi-tp-460000-memory-rerating-2026-05-11/) · [Why Korea Part 4 — $6.7B Inflows, Korea-Discount Dissolving or Value Trap?](/post/korea-67-billion-etf-inflow-korea-discount-or-value-trap-2026-05-09/)
+> 🔗 <strong>Related</strong>: [HBM / KOSPI Investment Hub](/page/korea-semiconductor-hbm-kospi-hub/) · [Korea Daily Market Hub](/page/korea-daily-market-hub/) · [Samsung Electronics Citi TP ₩460,000 — Memory-Cycle Frame Reset](/post/samsung-electronics-citi-tp-460000-memory-rerating-2026-05-11/) · [Why Korea Part 4 — $6.7B Inflows, Korea-Discount Dissolving or Value Trap?](/post/korea-67-billion-etf-inflow-korea-discount-or-value-trap-2026-05-09/)
 
-> 🌐 **Visit**: **[memory.koreainvestinsights.com](https://memory.koreainvestinsights.com/)** — Memory Pulse Live Signal Board
+> 🌐 <strong>Visit</strong>: <strong>[memory.koreainvestinsights.com](https://memory.koreainvestinsights.com/)</strong> — Memory Pulse Live Signal Board
 
 *The memory.koreainvestinsights.com custom domain is officially live. 'Memory Pulse' is a real-time signal dashboard built around Samsung Electronics and SK hynix. If the blog's analysis pieces explain "why" on quarterly / weekly horizons, this dashboard shows "right now" — where flow is moving intraday, how US semiconductors traded overnight, how FX and macro-risk are tracking — all on one screen.*
 
@@ -24,11 +24,11 @@ tags:
 
 ## TL;DR
 
-* **What it is.** A real-time signal board specifically scoped to Samsung Electronics (005930) and SK hynix (000660). Korea-time anchored.
-* **Why we built it.** To close the gap between blog analysis (quarterly / weekly) and live market data. "How is yesterday's thesis playing out today?" — visible on one screen.
-* **How to use it.** Flow: executive summary → market snapshot → company cards → signal drivers → instrument-moves table.
-* **Data-trust transparency.** Every row carries a **Live / Delayed / Fallback / Missing** label. You can tell live quotes apart from delayed or fallback values at a glance.
-* **Blog integration.** Direct links to the [HBM Hub](/page/korea-semiconductor-hbm-kospi-hub/), [Daily Market Hub](/page/korea-daily-market-hub/), Telegram channel, and Substack. The real-time extension of the same analytical frame.
+* <strong>What it is.</strong> A real-time signal board specifically scoped to Samsung Electronics (005930) and SK hynix (000660). Korea-time anchored.
+* <strong>Why we built it.</strong> To close the gap between blog analysis (quarterly / weekly) and live market data. "How is yesterday's thesis playing out today?" — visible on one screen.
+* <strong>How to use it.</strong> Flow: executive summary → market snapshot → company cards → signal drivers → instrument-moves table.
+* <strong>Data-trust transparency.</strong> Every row carries a <strong>Live / Delayed / Fallback / Missing</strong> label. You can tell live quotes apart from delayed or fallback values at a glance.
+* <strong>Blog integration.</strong> Direct links to the [HBM Hub](/page/korea-semiconductor-hbm-kospi-hub/), [Daily Market Hub](/page/korea-daily-market-hub/), Telegram channel, and Substack. The real-time extension of the same analytical frame.
 
 ---
 
@@ -36,9 +36,9 @@ tags:
 
 ### 1.1 Blog and dashboard are different tools
 
-Blog posts explain **"why."** When the [Samsung Citi TP ₩460,000 piece](/post/samsung-electronics-citi-tp-460000-memory-rerating-2026-05-11/) analyzed whether the memory-cycle framing can break, that was a quarterly / weekly-horizon deep analysis — the thesis stays intact for months once written.
+Blog posts explain <strong>"why."</strong> When the [Samsung Citi TP ₩460,000 piece](/post/samsung-electronics-citi-tp-460000-memory-rerating-2026-05-11/) analyzed whether the memory-cycle framing can break, that was a quarterly / weekly-horizon deep analysis — the thesis stays intact for months once written.
 
-The dashboard shows **"right now."** Whether the thesis you read about is being validated by today's tape, which signals are firing, which are fading — minute by minute.
+The dashboard shows <strong>"right now."</strong> Whether the thesis you read about is being validated by today's tape, which signals are firing, which are fading — minute by minute.
 
 ```
 Blog analysis: "Why the memory-cycle frame might break" (quarterly/weekly, thesis-centric)
@@ -62,17 +62,17 @@ As [Why Korea Part 4](/post/korea-67-billion-etf-inflow-korea-discount-or-value-
 
 | Section | What it shows |
 |---|---|
-| 1. **Executive Summary** | One-line intraday read — current market tone at a glance |
-| 2. **Market Strip** | KOSPI / KOSDAQ / FX / SOX snapshot |
-| 3. **Source Health Strip** | Whether each data source is functioning normally |
-| 4. **Company Signals** | Samsung Electronics + SK hynix cards (detailed per-name signals) |
-| 5. **Driver Categories** | Categories of forces driving the signal — US semis / FX / macro / memory cycle |
-| 6. **Instrument Moves** | Sortable name-move table (Korea / US / Memory / Macro·Risk filters) |
-| 7. **Footer** | Links back to blog / Telegram / Substack |
+| 1. <strong>Executive Summary</strong> | One-line intraday read — current market tone at a glance |
+| 2. <strong>Market Strip</strong> | KOSPI / KOSDAQ / FX / SOX snapshot |
+| 3. <strong>Source Health Strip</strong> | Whether each data source is functioning normally |
+| 4. <strong>Company Signals</strong> | Samsung Electronics + SK hynix cards (detailed per-name signals) |
+| 5. <strong>Driver Categories</strong> | Categories of forces driving the signal — US semis / FX / macro / memory cycle |
+| 6. <strong>Instrument Moves</strong> | Sortable name-move table (Korea / US / Memory / Macro·Risk filters) |
+| 7. <strong>Footer</strong> | Links back to blog / Telegram / Substack |
 
 ### 2.2 Data-trust labels — the most important feature
 
-Every row carries a **freshness label**.
+Every row carries a <strong>freshness label</strong>.
 
 ```
 Live      : real-time data (≤1 min)
@@ -81,7 +81,7 @@ Fallback  : fallback value (e.g., prior close)
 Missing   : data outage at source
 ```
 
-**Why this matters**: market data delay varies by source. Some quotes are live; others are prior-day close; others are temporarily unavailable. Without labels, users assume uniform freshness. Memory Pulse **makes freshness transparent so that users can verify the data itself before acting on signals**.
+<strong>Why this matters</strong>: market data delay varies by source. Some quotes are live; others are prior-day close; others are temporarily unavailable. Without labels, users assume uniform freshness. Memory Pulse <strong>makes freshness transparent so that users can verify the data itself before acting on signals</strong>.
 
 ### 2.3 Four filters — different lenses
 
@@ -89,12 +89,12 @@ The instrument-moves table sorts by 4 filters:
 
 | Filter | Lens |
 |---|---|
-| **Korea** | KOSPI / KOSDAQ names — domestic tape flow |
-| **US** | NVIDIA / Micron / SOX, etc. — US semi read-through |
-| **Memory** | HBM / DDR / NAND price proxies — cycle direct read |
-| **Macro / Risk** | FX / oil / rates / VIX — macro environment |
+| <strong>Korea</strong> | KOSPI / KOSDAQ names — domestic tape flow |
+| <strong>US</strong> | NVIDIA / Micron / SOX, etc. — US semi read-through |
+| <strong>Memory</strong> | HBM / DDR / NAND price proxies — cycle direct read |
+| <strong>Macro / Risk</strong> | FX / oil / rates / VIX — macro environment |
 
-**How to use it**: e.g., pre-open, scan the 'Korea' tab for yesterday's close + after-hours, the 'US' tab for the US memory / semi read overnight, then the 'Macro / Risk' tab for FX / VIX. With three views in one screen, a first-pass hypothesis on "how the open is likely to set up" comes together quickly.
+<strong>How to use it</strong>: e.g., pre-open, scan the 'Korea' tab for yesterday's close + after-hours, the 'US' tab for the US memory / semi read overnight, then the 'Macro / Risk' tab for FX / VIX. With three views in one screen, a first-pass hypothesis on "how the open is likely to set up" comes together quickly.
 
 ---
 
@@ -150,10 +150,10 @@ Top navigation directly links to:
 
 | Dashboard link | Connected blog page | How to use together |
 |---|---|---|
-| **HBM Hub** | [HBM / KOSPI Investment Hub](/page/korea-semiconductor-hbm-kospi-hub/) | Memory signal in dashboard → thesis depth in hub |
-| **Daily Market** | [Korea Daily Market Hub](/page/korea-daily-market-hub/) | Daily market-flow analysis collection |
-| **Telegram** | [@korea_invest_insights](https://t.me/korea_invest_insights) | New-post notifications immediately |
-| **Substack** | [Subscribe](https://koreainvestinsights.substack.com/) | Curated analysis by email |
+| <strong>HBM Hub</strong> | [HBM / KOSPI Investment Hub](/page/korea-semiconductor-hbm-kospi-hub/) | Memory signal in dashboard → thesis depth in hub |
+| <strong>Daily Market</strong> | [Korea Daily Market Hub](/page/korea-daily-market-hub/) | Daily market-flow analysis collection |
+| <strong>Telegram</strong> | [@korea_invest_insights](https://t.me/korea_invest_insights) | New-post notifications immediately |
+| <strong>Substack</strong> | [Subscribe](https://koreainvestinsights.substack.com/) | Curated analysis by email |
 
 ### 4.2 Analysis → dashboard → analysis loop
 
@@ -175,36 +175,36 @@ Step 3: New analysis post on verified result
 
 ### 4.3 Two honest limitations
 
-**Limitation 1: the dashboard does not issue buy / sell signals.** As stated in the footer: "educational market intelligence, not investment advice; does not issue buy, sell, or position-size instructions." How to interpret signals is the user's responsibility.
+<strong>Limitation 1: the dashboard does not issue buy / sell signals.</strong> As stated in the footer: "educational market intelligence, not investment advice; does not issue buy, sell, or position-size instructions." How to interpret signals is the user's responsibility.
 
-**Limitation 2: dependent on data sources.** When Fallback or Missing labels are frequent (e.g., specific US data-vendor outage windows), dashboard accuracy is impacted. This is exactly why the labels are explicit.
+<strong>Limitation 2: dependent on data sources.</strong> When Fallback or Missing labels are frequent (e.g., specific US data-vendor outage windows), dashboard accuracy is impacted. This is exactly why the labels are explicit.
 
 ---
 
 ## 5. FAQ
 
-**Q: Is Memory Pulse free?**
+<strong>Q: Is Memory Pulse free?</strong>
 A: Yes. Open to anyone at memory.koreainvestinsights.com.
 
-**Q: Does it work on mobile?**
+<strong>Q: Does it work on mobile?</strong>
 A: Responsive design — mobile, tablet, desktop all supported. The instrument-moves table shows more at once on wider screens.
 
-**Q: Korean and English?**
+<strong>Q: Korean and English?</strong>
 A: Top-right 'A / 가' toggle switches instantly. Same for dark / light theme.
 
-**Q: How should I interpret a 'Fallback' label?**
+<strong>Q: How should I interpret a 'Fallback' label?</strong>
 A: It means the real-time data source has an issue and the value shown is a fallback (e.g., prior close). Always check the freshness label before acting. Only 'Live' values are real-time-reliable.
 
-**Q: Why only Samsung and hynix? Will other names be added?**
+<strong>Q: Why only Samsung and hynix? Will other names be added?</strong>
 A: These two are the twin pillars of Korean memory and a large fraction of KOSPI. Concentrating on two names initially maximized signal quality. Expansion will follow user feedback and data-source stability.
 
-**Q: Can I use the dashboard before reading the blog analysis?**
+<strong>Q: Can I use the dashboard before reading the blog analysis?</strong>
 A: Yes. The dashboard works standalone. But knowing the "context" of the signals helps interpretation, so reading the [HBM Hub](/page/korea-semiconductor-hbm-kospi-hub/) or a recent analysis first makes dashboard use more efficient.
 
-**Q: Can I cite or redistribute dashboard data?**
+<strong>Q: Can I cite or redistribute dashboard data?</strong>
 A: License terms differ by source — safer to cite with source attribution and the freshness label. Screen captures of the dashboard with "memory.koreainvestinsights.com" attribution are acceptable.
 
-**Q: What's next?**
+<strong>Q: What's next?</strong>
 A: Data sources, signal categories, and instrument scope will expand based on user feedback. Priority is deepening the link between blog analysis and dashboard signals. New features will be announced via separate blog posts.
 
 ---

@@ -22,20 +22,20 @@ tags:
   - "global peer discount"
 ---
 
-> 🔗 **Part 1**: [Easy Bio (353810) Analysis: North America Feed Additive M&A at 6× PER and 27-37% ROE](/post/easybio-north-america-feed-additive-rollup-2026-05-07/)
+> 🔗 <strong>Part 1</strong>: [Easy Bio (353810) Analysis: North America Feed Additive M&A at 6× PER and 27-37% ROE](/post/easybio-north-america-feed-additive-rollup-2026-05-07/)
 
-*[Part 1](/post/easybio-north-america-feed-additive-rollup-2026-05-07/) established what the business has become — 78% feed-additive revenue, three North America M&A transactions completed (Devenish, BioMatrix, Nutribins), and a 6× forward PER paired with 27–37% ROE. This follow-up moves to the second-order question: **how does the market re-classify the name, and what specifically forces that re-classification.** The answer compresses to a single Q1 print. Above 9.4% OPM in 1Q26, the "Korean Anpario / Phibro" label starts to displace the "domestic feed stock" label, and the path to a 10–12× multiple opens. Below it, the feed-stock label sticks, and the global-peer discount becomes structural rather than a re-rating opportunity.*
+*[Part 1](/post/easybio-north-america-feed-additive-rollup-2026-05-07/) established what the business has become — 78% feed-additive revenue, three North America M&A transactions completed (Devenish, BioMatrix, Nutribins), and a 6× forward PER paired with 27–37% ROE. This follow-up moves to the second-order question: <strong>how does the market re-classify the name, and what specifically forces that re-classification.</strong> The answer compresses to a single Q1 print. Above 9.4% OPM in 1Q26, the "Korean Anpario / Phibro" label starts to displace the "domestic feed stock" label, and the path to a 10–12× multiple opens. Below it, the feed-stock label sticks, and the global-peer discount becomes structural rather than a re-rating opportunity.*
 
 ---
 
 ## TL;DR
 
-* **The business has already shifted.** 3Q25-cumulative revenue mix: feed additives 78% / feed 22%. Feed-additive revenue grew from ₩94bn (2022) to ₩396bn (2025) — over 4× in three years. The Devenish acquisition was the inflection point.
-* **6× PER vs. 27–37% ROE.** Eugene Securities (2026E ROE 36.9%, PER 5.7× at report-date price); Korea IR Council (ROE 26.8%, PER 6.6×). Both versions reach the same conclusion: **PER is mispriced relative to ROE.**
-* **Global peers trade at 15–18× PER.** Phibro (US, animal-health + feed additives) 18.4×; Anpario (UK AIM, small-cap functional additives) 14.6×; Adisseo (Shanghai, amino acids + feed additives) 36.9×; Balchem (US, specialty nutrition + microencapsulation) 32.8×. **Easy Bio's 6× sits at a 50–64% discount to the relevant peer set.**
-* **Eugene's 2026 model.** Revenue ₩510.7bn (+7%), OP ₩52.5bn (+17%), OPM 10.3%. Quarterly path: 1Q ₩11.8bn / 9.4% OPM, building to 4Q 11.2%. Target price ₩10,000, BUY.
-* **The US livestock cycle is supportive.** Beef prices at multi-decade highs (supply cliff unbroken); broiler inventory falling sharply after the January USDA dietary guideline lifted the protein-intake reference; pork in supply-demand balance. Cattle, hogs, and broilers all under upside pressure on head count — additive demand follows.
-* **The single question.** "Is Easy Bio a Korean Sajo / Farmsco, or a Korean Anpario / Phibro?" If the market reads option A, fair PER is 6–8×. If it reads option B, the band opens to 10–15×. **The 9.4% 1Q26 OPM print is the first verification gate.**
+* <strong>The business has already shifted.</strong> 3Q25-cumulative revenue mix: feed additives 78% / feed 22%. Feed-additive revenue grew from ₩94bn (2022) to ₩396bn (2025) — over 4× in three years. The Devenish acquisition was the inflection point.
+* <strong>6× PER vs. 27–37% ROE.</strong> Eugene Securities (2026E ROE 36.9%, PER 5.7× at report-date price); Korea IR Council (ROE 26.8%, PER 6.6×). Both versions reach the same conclusion: <strong>PER is mispriced relative to ROE.</strong>
+* <strong>Global peers trade at 15–18× PER.</strong> Phibro (US, animal-health + feed additives) 18.4×; Anpario (UK AIM, small-cap functional additives) 14.6×; Adisseo (Shanghai, amino acids + feed additives) 36.9×; Balchem (US, specialty nutrition + microencapsulation) 32.8×. <strong>Easy Bio's 6× sits at a 50–64% discount to the relevant peer set.</strong>
+* <strong>Eugene's 2026 model.</strong> Revenue ₩510.7bn (+7%), OP ₩52.5bn (+17%), OPM 10.3%. Quarterly path: 1Q ₩11.8bn / 9.4% OPM, building to 4Q 11.2%. Target price ₩10,000, BUY.
+* <strong>The US livestock cycle is supportive.</strong> Beef prices at multi-decade highs (supply cliff unbroken); broiler inventory falling sharply after the January USDA dietary guideline lifted the protein-intake reference; pork in supply-demand balance. Cattle, hogs, and broilers all under upside pressure on head count — additive demand follows.
+* <strong>The single question.</strong> "Is Easy Bio a Korean Sajo / Farmsco, or a Korean Anpario / Phibro?" If the market reads option A, fair PER is 6–8×. If it reads option B, the band opens to 10–15×. <strong>The 9.4% 1Q26 OPM print is the first verification gate.</strong>
 
 ---
 
@@ -43,11 +43,11 @@ tags:
 
 [Part 1](/post/easybio-north-america-feed-additive-rollup-2026-05-07/) introduced the discovery: a name screened as a "Korean feed stock" had already become a North America feed-additive M&A platform with 78% additive mix and a high-ROE / low-PER pairing. This piece adds three things on top:
 
-1. **A peer-comparable multiple table.** Phibro 18.4×, Anpario 14.6×, Adisseo 36.9×, Balchem 32.8×. The question becomes: how much of Easy Bio's 50–64% discount is justified, and how much is the legacy-label tax?
-2. **A decomposition of the "feed stock" label discount.** Justified components (size, liquidity, coverage breadth, M&A integration not fully tested) vs. excessive components (business-mix change not yet reflected in classification).
-3. **A specific verification gate.** 1Q26 OPM 9.4% as the line above which "feed-additive platform" reclassification stays alive, below which the discount compresses back to feed-stock convention.
+1. <strong>A peer-comparable multiple table.</strong> Phibro 18.4×, Anpario 14.6×, Adisseo 36.9×, Balchem 32.8×. The question becomes: how much of Easy Bio's 50–64% discount is justified, and how much is the legacy-label tax?
+2. <strong>A decomposition of the "feed stock" label discount.</strong> Justified components (size, liquidity, coverage breadth, M&A integration not fully tested) vs. excessive components (business-mix change not yet reflected in classification).
+3. <strong>A specific verification gate.</strong> 1Q26 OPM 9.4% as the line above which "feed-additive platform" reclassification stays alive, below which the discount compresses back to feed-stock convention.
 
-The summary, in one sentence: **Part 1 was the discovery; Part 2 is the framework for what proves or invalidates the re-classification.**
+The summary, in one sentence: <strong>Part 1 was the discovery; Part 2 is the framework for what proves or invalidates the re-classification.</strong>
 
 ---
 
@@ -69,7 +69,7 @@ Cross-checks:
 * 2025 additive mix = 395.6 / 476.9 = 82.9% ≈ 83% ✓
 * 2026E additive mix = 427.8 / 510.7 = 83.8% ≈ 84% ✓
 
-The 2024 step-change (₩109bn → ₩306bn) reflects Devenish consolidation. **All forward growth is in additives; piglet feed has plateaued near ₩100–110bn.**
+The 2024 step-change (₩109bn → ₩306bn) reflects Devenish consolidation. <strong>All forward growth is in additives; piglet feed has plateaued near ₩100–110bn.</strong>
 
 ### 2.2 Margin structure post-Devenish
 
@@ -78,18 +78,18 @@ The 2024 step-change (₩109bn → ₩306bn) reflects Devenish consolidation. **
 | 1Q25 | 9.1 | 7.8% | Early post-Devenish |
 | 2Q25 | 11.0 | 9.7% | Incentive bonus phase ends |
 | 3Q25 | 11.2 | 9.6% | Margin holds |
-| 4Q25 | 13.6 | **10.5%** | \~11% ex-acquisition diligence costs |
-| **1Q26E** | **11.8** | **9.4%** | Lower-half loaded ('상저하고') |
-| 4Q26E | 14.8 | **11.2%** | Improvement through year-end |
-| **2026E (FY)** | **52.5** | **10.3%** | — |
+| 4Q25 | 13.6 | <strong>10.5%</strong> | \~11% ex-acquisition diligence costs |
+| <strong>1Q26E</strong> | <strong>11.8</strong> | <strong>9.4%</strong> | Lower-half loaded ('상저하고') |
+| 4Q26E | 14.8 | <strong>11.2%</strong> | Improvement through year-end |
+| <strong>2026E (FY)</strong> | <strong>52.5</strong> | <strong>10.3%</strong> | — |
 
-Eugene flags: "post-Devenish, even with incentive-bonus normalization, margin continues to improve" — i.e., **structural margin improvement, not a one-quarter integration spike.**
+Eugene flags: "post-Devenish, even with incentive-bonus normalization, margin continues to improve" — i.e., <strong>structural margin improvement, not a one-quarter integration spike.</strong>
 
 A revenue-₩500bn company sustaining 10%+ OPM is not a "feed stock" in conventional Korean equity-screen taxonomy.
 
 ### 2.3 ASP per kilogram is also rising
 
-Eugene's chart on p. 3 shows feed-additive ASP/kg rising consistently — i.e., it's **not just volume growth, it's mix-up**. The shift away from commodity blended feeds and into functional additives (enzymes, emulsifiers, probiotics, coated products) is structurally raising the unit price.
+Eugene's chart on p. 3 shows feed-additive ASP/kg rising consistently — i.e., it's <strong>not just volume growth, it's mix-up</strong>. The shift away from commodity blended feeds and into functional additives (enzymes, emulsifiers, probiotics, coated products) is structurally raising the unit price.
 
 ---
 
@@ -111,18 +111,18 @@ Eugene's p. 4 maps Devenish NA, Pathway USA, BioMatrix, and Nutribins onto the U
 
 Closed January 2026:
 
-* **BioMatrix**: coating-technology specialist. Eugene expects "additive coating technology" to lift Devenish's earnings trajectory. Targeted gut-delivery of active ingredients drives product differentiation and pricing power.
-* **Nutribins**: high-value additive raw materials + incremental sales channel. Eugene estimates ₩2.0–2.5bn annual earnings contribution. Korean industry coverage (Hando-news) frames the strategic logic as Devenish's R&D base + Nutribins' raw-material solutions = expanded North America functional-nutrition platform.
+* <strong>BioMatrix</strong>: coating-technology specialist. Eugene expects "additive coating technology" to lift Devenish's earnings trajectory. Targeted gut-delivery of active ingredients drives product differentiation and pricing power.
+* <strong>Nutribins</strong>: high-value additive raw materials + incremental sales channel. Eugene estimates ₩2.0–2.5bn annual earnings contribution. Korean industry coverage (Hando-news) frames the strategic logic as Devenish's R&D base + Nutribins' raw-material solutions = expanded North America functional-nutrition platform.
 
 ### 3.3 Eugene's report title: "This Company Just Manages Well"
 
-Eugene's report title (2026-04-02, analyst Heo Jun-seo) says exactly that: "이 회사는 그냥 경영을 잘함" — *this company just manages well*. The point of the title is to frame **M&A → operating-result conversion as the variable, not the M&A itself**. Eugene's quote on the 4Q25 print: "₩13.6bn OP despite acquisition due-diligence costs; ex-DD that's ₩14bn+. US feed-additive market influence continues to expand."
+Eugene's report title (2026-04-02, analyst Heo Jun-seo) says exactly that: "이 회사는 그냥 경영을 잘함" — *this company just manages well*. The point of the title is to frame <strong>M&A → operating-result conversion as the variable, not the M&A itself</strong>. Eugene's quote on the 4Q25 print: "₩13.6bn OP despite acquisition due-diligence costs; ex-DD that's ₩14bn+. US feed-additive market influence continues to expand."
 
 ---
 
 ## 4. The US livestock cycle is constructive
 
-Eugene's p. 5–6 covers this. In one sentence: **cattle, hogs, and broilers all face head-count pressure higher.**
+Eugene's p. 5–6 covers this. In one sentence: <strong>cattle, hogs, and broilers all face head-count pressure higher.</strong>
 
 ### 4.1 Beef — supply cliff, prices at multi-decade highs
 
@@ -130,7 +130,7 @@ US beef prices sit at the high end of a 20-year range. The herd-rebuild cycle ha
 
 ### 4.2 Broilers — inventory drop after the January USDA protein-intake update
 
-The most interesting datapoint Eugene flags: after USDA's January 2026 dietary-guideline update raised the protein-intake reference, **broiler inventory dropped sharply.** Broilers respond fastest (short cycle), so falling inventory in the species with the fastest supply response means demand is outrunning supply.
+The most interesting datapoint Eugene flags: after USDA's January 2026 dietary-guideline update raised the protein-intake reference, <strong>broiler inventory dropped sharply.</strong> Broilers respond fastest (short cycle), so falling inventory in the species with the fastest supply response means demand is outrunning supply.
 
 ### 4.3 Pork — supply-demand balance
 
@@ -142,7 +142,7 @@ Eugene's read:
 
 > "Piglet feed and commodity additives can pass through cost inflation without margin damage given the strong livestock backdrop. Within finished additives, the mix has shifted from microbials and extracts toward digestion-enhancing enzyme additives — i.e., cost-saving products for farmers under purchasing-power pressure. The bipolar mix gives the company resilience to mid-cycle swings."
 
-The structural insight: **higher grain costs don't necessarily compress feed-additive margins** — when farmers face cost pressure, they raise demand for additives that boost feed efficiency (like digestion enzymes).
+The structural insight: <strong>higher grain costs don't necessarily compress feed-additive margins</strong> — when farmers face cost pressure, they raise demand for additives that boost feed efficiency (like digestion enzymes).
 
 ---
 
@@ -154,27 +154,27 @@ Comparing Easy Bio to Korean feed names (Sajo, Farmsco, Woosung, Korea Industria
 
 | Company | Listing | Business | PER | Comparability |
 |---|---|---|---:|---|
-| **Phibro** | NASDAQ | Animal health + mineral nutrition + feed additives | **18.4×** | Most direct |
-| **Anpario** | UK AIM | Small-cap functional feed additives | **14.6×** | Closest size match |
-| **Adisseo** | Shanghai | Amino acids + feed additives (large cap) | **36.9×** | Upper bound reference |
+| <strong>Phibro</strong> | NASDAQ | Animal health + mineral nutrition + feed additives | <strong>18.4×</strong> | Most direct |
+| <strong>Anpario</strong> | UK AIM | Small-cap functional feed additives | <strong>14.6×</strong> | Closest size match |
+| <strong>Adisseo</strong> | Shanghai | Amino acids + feed additives (large cap) | <strong>36.9×</strong> | Upper bound reference |
 | Balchem | NASDAQ | Specialty nutrition / microencapsulation | 32.8× | Coating-tech upper bound |
 | Sajo | KOSPI | Feed + integrated livestock | — | Korean lower-bound |
 | Farmsco | KOSPI | Blended feed + livestock | — | Korean lower-bound |
-| **Easy Bio** | **KOSDAQ** | **78% additives + 22% piglet feed** | **6.0×** | — |
+| <strong>Easy Bio</strong> | <strong>KOSDAQ</strong> | <strong>78% additives + 22% piglet feed</strong> | <strong>6.0×</strong> | — |
 
 ### 5.2 Phibro — the most directly comparable case
 
 Phibro is a US-listed animal-health / mineral-nutrition / feed-additive specialist. Acquired Zoetis's medicated feed additive business in 2024 for US$350m (\~₩470bn). The acquisition logic — bolt-on M&A onto a feed-additive platform — is closest to Easy Bio's Devenish-BioMatrix-Nutribins sequence.
 
-Phibro market cap \~₩23tn (US$1.77bn), PER 18.4×. Easy Bio market cap \~₩250bn, PER 6.0×. **Same business architecture, \~3× multiple gap.**
+Phibro market cap \~₩23tn (US$1.77bn), PER 18.4×. Easy Bio market cap \~₩250bn, PER 6.0×. <strong>Same business architecture, \~3× multiple gap.</strong>
 
-Of course Phibro has US listing, global customers, scale, liquidity, and disclosure depth that Easy Bio does not. Easy Bio cannot inherit Phibro's full multiple. A discount is warranted. **But "same business, 3× multiple gap" raises the question of whether the discount is well-calibrated — or whether it's still anchored to a label.**
+Of course Phibro has US listing, global customers, scale, liquidity, and disclosure depth that Easy Bio does not. Easy Bio cannot inherit Phibro's full multiple. A discount is warranted. <strong>But "same business, 3× multiple gap" raises the question of whether the discount is well-calibrated — or whether it's still anchored to a label.</strong>
 
 ### 5.3 Anpario — the closest size-and-strategy match
 
 Anpario is a UK AIM small-cap functional feed-additive business. Acquired Bio-Vet (US) in 2024 to expand its North America footprint. The M&A path mirrors Easy Bio's.
 
-Anpario PER 14.6×. Easy Bio PER 6.0×. **If a small-cap functional-additive listed name realistically clears 14–15×, Easy Bio's 6× is at least partially a "feed-stock label tax."**
+Anpario PER 14.6×. Easy Bio PER 6.0×. <strong>If a small-cap functional-additive listed name realistically clears 14–15×, Easy Bio's 6× is at least partially a "feed-stock label tax."</strong>
 
 ### 5.4 Justified discount vs. excess discount
 
@@ -195,9 +195,9 @@ Excess components:
 
 ### 5.5 The single question
 
-> **"Is Easy Bio a Korean Sajo / Farmsco, or a Korean Anpario / Phibro?"**
+> <strong>"Is Easy Bio a Korean Sajo / Farmsco, or a Korean Anpario / Phibro?"</strong>
 
-Read A → fair PER 6–8×. Read B → fair PER 10–15×. **The classification flip is the re-rating event.**
+Read A → fair PER 6–8×. Read B → fair PER 10–15×. <strong>The classification flip is the re-rating event.</strong>
 
 ---
 
@@ -236,7 +236,7 @@ Cross-checks:
 * Bear = 904 × 8 = 7,232 ✓
 * Re-rating = 1,252 × 12 = 15,024 ✓
 
-Eugene's ₩10,000 TP is EPS ₩1,252 × \~8× — i.e., still a **"feed-stock upper-bound multiple," not a "feed-additive platform multiple."** A successful re-classification opens upside above the published TP.
+Eugene's ₩10,000 TP is EPS ₩1,252 × \~8× — i.e., still a <strong>"feed-stock upper-bound multiple," not a "feed-additive platform multiple."</strong> A successful re-classification opens upside above the published TP.
 
 ---
 
@@ -248,7 +248,7 @@ Eugene's ₩10,000 TP is EPS ₩1,252 × \~8× — i.e., still a **"feed-stock u
 |---|---:|
 | Revenue | ₩125.7bn |
 | OP | ₩11.8bn |
-| OPM | **9.4%** |
+| OPM | <strong>9.4%</strong> |
 
 Eugene models 2026 as "lower-half loaded" — 1Q OPM 9.4%, building to 4Q OPM 11.2%.
 
@@ -264,7 +264,7 @@ Eugene models 2026 as "lower-half loaded" — 1Q OPM 9.4%, building to 4Q OPM 11
        → Multiple compresses back to 6–7×
 ```
 
-**The 1Q26 print is the first and most important verification gate for the entire thesis.**
+<strong>The 1Q26 print is the first and most important verification gate for the entire thesis.</strong>
 
 ---
 
@@ -278,8 +278,8 @@ Easy Bio sits at 78% additive mix but is still classified as "feed." That's a le
 
 ### 8.2 Two paths the label dissolves
 
-* **Path A — through earnings.** Each quarter that prints OPM 10%+ erodes the "feed-stock margin" framing. Sell-side coverage expansion accelerates the process.
-* **Path B — through reclassification.** Sector reclassification from "feed" to "consumer / global livestock solutions" lifts the baseline multiple. This is slower but more durable.
+* <strong>Path A — through earnings.</strong> Each quarter that prints OPM 10%+ erodes the "feed-stock margin" framing. Sell-side coverage expansion accelerates the process.
+* <strong>Path B — through reclassification.</strong> Sector reclassification from "feed" to "consumer / global livestock solutions" lifts the baseline multiple. This is slower but more durable.
 
 Both take time. The fact that foreign and institutional flows have started to coincide is consistent with a "front-running before earnings confirmation" pattern.
 
@@ -290,7 +290,7 @@ Both take time. The fact that foreign and institutional flows have started to co
 * If the US livestock cycle rolls over and additive demand softens with it
 * If sell-side coverage stays Eugene-led at 3–4 reports and broader market interest never builds
 
-If any of these hold, **the 6× PER becomes "fair value" rather than "discount" — and the discount becomes structural rather than a re-rating opportunity.**
+If any of these hold, <strong>the 6× PER becomes "fair value" rather than "discount" — and the discount becomes structural rather than a re-rating opportunity.</strong>
 
 ---
 
@@ -298,7 +298,7 @@ If any of these hold, **the 6× PER becomes "fair value" rather than "discount" 
 
 ### 9.1 The single most important — OPM
 
-* **1Q26 OPM ≥ 9.4%** → 2026 10%+ path stays alive
+* <strong>1Q26 OPM ≥ 9.4%</strong> → 2026 10%+ path stays alive
 * Quarterly OPM trajectory matches Eugene's "lower-half loaded" model
 * Feed-additive ASP/kg keeps rising — mix-shift continues
 
@@ -334,7 +334,7 @@ If any of these hold, **the 6× PER becomes "fair value" rather than "discount" 
 
 Easy Bio screened as a feed stock makes 6× PER look natural. But 78% of revenue is feed additives, the company runs four US plants and one in Mexico, and it has added a coating-technology specialist and a high-value-additive supplier. Phibro trades at 18×, Anpario at 15×, Adisseo at 37×. Easy Bio's 6× sits at a 50–64% discount.
 
-Some of the discount is justified — size, liquidity, coverage, integration not fully verified. But **a portion is the legacy "feed-stock" label being applied to a business that has already changed.** Eugene Securities models 2026 revenue ₩510.7bn, OP ₩52.5bn, OPM 10.3% with a ₩10,000 TP. **The 1Q26 OPM 9.4% print is the first verification gate.**
+Some of the discount is justified — size, liquidity, coverage, integration not fully verified. But <strong>a portion is the legacy "feed-stock" label being applied to a business that has already changed.</strong> Eugene Securities models 2026 revenue ₩510.7bn, OP ₩52.5bn, OPM 10.3% with a ₩10,000 TP. <strong>The 1Q26 OPM 9.4% print is the first verification gate.</strong>
 
 The single question is: "Korean Sajo / Farmsco, or Korean Anpario / Phibro?" Read A: 6–8× PER. Read B: 10–15× PER. If 1Q26 prints OPM in the 9.5–10% zone and it persists, the case shifts from "feed-stock upper-bound 8–9×" to "high-ROE functional-additive platform 10–12×." The US livestock cycle — beef supply cliff, broiler inventory drop, USDA protein guideline — is supportive of that path.
 
@@ -344,25 +344,25 @@ Labels move when earnings move them. The 1Q26 print is where that starts.
 
 ## FAQ
 
-**Q: Is Easy Bio a feed stock or a feed-additive company?**
+<strong>Q: Is Easy Bio a feed stock or a feed-additive company?</strong>
 A: Mix says it's already a feed-additive company — 78% of revenue (3Q25 cumulative) is feed additives. The market still classifies it as a feed stock, which is the entire source of the multiple discrepancy.
 
-**Q: Is 6× PER actually cheap?**
+<strong>Q: Is 6× PER actually cheap?</strong>
 A: A name with 27–37% ROE trading at 6× PER is generally cheap, full stop. Some discount is justified (size, KOSDAQ liquidity, integration not fully proven). The question is whether justified discount = 50–64% off the relevant peer set, or less.
 
-**Q: Are Phibro / Anpario the right comparables?**
+<strong>Q: Are Phibro / Anpario the right comparables?</strong>
 A: Anpario is the closest match by business model (small-cap functional additives + North America M&A). Phibro is bigger and more globally established. The 15–18× peer-average band, set against Easy Bio's 6×, frames the available re-rating space.
 
-**Q: Why is the 1Q26 OPM print the verification gate?**
+<strong>Q: Why is the 1Q26 OPM print the verification gate?</strong>
 A: Above 9.4% → 2026 full-year 10%+ OPM path is intact, and the "feed-additive platform" reclassification stays alive. Below 9.0% → reads as "M&A done but margin underdelivering," and the multiple compresses back to 6–7×.
 
-**Q: Is the US livestock cycle really constructive?**
+<strong>Q: Is the US livestock cycle really constructive?</strong>
 A: Near-term, yes. Beef supply cliff, broiler inventory drop after the January USDA protein-intake change, pork in balance. The downside scenario (rising grain costs + farmer purchasing-power compression) does have some bite, but Easy Bio's additive-heavy mix offers more defense than commodity feed.
 
-**Q: Should one buy at the current price?**
+<strong>Q: Should one buy at the current price?</strong>
 A: Pre-1Q print, caution is reasonable. ≥9.4% in 1Q is the first signal of the "feed-stock multiple → feed-additive platform multiple" path activating. Verification before entry has a better risk-reward than the chase.
 
-**Q: What invalidates the thesis?**
+<strong>Q: What invalidates the thesis?</strong>
 A: OPM falling to 8.5% or below, 2026 OP revising to ₩45bn or lower, BioMatrix / Nutribins integration delivering only top-line without margin lift, debt-funded repeat M&A without integration returns.
 
 ---

@@ -31,36 +31,36 @@ The one-day drop, however, matters structurally. When the anchor stock of an ind
 
 Not everything fell. Several sectors demonstrated resilience that stood out precisely because the broader market was under pressure.
 
-**Samsung Electro-Mechanics (009150.KS)**, the MLCC and camera module subsidiary of the Samsung group, gained 0.39% in a down tape and has risen roughly 23.74% over five sessions. This is notable: outperformance on a weak day is a more reliable signal than outperformance when everything is rising. Foreign and institutional investors both recorded net inflows on April 8 data, and technical indicators — MACD positive crossover, price breaking above the upper Bollinger Band — confirm the uptrend is intact. Among large-cap Korean technology plays, Samsung Electro-Mechanics currently offers the clearest alignment of price, flows, and momentum.
+<strong>Samsung Electro-Mechanics (009150.KS)</strong>, the MLCC and camera module subsidiary of the Samsung group, gained 0.39% in a down tape and has risen roughly 23.74% over five sessions. This is notable: outperformance on a weak day is a more reliable signal than outperformance when everything is rising. Foreign and institutional investors both recorded net inflows on April 8 data, and technical indicators — MACD positive crossover, price breaking above the upper Bollinger Band — confirm the uptrend is intact. Among large-cap Korean technology plays, Samsung Electro-Mechanics currently offers the clearest alignment of price, flows, and momentum.
 
-**SK Telecom (017670.KS)**, South Korea's largest wireless carrier by subscriber count, surged 5.39% on the day and is up approximately 20.57% over five sessions. The stock is trading above its 14-day RSI threshold of 72, technically overbought territory, with price above the upper Bollinger Band. Foreign and institutional flows were both positive. Telecom is behaving less like a defensive bond proxy and more like a near-term market leader — a shift worth monitoring. The key level for tomorrow is whether SK Telecom can consolidate near 93,800 KRW without giving back gains.
+<strong>SK Telecom (017670.KS)</strong>, South Korea's largest wireless carrier by subscriber count, surged 5.39% on the day and is up approximately 20.57% over five sessions. The stock is trading above its 14-day RSI threshold of 72, technically overbought territory, with price above the upper Bollinger Band. Foreign and institutional flows were both positive. Telecom is behaving less like a defensive bond proxy and more like a near-term market leader — a shift worth monitoring. The key level for tomorrow is whether SK Telecom can consolidate near 93,800 KRW without giving back gains.
 
-**Construction and EPC plays** — Daewoo Construction (047040.KS) and Samsung E&A (028050.KS) — showed relative strength tied to infrastructure capital expenditure narratives. These names warrant monitoring as potential structural beneficiaries if global infrastructure spending, particularly in the Middle East, accelerates as geopolitical tensions eventually ease.
+<strong>Construction and EPC plays</strong> — Daewoo Construction (047040.KS) and Samsung E&A (028050.KS) — showed relative strength tied to infrastructure capital expenditure narratives. These names warrant monitoring as potential structural beneficiaries if global infrastructure spending, particularly in the Middle East, accelerates as geopolitical tensions eventually ease.
 
 ## Sector Laggards: Where Caution Is Warranted
 
-**Pearl Abyss (263750.KS)**, the Korean game developer behind the upcoming title *Crimson Desert*, was flat on the day but has lost approximately 14.65% over five sessions. The company recently confirmed 3 million pre-orders for Crimson Desert, a meaningful commercial data point for a Korean games developer. However, the market has not rewarded that news with price stability. MACD has turned negative, foreign investors were net sellers on April 8, and short-term momentum is absent. This is a case where the medium-term investment thesis — a major game release cycle — may be valid, but timing the entry remains difficult. The 56,500 KRW level is the near-term support to monitor; failure to recover that level on consecutive sessions would increase downside risk.
+<strong>Pearl Abyss (263750.KS)</strong>, the Korean game developer behind the upcoming title *Crimson Desert*, was flat on the day but has lost approximately 14.65% over five sessions. The company recently confirmed 3 million pre-orders for Crimson Desert, a meaningful commercial data point for a Korean games developer. However, the market has not rewarded that news with price stability. MACD has turned negative, foreign investors were net sellers on April 8, and short-term momentum is absent. This is a case where the medium-term investment thesis — a major game release cycle — may be valid, but timing the entry remains difficult. The 56,500 KRW level is the near-term support to monitor; failure to recover that level on consecutive sessions would increase downside risk.
 
-**ST Pharm (237690.KS)**, a Korean CDMO (contract development and manufacturing organization) specializing in oligonucleotide APIs for RNA therapeutics, gained 0.79% but has declined 8.85% over ten sessions. Institutional flow data shows continued net selling, while foreign participation has also been negative. Price is holding, but flow and trend signals are diverging unfavorably. Among the Korean names showing mixed signals, ST Pharm presents the weakest near-term risk-reward profile.
+<strong>ST Pharm (237690.KS)</strong>, a Korean CDMO (contract development and manufacturing organization) specializing in oligonucleotide APIs for RNA therapeutics, gained 0.79% but has declined 8.85% over ten sessions. Institutional flow data shows continued net selling, while foreign participation has also been negative. Price is holding, but flow and trend signals are diverging unfavorably. Among the Korean names showing mixed signals, ST Pharm presents the weakest near-term risk-reward profile.
 
 ## Emerging Watch List: Korean Stocks Gaining Institutional Attention
 
 Several names appeared on high-relative-strength screens on April 9, worth tracking as potential rotation candidates:
 
-- **Samsung E&A (028050.KS)**: Infrastructure EPC exposure that moves independently of the large-cap semiconductor cycle — a useful diversifier when names like Samsung Electronics are under pressure.
-- **ISC (095340.KS)**: A semiconductor equipment and components name with cleaner technical structure than most peers in the subsector.
-- **Daewoo Construction (047040.KS)**: High RS rank, pocket pivot signal, and significant volume expansion — the representative name for testing whether the construction/EPC sector strength is tactical or structural.
-- **RFHIC (218410.KS),심텍 (036710.KS), Korea Circuit (007810.KS)**: Secondary tier names showing cluster momentum in the semiconductor supply chain. Not yet rotation targets, but useful as breadth confirmation indicators.
+- <strong>Samsung E&A (028050.KS)</strong>: Infrastructure EPC exposure that moves independently of the large-cap semiconductor cycle — a useful diversifier when names like Samsung Electronics are under pressure.
+- <strong>ISC (095340.KS)</strong>: A semiconductor equipment and components name with cleaner technical structure than most peers in the subsector.
+- <strong>Daewoo Construction (047040.KS)</strong>: High RS rank, pocket pivot signal, and significant volume expansion — the representative name for testing whether the construction/EPC sector strength is tactical or structural.
+- <strong>RFHIC (218410.KS),심텍 (036710.KS), Korea Circuit (007810.KS)</strong>: Secondary tier names showing cluster momentum in the semiconductor supply chain. Not yet rotation targets, but useful as breadth confirmation indicators.
 
 ## What to Watch on April 10
 
 The question for tomorrow is not whether to turn bullish on Korean equities broadly, but whether the internal structure is improving.
 
-**Price checkpoints**: Samsung Electronics near 204,000 KRW; Samsung Electro-Mechanics above 516,000 KRW; SK Telecom consolidating near 93,800 KRW; Pearl Abyss attempting to reclaim 56,500 KRW and push toward 58,000 KRW.
+<strong>Price checkpoints</strong>: Samsung Electronics near 204,000 KRW; Samsung Electro-Mechanics above 516,000 KRW; SK Telecom consolidating near 93,800 KRW; Pearl Abyss attempting to reclaim 56,500 KRW and push toward 58,000 KRW.
 
-**Flow checkpoints**: Sustained joint buying by foreign and domestic institutions in Samsung Electronics; continuity of foreign net inflows in Samsung Electro-Mechanics; any deceleration of institutional selling in ST Pharm and Pearl Abyss.
+<strong>Flow checkpoints</strong>: Sustained joint buying by foreign and domestic institutions in Samsung Electronics; continuity of foreign net inflows in Samsung Electro-Mechanics; any deceleration of institutional selling in ST Pharm and Pearl Abyss.
 
-**Macro checkpoints**: Brent crude direction; won-dollar rate relative to the 1,480 threshold; US 10-year Treasury yield trajectory; and critically, any confirmed update on Strait of Hormuz shipping normalization.
+<strong>Macro checkpoints</strong>: Brent crude direction; won-dollar rate relative to the 1,480 threshold; US 10-year Treasury yield trajectory; and critically, any confirmed update on Strait of Hormuz shipping normalization.
 
 ## Bottom Line for International Investors
 

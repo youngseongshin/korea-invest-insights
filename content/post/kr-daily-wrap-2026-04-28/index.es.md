@@ -20,7 +20,7 @@ draft: false
 | Brent | $104,6 | −0,5% | Estable |
 | US 10Y | 4,34% | +0,04 pp | Neutral |
 
-**Veredicto de régimen:** KR = **Bull** / US = **Bull** — Correlación positiva entre ambos mercados. Breadth por encima de la MM50 en el 68,1% del universo coreano; la MM200 supera el 60,1%. Condiciones óptimas para selección activa de valores.
+<strong>Veredicto de régimen:</strong> KR = <strong>Bull</strong> / US = <strong>Bull</strong> — Correlación positiva entre ambos mercados. Breadth por encima de la MM50 en el 68,1% del universo coreano; la MM200 supera el 60,1%. Condiciones óptimas para selección activa de valores.
 
 ---
 
@@ -28,11 +28,11 @@ draft: false
 
 La jornada del 27 de abril mostró un claro carácter *risk-on*: la apertura era neutral en términos macroeconómicos, pero la compra simultánea de inversores extranjeros e institucionales convirtió la sesión en una de las más amplias del año, con el KOSPI ampliando ganancias hasta el +2,51% y el KOSDAQ hasta el +1,83% en plena sesión.
 
-**Sectores fuertes:** Semiconductores y HBM lideraron la jornada impulsados por los sólidos resultados de Intel y la fortaleza del Philadelphia Semiconductor Index. SK하이닉스 (000660.KS) avanzó más del 6%, arrastrando al conjunto del sector. Los equipos de energía eléctrica y la maquinaria naval-industrial protagonizaron la segunda ola de compras. La robótica y el llamado "Physical AI" también registraron entradas destacadas, con nombres como Robostar subiendo un 19% intradiario.
+<strong>Sectores fuertes:</strong> Semiconductores y HBM lideraron la jornada impulsados por los sólidos resultados de Intel y la fortaleza del Philadelphia Semiconductor Index. SK하이닉스 (000660.KS) avanzó más del 6%, arrastrando al conjunto del sector. Los equipos de energía eléctrica y la maquinaria naval-industrial protagonizaron la segunda ola de compras. La robótica y el llamado "Physical AI" también registraron entradas destacadas, con nombres como Robostar subiendo un 19% intradiario.
 
-**Sectores débiles:** Las telecomunicaciones sufrieron el coste de oportunidad típico de los entornos *risk-on*. El sector farmacéutico defensivo y parte de las baterías de segunda generación también quedaron rezagados respecto al mercado.
+<strong>Sectores débiles:</strong> Las telecomunicaciones sufrieron el coste de oportunidad típico de los entornos *risk-on*. El sector farmacéutico defensivo y parte de las baterías de segunda generación también quedaron rezagados respecto al mercado.
 
-**Flujos institucionales y extranjeros:** El flujo combinado institucional + extranjero fue positivo para los nombres de mayor calidad. Han-wha Engine (082740.KS) concentró una compra institucional extraordinaria (+389,3억 원 en 5 días) tras publicar un beneficio operativo Q1'26 de 514억, superando el consenso en un 15%. El margen en motores de baja velocidad para LNGC escaló desde alta cifra simple hasta mediados de la segunda cifra, y surgieron primeras consultas de pedidos para motores de cuatro tiempos destinados a centros de datos en EE.UU. Con todo, el valor lleva un +63% en cinco sesiones, por lo que el mercado considera el impulso como sobreextendido en el corto plazo.
+<strong>Flujos institucionales y extranjeros:</strong> El flujo combinado institucional + extranjero fue positivo para los nombres de mayor calidad. Han-wha Engine (082740.KS) concentró una compra institucional extraordinaria (+389,3억 원 en 5 días) tras publicar un beneficio operativo Q1'26 de 514억, superando el consenso en un 15%. El margen en motores de baja velocidad para LNGC escaló desde alta cifra simple hasta mediados de la segunda cifra, y surgieron primeras consultas de pedidos para motores de cuatro tiempos destinados a centros de datos en EE.UU. Con todo, el valor lleva un +63% en cinco sesiones, por lo que el mercado considera el impulso como sobreextendido en el corto plazo.
 
 Han-mi Semiconductor destacó con un volumen 5,9 veces superior a la media y noticias de recompra directa de acciones por parte del CEO por 30억 won; sin embargo, el avance del +26% en una sola sesión limita la visibilidad de entrada inmediata.
 
@@ -71,7 +71,7 @@ El Meta Screener coreano procesa 139 tickers y selecciona los mejores 20 según 
 
 SK하이닉스 es el mayor fabricante de memoria HBM del mundo y el proveedor preferente de NVIDIA para chips HBM3E. Aparece en los cinco screeners del framework: calidad estructural (ROE 44,1%, margen operativo 48,6%), flujo institucional neto de +1.472억 en cinco días, revalorización del ciclo con expansión de margen de +13,1 pp, mejora de resultados con beneficio operativo YoY +101,2% y revisión alcista del consenso. El único matiz es un comunicado DART de carácter administrativo (*자기교환사채만기전취득결정*) registrado hoy, que no altera la tesis operativa pero debe confirmarse en la comunicación oficial.
 
-**Qué verificar:** Que el flujo extranjero —que en Samsung Electronics mostraba divergencia esta semana— se mantenga positivo en SK하이닉스; la guía de márgenes HBM para Q2'26; y el nivel de soporte técnico tras un avance del +6% en una sola sesión.
+<strong>Qué verificar:</strong> Que el flujo extranjero —que en Samsung Electronics mostraba divergencia esta semana— se mantenga positivo en SK하이닉스; la guía de márgenes HBM para Q2'26; y el nivel de soporte técnico tras un avance del +6% en una sola sesión.
 
 ---
 
@@ -79,7 +79,7 @@ SK하이닉스 es el mayor fabricante de memoria HBM del mundo y el proveedor pr
 
 SK스퀘어 es la holding de inversión tecnológica del grupo SK, cuyo activo principal es precisamente su participación en SK하이닉스. La combinación —calidad (ROE 37,8%, margen operativo 84,1%), flujo inteligente (+1.401억 en 5 días), ciclo de revalorización (+17,5 pp de margen) y mejora de resultados (+124,4% OP YoY)— la convierte en el primer clasificado por overlap en el Screener de Intersección. Operativamente, el valor ofrece exposición al rally semiconductor con un descuento estructural sobre NAV. El DART del 22 de abril recoge una decisión de dividendo en efectivo/especie (catalizador formal), mientras el aviso del 28 de abril (*자기교환사채*) es de naturaleza financiera rutinaria.
 
-**Qué verificar:** El descuento NAV respecto a SK하이닉스; la continuidad del flujo institucional tras el avance de cinco días; y posibles comunicaciones adicionales de dividendo o recompra.
+<strong>Qué verificar:</strong> El descuento NAV respecto a SK하이닉스; la continuidad del flujo institucional tras el avance de cinco días; y posibles comunicaciones adicionales de dividendo o recompra.
 
 ---
 
@@ -87,7 +87,7 @@ SK스퀘어 es la holding de inversión tecnológica del grupo SK, cuyo activo p
 
 제룡산업 fabrica estructuras metálicas y depósitos de presión, con exposición creciente a infraestructura eléctrica y energética. Aparece en Quality Compounder (ROE 13,9%, margen 27,9%, deuda baja), Smart Money Quality (#2 en el ranking de flujo) y Smart Money Earnings (OP YoY +158,5%, beneficio neto YoY +85,5%). El flujo neto de cinco días es +45억, sin alertas DART. La RS percentile de 79,9 es la más baja del grupo superior, lo que indica que el mercado aún no ha re-valorizado completamente el nombre: ventana de entrada potencialmente más atractiva que los líderes del semiconductor ya en máximos.
 
-**Qué verificar:** Cartera de pedidos en infraestructura eléctrica/energética; confirmación de que el margen se mantiene en el entorno del 28% en Q1'26; y si el flujo institucional continúa en los próximos días sin presencia de grandes vendedores extranjeros.
+<strong>Qué verificar:</strong> Cartera de pedidos en infraestructura eléctrica/energética; confirmación de que el margen se mantiene en el entorno del 28% en Q1'26; y si el flujo institucional continúa en los próximos días sin presencia de grandes vendedores extranjeros.
 
 ---
 

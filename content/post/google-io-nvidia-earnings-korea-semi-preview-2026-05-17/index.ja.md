@@ -15,7 +15,7 @@ tags:
 slug: google-io-nvidia-earnings-korea-semi-preview-2026-05-17
 ---
 
-> 📚 **関連シリーズ**
+> 📚 <strong>関連シリーズ</strong>
 > [AI後工程の二つのベータ](/ja/post/ai-substrate-vs-test-socket-comparison-2026-05-15/) · [AI後工程11銘柄比較](/ja/post/ai-substrate-test-socket-data-comparison-2026-05-16/) · [Samsung ElectronicsのTSMC型再評価論](/ja/post/samsung-electronics-tsmc-rerating-thesis-2026-05-16/) · [AI HBMハブ](/ja/page/korea-semiconductor-hbm-kospi-hub/)
 
 来週、AI市場にとって性格の異なる二つのイベントが続く。Google I/Oの基調講演は米太平洋時間5月19日午前10時、韓国時間では5月20日午前2時に始まる。NVIDIAは米太平洋時間5月20日午後1時20分ごろに2027年度第1四半期決算とCFOコメントを公表し、午後2時にカンファレンスコールを開く。韓国時間では5月21日午前5時20分と午前6時だ。
@@ -61,11 +61,11 @@ NVIDIAの前四半期は非常に強かった。売上681億ドル、Data Center
 
 ## 3. 韓国銘柄別の見方
 
-**SK hynix**は最も明確なHBM銘柄だ。NVIDIAが大きく上振れれば最初に反応しやすい。ただしHBMリーダーであることはすでに市場が知っている。インラインなら利食いも出やすい。
+<strong>SK hynix</strong>は最も明確なHBM銘柄だ。NVIDIAが大きく上振れれば最初に反応しやすい。ただしHBMリーダーであることはすでに市場が知っている。インラインなら利食いも出やすい。
 
-**Samsung Electronics**はより複雑だ。HBM4、ベースダイ、ファウンドリ、パッケージングを統合する選択肢を持つ。しかし5月21日は労務リスクも重なる。NVIDIAが強く、労務問題が限定的なら再評価論が生きる。NVIDIAが弱く、労務リスクが長引けば、低PERよりリスクが先に見える。
+<strong>Samsung Electronics</strong>はより複雑だ。HBM4、ベースダイ、ファウンドリ、パッケージングを統合する選択肢を持つ。しかし5月21日は労務リスクも重なる。NVIDIAが強く、労務問題が限定的なら再評価論が生きる。NVIDIAが弱く、労務リスクが長引けば、低PERよりリスクが先に見える。
 
-**Samsung Electro-Mechanics**は直接のHBM銘柄ではないが、AIサーバーとネットワークが広がるほどMLCC、FC-BGA、センシングモジュールの重要性が増す。まだ「スマホ部品株」から「AIインフラ部品プラットフォーム」へ再分類される余地がある。ただし株価は大きく上昇済みであり、2Qコメントで需要を確認してからでよい。
+<strong>Samsung Electro-Mechanics</strong>は直接のHBM銘柄ではないが、AIサーバーとネットワークが広がるほどMLCC、FC-BGA、センシングモジュールの重要性が増す。まだ「スマホ部品株」から「AIインフラ部品プラットフォーム」へ再分類される余地がある。ただし株価は大きく上昇済みであり、2Qコメントで需要を確認してからでよい。
 
 後工程では、基板はData Centerガイダンスへの短期感応度が高い。テストソケットは一、二四半期遅れることがあるが、高い粗利率とチップ複雑性への長期ベータを持つ。
 

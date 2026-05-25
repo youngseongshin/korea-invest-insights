@@ -11,7 +11,7 @@ draft: false
 
 # Samsung Electronics : Le Géant Coréen des Semiconducteurs IA & HBM
 
-**Samsung Electronics Co., Ltd. (005930.KS, KOSPI)** est le principal constituant de l'indice de référence coréen — une entreprise dont les semiconducteurs alimentent aussi bien votre smartphone que les clusters d'entraînement IA les plus avancés au monde. S'il existe une action coréenne que les investisseurs internationaux ne peuvent se permettre d'ignorer dans le contexte actuel du supercycle matériel de l'IA, c'est bien Samsung Electronics. Et pourtant, en avril 2026, le titre reste un cas d'investissement à la fois fascinant et véritablement débattu.
+<strong>Samsung Electronics Co., Ltd. (005930.KS, KOSPI)</strong> est le principal constituant de l'indice de référence coréen — une entreprise dont les semiconducteurs alimentent aussi bien votre smartphone que les clusters d'entraînement IA les plus avancés au monde. S'il existe une action coréenne que les investisseurs internationaux ne peuvent se permettre d'ignorer dans le contexte actuel du supercycle matériel de l'IA, c'est bien Samsung Electronics. Et pourtant, en avril 2026, le titre reste un cas d'investissement à la fois fascinant et véritablement débattu.
 
 ---
 
@@ -19,15 +19,15 @@ draft: false
 
 | Élément | Détail |
 |---|---|
-| **Raison sociale** | Samsung Electronics Co., Ltd. (삼성전자) |
-| **Ticker** | 005930.KS (actions ordinaires) / 005935.KS (actions de préférence) |
-| **Place boursière** | KOSPI (Korea Exchange) |
-| **Secteur** | Technologies de l'information / Semiconducteurs et équipements |
-| **Cours de clôture (2026-04-14)** | KRW 206 500 |
-| **Détention étrangère** | \~51 % (parmi les plus élevées du KOSPI) |
-| **Produits clés** | DRAM, NAND Flash, HBM (High-Bandwidth Memory), smartphones Galaxy, écrans OLED, électroménager, services de fonderie |
+| <strong>Raison sociale</strong> | Samsung Electronics Co., Ltd. (삼성전자) |
+| <strong>Ticker</strong> | 005930.KS (actions ordinaires) / 005935.KS (actions de préférence) |
+| <strong>Place boursière</strong> | KOSPI (Korea Exchange) |
+| <strong>Secteur</strong> | Technologies de l'information / Semiconducteurs et équipements |
+| <strong>Cours de clôture (2026-04-14)</strong> | KRW 206 500 |
+| <strong>Détention étrangère</strong> | \~51 % (parmi les plus élevées du KOSPI) |
+| <strong>Produits clés</strong> | DRAM, NAND Flash, HBM (High-Bandwidth Memory), smartphones Galaxy, écrans OLED, électroménager, services de fonderie |
 
-**Résumé en quelques mots :** Samsung Electronics est à la fois le plus grand fabricant mondial de puces mémoire, le deuxième fabricant mondial de smartphones, et l'un des challengers les plus ambitieux sur les nœuds avancés en fonderie. L'entreprise se trouve au carrefour de trois grandes tendances technologiques de cette décennie : le déploiement de l'infrastructure IA (HBM, DRAM avancée), l'écosystème mondial du smartphone (gammes Galaxy S et Z), et le mouvement de diversification souveraine des semiconducteurs (sa feuille de route fonderie en 2 nm/3 nm). Aucune autre entreprise n'incarne autant les vents porteurs structurels qui reconfigurent la technologie mondiale.
+<strong>Résumé en quelques mots :</strong> Samsung Electronics est à la fois le plus grand fabricant mondial de puces mémoire, le deuxième fabricant mondial de smartphones, et l'un des challengers les plus ambitieux sur les nœuds avancés en fonderie. L'entreprise se trouve au carrefour de trois grandes tendances technologiques de cette décennie : le déploiement de l'infrastructure IA (HBM, DRAM avancée), l'écosystème mondial du smartphone (gammes Galaxy S et Z), et le mouvement de diversification souveraine des semiconducteurs (sa feuille de route fonderie en 2 nm/3 nm). Aucune autre entreprise n'incarne autant les vents porteurs structurels qui reconfigurent la technologie mondiale.
 
 ---
 
@@ -41,11 +41,11 @@ Pour les investisseurs internationaux, Samsung est l'un des moyens les plus liqu
 
 ### Les tendances mondiales dont elle profite
 
-1. **Supercycle de l'infrastructure IA :** Les dépenses d'investissement en centres de données des hyperscalers (Google, Microsoft, Meta, Amazon) restent élevées. La HBM constitue un goulet d'étranglement sous tension ; la capacité de Samsung à monter en puissance sur la HBM4 — la prochaine génération — la positionne favorablement pour la fenêtre de volumes 2026–2027.
+1. <strong>Supercycle de l'infrastructure IA :</strong> Les dépenses d'investissement en centres de données des hyperscalers (Google, Microsoft, Meta, Amazon) restent élevées. La HBM constitue un goulet d'étranglement sous tension ; la capacité de Samsung à monter en puissance sur la HBM4 — la prochaine génération — la positionne favorablement pour la fenêtre de volumes 2026–2027.
 
-2. **Cycle haussier de la mémoire :** Après le brutal cycle baissier de 2022–2023, l'industrie de la mémoire est entrée dans une phase d'expansion des prix de vente moyens (ASP). Le T4 2025 a été qualifié en interne, dans notre pipeline d'analyse, de trimestre aux « résultats record », une thèse confirmée par la robustesse des données d'exportation coréennes en semiconducteurs et par les discussions d'accords à long terme (LTA) avec des clients ancrés.
+2. <strong>Cycle haussier de la mémoire :</strong> Après le brutal cycle baissier de 2022–2023, l'industrie de la mémoire est entrée dans une phase d'expansion des prix de vente moyens (ASP). Le T4 2025 a été qualifié en interne, dans notre pipeline d'analyse, de trimestre aux « résultats record », une thèse confirmée par la robustesse des données d'exportation coréennes en semiconducteurs et par les discussions d'accords à long terme (LTA) avec des clients ancrés.
 
-3. **Diversification en fonderie :** L'impératif géopolitique de développer des capacités de production de semiconducteurs hors de Taïwan a fait de Samsung Foundry un bénéficiaire de subventions gouvernementales et de discussions avec des clients-pivots américains et européens souhaitant diversifier leur dépendance à TSMC.
+3. <strong>Diversification en fonderie :</strong> L'impératif géopolitique de développer des capacités de production de semiconducteurs hors de Taïwan a fait de Samsung Foundry un bénéficiaire de subventions gouvernementales et de discussions avec des clients-pivots américains et européens souhaitant diversifier leur dépendance à TSMC.
 
 ### Position sur le marché par rapport aux pairs mondiaux
 
@@ -67,23 +67,23 @@ Samsung rapporte ses résultats selon quatre grandes divisions. Sur la base des 
 
 ### Segments de revenus (approximatifs, d'après les derniers trimestres reportés)
 
-- **DS (Device Solutions) :** Semiconducteurs — DRAM, NAND, HBM, System LSI (Exynos), Fonderie. Il s'agit du segment aux marges les plus élevées et à la volatilité la plus forte, principal moteur de la thèse d'investissement actuelle. Il représente environ 40 à 50 % du chiffre d'affaires consolidé, mais une part disproportionnée du résultat opérationnel en phase de cycle haussier.
+- <strong>DS (Device Solutions) :</strong> Semiconducteurs — DRAM, NAND, HBM, System LSI (Exynos), Fonderie. Il s'agit du segment aux marges les plus élevées et à la volatilité la plus forte, principal moteur de la thèse d'investissement actuelle. Il représente environ 40 à 50 % du chiffre d'affaires consolidé, mais une part disproportionnée du résultat opérationnel en phase de cycle haussier.
 
-- **MX (Mobile eXperience) :** Smartphones Galaxy (gammes S, Z pliables, A), tablettes, wearables (Galaxy Watch, Buds). La plus grande activité mondiale de smartphones en volume unitaire. Contribution aux revenus \~30–35 % ; les marges sont plus faibles mais très stables.
+- <strong>MX (Mobile eXperience) :</strong> Smartphones Galaxy (gammes S, Z pliables, A), tablettes, wearables (Galaxy Watch, Buds). La plus grande activité mondiale de smartphones en volume unitaire. Contribution aux revenus \~30–35 % ; les marges sont plus faibles mais très stables.
 
-- **VD/DA (Visual Display / Digital Appliances) :** Téléviseurs (Samsung est numéro un mondial sur le segment premium), électroménager. Marges plus faibles, génération de trésorerie régulière.
+- <strong>VD/DA (Visual Display / Digital Appliances) :</strong> Téléviseurs (Samsung est numéro un mondial sur le segment premium), électroménager. Marges plus faibles, génération de trésorerie régulière.
 
-- **SDC (Samsung Display Corporation) :** Dalles OLED fournies à Apple (iPhone), Samsung Mobile et d'autres OEM. Un centre de profit critique, souvent sous-estimé.
+- <strong>SDC (Samsung Display Corporation) :</strong> Dalles OLED fournies à Apple (iPhone), Samsung Mobile et d'autres OEM. Un centre de profit critique, souvent sous-estimé.
 
-- **Harman :** Technologies pour véhicules connectés, audio professionnel (JBL, Harman Kardon). Acquis en 2017 ; une activité à optionalité de croissance dans les domaines EV et logiciels automobiles.
+- <strong>Harman :</strong> Technologies pour véhicules connectés, audio professionnel (JBL, Harman Kardon). Acquis en 2017 ; une activité à optionalité de croissance dans les domaines EV et logiciels automobiles.
 
 ### Principaux moteurs de croissance (12 à 24 prochains mois)
 
-1. **Montée en volume de la HBM4 :** Le développement de la HBM4 par Samsung est réputé dans les délais, avec des discussions d'approvisionnement avec des clients IA ancrés déjà en cours début 2026. Une qualification réussie chez Nvidia et d'autres fabricants de GPU hyperscalers permettrait de combler l'écart HBM face à SK Hynix et de revaloriser le profil de marges de la division DS.
+1. <strong>Montée en volume de la HBM4 :</strong> Le développement de la HBM4 par Samsung est réputé dans les délais, avec des discussions d'approvisionnement avec des clients IA ancrés déjà en cours début 2026. Une qualification réussie chez Nvidia et d'autres fabricants de GPU hyperscalers permettrait de combler l'écart HBM face à SK Hynix et de revaloriser le profil de marges de la division DS.
 
-2. **Expansion des ASP DRAM généraliste / eSSD :** Le supercycle IA ne se limite pas à la HBM. La demande en DRAM serveur DDR5 et en SSD d'entreprise (eSSD) pour l'infrastructure d'inférence élargit la base de revenus au-delà du segment premium HBM. Ce socle de revenus mémoire « à large fossé » offre un plancher de résultats plus durable.
+2. <strong>Expansion des ASP DRAM généraliste / eSSD :</strong> Le supercycle IA ne se limite pas à la HBM. La demande en DRAM serveur DDR5 et en SSD d'entreprise (eSSD) pour l'infrastructure d'inférence élargit la base de revenus au-delà du segment premium HBM. Ce socle de revenus mémoire « à large fossé » offre un plancher de résultats plus durable.
 
-3. **Galaxy AI & revalorisation du mix premium :** La gamme Galaxy S25 et la ligne Z Fold/Flip ont misé sur les fonctionnalités d'IA embarquée comme différenciateur premium. Si cela entraîne une amélioration durable des ASP dans le segment MX, cela constitue un levier de marge que les analystes ont historiquement sous-modélisé.
+3. <strong>Galaxy AI & revalorisation du mix premium :</strong> La gamme Galaxy S25 et la ligne Z Fold/Flip ont misé sur les fonctionnalités d'IA embarquée comme différenciateur premium. Si cela entraîne une amélioration durable des ASP dans le segment MX, cela constitue un levier de marge que les analystes ont historiquement sous-modélisé.
 
 ### Profil de marges
 
@@ -139,7 +139,7 @@ Le P/B de Samsung proche de la valeur comptable est historiquement bas à toute 
 
 Par rapport à sa propre historique, le titre à KRW 206 500 (au 14 avril 2026) reflète une reprise significative par rapport aux récents points bas (+33,99 % par rapport au coût de revient interne selon nos données de pipeline), suggérant que la première phase de revalorisation est peut-être déjà en cours. La question de savoir si la deuxième phase nécessite une récupération visible de parts de marché HBM est au cœur du débat entre analystes.
 
-**Samsung Electronics est-elle bon marché ?** Par rapport aux standards mondiaux des semiconducteurs, oui. Par rapport à sa propre historique, elle se situe dans une zone intermédiaire — au-dessus du creux de valorisation profonde de 2022–2023, mais en-deçà de la prime exubérante du pic du cycle 2021. La thèse valeur est conditionnelle à la matérialisation de l'exécution HBM.
+<strong>Samsung Electronics est-elle bon marché ?</strong> Par rapport aux standards mondiaux des semiconducteurs, oui. Par rapport à sa propre historique, elle se situe dans une zone intermédiaire — au-dessus du creux de valorisation profonde de 2022–2023, mais en-deçà de la prime exubérante du pic du cycle 2021. La thèse valeur est conditionnelle à la matérialisation de l'exécution HBM.
 
 ---
 
@@ -147,7 +147,7 @@ Par rapport à sa propre historique, le titre à KRW 206 500 (au 14 avril 2026) 
 
 ### ADR / GDR
 
-Samsung Electronics **ne dispose pas** d'un programme ADR parrainé aux États-Unis. Cependant, le titre est coté en **OTC pink sheet** sous le ticker **SSNLF** (actions ordinaires) et **SSNNF** (actions de préférence) aux États-Unis, bien que la liquidité soit limitée et les spreads potentiellement larges. Pour une exposition significative, la négociation directe sur la Korea Exchange (KRX) est fortement préférable.
+Samsung Electronics <strong>ne dispose pas</strong> d'un programme ADR parrainé aux États-Unis. Cependant, le titre est coté en <strong>OTC pink sheet</strong> sous le ticker <strong>SSNLF</strong> (actions ordinaires) et <strong>SSNNF</strong> (actions de préférence) aux États-Unis, bien que la liquidité soit limitée et les spreads potentiellement larges. Pour une exposition significative, la négociation directe sur la Korea Exchange (KRX) est fortement préférable.
 
 ### Principaux ETF détenant Samsung Electronics
 
@@ -165,27 +165,27 @@ EWY est de loin le véhicule mono-pays le plus populaire pour les investisseurs 
 
 ### Notes pratiques pour les investisseurs étrangers
 
-1. **Règlement :** Les transactions sur la KRX se règlent à J+2 en won coréen (KRW). Les investisseurs étrangers ont besoin d'un Certificat d'Enregistrement d'Investissement Étranger (IRC) via une banque dépositaire locale. La plupart des courtiers internationaux (Interactive Brokers, Fidelity International) peuvent faciliter cette démarche.
+1. <strong>Règlement :</strong> Les transactions sur la KRX se règlent à J+2 en won coréen (KRW). Les investisseurs étrangers ont besoin d'un Certificat d'Enregistrement d'Investissement Étranger (IRC) via une banque dépositaire locale. La plupart des courtiers internationaux (Interactive Brokers, Fidelity International) peuvent faciliter cette démarche.
 
-2. **Change :** Tous les dividendes et produits de cession sont versés en KRW. Les investisseurs étrangers doivent gérer leur exposition USD/KRW. Le won a connu une certaine volatilité (plage 1 400–1 500 en 2025–2026) ; cette composante FX peut affecter sensiblement les rendements libellés en dollars.
+2. <strong>Change :</strong> Tous les dividendes et produits de cession sont versés en KRW. Les investisseurs étrangers doivent gérer leur exposition USD/KRW. Le won a connu une certaine volatilité (plage 1 400–1 500 en 2025–2026) ; cette composante FX peut affecter sensiblement les rendements libellés en dollars.
 
-3. **Documents officiels :** Les documents de relations investisseurs officiels de Samsung, les dépôts DART (disponibles sur [dart.fss.or.kr](https://dart.fss.or.kr)) et les retranscriptions de conférences téléphoniques de résultats sont publiés en coréen et en anglais. La société dispose d'une page de relations investisseurs en anglais et participe aux principales conférences mondiales dédiées aux investisseurs technologiques.
+3. <strong>Documents officiels :</strong> Les documents de relations investisseurs officiels de Samsung, les dépôts DART (disponibles sur [dart.fss.or.kr](https://dart.fss.or.kr)) et les retranscriptions de conférences téléphoniques de résultats sont publiés en coréen et en anglais. La société dispose d'une page de relations investisseurs en anglais et participe aux principales conférences mondiales dédiées aux investisseurs technologiques.
 
-4. **Actions de préférence :** Les actions de préférence de Samsung (005935.KS) se négocient avec une décote par rapport aux actions ordinaires et versent un dividende plus élevé. Elles ne donnent pas droit de vote, mais constituent une alternative intéressante axée sur le revenu. La décote par rapport aux ordinaires oscille généralement entre 10 et 20 %.
+4. <strong>Actions de préférence :</strong> Les actions de préférence de Samsung (005935.KS) se négocient avec une décote par rapport aux actions ordinaires et versent un dividende plus élevé. Elles ne donnent pas droit de vote, mais constituent une alternative intéressante axée sur le revenu. La décote par rapport aux ordinaires oscille généralement entre 10 et 20 %.
 
-5. **Rémunération des actionnaires :** Samsung dispose d'un cadre de retour de capital déclaré, incluant dividendes et rachats d'actions. Il est indispensable de surveiller les publications de résultats trimestriels et les annonces annuelles de retour aux actionnaires via le système de publication de la KRX.
+5. <strong>Rémunération des actionnaires :</strong> Samsung dispose d'un cadre de retour de capital déclaré, incluant dividendes et rachats d'actions. Il est indispensable de surveiller les publications de résultats trimestriels et les annonces annuelles de retour aux actionnaires via le système de publication de la KRX.
 
 ---
 
 ## Questions-Réponses : Ce que les investisseurs demandent sur Samsung Electronics
 
-**Samsung Electronics est-il un bon investissement ?**
+<strong>Samsung Electronics est-il un bon investissement ?</strong>
 Cette analyse ne constitue pas un conseil en investissement. Ce que nous pouvons dire, c'est que Samsung se situe à l'intersection du supercycle de la mémoire IA, du leadership mondial sur le smartphone et d'une stratégie fonderie ambitieuse, à une valorisation historiquement décotée par rapport à ses pairs mondiaux dans les semiconducteurs. La qualité de la thèse d'investissement dépend largement de l'exécution sur la HBM4 et du rythme du cycle haussier de la mémoire.
 
-**Comment acheter des actions Samsung Electronics ?**
+<strong>Comment acheter des actions Samsung Electronics ?</strong>
 Les investisseurs internationaux peuvent accéder à Samsung via : (1) un achat direct sur la KRX par un courtier offrant un accès au marché coréen, (2) les marchés OTC américains (SSNLF, liquidité limitée), ou (3) des ETF tels que EWY. L'accès direct à la KRX offre la meilleure liquidité et la meilleure formation des prix.
 
-**Quelle est la stratégie HBM de Samsung ?**
+<strong>Quelle est la stratégie HBM de Samsung ?</strong>
 Samsung est le premier producteur mondial de DRAM et s'efforce de reconquérir le leadership sur la HBM (High-Bandwidth Memory), la mémoire empilée utilisée dans les GPU d'IA. Il a perdu du terrain face à SK Hynix sur la génération HBM3E, mais investit massivement dans le développement du procédé HBM4. Des accords à long terme avec des clients en matériel IA seraient en cours de discussion début 2026, selon notre pipeline de veille.
 
 ---

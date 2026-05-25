@@ -19,20 +19,20 @@ tags:
   - "actions coréennes"
 ---
 
-> 🔗 **Lectures associées** : [Pamicell Partie 3 — Confirmation des résultats 1T26](/post/pamicell-1q26-earnings-confirmation-2026-05-12/) · [Rejuran — PharmaResearch PN Skin Booster](/post/rejuran-owner-pharmaresearch-pn-technology-skin-booster-2026-04-27/) · [Easy Bio Partie 1](/post/easybio-north-america-feed-additive-rollup-2026-05-07/) · [Easy Bio Partie 2](/post/easybio-anpario-phibro-discount-1q-checkpoint-2026-05-09/) · [Sélection ROE 25 % — 4 valeurs qui passent 9 filtres](/post/roe-25-screening-only-four-pass-2026-05-07/)
+> 🔗 <strong>Lectures associées</strong> : [Pamicell Partie 3 — Confirmation des résultats 1T26](/post/pamicell-1q26-earnings-confirmation-2026-05-12/) · [Rejuran — PharmaResearch PN Skin Booster](/post/rejuran-owner-pharmaresearch-pn-technology-skin-booster-2026-04-27/) · [Easy Bio Partie 1](/post/easybio-north-america-feed-additive-rollup-2026-05-07/) · [Easy Bio Partie 2](/post/easybio-anpario-phibro-discount-1q-checkpoint-2026-05-09/) · [Sélection ROE 25 % — 4 valeurs qui passent 9 filtres](/post/roe-25-screening-only-four-pass-2026-05-07/)
 
-*La biotech coréenne n'est pas en régime d'achat large en ce moment. C'est un régime de sélection où seules les valeurs validées par les données, les BD, les royalties ou le CDMO fonctionnent. La fin mai concentre l'ASCO (29 mai-2 juin), l'EASL (27-30 mai) et les publications de résumés EHA (12 mai / 2 juin) dans une même fenêtre. Le principe fondamental est simple — vous n'achetez pas une probabilité de succès clinique. Vous achetez **l'écart entre la probabilité de succès implicite dans le marché et votre propre estimation**.*
+*La biotech coréenne n'est pas en régime d'achat large en ce moment. C'est un régime de sélection où seules les valeurs validées par les données, les BD, les royalties ou le CDMO fonctionnent. La fin mai concentre l'ASCO (29 mai-2 juin), l'EASL (27-30 mai) et les publications de résumés EHA (12 mai / 2 juin) dans une même fenêtre. Le principe fondamental est simple — vous n'achetez pas une probabilité de succès clinique. Vous achetez <strong>l'écart entre la probabilité de succès implicite dans le marché et votre propre estimation</strong>.*
 
 ---
 
 ## Résumé
 
-* **Le secteur est en régime de sélection, pas en régime d'achat large.** Les catalyseurs de conférences, les changements réglementaires mondiaux et la réflexivité du positionnement spécifique à la Corée interagissent tous dans la même fenêtre.
-* **Les données de conférence de fin mai constituent la première fenêtre de fixation des prix.** Les résumés généraux ASCO sont publiés le 21 mai à 17h00 ET (22 mai à 06h00 KST) ; le congrès se tient du 29 mai au 2 juin. EASL du 27 au 30 mai. Les résumés généraux EHA le 12 mai à 22h30 KST, les late-breakers le 2 juin à 22h30 KST.
-* **Cinq thèses simultanées.** (1) BD en oncologie — LegoChem Bio, Voronoi, GI Innovation, Lunit ; (2) Histologie MASH à 48 semaines — D&D Pharmatech DD01 ; (3) Royalties de conversion SC — Alteogen ; (4) CDMO + biosimilaires — Samsung Biologics, Celltrion ; (5) Option longue sur l'innovation réglementaire FDA.
-* **La plus grande erreur de valorisation du marché est « acceptation d'un résumé ≠ qualité des données ».** Le taux de réponse objective, la survie sans progression, la survie globale, la durée de réponse, les effets indésirables de grade 3/4, les taux d'arrêt et les sous-groupes définis par biomarqueurs déterminent l'évolution du prix après publication.
-* **La liste des valeurs à éviter est claire.** Les valeurs déjà en hausse sur la seule acceptation d'un résumé, les valeurs avec uniquement un discours préclinique / plateforme sans données humaines, les valeurs avec une trésorerie courte et un important encours CB/BW, les valeurs qui recyclent un « intérêt de big pharma mondial » sans partenaires ni paiements initiaux, les valeurs qui entrent dans les flux ETF biotech en vogue.
-* **Discipline fondamentale.** Ne croyez pas la technologie ; croyez les données et la trésorerie disponible.
+* <strong>Le secteur est en régime de sélection, pas en régime d'achat large.</strong> Les catalyseurs de conférences, les changements réglementaires mondiaux et la réflexivité du positionnement spécifique à la Corée interagissent tous dans la même fenêtre.
+* <strong>Les données de conférence de fin mai constituent la première fenêtre de fixation des prix.</strong> Les résumés généraux ASCO sont publiés le 21 mai à 17h00 ET (22 mai à 06h00 KST) ; le congrès se tient du 29 mai au 2 juin. EASL du 27 au 30 mai. Les résumés généraux EHA le 12 mai à 22h30 KST, les late-breakers le 2 juin à 22h30 KST.
+* <strong>Cinq thèses simultanées.</strong> (1) BD en oncologie — LegoChem Bio, Voronoi, GI Innovation, Lunit ; (2) Histologie MASH à 48 semaines — D&D Pharmatech DD01 ; (3) Royalties de conversion SC — Alteogen ; (4) CDMO + biosimilaires — Samsung Biologics, Celltrion ; (5) Option longue sur l'innovation réglementaire FDA.
+* <strong>La plus grande erreur de valorisation du marché est « acceptation d'un résumé ≠ qualité des données ».</strong> Le taux de réponse objective, la survie sans progression, la survie globale, la durée de réponse, les effets indésirables de grade 3/4, les taux d'arrêt et les sous-groupes définis par biomarqueurs déterminent l'évolution du prix après publication.
+* <strong>La liste des valeurs à éviter est claire.</strong> Les valeurs déjà en hausse sur la seule acceptation d'un résumé, les valeurs avec uniquement un discours préclinique / plateforme sans données humaines, les valeurs avec une trésorerie courte et un important encours CB/BW, les valeurs qui recyclent un « intérêt de big pharma mondial » sans partenaires ni paiements initiaux, les valeurs qui entrent dans les flux ETF biotech en vogue.
+* <strong>Discipline fondamentale.</strong> Ne croyez pas la technologie ; croyez les données et la trésorerie disponible.
 
 ---
 
@@ -42,7 +42,7 @@ tags:
 
 L'ASCO 2026 se tient du 29 mai au 2 juin. Les résumés généraux sont publiés le 21 mai à 17h00 ET — 22 mai à 06h00 KST. Le Congrès EASL 2026 se tient du 27 au 30 mai à Barcelone et en ligne.
 
-La fin mai est la fenêtre où **les données en oncologie (ASCO) et en fibrose hépatique / MASH (EASL) arrivent dans la même semaine**. Les 1 à 2 semaines entre la publication des résumés et la présentation en séance plénière constituent la première fenêtre de fixation des prix pour les valeurs biotech coréennes liées à un événement.
+La fin mai est la fenêtre où <strong>les données en oncologie (ASCO) et en fibrose hépatique / MASH (EASL) arrivent dans la même semaine</strong>. Les 1 à 2 semaines entre la publication des résumés et la présentation en séance plénière constituent la première fenêtre de fixation des prix pour les valeurs biotech coréennes liées à un événement.
 
 ### 1.2 Évolution de l'environnement réglementaire mondial
 
@@ -52,7 +52,7 @@ En avril 2026, la FDA a annoncé l'initiative d'essais cliniques en temps réel 
 
 ### 1.3 Réflexivité du positionnement sur le marché coréen
 
-KRX Data Marketplace publie des données sur les ventes à découvert, les flux et les segments d'investisseurs, et les ventes à découvert en Corée ont été réactivées depuis le 31 mars 2025. Les valeurs biotech coréennes liées à des événements voient **les ventes à découvert, les prêts de titres, les flux ETF et la surchauffe du commerce de détail amplifier la volatilité**. L'analyse des données et l'analyse des flux ne peuvent pas être séparées pour que la classe d'actifs ait un sens.
+KRX Data Marketplace publie des données sur les ventes à découvert, les flux et les segments d'investisseurs, et les ventes à découvert en Corée ont été réactivées depuis le 31 mars 2025. Les valeurs biotech coréennes liées à des événements voient <strong>les ventes à découvert, les prêts de titres, les flux ETF et la surchauffe du commerce de détail amplifier la volatilité</strong>. L'analyse des données et l'analyse des flux ne peuvent pas être séparées pour que la classe d'actifs ait un sens.
 
 ---
 
@@ -62,11 +62,11 @@ KRX Data Marketplace publie des données sur les ventes à découvert, les flux 
 
 | Thèse | Mécanisme | Valeurs représentatives |
 |---|---|---|
-| **Données → BD** | Les données d'essai réévaluent l'optionnalité de licence big pharma | LegoChem Bio, Voronoi, GI Innovation |
-| **Binaire spécifique à la maladie** | Une seule lecture décale l'ensemble de la valeur des capitaux propres | D&D Pharmatech, Yuhan MASH en lecture transversale |
-| **Infrastructure royalties** | Structure de royalties répétable, pas un succès sur un seul essai | Alteogen |
-| **Bio à flux de trésorerie** | Les revenus réels / commandes / taux d'utilisation protègent la valorisation | Samsung Biologics, Celltrion, ligne Samsung Bioepis |
-| **Option sur l'innovation réglementaire FDA** | Optionnalité à long terme sur la valeur-temps du développement clinique | Valeurs avec une infrastructure clinique aux États-Unis |
+| <strong>Données → BD</strong> | Les données d'essai réévaluent l'optionnalité de licence big pharma | LegoChem Bio, Voronoi, GI Innovation |
+| <strong>Binaire spécifique à la maladie</strong> | Une seule lecture décale l'ensemble de la valeur des capitaux propres | D&D Pharmatech, Yuhan MASH en lecture transversale |
+| <strong>Infrastructure royalties</strong> | Structure de royalties répétable, pas un succès sur un seul essai | Alteogen |
+| <strong>Bio à flux de trésorerie</strong> | Les revenus réels / commandes / taux d'utilisation protègent la valorisation | Samsung Biologics, Celltrion, ligne Samsung Bioepis |
+| <strong>Option sur l'innovation réglementaire FDA</strong> | Optionnalité à long terme sur la valeur-temps du développement clinique | Valeurs avec une infrastructure clinique aux États-Unis |
 
 ### 2.2 La liste des valeurs à éviter
 
@@ -98,7 +98,7 @@ Q = patients / expansion d'indication / conversion des prescriptions / carnet de
 C = coût des essais / coût des marchandises / coût de dilution / coût du temps
 ```
 
-La discipline : **séparer technologie → essais → réglementation → commercialisation → prix sur le marché public**. La bonne science n'est pas synonyme d'une bonne action. Le mode d'échec récurrent dans la biotech coréenne n'est pas une incapacité à comprendre la science — c'est une incapacité à valoriser la maturité des données et le risque de financement.
+La discipline : <strong>séparer technologie → essais → réglementation → commercialisation → prix sur le marché public</strong>. La bonne science n'est pas synonyme d'une bonne action. Le mode d'échec récurrent dans la biotech coréenne n'est pas une incapacité à comprendre la science — c'est une incapacité à valoriser la maturité des données et le risque de financement.
 
 ---
 
@@ -125,7 +125,7 @@ Lunit présenterait apparemment 5 résumés basés sur la plateforme Lunit SCOPE
 
 ### 4.3 Variable d'erreur de valorisation du marché
 
-Le marché surpondère « l'acceptation du résumé » et sous-pondère **la qualité des données**. Ce qui compte réellement : taux de réponse objective, survie sans progression, survie globale, durée de réponse, effets indésirables de grade 3/4, taux d'arrêt, relation dose-réponse, sous-groupes définis par biomarqueurs.
+Le marché surpondère « l'acceptation du résumé » et sous-pondère <strong>la qualité des données</strong>. Ce qui compte réellement : taux de réponse objective, survie sans progression, survie globale, durée de réponse, effets indésirables de grade 3/4, taux d'arrêt, relation dose-réponse, sous-groupes définis par biomarqueurs.
 
 ### 4.4 Contre-argumentation
 
@@ -140,7 +140,7 @@ Le marché surpondère « l'acceptation du résumé » et sous-pondère **la qua
 
 ### 5.1 Logique fondamentale
 
-Le MASH (stéato-hépatite associée à un dysfonctionnement métabolique) est l'alpha de suivi après l'obésité / les GLP-1. Dans le MASH, le moteur de valeur n'est pas la perte de poids ou la graisse hépatique — c'est **l'amélioration de la fibrose confirmée par biopsie et la résolution du MASH**.
+Le MASH (stéato-hépatite associée à un dysfonctionnement métabolique) est l'alpha de suivi après l'obésité / les GLP-1. Dans le MASH, le moteur de valeur n'est pas la perte de poids ou la graisse hépatique — c'est <strong>l'amélioration de la fibrose confirmée par biopsie et la résolution du MASH</strong>.
 
 Le Congrès EASL 2026 se tient du 27 au 30 mai. Pour les investisseurs coréens, l'événement à plus fort impact est D&D Pharmatech DD01.
 
@@ -157,7 +157,7 @@ D&D Pharmatech a indiqué que le jeu de données de patients de la Phase 2 DD01 
 
 ### 5.3 Variable d'erreur de valorisation du marché
 
-Le marché sur-réagit aux GLP-1 en tant que catégorie. Le vrai point d'investissement pour DD01 n'est pas le thème GLP-1 — c'est **de savoir si l'amélioration histologique du MASH se matérialise**.
+Le marché sur-réagit aux GLP-1 en tant que catégorie. Le vrai point d'investissement pour DD01 n'est pas le thème GLP-1 — c'est <strong>de savoir si l'amélioration histologique du MASH se matérialise</strong>.
 
 ### 5.4 Contre-argumentation
 
@@ -171,11 +171,11 @@ Le marché sur-réagit aux GLP-1 en tant que catégorie. Le vrai point d'investi
 
 ### 6.1 Logique fondamentale
 
-La plateforme de conversion SC (sous-cutanée) de type Alteogen diffère de la biotech clinique conventionnelle. La valeur ne provient pas de la probabilité de succès clinique d'un médicament — elle provient de **la capture en tant que royalties de la valeur économique de la commodité d'administration, du débit des cliniques et des économies de temps de perfusion lorsque les formulations IV se convertissent en SC**.
+La plateforme de conversion SC (sous-cutanée) de type Alteogen diffère de la biotech clinique conventionnelle. La valeur ne provient pas de la probabilité de succès clinique d'un médicament — elle provient de <strong>la capture en tant que royalties de la valeur économique de la commodité d'administration, du débit des cliniques et des économies de temps de perfusion lorsque les formulations IV se convertissent en SC</strong>.
 
 ### 6.2 Erreur de valorisation du marché
 
-Le marché tend à lire Alteogen comme un thème sur un seul médicament (Keytruda SC). La variable qui compte réellement est **de savoir si la plateforme de conversion SC est répétable**. Au fur et à mesure que les données de conversion des prescriptions en conditions réelles s'accumulent, Alteogen passe de « bio mono-événement » à « DCF royalties ».
+Le marché tend à lire Alteogen comme un thème sur un seul médicament (Keytruda SC). La variable qui compte réellement est <strong>de savoir si la plateforme de conversion SC est répétable</strong>. Au fur et à mesure que les données de conversion des prescriptions en conditions réelles s'accumulent, Alteogen passe de « bio mono-événement » à « DCF royalties ».
 
 ### 6.3 Contre-argumentation
 
@@ -189,7 +189,7 @@ Le marché tend à lire Alteogen comme un thème sur un seul médicament (Keytru
 
 ### 7.1 Logique fondamentale
 
-Le CDMO (développement et fabrication sous contrat) et les biosimilaires sont plus défensifs que la biotech événementielle. Mais ils ne sont pas seulement défensifs — ils constituent **un axe de croissance structurelle combinant la chaîne d'approvisionnement biopharma mondiale, la déréglementation FDA et la confiance dans la qualité de fabrication**.
+Le CDMO (développement et fabrication sous contrat) et les biosimilaires sont plus défensifs que la biotech événementielle. Mais ils ne sont pas seulement défensifs — ils constituent <strong>un axe de croissance structurelle combinant la chaîne d'approvisionnement biopharma mondiale, la déréglementation FDA et la confiance dans la qualité de fabrication</strong>.
 
 Le chiffre d'affaires CDMO du 1T26 de Samsung Biologics s'est établi à 1 257,1 milliards de KRW avec un résultat opérationnel de 580,8 milliards de KRW — la pleine utilisation des usines 1 à 4 plus l'exécution des projets a soutenu ces résultats.
 
@@ -197,7 +197,7 @@ Le projet de guidance FDA de mars 2026 sur la simplification des biosimilaires r
 
 ### 7.2 Erreur de valorisation du marché
 
-Le marché lit souvent le CDMO comme un positionnement « biotech défensif ». L'industrie réelle repose sur **la qualité + la livraison + la capacité + la confiance réglementaire** — les clients achètent « ne ratera pas la fabrication », pas « le prix le plus bas ».
+Le marché lit souvent le CDMO comme un positionnement « biotech défensif ». L'industrie réelle repose sur <strong>la qualité + la livraison + la capacité + la confiance réglementaire</strong> — les clients achètent « ne ratera pas la fabrication », pas « le prix le plus bas ».
 
 ### 7.3 Contre-argumentation
 
@@ -213,7 +213,7 @@ L'initiative d'essais cliniques en temps réel de la FDA vise à permettre la so
 
 Si le temps mort dans le développement clinique diminue, l'actualisation de la valeur-temps du rNPV peut s'assouplir. Mais il s'agit encore d'une réglementation en phase initiale. Les bénéficiaires réels sont très probablement les valeurs avec une infrastructure clinique aux États-Unis, une capacité de gestion des données et une bande passante réglementaire.
 
-**Contre-argumentation** : la portée du pilote peut être étroite ; les petites et moyennes capitalisations biotech coréennes ne seront probablement pas des adoptants précoces dans le pipeline temps réel FDA ; le changement de régime réduit le coût du temps mais n'augmente pas en soi la probabilité d'approbation.
+<strong>Contre-argumentation</strong> : la portée du pilote peut être étroite ; les petites et moyennes capitalisations biotech coréennes ne seront probablement pas des adoptants précoces dans le pipeline temps réel FDA ; le changement de régime réduit le coût du temps mais n'augmente pas en soi la probabilité d'approbation.
 
 ---
 
@@ -267,7 +267,7 @@ Prob. succès implicite =
   ÷ VAN non risquée de l'actif
 ```
 
-La raison pour laquelle c'est important est simple. Les actions biotech ne représentent pas une « forte probabilité de succès » — elles représentent **l'écart entre la probabilité de succès implicite dans le marché et votre propre estimation**.
+La raison pour laquelle c'est important est simple. Les actions biotech ne représentent pas une « forte probabilité de succès » — elles représentent <strong>l'écart entre la probabilité de succès implicite dans le marché et votre propre estimation</strong>.
 
 Exemple :
 
@@ -307,7 +307,7 @@ Si l'estimation interne est de 45 %, la valeur est sous-évaluée. À 15 %, elle
 | 2 | Rapports sell-side | Consensus et narratif de marché |
 | 3 | Actualités / IR / communauté | Sentiment / surchauffe |
 
-Date d'achèvement principale ClinicalTrials.gov = date de collecte finale des données pour le critère principal (dernier participant examiné / ayant reçu une intervention). En pratique, **le glissement de la date d'achèvement principale dans les registres est un signal plus fiable que les dates de « résultats attendus » communiquées par les entreprises**.
+Date d'achèvement principale ClinicalTrials.gov = date de collecte finale des données pour le critère principal (dernier participant examiné / ayant reçu une intervention). En pratique, <strong>le glissement de la date d'achèvement principale dans les registres est un signal plus fiable que les dates de « résultats attendus » communiquées par les entreprises</strong>.
 
 ---
 
@@ -344,35 +344,35 @@ Quand chaque thèse se brise, le signal est spécifique.
 
 ## 14. Conclusion
 
-La biotech coréenne en ce moment **n'est pas un marché où il faut « choisir de bonnes valeurs » — c'est un marché où il faut « choisir les valeurs dont les bonnes données ont été sous-évaluées par le marché »**. L'ASCO et l'EASL sont de puissants catalyseurs, mais acheter sur la seule acceptation d'un résumé est un trading événementiel de faible qualité.
+La biotech coréenne en ce moment <strong>n'est pas un marché où il faut « choisir de bonnes valeurs » — c'est un marché où il faut « choisir les valeurs dont les bonnes données ont été sous-évaluées par le marché »</strong>. L'ASCO et l'EASL sont de puissants catalyseurs, mais acheter sur la seule acceptation d'un résumé est un trading événementiel de faible qualité.
 
 D&D Pharmatech est le binaire le plus pur ; LegoChem Bio est la valeur paradigmatique d'optionnalité BD ; Alteogen est la plateforme royalties de la plus haute qualité. À l'inverse, les valeurs purement narratives en obésité / ADC / thérapie cellulaire et génique sans données réelles sont la liste des valeurs à éviter explicitement.
 
-La seule discipline qui compte dans ce secteur : **ne croyez pas la technologie ; croyez les données et la trésorerie disponible**. Les congrès de fin mai sont le premier point de vérification ; l'ADA de juin est le suivant. Les contrats de licence / partenariat / publications de suivi dans le mois qui suit les événements fixent le prix définitif.
+La seule discipline qui compte dans ce secteur : <strong>ne croyez pas la technologie ; croyez les données et la trésorerie disponible</strong>. Les congrès de fin mai sont le premier point de vérification ; l'ADA de juin est le suivant. Les contrats de licence / partenariat / publications de suivi dans le mois qui suit les événements fixent le prix définitif.
 
 ---
 
 ## FAQ
 
-**Q : Pourquoi D&D Pharmatech est-elle en première position ?**
+<strong>Q : Pourquoi D&D Pharmatech est-elle en première position ?</strong>
 R : Au Congrès EASL 2026 (27-30 mai), les données de Phase 2 DD01 à 48 semaines seront présentées comme résumé late-breaking. Le critère d'évaluation MASH qui compte le plus — l'amélioration de la fibrose hépatique confirmée par biopsie — est divulgué. De bonnes données déclenchent une réévaluation par rapport aux comparables MASH mondiaux ; des données faibles déclenchent une forte baisse. La structure binaire la plus pure de la cohorte.
 
-**Q : Pourquoi l'acceptation d'un résumé ASCO n'est-elle pas suffisante pour acheter ?**
+<strong>Q : Pourquoi l'acceptation d'un résumé ASCO n'est-elle pas suffisante pour acheter ?</strong>
 R : L'acceptation ne garantit pas la qualité des données. Ce qui compte réellement : taux de réponse objective, survie sans progression, survie globale, durée de réponse, effets indésirables de grade 3/4, arrêt, relation dose-réponse. Acheter uniquement sur l'acceptation conduit à vendre à l'annonce lorsque les données post-publication s'avèrent moyennes.
 
-**Q : En quoi Alteogen diffère-t-elle de la biotech clinique ?**
+<strong>Q : En quoi Alteogen diffère-t-elle de la biotech clinique ?</strong>
 R : La valeur d'Alteogen ne repose pas sur le succès clinique d'un médicament — elle repose sur la capture en tant que royalties de la valeur économique de la commodité d'administration et des améliorations de débit des cliniques lorsque les formulations IV se convertissent en SC. Au fur et à mesure que les données de conversion des prescriptions en conditions réelles s'accumulent, la valorisation peut passer de « bio mono-événement » à « DCF royalties ». Le risque d'événement binaire est structurellement plus faible.
 
-**Q : Pourquoi Samsung Biologics n'est-elle pas en première position ?**
+<strong>Q : Pourquoi Samsung Biologics n'est-elle pas en première position ?</strong>
 R : Les résultats du 1T26 sont solides (chiffre d'affaires 1 257,1 milliards KRW, résultat opérationnel 580,8 milliards KRW). Mais contrairement à la biotech événementielle, les catalyseurs de conférences à court terme sont limités. La valorisation, ainsi que le risque lié à la main-d'œuvre / qualité, doit être prise en compte. Le CDMO est un candidat à acheter « en faiblesse », pas à courir après.
 
-**Q : La déréglementation FDA est-elle un vent porteur immédiat ?**
+<strong>Q : La déréglementation FDA est-elle un vent porteur immédiat ?</strong>
 R : Option à long terme, effet à court terme limité. Les réductions de coûts des essais PK (jusqu'à 50 %, environ 20 M$) et l'initiative d'essais cliniques en temps réel sont positives pour le secteur mais les petites et moyennes capitalisations biotech coréennes ne seront probablement pas des bénéficiaires précoces. Les valeurs avec une infrastructure clinique aux États-Unis en bénéficient en premier.
 
-**Q : Comment calculer la probabilité de succès implicite dans le marché ?**
+<strong>Q : Comment calculer la probabilité de succès implicite dans le marché ?</strong>
 R : (VE actuelle − trésorerie nette − activité historique − autre pipeline) ÷ VAN non risquée de l'actif principal. Si ce ratio est inférieur à votre estimation interne, la valeur est sous-évaluée. L'exemple chiffré de la Section 10 montre VE 1 000 Mds + VAN actif principal 2 000 Mds → implicite 30 %.
 
-**Q : Quelles sources lire en premier ?**
+<strong>Q : Quelles sources lire en premier ?</strong>
 R : DART (informations), ClinicalTrials.gov (phase, critères d'évaluation, dates d'achèvement), résumés officiels de conférences (effectif de patients, sécurité, format), bases de données de brevets, KRX (ventes à découvert / prêts / flux par segment). Rapports sell-side pour le consensus ; actualités / IR pour la température du sentiment. Le glissement de la date d'achèvement principale dans les registres est un signal plus fiable que le calendrier de « résultats attendus » communiqué par les entreprises.
 
 ---

@@ -12,7 +12,7 @@ draft: false
 
 South Korea's Korea Exchange (KRX) observed Children's Day on May 5, leaving KOSPI and KOSDAQ closed for the session. For investors tracking Korean equities, that means no new price signals today — all position-level data reflects the May 4 close. What *did* move were the macro variables that will greet the market when it reopens on May 6.
 
-Three numbers define the overnight backdrop: WTI crude above **$105/barrel**, the US 30-year Treasury yield crossing **5%**, and the USD/KRW NDF rate hovering near **1,475**. Each of these complicates the bull case in different ways, and Korean equity investors will be watching how all three land in Wednesday's session.
+Three numbers define the overnight backdrop: WTI crude above <strong>$105/barrel</strong>, the US 30-year Treasury yield crossing <strong>5%</strong>, and the USD/KRW NDF rate hovering near <strong>1,475</strong>. Each of these complicates the bull case in different ways, and Korean equity investors will be watching how all three land in Wednesday's session.
 
 ---
 
@@ -28,9 +28,9 @@ The won's weakness near 1,475 vs. the dollar adds another layer. Korean exporter
 
 ## US Memory Stocks Flash a Green Signal
 
-While the broader Philadelphia Semiconductor Index (SOX) fell 0.57% on May 4, the memory sub-segment told a very different story. **Micron Technology (MU)** gained **6.31%** and **Western Digital/Sandisk** rose **5.80%** in US trading. These moves are directly relevant to Korea's two largest semiconductor names.
+While the broader Philadelphia Semiconductor Index (SOX) fell 0.57% on May 4, the memory sub-segment told a very different story. <strong>Micron Technology (MU)</strong> gained <strong>6.31%</strong> and <strong>Western Digital/Sandisk</strong> rose <strong>5.80%</strong> in US trading. These moves are directly relevant to Korea's two largest semiconductor names.
 
-**Samsung Electronics (005930.KS)**, South Korea's largest company by market cap and the world's leading DRAM and NAND Flash manufacturer, has been closely tracking global memory demand cycles. **Samsung Electro-Mechanics (009150.KS)**, its component-focused affiliate, supplies advanced substrates used in high-bandwidth memory (HBM) packaging stacks. Strong US memory momentum historically supports foreign and institutional co-buying in both names on KRX — a pattern investors will be testing when the market reopens.
+<strong>Samsung Electronics (005930.KS)</strong>, South Korea's largest company by market cap and the world's leading DRAM and NAND Flash manufacturer, has been closely tracking global memory demand cycles. <strong>Samsung Electro-Mechanics (009150.KS)</strong>, its component-focused affiliate, supplies advanced substrates used in high-bandwidth memory (HBM) packaging stacks. Strong US memory momentum historically supports foreign and institutional co-buying in both names on KRX — a pattern investors will be testing when the market reopens.
 
 HBM — High Bandwidth Memory, a stacked DRAM architecture critical for AI accelerator cards — has become the defining investment thesis in Korean semiconductors in 2025-2026. The Micron and Sandisk moves suggest that AI-driven memory demand remains intact despite broader semiconductor index softness.
 
@@ -50,8 +50,8 @@ Investors should treat this as a watch item, not a thesis driver. The stronger n
 
 The May 4 session produced several extreme single-day gains in Korea's power equipment sector, which has been one of KOSPI's strongest performing themes over the past 12 months.
 
-- **Jeryong Electric (033100.KS)**: +30.0% with top-tier 1-week relative strength. This company manufactures power transformers and switchgear, directly tied to Korea's grid modernization and data center electrification buildout.
-- **Bosung Powertech (006910.KS)**: +18.8% on volume 6x its average. The company is involved in nuclear and conventional power plant infrastructure.
+- <strong>Jeryong Electric (033100.KS)</strong>: +30.0% with top-tier 1-week relative strength. This company manufactures power transformers and switchgear, directly tied to Korea's grid modernization and data center electrification buildout.
+- <strong>Bosung Powertech (006910.KS)</strong>: +18.8% on volume 6x its average. The company is involved in nuclear and conventional power plant infrastructure.
 
 Moves of this magnitude, while reflecting genuine sector demand, carry reversion risk. Experienced Korean market participants — monitoring social channels including Facebook investing groups and Telegram trading rooms — were flagging short-term overheating signals heading into the holiday. The practical implication for May 6: the question is not whether the power infrastructure theme is valid (it is), but whether the recent vertical move is pricing in too much too soon. Watching for upper-wick candlestick formations and above-average volume on any early gains will help assess whether distribution is underway.
 
@@ -59,9 +59,9 @@ Moves of this magnitude, while reflecting genuine sector demand, carry reversion
 
 ## Broader Sector Rotation: What's Losing Ground
 
-Not every sector participated in the May 4 strength. **NAVER Corporation (035420.KS)**, South Korea's dominant internet search and e-commerce platform, has been facing consistent selling pressure from both foreign and institutional investors. NAVER's valuation is sensitive to long-duration discount rates — a vulnerability that the 30-year Treasury move above 5% amplifies directly.
+Not every sector participated in the May 4 strength. <strong>NAVER Corporation (035420.KS)</strong>, South Korea's dominant internet search and e-commerce platform, has been facing consistent selling pressure from both foreign and institutional investors. NAVER's valuation is sensitive to long-duration discount rates — a vulnerability that the 30-year Treasury move above 5% amplifies directly.
 
-**Kakao** and other domestic platform names face similar dynamics. The rotation away from platform stocks and toward hard asset-linked sectors (semiconductors, power, industrial) reflects a broader global trade: growth-at-any-price giving way to quality cyclicals with pricing power.
+<strong>Kakao</strong> and other domestic platform names face similar dynamics. The rotation away from platform stocks and toward hard asset-linked sectors (semiconductors, power, industrial) reflects a broader global trade: growth-at-any-price giving way to quality cyclicals with pricing power.
 
 ---
 
@@ -69,15 +69,15 @@ Not every sector participated in the May 4 strength. **NAVER Corporation (035420
 
 When KOSPI and KOSDAQ open Wednesday morning, these are the specific signals that will shape positioning:
 
-1. **Samsung Electronics and Samsung Electro-Mechanics foreign/institutional co-buying** — Does the US memory strength translate into continued joint buying from overseas funds and Korean institutions? Two consecutive days of co-buying would reinforce the uptrend; any reversal warrants caution.
+1. <strong>Samsung Electronics and Samsung Electro-Mechanics foreign/institutional co-buying</strong> — Does the US memory strength translate into continued joint buying from overseas funds and Korean institutions? Two consecutive days of co-buying would reinforce the uptrend; any reversal warrants caution.
 
-2. **Power sector behavior in early trading** — After 20-30% single-day moves, do stocks like Jeryong Electric and Bosung Powertech open strong and hold, or show early distribution? The latter would confirm a short-term top.
+2. <strong>Power sector behavior in early trading</strong> — After 20-30% single-day moves, do stocks like Jeryong Electric and Bosung Powertech open strong and hold, or show early distribution? The latter would confirm a short-term top.
 
-3. **USD/KRW spot open** — If the won gaps weaker past 1,480, risk appetite in domestic small-caps may compress quickly. Export-facing large caps would be relatively insulated.
+3. <strong>USD/KRW spot open</strong> — If the won gaps weaker past 1,480, risk appetite in domestic small-caps may compress quickly. Export-facing large caps would be relatively insulated.
 
-4. **Oil and long-end rates in Asian hours** — Any escalation in Hormuz-related news overnight could push WTI higher, adding pressure to high-multiple growth stocks while supporting energy-adjacent infrastructure names.
+4. <strong>Oil and long-end rates in Asian hours</strong> — Any escalation in Hormuz-related news overnight could push WTI higher, adding pressure to high-multiple growth stocks while supporting energy-adjacent infrastructure names.
 
-5. **NAVER institutional selling pace** — A slowdown in selling would suggest the derating is nearly complete; continued heavy selling keeps the stock on the avoid list.
+5. <strong>NAVER institutional selling pace</strong> — A slowdown in selling would suggest the derating is nearly complete; continued heavy selling keeps the stock on the avoid list.
 
 ---
 

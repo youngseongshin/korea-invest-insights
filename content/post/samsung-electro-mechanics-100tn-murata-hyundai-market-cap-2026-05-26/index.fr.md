@@ -17,11 +17,11 @@ slug: samsung-electro-mechanics-100tn-murata-hyundai-market-cap-2026-05-26
 
 ## Synthèse
 
-Samsung Electro-Mechanics n'est plus valorisée comme un simple fournisseur coréen de composants pour smartphones. A **1 340 000 wons** par action et **74 693 696** actions cotées, sa capitalisation atteint environ **100 100 milliards de wons**. Pour dépasser la capitalisation des actions ordinaires de Hyundai Motor, proche de **134 100 milliards de wons**, il faudrait un cours d'environ **1,80 million de wons**, soit **+34%**.
+Samsung Electro-Mechanics n'est plus valorisée comme un simple fournisseur coréen de composants pour smartphones. A <strong>1 340 000 wons</strong> par action et <strong>74 693 696</strong> actions cotées, sa capitalisation atteint environ <strong>100 100 milliards de wons</strong>. Pour dépasser la capitalisation des actions ordinaires de Hyundai Motor, proche de <strong>134 100 milliards de wons</strong>, il faudrait un cours d'environ <strong>1,80 million de wons</strong>, soit <strong>+34%</strong>.
 
-Murata montre que le plafond existe. Le groupe prévoit pour FY3/2027 un chiffre d'affaires de **1,96 billion de yens**, un résultat opérationnel de **380 milliards de yens** et une marge opérationnelle de **19,4%**. Les condensateurs et modules d'alimentation pour serveurs sont cités comme moteurs de croissance.
+Murata montre que le plafond existe. Le groupe prévoit pour FY3/2027 un chiffre d'affaires de <strong>1,96 billion de yens</strong>, un résultat opérationnel de <strong>380 milliards de yens</strong> et une marge opérationnelle de <strong>19,4%</strong>. Les condensateurs et modules d'alimentation pour serveurs sont cités comme moteurs de croissance.
 
-Pour Samsung Electro-Mechanics, le contrat de condensateurs silicium d'environ **1 500 milliards de wons** sur 2027-2028 est surtout une validation stratégique. Le composant entre dans les packages GPU/HBM des serveurs IA pour stabiliser l'alimentation. Ce n'est pas une ligne de revenu suffisante pour justifier seule 30 à 50 billions de wons de capitalisation supplémentaire, mais c'est un changement de catégorie.
+Pour Samsung Electro-Mechanics, le contrat de condensateurs silicium d'environ <strong>1 500 milliards de wons</strong> sur 2027-2028 est surtout une validation stratégique. Le composant entre dans les packages GPU/HBM des serveurs IA pour stabiliser l'alimentation. Ce n'est pas une ligne de revenu suffisante pour justifier seule 30 à 50 billions de wons de capitalisation supplémentaire, mais c'est un changement de catégorie.
 
 | Scénario | Chiffre d'affaires | Marge op. | Résultat op. | Capitalisation implicite |
 |---|---:|---:|---:|---:|
@@ -30,7 +30,7 @@ Pour Samsung Electro-Mechanics, le contrat de condensateurs silicium d'environ *
 | Trajectoire Murata | 22 tn KRW | 22% | 4,84 tn KRW | 145,2 tn KRW |
 | Extrême | 24 tn KRW | 25% | 6,0 tn KRW | 157,5 tn KRW |
 
-Conclusion : dépasser Hyundai est possible, mais le maintenir exige une trajectoire 2028 vers **4 000 milliards de wons** de résultat opérationnel et une marge groupe proche de 20%. La position reste **Watchlist / Wait**.
+Conclusion : dépasser Hyundai est possible, mais le maintenir exige une trajectoire 2028 vers <strong>4 000 milliards de wons</strong> de résultat opérationnel et une marge groupe proche de 20%. La position reste <strong>Watchlist / Wait</strong>.
 
 [1]: https://samsungsem.com/global/about-us/investor-relations/stock.do "Stocks | SAMSUNG ELECTRO-MECHANICS"
 [2]: https://samsungsem.com/global/newsroom/news/view.do?id=10310 "Samsung Electro-Mechanics Silicon Capacitor Contract"

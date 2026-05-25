@@ -21,22 +21,22 @@ valley_cashtags:
 draft: false
 ---
 
-> 📚 **Serie Pearl Abyss × Crimson Desert**
+> 📚 <strong>Serie Pearl Abyss × Crimson Desert</strong>
 > [Ventas Reconocidas en 1T y el Precipicio de 2027](/es/post/pearl-abyss-1q26-recognized-sales-2027-cliff-2026-05-17/) / [Datos del Fin de Semana del Parche 1.07](/es/post/pearl-abyss-crimson-desert-patch-107-weekend-data-2026-05-17/) / [Punto de Control IR del 21 de Mayo](/es/post/pearl-abyss-521-ir-capital-return-dlc-dokev-2026-05-12/) / [Lo Que Realmente Dicen los Comentarios sobre DLC](/es/post/pearl-abyss-dlc-package-to-franchise-rerating-2026-05-15/) / [Hub Pearl Abyss](/es/page/pearl-abyss-crimson-desert-hub/)
 
 *Pearl Abyss redujo de manera significativa las preocupaciones sobre el "precipicio del 2T" con sus resultados del 1T26 y la guía del 2T. Sin embargo, la acción continuó cayendo tras la publicación de resultados. La razón es clara: el mercado ha superado el 2T y ahora está descontando el precipicio de beneficios de 2027, la asignación de capital y la dinámica de flujo. La cinta de las últimas dos semanas no parece aún una reversión. Los extranjeros han regresado parcialmente desde las ventas forzadas del 13 de mayo, pero las instituciones no. Esto es una "prueba de suelo por flujo", no un "giro de flujo".*
 
 ## Resumen Clave
 
-* **El flujo de las últimas dos semanas no es aún un giro.** Del 4 al 18 de mayo de 2026, la acción cayó de ₩58.500 a ₩45.800, un descenso de aproximadamente **-21,7%**. Esto se parece menos a una corrección rutinaria y más a un reajuste de valoración post-1T.
-* **Tanto extranjeros como instituciones fueron vendedores netos durante las dos semanas completas.** Según Naver Finance, las ventas netas acumuladas del 4 al 18 de mayo fueron de -502.638 acciones para instituciones y -546.424 acciones para extranjeros, lo que se traduce en una contraprestación neta estimada de aproximadamente -₩26.400M y -₩30.100M respectivamente.
-* **Dicho esto, los extranjeros mostraron una reversión parcial tras el pánico del 13 de mayo.** Las compras netas fueron de +56.653 acciones el 14 de mayo, +206.722 el 15 de mayo y +65.936 el 18 de mayo. La reentrada extranjera a precios más bajos es un elemento positivo.
-* **El desglose institucional sigue viéndose débil.** Según la base de datos local de Research OS del 4 al 15 de mayo, las ventas institucionales estuvieron lideradas por casas de valores (-₩17.300M) y fondos privados (-₩7.500M). Los fondos de pensiones y las aseguradoras no han entrado de manera significativa; los fondos fiduciarios solo fueron marginalmente positivos en +₩900M.
-* **El trading de programas y las ventas en corto se han calmado, pero el riesgo del saldo de préstamos de acciones persiste.** El trading de programas pasó de -₩34.500M el 13 de mayo a +₩3.000M el 14 de mayo, +₩9.700M el 15 de mayo y +₩3.200M el 18 de mayo. La cuota de ventas en corto cayó del 19,26% al rango del 7%. Sin embargo, el saldo de préstamos de acciones continuó aumentando hasta el 15 de mayo.
-* **Nos encontramos actualmente en la etapa 3 de un proceso de 4 etapas.** La distribución y las ventas forzadas han quedado atrás; la compra extranjera a precios bajos y la normalización de programas han aparecido. Pero la reentrada institucional y la recuperación de tendencia aún no se han producido.
-* **La conclusión práctica es mantener y observar; las compras adicionales deben esperar.** Un giro de flujo genuino requiere mantener ₩45.500–₩46.000, recuperar ₩47.200, y ver a fondos fiduciarios, fondos de pensiones y aseguradoras añadir posiciones en el desglose institucional.
+* <strong>El flujo de las últimas dos semanas no es aún un giro.</strong> Del 4 al 18 de mayo de 2026, la acción cayó de ₩58.500 a ₩45.800, un descenso de aproximadamente <strong>-21,7%</strong>. Esto se parece menos a una corrección rutinaria y más a un reajuste de valoración post-1T.
+* <strong>Tanto extranjeros como instituciones fueron vendedores netos durante las dos semanas completas.</strong> Según Naver Finance, las ventas netas acumuladas del 4 al 18 de mayo fueron de -502.638 acciones para instituciones y -546.424 acciones para extranjeros, lo que se traduce en una contraprestación neta estimada de aproximadamente -₩26.400M y -₩30.100M respectivamente.
+* <strong>Dicho esto, los extranjeros mostraron una reversión parcial tras el pánico del 13 de mayo.</strong> Las compras netas fueron de +56.653 acciones el 14 de mayo, +206.722 el 15 de mayo y +65.936 el 18 de mayo. La reentrada extranjera a precios más bajos es un elemento positivo.
+* <strong>El desglose institucional sigue viéndose débil.</strong> Según la base de datos local de Research OS del 4 al 15 de mayo, las ventas institucionales estuvieron lideradas por casas de valores (-₩17.300M) y fondos privados (-₩7.500M). Los fondos de pensiones y las aseguradoras no han entrado de manera significativa; los fondos fiduciarios solo fueron marginalmente positivos en +₩900M.
+* <strong>El trading de programas y las ventas en corto se han calmado, pero el riesgo del saldo de préstamos de acciones persiste.</strong> El trading de programas pasó de -₩34.500M el 13 de mayo a +₩3.000M el 14 de mayo, +₩9.700M el 15 de mayo y +₩3.200M el 18 de mayo. La cuota de ventas en corto cayó del 19,26% al rango del 7%. Sin embargo, el saldo de préstamos de acciones continuó aumentando hasta el 15 de mayo.
+* <strong>Nos encontramos actualmente en la etapa 3 de un proceso de 4 etapas.</strong> La distribución y las ventas forzadas han quedado atrás; la compra extranjera a precios bajos y la normalización de programas han aparecido. Pero la reentrada institucional y la recuperación de tendencia aún no se han producido.
+* <strong>La conclusión práctica es mantener y observar; las compras adicionales deben esperar.</strong> Un giro de flujo genuino requiere mantener ₩45.500–₩46.000, recuperar ₩47.200, y ver a fondos fiduciarios, fondos de pensiones y aseguradoras añadir posiciones en el desglose institucional.
 
-Los datos cubren el período **del 4 al 18 de mayo de 2026**. Los datos de precio, flujo extranjero e institucional provienen de la base de datos local de Research OS y de la [página de flujo extranjero/institucional de Pearl Abyss en Naver Finance](https://finance.naver.com/item/frgn.naver?code=263750).
+Los datos cubren el período <strong>del 4 al 18 de mayo de 2026</strong>. Los datos de precio, flujo extranjero e institucional provienen de la base de datos local de Research OS y de la [página de flujo extranjero/institucional de Pearl Abyss en Naver Finance](https://finance.naver.com/item/frgn.naver?code=263750).
 
 ## 1. La Acción del Precio Señala un Reajuste de Valoración Post-Evento
 
@@ -62,7 +62,7 @@ El debate sobre los beneficios de Pearl Abyss ya ha avanzado un capítulo. El be
 
 > Los números de 2026 parecen sólidos. Pero, ¿se mantendrán los beneficios hasta 2027, y revertirán esos beneficios a los accionistas?
 
-Esta caída, por tanto, se entiende mejor no como una simple corrección de precio, sino como un período en el que **el descuento de beneficios máximos y el reposicionamiento de flujo ocurrieron simultáneamente**.
+Esta caída, por tanto, se entiende mejor no como una simple corrección de precio, sino como un período en el que <strong>el descuento de beneficios máximos y el reposicionamiento de flujo ocurrieron simultáneamente</strong>.
 
 ## 2. El Flujo Acumulado de Dos Semanas Sigue Siendo Negativo
 
@@ -239,9 +239,9 @@ Los niveles clave son ₩45.500–₩46.000 y ₩47.200. Mantener ₩45.500–�
 
 La conclusión práctica es simple.
 
-**Mantener y observar. Compras adicionales después de confirmar la recuperación de ₩47.200 y la mejora del desglose institucional.**
+<strong>Mantener y observar. Compras adicionales después de confirmar la recuperación de ₩47.200 y la mejora del desglose institucional.</strong>
 
-Ahora no es el momento de añadir agresivamente —es el momento de observar quién está absorbiendo la oferta post-pánico. La próxima reversión genuina para Pearl Abyss se vuelve más creíble cuando **compras extranjeras sostenidas + retorno del capital institucional de largo plazo + respuestas en el IR del 21 de mayo que rompan la narrativa del precipicio de 2027** lleguen todas juntas.
+Ahora no es el momento de añadir agresivamente —es el momento de observar quién está absorbiendo la oferta post-pánico. La próxima reversión genuina para Pearl Abyss se vuelve más creíble cuando <strong>compras extranjeras sostenidas + retorno del capital institucional de largo plazo + respuestas en el IR del 21 de mayo que rompan la narrativa del precipicio de 2027</strong> lleguen todas juntas.
 
 ---
 

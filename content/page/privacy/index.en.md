@@ -14,10 +14,10 @@ Korea Invest Insights publishes market commentary, research dashboards, and educ
 
 ### Information We Collect
 
-- **Basic visit data**: page views, referring pages, browser type, approximate geography, and timestamps may be collected through privacy-conscious analytics tools.
-- **Technical logs**: hosting providers such as GitHub Pages and Cloudflare may process IP addresses, user agents, and request metadata to deliver and secure the site.
-- **Comments and user-generated content**: blog comments may be handled through Giscus/GitHub. Memory Pulse comments may store a nickname, comment body, timestamp, language, page slug, and hashed IP/user-agent values for spam control. Raw IP addresses are not intentionally published.
-- **Voluntary messages**: if you contact us through Telegram, Substack, GitHub, or another channel, we may process the information you choose to send.
+- <strong>Basic visit data</strong>: page views, referring pages, browser type, approximate geography, and timestamps may be collected through privacy-conscious analytics tools.
+- <strong>Technical logs</strong>: hosting providers such as GitHub Pages and Cloudflare may process IP addresses, user agents, and request metadata to deliver and secure the site.
+- <strong>Comments and user-generated content</strong>: blog comments may be handled through Giscus/GitHub. Memory Pulse comments may store a nickname, comment body, timestamp, language, page slug, and hashed IP/user-agent values for spam control. Raw IP addresses are not intentionally published.
+- <strong>Voluntary messages</strong>: if you contact us through Telegram, Substack, GitHub, or another channel, we may process the information you choose to send.
 
 ### Cookies, Analytics, and Advertising
 

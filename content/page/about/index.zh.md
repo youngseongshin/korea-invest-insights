@@ -6,7 +6,7 @@ layout: "page"
 
 ## Korea Invest Insights
 
-由常驻首尔的专业投资人运营的**多语种韩国市场洞察博客**。面向缺乏韩国市场优质分析渠道的海外投资者，以**7种语言**发布每日分析。
+由常驻首尔的专业投资人运营的<strong>多语种韩国市场洞察博客</strong>。面向缺乏韩国市场优质分析渠道的海外投资者，以<strong>7种语言</strong>发布每日分析。
 
 ---
 
@@ -14,21 +14,21 @@ layout: "page"
 
 | 内容 | 频率 | 说明 |
 |------|------|------|
-| **每日市场情报** | 每个交易日 | 主题、催化剂、风险分析 |
-| **收盘报告** | 每个交易日 | 市场状态、板块强弱、重要新闻 |
-| **每周策略分析** | 每周五 | 多空分析、投资机会 |
-| **企业深度研究** | 每周2次 | 8大板块18家企业深度分析（4周轮换） |
+| <strong>每日市场情报</strong> | 每个交易日 | 主题、催化剂、风险分析 |
+| <strong>收盘报告</strong> | 每个交易日 | 市场状态、板块强弱、重要新闻 |
+| <strong>每周策略分析</strong> | 每周五 | 多空分析、投资机会 |
+| <strong>企业深度研究</strong> | 每周2次 | 8大板块18家企业深度分析（4周轮换） |
 
 ### 覆盖板块
 
-- **半导体/HBM** — SK海力士、三星电子
-- **K-Beauty** — Pharma Research（丽珠兰）、APR（Medicube）、科丝美诗、CJ（Olive Young）
-- **K-国防** — 韩华航空航天、LIG Nex1、韩华海洋
-- **游戏** — 珍珠深渊（红色沙漠）、Krafton（绝地求生）
-- **K-Food** — 三养食品（火鸡面）
-- **汽车/EV** — 现代汽车、起亚、现代摩比斯（波士顿动力）
-- **造船** — 三星重工、韩华海洋
-- **娱乐** — HYBE（BTS）、YG娱乐（BLACKPINK）
+- <strong>半导体/HBM</strong> — SK海力士、三星电子
+- <strong>K-Beauty</strong> — Pharma Research（丽珠兰）、APR（Medicube）、科丝美诗、CJ（Olive Young）
+- <strong>K-国防</strong> — 韩华航空航天、LIG Nex1、韩华海洋
+- <strong>游戏</strong> — 珍珠深渊（红色沙漠）、Krafton（绝地求生）
+- <strong>K-Food</strong> — 三养食品（火鸡面）
+- <strong>汽车/EV</strong> — 现代汽车、起亚、现代摩比斯（波士顿动力）
+- <strong>造船</strong> — 三星重工、韩华海洋
+- <strong>娱乐</strong> — HYBE（BTS）、YG娱乐（BLACKPINK）
 
 ### 支持语言
 
@@ -38,16 +38,16 @@ layout: "page"
 
 ### 订阅与关注
 
-- 📱 **Telegram**: [@korea_invest_insights](https://t.me/korea_invest_insights) — 新文章提醒
-- 📡 **RSS**: [订阅源](/zh/feed.xml)
+- 📱 <strong>Telegram</strong>: [@korea_invest_insights](https://t.me/korea_invest_insights) — 新文章提醒
+- 📡 <strong>RSS</strong>: [订阅源](/zh/feed.xml)
 
 ---
 
 ### 为什么关注韩国
 
-韩国是全球第10大经济体，也是**半导体（HBM）**、**电动车电池**、**国防出口**、**K-内容**领域的全球领军者。然而韩语和英语之外的高质量市场分析几乎不存在。
+韩国是全球第10大经济体，也是<strong>半导体（HBM）</strong>、<strong>电动车电池</strong>、<strong>国防出口</strong>、<strong>K-内容</strong>领域的全球领军者。然而韩语和英语之外的高质量市场分析几乎不存在。
 
-本博客以**本地专业投资人视角**分析韩国市场，通过AI驱动的翻译系统以7种语言同步发布。
+本博客以<strong>本地专业投资人视角</strong>分析韩国市场，通过AI驱动的翻译系统以7种语言同步发布。
 
 ---
 

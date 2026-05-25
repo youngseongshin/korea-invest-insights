@@ -12,16 +12,16 @@ draft: false
 
 | Indicateur | Valeur | Δ 5 jours | Signal |
 |------------|--------|-----------|--------|
-| **KOSPI** | 6 475,6 | +4,1 % | 📈 Haussier |
-| **KOSDAQ** | 1 203,8 | +2,5 % | 📈 Haussier |
+| <strong>KOSPI</strong> | 6 475,6 | +4,1 % | 📈 Haussier |
+| <strong>KOSDAQ</strong> | 1 203,8 | +2,5 % | 📈 Haussier |
 | VIX | 18,9 | +0,1 % | 🟢 Stable |
 | US 10Y | 4,32 % | +0,08 pb | → Neutre |
 | DXY | 98,6 | +0,6 % | ↑ Fort |
 | USD/KRW | 1 481 | +1,1 % | ⚠️ Won faible |
 | Brent | 99,5 $ | +4,2 % | 📈 En hausse |
 
-**Verdict de régime — 24 avril 2026**
-🇰🇷 Corée : **Bull** · 🇺🇸 États-Unis : **Bull** · Stance : **Expansion active**
+<strong>Verdict de régime — 24 avril 2026</strong>
+🇰🇷 Corée : <strong>Bull</strong> · 🇺🇸 États-Unis : <strong>Bull</strong> · Stance : <strong>Expansion active</strong>
 
 Les deux marchés évoluent en synchronie haussière. La largeur de marché reste saine (50 MA : 65,6 % côté KR ; 58,8 % côté US), offrant un terrain favorable à la sélection de titres. À surveiller : le won s'affaiblit face au dollar (+1,1 % en cinq séances) et le Brent franchit les 99 $/baril — deux facteurs à monitorer étroitement.
 
@@ -33,7 +33,7 @@ Le marché coréen affiche une configuration nettement haussière en ce vendredi
 
 Le signal de suivi de tendance (Follow-Through Day) en est à son 17e jour de confirmation — une persistance qui, historiquement, valide la robustesse de la reprise en cours plutôt qu'un simple rebond technique. Les 137 valeurs passant le filtre du screener se répartissent de façon quasi équilibrée entre la cote principale (68 titres, bourse de valeurs) et le KOSDAQ (69 titres), témoignant d'une diffusion sectorielle large plutôt que d'une concentration sur quelques méga-caps.
 
-Le secteur **construction et BTP** s'impose comme thème directeur, Daewoo E&C (047040.KS) concentrant à lui seul plus de 38 millions de titres échangés avec une force relative exceptionnelle (RS 99,9). Les valeurs **défense et équipements navals** — au premier rang desquelles Hanwha Engine (082740.KS) — renforcent leur momentum sur fond de commandes export soutenues et de dépenses militaires en hausse structurelle. Le segment **capital-risque et financement alternatif** (Mirae Asset Venture Investment, AJU IB Investment) bénéficie d'une rotation vers des actifs exposés à l'innovation et aux start-ups coréennes, propulsé par l'appétit risk-on.
+Le secteur <strong>construction et BTP</strong> s'impose comme thème directeur, Daewoo E&C (047040.KS) concentrant à lui seul plus de 38 millions de titres échangés avec une force relative exceptionnelle (RS 99,9). Les valeurs <strong>défense et équipements navals</strong> — au premier rang desquelles Hanwha Engine (082740.KS) — renforcent leur momentum sur fond de commandes export soutenues et de dépenses militaires en hausse structurelle. Le segment <strong>capital-risque et financement alternatif</strong> (Mirae Asset Venture Investment, AJU IB Investment) bénéficie d'une rotation vers des actifs exposés à l'innovation et aux start-ups coréennes, propulsé par l'appétit risk-on.
 
 Du côté des facteurs de vigilance, la faiblesse persistante du won (USD/KRW à 1 481) constitue un frein potentiel pour les secteurs à coûts d'importation élevés. La hausse du Brent (+4,2 % sur cinq séances) comprime les marges des industries énergivores. Sur le plan technique, plusieurs titres du Top RS affichent des replis intraday de -4 % à -5 %, signalant une prise de bénéfices sélective sur les valeurs les plus surextendues — le momentum est réel, mais quelques noms doivent souffler.
 
@@ -43,7 +43,7 @@ Du côté des facteurs de vigilance, la faiblesse persistante du won (USD/KRW à
 
 *Données au 23 avril 2026 — les plus récentes disponibles à la publication du 24 avril 2026.*
 
-**Méthodologie** : Le screener **Market Discovery** identifie les leaders de momentum sur un an via le RS percentile, filtre sur la surperformance en volume (ratio VR) et évalue la solidité technique par le RSI et le taux d'écart par rapport aux moyennes longues (이격도). Il cible les valeurs en phase de breakout confirmé ou en accélération dans un environnement de marché haussier.
+<strong>Méthodologie</strong> : Le screener <strong>Market Discovery</strong> identifie les leaders de momentum sur un an via le RS percentile, filtre sur la surperformance en volume (ratio VR) et évalue la solidité technique par le RSI et le taux d'écart par rapport aux moyennes longues (이격도). Il cible les valeurs en phase de breakout confirmé ou en accélération dans un environnement de marché haussier.
 
 ### Top 7 — RS Percentile (force relative 1 an)
 
@@ -59,13 +59,13 @@ Du côté des facteurs de vigilance, la faiblesse persistante du won (USD/KRW à
 
 ### Focus Top 3
 
-**1. Daewoo E&C (047040.KS) — RS 99,9 · Volume 38,3 M titres**
+<strong>1. Daewoo E&C (047040.KS) — RS 99,9 · Volume 38,3 M titres</strong>
 Groupe de BTP et d'ingénierie civil figurant parmi les plus importants de Corée du Sud. La valeur s'impose comme leader incontesté du screener avec une force relative au 99,9e percentile et un volume plusieurs fois supérieur à sa moyenne historique. L'écart de +42 % par rapport aux moyennes longues reflète une tendance primaire en pleine accélération. Point de vigilance : un RSI à 80,8 en territoire suracheté signale un risque de consolidation à court terme avant toute extension supplémentaire.
 
-**2. Mirae Asset Venture Investment (023480.KQ) — RS 99,8 · RSI 83,2 · Écart +65 %**
+<strong>2. Mirae Asset Venture Investment (023480.KQ) — RS 99,8 · RSI 83,2 · Écart +65 %</strong>
 Filiale cotée du groupe Mirae Asset, spécialisée dans l'investissement en capital-risque et le financement de start-ups à fort potentiel. L'écart exceptionnel de +65 % par rapport aux moyennes longues et un RSI à 83,2 témoignent d'une dynamique spéculative soutenue, alimentée par l'appétit du marché pour l'exposition aux licornes coréennes et à l'intelligence artificielle. Valeur à forte bêta dans ce cycle — l'idéal d'un momentum pur en régime Bull.
 
-**3. AJU IB Investment (027360.KQ) — RS 99,6 · Volume 19,0 M · +3,1 %**
+<strong>3. AJU IB Investment (027360.KQ) — RS 99,6 · Volume 19,0 M · +3,1 %</strong>
 Société de financement spécialisé et de capital-développement cotée sur le KOSDAQ. Le volume exceptionnel (19 millions de titres échangés en une séance) et la progression de +3,1 % confirment un intérêt institutionnel croissant. Sa corrélation avec le cycle de financement des PME innovantes en fait un baromètre utile du sentiment risk-on sur la cote alternative coréenne.
 
 ---

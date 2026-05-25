@@ -20,12 +20,12 @@ slug: samsung-electro-mechanics-mlcc-fcbga-ai-infrastructure-deep-dive-2026-05-1
 
 ## Những điểm cốt lõi
 
-* **SEMCO không phải nhà sản xuất chip.** Họ làm ra **linh kiện ổn định nguồn điện (MLCC)** và **đế kết nối chip AI với bo mạch chủ (FC-BGA)** — những thứ chip AI cần để hoạt động được bên trong máy chủ.
-* **Ba mảng kinh doanh**: Component (MLCC, 46% doanh thu, 67% lợi nhuận), Package Solution (FC-BGA, 20% doanh thu, 15% lợi nhuận), Optics (module camera, 34% doanh thu, 18% lợi nhuận).
-* **Sự chuyển dịch cốt lõi**: trước đây là "nhà sản xuất linh kiện smartphone." Ngày nay, luận điểm định giá lại xoay quanh **MLCC cao cấp cho máy chủ AI / xEV + FC-BGA cho bộ tăng tốc AI trong bối cảnh thiếu cung có tính cấu trúc**.
-* **Kết quả 1Q26**: doanh thu 3,21 nghìn tỷ KRW (+17% YoY), lợi nhuận hoạt động 280,6 tỷ KRW (+40% YoY). Loại trừ khoản chi trả thôi việc một lần 71,4 tỷ KRW, lợi nhuận hoạt động thực chất đạt 352,0 tỷ KRW.
-* **Mảng quan trọng nhất**: Component (MLCC) bảo vệ nền lợi nhuận. Package Solution (FC-BGA) là động lực tăng giá cổ phiếu. Optics là khoản cược vào tương lai.
-* **Ở mức giá 1,02 triệu KRW hiện tại**: đắt theo con số năm 2026, chỉ có thể bảo vệ được nếu chu kỳ đế chip AI tiếp tục chạy đến 2027–2028. Chiến lược kiên nhẫn — chờ thêm kết quả kinh doanh — hợp lý hơn là chạy theo đà tăng.
+* <strong>SEMCO không phải nhà sản xuất chip.</strong> Họ làm ra <strong>linh kiện ổn định nguồn điện (MLCC)</strong> và <strong>đế kết nối chip AI với bo mạch chủ (FC-BGA)</strong> — những thứ chip AI cần để hoạt động được bên trong máy chủ.
+* <strong>Ba mảng kinh doanh</strong>: Component (MLCC, 46% doanh thu, 67% lợi nhuận), Package Solution (FC-BGA, 20% doanh thu, 15% lợi nhuận), Optics (module camera, 34% doanh thu, 18% lợi nhuận).
+* <strong>Sự chuyển dịch cốt lõi</strong>: trước đây là "nhà sản xuất linh kiện smartphone." Ngày nay, luận điểm định giá lại xoay quanh <strong>MLCC cao cấp cho máy chủ AI / xEV + FC-BGA cho bộ tăng tốc AI trong bối cảnh thiếu cung có tính cấu trúc</strong>.
+* <strong>Kết quả 1Q26</strong>: doanh thu 3,21 nghìn tỷ KRW (+17% YoY), lợi nhuận hoạt động 280,6 tỷ KRW (+40% YoY). Loại trừ khoản chi trả thôi việc một lần 71,4 tỷ KRW, lợi nhuận hoạt động thực chất đạt 352,0 tỷ KRW.
+* <strong>Mảng quan trọng nhất</strong>: Component (MLCC) bảo vệ nền lợi nhuận. Package Solution (FC-BGA) là động lực tăng giá cổ phiếu. Optics là khoản cược vào tương lai.
+* <strong>Ở mức giá 1,02 triệu KRW hiện tại</strong>: đắt theo con số năm 2026, chỉ có thể bảo vệ được nếu chu kỳ đế chip AI tiếp tục chạy đến 2027–2028. Chiến lược kiên nhẫn — chờ thêm kết quả kinh doanh — hợp lý hơn là chạy theo đà tăng.
 
 ---
 
@@ -33,7 +33,7 @@ slug: samsung-electro-mechanics-mlcc-fcbga-ai-infrastructure-deep-dive-2026-05-1
 
 ### 1.1 Hạ tầng vô hình của AI Silicon
 
-Trong bài viết trước về Samsung Electronics, tôi gọi HBM là "bàn làm việc của AI silicon." Nhưng dù có bàn làm việc tốt nhất (bộ nhớ) và máy tính mạnh nhất (GPU), hệ thống vẫn sẽ không hoạt động nếu **nguồn điện không ổn định (hệ thống sẽ crash) hoặc chip không được kết nối đúng cách với bo mạch chủ (luồng dữ liệu bị đứt gãy).**
+Trong bài viết trước về Samsung Electronics, tôi gọi HBM là "bàn làm việc của AI silicon." Nhưng dù có bàn làm việc tốt nhất (bộ nhớ) và máy tính mạnh nhất (GPU), hệ thống vẫn sẽ không hoạt động nếu <strong>nguồn điện không ổn định (hệ thống sẽ crash) hoặc chip không được kết nối đúng cách với bo mạch chủ (luồng dữ liệu bị đứt gãy).</strong>
 
 Chính xác đây là những gì SEMCO sản xuất — "hạ tầng vô hình."
 
@@ -82,7 +82,7 @@ FC-BGA:
 → Từ nay đến 2027 là "cửa sổ thiếu cung"
 ```
 
-**Tóm gọn một dòng**: SEMCO không làm chip AI; họ làm **linh kiện nguồn điện và kết nối mà chip AI không thể hoạt động thiếu** — và những linh kiện đó đang thiếu cung ngay hôm nay.
+<strong>Tóm gọn một dòng</strong>: SEMCO không làm chip AI; họ làm <strong>linh kiện nguồn điện và kết nối mà chip AI không thể hoạt động thiếu</strong> — và những linh kiện đó đang thiếu cung ngay hôm nay.
 
 ---
 
@@ -92,10 +92,10 @@ FC-BGA:
 
 | Mảng | Sản phẩm chính | Doanh thu 2025 | Tỷ trọng | Lợi nhuận 2025 | Tỷ trọng LN | Biên |
 | --- | --- | ---: | ---: | ---: | ---: | ---: |
-| **Component** | **MLCC, cuộn cảm, điện trở chip** | **5,20 nghìn tỷ KRW** | **46%** | **609,4 tỷ KRW** | **67%** | **11,7%** |
+| <strong>Component</strong> | <strong>MLCC, cuộn cảm, điện trở chip</strong> | <strong>5,20 nghìn tỷ KRW</strong> | <strong>46%</strong> | <strong>609,4 tỷ KRW</strong> | <strong>67%</strong> | <strong>11,7%</strong> |
 | Package Solution | Đế chip FC-BGA | 2,30 nghìn tỷ KRW | 20% | 135,2 tỷ KRW | 15% | 5,9% |
 | Optics | Module camera | 3,81 nghìn tỷ KRW | 34% | 168,7 tỷ KRW | 18% | 4,4% |
-| **Tổng** | | **11,31 nghìn tỷ KRW** | **100%** | **913,3 tỷ KRW** | **100%** | **8,1%** |
+| <strong>Tổng</strong> | | <strong>11,31 nghìn tỷ KRW</strong> | <strong>100%</strong> | <strong>913,3 tỷ KRW</strong> | <strong>100%</strong> | <strong>8,1%</strong> |
 
 ```
 Vai trò của từng mảng trong SEMCO:
@@ -110,7 +110,7 @@ Optics (camera)          = mở rộng quy mô doanh thu + tiềm năng tương 
 
 ### 3.1 MLCC là gì?
 
-MLCC = Multi-Layer Ceramic Capacitor (Tụ điện gốm đa lớp). Cái tên nghe kỹ thuật, nhưng nhiệm vụ rất đơn giản — **tích trữ điện trong tích tắc và cấp điện ổn định cho các chip lân cận**.
+MLCC = Multi-Layer Ceramic Capacitor (Tụ điện gốm đa lớp). Cái tên nghe kỹ thuật, nhưng nhiệm vụ rất đơn giản — <strong>tích trữ điện trong tích tắc và cấp điện ổn định cho các chip lân cận</strong>.
 
 ```
 Ví von: bể nước trong hệ thống ống nước
@@ -154,7 +154,7 @@ Doanh thu Component trong 1Q26 đạt 1,41 nghìn tỷ KRW (+16% YoY), tỷ lệ
 
 Ban lãnh đạo cho biết nhu cầu MLCC cao cấp cho máy chủ AI và trung tâm dữ liệu vẫn mạnh sang quý 2. Cả sản lượng lẫn giá bán bình quân (ASP) của MLCC dự kiến đều tăng so với quý trước.
 
-**Thay đổi quan trọng nhất**: một số dòng sản phẩm MLCC đang **bắt đầu tăng giá**. Murata và Taiyo Yuden ghi nhận tỷ lệ book-to-bill lần lượt là 1,36 và 1,31 — cao nhất trong năm năm (kể từ 2021). "BB > 1" đơn giản là đơn đặt hàng nhiều hơn lượng giao; khoảng cách nay đã đủ lớn để nói về tình trạng thiếu cung thực sự.
+<strong>Thay đổi quan trọng nhất</strong>: một số dòng sản phẩm MLCC đang <strong>bắt đầu tăng giá</strong>. Murata và Taiyo Yuden ghi nhận tỷ lệ book-to-bill lần lượt là 1,36 và 1,31 — cao nhất trong năm năm (kể từ 2021). "BB > 1" đơn giản là đơn đặt hàng nhiều hơn lượng giao; khoảng cách nay đã đủ lớn để nói về tình trạng thiếu cung thực sự.
 
 ---
 
@@ -162,7 +162,7 @@ Ban lãnh đạo cho biết nhu cầu MLCC cao cấp cho máy chủ AI và trung
 
 ### 4.1 FC-BGA là gì?
 
-FC-BGA = Flip Chip Ball Grid Array — một **đế mạch mật độ cao** kết nối chip AI (GPU, CPU) với bo mạch chủ.
+FC-BGA = Flip Chip Ball Grid Array — một <strong>đế mạch mật độ cao</strong> kết nối chip AI (GPU, CPU) với bo mạch chủ.
 
 ```
 Ví von: chỗ đứng của chip
@@ -234,9 +234,9 @@ trong nhà máy của mình.
 
 ### 4.4 Điều chưa được chứng minh
 
-Biên lợi nhuận hoạt động của Package Solution năm 2025 **chỉ đạt 5,9%**. Doanh thu tăng +13% YoY nhưng lợi nhuận giảm -14%. Nguyên nhân? Chi phí nguyên liệu thô (CCL, prepreg) tăng +19% trong khi giá bán bình quân chỉ tăng +4%.
+Biên lợi nhuận hoạt động của Package Solution năm 2025 <strong>chỉ đạt 5,9%</strong>. Doanh thu tăng +13% YoY nhưng lợi nhuận giảm -14%. Nguyên nhân? Chi phí nguyên liệu thô (CCL, prepreg) tăng +19% trong khi giá bán bình quân chỉ tăng +4%.
 
-**Câu hỏi then chốt: trong năm 2026, liệu tăng trưởng doanh thu có đi kèm phục hồi biên lợi nhuận không?** Nếu chỉ có doanh thu tăng còn biên lợi nhuận dậm chân, mức giá hiện tại khó có thể bào chữa được. Liệu biên lợi nhuận Package Solution trong quý 2 có vượt 12% hay không chính là cửa ải lớn nhất để làn sóng định giá lại tiếp tục.
+<strong>Câu hỏi then chốt: trong năm 2026, liệu tăng trưởng doanh thu có đi kèm phục hồi biên lợi nhuận không?</strong> Nếu chỉ có doanh thu tăng còn biên lợi nhuận dậm chân, mức giá hiện tại khó có thể bào chữa được. Liệu biên lợi nhuận Package Solution trong quý 2 có vượt 12% hay không chính là cửa ải lớn nhất để làn sóng định giá lại tiếp tục.
 
 ---
 
@@ -261,7 +261,7 @@ Thị phần hiện tại: \~9% (giảm từ \~11% năm 2024)
 → Công nghệ thực sự, nhưng không phải luận điểm định giá lại
 ```
 
-**Góc nhìn nhà đầu tư**: Optics bổ sung sự ổn định doanh thu nhưng không dẫn dắt giá cổ phiếu. MLCC và FC-BGA mới là thứ làm điều đó. Camera cho ô tô và robot là những quyền chọn dài hạn — không phải thứ đáng trả tiền ở bội số hiện tại.
+<strong>Góc nhìn nhà đầu tư</strong>: Optics bổ sung sự ổn định doanh thu nhưng không dẫn dắt giá cổ phiếu. MLCC và FC-BGA mới là thứ làm điều đó. Camera cho ô tô và robot là những quyền chọn dài hạn — không phải thứ đáng trả tiền ở bội số hiện tại.
 
 ---
 
@@ -291,17 +291,17 @@ Giữa tháng 5: KB Sec      1.400.000 KRW
 → Giá mục tiêu đã tăng hơn gấp ba chỉ trong khoảng ba tháng.
 ```
 
-**Tại sao nhanh đến vậy?** Chính khung định giá đã thay đổi. SEMCO từng được giao dịch như "nhà sản xuất linh kiện điện tử Hàn Quốc." Ngày nay, phía môi giới đặt chuẩn so sánh với **các peer đế chip và linh kiện thụ động toàn cầu** — Ibiden (Nhật), Unimicron (Đài Loan), Murata (Nhật). Áp dụng các bội số đó, giá mục tiêu nhảy vọt.
+<strong>Tại sao nhanh đến vậy?</strong> Chính khung định giá đã thay đổi. SEMCO từng được giao dịch như "nhà sản xuất linh kiện điện tử Hàn Quốc." Ngày nay, phía môi giới đặt chuẩn so sánh với <strong>các peer đế chip và linh kiện thụ động toàn cầu</strong> — Ibiden (Nhật), Unimicron (Đài Loan), Murata (Nhật). Áp dụng các bội số đó, giá mục tiêu nhảy vọt.
 
 ### 6.3 Giá trị hợp lý theo kịch bản
 
 | Kịch bản | EPS 2027E | PER áp dụng | Giá trị hợp lý | So với giá hiện tại |
 | --- | ---: | ---: | ---: | ---: |
 | Xấu (tăng giá MLCC bị kiềm chế, capex FC-BGA gây áp lực) | 22.000 KRW | 33x | 730.000 KRW | -29% |
-| **Cơ sở** (chu kỳ AI tiếp tục + biên Package phục hồi) | **26.800 KRW** | **43x** | **1.150.000 KRW** | **+12%** |
+| <strong>Cơ sở</strong> (chu kỳ AI tiếp tục + biên Package phục hồi) | <strong>26.800 KRW</strong> | <strong>43x</strong> | <strong>1.150.000 KRW</strong> | <strong>+12%</strong> |
 | Tốt (tăng giá cả MLCC + FC-BGA cùng lúc + LTA) | 30.000 KRW | 50x | 1.500.000 KRW | +47% |
 
-**Ở mức giá 1,02 triệu KRW hiện tại, kịch bản cơ sở cho mức tăng +12%** — và -29% nếu kịch bản xấu xảy ra, +47% nếu kịch bản tốt thành hiện thực. Ở mức giá này, chờ xác nhận từ kết quả kinh doanh tiếp theo hợp lý hơn là chạy theo đà tăng.
+<strong>Ở mức giá 1,02 triệu KRW hiện tại, kịch bản cơ sở cho mức tăng +12%</strong> — và -29% nếu kịch bản xấu xảy ra, +47% nếu kịch bản tốt thành hiện thực. Ở mức giá này, chờ xác nhận từ kết quả kinh doanh tiếp theo hợp lý hơn là chạy theo đà tăng.
 
 ### 6.4 Khung tư duy quan trọng: không phải "rẻ," mà là "đắt nếu thiếu nâng ước tính liên tục"
 
@@ -329,7 +329,7 @@ Không đáp ứng điều nào = chờ giá giảm là quyết định đúng.
 
 | Yếu tố | Ngưỡng tích cực | Ngưỡng tiêu cực | Thời điểm |
 | --- | --- | --- | --- |
-| **Lợi nhuận hoạt động 2Q** | **Vượt 400 tỷ KRW** | Dưới 360 tỷ KRW | Cuối tháng 7 |
+| <strong>Lợi nhuận hoạt động 2Q</strong> | <strong>Vượt 400 tỷ KRW</strong> | Dưới 360 tỷ KRW | Cuối tháng 7 |
 | Tăng giá MLCC | Lan sang khách hàng AI trực tiếp | Chỉ dừng ở pass-through chi phí | 2Q |
 | Tỷ lệ sử dụng FC-BGA | Full công suất trong 2H | Khách hàng mới triển khai chậm | 3Q |
 | Biên Package Solution | 12%+ trong 2Q | Dưới 10% | Cuối tháng 7 |
@@ -349,7 +349,7 @@ Không đáp ứng điều nào = chờ giá giảm là quyết định đúng.
 
 | Rủi ro | Mô tả |
 | --- | --- |
-| **Đã đắt** | PER 2027 \~38x. Nếu ước tính lợi nhuận bị hạ, cổ phiếu sẽ giảm mạnh |
+| <strong>Đã đắt</strong> | PER 2027 \~38x. Nếu ước tính lợi nhuận bị hạ, cổ phiếu sẽ giảm mạnh |
 | Gánh nặng capex FC-BGA | Capex tăng gấp đôi → khấu hao tăng gấp đôi; doanh thu phải theo kịp hoặc biên sẽ bị siết |
 | Thất bại pass-through | Nếu lạm phát CCL, vàng, đồng không chuyển được vào giá bán, biên lợi nhuận chịu thiệt |
 | Smartphone yếu | Module camera và một số SKU MLCC vẫn phụ thuộc chu kỳ điện thoại |
@@ -383,7 +383,7 @@ SEMCO là lớp hạ tầng vô hình của AI silicon. MLCC ổn định nguồ
 
 Nhưng ở mức giá 1,02 triệu KRW, phần lớn luận điểm đó đã được phản ánh vào giá. Tính theo lợi nhuận 2027, PER là \~38x — "công ty tốt" và "giá vào hàng tốt" là hai câu hỏi khác nhau. Để chạy theo đà tăng từ đây, con số phải xác nhận: lợi nhuận hoạt động 2Q vượt 400 tỷ KRW, tăng giá MLCC lan rộng, biên FC-BGA phục hồi.
 
-**Một dòng: đây không phải cổ phiếu rẻ — đây là cổ phiếu chỉ "không đắt" nếu nâng ước tính lợi nhuận tiếp tục diễn ra.** Tốc độ điều chỉnh quan trọng hơn luồng tin tức tiêu đề.
+<strong>Một dòng: đây không phải cổ phiếu rẻ — đây là cổ phiếu chỉ "không đắt" nếu nâng ước tính lợi nhuận tiếp tục diễn ra.</strong> Tốc độ điều chỉnh quan trọng hơn luồng tin tức tiêu đề.
 
 ---
 

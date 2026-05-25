@@ -14,7 +14,7 @@ tags:
 slug: samsung-electronics-tsmc-rerating-thesis-2026-05-16
 ---
 
-> 📚 **Serie Samsung Electronics**
+> 📚 <strong>Serie Samsung Electronics</strong>
 > Parte 1: [Precio objetivo de Citi KRW 460.000 — Por qué el marco del ciclo de memoria puede estar equivocado](/post/samsung-electronics-citi-tp-460000-memory-rerating-2026-05-11/)
 > Parte 2: [Huelga vs. superciclo de memoria — La pregunta real es quién captura el beneficio extraordinario](/post/samsung-electronics-strike-vs-memory-supercycle-2026-05-15/)
 > Hub relacionado: [AI HBM Hub](/page/korea-semiconductor-hbm-kospi-hub/) · [Memory Pulse Dashboard](https://memory.koreainvestinsights.com/)

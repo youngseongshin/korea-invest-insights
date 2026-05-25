@@ -35,10 +35,10 @@ Las siguientes estimaciones se basan en (1) hitos de ventas comunicados, (2) pre
 |---|---|---|---|
 | Ingresos legacy (Black Desert + EVE) | ₩93B | ₩96B | ₩98B |
 | Ingresos Crimson Desert | ₩312B | ₩334B | ₩357B |
-| **Ingresos totales** | **₩405B** | **₩430B** | **₩455B** |
+| <strong>Ingresos totales</strong> | <strong>₩405B</strong> | <strong>₩430B</strong> | <strong>₩455B</strong> |
 | Gastos operativos | ₩210B | ₩207B | ₩205B |
-| **Beneficio operativo** | **₩195B** | **₩223B** | **₩250B** |
-| **Margen operativo** | **48,1%** | **51,9%** | **54,9%** |
+| <strong>Beneficio operativo</strong> | <strong>₩195B</strong> | <strong>₩223B</strong> | <strong>₩250B</strong> |
+| <strong>Margen operativo</strong> | <strong>48,1%</strong> | <strong>51,9%</strong> | <strong>54,9%</strong> |
 
 La cifra de ingresos de Crimson Desert en el escenario base se sustenta en aproximadamente 400.000 copias del período reportado a un precio medio ponderado de ₩83.500. La composición de gastos operativos en Q1 se estima como sigue: personal ₩54.500M (normalizado desde los ₩50.700M del Q4 más los incrementos esperados por plantilla), comisiones ₩88.000M (20,5% de los ingresos brutos, coherente con las estructuras de comisiones típicas de plataforma) y publicidad ₩33.000M (gasto concentrado en el lanzamiento global que se reducirá significativamente en Q2).
 
@@ -86,7 +86,7 @@ EVE Online, operado por la filial CCP Games, contribuyó de forma relevante en e
 | Q2 2026E | ₩245B | ₩105B | 42,9% |
 | Q3 2026E | ₩172B | ₩57B | 33,1% |
 | Q4 2026E | ₩155B | ₩35B | 22,6% |
-| **2026E (año completo)** | **₩1.002B** | **₩420B** | **41,9%** |
+| <strong>2026E (año completo)</strong> | <strong>₩1.002B</strong> | <strong>₩420B</strong> | <strong>41,9%</strong> |
 
 La desaceleración trimestral refleja la curva de deterioro natural de un título de un solo jugador: ventas unitarias concentradas en el lanzamiento, caída de usuarios simultáneos tras la finalización y ausencia de DLC o componente multijugador confirmado que sostenga ingresos más allá del ciclo inicial de compra. Los ingresos del Q2 de ₩245.000M asumen un momentum de ventas continuado pero en desaceleración, más el ritmo anualizado del negocio legacy. Q3 y Q4 reflejan la economía normalizada post-lanzamiento.
 
@@ -100,20 +100,20 @@ El supuesto de ventas anuales de Crimson Desert embebido en esta previsión es d
 
 Al precio de cierre del 2 de abril de 2026 de ₩66.200 (el dato de referencia más reciente disponible, con la acción cotizando posteriormente en torno a ₩60.200), el mercado está descontando un éxito significativo de Crimson Desert, pero parece haber aplicado un múltiplo conservador.
 
-**Matriz de valoración: Beneficio operativo × PER → Valor razonable implícito por acción**
+<strong>Matriz de valoración: Beneficio operativo × PER → Valor razonable implícito por acción</strong>
 
 | BO \ PER | 10x | 12x | 14x | 16x | 18x |
 |---|---|---|---|---|---|
 | ₩350B | ₩42.600 | ₩51.100 | ₩59.700 | ₩68.200 | ₩76.700 |
 | ₩400B | ₩48.700 | ₩58.400 | ₩68.100 | ₩77.900 | ₩87.600 |
-| ₩420B | ₩51.300 | ₩61.500 | **₩71.800** | ₩82.000 | ₩92.300 |
+| ₩420B | ₩51.300 | ₩61.500 | <strong>₩71.800</strong> | ₩82.000 | ₩92.300 |
 | ₩450B | ₩54.800 | ₩65.800 | ₩76.700 | ₩87.700 | ₩98.700 |
 
 Escenario base: BO 2026E de ₩420.000M a 14x PER → valor razonable de ₩71.800. Bajista: BO ₩350.000M a 12x → ₩51.100. Alcista: BO ₩450.000M a 18x → ₩98.700.
 
 El supuesto base de 14x PER refleja un descuento respecto a los comparables japoneses (Capcom cotiza en torno a 22x impulsado por el momentum de Monster Hunter Wilds) y respecto al comparable de CDPR (\~35x por la opcionalidad de desarrollo de Witcher 4), pero con una prima ligera sobre Krafton (\~12x, franquicia PUBG, dinámicas de descuento similares a las coreanas). La propia cotización en el KOSDAQ contribuye a la brecha de valoración — la participación extranjera en Pearl Abyss se sitúa en solo el 5,57%, frente al 42,4% de Krafton y el 34,8% de NCSoft. Un traslado al KOSPI, que la dirección ha mencionado para 2027, resolvería estructuralmente esta brecha en participación extranjera y podría añadir 3–5 puntos al PER aplicable, lo que implica entre ₩15.000 y ₩25.000 de valor adicional por acción.
 
-**Comparativa de pares**
+<strong>Comparativa de pares</strong>
 
 | Compañía | Capitalización bursátil | PER 2026E | Perfil |
 |---|---|---|---|
@@ -126,50 +126,50 @@ El supuesto base de 14x PER refleja un descuento respecto a los comparables japo
 
 ## Implicaciones de inversión
 
-**Catalizadores clave en el horizonte observable:**
+<strong>Catalizadores clave en el horizonte observable:</strong>
 
-- **Anuncio de 5M de copias (8–15 de abril):** Las declaraciones del CEO lo preconfirman. La reacción del mercado dependerá de si el anuncio de los 5M va acompañado de detalle sobre la hoja de ruta de DLC o multijugador. Un simple hito sin visibilidad de contenido futuro probablemente sea recibido con tibieza.
-- **Publicación de resultados Q1 2026 (objetivo: 7 de mayo):** Primera confirmación financiera del impacto en ingresos de Crimson Desert. Las estimaciones de consenso se anclarán en ₩400.000–430.000M de ingresos; una sorpresa al alza en el margen operativo sería el elemento más relevante.
-- **Anuncio de hoja de ruta DLC/multijugador (2S 2026):** El catalizador positivo de mayor magnitud disponible. Un modo multijugador confirmado o un slate sustancial de DLC extendería el horizonte de ingresos de 2026 a 2027–2028 y justificaría una expansión del múltiplo PER.
-- **Actualizaciones de Project DokkaeBI / Plan 8:** Tras Crimson Desert, Pearl Abyss tiene dos títulos adicionales en desarrollo. La conferencia de resultados del Q4 2025 reconoció que la compañía no pudo compartir novedades sobre DokkaeBI durante la fase de marketing de Crimson Desert. Se espera un primer vistazo a la siguiente IP en el segundo semestre de 2026.
-- **Cancelación de acciones propias (antes de septiembre de 2027):** 2.828.000 acciones propias (4,4% de las acciones en circulación, valor de ₩170.000M) deben cancelarse en virtud de la Ley Mercantil revisada. La cancelación es mecánicamente acretiva en las métricas por acción.
-- **Traslado al KOSPI (2027):** Ampliaría el universo de inversores extranjeros y cerraría el descuento estructural inherente a la cotización en el KOSDAQ.
+- <strong>Anuncio de 5M de copias (8–15 de abril):</strong> Las declaraciones del CEO lo preconfirman. La reacción del mercado dependerá de si el anuncio de los 5M va acompañado de detalle sobre la hoja de ruta de DLC o multijugador. Un simple hito sin visibilidad de contenido futuro probablemente sea recibido con tibieza.
+- <strong>Publicación de resultados Q1 2026 (objetivo: 7 de mayo):</strong> Primera confirmación financiera del impacto en ingresos de Crimson Desert. Las estimaciones de consenso se anclarán en ₩400.000–430.000M de ingresos; una sorpresa al alza en el margen operativo sería el elemento más relevante.
+- <strong>Anuncio de hoja de ruta DLC/multijugador (2S 2026):</strong> El catalizador positivo de mayor magnitud disponible. Un modo multijugador confirmado o un slate sustancial de DLC extendería el horizonte de ingresos de 2026 a 2027–2028 y justificaría una expansión del múltiplo PER.
+- <strong>Actualizaciones de Project DokkaeBI / Plan 8:</strong> Tras Crimson Desert, Pearl Abyss tiene dos títulos adicionales en desarrollo. La conferencia de resultados del Q4 2025 reconoció que la compañía no pudo compartir novedades sobre DokkaeBI durante la fase de marketing de Crimson Desert. Se espera un primer vistazo a la siguiente IP en el segundo semestre de 2026.
+- <strong>Cancelación de acciones propias (antes de septiembre de 2027):</strong> 2.828.000 acciones propias (4,4% de las acciones en circulación, valor de ₩170.000M) deben cancelarse en virtud de la Ley Mercantil revisada. La cancelación es mecánicamente acretiva en las métricas por acción.
+- <strong>Traslado al KOSPI (2027):</strong> Ampliaría el universo de inversores extranjeros y cerraría el descuento estructural inherente a la cotización en el KOSDAQ.
 
 ---
 
 ## Escenario alcista
 
-**Tesis central:** Pearl Abyss está transformando estructuralmente su modelo, de operador de un único título (Black Desert, MMORPG, demografía en declive) a desarrollador global multi-IP con penetración de mercado transcultural demostrada. Crimson Desert demostró que la compañía puede construir un título AAA de mundo abierto técnicamente competitivo, ejecutar un lanzamiento global simultáneo en Steam y consola, y responder a las críticas post-lanzamiento con agilidad. La conversión de ingresos a beneficio es excepcionalmente alta gracias al modelo de gasto directo en desarrollo. Si Crimson Desert alcanza 8–10 millones de copias en su vida comercial — un rango razonable dada la recuperación del mercado chino y la propagación viral impulsada por las festividades de Qingming —, el BO de 2026 superaría los ₩450.000M. A un PER de 16–18x — el múltiplo que se aplicaría a un desarrollador global con historial de múltiples éxitos — el valor intrínseco se aproximaría a ₩90.000–₩100.000 por acción. La IP de EVE también proporciona un suelo de ingresos recurrentes que protege el negocio legacy durante los períodos entre lanzamientos de contenido.
+<strong>Tesis central:</strong> Pearl Abyss está transformando estructuralmente su modelo, de operador de un único título (Black Desert, MMORPG, demografía en declive) a desarrollador global multi-IP con penetración de mercado transcultural demostrada. Crimson Desert demostró que la compañía puede construir un título AAA de mundo abierto técnicamente competitivo, ejecutar un lanzamiento global simultáneo en Steam y consola, y responder a las críticas post-lanzamiento con agilidad. La conversión de ingresos a beneficio es excepcionalmente alta gracias al modelo de gasto directo en desarrollo. Si Crimson Desert alcanza 8–10 millones de copias en su vida comercial — un rango razonable dada la recuperación del mercado chino y la propagación viral impulsada por las festividades de Qingming —, el BO de 2026 superaría los ₩450.000M. A un PER de 16–18x — el múltiplo que se aplicaría a un desarrollador global con historial de múltiples éxitos — el valor intrínseco se aproximaría a ₩90.000–₩100.000 por acción. La IP de EVE también proporciona un suelo de ingresos recurrentes que protege el negocio legacy durante los períodos entre lanzamientos de contenido.
 
-**Variables clave del escenario alcista:** anuncio de DLC que prolonga el horizonte de ingresos, confirmación de modo multijugador que abre un flujo de ingresos GaaS, mercado chino alcanzando más del 20% del total de ventas de Crimson Desert, traslado al KOSPI anticipando compras institucionales extranjeras.
+<strong>Variables clave del escenario alcista:</strong> anuncio de DLC que prolonga el horizonte de ingresos, confirmación de modo multijugador que abre un flujo de ingresos GaaS, mercado chino alcanzando más del 20% del total de ventas de Crimson Desert, traslado al KOSPI anticipando compras institucionales extranjeras.
 
 ---
 
 ## Escenario bajista
 
-**Preocupación central:** Crimson Desert es un título de un solo jugador sin componente de servicio en vivo confirmado. Los juegos de un solo jugador presentan caídas de usuarios simultáneos bien documentadas: una vez completado el arco narrativo (típicamente 20–40 horas), el tiempo de sesión cae de forma pronunciada. Sin DLC, modo multijugador o sistema de pase de batalla, los ingresos del Q2 2026 serán una fracción de los del Q1. La brecha entre los ingresos finales de Crimson Desert y el próximo título de Pearl Abyss (Project DokkaeBI, sin fecha confirmada) podría extenderse entre 18 y 24 meses — período durante el cual la compañía regresaría a la economía de Black Desert + EVE, en torno a \~₩95.000M por trimestre y ₩35.000–55.000M de beneficio operativo anual.
+<strong>Preocupación central:</strong> Crimson Desert es un título de un solo jugador sin componente de servicio en vivo confirmado. Los juegos de un solo jugador presentan caídas de usuarios simultáneos bien documentadas: una vez completado el arco narrativo (típicamente 20–40 horas), el tiempo de sesión cae de forma pronunciada. Sin DLC, modo multijugador o sistema de pase de batalla, los ingresos del Q2 2026 serán una fracción de los del Q1. La brecha entre los ingresos finales de Crimson Desert y el próximo título de Pearl Abyss (Project DokkaeBI, sin fecha confirmada) podría extenderse entre 18 y 24 meses — período durante el cual la compañía regresaría a la economía de Black Desert + EVE, en torno a \~₩95.000M por trimestre y ₩35.000–55.000M de beneficio operativo anual.
 
 El gobierno corporativo es una preocupación de segundo orden para los inversores internacionales. La participación extranjera del 5,57% es la más baja entre las principales compañías de videojuegos coreanas. La compañía no tiene historial de dividendos ni comité de auditoría. El bloque de accionistas de control (Kim Daeil y otros, 37–44%) implica que los mecanismos de protección de minoritarios son limitados. Para las instituciones con criterios ESG o de gobernanza, Pearl Abyss no cumplirá los requisitos de inclusión hasta que se realicen mejoras estructurales en este ámbito.
 
-**Variables clave del escenario bajista:** la caída de usuarios simultáneos en Q2 confirma el precipicio del título de un solo jugador, ausencia de anuncio de DLC o multijugador antes del 2S 2026, puntuación en China en Xiaoheihe retrocediendo por debajo de 7,0, riesgo macro (USD/KRW convergiendo hacia 1.380 reduciría los ingresos reportados en KRW procedentes de ventas internacionales).
+<strong>Variables clave del escenario bajista:</strong> la caída de usuarios simultáneos en Q2 confirma el precipicio del título de un solo jugador, ausencia de anuncio de DLC o multijugador antes del 2S 2026, puntuación en China en Xiaoheihe retrocediendo por debajo de 7,0, riesgo macro (USD/KRW convergiendo hacia 1.380 reduciría los ingresos reportados en KRW procedentes de ventas internacionales).
 
 ---
 
 ## Preguntas frecuentes
 
-**¿Cuál es la principal fuente de ingresos de Pearl Abyss?**
+<strong>¿Cuál es la principal fuente de ingresos de Pearl Abyss?</strong>
 Pearl Abyss opera dos IPs principales: Black Desert (MMORPG de PC/móvil, lanzado en 2014, ahora en su duodécimo año) y EVE Online (MMO espacial, operado a través de la filial CCP Games, Islandia). Juntos generaron aproximadamente ₩365.600 millones en ingresos durante 2025. Crimson Desert, lanzado el 20 de marzo de 2026, es la primera IP nueva de la compañía en más de una década y el primer título premium de un solo jugador.
 
-**¿Cómo se compara el lanzamiento de Crimson Desert con 4M de copias con la historia del gaming coreano?**
+<strong>¿Cómo se compara el lanzamiento de Crimson Desert con 4M de copias con la historia del gaming coreano?</strong>
 Los 4 millones de copias vendidas en 12 días representan el juego coreano que más rápido se ha vendido en la historia. El pico de 276.261 usuarios simultáneos en Steam (29 de marzo) se sitúa entre los más altos jamás registrados para un título de pago de un solo jugador a nivel global, aproximándose a referencias establecidas por títulos como Elden Ring y Baldur's Gate 3.
 
-**¿Cuál es el principal riesgo para los resultados del Q1 2026?**
+<strong>¿Cuál es el principal riesgo para los resultados del Q1 2026?</strong>
 El principal riesgo a la baja reside en que las copias efectivamente reconocidas en contabilidad según los principios GAAP (que reconocen ingresos en el momento de la remisión por parte de la plataforma, con posibles retrasos de 45–90 días en algunos mercados) sea materialmente inferior a la cifra de 4M anunciada. Si Pearl Abyss reconoce únicamente 3,2–3,5M de copias en Q1, los ingresos caerían hacia el escenario conservador de ₩405.000M y el beneficio operativo hacia ₩195.000M — cifras históricamente elevadas de todas formas, pero por debajo de las expectativas del consenso.
 
-**¿Qué cambiaría la valoración de forma más significativa?**
+<strong>¿Qué cambiaría la valoración de forma más significativa?</strong>
 Un anuncio de DLC o modo multijugador sería el catalizador positivo de mayor impacto, con potencial de añadir ₩10.000–₩15.000 por acción mediante la expansión del múltiplo PER. Un anuncio de traslado al KOSPI (previsto para 2027) podría sumar ₩15.000–₩25.000 por acción al atraer capital institucional extranjero. A la baja, un colapso de usuarios simultáneos en Q2 por debajo de 30.000 en el pico de CCU — el nivel que indica que el título no tiene cola larga — presionaría significativamente la estimación de ingresos de ₩1 billón para 2026.
 
-**¿Cuándo publica Pearl Abyss los resultados del Q1 2026?**
+<strong>¿Cuándo publica Pearl Abyss los resultados del Q1 2026?</strong>
 La publicación de resultados del Q1 2026 tiene como objetivo el 7 de mayo de 2026, aproximadamente siete semanas desde la fecha de este análisis. La conferencia de resultados será la primera oportunidad para que la dirección ofrezca orientación sobre la hoja de ruta de DLC y multijugador, que la comunidad inversora tratará como la principal señal prospectiva.
 
 ---

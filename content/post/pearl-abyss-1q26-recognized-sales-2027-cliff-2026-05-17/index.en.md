@@ -16,19 +16,19 @@ series: ["pearl-abyss-crimson-desert-thesis"]
 slug: pearl-abyss-1q26-recognized-sales-2027-cliff-2026-05-17
 ---
 
-> 📚 **Pearl Abyss × Crimson Desert Series**
+> 📚 <strong>Pearl Abyss × Crimson Desert Series</strong>
 > [1Q26 Comprehensive](/post/pearl-abyss-1q26-earnings-guidance-comprehensive-2026-05-12/) / [May 21 IR Watch](/post/pearl-abyss-521-ir-capital-return-dlc-dokev-2026-05-12/) / [What the DLC Comment Really Means](/post/pearl-abyss-dlc-package-to-franchise-rerating-2026-05-15/) / [Patch 1.07 Weekend Data](/post/pearl-abyss-crimson-desert-patch-107-weekend-data-2026-05-17/) / [Pearl Abyss Hub](/page/pearl-abyss-crimson-desert-hub/)
 
 *Pearl Abyss's 1Q26 earnings changed the center of the debate. The question is no longer whether Crimson Desert worked. Revenue of KRW 328.5B, operating profit of KRW 212.1B, and a 64.6% operating margin answered that. The questions now are different: how many copies were actually recognized in 1Q and 2Q, and how much of 2026's earnings power can remain in 2027.*
 
 ## Key Takeaways
 
-* **The 3.1M-copy 1Q recognition argument is defensible.** More precisely, Meritz estimates 3.089M recognized Crimson Desert copies in 1Q. Dividing KRW 266.5B in Crimson Desert revenue by that volume gives an accounting ASP of about KRW 86,300 per copy.
-* **A roughly 3M-copy 2Q recognition case is also inside company guidance.** Applying the same ASP to 2Q Crimson Desert guidance of KRW 224.2B-276.5B implies 2.6M-3.2M recognized copies, with a midpoint near 2.9M.
-* **But recognized copies are not the same as new copies sold during the quarter.** 2Q recognition likely includes both 1Q commercial sales not yet recognized in accounting and new 2Q sales.
-* **The market debate has moved from a 2Q cliff to a 2027 earnings cliff.** Meeting 2Q guidance defends downside. It does not, by itself, force a major multiple re-rating.
-* **The 2027 bridge is the real issue.** DLC, Asia/China expansion, platform extension, capital return, and DokeV visibility need to turn 2027 operating profit from the KRW 200B range toward KRW 300B+.
-* **Investment stance: hold is defensible, additional buying should wait.** A 2Q midpoint result is helpful but not enough. The better add point comes when the 2027 bridge becomes visible.
+* <strong>The 3.1M-copy 1Q recognition argument is defensible.</strong> More precisely, Meritz estimates 3.089M recognized Crimson Desert copies in 1Q. Dividing KRW 266.5B in Crimson Desert revenue by that volume gives an accounting ASP of about KRW 86,300 per copy.
+* <strong>A roughly 3M-copy 2Q recognition case is also inside company guidance.</strong> Applying the same ASP to 2Q Crimson Desert guidance of KRW 224.2B-276.5B implies 2.6M-3.2M recognized copies, with a midpoint near 2.9M.
+* <strong>But recognized copies are not the same as new copies sold during the quarter.</strong> 2Q recognition likely includes both 1Q commercial sales not yet recognized in accounting and new 2Q sales.
+* <strong>The market debate has moved from a 2Q cliff to a 2027 earnings cliff.</strong> Meeting 2Q guidance defends downside. It does not, by itself, force a major multiple re-rating.
+* <strong>The 2027 bridge is the real issue.</strong> DLC, Asia/China expansion, platform extension, capital return, and DokeV visibility need to turn 2027 operating profit from the KRW 200B range toward KRW 300B+.
+* <strong>Investment stance: hold is defensible, additional buying should wait.</strong> A 2Q midpoint result is helpful but not enough. The better add point comes when the 2027 bridge becomes visible.
 
 ## 1. 1Q26 Already Proved the Core Case
 
@@ -127,7 +127,7 @@ Midpoint:
 3.09M + 2.90M = ~5.99M
 ```
 
-The important caveat: 3M recognized copies in 2Q does **not** mean 3M newly sold copies in 2Q. It likely includes both deferred recognition from commercial sales made in 1Q and new 2Q sales.
+The important caveat: 3M recognized copies in 2Q does <strong>not</strong> mean 3M newly sold copies in 2Q. It likely includes both deferred recognition from commercial sales made in 1Q and new 2Q sales.
 
 ## 4. The Market Has Moved to the 2027 Cliff
 
@@ -303,7 +303,7 @@ The real debate is 2027. The market already knows 2026 is strong. The discount i
 
 Pearl Abyss needs a 2027 bridge. DLC can add KRW 40B-120B in operating profit. Capital return can lower the ex-cash valuation burden. Asia/China and platform expansion can extend the sales curve. DokeV visibility can reduce the single-IP discount.
 
-So the conclusion is not "sell the cliff" or "buy the beat." It is: **hold is defensible, but additional buying should wait for evidence that the 2027 operating profit base can move from the KRW 200B range toward KRW 300B+.** The stock is no longer about whether Crimson Desert was successful. It is about whether Pearl Abyss can cross 2027 without being treated as a one-off package-game story.
+So the conclusion is not "sell the cliff" or "buy the beat." It is: <strong>hold is defensible, but additional buying should wait for evidence that the 2027 operating profit base can move from the KRW 200B range toward KRW 300B+.</strong> The stock is no longer about whether Crimson Desert was successful. It is about whether Pearl Abyss can cross 2027 without being treated as a one-off package-game story.
 
 ---
 

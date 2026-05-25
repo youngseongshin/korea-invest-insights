@@ -15,7 +15,7 @@ slug: hanamicron-jeju-semi-1q26-comparison-2026-05-17
 ---
 
 
-> **Série associée**
+> <strong>Série associée</strong>
 > [Comparaison des données d'actions AI Back-End 11](/fr/post/ai-substrate-test-socket-data-comparison-2026-05-16/) · [Jeju Semiconductor 1Q26 Deep Dive](/fr/post/jeju-semiconductor-1q26-earnings-legacy-memory-squeeze-2026-05-15/) · [Écran d'accumulation de flux du 15 mai](/fr/post/kr-flow-accumulation-absorption-screen-2026-05-15/) · [Korea Semiconductor Value-Chain Hub](/fr/page/korea-semiconductor-equipment-ip-hub/)
 
 Les deux actions ont explosé au 1T26. Hana Micron a réalisé un bénéfice d'exploitation de 72,0 milliards KRW ; Jeju Semiconductor a livré 67,1 milliards de KRW. Au premier jour de bourse suivant chaque annonce, les titres ont gagné respectivement +18,6% et +8,9%. En apparence, les deux ressemblent à des « bénéficiaires du back-end de la mémoire de l’ère de l’IA ». Mais les deux surprises sont structurellement différentes. Hana Micron est plus proche d'une histoire d'amélioration du modèle économique : répercussion des coûts répercutée sur l'entité Vina, augmentation de la marge dans la filiale brésilienne. Jeju Semiconductor est plus proche d’une aubaine cyclique – la rareté de l’offre de LPDDR4X amplifiée par une chargement initial motivé par les tarifs. Le même label, « bénéfices surprises », masque des profils de durabilité très différents. Cette distinction est tout l’intérêt de cette note.
@@ -24,12 +24,12 @@ Les deux actions ont explosé au 1T26. Hana Micron a réalisé un bénéfice d'e
 
 ## Points clés à retenir
 
-- **Les deux séries de chiffres étaient solides.** Hana Micron : chiffre d'affaires du 1T26 de 507,7 milliards de KRW, OP de 72,0 milliards de KRW, OPM de 14,2 %. Jeju Semiconductor : chiffre d'affaires de 180,5 milliards de KRW, OP de 67,1 milliards de KRW, OPM de 37,2 %.
-- **La nature de chaque surprise est différente.** La hausse de Hana Micron a été tirée par une structure de répercussion des coûts révisée au sein de l'entité Vina et une augmentation de la marge dans la filiale brésilienne. La hausse de Jeju Semiconductor est due à la rareté de l'offre de LPDDR4X et aux précommandes liées aux tarifs.
-- **La durabilité favorise Hana Micron.** La marge du premier trimestre ne peut pas être entièrement annualisée de manière répétée, mais Hana Micron a peut-être établi un plancher de marge structurellement plus élevé. Les 37,2 % de Jeju Semiconductor et OPM sont difficiles à qualifier de nouvelle normalité.
-- **L'illusion multiple est réelle pour Jeju.** La simple annualisation du revenu net du premier trimestre implique un PER 9x – mais cela nécessite quatre trimestres identiques. L'ajustement pour la normalisation pousse le multiple de la valeur attendue à 16-17x.
-- **Les deux sont clairement surachetés à court terme.** Hana Micron : +58,6 % sur 20 jours, RSI \~78. Jeju Semiconductor : +94,3 % sur 20 jours, RSI \~81,5 et +574 % par rapport au plus bas de 52 semaines.
-- **Priorité d'entrée : Hana Micron > Jeju Semiconductor.** Mais poursuivre l'un ou l'autre immédiatement après l'impression est inefficace. Le véritable alpha consiste à confirmer que la surprise n’est pas ponctuelle – c’est-à-dire les résultats du 2T26 – et à adhérer à toute faiblesse des tranches post-confirmation.
+- <strong>Les deux séries de chiffres étaient solides.</strong> Hana Micron : chiffre d'affaires du 1T26 de 507,7 milliards de KRW, OP de 72,0 milliards de KRW, OPM de 14,2 %. Jeju Semiconductor : chiffre d'affaires de 180,5 milliards de KRW, OP de 67,1 milliards de KRW, OPM de 37,2 %.
+- <strong>La nature de chaque surprise est différente.</strong> La hausse de Hana Micron a été tirée par une structure de répercussion des coûts révisée au sein de l'entité Vina et une augmentation de la marge dans la filiale brésilienne. La hausse de Jeju Semiconductor est due à la rareté de l'offre de LPDDR4X et aux précommandes liées aux tarifs.
+- <strong>La durabilité favorise Hana Micron.</strong> La marge du premier trimestre ne peut pas être entièrement annualisée de manière répétée, mais Hana Micron a peut-être établi un plancher de marge structurellement plus élevé. Les 37,2 % de Jeju Semiconductor et OPM sont difficiles à qualifier de nouvelle normalité.
+- <strong>L'illusion multiple est réelle pour Jeju.</strong> La simple annualisation du revenu net du premier trimestre implique un PER 9x – mais cela nécessite quatre trimestres identiques. L'ajustement pour la normalisation pousse le multiple de la valeur attendue à 16-17x.
+- <strong>Les deux sont clairement surachetés à court terme.</strong> Hana Micron : +58,6 % sur 20 jours, RSI \~78. Jeju Semiconductor : +94,3 % sur 20 jours, RSI \~81,5 et +574 % par rapport au plus bas de 52 semaines.
+- <strong>Priorité d'entrée : Hana Micron > Jeju Semiconductor.</strong> Mais poursuivre l'un ou l'autre immédiatement après l'impression est inefficace. Le véritable alpha consiste à confirmer que la surprise n’est pas ponctuelle – c’est-à-dire les résultats du 2T26 – et à adhérer à toute faiblesse des tranches post-confirmation.
 
 ---
 
@@ -52,7 +52,7 @@ Prises au pied de la lettre, les deux sociétés sont qualifiées de « bénéf
 
 En regardant uniquement ce tableau, Jeju Semiconductor semble moins cher – un OPM plus élevé et un PER annualisé inférieur. Mais cette arithmétique nécessite que le 1T26 se répète de manière identique aux T2, T3 et T4. Dans les cycles de mémoire, cette hypothèse est parmi les plus dangereuses que l’on puisse faire. Un trimestre entraîné par la pénurie d’approvisionnement et les précommandes peut s’inverser au cours d’une même période de reporting.
 
-La vraie question n’est donc pas « qui a obtenu la meilleure part ? » C'est : **dans quelle mesure ce profit est-il reproductible ?**
+La vraie question n’est donc pas « qui a obtenu la meilleure part ? » C'est : <strong>dans quelle mesure ce profit est-il reproductible ?</strong>
 
 ---
 
@@ -161,7 +161,7 @@ Dans ce tableau de pairs, Hana Micron se situe à une valorisation intermédiair
 
 ## 8. Points de contrôle pratiques
 
-**Pour Hana Micron**, la variable critique au 2T26 est OPM. Si la hausse de 14,2 % enregistrée au premier trimestre était véritablement exceptionnelle, la marge diminuerait fortement au deuxième trimestre. Si OPM se maintient à environ 13 %, cela prouve que la structure tarifaire de Vina et la marge de la filiale brésilienne constituent des changements réels et durables dans la capacité bénéficiaire de l'entreprise.
+<strong>Pour Hana Micron</strong>, la variable critique au 2T26 est OPM. Si la hausse de 14,2 % enregistrée au premier trimestre était véritablement exceptionnelle, la marge diminuerait fortement au deuxième trimestre. Si OPM se maintient à environ 13 %, cela prouve que la structure tarifaire de Vina et la marge de la filiale brésilienne constituent des changements réels et durables dans la capacité bénéficiaire de l'entreprise.
 
 Quatre points de contrôle à surveiller :
 
@@ -170,7 +170,7 @@ Quatre points de contrôle à surveiller :
 - Une filiale brésilienne soutient des adolescents OPM
 - Part croissante des emballages DDR5/eSSD dans le mix de revenus
 
-**Pour Jeju Semiconductor**, la variable critique est l'ampleur de la décélération 2Q. Si le bénéfice d'exploitation du deuxième trimestre se maintient au-dessus de 50 milliards de KRW avec un OPM supérieur à 30 %, le premier trimestre n'était pas simplement un pic ponctuel. Si le deuxième trimestre tombe en dessous de 40 milliards de KRW, les effets de concentration et de rareté se résorberont plus rapidement que prévu.
+<strong>Pour Jeju Semiconductor</strong>, la variable critique est l'ampleur de la décélération 2Q. Si le bénéfice d'exploitation du deuxième trimestre se maintient au-dessus de 50 milliards de KRW avec un OPM supérieur à 30 %, le premier trimestre n'était pas simplement un pic ponctuel. Si le deuxième trimestre tombe en dessous de 40 milliards de KRW, les effets de concentration et de rareté se résorberont plus rapidement que prévu.
 
 Cinq points de contrôle à surveiller :
 
@@ -198,15 +198,15 @@ Si vous détenez les deux, une structure cœur-satellite est plus naturelle : Ha
 
 Hana Micron et Jeju Semiconductor ont tous deux généré de solides résultats au 1T26. Ce n’est pas le même genre de surprise.
 
-Hana Micron est une **histoire d'amélioration structurelle**. La retarification avec répercussion des coûts du Vina, le OPM pour adolescents brésiliens et le volume croissant d'emballages lié au SK hynix ont évolué ensemble. La marge du premier trimestre ne peut pas être entièrement normalisée à un taux annualisé, mais les éléments suggèrent un plancher de bénéfices plus élevé que lors des cycles précédents.
+Hana Micron est une <strong>histoire d'amélioration structurelle</strong>. La retarification avec répercussion des coûts du Vina, le OPM pour adolescents brésiliens et le volume croissant d'emballages lié au SK hynix ont évolué ensemble. La marge du premier trimestre ne peut pas être entièrement normalisée à un taux annualisé, mais les éléments suggèrent un plancher de bénéfices plus élevé que lors des cycles précédents.
 
-Jeju Semiconductor est plus proche d'un **pic de cycle**. Le OPM à 37,2 % a été produit en raison de la rareté de l'approvisionnement du LPDDR4X et d'un chargement initial motivé par les tarifs. Les capacités de produits de l'entreprise et son positionnement sur un marché de niche sont authentiques, mais traiter 37,2 % de OPM comme un état d'équilibre durable n'est pas une bonne idée.
+Jeju Semiconductor est plus proche d'un <strong>pic de cycle</strong>. Le OPM à 37,2 % a été produit en raison de la rareté de l'approvisionnement du LPDDR4X et d'un chargement initial motivé par les tarifs. Les capacités de produits de l'entreprise et son positionnement sur un marché de niche sont authentiques, mais traiter 37,2 % de OPM comme un état d'équilibre durable n'est pas une bonne idée.
 
 Sur les multiples, Hana Micron semble plus attrayant. Le taux d'exécution 1Q PER de 9x de Jeju Semiconductor est une illusion : il nécessite quatre trimestres identiques qui ont peu de chances de se matérialiser. L'ajustement pour la normalisation pousse la valeur attendue PER à 16-17x. Hana Micron, dans le cadre d'un scénario d'amélioration structurelle jusqu'en 2027, offre toujours une valeur attendue à la hausse par rapport au prix actuel.
 
 Aucune des deux actions n’est une bonne poursuite pour le moment. La décision la plus dangereuse après une publication de bénéfices solides consiste à acheter immédiatement parce que les chiffres semblent bons. Le véritable alpha vient de la distinction de la cause de la surprise, de la confirmation de la durabilité au 2T26 et de l'entrée en tranches après que la chaleur post-annonce se soit dissipée.
 
-**La version en une ligne : Hana Micron est un échange de confirmation d'amélioration structurelle ; Jeju Semiconductor est un appel de synchronisation de pointe de cycle. La priorité de l'argent frais favorise Hana Micron, mais courir après l'un ou l'autre avant les résultats du 2T26 est inefficace.**
+<strong>La version en une ligne : Hana Micron est un échange de confirmation d'amélioration structurelle ; Jeju Semiconductor est un appel de synchronisation de pointe de cycle. La priorité de l'argent frais favorise Hana Micron, mais courir après l'un ou l'autre avant les résultats du 2T26 est inefficace.</strong>
 
 ---
 

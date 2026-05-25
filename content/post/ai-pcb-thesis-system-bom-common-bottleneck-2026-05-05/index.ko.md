@@ -24,7 +24,7 @@ tags:
 series: ["ai-pcb-substrate-thesis-2026"]
 ---
 
-> **섹터 지도:** 이 글은 파미셀 분석의 상위 레이어에 해당하는 AI 기판·PCB 투자 논거다. 기업별 비교는 [한국 AI 기판·PCB 생태계 10개사](/ko/post/korea-ai-pcb-ecosystem-ten-companies-2026-05-05/)에서 이어지고, 전체 길잡이는 [AI 기판·PCB 허브](/ko/page/korea-ai-pcb-substrate-hub/)에 모아둔다. [파미셀 1편](/ko/post/pamicell-doosan-electro-bg-proxy-rediscovery-2026-04-30/), [파미셀 2편](/ko/post/pamicell-four-layer-progress-and-fifth-cycle-layer-2026-05-03/), [삼성전기 AI 인프라 재평가 노트](/ko/post/samsung-electro-mechanics-ai-infrastructure-rerating-2026-04-21/)와 함께 읽으면 좋다.
+> <strong>섹터 지도:</strong> 이 글은 파미셀 분석의 상위 레이어에 해당하는 AI 기판·PCB 투자 논거다. 기업별 비교는 [한국 AI 기판·PCB 생태계 10개사](/ko/post/korea-ai-pcb-ecosystem-ten-companies-2026-05-05/)에서 이어지고, 전체 길잡이는 [AI 기판·PCB 허브](/ko/page/korea-ai-pcb-substrate-hub/)에 모아둔다. [파미셀 1편](/ko/post/pamicell-doosan-electro-bg-proxy-rediscovery-2026-04-30/), [파미셀 2편](/ko/post/pamicell-four-layer-progress-and-fifth-cycle-layer-2026-05-03/), [삼성전기 AI 인프라 재평가 노트](/ko/post/samsung-electro-mechanics-ai-infrastructure-rerating-2026-04-21/)와 함께 읽으면 좋다.
 
 출발점은 좁은 기업 질문이다. 한국 기업 중 AI PCB, FC-BGA, 저손실 소재 공급에서 가장 유리한 곳이 어디냐는 것이다. 이 글은 한 단계 위로 올라간다. 왜 이 생태계 전체에 자금이 들어와야 하는지를 묻는다.
 

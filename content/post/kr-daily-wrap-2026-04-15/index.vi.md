@@ -19,7 +19,7 @@ draft: false
 | USD/KRW | 1,477 | −0.0% | Ổn định |
 | Brent | $96.2/thùng | +1.1% | Ổn định |
 
-**Phán quyết chế độ:** KR = **Bull** | US = **Neutral** → Chiến lược: *Mở rộng chọn lọc tại Hàn Quốc*
+<strong>Phán quyết chế độ:</strong> KR = <strong>Bull</strong> | US = <strong>Neutral</strong> → Chiến lược: *Mở rộng chọn lọc tại Hàn Quốc*
 
 KOSPI đang giao dịch ở mức 6,091 điểm, tăng hơn 5% trong năm phiên gần nhất. KOSDAQ vượt trội hơn với mức tăng 7.1% cùng kỳ — cho thấy dòng tiền đang chấp nhận rủi ro ở cả hai sàn. VIX tại 18.2 phản ánh môi trường tâm lý được kiểm soát, không có áp lực hoảng loạn. Lợi suất trái phiếu Mỹ 10 năm đi ngang quanh 4.26%, DXY suy yếu nhẹ, và đồng won ổn định ở 1,477 — tổng thể là backdrop vĩ mô thuận lợi cho thị trường Hàn Quốc. Chênh lệch Bull (KR) versus Neutral (US) là tín hiệu rõ ràng ủng hộ phân bổ chọn lọc vào các lãnh đạo ngành tại KOSPI và KOSDAQ.
 
@@ -29,29 +29,29 @@ KOSPI đang giao dịch ở mức 6,091 điểm, tăng hơn 5% trong năm phiên
 
 > *Lưu ý: Bản tóm tắt phiên gần nhất hiện có là ngày 10/04/2026 — dữ liệu 15/04 sẽ được cập nhật khi đồng bộ.*
 
-**Đặc tính thị trường:** Risk-On chọn lọc — không phải broad rally toàn diện.
+<strong>Đặc tính thị trường:</strong> Risk-On chọn lọc — không phải broad rally toàn diện.
 
-Phiên 10/04 là điển hình của thị trường **"cổ phiếu tốt trở nên tốt hơn"** — dòng tiền mạnh tập trung vào một số cụm chủ đạo cụ thể, trong khi phần lớn cổ phiếu còn lại không được hưởng lợi tương xứng. Nhiều setup đột phá buổi sáng thất bại sau khi quá nhiệt và không giữ được vùng VWAP — dấu hiệu thị trường phân hóa cao, không dung nạp momentum kém chất lượng.
+Phiên 10/04 là điển hình của thị trường <strong>"cổ phiếu tốt trở nên tốt hơn"</strong> — dòng tiền mạnh tập trung vào một số cụm chủ đạo cụ thể, trong khi phần lớn cổ phiếu còn lại không được hưởng lợi tương xứng. Nhiều setup đột phá buổi sáng thất bại sau khi quá nhiệt và không giữ được vùng VWAP — dấu hiệu thị trường phân hóa cao, không dung nạp momentum kém chất lượng.
 
-**Nhóm mạnh:**
+<strong>Nhóm mạnh:</strong>
 
-- **Bán dẫn & AI hardware**: Samsung Electro-Mechanics (009150.KS) và Samsung Electronics (005930.KS) dẫn dắt cụm này với sự hậu thuẫn từ cả ngoại tệ lẫn tổ chức. Narrative mở rộng ra hạ tầng viễn thông — nhóm cổ phiếu cáp quang, linh kiện RF, thiết bị 5G nổi lên liên tục trong các tín hiệu giao dịch nội ngày như một cụm phụ trợ của AI infrastructure.
-- **Viễn thông phòng thủ + tăng trưởng**: SK Telecom (017670.KS) được Hana Securities duy trì khuyến nghị Buy với giá mục tiêu 100,000 KRW, phản ánh kỳ vọng chuẩn hóa lợi nhuận và chính sách cổ tức — không đơn giản chỉ là cổ phiếu phòng thủ luân phiên.
-- **Xây dựng & tái thiết Trung Đông**: Hyundai E&C nhận Buy và nâng giá mục tiêu lên 240,000 KRW từ Hana Securities. NH Securities duy trì Positive cho ngành xây dựng với luận điểm tái thiết Trung Đông. Thép liên quan cũng được hưởng lợi từ cùng narrative.
-- **Điện lực & năng lượng**: SMP tăng vọt +47%, kỳ vọng đơn hàng ESS xuất hiện liên tục. Cụm này có câu chuyện cấu trúc hấp dẫn nhưng chưa đủ điểm trực tiếp tiếp xúc với portfolio chính.
+- <strong>Bán dẫn & AI hardware</strong>: Samsung Electro-Mechanics (009150.KS) và Samsung Electronics (005930.KS) dẫn dắt cụm này với sự hậu thuẫn từ cả ngoại tệ lẫn tổ chức. Narrative mở rộng ra hạ tầng viễn thông — nhóm cổ phiếu cáp quang, linh kiện RF, thiết bị 5G nổi lên liên tục trong các tín hiệu giao dịch nội ngày như một cụm phụ trợ của AI infrastructure.
+- <strong>Viễn thông phòng thủ + tăng trưởng</strong>: SK Telecom (017670.KS) được Hana Securities duy trì khuyến nghị Buy với giá mục tiêu 100,000 KRW, phản ánh kỳ vọng chuẩn hóa lợi nhuận và chính sách cổ tức — không đơn giản chỉ là cổ phiếu phòng thủ luân phiên.
+- <strong>Xây dựng & tái thiết Trung Đông</strong>: Hyundai E&C nhận Buy và nâng giá mục tiêu lên 240,000 KRW từ Hana Securities. NH Securities duy trì Positive cho ngành xây dựng với luận điểm tái thiết Trung Đông. Thép liên quan cũng được hưởng lợi từ cùng narrative.
+- <strong>Điện lực & năng lượng</strong>: SMP tăng vọt +47%, kỳ vọng đơn hàng ESS xuất hiện liên tục. Cụm này có câu chuyện cấu trúc hấp dẫn nhưng chưa đủ điểm trực tiếp tiếp xúc với portfolio chính.
 
-**Nhóm yếu:**
+<strong>Nhóm yếu:</strong>
 
-- **Biotech tổng thể**: Các bình luận thị trường liên tục kêu gọi *giảm tỷ trọng biotech, tập trung IT/bán dẫn linh kiện*. Sentiment tương đối kém so với các cụm chủ đạo.
-- **Đuổi giá quá nhiệt**: Ngay cả trong cụm xây dựng — vốn có tin tức rất tốt — nhiều cổ phiếu như Daewoo Construction cuối phiên không giữ được vùng hỗ trợ sau khi bùng giá sáng. Thị trường phạt mạnh các lệnh đuổi đà muộn.
+- <strong>Biotech tổng thể</strong>: Các bình luận thị trường liên tục kêu gọi *giảm tỷ trọng biotech, tập trung IT/bán dẫn linh kiện*. Sentiment tương đối kém so với các cụm chủ đạo.
+- <strong>Đuổi giá quá nhiệt</strong>: Ngay cả trong cụm xây dựng — vốn có tin tức rất tốt — nhiều cổ phiếu như Daewoo Construction cuối phiên không giữ được vùng hỗ trợ sau khi bùng giá sáng. Thị trường phạt mạnh các lệnh đuổi đà muộn.
 
-**Tín hiệu dòng tiền:** Khối ngoại dẫn dắt phục hồi tại Samsung Electronics — đây là tín hiệu chất lượng, không phải rotation phòng thủ đơn thuần. Tổ chức phân hóa rõ: đồng hành với ngoại ở cụm bán dẫn/hạ tầng, bán mạnh ở cụm game và bio.
+<strong>Tín hiệu dòng tiền:</strong> Khối ngoại dẫn dắt phục hồi tại Samsung Electronics — đây là tín hiệu chất lượng, không phải rotation phòng thủ đơn thuần. Tổ chức phân hóa rõ: đồng hành với ngoại ở cụm bán dẫn/hạ tầng, bán mạnh ở cụm game và bio.
 
 ---
 
 ## 3. Screener Spotlight: Quiet Accumulation — Tích Lũy Lặng Lẽ (Thứ Tư)
 
-**Phương pháp luận:** Screener này bắt đúng giai đoạn *trước breakout* — khi nhà đầu tư nước ngoài đang âm thầm xây dựng vị thế trong vùng sideway/coil, trước khi khối lượng bùng nổ. Không giống Smart Money Screener (nhận diện sau khi volume đã nổ), Quiet Accumulation tập trung vào cổ phiếu nén giá ổn định với dấu hiệu ngoại tích lũy kiên trì.
+<strong>Phương pháp luận:</strong> Screener này bắt đúng giai đoạn *trước breakout* — khi nhà đầu tư nước ngoài đang âm thầm xây dựng vị thế trong vùng sideway/coil, trước khi khối lượng bùng nổ. Không giống Smart Money Screener (nhận diện sau khi volume đã nổ), Quiet Accumulation tập trung vào cổ phiếu nén giá ổn định với dấu hiệu ngoại tích lũy kiên trì.
 
 *Dữ liệu: 2026-04-15 | 96 ứng cử viên | Tier A (range ≤12%): 26 | Tier B (12–18%): 39 | Tier C (18–24%): 15*
 
@@ -72,15 +72,15 @@ Phiên 10/04 là điển hình của thị trường **"cổ phiếu tốt trở
 
 ### Phân tích Top 3
 
-**#1 — Hanwha Aerospace (012450.KS) | 1,509,000 KRW | Score: +1.95**
+<strong>#1 — Hanwha Aerospace (012450.KS) | 1,509,000 KRW | Score: +1.95</strong>
 
 Tập đoàn quốc phòng–hàng không lớn nhất Hàn Quốc, sản xuất động cơ phản lực, hệ thống vũ khí, và linh kiện hàng không vũ trụ. ROE 19.1% cùng doanh thu tăng trưởng YoY +137.6% phản ánh chu kỳ siêu tăng trưởng của ngành quốc phòng toàn cầu hậu 2022. Điều đáng chú ý là khối ngoại đang nắm giữ 45.5% vốn và *vẫn tiếp tục tích lũy thêm* (+0.79pp trong 20 ngày) dù giá đã ở vùng cao lịch sử — đây là conviction rõ ràng. Screener xếp vào Tier C (range 20.3%) nhưng dẫn đầu toàn bộ 96 ứng cử viên về điểm tổng hợp.
 
-**#2 — Goryeo Industrial (002140.KS) | 2,805 KRW | Score: +1.61**
+<strong>#2 — Goryeo Industrial (002140.KS) | 2,805 KRW | Score: +1.61</strong>
 
-Nhà sản xuất vật liệu và linh kiện công nghiệp quy mô nhỏ tại KOSPI. Điểm nổi bật duy nhất nhưng rất sắc nét: **Δ20d = +4.48pp** — mức tăng tỷ lệ sở hữu ngoại tệ mạnh nhất trong toàn bộ Tier A. Giá dao động hẹp (8.4% range, RSI trung lập 54.9) cho thấy chưa có catalyst rõ ràng, nhưng dòng tiền ngoại đang hành động quyết đoán. Cơ sở kinh doanh ở mức trung bình (ROE 8.4%) — đây là bet thuần túy vào dòng tiền, không phải chất lượng nền tảng.
+Nhà sản xuất vật liệu và linh kiện công nghiệp quy mô nhỏ tại KOSPI. Điểm nổi bật duy nhất nhưng rất sắc nét: <strong>Δ20d = +4.48pp</strong> — mức tăng tỷ lệ sở hữu ngoại tệ mạnh nhất trong toàn bộ Tier A. Giá dao động hẹp (8.4% range, RSI trung lập 54.9) cho thấy chưa có catalyst rõ ràng, nhưng dòng tiền ngoại đang hành động quyết đoán. Cơ sở kinh doanh ở mức trung bình (ROE 8.4%) — đây là bet thuần túy vào dòng tiền, không phải chất lượng nền tảng.
 
-**#3 — Handsome (020000.KS) | 23,900 KRW | Score: +0.81**
+<strong>#3 — Handsome (020000.KS) | 23,900 KRW | Score: +0.81</strong>
 
 Thương hiệu thời trang cao cấp thuộc tập đoàn Hyundai Department Store, vận hành các nhãn hàng như Time, System, SJSJ. Forward P/E chỉ 8x cho thấy định giá chiết khấu đáng kể trong khi khối ngoại tăng tỷ lệ sở hữu +2.48pp trong 20 ngày — mức tích lũy cao thứ hai toàn Tier C. Doanh thu ổn định, câu chuyện không ồn ào. Đây là nguyên mẫu cổ điển của Quiet Accumulation: giá nằm ngang, không có tin tức nổi bật, nhưng smart money đang xây dựng vị thế kiên nhẫn.
 

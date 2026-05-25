@@ -12,7 +12,7 @@ draft: false
 
 # Hanwha Ocean: The Naval Shipbuilding Giant Riding the Korean Shipbuilding Renaissance
 
-**Hanwha Ocean Co., Ltd. (ticker: 042660.KS, KOSPI)** sits at the intersection of three of the most powerful macro forces reshaping global maritime trade: the LNG energy transition, the post-Cold War naval rearmament cycle, and Korea's emergence as the world's premier high-complexity shipbuilding hub. Once known as troubled Daewoo Shipbuilding, the company has been reborn under Hanwha Group's ownership into something far more strategically interesting — and potentially far more valuable — than a conventional shipyard.
+<strong>Hanwha Ocean Co., Ltd. (ticker: 042660.KS, KOSPI)</strong> sits at the intersection of three of the most powerful macro forces reshaping global maritime trade: the LNG energy transition, the post-Cold War naval rearmament cycle, and Korea's emergence as the world's premier high-complexity shipbuilding hub. Once known as troubled Daewoo Shipbuilding, the company has been reborn under Hanwha Group's ownership into something far more strategically interesting — and potentially far more valuable — than a conventional shipyard.
 
 ---
 
@@ -20,15 +20,15 @@ draft: false
 
 | Field | Detail |
 |---|---|
-| **Full name** | Hanwha Ocean Co., Ltd. (한화오션) |
-| **Ticker / Exchange** | 042660.KS / KOSPI |
-| **Sector** | Industrials — Heavy Shipbuilding & Naval Defense |
-| **Headquarters** | Geoje, South Korea |
-| **Key products** | LNG carriers, VLCCs, VLACs, naval submarines, destroyers, MRO services |
-| **Share price (Apr 9, 2026)** | KRW 123,500 |
-| **Consensus target price** | \~KRW 160,000–170,000 |
+| <strong>Full name</strong> | Hanwha Ocean Co., Ltd. (한화오션) |
+| <strong>Ticker / Exchange</strong> | 042660.KS / KOSPI |
+| <strong>Sector</strong> | Industrials — Heavy Shipbuilding & Naval Defense |
+| <strong>Headquarters</strong> | Geoje, South Korea |
+| <strong>Key products</strong> | LNG carriers, VLCCs, VLACs, naval submarines, destroyers, MRO services |
+| <strong>Share price (Apr 9, 2026)</strong> | KRW 123,500 |
+| <strong>Consensus target price</strong> | \~KRW 160,000–170,000 |
 
-**Elevator pitch:** Hanwha Ocean is Korea's second-largest shipbuilder by revenue and arguably its most strategically positioned defense-maritime platform. It earns its keep building the LNG carriers and supertankers that power global energy trade, while simultaneously positioning itself as the anchor supplier for NATO-allied submarine and destroyer programs — from Canada's next-generation submarine fleet to the KDDX next-generation Korean destroyer. Backed by the Hanwha Group's defense conglomerate (which already spans land systems, aerospace, and guided weapons), Hanwha Ocean is the group's maritime arm in an era when navies worldwide are desperately trying to rearm faster than their domestic shipyards can manage.
+<strong>Elevator pitch:</strong> Hanwha Ocean is Korea's second-largest shipbuilder by revenue and arguably its most strategically positioned defense-maritime platform. It earns its keep building the LNG carriers and supertankers that power global energy trade, while simultaneously positioning itself as the anchor supplier for NATO-allied submarine and destroyer programs — from Canada's next-generation submarine fleet to the KDDX next-generation Korean destroyer. Backed by the Hanwha Group's defense conglomerate (which already spans land systems, aerospace, and guided weapons), Hanwha Ocean is the group's maritime arm in an era when navies worldwide are desperately trying to rearm faster than their domestic shipyards can manage.
 
 ---
 
@@ -36,13 +36,13 @@ draft: false
 
 ### The Three Macro Tailwinds
 
-**Tailwind 1: The LNG Supercycle**
+<strong>Tailwind 1: The LNG Supercycle</strong>
 
 Russia's invasion of Ukraine broke Europe's dependence on pipeline gas, permanently redirecting global LNG trade flows. The US now exports record volumes of LNG from Gulf Coast terminals — with approximately 55 MTPA of new liquefaction capacity coming online — and every additional MTPA requires roughly 3–5 new LNG carriers over the asset lifecycle. Meanwhile, the IMO's MEPC 83rd session is tightening greenhouse gas regulations, accelerating the retirement of older, less efficient tonnage and pulling forward demand for modern dual-fuel carriers.
 
 Hanwha Ocean builds LNG carriers with GTT membrane tank technology (French engineering firm GTT confirmed new tank design orders from Hanwha Ocean in January 2026) and has positioned its order book specifically around high-value gas carrier types: LNG carriers (LNGC), very large ammonia carriers (VLAC), very large ethane carriers (VLEC), and very large crude carriers (VLCC). As of their Q2 2025 investor call, LNG carriers alone represented approximately 60% of total revenues — a deliberate and margin-accretive choice.
 
-**Tailwind 2: Naval Rearmament**
+<strong>Tailwind 2: Naval Rearmament</strong>
 
 Global defense budgets are surging at a pace not seen since the Cold War. NATO members are under pressure to hit 2% GDP targets; Indo-Pacific nations are accelerating fleet modernization; and the United States — facing a shipbuilding deficit vs. China — is looking to allies for production capacity. Hanwha Ocean sits at the center of this realignment. The company is:
 
@@ -50,7 +50,7 @@ Global defense budgets are surging at a pace not seen since the Cold War. NATO m
 - A leading candidate for the KDDX next-generation Korean destroyer program (tender formally announced March 23, 2026)
 - An active participant in US Navy MRO through Philly Shipyard, Hanwha Group's Philadelphia-based US beachhead
 
-**Tailwind 3: Allied Shipbuilding Preference**
+<strong>Tailwind 3: Allied Shipbuilding Preference</strong>
 
 The Trump administration's push for allied industrial partnerships has been a direct tailwind. As one Korean media headline captured it: "Trump picked Hanwha Ocean — is it set to dominate the US Navy's KRW 55tn MRO market?" The US Navy's annual shipbuilding and MRO market is estimated at over KRW 55 trillion (\~US$38 billion). While Hanwha Ocean will not "monopolize" this market, the political alignment between Washington and Seoul is creating real commercial opportunities at Philly Shipyard that would have been unimaginable five years ago.
 
@@ -60,11 +60,11 @@ Hanwha Ocean competes primarily with HD Korea Shipbuilding & Offshore Engineerin
 
 Its moat has several layers:
 
-1. **LNG carrier technology leadership**: Korea's "Big Three" shipyards collectively hold \~80% of global LNG carrier orderbook. Hanwha Ocean's specific expertise in membrane-type LNG containment and gas-carrier engineering creates meaningful barriers.
+1. <strong>LNG carrier technology leadership</strong>: Korea's "Big Three" shipyards collectively hold \~80% of global LNG carrier orderbook. Hanwha Ocean's specific expertise in membrane-type LNG containment and gas-carrier engineering creates meaningful barriers.
 
-2. **Submarine and surface combatant credentials**: Hanwha Ocean has built the KSS-III Changbogo-III batch submarines in service with the ROK Navy — platforms with SLBM capability, among the most sophisticated conventional submarines in the world. Canada's defense procurement minister personally boarded one at the Geoje shipyard in February 2026.
+2. <strong>Submarine and surface combatant credentials</strong>: Hanwha Ocean has built the KSS-III Changbogo-III batch submarines in service with the ROK Navy — platforms with SLBM capability, among the most sophisticated conventional submarines in the world. Canada's defense procurement minister personally boarded one at the Geoje shipyard in February 2026.
 
-3. **Group synergy as a defense integrator**: Combined with Hanwha Systems (electronics/radar), Hanwha Aerospace (propulsion), and Hanwha Defense (weapons), Hanwha Ocean can offer allied navies a full turnkey package in ways standalone yards cannot.
+3. <strong>Group synergy as a defense integrator</strong>: Combined with Hanwha Systems (electronics/radar), Hanwha Aerospace (propulsion), and Hanwha Defense (weapons), Hanwha Ocean can offer allied navies a full turnkey package in ways standalone yards cannot.
 
 ---
 
@@ -72,7 +72,7 @@ Its moat has several layers:
 
 ### Revenue Breakdown
 
-Based on the H1 2025 semi-annual report filed with DART (dart.fss.or.kr) and Q3 2025 quarterly disclosures, Hanwha Ocean's consolidated H1 2025 revenue reached **KRW 6.44 trillion**, up 33.6% year-on-year. The segment breakdown:
+Based on the H1 2025 semi-annual report filed with DART (dart.fss.or.kr) and Q3 2025 quarterly disclosures, Hanwha Ocean's consolidated H1 2025 revenue reached <strong>KRW 6.44 trillion</strong>, up 33.6% year-on-year. The segment breakdown:
 
 | Segment | H1 2025 Revenue | Share |
 |---|---|---|
@@ -81,35 +81,35 @@ Based on the H1 2025 semi-annual report filed with DART (dart.fss.or.kr) and Q3 
 | E&I / Other | KRW 0.32tn | \~5% |
 | Consolidation adjustment | (KRW 0.38tn) | — |
 
-For full-year 2025, internal analysis pegs merchant marine revenues at approximately **KRW 10.5 trillion** and marine/special vessel revenues at approximately **KRW 0.83 trillion**, with combined order backlog at roughly **KRW 26.0 trillion** (merchant) and **KRW 6.3 trillion** (marine/special).
+For full-year 2025, internal analysis pegs merchant marine revenues at approximately <strong>KRW 10.5 trillion</strong> and marine/special vessel revenues at approximately <strong>KRW 0.83 trillion</strong>, with combined order backlog at roughly <strong>KRW 26.0 trillion</strong> (merchant) and <strong>KRW 6.3 trillion</strong> (marine/special).
 
-**The structural dynamic**: Today, merchant shipping earns the income; special vessels and defense pull the multiple. This two-engine architecture is central to how the market values Hanwha Ocean at a premium vs. peers.
+<strong>The structural dynamic</strong>: Today, merchant shipping earns the income; special vessels and defense pull the multiple. This two-engine architecture is central to how the market values Hanwha Ocean at a premium vs. peers.
 
 ### 4Q25 Deep Dive
 
 The most recent quarter (4Q25) showed:
-- Revenue: **KRW 3.23 trillion** (flat YoY, +6.8% QoQ)
-- Operating profit: **KRW 189.0 billion** (OPM: 5.9%)
-- Headline OPM was depressed by roughly **KRW 240 billion in one-time charges**: equal profit-sharing bonuses paid across 24,000 direct and contract employees, plus elevated cost estimates in the special vessel division
+- Revenue: <strong>KRW 3.23 trillion</strong> (flat YoY, +6.8% QoQ)
+- Operating profit: <strong>KRW 189.0 billion</strong> (OPM: 5.9%)
+- Headline OPM was depressed by roughly <strong>KRW 240 billion in one-time charges</strong>: equal profit-sharing bonuses paid across 24,000 direct and contract employees, plus elevated cost estimates in the special vessel division
 
-Adjusting for these one-offs, the underlying operating margin is estimated by analysts at approximately **13%** — consistent with Hanwha Ocean's broader trajectory toward double-digit margins as the backlog mixes toward contracts signed at post-2023 pricing.
+Adjusting for these one-offs, the underlying operating margin is estimated by analysts at approximately <strong>13%</strong> — consistent with Hanwha Ocean's broader trajectory toward double-digit margins as the backlog mixes toward contracts signed at post-2023 pricing.
 
 ### Key Growth Drivers (Next 12–24 Months)
 
-1. **Backlog conversion at higher contract prices**: Orders booked in 2023–2025 carry materially higher ASPs than the legacy book. As these vessels are progressively recognized, margin accretion is structural, not cyclical.
+1. <strong>Backlog conversion at higher contract prices</strong>: Orders booked in 2023–2025 carry materially higher ASPs than the legacy book. As these vessels are progressively recognized, margin accretion is structural, not cyclical.
 
-2. **LNG carrier and VLCC new orders**: In March 2026 alone, Hanwha Ocean announced KRW 1.3 trillion in new orders for 2 LNG carriers (to an Africa-based buyer) and 3 VLCCs — demonstrating continued commercial momentum even as the global orderbook fills up.
+2. <strong>LNG carrier and VLCC new orders</strong>: In March 2026 alone, Hanwha Ocean announced KRW 1.3 trillion in new orders for 2 LNG carriers (to an Africa-based buyer) and 3 VLCCs — demonstrating continued commercial momentum even as the global orderbook fills up.
 
-3. **Naval/defense revenue ramp**: The special vessel segment remains comparatively small but is the highest-multiple driver. Defense contract awards — particularly Canada submarine, KDDX, and US MRO — represent asymmetric upside to consensus estimates.
+3. <strong>Naval/defense revenue ramp</strong>: The special vessel segment remains comparatively small but is the highest-multiple driver. Defense contract awards — particularly Canada submarine, KDDX, and US MRO — represent asymmetric upside to consensus estimates.
 
-4. **Philly Shipyard**: Hanwha Group's acquisition of the Philadelphia shipyard gives Hanwha Ocean a US "boots on the ground" presence for Navy auxiliary shipbuilding and MRO. Multiple MRO contracts have already been secured in early 2026.
+4. <strong>Philly Shipyard</strong>: Hanwha Group's acquisition of the Philadelphia shipyard gives Hanwha Ocean a US "boots on the ground" presence for Navy auxiliary shipbuilding and MRO. Multiple MRO contracts have already been secured in early 2026.
 
 ### Margin Profile
 
-- **Current reported OPM (4Q25)**: \~5.9% (with large one-offs)
-- **Underlying OPM (analyst-adjusted)**: \~13%
-- **Trajectory**: Upward, as high-ASP post-2023 contracts displace older low-margin work, and special vessel/defense revenues grow as a share of the mix
-- **Risk**: Defense contract cost overruns and capacity expansion capex could create quarterly volatility
+- <strong>Current reported OPM (4Q25)</strong>: \~5.9% (with large one-offs)
+- <strong>Underlying OPM (analyst-adjusted)</strong>: \~13%
+- <strong>Trajectory</strong>: Upward, as high-ASP post-2023 contracts displace older low-margin work, and special vessel/defense revenues grow as a share of the mix
+- <strong>Risk</strong>: Defense contract cost overruns and capacity expansion capex could create quarterly volatility
 
 ---
 
@@ -135,7 +135,7 @@ Simultaneously, the US Navy MRO opportunity at Philly Shipyard is translating fr
 
 ### Catalyst 3: Margin Expansion as High-ASP Backlog Converts
 
-By management's own guidance (Q2 2025 investor call), revenues from post-2023 contracted projects will continue to represent a rising share of recognized revenue through 2026 and 2027. Given that contract prices for LNG carriers signed post-2023 are significantly above legacy book prices, and given that the special vessel segment carries inherently higher margins when cost overruns stabilize, the medium-term earnings trajectory is positively skewed. Consensus 2026 operating profit expectations imply a step-up toward a **KRW 1.3 trillion operating profit** level — which would represent an operating margin above 10% on a cleaner basis.
+By management's own guidance (Q2 2025 investor call), revenues from post-2023 contracted projects will continue to represent a rising share of recognized revenue through 2026 and 2027. Given that contract prices for LNG carriers signed post-2023 are significantly above legacy book prices, and given that the special vessel segment carries inherently higher margins when cost overruns stabilize, the medium-term earnings trajectory is positively skewed. Consensus 2026 operating profit expectations imply a step-up toward a <strong>KRW 1.3 trillion operating profit</strong> level — which would represent an operating margin above 10% on a cleaner basis.
 
 ---
 
@@ -162,7 +162,7 @@ This volatility creates sentiment risk: a miss in a high-expectation quarter can
 
 ### Risk 3: Valuation Premium Leaves Limited Margin of Safety
 
-Forward consensus PER is approximately **29.2x** — a substantial premium to HD KSOE and Samsung Heavy Industries, which trade at lower multiples. This premium prices in a meaningful probability that the Canada submarine program is won, KDDX is secured, and the defense revenue ramp materializes on schedule.
+Forward consensus PER is approximately <strong>29.2x</strong> — a substantial premium to HD KSOE and Samsung Heavy Industries, which trade at lower multiples. This premium prices in a meaningful probability that the Canada submarine program is won, KDDX is secured, and the defense revenue ramp materializes on schedule.
 
 If even one of these catalysts slips meaningfully, the premium can compress quickly. At KRW 123,500 (as of April 9, 2026), the stock is not "undiscovered cheap" — it is a high-quality story that must continuously deliver proof points. The macro environment adds another layer: a stronger Korean won, rising steel prices (shipbuilding's key input cost), or a broad risk-off rotation in KOSPI names with elevated PERs could all pressure the valuation.
 
@@ -170,9 +170,9 @@ If even one of these catalysts slips meaningfully, the premium can compress quic
 
 ## 6. Valuation Context
 
-**Is Hanwha Ocean cheap or expensive?**
+<strong>Is Hanwha Ocean cheap or expensive?</strong>
 
-At the April 9, 2026 close of KRW 123,500, with analyst consensus target prices clustering in the **KRW 160,000–170,000** range (implying 29–38% upside), the stock trades at a visible discount to consensus fair value — but that discount is not the same as "cheap."
+At the April 9, 2026 close of KRW 123,500, with analyst consensus target prices clustering in the <strong>KRW 160,000–170,000</strong> range (implying 29–38% upside), the stock trades at a visible discount to consensus fair value — but that discount is not the same as "cheap."
 
 | Metric | Hanwha Ocean | HD KSOE (peer) | Samsung Heavy (peer) |
 |---|---|---|---|
@@ -182,13 +182,13 @@ At the April 9, 2026 close of KRW 123,500, with analyst consensus target prices 
 
 The premium Hanwha Ocean commands over HD KSOE and Samsung Heavy is almost entirely attributable to the defense/special vessel re-rating narrative and Hanwha Group's strategic positioning. Historically, pure-play commercial shipyards trade at 8–12x normalized earnings. The 29x forward multiple implies the market is already discounting a substantial defense revenue contribution — meaning execution risk is priced in, not dismissed.
 
-**Comparable frameworks**:
+<strong>Comparable frameworks</strong>:
 - Naval defense companies globally (Bath Iron Works comps via General Dynamics, Fincantieri) trade at 15–25x, but with much more stable, contracted revenue streams
 - Korean shipbuilders historically traded at cyclical trough P/Bs of 0.5–1.0x and cycle peaks of 1.5–2.5x book value
 
 For reference on official filings, valuation data is reported via DART (dart.fss.or.kr) and KRX (krx.co.kr), with quarterly disclosures in both Korean and English-language IR materials available at Hanwha Ocean's investor relations page.
 
-**Synthesis**: The stock is best understood as a **high-quality thesis at a full-to-fair valuation** — not a distressed or overlooked situation, but a genuine structural growth story whose price requires the thesis to keep proving itself. As our internal analysis framework summarizes: "fundamentally positive, but technically requires confirmation before aggressive adds."
+<strong>Synthesis</strong>: The stock is best understood as a <strong>high-quality thesis at a full-to-fair valuation</strong> — not a distressed or overlooked situation, but a genuine structural growth story whose price requires the thesis to keep proving itself. As our internal analysis framework summarizes: "fundamentally positive, but technically requires confirmation before aggressive adds."
 
 ---
 
@@ -196,10 +196,10 @@ For reference on official filings, valuation data is reported via DART (dart.fss
 
 ### Direct Market Access
 
-Hanwha Ocean trades on the **KOSPI** (Korea Composite Stock Price Index) under ticker **042660**. Foreign investors can access KOSPI-listed stocks through:
+Hanwha Ocean trades on the <strong>KOSPI</strong> (Korea Composite Stock Price Index) under ticker <strong>042660</strong>. Foreign investors can access KOSPI-listed stocks through:
 
-- **International brokerage accounts** with Korean market access (Interactive Brokers, Fidelity International, Charles Schwab International, most major Asian brokerages)
-- **KRX Global Market** framework, which facilitates foreign participation
+- <strong>International brokerage accounts</strong> with Korean market access (Interactive Brokers, Fidelity International, Charles Schwab International, most major Asian brokerages)
+- <strong>KRX Global Market</strong> framework, which facilitates foreign participation
 - Settlement is T+2 in Korean won (KRW); FX conversion through your broker applies
 
 ### ADR / GDR
@@ -210,35 +210,35 @@ As of the time of writing, Hanwha Ocean does not have a US-listed ADR or a GDR p
 
 Hanwha Ocean appears as a constituent in several Korea-focused and broader Asian industrial ETFs. Relevant vehicles (holdings subject to change; verify current weights with fund provider):
 
-- **iShares MSCI South Korea ETF (EWY)** — broad Korea equity exposure; industrials sector has meaningful weight
-- **Franklin FTSE South Korea ETF (FLKR)** — similar broad Korea coverage
-- **VanEck Vectors Rare Earth/Strategic Metals ETF** — adjacent but less direct
+- <strong>iShares MSCI South Korea ETF (EWY)</strong> — broad Korea equity exposure; industrials sector has meaningful weight
+- <strong>Franklin FTSE South Korea ETF (FLKR)</strong> — similar broad Korea coverage
+- <strong>VanEck Vectors Rare Earth/Strategic Metals ETF</strong> — adjacent but less direct
 - Korea-listed sector ETFs focused on shipbuilding and defense (available via domestic Korean brokerages or platforms supporting KOSPI access)
 
 For investors specifically seeking targeted Korean shipbuilding exposure, direct shares on KOSPI offer the cleanest access.
 
 ### Practical Notes for Foreign Investors
 
-1. **Disclosure language**: All mandatory filings (사업보고서, 분기보고서) are filed in Korean on DART (dart.fss.or.kr). Hanwha Ocean publishes English-language investor presentations and quarterly earnings call transcripts, which are available on the company's IR website.
+1. <strong>Disclosure language</strong>: All mandatory filings (사업보고서, 분기보고서) are filed in Korean on DART (dart.fss.or.kr). Hanwha Ocean publishes English-language investor presentations and quarterly earnings call transcripts, which are available on the company's IR website.
 
-2. **FX considerations**: KRW has historically been volatile vs. USD and EUR, particularly during global risk-off episodes. The KRW/USD rate is a meaningful return driver for non-Korean investors.
+2. <strong>FX considerations</strong>: KRW has historically been volatile vs. USD and EUR, particularly during global risk-off episodes. The KRW/USD rate is a meaningful return driver for non-Korean investors.
 
-3. **Foreign ownership limits**: Korea does not impose sector-specific foreign ownership caps on commercial shipbuilders, but defense-sensitive entities may be subject to scrutiny in M&A contexts. Passive portfolio investment in KOSPI-listed shares is unrestricted for most foreign investors.
+3. <strong>Foreign ownership limits</strong>: Korea does not impose sector-specific foreign ownership caps on commercial shipbuilders, but defense-sensitive entities may be subject to scrutiny in M&A contexts. Passive portfolio investment in KOSPI-listed shares is unrestricted for most foreign investors.
 
-4. **Tax**: Korea imposes a securities transaction tax on share sales; capital gains from KOSPI shares are generally not taxed for foreign portfolio investors under most tax treaties, though withholding tax applies to dividends. Consult your tax advisor.
+4. <strong>Tax</strong>: Korea imposes a securities transaction tax on share sales; capital gains from KOSPI shares are generally not taxed for foreign portfolio investors under most tax treaties, though withholding tax applies to dividends. Consult your tax advisor.
 
 ---
 
 ## Key Questions Investors Ask
 
-**Is Hanwha Ocean a good investment?**
+<strong>Is Hanwha Ocean a good investment?</strong>
 Hanwha Ocean presents a compelling structural growth thesis — LNG carrier dominance, defense re-rating, and a beachhead in US naval markets. The stock is not cheap at \~29x forward earnings, and the thesis requires continued execution on large naval contracts. It suits investors who have conviction in the Korean Shipbuilding Renaissance narrative and can tolerate quarterly earnings volatility. *This is analysis, not investment advice.*
 
-**How to buy Hanwha Ocean stock?**
+<strong>How to buy Hanwha Ocean stock?</strong>
 International investors can purchase 042660.KS directly on the KOSPI through brokerages offering Korean market access (e.g., Interactive Brokers). There is currently no US-listed ADR. ETFs like EWY provide indirect exposure. Settlement is in KRW (T+2).
 
-**What is Hanwha Ocean's ticker?**
-Hanwha Ocean Co., Ltd. trades under ticker **042660** on the Korea Stock Exchange (KOSPI). The Bloomberg code is 042660 KS Equity; Reuters is 042660.KS.
+<strong>What is Hanwha Ocean's ticker?</strong>
+Hanwha Ocean Co., Ltd. trades under ticker <strong>042660</strong> on the Korea Stock Exchange (KOSPI). The Bloomberg code is 042660 KS Equity; Reuters is 042660.KS.
 
 ---
 
@@ -252,7 +252,7 @@ Hanwha Ocean Co., Ltd. trades under ticker **042660** on the Korea Stock Exchang
 | Valuation comfort | Limited — story is well-known, premium already embedded |
 | Catalyst timing | Active — H2 2026 Canada decision is a near-term binary event |
 
-**Overall**: Hanwha Ocean is a structural compounder dressed in a cyclical's clothing. The LNG cycle provides the earnings floor; the defense narrative provides the ceiling. At current levels, the risk/reward favors patience and event-driven entry over momentum chasing — but the long-term thesis is among the most credible in Korean equities.
+<strong>Overall</strong>: Hanwha Ocean is a structural compounder dressed in a cyclical's clothing. The LNG cycle provides the earnings floor; the defense narrative provides the ceiling. At current levels, the risk/reward favors patience and event-driven entry over momentum chasing — but the long-term thesis is among the most credible in Korean equities.
 
 ---
 

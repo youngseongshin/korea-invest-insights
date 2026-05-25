@@ -21,9 +21,9 @@ For international investors watching Korea, this regime has a clear implication:
 
 Two macro variables are shaping the near-term environment in ways that matter beyond Korea's borders.
 
-**Hormuz and energy volatility.** Partial expectations of resumed Strait of Hormuz transit have circulated, but supply normalization is far from confirmed. Any re-escalation in the Middle East would hit high-beta growth equities hard — particularly those with global demand exposure. This is not a Korea-specific risk, but it registers more acutely for a market where semiconductor and tech hardware names carry significant index weight.
+<strong>Hormuz and energy volatility.</strong> Partial expectations of resumed Strait of Hormuz transit have circulated, but supply normalization is far from confirmed. Any re-escalation in the Middle East would hit high-beta growth equities hard — particularly those with global demand exposure. This is not a Korea-specific risk, but it registers more acutely for a market where semiconductor and tech hardware names carry significant index weight.
 
-**USD/KRW and foreign flows.** The won-dollar rate remains a critical variable for assessing large-cap Korean names like Samsung Electronics (005930.KS), the country's largest company by market cap and a bellwether for the broader KOSPI. Foreign institutional re-entry into Korean blue chips has been inconsistent, and the data does not yet support a confident core position expansion. Until foreign flows show sustained conviction — at least three consecutive sessions of net buying — the appropriate stance is conservative on large-cap additions.
+<strong>USD/KRW and foreign flows.</strong> The won-dollar rate remains a critical variable for assessing large-cap Korean names like Samsung Electronics (005930.KS), the country's largest company by market cap and a bellwether for the broader KOSPI. Foreign institutional re-entry into Korean blue chips has been inconsistent, and the data does not yet support a confident core position expansion. Until foreign flows show sustained conviction — at least three consecutive sessions of net buying — the appropriate stance is conservative on large-cap additions.
 
 ---
 
@@ -35,8 +35,8 @@ LG Innotek, the components subsidiary of LG Corp and a primary camera module sup
 
 The bull thesis is straightforward — multiple business lines are inflecting at the same time, and the earnings revision cycle has momentum. The key risk is concentrated in one question: North American smartphone demand. LG Innotek's fortunes are tightly coupled to its largest customer, and any confirmed softening in end-demand would quickly undermine the thesis.
 
-**Watch for:** 20-day moving average support holding, or further upward revision to Q1 2026 earnings previews.
-**Invalidation:** Break of the 20-day moving average accompanied by evidence of North American demand deterioration.
+<strong>Watch for:</strong> 20-day moving average support holding, or further upward revision to Q1 2026 earnings previews.
+<strong>Invalidation:</strong> Break of the 20-day moving average accompanied by evidence of North American demand deterioration.
 
 ---
 
@@ -46,8 +46,8 @@ Pearl Abyss, the Korean game developer behind the globally distributed *Black De
 
 That's the good news. The complication is that the stock has already moved substantially, and at this stage, adding aggressively would mean chasing price — a poor risk/reward trade. The correct posture here is hold and confirm, not buy more.
 
-**Watch for:** 10-day moving average holding, with continued foreign and institutional re-entry confirming the trend.
-**Invalidation:** Break below the 10-day moving average, combined with deterioration in concurrent user metrics, review sentiment, or flow data.
+<strong>Watch for:</strong> 10-day moving average holding, with continued foreign and institutional re-entry confirming the trend.
+<strong>Invalidation:</strong> Break below the 10-day moving average, combined with deterioration in concurrent user metrics, review sentiment, or flow data.
 
 ---
 
@@ -59,8 +59,8 @@ The Q1 2026 earnings outlook is positive, and the investment case is reinforced 
 
 The risk is that trading volume contraction or regulatory disappointment slows the rerating trajectory considerably.
 
-**Watch for:** Relative attractiveness maintained versus Kiwoom, with earnings and dividend momentum confirming.
-**Invalidation:** Sustained trading volume decline plus rollback of regulatory expectations.
+<strong>Watch for:</strong> Relative attractiveness maintained versus Kiwoom, with earnings and dividend momentum confirming.
+<strong>Invalidation:</strong> Sustained trading volume decline plus rollback of regulatory expectations.
 
 ---
 
@@ -70,8 +70,8 @@ RFHIC is a Korean manufacturer of GaN (gallium nitride) semiconductor components
 
 The problem is timing. The stock has already priced in a significant portion of the optimism, and buying at current levels would deteriorate the risk/reward ratio meaningfully. This is a name to track, not to initiate at current prices.
 
-**Watch for:** A consolidation phase followed by volume re-expansion — a classic momentum reset that would offer a more favorable entry.
-**Invalidation:** Order momentum slowing, or relative strength breaking down on a sustained basis.
+<strong>Watch for:</strong> A consolidation phase followed by volume re-expansion — a classic momentum reset that would offer a more favorable entry.
+<strong>Invalidation:</strong> Order momentum slowing, or relative strength breaking down on a sustained basis.
 
 ---
 

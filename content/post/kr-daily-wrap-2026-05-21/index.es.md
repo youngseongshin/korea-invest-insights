@@ -20,7 +20,7 @@ draft: false
 | USD/KRW | 1.507 | +0,9% | → Neutral |
 | Brent | 107,2 USD | −4,4% | 📉 Presión |
 
-**Veredicto de régimen**: Corea **Bull** · EE.UU. **Bull** · Postura recomendada: expansión activa.
+<strong>Veredicto de régimen</strong>: Corea <strong>Bull</strong> · EE.UU. <strong>Bull</strong> · Postura recomendada: expansión activa.
 
 La gran capitalización superó al KOSDAQ en 6,4 pp durante la semana. La divergencia refleja concentración de capital en semiconductores de primer nivel, no una recuperación amplia del mercado.
 
@@ -30,13 +30,13 @@ La gran capitalización superó al KOSDAQ en 6,4 pp durante la semana. La diverg
 
 La sesión fue un *risk-on* concentrado, no un rally de amplitud. El KOSPI avanzó más del 8% intradiario y el KOSDAQ un 4,8%, pero el movimiento respondió a tres catalizadores que apuntaron al mismo sector.
 
-**Primer catalizador**: Samsung Electronics (005930.KS) resolvió temporalmente el conflicto sindical, eliminando el riesgo de huelga general prevista para el mismo día. **Segundo**: los resultados de NVIDIA confirmaron ingresos en centros de datos de 75.200 millones de dólares, con redes creciendo +199% interanual. **Tercero**: las exportaciones coreanas de semiconductores del 1 al 20 de mayo mostraron aceleración del ciclo; los precios de LPDDR5X 16 GB subieron un estimado de +81% trimestre a trimestre según Mirae Asset, con NAND y UFS también al alza.
+<strong>Primer catalizador</strong>: Samsung Electronics (005930.KS) resolvió temporalmente el conflicto sindical, eliminando el riesgo de huelga general prevista para el mismo día. <strong>Segundo</strong>: los resultados de NVIDIA confirmaron ingresos en centros de datos de 75.200 millones de dólares, con redes creciendo +199% interanual. <strong>Tercero</strong>: las exportaciones coreanas de semiconductores del 1 al 20 de mayo mostraron aceleración del ciclo; los precios de LPDDR5X 16 GB subieron un estimado de +81% trimestre a trimestre según Mirae Asset, con NAND y UFS también al alza.
 
-**Sectores fuertes**: electrónica y semiconductores lideraron sin discusión. Samsung Electronics (005930.KS) subió +8,5% con compras extranjeras netas de 1,07 billones de KRW. Samsung Electro-Mechanics (009150.KS) avanzó +13,5% con flujo institucional y extranjero coordinado. En el eje PCB para IA, Daeduck Electronics (353200.KQ) sumó +10,1% y Simtec (심텍) repuntó +21% con volumen 1,9 veces superior a la media. EO Technics (039030.KQ) ganó +18,8% con compras netas de extranjeros e instituciones.
+<strong>Sectores fuertes</strong>: electrónica y semiconductores lideraron sin discusión. Samsung Electronics (005930.KS) subió +8,5% con compras extranjeras netas de 1,07 billones de KRW. Samsung Electro-Mechanics (009150.KS) avanzó +13,5% con flujo institucional y extranjero coordinado. En el eje PCB para IA, Daeduck Electronics (353200.KQ) sumó +10,1% y Simtec (심텍) repuntó +21% con volumen 1,9 veces superior a la media. EO Technics (039030.KQ) ganó +18,8% con compras netas de extranjeros e instituciones.
 
-**Sectores débiles**: inmobiliario, alimentos y bebidas, papel y madera, y parte del sector biofarmacéutico quedaron al margen. La rotación fue explícita: el capital salió de defensivos y entró en el eje IA/semiconductores. Nombres de juego y consumo que no cuentan con el apoyo de este ciclo acusaron la diferencia de flujo.
+<strong>Sectores débiles</strong>: inmobiliario, alimentos y bebidas, papel y madera, y parte del sector biofarmacéutico quedaron al margen. La rotación fue explícita: el capital salió de defensivos y entró en el eje IA/semiconductores. Nombres de juego y consumo que no cuentan con el apoyo de este ciclo acusaron la diferencia de flujo.
 
-**Riesgos abiertos**: el USD/KRW en 1.507 y la tensión en tipos largos de EE.UU. y Japón siguen siendo variables que limitan la expansión indiscriminada. El movimiento de hoy fue temático, no sistémico; el marco macro no ha cambiado de forma estructural.
+<strong>Riesgos abiertos</strong>: el USD/KRW en 1.507 y la tensión en tipos largos de EE.UU. y Japón siguen siendo variables que limitan la expansión indiscriminada. El movimiento de hoy fue temático, no sistémico; el marco macro no ha cambiado de forma estructural.
 
 ---
 
@@ -61,16 +61,16 @@ El meta-cribador evaluó 109 tickers y seleccionó 20 candidatos principales. Lo
 
 ### Contexto detallado — top tres candidatos
 
-**1. Samyang NCC (482630.KQ) — Meta Score 101,0**
+<strong>1. Samyang NCC (482630.KQ) — Meta Score 101,0</strong>
 
 Fabricante de productos químicos especiales. Aparece en cinco cribadores, incluido PEAD Tier B. El margen operativo subió +4,3 pp y el beneficio operativo creció +64,5% interanual. El flujo neto combinado de extranjeros e instituciones de calidad sumó 3.800 millones de KRW en cinco días. La empresa celebró una sesión de IR el 18 de mayo, publicada en DART, lo que puede haber acelerado la visibilidad institucional. El meta-cribador lo puntúa por encima de BM pese a tener el mismo número de señales, por la combinación de calidad compuesta más alta y la confirming del catalizador oficial. Verificación pendiente: sostenibilidad del ciclo de especialidad química y expansión del margen en la siguiente guía trimestral.
 
-**2. BM (089970.KQ) — Meta Score 98,5**
+<strong>2. BM (089970.KQ) — Meta Score 98,5</strong>
 
 Fabricante de maquinaria especial para el proceso de semiconductores. Lidera la intersección de cinco cribadores en el ranking de solapamiento puro. El crecimiento operativo es el más alto del universo analizado: +386,9% interanual con expansión de margen de +29,3 pp. El flujo neto de extranjeros e instituciones alcanzó 19.180 millones de KRW en cinco días. El retorno de 20 días está en +9,7%, sin señal de sobreextensión. Solo dispone de una comunicación DART reciente (informe trimestral de marzo 2026), sin catalizadores oficiales adicionales confirmados. Verificación pendiente: visibilidad del libro de pedidos para el segundo semestre de 2026 y validación de que el salto de margen no responde a un efecto base puntual.
 
-**3. Jeju Semiconductor (080220.KQ) — Meta Score 80,2 ⚠️**
+<strong>3. Jeju Semiconductor (080220.KQ) — Meta Score 80,2 ⚠️</strong>
 
 Fabricante de semiconductores de nicho con ROE del 17,4% y crecimiento operativo de +274,4% interanual. El RS percentil de 98,6 lo sitúa entre los nombres de mayor impulso relativo del mercado. Sin embargo, DART registró cuatro comunicaciones de riesgo en los últimos 21 días, incluyendo la designación de titulares de opciones de compra sobre bonos convertibles y bonos con warrant, señal de posible dilución. La acción subió +24,3% en la sesión de hoy con RSI en 89,2. Candidato a seguimiento en el universo de análisis, pero solo válido técnica y fundamentalmente tras una corrección; la estructura de dilución potencial exige verificación antes de cualquier valoración de precio objetivo.
 
-> **Nota metodológica**: el meta-cribador prioriza la confluencia de señales múltiples sobre la fuerza de una señal aislada. Los nombres con cinco señales simultáneas representan los casos donde calidad fundamental, flujo institucional y reevaluación del ciclo de resultados apuntan en la misma dirección el mismo día. Esta selección es un punto de partida para análisis de segundo nivel, no una señal de compra o venta.
+> <strong>Nota metodológica</strong>: el meta-cribador prioriza la confluencia de señales múltiples sobre la fuerza de una señal aislada. Los nombres con cinco señales simultáneas representan los casos donde calidad fundamental, flujo institucional y reevaluación del ciclo de resultados apuntan en la misma dirección el mismo día. Esta selección es un punto de partida para análisis de segundo nivel, no una señal de compra o venta.

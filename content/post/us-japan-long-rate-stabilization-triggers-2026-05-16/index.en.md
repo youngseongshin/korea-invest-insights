@@ -13,7 +13,7 @@ tags:
 slug: us-japan-long-rate-stabilization-triggers-2026-05-16
 ---
 
-> 📚 **Macro Cycle Series**
+> 📚 <strong>Macro Cycle Series</strong>
 >
 > Previous: [Why Everything Moves at Once — Iran, Oil, US Inflation, China, and Japan as a Single Cycle](/post/2026-q2-macro-cycle-synthesis-2026-05-15/)
 >
@@ -31,13 +31,13 @@ My judgment lies in between. A short-term stabilization is possible. But this is
 
 ## Key Summary
 
-* **Current state**: US 10-year at 4.46%, 30-year at 5.02%, Japan 10-year at 2.55% (highest since 1997), Japan 30-year near 4.0%.
-* **Decomposing the drivers**: This is not simply a product of hawkish Fed commentary. Expected short-term rates, inflation premiums, term premiums, and bond supply premiums have all moved higher simultaneously.
-* **Stabilization potential**: Possible, but conditional. The structure does not unwind automatically over time.
-* **Five core triggers**: Hormuz normalization and falling oil prices; containment of energy pass-through into US core CPI/PPI; BOJ June meeting guidance; recovery in demand at 10-year and 30-year US Treasury auctions; flight-to-safety flows triggered by risk-asset corrections.
-* **1-to-3-month scenarios**: Fast stabilization 20–25%, range-bound consolidation 45–50%, renewed seizure 25–30%.
-* **Single most important variable**: Hormuz transit normalization. This one variable touches US inflation and Japan import prices simultaneously.
-* **Investment judgment**: It is premature to place a large bet on stabilization in advance. A staged entry after two to three of the five triggers are confirmed is more defensible.
+* <strong>Current state</strong>: US 10-year at 4.46%, 30-year at 5.02%, Japan 10-year at 2.55% (highest since 1997), Japan 30-year near 4.0%.
+* <strong>Decomposing the drivers</strong>: This is not simply a product of hawkish Fed commentary. Expected short-term rates, inflation premiums, term premiums, and bond supply premiums have all moved higher simultaneously.
+* <strong>Stabilization potential</strong>: Possible, but conditional. The structure does not unwind automatically over time.
+* <strong>Five core triggers</strong>: Hormuz normalization and falling oil prices; containment of energy pass-through into US core CPI/PPI; BOJ June meeting guidance; recovery in demand at 10-year and 30-year US Treasury auctions; flight-to-safety flows triggered by risk-asset corrections.
+* <strong>1-to-3-month scenarios</strong>: Fast stabilization 20–25%, range-bound consolidation 45–50%, renewed seizure 25–30%.
+* <strong>Single most important variable</strong>: Hormuz transit normalization. This one variable touches US inflation and Japan import prices simultaneously.
+* <strong>Investment judgment</strong>: It is premature to place a large bet on stabilization in advance. A staged entry after two to three of the five triggers are confirmed is more defensible.
 
 ---
 

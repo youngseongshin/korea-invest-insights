@@ -16,11 +16,11 @@ tags:
   - "vật liệu đặc biệt"
 ---
 
-> 📚 **Series Pamicell — Phần 3.**
+> 📚 <strong>Series Pamicell — Phần 3.</strong>
 > Phần 1: [Pamicell — Dòng mua ròng từ nước ngoài và tổ chức tháng 4 và câu chuyện tái định giá vật liệu AI CCL của Doosan Electro BG](/post/pamicell-doosan-electro-bg-proxy-rediscovery-2026-04-30/)
 > Phần 2: [Pamicell Phần 2 — Chuyển dịch sang vật liệu AI CCL và chu kỳ ngành 12–24 tháng](/post/pamicell-four-layer-progress-and-fifth-cycle-layer-2026-05-03/)
 >
-> 🔗 **Đọc thêm**: [Bộ lọc ROE 25% — 4 cổ phiếu vượt 9 tiêu chí](/post/roe-25-screening-only-four-pass-2026-05-07/) · [Hệ sinh thái AI PCB Hàn Quốc: 10 công ty](/post/korea-ai-pcb-ecosystem-ten-companies-2026-05-05/) · [Tại sao Hàn Quốc Phần 1 — Đế chất bán dẫn](/post/why-korea-semiconductor-substrate-competitive-edge-2026-05-07/)
+> 🔗 <strong>Đọc thêm</strong>: [Bộ lọc ROE 25% — 4 cổ phiếu vượt 9 tiêu chí](/post/roe-25-screening-only-four-pass-2026-05-07/) · [Hệ sinh thái AI PCB Hàn Quốc: 10 công ty](/post/korea-ai-pcb-ecosystem-ten-companies-2026-05-05/) · [Tại sao Hàn Quốc Phần 1 — Đế chất bán dẫn](/post/why-korea-semiconductor-substrate-competitive-edge-2026-05-07/)
 
 *Phần 1 và 2 đã theo dõi quá trình tái định vị của Pamicell từ một công ty hóa sinh sang nhà cung cấp vật liệu thượng nguồn CCL (đồng phủ laminate) cho bộ nhớ AI. KRX chính thức thay đổi mã ngành từ "sản xuất dược phẩm cơ bản" sang "sản xuất linh kiện điện tử" vào ngày 4/5. Citi và Goldman Sachs xác định tình trạng thiếu hụt nguồn cung CCL là "trạng thái bình thường mới" giai đoạn 2026–2027. Ngày 12/5, kết quả Q1/2026 được công bố — doanh thu ₩36,7 tỷ (đồng thuận ₩33,1 tỷ), LNHĐ ₩13,1 tỷ (đồng thuận ₩10,6 tỷ), biên LNHĐ 35,7%. Đây là lần đầu tiên luận điểm của Phần 1 / 2 được kiểm chứng bằng con số thực tế.*
 
@@ -28,11 +28,11 @@ tags:
 
 ## Tóm tắt nhanh
 
-* **LNHĐ Q1 ₩13,1 tỷ vượt đồng thuận (₩10,6 tỷ) tới +23,6%.** Doanh thu ₩36,7 tỷ cũng vượt đồng thuận ₩33,1 tỷ tới +10,9%. Biên LNHĐ 35,7%, với doanh thu tăng +43,4% so với quý trước (₩25,6 tỷ → ₩36,7 tỷ).
-* **Doanh thu bứt phá khỏi vùng tích lũy.** Bốn quý liên tiếp (Q1/2025–Q4/2025) doanh thu dao động trong biên ₩21,5–27,0 tỷ. Q1/2026 đạt ₩36,7 tỷ — vượt ngưỡng trên khoảng \~₩10 tỷ.
-* **Biên LNHĐ nhảy vọt từ 30–32% lên 35,7%.** Nếu chỉ tăng sản lượng thuần túy, biên lợi nhuận sẽ không đổi; việc doanh thu và biên lợi nhuận cùng cải thiện cho thấy cơ cấu sản phẩm dịch chuyển sang nhóm giá trị cao hơn (vật liệu điện môi thấp).
-* **Để đạt LNHĐ cả năm 2026 từ ₩60 tỷ trở lên, LNHĐ bình quân Q2–Q4 cần đạt ₩15,0 tỷ+.** Kết quả Q1 ₩13,1 tỷ đáp ứng "điều kiện cần", chưa phải "điều kiện đủ".
-* **PER TTM dao động trong vùng 23–30 lần.** Không "rẻ bất thường" cũng không "đắt bất thường" theo tiêu chuẩn thị trường Hàn Quốc. Tính hợp lý của định giá phụ thuộc vào việc lộ trình forward 2026–2027 có được duy trì hay không.
+* <strong>LNHĐ Q1 ₩13,1 tỷ vượt đồng thuận (₩10,6 tỷ) tới +23,6%.</strong> Doanh thu ₩36,7 tỷ cũng vượt đồng thuận ₩33,1 tỷ tới +10,9%. Biên LNHĐ 35,7%, với doanh thu tăng +43,4% so với quý trước (₩25,6 tỷ → ₩36,7 tỷ).
+* <strong>Doanh thu bứt phá khỏi vùng tích lũy.</strong> Bốn quý liên tiếp (Q1/2025–Q4/2025) doanh thu dao động trong biên ₩21,5–27,0 tỷ. Q1/2026 đạt ₩36,7 tỷ — vượt ngưỡng trên khoảng \~₩10 tỷ.
+* <strong>Biên LNHĐ nhảy vọt từ 30–32% lên 35,7%.</strong> Nếu chỉ tăng sản lượng thuần túy, biên lợi nhuận sẽ không đổi; việc doanh thu và biên lợi nhuận cùng cải thiện cho thấy cơ cấu sản phẩm dịch chuyển sang nhóm giá trị cao hơn (vật liệu điện môi thấp).
+* <strong>Để đạt LNHĐ cả năm 2026 từ ₩60 tỷ trở lên, LNHĐ bình quân Q2–Q4 cần đạt ₩15,0 tỷ+.</strong> Kết quả Q1 ₩13,1 tỷ đáp ứng "điều kiện cần", chưa phải "điều kiện đủ".
+* <strong>PER TTM dao động trong vùng 23–30 lần.</strong> Không "rẻ bất thường" cũng không "đắt bất thường" theo tiêu chuẩn thị trường Hàn Quốc. Tính hợp lý của định giá phụ thuộc vào việc lộ trình forward 2026–2027 có được duy trì hay không.
 
 ---
 
@@ -66,7 +66,7 @@ Biên LNHĐ kỳ vọng = 10,6 / 33,1 = 32,0% ✓
 | Q2/2025 | ₩27,0 tỷ | ₩8,4 tỷ | ₩8,5 tỷ | 31,1% | 31,5% |
 | Q3/2025 | ₩26,8 tỷ | ₩8,2 tỷ | ₩7,4 tỷ | 30,6% | 27,6% |
 | Q4/2025 | ₩25,6 tỷ | ₩8,1 tỷ | ₩8,8 tỷ | 31,6% | 34,4% |
-| **Q1/2026** | **₩36,7 tỷ** | **₩13,1 tỷ** | **₩11,7 tỷ** | **35,7%** | **31,9%** |
+| <strong>Q1/2026</strong> | <strong>₩36,7 tỷ</strong> | <strong>₩13,1 tỷ</strong> | <strong>₩11,7 tỷ</strong> | <strong>35,7%</strong> | <strong>31,9%</strong> |
 
 Tăng trưởng YoY / QoQ:
 
@@ -79,7 +79,7 @@ LNHĐ QoQ = 13,1 / 8,1 - 1 = +61,7%
 LNST QoQ = 11,7 / 8,8 - 1 = +33,0%
 ```
 
-Đây không phải "vượt nhẹ". **Doanh thu đã bứt phá khỏi vùng ₩25–27 tỷ lên ₩36,7 tỷ — một sự phá vỡ ngưỡng rõ ràng.** Và **biên LNHĐ tăng từ \~30–32% lên 35,7%**, với doanh thu và biên lợi nhuận cùng đi lên — đây là tín hiệu không thể lý giải đơn thuần bằng tăng sản lượng.
+Đây không phải "vượt nhẹ". <strong>Doanh thu đã bứt phá khỏi vùng ₩25–27 tỷ lên ₩36,7 tỷ — một sự phá vỡ ngưỡng rõ ràng.</strong> Và <strong>biên LNHĐ tăng từ \~30–32% lên 35,7%</strong>, với doanh thu và biên lợi nhuận cùng đi lên — đây là tín hiệu không thể lý giải đơn thuần bằng tăng sản lượng.
 
 ---
 
@@ -105,7 +105,7 @@ Phần 2 liệt kê năm dữ liệu vào đầu tháng 5:
 4. Chuỗi giá trị 4 tầng mở rộng (khoáng sản thượng nguồn → monomer → polymer → ứng dụng CCL)
 5. Mối liên kết biên LNHĐ giữa Doosan Electro BG và Pamicell
 
-Kết quả thực tế hôm nay (doanh thu ₩36,7 tỷ, LNHĐ ₩13,1 tỷ, biên LNHĐ 35,7%) vượt ước tính của DS / Meritz (doanh thu ₩36,2 tỷ, LNHĐ ₩12,1 tỷ, biên LNHĐ 33%) lần lượt +1% doanh thu, +8% LNHĐ, +2,7pp biên LNHĐ. **Luận điểm "trạng thái bình thường mới" vừa được xác nhận bằng số liệu thực tế một quý.**
+Kết quả thực tế hôm nay (doanh thu ₩36,7 tỷ, LNHĐ ₩13,1 tỷ, biên LNHĐ 35,7%) vượt ước tính của DS / Meritz (doanh thu ₩36,2 tỷ, LNHĐ ₩12,1 tỷ, biên LNHĐ 33%) lần lượt +1% doanh thu, +8% LNHĐ, +2,7pp biên LNHĐ. <strong>Luận điểm "trạng thái bình thường mới" vừa được xác nhận bằng số liệu thực tế một quý.</strong>
 
 ---
 
@@ -126,7 +126,7 @@ PER annualized = 1.102,5 / 46,8 = 23,6×
 EV/LNHĐ-proxy annualized = 1.102,5 / 52,4 = 21,0×
 ```
 
-Con số này không phải cực đoan theo tiêu chuẩn thị trường Hàn Quốc. Nhưng **mục tiêu LNHĐ cả năm 2026 từ ₩56–63 tỷ** theo kỳ vọng thị trường đòi hỏi nhiều hơn con số ₩13,1 tỷ Q1 × 4.
+Con số này không phải cực đoan theo tiêu chuẩn thị trường Hàn Quốc. Nhưng <strong>mục tiêu LNHĐ cả năm 2026 từ ₩56–63 tỷ</strong> theo kỳ vọng thị trường đòi hỏi nhiều hơn con số ₩13,1 tỷ Q1 × 4.
 
 ### 3.2 Ba quý còn lại
 
@@ -144,7 +144,7 @@ Mục tiêu ₩60 tỷ - Q1 ₩13,1 tỷ = ₩46,9 tỷ / 3 = ₩15,6 tỷ
 Mục tiêu ₩60,5 tỷ - Q1 ₩13,1 tỷ = ₩47,4 tỷ / 3 = ₩15,8 tỷ ✓
 ```
 
-Nói cách khác: **để lộ trình LNHĐ cả năm 2026 đạt ₩60 tỷ+ trở nên khả tín, LNHĐ từ Q2 trở đi cần bước lên \~₩15–16 tỷ mỗi quý**. Kết quả Q1 ₩13,1 tỷ là điểm xuất phát, không phải đích đến.
+Nói cách khác: <strong>để lộ trình LNHĐ cả năm 2026 đạt ₩60 tỷ+ trở nên khả tín, LNHĐ từ Q2 trở đi cần bước lên \~₩15–16 tỷ mỗi quý</strong>. Kết quả Q1 ₩13,1 tỷ là điểm xuất phát, không phải đích đến.
 
 ---
 
@@ -161,11 +161,11 @@ LNHĐ = 3,1 + 8,4 + 8,2 + 8,1 = ₩27,8 tỷ
 LNST = 4,2 + 8,5 + 7,4 + 8,8 = ₩28,9 tỷ
 ```
 
-Phân tích Phần 1 / 2 sử dụng số liệu IR năm tài chính 2025: doanh thu ₩114,0 tỷ, LNHĐ ₩34,3 tỷ, LNST ₩40,3 tỷ. **Chênh lệch: doanh thu ₩13 tỷ, LNHĐ ₩6,5 tỷ, LNST ₩11,4 tỷ.** Nguyên nhân có thể từ (a) báo cáo đơn lẻ vs. hợp nhất, (b) hoạt động tiếp tục vs. đã ngừng, (c) chuyển đổi lũy kế vs. theo quý, (d) phân loại lại khoản mục hoạt động vs. phi hoạt động. Cần đọc trực tiếp báo cáo thu nhập trong báo cáo quý để đối chiếu dứt khoát.
+Phân tích Phần 1 / 2 sử dụng số liệu IR năm tài chính 2025: doanh thu ₩114,0 tỷ, LNHĐ ₩34,3 tỷ, LNST ₩40,3 tỷ. <strong>Chênh lệch: doanh thu ₩13 tỷ, LNHĐ ₩6,5 tỷ, LNST ₩11,4 tỷ.</strong> Nguyên nhân có thể từ (a) báo cáo đơn lẻ vs. hợp nhất, (b) hoạt động tiếp tục vs. đã ngừng, (c) chuyển đổi lũy kế vs. theo quý, (d) phân loại lại khoản mục hoạt động vs. phi hoạt động. Cần đọc trực tiếp báo cáo thu nhập trong báo cáo quý để đối chiếu dứt khoát.
 
 ### 4.2 TTM theo cả hai cơ sở
 
-**(A) Cơ sở tổng quý (thận trọng)**
+<strong>(A) Cơ sở tổng quý (thận trọng)</strong>
 
 ```
 TTM doanh thu = 27,0 + 26,8 + 25,6 + 36,7 = ₩109,1 tỷ
@@ -175,7 +175,7 @@ TTM PER = 1.102,5 / 36,4 = 30,3×
 TTM vốn hóa / LNHĐ = 1.102,5 / 37,8 = 29,2×
 ```
 
-**(B) Cơ sở điều chỉnh theo IR năm**
+<strong>(B) Cơ sở điều chỉnh theo IR năm</strong>
 
 ```
 TTM doanh thu = 114,0 - 21,5 + 36,7 = ₩129,2 tỷ
@@ -185,7 +185,7 @@ TTM PER = 1.102,5 / 47,8 = 23,1×
 TTM vốn hóa / LNHĐ = 1.102,5 / 44,3 = 24,9×
 ```
 
-**Cả hai cách tính đều dẫn đến cùng kết luận**: TTM PER 23–30 lần — không "rẻ bất thường" cũng không "đắt bất thường" theo tiêu chuẩn thị trường Hàn Quốc. Tính hợp lý của định giá phụ thuộc vào việc **lộ trình forward 2026–2027 có được duy trì hay không**. Một quý chưa đủ để trả lời câu hỏi đó.
+<strong>Cả hai cách tính đều dẫn đến cùng kết luận</strong>: TTM PER 23–30 lần — không "rẻ bất thường" cũng không "đắt bất thường" theo tiêu chuẩn thị trường Hàn Quốc. Tính hợp lý của định giá phụ thuộc vào việc <strong>lộ trình forward 2026–2027 có được duy trì hay không</strong>. Một quý chưa đủ để trả lời câu hỏi đó.
 
 ---
 
@@ -236,25 +236,25 @@ Phần 1 đặt ra giả thuyết tái phân loại thượng nguồn AI-CCL. Ph
 
 ## FAQ
 
-**Hỏi: LNHĐ ₩13,1 tỷ có phải là con số ấn tượng không?**
+<strong>Hỏi: LNHĐ ₩13,1 tỷ có phải là con số ấn tượng không?</strong>
 Đáp: Con số này vượt đồng thuận ₩10,6 tỷ tới +23,6% và nâng biên LNHĐ lên 35,7% — một bậc cao hơn so với 31,6% của quý trước. Doanh thu cũng tăng +43% QoQ từ ₩25,6 tỷ lên ₩36,7 tỷ. Đây có thể được coi là kết quả vượt mạnh, với lưu ý rằng đây chỉ mới là một quý.
 
-**Hỏi: Tại sao LNST đúng bằng kỳ vọng trong khi LNHĐ vượt rất mạnh?**
+<strong>Hỏi: Tại sao LNST đúng bằng kỳ vọng trong khi LNHĐ vượt rất mạnh?</strong>
 Đáp: Nhiều khả năng do chi phí phi hoạt động hoặc thuế cao hơn dự kiến. Cần đọc báo cáo thu nhập trong báo cáo quý để xác định chính xác. Biên LNHĐ 35,7% tự nó đã phát tín hiệu nền tảng hoạt động đang củng cố.
 
-**Hỏi: Điều gì thúc đẩy doanh thu nhảy vọt lên ₩36,7 tỷ?**
+<strong>Hỏi: Điều gì thúc đẩy doanh thu nhảy vọt lên ₩36,7 tỷ?</strong>
 Đáp: Giả thuyết đang được kiểm chứng từ Phần 1 / 2 là tăng trưởng doanh thu CCL cấp cao cho bộ nhớ AI của Doosan Electro BG chuyển ngược lên chuỗi cung ứng, vào nhóm vật liệu điện môi thấp. Công ty không công bố doanh thu theo khách hàng nên không thể xác minh trực tiếp. Quan sát từ Phần 2 rằng biên LNHĐ Q1/2026 của Doosan Electro BG (30,1%) trùng khớp với biên LNHĐ bình quân năm 2025 của Pamicell (30,1%) là tín hiệu gián tiếp về mối liên kết này.
 
-**Hỏi: TTM PER 23–30 lần là đắt hay rẻ?**
+<strong>Hỏi: TTM PER 23–30 lần là đắt hay rẻ?</strong>
 Đáp: Không ở mức cực đoan nào theo tiêu chuẩn thị trường Hàn Quốc. Tính hợp lý của bội số phụ thuộc vào việc LNHĐ cả năm 2026 có đạt vùng ₩60 tỷ hay không — nếu đạt, PER forward năm 2026 sẽ giảm xuống còn 17–20 lần.
 
-**Hỏi: Điều gì sẽ phủ nhận luận điểm Phần 1 / 2?**
+<strong>Hỏi: Điều gì sẽ phủ nhận luận điểm Phần 1 / 2?</strong>
 Đáp: Ba tín hiệu phá vỡ chính: (1) doanh thu Q2–Q4 quay về vùng ₩25–30 tỷ (Q1 chỉ là đột biến); (2) đối thủ PTFE được chứng nhận chính thức, hình thành dual sourcing (vị thế cung ứng bị xói mòn); (3) hướng dẫn AI CCL của Doosan Electro BG yếu đi (mạch cầu suy giảm). Bất kỳ tín hiệu nào trong số này xảy ra đều sẽ làm suy yếu đáng kể luận điểm Phần 1 / 2.
 
-**Hỏi: Việc KRX thay đổi mã ngành có tác động gì?**
+<strong>Hỏi: Việc KRX thay đổi mã ngành có tác động gì?</strong>
 Đáp: Kể từ ngày 4/5, phân loại đã chuyển từ "sản xuất dược phẩm cơ bản" sang "sản xuất linh kiện điện tử". Phân loại chỉ số / chủ đề và mô hình dòng tiền có thể thay đổi theo đó. Bản thân việc thay đổi mã không ảnh hưởng đến nền tảng kinh doanh cơ bản.
 
-**Hỏi: Làm thế nào để theo dõi doanh thu theo khách hàng của Pamicell khi không có công bố?**
+<strong>Hỏi: Làm thế nào để theo dõi doanh thu theo khách hàng của Pamicell khi không có công bố?</strong>
 Đáp: Thông qua các kênh gián tiếp: (1) IR quý của Doosan Electro BG về doanh thu / cơ cấu CCL, (2) phần thuyết minh trong báo cáo quý của Pamicell nếu có đề cập rõ tỷ trọng vật liệu điện môi thấp, (3) tin tức ngành về tình trạng căng thẳng cung ứng CCL cho bộ nhớ / server.
 
 ---

@@ -20,19 +20,19 @@ valley_cashtags:
 draft: false
 ---
 
-> **Pearl Abyss × chuỗi Crimson Desert**
+> <strong>Pearl Abyss × chuỗi Crimson Desert</strong>
 > [So sánh Neowiz và CD Projekt](/post/pearl-abyss-neowiz-cd-projekt-rerating-comps-2026-05-23/) / [KOSDAQ smart money và Pearl Abyss](/post/kosdaq-smart-money-return-pearl-abyss-rebound-2026-05-22/) / [Kiểm tra đáy dòng tiền](/post/pearl-abyss-flow-bottom-test-2026-05-18/) / [Dữ liệu cuối tuần sau Patch 1.07](/post/pearl-abyss-crimson-desert-patch-107-weekend-data-2026-05-17/) / [Pearl Abyss hub](/page/pearl-abyss-crimson-desert-hub/)
 
 *Câu hỏi về Pearl Abyss đã chuyển từ "Crimson Desert có bán được không?" sang "đuôi doanh số kéo dài được bao lâu?". Dữ liệu ngày 25/05 cho thấy game vẫn giữ long tail, áp lực short giảm và khối ngoại đang hấp thụ nguồn cung cổ phiếu.*
 
 ## Tóm Tắt Chính
 
-- **Crimson Desert không phải game đang sụp doanh số.** Tại 20:20 KST ngày 25/05, thứ hạng Steam là global **#18**, Hàn Quốc **#5**, Mỹ **#13**, Trung Quốc **#17**.
-- **CCU giảm bình thường, nhưng proxy chuyển đổi mua tốt hơn.** CCU trung bình cuối tuần + ngày nghỉ giảm **12,8%** so với khung tương đương tuần trước, nhưng review mới tăng **5,2%**, review/ngày tăng **4,7%**, tỷ lệ tích cực review mới đạt **89,0%**.
-- **Patch 1.08 cải thiện tín hiệu chất lượng.** Từ 17:20 ngày 22/05, có **1.318** review mới với **90,0%** tích cực.
-- **Áp lực short giảm.** Dư nợ short giảm từ khoảng **KRW 131,2B** đầu tháng 4 xuống **KRW 62,1B** ngày 20/05. Tỷ lệ giá trị short giảm từ **32,1%** ngày 13/05 xuống **2,7%** ngày 22/05.
-- **Khối ngoại đang hấp thụ.** Từ 01/04 đến 22/05, khối ngoại mua ròng **KRW 56,6B**, cá nhân mua **KRW 19,2B**, tổ chức bán **KRW 76,1B**.
-- **Kết luận: thesis Hold mạnh hơn.** Mua thêm cần 6M bản chính thức, roadmap DLC/mở rộng, visibility của DokeV hoặc thông điệp hoàn vốn cho cổ đông.
+- <strong>Crimson Desert không phải game đang sụp doanh số.</strong> Tại 20:20 KST ngày 25/05, thứ hạng Steam là global <strong>#18</strong>, Hàn Quốc <strong>#5</strong>, Mỹ <strong>#13</strong>, Trung Quốc <strong>#17</strong>.
+- <strong>CCU giảm bình thường, nhưng proxy chuyển đổi mua tốt hơn.</strong> CCU trung bình cuối tuần + ngày nghỉ giảm <strong>12,8%</strong> so với khung tương đương tuần trước, nhưng review mới tăng <strong>5,2%</strong>, review/ngày tăng <strong>4,7%</strong>, tỷ lệ tích cực review mới đạt <strong>89,0%</strong>.
+- <strong>Patch 1.08 cải thiện tín hiệu chất lượng.</strong> Từ 17:20 ngày 22/05, có <strong>1.318</strong> review mới với <strong>90,0%</strong> tích cực.
+- <strong>Áp lực short giảm.</strong> Dư nợ short giảm từ khoảng <strong>KRW 131,2B</strong> đầu tháng 4 xuống <strong>KRW 62,1B</strong> ngày 20/05. Tỷ lệ giá trị short giảm từ <strong>32,1%</strong> ngày 13/05 xuống <strong>2,7%</strong> ngày 22/05.
+- <strong>Khối ngoại đang hấp thụ.</strong> Từ 01/04 đến 22/05, khối ngoại mua ròng <strong>KRW 56,6B</strong>, cá nhân mua <strong>KRW 19,2B</strong>, tổ chức bán <strong>KRW 76,1B</strong>.
+- <strong>Kết luận: thesis Hold mạnh hơn.</strong> Mua thêm cần 6M bản chính thức, roadmap DLC/mở rộng, visibility của DokeV hoặc thông điệp hoàn vốn cho cổ đông.
 
 ## 1. Ảnh Chụp Mới Nhất
 
@@ -49,7 +49,7 @@ draft: false
 | Mỹ | #13 |
 | Trung Quốc | #17 |
 
-Ước tính thực tế là khoảng **5,93 triệu bản**. Việc chạm 6 triệu bản vào cuối tháng 5 đến đầu tháng 6 là hợp lý, dù thông báo chính thức có thể trễ hơn.
+Ước tính thực tế là khoảng <strong>5,93 triệu bản</strong>. Việc chạm 6 triệu bản vào cuối tháng 5 đến đầu tháng 6 là hợp lý, dù thông báo chính thức có thể trễ hơn.
 
 ## 2. Thứ Hạng Bán Hàng: Long Tail Vẫn Còn
 
@@ -68,7 +68,7 @@ Mỹ là tín hiệu quan trọng nhất. Ở thị trường AAA premium khắt
 
 ![Review hằng ngày và tỷ lệ tích cực của Crimson Desert](crimson-desert-daily-reviews-positive-rate-2026-05-25.png)
 
-Review hằng ngày đã giảm so với đỉnh launch nhưng tháng gần đây vẫn giữ vùng **250-500/ngày**. Sau Patch 1.08:
+Review hằng ngày đã giảm so với đỉnh launch nhưng tháng gần đây vẫn giữ vùng <strong>250-500/ngày</strong>. Sau Patch 1.08:
 
 | Chỉ số | Sau Patch 1.08 |
 |---|---:|
@@ -103,7 +103,7 @@ Dữ liệu dư nợ short của KRX có độ trễ, nên số dư mới nhất
 | Cá nhân | +KRW 19,2B |
 | Tổ chức | -KRW 76,1B |
 
-Trong năm phiên gần nhất, khối ngoại mua **KRW 15,1B** trong khi cá nhân bán **KRW 14,9B**. Cấu trúc là khối ngoại hấp thụ và thị trường tiêu hóa bán ra của tổ chức.
+Trong năm phiên gần nhất, khối ngoại mua <strong>KRW 15,1B</strong> trong khi cá nhân bán <strong>KRW 14,9B</strong>. Cấu trúc là khối ngoại hấp thụ và thị trường tiêu hóa bán ra của tổ chức.
 
 ## 5. Đọc Đầu Tư
 
@@ -114,7 +114,7 @@ Trong năm phiên gần nhất, khối ngoại mua **KRW 15,1B** trong khi cá n
 | Short | Dư nợ giảm, tỷ lệ giảm mạnh | Áp lực bán giảm |
 | Flow | Khối ngoại mua, tổ chức bán | Repricing chậm, thesis chưa gãy |
 
-**Quan điểm: Hold / chỉ mua thêm sau catalyst.**
+<strong>Quan điểm: Hold / chỉ mua thêm sau catalyst.</strong>
 
 | Catalyst mua thêm | Ý nghĩa |
 |---|---|

@@ -23,17 +23,17 @@ tags:
 series: ["korea-stocks-foreign-investor-guide"]
 ---
 
-> **Réaction à l'actualité et feuille de route.** Cet article est lié au nouveau [hub Korea Stocks for Foreign Investors](/fr/page/korea-stocks-foreign-investors-hub/), qui centralise les ressources sur l'accès de type IBKR, le KOSPI, le KOSDAQ, la HBM, les substrats IA, les valeurs financières coréennes, Pearl Abyss et le K-beauty pour les lecteurs étrangers.
+> <strong>Réaction à l'actualité et feuille de route.</strong> Cet article est lié au nouveau [hub Korea Stocks for Foreign Investors](/fr/page/korea-stocks-foreign-investors-hub/), qui centralise les ressources sur l'accès de type IBKR, le KOSPI, le KOSDAQ, la HBM, les substrats IA, les valeurs financières coréennes, Pearl Abyss et le K-beauty pour les lecteurs étrangers.
 
 ---
 
 ## L'essentiel
 
-1. **L'accès des particuliers étrangers aux actions coréennes passe de la réforme réglementaire à la réalité produit.** Le Maeil Business Newspaper a rapporté le 4 mai 2026 qu'Interactive Brokers prépare un accès aux actions coréennes en coopération avec Samsung Securities, tandis que Futu devrait s'associer à Hana Securities et que d'autres courtiers coréens explorent des partenariats similaires.
-2. **L'enjeu principal n'est pas le titre d'un seul courtier.** Samsung Securities et Hana Securities importent en tant que canaux d'accès, mais le changement structurel est que la Corée peut devenir un marché à titres individuels consultables pour les investisseurs particuliers étrangers, au lieu d'un marché accessible principalement via des ETF, des ADR et des canaux institutionnels.
-3. **La première vague de demande sera pilotée par la recherche en ligne.** Des requêtes telles que « IBKR Korea stocks », « comment acheter des actions coréennes », « KOSPI vs KOSDAQ », « Samsung Electronics vs SK Hynix », « action Pearl Abyss », « actions IA coréennes » et « meilleures actions coréennes » auront de l'importance avant que les flux n'apparaissent clairement dans les données de volume.
-4. **Les premiers clusters de contenu investissables sont déjà visibles.** La HBM et la mémoire IA, les substrats IA et le CCL, les valeurs financières coréennes sous Value-Up, Pearl Abyss / Crimson Desert et le K-beauty sont les thèmes que les investisseurs particuliers mondiaux peuvent comprendre le plus rapidement.
-5. **Pour le lecteur, la réponse pratique est un filtre, pas un signal d’achat.** Un accès plus simple sert à construire une watchlist coréenne par thème : structure de marché d’abord, puis HBM, substrats IA, financières, jeux vidéo et K-beauty, avec vérification de la disponibilité broker et de la liquidité avant toute décision.
+1. <strong>L'accès des particuliers étrangers aux actions coréennes passe de la réforme réglementaire à la réalité produit.</strong> Le Maeil Business Newspaper a rapporté le 4 mai 2026 qu'Interactive Brokers prépare un accès aux actions coréennes en coopération avec Samsung Securities, tandis que Futu devrait s'associer à Hana Securities et que d'autres courtiers coréens explorent des partenariats similaires.
+2. <strong>L'enjeu principal n'est pas le titre d'un seul courtier.</strong> Samsung Securities et Hana Securities importent en tant que canaux d'accès, mais le changement structurel est que la Corée peut devenir un marché à titres individuels consultables pour les investisseurs particuliers étrangers, au lieu d'un marché accessible principalement via des ETF, des ADR et des canaux institutionnels.
+3. <strong>La première vague de demande sera pilotée par la recherche en ligne.</strong> Des requêtes telles que « IBKR Korea stocks », « comment acheter des actions coréennes », « KOSPI vs KOSDAQ », « Samsung Electronics vs SK Hynix », « action Pearl Abyss », « actions IA coréennes » et « meilleures actions coréennes » auront de l'importance avant que les flux n'apparaissent clairement dans les données de volume.
+4. <strong>Les premiers clusters de contenu investissables sont déjà visibles.</strong> La HBM et la mémoire IA, les substrats IA et le CCL, les valeurs financières coréennes sous Value-Up, Pearl Abyss / Crimson Desert et le K-beauty sont les thèmes que les investisseurs particuliers mondiaux peuvent comprendre le plus rapidement.
+5. <strong>Pour le lecteur, la réponse pratique est un filtre, pas un signal d’achat.</strong> Un accès plus simple sert à construire une watchlist coréenne par thème : structure de marché d’abord, puis HBM, substrats IA, financières, jeux vidéo et K-beauty, avec vérification de la disponibilité broker et de la liquidité avant toute décision.
 
 ---
 

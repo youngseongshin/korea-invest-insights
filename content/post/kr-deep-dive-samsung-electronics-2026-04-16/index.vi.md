@@ -12,7 +12,7 @@ draft: false
 
 # Samsung Electronics: Gã Khổng Lồ Bán Dẫn AI & HBM của Hàn Quốc
 
-**Samsung Electronics Co., Ltd. (005930.KS, KOSPI)**—thành phần có tỷ trọng lớn nhất trong chỉ số benchmark của Hàn Quốc—là công ty mà chip của họ có mặt ở khắp nơi, từ chiếc smartphone trên tay bạn đến các cụm máy chủ huấn luyện AI đòi hỏi khắt khe nhất thế giới. Tính đến tháng 4/2026, với giá cổ phiếu giao dịch quanh mức KRW 217.500 và kết quả Q1 2026 xác nhận chu kỳ tăng trưởng bộ nhớ mạnh mẽ, Samsung Electronics vẫn là cổ phiếu Hàn Quốc thanh khoản nhất, được tranh luận nhiều nhất, và có thể nói là quan trọng nhất mà bất kỳ nhà đầu tư nào có tầm nhìn toàn cầu đều cần thấu hiểu.
+<strong>Samsung Electronics Co., Ltd. (005930.KS, KOSPI)</strong>—thành phần có tỷ trọng lớn nhất trong chỉ số benchmark của Hàn Quốc—là công ty mà chip của họ có mặt ở khắp nơi, từ chiếc smartphone trên tay bạn đến các cụm máy chủ huấn luyện AI đòi hỏi khắt khe nhất thế giới. Tính đến tháng 4/2026, với giá cổ phiếu giao dịch quanh mức KRW 217.500 và kết quả Q1 2026 xác nhận chu kỳ tăng trưởng bộ nhớ mạnh mẽ, Samsung Electronics vẫn là cổ phiếu Hàn Quốc thanh khoản nhất, được tranh luận nhiều nhất, và có thể nói là quan trọng nhất mà bất kỳ nhà đầu tư nào có tầm nhìn toàn cầu đều cần thấu hiểu.
 
 Đây không phải bản cập nhật thông thường. Đây là bức tranh toàn cảnh.
 
@@ -22,15 +22,15 @@ draft: false
 
 | Hạng Mục | Chi Tiết |
 |---|---|
-| **Tên Đầy Đủ** | Samsung Electronics Co., Ltd. (삼성전자) |
-| **Mã Cổ Phiếu** | 005930.KS (cổ phiếu phổ thông) / 005935.KS (cổ phiếu ưu đãi) |
-| **Sàn Giao Dịch** | KOSPI (Korea Exchange) |
-| **Lĩnh Vực** | Công nghệ thông tin / Bán dẫn & Thiết bị bán dẫn |
-| **Giá Đóng Cửa (2026-04-16)** | KRW 217.500 |
-| **Tỷ Lệ Sở Hữu Nước Ngoài** | \~51% (thuộc hàng cao nhất trên KOSPI) |
-| **Sản Phẩm Chính** | DRAM, NAND Flash, HBM, smartphone Galaxy, màn hình OLED, thiết bị gia dụng, foundry (logic tiên tiến) |
+| <strong>Tên Đầy Đủ</strong> | Samsung Electronics Co., Ltd. (삼성전자) |
+| <strong>Mã Cổ Phiếu</strong> | 005930.KS (cổ phiếu phổ thông) / 005935.KS (cổ phiếu ưu đãi) |
+| <strong>Sàn Giao Dịch</strong> | KOSPI (Korea Exchange) |
+| <strong>Lĩnh Vực</strong> | Công nghệ thông tin / Bán dẫn & Thiết bị bán dẫn |
+| <strong>Giá Đóng Cửa (2026-04-16)</strong> | KRW 217.500 |
+| <strong>Tỷ Lệ Sở Hữu Nước Ngoài</strong> | \~51% (thuộc hàng cao nhất trên KOSPI) |
+| <strong>Sản Phẩm Chính</strong> | DRAM, NAND Flash, HBM, smartphone Galaxy, màn hình OLED, thiết bị gia dụng, foundry (logic tiên tiến) |
 
-**Tóm lược:** Samsung Electronics đồng thời là nhà sản xuất chip nhớ lớn nhất thế giới, nhà sản xuất smartphone lớn thứ hai toàn cầu, và một trong những đối thủ đầy tham vọng nhất thách thức TSMC trong mảng foundry. Công ty đứng ở giao điểm của ba xu hướng công nghệ định hình thập kỷ này: làn sóng xây dựng hạ tầng AI (HBM, DRAM tiên tiến), siêu chu kỳ smartphone toàn cầu (Galaxy S và Z series), và phong trào đa dạng hóa bán dẫn có chủ quyền—đang thúc đẩy hàng tỷ USD trợ cấp chính phủ hướng đến năng lực logic tiên tiến ngoài Đài Loan. Ngoài Mỹ, không có công ty đơn lẻ nào hội tụ nhiều sức gió cấu trúc công nghệ vào một mã cổ phiếu như vậy.
+<strong>Tóm lược:</strong> Samsung Electronics đồng thời là nhà sản xuất chip nhớ lớn nhất thế giới, nhà sản xuất smartphone lớn thứ hai toàn cầu, và một trong những đối thủ đầy tham vọng nhất thách thức TSMC trong mảng foundry. Công ty đứng ở giao điểm của ba xu hướng công nghệ định hình thập kỷ này: làn sóng xây dựng hạ tầng AI (HBM, DRAM tiên tiến), siêu chu kỳ smartphone toàn cầu (Galaxy S và Z series), và phong trào đa dạng hóa bán dẫn có chủ quyền—đang thúc đẩy hàng tỷ USD trợ cấp chính phủ hướng đến năng lực logic tiên tiến ngoài Đài Loan. Ngoài Mỹ, không có công ty đơn lẻ nào hội tụ nhiều sức gió cấu trúc công nghệ vào một mã cổ phiếu như vậy.
 
 ---
 
@@ -44,13 +44,13 @@ Với nhà đầu tư toàn cầu, Samsung Electronics là một trong những k
 
 ### Các Xu Hướng Toàn Cầu Samsung Đang Cưỡi
 
-**1. Siêu Chu Kỳ Hạ Tầng AI.**
+<strong>1. Siêu Chu Kỳ Hạ Tầng AI.</strong>
 Chi tiêu vốn của các hyperscaler như Google, Microsoft, Meta, và Amazon tiếp tục ở mức cao xuyên suốt 2026. HBM là nút thắt cổ chai bị hạn chế trong mọi cấu hình máy chủ AI—và lộ trình HBM4 của Samsung định vị họ đón đầu giai đoạn tăng sản lượng mở ra trong 2026–2027 khi thế hệ accelerator AI tiếp theo của Nvidia và các ASIC tùy chỉnh được giao hàng đại trà.
 
-**2. Chu Kỳ Tăng Trưởng Bộ Nhớ—Đã Được Xác Nhận Bằng Dữ Liệu.**
+<strong>2. Chu Kỳ Tăng Trưởng Bộ Nhớ—Đã Được Xác Nhận Bằng Dữ Liệu.</strong>
 Sau chu kỳ suy giảm khắc nghiệt 2022–2023, ngành bộ nhớ đã bước vào giai đoạn mở rộng ASP. Luồng phân tích nội bộ của chúng tôi đặc trưng Q4 2025 là quý "lợi nhuận kỷ lục", và kết quả Q1 2026—công bố đầu tháng 4—xác nhận luận điểm thay vì chỉ đơn thuần đáp ứng kỳ vọng. Dữ liệu xuất khẩu bán dẫn của Hàn Quốc liên tục vượt xu hướng, và các cuộc đàm phán Long-Term Agreement (LTA) với khách hàng chủ chốt cho thấy ít nhất một số khách hàng muốn bảo đảm nguồn cung đến 2027.
 
-**3. Địa Chính Trị Foundry.**
+<strong>3. Địa Chính Trị Foundry.</strong>
 Áp lực xây dựng năng lực logic tiên tiến bên ngoài Đài Loan đã biến Samsung Foundry thành đối tượng hưởng lợi trực tiếp từ trợ cấp CHIPS Act của Mỹ và các khuôn khổ ưu đãi của châu Âu. Liệu Samsung có thu hẹp khoảng cách công nghệ với TSMC ở node 2nm hay không là câu hỏi quan trọng nhất còn bỏ ngỏ cho mảng này—nhưng sức gió trợ cấp là thực tế và các cuộc đàm phán với khách hàng vẫn đang diễn ra.
 
 ### Vị Thế Cạnh Tranh So Với Các Đối Thủ Toàn Cầu
@@ -84,10 +84,10 @@ TV cao cấp (Samsung giữ vị trí số 1 toàn cầu trong phân khúc cao c
 Tấm nền OLED cung cấp cho Apple (iPhone), Samsung Mobile, và các OEM bên thứ ba. Mối quan hệ của SDC với Apple—khách hàng đơn lẻ lớn nhất đồng thời là đối thủ cạnh tranh—là một trong những quan hệ cung ứng đặc biệt nhất trong công nghệ toàn cầu. Áp lực biên lợi nhuận từ sức mạnh đàm phán của Apple là dai dẳng, nhưng khả năng hiển thị sản lượng thì mạnh.
 
 ### Động Lực Tăng Trưởng Chính (12–24 Tháng Tới)
-- **Tăng sản lượng HBM4:** Chứng nhận từ Nvidia và các khách hàng ASIC tùy chỉnh là xúc tác ngắn hạn. Tăng sản lượng thành công sẽ thu hẹp khoảng cách cạnh tranh với SK Hynix và mở ra ASP cao cấp.
-- **Ổn định giá DRAM qua LTA:** Thỏa thuận dài hạn với các hyperscaler giảm biến động thị trường giao ngay và cung cấp khả năng hiển thị lợi nhuận.
-- **Tăng sản lượng Foundry 2nm:** Quy trình 2nm gate-all-around (GAA) của Samsung Foundry, có thương hiệu là SF2, nhắm đến khách hàng mobile SoC và AI accelerator. Cải thiện tỷ lệ yield là yếu tố quyết định.
-- **Kiếm tiền từ Galaxy AI:** Tích hợp các tính năng AI trên thiết bị hỗ trợ định giá smartphone cao cấp và tiềm năng doanh thu dịch vụ đính kèm.
+- <strong>Tăng sản lượng HBM4:</strong> Chứng nhận từ Nvidia và các khách hàng ASIC tùy chỉnh là xúc tác ngắn hạn. Tăng sản lượng thành công sẽ thu hẹp khoảng cách cạnh tranh với SK Hynix và mở ra ASP cao cấp.
+- <strong>Ổn định giá DRAM qua LTA:</strong> Thỏa thuận dài hạn với các hyperscaler giảm biến động thị trường giao ngay và cung cấp khả năng hiển thị lợi nhuận.
+- <strong>Tăng sản lượng Foundry 2nm:</strong> Quy trình 2nm gate-all-around (GAA) của Samsung Foundry, có thương hiệu là SF2, nhắm đến khách hàng mobile SoC và AI accelerator. Cải thiện tỷ lệ yield là yếu tố quyết định.
+- <strong>Kiếm tiền từ Galaxy AI:</strong> Tích hợp các tính năng AI trên thiết bị hỗ trợ định giá smartphone cao cấp và tiềm năng doanh thu dịch vụ đính kèm.
 
 ### Hồ Sơ Biên Lợi Nhuận
 Biên lợi nhuận hoạt động mảng DS có tính chu kỳ cao: âm sâu trong đáy 2023, phục hồi mạnh qua 2024–2025, và đang tiến gần vùng đỉnh lịch sử trong chu kỳ tăng trưởng hiện tại theo các báo cáo gần đây. Biên lợi nhuận hoạt động hợp nhất dự kiến duy trì cao hơn nhiều so với mức đáy xuyên suốt 2026 theo đồng thuận phân tích viên hiện tại, mặc dù quỹ đạo chính xác phụ thuộc vào thời điểm chứng nhận HBM và động lực giá NAND.
@@ -96,26 +96,26 @@ Biên lợi nhuận hoạt động mảng DS có tính chu kỳ cao: âm sâu tr
 
 ## 4. Luận Điểm Tăng Giá
 
-**Xúc Tác 1: Chứng Nhận HBM4 tại Nvidia Thu Hẹp Khoảng Cách Cạnh Tranh**
+<strong>Xúc Tác 1: Chứng Nhận HBM4 tại Nvidia Thu Hẹp Khoảng Cách Cạnh Tranh</strong>
 Nếu Samsung đạt được chứng nhận HBM4 ở quy mô sản xuất với Nvidia cho các thế hệ GPU B300 và Rubin trong 2026, họ sẽ lấy lại một phần thị phần bộ nhớ AI hiện đang nhường cho SK Hynix. Do HBM là sản phẩm DRAM có biên lợi nhuận cao nhất, ngay cả một sự dịch chuyển khiêm tốn trong cơ cấu sang HBM4 cũng tác động đáng kể đến biên lợi nhuận. Luồng luận điểm nội bộ của chúng tôi đánh giá đây là xúc tác có tác động cao nhất.
 
-**Xúc Tác 2: Chu Kỳ Tăng Trưởng Bộ Nhớ Kéo Dài đến 2027 Nhờ Nhu Cầu AI**
+<strong>Xúc Tác 2: Chu Kỳ Tăng Trưởng Bộ Nhớ Kéo Dài đến 2027 Nhờ Nhu Cầu AI</strong>
 Động lực cấu trúc—nội dung DRAM máy chủ AI tăng 3–5x so với máy chủ thông thường—không phải câu chuyện một năm. Nếu capex hyperscaler duy trì ở mức cao và tình trạng thắt chặt nguồn cung HBM kéo dài, chu kỳ mở rộng ASP hiện tại sẽ tiếp tục. Q1 2026 đã vượt kỳ vọng; xác nhận sức mạnh trong guidance Q2 sẽ củng cố luận điểm đa năm. Dữ liệu xuất khẩu bán dẫn của Hàn Quốc—chỉ số dẫn đầu tần suất cao—là biến số chính cần theo dõi hàng tháng.
 
-**Xúc Tác 3: Định Giá Lại Foundry Nhờ Đột Phá Yield SF2**
+<strong>Xúc Tác 3: Định Giá Lại Foundry Nhờ Đột Phá Yield SF2</strong>
 Samsung Foundry hiện đang được định giá như một đối thủ dưới quy mô. Một cải thiện yield đáng tin cậy tại node SF2 (2nm GAA)—được chứng minh qua một chiến thắng tape-out khách hàng nổi bật—có thể thúc đẩy định giá lại mảng foundry từ "lực cản" thành "giá trị quyền chọn". Với việc TSMC được hưởng phí bù đắp địa chính trị, ngay cả việc chiếm một phần thị phần cũng sẽ thay đổi đáng kể kinh tế foundry.
 
 ---
 
 ## 5. Luận Điểm Giảm Giá
 
-**Rủi Ro 1: Chậm Trễ Chứng Nhận HBM4 Kéo Dài Khoảng Cách Cạnh Tranh**
+<strong>Rủi Ro 1: Chậm Trễ Chứng Nhận HBM4 Kéo Dài Khoảng Cách Cạnh Tranh</strong>
 Độ trễ chứng nhận HBM3E của Samsung so với SK Hynix không phải là một sự trượt thực thi nhỏ—đó là thách thức cơ bản về yield và đóng gói. Nếu vấn đề tương tự tái diễn trong phát triển HBM4, Samsung có nguy cơ nhường phân khúc có lợi nhuận nhất của bộ nhớ cho SK Hynix thêm một thế hệ sản phẩm nữa. Đây là rủi ro được nhắc đến nhiều nhất trong luồng phân tích nội bộ của chúng tôi xuyên suốt các ghi chép từ tháng 3 đến tháng 4/2026.
 
-**Rủi Ro 2: Áp Lực Bán Từ Nhà Đầu Tư Nước Ngoài và Đồng Won Suy Yếu**
+<strong>Rủi Ro 2: Áp Lực Bán Từ Nhà Đầu Tư Nước Ngoài và Đồng Won Suy Yếu</strong>
 Với tỷ lệ sở hữu nước ngoài \~51%, Samsung đặc biệt nhạy cảm với dòng chảy quỹ EM. Nhật ký nội bộ của chúng tôi đã ghi nhận "bán ròng nước ngoài tích lũy" và "cú sốc tỷ giá hối đoái" là những rủi ro ngắn hạn có ý nghĩa gần đây nhất là tháng 3/2026. Quỹ đạo của đồng won Hàn Quốc so với đô la Mỹ—với USDKRW ở mức cao—tạo ra lực cản cho nhà đầu tư nước ngoài tính toán lợi nhuận bằng ngoại tệ mạnh. Giai đoạn KRW suy yếu kéo dài thực chất đánh thuế vào nhà đầu tư tính lợi nhuận bằng đô la.
 
-**Rủi Ro 3: Đỉnh Chu Kỳ Bộ Nhớ và Đốt Tiền Foundry**
+<strong>Rủi Ro 3: Đỉnh Chu Kỳ Bộ Nhớ và Đốt Tiền Foundry</strong>
 Bộ nhớ vốn có tính chu kỳ. Chu kỳ tăng trưởng hiện tại đã được công bố rộng rãi và ở một mức độ nào đó, đã được phản ánh vào giá. Nếu việc bổ sung nguồn cung (capex của chính Samsung, khả năng tăng sản lượng của Micron, năng lực bộ nhớ Trung Quốc) vượt tốc độ tăng trưởng nhu cầu, việc mở rộng ASP sẽ đình trệ. Đồng thời, cường độ vốn của Samsung Foundry—xây dựng fab tiên tiến là một trong những dự án công nghiệp tốn kém nhất trên trái đất—đại diện cho một khoản đốt tiền mặt dai dẳng làm giảm dòng tiền tự do ngay cả trong những năm bộ nhớ mạnh. Căng thẳng phân bổ vốn giữa tham vọng foundry và lợi nhuận cổ đông vẫn chưa được giải quyết.
 
 ---
@@ -124,9 +124,9 @@ Bộ nhớ vốn có tính chu kỳ. Chu kỳ tăng trưởng hiện tại đã 
 
 Samsung Electronics giao dịch ở mức chiết khấu đáng kể so với các đồng nghiệp bán dẫn toàn cầu trên hầu hết các bội số trailing và forward—là điểm cộng hay điểm trừ, tùy thuộc vào khung nhìn của bạn. Mức chiết khấu phản ánh:
 
-- **Lo ngại cấu trúc:** khoảng cách cạnh tranh HBM so với SK Hynix
-- **Chiết khấu tập đoàn:** thị trường lịch sử gặp khó khăn trong việc định giá một công ty vừa là nhà cung cấp bộ nhớ, vừa là OEM smartphone, vừa là nhà sản xuất tấm nền, vừa là foundry
-- **Chiết khấu Hàn Quốc:** phí bù đắp rủi ro địa chính trị (Bắc Triều Tiên), lo ngại quản trị doanh nghiệp (lịch sử, tuy đang cải thiện), và biến động đồng won
+- <strong>Lo ngại cấu trúc:</strong> khoảng cách cạnh tranh HBM so với SK Hynix
+- <strong>Chiết khấu tập đoàn:</strong> thị trường lịch sử gặp khó khăn trong việc định giá một công ty vừa là nhà cung cấp bộ nhớ, vừa là OEM smartphone, vừa là nhà sản xuất tấm nền, vừa là foundry
+- <strong>Chiết khấu Hàn Quốc:</strong> phí bù đắp rủi ro địa chính trị (Bắc Triều Tiên), lo ngại quản trị doanh nghiệp (lịch sử, tuy đang cải thiện), và biến động đồng won
 
 Trên cơ sở giá trị sổ sách, Samsung lịch sử giao dịch ở mức chiết khấu so với TSMC và Micron. Trên lợi nhuận forward, bội số điều chỉnh chu kỳ của họ nhìn chung tương đương với các công ty cùng ngành bộ nhớ nhưng thấp hơn các công ty bán dẫn fabless được hưởng phí bù tăng trưởng.
 
@@ -142,15 +142,15 @@ Cổ phiếu không rõ ràng là rẻ hay đắt ở mức hiện tại. Quyế
 Cổ phiếu phổ thông Samsung Electronics (005930) giao dịch trên Sàn Giao Dịch Chứng Khoán Hàn Quốc với thanh khoản hàng ngày cực cao—thường là một trong ba cổ phiếu hàng đầu về doanh thu giao dịch hàng ngày trên KOSPI. Cổ phiếu ưu đãi (005935) giao dịch ở mức chiết khấu so với cổ phiếu phổ thông nhưng không có quyền biểu quyết và cũng có thanh khoản cao.
 
 Nhà đầu tư nước ngoài có thể tiếp cận cổ phiếu Hàn Quốc thông qua hầu hết các nhà môi giới quốc tế có quyền truy cập thị trường châu Á. Thanh toán là T+2. Đồng tiền giao dịch là Korean Won (KRW). Một số lưu ý thực tế quan trọng:
-- **Ngoại hối:** Lợi nhuận được tính bằng KRW. Biến động USD/KRW ảnh hưởng đáng kể đến lợi nhuận tính bằng đô la.
-- **Ngôn ngữ công bố thông tin:** Tất cả hồ sơ quy định đều có bằng tiếng Hàn trên DART (dart.fss.or.kr). Samsung cũng công bố thông cáo kết quả kinh doanh và báo cáo thường niên bằng tiếng Anh có thể truy cập qua cổng IR của họ.
-- **Thuế:** Nhà đầu tư không cư trú thường phải chịu thuế khấu trừ 15,4% đối với cổ tức theo mức tiêu chuẩn của Hàn Quốc (mức hiệp ước có thể khác nhau tùy quốc gia).
+- <strong>Ngoại hối:</strong> Lợi nhuận được tính bằng KRW. Biến động USD/KRW ảnh hưởng đáng kể đến lợi nhuận tính bằng đô la.
+- <strong>Ngôn ngữ công bố thông tin:</strong> Tất cả hồ sơ quy định đều có bằng tiếng Hàn trên DART (dart.fss.or.kr). Samsung cũng công bố thông cáo kết quả kinh doanh và báo cáo thường niên bằng tiếng Anh có thể truy cập qua cổng IR của họ.
+- <strong>Thuế:</strong> Nhà đầu tư không cư trú thường phải chịu thuế khấu trừ 15,4% đối với cổ tức theo mức tiêu chuẩn của Hàn Quốc (mức hiệp ước có thể khác nhau tùy quốc gia).
 
 ### Tiếp Cận Qua ETF (Không Cần Môi Giới Trực Tiếp)
 Đối với nhà đầu tư không có quyền truy cập KOSPI trực tiếp, Samsung Electronics là thành phần lớn của:
-- **iShares MSCI South Korea ETF (EWY):** Samsung thường là cổ phiếu đơn lẻ lớn nhất với tỷ trọng 20–25%.
-- **iShares MSCI Emerging Markets ETF (EEM) / Vanguard FTSE Emerging Markets ETF (VWO):** Samsung xuất hiện là một trong top-5 holdings.
-- **Các ETF bán dẫn tập trung vào Hàn Quốc và EM** có tỷ trọng các công ty bộ nhớ và logic Hàn Quốc.
+- <strong>iShares MSCI South Korea ETF (EWY):</strong> Samsung thường là cổ phiếu đơn lẻ lớn nhất với tỷ trọng 20–25%.
+- <strong>iShares MSCI Emerging Markets ETF (EEM) / Vanguard FTSE Emerging Markets ETF (VWO):</strong> Samsung xuất hiện là một trong top-5 holdings.
+- <strong>Các ETF bán dẫn tập trung vào Hàn Quốc và EM</strong> có tỷ trọng các công ty bộ nhớ và logic Hàn Quốc.
 
 ### Có ADR Không?
 Samsung Electronics không có ADR niêm yết tại Mỹ. Tiếp cận là qua mua trực tiếp trên KOSPI hoặc qua các ETF nêu trên. Đây là một lý do khiến công ty vẫn bị sở hữu không đủ bởi nhà đầu tư bán lẻ Mỹ so với tầm quan trọng toàn cầu của họ.
@@ -159,13 +159,13 @@ Samsung Electronics không có ADR niêm yết tại Mỹ. Tiếp cận là qua 
 
 ## Câu Hỏi Thường Gặp
 
-**Samsung Electronics có phải là khoản đầu tư tốt trong 2026 không?**
+<strong>Samsung Electronics có phải là khoản đầu tư tốt trong 2026 không?</strong>
 Samsung Electronics là công ty chất lượng cao, có tầm quan trọng toàn cầu tại giao điểm của hạ tầng AI, bộ nhớ, và phần cứng smartphone. Liệu đây có phải là *khoản đầu tư tốt* hay không phụ thuộc vào quan điểm của bạn về việc thực thi HBM4, thời gian chu kỳ bộ nhớ, và quỹ đạo cạnh tranh foundry. Cả luận điểm tăng lẫn giảm đều có tính hợp lý—đây không phải câu chuyện một chiều.
 
-**Làm thế nào để mua cổ phiếu Samsung Electronics?**
+<strong>Làm thế nào để mua cổ phiếu Samsung Electronics?</strong>
 Nhà đầu tư quốc tế có thể tiếp cận 005930.KS thông qua các nhà môi giới có quyền truy cập KOSPI, hoặc qua các ETF như EWY. Mua trực tiếp yêu cầu tài khoản tính bằng KRW và nắm rõ quy tắc thanh toán và thuế khấu trừ của Hàn Quốc.
 
-**Samsung Electronics so sánh với SK Hynix như thế nào?**
+<strong>Samsung Electronics so sánh với SK Hynix như thế nào?</strong>
 SK Hynix là nhà lãnh đạo thị trường HBM hiện tại và đã cho thấy hiệu suất cổ phiếu tương đối mạnh hơn trong chu kỳ AI. Samsung cung cấp sự đa dạng hóa rộng hơn (smartphone, foundry, màn hình) và thanh khoản lớn hơn nhưng đi sau SK Hynix cụ thể trong việc thực thi HBM tính đến Q2 2026. Luồng phân tích nội bộ của chúng tôi đã ghi nhận rotation từ Samsung sang Hynix là xem xét danh mục tái diễn.
 
 ---

@@ -17,9 +17,9 @@ slug: samsung-electro-mechanics-100tn-murata-hyundai-market-cap-2026-05-26
 
 ## 要約
 
-サムスン電機は、もはやスマートフォン部品会社としてだけ評価されていません。基準株価 **1,340,000ウォン**、上場株式数 **74,693,696株**を使うと、時価総額は約 **100.1兆ウォン**です。現代自動車普通株の時価総額 **134.1兆ウォン**を超えるには、株価は約 **179.6万ウォン**、つまり **+34.0%** が必要です。
+サムスン電機は、もはやスマートフォン部品会社としてだけ評価されていません。基準株価 <strong>1,340,000ウォン</strong>、上場株式数 <strong>74,693,696株</strong>を使うと、時価総額は約 <strong>100.1兆ウォン</strong>です。現代自動車普通株の時価総額 <strong>134.1兆ウォン</strong>を超えるには、株価は約 <strong>179.6万ウォン</strong>、つまり <strong>+34.0%</strong> が必要です。
 
-村田製作所の事例は上限を示します。村田のFY3/2027会社予想は売上高 **1.96兆円**、営業利益 **3,800億円**、営業利益率 <strong>19.4%</strong>です。サーバー向けコンデンサと電源モジュールが成長要因として明示されています。
+村田製作所の事例は上限を示します。村田のFY3/2027会社予想は売上高 <strong>1.96兆円</strong>、営業利益 <strong>3,800億円</strong>、営業利益率 <strong>19.4%</strong>です。サーバー向けコンデンサと電源モジュールが成長要因として明示されています。
 
 しかしサムスン電機が同じ評価を維持するには、MLCCだけでは足りません。FC-BGA、MLCC、シリコンキャパシタを組み合わせ、AIサーバーの電力安定化とパッケージ基板のボトルネック企業として再分類される必要があります。
 
@@ -30,7 +30,7 @@ slug: samsung-electro-mechanics-100tn-murata-hyundai-market-cap-2026-05-26
 | Murata path | 22兆ウォン | 22% | 4.84兆ウォン | 145.2兆ウォン |
 | Extreme | 24兆ウォン | 25% | 6.0兆ウォン | 157.5兆ウォン |
 
-結論は **Watchlist / Wait** です。長期テーマは強まりましたが、現在の株価は2027-2028年の利益改善をかなり先取りしています。次の確認点は、全社OPM、AI MLCC、FC-BGA、シリコンキャパシタの追加受注です。
+結論は <strong>Watchlist / Wait</strong> です。長期テーマは強まりましたが、現在の株価は2027-2028年の利益改善をかなり先取りしています。次の確認点は、全社OPM、AI MLCC、FC-BGA、シリコンキャパシタの追加受注です。
 
 [1]: https://samsungsem.com/global/about-us/investor-relations/stock.do "Stocks | SAMSUNG ELECTRO-MECHANICS"
 [2]: https://samsungsem.com/global/newsroom/news/view.do?id=10310 "Samsung Electro-Mechanics Silicon Capacitor Contract"

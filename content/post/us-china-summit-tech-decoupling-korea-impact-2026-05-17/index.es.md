@@ -26,19 +26,19 @@ valley_cashtags:
   - 하나마이크론
 ---
 
-> 📚 **Serie Cumbre EE. UU.-China**
+> 📚 <strong>Serie Cumbre EE. UU.-China</strong>
 > [Guía previa a la cumbre: 10 agendas para inversores coreanos](/post/us-china-summit-korea-investor-guide-2026-05-14/) / [Resultado de la cumbre: ningún gran acuerdo](/post/us-china-summit-result-korea-investor-implications-2026-05-15/) / [Escenario de expansión de CloudMatrix](/es/post/cloudmatrix-expansion-korea-alpha-inspection-consumables-2026-05-17/) / [Resultados de NVIDIA y la cadena de suministro secundaria de Corea](/post/nvidia-earnings-korea-supply-chain-secondary-stocks-2026-05-17/) / [AI-RAN y la cadena de suministro coreana](/post/ai-ran-nvidia-earnings-skt-vs-supply-chain-2026-05-17/)
 
 *La cumbre de Pekín del 14-15 de mayo no fue un gran acuerdo. Fue una tregua administrada. Washington y Pekín acordaron evitar una escalada inmediata, pero los problemas de fondo —controles a las exportaciones de semiconductores, tierras raras, Taiwán y estructura arancelaria— no se resolvieron. La señal más importante llegó fuera de la sala. EE. UU. autorizó las exportaciones del H200, pero China no ha permitido que las compras procedan. Mientras tanto, el CloudMatrix 384 de Huawei muestra una respuesta china diferente: chips más débiles compensados con más chips, más energía y más enlaces ópticos. El desacoplamiento no está terminando. Está evolucionando hacia un equilibrio más costoso.*
 
 ## Conclusiones clave
 
-* **La cumbre fue una tregua administrada.** Redujo el riesgo de escalada a corto plazo, pero no resolvió la estructura de control tecnológico.
-* **El episodio del H200 importa más que el comunicado.** EE. UU. ha autorizado las ventas a aproximadamente 10 empresas chinas, pero los informes indican que no se ha enviado ningún chip H200 porque China no ha aprobado las compras.
-* **El CloudMatrix 384 es una solución alternativa a nivel de sistema.** Huawei no está superando a NVIDIA en eficiencia de chip. Está usando muchos más chips, mucho más consumo energético y una red óptica más amplia para alcanzar un rendimiento útil a nivel de sistema.
-* **El modelo del ITIF complica el relato de que "el desacoplamiento es malo para Corea".** En un escenario de desacoplamiento total de semiconductores, el ITIF estima que las empresas estadounidenses podrían perder USD 77.000 millones en ventas relacionadas con China en el primer año, mientras que las empresas surcoreanas podrían ganar aproximadamente USD 21.000 millones.
-* **La exposición de Corea depende del horizonte temporal.** El corto plazo favorece al HBM, la memoria, los sustratos, los MLCC y los enlaces ópticos. El mediano plazo es mixto. El largo plazo trae fragmentación de estándares, sustitución china y costos de doble cadena de suministro.
-* **El alfa de segundo orden más claro está en la interconexión óptica.** La cadena estadounidense necesita más CPO y óptica a escala de rack; la cadena china necesita aún más enlaces ópticos porque compensa con escala.
+* <strong>La cumbre fue una tregua administrada.</strong> Redujo el riesgo de escalada a corto plazo, pero no resolvió la estructura de control tecnológico.
+* <strong>El episodio del H200 importa más que el comunicado.</strong> EE. UU. ha autorizado las ventas a aproximadamente 10 empresas chinas, pero los informes indican que no se ha enviado ningún chip H200 porque China no ha aprobado las compras.
+* <strong>El CloudMatrix 384 es una solución alternativa a nivel de sistema.</strong> Huawei no está superando a NVIDIA en eficiencia de chip. Está usando muchos más chips, mucho más consumo energético y una red óptica más amplia para alcanzar un rendimiento útil a nivel de sistema.
+* <strong>El modelo del ITIF complica el relato de que "el desacoplamiento es malo para Corea".</strong> En un escenario de desacoplamiento total de semiconductores, el ITIF estima que las empresas estadounidenses podrían perder USD 77.000 millones en ventas relacionadas con China en el primer año, mientras que las empresas surcoreanas podrían ganar aproximadamente USD 21.000 millones.
+* <strong>La exposición de Corea depende del horizonte temporal.</strong> El corto plazo favorece al HBM, la memoria, los sustratos, los MLCC y los enlaces ópticos. El mediano plazo es mixto. El largo plazo trae fragmentación de estándares, sustitución china y costos de doble cadena de suministro.
+* <strong>El alfa de segundo orden más claro está en la interconexión óptica.</strong> La cadena estadounidense necesita más CPO y óptica a escala de rack; la cadena china necesita aún más enlaces ópticos porque compensa con escala.
 
 ## 1. Lo que realmente señaló la cumbre
 
@@ -90,9 +90,9 @@ Pero la perspectiva a largo plazo es menos cómoda. Cuanto más persiste el desa
 
 La respuesta correcta está segmentada por tiempo:
 
-* **6-12 meses**: favorable para la memoria coreana y los componentes de IA.
-* **1-3 años**: mixto, a medida que la sustitución china empieza a presionar los precios y los estándares.
-* **3-5 años**: estructuralmente más arriesgado, porque las cadenas de suministro duales y los estándares fragmentados elevan los costos.
+* <strong>6-12 meses</strong>: favorable para la memoria coreana y los componentes de IA.
+* <strong>1-3 años</strong>: mixto, a medida que la sustitución china empieza a presionar los precios y los estándares.
+* <strong>3-5 años</strong>: estructuralmente más arriesgado, porque las cadenas de suministro duales y los estándares fragmentados elevan los costos.
 
 ## 5. Lo que significa para las acciones coreanas
 
@@ -136,13 +136,13 @@ El alfa no está en decir "el desacoplamiento es bueno" o "el desacoplamiento es
 
 ## Fuentes y notas de evidencia
 
-**Hechos verificados**
+<strong>Hechos verificados</strong>
 
 * El ITIF estima que en un escenario de desacoplamiento total, las empresas de semiconductores estadounidenses podrían perder alrededor de USD 77.000 millones en ventas relacionadas con China en el primer año, mientras que las empresas surcoreanas podrían ganar alrededor de USD 21.000 millones.
 * Reportes citados por Reuters y la cobertura de Tom's Hardware indican que EE. UU. autorizó las ventas del H200 a aproximadamente 10 empresas chinas, pero no se había enviado ningún chip a mediados de mayo.
 * Tom's Hardware y reportes basados en SemiAnalysis describen el Huawei CloudMatrix 384 como un sistema de 384 chips con aproximadamente 300 PFLOPs BF16 y un consumo de sistema de alrededor de 559 kW.
 
-**Inferencias**
+<strong>Inferencias</strong>
 
 * El no envío del H200 se interpreta aquí como un debilitamiento de la zanahoria de la licencia de exportación.
 * El CloudMatrix 384 se interpreta como una solución alternativa a nivel de sistema, no como una victoria a nivel de chip.

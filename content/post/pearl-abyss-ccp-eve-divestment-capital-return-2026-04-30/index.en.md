@@ -22,7 +22,7 @@ draft: false
 
 > 📚 See the [Pearl Abyss and Crimson Desert research hub](/page/pearl-abyss-crimson-desert-hub/) for the full thread across target price, short-sale data, patch updates, KRW 60,000 support, and the CCP/EVE divestiture.
 
-> 🔗 **Related reads — Pearl Abyss × Crimson Desert series**: [Shinhan target ₩72,000 analysis](/post/pearl-abyss-shinhan-target-price-gap-analysis-2026-04-29/) · [Retail → institutional handoff at ₩60K](/post/pearl-abyss-60k-new-support-retail-to-institutional-handoff-2026-04-27/) · [Post-patch weekend data](/post/pearl-abyss-crimson-desert-post-patch-weekend-data-2026-04-27/) · [Platform re-rating](/post/pearl-abyss-crimson-desert-platform-rerating-2026-04-25/) · [1Q26 earnings preview](/post/pearl-abyss-1q26-earnings-preview-2026-04-21/) · [5M franchise re-rating](/post/pearl-abyss-crimson-desert-5m-franchise-thesis-2026-04-15/)
+> 🔗 <strong>Related reads — Pearl Abyss × Crimson Desert series</strong>: [Shinhan target ₩72,000 analysis](/post/pearl-abyss-shinhan-target-price-gap-analysis-2026-04-29/) · [Retail → institutional handoff at ₩60K](/post/pearl-abyss-60k-new-support-retail-to-institutional-handoff-2026-04-27/) · [Post-patch weekend data](/post/pearl-abyss-crimson-desert-post-patch-weekend-data-2026-04-27/) · [Platform re-rating](/post/pearl-abyss-crimson-desert-platform-rerating-2026-04-25/) · [1Q26 earnings preview](/post/pearl-abyss-1q26-earnings-preview-2026-04-21/) · [5M franchise re-rating](/post/pearl-abyss-crimson-desert-5m-franchise-thesis-2026-04-15/)
 
 *Pearl Abyss (263750.KQ) disclosed on April 30 the full divestiture of its CCP Games stake for ₩177.1bn, with a closing date of May 6. This note is a standalone event-driven analysis, separate from the series closed immediately prior. Two questions drive the analysis: how much does this transaction move the fundamental picture, and what is the probability that the proceeds flow into a share cancellation program?*
 
@@ -31,10 +31,10 @@ draft: false
 ## Executive Summary
 
 - Disposal proceeds of ₩177.1bn represent approximately 4.7% of market cap and ₩2,757 per share in cash value. In isolation, the transaction is a near-term re-rating event worth roughly +3–5%.
-- The disposal gain is a one-off below-the-line item. Assuming a book value of approximately ₩107.9bn, the pre-tax gain is roughly ₩69.2bn; the post-tax EPS impact is estimated at **approximately ₩800–860 per share**. No recurring earnings multiple should be applied.
-- **The real trigger is how proceeds are deployed and how existing treasury shares are handled.** DART filings confirm **2,828,445 treasury shares, or 4.4% of shares outstanding**. However, **320,000 shares** were disclosed on March 11, 2026 as treasury shares scheduled for delivery upon stock-option exercise. On a conservative basis, the cancellable treasury-share base is therefore 2,508,445 shares. Combining that with a buyback funded by CCP proceeds would move the ₩75,000 central fair value estimate toward the **low-₩78,000 to low-₩82,000 range**.
-- **The 2026 Third Amendment to the Commercial Act** now requires newly acquired treasury shares to be cancelled within one year as a baseline rule. Existing pre-amendment treasury shares carry an 18-month cancellation deadline, with board-level disclosure and shareholder approval required to justify retention. The cost of simply sitting on treasury shares has structurally risen.
-- Factor read: **capital allocation confirmation matters more than the divestiture headline.** Treasury cancellation or a buyback-and-cancel announcement would change the per-share math; the disclosure alone is not enough to treat this as a completed re-rating event.
+- The disposal gain is a one-off below-the-line item. Assuming a book value of approximately ₩107.9bn, the pre-tax gain is roughly ₩69.2bn; the post-tax EPS impact is estimated at <strong>approximately ₩800–860 per share</strong>. No recurring earnings multiple should be applied.
+- <strong>The real trigger is how proceeds are deployed and how existing treasury shares are handled.</strong> DART filings confirm <strong>2,828,445 treasury shares, or 4.4% of shares outstanding</strong>. However, <strong>320,000 shares</strong> were disclosed on March 11, 2026 as treasury shares scheduled for delivery upon stock-option exercise. On a conservative basis, the cancellable treasury-share base is therefore 2,508,445 shares. Combining that with a buyback funded by CCP proceeds would move the ₩75,000 central fair value estimate toward the <strong>low-₩78,000 to low-₩82,000 range</strong>.
+- <strong>The 2026 Third Amendment to the Commercial Act</strong> now requires newly acquired treasury shares to be cancelled within one year as a baseline rule. Existing pre-amendment treasury shares carry an 18-month cancellation deadline, with board-level disclosure and shareholder approval required to justify retention. The cost of simply sitting on treasury shares has structurally risen.
+- Factor read: <strong>capital allocation confirmation matters more than the divestiture headline.</strong> Treasury cancellation or a buyback-and-cancel announcement would change the per-share math; the disclosure alone is not enough to treat this as a completed re-rating event.
 
 ---
 
@@ -53,9 +53,9 @@ draft: false
 
 This disclosure can be read through two very different lenses.
 
-**Scenario A — Simple non-core asset disposal.** ₩177.1bn flows in; the EVE/CCP drag disappears. A near-term +3–5% re-rating event, but not a reason to chase the stock.
+<strong>Scenario A — Simple non-core asset disposal.</strong> ₩177.1bn flows in; the EVE/CCP drag disappears. A near-term +3–5% re-rating event, but not a reason to chase the stock.
 
-**Scenario B — The beginning of a capital allocation pivot.** A portion of the proceeds funds a share buyback-and-cancel program; simultaneously, the existing treasury share position is formally designated for cancellation. In this scenario, Pearl Abyss transitions from a pure new-title momentum play into a **gaming company where cash generation and shareholder returns operate in parallel** — a genuine re-rating catalyst.
+<strong>Scenario B — The beginning of a capital allocation pivot.</strong> A portion of the proceeds funds a share buyback-and-cancel program; simultaneously, the existing treasury share position is formally designated for cancellation. In this scenario, Pearl Abyss transitions from a pure new-title momentum play into a <strong>gaming company where cash generation and shareholder returns operate in parallel</strong> — a genuine re-rating catalyst.
 
 As of April 30, the market is pricing Scenario A as the base case. Scenario B is a function of disclosures to come between now and year-end. The important factor is straightforward: Scenario A supports a modest event premium, while Scenario B would change the fair value estimate range through per-share arithmetic.
 
@@ -65,7 +65,7 @@ As of April 30, the market is pricing Scenario A as the base case. Scenario B is
 
 ### 2.1 Deal Overview
 
-Pearl Abyss is selling its entire stake in CCP Games back to CCP's current management team for ₩177.1bn. The stated rationale is financial structure improvement and operational efficiency. Closing is expected May 6, 2026. CCP Games is the developer of EVE Online — Pearl Abyss acquired it in 2018 for approximately **₩252.5bn**.
+Pearl Abyss is selling its entire stake in CCP Games back to CCP's current management team for ₩177.1bn. The stated rationale is financial structure improvement and operational efficiency. Closing is expected May 6, 2026. CCP Games is the developer of EVE Online — Pearl Abyss acquired it in 2018 for approximately <strong>₩252.5bn</strong>.
 
 ```text
 Acquisition price (2018) = ₩252.5bn
@@ -79,11 +79,11 @@ On the surface, this is an eight-year round-trip at a ₩75.4bn loss. In practic
 
 This is not a routine asset cleanup. There are three distinct messages.
 
-**Signal 1 — Non-core asset rationalization.** Capital, headcount, and investor attention are being realigned squarely around Crimson Desert, Dokkebi, and Plan 8. EVE was always a step removed from Pearl Abyss's core IP universe, even relative to Black Desert.
+<strong>Signal 1 — Non-core asset rationalization.</strong> Capital, headcount, and investor attention are being realigned squarely around Crimson Desert, Dokkebi, and Plan 8. EVE was always a step removed from Pearl Abyss's core IP universe, even relative to Black Desert.
 
-**Signal 2 — P&L simplification.** EVE/CCP revenue exits the consolidation perimeter, but so does the loss-generating development spend and management overhead. This is not a transaction where lower revenue mechanically means lower operating income.
+<strong>Signal 2 — P&L simplification.</strong> EVE/CCP revenue exits the consolidation perimeter, but so does the loss-generating development spend and management overhead. This is not a transaction where lower revenue mechanically means lower operating income.
 
-**Signal 3 — Shareholder return firepower.** The ₩177.1bn is not operating cash flow — it is proceeds from a non-core asset disposal. Both on an accounting basis and in terms of market optics, this is precisely the category of cash where the case for returning capital to shareholders is strongest.
+<strong>Signal 3 — Shareholder return firepower.</strong> The ₩177.1bn is not operating cash flow — it is proceeds from a non-core asset disposal. Both on an accounting basis and in terms of market optics, this is precisely the category of cash where the case for returning capital to shareholders is strongest.
 
 The third signal is the focus of this note.
 
@@ -111,7 +111,7 @@ Proceeds / market cap   = ₩177.1bn ÷ ₩3.78tn   ≈ 4.7%
 
 Cross-check: 64,247,855 × ₩2,757 ≈ ₩177.14bn. The arithmetic holds.
 
-This transaction delivers a cash event equivalent to roughly 4.7% of market cap, or ₩2,757 per share. Intra-quarter operating cash flows of comparable magnitude are not unusual for large-cap gaming companies — the distinction here is that this is **non-recurring proceeds from a non-core asset disposal**, which informs how the market should value it.
+This transaction delivers a cash event equivalent to roughly 4.7% of market cap, or ₩2,757 per share. Intra-quarter operating cash flows of comparable magnitude are not unusual for large-cap gaming companies — the distinction here is that this is <strong>non-recurring proceeds from a non-core asset disposal</strong>, which informs how the market should value it.
 
 ### 3.2 Disposal Gain — One-Off, Not Recurring
 
@@ -123,7 +123,7 @@ Post-tax (rate 20–25%)  = ₩69.2bn × 75–80%    = ~₩51.9–55.4bn
 EPS impact              = ₩51.9–55.4bn ÷ 64,247,855 ≈ ₩808–862/share
 ```
 
-One critical caveat: this is an estimate, not a confirmed figure. The final disposal P&L will depend on actual book value, cumulative foreign currency translation adjustments, taxes, transaction costs, and consolidation elimination entries. More importantly, this is a **one-off non-operating gain**.
+One critical caveat: this is an estimate, not a confirmed figure. The final disposal P&L will depend on actual book value, cumulative foreign currency translation adjustments, taxes, transaction costs, and consolidation elimination entries. More importantly, this is a <strong>one-off non-operating gain</strong>.
 
 Applying a normalized operating earnings multiple — e.g., 15× P/E — to this gain and concluding that market cap should rise by ₩1tn or more would be a category error. The disposal gain accretes directly to book value per share and net cash, but has minimal bearing on a P/E-based fair value unless it flows back to shareholders.
 
@@ -180,7 +180,7 @@ Five factors are simultaneously in play:
 1. Non-core disposal proceeds of ₩177.1bn are now on the balance sheet.
 2. The Crimson Desert launch makes a 2026 return to profitability highly visible.
 3. The CCP operating and development cost drag has been eliminated.
-4. **The 2026 Third Amendment to the Commercial Act** has structurally raised the pressure to cancel treasury shares.
+4. <strong>The 2026 Third Amendment to the Commercial Act</strong> has structurally raised the pressure to cancel treasury shares.
 5. Peers — Krafton, Netmarble — have raised the bar on shareholder returns, creating a relative governance discount if Pearl Abyss does not follow.
 
 The convergence of all five is uncommon.
@@ -189,22 +189,22 @@ The convergence of all five is uncommon.
 
 The 2026 Third Amendment to the Commercial Act introduced the following changes to treasury share treatment:
 
-- **Newly acquired treasury shares**: must be cancelled within one year of acquisition as the default rule.
-- **Existing treasury shares acquired before the amendment**: must be cancelled within 18 months.
-- **Exception for retention**: the company must prepare a treasury share retention and disposal plan and obtain shareholder approval at a general meeting.
+- <strong>Newly acquired treasury shares</strong>: must be cancelled within one year of acquisition as the default rule.
+- <strong>Existing treasury shares acquired before the amendment</strong>: must be cancelled within 18 months.
+- <strong>Exception for retention</strong>: the company must prepare a treasury share retention and disposal plan and obtain shareholder approval at a general meeting.
 
 The practical implication is straightforward. The cost of simply warehousing treasury shares has risen sharply. To justify retention, management must explain to shareholders why the treasury position is not being cancelled and put it to a vote.
 
 For Pearl Abyss, two paths remain:
 
-- **Path A**: Cancel existing treasury shares → immediate accretion to shareholder value.
-- **Path B**: Draft a retention plan, seek shareholder approval → disclosure burden, governance discount surfaced.
+- <strong>Path A</strong>: Cancel existing treasury shares → immediate accretion to shareholder value.
+- <strong>Path B</strong>: Draft a retention plan, seek shareholder approval → disclosure burden, governance discount surfaced.
 
-Path B generates an annual drag on governance scores. Rational management defaults to **cancellation for the bulk of the position, retaining only a defensible slice for employee compensation or M&A optionality**.
+Path B generates an annual drag on governance scores. Rational management defaults to <strong>cancellation for the bulk of the position, retaining only a defensible slice for employee compensation or M&A optionality</strong>.
 
 ### 5.3 "Pearl Abyss Doesn't Return Capital" Is a Mischaracterization
 
-This framing circulates widely, but the facts tell a different story. Pearl Abyss **cancelled 1,986,645 treasury shares in 2022**, with a book-value consideration of approximately ₩24.4bn, explicitly stating shareholder value enhancement and share price stabilization as the rationale.
+This framing circulates widely, but the facts tell a different story. Pearl Abyss <strong>cancelled 1,986,645 treasury shares in 2022</strong>, with a book-value consideration of approximately ₩24.4bn, explicitly stating shareholder value enhancement and share price stabilization as the rationale.
 
 The accurate characterization is:
 
@@ -227,18 +227,18 @@ Stock-option delivery plan      = 320,000 shares
 Conservative cancellable base   = 2,508,445 shares, 3.9% of shares outstanding
 ```
 
-The DART basis is Pearl Abyss's [2025 annual report filed on March 19, 2026](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260319001336) and its [March 11, 2026 treasury-share disposal decision](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260310003117). Both filings show **2,828,445 treasury shares** before disposal. The March 11 filing also discloses **320,000 shares** scheduled for delivery upon stock-option exercise.
+The DART basis is Pearl Abyss's [2025 annual report filed on March 19, 2026](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260319001336) and its [March 11, 2026 treasury-share disposal decision](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260310003117). Both filings show <strong>2,828,445 treasury shares</strong> before disposal. The March 11 filing also discloses <strong>320,000 shares</strong> scheduled for delivery upon stock-option exercise.
 
 ### 6.2 Buyback-and-Cancel Scenarios — Shares and Per-Share Value Impact
 
 | Scenario | Funding Source | Shares Cancelled | % of Outstanding | Per-Share Value Uplift |
 |---|---|---:|---:|---:|
-| Cancel all existing treasury, DART balance | Existing position | 2.828M | 4.4% | **+4.6%** |
-| Conservative existing treasury cancellation, excluding option-delivery shares | Existing position | 2.508M | 3.9% | **+4.1%** |
+| Cancel all existing treasury, DART balance | Existing position | 2.828M | 4.4% | <strong>+4.6%</strong> |
+| Conservative existing treasury cancellation, excluding option-delivery shares | Existing position | 2.508M | 3.9% | <strong>+4.1%</strong> |
 | 50% of CCP proceeds — buyback & cancel | ₩88.5bn | \~1.503M | 2.3% | +2.4% |
 | 100% of CCP proceeds — buyback & cancel | ₩177.1bn | \~3.007M | 4.7% | +4.9% |
-| Conservative existing + 50% of CCP proceeds | Position + ₩88.5bn | \~4.012M | 6.2% | **+6.7%** |
-| **Conservative existing + 100% of CCP proceeds** | Position + ₩177.1bn | \~5.515M | 8.6% | **+9.4%** |
+| Conservative existing + 50% of CCP proceeds | Position + ₩88.5bn | \~4.012M | 6.2% | <strong>+6.7%</strong> |
+| <strong>Conservative existing + 100% of CCP proceeds</strong> | Position + ₩177.1bn | \~5.515M | 8.6% | <strong>+9.4%</strong> |
 
 ### 6.3 Arithmetic Verification
 
@@ -269,11 +269,11 @@ Dividend yield       = ₩2,757 ÷ ₩58,900 ≈ 4.7%
 
 Superficially attractive, but a buyback-and-cancel is the superior mechanism for two reasons.
 
-First, **tax efficiency**. A special dividend is subject to 15.4% withholding tax or inclusion in aggregate income tax. Share cancellation reduces the float directly; investors incur no immediate tax liability.
+First, <strong>tax efficiency</strong>. A special dividend is subject to 15.4% withholding tax or inclusion in aggregate income tax. Share cancellation reduces the float directly; investors incur no immediate tax liability.
 
-Second, **price signaling**. At the current price of ₩58,900, approximately a 22% discount to the ₩75,000 central fair value estimate, management purchasing shares in the open market would send a powerful signal: the company views its own stock as undervalued. A dividend conveys no such signal.
+Second, <strong>price signaling</strong>. At the current price of ₩58,900, approximately a 22% discount to the ₩75,000 central fair value estimate, management purchasing shares in the open market would send a powerful signal: the company views its own stock as undervalued. A dividend conveys no such signal.
 
-**In both economic and signaling terms, buyback-and-cancel is the dominant choice at current price levels.**
+<strong>In both economic and signaling terms, buyback-and-cancel is the dominant choice at current price levels.</strong>
 
 ---
 
@@ -287,7 +287,7 @@ The values established in the preceding series:
 |---|---:|
 | Conservative | ₩63,000–68,000 |
 | Base | ₩72,000–79,000 |
-| **Central estimate** | **₩75,000** |
+| <strong>Central estimate</strong> | <strong>₩75,000</strong> |
 | Optimistic | ₩86,000–93,000 |
 
 ### 7.2 Mechanically Adding the Shareholder Return Effect
@@ -306,7 +306,7 @@ Conservative existing treasury + 100% of CCP proceeds:
 = ₩75,000 × 1.094 = ~₩82,050
 ```
 
-In short, if shareholder return announcements are robust, the ₩75,000 central fair value estimate can move toward the **low-₩78,000 to low-₩82,000 range** on the conservative base, or **₩78,500–82,500** if the full DART treasury balance is cancelled.
+In short, if shareholder return announcements are robust, the ₩75,000 central fair value estimate can move toward the <strong>low-₩78,000 to low-₩82,000 range</strong> on the conservative base, or <strong>₩78,500–82,500</strong> if the full DART treasury balance is cancelled.
 
 ### 7.3 The Gap Between Arithmetic and Market Reaction
 
@@ -325,7 +325,7 @@ All four positive → the ₩80,000s are justified. Two or fewer positive → th
 
 ### 8.1 Current Read
 
-**Capital allocation confirmation is the key unresolved factor.**
+<strong>Capital allocation confirmation is the key unresolved factor.</strong>
 
 This disclosure alone does not complete the re-rating case. In isolation, the disposal is a near-term +3–5% re-rating factor; anything beyond that is contingent on capital allocation decisions yet to be announced.
 
@@ -365,9 +365,9 @@ Any of the following would materially weaken the thesis:
 
 ## 9. The Single Most Important Takeaway
 
-The substance of this disclosure is not a ₩177.1bn cash event. It is a test of Pearl Abyss's capital allocation principles. The disposal itself is a +3–5% re-rating factor; everything beyond that depends on where the proceeds go. If CCP proceeds fund a buyback-and-cancel program and the existing treasury position is formally designated for cancellation, the ₩75,000 central fair value estimate can move toward the **low-₩78,000 to low-₩82,000 range** on the conservative base.
+The substance of this disclosure is not a ₩177.1bn cash event. It is a test of Pearl Abyss's capital allocation principles. The disposal itself is a +3–5% re-rating factor; everything beyond that depends on where the proceeds go. If CCP proceeds fund a buyback-and-cancel program and the existing treasury position is formally designated for cancellation, the ₩75,000 central fair value estimate can move toward the <strong>low-₩78,000 to low-₩82,000 range</strong> on the conservative base.
 
-What investors should be demanding from management right now is not an updated product roadmap. It is a clear statement of capital allocation intent. **The numbers are on the table; now show us the principles.** How Pearl Abyss handles both the existing treasury shares and the CCP proceeds is the real trigger for the next leg of re-rating.
+What investors should be demanding from management right now is not an updated product roadmap. It is a clear statement of capital allocation intent. <strong>The numbers are on the table; now show us the principles.</strong> How Pearl Abyss handles both the existing treasury shares and the CCP proceeds is the real trigger for the next leg of re-rating.
 
 The setup remains constructive, but still conditional. May needs to deliver on at least two of four catalysts: 1Q earnings, 6M units, proceeds deployment guidance, and the treasury share plan.
 

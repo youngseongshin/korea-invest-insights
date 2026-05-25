@@ -14,7 +14,7 @@ South Korea's benchmark KOSPI index surged 4.58% intraday on May 4, 2026, its sh
 
 Foreign investors net-bought ₩2.72 trillion (~$2.0B) in KOSPI-listed shares. Domestic institutions added another ₩1.55 trillion. That combination — both major buyer groups moving in the same direction at scale — signals a conviction-driven rotation rather than short-covering noise. The market closed ahead of a public holiday on May 5, which typically invites profit-taking. Instead, the buying accelerated into the close.
 
-The three sectors leading the advance: **semiconductors and AI infrastructure**, **power equipment**, and **securities brokerages**. Construction, real estate, and paper/timber were the session's laggards — a clean split between future-economy beneficiaries and domestic-cycle exposure.
+The three sectors leading the advance: <strong>semiconductors and AI infrastructure</strong>, <strong>power equipment</strong>, and <strong>securities brokerages</strong>. Construction, real estate, and paper/timber were the session's laggards — a clean split between future-economy beneficiaries and domestic-cycle exposure.
 
 ---
 
@@ -70,10 +70,10 @@ That said, WTI crude remained above $101 per barrel. At these levels, demand des
 
 South Korean markets are closed May 5 for Children's Day. When trading resumes, several data points will determine whether today's move has follow-through:
 
-- **Samsung Electronics**: Can it sustain above the ₩232,500 level with continued large-scale foreign buying? Two consecutive sessions of net foreign purchases at this scale would be a meaningful signal.
-- **Samsung Electro-Mechanics**: The ₩918,000 level is the near-term anchor. A hold above that with sustained institutional participation would confirm the post-earnings re-rating thesis.
-- **Power equipment candidates**: Jeryong Electric, Sanil Electric, and Daewon Cable (006340.KS) saw sharp single-day gains. The first meaningful pullback on declining volume — with flow data showing buyers stepping in — would be the cleaner entry signal than chasing today's highs.
-- **Pearl Abyss (263750.KS)**, the KOSDAQ-listed game developer, was a relative underperformer today despite the broad market rally. Institutional selling continued. For investors holding this name, the ₩57,000 level is the next meaningful support zone to monitor.
+- <strong>Samsung Electronics</strong>: Can it sustain above the ₩232,500 level with continued large-scale foreign buying? Two consecutive sessions of net foreign purchases at this scale would be a meaningful signal.
+- <strong>Samsung Electro-Mechanics</strong>: The ₩918,000 level is the near-term anchor. A hold above that with sustained institutional participation would confirm the post-earnings re-rating thesis.
+- <strong>Power equipment candidates</strong>: Jeryong Electric, Sanil Electric, and Daewon Cable (006340.KS) saw sharp single-day gains. The first meaningful pullback on declining volume — with flow data showing buyers stepping in — would be the cleaner entry signal than chasing today's highs.
+- <strong>Pearl Abyss (263750.KS)</strong>, the KOSDAQ-listed game developer, was a relative underperformer today despite the broad market rally. Institutional selling continued. For investors holding this name, the ₩57,000 level is the next meaningful support zone to monitor.
 
 The broader question for international investors: does today's buying represent a genuine regime shift in how global allocators view Korean equities — particularly in the AI and advanced manufacturing value chain — or is it a holiday-compressed squeeze? The answer will become clearer in the first two to three sessions after May 5.
 

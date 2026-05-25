@@ -17,7 +17,7 @@ series: ["pearl-abyss-crimson-desert"]
 draft: false
 ---
 
-> 📚 **Pearl Abyss follow-up.**
+> 📚 <strong>Pearl Abyss follow-up.</strong>
 > Read first: [Pearl Abyss 1Q26 earnings comprehensive: ₩212.1B OP, 64.6% margin, FY26 OP guidance of ₩487.6-572.6B](/post/pearl-abyss-1q26-earnings-guidance-comprehensive-2026-05-12/)
 > Read next: [What the DLC "exploring" comment really means — not the KRW 60B in sales, but the removal of the "2027 cliff" discount](/post/pearl-abyss-dlc-package-to-franchise-rerating-2026-05-15/)
 > Hub: [Pearl Abyss and Crimson Desert Research Hub](/page/pearl-abyss-crimson-desert-hub/)
@@ -28,12 +28,12 @@ draft: false
 
 ## TL;DR
 
-* **The earnings proof is in.** Pearl Abyss reported 1Q26 revenue of ₩328.5B, operating profit of ₩212.1B, and a 64.6% operating margin. [Korea JoongAng Daily](https://koreajoongangdaily.joins.com/news/2026-05-12/culture/gamesWebtoons/Game-developer-Pearl-Abyss-reports-30200-onquarter-increase-in-operating-profit-due-to-Crimson-Desert/2590360) reported that Crimson Desert generated ₩266.5B in the quarter and that North America plus Europe accounted for 81% of revenue.
-* **The 2Q cliff argument is weaker.** The company guided to FY26 operating profit of ₩487.6-572.6B and 2Q26 operating profit of ₩129.6-176.7B. [ZDNet Korea via Daum](https://v.daum.net/v/20260512170904017) also reported 2Q revenue guidance of ₩271.3-324.7B.
-* **The next issue is the multiple.** Good earnings raise EPS. Good capital allocation and post-launch roadmap visibility raise the multiple. The May 21 IR is the first test of whether Pearl Abyss can connect the two.
-* **Capital return is not just a dividend question.** The deeper question is whether management can state a credible rule for balancing buybacks, dividends, next-IP investment, talent retention, and M&A after Crimson Desert and the CCP/Fenris divestiture improve cash flow.
-* **DLC and platform expansion matter because they attach 2027 cash flow.** If the story is only base-game sales, the market will treat 2026 as peak earnings. Paid DLC, expansions, new platforms, or repeatable endgame content can extend the revenue curve.
-* **DokeV is still an option.** But if development stage, disclosure timing, and BlackSpace Engine reuse become clearer, Pearl Abyss moves from single-hit upside into multi-IP repeatability.
+* <strong>The earnings proof is in.</strong> Pearl Abyss reported 1Q26 revenue of ₩328.5B, operating profit of ₩212.1B, and a 64.6% operating margin. [Korea JoongAng Daily](https://koreajoongangdaily.joins.com/news/2026-05-12/culture/gamesWebtoons/Game-developer-Pearl-Abyss-reports-30200-onquarter-increase-in-operating-profit-due-to-Crimson-Desert/2590360) reported that Crimson Desert generated ₩266.5B in the quarter and that North America plus Europe accounted for 81% of revenue.
+* <strong>The 2Q cliff argument is weaker.</strong> The company guided to FY26 operating profit of ₩487.6-572.6B and 2Q26 operating profit of ₩129.6-176.7B. [ZDNet Korea via Daum](https://v.daum.net/v/20260512170904017) also reported 2Q revenue guidance of ₩271.3-324.7B.
+* <strong>The next issue is the multiple.</strong> Good earnings raise EPS. Good capital allocation and post-launch roadmap visibility raise the multiple. The May 21 IR is the first test of whether Pearl Abyss can connect the two.
+* <strong>Capital return is not just a dividend question.</strong> The deeper question is whether management can state a credible rule for balancing buybacks, dividends, next-IP investment, talent retention, and M&A after Crimson Desert and the CCP/Fenris divestiture improve cash flow.
+* <strong>DLC and platform expansion matter because they attach 2027 cash flow.</strong> If the story is only base-game sales, the market will treat 2026 as peak earnings. Paid DLC, expansions, new platforms, or repeatable endgame content can extend the revenue curve.
+* <strong>DokeV is still an option.</strong> But if development stage, disclosure timing, and BlackSpace Engine reuse become clearer, Pearl Abyss moves from single-hit upside into multi-IP repeatability.
 
 ---
 
@@ -54,7 +54,7 @@ That is why the May 21 IR matters. It is not just an earnings explanation sessio
 
 The core line is simple:
 
-**The earnings release was proof. The May 21 IR is the first test of reclassification.**
+<strong>The earnings release was proof. The May 21 IR is the first test of reclassification.</strong>
 
 ---
 
@@ -78,7 +78,7 @@ But the more important point is profit. Revenue was lower than expected, yet ope
 
 So the correct adjustment is this:
 
-**The revenue-recognition frame should become more conservative. The profitability frame should become stronger.**
+<strong>The revenue-recognition frame should become more conservative. The profitability frame should become stronger.</strong>
 
 ---
 
@@ -101,7 +101,7 @@ The 2Q operating margin can still decline from 1Q. Incentives, operations, extra
 
 The investor implication is clear:
 
-**If 2Q results land inside company guidance, Pearl Abyss can start escaping the peak-earnings discount.**
+<strong>If 2Q results land inside company guidance, Pearl Abyss can start escaping the peak-earnings discount.</strong>
 
 A company with one great launch quarter deserves a low multiple. A company whose launch revenue holds into 2Q deserves a different EPS model.
 
@@ -111,7 +111,7 @@ A company with one great launch quarter deserves a low multiple. A company whose
 
 The first-quarter numbers proved that Pearl Abyss can make money. The harder question is now:
 
-**What will management do with the money?**
+<strong>What will management do with the money?</strong>
 
 Good earnings raise company value. Good capital allocation raises the multiple. Pearl Abyss has historically carried a discount not only because earnings were low, but because cash-flow durability, next-title visibility, and capital-allocation rules were unclear.
 
@@ -155,7 +155,7 @@ So the market does not need to hear only that DLC is being considered. It needs 
 | Platform expansion | Are new platforms or regions possible? |
 | Repeatable content | How will the endgame loop stay active? |
 
-The point of DLC is not one extra revenue line. **It is evidence that Pearl Abyss can still earn money from Crimson Desert in 2027.**
+The point of DLC is not one extra revenue line. <strong>It is evidence that Pearl Abyss can still earn money from Crimson Desert in 2027.</strong>
 
 ---
 
@@ -237,7 +237,7 @@ Fourth, DokeV may stay an undated option. If it remains unclear for another two 
 
 So the conclusion is not that Pearl Abyss is already the highest-quality company on KOSDAQ. The more precise conclusion is:
 
-**Pearl Abyss has, for the first time, the conditions to become a KOSDAQ quality-company candidate. Those conditions only turn into a higher multiple if the May 21 IR provides concrete capital-allocation and pipeline visibility.**
+<strong>Pearl Abyss has, for the first time, the conditions to become a KOSDAQ quality-company candidate. Those conditions only turn into a higher multiple if the May 21 IR provides concrete capital-allocation and pipeline visibility.</strong>
 
 ---
 

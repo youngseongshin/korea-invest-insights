@@ -19,11 +19,11 @@ description: "En combinant l'accumulation cumulée du 4 au 14 mai avec l'absorpt
 draft: false
 ---
 
-> 🔗 **À lire également** : [Bilan de clôture du 15 mai — Samsung Electronics : vente étrangère de ₩2,5T, pourquoi maintenant](/ko/post/kr-kr-close-briefing-2026-05-15/) · [Point macro du 15 mai — Les valeurs résilientes du krach KOSPI](/ko/post/kospi-crash-relative-strength-macro-gate-2026-05-15/) · [Résultats 1T26 de Jeju Semiconductor — Bénéficiaire du resserrement des mémoires legacy porté par l'IA](/ko/post/jeju-semiconductor-1q26-earnings-legacy-memory-squeeze-2026-05-15/)
+> 🔗 <strong>À lire également</strong> : [Bilan de clôture du 15 mai — Samsung Electronics : vente étrangère de ₩2,5T, pourquoi maintenant](/ko/post/kr-kr-close-briefing-2026-05-15/) · [Point macro du 15 mai — Les valeurs résilientes du krach KOSPI](/ko/post/kospi-crash-relative-strength-macro-gate-2026-05-15/) · [Résultats 1T26 de Jeju Semiconductor — Bénéficiaire du resserrement des mémoires legacy porté par l'IA](/ko/post/jeju-semiconductor-1q26-earnings-legacy-memory-squeeze-2026-05-15/)
 
-Le 15 mai a été une séance brutale pour les actions coréennes. Les flux globaux ont affiché : étrangers **-₩5,18T**, institutionnels **-₩1,88T**, retail **+₩6,93T**. Les ventes étrangères se sont concentrées sur les grandes capitalisations, le retail ayant absorbé l'essentiel de l'offre.
+Le 15 mai a été une séance brutale pour les actions coréennes. Les flux globaux ont affiché : étrangers <strong>-₩5,18T</strong>, institutionnels <strong>-₩1,88T</strong>, retail <strong>+₩6,93T</strong>. Les ventes étrangères se sont concentrées sur les grandes capitalisations, le retail ayant absorbé l'essentiel de l'offre.
 
-Dans ce contexte, se contenter du palmarès des premiers acheteurs nets est insuffisant. La vraie question est ailleurs : **quelles valeurs accumulaient déjà jusqu'au 14 mai, et ont continué à bénéficier d'achats étrangers et institutionnels le 15 mai, alors même que le marché dans son ensemble vendait ?**
+Dans ce contexte, se contenter du palmarès des premiers acheteurs nets est insuffisant. La vraie question est ailleurs : <strong>quelles valeurs accumulaient déjà jusqu'au 14 mai, et ont continué à bénéficier d'achats étrangers et institutionnels le 15 mai, alors même que le marché dans son ensemble vendait ?</strong>
 
 La réponse est assez nette. Hana Micron, HL Mando, Simtec, Jeju Semiconductor et Rainbow Robotics se distinguent. Hana Micron et HL Mando affichent en particulier la structure la plus propre — retail vendeur, étrangers et institutionnels absorbeurs — au cœur du krach.
 
@@ -33,11 +33,11 @@ Les données couvrent les flux cumulés du 4 au 14 mai 2026, combinés aux flux 
 
 ## Synthèse
 
-En superposant le signal d'accumulation du 4 au 14 mai à l'absorption observée le jour du krach, on obtient de meilleurs candidats qu'un simple classement par achats nets. Le filtre central est **l'achat simultané d'étrangers et d'institutionnels associé à des ventes retail**.
+En superposant le signal d'accumulation du 4 au 14 mai à l'absorption observée le jour du krach, on obtient de meilleurs candidats qu'un simple classement par achats nets. Le filtre central est <strong>l'achat simultané d'étrangers et d'institutionnels associé à des ventes retail</strong>.
 
 La structure la plus solide est la suivante : étrangers et institutionnels acheteurs ensemble jusqu'au 14 mai, retail vendeur tout au long de la période, et les deux catégories continuant à absorber le 15 mai. Les valeurs qui passent ce filtre combiné incluent Hana Micron, HL Mando, Rainbow Robotics, Jeju Semiconductor, Hugel et GS Retail.
 
-Dans les semi-conducteurs, Hana Micron ressort en tête. Le seul 15 mai, les étrangers ont acheté net **+₩91,8B**, tandis que le retail vendait **-₩93,8B**. Simtec affiche une double accumulation solide jusqu'au 14 mai, mais les institutionnels ont vacillé le 15. Jeju Semiconductor présente des flux puissants, mais a déjà fortement progressé.
+Dans les semi-conducteurs, Hana Micron ressort en tête. Le seul 15 mai, les étrangers ont acheté net <strong>+₩91,8B</strong>, tandis que le retail vendait <strong>-₩93,8B</strong>. Simtec affiche une double accumulation solide jusqu'au 14 mai, mais les institutionnels ont vacillé le 15. Jeju Semiconductor présente des flux puissants, mais a déjà fortement progressé.
 
 À l'inverse, LG Electronics, Hyundai Motor et Hyundai E&C montraient des flux cumulés robustes jusqu'au 14 mai, mais ont subi de lourdes ventes étrangères le 15. Ce ne sont pas de nouveaux candidats à l'achat — ils appellent plutôt à la vigilance face à une possible distribution.
 
@@ -63,9 +63,9 @@ Les valeurs ci-dessous forment le cœur de ce filtre. Étrangers et institutionn
 
 Les deux lignes les plus importantes de ce tableau sont Hana Micron et HL Mando.
 
-Hana Micron accumulait discrètement jusqu'au 14 mai. Puis le 15 mai — jour de krach — les étrangers ont acheté net **+₩91,8B** en une seule séance tandis que le retail vendait **-₩93,8B**. Le titre a bondi de +18,61 %. Flux et cours ont explosé simultanément dans la même direction. Courir après le mouvement comporte un risque à court terme, mais c'est la valeur la plus forte de ce filtre.
+Hana Micron accumulait discrètement jusqu'au 14 mai. Puis le 15 mai — jour de krach — les étrangers ont acheté net <strong>+₩91,8B</strong> en une seule séance tandis que le retail vendait <strong>-₩93,8B</strong>. Le titre a bondi de +18,61 %. Flux et cours ont explosé simultanément dans la même direction. Courir après le mouvement comporte un risque à court terme, mais c'est la valeur la plus forte de ce filtre.
 
-HL Mando offre une configuration plus confortable. Le titre a reculé de -1,91 % le 15 mai, mais les étrangers ont acheté **+₩21,4B**, les institutionnels **+₩13,6B**, et le retail a vendu **-₩33,7B**. Étrangers et institutionnels ont absorbé l'offre retail ensemble pendant le krach. Le coût d'entrée est nettement inférieur à celui des valeurs qui ont déjà fortement progressé.
+HL Mando offre une configuration plus confortable. Le titre a reculé de -1,91 % le 15 mai, mais les étrangers ont acheté <strong>+₩21,4B</strong>, les institutionnels <strong>+₩13,6B</strong>, et le retail a vendu <strong>-₩33,7B</strong>. Étrangers et institutionnels ont absorbé l'offre retail ensemble pendant le krach. Le coût d'entrée est nettement inférieur à celui des valeurs qui ont déjà fortement progressé.
 
 Rainbow Robotics affiche la meilleure qualité de flux bruts. Cependant, elle avait déjà gagné +22,8 % jusqu'au 14 mai et porte un risque de valorisation significatif. « Bonne valeur » et « bon point d'entrée » sont deux choses différentes. Ici, attendre un repli est plus prudent que de courir après.
 
@@ -77,14 +77,14 @@ Dans les semi-conducteurs, le classement est plus tranché. Hana Micron domine, 
 
 | Valeur | Interprétation |
 |---|---|
-| **Hana Micron** | Achat étranger de +₩91,8B le 15 mai dominant. Accumulation discrète jusqu'au 14 mai, puis explosion le jour du krach. Le risque de poursuite à court terme est réel, mais c'est le numéro 1 de ce filtre. |
-| **Simtec** | Jusqu'au 14 mai : étrangers +₩66,6B, institutionnels +₩33,0B, retail -₩43,7B. Le 15 mai : étrangers +₩12,6B, institutionnels -₩7,6B. Les étrangers ont tenu, les institutionnels ont vacillé. |
-| **Jeju Semiconductor** | Double accumulation jusqu'au 14 mai et de nouveau le 15 mai. Mais avec +33,3 % jusqu'au 14 mai et +8,86 % supplémentaires le 15, le risque de poursuite est élevé. |
-| **Daeduck Electronics** | Le signal central jusqu'au 14 mai était institutionnel +₩41,1B. Le 15 mai : étrangers +₩3,8B, institutionnels -₩7,5B. Qualité de flux inférieure à Simtec. |
-| **Philoptics** | Fort jusqu'au 14 mai, mais ventes simultanées d'étrangers et d'institutionnels le 15 mai. Retiré de la liste des candidats. |
-| **HPSP** | Flux étrangers et institutionnels intacts jusqu'au 14 mai, mais vente étrangère le 15 mai. À reléguer en observation secondaire. |
+| <strong>Hana Micron</strong> | Achat étranger de +₩91,8B le 15 mai dominant. Accumulation discrète jusqu'au 14 mai, puis explosion le jour du krach. Le risque de poursuite à court terme est réel, mais c'est le numéro 1 de ce filtre. |
+| <strong>Simtec</strong> | Jusqu'au 14 mai : étrangers +₩66,6B, institutionnels +₩33,0B, retail -₩43,7B. Le 15 mai : étrangers +₩12,6B, institutionnels -₩7,6B. Les étrangers ont tenu, les institutionnels ont vacillé. |
+| <strong>Jeju Semiconductor</strong> | Double accumulation jusqu'au 14 mai et de nouveau le 15 mai. Mais avec +33,3 % jusqu'au 14 mai et +8,86 % supplémentaires le 15, le risque de poursuite est élevé. |
+| <strong>Daeduck Electronics</strong> | Le signal central jusqu'au 14 mai était institutionnel +₩41,1B. Le 15 mai : étrangers +₩3,8B, institutionnels -₩7,5B. Qualité de flux inférieure à Simtec. |
+| <strong>Philoptics</strong> | Fort jusqu'au 14 mai, mais ventes simultanées d'étrangers et d'institutionnels le 15 mai. Retiré de la liste des candidats. |
+| <strong>HPSP</strong> | Flux étrangers et institutionnels intacts jusqu'au 14 mai, mais vente étrangère le 15 mai. À reléguer en observation secondaire. |
 
-Conclusion flux semi-conducteurs : **Hana Micron > Simtec > Jeju Semiconductor > Daeduck Electronics**.
+Conclusion flux semi-conducteurs : <strong>Hana Micron > Simtec > Jeju Semiconductor > Daeduck Electronics</strong>.
 
 Jeju Semiconductor, dont les résultats font l'objet d'une note séparée, a publié pour le 1T26 un chiffre d'affaires de ₩180,5B, un résultat opérationnel de ₩67,1B et une marge opérationnelle de 37,2 %. Les fondamentaux et les flux sont alignés. Cependant, le titre a bougé en premier et fortement — pour un nouveau filtrage, « fort mais attendre un repli » reste le cadrage le plus raisonnable.
 
@@ -137,12 +137,12 @@ Hyundai Motor suit le même schéma. Les institutionnels ont maintenu leur posit
 
 | Priorité | Valeur | Conclusion |
 |---:|---|---|
-| 1 | **Hana Micron** | +₩91,8B d'achats étrangers le jour du krach contre -₩93,8B de ventes retail. Retournement de flux le plus fort du filtre |
-| 2 | **HL Mando** | Achats étrangers et institutionnels consécutifs ; repli limité le 15 mai. Risque de poursuite relativement faible |
-| 3 | **Simtec** | Double accumulation jusqu'au 14 mai, étrangers tenus le 15 mai. Valide si le retour des institutionnels est confirmé |
-| 4 | **Jeju Semiconductor** | Flux très forts mais déjà surchauffé. Attendre un repli |
-| 5 | **Rainbow Robotics** | Meilleurs flux de la sélection. Charge de valorisation et de cours déconseille la poursuite |
-| 6 | **Hugel / GS Retail** | Idées secondaires défensives et consommation courante |
+| 1 | <strong>Hana Micron</strong> | +₩91,8B d'achats étrangers le jour du krach contre -₩93,8B de ventes retail. Retournement de flux le plus fort du filtre |
+| 2 | <strong>HL Mando</strong> | Achats étrangers et institutionnels consécutifs ; repli limité le 15 mai. Risque de poursuite relativement faible |
+| 3 | <strong>Simtec</strong> | Double accumulation jusqu'au 14 mai, étrangers tenus le 15 mai. Valide si le retour des institutionnels est confirmé |
+| 4 | <strong>Jeju Semiconductor</strong> | Flux très forts mais déjà surchauffé. Attendre un repli |
+| 5 | <strong>Rainbow Robotics</strong> | Meilleurs flux de la sélection. Charge de valorisation et de cours déconseille la poursuite |
+| 6 | <strong>Hugel / GS Retail</strong> | Idées secondaires défensives et consommation courante |
 
 En pratique, les candidats se répartissent en trois catégories.
 
@@ -162,7 +162,7 @@ Lors d'un jour de krach comme le 15 mai, la question la plus importante n'est pa
 
 À l'inverse, LG Electronics, Hyundai Motor et Hyundai E&C ne doivent pas être évalués sur leur seul flux cumulé du 4 au 14 mai. Dès l'instant où les étrangers ont vendu massivement le 15 mai, la conclusion change. Ces valeurs appartiennent davantage aux listes de surveillance des prises de bénéfices qu'aux idées de nouvelle découverte.
 
-Du point de vue d'un gérant de portefeuille, les vraies valeurs solides lors d'un krach ne sont pas les meilleures performances du jour. Ce sont **les valeurs où le retail a vendu et où les étrangers ainsi que les institutionnels ont absorbé**. À cette aune, Hana Micron et HL Mando ont passé l'épreuve avec le plus de netteté dans ce filtre.
+Du point de vue d'un gérant de portefeuille, les vraies valeurs solides lors d'un krach ne sont pas les meilleures performances du jour. Ce sont <strong>les valeurs où le retail a vendu et où les étrangers ainsi que les institutionnels ont absorbé</strong>. À cette aune, Hana Micron et HL Mando ont passé l'épreuve avec le plus de netteté dans ce filtre.
 
 ---
 

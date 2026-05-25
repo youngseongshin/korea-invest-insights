@@ -13,17 +13,17 @@ tags:
 slug: japan-ppi-shock-ust-term-premium-2026-05-15
 ---
 
-*The market is talking about "Japan dumping Treasuries." Japan's PPI came in hot, BOJ rate-hike odds went up, the story goes that Japanese capital sells Treasuries and goes home. That story is only half right. **The real risk is not "Japan dumping Treasuries" but "Japan no longer buying them."** When the world's largest foreign Treasury holder stops adding, prices fall even without selling. And when the US 10-year yield rises, the global discount rate rises with it — which reprices every risk asset, in the US and in Korea.*
+*The market is talking about "Japan dumping Treasuries." Japan's PPI came in hot, BOJ rate-hike odds went up, the story goes that Japanese capital sells Treasuries and goes home. That story is only half right. <strong>The real risk is not "Japan dumping Treasuries" but "Japan no longer buying them."</strong> When the world's largest foreign Treasury holder stops adding, prices fall even without selling. And when the US 10-year yield rises, the global discount rate rises with it — which reprices every risk asset, in the US and in Korea.*
 
 ---
 
 ## Key takeaways
 
-* **The mechanism in one line**: Japan PPI shock → BOJ hike probability ↑ → JGB yield ↑ + JPY-strength expectations ↑ → post-hedge Treasury return ↓ → Japanese marginal bid for Treasuries ↓ → UST term premium ↑ → global discount rate ↑.
-* **The core idea**: this is not a "selling event," it is **marginal-demand erosion**. Japan does not need to dump anything. Simply not adding is enough to push prices lower (yields higher).
-* **Why it matters**: Japan is the **world's largest foreign holder of US Treasuries**, with \~USD 1.13 trillion. When that marginal bid weakens, the supply-demand balance breaks.
-* **Second-order effects**: US 10-year up → global discount rate repriced → US big-tech multiples compressed → Korean equity risk premium affected.
-* **Checkpoints**: BOJ policy meetings, the JGB 10-year, USD/JPY, GPIF / Japanese life-insurer asset-allocation language, NY Fed 10-year term-premium estimates.
+* <strong>The mechanism in one line</strong>: Japan PPI shock → BOJ hike probability ↑ → JGB yield ↑ + JPY-strength expectations ↑ → post-hedge Treasury return ↓ → Japanese marginal bid for Treasuries ↓ → UST term premium ↑ → global discount rate ↑.
+* <strong>The core idea</strong>: this is not a "selling event," it is <strong>marginal-demand erosion</strong>. Japan does not need to dump anything. Simply not adding is enough to push prices lower (yields higher).
+* <strong>Why it matters</strong>: Japan is the <strong>world's largest foreign holder of US Treasuries</strong>, with \~USD 1.13 trillion. When that marginal bid weakens, the supply-demand balance breaks.
+* <strong>Second-order effects</strong>: US 10-year up → global discount rate repriced → US big-tech multiples compressed → Korean equity risk premium affected.
+* <strong>Checkpoints</strong>: BOJ policy meetings, the JGB 10-year, USD/JPY, GPIF / Japanese life-insurer asset-allocation language, NY Fed 10-year term-premium estimates.
 
 ---
 
@@ -69,7 +69,7 @@ Global discount rate repriced
 Valuation pressure across risk assets
 ```
 
-**The point**: not "selling," but **"weaker new buying."** Even if Japan never sells a single Treasury, simply slowing additions pushes UST prices down (yields up).
+<strong>The point</strong>: not "selling," but <strong>"weaker new buying."</strong> Even if Japan never sells a single Treasury, simply slowing additions pushes UST prices down (yields up).
 
 ---
 
@@ -332,9 +332,9 @@ How they differ:
 
 | Indicator | Why it matters |
 | --- | --- |
-| **BOJ policy decision** | The next meeting is pivotal. Is the path priced in? |
+| <strong>BOJ policy decision</strong> | The next meeting is pivotal. Is the path priced in? |
 | Japan PPI / CPI | Transient or structural inflation |
-| **JGB 10-year yield** | Higher JGB = lower post-hedge UST appeal |
+| <strong>JGB 10-year yield</strong> | Higher JGB = lower post-hedge UST appeal |
 | USD/JPY | JPY strength raises the hedge-burden for Japanese investors |
 | GPIF / lifer asset-allocation language | The actual behavioral signal |
 
@@ -342,8 +342,8 @@ How they differ:
 
 | Indicator | Why it matters |
 | --- | --- |
-| **US 10-year yield** | Most direct readout |
-| **NY Fed term-premium estimates** | ACM / KW models — close to 100bp is dangerous |
+| <strong>US 10-year yield</strong> | Most direct readout |
+| <strong>NY Fed term-premium estimates</strong> | ACM / KW models — close to 100bp is dangerous |
 | MOVE (UST option volatility) | Treasury-market stress gauge |
 | TIC foreign-holdings data | Hard data on Japanese buying / selling (2-month lag) |
 
@@ -351,9 +351,9 @@ How they differ:
 
 | Scenario | US 10-year | Korean equities |
 | --- | --- | --- |
-| **A. Gradual BOJ hikes + US demand absorbs the slack** | 4.0–4.5% range | Limited impact |
-| **B. BOJ accelerates + term premium climbs** | 4.5–5.0% | Pressure on growth / high-PER |
-| **C. Actual Japanese selling materializes** | 5.0%+ | Broad risk-asset correction |
+| <strong>A. Gradual BOJ hikes + US demand absorbs the slack</strong> | 4.0–4.5% range | Limited impact |
+| <strong>B. BOJ accelerates + term premium climbs</strong> | 4.5–5.0% | Pressure on growth / high-PER |
+| <strong>C. Actual Japanese selling materializes</strong> | 5.0%+ | Broad risk-asset correction |
 
 Base case sits between A and B. C is low probability, high impact.
 
@@ -380,9 +380,9 @@ Consumer-rotation piece: "Capital is rotating out of semi-concentration"
 
 ## 8. The one-line bottom line
 
-Japan's PPI shock is not the "fear of Japan dumping US Treasuries." It is **"the fear that the world's largest foreign holder might stop adding"** — marginal-demand erosion.
+Japan's PPI shock is not the "fear of Japan dumping US Treasuries." It is <strong>"the fear that the world's largest foreign holder might stop adding"</strong> — marginal-demand erosion.
 
-This is not a selling event; it is a **structural shift in supply-demand**. More gradual, but more durable. Even without selling, when the marginal buyer disappears, prices fall (yields rise). The term premium widens, that lifts the US 10-year, that resets the global discount rate, that flows through to every risk asset.
+This is not a selling event; it is a <strong>structural shift in supply-demand</strong>. More gradual, but more durable. Even without selling, when the marginal buyer disappears, prices fall (yields rise). The term premium widens, that lifts the US 10-year, that resets the global discount rate, that flows through to every risk asset.
 
 ```
 The precise structural equation:
@@ -396,7 +396,7 @@ Japan PPI shock
 → global discount rate ↑
 ```
 
-What we actually need to watch is not "will Japan sell Treasuries?" but **"where will Japanese lifers and pension funds allocate fresh money?"** The BOJ meeting, the JGB yield, and GPIF / lifer language — together those three are the new control panel for the global risk-asset discount rate.
+What we actually need to watch is not "will Japan sell Treasuries?" but <strong>"where will Japanese lifers and pension funds allocate fresh money?"</strong> The BOJ meeting, the JGB yield, and GPIF / lifer language — together those three are the new control panel for the global risk-asset discount rate.
 
 ---
 

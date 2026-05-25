@@ -12,7 +12,7 @@ L'erreur la plus facile, quand on parle de transport arctique, est de tomber dan
 
 La Route maritime du Nord n'est pas une autoroute mondiale achevée. Elle est saisonnière, sensible aux glaces, et dépendante des autorisations russes, du soutien des brise-glaces, des assurances et de la géopolitique. Pour autant, c'est une option industrielle bien réelle pour la Corée. La Corée est une économie exportatrice, elle dispose du port de Busan, de chantiers navals de premier rang mondial, et elle commence à aligner HMM, le ministère des Océans et des Pêches, le financement naval et la politique régionale autour d'un seul agenda de pôle maritime.
 
-La question d'investissement n'est donc pas simplement de savoir si HMM enverra un navire par l'Arctique. La meilleure question est celle-ci : **la Corée peut-elle transformer le transport arctique en un écosystème de navires polaires, de logistique portuaire à Busan, de financement maritime, d'assurance, de services juridiques, de carburants verts et d'infrastructure de données maritimes ?**
+La question d'investissement n'est donc pas simplement de savoir si HMM enverra un navire par l'Arctique. La meilleure question est celle-ci : <strong>la Corée peut-elle transformer le transport arctique en un écosystème de navires polaires, de logistique portuaire à Busan, de financement maritime, d'assurance, de services juridiques, de carburants verts et d'infrastructure de données maritimes ?</strong>
 
 ---
 
@@ -172,7 +172,7 @@ La bonne question n'est donc pas « qui envoie le navire ? » mais « qui rédui
 
 Les faiblesses sont tout aussi claires. La Corée ne contrôle pas la route. Le Passage du Nord-Est est lié à la Russie et aux sanctions. L'économie des liners conteneurisés reste non prouvée. C'est pourquoi la conclusion doit rester prudente.
 
-**Avant un voyage d'essai réussi, il s'agit d'un thème politique. Avant des voyages répétés, c'est un thème d'investissement. Avant des contrats de fret réguliers, ce n'est pas encore un thème de résultats directs.** Mais si le thème politique devient un thème d'investissement, les premières industries à bouger seront vraisemblablement la construction navale, les navires polaires et l'infrastructure qui les entoure.
+<strong>Avant un voyage d'essai réussi, il s'agit d'un thème politique. Avant des voyages répétés, c'est un thème d'investissement. Avant des contrats de fret réguliers, ce n'est pas encore un thème de résultats directs.</strong> Mais si le thème politique devient un thème d'investissement, les premières industries à bouger seront vraisemblablement la construction navale, les navires polaires et l'infrastructure qui les entoure.
 
 ---
 

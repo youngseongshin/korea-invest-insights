@@ -14,19 +14,19 @@ tags:
 slug: 2026-q2-macro-cycle-synthesis-2026-05-15
 ---
 
-*What actually happened between May 14 and 15? US April PPI printed +6.0% YoY, the largest since 2022. Japan's PPI hit +4.9%; the JGB 10-year reached its highest since 1997. The US 10-year is at 4.46%; the 30-year at 5.02%. Brent is 108 USD. The Strait of Hormuz has been effectively closed for two months. The Xi–Trump summit ended in a "small deal." The market is reading these as separate news items. That is the wrong frame. These five variables are not independent events — they are **one cycle**. Iran is the origin; a higher global discount rate is the terminus. Draw the picture once, and the next headline will tell you where it will land in other asset classes.*
+*What actually happened between May 14 and 15? US April PPI printed +6.0% YoY, the largest since 2022. Japan's PPI hit +4.9%; the JGB 10-year reached its highest since 1997. The US 10-year is at 4.46%; the 30-year at 5.02%. Brent is 108 USD. The Strait of Hormuz has been effectively closed for two months. The Xi–Trump summit ended in a "small deal." The market is reading these as separate news items. That is the wrong frame. These five variables are not independent events — they are <strong>one cycle</strong>. Iran is the origin; a higher global discount rate is the terminus. Draw the picture once, and the next headline will tell you where it will land in other asset classes.*
 
 ---
 
 ## Key takeaways
 
-* **What the market is actually pricing**: the variables that shook May 14–15 markets — Iran/Hormuz, oil, US inflation, the US-China summit, Japan PPI — are **one cycle, not five independent events**.
-* **Origin**: Iran/Hormuz bottleneck → global crude supply shock.
-* **Terminus**: higher US long rates → repriced global discount rate → multiple compression across risk assets.
-* **Five transmission links**: ① Iran/Hormuz → ② oil → ③ US CPI/PPI → ④ Fed-cut-pricing fades + US long rates rise → ⑤ Japan PPI → BOJ tightening → weaker Japanese marginal bid for USTs → further long-end yield rise (self-reinforcing).
-* **The role of the US-China summit**: not a *cause* of the cycle but a **side variable that speeds it up or slows it down**.
-* **For Korean equities**: the semi / auto concentration unwinds; refining, LNG, and defense get relative tailwinds; growth and long-duration names face pressure.
-* **The single most important variable**: **when Hormuz normalizes**. It decides where the cycle ends.
+* <strong>What the market is actually pricing</strong>: the variables that shook May 14–15 markets — Iran/Hormuz, oil, US inflation, the US-China summit, Japan PPI — are <strong>one cycle, not five independent events</strong>.
+* <strong>Origin</strong>: Iran/Hormuz bottleneck → global crude supply shock.
+* <strong>Terminus</strong>: higher US long rates → repriced global discount rate → multiple compression across risk assets.
+* <strong>Five transmission links</strong>: ① Iran/Hormuz → ② oil → ③ US CPI/PPI → ④ Fed-cut-pricing fades + US long rates rise → ⑤ Japan PPI → BOJ tightening → weaker Japanese marginal bid for USTs → further long-end yield rise (self-reinforcing).
+* <strong>The role of the US-China summit</strong>: not a *cause* of the cycle but a <strong>side variable that speeds it up or slows it down</strong>.
+* <strong>For Korean equities</strong>: the semi / auto concentration unwinds; refining, LNG, and defense get relative tailwinds; growth and long-duration names face pressure.
+* <strong>The single most important variable</strong>: <strong>when Hormuz normalizes</strong>. It decides where the cycle ends.
 
 ---
 
@@ -149,13 +149,13 @@ US April:
 
 | Indicator | MoM | YoY |
 | --- | ---: | ---: |
-| Headline CPI | +0.6% | **+3.8%** (highest since May 2023) |
+| Headline CPI | +0.6% | <strong>+3.8%</strong> (highest since May 2023) |
 | Core CPI | +0.4% | +2.8% |
-| **PPI** | **+1.4%** | **+6.0%** (largest since Mar 2022) |
+| <strong>PPI</strong> | <strong>+1.4%</strong> | <strong>+6.0%</strong> (largest since Mar 2022) |
 | Gasoline (PPI) | +15.6% | — |
 | Energy (CPI) | +3.8% | +17.9% |
 
-A 0.6% monthly print annualizes to \~7.4%; PPI's +1.4% annualizes to \~18%. Single-month annualization overstates the run rate, but what the bond market reacts to is **direction**.
+A 0.6% monthly print annualizes to \~7.4%; PPI's +1.4% annualizes to \~18%. Single-month annualization overstates the run rate, but what the bond market reacts to is <strong>direction</strong>.
 
 ### 3.2 Second-order: services and shelter
 
@@ -276,7 +276,7 @@ US 10-year yield rises further
 * More gradual, but more structural.
 ```
 
-The detailed mechanism is in a separate post — the key point is that Japan is the UST market's **marginal buyer**. Even without selling, when the marginal bid weakens, prices fall (yields rise).
+The detailed mechanism is in a separate post — the key point is that Japan is the UST market's <strong>marginal buyer</strong>. Even without selling, when the marginal bid weakens, prices fall (yields rise).
 
 ### 5.3 The self-reinforcing loop
 
@@ -343,7 +343,7 @@ We are closer to scenario B.
 
 ### 6.3 Why the summit is a "side variable," not the engine
 
-The summit didn't *create* the cycle. The cycle was already running, with Iran/Hormuz as its origin. The summit is a **variable that accelerates or slows** the cycle.
+The summit didn't *create* the cycle. The cycle was already running, with Iran/Hormuz as its origin. The summit is a <strong>variable that accelerates or slows</strong> the cycle.
 
 ```
 Accelerators:
@@ -384,17 +384,17 @@ Specifically:
 
 | Sector | Cycle effect | Read |
 | --- | --- | --- |
-| **Refining** | Crack spreads at all-time highs; direct oil-up beneficiary | **Relative strength** |
-| **LNG / shipbuilding** | Hormuz reroute demand, energy security | Relative strength |
-| **Defense** | Iran + Taiwan risk overlap | Relative strength (already run a lot) |
-| **Semiconductors** | AI demand is the body; multiple still squeezed | Neutral |
-| **Banks** | Higher rates expand NIM | Relative strength |
-| **Consumer staples** | Earnings-driven names (Samyang Foods etc.) | Selective strength |
-| **Autos** | Already +29% in May | Neutral to weak |
-| **Petrochemicals** | Naphtha cost up, margin pressure | **Relative weakness** |
-| **Airlines** | Oil + rates double-whammy | Relative weakness |
-| **High-PER growth** | Most sensitive to discount-rate moves | **Relative weakness** |
-| **Biotech** | Long-duration squeeze | Weakness |
+| <strong>Refining</strong> | Crack spreads at all-time highs; direct oil-up beneficiary | <strong>Relative strength</strong> |
+| <strong>LNG / shipbuilding</strong> | Hormuz reroute demand, energy security | Relative strength |
+| <strong>Defense</strong> | Iran + Taiwan risk overlap | Relative strength (already run a lot) |
+| <strong>Semiconductors</strong> | AI demand is the body; multiple still squeezed | Neutral |
+| <strong>Banks</strong> | Higher rates expand NIM | Relative strength |
+| <strong>Consumer staples</strong> | Earnings-driven names (Samyang Foods etc.) | Selective strength |
+| <strong>Autos</strong> | Already +29% in May | Neutral to weak |
+| <strong>Petrochemicals</strong> | Naphtha cost up, margin pressure | <strong>Relative weakness</strong> |
+| <strong>Airlines</strong> | Oil + rates double-whammy | Relative weakness |
+| <strong>High-PER growth</strong> | Most sensitive to discount-rate moves | <strong>Relative weakness</strong> |
+| <strong>Biotech</strong> | Long-duration squeeze | Weakness |
 
 ### 7.3 The "least-priced" pocket of the cycle
 
@@ -423,11 +423,11 @@ Most asymmetric setups:
 
 | Scenario | Premise | US 10-year | Korean equities |
 | --- | --- | --- | --- |
-| **A. Cycle ends** | Hormuz normalizes, oil sub-90, BOJ delays | 4.0–4.3% | Relief in risk. Growth rebounds |
-| **B. Cycle persists** (base) | Hormuz drags, oil 100–110, BOJ hikes in June | 4.4–4.7% | Volatility widens; sector dispersion |
-| **C. Cycle accelerates** | Hormuz worsens, oil 120+, actual Japanese selling | 5.0%+ | Broad risk-off, foreign outflows |
+| <strong>A. Cycle ends</strong> | Hormuz normalizes, oil sub-90, BOJ delays | 4.0–4.3% | Relief in risk. Growth rebounds |
+| <strong>B. Cycle persists</strong> (base) | Hormuz drags, oil 100–110, BOJ hikes in June | 4.4–4.7% | Volatility widens; sector dispersion |
+| <strong>C. Cycle accelerates</strong> | Hormuz worsens, oil 120+, actual Japanese selling | 5.0%+ | Broad risk-off, foreign outflows |
 
-Base case is **B**. A requires a Hormuz normalization. C requires confirmed Japanese UST selling.
+Base case is <strong>B</strong>. A requires a Hormuz normalization. C requires confirmed Japanese UST selling.
 
 ### 8.2 Checkpoints (priority order)
 
@@ -511,13 +511,13 @@ Japan PPI piece:
 
 ## 10. The one-line bottom line
 
-The events of May 14–15 — US April PPI +6.0%, Japan PPI +4.9%, JGB 10-year at a 28-year high, US 10-year 4.46%, 30-year 5.02%, Brent 108, a small-deal US-China summit — are **one cycle, not five independent events**.
+The events of May 14–15 — US April PPI +6.0%, Japan PPI +4.9%, JGB 10-year at a 28-year high, US 10-year 4.46%, 30-year 5.02%, Brent 108, a small-deal US-China summit — are <strong>one cycle, not five independent events</strong>.
 
-The origin is **Iran / Hormuz**. The first transmission is **oil**, the second is **US and Japanese inflation**, the third is **central-bank policy shifts**, the fourth is **higher US long rates**, and the terminus is **a repricing of the global discount rate → multiple compression in risk assets**. The US-China summit didn't create the cycle; it can only accelerate or delay it.
+The origin is <strong>Iran / Hormuz</strong>. The first transmission is <strong>oil</strong>, the second is <strong>US and Japanese inflation</strong>, the third is <strong>central-bank policy shifts</strong>, the fourth is <strong>higher US long rates</strong>, and the terminus is <strong>a repricing of the global discount rate → multiple compression in risk assets</strong>. The US-China summit didn't create the cycle; it can only accelerate or delay it.
 
-Once you draw the picture, every future headline tells you which asset class it will land in. **The single most important checkpoint is when Hormuz normalizes.** That's where the cycle ends. If Hormuz normalizes within June, the cycle ends and a risk-on relief move is possible. If it drags, US long rates have more room, and a discount-rate repricing intensifies.
+Once you draw the picture, every future headline tells you which asset class it will land in. <strong>The single most important checkpoint is when Hormuz normalizes.</strong> That's where the cycle ends. If Hormuz normalizes within June, the cycle ends and a risk-on relief move is possible. If it drags, US long rates have more room, and a discount-rate repricing intensifies.
 
-Chasing risk now without checking the cycle is inefficient. **First locate the cycle — where it is, where it's going — then evaluate asymmetric bets at the stock level.** Great companies get derated when the cycle accelerates; mediocre companies can rebound when the cycle stops. **The cycle comes before the stock.**
+Chasing risk now without checking the cycle is inefficient. <strong>First locate the cycle — where it is, where it's going — then evaluate asymmetric bets at the stock level.</strong> Great companies get derated when the cycle accelerates; mediocre companies can rebound when the cycle stops. <strong>The cycle comes before the stock.</strong>
 
 ---
 

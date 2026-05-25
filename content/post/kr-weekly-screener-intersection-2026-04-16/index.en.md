@@ -38,15 +38,15 @@ This report covers the week of April 9–16, 2026. We ran 10 independent screene
 
 | Screener | What It Targets |
 |---|---|
-| **Mean Reversion (MR)** | Deep-corrected stocks showing early reversal conditions |
-| **PEAD** | Price momentum following a positive earnings surprise |
-| **Quality Compounder (QC)** | Stocks combining strong ROE, ROIC, and earnings growth |
-| **Quiet Accumulation (QA)** | Gradual institutional or foreign buying with below-average volume |
-| **Smart Money — Earnings (SM-E)** | Flow signal anchored to earnings quality |
-| **Smart Money — Volatility (SM-V)** | Flow signal anchored to risk-adjusted returns |
-| **Smart Money — Quality (SM-Q)** | Flow signal anchored to balance sheet quality |
-| **Value Quality (VQ)** | Low-valuation stocks that also clear a quality hurdle |
-| **Cycle** | Stocks at or near cyclical inflection from trough to expansion |
+| <strong>Mean Reversion (MR)</strong> | Deep-corrected stocks showing early reversal conditions |
+| <strong>PEAD</strong> | Price momentum following a positive earnings surprise |
+| <strong>Quality Compounder (QC)</strong> | Stocks combining strong ROE, ROIC, and earnings growth |
+| <strong>Quiet Accumulation (QA)</strong> | Gradual institutional or foreign buying with below-average volume |
+| <strong>Smart Money — Earnings (SM-E)</strong> | Flow signal anchored to earnings quality |
+| <strong>Smart Money — Volatility (SM-V)</strong> | Flow signal anchored to risk-adjusted returns |
+| <strong>Smart Money — Quality (SM-Q)</strong> | Flow signal anchored to balance sheet quality |
+| <strong>Value Quality (VQ)</strong> | Low-valuation stocks that also clear a quality hurdle |
+| <strong>Cycle</strong> | Stocks at or near cyclical inflection from trough to expansion |
 
 All ten screeners ran without errors for the review period. The Smart Money files timestamped April 13 (16:08:44, 16:08:55, and 06:06) used a slightly different naming convention but produced valid output. The Mean Reversion snapshot updated live in the early hours of April 16, completing the dataset.
 
@@ -58,18 +58,18 @@ All ten screeners ran without errors for the review period. The Smart Money file
 |---|---|---|---:|---:|---|
 | 1 | 402340 | SK Square | 7 | 18 | Cycle + PEAD + QC + SM×3 + VQ |
 | 2 | 264450 | Ubiqus | 6 | 11 | Cycle + PEAD + SM×3 + VQ |
-| 3 | 017510 | Semyung Electric | 6 | 6 | **MR + PEAD** + QC + SM×2 + VQ |
+| 3 | 017510 | Semyung Electric | 6 | 6 | <strong>MR + PEAD</strong> + QC + SM×2 + VQ |
 | 4 | 000660 | SK Hynix | 5 | 13 | Cycle + PEAD + QC + SM×2 |
-| 5 | 098120 | Microcontact Solutions | 5 | 11 | PEAD + QC + **QA** + SM×2 |
+| 5 | 098120 | Microcontact Solutions | 5 | 11 | PEAD + QC + <strong>QA</strong> + SM×2 |
 | 6 | 307930 | Company K | 5 | 9 | Cycle + PEAD + QC + SM×2 |
-| 7 | 046940 | Woowon Development | 5 | 9 | PEAD + **QA** + SM×3 |
-| 8 | 330730 | Stonebridge Ventures | 5 | 7 | PEAD + **QA** + SM×3 |
+| 7 | 046940 | Woowon Development | 5 | 9 | PEAD + <strong>QA</strong> + SM×3 |
+| 8 | 330730 | Stonebridge Ventures | 5 | 7 | PEAD + <strong>QA</strong> + SM×3 |
 | 9 | 005690 | Pharmicell | 4 | 9 | PEAD + QC + SM×2 |
 | 10 | 278470 | APR | 4 | 9 | PEAD + QC + SM×2 |
 | 11 | 078070 | Ubiqus Holdings | 4 | 8 | Cycle + PEAD + SM×2 |
-| 12 | 021080 | Atinum Investment | 4 | 8 | **MR** + PEAD + SM×2 |
+| 12 | 021080 | Atinum Investment | 4 | 8 | <strong>MR</strong> + PEAD + SM×2 |
 | 13 | 101490 | S&S Tech | 4 | 6 | PEAD + QC + SM×2 |
-| 14 | 005440 | Hyundai GF Holdings | 4 | 4 | Cycle + **QA** + SM + VQ |
+| 14 | 005440 | Hyundai GF Holdings | 4 | 4 | Cycle + <strong>QA</strong> + SM + VQ |
 | 15 | 425420 | TFE | 3 | 8 | PEAD + QC + SM |
 
 *MR = Mean Reversion · QA = Quiet Accumulation · QC = Quality Compounder · VQ = Value Quality · SM = Smart Money variant*
@@ -82,7 +82,7 @@ All ten screeners ran without errors for the review period. The Smart Money file
 
 SK Square is the listed investment holding company spun out of SK Telecom in 2021. Its primary asset is a roughly 20% stake in SK Hynix, making its financials unusually sensitive to semiconductor cycles.
 
-**Fundamentals (FY2025, consolidated):**
+<strong>Fundamentals (FY2025, consolidated):</strong>
 
 | Metric | Value |
 |---|---|
@@ -103,11 +103,11 @@ SK Square is the listed investment holding company spun out of SK Telecom in 202
 
 The 84% operating margin reflects the holding-company structure: most reported profit is mark-to-market or dividend income from subsidiaries rather than operational cash flow. The forward PER of 4.0× against a Quality Score of 0.96 is the combination that triggered six additional screeners beyond Cycle.
 
-**Price action:** At ₩690,000, the stock is at a 52-week high, up +54.5% over 60 days. RSI stands at 66.6 and price has broken above the upper Bollinger Band (at 103% of the band). These are early-stage overheating conditions.
+<strong>Price action:</strong> At ₩690,000, the stock is at a 52-week high, up +54.5% over 60 days. RSI stands at 66.6 and price has broken above the upper Bollinger Band (at 103% of the band). These are early-stage overheating conditions.
 
-**Flow breakdown:**
+<strong>Flow breakdown:</strong>
 - 5-day foreign net buy: +₩1.4 billion; institutional net buy: +₩181.5 billion
-- 20-day foreign net buy: **−₩223.6 billion** (profit-taking); institutional net buy: +₩130.8 billion (offsetting)
+- 20-day foreign net buy: <strong>−₩223.6 billion</strong> (profit-taking); institutional net buy: +₩130.8 billion (offsetting)
 - Foreign ownership change: −0.26 percentage points over 20 days
 
 The divergence is notable: institutions are accumulating aggressively while foreigners who entered earlier are trimming. This is a rotation pattern, not a clean accumulation setup. The 7-screener score is the strongest in the dataset, but the near-term technical picture suggests a 1–2 week consolidation is more likely than immediate continuation.
@@ -118,7 +118,7 @@ The divergence is notable: institutions are accumulating aggressively while fore
 
 Semyung Electric manufactures distribution transformers and power grid equipment. It is a direct beneficiary of Korea's grid modernization investment cycle and the broader global power-infrastructure buildout driven by data-center electricity demand.
 
-**Fundamentals (FY2025):**
+<strong>Fundamentals (FY2025):</strong>
 
 | Metric | Value |
 |---|---|
@@ -131,16 +131,16 @@ Semyung Electric manufactures distribution transformers and power grid equipment
 
 An operating margin of 45.8% in a manufacturing business is unusually high and suggests significant operating leverage materializing as revenue scales rapidly. A PER of 12.2× against +393% operating profit growth implies the market has not yet priced the earnings step-change.
 
-**Technical setup:**
+<strong>Technical setup:</strong>
 - Price: ₩10,200 — trading above the 5-day, 20-day, and 60-day moving averages
 - Distance from 52-week high: −16.9% (deep correction completed)
 - RSI: 58.6 (neutral-to-recovering)
 - MACD: positive crossover (early-stage reversal confirmation)
 - Price has touched the upper Bollinger Band: early breakout signal
 
-**Flow:**
+<strong>Flow:</strong>
 - 20-day foreign net buy: +₩3.1 billion
-- Foreign ownership change: **+1.56 percentage points** over 20 days
+- Foreign ownership change: <strong>+1.56 percentage points</strong> over 20 days
 
 This is the only stock in the entire 459-name universe that simultaneously cleared both Mean Reversion (price corrected more than 16% from peak, technical reversal beginning) and PEAD (strong post-earnings drift conditions following the +393% operating profit surprise). The combination is significant: MR signals that the psychological and price reset has been completed, while PEAD signals that the fundamental revision cycle is still early. Foreign investors adding 1.56 percentage points of ownership during the correction adds a third independent confirmation layer.
 
@@ -150,7 +150,7 @@ This is the only stock in the entire 459-name universe that simultaneously clear
 
 SK Hynix is Korea's largest memory semiconductor company and the world's second-largest DRAM producer. It is a primary supplier of High-Bandwidth Memory (HBM) to AI accelerator manufacturers.
 
-**Fundamentals (FY2025):**
+<strong>Fundamentals (FY2025):</strong>
 
 | Metric | Value |
 |---|---|
@@ -160,9 +160,9 @@ SK Hynix is Korea's largest memory semiconductor company and the world's second-
 | Operating Margin | 48.6% |
 | Forward PER | 5.0× |
 
-**Price action:** At ₩1,136,000, the stock is at a 52-week high, up +51.7% over 60 days.
+<strong>Price action:</strong> At ₩1,136,000, the stock is at a 52-week high, up +51.7% over 60 days.
 
-**Flow — the key development this week:**
+<strong>Flow — the key development this week:</strong>
 
 | Horizon | Foreign | Institutional |
 |---|---|---|
@@ -170,7 +170,7 @@ SK Hynix is Korea's largest memory semiconductor company and the world's second-
 | 10-day | +₩290 billion | (continued accumulation) |
 | 20-day | −₩2.2 trillion | +₩1.95 trillion |
 
-The 20-day foreign figure shows heavy profit-taking, but the 5-day and 10-day data show that foreign investors have **reversed to net buying within the past two weeks**. Combined with institutional accumulation of nearly ₩2 trillion over 20 days, the flow picture has shifted. Foreign ownership sits at 53.08%.
+The 20-day foreign figure shows heavy profit-taking, but the 5-day and 10-day data show that foreign investors have <strong>reversed to net buying within the past two weeks</strong>. Combined with institutional accumulation of nearly ₩2 trillion over 20 days, the flow picture has shifted. Foreign ownership sits at 53.08%.
 
 A Forward PER of 5.0× for a company generating 48.6% operating margins with AI-driven HBM demand continuing to expand is the central investment thesis captured by the Cycle, PEAD, and Quality Compounder screeners.
 
@@ -180,7 +180,7 @@ A Forward PER of 5.0× for a company generating 48.6% operating margins with AI-
 
 Microcontact Solutions manufactures semiconductor test contactors (socket hardware used in IC test handlers). It is a niche supplier in the back-end semiconductor equipment chain.
 
-**Fundamentals (FY2025):**
+<strong>Fundamentals (FY2025):</strong>
 
 | Metric | Value |
 |---|---|
@@ -192,9 +192,9 @@ Microcontact Solutions manufactures semiconductor test contactors (socket hardwa
 | Trailing PER | 17.0× |
 | PBR | 3.54× |
 
-**Price action:** ₩34,150 — within 1.3% of the 52-week high, up +100.8% over 60 days. RSI at 67.6 and Bollinger Band position at 102% indicate the stock is in overheating territory.
+<strong>Price action:</strong> ₩34,150 — within 1.3% of the 52-week high, up +100.8% over 60 days. RSI at 67.6 and Bollinger Band position at 102% indicate the stock is in overheating territory.
 
-**Flow:** 20-day foreign net buy +₩3.7 billion; foreign ownership +1.47 percentage points — consistent, below-radar accumulation across the period.
+<strong>Flow:</strong> 20-day foreign net buy +₩3.7 billion; foreign ownership +1.47 percentage points — consistent, below-radar accumulation across the period.
 
 The interest here is methodological: it is unusual for a stock to clear Quiet Accumulation (steady buying, low volume spikes), PEAD (strong post-earnings drift), Smart Money Earnings and Volatility variants, *and* Quality Compounder in the same week. This means every regime-type the system monitors — contrarian, momentum, fundamental, and technical — flagged the same name. The practical constraint is the 60-day return of +100.8%, which substantially raises the risk of entering at current prices.
 
@@ -204,22 +204,22 @@ The interest here is methodological: it is unusual for a stock to clear Quiet Ac
 
 Woowon Development is a Korean civil engineering and construction company focused on infrastructure and residential projects.
 
-**Fundamentals (FY2025):**
+<strong>Fundamentals (FY2025):</strong>
 
 | Metric | Value |
 |---|---|
 | Revenue YoY | +24% |
-| Operating Profit YoY | **+2,300%** |
-| Net Income YoY | **+6,757%** |
+| Operating Profit YoY | <strong>+2,300%</strong> |
+| Net Income YoY | <strong>+6,757%</strong> |
 | ROE | 36.8% |
 | Operating Margin | 17.9% |
 | Debt Ratio | 68.5% |
-| Trailing PER | **1.9×** |
-| PBR | **0.58×** |
+| Trailing PER | <strong>1.9×</strong> |
+| PBR | <strong>0.58×</strong> |
 
-**Price:** ₩5,060, within 2.5% of 52-week high. RSI at 61.0, MACD positive.
+<strong>Price:</strong> ₩5,060, within 2.5% of 52-week high. RSI at 61.0, MACD positive.
 
-**Flow:** Foreign ownership at 9.37%, with +0.83 percentage points added over 20 days.
+<strong>Flow:</strong> Foreign ownership at 9.37%, with +0.83 percentage points added over 20 days.
 
 The operating profit expanding 23-fold and net income expanding 68-fold on a 24% revenue increase implies the company passed a profitability inflection point — likely the resolution of project cost overruns or completion of low-margin legacy contracts. At PER 1.9× and PBR 0.58×, the valuation has not yet adjusted. The Quiet Accumulation flag suggests this re-rating is happening slowly and below institutional radar. The construction sector is inherently cyclical and carries execution risk, which explains the depressed multiples even after the earnings surge.
 
@@ -229,13 +229,13 @@ The operating profit expanding 23-fold and net income expanding 68-fold on a 24%
 
 The aggregate signal from this week's data points to three structural themes in Korean equities:
 
-**1. Power infrastructure is re-rating.** Semyung Electric's appearance across six screeners — including the rare MR+PEAD dual signal — reflects a broader market recognition that Korea's grid equipment manufacturers are operating in a multi-year demand upcycle driven by AI data center power requirements and government grid modernization mandates.
+<strong>1. Power infrastructure is re-rating.</strong> Semyung Electric's appearance across six screeners — including the rare MR+PEAD dual signal — reflects a broader market recognition that Korea's grid equipment manufacturers are operating in a multi-year demand upcycle driven by AI data center power requirements and government grid modernization mandates.
 
-**2. The semiconductor cycle has entered institutional accumulation mode.** Both SK Hynix and SK Square cleared multiple screeners, and institutional flow data shows sustained buying measured in the hundreds of billions to trillions of won. The Forward PER profiles (5× for Hynix, 4× for SK Square) suggest the market is pricing a earnings peak scenario that the underlying AI infrastructure demand trajectory may not support.
+<strong>2. The semiconductor cycle has entered institutional accumulation mode.</strong> Both SK Hynix and SK Square cleared multiple screeners, and institutional flow data shows sustained buying measured in the hundreds of billions to trillions of won. The Forward PER profiles (5× for Hynix, 4× for SK Square) suggest the market is pricing a earnings peak scenario that the underlying AI infrastructure demand trajectory may not support.
 
-**3. Micro-cap turnarounds with foreign accumulation are the highest-dispersion opportunity.** Woowon Development (PER 1.9×, PBR 0.58×, OP +2,300%) and Semyung Electric (PER 12.2×, OP +393%) represent situations where the valuation has not yet caught up with an earnings step-change that has already occurred. Foreign investors quietly adding ownership in both names — before a re-rating — is historically the pattern that precedes meaningful price discovery.
+<strong>3. Micro-cap turnarounds with foreign accumulation are the highest-dispersion opportunity.</strong> Woowon Development (PER 1.9×, PBR 0.58×, OP +2,300%) and Semyung Electric (PER 12.2×, OP +393%) represent situations where the valuation has not yet caught up with an earnings step-change that has already occurred. Foreign investors quietly adding ownership in both names — before a re-rating — is historically the pattern that precedes meaningful price discovery.
 
-**A methodological caution:** QC, VQ, and SM-Quality all weight ROE heavily. Stocks like SK Square that appear in all three may be generating three "independent" flags that actually reflect the same underlying factor. Genuine independence requires regime diversity — the MR+PEAD combination in Semyung Electric, or the QA+PEAD+SM combination in Woowon Development, are structurally more independent because they draw from different data sources (price history, earnings revisions, ownership changes).
+<strong>A methodological caution:</strong> QC, VQ, and SM-Quality all weight ROE heavily. Stocks like SK Square that appear in all three may be generating three "independent" flags that actually reflect the same underlying factor. Genuine independence requires regime diversity — the MR+PEAD combination in Semyung Electric, or the QA+PEAD+SM combination in Woowon Development, are structurally more independent because they draw from different data sources (price history, earnings revisions, ownership changes).
 
 ---
 
@@ -253,19 +253,19 @@ The aggregate signal from this week's data points to three structural themes in 
 
 ## FAQ
 
-**What is Mean Reversion screening in the context of Korean stocks?**
+<strong>What is Mean Reversion screening in the context of Korean stocks?</strong>
 Mean Reversion (MR) screening identifies stocks that have declined significantly from recent peaks — typically 15–25% — and show early technical signs of stabilization or reversal. The logic is that short-term price moves often overshoot fair value, creating asymmetric entry opportunities. In this week's scan, Semyung Electric's −16.9% drawdown from its 52-week high, combined with MACD turning positive and price recovering above key moving averages, met the MR criteria.
 
-**Why run 10 screeners instead of one comprehensive model?**
+<strong>Why run 10 screeners instead of one comprehensive model?</strong>
 Different market regimes reward different factor combinations. A single model optimized for mean reversion will systematically miss earnings-momentum opportunities, and vice versa. Running 10 independent models — each designed for a specific regime — and then finding names that appear across multiple models reduces the probability that any single name's appearance is a false positive driven by data quirks or factor-specific noise. The intersection acts as a natural filter.
 
-**What does "Quiet Accumulation" mean, and why is it significant?**
+<strong>What does "Quiet Accumulation" mean, and why is it significant?</strong>
 Quiet Accumulation (QA) flags stocks where foreign or institutional ownership is rising steadily but total trading volume remains below average — suggesting informed buyers are building positions without moving the price. It is significant because it implies the re-rating has not yet been publicly recognized or broadly discussed, which historically precedes price discovery phases. Woowon Development, Microcontact Solutions, and Stonebridge Ventures all cleared QA this week.
 
-**How should international investors interpret Korean ownership data?**
+<strong>How should international investors interpret Korean ownership data?</strong>
 Korean exchanges (KOSPI and KOSDAQ) require daily disclosure of foreign and institutional ownership changes. "Foreign" typically means non-Korean investors including global funds, hedge funds, and asset managers. "Institutional" means domestic Korean funds, insurance companies, and brokerages. When both are accumulating simultaneously — as with SK Hynix over 5–10 days — it suggests broad conviction across investor types. When they diverge — as with SK Square, where foreigners are selling and institutions are buying — it signals a rotation between investor groups rather than net new demand.
 
-**What is PEAD, and how is it applied here?**
+<strong>What is PEAD, and how is it applied here?</strong>
 Post-Earnings Announcement Drift (PEAD) is a well-documented market anomaly: stocks that report earnings significantly above consensus tend to continue drifting upward for weeks to months following the announcement, as the full magnitude of the earnings surprise is gradually absorbed by the market. The PEAD screener identifies stocks where this drift condition is active — typically within 30–60 days of a large positive earnings revision. Of the 459 names scanned, PEAD appeared in the screener combinations of 11 of the top 15.
 
 ---

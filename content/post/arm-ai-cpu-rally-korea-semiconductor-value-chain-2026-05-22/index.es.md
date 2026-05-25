@@ -27,11 +27,11 @@ draft: false
 
 La subida de ARM es un evento de reclasificación: de empresa de regalías de IP móvil a plataforma de CPU para centros de datos de IA. A medida que los agentes de IA se ejecutan de forma continua, llaman herramientas, mueven datos y coordinan GPU, ASIC y memoria, la CPU se convierte en la capa de coordinación del rack.
 
-El catalizador externo fue NVIDIA. La compañía reportó ingresos trimestrales de **81.600 millones de dólares**, ingresos de Data Center de **75.200 millones** y una guía de **91.000 millones ±2%** para el segundo trimestre fiscal de 2027. El mercado lo leyó como aceleración, no como techo del ciclo. ([NVIDIA][1])
+El catalizador externo fue NVIDIA. La compañía reportó ingresos trimestrales de <strong>81.600 millones de dólares</strong>, ingresos de Data Center de <strong>75.200 millones</strong> y una guía de <strong>91.000 millones ±2%</strong> para el segundo trimestre fiscal de 2027. El mercado lo leyó como aceleración, no como techo del ciclo. ([NVIDIA][1])
 
-La historia propia de ARM también es sólida. En FY26, los ingresos fueron **4.920 millones de dólares**, con **2.610 millones** de regalías, **2.310 millones** de licencias y EPS no-GAAP de **1,77 dólares**. La CPU Arm AGI se presenta como plataforma para centros de datos de IA, con Meta como socio líder, y ARM dijo que la demanda de clientes para FY27-FY28 ya supera los **2.000 millones de dólares**. ([Arm][2])
+La historia propia de ARM también es sólida. En FY26, los ingresos fueron <strong>4.920 millones de dólares</strong>, con <strong>2.610 millones</strong> de regalías, <strong>2.310 millones</strong> de licencias y EPS no-GAAP de <strong>1,77 dólares</strong>. La CPU Arm AGI se presenta como plataforma para centros de datos de IA, con Meta como socio líder, y ARM dijo que la demanda de clientes para FY27-FY28 ya supera los <strong>2.000 millones de dólares</strong>. ([Arm][2])
 
-El problema es el precio. Según Research OS local DB, ARM cerró el 21 de mayo de 2026 en **298,23 dólares**. Frente al EPS no-GAAP de FY26, esto implica unas **168,5 veces** beneficios. La tesis es correcta, pero la acción no es barata.
+El problema es el precio. Según Research OS local DB, ARM cerró el 21 de mayo de 2026 en <strong>298,23 dólares</strong>. Frente al EPS no-GAAP de FY26, esto implica unas <strong>168,5 veces</strong> beneficios. La tesis es correcta, pero la acción no es barata.
 
 Por eso la mejor relación riesgo-retorno puede estar fuera de ARM: Marvell en chips personalizados y enlaces ópticos, Samsung Electro-Mechanics en condensadores de silicio, SK hynix y Samsung Electronics en HBM/DRAM, y los fabricantes de sustratos y sockets de prueba.
 
@@ -56,7 +56,7 @@ Por eso la CPU se vuelve el plano de control del rack de IA. Si la GPU es el mot
 
 ## 2. Arm AGI CPU: de proveedor de IP a plataforma de silicio
 
-ARM ha colocado la **Arm AGI CPU** en el centro de su narrativa. La empresa la describe como silicio de producción para centros de datos de IA agentic. Meta es el socio líder, y sistemas comerciales están disponibles a través de ASRock, Lenovo, Quanta y Supermicro. ([Arm][2])
+ARM ha colocado la <strong>Arm AGI CPU</strong> en el centro de su narrativa. La empresa la describe como silicio de producción para centros de datos de IA agentic. Meta es el socio líder, y sistemas comerciales están disponibles a través de ASRock, Lenovo, Quanta y Supermicro. ([Arm][2])
 
 El modelo anterior era:
 
@@ -80,7 +80,7 @@ El riesgo es el conflicto con clientes. Si ARM vende su propio chip, algunos lic
 
 ## 3. Valoración: buena tesis, precio exigente
 
-La matemática es incómoda. A **298,23 dólares**, frente a **1,77 dólares** de EPS no-GAAP FY26:
+La matemática es incómoda. A <strong>298,23 dólares</strong>, frente a <strong>1,77 dólares</strong> de EPS no-GAAP FY26:
 
 ```text
 PER no-GAAP FY26 = 298,23 / 1,77 = ~168,5x
@@ -90,19 +90,19 @@ Con ingresos FY26 de 4.920 millones y capitalización en la zona baja de 300.000
 
 Este no es un precio basado en el beneficio actual. Es un precio que descuenta un escenario de 2030-2031: más penetración en CPU de centro de datos, ingresos de AGI CPU, más regalías y expansión de Armv9/Neoverse.
 
-Nuestra postura: **evitar perseguir el precio actual / esperar**.
+Nuestra postura: <strong>evitar perseguir el precio actual / esperar</strong>.
 
 ---
 
 ## 4. Alfa 1: Marvell y el cuello de botella de conectividad
 
-Si ARM representa la coordinación por CPU, Marvell representa **cómputo personalizado + conectividad óptica + switching**.
+Si ARM representa la coordinación por CPU, Marvell representa <strong>cómputo personalizado + conectividad óptica + switching</strong>.
 
-Marvell reportó ingresos FY26 de **8.195 millones de dólares** y EPS no-GAAP de **2,84 dólares**. La empresa espera que FY27 se acerque a 11.000 millones, con el centro de datos liderando el crecimiento y los ingresos de interconexión creciendo más de 50%. ([Marvell][4])
+Marvell reportó ingresos FY26 de <strong>8.195 millones de dólares</strong> y EPS no-GAAP de <strong>2,84 dólares</strong>. La empresa espera que FY27 se acerque a 11.000 millones, con el centro de datos liderando el crecimiento y los ingresos de interconexión creciendo más de 50%. ([Marvell][4])
 
 La adquisición de Celestial AI añade una plataforma óptica de scale-up. Marvell espera que ese negocio alcance un ritmo anualizado de 500 millones en FY28 y 1.000 millones en FY29, si se cumplen los hitos. ([Marvell Celestial][5])
 
-El problema es que MRVL también ha subido mucho. Research OS local DB muestra que cerró en **190,69 dólares** el 21 de mayo de 2026. La lectura es **esperar / comprar en retroceso**.
+El problema es que MRVL también ha subido mucho. Research OS local DB muestra que cerró en <strong>190,69 dólares</strong> el 21 de mayo de 2026. La lectura es <strong>esperar / comprar en retroceso</strong>.
 
 ---
 
@@ -110,7 +110,7 @@ El problema es que MRVL también ha subido mucho. Research OS local DB muestra q
 
 En Corea, el segundo cuello de botella más claro es Samsung Electro-Mechanics.
 
-El 20 de mayo de 2026, la empresa anunció un contrato de condensadores de silicio por aproximadamente **1,5 billones de wones** durante dos años. Estos componentes se instalan dentro de paquetes de alto rendimiento, como GPU de IA y HBM, para mejorar la estabilidad de suministro eléctrico. ([Samsung Electro-Mechanics][6])
+El 20 de mayo de 2026, la empresa anunció un contrato de condensadores de silicio por aproximadamente <strong>1,5 billones de wones</strong> durante dos años. Estos componentes se instalan dentro de paquetes de alto rendimiento, como GPU de IA y HBM, para mejorar la estabilidad de suministro eléctrico. ([Samsung Electro-Mechanics][6])
 
 La tesis no es “más MLCC”. Es:
 
@@ -151,7 +151,7 @@ A medida que el rack de IA se vuelve más denso, los sustratos y las pruebas gan
 | sockets de prueba | ISC, LEENO, TSE | clientes ASIC/HBM/CXL, mix de productos |
 | sustratos de paquete | Samsung Electro-Mechanics, Daeduck, Korea Circuit | utilización FC-BGA, certificación, margen |
 
-La regla: **no comprar solo la palabra “AI”. Comprar clientes, pedidos y márgenes verificados.**
+La regla: <strong>no comprar solo la palabra “AI”. Comprar clientes, pedidos y márgenes verificados.</strong>
 
 ---
 
@@ -161,7 +161,7 @@ ARM es una señal correcta. Los servidores de IA ya no son cajas de GPU; son sis
 
 Pero perseguir ARM tras la subida puede confundir la señal con el activo. La pregunta importante es qué cuello de botella aún no está totalmente descontado.
 
-**ARM es la señal. El alfa está en los cuellos de botella.**
+<strong>ARM es la señal. El alfa está en los cuellos de botella.</strong>
 
 ---
 

@@ -28,20 +28,20 @@ valley_cashtags:
   - 효성중공업
 ---
 
-> 📚 **관련 시리즈**
+> 📚 <strong>관련 시리즈</strong>
 > [구글 I/O + NVIDIA 실적 프리뷰](/ko/post/google-io-nvidia-earnings-korea-semi-preview-2026-05-17/) / [엔비디아 Q1 FY27 이후 한국 AI 인프라](/ko/post/nvidia-q1-fy27-korea-ai-infra-supply-chain-2026-05-21/) / [삼성전자 TSMC식 리레이팅](/ko/post/samsung-electronics-tsmc-rerating-thesis-2026-05-16/) / [삼성전기 하이브리드 챌린저](/ko/post/samsung-electro-mechanics-hybrid-challenger-2026-05-17/) / [5/17 시황 종합](/ko/post/macro-snapshot-complex-risk-off-recovery-triggers-2026-05-17/)
 
 *Google I/O 2026은 단순한 모델 발표회가 아니었다. Gemini 3.5, Gemini Omni, Gemini Spark, Antigravity, AI Search, Universal Cart, Android XR을 한 번에 묶어 Google 전체 제품을 agentic OS로 재구성한 이벤트였다. 검색은 링크를 보여주는 창에서 작업을 실행하는 인터페이스로 이동하고, 쇼핑은 장바구니 agent가 되고, 개발툴은 여러 agent를 병렬로 돌리는 runtime이 된다. 투자 관점에서 핵심은 Alphabet 자체보다 이 변화가 만드는 인프라 병목이다. 토큰 처리량, 추론 트래픽, 데이터센터 CapEx, HBM, 패키징, 전력 무결성, 고다층 PCB, 전력기기. Google I/O 이후 한국 알파는 모델이 아니라 병목에서 나온다.*
 
 ## 핵심 요약
 
-* **Google I/O 2026의 본질**: Google은 Gemini 3.5 Flash, Gemini Omni Flash, Search agents, Gemini Spark, Antigravity 2.0, Managed Agents API, Universal Cart, Android XR을 하나의 agentic product layer로 묶었다.
-* **검색 붕괴론은 아직 숫자로 확인되지 않았다**: Alphabet 1Q26 Search & other 매출은 603.99억 달러로 전년 동기 507.02억 달러 대비 약 19.1% 성장했다. 현재까지는 AI가 Search를 잠식한 것이 아니라 Google이 Search를 AI interface로 흡수한 쪽에 가깝다.
-* **가장 중요한 숫자는 토큰 처리량**: Google은 월간 처리 토큰이 2024년 5월 9.7조 개, 2025년 I/O 약 480조 개, 2026년 5월 3.2경 개 이상으로 증가했다고 밝혔다. agentic OS는 사용량의 단위를 검색 쿼리에서 토큰·작업·agent 실행 횟수로 바꾼다.
-* **Alphabet 주식은 방어력 확인, 한국은 병목 추적**: Alphabet은 full-stack AI company라는 방어 논리가 강해졌지만, 시가총액 4조 달러대와 약 30배 전후 이익배수는 상당 부분 기대를 반영한다. 신규 알파는 HBM, 패키징, 전력 무결성, PCB, 데이터센터 전력 쪽이 더 선명하다.
-* **한국 우선순위**: 삼성전기 > 삼성전자 > SK하이닉스 > 테스트·소켓·HBM 장비 > 이수페타시스·대덕전자·티엘비·코리아써키트 > 전력기기.
-* **가장 강한 단일 아이디어**: 삼성전기. 실리콘 커패시터 1.557조원 계약은 AI 패키지 내부 전력 안정화가 별도 병목으로 부상했다는 증거다.
-* **매크로 조건**: 5/17 시황 글의 7개 매크로 게이트가 통과되지 않으면 고PER AI 인프라 종목은 좋은 thesis에도 흔들릴 수 있다. 추격보다 확인 후 분할이 맞다.
+* <strong>Google I/O 2026의 본질</strong>: Google은 Gemini 3.5 Flash, Gemini Omni Flash, Search agents, Gemini Spark, Antigravity 2.0, Managed Agents API, Universal Cart, Android XR을 하나의 agentic product layer로 묶었다.
+* <strong>검색 붕괴론은 아직 숫자로 확인되지 않았다</strong>: Alphabet 1Q26 Search & other 매출은 603.99억 달러로 전년 동기 507.02억 달러 대비 약 19.1% 성장했다. 현재까지는 AI가 Search를 잠식한 것이 아니라 Google이 Search를 AI interface로 흡수한 쪽에 가깝다.
+* <strong>가장 중요한 숫자는 토큰 처리량</strong>: Google은 월간 처리 토큰이 2024년 5월 9.7조 개, 2025년 I/O 약 480조 개, 2026년 5월 3.2경 개 이상으로 증가했다고 밝혔다. agentic OS는 사용량의 단위를 검색 쿼리에서 토큰·작업·agent 실행 횟수로 바꾼다.
+* <strong>Alphabet 주식은 방어력 확인, 한국은 병목 추적</strong>: Alphabet은 full-stack AI company라는 방어 논리가 강해졌지만, 시가총액 4조 달러대와 약 30배 전후 이익배수는 상당 부분 기대를 반영한다. 신규 알파는 HBM, 패키징, 전력 무결성, PCB, 데이터센터 전력 쪽이 더 선명하다.
+* <strong>한국 우선순위</strong>: 삼성전기 > 삼성전자 > SK하이닉스 > 테스트·소켓·HBM 장비 > 이수페타시스·대덕전자·티엘비·코리아써키트 > 전력기기.
+* <strong>가장 강한 단일 아이디어</strong>: 삼성전기. 실리콘 커패시터 1.557조원 계약은 AI 패키지 내부 전력 안정화가 별도 병목으로 부상했다는 증거다.
+* <strong>매크로 조건</strong>: 5/17 시황 글의 7개 매크로 게이트가 통과되지 않으면 고PER AI 인프라 종목은 좋은 thesis에도 흔들릴 수 있다. 추격보다 확인 후 분할이 맞다.
 
 ---
 
@@ -299,12 +299,12 @@ Broadcom은 Google TPU 핵심 파트너이고, Google과 장기 계약을 맺었
 
 ### Entry 조건
 
-* **삼성전기**: 실리콘 커패시터 후속 고객, 증설 계획, AI MLCC/FC-BGA 매출 분리 가능성 확인.
-* **삼성전자**: HBM4 고객 인증, HBM4 base die, Google/Broadcom/ASIC향 물량 또는 foundry 회복 신호.
-* **SK하이닉스**: HBM4 pricing 유지, NVIDIA Rubin ramp, 10~15% 조정 또는 수급 과열 완화.
-* **PCB/기판**: AI향 매출 비중, ASP premium, OPM 유지가 분기 실적으로 확인될 때.
-* **테스트/소켓**: TPU/ASIC/HBM 고객 reference와 신규 socket 매출 확인.
-* **전력기기**: 북미 데이터센터 수주잔고 증가율과 OPM 유지가 같이 확인될 때.
+* <strong>삼성전기</strong>: 실리콘 커패시터 후속 고객, 증설 계획, AI MLCC/FC-BGA 매출 분리 가능성 확인.
+* <strong>삼성전자</strong>: HBM4 고객 인증, HBM4 base die, Google/Broadcom/ASIC향 물량 또는 foundry 회복 신호.
+* <strong>SK하이닉스</strong>: HBM4 pricing 유지, NVIDIA Rubin ramp, 10~15% 조정 또는 수급 과열 완화.
+* <strong>PCB/기판</strong>: AI향 매출 비중, ASP premium, OPM 유지가 분기 실적으로 확인될 때.
+* <strong>테스트/소켓</strong>: TPU/ASIC/HBM 고객 reference와 신규 socket 매출 확인.
+* <strong>전력기기</strong>: 북미 데이터센터 수주잔고 증가율과 OPM 유지가 같이 확인될 때.
 
 ### Catalyst
 
@@ -356,7 +356,7 @@ Alphabet의 1Q26 숫자는 이 전환이 아직 Search를 훼손하지 않았음
 
 하지만 진짜 투자 포인트는 Alphabet 자체보다 AI 인프라 병목이다. Google은 월간 처리 토큰이 2024년 5월 9.7조 개에서 2026년 5월 3.2경 개 이상으로 늘었다고 밝혔다. CapEx도 2022년 310억 달러에서 올해 1800억~1900억 달러 수준으로 커질 수 있다고 설명했다. 이 변화는 HBM, 패키징, 전력 무결성, PCB, 전력 인프라의 수요 함수다.
 
-한국 우선순위는 명확하다. **삼성전기**는 실리콘 커패시터 대형 계약으로 AI 패키지 전력 무결성 병목이 수주로 확인됐다. **삼성전자**는 TPU/ASIC 다극화가 HBM 후발 discount를 줄일 수 있는 옵션이다. **SK하이닉스**는 여전히 HBM 최강자지만 이미 crowded trade다. **PCB/기판·테스트·전력기기**는 수혜 가능성이 크지만 실적 확인이 필요하다.
+한국 우선순위는 명확하다. <strong>삼성전기</strong>는 실리콘 커패시터 대형 계약으로 AI 패키지 전력 무결성 병목이 수주로 확인됐다. <strong>삼성전자</strong>는 TPU/ASIC 다극화가 HBM 후발 discount를 줄일 수 있는 옵션이다. <strong>SK하이닉스</strong>는 여전히 HBM 최강자지만 이미 crowded trade다. <strong>PCB/기판·테스트·전력기기</strong>는 수혜 가능성이 크지만 실적 확인이 필요하다.
 
 결론은 간단하다. Google I/O 이후의 알파는 "어느 모델이 더 똑똑한가"가 아니라 "agent 사용량 증가가 어느 병목에 돈을 쓰게 만드는가"에서 나온다. 답은 Alphabet만이 아니다. HBM, 패키징, 실리콘 커패시터, 고다층 PCB, 데이터센터 전력이다. 그중 지금 가장 신선한 한국 알파는 삼성전기다. 다만 매크로 게이트가 열리기 전까지는 추격보다 확인 후 분할이 맞다.
 

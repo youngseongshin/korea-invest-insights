@@ -19,9 +19,9 @@ tags:
   - "foreign capital"
 ---
 
-> **Why Korea Series — Part 4.** [Part 1](/post/why-korea-semiconductor-substrate-competitive-edge-2026-05-07/) examined why Korea hosts most of the world's commercial-scale semiconductor substrate manufacturing. [Part 2](/post/why-korea-cosmetics-global-competitiveness-2026-05-07/) examined why Korea became the world's #2–#3 cosmetics exporter without producing a single luxury house. [Part 3](/post/samsung-sk-hynix-korea-ai-economy-rerating-2026-05-09/) examined how Samsung and SK hynix's combined ₩300tn+ profit pool is upgrading the Korean fiscal-and-household structure itself. Parts 1–3 answered "why money has to come to Korea" at the industry, ecosystem, and macro levels. **Part 4 looks at what happens when the money actually arrives** — and produces a valuation paradox where PER falls *below* the 10-year average even as PBR climbs *above* it.
+> <strong>Why Korea Series — Part 4.</strong> [Part 1](/post/why-korea-semiconductor-substrate-competitive-edge-2026-05-07/) examined why Korea hosts most of the world's commercial-scale semiconductor substrate manufacturing. [Part 2](/post/why-korea-cosmetics-global-competitiveness-2026-05-07/) examined why Korea became the world's #2–#3 cosmetics exporter without producing a single luxury house. [Part 3](/post/samsung-sk-hynix-korea-ai-economy-rerating-2026-05-09/) examined how Samsung and SK hynix's combined ₩300tn+ profit pool is upgrading the Korean fiscal-and-household structure itself. Parts 1–3 answered "why money has to come to Korea" at the industry, ecosystem, and macro levels. <strong>Part 4 looks at what happens when the money actually arrives</strong> — and produces a valuation paradox where PER falls *below* the 10-year average even as PBR climbs *above* it.
 
-> **Follow-up:** Korea's market cap has since moved into global top-six headline territory. The data and investment read-through are checked in [Why Korea Part 5: Korea's Stock Market Is Now Near Global No. 6 — Buy Signal or Warning Light?](/post/why-korea-market-cap-global-six-ai-memory-rerating-2026-05-24/).
+> <strong>Follow-up:</strong> Korea's market cap has since moved into global top-six headline territory. The data and investment read-through are checked in [Why Korea Part 5: Korea's Stock Market Is Now Near Global No. 6 — Buy Signal or Warning Light?](/post/why-korea-market-cap-global-six-ai-memory-rerating-2026-05-24/).
 
 *Korea ETF inflows in 2026 sit at \~US$6.7bn — the highest in 20 years and more than 3× the 2025 print. KOSPI is up roughly +50% YTD, the #1 print among major global indices. Total market cap of ₩6,058tn places Korea 8th globally — an all-time high. Yet forward PER reads \~8×, below the 10-year \~10× average. Money pours in at a record pace, but the multiple compresses. The paradox is the entire question of 2H26: is this the early stage of Korea-discount dissolution, or the structural top before a profit-revision cycle turns Korea into a value trap?*
 
@@ -29,12 +29,12 @@ tags:
 
 ## TL;DR
 
-* **Inflows at a 20-year high.** Morgan Stanley / Bloomberg through April 24: US$6.7bn YTD into Korean ETFs. The May 6 KOSPI session printed ₩3.13tn of foreign net buying, lifting foreign-ownership ratio to a 6-year peak.
-* **KOSPI #1 globally YTD.** Deutsche Bank work shows KOSPI \~+50% YTD — the best print among major indices. Total cap ₩6,058tn = 8th globally, all-time high. Intraday peak 7,530.
-* **Forward PER below the 10-year average.** Deutsche Bank: KOSPI fwd PER \~8× vs. 10-year \~10×. Inflows + a *lower* multiple ≠ "expensive" — it's the arithmetic signature of earnings revisions running ahead of price.
-* **Forward PBR above the 10-year average — and this is the structural signal.** PBR \~1.3× vs. 10-year \~1.0×. The market is starting to price book-value differently — a candidate first piece of accounting evidence for Korea-discount dissolution rather than a transient profit cycle.
-* **The single contradiction worth understanding.** PER fell while PBR rose. The arithmetic requires: price went up, but earnings went up faster (PER compressed), and the market began assigning a higher multiple to book (PBR expanded on structural-change expectation). The Samsung / SK hynix earnings reset is the proximate cause of the first leg; Value-up + buyback / payout reform is the proximate cause of the second.
-* **Discount dissolution or value trap.** If consensus EPS holds for 1–2 more quarters, the "Korea-discount dissolving" frame stays alive. If consensus EPS rolls down, the 8× becomes "fair given falling earnings" and the inflows that arrived become exit liquidity. **The next 1–2 earnings cycles decide it.**
+* <strong>Inflows at a 20-year high.</strong> Morgan Stanley / Bloomberg through April 24: US$6.7bn YTD into Korean ETFs. The May 6 KOSPI session printed ₩3.13tn of foreign net buying, lifting foreign-ownership ratio to a 6-year peak.
+* <strong>KOSPI #1 globally YTD.</strong> Deutsche Bank work shows KOSPI \~+50% YTD — the best print among major indices. Total cap ₩6,058tn = 8th globally, all-time high. Intraday peak 7,530.
+* <strong>Forward PER below the 10-year average.</strong> Deutsche Bank: KOSPI fwd PER \~8× vs. 10-year \~10×. Inflows + a *lower* multiple ≠ "expensive" — it's the arithmetic signature of earnings revisions running ahead of price.
+* <strong>Forward PBR above the 10-year average — and this is the structural signal.</strong> PBR \~1.3× vs. 10-year \~1.0×. The market is starting to price book-value differently — a candidate first piece of accounting evidence for Korea-discount dissolution rather than a transient profit cycle.
+* <strong>The single contradiction worth understanding.</strong> PER fell while PBR rose. The arithmetic requires: price went up, but earnings went up faster (PER compressed), and the market began assigning a higher multiple to book (PBR expanded on structural-change expectation). The Samsung / SK hynix earnings reset is the proximate cause of the first leg; Value-up + buyback / payout reform is the proximate cause of the second.
+* <strong>Discount dissolution or value trap.</strong> If consensus EPS holds for 1–2 more quarters, the "Korea-discount dissolving" frame stays alive. If consensus EPS rolls down, the 8× becomes "fair given falling earnings" and the inflows that arrived become exit liquidity. <strong>The next 1–2 earnings cycles decide it.</strong>
 
 ---
 
@@ -67,13 +67,13 @@ Now: \~1.3×
 → Currently above average
 ```
 
-**PER below average and PBR above average at the same moment is unusual.** Price increases ordinarily lift both. Here, price rose enough to lift PBR, but earnings revisions rose faster — so the price/earnings denominator grew more than the numerator did. PER compressed while PBR expanded.
+<strong>PER below average and PBR above average at the same moment is unusual.</strong> Price increases ordinarily lift both. Here, price rose enough to lift PBR, but earnings revisions rose faster — so the price/earnings denominator grew more than the numerator did. PER compressed while PBR expanded.
 
 ### 1.3 Global comparison
 
 | Index | Fwd PER (now) | Fwd PER (10y avg) | Fwd PBR (now) | Fwd PBR (10y avg) |
 |---|---:|---:|---:|---:|
-| **KOSPI** | **\~8×** | **\~10×** | **\~1.3×** | **\~1.0×** |
+| <strong>KOSPI</strong> | <strong>\~8×</strong> | <strong>\~10×</strong> | <strong>\~1.3×</strong> | <strong>\~1.0×</strong> |
 | Asia ex-JP | \~12× | \~13× | \~1.9× | \~1.7× |
 | Europe (STOXX 600) | \~14× | \~14× | \~2.1× | \~2.0× |
 | US (S&P 500) | \~20× | \~19× | \~4.3× | \~3.7× |
@@ -86,7 +86,7 @@ KOSPI has the lowest forward PER among the major regional indices — under half
 
 ### 2.1 Why PER compressed
 
-PER = price / EPS. To lower PER you either lower price or raise earnings. KOSPI rose \~+50% YTD, so price didn't fall. **EPS revisions ran faster than price gains.**
+PER = price / EPS. To lower PER you either lower price or raise earnings. KOSPI rose \~+50% YTD, so price didn't fall. <strong>EPS revisions ran faster than price gains.</strong>
 
 The proximate driver is semiconductors. Per Seoul Economic Daily as of May 6:
 
@@ -104,9 +104,9 @@ PBR = price / book value per share. PBR rises when price grows faster than book.
 
 KOSPI's PBR sitting at 1.3× — above the 10-year \~1.0× average — admits two readings:
 
-**Reading A: Pure price effect.** Price ran ahead of book. Mean-reverts on a price correction.
+<strong>Reading A: Pure price effect.</strong> Price ran ahead of book. Mean-reverts on a price correction.
 
-**Reading B: Structural re-rating.** The market is starting to price Value-up program execution, share-buyback cancellations, and payout-policy reform into the multiple. PBR settles at a *new normal* — and this is the first piece of accounting evidence consistent with Korea-discount dissolution rather than a passing profit cycle.
+<strong>Reading B: Structural re-rating.</strong> The market is starting to price Value-up program execution, share-buyback cancellations, and payout-policy reform into the multiple. PBR settles at a *new normal* — and this is the first piece of accounting evidence consistent with Korea-discount dissolution rather than a passing profit cycle.
 
 ### 2.3 The arithmetic of a "Korea-discount dissolution signature"
 
@@ -126,7 +126,7 @@ For both to hold simultaneously:
 → Price growth + structural expectation premium → PBR rises
 ```
 
-**The signature itself is what matters.** "Cheap on earnings + structurally expected to deliver more from book" is exactly the configuration a market puts in place when it starts to dissolve a long-running discount, rather than when it simply pays up for a cyclical profit spike.
+<strong>The signature itself is what matters.</strong> "Cheap on earnings + structurally expected to deliver more from book" is exactly the configuration a market puts in place when it starts to dissolve a long-running discount, rather than when it simply pays up for a cyclical profit spike.
 
 ---
 
@@ -138,9 +138,9 @@ KOSPI's #1-globally YTD print is overwhelmingly a Samsung / SK hynix story. The 
 
 Korea Business Hub's framing is correct: "treat KOSPI exposure as a semiconductor-concentrated position, not a diversified Korea bet." The composition of foreign flow confirms this — large slugs into Samsung Electronics and SK hynix specifically.
 
-Per Seoul Economic Daily, May alone saw ₩6tn of foreign net buying into the electrical / electronics sector. April added ₩2.3tn. **The money entered Korean semiconductors more than it entered Korea-the-country.**
+Per Seoul Economic Daily, May alone saw ₩6tn of foreign net buying into the electrical / electronics sector. April added ₩2.3tn. <strong>The money entered Korean semiconductors more than it entered Korea-the-country.</strong>
 
-May 7 introduced an interesting development: rotation began spreading beyond semis. Samsung C&T +7.9%, Doosan Enerbility +7.4%, HD Hyundai Heavy +6.9%, Hyundai Motor +4%. **Capital that started in semis is starting to spill into construction, energy, shipbuilding, and autos.**
+May 7 introduced an interesting development: rotation began spreading beyond semis. Samsung C&T +7.9%, Doosan Enerbility +7.4%, HD Hyundai Heavy +6.9%, Hyundai Motor +4%. <strong>Capital that started in semis is starting to spill into construction, energy, shipbuilding, and autos.</strong>
 
 ### 3.2 The Value-up program — structural reform finally moving
 
@@ -156,7 +156,7 @@ ISS data points (2025):
 * Korean ROE: 7.9%, still below the US (15.5%) and Japan (8.4%)
 * Korean payout ratio: 21.3%, vs. US 32% and Japan 33%
 
-Reform has *started* — not finished. Direction-correct, pace still slow. **The market is paying for direction.**
+Reform has *started* — not finished. Direction-correct, pace still slow. <strong>The market is paying for direction.</strong>
 
 ### 3.3 Global capital's rediscovery of Korea
 
@@ -250,7 +250,7 @@ Korea's Value-up was modeled on Japan's. The key differences:
 | Buyback cancellation | Active | +33% but still under-utilized |
 | Inheritance tax | High but with weak share-suppression incentive | Very high, with active share-suppression incentive |
 
-**Same direction, slower pace, with Korea-specific blockers** — chaebol structure, dividend taxation, inheritance taxation.
+<strong>Same direction, slower pace, with Korea-specific blockers</strong> — chaebol structure, dividend taxation, inheritance taxation.
 
 Janus Henderson's outlook: "Commercial-Code amendments (including mandatory buyback cancellations) and fiduciary-duty strengthening are scheduled. Regulators and KRX are likely to tighten Value-up monitoring, clarify thresholds, and improve disclosure cadence."
 
@@ -298,11 +298,11 @@ Middle East (US-Iran), China-Taiwan, North Korea. Korea's market is highly geopo
 
 Re-reading this post in November 2026, one of three configurations will be true:
 
-**(1) KOSPI 8,000–9,000.** Earnings held / rose, Value-up executed, foreign flow continued. "Discount dissolution starting point" was the correct reading.
+<strong>(1) KOSPI 8,000–9,000.</strong> Earnings held / rose, Value-up executed, foreign flow continued. "Discount dissolution starting point" was the correct reading.
 
-**(2) KOSPI 6,000–7,000.** Earnings partially rolled but PBR held above 1.0×. Japan-style slow reform proceeding. Not a value trap, not a runaway move — extended consolidation.
+<strong>(2) KOSPI 6,000–7,000.</strong> Earnings partially rolled but PBR held above 1.0×. Japan-style slow reform proceeding. Not a value trap, not a runaway move — extended consolidation.
 
-**(3) KOSPI <5,000.** EPS sharply revised lower, foreigners exited, retail margin debt liquidated. Value-trap reading was correct.
+<strong>(3) KOSPI <5,000.</strong> EPS sharply revised lower, foreigners exited, retail margin debt liquidated. Value-trap reading was correct.
 
 ---
 
@@ -310,9 +310,9 @@ Re-reading this post in November 2026, one of three configurations will be true:
 
 [Part 1 (substrates)](/post/why-korea-semiconductor-substrate-competitive-edge-2026-05-07/) was about industrial structure — why one piece of the AI infrastructure stack is overwhelmingly Korea-located. [Part 2 (cosmetics)](/post/why-korea-cosmetics-global-competitiveness-2026-05-07/) was about ecosystem economics — why an unbranded fast-iteration manufacturing-and-retail loop produced the world's #2–#3 cosmetics export country. [Part 3 (Samsung / SK hynix → Korean economy)](/post/samsung-sk-hynix-korea-ai-economy-rerating-2026-05-09/) was about macro feedback — how a ₩300tn+ profit pool from two companies upgrades fiscal capacity and household income at the country level.
 
-Parts 1–3 answered "why money has to come to Korea" in industry, ecosystem, and macro frames. **Part 4 is what happens once the money is here** — and the valuation paradox it produces. Whether Parts 1–3's logic translates into sustained price action versus a head-fake compresses to a single test: does the consensus earnings path hold?
+Parts 1–3 answered "why money has to come to Korea" in industry, ecosystem, and macro frames. <strong>Part 4 is what happens once the money is here</strong> — and the valuation paradox it produces. Whether Parts 1–3's logic translates into sustained price action versus a head-fake compresses to a single test: does the consensus earnings path hold?
 
-If yes, Parts 1–3's industry / ecosystem / macro arguments get validated as price. If no, the structural arguments may still be right while the price action remains a near-term trap. **The two outcomes are not the same — the test is whether forecast earnings hold across the next 1–2 cycles.**
+If yes, Parts 1–3's industry / ecosystem / macro arguments get validated as price. If no, the structural arguments may still be right while the price action remains a near-term trap. <strong>The two outcomes are not the same — the test is whether forecast earnings hold across the next 1–2 cycles.</strong>
 
 ---
 
@@ -330,25 +330,25 @@ The fact that PBR is at 1.3× above the 10-year average is itself the meaningful
 
 ## FAQ
 
-**Q: What does the US$6.7bn figure actually measure?**
+<strong>Q: What does the US$6.7bn figure actually measure?</strong>
 A: 2026 YTD ETF inflows into Korea, per Morgan Stanley / Bloomberg through April 24. Highest 20-year print, more than 3× the 2025 total. Direct KOSPI buying outside ETFs makes the consolidated foreign-flow number larger.
 
-**Q: Does PER below the 10-year average automatically mean "cheap"?**
+<strong>Q: Does PER below the 10-year average automatically mean "cheap"?</strong>
 A: No. Two ways PER falls — earnings rising faster than price (constructive), or market discounting earnings as about-to-roll (the value-trap setup). 2026 currently leans constructive but flips to trap once consensus EPS revises down.
 
-**Q: Why might PBR above the 10-year average be a constructive signal?**
+<strong>Q: Why might PBR above the 10-year average be a constructive signal?</strong>
 A: Two interpretations. (1) Pure price effect — mean-reverts on correction. (2) Market repricing expected ROE / payout / governance trajectories — settles at a new floor. Japan post-2023 is the (2) precedent. Whether Korea is following the same pattern is exactly the question of this piece.
 
-**Q: Is the Value-up program actually working?**
+<strong>Q: Is the Value-up program actually working?</strong>
 A: Partially yes, not yet at Japan's level. Buyback cancellations +33%, foreign participation roughly doubled. But Korea's dividend tax (\~50%) is far higher than Japan's (\~20%), and chaebol governance / inheritance-tax structures remain unique blockers. "Started but not finished" is the accurate framing.
 
-**Q: Should one buy KOSPI here?**
+<strong>Q: Should one buy KOSPI here?</strong>
 A: Index decisions aren't atomic. If consensus EPS holds 1–2 more quarters, PER 8× is a reasonable entry level; if it rolls, the historical mean is closer to 7× and the index can re-find that level. At the name level, the rotation from semis → other sectors makes individual-name flow analysis more productive than index timing.
 
-**Q: Are Japan's path and Korea's path actually the same path?**
+<strong>Q: Are Japan's path and Korea's path actually the same path?</strong>
 A: Same direction, different pace, different blockers. Japan's TSE used semi-mandatory naming; Korea's program is voluntary. Korea, however, has Commercial-Code amendments and mandatory buyback-cancellation discussions in motion — regulatory direction is comparable.
 
-**Q: What's the largest reason this analysis could be wrong?**
+<strong>Q: What's the largest reason this analysis could be wrong?</strong>
 A: PER 8× holding requires consensus EPS holding. If memory prices roll in 2H26 or US AI capex decelerates faster than expected, that premise breaks. Geopolitical re-pricing (Middle East, China-Taiwan) can also produce fast foreign-flow reversals.
 
 ---

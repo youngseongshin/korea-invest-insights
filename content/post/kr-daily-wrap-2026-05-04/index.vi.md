@@ -20,21 +20,21 @@ draft: false
 | USD/KRW | 1.472 | −0,1% | → Đi ngang |
 | Brent | $111,9 | −5,2% | 📉 Giảm |
 
-Chế độ thị trường: **Hàn Quốc — Bull | Mỹ — Neutral**. Khuyến nghị định vị: mở rộng chọn lọc tại cổ phiếu Hàn Quốc. Sự phân kỳ KOSPI–KOSDAQ lên tới 5,9 điểm phần trăm cho thấy tiền đang tập trung vào nhóm vốn hóa lớn.
+Chế độ thị trường: <strong>Hàn Quốc — Bull | Mỹ — Neutral</strong>. Khuyến nghị định vị: mở rộng chọn lọc tại cổ phiếu Hàn Quốc. Sự phân kỳ KOSPI–KOSDAQ lên tới 5,9 điểm phần trăm cho thấy tiền đang tập trung vào nhóm vốn hóa lớn.
 
 ---
 
 ## 2. Tổng Kết Phiên Giao Dịch
 
-Phiên ngày 4/5/2026 là phiên **ưa rủi ro rõ ràng**. KOSPI tăng +4,58% tính đến 14:15 giờ địa phương, trong khi KOSDAQ cũng tăng +1,72% — dù mức tăng yếu hơn đáng kể. Đây không đơn thuần là sự phục hồi sau nhịp giảm; toàn bộ cấu trúc của phiên cho thấy tiền chủ động chọn lại câu chuyện về lợi nhuận và cơ sở hạ tầng AI.
+Phiên ngày 4/5/2026 là phiên <strong>ưa rủi ro rõ ràng</strong>. KOSPI tăng +4,58% tính đến 14:15 giờ địa phương, trong khi KOSDAQ cũng tăng +1,72% — dù mức tăng yếu hơn đáng kể. Đây không đơn thuần là sự phục hồi sau nhịp giảm; toàn bộ cấu trúc của phiên cho thấy tiền chủ động chọn lại câu chuyện về lợi nhuận và cơ sở hạ tầng AI.
 
-**Ngành dẫn đầu:** Bán dẫn và cơ sở hạ tầng AI tiếp tục là lực kéo chính. Nhóm thiết bị điện lực (đặc biệt là biến thế và hạ tầng truyền tải) tăng mạnh, được hỗ trợ bởi xu hướng nâng mục tiêu giá từ các công ty chứng khoán. Ngành tài chính — chứng khoán cũng nằm trong nhóm tăng sau tin tức về việc Samsung Securities mở tài khoản tổng hợp cho nhà đầu tư nước ngoài.
+<strong>Ngành dẫn đầu:</strong> Bán dẫn và cơ sở hạ tầng AI tiếp tục là lực kéo chính. Nhóm thiết bị điện lực (đặc biệt là biến thế và hạ tầng truyền tải) tăng mạnh, được hỗ trợ bởi xu hướng nâng mục tiêu giá từ các công ty chứng khoán. Ngành tài chính — chứng khoán cũng nằm trong nhóm tăng sau tin tức về việc Samsung Securities mở tài khoản tổng hợp cho nhà đầu tư nước ngoài.
 
-**Ngành yếu:** Bất động sản, xây dựng và giấy/gỗ đứng ngoài đà tăng. Sự phân kỳ này phản ánh thị trường đang tập trung vào câu chuyện tăng trưởng lợi nhuận, không phải đà phục hồi chu kỳ đồng đều.
+<strong>Ngành yếu:</strong> Bất động sản, xây dựng và giấy/gỗ đứng ngoài đà tăng. Sự phân kỳ này phản ánh thị trường đang tập trung vào câu chuyện tăng trưởng lợi nhuận, không phải đà phục hồi chu kỳ đồng đều.
 
-**Dòng tiền:** Nhà đầu tư nước ngoài mua ròng +2,72 nghìn tỷ KRW trên cổ phiếu hiện vật KOSPI; tổ chức trong nước mua ròng thêm +1,55 nghìn tỷ KRW. Đây là tín hiệu dòng tiền hai chiều hiếm gặp — cho thấy không chỉ là mua kỹ thuật mà có sự xác nhận từ các nhà quản lý quỹ lớn.
+<strong>Dòng tiền:</strong> Nhà đầu tư nước ngoài mua ròng +2,72 nghìn tỷ KRW trên cổ phiếu hiện vật KOSPI; tổ chức trong nước mua ròng thêm +1,55 nghìn tỷ KRW. Đây là tín hiệu dòng tiền hai chiều hiếm gặp — cho thấy không chỉ là mua kỹ thuật mà có sự xác nhận từ các nhà quản lý quỹ lớn.
 
-**Bối cảnh vĩ mô hỗ trợ:** OPEC+ tăng sản lượng kết hợp với "Project Freedom" đã giúp giá Brent giảm từ đỉnh, giảm bớt lo ngại lạm phát chi phí đẩy. Tuy nhiên, WTI vẫn quanh $101/thùng — rủi ro suy giảm cầu từ giá năng lượng cao vẫn chưa biến mất hoàn toàn. Thông tin về capex của 4 nhà cung cấp đám mây lớn ước đạt 700 tỷ USD trong năm 2026 tiếp tục củng cố câu chuyện trung hạn cho chuỗi giá trị trung tâm dữ liệu AI, trong đó các công ty bán dẫn Hàn Quốc đang hưởng lợi trực tiếp.
+<strong>Bối cảnh vĩ mô hỗ trợ:</strong> OPEC+ tăng sản lượng kết hợp với "Project Freedom" đã giúp giá Brent giảm từ đỉnh, giảm bớt lo ngại lạm phát chi phí đẩy. Tuy nhiên, WTI vẫn quanh $101/thùng — rủi ro suy giảm cầu từ giá năng lượng cao vẫn chưa biến mất hoàn toàn. Thông tin về capex của 4 nhà cung cấp đám mây lớn ước đạt 700 tỷ USD trong năm 2026 tiếp tục củng cố câu chuyện trung hạn cho chuỗi giá trị trung tâm dữ liệu AI, trong đó các công ty bán dẫn Hàn Quốc đang hưởng lợi trực tiếp.
 
 Lưu ý: Ngày 5/5 là ngày nghỉ lễ tại Hàn Quốc. Đà tăng mạnh trước kỳ nghỉ khiến việc đuổi theo giá ở mức hiện tại cần thận trọng — tâm lý thị trường có thể điều chỉnh ngay sau khi mở cửa trở lại.
 
@@ -77,4 +77,4 @@ Pamcell là công ty linh kiện điện tử với ROE 38,3% và OP tăng +629,
 
 ---
 
-**Lưu ý phương pháp:** Danh sách trên là kết quả sàng lọc, không phải khuyến nghị mua/bán. Mã xuất hiện trong 3+ screener được ưu tiên đưa vào bài phân tích. Mọi số liệu lấy từ dữ liệu ngày 4/5/2026.
+<strong>Lưu ý phương pháp:</strong> Danh sách trên là kết quả sàng lọc, không phải khuyến nghị mua/bán. Mã xuất hiện trong 3+ screener được ưu tiên đưa vào bài phân tích. Mọi số liệu lấy từ dữ liệu ngày 4/5/2026.

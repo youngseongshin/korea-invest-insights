@@ -8,13 +8,13 @@ categories: ["Why-Korea"]
 tags: ["Why Korea", "cosméticos coreanos", "K-beauty", "cuidado de la piel", "Olive Young", "ODM", "Kolmar Korea", "Cosmax", "APR", "Medicube", "dispositivos de belleza", "ola coreana", "acciones coreanas"]
 ---
 
-> **Serie Why Korea, Parte 2.** La Parte 1 preguntó [por qué Corea tiene tantas empresas de sustratos semiconductores](/es/post/why-korea-semiconductor-substrate-competitive-edge-2026-05-07/). Esta nota plantea la misma pregunta en productos de consumo: ¿por qué Corea logró desarrollar marcas de belleza con proyección global, fabricantes ODM, una plataforma de retail dominante y empresas de dispositivos de belleza al mismo tiempo? Léelo junto con el [hub de Olive Young, PharmaResearch y K-Beauty](/page/k-beauty-olive-young-pharmaresearch-hub/), el [análisis de APR / Medicube](/es/post/apr-medicube-age-r-deep-dive-valuation-2026/) y el [artículo explicativo sobre la cotización pública de Olive Young](/es/post/olive-young-publicly-traded-cj-corp-korea-beauty-exposure-2026-04-27/).
+> <strong>Serie Why Korea, Parte 2.</strong> La Parte 1 preguntó [por qué Corea tiene tantas empresas de sustratos semiconductores](/es/post/why-korea-semiconductor-substrate-competitive-edge-2026-05-07/). Esta nota plantea la misma pregunta en productos de consumo: ¿por qué Corea logró desarrollar marcas de belleza con proyección global, fabricantes ODM, una plataforma de retail dominante y empresas de dispositivos de belleza al mismo tiempo? Léelo junto con el [hub de Olive Young, PharmaResearch y K-Beauty](/page/k-beauty-olive-young-pharmaresearch-hub/), el [análisis de APR / Medicube](/es/post/apr-medicube-age-r-deep-dive-valuation-2026/) y el [artículo explicativo sobre la cotización pública de Olive Young](/es/post/olive-young-publicly-traded-cj-corp-korea-beauty-exposure-2026-04-27/).
 
 En 2025, Corea exportó USD 11.430 millones en cosméticos. Fue un récord. Hoy, Corea se menciona habitualmente junto a Francia y Estados Unidos como uno de los tres mayores exportadores de cosméticos del mundo y, según la clasificación utilizada, compite con EE. UU. por el segundo lugar detrás de Francia.
 
 Eso debería sorprender un poco. Corea no tiene un L'Oreal, un Estee Lauder, un Chanel ni un Dior. No tiene la tradición centenaria de perfumería y lujo de Francia. Su población doméstica es de apenas unos 50 millones de personas. Entonces, ¿cómo llegaron los cosméticos coreanos a este nivel?
 
-La respuesta no es un campeón nacional. Es un ecosistema: **desarrollo de productos ágil, fabricación por contrato, consumidores exigentes, Olive Young como plataforma de validación de mercado, exportaciones culturales coreanas y distribución digital a través de Amazon, TikTok Shop, Sephora, Ulta y otros canales.**
+La respuesta no es un campeón nacional. Es un ecosistema: <strong>desarrollo de productos ágil, fabricación por contrato, consumidores exigentes, Olive Young como plataforma de validación de mercado, exportaciones culturales coreanas y distribución digital a través de Amazon, TikTok Shop, Sephora, Ulta y otros canales.</strong>
 
 La mezcla de productos lo dice todo. En 2025, las exportaciones de skincare ascendieron a USD 8.540 millones, aproximadamente el 75% de las exportaciones cosméticas coreanas. Corea no exporta principalmente perfume. Exporta una cultura de gestión de la piel: hidratación, calmantes, reparación de la barrera cutánea, protector solar, iluminadores, antienvejecimiento, mascarillas, pads, sueros y ampollas.
 
@@ -57,7 +57,7 @@ La mezcla de productos es igualmente importante.
 
 Verificación: 8,54 / 11,43 = 74,7%.
 
-La conclusión es clara. Corea no es principalmente un exportador de fragancias, ni de maquillaje de lujo. Es un **exportador de skincare**. Eso cambia la economía del sector. Las fragancias y el maquillaje de prestigio dependen en gran medida del aura de marca y el poder de las campañas publicitarias. El skincare se apoya más en ingredientes, textura, compra recurrente, reseñas y datos de distribución. El ecosistema coreano está construido para esto último.
+La conclusión es clara. Corea no es principalmente un exportador de fragancias, ni de maquillaje de lujo. Es un <strong>exportador de skincare</strong>. Eso cambia la economía del sector. Las fragancias y el maquillaje de prestigio dependen en gran medida del aura de marca y el poder de las campañas publicitarias. El skincare se apoya más en ingredientes, textura, compra recurrente, reseñas y datos de distribución. El ecosistema coreano está construido para esto último.
 
 ---
 

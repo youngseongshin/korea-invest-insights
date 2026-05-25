@@ -24,7 +24,7 @@ tags:
 series: ["ai-pcb-substrate-thesis-2026"]
 ---
 
-> **行业地图：** 本文是Pamicell系列研究的上层AI PCB与基板行业逻辑。建议结合 [AI PCB专题页](/page/korea-ai-pcb-substrate-hub/)、[Pamicell第一篇](/post/pamicell-doosan-electro-bg-proxy-rediscovery-2026-04-30/)、[Pamicell第二篇](/post/pamicell-four-layer-progress-and-fifth-cycle-layer-2026-05-03/) 以及此前的 [Samsung Electro-Mechanics AI基础设施重估报告](/post/samsung-electro-mechanics-ai-infrastructure-rerating-2026-04-21/) 一同阅读。
+> <strong>行业地图：</strong> 本文是Pamicell系列研究的上层AI PCB与基板行业逻辑。建议结合 [AI PCB专题页](/page/korea-ai-pcb-substrate-hub/)、[Pamicell第一篇](/post/pamicell-doosan-electro-bg-proxy-rediscovery-2026-04-30/)、[Pamicell第二篇](/post/pamicell-four-layer-progress-and-fifth-cycle-layer-2026-05-03/) 以及此前的 [Samsung Electro-Mechanics AI基础设施重估报告](/post/samsung-electro-mechanics-ai-infrastructure-rerating-2026-04-21/) 一同阅读。
 
 此前的公司层面研究聚焦于一个较窄的问题：哪些韩国标的在AI PCB、FC-BGA和低损耗材料供应中具备最佳位置？本文将视角上移一层，探讨为何资本应当首先进入这整个生态系统。
 

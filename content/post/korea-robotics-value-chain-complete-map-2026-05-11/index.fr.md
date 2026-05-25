@@ -9,7 +9,7 @@ tags: ["Robotique", "Robots humanoïdes", "IA physique", "Boston Dynamics", "Rai
 
 > Cet article porte sur la chaîne de valeur du matériel IA en Corée. Pour un contexte plus large, commencez par le [Hub des entreprises coréennes d'IA](/page/korean-ai-companies-hub/) et le [guide complet du KOSDAQ](/post/kosdaq-complete-guide-promotion-relegation-system-2026-05-10/). Pour les perspectives de marché associées, consultez la couverture de Samsung Electro-Mechanics sur la [réévaluation de l'infrastructure IA](/post/samsung-electro-mechanics-mirae-tp-1300000-valuation-frame-shift-2026-05-07/) et l'[analyse approfondie de Hyundai Mobis sur l'électrique et la robotique](/post/kr-deep-dive-hyundai-mobis-2026-04-28/).
 
-La vraie question à se poser sur la robotique coréenne n'est pas de savoir si les robots constituent un thème porteur. Le marché a déjà intégré une grande partie de cette réponse dans ses valorisations. La question plus concrète est plus simple : **où les revenus apparaissent-ils en premier ?**
+La vraie question à se poser sur la robotique coréenne n'est pas de savoir si les robots constituent un thème porteur. Le marché a déjà intégré une grande partie de cette réponse dans ses valorisations. La question plus concrète est plus simple : <strong>où les revenus apparaissent-ils en premier ?</strong>
 
 Samsung Electronics évoque des usines pilotées par l'IA et l'IA physique. Hyundai Motor Group dispose d'une feuille de route tangible à travers Boston Dynamics et le robot humanoïde Atlas. LG Electronics construit son offre autour des actionneurs, des robots de service et des composants d'IA physique. La direction est réelle.
 
@@ -21,12 +21,12 @@ Cet article n'a pas pour but d'enthousiasmer ni de déprécier le secteur. C'est
 
 ## En bref
 
-1. **Samsung, Hyundai et LG avancent tous simultanément.** Samsung positionne la robotique autour de la fabrication pilotée par l'IA, Hyundai dispose de Boston Dynamics et de plans de déploiement d'Atlas, et LG pousse sur les actionneurs et les robots de service.
-2. **La première fenêtre de vérification s'étend du 2S26 à 2028.** Les modules caméra humanoïde de Samsung Electro-Mechanics, le RMAC et le déploiement d'Atlas par Hyundai, la production d'actionneurs par LG et la montée en puissance de la ligne d'actionneurs HL Mando prévue pour 2027-2028 s'inscrivent dans cette fenêtre.
-3. **Les robots humanoïdes sont autant un problème de composants qu'un problème d'IA.** Les réducteurs, les actionneurs, les modules caméra, les capteurs, les batteries, les préhenseurs et la qualité d'assemblage déterminent coût et performance.
-4. **Beaucoup de sociétés robotiques cotées en Corée affichent des résultats très en deçà de leur valorisation.** Les valeurs pures robotiques peuvent présenter des capitalisations boursières élevées par rapport à leurs ventes actuelles.
-5. **Les revenus pourraient apparaître en premier chez les équipementiers.** SPG, Robotis, HL Mando, Samsung Electro-Mechanics, LG Innotek et Hyundai Mobis disposent d'activités manufacturières existantes capables d'absorber la demande robotique comme revenu incrémental.
-6. **Les chaînes d'approvisionnement d'Atlas et d'Optimus comportent de nombreuses estimations.** Il faut distinguer soigneusement l'exposition au développement, les commandes confirmées et les revenus comptabilisés.
+1. <strong>Samsung, Hyundai et LG avancent tous simultanément.</strong> Samsung positionne la robotique autour de la fabrication pilotée par l'IA, Hyundai dispose de Boston Dynamics et de plans de déploiement d'Atlas, et LG pousse sur les actionneurs et les robots de service.
+2. <strong>La première fenêtre de vérification s'étend du 2S26 à 2028.</strong> Les modules caméra humanoïde de Samsung Electro-Mechanics, le RMAC et le déploiement d'Atlas par Hyundai, la production d'actionneurs par LG et la montée en puissance de la ligne d'actionneurs HL Mando prévue pour 2027-2028 s'inscrivent dans cette fenêtre.
+3. <strong>Les robots humanoïdes sont autant un problème de composants qu'un problème d'IA.</strong> Les réducteurs, les actionneurs, les modules caméra, les capteurs, les batteries, les préhenseurs et la qualité d'assemblage déterminent coût et performance.
+4. <strong>Beaucoup de sociétés robotiques cotées en Corée affichent des résultats très en deçà de leur valorisation.</strong> Les valeurs pures robotiques peuvent présenter des capitalisations boursières élevées par rapport à leurs ventes actuelles.
+5. <strong>Les revenus pourraient apparaître en premier chez les équipementiers.</strong> SPG, Robotis, HL Mando, Samsung Electro-Mechanics, LG Innotek et Hyundai Mobis disposent d'activités manufacturières existantes capables d'absorber la demande robotique comme revenu incrémental.
+6. <strong>Les chaînes d'approvisionnement d'Atlas et d'Optimus comportent de nombreuses estimations.</strong> Il faut distinguer soigneusement l'exposition au développement, les commandes confirmées et les revenus comptabilisés.
 
 ---
 
@@ -59,7 +59,7 @@ Les anciens robots répétaient des mouvements pré-programmés et s'arrêtaient
 
 Cela compte surtout pour les humanoïdes. Un humanoïde n'est utile que s'il peut opérer dans des environnements désordonnés — usines, entrepôts, commerces et, à terme, domiciles. Cela exige à la fois une intelligence machine et un matériel fiable.
 
-L'IA ne supprime pas le goulot d'étranglement matériel. Si les réducteurs sont bruyants, les actionneurs coûteux, les batteries trop éphémères ou les caméras incapables de soutenir une préhension précise, la commercialisation ralentit quand même. L'IA physique doit donc être analysée comme une **chaîne de valeur corps-cerveau**, et non comme un simple logiciel.
+L'IA ne supprime pas le goulot d'étranglement matériel. Si les réducteurs sont bruyants, les actionneurs coûteux, les batteries trop éphémères ou les caméras incapables de soutenir une préhension précise, la commercialisation ralentit quand même. L'IA physique doit donc être analysée comme une <strong>chaîne de valeur corps-cerveau</strong>, et non comme un simple logiciel.
 
 ---
 
@@ -71,29 +71,29 @@ Un robot humanoïde se décompose en plusieurs couches matérielles essentielles
 
 Les moteurs tournent vite. Les articulations robotiques nécessitent un mouvement plus lent avec un couple élevé. Un réducteur convertit la vitesse du moteur en force contrôlée.
 
-Les réducteurs sont coûteux et techniquement exigeants, car la moindre erreur génère vibrations et imprécisions. Le japonais Harmonic Drive est depuis longtemps la référence dans ce segment. En Corée, **SPG** est l'équipementier en réducteurs le plus visible parmi les cotés. Il apparaît régulièrement dans les cartographies de la chaîne de valeur robotique coréenne, que ce soit pour Boston Dynamics, Rainbow Robotics, Samsung ou les plateformes liées à LG.
+Les réducteurs sont coûteux et techniquement exigeants, car la moindre erreur génère vibrations et imprécisions. Le japonais Harmonic Drive est depuis longtemps la référence dans ce segment. En Corée, <strong>SPG</strong> est l'équipementier en réducteurs le plus visible parmi les cotés. Il apparaît régulièrement dans les cartographies de la chaîne de valeur robotique coréenne, que ce soit pour Boston Dynamics, Rainbow Robotics, Samsung ou les plateformes liées à LG.
 
 ### 3.2 Actionneurs : le module musculaire
 
 Un actionneur regroupe moteur, réducteur, driver et capteur en un module d'articulation. Un humanoïde peut utiliser 20 à 40 actionneurs ou plus, ce qui rend le prix et la fiabilité critiques.
 
-Les noms coréens dans ce segment incluent **Robotis**, **HL Mando**, **Hyundai Mobis** et **LG Electronics**. HL Mando cherche à étendre son savoir-faire en direction et freinage automobile vers les actionneurs robotiques. LG Electronics a mis l'accent sur la production d'actionneurs, ceux-ci représentant une part importante du coût d'un robot.
+Les noms coréens dans ce segment incluent <strong>Robotis</strong>, <strong>HL Mando</strong>, <strong>Hyundai Mobis</strong> et <strong>LG Electronics</strong>. HL Mando cherche à étendre son savoir-faire en direction et freinage automobile vers les actionneurs robotiques. LG Electronics a mis l'accent sur la production d'actionneurs, ceux-ci représentant une part importante du coût d'un robot.
 
 ### 3.3 Caméras et capteurs : les yeux
 
 L'IA physique a besoin de perception. Caméras, lidar, centrales inertielles et capteurs force-couple permettent aux robots de localiser des objets, de se déplacer parmi les humains et d'effectuer des saisies.
 
-**Samsung Electro-Mechanics** et **LG Innotek** sont les noms coréens naturels ici, car les deux produisent déjà en masse des modules caméra pour smartphones, véhicules et applications adjacentes. Samsung Electro-Mechanics a évoqué des modules de reconnaissance haute résolution pour des clients humanoïdes et une technologie de caméra compacte et fine pour la préhension précise. Des médias ont signalé une production de modules caméra humanoïde au second semestre 2026.
+<strong>Samsung Electro-Mechanics</strong> et <strong>LG Innotek</strong> sont les noms coréens naturels ici, car les deux produisent déjà en masse des modules caméra pour smartphones, véhicules et applications adjacentes. Samsung Electro-Mechanics a évoqué des modules de reconnaissance haute résolution pour des clients humanoïdes et une technologie de caméra compacte et fine pour la préhension précise. Des médias ont signalé une production de modules caméra humanoïde au second semestre 2026.
 
 ### 3.4 Batteries et alimentation
 
 Les humanoïdes consomment de l'énergie à travers leurs moteurs, systèmes informatiques et capteurs. La densité énergétique et la sécurité des batteries sont donc essentielles.
 
-**LG Energy Solution** et **Samsung SDI** sont les noms coréens naturels dans la couche alimentation. Samsung SDI a évoqué les batteries à l'état solide pour l'IA physique, tandis que LG Energy Solution dispose de capacités approfondies en fabrication de cellules et de packs pouvant s'étendre à la robotique.
+<strong>LG Energy Solution</strong> et <strong>Samsung SDI</strong> sont les noms coréens naturels dans la couche alimentation. Samsung SDI a évoqué les batteries à l'état solide pour l'IA physique, tandis que LG Energy Solution dispose de capacités approfondies en fabrication de cellules et de packs pouvant s'étendre à la robotique.
 
 ### 3.5 Assemblage et fabrication
 
-Un robot est aussi un produit manufacturé avec précision. Châssis, coques, câblage, gestion thermique, tests qualité et assemblage final comptent tous. **Intops** est souvent mentionné comme candidat à l'assemblage OEM en raison de son expérience en fabrication électronique.
+Un robot est aussi un produit manufacturé avec précision. Châssis, coques, câblage, gestion thermique, tests qualité et assemblage final comptent tous. <strong>Intops</strong> est souvent mentionné comme candidat à l'assemblage OEM en raison de son expérience en fabrication électronique.
 
 C'est ici que la base manufacturière élargie de la Corée devient pertinente. La robotique se situe à l'intersection de l'électronique et des équipements automobiles. La Corée dispose des deux.
 

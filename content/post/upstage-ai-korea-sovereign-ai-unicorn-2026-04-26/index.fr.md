@@ -8,18 +8,18 @@ tags: ["Upstage AI", "Solar LLM", "Document AI", "Document Parse", "IA souverain
 series: ["korea-ai-sovereign-stack-2026"]
 ---
 
-> **Analyse approfondie de l'IA coréenne.** Il serait réducteur — et probablement erroné — de présenter Upstage comme « le ChatGPT coréen ». Le cadre d'analyse le plus pertinent pour un investisseur est bien plus précis : Upstage est la première option privée crédible de Corée sur l'IA souveraine, l'intelligence documentaire en entreprise, la spécialisation linguistique coréen/japonais, et la couche applicative où les industries régulées acceptent réellement de payer.
+> <strong>Analyse approfondie de l'IA coréenne.</strong> Il serait réducteur — et probablement erroné — de présenter Upstage comme « le ChatGPT coréen ». Le cadre d'analyse le plus pertinent pour un investisseur est bien plus précis : Upstage est la première option privée crédible de Corée sur l'IA souveraine, l'intelligence documentaire en entreprise, la spécialisation linguistique coréen/japonais, et la couche applicative où les industries régulées acceptent réellement de payer.
 
 ---
 
 ## En bref
 
-1. **Upstage est la première licorne coréenne de l'IA générative, mais ce titre n'est que la partie visible de l'iceberg.** La société a bouclé un premier closing de Série C d'environ KRW 180 milliards / US$135M en avril 2026, avec une valorisation rapportée supérieure à KRW 1 billion / US$1 milliard et un financement cumulé d'environ KRW 400 milliards. Le prix n'est pas donné : le chiffre d'affaires 2025 annoncé de KRW 24,8 milliards implique un multiple de ventes historiques sur les marchés privés supérieur à 40x. Le marché paie pour le leadership de catégorie, pas pour les bénéfices actuels.
-2. **Le produit central n'est pas un chatbot, c'est une stack d'IA pour l'entreprise.** Cette stack comporte trois couches : les LLM Solar pour le raisonnement et le langage, Document Parse / Information Extract pour transformer des documents non structurés en données exploitables par les machines, et Studio / les produits de workflow pour l'automatisation agentique. Le point d'entrée est « une IA qui lit les documents d'entreprise et exécute des workflows métier », pas « une IA qui discute ».
-3. **Solar Pro 3 renforce la crédibilité technique.** Upstage décrit Solar Pro 3 comme un modèle MoE de 102 milliards de paramètres activant 12 milliards de paramètres par token, avec une amélioration d'environ 2x sur les benchmarks agentiques par rapport à Solar Pro 2 et une qualité améliorée en raisonnement coréen, à interface API et comportement de service identiques. Le rapport technique de Solar Open décrit également une approche MoE bilingue à 102 milliards de paramètres pour les langues peu dotées, recourant à des données synthétiques, un apprentissage par curriculum et l'apprentissage par renforcement SnapPO.
-4. **La thèse stratégique repose sur l'IA souveraine.** Upstage a progressé dans le projet gouvernemental coréen de modèle fondateur propriétaire, aux côtés de LG AI Research et SK Telecom à l'issue du premier tour d'évaluation. La collaboration signée avec AMD en mars 2026 positionne Upstage sur les GPU MI355 et ROCm, tandis qu'AWS demeure un partenaire cloud clé. Cela confère à Upstage une dimension géopolitique et infrastructurelle que la plupart des startups logicielles coréennes ne possèdent pas.
-5. **Le Japon n'est pas une note de bas de page ; c'est l'option d'un second marché domestique.** Syn Pro, co-développé avec Karakuri et certifié dans le cadre du programme japonais GENIAC de modèles fondateurs domestiques (METI/NEDO), offre à Upstage une voie crédible vers l'entreprise japonaise et le secteur public.
-6. **Avis d'investissement : qualité de capital-risque, mais jalons opérationnels exigeants.** Je considérerais Upstage comme la société d'IA privée coréenne la plus importante à surveiller. Le scénario haussier est « Palantir + Mistral + ABBYY + IA de workflow vertical coréen » réunis en une seule entité. Le risque est que les dépenses liées aux modèles fondateurs consomment le capital plus vite que ne progresse le chiffre d'affaires des workflows documentaires.
+1. <strong>Upstage est la première licorne coréenne de l'IA générative, mais ce titre n'est que la partie visible de l'iceberg.</strong> La société a bouclé un premier closing de Série C d'environ KRW 180 milliards / US$135M en avril 2026, avec une valorisation rapportée supérieure à KRW 1 billion / US$1 milliard et un financement cumulé d'environ KRW 400 milliards. Le prix n'est pas donné : le chiffre d'affaires 2025 annoncé de KRW 24,8 milliards implique un multiple de ventes historiques sur les marchés privés supérieur à 40x. Le marché paie pour le leadership de catégorie, pas pour les bénéfices actuels.
+2. <strong>Le produit central n'est pas un chatbot, c'est une stack d'IA pour l'entreprise.</strong> Cette stack comporte trois couches : les LLM Solar pour le raisonnement et le langage, Document Parse / Information Extract pour transformer des documents non structurés en données exploitables par les machines, et Studio / les produits de workflow pour l'automatisation agentique. Le point d'entrée est « une IA qui lit les documents d'entreprise et exécute des workflows métier », pas « une IA qui discute ».
+3. <strong>Solar Pro 3 renforce la crédibilité technique.</strong> Upstage décrit Solar Pro 3 comme un modèle MoE de 102 milliards de paramètres activant 12 milliards de paramètres par token, avec une amélioration d'environ 2x sur les benchmarks agentiques par rapport à Solar Pro 2 et une qualité améliorée en raisonnement coréen, à interface API et comportement de service identiques. Le rapport technique de Solar Open décrit également une approche MoE bilingue à 102 milliards de paramètres pour les langues peu dotées, recourant à des données synthétiques, un apprentissage par curriculum et l'apprentissage par renforcement SnapPO.
+4. <strong>La thèse stratégique repose sur l'IA souveraine.</strong> Upstage a progressé dans le projet gouvernemental coréen de modèle fondateur propriétaire, aux côtés de LG AI Research et SK Telecom à l'issue du premier tour d'évaluation. La collaboration signée avec AMD en mars 2026 positionne Upstage sur les GPU MI355 et ROCm, tandis qu'AWS demeure un partenaire cloud clé. Cela confère à Upstage une dimension géopolitique et infrastructurelle que la plupart des startups logicielles coréennes ne possèdent pas.
+5. <strong>Le Japon n'est pas une note de bas de page ; c'est l'option d'un second marché domestique.</strong> Syn Pro, co-développé avec Karakuri et certifié dans le cadre du programme japonais GENIAC de modèles fondateurs domestiques (METI/NEDO), offre à Upstage une voie crédible vers l'entreprise japonaise et le secteur public.
+6. <strong>Avis d'investissement : qualité de capital-risque, mais jalons opérationnels exigeants.</strong> Je considérerais Upstage comme la société d'IA privée coréenne la plus importante à surveiller. Le scénario haussier est « Palantir + Mistral + ABBYY + IA de workflow vertical coréen » réunis en une seule entité. Le risque est que les dépenses liées aux modèles fondateurs consomment le capital plus vite que ne progresse le chiffre d'affaires des workflows documentaires.
 
 ---
 
@@ -31,7 +31,7 @@ C'est pour cela qu'Upstage compte.
 
 Le titre le plus courant est qu'Upstage est devenue la première licorne coréenne de l'IA générative. Utile, mais insuffisant. Un titre de licorne nous dit que les investisseurs ont payé cher. Il ne nous dit pas pourquoi.
 
-La vraie question est la suivante : **quel actif rare Upstage cherche-t-elle à construire ?**
+La vraie question est la suivante : <strong>quel actif rare Upstage cherche-t-elle à construire ?</strong>
 
 Ma réponse est qu'Upstage cherche à s'approprier la couche applicative de l'IA d'entreprise coréenne et japonaise. Pas la couche chat grand public. Pas une large application sociale. Pas un simple projet de classement sur les benchmarks. Le point d'entrée est une stack capable de lire des documents complexes, de raisonner dessus en coréen/japonais/anglais, de fonctionner dans des environnements d'entreprise ou réglementés, et d'automatiser des workflows dans l'assurance, la finance, le secteur public, l'industrie, la santé et les médias.
 
@@ -84,11 +84,11 @@ Upstage dispose de quatre couches produit qui comptent pour les investisseurs.
 
 | Couche | Produit | Ce qu'il fait | Pourquoi c'est important |
 |---|---|---|---|
-| Modèle fondateur | **Solar Pro 3** | Modèle MoE à 102 milliards de paramètres, 12 milliards de paramètres actifs par token, raisonnement et performances agentiques améliorés | Confère une crédibilité propriétaire sur les cas d'usage enterprise coréen/anglais |
-| Modèle ouvert / souverain | **Solar Open** | Modèle MoE bilingue à 102 milliards de paramètres pour les langues peu dotées, avec données synthétiques et méthodologie RL SnapPO | Soutient la narrativité de l'IA souveraine coréenne et la crédibilité dans l'écosystème open |
-| Modèle japonais | **Syn Pro** | Modèle de 31 milliards de paramètres spécialisé pour le Japon, co-développé avec Karakuri et certifié dans le cadre du programme GENIAC de modèles fondateurs domestiques du Japon | Ouvre un second marché linguistique au-delà de la Corée |
-| Intelligence documentaire | **Document Parse / Information Extract** | Convertit PDF, scans, graphiques et tableaux en sorties structurées lisibles par les machines, puis en extrait les données clés | Le point d'entrée commercial pour l'assurance, la finance, le secteur public, la santé et la conformité |
-| Couche workflow | **Upstage Studio** | Couche low-code / construction d'agents pour les workflows documentaires | Rapproche la société de revenus issus de l'automatisation des workflows plutôt que de simples appels API bruts |
+| Modèle fondateur | <strong>Solar Pro 3</strong> | Modèle MoE à 102 milliards de paramètres, 12 milliards de paramètres actifs par token, raisonnement et performances agentiques améliorés | Confère une crédibilité propriétaire sur les cas d'usage enterprise coréen/anglais |
+| Modèle ouvert / souverain | <strong>Solar Open</strong> | Modèle MoE bilingue à 102 milliards de paramètres pour les langues peu dotées, avec données synthétiques et méthodologie RL SnapPO | Soutient la narrativité de l'IA souveraine coréenne et la crédibilité dans l'écosystème open |
+| Modèle japonais | <strong>Syn Pro</strong> | Modèle de 31 milliards de paramètres spécialisé pour le Japon, co-développé avec Karakuri et certifié dans le cadre du programme GENIAC de modèles fondateurs domestiques du Japon | Ouvre un second marché linguistique au-delà de la Corée |
+| Intelligence documentaire | <strong>Document Parse / Information Extract</strong> | Convertit PDF, scans, graphiques et tableaux en sorties structurées lisibles par les machines, puis en extrait les données clés | Le point d'entrée commercial pour l'assurance, la finance, le secteur public, la santé et la conformité |
+| Couche workflow | <strong>Upstage Studio</strong> | Couche low-code / construction d'agents pour les workflows documentaires | Rapproche la société de revenus issus de l'automatisation des workflows plutôt que de simples appels API bruts |
 
 La leçon stratégique est que le modèle est nécessaire mais pas suffisant. Solar donne à Upstage une place à la table. Le Document AI lui donne quelque chose à vendre.
 
@@ -151,9 +151,9 @@ Je classerais le modèle économique en trois catégories de revenus :
 
 | Catégorie de revenus | Monétisation | Qualité |
 |---|---|---|
-| **API / usage** | Solar et Document AI facturés par tokens, pages, requêtes ou crédits | Se dimensionne bien si l'usage est fidélisé, mais peut être soumis à la concurrence par les prix |
-| **Abonnement entreprise / engagement** | Engagements prépayés mensuels ou annuels, paliers de rate-limit, niveaux de support | Meilleure visibilité, notamment pour les comptes régulés |
-| **Déploiement on-prem / privé** | Tarification entreprise sur mesure pour les charges de travail critiques | Haute valeur, mais peut nécessiter un support et une intégration plus lourds |
+| <strong>API / usage</strong> | Solar et Document AI facturés par tokens, pages, requêtes ou crédits | Se dimensionne bien si l'usage est fidélisé, mais peut être soumis à la concurrence par les prix |
+| <strong>Abonnement entreprise / engagement</strong> | Engagements prépayés mensuels ou annuels, paliers de rate-limit, niveaux de support | Meilleure visibilité, notamment pour les comptes régulés |
+| <strong>Déploiement on-prem / privé</strong> | Tarification entreprise sur mesure pour les charges de travail critiques | Haute valeur, mais peut nécessiter un support et une intégration plus lourds |
 
 La page de tarification visible laisse penser que la société package déjà des paliers d'engagement, des niveaux de support et des workflows documentaires à la page. C'est encourageant. Cela signifie qu'Upstage ne vend pas seulement de la « magie IA » ; elle vend des unités que les clients peuvent budgétiser.
 
@@ -190,13 +190,13 @@ La carte des partenaires d'Upstage est inhabituellement stratégique pour une so
 
 | Partenaire / écosystème | Relation | Pourquoi c'est important |
 |---|---|---|
-| **AMD** | Collaboration stratégique élargie en mars 2026 ; Upstage déploie les GPU AMD Instinct MI355 et ROCm pour les LLM et les moteurs de traitement documentaire | Donne à Upstage une optionnalité computing et une narrativité d'infrastructure d'IA souveraine au-delà de la dépendance exclusive à NVIDIA |
-| **AWS** | Fournisseur cloud préféré ; participation d'Amazon au bridge Série B ; utilisation de SageMaker, Trainium et Inferentia mentionnée | Assure la distribution cloud mondiale et l'infrastructure d'entraînement/service |
-| **Samsung Brity Automation** | Partenaire pour les workflows intégrés d'IA et d'OCR | Contribue à la distribution des workflows enterprise en Corée |
-| **LG Electronics** | Partenaire pour l'intégration de Solar LLM dans l'IA on-device | Ouvre les cas d'usage on-device |
-| **Polaris Office** | Partenaire pour l'IA de productivité on-device | Étend la surface d'usage document/productivité |
-| **Karakuri** | Partenaire de co-développement japonais pour Syn Pro | Localise Upstage au-delà de la Corée et valide la stratégie japonaise |
-| **Hyundai Motor / Kia** | Nouveaux investisseurs en Série C | Signale une possible pertinence dans l'automobile, l'industrie et l'IA enterprise, mais l'impact sur les revenus commerciaux est [Incertain] |
+| <strong>AMD</strong> | Collaboration stratégique élargie en mars 2026 ; Upstage déploie les GPU AMD Instinct MI355 et ROCm pour les LLM et les moteurs de traitement documentaire | Donne à Upstage une optionnalité computing et une narrativité d'infrastructure d'IA souveraine au-delà de la dépendance exclusive à NVIDIA |
+| <strong>AWS</strong> | Fournisseur cloud préféré ; participation d'Amazon au bridge Série B ; utilisation de SageMaker, Trainium et Inferentia mentionnée | Assure la distribution cloud mondiale et l'infrastructure d'entraînement/service |
+| <strong>Samsung Brity Automation</strong> | Partenaire pour les workflows intégrés d'IA et d'OCR | Contribue à la distribution des workflows enterprise en Corée |
+| <strong>LG Electronics</strong> | Partenaire pour l'intégration de Solar LLM dans l'IA on-device | Ouvre les cas d'usage on-device |
+| <strong>Polaris Office</strong> | Partenaire pour l'IA de productivité on-device | Étend la surface d'usage document/productivité |
+| <strong>Karakuri</strong> | Partenaire de co-développement japonais pour Syn Pro | Localise Upstage au-delà de la Corée et valide la stratégie japonaise |
+| <strong>Hyundai Motor / Kia</strong> | Nouveaux investisseurs en Série C | Signale une possible pertinence dans l'automobile, l'industrie et l'IA enterprise, mais l'impact sur les revenus commerciaux est [Incertain] |
 
 Le partenariat AMD est particulièrement important. L'annonce de mars 2026 indique qu'Upstage déploiera immédiatement des GPU AMD Instinct MI355 dans le cadre d'une feuille de route multi-phases sur l'année suivante, soutenant à la fois la montée en échelle des LLM et les moteurs de traitement documentaire. Elle relie également ces travaux au projet gouvernemental coréen de modèle fondateur propriétaire.
 
@@ -222,9 +222,9 @@ Le projet gouvernemental vise à sélectionner les équipes finales d'ici fin 20
 
 Pour Upstage, cela crée trois formes de valeur optionnelle :
 
-1. **Option de crédibilité :** les clients enterprise peuvent faire davantage confiance à une société qui a passé l'examen technique gouvernemental.
-2. **Option d'infrastructure :** l'accès aux ressources GPU et au soutien à l'IA souveraine peut réduire les goulets d'étranglement.
-3. **Option d'export :** un modèle d'IA souverain coréen peut être packagé pour des pays souhaitant des stacks d'IA locaux sans en avoir la capacité de construction.
+1. <strong>Option de crédibilité :</strong> les clients enterprise peuvent faire davantage confiance à une société qui a passé l'examen technique gouvernemental.
+2. <strong>Option d'infrastructure :</strong> l'accès aux ressources GPU et au soutien à l'IA souveraine peut réduire les goulets d'étranglement.
+3. <strong>Option d'export :</strong> un modèle d'IA souverain coréen peut être packagé pour des pays souhaitant des stacks d'IA locaux sans en avoir la capacité de construction.
 
 L'angle export est important mais encore précoce. Le Vietnam, les Émirats arabes unis, le Japon et d'autres marchés peuvent vouloir des systèmes d'IA souverains. La stratégie japonaise Syn Pro d'Upstage montre un premier modèle : partenaire local, langue locale, certification locale, capacité on-prem.
 
@@ -254,16 +254,16 @@ L'élément à surveiller est le chiffre d'affaires. Les certifications et parte
 
 | Tendance | Impact | Pourquoi |
 |---|---|---|
-| **IA souveraine** | Fort vent arrière | La Corée, le Japon et d'autres pays veulent des modèles et infrastructures locaux. Upstage est l'un des rares laboratoires d'IA privés crédibles de Corée dans cette voie. |
-| **Automatisation documentaire en entreprise** | Fort vent arrière | Les workflows assurance, finance, secteur public et conformité sont lourds en documents et mesurables. C'est le meilleur levier de monétisation d'Upstage. |
-| **Spécialisation linguistique coréen/japonais** | Fort vent arrière | Les modèles américains de pointe sont puissants, mais la nuance locale, le déploiement on-prem et le confort réglementaire créent de l'espace pour les fournisseurs spécialisés. |
-| **Diversification GPU avec AMD** | Vent arrière | La collaboration MI355/ROCm donne à Upstage une optionnalité computing et s'inscrit dans les objectifs de politique d'IA souveraine. |
-| **Partenariat AWS et distribution marketplace** | Vent arrière | Le partenariat cloud facilite le déploiement mondial et réduit les frictions pour l'adoption enterprise. |
-| **Automatisation des workflows agentiques** | Vent arrière | Studio et les mises à niveau agentiques de Solar Pro 3 poussent Upstage vers la possession des workflows. |
-| **Concurrence des modèles open-source / bas coût** | Vent contraire | DeepSeek, Qwen, Llama et les modèles ouverts pressent les prix et rendent la différenciation sur le modèle brut plus difficile. |
-| **Escalade des dépenses d'investissement en modèles fondateurs** | Vent contraire | L'entraînement et le service de modèles peuvent consommer d'immenses capitaux. Upstage doit éviter de devenir une victime de la course aux dépenses. |
-| **Bundling enterprise par les grands acteurs technologiques** | Vent contraire | Microsoft/OpenAI, Google, AWS, Anthropic et les champions locaux peuvent intégrer l'IA dans leurs relations enterprise existantes. |
-| **Risque de valorisation sur les marchés privés coréens** | Vent contraire | Un multiple de ventes supérieur à 40x ne laisse que peu de marge pour une déception dans l'exécution. |
+| <strong>IA souveraine</strong> | Fort vent arrière | La Corée, le Japon et d'autres pays veulent des modèles et infrastructures locaux. Upstage est l'un des rares laboratoires d'IA privés crédibles de Corée dans cette voie. |
+| <strong>Automatisation documentaire en entreprise</strong> | Fort vent arrière | Les workflows assurance, finance, secteur public et conformité sont lourds en documents et mesurables. C'est le meilleur levier de monétisation d'Upstage. |
+| <strong>Spécialisation linguistique coréen/japonais</strong> | Fort vent arrière | Les modèles américains de pointe sont puissants, mais la nuance locale, le déploiement on-prem et le confort réglementaire créent de l'espace pour les fournisseurs spécialisés. |
+| <strong>Diversification GPU avec AMD</strong> | Vent arrière | La collaboration MI355/ROCm donne à Upstage une optionnalité computing et s'inscrit dans les objectifs de politique d'IA souveraine. |
+| <strong>Partenariat AWS et distribution marketplace</strong> | Vent arrière | Le partenariat cloud facilite le déploiement mondial et réduit les frictions pour l'adoption enterprise. |
+| <strong>Automatisation des workflows agentiques</strong> | Vent arrière | Studio et les mises à niveau agentiques de Solar Pro 3 poussent Upstage vers la possession des workflows. |
+| <strong>Concurrence des modèles open-source / bas coût</strong> | Vent contraire | DeepSeek, Qwen, Llama et les modèles ouverts pressent les prix et rendent la différenciation sur le modèle brut plus difficile. |
+| <strong>Escalade des dépenses d'investissement en modèles fondateurs</strong> | Vent contraire | L'entraînement et le service de modèles peuvent consommer d'immenses capitaux. Upstage doit éviter de devenir une victime de la course aux dépenses. |
+| <strong>Bundling enterprise par les grands acteurs technologiques</strong> | Vent contraire | Microsoft/OpenAI, Google, AWS, Anthropic et les champions locaux peuvent intégrer l'IA dans leurs relations enterprise existantes. |
+| <strong>Risque de valorisation sur les marchés privés coréens</strong> | Vent contraire | Un multiple de ventes supérieur à 40x ne laisse que peu de marge pour une déception dans l'exécution. |
 
 ---
 
@@ -359,13 +359,13 @@ Le Japon est stratégiquement attractif, mais les cycles de vente peuvent être 
 
 ## Jalons de suivi sur les 6 à 12 prochains mois
 
-1. **Deuxième tranche de la Série C et valorisation.** Upstage lève-t-elle des capitaux supplémentaires à ou au-dessus de la valorisation du premier closing, et de nouveaux investisseurs stratégiques rejoignent-ils le tour ?
-2. **Run-rate de revenus 2026.** Le chiffre d'affaires rapporté continue-t-il à croître à un rythme élevé à deux ou trois chiffres après avoir atteint KRW 24,8 milliards en 2025 ?
-3. **Avancement dans le projet d'IA souveraine.** Upstage reste-t-elle dans la course finale de l'équipe nationale à travers la prochaine phase d'évaluation ?
-4. **Adoption de Solar Pro 3 en production.** Les clients migrent-ils ou déploient-ils réellement Solar Pro 3 dans de vraies charges de travail, pas seulement dans des environnements de test ?
-5. **Gains enterprise en Document AI.** Y a-t-il davantage d'études de cas en assurance, finance, secteur public et santé avec un ROI mesurable ?
-6. **Preuves de revenus au Japon.** Syn Pro transforme-t-il la certification en déploiements enterprise japonais payants ?
-7. **Discipline des coûts d'infrastructure.** L'accès au calcul AMD/AWS améliore-t-il les prix, les marges ou la disponibilité ?
+1. <strong>Deuxième tranche de la Série C et valorisation.</strong> Upstage lève-t-elle des capitaux supplémentaires à ou au-dessus de la valorisation du premier closing, et de nouveaux investisseurs stratégiques rejoignent-ils le tour ?
+2. <strong>Run-rate de revenus 2026.</strong> Le chiffre d'affaires rapporté continue-t-il à croître à un rythme élevé à deux ou trois chiffres après avoir atteint KRW 24,8 milliards en 2025 ?
+3. <strong>Avancement dans le projet d'IA souveraine.</strong> Upstage reste-t-elle dans la course finale de l'équipe nationale à travers la prochaine phase d'évaluation ?
+4. <strong>Adoption de Solar Pro 3 en production.</strong> Les clients migrent-ils ou déploient-ils réellement Solar Pro 3 dans de vraies charges de travail, pas seulement dans des environnements de test ?
+5. <strong>Gains enterprise en Document AI.</strong> Y a-t-il davantage d'études de cas en assurance, finance, secteur public et santé avec un ROI mesurable ?
+6. <strong>Preuves de revenus au Japon.</strong> Syn Pro transforme-t-il la certification en déploiements enterprise japonais payants ?
+7. <strong>Discipline des coûts d'infrastructure.</strong> L'accès au calcul AMD/AWS améliore-t-il les prix, les marges ou la disponibilité ?
 
 ---
 
@@ -381,12 +381,12 @@ Elle est aussi coûteuse, concurrentielle et exigeante en exécution. Un multipl
 
 Mon cadre d'investissement pratique :
 
-- **Pour les investisseurs sur les marchés privés :** Upstage est un pari de haute qualité mais à forte attente sur une plateforme d'IA.
-- **Pour les observateurs de l'écosystème d'IA coréen :** Upstage est désormais une société centrale à suivre aux côtés de LG AI Research, SK Telecom, Naver Cloud, Samsung SDS, FuriosaAI et Rebellions.
+- <strong>Pour les investisseurs sur les marchés privés :</strong> Upstage est un pari de haute qualité mais à forte attente sur une plateforme d'IA.
+- <strong>Pour les observateurs de l'écosystème d'IA coréen :</strong> Upstage est désormais une société centrale à suivre aux côtés de LG AI Research, SK Telecom, Naver Cloud, Samsung SDS, FuriosaAI et Rebellions.
 
-La version agressive de la thèse est celle-ci : **si la Corée fait émerger un véritable champion logiciel en IA, Upstage est aujourd'hui le favori parmi les sociétés privées.**
+La version agressive de la thèse est celle-ci : <strong>si la Corée fait émerger un véritable champion logiciel en IA, Upstage est aujourd'hui le favori parmi les sociétés privées.</strong>
 
-La version disciplinée est celle-ci : **surveiller les revenus, l'adoption des workflows documentaires, le Japon, la sélection de l'IA souveraine et la discipline des coûts d'infrastructure.**
+La version disciplinée est celle-ci : <strong>surveiller les revenus, l'adoption des workflows documentaires, le Japon, la sélection de l'IA souveraine et la discipline des coûts d'infrastructure.</strong>
 
 Les deux peuvent être vraies.
 
@@ -394,7 +394,7 @@ Les deux peuvent être vraies.
 
 ## Notes de sources
 
-**Sources primaires / sources société utilisées**
+<strong>Sources primaires / sources société utilisées</strong>
 
 - Annonce officielle d'Upstage pour la Série C japonaise, avril 2026.
 - Matériaux officiels produit/blog Solar Pro 3 d'Upstage, mars 2026.
@@ -405,14 +405,14 @@ Les deux peuvent être vraies.
 - Annonce officielle du bridge Série B d'Upstage, août 2025.
 - Solar Open Technical Report, arXiv:2601.07022, janvier 2026.
 
-**Sources presse / marché utilisées**
+<strong>Sources presse / marché utilisées</strong>
 
 - Couverture en anglais du Seoul Economic Daily sur la Série C, la valorisation, le chiffre d'affaires et la base d'investisseurs d'Upstage, avril 2026.
 - Couverture en anglais de ChosunBiz sur le premier closing de KRW 180 milliards, le financement cumulé et la croissance d'Upstage, avril 2026.
 - Couverture du Korea JoongAng Daily et d'AJU Press sur le projet gouvernemental coréen de modèle fondateur propriétaire, janvier 2026.
 - Communiqué de presse officiel AMD sur la collaboration avec Upstage, mars 2026.
 
-**Limites et éléments [Incertains]**
+<strong>Limites et éléments [Incertains]</strong>
 
 - Upstage étant une société privée, les revenus par client, la marge brute, la consommation de trésorerie, les engagements GPU, la rétention et le tableau de capitalisation complet ne sont pas divulgués publiquement.
 - Le chiffre d'affaires 2025 rapporté de KRW 24,8 milliards et la croissance annuelle supérieure à 130 % se fondent sur des reportages médias / références société, et non sur un dépôt public audité.

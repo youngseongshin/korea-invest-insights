@@ -28,20 +28,20 @@ valley_cashtags:
   - 효성중공업
 ---
 
-> 📚 **Série associée**
+> 📚 <strong>Série associée</strong>
 > [Avant-première Google I/O + résultats NVIDIA]/fr/post/google-io-nvidia-earnings-korea-semi-preview-2026-05-17/) / [Infrastructures IA coréennes après NVIDIA Q1 FY27]/fr/post/nvidia-q1-fy27-korea-ai-infra-supply-chain-2026-05-21/) / [Samsung Electronics : réévaluation à la TSMC]/fr/post/samsung-electronics-tsmc-rerating-thesis-2026-05-16/) / [Samsung Electro-Mechanics Hybrid Challenger]/fr/post/samsung-electro-mechanics-hybrid-challenger-2026-05-17/) / [Snapshot de marché du 17 mai]/fr/post/macro-snapshot-complex-risk-off-recovery-triggers-2026-05-17/)
 
 *Google I/O 2026 n'était pas une simple annonce de modèle. C'était un événement qui a réuni Gemini 3.5, Gemini Omni, Gemini Spark, Antigravity, AI Search, Universal Cart et Android XR pour transformer l'ensemble du portefeuille produits de Google en OS agentique. La recherche passe d'une fenêtre affichant des liens à une interface qui exécute des tâches ; le shopping devient un agent panier ; les outils développeurs deviennent un runtime capable de faire tourner plusieurs agents en parallèle. Du point de vue de l'investissement, ce qui compte n'est pas Alphabet lui-même, mais les goulots d'étranglement que crée cette transformation : débit de tokens, trafic d'inférence, CapEx datacenter, HBM, packaging, intégrité d'alimentation, PCB haute couche et équipements électriques. Après Google I/O, l'alpha coréen ne vient pas des modèles — il vient des goulots d'étranglement.*
 
 ## Points clés
 
-* **L'essence de Google I/O 2026** : Google a regroupé Gemini 3.5 Flash, Gemini Omni Flash, les agents Search, Gemini Spark, Antigravity 2.0, la Managed Agents API, Universal Cart et Android XR en une seule couche produit agentique.
-* **La thèse de l'effondrement de la recherche n'est pas encore confirmée par les chiffres** : les revenus Search & other d'Alphabet au T1 2026 s'établissent à 60,399 milliards de dollars, en hausse d'environ 19,1 % par rapport aux 50,702 milliards de la même période l'an dernier. Pour l'instant, cela ressemble moins à l'IA qui grignote la recherche qu'à Google qui absorbe la recherche dans une interface IA.
-* **Le chiffre le plus important est le débit de tokens** : Google a révélé que les tokens traités mensuellement sont passés de 9 700 milliards en mai 2024, à environ 480 000 milliards lors de l'I/O 2025, puis à plus de 32 quadrillions en mai 2026. L'OS agentique fait passer l'unité d'usage des requêtes de recherche aux tokens, aux tâches et aux exécutions d'agents.
-* **L'action Alphabet confirme la valeur défensive ; la Corée doit suivre le goulot d'étranglement** : le dossier d'Alphabet en tant qu'entreprise IA full-stack s'est renforcé, mais sa capitalisation boursière autour de 4 000 milliards de dollars et un multiple de résultats d'environ 30× intègrent déjà des attentes élevées. Le vrai alpha frais est davantage visible dans la HBM, le packaging, l'intégrité d'alimentation, les PCB et l'alimentation des datacenters.
-* **Priorités coréennes** : Samsung Electro-Mechanics > Samsung Electronics > SK Hynix > Équipements de test/socket/HBM > ISU Petasys · Daeduck Electronics · TLB · Korea Circuit > Équipements électriques.
-* **Meilleure idée individuelle** : Samsung Electro-Mechanics. Le contrat de condensateurs silicium de 1 557 milliards de KRW prouve que la stabilisation d'alimentation au sein des packages IA est devenue un goulot d'étranglement à part entière.
-* **Conditions macro** : si les sept portes macro du snapshot du 17 mai n'ont pas été franchies, les valeurs d'infrastructure IA à P/E élevé peuvent vaciller même avec une bonne thèse. Rentrer progressivement après confirmation vaut mieux que courir après la hausse.
+* <strong>L'essence de Google I/O 2026</strong> : Google a regroupé Gemini 3.5 Flash, Gemini Omni Flash, les agents Search, Gemini Spark, Antigravity 2.0, la Managed Agents API, Universal Cart et Android XR en une seule couche produit agentique.
+* <strong>La thèse de l'effondrement de la recherche n'est pas encore confirmée par les chiffres</strong> : les revenus Search & other d'Alphabet au T1 2026 s'établissent à 60,399 milliards de dollars, en hausse d'environ 19,1 % par rapport aux 50,702 milliards de la même période l'an dernier. Pour l'instant, cela ressemble moins à l'IA qui grignote la recherche qu'à Google qui absorbe la recherche dans une interface IA.
+* <strong>Le chiffre le plus important est le débit de tokens</strong> : Google a révélé que les tokens traités mensuellement sont passés de 9 700 milliards en mai 2024, à environ 480 000 milliards lors de l'I/O 2025, puis à plus de 32 quadrillions en mai 2026. L'OS agentique fait passer l'unité d'usage des requêtes de recherche aux tokens, aux tâches et aux exécutions d'agents.
+* <strong>L'action Alphabet confirme la valeur défensive ; la Corée doit suivre le goulot d'étranglement</strong> : le dossier d'Alphabet en tant qu'entreprise IA full-stack s'est renforcé, mais sa capitalisation boursière autour de 4 000 milliards de dollars et un multiple de résultats d'environ 30× intègrent déjà des attentes élevées. Le vrai alpha frais est davantage visible dans la HBM, le packaging, l'intégrité d'alimentation, les PCB et l'alimentation des datacenters.
+* <strong>Priorités coréennes</strong> : Samsung Electro-Mechanics > Samsung Electronics > SK Hynix > Équipements de test/socket/HBM > ISU Petasys · Daeduck Electronics · TLB · Korea Circuit > Équipements électriques.
+* <strong>Meilleure idée individuelle</strong> : Samsung Electro-Mechanics. Le contrat de condensateurs silicium de 1 557 milliards de KRW prouve que la stabilisation d'alimentation au sein des packages IA est devenue un goulot d'étranglement à part entière.
+* <strong>Conditions macro</strong> : si les sept portes macro du snapshot du 17 mai n'ont pas été franchies, les valeurs d'infrastructure IA à P/E élevé peuvent vaciller même avec une bonne thèse. Rentrer progressivement après confirmation vaut mieux que courir après la hausse.
 
 ---
 
@@ -299,12 +299,12 @@ La priorité coréenne n'est donc pas un concepteur de puces américain spécifi
 
 ### Conditions d'entrée
 
-* **Samsung Electro-Mechanics** : Confirmation de clients supplémentaires en condensateurs silicium, plans d'expansion et potentielle désagrégation des revenus MLCC IA/FC-BGA.
-* **Samsung Electronics** : Qualification clients HBM4, die de base HBM4, volumes vers clients Google/Broadcom/ASIC, ou signes de reprise de la fonderie.
-* **SK Hynix** : Les prix HBM4 se maintiennent, montée en puissance NVIDIA Rubin, correction de 10–15 %, ou apaisement de la surchauffe offre-demande.
-* **PCB / Substrats** : Quand le mix de revenus orienté IA, la prime ASP et le maintien de la marge opérationnelle sont confirmés dans les résultats trimestriels.
-* **Test / Socket** : Confirmation des références clients TPU/ASIC/HBM et des nouveaux revenus socket.
-* **Équipements électriques** : Quand la croissance du carnet de commandes en datacenters nord-américains et le maintien de la marge opérationnelle sont confirmés simultanément.
+* <strong>Samsung Electro-Mechanics</strong> : Confirmation de clients supplémentaires en condensateurs silicium, plans d'expansion et potentielle désagrégation des revenus MLCC IA/FC-BGA.
+* <strong>Samsung Electronics</strong> : Qualification clients HBM4, die de base HBM4, volumes vers clients Google/Broadcom/ASIC, ou signes de reprise de la fonderie.
+* <strong>SK Hynix</strong> : Les prix HBM4 se maintiennent, montée en puissance NVIDIA Rubin, correction de 10–15 %, ou apaisement de la surchauffe offre-demande.
+* <strong>PCB / Substrats</strong> : Quand le mix de revenus orienté IA, la prime ASP et le maintien de la marge opérationnelle sont confirmés dans les résultats trimestriels.
+* <strong>Test / Socket</strong> : Confirmation des références clients TPU/ASIC/HBM et des nouveaux revenus socket.
+* <strong>Équipements électriques</strong> : Quand la croissance du carnet de commandes en datacenters nord-américains et le maintien de la marge opérationnelle sont confirmés simultanément.
 
 ### Catalyseurs
 
@@ -356,7 +356,7 @@ Les chiffres d'Alphabet au T1 2026 montrent que cette transition n'a pas encore 
 
 Mais le vrai point d'investissement est le goulot d'étranglement de l'infrastructure IA, pas Alphabet elle-même. Google a révélé que les tokens traités mensuellement sont passés de 9 700 milliards en mai 2024 à plus de 32 quadrillions en mai 2026. Il a également indiqué que le CapEx pourrait passer de 31 milliards de dollars en 2022 à environ 180 à 190 milliards de dollars cette année. Ce changement est une fonction de demande pour la HBM, le packaging, l'intégrité d'alimentation, les PCB et l'infrastructure électrique.
 
-Les priorités coréennes sont claires. **Samsung Electro-Mechanics** a confirmé le goulot d'étranglement d'intégrité d'alimentation des packages IA via un contrat réel à grande échelle de condensateurs silicium. **Samsung Electronics** est une option où la multipolarité TPU/ASIC peut réduire la décote de retardataire HBM. **SK Hynix** reste le titre HBM le plus solide mais est déjà un trade encombré. **Les PCB/substrats, le test et les équipements électriques** présentent un potentiel bénéficiaire significatif mais nécessitent une confirmation des résultats.
+Les priorités coréennes sont claires. <strong>Samsung Electro-Mechanics</strong> a confirmé le goulot d'étranglement d'intégrité d'alimentation des packages IA via un contrat réel à grande échelle de condensateurs silicium. <strong>Samsung Electronics</strong> est une option où la multipolarité TPU/ASIC peut réduire la décote de retardataire HBM. <strong>SK Hynix</strong> reste le titre HBM le plus solide mais est déjà un trade encombré. <strong>Les PCB/substrats, le test et les équipements électriques</strong> présentent un potentiel bénéficiaire significatif mais nécessitent une confirmation des résultats.
 
 La conclusion est simple. L'alpha post-Google I/O ne vient pas de « quel modèle est le plus intelligent » mais de « où la croissance de l'utilisation agentique force des dépenses sur les goulots d'étranglement ». La réponse n'est pas Alphabet seul. C'est la HBM, le packaging, les condensateurs silicium, les PCB haute couche et l'alimentation des datacenters. Parmi ceux-ci, l'alpha coréen le plus frais en ce moment est Samsung Electro-Mechanics. Mais tant que les portes macro ne sont pas ouvertes, rentrer progressivement après confirmation vaut mieux que courir après la hausse.
 

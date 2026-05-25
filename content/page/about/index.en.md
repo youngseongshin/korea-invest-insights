@@ -7,7 +7,7 @@ layout: "page"
 
 ## Korea Invest Insights
 
-A **multilingual Korean market intelligence blog** run by a professional investor based in Seoul. We publish daily analysis in **7 languages** for international investors who lack access to quality Korean market coverage.
+A <strong>multilingual Korean market intelligence blog</strong> run by a professional investor based in Seoul. We publish daily analysis in <strong>7 languages</strong> for international investors who lack access to quality Korean market coverage.
 
 ---
 
@@ -15,21 +15,21 @@ A **multilingual Korean market intelligence blog** run by a professional investo
 
 | Content | Frequency | Description |
 |---------|-----------|-------------|
-| **Daily Market Intelligence** | Weekdays | Themes, catalysts, and risk analysis |
-| **Market Close Reports** | Weekdays | Market regime, sector strength/weakness, key news |
-| **Weekly Strategy** | Fridays | Bull/bear cases, investment opportunities |
-| **Company Deep-Dives** | 2x per week | 18 companies across 8 sectors (4-week rotation) |
+| <strong>Daily Market Intelligence</strong> | Weekdays | Themes, catalysts, and risk analysis |
+| <strong>Market Close Reports</strong> | Weekdays | Market regime, sector strength/weakness, key news |
+| <strong>Weekly Strategy</strong> | Fridays | Bull/bear cases, investment opportunities |
+| <strong>Company Deep-Dives</strong> | 2x per week | 18 companies across 8 sectors (4-week rotation) |
 
 ### Sector Coverage
 
-- **Semiconductor / HBM** — SK hynix, Samsung Electronics
-- **K-Beauty** — Pharma Research (Rejuran), APR (Medicube), Cosmax, CJ (Olive Young)
-- **K-Defense** — Hanwha Aerospace, LIG Nex1, Hanwha Ocean
-- **Gaming** — Pearl Abyss (Crimson Desert), Krafton (PUBG)
-- **K-Food** — Samyang Foods (Buldak Ramen)
-- **Auto / EV** — Hyundai Motor, Kia, Hyundai Mobis (Boston Dynamics)
-- **Shipbuilding** — Samsung Heavy Industries, Hanwha Ocean
-- **Entertainment** — HYBE (BTS), YG Entertainment (BLACKPINK)
+- <strong>Semiconductor / HBM</strong> — SK hynix, Samsung Electronics
+- <strong>K-Beauty</strong> — Pharma Research (Rejuran), APR (Medicube), Cosmax, CJ (Olive Young)
+- <strong>K-Defense</strong> — Hanwha Aerospace, LIG Nex1, Hanwha Ocean
+- <strong>Gaming</strong> — Pearl Abyss (Crimson Desert), Krafton (PUBG)
+- <strong>K-Food</strong> — Samyang Foods (Buldak Ramen)
+- <strong>Auto / EV</strong> — Hyundai Motor, Kia, Hyundai Mobis (Boston Dynamics)
+- <strong>Shipbuilding</strong> — Samsung Heavy Industries, Hanwha Ocean
+- <strong>Entertainment</strong> — HYBE (BTS), YG Entertainment (BLACKPINK)
 
 ### Available Languages
 
@@ -39,16 +39,16 @@ A **multilingual Korean market intelligence blog** run by a professional investo
 
 ### Subscribe & Connect
 
-- 📱 **Telegram**: [@korea_invest_insights](https://t.me/korea_invest_insights) — New post alerts
-- 📡 **RSS**: [Subscribe to feed](/feed.xml)
+- 📱 <strong>Telegram</strong>: [@korea_invest_insights](https://t.me/korea_invest_insights) — New post alerts
+- 📡 <strong>RSS</strong>: [Subscribe to feed](/feed.xml)
 
 ---
 
 ### Why Korea
 
-South Korea is the world's 10th largest economy and a global leader in **semiconductors (HBM)**, **EV batteries**, **defense exports**, and **K-Content**. Yet quality market analysis in languages beyond Korean and English remains extremely scarce.
+South Korea is the world's 10th largest economy and a global leader in <strong>semiconductors (HBM)</strong>, <strong>EV batteries</strong>, <strong>defense exports</strong>, and <strong>K-Content</strong>. Yet quality market analysis in languages beyond Korean and English remains extremely scarce.
 
-This blog delivers **local professional investor perspectives** on the Korean market, simultaneously published in 7 languages through an AI-powered translation pipeline.
+This blog delivers <strong>local professional investor perspectives</strong> on the Korean market, simultaneously published in 7 languages through an AI-powered translation pipeline.
 
 ---
 

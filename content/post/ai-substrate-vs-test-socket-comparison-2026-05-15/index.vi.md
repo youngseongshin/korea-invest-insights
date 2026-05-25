@@ -23,13 +23,13 @@ series: ""
 
 ## Những điểm mấu chốt
 
-* **Hai mảng trong AI back-end**: substrate và test socket.
-* **Bản chất substrate**: "beta CAPEX trực tiếp" vào việc xây dựng máy chủ AI. Sản lượng tăng → doanh thu tăng; gói lớn hơn → ASP cao hơn.
-* **Bản chất test socket**: "beta vật tư tiêu hao biên cao" trên độ phức tạp chip. Chip phức tạp hơn → kiểm thử khó hơn → socket nhiều hơn và khắc nghiệt hơn.
-* **Khoảng cách sinh lời**: theo 1Q26, Daeduck Electronics 14,8% so với ISC 35% so với LEENO Industrial 47,4%. **Test socket vượt trội hoàn toàn**.
-* **Khoảng cách momentum**: điều chỉnh lợi nhuận của substrate nhanh hơn — tăng ASP, LTA mới với big-tech, căng thẳng công suất đều là chất xúc tác gần kỳ.
-* **Rủi ro chu kỳ**: substrate thuộc chu kỳ CAPEX (thiếu hụt → CAPEX → dư thừa). Test socket, vốn là vật tư tiêu hao, có tính chu kỳ thấp hơn nhiều.
-* **Kết luận**: giao dịch momentum ngắn hạn → substrate (Daeduck Electronics, Samsung Electro-Mechanics). Tích lũy 1–2 năm → test socket (LEENO Industrial, ISC). Đây không phải cùng một "chủ đề AI."
+* <strong>Hai mảng trong AI back-end</strong>: substrate và test socket.
+* <strong>Bản chất substrate</strong>: "beta CAPEX trực tiếp" vào việc xây dựng máy chủ AI. Sản lượng tăng → doanh thu tăng; gói lớn hơn → ASP cao hơn.
+* <strong>Bản chất test socket</strong>: "beta vật tư tiêu hao biên cao" trên độ phức tạp chip. Chip phức tạp hơn → kiểm thử khó hơn → socket nhiều hơn và khắc nghiệt hơn.
+* <strong>Khoảng cách sinh lời</strong>: theo 1Q26, Daeduck Electronics 14,8% so với ISC 35% so với LEENO Industrial 47,4%. <strong>Test socket vượt trội hoàn toàn</strong>.
+* <strong>Khoảng cách momentum</strong>: điều chỉnh lợi nhuận của substrate nhanh hơn — tăng ASP, LTA mới với big-tech, căng thẳng công suất đều là chất xúc tác gần kỳ.
+* <strong>Rủi ro chu kỳ</strong>: substrate thuộc chu kỳ CAPEX (thiếu hụt → CAPEX → dư thừa). Test socket, vốn là vật tư tiêu hao, có tính chu kỳ thấp hơn nhiều.
+* <strong>Kết luận</strong>: giao dịch momentum ngắn hạn → substrate (Daeduck Electronics, Samsung Electro-Mechanics). Tích lũy 1–2 năm → test socket (LEENO Industrial, ISC). Đây không phải cùng một "chủ đề AI."
 
 ---
 
@@ -649,15 +649,15 @@ Bài sụp đổ KOSPI + cổng vĩ mô:
 
 ## 9. Kết luận một câu
 
-Khi chip AI bán chạy, người hưởng lợi đầu tiên là các nhà sản xuất GPU và HBM. Nhưng back-end cũng có hai người chiến thắng lớn — **substrate và test socket**.
+Khi chip AI bán chạy, người hưởng lợi đầu tiên là các nhà sản xuất GPU và HBM. Nhưng back-end cũng có hai người chiến thắng lớn — <strong>substrate và test socket</strong>.
 
-Cả hai đều được gộp là "AI back-end," nhưng cấu trúc hoàn toàn khác nhau. **Substrate là "beta sản lượng máy chủ AI."** Sản lượng tăng, gói lớn hơn, ASP tăng — tiềm năng tăng trực tiếp. Momentum nhanh và biên lợi nhuận hoạt động mở rộng từ nền \~12–15% trong 1Q26. Nhưng đây là ngành chu kỳ CAPEX, và ngày xây dựng hoàn tất là rủi ro.
+Cả hai đều được gộp là "AI back-end," nhưng cấu trúc hoàn toàn khác nhau. <strong>Substrate là "beta sản lượng máy chủ AI."</strong> Sản lượng tăng, gói lớn hơn, ASP tăng — tiềm năng tăng trực tiếp. Momentum nhanh và biên lợi nhuận hoạt động mở rộng từ nền \~12–15% trong 1Q26. Nhưng đây là ngành chu kỳ CAPEX, và ngày xây dựng hoàn tất là rủi ro.
 
-**Test socket là "beta độ phức tạp chip."** Chip phức tạp hơn, kiểm thử khó hơn, socket mới cần thiết mỗi lần. OPM ở mức 35% cho ISC và 47% cho LEENO — cao hơn khoảng 3 lần biên substrate. Kinh tế vật tư tiêu hao làm giảm tính chu kỳ. Mặt trái: TAM nhỏ và bội số đã ở mức giàu.
+<strong>Test socket là "beta độ phức tạp chip."</strong> Chip phức tạp hơn, kiểm thử khó hơn, socket mới cần thiết mỗi lần. OPM ở mức 35% cho ISC và 47% cho LEENO — cao hơn khoảng 3 lần biên substrate. Kinh tế vật tư tiêu hao làm giảm tính chu kỳ. Mặt trái: TAM nhỏ và bội số đã ở mức giàu.
 
-**Đừng gộp chúng vào một "chủ đề AI."** Với momentum ngắn hạn, substrate (Daeduck Electronics, Samsung Electro-Mechanics) dẫn đầu. Với nắm giữ 1–2 năm, test socket (LEENO Industrial, ISC) có lý hơn. Cách chơi tốt nhất là nắm giữ cả hai như những thứ bổ sung cho nhau — khi substrate rung lắc ở đỉnh chu kỳ, test socket phòng thủ; khi test socket chịu áp lực bội số, momentum substrate bù đắp.
+<strong>Đừng gộp chúng vào một "chủ đề AI."</strong> Với momentum ngắn hạn, substrate (Daeduck Electronics, Samsung Electro-Mechanics) dẫn đầu. Với nắm giữ 1–2 năm, test socket (LEENO Industrial, ISC) có lý hơn. Cách chơi tốt nhất là nắm giữ cả hai như những thứ bổ sung cho nhau — khi substrate rung lắc ở đỉnh chu kỳ, test socket phòng thủ; khi test socket chịu áp lực bội số, momentum substrate bù đắp.
 
-**Cùng hưởng lợi từ AI, nhưng cấu trúc hoàn toàn khác nhau — chỉ hiểu được điều đó thôi đã nâng chất lượng quyết định đầu tư vào back-end lên một bậc hoàn toàn.**
+<strong>Cùng hưởng lợi từ AI, nhưng cấu trúc hoàn toàn khác nhau — chỉ hiểu được điều đó thôi đã nâng chất lượng quyết định đầu tư vào back-end lên một bậc hoàn toàn.</strong>
 
 ---
 

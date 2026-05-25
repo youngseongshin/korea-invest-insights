@@ -28,10 +28,10 @@ series: ["pearl-abyss-crimson-desert-thesis"]
 
 ## Resumen ejecutivo
 
-* Shinhan Securities elevó el 29 de abril su precio objetivo para Pearl Abyss de **₩41.000 a ₩72.000**, un incremento del 75,6%. Su estimación de beneficio operativo para el 1T26 de **₩254,7B** es **más del doble** del consenso de mercado de aproximadamente ₩125,0B.
-* En comparación con nuestro escenario base del 21 de abril (ingresos ₩395,0B, beneficio operativo ₩205,0B, margen operativo del 51,9%), la diferencia es de **+₩38,5B en ingresos, +₩49,7B en beneficio operativo y +6,9 p.p. en margen operativo**. Pero la variable clave no es el volumen de unidades. Shinhan asume **3,7 millones de unidades** reconocidas en el 1T — **250.000 unidades más conservadoras que nuestras 3,95 millones** — y aun así obtiene un beneficio operativo un 24% superior.
-* La diferencia es pura cuestión de **margen**. En su núcleo hay una sola línea: **gastos de marketing de ₩19,7B**. Esto es aproximadamente ₩10,0B por debajo de nuestra hipótesis de ₩30,0B, y esta única partida explica en torno a una quinta parte de la brecha en beneficio operativo. La eficiencia en el reconocimiento de ingresos (precio medio implícito por unidad de aproximadamente ₩91.000 para Crimson Desert frente a nuestros ₩79.800) explica el resto.
-* Conclusión: es un evento positivo que el sell-side convencional haya reflejado por primera vez oficialmente una sorpresa del 1T en sus cifras publicadas. Sin embargo, el objetivo de ₩72.000 representa únicamente el **límite superior** de nuestro rango de normalización (₩68.000–₩72.000) — queda por debajo de nuestro valor razonable principal (₩75.000), de nuestro precio de validación para 8,5M (aproximadamente ₩79.700) y de nuestro escenario alcista (₩86.000+). **Mantener, sin nuevas compras, iniciar reducción gradual cerca de ₩75.000, tomar beneficios activamente por encima de ₩86.000.** El marco de referencia no ha cambiado respecto al 21 de abril.
+* Shinhan Securities elevó el 29 de abril su precio objetivo para Pearl Abyss de <strong>₩41.000 a ₩72.000</strong>, un incremento del 75,6%. Su estimación de beneficio operativo para el 1T26 de <strong>₩254,7B</strong> es <strong>más del doble</strong> del consenso de mercado de aproximadamente ₩125,0B.
+* En comparación con nuestro escenario base del 21 de abril (ingresos ₩395,0B, beneficio operativo ₩205,0B, margen operativo del 51,9%), la diferencia es de <strong>+₩38,5B en ingresos, +₩49,7B en beneficio operativo y +6,9 p.p. en margen operativo</strong>. Pero la variable clave no es el volumen de unidades. Shinhan asume <strong>3,7 millones de unidades</strong> reconocidas en el 1T — <strong>250.000 unidades más conservadoras que nuestras 3,95 millones</strong> — y aun así obtiene un beneficio operativo un 24% superior.
+* La diferencia es pura cuestión de <strong>margen</strong>. En su núcleo hay una sola línea: <strong>gastos de marketing de ₩19,7B</strong>. Esto es aproximadamente ₩10,0B por debajo de nuestra hipótesis de ₩30,0B, y esta única partida explica en torno a una quinta parte de la brecha en beneficio operativo. La eficiencia en el reconocimiento de ingresos (precio medio implícito por unidad de aproximadamente ₩91.000 para Crimson Desert frente a nuestros ₩79.800) explica el resto.
+* Conclusión: es un evento positivo que el sell-side convencional haya reflejado por primera vez oficialmente una sorpresa del 1T en sus cifras publicadas. Sin embargo, el objetivo de ₩72.000 representa únicamente el <strong>límite superior</strong> de nuestro rango de normalización (₩68.000–₩72.000) — queda por debajo de nuestro valor razonable principal (₩75.000), de nuestro precio de validación para 8,5M (aproximadamente ₩79.700) y de nuestro escenario alcista (₩86.000+). <strong>Mantener, sin nuevas compras, iniciar reducción gradual cerca de ₩75.000, tomar beneficios activamente por encima de ₩86.000.</strong> El marco de referencia no ha cambiado respecto al 21 de abril.
 
 ---
 
@@ -88,7 +88,7 @@ Margen operativo Shinhan = 254,7 / 433,5 = 58,7%
 Margen operativo interno = 205,0 / 395,0 = 51,9%
 Diferencia de margen = 58,7 − 51,9 = 6,9 p.p.
 
-Observación clave: la brecha en beneficio operativo (24,2%) es 2,5 veces mayor que la brecha en ingresos (9,7%). Esto significa que el modelo de Shinhan no es una apuesta por un volumen de unidades agresivo — es una apuesta por **hipótesis de margen agresivas**.
+Observación clave: la brecha en beneficio operativo (24,2%) es 2,5 veces mayor que la brecha en ingresos (9,7%). Esto significa que el modelo de Shinhan no es una apuesta por un volumen de unidades agresivo — es una apuesta por <strong>hipótesis de margen agresivas</strong>.
 
 ### 2.2 Brecha en volumen de unidades — Shinhan es más conservador que nosotros
 
@@ -98,9 +98,9 @@ Curiosamente, el volumen de unidades reconocidas en el 1T que asume Shinhan es e
 | --- | ---: | ---: | ---: |
 | Unidades reconocidas en 1T | 3,70 millones | 3,95 millones | −250K (−6,3%) |
 
-Pearl Abyss anunció oficialmente **ventas acumuladas de 4 millones de unidades a 1 de abril y 5 millones a 15 de abril**. Nuestro modelo asume 3,95 millones de unidades partiendo de que las ventas acumuladas estaban muy próximas a 4 millones en el cierre contable del 31 de marzo. Shinhan es 250.000 unidades más conservador que eso.
+Pearl Abyss anunció oficialmente <strong>ventas acumuladas de 4 millones de unidades a 1 de abril y 5 millones a 15 de abril</strong>. Nuestro modelo asume 3,95 millones de unidades partiendo de que las ventas acumuladas estaban muy próximas a 4 millones en el cierre contable del 31 de marzo. Shinhan es 250.000 unidades más conservador que eso.
 
-Conclusión clave: **Shinhan asume un volumen menor (Q) pero una economía unitaria más favorable (P) y una estructura de costes más eficiente (C) — dos caminos distintos hacia un nivel similar de beneficio operativo. Nuestro modelo: Q alta × C conservadora. Modelo de Shinhan: Q conservadora × C agresiva.**
+Conclusión clave: <strong>Shinhan asume un volumen menor (Q) pero una economía unitaria más favorable (P) y una estructura de costes más eficiente (C) — dos caminos distintos hacia un nivel similar de beneficio operativo. Nuestro modelo: Q alta × C conservadora. Modelo de Shinhan: Q conservadora × C agresiva.</strong>
 
 ### 2.3 Eficiencia en el reconocimiento de ingresos — Shinhan se acerca más a la presentación bruta
 
@@ -113,27 +113,27 @@ En comparación con nuestro escenario interno (3,95M × ₩79.800 + ₩97,0B = �
 
 Esta discrepancia sugiere una de dos posibilidades:
 
-* Shinhan asume **únicamente reconocimiento de ingresos brutos** — es decir, no adopta la hipótesis de que los ingresos de consola se reconocen parcialmente en términos netos.
-* Alternativamente, Shinhan asume **menores ingresos de IP heredadas** (en el rango de ₩80–90B), atribuyendo así una mayor proporción del total a Crimson Desert.
+* Shinhan asume <strong>únicamente reconocimiento de ingresos brutos</strong> — es decir, no adopta la hipótesis de que los ingresos de consola se reconocen parcialmente en términos netos.
+* Alternativamente, Shinhan asume <strong>menores ingresos de IP heredadas</strong> (en el rango de ₩80–90B), atribuyendo así una mayor proporción del total a Crimson Desert.
 
 En cualquier caso, la respuesta se confirmará cuando el tratamiento contable principal-agente se divulgue en las notas de los resultados de mayo. Este es precisamente el punto que señalamos en nuestra previsión del 1T26 como "la variable clave del 1T26 no es el volumen de unidades sino la metodología contable."
 
 ### 2.4 La línea de costes clave: gastos de marketing de ₩19,7B
 
-La estimación de gastos de marketing del 1T de Shinhan es **₩19,7B**. En contexto histórico:
+La estimación de gastos de marketing del 1T de Shinhan es <strong>₩19,7B</strong>. En contexto histórico:
 
 | Período | Gastos de marketing |
 | --- | ---: |
 | 1T25 (año anterior) | ₩7,3B |
 | 4T25 (trimestre anterior) | ₩12,3B |
-| Estimación Shinhan 1T26 | **₩19,7B** |
+| Estimación Shinhan 1T26 | <strong>₩19,7B</strong> |
 | Hipótesis base interna 1T26 | ₩30,0B |
 
 Los ₩19,7B de Shinhan implican un crecimiento trimestral de aproximadamente el +60% respecto al 4T25. Aunque plausible, lo consideramos agresivo por las siguientes razones:
 
-* **Escala de marketing de un lanzamiento global simultáneo.** Un lanzamiento global simultáneo en PC y cuatro plataformas de consola implica gasto en relaciones públicas y publicidad a escala mundial donde ₩20,0B representa un suelo, no un punto medio.
-* **Segunda oleada de marketing.** Las campañas de influencers y los seguimientos de relaciones públicas globales inmediatamente después del lanzamiento de abril pueden reconocerse parcialmente en el 1T.
-* **Concentración de gasto publicitario ligado al lanzamiento al cierre del trimestre.** El convenio contable suele concentrar este tipo de gastos al final del trimestre.
+* <strong>Escala de marketing de un lanzamiento global simultáneo.</strong> Un lanzamiento global simultáneo en PC y cuatro plataformas de consola implica gasto en relaciones públicas y publicidad a escala mundial donde ₩20,0B representa un suelo, no un punto medio.
+* <strong>Segunda oleada de marketing.</strong> Las campañas de influencers y los seguimientos de relaciones públicas globales inmediatamente después del lanzamiento de abril pueden reconocerse parcialmente en el 1T.
+* <strong>Concentración de gasto publicitario ligado al lanzamiento al cierre del trimestre.</strong> El convenio contable suele concentrar este tipo de gastos al final del trimestre.
 
 Si los gastos de marketing reales se sitúan en ₩25,0B, la estimación de beneficio operativo de Shinhan cae ₩5,3B. A ₩30,0B, cae ₩10,3B. Esta única línea explica aproximadamente el 20% de la brecha de ₩49,7B en beneficio operativo.
 
@@ -148,7 +148,7 @@ Una descomposición aproximada de la brecha de ₩49,7B en beneficio operativo e
 | Otras partidas de costes (plantilla / amortización / diferencias de estimación diversas) | BO +aproximadamente ₩5–10B |
 | Total | BO +aproximadamente ₩47–57B (consistente con la brecha real de ₩49,7B) |
 
-En resumen, los dos principales factores de la brecha de ₩49,7B en beneficio operativo son la **metodología de reconocimiento de ingresos** y los **gastos de marketing**. Ambos se verificarán en las notas de los resultados de mayo. Todas las demás diferencias de hipótesis son residuales.
+En resumen, los dos principales factores de la brecha de ₩49,7B en beneficio operativo son la <strong>metodología de reconocimiento de ingresos</strong> y los <strong>gastos de marketing</strong>. Ambos se verificarán en las notas de los resultados de mayo. Todas las demás diferencias de hipótesis son residuales.
 
 ---
 
@@ -161,7 +161,7 @@ En resumen, los dos principales factores de la brecha de ₩49,7B en beneficio o
 | FY26E | ₩473,3B | — | Bajista ₩360B / Base ₩410B / Alcista ₩480B |
 | FY27E | ₩117,0B | aproximadamente ₩155,0B | Sin modelo finalizado |
 
-Destacable: **la estimación de beneficio operativo FY26 de Shinhan (₩473,3B) es prácticamente idéntica a nuestro escenario alcista (₩480B). Sin embargo, el objetivo de ₩72.000 de Shinhan está por debajo de nuestro valor razonable principal de ₩75.000.** La razón es una sola: el **desplome del FY27**.
+Destacable: <strong>la estimación de beneficio operativo FY26 de Shinhan (₩473,3B) es prácticamente idéntica a nuestro escenario alcista (₩480B). Sin embargo, el objetivo de ₩72.000 de Shinhan está por debajo de nuestro valor razonable principal de ₩75.000.</strong> La razón es una sola: el <strong>desplome del FY27</strong>.
 
 ### 3.2 Hipótesis de Shinhan para FY27 y sus debilidades
 
@@ -174,11 +174,11 @@ La proyección de ₩117,0B de beneficio operativo para FY27 de Shinhan se suste
 
 Este modelo presenta dos debilidades notables.
 
-**Debilidad 1 — Infravaloración de la opcionalidad de ingresos post-lanzamiento de Crimson Desert**
+<strong>Debilidad 1 — Infravaloración de la opcionalidad de ingresos post-lanzamiento de Crimson Desert</strong>
 
 Crimson Desert no es un título de solo juego base. Un ciclo de ingresos natural de juego base → parches/actualizaciones → DLC/expansiones → multijugador → pases de temporada es perfectamente plausible. Dado el historial de una década de servicio en directo de Pearl Abyss con Black Desert Online y la ampliación de la base de usuarios gracias al lanzamiento simultáneo en consolas, modelar los ingresos de seguimiento en 2027 convergiendo a cero es una hipótesis bajista agresiva.
 
-**Debilidad 2 — Valor opcional cero para BlackSpace Engine**
+<strong>Debilidad 2 — Valor opcional cero para BlackSpace Engine</strong>
 
 El objetivo de ₩72.000 de Shinhan aplica un PER de 15x a un BPA forward de 12M de ₩4.813. Este múltiplo representa un marco de valoración de "IP única, solo ingresos de los próximos 12 meses." Quedan excluidos por completo:
 
@@ -192,9 +192,9 @@ Shinhan trata todos estos elementos puramente como factores de descuento incorpo
 
 No hemos elaborado un modelo finalizado para FY27. En su lugar, monitorizamos tres puntos de control:
 
-* **Acumulado global a 6M**: Anuncio previsto en torno a septiembre de 2026. Superar los 6M aumenta la confianza en la trayectoria hacia 8,5M.
-* **Validación de 8,5M**: De finales de 2026 a principios de 2027. Superar los 8,5M hace natural la entrada en el precio de validación de aproximadamente ₩79.700.
-* **Calendario de anuncio de Dokkaebi / Plan 8**: Cualquier anuncio oficial de calendario en cualquier momento de 2027 actuaría como catalizador de revalorización del PER.
+* <strong>Acumulado global a 6M</strong>: Anuncio previsto en torno a septiembre de 2026. Superar los 6M aumenta la confianza en la trayectoria hacia 8,5M.
+* <strong>Validación de 8,5M</strong>: De finales de 2026 a principios de 2027. Superar los 8,5M hace natural la entrada en el precio de validación de aproximadamente ₩79.700.
+* <strong>Calendario de anuncio de Dokkaebi / Plan 8</strong>: Cualquier anuncio oficial de calendario en cualquier momento de 2027 actuaría como catalizador de revalorización del PER.
 
 Si se cumple cualquiera de estos tres puntos de control, la hipótesis de ₩117,0B de Shinhan para FY27 resultará ser demasiado baja.
 
@@ -212,7 +212,7 @@ Si se cumple cualquiera de estos tres puntos de control, la hipótesis de ₩117
 | ₩79.000–₩80.500 | Precio de validación para 8,5M | +10–12% por encima del objetivo de Shinhan |
 | ₩86.000+ | Escenario alcista | +19%+ por encima del objetivo de Shinhan |
 
-El objetivo de ₩72.000 se sitúa exactamente en **el extremo superior de nuestro rango de normalización**. Shinhan ha descontado "un reajuste de resultados del 1T y nada más." El cruce de los 8,5M, el anuncio de los 6M y el valor opcional del BlackSpace Engine no están en este precio.
+El objetivo de ₩72.000 se sitúa exactamente en <strong>el extremo superior de nuestro rango de normalización</strong>. Shinhan ha descontado "un reajuste de resultados del 1T y nada más." El cruce de los 8,5M, el anuncio de los 6M y el valor opcional del BlackSpace Engine no están en este precio.
 
 ### 4.2 Marco de actuación por precio
 
@@ -244,17 +244,17 @@ Ninguna de estas condiciones se ha materializado a 29 de abril. Escenario base m
 
 Seis elementos a verificar antes de que Pearl Abyss publique los resultados del 1T26 en mayo:
 
-1. **Notas sobre el reconocimiento de ingresos.** Tratamiento contable principal-agente; reconocimiento bruto frente a neto para los ingresos de consola.
-2. **Gastos de publicidad y promoción (reales).** Shinhan ₩19,7B frente a nuestros ₩30,0B — cuál es el correcto.
-3. **Comisiones y tasas de plataforma (reales).** Se mueven en la misma dirección que la metodología de reconocimiento de ingresos; leer junto con el punto 1.
-4. **Ingresos de IP heredadas (BDO + EVE).** Valida nuestra hipótesis de ₩97,0B.
-5. **Tono de las perspectivas del 2T.** Cómo caracteriza la dirección los patrones de ingresos del 2T tras el pico del 1T.
-6. **Referencias en la conferencia de resultados a calendarios de nuevos títulos.** Dokkaebi, Plan 8, DLC de Crimson Desert.
+1. <strong>Notas sobre el reconocimiento de ingresos.</strong> Tratamiento contable principal-agente; reconocimiento bruto frente a neto para los ingresos de consola.
+2. <strong>Gastos de publicidad y promoción (reales).</strong> Shinhan ₩19,7B frente a nuestros ₩30,0B — cuál es el correcto.
+3. <strong>Comisiones y tasas de plataforma (reales).</strong> Se mueven en la misma dirección que la metodología de reconocimiento de ingresos; leer junto con el punto 1.
+4. <strong>Ingresos de IP heredadas (BDO + EVE).</strong> Valida nuestra hipótesis de ₩97,0B.
+5. <strong>Tono de las perspectivas del 2T.</strong> Cómo caracteriza la dirección los patrones de ingresos del 2T tras el pico del 1T.
+6. <strong>Referencias en la conferencia de resultados a calendarios de nuevos títulos.</strong> Dokkaebi, Plan 8, DLC de Crimson Desert.
 
 Los puntos 1 y 2 son los más importantes.
 
-* **Escenario A (dirección de Shinhan confirmada):** Si el punto 1 confirma el reconocimiento bruto puro y el punto 2 se sitúa en ₩20,0B o por debajo, los ₩433,5B / ₩254,7B de Shinhan quedan validados. Esto significaría que nuestro modelo era conservador, y el potencial alcista adicional hasta el rango alto de los ₩70.000 se abre de forma natural. Aun así, nuestra postura de que cualquier cifra por encima de ₩80.000 requiere validación adicional (6M, 8,5M, opcionalidad del motor) se mantiene sin cambios.
-* **Escenario B (nuestra dirección confirmada):** Si el punto 1 confirma un reconocimiento mixto o el punto 2 se sitúa entre ₩25,0–33,0B, la estimación de beneficio operativo de Shinhan cae entre ₩10,0–20,0B. El mercado lo leerá como "mejor que el consenso, pero no tanto como estimaba Shinhan." La estabilización dentro del rango de normalización (₩68.000–₩72.000) sería el resultado natural.
+* <strong>Escenario A (dirección de Shinhan confirmada):</strong> Si el punto 1 confirma el reconocimiento bruto puro y el punto 2 se sitúa en ₩20,0B o por debajo, los ₩433,5B / ₩254,7B de Shinhan quedan validados. Esto significaría que nuestro modelo era conservador, y el potencial alcista adicional hasta el rango alto de los ₩70.000 se abre de forma natural. Aun así, nuestra postura de que cualquier cifra por encima de ₩80.000 requiere validación adicional (6M, 8,5M, opcionalidad del motor) se mantiene sin cambios.
+* <strong>Escenario B (nuestra dirección confirmada):</strong> Si el punto 1 confirma un reconocimiento mixto o el punto 2 se sitúa entre ₩25,0–33,0B, la estimación de beneficio operativo de Shinhan cae entre ₩10,0–20,0B. El mercado lo leerá como "mejor que el consenso, pero no tanto como estimaba Shinhan." La estabilización dentro del rango de normalización (₩68.000–₩72.000) sería el resultado natural.
 
 En cualquiera de los dos escenarios, el primer tramo de reducción cerca de ₩75.000 opera de forma idéntica. Ese es el punto clave. Nuestro primer objetivo de venta no cambia independientemente de qué modelo resulte ser el correcto.
 

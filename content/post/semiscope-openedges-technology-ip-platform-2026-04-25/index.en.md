@@ -9,17 +9,17 @@ tags: ["OpenEdges Technology", "394280", "SemiScope", "Semiconductor IP", "Memor
 series: ["semiscope-2026"]
 ---
 
-> **SemiScope deep dive.** OpenEdges Technology is the closest thing Korea has to a home-grown semiconductor IP platform. The stock should not be framed as a near-term CXL equipment beta. It is a long-duration bet on memory-subsystem design-ins, AI inference ASIC proliferation, and the eventual conversion of license wins into royalty revenue.
+> <strong>SemiScope deep dive.</strong> OpenEdges Technology is the closest thing Korea has to a home-grown semiconductor IP platform. The stock should not be framed as a near-term CXL equipment beta. It is a long-duration bet on memory-subsystem design-ins, AI inference ASIC proliferation, and the eventual conversion of license wins into royalty revenue.
 
 ---
 
 ## TL;DR
 
-1. **OpenEdges Technology (394280 KQ) is Korea's rare semiconductor IP pure play.** The company sells reusable design blocks for system semiconductors: memory controller IP, DDR PHY IP, NPU IP, NoC, UCIe chiplet controller IP, and CXL-controller-chip-related memory PHY/controller IP. In plain English, it sells the core building blocks that AI, automotive, edge and memory-expansion chips need before they can tape out.
-2. **The moat is not "one product"; it is the bundle.** Memory Controller + DDR PHY + NoC + NPU from one vendor is the strategic pitch. Synopsys, Cadence and Rambus are stronger globally, but inside the Korean fabless and ASIC ecosystem, OpenEdges is effectively the only domestic full-stack memory-subsystem IP supplier.
-3. **Current financials are still pre-inflection.** 2024 revenue was KRW 15.3B, down 21.8% YoY, with operating loss of KRW 24.3B. Through 3Q25, cumulative revenue was KRW 12.7B and operating loss KRW 21.3B. License ASP improved sharply to about US$1.1M in 1H25, but R&D spend is still running ahead of recognized revenue.
-4. **The cleanest upside trigger is not "CXL hype"; it is royalty mix.** Royalty revenue was only 0.4% of 1H25 revenue. If that moves toward 20%+ of quarterly revenue, the market can stop treating OpenEdges as a lumpy license-sales company and start valuing it as a compounding IP platform.
-5. **Investment view: quality compounder candidate, not a near-term earnings compounder yet.** I would treat OpenEdges as a long-duration option on Korea's system-semiconductor ecosystem, LPDDR6, UCIe, CXL memory expansion and automotive AI ASICs. The constraint is equally clear: Synopsys/Cadence/Rambus are the global standard, and OpenEdges must prove that domestic strength can become exportable IP share.
+1. <strong>OpenEdges Technology (394280 KQ) is Korea's rare semiconductor IP pure play.</strong> The company sells reusable design blocks for system semiconductors: memory controller IP, DDR PHY IP, NPU IP, NoC, UCIe chiplet controller IP, and CXL-controller-chip-related memory PHY/controller IP. In plain English, it sells the core building blocks that AI, automotive, edge and memory-expansion chips need before they can tape out.
+2. <strong>The moat is not "one product"; it is the bundle.</strong> Memory Controller + DDR PHY + NoC + NPU from one vendor is the strategic pitch. Synopsys, Cadence and Rambus are stronger globally, but inside the Korean fabless and ASIC ecosystem, OpenEdges is effectively the only domestic full-stack memory-subsystem IP supplier.
+3. <strong>Current financials are still pre-inflection.</strong> 2024 revenue was KRW 15.3B, down 21.8% YoY, with operating loss of KRW 24.3B. Through 3Q25, cumulative revenue was KRW 12.7B and operating loss KRW 21.3B. License ASP improved sharply to about US$1.1M in 1H25, but R&D spend is still running ahead of recognized revenue.
+4. <strong>The cleanest upside trigger is not "CXL hype"; it is royalty mix.</strong> Royalty revenue was only 0.4% of 1H25 revenue. If that moves toward 20%+ of quarterly revenue, the market can stop treating OpenEdges as a lumpy license-sales company and start valuing it as a compounding IP platform.
+5. <strong>Investment view: quality compounder candidate, not a near-term earnings compounder yet.</strong> I would treat OpenEdges as a long-duration option on Korea's system-semiconductor ecosystem, LPDDR6, UCIe, CXL memory expansion and automotive AI ASICs. The constraint is equally clear: Synopsys/Cadence/Rambus are the global standard, and OpenEdges must prove that domestic strength can become exportable IP share.
 
 ---
 
@@ -45,19 +45,19 @@ OpenEdges has two main revenue engines.
 
 | Revenue type | What it means | Investor implication |
 |---|---|---|
-| **License revenue** | One-time fee when a customer adopts an IP block for a chip design. Management and sell-side references put deal sizes roughly in the US$0.3M-2.0M range depending on complexity and node. | Lumpy, high-signal, but not yet recurring. Good for validating demand and ASP. |
-| **Maintenance / support** | Engineering support after adoption: updates, integration help, process-specific work and customer assistance. | Helps smooth revenue but still tied to active license base. |
-| **Royalty revenue** | Per-chip fee after the customer's chip enters mass production. Industry examples often sit in cents per chip, but scale with volume and design life. | The real prize. Small today, potentially powerful if enough design-ins reach production. |
+| <strong>License revenue</strong> | One-time fee when a customer adopts an IP block for a chip design. Management and sell-side references put deal sizes roughly in the US$0.3M-2.0M range depending on complexity and node. | Lumpy, high-signal, but not yet recurring. Good for validating demand and ASP. |
+| <strong>Maintenance / support</strong> | Engineering support after adoption: updates, integration help, process-specific work and customer assistance. | Helps smooth revenue but still tied to active license base. |
+| <strong>Royalty revenue</strong> | Per-chip fee after the customer's chip enters mass production. Industry examples often sit in cents per chip, but scale with volume and design life. | The real prize. Small today, potentially powerful if enough design-ins reach production. |
 
 For 1H25, the revenue mix was still early-stage:
 
 | Segment | Share | Revenue |
 |---|---:|---:|
-| **License** | 61.4% | KRW 4.54B |
+| <strong>License</strong> | 61.4% | KRW 4.54B |
 | Maintenance / support | 30.1% | KRW 2.23B |
-| **Royalty** | 0.4% | KRW 0.029B |
+| <strong>Royalty</strong> | 0.4% | KRW 0.029B |
 | Other | 8.1% | KRW 0.597B |
-| **Total** | 100.0% | **KRW 7.39B** |
+| <strong>Total</strong> | 100.0% | <strong>KRW 7.39B</strong> |
 
 That 0.4% royalty mix is the most important number in the whole story. It tells us the platform is still mostly being paid for adoption, not volume success. That is not unusual for an IP company at this stage. Design-in to mass production can take two to four years, especially for automotive, AI ASIC and advanced memory-interface chips. But it does mean the market has to underwrite a lag.
 
@@ -76,12 +76,12 @@ OpenEdges' strategic claim is that it can provide a total memory-subsystem and A
 
 | IP area | What it does | Why it matters |
 |---|---|---|
-| **Memory Controller IP** | Controls how a chip accesses external memory such as DDR, LPDDR and related standards. | Every AI/edge/automotive chip is memory-bandwidth constrained. Controller quality affects latency, power and reliability. |
-| **DDR PHY IP** | The physical layer that lets the chip communicate electrically with memory. | Hard IP is process-specific and hard to replace once validated. Silicon-proven history is a real asset. |
-| **NPU IP** | Neural processing block for AI inference workloads. | Edge AI and automotive ADAS need efficient local inference. |
-| **NoC IP** | Network-on-chip interconnect for moving data inside complex SoCs. | More chip complexity means more need for disciplined internal data movement. |
-| **UCIe chiplet controller IP** | Interface controller for chiplet-to-chiplet communication under the UCIe standard. | Chiplet adoption creates a new IP layer around die-to-die connectivity. |
-| **CXL-related memory PHY/controller IP** | Memory-side IP needed by companies designing CXL controller chips and memory expanders. | OpenEdges is a component supplier into the CXL controller-chip stack, not a CXL equipment vendor. |
+| <strong>Memory Controller IP</strong> | Controls how a chip accesses external memory such as DDR, LPDDR and related standards. | Every AI/edge/automotive chip is memory-bandwidth constrained. Controller quality affects latency, power and reliability. |
+| <strong>DDR PHY IP</strong> | The physical layer that lets the chip communicate electrically with memory. | Hard IP is process-specific and hard to replace once validated. Silicon-proven history is a real asset. |
+| <strong>NPU IP</strong> | Neural processing block for AI inference workloads. | Edge AI and automotive ADAS need efficient local inference. |
+| <strong>NoC IP</strong> | Network-on-chip interconnect for moving data inside complex SoCs. | More chip complexity means more need for disciplined internal data movement. |
+| <strong>UCIe chiplet controller IP</strong> | Interface controller for chiplet-to-chiplet communication under the UCIe standard. | Chiplet adoption creates a new IP layer around die-to-die connectivity. |
+| <strong>CXL-related memory PHY/controller IP</strong> | Memory-side IP needed by companies designing CXL controller chips and memory expanders. | OpenEdges is a component supplier into the CXL controller-chip stack, not a CXL equipment vendor. |
 
 The moat is strongest where Memory Controller and PHY are sold together. PHY is especially hard because it is hard-coded to process nodes and requires silicon-proven validation. A soft block can be ported more easily. A hard PHY needs foundry-specific, node-specific work, then real silicon validation. That is slow and expensive, but once proven it creates switching cost.
 
@@ -97,9 +97,9 @@ The current numbers do not yet look like a compounder.
 
 | Metric | 2022 | 2023 | 2024 | 2025 update |
 |---|---:|---:|---:|---:|
-| Revenue | KRW 10.0B | KRW 18.9B | **KRW 15.3B** | 3Q25 cumulative KRW 12.7B |
-| YoY growth | — | +89% | **-21.8%** | 3Q25 cumulative -3.8% YoY |
-| Operating profit | -KRW 16.7B | -KRW 16.6B | **-KRW 24.3B** | 3Q25 cumulative -KRW 21.3B |
+| Revenue | KRW 10.0B | KRW 18.9B | <strong>KRW 15.3B</strong> | 3Q25 cumulative KRW 12.7B |
+| YoY growth | — | +89% | <strong>-21.8%</strong> | 3Q25 cumulative -3.8% YoY |
+| Operating profit | -KRW 16.7B | -KRW 16.6B | <strong>-KRW 24.3B</strong> | 3Q25 cumulative -KRW 21.3B |
 | Margin profile | Loss | Loss | Larger loss | Loss still widening YoY |
 
 The main reason is straightforward: R&D and global expansion are being funded before the license-and-royalty base is large enough to absorb them. The company has been building capability in LPDDR6, Samsung 4nm, UCIe, CXL-adjacent IP and next-generation NPU technology, while expanding overseas R&D and sales touchpoints in the US and Japan.
@@ -118,11 +118,11 @@ OpenEdges has real assets, but the moat needs to be framed carefully.
 
 | Moat axis | Assessment | Why |
 |---|---|---|
-| **Design-in switching cost** | High | Once IP is integrated into a chip design, replacing it can disrupt timing closure, power, area, verification and tape-out schedules. |
-| **Memory subsystem integration** | High in Korea | Memory Controller + PHY + NoC + NPU from one vendor is rare domestically. This is the main platform argument. |
-| **Silicon-proven history** | Medium-high | Process-specific validation across Samsung, TSMC and other nodes compounds over time. |
-| **Global foundry / EDA ecosystem strength** | Medium | Synopsys and Cadence have far deeper global relationships and broader portfolios. |
-| **Royalty lock-in** | Long-term high, short-term low | The model can compound if customer chips enter production, but royalty revenue is still tiny today. |
+| <strong>Design-in switching cost</strong> | High | Once IP is integrated into a chip design, replacing it can disrupt timing closure, power, area, verification and tape-out schedules. |
+| <strong>Memory subsystem integration</strong> | High in Korea | Memory Controller + PHY + NoC + NPU from one vendor is rare domestically. This is the main platform argument. |
+| <strong>Silicon-proven history</strong> | Medium-high | Process-specific validation across Samsung, TSMC and other nodes compounds over time. |
+| <strong>Global foundry / EDA ecosystem strength</strong> | Medium | Synopsys and Cadence have far deeper global relationships and broader portfolios. |
+| <strong>Royalty lock-in</strong> | Long-term high, short-term low | The model can compound if customer chips enter production, but royalty revenue is still tiny today. |
 
 Where is it hard to copy?
 
@@ -164,15 +164,15 @@ The most important thing to monitor is not customer-logo count. It is whether li
 
 | Trend | Impact | Investment read-through |
 |---|---|---|
-| **AI inference ASIC proliferation** | Strong tailwind | Edge AI, ADAS and on-device inference customers need memory bandwidth and efficient NPU/memory-subsystem blocks. |
-| **LPDDR6 standardization** | Strong tailwind | LPDDR6 raises performance complexity. If OpenEdges wins Samsung 4nm LPDDR6 design-ins, ASP and credibility can both step up. |
-| **Automotive ADAS ASIC growth** | Strong tailwind | ISO 26262 NPU IP plus memory subsystem creates a plausible automotive bundle. Long product lives can support royalties. |
-| **Chiplets and UCIe** | Tailwind to strong tailwind | UCIe creates a new interface-IP layer. OpenEdges is not first globally, but can matter in Korea's ASIC ecosystem. |
-| **CXL Memory Expanders** | Tailwind | CXL controller chips need memory-side IP. OpenEdges is not selling CXL testers; it is selling part of the chip design stack. |
-| **Domestic NPU localization policy** | Tailwind | Defense and government-led NPU localization can create reference projects and credibility. |
-| **HBM4 / HBM4E packaging cycle** | Mostly neutral | OpenEdges is not a direct HBM equipment or packaging name. HBM3 PHY test-chip validation is interesting, but not a near-term revenue pillar. |
-| **Global IP majors** | Headwind | Synopsys, Cadence, Rambus and ARM define customer expectations and dominate many advanced-node opportunities. |
-| **R&D labor inflation** | Headwind | US/Japan expansion and high-end engineering hiring pressure the income statement before revenue scales. |
+| <strong>AI inference ASIC proliferation</strong> | Strong tailwind | Edge AI, ADAS and on-device inference customers need memory bandwidth and efficient NPU/memory-subsystem blocks. |
+| <strong>LPDDR6 standardization</strong> | Strong tailwind | LPDDR6 raises performance complexity. If OpenEdges wins Samsung 4nm LPDDR6 design-ins, ASP and credibility can both step up. |
+| <strong>Automotive ADAS ASIC growth</strong> | Strong tailwind | ISO 26262 NPU IP plus memory subsystem creates a plausible automotive bundle. Long product lives can support royalties. |
+| <strong>Chiplets and UCIe</strong> | Tailwind to strong tailwind | UCIe creates a new interface-IP layer. OpenEdges is not first globally, but can matter in Korea's ASIC ecosystem. |
+| <strong>CXL Memory Expanders</strong> | Tailwind | CXL controller chips need memory-side IP. OpenEdges is not selling CXL testers; it is selling part of the chip design stack. |
+| <strong>Domestic NPU localization policy</strong> | Tailwind | Defense and government-led NPU localization can create reference projects and credibility. |
+| <strong>HBM4 / HBM4E packaging cycle</strong> | Mostly neutral | OpenEdges is not a direct HBM equipment or packaging name. HBM3 PHY test-chip validation is interesting, but not a near-term revenue pillar. |
+| <strong>Global IP majors</strong> | Headwind | Synopsys, Cadence, Rambus and ARM define customer expectations and dominate many advanced-node opportunities. |
+| <strong>R&D labor inflation</strong> | Headwind | US/Japan expansion and high-end engineering hiring pressure the income statement before revenue scales. |
 
 The most misunderstood row is CXL. A CXL Memory Expander chip may need a CXL protocol controller, a memory controller and a DDR PHY. OpenEdges is stronger on the memory-controller and PHY side. That can be valuable, but it is not the same as being the first company to recognize revenue when a memory maker orders a CXL test platform.
 
@@ -220,20 +220,20 @@ The risk list is not cosmetic here. It is central to position sizing.
 
 | Risk | Why it matters | What to watch |
 |---|---|---|
-| **Advanced-node gap** | Synopsys/Cadence are stronger at TSMC N3/N2 and have broader global support. | Any evidence OpenEdges is stuck in 6-22nm while AI ASICs move faster to frontier nodes. |
-| **R&D cost overhang** | Quarterly SG&A/R&D can rise faster than revenue. | Whether 2026 revenue growth absorbs the cost base and moves the company toward breakeven. |
-| **Royalty lag** | License wins may take years to convert into royalties. | Quarterly royalty revenue absolute value, not only percentage. |
-| **Customer concentration and disclosure opacity** | Customer split and IP-category split are not fully disclosed. | Contract disclosures, large-customer comments and changes in receivables / backlog indicators. |
-| **UCIe/CXL competition** | Global interface-IP specialists may win the highest-value sockets. | Standalone UCIe license announcements and silicon-proven references. |
-| **Export-control exposure** | If China fabless exposure is meaningful, US-China restrictions can affect licensing. | Geographic mix, customer identity where disclosed, and any export-control language in filings. |
+| <strong>Advanced-node gap</strong> | Synopsys/Cadence are stronger at TSMC N3/N2 and have broader global support. | Any evidence OpenEdges is stuck in 6-22nm while AI ASICs move faster to frontier nodes. |
+| <strong>R&D cost overhang</strong> | Quarterly SG&A/R&D can rise faster than revenue. | Whether 2026 revenue growth absorbs the cost base and moves the company toward breakeven. |
+| <strong>Royalty lag</strong> | License wins may take years to convert into royalties. | Quarterly royalty revenue absolute value, not only percentage. |
+| <strong>Customer concentration and disclosure opacity</strong> | Customer split and IP-category split are not fully disclosed. | Contract disclosures, large-customer comments and changes in receivables / backlog indicators. |
+| <strong>UCIe/CXL competition</strong> | Global interface-IP specialists may win the highest-value sockets. | Standalone UCIe license announcements and silicon-proven references. |
+| <strong>Export-control exposure</strong> | If China fabless exposure is meaningful, US-China restrictions can affect licensing. | Geographic mix, customer identity where disclosed, and any export-control language in filings. |
 
 Five near-term checkpoints:
 
-1. **FY25 final results.** The gap between optimistic 2025 revenue expectations and actual 1H/3Q progress needs to close. A weak FY25 print would push the breakeven narrative further into 2026.
-2. **LPDDR6 + Samsung 4nm license disclosure.** This is the most important single commercial signal for 2026.
-3. **UCIe standalone license or silicon-proven announcement.** This would tell us whether the chiplet story is moving from roadmap to customer adoption.
-4. **Royalty revenue trajectory.** 1H25 royalty revenue of KRW 29M is too small. I want to see sequential growth in absolute won terms.
-5. **OpenEdges Square / platform commercialization.** If the subsidiary becomes an IP-sales platform rather than just an internal extension, it can broaden the model.
+1. <strong>FY25 final results.</strong> The gap between optimistic 2025 revenue expectations and actual 1H/3Q progress needs to close. A weak FY25 print would push the breakeven narrative further into 2026.
+2. <strong>LPDDR6 + Samsung 4nm license disclosure.</strong> This is the most important single commercial signal for 2026.
+3. <strong>UCIe standalone license or silicon-proven announcement.</strong> This would tell us whether the chiplet story is moving from roadmap to customer adoption.
+4. <strong>Royalty revenue trajectory.</strong> 1H25 royalty revenue of KRW 29M is too small. I want to see sequential growth in absolute won terms.
+5. <strong>OpenEdges Square / platform commercialization.</strong> If the subsidiary becomes an IP-sales platform rather than just an internal extension, it can broaden the model.
 
 ---
 
@@ -245,9 +245,9 @@ The better framework is a three-stage probability tree:
 
 | Scenario | What has to happen | Valuation implication |
 |---|---|---|
-| **Bear case** | License wins stay lumpy, LPDDR6 slips, UCIe/CXL remain roadmap items, royalties stay immaterial, breakeven delayed beyond 2026. | Market treats the company as an R&D-heavy small-cap IP vendor with dilution and execution risk. |
-| **Base case** | License ASP remains elevated, overseas design-win count grows, 2026 revenue scales enough for breakeven or near-breakeven, royalties begin rising but remain modest. | Stock can trade as a strategic Korean IP platform, but still with high volatility around contract disclosures. |
-| **Bull case** | LPDDR6 Samsung 4nm win, UCIe reference, automotive/NPU bundle adoption and royalty mix moving toward 20%+ over time. | Multiple can re-rate from license-sales optionality toward quality compounder logic. |
+| <strong>Bear case</strong> | License wins stay lumpy, LPDDR6 slips, UCIe/CXL remain roadmap items, royalties stay immaterial, breakeven delayed beyond 2026. | Market treats the company as an R&D-heavy small-cap IP vendor with dilution and execution risk. |
+| <strong>Base case</strong> | License ASP remains elevated, overseas design-win count grows, 2026 revenue scales enough for breakeven or near-breakeven, royalties begin rising but remain modest. | Stock can trade as a strategic Korean IP platform, but still with high volatility around contract disclosures. |
+| <strong>Bull case</strong> | LPDDR6 Samsung 4nm win, UCIe reference, automotive/NPU bundle adoption and royalty mix moving toward 20%+ over time. | Multiple can re-rate from license-sales optionality toward quality compounder logic. |
 
 This is why I would not use OpenEdges as a tactical quarter-to-quarter earnings trade. The better use is as a long-duration watchlist position where each disclosed license, each advanced-node validation and each royalty data point updates the probability tree.
 

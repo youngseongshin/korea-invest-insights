@@ -8,10 +8,10 @@ tags: ["tenbagger", "KOSPI", "KOSDAQ", "réseau-électrique", "semi-conducteurs"
 series: ["kosdaq-structural-2026", "tenbagger-analysis-2026"]
 ---
 
-> **Série — KOSDAQ Structural 2026 (Partie 3 sur 3)**
+> <strong>Série — KOSDAQ Structural 2026 (Partie 3 sur 3)</strong>
 > ① [KOSDAQ 2026 : Déclencheurs d'afflux de capitaux & classement VC](/post/kosdaq-2026-capital-inflow-triggers-vc-ranking-2026-04-21/) — le contexte politique et capitalistique
 > ② [KOSDAQ IPO 2023-2026 : Où se cachent vraiment les tenbaggers](/post/kosdaq-ipo-class-2023-2026-tenbagger-analysis-2026-04-22/) — les gagnants par millésime d'introduction en bourse
-> ③ **Cet article** — le recensement complet KOSPI + KOSDAQ sur 3 ans des 10× et ce qui a vraiment passé le filtre
+> ③ <strong>Cet article</strong> — le recensement complet KOSPI + KOSDAQ sur 3 ans des 10× et ce qui a vraiment passé le filtre
 
 ---
 
@@ -19,9 +19,9 @@ series: ["kosdaq-structural-2026", "tenbagger-analysis-2026"]
 
 Nous avons réalisé un recensement exhaustif sur 3 ans couvrant KOSPI (836 valeurs) et KOSDAQ (1 777 valeurs, SPACs exclus) du début 2023 à avril 2026.
 
-- **Univers :** 2 613 actions
-- **Ont atteint le 10× :** 27 noms
-- **Taux de réussite :** **1,03 %**
+- <strong>Univers :</strong> 2 613 actions
+- <strong>Ont atteint le 10× :</strong> 27 noms
+- <strong>Taux de réussite :</strong> <strong>1,03 %</strong>
 
 Une sur cent. Telle est la probabilité de départ pour « j'achète une petite capitalisation et je tiens trois ans. » Les 99 autres n'y sont pas arrivées.
 
@@ -71,7 +71,7 @@ En regroupant les 27 en clusters, le récit se réécrit de lui-même :
 
 | Cluster | Nombre | Part |
 |---|---|---|
-| **Énergie / Réseau / Nucléaire** | **8** | 30 % |
+| <strong>Énergie / Réseau / Nucléaire</strong> | <strong>8</strong> | 30 % |
 | Semi / Équipements IA | 6 | 22 % |
 | Biotech | 5 | 19 % |
 | Défense / Construction navale | 3 | 11 % |
@@ -79,9 +79,9 @@ En regroupant les 27 en clusters, le récit se réécrit de lui-même :
 | Consommation (export) | 1 | 4 % |
 | Holdings (adjacents semi) | 1 | 4 % |
 
-Le récit dominant était « IA et semi-conducteurs ». Il a tenu ses promesses — 6 noms, mené par SK Hynix et le complexe substrats/PCB HBM. Mais le **cluster discret, c'est l'énergie et le réseau** : 8 des 27, et les 3 premiers par multiple (HD Hyundai Electric, Hyosung Heavy, LS Electric) y figurent tous. C'est le trade de l'électrification des datacenters, des dépenses d'infrastructure réseau et de la renaissance du nucléaire — qui a progressé sans le bruit médiatique dont ont bénéficié la biotech et l'IA.
+Le récit dominant était « IA et semi-conducteurs ». Il a tenu ses promesses — 6 noms, mené par SK Hynix et le complexe substrats/PCB HBM. Mais le <strong>cluster discret, c'est l'énergie et le réseau</strong> : 8 des 27, et les 3 premiers par multiple (HD Hyundai Electric, Hyosung Heavy, LS Electric) y figurent tous. C'est le trade de l'électrification des datacenters, des dépenses d'infrastructure réseau et de la renaissance du nucléaire — qui a progressé sans le bruit médiatique dont ont bénéficié la biotech et l'IA.
 
-La biotech présente un profil inverse : 5 noms, mais un **drawdown moyen depuis le pic de -41 %**. Ce sont des gagnants dépendants du contexte de marché ; les 22 autres affichent en moyenne -18 % depuis leur pic. Un mauvais timing de sortie sur la biotech, et le rendement réalisé n'est plus un tenbagger.
+La biotech présente un profil inverse : 5 noms, mais un <strong>drawdown moyen depuis le pic de -41 %</strong>. Ce sont des gagnants dépendants du contexte de marché ; les 22 autres affichent en moyenne -18 % depuis leur pic. Un mauvais timing de sortie sur la biotech, et le rendement réalisé n'est plus un tenbagger.
 
 ---
 
@@ -89,10 +89,10 @@ La biotech présente un profil inverse : 5 noms, mais un **drawdown moyen depuis
 
 Sur les 27 :
 
-- **74 % sont rentables** au moment du screening. Le stéréotype de « la petite valeur spéculative déficitaire » ne s'applique qu'au cluster biotech.
-- **7 noms** affichaient **ROE ≥ 40 %** en amont : Isu Petasys, SK Hynix, Samyang Foods, HD Hyundai Marine Engine, HD Hyundai Electric, Hyosung Heavy (à la limite), Alteogen (une fois rentable). Un simple filtre ROE≥40 % aurait capturé les grands gagnants industriels.
-- **8 noms** affichaient **P/E ≤ 15** en amont : Woori Financial, SK Square, SK Hynix, Kiwoom Securities, HD Hyundai Marine Engine, Simmtech, Isu Petasys, Hyosung Heavy. La croissance à bon marché n'est pas un mythe en Corée — elle est juste rare.
-- **Intersection (ROE≥40 ET P/E≤15) :** **5 noms.** 5 sur 2 613 — un taux de base de 0,19 %, mais un taux de réussite de 100 % à l'intérieur du filtre.
+- <strong>74 % sont rentables</strong> au moment du screening. Le stéréotype de « la petite valeur spéculative déficitaire » ne s'applique qu'au cluster biotech.
+- <strong>7 noms</strong> affichaient <strong>ROE ≥ 40 %</strong> en amont : Isu Petasys, SK Hynix, Samyang Foods, HD Hyundai Marine Engine, HD Hyundai Electric, Hyosung Heavy (à la limite), Alteogen (une fois rentable). Un simple filtre ROE≥40 % aurait capturé les grands gagnants industriels.
+- <strong>8 noms</strong> affichaient <strong>P/E ≤ 15</strong> en amont : Woori Financial, SK Square, SK Hynix, Kiwoom Securities, HD Hyundai Marine Engine, Simmtech, Isu Petasys, Hyosung Heavy. La croissance à bon marché n'est pas un mythe en Corée — elle est juste rare.
+- <strong>Intersection (ROE≥40 ET P/E≤15) :</strong> <strong>5 noms.</strong> 5 sur 2 613 — un taux de base de 0,19 %, mais un taux de réussite de 100 % à l'intérieur du filtre.
 
 Un simple filtre à deux facteurs qualité+valeur, appliqué mécaniquement en 2023, aurait retourné environ 15 à 30 valeurs sur KOSPI+KOSDAQ. Cinq d'entre elles auraient été des tenbaggers. Voilà le vrai point de départ qu'un investisseur particulier devrait intégrer.
 
@@ -100,19 +100,19 @@ Un simple filtre à deux facteurs qualité+valeur, appliqué mécaniquement en 2
 
 ## Sept observations de gérant de fonds
 
-1. **Le cluster énergie-réseau reste sous-détenu par les étrangers.** La participation étrangère dans HD Hyundai Electric et Hyosung Heavy ne s'est reconstituée qu'après la hausse. Le catalyseur (pénurie de transformateurs pour datacenters, dépenses d'infrastructure réseau aux États-Unis) était lisible dès mi-2023.
+1. <strong>Le cluster énergie-réseau reste sous-détenu par les étrangers.</strong> La participation étrangère dans HD Hyundai Electric et Hyosung Heavy ne s'est reconstituée qu'après la hausse. Le catalyseur (pénurie de transformateurs pour datacenters, dépenses d'infrastructure réseau aux États-Unis) était lisible dès mi-2023.
 
-2. **Le paiement HBM ≠ le récit HBM.** SK Hynix a rapporté 13×, mais le plus grand gagnant dérivé de HBM par multiple était **Isu Petasys (\~22×)** — un nom de substrat PCB que la plupart des étrangers peinent encore à prononcer. Le dérivé surperforme le titre principal.
+2. <strong>Le paiement HBM ≠ le récit HBM.</strong> SK Hynix a rapporté 13×, mais le plus grand gagnant dérivé de HBM par multiple était <strong>Isu Petasys (\~22×)</strong> — un nom de substrat PCB que la plupart des étrangers peinent encore à prononcer. Le dérivé surperforme le titre principal.
 
-3. **Défense et construction navale, c'est le même trade.** Hanwha Aerospace, Hyundai Rotem, Hanwha Ocean, HD Hyundai Marine Engine — réarmement OTAN + super-cycle des méthaniers + option propulsion nucléaire. Quatre tenbaggers issus d'un seul changement de régime géopolitique.
+3. <strong>Défense et construction navale, c'est le même trade.</strong> Hanwha Aerospace, Hyundai Rotem, Hanwha Ocean, HD Hyundai Marine Engine — réarmement OTAN + super-cycle des méthaniers + option propulsion nucléaire. Quatre tenbaggers issus d'un seul changement de régime géopolitique.
 
-4. **Les drawdowns biotech sont impossibles à tenir sans discipline.** HLB est encore à -55 % depuis son pic. Un achat au sommet s'est traduit par une perte, malgré un multiple de 10×. Les règles de dimensionnement de position comptent davantage ici que dans tout autre cluster.
+4. <strong>Les drawdowns biotech sont impossibles à tenir sans discipline.</strong> HLB est encore à -55 % depuis son pic. Un achat au sommet s'est traduit par une perte, malgré un multiple de 10×. Les règles de dimensionnement de position comptent davantage ici que dans tout autre cluster.
 
-5. **La finance a produit 3 tenbaggers sans qu'un seul analyste le signale.** Woori, Kiwoom, Hyundai Motor Securities — le trade value-up + normalisation des taux + courtage retail. Le trade ennuyeux a fonctionné.
+5. <strong>La finance a produit 3 tenbaggers sans qu'un seul analyste le signale.</strong> Woori, Kiwoom, Hyundai Motor Securities — le trade value-up + normalisation des taux + courtage retail. Le trade ennuyeux a fonctionné.
 
-6. **Samyang Foods est le seul nom consommation**, et c'est parce que Buldak est devenu un produit d'exportation mondial. Les tenbaggers consommation en Corée ont besoin d'un levier export ; le marché domestique seul est trop étroit.
+6. <strong>Samyang Foods est le seul nom consommation</strong>, et c'est parce que Buldak est devenu un produit d'exportation mondial. Les tenbaggers consommation en Corée ont besoin d'un levier export ; le marché domestique seul est trop étroit.
 
-7. **Aucun tenbagger dans le bucket « plateforme/crypto/métavers ».** Chaque gagnant sans exception est une entreprise avec des actifs réels, des bénéfices réels, des dépenses d'investissement réelles. La cohorte narrative de 2021 n'a rien produit au seuil du 10×.
+7. <strong>Aucun tenbagger dans le bucket « plateforme/crypto/métavers ».</strong> Chaque gagnant sans exception est une entreprise avec des actifs réels, des bénéfices réels, des dépenses d'investissement réelles. La cohorte narrative de 2021 n'a rien produit au seuil du 10×.
 
 ---
 
@@ -122,13 +122,13 @@ Si l'objectif était de détenir un nom par cluster gagnant, en pondération ég
 
 | Thème ticker | Nom | Cluster |
 |---|---|---|
-| Énergie/Réseau | **HD Hyundai Electric** | Transformateurs, capex datacenters |
-| Semi IA | **SK Hynix** | Leader HBM |
-| Dérivé HBM | **Isu Petasys** | Substrat PCB, multiple le plus élevé |
-| Défense | **Hanwha Aerospace** | K9, K2, réarmement |
-| Construction navale | **HD Hyundai Marine Engine** | GNL + propulsion nucléaire |
-| Export consommation | **Samyang Foods** | Demande mondiale Buldak |
-| Holdings | **SK Square** | Exposition Hynix + bon marché |
+| Énergie/Réseau | <strong>HD Hyundai Electric</strong> | Transformateurs, capex datacenters |
+| Semi IA | <strong>SK Hynix</strong> | Leader HBM |
+| Dérivé HBM | <strong>Isu Petasys</strong> | Substrat PCB, multiple le plus élevé |
+| Défense | <strong>Hanwha Aerospace</strong> | K9, K2, réarmement |
+| Construction navale | <strong>HD Hyundai Marine Engine</strong> | GNL + propulsion nucléaire |
+| Export consommation | <strong>Samyang Foods</strong> | Demande mondiale Buldak |
+| Holdings | <strong>SK Square</strong> | Exposition Hynix + bon marché |
 
 En pondération égale, rééquilibré annuellement, ce panier de 7 noms aurait généré un rendement d'environ 9 à 11× sur la fenêtre de 3 ans (multiples individuels de 10 à 22×, dilués par le rééquilibrage). C'est la formulation la plus claire de « ce dont était réellement fait le régime tenbagger KR sur 3 ans. »
 
@@ -136,16 +136,16 @@ En pondération égale, rééquilibré annuellement, ce panier de 7 noms aurait 
 
 ## Mises en garde
 
-- **Biais du survivant.** Il s'agit du résultat réalisé. Ex-ante, il y avait plus de 50 noms qui semblaient tout aussi plausibles et affichent désormais -30 %.
-- **Risque de sortie.** Les multiples sont calculés du creux au pic. Les rendements réels avec une exécution imparfaite sont sensiblement inférieurs — surtout dans le cluster biotech.
-- **Dépendance au régime.** L'énergie-réseau et la défense sont portés par des cycles de capex pluriannuels susceptibles de s'inverser. N'extrapolez pas les taux de réussite 2023-2026 sur 2026-2029 sans réexaminer le contexte macro.
-- **1,03 % de taux de réussite, pas 10 %.** Le taux de base est brutal. Toute stratégie qui ne filtre pas rigoureusement se dilue dans les 99 % qui n'ont pas fonctionné.
+- <strong>Biais du survivant.</strong> Il s'agit du résultat réalisé. Ex-ante, il y avait plus de 50 noms qui semblaient tout aussi plausibles et affichent désormais -30 %.
+- <strong>Risque de sortie.</strong> Les multiples sont calculés du creux au pic. Les rendements réels avec une exécution imparfaite sont sensiblement inférieurs — surtout dans le cluster biotech.
+- <strong>Dépendance au régime.</strong> L'énergie-réseau et la défense sont portés par des cycles de capex pluriannuels susceptibles de s'inverser. N'extrapolez pas les taux de réussite 2023-2026 sur 2026-2029 sans réexaminer le contexte macro.
+- <strong>1,03 % de taux de réussite, pas 10 %.</strong> Le taux de base est brutal. Toute stratégie qui ne filtre pas rigoureusement se dilue dans les 99 % qui n'ont pas fonctionné.
 
 ---
 
 ## Conclusion
 
-Le marché coréen 2023-2026 a produit 27 tenbaggers sur 2 613 valeurs. Trois quarts étaient rentables au départ. Le grand gagnant discret n'était pas l'IA — c'était le réseau électrique. Un simple filtre ROE≥40 % + P/E≤15, appliqué mécaniquement, aurait capturé une part disproportionnée des gagnants. Et parmi les 27, **aucun** n'est issu des thématiques narratives de 2021.
+Le marché coréen 2023-2026 a produit 27 tenbaggers sur 2 613 valeurs. Trois quarts étaient rentables au départ. Le grand gagnant discret n'était pas l'IA — c'était le réseau électrique. Un simple filtre ROE≥40 % + P/E≤15, appliqué mécaniquement, aurait capturé une part disproportionnée des gagnants. Et parmi les 27, <strong>aucun</strong> n'est issu des thématiques narratives de 2021.
 
 Le trade ennuyeux — actifs réels, bénéfices réels, capex réels — a encore gagné.
 

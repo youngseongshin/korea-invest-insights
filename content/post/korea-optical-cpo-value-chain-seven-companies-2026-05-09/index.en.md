@@ -26,19 +26,19 @@ tags:
   - "1.6T"
 ---
 
-> 🔗 **Related**: [AI PCB & Substrate Hub](/page/korea-ai-pcb-substrate-hub/) · [Korea AI PCB Ecosystem — 10 Companies](/post/korea-ai-pcb-ecosystem-ten-companies-2026-05-05/) · [AI PCB & Substrate Thesis — System BOM as the Common Bottleneck](/post/ai-pcb-thesis-system-bom-common-bottleneck-2026-05-05/) · [Haesung DS — Lead Frame to AI Heat-Spreader Second-Source](/post/haesung-ds-leadframe-ai-heat-spreader-second-source-2026-05-07/)
+> 🔗 <strong>Related</strong>: [AI PCB & Substrate Hub](/page/korea-ai-pcb-substrate-hub/) · [Korea AI PCB Ecosystem — 10 Companies](/post/korea-ai-pcb-ecosystem-ten-companies-2026-05-05/) · [AI PCB & Substrate Thesis — System BOM as the Common Bottleneck](/post/ai-pcb-thesis-system-bom-common-bottleneck-2026-05-05/) · [Haesung DS — Lead Frame to AI Heat-Spreader Second-Source](/post/haesung-ds-leadframe-ai-heat-spreader-second-source-2026-05-07/)
 
-*The [substrate-thesis post](/post/ai-pcb-thesis-system-bom-common-bottleneck-2026-05-05/) made a system-BOM argument: AI demand isn't bought one chip at a time, it's bought one rack at a time, and substrate demand sits across the entire BOM. The same logic now extends down to optical interconnect — and the Korean listed exposures are far less mature. Seven names sit on the optical / CPO axis. Only one (OE Solutions, 138080.KQ) is genuinely close to the new CPO architecture via its **ELSFP external laser source**. The other six are downstream beneficiaries or themes. And six of seven are up +300% to +905% YTD against operating losses or unverified customer wins. This is a "valid technical thesis at the wrong price" market — exactly the kind of setup where mapping the value chain by **distance to the actual bottleneck** is more useful than buying the most-up names.*
+*The [substrate-thesis post](/post/ai-pcb-thesis-system-bom-common-bottleneck-2026-05-05/) made a system-BOM argument: AI demand isn't bought one chip at a time, it's bought one rack at a time, and substrate demand sits across the entire BOM. The same logic now extends down to optical interconnect — and the Korean listed exposures are far less mature. Seven names sit on the optical / CPO axis. Only one (OE Solutions, 138080.KQ) is genuinely close to the new CPO architecture via its <strong>ELSFP external laser source</strong>. The other six are downstream beneficiaries or themes. And six of seven are up +300% to +905% YTD against operating losses or unverified customer wins. This is a "valid technical thesis at the wrong price" market — exactly the kind of setup where mapping the value chain by <strong>distance to the actual bottleneck</strong> is more useful than buying the most-up names.*
 
 ---
 
 ## TL;DR
 
-* **Among Korean listed names, only OE Solutions (138080.KQ) is truly close to CPO.** It has disclosed an **ELSFP external laser source** product (CPO-compatible, OIF-standard 8-channel, 23dBm/200mW per channel, TEC-cooled, customer samples planned for 3Q26) and developed a domestic-first **100G EML laser chip**. The other six are not on the CPO core path. OE Solutions is also not yet named on Nvidia's or Broadcom's public CPO partner list.
-* **Optocore has actual AI data-center optical transceiver contracts** totalling \~₩16.7bn — but the customer is undisclosed and trading is suspended on a 1Q26 going-concern audit. **Not investable.**
-* **Daehan Optical Communications is +905% YTD on a "more optical fiber for AI" narrative — not a CPO play at all.** It's a vertically integrated preform-to-fiber company, not an optical engine or laser supplier. The Korea Exchange has flagged it for investment-warning escalation.
-* **Six of seven names are up +300%+ YTD against still-loss-making P&Ls.** Daehan +905%, BWE +778%, WooriRo +616%, OE Solutions +307%. The price moved long before the earnings followed. Buying here is a bet on **price catching up to its own forward expectations**, not on the technology being right.
-* **The clean allocator read is OE Solutions watchlist with a wait, the other six on hold.** OE Solutions trades at >100× 2026E OP at the current price — the entry is at the **47,000–50,000 won pullback** or after **3Q ELSFP customer-sample confirmation**, not on chase.
+* <strong>Among Korean listed names, only OE Solutions (138080.KQ) is truly close to CPO.</strong> It has disclosed an <strong>ELSFP external laser source</strong> product (CPO-compatible, OIF-standard 8-channel, 23dBm/200mW per channel, TEC-cooled, customer samples planned for 3Q26) and developed a domestic-first <strong>100G EML laser chip</strong>. The other six are not on the CPO core path. OE Solutions is also not yet named on Nvidia's or Broadcom's public CPO partner list.
+* <strong>Optocore has actual AI data-center optical transceiver contracts</strong> totalling \~₩16.7bn — but the customer is undisclosed and trading is suspended on a 1Q26 going-concern audit. <strong>Not investable.</strong>
+* <strong>Daehan Optical Communications is +905% YTD on a "more optical fiber for AI" narrative — not a CPO play at all.</strong> It's a vertically integrated preform-to-fiber company, not an optical engine or laser supplier. The Korea Exchange has flagged it for investment-warning escalation.
+* <strong>Six of seven names are up +300%+ YTD against still-loss-making P&Ls.</strong> Daehan +905%, BWE +778%, WooriRo +616%, OE Solutions +307%. The price moved long before the earnings followed. Buying here is a bet on <strong>price catching up to its own forward expectations</strong>, not on the technology being right.
+* <strong>The clean allocator read is OE Solutions watchlist with a wait, the other six on hold.</strong> OE Solutions trades at >100× 2026E OP at the current price — the entry is at the <strong>47,000–50,000 won pullback</strong> or after <strong>3Q ELSFP customer-sample confirmation</strong>, not on chase.
 
 ---
 
@@ -66,20 +66,20 @@ Broadcom has indicated that lead times on optical-transceiver PCBs have stretche
 
 ### 1.2 What CPO actually is
 
-The legacy architecture used **pluggable optical modules** plugged into the front of the switch chassis. Easy to swap, but power-hungry, and the electrical signal travels a long path from the switch ASIC out to the front panel.
+The legacy architecture used <strong>pluggable optical modules</strong> plugged into the front of the switch chassis. Easy to swap, but power-hungry, and the electrical signal travels a long path from the switch ASIC out to the front panel.
 
-**Co-Packaged Optics (CPO)** is a different architecture: the optical engine sits **right next to the switch ASIC on the same package substrate**. Electrical-signal travel distance collapses. Power per bit drops sharply.
+<strong>Co-Packaged Optics (CPO)</strong> is a different architecture: the optical engine sits <strong>right next to the switch ASIC on the same package substrate</strong>. Electrical-signal travel distance collapses. Power per bit drops sharply.
 
-* Nvidia has stated its CPO-based switch is **5× more power-efficient** and offers **10× better network reliability** than pluggable equivalents.
-* Broadcom has shown a 51.2 Tbps CPO Ethernet switch claiming **>70% reduction in optical-link power consumption**.
+* Nvidia has stated its CPO-based switch is <strong>5× more power-efficient</strong> and offers <strong>10× better network reliability</strong> than pluggable equivalents.
+* Broadcom has shown a 51.2 Tbps CPO Ethernet switch claiming <strong>>70% reduction in optical-link power consumption</strong>.
 
 ### 1.3 Why "external laser source" matters inside CPO
 
-The hard problem inside CPO: **lasers are temperature-sensitive, switch ASICs are hot.** Putting the laser inside the package, next to a hot ASIC, shortens laser life and degrades performance.
+The hard problem inside CPO: <strong>lasers are temperature-sensitive, switch ASICs are hot.</strong> Putting the laser inside the package, next to a hot ASIC, shortens laser life and degrades performance.
 
-Solution: **separate the laser from the package.** Pull the laser out to the front panel, send only the light into the package via fiber, and keep the laser body thermally isolated.
+Solution: <strong>separate the laser from the package.</strong> Pull the laser out to the front panel, send only the light into the package via fiber, and keep the laser body thermally isolated.
 
-The standard form factor for that external laser is **ELSFP — External Laser Small Form-factor Pluggable**, defined by OIF (Optical Internetworking Forum). Once CPO scales, ELSFP becomes a core component category.
+The standard form factor for that external laser is <strong>ELSFP — External Laser Small Form-factor Pluggable</strong>, defined by OIF (Optical Internetworking Forum). Once CPO scales, ELSFP becomes a core component category.
 
 ```
 Where ELSFP sits inside CPO:
@@ -93,7 +93,7 @@ ELSFP external laser source (front panel, thermally isolated)
 Laser (high-power, stable)
 ```
 
-**OE Solutions's ELSFP is exactly this part.** It's the only Korean listed company with this specific product disclosed.
+<strong>OE Solutions's ELSFP is exactly this part.</strong> It's the only Korean listed company with this specific product disclosed.
 
 ---
 
@@ -101,19 +101,19 @@ Laser (high-power, stable)
 
 | # | Company (ticker) | Value-chain position | AI optical relevance | YTD price | Read |
 |---:|---|---|---|---:|---|
-| 1 | **OE Solutions (138080.KQ)** | CPO ELSFP / optical transceiver / laser chip | **Most direct** | +307% | Core watchlist |
+| 1 | <strong>OE Solutions (138080.KQ)</strong> | CPO ELSFP / optical transceiver / laser chip | <strong>Most direct</strong> | +307% | Core watchlist |
 | 2 | Optocore | AI data-center transceivers | Contract evidence; suspended | +106% | Not investable |
-| 3 | Daehan Optical Communications | Fiber and cable (upstream materials) | Downstream beneficiary, not CPO | **+905%** | Overheated; KRX warning escalation |
-| 4 | BWE | 800G / 1.6T transceiver line-up | Product disclosed; customer unconfirmed | **+778%** | High-vol thematic |
-| 5 | WooriRo | Photodetectors (transceiver core component) | Tech-development stage | **+616%** | Component option |
+| 3 | Daehan Optical Communications | Fiber and cable (upstream materials) | Downstream beneficiary, not CPO | <strong>+905%</strong> | Overheated; KRX warning escalation |
+| 4 | BWE | 800G / 1.6T transceiver line-up | Product disclosed; customer unconfirmed | <strong>+778%</strong> | High-vol thematic |
+| 5 | WooriRo | Photodetectors (transceiver core component) | Tech-development stage | <strong>+616%</strong> | Component option |
 | 6 | Lycom | Optical amplifiers / DC connectivity | Downstream beneficiary | +98% | Event-pending |
 | 7 | Coset | Optical components (TOSA/ROSA) | Small-cap option | -5% | Liquidity-inadequate |
 
 ### 2.1 What this table shows
 
-**First, true CPO exposure vs. AI optical thematic are different objects.** Only OE Solutions has the ELSFP external-laser product. The rest are transceivers (Optocore, BWE), fiber (Daehan Optical), photodetectors (WooriRo), amplifiers (Lycom), or generic components (Coset). All sit somewhere in the broader AI optical value chain, but "core CPO supplier" and "thematic optical name" do not deserve the same multiple.
+<strong>First, true CPO exposure vs. AI optical thematic are different objects.</strong> Only OE Solutions has the ELSFP external-laser product. The rest are transceivers (Optocore, BWE), fiber (Daehan Optical), photodetectors (WooriRo), amplifiers (Lycom), or generic components (Coset). All sit somewhere in the broader AI optical value chain, but "core CPO supplier" and "thematic optical name" do not deserve the same multiple.
 
-**Second, six of seven are up several hundred percent YTD against operating losses or unverified customer wins.** Daehan +905%, BWE +778%, WooriRo +616%, OE Solutions +307%. Price moved before earnings. Buying here is not "is the technology right?" — it's "did price already overshoot what the earnings can deliver?"
+<strong>Second, six of seven are up several hundred percent YTD against operating losses or unverified customer wins.</strong> Daehan +905%, BWE +778%, WooriRo +616%, OE Solutions +307%. Price moved before earnings. Buying here is not "is the technology right?" — it's "did price already overshoot what the earnings can deliver?"
 
 ---
 
@@ -123,7 +123,7 @@ Laser (high-power, stable)
 
 OE Solutions makes optical transceivers and laser chips. Founded in 2003 by Bell Labs and Samsung Electronics alumni with optical-volume-manufacturing backgrounds. International footprint: New Jersey and California (US), the Netherlands, Japan.
 
-Core capability: **vertical integration from laser chip → optical sub-assembly → finished transceiver.** In an optical transceiver, the laser is the "engine" — light-output stability, thermal management, and lifetime drive the product. OE Solutions develops the laser chip in-house.
+Core capability: <strong>vertical integration from laser chip → optical sub-assembly → finished transceiver.</strong> In an optical transceiver, the laser is the "engine" — light-output stability, thermal management, and lifetime drive the product. OE Solutions develops the laser chip in-house.
 
 ### 3.2 Why ELSFP is the key product
 
@@ -140,7 +140,7 @@ OE Solutions's CPO-compatible ELSFP:
 
 This product directly addresses the CPO thermal isolation problem — pulling the laser away from a hot switch ASIC and locating it on the front panel. OIF defines the standard, and OE Solutions is the only Korean listed name with the disclosed product.
 
-OE Solutions also disclosed at AI EXPO 2026 a domestic-first **100G-class EML laser chip**, the foundational light source for 800G/1.6T transceivers.
+OE Solutions also disclosed at AI EXPO 2026 a domestic-first <strong>100G-class EML laser chip</strong>, the foundational light source for 800G/1.6T transceivers.
 
 ### 3.3 The earnings haven't caught the technology
 
@@ -151,14 +151,14 @@ This is the gap that defines the trade.
 | Revenue (KRW bn) | 32.0 | 57.4 | 81.6–83.5 |
 | Operating profit (KRW bn) | -30.4 | -16.0 | 6.1–6.5 |
 | Operating margin | -95% | -28% | 7–8% |
-| Datacom revenue mix | — | **2%** | still low |
+| Datacom revenue mix | — | <strong>2%</strong> | still low |
 
 2025 revenue recovered +79% YoY but stayed loss-making. 2026E flips to profit (₩6.1–6.5bn OP), but the market cap is \~₩660bn. Quick check:
 
 * Enterprise value ≈ market cap + net debt = 660 + 20 = \~₩680bn
-* On 2026E OP of ₩6.5bn → **EV/EBIT ≈ 105×**
+* On 2026E OP of ₩6.5bn → <strong>EV/EBIT ≈ 105×</strong>
 
-**At the current price you're paying \~105× 2026E OP.** That is not a "2026 turn-to-profit" valuation. That is an "AI optical revenue inflection in 2027–2028" valuation.
+<strong>At the current price you're paying \~105× 2026E OP.</strong> That is not a "2026 turn-to-profit" valuation. That is an "AI optical revenue inflection in 2027–2028" valuation.
 
 ### 3.4 Revenue mix is not yet AI-centric
 
@@ -169,10 +169,10 @@ This is the gap that defines the trade.
 | Wireless | 48% | Legacy core; recovering after the post-5G slowdown |
 | FTTH / MSO (wired access) | 23% | Tied to Japanese / US wired-access spend |
 | Long-haul (Telecom) | 21% | 100G/400G long-haul transceivers |
-| **Datacom** | **2%** | **The AI story is not yet in revenue** |
+| <strong>Datacom</strong> | <strong>2%</strong> | <strong>The AI story is not yet in revenue</strong> |
 | Laser chips | 6% | Tech option, scale still constrained |
 
-Calling this an "AI data-center CPO company" overshoots the current P&L. The accurate framing is **"telecom-equipment recovery turnaround with a CPO call option attached."**
+Calling this an "AI data-center CPO company" overshoots the current P&L. The accurate framing is <strong>"telecom-equipment recovery turnaround with a CPO call option attached."</strong>
 
 ### 3.5 So why is it #1?
 
@@ -186,15 +186,15 @@ What only OE Solutions has, vs. the other six:
 5. International operations footprint (US / NL / JP)
 ```
 
-The cautionary note: Nvidia's disclosed CPO partner list (TSMC, Coherent, Corning, Foxconn, Lumentum, Senko, Sumitomo, etc.) **does not include OE Solutions**. The accurate state is "tech is there, ecosystem inclusion not yet confirmed."
+The cautionary note: Nvidia's disclosed CPO partner list (TSMC, Coherent, Corning, Foxconn, Lumentum, Senko, Sumitomo, etc.) <strong>does not include OE Solutions</strong>. The accurate state is "tech is there, ecosystem inclusion not yet confirmed."
 
 ### 3.6 Track these variables
 
-* **3Q26**: Did ELSFP customer samples ship on schedule?
-* **4Q26 → 2027**: Is qualification progressing? Are customer names being mentioned?
-* **Datacom mix**: Does it move materially above 2%?
-* **Gross margin**: Recovery from 2025's 10.5% toward 20%+?
-* **Operating profit**: Did the FY26 turn-to-profit actually print?
+* <strong>3Q26</strong>: Did ELSFP customer samples ship on schedule?
+* <strong>4Q26 → 2027</strong>: Is qualification progressing? Are customer names being mentioned?
+* <strong>Datacom mix</strong>: Does it move materially above 2%?
+* <strong>Gross margin</strong>: Recovery from 2025's 10.5% toward 20%+?
+* <strong>Operating profit</strong>: Did the FY26 turn-to-profit actually print?
 
 ---
 
@@ -202,7 +202,7 @@ The cautionary note: Nvidia's disclosed CPO partner list (TSMC, Coherent, Cornin
 
 ### 4.1 Daehan Optical Communications — +905% YTD, KRX investment-warning escalation
 
-Daehan is **not a CPO company.** It's a vertically integrated preform → fiber → cable manufacturer — upstream materials, not optical engines. AI data centers do consume more high-density fiber, but that's a downstream beneficiary thesis, not CPO core.
+Daehan is <strong>not a CPO company.</strong> It's a vertically integrated preform → fiber → cable manufacturer — upstream materials, not optical engines. AI data centers do consume more high-density fiber, but that's a downstream beneficiary thesis, not CPO core.
 
 The price action is the issue:
 
@@ -214,11 +214,11 @@ YTD: +905%
 KRX: 2026-05-08 designated as investment-caution stock; warning escalation pending
 ```
 
-Foreign flow has been strong, but the regulatory layer is already flagging the move. **A 10×-YTD stock buy here is not a fiber-demand bet — it's a "can the price extend further from a 10× base" bet.**
+Foreign flow has been strong, but the regulatory layer is already flagging the move. <strong>A 10×-YTD stock buy here is not a fiber-demand bet — it's a "can the price extend further from a 10× base" bet.</strong>
 
 ### 4.2 BWE — +778%, -36% from peak
 
-BWE disclosed an 800G / 1.6T transceiver lineup at AI EXPO. **Disclosed product ≠ qualified customer.** No core customer name confirmed. Up +778% YTD, down -36% from the peak (8,100 → 5,200 won). Currently in a digestion zone.
+BWE disclosed an 800G / 1.6T transceiver lineup at AI EXPO. <strong>Disclosed product ≠ qualified customer.</strong> No core customer name confirmed. Up +778% YTD, down -36% from the peak (8,100 → 5,200 won). Currently in a digestion zone.
 
 ### 4.3 WooriRo — +616%, retail-led spike
 
@@ -230,7 +230,7 @@ Optical amplifiers for intra- and inter-data-center connectivity. Reports of ove
 
 ### 4.5 Optocore — trading suspended, not investable
 
-AI data-center transceiver contracts of \~₩16.7bn aggregate are real. But trading was suspended in March 2026 on a going-concern audit qualification, with possible delisting. **No action possible as a public-equity name today.**
+AI data-center transceiver contracts of \~₩16.7bn aggregate are real. But trading was suspended in March 2026 on a going-concern audit qualification, with possible delisting. <strong>No action possible as a public-equity name today.</strong>
 
 ### 4.6 Coset — KONEX-listed, liquidity-inadequate
 
@@ -244,19 +244,19 @@ Maker of 400G+ TOSA/ROSA optical components. KONEX-listed (Korea's smaller equit
 
 | Stock | YTD | 3-month | 1-week | Status |
 |---|---:|---:|---:|---|
-| Daehan Optical | **+905%** | +610% | +47% | KRX warning pending |
-| BWE | **+778%** | +321% | +2% | -36% off peak, decelerating |
-| WooriRo | **+616%** | +513% | +7% | Retail-led spike |
-| OE Solutions | **+307%** | +232% | +38% | Institutional re-entry; still expensive |
+| Daehan Optical | <strong>+905%</strong> | +610% | +47% | KRX warning pending |
+| BWE | <strong>+778%</strong> | +321% | +2% | -36% off peak, decelerating |
+| WooriRo | <strong>+616%</strong> | +513% | +7% | Retail-led spike |
+| OE Solutions | <strong>+307%</strong> | +232% | +38% | Institutional re-entry; still expensive |
 | Optocore | +106% | +14% | — | Suspended |
 | Lycom | +98% | +114% | +2% | No volume |
 | Coset | -5% | +11% | -13% | Liquidity-inadequate |
 
 ### 5.2 The single-line read
 
-**Four of seven are up >300% YTD with effectively no earnings support.** OE Solutions still posted a ₩16bn 2025 operating loss. Daehan is profitable but not profitable enough to justify a 10× YTD move. The price has moved well ahead of the fundamentals.
+<strong>Four of seven are up >300% YTD with effectively no earnings support.</strong> OE Solutions still posted a ₩16bn 2025 operating loss. Daehan is profitable but not profitable enough to justify a 10× YTD move. The price has moved well ahead of the fundamentals.
 
-In this regime, the deciding question is not "is the technology right?" — it's **"did the price already pull forward more than the earnings can ever deliver?"**
+In this regime, the deciding question is not "is the technology right?" — it's <strong>"did the price already pull forward more than the earnings can ever deliver?"</strong>
 
 ---
 
@@ -270,12 +270,12 @@ At an EV/EBIT exit multiple of 30×, the OP required to justify each price level
 
 | Price | Required OP (at 30× EV/EBIT) | Vs. 2026E OP |
 |---:|---:|---|
-| 53,300 (current) | **\~₩22.7bn** | 3.5× consensus |
+| 53,300 (current) | <strong>\~₩22.7bn</strong> | 3.5× consensus |
 | 60,000 (street TP) | \~₩25.4bn | 3.9× consensus |
 | 70,000 | \~₩29.5bn | 4.5× consensus |
 | 100,000 | \~₩41.9bn | 6.4× consensus |
 
-**Even the current price requires OP \~3.5× the 2026E consensus** to reconcile to a 30× multiple. That isn't a 2026 number. That's a 2027–2028 AI-optical-revenue inflection.
+<strong>Even the current price requires OP \~3.5× the 2026E consensus</strong> to reconcile to a 30× multiple. That isn't a 2026 number. That's a 2027–2028 AI-optical-revenue inflection.
 
 ### 6.2 Scenario fair-value bands
 
@@ -287,7 +287,7 @@ At an EV/EBIT exit multiple of 30×, the OP required to justify each price level
 | Bull 2 | ELSFP customer adoption, GM 15%+ | ₩30–40bn | 71,000–111,000 |
 | Hyper-bull | Direct inclusion in global AI CPO supply chain | ₩40bn+ | 110,000+ |
 
-The **53,300 close sits between Bull 1 and Bull 2** — already pricing in meaningful CPO option value on top of the telecom-recovery base. If 3Q ELSFP customer engagement materializes, the price extends. If not, the level is exposed.
+The <strong>53,300 close sits between Bull 1 and Bull 2</strong> — already pricing in meaningful CPO option value on top of the telecom-recovery base. If 3Q ELSFP customer engagement materializes, the price extends. If not, the level is exposed.
 
 ---
 
@@ -295,25 +295,25 @@ The **53,300 close sits between Bull 1 and Bull 2** — already pricing in meani
 
 | # | Name | Read | Rationale |
 |---:|---|---|---|
-| 1 | **OE Solutions** | **Core watchlist, wait** | Highest CPO purity; price already rich. Wait for 47,000–50,000 pullback or 3Q ELSFP confirmation |
+| 1 | <strong>OE Solutions</strong> | <strong>Core watchlist, wait</strong> | Highest CPO purity; price already rich. Wait for 47,000–50,000 pullback or 3Q ELSFP confirmation |
 | 2 | Lycom | Event-pending | Less overheated, but no volume — needs an order or customer-disclosure catalyst |
-| 3 | Daehan Optical | **No chase** | +905% with KRX warning pending. Holders trim; new entries inappropriate |
+| 3 | Daehan Optical | <strong>No chase</strong> | +905% with KRX warning pending. Holders trim; new entries inappropriate |
 | 4 | BWE | Wait for re-break | -36% off peak; pause until customer confirmation |
 | 5 | WooriRo | No new entry | Retail-led; technology unverified |
-| 6 | Optocore | **Not investable** | Trading suspended, delisting risk |
+| 6 | Optocore | <strong>Not investable</strong> | Trading suspended, delisting risk |
 | 7 | Coset | Watch only | KONEX, liquidity-inadequate |
 
 ### 7.1 OE Solutions entry conditions
 
-**Price**: First interest at 47,000–50,000 zone. Second interest at 43,000–45,000 (deeper retest).
+<strong>Price</strong>: First interest at 47,000–50,000 zone. Second interest at 43,000–45,000 (deeper retest).
 
-**Earnings confirmation**:
+<strong>Earnings confirmation</strong>:
 
 * 2Q or 3Q operating-profit print (turn-to-profit confirmation)
 * 3Q ELSFP customer-sample shipment disclosure
 * Datacom revenue mix moving up
 
-**Flow confirmation**:
+<strong>Flow confirmation</strong>:
 
 * Foreign + institutional concurrent net buying ≥ 3 sessions
 * Stable settlement above the 52-week high (57,900)
@@ -332,11 +332,11 @@ The **53,300 close sits between Bull 1 and Bull 2** — already pricing in meani
 
 ### 8.1 Most of the seven are thematic stocks
 
-Honestly: among the seven, almost none have earnings-validated cases. OE Solutions was operating-loss in 2025, and the rest are weaker. **Stocks up several hundred percent without operating profit are priced on expectation, not delivery.** When expectation is not converted into earnings, the price gives back.
+Honestly: among the seven, almost none have earnings-validated cases. OE Solutions was operating-loss in 2025, and the rest are weaker. <strong>Stocks up several hundred percent without operating profit are priced on expectation, not delivery.</strong> When expectation is not converted into earnings, the price gives back.
 
 ### 8.2 No Korean small-cap is on Nvidia's CPO partner list
 
-Nvidia's named CPO partners: TSMC, Coherent, Corning, Foxconn, Lumentum, Senko, Sumitomo. No Korean small-caps. Asserting "Korean companies are inside the CPO supply chain" is overreach. OE Solutions is the closest but is still a **candidate**, not a confirmed inclusion.
+Nvidia's named CPO partners: TSMC, Coherent, Corning, Foxconn, Lumentum, Senko, Sumitomo. No Korean small-caps. Asserting "Korean companies are inside the CPO supply chain" is overreach. OE Solutions is the closest but is still a <strong>candidate</strong>, not a confirmed inclusion.
 
 ### 8.3 Optical investing has long lead times
 
@@ -346,7 +346,7 @@ Optical-transceiver qualification cycles run like semiconductors: sample → qua
 
 ## 9. Connecting back to the substrate series
 
-This piece sits in the same frame as the [substrate series](/page/korea-ai-pcb-substrate-hub/). The [system-BOM thesis](/post/ai-pcb-thesis-system-bom-common-bottleneck-2026-05-05/) made the structural argument that **AI demand is bought as systems, not chips.** That system contains substrate, optical, thermal, and power layers — all of them stretched.
+This piece sits in the same frame as the [substrate series](/page/korea-ai-pcb-substrate-hub/). The [system-BOM thesis](/post/ai-pcb-thesis-system-bom-common-bottleneck-2026-05-05/) made the structural argument that <strong>AI demand is bought as systems, not chips.</strong> That system contains substrate, optical, thermal, and power layers — all of them stretched.
 
 ```
 AI system common bottlenecks:
@@ -360,7 +360,7 @@ Cooling (immersion, heat sinks) — future post candidate
 
 The [10-companies framework](/post/korea-ai-pcb-ecosystem-ten-companies-2026-05-05/) argued that the substrate-shortage thesis funnels back into upstream materials. The same distinction applies here — fiber and cable (Daehan Optical) is a downstream beneficiary, while laser / external-laser-source (OE Solutions) sits closer to the actual CPO bottleneck.
 
-The crucial difference: **the substrate cluster has earnings catching up with the price. The optical cluster does not.** Substrate is "pick the validated names trading at acceptable prices." Optical is **"separate signal from noise inside an overheated, pre-earnings rally."**
+The crucial difference: <strong>the substrate cluster has earnings catching up with the price. The optical cluster does not.</strong> Substrate is "pick the validated names trading at acceptable prices." Optical is <strong>"separate signal from noise inside an overheated, pre-earnings rally."</strong>
 
 [Haesung DS](/post/haesung-ds-leadframe-ai-heat-spreader-second-source-2026-05-07/) provides the same contrast on the thermal axis: there, the AI heat-spreader optionality sits on top of a real automotive-LF and DDR-substrate base. Here, five of seven optical names lack a comparable base — the optionality is essentially the entire thesis.
 
@@ -370,9 +370,9 @@ The crucial difference: **the substrate cluster has earnings catching up with th
 
 Optical interconnect being the next AI data-center bottleneck is structurally correct. Tens of thousands of GPUs need 800G / 1.6T optics, and CPO is the credible architectural answer. Korea has seven listed exposures.
 
-But only **one** of the seven is genuinely close to CPO core. OE Solutions has the ELSFP external-laser source and the in-house 100G EML chip. The other six are downstream beneficiaries or themes. And six of seven are up +300% to +905% YTD — Daehan Optical with a KRX investment-warning escalation pending on top.
+But only <strong>one</strong> of the seven is genuinely close to CPO core. OE Solutions has the ELSFP external-laser source and the in-house 100G EML chip. The other six are downstream beneficiaries or themes. And six of seven are up +300% to +905% YTD — Daehan Optical with a KRX investment-warning escalation pending on top.
 
-OE Solutions itself trades at \~105× 2026E OP. Datacom mix is 2%. 2025 was a loss. **At the current price you are betting on 2027–2028 CPO customer adoption, not 2026 earnings.** The clean entry sits behind 3Q26 ELSFP customer-sample confirmation or a 47,000–50,000 pullback — observation rather than chase.
+OE Solutions itself trades at \~105× 2026E OP. Datacom mix is 2%. 2025 was a loss. <strong>At the current price you are betting on 2027–2028 CPO customer adoption, not 2026 earnings.</strong> The clean entry sits behind 3Q26 ELSFP customer-sample confirmation or a 47,000–50,000 pullback — observation rather than chase.
 
 "The technology is right" and "the price is right today" are different questions. Optical will likely prove to be a real AI-system bottleneck. But if price has already pulled forward several hundred percent, allocator return is determined by where you bought, not by whether the technology was correct.
 
@@ -380,26 +380,26 @@ OE Solutions itself trades at \~105× 2026E OP. Datacom mix is 2%. 2025 was a lo
 
 ## FAQ
 
-**Q: What is CPO in one sentence?**
-A: A new packaging architecture that places the optical engine **directly next to the switch ASIC** on the same package, dramatically shortening the electrical-signal path and cutting power per bit. Replaces front-panel pluggable optics in high-end AI data-center switches.
+<strong>Q: What is CPO in one sentence?</strong>
+A: A new packaging architecture that places the optical engine <strong>directly next to the switch ASIC</strong> on the same package, dramatically shortening the electrical-signal path and cutting power per bit. Replaces front-panel pluggable optics in high-end AI data-center switches.
 
-**Q: Which Korean listed name is genuinely a CPO company?**
-A: **OE Solutions (138080.KQ)** is the only one with a disclosed CPO-relevant product — its ELSFP external laser source — plus an in-house 100G EML laser chip. It is **not yet** on Nvidia's or Broadcom's public CPO partner list, so the accurate state is "closest candidate," not "confirmed inclusion."
+<strong>Q: Which Korean listed name is genuinely a CPO company?</strong>
+A: <strong>OE Solutions (138080.KQ)</strong> is the only one with a disclosed CPO-relevant product — its ELSFP external laser source — plus an in-house 100G EML laser chip. It is <strong>not yet</strong> on Nvidia's or Broadcom's public CPO partner list, so the accurate state is "closest candidate," not "confirmed inclusion."
 
-**Q: Isn't Daehan Optical Communications a CPO play?**
+<strong>Q: Isn't Daehan Optical Communications a CPO play?</strong>
 A: No. Daehan is a vertically integrated optical-fiber and cable manufacturer (preform → fiber → cable). AI data centers do consume more high-density fiber — that is a downstream beneficiary thesis — but Daehan does not produce CPO core components (optical engines, lasers, photonic ICs).
 
-**Q: Should I chase OE Solutions at 53,300?**
+<strong>Q: Should I chase OE Solutions at 53,300?</strong>
 A: Not for a full position. The current price is \~105× 2026E OP. The asymmetric entries are: (a) a pullback into the 47,000–50,000 zone, or (b) confirmation of 3Q26 ELSFP customer samples shipping on schedule. Chasing here is a 30–50bp pilot at most.
 
-**Q: Which name is the highest-risk in the cohort?**
-A: Optocore is **not investable** today (trading suspended on going-concern audit). Daehan Optical is +905% YTD with KRX warning escalation pending. BWE and WooriRo are up several hundred percent on unverified customer bases. None of these are appropriate new entries.
+<strong>Q: Which name is the highest-risk in the cohort?</strong>
+A: Optocore is <strong>not investable</strong> today (trading suspended on going-concern audit). Daehan Optical is +905% YTD with KRX warning escalation pending. BWE and WooriRo are up several hundred percent on unverified customer bases. None of these are appropriate new entries.
 
-**Q: How does this compare to the Korean AI substrate names?**
-A: The substrate cluster has **earnings catching up to price**, so the actionable trade is selecting validated names at acceptable multiples. The optical cluster has **price ahead of earnings**, so the actionable trade is filtering signal from thematic noise and waiting for verification points. Same system-BOM thesis, two different stages of the cycle.
+<strong>Q: How does this compare to the Korean AI substrate names?</strong>
+A: The substrate cluster has <strong>earnings catching up to price</strong>, so the actionable trade is selecting validated names at acceptable multiples. The optical cluster has <strong>price ahead of earnings</strong>, so the actionable trade is filtering signal from thematic noise and waiting for verification points. Same system-BOM thesis, two different stages of the cycle.
 
-**Q: When does the case shift from "watchlist" to "core hold" for OE Solutions?**
-A: When **two of three** confirm: (1) FY26 actually turns to operating profit, (2) 3Q26 ELSFP samples ship plus a customer-qualification mention, (3) Datacom mix moves materially above 2%. Two out of three flips this from observation to position.
+<strong>Q: When does the case shift from "watchlist" to "core hold" for OE Solutions?</strong>
+A: When <strong>two of three</strong> confirm: (1) FY26 actually turns to operating profit, (2) 3Q26 ELSFP samples ship plus a customer-qualification mention, (3) Datacom mix moves materially above 2%. Two out of three flips this from observation to position.
 
 ---
 

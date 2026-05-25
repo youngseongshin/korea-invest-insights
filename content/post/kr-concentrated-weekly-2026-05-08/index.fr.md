@@ -12,13 +12,13 @@ draft: false
 
 Le 8 mai 2026, les marchés coréens ont franchi un cap : le régime KOSPI est passé de neutre à pleinement haussier en cours de séance. La largeur du marché au-dessus de la moyenne mobile à 50 jours atteignait 57,3 %, celle à 200 jours 57,4 %, et l'indice de volatilité américain VIX reculait à 17,1 — autant de signaux favorisant la prise de risque. Pourtant, la journée a révélé une contradiction frappante que les investisseurs étrangers s'intéressant au KOSPI ne peuvent ignorer.
 
-Samsung Electronics (005930.KS), le plus grand fabricant de puces mémoire et de semi-conducteurs au monde, a enregistré une hausse de près de 15,5 % sur cinq jours — une performance spectaculaire. Mais le même jour, les investisseurs étrangers ont vendu pour **2 550 milliards de wons** (environ 1,7 milliard d'euros) de titres Samsung en une seule séance. Tandis que les institutionnels domestiques ont absorbé une partie du flux, l'RSI atteignait 80,9 — un niveau de surachat rarement observé sur une valeur de cette capitalisation. Cette divergence entre tendance fondamentale et flux de court terme est l'élément déterminant de la journée.
+Samsung Electronics (005930.KS), le plus grand fabricant de puces mémoire et de semi-conducteurs au monde, a enregistré une hausse de près de 15,5 % sur cinq jours — une performance spectaculaire. Mais le même jour, les investisseurs étrangers ont vendu pour <strong>2 550 milliards de wons</strong> (environ 1,7 milliard d'euros) de titres Samsung en une seule séance. Tandis que les institutionnels domestiques ont absorbé une partie du flux, l'RSI atteignait 80,9 — un niveau de surachat rarement observé sur une valeur de cette capitalisation. Cette divergence entre tendance fondamentale et flux de court terme est l'élément déterminant de la journée.
 
 ---
 
 ## Samsung Electro-Mechanics : Une Réévaluation Historique sur l'IA
 
-La vraie surprise du 8 mai vient de Samsung Electro-Mechanics (009150.KS), fabricant coréen de composants passifs et de substrats de packaging avancés. Mirae Asset a relevé son objectif de cours de 530 000 wons à **1 300 000 wons** — une révision de +145 % sur un titre du KOSPI 100. Le moteur de ce scénario : la convergence entre la pénurie de substrats FC-BGA (Flip-Chip Ball Grid Array) dédiés à l'IA et l'accélération de la demande en MLCC haute performance pour serveurs.
+La vraie surprise du 8 mai vient de Samsung Electro-Mechanics (009150.KS), fabricant coréen de composants passifs et de substrats de packaging avancés. Mirae Asset a relevé son objectif de cours de 530 000 wons à <strong>1 300 000 wons</strong> — une révision de +145 % sur un titre du KOSPI 100. Le moteur de ce scénario : la convergence entre la pénurie de substrats FC-BGA (Flip-Chip Ball Grid Array) dédiés à l'IA et l'accélération de la demande en MLCC haute performance pour serveurs.
 
 L'analyste anticipe un BPA 2028 de 34 764 wons, valorisé à 37 fois les bénéfices — un multiple qui rappelle le pic de cycle MLCC de 2017. Concrètement, Samsung Electro-Mechanics fournit des substrats de packaging aux fabricants de puces pour accélérateurs IA, un maillon structurellement en tension depuis que la montée en puissance des GPU et des XPU dépasse les capacités des fonderies de packaging. Mirae Asset projette un taux d'utilisation MLCC à 95 % et une hausse du prix de vente moyen FC-BGA de 13 %.
 
@@ -50,9 +50,9 @@ Le cas LIG Nex1 illustre l'une des caractéristiques structurelles de l'industri
 
 Deux situations illustrent le décalage possible entre signal fondamental et comportement de marché à court terme.
 
-**Pearl Abyss (263750.KS)**, éditeur de jeux vidéo coréen dont le titre *Crimson Desert* s'est classé troisième des téléchargements PS5 en avril aux États-Unis et au Canada, et deuxième en Europe, affiche néanmoins un recul de 10,3 % sur cinq jours et de 12,4 % sur dix jours. Les étrangers et les institutionnels ont vendu conjointement sur la période. Le jeu est disponible sur PS Store depuis février 2026 ; les résultats du 12 mai seront déterminants pour valider si la rétention deux mois après le lancement soutient la thèse.
+<strong>Pearl Abyss (263750.KS)</strong>, éditeur de jeux vidéo coréen dont le titre *Crimson Desert* s'est classé troisième des téléchargements PS5 en avril aux États-Unis et au Canada, et deuxième en Europe, affiche néanmoins un recul de 10,3 % sur cinq jours et de 12,4 % sur dix jours. Les étrangers et les institutionnels ont vendu conjointement sur la période. Le jeu est disponible sur PS Store depuis février 2026 ; les résultats du 12 mai seront déterminants pour valider si la rétention deux mois après le lancement soutient la thèse.
 
-**Phamicel (208340.KS)**, fabricant coréen de matériaux spécialisés à faible constante diélectrique pour substrats électroniques, a annoncé un nouveau contrat de fourniture avec Doosan Electronic BG — le deuxième contrat similaire depuis février 2026, confirmant un caractère répétitif. Mais l'intensité contractuelle journalisée est inférieure à celle du contrat de février, et les étrangers, institutionnels et programmes algorithmiques ont tous vendu le jour même. Les résultats du premier trimestre (objectif de surveillance : résultat opérationnel ≥ 12 milliards de wons, marge ≥ 32 %) seront le filtre avant toute réévaluation de conviction.
+<strong>Phamicel (208340.KS)</strong>, fabricant coréen de matériaux spécialisés à faible constante diélectrique pour substrats électroniques, a annoncé un nouveau contrat de fourniture avec Doosan Electronic BG — le deuxième contrat similaire depuis février 2026, confirmant un caractère répétitif. Mais l'intensité contractuelle journalisée est inférieure à celle du contrat de février, et les étrangers, institutionnels et programmes algorithmiques ont tous vendu le jour même. Les résultats du premier trimestre (objectif de surveillance : résultat opérationnel ≥ 12 milliards de wons, marge ≥ 32 %) seront le filtre avant toute réévaluation de conviction.
 
 ---
 
@@ -76,10 +76,10 @@ Le taux américain à dix ans se stabilise à 4,39 %, un niveau qui n'exerce plu
 
 ## Catalyseurs à Surveiller
 
-- **12 mai** : Résultats Pearl Abyss — rétention *Crimson Desert* et guidances
-- **13 mai** : Résultats Alibaba (9988.HK / BABA.US) — signal sur la demande cloud Asie
-- **Prochain trimestre** : Résultats opérationnels Phamicel et Samsung Electro-Mechanics (confirmation 2Q OP ≥ 381 milliards de wons)
-- **27 mai** : Conférence de résultats Marvell Technology (MRVL.US) Q1 FY2027 — référence sur la demande d'interconnexion IA et les puces custom
-- **Zone support LIG Nex1** : 920 000–950 000 wons avec confirmation de la marge export 2Q
+- <strong>12 mai</strong> : Résultats Pearl Abyss — rétention *Crimson Desert* et guidances
+- <strong>13 mai</strong> : Résultats Alibaba (9988.HK / BABA.US) — signal sur la demande cloud Asie
+- <strong>Prochain trimestre</strong> : Résultats opérationnels Phamicel et Samsung Electro-Mechanics (confirmation 2Q OP ≥ 381 milliards de wons)
+- <strong>27 mai</strong> : Conférence de résultats Marvell Technology (MRVL.US) Q1 FY2027 — référence sur la demande d'interconnexion IA et les puces custom
+- <strong>Zone support LIG Nex1</strong> : 920 000–950 000 wons avec confirmation de la marge export 2Q
 
 La journée du 8 mai illustre un KOSPI en régime haussier structurel, mais traversé par des flux de court terme qui sanctionnent les valorisations tendues. Les dossiers les mieux positionnés sont ceux où la thèse fondamentale s'appuie sur des données récentes — contrats, révisions de consensus, classements de téléchargement — plutôt que sur l'extrapolation d'un cycle déjà largement reflété dans les prix.

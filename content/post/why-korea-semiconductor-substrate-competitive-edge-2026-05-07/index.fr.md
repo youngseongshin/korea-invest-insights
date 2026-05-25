@@ -7,9 +7,9 @@ categories: ["Why-Korea"]
 tags: ["Pourquoi la Corée", "substrats pour semiconducteurs", "FC-BGA", "ABF", "infrastructure IA", "industrie coréenne", "matériaux japonais", "fonderie taïwanaise", "actions coréennes", "PCB IA"]
 ---
 
-> **Série Pourquoi la Corée, partie 1.** Voici la couche stratégique qui sous-tend le [Hub PCB et substrats IA](/fr/page/korea-ai-pcb-substrate-hub/). À lire en parallèle avec [La thèse PCB et substrats IA](/fr/post/ai-pcb-thesis-system-bom-common-bottleneck-2026-05-05/), [L'écosystème PCB IA coréen : 10 entreprises](/fr/post/korea-ai-pcb-ecosystem-ten-companies-2026-05-05/) et [Samsung Electro-Mechanics : réévaluation infrastructure IA](/fr/post/samsung-electro-mechanics-ai-infrastructure-rerating-2026-04-21/).
+> <strong>Série Pourquoi la Corée, partie 1.</strong> Voici la couche stratégique qui sous-tend le [Hub PCB et substrats IA](/fr/page/korea-ai-pcb-substrate-hub/). À lire en parallèle avec [La thèse PCB et substrats IA](/fr/post/ai-pcb-thesis-system-bom-common-bottleneck-2026-05-05/), [L'écosystème PCB IA coréen : 10 entreprises](/fr/post/korea-ai-pcb-ecosystem-ten-companies-2026-05-05/) et [Samsung Electro-Mechanics : réévaluation infrastructure IA](/fr/post/samsung-electro-mechanics-ai-infrastructure-rerating-2026-04-21/).
 
-Une question de fond traverse toute notre analyse des substrats IA coréens et mérite sa propre note : **pourquoi la Corée compte-t-elle autant d'entreprises cotées dans les substrats et le PCB au départ ?**
+Une question de fond traverse toute notre analyse des substrats IA coréens et mérite sa propre note : <strong>pourquoi la Corée compte-t-elle autant d'entreprises cotées dans les substrats et le PCB au départ ?</strong>
 
 Les États-Unis ont Nvidia, AMD, Broadcom, Apple, Qualcomm, Synopsys, Cadence, Applied Materials, Lam Research et KLA. L'Europe a ASML, Infineon, STMicroelectronics, NXP et des spécialistes des matériaux. Mais dès qu'un investisseur cherche des fabricants commerciaux de substrats semiconducteurs à grande échelle, la carte bascule rapidement vers le Japon, Taïwan et la Corée.
 
@@ -114,7 +114,7 @@ L'Europe est légèrement différente, mais la conclusion est similaire. L'Europ
 
 La force du Japon dans les substrats commence par les matériaux.
 
-Le mot clé est **ABF**, l'Ajinomoto Build-up Film. L'ABF est un film isolant intercouche utilisé dans les substrats de boîtier haute performance. L'historique officiel des innovations d'Ajinomoto décrit l'ABF comme un matériau standard pour les CPU haute performance, adopté pour la première fois par un grand fabricant de semiconducteurs en 1999, et développé à partir de l'expertise en chimie fine de l'entreprise.
+Le mot clé est <strong>ABF</strong>, l'Ajinomoto Build-up Film. L'ABF est un film isolant intercouche utilisé dans les substrats de boîtier haute performance. L'historique officiel des innovations d'Ajinomoto décrit l'ABF comme un matériau standard pour les CPU haute performance, adopté pour la première fois par un grand fabricant de semiconducteurs en 1999, et développé à partir de l'expertise en chimie fine de l'entreprise.
 
 Cela compte parce que le substrat n'est pas seulement du câblage cuivre. Le matériau isolant entre les couches détermine la finesse possible du circuit, la stabilité de la structure et le comportement du substrat sous la chaleur et les contraintes mécaniques.
 
@@ -243,7 +243,7 @@ Premièrement, la Corée n'est pas numéro un dans chaque couche. Les substrats 
 
 Deuxièmement, les États-Unis et l'Europe ne sont pas définitivement absents. Le financement CHIPS, les programmes de packaging avancé, les substrats en verre et les investissements dans le packaging HBM sont des tentatives explicites de reconstituer les maillons manquants de la chaîne. L'horizon de temps se compte en années, pas en trimestres, mais la direction est réelle.
 
-La bonne conclusion n'est pas « l'Asie possède les substrats pour toujours ». La bonne conclusion est : **l'avantage actuel dans les substrats est le produit de décennies d'apprentissage de production accumulé, ce qui le rend suffisamment durable pour peser sur ce cycle IA.**
+La bonne conclusion n'est pas « l'Asie possède les substrats pour toujours ». La bonne conclusion est : <strong>l'avantage actuel dans les substrats est le produit de décennies d'apprentissage de production accumulé, ce qui le rend suffisamment durable pour peser sur ce cycle IA.</strong>
 
 ---
 

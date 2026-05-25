@@ -20,7 +20,7 @@ draft: false
 | USD/KRW | 1.490 | +1,1% | ⚠️ Won débil |
 | Brent | 107,5 USD | +7,4% | 📈 Presión alcista |
 
-**Régimen KR: Bull / Régimen US: Bull.**  
+<strong>Régimen KR: Bull / Régimen US: Bull.</strong>  
 El breadth sobre MA50 alcanza el 43,9% en el universo coreano y el índice de descubrimiento se sitúa en 100/100 (día 19 de señal activa). La divergencia de +6 puntos porcentuales entre KOSPI y KOSDAQ refleja una rotación hacia large-caps defensivos, mientras el won cediendo terreno frente al dólar añade un matiz de cautela para el inversor extranjero.
 
 ---
@@ -29,16 +29,16 @@ El breadth sobre MA50 alcanza el 43,9% en el universo coreano y el índice de de
 
 *(Datos del cierre de referencia más reciente disponible: 2026-05-08)*
 
-La sesión dibujó un perfil de **Bull matizado**: el régimen macro apunta claramente al alza, pero el flujo de capital no fue indiscriminado. Los sectores de **cables eléctricos, fibra óptica e infraestructura de IA** dominaron la jornada, con 가온전선 anotando casi +30% y 대한전선 sumando +12,8% con compras netas de extranjeros superiores a los 167.700 millones de wones. El subsegmento de **semiconductores y HBM** también aportó momentum, impulsado por expectativas de revisiones al alza en beneficios de SK하이닉스 (000660.KS) y narrativa de infraestructura de centros de datos IA.
+La sesión dibujó un perfil de <strong>Bull matizado</strong>: el régimen macro apunta claramente al alza, pero el flujo de capital no fue indiscriminado. Los sectores de <strong>cables eléctricos, fibra óptica e infraestructura de IA</strong> dominaron la jornada, con 가온전선 anotando casi +30% y 대한전선 sumando +12,8% con compras netas de extranjeros superiores a los 167.700 millones de wones. El subsegmento de <strong>semiconductores y HBM</strong> también aportó momentum, impulsado por expectativas de revisiones al alza en beneficios de SK하이닉스 (000660.KS) y narrativa de infraestructura de centros de datos IA.
 
-Por el lado débil, **videojuegos y defensa** quedaron rezagados. El caso más visible fue el de las empresas de juego online, con ventas netas tanto de extranjeros como de instituciones. En semiconductores de gran capitalización, Samsung Electronics (005930.KS) soportó ventas masivas por parte de inversores extranjeros —superiores a los 2,55 billones de wones— aunque el precio aguantó mejor de lo esperado gracias a la cobertura institucional.
+Por el lado débil, <strong>videojuegos y defensa</strong> quedaron rezagados. El caso más visible fue el de las empresas de juego online, con ventas netas tanto de extranjeros como de instituciones. En semiconductores de gran capitalización, Samsung Electronics (005930.KS) soportó ventas masivas por parte de inversores extranjeros —superiores a los 2,55 billones de wones— aunque el precio aguantó mejor de lo esperado gracias a la cobertura institucional.
 
-**Flujo de capital destacado:**
-- **더한전선 (대한전선)**: extranjeros +167.700 M KRW, instituciones +35.300 M KRW, programas +171.500 M KRW. El mejor perfil de calidad de flujo dentro del sector cables.
-- **대덕전자**: precio +2,1%, con compras netas simultáneas de extranjeros, instituciones y programas — el flujo más limpio del día entre los valores monitorizados.
-- **삼성전기 (009150.KS)**: tendencia al alza (+10,5% en 5 días) con soporte institucional, pero presión cruzada de extranjeros vendedores y posiciones cortas en torno al 13%.
+<strong>Flujo de capital destacado:</strong>
+- <strong>더한전선 (대한전선)</strong>: extranjeros +167.700 M KRW, instituciones +35.300 M KRW, programas +171.500 M KRW. El mejor perfil de calidad de flujo dentro del sector cables.
+- <strong>대덕전자</strong>: precio +2,1%, con compras netas simultáneas de extranjeros, instituciones y programas — el flujo más limpio del día entre los valores monitorizados.
+- <strong>삼성전기 (009150.KS)</strong>: tendencia al alza (+10,5% en 5 días) con soporte institucional, pero presión cruzada de extranjeros vendedores y posiciones cortas en torno al 13%.
 
-El mercado envía un mensaje claro: **la liquidez premia a los valores con mejora de márgenes y presencia en la cadena de IA**, mientras castiga lo que carece de catalizador de beneficios visible.
+El mercado envía un mensaje claro: <strong>la liquidez premia a los valores con mejora de márgenes y presencia en la cadena de IA</strong>, mientras castiga lo que carece de catalizador de beneficios visible.
 
 ---
 
@@ -66,13 +66,13 @@ El meta-screener de hoy rastrea 130 valores y selecciona los 20 con mayor conflu
 
 ### Contexto de los tres primeros candidatos
 
-**브이엠 (089970.KQ) — Líder del meta-screener**  
+<strong>브이엠 (089970.KQ) — Líder del meta-screener</strong>  
 Fabricante de equipos de propósito especial. Aparece en cuatro screeners simultáneamente: calidad compoundera (ROE 14,7%, beneficio operativo +387% interanual), flujo de dinero inteligente con compras netas de extranjeros e instituciones de calidad de +17.820 millones de wones en cinco días, mejora de beneficios activa y revisión al alza del consenso (z composite +0,83). Es el único valor del universo que combina revisión consenso al alza con presencia en todas las capas del framework. Próximo paso a verificar: visibilidad del carnet de pedidos para 2026 y sostenibilidad del margen operativo por encima del 17%.
 
-**기가비스 (420770.KQ) — Triple coincidencia, matiz en consenso**  
+<strong>기가비스 (420770.KQ) — Triple coincidencia, matiz en consenso</strong>  
 Especialista en inspección óptica de placas de circuito impreso para aplicaciones de alta densidad. Con crecimiento de ingresos del +100,6% y beneficio operativo +777% interanual, el mercado lleva semanas revalorizando el activo: RS percentil 95,3 y flujo acumulado de extranjeros e instituciones de calidad de +9.680 millones en cinco días. El único punto a monitorizar: también aparece en el screener de revisión de consenso *a la baja*, lo que sugiere que las expectativas del mercado podrían estar corriendo por delante de las estimaciones de los analistas. Catalizador DART confirmado: contrato de suministro publicado el 24 de abril.
 
-**RFHIC (218410.KQ) — Señal PEAD más potente del día**  
+<strong>RFHIC (218410.KQ) — Señal PEAD más potente del día</strong>  
 Fabricante de componentes de RF y semiconductores de nitruro de galio. Aunque su score meta (54,4) es inferior al de los candidatos anteriores, lidera los screeners de Smart Money Earnings (rank #1), PEAD (rank #1) y Smart Money Quality (rank #2) en términos absolutos. El beneficio operativo creció +1.960% interanual, con margen operativo ampliándose +15,3 pp. RS percentil de 99 y compras netas institucionales de +27.580 millones en cinco días. El drift post-earnings está activo con score PEAD de +3,54 desviaciones típicas — la señal más potente del universo hoy. Catalizador oficial DART: resultados operativos provisionales publicados el 27 de abril.
 
 ---

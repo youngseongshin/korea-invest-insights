@@ -27,7 +27,7 @@ draft: false
 
 # Top 5 del Screener de Acciones Coreanas (Semana del 16 de abr, 2026): Valores que Superan Múltiples Filtros Independientes
 
-Cada semana, nuestro marco cuantitativo ejecuta diez screeners independientes sobre 459 valores cotizados en Corea con identificación única. Este informe presenta los cinco nombres que han superado el mayor número de estos filtros de forma simultánea durante el período del **9 al 16 de abril de 2026** — y explica por qué la intersección, y no un único filtro, es la unidad de análisis relevante.
+Cada semana, nuestro marco cuantitativo ejecuta diez screeners independientes sobre 459 valores cotizados en Corea con identificación única. Este informe presenta los cinco nombres que han superado el mayor número de estos filtros de forma simultánea durante el período del <strong>9 al 16 de abril de 2026</strong> — y explica por qué la intersección, y no un único filtro, es la unidad de análisis relevante.
 
 ---
 
@@ -35,23 +35,23 @@ Cada semana, nuestro marco cuantitativo ejecuta diez screeners independientes so
 
 La mayoría de los filtros cuantitativos de acciones son herramientas de tesis única: un filtro de reversión a la media localiza valores con correcciones profundas; un filtro de momentum localiza valores en tendencia alcista; un filtro de flujo de dinero inteligente detecta valores donde el posicionamiento institucional está aumentando. Cualquiera de estos puede generar falsos positivos — una acción supera un filtro de reversión a la media simplemente porque ha caído, no porque se esté produciendo una inflexión real.
 
-El **filtrado por intersección** aplica una lógica distinta. Cuando un valor supera simultáneamente filtros construidos sobre *supuestos opuestos* — por ejemplo, tanto un modelo de rebote post-corrección como un modelo de momentum por sorpresa de beneficios — la coincidencia es estructuralmente significativa. Ambos marcos no fueron diseñados para coincidir; su activación simultánea sugiere que el valor cuenta con múltiples vientos de cola independientes en lugar de un único factor transitorio. En términos académicos, la intersección reduce el ruido específico de cada factor y amplifica la relación señal-ruido de cada filtro individual.
+El <strong>filtrado por intersección</strong> aplica una lógica distinta. Cuando un valor supera simultáneamente filtros construidos sobre *supuestos opuestos* — por ejemplo, tanto un modelo de rebote post-corrección como un modelo de momentum por sorpresa de beneficios — la coincidencia es estructuralmente significativa. Ambos marcos no fueron diseñados para coincidir; su activación simultánea sugiere que el valor cuenta con múltiples vientos de cola independientes en lugar de un único factor transitorio. En términos académicos, la intersección reduce el ruido específico de cada factor y amplifica la relación señal-ruido de cada filtro individual.
 
 Nuestros diez screeners apuntan a regímenes de mercado diferenciados: Reversión a la Media (rebotes desde correcciones profundas), PEAD (Deriva Posterior al Anuncio de Resultados — momentum de precio tras sorpresas de beneficios), Quality Compounder (compounders de ROE/ROIC/crecimiento de beneficios), Acumulación Silenciosa (acumulación institucional encubierta antes de que el mercado tome conciencia), tres variantes de Flujo de Dinero Inteligente, Valor-Calidad (barato en fundamentales con filtro de calidad) y Ciclo (rotación sectorial ligada a regímenes macro). Dado que los supuestos de diseño de estos filtros son contradictorios entre sí, un valor que aparece en el nivel superior de cinco o más es, por construcción, algo más que un artefacto de factor único.
 
 Los cinco valores que se presentan a continuación son los que registraron el mayor número de intersecciones en un análisis de 459 empresas cotizadas en Corea a lo largo de hasta tres instantáneas diarias durante el período de cobertura. Abarcan cinco regímenes diferenciados (reversión a la media, valor profundo en recuperación, momentum de ruptura, re-valoración de sociedad holding y biotecnología de dinero inteligente), lo que ofrece una diversificación natural por régimen desde el punto de vista de la construcción de carteras.
 
-> **Marco de referencia importante:** Las puntuaciones de fuerza de señal utilizadas en este informe reflejan recuentos de intersección de screeners y alineación de factores — no son calificaciones de compra, venta o mantenimiento. Véanse las secciones de FAQ y Aviso Legal.
+> <strong>Marco de referencia importante:</strong> Las puntuaciones de fuerza de señal utilizadas en este informe reflejan recuentos de intersección de screeners y alineación de factores — no son calificaciones de compra, venta o mantenimiento. Véanse las secciones de FAQ y Aviso Legal.
 
 ---
 
 ## #1 — Sepong Electric (세명전기, 017510.KQ)
 
-**Fuerza de Señal: Máxima** | Intersección de Screeners: 6/10
+<strong>Fuerza de Señal: Máxima</strong> | Intersección de Screeners: 6/10
 
 ### Resumen de Intersección de Screeners
 
-Sepong Electric es el *único* valor del universo completo de 459 empresas que ha superado simultáneamente los screeners de **Reversión a la Media** y **PEAD** — marcos construidos sobre supuestos mutuamente excluyentes (uno requiere una caída de precio; el otro requiere un avance de precio impulsado por resultados). También superó los filtros de Quality Compounder, dos variantes de Dinero Inteligente y Valor-Calidad, alcanzando una intersección total de seis.
+Sepong Electric es el *único* valor del universo completo de 459 empresas que ha superado simultáneamente los screeners de <strong>Reversión a la Media</strong> y <strong>PEAD</strong> — marcos construidos sobre supuestos mutuamente excluyentes (uno requiere una caída de precio; el otro requiere un avance de precio impulsado por resultados). También superó los filtros de Quality Compounder, dos variantes de Dinero Inteligente y Valor-Calidad, alcanzando una intersección total de seis.
 
 ### Métricas Financieras
 
@@ -59,13 +59,13 @@ Sepong Electric es el *único* valor del universo completo de 459 empresas que h
 |---|---|
 | Precio Actual | ₩10,200 |
 | Descuento respecto a Máximo 52 Semanas | −16.9% |
-| Beneficio Operativo Interanual | **+393%** |
-| Beneficio Neto Interanual | **+172%** |
+| Beneficio Operativo Interanual | <strong>+393%</strong> |
+| Beneficio Neto Interanual | <strong>+172%</strong> |
 | PER Forward | 12.2× |
 | PBR | 1.73× |
 | Margen Operativo | 45.8% |
 | ROE | 15.1% |
-| Variación de Participación Extranjera (20 días) | **+1.56 pp**, compra neta ₩3,100M |
+| Variación de Participación Extranjera (20 días) | <strong>+1.56 pp</strong>, compra neta ₩3,100M |
 | RSI | 58.6 |
 | MACD | Cruce positivo |
 
@@ -85,7 +85,7 @@ Sepong Electric es un valor de pequeña-mediana capitalización del KOSDAQ con l
 
 ## #2 — Woowon Development (우원개발, 046940.KQ)
 
-**Fuerza de Señal: Máxima** | Intersección de Screeners: 5/10
+<strong>Fuerza de Señal: Máxima</strong> | Intersección de Screeners: 5/10
 
 ### Resumen de Intersección de Screeners
 
@@ -97,13 +97,13 @@ Woowon Development ha superado cinco filtros: PEAD, Acumulación Silenciosa y tr
 |---|---|
 | Precio Actual | ₩5,060 |
 | Descuento respecto a Máximo 52 Semanas | −2.5% |
-| Beneficio Operativo Interanual | **+2,300%** |
-| Beneficio Neto Interanual | **+6,757%** |
-| PER Forward | **1.9×** |
-| PBR | **0.58×** |
+| Beneficio Operativo Interanual | <strong>+2,300%</strong> |
+| Beneficio Neto Interanual | <strong>+6,757%</strong> |
+| PER Forward | <strong>1.9×</strong> |
+| PBR | <strong>0.58×</strong> |
 | ROE | 36.8% |
 | Margen Operativo | 17.9% |
-| Variación de Participación Extranjera (20 días) | **+0.83 pp** |
+| Variación de Participación Extranjera (20 días) | <strong>+0.83 pp</strong> |
 
 ### Tesis
 
@@ -121,7 +121,7 @@ Los valores cíclicos de construcción se encuentran entre las apuestas de mayor
 
 ## #3 — SK Hynix (SK하이닉스, 000660.KS)
 
-**Fuerza de Señal: Alta** | Intersección de Screeners: 5/10
+<strong>Fuerza de Señal: Alta</strong> | Intersección de Screeners: 5/10
 
 ### Métricas Financieras
 
@@ -129,12 +129,12 @@ Los valores cíclicos de construcción se encuentran entre las apuestas de mayor
 |---|---|
 | Precio Actual | ₩1,136,000 |
 | Estado 52 Semanas | Nuevo máximo de 52 semanas |
-| Beneficio Operativo Interanual | **+101%** |
-| Beneficio Neto Interanual | **+117%** |
-| PER Forward | **5.0×** |
+| Beneficio Operativo Interanual | <strong>+101%</strong> |
+| Beneficio Neto Interanual | <strong>+117%</strong> |
+| PER Forward | <strong>5.0×</strong> |
 | ROE | 44.1% |
-| Compra Neta Institucional (10 días) | **+₩1.952 billones** |
-| Compra Neta Extranjera (5 días) | **+₩2.547 billones** |
+| Compra Neta Institucional (10 días) | <strong>+₩1.952 billones</strong> |
+| Compra Neta Extranjera (5 días) | <strong>+₩2.547 billones</strong> |
 | Flujo Neto Extranjero (20 días) | −₩2.2 billones |
 
 ### Tesis
@@ -153,7 +153,7 @@ SK Hynix está directamente expuesta a las restricciones comerciales en semicond
 
 ## #4 — SK Square (SK스퀘어, 402340.KS)
 
-**Fuerza de Señal: Alta / Timing Mixto** | Intersección de Screeners: 7/10
+<strong>Fuerza de Señal: Alta / Timing Mixto</strong> | Intersección de Screeners: 7/10
 
 ### Métricas Financieras
 
@@ -161,18 +161,18 @@ SK Hynix está directamente expuesta a las restricciones comerciales en semicond
 |---|---|
 | Precio Actual | ₩690,000 |
 | Estado 52 Semanas | Nuevo máximo de 52 semanas |
-| PER Forward | **4.0×** |
+| PER Forward | <strong>4.0×</strong> |
 | PBR | 3.17× |
-| Beneficio Operativo Interanual | **+124%** |
+| Beneficio Operativo Interanual | <strong>+124%</strong> |
 | ROE | 37.8% |
 | Margen Operativo | 84.1% |
-| Flujo Neto Extranjero (20 días) | **−₩223,600M** (toma de beneficios) |
+| Flujo Neto Extranjero (20 días) | <strong>−₩223,600M</strong> (toma de beneficios) |
 | Flujo Neto Institucional (20 días) | +₩130,800M |
 | RSI | 66.6 |
 
 ### Tesis
 
-SK Square ha alcanzado el **mayor recuento de intersecciones del análisis de esta semana con 7/10 screeners** — superando filtros en todas las categorías principales de régimen. SK Square es una sociedad holding cuyo activo principal es una participación accionarial significativa en SK Hynix. El PER forward de 4.0× representa un descuento estructural respecto a la propia valoración de SK Hynix; a medida que se reconozca la capacidad de generación de beneficios de SK Hynix, el descuento con el que cotiza SK Square respecto a su valor neto de activos debería comprimirse. El calificativo "Timing Mixto" refleja una tensión: el mayor recuento de intersecciones (7/10) coexiste con indicadores de cautela a corto plazo — los inversores extranjeros son vendedores netos en 20 días (−₩223,600M), el RSI está elevado en 66.6 y la acción se encuentra en un máximo de 52 semanas.
+SK Square ha alcanzado el <strong>mayor recuento de intersecciones del análisis de esta semana con 7/10 screeners</strong> — superando filtros en todas las categorías principales de régimen. SK Square es una sociedad holding cuyo activo principal es una participación accionarial significativa en SK Hynix. El PER forward de 4.0× representa un descuento estructural respecto a la propia valoración de SK Hynix; a medida que se reconozca la capacidad de generación de beneficios de SK Hynix, el descuento con el que cotiza SK Square respecto a su valor neto de activos debería comprimirse. El calificativo "Timing Mixto" refleja una tensión: el mayor recuento de intersecciones (7/10) coexiste con indicadores de cautela a corto plazo — los inversores extranjeros son vendedores netos en 20 días (−₩223,600M), el RSI está elevado en 66.6 y la acción se encuentra en un máximo de 52 semanas.
 
 ### Observaciones de Contexto Técnico
 
@@ -186,7 +186,7 @@ Los descuentos de sociedades holding en Corea son estructuralmente persistentes.
 
 ## #5 — Pharmicell (파미셀, 005690.KS)
 
-**Fuerza de Señal: Alta (Impulsada por Flujos)** | Intersección de Screeners: 4/10
+<strong>Fuerza de Señal: Alta (Impulsada por Flujos)</strong> | Intersección de Screeners: 4/10
 
 ### Métricas Financieras
 
@@ -194,14 +194,14 @@ Los descuentos de sociedades holding en Corea son estructuralmente persistentes.
 |---|---|
 | Precio Actual | ₩17,900 |
 | Descuento respecto a Máximo | −7.1% |
-| Beneficio Operativo Interanual | **+630%** |
-| Beneficio Neto Interanual | **+540%** |
+| Beneficio Operativo Interanual | <strong>+630%</strong> |
+| Beneficio Neto Interanual | <strong>+540%</strong> |
 | ROE | 38.3% |
 | Margen Operativo | 30.1% |
 | PER | 26.7× |
 | PBR | 8.67× |
-| Flujo Neto Extranjero (20 días) | **+₩19,500M, +2.69 pp de participación** |
-| Flujo Neto Institucional (20 días) | **+₩11,300M** |
+| Flujo Neto Extranjero (20 días) | <strong>+₩19,500M, +2.69 pp de participación</strong> |
+| Flujo Neto Institucional (20 días) | <strong>+₩11,300M</strong> |
 
 ### Tesis
 
@@ -242,19 +242,19 @@ Los valores de biotecnología conllevan un riesgo binario de evento vinculado a 
 
 ## FAQ
 
-**P1: ¿Qué es el filtrado por intersección?**
+<strong>P1: ¿Qué es el filtrado por intersección?</strong>
 El filtrado por intersección es una metodología cuantitativa que identifica valores que se encuentran simultáneamente en el grupo mejor clasificado de múltiples filtros independientes. En lugar de seleccionar acciones que superen *cualquier* filtro individual, exige superar *varios* filtros diseñados bajo diferentes supuestos. La coincidencia se trata como evidencia de mayor fiabilidad de alineación multifactorial.
 
-**P2: ¿Por qué ejecutar 10 screeners en lugar de un modelo integral único?**
+<strong>P2: ¿Por qué ejecutar 10 screeners en lugar de un modelo integral único?</strong>
 Un único modelo compuesto puede enmascarar la cancelación de factores — una puntuación alta en un factor podría compensar una puntuación baja en otro. Ejecutar 10 modelos separados, cada uno optimizado para un régimen distinto, obliga a la acción a demostrar fortaleza independiente en múltiples dimensiones. La intersección es una forma de validación por conjunto.
 
-**P3: ¿Qué significa PEAD?**
+<strong>P3: ¿Qué significa PEAD?</strong>
 PEAD son las siglas en inglés de Post-Earnings Announcement Drift (Deriva Posterior al Anuncio de Resultados). Es una anomalía de mercado documentada — identificada en la literatura académica (Ball & Brown, 1968; Bernard & Thomas, 1989) — en la que los precios de las acciones continúan moviéndose en la dirección de la sorpresa de resultados durante semanas o meses tras la fecha de anuncio, en lugar de ajustarse completamente en el momento del anuncio. Un screener PEAD identifica acciones que recientemente han publicado una sorpresa de resultados y cuyo precio aún no ha incorporado plenamente la información.
 
-**P4: ¿Cómo se valida que las intersecciones de screeners son señales estructurales y no solapamientos de factores coincidentes?**
+<strong>P4: ¿Cómo se valida que las intersecciones de screeners son señales estructurales y no solapamientos de factores coincidentes?</strong>
 Esta es la pregunta metodológica central. Nuestro enfoque de validación actual: (a) verificar la correlación de factores entre los screeners que se intersectan para garantizar que no miden variables idénticas (QC, VQ y SM-Q comparten sensibilidad al ROE — los usuarios deben tratarlos como un cluster parcial, no como tres votos completamente independientes); (b) examinar las tasas de acierto fuera de muestra para cohortes de intersección previas; (c) analizar las distribuciones de rentabilidad a 12 meses para tamaños de intersección de 4+, 5+, 6+ y 7+. Está previsto un backtest completo sobre la configuración simultánea MR+PEAD (como se observa en Sepong Electric esta semana).
 
-**P5: ¿Es esto asesoramiento de inversión?**
+<strong>P5: ¿Es esto asesoramiento de inversión?</strong>
 No — análisis educativo únicamente. Este informe no constituye asesoramiento de inversión, una solicitud de compra o venta de ningún valor, ni una recomendación de tomar ninguna acción financiera. Todas las puntuaciones de fuerza de señal, niveles de referencia de escenario y observaciones técnicas son de naturaleza descriptiva e informativa.
 
 ---
@@ -271,11 +271,11 @@ Los cinco valores analizados esta semana abarcan cinco regímenes de inversión 
 
 ## Aviso Legal
 
-Este informe se produce **únicamente con fines educativos e informativos**. No constituye asesoramiento de inversión, una solicitud, una oferta de compra o venta de ningún valor, ni una recomendación de tomar ninguna acción financiera. La información aquí contenida se basa en datos públicamente disponibles y salidas de screeners cuantitativos; puede contener errores u omisiones, y no se realiza ninguna declaración sobre su exactitud o exhaustividad.
+Este informe se produce <strong>únicamente con fines educativos e informativos</strong>. No constituye asesoramiento de inversión, una solicitud, una oferta de compra o venta de ningún valor, ni una recomendación de tomar ninguna acción financiera. La información aquí contenida se basa en datos públicamente disponibles y salidas de screeners cuantitativos; puede contener errores u omisiones, y no se realiza ninguna declaración sobre su exactitud o exhaustividad.
 
-**Los inversores individuales deben realizar su propia investigación independiente** y consultar con asesores financieros cualificados antes de tomar cualquier decisión de inversión. El perfil de riesgo, el contexto de cartera, la situación fiscal, el horizonte de inversión y el entorno regulatorio de cada inversor son diferentes.
+<strong>Los inversores individuales deben realizar su propia investigación independiente</strong> y consultar con asesores financieros cualificados antes de tomar cualquier decisión de inversión. El perfil de riesgo, el contexto de cartera, la situación fiscal, el horizonte de inversión y el entorno regulatorio de cada inversor son diferentes.
 
-**Aviso de riesgo de liquidez:** Sepong Electric (017510.KQ) y Woowon Development (046940.KQ) son valores de pequeña-mediana capitalización del KOSDAQ con una liquidez de negociación diaria materialmente inferior a la de los grandes valores del mercado principal KOSPI. Los inversores en valores poco líquidos se enfrentan a spreads de compra-venta más amplios, mayor impacto en el precio por cambios en la posición y una capacidad potencialmente limitada para salir a los precios deseados.
+<strong>Aviso de riesgo de liquidez:</strong> Sepong Electric (017510.KQ) y Woowon Development (046940.KQ) son valores de pequeña-mediana capitalización del KOSDAQ con una liquidez de negociación diaria materialmente inferior a la de los grandes valores del mercado principal KOSPI. Los inversores en valores poco líquidos se enfrentan a spreads de compra-venta más amplios, mayor impacto en el precio por cambios en la posición y una capacidad potencialmente limitada para salir a los precios deseados.
 
 Los resultados previos del screener y las rentabilidades históricas de los factores no garantizan resultados futuros. Los mercados de renta variable coreanos están sujetos a riesgos regulatorios, de divisa, geopolíticos y macroeconómicos que pueden no estar plenamente capturados por ningún marco cuantitativo.
 

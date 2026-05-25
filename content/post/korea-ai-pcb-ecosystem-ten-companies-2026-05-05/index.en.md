@@ -27,7 +27,7 @@ tags:
 series: ["ai-pcb-substrate-thesis-2026"]
 ---
 
-> **Sector map:** This is the company-matrix companion to the [AI PCB and Substrate Thesis](/post/ai-pcb-thesis-system-bom-common-bottleneck-2026-05-05/) and the [AI PCB and Substrate Hub](/page/korea-ai-pcb-substrate-hub/). The earlier thesis explained why AI substrates are a system-level bottleneck. This note asks which parts of the Korean ecosystem carry the better business quality, and where the factor setup still looks less fully priced.
+> <strong>Sector map:</strong> This is the company-matrix companion to the [AI PCB and Substrate Thesis](/post/ai-pcb-thesis-system-bom-common-bottleneck-2026-05-05/) and the [AI PCB and Substrate Hub](/page/korea-ai-pcb-substrate-hub/). The earlier thesis explained why AI substrates are a system-level bottleneck. This note asks which parts of the Korean ecosystem carry the better business quality, and where the factor setup still looks less fully priced.
 
 ---
 

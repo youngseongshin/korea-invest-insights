@@ -27,7 +27,7 @@ tags:
 series: ["ai-pcb-substrate-thesis-2026"]
 ---
 
-> **Bản đồ ngành:** Đây là phần phân tích ma trận công ty đi kèm với [Luận điểm PCB và Substrate AI](/vi/post/ai-pcb-thesis-system-bom-common-bottleneck-2026-05-05/) và [Hub PCB và Substrate AI](/vi/page/korea-ai-pcb-substrate-hub/). Bài luận điểm trước giải thích tại sao substrate AI là điểm nghẽn cấp hệ thống. Bài này đặt câu hỏi: phần nào trong hệ sinh thái Hàn Quốc có chất lượng kinh doanh tốt hơn, và đâu là nơi các yếu tố định giá vẫn chưa được phản ánh đầy đủ.
+> <strong>Bản đồ ngành:</strong> Đây là phần phân tích ma trận công ty đi kèm với [Luận điểm PCB và Substrate AI](/vi/post/ai-pcb-thesis-system-bom-common-bottleneck-2026-05-05/) và [Hub PCB và Substrate AI](/vi/page/korea-ai-pcb-substrate-hub/). Bài luận điểm trước giải thích tại sao substrate AI là điểm nghẽn cấp hệ thống. Bài này đặt câu hỏi: phần nào trong hệ sinh thái Hàn Quốc có chất lượng kinh doanh tốt hơn, và đâu là nơi các yếu tố định giá vẫn chưa được phản ánh đầy đủ.
 
 ---
 

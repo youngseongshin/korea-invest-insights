@@ -12,11 +12,11 @@ Ce billet prolonge [Why Korea 5](/post/why-korea-market-cap-global-six-ai-memory
 
 ## Résumé
 
-* Les investisseurs étrangers n'ont pas quitté la Corée de manière générale. Ils ont surtout réduit **Samsung Electronics** et **SK hynix**.
-* Research OS local DB indique une vente nette étrangère totale de **89,2 trillions de wons** entre le 2 janvier et le 22 mai 2026.
-* Samsung Electronics représente **-50,4 trillions de wons** et SK hynix **-34,4 trillions**. Ensemble, les deux titres expliquent environ **95 %** de la vente nette totale.
-* Hors ces deux valeurs, la vente étrangère nette n'est que de **-4,4 trillions de wons**.
-* Le message n'est donc pas “les étrangers vendent la Corée”, mais **distribution des mégacaps mémoire IA + rotation sectorielle sélective**.
+* Les investisseurs étrangers n'ont pas quitté la Corée de manière générale. Ils ont surtout réduit <strong>Samsung Electronics</strong> et <strong>SK hynix</strong>.
+* Research OS local DB indique une vente nette étrangère totale de <strong>89,2 trillions de wons</strong> entre le 2 janvier et le 22 mai 2026.
+* Samsung Electronics représente <strong>-50,4 trillions de wons</strong> et SK hynix <strong>-34,4 trillions</strong>. Ensemble, les deux titres expliquent environ <strong>95 %</strong> de la vente nette totale.
+* Hors ces deux valeurs, la vente étrangère nette n'est que de <strong>-4,4 trillions de wons</strong>.
+* Le message n'est donc pas “les étrangers vendent la Corée”, mais <strong>distribution des mégacaps mémoire IA + rotation sectorielle sélective</strong>.
 
 ## Lecture portefeuille
 

@@ -22,13 +22,13 @@ slug: ai-substrate-vs-test-socket-comparison-2026-05-15
 
 ## Points clés
 
-* **Deux segments dans le back-end IA** : les substrats et les sockets de test.
-* **Essence des substrats** : un « bêta CAPEX direct » sur la construction de serveurs IA. Plus de volumes → plus de revenus ; packages plus grands → ASP plus élevés.
-* **Essence des sockets de test** : un « bêta consommables à haute marge » sur la complexité des puces. Des puces plus complexes → des tests plus difficiles → davantage de sockets, et plus exigeantes.
-* **Écart de rentabilité** : au 1T26, Daeduck Electronics 14,8 % contre ISC 35 % contre LEENO Industrial 47,4 %. **Les sockets de test dominent**.
-* **Écart de momentum** : les révisions de résultats des substrats sont plus rapides — hausses d'ASP, nouveaux contrats long terme avec les géants technologiques, tensions sur les capacités sont autant de catalyseurs à court terme.
-* **Risque de cycle** : les substrats sont soumis au cycle CAPEX (pénurie → CAPEX → surcapacité). Les sockets de test, étant des consommables, présentent une cyclicité plus faible.
-* **Conclusion** : trades de momentum à court terme → substrats (Daeduck Electronics, Samsung Electro-Mechanics). Capitalisation sur 1 à 2 ans → sockets de test (LEENO Industrial, ISC). Ce ne sont pas le même « thème IA ».
+* <strong>Deux segments dans le back-end IA</strong> : les substrats et les sockets de test.
+* <strong>Essence des substrats</strong> : un « bêta CAPEX direct » sur la construction de serveurs IA. Plus de volumes → plus de revenus ; packages plus grands → ASP plus élevés.
+* <strong>Essence des sockets de test</strong> : un « bêta consommables à haute marge » sur la complexité des puces. Des puces plus complexes → des tests plus difficiles → davantage de sockets, et plus exigeantes.
+* <strong>Écart de rentabilité</strong> : au 1T26, Daeduck Electronics 14,8 % contre ISC 35 % contre LEENO Industrial 47,4 %. <strong>Les sockets de test dominent</strong>.
+* <strong>Écart de momentum</strong> : les révisions de résultats des substrats sont plus rapides — hausses d'ASP, nouveaux contrats long terme avec les géants technologiques, tensions sur les capacités sont autant de catalyseurs à court terme.
+* <strong>Risque de cycle</strong> : les substrats sont soumis au cycle CAPEX (pénurie → CAPEX → surcapacité). Les sockets de test, étant des consommables, présentent une cyclicité plus faible.
+* <strong>Conclusion</strong> : trades de momentum à court terme → substrats (Daeduck Electronics, Samsung Electro-Mechanics). Capitalisation sur 1 à 2 ans → sockets de test (LEENO Industrial, ISC). Ce ne sont pas le même « thème IA ».
 
 ---
 
@@ -648,15 +648,15 @@ Article KOSPI crash + porte macro :
 
 ## 9. La conclusion en une phrase
 
-Quand le silicium IA se vend, les premiers bénéficiaires sont les fabricants de GPU et de HBM. Mais le back-end compte lui aussi deux grands gagnants — **les substrats et les sockets de test**.
+Quand le silicium IA se vend, les premiers bénéficiaires sont les fabricants de GPU et de HBM. Mais le back-end compte lui aussi deux grands gagnants — <strong>les substrats et les sockets de test</strong>.
 
-Tous deux sont regroupés sous « back-end IA », mais leurs structures sont radicalement différentes. **Les substrats sont un « bêta volume serveurs IA ».** Les volumes augmentent, les packages grossissent, les ASP montent — upside direct. Le momentum est rapide et les marges opérationnelles s'élargissent à partir d'une base de \~12–15 % au 1T26. Mais c'est une industrie soumise au cycle CAPEX, et la date d'achèvement des constructions constitue le risque majeur.
+Tous deux sont regroupés sous « back-end IA », mais leurs structures sont radicalement différentes. <strong>Les substrats sont un « bêta volume serveurs IA ».</strong> Les volumes augmentent, les packages grossissent, les ASP montent — upside direct. Le momentum est rapide et les marges opérationnelles s'élargissent à partir d'une base de \~12–15 % au 1T26. Mais c'est une industrie soumise au cycle CAPEX, et la date d'achèvement des constructions constitue le risque majeur.
 
-**Les sockets de test sont un « bêta complexité des puces ».** Plus les puces se complexifient, plus les tests deviennent exigeants, et de nouvelles sockets sont nécessaires à chaque fois. L'OPM s'établit à 35 % pour ISC et 47 % pour LEENO — environ 3 fois les marges des substrats. L'économie de consommable amortit la cyclicité. Les inconvénients : le TAM est restreint et les multiples sont déjà élevés.
+<strong>Les sockets de test sont un « bêta complexité des puces ».</strong> Plus les puces se complexifient, plus les tests deviennent exigeants, et de nouvelles sockets sont nécessaires à chaque fois. L'OPM s'établit à 35 % pour ISC et 47 % pour LEENO — environ 3 fois les marges des substrats. L'économie de consommable amortit la cyclicité. Les inconvénients : le TAM est restreint et les multiples sont déjà élevés.
 
-**Ne les regroupez pas dans un même « thème IA ».** Pour un momentum à court terme, les substrats (Daeduck Electronics, Samsung Electro-Mechanics) ont l'avantage. Pour une détention de 1 à 2 ans, les sockets de test (LEENO Industrial, ISC) sont plus appropriées. La meilleure approche est de détenir les deux en complémentarité — quand les substrats vacillent à un pic de cycle, les sockets de test amortissent le choc ; quand les sockets de test subissent une pression sur leurs multiples, le momentum des substrats prend le relais.
+<strong>Ne les regroupez pas dans un même « thème IA ».</strong> Pour un momentum à court terme, les substrats (Daeduck Electronics, Samsung Electro-Mechanics) ont l'avantage. Pour une détention de 1 à 2 ans, les sockets de test (LEENO Industrial, ISC) sont plus appropriées. La meilleure approche est de détenir les deux en complémentarité — quand les substrats vacillent à un pic de cycle, les sockets de test amortissent le choc ; quand les sockets de test subissent une pression sur leurs multiples, le momentum des substrats prend le relais.
 
-**Même vent porteur IA, structures radicalement différentes — comprendre cela seul suffit à élever d'un cran la qualité de vos décisions d'investissement dans le back-end.**
+<strong>Même vent porteur IA, structures radicalement différentes — comprendre cela seul suffit à élever d'un cran la qualité de vos décisions d'investissement dans le back-end.</strong>
 
 ---
 

@@ -21,20 +21,20 @@ valley_cashtags:
   - 하나마이크론
 ---
 
-> 📚 **Related Series**
+> 📚 <strong>Related Series</strong>
 > [US-China Summit Tech Decoupling Analysis](/post/us-china-summit-tech-decoupling-korea-impact-2026-05-17/) / [CloudMatrix Korean Alpha Analysis](/post/cloudmatrix-expansion-korea-alpha-inspection-consumables-2026-05-17/) / [Long-Rate Stabilization Triggers](/post/us-japan-long-rate-stabilization-triggers-2026-05-16/) / [Macro Cycle Synthesis](/post/2026-q2-macro-cycle-synthesis-2026-05-15/) / [Korea Foreign Investor Flow Analysis](/post/korea-foreign-investor-flow-memory-megacap-rotation-2026-05-24/)
 
 *Markets wobbled in the latter half of last week — and not from a simple rate shock. An oil price surge, rising long-term real rates, dollar strength, crowded AI positioning, and weak Chinese credit all moved in the same direction at the same time, producing a five-layer complex risk-off. WTI touched the $105 range; Brent, $109. US April PPI re-accelerated to roughly +6% YoY. The 10-year Treasury threatened 4.6%, and USD/KRW stayed anchored in the 1,500s. In this environment, buying on stock-level thesis alone raises the probability of loss. Recovery is possible, but its starting point is not "the economy is strong" — it is confirmation that things are not getting any worse.*
 
 ## Executive Summary
 
-* **The current correction is a five-layer complex risk-off.** An oil shock, rising long-term real rates, dollar strength, crowded AI positioning, and weak Chinese credit are all acting simultaneously.
-* **The recovery triggers are well-defined.** The key thresholds are WTI below $100, Brent below $105, US 10-year below 4.50–4.55%, 10-year real rate below 2.0%, DXY below 99, USD/KRW breaking below 1,500, and HYG stabilization.
-* **This week's policy event is the Paris G7.** More important than any coordinated rate action is the messaging on energy supply, FX volatility, long-bond market functioning, and NBFI leverage management.
-* **Do not read the Warsh Fed as simply dovish.** What markets want is not an immediate cut — it is restoration of Fed credibility and market functioning.
-* **Market rates can fall without a Fed cut.** A combination of RMP, SRF, FIMA repo, Treasury buybacks, long-end issuance restraint, eSLR relief, Hormuz passage normalization, and partial tariff relief can constitute stealth easing.
-* **Korea's beta recovery requires tougher conditions than the US.** Beyond US long rates, USD/KRW, Chinese credit, and foreign semiconductor flows all need to turn around together.
-* **The investment action is not to expand beta.** This is the phase to shorten duration toward AI infrastructure earnings names, preserve optionality in cash, and wait for the macro gates to open.
+* <strong>The current correction is a five-layer complex risk-off.</strong> An oil shock, rising long-term real rates, dollar strength, crowded AI positioning, and weak Chinese credit are all acting simultaneously.
+* <strong>The recovery triggers are well-defined.</strong> The key thresholds are WTI below $100, Brent below $105, US 10-year below 4.50–4.55%, 10-year real rate below 2.0%, DXY below 99, USD/KRW breaking below 1,500, and HYG stabilization.
+* <strong>This week's policy event is the Paris G7.</strong> More important than any coordinated rate action is the messaging on energy supply, FX volatility, long-bond market functioning, and NBFI leverage management.
+* <strong>Do not read the Warsh Fed as simply dovish.</strong> What markets want is not an immediate cut — it is restoration of Fed credibility and market functioning.
+* <strong>Market rates can fall without a Fed cut.</strong> A combination of RMP, SRF, FIMA repo, Treasury buybacks, long-end issuance restraint, eSLR relief, Hormuz passage normalization, and partial tariff relief can constitute stealth easing.
+* <strong>Korea's beta recovery requires tougher conditions than the US.</strong> Beyond US long rates, USD/KRW, Chinese credit, and foreign semiconductor flows all need to turn around together.
+* <strong>The investment action is not to expand beta.</strong> This is the phase to shorten duration toward AI infrastructure earnings names, preserve optionality in cash, and wait for the macro gates to open.
 
 ## 1. The Nature of the Complex Risk-Off
 
@@ -125,7 +125,7 @@ The most rational path for the Warsh Fed looks closer to the following:
 
 Reuters reported that markets have begun pricing roughly a 60% probability of a Fed rate hike by the January 2027 FOMC. Markets are not already pricing Warsh as dovish. In fact, if a premature easing signal emerges immediately after he takes office, long bonds could sell off further — it could be read as a fiscal dominance signal.
 
-What markets want from the Warsh Fed is therefore not an immediate cut. It is **a credible pragmatist**: someone who leaves the policy rate unchanged but stabilizes market functioning and lowers the risk premium embedded in long rates.
+What markets want from the Warsh Fed is therefore not an immediate cut. It is <strong>a credible pragmatist</strong>: someone who leaves the policy rate unchanged but stabilizes market functioning and lowers the risk premium embedded in long rates.
 
 ## 5. Policy Tools to Lower Market Rates Without a Fed Cut
 
@@ -140,7 +140,7 @@ This is the most important insight in this piece. Market rates are not determine
 | Inflation premium | Oil stabilization, tariff relief, supply-chain normalization |
 | Dealer balance sheet premium | eSLR relief, Treasury market structure improvement |
 
-In other words, there are ways to lower market rates without cutting the policy rate. I call this combination **composite stealth easing**.
+In other words, there are ways to lower market rates without cutting the policy rate. I call this combination <strong>composite stealth easing</strong>.
 
 On the Fed side, RMP, SRF, and FIMA repo are the core instruments. RMP is a technical purchase of short-term Treasuries for reserves management — closer to a technical buy to maintain ample reserves than to QE. SRF caps the upper bound of short-term funding market rates. FIMA repo and swap lines reduce the risk that foreign central banks dump Treasuries into the market to secure dollars.
 
@@ -209,7 +209,7 @@ Stage 1 is not yet fully satisfied. Therefore, rather than expanding index beta,
 | Structural improvement names | Prioritize names with numbers confirmed — e.g., 하나마이크론, 티씨케이 |
 | Inflection-point bets | Conditional approach for high-volatility pre-confirmation names such as Nextin, Jeju Semiconductor |
 
-The position of Korean alpha is not "buy because it's cheap." This is the phase to **prepare the names that have posted earnings, can weather the macro gate, and will be the first buys when foreign flows return**.
+The position of Korean alpha is not "buy because it's cheap." This is the phase to <strong>prepare the names that have posted earnings, can weather the macro gate, and will be the first buys when foreign flows return</strong>.
 
 ## 8. Asset-Level Guidance and Portfolio
 
@@ -264,7 +264,7 @@ NVIDIA earnings is a standalone event, but in this macro context, "good earnings
 
 ## 10. Final Conclusions
 
-Last week's market wobble was not a simple rate shock. It was a complex risk-off in which an oil shock, rising long-term real rates, dollar strength, crowded AI positioning, and weak Chinese credit all hit simultaneously. Recovery is possible — but its starting point is not "the Fed cuts immediately." The sequence is: **Hormuz de-escalation → oil decline → long-rate stabilization → dollar weakness → restoration of foreign inflows into Korea**.
+Last week's market wobble was not a simple rate shock. It was a complex risk-off in which an oil shock, rising long-term real rates, dollar strength, crowded AI positioning, and weak Chinese credit all hit simultaneously. Recovery is possible — but its starting point is not "the Fed cuts immediately." The sequence is: <strong>Hormuz de-escalation → oil decline → long-rate stabilization → dollar weakness → restoration of foreign inflows into Korea</strong>.
 
 The decisive event this week is the Paris G7. G7 cannot directly suppress rates. But it can deliver coordinated messaging on energy supply, maritime passage, FX volatility, long-bond market functioning, and NBFI leverage — and even that much reduces the probability of a further spike.
 

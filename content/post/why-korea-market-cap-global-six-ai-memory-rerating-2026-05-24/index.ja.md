@@ -8,13 +8,13 @@ tags: ["Why Korea", "KOSPI", "KOSDAQ", "Samsung Electronics", "SK hynix", "HBM",
 series: ["why-korea", "korea-rerating-2026"]
 ---
 
-> **Why Korea 第5回。** これまで半導体基板、Kビューティー、Samsung/SK hynixの利益レバレッジ、韓国ETFへの資金流入を扱ってきた。今回は、その結果として現れた「韓国株式市場が世界6位圏」というヘッドラインを検証する。
+> <strong>Why Korea 第5回。</strong> これまで半導体基板、Kビューティー、Samsung/SK hynixの利益レバレッジ、韓国ETFへの資金流入を扱ってきた。今回は、その結果として現れた「韓国株式市場が世界6位圏」というヘッドラインを検証する。
 
 ## TL;DR
 
-* 方向性は本物だ。WFEによれば、2025年12月のKRX国内上場企業時価総額は **2.67兆ドル**、前年比 **+71.4%**。CEICでは2026年2月に **4.03兆ドル**。
-* 公開ランキング表の **4.89兆ドル / 世界6位 / GDP比190%** は最近のスナップショットとしては plausible だが、GDP比は計算方法、為替、対象市場、基準日の確認が必要。
-* Research OS local DB proxyでは、2026年5月22日の時価総額は約 **6,851兆ウォン**。Samsung ElectronicsとSK hynixの合計は約 **3,093兆ウォン**、proxy全体の **45.1%**。
+* 方向性は本物だ。WFEによれば、2025年12月のKRX国内上場企業時価総額は <strong>2.67兆ドル</strong>、前年比 <strong>+71.4%</strong>。CEICでは2026年2月に <strong>4.03兆ドル</strong>。
+* 公開ランキング表の <strong>4.89兆ドル / 世界6位 / GDP比190%</strong> は最近のスナップショットとしては plausible だが、GDP比は計算方法、為替、対象市場、基準日の確認が必要。
+* Research OS local DB proxyでは、2026年5月22日の時価総額は約 <strong>6,851兆ウォン</strong>。Samsung ElectronicsとSK hynixの合計は約 <strong>3,093兆ウォン</strong>、proxy全体の <strong>45.1%</strong>。
 * 投資結論は「韓国市場を丸ごと追いかける」ではない。AIメモリ利益の持続性と、資金が次のボトルネックへ広がるかを確認する局面だ。
 
 ## 本当のドライバー
@@ -47,12 +47,12 @@ series: ["why-korea", "korea-rerating-2026"]
 
 | 領域 | 見方 |
 |---|---|
-| KOSPI全体 | **待ち** |
-| Samsung Electronics | **Watchlist** |
-| SK hynix | **Watchlist / 調整時候補** |
-| Samsung Electro-Mechanics | **二次ボトルネック**：FC-BGA、MLCC、シリコンキャパシタ |
-| 電力インフラ | **選別** |
-| KOSDAQ優良株 | **条件付き**。breadthと資金フロー確認後 |
+| KOSPI全体 | <strong>待ち</strong> |
+| Samsung Electronics | <strong>Watchlist</strong> |
+| SK hynix | <strong>Watchlist / 調整時候補</strong> |
+| Samsung Electro-Mechanics | <strong>二次ボトルネック</strong>：FC-BGA、MLCC、シリコンキャパシタ |
+| 電力インフラ | <strong>選別</strong> |
+| KOSDAQ優良株 | <strong>条件付き</strong>。breadthと資金フロー確認後 |
 
 ## 結論
 

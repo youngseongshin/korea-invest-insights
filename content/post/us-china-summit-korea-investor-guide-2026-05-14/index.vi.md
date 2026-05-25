@@ -20,7 +20,7 @@ tags:
   - "hạ tầng AI"
 ---
 
-> 🔗 **Bài liên quan**: [Why Korea Phần 4 — Dòng vốn ETF $6.7 tỷ + Nghịch lý định giá KOSPI](/post/korea-67-billion-etf-inflow-korea-discount-or-value-trap-2026-05-09/) · [Hệ sinh thái PCB AI Hàn Quốc: 10 doanh nghiệp](/post/korea-ai-pcb-ecosystem-ten-companies-2026-05-05/) · [Chuỗi giá trị Quang học / CPO Hàn Quốc — 7 doanh nghiệp](/post/korea-optical-cpo-value-chain-seven-companies-2026-05-09/) · [Chuỗi KOSDAQ Phần 1](/post/kosdaq-complete-guide-promotion-relegation-system-2026-05-10/) · [Chuỗi KOSDAQ Phần 2](/post/kosdaq-high-roe-quality-screening-2026-05-10/)
+> 🔗 <strong>Bài liên quan</strong>: [Why Korea Phần 4 — Dòng vốn ETF $6.7 tỷ + Nghịch lý định giá KOSPI](/post/korea-67-billion-etf-inflow-korea-discount-or-value-trap-2026-05-09/) · [Hệ sinh thái PCB AI Hàn Quốc: 10 doanh nghiệp](/post/korea-ai-pcb-ecosystem-ten-companies-2026-05-05/) · [Chuỗi giá trị Quang học / CPO Hàn Quốc — 7 doanh nghiệp](/post/korea-optical-cpo-value-chain-seven-companies-2026-05-09/) · [Chuỗi KOSDAQ Phần 1](/post/kosdaq-complete-guide-promotion-relegation-system-2026-05-10/) · [Chuỗi KOSDAQ Phần 2](/post/kosdaq-high-roe-quality-screening-2026-05-10/)
 
 *Trump và Tập Cận Bình gặp nhau tại Bắc Kinh ngày 14-15/5. Thị trường đọc tín hiệu này là "nới lỏng thuế quan → cổ phiếu Trung Quốc bứt phá." Cách đọc đó đã bỏ qua phần tinh chất đầu tư thực sự. Hàn Quốc và Nhật Bản không có mặt tại bàn đàm phán nhưng lại là bên chịu tác động lớn nhất. Nếu kiểm soát xuất khẩu chip được giữ nguyên, thế độc quyền bộ nhớ của Hàn Quốc càng được củng cố. Nếu lệnh tạm ngừng đất hiếm được gia hạn, cơ cấu chi phí ngành pin và ô tô Hàn Quốc sẽ ổn định. Nếu Hormuz mở lại, chi phí nhập khẩu năng lượng giảm. Ngược lại, nếu kiểm soát được nới lỏng, khả năng tự chủ bộ nhớ trong nước của Trung Quốc sẽ tăng tốc. Nếu căng thẳng Đài Loan leo thang, chiết khấu địa chính trị của Hàn Quốc sẽ nới rộng. **Câu hỏi không phải là "có nên mua cổ phiếu Trung Quốc." Mà là "Hàn Quốc đứng ở đâu trong tập hợp kết quả này."***
 
@@ -28,11 +28,11 @@ tags:
 
 ## TL;DR
 
-* **Thượng đỉnh Bắc Kinh 14-15/5.** Chuyến thăm Trung Quốc đầu tiên của Tổng thống Mỹ kể từ năm 2017 (8 năm). Bộ trưởng Tài chính Bessent thăm Nhật Bản (tỷ giá, đất hiếm, năng lượng) và Hàn Quốc (tỷ giá, nghị trình kinh tế) trước thượng đỉnh.
-* **10 nghị sự diễn ra đồng thời.** Gia hạn đình chiến thương mại, mua Boeing / nông sản, kiểm soát xuất khẩu chip, đất hiếm, kênh đối thoại AI, tỷ giá KRW / JPY / CNY, Iran / Hormuz, hợp tác đóng tàu Mỹ-Hàn, Đài Loan, điều tra dư thừa công suất công nghiệp. Đây không phải một sự kiện đơn lẻ — mà là phương trình đồng thời 10 biến số.
-* **Hàn Quốc không ngồi vào bàn nhưng là bên chịu tác động tối đa.** Chip bán dẫn (hoạt động fab tại Trung Quốc), đất hiếm (BoM pin / ô tô), năng lượng (phụ thuộc Trung Đông), đóng tàu (đầu tư KUSPI $150 tỷ Mỹ-Hàn), KRW (ổn định dòng vốn ngoại), Đài Loan (chuỗi cung ứng bán dẫn) — tất cả đều là biến phụ thuộc của thượng đỉnh này.
-* **Thị trường đã phản ánh "kết quả tốt" ở mức đáng kể.** KOSPI 7.500 — mức cao lịch sử. Cấu trúc bất cân xứng — tin tốt đã được chiết khấu, tin xấu vẫn còn dư địa giảm. Kịch bản có xác suất cao nhất là thoả thuận biểu tượng "đậu nành + Boeing + uỷ ban thương mại" (\~50%).
-* **Chiến lược hợp lý không phải "đặt cược trước thượng đỉnh" mà là "phản ứng sau."** Định vị trước sự kiện là đánh bạc. Định vị sau thông cáo chung mới là đầu tư.
+* <strong>Thượng đỉnh Bắc Kinh 14-15/5.</strong> Chuyến thăm Trung Quốc đầu tiên của Tổng thống Mỹ kể từ năm 2017 (8 năm). Bộ trưởng Tài chính Bessent thăm Nhật Bản (tỷ giá, đất hiếm, năng lượng) và Hàn Quốc (tỷ giá, nghị trình kinh tế) trước thượng đỉnh.
+* <strong>10 nghị sự diễn ra đồng thời.</strong> Gia hạn đình chiến thương mại, mua Boeing / nông sản, kiểm soát xuất khẩu chip, đất hiếm, kênh đối thoại AI, tỷ giá KRW / JPY / CNY, Iran / Hormuz, hợp tác đóng tàu Mỹ-Hàn, Đài Loan, điều tra dư thừa công suất công nghiệp. Đây không phải một sự kiện đơn lẻ — mà là phương trình đồng thời 10 biến số.
+* <strong>Hàn Quốc không ngồi vào bàn nhưng là bên chịu tác động tối đa.</strong> Chip bán dẫn (hoạt động fab tại Trung Quốc), đất hiếm (BoM pin / ô tô), năng lượng (phụ thuộc Trung Đông), đóng tàu (đầu tư KUSPI $150 tỷ Mỹ-Hàn), KRW (ổn định dòng vốn ngoại), Đài Loan (chuỗi cung ứng bán dẫn) — tất cả đều là biến phụ thuộc của thượng đỉnh này.
+* <strong>Thị trường đã phản ánh "kết quả tốt" ở mức đáng kể.</strong> KOSPI 7.500 — mức cao lịch sử. Cấu trúc bất cân xứng — tin tốt đã được chiết khấu, tin xấu vẫn còn dư địa giảm. Kịch bản có xác suất cao nhất là thoả thuận biểu tượng "đậu nành + Boeing + uỷ ban thương mại" (\~50%).
+* <strong>Chiến lược hợp lý không phải "đặt cược trước thượng đỉnh" mà là "phản ứng sau."</strong> Định vị trước sự kiện là đánh bạc. Định vị sau thông cáo chung mới là đầu tư.
 
 ---
 
@@ -79,13 +79,13 @@ Trung Quốc muốn (3 T's):
 
 Thượng đỉnh Busan tháng 10/2025 đã reset thuế quan Mỹ áp lên Trung Quốc từ 57% → 47%; đình chiến hết hạn vào tháng 11/2026. Reuters đưa tin Trung Quốc muốn gia hạn 1 năm; Mỹ muốn 6 tháng.
 
-**Nhận định đầu tư**: tích cực ngắn hạn. Có thể có đợt rally nhẹ ở các cổ phiếu Trung Quốc / Hồng Kông. Nhưng đây không phải alpha cấu trúc — đây là giảm rủi ro đuôi, không phải chất xúc tác tăng trưởng mới.
+<strong>Nhận định đầu tư</strong>: tích cực ngắn hạn. Có thể có đợt rally nhẹ ở các cổ phiếu Trung Quốc / Hồng Kông. Nhưng đây không phải alpha cấu trúc — đây là giảm rủi ro đuôi, không phải chất xúc tác tăng trưởng mới.
 
 ### 2.2 Kiểm soát xuất khẩu chip — nghị sự có trọng lượng nhất
 
 Trung Quốc muốn nới lỏng hạn chế chip tiên tiến / AI; Mỹ muốn duy trì kiểm soát. Chỉ thị tháng 4 của Bộ Thương mại Mỹ đã ngừng vận chuyển thiết bị đến Hua Hong (xưởng đúc #2 của Trung Quốc); Đạo luật MATCH được trình tháng 4 hướng đến cơ chế kiểm soát xuất khẩu chung giữa các đồng minh.
 
-**Tại sao điều này quan trọng với Hàn Quốc**:
+<strong>Tại sao điều này quan trọng với Hàn Quốc</strong>:
 
 ```
 Nếu kiểm soát được giữ nguyên (thuận lợi cho Hàn Quốc):
@@ -99,7 +99,7 @@ Nếu kiểm soát được nới lỏng (tác động hỗn hợp với Hàn Qu
 → Dài hạn: "phần bù khan hiếm địa chính trị" của Hàn Quốc / Đài Loan / Nhật Bản thu hẹp
 ```
 
-**Quan điểm cốt lõi**: cả hai bên đều thích "quản lý" hơn là "giải quyết" tranh chấp chip. Kết quả nhiều khả năng nằm ở giữa — không nới lỏng hoàn toàn, không gia hạn hoàn toàn. **Điểm giữa đó là kịch bản thuận lợi nhất cho bộ nhớ Hàn Quốc** — kiểm soát giữ nguyên (tự chủ Trung Quốc chậm lại) trong khi nhu cầu AI tiếp tục mở rộng.
+<strong>Quan điểm cốt lõi</strong>: cả hai bên đều thích "quản lý" hơn là "giải quyết" tranh chấp chip. Kết quả nhiều khả năng nằm ở giữa — không nới lỏng hoàn toàn, không gia hạn hoàn toàn. <strong>Điểm giữa đó là kịch bản thuận lợi nhất cho bộ nhớ Hàn Quốc</strong> — kiểm soát giữ nguyên (tự chủ Trung Quốc chậm lại) trong khi nhu cầu AI tiếp tục mở rộng.
 
 ### 2.3 Đất hiếm — quả bom hẹn giờ tháng 11
 
@@ -107,13 +107,13 @@ Sau Busan, Trung Quốc cấp giấy phép chung về kiểm soát xuất khẩu
 
 Các con số cho thấy mức độ nghiêm trọng:
 
-* Giá yttrium (khoáng sản chiến lược hàng không vũ trụ): **+6.900%** trong 12 tháng
-* Xuất khẩu yttrium sang Mỹ: **-75%** trong 12 tháng
-* Trung Quốc kiểm soát **85–90%** công suất chế biến đất hiếm toàn cầu
+* Giá yttrium (khoáng sản chiến lược hàng không vũ trụ): <strong>+6.900%</strong> trong 12 tháng
+* Xuất khẩu yttrium sang Mỹ: <strong>-75%</strong> trong 12 tháng
+* Trung Quốc kiểm soát <strong>85–90%</strong> công suất chế biến đất hiếm toàn cầu
 
 Hàn Quốc và Mỹ đã hoàn tất một khung riêng về khoáng sản chiến lược — được Bộ Tài chính Mỹ xác nhận vào tháng 4.
 
-**Nhận định đầu tư**: gia hạn lệnh tạm dừng sẽ tạo ra nhẹ nhõm ngắn hạn. Nhưng "Trung Quốc mở băng = vấn đề được giải quyết" là sai — các doanh nghiệp đã bắt đầu tính chi phí phụ thuộc vào Trung Quốc như một chi phí nội bộ, và đầu tư vào chuỗi cung ứng ngoài Trung Quốc vẫn tiếp tục bất kể kết quả thượng đỉnh.
+<strong>Nhận định đầu tư</strong>: gia hạn lệnh tạm dừng sẽ tạo ra nhẹ nhõm ngắn hạn. Nhưng "Trung Quốc mở băng = vấn đề được giải quyết" là sai — các doanh nghiệp đã bắt đầu tính chi phí phụ thuộc vào Trung Quốc như một chi phí nội bộ, và đầu tư vào chuỗi cung ứng ngoài Trung Quốc vẫn tiếp tục bất kể kết quả thượng đỉnh.
 
 ### 2.4 Iran / Eo biển Hormuz — biến số hạng nhất bị đánh giá thấp
 
@@ -121,7 +121,7 @@ Thượng đỉnh bị hoãn hai lần vì chiến tranh Iran. Lưu lượng tà
 
 Trump đã thúc ép Trung Quốc tham gia chiến dịch quốc tế để mở lại Hormuz. Trung Quốc cũng là khách hàng dầu thô lớn nhất của Iran — đóng cửa Hormuz tác động trực tiếp đến Trung Quốc. Lời mời gần đây của Trung Quốc đối với Ngoại trưởng Iran được đọc là động thái phối hợp trước thượng đỉnh.
 
-**Tại sao điều này quan trọng với Hàn Quốc**: Hàn Quốc phụ thuộc nhập khẩu năng lượng. Hormuz mở lại → chi phí năng lượng giảm → KRW mạnh lên → cán cân vãng lai cải thiện → chiết khấu Korea thu hẹp. Hormuz đóng tiếp → gánh nặng chi phí năng lượng → KRW yếu → lạm phát giá nhập khẩu.
+<strong>Tại sao điều này quan trọng với Hàn Quốc</strong>: Hàn Quốc phụ thuộc nhập khẩu năng lượng. Hormuz mở lại → chi phí năng lượng giảm → KRW mạnh lên → cán cân vãng lai cải thiện → chiết khấu Korea thu hẹp. Hormuz đóng tiếp → gánh nặng chi phí năng lượng → KRW yếu → lạm phát giá nhập khẩu.
 
 Ngoài ra còn có sự cố cháy / nổ tàu liên kết với HMM (tàu Namu) tại Hormuz, mà Trump quy cho Iran trong khi kêu gọi Hàn Quốc tham gia các chiến dịch liên minh. Hàn Quốc đang điều tra nguyên nhân.
 
@@ -129,7 +129,7 @@ Ngoài ra còn có sự cố cháy / nổ tàu liên kết với HMM (tàu Namu)
 
 Ngày 8/5, MOU Hợp tác Đóng tàu Mỹ-Hàn (KUSPI) đã được ký kết. Đây là một phần trong cam kết đầu tư $150 tỷ vào ngành đóng tàu Mỹ của Hàn Quốc, nằm trong gói đầu tư tổng thể $350 tỷ (\~₩470 nghìn tỷ) Mỹ-Hàn.
 
-**Nhận định đầu tư**: MOU này có tác động tăng giá trực tiếp hơn cho các nhà đóng tàu Hàn Quốc so với bản thân thượng đỉnh. Ngành đóng tàu được tái định giá từ "cổ phiếu chu kỳ LNG" thành **"tái thiết sản xuất hàng hải Mỹ + chuỗi cung ứng an ninh."**
+<strong>Nhận định đầu tư</strong>: MOU này có tác động tăng giá trực tiếp hơn cho các nhà đóng tàu Hàn Quốc so với bản thân thượng đỉnh. Ngành đóng tàu được tái định giá từ "cổ phiếu chu kỳ LNG" thành <strong>"tái thiết sản xuất hàng hải Mỹ + chuỗi cung ứng an ninh."</strong>
 
 Tuy nhiên, đầu tư xưởng đóng tàu trên đất Mỹ mang rủi ro lao động / năng suất / công đoàn / quy định. Phần bù chính sách thường được tái định giá trước khi lợi nhuận thực tế hiện diện — đuổi theo ở giai đoạn này là thiếu hiệu quả.
 
@@ -137,19 +137,19 @@ Tuy nhiên, đầu tư xưởng đóng tàu trên đất Mỹ mang rủi ro lao 
 
 Trong cuộc đàm phán song phương Mỹ-Hàn tháng 4, Bộ Tài chính Mỹ và Bộ Kinh tế Tài chính Hàn Quốc đồng ý rằng "biến động quá mức của KRW là không mong muốn." Nhật Bản được cho là đã chi tới $32 tỷ để bảo vệ JPY. CNY cũng ở mức cao nhất 3 năm.
 
-**Nhận định đầu tư**: ổn định KRW / JPY cải thiện bối cảnh dòng vốn ngoại vào cổ phiếu Hàn Quốc và Nhật Bản. Cam kết đầu tư $350 tỷ vào Mỹ của Hàn Quốc khiến KRW yếu trở thành rủi ro liên kết cả chính trị lẫn tài chính. Ngay cả khi không có hiệp ước chính thức, ngôn ngữ "không biến động quá mức" được lặp đi lặp lại cũng nén áp lực tỷ giá ở ngưỡng trên.
+<strong>Nhận định đầu tư</strong>: ổn định KRW / JPY cải thiện bối cảnh dòng vốn ngoại vào cổ phiếu Hàn Quốc và Nhật Bản. Cam kết đầu tư $350 tỷ vào Mỹ của Hàn Quốc khiến KRW yếu trở thành rủi ro liên kết cả chính trị lẫn tài chính. Ngay cả khi không có hiệp ước chính thức, ngôn ngữ "không biến động quá mức" được lặp đi lặp lại cũng nén áp lực tỷ giá ở ngưỡng trên.
 
 ### 2.7 Đài Loan — biến số nguy hiểm nhất
 
 Tập Cận Bình đã nâng Đài Loan lên vị trí hàng đầu trong nghị trình — tương phản với Busan, nơi Đài Loan được cố tình gác lại. Trung Quốc yêu cầu Mỹ chuyển ngôn ngữ về độc lập Đài Loan từ "không ủng hộ" sang "phản đối."
 
-**Nhận định đầu tư**: bất kỳ dịch chuyển nào trong ngôn ngữ Đài Loan đều tác động đồng thời đến TSMC, thiết bị Nhật Bản, chip Hàn Quốc, quốc phòng và tỷ giá. Tư thế giao dịch của Trump có động cơ dùng Đài Loan như một quân bài — đổi mua nông sản / Boeing lấy giảm bán vũ khí cho Đài Loan là kịch bản có thể xảy ra. Tuy nhiên, tình cảm lưỡng đảng ủng hộ Đài Loan tại Quốc hội Mỹ khiến khả năng thay đổi chính sách thực chất là thấp.
+<strong>Nhận định đầu tư</strong>: bất kỳ dịch chuyển nào trong ngôn ngữ Đài Loan đều tác động đồng thời đến TSMC, thiết bị Nhật Bản, chip Hàn Quốc, quốc phòng và tỷ giá. Tư thế giao dịch của Trump có động cơ dùng Đài Loan như một quân bài — đổi mua nông sản / Boeing lấy giảm bán vũ khí cho Đài Loan là kịch bản có thể xảy ra. Tuy nhiên, tình cảm lưỡng đảng ủng hộ Đài Loan tại Quốc hội Mỹ khiến khả năng thay đổi chính sách thực chất là thấp.
 
 ### 2.8 Các nghị sự còn lại
 
-* **Kênh đối thoại AI**: không phải bãi bỏ quy định — mà là hình thức hoá "cạnh tranh có quản lý." Giả định rằng điều này dẫn đến nới lỏng kiểm soát xuất khẩu là rủi ro.
-* **Đơn hàng Boeing số lượng lớn**: 500 chiếc 737 MAX + hàng chục widebody. Cơ hội sạch hơn nằm ở động cơ (GE Aerospace) và linh kiện (RTX), không phải bản thân Boeing.
-* **Điều tra dư thừa công suất**: Hàn Quốc cũng nằm trong diện điều tra Section 301 của Mỹ. Nới lỏng thuế quan không tự động là tích cực.
+* <strong>Kênh đối thoại AI</strong>: không phải bãi bỏ quy định — mà là hình thức hoá "cạnh tranh có quản lý." Giả định rằng điều này dẫn đến nới lỏng kiểm soát xuất khẩu là rủi ro.
+* <strong>Đơn hàng Boeing số lượng lớn</strong>: 500 chiếc 737 MAX + hàng chục widebody. Cơ hội sạch hơn nằm ở động cơ (GE Aerospace) và linh kiện (RTX), không phải bản thân Boeing.
+* <strong>Điều tra dư thừa công suất</strong>: Hàn Quốc cũng nằm trong diện điều tra Section 301 của Mỹ. Nới lỏng thuế quan không tự động là tích cực.
 
 ---
 
@@ -159,24 +159,24 @@ Tập Cận Bình đã nâng Đài Loan lên vị trí hàng đầu trong nghị
 
 | Kịch bản | Xác suất | Nội dung cốt lõi | Phản ứng thị trường |
 |---|---:|---|---|
-| **A. Kỳ vọng (cơ sở)** | **50%** | Đậu nành + Boeing + uỷ ban thương mại + tín hiệu tích cực Iran + chip / Đài Loan "có quản lý" | KOSPI rally nhẹ rồi chốt lời |
-| **B. Vượt kỳ vọng** | 20% | Như trên + lịch trình mở lại Hormuz + cắt giảm thuế quan thêm + gia hạn đất hiếm | KOSPI thử thách 8.000, KRW mạnh lên |
-| **C. Rủi ro giảm** | 25% | Tiến triển Iran mờ nhạt + căng thẳng Đài Loan + tín hiệu siết kiểm soát chip | KOSPI phá dưới 7.000, khối ngoại bán ròng |
-| **D. Cực đoan** | 5% | Thượng đỉnh đổ vỡ hoặc ngôn từ Đài Loan cực đoan | Bán tháo mạnh, rủi ro địa chính trị tăng đột biến |
+| <strong>A. Kỳ vọng (cơ sở)</strong> | <strong>50%</strong> | Đậu nành + Boeing + uỷ ban thương mại + tín hiệu tích cực Iran + chip / Đài Loan "có quản lý" | KOSPI rally nhẹ rồi chốt lời |
+| <strong>B. Vượt kỳ vọng</strong> | 20% | Như trên + lịch trình mở lại Hormuz + cắt giảm thuế quan thêm + gia hạn đất hiếm | KOSPI thử thách 8.000, KRW mạnh lên |
+| <strong>C. Rủi ro giảm</strong> | 25% | Tiến triển Iran mờ nhạt + căng thẳng Đài Loan + tín hiệu siết kiểm soát chip | KOSPI phá dưới 7.000, khối ngoại bán ròng |
+| <strong>D. Cực đoan</strong> | 5% | Thượng đỉnh đổ vỡ hoặc ngôn từ Đài Loan cực đoan | Bán tháo mạnh, rủi ro địa chính trị tăng đột biến |
 
 ### 3.2 Tại sao kịch bản A có xác suất cao nhất
 
 Các giám đốc điều hành và nhà phân tích kỳ vọng "những thành quả nhỏ hơn như gia hạn đình chiến thương mại thay vì một đột phá lớn." Chuyến thăm Trung Quốc của Trump năm 2017 đã tạo ra các MOU lớn — nhiều trong số đó không ràng buộc hoặc là khung nhiều năm. Khuôn mẫu này nhiều khả năng lặp lại.
 
-**Định vị Hàn Quốc trong kịch bản A**:
+<strong>Định vị Hàn Quốc trong kịch bản A</strong>:
 
 | Ngành | Quan điểm | Lý do |
 |---|---|---|
-| Chip AI Hàn Quốc | **Mua khi giảm** | Kiểm soát giữ nguyên → thế độc quyền Hàn Quốc được củng cố |
-| Substrate / SUMs Hàn Quốc | **Theo dõi → mua chọn lọc** | Khuếch tán hạ tầng AI, cần xác nhận lợi nhuận |
-| Đóng tàu Mỹ-Hàn | **Theo dõi / mua chọn lọc** | Cần xác nhận các dự án tiếp theo của KUSPI |
-| Cổ phiếu liên quan Trung Quốc | **Giao dịch ngắn hạn, không nắm giữ cốt lõi** | Lý do nắm giữ cơ cấu yếu |
-| Liên quan Boeing | **Theo dõi** | Động cơ / linh kiện > bản thân Boeing |
+| Chip AI Hàn Quốc | <strong>Mua khi giảm</strong> | Kiểm soát giữ nguyên → thế độc quyền Hàn Quốc được củng cố |
+| Substrate / SUMs Hàn Quốc | <strong>Theo dõi → mua chọn lọc</strong> | Khuếch tán hạ tầng AI, cần xác nhận lợi nhuận |
+| Đóng tàu Mỹ-Hàn | <strong>Theo dõi / mua chọn lọc</strong> | Cần xác nhận các dự án tiếp theo của KUSPI |
+| Cổ phiếu liên quan Trung Quốc | <strong>Giao dịch ngắn hạn, không nắm giữ cốt lõi</strong> | Lý do nắm giữ cơ cấu yếu |
+| Liên quan Boeing | <strong>Theo dõi</strong> | Động cơ / linh kiện > bản thân Boeing |
 
 ### 3.3 Kịch bản C tạo ra cơ hội
 
@@ -209,7 +209,7 @@ Chưa được phản ánh:
 - Tái diễn bán ròng ngoại ₩7 nghìn tỷ trong một ngày
 ```
 
-**Bất cân xứng**: tin tốt dư địa tăng có hạn, tin xấu dư địa giảm đáng kể. **Mua trước thượng đỉnh là đứng về phía bất lợi của sự bất cân xứng này.**
+<strong>Bất cân xứng</strong>: tin tốt dư địa tăng có hạn, tin xấu dư địa giảm đáng kể. <strong>Mua trước thượng đỉnh là đứng về phía bất lợi của sự bất cân xứng này.</strong>
 
 [Why Korea Phần 4](/post/korea-67-billion-etf-inflow-korea-discount-or-value-trap-2026-05-09/) đã đặt ra câu hỏi lớn hơn của năm 2026 — liệu dòng vốn ngoại $6.7 tỷ + nghịch lý PER 8x có chứng minh "thu hẹp chiết khấu Korea" hay đặt nền cho một bẫy giá trị. Thượng đỉnh này là một biến số trong bài kiểm tra lợi nhuận đó.
 
@@ -217,7 +217,7 @@ Chưa được phản ánh:
 
 Phần lớn KOSPI 7.500 đến từ Samsung Electronics (+59%) và SK hynix (+105%). Ước tính "KOSPI loại trừ chip" rơi vào khoảng 4.100. Dòng vốn ngoại tháng 5 tập trung ₩6 nghìn tỷ vào ngành Điện tử - Điện.
 
-Hàm ý: **KOSPI tổng thể không mạnh; mà là chip đang mạnh**. Kết quả thượng đỉnh có thể thúc đẩy luân chuyển sang các ngành ngoài chip, hoặc — ngược lại — kéo toàn bộ chỉ số xuống nếu chip sụp đổ.
+Hàm ý: <strong>KOSPI tổng thể không mạnh; mà là chip đang mạnh</strong>. Kết quả thượng đỉnh có thể thúc đẩy luân chuyển sang các ngành ngoài chip, hoặc — ngược lại — kéo toàn bộ chỉ số xuống nếu chip sụp đổ.
 
 ---
 
@@ -240,7 +240,7 @@ Nơi alpha thực sự tồn tại (phức tạp):
 
 Cổ phiếu liên quan Trung Quốc có thể rally theo kỳ vọng thượng đỉnh. Nhưng chúng thất bại như những vị thế cốt lõi cơ cấu — thuế quan, kiểm soát công nghệ, và Đài Loan đều chưa được giải quyết khiến thời gian tái định giá ngắn.
 
-**Alpha chất lượng cao hơn nằm ở các doanh nghiệp cốt lõi Hàn Quốc / Nhật Bản trong chuỗi cung ứng an ninh kinh tế Mỹ-Hàn / Mỹ-Nhật.** Các cổ phiếu này có nhu cầu cơ cấu độc lập với thượng đỉnh, nhận được thêm lực đẩy nếu thượng đỉnh diễn ra tốt (chiết khấu địa chính trị giảm), và *được hưởng phần bù* nếu thượng đỉnh diễn ra tệ (phần bù chuỗi cung ứng ngoài Trung Quốc mở rộng).
+<strong>Alpha chất lượng cao hơn nằm ở các doanh nghiệp cốt lõi Hàn Quốc / Nhật Bản trong chuỗi cung ứng an ninh kinh tế Mỹ-Hàn / Mỹ-Nhật.</strong> Các cổ phiếu này có nhu cầu cơ cấu độc lập với thượng đỉnh, nhận được thêm lực đẩy nếu thượng đỉnh diễn ra tốt (chiết khấu địa chính trị giảm), và *được hưởng phần bù* nếu thượng đỉnh diễn ra tệ (phần bù chuỗi cung ứng ngoài Trung Quốc mở rộng).
 
 ### 5.2 Hạ tầng AI Hàn Quốc — bền vững qua mọi kịch bản
 
@@ -282,9 +282,9 @@ Nếu cả hai cùng hết hạn:
 
 ### 6.1 Trước thượng đỉnh (hiện tại)
 
-* **Không mua mới quy mô lớn.** KOSPI 7.500 đã phản ánh đáng kể "thượng đỉnh thành công → tiếp tục phục hồi." Sự bất cân xứng không thuận lợi.
-* **Giữ vị thế hiện có.** Samsung Electronics, SK hynix, Samsung Electro-Mechanics — những vị thế hạ tầng AI cốt lõi Hàn Quốc này giữ giá trị qua các kịch bản.
-* **Chuẩn bị danh sách theo dõi.** Đặt sẵn cổ phiếu mua tiềm năng và giá vào lệnh theo từng kịch bản.
+* <strong>Không mua mới quy mô lớn.</strong> KOSPI 7.500 đã phản ánh đáng kể "thượng đỉnh thành công → tiếp tục phục hồi." Sự bất cân xứng không thuận lợi.
+* <strong>Giữ vị thế hiện có.</strong> Samsung Electronics, SK hynix, Samsung Electro-Mechanics — những vị thế hạ tầng AI cốt lõi Hàn Quốc này giữ giá trị qua các kịch bản.
+* <strong>Chuẩn bị danh sách theo dõi.</strong> Đặt sẵn cổ phiếu mua tiềm năng và giá vào lệnh theo từng kịch bản.
 
 ### 6.2 Sau thượng đỉnh — phản ứng theo kịch bản
 
@@ -297,11 +297,11 @@ Nếu cả hai cùng hết hạn:
 
 ### 6.3 Các biến số trong thông cáo chung cần theo dõi
 
-1. **Ngôn ngữ kiểm soát xuất khẩu chip**: "có quản lý" / "nới lỏng" / "siết chặt"?
-2. **Công thức Đài Loan**: "không ủng hộ" được giữ nguyên, hay chuyển sang "phản đối"?
-3. **Lệnh tạm dừng đất hiếm**: gia hạn qua tháng 11 / có điều kiện / không rõ ràng?
-4. **Đình chiến thương mại**: gia hạn 6 tháng, 12 tháng, hay không xác định?
-5. **Iran / Hormuz**: lịch trình mở lại cụ thể, hay chỉ là tín hiệu?
+1. <strong>Ngôn ngữ kiểm soát xuất khẩu chip</strong>: "có quản lý" / "nới lỏng" / "siết chặt"?
+2. <strong>Công thức Đài Loan</strong>: "không ủng hộ" được giữ nguyên, hay chuyển sang "phản đối"?
+3. <strong>Lệnh tạm dừng đất hiếm</strong>: gia hạn qua tháng 11 / có điều kiện / không rõ ràng?
+4. <strong>Đình chiến thương mại</strong>: gia hạn 6 tháng, 12 tháng, hay không xác định?
+5. <strong>Iran / Hormuz</strong>: lịch trình mở lại cụ thể, hay chỉ là tín hiệu?
 
 ---
 
@@ -311,33 +311,33 @@ Thượng đỉnh Mỹ-Trung không phải là sự kiện "có nên mua cổ ph
 
 Thị trường đã phản ánh kết quả tốt vào KOSPI 7.500. Tin tốt dư địa tăng có hạn; tin xấu dư địa giảm đáng kể. Kết quả có xác suất cao nhất ("đậu nành + Boeing + uỷ ban thương mại" thoả thuận biểu tượng) phần lớn đã nằm trong giá.
 
-Các rủi ro thực sự đáng theo dõi là dịch chuyển ngôn ngữ Đài Loan và đồng thời hết hạn đất hiếm và đình chiến thương mại vào tháng 11. Góc độ đầu tư thực sự không phải là một đợt bùng của cổ phiếu Trung Quốc mà là **các cổ phiếu cốt lõi chuỗi cung ứng hạ tầng AI, đóng tàu, điện và khoáng sản chiến lược Hàn Quốc / Nhật Bản**. Những cổ phiếu này tiếp tục hoạt động bất kể kết quả thượng đỉnh — và dịch chuyển giá tạo ra điểm vào, chứ không phải rủi ro, cho chúng.
+Các rủi ro thực sự đáng theo dõi là dịch chuyển ngôn ngữ Đài Loan và đồng thời hết hạn đất hiếm và đình chiến thương mại vào tháng 11. Góc độ đầu tư thực sự không phải là một đợt bùng của cổ phiếu Trung Quốc mà là <strong>các cổ phiếu cốt lõi chuỗi cung ứng hạ tầng AI, đóng tàu, điện và khoáng sản chiến lược Hàn Quốc / Nhật Bản</strong>. Những cổ phiếu này tiếp tục hoạt động bất kể kết quả thượng đỉnh — và dịch chuyển giá tạo ra điểm vào, chứ không phải rủi ro, cho chúng.
 
-**Đặt cược trước sự kiện là đánh bạc. Định vị sau sự kiện mới là đầu tư.**
+<strong>Đặt cược trước sự kiện là đánh bạc. Định vị sau sự kiện mới là đầu tư.</strong>
 
 ---
 
 ## FAQ
 
-**H: Nhà đầu tư Hàn Quốc có nên mua trước thượng đỉnh không?**
+<strong>H: Nhà đầu tư Hàn Quốc có nên mua trước thượng đỉnh không?</strong>
 Đ: KOSPI 7.500 đã phản ánh đáng kể "thượng đỉnh thành công → tiếp tục phục hồi." Tin tốt dư địa tăng có hạn; tin xấu dư địa giảm đáng kể. Sự bất cân xứng nghiêng về phía chờ thông cáo chung hơn là định vị trước sự kiện.
 
-**H: Có nên mua cổ phiếu Trung Quốc không?**
+<strong>H: Có nên mua cổ phiếu Trung Quốc không?</strong>
 Đ: Rally nhẹ nhõm ngắn hạn là có thể. Nhưng là ứng cử viên nắm giữ cơ cấu kém — thuế quan, kiểm soát công nghệ, Đài Loan đều chưa được giải quyết khiến thời gian tái định giá ngắn. Alpha chất lượng cao hơn nằm ở hạ tầng AI, đóng tàu và chuỗi cung ứng khoáng sản chiến lược Hàn Quốc / Nhật Bản.
 
-**H: Nới lỏng kiểm soát chip có tốt cho bộ nhớ Hàn Quốc không?**
+<strong>H: Nới lỏng kiểm soát chip có tốt cho bộ nhớ Hàn Quốc không?</strong>
 Đ: Tác động hai chiều. Ngắn hạn, nhu cầu AI Trung Quốc mở rộng nâng khối lượng bộ nhớ Hàn Quốc. Trung hạn, tự chủ Trung Quốc tăng tốc → rủi ro dư cung từ 2027+. Kịch bản tốt nhất là "giải quyết có quản lý" — kiểm soát giữ nguyên (tự chủ Trung Quốc chậm lại), nhu cầu AI tiếp tục mở rộng.
 
-**H: Hormuz tác động đến Hàn Quốc như thế nào?**
+<strong>H: Hormuz tác động đến Hàn Quốc như thế nào?</strong>
 Đ: Hormuz mở lại → chi phí năng lượng giảm → KRW mạnh lên → cán cân vãng lai cải thiện → chiết khấu Korea thu hẹp. Sự cố Hormuz liên quan đến HMM cũng liên kết trực tiếp vận tải biển / đóng tàu / năng lượng Hàn Quốc vào lộ trình giải quyết.
 
-**H: Tháng 11 có điều gì hết hạn?**
+<strong>H: Tháng 11 có điều gì hết hạn?</strong>
 Đ: Đình chiến thương mại Busan (chế độ thuế quan 47%) và lệnh tạm dừng kiểm soát xuất khẩu đất hiếm. Đồng thời hết hạn có thể reset thuế quan về 57% và vũ khí hoá lại đất hiếm. Thành quả tốt nhất của thượng đỉnh tháng 5 là khung "lộ trình đến tháng 11."
 
-**H: Tại sao ngôn ngữ Đài Loan lại quan trọng như vậy?**
+<strong>H: Tại sao ngôn ngữ Đài Loan lại quan trọng như vậy?</strong>
 Đ: Chuyển từ "không ủng hộ" sang "phản đối" độc lập Đài Loan tác động đồng thời đến TSMC, thiết bị Nhật Bản, chip Hàn Quốc, quốc phòng và tỷ giá. Tư thế giao dịch của Trump có động cơ dùng Đài Loan như quân bài, nhưng tình cảm lưỡng đảng ủng hộ Đài Loan tại Quốc hội Mỹ khiến thay đổi chính sách thực chất có xác suất thấp.
 
-**H: Nếu thượng đỉnh đổ vỡ thì sao?**
+<strong>H: Nếu thượng đỉnh đổ vỡ thì sao?</strong>
 Đ: Kịch bản D (\~5%). Khi KOSPI bán tháo, các cổ phiếu hạ tầng AI Hàn Quốc (Samsung Electronics, SK hynix, Samsung Electro-Mechanics) trở thành ứng viên mua tích luỹ có quy mô. Quốc phòng tái định giá theo căng thẳng địa chính trị. Phòng thủ tiền mặt + mua chọn lọc sau phục hồi là trình tự hợp lý.
 
 ---

@@ -50,9 +50,9 @@ After the recognition shift in Korean financials, the market has split into thre
 
 | Dimension | Peak | Implied cost of equity | Core mechanism |
 | --- | --- | ---: | --- |
-| **Capital cancellation (static)** | **Meritz Financial Holdings (138040)** | ~11.5% | Buyback-and-cancel reduces share count; EPS compounds while top line shrinks |
-| **Capital turnover (dynamic)** | **Kiwoom Securities (039490)** | ~14.9% | Trading-volume × margin × prop drives ROE 20%; volatile but high mean ROE |
-| **Foreign access (flow)** | **KB Financial (105560)** | ~11.9% | Passive auto-inclusion + owner-less governance + 9.6% total yield |
+| <strong>Capital cancellation (static)</strong> | <strong>Meritz Financial Holdings (138040)</strong> | ~11.5% | Buyback-and-cancel reduces share count; EPS compounds while top line shrinks |
+| <strong>Capital turnover (dynamic)</strong> | <strong>Kiwoom Securities (039490)</strong> | ~14.9% | Trading-volume × margin × prop drives ROE 20%; volatile but high mean ROE |
+| <strong>Foreign access (flow)</strong> | <strong>KB Financial (105560)</strong> | ~11.9% | Passive auto-inclusion + owner-less governance + 9.6% total yield |
 
 All three peaks deliver "value to shareholders" in the 8–12% annual range — through different mechanisms. The market prices each correctly at its own dimension.
 
@@ -62,10 +62,10 @@ Once the three peaks settled, the series opened two more chapters.
 
 | Chapter | Lead case | Implied cost of equity | What's distinctive |
 | --- | --- | ---: | --- |
-| **Transit between peaks** (Part 4) | **Shinhan Financial (055550)** | 15.3% | The first follower transiting toward an existing peak (KB's foreign-access coordinate) |
-| **New coordinate — conservative endpoint** (Part 5) | **Korea Investment Holdings (071050)** | 17.3% (series high) | Company defining a new coordinate while market applies a discount label |
-| **New coordinate — aggressive endpoint** (Part 6) | **KakaoBank (323410)** | 4.2% (series low) | Mirror image — market has already pre-priced the new coordinate the company claims |
-| **Coordinate-definition event itself** (Part 7) | **Viva Republica / Toss** | Not yet listed (spectrum $5B–$15B) | Pre-listing — coordinate determined by which market and which classification price the company |
+| <strong>Transit between peaks</strong> (Part 4) | <strong>Shinhan Financial (055550)</strong> | 15.3% | The first follower transiting toward an existing peak (KB's foreign-access coordinate) |
+| <strong>New coordinate — conservative endpoint</strong> (Part 5) | <strong>Korea Investment Holdings (071050)</strong> | 17.3% (series high) | Company defining a new coordinate while market applies a discount label |
+| <strong>New coordinate — aggressive endpoint</strong> (Part 6) | <strong>KakaoBank (323410)</strong> | 4.2% (series low) | Mirror image — market has already pre-priced the new coordinate the company claims |
+| <strong>Coordinate-definition event itself</strong> (Part 7) | <strong>Viva Republica / Toss</strong> | Not yet listed (spectrum $5B–$15B) | Pre-listing — coordinate determined by which market and which classification price the company |
 
 These chapters change the analytical question — from "which existing peak does the company belong to?" to "at what speed does it transit, define its own coordinate, get its premium verified, or have its coordinate decided by the act of listing?"
 
@@ -89,14 +89,14 @@ The 13.1 pp gap between Korea Investment Holdings (17.3%) and KakaoBank (4.2%) t
 
 ## The Transit Chapter
 
-Once the three peaks settled, the market's analytical attention shifted to **how fast each follower moves toward which peak**. This is the chapter the series is currently in.
+Once the three peaks settled, the market's analytical attention shifted to <strong>how fast each follower moves toward which peak</strong>. This is the chapter the series is currently in.
 
 | Follower | Current implied cost of equity | Target (peak) | Gap to close |
 | --- | ---: | --- | ---: |
-| **Shinhan Financial (055550)** | 15.26% | KB foreign-access (11.9%) | **3.3 pp** |
+| <strong>Shinhan Financial (055550)</strong> | 15.26% | KB foreign-access (11.9%) | <strong>3.3 pp</strong> |
 | Hana Financial (086790) | 15.00% | KB foreign-access (11.9%) | 3.1 pp |
 | Woori Financial (316140) | 14.71% | KB foreign-access (11.9%) | 2.8 pp |
-| Korea Investment Holdings (071050) | **17.3%** | **Defining its own coordinate** | See Part 5 — separate analytical category |
+| Korea Investment Holdings (071050) | <strong>17.3%</strong> | <strong>Defining its own coordinate</strong> | See Part 5 — separate analytical category |
 | DB Insurance (005830) | ~16.6% | Meritz capital-cancellation (11.5%) | 5.1 pp |
 
 The speed of gap-closure is, mechanically, the speed of "transit between peaks."
@@ -107,46 +107,46 @@ The speed of gap-closure is, mechanically, the speed of "transit between peaks."
 
 | Sub-Sector | Listed Names | Hub Read |
 |---|---|---|
-| **Bank holdcos** | KB Financial (105560), Shinhan (055550), Hana (086790), Woori (316140) | [Series Parts 3–4](/post/kb-financial-foreign-access-proxy-third-peak-2026-05-03/) |
-| **Internet-only banks** | KakaoBank (323410), K Bank, Toss Bank | [Series Part 6 — KakaoBank](/post/kakaobank-mirror-of-korea-investment-2026-05-03/) |
-| **Pre-listing fintech super app** | Viva Republica (Toss, parent of Toss Bank / Toss Securities / Toss Payments) | [Series Part 7 — Toss IPO Anatomy](/post/toss-pre-listing-coordinate-definition-event-2026-05-03/) |
-| **Securities / Brokerage** | Kiwoom Securities (039490), Korea Investment Holdings (071050), Samsung Securities (016360), NH Investment & Securities (005940), Mirae Asset Securities (006800) | [Series Part 2 — Kiwoom](/post/kiwoom-securities-roe20-recognition-completed-2026-04-30/) · [Series Part 5 — Korea Investment Holdings](/post/korea-investment-holdings-fifth-coordinate-2026-05-03/) |
-| **Foreign access pipes** | Samsung Securities, Hana Securities, Kiwoom Securities, Korea Investment Holdings, Mirae Asset Securities, NH Investment & Securities | [IBKR / foreign retail access map](/post/ibkr-korea-stocks-foreign-retail-access-2026-05-07/) |
-| **Insurance** | Meritz Financial Holdings (138040, mixed), DB Insurance (005830), Samsung Fire & Marine (000810), Hanwha Life | [Series Part 1 — Meritz](/post/meritz-financial-capital-buyback-compounding-standard-2026-04-30/) |
-| **Listed VC / PE** | Atinum (138110), Company K (307930), DSC (241520), Q Capital (016600), Mirae Asset Venture (100790), Aju IB (027360) | [Listed Korean VC Re-Rating](/post/listed-korean-vc-rerating-capital-inflow-2026-04-29/) |
+| <strong>Bank holdcos</strong> | KB Financial (105560), Shinhan (055550), Hana (086790), Woori (316140) | [Series Parts 3–4](/post/kb-financial-foreign-access-proxy-third-peak-2026-05-03/) |
+| <strong>Internet-only banks</strong> | KakaoBank (323410), K Bank, Toss Bank | [Series Part 6 — KakaoBank](/post/kakaobank-mirror-of-korea-investment-2026-05-03/) |
+| <strong>Pre-listing fintech super app</strong> | Viva Republica (Toss, parent of Toss Bank / Toss Securities / Toss Payments) | [Series Part 7 — Toss IPO Anatomy](/post/toss-pre-listing-coordinate-definition-event-2026-05-03/) |
+| <strong>Securities / Brokerage</strong> | Kiwoom Securities (039490), Korea Investment Holdings (071050), Samsung Securities (016360), NH Investment & Securities (005940), Mirae Asset Securities (006800) | [Series Part 2 — Kiwoom](/post/kiwoom-securities-roe20-recognition-completed-2026-04-30/) · [Series Part 5 — Korea Investment Holdings](/post/korea-investment-holdings-fifth-coordinate-2026-05-03/) |
+| <strong>Foreign access pipes</strong> | Samsung Securities, Hana Securities, Kiwoom Securities, Korea Investment Holdings, Mirae Asset Securities, NH Investment & Securities | [IBKR / foreign retail access map](/post/ibkr-korea-stocks-foreign-retail-access-2026-05-07/) |
+| <strong>Insurance</strong> | Meritz Financial Holdings (138040, mixed), DB Insurance (005830), Samsung Fire & Marine (000810), Hanwha Life | [Series Part 1 — Meritz](/post/meritz-financial-capital-buyback-compounding-standard-2026-04-30/) |
+| <strong>Listed VC / PE</strong> | Atinum (138110), Company K (307930), DSC (241520), Q Capital (016600), Mirae Asset Venture (100790), Aju IB (027360) | [Listed Korean VC Re-Rating](/post/listed-korean-vc-rerating-capital-inflow-2026-04-29/) |
 
 ---
 
 ## FAQ — Korean Financials
 
-**Q: What is the Value-up program?**
+<strong>Q: What is the Value-up program?</strong>
 A: Korea's corporate-governance and capital-return reform program, structurally driving the multi-year re-rating of Korean financial equities through 2025–2026. Emphasizes shareholder return (buyback-and-cancel + dividends), capital efficiency (ROE), and listing-cohort discipline.
 
-**Q: What is Value-up 2.0?**
+<strong>Q: What is Value-up 2.0?</strong>
 A: An enhanced second-stage Value-up framework. The most concrete example is Shinhan Financial's KRX disclosure linking ROE × growth × CET1 in an explicit formula instead of a fixed payout ratio.
 
-**Q: Are Korean bank stocks publicly traded?**
+<strong>Q: Are Korean bank stocks publicly traded?</strong>
 A: Yes. KB (105560), Shinhan (055550), Hana (086790), Woori (316140) are all KOSPI-listed. KB and Shinhan also trade as NYSE ADRs (KB and SHG respectively).
 
-**Q: Who has the largest market cap among Korean financials?**
+<strong>Q: Who has the largest market cap among Korean financials?</strong>
 A: KB Financial Group has historically had the largest market cap among Korean bank holdcos (~₩60T-class as of April 2026). Samsung Life and Samsung Fire & Marine are also large within the broader financials universe.
 
-**Q: What is total yield in Korean financials?**
+<strong>Q: What is total yield in Korean financials?</strong>
 A: Total yield = dividend yield + share-buyback-and-cancel yield. As of 2026E, KB leads at ~9.6% (including legacy treasury cancellation), Hana ~7.1%, Meritz ~6.7%, Shinhan ~6%, Kiwoom ~3.9%.
 
-**Q: What is the highest ROE in Korean financials?**
+<strong>Q: What is the highest ROE in Korean financials?</strong>
 A: Among major listed financials, Meritz Financial Holdings runs ROE around 22%. Kiwoom Securities runs around 20%. Bank holdcos are structurally in the 10–11% range due to capital-adequacy ceilings.
 
-**Q: What is CET1 ratio?**
+<strong>Q: What is CET1 ratio?</strong>
 A: Common Equity Tier 1 ratio — the regulator-defined capital-adequacy ratio for banks. For Korean bank holdcos, CET1 in the 13%-class indicates meaningful headroom above regulatory minimums (typically 8–10.5%), which translates into capital-return capacity.
 
-**Q: How do I invest in Korean financials from outside Korea?**
+<strong>Q: How do I invest in Korean financials from outside Korea?</strong>
 A: KB (NYSE: KB) and Shinhan (NYSE: SHG) are dual-listed via ADRs. KOSPI-listed Korean financials can be accessed via international brokers that support the Korea Exchange, and via Korean ETFs such as EWY (iShares MSCI South Korea ETF), where KB sits at a 2.00% index weight.
 
-**Q: Are Korean financials cheaper than US/EU peers?**
+<strong>Q: Are Korean financials cheaper than US/EU peers?</strong>
 A: PBR-wise, yes — Korean bank holdcos sit at 0.7–0.9× PBR vs ~1.2–1.4× for US large banks. The implied cost of equity is correspondingly higher (~12–15% in Korea vs ~9–10% in the US). The Value-up program is structurally narrowing that gap.
 
-**Q: What is the difference between ADR and KOSPI listing?**
+<strong>Q: What is the difference between ADR and KOSPI listing?</strong>
 A: A KOSPI listing is the primary listing on the Korea Exchange. An ADR (American Depositary Receipt) is a US-traded receipt representing a share of the Korean common stock — same economic exposure, traded in USD on NYSE/Nasdaq, with foreign-tax-withholding nuance.
 
 ---
@@ -155,12 +155,12 @@ A: A KOSPI listing is the primary listing on the Korea Exchange. An ADR (America
 
 For deep Q&A on individual companies, see the FAQ blocks at the bottom of each post:
 
-- **Is KB Financial publicly traded? / Who owns KB Financial?** → [KB Financial FAQ](/post/kb-financial-foreign-access-proxy-third-peak-2026-05-03/#faq--kb-financial-group)
-- **Is Shinhan Financial publicly traded? / What is Value-up 2.0?** → [Shinhan FAQ](/post/shinhan-financial-transit-between-peaks-2026-05-03/#faq--shinhan-financial-group)
-- **Is Korea Investment Holdings publicly traded? / What is 발행어음 / IMA?** → [Korea Investment Holdings FAQ](/post/korea-investment-holdings-fifth-coordinate-2026-05-03/#faq--korea-investment-holdings)
-- **Is KakaoBank publicly traded? / Is KakaoBank the same as Kakao Corp?** → [KakaoBank FAQ](/post/kakaobank-mirror-of-korea-investment-2026-05-03/#faq--kakaobank)
-- **Is Toss / Viva Republica publicly traded? / What's the expected Toss IPO valuation?** → [Toss / Viva Republica FAQ](/post/toss-pre-listing-coordinate-definition-event-2026-05-03/#faq--viva-republica--toss)
-- **Is Meritz Financial publicly traded? / Why does the buyback-and-cancel model work?** → see Series Part 1 above
+- <strong>Is KB Financial publicly traded? / Who owns KB Financial?</strong> → [KB Financial FAQ](/post/kb-financial-foreign-access-proxy-third-peak-2026-05-03/#faq--kb-financial-group)
+- <strong>Is Shinhan Financial publicly traded? / What is Value-up 2.0?</strong> → [Shinhan FAQ](/post/shinhan-financial-transit-between-peaks-2026-05-03/#faq--shinhan-financial-group)
+- <strong>Is Korea Investment Holdings publicly traded? / What is 발행어음 / IMA?</strong> → [Korea Investment Holdings FAQ](/post/korea-investment-holdings-fifth-coordinate-2026-05-03/#faq--korea-investment-holdings)
+- <strong>Is KakaoBank publicly traded? / Is KakaoBank the same as Kakao Corp?</strong> → [KakaoBank FAQ](/post/kakaobank-mirror-of-korea-investment-2026-05-03/#faq--kakaobank)
+- <strong>Is Toss / Viva Republica publicly traded? / What's the expected Toss IPO valuation?</strong> → [Toss / Viva Republica FAQ](/post/toss-pre-listing-coordinate-definition-event-2026-05-03/#faq--viva-republica--toss)
+- <strong>Is Meritz Financial publicly traded? / Why does the buyback-and-cancel model work?</strong> → see Series Part 1 above
 
 ---
 

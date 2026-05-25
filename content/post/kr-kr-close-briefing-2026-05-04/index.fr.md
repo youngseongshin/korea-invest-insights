@@ -10,7 +10,7 @@ draft: false
 
 ## Le KOSPI enregistre sa plus forte séance depuis des mois, porté par l'IA et les semi-conducteurs
 
-Le 4 mai 2026, le marché actions coréen a connu une journée hors norme. Le KOSPI, l'indice de référence de la Bourse de Séoul qui regroupe environ 800 sociétés cotées, a clôturé en hausse de **+4,58%**, tandis que le KOSDAQ — l'indice des valeurs technologiques et des PME innovantes — progressait de **+1,72%**. Ce n'est pas un simple rebond technique : les données de flux et la concentration sectorielle indiquent une conviction réelle de la part des investisseurs institutionnels et étrangers autour du thème de l'intelligence artificielle.
+Le 4 mai 2026, le marché actions coréen a connu une journée hors norme. Le KOSPI, l'indice de référence de la Bourse de Séoul qui regroupe environ 800 sociétés cotées, a clôturé en hausse de <strong>+4,58%</strong>, tandis que le KOSDAQ — l'indice des valeurs technologiques et des PME innovantes — progressait de <strong>+1,72%</strong>. Ce n'est pas un simple rebond technique : les données de flux et la concentration sectorielle indiquent une conviction réelle de la part des investisseurs institutionnels et étrangers autour du thème de l'intelligence artificielle.
 
 La question que se posent les gérants internationaux ce soir est simple : s'agit-il d'un feu de paille avant un jour férié, ou du début d'une réévaluation durable du marché coréen ?
 
@@ -18,17 +18,17 @@ La question que se posent les gérants internationaux ce soir est simple : s'agi
 
 ## Des achats étrangers et institutionnels d'une ampleur exceptionnelle
 
-Ce qui distingue la séance du 4 mai d'un simple rebond de soulagement, c'est la qualité des flux. Les investisseurs étrangers ont acheté pour **+2 720 milliards de wons** (environ 2 milliards de dollars) de titres KOSPI en une seule journée. Les investisseurs institutionnels coréens ont ajouté **+1 550 milliards de wons** supplémentaires sur le marché au comptant.
+Ce qui distingue la séance du 4 mai d'un simple rebond de soulagement, c'est la qualité des flux. Les investisseurs étrangers ont acheté pour <strong>+2 720 milliards de wons</strong> (environ 2 milliards de dollars) de titres KOSPI en une seule journée. Les investisseurs institutionnels coréens ont ajouté <strong>+1 550 milliards de wons</strong> supplémentaires sur le marché au comptant.
 
 Ces deux acteurs achetant simultanément et massivement est un signal fort. Sur le marché coréen, les configurations où étrangers et institutions convergent dans la même direction — on parle de « co-buy » — précèdent souvent une phase de réévaluation sectorielle durable. Les données du KRX (Korea Exchange) montrent que ce type de flux synchronisé ne s'est produit que quelques fois au cours des douze derniers mois.
 
-Les secteurs bénéficiaires sont sans ambiguïté : **semi-conducteurs et infrastructure IA**, **équipements électriques de puissance**, et **courtage-finances**. À l'inverse, la construction, l'immobilier et les matériaux traditionnels ont été délaissés — ce qui confirme une rotation thématique précise, et non un rally de marché généralisé.
+Les secteurs bénéficiaires sont sans ambiguïté : <strong>semi-conducteurs et infrastructure IA</strong>, <strong>équipements électriques de puissance</strong>, et <strong>courtage-finances</strong>. À l'inverse, la construction, l'immobilier et les matériaux traditionnels ont été délaissés — ce qui confirme une rotation thématique précise, et non un rally de marché généralisé.
 
 ---
 
 ## Samsung Electro-Mechanics : le grand gagnant de la journée
 
-Parmi les grandes capitalisations coréennes, **Samsung Electro-Mechanics (009150.KS)** — fabricant de composants électroniques avancés (MLCC, substrats de packaging, modules caméra) — s'est distingué avec une hausse de **+10,34%** sur la séance, portant sa progression sur cinq jours à **+16,50%**.
+Parmi les grandes capitalisations coréennes, <strong>Samsung Electro-Mechanics (009150.KS)</strong> — fabricant de composants électroniques avancés (MLCC, substrats de packaging, modules caméra) — s'est distingué avec une hausse de <strong>+10,34%</strong> sur la séance, portant sa progression sur cinq jours à <strong>+16,50%</strong>.
 
 Cette performance n'est pas isolée. Depuis la publication des résultats trimestriels du 30 avril, la dynamique de prix et de flux s'est constamment renforcée. Les étrangers et les institutions ont acheté simultanément aujourd'hui, avec un score de force relative (RS) de 98,8 sur cent — ce qui en fait techniquement l'un des titres les plus forts du marché coréen en ce moment.
 
@@ -40,7 +40,7 @@ Pourquoi Samsung Electro-Mechanics attire-t-elle autant d'attention ? L'explicat
 
 L'un des aspects les plus intéressants de la séance du 4 mai est la performance des valeurs coréennes d'équipements électriques de puissance — un segment que les investisseurs internationaux ont tendance à sous-estimer.
 
-Des sociétés comme **Hyosung Heavy Industries** (효성중공업), **Jerongyun Electric** (제룡전기) ou **Saniil Electric** (산일전기) ont enregistré des hausses significatives, portées par la demande croissante en transformateurs et équipements de distribution électrique pour les datacenters d'IA. **LS Electric** a vu son objectif de cours relevé par les analystes sell-side coréens cette semaine.
+Des sociétés comme <strong>Hyosung Heavy Industries</strong> (효성중공업), <strong>Jerongyun Electric</strong> (제룡전기) ou <strong>Saniil Electric</strong> (산일전기) ont enregistré des hausses significatives, portées par la demande croissante en transformateurs et équipements de distribution électrique pour les datacenters d'IA. <strong>LS Electric</strong> a vu son objectif de cours relevé par les analystes sell-side coréens cette semaine.
 
 La logique est la suivante : chaque datacenter alimentant des milliers de GPU consomme entre 20 et 100 mégawatts d'électricité. Cette demande en infrastructures électriques est massive, prévisible, et les fabricants coréens d'équipements de puissance se retrouvent en position de fournisseurs stratégiques à l'échelle mondiale. Ce thème, souvent appelé « AI power infrastructure » dans les rapports de recherche coréens, constitue aujourd'hui l'un des sous-secteurs les plus actifs du KOSPI.
 
@@ -48,11 +48,11 @@ La logique est la suivante : chaque datacenter alimentant des milliers de GPU co
 
 ## Le contexte macro : 700 milliards de dollars de capex IA en 2026
 
-En arrière-plan de cette journée, les chiffres macro donnent le vertige. Les prévisions consolidées pour 2026 tablent sur **700 milliards de dollars de dépenses d'investissement** combinées des quatre grands fournisseurs de cloud américains (AWS, Microsoft Azure, Google Cloud, Meta AI). Ce chiffre, en hausse de plus de 30% par rapport à 2025, redessine la cartographie mondiale de la demande en semi-conducteurs.
+En arrière-plan de cette journée, les chiffres macro donnent le vertige. Les prévisions consolidées pour 2026 tablent sur <strong>700 milliards de dollars de dépenses d'investissement</strong> combinées des quatre grands fournisseurs de cloud américains (AWS, Microsoft Azure, Google Cloud, Meta AI). Ce chiffre, en hausse de plus de 30% par rapport à 2025, redessine la cartographie mondiale de la demande en semi-conducteurs.
 
-Pour la Corée du Sud, deux signaux concrets sont survenus cette semaine : les capacités de fonderie 4 nanomètres de **Samsung Electronics (005930.KS)** seraient désormais entièrement réservées, et une pénurie de DRAM standard se profile à l'horizon du second semestre 2026. Ces éléments confortent la thèse haussière sur les deux géants coréens des semi-conducteurs : Samsung Electronics et **SK Hynix (000660.KS)**, ce dernier étant le premier producteur mondial de mémoire HBM (High Bandwidth Memory) pour GPU IA.
+Pour la Corée du Sud, deux signaux concrets sont survenus cette semaine : les capacités de fonderie 4 nanomètres de <strong>Samsung Electronics (005930.KS)</strong> seraient désormais entièrement réservées, et une pénurie de DRAM standard se profile à l'horizon du second semestre 2026. Ces éléments confortent la thèse haussière sur les deux géants coréens des semi-conducteurs : Samsung Electronics et <strong>SK Hynix (000660.KS)</strong>, ce dernier étant le premier producteur mondial de mémoire HBM (High Bandwidth Memory) pour GPU IA.
 
-Samsung Electronics a d'ailleurs progressé de **+5,44%** aujourd'hui, avec des achats étrangers dépassant **1 210 milliards de wons** sur la seule journée.
+Samsung Electronics a d'ailleurs progressé de <strong>+5,44%</strong> aujourd'hui, avec des achats étrangers dépassant <strong>1 210 milliards de wons</strong> sur la seule journée.
 
 ---
 
@@ -66,7 +66,7 @@ Attention toutefois : le WTI reste au-dessus de 101 dollars le baril, ce qui con
 
 ## Demain est férié : ce que les investisseurs étrangers doivent savoir
 
-La Bourse de Séoul sera **fermée le 5 mai 2026** (Children's Day, jour férié national en Corée du Sud). La prochaine séance ordinaire reprendra le 6 mai. Dans ce contexte, le rally d'aujourd'hui s'est partiellement nourri d'un repositionnement avant clôture : les acteurs institutionnels souhaitaient être exposés aux thèmes gagnants avant l'interruption.
+La Bourse de Séoul sera <strong>fermée le 5 mai 2026</strong> (Children's Day, jour férié national en Corée du Sud). La prochaine séance ordinaire reprendra le 6 mai. Dans ce contexte, le rally d'aujourd'hui s'est partiellement nourri d'un repositionnement avant clôture : les acteurs institutionnels souhaitaient être exposés aux thèmes gagnants avant l'interruption.
 
 Pour les investisseurs étrangers qui suivent les marchés coréens, les catalyseurs à surveiller à la réouverture sont les suivants : la capacité de Samsung Electronics à maintenir ses achats étrangers sur deux séances consécutives au-delà d'un seuil clé, la confirmation ou non de la dynamique de Samsung Electro-Mechanics après la surchauffe de court terme, et la solidité des valeurs électriques après leurs récentes hausses rapides.
 

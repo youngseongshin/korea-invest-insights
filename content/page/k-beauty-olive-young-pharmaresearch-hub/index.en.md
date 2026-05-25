@@ -9,7 +9,7 @@ description: "A research hub for Olive Young, CJ Corp, PharmaResearch, Rejuran, 
 
 ## One-Line Thesis
 
-K-beauty is not one trade. **Olive Young is a private retail and discovery platform**, **PharmaResearch is a Rejuran / PN-PDRN medical-aesthetics platform**, and **APR is a Medicube / AGE-R global beauty-tech growth stock**. Investors should separate retail, brands, ODM, medical aesthetics and devices.
+K-beauty is not one trade. <strong>Olive Young is a private retail and discovery platform</strong>, <strong>PharmaResearch is a Rejuran / PN-PDRN medical-aesthetics platform</strong>, and <strong>APR is a Medicube / AGE-R global beauty-tech growth stock</strong>. Investors should separate retail, brands, ODM, medical aesthetics and devices.
 
 ---
 
@@ -85,7 +85,7 @@ Both benefit from K-beauty globalization, but through different profit pools. Ol
 
 For quick answers to natural-language questions about K-Beauty companies:
 
-- **Is Olive Young publicly traded?** / **Who owns Olive Young?** → [FAQ in the Olive Young analysis](/post/olive-young-publicly-traded-cj-corp-korea-beauty-exposure-2026-04-27/#faq--olive-young)
-- **When did Olive Young's IPO get postponed?** → same FAQ block above
-- **Is Rejuran publicly traded?** / **Who owns Rejuran?** → [FAQ in the PharmaResearch / Rejuran analysis](/post/rejuran-owner-pharmaresearch-pn-technology-skin-booster-2026-04-27/#faq--rejuran-and-pharmaresearch)
-- **What is Rejuran made from?** / **How is Rejuran different from Botox?** → same FAQ block above
+- <strong>Is Olive Young publicly traded?</strong> / <strong>Who owns Olive Young?</strong> → [FAQ in the Olive Young analysis](/post/olive-young-publicly-traded-cj-corp-korea-beauty-exposure-2026-04-27/#faq--olive-young)
+- <strong>When did Olive Young's IPO get postponed?</strong> → same FAQ block above
+- <strong>Is Rejuran publicly traded?</strong> / <strong>Who owns Rejuran?</strong> → [FAQ in the PharmaResearch / Rejuran analysis](/post/rejuran-owner-pharmaresearch-pn-technology-skin-booster-2026-04-27/#faq--rejuran-and-pharmaresearch)
+- <strong>What is Rejuran made from?</strong> / <strong>How is Rejuran different from Botox?</strong> → same FAQ block above

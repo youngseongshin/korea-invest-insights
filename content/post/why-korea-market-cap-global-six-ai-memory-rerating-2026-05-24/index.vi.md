@@ -8,13 +8,13 @@ tags: ["Why Korea", "KOSPI", "KOSDAQ", "Samsung Electronics", "SK hynix", "HBM",
 series: ["why-korea", "korea-rerating-2026"]
 ---
 
-> **Why Korea Phần 5.** Các phần trước đã nói về substrate bán dẫn, K-beauty, đòn bẩy lợi nhuận của Samsung/SK hynix và dòng tiền ETF vào Hàn Quốc. Bài này nối tiếp bằng câu hỏi mới: nếu vốn hóa chứng khoán Hàn Quốc đã lên gần **Top 6 thế giới**, đó là cơ hội hay rủi ro?
+> <strong>Why Korea Phần 5.</strong> Các phần trước đã nói về substrate bán dẫn, K-beauty, đòn bẩy lợi nhuận của Samsung/SK hynix và dòng tiền ETF vào Hàn Quốc. Bài này nối tiếp bằng câu hỏi mới: nếu vốn hóa chứng khoán Hàn Quốc đã lên gần <strong>Top 6 thế giới</strong>, đó là cơ hội hay rủi ro?
 
 ## TL;DR
 
-* Hướng đi là thật. WFE ghi nhận vốn hóa nội địa của KRX là **2,67 nghìn tỷ USD** vào tháng 12/2025, tăng **71,4%** so với cùng kỳ bằng USD. CEIC ghi nhận **4,03 nghìn tỷ USD** vào tháng 2/2026.
-* Con số **4,89 nghìn tỷ USD / hạng 6 thế giới / 190% GDP** trên bảng công khai có thể là ảnh chụp gần đây, nhưng tỷ lệ GDP cần kiểm tra phương pháp trước khi dùng như dữ liệu chắc chắn.
-* Proxy từ Research OS local DB cho thấy vốn hóa khoảng **6.851 nghìn tỷ won** ngày 22/5/2026. Samsung Electronics và SK hynix cộng lại khoảng **3.093 nghìn tỷ won**, tương đương **45,1%** proxy.
+* Hướng đi là thật. WFE ghi nhận vốn hóa nội địa của KRX là <strong>2,67 nghìn tỷ USD</strong> vào tháng 12/2025, tăng <strong>71,4%</strong> so với cùng kỳ bằng USD. CEIC ghi nhận <strong>4,03 nghìn tỷ USD</strong> vào tháng 2/2026.
+* Con số <strong>4,89 nghìn tỷ USD / hạng 6 thế giới / 190% GDP</strong> trên bảng công khai có thể là ảnh chụp gần đây, nhưng tỷ lệ GDP cần kiểm tra phương pháp trước khi dùng như dữ liệu chắc chắn.
+* Proxy từ Research OS local DB cho thấy vốn hóa khoảng <strong>6.851 nghìn tỷ won</strong> ngày 22/5/2026. Samsung Electronics và SK hynix cộng lại khoảng <strong>3.093 nghìn tỷ won</strong>, tương đương <strong>45,1%</strong> proxy.
 * Kết luận đầu tư: không nên mua toàn bộ Hàn Quốc chỉ vì tiêu đề Top 6. Cần kiểm chứng độ bền lợi nhuận AI memory và xem dòng tiền có lan xuống các bottleneck tiếp theo hay không.
 
 ## Bản Chất Của Đợt Tăng
@@ -45,12 +45,12 @@ Nếu năm điều này tiếp tục đúng, Top 6 có thể là giai đoạn gi
 
 | Nhóm | Đánh giá |
 |---|---|
-| KOSPI rộng | **Chờ** |
-| Samsung Electronics | **Watchlist** |
-| SK hynix | **Watchlist / mua khi điều chỉnh** |
-| Samsung Electro-Mechanics | **Bottleneck cấp hai**: FC-BGA, MLCC, silicon capacitor |
-| Hạ tầng điện | **Chọn lọc** |
-| KOSDAQ chất lượng | **Có điều kiện**, cần xác nhận breadth và dòng tiền |
+| KOSPI rộng | <strong>Chờ</strong> |
+| Samsung Electronics | <strong>Watchlist</strong> |
+| SK hynix | <strong>Watchlist / mua khi điều chỉnh</strong> |
+| Samsung Electro-Mechanics | <strong>Bottleneck cấp hai</strong>: FC-BGA, MLCC, silicon capacitor |
+| Hạ tầng điện | <strong>Chọn lọc</strong> |
+| KOSDAQ chất lượng | <strong>Có điều kiện</strong>, cần xác nhận breadth và dòng tiền |
 
 ## Kết Luận
 

@@ -20,7 +20,7 @@ draft: false
 | USD/KRW | 1.441 | −3,1% | Won fuerte |
 | Brent | 97,1 USD | −10,2% | Bajando |
 
-**Veredicto de régimen:** Corea **Bull** · EE.UU. **Bull** · Postura: expansión activa.
+<strong>Veredicto de régimen:</strong> Corea <strong>Bull</strong> · EE.UU. <strong>Bull</strong> · Postura: expansión activa.
 
 El KOSPI avanzó un 11,2% en cinco días y cierra en 7.384,6. El KOSDAQ apenas varía (−0,5%), lo que señala una divergencia de 11,6 puntos porcentuales entre grandes y pequeñas capitalizaciones. El won se apreció un 3,1% hasta 1.441 KRW/USD. El Brent retrocede con fuerza (−10,2%), lo que alivia la presión de costes. El VIX en 16,4 refleja un entorno de riesgo controlado. Con ambas señales —Corea y EE.UU.— en régimen alcista simultáneo, las condiciones para selección de valores son favorables.
 
@@ -30,11 +30,11 @@ El KOSPI avanzó un 11,2% en cinco días y cierra en 7.384,6. El KOSDAQ apenas v
 
 La sesión del 6 de mayo en el mercado de valores coreano fue un episodio claro de apetito por el riesgo, aunque con rotación sectorial marcada. El screener de descubrimiento registró 379 valores en zona válida (FTD confirmado, régimen BULL 100/100), con amplitud amplia: 214 valores KOSDAQ y 165 del segmento de precio superaron los filtros. Esa amplitud distingue esta jornada de los repuntes selectivos de semanas anteriores.
 
-**Sectores fuertes.** Los semiconductores e infraestructura AI lideraron. Samsung Electronics (005930.KS) avanzó con narrativa de plataforma AI y demanda de aceleradores. Daeduck Electronics (008060.KS), fabricante de sustratos de circuito impreso, registró entrada simultánea de capital extranjero e institucional. Las financieras y brokers —Kiwoom Securities (039490.KS), Hanwha Investment Securities (003530.KS), Samsung Securities— dispararon el volumen; el sector actúa como termómetro del beta de mercado. En el segmento de infraestructura eléctrica, Gaon Cable (000500.KS) subió un 27,2%, mientras LS Electric (010120.KS) y Daewon Cable también avanzaron con fuerza. El hidrógeno sumó otro foco de atención con Doosan Fuel Cell.
+<strong>Sectores fuertes.</strong> Los semiconductores e infraestructura AI lideraron. Samsung Electronics (005930.KS) avanzó con narrativa de plataforma AI y demanda de aceleradores. Daeduck Electronics (008060.KS), fabricante de sustratos de circuito impreso, registró entrada simultánea de capital extranjero e institucional. Las financieras y brokers —Kiwoom Securities (039490.KS), Hanwha Investment Securities (003530.KS), Samsung Securities— dispararon el volumen; el sector actúa como termómetro del beta de mercado. En el segmento de infraestructura eléctrica, Gaon Cable (000500.KS) subió un 27,2%, mientras LS Electric (010120.KS) y Daewon Cable también avanzaron con fuerza. El hidrógeno sumó otro foco de atención con Doosan Fuel Cell.
 
-**Sectores débiles.** Pearl Abyss (263750.KQ) cerró con precio, flujo y ventas en corto todos desfavorables. Algunos valores de biotecnología que habían subido en jornadas previas fueron objeto de recogida de beneficios.
+<strong>Sectores débiles.</strong> Pearl Abyss (263750.KQ) cerró con precio, flujo y ventas en corto todos desfavorables. Algunos valores de biotecnología que habían subido en jornadas previas fueron objeto de recogida de beneficios.
 
-**Flujos de capital.** Lo más destacado fue la coincidencia de compra extranjera e institucional en semiconductores y sustratos. Los valores de cable eléctrico mostraron volumen excepcional, pero el RSI superior a 90 en varios de ellos exige cautela para entradas nuevas. El mercado ignoró los avisos sobre el estrecho de Ormuz y los tipos a 30 años, avanzando en modo de preferencia por el riesgo. Con el screener pasando 379 valores, la pregunta para mañana es si ese número se mantiene o las financieras y el cable eléctrico revierten parte del avance.
+<strong>Flujos de capital.</strong> Lo más destacado fue la coincidencia de compra extranjera e institucional en semiconductores y sustratos. Los valores de cable eléctrico mostraron volumen excepcional, pero el RSI superior a 90 en varios de ellos exige cautela para entradas nuevas. El mercado ignoró los avisos sobre el estrecho de Ormuz y los tipos a 30 años, avanzando en modo de preferencia por el riesgo. Con el screener pasando 379 valores, la pregunta para mañana es si ese número se mantiene o las financieras y el cable eléctrico revierten parte del avance.
 
 ---
 
@@ -55,17 +55,17 @@ El meta-screener evaluó hoy 138 valores y seleccionó 20 candidatos principales
 
 ### Los tres candidatos principales
 
-**1. SK Hynix (000660.KS) — Meta rank #1 · Puntuación 63,8**
+<strong>1. SK Hynix (000660.KS) — Meta rank #1 · Puntuación 63,8</strong>
 
-SK Hynix es el mayor fabricante de DRAM del mundo y líder en HBM para aceleradores de IA. Aparece en cuatro screeners: Quality Compounder, Cycle Rerating, Consensus Up Revision y Kiwoom Market Surface. El argumento es directo: ROE del 44,1%, crecimiento de beneficio operativo del 101,2% interanual y expansión de margen de +13,1 puntos porcentuales configuran un caso de reclasificación de ciclo con revisiones alcistas de consenso (z-score compuesto +1,85). Los inversores extranjeros poseen el 53,2% del capital y mantienen flujo neto positivo; la institución doméstica vende marginalmente, señal que conviene vigilar. La venta en corto es contenida (5,2%). El programa neto es negativo (−9,3%), lo que introduce un elemento de distribución a corto plazo. **Próximo paso:** confirmar que la compra extranjera en mercado de contado supera las salidas de programa.
+SK Hynix es el mayor fabricante de DRAM del mundo y líder en HBM para aceleradores de IA. Aparece en cuatro screeners: Quality Compounder, Cycle Rerating, Consensus Up Revision y Kiwoom Market Surface. El argumento es directo: ROE del 44,1%, crecimiento de beneficio operativo del 101,2% interanual y expansión de margen de +13,1 puntos porcentuales configuran un caso de reclasificación de ciclo con revisiones alcistas de consenso (z-score compuesto +1,85). Los inversores extranjeros poseen el 53,2% del capital y mantienen flujo neto positivo; la institución doméstica vende marginalmente, señal que conviene vigilar. La venta en corto es contenida (5,2%). El programa neto es negativo (−9,3%), lo que introduce un elemento de distribución a corto plazo. <strong>Próximo paso:</strong> confirmar que la compra extranjera en mercado de contado supera las salidas de programa.
 
-**2. Hanwha Investment Securities (003530.KS) — Meta rank #2 · Puntuación 59,5**
+<strong>2. Hanwha Investment Securities (003530.KS) — Meta rank #2 · Puntuación 59,5</strong>
 
-Hanwha Investment es la rama de banca de inversión y brokerage del grupo Hanwha. Presenta el mayor solapamiento puro del día: Cycle Rerating #1, Smart Money Quality #2 y Smart Money Earnings #3 de forma simultánea. La expansión de margen operativo fue de +4,6 pp y los flujos netos acumulados de extranjeros e institucionales en cinco días suman +26.810 millones de won. El crecimiento de beneficio operativo es espectacular (+3.593%) aunque parte de una base muy baja. **Advertencia:** existe una publicación DART con carácter de riesgo que debe revisarse antes de cualquier análisis adicional. El bróker actúa como beta amplificado del mercado, no como quality compounder estructural; la tesis es táctica, no de largo plazo.
+Hanwha Investment es la rama de banca de inversión y brokerage del grupo Hanwha. Presenta el mayor solapamiento puro del día: Cycle Rerating #1, Smart Money Quality #2 y Smart Money Earnings #3 de forma simultánea. La expansión de margen operativo fue de +4,6 pp y los flujos netos acumulados de extranjeros e institucionales en cinco días suman +26.810 millones de won. El crecimiento de beneficio operativo es espectacular (+3.593%) aunque parte de una base muy baja. <strong>Advertencia:</strong> existe una publicación DART con carácter de riesgo que debe revisarse antes de cualquier análisis adicional. El bróker actúa como beta amplificado del mercado, no como quality compounder estructural; la tesis es táctica, no de largo plazo.
 
-**3. Protek (053610.KQ) — Meta rank #3 · Puntuación 58,1**
+<strong>3. Protek (053610.KQ) — Meta rank #3 · Puntuación 58,1</strong>
 
-Protek fabrica equipos de test y dispensación para semiconductores. Aparece en cuatro screeners con calidad estructural sólida: ROE del 14,6%, crecimiento de beneficio operativo del 245,5% y expansión de margen de +12,2 pp. El consenso muestra revisión al alza (z-score compuesto +1,23). La presencia institucional es positiva (compra conjunta confirmada), la venta en corto es baja (2,4%) y el libro de órdenes muestra un 26% de exceso de oferta en el bid. Sin publicaciones DART de riesgo recientes. **Próximo paso:** verificar si la demanda de equipos de test se sostiene con los ciclos de capex de los fabricantes de semiconductores clientes.
+Protek fabrica equipos de test y dispensación para semiconductores. Aparece en cuatro screeners con calidad estructural sólida: ROE del 14,6%, crecimiento de beneficio operativo del 245,5% y expansión de margen de +12,2 pp. El consenso muestra revisión al alza (z-score compuesto +1,23). La presencia institucional es positiva (compra conjunta confirmada), la venta en corto es baja (2,4%) y el libro de órdenes muestra un 26% de exceso de oferta en el bid. Sin publicaciones DART de riesgo recientes. <strong>Próximo paso:</strong> verificar si la demanda de equipos de test se sostiene con los ciclos de capex de los fabricantes de semiconductores clientes.
 
 ---
 

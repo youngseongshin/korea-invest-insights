@@ -20,7 +20,7 @@ draft: false
 | US 10Y | 4.25% | -0.01pp | Flat |
 | Brent | $90.6 | -8.9% | Easing |
 
-**Regime Verdict — KR: Bull | US: Bull.** Both markets are in confirmed bull regime. KOSPI's 5-day surge of nearly 5% runs alongside a 64.2% breadth above the 50MA and 59.3% above the 200MA — broad participation, not a narrow spike. Declining Brent removes an inflationary overhang for Korean manufacturers. USD/KRW holding at 1,470 is constructive; the won is not pressuring import costs or foreign flows. Stance: aggressive expansion.
+<strong>Regime Verdict — KR: Bull | US: Bull.</strong> Both markets are in confirmed bull regime. KOSPI's 5-day surge of nearly 5% runs alongside a 64.2% breadth above the 50MA and 59.3% above the 200MA — broad participation, not a narrow spike. Declining Brent removes an inflationary overhang for Korean manufacturers. USD/KRW holding at 1,470 is constructive; the won is not pressuring import costs or foreign flows. Stance: aggressive expansion.
 
 ---
 
@@ -28,27 +28,27 @@ draft: false
 
 Tuesday's Korea session carried the hallmarks of a conviction rally rather than a reflex bounce. KOSPI closed at 6,388 — up nearly 300 points over five sessions — with breadth firmly above key moving averages, suggesting institutional rotation rather than retail-driven momentum.
 
-**Sector character:** Machinery and special-purpose equipment were the day's standout performers. The screener universe is saturated with industrial names flagging simultaneous volume surges, near-52-week highs, and triple-digit operating income growth — a combination that typically reflects a genuine demand cycle rather than a valuation re-rate. Display equipment, semiconductor test gear, and shipbuilding-adjacent components all saw buying pressure consistent with a capex supercycle narrative gaining credibility.
+<strong>Sector character:</strong> Machinery and special-purpose equipment were the day's standout performers. The screener universe is saturated with industrial names flagging simultaneous volume surges, near-52-week highs, and triple-digit operating income growth — a combination that typically reflects a genuine demand cycle rather than a valuation re-rate. Display equipment, semiconductor test gear, and shipbuilding-adjacent components all saw buying pressure consistent with a capex supercycle narrative gaining credibility.
 
-**Semiconductors:** The memory complex continued to command attention. Foreign buyers have maintained exposure to large-cap semis even as the broader global tape has been volatile. The earnings improvement signals are coming through cleanly — revenue growth, margin expansion, and ROE recovery all aligning simultaneously.
+<strong>Semiconductors:</strong> The memory complex continued to command attention. Foreign buyers have maintained exposure to large-cap semis even as the broader global tape has been volatile. The earnings improvement signals are coming through cleanly — revenue growth, margin expansion, and ROE recovery all aligning simultaneously.
 
-**Defense & Heavy Industry:** Defense-adjacent names (small arms components, naval propulsion) appeared among smart money candidates, reflecting the sustained re-armament theme that has been running since late 2025. Order backlogs are translating into visible P&L inflection, and institutional accumulation appears to be tracking that inflection with a 1-2 quarter lag.
+<strong>Defense & Heavy Industry:</strong> Defense-adjacent names (small arms components, naval propulsion) appeared among smart money candidates, reflecting the sustained re-armament theme that has been running since late 2025. Order backlogs are translating into visible P&L inflection, and institutional accumulation appears to be tracking that inflection with a 1-2 quarter lag.
 
-**Power & Electrical Equipment:** Transformer and power conversion names continue to benefit from global grid buildout demand — a theme with multi-year duration that is now showing up in actual earnings prints, not just forward estimates.
+<strong>Power & Electrical Equipment:</strong> Transformer and power conversion names continue to benefit from global grid buildout demand — a theme with multi-year duration that is now showing up in actual earnings prints, not just forward estimates.
 
-**Energy tailwind:** Brent's 8.9% five-day decline is a quiet positive for Korea's energy-import-heavy industrial base. Lower feedstock and fuel costs expand margins at downstream manufacturers without requiring revenue growth — a silent earnings upgrade.
+<strong>Energy tailwind:</strong> Brent's 8.9% five-day decline is a quiet positive for Korea's energy-import-heavy industrial base. Lower feedstock and fuel costs expand margins at downstream manufacturers without requiring revenue growth — a silent earnings upgrade.
 
-**Foreign flows** remain constructive. The smart money composite scores across today's top candidates skew toward names with confirmed foreign and institutional accumulation (Vol+, RS85+, NearHigh tags), not speculative rotation. That distribution matters: it implies follow-through probability is higher than typical momentum screens.
+<strong>Foreign flows</strong> remain constructive. The smart money composite scores across today's top candidates skew toward names with confirmed foreign and institutional accumulation (Vol+, RS85+, NearHigh tags), not speculative rotation. That distribution matters: it implies follow-through probability is higher than typical momentum screens.
 
-**Risk flags:** VIX nudged up 3.6% over five days to 18.8 — still well within the stable band, but worth monitoring. A VIX break above 20 would warrant a defensive reassessment.
+<strong>Risk flags:</strong> VIX nudged up 3.6% over five days to 18.8 — still well within the stable band, but worth monitoring. A VIX break above 20 would warrant a defensive reassessment.
 
 ---
 
 ## Today's Screener Spotlight: Smart Money + Earnings Improvement
 
-**Tuesday's screener** combines institutional/foreign flow signals with fundamental earnings inflection criteria — revenue growth, operating income expansion, margin improvement, and ROE recovery must all be trending in the same direction. The goal is to surface names where smart capital is already accumulating *ahead of* consensus recognizing the earnings turn.
+<strong>Tuesday's screener</strong> combines institutional/foreign flow signals with fundamental earnings inflection criteria — revenue growth, operating income expansion, margin improvement, and ROE recovery must all be trending in the same direction. The goal is to surface names where smart capital is already accumulating *ahead of* consensus recognizing the earnings turn.
 
-Today's universe: 2,722 Korean listed names screened down to **20 top candidates** (avg strategy score: 0.793). Zero names cleared all hard-filter thresholds simultaneously, but the ranked candidates show compelling partial scores.
+Today's universe: 2,722 Korean listed names screened down to <strong>20 top candidates</strong> (avg strategy score: 0.793). Zero names cleared all hard-filter thresholds simultaneously, but the ranked candidates show compelling partial scores.
 
 ### Top 10 Candidates
 
@@ -67,11 +67,11 @@ Today's universe: 2,722 Korean listed names screened down to **20 top candidates
 
 ### Top 3 Deep-Dive
 
-**#1 — 선익시스템 (171090.KQ)** is a display deposition equipment maker focused on OLED evaporation systems. Revenue nearly quadrupled year-on-year, and operating income is up 13x — driven by a surge in panel maker capex as foldable and large-format OLED capacity expands in Korea and China. The ROE delta of +149pp signals a business moving from breakeven to highly profitable in a single cycle. Smart money score of 0.748 with RS at 96th percentile indicates institutions are already positioned.
+<strong>#1 — 선익시스템 (171090.KQ)</strong> is a display deposition equipment maker focused on OLED evaporation systems. Revenue nearly quadrupled year-on-year, and operating income is up 13x — driven by a surge in panel maker capex as foldable and large-format OLED capacity expands in Korea and China. The ROE delta of +149pp signals a business moving from breakeven to highly profitable in a single cycle. Smart money score of 0.748 with RS at 96th percentile indicates institutions are already positioned.
 
-**#2 — 동아엘텍 (088130.KQ)** manufactures precision display bonding and assembly equipment. The +670% operating income growth on +227% revenue suggests strong operating leverage — costs are not scaling with revenue. Near-52-week-high tag alongside volume expansion is a technical confirmation of the fundamental thesis. Sector overlap with 선익시스템 (both in display capex) raises portfolio concentration risk if held together.
+<strong>#2 — 동아엘텍 (088130.KQ)</strong> manufactures precision display bonding and assembly equipment. The +670% operating income growth on +227% revenue suggests strong operating leverage — costs are not scaling with revenue. Near-52-week-high tag alongside volume expansion is a technical confirmation of the fundamental thesis. Sector overlap with 선익시스템 (both in display capex) raises portfolio concentration risk if held together.
 
-**#3 — SK스퀘어 (402340.KS)** is SK Telecom's investment holding arm, with stakes in SK하이닉스 and a portfolio of Korean tech ventures. At RS 99th percentile, it is the relative-strength leader in the large-cap space. The +17.5pp operating margin swing and +142% net income growth reflect semiconductor cycle recovery flowing up through the holding structure. It offers indirect semiconductor exposure with a financial-sector label — a structural mispricing some foreign funds exploit.
+<strong>#3 — SK스퀘어 (402340.KS)</strong> is SK Telecom's investment holding arm, with stakes in SK하이닉스 and a portfolio of Korean tech ventures. At RS 99th percentile, it is the relative-strength leader in the large-cap space. The +17.5pp operating margin swing and +142% net income growth reflect semiconductor cycle recovery flowing up through the holding structure. It offers indirect semiconductor exposure with a financial-sector label — a structural mispricing some foreign funds exploit.
 
 ---
 

@@ -36,9 +36,9 @@ draft: false
 
 El más importante de los tres vídeos es la entrevista de Dwarkesh Patel con Reiner Pope. No comienza con titulares de mercado, sino con lo que ocurre realmente dentro de un chip: por dónde fluye la electricidad, dónde residen los datos y con qué frecuencia el chip tiene que moverlos.[^dwarkesh]
 
-El punto clave es sencillo. El rendimiento de la IA no depende solo de los FLOPS. El verdadero cuello de botella está en **de dónde vienen los datos, dónde se almacenan y cuán corto es el camino entre la memoria y el cómputo**. Bajo ese enfoque, NVIDIA sigue siendo central, pero la cadena de inversión se extiende hacia HBM, sustratos de encapsulado, FC-BGA, PCBs de alta densidad de capas, Ethernet, enlaces ópticos, componentes de estabilidad de potencia y pruebas.
+El punto clave es sencillo. El rendimiento de la IA no depende solo de los FLOPS. El verdadero cuello de botella está en <strong>de dónde vienen los datos, dónde se almacenan y cuán corto es el camino entre la memoria y el cómputo</strong>. Bajo ese enfoque, NVIDIA sigue siendo central, pero la cadena de inversión se extiende hacia HBM, sustratos de encapsulado, FC-BGA, PCBs de alta densidad de capas, Ethernet, enlaces ópticos, componentes de estabilidad de potencia y pruebas.
 
-Para los inversores coreanos, la lectura es clara. **Samsung Electronics y SK Hynix son el núcleo de memoria. Samsung Electro-Mechanics es el nodo de FC-BGA y condensadores de silicio para la integridad de potencia. Daeduck, Isu Petasys, Simmtech, Korea Circuit y TLB son candidatos de diversificación en sustratos y PCB.** Este no es un mercado para perseguir huecos alcistas del lunes. La clave está en si el volumen de negociación y el flujo extranjero/institucional aguantan hasta la sesión de tarde.
+Para los inversores coreanos, la lectura es clara. <strong>Samsung Electronics y SK Hynix son el núcleo de memoria. Samsung Electro-Mechanics es el nodo de FC-BGA y condensadores de silicio para la integridad de potencia. Daeduck, Isu Petasys, Simmtech, Korea Circuit y TLB son candidatos de diversificación en sustratos y PCB.</strong> Este no es un mercado para perseguir huecos alcistas del lunes. La clave está en si el volumen de negociación y el flujo extranjero/institucional aguantan hasta la sesión de tarde.
 
 ---
 
@@ -46,7 +46,7 @@ Para los inversores coreanos, la lectura es clara. **Samsung Electronics y SK Hy
 
 Un error frecuente al invertir en semiconductores de IA es leer el rendimiento de un chip como "más FLOPS equivale a un chip mejor." La explicación de Reiner Pope desmonta esa idea desde los fundamentos.
 
-Gran parte del cómputo de IA es multiplicación matricial repetida: multiplicar muchos números, sumarlos y volver a empezar. Acelerar la unidad aritmética importa, pero a nivel de chip la pregunta más relevante suele ser **de dónde vienen los números**.
+Gran parte del cómputo de IA es multiplicación matricial repetida: multiplicar muchos números, sumarlos y volver a empezar. Acelerar la unidad aritmética importa, pero a nivel de chip la pregunta más relevante suele ser <strong>de dónde vienen los números</strong>.
 
 Un chip de IA tiene varias capas de almacenamiento y movimiento de datos.
 
@@ -58,9 +58,9 @@ Un chip de IA tiene varias capas de almacenamiento y movimiento de datos.
 | Placa de servidor y red | Las carreteras dentro y fuera del rack | PCB de alta densidad de capas, Ethernet, enlaces ópticos |
 | Potencia en el centro de datos | La electricidad de todo el sistema | Transformadores, distribución, refrigeración, coste operativo total |
 
-Si la unidad aritmética espera datos, el chip está infrautilizado. Así que la pregunta real sobre chips de IA no es solo "¿podemos añadir más cómputo?" Es: **"¿podemos mover menos datos, mantenerlos más cerca y alimentar el chip sin desperdiciar potencia?"**
+Si la unidad aritmética espera datos, el chip está infrautilizado. Así que la pregunta real sobre chips de IA no es solo "¿podemos añadir más cómputo?" Es: <strong>"¿podemos mover menos datos, mantenerlos más cerca y alimentar el chip sin desperdiciar potencia?"</strong>
 
-Por eso HBM, FC-BGA, condensadores de silicio y PCBs de alta velocidad forman parte de la misma conversación. Todos resuelven el mismo problema físico: **mantener los chips de IA alimentados con datos y con potencia estable**.
+Por eso HBM, FC-BGA, condensadores de silicio y PCBs de alta velocidad forman parte de la misma conversación. Todos resuelven el mismo problema físico: <strong>mantener los chips de IA alimentados con datos y con potencia estable</strong>.
 
 ---
 
@@ -84,7 +84,7 @@ Así, el valor en semiconductores de IA no termina en el proveedor de GPUs. NVID
 
 ## 3. Los números de NVIDIA son sólidos. La pregunta del mercado ha cambiado
 
-NVIDIA comunicó ingresos de **$81.600 millones** en el primer trimestre del ejercicio FY27, ingresos del segmento Data Center de **$75.200 millones** y una guía de ingresos para el segundo trimestre de **$91.000 millones ±2%**. Según los datos oficiales, la demanda de infraestructura de IA no ha dado señales de agotamiento.[^nvidia]
+NVIDIA comunicó ingresos de <strong>$81.600 millones</strong> en el primer trimestre del ejercicio FY27, ingresos del segmento Data Center de <strong>$75.200 millones</strong> y una guía de ingresos para el segundo trimestre de <strong>$91.000 millones ±2%</strong>. Según los datos oficiales, la demanda de infraestructura de IA no ha dado señales de agotamiento.[^nvidia]
 
 Pero el mercado ya no pregunta únicamente "¿es buena NVIDIA?" Eso ya está descontado. Las nuevas preguntas son:
 
@@ -93,7 +93,7 @@ Pero el mercado ya no pregunta únicamente "¿es buena NVIDIA?" Eso ya está des
 3. ¿Podrán las compañías de modelos seguir pagando facturas elevadas por tokens?
 4. ¿El rechazo a la IA y la regulación ralentizarán el despliegue?
 
-El episodio de All-In encaja en este cubo. Anthropic, Karpathy, SpaceX, los resultados de NVIDIA y la regulación de la IA son parte de un problema mayor: **la IA no ha terminado, pero ahora tiene que demostrar eficiencia de capital**.[^allin]
+El episodio de All-In encaja en este cubo. Anthropic, Karpathy, SpaceX, los resultados de NVIDIA y la regulación de la IA son parte de un problema mayor: <strong>la IA no ha terminado, pero ahora tiene que demostrar eficiencia de capital</strong>.[^allin]
 
 En lenguaje de mercado:
 
@@ -108,7 +108,7 @@ En lenguaje de mercado:
 
 ## 4. Marvell y Broadcom: la conectividad se convierte en la próxima prueba
 
-Marvell y Broadcom son los próximos eventos de resultados que hay que observar desde este enfoque. Ninguno de los dos es simplemente un "competidor de NVIDIA." A medida que los centros de datos de IA escalan, ambas se conectan a **conectividad, switching, señales ópticas y silicio de IA personalizado**.
+Marvell y Broadcom son los próximos eventos de resultados que hay que observar desde este enfoque. Ninguno de los dos es simplemente un "competidor de NVIDIA." A medida que los centros de datos de IA escalan, ambas se conectan a <strong>conectividad, switching, señales ópticas y silicio de IA personalizado</strong>.
 
 Para Marvell, la pregunta central es si el silicio de IA personalizado y la conectividad óptica están acelerando hacia ingresos reales. Para Broadcom, la pregunta central es si los ASICs de IA y las redes Ethernet para IA están escalando conjuntamente. Si ambas compañías suenan sólidas, la lectura coreana debería ampliarse más allá del HBM puro.
 
@@ -120,7 +120,7 @@ Para Marvell, la pregunta central es si el silicio de IA personalizado y la cone
 | Expansión a escala de rack | Equipos de potencia, refrigeración, coste operativo del centro de datos |
 | Encapsulados de mayor tamaño | FC-BGA de Samsung Electro-Mechanics, Daeduck, Korea Circuit |
 
-La traducción correcta no es "si Broadcom / Marvell van bien, todos los semis coreanos van bien." Es: **el crecimiento en chips de IA beneficia a los proveedores de los cuellos de botella que alimentan, conectan, estabilizan y prueban esos chips**.
+La traducción correcta no es "si Broadcom / Marvell van bien, todos los semis coreanos van bien." Es: <strong>el crecimiento en chips de IA beneficia a los proveedores de los cuellos de botella que alimentan, conectan, estabilizan y prueban esos chips</strong>.
 
 ---
 
@@ -128,7 +128,7 @@ La traducción correcta no es "si Broadcom / Marvell van bien, todos los semis c
 
 El 21 de mayo de 2026, AT&S anunció una expansión de capacidad para sustratos IC de alta gama destinados a IA en su planta de Chongqing, China. La inversión se sitúa en la parte alta de los dos dígitos en millones de euros y está respaldada por acuerdos a largo plazo con clientes. AT&S espera un efecto positivo en el EBIT de la misma magnitud durante el ejercicio 2026/27.[^ats-capacity]
 
-El punto clave no es el nombre del cliente. El punto clave es que **la capacidad de sustratos para IA está siendo ampliada ya bajo acuerdos a largo plazo**.
+El punto clave no es el nombre del cliente. El punto clave es que <strong>la capacidad de sustratos para IA está siendo ampliada ya bajo acuerdos a largo plazo</strong>.
 
 AT&S también encuadró en abril los sustratos de núcleo de vidrio como la base de próxima generación para IA, computación de alto rendimiento, comunicaciones de alta velocidad y fotónica. A medida que los encapsulados se vuelven más grandes y complejos, la estabilidad dimensional, la calidad de la señal, la eficiencia de potencia y el movimiento de datos se convierten en factores limitantes.[^ats-glass]
 
@@ -152,7 +152,7 @@ Primero, el FC-BGA es el sustrato de encapsulado que conecta los chips de alto r
 
 Segundo, los condensadores de silicio estabilizan la potencia dentro del encapsulado AI GPU / HBM. Samsung Electro-Mechanics anunció en mayo de 2026 un contrato de suministro de condensadores de silicio por aproximadamente KRW 1,5 billones con un gran cliente global, y describió el producto como un componente que mejora la estabilidad de potencia dentro de encapsulados de semiconductores de alto rendimiento como GPUs para servidores de IA y HBM.[^semco-sicap]
 
-El punto no es "más contenido de MLCC." El punto es que Samsung Electro-Mechanics podría ser reclasificada como **una compañía de sustratos con componentes de integridad de potencia dentro del encapsulado**.
+El punto no es "más contenido de MLCC." El punto es que Samsung Electro-Mechanics podría ser reclasificada como <strong>una compañía de sustratos con componentes de integridad de potencia dentro del encapsulado</strong>.
 
 ### 6.3 Daeduck, Isu Petasys, Simmtech, Korea Circuit y TLB
 
@@ -165,7 +165,7 @@ Estos nombres no deben agruparse de forma demasiado laxa.
 | Simmtech / TLB | Módulos de memoria, SoCAMM, PCB de servidor | Mix de ingresos de IA y prueba de márgenes |
 | Korea Circuit | Opcionalidad en SoCAMM y FC-BGA | Cualificación y calendario de ingresos reales |
 
-La etiqueta "exposición a servidores de IA" no es suficiente. La evidencia que necesitan los inversores es **suministro directo, incremento de precio medio de venta, acuerdos a largo plazo y resiliencia de márgenes**.
+La etiqueta "exposición a servidores de IA" no es suficiente. La evidencia que necesitan los inversores es <strong>suministro directo, incremento de precio medio de venta, acuerdos a largo plazo y resiliencia de márgenes</strong>.
 
 ---
 
@@ -177,7 +177,7 @@ La señal positiva es que los inversores siguen dispuestos a financiar historias
 
 La señal negativa es el riesgo de concentración. Demasiado capital se está agrupando alrededor de un número pequeño de megacompañías de IA e infraestructura. El gasto privado en modelos de IA tendrá que pasar, en última instancia, por el escrutinio de los mercados públicos, los presupuestos de capex de las grandes tecnológicas o ingresos reales.
 
-Por tanto, la conclusión de 20VC no es "compra exposición privada a IA." Es: **el apetito por el riesgo en IA está vivo, pero el mercado exigirá cada vez más pruebas de monetización y generación de flujo de caja**.
+Por tanto, la conclusión de 20VC no es "compra exposición privada a IA." Es: <strong>el apetito por el riesgo en IA está vivo, pero el mercado exigirá cada vez más pruebas de monetización y generación de flujo de caja</strong>.
 
 ---
 
@@ -209,19 +209,19 @@ La disciplina de entrada es fundamental.
 
 Los tres vídeos se condensan en una sola frase:
 
-**El trade de IA no ha terminado. Se está desplazando hacia los escalones inferiores de la cadena.**
+<strong>El trade de IA no ha terminado. Se está desplazando hacia los escalones inferiores de la cadena.</strong>
 
 2023-2025 fue la fase de GPUs y HBM. A partir de 2026, las siguientes capas son el movimiento de datos, el encapsulado, el FC-BGA, Ethernet y los enlaces ópticos, la integridad de potencia, las pruebas y el coste operativo de los centros de datos. NVIDIA sigue siendo el centro. Pero la pregunta del inversor ahora es: "¿qué cuello de botella coreano convierte el crecimiento de ingresos de NVIDIA en sus propios beneficios?"
 
 El orden actual es:
 
-1. **Núcleo de memoria:** Samsung Electronics, SK Hynix
-2. **Encapsulado e integridad de potencia:** Samsung Electro-Mechanics, Daeduck Electronics
-3. **PCB de alta velocidad y módulos:** Isu Petasys, Simmtech, Korea Circuit, TLB
-4. **Pruebas y zócalos:** ISC, LEENO Industrial, TSE
-5. **Potencia y operaciones de centros de datos:** equipos de potencia e infraestructura de refrigeración
+1. <strong>Núcleo de memoria:</strong> Samsung Electronics, SK Hynix
+2. <strong>Encapsulado e integridad de potencia:</strong> Samsung Electro-Mechanics, Daeduck Electronics
+3. <strong>PCB de alta velocidad y módulos:</strong> Isu Petasys, Simmtech, Korea Circuit, TLB
+4. <strong>Pruebas y zócalos:</strong> ISC, LEENO Industrial, TSE
+5. <strong>Potencia y operaciones de centros de datos:</strong> equipos de potencia e infraestructura de refrigeración
 
-La frase de inversión más importante es esta: **la competencia en rendimiento de IA es una competencia en coste de movimiento de datos, y ese coste se traduce en HBM, encapsulado, sustratos, redes y potencia.**
+La frase de inversión más importante es esta: <strong>la competencia en rendimiento de IA es una competencia en coste de movimiento de datos, y ese coste se traduce en HBM, encapsulado, sustratos, redes y potencia.</strong>
 
 Si esa extensión se confirma con volumen y flujo extranjero/institucional, el FC-BGA y el PCB de alta velocidad deben tratarse como cuellos de botella de infraestructura de IA, no como un simple tema de moda.
 

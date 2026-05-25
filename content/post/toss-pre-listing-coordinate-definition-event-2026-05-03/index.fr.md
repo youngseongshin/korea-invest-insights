@@ -26,7 +26,7 @@ tags:
   - "cotation aux États-Unis"
 ---
 
-> 📚 **Série Valeurs Financières Coréennes — Compoundage Capital & Rachats — Partie 7/N.**
+> 📚 <strong>Série Valeurs Financières Coréennes — Compoundage Capital & Rachats — Partie 7/N.</strong>
 > Épisodes précédents :
 > - [Partie 1 — Meritz Financial Holdings](/post/meritz-financial-capital-buyback-compounding-standard-2026-04-30/)
 > - [Partie 2 — Kiwoom Securities](/post/kiwoom-securities-roe20-recognition-completed-2026-04-30/)
@@ -35,17 +35,17 @@ tags:
 > - [Partie 5 — Korea Investment Holdings : Cinquième coordonnée](/post/korea-investment-holdings-fifth-coordinate-2026-05-03/)
 > - [Partie 6 — KakaoBank : Le miroir de Korea Investment](/post/kakaobank-mirror-of-korea-investment-2026-05-03/)
 
-*La [Partie 5](/post/korea-investment-holdings-fifth-coordinate-2026-05-03/) représentait l'extrémité conservatrice de la « nouvelle définition de coordonnée » — l'entreprise définit, le marché escompte. La [Partie 6](/post/kakaobank-mirror-of-korea-investment-2026-05-03/) en était l'extrémité agressive — le marché valorise, l'entreprise suit. La Partie 7 — Viva Republica (maison mère de Toss) — va un cran plus loin : un **cas pré-introduction en bourse où la coordonnée elle-même n'est pas encore comptablement fermée**. C'est la première fois dans cette série qu'un ton d'« anatomie neutre », plutôt que constructif, constitue la position analytiquement honnête. Cette analyse refuse de désigner un unique « scénario de référence » — le spectre de prix possible s'étend de $5B à $15B, et traiter un point quelconque comme valeur par défaut serait une rupture de l'analyse.*
+*La [Partie 5](/post/korea-investment-holdings-fifth-coordinate-2026-05-03/) représentait l'extrémité conservatrice de la « nouvelle définition de coordonnée » — l'entreprise définit, le marché escompte. La [Partie 6](/post/kakaobank-mirror-of-korea-investment-2026-05-03/) en était l'extrémité agressive — le marché valorise, l'entreprise suit. La Partie 7 — Viva Republica (maison mère de Toss) — va un cran plus loin : un <strong>cas pré-introduction en bourse où la coordonnée elle-même n'est pas encore comptablement fermée</strong>. C'est la première fois dans cette série qu'un ton d'« anatomie neutre », plutôt que constructif, constitue la position analytiquement honnête. Cette analyse refuse de désigner un unique « scénario de référence » — le spectre de prix possible s'étend de $5B à $15B, et traiter un point quelconque comme valeur par défaut serait une rupture de l'analyse.*
 
 ---
 
 ## Synthèse exécutive
 
-- **Toss est le premier « événement de définition de coordonnée pré-introduction » de la série.** Les deux extrémités des Parties 5–6 (conservatrice et agressive) concernaient des sociétés déjà cotées. Toss ne possède encore ni PBR, ni PER, ni coût implicite des capitaux propres — ces paramètres sont déterminés par l'acte même de l'introduction en bourse.
-- **Les résultats consolidés 2025 montrent une première inflexion de rentabilité significative.** Chiffre d'affaires ₩2 698,3 Mds (+38,0 % en glissement annuel), résultat opérationnel ₩336,0 Mds (+270,3 %), résultat net ₩201,8 Mds (+846,7 %). Mais le résultat net groupe ₩201,8 Mds < résultat net de Toss Securities en standalone ₩333,9 Mds. **La question que posera en premier le marché est de savoir si ce bénéfice provient d'un « levier opérationnel de plateforme » ou de la « solidité cyclique de Toss Securities ».**
-- **Cette analyse refuse de désigner un « scénario de référence ».** En tenant compte des cinq obstacles institutionnels d'une cotation américaine — F-1 public non encore déposé, décote ADR/FPI, exposition réglementaire financière coréenne, complexité de liquidité des actions secondaires, et décote standard de 30–40 % à l'introduction — le spectre possible s'étend de **$5B à $15B**. **Refuser de traiter un point quelconque comme valeur par défaut est la position analytiquement honnête.**
-- **Le titre de Reuters « $10B+ » n'est qu'un point dans la zone haute.** Il n'est accessible que si les cinq obstacles institutionnels sont franchis, si le marché américain classe Toss comme une « super-application fintech » et si la marge opérationnelle de 50,5 % de Toss Securities est reconnue comme récurrente. **Si ces sept conditions ne sont pas toutes réunies, le prix se dirige naturellement vers la fourchette $5–7B.**
-- **L'inversion des quatre scénarios dans la matrice de la série révèle le spectre.** $5B (P/E \~36×, coût implicite des capitaux propres \~2,7 %) → $7B (\~51×, \~2,0 %) → $10B (\~73×, \~1,4 %) → $15B (\~109×, \~0,9 %). **Chaque scénario se situe en territoire plus agressif que n'importe laquelle des six autres sociétés de la série**, mais le point d'atterrissage réel dépend non seulement des fondamentaux de l'entreprise, mais aussi de **quel marché et quelle classification la valorisent**.
+- <strong>Toss est le premier « événement de définition de coordonnée pré-introduction » de la série.</strong> Les deux extrémités des Parties 5–6 (conservatrice et agressive) concernaient des sociétés déjà cotées. Toss ne possède encore ni PBR, ni PER, ni coût implicite des capitaux propres — ces paramètres sont déterminés par l'acte même de l'introduction en bourse.
+- <strong>Les résultats consolidés 2025 montrent une première inflexion de rentabilité significative.</strong> Chiffre d'affaires ₩2 698,3 Mds (+38,0 % en glissement annuel), résultat opérationnel ₩336,0 Mds (+270,3 %), résultat net ₩201,8 Mds (+846,7 %). Mais le résultat net groupe ₩201,8 Mds < résultat net de Toss Securities en standalone ₩333,9 Mds. <strong>La question que posera en premier le marché est de savoir si ce bénéfice provient d'un « levier opérationnel de plateforme » ou de la « solidité cyclique de Toss Securities ».</strong>
+- <strong>Cette analyse refuse de désigner un « scénario de référence ».</strong> En tenant compte des cinq obstacles institutionnels d'une cotation américaine — F-1 public non encore déposé, décote ADR/FPI, exposition réglementaire financière coréenne, complexité de liquidité des actions secondaires, et décote standard de 30–40 % à l'introduction — le spectre possible s'étend de <strong>$5B à $15B</strong>. <strong>Refuser de traiter un point quelconque comme valeur par défaut est la position analytiquement honnête.</strong>
+- <strong>Le titre de Reuters « $10B+ » n'est qu'un point dans la zone haute.</strong> Il n'est accessible que si les cinq obstacles institutionnels sont franchis, si le marché américain classe Toss comme une « super-application fintech » et si la marge opérationnelle de 50,5 % de Toss Securities est reconnue comme récurrente. <strong>Si ces sept conditions ne sont pas toutes réunies, le prix se dirige naturellement vers la fourchette $5–7B.</strong>
+- <strong>L'inversion des quatre scénarios dans la matrice de la série révèle le spectre.</strong> $5B (P/E \~36×, coût implicite des capitaux propres \~2,7 %) → $7B (\~51×, \~2,0 %) → $10B (\~73×, \~1,4 %) → $15B (\~109×, \~0,9 %). <strong>Chaque scénario se situe en territoire plus agressif que n'importe laquelle des six autres sociétés de la série</strong>, mais le point d'atterrissage réel dépend non seulement des fondamentaux de l'entreprise, mais aussi de <strong>quel marché et quelle classification la valorisent</strong>.
 
 ---
 
@@ -61,9 +61,9 @@ Résumé de l'évolution des dimensions analytiques de la série :
 | Partie 4 | Shinhan Financial | Transit entre deux sommets | En cours | Constructif |
 | Partie 5 | Korea Investment Holdings | Nouvelle définition de coordonnée (extrémité conservatrice) | L'entreprise tire le marché | Constructif |
 | Partie 6 | KakaoBank | Nouvelle définition de coordonnée (extrémité agressive) | Le marché tire l'entreprise | Constructif |
-| **Partie 7 (cet article)** | **Viva Republica (Toss)** | **Événement de définition de coordonnée lui-même** | **Déterminé par l'introduction** | **Neutre** |
+| <strong>Partie 7 (cet article)</strong> | <strong>Viva Republica (Toss)</strong> | <strong>Événement de définition de coordonnée lui-même</strong> | <strong>Déterminé par l'introduction</strong> | <strong>Neutre</strong> |
 
-En une ligne : **la série a jusqu'ici suivi les « changements de coordonnées de sociétés déjà cotées » ; la Partie 7 introduit le premier cas où l'introduction elle-même décide de la coordonnée.** C'est aussi la première fois que la série adopte un ton « neutre » plutôt que constructif — lorsque le prix n'est pas encore déterminé, afficher un positionnement unilatéral brise la cohérence analytique, et supposer un unique « scénario de référence » constitue en soi une violation.
+En une ligne : <strong>la série a jusqu'ici suivi les « changements de coordonnées de sociétés déjà cotées » ; la Partie 7 introduit le premier cas où l'introduction elle-même décide de la coordonnée.</strong> C'est aussi la première fois que la série adopte un ton « neutre » plutôt que constructif — lorsque le prix n'est pas encore déterminé, afficher un positionnement unilatéral brise la cohérence analytique, et supposer un unique « scénario de référence » constitue en soi une violation.
 
 ### 1.2 Toss en un tableau
 
@@ -74,25 +74,25 @@ En une ligne : **la série a jusqu'ici suivi les « changements de coordonnées 
 | Résultat opérationnel consolidé 2025 | ₩336,0 Mds (+270,3 % en glissement annuel) |
 | Résultat net consolidé 2025 | ₩201,8 Mds (+846,7 % en glissement annuel) |
 | Utilisateurs | 30 M+ (fin 2025) |
-| **Répartition du chiffre d'affaires consolidé** | |
+| <strong>Répartition du chiffre d'affaires consolidé</strong> | |
 | └ Services grand public | ₩1 775,5 Mds (65,8 %) |
 | └ Services marchands (PG / paiements) | ₩922,8 Mds (34,2 %) |
-| **Participations dans les filiales** | |
+| <strong>Participations dans les filiales</strong> | |
 | └ Toss Securities | 97,4 % |
 | └ Toss Bank | 28,3 % |
-| **Toss Securities 2025 (standalone)** | |
+| <strong>Toss Securities 2025 (standalone)</strong> | |
 | └ Chiffre d'affaires / Marge opérationnelle | ₩882,6 Mds / 50,5 % |
 | └ Résultat opérationnel / Résultat net | ₩445,8 Mds / ₩333,9 Mds |
 | └ Quote-part revenant à Viva Republica | \~₩325,2 Mds |
-| **Toss Bank 2025 (standalone)** | |
+| <strong>Toss Bank 2025 (standalone)</strong> | |
 | └ Résultat net (selon communication) | ₩96,8 Mds |
 | └ Quote-part revenant à Viva Republica | \~₩27,4 Mds |
-| **Viva Republica standalone** | |
+| <strong>Viva Republica standalone</strong> | |
 | └ Chiffre d'affaires | ₩667,2 Mds |
 | └ Revenus publicitaires | ₩278,8 Mds (+24,7 % en glissement annuel) |
 | └ Revenus de courtage | ₩197,8 Mds (+4,7 % en glissement annuel) |
 | └ Résultat opérationnel | -₩43,8 Mds (perte) |
-| **Taux de change (USD/KRW)** | ₩1 471 |
+| <strong>Taux de change (USD/KRW)</strong> | ₩1 471 |
 
 Vérifications :
 - Croissance annuelle du CA = 2 698,3 / 1 955,6 − 1 = 37,97 % ≈ 38,0 % ✓
@@ -102,7 +102,7 @@ Vérifications :
 - Quote-part Toss Bank = 96,8 × 0,283 = ₩27,4 Mds ✓
 - Croissance annuelle publicité = 278,8 / 223,5 − 1 = 24,74 % ≈ 24,7 % ✓
 
-Deux constats que révèle ce tableau : **les fondamentaux de chiffre d'affaires sont clairement solides**, mais **le résultat net groupe (₩201,8 Mds) < résultat net standalone de Toss Securities (₩333,9 Mds)**. Cette asymétrie est la variable centrale dans la négociation du prix d'introduction.
+Deux constats que révèle ce tableau : <strong>les fondamentaux de chiffre d'affaires sont clairement solides</strong>, mais <strong>le résultat net groupe (₩201,8 Mds) < résultat net standalone de Toss Securities (₩333,9 Mds)</strong>. Cette asymétrie est la variable centrale dans la négociation du prix d'introduction.
 
 ---
 
@@ -110,11 +110,11 @@ Deux constats que révèle ce tableau : **les fondamentaux de chiffre d'affaires
 
 ### 2.1 Décomposition des résultats groupe
 
-La question analytique centrale de la série pour toute société est simple : **d'où viennent les bénéfices, et sont-ils récurrents ?** Pour Toss, cette question admet deux réponses.
+La question analytique centrale de la série pour toute société est simple : <strong>d'où viennent les bénéfices, et sont-ils récurrents ?</strong> Pour Toss, cette question admet deux réponses.
 
-**Lecture constructive** : la somme des résultats des filiales soutient le résultat net groupe, et Viva Republica standalone (le corps de l'application) est en perte temporaire du fait d'investissements dans de nouvelles activités, mais la progression de la publicité (+24,7 % en glissement annuel) témoigne d'une vraie dynamique de croissance. La marge élevée de Toss Securities résulte de sa position structurellement dominante sur le courtage d'actions étrangères pour les particuliers.
+<strong>Lecture constructive</strong> : la somme des résultats des filiales soutient le résultat net groupe, et Viva Republica standalone (le corps de l'application) est en perte temporaire du fait d'investissements dans de nouvelles activités, mais la progression de la publicité (+24,7 % en glissement annuel) témoigne d'une vraie dynamique de croissance. La marge élevée de Toss Securities résulte de sa position structurellement dominante sur le courtage d'actions étrangères pour les particuliers.
 
-**Lecture conservatrice** : la quasi-totalité du résultat net groupe de ₩201,8 Mds provient de Toss Securities. En cas de normalisation du cycle ou d'arrivée d'un marché baissier, les résultats du groupe pourraient se dégrader rapidement. Le fait que Viva Republica standalone soit déficitaire signifie que **« le corps applicatif lui-même n'est pas encore un moteur de profit autonome ».**
+<strong>Lecture conservatrice</strong> : la quasi-totalité du résultat net groupe de ₩201,8 Mds provient de Toss Securities. En cas de normalisation du cycle ou d'arrivée d'un marché baissier, les résultats du groupe pourraient se dégrader rapidement. Le fait que Viva Republica standalone soit déficitaire signifie que <strong>« le corps applicatif lui-même n'est pas encore un moteur de profit autonome ».</strong>
 
 ```
 [Décomposition du résultat net groupe]
@@ -141,16 +141,16 @@ La marge opérationnelle de 50,5 % de Toss Securities est supérieure à celle d
 | Élément | Toss Securities 2025 | Kiwoom (Partie 2 de la série) |
 | --- | ---: | ---: |
 | Chiffre d'affaires | ₩882,6 Mds | — |
-| Marge opérationnelle | **50,5 %** | \~classe 25 % |
+| Marge opérationnelle | <strong>50,5 %</strong> | \~classe 25 % |
 | Variable clé | Part n°1 sur le courtage d'actions étrangères pour particuliers | Volume de transactions domestiques pour particuliers |
 | Dépendance au cycle | Marché haussier US + méga-capitalisations IA + change + volumes de transactions | Volume de transactions domestiques |
 
-Il est impossible de déterminer de l'extérieur si la marge opérationnelle de 50,5 % de Toss Securities est « récurrente » ou « conjoncturelle ». **Les deux possibilités sont raisonnables** :
+Il est impossible de déterminer de l'extérieur si la marge opérationnelle de 50,5 % de Toss Securities est « récurrente » ou « conjoncturelle ». <strong>Les deux possibilités sont raisonnables</strong> :
 
 - Possibilité A : la part de marché sur le courtage d'actions étrangères est structurellement ancrée, et les revenus de change, de gestion de trésorerie et d'interchange constituent des flux stables. Dans ce cas, la marge opérationnelle se maintient à environ 50 %.
 - Possibilité B : le marché haussier américain de 2025 + la ferveur autour de l'IA + un spread de change favorable ont tous opéré simultanément. À mesure que les volumes de transactions se normalisent et que le change se stabilise, la marge régresse vers 30–35 %.
 
-Lorsque le S-1/F-1 communiquera la décomposition des revenus (commissions / change / trésorerie / marge / autres) et la trajectoire trimestrielle de la marge opérationnelle, cette question sera comptablement close. En attendant, **les deux possibilités doivent être reflétées dans les scénarios de prix**.
+Lorsque le S-1/F-1 communiquera la décomposition des revenus (commissions / change / trésorerie / marge / autres) et la trajectoire trimestrielle de la marge opérationnelle, cette question sera comptablement close. En attendant, <strong>les deux possibilités doivent être reflétées dans les scénarios de prix</strong>.
 
 ### 2.3 Toss Bank — Son poids dans l'introduction de Toss
 
@@ -159,9 +159,9 @@ Lorsque le S-1/F-1 communiquera la décomposition des revenus (commissions / cha
 | Résultat net | ₩96,8 Mds | ₩480,3 Mds |
 | Crédits / Dépôts | ₩15,35 Bn / ₩30,07 Bn | ₩46,9 Bn / ₩68,3 Bn |
 | Ratio de solvabilité BRI | 16,24 % | — |
-| Participation Viva Republica | **28,3 %** | (s/o) |
+| Participation Viva Republica | <strong>28,3 %</strong> | (s/o) |
 
-Toss Bank représente environ le quart à un tiers de KakaoBank, et Viva Republica ne détient qu'une participation minoritaire de 28,3 %. Combiné, cela signifie que **Toss Bank n'occupe pas une part importante du SOTP de Toss**. Même en multipliant la capitalisation boursière de KakaoBank par 1/3 puis par 28,3 %, on n'obtient que ₩0,5–1,0 Bn.
+Toss Bank représente environ le quart à un tiers de KakaoBank, et Viva Republica ne détient qu'une participation minoritaire de 28,3 %. Combiné, cela signifie que <strong>Toss Bank n'occupe pas une part importante du SOTP de Toss</strong>. Même en multipliant la capitalisation boursière de KakaoBank par 1/3 puis par 28,3 %, on n'obtient que ₩0,5–1,0 Bn.
 
 Toss Bank porte cependant l'option d'une introduction en bourse distincte. Toss Bank compte 19 actionnaires majeurs outre Viva Republica, et leur sortie n'est pas résolue par la seule cotation de Viva Republica. Si une introduction séparée de Toss Bank est envisagée, une décote SOTP supplémentaire s'applique aux investisseurs de l'introduction de Viva Republica.
 
@@ -170,23 +170,23 @@ Toss Bank porte cependant l'option d'une introduction en bourse distincte. Toss 
 | Élément | 2025 | 2024 | Glissement annuel |
 | --- | ---: | ---: | ---: |
 | Chiffre d'affaires standalone | ₩667,2 Mds | — | — |
-| Publicité | ₩278,8 Mds | ₩223,5 Mds | **+24,7 %** |
-| Courtage | ₩197,8 Mds | ₩188,9 Mds | **+4,7 %** |
+| Publicité | ₩278,8 Mds | ₩223,5 Mds | <strong>+24,7 %</strong> |
+| Courtage | ₩197,8 Mds | ₩188,9 Mds | <strong>+4,7 %</strong> |
 | Paiement | ₩136,1 Mds | — | — |
-| Résultat opérationnel standalone | **-₩43,8 Mds (perte)** | — | — |
+| Résultat opérationnel standalone | <strong>-₩43,8 Mds (perte)</strong> | — | — |
 
 Selon le commentaire de la direction, le second semestre 2025 a vu une augmentation des effectifs, des dépenses promotionnelles et des sorties de frais liés à FacePay, au commerce et aux mises à niveau des produits publicitaires, générant une perte opérationnelle annuelle. Deux interprétations sont possibles :
 
 - Constructive : perte temporaire en « phase d'investissement ». La croissance publicitaire de +24,7 % constitue une progression claire, et une fois que les nouvelles activités atteignent le seuil de rentabilité, le corps applicatif devient profitable.
 - Conservatrice : seule la publicité accélère (+24,7 %) ; le courtage ralentit (+4,7 %). Que la plateforme ait atteint un « levier opérationnel structurel à la Coupang » n'est pas vérifié, et la poursuite des investissements pourrait prolonger la période de pertes.
 
-Les deux interprétations sont comptablement valides. **À ce stade, l'investisseur externe ne peut conclure laquelle s'applique**, et la communication dans le S-1/F-1 de la marge sur contribution, de la rétention des cohortes et du coût d'acquisition client sera décisive pour clore cette question.
+Les deux interprétations sont comptablement valides. <strong>À ce stade, l'investisseur externe ne peut conclure laquelle s'applique</strong>, et la communication dans le S-1/F-1 de la marge sur contribution, de la rétention des cohortes et du coût d'acquisition client sera décisive pour clore cette question.
 
 ---
 
 ## 3. Les cinq obstacles institutionnels d'une cotation américaine — Pourquoi le spectre est large
 
-Cette section constitue la contribution analytique la plus importante de l'article. La raison pour laquelle le spectre de prix de l'introduction de Toss s'étend de « $5B à $15B » est simple : **une cotation américaine comporte cinq obstacles institutionnels distincts, et le fait de franchir ou non chacun d'eux détermine le prix par paliers**.
+Cette section constitue la contribution analytique la plus importante de l'article. La raison pour laquelle le spectre de prix de l'introduction de Toss s'étend de « $5B à $15B » est simple : <strong>une cotation américaine comporte cinq obstacles institutionnels distincts, et le fait de franchir ou non chacun d'eux détermine le prix par paliers</strong>.
 
 ### 3.1 Obstacle 1 — F-1 public non encore confirmé
 
@@ -195,7 +195,7 @@ Au 3 mai 2026, aucun dépôt public d'un F-1 ou d'un ADR n'a été confirmé. Se
 - Si le F-1 public est déposé en mai–juin → calendrier d'introduction T2–T3 2026 possible.
 - Si le F-1 public est repoussé après juin → l'introduction au T2 devient difficile ; un calendrier second semestre ou 2027 devient probable.
 
-**Si cet obstacle ne se referme pas, l'introduction elle-même est retardée**. Un changement d'environnement de marché peut faire baisser l'ensemble du spectre de prix.
+<strong>Si cet obstacle ne se referme pas, l'introduction elle-même est retardée</strong>. Un changement d'environnement de marché peut faire baisser l'ensemble du spectre de prix.
 
 ### 3.2 Obstacle 2 — Décote structurelle ADR/FPI
 
@@ -206,7 +206,7 @@ Viva Republica se cotera vraisemblablement sous forme d'ADR tout en conservant s
 - L'utilisation de normes comptables étrangères (K-IFRS), ce qui représente un travail analytique supplémentaire pour les investisseurs américains
 - Une exemption partielle de certaines normes de gouvernance américaines, générant une décote
 
-Cet obstacle applique typiquement une **décote de valorisation de 10–20 %**. La situation de Toss diffère de celle de Coupang (structure centrée sur une entité américaine).
+Cet obstacle applique typiquement une <strong>décote de valorisation de 10–20 %</strong>. La situation de Toss diffère de celle de Coupang (structure centrée sur une entité américaine).
 
 ### 3.3 Obstacle 3 — Exposition à la réglementation financière coréenne
 
@@ -217,7 +217,7 @@ Toss opère dans des activités financières. Pour les investisseurs américains
 - Ratios de solvabilité BRI, K-ICS et cadres de risque de crédit appliqués selon la réglementation financière coréenne
 - Protection des données personnelles, lois sur les réseaux et autres réglementations coréennes en matière de finance et de technologie
 
-Cet obstacle applique typiquement une **décote de valorisation de 5–15 %**. La décote pré-existante des investisseurs mondiaux sur les valeurs financières coréennes se transpose dans la structure ADR.
+Cet obstacle applique typiquement une <strong>décote de valorisation de 5–15 %</strong>. La décote pré-existante des investisseurs mondiaux sur les valeurs financières coréennes se transpose dans la structure ADR.
 
 ### 3.4 Obstacle 4 — Complexité de la liquidité des actions secondaires
 
@@ -228,16 +228,16 @@ Viva Republica compte de nombreux actionnaires (Ant Group, capital-risqueurs, in
 - Certains investisseurs individuels pourraient ne pas pouvoir sortir immédiatement après l'introduction
 - Les actionnaires de Toss Bank (19 entités) et ceux de Viva Republica ont des voies de sortie distinctes
 
-Cet obstacle applique typiquement une **décote de valorisation de 5–10 %**. La pression de sortie des actionnaires existants se répercute directement dans la négociation du prix.
+Cet obstacle applique typiquement une <strong>décote de valorisation de 5–10 %</strong>. La pression de sortie des actionnaires existants se répercute directement dans la négociation du prix.
 
 ### 3.5 Obstacle 5 — Décote standard de 30–40 % à l'introduction
 
-Dans les introductions mondiales, la fixation du prix d'introduction s'effectue typiquement avec une **décote de 30–40 % par rapport à la valeur de marché estimée**. C'est la pratique standard de « décote à l'introduction » ou d'« underpricing ».
+Dans les introductions mondiales, la fixation du prix d'introduction s'effectue typiquement avec une <strong>décote de 30–40 % par rapport à la valeur de marché estimée</strong>. C'est la pratique standard de « décote à l'introduction » ou d'« underpricing ».
 
 - Si la valeur intrinsèque SOTP est \~₩11–13 Bn → le prix d'introduction se fixe 30–40 % plus bas → \~₩7–9 Bn ($4,8–6,1 Mds)
 - Ce n'est pas parce que « la société est surévaluée » — cela stabilise la construction du livre institutionnel et garantit la demande post-cotation
 
-Cet obstacle est la **décote structurelle appliquée à toutes les introductions en bourse**.
+Cet obstacle est la <strong>décote structurelle appliquée à toutes les introductions en bourse</strong>.
 
 ### 3.6 Quand les cinq obstacles se combinent
 
@@ -254,22 +254,22 @@ Valeur intrinsèque SOTP (scénario de base source-2) : \~$7–10 Mds
 
 Ces décotes ne sont pas toutes appliquées de façon cumulative — certaines sont déjà intégrées dans la valorisation SOTP, et la décote à l'introduction ne s'applique qu'au prix d'offre (le cours post-cotation peut différer).
 
-**Message central** : même si seuls certains des cinq obstacles opèrent à des niveaux « partiels », le prix se resserre naturellement vers $5–7B. **$5B n'est pas une « hypothèse baissière » — c'est le résultat naturel lorsque les cinq obstacles opèrent tous à des niveaux partiels.** À l'inverse, atteindre $10B+ requiert de franchir les cinq obstacles à des niveaux significatifs et de convaincre le marché américain du narratif de super-application.
+<strong>Message central</strong> : même si seuls certains des cinq obstacles opèrent à des niveaux « partiels », le prix se resserre naturellement vers $5–7B. <strong>$5B n'est pas une « hypothèse baissière » — c'est le résultat naturel lorsque les cinq obstacles opèrent tous à des niveaux partiels.</strong> À l'inverse, atteindre $10B+ requiert de franchir les cinq obstacles à des niveaux significatifs et de convaincre le marché américain du narratif de super-application.
 
 ---
 
 ## 4. Quatre points de valorisation à l'introduction — Un spectre réparti uniformément
 
-Le principe analytique de cet article est le suivant : **ne pas désigner un « scénario de référence ».** Répartir quatre points de prix uniformément pour observer le spectre.
+Le principe analytique de cet article est le suivant : <strong>ne pas désigner un « scénario de référence ».</strong> Répartir quatre points de prix uniformément pour observer le spectre.
 
 ### 4.1 Les quatre points
 
 | Prix | USD | KRW | Condition d'atteinte |
 | --- | ---: | ---: | --- |
-| **$5B** | $5 Mds | ₩7,36 Bn | Résultat naturel des cinq obstacles institutionnels + décote à l'introduction |
-| **$7B** | $7 Mds | ₩10,30 Bn | Fourchette de valeur intrinsèque SOTP + décote partielle standard à l'introduction |
-| **$10B** | $10 Mds | ₩14,71 Bn | Titre Reuters « $10B+ » — classification super-application + sept conditions toutes remplies |
-| **$15B** | $15 Mds | ₩22,07 Bn | Fourchette haute des rapports — option globale / FacePay / commerce tous fortement pris en compte |
+| <strong>$5B</strong> | $5 Mds | ₩7,36 Bn | Résultat naturel des cinq obstacles institutionnels + décote à l'introduction |
+| <strong>$7B</strong> | $7 Mds | ₩10,30 Bn | Fourchette de valeur intrinsèque SOTP + décote partielle standard à l'introduction |
+| <strong>$10B</strong> | $10 Mds | ₩14,71 Bn | Titre Reuters « $10B+ » — classification super-application + sept conditions toutes remplies |
+| <strong>$15B</strong> | $15 Mds | ₩22,07 Bn | Fourchette haute des rapports — option globale / FacePay / commerce tous fortement pris en compte |
 
 ### 4.2 Inversion du P/E indicatif
 
@@ -319,7 +319,7 @@ Implication de ce calcul :
 | $10B | 7,63 % | \~3,1× |
 | $15B | 8,09 % | \~3,2× |
 
-**Les quatre prix impliquent une croissance perpétuelle à 2,5–3,2× la croissance du PIB coréen.** Même à $5B, le marché suppose que « Toss compose ses bénéfices éternellement à 2,5× la vitesse de l'économie coréenne ». Par rapport au reste de la série, les quatre prix se situent tous en « territoire agressif ».
+<strong>Les quatre prix impliquent une croissance perpétuelle à 2,5–3,2× la croissance du PIB coréen.</strong> Même à $5B, le marché suppose que « Toss compose ses bénéfices éternellement à 2,5× la vitesse de l'économie coréenne ». Par rapport au reste de la série, les quatre prix se situent tous en « territoire agressif ».
 
 ### 4.5 Matrice du coût implicite des capitaux propres de la série — Incluant les quatre points de Toss
 
@@ -336,10 +336,10 @@ $15B   $10B   $7B    $5B    (coté) (sommet)(sommet)(sommet)(transit) (nouvelle
 
 Ce que ce spectre révèle :
 
-1. **Même $5B (2,7 %) est plus agressif que KakaoBank (4,2 %).** Même au prix le plus conservateur possible de Toss, il repousse l'extrémité agressive de la série encore plus loin.
-2. **$10B (1,4 %) représente environ 1/3 du niveau de KakaoBank.** Le territoire comptable qu'implique le titre Reuters.
-3. **$15B (0,9 %) constituerait l'extrémité la plus agressive de toute la série.** Un état où les valeurs d'option sont également intégralement valorisées.
-4. **Chaque prix de Toss implique un coût des capitaux propres inférieur à celui de n'importe laquelle des six autres sociétés de la série.** C'est l'essence même de la « définition de coordonnée pré-introduction » — Toss doit être classé dans « une catégorie différente des sociétés existantes de la série » pour que l'un de ces prix maintienne sa cohérence.
+1. <strong>Même $5B (2,7 %) est plus agressif que KakaoBank (4,2 %).</strong> Même au prix le plus conservateur possible de Toss, il repousse l'extrémité agressive de la série encore plus loin.
+2. <strong>$10B (1,4 %) représente environ 1/3 du niveau de KakaoBank.</strong> Le territoire comptable qu'implique le titre Reuters.
+3. <strong>$15B (0,9 %) constituerait l'extrémité la plus agressive de toute la série.</strong> Un état où les valeurs d'option sont également intégralement valorisées.
+4. <strong>Chaque prix de Toss implique un coût des capitaux propres inférieur à celui de n'importe laquelle des six autres sociétés de la série.</strong> C'est l'essence même de la « définition de coordonnée pré-introduction » — Toss doit être classé dans « une catégorie différente des sociétés existantes de la série » pour que l'un de ces prix maintienne sa cohérence.
 
 ---
 
@@ -347,16 +347,16 @@ Ce que ce spectre révèle :
 
 ### 5.1 Marché américain vs marché coréen — Classifications différentes
 
-La caractéristique la plus intéressante de Toss est que **selon le lieu de sa cotation, la même société pourrait atterrir à l'une ou l'autre extrémité de la matrice de la série**. C'est la nouvelle dimension analytique qu'introduit la Partie 7.
+La caractéristique la plus intéressante de Toss est que <strong>selon le lieu de sa cotation, la même société pourrait atterrir à l'une ou l'autre extrémité de la matrice de la série</strong>. C'est la nouvelle dimension analytique qu'introduit la Partie 7.
 
 | Marché | Classification possible | Multiple appliqué | Fourchette de coût implicite des capitaux propres | Position dans la matrice de la série |
 | --- | --- | --- | ---: | --- |
-| **US (NYSE / Nasdaq)** | Super-application fintech mondiale (hybride Robinhood + SoFi + Coupang) | P/S 5–8×, P/E 70–110× | 0,9–1,4 % | Repousser l'extrémité agressive de la série encore plus loin |
-| **Corée (KOSPI)** | Holding financier + titres + PG + publicité SOTP | Décomposer puis sommer | \~classe 12–17 % | Proche de Korea Investment Holdings (17,3 %) |
+| <strong>US (NYSE / Nasdaq)</strong> | Super-application fintech mondiale (hybride Robinhood + SoFi + Coupang) | P/S 5–8×, P/E 70–110× | 0,9–1,4 % | Repousser l'extrémité agressive de la série encore plus loin |
+| <strong>Corée (KOSPI)</strong> | Holding financier + titres + PG + publicité SOTP | Décomposer puis sommer | \~classe 12–17 % | Proche de Korea Investment Holdings (17,3 %) |
 
 Vérification : en appliquant un SOTP coréen de \~₩11 Bn → P/E = 11 000 / 201,8 = 54,5 → coût implicite des capitaux propres \~18,4 %. Le coût implicite des capitaux propres avec SOTP sur le marché coréen se rapproche de l'extrémité conservatrice de la série (KIH 17,3 %).
 
-Le fait que **les deux classifications soient « raisonnables »** est déterminant. Aucune ne peut être déclarée « correcte » — les pools d'investisseurs et la reconnaissance des catégories diffèrent selon les marchés.
+Le fait que <strong>les deux classifications soient « raisonnables »</strong> est déterminant. Aucune ne peut être déclarée « correcte » — les pools d'investisseurs et la reconnaissance des catégories diffèrent selon les marchés.
 
 ### 5.2 Pourquoi la différence de classification a une raison comptable
 
@@ -382,7 +382,7 @@ Même société :
 → Valorisations séparées, sommées, puis décotées
 ```
 
-La différence comptable entre ces deux classifications produit la différence de prix. **Le fait que la même société puisse valoir ₩14,7 Bn, ₩11 Bn ou ₩7 Bn — voilà l'essence de l'« événement de définition de coordonnée lui-même ».**
+La différence comptable entre ces deux classifications produit la différence de prix. <strong>Le fait que la même société puisse valoir ₩14,7 Bn, ₩11 Bn ou ₩7 Bn — voilà l'essence de l'« événement de définition de coordonnée lui-même ».</strong>
 
 ### 5.3 La nouvelle dimension analytique qu'ajoute la Partie 7
 
@@ -398,7 +398,7 @@ Partie 7 :    Dimension événement de définition de coordonnée
               (quel marché et quelle classification valorisent la société)
 ```
 
-La nouvelle dimension analytique qu'introduit la Partie 7 est la méta-reconnaissance que **« la classification de marché est elle-même une variable déterminante du prix ».** Cela s'applique en amont dans la série — la classification « PI / plateforme d'actifs numériques » de Mirae Asset Securities, la classification « opérations de capital assurantiel » de DB Insurance, etc., s'inscrivent toutes dans le même mécanisme « classification = prix ».
+La nouvelle dimension analytique qu'introduit la Partie 7 est la méta-reconnaissance que <strong>« la classification de marché est elle-même une variable déterminante du prix ».</strong> Cela s'applique en amont dans la série — la classification « PI / plateforme d'actifs numériques » de Mirae Asset Securities, la classification « opérations de capital assurantiel » de DB Insurance, etc., s'inscrivent toutes dans le même mécanisme « classification = prix ».
 
 ---
 
@@ -422,9 +422,9 @@ Décomposition du processus de détermination du prix en sept variables comptabl
 
 Comment chaque variable joue :
 
-- **Les variables 1, 2, 3 déterminent la zone de prix** (basse vs haute). Toutes trois favorables = zone $10B ; toutes trois défavorables = zone $5–6B.
-- **Les variables 4 et 5 déterminent l'amplitude de prix**. Les deux favorables ajoutent $1–3 Mds.
-- **Les variables 6 et 7 calibrent le facteur de décote**. Les deux défavorables retranchent $1–3 Mds.
+- <strong>Les variables 1, 2, 3 déterminent la zone de prix</strong> (basse vs haute). Toutes trois favorables = zone $10B ; toutes trois défavorables = zone $5–6B.
+- <strong>Les variables 4 et 5 déterminent l'amplitude de prix</strong>. Les deux favorables ajoutent $1–3 Mds.
+- <strong>Les variables 6 et 7 calibrent le facteur de décote</strong>. Les deux défavorables retranchent $1–3 Mds.
 
 ### 6.3 Correspondance des quatre points de prix avec les sept variables
 
@@ -435,7 +435,7 @@ Comment chaque variable joue :
 | $10B | Ponctuel | Super app | Récurrente | Les deux accélèrent | Redressement | Signal faible | Maîtrisé |
 | $15B | Ponctuel + marché favorable | Super app + global | Récurrente + expansion marge | Double chiffre sur les deux | Profit clair | Signal faible | Maîtrisé + options reconnues |
 
-Ce que cette correspondance révèle : **au 3 mai 2026, la majorité des sept variables ne sont pas confirmées**. Plutôt que de fixer un unique scénario de base, **suivre comment les sept variables se referment** — voilà l'outil analytique de la série.
+Ce que cette correspondance révèle : <strong>au 3 mai 2026, la majorité des sept variables ne sont pas confirmées</strong>. Plutôt que de fixer un unique scénario de base, <strong>suivre comment les sept variables se referment</strong> — voilà l'outil analytique de la série.
 
 ---
 
@@ -452,7 +452,7 @@ La marge opérationnelle de Toss Securities à 50,5 % est difficile à évaluer 
 - Le revenu par ₩1 Bn de volume de transactions (prix unitaire)
 - La sensibilité de la marge à la volatilité du change
 
-Ces données seront communiquées dans le S-1/F-1 ou lors de futurs IR trimestriels. **À ce stade, les deux interprétations se situent en territoire comptablement valide**. Refuser de déclarer laquelle est correcte est la posture analytique honnête.
+Ces données seront communiquées dans le S-1/F-1 ou lors de futurs IR trimestriels. <strong>À ce stade, les deux interprétations se situent en territoire comptablement valide</strong>. Refuser de déclarer laquelle est correcte est la posture analytique honnête.
 
 ### 7.2 Variable d'environnement de marché au moment de l'introduction
 
@@ -495,23 +495,23 @@ Non des déclencheurs de transaction. Des points d'observation montrant comment 
 
 ### 8.3 Signaux méta au niveau de la série
 
-- **Où le prix d'introduction de Toss atterrit dans la matrice de la série** : lequel parmi $5B (CoE 2,7 %), $7B (2,0 %), $10B (1,4 %), $15B (0,9 %) signale directement la classification de marché.
-- **Expression comptable de la différence de classification US vs Corée** : si la même société est valorisée différemment sur deux marchés, la différence représente « le prix de la classification ». Une nouvelle dimension que la série suit.
-- **Autres candidats à la « définition de coordonnée »** : Mirae Asset Securities (PI / plateforme d'actifs numériques), DB Insurance (opérations de capital assurantiel), etc. — entrées possibles dans la série en tant que « sociétés qui ne correspondent pas aux classifications existantes ».
+- <strong>Où le prix d'introduction de Toss atterrit dans la matrice de la série</strong> : lequel parmi $5B (CoE 2,7 %), $7B (2,0 %), $10B (1,4 %), $15B (0,9 %) signale directement la classification de marché.
+- <strong>Expression comptable de la différence de classification US vs Corée</strong> : si la même société est valorisée différemment sur deux marchés, la différence représente « le prix de la classification ». Une nouvelle dimension que la série suit.
+- <strong>Autres candidats à la « définition de coordonnée »</strong> : Mirae Asset Securities (PI / plateforme d'actifs numériques), DB Insurance (opérations de capital assurantiel), etc. — entrées possibles dans la série en tant que « sociétés qui ne correspondent pas aux classifications existantes ».
 
 ---
 
 ## 9. La ligne de conclusion unique
 
-Cette série a dressé le tableau des « trois sommets stabilisés » dans les Parties 1–3, du « transit entre deux sommets » dans la Partie 4, et des deux extrémités (conservatrice / agressive) de la « nouvelle définition de coordonnée » dans les Parties 5–6. Viva Republica (Toss) de la Partie 7 est la première fois que la série examine **l'« événement de définition de coordonnée lui-même »** — un cas pré-introduction où le prix n'est pas encore déterminé.
+Cette série a dressé le tableau des « trois sommets stabilisés » dans les Parties 1–3, du « transit entre deux sommets » dans la Partie 4, et des deux extrémités (conservatrice / agressive) de la « nouvelle définition de coordonnée » dans les Parties 5–6. Viva Republica (Toss) de la Partie 7 est la première fois que la série examine <strong>l'« événement de définition de coordonnée lui-même »</strong> — un cas pré-introduction où le prix n'est pas encore déterminé.
 
 Chiffre d'affaires consolidé 2025 ₩2,7 Bn, résultat opérationnel ₩336,0 Mds, résultat net ₩201,8 Mds. Les fondamentaux de chiffre d'affaires sont clairement solides. Mais le résultat net groupe de ₩201,8 Mds face au résultat net standalone de Toss Securities de ₩333,9 Mds est une asymétrie qui permet simultanément deux interprétations de la qualité des bénéfices.
 
-Le principe analytique de cet article est simple — **ne pas désigner un « scénario de référence ».** L'ensemble des cinq obstacles institutionnels d'une cotation américaine (F-1 public non confirmé, décote ADR/FPI, exposition à la réglementation financière coréenne, liquidité des actions secondaires, décote standard de 30–40 % à l'introduction) opérant à des niveaux « partiels » est le schéma standard d'une introduction, et combinés, ils resserrent naturellement le prix vers $5–7B. **$5B n'est pas une « hypothèse baissière » — c'est le résultat naturel lorsque les cinq obstacles opèrent tous.** Atteindre $10B+ requiert de franchir les cinq obstacles et de convaincre le marché américain du narratif de super-application. Le « $10B+ » de Reuters se situe à un point dans la zone haute du spectre de prix, pas en valeur par défaut.
+Le principe analytique de cet article est simple — <strong>ne pas désigner un « scénario de référence ».</strong> L'ensemble des cinq obstacles institutionnels d'une cotation américaine (F-1 public non confirmé, décote ADR/FPI, exposition à la réglementation financière coréenne, liquidité des actions secondaires, décote standard de 30–40 % à l'introduction) opérant à des niveaux « partiels » est le schéma standard d'une introduction, et combinés, ils resserrent naturellement le prix vers $5–7B. <strong>$5B n'est pas une « hypothèse baissière » — c'est le résultat naturel lorsque les cinq obstacles opèrent tous.</strong> Atteindre $10B+ requiert de franchir les cinq obstacles et de convaincre le marché américain du narratif de super-application. Le « $10B+ » de Reuters se situe à un point dans la zone haute du spectre de prix, pas en valeur par défaut.
 
-La répartition uniforme de quatre points de prix dans la matrice du coût implicite des capitaux propres de la série révèle le spectre de Toss — $5B (2,7 %) → $7B (2,0 %) → $10B (1,4 %) → $15B (0,9 %). Chaque prix se situe en territoire plus agressif que n'importe laquelle des six autres sociétés de la série, mais le point d'atterrissage réel de Toss dépend non seulement des fondamentaux de la société mais aussi de **quel marché et quelle classification la valorisent**. Sept variables — calendrier du F-1 public, classification du marché américain, persistance de la marge opérationnelle de Toss Securities, croissance de la publicité / du courtage, redressement standalone de Viva Republica, signal d'introduction séparée de Toss Bank, complexité ADR / actions secondaires — déterminent lequel des quatre points devient le prix d'atterrissage.
+La répartition uniforme de quatre points de prix dans la matrice du coût implicite des capitaux propres de la série révèle le spectre de Toss — $5B (2,7 %) → $7B (2,0 %) → $10B (1,4 %) → $15B (0,9 %). Chaque prix se situe en territoire plus agressif que n'importe laquelle des six autres sociétés de la série, mais le point d'atterrissage réel de Toss dépend non seulement des fondamentaux de la société mais aussi de <strong>quel marché et quelle classification la valorisent</strong>. Sept variables — calendrier du F-1 public, classification du marché américain, persistance de la marge opérationnelle de Toss Securities, croissance de la publicité / du courtage, redressement standalone de Viva Republica, signal d'introduction séparée de Toss Bank, complexité ADR / actions secondaires — déterminent lequel des quatre points devient le prix d'atterrissage.
 
-Le fait le plus frappant est que la même société pourrait atterrir à l'une ou l'autre extrémité de la matrice de la série. Si le marché américain classe Toss comme « super-application fintech », CoE 1–2 % (repoussant l'extrémité agressive de la série encore plus loin). Si le marché coréen la classe comme « holding financier + titres + SOTP PG », CoE 12–17 % (proche des 17,3 % de Korea Investment Holdings). **« L'événement de définition de coordonnée lui-même fixe le prix »** — quel marché et quel pool d'investisseurs classe la société dans quelle catégorie détermine le prix — voilà la dimension analytique que la Partie 7 ajoute à la série.
+Le fait le plus frappant est que la même société pourrait atterrir à l'une ou l'autre extrémité de la matrice de la série. Si le marché américain classe Toss comme « super-application fintech », CoE 1–2 % (repoussant l'extrémité agressive de la série encore plus loin). Si le marché coréen la classe comme « holding financier + titres + SOTP PG », CoE 12–17 % (proche des 17,3 % de Korea Investment Holdings). <strong>« L'événement de définition de coordonnée lui-même fixe le prix »</strong> — quel marché et quel pool d'investisseurs classe la société dans quelle catégorie détermine le prix — voilà la dimension analytique que la Partie 7 ajoute à la série.
 
 Le prochain article de la série paraîtra lorsque (1) le F-1 public sera déposé, (2) les données de décomposition trimestrielle de Toss Securities et Toss Bank seront publiées, (3) la revue de cotation coréenne progressera, et (4) d'autres candidats à la « définition de coordonnée » — Mirae Asset Securities, DB Insurance — entreront dans la même dimension analytique.
 
@@ -519,31 +519,31 @@ Le prochain article de la série paraîtra lorsque (1) le F-1 public sera dépos
 
 ## FAQ — Viva Republica / Toss
 
-**Q : Viva Republica (Toss) est-elle cotée en bourse ?**
+<strong>Q : Viva Republica (Toss) est-elle cotée en bourse ?</strong>
 R : Pas encore. Viva Republica n'est pas cotée ; une cotation américaine (probablement sous forme d'ADR) est largement rapportée comme étant en préparation. Le dépôt d'un F-1 public n'a pas été confirmé au 3 mai 2026.
 
-**Q : Quel est le lien entre Toss et Viva Republica ?**
+<strong>Q : Quel est le lien entre Toss et Viva Republica ?</strong>
 R : Viva Republica est la maison mère. Toss est la marque grand public. Les filiales comprennent Toss Securities (détenue à 97,4 %), Toss Bank (détenue à 28,3 %) et Toss Payments / Toss services marchands.
 
-**Q : Quelle est la valorisation attendue de l'introduction de Toss ?**
+<strong>Q : Quelle est la valorisation attendue de l'introduction de Toss ?</strong>
 R : La cible largement rapportée est « $10B+ ». Cet article soutient que le spectre honnête s'étend de $5B à $15B selon (a) quel marché cote la société, (b) quel pool d'investisseurs la classe, (c) comment chacune des sept variables se referme. Aucun point unique n'est traité comme « scénario de référence » par défaut.
 
-**Q : Quand a lieu l'introduction de Toss ?**
+<strong>Q : Quand a lieu l'introduction de Toss ?</strong>
 R : Aucune date confirmée n'est encore fixée. Le dépôt du F-1 public et le début d'un road show constitueraient les jalons publics. Les rapports suggèrent un ciblage T2/T3 2026 si le F-1 est déposé en mai–juin ; sinon, il pourrait glisser au second semestre 2026 ou en 2027.
 
-**Q : Toss sera-t-elle cotée aux États-Unis ou en Corée ?**
+<strong>Q : Toss sera-t-elle cotée aux États-Unis ou en Corée ?</strong>
 R : Une cotation américaine (NYSE/Nasdaq) sous forme d'ADR est la voie la plus largement rapportée. Une cotation coréenne (KOSPI) a également été évoquée mais moins activement. Le choix du marché est important car — comme le montre cet article — la classification américaine (« super app ») et la classification coréenne (« SOTP holding financier ») impliquent des multiples de valorisation très différents.
 
-**Q : Toss est-elle rentable ?**
+<strong>Q : Toss est-elle rentable ?</strong>
 R : 2025 a été la première année de rentabilité consolidée significative — résultat net groupe ₩201,8 Mds (+846,7 % en glissement annuel). Cependant, Viva Republica standalone (le corps applicatif lui-même) était déficitaire en 2025 en raison d'investissements dans de nouvelles activités ; le résultat consolidé est principalement porté par Toss Securities.
 
-**Q : Qu'est-ce que Toss Securities et pourquoi sa marge opérationnelle de 50,5 % importe-t-elle ?**
+<strong>Q : Qu'est-ce que Toss Securities et pourquoi sa marge opérationnelle de 50,5 % importe-t-elle ?</strong>
 R : Toss Securities est la filiale de courtage entièrement détenue (97,4 %), structurellement numéro 1 sur le courtage d'actions étrangères pour les particuliers en Corée. Sa marge opérationnelle de 50,5 % est exceptionnellement élevée. Savoir si cela représente une « marge structurelle récurrente » ou une « solidité cyclique liée au marché haussier américain + change favorable » est la principale question en suspens — réponse attendue lorsque le F-1 communiquera la décomposition des revenus et la trajectoire trimestrielle de la marge opérationnelle.
 
-**Q : Quel est le rôle de Toss Bank dans l'introduction ?**
+<strong>Q : Quel est le rôle de Toss Bank dans l'introduction ?</strong>
 R : Toss Bank représente environ le quart à un tiers de KakaoBank. Viva Republica détient 28,3 %, une participation minoritaire. En termes de SOTP, Toss Bank n'est pas un contributeur dominant à la valorisation. Toss Bank compte également 19 autres actionnaires majeurs, soulevant l'option d'une introduction séparée de Toss Bank — ce qui appliquerait une décote SOTP supplémentaire à une introduction de Viva Republica.
 
-**Q : Comment Toss se compare-t-elle à Korea Investment Holdings ou KakaoBank dans cette série ?**
+<strong>Q : Comment Toss se compare-t-elle à Korea Investment Holdings ou KakaoBank dans cette série ?</strong>
 R : Korea Investment Holdings (Partie 5) est l'extrémité conservatrice de la « nouvelle définition de coordonnée » — coût implicite des capitaux propres de 17,3 %. KakaoBank (Partie 6) en est l'extrémité agressive — coût implicite des capitaux propres de 4,2 %. Toss (Partie 7) est pré-introduction — son coût implicite des capitaux propres à l'introduction se situera quelque part entre 0,9 % (à une valorisation de $15B) et 2,7 % (à $5B), plus agressif que n'importe laquelle des sociétés existantes de la série. Le point d'atterrissage réel dépend de quel marché et de quelle classification valorisent la société.
 
 ---

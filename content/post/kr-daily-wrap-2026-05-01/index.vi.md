@@ -20,28 +20,28 @@ draft: false
 | US 10Y | 4,39% | +0,08 | → Ổn định |
 | Brent | $111,3 | +2,8% | 📈 Tăng |
 
-**Nhận định chế độ:** Hàn Quốc — **Bull** · Mỹ — **Bull**. Hai thị trường đồng pha hướng lên, breadth >50MA đạt 65,4%, điểm FTD Day 20 đạt 100/100. Brent tăng hỗ trợ cổ phiếu năng lượng và đóng tàu, nhưng cũng là rủi ro lạm phát nếu kéo dài.
+<strong>Nhận định chế độ:</strong> Hàn Quốc — <strong>Bull</strong> · Mỹ — <strong>Bull</strong>. Hai thị trường đồng pha hướng lên, breadth >50MA đạt 65,4%, điểm FTD Day 20 đạt 100/100. Brent tăng hỗ trợ cổ phiếu năng lượng và đóng tàu, nhưng cũng là rủi ro lạm phát nếu kéo dài.
 
 ---
 
 ## Phần 2: Tổng kết thị trường
 
-> **Lưu ý:** Ngày 01/05 là ngày nghỉ lễ tại Hàn Quốc. Dữ liệu giá dựa trên phiên đóng cửa 30/04; các bộ lọc và tín hiệu breadth được tạo ngày 01/05.
+> <strong>Lưu ý:</strong> Ngày 01/05 là ngày nghỉ lễ tại Hàn Quốc. Dữ liệu giá dựa trên phiên đóng cửa 30/04; các bộ lọc và tín hiệu breadth được tạo ngày 01/05.
 
 Phiên 30/04 ghi nhận áp lực chốt lời trước kỳ nghỉ lễ. KOSPI giảm 1,38%, KOSDAQ mất 2,29% — nhìn bề ngoài là risk-off, nhưng dữ liệu breadth hôm nay cho thấy bức tranh khác hẳn.
 
-**Nhóm dẫn đầu** tập trung ở ba trục: hạ tầng điện AI (dây cáp điện, máy biến áp), đóng tàu & động cơ, và thiết bị/bộ nhớ HBM. Ba trục này tiếp tục hút tiền tổ chức và ngoại tệ ngay cả khi chỉ số điều chỉnh — cho thấy đây là chốt lời chọn lọc chứ không phải rút lui toàn diện.
+<strong>Nhóm dẫn đầu</strong> tập trung ở ba trục: hạ tầng điện AI (dây cáp điện, máy biến áp), đóng tàu & động cơ, và thiết bị/bộ nhớ HBM. Ba trục này tiếp tục hút tiền tổ chức và ngoại tệ ngay cả khi chỉ số điều chỉnh — cho thấy đây là chốt lời chọn lọc chứ không phải rút lui toàn diện.
 
-**Nhóm yếu** gồm cổ phiếu KOSDAQ định giá cao bị áp lực giải chấp bảo lãnh, nền tảng internet (NAVER và tương tự), và một số cổ phiếu xây dựng đã tăng nóng trước đó.
+<strong>Nhóm yếu</strong> gồm cổ phiếu KOSDAQ định giá cao bị áp lực giải chấp bảo lãnh, nền tảng internet (NAVER và tương tự), và một số cổ phiếu xây dựng đã tăng nóng trước đó.
 
-**Dòng tiền đáng chú ý:**
+<strong>Dòng tiền đáng chú ý:</strong>
 
-- **Sanilyeon (062040.KS):** Ngoại tệ và tổ chức cùng mua ròng +40,4 tỷ KRW trong 5 ngày. Kết quả sơ bộ Q1 công bố 30/04 xác nhận lợi nhuận hoạt động tăng 63,6% YoY.
-- **Rino Công nghiệp (058470.KS):** Mua ròng F+I đạt +80,7 tỷ KRW trong 5 ngày. Tỷ lệ bán khống 5,6% — cần theo dõi, nhưng dòng tiền vào vẫn áp đảo.
-- **HD Hyundai Energy Solution (322000.KS):** Mua ròng mạnh nhất trong nhóm theo dõi: +577,4 tỷ KRW trong 5 ngày. Tỷ lệ RS đạt 99,4 — hiếm thấy.
-- **Hyundai Rotem (064350.KS):** Tổ chức và ngoại tệ đồng mua, mua ròng F+I +1.688,6 tỷ KRW — con số lớn nhất trong toàn bộ danh sách theo dõi.
+- <strong>Sanilyeon (062040.KS):</strong> Ngoại tệ và tổ chức cùng mua ròng +40,4 tỷ KRW trong 5 ngày. Kết quả sơ bộ Q1 công bố 30/04 xác nhận lợi nhuận hoạt động tăng 63,6% YoY.
+- <strong>Rino Công nghiệp (058470.KS):</strong> Mua ròng F+I đạt +80,7 tỷ KRW trong 5 ngày. Tỷ lệ bán khống 5,6% — cần theo dõi, nhưng dòng tiền vào vẫn áp đảo.
+- <strong>HD Hyundai Energy Solution (322000.KS):</strong> Mua ròng mạnh nhất trong nhóm theo dõi: +577,4 tỷ KRW trong 5 ngày. Tỷ lệ RS đạt 99,4 — hiếm thấy.
+- <strong>Hyundai Rotem (064350.KS):</strong> Tổ chức và ngoại tệ đồng mua, mua ròng F+I +1.688,6 tỷ KRW — con số lớn nhất trong toàn bộ danh sách theo dõi.
 
-**Rủi ro cần giám sát:** Căng thẳng địa chính trị liên quan Iran và giá dầu Brent trên $110 là con dao hai lưỡi — tích cực cho đóng tàu/năng lượng, nhưng nếu kéo lãi suất lên thì áp lực định giá trên toàn thị trường sẽ tăng. Chính sách AI CapEx của Big Tech (Meta, Microsoft chịu áp lực; Google Cloud được đánh giá cao) tiếp tục ảnh hưởng tới chuỗi cung ứng bán dẫn Hàn Quốc.
+<strong>Rủi ro cần giám sát:</strong> Căng thẳng địa chính trị liên quan Iran và giá dầu Brent trên $110 là con dao hai lưỡi — tích cực cho đóng tàu/năng lượng, nhưng nếu kéo lãi suất lên thì áp lực định giá trên toàn thị trường sẽ tăng. Chính sách AI CapEx của Big Tech (Meta, Microsoft chịu áp lực; Google Cloud được đánh giá cao) tiếp tục ảnh hưởng tới chuỗi cung ứng bán dẫn Hàn Quốc.
 
 ---
 
@@ -66,15 +66,15 @@ Phiên 30/04 ghi nhận áp lực chốt lời trước kỳ nghỉ lễ. KOSPI 
 
 ### Ba ứng viên hàng đầu — Phân tích nhanh
 
-**#1 · 산일전기 (062040.KS) — Điểm meta 81,9**
+<strong>#1 · 산일전기 (062040.KS) — Điểm meta 81,9</strong>
 
 Sanilyeon sản xuất động cơ điện và thiết bị biến đổi điện, đang được hưởng lợi kép từ hạ tầng điện cho trung tâm dữ liệu AI và nhu cầu truyền tải điện tái tạo. Công ty lọt vào ba bộ lọc đồng thời: nền tảng kinh doanh chất lượng cao (ROE 29,2%, biên OP 35,6%), dòng tiền tổ chức+ngoại tệ cùng mua ròng, và tăng trưởng lợi nhuận thực sự mạnh (OP YoY +63,6%, doanh thu +50,3%). Kết quả sơ bộ Q1 công bố ngày 30/04 là xúc tác trực tiếp — cần kiểm tra xem con số có vượt kỳ vọng thị trường không. Rủi ro chính: cổ phiếu đã tăng +20% gần đây, cần chờ nhịp hồi về trước khi mở rộng vị thế.
 
-**#2 · 리노공업 (058470.KS) — Điểm meta 72,1**
+<strong>#2 · 리노공업 (058470.KS) — Điểm meta 72,1</strong>
 
 Rino Công nghiệp là nhà sản xuất linh kiện điện tử, đặc biệt đầu dò test bán dẫn — chuỗi hưởng lợi từ chu kỳ phục hồi HBM và chip AI. Ba bộ lọc trùng nhau: chất lượng compounding (ROE 22,4%, biên OP 47,5%), dòng tiền thông minh (+80,7 tỷ KRW F+I 5 ngày), và cải thiện lợi nhuận (OP YoY +42,5%). Điểm đáng chú ý: tỷ lệ bán khống 5,6% và chương trình mua bán chênh lệch giá +18% — đây là rủi ro phân phối cần theo dõi. Cần kiểm tra tiếp: hợp đồng đặt hàng từ khách hàng chip AI có đang tăng không?
 
-**#3 · HD현대에너지솔루션 (322000.KS) — Điểm meta 64,0**
+<strong>#3 · HD현대에너지솔루션 (322000.KS) — Điểm meta 64,0</strong>
 
 HD Hyundai Energy Solution sản xuất tấm pin mặt trời và hệ thống lưu trữ năng lượng. Ở thời điểm giá dầu Brent trên $110 và nhu cầu điện sạch cho trung tâm dữ liệu tăng mạnh, công ty đang được thị trường tái định giá từ "sản xuất năng lượng tái tạo" sang "hạ tầng điện AI". Biên OP cải thiện +7,5 pp (Cycle Rerating), điểm đánh giá đồng thuận phân tích viên tăng (composite z +0,82), và mua ròng F+I +577,4 tỷ KRW là mức lớn nhất trong nhóm có chất lượng. RS ở mức 99,4 — xếp hạng sức mạnh tương đối gần đỉnh tuyệt đối. Cần kiểm tra: RSI kỹ thuật đang quá mua — tốt hơn nên chờ nhịp hồi.
 

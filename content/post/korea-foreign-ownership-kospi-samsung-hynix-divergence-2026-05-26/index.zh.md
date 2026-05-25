@@ -11,16 +11,16 @@ valley_body_mode: teaser
 
 ## TL;DR
 
-* KOSPI整体外资持股比例仍高，基准序列从年初<strong>36.02%</strong>升至**38.56%**。
-* 但外资实际集中卖出的两只股票已经明显下降：三星电子从<strong>52.37%</strong>降至**48.32%**，SK海力士从<strong>53.81%</strong>降至**51.62%**。
+* KOSPI整体外资持股比例仍高，基准序列从年初<strong>36.02%</strong>升至<strong>38.56%</strong>。
+* 但外资实际集中卖出的两只股票已经明显下降：三星电子从<strong>52.37%</strong>降至<strong>48.32%</strong>，SK海力士从<strong>53.81%</strong>降至<strong>51.62%</strong>。
 * 差异来自口径：KOSPI是市值加权指标，个股持股比例是股数口径。即使外资卖出，剩余持仓涨幅很大时，整体持股市值占比仍可能上升。
-* 现在最重要的信号是外资净卖出速度是否下降，尤其是五日平均是否降至约**每日1万亿韩元**以下。
+* 现在最重要的信号是外资净卖出速度是否下降，尤其是五日平均是否降至约<strong>每日1万亿韩元</strong>以下。
 
 ## 核心解读
 
 Yonhap Infomax报道称，三星电子48.32%的外资持股比例为2013年9月以来低位，SK海力士51.62%为2023年5月以来低位。([Yonhap Infomax](https://news.einfomax.co.kr/news/articleViewAmp.html?idxno=4416519))
 
-但资金流仍未完全稳定。5月7日至22日，外资在KOSPI净卖出**46.3383万亿韩元**，其中三星电子和SK海力士合计占**82.9%**。([Daum / Energy Economy](https://v.daum.net/v/20260525140625125?f=p))
+但资金流仍未完全稳定。5月7日至22日，外资在KOSPI净卖出<strong>46.3383万亿韩元</strong>，其中三星电子和SK海力士合计占<strong>82.9%</strong>。([Daum / Energy Economy](https://v.daum.net/v/20260525140625125?f=p))
 
 ## 操作框架
 

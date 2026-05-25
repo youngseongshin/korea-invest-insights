@@ -24,7 +24,7 @@ Les chiffres détaillés seront confirmés lors de la publication complète, mai
 
 Côté flux, les données de la KRX (Korea Exchange) au 28 avril indiquaient des ventes étrangères nettes de 680,79 milliards de wons sur le titre, partiellement compensées par des achats institutionnels de 198,86 milliards de wons. Cette divergence — étrangers vendeurs, institutions acheteuses — est caractéristique d'un titre en phase de réévaluation : les investisseurs locaux anticipent une amélioration des fondamentaux, tandis que les flux macro globaux pèsent encore sur le titre. La séance du 30 avril a vu Samsung céder 2,43 %, mais dans un contexte de marché globalement défavorable. Samsung Electronics représente le premier volume de transactions de la KRX sur la période.
 
-**Pourquoi les investisseurs étrangers vendent-ils Samsung Electronics malgré des résultats positifs ?** La réponse tient principalement à deux facteurs : la hausse du dollar et la remontée des taux d'actualisation liée aux tensions géopolitiques, qui pèsent mécaniquement sur les valorisations des grandes capitalisations exportatrices coréennes.
+<strong>Pourquoi les investisseurs étrangers vendent-ils Samsung Electronics malgré des résultats positifs ?</strong> La réponse tient principalement à deux facteurs : la hausse du dollar et la remontée des taux d'actualisation liée aux tensions géopolitiques, qui pèsent mécaniquement sur les valorisations des grandes capitalisations exportatrices coréennes.
 
 ---
 
@@ -62,7 +62,7 @@ Les résultats du T1 2026 publiés par Alphabet, Amazon, Microsoft et Meta ont c
 
 Cependant, la séance du 30 avril a été dictée par des facteurs de court terme opposés : les tensions autour du détroit d'Ormuz et la sensibilité des marchés à une possible remise en question de l'indépendance de la Réserve fédérale américaine ont provoqué une aversion au risque généralisée. Le pétrole en hausse pèse sur les marges des entreprises exportatrices coréennes à forte composante logistique.
 
-**Quel est l'impact des dépenses CapEx américaines en IA sur les actions coréennes ?** L'effet se transmet principalement via trois canaux : la demande de mémoire HBM (Samsung Electronics, SK Hynix), la demande de composants actifs et passifs (Samsung Electro-Mechanics), et la demande d'équipements électriques pour data centers (Sanyil Electric, Hyosung Heavy Industries).
+<strong>Quel est l'impact des dépenses CapEx américaines en IA sur les actions coréennes ?</strong> L'effet se transmet principalement via trois canaux : la demande de mémoire HBM (Samsung Electronics, SK Hynix), la demande de composants actifs et passifs (Samsung Electro-Mechanics), et la demande d'équipements électriques pour data centers (Sanyil Electric, Hyosung Heavy Industries).
 
 ---
 
@@ -70,11 +70,11 @@ Cependant, la séance du 30 avril a été dictée par des facteurs de court term
 
 Plusieurs catalyseurs méritent un suivi attentif dès le 1er mai :
 
-- **Samsung Electronics** : confirmation des détails chiffrés du T1 2026 et continuité des flux étrangers autour des 225 000 wons.
-- **Samsung Electro-Mechanics** : publication des chiffres complets et évolution du short interest après les résultats préliminaires.
-- **Sanyil Electric** : après un breakout de plus de 20 %, la zone de support autour de 237 000 wons constitue la référence technique pour évaluer la solidité du mouvement.
-- **Hanwha Engine** : maintien du volume institutionnel et stabilisation des ordres d'achat après la forte progression hebdomadaire.
-- **Macro** : évolution du pétrole et des tensions en mer d'Ormuz, interprétation des déclarations Fed post-FOMC.
+- <strong>Samsung Electronics</strong> : confirmation des détails chiffrés du T1 2026 et continuité des flux étrangers autour des 225 000 wons.
+- <strong>Samsung Electro-Mechanics</strong> : publication des chiffres complets et évolution du short interest après les résultats préliminaires.
+- <strong>Sanyil Electric</strong> : après un breakout de plus de 20 %, la zone de support autour de 237 000 wons constitue la référence technique pour évaluer la solidité du mouvement.
+- <strong>Hanwha Engine</strong> : maintien du volume institutionnel et stabilisation des ordres d'achat après la forte progression hebdomadaire.
+- <strong>Macro</strong> : évolution du pétrole et des tensions en mer d'Ormuz, interprétation des déclarations Fed post-FOMC.
 
 La structure du marché coréen reste en mode « sélectif ». Les indices reculent sous pression macro, mais les secteurs liés à l'infrastructure IA et à l'énergie électrique affichent une résilience qui témoigne d'une rotation de qualité plutôt que d'une liquidation généralisée. Pour les investisseurs internationaux, cette divergence entre la performance des indices et celle des leaders sectoriels constitue précisément le type d'opportunité que le KOSPI offre dans les phases de stress macro modéré.
 

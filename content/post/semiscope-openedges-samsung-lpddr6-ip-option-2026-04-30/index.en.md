@@ -9,7 +9,7 @@ tags: ["OpenEdges Technology", "394280", "SemiScope", "Samsung Foundry", "LPDDR6
 series: ["semiscope-2026"]
 ---
 
-> **SemiScope follow-up.** The first OpenEdges note framed the company as Korea's rare memory-subsystem IP platform with a long royalty J-curve. This second piece narrows the investable question: OpenEdges Technology is not primarily an "NPU stock." It is a Samsung 4/5/8nm LPDDR5X/LPDDR6 memory-subsystem IP option, and the stock only deserves a larger position when license wins, revenue recognition, royalty mix and cost control start to confirm that option.
+> <strong>SemiScope follow-up.</strong> The first OpenEdges note framed the company as Korea's rare memory-subsystem IP platform with a long royalty J-curve. This second piece narrows the investable question: OpenEdges Technology is not primarily an "NPU stock." It is a Samsung 4/5/8nm LPDDR5X/LPDDR6 memory-subsystem IP option, and the stock only deserves a larger position when license wins, revenue recognition, royalty mix and cost control start to confirm that option.
 
 ---
 
@@ -22,13 +22,13 @@ series: ["semiscope-2026"]
 
 ## TL;DR
 
-1. **OpenEdges is better understood as a memory-subsystem IP company than as an NPU company.** The core investment lens is LPDDR5X/LPDDR6 PHY, memory controller and NoC bundled for AI ASIC, edge AI, automotive and other data-intensive chips.
-2. **Samsung Foundry 4/5/8nm is the practical battleground.** The stock is not a bet that OpenEdges defeats Synopsys or Cadence at the global 2/3nm frontier. It is a bet that Samsung's mid-to-advanced mass-market nodes need credible, local, process-aware LPDDR IP.
-3. **The value chain is still early: porting, license, tape-out, silicon proof, production, royalty.** OpenEdges has moved beyond pure R&D, but it is not yet a mature royalty platform.
-4. **TSS and the Japan unit strengthen the technology base. OpenEdges Square is a higher-risk option.** TSS and Japan are 100% subsidiaries tied to DDR PHY and memory-controller depth. Square is more interesting but also more dilutive, because the parent owns roughly 65%.
-5. **Valuation already prices in a lot.** Around KRW 530B market cap against roughly KRW 30.4B-31.8B of 2026F revenue implies about 16.7x-17.5x sales. This can work only if LPDDR6/5X wins, 2Q-3Q revenue ramp, cost discipline and royalty progress arrive.
+1. <strong>OpenEdges is better understood as a memory-subsystem IP company than as an NPU company.</strong> The core investment lens is LPDDR5X/LPDDR6 PHY, memory controller and NoC bundled for AI ASIC, edge AI, automotive and other data-intensive chips.
+2. <strong>Samsung Foundry 4/5/8nm is the practical battleground.</strong> The stock is not a bet that OpenEdges defeats Synopsys or Cadence at the global 2/3nm frontier. It is a bet that Samsung's mid-to-advanced mass-market nodes need credible, local, process-aware LPDDR IP.
+3. <strong>The value chain is still early: porting, license, tape-out, silicon proof, production, royalty.</strong> OpenEdges has moved beyond pure R&D, but it is not yet a mature royalty platform.
+4. <strong>TSS and the Japan unit strengthen the technology base. OpenEdges Square is a higher-risk option.</strong> TSS and Japan are 100% subsidiaries tied to DDR PHY and memory-controller depth. Square is more interesting but also more dilutive, because the parent owns roughly 65%.
+5. <strong>Valuation already prices in a lot.</strong> Around KRW 530B market cap against roughly KRW 30.4B-31.8B of 2026F revenue implies about 16.7x-17.5x sales. This can work only if LPDDR6/5X wins, 2Q-3Q revenue ramp, cost discipline and royalty progress arrive.
 
-**Bottom line:** OpenEdges remains a **Watchlist / Pilot Hold** candidate. A 0.3%-0.5% pilot position can be justified for investors who want exposure to Korea's semiconductor IP layer. Scaling above 1% should wait for repeated LPDDR6/5X wins, visible revenue ramp, lower fixed-cost burn and better visibility on OpenEdges Square.
+<strong>Bottom line:</strong> OpenEdges remains a <strong>Watchlist / Pilot Hold</strong> candidate. A 0.3%-0.5% pilot position can be justified for investors who want exposure to Korea's semiconductor IP layer. Scaling above 1% should wait for repeated LPDDR6/5X wins, visible revenue ramp, lower fixed-cost burn and better visibility on OpenEdges Square.
 
 ---
 
@@ -58,12 +58,12 @@ OpenEdges owns and develops several IP blocks:
 
 | Product family | Function | Investment meaning |
 |---|---|---|
-| **DDR PHY** | Physical signal layer between SoC and DRAM | Highest technical barrier; node-specific hard IP; needs silicon proof |
-| **DDR Memory Controller** | Controls memory access, scheduling and protocol behavior | Becomes more valuable when paired with PHY |
-| **On-Chip Interconnect / NoC** | Moves data inside the SoC | More important as AI ASICs add more compute blocks |
-| **NPU / ENLIGHT** | AI inference acceleration | Useful, but weaker as a standalone investment thesis |
-| **UCIe / chiplet controller** | Die-to-die communication for chiplet systems | Long-term option as chiplet adoption broadens |
-| **CXL-adjacent memory IP** | Memory controller and PHY blocks used by potential CXL controller-chip designers | Indirect CXL exposure, not equipment-like revenue visibility |
+| <strong>DDR PHY</strong> | Physical signal layer between SoC and DRAM | Highest technical barrier; node-specific hard IP; needs silicon proof |
+| <strong>DDR Memory Controller</strong> | Controls memory access, scheduling and protocol behavior | Becomes more valuable when paired with PHY |
+| <strong>On-Chip Interconnect / NoC</strong> | Moves data inside the SoC | More important as AI ASICs add more compute blocks |
+| <strong>NPU / ENLIGHT</strong> | AI inference acceleration | Useful, but weaker as a standalone investment thesis |
+| <strong>UCIe / chiplet controller</strong> | Die-to-die communication for chiplet systems | Long-term option as chiplet adoption broadens |
+| <strong>CXL-adjacent memory IP</strong> | Memory controller and PHY blocks used by potential CXL controller-chip designers | Indirect CXL exposure, not equipment-like revenue visibility |
 
 The strongest version of the company is not "we sell an NPU." It is "we reduce memory bottlenecks in AI chips by selling a bundled memory subsystem."
 
@@ -149,11 +149,11 @@ Samsung Foundry's issue is not only process technology. It also needs a thicker 
 | Design houses | Turnkey ASIC packages | Can be inserted into repeat design flows |
 | Fabless / ASIC customers | Faster tape-out with lower memory risk | Solves high-speed low-power memory bottlenecks |
 
-The first moat layer is **DDR PHY porting**. PHY is not generic software. It is a hard IP block with analog and mixed-signal complexity. At 8.5-14.4Gbps speeds, signal integrity, jitter, noise, voltage/temperature variation, timing margin and training algorithms matter. A simulation-only IP block is not enough. Customers want silicon proof.
+The first moat layer is <strong>DDR PHY porting</strong>. PHY is not generic software. It is a hard IP block with analog and mixed-signal complexity. At 8.5-14.4Gbps speeds, signal integrity, jitter, noise, voltage/temperature variation, timing margin and training algorithms matter. A simulation-only IP block is not enough. Customers want silicon proof.
 
-The second moat layer is **PHY + controller + NoC bundling**. AI ASIC customers do not simply need an interface pinout. They need a working data-movement system. If OpenEdges can sell the memory path as a bundle, it creates a higher switching cost than any single block can create alone.
+The second moat layer is <strong>PHY + controller + NoC bundling</strong>. AI ASIC customers do not simply need an interface pinout. They need a working data-movement system. If OpenEdges can sell the memory path as a bundle, it creates a higher switching cost than any single block can create alone.
 
-The third moat layer is **design-house channel leverage**. If a design house repeatedly uses OpenEdges IP inside Samsung-turnkey projects, OpenEdges does not need to sell every customer one by one. The IP can become part of a repeatable package.
+The third moat layer is <strong>design-house channel leverage</strong>. If a design house repeatedly uses OpenEdges IP inside Samsung-turnkey projects, OpenEdges does not need to sell every customer one by one. The IP can become part of a repeatable package.
 
 The moat is not absolute. It is local and process-specific. But local, process-specific moats can still create attractive public-market returns when the revenue base is small.
 
@@ -165,10 +165,10 @@ The subsidiary structure matters because OpenEdges is not only one listed entity
 
 | Entity | Parent stake | Main role | Investment read |
 |---|---:|---|---|
-| **OpenEdges Technology parent** | - | IP R&D, sales and integrated platform strategy | Core listed business |
-| **The Six Semiconductor (TSS)** | 100% | DDR PHY IP R&D | Strengthens the key technical moat |
-| **OpenEdges Technology Japan** | 100% | Memory Controller IP R&D and Japan-facing capability | Reinforces controller depth and regional talent access |
-| **OpenEdges Square** | roughly 65% | Online IP sales platform, CC NoC and future platform options | Higher-risk option; upside is not fully owned by the parent |
+| <strong>OpenEdges Technology parent</strong> | - | IP R&D, sales and integrated platform strategy | Core listed business |
+| <strong>The Six Semiconductor (TSS)</strong> | 100% | DDR PHY IP R&D | Strengthens the key technical moat |
+| <strong>OpenEdges Technology Japan</strong> | 100% | Memory Controller IP R&D and Japan-facing capability | Reinforces controller depth and regional talent access |
+| <strong>OpenEdges Square</strong> | roughly 65% | Online IP sales platform, CC NoC and future platform options | Higher-risk option; upside is not fully owned by the parent |
 
 TSS should be viewed as a moat asset, not dilution. DDR PHY is the hardest part of the stack. If TSS deepens high-speed PHY capability, the economics accrue to the parent because it is wholly owned.
 
@@ -225,8 +225,8 @@ Using the source-market snapshot around Apr. 29, 2026, OpenEdges traded near KRW
 
 | Revenue base | Calculation | Implied PSR |
 |---|---:|---:|
-| 2026F revenue KRW 30.4B | KRW 530.9B / KRW 30.4B | **17.5x** |
-| 2026F revenue KRW 31.8B | KRW 530.9B / KRW 31.8B | **16.7x** |
+| 2026F revenue KRW 30.4B | KRW 530.9B / KRW 30.4B | <strong>17.5x</strong> |
+| 2026F revenue KRW 31.8B | KRW 530.9B / KRW 31.8B | <strong>16.7x</strong> |
 
 This is not a cheap cyclical small-cap. It is an expensive option on a better future business model.
 
@@ -288,7 +288,7 @@ That is a demanding setup. The right conclusion is not "avoid." The right conclu
 
 ## 10. Positioning: Watchlist / Pilot Hold
 
-For now, I would put OpenEdges in the **Watchlist / Pilot Hold** bucket.
+For now, I would put OpenEdges in the <strong>Watchlist / Pilot Hold</strong> bucket.
 
 The stock is investable as a small exploratory position because the upside path is clear and the addressable strategic layer is real. But the current valuation is too high for blind scaling. The company needs to show that its technology roadmap can turn into repeatable contracts and recognized revenue.
 
@@ -334,13 +334,13 @@ I would only consider a 1%+ position after three or more of those milestones are
 
 OpenEdges is a good technology option. It is not yet a good earnings company.
 
-The cleanest investment thesis is not "Korea's NPU winner." It is **LPDDR5X/LPDDR6 PHY and controller IP for Samsung 4/5/8nm AI and edge ASIC customers**. That is narrower, but also stronger. It identifies the real bottleneck, the real customer pool and the real reason OpenEdges can matter despite global IP giants.
+The cleanest investment thesis is not "Korea's NPU winner." It is <strong>LPDDR5X/LPDDR6 PHY and controller IP for Samsung 4/5/8nm AI and edge ASIC customers</strong>. That is narrower, but also stronger. It identifies the real bottleneck, the real customer pool and the real reason OpenEdges can matter despite global IP giants.
 
 TSS and the Japan unit strengthen the core IP base. OpenEdges Square adds a separate CC NoC and IP-platform option, but that option is only partly owned by the listed parent and must be monitored for cost discipline. The 2026 CPS financing gives the company runway, but also adds dilution risk.
 
 At KRW 500B+ market capitalization and roughly 17x 2026F sales, the stock already assumes a better future. The job now is not to admire the technology. The job is to verify the conversion chain: LPDDR6/5X wins, tape-out, silicon proof, revenue recognition, breakeven and eventually royalties.
 
-**My conclusion is unchanged but sharper: Watchlist / Pilot Hold. Scale only after the numbers start confirming the IP story.**
+<strong>My conclusion is unchanged but sharper: Watchlist / Pilot Hold. Scale only after the numbers start confirming the IP story.</strong>
 
 ---
 

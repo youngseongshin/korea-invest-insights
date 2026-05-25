@@ -32,13 +32,13 @@ The practical question for investors watching Korean semiconductor stocks is whe
 
 While the semiconductor trade absorbed controversy, a quieter but more explosive move was happening in Korea's fiber optic and electric cable sector.
 
-**Why are these stocks surging?** Korean power cable and optical fiber manufacturers have become direct beneficiaries of the global AI data center buildout. Hyperscalers expanding GPU cluster capacity require massive quantities of fiber optic interconnects and high-voltage power cabling — and Korean manufacturers supply both globally.
+<strong>Why are these stocks surging?</strong> Korean power cable and optical fiber manufacturers have become direct beneficiaries of the global AI data center buildout. Hyperscalers expanding GPU cluster capacity require massive quantities of fiber optic interconnects and high-voltage power cabling — and Korean manufacturers supply both globally.
 
 Today's standout moves:
 
-- **Gaon Cable (030000.KS)**, a Korean electric cable manufacturer, surged 29.97% with institutional buying of ₩21.3 billion. RSI reached 95.5 and price deviation from its moving average hit 231% — technically extreme by any measure, but the momentum is real.
-- **Daehan Electric Wire (001440.KS)** gained 12.79% on exceptionally clean three-way buying: foreign investors net purchased ₩167.7 billion, institutions added ₩35.3 billion, and program trading contributed ₩171.5 billion. When all three buyer categories align at this scale, the market is making a statement.
-- **Daehankwangtong**, Korea's leading fiber optic cable producer for telecom and data center networks, carried a relative strength score of 99.9 — placing it in the top 0.1% of all KOSPI and KOSDAQ-listed names by momentum.
+- <strong>Gaon Cable (030000.KS)</strong>, a Korean electric cable manufacturer, surged 29.97% with institutional buying of ₩21.3 billion. RSI reached 95.5 and price deviation from its moving average hit 231% — technically extreme by any measure, but the momentum is real.
+- <strong>Daehan Electric Wire (001440.KS)</strong> gained 12.79% on exceptionally clean three-way buying: foreign investors net purchased ₩167.7 billion, institutions added ₩35.3 billion, and program trading contributed ₩171.5 billion. When all three buyer categories align at this scale, the market is making a statement.
+- <strong>Daehankwangtong</strong>, Korea's leading fiber optic cable producer for telecom and data center networks, carried a relative strength score of 99.9 — placing it in the top 0.1% of all KOSPI and KOSDAQ-listed names by momentum.
 
 The important distinction for international investors: Daehan Electric Wire's flow quality is superior to Gaon Cable's today. Gaon is being chased; Daehan is being accumulated. For anyone looking at this theme with a multi-day horizon, the entry optics on the former are far more constructive than the latter.
 
@@ -58,7 +58,7 @@ That lag between a meaningful DART filing and institutional follow-through is a 
 
 Not every segment participated in today's risk-on tone.
 
-**Pearl Abyss (263750.KS)**, the Korean game developer behind the globally distributed *Black Desert Online*, was the weakest name in domestic large-cap gaming. The stock closed flat at ₩52,500, but its five-day return of -12.35% and short interest hovering near 17% tell a more concerning story. Both foreign and institutional investors were net sellers, and there was no meaningful positive news catalyst to cite. Short-side pressure of this magnitude typically does not unwind quickly unless a clear product or earnings catalyst emerges.
+<strong>Pearl Abyss (263750.KS)</strong>, the Korean game developer behind the globally distributed *Black Desert Online*, was the weakest name in domestic large-cap gaming. The stock closed flat at ₩52,500, but its five-day return of -12.35% and short interest hovering near 17% tell a more concerning story. Both foreign and institutional investors were net sellers, and there was no meaningful positive news catalyst to cite. Short-side pressure of this magnitude typically does not unwind quickly unless a clear product or earnings catalyst emerges.
 
 Defense names also underperformed, though the move was modest rather than alarming.
 
@@ -70,10 +70,10 @@ Today's session produced a clean case study in how bifurcated Korean market rall
 
 The flow hierarchy right now in Korean equities:
 
-1. **AI hardware infrastructure** (cable, fiber optic, power): Strongest foreign and institutional conviction. Multi-session momentum with fundamental backing from data center capex cycles.
-2. **Korean semiconductor names** (Samsung, SK Hynix): Strong underlying thesis, but near-term foreign selling creates tactical noise. Investors with a 3–6 month view are likely unfazed; shorter-horizon traders face headline risk from the daily flow data.
-3. **Korean CDMO/biotech** (Pharmicell): Catalyst-dependent. DART filings are the right place to monitor developments.
-4. **Korean gaming** (Pearl Abyss): Structurally weak until a product catalyst emerges. Short interest elevation makes rallies fragile.
+1. <strong>AI hardware infrastructure</strong> (cable, fiber optic, power): Strongest foreign and institutional conviction. Multi-session momentum with fundamental backing from data center capex cycles.
+2. <strong>Korean semiconductor names</strong> (Samsung, SK Hynix): Strong underlying thesis, but near-term foreign selling creates tactical noise. Investors with a 3–6 month view are likely unfazed; shorter-horizon traders face headline risk from the daily flow data.
+3. <strong>Korean CDMO/biotech</strong> (Pharmicell): Catalyst-dependent. DART filings are the right place to monitor developments.
+4. <strong>Korean gaming</strong> (Pearl Abyss): Structurally weak until a product catalyst emerges. Short interest elevation makes rallies fragile.
 
 ---
 
@@ -81,10 +81,10 @@ The flow hierarchy right now in Korean equities:
 
 For investors monitoring Korean equities overnight, these are the data points that matter most:
 
-- **Samsung Electronics (005930.KS)**: Watch whether the ₩2.55T foreign selling pace decelerates. Support at ₩260,000–₩265,000.
-- **Daehan Electric Wire and Gaon Cable**: One to two sessions of consolidation would improve risk/reward for the AI infrastructure cable trade. Today's moves were too fast for clean entries.
-- **Pharmicell (005690.KS)**: Full DART filing details — counterparty, contract value, duration — are the key inputs. Flow confirmation required before the market re-rates.
-- **Pearl Abyss (263750.KS)**: A close below ₩52,000 would signal further deterioration. Short interest normalization is the precondition for any recovery.
+- <strong>Samsung Electronics (005930.KS)</strong>: Watch whether the ₩2.55T foreign selling pace decelerates. Support at ₩260,000–₩265,000.
+- <strong>Daehan Electric Wire and Gaon Cable</strong>: One to two sessions of consolidation would improve risk/reward for the AI infrastructure cable trade. Today's moves were too fast for clean entries.
+- <strong>Pharmicell (005690.KS)</strong>: Full DART filing details — counterparty, contract value, duration — are the key inputs. Flow confirmation required before the market re-rates.
+- <strong>Pearl Abyss (263750.KS)</strong>: A close below ₩52,000 would signal further deterioration. Short interest normalization is the precondition for any recovery.
 
 The macro backdrop — oil prices, Middle East developments — is circulating in Korean retail sentiment channels, but primary source confirmation is thin. Korean market professionals are not yet acting on it, and neither should international investors without better signal-to-noise ratios on those inputs.
 

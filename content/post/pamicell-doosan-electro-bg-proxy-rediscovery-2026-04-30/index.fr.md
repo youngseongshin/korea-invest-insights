@@ -21,7 +21,7 @@ series: ["pamicell-doosan-electronic-bg-proxy"]
 draft: false
 ---
 
-> 📚 **Série 1/N : Pamicell comme proxy de Doosan Electronic BG.** Les prochaines notes suivront les résultats du 1T26, les nouveaux contrats d'approvisionnement Doosan et le calendrier de montée en puissance de la troisième usine d'Ulsan.
+> 📚 <strong>Série 1/N : Pamicell comme proxy de Doosan Electronic BG.</strong> Les prochaines notes suivront les résultats du 1T26, les nouveaux contrats d'approvisionnement Doosan et le calendrier de montée en puissance de la troisième usine d'Ulsan.
 
 *Cette note est née de trois découvertes. Première : quel titre a produit le signal d'accumulation étrangers-plus-institutionnels le plus fort en avril, rapporté à la capitalisation boursière ? Deuxième : le mix d'activités réel correspond-il à l'étiquette que le marché colle encore à cette société ? Troisième : si le marché commence à changer cette étiquette, qu'arrive-t-il au cadre de valorisation ?*
 
@@ -29,13 +29,13 @@ draft: false
 
 ## En bref
 
-Pamicell était le titre le plus solide de mon écran de flux étrangers-plus-institutionnels d'avril sur une base d'intensité ajustée à la capitalisation boursière. L'intensité nette combinée d'achat représentait **4,84 % de la capitalisation boursière**, répartie entre les institutionnels à **2,17 %** et les étrangers à **2,68 %**.
+Pamicell était le titre le plus solide de mon écran de flux étrangers-plus-institutionnels d'avril sur une base d'intensité ajustée à la capitalisation boursière. L'intensité nette combinée d'achat représentait <strong>4,84 % de la capitalisation boursière</strong>, répartie entre les institutionnels à <strong>2,17 %</strong> et les étrangers à <strong>2,68 %</strong>.
 
-La vraie histoire commence après le filtre. Pamicell est encore associée dans les esprits à une société de cellules souches, mais son compte de résultat 2025 pointe ailleurs : **114,1 milliards de wons de chiffre d'affaires**, **34,3 milliards de wons de résultat opérationnel**, ventes biochimiques à environ **97 %** du total, et matériaux électroniques à faible Dk à **64,7 milliards de wons**, soit environ **56 %** du chiffre d'affaires.
+La vraie histoire commence après le filtre. Pamicell est encore associée dans les esprits à une société de cellules souches, mais son compte de résultat 2025 pointe ailleurs : <strong>114,1 milliards de wons de chiffre d'affaires</strong>, <strong>34,3 milliards de wons de résultat opérationnel</strong>, ventes biochimiques à environ <strong>97 %</strong> du total, et matériaux électroniques à faible Dk à <strong>64,7 milliards de wons</strong>, soit environ <strong>56 %</strong> du chiffre d'affaires.
 
-Cette ligne matériaux électroniques conduit à **Doosan Electronic BG**, l'un des nœuds les plus importants de la chaîne d'approvisionnement CCL IA de Corée. Pamicell a divulgué des contrats d'approvisionnement répétés en matériaux électroniques avec Doosan Electronic BG, dont un **contrat de 9,198 milliards de wons le 19 février 2026** pour une livraison jusqu'au 30 avril.
+Cette ligne matériaux électroniques conduit à <strong>Doosan Electronic BG</strong>, l'un des nœuds les plus importants de la chaîne d'approvisionnement CCL IA de Corée. Pamicell a divulgué des contrats d'approvisionnement répétés en matériaux électroniques avec Doosan Electronic BG, dont un <strong>contrat de 9,198 milliards de wons le 19 février 2026</strong> pour une livraison jusqu'au 30 avril.
 
-Au cours de référence du 30 avril de **18 110 ₩**, la capitalisation boursière de Pamicell s'établit à environ **1 087 milliards de wons**. Sur des scénarios de résultat opérationnel 2026 autour de **59 à 63 milliards de wons**, cela représente environ **17 à 18 fois le ratio capitalisation boursière sur résultat opérationnel**. Le titre n'est plus valorisé comme une option biotech négligée, mais le marché ne l'a pas encore pleinement traité comme un proxy CCL IA de Doosan Electronic BG.
+Au cours de référence du 30 avril de <strong>18 110 ₩</strong>, la capitalisation boursière de Pamicell s'établit à environ <strong>1 087 milliards de wons</strong>. Sur des scénarios de résultat opérationnel 2026 autour de <strong>59 à 63 milliards de wons</strong>, cela représente environ <strong>17 à 18 fois le ratio capitalisation boursière sur résultat opérationnel</strong>. Le titre n'est plus valorisé comme une option biotech négligée, mais le marché ne l'a pas encore pleinement traité comme un proxy CCL IA de Doosan Electronic BG.
 
 ---
 
@@ -43,11 +43,11 @@ Au cours de référence du 30 avril de **18 110 ₩**, la capitalisation boursi�
 
 Le premier filtre était simple. J'ai cherché des actions coréennes où étrangers et institutionnels étaient tous deux acheteurs nets en avril, puis je les ai classées par intensité ajustée à la capitalisation plutôt que par montant absolu. L'achat net absolu avantage généralement les grandes capitalisations. L'intensité est plus utile quand la question est de savoir si une nouvelle base d'investisseurs construit activement une position.
 
-Le premier rang de la liste n'était pas un grand cap semi-conducteur, une banque ou un groupe de défense. C'était **Pamicell**.
+Le premier rang de la liste n'était pas un grand cap semi-conducteur, une banque ou un groupe de défense. C'était <strong>Pamicell</strong>.
 
 | Rang | Société | Étrangers + institutionnels / capitalisation | Institutionnels / capitalisation | Étrangers / capitalisation | Variation du cours en avril |
 |---:|---|---:|---:|---:|---:|
-| **1** | **Pamicell** | **4,84 %** | 2,17 % | 2,68 % | **+12,7 %** |
+| <strong>1</strong> | <strong>Pamicell</strong> | <strong>4,84 %</strong> | 2,17 % | 2,68 % | <strong>+12,7 %</strong> |
 | 2 | CS Wind | 3,51 % | 1,74 % | 1,77 % | +12,4 % |
 | 3 | CJ CheilJedang | 3,26 % | 1,73 % | 1,53 % | +12,0 % |
 | 4 | DL | 1,60 % | 0,75 % | 0,86 % | +14,0 % |
@@ -55,7 +55,7 @@ Le premier rang de la liste n'était pas un grand cap semi-conducteur, une banqu
 
 Le signal est intéressant pour deux raisons. Premièrement, l'écart entre la première et la deuxième place est inhabituellement large : Pamicell à 4,84 % contre CS Wind à 3,51 %. Deuxièmement, le côté étranger était plus fort que le côté institutionnel. L'intensité nette d'achat étranger était de 2,68 %, tandis que la part de détention étrangère est passée de 9,35 % à 11,47 % au cours d'avril. Cela ressemble moins à une rotation d'un jour qu'à une accumulation.
 
-La question évidente est : **pourquoi Pamicell ?** Le modèle mental par défaut du marché reste encore « la société de cellules souches ». Mais les marchés actions ne revaluent pas les vieilles étiquettes. Ils revaluent le pouvoir bénéficiaire actuel et la rareté future. Le compte de résultat répond à la question bien plus clairement que l'historique de marque.
+La question évidente est : <strong>pourquoi Pamicell ?</strong> Le modèle mental par défaut du marché reste encore « la société de cellules souches ». Mais les marchés actions ne revaluent pas les vieilles étiquettes. Ils revaluent le pouvoir bénéficiaire actuel et la rareté future. Le compte de résultat répond à la question bien plus clairement que l'historique de marque.
 
 ---
 
@@ -65,22 +65,22 @@ Les chiffres 2025 de Pamicell ne ressemblent pas à un profil biotech spéculati
 
 | Indicateur 2025 | Résultat |
 |---|---:|
-| Chiffre d'affaires | **114,1 milliards de wons** |
-| Résultat opérationnel | **34,3 milliards de wons** |
-| Marge opérationnelle | **30,1 %** |
-| Résultat net | **40,3 milliards de wons** |
-| ROE | **38,3 %** |
+| Chiffre d'affaires | <strong>114,1 milliards de wons</strong> |
+| Résultat opérationnel | <strong>34,3 milliards de wons</strong> |
+| Marge opérationnelle | <strong>30,1 %</strong> |
+| Résultat net | <strong>40,3 milliards de wons</strong> |
+| ROE | <strong>38,3 %</strong> |
 
 La répartition par segment est la clé.
 
 | Ligne d'activité | CA 2025 | Part du CA | Croissance YoY |
 |---|---:|---:|---:|
-| **Matériaux électroniques faible Dk** | **64,7 milliards de wons** | **environ 56 %** | **+118 %** |
-| **Matières premières pharmaceutiques** | **environ 20,4 milliards de wons** | **environ 18 %** | **+84 %** |
+| <strong>Matériaux électroniques faible Dk</strong> | <strong>64,7 milliards de wons</strong> | <strong>environ 56 %</strong> | <strong>+118 %</strong> |
+| <strong>Matières premières pharmaceutiques</strong> | <strong>environ 20,4 milliards de wons</strong> | <strong>environ 18 %</strong> | <strong>+84 %</strong> |
 | Autres matériaux biochimiques | environ 26 milliards de wons | environ 23 % | non détaillé séparément |
 | Biomédical et cellules souches | environ 2,5 milliards de wons | environ 2 % | non moteur des résultats |
 
-C'est le premier rééquilibrage majeur. **Pamicell n'est plus économiquement définie par les cellules souches.** L'activité biomédicale reste partie intégrante de l'identité et peut conserver une valeur optionnelle, mais le moteur des bénéfices est désormais les matériaux biochimiques.
+C'est le premier rééquilibrage majeur. <strong>Pamicell n'est plus économiquement définie par les cellules souches.</strong> L'activité biomédicale reste partie intégrante de l'identité et peut conserver une valeur optionnelle, mais le moteur des bénéfices est désormais les matériaux biochimiques.
 
 Au sein de ce moteur, la ligne la plus importante est celle des matériaux électroniques à faible Dk. Les systèmes informatiques haute vitesse sont de plus en plus contraints par l'intégrité du signal. Les accélérateurs IA, les équipements réseau haute vitesse, les antennes de stations de base 5G et les cartes serveur avancées nécessitent toutes de meilleures performances diélectriques, de moindres pertes de signal et des matériaux plus stables à des fréquences élevées. C'est là que le CCL haut de gamme — le stratifié cuivré — devient critique.
 
@@ -90,13 +90,13 @@ En termes simples : le marché se souvient encore du passé biotech de Pamicell,
 
 ## 3. Le canal : Doosan Electronic BG
 
-L'étape suivante consiste à se demander où vont les matériaux faible Dk de Pamicell. La réponse mène à **Doosan Electronic BG**, la branche matériaux électroniques au sein de Doosan Corporation. Doosan Electronic BG produit du CCL haut de gamme utilisé dans les accélérateurs IA, les packages de semiconducteurs mémoire et les équipements réseau haute vitesse.
+L'étape suivante consiste à se demander où vont les matériaux faible Dk de Pamicell. La réponse mène à <strong>Doosan Electronic BG</strong>, la branche matériaux électroniques au sein de Doosan Corporation. Doosan Electronic BG produit du CCL haut de gamme utilisé dans les accélérateurs IA, les packages de semiconducteurs mémoire et les équipements réseau haute vitesse.
 
 La chaîne de valeur est simple : les accélérateurs IA et les systèmes réseau haute vitesse créent la demande ; Doosan Electronic BG fabrique le CCL haut de gamme ; Pamicell fournit les matériaux faible Dk, les agents de durcissement et les intrants à base de résine. Le point important n'est pas que Pamicell fabrique la carte finale. Ce n'est pas le cas. Le point est que la performance du CCL haut de gamme dépend fortement de la combinaison résine et agent de durcissement.
 
-Les performances récentes de Doosan illustrent bien l'importance du canal. Au 1T26, Doosan Electronic BG aurait enregistré **617,3 milliards de wons de chiffre d'affaires** et **185,6 milliards de wons de résultat opérationnel**, avec une marge opérationnelle de **30,1 %**. La marge opérationnelle 2025 de Pamicell était également de 30,1 %. Cela ne prouve pas de relation univoque, mais suggère que les deux sociétés participent au même changement de mix CCL IA haut de gamme.
+Les performances récentes de Doosan illustrent bien l'importance du canal. Au 1T26, Doosan Electronic BG aurait enregistré <strong>617,3 milliards de wons de chiffre d'affaires</strong> et <strong>185,6 milliards de wons de résultat opérationnel</strong>, avec une marge opérationnelle de <strong>30,1 %</strong>. La marge opérationnelle 2025 de Pamicell était également de 30,1 %. Cela ne prouve pas de relation univoque, mais suggère que les deux sociétés participent au même changement de mix CCL IA haut de gamme.
 
-Doosan prolonge également le cycle. Le 29 avril 2026, des informations indiquaient que Doosan prévoit d'investir environ **180 milliards de wons** dans une nouvelle usine CCL en Thaïlande, visant une production au second semestre 2028. Cela conforte l'interprétation selon laquelle Doosan considère la demande de CCL IA comme un cycle pluriannuel de capacité plutôt qu'un pic sur un trimestre.
+Doosan prolonge également le cycle. Le 29 avril 2026, des informations indiquaient que Doosan prévoit d'investir environ <strong>180 milliards de wons</strong> dans une nouvelle usine CCL en Thaïlande, visant une production au second semestre 2028. Cela conforte l'interprétation selon laquelle Doosan considère la demande de CCL IA comme un cycle pluriannuel de capacité plutôt qu'un pic sur un trimestre.
 
 ---
 
@@ -110,11 +110,11 @@ C'est là que la thèse devient plus concrète. La connexion Pamicell-Doosan n'e
 | 2025-08-21 | Doosan Electronic BG | 5,41 milliards de wons | 21/08/2025 au 31/10/2025 | Renouvellement de commande |
 | 2025-09-23 | Doosan Electronic BG | 3,90 milliards de wons | 23/09/2025 au 31/12/2025 | Fenêtre de commande chevauchante |
 | 2025-10-02 | Doosan Electronic BG | 5,44 milliards de wons | 02/10/2025 au 28/11/2025 | Intensité des commandes soutenue |
-| **2026-02-19** | **Doosan Electronic BG** | **9,198 milliards de wons** | **13/02/2026 au 30/04/2026** | **Montée en gamme de la taille du contrat** |
+| <strong>2026-02-19</strong> | <strong>Doosan Electronic BG</strong> | <strong>9,198 milliards de wons</strong> | <strong>13/02/2026 au 30/04/2026</strong> | <strong>Montée en gamme de la taille du contrat</strong> |
 
 Deux éléments ressortent.
 
-Le premier est la répétition. Un contrat unique peut relever du bruit conjoncturel. Cinq divulgations sur dix mois, c'est différent. Le second est la taille. Les quatre contrats divulgués en 2025 représentaient en moyenne environ **4,83 milliards de wons**. Le contrat de février 2026 était de **9,198 milliards de wons**, soit environ **1,9 fois** cette moyenne 2025. Si le prochain contrat Doosan se situe également entre 8 et 10 milliards de wons, il sera beaucoup plus difficile pour le marché de traiter la croissance 2025 de Pamicell comme un phénomène ponctuel.
+Le premier est la répétition. Un contrat unique peut relever du bruit conjoncturel. Cinq divulgations sur dix mois, c'est différent. Le second est la taille. Les quatre contrats divulgués en 2025 représentaient en moyenne environ <strong>4,83 milliards de wons</strong>. Le contrat de février 2026 était de <strong>9,198 milliards de wons</strong>, soit environ <strong>1,9 fois</strong> cette moyenne 2025. Si le prochain contrat Doosan se situe également entre 8 et 10 milliards de wons, il sera beaucoup plus difficile pour le marché de traiter la croissance 2025 de Pamicell comme un phénomène ponctuel.
 
 ---
 
@@ -124,14 +124,14 @@ Sur la base du cours de référence du 30 avril :
 
 | Données | Valeur |
 |---|---:|
-| Cours de l'action | **18 110 ₩** |
-| Actions en circulation | **60 016 964** |
-| Capitalisation boursière | **environ 1 087 milliards de wons** |
-| CA 2025 | **114,1 milliards de wons** |
-| Résultat opérationnel 2025 | **34,3 milliards de wons** |
-| Résultat net 2025 | **40,3 milliards de wons** |
+| Cours de l'action | <strong>18 110 ₩</strong> |
+| Actions en circulation | <strong>60 016 964</strong> |
+| Capitalisation boursière | <strong>environ 1 087 milliards de wons</strong> |
+| CA 2025 | <strong>114,1 milliards de wons</strong> |
+| Résultat opérationnel 2025 | <strong>34,3 milliards de wons</strong> |
+| Résultat net 2025 | <strong>40,3 milliards de wons</strong> |
 
-Sur les chiffres historiques, le titre ne ressort pas comme conventionnellement bon marché. Le ratio capitalisation sur CA 2025 est d'environ **9,5 fois**, et le ratio capitalisation sur résultat net 2025 est d'environ **27 fois**. Ce n'est pas là qu'il faut s'arrêter dans l'analyse. La question est de savoir si le résultat opérationnel 2026 et 2027 peut croître assez vite pour que le multiple se comprime pendant que le marché change de groupe de pairs.
+Sur les chiffres historiques, le titre ne ressort pas comme conventionnellement bon marché. Le ratio capitalisation sur CA 2025 est d'environ <strong>9,5 fois</strong>, et le ratio capitalisation sur résultat net 2025 est d'environ <strong>27 fois</strong>. Ce n'est pas là qu'il faut s'arrêter dans l'analyse. La question est de savoir si le résultat opérationnel 2026 et 2027 peut croître assez vite pour que le multiple se comprime pendant que le marché change de groupe de pairs.
 
 Un scénario de base se présente ainsi :
 
@@ -140,11 +140,11 @@ Un scénario de base se présente ainsi :
 | Chiffre d'affaires | 114,1 milliards de wons | 165 à 170 milliards de wons | 225 à 230 milliards de wons |
 | Résultat opérationnel | 34,3 milliards de wons | 59 à 63 milliards de wons | 85 à 93 milliards de wons |
 | Marge opérationnelle | 30,1 % | milieu à haut des 30 % | hauts 30 % à environ 40 % |
-| Capitalisation / résultat opérationnel | 31,7x | **17x à 18x** | **12x à 13x** |
+| Capitalisation / résultat opérationnel | 31,7x | <strong>17x à 18x</strong> | <strong>12x à 13x</strong> |
 
 C'est la zone de reclassification. Si Pamicell est perçue comme une vieille étiquette biotech avec un pic de bénéfices sur un an, le titre peinerait à justifier le multiple. Si elle est perçue comme un proxy rare en amont des matériaux pour le cycle CCL IA de Doosan Electronic BG, le cadre change.
 
-Je n'appliquerais pas le multiple implicite de Doosan Electronic BG de façon mécanique. Pamicell mérite une décote pour sa position dans la chaîne de valeur, sa concentration sur un seul client et la complexité résiduelle de son mix d'activités. Mais elle mérite aussi plus d'attention qu'un simple filtre « thème biotech » ne lui en accorderait. À **18 110 ₩**, le marché paie déjà une partie de la transition. Il ne paie pas encore comme si la thèse du proxy Doosan Electronic BG avait été pleinement confirmée.
+Je n'appliquerais pas le multiple implicite de Doosan Electronic BG de façon mécanique. Pamicell mérite une décote pour sa position dans la chaîne de valeur, sa concentration sur un seul client et la complexité résiduelle de son mix d'activités. Mais elle mérite aussi plus d'attention qu'un simple filtre « thème biotech » ne lui en accorderait. À <strong>18 110 ₩</strong>, le marché paie déjà une partie de la transition. Il ne paie pas encore comme si la thèse du proxy Doosan Electronic BG avait été pleinement confirmée.
 
 ---
 
@@ -166,7 +166,7 @@ Le marché n'a pas besoin de perfection. Il a besoin de la confirmation que la p
 
 ## 7. Le volet capacités : usine 3 d'Ulsan
 
-La troisième usine d'Ulsan de Pamicell est le fondement physique du débat 2027. La société a décidé d'investir environ **30 milliards de wons** dans une nouvelle usine au complexe industriel d'Onsan à Ulsan, avec une superficie de site d'environ **16 508 mètres carrés**. L'objectif déclaré est de répondre à la demande croissante de matériaux électroniques à faible Dk utilisés dans les accélérateurs IA, les équipements réseau 5G et les antennes de stations de base.
+La troisième usine d'Ulsan de Pamicell est le fondement physique du débat 2027. La société a décidé d'investir environ <strong>30 milliards de wons</strong> dans une nouvelle usine au complexe industriel d'Onsan à Ulsan, avec une superficie de site d'environ <strong>16 508 mètres carrés</strong>. L'objectif déclaré est de répondre à la demande croissante de matériaux électroniques à faible Dk utilisés dans les accélérateurs IA, les équipements réseau 5G et les antennes de stations de base.
 
 Cela compte car la thèse ne peut prendre de l'ampleur que si Pamicell peut fournir davantage de matériaux. Une montée en puissance propre des capacités de 2026 à 2027 transformerait la thèse de « 2025 a été une bonne année » en « 2025 a été la première année complète d'un nouveau cycle de matériaux ».
 

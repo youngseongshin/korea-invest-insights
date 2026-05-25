@@ -19,11 +19,11 @@ description: "Combinar la acumulación acumulada del 4 al 14 de mayo con la abso
 draft: false
 ---
 
-> 🔗 **Lecturas relacionadas**: [Resumen de cierre del 15 de mayo — Venta extranjera de ₩2,5T en Samsung Electronics, ¿por qué ahora?](/ko/post/kr-kr-close-briefing-2026-05-15/) · [Puerta macro del 15 de mayo — Valores con fortaleza relativa en el desplome del KOSPI](/ko/post/kospi-crash-relative-strength-macro-gate-2026-05-15/) · [Resultados 1T26 de Jeju Semiconductor — Beneficiándose del ajuste en memoria legacy impulsado por IA](/ko/post/jeju-semiconductor-1q26-earnings-legacy-memory-squeeze-2026-05-15/)
+> 🔗 <strong>Lecturas relacionadas</strong>: [Resumen de cierre del 15 de mayo — Venta extranjera de ₩2,5T en Samsung Electronics, ¿por qué ahora?](/ko/post/kr-kr-close-briefing-2026-05-15/) · [Puerta macro del 15 de mayo — Valores con fortaleza relativa en el desplome del KOSPI](/ko/post/kospi-crash-relative-strength-macro-gate-2026-05-15/) · [Resultados 1T26 de Jeju Semiconductor — Beneficiándose del ajuste en memoria legacy impulsado por IA](/ko/post/jeju-semiconductor-1q26-earnings-legacy-memory-squeeze-2026-05-15/)
 
-El 15 de mayo fue una sesión brutal para la renta variable coreana. El flujo agregado del mercado registró extranjeros en **-₩5,18T**, instituciones en **-₩1,88T** y minoristas en **+₩6,93T**. La venta extranjera se concentró en valores de gran capitalización, con el minorista absorbiendo la mayor parte de la oferta.
+El 15 de mayo fue una sesión brutal para la renta variable coreana. El flujo agregado del mercado registró extranjeros en <strong>-₩5,18T</strong>, instituciones en <strong>-₩1,88T</strong> y minoristas en <strong>+₩6,93T</strong>. La venta extranjera se concentró en valores de gran capitalización, con el minorista absorbiendo la mayor parte de la oferta.
 
-En un día como ese, quedarse únicamente con los nombres con mayor compra neta no es suficiente. La pregunta más importante es: **¿qué valores llevaban acumulando desde el 14 de mayo y continuaron registrando compras extranjeras e institucionales incluso mientras el mercado en general caía el 15 de mayo?**
+En un día como ese, quedarse únicamente con los nombres con mayor compra neta no es suficiente. La pregunta más importante es: <strong>¿qué valores llevaban acumulando desde el 14 de mayo y continuaron registrando compras extranjeras e institucionales incluso mientras el mercado en general caía el 15 de mayo?</strong>
 
 La respuesta desde esa perspectiva es bastante clara. Hana Micron, HL Mando, Simtec, Jeju Semiconductor y Rainbow Robotics destacan sobre el resto. Hana Micron y HL Mando, en particular, muestran la estructura más limpia — minorista vendiendo, extranjeros e instituciones absorbiendo — durante el desplome.
 
@@ -33,11 +33,11 @@ Los datos cubren el flujo acumulado del 4 al 14 de mayo de 2026, combinado con e
 
 ## Resumen Ejecutivo
 
-Superponer la señal de acumulación del 4 al 14 de mayo sobre la absorción del día del desplome revela mejores candidatos que un simple ranking de compra neta. El filtro central es **compra extranjera e institucional simultánea acompañada de venta minorista**.
+Superponer la señal de acumulación del 4 al 14 de mayo sobre la absorción del día del desplome revela mejores candidatos que un simple ranking de compra neta. El filtro central es <strong>compra extranjera e institucional simultánea acompañada de venta minorista</strong>.
 
 La estructura más sólida es: extranjeros e instituciones comprando conjuntamente hasta el 14 de mayo, minoristas vendiendo durante todo ese período, y ambos grupos continuando la absorción el 15 de mayo. Los nombres que pasan este filtro combinado incluyen Hana Micron, HL Mando, Rainbow Robotics, Jeju Semiconductor, Hugel y GS Retail.
 
-Dentro de los semiconductores, Hana Micron destaca con más claridad. Solo el 15 de mayo, los extranjeros compraron neto **+₩91,8B**, mientras que el minorista vendió **-₩93,8B**. Simtec mostró una sólida doble acumulación hasta el 14 de mayo, pero registró cierta vacilación institucional el día 15. Jeju Semiconductor tiene un flujo sólido, pero ya ha subido de forma pronunciada.
+Dentro de los semiconductores, Hana Micron destaca con más claridad. Solo el 15 de mayo, los extranjeros compraron neto <strong>+₩91,8B</strong>, mientras que el minorista vendió <strong>-₩93,8B</strong>. Simtec mostró una sólida doble acumulación hasta el 14 de mayo, pero registró cierta vacilación institucional el día 15. Jeju Semiconductor tiene un flujo sólido, pero ya ha subido de forma pronunciada.
 
 En el lado contrario, LG Electronics, Hyundai Motor e Hyundai E&C mostraron un flujo acumulado fuerte hasta el 14 de mayo, pero experimentaron ventas extranjeras intensas el 15. Estos no son nuevos candidatos de filtrado — merecen cautela ante posible distribución más que una entrada fresca.
 
@@ -63,9 +63,9 @@ Los valores que se muestran a continuación forman el núcleo de este filtro. Ex
 
 Las dos filas más importantes de esta tabla son Hana Micron y HL Mando.
 
-Hana Micron venía acumulando de forma silenciosa hasta el 14 de mayo. Luego, el 15 de mayo — un día de desplome — los extranjeros compraron neto **+₩91,8B** en una sola sesión mientras el minorista vendía **-₩93,8B**. El valor subió un +18,61%. Flujo y precio explotaron en la misma dirección simultáneamente. Perseguir el movimiento conlleva riesgo a corto plazo, pero este es el nombre más sólido de este filtro.
+Hana Micron venía acumulando de forma silenciosa hasta el 14 de mayo. Luego, el 15 de mayo — un día de desplome — los extranjeros compraron neto <strong>+₩91,8B</strong> en una sola sesión mientras el minorista vendía <strong>-₩93,8B</strong>. El valor subió un +18,61%. Flujo y precio explotaron en la misma dirección simultáneamente. Perseguir el movimiento conlleva riesgo a corto plazo, pero este es el nombre más sólido de este filtro.
 
-HL Mando ofrece una configuración más cómoda. El valor cayó un -1,91% el 15 de mayo, pero los extranjeros compraron **+₩21,4B**, las instituciones compraron **+₩13,6B** y el minorista vendió **-₩33,7B**. Extranjeros e instituciones absorbieron la oferta minorista conjuntamente durante el desplome. La carga de entrada es considerablemente menor que la de los valores que ya han disparado al alza.
+HL Mando ofrece una configuración más cómoda. El valor cayó un -1,91% el 15 de mayo, pero los extranjeros compraron <strong>+₩21,4B</strong>, las instituciones compraron <strong>+₩13,6B</strong> y el minorista vendió <strong>-₩33,7B</strong>. Extranjeros e instituciones absorbieron la oferta minorista conjuntamente durante el desplome. La carga de entrada es considerablemente menor que la de los valores que ya han disparado al alza.
 
 Rainbow Robotics tiene la mejor calidad de flujo en términos absolutos. Sin embargo, ya había ganado un +22,8% hasta el 14 de mayo y presenta un riesgo de valoración significativo. "Buen valor" y "buen punto de entrada" son cosas distintas. Aquí, esperar un retroceso es más prudente que perseguir el precio.
 
@@ -77,14 +77,14 @@ Dentro de los semiconductores, el ranking es más nítido. Hana Micron lidera, S
 
 | Nombre | Interpretación |
 |---|---|
-| **Hana Micron** | La compra extranjera de +₩91,8B el 15 de mayo es dominante. La acumulación fue discreta hasta el 14 de mayo y estalló el día del desplome. El riesgo de perseguir el precio a corto plazo es real, pero este es el nombre número uno de este filtro. |
-| **Simtec** | Hasta el 14 de mayo: extranjeros +₩66,6B, instituciones +₩33,0B, minoristas -₩43,7B. El 15 de mayo: extranjeros +₩12,6B, instituciones -₩7,6B. Los extranjeros se mantuvieron, pero las instituciones vacilaron. |
-| **Jeju Semiconductor** | Doble acumulación hasta el 14 de mayo y de nuevo el 15. Pero con un +33,3% hasta el 14 de mayo y un +8,86% adicional el día 15, el riesgo de perseguir el precio es elevado. |
-| **Daeduck Electronics** | La señal principal hasta el 14 de mayo fue institucional +₩41,1B. El 15 de mayo: extranjeros +₩3,8B, instituciones -₩7,5B. Calidad de flujo por debajo de Simtec. |
-| **Philoptics** | Sólido hasta el 14 de mayo, pero registró ventas extranjeras e institucionales simultáneas el 15 de mayo. Eliminado de la lista de candidatos. |
-| **HPSP** | El flujo extranjero e institucional se mantuvo intacto hasta el 14 de mayo, pero los extranjeros vendieron el 15 de mayo. Solo apto para seguimiento secundario. |
+| <strong>Hana Micron</strong> | La compra extranjera de +₩91,8B el 15 de mayo es dominante. La acumulación fue discreta hasta el 14 de mayo y estalló el día del desplome. El riesgo de perseguir el precio a corto plazo es real, pero este es el nombre número uno de este filtro. |
+| <strong>Simtec</strong> | Hasta el 14 de mayo: extranjeros +₩66,6B, instituciones +₩33,0B, minoristas -₩43,7B. El 15 de mayo: extranjeros +₩12,6B, instituciones -₩7,6B. Los extranjeros se mantuvieron, pero las instituciones vacilaron. |
+| <strong>Jeju Semiconductor</strong> | Doble acumulación hasta el 14 de mayo y de nuevo el 15. Pero con un +33,3% hasta el 14 de mayo y un +8,86% adicional el día 15, el riesgo de perseguir el precio es elevado. |
+| <strong>Daeduck Electronics</strong> | La señal principal hasta el 14 de mayo fue institucional +₩41,1B. El 15 de mayo: extranjeros +₩3,8B, instituciones -₩7,5B. Calidad de flujo por debajo de Simtec. |
+| <strong>Philoptics</strong> | Sólido hasta el 14 de mayo, pero registró ventas extranjeras e institucionales simultáneas el 15 de mayo. Eliminado de la lista de candidatos. |
+| <strong>HPSP</strong> | El flujo extranjero e institucional se mantuvo intacto hasta el 14 de mayo, pero los extranjeros vendieron el 15 de mayo. Solo apto para seguimiento secundario. |
 
-Conclusión sobre semiconductores: **Hana Micron > Simtec > Jeju Semiconductor > Daeduck Electronics**.
+Conclusión sobre semiconductores: <strong>Hana Micron > Simtec > Jeju Semiconductor > Daeduck Electronics</strong>.
 
 Jeju Semiconductor, cubierta por separado en la nota de resultados, publicó ingresos de ₩180,5B en el 1T26, un beneficio operativo de ₩67,1B y un margen operativo del 37,2%. Resultados y flujo están alineados. Sin embargo, el valor se movió primero y lo hizo con fuerza — para nuevos fines de filtrado, "sólido pero esperar un retroceso" es el enfoque más razonable.
 
@@ -137,12 +137,12 @@ Hyundai Motor sigue el mismo patrón. Las instituciones mantuvieron su posición
 
 | Prioridad | Nombre | Conclusión |
 |---:|---|---|
-| 1 | **Hana Micron** | +₩91,8B de compra extranjera el día del desplome frente a -₩93,8B de venta minorista. La reversión de flujo más sólida del filtro |
-| 2 | **HL Mando** | Compra extranjera e institucional consecutiva; caída limitada el 15 de mayo. Riesgo de perseguir el precio relativamente bajo |
-| 3 | **Simtec** | Doble acumulación hasta el 14 de mayo, extranjeros se mantuvieron el 15. Válido si se confirma la reentrada institucional |
-| 4 | **Jeju Semiconductor** | Flujo muy sólido, pero ya sobrecomprado. Esperar un retroceso |
-| 5 | **Rainbow Robotics** | Flujo de primera categoría. La carga de valoración y precio desaconseja perseguir el precio |
-| 6 | **Hugel / GS Retail** | Ideas secundarias defensivas y de consumo básico |
+| 1 | <strong>Hana Micron</strong> | +₩91,8B de compra extranjera el día del desplome frente a -₩93,8B de venta minorista. La reversión de flujo más sólida del filtro |
+| 2 | <strong>HL Mando</strong> | Compra extranjera e institucional consecutiva; caída limitada el 15 de mayo. Riesgo de perseguir el precio relativamente bajo |
+| 3 | <strong>Simtec</strong> | Doble acumulación hasta el 14 de mayo, extranjeros se mantuvieron el 15. Válido si se confirma la reentrada institucional |
+| 4 | <strong>Jeju Semiconductor</strong> | Flujo muy sólido, pero ya sobrecomprado. Esperar un retroceso |
+| 5 | <strong>Rainbow Robotics</strong> | Flujo de primera categoría. La carga de valoración y precio desaconseja perseguir el precio |
+| 6 | <strong>Hugel / GS Retail</strong> | Ideas secundarias defensivas y de consumo básico |
 
 En la práctica, los candidatos se agrupan en tres categorías.
 
@@ -162,7 +162,7 @@ Desde ese criterio, los dos nombres con la estructura más limpia son Hana Micro
 
 Por el contrario, LG Electronics, Hyundai Motor e Hyundai E&C no deben evaluarse únicamente por su flujo acumulado del 4 al 14 de mayo. En el momento en que los extranjeros vendieron con fuerza el 15 de mayo, la conclusión cambia. Estos nombres encajan mejor en listas de seguimiento para toma de beneficios que como nuevos candidatos de descubrimiento.
 
-Desde la perspectiva de un gestor de carteras, los valores genuinamente sólidos en un desplome no son los de mejor comportamiento en la jornada. Son **los valores donde el minorista vendió y los extranjeros más las instituciones absorbieron**. Por ese criterio, Hana Micron y HL Mando superaron la prueba con mayor claridad en este filtro.
+Desde la perspectiva de un gestor de carteras, los valores genuinamente sólidos en un desplome no son los de mejor comportamiento en la jornada. Son <strong>los valores donde el minorista vendió y los extranjeros más las instituciones absorbieron</strong>. Por ese criterio, Hana Micron y HL Mando superaron la prueba con mayor claridad en este filtro.
 
 ---
 

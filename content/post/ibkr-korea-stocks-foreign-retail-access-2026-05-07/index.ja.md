@@ -23,17 +23,17 @@ tags:
 series: ["korea-stocks-foreign-investor-guide"]
 ---
 
-> **ニュース解説とプレイブック。** この記事は新設した[海外投資家向け韓国株ハブ](/ja/page/korea-stocks-foreign-investors-hub/)と連動しています。同ハブでは、IBKR経由のアクセス方法・KOSPI・KOSDAQ・HBM・AIサブストレート・韓国金融株・Pearl Abyss・K-ビューティーに関するリサーチを海外読者向けに整理しています。
+> <strong>ニュース解説とプレイブック。</strong> この記事は新設した[海外投資家向け韓国株ハブ](/ja/page/korea-stocks-foreign-investors-hub/)と連動しています。同ハブでは、IBKR経由のアクセス方法・KOSPI・KOSDAQ・HBM・AIサブストレート・韓国金融株・Pearl Abyss・K-ビューティーに関するリサーチを海外読者向けに整理しています。
 
 ---
 
 ## TL;DR
 
-1. **韓国株への海外個人アクセスは、制度改革から実際のプロダクト提供へと移行しつつある。** 毎日経済新聞は2026年5月4日、Interactive BrokersがSamsung Securitiesと協力して韓国株アクセスを準備中と報道。FutuはHana Securitiesとの連携が見込まれ、他の韓国証券会社も同様のパートナーシップを検討している。
-2. **本質は特定の証券会社株ではない。** Samsung SecuritiesとHana Securitiesはアクセスの「パイプ役」として重要だが、構造的な変化の本質は、韓国市場がETF・ADR・機関投資家チャネル中心から、海外個人投資家が個別銘柄を検索できる市場へと変わりうることだ。
-3. **最初の需要は検索から生まれる。** 「IBKR 韓国株」「韓国株の買い方」「KOSPI vs KOSDAQ」「Samsung Electronics vs SK Hynix」「Pearl Abyss 株価」「韓国AI株」「おすすめ韓国株」といったクエリが、資金フローとして可視化されるより先に重要性を持つ。
-4. **最初の投資対象コンテンツクラスターはすでに見えている。** HBM・AIメモリ、AIサブストレート・CCL、Value-Up下の韓国金融株、Pearl Abyss / Crimson Desert、K-ビューティーは、海外個人投資家が最も素早く理解できるテーマだ。
-5. **読者にとって実務的な対応は、売買シグナルではなくフィルターとして使うことだ。** アクセス改善は、まず市場構造を理解し、その後にHBM、AI基板、金融株、ゲーム、K-ビューティーへとウォッチリストを絞るきっかけであり、売買前にはブローカー対応と流動性を確認する必要がある。
+1. <strong>韓国株への海外個人アクセスは、制度改革から実際のプロダクト提供へと移行しつつある。</strong> 毎日経済新聞は2026年5月4日、Interactive BrokersがSamsung Securitiesと協力して韓国株アクセスを準備中と報道。FutuはHana Securitiesとの連携が見込まれ、他の韓国証券会社も同様のパートナーシップを検討している。
+2. <strong>本質は特定の証券会社株ではない。</strong> Samsung SecuritiesとHana Securitiesはアクセスの「パイプ役」として重要だが、構造的な変化の本質は、韓国市場がETF・ADR・機関投資家チャネル中心から、海外個人投資家が個別銘柄を検索できる市場へと変わりうることだ。
+3. <strong>最初の需要は検索から生まれる。</strong> 「IBKR 韓国株」「韓国株の買い方」「KOSPI vs KOSDAQ」「Samsung Electronics vs SK Hynix」「Pearl Abyss 株価」「韓国AI株」「おすすめ韓国株」といったクエリが、資金フローとして可視化されるより先に重要性を持つ。
+4. <strong>最初の投資対象コンテンツクラスターはすでに見えている。</strong> HBM・AIメモリ、AIサブストレート・CCL、Value-Up下の韓国金融株、Pearl Abyss / Crimson Desert、K-ビューティーは、海外個人投資家が最も素早く理解できるテーマだ。
+5. <strong>読者にとって実務的な対応は、売買シグナルではなくフィルターとして使うことだ。</strong> アクセス改善は、まず市場構造を理解し、その後にHBM、AI基板、金融株、ゲーム、K-ビューティーへとウォッチリストを絞るきっかけであり、売買前にはブローカー対応と流動性を確認する必要がある。
 
 ---
 

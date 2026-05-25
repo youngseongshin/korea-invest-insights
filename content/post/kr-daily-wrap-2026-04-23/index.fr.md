@@ -12,23 +12,23 @@ draft: false
 
 | Indicateur | Niveau | Δ 5 jours | Signal |
 |---|---|---|---|
-| **KOSPI** | 6 475,8 | +4,6 % | Haussier |
-| **KOSDAQ** | 1 174,3 | +0,4 % | Neutre |
-| **USD/KRW** | 1 482 | +0,3 % | Stable |
-| **VIX** | 19,6 | +11,8 % | Zone verte |
-| **US 10Y** | 4,29 % | −0,02 pt | Stable |
-| **Brent** | 97,4 $ | +2,0 % | Stable |
-| **DXY** | 98,8 | +0,8 % | Dollar ferme |
+| <strong>KOSPI</strong> | 6 475,8 | +4,6 % | Haussier |
+| <strong>KOSDAQ</strong> | 1 174,3 | +0,4 % | Neutre |
+| <strong>USD/KRW</strong> | 1 482 | +0,3 % | Stable |
+| <strong>VIX</strong> | 19,6 | +11,8 % | Zone verte |
+| <strong>US 10Y</strong> | 4,29 % | −0,02 pt | Stable |
+| <strong>Brent</strong> | 97,4 $ | +2,0 % | Stable |
+| <strong>DXY</strong> | 98,8 | +0,8 % | Dollar ferme |
 
-**Verdict de régime — 23 avril 2026 :** Bull KR / Bull US. Les deux marchés sont en synchronisation haussière pour la première fois depuis le 21 avril, ce qui valide une posture d'expansion active. À noter : le régime coréen est passé par une phase Neutre le 22 avril avant de rebondir — la durabilité de ce retour Bull mérite surveillance. La breadth reste solide : 61,4 % des valeurs coréennes au-dessus de leur MM50, 58,6 % au-dessus de leur MM200.
+<strong>Verdict de régime — 23 avril 2026 :</strong> Bull KR / Bull US. Les deux marchés sont en synchronisation haussière pour la première fois depuis le 21 avril, ce qui valide une posture d'expansion active. À noter : le régime coréen est passé par une phase Neutre le 22 avril avant de rebondir — la durabilité de ce retour Bull mérite surveillance. La breadth reste solide : 61,4 % des valeurs coréennes au-dessus de leur MM50, 58,6 % au-dessus de leur MM200.
 
 ---
 
 ## Section 2 — Synthèse de Séance
 
-Le marché boursier coréen a affiché jeudi un profil de **reprise sélective à dominante large-cap**, le KOSPI progressant de près de +284 points sur cinq séances pour s'établir à 6 475,8 points, tandis que le KOSDAQ restait à la traîne avec un gain marginal de +0,4 %. Cet écart de +4,2 points de pourcentage entre grandes et petites capitalisations est le signe d'un appétit pour le risque ciblé plutôt que d'une euphorie générale : les investisseurs ont privilégié la visibilité sur les résultats et la solidité bilancielle.
+Le marché boursier coréen a affiché jeudi un profil de <strong>reprise sélective à dominante large-cap</strong>, le KOSPI progressant de près de +284 points sur cinq séances pour s'établir à 6 475,8 points, tandis que le KOSDAQ restait à la traîne avec un gain marginal de +0,4 %. Cet écart de +4,2 points de pourcentage entre grandes et petites capitalisations est le signe d'un appétit pour le risque ciblé plutôt que d'une euphorie générale : les investisseurs ont privilégié la visibilité sur les résultats et la solidité bilancielle.
 
-Le secteur des **semi-conducteurs** a joué un rôle d'ancrage, porté par la dynamique bénéficiaire persistante des leaders de la mémoire. L'**équipement industriel et électrique** a également capté des flux, notamment les fabricants de transformateurs et de machines spécialisées liés au cycle de dépenses d'infrastructure (énergie, data centers). Les **services financiers spécialisés** ont surpris à la hausse grâce à une expansion des marges opérationnelles inhabituellement élevée.
+Le secteur des <strong>semi-conducteurs<strong> a joué un rôle d'ancrage, porté par la dynamique bénéficiaire persistante des leaders de la mémoire. L'</strong>équipement industriel et électrique</strong> a également capté des flux, notamment les fabricants de transformateurs et de machines spécialisées liés au cycle de dépenses d'infrastructure (énergie, data centers). Les <strong>services financiers spécialisés</strong> ont surpris à la hausse grâce à une expansion des marges opérationnelles inhabituellement élevée.
 
 Côté flux, la configuration Bull simultanée KR+US a historiquement favorisé les achats étrangers sur les blue chips coréens. La hausse du Brent à 97,4 $ soutient les valeurs industrielles exposées à la construction énergétique, mais constitue un risque de coût pour les secteurs à forte intensité énergétique. Le won relativement stable à 1 482 KRW/USD limite pour l'instant les pressions sur les importateurs.
 
@@ -40,7 +40,7 @@ Le retour rapide en régime Bull après le passage en Neutre du 22 avril rappell
 
 *Le screener Quality Compounder cible les entreprises coréennes combinant un ROE élevé, des marges opérationnelles solides, une croissance des revenus durable et un bilan sain — filtrées ensuite par la tendance de cours et la liquidité pour ne retenir que les candidats en phase d'accélération.*
 
-**Contexte du jour :** Sur un univers de 2 722 valeurs coréennes, 179 ont passé les filtres qualité. Score moyen des 20 premières : **0,905**. Régime de marché : Bull.
+<strong>Contexte du jour :</strong> Sur un univers de 2 722 valeurs coréennes, 179 ont passé les filtres qualité. Score moyen des 20 premières : <strong>0,905</strong>. Régime de marché : Bull.
 
 ### Top 10 — Quality Compounder (23 avril 2026)
 
@@ -59,13 +59,13 @@ Le retour rapide en régime Bull après le passage en Neutre du 22 avril rappell
 
 ### Focus Top 3
 
-**1. SK스퀘어(402340.KS) — Score 0,966 | P/E 10,9x**
+<strong>1. SK스퀘어(402340.KS) — Score 0,966 | P/E 10,9x</strong>
 Holding technologique issue de la scission de SK Telecom en 2021, SK스퀘어détient des participations stratégiques dans SK하이닉스, Eleven Street et plusieurs fintechs. Ce qui frappe ici : une marge opérationnelle de 84,1 % — reflet des dividendes et plus-values de cessions remontés par ses filiales — combinée à un P/E de seulement 10,9x. La croissance des revenus de +77,8 % en glissement annuel et une dette quasi nulle (ratio d'endettement 9 %) en font le candidat Quality Compounder le mieux noté du jour. Le RS au 99e percentile confirme que le marché a déjà commencé à valoriser la revalorisation de ses actifs.
 
-**2. 보성파워텍 (006910.KS) — Score 0,933 | Croissance CA +91,3 %**
+<strong>2. 보성파워텍 (006910.KS) — Score 0,933 | Croissance CA +91,3 %</strong>
 Fabricant de structures métalliques et de réservoirs industriels, 보성파워텍 bénéficie à plein du cycle d'investissement dans les infrastructures énergétiques (centrales, hydrogène, GNL). La croissance du chiffre d'affaires quasi-doublée sur un an reflète l'accélération des commandes de projets EPC en Corée et en Asie du Sud-Est. Le ratio d'endettement modéré à 20,9 % et un ROE de 20,3 % dessinent un profil de croissance rentable, rare dans le secteur métallurgique.
 
-**3. 산일전기 (062040.KS) — Score 0,930 | Marge Op. 35,6 %**
+<strong>3. 산일전기 (062040.KS) — Score 0,930 | Marge Op. 35,6 %</strong>
 Spécialiste des transformateurs de puissance et des convertisseurs électriques, 산일전기 se trouve au cœur de deux mégatendances simultanées : l'électrification industrielle et l'explosion de la demande en énergie des centres de données IA. Une marge opérationnelle de 35,6 % — exceptionnelle pour un fabricant d'équipements électriques — témoigne du pricing power acquis sur des produits à forte valeur ajoutée. La croissance de +50 % des revenus et un bilan peu endetté (16,5 %) placent la valeur comme un compounder crédible dans la durée.
 
 ---

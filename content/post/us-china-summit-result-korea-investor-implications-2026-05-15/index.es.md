@@ -16,10 +16,10 @@ tags:
   - "bolsa coreana"
 ---
 
-> 📚 **Serie sobre la cumbre EE.UU.-China.**
+> 📚 <strong>Serie sobre la cumbre EE.UU.-China.</strong>
 > Anterior: [Análisis Previo — 10 Agendas y Estrategia por Escenarios](/post/us-china-summit-korea-investor-guide-2026-05-14/)
 >
-> 🔗 **Relacionados**: [Reversión en V del KOSPI el 13 de mayo — Máximo Histórico Pese a Ventas Extranjeras por ₩3,76 bn](/post/kospi-may-13-v-reversal-large-cap-compression-rally-2026-05-14/) · [Samsung Electronics Citi TP ₩460.000 — Reencuadre del Ciclo de Memoria](/post/samsung-electronics-citi-tp-460000-memory-rerating-2026-05-11/) · [Por qué Corea Parte 4 — $6.700M en Entradas, ¿Disolución del Descuento Coreano o Trampa de Valor?](/post/korea-67-billion-etf-inflow-korea-discount-or-value-trap-2026-05-09/)
+> 🔗 <strong>Relacionados</strong>: [Reversión en V del KOSPI el 13 de mayo — Máximo Histórico Pese a Ventas Extranjeras por ₩3,76 bn](/post/kospi-may-13-v-reversal-large-cap-compression-rally-2026-05-14/) · [Samsung Electronics Citi TP ₩460.000 — Reencuadre del Ciclo de Memoria](/post/samsung-electronics-citi-tp-460000-memory-rerating-2026-05-11/) · [Por qué Corea Parte 4 — $6.700M en Entradas, ¿Disolución del Descuento Coreano o Trampa de Valor?](/post/korea-67-billion-etf-inflow-korea-discount-or-value-trap-2026-05-09/)
 
 *La cumbre ha concluido. El análisis previo advertía que "el resultado más probable es un acuerdo simbólico al estilo 'soja + Boeing + comité de trabajo'" y que "ya estaba en el precio". Ambas cosas se cumplieron. El acuerdo de Hormuz, las licencias H200 y las negociaciones arancelarias de $30B sí se concretaron, pero no hubo comunicado conjunto, ni extensión de la pausa en tierras raras, ni alivio en los controles de semiconductores. Y el KOSPI ya lleva +19% en mayo — semiconductores +39%. La pregunta ahora no es "¿compro más?" sino "¿qué sectores aún no se han movido?"*
 
@@ -27,10 +27,10 @@ tags:
 
 ## Resumen ejecutivo
 
-* **Resultado.** Cumbre de 135 minutos. Acuerdo de reapertura de Hormuz + compromiso de no nuclearización iraní, licencias de venta del NVIDIA H200 para China (10 empresas, hasta 75.000 unidades cada una), negociaciones arancelarias de $30B en sectores no sensibles. **Pero sin comunicado conjunto, sin extensión de la pausa en tierras raras, sin alivio en controles de exportación de equipos de semiconductores.**
-* **Vs. análisis previo.** Una combinación del "Escenario A (expectativas cumplidas, 50%)" + "Escenario D (alivio en Hormuz)" + "Escenario E (lenguaje de estabilidad cambiaria)". El "Escenario B (gran acuerdo tecnología-por-tierras-raras)" no se materializó.
-* **Reacción del mercado.** KOSPI 7.912 (+0,87%); bolsas chinas continentales cayeron 1,5–2,5% (expectativas agotadas). **Las buenas noticias llegaron, pero ya estaban en el precio.**
-* **Lectura central.** Perseguir el rally es ineficiente. KOSPI +19% en mayo, semiconductores +39%, es una concentración extrema. Solo 2 de 26 sectores superaron al KOSPI (semis + autos) — la primera vez desde 2005. La estructura asimétrica favorece buscar al beneficiario menos descontado.
+* <strong>Resultado.</strong> Cumbre de 135 minutos. Acuerdo de reapertura de Hormuz + compromiso de no nuclearización iraní, licencias de venta del NVIDIA H200 para China (10 empresas, hasta 75.000 unidades cada una), negociaciones arancelarias de $30B en sectores no sensibles. <strong>Pero sin comunicado conjunto, sin extensión de la pausa en tierras raras, sin alivio en controles de exportación de equipos de semiconductores.</strong>
+* <strong>Vs. análisis previo.</strong> Una combinación del "Escenario A (expectativas cumplidas, 50%)" + "Escenario D (alivio en Hormuz)" + "Escenario E (lenguaje de estabilidad cambiaria)". El "Escenario B (gran acuerdo tecnología-por-tierras-raras)" no se materializó.
+* <strong>Reacción del mercado.</strong> KOSPI 7.912 (+0,87%); bolsas chinas continentales cayeron 1,5–2,5% (expectativas agotadas). <strong>Las buenas noticias llegaron, pero ya estaban en el precio.</strong>
+* <strong>Lectura central.</strong> Perseguir el rally es ineficiente. KOSPI +19% en mayo, semiconductores +39%, es una concentración extrema. Solo 2 de 26 sectores superaron al KOSPI (semis + autos) — la primera vez desde 2005. La estructura asimétrica favorece buscar al beneficiario menos descontado.
 
 ---
 
@@ -42,33 +42,33 @@ Comparación de los [escenarios previos](/post/us-china-summit-korea-investor-gu
 
 | Escenario | Prob. previa | Resultado real | Acierto |
 |---|---:|---|---|
-| **A. Expectativas cumplidas** (soja / Boeing / comité + señal iraní) | **50%** | ✅ el más cercano | **Acierto** |
+| <strong>A. Expectativas cumplidas</strong> (soja / Boeing / comité + señal iraní) | <strong>50%</strong> | ✅ el más cercano | <strong>Acierto</strong> |
 | B. Gran acuerdo tecnología-por-tierras-raras | 20% | ❌ no ocurrió | Fallo |
 | C. Escenario bajista (tensión Taiwán + endurecimiento de controles) | 25% | △ advertencia sobre Taiwán, sin escalada | Parcial |
-| D. Alivio en Hormuz | 15–20% | ✅ acuerdo de reapertura de Hormuz | **Acierto** |
+| D. Alivio en Hormuz | 15–20% | ✅ acuerdo de reapertura de Hormuz | <strong>Acierto</strong> |
 | E. Comentario sobre estabilidad cambiaria | 25–35% | △ lenguaje directo no confirmado | Parcial |
 
-**El mensaje central del análisis previo — "apostar antes del evento es especulación; posicionarse después es inversión" — quedó validado.** Las bolsas chinas cayeron precisamente el día de la cumbre.
+<strong>El mensaje central del análisis previo — "apostar antes del evento es especulación; posicionarse después es inversión" — quedó validado.</strong> Las bolsas chinas cayeron precisamente el día de la cumbre.
 
 ### 1.2 Qué se confirmó — lo que sí se materializó
 
 | Resultado | Detalle | Naturaleza |
 |---|---|---|
-| **Acuerdo de reapertura de Hormuz** | Ambas partes acordaron mantener abierto el estrecho y el compromiso de no nuclearización iraní | **Resultado más sustancial** |
-| **Licencias de venta del H200** | 10 empresas chinas (Alibaba, Tencent, ByteDance, etc.) autorizadas para comprar NVIDIA H200 | Licencia concedida; cero envíos reales |
-| **Negociaciones arancelarias de $30B** | Enfoque en artículos no sensibles. Partidas aún sin definir | Fase de negociación, no acuerdo |
-| Marco de 'estabilidad estratégica' | Ambas partes acuerdan relaciones constructivas | **Solo lenguaje, no vinculante** |
+| <strong>Acuerdo de reapertura de Hormuz</strong> | Ambas partes acordaron mantener abierto el estrecho y el compromiso de no nuclearización iraní | <strong>Resultado más sustancial</strong> |
+| <strong>Licencias de venta del H200</strong> | 10 empresas chinas (Alibaba, Tencent, ByteDance, etc.) autorizadas para comprar NVIDIA H200 | Licencia concedida; cero envíos reales |
+| <strong>Negociaciones arancelarias de $30B</strong> | Enfoque en artículos no sensibles. Partidas aún sin definir | Fase de negociación, no acuerdo |
+| Marco de 'estabilidad estratégica' | Ambas partes acuerdan relaciones constructivas | <strong>Solo lenguaje, no vinculante</strong> |
 | Advertencia de Xi sobre Taiwán | Advertencia de "posible conflicto"; EE.UU. dice "sin cambio de política" | Tensión preservada, sin escalada |
 
 ### 1.3 Lo que NO se concretó — esto importa más
 
 | Sin resolver | Por qué importa |
 |---|---|
-| **Comunicado conjunto** | Sin acuerdo vinculante no hay mecanismo de cumplimiento |
-| **Extensión de la pausa en tierras raras** | La bomba de relojería de noviembre sigue activa |
-| **Alivio en controles de exportación de equipos de semiconductores** | La "prima de escasez geopolítica" de la memoria coreana se preserva |
-| **Partidas arancelarias específicas** | Los $30B siguen siendo direccionalmente indefinidos |
-| **Volumen de compras Boeing / agrícolas** | Riesgo de inflación en el ciclo electoral de Trump |
+| <strong>Comunicado conjunto</strong> | Sin acuerdo vinculante no hay mecanismo de cumplimiento |
+| <strong>Extensión de la pausa en tierras raras</strong> | La bomba de relojería de noviembre sigue activa |
+| <strong>Alivio en controles de exportación de equipos de semiconductores</strong> | La "prima de escasez geopolítica" de la memoria coreana se preserva |
+| <strong>Partidas arancelarias específicas</strong> | Los $30B siguen siendo direccionalmente indefinidos |
+| <strong>Volumen de compras Boeing / agrícolas</strong> | Riesgo de inflación en el ciclo electoral de Trump |
 
 ---
 
@@ -89,13 +89,13 @@ Resultado: intercambios parciales para salvar la imagen + lo sustancial aplazado
 
 ### 2.2 Qué significa la ausencia de un comunicado conjunto
 
-Sin comunicado no se creó **ningún acuerdo vinculante**. Hormuz, H200, aranceles — todo al nivel de acción administrativa. Reversible según las condiciones políticas.
+Sin comunicado no se creó <strong>ningún acuerdo vinculante</strong>. Hormuz, H200, aranceles — todo al nivel de acción administrativa. Reversible según las condiciones políticas.
 
 El análisis previo advertía que "la visita de Trump a China en 2017 también produjo grandes MOU pero muchos no eran vinculantes". El mismo patrón se repite.
 
 ### 2.3 Valoración del CSIS
 
-Scott Kennedy del CSIS: **"una tregua en gran medida superficial que se inclina a favor de China."** EE.UU. preservó sus cartas de seguridad, pero en los gestos económicos la dirección se movió hacia lo que quería China.
+Scott Kennedy del CSIS: <strong>"una tregua en gran medida superficial que se inclina a favor de China."</strong> EE.UU. preservó sus cartas de seguridad, pero en los gestos económicos la dirección se movió hacia lo que quería China.
 
 ---
 
@@ -121,11 +121,11 @@ Cuestiones clave:
 → La materialización real de demanda incremental de HBM se retrasa trimestres
 ```
 
-**Lectura**: mantener el peso en semiconductores tiene sentido; perseguir el rally es ineficiente. El [análisis de Citi sobre Samsung](/post/samsung-electronics-citi-tp-460000-memory-rerating-2026-05-11/) planteó que romper el marco del "ciclo de memoria" requiere *tanto* una recuperación sostenida de precios *como* las cualificaciones de clientes para HBM4E. El licenciamiento del H200 es una pieza de ese rompecabezas. **Hay que seguir los envíos reales del H200, el guidance de NVIDIA y los cambios en el backlog de pedidos de HBM**.
+<strong>Lectura</strong>: mantener el peso en semiconductores tiene sentido; perseguir el rally es ineficiente. El [análisis de Citi sobre Samsung](/post/samsung-electronics-citi-tp-460000-memory-rerating-2026-05-11/) planteó que romper el marco del "ciclo de memoria" requiere *tanto* una recuperación sostenida de precios *como* las cualificaciones de clientes para HBM4E. El licenciamiento del H200 es una pieza de ese rompecabezas. <strong>Hay que seguir los envíos reales del H200, el guidance de NVIDIA y los cambios en el backlog de pedidos de HBM</strong>.
 
 ### 3.2 Tierras raras — lo que no ocurrió importa más
 
-El análisis previo señaló la "bomba de relojería de noviembre" con el vencimiento de la pausa en tierras raras. La esperada extensión **no se anunció**. Dos lecturas:
+El análisis previo señaló la "bomba de relojería de noviembre" con el vencimiento de la pausa en tierras raras. La esperada extensión <strong>no se anunció</strong>. Dos lecturas:
 
 ```
 Lectura 1 (negativa a corto plazo):
@@ -140,11 +140,11 @@ Lectura 2 (positiva a medio plazo):
 → Las empresas con capacidad real de diversificación de cadena de suministro cotizan con prima
 ```
 
-**Lectura**: a corto plazo, toma de beneficios en acciones temáticas (UnionMatel, etc.). A medio plazo, los imanes permanentes y las cadenas de suministro de tierras raras fuera de China siguen siendo estructuralmente relevantes.
+<strong>Lectura</strong>: a corto plazo, toma de beneficios en acciones temáticas (UnionMatel, etc.). A medio plazo, los imanes permanentes y las cadenas de suministro de tierras raras fuera de China siguen siendo estructuralmente relevantes.
 
 ### 3.3 Hormuz / energía — el resultado más sustancial, el beneficiario menos descontado
 
-La reapertura de Hormuz es el **entregable más sustancial** de la cumbre. Señal de que China participará diplomáticamente en la presión sobre Irán. La probabilidad del escenario de fin del conflicto aumentó.
+La reapertura de Hormuz es el <strong>entregable más sustancial</strong> de la cumbre. Señal de que China participará diplomáticamente en la presión sobre Irán. La probabilidad del escenario de fin del conflicto aumentó.
 
 ```
 Qué implica la apertura de Hormuz para Corea:
@@ -164,15 +164,15 @@ Qué implica la apertura de Hormuz para Corea:
    → Menores costes de combustible para Korean Air, Asiana
 ```
 
-**Por qué es "el menos descontado"**: el mercado interpretó la cumbre principalmente a través del prisma del "beneficiario semiconductores". Pero los semis ya subieron +39%; los petroquímicos siguen cerca del suelo del ciclo. **El efecto de segundo orden de Hormuz (caída del precio del nafta → normalización de márgenes petroquímicos) aún no ha sido absorbido por el mercado**.
+<strong>Por qué es "el menos descontado"</strong>: el mercado interpretó la cumbre principalmente a través del prisma del "beneficiario semiconductores". Pero los semis ya subieron +39%; los petroquímicos siguen cerca del suelo del ciclo. <strong>El efecto de segundo orden de Hormuz (caída del precio del nafta → normalización de márgenes petroquímicos) aún no ha sido absorbido por el mercado</strong>.
 
 ### 3.4 Resumen por sectores
 
 | Sector | Impacto de la cumbre | ¿Ya descontado? | Lectura |
 |---|---|---|---|
-| **Semiconductores** | Licencias H200 → expectativa de demanda de HBM | **Ya +39%** | Perseguir es ineficiente; mantener peso |
-| **Temáticas de tierras raras** | Sin extensión de pausa → catalizador agotado | Parcial | **Toma de beneficios a corto plazo** |
-| **Petroquímicos** | Hormuz → alivio en costes de nafta | **Aún no descontado** | Lista de seguimiento |
+| <strong>Semiconductores</strong> | Licencias H200 → expectativa de demanda de HBM | <strong>Ya +39%</strong> | Perseguir es ineficiente; mantener peso |
+| <strong>Temáticas de tierras raras</strong> | Sin extensión de pausa → catalizador agotado | Parcial | <strong>Toma de beneficios a corto plazo</strong> |
+| <strong>Petroquímicos</strong> | Hormuz → alivio en costes de nafta | <strong>Aún no descontado</strong> | Lista de seguimiento |
 | Autos | Neutral. Estabilidad de cadena de suministro +; aranceles EV chinos preservados | Ya +29% | Perseguir es ineficiente |
 | Aviación / química | Caída del petróleo → alivio de costes | Parcial | Seguimiento |
 | Defensa | Señal de fin de conflicto en Hormuz → impulso de corto plazo se debilita | No descontado | Retroceso corto plazo → posible oportunidad |
@@ -195,17 +195,17 @@ Los otros 24 sectores: por debajo del KOSPI
 → Concentración extrema no vista desde 2005
 ```
 
-**Lo que esto significa**: el KOSPI +19% no refleja "fortaleza de la economía coreana" sino "fortaleza de Samsung Electronics + SK hynix". El resto apenas se ha movido. Esta concentración puede persistir, pero históricamente suele ser un **precursor de rotación**.
+<strong>Lo que esto significa</strong>: el KOSPI +19% no refleja "fortaleza de la economía coreana" sino "fortaleza de Samsung Electronics + SK hynix". El resto apenas se ha movido. Esta concentración puede persistir, pero históricamente suele ser un <strong>precursor de rotación</strong>.
 
 ### 4.2 La señal de alerta de los flujos extranjeros
 
 Ventas netas extranjeras el 14 de mayo: ₩705,2 bn. Extranjeros vendiendo con el mercado al alza — ¿es "venta por agotamiento de expectativas" o "reducción general de posiciones"? Merece seguimiento. El [análisis de la reversión en V del 13 de mayo](/post/kospi-may-13-v-reversal-large-cap-compression-rally-2026-05-14/) señalaba ₩3,76 bn de ventas netas extranjeras absorbidas por flujos domésticos — el mismo patrón. La durabilidad de la dinámica "extranjeros saliendo, capital doméstico absorbiendo" necesita verificación.
 
-**El flujo extranjero del 15 de mayo es el indicador clave.** Ventas continuadas → posible corrección por "agotamiento del catalizador". Giro a compras netas → preservación de la tendencia.
+<strong>El flujo extranjero del 15 de mayo es el indicador clave.</strong> Ventas continuadas → posible corrección por "agotamiento del catalizador". Giro a compras netas → preservación de la tendencia.
 
 ### 4.3 Lo que mostraron las bolsas chinas continentales
 
-**Las bolsas chinas continentales cayeron 1,5–2,5% el día de la cumbre.** El patrón clásico de "rally de expectativas → corrección al conocer el resultado". Corea podría ver algo similar.
+<strong>Las bolsas chinas continentales cayeron 1,5–2,5% el día de la cumbre.</strong> El patrón clásico de "rally de expectativas → corrección al conocer el resultado". Corea podría ver algo similar.
 
 ---
 
@@ -230,13 +230,13 @@ Condiciones para que esta lógica funcione:
 → Verificable en un plazo de 4–8 semanas
 ```
 
-**Por qué el mercado aún no lo ha descontado**: el mercado absorbió la cumbre a través del prisma de las "noticias de semiconductores" en primer lugar. El efecto de la reapertura de Hormuz en los márgenes de la industria química fue cubierto principalmente en la prensa en inglés; las revisiones de estimados del sell-side coreano aún no han seguido el paso.
+<strong>Por qué el mercado aún no lo ha descontado</strong>: el mercado absorbió la cumbre a través del prisma de las "noticias de semiconductores" en primer lugar. El efecto de la reapertura de Hormuz en los márgenes de la industria química fue cubierto principalmente en la prensa en inglés; las revisiones de estimados del sell-side coreano aún no han seguido el paso.
 
 ### 5.2 Cautelas
 
-El acuerdo de Hormuz es **declarativo**. El levantamiento real del bloqueo militar es algo distinto y, si el fin del conflicto con Irán fracasa, puede revertirse de inmediato. Además, el exceso de oferta petroquímica chino es estructural y limita la recuperación del diferencial.
+El acuerdo de Hormuz es <strong>declarativo</strong>. El levantamiento real del bloqueo militar es algo distinto y, si el fin del conflicto con Irán fracasa, puede revertirse de inmediato. Además, el exceso de oferta petroquímica chino es estructural y limita la recuperación del diferencial.
 
-Por tanto, la lectura es **no "comprar químicos ahora" sino "vigilar el crudo Dubai y los diferenciales durante 4–8 semanas, con un enfoque condicional"**.
+Por tanto, la lectura es <strong>no "comprar químicos ahora" sino "vigilar el crudo Dubai y los diferenciales durante 4–8 semanas, con un enfoque condicional"</strong>.
 
 ---
 
@@ -265,13 +265,13 @@ Por tanto, la lectura es **no "comprar químicos ahora" sino "vigilar el crudo D
 
 | Ventana | Evento | Por qué |
 |---|---|---|
-| **15/5** | **Control de flujos extranjeros** | **Ventas continuadas = posible corrección por agotamiento; giro a compras = preservación de tendencia** |
+| <strong>15/5</strong> | <strong>Control de flujos extranjeros</strong> | <strong>Ventas continuadas = posible corrección por agotamiento; giro a compras = preservación de tendencia</strong> |
 | 15/5 | Texto del comunicado del segundo día | ¿Detalles adicionales del acuerdo? |
 | 21–22/5 | NDR de Pearl Abyss con Meritz | Ventana de reencuadre institucional (tema aparte) |
 | Junio | Trayectoria del crudo Dubai + diferencial nafta | Efecto real del acuerdo de Hormuz |
 | Julio | Resultados 2T de Samsung Electronics + SK hynix | ¿Demanda incremental del H200 reflejada en los resultados? |
 | Agosto | Temporada de resultados del primer semestre | ¿Efecto Hormuz apareciendo en beneficios de química / energía? |
-| **Noviembre** | **Vencimiento tregua Busan + vencimiento pausa tierras raras** | **La verdadera bomba de relojería. ¿Extensión o no? = Mayor variable macro del segundo semestre** |
+| <strong>Noviembre</strong> | <strong>Vencimiento tregua Busan + vencimiento pausa tierras raras</strong> | <strong>La verdadera bomba de relojería. ¿Extensión o no? = Mayor variable macro del segundo semestre</strong> |
 
 ---
 
@@ -281,31 +281,31 @@ La cumbre EE.UU.-China produjo una "tregua gestionada", no un "gran acuerdo". El
 
 El problema es que el KOSPI ya lleva +19% con semiconductores +39% y autos +29%. Las buenas noticias llegaron pero ya están en el precio. Que solo 2 de 26 sectores superen al KOSPI es la concentración más extrema desde 2005.
 
-No es un momento para perseguir el rally. Es el momento de **buscar al beneficiario menos descontado**. Los semis ya se han movido; las acciones temáticas de tierras raras han agotado el catalizador de corto plazo. El punto menos descontado es el **efecto de segundo orden de Hormuz — la caída del coste del nafta impulsando la normalización de márgenes petroquímicos**. Y la verdadera bomba de relojería aún no ha explotado — **el vencimiento simultáneo en noviembre de la pausa en tierras raras y la tregua comercial**.
+No es un momento para perseguir el rally. Es el momento de <strong>buscar al beneficiario menos descontado</strong>. Los semis ya se han movido; las acciones temáticas de tierras raras han agotado el catalizador de corto plazo. El punto menos descontado es el <strong>efecto de segundo orden de Hormuz — la caída del coste del nafta impulsando la normalización de márgenes petroquímicos</strong>. Y la verdadera bomba de relojería aún no ha explotado — <strong>el vencimiento simultáneo en noviembre de la pausa en tierras raras y la tregua comercial</strong>.
 
 ---
 
 ## Preguntas frecuentes
 
-**P: ¿Por qué cayeron las bolsas chinas continentales tras una cumbre "exitosa"?**
+<strong>P: ¿Por qué cayeron las bolsas chinas continentales tras una cumbre "exitosa"?</strong>
 R: El clásico "rally de expectativas, venta al conocer el resultado". Las compras previas a la cumbre anticipaban un "gran acuerdo"; el resultado de "pequeño acuerdo" desencadenó toma de beneficios. Corea enfrenta el mismo riesgo.
 
-**P: ¿El licenciamiento del H200 es materialmente positivo para la memoria coreana?**
+<strong>P: ¿El licenciamiento del H200 es materialmente positivo para la memoria coreana?</strong>
 R: Impacto limitado a corto plazo. Licencia ≠ envío real. Pekín tiene razones para frenar la entrada de NVIDIA en favor de sus chips de IA domésticos, y la materialización real de demanda incremental de HBM se retrasa trimestres. Además, los semis ya suben +39% en mayo.
 
-**P: ¿Por qué la ausencia de extensión de la pausa en tierras raras no es un problema mayor?**
+<strong>P: ¿Por qué la ausencia de extensión de la pausa en tierras raras no es un problema mayor?</strong>
 R: El vencimiento de noviembre queda a 6 meses — existen oportunidades de negociación adicionales, y un endurecimiento unilateral chino provocaría represalias. Pero a corto plazo, las acciones temáticas (UnionMatel, etc.) han agotado el catalizador de la esperanza en la cumbre — presión de toma de beneficios.
 
-**P: ¿Por qué los petroquímicos son "el punto menos descontado"?**
+<strong>P: ¿Por qué los petroquímicos son "el punto menos descontado"?</strong>
 R: El mercado absorbió la cumbre a través del "prisma semiconductores" en primer lugar. La historia de la caída del coste del nafta → normalización de márgenes petroquímicos es un efecto retardado y los estimados del sell-side coreano aún no se han revisado. Pero es condicional — requiere que el crudo Dubai cierre por debajo de $70 y que el diferencial nafta-etileno recupere por encima de $250/tonelada en 4–8 semanas.
 
-**P: ¿Qué es la "bomba de relojería de noviembre"?**
+<strong>P: ¿Qué es la "bomba de relojería de noviembre"?</strong>
 R: La tregua comercial de Busan (régimen arancelario del 47%) y la pausa en los controles de exportación de tierras raras vencen ambas en noviembre. Sin resolución, los aranceles se reajustan al 57% y las tierras raras pueden volver a utilizarse como arma. El mejor entregable posible de la cumbre de mayo habría sido un marco de "hoja de ruta hacia noviembre" — eso no ocurrió.
 
-**P: KOSPI +19%, semis +39% — ¿compro más?**
+<strong>P: KOSPI +19%, semis +39% — ¿compro más?</strong>
 R: Que solo 2 de 26 sectores superen al KOSPI es extremo (primera vez desde 2005). Históricamente, este tipo de concentración tiende a ser un precursor de rotación. La lectura disciplinada es vigilar sectores infravalorados (petroquímicos, aviación, parte de cosmética / turismo) en lugar de perseguir el rally.
 
-**P: Los extranjeros vendieron ₩705 bn con el KOSPI al alza — ¿por qué?**
+<strong>P: Los extranjeros vendieron ₩705 bn con el KOSPI al alza — ¿por qué?</strong>
 R: Los flujos domésticos (minoristas + institucionales) lo absorbieron. El mismo patrón apareció el 13 de mayo (₩3,76 bn de ventas netas extranjeras absorbidas por flujos domésticos). La durabilidad de esta estructura de "extranjeros saliendo, capital doméstico absorbiendo" es la variable clave — la dirección del flujo extranjero del 15 de mayo es el próximo indicador a seguir.
 
 ---

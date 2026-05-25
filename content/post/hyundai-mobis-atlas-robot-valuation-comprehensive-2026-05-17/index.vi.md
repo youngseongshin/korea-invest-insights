@@ -23,9 +23,9 @@ slug: hyundai-mobis-atlas-robot-valuation-comprehensive-2026-05-17
 
 ## Tóm Tắt
 
-* **Kết luận:** Ở mức giá hiện tại, Hyundai Mobis đã phản ánh **phần lớn kịch bản cung cấp actuator cho 30K đơn vị Atlas/năm**. Điều *chưa* được định giá đầy đủ là **mở rộng sang gripper / cảm biến / bộ điều khiển, hợp đồng với khách hàng ngoài HMG, và cổ phần gián tiếp tại Boston Dynamics**.
-* **Ước tính cơ sở:** Với 30K đơn vị Atlas/năm, doanh thu linh kiện robot của Mobis nằm trong khoảng **KRW 2,1–3,0 nghìn tỷ**, lợi nhuận hoạt động **KRW 170–360 tỷ**, và giá trị phân khúc **KRW 3,4–7,2 nghìn tỷ**.
-* **Khuyến nghị đầu tư:** Mức giá hiện tại không "rẻ" — đây là **giai đoạn kiểm chứng**. Nhà đầu tư mới: **Chờ**. Người đang nắm giữ: **Giữ**. Chỉ nên mua thêm khi xác nhận được phạm vi cung cấp, số lượng, và biên lợi nhuận.
+* <strong>Kết luận:</strong> Ở mức giá hiện tại, Hyundai Mobis đã phản ánh <strong>phần lớn kịch bản cung cấp actuator cho 30K đơn vị Atlas/năm</strong>. Điều *chưa* được định giá đầy đủ là <strong>mở rộng sang gripper / cảm biến / bộ điều khiển, hợp đồng với khách hàng ngoài HMG, và cổ phần gián tiếp tại Boston Dynamics</strong>.
+* <strong>Ước tính cơ sở:</strong> Với 30K đơn vị Atlas/năm, doanh thu linh kiện robot của Mobis nằm trong khoảng <strong>KRW 2,1–3,0 nghìn tỷ</strong>, lợi nhuận hoạt động <strong>KRW 170–360 tỷ</strong>, và giá trị phân khúc <strong>KRW 3,4–7,2 nghìn tỷ</strong>.
+* <strong>Khuyến nghị đầu tư:</strong> Mức giá hiện tại không "rẻ" — đây là <strong>giai đoạn kiểm chứng</strong>. Nhà đầu tư mới: <strong>Chờ</strong>. Người đang nắm giữ: <strong>Giữ</strong>. Chỉ nên mua thêm khi xác nhận được phạm vi cung cấp, số lượng, và biên lợi nhuận.
 
 ---
 
@@ -35,15 +35,15 @@ slug: hyundai-mobis-atlas-robot-valuation-comprehensive-2026-05-17
 
 Trong thư gửi cổ đông, Hyundai Motor tuyên bố sẽ triển khai robot Atlas của Boston Dynamics tại các nhà máy sản xuất và xây dựng hạ tầng để đạt quy mô 30.000 robot/năm vào năm 2028, đồng thời kết nối với hạ tầng AI vật lý của Google DeepMind và NVIDIA.
 
-Tại CES 2026, Hyundai Mobis chính thức hóa khung hợp tác chiến lược với Boston Dynamics và công bố sẽ cung cấp actuator cho Atlas. Mobis khẳng định actuator chiếm **hơn 60% chi phí BOM** của một robot humanoid.
+Tại CES 2026, Hyundai Mobis chính thức hóa khung hợp tác chiến lược với Boston Dynamics và công bố sẽ cung cấp actuator cho Atlas. Mobis khẳng định actuator chiếm <strong>hơn 60% chi phí BOM</strong> của một robot humanoid.
 
 Tại Kia CEO Investor Day 2026, Kia cho biết Atlas sẽ được triển khai tại HMGMA vào năm 2028 và mở rộng sang Kia AutoLand Georgia vào năm 2029. Điều này đưa Atlas từ trạng thái "trình diễn" sang lộ trình triển khai thực tế tại nhà máy.
 
-Kết quả quý 1/2026 của Hyundai Mobis: doanh thu **KRW 15,5605 nghìn tỷ**, lợi nhuận hoạt động **KRW 802,6 tỷ**. Mảng A/S ghi nhận doanh thu **KRW 3,5190 nghìn tỷ** và lợi nhuận hoạt động **KRW 923,9 tỷ**, duy trì khả năng sinh lời tổng thể trong khi phân khúc Module / Linh kiện Cốt lõi hoạt động thua lỗ.
+Kết quả quý 1/2026 của Hyundai Mobis: doanh thu <strong>KRW 15,5605 nghìn tỷ</strong>, lợi nhuận hoạt động <strong>KRW 802,6 tỷ</strong>. Mảng A/S ghi nhận doanh thu <strong>KRW 3,5190 nghìn tỷ</strong> và lợi nhuận hoạt động <strong>KRW 923,9 tỷ</strong>, duy trì khả năng sinh lời tổng thể trong khi phân khúc Module / Linh kiện Cốt lõi hoạt động thua lỗ.
 
-Cả năm 2025: doanh thu **KRW 61,1180 nghìn tỷ**, lợi nhuận hoạt động **KRW 3,3570 nghìn tỷ**, lợi nhuận ròng **KRW 3,6650 nghìn tỷ**, EPS **KRW 40.861**.
+Cả năm 2025: doanh thu <strong>KRW 61,1180 nghìn tỷ</strong>, lợi nhuận hoạt động <strong>KRW 3,3570 nghìn tỷ</strong>, lợi nhuận ròng <strong>KRW 3,6650 nghìn tỷ</strong>, EPS <strong>KRW 40.861</strong>.
 
-Tính đến ngày 16/5/2026: giá cổ phiếu **KRW 629.000**, EPS TTM **KRW 40.861**, P/E \~**15,4x**, vốn hóa thị trường khoảng **KRW 56 nghìn tỷ**. Giá mục tiêu trung bình của sell-side **KRW 568.828**, giá mục tiêu cao nhất **KRW 750.000**.
+Tính đến ngày 16/5/2026: giá cổ phiếu <strong>KRW 629.000</strong>, EPS TTM <strong>KRW 40.861</strong>, P/E \~<strong>15,4x</strong>, vốn hóa thị trường khoảng <strong>KRW 56 nghìn tỷ</strong>. Giá mục tiêu trung bình của sell-side <strong>KRW 568.828</strong>, giá mục tiêu cao nhất <strong>KRW 750.000</strong>.
 
 ---
 
@@ -65,7 +65,7 @@ Actuator / Hộp Giảm Tốc / Động Cơ / Gripper
 Lắp Ráp Robot / Triển Khai Nhà Máy / Bảo Trì
 ```
 
-Vị trí được Hyundai Mobis công bố chính thức là **cung cấp actuator**. KB Securities dự kiến Boston Dynamics sẽ mua toàn bộ nhu cầu actuator từ Mobis và cho biết đàm phán về các linh kiện bổ sung — đặc biệt là gripper — đang tiếp tục.
+Vị trí được Hyundai Mobis công bố chính thức là <strong>cung cấp actuator</strong>. KB Securities dự kiến Boston Dynamics sẽ mua toàn bộ nhu cầu actuator từ Mobis và cho biết đàm phán về các linh kiện bổ sung — đặc biệt là gripper — đang tiếp tục.
 
 Điều này khiến câu hỏi đầu tư vượt ra ngoài phạm vi "cung cấp linh kiện robot" thuần túy. Ba biến số then chốt thực sự là:
 
@@ -81,28 +81,28 @@ Vị trí được Hyundai Mobis công bố chính thức là **cung cấp actua
 
 ### 3.1 Phép Tính
 
-**Doanh thu linh kiện robot của Mobis = Số đơn vị Atlas × Hàm lượng Mobis/đơn vị × Tỷ giá FX**
+<strong>Doanh thu linh kiện robot của Mobis = Số đơn vị Atlas × Hàm lượng Mobis/đơn vị × Tỷ giá FX</strong>
 
 Giả định:
 
-* Số đơn vị Atlas: **30.000 / năm**
-* Tỷ giá FX: **KRW 1.500 / USD**
-* Hàm lượng Mobis trên mỗi đơn vị: **$30.000 – $80.000**
+* Số đơn vị Atlas: <strong>30.000 / năm</strong>
+* Tỷ giá FX: <strong>KRW 1.500 / USD</strong>
+* Hàm lượng Mobis trên mỗi đơn vị: <strong>$30.000 – $80.000</strong>
 * Làm tròn: doanh thu đến KRW 0,01 nghìn tỷ, lợi nhuận hoạt động đến KRW 10 tỷ.
 
-Hàm lượng thực tế trên mỗi đơn vị, ASP và biên lợi nhuận gộp của Mobis đối với Atlas chưa được công bố chính thức. **Đây là điều thực sự chưa chắc chắn.** Việc kiểm chứng sẽ đến thông qua IR của Mobis, các công bố hợp đồng cung cấp của Boston Dynamics, báo cáo follow-up từ môi giới, và bất kỳ hướng dẫn doanh thu linh kiện robot riêng lẻ nào trong tương lai. Để ra quyết định tạm thời, $50.000–$65.000/đơn vị là kịch bản cơ sở thận trọng.
+Hàm lượng thực tế trên mỗi đơn vị, ASP và biên lợi nhuận gộp của Mobis đối với Atlas chưa được công bố chính thức. <strong>Đây là điều thực sự chưa chắc chắn.</strong> Việc kiểm chứng sẽ đến thông qua IR của Mobis, các công bố hợp đồng cung cấp của Boston Dynamics, báo cáo follow-up từ môi giới, và bất kỳ hướng dẫn doanh thu linh kiện robot riêng lẻ nào trong tương lai. Để ra quyết định tạm thời, $50.000–$65.000/đơn vị là kịch bản cơ sở thận trọng.
 
 ### 3.2 Độ Nhạy Doanh Thu
 
 | Hàm lượng Mobis/đơn vị | Doanh thu USD hàng năm | Doanh thu KRW |
 | ---: | ---: | ---: |
-| $30.000 | $0,90 tỷ | **KRW 1,35 nghìn tỷ** |
-| $40.000 | $1,20 tỷ | **KRW 1,80 nghìn tỷ** |
-| $50.000 | $1,50 tỷ | **KRW 2,25 nghìn tỷ** |
-| $65.000 | $1,95 tỷ | **KRW 2,93 nghìn tỷ** |
-| $80.000 | $2,40 tỷ | **KRW 3,60 nghìn tỷ** |
+| $30.000 | $0,90 tỷ | <strong>KRW 1,35 nghìn tỷ</strong> |
+| $40.000 | $1,20 tỷ | <strong>KRW 1,80 nghìn tỷ</strong> |
+| $50.000 | $1,50 tỷ | <strong>KRW 2,25 nghìn tỷ</strong> |
+| $65.000 | $1,95 tỷ | <strong>KRW 2,93 nghìn tỷ</strong> |
+| $80.000 | $2,40 tỷ | <strong>KRW 3,60 nghìn tỷ</strong> |
 
-**Dải cơ sở: KRW 2,1–3,0 nghìn tỷ/năm.**
+<strong>Dải cơ sở: KRW 2,1–3,0 nghìn tỷ/năm.</strong>
 
 Dải này phù hợp với ASP của Atlas khoảng $190.000 và Mobis chiếm 25–35% hàm lượng trên mỗi đơn vị. KB Securities mô hình kịch bản năm 2035 với 1,5 triệu humanoid cao cấp ở mức \~$190.000/robot.
 
@@ -112,7 +112,7 @@ Dải này phù hợp với ASP của Atlas khoảng $190.000 và Mobis chiếm 
 
 ### 4.1 Độ Nhạy Lợi Nhuận Hoạt Động
 
-Actuator robot có khả năng mang lại giá trị cao hơn module ô tô truyền thống, nhưng cần tính đến chi phí ramp-up giai đoạn đầu, kiểm định chất lượng và CAPEX. Ước tính ban đầu, **OPM 8–12%** là khung phù hợp.
+Actuator robot có khả năng mang lại giá trị cao hơn module ô tô truyền thống, nhưng cần tính đến chi phí ramp-up giai đoạn đầu, kiểm định chất lượng và CAPEX. Ước tính ban đầu, <strong>OPM 8–12%</strong> là khung phù hợp.
 
 | Hàm lượng/đơn vị | Doanh thu | OP @ 8% | OP @ 12% |
 | ---: | ---: | ---: | ---: |
@@ -122,11 +122,11 @@ Actuator robot có khả năng mang lại giá trị cao hơn module ô tô truy
 | $65.000 | KRW 2,93 nghìn tỷ | KRW 234 tỷ | KRW 351 tỷ |
 | $80.000 | KRW 3,60 nghìn tỷ | KRW 288 tỷ | KRW 432 tỷ |
 
-**Giá trị cơ sở:**
+<strong>Giá trị cơ sở:</strong>
 
-* Doanh thu: **KRW 2,25–2,93 nghìn tỷ**
-* Lợi nhuận hoạt động: **KRW 180–351 tỷ**
-* Điểm giữa: **doanh thu \~KRW 2,6 nghìn tỷ, OP \~KRW 260–300 tỷ**
+* Doanh thu: <strong>KRW 2,25–2,93 nghìn tỷ</strong>
+* Lợi nhuận hoạt động: <strong>KRW 180–351 tỷ</strong>
+* Điểm giữa: <strong>doanh thu \~KRW 2,6 nghìn tỷ, OP \~KRW 260–300 tỷ</strong>
 
 ### 4.2 Bội Số Phù Hợp
 
@@ -139,11 +139,11 @@ Actuator robot có khả năng mang lại giá trị cao hơn module ô tô truy
 | Phân khúc actuator Atlas | EV/EBIT 18–22x | Cơ sở 20x |
 | Kịch bản tăng trưởng (mở rộng) | EV/EBIT 25–30x | Cần khách hàng ngoài HMG + mở rộng gripper / cảm biến |
 
-KB Securities duy trì giá mục tiêu KRW 750.000, với vốn hóa ngụ ý từ DCF là KRW 67 nghìn tỷ, P/E forward 12 tháng 16,0x và P/B 1,22x. KB cũng lưu ý rằng Hyundai Mobis sở hữu 20,0% Hyundai Global, và Hyundai Global lại sở hữu 54,7% Boston Dynamics — cho Mobis mức tiếp xúc kinh tế gián tiếp **10,9% vào Boston Dynamics**.
+KB Securities duy trì giá mục tiêu KRW 750.000, với vốn hóa ngụ ý từ DCF là KRW 67 nghìn tỷ, P/E forward 12 tháng 16,0x và P/B 1,22x. KB cũng lưu ý rằng Hyundai Mobis sở hữu 20,0% Hyundai Global, và Hyundai Global lại sở hữu 54,7% Boston Dynamics — cho Mobis mức tiếp xúc kinh tế gián tiếp <strong>10,9% vào Boston Dynamics</strong>.
 
 ### 4.3 Giá Trị Phân Khúc
 
-**Giá trị phân khúc robot = OP robot × Bội số EV/EBIT**
+<strong>Giá trị phân khúc robot = OP robot × Bội số EV/EBIT</strong>
 
 | Hàm lượng/đơn vị | OP @ 8% | Giá trị @ 20x | OP @ 12% | Giá trị @ 20x |
 | ---: | ---: | ---: | ---: | ---: |
@@ -153,9 +153,9 @@ KB Securities duy trì giá mục tiêu KRW 750.000, với vốn hóa ngụ ý t
 | $65.000 | KRW 234 tỷ | KRW 4,68 nghìn tỷ | KRW 351 tỷ | KRW 7,02 nghìn tỷ |
 | $80.000 | KRW 288 tỷ | KRW 5,76 nghìn tỷ | KRW 432 tỷ | KRW 8,64 nghìn tỷ |
 
-**Nhận định cơ sở:** Với 30K đơn vị Atlas, giá trị phân khúc robot của Mobis ở mức **\~KRW 3,6–7,0 nghìn tỷ**.
+<strong>Nhận định cơ sở:</strong> Với 30K đơn vị Atlas, giá trị phân khúc robot của Mobis ở mức <strong>\~KRW 3,6–7,0 nghìn tỷ</strong>.
 
-Kịch bản tăng trưởng với hàm lượng $80.000/đơn vị và OPM 12% đạt **KRW 8,6 nghìn tỷ**, nhưng con số này đã nhúng vào ít nhất một phần mở rộng vượt ra ngoài thuần actuator.
+Kịch bản tăng trưởng với hàm lượng $80.000/đơn vị và OPM 12% đạt <strong>KRW 8,6 nghìn tỷ</strong>, nhưng con số này đã nhúng vào ít nhất một phần mở rộng vượt ra ngoài thuần actuator.
 
 ---
 
@@ -165,28 +165,28 @@ Kịch bản tăng trưởng với hàm lượng $80.000/đơn vị và OPM 12% 
 
 Ở mức KRW 629.000 và EPS TTM KRW 40.861, P/E được tính là:
 
-**629.000 ÷ 40.861 = 15,39x**
+<strong>629.000 ÷ 40.861 = 15,39x</strong>
 
 ### 5.2 SOTP Dựa Trên EPS TTM
 
 Giả định:
 
-* EPS TTM: **KRW 40.861**
-* P/E hợp lý cho mảng kinh doanh truyền thống: **14x**
-* Cổ phiếu lưu hành: \~**89,2 triệu**
-* Giá hiện tại: **KRW 629.000**
+* EPS TTM: <strong>KRW 40.861</strong>
+* P/E hợp lý cho mảng kinh doanh truyền thống: <strong>14x</strong>
+* Cổ phiếu lưu hành: \~<strong>89,2 triệu</strong>
+* Giá hiện tại: <strong>KRW 629.000</strong>
 
 Phép tính:
 
-* **Giá trị mảng truyền thống / cổ phiếu = 40.861 × 14 = KRW 572.054**
-* **Giá trị quyền chọn còn lại / cổ phiếu = 629.000 − 572.054 = KRW 56.946**
-* **Tổng giá trị quyền chọn = 56.946 × 89,2 triệu ≈ KRW 5,1 nghìn tỷ**
+* <strong>Giá trị mảng truyền thống / cổ phiếu = 40.861 × 14 = KRW 572.054</strong>
+* <strong>Giá trị quyền chọn còn lại / cổ phiếu = 629.000 − 572.054 = KRW 56.946</strong>
+* <strong>Tổng giá trị quyền chọn = 56.946 × 89,2 triệu ≈ KRW 5,1 nghìn tỷ</strong>
 
-Nói cách khác, dựa trên EPS TTM và bội số truyền thống 14x, giá hiện tại đã mang theo **\~KRW 5 nghìn tỷ giá trị quyền chọn robot / Boston Dynamics**.
+Nói cách khác, dựa trên EPS TTM và bội số truyền thống 14x, giá hiện tại đã mang theo <strong>\~KRW 5 nghìn tỷ giá trị quyền chọn robot / Boston Dynamics</strong>.
 
 ### 5.3 SOTP Dựa Trên EPS Dự Phóng 2026
 
-KB Securities ước tính lợi nhuận ròng thuộc cổ đông kiểm soát năm 2026 là **KRW 4,115 nghìn tỷ**, ngụ ý EPS \~**KRW 46.100**/cổ phiếu trên \~89,2 triệu cổ phiếu.
+KB Securities ước tính lợi nhuận ròng thuộc cổ đông kiểm soát năm 2026 là <strong>KRW 4,115 nghìn tỷ</strong>, ngụ ý EPS \~<strong>KRW 46.100</strong>/cổ phiếu trên \~89,2 triệu cổ phiếu.
 
 | P/E truyền thống | Giá trị mảng TT/cổ phiếu | Giá trị quyền chọn còn lại/cổ phiếu | Tổng giá trị quyền chọn |
 | ---: | ---: | ---: | ---: |
@@ -197,9 +197,9 @@ KB Securities ước tính lợi nhuận ròng thuộc cổ đông kiểm soát 
 
 Bảng này là chìa khóa:
 
-**Giá trị quyền chọn robot nhúng trong giá hiện tại dao động từ KRW 0 đến \~11 nghìn tỷ tùy thuộc vào bội số truyền thống bạn gán.**
+<strong>Giá trị quyền chọn robot nhúng trong giá hiện tại dao động từ KRW 0 đến \~11 nghìn tỷ tùy thuộc vào bội số truyền thống bạn gán.</strong>
 
-Dải bội số truyền thống hợp lý là 12–14x. Với dải này, mức giá hiện tại nhúng vào **KRW 0–7 nghìn tỷ giá trị quyền chọn robot**, điểm giữa khoảng **\~KRW 5 nghìn tỷ**.
+Dải bội số truyền thống hợp lý là 12–14x. Với dải này, mức giá hiện tại nhúng vào <strong>KRW 0–7 nghìn tỷ giá trị quyền chọn robot</strong>, điểm giữa khoảng <strong>\~KRW 5 nghìn tỷ</strong>.
 
 ---
 
@@ -207,7 +207,7 @@ Dải bội số truyền thống hợp lý là 12–14x. Với dải này, mứ
 
 ### 6.1 Kịch Bản 30K Atlas Đã Được Tính Vào Giá Chưa?
 
-**Rồi — phần lớn.**
+<strong>Rồi — phần lớn.</strong>
 
 | Kịch bản | Giá trị phân khúc robot |
 | --- | ---: |
@@ -216,7 +216,7 @@ Dải bội số truyền thống hợp lý là 12–14x. Với dải này, mứ
 | Lạc quan | KRW 4,7–7,0 nghìn tỷ |
 | Rất lạc quan | KRW 5,8–8,6 nghìn tỷ |
 
-Giá trị quyền chọn nhúng trong giá hiện tại là \~**KRW 5 nghìn tỷ**. Vì vậy, **riêng kịch bản cơ sở cung cấp actuator 30K Atlas không đủ để làm cho cổ phiếu "rẻ" ở mức này**.
+Giá trị quyền chọn nhúng trong giá hiện tại là \~<strong>KRW 5 nghìn tỷ</strong>. Vì vậy, <strong>riêng kịch bản cơ sở cung cấp actuator 30K Atlas không đủ để làm cho cổ phiếu "rẻ" ở mức này</strong>.
 
 ### 6.2 Điều Gì *Chưa* Được Tính Vào Giá
 
@@ -236,7 +236,7 @@ KB Securities định vị Mobis là trung tâm của chuỗi cung ứng hỗ tr
 
 ### 7.1 Kết Luận
 
-**Hyundai Mobis: Chờ / Người Đang Nắm Giữ: Giữ**
+<strong>Hyundai Mobis: Chờ / Người Đang Nắm Giữ: Giữ</strong>
 
 Đây không còn là mức giá của "linh kiện ô tô rẻ." Dòng tiền A/S ổn định, quyền chọn robot, cổ phần gián tiếp Boston Dynamics, và kỳ vọng cải thiện quản trị đều đã được phản ánh ít nhất một phần.
 
@@ -246,7 +246,7 @@ KB Securities định vị Mobis là trung tâm của chuỗi cung ứng hỗ tr
 | ---: | --- | --- |
 | KRW 500–550K | Mảng TT 11–12x + một phần quyền chọn robot | Hấp dẫn để mua |
 | KRW 560–600K | Một phần 30K Atlas đã nhúng vào | Mua có điều kiện |
-| **KRW 620–650K** | Mức hiện tại — phần lớn 30K actuator đã nhúng | **Chờ / Giữ** |
+| <strong>KRW 620–650K</strong> | Mức hiện tại — phần lớn 30K actuator đã nhúng | <strong>Chờ / Giữ</strong> |
 | KRW 700–750K | Tiệm cận mục tiêu KB. Cần thêm dữ liệu | Đuổi theo kém hiệu quả |
 | Trên KRW 750K | Kịch bản nền tảng dài hạn đã được định giá trước | Rủi ro quá nóng |
 
@@ -275,10 +275,10 @@ Luận điểm tái định giá robot suy yếu khi xảy ra bất kỳ điều
 
 ## 8. Liên Kết Với Các Bài Viết Khác
 
-- **[Hyundai Mobis — Gã Khổng Lồ Linh Kiện EV Bước Vào Robotics (Phân tích sâu 28/4)](/post/kr-deep-dive-hyundai-mobis-2026-04-28/)** — điểm khởi đầu. Xác định khung 3 trụ cột: linh kiện EV + dòng tiền A/S + quyền chọn robotics.
-- **[Bản Đồ Hoàn Chỉnh Chuỗi Giá Trị Robotics Hàn Quốc (11/5)](/post/korea-robotics-value-chain-complete-map-2026-05-11/)** — định vị Mobis tại tầng actuator; hữu ích để so sánh các tầng trên và dưới.
-- **[SPG vs Halla Cast — So Sánh Linh Kiện Robot (12/5)](/post/spg-vs-halla-cast-robot-component-comparison-2026-05-12/)** — các công ty cùng ngành vốn hóa nhỏ hơn; hữu ích như sự tương phản về quy mô / bội số / quyền chọn so với Mobis (nội bộ + quy mô lớn).
-- **[Robotis vs Rainbow Robotics — So Sánh OEM Humanoid (12/5)](/post/robotis-vs-rainbow-robotics-humanoid-comparison-2026-05-12/)** — các ứng viên OEM humanoid Hàn Quốc; hữu ích để thấy sự khác biệt giữa "nền tảng linh kiện" (Mobis) và "OEM."
+- <strong>[Hyundai Mobis — Gã Khổng Lồ Linh Kiện EV Bước Vào Robotics (Phân tích sâu 28/4)](/post/kr-deep-dive-hyundai-mobis-2026-04-28/)</strong> — điểm khởi đầu. Xác định khung 3 trụ cột: linh kiện EV + dòng tiền A/S + quyền chọn robotics.
+- <strong>[Bản Đồ Hoàn Chỉnh Chuỗi Giá Trị Robotics Hàn Quốc (11/5)](/post/korea-robotics-value-chain-complete-map-2026-05-11/)</strong> — định vị Mobis tại tầng actuator; hữu ích để so sánh các tầng trên và dưới.
+- <strong>[SPG vs Halla Cast — So Sánh Linh Kiện Robot (12/5)](/post/spg-vs-halla-cast-robot-component-comparison-2026-05-12/)</strong> — các công ty cùng ngành vốn hóa nhỏ hơn; hữu ích như sự tương phản về quy mô / bội số / quyền chọn so với Mobis (nội bộ + quy mô lớn).
+- <strong>[Robotis vs Rainbow Robotics — So Sánh OEM Humanoid (12/5)](/post/robotis-vs-rainbow-robotics-humanoid-comparison-2026-05-12/)</strong> — các ứng viên OEM humanoid Hàn Quốc; hữu ích để thấy sự khác biệt giữa "nền tảng linh kiện" (Mobis) và "OEM."
 
 ---
 
@@ -286,9 +286,9 @@ Luận điểm tái định giá robot suy yếu khi xảy ra bất kỳ điều
 
 Câu chuyện robot của Hyundai Mobis có nền tảng vững chắc. Kế hoạch 30K robot/năm vào năm 2028 của Hyundai Motor, lộ trình triển khai nhà máy 2028–2029 của Kia, và thông báo cung cấp actuator tại CES 2026 của Mobis đều là các dữ kiện đã được xác nhận.
 
-Nhưng mức giá hiện tại đã nhúng vào một phần đáng kể **giá trị actuator Atlas cơ sở KRW 3,6–5,4 nghìn tỷ**. Để cổ phiếu tăng thêm từ đây, câu hỏi không còn là "30K Atlas" nữa — mà là **Mobis sẽ chiếm bao nhiêu hàm lượng phần cứng Atlas, và liệu có thể giành được khách hàng ngoài HMG hay không**.
+Nhưng mức giá hiện tại đã nhúng vào một phần đáng kể <strong>giá trị actuator Atlas cơ sở KRW 3,6–5,4 nghìn tỷ</strong>. Để cổ phiếu tăng thêm từ đây, câu hỏi không còn là "30K Atlas" nữa — mà là <strong>Mobis sẽ chiếm bao nhiêu hàm lượng phần cứng Atlas, và liệu có thể giành được khách hàng ngoài HMG hay không</strong>.
 
-**Mức giá hiện tại không rẻ. Nhưng nếu quá trình chuyển đổi dài hạn sang nhà cung cấp nền tảng robot được xác nhận, thì câu chuyện cũng chưa "kết thúc."**
+<strong>Mức giá hiện tại không rẻ. Nhưng nếu quá trình chuyển đổi dài hạn sang nhà cung cấp nền tảng robot được xác nhận, thì câu chuyện cũng chưa "kết thúc."</strong>
 
 Điều cần lúc này là kiểm chứng, không phải mua thêm. Giữ những gì bạn đang có; hoãn mua thêm cho đến khi phạm vi cung cấp và biên lợi nhuận trở nên có thể quan sát được. Đó là điều mà tỷ suất sinh lời điều chỉnh theo rủi ro yêu cầu ở đây.
 

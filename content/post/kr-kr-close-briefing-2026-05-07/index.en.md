@@ -42,9 +42,9 @@ Arista Networks' (ANET) first-quarter 2026 earnings review, widely circulated in
 
 For Korean investors, the relevance is in the supply chain linkage. The AI networking buildout that Arista is seeing in North American hyperscalers flows directly into demand for:
 
-- **Advanced substrates** (FC-BGA, ABF): Samsung Electro-Mechanics, Simmtech (222800.KS), Daeduck Electronics (353200.KS)
-- **HBM packaging equipment**: Hanmi Semiconductor (042700.KS)
-- **Optical fiber and cable**: Daihan Optical Fiber (085870.KS)
+- <strong>Advanced substrates</strong> (FC-BGA, ABF): Samsung Electro-Mechanics, Simmtech (222800.KS), Daeduck Electronics (353200.KS)
+- <strong>HBM packaging equipment</strong>: Hanmi Semiconductor (042700.KS)
+- <strong>Optical fiber and cable</strong>: Daihan Optical Fiber (085870.KS)
 
 Simmtech (222800.KS) was the standout name in Thursday's screener run, rising 13.54% with simultaneous foreign and institutional net buying — a higher-quality flow profile than most of Thursday's gainers. The stock carries a relative strength score of 95.9.
 
@@ -78,10 +78,10 @@ Thursday's session, however, effectively ignored that risk. Oil prices were stab
 
 The following technical and flow checkpoints are the clearest leading indicators for Korean market direction heading into Friday:
 
-- **Samsung Electronics (005930.KS)**: Does ₩266,000 hold as intraday support? Does foreign selling persist or reverse?
-- **Samsung Electro-Mechanics (009150.KS)**: Can institutional buying sustain above ₩900,000? Any follow-on analyst revisions after the Mirae note would accelerate the re-rating.
-- **Simmtech (222800.KS)**: Does the 13.54% breakout candle attract follow-through buying, or does it fade on profit-taking?
-- **Hanmi Semiconductor (042700.KS)**: CoBuy signal persistence. HBM packaging equipment demand is a multi-quarter story, but near-term price action needs to confirm it.
-- **Pearl Abyss (263750.KS)**: ₩52,000 defense. A second consecutive failed recovery above ₩54,700 would likely trigger further institutional reduction.
+- <strong>Samsung Electronics (005930.KS)</strong>: Does ₩266,000 hold as intraday support? Does foreign selling persist or reverse?
+- <strong>Samsung Electro-Mechanics (009150.KS)</strong>: Can institutional buying sustain above ₩900,000? Any follow-on analyst revisions after the Mirae note would accelerate the re-rating.
+- <strong>Simmtech (222800.KS)</strong>: Does the 13.54% breakout candle attract follow-through buying, or does it fade on profit-taking?
+- <strong>Hanmi Semiconductor (042700.KS)</strong>: CoBuy signal persistence. HBM packaging equipment demand is a multi-quarter story, but near-term price action needs to confirm it.
+- <strong>Pearl Abyss (263750.KS)</strong>: ₩52,000 defense. A second consecutive failed recovery above ₩54,700 would likely trigger further institutional reduction.
 
 The broader regime question for May 8 is whether the "compressed risk-on" session — where only semiconductor and energy leaders participate — broadens into a wider advance, or whether it narrows further as foreign selling in large-caps intensifies. The 56% breadth reading is not yet deteriorating, but the 28 screener exits versus 13 entries is a number worth monitoring.

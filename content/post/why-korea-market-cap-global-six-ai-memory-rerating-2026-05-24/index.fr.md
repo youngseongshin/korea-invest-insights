@@ -8,13 +8,13 @@ tags: ["Why Korea", "KOSPI", "KOSDAQ", "Samsung Electronics", "SK hynix", "HBM",
 series: ["why-korea", "korea-rerating-2026"]
 ---
 
-> **Why Korea Partie 5.** Après les substrats semi-conducteurs, la K-beauty, le levier de bénéfices de Samsung/SK hynix et les flux étrangers vers les ETF coréens, ce texte analyse le nouveau titre de marché : la Corée apparaît désormais près du **sixième rang mondial** par capitalisation boursière.
+> <strong>Why Korea Partie 5.</strong> Après les substrats semi-conducteurs, la K-beauty, le levier de bénéfices de Samsung/SK hynix et les flux étrangers vers les ETF coréens, ce texte analyse le nouveau titre de marché : la Corée apparaît désormais près du <strong>sixième rang mondial</strong> par capitalisation boursière.
 
 ## TL;DR
 
-* La direction est réelle. La WFE indique une capitalisation domestique KRX de **2,67 billions de dollars** en décembre 2025, soit **+71,4%** sur un an en dollars. CEIC affiche **4,03 billions** en février 2026.
-* Le chiffre public de **4,89 billions de dollars / rang mondial n°6 / 190% du PIB** est plausible comme instantané récent, mais le ratio PIB doit être validé méthodologiquement.
-* Le proxy local Research OS estime la capitalisation KRX couverte à environ **6.851 billions de wons** au 22 mai 2026. Samsung Electronics et SK hynix représentent ensemble environ **3.093 billions**, soit **45,1%** du proxy.
+* La direction est réelle. La WFE indique une capitalisation domestique KRX de <strong>2,67 billions de dollars</strong> en décembre 2025, soit <strong>+71,4%</strong> sur un an en dollars. CEIC affiche <strong>4,03 billions</strong> en février 2026.
+* Le chiffre public de <strong>4,89 billions de dollars / rang mondial n°6 / 190% du PIB</strong> est plausible comme instantané récent, mais le ratio PIB doit être validé méthodologiquement.
+* Le proxy local Research OS estime la capitalisation KRX couverte à environ <strong>6.851 billions de wons</strong> au 22 mai 2026. Samsung Electronics et SK hynix représentent ensemble environ <strong>3.093 billions</strong>, soit <strong>45,1%</strong> du proxy.
 * Conclusion : il ne faut pas acheter toute la Corée mécaniquement. Il faut vérifier la durabilité des bénéfices de la mémoire IA et le passage du flux vers les prochains goulets d’étranglement.
 
 ## Le Vrai Moteur
@@ -47,12 +47,12 @@ Si oui, le rang n°6 peut être une étape intermédiaire d’un re-rating struc
 
 | Zone | Lecture |
 |---|---|
-| KOSPI large | **Attendre** |
-| Samsung Electronics | **Watchlist** |
-| SK hynix | **Watchlist / achat sur repli** |
-| Samsung Electro-Mechanics | **Goulet d’étranglement de second rang** : FC-BGA, MLCC, condensateurs silicium |
-| Infrastructure électrique | **Sélectif** |
-| KOSDAQ de qualité | **Conditionnel**, seulement si le breadth et les flux confirment |
+| KOSPI large | <strong>Attendre</strong> |
+| Samsung Electronics | <strong>Watchlist</strong> |
+| SK hynix | <strong>Watchlist / achat sur repli</strong> |
+| Samsung Electro-Mechanics | <strong>Goulet d’étranglement de second rang</strong> : FC-BGA, MLCC, condensateurs silicium |
+| Infrastructure électrique | <strong>Sélectif</strong> |
+| KOSDAQ de qualité | <strong>Conditionnel</strong>, seulement si le breadth et les flux confirment |
 
 ## Conclusion
 

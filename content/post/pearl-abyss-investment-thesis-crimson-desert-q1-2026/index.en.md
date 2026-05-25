@@ -11,7 +11,7 @@ series: ["pearl-abyss-crimson-desert-thesis"]
 
 ## 0. Executive Summary
 
-Pearl Abyss is in the midst of a historic turnaround — from three consecutive years of operating losses to a projected single-quarter operating profit of KRW 200B+ — driven by the global commercial success of **Crimson Desert**, a single-player open-world AAA title developed over seven years. The market has yet to fully price in the magnitude of these earnings.
+Pearl Abyss is in the midst of a historic turnaround — from three consecutive years of operating losses to a projected single-quarter operating profit of KRW 200B+ — driven by the global commercial success of <strong>Crimson Desert</strong>, a single-player open-world AAA title developed over seven years. The market has yet to fully price in the magnitude of these earnings.
 
 | Item | Value |
 |------|-------|
@@ -24,7 +24,7 @@ Pearl Abyss is in the midst of a historic turnaround — from three consecutive 
 | Fair Value Range | KRW 54,000-95,000 |
 | Risk/Reward (at KRW 57,400) | +24% / -6% (approx. 4:1) |
 
-**Core Variant Perception:** The market views Pearl Abyss as "a game stock that sold 4 million copies and is fully priced in." However: (1) Q1 results are likely to exceed consensus by nearly 2x, (2) 5 million copies have effectively been reached with a path to 6 million open, and (3) the current price of KRW 57,400 reflects an excessive discount from macro factors (Middle East tensions, investment warning designation) relative to fundamentals.
+<strong>Core Variant Perception:</strong> The market views Pearl Abyss as "a game stock that sold 4 million copies and is fully priced in." However: (1) Q1 results are likely to exceed consensus by nearly 2x, (2) 5 million copies have effectively been reached with a path to 6 million open, and (3) the current price of KRW 57,400 reflects an excessive discount from macro factors (Middle East tensions, investment warning designation) relative to fundamentals.
 
 ---
 
@@ -32,9 +32,9 @@ Pearl Abyss is in the midst of a historic turnaround — from three consecutive 
 
 ### Argument 1: Q1 Results Are Already Locked In, and the Market Has Not Accurately Reflected Them
 
-**Structure:** Crimson Desert launched on 3/19. Approximately 3.9-4.0 million copies are recognized for revenue by the Q1 close on 3/31. Pearl Abyss's revenue recognition structure approximates the gross method (Principal), with platform commissions recorded separately as operating expenses.
+<strong>Structure:</strong> Crimson Desert launched on 3/19. Approximately 3.9-4.0 million copies are recognized for revenue by the Q1 close on 3/31. Pearl Abyss's revenue recognition structure approximates the gross method (Principal), with platform commissions recorded separately as operating expenses.
 
-**P x Q x C Decomposition:**
+<strong>P x Q x C Decomposition:</strong>
 
 | Scenario | Conservative | Base | Optimistic |
 |----------|-------------|------|-----------|
@@ -42,21 +42,21 @@ Pearl Abyss is in the midst of a historic turnaround — from three consecutive 
 | Accounting ASP | KRW 82,000 | KRW 83,500 | KRW 85,000 |
 | Crimson Desert Reported Revenue | KRW 312B | KRW 334B | KRW 357B |
 | Legacy Business (Black Desert + EVE) | KRW 93B | KRW 96B | KRW 98B |
-| **Total Revenue** | **KRW 405B** | **KRW 430B** | **KRW 455B** |
+| <strong>Total Revenue</strong> | <strong>KRW 405B</strong> | <strong>KRW 430B</strong> | <strong>KRW 455B</strong> |
 | Operating Expenses | KRW 210B | KRW 207B | KRW 205B |
-| **Operating Profit** | **KRW 195B** | **KRW 223B** | **KRW 250B** |
+| <strong>Operating Profit</strong> | <strong>KRW 195B</strong> | <strong>KRW 223B</strong> | <strong>KRW 250B</strong> |
 
-**Premise Verification:**
+<strong>Premise Verification:</strong>
 
-- **Gross Method Basis [Inference]:** Q4 2025 Commissions of KRW 19.2B and Q1 2025 of KRW 17.3B are recorded as independent line items within operating expenses. Cost of Revenue = 0 structure. Historical quarterly commission rates of 20-22% have been consistently maintained.
-- **ASP KRW 83,500 Cross-verification:** Samsung Securities \~KRW 80,000, Meritz \~KRW 84,000, Alinea Analytics $50 (approx. KRW 73,000, Gross/Net unclear). Converges at midpoint.
-- **Dev Cost Expensing [Inference]:** Three consecutive years of operating losses (2023-2025) = development costs reflected in P&L annually. Minimal development cost balance in intangible assets. No significant amortization burden post-launch, so revenue converts almost directly to OP.
+- <strong>Gross Method Basis [Inference]:</strong> Q4 2025 Commissions of KRW 19.2B and Q1 2025 of KRW 17.3B are recorded as independent line items within operating expenses. Cost of Revenue = 0 structure. Historical quarterly commission rates of 20-22% have been consistently maintained.
+- <strong>ASP KRW 83,500 Cross-verification:</strong> Samsung Securities \~KRW 80,000, Meritz \~KRW 84,000, Alinea Analytics $50 (approx. KRW 73,000, Gross/Net unclear). Converges at midpoint.
+- <strong>Dev Cost Expensing [Inference]:</strong> Three consecutive years of operating losses (2023-2025) = development costs reflected in P&L annually. Minimal development cost balance in intangible assets. No significant amortization burden post-launch, so revenue converts almost directly to OP.
 
-**Consensus Gap:**
+<strong>Consensus Gap:</strong>
 
 | Brokerage | Q1 Revenue Est. | Q1 OP Est. | vs. Our Estimate |
 |-----------|----------------|-----------|-----------------|
-| NH Investment (Ahn Jae-min) | KRW 210.6B | KRW 78.6B | **50% below (outdated, based on 3M copies)** |
+| NH Investment (Ahn Jae-min) | KRW 210.6B | KRW 78.6B | <strong>50% below (outdated, based on 3M copies)</strong> |
 | Meritz (Lee Hyo-jin) | KRW 477.5B | KRW 275.2B | Upper bound |
 | Our Estimate (Base) | KRW 430B | KRW 223B | — |
 
@@ -64,7 +64,7 @@ The NH estimate is most widely cited but is based on 3/25 data (3 million copies
 
 ### Argument 2: 5 Million Copies Achieved or Imminent; Path to 6 Million Is Open
 
-**Sales Trajectory:**
+<strong>Sales Trajectory:</strong>
 
 | Segment | Period | Sales Volume | Daily Average |
 |---------|--------|-------------|--------------|
@@ -73,14 +73,14 @@ The NH estimate is most widely cited but is based on 3/25 data (3 million copies
 | 3M to 4M | 8 days | 1M | 125K/day |
 | 4M to 5M | \~10 days [Inference] | 1M | \~100K/day |
 
-**Evidence for 5M Achievement:**
+<strong>Evidence for 5M Achievement:</strong>
 
 - CEO stated at 3/27 AGM: "We will quickly announce 5 million copies sales achievement"
 - KitGuru (overseas media) reported 5M milestone breached (approx. 4/1)
 - 4/6 weekend Steam peak CCU of 236,253 — maintaining 85% of ATH
 - PS5 download charts: US/Canada #2, Asia #1 (March)
 
-**6 Million Scenario (Within April):**
+<strong>6 Million Scenario (Within April):</strong>
 
 Current estimated daily sales of 70-100K x remaining \~22 days = 1.54-2.2M additional copies. From the 5M base, 6.2-7.2M copies achievable by end of April.
 
@@ -89,13 +89,13 @@ Additional catalysts:
 - China accounts for less than 10% of total — the Chinese market is effectively untapped
 - Steam global reviews settling at "Very Positive" (\~85%) reduces friction for new buyers
 
-**Q2 Implications at 6M:**
+<strong>Q2 Implications at 6M:</strong>
 
 Q2 new sales \~2M copies x ASP KRW 83,500 = Crimson Desert Q2 revenue \~KRW 167B. Adding legacy business \~KRW 95B yields Q2 revenue \~KRW 260B, OP \~KRW 110B [Speculation].
 
 ### Argument 3: KRW 57,400 Represents an Excessive Discount to Fundamentals
 
-**Share Price Path:**
+<strong>Share Price Path:</strong>
 
 | Date | Price | Event |
 |------|-------|-------|
@@ -109,28 +109,28 @@ Q2 new sales \~2M copies x ASP KRW 83,500 = Crimson Desert Q2 revenue \~KRW 167B
 The 4/1 to 4/8 correction of -26% breaks down as:
 - Macro: KOSPI -3% crash (4/3), Middle East tensions, oil price surge — gaming stocks overreact
 - Technicals: Investment caution designation (4/1), investment warning anticipated after 60%+ rise in 5 days
-- Fundamental change: **None.** Crimson Desert sales and CCU both remain robust
+- Fundamental change: <strong>None.</strong> Crimson Desert sales and CCU both remain robust
 
 Therefore, KRW 57,400 represents a temporary discount driven by macro + technical factors, not fundamentals. The convergence price once Q1 earnings (a fundamental anchor) are confirmed is Base KRW 65,000-72,000.
 
-**Valuation Matrix:**
+<strong>Valuation Matrix:</strong>
 
 | | PER 10x | PER 12x | PER 13x | PER 14x | PER 16x |
 |---|---------|---------|---------|---------|---------|
 | OP KRW 350B | 42,600 | 51,100 | 55,400 | 59,700 | 68,200 |
 | OP KRW 400B | 48,700 | 58,400 | 63,300 | 68,100 | 77,900 |
-| **OP KRW 420B** | **51,300** | **61,500** | **66,600** | **71,800** | **82,000** |
+| <strong>OP KRW 420B</strong> | <strong>51,300</strong> | <strong>61,500</strong> | <strong>66,600</strong> | <strong>71,800</strong> | <strong>82,000</strong> |
 | OP KRW 450B | 54,800 | 65,800 | 71,200 | 76,700 | 87,700 |
 
 At KRW 57,400, the stock trades at PER 11.2x on OP KRW 420B — a discount to the Korean gaming sector average of 12-15x.
 
 ### Argument 4: Beyond 6M Copies, the IP Expansion Roadmap Becomes Visible, Creating Preconditions for Multiple Re-rating
 
-**Strategic Interpretation of CEO's 3/27 AGM Remarks:**
+<strong>Strategic Interpretation of CEO's 3/27 AGM Remarks:</strong>
 
 The CEO stated a preference for driving additional base game sales through content expansion rather than pursuing expansion pack sales immediately. This references Capcom's Monster Hunter model (free major updates leading to a second curve in base game sales). Short-term paid DLC revenue is delayed, but the strategy maximizes cumulative sales to expand the IP's installed base.
 
-**Re-rating Path:**
+<strong>Re-rating Path:</strong>
 
 | Stage | Timing | Event | PER Impact |
 |-------|--------|-------|-----------|
@@ -139,7 +139,7 @@ The CEO stated a preference for driving additional base game sales through conte
 | Stage 3 | 2027+ | Paid DLC/expansion + multiplayer | 14-18x (recurring revenue transition) |
 | Stage 4 | TBD | Switch 2 port + cross-platform | Additional installed base expansion |
 
-**Important Constraint:** The CEO explicitly stated that paid DLC is on hold for now. Stage 3 entry is at minimum 2027 or later. Pricing in multiple re-rating at this point is premature — 6M+ copies is a "precondition formed," not a "multiple transition confirmed."
+<strong>Important Constraint:</strong> The CEO explicitly stated that paid DLC is on hold for now. Stage 3 entry is at minimum 2027 or later. Pricing in multiple re-rating at this point is premature — 6M+ copies is a "precondition formed," not a "multiple transition confirmed."
 
 ### Argument 5: Switch 2 Port + Console Expansion Exists as Option Value
 
@@ -203,7 +203,7 @@ The PS5 share of \~38% is notably higher than expected. No Korean game company h
 | Advertising | KRW 12.3B | KRW 7.3B | KRW 33.0B | Global AAA launch campaign |
 | D&A | KRW 5.9B | KRW 6.3B | KRW 6.5B | Stable |
 | Etc. | KRW 15.8B | KRW 9.0B | KRW 25.0B | CS/servers/patches/logistics |
-| **Total** | **KRW 103.9B** | **KRW 88.9B** | **KRW 207.0B** | — |
+| <strong>Total</strong> | <strong>KRW 103.9B</strong> | <strong>KRW 88.9B</strong> | <strong>KRW 207.0B</strong> | — |
 
 Commission Rate cross-check: Q1 2025 20.7%, Q2 2025 22.8%, Q4 2025 20.1% => Q1 2026E 20.5% (console share increase offset by Steam tier discounts).
 
@@ -219,18 +219,18 @@ Commission Rate cross-check: Q1 2025 20.7%, Q2 2025 22.8%, Q4 2025 20.1% => Q1 2
 
 ### 2-7. 2026E Full-Year Scenario
 
-**Base Case (Annual Sales 7.8M Copies):**
+<strong>Base Case (Annual Sales 7.8M Copies):</strong>
 
 | | Q1E | Q2E | Q3E | Q4E | 2026E |
 |---|-----|-----|-----|-----|-------|
 | Crimson Desert Sales (New) | 4.0M | 2.0M | 1.0M | 0.8M | 7.8M |
 | Crimson Desert Revenue | KRW 334B | KRW 150B | KRW 80B | KRW 60B | KRW 624B |
 | Legacy Business Revenue | KRW 96B | KRW 95B | KRW 92B | KRW 95B | KRW 378B |
-| **Total Revenue** | **KRW 430B** | **KRW 245B** | **KRW 172B** | **KRW 155B** | **KRW 1,002B** |
-| **Operating Profit** | **KRW 223B** | **KRW 105B** | **KRW 57B** | **KRW 35B** | **KRW 420B** |
+| <strong>Total Revenue</strong> | <strong>KRW 430B</strong> | <strong>KRW 245B</strong> | <strong>KRW 172B</strong> | <strong>KRW 155B</strong> | <strong>KRW 1,002B</strong> |
+| <strong>Operating Profit</strong> | <strong>KRW 223B</strong> | <strong>KRW 105B</strong> | <strong>KRW 57B</strong> | <strong>KRW 35B</strong> | <strong>KRW 420B</strong> |
 | OPM | 51.9% | 42.9% | 33.1% | 22.6% | 41.9% |
 
-**Bull Case (Annual Sales 9.0M Copies, Switch 2 Not Included):**
+<strong>Bull Case (Annual Sales 9.0M Copies, Switch 2 Not Included):</strong>
 
 | | 2026E |
 |---|-------|
@@ -252,7 +252,7 @@ Commission Rate cross-check: Q1 2025 20.7%, Q2 2025 22.8%, Q4 2025 20.1% => Q1 2
 | CDPR | \~$10B | \~35x | \~25x | Witcher 4 in development |
 | Krafton | \~$11B | \~12x | \~9x | PUBG, Korea discount |
 | Netmarble | \~$3.5B | \~15x | \~10x | RF Next |
-| **Pearl Abyss** | **KRW 3.61T** | **\~11x** | **\~8x** | **Crimson Desert hit, KOSDAQ** |
+| <strong>Pearl Abyss</strong> | <strong>KRW 3.61T</strong> | <strong>\~11x</strong> | <strong>\~8x</strong> | <strong>Crimson Desert hit, KOSDAQ</strong> |
 
 Pearl Abyss trades at the lowest multiple among peers. Reasons: (1) KOSDAQ listing discount, (2) foreign ownership at 5.6% — extremely low, (3) discount for one-time package game revenue structure.
 
@@ -261,7 +261,7 @@ Pearl Abyss trades at the lowest multiple among peers. Reasons: (1) KOSDAQ listi
 | Scenario | PER | Rationale | Fair Value |
 |---------|-----|----------|-----------|
 | Bear | 10x | KOSDAQ gaming lower bound, governance discount persists | KRW 51,300 |
-| **Base** | **13x** | **Korean gaming average lower bound, modest foreign inflow** | **KRW 66,700** |
+| <strong>Base</strong> | <strong>13x</strong> | <strong>Korean gaming average lower bound, modest foreign inflow</strong> | <strong>KRW 66,700</strong> |
 | Bull | 16x | Capcom discount, KOSPI transfer listing momentum | KRW 82,000 |
 
 Based on EPS KRW 5,130 x target PER. Base is set at 13x rather than 14x because governance issues (no audit committee, oversight score 14/45, foreign ownership 5.6%) remain unresolved, making 14x+ difficult to justify.
@@ -274,7 +274,7 @@ Based on EPS KRW 5,130 x target PER. Base is set at 13x rather than 14x because 
 | Scenario | EV/EBITDA | Fair EV | Fair Market Cap | Fair Price |
 |---------|-----------|---------|----------------|-----------|
 | Bear | 7x | KRW 3.12T | KRW 3.62T | KRW 56,400 |
-| **Base** | **9x** | **KRW 4.01T** | **KRW 4.51T** | **KRW 70,200** |
+| <strong>Base</strong> | <strong>9x</strong> | <strong>KRW 4.01T</strong> | <strong>KRW 4.51T</strong> | <strong>KRW 70,200</strong> |
 | Bull | 12x | KRW 5.35T | KRW 5.85T | KRW 91,000 |
 
 ### 3-4. Convergence Range
@@ -283,9 +283,9 @@ Based on EPS KRW 5,130 x target PER. Base is set at 13x rather than 14x because 
 |------------|------|------|------|
 | PER-based | 53,900 | 66,700 | 82,000 |
 | EV/EBITDA-based | 56,400 | 70,200 | 91,000 |
-| **Average** | **53,900** | **68,500** | **86,500** |
+| <strong>Average</strong> | <strong>53,900</strong> | <strong>68,500</strong> | <strong>86,500</strong> |
 
-**vs. Current Price KRW 57,400: Base +19%, Bear -6%, Bull +51%**
+<strong>vs. Current Price KRW 57,400: Base +19%, Bear -6%, Bull +51%</strong>
 
 ### 3-5. Key Variable Sensitivity
 
@@ -309,7 +309,7 @@ Based on EPS KRW 5,130 x target PER. Base is set at 13x rather than 14x because 
 |------|---------|
 | Largest Shareholder | Kim Dae-il et al. (10 persons) 37.2-44.2% |
 | Board of Directors | 6 members (4 inside / 2 outside) |
-| Audit Committee | **Absent** |
+| Audit Committee | <strong>Absent</strong> |
 | Oversight Function Score | 14/45 (lowest tier) |
 | Foreign Ownership | 5.57% (vs. Krafton 42.4%, NCSoft 34.8%) |
 
@@ -317,7 +317,7 @@ Based on EPS KRW 5,130 x target PER. Base is set at 13x rather than 14x because 
 
 - Holdings: 2.828M shares (4.4%), \~KRW 162.4B at current price
 - 3rd Commercial Code Amendment (effective 2026.3.6): Mandatory cancellation of existing treasury shares within 18 months
-- **Cancellation deadline: September 6, 2027** (exception if AGM approves retention)
+- <strong>Cancellation deadline: September 6, 2027</strong> (exception if AGM approves retention)
 - Cancellation effect: +4.6% per-share value
 
 ### 4-3. Governance Impact on Valuation
@@ -342,7 +342,7 @@ Fulfilling any one of these opens PER +2-3x upside.
 |--------|-------|------------|-------------|
 | Early-Mid April | Official 5M announcement | 90%+ | +5-10% |
 | Within April | 6M copies reached | 60% | TP upgrade trigger |
-| **May 7** | **Q1 Earnings Release** | **Confirmed** | **Key event. Consensus forced reset, TP upgrades across the board** |
+| <strong>May 7</strong> | <strong>Q1 Earnings Release</strong> | <strong>Confirmed</strong> | <strong>Key event. Consensus forced reset, TP upgrades across the board</strong> |
 | H2 2026 | Switch 2 port official announcement | 40% | PER +1-2x |
 | H2 2026 | Free major content update | 70% | Drives base game re-purchases, confirms long tail |
 | 2027+ | DLC/multiplayer roadmap | 50% | PER re-rating +2-3x |
@@ -367,7 +367,7 @@ Fulfilling any one of these opens PER +2-3x upside.
 
 | Stage | Weight | Condition | Price |
 |-------|--------|----------|-------|
-| **1st Entry** | **30%** | **Current KRW 55,000-58,000 range** | **KRW 57,400** |
+| <strong>1st Entry</strong> | <strong>30%</strong> | <strong>Current KRW 55,000-58,000 range</strong> | <strong>KRW 57,400</strong> |
 | 2nd Add | 30% | Official 5M + weekday CCU >150K | KRW 55,000-62,000 |
 | 3rd Full | 40% | 5/7 Q1 earnings: Crimson Desert revenue >KRW 300B confirmed | Post-earnings |
 
@@ -377,11 +377,11 @@ At KRW 57,400 = PER 11x on Q1 OP of KRW 200B. This is near Bear case (PER 10x, K
 
 ### 6-3. Invalidation (Thesis Kill Conditions)
 
-1. Q1 Crimson Desert Reported Revenue **below KRW 250B** — net method or excessive refunds
-2. Q1 **OPM below 40%** — cost structure misjudged
-3. **End-April Steam 24hr peak CCU below 100K** — long tail thesis collapse
-4. Company announces **major unrelated M&A** — governance risk materialized
-5. CEO announces **capital raise (rights offering/CB)** — financial structure concerns
+1. Q1 Crimson Desert Reported Revenue <strong>below KRW 250B</strong> — net method or excessive refunds
+2. Q1 <strong>OPM below 40%</strong> — cost structure misjudged
+3. <strong>End-April Steam 24hr peak CCU below 100K</strong> — long tail thesis collapse
+4. Company announces <strong>major unrelated M&A</strong> — governance risk materialized
+5. CEO announces <strong>capital raise (rights offering/CB)</strong> — financial structure concerns
 
 ### 6-4. Monitoring Metrics
 
@@ -402,7 +402,7 @@ The following items are critical to thesis conviction but currently unverifiable
 
 | Item | Impact | Resolution |
 |------|--------|-----------|
-| Principal/Agent audit report notes (final gross/net determination) | **Highest** — determines revenue presentation | 5/7 earnings |
+| Principal/Agent audit report notes (final gross/net determination) | <strong>Highest</strong> — determines revenue presentation | 5/7 earnings |
 | Q1 refund rate and net sales adjustment | High — +/-200K copies difference | 5/7 earnings |
 | Platform sales mix (Steam vs PS5 vs Xbox) | Medium — ASP precision | 5/7 earnings or IR |
 | Exact accounting recognized volume as of 3/31 | High — Q1 revenue +/-KRW 15B | 5/7 earnings |
@@ -413,15 +413,15 @@ The following items are critical to thesis conviction but currently unverifiable
 
 ## 8. Portfolio Manager's Final Comment
 
-The essence of this investment is a **bet on information asymmetry.** Q1 results are already locked in, and their magnitude is likely to exceed most analysts' estimates by nearly 2x. The market perceives Pearl Abyss as a "4 million copy game stock," but in reality, the company is likely recording a single-quarter operating profit exceeding KRW 200B — a historic result for Korean gaming.
+The essence of this investment is a <strong>bet on information asymmetry.</strong> Q1 results are already locked in, and their magnitude is likely to exceed most analysts' estimates by nearly 2x. The market perceives Pearl Abyss as a "4 million copy game stock," but in reality, the company is likely recording a single-quarter operating profit exceeding KRW 200B — a historic result for Korean gaming.
 
 KRW 57,400 is a temporary price where macro discount (Middle East tensions, investment warning) has compounded, trading at PER 11x near Bear case levels. However, two structural constraints must be soberly acknowledged.
 
-First, **this is a package game.** The CEO has declared prioritizing free patches over paid DLC, so multiple re-rating (one-time to recurring revenue) is at least a year away. Justifying PER 16x+ at this point requires more evidence.
+First, <strong>this is a package game.</strong> The CEO has declared prioritizing free patches over paid DLC, so multiple re-rating (one-time to recurring revenue) is at least a year away. Justifying PER 16x+ at this point requires more evidence.
 
-Second, **governance is a structural discount factor.** Foreign ownership of 5.6%, absence of an audit committee, and the lowest-tier oversight rating are structural barriers to global capital inflow. Unless resolved, Krafton/Capcom-level multiples cannot be expected.
+Second, <strong>governance is a structural discount factor.</strong> Foreign ownership of 5.6%, absence of an audit committee, and the lowest-tier oversight rating are structural barriers to global capital inflow. Unless resolved, Krafton/Capcom-level multiples cannot be expected.
 
-**Conclusion: The current price is attractive and suitable for an initial entry. However, a staged entry — adding half the position after the 5/7 earnings confirmation — is appropriate. If Q1 OP exceeds KRW 200B, expect convergence to the KRW 65,000-72,000 range. If 6M copies + a content roadmap materialize, aim higher.**
+<strong>Conclusion: The current price is attractive and suitable for an initial entry. However, a staged entry — adding half the position after the 5/7 earnings confirmation — is appropriate. If Q1 OP exceeds KRW 200B, expect convergence to the KRW 65,000-72,000 range. If 6M copies + a content roadmap materialize, aim higher.</strong>
 
 ---
 

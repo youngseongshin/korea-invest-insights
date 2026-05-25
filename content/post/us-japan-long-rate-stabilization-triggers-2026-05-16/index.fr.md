@@ -13,7 +13,7 @@ tags:
 slug: us-japan-long-rate-stabilization-triggers-2026-05-16
 ---
 
-> 📚 **Série Cycle Macro**
+> 📚 <strong>Série Cycle Macro</strong>
 >
 > Article précédent : [Pourquoi tout bouge en même temps — Iran, pétrole, inflation américaine, Chine et Japon comme un seul cycle](/post/2026-q2-macro-cycle-synthesis-2026-05-15/)
 >
@@ -31,13 +31,13 @@ Mon jugement se situe entre les deux. Une stabilisation à court terme est possi
 
 ## Synthèse
 
-* **Situation actuelle** : taux américain à 10 ans à 4,46 %, 30 ans à 5,02 %, japonais à 10 ans à 2,55 % (au plus haut depuis 1997), japonais à 30 ans proche de 4,0 %.
-* **Décomposition des facteurs** : ce n'est pas simplement le produit d'une rhétorique plus dure de la Fed. Les anticipations de taux courts, les primes d'inflation, les primes de terme et les primes d'offre obligataire ont toutes progressé simultanément.
-* **Potentiel de stabilisation** : possible, mais conditionnel. La structure ne se dénouera pas automatiquement avec le temps.
-* **Cinq déclencheurs clés** : normalisation d'Ormuz et baisse du pétrole ; endiguement de la transmission de l'énergie vers le CPI/PPI core américain ; orientations de la BOJ en juin ; redressement de la demande aux adjudications de Treasuries à 10 et 30 ans ; flux de refuge déclenchés par une correction des actifs risqués.
-* **Scénarios à 1–3 mois** : stabilisation rapide 20–25 %, consolidation en range 45–50 %, nouvelle crise 25–30 %.
-* **Variable la plus importante** : la normalisation du transit par Ormuz. Ce seul facteur touche simultanément l'inflation américaine et les prix à l'importation japonais.
-* **Jugement d'investissement** : il est prématuré de parier massivement sur la stabilisation à l'avance. Une entrée progressive après confirmation de deux à trois des cinq déclencheurs est plus défendable.
+* <strong>Situation actuelle</strong> : taux américain à 10 ans à 4,46 %, 30 ans à 5,02 %, japonais à 10 ans à 2,55 % (au plus haut depuis 1997), japonais à 30 ans proche de 4,0 %.
+* <strong>Décomposition des facteurs</strong> : ce n'est pas simplement le produit d'une rhétorique plus dure de la Fed. Les anticipations de taux courts, les primes d'inflation, les primes de terme et les primes d'offre obligataire ont toutes progressé simultanément.
+* <strong>Potentiel de stabilisation</strong> : possible, mais conditionnel. La structure ne se dénouera pas automatiquement avec le temps.
+* <strong>Cinq déclencheurs clés</strong> : normalisation d'Ormuz et baisse du pétrole ; endiguement de la transmission de l'énergie vers le CPI/PPI core américain ; orientations de la BOJ en juin ; redressement de la demande aux adjudications de Treasuries à 10 et 30 ans ; flux de refuge déclenchés par une correction des actifs risqués.
+* <strong>Scénarios à 1–3 mois</strong> : stabilisation rapide 20–25 %, consolidation en range 45–50 %, nouvelle crise 25–30 %.
+* <strong>Variable la plus importante</strong> : la normalisation du transit par Ormuz. Ce seul facteur touche simultanément l'inflation américaine et les prix à l'importation japonais.
+* <strong>Jugement d'investissement</strong> : il est prématuré de parier massivement sur la stabilisation à l'avance. Une entrée progressive après confirmation de deux à trois des cinq déclencheurs est plus défendable.
 
 ---
 

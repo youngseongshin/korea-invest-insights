@@ -12,11 +12,11 @@ Este artículo es una continuación de [Why Korea 5](/post/why-korea-market-cap-
 
 ## Resumen
 
-* Los extranjeros no abandonaron Corea de forma amplia. Redujeron sobre todo **Samsung Electronics y SK hynix**.
-* Según Research OS local DB, entre el 2 de enero y el 22 de mayo de 2026 la venta neta extranjera total fue **-89.2 billones de wones**. Samsung Electronics aportó **-50.4 billones** y SK hynix **-34.4 billones**.
-* Sin esas dos acciones, la venta extranjera neta baja a solo **-4.4 billones de wones**.
-* Samsung subió **+127.6%** YTD pese a la venta extranjera. SK hynix subió **+186.7%**.
-* La conclusión no es “fin de Corea”, sino **distribución en megacaps de memoria de IA y rotación selectiva**.
+* Los extranjeros no abandonaron Corea de forma amplia. Redujeron sobre todo <strong>Samsung Electronics y SK hynix</strong>.
+* Según Research OS local DB, entre el 2 de enero y el 22 de mayo de 2026 la venta neta extranjera total fue <strong>-89.2 billones de wones</strong>. Samsung Electronics aportó <strong>-50.4 billones</strong> y SK hynix <strong>-34.4 billones</strong>.
+* Sin esas dos acciones, la venta extranjera neta baja a solo <strong>-4.4 billones de wones</strong>.
+* Samsung subió <strong>+127.6%</strong> YTD pese a la venta extranjera. SK hynix subió <strong>+186.7%</strong>.
+* La conclusión no es “fin de Corea”, sino <strong>distribución en megacaps de memoria de IA y rotación selectiva</strong>.
 
 ## Lectura de inversión
 

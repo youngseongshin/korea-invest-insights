@@ -12,7 +12,7 @@ Sai lầm dễ mắc nhất khi nói về vận tải Bắc Cực là rơi vào 
 
 Tuyến Đường Biển Phương Bắc chưa phải một xa lộ toàn cầu hoàn chỉnh. Nó mang tính mùa vụ, phụ thuộc vào lớp băng và chịu ràng buộc bởi quyền cấp phép của Nga, hỗ trợ tàu phá băng, bảo hiểm và địa chính trị. Song đây cũng là một lựa chọn công nghiệp thực sự cho Hàn Quốc. Hàn Quốc là nền kinh tế xuất khẩu, có Cảng Busan, có các xưởng đóng tàu đẳng cấp thế giới, và đang bắt đầu liên kết HMM, Bộ Đại dương và Thủy sản, tài chính tàu biển cùng chính sách vùng theo một chương trình nghị sự cụm hàng hải thống nhất.
 
-Câu hỏi đầu tư, do đó, không đơn giản là liệu HMM có gửi một con tàu qua Bắc Cực hay không. Câu hỏi đúng hơn là: **Hàn Quốc có thể biến vận tải Bắc Cực thành một cụm ngành gồm tàu có năng lực cực địa, logistics cảng Busan, tài chính hàng hải, bảo hiểm, dịch vụ pháp lý, nhiên liệu xanh và hạ tầng dữ liệu hàng hải hay không?**
+Câu hỏi đầu tư, do đó, không đơn giản là liệu HMM có gửi một con tàu qua Bắc Cực hay không. Câu hỏi đúng hơn là: <strong>Hàn Quốc có thể biến vận tải Bắc Cực thành một cụm ngành gồm tàu có năng lực cực địa, logistics cảng Busan, tài chính hàng hải, bảo hiểm, dịch vụ pháp lý, nhiên liệu xanh và hạ tầng dữ liệu hàng hải hay không?</strong>
 
 ---
 
@@ -172,7 +172,7 @@ Câu hỏi đúng vì thế không phải "ai gửi con tàu?" mà là "ai giả
 
 Những điểm yếu cũng rõ ràng không kém. Hàn Quốc không kiểm soát tuyến đường. Hành lang Đông Bắc gắn với Nga và các biện pháp trừng phạt. Kinh tế liner container vẫn chưa được kiểm chứng. Đó là lý do tại sao kết luận nên giữ thái độ thận trọng.
 
-**Trước khi có chuyến thử nghiệm thành công, đây là chủ đề chính sách. Trước khi có các chuyến lặp lại, đây là chủ đề đầu tư vốn. Trước khi có hợp đồng hàng hóa thường xuyên, đây chưa phải chủ đề lợi nhuận trực tiếp.** Nhưng nếu chủ đề chính sách trở thành chủ đề đầu tư vốn, các ngành đầu tiên có thể chuyển động nhiều khả năng là đóng tàu, tàu cực địa và hạ tầng xung quanh chúng.
+<strong>Trước khi có chuyến thử nghiệm thành công, đây là chủ đề chính sách. Trước khi có các chuyến lặp lại, đây là chủ đề đầu tư vốn. Trước khi có hợp đồng hàng hóa thường xuyên, đây chưa phải chủ đề lợi nhuận trực tiếp.</strong> Nhưng nếu chủ đề chính sách trở thành chủ đề đầu tư vốn, các ngành đầu tiên có thể chuyển động nhiều khả năng là đóng tàu, tàu cực địa và hạ tầng xung quanh chúng.
 
 ---
 

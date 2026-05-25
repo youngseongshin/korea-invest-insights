@@ -19,7 +19,7 @@ tags:
   - "Capital extranjero"
 ---
 
-> **Serie Why Korea — Parte 4.** [La Parte 1](/post/why-korea-semiconductor-substrate-competitive-edge-2026-05-07/) analizó por qué Corea alberga la mayor parte de la fabricación mundial de sustratos para semiconductores a escala comercial. [La Parte 2](/post/why-korea-cosmetics-global-competitiveness-2026-05-07/) examinó cómo Corea se convirtió en el 2º o 3er exportador mundial de cosméticos sin producir ni una sola casa de lujo. [La Parte 3](/post/samsung-sk-hynix-korea-ai-economy-rerating-2026-05-09/) estudió cómo el pool de beneficios combinado de Samsung y SK hynix, superior a ₩300tn, está transformando la estructura fiscal y del hogar de Corea. Las partes 1 a 3 respondieron "por qué el dinero tiene que llegar a Corea" en los planos industrial, ecosistémico y macroeconómico. **La Parte 4 analiza qué ocurre cuando el dinero llega de verdad** — y produce una paradoja de valoración en la que el PER cae *por debajo* de la media a 10 años mientras el PBR sube *por encima* de ella.
+> <strong>Serie Why Korea — Parte 4.</strong> [La Parte 1](/post/why-korea-semiconductor-substrate-competitive-edge-2026-05-07/) analizó por qué Corea alberga la mayor parte de la fabricación mundial de sustratos para semiconductores a escala comercial. [La Parte 2](/post/why-korea-cosmetics-global-competitiveness-2026-05-07/) examinó cómo Corea se convirtió en el 2º o 3er exportador mundial de cosméticos sin producir ni una sola casa de lujo. [La Parte 3](/post/samsung-sk-hynix-korea-ai-economy-rerating-2026-05-09/) estudió cómo el pool de beneficios combinado de Samsung y SK hynix, superior a ₩300tn, está transformando la estructura fiscal y del hogar de Corea. Las partes 1 a 3 respondieron "por qué el dinero tiene que llegar a Corea" en los planos industrial, ecosistémico y macroeconómico. <strong>La Parte 4 analiza qué ocurre cuando el dinero llega de verdad</strong> — y produce una paradoja de valoración en la que el PER cae *por debajo* de la media a 10 años mientras el PBR sube *por encima* de ella.
 
 *Las entradas en ETFs de Corea en 2026 se sitúan en \~US$6.700M — el nivel más alto en 20 años y más de 3× el dato de 2025. El KOSPI acumula una subida de aproximadamente +50% en el año, el mejor registro entre los principales índices globales. La capitalización bursátil total de ₩6.058tn sitúa a Corea en el 8º lugar mundial — un máximo histórico. Sin embargo, el PER forward es \~8×, por debajo de la media a 10 años de \~10×. El dinero entra a un ritmo récord, pero el múltiplo se comprime. La paradoja es la pregunta central del 2S26: ¿es esto el inicio de la disolución del descuento de Corea, o el techo estructural antes de que un ciclo de revisión de beneficios convierta a Corea en una trampa de valor?*
 
@@ -27,12 +27,12 @@ tags:
 
 ## Resumen ejecutivo
 
-* **Entradas en máximos de 20 años.** Morgan Stanley / Bloomberg hasta el 24 de abril: US$6.700M en lo que va del año en ETFs coreanos. La sesión del KOSPI del 6 de mayo registró ₩3,13tn de compra neta extranjera, elevando el ratio de participación extranjera a su máximo en 6 años.
-* **KOSPI nº 1 global en el año.** El análisis de Deutsche Bank muestra un KOSPI \~+50% en el año — el mejor registro entre los principales índices. Cap total de ₩6.058tn = 8º a nivel mundial, máximo histórico. Máximo intradía de 7.530.
-* **PER forward por debajo de la media a 10 años.** Deutsche Bank: PER fwd del KOSPI \~8× frente a la media a 10 años de \~10×. Entradas + múltiplo *más bajo* ≠ "caro" — es la firma aritmética de unas revisiones de beneficios que se adelantan al precio.
-* **PBR forward por encima de la media a 10 años — y esta es la señal estructural.** PBR \~1,3× frente a la media a 10 años de \~1,0×. El mercado comienza a valorar el valor en libros de forma diferente — un posible primer indicio contable de disolución del descuento de Corea, más que un ciclo de beneficios pasajero.
-* **La única contradicción que merece la pena entender.** El PER cayó mientras el PBR subió. La aritmética exige: el precio subió, pero los beneficios subieron más rápido (el PER se comprimió), y el mercado empezó a asignar un múltiplo más alto al valor en libros (expansión del PBR por expectativas de cambio estructural). El ajuste de beneficios de Samsung / SK hynix es la causa inmediata del primer tramo; el programa Value-up + la reforma de recompras y distribución es la causa inmediata del segundo.
-* **Disolución del descuento o trampa de valor.** Si el BPA de consenso se mantiene durante 1-2 trimestres más, el argumento de la "disolución del descuento de Corea" sigue vivo. Si el consenso de BPA retrocede, el 8× se convierte en "justo dado el deterioro de beneficios" y las entradas que llegaron se convierten en liquidez de salida. **Los próximos 1-2 ciclos de resultados lo decidirán.**
+* <strong>Entradas en máximos de 20 años.</strong> Morgan Stanley / Bloomberg hasta el 24 de abril: US$6.700M en lo que va del año en ETFs coreanos. La sesión del KOSPI del 6 de mayo registró ₩3,13tn de compra neta extranjera, elevando el ratio de participación extranjera a su máximo en 6 años.
+* <strong>KOSPI nº 1 global en el año.</strong> El análisis de Deutsche Bank muestra un KOSPI \~+50% en el año — el mejor registro entre los principales índices. Cap total de ₩6.058tn = 8º a nivel mundial, máximo histórico. Máximo intradía de 7.530.
+* <strong>PER forward por debajo de la media a 10 años.</strong> Deutsche Bank: PER fwd del KOSPI \~8× frente a la media a 10 años de \~10×. Entradas + múltiplo *más bajo* ≠ "caro" — es la firma aritmética de unas revisiones de beneficios que se adelantan al precio.
+* <strong>PBR forward por encima de la media a 10 años — y esta es la señal estructural.</strong> PBR \~1,3× frente a la media a 10 años de \~1,0×. El mercado comienza a valorar el valor en libros de forma diferente — un posible primer indicio contable de disolución del descuento de Corea, más que un ciclo de beneficios pasajero.
+* <strong>La única contradicción que merece la pena entender.</strong> El PER cayó mientras el PBR subió. La aritmética exige: el precio subió, pero los beneficios subieron más rápido (el PER se comprimió), y el mercado empezó a asignar un múltiplo más alto al valor en libros (expansión del PBR por expectativas de cambio estructural). El ajuste de beneficios de Samsung / SK hynix es la causa inmediata del primer tramo; el programa Value-up + la reforma de recompras y distribución es la causa inmediata del segundo.
+* <strong>Disolución del descuento o trampa de valor.</strong> Si el BPA de consenso se mantiene durante 1-2 trimestres más, el argumento de la "disolución del descuento de Corea" sigue vivo. Si el consenso de BPA retrocede, el 8× se convierte en "justo dado el deterioro de beneficios" y las entradas que llegaron se convierten en liquidez de salida. <strong>Los próximos 1-2 ciclos de resultados lo decidirán.</strong>
 
 ---
 
@@ -65,13 +65,13 @@ Media a 10 años: \~1,0×
 → Actualmente por encima de la media
 ```
 
-**Un PER por debajo de la media y un PBR por encima de ella al mismo tiempo es inusual.** Normalmente, las subidas de precio elevan ambos. Aquí, el precio subió lo suficiente como para elevar el PBR, pero las revisiones de beneficios subieron más rápido — por lo que el denominador precio/beneficios creció más que el numerador. El PER se comprimió mientras el PBR se expandía.
+<strong>Un PER por debajo de la media y un PBR por encima de ella al mismo tiempo es inusual.</strong> Normalmente, las subidas de precio elevan ambos. Aquí, el precio subió lo suficiente como para elevar el PBR, pero las revisiones de beneficios subieron más rápido — por lo que el denominador precio/beneficios creció más que el numerador. El PER se comprimió mientras el PBR se expandía.
 
 ### 1.3 Comparación global
 
 | Índice | PER fwd (actual) | PER fwd (media 10a) | PBR fwd (actual) | PBR fwd (media 10a) |
 |---|---:|---:|---:|---:|
-| **KOSPI** | **\~8×** | **\~10×** | **\~1,3×** | **\~1,0×** |
+| <strong>KOSPI</strong> | <strong>\~8×</strong> | <strong>\~10×</strong> | <strong>\~1,3×</strong> | <strong>\~1,0×</strong> |
 | Asia ex-JP | \~12× | \~13× | \~1,9× | \~1,7× |
 | Europa (STOXX 600) | \~14× | \~14× | \~2,1× | \~2,0× |
 | EE. UU. (S&P 500) | \~20× | \~19× | \~4,3× | \~3,7× |
@@ -84,7 +84,7 @@ El KOSPI tiene el PER forward más bajo entre los principales índices regionale
 
 ### 2.1 Por qué se comprimió el PER
 
-PER = precio / BPA. Para reducir el PER hay que bajar el precio o subir los beneficios. El KOSPI subió \~+50% en el año, por lo que el precio no bajó. **Las revisiones de BPA avanzaron más rápido que las ganancias de precio.**
+PER = precio / BPA. Para reducir el PER hay que bajar el precio o subir los beneficios. El KOSPI subió \~+50% en el año, por lo que el precio no bajó. <strong>Las revisiones de BPA avanzaron más rápido que las ganancias de precio.</strong>
 
 El motor inmediato son los semiconductores. Según el Seoul Economic Daily a fecha de 6 de mayo:
 
@@ -102,9 +102,9 @@ PBR = precio / valor en libros por acción. El PBR sube cuando el precio crece m
 
 Que el PBR del KOSPI se sitúe en 1,3× — por encima de la media a 10 años de \~1,0× — admite dos lecturas:
 
-**Lectura A: Efecto precio puro.** El precio se adelantó al valor en libros. Se revierte con una corrección de precios.
+<strong>Lectura A: Efecto precio puro.</strong> El precio se adelantó al valor en libros. Se revierte con una corrección de precios.
 
-**Lectura B: Re-rating estructural.** El mercado empieza a descontar la ejecución del programa Value-up, las cancelaciones de recompras y la reforma de la política de distribución en el múltiplo. El PBR se asienta en un *nuevo nivel normal* — y este es el primer indicio contable coherente con la disolución del descuento de Corea, y no con un ciclo de beneficios pasajero.
+<strong>Lectura B: Re-rating estructural.</strong> El mercado empieza a descontar la ejecución del programa Value-up, las cancelaciones de recompras y la reforma de la política de distribución en el múltiplo. El PBR se asienta en un *nuevo nivel normal* — y este es el primer indicio contable coherente con la disolución del descuento de Corea, y no con un ciclo de beneficios pasajero.
 
 ### 2.3 La aritmética de una "firma de disolución del descuento de Corea"
 
@@ -124,7 +124,7 @@ Para que ambos se den simultáneamente:
 → Subida del precio + prima por expectativas estructurales → el PBR sube
 ```
 
-**La firma en sí es lo que importa.** "Barato en beneficios + con expectativa estructural de generar más valor desde el libro" es exactamente la configuración que adopta un mercado cuando comienza a disolver un descuento de larga data, y no cuando simplemente paga de más por un pico de beneficios cíclicos.
+<strong>La firma en sí es lo que importa.</strong> "Barato en beneficios + con expectativa estructural de generar más valor desde el libro" es exactamente la configuración que adopta un mercado cuando comienza a disolver un descuento de larga data, y no cuando simplemente paga de más por un pico de beneficios cíclicos.
 
 ---
 
@@ -136,9 +136,9 @@ El primer puesto global en el año del KOSPI es, en gran medida, la historia de 
 
 El encuadre de Korea Business Hub es acertado: "trata la exposición al KOSPI como una posición concentrada en semiconductores, no como una apuesta diversificada en Corea." La composición del flujo extranjero lo confirma — grandes bloques concentrados en Samsung Electronics y SK hynix específicamente.
 
-Según el Seoul Economic Daily, solo en mayo se registraron ₩6tn de compra neta extranjera en el sector eléctrico/electrónico. Abril añadió ₩2,3tn. **El dinero entró en semiconductores coreanos más que en Corea como país.**
+Según el Seoul Economic Daily, solo en mayo se registraron ₩6tn de compra neta extranjera en el sector eléctrico/electrónico. Abril añadió ₩2,3tn. <strong>El dinero entró en semiconductores coreanos más que en Corea como país.</strong>
 
-El 7 de mayo se produjo un desarrollo interesante: comenzó una rotación más allá de los semis. Samsung C&T +7,9%, Doosan Enerbility +7,4%, HD Hyundai Heavy +6,9%, Hyundai Motor +4%. **El capital que comenzó en semis empieza a derramarse hacia construcción, energía, astilleros y automoción.**
+El 7 de mayo se produjo un desarrollo interesante: comenzó una rotación más allá de los semis. Samsung C&T +7,9%, Doosan Enerbility +7,4%, HD Hyundai Heavy +6,9%, Hyundai Motor +4%. <strong>El capital que comenzó en semis empieza a derramarse hacia construcción, energía, astilleros y automoción.</strong>
 
 ### 3.2 El programa Value-up — la reforma estructural empieza a moverse
 
@@ -154,7 +154,7 @@ Datos de ISS (2025):
 * ROE de Corea: 7,9%, aún por debajo de EE. UU. (15,5%) y Japón (8,4%)
 * Ratio de reparto coreano: 21,3%, frente al 32% de EE. UU. y el 33% de Japón
 
-La reforma *ha comenzado* — no ha concluido. Dirección correcta, ritmo aún lento. **El mercado paga por la dirección.**
+La reforma *ha comenzado* — no ha concluido. Dirección correcta, ritmo aún lento. <strong>El mercado paga por la dirección.</strong>
 
 ### 3.3 El redescubrimiento de Corea por el capital global
 
@@ -248,7 +248,7 @@ El Value-up de Corea se modeló sobre el de Japón. Las diferencias clave:
 | Cancelación de recompras | Activa | +33% pero aún infrautilizada |
 | Impuesto de sucesiones | Alto pero con débil incentivo a suprimir el precio de la acción | Muy alto, con activo incentivo a suprimir el precio de la acción |
 
-**Misma dirección, ritmo más lento, con obstáculos específicos de Corea** — estructura de los chaebol, fiscalidad de dividendos, fiscalidad de sucesiones.
+<strong>Misma dirección, ritmo más lento, con obstáculos específicos de Corea</strong> — estructura de los chaebol, fiscalidad de dividendos, fiscalidad de sucesiones.
 
 Perspectiva de Janus Henderson: "Las enmiendas al Código Mercantil (incluidas las cancelaciones obligatorias de recompras) y el refuerzo de los deberes fiduciarios están programados. Es probable que los reguladores y la KRX endurezcan el seguimiento del Value-up, clarifiquen los umbrales y mejoren la cadencia de divulgación."
 
@@ -296,11 +296,11 @@ Oriente Medio (EE. UU.-Irán), China-Taiwán, Corea del Norte. El mercado corean
 
 Al releer este artículo en noviembre de 2026, una de tres configuraciones será cierta:
 
-**(1) KOSPI 8.000–9.000.** Los beneficios se mantuvieron o subieron, el Value-up se ejecutó, el flujo extranjero continuó. El "punto de partida de la disolución del descuento" fue la lectura correcta.
+<strong>(1) KOSPI 8.000–9.000.</strong> Los beneficios se mantuvieron o subieron, el Value-up se ejecutó, el flujo extranjero continuó. El "punto de partida de la disolución del descuento" fue la lectura correcta.
 
-**(2) KOSPI 6.000–7.000.** Los beneficios retrocedieron parcialmente pero el PBR se mantuvo por encima de 1,0×. La reforma lenta al estilo japonés avanza. No es una trampa de valor ni un movimiento desbocado — consolidación prolongada.
+<strong>(2) KOSPI 6.000–7.000.</strong> Los beneficios retrocedieron parcialmente pero el PBR se mantuvo por encima de 1,0×. La reforma lenta al estilo japonés avanza. No es una trampa de valor ni un movimiento desbocado — consolidación prolongada.
 
-**(3) KOSPI <5.000.** El BPA se revisó fuertemente a la baja, los extranjeros salieron, la deuda de margen minorista se liquidó. La lectura de trampa de valor era la correcta.
+<strong>(3) KOSPI <5.000.</strong> El BPA se revisó fuertemente a la baja, los extranjeros salieron, la deuda de margen minorista se liquidó. La lectura de trampa de valor era la correcta.
 
 ---
 
@@ -308,9 +308,9 @@ Al releer este artículo en noviembre de 2026, una de tres configuraciones será
 
 [La Parte 1 (sustratos)](/post/why-korea-semiconductor-substrate-competitive-edge-2026-05-07/) trataba la estructura industrial — por qué una parte de la pila de infraestructura de IA está mayoritariamente ubicada en Corea. [La Parte 2 (cosméticos)](/post/why-korea-cosmetics-global-competitiveness-2026-05-07/) trataba la economía del ecosistema — por qué un ciclo de fabricación y venta minorista de iteración rápida sin marca produjo el 2º o 3er país exportador de cosméticos del mundo. [La Parte 3 (Samsung / SK hynix → economía coreana)](/post/samsung-sk-hynix-korea-ai-economy-rerating-2026-05-09/) trataba la retroalimentación macroeconómica — cómo un pool de beneficios de ₩300tn+ de dos empresas mejora la capacidad fiscal y la renta de los hogares a nivel país.
 
-Las partes 1 a 3 respondieron "por qué el dinero tiene que llegar a Corea" en los planos industrial, ecosistémico y macroeconómico. **La Parte 4 es lo que ocurre una vez que el dinero está aquí** — y la paradoja de valoración que produce. Si la lógica de las partes 1 a 3 se traduce en una evolución de precios sostenida o en un falso rebote se reduce a una sola prueba: ¿se mantiene la senda de beneficios de consenso?
+Las partes 1 a 3 respondieron "por qué el dinero tiene que llegar a Corea" en los planos industrial, ecosistémico y macroeconómico. <strong>La Parte 4 es lo que ocurre una vez que el dinero está aquí</strong> — y la paradoja de valoración que produce. Si la lógica de las partes 1 a 3 se traduce en una evolución de precios sostenida o en un falso rebote se reduce a una sola prueba: ¿se mantiene la senda de beneficios de consenso?
 
-Si es así, los argumentos industrial, ecosistémico y macroeconómico de las partes 1 a 3 quedan validados en el precio. Si no, los argumentos estructurales pueden seguir siendo correctos mientras la evolución del precio siga siendo una trampa a corto plazo. **Los dos resultados no son lo mismo — la prueba es si los beneficios previstos se mantienen durante los próximos 1-2 ciclos.**
+Si es así, los argumentos industrial, ecosistémico y macroeconómico de las partes 1 a 3 quedan validados en el precio. Si no, los argumentos estructurales pueden seguir siendo correctos mientras la evolución del precio siga siendo una trampa a corto plazo. <strong>Los dos resultados no son lo mismo — la prueba es si los beneficios previstos se mantienen durante los próximos 1-2 ciclos.</strong>
 
 ---
 
@@ -328,25 +328,25 @@ El hecho de que el PBR esté en 1,3×, por encima de la media a 10 años, es en 
 
 ## Preguntas frecuentes
 
-**P: ¿Qué mide exactamente la cifra de US$6.700M?**
+<strong>P: ¿Qué mide exactamente la cifra de US$6.700M?</strong>
 R: Las entradas en ETFs de Corea en lo que va de 2026, según Morgan Stanley / Bloomberg hasta el 24 de abril. El mayor registro en 20 años, más de 3× el total de 2025. La compra directa del KOSPI fuera de ETFs hace que el número consolidado de flujos extranjeros sea mayor.
 
-**P: ¿Un PER por debajo de la media a 10 años significa automáticamente "barato"?**
+<strong>P: ¿Un PER por debajo de la media a 10 años significa automáticamente "barato"?</strong>
 R: No. El PER puede bajar de dos formas — los beneficios suben más rápido que el precio (constructivo), o el mercado descuenta que los beneficios están a punto de retroceder (la trampa de valor). En 2026 la situación apunta a lo constructivo, pero se invierte en cuanto el BPA de consenso empieza a revisarse a la baja.
 
-**P: ¿Por qué un PBR por encima de la media a 10 años podría ser una señal constructiva?**
+<strong>P: ¿Por qué un PBR por encima de la media a 10 años podría ser una señal constructiva?</strong>
 R: Dos interpretaciones. (1) Efecto precio puro — se revierte con una corrección. (2) El mercado reprecia las trayectorias esperadas de ROE / distribución / gobernanza — se asienta en un nuevo suelo. Japón post-2023 es el precedente de (2). Si Corea sigue el mismo patrón es exactamente la pregunta de este artículo.
 
-**P: ¿Está funcionando realmente el programa Value-up?**
+<strong>P: ¿Está funcionando realmente el programa Value-up?</strong>
 R: Parcialmente sí, aún no al nivel de Japón. Cancelaciones de recompras +33%, participación extranjera prácticamente duplicada. Pero el impuesto sobre dividendos de Corea (\~50%) es mucho más alto que el de Japón (\~20%), y las estructuras de gobernanza de los chaebol y el impuesto de sucesiones siguen siendo obstáculos únicos. "Iniciado pero no terminado" es el encuadre preciso.
 
-**P: ¿Debería alguien comprar el KOSPI ahora?**
+<strong>P: ¿Debería alguien comprar el KOSPI ahora?</strong>
 R: Las decisiones sobre el índice no son atómicas. Si el BPA de consenso se mantiene 1-2 trimestres más, el PER de 8× es un nivel de entrada razonable; si retrocede, la media histórica está más cerca de 7× y el índice puede volver a ese nivel. A nivel de valor individual, la rotación de semis → otros sectores hace que el análisis de flujos por nombre sea más productivo que el timing del índice.
 
-**P: ¿Son el camino de Japón y el de Corea realmente el mismo camino?**
+<strong>P: ¿Son el camino de Japón y el de Corea realmente el mismo camino?</strong>
 R: Misma dirección, diferente ritmo, diferentes obstáculos. La TSE de Japón utilizó una nominación pública semimandatoria; el programa de Corea es voluntario. Sin embargo, Corea tiene en marcha discusiones sobre enmiendas al Código Mercantil y cancelaciones obligatorias de recompras — la dirección regulatoria es comparable.
 
-**P: ¿Cuál es la razón más importante por la que este análisis podría equivocarse?**
+<strong>P: ¿Cuál es la razón más importante por la que este análisis podría equivocarse?</strong>
 R: Un PER de 8× requiere que el BPA de consenso se mantenga. Si los precios de la memoria retroceden en el 2S26 o el capex en IA de EE. UU. se desacelera antes de lo esperado, esa premisa se rompe. Un repricing geopolítico (Oriente Medio, China-Taiwán) también puede provocar reversiones rápidas de flujos extranjeros.
 
 ---

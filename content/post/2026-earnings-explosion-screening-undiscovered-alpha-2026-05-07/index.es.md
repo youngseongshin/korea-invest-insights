@@ -21,19 +21,19 @@ tags:
   - "alpha en small-caps"
 ---
 
-> 🔗 **Lecturas relacionadas**: [Korea Daily Market Hub](/page/korea-daily-market-hub/) · [Korean Semis Rally May 6](/post/korean-semis-rally-may-6-samsung-sk-hynix-substrate-equipment-2026-05-07/) · [Korea Semiconductor HBM Hub](/page/korea-semiconductor-hbm-kospi-hub/)
+> 🔗 <strong>Lecturas relacionadas</strong>: [Korea Daily Market Hub](/page/korea-daily-market-hub/) · [Korean Semis Rally May 6](/post/korean-semis-rally-may-6-samsung-sk-hynix-substrate-equipment-2026-05-07/) · [Korea Semiconductor HBM Hub](/page/korea-semiconductor-hbm-kospi-hub/)
 
-*El filtrado de renta variable coreana con `(2025 BPO > 0) ∧ (2025 BN > 0) ∧ (2026P BPO > 0) ∧ (2026P BN > 0) ∧ (crecimiento BPO 2026P ≥ +80%) ∧ (crecimiento BN 2026P ≥ +80%)` arroja **67 resultados**. El dato llamativo: la mayoría ya se ha movido. La pregunta analítica más difícil no es "¿qué valor del filtro debería comprar?" sino "¿dónde vive el alpha residual entre los 67, y por qué?" Este artículo ancla esa pregunta usando FnGuide como caso de referencia del régimen "post-descubrimiento", y a continuación realiza un análisis en profundidad de los tres nombres con el perfil más claro de estar aún sin descubrir: QRT (validación de fiabilidad de semiconductores), BCnC (localización de materiales para sustratos) y Wirenet (equipos de transmisión 5G-SA).*
+*El filtrado de renta variable coreana con `(2025 BPO > 0) ∧ (2025 BN > 0) ∧ (2026P BPO > 0) ∧ (2026P BN > 0) ∧ (crecimiento BPO 2026P ≥ +80%) ∧ (crecimiento BN 2026P ≥ +80%)` arroja <strong>67 resultados</strong>. El dato llamativo: la mayoría ya se ha movido. La pregunta analítica más difícil no es "¿qué valor del filtro debería comprar?" sino "¿dónde vive el alpha residual entre los 67, y por qué?" Este artículo ancla esa pregunta usando FnGuide como caso de referencia del régimen "post-descubrimiento", y a continuación realiza un análisis en profundidad de los tres nombres con el perfil más claro de estar aún sin descubrir: QRT (validación de fiabilidad de semiconductores), BCnC (localización de materiales para sustratos) y Wirenet (equipos de transmisión 5G-SA).*
 
 ---
 
 ## Resumen Ejecutivo
 
-- **El filtro devolvió 67 nombres — la mayoría ya se ha movido.** Incluso con criterios estrictos (beneficio 2025 positivo + beneficio 2026 proyectado positivo + crecimiento interanual de BPO y BN ≥+80%), 67 empresas cotizadas coreanas superaron el umbral. Más de la mitad acumulan >+50% en el año. El filtro por sí solo no genera alpha; el mercado ya ha descubierto la mayoría de estos nombres.
-- **FnGuide ilustra el régimen "post-descubrimiento" de forma más elocuente.** PER de inicio de año 10× y P/B 1,4× → PER de mayo 38× y P/B 5,45×. Rentabilidad total acumulada +279%. Un negocio genuinamente sólido — infraestructura de datos, índices e información financiera en Corea con un posicionamiento prácticamente monopólico, margen operativo 2025 del 30%, ROE del 15%. Pero al precio actual, el valor ya no es "barato y comprable" — exige que el BPO 2026 alcance \~₩20.000M para estar justificado. Incluso en el repunte generalizado del 6 de mayo, extranjeros e institucionales vendieron neto.
-- **Entre los 67, el subconjunto con menor movimiento relativo**: QRT (acumulado +27–42%), BCnC (+26–33%), Tech Wing (+22%), STI (+20%), DI (+47%), Devsisters (-35%), Alteogen (-21%). "Subir menos" no equivale a "estar infravalorado" — puede ser un descuento justificado. Distinguir ambos casos es el trabajo analítico real.
-- **Prioridad de análisis en profundidad: QRT > BCnC > Wirenet.** QRT sostiene una tesis estructural ("cuanto más complejos se vuelven los chips, más la validación se convierte en el cuello de botella") que se activa en IA / HBM / CXL / RF / espacio — una tesis multivectorial. BCnC tiene una narrativa limpia de localización de materiales, pero PER 42× con ROE del 6,4% — el precio se ha adelantado a la eficiencia del capital. Wirenet sube +118% en el año con ventas netas extranjeras — el mercado ya lo ha descubierto; el alpha adicional requiere confirmación, no descubrimiento.
-- **La lección sobre el propio filtrado**: el filtro es el punto de partida, no el destino. 67 resultados, pero la mayoría ya se ha movido. El alpha reside en **"velocidad de descubrimiento del mercado frente a brecha aún existente"**, que es una pregunta distinta a "¿qué superó el filtro?".
+- <strong>El filtro devolvió 67 nombres — la mayoría ya se ha movido.</strong> Incluso con criterios estrictos (beneficio 2025 positivo + beneficio 2026 proyectado positivo + crecimiento interanual de BPO y BN ≥+80%), 67 empresas cotizadas coreanas superaron el umbral. Más de la mitad acumulan >+50% en el año. El filtro por sí solo no genera alpha; el mercado ya ha descubierto la mayoría de estos nombres.
+- <strong>FnGuide ilustra el régimen "post-descubrimiento" de forma más elocuente.</strong> PER de inicio de año 10× y P/B 1,4× → PER de mayo 38× y P/B 5,45×. Rentabilidad total acumulada +279%. Un negocio genuinamente sólido — infraestructura de datos, índices e información financiera en Corea con un posicionamiento prácticamente monopólico, margen operativo 2025 del 30%, ROE del 15%. Pero al precio actual, el valor ya no es "barato y comprable" — exige que el BPO 2026 alcance \~₩20.000M para estar justificado. Incluso en el repunte generalizado del 6 de mayo, extranjeros e institucionales vendieron neto.
+- <strong>Entre los 67, el subconjunto con menor movimiento relativo</strong>: QRT (acumulado +27–42%), BCnC (+26–33%), Tech Wing (+22%), STI (+20%), DI (+47%), Devsisters (-35%), Alteogen (-21%). "Subir menos" no equivale a "estar infravalorado" — puede ser un descuento justificado. Distinguir ambos casos es el trabajo analítico real.
+- <strong>Prioridad de análisis en profundidad: QRT > BCnC > Wirenet.</strong> QRT sostiene una tesis estructural ("cuanto más complejos se vuelven los chips, más la validación se convierte en el cuello de botella") que se activa en IA / HBM / CXL / RF / espacio — una tesis multivectorial. BCnC tiene una narrativa limpia de localización de materiales, pero PER 42× con ROE del 6,4% — el precio se ha adelantado a la eficiencia del capital. Wirenet sube +118% en el año con ventas netas extranjeras — el mercado ya lo ha descubierto; el alpha adicional requiere confirmación, no descubrimiento.
+- <strong>La lección sobre el propio filtrado</strong>: el filtro es el punto de partida, no el destino. 67 resultados, pero la mayoría ya se ha movido. El alpha reside en <strong>"velocidad de descubrimiento del mercado frente a brecha aún existente"</strong>, que es una pregunta distinta a "¿qué superó el filtro?".
 
 ---
 
@@ -61,13 +61,13 @@ Ordenar la cohorte por rentabilidad en el año revela la observación más impor
 
 | Tramo acumulado | Aprox. número | Nombres representativos |
 | --- | ---: | --- |
-| ≥ +200% | 5+ | Joosung Engineering (+319%), HD Hyundai Energy (+286%), **FnGuide (+279%)**, Amotech (+215%) |
+| ≥ +200% | 5+ | Joosung Engineering (+319%), HD Hyundai Energy (+286%), <strong>FnGuide (+279%)</strong>, Amotech (+215%) |
 | +100% a +200% | 15+ | Daeduck Electronics (+162%), SK Hynix (+137%), Kolon Industries (+125%), Wirenet (+112%), Samsung Electronics (+107%) |
 | +50% a +100% | 15+ | Korea Circuit (+99%), Hooseong (+91%), Nano (+88%), Dongwoon Anatech (+74%), Wonik IPS (+61%) |
-| +0% a +50% | 20+ | **QRT (+27–42%)**, **BCnC (+26–33%)**, Tech Wing (+22%), STI (+20%), Robotis (+15%) |
+| +0% a +50% | 20+ | <strong>QRT (+27–42%)</strong>, <strong>BCnC (+26–33%)</strong>, Tech Wing (+22%), STI (+20%), Robotis (+15%) |
 | Negativo | 6 | Devsisters (-35%), Astera Sys (-22%), Alteogen (-21%), SBS (-17%) |
 
-La lectura en una línea: **más de la mitad de la cohorte de 67 nombres ya acumula >+50% en el año.** Tratar el output del filtro como una lista de compra es estructuralmente tardío.
+La lectura en una línea: <strong>más de la mitad de la cohorte de 67 nombres ya acumula >+50% en el año.</strong> Tratar el output del filtro como una lista de compra es estructuralmente tardío.
 
 ### 1.3 El Subconjunto de Menor Movimiento — Dónde Podría Quedar el Alpha Residual
 
@@ -77,14 +77,14 @@ Candidatos mejor posicionados de este grupo:
 
 | Nombre | Acumulado | BPO 2026P | Crec. BPO | PER 2026P | ¿Por qué menor movimiento? |
 | --- | ---: | ---: | ---: | ---: | --- |
-| **QRT** | +27–42% | ₩10.800M | +125% | 33,3× | La validación de semiconductores aún no está reconocida como "temática" |
-| **BCnC** | +26–33% | ₩10.900M | +180% | 42,0× | La historia de localización de materiales es buena, pero ROE del 6,4% |
+| <strong>QRT</strong> | +27–42% | ₩10.800M | +125% | 33,3× | La validación de semiconductores aún no está reconocida como "temática" |
+| <strong>BCnC</strong> | +26–33% | ₩10.900M | +180% | 42,0× | La historia de localización de materiales es buena, pero ROE del 6,4% |
 | Tech Wing | +22% | — | — | — | Historia silenciosa de beneficios en equipos de test para semis |
 | STI | +20% | — | — | — | Equipos y piezas para semis |
 | Devsisters | -35% | — | — | — | Caída del segmento de juegos seguida de giro — bajo interés del mercado |
 | Alteogen | -21% | — | — | — | Corrección de precio en biotech frente a expectativas |
 
-Tres nombres encabezan este grupo para un análisis en profundidad: **QRT, BCnC, Wirenet**. (Wirenet se incluye desde el tramo +100–200% porque representa el caso contrario de "ya descubierto".)
+Tres nombres encabezan este grupo para un análisis en profundidad: <strong>QRT, BCnC, Wirenet</strong>. (Wirenet se incluye desde el tramo +100–200% porque representa el caso contrario de "ya descubierto".)
 
 ---
 
@@ -99,7 +99,7 @@ Antes del análisis en profundidad de los tres nombres, FnGuide es el caso de re
 | 2 ene | ₩8.690 | 10,0× | 1,44× | 5,1× |
 | 27 feb | ₩20.400 | 23,6× | 3,38× | 12,0× |
 | 30 abr | ₩27.200 | 31,4× | 4,50× | 16,0× |
-| **6 may** | **₩32.900** | **38,0×** | **5,45×** | **19,4×** |
+| <strong>6 may</strong> | <strong>₩32.900</strong> | <strong>38,0×</strong> | <strong>5,45×</strong> | <strong>19,4×</strong> |
 
 En cinco meses, el PER se expandió de 10× a 38× y el P/B de 1,4× a 5,45×. Rentabilidad total acumulada +279%.
 
@@ -163,11 +163,11 @@ Estas cuatro lecciones enmarcan los tres nombres siguientes. "Explosión de bene
 
 ### 3.1 Negocio
 
-QRT en una línea: **un especialista coreano en validación de fiabilidad de semiconductores**. No un fabricante de chips — una empresa que valida si los chips funcionan correctamente.
+QRT en una línea: <strong>un especialista coreano en validación de fiabilidad de semiconductores</strong>. No un fabricante de chips — una empresa que valida si los chips funcionan correctamente.
 
 Hanyang Securities describe a QRT como "una plataforma de validación que realiza simultáneamente evaluación de fiabilidad y análisis integral". KB Securities la clasifica como "la empresa coreana de validación de fiabilidad de semiconductores del mercado doméstico".
 
-La razón por la que esto importa: **cuanto más complejos se vuelven los semiconductores, más la validación se convierte en el cuello de botella**.
+La razón por la que esto importa: <strong>cuanto más complejos se vuelven los semiconductores, más la validación se convierte en el cuello de botella</strong>.
 
 ```
 Los chips de IA se vuelven más complejos → las pilas HBM crecen más → se añaden conexiones CXL
@@ -194,7 +194,7 @@ El número de empresas capaces de realizar esta validación está limitado.
 | PER 2026P | 33,3× |
 | Crecimiento BPO | +125% |
 
-Hanyang Securities estima para 2026P ingresos ₩85.000M y BPO ₩9.450M. El BPO de ₩10.800M de la base de datos local parece un promedio de distintas fuentes. En cualquier caso, **BPO \~₩10.000M es la línea de verificación central para 2026**.
+Hanyang Securities estima para 2026P ingresos ₩85.000M y BPO ₩9.450M. El BPO de ₩10.800M de la base de datos local parece un promedio de distintas fuentes. En cualquier caso, <strong>BPO \~₩10.000M es la línea de verificación central para 2026</strong>.
 
 Un MOU recientemente revelado con Hyperaccel para cooperación en desarrollo de productos de chips de IA y control de calidad en producción en masa es constructivo — pero un MOU no es ingresos.
 
@@ -219,9 +219,9 @@ La tesis "cuanto más complejos se vuelven los chips, más la validación es el 
 
 | Factor | Lectura |
 | --- | --- |
-| **P (precio)** | Las pruebas más complejas en IA / HBM / CXL / RF / espacio tienen mayor precio unitario |
-| **Q (volumen)** | Se expanden clientes, familias de productos y elementos de validación (IA, RF, espacio, conducción autónoma) |
-| **C (coste)** | El aumento de la utilización de equipos + el apalancamiento del personal de análisis impulsan el margen operativo |
+| <strong>P (precio)</strong> | Las pruebas más complejas en IA / HBM / CXL / RF / espacio tienen mayor precio unitario |
+| <strong>Q (volumen)</strong> | Se expanden clientes, familias de productos y elementos de validación (IA, RF, espacio, conducción autónoma) |
+| <strong>C (coste)</strong> | El aumento de la utilización de equipos + el apalancamiento del personal de análisis impulsan el margen operativo |
 
 ### 3.5 Advertencias Honestas
 
@@ -244,7 +244,7 @@ La tesis "cuanto más complejos se vuelven los chips, más la validación es el 
 
 ### 4.1 Negocio
 
-BCnC fabrica piezas consumibles (cuarzo, silicio, cerámica) para procesos de grabado y deposición de semiconductores. La tesis central es la **localización de cuarzo sintético (QD9 / QD9+) y silicio (SD9+)**.
+BCnC fabrica piezas consumibles (cuarzo, silicio, cerámica) para procesos de grabado y deposición de semiconductores. La tesis central es la <strong>localización de cuarzo sintético (QD9 / QD9+) y silicio (SD9+)</strong>.
 
 ```
 Proceso de grabado de semis
@@ -315,7 +315,7 @@ Hana Securities elevó el precio objetivo a ₩25.000 en abril de 2026, con ingr
 | Concepto | Valor |
 | --- | ---: |
 | Cierre 6 may | ₩15.810 |
-| Acumulado | **+118,1%** |
+| Acumulado | <strong>+118,1%</strong> |
 | Rentabilidad 20 días | +41,9% |
 | Rentabilidad 60 días | +100,6% |
 | RSI(14) | 60,2 |
@@ -324,7 +324,7 @@ Hana Securities elevó el precio objetivo a ₩25.000 en abril de 2026, con ingr
 | Margen op. 2026P | 7,5% |
 | PER 2026P | 23,7× |
 | Crecimiento BPO | +358% |
-| 20D extranjeros | **-₩6.500M (venta neta)** |
+| 20D extranjeros | <strong>-₩6.500M (venta neta)</strong> |
 
 ### 5.3 El Problema: Ya Sube +118% en el Año con Venta Neta Extranjera
 
@@ -359,10 +359,10 @@ El margen al objetivo de Hana es amplio. Pero este nombre no es una "infravalora
 | BPO 2026P | ₩10.800M | ₩10.900M | ₩8.700M |
 | PER 2026P | 33,3× | 42,0× | 23,7× |
 | ROE | (sin confirmar) | 6,4% | (sin confirmar) |
-| 20D extranjeros | +₩210M | +₩3.970M | **-₩6.500M** |
+| 20D extranjeros | +₩210M | +₩3.970M | <strong>-₩6.500M</strong> |
 | Fortaleza principal | Expansión IA / RF / espacio, negocio de cuello de botella | Localización de materiales, expansión de clientes | 5G-SA, opción de criptografía cuántica |
 | Debilidad principal | Carga del PER 33× | PER 42× + ROE bajo | Sube +118% ya, flujos débiles |
-| Prioridad | **#1** | **#2** | **#3** |
+| Prioridad | <strong>#1</strong> | <strong>#2</strong> | <strong>#3</strong> |
 
 QRT ocupa el puesto #1 por la tesis estructural multivectorial. IA, HBM, CXL, RF, espacio — cada vector eleva la demanda de validación. La tesis no apuesta por una única dirección; apuesta por múltiples direcciones simultáneamente.
 
@@ -453,7 +453,7 @@ Que 67 nombres superaran el criterio de "explosión de beneficios" es interesant
 
 El filtro de "explosión de beneficios" devolvió 67 nombres. La mayoría ya se ha movido. FnGuide ilustra el régimen "post-descubrimiento" de forma más elocuente — PER 10× → 38×, +279%. Comprar FnGuide hoy bajo el argumento de "explosión de beneficios" es comprar cerca del techo.
 
-El alpha reside en **"velocidad de descubrimiento del mercado frente a brecha aún existente"**, no en el output del filtro en sí. Entre los tres nombres con menor movimiento relativo — QRT (+42%, cuello de botella de validación de semiconductores), BCnC (+33%, localización de materiales), Wirenet (+118%, ya descubierto) — la respuesta a "¿por qué menor movimiento?" es diferente.
+El alpha reside en <strong>"velocidad de descubrimiento del mercado frente a brecha aún existente"</strong>, no en el output del filtro en sí. Entre los tres nombres con menor movimiento relativo — QRT (+42%, cuello de botella de validación de semiconductores), BCnC (+33%, localización de materiales), Wirenet (+118%, ya descubierto) — la respuesta a "¿por qué menor movimiento?" es diferente.
 
 QRT tiene menor movimiento porque "la validación de semiconductores" no ha sido reclamada aún como temática de mercado. Su tesis estructural ("cuanto más complejos se vuelven los chips, más la validación es el cuello de botella") se activa en IA / HBM / CXL / RF / espacio. La historia de localización de materiales de BCnC es conocida, pero PER 42× × ROE 6,4% significa que el precio se ha adelantado. Wirenet con +118% acumulado y extranjeros -₩6.500M a 20 días es momentum en fase tardía — fuerte, pero pasada la etapa de descubrimiento.
 
@@ -463,31 +463,31 @@ Los tres suben +40–50% en las últimas 20 sesiones. No es una zona de "plena c
 
 ## FAQ — Filtro de Explosión de Beneficios en Corea, Mayo 2026
 
-**P: ¿Cuántos valores coreanos superan un filtro de "explosión de beneficios" para 2026?**
+<strong>P: ¿Cuántos valores coreanos superan un filtro de "explosión de beneficios" para 2026?</strong>
 R: A 7 de mayo de 2026: 67 nombres superaron los criterios `(BPO 2025 > 0) ∧ (BN 2025 > 0) ∧ (BPO 2026P > 0) ∧ (BN 2026P > 0) ∧ (crecimiento BPO 2026P ≥ +80%) ∧ (crecimiento BN 2026P ≥ +80%)`. Más de la mitad de esos 67 nombres acumulan >+50% en el año.
 
-**P: ¿Qué es FnGuide y por qué importa como caso de referencia?**
+<strong>P: ¿Qué es FnGuide y por qué importa como caso de referencia?</strong>
 R: FnGuide es una empresa coreana de infraestructura de datos financieros e índices. De inicio de año al 6 de mayo de 2026, su PER se expandió de 10× a 38× y la rentabilidad total alcanzó +279%. Ilustra cómo evoluciona la combinación "explosión de beneficios + múltiplo bajo + buen negocio" bajo el descubrimiento del mercado — y por qué buscar estos nombres mediante un filtro después del evento de re-rating es estructuralmente tardío.
 
-**P: ¿Cotiza QRT (405100) en bolsa?**
+<strong>P: ¿Cotiza QRT (405100) en bolsa?</strong>
 R: Sí — QRT cotiza en el KOSDAQ bajo el ticker 405100. Su negocio principal es la validación de fiabilidad de semiconductores (servicios de pruebas y análisis para fabricantes de chips y diseñadores fabless).
 
-**P: ¿Por qué se considera a QRT estructuralmente interesante?**
+<strong>P: ¿Por qué se considera a QRT estructuralmente interesante?</strong>
 R: La tesis "cuanto más complejos se vuelven los semiconductores, más la validación es el cuello de botella" aplica en IA, HBM, CXL, RF y chips para el espacio. La demanda de validación escala con la complejidad de los chips, y la capacidad de validación es difícil de ampliar en un plazo corto. QRT es un beneficiario multivectorial, no dependiente de un único ciclo de producto.
 
-**P: ¿Cotiza BCnC (146320) en bolsa?**
+<strong>P: ¿Cotiza BCnC (146320) en bolsa?</strong>
 R: Sí — BCnC cotiza en el KOSDAQ bajo el ticker 146320. Fabrica piezas consumibles (cuarzo sintético QD9 / QD9+, silicio SD9+, cerámica CD9) para procesos de grabado y deposición de semiconductores, con una tesis de mejora de márgenes por localización.
 
-**P: ¿Cotiza Wirenet (115440) en bolsa?**
+<strong>P: ¿Cotiza Wirenet (115440) en bolsa?</strong>
 R: Sí — Wirenet cotiza en el KOSDAQ bajo el ticker 115440. Es una empresa coreana de equipos de transmisión en telecomunicaciones con exposición a la transición 5G-SA, la demanda de PTN, la renovación de redes de transmisión y opcionalidad en criptografía cuántica.
 
-**P: ¿Cuál es la small-cap coreana con el alpha más limpio de "explosión de beneficios" en este momento?**
+<strong>P: ¿Cuál es la small-cap coreana con el alpha más limpio de "explosión de beneficios" en este momento?</strong>
 R: Entre los tres analizados aquí, QRT ocupa el primer lugar por la calidad de la tesis estructural (multivectorial, carácter de cuello de botella, capacidad limitada). BCnC ocupa el segundo por la narrativa de localización, pero con PER 42× y ROE 6,4% el múltiplo se ha adelantado. Wirenet ocupa el tercero — momentum fuerte pero ya acumula +118% con venta neta extranjera, más próximo a un trade de evento que a una incorporación estructural.
 
-**P: ¿El output de los 67 nombres del filtro es una lista de compra?**
+<strong>P: ¿El output de los 67 nombres del filtro es una lista de compra?</strong>
 R: No. El filtro es un filtro de partida, no una lista de compra. Más de la mitad de los 67 nombres ya se han movido >+50% en el año. El trabajo analítico real consiste en distinguir "aún sin descubrir" de "con descuento justificado" dentro de la cohorte.
 
-**P: ¿Cuál es la lección más importante del caso de referencia de FnGuide?**
+<strong>P: ¿Cuál es la lección más importante del caso de referencia de FnGuide?</strong>
 R: El re-rating de múltiplo bajo a múltiplo alto comprime el espacio de rentabilidad futura. Un PER que pasa de 10× a 38× en cinco meses significa que el precio actual exige que se materialice la estimación de beneficios más agresiva tan solo para ser "justo". Buscar estos nombres mediante un filtro después del evento de re-rating es estructuralmente tardío.
 
 ---

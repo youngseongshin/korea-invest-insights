@@ -26,19 +26,19 @@ valley_cashtags:
   - 하나마이크론
 ---
 
-> 📚 **US-China Summit Series**
+> 📚 <strong>US-China Summit Series</strong>
 > [Pre-Summit Guide: 10 Agendas for Korean Investors](/post/us-china-summit-korea-investor-guide-2026-05-14/) / [Summit Result: No Grand Bargain](/post/us-china-summit-result-korea-investor-implications-2026-05-15/) / [CloudMatrix Expansion Scenario](/post/cloudmatrix-expansion-korea-alpha-inspection-consumables-2026-05-17/) / [NVIDIA Earnings and Korea's Second-Order Supply Chain](/post/nvidia-earnings-korea-supply-chain-secondary-stocks-2026-05-17/) / [AI-RAN and the Korean Supply Chain](/post/ai-ran-nvidia-earnings-skt-vs-supply-chain-2026-05-17/)
 
 *The May 14-15 Beijing summit was not a grand bargain. It was a managed truce. Washington and Beijing agreed to avoid immediate escalation, but the core issues — semiconductor export controls, rare earths, Taiwan, and tariff structure — were not solved. The more important signal came outside the room. The U.S. cleared H200 exports, but China has not let purchases proceed. Huawei's CloudMatrix 384, meanwhile, shows a different Chinese response: weaker chips offset by more chips, more power, and more optical links. Decoupling is not ending. It is moving into a more expensive equilibrium.*
 
 ## Key Takeaways
 
-* **The summit was a managed truce.** It reduced near-term escalation risk but did not resolve the technology-control structure.
-* **The H200 episode matters more than the communique.** The U.S. has cleared sales to roughly 10 Chinese firms, but reports indicate no H200 chips have shipped because China has not approved purchases.
-* **CloudMatrix 384 is a system-level workaround.** Huawei is not beating NVIDIA at chip efficiency. It is using many more chips, much more power, and a larger optical fabric to reach useful system-level performance.
-* **ITIF's model complicates the "decoupling is bad for Korea" narrative.** In a full semiconductor decoupling scenario, ITIF estimates U.S. firms could lose USD 77B in China-related sales in the first year, while South Korean firms could gain roughly USD 21B.
-* **Korea's exposure is time-dependent.** The short term favors HBM, memory, substrates, MLCC and optical links. The medium term is mixed. The long term brings standard fragmentation, Chinese substitution, and dual-supply-chain costs.
-* **The cleanest second-order alpha is optical interconnect.** The U.S. stack needs more CPO and rack-scale optics; the Chinese stack needs even more optical links because it compensates with scale.
+* <strong>The summit was a managed truce.</strong> It reduced near-term escalation risk but did not resolve the technology-control structure.
+* <strong>The H200 episode matters more than the communique.</strong> The U.S. has cleared sales to roughly 10 Chinese firms, but reports indicate no H200 chips have shipped because China has not approved purchases.
+* <strong>CloudMatrix 384 is a system-level workaround.</strong> Huawei is not beating NVIDIA at chip efficiency. It is using many more chips, much more power, and a larger optical fabric to reach useful system-level performance.
+* <strong>ITIF's model complicates the "decoupling is bad for Korea" narrative.</strong> In a full semiconductor decoupling scenario, ITIF estimates U.S. firms could lose USD 77B in China-related sales in the first year, while South Korean firms could gain roughly USD 21B.
+* <strong>Korea's exposure is time-dependent.</strong> The short term favors HBM, memory, substrates, MLCC and optical links. The medium term is mixed. The long term brings standard fragmentation, Chinese substitution, and dual-supply-chain costs.
+* <strong>The cleanest second-order alpha is optical interconnect.</strong> The U.S. stack needs more CPO and rack-scale optics; the Chinese stack needs even more optical links because it compensates with scale.
 
 ## 1. What the Summit Actually Signaled
 
@@ -90,9 +90,9 @@ But the long-run view is less comfortable. The longer decoupling persists, the m
 
 The right answer is time-segmented:
 
-* **6-12 months**: favorable for Korean memory and AI components.
-* **1-3 years**: mixed, as China substitution begins to pressure pricing and standards.
-* **3-5 years**: structurally riskier, because dual supply chains and fragmented standards raise costs.
+* <strong>6-12 months</strong>: favorable for Korean memory and AI components.
+* <strong>1-3 years</strong>: mixed, as China substitution begins to pressure pricing and standards.
+* <strong>3-5 years</strong>: structurally riskier, because dual supply chains and fragmented standards raise costs.
 
 ## 5. What It Means for Korean Stocks
 
@@ -136,13 +136,13 @@ The alpha is not in saying "decoupling is good" or "decoupling is bad." The alph
 
 ## Sources and Evidence Notes
 
-**Fact**
+<strong>Fact</strong>
 
 * ITIF estimates that in a full decoupling scenario U.S. semiconductor firms could lose about USD 77B of China-related sales in the first year, while South Korean firms could gain about USD 21B.
 * Reuters-cited reporting and Tom's Hardware coverage indicate the U.S. cleared H200 sales to roughly 10 Chinese firms but no chips had shipped as of mid-May.
 * Tom's Hardware and SemiAnalysis-based reporting describe Huawei CloudMatrix 384 as a 384-chip system with roughly 300 PFLOPs BF16 and about 559kW system power.
 
-**Inference**
+<strong>Inference</strong>
 
 * H200 non-shipment is interpreted here as a weakening of the export-license carrot.
 * CloudMatrix 384 is interpreted as a system-level workaround rather than a chip-level victory.

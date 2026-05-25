@@ -15,7 +15,7 @@ valley_cashtag_exclude: ["삼성전자", "SK하이닉스"]
 ## TL;DR
 
 - AIサーバーの受動部品ボトルネックとは、GPUが必要とする電力を安定化・緩衝・フィルタリングする小型部品の高性能化です。
-- NVIDIA DGX GB200ラックは約**120kW**、Lenovo GB300 NVL72はラックあたり**135kW TDP**、最大<strong>155kWピーク</strong>が示されています。([NVIDIA][1], [Lenovo][2])
+- NVIDIA DGX GB200ラックは約<strong>120kW</strong>、Lenovo GB300 NVL72はラックあたり<strong>135kW TDP</strong>、最大<strong>155kWピーク</strong>が示されています。([NVIDIA][1], [Lenovo][2])
 - MLCC、シリコンキャパシタ、インダクタは、AIサーバーの電気的ショックアブソーバーです。
 - 投資上の焦点は汎用MLCCではなく、高容量・低ESR/ESL・低ノイズ・薄型のAIサーバー向け部品です。
 - Samsung Electro-Mechanicsは<strong>MLCC + FC-BGA + シリコンキャパシタ</strong>を同時に持つ点が重要です。
@@ -24,7 +24,7 @@ valley_cashtag_exclude: ["삼성전자", "SK하이닉스"]
 
 AIサーバーをレーシングカーのエンジンだと考えると、GPUはエンジン、HBMは高速燃料タンク、基板は道路です。MLCCとシリコンキャパシタは、エンジンが揺れないようにする精密な燃料圧制御装置です。
 
-TDKはデータセンターの電源経路を **UPS → PSU → IBC → VRM → CPU/GPU電圧** と説明しています。各段階で効率、低リップル、耐熱性、長期信頼性が必要です。([TDK][3])
+TDKはデータセンターの電源経路を <strong>UPS → PSU → IBC → VRM → CPU/GPU電圧</strong> と説明しています。各段階で効率、低リップル、耐熱性、長期信頼性が必要です。([TDK][3])
 
 Samsung Electro-Mechanicsは、GPU/CPUは1V未満で動作し、電流が数十〜数百アンペア単位で急変し得るため、GPU近くの高容量MLCCが電流バッファとして必要になると説明しています。([Samsung Electro-Mechanics][4])
 

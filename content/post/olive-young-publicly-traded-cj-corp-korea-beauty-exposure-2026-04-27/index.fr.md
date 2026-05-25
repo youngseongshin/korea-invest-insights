@@ -9,21 +9,21 @@ tags: ["olive-young", "cj-olive-young", "cj-corporation", "001040", "cj-cheiljed
 
 ## En bref
 
-- **Olive Young n'est pas cotée en bourse.** Il s'agit d'une filiale privée du groupe CJ, formellement dénommée **CJ Olive Young Corp.**, issue d'une scission de CJ Olive Networks en 2019.
-- Le meilleur **proxy indirect** est **CJ Corporation (001040.KS)** — la holding qui détient environ **51,2 %** de CJ Olive Young. Les enfants du président Lee Jay-hyun détiennent directement environ **\~22 %** supplémentaires, le reste étant aux mains d'investisseurs financiers depuis un tour de table pré-IPO en 2021.
-- **CJ CheilJedang (097950.KS) n'est pas un vecteur direct d'exposition à Olive Young.** C'est la branche agroalimentaire et biotechnologique du groupe (Bibigo, lysine, méthionine). Le lien se limite à "même groupe, entité cotée différente."
-- **L'introduction en bourse d'Olive Young a été reportée au moins deux fois** (annulée en 2022 ; revue stratégique ultérieure). En avril 2026, aucune date de cotation n'est confirmée.
-- Pour les investisseurs souhaitant une **exposition directe à la K-beauty** (plutôt qu'une part décotée via une holding), les valeurs cotées mieux alignées sont **AmorePacific, LG H&H, Cosmax, Kolmar Korea** ainsi que certains spécialistes ODM/marques. Cadre complet ci-dessous.
+- <strong>Olive Young n'est pas cotée en bourse.</strong> Il s'agit d'une filiale privée du groupe CJ, formellement dénommée <strong>CJ Olive Young Corp.</strong>, issue d'une scission de CJ Olive Networks en 2019.
+- Le meilleur <strong>proxy indirect</strong> est <strong>CJ Corporation (001040.KS)</strong> — la holding qui détient environ <strong>51,2 %</strong> de CJ Olive Young. Les enfants du président Lee Jay-hyun détiennent directement environ <strong>\~22 %</strong> supplémentaires, le reste étant aux mains d'investisseurs financiers depuis un tour de table pré-IPO en 2021.
+- <strong>CJ CheilJedang (097950.KS) n'est pas un vecteur direct d'exposition à Olive Young.</strong> C'est la branche agroalimentaire et biotechnologique du groupe (Bibigo, lysine, méthionine). Le lien se limite à "même groupe, entité cotée différente."
+- <strong>L'introduction en bourse d'Olive Young a été reportée au moins deux fois</strong> (annulée en 2022 ; revue stratégique ultérieure). En avril 2026, aucune date de cotation n'est confirmée.
+- Pour les investisseurs souhaitant une <strong>exposition directe à la K-beauty</strong> (plutôt qu'une part décotée via une holding), les valeurs cotées mieux alignées sont <strong>AmorePacific, LG H&H, Cosmax, Kolmar Korea</strong> ainsi que certains spécialistes ODM/marques. Cadre complet ci-dessous.
 
 ---
 
 ## 1. La réponse directe
 
-**Non, Olive Young n'est cotée sur aucune bourse.**
+<strong>Non, Olive Young n'est cotée sur aucune bourse.</strong>
 
-Les requêtes du type "olive young est-elle cotée" ou "action olive young" aboutissent ici pour une raison structurelle — l'entreprise bénéficie de la **notoriété d'une société cotée** (premier détaillant H&B de Corée, expansion sur Amazon US, viralité sur TikTok) mais du **statut juridique d'une filiale privée.** Les investisseurs particuliers étrangers cherchent un ticker, n'en trouvent pas, et concluent soit (a) "j'achète la maison mère" soit (b) "je mise sur un autre nom de la K-beauty." Ces deux pistes méritent d'être nuancées.
+Les requêtes du type "olive young est-elle cotée" ou "action olive young" aboutissent ici pour une raison structurelle — l'entreprise bénéficie de la <strong>notoriété d'une société cotée</strong> (premier détaillant H&B de Corée, expansion sur Amazon US, viralité sur TikTok) mais du <strong>statut juridique d'une filiale privée.</strong> Les investisseurs particuliers étrangers cherchent un ticker, n'en trouvent pas, et concluent soit (a) "j'achète la maison mère" soit (b) "je mise sur un autre nom de la K-beauty." Ces deux pistes méritent d'être nuancées.
 
-**Identité juridique :**
+<strong>Identité juridique :</strong>
 
 | Élément | Valeur |
 |---|---|
@@ -31,7 +31,7 @@ Les requêtes du type "olive young est-elle cotée" ou "action olive young" abou
 | Groupe actionnaire ultime | CJ Group |
 | Actionnaire direct (contrôle) | CJ Corporation (001040.KS) |
 | Généalogie | Scindée de CJ Olive Networks en 2019 |
-| Cotée ? | **Non** |
+| Cotée ? | <strong>Non</strong> |
 | Dernière tentative d'IPO | 2022 (retrait) |
 | Opération en capital depuis | Tour de table pré-IPO 2021 (Glenwood / investisseurs financiers) ; discussions sur des cessions secondaires rapportées vers 2023–2024 |
 
@@ -39,14 +39,14 @@ Les requêtes du type "olive young est-elle cotée" ou "action olive young" abou
 
 ## 2. Pourquoi la question revient sans cesse
 
-Olive Young est passée d'une chaîne nationale à une **plateforme mondiale de distribution K-beauty** dans la fenêtre post-COVID :
+Olive Young est passée d'une chaîne nationale à une <strong>plateforme mondiale de distribution K-beauty</strong> dans la fenêtre post-COVID :
 
-- **Domination du marché intérieur** après le retrait effectif des concurrents (Lalavla / GS, Lohbs / Lotte) de la catégorie H&B en Corée — Olive Young est désormais l'acteur incontournable du secteur.
-- **Effet tourisme entrant** — le flagship de Myeongdong est devenu une étape obligatoire pour les voyageurs chinois, japonais et d'Asie du Sud-Est ; les volumes de détaxe ont bondi.
-- **Canal digital transfrontalier** — `globalolive.young.co.kr` livre dans plus de 150 pays, et la marque se positionne activement sur TikTok / Instagram aux États-Unis, au Japon, au Vietnam et en Indonésie.
-- **Moteur de marques propres / exclusives** — Olive Young n'est plus un simple distributeur ; c'est aussi un **incubateur de marques** (ex. wakemake, Bring Green, Round A'Round) et un **canal de lancement exclusif** pour les marques K-beauty émergentes souhaitant tester leurs produits localement avant un déploiement mondial.
+- <strong>Domination du marché intérieur</strong> après le retrait effectif des concurrents (Lalavla / GS, Lohbs / Lotte) de la catégorie H&B en Corée — Olive Young est désormais l'acteur incontournable du secteur.
+- <strong>Effet tourisme entrant</strong> — le flagship de Myeongdong est devenu une étape obligatoire pour les voyageurs chinois, japonais et d'Asie du Sud-Est ; les volumes de détaxe ont bondi.
+- <strong>Canal digital transfrontalier</strong> — `globalolive.young.co.kr` livre dans plus de 150 pays, et la marque se positionne activement sur TikTok / Instagram aux États-Unis, au Japon, au Vietnam et en Indonésie.
+- <strong>Moteur de marques propres / exclusives</strong> — Olive Young n'est plus un simple distributeur ; c'est aussi un <strong>incubateur de marques</strong> (ex. wakemake, Bring Green, Round A'Round) et un <strong>canal de lancement exclusif</strong> pour les marques K-beauty émergentes souhaitant tester leurs produits localement avant un déploiement mondial.
 
-C'est exactement le profil que les investisseurs particuliers américains, européens et d'Asie du Sud-Est souhaitent posséder. Le problème : **il n'existe pas de ticker Olive Young.**
+C'est exactement le profil que les investisseurs particuliers américains, européens et d'Asie du Sud-Est souhaitent posséder. Le problème : <strong>il n'existe pas de ticker Olive Young.</strong>
 
 ---
 
@@ -54,31 +54,31 @@ C'est exactement le profil que les investisseurs particuliers américains, europ
 
 CJ Corporation est la holding cotée en tête du groupe CJ. Sa participation dans CJ Olive Young en constitue le principal bloc.
 
-**Structure actionnariale approximative (niveaux déclarés publiquement)**
+<strong>Structure actionnariale approximative (niveaux déclarés publiquement)</strong>
 
 | Actionnaire | Part (approx.) |
 |---|---:|
-| CJ Corporation (001040.KS) | **\~51,2 %** |
+| CJ Corporation (001040.KS) | <strong>\~51,2 %</strong> |
 | Lee Sun-ho (fils du président) | \~11,0 % |
 | Lee Kyung-hoo (fille du président) | \~4,6 % |
 | Glenwood / investisseurs financiers coréens (tour pré-IPO 2021) | solde, avec transactions secondaires depuis |
 
 (Les pourcentages sont des niveaux déclarés et ont évolué à chaque opération en capital ; l'essentiel reste stable : CJ Corp majoritaire + famille Lee significative + flottant institutionnel.)
 
-**Ce que détient réellement CJ Corp (au-delà d'Olive Young)**
+<strong>Ce que détient réellement CJ Corp (au-delà d'Olive Young)</strong>
 
 CJ Corp est une holding dont la valeur d'actif net (VAN) est la somme des participations dans :
 
-- **CJ CheilJedang** (agroalimentaire / biotech — Bibigo, acides aminés fermentés)
-- **CJ ENM** (divertissement — TVING, Mnet, Studio Dragon)
-- **CJ Logistics**
-- **CJ Olive Young** (premier H&B de Corée)
-- **CJ Freshway** (restauration B2B)
+- <strong>CJ CheilJedang</strong> (agroalimentaire / biotech — Bibigo, acides aminés fermentés)
+- <strong>CJ ENM</strong> (divertissement — TVING, Mnet, Studio Dragon)
+- <strong>CJ Logistics</strong>
+- <strong>CJ Olive Young</strong> (premier H&B de Corée)
+- <strong>CJ Freshway</strong> (restauration B2B)
 - Filiales mineures
 
-Détenir CJ Corp revient donc à obtenir **une part décotée d'Olive Young, plus tout le reste.** C'est à la fois l'attrait et la limite de cette approche.
+Détenir CJ Corp revient donc à obtenir <strong>une part décotée d'Olive Young, plus tout le reste.</strong> C'est à la fois l'attrait et la limite de cette approche.
 
-**Illustration de la décote holding**
+<strong>Illustration de la décote holding</strong>
 
 Si l'on ne recherchait *que* l'exposition Olive Young, CJ Corp offre :
 
@@ -89,20 +89,20 @@ Exposition effective à Olive Young par ₩ investie dans CJ Corp
   × (1 − décote holding)
 ```
 
-Les holdings coréennes se négocient historiquement avec une **décote de 30 à 50 %** par rapport à leur VAN. Ainsi, même si la valorisation intrinsèque d'Olive Young progresse, votre action CJ Corp n'en capte qu'une fraction décotée. À l'inverse, lorsque le marché réévalue les holdings coréennes (par exemple lors d'un cycle Value-Up ou de réformes de gouvernance — cf. contexte de "surperformance coréenne" d'avril 2026), CJ Corp peut surperformer la croissance sous-jacente d'Olive Young grâce à la compression de la décote.
+Les holdings coréennes se négocient historiquement avec une <strong>décote de 30 à 50 %</strong> par rapport à leur VAN. Ainsi, même si la valorisation intrinsèque d'Olive Young progresse, votre action CJ Corp n'en capte qu'une fraction décotée. À l'inverse, lorsque le marché réévalue les holdings coréennes (par exemple lors d'un cycle Value-Up ou de réformes de gouvernance — cf. contexte de "surperformance coréenne" d'avril 2026), CJ Corp peut surperformer la croissance sous-jacente d'Olive Young grâce à la compression de la décote.
 
 ---
 
 ## 4. Pourquoi CJ CheilJedang n'est *pas* un proxy direct Olive Young
 
-CJ CheilJedang (097950.KS) est l'affilié CJ le plus recherché en anglais, notamment en raison de la présence de Bibigo dans la grande distribution américaine. **C'est une entité cotée distincte, sans lien opérationnel avec Olive Young.**
+CJ CheilJedang (097950.KS) est l'affilié CJ le plus recherché en anglais, notamment en raison de la présence de Bibigo dans la grande distribution américaine. <strong>C'est une entité cotée distincte, sans lien opérationnel avec Olive Young.</strong>
 
 | Aspect | CJ Corporation | CJ CheilJedang | CJ Olive Young |
 |---|---|---|---|
-| Cotée ? | Oui (001040.KS) | Oui (097950.KS) | **Non** |
+| Cotée ? | Oui (001040.KS) | Oui (097950.KS) | <strong>Non</strong> |
 | Activité | Holding | Agroalimentaire / biotech | Distribution H&B + marques |
 | Participation directe dans OY | \~51,2 % | Aucune | — |
-| Utile pour l'exposition OY ? | **Oui (indirect)** | **Non** | — |
+| Utile pour l'exposition OY ? | <strong>Oui (indirect)</strong> | <strong>Non</strong> | — |
 
 Si un résultat de moteur de recherche vous recommande "d'acheter CJ CheilJedang pour vous exposer à Olive Young", c'est inexact. CheilJedang est une société agroalimentaire et bioscientifique avec sa propre thèse d'investissement (prix de la lysine, Bibigo aux États-Unis, cycle de la méthionine).
 
@@ -112,41 +112,41 @@ Si un résultat de moteur de recherche vous recommande "d'acheter CJ CheilJedang
 
 Chronologie synthétique :
 
-- **2019** — CJ Olive Young se sépare de CJ Olive Networks via une scission et devient une entité juridique autonome.
-- **2021** — Clôture du tour de table pré-IPO ; des investisseurs financiers (consortium conduit par Glenwood selon les sources) prennent une participation minoritaire ; les discussions de valorisation se situaient alors dans la fourchette **₩1,5–1,8T**.
-- **2022** — Olive Young dépose un dossier de cotation sur le KOSPI. L'opération est **retirée** en raison de conditions de marché défavorables et d'un écart de valorisation.
-- **2023–2024** — Des rapports évoquent périodiquement des options stratégiques, notamment une **cession de bloc de la participation familiale**, une offre secondaire Olive Young, ou une **nouvelle fenêtre d'IPO**. Certains mentionnent **Goldman Sachs** comme conseil sur les options de structure de capital. Aucune de ces pistes n'a abouti à une cotation confirmée.
-- **2026 (situation actuelle)** — Olive Young reste privée. Les résultats opérationnels continuent de progresser fortement (chiffre d'affaires dépassant la barre des ₩4T, marge opérationnelle à deux chiffres). **Aucune date de cotation confirmée.**
+- <strong>2019</strong> — CJ Olive Young se sépare de CJ Olive Networks via une scission et devient une entité juridique autonome.
+- <strong>2021</strong> — Clôture du tour de table pré-IPO ; des investisseurs financiers (consortium conduit par Glenwood selon les sources) prennent une participation minoritaire ; les discussions de valorisation se situaient alors dans la fourchette <strong>₩1,5–1,8T</strong>.
+- <strong>2022</strong> — Olive Young dépose un dossier de cotation sur le KOSPI. L'opération est <strong>retirée</strong> en raison de conditions de marché défavorables et d'un écart de valorisation.
+- <strong>2023–2024</strong> — Des rapports évoquent périodiquement des options stratégiques, notamment une <strong>cession de bloc de la participation familiale</strong>, une offre secondaire Olive Young, ou une <strong>nouvelle fenêtre d'IPO</strong>. Certains mentionnent <strong>Goldman Sachs</strong> comme conseil sur les options de structure de capital. Aucune de ces pistes n'a abouti à une cotation confirmée.
+- <strong>2026 (situation actuelle)</strong> — Olive Young reste privée. Les résultats opérationnels continuent de progresser fortement (chiffre d'affaires dépassant la barre des ₩4T, marge opérationnelle à deux chiffres). <strong>Aucune date de cotation confirmée.</strong>
 
-**Pourquoi ce retard importe pour les investisseurs**
+<strong>Pourquoi ce retard importe pour les investisseurs</strong>
 
-1. **La valorisation a vraisemblablement progressé.** Le repère pré-IPO 2021 de ₩1,5–1,8T est obsolète. Chaque année supplémentaire de croissance du chiffre d'affaires et d'expansion des marges à deux chiffres rehausse la valorisation implicite à l'IPO, ce qui accroît la VAN de CJ Corp — mais cette valeur ne se matérialise que si le marché réévalue la holding.
-2. **La structure actionnariale de la génération suivante compte.** La participation personnelle de \~11 % de Lee Sun-ho est significative. Toute future IPO suivie d'une cession secondaire constitue un vecteur de **cristallisation du patrimoine familial**, incitation structurelle pour le groupe CJ à pousser la cotation.
-3. **Contexte favorable du Value-Up coréen.** Avec les réformes de gouvernance et le scénario de réévaluation 2026 (progression du KOSPI depuis le début de l'année, compression des décotes de holding), la **fenêtre pour une IPO d'Olive Young s'est matériellement améliorée** par rapport à l'environnement de 2022.
+1. <strong>La valorisation a vraisemblablement progressé.</strong> Le repère pré-IPO 2021 de ₩1,5–1,8T est obsolète. Chaque année supplémentaire de croissance du chiffre d'affaires et d'expansion des marges à deux chiffres rehausse la valorisation implicite à l'IPO, ce qui accroît la VAN de CJ Corp — mais cette valeur ne se matérialise que si le marché réévalue la holding.
+2. <strong>La structure actionnariale de la génération suivante compte.</strong> La participation personnelle de \~11 % de Lee Sun-ho est significative. Toute future IPO suivie d'une cession secondaire constitue un vecteur de <strong>cristallisation du patrimoine familial</strong>, incitation structurelle pour le groupe CJ à pousser la cotation.
+3. <strong>Contexte favorable du Value-Up coréen.</strong> Avec les réformes de gouvernance et le scénario de réévaluation 2026 (progression du KOSPI depuis le début de l'année, compression des décotes de holding), la <strong>fenêtre pour une IPO d'Olive Young s'est matériellement améliorée</strong> par rapport à l'environnement de 2022.
 
-**Lecture recommandée :** la bonne façon d'appréhender CJ Corp aujourd'hui est celle d'une **holding détenant un actif phare encore non coté, environ 50 % plus grand et structurellement mieux positionné qu'au moment du dernier essai d'IPO avorté.**
+<strong>Lecture recommandée :</strong> la bonne façon d'appréhender CJ Corp aujourd'hui est celle d'une <strong>holding détenant un actif phare encore non coté, environ 50 % plus grand et structurellement mieux positionné qu'au moment du dernier essai d'IPO avorté.</strong>
 
 ---
 
 ## 6. Les valeurs cotées mieux alignées sur la K-Beauty
 
-Si votre objectif réel est une **exposition à la K-beauty** plutôt qu'à "Olive Young spécifiquement", des options plus lisibles existent. Cinq catégories :
+Si votre objectif réel est une <strong>exposition à la K-beauty</strong> plutôt qu'à "Olive Young spécifiquement", des options plus lisibles existent. Cinq catégories :
 
 ### Catégorie A — Champions de marques établies
 
 | Ticker | Société | Profil |
 |---|---|---|
-| **090430.KS** | AmorePacific | Sulwhasoo, Laneige, Innisfree. Reprise Chine + rotation US/Japon. |
-| **051900.KS** | LG H&H | Whoo, Su:m37°, Belif. Premium duty-free + diversification boissons/HBA. |
+| <strong>090430.KS</strong> | AmorePacific | Sulwhasoo, Laneige, Innisfree. Reprise Chine + rotation US/Japon. |
+| <strong>051900.KS</strong> | LG H&H | Whoo, Su:m37°, Belif. Premium duty-free + diversification boissons/HBA. |
 
-Ce sont les grands noms historiques de la K-beauty. Ils offrent une exposition directe aux marques premium sans décote de holding, mais présentent aussi un **bêta tourisme Chine** qui a été volatile.
+Ce sont les grands noms historiques de la K-beauty. Ils offrent une exposition directe aux marques premium sans décote de holding, mais présentent aussi un <strong>bêta tourisme Chine</strong> qui a été volatile.
 
 ### Catégorie B — Marques indépendantes & grand public (cotées)
 
 | Ticker | Société | Profil |
 |---|---|---|
-| **214150.KS** | ClassysB / indépendants divers | Appareils skin + combinaisons cosmétiques. |
-| **214450.KS** | Pharmaresearch | Rejuran (booster cutané). Halo K-beauty clinique. |
+| <strong>214150.KS</strong> | ClassysB / indépendants divers | Appareils skin + combinaisons cosmétiques. |
+| <strong>214450.KS</strong> | Pharmaresearch | Rejuran (booster cutané). Halo K-beauty clinique. |
 
 Les valeurs indépendantes / soins cliniques ont tendance à surfer davantage sur les cycles TikTok américains et japonais que les marques patrimoniales.
 
@@ -154,25 +154,25 @@ Les valeurs indépendantes / soins cliniques ont tendance à surfer davantage su
 
 | Ticker | Société | Profil |
 |---|---|---|
-| **192820.KS** | Cosmax | ODM K-beauty mondial. Fabricant derrière de nombreuses marques indépendantes / MDD vendues *via* Olive Young. |
-| **161890.KS** | Kolmar Korea | L'autre moitié du duopole ODM de la K-beauty. |
+| <strong>192820.KS</strong> | Cosmax | ODM K-beauty mondial. Fabricant derrière de nombreuses marques indépendantes / MDD vendues *via* Olive Young. |
+| <strong>161890.KS</strong> | Kolmar Korea | L'autre moitié du duopole ODM de la K-beauty. |
 
-Les ODM constituent souvent le **meilleur vecteur pur de la vague K-beauty** — ils fabriquent pour quiconque remporte le cycle des marques, y compris les lignes MDD d'Olive Young et les marques indépendantes sur ses rayons. Risque marque plus faible, sensibilité plus élevée au taux d'utilisation des capacités.
+Les ODM constituent souvent le <strong>meilleur vecteur pur de la vague K-beauty</strong> — ils fabriquent pour quiconque remporte le cycle des marques, y compris les lignes MDD d'Olive Young et les marques indépendantes sur ses rayons. Risque marque plus faible, sensibilité plus élevée au taux d'utilisation des capacités.
 
 ### Catégorie D — Exposition aux marques via M&A stratégique
 
-- **COSRX** — Acquis par **Kolmar BNH (200130.KS)** en 2021 ; Kolmar BNH est un proxy coté pour la success-story COSRX sur Amazon US.
+- <strong>COSRX</strong> — Acquis par <strong>Kolmar BNH (200130.KS)</strong> en 2021 ; Kolmar BNH est un proxy coté pour la success-story COSRX sur Amazon US.
 - D'autres acquisitions de marques par des groupes coréens de cosmétiques cotés ont lieu régulièrement ; à suivre via les dépôts DART.
 
 ### Catégorie E — Holdings indirectes (où Olive Young se situe réellement)
 
-- **CJ Corporation (001040.KS)** — le proxy holding Olive Young lui-même.
+- <strong>CJ Corporation (001040.KS)</strong> — le proxy holding Olive Young lui-même.
 
 ### Cadre de décision rapide
 
 | Votre objectif | Meilleure approche |
 |---|---|
-| Potentiel pur Olive Young | **CJ Corporation (001040.KS)** + accepter la décote holding, surveiller le catalyseur IPO |
+| Potentiel pur Olive Young | <strong>CJ Corporation (001040.KS)</strong> + accepter la décote holding, surveiller le catalyseur IPO |
 | Cycle marques premium K-beauty | AmorePacific / LG H&H |
 | Cycle indépendants + TikTok US | Cosmax / Kolmar Korea (ODMs) |
 | Bestseller Amazon US spécifiquement | Kolmar BNH (COSRX) |
@@ -184,14 +184,14 @@ Les ODM constituent souvent le **meilleur vecteur pur de la vague K-beauty** —
 
 Pour comprendre *pourquoi* Olive Young génère autant d'intérêt auprès des investisseurs, voici les grandes lignes de son profil opérationnel (niveaux déclarés publiquement / suivis par la profession) :
 
-- **Part de marché H&B coréen** — dominante ; les concurrents Lalavla / Lohbs ont effectivement abandonné la catégorie H&B physique.
-- **Nombre de points de vente** — bien au-delà de 1 300 boutiques domestiques, dont plusieurs flagships.
-- **Canal en ligne** — Olive Young Online + globalolive.young.co.kr représentent ensemble une part significative et croissante du chiffre d'affaires total.
-- **Marques propres / exclusives** — wakemake, Bring Green, Round A'Round, biome et d'autres sont des marques *incubées par Olive Young*, à la fois ancres de rayon et leviers de marge.
-- **Tourisme entrant** — les flagships Olive Young de type Myeongdong figurent dans le top 3 des destinations commerciales des visiteurs étrangers selon plusieurs offices du tourisme.
-- **Échelle de chiffre d'affaires** — au-delà des ₩4T, avec une croissance annuelle significative sur les cycles 2024–2025 (suivi sectoriel).
+- <strong>Part de marché H&B coréen</strong> — dominante ; les concurrents Lalavla / Lohbs ont effectivement abandonné la catégorie H&B physique.
+- <strong>Nombre de points de vente</strong> — bien au-delà de 1 300 boutiques domestiques, dont plusieurs flagships.
+- <strong>Canal en ligne</strong> — Olive Young Online + globalolive.young.co.kr représentent ensemble une part significative et croissante du chiffre d'affaires total.
+- <strong>Marques propres / exclusives</strong> — wakemake, Bring Green, Round A'Round, biome et d'autres sont des marques *incubées par Olive Young*, à la fois ancres de rayon et leviers de marge.
+- <strong>Tourisme entrant</strong> — les flagships Olive Young de type Myeongdong figurent dans le top 3 des destinations commerciales des visiteurs étrangers selon plusieurs offices du tourisme.
+- <strong>Échelle de chiffre d'affaires</strong> — au-delà des ₩4T, avec une croissance annuelle significative sur les cycles 2024–2025 (suivi sectoriel).
 
-En d'autres termes : **cet actif, s'il était coté, serait déjà l'une des plus grandes valeurs non technologiques du KOSPI.** C'est la taille du bloc non coté qui réside dans la VAN de CJ Corporation.
+En d'autres termes : <strong>cet actif, s'il était coté, serait déjà l'une des plus grandes valeurs non technologiques du KOSPI.</strong> C'est la taille du bloc non coté qui réside dans la VAN de CJ Corporation.
 
 ---
 
@@ -199,27 +199,27 @@ En d'autres termes : **cet actif, s'il était coté, serait déjà l'une des plu
 
 Ce pari n'est pas une option gratuite. Risques spécifiques :
 
-1. **La décote holding reste élevée.** Si la dynamique Value-Up coréenne s'essouffle, les décotes de holding peuvent se maintenir à 35–50 % indéfiniment, plafonnant la transmission de la valeur Olive Young aux actionnaires de CJ Corp.
-2. **Pas de cristallisation via une IPO.** Sans cotation, la valeur "marquée" d'Olive Young reste une donnée comptable interne. La réévaluation publique ne se produit qu'avec un catalyseur public (IPO, grande cession secondaire, scission stratégique).
-3. **Les autres actifs de CJ Corp diluent l'effet.** CJ ENM et CJ CheilJedang subissent leurs propres pressions cycliques (cycle du divertissement, prix de la lysine, change). Une mauvaise année chez une filiale peut compenser la progression d'Olive Young.
-4. **Surplomb de la participation familiale.** Les participations directes de la famille Lee dans Olive Young (distinctes de la part de CJ Corp) signifient qu'une future IPO pourrait générer une **offre secondaire familiale** que les marchés intégreront peut-être par anticipation.
-5. **Bêta tourisme entrant.** Olive Young est structurellement exposée à la reprise des visiteurs chinois ; les scénarios défavorables sur les relations Corée–Chine affectent une part réelle de la croissance de l'actif.
-6. **Disruption des canaux.** Les dynamiques TikTok US / Amazon peuvent soit accélérer la croissance (si le canal globalolive.young.co.kr d'Olive Young monte en puissance) soit la menacer (si les marques coréennes indépendantes contournent Olive Young pour s'adresser directement aux distributeurs occidentaux).
+1. <strong>La décote holding reste élevée.</strong> Si la dynamique Value-Up coréenne s'essouffle, les décotes de holding peuvent se maintenir à 35–50 % indéfiniment, plafonnant la transmission de la valeur Olive Young aux actionnaires de CJ Corp.
+2. <strong>Pas de cristallisation via une IPO.</strong> Sans cotation, la valeur "marquée" d'Olive Young reste une donnée comptable interne. La réévaluation publique ne se produit qu'avec un catalyseur public (IPO, grande cession secondaire, scission stratégique).
+3. <strong>Les autres actifs de CJ Corp diluent l'effet.</strong> CJ ENM et CJ CheilJedang subissent leurs propres pressions cycliques (cycle du divertissement, prix de la lysine, change). Une mauvaise année chez une filiale peut compenser la progression d'Olive Young.
+4. <strong>Surplomb de la participation familiale.</strong> Les participations directes de la famille Lee dans Olive Young (distinctes de la part de CJ Corp) signifient qu'une future IPO pourrait générer une <strong>offre secondaire familiale</strong> que les marchés intégreront peut-être par anticipation.
+5. <strong>Bêta tourisme entrant.</strong> Olive Young est structurellement exposée à la reprise des visiteurs chinois ; les scénarios défavorables sur les relations Corée–Chine affectent une part réelle de la croissance de l'actif.
+6. <strong>Disruption des canaux.</strong> Les dynamiques TikTok US / Amazon peuvent soit accélérer la croissance (si le canal globalolive.young.co.kr d'Olive Young monte en puissance) soit la menacer (si les marques coréennes indépendantes contournent Olive Young pour s'adresser directement aux distributeurs occidentaux).
 
 ---
 
 ## 9. Conclusion
 
-**La réponse exacte à "Olive Young est-elle cotée ?" est : Non, et la bonne question suivante est : qu'essayez-vous réellement de posséder ?**
+<strong>La réponse exacte à "Olive Young est-elle cotée ?" est : Non, et la bonne question suivante est : qu'essayez-vous réellement de posséder ?</strong>
 
-- Si vous visez **Olive Young spécifiquement**, votre seul accès public est **CJ Corporation (001040.KS)** — acceptez la décote holding, suivez le calendrier d'IPO, considérez la position comme un combo Value-Up + catalyseur IPO.
-- Si vous visez **la K-beauty comme tendance**, ignorez l'impulsion du moteur de recherche consistant à trouver un ticker Olive Young et construisez plutôt votre exposition via AmorePacific / LG H&H (marques), Cosmax / Kolmar Korea (ODMs), et Kolmar BNH / COSRX (bestsellers Amazon US spécifiquement).
-- Si vous visez une **exposition large au groupe CJ** (agroalimentaire, divertissement, logistique, beauté), CJ Corporation reste le point d'entrée mono-ticker.
-- **Évitez** l'idée reçue selon laquelle CJ CheilJedang offre une exposition à Olive Young — ce n'est pas le cas.
+- Si vous visez <strong>Olive Young spécifiquement</strong>, votre seul accès public est <strong>CJ Corporation (001040.KS)</strong> — acceptez la décote holding, suivez le calendrier d'IPO, considérez la position comme un combo Value-Up + catalyseur IPO.
+- Si vous visez <strong>la K-beauty comme tendance</strong>, ignorez l'impulsion du moteur de recherche consistant à trouver un ticker Olive Young et construisez plutôt votre exposition via AmorePacific / LG H&H (marques), Cosmax / Kolmar Korea (ODMs), et Kolmar BNH / COSRX (bestsellers Amazon US spécifiquement).
+- Si vous visez une <strong>exposition large au groupe CJ</strong> (agroalimentaire, divertissement, logistique, beauté), CJ Corporation reste le point d'entrée mono-ticker.
+- <strong>Évitez</strong> l'idée reçue selon laquelle CJ CheilJedang offre une exposition à Olive Young — ce n'est pas le cas.
 
-L'élément le plus sous-estimé de ce tableau d'ensemble est qu'**Olive Young est matériellement plus grande et plus rentable qu'au moment de la tentative d'IPO de 2022**, tandis que la décote holding de CJ Corporation ne s'est pas encore significativement réduite. Quelle que soit la prochaine fenêtre d'introduction en bourse — 2026, 2027 ou 2028 — la **reconnaissance de la VAN** d'Olive Young constitue un événement réel pour les actionnaires de CJ Corporation.
+L'élément le plus sous-estimé de ce tableau d'ensemble est qu'<strong>Olive Young est matériellement plus grande et plus rentable qu'au moment de la tentative d'IPO de 2022</strong>, tandis que la décote holding de CJ Corporation ne s'est pas encore significativement réduite. Quelle que soit la prochaine fenêtre d'introduction en bourse — 2026, 2027 ou 2028 — la <strong>reconnaissance de la VAN</strong> d'Olive Young constitue un événement réel pour les actionnaires de CJ Corporation.
 
-En attendant, la réponse la plus claire à la recherche en anglais est celle par laquelle nous avons commencé : **Non, Olive Young n'est pas cotée en bourse. La façon la plus proche d'y accéder reste CJ Corporation (001040.KS).**
+En attendant, la réponse la plus claire à la recherche en anglais est celle par laquelle nous avons commencé : <strong>Non, Olive Young n'est pas cotée en bourse. La façon la plus proche d'y accéder reste CJ Corporation (001040.KS).</strong>
 
 ---
 
@@ -255,7 +255,7 @@ En attendant, la réponse la plus claire à la recherche en anglais est celle pa
 
 ---
 
-**Avertissement** : Cet article est un commentaire de recherche, et non un conseil en investissement. Les pourcentages de participation et les détails de la structure du capital sont basés sur des niveaux publiquement déclarés et peuvent avoir évolué à l'occasion d'opérations en capital ultérieures. Les tickers cités sont présentés à titre illustratif dans le cadre d'exposition à la K-beauty, et ne constituent pas des recommandations. Effectuez vos propres analyses et consultez des conseillers agréés avant toute décision d'investissement.
+<strong>Avertissement</strong> : Cet article est un commentaire de recherche, et non un conseil en investissement. Les pourcentages de participation et les détails de la structure du capital sont basés sur des niveaux publiquement déclarés et peuvent avoir évolué à l'occasion d'opérations en capital ultérieures. Les tickers cités sont présentés à titre illustratif dans le cadre d'exposition à la K-beauty, et ne constituent pas des recommandations. Effectuez vos propres analyses et consultez des conseillers agréés avant toute décision d'investissement.
 
 ---
 

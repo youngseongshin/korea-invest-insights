@@ -23,11 +23,11 @@ slug: samsung-electronics-strike-vs-memory-supercycle-2026-05-15
 
 ## Những điểm cốt lõi
 
-* **Tình hình hiện tại**: Công đoàn Samsung Electronics đã thông báo tổng đình công từ ngày 21/5 đến 7/6. Yêu cầu cốt lõi: trả thưởng cố định bằng 15% lợi nhuận hoạt động của bộ phận DS (bán dẫn), đồng thời xóa bỏ mức trần thưởng 50% lương cơ bản. Các cơ chế ngăn chặn vẫn còn hiệu lực: hòa giải NLRC ngày 16/5, lệnh của tòa án, và quyền phán quyết khẩn cấp của chính phủ.
-* **Ước tính thiệt hại**: JP Morgan ước tính 21–35 nghìn tỷ KRW; ước tính từ ngành công nghiệp theo Yonhap lên tới 100 nghìn tỷ KRW. Khoảng cách lớn phản ánh những ẩn số về mức độ tham gia, gián đoạn dây chuyền, và thời gian khởi động lại.
-* **Logic bù đắp bằng giá**: Với DRAM +58–63% và NAND +70–75% trong quý 2, một mức sụt giảm sản xuất 1–2% về mặt toán học hoàn toàn có thể bù đắp. JP Morgan duy trì mục tiêu 350.000 KRW dựa trên cơ sở này.
-* **Nhưng sự bù đắp không hoàn toàn**: (1) chi phí lao động cơ cấu từ công thức thưởng không thể che lấp bằng giá; (2) nếu khách hàng chuyển đơn hàng sang SK hynix hoặc Micron, Samsung sẽ hưởng lợi ít hơn từ đà tăng giá.
-* **Câu hỏi thực sự**: không phải "đình công hay không đình công," mà là **"công thức chia sẻ lợi nhuận thay đổi như thế nào — đó mới là điều quan trọng hơn cho định giá trung và dài hạn."**
+* <strong>Tình hình hiện tại</strong>: Công đoàn Samsung Electronics đã thông báo tổng đình công từ ngày 21/5 đến 7/6. Yêu cầu cốt lõi: trả thưởng cố định bằng 15% lợi nhuận hoạt động của bộ phận DS (bán dẫn), đồng thời xóa bỏ mức trần thưởng 50% lương cơ bản. Các cơ chế ngăn chặn vẫn còn hiệu lực: hòa giải NLRC ngày 16/5, lệnh của tòa án, và quyền phán quyết khẩn cấp của chính phủ.
+* <strong>Ước tính thiệt hại</strong>: JP Morgan ước tính 21–35 nghìn tỷ KRW; ước tính từ ngành công nghiệp theo Yonhap lên tới 100 nghìn tỷ KRW. Khoảng cách lớn phản ánh những ẩn số về mức độ tham gia, gián đoạn dây chuyền, và thời gian khởi động lại.
+* <strong>Logic bù đắp bằng giá</strong>: Với DRAM +58–63% và NAND +70–75% trong quý 2, một mức sụt giảm sản xuất 1–2% về mặt toán học hoàn toàn có thể bù đắp. JP Morgan duy trì mục tiêu 350.000 KRW dựa trên cơ sở này.
+* <strong>Nhưng sự bù đắp không hoàn toàn</strong>: (1) chi phí lao động cơ cấu từ công thức thưởng không thể che lấp bằng giá; (2) nếu khách hàng chuyển đơn hàng sang SK hynix hoặc Micron, Samsung sẽ hưởng lợi ít hơn từ đà tăng giá.
+* <strong>Câu hỏi thực sự</strong>: không phải "đình công hay không đình công," mà là <strong>"công thức chia sẻ lợi nhuận thay đổi như thế nào — đó mới là điều quan trọng hơn cho định giá trung và dài hạn."</strong>
 
 ---
 
@@ -35,7 +35,7 @@ slug: samsung-electronics-strike-vs-memory-supercycle-2026-05-15
 
 ### 1.1 Quy mô cuộc đình công
 
-Công đoàn đã thông báo **tổng đình công 18 ngày** từ ngày 21/5 đến 7/6. Dự kiến có tới **50.000 nhân viên** tham gia — rủi ro đình công lớn nhất mà Samsung Electronics từng đối mặt.
+Công đoàn đã thông báo <strong>tổng đình công 18 ngày</strong> từ ngày 21/5 đến 7/6. Dự kiến có tới <strong>50.000 nhân viên</strong> tham gia — rủi ro đình công lớn nhất mà Samsung Electronics từng đối mặt.
 
 Các phiên hòa giải NLRC ngày 11–12/5 đã đổ vỡ vào rạng sáng ngày 13/5. Lập trường của công đoàn: "Nếu không có thể chế hóa cụ thể, không có lý do gì để đàm phán."
 
@@ -63,11 +63,11 @@ Tại sao điều này quan trọng:
 
 ### 1.3 Tại sao vấn đề này bùng phát
 
-**Thứ nhất, khoảng cách thu nhập so với SK hynix.** Sau thành công HBM, SK hynix đã mở rộng đáng kể thưởng cho nhân viên. Trong cùng ngành bộ nhớ, nhân viên Samsung cảm thấy mình được trả thấp hơn tương đối.
+<strong>Thứ nhất, khoảng cách thu nhập so với SK hynix.</strong> Sau thành công HBM, SK hynix đã mở rộng đáng kể thưởng cho nhân viên. Trong cùng ngành bộ nhớ, nhân viên Samsung cảm thấy mình được trả thấp hơn tương đối.
 
-**Thứ hai, nguồn lợi nhuận quá lớn để bỏ qua.** Chỉ riêng lợi nhuận hoạt động DS quý 1 đã là 53,7 nghìn tỷ KRW với biên lợi nhuận 65,7%. Khi lợi nhuận dư lớn như vậy, câu hỏi "ai được hưởng" trở nên không thể né tránh về mặt chính trị.
+<strong>Thứ hai, nguồn lợi nhuận quá lớn để bỏ qua.</strong> Chỉ riêng lợi nhuận hoạt động DS quý 1 đã là 53,7 nghìn tỷ KRW với biên lợi nhuận 65,7%. Khi lợi nhuận dư lớn như vậy, câu hỏi "ai được hưởng" trở nên không thể né tránh về mặt chính trị.
 
-**Thứ ba, sản xuất nhà máy bán dẫn đặc biệt dễ bị tổn thương.** Nhà máy bán dẫn vận hành liên tục 24/7. Dừng sản xuất đồng nghĩa với phế thải wafer, giảm năng suất, và mất nhiều thời gian để khởi động lại. Ngay cả *nguy cơ* đình công đã ảnh hưởng đến hoạt động. Báo chí đưa tin Samsung đã bắt đầu "làm nguội" — cắt giảm wafer starts mới để chuẩn bị.
+<strong>Thứ ba, sản xuất nhà máy bán dẫn đặc biệt dễ bị tổn thương.</strong> Nhà máy bán dẫn vận hành liên tục 24/7. Dừng sản xuất đồng nghĩa với phế thải wafer, giảm năng suất, và mất nhiều thời gian để khởi động lại. Ngay cả *nguy cơ* đình công đã ảnh hưởng đến hoạt động. Báo chí đưa tin Samsung đã bắt đầu "làm nguội" — cắt giảm wafer starts mới để chuẩn bị.
 
 ---
 
@@ -108,7 +108,7 @@ nên đừng áp dụng máy móc.
 
 ### 3.1 JP Morgan nói gì
 
-Trong báo cáo ngày 13/5, JP Morgan (nhóm của Jay Kwon) duy trì **Overweight, mục tiêu 350.000 KRW**. Lập luận cốt lõi: "Giá bộ nhớ mạnh hơn kỳ vọng và có thể hấp thụ phần lớn thiệt hại đình công."
+Trong báo cáo ngày 13/5, JP Morgan (nhóm của Jay Kwon) duy trì <strong>Overweight, mục tiêu 350.000 KRW</strong>. Lập luận cốt lõi: "Giá bộ nhớ mạnh hơn kỳ vọng và có thể hấp thụ phần lớn thiệt hại đình công."
 
 | Hạng mục | JP Morgan |
 | --- | ---: |
@@ -136,7 +136,7 @@ Nếu mức thiệt hại sản xuất là 1–2%:
 ∴ Với thiệt hại sản xuất TRỰC TIẾP, phép tính bù đắp hoàn toàn khớp.
 ```
 
-Phép tính quan trọng hơn — mức tăng giá **"dư" so với kỳ vọng trước đó**:
+Phép tính quan trọng hơn — mức tăng giá <strong>"dư" so với kỳ vọng trước đó</strong>:
 
 ```
 Kỳ vọng trước: DRAM +45%, NAND +45% (điểm giữa)
@@ -153,9 +153,9 @@ NAND: 1,725 / 1,45 - 1 = +19,0%
 
 ### 3.3 Cái đúng và cái còn thiếu
 
-**Đúng**: thiệt hại sản xuất trực tiếp (\~1–2% doanh thu DS) được mức tăng giá bao phủ thoải mái. Ước tính quý 2 thực tế có thể tăng lên. **Với lợi nhuận ngắn hạn, logic của JP Morgan đứng vững.**
+<strong>Đúng</strong>: thiệt hại sản xuất trực tiếp (\~1–2% doanh thu DS) được mức tăng giá bao phủ thoải mái. Ước tính quý 2 thực tế có thể tăng lên. <strong>Với lợi nhuận ngắn hạn, logic của JP Morgan đứng vững.</strong>
 
-**Ba điều còn thiếu**:
+<strong>Ba điều còn thiếu</strong>:
 
 ```
 1. Chi phí lao động cơ cấu không phải vấn đề "giá".
@@ -193,10 +193,10 @@ NAND: 1,725 / 1,45 - 1 = +19,0%
 
 | Ngày | Sự kiện | Ý nghĩa |
 | --- | --- | --- |
-| **15/5, 10:00** | Hạn chót phản hồi của CEO tới công đoàn | Có thể thay đổi không khí đàm phán |
-| **16/5** | Hòa giải NLRC tiếp theo mở lại | Cửa sổ đàm phán chính thức cuối cùng |
-| **Khoảng 20/5** | Phán quyết của tòa về lệnh cấm | Nhân sự thiết yếu có bị loại trừ không |
-| **21/5** | Ngày bắt đầu đình công | Tỷ lệ tham gia thực tế là yếu tố quyết định |
+| <strong>15/5, 10:00</strong> | Hạn chót phản hồi của CEO tới công đoàn | Có thể thay đổi không khí đàm phán |
+| <strong>16/5</strong> | Hòa giải NLRC tiếp theo mở lại | Cửa sổ đàm phán chính thức cuối cùng |
+| <strong>Khoảng 20/5</strong> | Phán quyết của tòa về lệnh cấm | Nhân sự thiết yếu có bị loại trừ không |
+| <strong>21/5</strong> | Ngày bắt đầu đình công | Tỷ lệ tham gia thực tế là yếu tố quyết định |
 
 ### 4.2 Dừng hoàn toàn là khó xảy ra
 
@@ -217,7 +217,7 @@ Van chặn 4: Lợi ích của chính hai bên
 → Chính phủ: bán dẫn chiếm 37% xuất khẩu tháng 4 — rủi ro kinh tế quốc gia
 ```
 
-**Kịch bản cơ sở: dừng hoàn toàn nhiều khả năng sẽ không xảy ra.** Nhưng "không dừng" và "không rủi ro" là hai điều khác nhau.
+<strong>Kịch bản cơ sở: dừng hoàn toàn nhiều khả năng sẽ không xảy ra.</strong> Nhưng "không dừng" và "không rủi ro" là hai điều khác nhau.
 
 ---
 
@@ -227,9 +227,9 @@ Van chặn 4: Lợi ích của chính hai bên
 
 | Kịch bản | Mô tả | Tác động giá |
 | --- | --- | --- |
-| **A. Giải quyết / đình chỉ** | Tránh được đình công qua hòa giải NLRC hoặc can thiệp của chính phủ. Thưởng vẫn trong khuôn khổ OPI hiện tại + khoản thưởng đặc biệt | **Hồi phục ngắn hạn** — loại bỏ phần bù rủi ro, chu kỳ bộ nhớ trở lại tâm điểm |
-| **B. Đình công một phần** | Một số nhân viên bỏ việc; dây chuyền quan trọng được duy trì; tỷ lệ tham gia hạn chế | **Trung tính đến tiêu cực nhẹ** — nhiễu loạn kéo dài, tác động lợi nhuận hạn chế |
-| **C. Đình công lớn** | Nhân sự quan trọng DS tham gia; làm nguội sâu hơn; khách hàng phân bổ lại | **Điều chỉnh đáng kể** — cắt giảm ước tính kèm hạ bội số định giá |
+| <strong>A. Giải quyết / đình chỉ</strong> | Tránh được đình công qua hòa giải NLRC hoặc can thiệp của chính phủ. Thưởng vẫn trong khuôn khổ OPI hiện tại + khoản thưởng đặc biệt | <strong>Hồi phục ngắn hạn</strong> — loại bỏ phần bù rủi ro, chu kỳ bộ nhớ trở lại tâm điểm |
+| <strong>B. Đình công một phần</strong> | Một số nhân viên bỏ việc; dây chuyền quan trọng được duy trì; tỷ lệ tham gia hạn chế | <strong>Trung tính đến tiêu cực nhẹ</strong> — nhiễu loạn kéo dài, tác động lợi nhuận hạn chế |
+| <strong>C. Đình công lớn</strong> | Nhân sự quan trọng DS tham gia; làm nguội sâu hơn; khách hàng phân bổ lại | <strong>Điều chỉnh đáng kể</strong> — cắt giảm ước tính kèm hạ bội số định giá |
 
 ### 5.2 Quan trọng hơn kịch bản — HÌNH THỨC thỏa thuận thưởng
 
@@ -249,7 +249,7 @@ Trường hợp xấu nhất (không thân thiện với cổ đông):
 → Suy giảm cơ cấu ROIC dài hạn
 ```
 
-**Công thức này được quyết định như thế nào quan trọng hơn cho định giá trung và dài hạn của Samsung so với việc đình công có xảy ra hay không.** Một cuộc đình công kết thúc trong một ngày vẫn khóa chặt kinh tế cổ đông thấp hơn nếu thưởng được cố định ở mức 15%.
+<strong>Công thức này được quyết định như thế nào quan trọng hơn cho định giá trung và dài hạn của Samsung so với việc đình công có xảy ra hay không.</strong> Một cuộc đình công kết thúc trong một ngày vẫn khóa chặt kinh tế cổ đông thấp hơn nếu thưởng được cố định ở mức 15%.
 
 ---
 
@@ -266,7 +266,7 @@ Như đã đề cập trong bài trước:
 
 | Công ty môi giới | Lợi nhuận hoạt động quý 2 | Giá mục tiêu |
 | --- | ---: | ---: |
-| Kiwoom Securities | **100 nghìn tỷ KRW** | 330.000 KRW |
+| Kiwoom Securities | <strong>100 nghìn tỷ KRW</strong> | 330.000 KRW |
 | Yuanta Securities | 86,8 nghìn tỷ KRW | 340.000 KRW |
 | JP Morgan | — | 350.000 KRW |
 
@@ -292,12 +292,12 @@ Tiềm năng tăng +11,5% trước rủi ro sự kiện thực:
 
 | # | Sự kiện | Cần kiểm tra gì |
 | ---: | --- | --- |
-| 1 | **15/5, 10:00** Phản hồi CEO | Phản ứng công đoàn — cơ hội mở lại đàm phán |
-| 2 | **16/5** Hòa giải NLRC | Có đề xuất thưởng trung gian nào xuất hiện không |
-| 3 | **Khoảng 20/5** Phán quyết tòa | Phạm vi loại trừ nhân sự thiết yếu |
-| 4 | **21/5** Bắt đầu đình công | Tỷ lệ tham gia thực tế, tác động dây chuyền quan trọng DS |
-| 5 | Sau đình công | **Wafer starts, trì hoãn xuất hàng, thay đổi phân bổ đơn hàng khách hàng** |
-| 6 | Thỏa thuận thưởng | **Tỷ lệ cố định vs tùy ý** — quyết định ROIC dài hạn |
+| 1 | <strong>15/5, 10:00</strong> Phản hồi CEO | Phản ứng công đoàn — cơ hội mở lại đàm phán |
+| 2 | <strong>16/5</strong> Hòa giải NLRC | Có đề xuất thưởng trung gian nào xuất hiện không |
+| 3 | <strong>Khoảng 20/5</strong> Phán quyết tòa | Phạm vi loại trừ nhân sự thiết yếu |
+| 4 | <strong>21/5</strong> Bắt đầu đình công | Tỷ lệ tham gia thực tế, tác động dây chuyền quan trọng DS |
+| 5 | Sau đình công | <strong>Wafer starts, trì hoãn xuất hàng, thay đổi phân bổ đơn hàng khách hàng</strong> |
+| 6 | Thỏa thuận thưởng | <strong>Tỷ lệ cố định vs tùy ý</strong> — quyết định ROIC dài hạn |
 
 ---
 
@@ -327,13 +327,13 @@ Bài về Hội nghị thượng đỉnh Mỹ-Trung:
 
 ## 9. Kết luận một câu
 
-Đình công Samsung Electronics thực sự không phải về "liệu nhà máy có dừng không." Mà là về **"ai hưởng lợi nhuận dư của siêu chu kỳ bộ nhớ — người lao động hay cổ đông."**
+Đình công Samsung Electronics thực sự không phải về "liệu nhà máy có dừng không." Mà là về <strong>"ai hưởng lợi nhuận dư của siêu chu kỳ bộ nhớ — người lao động hay cổ đông."</strong>
 
-Ngắn hạn, logic của JP Morgan đứng vững: với DRAM +60% và NAND +73%, mức thiệt hại sản xuất 1–2% về mặt toán học được bù đắp. Nhưng nếu 15% lợi nhuận hoạt động DS được khóa chặt thành thưởng cố định, đó không phải là chi phí một quý để "bù đắp" — đó là **thay đổi cách phân chia lợi nhuận**. Và nếu khách hàng chuyển phân bổ HBM và DRAM server sang SK hynix hoặc Micron, Samsung hưởng lợi ít hơn từ đà tăng, dù giá tiếp tục leo cao.
+Ngắn hạn, logic của JP Morgan đứng vững: với DRAM +60% và NAND +73%, mức thiệt hại sản xuất 1–2% về mặt toán học được bù đắp. Nhưng nếu 15% lợi nhuận hoạt động DS được khóa chặt thành thưởng cố định, đó không phải là chi phí một quý để "bù đắp" — đó là <strong>thay đổi cách phân chia lợi nhuận</strong>. Và nếu khách hàng chuyển phân bổ HBM và DRAM server sang SK hynix hoặc Micron, Samsung hưởng lợi ít hơn từ đà tăng, dù giá tiếp tục leo cao.
 
 Dừng hoàn toàn khó xảy ra — hòa giải NLRC, lệnh của tòa, và quyền khẩn cấp của chính phủ đều là các van chặn. Nhưng "không dừng" và "không rủi ro" không phải là cùng một điều. Người đang nắm giữ không cần phản ứng thái quá; người mua mới tốt hơn nên chờ kết quả hòa giải ngày 16/5 và quyết định đình công ngày 21/5.
 
-**Điều cần thiết hôm nay là quản lý rủi ro sự kiện, không phải sự can đảm.**
+<strong>Điều cần thiết hôm nay là quản lý rủi ro sự kiện, không phải sự can đảm.</strong>
 
 ---
 

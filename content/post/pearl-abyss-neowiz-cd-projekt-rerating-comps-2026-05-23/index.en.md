@@ -22,20 +22,20 @@ valley_cashtags:
 draft: false
 ---
 
-> **Pearl Abyss × Crimson Desert Series**
+> <strong>Pearl Abyss × Crimson Desert Series</strong>
 > [KOSDAQ smart money and Pearl Abyss rebound setup](/post/kosdaq-smart-money-return-pearl-abyss-rebound-2026-05-22/) / [Flow-bottom test](/post/pearl-abyss-flow-bottom-test-2026-05-18/) / [1Q recognized copies and the 2027 cliff](/post/pearl-abyss-1q26-recognized-sales-2027-cliff-2026-05-17/) / [What the DLC comment really means](/post/pearl-abyss-dlc-package-to-franchise-rerating-2026-05-15/) / [Pearl Abyss Hub](/page/pearl-abyss-crimson-desert-hub/)
 
 *Pearl Abyss is not priced as if Crimson Desert failed. It is priced as if the market accepts Crimson Desert's success but still discounts it as a 2026 one-off. The closest domestic comp is Neowiz after Lies of P. The more important structural comp is CD Projekt around the Cyberpunk 2077 recovery and Phantom Liberty. Capcom is not today's comp; it is the model Pearl Abyss wants to graduate into.*
 
 ## Key Takeaways
 
-- **The closest Korean comp is Neowiz.** Lies of P sold over 1M copies within one month and turned Neowiz profitable in 3Q23, but the market did not immediately grant a global-IP multiple. A good game and a repeatable franchise were priced differently. ([Neowiz 3Q23 IR][1])
-- **The key overseas comp is CD Projekt.** Cyberpunk 2077 lost trust at launch, then regained it through patches, Update 2.0 and Phantom Liberty. Phantom Liberty sold over 4.3M copies within two months. ([CD Projekt][2])
-- **Capcom is the target model, not the current comp.** Capcom already has globally validated IP, repeat launches and long-tail sales. Monster Hunter: World stands at 22.1M units, or 29.6M including Iceborne Master Edition. ([Capcom][3])
-- **Pearl Abyss has larger scale than Neowiz.** Crimson Desert has officially surpassed 5M copies and reached a Steam peak concurrent user count of 276,261. Pearl Abyss's 1Q26 Crimson Desert revenue was KRW 266.5B. ([Pearl Abyss][4]) ([1Q26 Earnings Letter][5])
-- **But the market question is still similar.** Can the company earn money in 2027? What is the DLC roadmap? When does DokeV become visible? Will cash flow return to shareholders?
+- <strong>The closest Korean comp is Neowiz.</strong> Lies of P sold over 1M copies within one month and turned Neowiz profitable in 3Q23, but the market did not immediately grant a global-IP multiple. A good game and a repeatable franchise were priced differently. ([Neowiz 3Q23 IR][1])
+- <strong>The key overseas comp is CD Projekt.</strong> Cyberpunk 2077 lost trust at launch, then regained it through patches, Update 2.0 and Phantom Liberty. Phantom Liberty sold over 4.3M copies within two months. ([CD Projekt][2])
+- <strong>Capcom is the target model, not the current comp.</strong> Capcom already has globally validated IP, repeat launches and long-tail sales. Monster Hunter: World stands at 22.1M units, or 29.6M including Iceborne Master Edition. ([Capcom][3])
+- <strong>Pearl Abyss has larger scale than Neowiz.</strong> Crimson Desert has officially surpassed 5M copies and reached a Steam peak concurrent user count of 276,261. Pearl Abyss's 1Q26 Crimson Desert revenue was KRW 266.5B. ([Pearl Abyss][4]) ([1Q26 Earnings Letter][5])
+- <strong>But the market question is still similar.</strong> Can the company earn money in 2027? What is the DLC roadmap? When does DokeV become visible? Will cash flow return to shareholders?
 
-The conclusion: Pearl Abyss sits between a **Neowiz-style discount** and a **CD Projekt-style re-rating path**. Crimson Desert's success is already proven. The next proof points are 6M official sales, DLC/expansion visibility, DokeV visibility and capital allocation.
+The conclusion: Pearl Abyss sits between a <strong>Neowiz-style discount</strong> and a <strong>CD Projekt-style re-rating path</strong>. Crimson Desert's success is already proven. The next proof points are 6M official sales, DLC/expansion visibility, DokeV visibility and capital allocation.
 
 ---
 
@@ -133,7 +133,7 @@ But the market's discount question is similar.
 | Is DLC quantified? | Weak | Still weak |
 | Is the next-title schedule visible? | Weak | DokeV proof needed |
 
-The risk is a Neowiz-style discount: **good game, good reviews, strong launch sales and a profit turn are still not enough** unless the market sees next-year earnings and a repeatable franchise path.
+The risk is a Neowiz-style discount: <strong>good game, good reviews, strong launch sales and a profit turn are still not enough</strong> unless the market sees next-year earnings and a repeatable franchise path.
 
 ---
 
@@ -143,7 +143,7 @@ CD Projekt is the more important structural comp. The direction is different: Cy
 
 CD Projekt's 3Q23 release says Phantom Liberty launched on September 26, 2023 and sold over 4.3M copies within two months. The company also said Update 2.0 and Phantom Liberty lifted the quality of the Night City experience, while 3Q23 revenue reached PLN 443M and net profit reached PLN 203M. ([CD Projekt][2])
 
-This is the core path: **patches → trust recovery → expansion sales → IP durability**.
+This is the core path: <strong>patches → trust recovery → expansion sales → IP durability</strong>.
 
 | Axis | CD Projekt | Pearl Abyss |
 |---|---|---|
@@ -154,7 +154,7 @@ This is the core path: **patches → trust recovery → expansion sales → IP d
 
 The difference matters. CD Projekt was a recovery from a damaged launch. Pearl Abyss is a successful launch whose repeatability is still not trusted.
 
-So Pearl Abyss is not discounted because it is worse. It is discounted because the market is waiting for the next CD Projekt-like proof point: **DLC, expansion and next-title visibility**.
+So Pearl Abyss is not discounted because it is worse. It is discounted because the market is waiting for the next CD Projekt-like proof point: <strong>DLC, expansion and next-title visibility</strong>.
 
 ---
 
@@ -247,7 +247,7 @@ Capital return from CCP proceeds or treasury-share cancellation would accelerate
 
 ## Final Read
 
-Pearl Abyss is not priced like a failed game company. It is priced like a company with **one successful game that has not yet been accepted as a platform company**.
+Pearl Abyss is not priced like a failed game company. It is priced like a company with <strong>one successful game that has not yet been accepted as a platform company</strong>.
 
 The cleanest analogy is:
 

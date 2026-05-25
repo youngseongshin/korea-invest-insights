@@ -8,13 +8,13 @@ categories: ["Why-Korea"]
 tags: ["韩国为何", "韩国美妆", "K-beauty", "护肤", "Olive Young", "ODM", "Kolmar Korea", "Cosmax", "APR", "Medicube", "美容仪器", "韩流", "韩国股票"]
 ---
 
-> **韩国为何系列，第2篇。** 第1篇探讨了[韩国为何拥有如此多的半导体基板企业](/zh/post/why-korea-semiconductor-substrate-competitive-edge-2026-05-07/)。本篇将同样的问题延伸至消费品领域：为何韩国能同时孕育出具有全球影响力的美妆品牌、ODM代工厂、主导性零售平台和美容仪器公司？建议结合 [Olive Young、PharmaResearch 与 K-Beauty 全景图](/page/k-beauty-olive-young-pharmaresearch-hub/)、[APR / Medicube 深度分析](/zh/post/apr-medicube-age-r-deep-dive-valuation-2026/) 以及 [Olive Young 上市股票解析](/zh/post/olive-young-publicly-traded-cj-corp-korea-beauty-exposure-2026-04-27/) 一并阅读。
+> <strong>韩国为何系列，第2篇。</strong> 第1篇探讨了[韩国为何拥有如此多的半导体基板企业](/zh/post/why-korea-semiconductor-substrate-competitive-edge-2026-05-07/)。本篇将同样的问题延伸至消费品领域：为何韩国能同时孕育出具有全球影响力的美妆品牌、ODM代工厂、主导性零售平台和美容仪器公司？建议结合 [Olive Young、PharmaResearch 与 K-Beauty 全景图](/page/k-beauty-olive-young-pharmaresearch-hub/)、[APR / Medicube 深度分析](/zh/post/apr-medicube-age-r-deep-dive-valuation-2026/) 以及 [Olive Young 上市股票解析](/zh/post/olive-young-publicly-traded-cj-corp-korea-beauty-exposure-2026-04-27/) 一并阅读。
 
 2025年，韩国美妆出口额达到114.3亿美元，再创历史新高，较上年增长12.3%。韩国如今已与法国、美国并列，被普遍视为全球美妆出口三强之一，在部分统计口径下甚至与美国争夺法国之后的第二位。
 
 这个结果看起来有些出乎意料。韩国没有欧莱雅、雅诗兰黛、香奈儿或迪奥，没有法国数百年的香水与奢侈品传统，国内人口也仅约5000万。那么，韩国美妆究竟是如何做到这一切的？
 
-答案不在于某一个全国性龙头企业，而在于一整套生态系统：**快速产品开发、代工制造、高要求的消费者、Olive Young作为市场验证平台、韩国文化输出，以及通过Amazon、TikTok Shop、Sephora、Ulta等渠道实现的数字化分发。**
+答案不在于某一个全国性龙头企业，而在于一整套生态系统：<strong>快速产品开发、代工制造、高要求的消费者、Olive Young作为市场验证平台、韩国文化输出，以及通过Amazon、TikTok Shop、Sephora、Ulta等渠道实现的数字化分发。</strong>
 
 产品结构本身就说明了很多问题。2025年，护肤品出口额达85.4亿美元，约占韩国美妆出口总额的75%。韩国出口的主力不是香水，而是一种皮肤管理文化：补水、舒缓、修护屏障、防晒、美白、抗老、面膜、化妆棉、精华液和安瓶。
 
@@ -57,7 +57,7 @@ tags: ["韩国为何", "韩国美妆", "K-beauty", "护肤", "Olive Young", "ODM
 
 验算：8.54 / 11.43 = 74.7%。
 
-结论很清晰：韩国并非以香水为主要出口品，也不以奢侈彩妆见长，它是一个**护肤品出口大国**。这一定位深刻影响着整个产业的经济逻辑。香水和高端彩妆高度依赖品牌光环与大规模营销；护肤品更依赖成分、质地、复购、评价和渠道数据。而韩国的整套生态系统，正是为后者而生。
+结论很清晰：韩国并非以香水为主要出口品，也不以奢侈彩妆见长，它是一个<strong>护肤品出口大国</strong>。这一定位深刻影响着整个产业的经济逻辑。香水和高端彩妆高度依赖品牌光环与大规模营销；护肤品更依赖成分、质地、复购、评价和渠道数据。而韩国的整套生态系统，正是为后者而生。
 
 ---
 

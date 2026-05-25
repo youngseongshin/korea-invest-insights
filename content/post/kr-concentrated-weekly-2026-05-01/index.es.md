@@ -12,7 +12,7 @@ draft: false
 
 El KOSPI, índice de referencia de la Bolsa de Valores de Corea (KRX) con cerca de 800 empresas cotizadas, cerró abril con un rendimiento notablemente fuerte impulsado por el ciclo de hardware de inteligencia artificial. Pero mayo trae una pregunta incómoda que todo gestor de fondos emergentes conoce bien: ¿es hora de recortar exposición?
 
-La respuesta corta es no —al menos no de forma indiscriminada. Los datos de exportaciones provisionales de Corea publicados a finales de abril revelan señales contradictorias con el pesimismo estacional: los SSD crecieron un **+715% interanual**, y las exportaciones de computadoras y electrónica de consumo avanzaron un **+242% interanual**. El ciclo de hardware AI no ha terminado. Lo que sí puede terminar es el liderazgo de las acciones que ya descontaron gran parte de ese ciclo.
+La respuesta corta es no —al menos no de forma indiscriminada. Los datos de exportaciones provisionales de Corea publicados a finales de abril revelan señales contradictorias con el pesimismo estacional: los SSD crecieron un <strong>+715% interanual</strong>, y las exportaciones de computadoras y electrónica de consumo avanzaron un <strong>+242% interanual</strong>. El ciclo de hardware AI no ha terminado. Lo que sí puede terminar es el liderazgo de las acciones que ya descontaron gran parte de ese ciclo.
 
 ---
 
@@ -20,7 +20,7 @@ La respuesta corta es no —al menos no de forma indiscriminada. Los datos de ex
 
 La novedad concreta de este cierre de abril no es el tema —infraestructura física de AI— sino su confirmación cuantitativa. Los datos provisionales de exportación de Corea muestran que la demanda de SSD y servidores sigue acelerando. Esto valida el ciclo, pero también señala un problema de valoración: los llamados *ganadores de primera ola* —empresas de equipos eléctricos para centros de datos, fabricantes de condensadores multicapa (MLCC) y proveedores de PCB de alta densidad— ya cotizan a múltiplos que reflejan ese escenario optimista.
 
-KB Securities publicó esta semana su estrategia para mayo manteniendo **sobreponderación en semiconductores e infraestructura AI**, lo que indica que el consenso institucional local no está en modo defensivo. Sin embargo, el mismo informe advierte sobre el riesgo de compresión de múltiplos en valores que ya acumulan ganancias de doble dígito en lo que va de año.
+KB Securities publicó esta semana su estrategia para mayo manteniendo <strong>sobreponderación en semiconductores e infraestructura AI</strong>, lo que indica que el consenso institucional local no está en modo defensivo. Sin embargo, el mismo informe advierte sobre el riesgo de compresión de múltiplos en valores que ya acumulan ganancias de doble dígito en lo que va de año.
 
 ---
 
@@ -58,10 +58,10 @@ Daeduck Electronics fabrica sustratos de interconexión de alta densidad (HDI) y
 
 | Escenario | Condición desencadenante | Lectura para el KOSPI |
 |---|---|---|
-| **Rotación normal** | Semiconductores y eléctrico se turnan el liderazgo | Positivo; el índice aguanta |
-| **Toma de beneficios en líderes** | Corrección en Hanwha Engine / Samsung EM | Oportunidad en proxies rezagados |
-| **Shock de capex AI** | Guías revisadas a la baja por Big Tech | Venta indiscriminada; aumentar liquidez |
-| **Risk-off macro** | Brent alto + USD/KRW > 1.400 + salida de extranjeros | Reducir exposición, mantener solo posiciones núcleo |
+| <strong>Rotación normal</strong> | Semiconductores y eléctrico se turnan el liderazgo | Positivo; el índice aguanta |
+| <strong>Toma de beneficios en líderes</strong> | Corrección en Hanwha Engine / Samsung EM | Oportunidad en proxies rezagados |
+| <strong>Shock de capex AI</strong> | Guías revisadas a la baja por Big Tech | Venta indiscriminada; aumentar liquidez |
+| <strong>Risk-off macro</strong> | Brent alto + USD/KRW > 1.400 + salida de extranjeros | Reducir exposición, mantener solo posiciones núcleo |
 
 ---
 

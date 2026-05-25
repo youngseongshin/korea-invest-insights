@@ -19,13 +19,13 @@ draft: false
 
 El parche de hoy no podría haber llegado en mejor momento. Publicado en pleno Festival Qingming (清明节) — el descanso nacional de cuatro días en China que históricamente impulsa las compras en Steam y el tiempo de juego — la actualización del 4 de abril abordó exactamente lo que los jugadores chinos habían reclamado con más fuerza desde el lanzamiento:
 
-- **Ampliación del almacenamiento personal a 1.000 ranuras** — la fricción en la gestión de inventario que dominaba las reseñas negativas en 小黑盒 (Xiaoheihe)
-- **Opción para ocultar el casco** — una mejora cosmética de calidad de vida que puede parecer menor, pero que demuestra que Pearl Abyss escucha el feedback sobre personalización de personajes
-- **Opción de control de movimiento clásico** — un gesto directo de buena voluntad hacia los veteranos que encontraban desorientador el esquema de control predeterminado
+- <strong>Ampliación del almacenamiento personal a 1.000 ranuras</strong> — la fricción en la gestión de inventario que dominaba las reseñas negativas en 小黑盒 (Xiaoheihe)
+- <strong>Opción para ocultar el casco</strong> — una mejora cosmética de calidad de vida que puede parecer menor, pero que demuestra que Pearl Abyss escucha el feedback sobre personalización de personajes
+- <strong>Opción de control de movimiento clásico</strong> — un gesto directo de buena voluntad hacia los veteranos que encontraban desorientador el esquema de control predeterminado
 
 La respuesta en redes sociales chinas fue inmediata y positiva. En Douyin, los clips etiquetados con "붉은사막 패치" se viralizaron mientras los jugadores mostraban el nuevo sistema de almacenamiento. En 知乎 y 小红书, el enfoque cambió de la noche a la mañana: el parche fue descrito como "핵심 통증 부위 짚은 패치" — un parche que dio en el clavo con precisión en los puntos de dolor principales. En términos prácticos, Pearl Abyss corrigió exactamente lo que los jugadores chinos habían criticado, exactamente cuando tenían tiempo libre para volver a conectarse.
 
-Los usuarios concurrentes estimados para el 4 de abril se sitúan entre **250.000 y 280.000**, en línea con el pico del 29 de marzo de **276.261 CCU**, lo que sugiere que el efecto Qingming es real y sostenido.
+Los usuarios concurrentes estimados para el 4 de abril se sitúan entre <strong>250.000 y 280.000</strong>, en línea con el pico del 29 de marzo de <strong>276.261 CCU</strong>, lo que sugiere que el efecto Qingming es real y sostenido.
 
 ---
 
@@ -33,9 +33,9 @@ Los usuarios concurrentes estimados para el 4 de abril se sitúan entre **250.00
 
 Para entender la magnitud del momento actual, es necesario entender lo difícil que fue el lanzamiento.
 
-Cuando Crimson Desert salió a finales de marzo, 小黑盒 — la app compañera de Steam en China y la plataforma principal donde los jugadores de PC chinos concentran sus reseñas y valoraciones — registró una puntuación inicial de **5,9 sobre 10**. Para contextualizar, una puntuación por debajo de 6,0 en Xiaoheihe equivale a la etiqueta "Mixta" de Steam. Los hilos negativos dominaban la conversación, con quejas agrupadas en torno a tres temas: limitaciones de inventario, controles poco intuitivos y un ritmo inicial de juego lento.
+Cuando Crimson Desert salió a finales de marzo, 小黑盒 — la app compañera de Steam en China y la plataforma principal donde los jugadores de PC chinos concentran sus reseñas y valoraciones — registró una puntuación inicial de <strong>5,9 sobre 10</strong>. Para contextualizar, una puntuación por debajo de 6,0 en Xiaoheihe equivale a la etiqueta "Mixta" de Steam. Los hilos negativos dominaban la conversación, con quejas agrupadas en torno a tres temas: limitaciones de inventario, controles poco intuitivos y un ritmo inicial de juego lento.
 
-Para el 4 de abril, esa puntuación ha subido a **8,4/10**.
+Para el 4 de abril, esa puntuación ha subido a <strong>8,4/10</strong>.
 
 Un salto de 2,5 puntos en Xiaoheihe en menos de dos semanas es excepcional. A modo de comparación, muchos títulos AAA de desarrollo occidental con lanzamientos igual de accidentados — *Cyberpunk 2077* siendo el ejemplo canónico — tardaron meses o incluso años en recuperar un sentimiento comparable. Pearl Abyss ejecutó el mismo recorrido en cuestión de días.
 
@@ -43,7 +43,7 @@ El giro cualitativo en 知乎 es igualmente revelador. El arco de reseña domina
 
 En Douyin, el ciclo viral se aceleró durante el período festivo. El motor de físicas del juego y la coreografía de combate — genuinamente diferenciados de cualquier título disponible actualmente en el mercado chino, dominado por los móviles — generaron exactamente el tipo de clips virales que impulsan el descubrimiento orgánico. Jugadores chinos que nunca habían considerado comprar el título vieron sus feeds inundados de impresionantes interacciones físicas y momentos de combate cinematográficos durante las vacaciones.
 
-**El giro en China no es un golpe de suerte. Es el resultado de una estrategia de parches deliberada y de respuesta rápida que se encontró con una audiencia festiva especialmente receptiva.**
+<strong>El giro en China no es un golpe de suerte. Es el resultado de una estrategia de parches deliberada y de respuesta rápida que se encontró con una audiencia festiva especialmente receptiva.</strong>
 
 ---
 
@@ -60,13 +60,13 @@ Los titulares cuentan una historia clara:
 | Total de reseñas en Steam | Más de 100.000 (83% positivo) | 4 de abril de 2026 |
 | Puntuación en Xiaoheihe (China) | 8,4/10 | 4 de abril de 2026 |
 
-Para contextualizar la cifra exclusiva de Steam: las \~2M de copias vendidas en marzo en Steam convirtieron a Crimson Desert en el **segundo juego más vendido de Steam a nivel global** en marzo, solo por detrás de las 5,3M de Killing Tower 2. Pero, de forma crucial, Crimson Desert ocupó el **puesto nº 1 en términos multiplataforma con 4M de copias**, una distinción relevante para los modelos de ingresos, ya que los márgenes en consola difieren del recorte del 30% de Steam.
+Para contextualizar la cifra exclusiva de Steam: las \~2M de copias vendidas en marzo en Steam convirtieron a Crimson Desert en el <strong>segundo juego más vendido de Steam a nivel global</strong> en marzo, solo por detrás de las 5,3M de Killing Tower 2. Pero, de forma crucial, Crimson Desert ocupó el <strong>puesto nº 1 en términos multiplataforma con 4M de copias</strong>, una distinción relevante para los modelos de ingresos, ya que los márgenes en consola difieren del recorte del 30% de Steam.
 
-El juego mantuvo la **posición nº 1 en el ranking global de ingresos de Steam durante dos semanas consecutivas** (24–31 de marzo) y al mismo tiempo encabezó el **ranking de ingresos de Steam en China durante el mismo período** — una doble dominancia inusual que subraya la concentración de la demanda china.
+El juego mantuvo la <strong>posición nº 1 en el ranking global de ingresos de Steam durante dos semanas consecutivas</strong> (24–31 de marzo) y al mismo tiempo encabezó el <strong>ranking de ingresos de Steam en China durante el mismo período</strong> — una doble dominancia inusual que subraya la concentración de la demanda china.
 
-La declaración pública del CEO Huh Jin-young — que la empresa "anunciará pronto 5 millones de copias", con el anuncio esperado entre el **8 y el 15 de abril** — no es un comentario casual. En la cultura corporativa coreana, un CEO no hace este tipo de afirmaciones prospectivas sin tener práctica certeza. El hito de los 5M está efectivamente confirmado; la única pregunta es la fecha exacta.
+La declaración pública del CEO Huh Jin-young — que la empresa "anunciará pronto 5 millones de copias", con el anuncio esperado entre el <strong>8 y el 15 de abril</strong> — no es un comentario casual. En la cultura corporativa coreana, un CEO no hace este tipo de afirmaciones prospectivas sin tener práctica certeza. El hito de los 5M está efectivamente confirmado; la única pregunta es la fecha exacta.
 
-**Con un precio de venta promedio combinado de aproximadamente $45–50 por copia entre plataformas y regiones (teniendo en cuenta los precios regionales en China y la mezcla de consola frente a PC), 5 millones de unidades representa aproximadamente $225–250M en ingresos brutos.** Descontadas las comisiones de plataforma, eso equivale a aproximadamente $155–175M en ingresos netos solo por ventas de unidades, sin contar DLC, expansiones ni monetización de servicios en vivo.
+<strong>Con un precio de venta promedio combinado de aproximadamente $45–50 por copia entre plataformas y regiones (teniendo en cuenta los precios regionales en China y la mezcla de consola frente a PC), 5 millones de unidades representa aproximadamente $225–250M en ingresos brutos.</strong> Descontadas las comisiones de plataforma, eso equivale a aproximadamente $155–175M en ingresos netos solo por ventas de unidades, sin contar DLC, expansiones ni monetización de servicios en vivo.
 
 ---
 
@@ -74,7 +74,7 @@ La declaración pública del CEO Huh Jin-young — que la empresa "anunciará pr
 
 Pearl Abyss lleva más de una década operando Black Desert Online. Ese ADN de servicio en vivo es visible en cómo se está dando soporte a Crimson Desert tras el lanzamiento, y representa una ventaja competitiva genuina que los estudios de lanzamiento único no pueden replicar.
 
-El parche del 4 de abril llegó **dentro de las dos primeras semanas del lanzamiento**. Los elementos específicos abordados — ranuras de almacenamiento, opciones cosméticas, ajustes de control — eran precisamente los problemas que dominaban las 20 reseñas negativas más votadas tanto en Steam como en Xiaoheihe. No es casualidad; refleja una cadena de retroalimentación construida durante años de gestionar un MMO global con una base de jugadores china.
+El parche del 4 de abril llegó <strong>dentro de las dos primeras semanas del lanzamiento</strong>. Los elementos específicos abordados — ranuras de almacenamiento, opciones cosméticas, ajustes de control — eran precisamente los problemas que dominaban las 20 reseñas negativas más votadas tanto en Steam como en Xiaoheihe. No es casualidad; refleja una cadena de retroalimentación construida durante años de gestionar un MMO global con una base de jugadores china.
 
 La comparación con la competencia resulta ilustrativa. Los lanzamientos recientes de mundos abiertos occidentales han operado típicamente con ciclos de parches de 4 a 8 semanas para actualizaciones de calidad de vida. La velocidad de iteración de Pearl Abyss, aplicada a un juego que aún está en su ventana de lanzamiento, genera un ciclo de retroalimentación positiva compuesto: parches más rápidos → mejora del sentimiento → nuevas reseñas → mejor descubrimiento → más ventas → más retroalimentación para parchear.
 
@@ -84,21 +84,21 @@ Para los jugadores chinos en particular, la velocidad de los parches tiene un pe
 
 ## Implicaciones para invertir en Pearl Abyss (263750.KS)
 
-Pearl Abyss cotiza en el KOSPI bajo el ticker **263750.KS**. Históricamente, la acción ha sido valorada principalmente sobre la base de ingresos recurrentes de Black Desert Online, con Crimson Desert como una opción sobre un nuevo IP exitoso.
+Pearl Abyss cotiza en el KOSPI bajo el ticker <strong>263750.KS</strong>. Históricamente, la acción ha sido valorada principalmente sobre la base de ingresos recurrentes de Black Desert Online, con Crimson Desert como una opción sobre un nuevo IP exitoso.
 
 Esa opción ahora está en el dinero.
 
-**Modelización del impacto en ingresos**
+<strong>Modelización del impacto en ingresos</strong>
 
 Usando supuestos conservadores:
 - 5M de unidades × $45 de precio promedio combinado = $225M de ingresos brutos
 - Menos 30% de comisiones de plataforma = $157,5M netos
 - Más tasa de adhesión de DLC/expansión del 15–20% a un precio promedio de $20 = $15–20M adicionales
-- **Estimación total de ingresos del Año 1: $170–180M** solo de Crimson Desert
+- <strong>Estimación total de ingresos del Año 1: $170–180M</strong> solo de Crimson Desert
 
-Los ingresos acumulados de los últimos doce meses de Pearl Abyss antes del lanzamiento eran de aproximadamente ₩300–350B (\~$220–260M USD). Un lanzamiento exitoso de Crimson Desert tiene el potencial de **casi duplicar la tasa anual de ingresos de la empresa** en el Año 1.
+Los ingresos acumulados de los últimos doce meses de Pearl Abyss antes del lanzamiento eran de aproximadamente ₩300–350B (\~$220–260M USD). Un lanzamiento exitoso de Crimson Desert tiene el potencial de <strong>casi duplicar la tasa anual de ingresos de la empresa</strong> en el Año 1.
 
-**Comparativa con empresas del sector**
+<strong>Comparativa con empresas del sector</strong>
 
 | Empresa | Título insignia | Múltiplo de ingresos en el año de lanzamiento |
 |---------|---------------|------------------------------|
@@ -108,9 +108,9 @@ Los ingresos acumulados de los últimos doce meses de Pearl Abyss antes del lanz
 
 La comparativa con SHIFT UP es relevante: Stellar Blade se lanzó como un título premium de un jugador de un estudio coreano con un fuerte sentimiento en China y generó ingresos sostenidos a través de DLC y expansión de plataforma. La trayectoria de Crimson Desert es comparable, con una disponibilidad de plataforma más amplia (PC + consola frente a exclusiva de consola en el lanzamiento).
 
-**Concentración de ingresos específica de China**
+<strong>Concentración de ingresos específica de China</strong>
 
-Estimando que los jugadores chinos representan entre el 30% y el 35% de la base total de jugadores de Steam — coherente con los títulos más populares de Steam en China — esto implica aproximadamente 600.000–700.000 copias de Steam vendidas en China a 1 de abril. Al precio regional de Steam en China (\~¥268, aproximadamente $37), eso representa aproximadamente **$22–26M solo en Steam China**. Los datos de ventas en consola en China no están disponibles públicamente, pero probablemente son significativos dado el alcance de la amplificación en redes sociales durante el Qingming.
+Estimando que los jugadores chinos representan entre el 30% y el 35% de la base total de jugadores de Steam — coherente con los títulos más populares de Steam en China — esto implica aproximadamente 600.000–700.000 copias de Steam vendidas en China a 1 de abril. Al precio regional de Steam en China (\~¥268, aproximadamente $37), eso representa aproximadamente <strong>$22–26M solo en Steam China</strong>. Los datos de ventas en consola en China no están disponibles públicamente, pero probablemente son significativos dado el alcance de la amplificación en redes sociales durante el Qingming.
 
 ---
 
@@ -118,19 +118,19 @@ Estimando que los jugadores chinos representan entre el 30% y el 35% de la base 
 
 El hito de ventas de unidades importa no solo por los ingresos directos, sino por lo que habilita aguas abajo.
 
-**Pipeline de DLC y expansiones**
+<strong>Pipeline de DLC y expansiones</strong>
 
-Pearl Abyss ha confirmado que el contenido de expansión está en desarrollo. Con una tasa de adhesión del 20% sobre 5M de unidades y precios de DLC de $20–30, cada expansión representa **$20–30M en ingresos incrementales de alto margen**. Dada la estructura de mundo abierto de Crimson Desert y el universo narrativo establecido de Black Desert, el IP admite múltiples lanzamientos de contenido sin agotamiento creativo.
+Pearl Abyss ha confirmado que el contenido de expansión está en desarrollo. Con una tasa de adhesión del 20% sobre 5M de unidades y precios de DLC de $20–30, cada expansión representa <strong>$20–30M en ingresos incrementales de alto margen</strong>. Dada la estructura de mundo abierto de Crimson Desert y el universo narrativo establecido de Black Desert, el IP admite múltiples lanzamientos de contenido sin agotamiento creativo.
 
-**Expansión de plataforma**
+<strong>Expansión de plataforma</strong>
 
 El lanzamiento actual de Crimson Desert cubre PC (Steam) y consola. Una posible inclusión en Xbox Game Pass o PlayStation Plus — práctica habitual para títulos coreanos premium entre 12 y 18 meses después del lanzamiento — prolongaría la curva de ingresos a través de bonificaciones por suscripción, manteniendo al mismo tiempo recuentos de jugadores activos que respaldan la venta de DLC.
 
-**Licenciamiento de IP**
+<strong>Licenciamiento de IP</strong>
 
 El IP de Black Desert ha sido licenciado para merchandising, una serie animada y derivados para móviles. Crimson Desert, con sus valores de producción cinematográficos y su potencial viral en Douyin y TikTok, está mejor posicionado para el licenciamiento multimedia que cualquier IP anterior de Pearl Abyss. Un solo acuerdo de licencia o el anuncio de una adaptación animada representaría un potencial alcista puro que actualmente no está en los modelos de los analistas.
 
-**Adaptación para móvil en China**
+<strong>Adaptación para móvil en China</strong>
 
 El mercado chino de videojuegos para móvil es un orden de magnitud mayor que el mercado de PC. Una adaptación de Crimson Desert para móvil — siguiendo el modelo de Black Desert Mobile — es una apuesta lógica a medio plazo por opcionalidad, especialmente dado el reconocimiento de marca que Pearl Abyss ha establecido ahora en China a través del lanzamiento en PC y consola.
 
@@ -140,23 +140,23 @@ El mercado chino de videojuegos para móvil es un orden de magnitud mayor que el
 
 Ningún análisis de inversión está completo sin sus factores de riesgo.
 
-**Riesgo de sequía de contenido**
+<strong>Riesgo de sequía de contenido</strong>
 
 Crimson Desert se lanzó como un título premium basado en una narrativa. La experiencia narrativa principal es finita. Mantener el CCU por encima de 200.000 requiere una cadencia de contenido sostenida. Si el ritmo de los parches se ralentiza tras el lanzamiento o el contenido de expansión se retrasa, las métricas de engagement decaerán, lo que afectaría negativamente los ingresos a largo plazo por DLC y la narrativa de expansión de plataforma.
 
-**Riesgo regulatorio en China**
+<strong>Riesgo regulatorio en China</strong>
 
 Todos los juegos extranjeros en China operan bajo requisitos de licencia administrados por la NRTA (Administración Nacional de Radio y Televisión). Aunque el rendimiento de Crimson Desert en Steam no se ve afectado por la regulación china — los jugadores chinos acceden al juego a través de la plataforma global de Steam — una futura adaptación para móvil o una distribución directa en China requeriría aprobación regulatoria, lo que conlleva riesgos de plazo y de modificación de contenido.
 
-**Competencia**
+<strong>Competencia</strong>
 
 El calendario de lanzamientos del segundo y tercer trimestre de 2026 incluye varios títulos de mundo abierto y RPG de acción de alto perfil. La atención de los jugadores es limitada. Si un título competidor importante se lanza dentro de las próximas seis semanas, el número de jugadores activos de Crimson Desert — y la tasa de adhesión de DLC que sustenta — podría comprimirse más rápido de lo que anticipan los modelos.
 
-**Transparencia en ventas de consola**
+<strong>Transparencia en ventas de consola</strong>
 
 Sony y Microsoft no publican datos de ventas detallados por título. La cifra multiplataforma de "4M de copias" de Pearl Abyss es proporcionada por la dirección de la empresa. Aunque no hay razones para dudar de las declaraciones públicas del CEO, la ausencia de verificación independiente significa que el desglose entre PC y consola — que importa para la modelización de márgenes — no puede confirmarse externamente.
 
-**Exposición al tipo de cambio Won coreano / USD**
+<strong>Exposición al tipo de cambio Won coreano / USD</strong>
 
 Pearl Abyss reporta en Won coreano. Los ingresos de Steam y PlayStation están denominados en USD. Una apreciación del Won frente al dólar comprimiría los ingresos reportados y el resultado operativo, un riesgo relevante para los inversores en las acciones listadas en Corea.
 
@@ -164,26 +164,26 @@ Pearl Abyss reporta en Won coreano. Los ingresos de Steam y PlayStation están d
 
 ## Preguntas frecuentes: Crimson Desert e inversión en Pearl Abyss
 
-**P: ¿Cuántas copias ha vendido Crimson Desert a abril de 2026?**
+<strong>P: ¿Cuántas copias ha vendido Crimson Desert a abril de 2026?</strong>
 A 1 de abril de 2026, Crimson Desert ha vendido más de 4 millones de copias en todas las plataformas. El CEO de Pearl Abyss, Huh Jin-young, ha indicado que el anuncio de 5 millones de copias se espera entre el 8 y el 15 de abril.
 
-**P: ¿Cuál es la valoración de Crimson Desert en Steam?**
+<strong>P: ¿Cuál es la valoración de Crimson Desert en Steam?</strong>
 A 4 de abril de 2026, Crimson Desert mantiene una valoración del 86% positivo ("Muy positivo") en Steam, frente al 82% del 2 de abril, basada en más de 100.000 reseñas (83% positivo en total).
 
-**P: ¿Cómo está rindiendo Crimson Desert en China?**
+<strong>P: ¿Cómo está rindiendo Crimson Desert en China?</strong>
 Crimson Desert encabezó el ranking de ingresos de Steam en China durante dos semanas consecutivas (24–31 de marzo) y ha visto cómo su puntuación en Xiaoheihe (小黑盒) subía de 5,9 en el lanzamiento a 8,4 sobre 10, uno de los giros de sentimiento más rápidos en la historia reciente de los videojuegos.
 
-**P: ¿Cuál fue el pico de usuarios concurrentes de Crimson Desert?**
+<strong>P: ¿Cuál fue el pico de usuarios concurrentes de Crimson Desert?</strong>
 El pico de CCU en Steam alcanzó 276.261 el 29 de marzo de 2026. Se espera que el tráfico del Festival Qingming mantenga el CCU en el rango de 250.000–280.000 hasta principios de abril.
 
-**P: ¿Dónde puedo encontrar las acciones de Pearl Abyss?**
-Pearl Abyss cotiza en el KOSPI bajo el ticker **263750.KS**. Las acciones son accesibles a través de cuentas de corretaje coreanas y corredores internacionales que ofrecen acceso al mercado coreano, incluidas ciertas plataformas globales con conectividad al KOSPI.
+<strong>P: ¿Dónde puedo encontrar las acciones de Pearl Abyss?</strong>
+Pearl Abyss cotiza en el KOSPI bajo el ticker <strong>263750.KS</strong>. Las acciones son accesibles a través de cuentas de corretaje coreanas y corredores internacionales que ofrecen acceso al mercado coreano, incluidas ciertas plataformas globales con conectividad al KOSPI.
 
-**P: ¿Cómo se compara Crimson Desert con otros lanzamientos de videojuegos coreanos?**
+<strong>P: ¿Cómo se compara Crimson Desert con otros lanzamientos de videojuegos coreanos?</strong>
 En términos de ventas multiplataforma en el primer mes, las más de 4M de copias de Crimson Desert a un precio promedio combinado de $45–50 se comparan favorablemente con Stellar Blade de SHIFT UP y representan un evento de ingresos que podría acercarse a duplicar la tasa de ingresos anuales previa de Pearl Abyss.
 
-**P: ¿Cuál es el ticker de Pearl Abyss?**
-Pearl Abyss (펄어비스) cotiza en la Bolsa de Valores de Corea (KOSPI) bajo el ticker **263750** (KRX: 263750). Identificador Reuters: 263750.KS.
+<strong>P: ¿Cuál es el ticker de Pearl Abyss?</strong>
+Pearl Abyss (펄어비스) cotiza en la Bolsa de Valores de Corea (KOSPI) bajo el ticker <strong>263750</strong> (KRX: 263750). Identificador Reuters: 263750.KS.
 
 ---
 
@@ -191,9 +191,9 @@ Pearl Abyss (펄어비스) cotiza en la Bolsa de Valores de Corea (KOSPI) bajo e
 
 Pearl Abyss (263750.KS) cotiza en la Bolsa de Valores de Corea. Los inversores fuera de Corea tienen varias vías de acceso:
 
-1. **Cuentas de corretaje coreanas** (Mirae Asset, Samsung Securities, Kiwoom) — acceso directo al KRX, interfaz en coreano
-2. **Corredores internacionales con acceso al KRX** — ciertas plataformas como Interactive Brokers ofrecen valores coreanos; consulta la lista de acceso a mercados de tu bróker
-3. **ETFs centrados en Corea** — múltiples ETFs de renta variable de Corea del Sur incluyen exposición a videojuegos y tecnología coreana; comprueba las tenencias subyacentes para verificar la inclusión de Pearl Abyss
+1. <strong>Cuentas de corretaje coreanas</strong> (Mirae Asset, Samsung Securities, Kiwoom) — acceso directo al KRX, interfaz en coreano
+2. <strong>Corredores internacionales con acceso al KRX</strong> — ciertas plataformas como Interactive Brokers ofrecen valores coreanos; consulta la lista de acceso a mercados de tu bróker
+3. <strong>ETFs centrados en Corea</strong> — múltiples ETFs de renta variable de Corea del Sur incluyen exposición a videojuegos y tecnología coreana; comprueba las tenencias subyacentes para verificar la inclusión de Pearl Abyss
 
 El KRX opera de lunes a viernes, de 09:00 a 15:30 KST, con una sesión de preapertura desde las 08:00. La liquidación sigue el esquema T+2.
 

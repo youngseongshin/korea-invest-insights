@@ -21,7 +21,7 @@ draft: false
 | US 10Y | 4.57% | +0.11 | Watch |
 | DXY | 99.2 | +0.3% | Flat |
 
-**KR Regime: Bull | US Regime: Bull | Stance: Aggressively Expanding**
+<strong>KR Regime: Bull | US Regime: Bull | Stance: Aggressively Expanding</strong>
 
 KOSPI breadth above 50-MA sits at 30.3%; above 200-MA at 43.8%, with the internal Discovery signal on Day 19 of a fresh cycle. KOSDAQ lagged KOSPI by 6.4 percentage points over the 5-day window — a clear sign this advance is semiconductor-driven rather than broad-market. USD/KRW at 1,507 and US 10Y at 4.57% remain the two macro overhangs to watch.
 
@@ -29,15 +29,15 @@ KOSPI breadth above 50-MA sits at 30.3%; above 200-MA at 43.8%, with the interna
 
 ## Market Wrap
 
-Today was a semiconductor-led risk-on session of uncommon force. KOSPI hit 7,792 intraday (+8.09%), closing near 7,816 — among the sharpest single-session moves of the current cycle. Three catalysts landed simultaneously: **Samsung Electronics (005930.KS)** reached a tentative labor agreement, eliminating the May 21 general strike threat; NVIDIA reported FY27 Q1 revenue of $81.6B (data center $75.2B, networking +199% YoY), confirming AI hardware demand is accelerating into the supply chain; and Korea's May 1–20 semiconductor export data confirmed the pricing cycle is turning sharply. LPDDR5X 16GB pricing reportedly jumped +81% QoQ in 2Q26, with LPDDR4X and NAND/UFS also repricing higher.
+Today was a semiconductor-led risk-on session of uncommon force. KOSPI hit 7,792 intraday (+8.09%), closing near 7,816 — among the sharpest single-session moves of the current cycle. Three catalysts landed simultaneously: <strong>Samsung Electronics (005930.KS)</strong> reached a tentative labor agreement, eliminating the May 21 general strike threat; NVIDIA reported FY27 Q1 revenue of $81.6B (data center $75.2B, networking +199% YoY), confirming AI hardware demand is accelerating into the supply chain; and Korea's May 1–20 semiconductor export data confirmed the pricing cycle is turning sharply. LPDDR5X 16GB pricing reportedly jumped +81% QoQ in 2Q26, with LPDDR4X and NAND/UFS also repricing higher.
 
-The flow picture was decisive. Foreign investors pushed ₩1.07 trillion into Samsung Electronics alone; institutional desks added ₩764.9 billion and program buying reached ₩1.71 trillion in the name. **Samsung Electro-Mechanics (009150.KS)** was the supply-chain standout — up +13.5%, RS rank 99.1 — as analysts revised AI PCB and MLCC assumptions upward in real time. **Daeduck Electronics (353200.KQ)** (+10.1%) and **EO Technics (039030.KQ)** (+18.8%) each drew confirmed foreign and institutional co-buying, and both appear in today's quality screener overlap (covered in Section 3 below).
+The flow picture was decisive. Foreign investors pushed ₩1.07 trillion into Samsung Electronics alone; institutional desks added ₩764.9 billion and program buying reached ₩1.71 trillion in the name. <strong>Samsung Electro-Mechanics (009150.KS)</strong> was the supply-chain standout — up +13.5%, RS rank 99.1 — as analysts revised AI PCB and MLCC assumptions upward in real time. <strong>Daeduck Electronics (353200.KQ)</strong> (+10.1%) and <strong>EO Technics (039030.KQ)</strong> (+18.8%) each drew confirmed foreign and institutional co-buying, and both appear in today's quality screener overlap (covered in Section 3 below).
 
-**Simtec (036490.KQ)** broke out +21.1% on volume 1.9× average, adding it to the AI PCB/packaging watch list alongside Daeduck. **Jeju Semiconductor (080220.KQ)** surged +24.3% to RS 98.6 — the purest DRAM price cycle proxy of the session — though RSI reached 89.2, signalling near-term overextension that typically warrants a pause before fresh exposure.
+<strong>Simtec (036490.KQ)</strong> broke out +21.1% on volume 1.9× average, adding it to the AI PCB/packaging watch list alongside Daeduck. <strong>Jeju Semiconductor (080220.KQ)</strong> surged +24.3% to RS 98.6 — the purest DRAM price cycle proxy of the session — though RSI reached 89.2, signalling near-term overextension that typically warrants a pause before fresh exposure.
 
 Weak segments were unambiguous: real estate, food and beverage, paper/timber, and select biotech names sat out the move entirely. KOSDAQ's underperformance versus KOSPI reflects this bifurcation — today the market rewarded operating leverage inside the semiconductor stack, not broad beta.
 
-**SK Square (402340.KS)** (+14.6%, RS 98.8) attracted attention as a holding company proxy for SK Hynix, though institutional flow confirmation remains pending. The session's message: Korea is in a semiconductor-led bull phase, but the advance is narrow enough that stock selection still matters more than index-level positioning.
+<strong>SK Square (402340.KS)</strong> (+14.6%, RS 98.8) attracted attention as a holding company proxy for SK Hynix, though institutional flow confirmation remains pending. The session's message: Korea is in a semiconductor-led bull phase, but the advance is narrow enough that stock selection still matters more than index-level positioning.
 
 ---
 
@@ -50,7 +50,7 @@ The KR Meta Screener evaluated 109 tickers across five independent frameworks to
 | Meta Rank | Ticker | Name | Meta Score | Screener Overlap | Screeners Hit | Key Metrics |
 |-----------|--------|------|-----------|-----------------|---------------|-------------|
 | 1 | 482630.KQ | Samyang NcChem | 101.0 | 4 | Quality · SM Quality · Cycle Rerating · SM Earnings | ROE 14.7%, OP +64.5% YoY, margin +4.3pp |
-| 2 | 089970.KQ | VM | 98.5 | **5** | Quality · SM Quality · Cycle Rerating · SM Earnings · PEAD | ROE 14.7%, OP +386.9% YoY, margin +29.3pp |
+| 2 | 089970.KQ | VM | 98.5 | <strong>5</strong> | Quality · SM Quality · Cycle Rerating · SM Earnings · PEAD | ROE 14.7%, OP +386.9% YoY, margin +29.3pp |
 | 3 | 080220.KQ | Jeju Semiconductor | 80.2 | 4 | Quality · SM Quality · Cycle Rerating · SM Earnings | ROE 17.4%, OP +274.4% YoY, ⚠ 4 DART risk filings |
 | 4 | 095610.KQ | TES | 74.0 | 3 | Quality · SM Quality · SM Earnings | ROE 14.5%, OP +50.3% YoY, F+QI 5d +₩28.1B |
 | 5 | 000660.KS | SK Hynix | 65.4 | 2 | Quality · Cycle Rerating | ROE 35.6%, OP +101.2% YoY, consensus z-score +1.13 |
@@ -62,17 +62,17 @@ The KR Meta Screener evaluated 109 tickers across five independent frameworks to
 
 ### Candidate Spotlights
 
-**#1 Samyang NcChem (482630.KQ) — Meta Score 101.0**
+<strong>#1 Samyang NcChem (482630.KQ) — Meta Score 101.0</strong>
 
-An electronic specialty chemicals manufacturer that clears all four primary screening layers in today's run. Quality fundamentals are confirmed: ROE 14.7%, operating profit +64.5% YoY, margin expanding +4.3pp. Institutional and foreign co-buying is active (5-day F+QI net buy +₩3.8B). The cycle rerating signal is live. A DART IR event was filed on May 18 — a positive catalyst flag. The meta screener places it at #1 despite VM having a higher raw overlap count (4 vs. 5), because the composite score across quality, flow, earnings, and catalyst layers is marginally stronger. **Next check:** whether the IR disclosure reveals a structural business development or is routine investor relations. The earnings improvement rank (#1 in SM Earnings) deserves attention.
+An electronic specialty chemicals manufacturer that clears all four primary screening layers in today's run. Quality fundamentals are confirmed: ROE 14.7%, operating profit +64.5% YoY, margin expanding +4.3pp. Institutional and foreign co-buying is active (5-day F+QI net buy +₩3.8B). The cycle rerating signal is live. A DART IR event was filed on May 18 — a positive catalyst flag. The meta screener places it at #1 despite VM having a higher raw overlap count (4 vs. 5), because the composite score across quality, flow, earnings, and catalyst layers is marginally stronger. <strong>Next check:</strong> whether the IR disclosure reveals a structural business development or is routine investor relations. The earnings improvement rank (#1 in SM Earnings) deserves attention.
 
-**#2 VM (089970.KQ) — Meta Score 98.5 | Overlap Leader at 5 Screeners**
+<strong>#2 VM (089970.KQ) — Meta Score 98.5 | Overlap Leader at 5 Screeners</strong>
 
-A special-purpose semiconductor equipment maker and the strongest name by raw screener intersection — clearing all five frameworks including PEAD. Operating profit growth of +386.9% YoY and margin expansion of +29.3pp point to genuine operating leverage, not just revenue scale. The PEAD composite score of +2.94 is the highest in Tier A, suggesting post-earnings drift momentum is still intact following the May 15 quarterly filing. The meta screener ranks it #2 (slightly behind Samyang NcChem on the composite) but by pure overlap logic it would lead the table. **Next check:** order backlog depth and whether the 29pp margin step-up is structural or reflects project-mix timing.
+A special-purpose semiconductor equipment maker and the strongest name by raw screener intersection — clearing all five frameworks including PEAD. Operating profit growth of +386.9% YoY and margin expansion of +29.3pp point to genuine operating leverage, not just revenue scale. The PEAD composite score of +2.94 is the highest in Tier A, suggesting post-earnings drift momentum is still intact following the May 15 quarterly filing. The meta screener ranks it #2 (slightly behind Samyang NcChem on the composite) but by pure overlap logic it would lead the table. <strong>Next check:</strong> order backlog depth and whether the 29pp margin step-up is structural or reflects project-mix timing.
 
-**#3 Jeju Semiconductor (080220.KQ) — Meta Score 80.2 | ⚠ Dilution Caution**
+<strong>#3 Jeju Semiconductor (080220.KQ) — Meta Score 80.2 | ⚠ Dilution Caution</strong>
 
-The most direct fabless DRAM/NAND beneficiary in today's screener universe, with ROE 17.4% and operating profit +274.4% YoY — a clean read-through from today's memory repricing session. Five-day foreign and quality institutional net buying reached +₩57.8B. However, DART logged **four risk-category filings today**, specifically convertible bond and bond-with-warrant exercise designations, flagging potential dilution. The meta screener discounts the score for this (-4 risk flag penalty). The price action (+24.3% intraday, RSI 89.2) also signals near-term overextension. **Next check:** confirm the outstanding CB/BW conversion schedule and actual dilution timeline before treating the momentum as technically clean.
+The most direct fabless DRAM/NAND beneficiary in today's screener universe, with ROE 17.4% and operating profit +274.4% YoY — a clean read-through from today's memory repricing session. Five-day foreign and quality institutional net buying reached +₩57.8B. However, DART logged <strong>four risk-category filings today</strong>, specifically convertible bond and bond-with-warrant exercise designations, flagging potential dilution. The meta screener discounts the score for this (-4 risk flag penalty). The price action (+24.3% intraday, RSI 89.2) also signals near-term overextension. <strong>Next check:</strong> confirm the outstanding CB/BW conversion schedule and actual dilution timeline before treating the momentum as technically clean.
 
 ---
 

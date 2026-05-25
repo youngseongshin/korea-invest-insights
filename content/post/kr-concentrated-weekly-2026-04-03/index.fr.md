@@ -20,9 +20,9 @@ Pour les investisseurs étrangers qui suivent la Corée du Sud, ce type de confi
 
 Avant d'aborder les valeurs spécifiques, deux facteurs macroéconomiques méritent l'attention des gérants internationaux.
 
-**Le détroit d'Ormuz et la volatilité énergétique.** Des signaux contradictoires circulent sur une reprise partielle du trafic maritime dans le détroit d'Ormuz, mais aucune normalisation durable de l'offre n'est confirmée. Une résurgence des tensions énergétiques pénaliserait en priorité les valeurs de croissance et les titres à fort bêta, particulièrement exposés à un choc sur les coûts.
+<strong>Le détroit d'Ormuz et la volatilité énergétique.</strong> Des signaux contradictoires circulent sur une reprise partielle du trafic maritime dans le détroit d'Ormuz, mais aucune normalisation durable de l'offre n'est confirmée. Une résurgence des tensions énergétiques pénaliserait en priorité les valeurs de croissance et les titres à fort bêta, particulièrement exposés à un choc sur les coûts.
 
-**Le taux de change won/dollar et les flux étrangers.** Le won coréen (KRW) reste une variable déterminante pour les grandes capitalisations comme Samsung Electronics (005930.KS), le plus grand fabricant de semi-conducteurs au monde. Tant que les investisseurs étrangers n'auront pas amorcé un retour visible et durable, tout renforcement significatif sur les poids lourds de l'indice s'avère prématuré.
+<strong>Le taux de change won/dollar et les flux étrangers.</strong> Le won coréen (KRW) reste une variable déterminante pour les grandes capitalisations comme Samsung Electronics (005930.KS), le plus grand fabricant de semi-conducteurs au monde. Tant que les investisseurs étrangers n'auront pas amorcé un retour visible et durable, tout renforcement significatif sur les poids lourds de l'indice s'avère prématuré.
 
 ---
 
@@ -58,11 +58,11 @@ Mais la valeur a déjà intégré une bonne partie des bonnes nouvelles. Entrer 
 
 ## Les dossiers sous surveillance
 
-**Samsung Electronics (005930.KS)** reste incontournable dans toute analyse du marché coréen — premier producteur mondial de mémoire DRAM et NAND, et acteur majeur sur les puces HBM (*High Bandwidth Memory*) pour l'intelligence artificielle. Les rapports récents confirment une révision haussière des bénéfices pour le premier trimestre 2026 et des attentes positives sur la mémoire. Mais les flux étrangers n'ont pas encore basculé. Attendre une confirmation sur au moins trois séances consécutives avant d'envisager un renforcement.
+<strong>Samsung Electronics (005930.KS)</strong> reste incontournable dans toute analyse du marché coréen — premier producteur mondial de mémoire DRAM et NAND, et acteur majeur sur les puces HBM (*High Bandwidth Memory*) pour l'intelligence artificielle. Les rapports récents confirment une révision haussière des bénéfices pour le premier trimestre 2026 et des attentes positives sur la mémoire. Mais les flux étrangers n'ont pas encore basculé. Attendre une confirmation sur au moins trois séances consécutives avant d'envisager un renforcement.
 
-**Samsung Electro-Mechanics (009150.KS)**, fournisseur de composants passifs et de substrats pour semi-conducteurs, bénéficie d'une thèse structurelle solide liée à l'IA et à l'automobile. Le titre est en phase d'observation : la continuité des achats étrangers sera déterminante pour valider ou non l'entrée.
+<strong>Samsung Electro-Mechanics (009150.KS)</strong>, fournisseur de composants passifs et de substrats pour semi-conducteurs, bénéficie d'une thèse structurelle solide liée à l'IA et à l'automobile. Le titre est en phase d'observation : la continuité des achats étrangers sera déterminante pour valider ou non l'entrée.
 
-**SK Telecom (017670.KS)**, principal opérateur télécom coréen, offre un profil défensif avec ses flux de trésorerie stables. L'option de croissance liée aux datacenters IA est réelle mais encore lointaine. Dans un contexte de sélectivité, le profil rendement/risque ne justifie pas une surpondération.
+<strong>SK Telecom (017670.KS)</strong>, principal opérateur télécom coréen, offre un profil défensif avec ses flux de trésorerie stables. L'option de croissance liée aux datacenters IA est réelle mais encore lointaine. Dans un contexte de sélectivité, le profil rendement/risque ne justifie pas une surpondération.
 
 ---
 

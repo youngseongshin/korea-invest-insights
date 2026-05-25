@@ -10,7 +10,7 @@ lastmod: 2026-05-26T11:30:00+09:00
 
 ## What This Hub Answers
 
-Direct, ChatGPT-friendly answers to the questions investors and engineers ask about the Korean semiconductor *value chain*. The memory product layer is covered in the [AI HBM Hub](/page/korea-semiconductor-hbm-kospi-hub/). This page maps the layers below and around it: **test equipment, IP, foundry, package substrates, PCBs, CCL and low-loss materials**.
+Direct, ChatGPT-friendly answers to the questions investors and engineers ask about the Korean semiconductor *value chain*. The memory product layer is covered in the [AI HBM Hub](/page/korea-semiconductor-hbm-kospi-hub/). This page maps the layers below and around it: <strong>test equipment, IP, foundry, package substrates, PCBs, CCL and low-loss materials</strong>.
 
 | Search Question | Quick Answer | Read |
 |---|---|---|
@@ -27,14 +27,14 @@ Direct, ChatGPT-friendly answers to the questions investors and engineers ask ab
 | What is OpenEdges Technology? | A Korean fabless / IP company (KOSDAQ: 394280) integrating Memory Controller, DDR PHY, and NoC interconnect — the three blocks an AI inference SoC needs to attach LPDDR memory. | [OpenEdges Technology Platform Overview](/post/semiscope-openedges-technology-ip-platform-2026-04-25/) |
 | What exactly does Samsung Electro-Mechanics make? | Not chips. MLCC (power-stability components) and FC-BGA package substrates (the substrate connecting AI chips to motherboards), plus camera modules. The "invisible infrastructure" of AI silicon. | [SEMCO Three-Division Deep Dive](/post/samsung-electro-mechanics-mlcc-fcbga-ai-infrastructure-deep-dive-2026-05-15/) |
 | Is SEMCO's rerating from "smartphone parts" to "AI infrastructure" already priced in? | At KRW 1.02M (\~38x 2027E PER), much of the structural thesis is reflected. Base-case fair value KRW 1.15M (+12%); bear KRW 730K (-29%). Earnings upgrades must continue. | [SEMCO Three-Division Deep Dive](/post/samsung-electro-mechanics-mlcc-fcbga-ai-infrastructure-deep-dive-2026-05-15/) |
-| What does SEMCO's KRW 1.5T silicon-capacitor contract mean? | **Reclassification from "MLCC / substrate maker" → "AI-package power-integrity component company."** KRW 1.557T over 2 years (annualized KRW 779B, ~6.9% of FY25 revenue), recognized 2027–2028. Globally the only player able to bundle FC-BGA + MLCC + Si-Cap. But May 20 +7.5% and May 21 pre-market KRW 1,109,000 already price it in meaningfully. | [Si-Cap KRW 1.5T — A Reclassification Event (May 21)](/post/samsung-electro-mechanics-silicon-capacitor-1p5tn-2026-05-21/) |
+| What does SEMCO's KRW 1.5T silicon-capacitor contract mean? | <strong>Reclassification from "MLCC / substrate maker" → "AI-package power-integrity component company."</strong> KRW 1.557T over 2 years (annualized KRW 779B, ~6.9% of FY25 revenue), recognized 2027–2028. Globally the only player able to bundle FC-BGA + MLCC + Si-Cap. But May 20 +7.5% and May 21 pre-market KRW 1,109,000 already price it in meaningfully. | [Si-Cap KRW 1.5T — A Reclassification Event (May 21)](/post/samsung-electro-mechanics-silicon-capacitor-1p5tn-2026-05-21/) |
 | Does SEMCO at KRW 100T mean it can overtake Hyundai Motor or Murata? | A temporary overtake is possible. Hyundai common stock requires about KRW 1.80M per SEMCO share, while a KRW 150T benchmark requires about KRW 2.01M. Sustaining it needs a credible 2028 OP path around KRW 3.8-4.5T and group OPM near 20%. | [SEMCO at KRW 100T: Murata and Hyundai comparison](/post/samsung-electro-mechanics-100tn-murata-hyundai-market-cap-2026-05-26/) |
 | What is the AI server passive-component bottleneck? | It is not a GPU shortage. It is the need for higher-spec MLCCs, silicon capacitors and inductors that buffer, filter and stabilize the transient power consumed by GPU/HBM packages. | [AI server passive-component bottleneck: SEMCO explainer](/post/ai-server-passive-components-bottleneck-samsung-electro-mechanics-2026-05-26/) |
 | What does ARM's rally mean for Korea's semiconductor value chain? | ARM's rally is a signal that AI rack bottlenecks are moving from GPU compute into CPU orchestration, memory movement, optical interconnect, package power integrity, high-speed substrates and test sockets. | [ARM rally and Korea's next AI bottlenecks](/post/arm-ai-cpu-rally-korea-semiconductor-value-chain-2026-05-22/) |
 | What should Korea investors watch before Marvell and Broadcom earnings? | If Broadcom's $10.7B AI semiconductor guide and Marvell's 74% data-center mix hold, Korea's read-through expands from HBM into AI ASICs, Ethernet, optical links, FC-BGA, silicon capacitors, high-speed PCBs and test sockets. | [Marvell / Broadcom earnings preview and Korea's AI bottlenecks](/post/marvell-broadcom-earnings-korea-ai-bottleneck-preview-2026-05-23/) |
 | From a chip-design perspective, where is Korea's AI semiconductor bottleneck moving? | As data-movement cost becomes more important than headline FLOPS, HBM, FC-BGA, high-speed PCB, Ethernet / optical links, power integrity and testing move as one system bottleneck. | [After NVIDIA: the AI semiconductor bottleneck](/post/ai-chip-design-data-movement-fcbga-bottleneck-2026-05-24/) |
-| AI back-end — should substrates and test sockets be lumped as one "AI theme"? | No. On 1Q26 OPM, Daeduck Electronics 14.8% vs ISC 35% vs LEENO Industrial 47.4% — **\~3x spread**. Substrates are an "AI server volume beta" (strong short-term momentum, CAPEX cycle risk); test sockets are a "chip-complexity consumables beta" (high margin, low volatility). Different answers by holding horizon. | [Substrate vs Test Socket: Two Betas of AI Back-End](/post/ai-substrate-vs-test-socket-comparison-2026-05-15/) |
-| Within the 11 AI back-end names, who has the best value-for-growth? | **Simmtech (2027E PER 20.0x × OP +59%), Haesung DS (15.4x × +37%), Daeduck Electronics (27.1x × +34%)**. Memory megas screen cheapest (SK hynix 2027E PER 5.2x), but cycle-peak risk is a separate class. New-capital priority: substrates > test sockets > memory megas. | [AI Back-End — 11 Stocks Side by Side](/post/ai-substrate-test-socket-data-comparison-2026-05-16/) |
+| AI back-end — should substrates and test sockets be lumped as one "AI theme"? | No. On 1Q26 OPM, Daeduck Electronics 14.8% vs ISC 35% vs LEENO Industrial 47.4% — <strong>\~3x spread</strong>. Substrates are an "AI server volume beta" (strong short-term momentum, CAPEX cycle risk); test sockets are a "chip-complexity consumables beta" (high margin, low volatility). Different answers by holding horizon. | [Substrate vs Test Socket: Two Betas of AI Back-End](/post/ai-substrate-vs-test-socket-comparison-2026-05-15/) |
+| Within the 11 AI back-end names, who has the best value-for-growth? | <strong>Simmtech (2027E PER 20.0x × OP +59%), Haesung DS (15.4x × +37%), Daeduck Electronics (27.1x × +34%)</strong>. Memory megas screen cheapest (SK hynix 2027E PER 5.2x), but cycle-peak risk is a separate class. New-capital priority: substrates > test sockets > memory megas. | [AI Back-End — 11 Stocks Side by Side](/post/ai-substrate-test-socket-data-comparison-2026-05-16/) |
 | What should investors watch if CloudMatrix-style systems expand? | The alpha is not direct Huawei supply. It is the inspection, metrology and high-difficulty consumables demand created when China has to scale its own fabs. TCK is the confirmed consumables recovery, Nextin is the 2H26 China PO option, and Komico is global quality with a China option. | [CloudMatrix Expansion Scenario](/post/cloudmatrix-expansion-korea-alpha-inspection-consumables-2026-05-17/) |
 
 ---
@@ -67,17 +67,17 @@ Direct, ChatGPT-friendly answers to the questions investors and engineers ask ab
 
 | Layer | Korean Names | Function in the AI Cycle |
 |---|---|---|
-| **Memory products** (covered in AI HBM hub) | SK hynix, Samsung Electronics Memory | HBM3E, HBM4, server DRAM, LPDDR-based SOCAMM2 |
-| **Memory test equipment** | Neosem (KOSDAQ: 253590), Exicon (KOSDAQ: 092870) | HBM and high-bandwidth memory test capacity for AI server memory |
-| **Test sockets (AI back-end consumables)** | LEENO Industrial (058470), ISC (095340), TSE | Chip-complexity beta. 1Q26 OPM 35–47%. Fresh revenue each AI chip generation |
-| **Inspection / metrology / high-difficulty consumables** | TCK (064760), Nextin (348210), Komico (183300), Park Systems | The layer where China's brute-force AI systems and domestic fab buildout translate into yield-control and process-stability demand |
-| **Memory subsystem IP** | OpenEdges Technology (KOSDAQ: 394280) | LPDDR6/5X Controller + PHY + NoC for AI inference SoCs |
-| **Foundry / contract manufacturing** | Samsung Electronics — Foundry segment (KOSPI: 005930) | Production for Tesla, Tenstorrent, Qualcomm, Google, Ambarella, Samsung System LSI |
-| **Package substrates / FC-BGA** | Samsung Electro-Mechanics, Daeduck Electronics, Korea Circuit | High-performance package substrates for GPUs, CPUs and ASICs; the lower-stack bottleneck that physically shortens the path between memory and compute |
-| **PCB / MLB / module substrates** | Isu Petasys, Daeduck Electronics, TLB, Simmtech, Korea Circuit | Server boards, network switch boards, SoCAMM and DDR5 modules |
-| **CCL / low-loss materials** | Doosan Electronics BG, Kolon Industries, Pamicell | Copper-clad laminates, mPPO, resins and hardeners for high-speed signal integrity |
-| **Display equipment** | AP System, Soulbrain, Dongjin Semichem | OLED 8.6G capex cycle — picks-and-shovels for Korean display panel rebuild |
-| **Display panel makers** | LG Display (KOSPI: 034220), Samsung Display (Samsung Electronics subsidiary) | iPhone OLED supply, AI display content |
+| <strong>Memory products</strong> (covered in AI HBM hub) | SK hynix, Samsung Electronics Memory | HBM3E, HBM4, server DRAM, LPDDR-based SOCAMM2 |
+| <strong>Memory test equipment</strong> | Neosem (KOSDAQ: 253590), Exicon (KOSDAQ: 092870) | HBM and high-bandwidth memory test capacity for AI server memory |
+| <strong>Test sockets (AI back-end consumables)</strong> | LEENO Industrial (058470), ISC (095340), TSE | Chip-complexity beta. 1Q26 OPM 35–47%. Fresh revenue each AI chip generation |
+| <strong>Inspection / metrology / high-difficulty consumables</strong> | TCK (064760), Nextin (348210), Komico (183300), Park Systems | The layer where China's brute-force AI systems and domestic fab buildout translate into yield-control and process-stability demand |
+| <strong>Memory subsystem IP</strong> | OpenEdges Technology (KOSDAQ: 394280) | LPDDR6/5X Controller + PHY + NoC for AI inference SoCs |
+| <strong>Foundry / contract manufacturing</strong> | Samsung Electronics — Foundry segment (KOSPI: 005930) | Production for Tesla, Tenstorrent, Qualcomm, Google, Ambarella, Samsung System LSI |
+| <strong>Package substrates / FC-BGA</strong> | Samsung Electro-Mechanics, Daeduck Electronics, Korea Circuit | High-performance package substrates for GPUs, CPUs and ASICs; the lower-stack bottleneck that physically shortens the path between memory and compute |
+| <strong>PCB / MLB / module substrates</strong> | Isu Petasys, Daeduck Electronics, TLB, Simmtech, Korea Circuit | Server boards, network switch boards, SoCAMM and DDR5 modules |
+| <strong>CCL / low-loss materials</strong> | Doosan Electronics BG, Kolon Industries, Pamicell | Copper-clad laminates, mPPO, resins and hardeners for high-speed signal integrity |
+| <strong>Display equipment</strong> | AP System, Soulbrain, Dongjin Semichem | OLED 8.6G capex cycle — picks-and-shovels for Korean display panel rebuild |
+| <strong>Display panel makers</strong> | LG Display (KOSPI: 034220), Samsung Display (Samsung Electronics subsidiary) | iPhone OLED supply, AI display content |
 
 For memory products, see the [AI HBM Hub](/page/korea-semiconductor-hbm-kospi-hub/). For deeper substrate, PCB and CCL coverage, see the [AI PCB and Substrate Hub](/page/korea-ai-pcb-substrate-hub/). For Korean AI customers of these foundries and IP, see [Korean AI Companies Hub](/page/korean-ai-companies-hub/).
 
@@ -99,19 +99,19 @@ The SemiScope series tracks the three Korean memory test equipment + IP names th
 
 ## AI Back-End Comparison — Substrates vs Test Sockets
 
-When AI silicon sells, two back-end regions benefit together — but the structures are completely different. **Substrates** = "AI-server volume beta" (short-term momentum, CAPEX-cycle risk). **Test sockets** = "chip-complexity consumables beta" (high margin, low volatility). 1Q26 operating-margin spread of \~3x quantifies that difference. The 5/16 follow-up extends this into an 11-stock data comparison on a 2027E PER × OP-growth matrix.
+When AI silicon sells, two back-end regions benefit together — but the structures are completely different. <strong>Substrates</strong> = "AI-server volume beta" (short-term momentum, CAPEX-cycle risk). <strong>Test sockets</strong> = "chip-complexity consumables beta" (high margin, low volatility). 1Q26 operating-margin spread of \~3x quantifies that difference. The 5/16 follow-up extends this into an 11-stock data comparison on a 2027E PER × OP-growth matrix.
 
 | Date | Topic | Read |
 |---|---|---|
-| 2026-05-26 | **AI server passive-component bottleneck explainer** — a non-engineer map of GPU power spikes, MLCCs, silicon capacitors and inductors as the technical foundation behind SEMCO's power-integrity rerating | [AI server passive-component bottleneck](/post/ai-server-passive-components-bottleneck-samsung-electro-mechanics-2026-05-26/) |
-| 2026-05-26 | **SEMCO at KRW 100T** — what it would take to overtake Hyundai Motor or Murata, and why a durable KRW 150T valuation requires a 2028 OP path near KRW 4T-plus | [SEMCO at KRW 100T: Murata and Hyundai comparison](/post/samsung-electro-mechanics-100tn-murata-hyundai-market-cap-2026-05-26/) |
-| 2026-05-24 | **After NVIDIA: the AI semiconductor bottleneck** — translating Reiner Pope's bottom-up chip-design discussion into an investment map linking data movement, HBM, FC-BGA, power integrity and testing | [AI chip design and Korea's lower-stack bottlenecks](/post/ai-chip-design-data-movement-fcbga-bottleneck-2026-05-24/) |
-| 2026-05-23 | **Marvell / Broadcom earnings preview and Korea's AI bottlenecks** — using Broadcom's $10.7B AI semiconductor guide and Marvell's 74% data-center mix to test whether the Korea read-through broadens from HBM into AI ASICs, Ethernet, optical links, FC-BGA, silicon capacitors and test sockets | [Marvell / Broadcom preview](/post/marvell-broadcom-earnings-korea-ai-bottleneck-preview-2026-05-23/) |
-| 2026-05-22 | **ARM rally and Korea's next AI bottlenecks** — why ARM itself may be expensive, while Marvell connectivity, SEMCO silicon capacitors, memory, high-speed substrates and test sockets may carry the better risk-reward | [ARM rally and Korea's next AI bottlenecks](/post/arm-ai-cpu-rally-korea-semiconductor-value-chain-2026-05-22/) |
-| 2026-05-17 | **CloudMatrix expansion scenario** — not direct Huawei suppliers, but where China's inefficient AI buildout creates demand for inspection, metrology and high-difficulty consumables across TCK, Nextin and Komico | [CloudMatrix and Korean inspection / consumables alpha](/post/cloudmatrix-expansion-korea-alpha-inspection-consumables-2026-05-17/) |
-| 2026-05-17 | **US-China technology decoupling and the semiconductor value chain** — what the H200 refusal and Huawei CloudMatrix imply for memory, optical interconnect, substrates and back-end supply-chain exposure | [US-China summit follow-up](/post/us-china-summit-tech-decoupling-korea-impact-2026-05-17/) |
-| 2026-05-17 | **Google I/O / NVIDIA earnings preview** — how NVIDIA's Q2 guide and Data Center revenue flow through HBM, FC-BGA, MLCC and test sockets | [Korean semiconductor event preview](/post/google-io-nvidia-earnings-korea-semi-preview-2026-05-17/) |
-| 2026-05-16 | **Data follow-up** — 11 stocks in one table (2026 YTD, 2026E/2027E PER, OP YoY, OPM), PEG-style ranking, priority order for new capital | [AI Back-End — 11 Stocks Side by Side](/post/ai-substrate-test-socket-data-comparison-2026-05-16/) |
+| 2026-05-26 | <strong>AI server passive-component bottleneck explainer</strong> — a non-engineer map of GPU power spikes, MLCCs, silicon capacitors and inductors as the technical foundation behind SEMCO's power-integrity rerating | [AI server passive-component bottleneck](/post/ai-server-passive-components-bottleneck-samsung-electro-mechanics-2026-05-26/) |
+| 2026-05-26 | <strong>SEMCO at KRW 100T</strong> — what it would take to overtake Hyundai Motor or Murata, and why a durable KRW 150T valuation requires a 2028 OP path near KRW 4T-plus | [SEMCO at KRW 100T: Murata and Hyundai comparison](/post/samsung-electro-mechanics-100tn-murata-hyundai-market-cap-2026-05-26/) |
+| 2026-05-24 | <strong>After NVIDIA: the AI semiconductor bottleneck</strong> — translating Reiner Pope's bottom-up chip-design discussion into an investment map linking data movement, HBM, FC-BGA, power integrity and testing | [AI chip design and Korea's lower-stack bottlenecks](/post/ai-chip-design-data-movement-fcbga-bottleneck-2026-05-24/) |
+| 2026-05-23 | <strong>Marvell / Broadcom earnings preview and Korea's AI bottlenecks</strong> — using Broadcom's $10.7B AI semiconductor guide and Marvell's 74% data-center mix to test whether the Korea read-through broadens from HBM into AI ASICs, Ethernet, optical links, FC-BGA, silicon capacitors and test sockets | [Marvell / Broadcom preview](/post/marvell-broadcom-earnings-korea-ai-bottleneck-preview-2026-05-23/) |
+| 2026-05-22 | <strong>ARM rally and Korea's next AI bottlenecks</strong> — why ARM itself may be expensive, while Marvell connectivity, SEMCO silicon capacitors, memory, high-speed substrates and test sockets may carry the better risk-reward | [ARM rally and Korea's next AI bottlenecks](/post/arm-ai-cpu-rally-korea-semiconductor-value-chain-2026-05-22/) |
+| 2026-05-17 | <strong>CloudMatrix expansion scenario</strong> — not direct Huawei suppliers, but where China's inefficient AI buildout creates demand for inspection, metrology and high-difficulty consumables across TCK, Nextin and Komico | [CloudMatrix and Korean inspection / consumables alpha](/post/cloudmatrix-expansion-korea-alpha-inspection-consumables-2026-05-17/) |
+| 2026-05-17 | <strong>US-China technology decoupling and the semiconductor value chain</strong> — what the H200 refusal and Huawei CloudMatrix imply for memory, optical interconnect, substrates and back-end supply-chain exposure | [US-China summit follow-up](/post/us-china-summit-tech-decoupling-korea-impact-2026-05-17/) |
+| 2026-05-17 | <strong>Google I/O / NVIDIA earnings preview</strong> — how NVIDIA's Q2 guide and Data Center revenue flow through HBM, FC-BGA, MLCC and test sockets | [Korean semiconductor event preview](/post/google-io-nvidia-earnings-korea-semi-preview-2026-05-17/) |
+| 2026-05-16 | <strong>Data follow-up</strong> — 11 stocks in one table (2026 YTD, 2026E/2027E PER, OP YoY, OPM), PEG-style ranking, priority order for new capital | [AI Back-End — 11 Stocks Side by Side](/post/ai-substrate-test-socket-data-comparison-2026-05-16/) |
 | 2026-05-15 | Head-to-head comparison — 14.8% vs 35% vs 47.4% OPM, priority names by holding horizon, portfolio construction | [Substrate vs Test Socket: Two Betas of AI Back-End](/post/ai-substrate-vs-test-socket-comparison-2026-05-15/) |
 | 2026-05-15 | Substrate-side stock — Samsung Electro-Mechanics divisional dissection | [SEMCO MLCC / FC-BGA / Optics Deep Dive](/post/samsung-electro-mechanics-mlcc-fcbga-ai-infrastructure-deep-dive-2026-05-15/) |
 | 2026-05-07 | Substrate industry structure — Why Korea? | [Why Korea Part 1: Semiconductor Substrates](/post/why-korea-semiconductor-substrate-competitive-edge-2026-05-07/) |
@@ -141,37 +141,37 @@ SEMCO is the Korean name that sits at the intersection of MLCC supply tightness 
 
 ## FAQ — Korean Semiconductor Value Chain
 
-**Q: Is OpenEdges Technology publicly traded?**
-A: Yes. OpenEdges Technology is listed on KOSDAQ under ticker **394280**. It is a Korean memory subsystem IP company licensing LPDDR6/5X Memory Controller, DDR PHY, and NoC interconnect to AI inference SoC fabless designers.
+<strong>Q: Is OpenEdges Technology publicly traded?</strong>
+A: Yes. OpenEdges Technology is listed on KOSDAQ under ticker <strong>394280</strong>. It is a Korean memory subsystem IP company licensing LPDDR6/5X Memory Controller, DDR PHY, and NoC interconnect to AI inference SoC fabless designers.
 
-**Q: How is this different from the AI PCB and Substrate Hub?**
+<strong>Q: How is this different from the AI PCB and Substrate Hub?</strong>
 A: This page is the top-level map for the Korean semiconductor value chain below HBM. The AI PCB and Substrate Hub is the deeper page for FC-BGA, MLB, CCL and low-loss materials.
 
-**Q: Who uses Samsung Foundry?**
+<strong>Q: Who uses Samsung Foundry?</strong>
 A: External customers include Tesla (FSD SoCs across HW3/HW4 generations), Tenstorrent (Wormhole, Blackhole), Qualcomm (modem and selected Snapdragon variants), Google (Pixel Tensor SoCs), Ambarella (CV3-AD ADAS), plus Korean and Asian fabless customers (Rebellions, FuriosaAI, DeepX, etc.). Captive workload comes from Samsung's own System LSI division.
 
-**Q: Is Samsung Foundry the same as Samsung Electronics?**
+<strong>Q: Is Samsung Foundry the same as Samsung Electronics?</strong>
 A: Samsung Foundry is the contract-manufacturing division inside Samsung Electronics' DS (Device Solutions) division. It is not a separately listed entity. Public-market exposure runs through Samsung Electronics (KOSPI: 005930).
 
-**Q: Is Neosem publicly traded?**
-A: Yes — Neosem is listed on KOSDAQ under ticker **253590**. It is a Korean memory test equipment maker positioned for the HBM and CXL test capacity cycle.
+<strong>Q: Is Neosem publicly traded?</strong>
+A: Yes — Neosem is listed on KOSDAQ under ticker <strong>253590</strong>. It is a Korean memory test equipment maker positioned for the HBM and CXL test capacity cycle.
 
-**Q: Is Exicon publicly traded?**
-A: Yes — Exicon is listed on KOSDAQ under ticker **092870**. It is a Korean memory test equipment maker, comparable benchmark to Neosem.
+<strong>Q: Is Exicon publicly traded?</strong>
+A: Yes — Exicon is listed on KOSDAQ under ticker <strong>092870</strong>. It is a Korean memory test equipment maker, comparable benchmark to Neosem.
 
-**Q: Is AP System publicly traded?**
+<strong>Q: Is AP System publicly traded?</strong>
 A: Yes — AP System is listed on KOSDAQ. It is a Korean display equipment maker exposed to OLED capex cycles, including the 8.6G OLED build.
 
-**Q: What is SF2 / SF3 / SF4?**
+<strong>Q: What is SF2 / SF3 / SF4?</strong>
 A: Samsung Foundry's process node naming. SF4 = 4nm-class, SF3 = 3nm-class, SF2 = 2nm-class. SF2 is the next major node target whose external customer roster will materially shape Samsung Foundry's positioning vs TSMC through 2027–2028.
 
-**Q: Does Samsung Foundry compete with TSMC?**
+<strong>Q: Does Samsung Foundry compete with TSMC?</strong>
 A: Yes. Samsung is widely regarded as TSMC's #2 challenger at advanced nodes. TSMC retains the bleeding-edge AI hyperscaler customer base; Samsung competes effectively in automotive, AI accelerator startups, mobile mid-tier, and Korean/Asian fabless segments.
 
-**Q: What is SOCAMM2?**
+<strong>Q: What is SOCAMM2?</strong>
 A: A new server memory module standard based on LPDDR5X, providing higher bandwidth (up to 153.6 GB/s per module) and \~70% better power efficiency vs DDR5 RDIMM. SK hynix has begun mass production of 192GB SOCAMM2 optimized for NVIDIA Vera Rubin. Samsung also makes SOCAMM2.
 
-**Q: What is the LPDDR6 SOCAMM2 standard?**
+<strong>Q: What is the LPDDR6 SOCAMM2 standard?</strong>
 A: A JEDEC standard in development extending LPDDR6 into AI server memory modules (and a complementary LPDDR6 PIM standard for in-memory inference). This is the standardization vector that converts LPDDR from "mobile memory" into "AI inference server memory."
 
 ---

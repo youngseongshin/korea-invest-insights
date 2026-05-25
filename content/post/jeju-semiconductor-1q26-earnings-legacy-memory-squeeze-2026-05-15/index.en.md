@@ -16,7 +16,7 @@ tags:
   - "Korean equities"
 ---
 
-> 🔗 **Related**: [Samsung Electronics Citi TP ₩460,000 — Memory-Cycle Frame Reset](/post/samsung-electronics-citi-tp-460000-memory-rerating-2026-05-11/) · [KOSPI May 13 V-Reversal — All-Time High Through ₩3.76tn Foreign Selling](/post/kospi-may-13-v-reversal-large-cap-compression-rally-2026-05-14/) · [Why Korea Part 4 — $6.7B Inflows, Korea-Discount Dissolving or Value Trap?](/post/korea-67-billion-etf-inflow-korea-discount-or-value-trap-2026-05-09/)
+> 🔗 <strong>Related</strong>: [Samsung Electronics Citi TP ₩460,000 — Memory-Cycle Frame Reset](/post/samsung-electronics-citi-tp-460000-memory-rerating-2026-05-11/) · [KOSPI May 13 V-Reversal — All-Time High Through ₩3.76tn Foreign Selling](/post/kospi-may-13-v-reversal-large-cap-compression-rally-2026-05-14/) · [Why Korea Part 4 — $6.7B Inflows, Korea-Discount Dissolving or Value Trap?](/post/korea-67-billion-etf-inflow-korea-discount-or-value-trap-2026-05-09/)
 
 *Jeju Semiconductor closed +28% on May 14. The trigger is a 1Q26 print that came in extraordinarily strong — revenue ₩180.5bn, OP ₩67.1bn, OPM 37.2%; YoY revenue +273% and OP +1,713%. Most market participants are unfamiliar with what the company actually does. It isn't Samsung or SK hynix. It doesn't make HBM. It's a fabless designer of low-power memory (MCP, LPDDR) for IoT devices, mid-tier smartphones, and automotive electronics. So why is it earning so much money?*
 
@@ -24,12 +24,12 @@ tags:
 
 ## TL;DR
 
-* **1Q26 print.** Revenue ₩180.5bn (+273% YoY), OP ₩67.1bn (+1,713%), NI ₩78.1bn. OPM 37.2%.
-* **Stock reaction.** +28.4% on May 14, close ₩75,600 (near limit-up ₩76,500). Turnover \~₩760.9bn.
-* **What this company actually does.** Not an AI-server HBM business. A **fabless designer of low-power memory (MCP, LPDDR) for IoT, mid-tier smartphones, and automotive electronics**. No fabs — design only.
-* **Why earnings exploded.** Samsung, SK hynix, and Micron concentrated fab capacity on HBM, **shrinking supply of ordinary memory (LPDDR4X, legacy DRAM)**. Demand from IoT, smartphones, and autos kept going — supply down + demand steady = prices up. Jeju captured a large slice of that.
-* **The single test.** Is this earnings level **repeatable**? If 1Q was a one-off peak, the current price is rich. If 2Q sustains it, the price still has room.
-* **Caveats.** Customer A = 72.1% of revenue; China = 72.9% of revenue. Customer and geography concentration are extreme. Convertible-bond (CB) dilution overhang exists. The stock is under an "investment caution" designation by the exchange.
+* <strong>1Q26 print.</strong> Revenue ₩180.5bn (+273% YoY), OP ₩67.1bn (+1,713%), NI ₩78.1bn. OPM 37.2%.
+* <strong>Stock reaction.</strong> +28.4% on May 14, close ₩75,600 (near limit-up ₩76,500). Turnover \~₩760.9bn.
+* <strong>What this company actually does.</strong> Not an AI-server HBM business. A <strong>fabless designer of low-power memory (MCP, LPDDR) for IoT, mid-tier smartphones, and automotive electronics</strong>. No fabs — design only.
+* <strong>Why earnings exploded.</strong> Samsung, SK hynix, and Micron concentrated fab capacity on HBM, <strong>shrinking supply of ordinary memory (LPDDR4X, legacy DRAM)</strong>. Demand from IoT, smartphones, and autos kept going — supply down + demand steady = prices up. Jeju captured a large slice of that.
+* <strong>The single test.</strong> Is this earnings level <strong>repeatable</strong>? If 1Q was a one-off peak, the current price is rich. If 2Q sustains it, the price still has room.
+* <strong>Caveats.</strong> Customer A = 72.1% of revenue; China = 72.9% of revenue. Customer and geography concentration are extreme. Convertible-bond (CB) dilution overhang exists. The stock is under an "investment caution" designation by the exchange.
 
 ---
 
@@ -39,7 +39,7 @@ tags:
 
 The [Samsung Electronics analysis](/post/samsung-electronics-citi-tp-460000-memory-rerating-2026-05-11/) framed memory as the "work desk (DRAM)" and "filing cabinet (NAND)." Samsung and SK hynix operate the giant fabs that produce both, plus the AI-server-grade HBM at the high end.
 
-**Jeju Semiconductor plays in a completely different market.**
+<strong>Jeju Semiconductor plays in a completely different market.</strong>
 
 ```
 Samsung Electronics / SK hynix:
@@ -59,9 +59,9 @@ Jeju Semiconductor:
 
 Two concepts unlock Jeju's core products.
 
-**LPDDR (Low Power DDR)**: "low-power DRAM." Uses less power than standard DRAM. Essential for battery-powered devices — smartphones, tablets, IoT.
+<strong>LPDDR (Low Power DDR)</strong>: "low-power DRAM." Uses less power than standard DRAM. Essential for battery-powered devices — smartphones, tablets, IoT.
 
-**MCP (Multi-Chip Package)**: multiple memory chip types packaged into one.
+<strong>MCP (Multi-Chip Package)</strong>: multiple memory chip types packaged into one.
 
 ```
 Analogy: a bento box
@@ -100,7 +100,7 @@ Jeju Semiconductor = specialist designer in that "ordinary memory" segment
 → Price uplift = revenue and earnings explosion simultaneously
 ```
 
-**One-line summary**: Jeju is not an "AI chip stock." It's **a beneficiary of the "legacy memory squeezed by AI."**
+<strong>One-line summary</strong>: Jeju is not an "AI chip stock." It's <strong>a beneficiary of the "legacy memory squeezed by AI."</strong>
 
 ---
 
@@ -110,17 +110,17 @@ Jeju Semiconductor = specialist designer in that "ordinary memory" segment
 
 | Item | 1Q26 | YoY | QoQ |
 |---|---:|---:|---:|
-| Revenue | **₩180.5bn** | **+273%** | **+97%** |
-| OP | **₩67.1bn** | **+1,713%** | **+383%** |
-| NI | **₩78.1bn** | +1,716% | +417% |
-| OPM | **37.2%** | +29.5pp | +22.0pp |
+| Revenue | <strong>₩180.5bn</strong> | <strong>+273%</strong> | <strong>+97%</strong> |
+| OP | <strong>₩67.1bn</strong> | <strong>+1,713%</strong> | <strong>+383%</strong> |
+| NI | <strong>₩78.1bn</strong> | +1,716% | +417% |
+| OPM | <strong>37.2%</strong> | +29.5pp | +22.0pp |
 | NPM | 43.3% | +34.4pp | +26.8pp |
 
 Cross-check: OPM = 67.1 / 180.5 = 37.2% ✓
 
 ### 2.2 Why the numbers are remarkable
 
-**OP rose 18× YoY.** From ₩3.7bn a year ago to ₩67.1bn. Revenue rose 3.7×, but OP rose 18× — extreme **operating leverage** at work.
+<strong>OP rose 18× YoY.</strong> From ₩3.7bn a year ago to ₩67.1bn. Revenue rose 3.7×, but OP rose 18× — extreme <strong>operating leverage</strong> at work.
 
 ```
 What operating leverage means:
@@ -140,13 +140,13 @@ Revenue +273% → OP +1,713%
 → Operating leverage was extreme
 ```
 
-Adding to that, **memory prices rose**. Same unit volume × higher unit price = revenue rises. Costs don't rise as fast — margin spikes.
+Adding to that, <strong>memory prices rose</strong>. Same unit volume × higher unit price = revenue rises. Costs don't rise as fast — margin spikes.
 
 ### 2.3 Why NI exceeds OP
 
-NI (₩78.1bn) is higher than OP (₩67.1bn). Normally NI is lower due to taxes and interest. NI > OP means **non-operating income** (FX gains, financial income, etc.) was material. The breakdown will appear in quarterly-report footnotes. As a company with >90% export ratio, KRW weakness produces FX gains.
+NI (₩78.1bn) is higher than OP (₩67.1bn). Normally NI is lower due to taxes and interest. NI > OP means <strong>non-operating income</strong> (FX gains, financial income, etc.) was material. The breakdown will appear in quarterly-report footnotes. As a company with >90% export ratio, KRW weakness produces FX gains.
 
-**Caveat**: if the non-operating gain is one-off, annualizing NI directly is risky.
+<strong>Caveat</strong>: if the non-operating gain is one-off, annualizing NI directly is risky.
 
 ---
 
@@ -156,33 +156,33 @@ NI (₩78.1bn) is higher than OP (₩67.1bn). Normally NI is lower due to taxes 
 
 | Region | 1Q revenue | Share |
 |---|---:|---:|
-| **China** | **\~₩131.6bn** | **72.9%** |
+| <strong>China</strong> | <strong>\~₩131.6bn</strong> | <strong>72.9%</strong> |
 | Other | \~₩48.9bn | 27.1% |
 
 ### 3.2 Customer — Customer A is 72%
 
 | Customer | 1Q revenue | Share |
 |---|---:|---:|
-| **Customer A** | **\~₩130.1bn** | **72.1%** |
+| <strong>Customer A</strong> | <strong>\~₩130.1bn</strong> | <strong>72.1%</strong> |
 | Other | \~₩50.4bn | 27.9% |
 
 ### 3.3 Application (2025 annual basis)
 
 | Application | Share | YoY growth |
 |---|---:|---:|
-| **IoT** | **51.9%** | +46% |
-| **Consumer** | **26.3%** | +400% |
+| <strong>IoT</strong> | <strong>51.9%</strong> | +46% |
+| <strong>Consumer</strong> | <strong>26.3%</strong> | +400% |
 | Mobile | 8.2% | +16% |
 | Auto | 8.0% | +126% |
 | Network | 5.5% | +6% |
 
 ### 3.4 What the data says
 
-**The positive**: IoT, consumer, and auto are growing simultaneously. Consumer at +400% YoY is striking. Auto at +126%.
+<strong>The positive</strong>: IoT, consumer, and auto are growing simultaneously. Consumer at +400% YoY is striking. Auto at +126%.
 
-**The concerning**: Customer A alone = 72%. China alone = 73%. **Extreme concentration in one customer + one geography**. If that customer reduces orders or China-bound exports face friction, earnings collapse fast.
+<strong>The concerning</strong>: Customer A alone = 72%. China alone = 73%. <strong>Extreme concentration in one customer + one geography</strong>. If that customer reduces orders or China-bound exports face friction, earnings collapse fast.
 
-The "200 global customers" narrative exists, but the data shows the core is one customer. **Whether that customer's order pattern repeats** is the central 2Q variable.
+The "200 global customers" narrative exists, but the data shows the core is one customer. <strong>Whether that customer's order pattern repeats</strong> is the central 2Q variable.
 
 ---
 
@@ -192,24 +192,24 @@ The "200 global customers" narrative exists, but the data shows the core is one 
 
 | Strength | Description |
 |---|---|
-| **MCP productization** | Designs combining NAND + LPDDR in a single package. Optimal for space/power/cost-constrained IoT and mobile |
-| **Platform certification** | Qualcomm / MediaTek 5G IoT chipset certification. Without this, you can't supply memory compatible with those chipsets |
-| **Multi-SKU coverage** | 200+ customers, covering IoT, mobile, auto, networking |
-| **Outsourced production network** | Powerchip, Winbond partners. Mass production without owning fabs |
+| <strong>MCP productization</strong> | Designs combining NAND + LPDDR in a single package. Optimal for space/power/cost-constrained IoT and mobile |
+| <strong>Platform certification</strong> | Qualcomm / MediaTek 5G IoT chipset certification. Without this, you can't supply memory compatible with those chipsets |
+| <strong>Multi-SKU coverage</strong> | 200+ customers, covering IoT, mobile, auto, networking |
+| <strong>Outsourced production network</strong> | Powerchip, Winbond partners. Mass production without owning fabs |
 
 ### 4.2 What Jeju is not good at
 
 | Weakness | Description |
 |---|---|
-| **No own fab** | Dependent on partner capacity. When supply is tight, you can't make more even if you want to |
-| **Not cutting-edge** | LPDDR4X / legacy on mature processes, not HBM, DDR5, or latest LPDDR5X |
-| **Pricing power is cycle-dependent** | Earns big when supply is tight; loses pricing when supply normalizes |
+| <strong>No own fab</strong> | Dependent on partner capacity. When supply is tight, you can't make more even if you want to |
+| <strong>Not cutting-edge</strong> | LPDDR4X / legacy on mature processes, not HBM, DDR5, or latest LPDDR5X |
+| <strong>Pricing power is cycle-dependent</strong> | Earns big when supply is tight; loses pricing when supply normalizes |
 
 ### 4.3 Core read
 
-Jeju's moat exists — platform certification, MCP productization, customer-handling experience are not easily replicated. But it's not the **absolute** moat that Samsung / SK hynix HBM or TSMC leading-edge processes offer. If large memory players re-engage with legacy or Chinese players catch up, competition intensifies.
+Jeju's moat exists — platform certification, MCP productization, customer-handling experience are not easily replicated. But it's not the <strong>absolute</strong> moat that Samsung / SK hynix HBM or TSMC leading-edge processes offer. If large memory players re-engage with legacy or Chinese players catch up, competition intensifies.
 
-So Jeju is more accurately framed as **"a niche memory specialist whose earnings explode when cycle and product mix align,"** not as a "tech-monopoly" name.
+So Jeju is more accurately framed as <strong>"a niche memory specialist whose earnings explode when cycle and product mix align,"</strong> not as a "tech-monopoly" name.
 
 ---
 
@@ -223,21 +223,21 @@ Market cap \~₩2.6tn ÷ ₩312.4bn = PER \~8.3×
 → PER 8× looks very cheap
 ```
 
-**But this math is dangerous.** If 1Q is the cycle peak, annualization is meaningless. 2Q earnings could collapse.
+<strong>But this math is dangerous.</strong> If 1Q is the cycle peak, annualization is meaningless. 2Q earnings could collapse.
 
 ### 5.2 Scenario fair value
 
 | Scenario | 2026 revenue | OPM | OP | NI estimate | EPS | Applied PER | Implied price |
 |---|---:|---:|---:|---:|---:|---:|---:|
 | Bear (1Q peak) | ₩540.0bn | 24% | ₩129.6bn | ₩95.0bn | ₩2,758 | 15× | \~₩41,000 |
-| **Base** | **₩680.0bn** | **31%** | **₩210.8bn** | **₩165.0bn** | **₩4,790** | **16.5×** | **\~₩80,000** |
+| <strong>Base</strong> | <strong>₩680.0bn</strong> | <strong>31%</strong> | <strong>₩210.8bn</strong> | <strong>₩165.0bn</strong> | <strong>₩4,790</strong> | <strong>16.5×</strong> | <strong>\~₩80,000</strong> |
 | Bull (cycle sustained) | ₩820.0bn | 35% | ₩287.0bn | ₩225.0bn | ₩6,532 | 18× | \~₩118,000 |
 
 Cross-checks: Base EPS = ₩165bn / 34.44M shares ≈ ₩4,790 ✓; implied price = 4,790 × 16.5 = 79,035 ≈ ₩80,000 ✓
 
 ### 5.3 Where the current price sits
 
-₩75,600 is **very close to the base-case implied price (₩80,000)**. Upside \~+5.8%.
+₩75,600 is <strong>very close to the base-case implied price (₩80,000)</strong>. Upside \~+5.8%.
 
 ```
 Upside / downside:
@@ -256,7 +256,7 @@ Bull case: +56%
 
 ### 6.1 Customer / geography concentration
 
-Customer A = 72.1%, China = 72.9%. **One customer's order pattern drives the whole P&L.** Whether Customer A is a long-term contract or a one-off large order isn't disclosed.
+Customer A = 72.1%, China = 72.9%. <strong>One customer's order pattern drives the whole P&L.</strong> Whether Customer A is a long-term contract or a one-off large order isn't disclosed.
 
 ### 6.2 Convertible-bond (CB) dilution
 
@@ -275,7 +275,7 @@ If converted:
 
 ### 6.3 Investment-caution designation
 
-KRX has designated Jeju as an investment-caution stock. Further sharp rises can trigger **a 1-day trading halt** (investment-warning). This affects short-term flow independent of earnings.
+KRX has designated Jeju as an investment-caution stock. Further sharp rises can trigger <strong>a 1-day trading halt</strong> (investment-warning). This affects short-term flow independent of earnings.
 
 ---
 
@@ -285,12 +285,12 @@ May 14 flow:
 
 | Participant | Net |
 |---|---:|
-| Foreign | **-₩13.4bn (net sell)** |
+| Foreign | <strong>-₩13.4bn (net sell)</strong> |
 | Institutional | +₩9.5bn |
 | Retail | +₩5.0bn |
-| Program | **-₩14.7bn (net sell)** |
+| Program | <strong>-₩14.7bn (net sell)</strong> |
 
-**Foreigners and program sold; retail bought.** This is closer to "retail-driven momentum buying" than "clean institutional accumulation." Sustained move requires foreign / program flow to turn net-positive.
+<strong>Foreigners and program sold; retail bought.</strong> This is closer to "retail-driven momentum buying" than "clean institutional accumulation." Sustained move requires foreign / program flow to turn net-positive.
 
 [The May 13 KOSPI V-reversal piece](/post/kospi-may-13-v-reversal-large-cap-compression-rally-2026-05-14/) noted the same pattern at the index level — ₩3.76tn foreign selling absorbed by domestic flows. Jeju mirrors that structure: domestic capital catching what foreigners drop. How long it lasts is the key short-term variable.
 
@@ -302,8 +302,8 @@ May 14 flow:
 
 | Item | 1Q (confirmed) | 2Q (to verify) |
 |---|---|---|
-| Revenue | ₩180.5bn | **≥₩170bn = positive; <₩130bn = 1Q-as-peak confirmed** |
-| OPM | 37.2% | **≥33% = structural; <25% = cycle peak** |
+| Revenue | ₩180.5bn | <strong>≥₩170bn = positive; <₩130bn = 1Q-as-peak confirmed</strong> |
+| OPM | 37.2% | <strong>≥33% = structural; <25% = cycle peak</strong> |
 | Customer A orders | 72.1% | Repeatability is core |
 | Memory pricing | Up | Sustained / rising = good; reversal = bad |
 
@@ -311,15 +311,15 @@ May 14 flow:
 
 | Trigger | Window | Why |
 |---|---|---|
-| **LPDDR4X price trajectory** | Monthly | Prices holding → 2Q stays strong; rolling over → margin collapses |
-| **2Q print** | August | Verdict on 1Q (one-off vs structural) |
-| **Proprietary LPDDR4X mass production** | 2H onward | Transition from sourcing margin to design-margin |
-| **Investment-caution removal** | Days | Direct effect on short-term flow |
-| **CB / BW conversion activity** | Ongoing | EPS-dilution monitoring |
+| <strong>LPDDR4X price trajectory</strong> | Monthly | Prices holding → 2Q stays strong; rolling over → margin collapses |
+| <strong>2Q print</strong> | August | Verdict on 1Q (one-off vs structural) |
+| <strong>Proprietary LPDDR4X mass production</strong> | 2H onward | Transition from sourcing margin to design-margin |
+| <strong>Investment-caution removal</strong> | Days | Direct effect on short-term flow |
+| <strong>CB / BW conversion activity</strong> | Ongoing | EPS-dilution monitoring |
 
 ### 8.3 Linking back to the Samsung analysis
 
-[The Samsung piece](/post/samsung-electronics-citi-tp-460000-memory-rerating-2026-05-11/) argued "HBM absorbs fab capacity → legacy memory prices rise." **Jeju is the direct beneficiary** of that legacy price uplift.
+[The Samsung piece](/post/samsung-electronics-citi-tp-460000-memory-rerating-2026-05-11/) argued "HBM absorbs fab capacity → legacy memory prices rise." <strong>Jeju is the direct beneficiary</strong> of that legacy price uplift.
 
 ```
 Samsung: HBM / DDR5 / SOCAMM2 → makes and sells directly
@@ -341,7 +341,7 @@ Jeju Semiconductor's 1Q26 print is strong. Revenue ₩180.5bn, OP ₩67.1bn, OPM
 
 Whether this is a "repeatable structure" or a "one-off cycle peak" is settled in 2Q. Customer A = 72%, China = 73% are extreme concentrations. CB dilution and the investment-caution designation are real risks. After a +28% day, the chase upside is only \~+6% even in the base case.
 
-Jeju is not an "AI chip stock." It's **a beneficiary of the "legacy memory squeezed by AI."** How long that benefit lasts depends on LPDDR4X pricing, Customer A's order repeatability, and the pace of transition to proprietary-design products. The most disciplined approach is to **wait for the 2Q print (August) and confirm OPM staying ≥33%.**
+Jeju is not an "AI chip stock." It's <strong>a beneficiary of the "legacy memory squeezed by AI."</strong> How long that benefit lasts depends on LPDDR4X pricing, Customer A's order repeatability, and the pace of transition to proprietary-design products. The most disciplined approach is to <strong>wait for the 2Q print (August) and confirm OPM staying ≥33%.</strong>
 
 Whether 1Q is the "start" or the "peak" — that answer hasn't arrived yet.
 
@@ -349,25 +349,25 @@ Whether 1Q is the "start" or the "peak" — that answer hasn't arrived yet.
 
 ## FAQ
 
-**Q: Is Jeju Semiconductor an AI chip company?**
+<strong>Q: Is Jeju Semiconductor an AI chip company?</strong>
 A: Not directly. It doesn't make AI-server HBM or cutting-edge GPU memory. It's a fabless designer of low-power memory (MCP, LPDDR) for IoT, mid-tier smartphones, and automotive electronics. But Samsung/SK hynix concentrating capacity on HBM tightened supply of ordinary memory, which lifted prices and benefited Jeju.
 
-**Q: Is OP rising 18× from ₩3.7bn to ₩67.1bn normal?**
+<strong>Q: Is OP rising 18× from ₩3.7bn to ₩67.1bn normal?</strong>
 A: Two effects coincided. (1) Revenue rose +273%. (2) Memory prices rose. Fabless has small fixed costs, so revenue growth produces disproportionate earnings growth (operating leverage). But the structure runs in reverse too — revenue declines compress earnings disproportionately.
 
-**Q: After a +28% day, is it safe to buy now?**
+<strong>Q: After a +28% day, is it safe to buy now?</strong>
 A: Base-case implied price is \~₩80,000. Vs current ₩75,600, upside is only \~+6%. Bear-case downside (1Q-as-peak) is -46%. The asymmetry is unfavorable for chasers. Waiting for the 2Q print is more disciplined.
 
-**Q: Who is Customer A?**
+<strong>Q: Who is Customer A?</strong>
 A: Not disclosed. Only the 72.1% revenue share appears in the quarterly report. Market speculation points to global 5G IoT chipset-related OEMs (Qualcomm / MediaTek ecosystem) or Chinese IoT/mobile OEMs. Whether Customer A's order pattern repeats or proves one-off is the central 2Q variable.
 
-**Q: What does the investment-caution designation mean?**
+<strong>Q: What does the investment-caution designation mean?</strong>
 A: KRX designates stocks with sharp short-term gains. Further sharp rises can escalate to "investment-warning" with a 1-day trading halt. Affects short-term flow regardless of earnings.
 
-**Q: How significant is the CB dilution?**
+<strong>Q: How significant is the CB dilution?</strong>
 A: Latent conversion is \~2.64M shares (7.7% of existing count). With the strike at ₩44,300 and the stock well above, conversion incentive is strong. Conversion lowers EPS \~7%. Fair-value calculations should reflect dilution for conservatism.
 
-**Q: What's the fastest signal in 2Q?**
+<strong>Q: What's the fastest signal in 2Q?</strong>
 A: Two. (1) Monthly LPDDR4X market pricing — sustained or rising. (2) 2Q print (August) — revenue ≥₩170bn and OPM ≥33%. Both confirm "structural"; either failing supports "1Q-as-peak."
 
 ---

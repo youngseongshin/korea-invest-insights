@@ -21,21 +21,21 @@ draft: false
 | Brent | USD 108,0 | +3,6% | Al alza |
 | DXY | 99,1 | +1,2% | Dólar fuerte |
 
-**Régimen del día**: Corea = **Bear** · EE.UU. = **Bull**. La divergencia KR/US permanece abierta: mientras el mercado americano mantiene amplitud positiva (breadth 50MA 52,5%), el KOSPI acumula una pérdida semanal de más del cuatro por ciento. El debilitamiento del won, el repunte del crudo y la presión en los tipos largos de EE.UU. configuran un entorno adverso para los activos de riesgo coreanos.
+<strong>Régimen del día</strong>: Corea = <strong>Bear</strong> · EE.UU. = <strong>Bull</strong>. La divergencia KR/US permanece abierta: mientras el mercado americano mantiene amplitud positiva (breadth 50MA 52,5%), el KOSPI acumula una pérdida semanal de más del cuatro por ciento. El debilitamiento del won, el repunte del crudo y la presión en los tipos largos de EE.UU. configuran un entorno adverso para los activos de riesgo coreanos.
 
 ---
 
 ## 2. Resumen de la Sesión Coreana — 15 de mayo de 2026
 
-La sesión fue de **corrección selectiva**, no de capitulación. El screener de descubrimiento KR cerró en NEUTRAL 65/100 con FTD Day 20 activo, lo que indica que el mercado en su conjunto no ha entrado en pánico, aunque el daño fue considerable en los valores de mayor capitalización.
+La sesión fue de <strong>corrección selectiva</strong>, no de capitulación. El screener de descubrimiento KR cerró en NEUTRAL 65/100 con FTD Day 20 activo, lo que indica que el mercado en su conjunto no ha entrado en pánico, aunque el daño fue considerable en los valores de mayor capitalización.
 
-**Carácter del día**: Rotación defensiva dentro de la renta variable. El dinero salió de los grandes semiconductores y del segmento de videojuegos, y buscó refugio relativo en equipos industriales de nicho, componentes electrónicos con apalancamiento operativo fuerte y valores ligados al consumo doméstico coreano y la robótica.
+<strong>Carácter del día</strong>: Rotación defensiva dentro de la renta variable. El dinero salió de los grandes semiconductores y del segmento de videojuegos, y buscó refugio relativo en equipos industriales de nicho, componentes electrónicos con apalancamiento operativo fuerte y valores ligados al consumo doméstico coreano y la robótica.
 
-**Sectores fuertes**: Maquinaria especial de ciclo corto, componentes para infraestructura AI y valores de consumo local mostraron mayor resiliencia. Samsung Electro-Mechanics (009150.KS) fue el nombre con más fortaleza relativa de la sesión, con un avance semanal del +10,5% y flujo institucional neto positivo, en un día en que la mayoría de blue chips cedía.
+<strong>Sectores fuertes</strong>: Maquinaria especial de ciclo corto, componentes para infraestructura AI y valores de consumo local mostraron mayor resiliencia. Samsung Electro-Mechanics (009150.KS) fue el nombre con más fortaleza relativa de la sesión, con un avance semanal del +10,5% y flujo institucional neto positivo, en un día en que la mayoría de blue chips cedía.
 
-**Sectores débiles**: La gran capitalización semiconductora sufrió ventas externas de una magnitud inusual. El flujo extranjero en Samsung Electronics (005930.KS) fue de −2,5 billones de won en una sola sesión, una salida que aplazó cualquier recuperación técnica a pesar de que el ciclo de memoria (DRAM +53% QoQ, NAND +75% QoQ estimado) sigue siendo sólido en el plano fundamental. El segmento biotecnológico cayó un -5,8% de media en los valores del universo de análisis, sin que la proximidad del BIO USA de junio ofreciera soporte de precio. Valores de corretaje como Kiwoom Securities (039490.KS) profundizaron su debilidad semanal (−12,5%) con deterioro técnico claro.
+<strong>Sectores débiles</strong>: La gran capitalización semiconductora sufrió ventas externas de una magnitud inusual. El flujo extranjero en Samsung Electronics (005930.KS) fue de −2,5 billones de won en una sola sesión, una salida que aplazó cualquier recuperación técnica a pesar de que el ciclo de memoria (DRAM +53% QoQ, NAND +75% QoQ estimado) sigue siendo sólido en el plano fundamental. El segmento biotecnológico cayó un -5,8% de media en los valores del universo de análisis, sin que la proximidad del BIO USA de junio ofreciera soporte de precio. Valores de corretaje como Kiwoom Securities (039490.KS) profundizaron su debilidad semanal (−12,5%) con deterioro técnico claro.
 
-**Amplitud de mercado**: Solo el 3,4% de los valores supera la media móvil de 50 días y el 4,3% la de 200 días — datos que confirman el régimen Bear en Corea y exigen mayor rigor en la selección de candidatos.
+<strong>Amplitud de mercado</strong>: Solo el 3,4% de los valores supera la media móvil de 50 días y el 4,3% la de 200 días — datos que confirman el régimen Bear en Corea y exigen mayor rigor en la selección de candidatos.
 
 ---
 
@@ -58,15 +58,15 @@ El meta-screener cubre hoy un universo de 121 valores y prioriza la intersecció
 
 ### Análisis de los tres primeros candidatos
 
-**Device — 187870.KQ (Meta score: 102,0)**
+<strong>Device — 187870.KQ (Meta score: 102,0)</strong>
 
 Device fabrica maquinaria de uso especial y es hoy el único valor presente en los cinco screeners simultáneamente: Quality Compounder, Smart Money Quality, Cycle Rerating, Smart Money Earnings y PEAD. El beneficio operativo creció +311,9% interanual con una expansión de margen de +11,7 puntos porcentuales sobre ingresos que avanzaron +78,2%. El flujo institucional y extranjero combinado de cinco días suma +87,7 mil millones de won. DART publicó además una ampliación gratuita de capital (무상증자) el 27 de abril — un catalizador oficial que puede haber concentrado interés comprador. El percentil RS de 89,9 es sólido sin estar sobreextendido, lo que deja recorrido técnico. Punto clave a verificar: si el flujo F+QI se mantiene en las próximas sesiones y el crecimiento de ingresos del segundo trimestre confirma ritmo.
 
-**Gigavis — 420770.KQ (Meta score: 87,0)**
+<strong>Gigavis — 420770.KQ (Meta score: 87,0)</strong>
 
 También fabricante de maquinaria especial, Gigavis registra el crecimiento de beneficio operativo más alto entre los candidatos del día: +777,2% YoY desde una base baja, con expansión de margen de +29,9 pp. El flujo F+QI en cinco días suma +187,0 mil millones de won y el RS alcanza percentil 95,5. La señal de alerta es la revisión a la baja del consenso de analistas, que sugiere expectativas de normalización de márgenes. El PER de 98,3x refleja valoración exigente. El balance es positivo — calidad y dinero entran — pero la revisión bajista del consenso obliga a vigilancia antes de ampliar exposición sectorial.
 
-**Jeju Semiconductor — 080220.KQ (Meta score: 78,5)**
+<strong>Jeju Semiconductor — 080220.KQ (Meta score: 78,5)</strong>
 
 El tercer candidato está directamente expuesto al ciclo de memoria. Con ROE de 17,4% y crecimiento del beneficio operativo de +274,4%, la calidad fundamental está confirmada. El flujo F+QI en cinco días es el más alto de la tabla: +645,8 mil millones de won, señal de que el dinero institucional toma posición en este segmento. La cautela es significativa: DART registra cuatro alertas de riesgo en los últimos 21 días, incluyendo dos ejercicios de opción sobre bonos convertibles anunciados el propio 15 de mayo — señal de potencial dilución que exige análisis detallado antes de elevar su clasificación editorial.
 

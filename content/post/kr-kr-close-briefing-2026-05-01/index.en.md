@@ -12,7 +12,7 @@ draft: false
 
 South Korea's equity markets sat out May 1 — a national holiday — so the most recent price data reflects the April 30 close: KOSPI at 6,598.87 (-1.38%) and KOSDAQ at 1,192.35 (-2.29%). On the surface, that looks like a risk-off session. Beneath the surface, it was not.
 
-Screener data generated during the holiday tells a more constructive story. Follow-Through Day count reached Day 20. The proprietary Bull Score sat at a perfect 100/100. Stocks trading above their 50-day moving average: 65.4%. Above the 200-day: 59.8%. These are not the internals of a market rolling over. They point to rotation and profit-taking ahead of the long weekend, not a regime change. The working hypothesis heading into the next Korean trading session is **neutral-to-risk-on**, with leadership remaining in AI power infrastructure, shipbuilding engines, HBM-related semiconductor equipment, and select renewables.
+Screener data generated during the holiday tells a more constructive story. Follow-Through Day count reached Day 20. The proprietary Bull Score sat at a perfect 100/100. Stocks trading above their 50-day moving average: 65.4%. Above the 200-day: 59.8%. These are not the internals of a market rolling over. They point to rotation and profit-taking ahead of the long weekend, not a regime change. The working hypothesis heading into the next Korean trading session is <strong>neutral-to-risk-on</strong>, with leadership remaining in AI power infrastructure, shipbuilding engines, HBM-related semiconductor equipment, and select renewables.
 
 ---
 
@@ -32,7 +32,7 @@ This distinction reframes how to read AI infrastructure plays on the KOSPI and K
 
 ### Hanwha Engine: From Ship Rooms to Server Rooms
 
-Mirae Asset published a research note on Hanwha Engine (082740.KS) that deserves attention beyond the shipbuilding community. The report explicitly identified two revaluation drivers: the return of 4-stroke medium-speed marine engines, and — more importantly — a growing order pipeline for **land-based power generation engines targeting data centers**.
+Mirae Asset published a research note on Hanwha Engine (082740.KS) that deserves attention beyond the shipbuilding community. The report explicitly identified two revaluation drivers: the return of 4-stroke medium-speed marine engines, and — more importantly — a growing order pipeline for <strong>land-based power generation engines targeting data centers</strong>.
 
 Hanwha Engine is not simply a play on the global shipbuilding upcycle. It is being repriced as a node in the AI power infrastructure value chain, supplying backup and primary generation capacity for data centers in markets where grid reliability is constrained. That is a materially different earnings multiple than the market assigned six months ago. The stock ran hard into the holiday; new positions warrant patience for a consolidation.
 
@@ -46,24 +46,24 @@ Iran-related military risk, potential Strait of Hormuz disruption scenarios, and
 
 The May 1 screener run surfaced several names worth monitoring as Korean markets reopen.
 
-**Hanmi Semiconductor (042700.KS)** — the top-ranked candidate in the operational screen — saw simultaneous net-buying from both foreign and domestic institutional investors through April 30. As South Korea's leading manufacturer of thermal compression bonding equipment critical to HBM packaging, Hanmi sits at the intersection of every theme that is currently working. It remains the highest-conviction watch heading into the next session.
+<strong>Hanmi Semiconductor (042700.KS)</strong> — the top-ranked candidate in the operational screen — saw simultaneous net-buying from both foreign and domestic institutional investors through April 30. As South Korea's leading manufacturer of thermal compression bonding equipment critical to HBM packaging, Hanmi sits at the intersection of every theme that is currently working. It remains the highest-conviction watch heading into the next session.
 
-**HD Hyundai Energy Solutions (322000.KS)** — South Korea's largest solar module manufacturer — registered a Relative Strength score of 99.4, with foreign and institutional investors buying in tandem. The high-oil-price environment provides a secondary tailwind through accelerated renewable adoption. The RSI is extended; this one needs a pullback before it becomes actionable.
+<strong>HD Hyundai Energy Solutions (322000.KS)</strong> — South Korea's largest solar module manufacturer — registered a Relative Strength score of 99.4, with foreign and institutional investors buying in tandem. The high-oil-price environment provides a secondary tailwind through accelerated renewable adoption. The RSI is extended; this one needs a pullback before it becomes actionable.
 
-**Sanyil Electric (062040.KS)** surged 20.4% through the holiday week on power infrastructure demand. The move is too extended for fresh entries. The pattern to watch for is a volume-confirmed consolidation at support.
+<strong>Sanyil Electric (062040.KS)</strong> surged 20.4% through the holiday week on power infrastructure demand. The move is too extended for fresh entries. The pattern to watch for is a volume-confirmed consolidation at support.
 
-**Lino Industrial (058470.KS)** — a manufacturer of semiconductor test sockets — showed increasing volume alongside institutional co-buying. It is the least overheated name on the short list, which makes it worth tracking as a potential controlled-entry opportunity.
+<strong>Lino Industrial (058470.KS)</strong> — a manufacturer of semiconductor test sockets — showed increasing volume alongside institutional co-buying. It is the least overheated name on the short list, which makes it worth tracking as a potential controlled-entry opportunity.
 
-**Korea Circuit (007810.KS) and Daeduck Electronics (008060.KS)** represent the PCB substrate angle on AI infrastructure. Both appeared in discovery screens but showed price weakness through April 30. Confirmation of price stabilization is required before these graduate from watchlist to actionable.
+<strong>Korea Circuit (007810.KS) and Daeduck Electronics (008060.KS)</strong> represent the PCB substrate angle on AI infrastructure. Both appeared in discovery screens but showed price weakness through April 30. Confirmation of price stabilization is required before these graduate from watchlist to actionable.
 
 ---
 
 ## Key Levels to Watch When Korea Reopens
 
-- **Samsung Electronics (005930.KS)**: The pivotal question is whether foreign net-selling decelerates or reverses. No acceleration in buying here = no broad KOSPI lift.
-- **Samsung Electro-Mechanics (009150.KS)**: Holding near the 832,000 KRW level; institutional selling pace needs to slow for this to set up as a consolidation entry.
-- **Hanwha Engine (082740.KS)**: Post-surge support around the 88,000 KRW area. Continued foreign and institutional co-buying would validate the data center power thesis.
-- **Pearl Abyss (263750.KS)** — the South Korean video game developer behind *Black Desert Online* and the upcoming *Crimson Desert* — saw weak price action but institutional support held. Recovery toward the 59,000–60,000 KRW range is the near-term signal to watch.
+- <strong>Samsung Electronics (005930.KS)</strong>: The pivotal question is whether foreign net-selling decelerates or reverses. No acceleration in buying here = no broad KOSPI lift.
+- <strong>Samsung Electro-Mechanics (009150.KS)</strong>: Holding near the 832,000 KRW level; institutional selling pace needs to slow for this to set up as a consolidation entry.
+- <strong>Hanwha Engine (082740.KS)</strong>: Post-surge support around the 88,000 KRW area. Continued foreign and institutional co-buying would validate the data center power thesis.
+- <strong>Pearl Abyss (263750.KS)</strong> — the South Korean video game developer behind *Black Desert Online* and the upcoming *Crimson Desert* — saw weak price action but institutional support held. Recovery toward the 59,000–60,000 KRW range is the near-term signal to watch.
 
 ---
 

@@ -8,15 +8,15 @@ categories: ["Why-Korea"]
 tags: ["Why Korea", "Korean cosmetics", "K-beauty", "skincare", "Olive Young", "ODM", "Kolmar Korea", "Cosmax", "APR", "Medicube", "beauty devices", "Korean wave", "Korean stocks"]
 ---
 
-> **Why Korea series, Part 2.** Part 1 asked [why Korea has so many semiconductor substrate companies](/post/why-korea-semiconductor-substrate-competitive-edge-2026-05-07/). This note asks the same question in consumer products: why did Korea produce globally relevant beauty brands, ODM manufacturers, a dominant retail platform and beauty-device companies at the same time? Read this together with the [Olive Young, PharmaResearch and K-Beauty Hub](/page/k-beauty-olive-young-pharmaresearch-hub/), [APR / Medicube analysis](/post/apr-medicube-age-r-deep-dive-valuation-2026/), and [Olive Young public-stock explainer](/post/olive-young-publicly-traded-cj-corp-korea-beauty-exposure-2026-04-27/).
+> <strong>Why Korea series, Part 2.</strong> Part 1 asked [why Korea has so many semiconductor substrate companies](/post/why-korea-semiconductor-substrate-competitive-edge-2026-05-07/). This note asks the same question in consumer products: why did Korea produce globally relevant beauty brands, ODM manufacturers, a dominant retail platform and beauty-device companies at the same time? Read this together with the [Olive Young, PharmaResearch and K-Beauty Hub](/page/k-beauty-olive-young-pharmaresearch-hub/), [APR / Medicube analysis](/post/apr-medicube-age-r-deep-dive-valuation-2026/), and [Olive Young public-stock explainer](/post/olive-young-publicly-traded-cj-corp-korea-beauty-exposure-2026-04-27/).
 >
-> 📚 **Subsequent parts**: [Part 3 — Samsung / SK hynix → Korean Economy Re-rating](/post/samsung-sk-hynix-korea-ai-economy-rerating-2026-05-09/) · [Part 4 — $6.7B Inflows, Korea-Discount Dissolving or Value Trap?](/post/korea-67-billion-etf-inflow-korea-discount-or-value-trap-2026-05-09/)
+> 📚 <strong>Subsequent parts</strong>: [Part 3 — Samsung / SK hynix → Korean Economy Re-rating](/post/samsung-sk-hynix-korea-ai-economy-rerating-2026-05-09/) · [Part 4 — $6.7B Inflows, Korea-Discount Dissolving or Value Trap?](/post/korea-67-billion-etf-inflow-korea-discount-or-value-trap-2026-05-09/)
 
 Korea exported USD 11.43 billion of cosmetics in 2025. That was a record. Korea is now commonly discussed alongside France and the United States as one of the world's top three cosmetics exporters, and depending on classification it competes with the U.S. for the number-two slot behind France.
 
 That should feel a little strange. Korea does not have a L'Oreal, Estee Lauder, Chanel or Dior. It does not have France's centuries-old perfume and luxury tradition. Its domestic population is only about 50 million. So how did Korean cosmetics become this large?
 
-The answer is not one national champion. It is an ecosystem: **fast product development, contract manufacturing, demanding consumers, Olive Young as a market-validation platform, Korean cultural exports, and digital distribution through Amazon, TikTok Shop, Sephora, Ulta and other channels.**
+The answer is not one national champion. It is an ecosystem: <strong>fast product development, contract manufacturing, demanding consumers, Olive Young as a market-validation platform, Korean cultural exports, and digital distribution through Amazon, TikTok Shop, Sephora, Ulta and other channels.</strong>
 
 The product mix says a lot. In 2025, skincare exports were USD 8.54 billion, roughly 75% of Korea's cosmetics exports. Korea is not mainly exporting perfume. It is exporting a culture of skin management: hydration, calming, barrier repair, sunscreen, brightening, anti-aging, masks, pads, serums and ampoules.
 
@@ -59,7 +59,7 @@ The product mix is just as important.
 
 Check: 8.54 / 11.43 = 74.7%.
 
-The conclusion is simple. Korea is not mainly a fragrance exporter. It is not mainly a luxury-makeup exporter. It is a **skincare exporter**. That changes the economics. Fragrance and prestige makeup lean heavily on brand aura and campaign power. Skincare leans more on ingredients, texture, repeat purchase, reviews and distribution data. Korea's ecosystem is built for the latter.
+The conclusion is simple. Korea is not mainly a fragrance exporter. It is not mainly a luxury-makeup exporter. It is a <strong>skincare exporter</strong>. That changes the economics. Fragrance and prestige makeup lean heavily on brand aura and campaign power. Skincare leans more on ingredients, texture, repeat purchase, reviews and distribution data. Korea's ecosystem is built for the latter.
 
 ---
 

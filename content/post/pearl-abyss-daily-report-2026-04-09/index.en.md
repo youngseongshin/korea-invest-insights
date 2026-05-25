@@ -9,9 +9,9 @@ tags: ["Pearl Abyss", "263750", "Crimson Desert", "Korean gaming stocks", "short
 series: ["pearl-abyss-crimson-desert-thesis"]
 ---
 
-> **Date:** 2026-04-09
-> **Price:** KRW 56,500 (close) | **Intraday Low:** KRW 55,000
-> **Category:** Daily Monitoring | **Crimson Desert Global Sales Rank:** #1 Maintained
+> <strong>Date:</strong> 2026-04-09
+> <strong>Price:</strong> KRW 56,500 (close) | <strong>Intraday Low:</strong> KRW 55,000
+> <strong>Category:</strong> Daily Monitoring | <strong>Crimson Desert Global Sales Rank:</strong> #1 Maintained
 
 ---
 
@@ -19,7 +19,7 @@ series: ["pearl-abyss-crimson-desert-thesis"]
 
 Early selling pressure drove the stock to KRW 55,000, but buying demand pushed the close back to KRW 56,500. While the surface appears flat, internally it was an intensely contested day. Both the failure to break below KRW 55,000 and the failure to breach KRW 56,600 were confirmed simultaneously, indicating a range-bound phase within a bearish trend.
 
-**Key Levels:**
+<strong>Key Levels:</strong>
 
 | Level | Price |
 |-------|-------|
@@ -37,7 +37,7 @@ Short selling volume hit 232,474 shares (+134.9% day-over-day). However, the ave
 
 ### 2.2 Positional Short Interest
 
-While transactional short selling surged, outstanding short positions remain –40.8% below their peak. Today's short selling spike is interpreted as **options expiry-driven transactional and hedging activity** rather than structural short accumulation.
+While transactional short selling surged, outstanding short positions remain –40.8% below their peak. Today's short selling spike is interpreted as <strong>options expiry-driven transactional and hedging activity</strong> rather than structural short accumulation.
 
 ---
 
@@ -66,7 +66,7 @@ Foreigners have executed large-scale cumulative buying (+2.53 million shares) ov
 
 ### 4.2 Sales Milestone Assessment
 
-Sales rank anchor and review quality remain solid, but the consecutive decline in CCU troughs and 67% average retention **clearly signal weakening long-tail endurance**. 5 million copies is virtually certain, but the path beyond 8 million has visibility but remains uncertain.
+Sales rank anchor and review quality remain solid, but the consecutive decline in CCU troughs and 67% average retention <strong>clearly signal weakening long-tail endurance</strong>. 5 million copies is virtually certain, but the path beyond 8 million has visibility but remains uncertain.
 
 ---
 
@@ -77,7 +77,7 @@ Sales rank anchor and review quality remain solid, but the consecutive decline i
 | Within 1 week | Possible official 5M announcement | Already being priced in, "Sell the News" risk |
 | Early-Mid May | Q1 earnings release | Key catalyst — consensus reset |
 
-The market's core question is not "will 5 million happen?" but rather **"how much upside remains after 5 million?"** Short positions are aware of this, and today's aggressive selling is interpreted not as a denial of 5M but as pre-pricing the limited price utility after the announcement.
+The market's core question is not "will 5 million happen?" but rather <strong>"how much upside remains after 5 million?"</strong> Short positions are aware of this, and today's aggressive selling is interpreted not as a denial of 5M but as pre-pricing the limited price utility after the announcement.
 
 ---
 
@@ -85,25 +85,25 @@ The market's core question is not "will 5 million happen?" but rather **"how muc
 
 ### Premium vs Discount Factors (2027E EV/EBIT basis)
 
-**Premium Factors:**
+<strong>Premium Factors:</strong>
 - Proprietary game engine
 - Black Desert IP longevity
 - Crimson Desert-based follow-on revenue streams
 - Dokkebi option value
 
-**Discount Factors:**
+<strong>Discount Factors:</strong>
 - Hit-driven dependency
 - Long-tail uncertainty
 - Absence of shareholder return policy
 - Limited next-title visibility
 
-What the market watches is not absolute sales volume, but **the extent to which that sales volume opens up 2–3 year cash flows and multiple re-rating**. 5M vs 6M is meaningful, but 5M vs 5.2M is relatively less significant.
+What the market watches is not absolute sales volume, but <strong>the extent to which that sales volume opens up 2–3 year cash flows and multiple re-rating</strong>. 5M vs 6M is meaningful, but 5M vs 5.2M is relatively less significant.
 
 ---
 
 ## 7. Shareholder Return — A Structural Discount
 
-Pearl Abyss's current price defense logic relies entirely on Crimson Desert's commercial success, sales volume, and earnings expectations — not shareholder returns. Conviction in cash flow attribution to shareholders remains weak, meaning **no policy backstop exists to defend the valuation floor** should event risks materialize.
+Pearl Abyss's current price defense logic relies entirely on Crimson Desert's commercial success, sales volume, and earnings expectations — not shareholder returns. Conviction in cash flow attribution to shareholders remains weak, meaning <strong>no policy backstop exists to defend the valuation floor</strong> should event risks materialize.
 
 ---
 
@@ -111,9 +111,9 @@ Pearl Abyss's current price defense logic relies entirely on Crimson Desert's co
 
 Today's intense battle is explained by the simultaneous collision of three factors:
 
-1. **Options Expiry Flow:** Hedging, program trading, rebalancing, and rollover volumes reinforced the short selling and short-term selling execution environment.
-2. **Diminishing Information Value of the 5M Announcement:** Most market participants recognize its imminence → the debate is not about the announcement itself but the magnitude of post-announcement upside → "Sell the News" logic forming.
-3. **Flow Crossover:** Fading foreign buying + sustained institutional selling vs. retail/Kiwoom contra-buying collision.
+1. <strong>Options Expiry Flow:</strong> Hedging, program trading, rebalancing, and rollover volumes reinforced the short selling and short-term selling execution environment.
+2. <strong>Diminishing Information Value of the 5M Announcement:</strong> Most market participants recognize its imminence → the debate is not about the announcement itself but the magnitude of post-announcement upside → "Sell the News" logic forming.
+3. <strong>Flow Crossover:</strong> Fading foreign buying + sustained institutional selling vs. retail/Kiwoom contra-buying collision.
 
 ---
 
@@ -121,7 +121,7 @@ Today's intense battle is explained by the simultaneous collision of three facto
 
 ### Final Assessment
 
-Pearl Abyss is currently in a phase where **the stock price isn't collapsing, but game vitals are holding**. Short selling is strong but lacks the power to dominate the downside, while sales event expectations still prop up the floor.
+Pearl Abyss is currently in a phase where <strong>the stock price isn't collapsing, but game vitals are holding</strong>. Short selling is strong but lacks the power to dominate the downside, while sales event expectations still prop up the floor.
 
 ### Bullish Reversal Confirmation
 

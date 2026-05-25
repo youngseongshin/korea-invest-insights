@@ -22,7 +22,7 @@ series: ["pearl-abyss-crimson-desert-thesis"]
 
 > 📚 [Pearl Abyss and Crimson Desert investment research hub](/page/pearl-abyss-crimson-desert-hub/) collects the full thread: unit sales, Patch 1.04, platform re-rating, KRW 60,000 support, Shinhan's target-price gap, and the CCP/EVE divestiture.
 >
-> Follow-up: what specifically breaks Shinhan's **"2027 sales cliff"** assumption after 1Q26? → [What the DLC "exploring" comment really means — not KRW 60B of revenue, but a multiple re-classification](/post/pearl-abyss-dlc-package-to-franchise-rerating-2026-05-15/)
+> Follow-up: what specifically breaks Shinhan's <strong>"2027 sales cliff"</strong> assumption after 1Q26? → [What the DLC "exploring" comment really means — not KRW 60B of revenue, but a multiple re-classification](/post/pearl-abyss-dlc-package-to-franchise-rerating-2026-05-15/)
 
 *This is the closing installment of the series — at least for the run-up to the May 1Q26 earnings release. The most recent prior installments: [Retail → Institutional Handoff at ₩60K](https://koreainvestinsights.com/post/pearl-abyss-60k-new-support-retail-to-institutional-handoff-2026-04-27/), [Post-Patch Weekend Data](https://koreainvestinsights.com/post/pearl-abyss-crimson-desert-post-patch-weekend-data-2026-04-27/), [Platform Re-rating](https://koreainvestinsights.com/post/pearl-abyss-crimson-desert-platform-rerating-2026-04-25/), [Patch 1.04 Witcher Moment](https://koreainvestinsights.com/post/pearl-abyss-crimson-desert-patch-104-witcher-moment-2026-04-23/), [1Q26 Earnings Preview](https://koreainvestinsights.com/post/pearl-abyss-1q26-earnings-preview-2026-04-21/), [Short-Sale Absorption](https://koreainvestinsights.com/post/pearl-abyss-short-sale-absorption-2026-04-21/), [Sell-Side Consensus Gap](https://koreainvestinsights.com/post/pearl-abyss-crimson-desert-consensus-gap-thesis-2026-04-18/), [5M Franchise Re-rating](https://koreainvestinsights.com/post/pearl-abyss-crimson-desert-5m-franchise-thesis-2026-04-15/). This installment dissects where the April 29 Shinhan Securities report (75.6% target-price upgrade) aligns with and diverges from our 1Q26 model — the anatomy of the ₩49.7B operating-profit gap, the meaning of the ₩72,000 target, and our framework through the May earnings release.*
 
@@ -30,10 +30,10 @@ series: ["pearl-abyss-crimson-desert-thesis"]
 
 ## Executive Summary
 
-* Shinhan Securities raised its Pearl Abyss target price on April 29 from **₩41,000 to ₩72,000**, a 75.6% increase. Its 1Q26 operating profit estimate of **₩254.7B** is **more than double** the market consensus of approximately ₩125.0B.
-* Relative to our April 21 base case (revenue ₩395.0B, operating profit ₩205.0B, OPM 51.9%), the gap is **+₩38.5B in revenue, +₩49.7B in operating profit, and +6.9%p in OPM**. But the key variable is not unit volume. Shinhan assumes **3.7 million units** recognized in 1Q — **250,000 units more conservative than our 3.95 million** — yet still arrives at 24% higher operating profit.
-* The gap is entirely a **margin** story. At its core is a single line: **marketing expenses of ₩19.7B**. This is approximately ₩10.0B below our assumption of ₩30.0B, and this one line explains roughly one-fifth of the operating profit gap. Revenue recognition efficiency (implied ASP of approximately ₩91,000 per unit for Crimson Desert vs. our ₩79,800) explains the remainder.
-* Bottom line: it is a positive event that mainstream sell-side has for the first time officially reflected a 1Q surprise in published numbers. However, the ₩72,000 target represents only the **upper bound** of our normalization range (₩68,000–₩72,000) — it falls short of our primary fair value (₩75,000), our 8.5M validation price (approximately ₩79,700), and our bull scenario (₩86,000+). **Hold, no new buys, begin scaling down near ₩75,000, actively take profits above ₩86,000.** The framework is unchanged from April 21.
+* Shinhan Securities raised its Pearl Abyss target price on April 29 from <strong>₩41,000 to ₩72,000</strong>, a 75.6% increase. Its 1Q26 operating profit estimate of <strong>₩254.7B</strong> is <strong>more than double</strong> the market consensus of approximately ₩125.0B.
+* Relative to our April 21 base case (revenue ₩395.0B, operating profit ₩205.0B, OPM 51.9%), the gap is <strong>+₩38.5B in revenue, +₩49.7B in operating profit, and +6.9%p in OPM</strong>. But the key variable is not unit volume. Shinhan assumes <strong>3.7 million units</strong> recognized in 1Q — <strong>250,000 units more conservative than our 3.95 million</strong> — yet still arrives at 24% higher operating profit.
+* The gap is entirely a <strong>margin</strong> story. At its core is a single line: <strong>marketing expenses of ₩19.7B</strong>. This is approximately ₩10.0B below our assumption of ₩30.0B, and this one line explains roughly one-fifth of the operating profit gap. Revenue recognition efficiency (implied ASP of approximately ₩91,000 per unit for Crimson Desert vs. our ₩79,800) explains the remainder.
+* Bottom line: it is a positive event that mainstream sell-side has for the first time officially reflected a 1Q surprise in published numbers. However, the ₩72,000 target represents only the <strong>upper bound</strong> of our normalization range (₩68,000–₩72,000) — it falls short of our primary fair value (₩75,000), our 8.5M validation price (approximately ₩79,700), and our bull scenario (₩86,000+). <strong>Hold, no new buys, begin scaling down near ₩75,000, actively take profits above ₩86,000.</strong> The framework is unchanged from April 21.
 
 ---
 
@@ -90,7 +90,7 @@ Shinhan OPM = 254.7 / 433.5 = 58.7%
 Internal OPM = 205.0 / 395.0 = 51.9%
 OPM gap = 58.7 − 51.9 = 6.9%p
 
-Key observation: the operating profit gap (24.2%) is 2.5× wider than the revenue gap (9.7%). This means Shinhan's model is not a bet on aggressive unit volume — it is a bet on **aggressive margin assumptions**.
+Key observation: the operating profit gap (24.2%) is 2.5× wider than the revenue gap (9.7%). This means Shinhan's model is not a bet on aggressive unit volume — it is a bet on <strong>aggressive margin assumptions</strong>.
 
 ### 2.2 Unit Volume Gap — Shinhan Is More Conservative Than We Are
 
@@ -100,9 +100,9 @@ Interestingly, Shinhan's assumed 1Q recognized unit volume is actually lower tha
 | --- | ---: | ---: | ---: |
 | 1Q recognized units | 3.70 million | 3.95 million | −250K (−6.3%) |
 
-Pearl Abyss officially announced **cumulative sales of 4 million units as of April 1 and 5 million units as of April 15**. Our model assumes 3.95 million units on the basis that cumulative sales were very close to 4 million at the March 31 accounting cut-off. Shinhan is 250,000 units more conservative than that.
+Pearl Abyss officially announced <strong>cumulative sales of 4 million units as of April 1 and 5 million units as of April 15</strong>. Our model assumes 3.95 million units on the basis that cumulative sales were very close to 4 million at the March 31 accounting cut-off. Shinhan is 250,000 units more conservative than that.
 
-Key insight: **Shinhan assumes lower volume (Q) but more favorable unit economics (P) and cost structure (C) — two different paths to a similar operating profit level. Our model: high Q × conservative C. Shinhan's model: conservative Q × aggressive C.**
+Key insight: <strong>Shinhan assumes lower volume (Q) but more favorable unit economics (P) and cost structure (C) — two different paths to a similar operating profit level. Our model: high Q × conservative C. Shinhan's model: conservative Q × aggressive C.</strong>
 
 ### 2.3 Revenue Recognition Efficiency — Shinhan Is Closer to Gross Presentation
 
@@ -115,27 +115,27 @@ Compared with our internal scenario (3.95M × ₩79,800 + ₩97.0B = ₩412.2B, 
 
 This discrepancy suggests one of two possibilities:
 
-* Shinhan assumes **pure gross revenue recognition only** — i.e., it does not adopt the hypothesis that console revenue is partially recognized on a net basis.
-* Alternatively, Shinhan assumes **lower legacy IP revenue** (in the ₩80–90B range), thereby attributing a larger share of total revenue to Crimson Desert.
+* Shinhan assumes <strong>pure gross revenue recognition only</strong> — i.e., it does not adopt the hypothesis that console revenue is partially recognized on a net basis.
+* Alternatively, Shinhan assumes <strong>lower legacy IP revenue</strong> (in the ₩80–90B range), thereby attributing a larger share of total revenue to Crimson Desert.
 
 Either way, the answer will be confirmed once the principal-agent accounting treatment is disclosed in the May earnings footnotes. This is precisely the point we flagged in our 1Q26 preview as "the key variable in 1Q26 is not unit volume but accounting methodology."
 
 ### 2.4 The Key Cost Line: Marketing Expenses of ₩19.7B
 
-Shinhan's 1Q marketing expense estimate is **₩19.7B**. In historical context:
+Shinhan's 1Q marketing expense estimate is <strong>₩19.7B</strong>. In historical context:
 
 | Period | Marketing Expenses |
 | --- | ---: |
 | 1Q25 (prior year) | ₩7.3B |
 | 4Q25 (prior quarter) | ₩12.3B |
-| 1Q26 Shinhan estimate | **₩19.7B** |
+| 1Q26 Shinhan estimate | <strong>₩19.7B</strong> |
 | 1Q26 internal base assumption | ₩30.0B |
 
 Shinhan's ₩19.7B implies roughly +60% quarter-over-quarter growth from 4Q25. While plausible, we view it as aggressive for the following reasons:
 
-* **Global simultaneous launch marketing scale.** A simultaneous global release across PC and four console platforms implies global PR and advertising spend where ₩20.0B represents a floor, not a midpoint.
-* **Second-wave marketing push.** Influencer campaigns and global PR follow-ups immediately after the April launch may be partially recognized in 1Q.
-* **Quarter-end concentration of launch-adjacent ad spend.** Accounting convention typically concentrates such expenses at quarter-end.
+* <strong>Global simultaneous launch marketing scale.</strong> A simultaneous global release across PC and four console platforms implies global PR and advertising spend where ₩20.0B represents a floor, not a midpoint.
+* <strong>Second-wave marketing push.</strong> Influencer campaigns and global PR follow-ups immediately after the April launch may be partially recognized in 1Q.
+* <strong>Quarter-end concentration of launch-adjacent ad spend.</strong> Accounting convention typically concentrates such expenses at quarter-end.
 
 If actual marketing expenses come in at ₩25.0B, Shinhan's OP estimate declines by ₩5.3B. At ₩30.0B, it declines by ₩10.3B. This single line explains approximately 20% of the ₩49.7B operating profit gap.
 
@@ -150,7 +150,7 @@ A rough decomposition of the ₩49.7B operating profit gap is as follows:
 | Other cost lines (headcount / D&A / miscellaneous estimation differences) | OP +approximately ₩5–10B |
 | Total | OP +approximately ₩47–57B (consistent with actual gap of ₩49.7B) |
 
-In short, the two primary drivers of the ₩49.7B operating profit gap are **revenue recognition methodology** and **marketing expenses**. Both will be verified in the May earnings footnotes. All other assumption differences are residual.
+In short, the two primary drivers of the ₩49.7B operating profit gap are <strong>revenue recognition methodology</strong> and <strong>marketing expenses</strong>. Both will be verified in the May earnings footnotes. All other assumption differences are residual.
 
 ---
 
@@ -163,7 +163,7 @@ In short, the two primary drivers of the ₩49.7B operating profit gap are **rev
 | FY26E | ₩473.3B | — | Bear ₩360B / Base ₩410B / Bull ₩480B |
 | FY27E | ₩117.0B | approximately ₩155.0B | No finalized model |
 
-Noteworthy: **Shinhan's FY26 operating profit estimate (₩473.3B) is virtually identical to our bull scenario (₩480B). Yet Shinhan's target of ₩72,000 is below our primary fair value of ₩75,000.** The reason is singular: the **FY27 cliff**.
+Noteworthy: <strong>Shinhan's FY26 operating profit estimate (₩473.3B) is virtually identical to our bull scenario (₩480B). Yet Shinhan's target of ₩72,000 is below our primary fair value of ₩75,000.</strong> The reason is singular: the <strong>FY27 cliff</strong>.
 
 ### 3.2 Shinhan's FY27 Assumptions and Weaknesses
 
@@ -176,11 +176,11 @@ Shinhan's ₩117.0B FY27 operating profit projection rests on the following assu
 
 This model has two notable weaknesses.
 
-**Weakness 1 — Undervaluation of Crimson Desert post-launch revenue optionality**
+<strong>Weakness 1 — Undervaluation of Crimson Desert post-launch revenue optionality</strong>
 
 Crimson Desert is not a base-game-only title. A natural revenue lifecycle of base game → patches/updates → DLC/expansions → multiplayer → season passes is entirely plausible. Given Pearl Abyss's decade of live-service expertise from Black Desert Online and the expanded user base from simultaneous console launches, modeling 2027 follow-on revenue as converging to zero is an aggressive bear assumption.
 
-**Weakness 2 — Zero option value for BlackSpace Engine**
+<strong>Weakness 2 — Zero option value for BlackSpace Engine</strong>
 
 Shinhan's ₩72,000 target applies 15x P/E to 12M forward EPS of ₩4,813. This multiple represents a "single-IP, 12-month earnings only" valuation framework. Excluded entirely are:
 
@@ -194,9 +194,9 @@ Shinhan treats all of these items purely as discount factors embedded in the "FY
 
 We have not built a finalized FY27 model. Instead, we monitor three checkpoints:
 
-* **6M global cumulative**: Announcement likely around September 2026. Crossing 6M raises confidence in the 8.5M trajectory.
-* **8.5M validation**: Late 2026 to early 2027. Crossing 8.5M makes entry into the approximately ₩79,700 validation price natural.
-* **Dokkaebi / Plan 8 announcement timeline**: Any official schedule announcement at any point in 2027 would serve as a P/E re-rating trigger.
+* <strong>6M global cumulative</strong>: Announcement likely around September 2026. Crossing 6M raises confidence in the 8.5M trajectory.
+* <strong>8.5M validation</strong>: Late 2026 to early 2027. Crossing 8.5M makes entry into the approximately ₩79,700 validation price natural.
+* <strong>Dokkaebi / Plan 8 announcement timeline</strong>: Any official schedule announcement at any point in 2027 would serve as a P/E re-rating trigger.
 
 If any one of these three checkpoints is met, Shinhan's FY27 assumption of ₩117.0B will prove too low.
 
@@ -214,7 +214,7 @@ If any one of these three checkpoints is met, Shinhan's FY27 assumption of ₩11
 | ₩79,000–₩80,500 | 8.5M validation price | +10–12% above Shinhan target |
 | ₩86,000+ | Bull scenario | +19%+ above Shinhan target |
 
-The ₩72,000 target sits precisely at **the upper end of our normalization range**. Shinhan has priced in "a 1Q earnings reset and nothing more." The 8.5M crossing, the 6M announcement, and BlackSpace Engine option value are not in this price.
+The ₩72,000 target sits precisely at <strong>the upper end of our normalization range</strong>. Shinhan has priced in "a 1Q earnings reset and nothing more." The 8.5M crossing, the 6M announcement, and BlackSpace Engine option value are not in this price.
 
 ### 4.2 Price-Level Factor Framework
 
@@ -246,17 +246,17 @@ None of these conditions have materialized as of April 29. Base case maintained.
 
 Six items to verify before Pearl Abyss reports 1Q26 results in May:
 
-1. **Revenue recognition footnotes.** Principal-agent accounting treatment; gross vs. net recognition for console revenue.
-2. **Advertising and promotional expenses (actual).** Shinhan ₩19.7B vs. our ₩30.0B — which is right.
-3. **Commission and platform fees (actual).** Moves in the same direction as revenue recognition methodology; read together with item 1.
-4. **Legacy IP revenue (BDO + EVE).** Validates our ₩97.0B assumption.
-5. **2Q guidance tone.** How management characterizes 2Q revenue patterns following the 1Q peak.
-6. **Conference call references to new-title schedules.** Dokkaebi, Plan 8, Crimson Desert DLC.
+1. <strong>Revenue recognition footnotes.</strong> Principal-agent accounting treatment; gross vs. net recognition for console revenue.
+2. <strong>Advertising and promotional expenses (actual).</strong> Shinhan ₩19.7B vs. our ₩30.0B — which is right.
+3. <strong>Commission and platform fees (actual).</strong> Moves in the same direction as revenue recognition methodology; read together with item 1.
+4. <strong>Legacy IP revenue (BDO + EVE).</strong> Validates our ₩97.0B assumption.
+5. <strong>2Q guidance tone.</strong> How management characterizes 2Q revenue patterns following the 1Q peak.
+6. <strong>Conference call references to new-title schedules.</strong> Dokkaebi, Plan 8, Crimson Desert DLC.
 
 Items 1 and 2 are the most important.
 
-* **Scenario A (Shinhan direction confirmed):** If item 1 confirms pure gross recognition and item 2 comes in at or below ₩20.0B, Shinhan's ₩433.5B / ₩254.7B is validated. This would mean our model was conservative, and further upside into the high ₩70,000s opens naturally. Even so, our position that anything above ₩80,000 requires separate validation (6M, 8.5M, engine optionality) remains unchanged.
-* **Scenario B (our direction confirmed):** If item 1 confirms mixed recognition or item 2 comes in at ₩25.0–33.0B, Shinhan's OP estimate falls by ₩10.0–20.0B. The market reads it as "beat consensus but not as much as Shinhan." Stabilization within the normalization range (₩68,000–₩72,000) would be the natural outcome.
+* <strong>Scenario A (Shinhan direction confirmed):</strong> If item 1 confirms pure gross recognition and item 2 comes in at or below ₩20.0B, Shinhan's ₩433.5B / ₩254.7B is validated. This would mean our model was conservative, and further upside into the high ₩70,000s opens naturally. Even so, our position that anything above ₩80,000 requires separate validation (6M, 8.5M, engine optionality) remains unchanged.
+* <strong>Scenario B (our direction confirmed):</strong> If item 1 confirms mixed recognition or item 2 comes in at ₩25.0–33.0B, Shinhan's OP estimate falls by ₩10.0–20.0B. The market reads it as "beat consensus but not as much as Shinhan." Stabilization within the normalization range (₩68,000–₩72,000) would be the natural outcome.
 
 In either scenario, the first tranche of scale-down near ₩75,000 operates identically. That is the key point. Our first sell target does not change regardless of which model proves correct.
 
@@ -276,25 +276,25 @@ This series closes here for now. The next post will come after the May earnings 
 
 ## FAQ — Pearl Abyss / Crimson Desert
 
-**Q: Is Pearl Abyss publicly traded?**
-A: Yes. Pearl Abyss is listed on KOSDAQ under ticker **263750**.
+<strong>Q: Is Pearl Abyss publicly traded?</strong>
+A: Yes. Pearl Abyss is listed on KOSDAQ under ticker <strong>263750</strong>.
 
-**Q: Who owns Pearl Abyss?**
+<strong>Q: Who owns Pearl Abyss?</strong>
 A: The largest shareholders are founder Daeil Kim (the Kim family — through direct holdings and related-party stakes) plus institutional investors. Foreign ownership has historically been meaningful. Pearl Abyss does not have a single controlling-conglomerate parent — it is an independent Korean game studio.
 
-**Q: When was Crimson Desert released?**
+<strong>Q: When was Crimson Desert released?</strong>
 A: Crimson Desert launched globally on March 19, 2026, simultaneously across PC (Steam) and console (PlayStation 5, Xbox Series X|S) platforms.
 
-**Q: How many copies of Crimson Desert sold?**
-A: Pearl Abyss officially announced cumulative global sales of **5 million units as of April 15, 2026** — 26 days after launch — making it the fastest-selling Korean console game in history. Cumulative figures continue to update.
+<strong>Q: How many copies of Crimson Desert sold?</strong>
+A: Pearl Abyss officially announced cumulative global sales of <strong>5 million units as of April 15, 2026</strong> — 26 days after launch — making it the fastest-selling Korean console game in history. Cumulative figures continue to update.
 
-**Q: What's Pearl Abyss's market cap?**
+<strong>Q: What's Pearl Abyss's market cap?</strong>
 A: Pearl Abyss's market capitalization fluctuates with the share price; in the post-launch April 2026 window it has ranged broadly across the ₩3–4T-class as the equity tracks Crimson Desert sales and patch reception.
 
-**Q: Who is Pearl Abyss's largest shareholder?**
+<strong>Q: Who is Pearl Abyss's largest shareholder?</strong>
 A: Founder Daeil Kim and related-family entities are the largest shareholder block. Refer to DART filings for the most recent reported ownership structure.
 
-**Q: Is Pearl Abyss the same as Black Desert Online?**
+<strong>Q: Is Pearl Abyss the same as Black Desert Online?</strong>
 A: Pearl Abyss is the Korean game studio that develops and publishes Black Desert Online (BDO). Pearl Abyss also developed Crimson Desert (2026), and is working on DokeV and other titles. The studio uses its own proprietary BlackSpace Engine.
 
 

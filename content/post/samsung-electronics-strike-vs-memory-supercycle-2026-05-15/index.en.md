@@ -23,11 +23,11 @@ slug: samsung-electronics-strike-vs-memory-supercycle-2026-05-15
 
 ## Key takeaways
 
-* **Where we stand**: Samsung Electronics union has notified a general strike for May 21 – June 7. Core demands: a fixed payout of 15% of DS (semiconductor) division operating profit as performance bonus, plus removal of the 50%-of-base-salary cap. Defenses still in play: May 16 NLRC mediation, court injunctions, and the government's emergency arbitration power.
-* **Loss estimates**: JP Morgan KRW 21–35 trillion; industry estimates cited by Yonhap range up to KRW 100 trillion. The wide spread reflects unknowns in participation, line disruption, and restart time.
-* **Price-offset logic**: with DRAM +58–63% and NAND +70–75% in 2Q, a 1–2% production hit is mathematically offsettable. JP Morgan keeps its KRW 350,000 target on this basis.
-* **But the offset is not complete**: (1) structural labor cost from a bonus formula can't be papered over by price; (2) if customers shift orders to SK hynix or Micron, Samsung captures less of the price rally.
-* **The real question**: not "strike or no strike," but **"how the profit-sharing formula changes — that matters more for medium- and long-term valuation."**
+* <strong>Where we stand</strong>: Samsung Electronics union has notified a general strike for May 21 – June 7. Core demands: a fixed payout of 15% of DS (semiconductor) division operating profit as performance bonus, plus removal of the 50%-of-base-salary cap. Defenses still in play: May 16 NLRC mediation, court injunctions, and the government's emergency arbitration power.
+* <strong>Loss estimates</strong>: JP Morgan KRW 21–35 trillion; industry estimates cited by Yonhap range up to KRW 100 trillion. The wide spread reflects unknowns in participation, line disruption, and restart time.
+* <strong>Price-offset logic</strong>: with DRAM +58–63% and NAND +70–75% in 2Q, a 1–2% production hit is mathematically offsettable. JP Morgan keeps its KRW 350,000 target on this basis.
+* <strong>But the offset is not complete</strong>: (1) structural labor cost from a bonus formula can't be papered over by price; (2) if customers shift orders to SK hynix or Micron, Samsung captures less of the price rally.
+* <strong>The real question</strong>: not "strike or no strike," but <strong>"how the profit-sharing formula changes — that matters more for medium- and long-term valuation."</strong>
 
 ---
 
@@ -35,7 +35,7 @@ slug: samsung-electronics-strike-vs-memory-supercycle-2026-05-15
 
 ### 1.1 Scale of the strike
 
-The union notified an **18-day general strike** from May 21 to June 7. Expected participation up to **50,000 employees** — the largest strike risk Samsung Electronics has ever faced.
+The union notified an <strong>18-day general strike</strong> from May 21 to June 7. Expected participation up to <strong>50,000 employees</strong> — the largest strike risk Samsung Electronics has ever faced.
 
 NLRC mediation sessions on May 11–12 collapsed in the early hours of May 13. The union's position: "without concrete institutionalization, there is no reason to talk."
 
@@ -63,11 +63,11 @@ Why this matters:
 
 ### 1.3 Why this issue blew up
 
-**First, the comp gap with SK hynix.** Following its HBM success, SK hynix has materially expanded employee bonuses. Inside the same memory industry, Samsung employees feel relatively underpaid.
+<strong>First, the comp gap with SK hynix.</strong> Following its HBM success, SK hynix has materially expanded employee bonuses. Inside the same memory industry, Samsung employees feel relatively underpaid.
 
-**Second, the profit pool got too large to ignore.** 1Q DS operating profit alone was KRW 53.7T at a 65.7% margin. When excess returns are this large, the question "who gets it" becomes politically unavoidable.
+<strong>Second, the profit pool got too large to ignore.</strong> 1Q DS operating profit alone was KRW 53.7T at a 65.7% margin. When excess returns are this large, the question "who gets it" becomes politically unavoidable.
 
-**Third, fab production is uniquely fragile.** A semiconductor fab runs 24/7 continuous flow. Stops mean scrapped wafers, lower yields, and long restart times. Even the *threat* of a strike already affects operations. Press reports indicate Samsung has begun a "warm-down" — cutting new wafer starts in anticipation.
+<strong>Third, fab production is uniquely fragile.</strong> A semiconductor fab runs 24/7 continuous flow. Stops mean scrapped wafers, lower yields, and long restart times. Even the *threat* of a strike already affects operations. Press reports indicate Samsung has begun a "warm-down" — cutting new wafer starts in anticipation.
 
 ---
 
@@ -109,7 +109,7 @@ so don't apply it mechanically.
 
 ### 3.1 What JP Morgan said
 
-In its May 13 note, JP Morgan (Jay Kwon's team) maintained **Overweight, target KRW 350,000**. Core argument: "memory prices are stronger than expected and can absorb much of the strike loss."
+In its May 13 note, JP Morgan (Jay Kwon's team) maintained <strong>Overweight, target KRW 350,000</strong>. Core argument: "memory prices are stronger than expected and can absorb much of the strike loss."
 
 | Item | JP Morgan |
 | --- | ---: |
@@ -137,7 +137,7 @@ If production loss is 1–2%:
 ∴ For DIRECT production loss alone, the math offsets cleanly.
 ```
 
-The more important calculation — the **"excess" price gain vs prior expectations**:
+The more important calculation — the <strong>"excess" price gain vs prior expectations</strong>:
 
 ```
 Prior expectation: DRAM +45%, NAND +45% (midpoint)
@@ -154,9 +154,9 @@ NAND: 1.725 / 1.45 - 1 = +19.0%
 
 ### 3.3 What's right and what's missing
 
-**Right**: direct production loss (\~1–2% of DS revenue) is comfortably covered by price gains. 2Q estimates could actually move up. **For short-term earnings, JP Morgan's logic holds.**
+<strong>Right</strong>: direct production loss (\~1–2% of DS revenue) is comfortably covered by price gains. 2Q estimates could actually move up. <strong>For short-term earnings, JP Morgan's logic holds.</strong>
 
-**Three things it misses**:
+<strong>Three things it misses</strong>:
 
 ```
 1. Structural labor cost is not a "price" problem.
@@ -194,10 +194,10 @@ NAND: 1.725 / 1.45 - 1 = +19.0%
 
 | Date | Event | Significance |
 | --- | --- | --- |
-| **May 15, 10:00** | Deadline for the CEO's response to the union | Tone can pivot here |
-| **May 16** | NLRC follow-up mediation reopens | Last formal negotiation window |
-| **Around May 20** | Court ruling on injunction | Whether essential workers are excluded |
-| **May 21** | Strike start date | Actual participation rate is the swing factor |
+| <strong>May 15, 10:00</strong> | Deadline for the CEO's response to the union | Tone can pivot here |
+| <strong>May 16</strong> | NLRC follow-up mediation reopens | Last formal negotiation window |
+| <strong>Around May 20</strong> | Court ruling on injunction | Whether essential workers are excluded |
+| <strong>May 21</strong> | Strike start date | Actual participation rate is the swing factor |
 
 ### 4.2 A full shutdown is unlikely
 
@@ -218,7 +218,7 @@ Firebreak 4: Both sides' own incentives
 → Government: semis were 37% of April exports — national economic stakes
 ```
 
-**Base case: a full shutdown is likely to be averted.** But "no shutdown" and "no risk" are different statements.
+<strong>Base case: a full shutdown is likely to be averted.</strong> But "no shutdown" and "no risk" are different statements.
 
 ---
 
@@ -228,9 +228,9 @@ Firebreak 4: Both sides' own incentives
 
 | Scenario | Description | Price impact |
 | --- | --- | --- |
-| **A. Settlement / suspension** | Strike averted via NLRC mediation or government intervention. Bonus stays under existing OPI + special payout | **Short-term bounce** — risk premium removed, memory cycle back in focus |
-| **B. Partial strike** | Some staff walk out; critical lines maintained; participation modest | **Neutral to slightly negative** — noise persists, earnings impact limited |
-| **C. Major strike** | DS critical staff participate; warm-down deepens; customers re-allocate | **Material drawdown** — estimate cuts plus multiple de-rating |
+| <strong>A. Settlement / suspension</strong> | Strike averted via NLRC mediation or government intervention. Bonus stays under existing OPI + special payout | <strong>Short-term bounce</strong> — risk premium removed, memory cycle back in focus |
+| <strong>B. Partial strike</strong> | Some staff walk out; critical lines maintained; participation modest | <strong>Neutral to slightly negative</strong> — noise persists, earnings impact limited |
+| <strong>C. Major strike</strong> | DS critical staff participate; warm-down deepens; customers re-allocate | <strong>Material drawdown</strong> — estimate cuts plus multiple de-rating |
 
 ### 5.2 More important than the scenario — the SHAPE of the bonus deal
 
@@ -250,7 +250,7 @@ Worst case (shareholder-unfriendly):
 → Structural decline in long-run ROIC
 ```
 
-**How this formula gets decided matters more for Samsung's medium- and long-term valuation than whether the strike happens.** A strike that ends in a day still locks in lower shareholder economics if the bonus is fixed at 15%.
+<strong>How this formula gets decided matters more for Samsung's medium- and long-term valuation than whether the strike happens.</strong> A strike that ends in a day still locks in lower shareholder economics if the bonus is fixed at 15%.
 
 ---
 
@@ -267,7 +267,7 @@ As covered in the prior post:
 
 | Broker | 2Q operating profit | Target price |
 | --- | ---: | ---: |
-| Kiwoom Securities | **KRW 100T** | KRW 330,000 |
+| Kiwoom Securities | <strong>KRW 100T</strong> | KRW 330,000 |
 | Yuanta Securities | KRW 86.8T | KRW 340,000 |
 | JP Morgan | — | KRW 350,000 |
 
@@ -293,12 +293,12 @@ Upside +11.5% against a real event risk:
 
 | # | Event | What to check |
 | ---: | --- | --- |
-| 1 | **May 15, 10:00** CEO response | Union reaction — chance to reopen talks |
-| 2 | **May 16** NLRC mediation | Does a middle-ground bonus proposal emerge |
-| 3 | **Around May 20** Court ruling | Scope of essential-worker carve-out |
-| 4 | **May 21** Strike start | Actual participation, DS critical-line impact |
-| 5 | After the strike | **Wafer starts, shipment delays, customer allocation changes** |
-| 6 | Bonus settlement | **Fixed-ratio vs discretionary** — drives long-run ROIC |
+| 1 | <strong>May 15, 10:00</strong> CEO response | Union reaction — chance to reopen talks |
+| 2 | <strong>May 16</strong> NLRC mediation | Does a middle-ground bonus proposal emerge |
+| 3 | <strong>Around May 20</strong> Court ruling | Scope of essential-worker carve-out |
+| 4 | <strong>May 21</strong> Strike start | Actual participation, DS critical-line impact |
+| 5 | After the strike | <strong>Wafer starts, shipment delays, customer allocation changes</strong> |
+| 6 | Bonus settlement | <strong>Fixed-ratio vs discretionary</strong> — drives long-run ROIC |
 
 ---
 
@@ -328,13 +328,13 @@ US-China summit piece:
 
 ## 9. The one-line bottom line
 
-The Samsung Electronics strike is not really about "does the fab stop." It is about **"who captures the excess profit of the memory supercycle — workers or shareholders."**
+The Samsung Electronics strike is not really about "does the fab stop." It is about <strong>"who captures the excess profit of the memory supercycle — workers or shareholders."</strong>
 
-In the short term, JP Morgan's logic holds: with DRAM +60% and NAND +73%, a 1–2% production loss is mathematically offset. But if 15% of DS operating profit gets locked in as a fixed bonus, that is not a one-quarter cost to "offset" — that is a **change in how profit is divided**. And if customers move HBM and server-DRAM allocations to SK hynix or Micron, Samsung captures less of the rally, even though prices keep rising.
+In the short term, JP Morgan's logic holds: with DRAM +60% and NAND +73%, a 1–2% production loss is mathematically offset. But if 15% of DS operating profit gets locked in as a fixed bonus, that is not a one-quarter cost to "offset" — that is a <strong>change in how profit is divided</strong>. And if customers move HBM and server-DRAM allocations to SK hynix or Micron, Samsung captures less of the rally, even though prices keep rising.
 
 A full shutdown is unlikely — NLRC mediation, court injunctions, and government emergency power all sit as firebreaks. But "no shutdown" and "no risk" are not the same thing. Holders need not overreact; new buyers are better off waiting for the May 16 mediation outcome and the May 21 strike decision.
 
-**The need today is event-risk management, not courage.**
+<strong>The need today is event-risk management, not courage.</strong>
 
 ---
 

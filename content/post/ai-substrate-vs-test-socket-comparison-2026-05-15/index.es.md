@@ -22,13 +22,13 @@ slug: ai-substrate-vs-test-socket-comparison-2026-05-15
 
 ## Conclusiones clave
 
-* **Dos segmentos en el back-end de IA**: sustratos y sockets de prueba.
-* **Esencia del sustrato**: una "beta directa de CAPEX" en la construcción de servidores de IA. Más unidades → más ingresos; paquetes más grandes → mayor ASP.
-* **Esencia del socket de prueba**: una "beta de consumibles de alto margen" sobre la complejidad del chip. Chips más complejos → pruebas más exigentes → más sockets y más especializados.
-* **Brecha de rentabilidad**: en 1T26, Daeduck Electronics 14,8% vs ISC 35% vs LEENO Industrial 47,4%. **Los sockets de prueba dominan**.
-* **Brecha de momentum**: las revisiones de estimados de sustratos son más rápidas — alzas de ASP, nuevos LTAs con grandes tecnológicas y escasez de capacidad son catalizadores de corto plazo.
-* **Riesgo de ciclo**: los sustratos son un ciclo de CAPEX (escasez → CAPEX → exceso de oferta). Los sockets de prueba, al ser consumibles, tienen menor ciclicidad.
-* **Conclusión**: operaciones de momentum de corto plazo → sustratos (Daeduck Electronics, Samsung Electro-Mechanics). Compounding de 1 a 2 años → sockets de prueba (LEENO Industrial, ISC). No son el mismo "tema de IA."
+* <strong>Dos segmentos en el back-end de IA</strong>: sustratos y sockets de prueba.
+* <strong>Esencia del sustrato</strong>: una "beta directa de CAPEX" en la construcción de servidores de IA. Más unidades → más ingresos; paquetes más grandes → mayor ASP.
+* <strong>Esencia del socket de prueba</strong>: una "beta de consumibles de alto margen" sobre la complejidad del chip. Chips más complejos → pruebas más exigentes → más sockets y más especializados.
+* <strong>Brecha de rentabilidad</strong>: en 1T26, Daeduck Electronics 14,8% vs ISC 35% vs LEENO Industrial 47,4%. <strong>Los sockets de prueba dominan</strong>.
+* <strong>Brecha de momentum</strong>: las revisiones de estimados de sustratos son más rápidas — alzas de ASP, nuevos LTAs con grandes tecnológicas y escasez de capacidad son catalizadores de corto plazo.
+* <strong>Riesgo de ciclo</strong>: los sustratos son un ciclo de CAPEX (escasez → CAPEX → exceso de oferta). Los sockets de prueba, al ser consumibles, tienen menor ciclicidad.
+* <strong>Conclusión</strong>: operaciones de momentum de corto plazo → sustratos (Daeduck Electronics, Samsung Electro-Mechanics). Compounding de 1 a 2 años → sockets de prueba (LEENO Industrial, ISC). No son el mismo "tema de IA."
 
 ---
 
@@ -648,15 +648,15 @@ Publicación sobre el crash del KOSPI + barrera macro:
 
 ## 9. La conclusión en una línea
 
-Cuando se vende silicio de IA, los primeros beneficiarios son los fabricantes de GPU y HBM. Pero el back-end también tiene dos grandes ganadores — **sustratos y sockets de prueba**.
+Cuando se vende silicio de IA, los primeros beneficiarios son los fabricantes de GPU y HBM. Pero el back-end también tiene dos grandes ganadores — <strong>sustratos y sockets de prueba</strong>.
 
-Ambos se agrupan como "back-end de IA," pero sus estructuras son completamente distintas. **Los sustratos son una "beta de volumen del servidor de IA."** El volumen sube, los paquetes crecen, el ASP aumenta — potencial alcista directo. El momentum es rápido y los márgenes operativos se expanden desde una base de \~12–15% en 1T26. Pero esta es una industria de ciclo CAPEX, y la fecha de finalización de la construcción es el riesgo.
+Ambos se agrupan como "back-end de IA," pero sus estructuras son completamente distintas. <strong>Los sustratos son una "beta de volumen del servidor de IA."</strong> El volumen sube, los paquetes crecen, el ASP aumenta — potencial alcista directo. El momentum es rápido y los márgenes operativos se expanden desde una base de \~12–15% en 1T26. Pero esta es una industria de ciclo CAPEX, y la fecha de finalización de la construcción es el riesgo.
 
-**Los sockets de prueba son una "beta de complejidad del chip."** A medida que los chips se vuelven más complejos, las pruebas se endurecen y se necesitan nuevos sockets cada vez. El OPM es del 35% para ISC y del 47% para LEENO — aproximadamente 3 veces los márgenes de los sustratos. La economía de consumibles amortigua la ciclicidad. Los puntos débiles: el TAM es pequeño y los múltiplos ya son exigentes.
+<strong>Los sockets de prueba son una "beta de complejidad del chip."</strong> A medida que los chips se vuelven más complejos, las pruebas se endurecen y se necesitan nuevos sockets cada vez. El OPM es del 35% para ISC y del 47% para LEENO — aproximadamente 3 veces los márgenes de los sustratos. La economía de consumibles amortigua la ciclicidad. Los puntos débiles: el TAM es pequeño y los múltiplos ya son exigentes.
 
-**No los agrupe como un único "tema de IA."** Para momentum de corto plazo, los sustratos (Daeduck Electronics, Samsung Electro-Mechanics) lideran. Para una tenencia de 1 a 2 años, los sockets de prueba (LEENO Industrial, ISC) tienen más sentido. La mejor estrategia es mantener ambos como complementos — cuando los sustratos se sacuden en el pico del ciclo, los sockets de prueba actúan como defensa; cuando los sockets de prueba sufren presión de múltiplos, el momentum de los sustratos sostiene la cartera.
+<strong>No los agrupe como un único "tema de IA."</strong> Para momentum de corto plazo, los sustratos (Daeduck Electronics, Samsung Electro-Mechanics) lideran. Para una tenencia de 1 a 2 años, los sockets de prueba (LEENO Industrial, ISC) tienen más sentido. La mejor estrategia es mantener ambos como complementos — cuando los sustratos se sacuden en el pico del ciclo, los sockets de prueba actúan como defensa; cuando los sockets de prueba sufren presión de múltiplos, el momentum de los sustratos sostiene la cartera.
 
-**Mismo viento a favor de la IA, estructuras completamente distintas — entender solo eso eleva la calidad de las decisiones de inversión en back-end un peldaño completo.**
+<strong>Mismo viento a favor de la IA, estructuras completamente distintas — entender solo eso eleva la calidad de las decisiones de inversión en back-end un peldaño completo.</strong>
 
 ---
 

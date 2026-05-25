@@ -7,9 +7,9 @@ categories: ["Why-Korea"]
 tags: ["Tại sao Hàn Quốc", "đế chip bán dẫn", "FC-BGA", "ABF", "hạ tầng AI", "sản xuất Hàn Quốc", "vật liệu Nhật Bản", "xưởng đúc Đài Loan", "cổ phiếu Hàn Quốc", "PCB AI"]
 ---
 
-> **Chuỗi bài Tại Sao Hàn Quốc, Phần 1.** Đây là tầng chiến lược phía sau [Trung Tâm PCB và Đế Chip AI của Hàn Quốc](/vi/page/korea-ai-pcb-substrate-hub/). Hãy đọc cùng với [Luận Điểm AI PCB và Đế Chip](/vi/post/ai-pcb-thesis-system-bom-common-bottleneck-2026-05-05/), [Hệ Sinh Thái AI PCB Hàn Quốc: 10 Công Ty](/vi/post/korea-ai-pcb-ecosystem-ten-companies-2026-05-05/), và [Samsung Electro-Mechanics: Định Giá Lại Trong Hạ Tầng AI](/vi/post/samsung-electro-mechanics-ai-infrastructure-rerating-2026-04-21/).
+> <strong>Chuỗi bài Tại Sao Hàn Quốc, Phần 1.</strong> Đây là tầng chiến lược phía sau [Trung Tâm PCB và Đế Chip AI của Hàn Quốc](/vi/page/korea-ai-pcb-substrate-hub/). Hãy đọc cùng với [Luận Điểm AI PCB và Đế Chip](/vi/post/ai-pcb-thesis-system-bom-common-bottleneck-2026-05-05/), [Hệ Sinh Thái AI PCB Hàn Quốc: 10 Công Ty](/vi/post/korea-ai-pcb-ecosystem-ten-companies-2026-05-05/), và [Samsung Electro-Mechanics: Định Giá Lại Trong Hạ Tầng AI](/vi/post/samsung-electro-mechanics-ai-infrastructure-rerating-2026-04-21/).
 
-Có một câu hỏi nằm sâu bên dưới toàn bộ chủ đề đế chip AI Hàn Quốc mà đáng được dành riêng một bài để phân tích: **tại sao Hàn Quốc lại có nhiều công ty đế chip và PCB liền kề được niêm yết đến vậy?**
+Có một câu hỏi nằm sâu bên dưới toàn bộ chủ đề đế chip AI Hàn Quốc mà đáng được dành riêng một bài để phân tích: <strong>tại sao Hàn Quốc lại có nhiều công ty đế chip và PCB liền kề được niêm yết đến vậy?</strong>
 
 Mỹ có Nvidia, AMD, Broadcom, Apple, Qualcomm, Synopsys, Cadence, Applied Materials, Lam Research và KLA. Châu Âu có ASML, Infineon, STMicroelectronics, NXP và một số công ty vật liệu chuyên biệt. Nhưng nếu một nhà đầu tư đi tìm nhà sản xuất đế chip bán dẫn thương mại quy mô lớn, tấm bản đồ ấy nhanh chóng nghiêng hẳn về phía Nhật Bản, Đài Loan và Hàn Quốc.
 
@@ -21,7 +21,7 @@ Kết quả là một hiệu ứng tích lũy theo vùng địa lý. Khách hàn
 
 ## Tóm Tắt
 
-1. Mỹ và Châu Âu không phải thất bại trong việc sản xuất đế chip bán dẫn. Họ phần lớn đã **chủ động chọn không xây dựng** cơ sở sản xuất đế chip thương mại quy mô lớn như châu Á đã làm.
+1. Mỹ và Châu Âu không phải thất bại trong việc sản xuất đế chip bán dẫn. Họ phần lớn đã <strong>chủ động chọn không xây dựng</strong> cơ sở sản xuất đế chip thương mại quy mô lớn như châu Á đã làm.
 2. Đế chip không chỉ là bản vẽ. Đế chip chính là dữ liệu năng suất. Đế chip AI lớn đòi hỏi nhiều tầng, đường dây mạch cực nhỏ, lỗ vi (microvia), kiểm soát vênh cong, ổn định hóa học và chứng nhận độ tin cậy.
 3. Nhật Bản mạnh vì vật liệu và thời gian: Ajinomoto Build-up Film, Ibiden, Shinko và ba thập kỷ tích lũy kinh nghiệm đế chip CPU cao cấp.
 4. Đài Loan mạnh vì TSMC, ASE, SPIL và cụm OSAT / xưởng đúc đã tạo ra nền tảng khách hàng tự nhiên cho Unimicron, Nan Ya và Kinsus.
@@ -35,7 +35,7 @@ Kết quả là một hiệu ứng tích lũy theo vùng địa lý. Khách hàn
 
 Chip bán dẫn có kích thước rất nhỏ và mật độ cực cao. Bo mạch in (PCB) thì lớn hơn nhiều và thô hơn. Các đầu nối trên chip không thể kết nối trực tiếp với bo mạch mà không có một lớp trung gian.
 
-Lớp trung gian đó chính là **đế chip** (package substrate).
+Lớp trung gian đó chính là <strong>đế chip</strong> (package substrate).
 
 ```text
 Chip bán dẫn
@@ -113,7 +113,7 @@ Châu Âu có phần khác biệt, nhưng kết luận tương tự. Châu Âu c
 
 Thế mạnh đế chip của Nhật Bản bắt đầu từ vật liệu.
 
-Từ khóa ở đây là **ABF** — Ajinomoto Build-up Film. ABF là màng cách điện giữa các tầng dùng trong đế chip hiệu năng cao. Lịch sử đổi mới chính thức của Ajinomoto mô tả ABF là vật liệu tiêu chuẩn cho CPU hiệu năng cao, lần đầu được một nhà sản xuất chip lớn áp dụng vào năm 1999, được phát triển từ chuyên môn hóa học tinh vi của công ty.
+Từ khóa ở đây là <strong>ABF</strong> — Ajinomoto Build-up Film. ABF là màng cách điện giữa các tầng dùng trong đế chip hiệu năng cao. Lịch sử đổi mới chính thức của Ajinomoto mô tả ABF là vật liệu tiêu chuẩn cho CPU hiệu năng cao, lần đầu được một nhà sản xuất chip lớn áp dụng vào năm 1999, được phát triển từ chuyên môn hóa học tinh vi của công ty.
 
 Điều đó có ý nghĩa quan trọng vì đế chip không chỉ là đường dây đồng. Vật liệu cách điện giữa các tầng quyết định mạch có thể mảnh đến mức nào, cấu trúc có ổn định ra sao, và đế chip hoạt động thế nào dưới nhiệt độ và áp lực.
 
@@ -242,7 +242,7 @@ Thứ nhất, Hàn Quốc không đứng đầu ở mọi tầng. Bộ nhớ và
 
 Thứ hai, Mỹ và Châu Âu không vắng mặt vĩnh viễn. Tài trợ CHIPS, các chương trình đóng gói tiên tiến, đế chip thủy tinh và đầu tư đóng gói HBM là những nỗ lực rõ ràng để tái thiết các phần còn thiếu trong chuỗi giá trị. Thời gian tính bằng năm, không phải quý, nhưng chiều hướng là thật.
 
-Kết luận đúng không phải là "châu Á sở hữu đế chip mãi mãi." Kết luận đúng là: **lợi thế đế chip hiện tại là sản phẩm của hàng thập kỷ tích lũy kinh nghiệm sản xuất, và điều đó làm cho nó đủ bền vững để có ý nghĩa trong chu kỳ AI này.**
+Kết luận đúng không phải là "châu Á sở hữu đế chip mãi mãi." Kết luận đúng là: <strong>lợi thế đế chip hiện tại là sản phẩm của hàng thập kỷ tích lũy kinh nghiệm sản xuất, và điều đó làm cho nó đủ bền vững để có ý nghĩa trong chu kỳ AI này.</strong>
 
 ---
 

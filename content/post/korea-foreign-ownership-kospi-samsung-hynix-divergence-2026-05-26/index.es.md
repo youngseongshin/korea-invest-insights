@@ -11,16 +11,16 @@ valley_body_mode: teaser
 
 ## TL;DR
 
-* La participación extranjera ponderada por capitalización del KOSPI sigue alta: **36.02% → 38.56%** desde comienzos de 2026 en la serie de referencia.
-* Pero las dos acciones vendidas con más intensidad ya muestran mínimos anuales: Samsung Electronics cae de **52.37% a 48.32%** y SK Hynix de **53.81% a 51.62%**.
+* La participación extranjera ponderada por capitalización del KOSPI sigue alta: <strong>36.02% → 38.56%</strong> desde comienzos de 2026 en la serie de referencia.
+* Pero las dos acciones vendidas con más intensidad ya muestran mínimos anuales: Samsung Electronics cae de <strong>52.37% a 48.32%</strong> y SK Hynix de <strong>53.81% a 51.62%</strong>.
 * La diferencia se explica por metodología: el KOSPI mide valor de mercado; las acciones individuales miden porcentaje de acciones. Si Samsung y SK Hynix suben mucho, el peso de las posiciones extranjeras restantes puede subir aunque haya venta neta.
-* La señal operativa ya no es solo el nivel de propiedad. Es si la venta neta extranjera a cinco días cae por debajo de aproximadamente **1 billón de wones diarios**.
+* La señal operativa ya no es solo el nivel de propiedad. Es si la venta neta extranjera a cinco días cae por debajo de aproximadamente <strong>1 billón de wones diarios</strong>.
 
 ## Lectura
 
 Yonhap Infomax informó que el 48.32% de Samsung es el nivel más bajo desde septiembre de 2013 y que el 51.62% de SK Hynix es el más bajo desde mayo de 2023. ([Yonhap Infomax](https://news.einfomax.co.kr/news/articleViewAmp.html?idxno=4416519))
 
-La venta sigue siendo fuerte. Del 7 al 22 de mayo, los extranjeros vendieron **46.3383 billones de wones** en KOSPI, y Samsung + SK Hynix explicaron **82.9%** del total. ([Daum / Energy Economy](https://v.daum.net/v/20260525140625125?f=p))
+La venta sigue siendo fuerte. Del 7 al 22 de mayo, los extranjeros vendieron <strong>46.3383 billones de wones</strong> en KOSPI, y Samsung + SK Hynix explicaron <strong>82.9%</strong> del total. ([Daum / Energy Economy](https://v.daum.net/v/20260525140625125?f=p))
 
 ## Marco práctico
 

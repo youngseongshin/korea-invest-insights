@@ -24,7 +24,7 @@ tags:
 series: ["ai-pcb-substrate-thesis-2026"]
 ---
 
-> **セクターマップ：** 本稿はパミセル関連リサーチの上位レイヤーにあたるAI PCB・基板テーゼである。[AI PCBハブ](/page/korea-ai-pcb-substrate-hub/)、[パミセル第1回](/post/pamicell-doosan-electro-bg-proxy-rediscovery-2026-04-30/)、[パミセル第2回](/post/pamicell-four-layer-progress-and-fifth-cycle-layer-2026-05-03/)、および[Samsung Electro-Mechanics AIインフラ再評価ノート](/post/samsung-electro-mechanics-ai-infrastructure-rerating-2026-04-21/)と合わせて読むことを推奨する。
+> <strong>セクターマップ：</strong> 本稿はパミセル関連リサーチの上位レイヤーにあたるAI PCB・基板テーゼである。[AI PCBハブ](/page/korea-ai-pcb-substrate-hub/)、[パミセル第1回](/post/pamicell-doosan-electro-bg-proxy-rediscovery-2026-04-30/)、[パミセル第2回](/post/pamicell-four-layer-progress-and-fifth-cycle-layer-2026-05-03/)、および[Samsung Electro-Mechanics AIインフラ再評価ノート](/post/samsung-electro-mechanics-ai-infrastructure-rerating-2026-04-21/)と合わせて読むことを推奨する。
 
 これまでの個別企業分析では、AI PCB・FC-BGA・低損失材料サプライチェーンにおいてどの韓国銘柄が最も有利なポジションを持つかという、より限定的な問いを立ててきた。本稿ではそれを一段引き上げ、そもそもなぜ資本がこのエコシステム全体に向かうべきなのかを問う。
 

@@ -21,20 +21,20 @@ valley_cashtags:
   - 하나마이크론
 ---
 
-> 📚 **Series relacionadas**
+> 📚 <strong>Series relacionadas</strong>
 > [Análisis de la cumbre EE.UU.-China y desacoplamiento tecnológico](/es/post/us-china-summit-tech-decoupling-korea-impact-2026-05-17/) / [Análisis del alfa coreano en CloudMatrix](/es/post/cloudmatrix-expansion-korea-alpha-inspection-consumables-2026-05-17/) / [Catalizadores de estabilización de tasas largas](/es/post/us-japan-long-rate-stabilization-triggers-2026-05-16/) / [Síntesis del ciclo macro](/es/post/2026-q2-macro-cycle-synthesis-2026-05-15/)
 
 *Los mercados tropezaron en la segunda mitad de la semana pasada, y no por un simple choque de tasas. Un alza del precio del petróleo, el aumento de las tasas reales a largo plazo, la fortaleza del dólar, el posicionamiento saturado en IA y el débil crédito chino se movieron todos en la misma dirección al mismo tiempo, generando un risk-off complejo de cinco capas. El WTI tocó la zona de $105; el Brent, $109. El PPI de EE.UU. de abril volvió a acelerarse hasta aproximadamente +6% interanual. El bono del Tesoro a 10 años amenazó el 4,6% y el USD/KRW se mantuvo anclado en la zona de 1.500. En este entorno, comprar solo con base en la tesis de cada acción eleva la probabilidad de pérdida. La recuperación es posible, pero su punto de partida no es "la economía es sólida", sino la confirmación de que las cosas no siguen deteriorándose.*
 
 ## Resumen ejecutivo
 
-* **La corrección actual es un risk-off complejo de cinco capas.** Un choque petrolero, el aumento de las tasas reales a largo plazo, la fortaleza del dólar, el posicionamiento saturado en IA y el débil crédito chino actúan de forma simultánea.
-* **Los catalizadores de recuperación están bien definidos.** Los umbrales clave son: WTI por debajo de $100, Brent por debajo de $105, bono a 10 años de EE.UU. por debajo del 4,50–4,55%, tasa real a 10 años por debajo del 2,0%, DXY por debajo de 99, USD/KRW rompiendo por debajo de 1.500 y estabilización del HYG.
-* **El evento de política de esta semana es el G7 en París.** Más importante que cualquier acción coordinada de tasas es el mensaje sobre suministro energético, volatilidad cambiaria, funcionamiento del mercado de bonos largos y gestión del apalancamiento de los NBFI.
-* **No interprete la Fed de Warsh como simplemente dovish.** Lo que los mercados quieren no es un recorte inmediato, sino la restauración de la credibilidad de la Fed y el funcionamiento del mercado.
-* **Las tasas de mercado pueden caer sin un recorte de la Fed.** Una combinación de RMP, SRF, repos FIMA, recompras del Tesoro, contención de emisión en el extremo largo, alivio del eSLR, normalización del paso por Ormuz y alivio arancelario parcial puede constituir una relajación encubierta.
-* **La recuperación del beta de Corea exige condiciones más estrictas que las de EE.UU.** Además de las tasas largas de EE.UU., deben girar simultáneamente el USD/KRW, el crédito chino y los flujos extranjeros en semiconductores.
-* **La acción de inversión no consiste en expandir el beta.** Esta es la fase de acortar duración hacia valores de infraestructura de IA con resultados confirmados, preservar opcionalidad en efectivo y esperar a que se abran las compuertas macro.
+* <strong>La corrección actual es un risk-off complejo de cinco capas.</strong> Un choque petrolero, el aumento de las tasas reales a largo plazo, la fortaleza del dólar, el posicionamiento saturado en IA y el débil crédito chino actúan de forma simultánea.
+* <strong>Los catalizadores de recuperación están bien definidos.</strong> Los umbrales clave son: WTI por debajo de $100, Brent por debajo de $105, bono a 10 años de EE.UU. por debajo del 4,50–4,55%, tasa real a 10 años por debajo del 2,0%, DXY por debajo de 99, USD/KRW rompiendo por debajo de 1.500 y estabilización del HYG.
+* <strong>El evento de política de esta semana es el G7 en París.</strong> Más importante que cualquier acción coordinada de tasas es el mensaje sobre suministro energético, volatilidad cambiaria, funcionamiento del mercado de bonos largos y gestión del apalancamiento de los NBFI.
+* <strong>No interprete la Fed de Warsh como simplemente dovish.</strong> Lo que los mercados quieren no es un recorte inmediato, sino la restauración de la credibilidad de la Fed y el funcionamiento del mercado.
+* <strong>Las tasas de mercado pueden caer sin un recorte de la Fed.</strong> Una combinación de RMP, SRF, repos FIMA, recompras del Tesoro, contención de emisión en el extremo largo, alivio del eSLR, normalización del paso por Ormuz y alivio arancelario parcial puede constituir una relajación encubierta.
+* <strong>La recuperación del beta de Corea exige condiciones más estrictas que las de EE.UU.</strong> Además de las tasas largas de EE.UU., deben girar simultáneamente el USD/KRW, el crédito chino y los flujos extranjeros en semiconductores.
+* <strong>La acción de inversión no consiste en expandir el beta.</strong> Esta es la fase de acortar duración hacia valores de infraestructura de IA con resultados confirmados, preservar opcionalidad en efectivo y esperar a que se abran las compuertas macro.
 
 ## 1. La naturaleza del risk-off complejo
 
@@ -125,7 +125,7 @@ El camino más racional para la Fed de Warsh se acerca más a lo siguiente:
 
 Reuters informó que los mercados han empezado a descontar una probabilidad de aproximadamente el 60% de una subida de tasas de la Fed en torno al FOMC de enero de 2027. Los mercados no están ya descotando a Warsh como dovish. De hecho, si emergen señales prematuras de relajación justo después de que asuma el cargo, los bonos largos podrían venderse aún más: podría interpretarse como una señal de dominancia fiscal.
 
-Lo que los mercados quieren de la Fed de Warsh, por tanto, no es un recorte inmediato. Es un **pragmatismo creíble**: alguien que mantenga inalterada la tasa de política pero estabilice el funcionamiento del mercado y reduzca la prima de riesgo incorporada en las tasas largas.
+Lo que los mercados quieren de la Fed de Warsh, por tanto, no es un recorte inmediato. Es un <strong>pragmatismo creíble</strong>: alguien que mantenga inalterada la tasa de política pero estabilice el funcionamiento del mercado y reduzca la prima de riesgo incorporada en las tasas largas.
 
 ## 5. Herramientas de política para bajar las tasas de mercado sin un recorte de la Fed
 
@@ -140,7 +140,7 @@ Esta es la idea más importante de este análisis. Las tasas de mercado no está
 | Prima de inflación | Estabilización del petróleo, alivio arancelario, normalización de cadenas de suministro |
 | Prima de balance de dealers | Alivio del eSLR, mejora de la estructura del mercado del Tesoro |
 
-En otras palabras, existen formas de bajar las tasas de mercado sin recortar la tasa de política. A esta combinación la denomino **relajación encubierta compuesta**.
+En otras palabras, existen formas de bajar las tasas de mercado sin recortar la tasa de política. A esta combinación la denomino <strong>relajación encubierta compuesta</strong>.
 
 Por el lado de la Fed, RMP, SRF y repos FIMA son los instrumentos centrales. El RMP es una compra técnica de Treasuries de corto plazo para gestión de reservas —más cercano a una compra técnica para mantener reservas abundantes que a un QE—. El SRF establece un techo para las tasas del mercado de financiación de corto plazo. Los repos FIMA y las líneas de swap reducen el riesgo de que los bancos centrales extranjeros vendan Treasuries al mercado para hacerse de dólares.
 
@@ -209,7 +209,7 @@ La etapa 1 aún no está completamente satisfecha. Por tanto, en lugar de expand
 | Valores con mejora estructural | Priorizar valores con números confirmados — p. ej., 하나마이크론, 티씨케이 |
 | Apuestas en punto de inflexión | Enfoque condicional para valores de alta volatilidad previos a confirmación como Nextin, Jeju Semiconductor |
 
-La posición del alfa coreano no es "comprar porque está barato". Esta es la fase de **preparar los valores que han publicado resultados, pueden capear la compuerta macro y serán las primeras compras cuando regresen los flujos extranjeros**.
+La posición del alfa coreano no es "comprar porque está barato". Esta es la fase de <strong>preparar los valores que han publicado resultados, pueden capear la compuerta macro y serán las primeras compras cuando regresen los flujos extranjeros</strong>.
 
 ## 8. Orientación por activo y cartera
 
@@ -264,7 +264,7 @@ Los resultados de NVIDIA son un evento independiente, pero en este contexto macr
 
 ## 10. Conclusiones finales
 
-El tropiezo del mercado de la semana pasada no fue un simple choque de tasas. Fue un risk-off complejo en el que un choque petrolero, el aumento de las tasas reales a largo plazo, la fortaleza del dólar, el posicionamiento saturado en IA y el débil crédito chino golpearon simultáneamente. La recuperación es posible, pero su punto de partida no es "la Fed recorta de inmediato". La secuencia es: **distensión en Ormuz → caída del petróleo → estabilización de las tasas largas → debilitamiento del dólar → recuperación de los flujos extranjeros hacia Corea**.
+El tropiezo del mercado de la semana pasada no fue un simple choque de tasas. Fue un risk-off complejo en el que un choque petrolero, el aumento de las tasas reales a largo plazo, la fortaleza del dólar, el posicionamiento saturado en IA y el débil crédito chino golpearon simultáneamente. La recuperación es posible, pero su punto de partida no es "la Fed recorta de inmediato". La secuencia es: <strong>distensión en Ormuz → caída del petróleo → estabilización de las tasas largas → debilitamiento del dólar → recuperación de los flujos extranjeros hacia Corea</strong>.
 
 El evento decisivo de esta semana es el G7 en París. El G7 no puede suprimir las tasas directamente. Pero sí puede transmitir mensajes coordinados sobre suministro energético, paso marítimo, volatilidad cambiaria, funcionamiento del mercado de bonos largos y apalancamiento de los NBFI, y eso solo ya reduce la probabilidad de un nuevo pico.
 

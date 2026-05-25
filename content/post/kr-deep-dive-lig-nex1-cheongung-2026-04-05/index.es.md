@@ -35,7 +35,7 @@ LIG Nex1 no es un nombre conocido fuera de la comunidad de defensa de Corea, per
 
 ## ¿Qué es LIG Nex1?
 
-LIG Nex1 es una filial de defensa del Grupo LIG, cotizada en la Bolsa de Valores de Corea bajo el ticker **079550.KS**. Es una de las llamadas "Tres Grandes del K-defense", junto a Hanwha Aerospace e Hyundai Rotem, y forma parte de los ETFs de defensa **PLUS K방산** y **KODEX 방산**.
+LIG Nex1 es una filial de defensa del Grupo LIG, cotizada en la Bolsa de Valores de Corea bajo el ticker <strong>079550.KS</strong>. Es una de las llamadas "Tres Grandes del K-defense", junto a Hanwha Aerospace e Hyundai Rotem, y forma parte de los ETFs de defensa <strong>PLUS K방산</strong> y <strong>KODEX 방산</strong>.
 
 La cartera de productos de la compañía abarca todo el espectro de municiones de precisión guiada:
 
@@ -69,7 +69,7 @@ El Cheongung-II ofrece una alternativa técnicamente competitiva con plazos de e
 
 ### Contrato con los EAU (firmado en 2022, entregas en curso)
 
-El contrato con los Emiratos Árabes Unidos —de aproximadamente **KRW 3,5 billones**— sigue siendo el mayor pedido de exportación individual en la historia de LIG Nex1. El contrato se firmó en 2022 y las entregas están actualmente en marcha, lo que significa que una parte significativa del reconocimiento de ingresos todavía está por llegar. Este contrato por sí solo valida la competitividad internacional del Cheongung-II y ha servido como el acuerdo de referencia para negociaciones posteriores.
+El contrato con los Emiratos Árabes Unidos —de aproximadamente <strong>KRW 3,5 billones</strong>— sigue siendo el mayor pedido de exportación individual en la historia de LIG Nex1. El contrato se firmó en 2022 y las entregas están actualmente en marcha, lo que significa que una parte significativa del reconocimiento de ingresos todavía está por llegar. Este contrato por sí solo valida la competitividad internacional del Cheongung-II y ha servido como el acuerdo de referencia para negociaciones posteriores.
 
 ### Arabia Saudita (negociación activa, \~KRW 5 billones o más)
 
@@ -77,8 +77,8 @@ Arabia Saudita se encuentra actualmente en negociaciones activas para la adquisi
 
 ### Cartera adicional
 
-- **Iraq**: Conversaciones preliminares de exportación en curso; la demanda está impulsada por el mismo cálculo de amenaza iraní que afecta al conjunto del Golfo.
-- **Polonia**: En el contexto del refuerzo del flanco oriental de la OTAN, Polonia está evaluando el Cheongung-II como complemento a sus capas Patriot y SHORAD.
+- <strong>Iraq</strong>: Conversaciones preliminares de exportación en curso; la demanda está impulsada por el mismo cálculo de amenaza iraní que afecta al conjunto del Golfo.
+- <strong>Polonia</strong>: En el contexto del refuerzo del flanco oriental de la OTAN, Polonia está evaluando el Cheongung-II como complemento a sus capas Patriot y SHORAD.
 
 ---
 
@@ -91,7 +91,7 @@ Arabia Saudita se encuentra actualmente en negociaciones activas para la adquisi
 | Rentabilidad vs. 2024 | +200%+ |
 | Índice principal | KOSPI (079550.KS) |
 
-La cartera de pedidos de KRW 15 billones —que representa aproximadamente **4,7 años de ingresos de 2025** a las tasas actuales— es la cifra más importante para los inversores a largo plazo. Proporciona una visibilidad de ingresos extraordinaria y reduce significativamente el riesgo de ejecución asociado habitualmente a los grandes contratistas de defensa que dependen de adjudicaciones de contratos irregulares.
+La cartera de pedidos de KRW 15 billones —que representa aproximadamente <strong>4,7 años de ingresos de 2025</strong> a las tasas actuales— es la cifra más importante para los inversores a largo plazo. Proporciona una visibilidad de ingresos extraordinaria y reduce significativamente el riesgo de ejecución asociado habitualmente a los grandes contratistas de defensa que dependen de adjudicaciones de contratos irregulares.
 
 La revalorización del +200% frente a 2024 refleja tanto la acumulación de la cartera de pedidos como una reclasificación sectorial de las empresas de defensa coreanas, que han pasado de ser consideradas apuestas de adquisición doméstica a ser reconocidas como una categoría de exportación globalmente creíble. Esa reclasificación está, con toda probabilidad, incompleta si Arabia Saudita firma el contrato e Iraq avanza en las negociaciones.
 
@@ -101,47 +101,47 @@ La revalorización del +200% frente a 2024 refleja tanto la acumulación de la c
 
 ### Escenario alcista
 
-**1. Firma del contrato con Arabia Saudita.** Un contrato saudí de más de KRW 5 billones añadiría aproximadamente un tercio a la cartera existente y probablemente desencadenaría un ciclo significativo de revisiones al alza de beneficios. El agravamiento del entorno de amenaza iraní ha acortado los plazos para una decisión.
+<strong>1. Firma del contrato con Arabia Saudita.</strong> Un contrato saudí de más de KRW 5 billones añadiría aproximadamente un tercio a la cartera existente y probablemente desencadenaría un ciclo significativo de revisiones al alza de beneficios. El agravamiento del entorno de amenaza iraní ha acortado los plazos para una decisión.
 
-**2. Escalada con Irán → ola de rearme en el Golfo.** Si una acción militar estadounidense contra Irán se materializa, todos los estados del CCG acelerarán la adquisición de sistemas de defensa aérea. LIG Nex1, como la alternativa al Patriot más rápida en entrega y técnicamente creíble, está estructuralmente posicionada para capturar una porción desproporcionada de los pedidos de emergencia.
+<strong>2. Escalada con Irán → ola de rearme en el Golfo.</strong> Si una acción militar estadounidense contra Irán se materializa, todos los estados del CCG acelerarán la adquisición de sistemas de defensa aérea. LIG Nex1, como la alternativa al Patriot más rápida en entrega y técnicamente creíble, está estructuralmente posicionada para capturar una porción desproporcionada de los pedidos de emergencia.
 
-**3. Demanda del Bigeung (MANPADS).** La guerra en Ucrania revalorizó de forma permanente los sistemas de defensa antiaérea portátiles a nivel mundial. El Bigeung de LIG Nex1 goza de gran reputación en el ejército surcoreano y está atrayendo un creciente interés exportador en los mismos mercados que el Cheongung-II.
+<strong>3. Demanda del Bigeung (MANPADS).</strong> La guerra en Ucrania revalorizó de forma permanente los sistemas de defensa antiaérea portátiles a nivel mundial. El Bigeung de LIG Nex1 goza de gran reputación en el ejército surcoreano y está atrayendo un creciente interés exportador en los mismos mercados que el Cheongung-II.
 
-**4. Conversión de la cartera de pedidos.** Los KRW 15 billones en cartera se convierten en ingresos futuros independientemente de la entrada de nuevos pedidos. Incluso sin nuevos contratos, la trayectoria de beneficios hasta 2028-2029 está en gran medida asegurada.
+<strong>4. Conversión de la cartera de pedidos.</strong> Los KRW 15 billones en cartera se convierten en ingresos futuros independientemente de la entrada de nuevos pedidos. Incluso sin nuevos contratos, la trayectoria de beneficios hasta 2028-2029 está en gran medida asegurada.
 
 ### Escenario bajista
 
-**1. Dependencias de ITAR.** Ciertos subsistemas del Cheongung-II incorporan componentes de origen estadounidense sujetos a ITAR. Washington mantiene la capacidad de bloquear o complicar las reexportaciones, especialmente hacia compradores políticamente sensibles. Cualquier deterioro en las relaciones EE.UU.-Corea o en las relaciones del país comprador con Washington genera un riesgo latente.
+<strong>1. Dependencias de ITAR.</strong> Ciertos subsistemas del Cheongung-II incorporan componentes de origen estadounidense sujetos a ITAR. Washington mantiene la capacidad de bloquear o complicar las reexportaciones, especialmente hacia compradores políticamente sensibles. Cualquier deterioro en las relaciones EE.UU.-Corea o en las relaciones del país comprador con Washington genera un riesgo latente.
 
-**2. Retrasos en los calendarios de exportación.** Los plazos de adquisición en defensa son notoriamente difíciles de predecir. Las entregas a los EAU, las negociaciones saudíes y las tuberías de Iraq y Polonia podrían retrasarse materialmente por restricciones burocráticas, políticas o de base industrial en el lado coreano.
+<strong>2. Retrasos en los calendarios de exportación.</strong> Los plazos de adquisición en defensa son notoriamente difíciles de predecir. Las entregas a los EAU, las negociaciones saudíes y las tuberías de Iraq y Polonia podrían retrasarse materialmente por restricciones burocráticas, políticas o de base industrial en el lado coreano.
 
-**3. Volatilidad geopolítica en Medio Oriente.** Las mismas tensiones que impulsan la demanda también pueden interrumpirla. Un alto el fuego, un cambio en el liderazgo político del Golfo o un giro en las prioridades de los compradores podría reducir la urgencia en el lado de la adquisición.
+<strong>3. Volatilidad geopolítica en Medio Oriente.</strong> Las mismas tensiones que impulsan la demanda también pueden interrumpirla. Un alto el fuego, un cambio en el liderazgo político del Golfo o un giro en las prioridades de los compradores podría reducir la urgencia en el lado de la adquisición.
 
-**4. Valoración tras la revalorización del +200%.** La acción ya ha descontado una parte significativa del relato positivo. Los inversores que entran a los niveles actuales están pagando por un escenario que está parcial, pero no totalmente, reflejado en las estimaciones de consenso. Una decepción en el calendario saudí probablemente produciría una corrección brusca.
+<strong>4. Valoración tras la revalorización del +200%.</strong> La acción ya ha descontado una parte significativa del relato positivo. Los inversores que entran a los niveles actuales están pagando por un escenario que está parcial, pero no totalmente, reflejado en las estimaciones de consenso. Una decepción en el calendario saudí probablemente produciría una corrección brusca.
 
 ---
 
 ## Preguntas frecuentes
 
-**¿Qué es el sistema de misiles Cheongung-II (M-SAM)?**
+<strong>¿Qué es el sistema de misiles Cheongung-II (M-SAM)?</strong>
 El Cheongung-II (천궁-II), formalmente denominado M-SAM (Medium Surface-to-Air Missile), es un sistema de defensa aérea de alcance medio desarrollado por Corea, diseñado para interceptar aeronaves, misiles crucero y misiles balísticos de corto alcance. Utiliza guía por radar activo y es interoperable con la arquitectura nacional KAMD de Corea del Sur. Está ampliamente considerado como la alternativa no estadounidense más cercana al sistema Patriot PAC-2 en su clase de rendimiento.
 
-**¿Cuál es el tamaño de la cartera de pedidos de LIG Nex1?**
+<strong>¿Cuál es el tamaño de la cartera de pedidos de LIG Nex1?</strong>
 Con los datos disponibles para el ejercicio fiscal 2025, la cartera de pedidos de LIG Nex1 superó los KRW 15 billones —una cifra récord para la compañía—. Esto representa aproximadamente 4,7 años de cobertura de ingresos anuales de 2025.
 
-**¿Cuánto vale el contrato del Cheongung-II con los EAU?**
+<strong>¿Cuánto vale el contrato del Cheongung-II con los EAU?</strong>
 Los Emiratos Árabes Unidos firmaron un contrato de adquisición del Cheongung-II por un valor aproximado de KRW 3,5 billones en 2022. Las entregas están actualmente en curso a fecha de 2026.
 
-**¿Está confirmado el acuerdo con Arabia Saudita?**
+<strong>¿Está confirmado el acuerdo con Arabia Saudita?</strong>
 A abril de 2026, Arabia Saudita y LIG Nex1/Corea se encuentran en negociaciones activas. No se ha firmado ningún contrato formalmente. El tamaño estimado del acuerdo supera los KRW 5 billones, pero el calendario y las condiciones siguen sujetos a negociación.
 
-**¿Cómo afectan las tensiones EE.UU.-Irán a LIG Nex1?**
+<strong>¿Cómo afectan las tensiones EE.UU.-Irán a LIG Nex1?</strong>
 Las tensiones entre Estados Unidos e Irán elevan el riesgo percibido de defensa aérea en toda la región del Consejo de Cooperación del Golfo. Los estados del CCG, en particular Arabia Saudita y los EAU, están acelerando la adquisición de sistemas capaces de interceptar misiles balísticos y drones iraníes. El Cheongung-II es uno de los pocos sistemas que puede entregarse en plazos significativos dadas las restricciones de producción del Patriot estadounidense.
 
-**¿Cuál es el riesgo de ITAR para las exportaciones de defensa coreanas?**
+<strong>¿Cuál es el riesgo de ITAR para las exportaciones de defensa coreanas?</strong>
 Las International Traffic in Arms Regulations (ITAR) son controles del gobierno de EE.UU. sobre exportaciones y reexportaciones relacionadas con la defensa. Algunos sistemas de LIG Nex1 contienen componentes de origen estadounidense que requieren la aprobación del gobierno de EE.UU. para su exportación a terceros. Esto otorga a Washington un poder de veto indirecto sobre ciertas ventas de defensa coreanas, creando un riesgo regulatorio difícil de cuantificar pero real.
 
-**¿Cómo está clasificado LIG Nex1 en los ETFs de defensa coreanos?**
+<strong>¿Cómo está clasificado LIG Nex1 en los ETFs de defensa coreanos?</strong>
 LIG Nex1 (079550.KS) es componente tanto del ETF PLUS K방산 como del ETF KODEX 방산, lo que lo hace accesible a los inversores que buscan exposición al sector de defensa coreano sin el riesgo de concentración en un solo valor.
 
 ---

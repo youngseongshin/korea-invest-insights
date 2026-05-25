@@ -25,20 +25,20 @@ tags:
   - "Value-up"
 ---
 
-> 📚 **Serie sobre Capitalización Compuesta mediante Capital y Recompras en Financieras Coreanas — Parte 2/N.**
+> 📚 <strong>Serie sobre Capitalización Compuesta mediante Capital y Recompras en Financieras Coreanas — Parte 2/N.</strong>
 > Anterior: [Meritz Financial Holdings — El Estándar de Capitalización Compuesta mediante Capital y Recompras en Financieras Coreanas, y el Panorama Más Allá de su Máximo](/post/meritz-financial-capital-buyback-compounding-standard-2026-04-30/)
 
-*La [Parte 1](/post/meritz-financial-capital-buyback-compounding-standard-2026-04-30/) encuadró el cambio de reconocimiento más amplio en las financieras coreanas. Esta es la continuación natural: si Meritz representa el modelo estático de "ROE × ratio de payout", entonces Kiwoom Securities es la compañía que completó el cambio de reconocimiento en la variante dinámica de **"ROE × beta de volumen negociado × rotación de capital"** sobre la misma matriz. La caída del 30 de abril tras los sólidos resultados del 1T26 no es un rechazo del modelo. Es la autoestabilización que un precio en máximos genera de forma natural. Este análisis interpreta esa señal.*
+*La [Parte 1](/post/meritz-financial-capital-buyback-compounding-standard-2026-04-30/) encuadró el cambio de reconocimiento más amplio en las financieras coreanas. Esta es la continuación natural: si Meritz representa el modelo estático de "ROE × ratio de payout", entonces Kiwoom Securities es la compañía que completó el cambio de reconocimiento en la variante dinámica de <strong>"ROE × beta de volumen negociado × rotación de capital"</strong> sobre la misma matriz. La caída del 30 de abril tras los sólidos resultados del 1T26 no es un rechazo del modelo. Es la autoestabilización que un precio en máximos genera de forma natural. Este análisis interpreta esa señal.*
 
 ---
 
 ## Resumen Ejecutivo
 
-- **El cambio de reconocimiento ya está completo.** El PBR de Kiwoom Securities pasó de **0,55× (2024)** → **1,14× (2025)** → **1,39× (2026E)**. El mercado ya no clasifica a Kiwoom como un nombre de "descuento por ser líder minorista". Ya ha sido reclasificado como una **correduría de eficiencia de capital con ROE del 20%**.
-- **Por eso los sólidos resultados del 1T26 no fueron un "descubrimiento", sino una "confirmación".** Beneficio operativo ₩621,2B (+90,9%), beneficio neto ₩477,4B (+102,6%), volumen medio diario negociado en renta variable doméstica de Kiwoom ₩27,8T (+215,9%). Cifras claramente sólidas. Pero el mercado ya venía descontando esta trayectoria desde principios de abril. La reacción de -6,02% tras la publicación no refleja la entrada de "nueva información". Es **el inicio de la siguiente fase de verificación, una vez que el reconocimiento ya ha sido descontado en precio**.
-- **Este es el contraste más interesante con el modelo Meritz.** Meritz = capitalización compuesta estática mediante recompras (ROE × ratio de payout). Kiwoom = capitalización compuesta dinámica mediante rotación de capital (ROE × beta de volumen negociado). Dos mecanismos distintos que producen la misma clasificación de "correduría con ROE del 20%". Tras el cambio de reconocimiento, el mercado evalúa a ambas bajo la misma matriz, pero en puntos diferentes.
-- **El precio actual ya incorpora un mecanismo de autoestabilización.** PBR 1,39× cierra la ecuación con ROE 20,7% × coste de capital \~14,9%. El mercado ya tiene descontado un ROE sostenido en torno al 20% bajo. A partir de aquí, el potencial alcista no es alfa de descubrimiento, sino **validación de la durabilidad del modelo** — y el umbral de ₩44,8T de volumen diario medio en mayo–junio es la primera verificación.
-- **La matriz de seguidores configura el nuevo panorama.** Sobre la misma matriz, Korea Investment Holdings (071050; ROE 16,8%, PBR 1,07×), Samsung Securities (016360; ROE 15,8%, PBR 1,05×, rentabilidad por dividendo 5,4%) y NH Investment & Securities (005940; ROE 17,1%, PBR 1,18×, rentabilidad por dividendo 5,9%) ocupan posiciones distintas sobre el mismo estándar. Si Kiwoom se sitúa en la cima de una variante, los demás acumulan cada uno su propio alfa por desfase temporal.
+- <strong>El cambio de reconocimiento ya está completo.</strong> El PBR de Kiwoom Securities pasó de <strong>0,55× (2024)</strong> → <strong>1,14× (2025)</strong> → <strong>1,39× (2026E)</strong>. El mercado ya no clasifica a Kiwoom como un nombre de "descuento por ser líder minorista". Ya ha sido reclasificado como una <strong>correduría de eficiencia de capital con ROE del 20%</strong>.
+- <strong>Por eso los sólidos resultados del 1T26 no fueron un "descubrimiento", sino una "confirmación".</strong> Beneficio operativo ₩621,2B (+90,9%), beneficio neto ₩477,4B (+102,6%), volumen medio diario negociado en renta variable doméstica de Kiwoom ₩27,8T (+215,9%). Cifras claramente sólidas. Pero el mercado ya venía descontando esta trayectoria desde principios de abril. La reacción de -6,02% tras la publicación no refleja la entrada de "nueva información". Es <strong>el inicio de la siguiente fase de verificación, una vez que el reconocimiento ya ha sido descontado en precio</strong>.
+- <strong>Este es el contraste más interesante con el modelo Meritz.</strong> Meritz = capitalización compuesta estática mediante recompras (ROE × ratio de payout). Kiwoom = capitalización compuesta dinámica mediante rotación de capital (ROE × beta de volumen negociado). Dos mecanismos distintos que producen la misma clasificación de "correduría con ROE del 20%". Tras el cambio de reconocimiento, el mercado evalúa a ambas bajo la misma matriz, pero en puntos diferentes.
+- <strong>El precio actual ya incorpora un mecanismo de autoestabilización.</strong> PBR 1,39× cierra la ecuación con ROE 20,7% × coste de capital \~14,9%. El mercado ya tiene descontado un ROE sostenido en torno al 20% bajo. A partir de aquí, el potencial alcista no es alfa de descubrimiento, sino <strong>validación de la durabilidad del modelo</strong> — y el umbral de ₩44,8T de volumen diario medio en mayo–junio es la primera verificación.
+- <strong>La matriz de seguidores configura el nuevo panorama.</strong> Sobre la misma matriz, Korea Investment Holdings (071050; ROE 16,8%, PBR 1,07×), Samsung Securities (016360; ROE 15,8%, PBR 1,05×, rentabilidad por dividendo 5,4%) y NH Investment & Securities (005940; ROE 17,1%, PBR 1,18×, rentabilidad por dividendo 5,9%) ocupan posiciones distintas sobre el mismo estándar. Si Kiwoom se sitúa en la cima de una variante, los demás acumulan cada uno su propio alfa por desfase temporal.
 
 ---
 
@@ -46,7 +46,7 @@ tags:
 
 ### 1.1 Retomando el hilo de la Parte 1
 
-La [Parte 1](/post/meritz-financial-capital-buyback-compounding-standard-2026-04-30/) condensó el movimiento en las financieras coreanas en una sola idea: **la era del "activo de descuento con PBR bajo" ha terminado; el mercado ahora revalúa las financieras coreanas a través de la matriz de ROE × ratio de payout × crecimiento del BPA.** Este análisis profundiza un nivel más dentro del mismo panorama: ¿cómo se ve esa matriz cuando su variable clave es la **beta de volumen negociado minorista** en lugar de la asignación de capital? Kiwoom Securities es la respuesta.
+La [Parte 1](/post/meritz-financial-capital-buyback-compounding-standard-2026-04-30/) condensó el movimiento en las financieras coreanas en una sola idea: <strong>la era del "activo de descuento con PBR bajo" ha terminado; el mercado ahora revalúa las financieras coreanas a través de la matriz de ROE × ratio de payout × crecimiento del BPA.</strong> Este análisis profundiza un nivel más dentro del mismo panorama: ¿cómo se ve esa matriz cuando su variable clave es la <strong>beta de volumen negociado minorista</strong> en lugar de la asignación de capital? Kiwoom Securities es la respuesta.
 
 ### 1.2 La Posición de Kiwoom en una Tabla
 
@@ -74,7 +74,7 @@ Verificaciones aritméticas:
 - Rentabilidad por dividendo 2026E = 15.500 / 398.000 = 3,89% ≈ 3,9% ✓
 - vs mínimo = 398.000 / 132.100 - 1 = 201,3% ✓
 
-La lectura en una sola línea: **el PER parece bajo; el PBR se sitúa en máximos históricos.** Y esos dos hechos no son contradictorios — son el panorama natural de un cambio de reconocimiento plenamente completado.
+La lectura en una sola línea: <strong>el PER parece bajo; el PBR se sitúa en máximos históricos.</strong> Y esos dos hechos no son contradictorios — son el panorama natural de un cambio de reconocimiento plenamente completado.
 
 ---
 
@@ -86,14 +86,14 @@ La evidencia más clara está en la propia evolución del PBR.
 
 | Año | PBR de Kiwoom | Lectura |
 | --- | ---: | --- |
-| 2024 | **0,55×** | Era de la "correduría barata" |
-| 2025 | **1,14×** | Cambio de reconocimiento en curso |
-| 2026E | **1,39×** | Reconocimiento completo; nuevo estándar alcanzado |
-| A partir del 30 de abril de 2026 | **1,39×** | Estable dentro del nuevo estándar |
+| 2024 | <strong>0,55×</strong> | Era de la "correduría barata" |
+| 2025 | <strong>1,14×</strong> | Cambio de reconocimiento en curso |
+| 2026E | <strong>1,39×</strong> | Reconocimiento completo; nuevo estándar alcanzado |
+| A partir del 30 de abril de 2026 | <strong>1,39×</strong> | Estable dentro del nuevo estándar |
 
-Verificación aritmética: variación 2024 → 2026E = 1,39 / 0,55 - 1 = +152,7%. Incluso descontando el crecimiento del VCL en el mismo período, el propio PBR se expandió aproximadamente **2,5×**.
+Verificación aritmética: variación 2024 → 2026E = 1,39 / 0,55 - 1 = +152,7%. Incluso descontando el crecimiento del VCL en el mismo período, el propio PBR se expandió aproximadamente <strong>2,5×</strong>.
 
-Esta trayectoria no está "aún cambiando". **Ya ha cambiado**. El salto más grande (0,55× → 1,14×, +107%) ocurrió en 2025, y 2026 es un ajuste fino sobre esa base. El mismo diagnóstico de la Parte 1 — "el cambio de reconocimiento ya ha ocurrido" — aplica de forma idéntica a Kiwoom.
+Esta trayectoria no está "aún cambiando". <strong>Ya ha cambiado</strong>. El salto más grande (0,55× → 1,14×, +107%) ocurrió en 2025, y 2026 es un ajuste fino sobre esa base. El mismo diagnóstico de la Parte 1 — "el cambio de reconocimiento ya ha ocurrido" — aplica de forma idéntica a Kiwoom.
 
 ### 2.2 El Modelo que Usa Ahora el Mercado
 
@@ -101,27 +101,27 @@ Para que Kiwoom pasara de PBR 0,55× a 1,39×, el modelo subyacente que el merca
 
 | Variable | Modelo Antiguo (PBR 0,5–0,8×) | Modelo Actual (PBR 1,4×) |
 | --- | --- | --- |
-| Supuesto de ROE | 10–12% (media sectorial) | **Compañía verificada con ROE de clase-20%** |
-| Variable clave | Volumen negociado trimestral | **Líder minorista #1 + margen + IMA + prop** |
+| Supuesto de ROE | 10–12% (media sectorial) | <strong>Compañía verificada con ROE de clase-20%</strong> |
+| Variable clave | Volumen negociado trimestral | <strong>Líder minorista #1 + margen + IMA + prop</strong> |
 | Volatilidad de beneficios | Alta (descuento de ciclo) | Sigue siendo alta, pero con un ROE medio más elevado |
-| Rotación de capital | Genérica | **El volumen negociado × apalancamiento de margen acelera la eficiencia del capital** |
-| Clasificación de mercado | "Descuento por liderazgo minorista" | **Correduría de eficiencia de capital** |
+| Rotación de capital | Genérica | <strong>El volumen negociado × apalancamiento de margen acelera la eficiencia del capital</strong> |
+| Clasificación de mercado | "Descuento por liderazgo minorista" | <strong>Correduría de eficiencia de capital</strong> |
 
-En una sola línea: **el mercado ya ha reclasificado a Kiwoom en la categoría de ROE de clase 20%.** Es el mismo tipo de cambio de reconocimiento que recibió Meritz en su camino hacia la categoría de ROE de clase 22%. El mecanismo es simplemente distinto.
+En una sola línea: <strong>el mercado ya ha reclasificado a Kiwoom en la categoría de ROE de clase 20%.</strong> Es el mismo tipo de cambio de reconocimiento que recibió Meritz en su camino hacia la categoría de ROE de clase 22%. El mecanismo es simplemente distinto.
 
 ### 2.3 El Modelo Meritz vs el Modelo Kiwoom — Dos Variantes sobre la Misma Matriz
 
 | Comparativa | Meritz Financial | Kiwoom Securities |
 | --- | --- | --- |
 | ROE | 22,4% (2026E) | 20,7% (2026E) |
-| Mecanismo clave | **Cancelación de capital (capitalización compuesta estática)** | **Rotación de capital (capitalización compuesta dinámica)** |
+| Mecanismo clave | <strong>Cancelación de capital (capitalización compuesta estática)</strong> | <strong>Rotación de capital (capitalización compuesta dinámica)</strong> |
 | Motor de crecimiento del BPA | La recompra y cancelación reduce el número de acciones | El volumen × margen × prop expande los beneficios |
 | Volatilidad de beneficios | Baja (algoritmo de asignación de capital) | Alta (ciclo minorista) |
 | Rentabilidad total | 6,7–6,8% | \~3,9% (impulsada por dividendo) |
 | PBR | 1,6× | 1,39× |
 | Coste de capital implícito | \~11,5% (22,4/1,94) | \~14,9% (20,7/1,39) |
 
-Esta es la tabla más interesante del análisis. **Ambas compañías han sido reconocidas por el mercado como nombres de ROE de clase 20%.** La diferencia está en *cómo* llegan ahí. Meritz hace más grande el valor por acción reduciendo la base de capital (recompra y cancelación). Kiwoom hace más grandes los beneficios rotando la base de capital más rápido (volumen × margen × prop). Los puntos de llegada son similares; los caminos son distintos.
+Esta es la tabla más interesante del análisis. <strong>Ambas compañías han sido reconocidas por el mercado como nombres de ROE de clase 20%.</strong> La diferencia está en *cómo* llegan ahí. Meritz hace más grande el valor por acción reduciendo la base de capital (recompra y cancelación). Kiwoom hace más grandes los beneficios rotando la base de capital más rápido (volumen × margen × prop). Los puntos de llegada son similares; los caminos son distintos.
 
 Esa diferencia se refleja en el múltiplo. Meritz, el modelo de menor volatilidad, obtiene el PBR más alto (1,6×). Kiwoom, el modelo de mayor volatilidad, obtiene el PBR ligeramente menor (1,39×). El mercado está valorando ambas correctamente como posiciones distintas sobre la misma matriz.
 
@@ -161,11 +161,11 @@ La trayectoria trimestral para 2026 según Mirae Asset Securities es la siguient
 | 2T26E | ₩423,0B |
 | 3T26E | ₩316,0B |
 | 4T26E | ₩262,0B |
-| **Anual** | **\~₩1,48T** |
+| <strong>Anual</strong> | <strong>\~₩1,48T</strong> |
 
 Verificación aritmética: 4.774 + 4.230 + 3.160 + 2.620 = ₩14.784B ≈ ₩1,48T ✓
 
-El sell-side interpreta el 1T como el **trimestre pico**. El 2T en -11% vs el 1T, el 3T en -34%, el 4T en -45%. Con esos supuestos, el BN 2026E es \~₩1,48T — el denominador detrás del PER 6,7×.
+El sell-side interpreta el 1T como el <strong>trimestre pico</strong>. El 2T en -11% vs el 1T, el 3T en -34%, el 4T en -45%. Con esos supuestos, el BN 2026E es \~₩1,48T — el denominador detrás del PER 6,7×.
 
 ### 3.3 El Significado de un "Evento de Confirmación"
 
@@ -178,11 +178,11 @@ Lo que el mercado quería saber:                      "¿Es el 1T el pico, o no?
 Lo que implicaban los datos de volumen de abril:     Volumen medio diario en abril por debajo de la media del 1T
 ```
 
-Así que el propio resultado fue **un evento de confirmación, no información nueva.** Y los datos de volumen negociado de abril **sugerían que el 1T podría haber sido efectivamente el pico**. Esos dos elementos juntos produjeron el ajuste de -6,02%.
+Así que el propio resultado fue <strong>un evento de confirmación, no información nueva.</strong> Y los datos de volumen negociado de abril <strong>sugerían que el 1T podría haber sido efectivamente el pico</strong>. Esos dos elementos juntos produjeron el ajuste de -6,02%.
 
-Esto no es un rechazo del modelo. El mercado sigue clasificando a Kiwoom como ROE de clase 20%. El PBR 1,39× se mantiene estable sobre esa clasificación. Lo único que cambió es la pregunta — **"¿se sostiene el nivel de ROE del 20% durante todo el año 2026, no solo en el 1T?"** — y esa verificación ha pasado del 1T al 2T.
+Esto no es un rechazo del modelo. El mercado sigue clasificando a Kiwoom como ROE de clase 20%. El PBR 1,39× se mantiene estable sobre esa clasificación. Lo único que cambió es la pregunta — <strong>"¿se sostiene el nivel de ROE del 20% durante todo el año 2026, no solo en el 1T?"</strong> — y esa verificación ha pasado del 1T al 2T.
 
-Esta es la misma clase de señal que mencionó la Parte 1 en la sección 4.2 sobre Meritz: **el mecanismo de autoestabilización del modelo**. Un precio que no sube en línea recta no es una debilidad — es el panorama natural tras completarse el reconocimiento, donde el precio ahora exige datos de verificación trimestral.
+Esta es la misma clase de señal que mencionó la Parte 1 en la sección 4.2 sobre Meritz: <strong>el mecanismo de autoestabilización del modelo</strong>. Un precio que no sube en línea recta no es una debilidad — es el panorama natural tras completarse el reconocimiento, donde el precio ahora exige datos de verificación trimestral.
 
 ---
 
@@ -204,7 +204,7 @@ Coste de capital implícito = ROE / PBR = 20,7% / 1,39 = 14,89% ≈ 14,9%
 
 Verificación aritmética: 20,7 / 1,39 = 14,892% ✓
 
-Ese 14,9% es el coste de capital que el mercado aplica a Kiwoom. Es \~3,4 puntos porcentuales más alto que el 11,5% implícito de Meritz (22,4 / 1,94). **Esos 3,4 p.p. son exactamente el "descuento por volatilidad del ciclo minorista".**
+Ese 14,9% es el coste de capital que el mercado aplica a Kiwoom. Es \~3,4 puntos porcentuales más alto que el 11,5% implícito de Meritz (22,4 / 1,94). <strong>Esos 3,4 p.p. son exactamente el "descuento por volatilidad del ciclo minorista".</strong>
 
 ### 4.2 Lo Que la Identidad Dice Sobre los Escenarios de Rango de Precio
 
@@ -213,22 +213,22 @@ Con distintos supuestos de ROE, el rango de precios se obtiene de forma natural.
 | ROE 2026E | PBR justificado (coste de capital 14,9%) | Precio justificado (VCL ₩285.909) |
 | ---: | ---: | ---: |
 | 22% (la fortaleza del 1T se mantiene) | 1,48× | \~₩423.000 |
-| **20,7% (base del sell-side)** | **1,39×** | **\~₩397.400 (actual)** |
+| <strong>20,7% (base del sell-side)</strong> | <strong>1,39×</strong> | <strong>\~₩397.400 (actual)</strong> |
 | 18% (desaceleración moderada) | 1,21× | \~₩346.000 |
 | 15% (regresión a la media sectorial) | 1,01× | \~₩288.800 |
 | 12% (caída cíclica) | 0,81× | \~₩231.600 |
 
 Verificación aritmética: 285.909 × 1,39 = ₩397.414 ≈ ₩397.400 (a menos del 0,1% del cierre de ₩398.000) ✓
 
-Lectura en una sola línea: **el precio actual cierra exactamente con el supuesto de ROE 20,7%.** No es una coincidencia — es el mercado habiéndolo descontado correctamente. Si el mercado reancla a ROE 22%, el precio se mueve de forma natural hacia el rango de ₩423K. Si reancla a ROE 18%, hacia el rango de ₩346K. **Esto es lo que hace el PBR dentro de un régimen donde el reconocimiento ya está completado.**
+Lectura en una sola línea: <strong>el precio actual cierra exactamente con el supuesto de ROE 20,7%.</strong> No es una coincidencia — es el mercado habiéndolo descontado correctamente. Si el mercado reancla a ROE 22%, el precio se mueve de forma natural hacia el rango de ₩423K. Si reancla a ROE 18%, hacia el rango de ₩346K. <strong>Esto es lo que hace el PBR dentro de un régimen donde el reconocimiento ya está completado.</strong>
 
 ### 4.3 Lo Que Significa la Autoestabilización
 
 La aritmética muestra dos cosas.
 
-**Primero, el precio es internamente consistente con el modelo.** PBR 1,39× es coherente con ROE 20,7%. El precio que *parece* "caro" es en realidad el precio que *cierra* el modelo. La misma clase de coherencia que en la Parte 1, donde el PBR 1,5–1,6× de Meritz cerraba contra ROE 22,4%.
+<strong>Primero, el precio es internamente consistente con el modelo.</strong> PBR 1,39× es coherente con ROE 20,7%. El precio que *parece* "caro" es en realidad el precio que *cierra* el modelo. La misma clase de coherencia que en la Parte 1, donde el PBR 1,5–1,6× de Meritz cerraba contra ROE 22,4%.
 
-**Segundo, el precio está directamente vinculado al supuesto de ROE.** Si el ROE sube al 22%, el PBR se mueve automáticamente hacia 1,48×. Si el ROE queda en el 18%, el PBR se ajusta hacia 1,21×. **Un mecanismo autocorrector ya está incorporado en el precio.** Los trimestres fuertes elevan el precio; los trimestres débiles lo corrigen. Esa es la evidencia más concreta de que el reconocimiento se ha completado.
+<strong>Segundo, el precio está directamente vinculado al supuesto de ROE.</strong> Si el ROE sube al 22%, el PBR se mueve automáticamente hacia 1,48×. Si el ROE queda en el 18%, el PBR se ajusta hacia 1,21×. <strong>Un mecanismo autocorrector ya está incorporado en el precio.</strong> Los trimestres fuertes elevan el precio; los trimestres débiles lo corrigen. Esa es la evidencia más concreta de que el reconocimiento se ha completado.
 
 Esa autoestabilización es lo que realmente refleja el -6,02% del 30 de abril: un mercado reanclandose en su supuesto de ROE, pasando de 20,7% a aproximadamente 19,6%. El modelo no se rompió — el modelo está esperando su próximo dato dentro de su propio régimen.
 
@@ -242,10 +242,10 @@ Reutilizando el marco de la Parte 1, los cuatro nombres del sector bursátil cor
 
 | Nombre | ROE 2026E | PBR 2026E | ROE / PBR (proxy de rentabilidad sobre beneficios) | Coste de capital implícito | Posición |
 | --- | ---: | ---: | ---: | ---: | --- |
-| **Kiwoom Securities (039490)** | 20,7% | 1,39× | 14,9% | 14,9% | Pico — líder en beta de ROE |
-| **NH Investment & Securities (005940)** | 17,1% | 1,18× | 14,5% | 14,5% | Equilibrio capital + IB + dividendo |
-| **Korea Investment Holdings (071050)** | 16,8% | 1,07× | 15,7% | 15,7% | Mayor eficiencia ROE relativa al precio |
-| **Samsung Securities (016360)** | 15,8% | 1,05× | 15,0% | 15,0% | Rentabilidad por dividendo 5,4% — historial de retorno de capital |
+| <strong>Kiwoom Securities (039490)</strong> | 20,7% | 1,39× | 14,9% | 14,9% | Pico — líder en beta de ROE |
+| <strong>NH Investment & Securities (005940)</strong> | 17,1% | 1,18× | 14,5% | 14,5% | Equilibrio capital + IB + dividendo |
+| <strong>Korea Investment Holdings (071050)</strong> | 16,8% | 1,07× | 15,7% | 15,7% | Mayor eficiencia ROE relativa al precio |
+| <strong>Samsung Securities (016360)</strong> | 15,8% | 1,05× | 15,0% | 15,0% | Rentabilidad por dividendo 5,4% — historial de retorno de capital |
 | Mirae Asset Securities (006800) | (alta varianza) | PBR elevado | (comp limitado) | — | PyG de valoración de activos en participadas variable |
 
 Verificaciones aritméticas:
@@ -254,7 +254,7 @@ Verificaciones aritméticas:
 - Korea Investment Holdings = 16,8 / 1,07 = 15,70% ≈ 15,7% ✓
 - Samsung = 15,8 / 1,05 = 15,05% ≈ 15,0% ✓
 
-**Observación.** El líder en rentabilidad sobre beneficios es **Korea Investment Holdings (15,7%)**. Kiwoom (14,9%) se sitúa 0,8 p.p. por detrás. En un mercado donde el reconocimiento ya está completado, esos 0,8 p.p. no son "alfa de descubrimiento" — son **el mercado diferenciando correctamente el modelo de cada compañía**. Kiwoom = modelo dinámico de alta volatilidad. Korea Investment Holdings = modelo más estable de gestión de capital + IB. El mercado ha valorado ambas como posiciones distintas sobre la misma matriz.
+<strong>Observación.</strong> El líder en rentabilidad sobre beneficios es <strong>Korea Investment Holdings (15,7%)</strong>. Kiwoom (14,9%) se sitúa 0,8 p.p. por detrás. En un mercado donde el reconocimiento ya está completado, esos 0,8 p.p. no son "alfa de descubrimiento" — son <strong>el mercado diferenciando correctamente el modelo de cada compañía</strong>. Kiwoom = modelo dinámico de alta volatilidad. Korea Investment Holdings = modelo más estable de gestión de capital + IB. El mercado ha valorado ambas como posiciones distintas sobre la misma matriz.
 
 ### 5.2 La Variante de Cada Firma
 
@@ -262,19 +262,19 @@ Las cuatro firmas tienen variantes de mecanismo distintas sobre el mismo estánd
 
 | Firma | Variante del modelo | Variables clave |
 | --- | --- | --- |
-| **Kiwoom Securities** | ROE × beta de volumen negociado × rotación de capital | Volumen negociado, saldo de préstamos de margen, depósitos de clientes, cuota de mercado en intermediación |
-| **NH Investment & Securities** | ROE × IB × equilibrio de dividendo | Ingresos por comisiones de IB, rentabilidad por dividendo 5,9% |
-| **Korea Investment Holdings** | ROE × gestión de capital estable × diversificación de filiales | Korea Investment Securities + Korea Investment Capital + sinergias de grupo |
-| **Samsung Securities** | ROE × WM × política de retorno de capital | Gestión de patrimonio, rentabilidad por dividendo 5,4%, historial de retorno de capital |
+| <strong>Kiwoom Securities</strong> | ROE × beta de volumen negociado × rotación de capital | Volumen negociado, saldo de préstamos de margen, depósitos de clientes, cuota de mercado en intermediación |
+| <strong>NH Investment & Securities</strong> | ROE × IB × equilibrio de dividendo | Ingresos por comisiones de IB, rentabilidad por dividendo 5,9% |
+| <strong>Korea Investment Holdings</strong> | ROE × gestión de capital estable × diversificación de filiales | Korea Investment Securities + Korea Investment Capital + sinergias de grupo |
+| <strong>Samsung Securities</strong> | ROE × WM × política de retorno de capital | Gestión de patrimonio, rentabilidad por dividendo 5,4%, historial de retorno de capital |
 | Mirae Asset Securities | ROE × PyG de valoración de activos globales (alta varianza) | Posiciones en SpaceX y otras no cotizadas, activos en el extranjero |
 
-El punto clave: **las cuatro han cruzado el umbral de reconocimiento.** Las cuatro tienen PBR ≥ 1×, las cuatro registran ROE ≥ 15%. El sector bursátil coreano en su conjunto ha salido del régimen del "activo de descuento con PBR bajo". Dentro de eso, cada firma tiene una variante diferenciada.
+El punto clave: <strong>las cuatro han cruzado el umbral de reconocimiento.</strong> Las cuatro tienen PBR ≥ 1×, las cuatro registran ROE ≥ 15%. El sector bursátil coreano en su conjunto ha salido del régimen del "activo de descuento con PBR bajo". Dentro de eso, cada firma tiene una variante diferenciada.
 
 ### 5.3 Lo Que Significa que Kiwoom Esté en el Pico
 
 La síntesis en una sola línea de la posición de Kiwoom dentro de esta matriz:
 
-> **Kiwoom Securities se sitúa en el pico de la variante "ROE × beta de volumen negociado". Si Meritz es el pico de la variante "ROE × ratio de payout", el mismo estándar se ha bifurcado en dos picos de dos variantes sobre la misma matriz.**
+> <strong>Kiwoom Securities se sitúa en el pico de la variante "ROE × beta de volumen negociado". Si Meritz es el pico de la variante "ROE × ratio de payout", el mismo estándar se ha bifurcado en dos picos de dos variantes sobre la misma matriz.</strong>
 
 Lo interesante es que los dos picos no son excluyentes — son complementarios. Meritz: algoritmo de asignación de capital de baja volatilidad → PBR más alto. Kiwoom: algoritmo de rotación de capital de alta volatilidad → ROE más alto pero PBR ligeramente menor. El mercado ha asignado correctamente a ambas a la misma categoría de "ROE de clase 20%" en puntos distintos.
 
@@ -288,7 +288,7 @@ No son señales de trading. Son puntos de observación que muestran cómo el mod
 
 ### 6.1 El Umbral de Volumen Negociado — ₩44,8T
 
-La pieza de aritmética más limpia de todo este análisis. El volumen medio diario negociado en KRX (KOSPI + KOSDAQ combinados) en el 1T26 fue \~**₩43,8T**. En abril fue \~**₩41,9T**, aproximadamente -4,3% por debajo de la media del 1T.
+La pieza de aritmética más limpia de todo este análisis. El volumen medio diario negociado en KRX (KOSPI + KOSDAQ combinados) en el 1T26 fue \~<strong>₩43,8T</strong>. En abril fue \~<strong>₩41,9T</strong>, aproximadamente -4,3% por debajo de la media del 1T.
 
 ```
 Para que el 2T supere al 1T:
@@ -302,7 +302,7 @@ Media mayo–junio > (43,8 × 3 − 41,9) / 2
 
 Verificación aritmética: (43,8 × 3 - 41,9) / 2 = ₩44,75T ≈ ₩44,8T ✓
 
-Traducción: **si el volumen medio diario negociado en mayo–junio se mantiene en ₩44,8T o más**, la intermediación del 2T supera a la del 1T, y el supuesto del sell-side de "pico en 1T → desaceleración trimestral" queda invalidado. Eso reancla al alza el supuesto de ROE del mercado.
+Traducción: <strong>si el volumen medio diario negociado en mayo–junio se mantiene en ₩44,8T o más</strong>, la intermediación del 2T supera a la del 1T, y el supuesto del sell-side de "pico en 1T → desaceleración trimestral" queda invalidado. Eso reancla al alza el supuesto de ROE del mercado.
 
 Este único número es la señal de verificación más directa de la durabilidad del modelo de Kiwoom.
 
@@ -322,23 +322,23 @@ Que los tres indicadores estén cerca de máximos históricos importa. Incluso c
 
 Variables a monitorear conforme el grupo avanza hacia los próximos trimestres.
 
-**6.3.1 Kiwoom — Verificación en el Pico**
-- **Volumen medio diario en KRX en mayo–junio ≥ umbral de ₩44,8T.** Señal más directa.
-- **Saldo de préstamos de margen ≥ ₩35T sostenido.** Defiende la línea de ingresos por intereses.
-- **Depósitos de clientes ≥ ₩120T.** Confirmación de profundidad de capital sin salidas.
-- **Cuota de mercado en intermediación.** Si Kiwoom mantiene cuota incluso cuando el KOSPI sube — la verificación estructural de su posición de líder minorista #1.
+<strong>6.3.1 Kiwoom — Verificación en el Pico</strong>
+- <strong>Volumen medio diario en KRX en mayo–junio ≥ umbral de ₩44,8T.</strong> Señal más directa.
+- <strong>Saldo de préstamos de margen ≥ ₩35T sostenido.</strong> Defiende la línea de ingresos por intereses.
+- <strong>Depósitos de clientes ≥ ₩120T.</strong> Confirmación de profundidad de capital sin salidas.
+- <strong>Cuota de mercado en intermediación.</strong> Si Kiwoom mantiene cuota incluso cuando el KOSPI sube — la verificación estructural de su posición de líder minorista #1.
 
-**6.3.2 Korea Investment Holdings — Progresión del Alfa por Desfase Temporal**
-- **Comunicaciones de recompra y cancelación de Korea Investment Securities.** Señaliza si la forma de retorno de capital basada en dividendos está evolucionando hacia una mayor cancelación.
-- **Durabilidad del ROE 2026–2027** en el rango 16–17%.
+<strong>6.3.2 Korea Investment Holdings — Progresión del Alfa por Desfase Temporal</strong>
+- <strong>Comunicaciones de recompra y cancelación de Korea Investment Securities.</strong> Señaliza si la forma de retorno de capital basada en dividendos está evolucionando hacia una mayor cancelación.
+- <strong>Durabilidad del ROE 2026–2027</strong> en el rango 16–17%.
 
-**6.3.3 Samsung Securities + NH Investment & Securities — Verificación del Historial de Retorno de Capital**
-- **Rentabilidad por dividendo \~5% sostenida.** La verificación contable de la identidad de retorno de capital.
-- **Cadencia de recuperación de ingresos de IB de NH.**
+<strong>6.3.3 Samsung Securities + NH Investment & Securities — Verificación del Historial de Retorno de Capital</strong>
+- <strong>Rentabilidad por dividendo \~5% sostenida.</strong> La verificación contable de la identidad de retorno de capital.
+- <strong>Cadencia de recuperación de ingresos de IB de NH.</strong>
 
-**6.3.4 Meta-señales a Nivel Sectorial**
-- **Frecuencia del encuadre "correduría con PBR bajo"** en el lenguaje del sell-side coreano. La profundización de la finalización del reconocimiento se manifiesta a medida que ese encuadre desaparece.
-- **Si el PBR medio del grupo de corredurías coreanas se estabiliza por encima de 1×.** Verificación de la reclasificación a nivel sectorial.
+<strong>6.3.4 Meta-señales a Nivel Sectorial</strong>
+- <strong>Frecuencia del encuadre "correduría con PBR bajo"</strong> en el lenguaje del sell-side coreano. La profundización de la finalización del reconocimiento se manifiesta a medida que ese encuadre desaparece.
+- <strong>Si el PBR medio del grupo de corredurías coreanas se estabiliza por encima de 1×.</strong> Verificación de la reclasificación a nivel sectorial.
 
 ---
 
@@ -360,13 +360,13 @@ El saldo de préstamos de margen a finales de abril en \~₩36T es un máximo hi
 - Las acciones con alto margen enfrentan ventas forzosas simultáneas y contracción del volumen negociado durante las correcciones.
 - Si el regulador detecta un sobrecalentamiento, la rentabilidad del apalancamiento minorista recibe un descuento parcial.
 
-Esta doble cara no es un defecto del modelo. Es **la característica estructural de la propia variante "ROE × beta de volumen negociado"**. El mismo tipo de rasgo de identidad de modelo que la exposición de Meritz a la sensibilidad del capital ante los ciclos de seguros/valores.
+Esta doble cara no es un defecto del modelo. Es <strong>la característica estructural de la propia variante "ROE × beta de volumen negociado"</strong>. El mismo tipo de rasgo de identidad de modelo que la exposición de Meritz a la sensibilidad del capital ante los ciclos de seguros/valores.
 
 ---
 
 ## 8. La Línea de Cierre
 
-El cambio de reconocimiento de Kiwoom Securities ya está completo. La era del PBR-0,55× de "correduría barata" de 2024 ha quedado atrás, y el mercado ya ha clasificado a Kiwoom como una correduría de eficiencia de capital con ROE de clase 20% verificado. La caída de -6,02% el 30 de abril tras la publicación de resultados no es un rechazo del modelo. Es **el funcionamiento del mecanismo de autoestabilización que un precio con el reconocimiento completo usa para exigir datos de verificación trimestral del modelo**.
+El cambio de reconocimiento de Kiwoom Securities ya está completo. La era del PBR-0,55× de "correduría barata" de 2024 ha quedado atrás, y el mercado ya ha clasificado a Kiwoom como una correduría de eficiencia de capital con ROE de clase 20% verificado. La caída de -6,02% el 30 de abril tras la publicación de resultados no es un rechazo del modelo. Es <strong>el funcionamiento del mecanismo de autoestabilización que un precio con el reconocimiento completo usa para exigir datos de verificación trimestral del modelo</strong>.
 
 Sobre la misma matriz, Meritz ocupa el pico estático (ROE × ratio de payout); Kiwoom ocupa el pico dinámico (ROE × beta de volumen negociado). Korea Investment Holdings, Samsung Securities y NH Investment & Securities tienen cada una su propia variante intermedia. El sector bursátil coreano en su conjunto ha salido del régimen del "activo de descuento con PBR bajo" — y ese hecho por sí solo es razón suficiente para mantener esta serie haciendo seguimiento del grupo.
 
@@ -408,7 +408,7 @@ El próximo artículo de la serie aparecerá cuando (1) se publique el umbral de
 
 ---
 
-**Descargo de responsabilidad**: Este artículo es un comentario de investigación, no asesoramiento de inversión. Los escenarios de ROE / payout / PBR / volumen negociado se basan en estimaciones del sell-side disponibles públicamente (Mirae Asset Securities, Samsung Securities, Hana Securities, KB Securities y otros) y materiales de relaciones con inversores de las compañías; los resultados reales pueden diferir. Los tickers citados son ilustrativos del marco analítico, no recomendaciones. Realice su propia diligencia debida y consulte a asesores autorizados antes de tomar cualquier decisión de inversión.
+<strong>Descargo de responsabilidad</strong>: Este artículo es un comentario de investigación, no asesoramiento de inversión. Los escenarios de ROE / payout / PBR / volumen negociado se basan en estimaciones del sell-side disponibles públicamente (Mirae Asset Securities, Samsung Securities, Hana Securities, KB Securities y otros) y materiales de relaciones con inversores de las compañías; los resultados reales pueden diferir. Los tickers citados son ilustrativos del marco analítico, no recomendaciones. Realice su propia diligencia debida y consulte a asesores autorizados antes de tomar cualquier decisión de inversión.
 
 *Descargo de responsabilidad: Solo para fines de investigación e información. No constituye asesoramiento de inversión. Los nombres citados son para ilustración analítica; los lectores deben realizar su propia diligencia debida y consultar a asesores autorizados antes de tomar cualquier decisión de inversión.*
 

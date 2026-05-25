@@ -24,7 +24,7 @@ LG Innotek, filial de componentes electrónicos del conglomerado LG, combina tre
 
 La reciente revisión al alza de previsiones de resultados para el primer trimestre de 2026, respaldada por mejoras simultáneas en las tres divisiones, convierte a este valor en el candidato más natural para una rotación táctica dentro del universo coreano. La acción mantiene soporte técnico en la media de 20 sesiones, nivel que actúa como referencia de entrada para inversores con horizonte de semanas.
 
-**El riesgo principal**: cualquier señal de enfriamiento de la demanda de su principal cliente en Norteamérica —que representa una parte sustancial de los ingresos por módulos ópticos— invalidaría rápidamente la tesis alcista. La confluencia de catalizadores es atractiva, pero la dependencia de un cliente concentrado merece vigilancia continua.
+<strong>El riesgo principal</strong>: cualquier señal de enfriamiento de la demanda de su principal cliente en Norteamérica —que representa una parte sustancial de los ingresos por módulos ópticos— invalidaría rápidamente la tesis alcista. La confluencia de catalizadores es atractiva, pero la dependencia de un cliente concentrado merece vigilancia continua.
 
 ---
 
@@ -44,7 +44,7 @@ El sector financiero coreano atraviesa un momento de transición regulatoria rel
 
 Las previsiones apuntan a un beneficio neto sólido en el primer trimestre de 2026, y la combinación de dividendo elevado más potencial de rerating regulatorio lo convierte en un sustituto más atractivo que el puro brokerage tradicional en el contexto actual.
 
-**El riesgo**: una desaceleración del volumen de negociación en la bolsa coreana o un retraso en la implementación de las reformas regulatorias esperadas podría frenar el ritmo de expansión de múltiplos. Es una historia de catalizadores concretos, no de inercia estructural.
+<strong>El riesgo</strong>: una desaceleración del volumen de negociación en la bolsa coreana o un retraso en la implementación de las reformas regulatorias esperadas podría frenar el ritmo de expansión de múltiplos. Es una historia de catalizadores concretos, no de inercia estructural.
 
 ---
 
@@ -66,9 +66,9 @@ Sin embargo, la clave para los inversores internacionales no está en los fundam
 
 ## Dos riesgos macro que no deben ignorarse
 
-**Estrecho de Ormuz y precio del petróleo**: Circulan expectativas de una reapertura parcial del tráfico en la zona, pero la normalización del suministro energético no está confirmada. Una nueva escalada geopolítica en el Golfo Pérsico tendría un impacto desproporcionado sobre valores de crecimiento y alta beta en Corea, precisamente los que concentran las oportunidades más interesantes del momento.
+<strong>Estrecho de Ormuz y precio del petróleo</strong>: Circulan expectativas de una reapertura parcial del tráfico en la zona, pero la normalización del suministro energético no está confirmada. Una nueva escalada geopolítica en el Golfo Pérsico tendría un impacto desproporcionado sobre valores de crecimiento y alta beta en Corea, precisamente los que concentran las oportunidades más interesantes del momento.
 
-**Tipo de cambio won/dólar**: La fortaleza o debilidad del won afecta directamente a la rentabilidad en dólares de cualquier inversión en renta variable coreana. Mientras el tipo de cambio no muestre estabilización y el flujo extranjero no confirme retorno, la gestión del tamaño de posición debe ser conservadora.
+<strong>Tipo de cambio won/dólar</strong>: La fortaleza o debilidad del won afecta directamente a la rentabilidad en dólares de cualquier inversión en renta variable coreana. Mientras el tipo de cambio no muestre estabilización y el flujo extranjero no confirme retorno, la gestión del tamaño de posición debe ser conservadora.
 
 ---
 

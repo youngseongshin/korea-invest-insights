@@ -13,7 +13,7 @@ tags:
 slug: us-japan-long-rate-stabilization-triggers-2026-05-16
 ---
 
-> 📚 **Series Chu Kỳ Vĩ Mô**
+> 📚 <strong>Series Chu Kỳ Vĩ Mô</strong>
 >
 > Bài trước: [Tại Sao Mọi Thứ Cùng Biến Động — Iran, Dầu Mỏ, Lạm Phát Mỹ, Trung Quốc, và Nhật Bản Trong Một Chu Kỳ Duy Nhất](/post/2026-q2-macro-cycle-synthesis-2026-05-15/)
 >
@@ -31,13 +31,13 @@ Nhận định của tôi nằm ở khoảng giữa. Ổn định ngắn hạn l
 
 ## Tóm Tắt Chính
 
-* **Trạng thái hiện tại**: Trái phiếu 10 năm Mỹ ở 4,46%, 30 năm ở 5,02%, trái phiếu 10 năm Nhật ở 2,55% (cao nhất kể từ 1997), trái phiếu 30 năm Nhật gần mức 4,0%.
-* **Phân tích nguyên nhân**: Đây không đơn giản là sản phẩm của những bình luận diều hâu từ Fed. Kỳ vọng lãi suất ngắn hạn, phần bù lạm phát, phần bù kỳ hạn, và phần bù cung trái phiếu đều đồng loạt tăng cao.
-* **Tiềm năng ổn định**: Có thể, nhưng có điều kiện. Cấu trúc này không tự giải tỏa theo thời gian.
-* **Năm yếu tố then chốt**: Bình thường hóa Hormuz và giá dầu hạ; kiềm chế tác động lan tỏa của năng lượng vào CPI/PPI lõi Mỹ; hướng dẫn tại cuộc họp tháng 6 của BOJ; phục hồi nhu cầu tại phiên đấu thầu trái phiếu 10 năm và 30 năm Mỹ; dòng vốn trú ẩn an toàn do điều chỉnh tài sản rủi ro.
-* **Kịch bản 1–3 tháng**: Ổn định nhanh 20–25%, củng cố sideway 45–50%, co giật trở lại 25–30%.
-* **Biến số quan trọng nhất**: Bình thường hóa giao thông qua eo Hormuz. Biến số này tác động đồng thời đến lạm phát Mỹ và giá nhập khẩu Nhật Bản.
-* **Nhận định đầu tư**: Còn quá sớm để đặt cược lớn vào kịch bản ổn định. Mua vào từng phần sau khi hai đến ba trong năm yếu tố được xác nhận là cách tiếp cận vững chắc hơn.
+* <strong>Trạng thái hiện tại</strong>: Trái phiếu 10 năm Mỹ ở 4,46%, 30 năm ở 5,02%, trái phiếu 10 năm Nhật ở 2,55% (cao nhất kể từ 1997), trái phiếu 30 năm Nhật gần mức 4,0%.
+* <strong>Phân tích nguyên nhân</strong>: Đây không đơn giản là sản phẩm của những bình luận diều hâu từ Fed. Kỳ vọng lãi suất ngắn hạn, phần bù lạm phát, phần bù kỳ hạn, và phần bù cung trái phiếu đều đồng loạt tăng cao.
+* <strong>Tiềm năng ổn định</strong>: Có thể, nhưng có điều kiện. Cấu trúc này không tự giải tỏa theo thời gian.
+* <strong>Năm yếu tố then chốt</strong>: Bình thường hóa Hormuz và giá dầu hạ; kiềm chế tác động lan tỏa của năng lượng vào CPI/PPI lõi Mỹ; hướng dẫn tại cuộc họp tháng 6 của BOJ; phục hồi nhu cầu tại phiên đấu thầu trái phiếu 10 năm và 30 năm Mỹ; dòng vốn trú ẩn an toàn do điều chỉnh tài sản rủi ro.
+* <strong>Kịch bản 1–3 tháng</strong>: Ổn định nhanh 20–25%, củng cố sideway 45–50%, co giật trở lại 25–30%.
+* <strong>Biến số quan trọng nhất</strong>: Bình thường hóa giao thông qua eo Hormuz. Biến số này tác động đồng thời đến lạm phát Mỹ và giá nhập khẩu Nhật Bản.
+* <strong>Nhận định đầu tư</strong>: Còn quá sớm để đặt cược lớn vào kịch bản ổn định. Mua vào từng phần sau khi hai đến ba trong năm yếu tố được xác nhận là cách tiếp cận vững chắc hơn.
 
 ---
 

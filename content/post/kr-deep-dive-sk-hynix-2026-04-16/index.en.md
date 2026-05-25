@@ -12,7 +12,7 @@ draft: false
 
 # SK hynix: The HBM Memory Giant Powering the AI Revolution
 
-SK hynix (ticker: **000660.KS**, KOSPI), the South Korean semiconductor powerhouse, has quietly become one of the most strategically critical companies in the global AI supply chain. While Nvidia captures the headlines with its GPUs, it is SK hynix's High Bandwidth Memory — the stacked DRAM bonded atop every H100, H200, and Blackwell accelerator — that makes those chips operate at the speeds AI demands. For international investors seeking pure-play AI infrastructure exposure in Asia, few names in 2026 are as structurally compelling as SK hynix.
+SK hynix (ticker: <strong>000660.KS</strong>, KOSPI), the South Korean semiconductor powerhouse, has quietly become one of the most strategically critical companies in the global AI supply chain. While Nvidia captures the headlines with its GPUs, it is SK hynix's High Bandwidth Memory — the stacked DRAM bonded atop every H100, H200, and Blackwell accelerator — that makes those chips operate at the speeds AI demands. For international investors seeking pure-play AI infrastructure exposure in Asia, few names in 2026 are as structurally compelling as SK hynix.
 
 ---
 
@@ -20,15 +20,15 @@ SK hynix (ticker: **000660.KS**, KOSPI), the South Korean semiconductor powerhou
 
 | Field | Detail |
 |---|---|
-| **Full name** | SK hynix Inc. (SK하이닉스) |
-| **Ticker / Exchange** | 000660.KS / KOSPI |
-| **Sector** | Semiconductors & Semiconductor Equipment |
-| **Headquarters** | Icheon, Gyeonggi-do, South Korea |
-| **Parent group** | SK Group (via SK Square) |
-| **Key products** | DRAM, HBM (High Bandwidth Memory), NAND Flash, enterprise SSD (Solidigm) |
-| **Market cap** | Approx. KRW 100–120 trillion (USD 70–85bn at recent FX rates) |
+| <strong>Full name</strong> | SK hynix Inc. (SK하이닉스) |
+| <strong>Ticker / Exchange</strong> | 000660.KS / KOSPI |
+| <strong>Sector</strong> | Semiconductors & Semiconductor Equipment |
+| <strong>Headquarters</strong> | Icheon, Gyeonggi-do, South Korea |
+| <strong>Parent group</strong> | SK Group (via SK Square) |
+| <strong>Key products</strong> | DRAM, HBM (High Bandwidth Memory), NAND Flash, enterprise SSD (Solidigm) |
+| <strong>Market cap</strong> | Approx. KRW 100–120 trillion (USD 70–85bn at recent FX rates) |
 
-**Elevator pitch:** SK hynix is the world's second-largest DRAM manufacturer and, more importantly, the undisputed global leader in High Bandwidth Memory — the specialty stacked-DRAM package that every high-end AI accelerator depends on. As hyperscalers race to deploy ever-larger GPU clusters, HBM has emerged as the single most supply-constrained component in AI infrastructure. SK hynix controls roughly half that market. Its early co-development relationship with Nvidia, combined with a clear technology roadmap through HBM4 and beyond, has transformed it from a commoditised memory producer into a premium, long-cycle technology supplier with pricing power it has rarely held before.
+<strong>Elevator pitch:</strong> SK hynix is the world's second-largest DRAM manufacturer and, more importantly, the undisputed global leader in High Bandwidth Memory — the specialty stacked-DRAM package that every high-end AI accelerator depends on. As hyperscalers race to deploy ever-larger GPU clusters, HBM has emerged as the single most supply-constrained component in AI infrastructure. SK hynix controls roughly half that market. Its early co-development relationship with Nvidia, combined with a clear technology roadmap through HBM4 and beyond, has transformed it from a commoditised memory producer into a premium, long-cycle technology supplier with pricing power it has rarely held before.
 
 ---
 
@@ -38,22 +38,22 @@ SK hynix (ticker: **000660.KS**, KOSPI), the South Korean semiconductor powerhou
 
 The AI compute boom has a memory bottleneck. Large language models and multimodal AI workloads require vast amounts of data to flow between GPU compute cores and memory at extraordinary speeds — speeds that conventional DDR5 DRAM cannot sustain. Standard memory architecture leaves expensive GPU silicon idle, waiting for data. HBM solves this by stacking multiple DRAM dies vertically, connecting them through microscopic through-silicon vias (TSVs), and delivering 10–15× the bandwidth of conventional DRAM at a fraction of the energy cost per bit transferred.
 
-SK hynix was first to commercialise HBM at scale. It secured the dominant position in HBM2E supply for early Nvidia GPU generations, then doubled down on HBM3 and HBM3E for the H100 and H200 era. According to market research firm TrendForce, SK hynix held approximately **50% of the global HBM market in 2025**, with Samsung in second place and Micron accelerating — but still trailing materially in yield maturity and technology generation. That gap matters enormously in a supply-constrained market where HBM commands a price premium of roughly 5–8× per gigabyte over conventional DRAM.
+SK hynix was first to commercialise HBM at scale. It secured the dominant position in HBM2E supply for early Nvidia GPU generations, then doubled down on HBM3 and HBM3E for the H100 and H200 era. According to market research firm TrendForce, SK hynix held approximately <strong>50% of the global HBM market in 2025</strong>, with Samsung in second place and Micron accelerating — but still trailing materially in yield maturity and technology generation. That gap matters enormously in a supply-constrained market where HBM commands a price premium of roughly 5–8× per gigabyte over conventional DRAM.
 
 ### Three mega-trends converging at SK hynix
 
-**1. The AI infrastructure buildout**
+<strong>1. The AI infrastructure buildout</strong>
 Microsoft, Google, Amazon, Meta, and sovereign AI projects across the US, Middle East, and Asia are committing hundreds of billions of dollars to GPU cluster deployment through 2027 and beyond. Every Nvidia Blackwell and AMD MI300X chip requires HBM. This is structural, not cyclical demand — driven by competitive necessity among the world's largest technology companies rather than by a single product cycle.
 
-**2. Enterprise SSD supercycle**
+<strong>2. Enterprise SSD supercycle</strong>
 The same AI buildout is triggering a massive enterprise Solid State Drive upgrade cycle in data centres. SK hynix's NAND division, anchored by its Solidigm subsidiary (acquired from Intel in 2022), is a top-three enterprise SSD supplier globally. As of mid-April 2026, our pipeline monitors are flagging sharp NAND spot price increases alongside rising enterprise SSD ASPs — a second earnings engine gaining momentum alongside HBM.
 
-**3. Conventional memory recovery and long-term contract repricing**
+<strong>3. Conventional memory recovery and long-term contract repricing</strong>
 Mobile DRAM ASPs have surged in recent months as smartphone makers lock in supply ahead of a new device cycle. Broader DRAM long-term agreement (LTA) repricing is under way, lifting the commodity base that underpins roughly half of SK hynix's DRAM volume. When both the premium (HBM) and commodity (conventional DRAM) segments move up simultaneously, operating leverage is powerful.
 
 ### Competitive moat
 
-SK hynix's moat in HBM is simultaneously technical and relational. The company co-develops HBM specifications directly with Nvidia's memory architecture team, creating deep qualification lock-in. Switching GPU designs from one HBM supplier to another requires months of redesign, validation, and yield ramp — a structural deterrent to rapid share capture by competitors. The transition to **HBM4**, where SK hynix has publicly committed to using its advanced 1c-nm DRAM node as the base die, is the next opportunity to extend this technology lead. Volume HBM4 production is targeted for 2026 and, if executed successfully, would reset the qualification clock for competitors once again.
+SK hynix's moat in HBM is simultaneously technical and relational. The company co-develops HBM specifications directly with Nvidia's memory architecture team, creating deep qualification lock-in. Switching GPU designs from one HBM supplier to another requires months of redesign, validation, and yield ramp — a structural deterrent to rapid share capture by competitors. The transition to <strong>HBM4</strong>, where SK hynix has publicly committed to using its advanced 1c-nm DRAM node as the base die, is the next opportunity to extend this technology lead. Volume HBM4 production is targeted for 2026 and, if executed successfully, would reset the qualification clock for competitors once again.
 
 ---
 
@@ -63,12 +63,12 @@ SK hynix's moat in HBM is simultaneously technical and relational. The company c
 
 SK hynix reports two primary product families:
 
-**DRAM (\~70% of revenue)**
+<strong>DRAM (\~70% of revenue)</strong>
 - *Conventional server, PC, and mobile DRAM* — the high-volume commodity base, which benefits from industry supply discipline and demand recovery
 - *HBM (HBM3, HBM3E, transitioning to HBM4)* — the premium growth engine; HBM carries a reported 5–8× ASP premium per bit versus conventional DRAM and disproportionately inflates blended margins as the product mix shifts
 - HBM's share of total DRAM revenue has been rising materially each quarter
 
-**NAND (\~30% of revenue)**
+<strong>NAND (\~30% of revenue)</strong>
 - *Client and consumer NAND* — SSDs for PCs and mobile storage; more commoditised and cyclical
 - *Enterprise SSD via Solidigm* — the fastest-growing sub-segment; recent channel checks and our internal monitors indicate that eSSD pricing has risen sharply, driven by data-centre demand for high-capacity NVMe storage
 
@@ -113,11 +113,11 @@ The bull case depends on AI infrastructure spending remaining robust. If hypersc
 SK hynix's valuation has historically oscillated between deep discount (downcycle troughs when it posts losses) and what appears expensive on trailing metrics (upcycle peaks when earnings recover faster than estimates). Context requires looking at normalised or forward multiples.
 
 As of recent trading:
-- **P/B (price-to-book):** SK hynix has historically traded at a 1.5–2.5× book range in upcycles and below 1× in downcycles. The current reading — based on most recently reported book value — should be cross-checked against DART or KRX disclosures for precision, as book value has expanded significantly with retained earnings recovery.
-- **P/E and EV/EBITDA:** Trailing P/E is relatively uninformative for a company exiting a loss cycle. Forward consensus EV/EBITDA in the 6–10× range is where SK hynix has historically attracted value-oriented buyers. Whether current multiples embed sufficient premium for HBM's structural upgrade to the earnings base is the central debate.
-- **vs. global peers:** Micron (MU) trades on a US exchange and provides a rough read-across; it has re-rated materially on HBM optimism. SK hynix has generally traded at a discount to Micron on a USD-basis in recent quarters — partly reflecting Korea-discount, FX drag, and lower free-float liquidity for foreign investors. Samsung Electronics is the most direct local comparable but has a more diversified earnings base (foundry, consumer electronics), making SK hynix the cleaner pure-play memory expression.
+- <strong>P/B (price-to-book):</strong> SK hynix has historically traded at a 1.5–2.5× book range in upcycles and below 1× in downcycles. The current reading — based on most recently reported book value — should be cross-checked against DART or KRX disclosures for precision, as book value has expanded significantly with retained earnings recovery.
+- <strong>P/E and EV/EBITDA:</strong> Trailing P/E is relatively uninformative for a company exiting a loss cycle. Forward consensus EV/EBITDA in the 6–10× range is where SK hynix has historically attracted value-oriented buyers. Whether current multiples embed sufficient premium for HBM's structural upgrade to the earnings base is the central debate.
+- <strong>vs. global peers:</strong> Micron (MU) trades on a US exchange and provides a rough read-across; it has re-rated materially on HBM optimism. SK hynix has generally traded at a discount to Micron on a USD-basis in recent quarters — partly reflecting Korea-discount, FX drag, and lower free-float liquidity for foreign investors. Samsung Electronics is the most direct local comparable but has a more diversified earnings base (foundry, consumer electronics), making SK hynix the cleaner pure-play memory expression.
 
-**Is SK hynix cheap or expensive?** At current levels, the stock reflects significant HBM optimism but not an implausible price if the HBM4 ramp executes well and NAND becomes a genuine second growth driver. The key valuation question is whether 2026–2027 consensus earnings estimates adequately capture the HBM4 ASP uplift — or whether they are already pricing in a scenario that requires perfect execution.
+<strong>Is SK hynix cheap or expensive?</strong> At current levels, the stock reflects significant HBM optimism but not an implausible price if the HBM4 ramp executes well and NAND becomes a genuine second growth driver. The key valuation question is whether 2026–2027 consensus earnings estimates adequately capture the HBM4 ASP uplift — or whether they are already pricing in a scenario that requires perfect execution.
 
 *For the most current valuation metrics, consult the KRX disclosure portal (krx.co.kr), DART filings, or SK hynix's investor relations page (eng.skhynix.com).*
 
@@ -134,39 +134,39 @@ For investors who prefer fund-based exposure, SK hynix is a top holding in sever
 
 | ETF | Focus | Typical SK hynix weighting |
 |---|---|---|
-| **iShares MSCI South Korea ETF (EWY)** | Broad Korea | Top-5 holding |
-| **VanEck Semiconductor ETF (SMH)** | Global semis | Smaller position; check current holdings |
-| **Franklin FTSE South Korea ETF (FLKR)** | Korea market-cap weighted | Significant weighting |
-| **Korea-focused ETFs on local exchanges** | Various | Often 5–10%+ |
+| <strong>iShares MSCI South Korea ETF (EWY)</strong> | Broad Korea | Top-5 holding |
+| <strong>VanEck Semiconductor ETF (SMH)</strong> | Global semis | Smaller position; check current holdings |
+| <strong>Franklin FTSE South Korea ETF (FLKR)</strong> | Korea market-cap weighted | Significant weighting |
+| <strong>Korea-focused ETFs on local exchanges</strong> | Various | Often 5–10%+ |
 
 *Verify current weightings directly with the fund provider before relying on these estimates.*
 
 ### Practical notes for foreign investors
 
-- **Settlement:** KOSPI trades T+2 and requires a foreign investor registration code (IRC) for direct Korean brokerage access. Most global prime brokers and platforms like Interactive Brokers or Saxo offer streamlined Korean market access.
-- **FX risk:** SK hynix reports and pays dividends in Korean Won (KRW). USD/KRW volatility is a meaningful return variable for dollar-based investors; the Won has historically correlated with global risk appetite.
-- **Disclosure language:** All primary regulatory filings (DART) are in Korean. SK hynix publishes English-language earnings press releases and investor presentations — available at eng.skhynix.com — which are the most accessible starting point. DART filings in Korean can be auto-translated but should be cross-referenced with the English IR materials for accuracy.
-- **Dividend:** SK hynix pays an annual dividend but the yield is modest and fluctuates with earnings. It is not primarily an income stock.
+- <strong>Settlement:</strong> KOSPI trades T+2 and requires a foreign investor registration code (IRC) for direct Korean brokerage access. Most global prime brokers and platforms like Interactive Brokers or Saxo offer streamlined Korean market access.
+- <strong>FX risk:</strong> SK hynix reports and pays dividends in Korean Won (KRW). USD/KRW volatility is a meaningful return variable for dollar-based investors; the Won has historically correlated with global risk appetite.
+- <strong>Disclosure language:</strong> All primary regulatory filings (DART) are in Korean. SK hynix publishes English-language earnings press releases and investor presentations — available at eng.skhynix.com — which are the most accessible starting point. DART filings in Korean can be auto-translated but should be cross-referenced with the English IR materials for accuracy.
+- <strong>Dividend:</strong> SK hynix pays an annual dividend but the yield is modest and fluctuates with earnings. It is not primarily an income stock.
 
 ---
 
 ## Q&A
 
-**Is SK hynix a good investment?**
+<strong>Is SK hynix a good investment?</strong>
 This analysis is for informational purposes only and does not constitute investment advice. What we can say is that SK hynix occupies a structurally important position in the AI supply chain through its HBM leadership, and the business fundamentals have improved substantially from the 2022–2023 trough. Whether the current share price adequately reflects those fundamentals is a question every investor must assess against their own return expectations and risk tolerance.
 
-**How do I buy SK hynix stock?**
+<strong>How do I buy SK hynix stock?</strong>
 International investors can access SK hynix (000660.KS) directly on the KOSPI through a broker offering Korean market access (e.g., Interactive Brokers, Saxo, or major global prime brokers), or indirectly through Korea-focused ETFs such as EWY or FLKR. There is no US-listed ADR as of the publication of this post.
 
 ---
 
 ## Key Dates & Data Sources to Watch
 
-- **Earnings releases:** SK hynix reports quarterly; next earnings window expected late April / early May 2026. Filings available on DART (dart.fss.or.kr).
-- **Industry data:** TrendForce and DRAMeXchange publish monthly memory pricing and market share estimates.
-- **Company IR:** eng.skhynix.com (English investor relations)
-- **Regulatory filings:** dart.fss.or.kr (company code 000660)
-- **Exchange data:** KRX (krx.co.kr)
+- <strong>Earnings releases:</strong> SK hynix reports quarterly; next earnings window expected late April / early May 2026. Filings available on DART (dart.fss.or.kr).
+- <strong>Industry data:</strong> TrendForce and DRAMeXchange publish monthly memory pricing and market share estimates.
+- <strong>Company IR:</strong> eng.skhynix.com (English investor relations)
+- <strong>Regulatory filings:</strong> dart.fss.or.kr (company code 000660)
+- <strong>Exchange data:</strong> KRX (krx.co.kr)
 
 ---
 

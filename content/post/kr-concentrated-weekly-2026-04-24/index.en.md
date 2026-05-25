@@ -29,7 +29,7 @@ On the macro side, there were no new shocks. USD/KRW showed no sharp dislocation
 
 ## SK Hynix: The Primary Watchlist Entry
 
-**Why is SK Hynix (000660.KS) topping Korean watchlists today?** The answer is the intersection of AI-driven memory demand and improving cycle fundamentals.
+<strong>Why is SK Hynix (000660.KS) topping Korean watchlists today?</strong> The answer is the intersection of AI-driven memory demand and improving cycle fundamentals.
 
 SK Hynix, South Korea's second-largest semiconductor manufacturer and the world's leading supplier of High Bandwidth Memory (HBM) chips, moved to the top of the conditional buy list after passing the initial screening gate — with bull-side debate arguments judged as dominant. The company sits at the center of two durable structural trends: the relentless capacity expansion by global hyperscalers in AI inference infrastructure, and the memory upcycle that typically follows a period of inventory digestion.
 
@@ -41,7 +41,7 @@ Why does this matter for international investors? SK Hynix is the most direct KO
 
 ## Hyundai E&C: A Construction Play With a Specific Catalyst Trigger
 
-**What would make Hyundai Engineering & Construction (000720.KS) actionable for international investors?** A project-linked catalyst within a two-session confirmation window.
+<strong>What would make Hyundai Engineering & Construction (000720.KS) actionable for international investors?</strong> A project-linked catalyst within a two-session confirmation window.
 
 Hyundai E&C, South Korea's largest general contractor by order backlog, appeared on the watchlist as a conditional entry — but with a mixed bull/bear debate. The bull case is project-cycle driven: order wins in Middle Eastern infrastructure and domestic large-scale development are the near-term trigger. The bear case is the familiar construction-sector sensitivity to interest rates and a fragile growth-spending assumption.
 
@@ -55,7 +55,7 @@ For international readers, Hyundai E&C is the barometer for Korea's intersection
 
 Alginonics (196300.KQ), a KOSDAQ-listed biomaterials company focused on alginate-based medical applications, entered the watchlist in a conditional-and-cautious position. The debate was mixed — the bull scenario requires revenue guidance upgrades and volume normalization; the bear case points to inconsistent institutional participation and limited earnings visibility.
 
-**Why mention it at all?** Because it illustrates a pattern in Korean small-cap biotech: a single high-volume session can create the impression of momentum without the underlying institutional follow-through that makes a position durable. The appropriate entry size here is minimal — only after confirmed trading volume normalization and visible earnings catalysts. This is explicitly not a momentum chase.
+<strong>Why mention it at all?</strong> Because it illustrates a pattern in Korean small-cap biotech: a single high-volume session can create the impression of momentum without the underlying institutional follow-through that makes a position durable. The appropriate entry size here is minimal — only after confirmed trading volume normalization and visible earnings catalysts. This is explicitly not a momentum chase.
 
 ---
 
@@ -63,13 +63,13 @@ Alginonics (196300.KQ), a KOSDAQ-listed biomaterials company focused on alginate
 
 The most important risk signal from April 24 is not macro — it's internal portfolio flow deterioration among Korean gaming and telecom names.
 
-**Pearl Abyss (263750.KQ)**, the developer behind the *Black Desert Online* franchise and its upcoming open-world title *Crimson Desert*, showed weakening supply-demand structure on April 24 despite having been a significant holding for domestic growth portfolios. No new catalysts emerged intraday, and institutional flow signals pointed to distribution rather than accumulation. For international investors tracking Korean gaming stocks, Pearl Abyss remains a name to watch for *Crimson Desert* launch timing — but the near-term technicals favor patience over aggression.
+<strong>Pearl Abyss (263750.KQ)</strong>, the developer behind the *Black Desert Online* franchise and its upcoming open-world title *Crimson Desert*, showed weakening supply-demand structure on April 24 despite having been a significant holding for domestic growth portfolios. No new catalysts emerged intraday, and institutional flow signals pointed to distribution rather than accumulation. For international investors tracking Korean gaming stocks, Pearl Abyss remains a name to watch for *Crimson Desert* launch timing — but the near-term technicals favor patience over aggression.
 
-**SK Telecom (017670.KS)**, South Korea's dominant mobile carrier by subscriber share, was formally downgraded in priority. The company lacks near-term catalysts to justify its current weight relative to higher-conviction opportunities in semiconductors and construction. For international fixed-income-adjacent equity investors who hold SK Telecom for its dividend profile, the thesis is not broken — but the opportunity cost versus SK Hynix is meaningful in a bull regime.
+<strong>SK Telecom (017670.KS)</strong>, South Korea's dominant mobile carrier by subscriber share, was formally downgraded in priority. The company lacks near-term catalysts to justify its current weight relative to higher-conviction opportunities in semiconductors and construction. For international fixed-income-adjacent equity investors who hold SK Telecom for its dividend profile, the thesis is not broken — but the opportunity cost versus SK Hynix is meaningful in a bull regime.
 
-**Samsung Electronics (005930.KS)**, South Korea's largest company by market capitalization and the world's largest memory chip and display panel manufacturer, remains a core hold. AI and semiconductor industry tailwinds are intact, and the weaker won continues to provide earnings translation benefit. The active monitoring point is labor relations — any escalation in union activity has historically been a short-term volatility trigger without long-term fundamental impact, but it bears watching at current levels.
+<strong>Samsung Electronics (005930.KS)</strong>, South Korea's largest company by market capitalization and the world's largest memory chip and display panel manufacturer, remains a core hold. AI and semiconductor industry tailwinds are intact, and the weaker won continues to provide earnings translation benefit. The active monitoring point is labor relations — any escalation in union activity has historically been a short-term volatility trigger without long-term fundamental impact, but it bears watching at current levels.
 
-**Samsung Electro-Mechanics (009150.KS)**, a key supplier of MLCC (multi-layer ceramic capacitors) and FC-BGA (flip-chip ball grid array) substrates for AI server boards, holds a constructive outlook. The component demand cycle linked to AI server buildout remains intact, and the FC-BGA story is one of the more structurally defensible Korea-specific angles on the AI infrastructure trade.
+<strong>Samsung Electro-Mechanics (009150.KS)</strong>, a key supplier of MLCC (multi-layer ceramic capacitors) and FC-BGA (flip-chip ball grid array) substrates for AI server boards, holds a constructive outlook. The component demand cycle linked to AI server buildout remains intact, and the FC-BGA story is one of the more structurally defensible Korea-specific angles on the AI infrastructure trade.
 
 ---
 
@@ -77,9 +77,9 @@ The most important risk signal from April 24 is not macro — it's internal port
 
 Three data points will determine whether April 25 produces actionable entries from today's watchlist:
 
-1. **SK Hynix trend confirmation**: Does the 5/20-day MA alignment resolve positively on April 25? Foreign flow continuity will be the confirming signal.
-2. **Alginonics volume normalization**: Does trading volume revert to a sustainable level, or does it reflect a single-session anomaly?
-3. **Hyundai E&C project news**: Any KRX disclosure or news wire report of a major order win would trigger the event-confirmation window.
+1. <strong>SK Hynix trend confirmation</strong>: Does the 5/20-day MA alignment resolve positively on April 25? Foreign flow continuity will be the confirming signal.
+2. <strong>Alginonics volume normalization</strong>: Does trading volume revert to a sustainable level, or does it reflect a single-session anomaly?
+3. <strong>Hyundai E&C project news</strong>: Any KRX disclosure or news wire report of a major order win would trigger the event-confirmation window.
 
 The primary macro risk flag for the week ahead is a simultaneous dollar reversal and Treasury yield spike. That combination — if it materializes — would activate a defensive posture across growth-oriented Korean holdings regardless of domestic market regime.
 

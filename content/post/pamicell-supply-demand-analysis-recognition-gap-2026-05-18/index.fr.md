@@ -23,7 +23,7 @@ valley_cashtags:
   - 코오롱인더
 draft: false
 ---
-> 📚 **Série Reclassification Pamicell**
+> 📚 <strong>Série Reclassification Pamicell</strong>
 > [Partie 1 : Réévaluation du matériau CCL IA BG Doosan Electro](/post/pamicell-doosan-electro-bg-proxy-rediscovery-2026-04-30/) / [Partie 2 : Transition des matériaux CCL IA et cycle industriel](/post/pamicell-four-layer-progress-and-fifth-cycle-layer-2026-05-03/) / [Partie 3 : Confirmation des résultats 1T26](/post/pamicell-1q26-earnings-confirmation-2026-05-12/) / [Hub Substrat IA·PCB](/page/korea-ai-pcb-substrate-hub/)
 
 *Sur le plan des fondamentaux, Pamicell est déjà une société de matériaux électroniques. Au 1T26, le chiffre d'affaires des matériaux électroniques à faible constante diélectrique a atteint 26,0 milliards KRW — soit 71 % du chiffre d'affaires total — avec une marge opérationnelle aux alentours de 35 %. Sa classification sectorielle KRX a également été modifiée en Fabrication de Composants Électroniques à compter du 2026-05-04. Pourtant, en observant les mêmes données de flux sur deux semaines, Daeduck Electronics a progressé de +22,7 % avec 64,8 milliards KRW d'achats nets étrangers et institutionnels, tandis que Pamicell a reculé de -17,9 % sur un maigre 1,6 milliard KRW. La corrélation des cours raconte la même histoire : Doosan à 0,597, ST Pharm à 0,507, contre Daeduck Electronics à 0,259. L'activité a été reclassifiée comme valeur de matériaux électroniques, mais le titre reste ancré à l'inertie des biotechs. Cet écart de reclassification constitue la source d'alpha.*
@@ -36,11 +36,11 @@ Toutefois, en examinant deux semaines de données de flux du 4 mai au 18 mai, le
 
 Cette divergence est la source de l'alpha. Cela dit, une divergence ne se résout pas d'elle-même. Les conditions nécessaires sont : un chiffre d'affaires des matériaux électroniques à faible constante diélectrique de 26,0 milliards KRW ou plus maintenu au 2T26, une marge opérationnelle supérieure à 30 %, la confirmation d'une co-évolution lors d'une hausse dans la chaîne de valeur des substrats pour l'IA (Daeduck Electronics, Doosan Electronics, Simtech, TLB, etc.), et des achats nets étrangers et institutionnels s'élargissant à 3 % ou plus du volume d'échanges.
 
-La position actuelle est **Liste de surveillance / Achat conditionnel**. Poursuivre de nouvelles positions est inefficace ; les positions existantes peuvent être maintenues tant que les résultats restent solides. Les achats supplémentaires sont mieux abordés par tranches, lors de la confirmation de la reclassification des flux.
+La position actuelle est <strong>Liste de surveillance / Achat conditionnel</strong>. Poursuivre de nouvelles positions est inefficace ; les positions existantes peuvent être maintenues tant que les résultats restent solides. Les achats supplémentaires sont mieux abordés par tranches, lors de la confirmation de la reclassification des flux.
 
 ## 1. Écart entre fondamentaux et flux
 
-Le cœur de la thèse Pamicell n'est pas « les matériaux électroniques à faible constante diélectrique sont-ils réels ? » Cette question a déjà trouvé sa réponse. La vraie question est **quand le marché reclassifiera-t-il Pamicell comme un acteur en amont dans les matériaux substrats pour l'IA et lui attribuera-t-il un multiple plus élevé ?**
+Le cœur de la thèse Pamicell n'est pas « les matériaux électroniques à faible constante diélectrique sont-ils réels ? » Cette question a déjà trouvé sa réponse. La vraie question est <strong>quand le marché reclassifiera-t-il Pamicell comme un acteur en amont dans les matériaux substrats pour l'IA et lui attribuera-t-il un multiple plus élevé ?</strong>
 
 Quatre indicateurs fondamentaux confirment tous la transition vers les matériaux électroniques. Premièrement, la composition du chiffre d'affaires : les matériaux électroniques à faible constante diélectrique ont atteint 64,7 milliards de KRW en 2025, représentant 56 % du chiffre d'affaires total, pour s'établir à 26,0 milliards de KRW et 71 % de la composition au 1T26. Deuxièmement, la croissance : +118 % en 2025, +57 % au 1T26. Troisièmement, la rentabilité : la marge opérationnelle au 1T26 s'établit à environ 35 %, un niveau sain. Quatrièmement, la classification KRX : à compter du 4 mai 2026, la société a été reclassifiée dans le secteur Fabrication de composants électroniques — résultat d'une révision sectorielle programmée déclenchée par l'évolution de la composition du chiffre d'affaires.
 
@@ -86,7 +86,7 @@ Daeduck Electronics en est l'image inversée. Sociétés de valeurs mobilières 
 
 ST Pharm et Kolon Industries offrent également des comparaisons utiles. Chez ST Pharm, des achats étrangers de +₩14,1 Md ont été largement absorbés par des ventes institutionnelles de −₩24,0 Md, laissant un solde net étrangers + institutionnels de −₩9,8 Md — un biais vendeur de −4,8 % rapporté à la valeur échangée. Kolon Industries a attiré de forts achats étrangers de +₩44,4 Md face à des ventes institutionnelles de −₩22,9 Md, dégageant un solde net étrangers + institutionnels de +₩21,4 Md (+5,1 % de la valeur échangée). En apparence, cela semble solide, pourtant le cours a chuté de −16,3 % — ce qui signifie que les achats étrangers n'ont pas suffi à soutenir le prix.
 
-En résumé, le positionnement de flux de Pamicell : il n'est ni aussi clairement vendu que ST Pharm, ni aussi fortement soutenu par les étrangers que Kolon Industries — il se situe dans une zone de **neutralité stagnante**. Le signal le plus révélateur reste le schéma diamétralement opposé à celui de Daeduck Electronics. Si les deux titres appartenaient véritablement à la même chaîne de valeur des substrats IA, ils auraient dû évoluer ensemble. Le fait qu'ils ne l'aient pas fait est l'indicateur le plus clair de l'état actuel de la perception du marché.
+En résumé, le positionnement de flux de Pamicell : il n'est ni aussi clairement vendu que ST Pharm, ni aussi fortement soutenu par les étrangers que Kolon Industries — il se situe dans une zone de <strong>neutralité stagnante</strong>. Le signal le plus révélateur reste le schéma diamétralement opposé à celui de Daeduck Electronics. Si les deux titres appartenaient véritablement à la même chaîne de valeur des substrats IA, ils auraient dû évoluer ensemble. Le fait qu'ils ne l'aient pas fait est l'indicateur le plus clair de l'état actuel de la perception du marché.
 
 ## 4. Co-mouvement des cours
 
@@ -99,7 +99,7 @@ Les corrélations de rendement sont l'indicateur le plus objectif de la façon d
 | Kolon Industries | 0.421 |
 | Daeduck Electronics | 0.259 |
 
-La corrélation la plus élevée est avec Doosan, mais Doosan est une holding / un proxy conglomérat comportant un bruit significatif. Le signal le plus significatif est **ST Pharm 0.507 vs. Daeduck Electronics 0.259**. Cela signifie que Pamicell évolue près de deux fois plus étroitement avec la catégorie RNA/CDMO qu'avec la catégorie substrats IA.
+La corrélation la plus élevée est avec Doosan, mais Doosan est une holding / un proxy conglomérat comportant un bruit significatif. Le signal le plus significatif est <strong>ST Pharm 0.507 vs. Daeduck Electronics 0.259</strong>. Cela signifie que Pamicell évolue près de deux fois plus étroitement avec la catégorie RNA/CDMO qu'avec la catégorie substrats IA.
 
 Interprété qualitativement, le marché perçoit actuellement Pamicell dans l'ordre d'association suivant.
 
@@ -137,7 +137,7 @@ Troisièmement, les fournisseurs de données et les étiquettes thématiques HTS
 
 ## 6. Position dans la chaîne de valeur du substrat IA
 
-Considérer Pamicell comme un acteur du substrat IA est imprécis. La description exacte est **fournisseur de matériaux en amont du substrat IA**. Une vue simplifiée de la chaîne de valeur est la suivante.
+Considérer Pamicell comme un acteur du substrat IA est imprécis. La description exacte est <strong>fournisseur de matériaux en amont du substrat IA</strong>. Une vue simplifiée de la chaîne de valeur est la suivante.
 
 ```text
 AI server / GPU / ASIC demand
@@ -194,7 +194,7 @@ Cela dit, l'expansion des multiples ne se produit pas d'elle-même. Un catalyseu
 
 ## 9. Guide d'Entrée
 
-La position est **Liste de Surveillance / Achat Conditionnel**. Courir après le titre aux niveaux actuels est inefficace. Les positions existantes peuvent être conservées jusqu'à détérioration des fondamentaux. L'ajout de positions est mieux abordé par tranches une fois la reclassification offre-demande confirmée.
+La position est <strong>Liste de Surveillance / Achat Conditionnel</strong>. Courir après le titre aux niveaux actuels est inefficace. Les positions existantes peuvent être conservées jusqu'à détérioration des fondamentaux. L'ajout de positions est mieux abordé par tranches une fois la reclassification offre-demande confirmée.
 
 Les cinq conditions pour un achat par tranches sont les suivantes.
 
@@ -234,19 +234,19 @@ En conséquence, plutôt que d'acheter agressivement aux prix actuels, l'approch
 
 ## 11. Questions fréquemment posées
 
-**« Pamicell est-elle vraiment un jeu de substrat IA ? »**
+<strong>« Pamicell est-elle vraiment un jeu de substrat IA ? »</strong>
 
 Ce n'est pas la bonne question. La bonne question est : « Quand le marché reconnaîtra-t-il Pamicell en tant que société de matériaux en amont pour substrats IA ? » Sur le plan des métriques fondamentales, elle remplit déjà les critères. Chiffre d'affaires +71 %, OPM 35 %, et la reclassification sectorielle du KRX sont tous confirmés. Sur le plan des métriques de flux, pas encore. La corrélation avec Daeduck Electronics s'établit à 0,259 ; avec ST Pharm, à 0,507. Cet écart est la source d'alpha. Acheter avant que le marché mette à jour sa perception permet de capter une expansion des multiples ; acheter après revient simplement à accompagner la croissance du BPA.
 
-**« Pourquoi ne devrais-je pas acheter maintenant ? »**
+<strong>« Pourquoi ne devrais-je pas acheter maintenant ? »</strong>
 
 Trois raisons. Premièrement, le fait que les multiples des substrats IA ne soient pas encore intégrés dans les cours signifie que le calendrier de la reclassification est indéfini — cela pourrait prendre six mois ou dix-huit. Deuxièmement, il existe une probabilité non nulle que le T1 26 représente un pic de bénéfices. La conviction dans le scénario de base est faible tant que les résultats du T2 26 ne sont pas vérifiés. Troisièmement, acheter une valeur moyenne capitalisation avant que le filtre macroéconomique soit levé produit une asymétrie de risque défavorable. C'est la justification d'une entrée progressive et échelonnée.
 
-**« Pamicell doit-elle nécessairement évoluer de concert avec Daeduck Electronics pour être qualifiée d'action de substrat IA ? »**
+<strong>« Pamicell doit-elle nécessairement évoluer de concert avec Daeduck Electronics pour être qualifiée d'action de substrat IA ? »</strong>
 
 Non. Pamicell est un fournisseur de matériaux en amont, et non un fabricant de PCB. Les dynamiques de décalage temporel et les mécanismes d'ASP diffèrent, de sorte qu'une co-évolution quotidienne n'est pas requise. Cependant, pour que le marché la reconnaisse comme faisant partie de la même chaîne de valeur, la corrélation des rendements mensuels doit monter à environ 0,4–0,5. La lecture actuelle de 0,259 est un signal fort que le marché ne les place pas encore dans la même catégorie. Les variations trimestrielles de la corrélation doivent être suivies attentivement.
 
-**« Que se passe-t-il si les résultats du T2 26 déçoivent ? »**
+<strong>« Que se passe-t-il si les résultats du T2 26 déçoivent ? »</strong>
 
 C'est précisément là que se situe la condition d'invalidation. Si le chiffre d'affaires des matériaux électroniques à faible constante diélectrique au T2 26 ressort à ou en dessous de 22 milliards KRW, ou si l'OPM tombe en dessous de 30 %, l'interprétation du marché selon laquelle le T1 26 représentait le pic se durcira. Dans ce scénario, un PER de 17x devient le multiple justifiable et l'objectif de cours de 26 000 KRW disparaît. L'action pourrait subir une décompression des multiples vers la fourchette 12 000–14 000 KRW. En conséquence, les résultats du T2 26 ne sont pas simplement un catalyseur — ils constituent un test binaire de l'intégralité de la thèse.
 

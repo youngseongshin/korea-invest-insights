@@ -8,20 +8,20 @@ tags: ["Hanwha Ocean", "042660", "construction navale coréenne", "valeurs de d�
 series: "Korean Shipbuilding Deep Dive"
 ---
 
-> **Date :** 2026-04-09
-> **Clôture :** 123 500 KRW | **Objectif de consensus :** 160 000–170 000 KRW
-> **Verdict :** Plutôt positif que neutre, mais éviter de courir après le cours
-> **Mots-clés :** Méthaniers GNL + Navires Spéciaux/Défense + Optionnalité MRO Naval International
+> <strong>Date :</strong> 2026-04-09
+> <strong>Clôture :</strong> 123 500 KRW | <strong>Objectif de consensus :</strong> 160 000–170 000 KRW
+> <strong>Verdict :</strong> Plutôt positif que neutre, mais éviter de courir après le cours
+> <strong>Mots-clés :</strong> Méthaniers GNL + Navires Spéciaux/Défense + Optionnalité MRO Naval International
 
 ---
 
 ## Lecture d'ensemble
 
-- Hanwha Ocean ne doit plus être perçu comme un simple constructeur naval. Il s'agit d'une structure qui **génère ses revenus grâce aux méthaniers GNL, tire ses multiples des navires spéciaux et de la défense, et dispose d'une valeur optionnelle à long terme via ses plateformes MRO et de défense navale à l'étranger**.
-- La qualité s'est nettement améliorée, et la volonté du marché d'attribuer à Hanwha Ocean une prime plus agressive qu'à HD Korea Shipbuilding tient précisément à cette optionnalité défense, navires spéciaux et sécurité maritime. Cette prime est toutefois déjà partiellement reflétée dans le cours — **il ne s'agit pas d'une valeur négligée qui se négocie à bas prix, mais d'une valeur qui doit continuer à prouver son histoire**.
+- Hanwha Ocean ne doit plus être perçu comme un simple constructeur naval. Il s'agit d'une structure qui <strong>génère ses revenus grâce aux méthaniers GNL, tire ses multiples des navires spéciaux et de la défense, et dispose d'une valeur optionnelle à long terme via ses plateformes MRO et de défense navale à l'étranger</strong>.
+- La qualité s'est nettement améliorée, et la volonté du marché d'attribuer à Hanwha Ocean une prime plus agressive qu'à HD Korea Shipbuilding tient précisément à cette optionnalité défense, navires spéciaux et sécurité maritime. Cette prime est toutefois déjà partiellement reflétée dans le cours — <strong>il ne s'agit pas d'une valeur négligée qui se négocie à bas prix, mais d'une valeur qui doit continuer à prouver son histoire</strong>.
 - Dans une comparaison à trois : la qualité est la plus équilibrée chez HD Korea Shipbuilding, l'asymétrie de re-rating est la plus forte chez Hanwha Ocean, et Samsung Heavy Industries présente le profil de levier cyclique le plus marqué. Pour des positions semi-cœur de portefeuille, HD Korea Shipbuilding et Hanwha Ocean sont tous deux valables, mais Hanwha Ocean porte davantage de dépendance aux événements.
 - Sur le plan technique, la tendance longue reste intacte, mais le momentum à court terme n'est pas fort. Au-dessus de la MM200 mais en dessous des MM20 et MM50, avec un signal composite TradingView à VENTE — il s'agit d'une phase de consolidation, non d'une zone de rupture haussière.
-- L'appel à l'action actuel est donc le suivant : **fondamentalement positif, techniquement en attente de confirmation**. Il s'agit davantage de surfer sur un axe haussier structurel que d'acheter une décote, et un repli ou une confirmation sur événement reste préférable à une poursuite du cours.
+- L'appel à l'action actuel est donc le suivant : <strong>fondamentalement positif, techniquement en attente de confirmation</strong>. Il s'agit davantage de surfer sur un axe haussier structurel que d'acheter une décote, et un repli ou une confirmation sur événement reste préférable à une poursuite du cours.
 
 ---
 
@@ -41,7 +41,7 @@ Structure fin 2025 :
 | Navires commerciaux | \~26,0 T KRW |
 | Offshore/Navires spéciaux | \~6,3 T KRW |
 
-Cette structure est essentielle : **les résultats actuels sont portés par les navires commerciaux, tandis que les multiples sont tirés vers le haut par l'optionnalité navires spéciaux/défense**.
+Cette structure est essentielle : <strong>les résultats actuels sont portés par les navires commerciaux, tandis que les multiples sont tirés vers le haut par l'optionnalité navires spéciaux/défense</strong>.
 
 ---
 
@@ -59,10 +59,10 @@ Cette structure est essentielle : **les résultats actuels sont portés par les 
 
 ### Interprétation
 
-- **Positif :** La rentabilité cœur a déjà progressé de manière significative.
-- **Prudence :** La volatilité trimestrielle restera élevée en raison de l'expansion dans les navires spéciaux et la défense, du renforcement des capacités, et des investissements engagés en amont.
+- <strong>Positif :</strong> La rentabilité cœur a déjà progressé de manière significative.
+- <strong>Prudence :</strong> La volatilité trimestrielle restera élevée en raison de l'expansion dans les navires spéciaux et la défense, du renforcement des capacités, et des investissements engagés en amont.
 
-Ce n'est pas une action à « progression linéaire et régulière », mais plutôt **une valeur qui va dans la bonne direction avec des chiffres qui peuvent être heurtés d'un trimestre à l'autre**.
+Ce n'est pas une action à « progression linéaire et régulière », mais plutôt <strong>une valeur qui va dans la bonne direction avec des chiffres qui peuvent être heurtés d'un trimestre à l'autre</strong>.
 
 ---
 
@@ -74,7 +74,7 @@ Ce n'est pas une action à « progression linéaire et régulière », mais plut
 - Demande de renouvellement d'une flotte GNL vieillissante
 - Conformité aux réglementations environnementales
 
-Il s'agit de la thèse traditionnelle de la construction navale. **Elle constitue le plancher de résultats.**
+Il s'agit de la thèse traditionnelle de la construction navale. <strong>Elle constitue le plancher de résultats.</strong>
 
 ### Niveau B : Navires Spéciaux / Défense Navale
 
@@ -82,17 +82,17 @@ Il s'agit de la thèse traditionnelle de la construction navale. **Elle constitu
 - KDDX et projets navals domestiques et internationaux
 - Activité navires spéciaux à forte valeur ajoutée
 
-C'est l'axe qui **crée un re-rating des multiples**, pas seulement du chiffre d'affaires. C'est pourquoi le marché a commencé à percevoir Hanwha Ocean différemment de la construction navale conventionnelle de HD Hyundai.
+C'est l'axe qui <strong>crée un re-rating des multiples</strong>, pas seulement du chiffre d'affaires. C'est pourquoi le marché a commencé à percevoir Hanwha Ocean différemment de la construction navale conventionnelle de HD Hyundai.
 
 ### Niveau C : MRO International / Philly Shipyard / Plateforme Navale Mondiale
 
 Éléments-clés confirmés par les documents IR :
-- **Global Ocean Defense Company**
+- <strong>Global Ocean Defense Company</strong>
 - Bases de production à l'étranger
 - MRO à l'étranger
 - Technologie navale avancée et systèmes non habités
 
-Hanwha Ocean n'est pas simplement « une entreprise qui construit bien des navires » — elle se positionne clairement comme **l'axe maritime de la chaîne de défense du groupe Hanwha**.
+Hanwha Ocean n'est pas simplement « une entreprise qui construit bien des navires » — elle se positionne clairement comme <strong>l'axe maritime de la chaîne de défense du groupe Hanwha</strong>.
 
 ---
 
@@ -100,18 +100,18 @@ Hanwha Ocean n'est pas simplement « une entreprise qui construit bien des navir
 
 ### Ce que le Marché Apprécie
 
-1. **Les résultats amorcent un véritable redressement**
-2. **Le cycle des méthaniers GNL offre un soutien**
-3. **L'optionnalité navires spéciaux/défense est de grande ampleur**
-4. **Positionnement attendu comme hub de défense maritime du groupe Hanwha**
-5. **Narrative d'expansion internationale**
+1. <strong>Les résultats amorcent un véritable redressement</strong>
+2. <strong>Le cycle des méthaniers GNL offre un soutien</strong>
+3. <strong>L'optionnalité navires spéciaux/défense est de grande ampleur</strong>
+4. <strong>Positionnement attendu comme hub de défense maritime du groupe Hanwha</strong>
+5. <strong>Narrative d'expansion internationale</strong>
 
 ### Points de Vigilance
 
-1. **Les attentes sur la défense et les navires spéciaux peuvent prendre trop d'avance** — Canada, KDDX sont attrayants mais pas encore confirmés.
-2. **Volatilité trimestrielle des résultats** — Coûts estimés, primes, charges navires spéciaux et expansion des capacités peuvent provoquer des écarts importants.
-3. **Pression sur la valorisation** — Objectif de consensus 169 100 KRW, PER forward 29,2x. Le marché intègre déjà des attentes bien supérieures à un « constructeur naval ordinaire ».
-4. **Une bonne histoire et un bon point d'entrée peuvent différer** — La thèse peut justifier une prime, mais cela signifie aussi une sensibilité accrue aux déceptions par rapport aux attentes.
+1. <strong>Les attentes sur la défense et les navires spéciaux peuvent prendre trop d'avance</strong> — Canada, KDDX sont attrayants mais pas encore confirmés.
+2. <strong>Volatilité trimestrielle des résultats</strong> — Coûts estimés, primes, charges navires spéciaux et expansion des capacités peuvent provoquer des écarts importants.
+3. <strong>Pression sur la valorisation</strong> — Objectif de consensus 169 100 KRW, PER forward 29,2x. Le marché intègre déjà des attentes bien supérieures à un « constructeur naval ordinaire ».
+4. <strong>Une bonne histoire et un bon point d'entrée peuvent différer</strong> — La thèse peut justifier une prime, mais cela signifie aussi une sensibilité accrue aux déceptions par rapport aux attentes.
 
 ---
 
@@ -123,16 +123,16 @@ Hanwha Ocean n'est pas simplement « une entreprise qui construit bien des navir
 | Objectif de consensus | 160 000–170 000 KRW |
 | PER forward | 29,2x |
 
-Un potentiel de hausse apparent existe. Mais la question centrale est **sur quoi repose ce potentiel**.
+Un potentiel de hausse apparent existe. Mais la question centrale est <strong>sur quoi repose ce potentiel</strong>.
 
 ### Interprétation
 
 Le cours actuel reflète :
-- **L'amélioration des résultats grâce aux méthaniers GNL** — largement intégrée
-- **L'optionnalité navires spéciaux/défense** — partiellement intégrée
-- **La valeur optionnelle à long terme de la concrétisation du MRO/naval international** — pas encore entièrement clôturée
+- <strong>L'amélioration des résultats grâce aux méthaniers GNL</strong> — largement intégrée
+- <strong>L'optionnalité navires spéciaux/défense</strong> — partiellement intégrée
+- <strong>La valeur optionnelle à long terme de la concrétisation du MRO/naval international</strong> — pas encore entièrement clôturée
 
-Le cours actuel **n'est pas une sous-évaluation absolue**, mais plutôt **un prix reflétant la thèse narrative avec quelques options importantes encore ouvertes**.
+Le cours actuel <strong>n'est pas une sous-évaluation absolue</strong>, mais plutôt <strong>un prix reflétant la thèse narrative avec quelques options importantes encore ouvertes</strong>.
 
 ---
 
@@ -140,15 +140,15 @@ Le cours actuel **n'est pas une sous-évaluation absolue**, mais plutôt **un pr
 
 ### Qualité
 
-**S'est améliorée.** En s'éloignant de la vieille histoire de restructuration DSME, la qualité s'est clairement rehaussée grâce à la combinaison méthaniers GNL + navires spéciaux + synergies défense Hanwha.
+<strong>S'est améliorée.</strong> En s'éloignant de la vieille histoire de restructuration DSME, la qualité s'est clairement rehaussée grâce à la combinaison méthaniers GNL + navires spéciaux + synergies défense Hanwha.
 
 ### Timing
 
-**Pas mauvais, mais pas non plus une zone de repli idéale.<strong> En tant que valeur déjà très suivie, la phase « négligée et bon marché » est probablement révolue. Il s'agit plutôt d'</strong>une valeur de conviction en amont d'événements catalyseurs**.
+<strong>Pas mauvais, mais pas non plus une zone de repli idéale.<strong> En tant que valeur déjà très suivie, la phase « négligée et bon marché » est probablement révolue. Il s'agit plutôt d'</strong>une valeur de conviction en amont d'événements catalyseurs</strong>.
 
 ### Concentration
 
-**Candidate semi-cœur de portefeuille possible.** À condition d'avoir la conviction que **Hanwha Ocean peut réellement être re-ratedé comme une plateforme maritime de défense et navires spéciaux**, et non uniquement comme un pari sur le cycle de la construction navale.
+<strong>Candidate semi-cœur de portefeuille possible.</strong> À condition d'avoir la conviction que <strong>Hanwha Ocean peut réellement être re-ratedé comme une plateforme maritime de défense et navires spéciaux</strong>, et non uniquement comme un pari sur le cycle de la construction navale.
 
 ---
 
@@ -163,7 +163,7 @@ Ce contre-argument est tout à fait valable. Plus précisément :
 - Si les grands contrats attendus ne se concrétisent pas
 - Si les conditions des navires commerciaux sont bonnes mais que le re-rating des navires spéciaux est plus lent que prévu
 
-L'action peut **stagner sur une période prolongée malgré la qualité intrinsèque de la société**.
+L'action peut <strong>stagner sur une période prolongée malgré la qualité intrinsèque de la société</strong>.
 
 ---
 
@@ -171,23 +171,23 @@ L'action peut **stagner sur une période prolongée malgré la qualité intrins�
 
 ### HD Korea Shipbuilding
 
-- **Thèse :** Le blue chip le plus orthodoxe du cycle de la construction navale. Diversifié sur les méthaniers, porte-conteneurs et pétroliers.
-- **Point fort :** Portefeuille d'activités le plus équilibré. Le pari le plus pur sur « la construction navale elle-même ».
-- **Point faible :** Manque la prime défense/navires spéciaux/sécurité maritime de Hanwha Ocean. Plus proche d'un jeu sur la normalisation du cycle que d'une histoire de re-rating des multiples.
-- **Verdict :** La référence évidente. Mais narratif moins agressif que Hanwha Ocean pour justifier une prime supplémentaire.
+- <strong>Thèse :</strong> Le blue chip le plus orthodoxe du cycle de la construction navale. Diversifié sur les méthaniers, porte-conteneurs et pétroliers.
+- <strong>Point fort :</strong> Portefeuille d'activités le plus équilibré. Le pari le plus pur sur « la construction navale elle-même ».
+- <strong>Point faible :</strong> Manque la prime défense/navires spéciaux/sécurité maritime de Hanwha Ocean. Plus proche d'un jeu sur la normalisation du cycle que d'une histoire de re-rating des multiples.
+- <strong>Verdict :</strong> La référence évidente. Mais narratif moins agressif que Hanwha Ocean pour justifier une prime supplémentaire.
 
 ### Samsung Heavy Industries
 
-- **Thèse :** Projets GNL/FLNG/offshore. Levier sur les résultats via les prises de commandes.
-- **Point fort :** Fort levier lorsque des projets spécifiques se concrétisent. Exposition claire au GNL/FLNG.
-- **Point faible :** Volatilité liée aux projets et aux commandes individuelles. Stabilité qualitative et tolérance à la concentration semi-cœur inférieures.
-- **Verdict :** Bien adapté au trading et au levier cyclique, mais un cran en dessous de Hanwha Ocean/HD Korea Shipbuilding pour les positions semi-cœur importantes.
+- <strong>Thèse :</strong> Projets GNL/FLNG/offshore. Levier sur les résultats via les prises de commandes.
+- <strong>Point fort :</strong> Fort levier lorsque des projets spécifiques se concrétisent. Exposition claire au GNL/FLNG.
+- <strong>Point faible :</strong> Volatilité liée aux projets et aux commandes individuelles. Stabilité qualitative et tolérance à la concentration semi-cœur inférieures.
+- <strong>Verdict :</strong> Bien adapté au trading et au levier cyclique, mais un cran en dessous de Hanwha Ocean/HD Korea Shipbuilding pour les positions semi-cœur importantes.
 
 ### Hanwha Ocean
 
-- **Thèse :** Résultats portés par les méthaniers GNL, multiples tirés par les navires spéciaux/défense, optionnalité à long terme via MRO/bases navales/plateformes de défense maritime.
-- **Source de la prime :** Navires spéciaux/sous-marins, exportations de défense navale, MRO à l'étranger, intégration dans la chaîne de défense Hanwha.
-- **Validité de la prime :** Partiellement justifiée. Mais son maintien et son expansion nécessitent que Canada, KDDX, MRO à l'étranger et commandes de navires spéciaux se concrétisent réellement.
+- <strong>Thèse :</strong> Résultats portés par les méthaniers GNL, multiples tirés par les navires spéciaux/défense, optionnalité à long terme via MRO/bases navales/plateformes de défense maritime.
+- <strong>Source de la prime :</strong> Navires spéciaux/sous-marins, exportations de défense navale, MRO à l'étranger, intégration dans la chaîne de défense Hanwha.
+- <strong>Validité de la prime :</strong> Partiellement justifiée. Mais son maintien et son expansion nécessitent que Canada, KDDX, MRO à l'étranger et commandes de navires spéciaux se concrétisent réellement.
 
 ### Matrice de Comparaison à Trois
 
@@ -199,9 +199,9 @@ L'action peut **stagner sur une période prolongée malgré la qualité intrins�
 
 ### Par Profil d'Investisseur
 
-- **Meilleure société** → HD Korea Shipbuilding
-- **Candidat au re-rating le plus fort** → Hanwha Ocean
-- **Levier cyclique** → Samsung Heavy Industries
+- <strong>Meilleure société</strong> → HD Korea Shipbuilding
+- <strong>Candidat au re-rating le plus fort</strong> → Hanwha Ocean
+- <strong>Levier cyclique</strong> → Samsung Heavy Industries
 
 ---
 
@@ -228,7 +228,7 @@ Date de référence : 2026-04-09 | Clôture : 123 500 KRW
 | MM50 | 131 506 KRW | Clôture en dessous |
 | MM200 | 116 212 KRW | Clôture au-dessus ✅ |
 
-Structure : **MM50 > MM200**, la tendance longue est donc vivante. Mais la clôture actuelle est **en dessous des MM20 et MM50** — une correction à court terme au sein d'une tendance haussière longue.
+Structure : <strong>MM50 > MM200</strong>, la tendance longue est donc vivante. Mais la clôture actuelle est <strong>en dessous des MM20 et MM50</strong> — une correction à court terme au sein d'une tendance haussière longue.
 
 ### Vérification TradingView
 
@@ -241,23 +241,23 @@ Structure : **MM50 > MM200**, la tendance longue est donc vivante. Mais la clôt
 
 ### Interprétation Technique
 
-Le graphique de Hanwha Ocean reflète actuellement un état où **la tendance longue n'est pas morte, mais le momentum à court terme n'est pas encore fort**.
+Le graphique de Hanwha Ocean reflète actuellement un état où <strong>la tendance longue n'est pas morte, mais le momentum à court terme n'est pas encore fort</strong>.
 
-**Positif :** Au-dessus de la MM200, retournement de l'histogramme MACD, structure moyen-long terme intacte
+<strong>Positif :</strong> Au-dessus de la MM200, retournement de l'histogramme MACD, structure moyen-long terme intacte
 
-**Négatif :** En dessous des MM20 et MM50, signal composite TradingView à VENTE, ADX trop faible pour valider une reprise tendancielle forte
+<strong>Négatif :</strong> En dessous des MM20 et MM50, signal composite TradingView à VENTE, ADX trop faible pour valider une reprise tendancielle forte
 
 ### Stratégie d'Exécution
 
-- Acheter maintenant ? → **Possible, mais le graphique ne soutient pas une poursuite agressive du cours.**
+- Acheter maintenant ? → <strong>Possible, mais le graphique ne soutient pas une poursuite agressive du cours.</strong>
 - Meilleur scénario : reprise de la MM20 → reconquête de la MM50 → l'interprétation s'améliore significativement à ce stade
-- Phase actuelle : **Fondamentalement positif, techniquement en attente de confirmation**
+- Phase actuelle : <strong>Fondamentalement positif, techniquement en attente de confirmation</strong>
 
 ---
 
 ## 10. Verdict Final
 
-**Hanwha Ocean est une bonne valeur.<strong> Mais l'interprétation correcte à ce prix est celle d'</strong>une « valeur de qualité » plutôt que d'une « valeur bon marché ».**
+<strong>Hanwha Ocean est une bonne valeur.<strong> Mais l'interprétation correcte à ce prix est celle d'</strong>une « valeur de qualité » plutôt que d'une « valeur bon marché ».</strong>
 
 | Élément | Évaluation |
 |------|-----------|
@@ -269,13 +269,13 @@ Le graphique de Hanwha Ocean reflète actuellement un état où **la tendance lo
 
 ### Points de Suivi
 
-1. **Avancement concret du programme sous-marin canadien / KDDX / navires spéciaux**
-2. **Maintien des marges sur les navires commerciaux**
-3. **Concrétisation effective de la défense navale internationale / MRO — passage des annonces aux contrats réels, bases et modèles de revenus**
+1. <strong>Avancement concret du programme sous-marin canadien / KDDX / navires spéciaux</strong>
+2. <strong>Maintien des marges sur les navires commerciaux</strong>
+3. <strong>Concrétisation effective de la défense navale internationale / MRO — passage des annonces aux contrats réels, bases et modèles de revenus</strong>
 
 ### Conclusion en Une Phrase
 
-**Hanwha Ocean est une valeur shipbuilding-défense de haute qualité avec une narrative long terme solide, mais le cours actuel n'est pas « bon marché parce que personne ne la connaît ». Rester positif, mais privilégier les événements catalyseurs et les replis plutôt que de courir après le cours.**
+<strong>Hanwha Ocean est une valeur shipbuilding-défense de haute qualité avec une narrative long terme solide, mais le cours actuel n'est pas « bon marché parce que personne ne la connaît ». Rester positif, mais privilégier les événements catalyseurs et les replis plutôt que de courir après le cours.</strong>
 
 ---
 

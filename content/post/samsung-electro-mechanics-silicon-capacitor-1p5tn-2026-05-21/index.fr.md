@@ -22,11 +22,11 @@ slug: samsung-electro-mechanics-silicon-capacitor-1p5tn-2026-05-21
 
 ## En bref
 
-- **Le titre est positif.** SEMCO vient de prouver une vraie commande de 1 557 Mds KRW — pas un concept — au sein de la chaîne de valeur de l'emballage IA.
-- **L'enjeu réel est la reclassification.** De « MLCC + caméra + substrat » vers **« société de composants d'intégrité de puissance intégrée dans l'emballage IA »**.
-- **Le marché l'a immédiatement valorisé.** Clôture du 20 mai : 1 061 000 KRW (+7,50 %) ; pré-marché du 21 mai : 1 109 000 KRW (+4,52 %). Du 20 avril au 20 mai : **+56 % en un mois**.
-- **Mais à 967 000 KRW, l'action est déjà chère.** PER 2026E \~60x. Nouveaux acheteurs : **Attendre**. Porteurs : **Conserver**. Point d'entrée sur repli vers 850 000–900 000 KRW ou sur révision du consensus BPA 2027E à 28 000–30 000 KRW.
-- **Prochains jalons** : client nommé, position applicative (Top / Land / Embedded), cadence de reconnaissance du chiffre d'affaires 2027, rendements / CAPEX, marge Si-Cap, et deuxième / troisième design win.
+- <strong>Le titre est positif.</strong> SEMCO vient de prouver une vraie commande de 1 557 Mds KRW — pas un concept — au sein de la chaîne de valeur de l'emballage IA.
+- <strong>L'enjeu réel est la reclassification.</strong> De « MLCC + caméra + substrat » vers <strong>« société de composants d'intégrité de puissance intégrée dans l'emballage IA »</strong>.
+- <strong>Le marché l'a immédiatement valorisé.</strong> Clôture du 20 mai : 1 061 000 KRW (+7,50 %) ; pré-marché du 21 mai : 1 109 000 KRW (+4,52 %). Du 20 avril au 20 mai : <strong>+56 % en un mois</strong>.
+- <strong>Mais à 967 000 KRW, l'action est déjà chère.</strong> PER 2026E \~60x. Nouveaux acheteurs : <strong>Attendre</strong>. Porteurs : <strong>Conserver</strong>. Point d'entrée sur repli vers 850 000–900 000 KRW ou sur révision du consensus BPA 2027E à 28 000–30 000 KRW.
+- <strong>Prochains jalons</strong> : client nommé, position applicative (Top / Land / Embedded), cadence de reconnaissance du chiffre d'affaires 2027, rendements / CAPEX, marge Si-Cap, et deuxième / troisième design win.
 
 ---
 
@@ -36,22 +36,22 @@ slug: samsung-electro-mechanics-silicon-capacitor-1p5tn-2026-05-21
 
 | Élément | Valeur | Lecture |
 | --- | ---: | --- |
-| Valeur du contrat (KRW) | **1 557,0 Mds KRW** | Très élevée au regard des standards de nouveaux contrats SEMCO |
-| Valeur du contrat (USD) | \~**1 035,4 M USD** | Au taux de \~1 503,8 KRW/USD |
-| Durée | **1er janv. 2027 – 31 déc. 2028** | Reconnaissance principalement en 2027–2028 |
-| Chiffre d'affaires annuel implicite | \~**778,5 Mds KRW / an** | Contrat ÷ 2 ans |
-| En % du CA FY25 | \~**13,8 %** total / \~**6,9 %** annuel | Selon la divulgation |
+| Valeur du contrat (KRW) | <strong>1 557,0 Mds KRW</strong> | Très élevée au regard des standards de nouveaux contrats SEMCO |
+| Valeur du contrat (USD) | \~<strong>1 035,4 M USD</strong> | Au taux de \~1 503,8 KRW/USD |
+| Durée | <strong>1er janv. 2027 – 31 déc. 2028</strong> | Reconnaissance principalement en 2027–2028 |
+| Chiffre d'affaires annuel implicite | \~<strong>778,5 Mds KRW / an</strong> | Contrat ÷ 2 ans |
+| En % du CA FY25 | \~<strong>13,8 %</strong> total / \~<strong>6,9 %</strong> annuel | Selon la divulgation |
 | Trimestriel implicite | \~194,6 Mds KRW / trimestre | Hypothèse de reconnaissance linéaire |
 
 Vérification : 1 557,0 Mds KRW ÷ 2 = 778,5 Mds KRW. 778,5 Mds KRW ÷ 11 314,5 Mds KRW (CA FY25) ≈ 6,9 %.
 
 ### 1.2 Par rapport au marché mondial
 
-Le marché mondial des condensateurs silicium est estimé à \~2,3 Mds USD en 2026. Le montant annualisé du contrat, soit 517,7 M USD, représente environ **22,5 %** de ce chiffre. Nuance : les définitions varient selon les cabinets d'études et la reconnaissance s'étale sur 2027–2028 ; à traiter comme un ordre de grandeur, non comme une part de marché au sens strict.
+Le marché mondial des condensateurs silicium est estimé à \~2,3 Mds USD en 2026. Le montant annualisé du contrat, soit 517,7 M USD, représente environ <strong>22,5 %</strong> de ce chiffre. Nuance : les définitions varient selon les cabinets d'études et la reconnaissance s'étale sur 2027–2028 ; à traiter comme un ordre de grandeur, non comme une part de marché au sens strict.
 
 ### 1.3 Sensibilité au résultat opérationnel — marges non divulguées
 
-La marge Si-Cap n'est pas publique. Le tableau ci-dessous est une **analyse de sensibilité**, non une prévision.
+La marge Si-Cap n'est pas publique. Le tableau ci-dessous est une <strong>analyse de sensibilité</strong>, non une prévision.
 
 | Marge opérationnelle hypothétique | Contribution annuelle au RO | RN après impôt (24 %) | Contribution au BPA (\~74,7 M actions) |
 | ---: | ---: | ---: | ---: |
@@ -71,8 +71,8 @@ La marge Si-Cap n'est pas publique. Le tableau ci-dessous est une **analyse de s
 
 | Date | Ouverture | Plus bas | Plus haut | Clôture | Var. | Volume |
 | --- | ---: | ---: | ---: | ---: | ---: | ---: |
-| 19 mai 2026 | 1 031 000 | 957 000 | 1 040 000 | **987 000** | -4,27 % | 879 K |
-| **20 mai 2026** | **968 000** | **924 000** | **1 106 000** | **1 061 000** | **+7,50 %** | **1,91 M** |
+| 19 mai 2026 | 1 031 000 | 957 000 | 1 040 000 | <strong>987 000</strong> | -4,27 % | 879 K |
+| <strong>20 mai 2026</strong> | <strong>968 000</strong> | <strong>924 000</strong> | <strong>1 106 000</strong> | <strong>1 061 000</strong> | <strong>+7,50 %</strong> | <strong>1,91 M</strong> |
 
 La divulgation est tombée vers 14h. Le titre a immédiatement inversé sa faiblesse matinale, atteint 1 080 000 KRW (+9,42 %) en séance, avant de clôturer à +7,50 %. Volume ≈ 2,17x la séance précédente.
 
@@ -80,8 +80,8 @@ La divulgation est tombée vers 14h. Le titre a immédiatement inversé sa faibl
 
 | Heure | Cours | Variation |
 | --- | ---: | ---: |
-| 21 mai, 08h23 NXT | **1 109 000 KRW** | **+4,52 %** vs clôture précédente |
-| vs clôture du 19 mai | 1 109 000 KRW | **+12,36 %** |
+| 21 mai, 08h23 NXT | <strong>1 109 000 KRW</strong> | <strong>+4,52 %</strong> vs clôture précédente |
+| vs clôture du 19 mai | 1 109 000 KRW | <strong>+12,36 %</strong> |
 
 Le plus haut en pré-marché a atteint 1 139 000 KRW — un test du plus haut sur 52 semaines (1 133 000 KRW).
 
@@ -97,24 +97,24 @@ Flux du 20 mai : étrangers -111 248 actions / institutionnels +82 167 actions. 
 
 Les accélérateurs IA tirent du courant très rapidement sur des centaines de milliards d'opérations parallèles. Si la tension fluctue, le circuit se trompe de calcul, bride, et surchauffe. L'équation de base est simple.
 
-> **Oscillation de tension ≈ L × di/dt + I × ESR**
+> <strong>Oscillation de tension ≈ L × di/dt + I × ESR</strong>
 > L = inductance ESL, ESR = résistance série équivalente, di/dt = variation instantanée du courant
 
-Les puces IA ont un di/dt très élevé ; l'unique remède est de placer un **condensateur de stockage le plus près possible de la puce, tout en minimisant l'ESL et l'ESR**. Un condensateur silicium est aminci à ≤100 µm et placé en face supérieure (Top-Side), face de contact (Land-Side), ou noyé dans le substrat (Embedded). C'est ce qui lève le goulot.
+Les puces IA ont un di/dt très élevé ; l'unique remède est de placer un <strong>condensateur de stockage le plus près possible de la puce, tout en minimisant l'ESL et l'ESR</strong>. Un condensateur silicium est aminci à ≤100 µm et placé en face supérieure (Top-Side), face de contact (Land-Side), ou noyé dans le substrat (Embedded). C'est ce qui lève le goulot.
 
 Si un MLCC en carte est « une batterie dans une pièce voisine », un Si-Cap est « le réservoir d'urgence collé à la jambe de la puce ».
 
 ### 3.2 Dans la continuité de l'orientation de TSMC
 
-TSMC décrit l'intégration de condensateurs à tranchée profonde dans l'interposeur silicium pour le CoWoS-S, et l'intégration d'eDTC sous le SoC pour le CoWoS-L à des fins de gestion de puissance. La direction de l'emballage avancé est précisément **« routage du signal + liaison HBM + composants de stabilisation de la puissance, le tout intégré »**. SEMCO se positionne désormais dans l'une de ces couches.
+TSMC décrit l'intégration de condensateurs à tranchée profonde dans l'interposeur silicium pour le CoWoS-S, et l'intégration d'eDTC sous le SoC pour le CoWoS-L à des fins de gestion de puissance. La direction de l'emballage avancé est précisément <strong>« routage du signal + liaison HBM + composants de stabilisation de la puissance, le tout intégré »</strong>. SEMCO se positionne désormais dans l'une de ces couches.
 
 ### 3.3 Pourquoi c'est déterminant pour SEMCO — uniquement en bundle avec le FC-BGA
 
-La vraie valeur ne réside pas dans le Si-Cap en tant que ligne autonome. Elle tient au fait de devenir **un fournisseur intégré FC-BGA + MLCC + Si-Cap**.
+La vraie valeur ne réside pas dans le Si-Cap en tant que ligne autonome. Elle tient au fait de devenir <strong>un fournisseur intégré FC-BGA + MLCC + Si-Cap</strong>.
 
-- **MLCC seul** : confrontation directe à Murata.
-- **FC-BGA seul** : confrontation directe à Ibiden / Shinko.
-- **MLCC + FC-BGA + Si-Cap en bundle** : le seul acteur mondial à combiner les trois.
+- <strong>MLCC seul</strong> : confrontation directe à Murata.
+- <strong>FC-BGA seul</strong> : confrontation directe à Ibiden / Shinko.
+- <strong>MLCC + FC-BGA + Si-Cap en bundle</strong> : le seul acteur mondial à combiner les trois.
 
 Du point de vue du client, « concevoir mon substrat et mes composants de stabilisation de puissance ensemble » est bien plus attractif — et une fois intégré, difficile à remplacer. Cet effet de verrouillage constitue le vrai fossé défensif.
 
@@ -126,16 +126,16 @@ La fiabilité du Si-Cap est liée à la fiabilité globale de l'emballage IA. Un
 
 ## 4. Lecture client — distinguer faits, inférences et inconnues
 
-**[Fait]** La contrepartie n'est pas divulguée. Qu'il s'agisse de NVIDIA, Marvell, Broadcom, Amazon, Microsoft ou Google ne peut être confirmé à ce jour.
+<strong>[Fait]</strong> La contrepartie n'est pas divulguée. Qu'il s'agisse de NVIDIA, Marvell, Broadcom, Amazon, Microsoft ou Google ne peut être confirmé à ce jour.
 
-**[Fait]** Des reportages antérieurs indiquaient que SEMCO fournit des condensateurs silicium pour la plateforme d'emballage multi-puces pour accélérateurs IA de Marvell, le programme Marvell étant entré en production de masse au 1T 2025.
+<strong>[Fait]</strong> Des reportages antérieurs indiquaient que SEMCO fournit des condensateurs silicium pour la plateforme d'emballage multi-puces pour accélérateurs IA de Marvell, le programme Marvell étant entré en production de masse au 1T 2025.
 
-**[Déduit]** Compte tenu du montant du contrat et de la fenêtre d'approvisionnement 2027–2028, l'usage final est presque certainement lié aux **GPU / ASIC IA pour serveurs ou au grand silicium de centres de données**, et non aux processeurs mobiles. Trois raisons :
+<strong>[Déduit]</strong> Compte tenu du montant du contrat et de la fenêtre d'approvisionnement 2027–2028, l'usage final est presque certainement lié aux <strong>GPU / ASIC IA pour serveurs ou au grand silicium de centres de données</strong>, et non aux processeurs mobiles. Trois raisons :
 1. Le montant est trop élevé pour un programme mobile uniquement
 2. Le besoin technique du Si-Cap est le plus fort dans les packages IA / HPC
 3. SEMCO a publiquement ciblé l'emballage haut de gamme et les usages serveurs IA
 
-**[Inconnu]** Il serait prématuré de qualifier ce contrat de « contrat NVIDIA » ou de l'attribuer à un hyperscaler spécifique. Les documents publics ne précisent pas si la contrepartie directe est un concepteur fabless, un hyperscaler ou un intermédiaire de l'emballage.
+<strong>[Inconnu]</strong> Il serait prématuré de qualifier ce contrat de « contrat NVIDIA » ou de l'attribuer à un hyperscaler spécifique. Les documents publics ne précisent pas si la contrepartie directe est un concepteur fabless, un hyperscaler ou un intermédiaire de l'emballage.
 
 ---
 
@@ -152,16 +152,16 @@ La fiabilité du Si-Cap est liée à la fiabilité globale de l'emballage IA. Un
 | CA 2026E | \~13 360 Mds KRW |
 | RO 2026E | \~1 570 Mds KRW |
 | BPA 2026E | \~16 315 KRW |
-| PER 2026E | \~**60x** |
+| PER 2026E | \~<strong>60x</strong> |
 
 Ce n'est pas une action bon marché. La divulgation n'est pas une thèse d'achat parce que le cours est bas — c'est une thèse du type « le multiple élevé bénéficie désormais d'une meilleure visibilité sur les bénéfices ».
 
 ### 5.2 Les multiples sont tendus ; la variable déterminante est le rythme de révision du BPA
 
-- **SK Securities** a relevé son objectif de 1 100 000 KRW à 1 500 000 KRW, citant la sous-capacité FC-BGA, l'augmentation de la superficie des packages IA, les gains de prix de vente moyen (ASP), l'amélioration du MLCC, et la différenciation par le Si-Cap / substrat en verre. RO 2027E à 2 353 Mds KRW.
-- **Hana Securities** (avril) avait fixé 810 000 KRW = BPA 2027E de 22 874 KRW × multiple sectoriel mondial FC-BGA de 35,4x.
+- <strong>SK Securities</strong> a relevé son objectif de 1 100 000 KRW à 1 500 000 KRW, citant la sous-capacité FC-BGA, l'augmentation de la superficie des packages IA, les gains de prix de vente moyen (ASP), l'amélioration du MLCC, et la différenciation par le Si-Cap / substrat en verre. RO 2027E à 2 353 Mds KRW.
+- <strong>Hana Securities</strong> (avril) avait fixé 810 000 KRW = BPA 2027E de 22 874 KRW × multiple sectoriel mondial FC-BGA de 35,4x.
 
-Pour justifier clairement la fourchette 970 000–1 100 000 KRW, le BPA 2027E doit atteindre la bande 28 000–30 000 KRW. Cela suppose que **les trois conditions suivantes soient réunies** : reconnaissance du contrat Si-Cap dans les délais, hausse des prix FC-BGA, et poursuite du cycle haussier MLCC.
+Pour justifier clairement la fourchette 970 000–1 100 000 KRW, le BPA 2027E doit atteindre la bande 28 000–30 000 KRW. Cela suppose que <strong>les trois conditions suivantes soient réunies</strong> : reconnaissance du contrat Si-Cap dans les délais, hausse des prix FC-BGA, et poursuite du cycle haussier MLCC.
 
 ### 5.3 Fourchettes et recommandations
 
@@ -169,7 +169,7 @@ Pour justifier clairement la fourchette 970 000–1 100 000 KRW, le BPA 2027E do
 | ---: | --- | --- |
 | 850 000–900 000 KRW | Implique un BPA 2027E de 24 000–26 000 KRW à 35x | Fort intérêt acheteur |
 | 950 000–1 050 000 KRW | Le contrat Si-Cap commence à être intégré | Achat conditionnel sur replis |
-| **1 061 000 KRW (actuel)** | Après +56 % en un mois | **Attendre / Conserver** |
+| <strong>1 061 000 KRW (actuel)</strong> | Après +56 % en un mois | <strong>Attendre / Conserver</strong> |
 | 1 100 000–1 130 000 KRW | Test du plus haut sur 52 semaines | Chasse au cours inefficace |
 | Au-dessus de 1 130 000 KRW | Sans nouveau catalyseur, surchauffe à court terme | Alléger ou prendre des bénéfices |
 
@@ -179,7 +179,7 @@ Pour justifier clairement la fourchette 970 000–1 100 000 KRW, le BPA 2027E do
 
 ### 6.1 Porteurs existants
 
-**Recommandation : Conserver.**
+<strong>Recommandation : Conserver.</strong>
 
 Les fondamentaux sont intacts et se renforcent. Le contrat de 1 500 Mds KRW réduit d'un cran le risque de compression du multiple. Mais les renforcements devraient intervenir sur au moins l'un des signaux suivants :
 
@@ -190,12 +190,12 @@ Les fondamentaux sont intacts et se renforcent. Le contrat de 1 500 Mds KRW réd
 
 ### 6.2 Nouveaux acheteurs
 
-**Recommandation : Attendre.**
+<strong>Recommandation : Attendre.</strong>
 
 Raison : une action ayant progressé de +56 % en un mois, sur laquelle s'empile un signal positif de 1 500 Mds KRW, constitue un mauvais point d'entrée. Deux points d'entrée plus propres :
 
-1. **Prix** : repli dans la fourchette 850 000–900 000 KRW. Avec un BPA 2027E de 24 000–26 000 KRW, cette fourchette offre un point d'entrée à 35x.
-2. **Bénéfices** : consensus BPA 2027E révisé à 28 000 KRW+ ET cours maintenu en dessous de 1 000 000 KRW. Cette combinaison mérite honnêtement la prime de l'emballage IA.
+1. <strong>Prix</strong> : repli dans la fourchette 850 000–900 000 KRW. Avec un BPA 2027E de 24 000–26 000 KRW, cette fourchette offre un point d'entrée à 35x.
+2. <strong>Bénéfices</strong> : consensus BPA 2027E révisé à 28 000 KRW+ ET cours maintenu en dessous de 1 000 000 KRW. Cette combinaison mérite honnêtement la prime de l'emballage IA.
 
 ### 6.3 Conditions de remise en cause de la thèse
 
@@ -212,33 +212,33 @@ Réévaluer la recommandation sur l'un des événements suivants :
 
 ## 7. Checklist à six–douze mois
 
-1. **Position applicative** — Face supérieure / Face de contact / Embedded ? L'intégration Embedded présente la valeur de bundle FC-BGA la plus élevée.
-2. **Profil client** — Fabless GPU / Fabless AI-ASIC / Hyperscaler / Maison d'emballage ?
-3. **Cadence de reconnaissance du chiffre d'affaires** — Linéaire en 2027, ou décalée vers 2028 ?
-4. **Marges** — Au-dessus de la marge mixte MLCC / substrat historique ?
-5. **CAPEX et rendements** — Les rendements en production de masse tiennent-ils sans dégrader le levier opérationnel ?
-6. **Deuxième / troisième client** — Un autre design win IA se concrétise-t-il ?
-7. **Bundle FC-BGA** — Le Si-Cap est-il une fourniture autonome, ou partie d'une solution intégrée substrat + intégrité de puissance ?
-8. **Trajectoire du consensus BPA 2027E** — Progresse-t-il de 22 874 KRW vers 28 000 KRW+ ?
+1. <strong>Position applicative</strong> — Face supérieure / Face de contact / Embedded ? L'intégration Embedded présente la valeur de bundle FC-BGA la plus élevée.
+2. <strong>Profil client</strong> — Fabless GPU / Fabless AI-ASIC / Hyperscaler / Maison d'emballage ?
+3. <strong>Cadence de reconnaissance du chiffre d'affaires</strong> — Linéaire en 2027, ou décalée vers 2028 ?
+4. <strong>Marges</strong> — Au-dessus de la marge mixte MLCC / substrat historique ?
+5. <strong>CAPEX et rendements</strong> — Les rendements en production de masse tiennent-ils sans dégrader le levier opérationnel ?
+6. <strong>Deuxième / troisième client</strong> — Un autre design win IA se concrétise-t-il ?
+7. <strong>Bundle FC-BGA</strong> — Le Si-Cap est-il une fourniture autonome, ou partie d'une solution intégrée substrat + intégrité de puissance ?
+8. <strong>Trajectoire du consensus BPA 2027E</strong> — Progresse-t-il de 22 874 KRW vers 28 000 KRW+ ?
 
 ---
 
 ## 8. Liens avec les articles précédents
 
-- **[SEMCO — « L'infrastructure invisible du silicium IA » (15 mai)](/post/samsung-electro-mechanics-mlcc-fcbga-ai-infrastructure-deep-dive-2026-05-15/)** — a établi le cadrage en trois divisions (Composant / Solution d'emballage / Optique). Cet article ajoute **une quatrième ligne de produits** à la division Composant.
-- **[SEMCO, le challenger hybride (17 mai)](/post/samsung-electro-mechanics-hybrid-challenger-2026-05-17/)** — le cadrage « ce qu'implique 1 010 000 KRW pour un RO 2027E de 2 700 Mds KRW ». Le contrat Si-Cap de 1 500 Mds KRW contribue approximativement à 100–200 Mds KRW de RO incrémental dans le scénario de base.
-- **[Objectif Mirae à 1 300 000 KRW — changement de cadre de valorisation (7 mai)](/post/samsung-electro-mechanics-mirae-tp-1300000-valuation-frame-shift-2026-05-07/)** — le cadrage « si SEMCO est reclassifiée en pair mondial de composants IA, 1 300 000 KRW est atteignable ». Cet article constitue la **première preuve concrète** de cette reclassification.
-- **[Premier appel de re-rating — reclassification en valeur de composants d'infrastructure IA (21 avr.)](/post/samsung-electro-mechanics-ai-infrastructure-rerating-2026-04-21/)** — le pari posé il y a un mois ; +56 % sur la période et un contrat de 1 500 Mds KRW aujourd'hui en constituent la validation.
+- <strong>[SEMCO — « L'infrastructure invisible du silicium IA » (15 mai)](/post/samsung-electro-mechanics-mlcc-fcbga-ai-infrastructure-deep-dive-2026-05-15/)</strong> — a établi le cadrage en trois divisions (Composant / Solution d'emballage / Optique). Cet article ajoute <strong>une quatrième ligne de produits</strong> à la division Composant.
+- <strong>[SEMCO, le challenger hybride (17 mai)](/post/samsung-electro-mechanics-hybrid-challenger-2026-05-17/)</strong> — le cadrage « ce qu'implique 1 010 000 KRW pour un RO 2027E de 2 700 Mds KRW ». Le contrat Si-Cap de 1 500 Mds KRW contribue approximativement à 100–200 Mds KRW de RO incrémental dans le scénario de base.
+- <strong>[Objectif Mirae à 1 300 000 KRW — changement de cadre de valorisation (7 mai)](/post/samsung-electro-mechanics-mirae-tp-1300000-valuation-frame-shift-2026-05-07/)</strong> — le cadrage « si SEMCO est reclassifiée en pair mondial de composants IA, 1 300 000 KRW est atteignable ». Cet article constitue la <strong>première preuve concrète</strong> de cette reclassification.
+- <strong>[Premier appel de re-rating — reclassification en valeur de composants d'infrastructure IA (21 avr.)](/post/samsung-electro-mechanics-ai-infrastructure-rerating-2026-04-21/)</strong> — le pari posé il y a un mois ; +56 % sur la période et un contrat de 1 500 Mds KRW aujourd'hui en constituent la validation.
 
 ---
 
 ## 9. Ce qu'il faut retenir pour les non-spécialistes
 
-Le silicium IA n'est plus simplement une course à la miniaturisation. Les GPU et ASIC consomment tellement d'électricité, si vite, que le composant chargé de **délivrer une puissance stable à quelques centimètres de la puce** est devenu un goulot d'étranglement. Les condensateurs silicium remplissent ce rôle.
+Le silicium IA n'est plus simplement une course à la miniaturisation. Les GPU et ASIC consomment tellement d'électricité, si vite, que le composant chargé de <strong>délivrer une puissance stable à quelques centimètres de la puce</strong> est devenu un goulot d'étranglement. Les condensateurs silicium remplissent ce rôle.
 
 Un condensateur classique, c'est une batterie de secours dans une pièce voisine. Un condensateur silicium, c'est le réservoir d'urgence collé à la jambe de la puce. Les puces IA qui réclament soudainement davantage de courant ont besoin de ce réservoir — sans lui, la tension vacille, les performances chutent, les erreurs se multiplient et la chaleur grimpe.
 
-Pour SEMCO, cela signifie un changement de catégorie. Historiquement, c'était une société MLCC + caméra + substrat. Ce contrat de 1 500 Mds KRW signifie que SEMCO est **désormais à l'intérieur du package IA lui-même**. Si cela se consolide avec d'autres clients et le bundle FC-BGA, le multiple passe de « fabricant de composants » vers « fournisseur de composants cœur de l'emballage IA ».
+Pour SEMCO, cela signifie un changement de catégorie. Historiquement, c'était une société MLCC + caméra + substrat. Ce contrat de 1 500 Mds KRW signifie que SEMCO est <strong>désormais à l'intérieur du package IA lui-même</strong>. Si cela se consolide avec d'autres clients et le bundle FC-BGA, le multiple passe de « fabricant de composants » vers « fournisseur de composants cœur de l'emballage IA ».
 
 Mais le titre s'échange déjà à 967 000–1 110 000 KRW. Il ne fait pas que *devenir* une bonne société — il est déjà valorisé comme tel. Chasser le cours est inefficace ; les replis sont les points d'entrée.
 
@@ -246,9 +246,9 @@ Mais le titre s'échange déjà à 967 000–1 110 000 KRW. Il ne fait pas que *
 
 ## 10. La conclusion en une ligne
 
-Cette divulgation reclassifie SEMCO de « fabricant de composants smartphone » vers **« plateforme de composants cœur de l'emballage IA »**. La direction est clairement la bonne. Mais le cours intègre déjà une partie de ce changement. Désormais, ce qui compte n'est pas la qualité du titre — c'est le **rythme de révision du consensus BPA**.
+Cette divulgation reclassifie SEMCO de « fabricant de composants smartphone » vers <strong>« plateforme de composants cœur de l'emballage IA »</strong>. La direction est clairement la bonne. Mais le cours intègre déjà une partie de ce changement. Désormais, ce qui compte n'est pas la qualité du titre — c'est le <strong>rythme de révision du consensus BPA</strong>.
 
-**Ce n'est pas une action qui vient de devenir une bonne société. C'est une action déjà valorisée comme telle. Chasser le cours est inefficace ; les replis sont l'opportunité.**
+<strong>Ce n'est pas une action qui vient de devenir une bonne société. C'est une action déjà valorisée comme telle. Chasser le cours est inefficace ; les replis sont l'opportunité.</strong>
 
 ---
 

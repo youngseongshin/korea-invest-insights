@@ -14,9 +14,9 @@ tags:
   - "韩国权益"
 ---
 
-> 🔗 **相关链接**：[HBM / KOSPI 投资中心](/page/korea-semiconductor-hbm-kospi-hub/) · [韩国每日市场中心](/page/korea-daily-market-hub/) · [三星电子 Citi 目标价 ₩460,000 — 存储周期框架重置](/post/samsung-electronics-citi-tp-460000-memory-rerating-2026-05-11/) · [为什么是韩国（第四篇）— 67亿美元资金流入，韩国折价消散还是价值陷阱？](/post/korea-67-billion-etf-inflow-korea-discount-or-value-trap-2026-05-09/)
+> 🔗 <strong>相关链接</strong>：[HBM / KOSPI 投资中心](/page/korea-semiconductor-hbm-kospi-hub/) · [韩国每日市场中心](/page/korea-daily-market-hub/) · [三星电子 Citi 目标价 ₩460,000 — 存储周期框架重置](/post/samsung-electronics-citi-tp-460000-memory-rerating-2026-05-11/) · [为什么是韩国（第四篇）— 67亿美元资金流入，韩国折价消散还是价值陷阱？](/post/korea-67-billion-etf-inflow-korea-discount-or-value-trap-2026-05-09/)
 
-> 🌐 **访问**：**[memory.koreainvestinsights.com](https://memory.koreainvestinsights.com/)** — Memory Pulse 实时信号看板
+> 🌐 <strong>访问</strong>：<strong>[memory.koreainvestinsights.com](https://memory.koreainvestinsights.com/)</strong> — Memory Pulse 实时信号看板
 
 *memory.koreainvestinsights.com 自定义域名现已正式上线。「Memory Pulse」是围绕三星电子与SK hynix 构建的实时信号看板。如果说博客的分析文章在季度/周级别回答「为什么」，那么这个看板呈现的是「此刻正在发生什么」——资金盘中如何流动、美国半导体昨夜如何收盘、外汇与宏观风险如何演变——全部集中于一个屏幕。*
 
@@ -24,11 +24,11 @@ tags:
 
 ## 核心摘要
 
-* **是什么。** 专注于三星电子（005930）与SK hynix（000660）的实时信号看板，以韩国时区为基准锚点。
-* **为什么做。** 填补博客分析（季度/周级别）与实时市场数据之间的空白。「昨天的论点今天进展如何？」——一屏即见。
-* **怎么用。** 阅读路径：执行摘要 → 市场快照 → 个股卡片 → 信号驱动因素 → 品种涨跌表。
-* **数据可信度透明化。** 每一行均标注 **Live / Delayed / Fallback / Missing** 标签，实时报价与延迟或备用数值一目了然。
-* **与博客联动。** 直达 [HBM Hub](/page/korea-semiconductor-hbm-kospi-hub/)、[Daily Market Hub](/page/korea-daily-market-hub/)、Telegram 频道和 Substack 的链接。相同分析框架的实时延伸。
+* <strong>是什么。</strong> 专注于三星电子（005930）与SK hynix（000660）的实时信号看板，以韩国时区为基准锚点。
+* <strong>为什么做。</strong> 填补博客分析（季度/周级别）与实时市场数据之间的空白。「昨天的论点今天进展如何？」——一屏即见。
+* <strong>怎么用。</strong> 阅读路径：执行摘要 → 市场快照 → 个股卡片 → 信号驱动因素 → 品种涨跌表。
+* <strong>数据可信度透明化。</strong> 每一行均标注 <strong>Live / Delayed / Fallback / Missing</strong> 标签，实时报价与延迟或备用数值一目了然。
+* <strong>与博客联动。</strong> 直达 [HBM Hub](/page/korea-semiconductor-hbm-kospi-hub/)、[Daily Market Hub](/page/korea-daily-market-hub/)、Telegram 频道和 Substack 的链接。相同分析框架的实时延伸。
 
 ---
 
@@ -36,9 +36,9 @@ tags:
 
 ### 1.1 博客与看板是两种不同的工具
 
-博客文章解释**「为什么」**。[三星 Citi 目标价 ₩460,000 一文](/post/samsung-electronics-citi-tp-460000-memory-rerating-2026-05-11/)分析了存储周期框架能否被打破，这是季度/周级别的深度分析——论点一旦写就，往往数月有效。
+博客文章解释<strong>「为什么」</strong>。[三星 Citi 目标价 ₩460,000 一文](/post/samsung-electronics-citi-tp-460000-memory-rerating-2026-05-11/)分析了存储周期框架能否被打破，这是季度/周级别的深度分析——论点一旦写就，往往数月有效。
 
-看板展示**「此刻」**。你读到的论点是否正在被今日盘口验证、哪些信号在触发、哪些在消退——分钟级呈现。
+看板展示<strong>「此刻」</strong>。你读到的论点是否正在被今日盘口验证、哪些信号在触发、哪些在消退——分钟级呈现。
 
 ```
 博客分析："为什么存储周期框架可能被打破"（季度/周级别，论点导向）
@@ -62,17 +62,17 @@ Memory Pulse："该论点如何在实时数据中体现"（分钟级，数据导
 
 | 模块 | 内容 |
 |---|---|
-| 1. **执行摘要** | 一行盘中概读——当前市场情绪一览 |
-| 2. **市场条幅** | KOSPI / KOSDAQ / 外汇 / SOX 快照 |
-| 3. **数据源健康条幅** | 各数据源是否正常运行 |
-| 4. **个股信号** | 三星电子 + SK hynix 卡片（各名称详细信号） |
-| 5. **驱动因素分类** | 信号驱动力的分类——美国半导体 / 外汇 / 宏观 / 存储周期 |
-| 6. **品种涨跌表** | 可排序的品种涨跌表（韩国 / 美国 / 存储 / 宏观·风险 筛选） |
-| 7. **页脚** | 返回博客 / Telegram / Substack 的链接 |
+| 1. <strong>执行摘要</strong> | 一行盘中概读——当前市场情绪一览 |
+| 2. <strong>市场条幅</strong> | KOSPI / KOSDAQ / 外汇 / SOX 快照 |
+| 3. <strong>数据源健康条幅</strong> | 各数据源是否正常运行 |
+| 4. <strong>个股信号</strong> | 三星电子 + SK hynix 卡片（各名称详细信号） |
+| 5. <strong>驱动因素分类</strong> | 信号驱动力的分类——美国半导体 / 外汇 / 宏观 / 存储周期 |
+| 6. <strong>品种涨跌表</strong> | 可排序的品种涨跌表（韩国 / 美国 / 存储 / 宏观·风险 筛选） |
+| 7. <strong>页脚</strong> | 返回博客 / Telegram / Substack 的链接 |
 
 ### 2.2 数据可信度标签——最重要的功能
 
-每一行均标注**新鲜度标签**。
+每一行均标注<strong>新鲜度标签</strong>。
 
 ```
 Live      ：实时数据（≤1 分钟）
@@ -81,7 +81,7 @@ Fallback  ：备用数值（如前一收盘价）
 Missing   ：数据源中断
 ```
 
-**为什么重要**：市场数据延迟因来源而异。部分报价是实时的，部分是前一日收盘价，部分暂时不可用。没有标签，用户会默认数据新鲜度一致。Memory Pulse **将新鲜度透明化，让用户在基于信号行动之前能够自行核实数据本身**。
+<strong>为什么重要</strong>：市场数据延迟因来源而异。部分报价是实时的，部分是前一日收盘价，部分暂时不可用。没有标签，用户会默认数据新鲜度一致。Memory Pulse <strong>将新鲜度透明化，让用户在基于信号行动之前能够自行核实数据本身</strong>。
 
 ### 2.3 四个筛选维度——不同观察角度
 
@@ -89,12 +89,12 @@ Missing   ：数据源中断
 
 | 筛选 | 视角 |
 |---|---|
-| **韩国** | KOSPI / KOSDAQ 个股——国内盘面资金流向 |
-| **美国** | NVIDIA / Micron / SOX 等——美国半导体传导 |
-| **存储** | HBM / DDR / NAND 价格代理——周期直接读数 |
-| **宏观 / 风险** | 外汇 / 油价 / 利率 / VIX——宏观环境 |
+| <strong>韩国</strong> | KOSPI / KOSDAQ 个股——国内盘面资金流向 |
+| <strong>美国</strong> | NVIDIA / Micron / SOX 等——美国半导体传导 |
+| <strong>存储</strong> | HBM / DDR / NAND 价格代理——周期直接读数 |
+| <strong>宏观 / 风险</strong> | 外汇 / 油价 / 利率 / VIX——宏观环境 |
 
-**使用方式**：例如，开盘前扫描「韩国」标签看昨日收盘及盘后，再切「美国」标签看美国存储/半导体昨夜走势，最后看「宏观/风险」标签查外汇/VIX。三个视角集于一屏，对「今日开盘大概如何」的初步判断可以快速形成。
+<strong>使用方式</strong>：例如，开盘前扫描「韩国」标签看昨日收盘及盘后，再切「美国」标签看美国存储/半导体昨夜走势，最后看「宏观/风险」标签查外汇/VIX。三个视角集于一屏，对「今日开盘大概如何」的初步判断可以快速形成。
 
 ---
 
@@ -150,10 +150,10 @@ Missing   ：数据源中断
 
 | 看板链接 | 对应博客页面 | 联合使用方式 |
 |---|---|---|
-| **HBM Hub** | [HBM / KOSPI 投资中心](/page/korea-semiconductor-hbm-kospi-hub/) | 看板中的存储信号 → 在 Hub 中深挖论点 |
-| **Daily Market** | [韩国每日市场中心](/page/korea-daily-market-hub/) | 每日市场资金流向分析合集 |
-| **Telegram** | [@korea_invest_insights](https://t.me/korea_invest_insights) | 新文章即时推送通知 |
-| **Substack** | [订阅](https://koreainvestinsights.substack.com/) | 精选分析邮件推送 |
+| <strong>HBM Hub</strong> | [HBM / KOSPI 投资中心](/page/korea-semiconductor-hbm-kospi-hub/) | 看板中的存储信号 → 在 Hub 中深挖论点 |
+| <strong>Daily Market</strong> | [韩国每日市场中心](/page/korea-daily-market-hub/) | 每日市场资金流向分析合集 |
+| <strong>Telegram</strong> | [@korea_invest_insights](https://t.me/korea_invest_insights) | 新文章即时推送通知 |
+| <strong>Substack</strong> | [订阅](https://koreainvestinsights.substack.com/) | 精选分析邮件推送 |
 
 ### 4.2 分析 → 看板 → 分析的闭环
 
@@ -175,36 +175,36 @@ Missing   ：数据源中断
 
 ### 4.3 两点诚实的局限
 
-**局限一：看板不发出买入/卖出信号。** 页脚声明："仅供教育性市场参考，不构成投资建议；不发出任何买入、卖出或仓位规模指令。"如何解读信号，由用户自行负责。
+<strong>局限一：看板不发出买入/卖出信号。</strong> 页脚声明："仅供教育性市场参考，不构成投资建议；不发出任何买入、卖出或仓位规模指令。"如何解读信号，由用户自行负责。
 
-**局限二：依赖外部数据源。** 当 Fallback 或 Missing 标签频繁出现时（例如特定美国数据供应商中断时段），看板准确性会受影响。这正是标签必须明确标注的原因。
+<strong>局限二：依赖外部数据源。</strong> 当 Fallback 或 Missing 标签频繁出现时（例如特定美国数据供应商中断时段），看板准确性会受影响。这正是标签必须明确标注的原因。
 
 ---
 
 ## 5. 常见问题
 
-**Q：Memory Pulse 是免费的吗？**
+<strong>Q：Memory Pulse 是免费的吗？</strong>
 A：是的。任何人均可在 memory.koreainvestinsights.com 免费访问。
 
-**Q：支持移动端吗？**
+<strong>Q：支持移动端吗？</strong>
 A：响应式设计——手机、平板、桌面均可正常使用。品种涨跌表在更宽的屏幕上显示信息更多。
 
-**Q：支持中英文切换吗？**
+<strong>Q：支持中英文切换吗？</strong>
 A：右上角「A / 가」按钮可即时切换语言，深色/浅色主题同理。
 
-**Q：看到「Fallback」标签该如何理解？**
+<strong>Q：看到「Fallback」标签该如何理解？</strong>
 A：表示实时数据源出现问题，当前显示的是备用数值（如前一收盘价）。行动前请务必查看新鲜度标签。只有「Live」标签的数值才是实时可靠的。
 
-**Q：为什么只有三星和 hynix？会新增其他个股吗？**
+<strong>Q：为什么只有三星和 hynix？会新增其他个股吗？</strong>
 A：这两只是韩国存储的双支柱，也构成 KOSPI 的较大比例。初期聚焦两只个股最大化了信号质量。后续将根据用户反馈和数据源稳定性决定扩展范围。
 
-**Q：在阅读博客分析之前能直接使用看板吗？**
+<strong>Q：在阅读博客分析之前能直接使用看板吗？</strong>
 A：可以。看板可独立使用。但了解信号的「背景」有助于解读，因此先阅读 [HBM Hub](/page/korea-semiconductor-hbm-kospi-hub/) 或近期分析文章，会让看板的使用更高效。
 
-**Q：可以引用或转载看板数据吗？**
+<strong>Q：可以引用或转载看板数据吗？</strong>
 A：各数据源的许可条款不同——标注来源和新鲜度标签后引用更为稳妥。带有「memory.koreainvestinsights.com」归属标注的看板截图可以使用。
 
-**Q：下一步计划是什么？**
+<strong>Q：下一步计划是什么？</strong>
 A：将根据用户反馈扩展数据源、信号类别和品种覆盖范围。优先深化博客分析与看板信号之间的联动。新功能将通过独立博客文章对外公布。
 
 ---

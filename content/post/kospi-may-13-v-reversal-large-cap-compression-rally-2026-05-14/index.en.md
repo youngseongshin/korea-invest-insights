@@ -17,7 +17,7 @@ tags:
   - "Korean equities"
 ---
 
-> 🔗 **Related**: [KOSPI May 12 selloff / rebound — AI national-dividend / windfall-tax debate](/post/kospi-may-12-ai-citizen-dividend-tax-windfall-2026-05-12/) · [Why Korea Part 4 — $6.7B inflow vs. value-trap setup](/post/korea-67-billion-etf-inflow-korea-discount-or-value-trap-2026-05-09/) · [Korean Semis May 6 Rally Synthesis](/post/korean-semis-rally-may-6-samsung-sk-hynix-substrate-equipment-2026-05-07/) · [Korea Daily Market Hub](/page/korea-daily-market-hub/) · [Samsung Electronics Citi TP ₩460,000](/post/samsung-electronics-citi-tp-460000-memory-rerating-2026-05-11/)
+> 🔗 <strong>Related</strong>: [KOSPI May 12 selloff / rebound — AI national-dividend / windfall-tax debate](/post/kospi-may-12-ai-citizen-dividend-tax-windfall-2026-05-12/) · [Why Korea Part 4 — $6.7B inflow vs. value-trap setup](/post/korea-67-billion-etf-inflow-korea-discount-or-value-trap-2026-05-09/) · [Korean Semis May 6 Rally Synthesis](/post/korean-semis-rally-may-6-samsung-sk-hynix-substrate-equipment-2026-05-07/) · [Korea Daily Market Hub](/page/korea-daily-market-hub/) · [Samsung Electronics Citi TP ₩460,000](/post/samsung-electronics-citi-tp-460000-memory-rerating-2026-05-11/)
 
 *The KOSPI opened May 13 at -1.69%, slid toward 7,400, then closed at 7,844.01 (+2.63%) — a fresh all-time high. Foreign investors net-sold ₩3.76tn, and the index made a new high anyway. The KOSDAQ closed -0.20% and local-DB breadth was 955 advancers vs. 1,455 decliners — 500 more stocks fell than rose. "Index hits new high, market feels weak" is the actual signature of the session.*
 
@@ -25,12 +25,12 @@ tags:
 
 ## TL;DR
 
-* **The biggest oddity is the intraday V-reversal.** Open -1.69%, slide toward 7,400, close **7,844.01 (+2.63%) at a new all-time high**.
-* But **the KOSDAQ closed -0.20%**, and local-DB breadth was 955 up vs. 1,455 down — this is **a compressed large-cap rally, not a broad rally**.
-* **Foreigners net-sold ₩3.76tn** but **retail (+₩1.89tn) and institutions (+₩1.69tn) absorbed it.** Domestic liquidity pulled the index up.
-* The leadership axis was **semis large-caps + substrates + autos**. Conversely, batteries, parts of nuclear / power, gaming, and individual growth stocks lagged.
-* **The macro backdrop was outright unfriendly, yet the index rallied.** Hot US CPI, WTI back above $100, Middle East tension, soft prior-day SOX. Macro lost to **flow and large-cap news flow**.
-* The three things to verify today (May 14) — Samsung Electronics / SK hynix foreign selling stopping, Samsung Electro-Mechanics / Daeduck Electronics institutional buying continuing, KOSDAQ catching up. **If any one fails, May 13 was a "large-cap short-cover + flow-reversal rally" rather than the start of a new leg.**
+* <strong>The biggest oddity is the intraday V-reversal.</strong> Open -1.69%, slide toward 7,400, close <strong>7,844.01 (+2.63%) at a new all-time high</strong>.
+* But <strong>the KOSDAQ closed -0.20%</strong>, and local-DB breadth was 955 up vs. 1,455 down — this is <strong>a compressed large-cap rally, not a broad rally</strong>.
+* <strong>Foreigners net-sold ₩3.76tn</strong> but <strong>retail (+₩1.89tn) and institutions (+₩1.69tn) absorbed it.</strong> Domestic liquidity pulled the index up.
+* The leadership axis was <strong>semis large-caps + substrates + autos</strong>. Conversely, batteries, parts of nuclear / power, gaming, and individual growth stocks lagged.
+* <strong>The macro backdrop was outright unfriendly, yet the index rallied.</strong> Hot US CPI, WTI back above $100, Middle East tension, soft prior-day SOX. Macro lost to <strong>flow and large-cap news flow</strong>.
+* The three things to verify today (May 14) — Samsung Electronics / SK hynix foreign selling stopping, Samsung Electro-Mechanics / Daeduck Electronics institutional buying continuing, KOSDAQ catching up. <strong>If any one fails, May 13 was a "large-cap short-cover + flow-reversal rally" rather than the start of a new leg.</strong>
 
 ---
 
@@ -48,16 +48,16 @@ Afternoon: rebound despite continued foreign selling, on retail + institutional 
 Intraday range: \~4.3% from low to close
 ```
 
-Closing at a new all-time high is the strongest move since the May 6 +6.5% session (when KOSPI cleared 7,000). The critical difference: **May 6 saw foreign net buying of ₩3.13tn; May 13 saw foreign net selling of ₩3.76tn**.
+Closing at a new all-time high is the strongest move since the May 6 +6.5% session (when KOSPI cleared 7,000). The critical difference: <strong>May 6 saw foreign net buying of ₩3.13tn; May 13 saw foreign net selling of ₩3.76tn</strong>.
 
 ### 1.2 May 13 market-level flow
 
 | Market | Close | Daily change | Retail | Institutions | Foreigners |
 |---|---:|---:|---:|---:|---:|
-| **KOSPI** | **7,844.01** | **+2.63%** | +₩1,890bn | +₩1,690bn | **-₩3,760bn** |
+| <strong>KOSPI</strong> | <strong>7,844.01</strong> | <strong>+2.63%</strong> | +₩1,890bn | +₩1,690bn | <strong>-₩3,760bn</strong> |
 | KOSDAQ | 1,176.93 | -0.20% | — | — | — |
 
-Combined domestic net buying (retail + institutional) ≈ **₩3.58tn** vs. foreign net selling **₩3.76tn** — almost 1:1 absorption.
+Combined domestic net buying (retail + institutional) ≈ <strong>₩3.58tn</strong> vs. foreign net selling <strong>₩3.76tn</strong> — almost 1:1 absorption.
 
 ### 1.3 Index-vs-breadth divergence
 
@@ -82,18 +82,18 @@ This is the operational definition of "compressed large-cap rally." The top 10-2
 
 | Name | Close | Daily | Flow read |
 |---|---:|---:|---|
-| **SK hynix** | ₩1,976,000 | **+7.68%** | Heavy foreign selling, absorbed by institutions +₩907.7bn and retail |
+| <strong>SK hynix</strong> | ₩1,976,000 | <strong>+7.68%</strong> | Heavy foreign selling, absorbed by institutions +₩907.7bn and retail |
 | Samsung Electronics | ₩284,000 | +1.79% | Foreign -₩1.55tn, institutions +₩456.1bn, retail +₩1.01tn |
-| **Samsung Electro-Mechanics** | ₩1,029,000 | **+7.41%** | Foreign + institutional combined \~+₩188bn. Cleanest flow signature |
-| **Daeduck Electronics** | ₩142,900 | **+11.64%** | Institutional +₩40.1bn. AI substrate diffusion beneficiary |
-| **Hyundai Motor** | ₩710,000 | **+9.91%** | Foreign + institutional combined \~+₩428.8bn, retail -₩450bn |
-| **Hyundai Mobis** | ₩649,000 | **+18.43%** | Auto-parts large-cap absorbing rotation |
+| <strong>Samsung Electro-Mechanics</strong> | ₩1,029,000 | <strong>+7.41%</strong> | Foreign + institutional combined \~+₩188bn. Cleanest flow signature |
+| <strong>Daeduck Electronics</strong> | ₩142,900 | <strong>+11.64%</strong> | Institutional +₩40.1bn. AI substrate diffusion beneficiary |
+| <strong>Hyundai Motor</strong> | ₩710,000 | <strong>+9.91%</strong> | Foreign + institutional combined \~+₩428.8bn, retail -₩450bn |
+| <strong>Hyundai Mobis</strong> | ₩649,000 | <strong>+18.43%</strong> | Auto-parts large-cap absorbing rotation |
 
 The read is direct:
 
-* **Samsung Electronics + SK hynix = index-defense axis.** The #1 and #2 market-cap names had to move together for KOSPI to print a new all-time high.
-* **Samsung Electro-Mechanics + Daeduck Electronics = AI-component / substrate diffusion axis.** The names from [Korea AI PCB Ecosystem](/post/korea-ai-pcb-ecosystem-ten-companies-2026-05-05/) followed semis higher.
-* **Hyundai Motor + Hyundai Mobis = non-semis large-cap rotation axis.** Foreigners did not sell Korea wholesale; they sold parts of memory and rotated some into auto large-caps.
+* <strong>Samsung Electronics + SK hynix = index-defense axis.</strong> The #1 and #2 market-cap names had to move together for KOSPI to print a new all-time high.
+* <strong>Samsung Electro-Mechanics + Daeduck Electronics = AI-component / substrate diffusion axis.</strong> The names from [Korea AI PCB Ecosystem](/post/korea-ai-pcb-ecosystem-ten-companies-2026-05-05/) followed semis higher.
+* <strong>Hyundai Motor + Hyundai Mobis = non-semis large-cap rotation axis.</strong> Foreigners did not sell Korea wholesale; they sold parts of memory and rotated some into auto large-caps.
 
 ### 2.2 What didn't participate — the underside of breadth
 
@@ -120,15 +120,15 @@ Those laggards are what produced KOSDAQ -0.20% and the 1,455 down-tickers.
 | US semis index (SOX) | Prior day -1.8% | Korea semis follow-through risk |
 | FX | KRW/USD stuck at 1,470s | Foreign-flow burden |
 
-In a normal regime, this combination produces a -2% to -3% Korea open. Open was -1.69%. The intraday V-reversal that followed → all-time-high close. **Macro variables didn't set the price** in this session.
+In a normal regime, this combination produces a -2% to -3% Korea open. Open was -1.69%. The intraday V-reversal that followed → all-time-high close. <strong>Macro variables didn't set the price</strong> in this session.
 
 ### 3.2 Why was macro ignored — three hypotheses
 
-**Hypothesis A — self-reinforcing flow.** With KOSPI in record-high territory after the May 6 +6.5% session, dry-powder waiting to "buy any pullback" was thick. -1.69% open → bid trigger → foreign supply absorbed.
+<strong>Hypothesis A — self-reinforcing flow.</strong> With KOSPI in record-high territory after the May 6 +6.5% session, dry-powder waiting to "buy any pullback" was thick. -1.69% open → bid trigger → foreign supply absorbed.
 
-**Hypothesis B — large-cap news flow.** [Samsung Electronics Citi TP raise to ₩460,000](/post/samsung-electronics-citi-tp-460000-memory-rerating-2026-05-11/) on May 11; multiple foreign-broker memory-cycle re-rating reports across May 12-13; refreshed [SK hynix HBM share work](/post/sk-hynix-hbm-market-share-ai-memory-demand-2026/) — concentrated upgrade flow in the same week. Single-name news flow outweighed macro.
+<strong>Hypothesis B — large-cap news flow.</strong> [Samsung Electronics Citi TP raise to ₩460,000](/post/samsung-electronics-citi-tp-460000-memory-rerating-2026-05-11/) on May 11; multiple foreign-broker memory-cycle re-rating reports across May 12-13; refreshed [SK hynix HBM share work](/post/sk-hynix-hbm-market-share-ai-memory-demand-2026/) — concentrated upgrade flow in the same week. Single-name news flow outweighed macro.
 
-**Hypothesis C — Hyundai Motor 1Q earnings + autonomy momentum.** Hyundai Motor +9.91% and Hyundai Mobis +18.43% are hard to explain by simple sector rotation alone. Coverage on autonomous driving / robotaxi, plus a reframing of Hyundai Motor's US-plant IRA exposure, likely added single-name catalysts.
+<strong>Hypothesis C — Hyundai Motor 1Q earnings + autonomy momentum.</strong> Hyundai Motor +9.91% and Hyundai Mobis +18.43% are hard to explain by simple sector rotation alone. Coverage on autonomous driving / robotaxi, plus a reframing of Hyundai Motor's US-plant IRA exposure, likely added single-name catalysts.
 
 The most defensible read is that all three operated in parallel. None of the three alone explains the -1.69% → +2.63% (4-point reversal).
 
@@ -140,8 +140,8 @@ The most defensible read is that all three operated in parallel. None of the thr
 
 | Group | Foreign direction | Est. scale |
 |---|---|---|
-| Samsung Electronics | **Net sell** | -₩1,550bn |
-| SK hynix | **Net sell** | Large |
+| Samsung Electronics | <strong>Net sell</strong> | -₩1,550bn |
+| SK hynix | <strong>Net sell</strong> | Large |
 | Samsung Electro-Mechanics | Net buy | + |
 | Daeduck Electronics | Partial buy | Small |
 | Hyundai Motor | Net buy | +₩100s of bn |
@@ -149,7 +149,7 @@ The most defensible read is that all three operated in parallel. None of the thr
 | Battery (selected) | Net sell | - |
 | KOSDAQ broadly | Net sell | - |
 
-**Foreigners didn't sell Korea wholesale.** Memory mega-caps were sold; AI components (Samsung Electro-Mechanics, Daeduck Electronics) and non-semis large-caps (Hyundai Motor) saw some buying. The absolute net-sell number (-₩3.76tn) was large, but direction wasn't one-way.
+<strong>Foreigners didn't sell Korea wholesale.</strong> Memory mega-caps were sold; AI components (Samsung Electro-Mechanics, Daeduck Electronics) and non-semis large-caps (Hyundai Motor) saw some buying. The absolute net-sell number (-₩3.76tn) was large, but direction wasn't one-way.
 
 ### 4.2 Linking to [Why Korea Part 4](/post/korea-67-billion-etf-inflow-korea-discount-or-value-trap-2026-05-09/)
 
@@ -164,7 +164,7 @@ May 13 foreign KOSPI net sell: -₩3.76tn
 → Single-session data is insufficient to declare a trend reversal
 ```
 
-The key is **whether foreign selling stops or turns to buying today (5/14) and through the rest of the week**. May 7 saw a record single-day ₩7.15tn foreign net-sell that flipped back to buying immediately after. Single-session prints don't define trends.
+The key is <strong>whether foreign selling stops or turns to buying today (5/14) and through the rest of the week</strong>. May 7 saw a record single-day ₩7.15tn foreign net-sell that flipped back to buying immediately after. Single-session prints don't define trends.
 
 ---
 
@@ -181,7 +181,7 @@ The key is **whether foreign selling stops or turns to buying today (5/14) and t
 | Volatility profile | Stable ascent | Intraday V-reversal |
 | Durability | 1-2 weeks+ | Short-term rebound |
 
-May 13 is clearly a **compressed rally**. A broad rally requires KOSDAQ participation and foreign buying — neither was present.
+May 13 is clearly a <strong>compressed rally</strong>. A broad rally requires KOSDAQ participation and foreign buying — neither was present.
 
 ### 5.2 Signals that end a compressed rally
 
@@ -211,10 +211,10 @@ The structure that produced the May 13 close:
 
 | Cluster | Names | Common feature |
 |---|---|---|
-| **Semis flagships** | Samsung Electronics, SK hynix | AI memory super-cycle + foreign-broker TP raises |
-| **AI substrate / SUMs** | Samsung Electro-Mechanics, Daeduck Electronics, ISU Petasys | Memory → substrate (bottleneck diffusion) |
-| **Auto large-caps** | Hyundai Motor, Hyundai Mobis | Autonomy / robotaxi momentum + US market |
-| **Display** | LG Display | OLED + automotive display |
+| <strong>Semis flagships</strong> | Samsung Electronics, SK hynix | AI memory super-cycle + foreign-broker TP raises |
+| <strong>AI substrate / SUMs</strong> | Samsung Electro-Mechanics, Daeduck Electronics, ISU Petasys | Memory → substrate (bottleneck diffusion) |
+| <strong>Auto large-caps</strong> | Hyundai Motor, Hyundai Mobis | Autonomy / robotaxi momentum + US market |
+| <strong>Display</strong> | LG Display | OLED + automotive display |
 
 The four clusters share: (a) top market-cap, (b) recent foreign-broker target-price upgrades, (c) high earnings visibility.
 
@@ -222,17 +222,17 @@ The names that lagged share the opposite features — (a) small / mid-cap, (b) t
 
 ### 6.2 Signals from an analytical perspective
 
-* **The 5/13 all-time high is the result of macro-ignored compression flow.** Near-term momentum is strong, but the conditions to sustain it are demanding.
-* **Whether foreign selling is a trend or a single-session print isn't determinable from one day.** 5/14 through 5/16 require additional observation.
-* **Without KOSDAQ catching up, this can't be called a "broad rally."** Compressed rallies are inhospitable to chasing large-caps and unhelpful to mid/small-caps.
+* <strong>The 5/13 all-time high is the result of macro-ignored compression flow.</strong> Near-term momentum is strong, but the conditions to sustain it are demanding.
+* <strong>Whether foreign selling is a trend or a single-session print isn't determinable from one day.</strong> 5/14 through 5/16 require additional observation.
+* <strong>Without KOSDAQ catching up, this can't be called a "broad rally."</strong> Compressed rallies are inhospitable to chasing large-caps and unhelpful to mid/small-caps.
 
 ### 6.3 Three checks for today (5/14)
 
-1. **Does foreign selling on Samsung Electronics / SK hynix stop?** Stop = continuation candidate; accelerate = 5/13 was one-off.
-2. **Does institutional buying on Samsung Electro-Mechanics / Daeduck Electronics persist?** The AI-component diffusion axis verification.
-3. **Does KOSDAQ catch up?** Capital diffusion / broad-rally transition signal.
+1. <strong>Does foreign selling on Samsung Electronics / SK hynix stop?</strong> Stop = continuation candidate; accelerate = 5/13 was one-off.
+2. <strong>Does institutional buying on Samsung Electro-Mechanics / Daeduck Electronics persist?</strong> The AI-component diffusion axis verification.
+3. <strong>Does KOSDAQ catch up?</strong> Capital diffusion / broad-rally transition signal.
 
-If any of these three fails, May 13 reads as **"large-cap short-cover + flow-reversal rally"**. All three triggering = trend-shift candidate.
+If any of these three fails, May 13 reads as <strong>"large-cap short-cover + flow-reversal rally"</strong>. All three triggering = trend-shift candidate.
 
 ---
 
@@ -240,7 +240,7 @@ If any of these three fails, May 13 reads as **"large-cap short-cover + flow-rev
 
 May 13's KOSPI 7,844.01 all-time high was a V-reversal that ignored macro headwinds. Foreign -₩3.76tn was absorbed by retail +₩1.89tn and institutions +₩1.69tn. SK hynix +7.68%, Samsung Electro-Mechanics +7.41%, Daeduck Electronics +11.64%, Hyundai Mobis +18.43% — large-caps did the work. KOSDAQ closed -0.20% with 500 more decliners than advancers.
 
-This is **a compressed large-cap rally, not a broad rally**. Macro lost to flow and single-name news flow. Structurally, this widens the gap between names that work and names that don't.
+This is <strong>a compressed large-cap rally, not a broad rally</strong>. Macro lost to flow and single-name news flow. Structurally, this widens the gap between names that work and names that don't.
 
 The verification today (5/14) is simple. Does foreign selling stop, do institutions keep buying Samsung Electro-Mechanics / Daeduck Electronics, does KOSDAQ catch up. All three = the start of a trend shift. Any failing = single-session compression rally. The answer arrives within 1-2 sessions.
 
@@ -248,28 +248,28 @@ The verification today (5/14) is simple. Does foreign selling stop, do instituti
 
 ## FAQ
 
-**Q: How does the KOSPI hit a new all-time high while foreigners sell ₩3.76tn?**
+<strong>Q: How does the KOSPI hit a new all-time high while foreigners sell ₩3.76tn?</strong>
 A: Retail (+₩1.89tn) and institutions (+₩1.69tn) absorbed it — combined ₩3.58tn vs. foreign ₩3.76tn = near-1:1 offset. The risk is that single-session foreign selling congealing into a sustained trend would be hard for domestics to defend alone. The foreign direction across the rest of this week is the variable that matters.
 
-**Q: Why did KOSDAQ close -0.20%?**
+<strong>Q: Why did KOSDAQ close -0.20%?</strong>
 A: Capital concentrated in large-caps. In a compressed top-of-cap rally, mid/small KOSDAQ names don't tag along. KOSDAQ recovery requires capital diffusion — that needs the KOSDAQ average daily turnover to recover and foreign + institutional buying to align.
 
-**Q: Hot CPI, WTI back above $100, Middle East tension — why did markets ignore them?**
+<strong>Q: Hot CPI, WTI back above $100, Middle East tension — why did markets ignore them?</strong>
 A: Three hypotheses appear to operate in parallel: (1) dry-powder around record highs after the May 6 +6.5% session, (2) concentrated single-name upgrade flow across the same week (Samsung Electronics Citi TP raise, multiple memory re-rating reports), (3) Hyundai Motor / Hyundai Mobis autonomy / robotaxi catalysts. Single-name news flow outweighed macro.
 
-**Q: How does May 6 (+6.5%) compare to May 13 (+2.63%)?**
+<strong>Q: How does May 6 (+6.5%) compare to May 13 (+2.63%)?</strong>
 A: The most important difference is foreign direction. May 6 = foreigners +₩3.13tn; May 13 = foreigners -₩3.76tn. Same strong move, opposite flow signature. May 6 = foreign-driven cohesive advance; May 13 = domestic-absorbed compressed large-cap rally.
 
-**Q: What kinds of names do compressed rallies favor?**
+<strong>Q: What kinds of names do compressed rallies favor?</strong>
 A: Generalizing is hard, but May 13 data shows: top market-cap + foreign-broker coverage + earnings visibility tends to attract the flow. The four clusters (semis flagships, AI substrate / SUMs, auto large-caps, display) are examples. Mid/small-cap names with thin coverage and expectation-based valuation participate later.
 
-**Q: Are foreigners selling Korea wholesale?**
+<strong>Q: Are foreigners selling Korea wholesale?</strong>
 A: No. The May 13 mix shows Samsung Electronics / SK hynix selling alongside Samsung Electro-Mechanics / Hyundai Motor / LG Display buying — partial profit-take in memory + rotation into other large-caps. Against the YTD $6.7bn inflow (see Why Korea Part 4), May 13's sell was \~40% of cumulative inflow — large for one day, modest as a profit-take in cumulative terms. Insufficient data to declare trend reversal.
 
-**Q: What does KOSDAQ need to participate?**
+<strong>Q: What does KOSDAQ need to participate?</strong>
 A: (a) Foreign selling to stop or reverse, (b) KOSDAQ average daily turnover to recover, (c) earnings momentum to diffuse into mid/small-caps. Currently item (1) is unverified, so KOSDAQ recovery may take a few more sessions.
 
-**Q: Is this compression a dangerous signal?**
+<strong>Q: Is this compression a dangerous signal?</strong>
 A: Data is insufficient to call it dangerous. Compressed rallies can be the early signal of a strong trend or a late-stage signal. The distinguishing test is simple — does capital diffuse from large-caps to mid/small-caps over the next 1-2 weeks (trend start), or do large-caps deflate and the rally ends (late-stage).
 
 ---

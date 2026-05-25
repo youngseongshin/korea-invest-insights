@@ -12,11 +12,11 @@ Bài này là phần tiếp theo của [Why Korea 5](/post/why-korea-market-cap-
 
 ## Tóm tắt
 
-* Nhà đầu tư nước ngoài không rời bỏ toàn bộ thị trường Hàn Quốc. Họ chủ yếu giảm vị thế ở **Samsung Electronics** và **SK hynix**.
-* Theo Research OS local DB, từ 2026-01-02 đến 2026-05-22, khối ngoại bán ròng tổng cộng **89.2 nghìn tỷ won**.
-* Samsung Electronics chiếm **-50.4 nghìn tỷ won**, SK hynix chiếm **-34.4 nghìn tỷ won**. Hai cổ phiếu này giải thích khoảng **95%** tổng bán ròng.
-* Nếu loại hai cổ phiếu này, bán ròng chỉ còn khoảng **-4.4 nghìn tỷ won**.
-* Kết luận: đây là **phân phối ở nhóm megacap AI memory**, kèm luân chuyển chọn lọc sang năng lượng, sinh học, pin, đóng tàu/quốc phòng, K-beauty và robotics.
+* Nhà đầu tư nước ngoài không rời bỏ toàn bộ thị trường Hàn Quốc. Họ chủ yếu giảm vị thế ở <strong>Samsung Electronics</strong> và <strong>SK hynix</strong>.
+* Theo Research OS local DB, từ 2026-01-02 đến 2026-05-22, khối ngoại bán ròng tổng cộng <strong>89.2 nghìn tỷ won</strong>.
+* Samsung Electronics chiếm <strong>-50.4 nghìn tỷ won</strong>, SK hynix chiếm <strong>-34.4 nghìn tỷ won</strong>. Hai cổ phiếu này giải thích khoảng <strong>95%</strong> tổng bán ròng.
+* Nếu loại hai cổ phiếu này, bán ròng chỉ còn khoảng <strong>-4.4 nghìn tỷ won</strong>.
+* Kết luận: đây là <strong>phân phối ở nhóm megacap AI memory</strong>, kèm luân chuyển chọn lọc sang năng lượng, sinh học, pin, đóng tàu/quốc phòng, K-beauty và robotics.
 
 ## Hàm ý đầu tư
 

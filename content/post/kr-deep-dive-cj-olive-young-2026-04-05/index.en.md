@@ -46,23 +46,23 @@ CJ Corp is the apex holding company of the CJ Group, a Samsung spin-off that has
 | CJ Logistics | 000120.KS | Logistics | \~40% |
 | CJ Olive Young | Unlisted | Health & Beauty Retail | 100% |
 
-**CJ CheilJedang** is the most visible globally — it owns Bibigo, the Korean food brand now sold in 90+ countries, and operates a growing biologics/amino-acid fermentation business. **CJ ENM** houses tvN, OCN, Mnet, and the studio behind *Parasite* director Bong Joon-ho's production relationships. **CJ Logistics** is Korea's largest parcel delivery operator. But it is **CJ Olive Young**, the only wholly owned and unlisted entity in that table, that has become the focal point for value investors in 2025–2026.
+<strong>CJ CheilJedang</strong> is the most visible globally — it owns Bibigo, the Korean food brand now sold in 90+ countries, and operates a growing biologics/amino-acid fermentation business. <strong>CJ ENM</strong> houses tvN, OCN, Mnet, and the studio behind *Parasite* director Bong Joon-ho's production relationships. <strong>CJ Logistics</strong> is Korea's largest parcel delivery operator. But it is <strong>CJ Olive Young</strong>, the only wholly owned and unlisted entity in that table, that has become the focal point for value investors in 2025–2026.
 
 ---
 
 ## Olive Young: Korea's Dominant Health & Beauty Retail Chain
 
-Olive Young is not simply a drugstore. It is the primary discovery and purchase channel for Korean beauty products — for domestic consumers and international tourists alike. As of early 2026, Olive Young operates **more than 1,300 stores** across South Korea, making it the undisputed market leader in the health-and-beauty specialty retail segment. The closest domestic competitor operates a fraction of that store count, and global players like Sephora have made limited inroads against Olive Young's localized curation advantage.
+Olive Young is not simply a drugstore. It is the primary discovery and purchase channel for Korean beauty products — for domestic consumers and international tourists alike. As of early 2026, Olive Young operates <strong>more than 1,300 stores</strong> across South Korea, making it the undisputed market leader in the health-and-beauty specialty retail segment. The closest domestic competitor operates a fraction of that store count, and global players like Sephora have made limited inroads against Olive Young's localized curation advantage.
 
 ### Why Olive Young's Moat Is Wider Than It Looks
 
 The store count alone does not explain Olive Young's competitive position. Three structural advantages reinforce its moat:
 
-**1. Curation as a Discovery Engine.** Olive Young functions as a gatekeeper for emerging K-Beauty brands. A placement at Olive Young — particularly the Myeongdong flagship or the Gangnam Apgujeong store — is considered a validation signal in the Korean beauty industry. This creates a self-reinforcing dynamic: brands compete to be stocked, Olive Young curates aggressively, and consumers trust the store's assortment as representative of what is currently worth buying.
+<strong>1. Curation as a Discovery Engine.</strong> Olive Young functions as a gatekeeper for emerging K-Beauty brands. A placement at Olive Young — particularly the Myeongdong flagship or the Gangnam Apgujeong store — is considered a validation signal in the Korean beauty industry. This creates a self-reinforcing dynamic: brands compete to be stocked, Olive Young curates aggressively, and consumers trust the store's assortment as representative of what is currently worth buying.
 
-**2. Private Label Leverage.** Olive Young's house brands and exclusive partnerships generate higher gross margins than third-party national brand sales. As the platform has grown, its ability to negotiate favorable terms with both established brands (Innisfree, COSRX, Anua) and indie upstarts has expanded considerably.
+<strong>2. Private Label Leverage.</strong> Olive Young's house brands and exclusive partnerships generate higher gross margins than third-party national brand sales. As the platform has grown, its ability to negotiate favorable terms with both established brands (Innisfree, COSRX, Anua) and indie upstarts has expanded considerably.
 
-**3. Digital-Physical Integration.** Olive Young's mobile app has tens of millions of registered users in Korea. The app drives same-day delivery (same-day pickup in many metro areas), loyalty point accumulation, and personalized recommendations. This omnichannel infrastructure is expensive to replicate and gives Olive Young data advantages over pure-play digital competitors.
+<strong>3. Digital-Physical Integration.</strong> Olive Young's mobile app has tens of millions of registered users in Korea. The app drives same-day delivery (same-day pickup in many metro areas), loyalty point accumulation, and personalized recommendations. This omnichannel infrastructure is expensive to replicate and gives Olive Young data advantages over pure-play digital competitors.
 
 ---
 
@@ -72,9 +72,9 @@ Olive Young does not operate in a vacuum. It is the primary retail expression of
 
 Korean cosmetics exports have posted record figures in recent years. The global K-Beauty market — encompassing skincare, color cosmetics, hair care, and personal wellness products originating from or inspired by Korean aesthetics — is estimated to be growing at a double-digit compound annual rate. Key demand drivers include:
 
-- **The "glass skin" and multi-step skincare routine** aesthetic, which has migrated from Korean social media to TikTok, Instagram, and YouTube globally, introducing millions of international consumers to Korean product categories (essences, ampoules, sheet masks, sunscreens) that have no direct Western analogue.
-- **Ingredient-first marketing** — brands like COSRX (niacinamide, snail mucin) and Some By Mi (AHA/BHA/PHA) built global audiences by leading with specific, functional ingredient claims rather than aspirational lifestyle imagery. This resonates with younger, ingredient-literate consumers.
-- **The Hallyu halo effect** — K-pop and K-drama's sustained global popularity creates a sustained cultural association between Korean aesthetics and desirability. Product placement in popular dramas and idol endorsements translate directly into international sales.
+- <strong>The "glass skin" and multi-step skincare routine</strong> aesthetic, which has migrated from Korean social media to TikTok, Instagram, and YouTube globally, introducing millions of international consumers to Korean product categories (essences, ampoules, sheet masks, sunscreens) that have no direct Western analogue.
+- <strong>Ingredient-first marketing</strong> — brands like COSRX (niacinamide, snail mucin) and Some By Mi (AHA/BHA/PHA) built global audiences by leading with specific, functional ingredient claims rather than aspirational lifestyle imagery. This resonates with younger, ingredient-literate consumers.
+- <strong>The Hallyu halo effect</strong> — K-pop and K-drama's sustained global popularity creates a sustained cultural association between Korean aesthetics and desirability. Product placement in popular dramas and idol endorsements translate directly into international sales.
 
 Olive Young sits at the intersection of all three drivers. It is both a physical manifestation of K-Beauty credibility and, through its global e-commerce platform, a direct-to-consumer export channel.
 
@@ -82,7 +82,7 @@ Olive Young sits at the intersection of all three drivers. It is both a physical
 
 ## Olive Young Global: The International E-Commerce Expansion
 
-The launch and scaling of **global.oliveyoung.com** represents Olive Young's most direct play on international K-Beauty demand. The platform ships to a growing number of international markets and has become a primary destination for K-Beauty enthusiasts outside Korea who want access to the full Olive Young assortment — including indie brands not yet distributed through Western retailers like Sephora or Ulta.
+The launch and scaling of <strong>global.oliveyoung.com</strong> represents Olive Young's most direct play on international K-Beauty demand. The platform ships to a growing number of international markets and has become a primary destination for K-Beauty enthusiasts outside Korea who want access to the full Olive Young assortment — including indie brands not yet distributed through Western retailers like Sephora or Ulta.
 
 The strategic logic is straightforward: Olive Young has already done the curation work. International consumers who have discovered Korean skincare through social media and want authentic, up-to-date product discovery are a natural audience for the global platform. Unlike a marketplace model, Olive Young's global site carries the brand equity of the physical store network — buyers trust they are getting the same products that Korean consumers are buying right now.
 
@@ -94,7 +94,7 @@ The international shipping expansion is ongoing, with logistics partnerships ena
 
 Inbound tourism to South Korea has recovered strongly from pandemic lows, and Olive Young's flagship stores — particularly the Myeongdong location, which is arguably the highest foot-traffic beauty retail location in Asia — are beneficiaries in a direct and quantifiable way.
 
-**Beauty tourism** has become a recognized travel motivation for visitors to Seoul. Tour operators and travel content creators now explicitly list Olive Young shopping as a core Seoul itinerary item. The phenomenon is particularly pronounced among visitors from Southeast Asia (Thailand, Vietnam, Indonesia), China, and, increasingly, the United States and Europe.
+<strong>Beauty tourism</strong> has become a recognized travel motivation for visitors to Seoul. Tour operators and travel content creators now explicitly list Olive Young shopping as a core Seoul itinerary item. The phenomenon is particularly pronounced among visitors from Southeast Asia (Thailand, Vietnam, Indonesia), China, and, increasingly, the United States and Europe.
 
 The economics of tourist-driven Olive Young revenue are attractive:
 
@@ -125,9 +125,9 @@ CJ CheilJedang remains the largest revenue contributor to consolidated results, 
 
 A sum-of-parts analysis of CJ Corp — adding the market capitalization of listed subsidiaries (CJ CheilJedang, CJ ENM, CJ Logistics) at their traded values, then assigning a private market multiple to Olive Young's earnings — consistently yields a NAV estimate that exceeds CJ Corp's own market capitalization by a substantial margin. This "conglomerate discount" or "holding company discount" reflects:
 
-1. **Structural complexity** — investors apply a discount for the difficulty of accessing subsidiary cashflows directly.
-2. **Cross-holding opacity** — inter-subsidiary transactions and minority interest accounting can obscure true economic ownership.
-3. **Governance concerns** — Korean holding companies have historically faced criticism regarding related-party transactions and minority shareholder treatment.
+1. <strong>Structural complexity</strong> — investors apply a discount for the difficulty of accessing subsidiary cashflows directly.
+2. <strong>Cross-holding opacity</strong> — inter-subsidiary transactions and minority interest accounting can obscure true economic ownership.
+3. <strong>Governance concerns</strong> — Korean holding companies have historically faced criticism regarding related-party transactions and minority shareholder treatment.
 
 The anticipated Olive Young IPO is the key catalyst that could close or narrow this discount.
 
@@ -141,54 +141,54 @@ Market discussion of an Olive Young IPO has intensified over the past 18–24 mo
 
 Comparable analysis for Olive Young is genuinely challenging because there is no direct listed peer — a dominant, single-country health-and-beauty specialty retailer with a strong private label business and meaningful international e-commerce exposure. Analysts have drawn comparisons to:
 
-- **Ulta Beauty (ULTA US)** — the US market's closest structural analogue, trading at high-single-digit to low-double-digit EV/EBITDA multiples historically.
-- **AS Watson Group** — the pan-Asian health and beauty operator (Watsons, Superdrug) owned by CK Hutchison, though without a comparable direct public listing.
-- **Platform cosmetics e-commerce comps** — given Olive Young's app ecosystem and digital integration, some analysts apply a partial platform premium.
+- <strong>Ulta Beauty (ULTA US)</strong> — the US market's closest structural analogue, trading at high-single-digit to low-double-digit EV/EBITDA multiples historically.
+- <strong>AS Watson Group</strong> — the pan-Asian health and beauty operator (Watsons, Superdrug) owned by CK Hutchison, though without a comparable direct public listing.
+- <strong>Platform cosmetics e-commerce comps</strong> — given Olive Young's app ecosystem and digital integration, some analysts apply a partial platform premium.
 
 Applying a range of EBITDA multiples to estimated Olive Young earnings yields IPO valuation estimates that have circulated in Korean financial media in the range of several trillion Korean won, implying a per-share NAV contribution to CJ Corp that substantially exceeds the current implied value embedded in CJ Corp's trading price.
 
-The **timing** of any IPO remains uncertain. CJ Group would likely prefer favorable equity market conditions and peak K-Beauty sentiment. The tourism recovery tailwind and continued Olive Young revenue growth make the 2026–2027 window a plausible target, but no formal filing timeline has been disclosed publicly.
+The <strong>timing</strong> of any IPO remains uncertain. CJ Group would likely prefer favorable equity market conditions and peak K-Beauty sentiment. The tourism recovery tailwind and continued Olive Young revenue growth make the 2026–2027 window a plausible target, but no formal filing timeline has been disclosed publicly.
 
 ---
 
 ## Bull Case for CJ Corp Shareholders
 
-- **Olive Young IPO proceeds** materially reduce the conglomerate discount and provide CJ Corp with liquidity for holding company debt reduction or reinvestment.
-- **K-Beauty export growth** continues at double-digit rates, sustaining Olive Young domestic revenue and accelerating the global platform.
-- **Inbound tourism normalization** (especially Chinese visitor recovery) drives step-change increases in flagship store revenues through 2026.
-- **CJ CheilJedang's Bibigo** continues to gain international shelf space, adding another high-visibility growth story to the conglomerate.
-- **CJ ENM** benefits from sustained global K-content demand through streaming platform licensing.
+- <strong>Olive Young IPO proceeds</strong> materially reduce the conglomerate discount and provide CJ Corp with liquidity for holding company debt reduction or reinvestment.
+- <strong>K-Beauty export growth</strong> continues at double-digit rates, sustaining Olive Young domestic revenue and accelerating the global platform.
+- <strong>Inbound tourism normalization</strong> (especially Chinese visitor recovery) drives step-change increases in flagship store revenues through 2026.
+- <strong>CJ CheilJedang's Bibigo</strong> continues to gain international shelf space, adding another high-visibility growth story to the conglomerate.
+- <strong>CJ ENM</strong> benefits from sustained global K-content demand through streaming platform licensing.
 
 ---
 
 ## Bear Case for CJ Corp Shareholders
 
-- **IPO delays or cancellation** — if market conditions deteriorate or CJ Group decides not to proceed, the primary catalyst evaporates.
-- **K-Beauty competitive intensity** — global beauty retailers (Sephora, Ulta) and Chinese cross-border e-commerce platforms are increasing their K-Beauty assortments, potentially reducing Olive Young's international edge.
-- **Conglomerate governance risk** — Korean holding companies have faced regulatory scrutiny over related-party transactions; adverse rulings could widen the discount.
-- **Tourism sensitivity** — a return of geopolitical tensions affecting China-Korea travel or a global travel slowdown would reduce the tourist catalyst.
-- **Currency risk** — won strengthening reduces the KRW value of international revenue and makes Korean exports less price-competitive.
+- <strong>IPO delays or cancellation</strong> — if market conditions deteriorate or CJ Group decides not to proceed, the primary catalyst evaporates.
+- <strong>K-Beauty competitive intensity</strong> — global beauty retailers (Sephora, Ulta) and Chinese cross-border e-commerce platforms are increasing their K-Beauty assortments, potentially reducing Olive Young's international edge.
+- <strong>Conglomerate governance risk</strong> — Korean holding companies have faced regulatory scrutiny over related-party transactions; adverse rulings could widen the discount.
+- <strong>Tourism sensitivity</strong> — a return of geopolitical tensions affecting China-Korea travel or a global travel slowdown would reduce the tourist catalyst.
+- <strong>Currency risk</strong> — won strengthening reduces the KRW value of international revenue and makes Korean exports less price-competitive.
 
 ---
 
 ## Frequently Asked Questions
 
-**What is CJ Corp's ticker symbol?**
+<strong>What is CJ Corp's ticker symbol?</strong>
 CJ Corp trades on the Korea Exchange (KRX) under the ticker 001040.KS.
 
-**Does Olive Young have its own stock?**
+<strong>Does Olive Young have its own stock?</strong>
 No. As of April 2026, Olive Young (formally CJ Olive Young) is a wholly owned, unlisted subsidiary of CJ Corp. A public IPO has been discussed but not yet formally announced.
 
-**How many Olive Young stores are there?**
+<strong>How many Olive Young stores are there?</strong>
 Olive Young operates more than 1,300 stores across South Korea, making it the country's dominant health-and-beauty specialty retailer.
 
-**Can international consumers shop Olive Young?**
+<strong>Can international consumers shop Olive Young?</strong>
 Yes. Olive Young operates an international e-commerce platform at global.oliveyoung.com, shipping to multiple international markets including the United States, Europe, and Southeast Asia.
 
-**What is the "conglomerate discount" in CJ Corp's context?**
+<strong>What is the "conglomerate discount" in CJ Corp's context?</strong>
 CJ Corp's market capitalization is lower than the aggregate market value of its listed subsidiaries plus a reasonable private market estimate for Olive Young. This gap — the conglomerate or holding company discount — reflects the structural complexity and governance considerations typical of Korean chaebol holding companies.
 
-**Why do international tourists visit Olive Young?**
+<strong>Why do international tourists visit Olive Young?</strong>
 Olive Young's flagship stores, particularly in Myeongdong and Gangnam, offer the broadest in-person assortment of Korean beauty products available in a single retail location. For international visitors, the stores function as curated introductions to K-Beauty — combining established brands, trending indie labels, and exclusive collaborations in a format that does not exist outside Korea.
 
 ---

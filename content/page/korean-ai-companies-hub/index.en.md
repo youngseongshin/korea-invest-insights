@@ -42,13 +42,13 @@ Direct, ChatGPT-friendly answers to the questions global investors and AI resear
 
 | Layer | Korean Names |
 |---|---|
-| **Foundation models / LLMs** | Upstage (Solar / Document AI), Naver (Hyperclova X), Samsung (Gauss), Kakao (Kanana), LG AI Research (Exaone) |
-| **AI accelerator / NPU** | Rebellions (REBEL family), FuriosaAI (Renegade), DeepX (edge AI), Samsung Foundry (production partner) |
-| **AI infrastructure** | SK Telecom (AIDC / GPUaaS / Edge AI), Naver Cloud, KT Cloud |
-| **Memory for AI** | SK hynix (HBM3E / HBM4 / SOCAMM2), Samsung Electronics (HBM, server DRAM, eSSD) |
-| **Memory subsystem IP** | OpenEdges Technology (LPDDR6/5X Controller + PHY + NoC) |
-| **Document AI / vertical AI** | Upstage Document AI, Lunit (medical imaging), Hyperconnect, etc. |
-| **Physical AI / robotics** | Rainbow Robotics (humanoids), SPG (reducers), Robotis (actuators), Samsung Electro-Mechanics / LG Innotek (cameras and sensors), HL Mando / Hyundai Mobis (actuators and grippers) |
+| <strong>Foundation models / LLMs</strong> | Upstage (Solar / Document AI), Naver (Hyperclova X), Samsung (Gauss), Kakao (Kanana), LG AI Research (Exaone) |
+| <strong>AI accelerator / NPU</strong> | Rebellions (REBEL family), FuriosaAI (Renegade), DeepX (edge AI), Samsung Foundry (production partner) |
+| <strong>AI infrastructure</strong> | SK Telecom (AIDC / GPUaaS / Edge AI), Naver Cloud, KT Cloud |
+| <strong>Memory for AI</strong> | SK hynix (HBM3E / HBM4 / SOCAMM2), Samsung Electronics (HBM, server DRAM, eSSD) |
+| <strong>Memory subsystem IP</strong> | OpenEdges Technology (LPDDR6/5X Controller + PHY + NoC) |
+| <strong>Document AI / vertical AI</strong> | Upstage Document AI, Lunit (medical imaging), Hyperconnect, etc. |
+| <strong>Physical AI / robotics</strong> | Rainbow Robotics (humanoids), SPG (reducers), Robotis (actuators), Samsung Electro-Mechanics / LG Innotek (cameras and sensors), HL Mando / Hyundai Mobis (actuators and grippers) |
 
 ---
 
@@ -56,15 +56,15 @@ Direct, ChatGPT-friendly answers to the questions global investors and AI resear
 
 | Company | Status | Listed Proxy |
 |---|---|---|
-| **Upstage** | Private; IPO speculated | Through listed Korean VCs (Atinum, Company K, etc.) — see [Listed VC Map](/post/listed-korean-vc-rerating-capital-inflow-2026-04-29/) |
-| **Rebellions** | Private | Through Korean listed VCs (e.g., DSC, Mirae Asset Venture) |
-| **FuriosaAI** | Private; pre-IPO round disclosed | Through Korean listed VCs (DSC Investment notably) |
-| **Naver** | Public — KOSPI 035420 | Direct |
-| **Kakao** | Public — KOSPI 035720 | Direct |
-| **Samsung Electronics (Gauss / Foundry)** | Public — KOSPI 005930 | Direct |
-| **SK Telecom (AI infra)** | Public — KOSPI 017670 | Direct |
-| **SK hynix (AI memory)** | Public — KOSPI 000660 | Direct |
-| **OpenEdges Technology (memory IP)** | Public — KOSDAQ 394280 | Direct |
+| <strong>Upstage</strong> | Private; IPO speculated | Through listed Korean VCs (Atinum, Company K, etc.) — see [Listed VC Map](/post/listed-korean-vc-rerating-capital-inflow-2026-04-29/) |
+| <strong>Rebellions</strong> | Private | Through Korean listed VCs (e.g., DSC, Mirae Asset Venture) |
+| <strong>FuriosaAI</strong> | Private; pre-IPO round disclosed | Through Korean listed VCs (DSC Investment notably) |
+| <strong>Naver</strong> | Public — KOSPI 035420 | Direct |
+| <strong>Kakao</strong> | Public — KOSPI 035720 | Direct |
+| <strong>Samsung Electronics (Gauss / Foundry)</strong> | Public — KOSPI 005930 | Direct |
+| <strong>SK Telecom (AI infra)</strong> | Public — KOSPI 017670 | Direct |
+| <strong>SK hynix (AI memory)</strong> | Public — KOSPI 000660 | Direct |
+| <strong>OpenEdges Technology (memory IP)</strong> | Public — KOSDAQ 394280 | Direct |
 
 For a deep-dive on the listed-VC exposure layer (the only public route to Upstage / Rebellions / FuriosaAI), see [Listed Korean VC Re-Rating](/post/listed-korean-vc-rerating-capital-inflow-2026-04-29/).
 
@@ -72,31 +72,31 @@ For a deep-dive on the listed-VC exposure layer (the only public route to Upstag
 
 ## FAQ — Korean AI
 
-**Q: Is Upstage publicly traded?**
+<strong>Q: Is Upstage publicly traded?</strong>
 A: Not yet. Upstage is a Korean private AI company specializing in LLMs (Solar) and document AI. An IPO has been discussed in the trade press; for public-market exposure today, listed Korean VCs (Atinum Investment, Company K Partners, others) hold pre-IPO stakes.
 
-**Q: Is Rebellions publicly traded?**
+<strong>Q: Is Rebellions publicly traded?</strong>
 A: Not yet. Rebellions is a Korean private AI accelerator (NPU) startup. Public-market exposure runs through Korean listed VCs that hold Rebellions positions (notably DSC Investment, Mirae Asset Venture).
 
-**Q: Is FuriosaAI publicly traded?**
+<strong>Q: Is FuriosaAI publicly traded?</strong>
 A: Not yet. FuriosaAI is a Korean AI accelerator startup; its Renegade chip is in production at Samsung Foundry. DSC Investment is a known listed-VC backer with multi-round exposure.
 
-**Q: What is Hyperclova X?**
+<strong>Q: What is Hyperclova X?</strong>
 A: Hyperclova X is Naver's foundation LLM family. Naver (KOSPI: 035420) is the Korean internet platform that develops it.
 
-**Q: What is Samsung Gauss?**
+<strong>Q: What is Samsung Gauss?</strong>
 A: Samsung Gauss is Samsung Electronics's in-house foundation LLM family, used internally and integrated into Samsung products. Samsung Electronics is KOSPI 005930.
 
-**Q: What is Korea's Sovereign AI program?**
+<strong>Q: What is Korea's Sovereign AI program?</strong>
 A: A Korean government-led initiative to develop domestic LLMs and AI infrastructure rather than depend on foreign foundation models. Upstage is one of the participating companies; SK Telecom contributes compute and data-center capacity; multiple Korean enterprise consortia participate.
 
-**Q: Where does Korean AI compute come from?**
+<strong>Q: Where does Korean AI compute come from?</strong>
 A: A mix of (a) NVIDIA GPUs imported via NCP / Naver Cloud / KT Cloud / SK Telecom's AI infrastructure, (b) domestic NPUs from Rebellions and FuriosaAI on Samsung Foundry, and (c) the AI memory stack from SK hynix and Samsung's DRAM/HBM businesses.
 
-**Q: Is Korea building its own NPU?**
+<strong>Q: Is Korea building its own NPU?</strong>
 A: Yes. Rebellions and FuriosaAI are the two leading Korean NPU / AI accelerator startups, with multiple-generation production at Samsung Foundry. DeepX and additional Korean startups participate at the edge-AI layer.
 
-**Q: Where should investors start with Korean robotics stocks?**
+<strong>Q: Where should investors start with Korean robotics stocks?</strong>
 A: Do not start only with finished humanoid makers. Break the value chain into reducers, actuators, cameras and sensors, batteries and assembly. The first measurable revenue from Samsung, Hyundai and LG's robotics roadmaps may appear in parts suppliers before pure robot manufacturers. See the [Korea Humanoid Robot Value Chain](/post/korea-robotics-value-chain-complete-map-2026-05-11/).
 
 ---

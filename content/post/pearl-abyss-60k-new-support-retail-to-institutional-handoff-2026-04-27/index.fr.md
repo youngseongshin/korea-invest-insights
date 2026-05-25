@@ -8,18 +8,18 @@ tags: ["pearl-abyss", "263750", "crimson-desert", "vente-à-découvert", "lectur
 series: ["pearl-abyss-crimson-desert-thesis"]
 ---
 
-> **Série — Pearl Abyss Crimson Desert Thesis (Partie 10)**
-> La partie 9 couvrait la lecture des données de jeu post-1.04.00 sur le week-end (CCU -13 % mais nouveaux avis négatifs -49,7 %). Ce billet couvre le **volet tape** : le 27 avril a été le jour où ₩60 000 a cessé d'être une résistance pour devenir un support — et la façon dont cette conversion s'est opérée en dit long sur qui détient désormais le titre.
+> <strong>Série — Pearl Abyss Crimson Desert Thesis (Partie 10)</strong>
+> La partie 9 couvrait la lecture des données de jeu post-1.04.00 sur le week-end (CCU -13 % mais nouveaux avis négatifs -49,7 %). Ce billet couvre le <strong>volet tape</strong> : le 27 avril a été le jour où ₩60 000 a cessé d'être une résistance pour devenir un support — et la façon dont cette conversion s'est opérée en dit long sur qui détient désormais le titre.
 
 ---
 
 ## TL;DR
 
-- **Le 27 avril n'était pas une "journée sans shorts".** C'est le jour où Pearl Abyss a absorbé la vente à découvert, les sorties des maisons étrangères et l'offre retail menée par Kiwoom *tout en faisant de ₩60 000 le support de première ligne.*
-- Volume short officiel : **75 930 actions / ₩4,585 Mds / VWAP \~₩60 390.** Part des shorts dans le volume et la valeur totaux : **\~7,2 %**.
-- La clôture à ₩60 200 se situe juste en dessous du VWAP short à ₩60 390. **Si demain tient au-dessus de ₩60 400, les shorts d'aujourd'hui se retrouvent immédiatement en perte.**
-- La structure des flux **n'était pas un achat massif porté par les étrangers.** Il s'agissait de **Kiwoom (retail) + flux vendeurs nets des maisons étrangères + 75 930 actions de shorts officiels** absorbés par **des achats institutionnels conduits par Shinhan / Korea Investment.** C'est un **transfert retail → institutionnel** d'école.
-- Posture sur la position longue : **Conserver. Pas d'ajout. Pas d'allègement.** Aujourd'hui était une confirmation de support de première ligne, pas une cassure de second niveau.
+- <strong>Le 27 avril n'était pas une "journée sans shorts".</strong> C'est le jour où Pearl Abyss a absorbé la vente à découvert, les sorties des maisons étrangères et l'offre retail menée par Kiwoom *tout en faisant de ₩60 000 le support de première ligne.*
+- Volume short officiel : <strong>75 930 actions / ₩4,585 Mds / VWAP \~₩60 390.</strong> Part des shorts dans le volume et la valeur totaux : <strong>\~7,2 %</strong>.
+- La clôture à ₩60 200 se situe juste en dessous du VWAP short à ₩60 390. <strong>Si demain tient au-dessus de ₩60 400, les shorts d'aujourd'hui se retrouvent immédiatement en perte.</strong>
+- La structure des flux <strong>n'était pas un achat massif porté par les étrangers.</strong> Il s'agissait de <strong>Kiwoom (retail) + flux vendeurs nets des maisons étrangères + 75 930 actions de shorts officiels</strong> absorbés par <strong>des achats institutionnels conduits par Shinhan / Korea Investment.</strong> C'est un <strong>transfert retail → institutionnel</strong> d'école.
+- Posture sur la position longue : <strong>Conserver. Pas d'ajout. Pas d'allègement.</strong> Aujourd'hui était une confirmation de support de première ligne, pas une cassure de second niveau.
 
 ---
 
@@ -29,8 +29,8 @@ Session régulière :
 
 | Indicateur | Valeur |
 |---|---:|
-| Clôture | **₩60 200** |
-| Variation | **+5,61 %** |
+| Clôture | <strong>₩60 200</strong> |
+| Variation | <strong>+5,61 %</strong> |
 | Ouverture | ₩59 400 |
 | Haut | ₩61 700 |
 | Bas | ₩58 700 |
@@ -56,17 +56,17 @@ Le pré-marché monte jusqu'à ₩62 600 (front-loaded)
 → Clôture à ₩60 200
 ```
 
-La mission du jour n'était pas "une cassure haussière franche". La mission du jour était d'**absorber l'offre au-dessus de ₩60 000** — et cette mission a été accomplie.
+La mission du jour n'était pas "une cassure haussière franche". La mission du jour était d'<strong>absorber l'offre au-dessus de ₩60 000</strong> — et cette mission a été accomplie.
 
 ---
 
 ## 2. Données officielles de vente à découvert
 
-Extrait du CSV officiel des ventes à découvert pour **le 27 avril 2026 / Pearl Abyss** :
+Extrait du CSV officiel des ventes à découvert pour <strong>le 27 avril 2026 / Pearl Abyss</strong> :
 
 | Catégorie | Actions | KRW | VWAP |
 |---|---:|---:|---:|
-| **Total shorts** | **75 930** | ₩4 585 410 000 | **₩60 390** |
+| <strong>Total shorts</strong> | <strong>75 930</strong> | ₩4 585 410 000 | <strong>₩60 390</strong> |
 | Règle de l'uptick appliquée | 55 201 | ₩3 328 M | ₩60 281 |
 | Règle de l'uptick exemptée | 20 729 | ₩1 258 M | ₩60 681 |
 
@@ -80,7 +80,7 @@ VWAP de la session régulière tous flux confondus :
 ₩63 639 439 000 ÷ 1 052 139 = ~₩60 486
 ```
 
-**Le VWAP short à ₩60 390 se situe juste en dessous du VWAP global de la journée à ₩60 486.** Les shorts n'ont pas obtenu un prix exceptionnellement avantageux. La clôture à ₩60 200 est quasiment au niveau du coût des shorts — ce qui signifie que **quiconque a shorté aujourd'hui est à peu près à l'équilibre en mark-to-market, et une bonne journée suffit à les mettre en perte.**
+<strong>Le VWAP short à ₩60 390 se situe juste en dessous du VWAP global de la journée à ₩60 486.</strong> Les shorts n'ont pas obtenu un prix exceptionnellement avantageux. La clôture à ₩60 200 est quasiment au niveau du coût des shorts — ce qui signifie que <strong>quiconque a shorté aujourd'hui est à peu près à l'équilibre en mark-to-market, et une bonne journée suffit à les mettre en perte.</strong>
 
 ---
 
@@ -88,34 +88,34 @@ VWAP de la session régulière tous flux confondus :
 
 | Date | Actions shortées | Valeur short |
 |---|---:|---:|
-| **27/04/2026** | **75 930** | ₩45,9 Mds |
+| <strong>27/04/2026</strong> | <strong>75 930</strong> | ₩45,9 Mds |
 | 24/04/2026 | 76 600 | ₩43,8 Mds |
-| 23/04/2026 | **269 865** | **₩149,2 Mds** |
+| 23/04/2026 | <strong>269 865</strong> | <strong>₩149,2 Mds</strong> |
 | 22/04/2026 | 108 674 | ₩61,3 Mds |
 | 21/04/2026 | 64 362 | ₩34,9 Mds |
 | 20/04/2026 | 86 097 | ₩46,7 Mds |
 | 17/04/2026 | 100 764 | ₩54,2 Mds |
-| 16/04/2026 | **298 379** | **₩168,0 Mds** |
+| 16/04/2026 | <strong>298 379</strong> | <strong>₩168,0 Mds</strong> |
 
 Le volume short d'aujourd'hui est :
 
 - Pratiquement équivalent au 24 avril
-- **\~28 % du mega-print du 23 avril** (269 865 actions)
-- **\~63 %** de la moyenne mobile 5 jours
-- **\~51 %** de la moyenne mobile 10 jours
-- **\~54 %** de la moyenne mobile 20 jours
+- <strong>\~28 % du mega-print du 23 avril</strong> (269 865 actions)
+- <strong>\~63 %</strong> de la moyenne mobile 5 jours
+- <strong>\~51 %</strong> de la moyenne mobile 10 jours
+- <strong>\~54 %</strong> de la moyenne mobile 20 jours
 
-Aujourd'hui n'était **pas un jour de réaggression** pour les shorts. Ils étaient présents, mais ont échoué à casser le prix.
+Aujourd'hui n'était <strong>pas un jour de réaggression</strong> pour les shorts. Ils étaient présents, mais ont échoué à casser le prix.
 
 ---
 
 ## 4. Flux par courtier / investisseur
 
-Les données officielles par type d'investisseur peuvent accuser un décalage et être révisées après clôture. Cette section s'appuie sur **les fenêtres courtiers comme indicateur proxy**.
+Les données officielles par type d'investisseur peuvent accuser un décalage et être révisées après clôture. Cette section s'appuie sur <strong>les fenêtres courtiers comme indicateur proxy</strong>.
 
 ### Principaux courtiers vendeurs
 
-- Kiwoom : **190 155 actions**
+- Kiwoom : <strong>190 155 actions</strong>
 - Shinhan : 117 991 actions
 - NH : 88 903 actions
 - Korea Investment : 81 415 actions
@@ -123,7 +123,7 @@ Les données officielles par type d'investisseur peuvent accuser un décalage et
 
 ### Principaux courtiers acheteurs
 
-- Shinhan : **169 236 actions**
+- Shinhan : <strong>169 236 actions</strong>
 - Kiwoom : 127 451 actions
 - Korea Investment : 101 834 actions
 - NH : 72 322 actions
@@ -133,11 +133,11 @@ Les données officielles par type d'investisseur peuvent accuser un décalage et
 
 | Fenêtre | Net (actions) |
 |---|---:|
-| **Shinhan** | **+51 245** |
-| **Korea Investment** | **+20 419** |
+| <strong>Shinhan</strong> | <strong>+51 245</strong> |
+| <strong>Korea Investment</strong> | <strong>+20 419</strong> |
 | NH | -16 581 |
-| **Kiwoom** | **-62 704** |
-| Maisons étrangères (est.) | **-38 336** |
+| <strong>Kiwoom</strong> | <strong>-62 704</strong> |
+| Maisons étrangères (est.) | <strong>-38 336</strong> |
 
 L'architecture des flux :
 
@@ -149,13 +149,13 @@ Ventes retail via Kiwoom
 → Clôture au-dessus de ₩60 000
 ```
 
-Ce n'est **pas** "un rally porté par des achats massifs étrangers". C'est **"l'offre qui devait arriver est arrivée — et le prix a tenu quand même."** Cette distinction compte, car elle nous renseigne sur *quel type de porteur détient désormais le titre.*
+Ce n'est <strong>pas</strong> "un rally porté par des achats massifs étrangers". C'est <strong>"l'offre qui devait arriver est arrivée — et le prix a tenu quand même."</strong> Cette distinction compte, car elle nous renseigne sur *quel type de porteur détient désormais le titre.*
 
 ---
 
 ## 5. Pourquoi le "transfert retail → institutionnel" est important
 
-Le récit populaire serait "l'action a monté parce que les étrangers ont acheté." Ce n'est pas ce qui s'est passé aujourd'hui. Aujourd'hui incarne la version plus propre du haussier : **le vendeur marginal était retail / short / maison étrangère, et l'acheteur marginal était institutionnel domestique.**
+Le récit populaire serait "l'action a monté parce que les étrangers ont acheté." Ce n'est pas ce qui s'est passé aujourd'hui. Aujourd'hui incarne la version plus propre du haussier : <strong>le vendeur marginal était retail / short / maison étrangère, et l'acheteur marginal était institutionnel domestique.</strong>
 
 Pourquoi cette structure est plus saine qu'un rally purement porté par les étrangers :
 
@@ -167,9 +167,9 @@ Pourquoi cette structure est plus saine qu'un rally purement porté par les étr
 | Dynamique short | Se renforce souvent | S'affaiblit (pression sur le coût) |
 | Durabilité du support | Type résistance "jusqu'à ce qu'ils partent" | Support ancré dans la conviction |
 
-Le chiffre net Kiwoom à -62 704 est instructif. Kiwoom penche vers les flux retail / court terme / crédit sur marge. **Une journée où Kiwoom vend massivement et où le prix défend quand même ₩60 000, c'est une journée où les mains faibles sont parties et où des mains plus solides ont pris le titre au niveau.** C'est le mécanisme concret de la construction d'un plancher de support.
+Le chiffre net Kiwoom à -62 704 est instructif. Kiwoom penche vers les flux retail / court terme / crédit sur marge. <strong>Une journée où Kiwoom vend massivement et où le prix défend quand même ₩60 000, c'est une journée où les mains faibles sont parties et où des mains plus solides ont pris le titre au niveau.</strong> C'est le mécanisme concret de la construction d'un plancher de support.
 
-Ajoutez le net acheteur de Shinhan +51 245 / Korea Investment +20 419, et le tableau se précise : **les achats sont passés par des fenêtres de courtiers institutionnels retail/HNW, pas par un seul desk étranger.** Des achats domestiques multi-sources sont structurellement plus stables que des achats mono-sources étrangers.
+Ajoutez le net acheteur de Shinhan +51 245 / Korea Investment +20 419, et le tableau se précise : <strong>les achats sont passés par des fenêtres de courtiers institutionnels retail/HNW, pas par un seul desk étranger.</strong> Des achats domestiques multi-sources sont structurellement plus stables que des achats mono-sources étrangers.
 
 ---
 
@@ -177,18 +177,18 @@ Ajoutez le net acheteur de Shinhan +51 245 / Korea Investment +20 419, et le tab
 
 ### Points positifs
 
-1. **Clôture au-dessus de ₩60 000.** La condition la plus importante de la journée. ₩60 000 n'est plus seulement un niveau de résistance — c'est désormais un candidat au support de première ligne.
-2. **Clôture à ₩60 200 vs VWAP short à ₩60 390.** Demain au-dessus de ₩60 400, les shorts d'aujourd'hui se retrouvent immédiatement en perte.
-3. **Le prix a tenu malgré les ventes nettes de Kiwoom.** Kiwoom -62 704 représente probablement l'offre retail / day-trader / crédit marge. Absorber cela tout en défendant ₩60 000 est un test d'endurance.
-4. **Achats nets de Shinhan / Korea Investment.** +51 245 / +20 419. C'est la demande qui a défendu ₩60 000.
-5. **L'intensité des shorts a baissé.** Le volume short d'aujourd'hui est environ la moitié de la moyenne mobile 10 jours. Pas une attaque de type 23 avril.
+1. <strong>Clôture au-dessus de ₩60 000.</strong> La condition la plus importante de la journée. ₩60 000 n'est plus seulement un niveau de résistance — c'est désormais un candidat au support de première ligne.
+2. <strong>Clôture à ₩60 200 vs VWAP short à ₩60 390.</strong> Demain au-dessus de ₩60 400, les shorts d'aujourd'hui se retrouvent immédiatement en perte.
+3. <strong>Le prix a tenu malgré les ventes nettes de Kiwoom.</strong> Kiwoom -62 704 représente probablement l'offre retail / day-trader / crédit marge. Absorber cela tout en défendant ₩60 000 est un test d'endurance.
+4. <strong>Achats nets de Shinhan / Korea Investment.</strong> +51 245 / +20 419. C'est la demande qui a défendu ₩60 000.
+5. <strong>L'intensité des shorts a baissé.</strong> Le volume short d'aujourd'hui est environ la moitié de la moyenne mobile 10 jours. Pas une attaque de type 23 avril.
 
 ### Imperfections
 
-1. **Échec à reprendre ₩61 700 en session régulière.** Une conversion de tendance franche aurait re-inscrit le plus haut en après-midi.
-2. **Échec à prolonger le plus haut pré-marché à ₩62 600.** L'enthousiasme du pré-marché n'a pas pleinement débordé en heures régulières.
-3. **Montant échangé sous ₩100 Mds.** ₩84,21 Mds (NXT inclus) est solide mais en dessous du seuil de ₩100 Mds pour une "confirmation de support définitive".
-4. **Le tape des maisons étrangères n'a pas basculé en achat net.** Estimé à -38 336. Les étrangers ne mènent pas encore la danse.
+1. <strong>Échec à reprendre ₩61 700 en session régulière.</strong> Une conversion de tendance franche aurait re-inscrit le plus haut en après-midi.
+2. <strong>Échec à prolonger le plus haut pré-marché à ₩62 600.</strong> L'enthousiasme du pré-marché n'a pas pleinement débordé en heures régulières.
+3. <strong>Montant échangé sous ₩100 Mds.</strong> ₩84,21 Mds (NXT inclus) est solide mais en dessous du seuil de ₩100 Mds pour une "confirmation de support définitive".
+4. <strong>Le tape des maisons étrangères n'a pas basculé en achat net.</strong> Estimé à -38 336. Les étrangers ne mènent pas encore la danse.
 
 ---
 
@@ -196,13 +196,13 @@ Ajoutez le net acheteur de Shinhan +51 245 / Korea Investment +20 419, et le tab
 
 > **Pearl Abyss a absorbé la vente à découvert, les sorties des maisons étrangères et l'offre retail *au-dessus de ₩60 000*, et y a construit un support de première ligne.**
 
-Ce n'était **pas** :
+Ce n'était <strong>pas</strong> :
 - Un jour de rachat massif de shorts
 - Un jour d'achat massif porté par les étrangers
 - Une cassure haussière franche confirmée
 - Un début confirmé d'une jambe de réévaluation à ₩65 000+
 
-C'était **bien** :
+C'était <strong>bien</strong> :
 - Une clôture réussie au-dessus de ₩60 000
 - L'absorption de shorts représentant 7,2 % du volume
 - L'absorption des ventes retail via Kiwoom
@@ -214,12 +214,12 @@ C'était **bien** :
 
 ## 8. Posture sur la position longue
 
-**Scénario de base : Conserver. Pas d'ajout. Pas d'allègement.**
+<strong>Scénario de base : Conserver. Pas d'ajout. Pas d'allègement.</strong>
 
-Le résultat d'aujourd'hui favorise le long. Mais **aujourd'hui n'est pas un jour "d'ajout".** Raisons :
+Le résultat d'aujourd'hui favorise le long. Mais <strong>aujourd'hui n'est pas un jour "d'ajout".</strong> Raisons :
 
-- Le support à ₩60 000 est confirmé ; une cassure haussière forte n'a **pas** été confirmée.
-- Les niveaux ₩61 700 / ₩62 600 n'ont **pas** été franchis.
+- Le support à ₩60 000 est confirmé ; une cassure haussière forte n'a <strong>pas</strong> été confirmée.
+- Les niveaux ₩61 700 / ₩62 600 n'ont <strong>pas</strong> été franchis.
 - Le montant échangé n'a pas dépassé le seuil de confirmation de ₩100 Mds.
 - Demain doit reconfirmer ₩60 000.
 
@@ -237,7 +237,7 @@ Conditions :
 - Classement des ventes / avis Crimson Desert maintenus
 
 Réponse :
-> **Conserver. Sur une cassure nette au-dessus de ₩62 600, la conviction dans la posture haute pondération monte d'un cran.**
+> <strong>Conserver. Sur une cassure nette au-dessus de ₩62 600, la conviction dans la posture haute pondération monte d'un cran.</strong>
 
 Dans ce scénario, le VWAP short du jour à ₩60 390 devient le point de pression actif. Au-dessus de ₩61 700, la probabilité d'un rachat de shorts monte fortement.
 
@@ -250,7 +250,7 @@ Conditions :
 - Classement des ventes / avis maintenus
 
 Réponse :
-> **Conserver. Laisser la consolidation se faire. Pas d'ajout.**
+> <strong>Conserver. Laisser la consolidation se faire. Pas d'ajout.</strong>
 
 Il s'agit d'une digestion normale post-rally. Aucune raison d'alléger.
 
@@ -264,9 +264,9 @@ Conditions :
 - Sortie du Top 10 Steam ou détérioration de la qualité des avis
 
 Réponse :
-> **La thèse s'affaiblit. Si ₩55 000 cède **ou** si les métriques Crimson Desert se dégradent, normaliser le poids de la position.**
+> <strong>La thèse s'affaiblit. Si ₩55 000 cède </strong>ou<strong> si les métriques Crimson Desert se dégradent, normaliser le poids de la position.</strong>
 
-Un bref passage dans les ₩59 000 seul n'est pas une raison d'alléger. Mais **un volume short en hausse + ₩60 000 qui lâche + des métriques de jeu qui se brisent simultanément**, si.
+Un bref passage dans les ₩59 000 seul n'est pas une raison d'alléger. Mais <strong>un volume short en hausse + ₩60 000 qui lâche + des métriques de jeu qui se brisent simultanément</strong>, si.
 
 ---
 
@@ -274,13 +274,13 @@ Un bref passage dans les ₩59 000 seul n'est pas une raison d'alléger. Mais **
 
 | Niveau | Réponse |
 |---:|---|
-| **Cassure ₩62 600** | Probabilité de rachat / poursuite monte. Conserver. |
-| **Cassure ₩61 700** | Plus haut session régulière franchi. Positif. |
-| **Maintien au-dessus de ₩60 400** | Au-dessus du VWAP short. Pression sur les shorts monte. |
-| **Autour de ₩60 000** | Test du support cœur. Laisser la consolidation se faire. |
-| **Cassure ₩58 700** | Plus bas régulier du jour franchi. Prudence court terme. |
-| **Cassure ₩57 000** | Rally d'aujourd'hui invalidé. Réévaluer. |
-| **Cassure ₩55 000** | La thèse haute pondération s'affaiblit. Normaliser. |
+| <strong>Cassure ₩62 600</strong> | Probabilité de rachat / poursuite monte. Conserver. |
+| <strong>Cassure ₩61 700</strong> | Plus haut session régulière franchi. Positif. |
+| <strong>Maintien au-dessus de ₩60 400</strong> | Au-dessus du VWAP short. Pression sur les shorts monte. |
+| <strong>Autour de ₩60 000</strong> | Test du support cœur. Laisser la consolidation se faire. |
+| <strong>Cassure ₩58 700</strong> | Plus bas régulier du jour franchi. Prudence court terme. |
+| <strong>Cassure ₩57 000</strong> | Rally d'aujourd'hui invalidé. Réévaluer. |
+| <strong>Cassure ₩55 000</strong> | La thèse haute pondération s'affaiblit. Normaliser. |
 
 ---
 
@@ -288,17 +288,17 @@ Un bref passage dans les ₩59 000 seul n'est pas une raison d'alléger. Mais **
 
 Trois éléments à surveiller dès demain :
 
-1. **Volume short**
+1. <strong>Volume short</strong>
    - 70 000 – 80 000 maintenu : pression plafonnée
    - 150 000+ : réaggression des shorts
    - 250 000+ : attaque short marquée
 
-2. **VWAP short**
+2. <strong>VWAP short</strong>
    - Aujourd'hui : ₩60 390
    - VWAP en hausse demain → les shorts se redéfendent plus haut
    - VWAP en baisse pendant que le prix tient → les shorts sont désavantagés
 
-3. **Solde short** (publication KRX)
+3. <strong>Solde short</strong> (publication KRX)
    - Fourchette pré-22 avril : \~1,76–1,91 M actions
    - En baisse → rachats en cours
    - Maintenu / en hausse → les shorts restent engagés
@@ -307,9 +307,9 @@ Trois éléments à surveiller dès demain :
 
 ## 12. Lecture finale
 
-Aujourd'hui, les longs ont **gagné.** Pas de beaucoup — mais **sur la bonne ligne.**
+Aujourd'hui, les longs ont <strong>gagné.</strong> Pas de beaucoup — mais <strong>sur la bonne ligne.</strong>
 
-**Pile de thèse long :**
+<strong>Pile de thèse long :</strong>
 
 ```text
 Thèse ventes / avis Crimson Desert intacte
@@ -320,20 +320,20 @@ Thèse ventes / avis Crimson Desert intacte
 = La posture haute pondération reste valide
 ```
 
-**Réponse finale :**
+<strong>Réponse finale :</strong>
 
-> **Conserver. Pas d'ajout. Pas d'allègement.**
+> <strong>Conserver. Pas d'ajout. Pas d'allègement.</strong>
 
-**Pourquoi pas d'ajout :**
+<strong>Pourquoi pas d'ajout :</strong>
 - Aujourd'hui est une confirmation de support de première ligne, pas une cassure de second niveau
 - Aucune raison de chasser avant la confirmation de ₩61 700 / ₩62 600
 
-**Pourquoi pas d'allègement :**
+<strong>Pourquoi pas d'allègement :</strong>
 - La clôture au-dessus de ₩60 000 a réussi
 - Shorts et offre retail absorbés
 - Les données cœur de Crimson Desert n'ont pas encore brisé la thèse
 
-**En une phrase** : ₩60 000 n'est plus là où Pearl Abyss se cogne la tête. C'est désormais là où Pearl Abyss pose les pieds.
+<strong>En une phrase</strong> : ₩60 000 n'est plus là où Pearl Abyss se cogne la tête. C'est désormais là où Pearl Abyss pose les pieds.
 
 ---
 
@@ -369,7 +369,7 @@ Thèse ventes / avis Crimson Desert intacte
 
 ---
 
-**Avertissement** : Ce billet est un commentaire de recherche, non un conseil en investissement. Pearl Abyss est suivi dans le cadre de la série de thèses en cours de l'auteur. Les positions, les conditions et les niveaux de prix peuvent évoluer à mesure que de nouvelles données arrivent. Faites votre propre analyse.
+<strong>Avertissement</strong> : Ce billet est un commentaire de recherche, non un conseil en investissement. Pearl Abyss est suivi dans le cadre de la série de thèses en cours de l'auteur. Les positions, les conditions et les niveaux de prix peuvent évoluer à mesure que de nouvelles données arrivent. Faites votre propre analyse.
 
 ---
 

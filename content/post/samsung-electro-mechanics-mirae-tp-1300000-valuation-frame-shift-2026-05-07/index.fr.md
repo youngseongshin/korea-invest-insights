@@ -11,7 +11,7 @@ tags: ["Samsung Electro-Mechanics", "009150", "Mirae Asset Securities", "MLCC", 
 
 Mirae Asset Securities a relevé son objectif de cours sur Samsung Electro-Mechanics de 530 000 KRW à 1,3 million KRW. Le chiffre paraît spectaculaire, mais le mécanisme est simple : on déplace l'année de référence de la valorisation de 2026 à 2028 et on applique un PER de 37x, que Mirae Asset rattache à la phase initiale du cycle de pénurie MLCC de 2017.
 
-Il s'agit donc moins d'une révision classique des bénéfices que d'une **révision du cadre de valorisation**. Le débat central est le suivant : Samsung Electro-Mechanics doit-elle encore être lue comme une société cyclique de composants électroniques, ou la demande en MLCC pour serveurs IA et en FC-BGA l'a-t-elle fait basculer dans la catégorie des goulots d'étranglement de l'infrastructure IA ?
+Il s'agit donc moins d'une révision classique des bénéfices que d'une <strong>révision du cadre de valorisation</strong>. Le débat central est le suivant : Samsung Electro-Mechanics doit-elle encore être lue comme une société cyclique de composants électroniques, ou la demande en MLCC pour serveurs IA et en FC-BGA l'a-t-elle fait basculer dans la catégorie des goulots d'étranglement de l'infrastructure IA ?
 
 ---
 
@@ -76,7 +76,7 @@ Le multiple de 37x n'est pas un chiffre neutre. Il signifie que Samsung Electro-
 
 C'est peut-être juste. C'est peut-être aussi trop agressif. Un multiple de 37x sur une société dont la moyenne sur 10 ans est plutôt à 15x exige un contexte très précis : offre tendue, pouvoir de fixation des prix visible, prépaiements ou engagements de volumes de la part des clients, et expansion des marges qui résiste à plus d'un trimestre.
 
-C'est pourquoi cet article doit être lu comme un **cadre conditionnel de revalorisation**, non comme une caution mécanique à l'objectif de cours.
+C'est pourquoi cet article doit être lu comme un <strong>cadre conditionnel de revalorisation</strong>, non comme une caution mécanique à l'objectif de cours.
 
 ---
 
@@ -220,7 +220,7 @@ Le cadre haussier est clair. Les scénarios d'échec le sont aussi.
 | Le consensus devient unilatéral | Avec la majorité des courtiers déjà constructifs, une déception peut se propager rapidement |
 | Le BPA 2028E s'avère trop lointain | Tirer la valorisation deux ans en avant accroît la duration et le risque de prévision |
 
-La distinction la plus importante est celle entre **une pénurie réelle** et **une pénurie déjà intégrée dans les cours**. Les deux peuvent être vraies simultanément. La société peut traverser un solide cycle de composants IA pendant que le titre escompte déjà une large part du scénario.
+La distinction la plus importante est celle entre <strong>une pénurie réelle</strong> et <strong>une pénurie déjà intégrée dans les cours</strong>. Les deux peuvent être vraies simultanément. La société peut traverser un solide cycle de composants IA pendant que le titre escompte déjà une large part du scénario.
 
 ---
 

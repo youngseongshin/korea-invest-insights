@@ -28,27 +28,27 @@ valley_cashtag_exclude:
 
 ## TL;DR
 
-- **A Hyundai Motor market-cap overtake is now mathematically visible.** At KRW 1,340,000 and 74.69 million shares, Samsung Electro-Mechanics is worth about **KRW 100.1 trillion**. To exceed Hyundai Motor common stock at roughly **KRW 134.1 trillion**, SEMCO would need about **KRW 1.80 million per share**, or **+34%** from the reference price. A KRW 150 trillion benchmark requires about **KRW 2.01 million**, or **+49.9%**. ([Samsung Electro-Mechanics][1], [Hyundai][7])
-- **Murata is proof that the ceiling exists.** Murata guides FY3/2027 revenue of **JPY 1.96 trillion**, operating profit of **JPY 380 billion**, and **19.4%** operating margin. It explicitly cites server capacitors and power modules as growth drivers. ([Murata][4])
-- **But SEMCO is not cheap here.** Q1 2026 normalized operating profit annualizes to roughly **KRW 1.41 trillion**, making the current market cap about **71x** normalized operating profit. The stock is already discounting 2027-2028 AI component earnings.
-- **A durable KRW 134-150 trillion market cap needs a 2028 operating-profit path of roughly KRW 3.8-4.5 trillion or more.** The silicon-capacitor contract matters less as one revenue line and more as proof that SEMCO has entered the GPU/HBM package power-integrity socket. ([Samsung Electro-Mechanics][2])
-- My stance is **Watchlist / Wait**. The long-term thesis is stronger, but the stock now needs earnings revisions, not just narrative.
+- <strong>A Hyundai Motor market-cap overtake is now mathematically visible.</strong> At KRW 1,340,000 and 74.69 million shares, Samsung Electro-Mechanics is worth about <strong>KRW 100.1 trillion</strong>. To exceed Hyundai Motor common stock at roughly <strong>KRW 134.1 trillion</strong>, SEMCO would need about <strong>KRW 1.80 million per share</strong>, or <strong>+34%</strong> from the reference price. A KRW 150 trillion benchmark requires about <strong>KRW 2.01 million</strong>, or <strong>+49.9%</strong>. ([Samsung Electro-Mechanics][1], [Hyundai][7])
+- <strong>Murata is proof that the ceiling exists.</strong> Murata guides FY3/2027 revenue of <strong>JPY 1.96 trillion</strong>, operating profit of <strong>JPY 380 billion</strong>, and <strong>19.4%</strong> operating margin. It explicitly cites server capacitors and power modules as growth drivers. ([Murata][4])
+- <strong>But SEMCO is not cheap here.</strong> Q1 2026 normalized operating profit annualizes to roughly <strong>KRW 1.41 trillion</strong>, making the current market cap about <strong>71x</strong> normalized operating profit. The stock is already discounting 2027-2028 AI component earnings.
+- <strong>A durable KRW 134-150 trillion market cap needs a 2028 operating-profit path of roughly KRW 3.8-4.5 trillion or more.</strong> The silicon-capacitor contract matters less as one revenue line and more as proof that SEMCO has entered the GPU/HBM package power-integrity socket. ([Samsung Electro-Mechanics][2])
+- My stance is <strong>Watchlist / Wait</strong>. The long-term thesis is stronger, but the stock now needs earnings revisions, not just narrative.
 
 ## 1. The Math
 
-Samsung Electro-Mechanics' official IR page shows KRW **1,340,000** per share and **74,693,696** listed shares as of the reference date. That implies:
+Samsung Electro-Mechanics' official IR page shows KRW <strong>1,340,000</strong> per share and <strong>74,693,696</strong> listed shares as of the reference date. That implies:
 
 ```text
 SEMCO market cap = KRW 1,340,000 × 74,693,696 = KRW 100.09 trillion
 ```
 
-Hyundai Motor common shares at KRW **655,000** and **204,757,766** common shares imply roughly **KRW 134.1 trillion**. ([Hyundai][7])
+Hyundai Motor common shares at KRW <strong>655,000</strong> and <strong>204,757,766</strong> common shares imply roughly <strong>KRW 134.1 trillion</strong>. ([Hyundai][7])
 
 | Benchmark | Target market cap | Required SEMCO share price | Upside from KRW 1.34m |
 |---|---:|---:|---:|
-| Hyundai Motor common stock | **KRW 134.1T** | **KRW 1.796m** | **+34.0%** |
-| Murata rough KRW market cap | **around KRW 138T** | **KRW 1.849m** | **+38.0%** |
-| KRW 150T round number | **KRW 150.0T** | **KRW 2.008m** | **+49.9%** |
+| Hyundai Motor common stock | <strong>KRW 134.1T</strong> | <strong>KRW 1.796m</strong> | <strong>+34.0%</strong> |
+| Murata rough KRW market cap | <strong>around KRW 138T</strong> | <strong>KRW 1.849m</strong> | <strong>+38.0%</strong> |
+| KRW 150T round number | <strong>KRW 150.0T</strong> | <strong>KRW 2.008m</strong> | <strong>+49.9%</strong> |
 
 The point: a temporary overtake is no longer fantasy. The harder question is whether it can be sustained.
 
@@ -58,12 +58,12 @@ Murata is the most useful global benchmark because it shows how the market price
 
 | Item | FY3/2026 | FY3/2027 guidance | Change |
 |---|---:|---:|---:|
-| Revenue | JPY 1.8309T | **JPY 1.9600T** | +7.1% |
-| Operating profit | JPY 281.8B | **JPY 380.0B** | +34.8% |
-| Net income | JPY 233.9B | **JPY 293.0B** | +25.3% |
-| Operating margin | 15.4% | **19.4%** | +4.0pp |
-| Capacitors revenue | JPY 936.4B | **JPY 1.0617T** | +13.4% |
-| Capacitors mix | 51.1% | **54.2%** | +3.1pp |
+| Revenue | JPY 1.8309T | <strong>JPY 1.9600T</strong> | +7.1% |
+| Operating profit | JPY 281.8B | <strong>JPY 380.0B</strong> | +34.8% |
+| Net income | JPY 233.9B | <strong>JPY 293.0B</strong> | +25.3% |
+| Operating margin | 15.4% | <strong>19.4%</strong> | +4.0pp |
+| Capacitors revenue | JPY 936.4B | <strong>JPY 1.0617T</strong> | +13.4% |
+| Capacitors mix | 51.1% | <strong>54.2%</strong> | +3.1pp |
 
 Murata is already being priced as an AI infrastructure passive-component bottleneck, not just a cyclical electronics supplier.
 
@@ -71,17 +71,17 @@ But that does not automatically mean Samsung Electro-Mechanics deserves the same
 
 ## 3. SEMCO's New Frame
 
-SEMCO's Q1 2026 revenue was **KRW 3.209 trillion**, operating profit was **KRW 280.6 billion**, and operating margin was **8.7%**. Adding back KRW **71.4 billion** of one-off severance cost, normalized operating profit is about **KRW 352.0 billion**, or an 11.0% margin. ([Samsung Electro-Mechanics][3])
+SEMCO's Q1 2026 revenue was <strong>KRW 3.209 trillion</strong>, operating profit was <strong>KRW 280.6 billion</strong>, and operating margin was <strong>8.7%</strong>. Adding back KRW <strong>71.4 billion</strong> of one-off severance cost, normalized operating profit is about <strong>KRW 352.0 billion</strong>, or an 11.0% margin. ([Samsung Electro-Mechanics][3])
 
 | Division | Q1 2026 revenue | YoY | Read-through |
 |---|---:|---:|---|
-| Components | **KRW 1.409T** | +16% | AI server, power, and networking equipment revenue growth |
-| Package Solution | **KRW 725B** | +45% | AI/server FC-BGA growth and new big-tech networking substrates |
-| Optics Solution | **KRW 1.076T** | +5% | Camera modules; still a margin-dilution risk |
+| Components | <strong>KRW 1.409T</strong> | +16% | AI server, power, and networking equipment revenue growth |
+| Package Solution | <strong>KRW 725B</strong> | +45% | AI/server FC-BGA growth and new big-tech networking substrates |
+| Optics Solution | <strong>KRW 1.076T</strong> | +5% | Camera modules; still a margin-dilution risk |
 
-The KRW **1.5 trillion** silicon-capacitor contract for 2027-2028 is the real classification event. The product goes inside high-performance semiconductor packages such as AI server GPUs and HBM, stabilizing power supply. ([Samsung Electro-Mechanics][2])
+The KRW <strong>1.5 trillion</strong> silicon-capacitor contract for 2027-2028 is the real classification event. The product goes inside high-performance semiconductor packages such as AI server GPUs and HBM, stabilizing power supply. ([Samsung Electro-Mechanics][2])
 
-Even if annualized revenue contribution is only around **KRW 0.75 trillion**, the strategic value is larger: SEMCO has passed qualification for a package-internal power-integrity socket.
+Even if annualized revenue contribution is only around <strong>KRW 0.75 trillion</strong>, the strategic value is larger: SEMCO has passed qualification for a package-internal power-integrity socket.
 
 ## 4. The Valuation Bridge
 
@@ -100,22 +100,22 @@ Assume 75% after-tax conversion from operating profit to net income.
 | Bull / Murata path | KRW 22T | 22% | KRW 4.84T | KRW 3.63T | 40x | KRW 145.2T | Hyundai common overtake |
 | Extreme | KRW 24T | 25% | KRW 6.00T | KRW 4.50T | 35x | KRW 157.5T | KRW 150T+ possible |
 
-The message is blunt: **a durable Hyundai/Murata-level market cap requires KRW 20T-plus revenue, 20%-plus OPM, and a 35-40x earnings multiple.**
+The message is blunt: <strong>a durable Hyundai/Murata-level market cap requires KRW 20T-plus revenue, 20%-plus OPM, and a 35-40x earnings multiple.</strong>
 
 ## 5. Investment View
 
 Samsung Electro-Mechanics is now a stronger long-term AI infrastructure component thesis. But at KRW 100 trillion, the stock is no longer a simple "cheap Korean parts supplier" idea.
 
-**Entry conditions**
+<strong>Entry conditions</strong>
 
-1. Q2-Q3 normalized group OPM at **12-13% or higher**
-2. Components plus Package revenue growth above **25%**
+1. Q2-Q3 normalized group OPM at <strong>12-13% or higher</strong>
+2. Components plus Package revenue growth above <strong>25%</strong>
 3. AI server MLCC ASP or shortage showing up in earnings
 4. FC-BGA revenue from AI/server/networking customers accelerating
 5. Additional silicon-capacitor customers or platform wins
-6. Consensus beginning to price a 2028 operating-profit path above **KRW 4 trillion**
+6. Consensus beginning to price a 2028 operating-profit path above <strong>KRW 4 trillion</strong>
 
-**Invalidation**
+<strong>Invalidation</strong>
 
 1. AI MLCC ASP rolls over with general MLCC pricing
 2. Package Solution growth falls below 20%
@@ -129,7 +129,7 @@ Samsung Electro-Mechanics is now a stronger long-term AI infrastructure componen
 
 Samsung Electro-Mechanics at KRW 100 trillion is a symbol. It says the market is no longer treating the company as a smartphone component vendor. It is starting to price SEMCO as an AI server power-integrity and package-substrate bottleneck.
 
-Could it overtake Hyundai Motor? **Yes.** Could it sustain a KRW 150 trillion valuation? **Only if the 2028 operating-profit path moves toward KRW 4 trillion-plus.**
+Could it overtake Hyundai Motor? <strong>Yes.</strong> Could it sustain a KRW 150 trillion valuation? <strong>Only if the 2028 operating-profit path moves toward KRW 4 trillion-plus.</strong>
 
 Murata opens the ceiling, but it also raises the standard. From here, SEMCO needs earnings revisions to defend the narrative.
 

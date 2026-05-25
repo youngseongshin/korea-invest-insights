@@ -9,19 +9,19 @@ tags: ["KOSDAQ", "sell-side-coverage", "variant-perception", "small-cap", "defen
 series: ["kosdaq-structural-2026"]
 ---
 
-> **Series — KOSDAQ Structural 2026 (Part 4 of 4, bonus)**
+> <strong>Series — KOSDAQ Structural 2026 (Part 4 of 4, bonus)</strong>
 > ① [Capital Inflow Triggers & VC Ranking](/post/kosdaq-2026-capital-inflow-triggers-vc-ranking-2026-04-21/) — the policy setup
 > ② [IPO Class of 2023-2026: Where the Tenbaggers Live](/post/kosdaq-ipo-class-2023-2026-tenbagger-analysis-2026-04-22/) — the post-IPO winners
 > ③ [KR Tenbaggers Full 10× Census](/post/kr-tenbagger-census-2023-2026-2026-04-23/) — the realized 3-year winners
-> ④ **This post** — where sell-side *isn't* yet, and why that matters
+> ④ <strong>This post</strong> — where sell-side *isn't* yet, and why that matters
 
 ---
 
 ## The Premise
 
-If tenbaggers cluster, so does sell-side attention. And the gap between **where analysts publish** and **where the structural winners sit** is where variant perception lives.
+If tenbaggers cluster, so does sell-side attention. And the gap between <strong>where analysts publish</strong> and <strong>where the structural winners sit</strong> is where variant perception lives.
 
-We pulled every broker report filed to Hankyung Consensus (한경컨센서스) over the trailing 3 months — Jan 23 to Apr 23, 2026 — across 11 brokers that feed the platform (LS, Eugene, SK, iM, Meritz, Yuanta, Hanwha, IBK, Daishin, Sangsangin, KoreaIR). **Only 52 KOSDAQ names got ≥2 broker coverage in that window.**
+We pulled every broker report filed to Hankyung Consensus (한경컨센서스) over the trailing 3 months — Jan 23 to Apr 23, 2026 — across 11 brokers that feed the platform (LS, Eugene, SK, iM, Meritz, Yuanta, Hanwha, IBK, Daishin, Sangsangin, KoreaIR). <strong>Only 52 KOSDAQ names got ≥2 broker coverage in that window.</strong>
 
 That's out of \~1,777 KOSDAQ stocks.
 
@@ -29,7 +29,7 @@ That's out of \~1,777 KOSDAQ stocks.
 
 ## Data Caveat (Say It Once, Loud)
 
-Hankyung does not include Samsung, Mirae Asset, Kiwoom, NH, Hana, Shinhan, KB, Korea Investment, DB, or Daol — 10+ major houses. So "2 brokers on Hankyung" typically maps to **4-6 actual brokers** in the real market. That matters for a few names below where the published count understates the truth.
+Hankyung does not include Samsung, Mirae Asset, Kiwoom, NH, Hana, Shinhan, KB, Korea Investment, DB, or Daol — 10+ major houses. So "2 brokers on Hankyung" typically maps to <strong>4-6 actual brokers</strong> in the real market. That matters for a few names below where the published count understates the truth.
 
 - [Fact] 52 names passed the 2-broker / 3-month threshold on Hankyung
 - [Inference] True market-wide coverage is \~1.8-2.5× the reported number
@@ -50,13 +50,13 @@ Hankyung does not include Samsung, Mirae Asset, Kiwoom, NH, Hana, Shinhan, KB, K
 | Education / Services | 2 | 4% | Megastudy, JLS |
 | Financial / Consumer / Chemical | 3 | 6% | Hecto Financial, Silicon2, Sungeel HiTech |
 
-**Market-cap distribution:**
+<strong>Market-cap distribution:</strong>
 - L (>1T KRW): 27 names (52%)
 - M (300B-1T): 16 (31%)
 - S (100-300B): 8 (15%)
 - XS (<100B): 1 (2%)
 
-The structurally interesting bucket is the **9 small-caps ≤300B KRW with ≥2 brokers**. That combination — small enough to be inefficient, covered enough to have a publishable thesis — is where variant perception can actually be framed.
+The structurally interesting bucket is the <strong>9 small-caps ≤300B KRW with ≥2 brokers</strong>. That combination — small enough to be inefficient, covered enough to have a publishable thesis — is where variant perception can actually be framed.
 
 ---
 
@@ -64,17 +64,17 @@ The structurally interesting bucket is the **9 small-caps ≤300B KRW with ≥2 
 
 | Ticker | Name | Cap (B KRW) | Coverage | Thesis keyword |
 |---|---|---:|:-:|---|
-| 357580 | **Amosense** | 216 | SK, Yuanta (+ Hanyang) | SOFC ceramic substrate, fuel cell / auto electronics |
-| 448710 | **Coats Technologies** | 124 | iM, Eugene, Yuanta (+ Hi) | K2 SBC, Cheongung-II, ASP lift, site visits |
-| 108380 | **Daeyang Electric** | 298 | IBK, LS | 14-year range breakout, corporate restructuring |
-| 321550 | **Tiumbio** | 271 | Eugene, KoreaIR | Merigolix Europe licensing inflection |
-| 065450 | **Victek** | 169 | SK, Yuanta | Structural EW niche, new growth drivers |
-| 232680 | **Raon Robotics** | 213 | Yuanta, KoreaIR | Semi fab robots, global expansion |
-| 263860 | **Genians** | 145 | Eugene, KoreaIR | NAC/EDR #1, capex-to-operating-leverage |
-| 078890 | **Gaon Group** | 125 | Meritz, Yuanta | STB NDR, strong demand, earnings turn |
-| 040420 | **Sangsang JLS** | 94 | LS, KoreaIR | Education dividend, margin improvement |
+| 357580 | <strong>Amosense</strong> | 216 | SK, Yuanta (+ Hanyang) | SOFC ceramic substrate, fuel cell / auto electronics |
+| 448710 | <strong>Coats Technologies</strong> | 124 | iM, Eugene, Yuanta (+ Hi) | K2 SBC, Cheongung-II, ASP lift, site visits |
+| 108380 | <strong>Daeyang Electric</strong> | 298 | IBK, LS | 14-year range breakout, corporate restructuring |
+| 321550 | <strong>Tiumbio</strong> | 271 | Eugene, KoreaIR | Merigolix Europe licensing inflection |
+| 065450 | <strong>Victek</strong> | 169 | SK, Yuanta | Structural EW niche, new growth drivers |
+| 232680 | <strong>Raon Robotics</strong> | 213 | Yuanta, KoreaIR | Semi fab robots, global expansion |
+| 263860 | <strong>Genians</strong> | 145 | Eugene, KoreaIR | NAC/EDR #1, capex-to-operating-leverage |
+| 078890 | <strong>Gaon Group</strong> | 125 | Meritz, Yuanta | STB NDR, strong demand, earnings turn |
+| 040420 | <strong>Sangsang JLS</strong> | 94 | LS, KoreaIR | Education dividend, margin improvement |
 
-**One structural read-through:** 5 of 9 have KoreaIR Council as one of the two "brokers." KoreaIR publishes sponsored/initiation research — quality varies, but it's not an independent second opinion. Subtract that, and the real publishable-thesis count drops to 1 broker + initiation note for many of these. That's thinner than the raw coverage implies — and thinner coverage is where variant perception is cheapest.
+<strong>One structural read-through:</strong> 5 of 9 have KoreaIR Council as one of the two "brokers." KoreaIR publishes sponsored/initiation research — quality varies, but it's not an independent second opinion. Subtract that, and the real publishable-thesis count drops to 1 broker + initiation note for many of these. That's thinner than the raw coverage implies — and thinner coverage is where variant perception is cheapest.
 
 ---
 
@@ -84,10 +84,10 @@ The structurally interesting bucket is the **9 small-caps ≤300B KRW with ≥2 
 
 | Name | Choke point | Priced-in |
 |---|---|---|
-| **Coats Technologies** | Sole domestic supplier of K2 SBC; Cheongung-II integrated operating computer localization complete | Medium |
-| **Victek** | Electronic warfare (EW) domestic niche | Medium-low |
+| <strong>Coats Technologies</strong> | Sole domestic supplier of K2 SBC; Cheongung-II integrated operating computer localization complete | Medium |
+| <strong>Victek</strong> | Electronic warfare (EW) domestic niche | Medium-low |
 
-Coats Technologies printed 1,190B KRW order backlog at 2024Q3 with UAE / Saudi / Iraq entering volume production in 2026. [Fact] Cheongung-II hit **100% intercept rate** on eight cruise missiles in a March 2026 UAE engagement (MBC, FT) — the kind of live-combat validation that historically re-rates defense export names globally.
+Coats Technologies printed 1,190B KRW order backlog at 2024Q3 with UAE / Saudi / Iraq entering volume production in 2026. [Fact] Cheongung-II hit <strong>100% intercept rate</strong> on eight cruise missiles in a March 2026 UAE engagement (MBC, FT) — the kind of live-combat validation that historically re-rates defense export names globally.
 
 The tier-1 names (Hyundai Rotem, LIG Nex1) are priced-in. Coats is the lock-in supplier one layer down the stack.
 
@@ -97,25 +97,25 @@ Victek's "structurally growing EW niche" is softer — analyst defensive framing
 
 | Name | Choke point | Priced-in |
 |---|---|---|
-| **Amosense** | Sole domestic manufacturer of ceramic electrolyte substrate for Bloom Energy SOFCs | **Low** |
+| <strong>Amosense</strong> | Sole domestic manufacturer of ceramic electrolyte substrate for Bloom Energy SOFCs | <strong>Low</strong> |
 
 This is the strongest choke-point candidate in the entire set.
 
 - Bloom-Oracle 2.8GW agreement (Apr 2026)
 - Bloom-AEP $2.65B agreement (Jan 2026)
-- Hanyang Securities: Amosense SOFC revenue **100B KRW in 2026 → 400B KRW in 2027** (4×)
+- Hanyang Securities: Amosense SOFC revenue <strong>100B KRW in 2026 → 400B KRW in 2027</strong> (4×)
 - Bloom's strategic China supply-chain diversification = direct Amosense tailwind
 - Peers in the Bloom supply chain (Vinatech, Kosess) have already rallied; Amosense is still sitting at 160-220B KRW market cap
 
-This is the classic **NRE-to-volume J-curve**: 2024-25 = pilot, 2026 = first volume (100B), 2027 = scale (400B). Same shape as the ADT / Gaonchips cycle a few years back. The consensus hasn't reflected the 2027 step-up yet.
+This is the classic <strong>NRE-to-volume J-curve</strong>: 2024-25 = pilot, 2026 = first volume (100B), 2027 = scale (400B). Same shape as the ADT / Gaonchips cycle a few years back. The consensus hasn't reflected the 2027 step-up yet.
 
 ### C — Value-Up / Activist (1 name)
 
 | Name | Trigger | Priced-in |
 |---|---|---|
-| **Daeyang Electric** | Quad Asset Management shareholder proposal → Jan 29, 2026 disclosure: Daeyang-Jeonjang stake acquisition, subsidiary conversion | Medium-high |
+| <strong>Daeyang Electric</strong> | Quad Asset Management shareholder proposal → Jan 29, 2026 disclosure: Daeyang-Jeonjang stake acquisition, subsidiary conversion | Medium-high |
 
-Broke a 14-year range in January. IBK target price 46,000 KRW (+20% revision), LS 40,000. Already hit 52-week high at 31,500 and is digesting. **Most of the first leg is priced in.** The second catalyst — actual buyback cancellation or dividend expansion — is the checkpoint.
+Broke a 14-year range in January. IBK target price 46,000 KRW (+20% revision), LS 40,000. Already hit 52-week high at 31,500 and is digesting. <strong>Most of the first leg is priced in.</strong> The second catalyst — actual buyback cancellation or dividend expansion — is the checkpoint.
 
 Warning: don't generalize this into "value-up = automatic rerating." It worked here because the activist forced a specific, disclosable action. Without that forcing function, a governance thesis is just vibes.
 
@@ -123,7 +123,7 @@ Warning: don't generalize this into "value-up = automatic rerating." It worked h
 
 | Name | Event | Priced-in |
 |---|---|---|
-| **Tiumbio** | Merigolix Europe licensing | Low |
+| <strong>Tiumbio</strong> | Merigolix Europe licensing | Low |
 
 Binary. L/O lands → re-rating. L/O falls through → drawdown. Typical small-cap biotech shape. Latest publishable research is Eugene's Apr 13 NDR note; KoreaIR's piece is from Feb 25. [Speculation] on the outcome.
 
@@ -151,8 +151,8 @@ These are the "quality small-cap" cluster. Raon's "aspirations" framing tells yo
 
 | Rank | Name | Trade type | Core reason | Horizon |
 |:-:|---|---|---|---|
-| **1** | **Amosense (357580)** | Idiosyncratic Alpha | Bloom supply-chain peers already rallied, Amosense lagging; 4× SOFC revenue step-up 2026→2027 not in consensus | 6-12M |
-| **2** | **Coats Technologies (448710)** | Idiosyncratic Alpha | Tier-1 defense priced-in; sole-supplier SBC lock-in + Cheongung-II global demand post-UAE validation | 6-12M |
+| <strong>1</strong> | <strong>Amosense (357580)</strong> | Idiosyncratic Alpha | Bloom supply-chain peers already rallied, Amosense lagging; 4× SOFC revenue step-up 2026→2027 not in consensus | 6-12M |
+| <strong>2</strong> | <strong>Coats Technologies (448710)</strong> | Idiosyncratic Alpha | Tier-1 defense priced-in; sole-supplier SBC lock-in + Cheongung-II global demand post-UAE validation | 6-12M |
 | 3 | Tiumbio (321550) | Speculation | Europe L/O binary — re-rates hard up or hard down | 3-9M |
 | 4 | Raon Robotics (232680) | Beta Trade | Semi-fab capex cycle exposure | 12M+ |
 | 5 | Victek (065450) | Idiosyncratic Alpha | EW niche — needs numbers | 12M+ |
@@ -165,13 +165,13 @@ These are the "quality small-cap" cluster. Raon's "aspirations" framing tells yo
 
 ## Other Structural Observations
 
-**Entertainment coverage is anomalously deep.** SM at 8 brokers / 14 reports and YG at 7 / 12 is mid-cap-index-level density. Within the same sector, **SAMG Entertainment at 2 / 2** is the "quasi-coverage gap" candidate — covered enough to have a framework, sparse enough that a re-rating under a hit IP thesis has room to run.
+<strong>Entertainment coverage is anomalously deep.</strong> SM at 8 brokers / 14 reports and YG at 7 / 12 is mid-cap-index-level density. Within the same sector, <strong>SAMG Entertainment at 2 / 2</strong> is the "quasi-coverage gap" candidate — covered enough to have a framework, sparse enough that a re-rating under a hit IP thesis has room to run.
 
-**Structural coverage deserts — consumer, chemicals, autos, transport, construction.** 0-1 names each. Partly because KOSDAQ listings in those sectors are sparse to begin with, but for names like **Silicon2** (3T KRW cap, single broker coverage), the absence of peer benchmarking is a real risk — analysts cannot triangulate without comparables.
+<strong>Structural coverage deserts — consumer, chemicals, autos, transport, construction.</strong> 0-1 names each. Partly because KOSDAQ listings in those sectors are sparse to begin with, but for names like <strong>Silicon2</strong> (3T KRW cap, single broker coverage), the absence of peer benchmarking is a real risk — analysts cannot triangulate without comparables.
 
-**Defense small-caps are getting real traffic.** Three names in the 100-300B cap range, all with recent notes (Apr 7, Apr 15, Apr 17). **Coats Technologies at 124B KRW with 3 brokers** is coverage-density-per-cap that typically precedes promotion into the sell-side consensus proper.
+<strong>Defense small-caps are getting real traffic.</strong> Three names in the 100-300B cap range, all with recent notes (Apr 7, Apr 15, Apr 17). <strong>Coats Technologies at 124B KRW with 3 brokers</strong> is coverage-density-per-cap that typically precedes promotion into the sell-side consensus proper.
 
-**KoreaIR-Council inflation.** \~5 of the 9 small-caps have one of their two "covers" as KoreaIR Council. That is an initiation-style sponsored research product — useful, but not independent second-opinion coverage. Filtering it out, most of these names are really "1 broker + initiation note" — meaningfully thinner than the raw count suggests, and a better reflection of where the variant-perception opportunity actually lives.
+<strong>KoreaIR-Council inflation.</strong> \~5 of the 9 small-caps have one of their two "covers" as KoreaIR Council. That is an initiation-style sponsored research product — useful, but not independent second-opinion coverage. Filtering it out, most of these names are really "1 broker + initiation note" — meaningfully thinner than the raw count suggests, and a better reflection of where the variant-perception opportunity actually lives.
 
 ---
 
@@ -181,22 +181,22 @@ Because small-cap theses die quietly, write the kill condition up front.
 
 | Name | Kill trigger |
 |---|---|
-| **Amosense** | Bloom-Oracle / AEP supply schedule slips ≥6 months; or Bloom re-expands Chinese supply publicly |
-| **Coats Technologies** | 2026H1 order backlog drops below 1,000B; Polish K2 Phase-2 contract negotiations break |
-| **Daeyang Electric** | No concrete buyback-cancellation or dividend-expansion announcement by end-2026 |
-| **Tiumbio** | Merigolix Europe negotiations halt, or clinical data turns negative |
+| <strong>Amosense</strong> | Bloom-Oracle / AEP supply schedule slips ≥6 months; or Bloom re-expands Chinese supply publicly |
+| <strong>Coats Technologies</strong> | 2026H1 order backlog drops below 1,000B; Polish K2 Phase-2 contract negotiations break |
+| <strong>Daeyang Electric</strong> | No concrete buyback-cancellation or dividend-expansion announcement by end-2026 |
+| <strong>Tiumbio</strong> | Merigolix Europe negotiations halt, or clinical data turns negative |
 
 ---
 
 ## TL;DR
 
-KOSDAQ sell-side coverage is concentrated in 52 names — just 3% of the index. Within that, 9 small-caps (≤300B KRW) cluster into 6 thesis archetypes: **defense tier-2, AI power chain, activist value-up, biotech inflection, niche tech, and dividend carry.**
+KOSDAQ sell-side coverage is concentrated in 52 names — just 3% of the index. Within that, 9 small-caps (≤300B KRW) cluster into 6 thesis archetypes: <strong>defense tier-2, AI power chain, activist value-up, biotech inflection, niche tech, and dividend carry.</strong>
 
 Two names stand out on the choke-point / priced-in matrix:
-- **Amosense** — Bloom Energy ceramic-substrate bottleneck, 4× revenue step-up not in consensus
-- **Coats Technologies** — K2 SBC sole supplier + Cheongung-II live-combat validation
+- <strong>Amosense</strong> — Bloom Energy ceramic-substrate bottleneck, 4× revenue step-up not in consensus
+- <strong>Coats Technologies</strong> — K2 SBC sole supplier + Cheongung-II live-combat validation
 
-**Daeyang Electric** already ran on the value-up story — most of the first-leg move is priced in; the second catalyst is the decision point. The rest sit in weaker variant-perception positions: Tiumbio is binary, Raon is a beta trade, Sangsang JLS is carry.
+<strong>Daeyang Electric</strong> already ran on the value-up story — most of the first-leg move is priced in; the second catalyst is the decision point. The rest sit in weaker variant-perception positions: Tiumbio is binary, Raon is a beta trade, Sangsang JLS is carry.
 
 If sell-side hasn't written it down, it isn't priced. These 9 names are the cheapest option we found on that asymmetry.
 

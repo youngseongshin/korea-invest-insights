@@ -16,11 +16,11 @@ tags:
   - "materiales especiales"
 ---
 
-> 📚 **Serie Pamicell — Parte 3.**
+> 📚 <strong>Serie Pamicell — Parte 3.</strong>
 > Parte 1: [Pamicell — Compras de Extranjeros e Institucionales en Abril y Reclasificación de Materiales AI CCL de Doosan Electro BG](/post/pamicell-doosan-electro-bg-proxy-rediscovery-2026-04-30/)
 > Parte 2: [Pamicell Parte 2 — Transición a Materiales AI CCL y el Ciclo Industrial de 12-24 Meses](/post/pamicell-four-layer-progress-and-fifth-cycle-layer-2026-05-03/)
 >
-> 🔗 **Lectura relacionada**: [Criba ROE >25% — 4 Nombres que Superan 9 Filtros](/post/roe-25-screening-only-four-pass-2026-05-07/) · [Ecosistema PCB de IA en Corea: 10 Empresas](/post/korea-ai-pcb-ecosystem-ten-companies-2026-05-05/) · [Por qué Corea Parte 1 — Sustratos para Semiconductores](/post/why-korea-semiconductor-substrate-competitive-edge-2026-05-07/)
+> 🔗 <strong>Lectura relacionada</strong>: [Criba ROE >25% — 4 Nombres que Superan 9 Filtros](/post/roe-25-screening-only-four-pass-2026-05-07/) · [Ecosistema PCB de IA en Corea: 10 Empresas](/post/korea-ai-pcb-ecosystem-ten-companies-2026-05-05/) · [Por qué Corea Parte 1 — Sustratos para Semiconductores](/post/why-korea-semiconductor-substrate-competitive-edge-2026-05-07/)
 
 *Las Partes 1 y 2 trazaron la reclasificación de Pamicell: de empresa bioquímica a proveedor de materiales upstream para CCL (laminado cobre-revestido) de memoria IA. El 4 de mayo, KRX cambió oficialmente el código de industria de "fabricación farmacéutica básica" a "fabricación de componentes electrónicos". Citi y Goldman Sachs reenmarcaron la escasez de CCL como la "nueva normalidad" de 2026-2027. El 12 de mayo se publicaron los resultados del 1T26: ingresos ₩36,7bn (vs. consenso ₩33,1bn), BO ₩13,1bn (vs. consenso ₩10,6bn), margen operativo 35,7%. Esta es la primera confirmación numérica de la tesis planteada en las Partes 1 y 2.*
 
@@ -28,11 +28,11 @@ tags:
 
 ## Resumen Ejecutivo
 
-* **El BO del 1T de ₩13,1bn superó el consenso (₩10,6bn) en un +23,6%.** Los ingresos de ₩36,7bn también superaron el consenso de ₩33,1bn en un +10,9%. Margen operativo del 35,7%, con ingresos al alza un +43,4% intertrimestral (₩25,6bn → ₩36,7bn).
-* **La banda de ingresos se rompió al alza.** Cuatro trimestres consecutivos (1T25-4T25) con ingresos en el rango ₩21,5-27,0bn. El 1T26 registró ₩36,7bn, rompiendo el techo de esa banda por \~₩10bn.
-* **El margen operativo subió del 30-32% al 35,7%.** Un simple crecimiento de volumen habría generado un margen estable; que ingresos y margen suban juntos apunta a un cambio de mix hacia productos de mayor valor (materiales de baja constante dieléctrica).
-* **El escenario de BO superior a ₩60bn en 2026 exige que el BO trimestral del 2T-4T promedie ₩15,0bn o más.** El ₩13,1bn del 1T cumple la "condición necesaria", no la "condición suficiente".
-* **El PER sobre los últimos doce meses se sitúa en la banda 23-30×.** No es "extremadamente barato" para los estándares del mercado coreano, ni "extremadamente caro". La validación del múltiplo depende de si la senda 2026-2027 se sostiene.
+* <strong>El BO del 1T de ₩13,1bn superó el consenso (₩10,6bn) en un +23,6%.</strong> Los ingresos de ₩36,7bn también superaron el consenso de ₩33,1bn en un +10,9%. Margen operativo del 35,7%, con ingresos al alza un +43,4% intertrimestral (₩25,6bn → ₩36,7bn).
+* <strong>La banda de ingresos se rompió al alza.</strong> Cuatro trimestres consecutivos (1T25-4T25) con ingresos en el rango ₩21,5-27,0bn. El 1T26 registró ₩36,7bn, rompiendo el techo de esa banda por \~₩10bn.
+* <strong>El margen operativo subió del 30-32% al 35,7%.</strong> Un simple crecimiento de volumen habría generado un margen estable; que ingresos y margen suban juntos apunta a un cambio de mix hacia productos de mayor valor (materiales de baja constante dieléctrica).
+* <strong>El escenario de BO superior a ₩60bn en 2026 exige que el BO trimestral del 2T-4T promedie ₩15,0bn o más.</strong> El ₩13,1bn del 1T cumple la "condición necesaria", no la "condición suficiente".
+* <strong>El PER sobre los últimos doce meses se sitúa en la banda 23-30×.</strong> No es "extremadamente barato" para los estándares del mercado coreano, ni "extremadamente caro". La validación del múltiplo depende de si la senda 2026-2027 se sostiene.
 
 ---
 
@@ -66,7 +66,7 @@ Margen OP estimado = 10,6 / 33,1 = 32,0% ✓
 | 2T25 | ₩27,0bn | ₩8,4bn | ₩8,5bn | 31,1% | 31,5% |
 | 3T25 | ₩26,8bn | ₩8,2bn | ₩7,4bn | 30,6% | 27,6% |
 | 4T25 | ₩25,6bn | ₩8,1bn | ₩8,8bn | 31,6% | 34,4% |
-| **1T26** | **₩36,7bn** | **₩13,1bn** | **₩11,7bn** | **35,7%** | **31,9%** |
+| <strong>1T26</strong> | <strong>₩36,7bn</strong> | <strong>₩13,1bn</strong> | <strong>₩11,7bn</strong> | <strong>35,7%</strong> | <strong>31,9%</strong> |
 
 Variaciones interanual e intertrimestral:
 
@@ -79,7 +79,7 @@ BO intertrimestral = 13,1 / 8,1 - 1 = +61,7%
 BN intertrimestral = 11,7 / 8,8 - 1 = +33,0%
 ```
 
-No es una "ligera sorpresa positiva". **Los ingresos saltaron de la banda ₩25-27bn a ₩36,7bn — una ruptura clara de rango.** Y **el margen operativo subió del \~30-32% al 35,7%**, con ingresos y margen avanzando simultáneamente — patrón que el crecimiento de volumen por sí solo no genera.
+No es una "ligera sorpresa positiva". <strong>Los ingresos saltaron de la banda ₩25-27bn a ₩36,7bn — una ruptura clara de rango.</strong> Y <strong>el margen operativo subió del \~30-32% al 35,7%</strong>, con ingresos y margen avanzando simultáneamente — patrón que el crecimiento de volumen por sí solo no genera.
 
 ---
 
@@ -105,7 +105,7 @@ La Parte 2 catalogó cinco puntos de datos a principios de mayo:
 4. Ampliación de la cadena de valor a cuatro niveles (mineral upstream → monómero → polímero → aplicación CCL)
 5. Vínculo entre el margen operativo de Doosan Electro BG y el de Pamicell
 
-El resultado real de hoy (ingresos ₩36,7bn, BO ₩13,1bn, margen OP 35,7%) supera la estimación de DS / Meritz (ingresos ₩36,2bn, BO ₩12,1bn, margen OP 33%) en +1% en ingresos, +8% en BO y +2,7pp en margen. **La tesis de la "nueva normalidad" acaba de recibir su primera confirmación numérica trimestral.**
+El resultado real de hoy (ingresos ₩36,7bn, BO ₩13,1bn, margen OP 35,7%) supera la estimación de DS / Meritz (ingresos ₩36,2bn, BO ₩12,1bn, margen OP 33%) en +1% en ingresos, +8% en BO y +2,7pp en margen. <strong>La tesis de la "nueva normalidad" acaba de recibir su primera confirmación numérica trimestral.</strong>
 
 ---
 
@@ -126,7 +126,7 @@ PER anualizado = 1.102,5 / 46,8 = 23,6×
 EV/BO proxy anualizado = 1.102,5 / 52,4 = 21,0×
 ```
 
-No es un múltiplo extremo para los estándares del mercado coreano. Sin embargo, el **escenario publicado de BO FY26 de ₩56-63bn** exige algo más que ₩13,1bn × 4 del 1T.
+No es un múltiplo extremo para los estándares del mercado coreano. Sin embargo, el <strong>escenario publicado de BO FY26 de ₩56-63bn</strong> exige algo más que ₩13,1bn × 4 del 1T.
 
 ### 3.2 Los tres trimestres restantes
 
@@ -144,7 +144,7 @@ Objetivo ₩60bn - 1T ₩13,1bn = ₩46,9bn / 3 = ₩15,6bn
 Objetivo ₩60,5bn - 1T ₩13,1bn = ₩47,4bn / 3 = ₩15,8bn ✓
 ```
 
-Dicho de otro modo: **para que un BO FY26 superior a ₩60bn resulte natural, el BO trimestral a partir del 2T debe escalar a \~₩15-16bn**. El ₩13,1bn del 1T es el punto de partida, no el destino.
+Dicho de otro modo: <strong>para que un BO FY26 superior a ₩60bn resulte natural, el BO trimestral a partir del 2T debe escalar a \~₩15-16bn</strong>. El ₩13,1bn del 1T es el punto de partida, no el destino.
 
 ---
 
@@ -161,11 +161,11 @@ BO = 3,1 + 8,4 + 8,2 + 8,1 = ₩27,8bn
 BN = 4,2 + 8,5 + 7,4 + 8,8 = ₩28,9bn
 ```
 
-El análisis de las Partes 1 y 2 utilizó los anuales FY25 de IR de la empresa: ingresos ₩114,0bn, BO ₩34,3bn, BN ₩40,3bn. **Diferencias: ingresos ₩13bn, BO ₩6,5bn, BN ₩11,4bn.** Estas pueden deberse a (a) base individual vs. consolidada, (b) operaciones continuadas vs. discontinuadas, (c) conversión acumulada vs. trimestral, (d) reclasificación de partidas operativas vs. no operativas. La conciliación definitiva requiere leer la cuenta de resultados del informe trimestral real.
+El análisis de las Partes 1 y 2 utilizó los anuales FY25 de IR de la empresa: ingresos ₩114,0bn, BO ₩34,3bn, BN ₩40,3bn. <strong>Diferencias: ingresos ₩13bn, BO ₩6,5bn, BN ₩11,4bn.</strong> Estas pueden deberse a (a) base individual vs. consolidada, (b) operaciones continuadas vs. discontinuadas, (c) conversión acumulada vs. trimestral, (d) reclasificación de partidas operativas vs. no operativas. La conciliación definitiva requiere leer la cuenta de resultados del informe trimestral real.
 
 ### 4.2 TTM bajo ambas bases
 
-**(A) Base de suma trimestral (conservadora)**
+<strong>(A) Base de suma trimestral (conservadora)</strong>
 
 ```
 TTM ingresos = 27,0 + 26,8 + 25,6 + 36,7 = ₩109,1bn
@@ -175,7 +175,7 @@ TTM PER = 1.102,5 / 36,4 = 30,3×
 TTM cap. bursátil / BO = 1.102,5 / 37,8 = 29,2×
 ```
 
-**(B) Base ajustada por IR anual**
+<strong>(B) Base ajustada por IR anual</strong>
 
 ```
 TTM ingresos = 114,0 - 21,5 + 36,7 = ₩129,2bn
@@ -185,7 +185,7 @@ TTM PER = 1.102,5 / 47,8 = 23,1×
 TTM cap. bursátil / BO = 1.102,5 / 44,3 = 24,9×
 ```
 
-**Ambas lecturas convergen en la misma conclusión**: TTM PER 23-30× — ni "extremadamente barato" ni "extremadamente caro" para los estándares del mercado coreano. La validación del múltiplo descansa en **si la senda 2026-2027 se mantiene**. Un trimestre no resuelve la pregunta.
+<strong>Ambas lecturas convergen en la misma conclusión</strong>: TTM PER 23-30× — ni "extremadamente barato" ni "extremadamente caro" para los estándares del mercado coreano. La validación del múltiplo descansa en <strong>si la senda 2026-2027 se mantiene</strong>. Un trimestre no resuelve la pregunta.
 
 ---
 
@@ -236,25 +236,25 @@ La Parte 1 introdujo la hipótesis de reclasificación upstream AI-CCL. La Parte
 
 ## Preguntas frecuentes
 
-**P: ¿Es ₩13,1bn un BO sólido?**
+<strong>P: ¿Es ₩13,1bn un BO sólido?</strong>
 R: Supera en un +23,6% el consenso de ₩10,6bn y eleva el margen operativo al 35,7% — un escalón por encima del 31,6% del trimestre anterior. Los ingresos también subieron un +43% intertrimestral, de ₩25,6bn a ₩36,7bn. Se trata de una sorpresa positiva notable, con la salvedad de que es un único trimestre.
 
-**P: ¿Por qué el BN quedó exactamente en línea mientras el BO superó ampliamente las estimaciones?**
+<strong>P: ¿Por qué el BN quedó exactamente en línea mientras el BO superó ampliamente las estimaciones?</strong>
 R: Lo más probable es que haya habido un gasto no operativo o un impuesto mayor de lo esperado. La atribución definitiva requiere la cuenta de resultados del informe trimestral. El propio margen operativo del 35,7% indica que los fundamentos operativos se están fortaleciendo.
 
-**P: ¿Qué impulsó el salto de ingresos hasta ₩36,7bn?**
+<strong>P: ¿Qué impulsó el salto de ingresos hasta ₩36,7bn?</strong>
 R: La hipótesis de trabajo de las Partes 1 y 2 es que el crecimiento de los ingresos de Doosan Electro BG por CCL de alto valor para memoria IA fluye upstream hacia los materiales de baja constante dieléctrica. La empresa no desglose los ingresos por cliente, por lo que no es posible una verificación directa. La observación de la Parte 2 de que el margen operativo del 1T26 de Doosan Electro BG (30,1%) coincidía con el margen operativo medio de Pamicell en 2025 (30,1%) proporciona una señal indirecta de ese vínculo.
 
-**P: ¿El TTM PER de 23-30× es caro o barato?**
+<strong>P: ¿El TTM PER de 23-30× es caro o barato?</strong>
 R: No lo es en ninguno de los extremos para los estándares del mercado coreano. La adecuación del múltiplo depende de si el BO FY26 alcanza la banda de ₩60bn — en ese caso, el PER forward FY26 caería a 17-20×.
 
-**P: ¿Qué invalidaría la tesis de las Partes 1 y 2?**
+<strong>P: ¿Qué invalidaría la tesis de las Partes 1 y 2?</strong>
 R: Tres rupturas principales: (1) que los ingresos del 2T-4T reviertan a la banda ₩25-30bn (lectura como dato puntual); (2) que la homologación de un competidor PTFE formalice el doble sourcing (erosión de la posición de suministro); (3) que el guidance de CCL IA de Doosan Electro BG se debilite (erosión del pulso de demanda). Cualquiera de ellos debilitaría significativamente las Partes 1 y 2.
 
-**P: ¿Qué implica el cambio de código de industria en KRX?**
+<strong>P: ¿Qué implica el cambio de código de industria en KRX?</strong>
 R: A partir del 4 de mayo, la clasificación pasó de "fabricación farmacéutica básica" a "fabricación de componentes electrónicos". Los patrones de clasificación en índices y temáticos, así como los flujos asociados, pueden modificarse en consecuencia. Los fundamentos subyacentes no cambian por el mero cambio de código.
 
-**P: ¿Cómo se puede rastrear el desglose de ingresos por cliente de Pamicell sin que exista divulgación?**
+<strong>P: ¿Cómo se puede rastrear el desglose de ingresos por cliente de Pamicell sin que exista divulgación?</strong>
 R: A través de vías indirectas: (1) el IR trimestral de Doosan Electro BG para comentarios sobre ingresos y mix de CCL, (2) el cuerpo del informe trimestral de Pamicell por cualquier mención explícita al mix de materiales de baja constante dieléctrica, (3) el flujo de noticias del sector sobre la tensión de suministro en CCL para memoria y servidores.
 
 ---

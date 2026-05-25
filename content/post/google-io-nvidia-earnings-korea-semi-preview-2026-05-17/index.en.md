@@ -15,7 +15,7 @@ tags:
 slug: google-io-nvidia-earnings-korea-semi-preview-2026-05-17
 ---
 
-> 📚 **Related Series**
+> 📚 <strong>Related Series</strong>
 > [Two Betas of AI Back-End](/post/ai-substrate-vs-test-socket-comparison-2026-05-15/) · [AI Back-End — 11 Stocks Side by Side](/post/ai-substrate-test-socket-data-comparison-2026-05-16/) · [Samsung Electronics vs TSMC Re-Rating Thesis](/post/samsung-electronics-tsmc-rerating-thesis-2026-05-16/) · [AI HBM Hub](/page/korea-semiconductor-hbm-kospi-hub/)
 
 Two very different AI events arrive next week. Google I/O starts with the main keynote at 10:00 a.m. PT on May 19, or 2:00 a.m. KST on May 20. NVIDIA then publishes its fiscal 2027 first-quarter results and CFO commentary at about 1:20 p.m. PT on May 20, followed by the conference call at 2:00 p.m. PT. In Korea, that is 5:20 a.m. and 6:00 a.m. KST on May 21.
@@ -24,11 +24,11 @@ They are both AI events, but they answer different questions. Google I/O is abou
 
 ## Key Takeaways
 
-* **Schedule**: Google I/O keynote is May 19 at 10:00 a.m. PT, or May 20 at 2:00 a.m. KST. NVIDIA's FY2027 Q1 results and CFO commentary are scheduled for about May 20 at 1:20 p.m. PT, with the call at 2:00 p.m. PT. That is May 21 at 5:20 a.m. and 6:00 a.m. KST.
-* **The events mean different things**. Google I/O is about AI moving into products and devices. NVIDIA earnings are about whether AI infrastructure CAPEX remains real.
-* **For NVIDIA, Q2 matters more than Q1**. Company guidance for Q1 is $78.0 billion plus or minus 2%. Visible Alpha consensus is about $78.5 billion in total revenue and $72.8 billion in Data Center revenue. The real question is whether Q2 guidance reaches the high-$80-billion area and whether non-GAAP gross margin stays around 75%.
-* **Korean direct beta runs through SK hynix and Samsung Electronics; second-order beta runs through Samsung Electro-Mechanics, Daeduck Electronics and test-socket names**. But SK hynix is already crowded, Samsung Electronics has labor-risk overlap on May 21, and Samsung Electro-Mechanics still needs a better entry point after a large move.
-* **The practical stance is not to chase before the events**. Good numbers can still trigger sell-the-news if they fail to beat elevated expectations. Wait for the events and the macro gates to line up.
+* <strong>Schedule</strong>: Google I/O keynote is May 19 at 10:00 a.m. PT, or May 20 at 2:00 a.m. KST. NVIDIA's FY2027 Q1 results and CFO commentary are scheduled for about May 20 at 1:20 p.m. PT, with the call at 2:00 p.m. PT. That is May 21 at 5:20 a.m. and 6:00 a.m. KST.
+* <strong>The events mean different things</strong>. Google I/O is about AI moving into products and devices. NVIDIA earnings are about whether AI infrastructure CAPEX remains real.
+* <strong>For NVIDIA, Q2 matters more than Q1</strong>. Company guidance for Q1 is $78.0 billion plus or minus 2%. Visible Alpha consensus is about $78.5 billion in total revenue and $72.8 billion in Data Center revenue. The real question is whether Q2 guidance reaches the high-$80-billion area and whether non-GAAP gross margin stays around 75%.
+* <strong>Korean direct beta runs through SK hynix and Samsung Electronics; second-order beta runs through Samsung Electro-Mechanics, Daeduck Electronics and test-socket names</strong>. But SK hynix is already crowded, Samsung Electronics has labor-risk overlap on May 21, and Samsung Electro-Mechanics still needs a better entry point after a large move.
+* <strong>The practical stance is not to chase before the events</strong>. Good numbers can still trigger sell-the-news if they fail to beat elevated expectations. Wait for the events and the macro gates to line up.
 
 ## 1. These Are Not the Same AI Event
 
@@ -131,19 +131,19 @@ The best setup is strong NVIDIA guidance plus stabilizing US yields and oil. If 
 
 ## 7. FAQ
 
-**Can Korean semiconductors fall even if NVIDIA reports good numbers?**
+<strong>Can Korean semiconductors fall even if NVIDIA reports good numbers?</strong>
 
 Yes. If expectations were higher, if Q2 guidance misses whisper numbers, or if macro conditions remain poor, good numbers can still produce sell-the-news. The question is not whether the report is good. The question is whether it is good enough.
 
-**Is Google I/O less important than NVIDIA for Korean semiconductors?**
+<strong>Is Google I/O less important than NVIDIA for Korean semiconductors?</strong>
 
 For near-term earnings, yes. For medium-term device demand, no. If AI moves from cloud to device, LPDDR, eSSD, camera, sensor and low-power component demand all rise. But that shows up through 2026-2027 device specifications, not next week's HBM revenue.
 
-**How should Samsung Electronics be treated on May 21?**
+<strong>How should Samsung Electronics be treated on May 21?</strong>
 
 As a two-event stock. Strong NVIDIA guidance and limited strike impact would be constructive. Weak NVIDIA guidance plus labor escalation would be negative. That argues for post-event verification rather than pre-event chasing.
 
-**What is the less crowded idea?**
+<strong>What is the less crowded idea?</strong>
 
 SK hynix is the direct beta but also the most obvious trade. Samsung Electro-Mechanics is not direct HBM exposure, but the AI infrastructure parts re-rating is still less fully understood. That does not mean chase the stock; it means verify AI-server MLCC and FC-BGA demand after the event.
 

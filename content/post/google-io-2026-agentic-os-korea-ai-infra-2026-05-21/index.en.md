@@ -28,20 +28,20 @@ valley_cashtags:
   - 효성중공업
 ---
 
-> 📚 **Related Series**
+> 📚 <strong>Related Series</strong>
 > [Google I/O + NVIDIA Earnings Preview](/post/google-io-nvidia-earnings-korea-semi-preview-2026-05-17/) / [Korea AI Infrastructure After NVIDIA Q1 FY27](/post/nvidia-q1-fy27-korea-ai-infra-supply-chain-2026-05-21/) / [Samsung Electronics TSMC-Style Rerating](/post/samsung-electronics-tsmc-rerating-thesis-2026-05-16/) / [Samsung Electro-Mechanics Hybrid Challenger](/post/samsung-electro-mechanics-hybrid-challenger-2026-05-17/) / [May 17 Market Snapshot](/post/macro-snapshot-complex-risk-off-recovery-triggers-2026-05-17/)
 
 *Google I/O 2026 was not a simple model announcement. It was an event that bundled Gemini 3.5, Gemini Omni, Gemini Spark, Antigravity, AI Search, Universal Cart, and Android XR together to reengineer Google's entire product portfolio into an agentic OS. Search moves from a window displaying links to an interface that executes tasks; shopping becomes a cart agent; developer tools become a runtime that runs multiple agents in parallel. From an investment perspective, the key is not Alphabet itself but the infrastructure bottlenecks this transformation creates: token throughput, inference traffic, data center CapEx, HBM, packaging, power integrity, high-layer PCBs, and power equipment. Post-Google I/O, Korean alpha comes not from models but from bottlenecks.*
 
 ## Key Takeaways
 
-* **The Essence of Google I/O 2026**: Google bundled Gemini 3.5 Flash, Gemini Omni Flash, Search agents, Gemini Spark, Antigravity 2.0, Managed Agents API, Universal Cart, and Android XR into a single agentic product layer.
-* **The Search Collapse Thesis Is Not Yet Confirmed by the Numbers**: Alphabet's Q1 2026 Search & other revenue was $60.399 billion, up approximately 19.1% year-over-year from $50.702 billion in the prior year period. So far, this looks less like AI encroaching on Search and more like Google absorbing Search into an AI interface.
-* **The Most Important Number Is Token Throughput**: Google disclosed that monthly processed tokens grew from 9.7 trillion in May 2024, to approximately 480 trillion at the 2025 I/O, to over 32 quadrillion in May 2026. The agentic OS shifts the unit of usage from search queries to tokens, tasks, and agent execution counts.
-* **Alphabet Shares Confirm Defensiveness; Korea Should Track the Bottleneck**: Alphabet's case as a full-stack AI company has strengthened, but its market cap in the $4 trillion range and an earnings multiple of around 30× already reflect significant expectations. Fresh alpha is more visible in HBM, packaging, power integrity, PCBs, and data center power.
-* **Korean Priority**: Samsung Electro-Mechanics > Samsung Electronics > SK Hynix > Test/Socket/HBM Equipment > ISU Petasys · Daeduck Electronics · TLB · Korea Circuit > Power Equipment.
-* **Strongest Single Idea**: Samsung Electro-Mechanics. The KRW 1.557 trillion silicon capacitor contract is evidence that power stabilization within AI packages has emerged as a distinct bottleneck.
-* **Macro Conditions**: If the seven macro gates from the May 17 market snapshot have not been cleared, high-P/E AI infrastructure names can be shaken even with a good thesis. Scaling in after confirmation beats chasing.
+* <strong>The Essence of Google I/O 2026</strong>: Google bundled Gemini 3.5 Flash, Gemini Omni Flash, Search agents, Gemini Spark, Antigravity 2.0, Managed Agents API, Universal Cart, and Android XR into a single agentic product layer.
+* <strong>The Search Collapse Thesis Is Not Yet Confirmed by the Numbers</strong>: Alphabet's Q1 2026 Search & other revenue was $60.399 billion, up approximately 19.1% year-over-year from $50.702 billion in the prior year period. So far, this looks less like AI encroaching on Search and more like Google absorbing Search into an AI interface.
+* <strong>The Most Important Number Is Token Throughput</strong>: Google disclosed that monthly processed tokens grew from 9.7 trillion in May 2024, to approximately 480 trillion at the 2025 I/O, to over 32 quadrillion in May 2026. The agentic OS shifts the unit of usage from search queries to tokens, tasks, and agent execution counts.
+* <strong>Alphabet Shares Confirm Defensiveness; Korea Should Track the Bottleneck</strong>: Alphabet's case as a full-stack AI company has strengthened, but its market cap in the $4 trillion range and an earnings multiple of around 30× already reflect significant expectations. Fresh alpha is more visible in HBM, packaging, power integrity, PCBs, and data center power.
+* <strong>Korean Priority</strong>: Samsung Electro-Mechanics > Samsung Electronics > SK Hynix > Test/Socket/HBM Equipment > ISU Petasys · Daeduck Electronics · TLB · Korea Circuit > Power Equipment.
+* <strong>Strongest Single Idea</strong>: Samsung Electro-Mechanics. The KRW 1.557 trillion silicon capacitor contract is evidence that power stabilization within AI packages has emerged as a distinct bottleneck.
+* <strong>Macro Conditions</strong>: If the seven macro gates from the May 17 market snapshot have not been cleared, high-P/E AI infrastructure names can be shaken even with a good thesis. Scaling in after confirmation beats chasing.
 
 ---
 
@@ -299,12 +299,12 @@ The Korean priority is therefore not any specific US chip designer but vendor-ag
 
 ### Entry Conditions
 
-* **Samsung Electro-Mechanics**: Confirmation of follow-on silicon capacitor customers, expansion plans, and potential disaggregation of AI MLCC/FC-BGA revenue.
-* **Samsung Electronics**: HBM4 customer qualification, HBM4 base die, volume toward Google/Broadcom/ASIC customers, or signs of foundry recovery.
-* **SK Hynix**: HBM4 pricing holds, NVIDIA Rubin ramp, 10–15% correction, or easing of supply-demand overheating.
-* **PCB / Substrates**: When AI-oriented revenue mix, ASP premium, and OPM maintenance are confirmed in quarterly results.
-* **Test / Socket**: Confirmation of TPU/ASIC/HBM customer references and new socket revenue.
-* **Power Equipment**: When North American data center order backlog growth and OPM maintenance are confirmed simultaneously.
+* <strong>Samsung Electro-Mechanics</strong>: Confirmation of follow-on silicon capacitor customers, expansion plans, and potential disaggregation of AI MLCC/FC-BGA revenue.
+* <strong>Samsung Electronics</strong>: HBM4 customer qualification, HBM4 base die, volume toward Google/Broadcom/ASIC customers, or signs of foundry recovery.
+* <strong>SK Hynix</strong>: HBM4 pricing holds, NVIDIA Rubin ramp, 10–15% correction, or easing of supply-demand overheating.
+* <strong>PCB / Substrates</strong>: When AI-oriented revenue mix, ASP premium, and OPM maintenance are confirmed in quarterly results.
+* <strong>Test / Socket</strong>: Confirmation of TPU/ASIC/HBM customer references and new socket revenue.
+* <strong>Power Equipment</strong>: When North American data center order backlog growth and OPM maintenance are confirmed simultaneously.
 
 ### Catalyst
 
@@ -356,7 +356,7 @@ Alphabet's Q1 2026 numbers show that this transition has not yet damaged Search.
 
 But the real investment point is the AI infrastructure bottleneck, not Alphabet itself. Google disclosed that monthly processed tokens grew from 9.7 trillion in May 2024 to over 32 quadrillion in May 2026. It also indicated that CapEx could expand from $31 billion in 2022 to approximately $180–190 billion this year. This shift is a demand function for HBM, packaging, power integrity, PCBs, and power infrastructure.
 
-Korean priorities are clear. **Samsung Electro-Mechanics** has confirmed the AI package power integrity bottleneck through a real large-scale silicon capacitor contract. **Samsung Electronics** is an option where TPU/ASIC multipolarity can narrow the late-HBM discount. **SK Hynix** remains the strongest HBM name but is already a crowded trade. **PCB/substrates, test, and power equipment** have significant beneficiary potential but require earnings confirmation.
+Korean priorities are clear. <strong>Samsung Electro-Mechanics</strong> has confirmed the AI package power integrity bottleneck through a real large-scale silicon capacitor contract. <strong>Samsung Electronics</strong> is an option where TPU/ASIC multipolarity can narrow the late-HBM discount. <strong>SK Hynix</strong> remains the strongest HBM name but is already a crowded trade. <strong>PCB/substrates, test, and power equipment</strong> have significant beneficiary potential but require earnings confirmation.
 
 The conclusion is simple. Post-Google I/O alpha comes not from "which model is smarter" but from "where does growing agent usage force spending on bottlenecks." The answer is not Alphabet alone. It is HBM, packaging, silicon capacitors, high-layer PCBs, and data center power. Of these, the freshest Korean alpha right now is Samsung Electro-Mechanics. But until the macro gates open, scaling in after confirmation beats chasing.
 

@@ -12,7 +12,7 @@ El error más fácil al hablar de transporte marítimo ártico es caer en uno de
 
 La Ruta del Mar del Norte no es una autopista global consolidada. Es estacional, sensible al hielo y depende de permisos rusos, apoyo de rompehielos, seguros y geopolítica. Aun así, es una opción industrial real para Corea. Corea es una economía exportadora, cuenta con el Puerto de Busan, tiene astilleros de clase mundial y está comenzando a alinear a HMM, el Ministerio de Océanos y Pesca, la financiación naval y la política regional en torno a una única agenda de clúster marítimo.
 
-La pregunta de inversión, por lo tanto, no es simplemente si HMM enviará un buque por el Ártico. La pregunta más relevante es esta: **¿puede Corea convertir el transporte ártico en un clúster de buques con capacidad polar, logística portuaria en Busan, financiación marítima, seguros, servicios jurídicos, combustible verde e infraestructura de datos marítimos?**
+La pregunta de inversión, por lo tanto, no es simplemente si HMM enviará un buque por el Ártico. La pregunta más relevante es esta: <strong>¿puede Corea convertir el transporte ártico en un clúster de buques con capacidad polar, logística portuaria en Busan, financiación marítima, seguros, servicios jurídicos, combustible verde e infraestructura de datos marítimos?</strong>
 
 ---
 
@@ -172,7 +172,7 @@ La pregunta correcta, por tanto, no es "¿quién envía el buque?" sino "¿quié
 
 Las debilidades son igualmente evidentes. Corea no controla la ruta. El Paso del Noreste está ligado a Rusia y a las sanciones. La economía de las líneas de contenedores sigue sin estar probada. Por eso la conclusión debe mantenerse conservadora.
 
-**Antes de un viaje de prueba exitoso, esto es un tema político. Antes de viajes repetidos, es un tema de gasto de capital. Antes de contratos regulares de carga, no es todavía un tema de ganancias directas.** Pero si el tema político se convierte en un tema de gasto de capital, las primeras industrias en moverse son probablemente la construcción naval, los buques polares y la infraestructura que los rodea.
+<strong>Antes de un viaje de prueba exitoso, esto es un tema político. Antes de viajes repetidos, es un tema de gasto de capital. Antes de contratos regulares de carga, no es todavía un tema de ganancias directas.</strong> Pero si el tema político se convierte en un tema de gasto de capital, las primeras industrias en moverse son probablemente la construcción naval, los buques polares y la infraestructura que los rodea.
 
 ---
 

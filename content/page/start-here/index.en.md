@@ -51,10 +51,10 @@ The goal is simple: turn local Korean market information into usable investment 
 
 ## What Makes It Different
 
-- **Local source layer**: Korean filings, KRX/KIND/DART data, Korean-language media, and local sell-side context.
-- **Global investor framing**: The analysis is written around catalysts, positioning, valuation frames, and portfolio use cases.
-- **Multilingual distribution**: Posts are published in English, Korean, Japanese, Chinese, Spanish, French, and Vietnamese.
-- **Ticker-first research**: Posts try to name the actual listed companies, not just describe macro themes.
+- <strong>Local source layer</strong>: Korean filings, KRX/KIND/DART data, Korean-language media, and local sell-side context.
+- <strong>Global investor framing</strong>: The analysis is written around catalysts, positioning, valuation frames, and portfolio use cases.
+- <strong>Multilingual distribution</strong>: Posts are published in English, Korean, Japanese, Chinese, Spanish, French, and Vietnamese.
+- <strong>Ticker-first research</strong>: Posts try to name the actual listed companies, not just describe macro themes.
 
 ---
 

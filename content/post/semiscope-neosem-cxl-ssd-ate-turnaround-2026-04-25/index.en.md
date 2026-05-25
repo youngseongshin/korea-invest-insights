@@ -9,17 +9,17 @@ tags: ["Neosem", "253590", "SemiScope", "CXL", "Gen6 SSD", "PCIe 6.0", "ATE", "S
 series: ["semiscope-2026"]
 ---
 
-> **SemiScope deep dive.** Neosem is not a broad semiconductor-equipment basket. It is a focused ATE name sitting at the intersection of PCIe Gen6 SSD, CXL memory expansion, server DIMM automation and the next test bottlenecks in AI data-center memory.
+> <strong>SemiScope deep dive.</strong> Neosem is not a broad semiconductor-equipment basket. It is a focused ATE name sitting at the intersection of PCIe Gen6 SSD, CXL memory expansion, server DIMM automation and the next test bottlenecks in AI data-center memory.
 
 ---
 
 ## TL;DR
 
-1. **Neosem (253590 KQ) is an ATE company, not an IP company.** It sells semiconductor post-process test equipment: PCIe SSD testers, CXL memory testers, server DIMM automation testers, and burn-in testers. If OpenEdges is the upstream IP option in the CXL stack, Neosem is the downstream equipment option that gets paid when memory makers order tools.
-2. **The core franchise is interface-transition testing.** PCIe Gen5 SSD testers, CXL 1.1/2.0 memory testers, and the coming PCIe Gen6 / CXL 3.1 cycle all share one theme: when a new high-speed memory interface becomes real, the test problem becomes harder and equipment content rises.
-3. **2025 was ugly, but that is exactly why the setup is interesting.** Revenue fell 39.3% YoY to KRW 63.9B, operating profit fell 75.3% to KRW 4.1B, and OPM compressed to 6.4%. Memory capex pauses and heavier R&D hit at the same time. But management's November IR pointed to a sharp order rebound from late August, with September to November orders reportedly running at roughly twice the January to August cumulative level.
-4. **The 2026-2027 trigger stack is unusually dense.** Gen6 SSD tester demos, CXL 3.1 production tester deliveries, GEMINI3 for SOCAMM, BX burn-in optionality, and overseas customer expansion create multiple ways for revenue to recover. The cleanest near-term signal is whether late-2025 orders convert into 1Q26/2Q26 revenue.
-5. **Investment view: event-driven turnaround plus cycle beta.** Neosem is not yet a smooth compounder. It is a lumpy equipment stock tied to memory capex and customer timing. But first-mover references in CXL and a potentially cleaner competitive field in SSD testers make it one of the most direct Korean listed ways to underwrite the next interface-test cycle.
+1. <strong>Neosem (253590 KQ) is an ATE company, not an IP company.</strong> It sells semiconductor post-process test equipment: PCIe SSD testers, CXL memory testers, server DIMM automation testers, and burn-in testers. If OpenEdges is the upstream IP option in the CXL stack, Neosem is the downstream equipment option that gets paid when memory makers order tools.
+2. <strong>The core franchise is interface-transition testing.</strong> PCIe Gen5 SSD testers, CXL 1.1/2.0 memory testers, and the coming PCIe Gen6 / CXL 3.1 cycle all share one theme: when a new high-speed memory interface becomes real, the test problem becomes harder and equipment content rises.
+3. <strong>2025 was ugly, but that is exactly why the setup is interesting.</strong> Revenue fell 39.3% YoY to KRW 63.9B, operating profit fell 75.3% to KRW 4.1B, and OPM compressed to 6.4%. Memory capex pauses and heavier R&D hit at the same time. But management's November IR pointed to a sharp order rebound from late August, with September to November orders reportedly running at roughly twice the January to August cumulative level.
+4. <strong>The 2026-2027 trigger stack is unusually dense.</strong> Gen6 SSD tester demos, CXL 3.1 production tester deliveries, GEMINI3 for SOCAMM, BX burn-in optionality, and overseas customer expansion create multiple ways for revenue to recover. The cleanest near-term signal is whether late-2025 orders convert into 1Q26/2Q26 revenue.
+5. <strong>Investment view: event-driven turnaround plus cycle beta.</strong> Neosem is not yet a smooth compounder. It is a lumpy equipment stock tied to memory capex and customer timing. But first-mover references in CXL and a potentially cleaner competitive field in SSD testers make it one of the most direct Korean listed ways to underwrite the next interface-test cycle.
 
 ---
 
@@ -47,10 +47,10 @@ Neosem's products fall into four practical buckets.
 
 | Product family | What it tests | Why it matters |
 |---|---|---|
-| **PCIe SSD Tester** | Enterprise and data-center SSDs using PCIe Gen4/Gen5 and future Gen6 interfaces. | AI servers need faster storage and higher reliability. Interface speed increases test complexity. |
-| **CXL Memory Tester** | CXL memory devices and related memory-expansion products. | CXL links CPUs, memory and accelerators under a coherent memory architecture. Validation has to cover protocol behavior, latency and error handling, not just simple signaling. |
-| **Server DIMM Automation / GEMINI** | Server memory modules and automated chamber-style test workflows. | Server memory testing needs throughput, automation and reliability at volume. |
-| **Burn-in Tester / BX series** | Memory components under stress conditions, including potential future HBM-related variants. | Burn-in screens for reliability under temperature, voltage and time stress. HBM-specific opportunity exists, but Neosem is not the leader today. |
+| <strong>PCIe SSD Tester</strong> | Enterprise and data-center SSDs using PCIe Gen4/Gen5 and future Gen6 interfaces. | AI servers need faster storage and higher reliability. Interface speed increases test complexity. |
+| <strong>CXL Memory Tester</strong> | CXL memory devices and related memory-expansion products. | CXL links CPUs, memory and accelerators under a coherent memory architecture. Validation has to cover protocol behavior, latency and error handling, not just simple signaling. |
+| <strong>Server DIMM Automation / GEMINI</strong> | Server memory modules and automated chamber-style test workflows. | Server memory testing needs throughput, automation and reliability at volume. |
+| <strong>Burn-in Tester / BX series</strong> | Memory components under stress conditions, including potential future HBM-related variants. | Burn-in screens for reliability under temperature, voltage and time stress. HBM-specific opportunity exists, but Neosem is not the leader today. |
 
 The clearest franchise today is SSD and module testing. KIRS materials put SSD Tester plus server DIMM Tester at 82.9% of 1H25 revenue. Component testing, including burn-in, appears to contribute roughly 10-15%, while CXL is not separately disclosed.
 
@@ -64,10 +64,10 @@ Neosem's 2025 numbers were not subtle.
 
 | Metric | 2022 | 2023 | 2024 | 2025 | 2025 YoY |
 |---|---:|---:|---:|---:|---:|
-| Revenue | KRW 74.7B | KRW 100.9B | **KRW 105.2B** | **KRW 63.9B** | **-39.3%** |
-| Operating profit | KRW 8.4B | KRW 8.1B | **KRW 16.5B** | **KRW 4.1B** | **-75.3%** |
-| Operating margin | 11.2% | 8.0% | **15.7%** | **6.4%** | -9.3pp |
-| Net income | KRW 10.0B | KRW 8.3B | KRW 19.2B | **KRW 4.8B** | -74.8% |
+| Revenue | KRW 74.7B | KRW 100.9B | <strong>KRW 105.2B</strong> | <strong>KRW 63.9B</strong> | <strong>-39.3%</strong> |
+| Operating profit | KRW 8.4B | KRW 8.1B | <strong>KRW 16.5B</strong> | <strong>KRW 4.1B</strong> | <strong>-75.3%</strong> |
+| Operating margin | 11.2% | 8.0% | <strong>15.7%</strong> | <strong>6.4%</strong> | -9.3pp |
+| Net income | KRW 10.0B | KRW 8.3B | KRW 19.2B | <strong>KRW 4.8B</strong> | -74.8% |
 
 This was a classic equipment-cycle compression. Revenue fell as memory customers delayed or slowed inspection-equipment capex, while R&D and product-development costs did not fall in line. The company was spending for Gen6 SSD, CXL 3.1, SOCAMM automation and burn-in extensions while customers were still digesting prior capacity.
 
@@ -85,11 +85,11 @@ Neosem's moat is not that no one else can build testers. Teradyne, Advantest, DI
 
 | Moat axis | Assessment | Why |
 |---|---|---|
-| **PCIe SSD tester position** | High | Advantest reportedly exited the SSD tester business in January 2025, strengthening Neosem's position in PCIe Gen5 SSD testers. |
-| **CXL production references** | High | Neosem has commercial references in CXL 1.1 and 2.0 production testers supplied to Samsung Electronics. |
-| **Customer validation history** | Medium-high | Device-specific validation data, firmware, debug history and customer line integration create switching friction. |
-| **Throughput / automation** | Medium | GEMINI gives server DIMM automation exposure, but throughput leadership must be re-proven by generation. |
-| **Cost competitiveness** | Medium | Korean equipment vendors can be cost-competitive, but global ATE vendors have scale and support depth. |
+| <strong>PCIe SSD tester position</strong> | High | Advantest reportedly exited the SSD tester business in January 2025, strengthening Neosem's position in PCIe Gen5 SSD testers. |
+| <strong>CXL production references</strong> | High | Neosem has commercial references in CXL 1.1 and 2.0 production testers supplied to Samsung Electronics. |
+| <strong>Customer validation history</strong> | Medium-high | Device-specific validation data, firmware, debug history and customer line integration create switching friction. |
+| <strong>Throughput / automation</strong> | Medium | GEMINI gives server DIMM automation exposure, but throughput leadership must be re-proven by generation. |
+| <strong>Cost competitiveness</strong> | Medium | Korean equipment vendors can be cost-competitive, but global ATE vendors have scale and support depth. |
 
 The most important asset is validation history. In high-speed interface testing, the tool does not only need to generate signals. It needs to understand device behavior, test patterns, error modes, protocol timing, firmware corner cases and customer-specific production workflows. Once a memory maker has debugged a new device generation on a given tester platform, switching is not frictionless.
 
@@ -125,15 +125,15 @@ Management's reference to a goal of reaching a US$100M export tower by 2027 is u
 
 | Trend | Impact | Investment read-through |
 |---|---|---|
-| **AI server capex and PCIe 6.0 / Gen6 SSD** | Strong tailwind | Faster data-center SSDs need new test coverage. If Advantest remains out of SSD testers, Neosem's competitive position can be unusually clean. |
-| **CXL memory pooling and expansion** | Strong tailwind | CXL 3.1 moves the category closer to scaled deployment. Neosem's CXL 1.1/2.0 references are a real first-mover asset. |
-| **NVIDIA SOCAMM adoption** | Tailwind | GEMINI3 could open a new automation category if SOCAMM becomes a real volume standard. Timing and market size remain unclear. |
-| **HBM package-test demand** | Neutral to tailwind | BX burn-in has optionality, but TechWing and Advantest are more central in HBM test today. Neosem is not the clean HBM tester leader. |
-| **Burn-in integration and high-density testing** | Tailwind with competition | BX includes low-frequency test functionality, but Exicon's CLT positioning and DI's burn-in strength increase competitive pressure. |
-| **Samsung memory capex recovery** | Tailwind | Samsung is a key customer and CXL/Gen6 timing matters directly. |
-| **SK Hynix capex cycle** | Neutral to mild tailwind | Neosem has burn-in exposure, but HBM-specific test leadership appears elsewhere for now. |
-| **US-China export controls** | Neutral to mild headwind | Direct China exposure appears limited, but memory makers' capex allocation can shift with geopolitics. |
-| **Korean ATE localization** | Tailwind | Domestic memory makers benefit from local equipment optionality in strategically important test categories. |
+| <strong>AI server capex and PCIe 6.0 / Gen6 SSD</strong> | Strong tailwind | Faster data-center SSDs need new test coverage. If Advantest remains out of SSD testers, Neosem's competitive position can be unusually clean. |
+| <strong>CXL memory pooling and expansion</strong> | Strong tailwind | CXL 3.1 moves the category closer to scaled deployment. Neosem's CXL 1.1/2.0 references are a real first-mover asset. |
+| <strong>NVIDIA SOCAMM adoption</strong> | Tailwind | GEMINI3 could open a new automation category if SOCAMM becomes a real volume standard. Timing and market size remain unclear. |
+| <strong>HBM package-test demand</strong> | Neutral to tailwind | BX burn-in has optionality, but TechWing and Advantest are more central in HBM test today. Neosem is not the clean HBM tester leader. |
+| <strong>Burn-in integration and high-density testing</strong> | Tailwind with competition | BX includes low-frequency test functionality, but Exicon's CLT positioning and DI's burn-in strength increase competitive pressure. |
+| <strong>Samsung memory capex recovery</strong> | Tailwind | Samsung is a key customer and CXL/Gen6 timing matters directly. |
+| <strong>SK Hynix capex cycle</strong> | Neutral to mild tailwind | Neosem has burn-in exposure, but HBM-specific test leadership appears elsewhere for now. |
+| <strong>US-China export controls</strong> | Neutral to mild headwind | Direct China exposure appears limited, but memory makers' capex allocation can shift with geopolitics. |
+| <strong>Korean ATE localization</strong> | Tailwind | Domestic memory makers benefit from local equipment optionality in strategically important test categories. |
 
 The most important distinction is between "CXL adoption" and "CXL revenue timing." CXL market forecasts can look huge. But Neosem only monetizes when memory makers order production testers, not when the industry publishes a TAM chart. The sequence is standard finalization, device development, customer qualification, pilot tools, production tools, then revenue.
 
@@ -208,12 +208,12 @@ The risk is standardization. If SOCAMM remains narrow, proprietary or low-volume
 
 | Risk | Why it matters | What to watch |
 |---|---|---|
-| **Customer concentration** | Equipment revenue can swing with a few memory-maker decisions. | Samsung and Micron order timing, overseas revenue share, backlog tone. |
-| **Capex-cycle dependence** | 2025 showed how quickly revenue and margins can fall when customers pause spending. | 1Q26 and 2Q26 revenue conversion from late-2025 orders. |
-| **CXL 3.1 competition** | First-mover references may not guarantee single-supplier status. | Exicon, DI and global vendors' CXL tester wins. |
-| **HBM follow-through risk** | Neosem may miss the richest HBM test sub-cycle if it remains late. | HBM-specific BX development and qualification news. |
-| **R&D cost pressure** | Gen6 SSD, CXL 3.1, BX and GEMINI3 all require spending before revenue. | OPM recovery versus continued engineering expense. |
-| **Forecast credibility** | 2025 sell-side forecasts were far too high versus actual results. | Management guidance versus order disclosures and recognized revenue. |
+| <strong>Customer concentration</strong> | Equipment revenue can swing with a few memory-maker decisions. | Samsung and Micron order timing, overseas revenue share, backlog tone. |
+| <strong>Capex-cycle dependence</strong> | 2025 showed how quickly revenue and margins can fall when customers pause spending. | 1Q26 and 2Q26 revenue conversion from late-2025 orders. |
+| <strong>CXL 3.1 competition</strong> | First-mover references may not guarantee single-supplier status. | Exicon, DI and global vendors' CXL tester wins. |
+| <strong>HBM follow-through risk</strong> | Neosem may miss the richest HBM test sub-cycle if it remains late. | HBM-specific BX development and qualification news. |
+| <strong>R&D cost pressure</strong> | Gen6 SSD, CXL 3.1, BX and GEMINI3 all require spending before revenue. | OPM recovery versus continued engineering expense. |
+| <strong>Forecast credibility</strong> | 2025 sell-side forecasts were far too high versus actual results. | Management guidance versus order disclosures and recognized revenue. |
 
 The last point matters. A January 2025 sell-side forecast reportedly expected 2025 revenue of about KRW 131.5B, up 28%. Actual 2025 preliminary revenue was KRW 63.9B, down 39%. That miss is not just a modeling error; it is a reminder that equipment stocks can move from "next year's record high" to "capex delay" very quickly.
 
@@ -223,11 +223,11 @@ For 2026, I would use management optimism as a hypothesis, not a conclusion.
 
 ## Five Checkpoints for the Next Two Quarters
 
-1. **1Q26 revenue recovery.** If the late-2025 order rebound is real, revenue should start recovering. A quarterly revenue print above KRW 20B would be an important signal.
-2. **CXL 3.1 production tester delivery.** A first-half 2026 Samsung-related CXL 3.1 production shipment would validate the CXL transition story.
-3. **Gen6 SSD tester order visibility.** Watch for Samsung Gen6 SSD production-order timing in 2H26 and whether Neosem remains the main supplier.
-4. **HBM-specific BX decision.** A formal HBM-focused development or qualification announcement would add a new optionality leg; silence keeps HBM outside the core thesis.
-5. **Export share and Micron traction.** Evidence of overseas revenue growth is the difference between a Samsung-cycle proxy and a more global test-equipment franchise.
+1. <strong>1Q26 revenue recovery.</strong> If the late-2025 order rebound is real, revenue should start recovering. A quarterly revenue print above KRW 20B would be an important signal.
+2. <strong>CXL 3.1 production tester delivery.</strong> A first-half 2026 Samsung-related CXL 3.1 production shipment would validate the CXL transition story.
+3. <strong>Gen6 SSD tester order visibility.</strong> Watch for Samsung Gen6 SSD production-order timing in 2H26 and whether Neosem remains the main supplier.
+4. <strong>HBM-specific BX decision.</strong> A formal HBM-focused development or qualification announcement would add a new optionality leg; silence keeps HBM outside the core thesis.
+5. <strong>Export share and Micron traction.</strong> Evidence of overseas revenue growth is the difference between a Samsung-cycle proxy and a more global test-equipment franchise.
 
 ---
 
@@ -237,9 +237,9 @@ I would value Neosem less like a smooth quality compounder and more like a cycle
 
 | Scenario | What has to happen | Investor read-through |
 |---|---|---|
-| **Bear case** | Late-2025 orders fail to convert, CXL 3.1 is delayed or dual-sourced heavily, Gen6 SSD orders slip, R&D keeps margins near mid-single digits. | 2025 was not a temporary trough; the stock remains a volatile small-cap equipment name. |
-| **Base case** | 1Q26/2Q26 revenue recovers, CXL 3.1 pilot shipments occur, Gen6 SSD remains on track for 2027, margins rebuild toward low double digits. | Neosem can rerate as a credible interface-test recovery play. |
-| **Bull case** | Gen6 SSD tester single-supplier dynamics extend, CXL 3.1 production orders scale, Micron/overseas share rises, and one of SOCAMM or HBM burn-in becomes material. | Revenue can push beyond prior peak and the market can price a multi-product AI memory-test platform. |
+| <strong>Bear case</strong> | Late-2025 orders fail to convert, CXL 3.1 is delayed or dual-sourced heavily, Gen6 SSD orders slip, R&D keeps margins near mid-single digits. | 2025 was not a temporary trough; the stock remains a volatile small-cap equipment name. |
+| <strong>Base case</strong> | 1Q26/2Q26 revenue recovers, CXL 3.1 pilot shipments occur, Gen6 SSD remains on track for 2027, margins rebuild toward low double digits. | Neosem can rerate as a credible interface-test recovery play. |
+| <strong>Bull case</strong> | Gen6 SSD tester single-supplier dynamics extend, CXL 3.1 production orders scale, Micron/overseas share rises, and one of SOCAMM or HBM burn-in becomes material. | Revenue can push beyond prior peak and the market can price a multi-product AI memory-test platform. |
 
 The key sensitivity is timing. A tester order delayed by six months can turn a record-year story into another disappointment. That is why the stock needs to be monitored through order conversion, not only product announcements.
 

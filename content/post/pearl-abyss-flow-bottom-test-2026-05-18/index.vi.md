@@ -21,22 +21,22 @@ valley_cashtags:
 draft: false
 ---
 
-> 📚 **Pearl Abyss × Crimson Desert Series**
+> 📚 <strong>Pearl Abyss × Crimson Desert Series</strong>
 > [Doanh thu ghi nhận Q1 và vách đá 2027](/vi/post/pearl-abyss-1q26-recognized-sales-2027-cliff-2026-05-17/) / [Dữ liệu cuối tuần Patch 1.07](/vi/post/pearl-abyss-crimson-desert-patch-107-weekend-data-2026-05-17/) / [Điểm kiểm tra IR ngày 21/5](/vi/post/pearl-abyss-521-ir-capital-return-dlc-dokev-2026-05-12/) / [Ý nghĩa thực sự của các bình luận về DLC](/vi/post/pearl-abyss-dlc-package-to-franchise-rerating-2026-05-15/) / [Pearl Abyss Hub](/vi/page/pearl-abyss-crimson-desert-hub/)
 
 *Pearl Abyss đã xoa dịu đáng kể lo ngại về "vách đá Q2" với kết quả Q1/26 và hướng dẫn Q2. Vậy mà cổ phiếu vẫn tiếp tục giảm sau khi công bố kết quả kinh doanh. Lý do rất rõ ràng: thị trường đã vượt qua câu chuyện Q2 và đang định giá vách đá lợi nhuận 2027, phân bổ vốn và động lực dòng tiền. Diễn biến giá hai tuần qua chưa trông giống một sự đảo chiều. Khối ngoại đã quay lại một phần kể từ đợt bán ép ngày 13/5, nhưng tổ chức thì chưa. Đây là "kiểm tra đáy dòng tiền," không phải "đảo chiều dòng tiền."*
 
 ## Tóm Tắt Chính
 
-* **Dòng tiền hai tuần chưa phải đảo chiều.** Từ ngày 4 đến 18/5/2026, cổ phiếu giảm từ ₩58.500 xuống ₩45.800, tương đương khoảng **-21,7%**. Diễn biến này ít giống một đợt điều chỉnh thông thường mà giống một đợt reset định giá sau Q1 hơn.
-* **Cả khối ngoại và tổ chức đều bán ròng trong suốt hai tuần.** Theo Naver Finance, bán ròng lũy kế từ 4–18/5 là -502.638 cổ phần với tổ chức và -546.424 cổ phần với khối ngoại, ước tính tương đương khoảng -₩26,4 tỷ và -₩30,1 tỷ.
-* **Tuy nhiên, khối ngoại cho thấy đảo chiều một phần sau đợt hoảng loạn ngày 13/5.** Mua ròng đến +56.653 cổ phần ngày 14/5, +206.722 ngày 15/5 và +65.936 ngày 18/5. Khối ngoại quay lại mua ở vùng giá thấp hơn là tín hiệu tích cực.
-* **Cơ cấu tổ chức vẫn trông yếu.** Theo DB nội bộ Research OS từ 4–15/5, bán ròng của tổ chức do công ty chứng khoán (-₩17,3 tỷ) và quỹ tư nhân (-₩7,5 tỷ) dẫn đầu. Quỹ hưu trí và bảo hiểm chưa vào mua đáng kể; quỹ tín thác chỉ mua ròng khiêm tốn +₩0,9 tỷ.
-* **Giao dịch chương trình và bán khống đã bình thường hóa, nhưng rủi ro số dư cho vay chứng khoán vẫn còn.** Giao dịch chương trình đảo chiều từ -₩34,5 tỷ ngày 13/5 sang +₩3,0 tỷ ngày 14/5, +₩9,7 tỷ ngày 15/5 và +₩3,2 tỷ ngày 18/5. Tỷ lệ bán khống giảm từ 19,26% xuống còn khoảng 7%. Tuy nhiên, số dư cho vay chứng khoán tiếp tục tăng đến ngày 15/5.
-* **Hiện tại chúng ta đang ở giai đoạn 3 trong quy trình 4 giai đoạn.** Phân phối và bán ép đã qua; mua giá rẻ của khối ngoại và bình thường hóa giao dịch chương trình đã xuất hiện. Nhưng tổ chức quay lại và xu hướng phục hồi thì chưa.
-* **Quyết định thực tế là giữ và quan sát; chờ để mua thêm.** Đảo chiều dòng tiền thực sự đòi hỏi giữ vững ₩45.500–₩46.000, chinh phục lại ₩47.200 và chứng kiến quỹ tín thác, quỹ hưu trí và bảo hiểm tăng vị thế trong cơ cấu tổ chức.
+* <strong>Dòng tiền hai tuần chưa phải đảo chiều.</strong> Từ ngày 4 đến 18/5/2026, cổ phiếu giảm từ ₩58.500 xuống ₩45.800, tương đương khoảng <strong>-21,7%</strong>. Diễn biến này ít giống một đợt điều chỉnh thông thường mà giống một đợt reset định giá sau Q1 hơn.
+* <strong>Cả khối ngoại và tổ chức đều bán ròng trong suốt hai tuần.</strong> Theo Naver Finance, bán ròng lũy kế từ 4–18/5 là -502.638 cổ phần với tổ chức và -546.424 cổ phần với khối ngoại, ước tính tương đương khoảng -₩26,4 tỷ và -₩30,1 tỷ.
+* <strong>Tuy nhiên, khối ngoại cho thấy đảo chiều một phần sau đợt hoảng loạn ngày 13/5.</strong> Mua ròng đến +56.653 cổ phần ngày 14/5, +206.722 ngày 15/5 và +65.936 ngày 18/5. Khối ngoại quay lại mua ở vùng giá thấp hơn là tín hiệu tích cực.
+* <strong>Cơ cấu tổ chức vẫn trông yếu.</strong> Theo DB nội bộ Research OS từ 4–15/5, bán ròng của tổ chức do công ty chứng khoán (-₩17,3 tỷ) và quỹ tư nhân (-₩7,5 tỷ) dẫn đầu. Quỹ hưu trí và bảo hiểm chưa vào mua đáng kể; quỹ tín thác chỉ mua ròng khiêm tốn +₩0,9 tỷ.
+* <strong>Giao dịch chương trình và bán khống đã bình thường hóa, nhưng rủi ro số dư cho vay chứng khoán vẫn còn.</strong> Giao dịch chương trình đảo chiều từ -₩34,5 tỷ ngày 13/5 sang +₩3,0 tỷ ngày 14/5, +₩9,7 tỷ ngày 15/5 và +₩3,2 tỷ ngày 18/5. Tỷ lệ bán khống giảm từ 19,26% xuống còn khoảng 7%. Tuy nhiên, số dư cho vay chứng khoán tiếp tục tăng đến ngày 15/5.
+* <strong>Hiện tại chúng ta đang ở giai đoạn 3 trong quy trình 4 giai đoạn.</strong> Phân phối và bán ép đã qua; mua giá rẻ của khối ngoại và bình thường hóa giao dịch chương trình đã xuất hiện. Nhưng tổ chức quay lại và xu hướng phục hồi thì chưa.
+* <strong>Quyết định thực tế là giữ và quan sát; chờ để mua thêm.</strong> Đảo chiều dòng tiền thực sự đòi hỏi giữ vững ₩45.500–₩46.000, chinh phục lại ₩47.200 và chứng kiến quỹ tín thác, quỹ hưu trí và bảo hiểm tăng vị thế trong cơ cấu tổ chức.
 
-Dữ liệu bao gồm **4–18/5/2026**. Dữ liệu giá, dòng tiền nước ngoài và tổ chức được lấy từ DB nội bộ Research OS và [trang nước ngoài/tổ chức Pearl Abyss trên Naver Finance](https://finance.naver.com/item/frgn.naver?code=263750).
+Dữ liệu bao gồm <strong>4–18/5/2026</strong>. Dữ liệu giá, dòng tiền nước ngoài và tổ chức được lấy từ DB nội bộ Research OS và [trang nước ngoài/tổ chức Pearl Abyss trên Naver Finance](https://finance.naver.com/item/frgn.naver?code=263750).
 
 ## 1. Diễn Biến Giá Phản Ánh Một Đợt Reset Định Giá Sau Sự Kiện
 
@@ -62,7 +62,7 @@ Cuộc tranh luận về lợi nhuận của Pearl Abyss đã tiến sang một 
 
 > Số liệu 2026 trông tốt. Nhưng liệu lợi nhuận có duy trì sang 2027, và những lợi nhuận đó có quay trở lại cổ đông không?
 
-Do đó, đợt giảm này được hiểu đúng nhất không phải là một đợt điều chỉnh giá đơn thuần, mà là giai đoạn trong đó **định giá lại đỉnh lợi nhuận và tái cơ cấu dòng tiền diễn ra đồng thời**.
+Do đó, đợt giảm này được hiểu đúng nhất không phải là một đợt điều chỉnh giá đơn thuần, mà là giai đoạn trong đó <strong>định giá lại đỉnh lợi nhuận và tái cơ cấu dòng tiền diễn ra đồng thời</strong>.
 
 ## 2. Dòng Tiền Lũy Kế Hai Tuần Vẫn Âm
 
@@ -239,9 +239,9 @@ Các ngưỡng chính là ₩45.500–₩46.000 và ₩47.200. Giữ vững ₩4
 
 Kết luận thực tế rất đơn giản.
 
-**Giữ và quan sát. Mua thêm sau khi xác nhận phục hồi ₩47.200 và cải thiện cơ cấu tổ chức.**
+<strong>Giữ và quan sát. Mua thêm sau khi xác nhận phục hồi ₩47.200 và cải thiện cơ cấu tổ chức.</strong>
 
-Bây giờ không phải lúc để mua vào mạnh — đây là lúc để quan sát xem ai đang hấp thụ lượng cung sau hoảng loạn. Đảo chiều thực sự tiếp theo của Pearl Abyss trở nên đáng tin cậy hơn khi **mua ròng bền vững của khối ngoại + sự trở lại của vốn tổ chức dài hạn + câu trả lời tại IR ngày 21/5 phá vỡ câu chuyện vách đá 2027** cùng xuất hiện.
+Bây giờ không phải lúc để mua vào mạnh — đây là lúc để quan sát xem ai đang hấp thụ lượng cung sau hoảng loạn. Đảo chiều thực sự tiếp theo của Pearl Abyss trở nên đáng tin cậy hơn khi <strong>mua ròng bền vững của khối ngoại + sự trở lại của vốn tổ chức dài hạn + câu trả lời tại IR ngày 21/5 phá vỡ câu chuyện vách đá 2027</strong> cùng xuất hiện.
 
 ---
 

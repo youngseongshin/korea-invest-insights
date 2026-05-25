@@ -19,7 +19,7 @@ draft: false
 | USD/KRW     | 1.470       | +0,0 %          | Neutral     |
 | Brent       | 90,6 USD    | −8,9 %          | Presión     |
 
-**Veredicto de régimen:** KR — **Bull** | US — **Bull** | Stance: *Expansión activa*. Breadth sobre 50MA en 64,2 % y sobre 200MA en 59,3 %. El Discovery Screener lleva 15 días consecutivos en señal confirmada. La sincronización KR–US en modo alcista habilita la postura más agresiva del framework.
+<strong>Veredicto de régimen:</strong> KR — <strong>Bull</strong> | US — <strong>Bull</strong> | Stance: *Expansión activa*. Breadth sobre 50MA en 64,2 % y sobre 200MA en 59,3 %. El Discovery Screener lleva 15 días consecutivos en señal confirmada. La sincronización KR–US en modo alcista habilita la postura más agresiva del framework.
 
 ---
 
@@ -27,7 +27,7 @@ draft: false
 
 El mercado coreano cerró la sesión del martes con un tono constructivo y de alta selectividad. Con el KOSPI en 6.388,5 (+4,9 % en cinco sesiones) y el KOSDAQ en 1.179,0 (+2,3 % en el mismo período), el trasfondo de breadth confirma que la recuperación no se limita a unas pocas megacaps: casi dos tercios del universo de 2.722 valores cotizados cotizan sobre su media móvil de 50 sesiones.
 
-El carácter de la jornada fue de **rotación sectorial con sesgo hacia industriales de alta rentabilidad**. Maquinaria especial, equipos eléctricos y defensa acapararon los flujos institucionales más notables, beneficiándose del ciclo de capex doméstico y de los contratos de exportación que siguen llegando desde Europa y Medio Oriente. Los semiconductores mantuvieron su posición como ancla del mercado, con SK Hynix liderando el segmento de memoria en un entorno de precios DRAM más firmes.
+El carácter de la jornada fue de <strong>rotación sectorial con sesgo hacia industriales de alta rentabilidad</strong>. Maquinaria especial, equipos eléctricos y defensa acapararon los flujos institucionales más notables, beneficiándose del ciclo de capex doméstico y de los contratos de exportación que siguen llegando desde Europa y Medio Oriente. Los semiconductores mantuvieron su posición como ancla del mercado, con SK Hynix liderando el segmento de memoria en un entorno de precios DRAM más firmes.
 
 En el lado débil, los valores de consumo doméstico y los constructores residenciales acusaron la incertidumbre macroeconómica vinculada al mercado inmobiliario. El petróleo Brent con caída de casi un 9 % en cinco días representa un alivio de costes para las industrias intensivas en energía, pero también envía señales mixtas sobre la demanda global que pesaron en los exportadores de materias primas.
 
@@ -37,9 +37,9 @@ Los flujos de capital extranjero mostraron acumulación neta en semiconductores 
 
 ## Screener del Día: Smart Money + Mejora de Resultados
 
-*Martes corresponde al screener* **Smart Money + Mejora de Resultados**. La metodología combina señales de acumulación institucional y extranjera (volumen anómalo, posicionamiento cercano a máximos) con filtros de mejora fundamental: crecimiento de ingresos, expansión de margen operativo, aceleración del beneficio neto y mejora de ROE. El objetivo es identificar empresas en inflexión de beneficios donde el *smart money* ya está posicionado antes de que el consenso lo reconozca.
+*Martes corresponde al screener* <strong>Smart Money + Mejora de Resultados</strong>. La metodología combina señales de acumulación institucional y extranjera (volumen anómalo, posicionamiento cercano a máximos) con filtros de mejora fundamental: crecimiento de ingresos, expansión de margen operativo, aceleración del beneficio neto y mejora de ROE. El objetivo es identificar empresas en inflexión de beneficios donde el *smart money* ya está posicionado antes de que el consenso lo reconozca.
 
-Hoy el universo de 2.722 valores generó **20 candidatos de alta convicción** con una puntuación estratégica media de 0,793.
+Hoy el universo de 2.722 valores generó <strong>20 candidatos de alta convicción</strong> con una puntuación estratégica media de 0,793.
 
 ### Top 10 Candidatos
 
@@ -58,11 +58,11 @@ Hoy el universo de 2.722 valores generó **20 candidatos de alta convicción** c
 
 ### Contexto de los tres primeros
 
-**선익시스템 (171090.KQ)** — Fabricante de equipos de deposición para paneles OLED y semiconductores. Con ingresos que se multiplican por casi cinco en términos interanuales y un salto de +1.311 % en beneficio operativo, la compañía está capturando el ciclo de inversión en OLED de nueva generación. El margen operativo subió +14,6 puntos porcentuales y el ROE mejoró +149 pp, señales de que la expansión no es solo topline.
+<strong>선익시스템 (171090.KQ)</strong> — Fabricante de equipos de deposición para paneles OLED y semiconductores. Con ingresos que se multiplican por casi cinco en términos interanuales y un salto de +1.311 % en beneficio operativo, la compañía está capturando el ciclo de inversión en OLED de nueva generación. El margen operativo subió +14,6 puntos porcentuales y el ROE mejoró +149 pp, señales de que la expansión no es solo topline.
 
-**동아엘텍 (088130.KQ)** — Otro especialista en maquinaria para la industria de pantallas y electrónica de precisión. Ingresos +226,5 % y beneficio operativo +670 %; cotiza cerca de máximos históricos con volumen anómalo al alza. Las señales *Vol+* y *NearHigh* sugieren que la acumulación institucional lleva semanas en marcha.
+<strong>동아엘텍 (088130.KQ)</strong> — Otro especialista en maquinaria para la industria de pantallas y electrónica de precisión. Ingresos +226,5 % y beneficio operativo +670 %; cotiza cerca de máximos históricos con volumen anómalo al alza. Las señales *Vol+* y *NearHigh* sugieren que la acumulación institucional lleva semanas en marcha.
 
-**SK스퀘어 (402340.KS)** — Holding de inversiones tecnológicas de SK Group con participaciones en SK Hynix y una cartera diversificada de startups de IA y semiconductores. Con RS percentil 99,0 —el más alto del top 10 junto a RFHIC— y crecimiento de beneficio neto de +141,6 %, el mercado está revaluando el NAV del holding a medida que madura el ciclo de semiconductores.
+<strong>SK스퀘어 (402340.KS)</strong> — Holding de inversiones tecnológicas de SK Group con participaciones en SK Hynix y una cartera diversificada de startups de IA y semiconductores. Con RS percentil 99,0 —el más alto del top 10 junto a RFHIC— y crecimiento de beneficio neto de +141,6 %, el mercado está revaluando el NAV del holding a medida que madura el ciclo de semiconductores.
 
 ---
 

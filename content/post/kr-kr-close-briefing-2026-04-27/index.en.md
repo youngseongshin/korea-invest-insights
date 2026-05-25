@@ -18,7 +18,7 @@ Why are Korean stocks rallying now? The primary catalyst came from overseas: Int
 
 ## Hanwha Engine: Marine Margins Meet Data Center Demand
 
-The session's standout mover was **Hanwha Engine (082740.KS)**, South Korea's leading manufacturer of marine propulsion systems for LNG carriers and container vessels, which surged 16.5% on the day — extending its five-session gain to 63%.
+The session's standout mover was <strong>Hanwha Engine (082740.KS)</strong>, South Korea's leading manufacturer of marine propulsion systems for LNG carriers and container vessels, which surged 16.5% on the day — extending its five-session gain to 63%.
 
 The catalyst was hard earnings data, not hype. Hanwha Engine reported Q1 2026 operating profit of KRW 51.4 billion, beating the street consensus by approximately 15%. The margin story was equally strong: gross margins on low-speed LNG carrier engines improved from the high-single-digit range to the mid-teens, reflecting both better pricing power and a favorable order mix.
 
@@ -30,7 +30,7 @@ At KRW 88,500 post-surge, the stock is technically extended. Investors tracking 
 
 ## The Samsung Electronics Divergence: Price Strength, Flow Weakness
 
-**Samsung Electronics (005930.KS)**, South Korea's largest company by market capitalization and the world's largest memory chip and smartphone manufacturer, gained 2.3% on April 27, extending its five-session advance to 4.7%. The Intel-driven SOX rally and a parallel 6% session gain by **SK Hynix (000660.KS)** — Samsung's primary domestic rival in DRAM and HBM — lifted the entire Korean semiconductor complex.
+<strong>Samsung Electronics (005930.KS)</strong>, South Korea's largest company by market capitalization and the world's largest memory chip and smartphone manufacturer, gained 2.3% on April 27, extending its five-session advance to 4.7%. The Intel-driven SOX rally and a parallel 6% session gain by <strong>SK Hynix (000660.KS)</strong> — Samsung's primary domestic rival in DRAM and HBM — lifted the entire Korean semiconductor complex.
 
 However, the flow data tells a more cautious story. According to Korea Exchange (KRX) data through April 24, foreign investors recorded net selling of KRW 1.07 trillion in Samsung Electronics over the recent period, with domestic institutions also net sellers of KRW 14.5 billion. Why are foreign investors net-selling Samsung Electronics despite the semiconductor rally? The divergence likely reflects ongoing concern over Samsung's HBM yield qualification progress relative to SK Hynix, which has maintained a more consistent supply position with leading AI chip customers including Nvidia.
 
@@ -40,7 +40,7 @@ For international investors, this creates an interesting relative value question
 
 ## Samsung Electro-Mechanics: MLCC Demand Hits a 52-Week High Zone
 
-**Samsung Electro-Mechanics (009150.KS)**, the world's second-largest manufacturer of MLCC (multi-layer ceramic capacitors) used in smartphones, EVs, and industrial automation, advanced 0.8% on the session — modest on its face, but the stock has now gained 16.8% over five sessions and is trading at 52-week high territory.
+<strong>Samsung Electro-Mechanics (009150.KS)</strong>, the world's second-largest manufacturer of MLCC (multi-layer ceramic capacitors) used in smartphones, EVs, and industrial automation, advanced 0.8% on the session — modest on its face, but the stock has now gained 16.8% over five sessions and is trading at 52-week high territory.
 
 Institutional investors were net buyers of KRW 30.2 billion in recent sessions, consistent with a thesis centered on MLCC demand recovery in the EV and robotics supply chain. No new Tier 1 regulatory filings (DART disclosures) were published Monday, but the company's previously announced product roadmap for xEV and robot-grade MLCCs remains intact. The current setup — strong institutional accumulation, favorable sector momentum, but extended price action — suggests existing holders may consider laddering profit protection rather than adding at current levels.
 
@@ -48,7 +48,7 @@ Institutional investors were net buyers of KRW 30.2 billion in recent sessions, 
 
 ## LS Electric and the Power Infrastructure Theme
 
-One name that does not yet appear in most international Korea equity screens but deserves attention is **LS Electric (010120.KS)**, a Korean manufacturer of switchgear, transformers, and grid automation equipment. The stock posted an RS score of 98.9 as of April 27 — the highest in the current KOSPI screener output — as AI-driven power infrastructure investment creates a domestic analog to the global grid equipment supercycle.
+One name that does not yet appear in most international Korea equity screens but deserves attention is <strong>LS Electric (010120.KS)</strong>, a Korean manufacturer of switchgear, transformers, and grid automation equipment. The stock posted an RS score of 98.9 as of April 27 — the highest in the current KOSPI screener output — as AI-driven power infrastructure investment creates a domestic analog to the global grid equipment supercycle.
 
 South Korea's government has flagged grid modernization as a national infrastructure priority, and demand from domestic data center operators — many supporting hyperscaler leases — is providing an incremental demand layer. LS Electric is not yet widely covered by English-language sell-side research, which may explain why its institutional momentum has not yet attracted broader international capital rotation.
 
@@ -56,7 +56,7 @@ South Korea's government has flagged grid modernization as a national infrastruc
 
 ## Hanmi Semiconductor and the CEO Signal
 
-**Hanmi Semiconductor (042700.KS)**, a specialist manufacturer of HBM packaging and thermal compression bonding (TCB) equipment used in advanced memory production, surged approximately 26% on April 27 on volume running at 5.9 times its 20-day average. The session RS score reached 97.5.
+<strong>Hanmi Semiconductor (042700.KS)</strong>, a specialist manufacturer of HBM packaging and thermal compression bonding (TCB) equipment used in advanced memory production, surged approximately 26% on April 27 on volume running at 5.9 times its 20-day average. The session RS score reached 97.5.
 
 What made this move notable beyond technicals was a company disclosure that the CEO had purchased KRW 3 billion of the company's own shares in the open market — a meaningful sum for a mid-cap name, and a signal that management views the current valuation as underpriced relative to the HBM equipment cycle. Hanmi's TCB tools are critical to the bonding process in HBM3E production. However, with the stock up 26% in a single session, near-term risk/reward likely favors patience over pursuit.
 
@@ -66,9 +66,9 @@ What made this move notable beyond technicals was a company disclosure that the 
 
 The April 27 session crystallized a clear rotation pattern that international investors should monitor going forward:
 
-**Leading sectors**: Semiconductors and HBM-adjacent components, power equipment (transformers, switchgear), marine and industrial engines, robotics and physical AI-adjacent names.
+<strong>Leading sectors</strong>: Semiconductors and HBM-adjacent components, power equipment (transformers, switchgear), marine and industrial engines, robotics and physical AI-adjacent names.
 
-**Lagging sectors**: Telecom (defensive underperformance in risk-on), pharmaceuticals, and select secondary battery names. **SK Telecom (017670.KS)**, South Korea's largest wireless carrier by subscriber count, declined 2.0% as risk appetite rotated away from yield-like defensives — a classic risk-on sector rotation signal.
+<strong>Lagging sectors</strong>: Telecom (defensive underperformance in risk-on), pharmaceuticals, and select secondary battery names. <strong>SK Telecom (017670.KS)</strong>, South Korea's largest wireless carrier by subscriber count, declined 2.0% as risk appetite rotated away from yield-like defensives — a classic risk-on sector rotation signal.
 
 ---
 
@@ -76,9 +76,9 @@ The April 27 session crystallized a clear rotation pattern that international in
 
 Two questions will define whether the April 27 rally extends or consolidates:
 
-1. **Foreign flow confirmation in semiconductors**: If foreign investors shift from net sellers to net buyers in Samsung Electronics and the broader chip complex in the sessions ahead, it would validate the price action. The divergence between price gains and selling pressure is the key risk to monitor.
+1. <strong>Foreign flow confirmation in semiconductors</strong>: If foreign investors shift from net sellers to net buyers in Samsung Electronics and the broader chip complex in the sessions ahead, it would validate the price action. The divergence between price gains and selling pressure is the key risk to monitor.
 
-2. **Hanwha Engine order flow**: The data center engine inquiry flagged by SK Securities is speculative at this stage. Any formal order announcements or DART-registered supply agreements would be a significant re-rating catalyst for a name that still trades primarily on traditional marine cycle assumptions.
+2. <strong>Hanwha Engine order flow</strong>: The data center engine inquiry flagged by SK Securities is speculative at this stage. Any formal order announcements or DART-registered supply agreements would be a significant re-rating catalyst for a name that still trades primarily on traditional marine cycle assumptions.
 
 The broader KOSPI market structure remains constructive: above-average breadth, institutional and foreign co-buying in the morning session, and a screener passing count of 211 names suggest the risk-on regime has not exhausted itself. The near-term tactical question is whether the stocks that led today — up 16% to 26% on the session — have left room for new entrants, or whether the better trade is to let price digest before the next leg.
 

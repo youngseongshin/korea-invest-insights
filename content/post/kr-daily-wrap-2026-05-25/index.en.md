@@ -20,7 +20,7 @@ draft: false
 | USD/KRW | 1,514 | +1.4% | ⚠️ KRW soft |
 | Brent | $100.2 | −9.9% | 📉 Falling |
 
-**Regime**: Korea **Bull** / US **Neutral** → Operative stance: **Selective KR expansion**
+<strong>Regime</strong>: Korea <strong>Bull</strong> / US <strong>Neutral</strong> → Operative stance: <strong>Selective KR expansion</strong>
 
 Korea and the US are diverging at the regime level. Breadth metrics on the KR side — 36% above the 50-day MA, 48% above the 200-day — are not euphoric, but sufficient to support active stock selection. KRW weakness (+1.4% in five sessions) adds currency drag for USD-based investors; the Brent slide is a mild demand-signal flag worth watching for Korea's energy-exposed industrials.
 
@@ -30,17 +30,17 @@ Korea and the US are diverging at the regime level. Breadth metrics on the KR si
 
 *Close briefing data below is from the most recent available session (2026-05-22). Macro regime data is current as of 2026-05-25.*
 
-The May 22 session ran as **selective risk-on with stock-level dispersion** rather than a clean index sweep. KOSPI held near +0.5% intraday while KOSDAQ pushed toward +4% — a gap that signals the real rotation was inside the small and mid-cap growth universe, not in large-cap index names.
+The May 22 session ran as <strong>selective risk-on with stock-level dispersion</strong> rather than a clean index sweep. KOSPI held near +0.5% intraday while KOSDAQ pushed toward +4% — a gap that signals the real rotation was inside the small and mid-cap growth universe, not in large-cap index names.
 
-**Sector leadership** was meaningfully broader than the prior week's semiconductor-dominated move:
+<strong>Sector leadership</strong> was meaningfully broader than the prior week's semiconductor-dominated move:
 
-- **Pharma and biotech** led the tape with the widest breadth gains of any sector on the day
-- **Power equipment and energy infrastructure** names remained active, building on the multi-week theme around grid upgrade and transformer demand
-- **Advanced packaging and ABF substrates** extended the prior week's move. A Morgan Stanley note circulating in market channels raised its 2030 ABF substrate supply-shortage forecast to a 22% deficit (from 15%), reinforcing the demand narrative for Korean PCB and substrate makers. Samsung Electro-Mechanics (009150.KS) posted the session's strongest large/mid-cap combination — a 1-day gain of +11.3%, 5-day +32.7%, RS percentile 98.9 — with foreign inflows despite institutional profit-taking. Daedeok Electronics (000240.KS) added +3.3% with institutional buying against light foreign selling, a cross-current that signals the stock is in a hand-change phase rather than a clean accumulation
+- <strong>Pharma and biotech</strong> led the tape with the widest breadth gains of any sector on the day
+- <strong>Power equipment and energy infrastructure</strong> names remained active, building on the multi-week theme around grid upgrade and transformer demand
+- <strong>Advanced packaging and ABF substrates</strong> extended the prior week's move. A Morgan Stanley note circulating in market channels raised its 2030 ABF substrate supply-shortage forecast to a 22% deficit (from 15%), reinforcing the demand narrative for Korean PCB and substrate makers. Samsung Electro-Mechanics (009150.KS) posted the session's strongest large/mid-cap combination — a 1-day gain of +11.3%, 5-day +32.7%, RS percentile 98.9 — with foreign inflows despite institutional profit-taking. Daedeok Electronics (000240.KS) added +3.3% with institutional buying against light foreign selling, a cross-current that signals the stock is in a hand-change phase rather than a clean accumulation
 
-**Weak spots**: Samsung Electronics (005930.KS) drew ₩1.01 trillion in foreign net selling and nearly ₩1 trillion in program trade outflows on the day — this despite a solid 5-day recovery of +8.1%. The large-cap memory trade appears to be in a confirmation-seeking mode after a sharp bounce: buyers want to see the foreign supply absorbed before re-engaging. Telecom names were flat to down with dual foreign/institutional selling; the sector is functioning as a defensive placeholder rather than a conviction holding in a broad risk-on environment.
+<strong>Weak spots</strong>: Samsung Electronics (005930.KS) drew ₩1.01 trillion in foreign net selling and nearly ₩1 trillion in program trade outflows on the day — this despite a solid 5-day recovery of +8.1%. The large-cap memory trade appears to be in a confirmation-seeking mode after a sharp bounce: buyers want to see the foreign supply absorbed before re-engaging. Telecom names were flat to down with dual foreign/institutional selling; the sector is functioning as a defensive placeholder rather than a conviction holding in a broad risk-on environment.
 
-**Screener universe breadth** expanded to 99 passing names under Bull regime conditions — a meaningful acceleration from prior weeks. The signal: stock-picking conditions are improving, but at 36% above the 50-day MA, the market is not yet in a breadth thrust that would argue for aggressive position-building. Quality rotation over momentum chasing remains the operative frame.
+<strong>Screener universe breadth</strong> expanded to 99 passing names under Bull regime conditions — a meaningful acceleration from prior weeks. The signal: stock-picking conditions are improving, but at 36% above the 50-day MA, the market is not yet in a breadth thrust that would argue for aggressive position-building. Quality rotation over momentum chasing remains the operative frame.
 
 ---
 
@@ -69,7 +69,7 @@ The 2026-05-25 meta-screener processed 137 tickers across five frameworks: Quali
 
 ### Top 3 in Focus
 
-**1. VM (089970.KQ) — Meta Score 94.7 | Five-Screener Sweep**
+<strong>1. VM (089970.KQ) — Meta Score 94.7 | Five-Screener Sweep</strong>
 
 VM makes semiconductor process equipment — primarily diffusion furnaces and CVD systems — for memory and logic fabs. It is the only name in the 137-ticker universe to clear all five screener layers simultaneously, making it the most structurally supported article candidate in today's output.
 
@@ -81,7 +81,7 @@ VM makes semiconductor process equipment — primarily diffusion furnaces and CV
 
 ---
 
-**2. MicroContact Sol (마이크로컨텍솔, 098120.KQ) — Meta Score 77.2 | Four-Screener Hit**
+<strong>2. MicroContact Sol (마이크로컨텍솔, 098120.KQ) — Meta Score 77.2 | Four-Screener Hit</strong>
 
 MicroContact Sol manufactures test sockets and precision contact components used in semiconductor device testing — a niche but structurally important segment that benefits directly from rising test complexity in advanced-node chips and HBM stacks.
 
@@ -93,7 +93,7 @@ MicroContact Sol manufactures test sockets and precision contact components used
 
 ---
 
-**3. RFHIC (218410.KQ) — Meta Score 73.9 | Four-Screener Hit | Short Interest Flag**
+<strong>3. RFHIC (218410.KQ) — Meta Score 73.9 | Four-Screener Hit | Short Interest Flag</strong>
 
 RFHIC designs and manufactures GaN-on-SiC RF power amplifier components — the core active element in 5G macro base stations and defense/radar electronics. This is a structurally differentiated materials position: GaN-on-SiC offers superior power density and efficiency relative to GaAs alternatives, and RFHIC holds meaningful share in the Korean supply chain for telecom OEMs.
 

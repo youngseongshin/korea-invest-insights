@@ -18,12 +18,12 @@ slug: kospi-crash-relative-strength-macro-gate-2026-05-15
 
 ## Những điểm chính
 
-* **15/5 tại Hàn Quốc**: KOSPI 7.493,18 (**-6.12%**), KOSDAQ 1.129,82 (**-5.14%**). Cầu dao cắt mạch lệnh bán kích hoạt ngay sau khi lập đỉnh lịch sử mới.
-* **Nguyên nhân**: không phải chỉ là chốt lời thông thường. US PPI +6.0% (mức cao nhất kể từ 2022), Japan PPI +4.9%, JGB 10 năm cao nhất kể từ 1997, US 10-year 4.46%, Brent 108, USD/KRW gần 1.500 — **một chu kỳ vĩ mô toàn cầu đang gây áp lực lên tài sản rủi ro cùng một lúc**.
-* **Vẫn có các cổ phiếu RS**: Hana Micron +18.6%, Jeju Semiconductor +8.9%, SFA Semiconductor +4.0%, Samsung Electro-Mechanics -1.4% (RS so với chỉ số +4.7pp). Doosan Robotics +19.3%, Robostar +9.9%.
-* **Nhưng đuổi theo là sai**: "hôm nay không giảm = dẫn dắt tiếp theo" là ngụy biện. Nếu vĩ mô không bình thường hóa, các cổ phiếu RS sẽ theo chỉ số đi xuống phiên sau.
-* **Điểm mấu chốt thực sự — cổng vĩ mô**: US 10-year dưới 4.45%, Brent dưới 105, USD/KRW dưới 1.480, VIX dưới 18. Ít nhất 2–3 trong số đó phải được thỏa mãn trước khi việc mua mới trở nên hợp lý.
-* **Màn hình RS hôm nay thực sự dùng để làm gì**: không phải "tín hiệu mua," mà là **"tín hiệu tạo danh sách theo dõi."**
+* <strong>15/5 tại Hàn Quốc</strong>: KOSPI 7.493,18 (<strong>-6.12%</strong>), KOSDAQ 1.129,82 (<strong>-5.14%</strong>). Cầu dao cắt mạch lệnh bán kích hoạt ngay sau khi lập đỉnh lịch sử mới.
+* <strong>Nguyên nhân</strong>: không phải chỉ là chốt lời thông thường. US PPI +6.0% (mức cao nhất kể từ 2022), Japan PPI +4.9%, JGB 10 năm cao nhất kể từ 1997, US 10-year 4.46%, Brent 108, USD/KRW gần 1.500 — <strong>một chu kỳ vĩ mô toàn cầu đang gây áp lực lên tài sản rủi ro cùng một lúc</strong>.
+* <strong>Vẫn có các cổ phiếu RS</strong>: Hana Micron +18.6%, Jeju Semiconductor +8.9%, SFA Semiconductor +4.0%, Samsung Electro-Mechanics -1.4% (RS so với chỉ số +4.7pp). Doosan Robotics +19.3%, Robostar +9.9%.
+* <strong>Nhưng đuổi theo là sai</strong>: "hôm nay không giảm = dẫn dắt tiếp theo" là ngụy biện. Nếu vĩ mô không bình thường hóa, các cổ phiếu RS sẽ theo chỉ số đi xuống phiên sau.
+* <strong>Điểm mấu chốt thực sự — cổng vĩ mô</strong>: US 10-year dưới 4.45%, Brent dưới 105, USD/KRW dưới 1.480, VIX dưới 18. Ít nhất 2–3 trong số đó phải được thỏa mãn trước khi việc mua mới trở nên hợp lý.
+* <strong>Màn hình RS hôm nay thực sự dùng để làm gì</strong>: không phải "tín hiệu mua," mà là <strong>"tín hiệu tạo danh sách theo dõi."</strong>
 
 ---
 
@@ -122,14 +122,14 @@ Tại sao nhìn vào đây:
 | 2 | Samji Electronics | +29.97% | +35.1pp | KRW 77.5B |
 | 3 | Doosan Robotics | +19.29% | +25.4pp | KRW 1.08T |
 | 4 | Hanson Engineering | +19.18% | +24.3pp | KRW 60.6B |
-| **5** | **Hana Micron** | **+18.61%** | **+23.8pp** | **KRW 688.8B** |
+| <strong>5</strong> | <strong>Hana Micron</strong> | <strong>+18.61%</strong> | <strong>+23.8pp</strong> | <strong>KRW 688.8B</strong> |
 | 6 | Jahwa Electronics | +16.53% | +22.7pp | KRW 84.8B |
 | 10 | LG Electronics | +10.83% | +17.0pp | KRW 1.44T |
 | 12 | Robostar | +9.90% | +15.0pp | KRW 188.6B |
-| **13** | **Jeju Semiconductor** | **+8.86%** | **+14.0pp** | **KRW 884.6B** |
-| **17** | **SFA Semiconductor** | **+3.99%** | **+9.1pp** | **KRW 280.8B** |
+| <strong>13</strong> | <strong>Jeju Semiconductor</strong> | <strong>+8.86%</strong> | <strong>+14.0pp</strong> | <strong>KRW 884.6B</strong> |
+| <strong>17</strong> | <strong>SFA Semiconductor</strong> | <strong>+3.99%</strong> | <strong>+9.1pp</strong> | <strong>KRW 280.8B</strong> |
 | 18 | Samsung SDS | +3.34% | +9.5pp | KRW 366.7B |
-| **20** | **Samsung Electro-Mechanics** | **-1.37%** | **+4.7pp** | **KRW 1.41T** |
+| <strong>20</strong> | <strong>Samsung Electro-Mechanics</strong> | <strong>-1.37%</strong> | <strong>+4.7pp</strong> | <strong>KRW 1.41T</strong> |
 
 ### 2.3 Bẫy 1 — nhầm lẫn "đà tăng trần" với "sức mạnh lợi nhuận"
 
@@ -313,9 +313,9 @@ Cụ thể:
 
 | Kịch bản | Điều kiện | Hành động |
 | --- | --- | --- |
-| **A. Vĩ mô phục hồi** | 3+ trong 4 cổng qua | Mua có quy mô vào các cổ phiếu RS; tối đa 30–40% quy mô đầy đủ |
-| **B. Vĩ mô trung tính** | 1–2 cổng qua | Chỉ quan sát đến cuối phiên; giảm thiểu mua mới |
-| **C. Vĩ mô xấu hơn** | Các cổng tiếp tục xấu đi | Không mua mới; chỉ đánh giá lại vị thế hiện tại về tổn hại luận điểm |
+| <strong>A. Vĩ mô phục hồi</strong> | 3+ trong 4 cổng qua | Mua có quy mô vào các cổ phiếu RS; tối đa 30–40% quy mô đầy đủ |
+| <strong>B. Vĩ mô trung tính</strong> | 1–2 cổng qua | Chỉ quan sát đến cuối phiên; giảm thiểu mua mới |
+| <strong>C. Vĩ mô xấu hơn</strong> | Các cổng tiếp tục xấu đi | Không mua mới; chỉ đánh giá lại vị thế hiện tại về tổn hại luận điểm |
 
 ### 4.3 Mối quan hệ giữa "mua RS" và cổng vĩ mô
 
@@ -552,15 +552,15 @@ Bài luân chuyển tiêu dùng:
 
 ## 9. Kết luận một dòng
 
-KOSPI -6.12% ngày 15/5 không phải là chốt lời đơn giản. **Đây là ngày chu kỳ vĩ mô toàn cầu thanh toán trên thị trường Hàn Quốc.** US PPI +6%, Japan PPI +4.9%, US 10-year 4.46%, Brent 108, USD/KRW gần 1.500 — mỗi biến số đó đều gây áp lực lên tài sản rủi ro Hàn Quốc theo cùng một hướng.
+KOSPI -6.12% ngày 15/5 không phải là chốt lời đơn giản. <strong>Đây là ngày chu kỳ vĩ mô toàn cầu thanh toán trên thị trường Hàn Quốc.</strong> US PPI +6%, Japan PPI +4.9%, US 10-year 4.46%, Brent 108, USD/KRW gần 1.500 — mỗi biến số đó đều gây áp lực lên tài sản rủi ro Hàn Quốc theo cùng một hướng.
 
-Trong những ngày như thế này, có hai cám dỗ. Một là đi săn những cổ phiếu không giảm để tìm nhà lãnh đạo tiếp theo. Hai là đuổi theo với lý lẽ "mọi thứ đều giảm, vậy là rẻ." **Cả hai đều không hiệu quả nếu cổng vĩ mô không qua.**
+Trong những ngày như thế này, có hai cám dỗ. Một là đi săn những cổ phiếu không giảm để tìm nhà lãnh đạo tiếp theo. Hai là đuổi theo với lý lẽ "mọi thứ đều giảm, vậy là rẻ." <strong>Cả hai đều không hiệu quả nếu cổng vĩ mô không qua.</strong>
 
-Thứ đầu tiên cần kiểm tra vào thứ Hai không phải là Hana Micron, Samsung E-M, hay Jeju Semiconductor. **Mà là US 10-year, Brent, USD/KRW, và VIX.** Cho đến khi ít nhất 2–3 trong số đó ổn định, việc đuổi theo ngay cả một cổ phiếu tuyệt vời cũng là không hiệu quả.
+Thứ đầu tiên cần kiểm tra vào thứ Hai không phải là Hana Micron, Samsung E-M, hay Jeju Semiconductor. <strong>Mà là US 10-year, Brent, USD/KRW, và VIX.</strong> Cho đến khi ít nhất 2–3 trong số đó ổn định, việc đuổi theo ngay cả một cổ phiếu tuyệt vời cũng là không hiệu quả.
 
-Màn hình RS hôm nay không phải là "tín hiệu mua" — mà là **"tín hiệu tạo danh sách theo dõi."** Những cổ phiếu dẫn dắt tiếp theo không được phát hiện SAU KHI vĩ mô phục hồi. Chúng là những cổ phiếu **không giảm trong khi vĩ mô xấu**, được ghi nhận, và mua vào **một khi vĩ mô phục hồi**.
+Màn hình RS hôm nay không phải là "tín hiệu mua" — mà là <strong>"tín hiệu tạo danh sách theo dõi."</strong> Những cổ phiếu dẫn dắt tiếp theo không được phát hiện SAU KHI vĩ mô phục hồi. Chúng là những cổ phiếu <strong>không giảm trong khi vĩ mô xấu</strong>, được ghi nhận, và mua vào <strong>một khi vĩ mô phục hồi</strong>.
 
-**Chu kỳ trước, cổ phiếu sau. Cổng vĩ mô trước, phân tích cổ phiếu sau.**
+<strong>Chu kỳ trước, cổ phiếu sau. Cổng vĩ mô trước, phân tích cổ phiếu sau.</strong>
 
 ---
 

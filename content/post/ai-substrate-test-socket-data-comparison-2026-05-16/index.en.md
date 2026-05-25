@@ -24,12 +24,12 @@ slug: ai-substrate-test-socket-data-comparison-2026-05-16
 
 ## Key takeaways
 
-* **On pure "cheapness"**: SK hynix (2027E PER 5.2x), Samsung Electronics (5.6x), Haesung DS (15.4x). But the memory megas are dominated by "cycle-peak" risk.
-* **On "growth-adjusted multiple"**: Daeduck Electronics (2027E PER 27.1x vs OP +34%) and Simmtech (20.0x vs OP +59%) are the sharpest setups.
-* **"Already done the work"**: Samsung Electro-Mechanics (2026 YTD +296%, 2026E PER 61.9x), Isu Petasys (+346% in 2025 but only +7% YTD 2026), Simmtech (+352% in 2025).
-* **"Quality, but the multiple is rich"**: LEENO Industrial (OPM 48.6%, 2026E PER 41.2x), ISC (2026E PER 58.5x).
-* **"Growth at a fair price"**: TSE (2026E OP +82%, PER 29.4x).
-* **Bottom line**: within AI back-end, attractiveness ranks **substrates > test sockets > memory megas**. Within substrates, Daeduck and Simmtech are the cleanest.
+* <strong>On pure "cheapness"</strong>: SK hynix (2027E PER 5.2x), Samsung Electronics (5.6x), Haesung DS (15.4x). But the memory megas are dominated by "cycle-peak" risk.
+* <strong>On "growth-adjusted multiple"</strong>: Daeduck Electronics (2027E PER 27.1x vs OP +34%) and Simmtech (20.0x vs OP +59%) are the sharpest setups.
+* <strong>"Already done the work"</strong>: Samsung Electro-Mechanics (2026 YTD +296%, 2026E PER 61.9x), Isu Petasys (+346% in 2025 but only +7% YTD 2026), Simmtech (+352% in 2025).
+* <strong>"Quality, but the multiple is rich"</strong>: LEENO Industrial (OPM 48.6%, 2026E PER 41.2x), ISC (2026E PER 58.5x).
+* <strong>"Growth at a fair price"</strong>: TSE (2026E OP +82%, PER 29.4x).
+* <strong>Bottom line</strong>: within AI back-end, attractiveness ranks <strong>substrates > test sockets > memory megas</strong>. Within substrates, Daeduck and Simmtech are the cleanest.
 
 ---
 
@@ -100,19 +100,19 @@ a 2027E PER × 2027E OP YoY matrix.
 
 ### 2.1 The basic comparison
 
-| Bucket | Name | 2025 return | 2026 YTD | 2025 OP YoY | 2026E OP YoY | 2027E OP YoY | 2026E PER | **2027E PER** | 2026E OPM |
+| Bucket | Name | 2025 return | 2026 YTD | 2025 OP YoY | 2026E OP YoY | 2027E OP YoY | 2026E PER | <strong>2027E PER</strong> | 2026E OPM |
 | --- | --- | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
-| Memory | Samsung Electronics | +124.5% | +125.6% | +33.2% | +688.6% | +26.7% | 7.0x | **5.6x** | 51.1% |
-| Memory | SK hynix | +280.3% | +179.4% | +101.2% | +433.1% | +36.0% | 6.8x | **5.2x** | 75.9% |
+| Memory | Samsung Electronics | +124.5% | +125.6% | +33.2% | +688.6% | +26.7% | 7.0x | <strong>5.6x</strong> | 51.1% |
+| Memory | SK hynix | +280.3% | +179.4% | +101.2% | +433.1% | +36.0% | 6.8x | <strong>5.2x</strong> | 75.9% |
 | Memory | Jeju Semiconductor | +186.4% | +212.3% | +274.0% | n/a | n/a | n/a | n/a | n/a |
-| Test socket | LEENO Industrial | +52.1% | +67.5% | +42.5% | +23.2% | +24.1% | 41.2x | **33.4x** | 48.6% |
-| Test socket | ISC | +58.7% | +102.1% | +34.2% | +65.9% | +41.4% | 58.5x | **43.2x** | 31.8% |
-| Test socket | TSE | +39.5% | +215.1% | +23.3% | +81.9% | +21.5% | 29.4x | **24.7x** | 17.0% |
-| Substrate | Samsung Electro-Mechanics | +108.3% | +296.1% | +24.3% | +72.0% | +50.0% | 61.9x | **41.9x** | 11.8% |
-| Substrate | Daeduck Electronics | +206.0% | +188.3% | +334.5% | +375.4% | +34.4% | 36.1x | **27.1x** | 15.5% |
-| Substrate | Simmtech | +351.9% | +103.2% | loss→profit | +1,234.5% | +58.7% | 31.0x | **20.0x** | 8.6% |
-| Substrate | Haesung DS | +140.6% | +57.3% | -18.3% | +99.6% | +36.6% | 20.3x | **15.4x** | 11.4% |
-| Substrate | Isu Petasys | +346.5% | +7.4% | +100.9% | +57.1% | +33.0% | 35.6x | **26.7x** | 21.1% |
+| Test socket | LEENO Industrial | +52.1% | +67.5% | +42.5% | +23.2% | +24.1% | 41.2x | <strong>33.4x</strong> | 48.6% |
+| Test socket | ISC | +58.7% | +102.1% | +34.2% | +65.9% | +41.4% | 58.5x | <strong>43.2x</strong> | 31.8% |
+| Test socket | TSE | +39.5% | +215.1% | +23.3% | +81.9% | +21.5% | 29.4x | <strong>24.7x</strong> | 17.0% |
+| Substrate | Samsung Electro-Mechanics | +108.3% | +296.1% | +24.3% | +72.0% | +50.0% | 61.9x | <strong>41.9x</strong> | 11.8% |
+| Substrate | Daeduck Electronics | +206.0% | +188.3% | +334.5% | +375.4% | +34.4% | 36.1x | <strong>27.1x</strong> | 15.5% |
+| Substrate | Simmtech | +351.9% | +103.2% | loss→profit | +1,234.5% | +58.7% | 31.0x | <strong>20.0x</strong> | 8.6% |
+| Substrate | Haesung DS | +140.6% | +57.3% | -18.3% | +99.6% | +36.6% | 20.3x | <strong>15.4x</strong> | 11.4% |
+| Substrate | Isu Petasys | +346.5% | +7.4% | +100.9% | +57.1% | +33.0% | 35.6x | <strong>26.7x</strong> | 21.1% |
 
 ### 2.2 How to read it
 
@@ -378,17 +378,17 @@ Allocation rules:
 
 | Rank | Name | One-liner |
 | ---: | --- | --- |
-| 1 | **Daeduck Electronics** | Best balance of growth, leadership, and multiple. Direct AI MLB / FC-BGA beta. |
-| 2 | **Simmtech** | Best growth-vs-PER setup on 2027E. Needs further 2026 margin expansion to confirm. |
-| 3 | **Haesung DS** | Cheapest substrate candidate. Less leadership profile, but strong value-for-growth. |
-| 4 | **SK hynix** | The memory leader. Cheap on screens; cycle-peak risk is the swing variable. |
-| 5 | **TSE** | Best value-for-growth within the test-interface group. But 2026 YTD +215% — already in motion. |
-| 6 | **LEENO Industrial** | Top quality, full multiple. Best as a core 1–2 year holding. |
-| 7 | **Samsung Electro-Mechanics** | A great company, but +296% YTD and 2026E PER 61.9x make chasing inefficient. |
-| 8 | **ISC** | Real growth, but tightest multiple. Cleanest AI data-center beta. |
-| 9 | **Isu Petasys** | Strong long-term structure, but +7% YTD — wait for relative-strength recovery. |
-| 10 | **Samsung Electronics** | Cheap on numbers, but discount vs. SK hynix on the HBM narrative is real. |
-| 11 | **Jeju Semiconductor** | Strong stock and earnings, but no 2026–27 consensus → excluded from direct compare. |
+| 1 | <strong>Daeduck Electronics</strong> | Best balance of growth, leadership, and multiple. Direct AI MLB / FC-BGA beta. |
+| 2 | <strong>Simmtech</strong> | Best growth-vs-PER setup on 2027E. Needs further 2026 margin expansion to confirm. |
+| 3 | <strong>Haesung DS</strong> | Cheapest substrate candidate. Less leadership profile, but strong value-for-growth. |
+| 4 | <strong>SK hynix</strong> | The memory leader. Cheap on screens; cycle-peak risk is the swing variable. |
+| 5 | <strong>TSE</strong> | Best value-for-growth within the test-interface group. But 2026 YTD +215% — already in motion. |
+| 6 | <strong>LEENO Industrial</strong> | Top quality, full multiple. Best as a core 1–2 year holding. |
+| 7 | <strong>Samsung Electro-Mechanics</strong> | A great company, but +296% YTD and 2026E PER 61.9x make chasing inefficient. |
+| 8 | <strong>ISC</strong> | Real growth, but tightest multiple. Cleanest AI data-center beta. |
+| 9 | <strong>Isu Petasys</strong> | Strong long-term structure, but +7% YTD — wait for relative-strength recovery. |
+| 10 | <strong>Samsung Electronics</strong> | Cheap on numbers, but discount vs. SK hynix on the HBM narrative is real. |
+| 11 | <strong>Jeju Semiconductor</strong> | Strong stock and earnings, but no 2026–27 consensus → excluded from direct compare. |
 
 ### 6.2 Pre-entry checklist
 
@@ -522,15 +522,15 @@ KOSPI crash + macro-gate post:
 
 ## 9. The one-line bottom line
 
-Even among "AI back-end winners," how much price has already done the work differs wildly. **Low PER alone ≠ attractive.** Low PER can mean "the market fears the cycle is topping" (memory) or "the market hasn't bought in yet" (turnaround names).
+Even among "AI back-end winners," how much price has already done the work differs wildly. <strong>Low PER alone ≠ attractive.</strong> Low PER can mean "the market fears the cycle is topping" (memory) or "the market hasn't bought in yet" (turnaround names).
 
-Lined up in one table, the picture is clear. On a **PER × OP-growth** matrix, the sharpest setups are **Simmtech, Daeduck Electronics, and Haesung DS**. All three are substrate names — that is not an accident. Substrates are in the middle of a "shortage → ASP hike → margin expansion" cycle.
+Lined up in one table, the picture is clear. On a <strong>PER × OP-growth</strong> matrix, the sharpest setups are <strong>Simmtech, Daeduck Electronics, and Haesung DS</strong>. All three are substrate names — that is not an accident. Substrates are in the middle of a "shortage → ASP hike → margin expansion" cycle.
 
-Within test sockets, **LEENO Industrial is the quality leader but the multiple is full; ISC is the cleanest AI data-center beta but carries the tightest multiple**. For best price-for-growth on a new entry, **TSE** is the value option.
+Within test sockets, <strong>LEENO Industrial is the quality leader but the multiple is full; ISC is the cleanest AI data-center beta but carries the tightest multiple</strong>. For best price-for-growth on a new entry, <strong>TSE</strong> is the value option.
 
-Memory megas show **stunning numbers but a cycle-peak debate** at their core. SK hynix's 2027E PER 5.2x would imply bankruptcy risk in a normal industry; in memory it means "the market doubts earnings durability." If the cycle persists, the upside is huge; the moment it turns, the multiple expands automatically.
+Memory megas show <strong>stunning numbers but a cycle-peak debate</strong> at their core. SK hynix's 2027E PER 5.2x would imply bankruptcy risk in a normal industry; in memory it means "the market doubts earnings durability." If the cycle persists, the upside is huge; the moment it turns, the multiple expands automatically.
 
-**At today's prices, the rational order for new capital is substrates > test sockets > memory megas.** Within substrates, **Daeduck Electronics (leadership premium) and Simmtech (turnaround value)** are the cleanest. Whatever you choose, **scale in only after the macro gate clears**. Buying a great company at the right price is the actual job.
+<strong>At today's prices, the rational order for new capital is substrates > test sockets > memory megas.</strong> Within substrates, <strong>Daeduck Electronics (leadership premium) and Simmtech (turnaround value)</strong> are the cleanest. Whatever you choose, <strong>scale in only after the macro gate clears</strong>. Buying a great company at the right price is the actual job.
 
 ---
 

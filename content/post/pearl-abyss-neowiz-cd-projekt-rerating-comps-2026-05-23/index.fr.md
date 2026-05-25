@@ -22,20 +22,20 @@ valley_cashtags:
 draft: false
 ---
 
-> **Pearl Abyss × Crimson Desert — Série**
+> <strong>Pearl Abyss × Crimson Desert — Série</strong>
 > [L'argent intelligent du KOSDAQ et le setup de rebond Pearl Abyss](/post/kosdaq-smart-money-return-pearl-abyss-rebound-2026-05-22/) / [Test du creux de flux](/post/pearl-abyss-flow-bottom-test-2026-05-18/) / [Copies comptabilisées au 1T et la falaise 2027](/post/pearl-abyss-1q26-recognized-sales-2027-cliff-2026-05-17/) / [Ce que le commentaire DLC signifie vraiment](/post/pearl-abyss-dlc-package-to-franchise-rerating-2026-05-15/) / [Hub Pearl Abyss](/page/pearl-abyss-crimson-desert-hub/)
 
 *Pearl Abyss n'est pas valorisé comme si Crimson Desert avait échoué. Il est valorisé comme si le marché acceptait le succès de Crimson Desert, mais continuait à le traiter comme un événement isolé en 2026. Le comparable domestique le plus proche est Neowiz après Lies of P. Le comparable structurel le plus important est CD Projekt autour de la reprise de Cyberpunk 2077 et de Phantom Liberty. Capcom n'est pas le comparable d'aujourd'hui — c'est le modèle que Pearl Abyss cherche à rejoindre.*
 
 ## Points clés
 
-- **Le comparable coréen le plus proche est Neowiz.** Lies of P a dépassé 1 million d'exemplaires en un mois et rendu Neowiz profitable au 3T23, mais le marché n'a pas immédiatement accordé un multiple d'IP mondiale. Un bon jeu et une franchise répétable sont valorisés très différemment. ([IR Neowiz 3T23][1])
-- **Le comparable étranger de référence est CD Projekt.** Cyberpunk 2077 a perdu la confiance du marché à sa sortie, puis l'a regagnée grâce aux correctifs, à la mise à jour 2.0 et à Phantom Liberty. Phantom Liberty a dépassé 4,3 millions d'exemplaires en deux mois. ([CD Projekt][2])
-- **Capcom est le modèle cible, pas le comparable actuel.** Capcom dispose déjà d'une IP validée mondialement, de lancements répétés et de ventes longue traîne. Monster Hunter: World affiche 22,1 millions d'unités, soit 29,6 millions avec Iceborne Master Edition. ([Capcom][3])
-- **Pearl Abyss est à une échelle supérieure à Neowiz.** Crimson Desert a officiellement dépassé 5 millions d'exemplaires et atteint un pic de 276 261 joueurs simultanés sur Steam. Le chiffre d'affaires Crimson Desert de Pearl Abyss au 1T26 s'est établi à KRW 266,5 milliards. ([Pearl Abyss][4]) ([Lettre de résultats 1T26][5])
-- **Mais la question du marché reste similaire.** La société peut-elle dégager des bénéfices en 2027 ? Quel est le calendrier DLC ? Quand DokeV deviendra-t-il visible ? Les flux de trésorerie seront-ils redistribués aux actionnaires ?
+- <strong>Le comparable coréen le plus proche est Neowiz.</strong> Lies of P a dépassé 1 million d'exemplaires en un mois et rendu Neowiz profitable au 3T23, mais le marché n'a pas immédiatement accordé un multiple d'IP mondiale. Un bon jeu et une franchise répétable sont valorisés très différemment. ([IR Neowiz 3T23][1])
+- <strong>Le comparable étranger de référence est CD Projekt.</strong> Cyberpunk 2077 a perdu la confiance du marché à sa sortie, puis l'a regagnée grâce aux correctifs, à la mise à jour 2.0 et à Phantom Liberty. Phantom Liberty a dépassé 4,3 millions d'exemplaires en deux mois. ([CD Projekt][2])
+- <strong>Capcom est le modèle cible, pas le comparable actuel.</strong> Capcom dispose déjà d'une IP validée mondialement, de lancements répétés et de ventes longue traîne. Monster Hunter: World affiche 22,1 millions d'unités, soit 29,6 millions avec Iceborne Master Edition. ([Capcom][3])
+- <strong>Pearl Abyss est à une échelle supérieure à Neowiz.</strong> Crimson Desert a officiellement dépassé 5 millions d'exemplaires et atteint un pic de 276 261 joueurs simultanés sur Steam. Le chiffre d'affaires Crimson Desert de Pearl Abyss au 1T26 s'est établi à KRW 266,5 milliards. ([Pearl Abyss][4]) ([Lettre de résultats 1T26][5])
+- <strong>Mais la question du marché reste similaire.</strong> La société peut-elle dégager des bénéfices en 2027 ? Quel est le calendrier DLC ? Quand DokeV deviendra-t-il visible ? Les flux de trésorerie seront-ils redistribués aux actionnaires ?
 
-Conclusion : Pearl Abyss se situe entre une **décote à la Neowiz** et un **chemin de re-rating à la CD Projekt**. Le succès de Crimson Desert est déjà établi. Les prochaines preuves attendues sont : 6 millions d'exemplaires officiels, la visibilité DLC/extension, la visibilité DokeV et l'allocation du capital.
+Conclusion : Pearl Abyss se situe entre une <strong>décote à la Neowiz</strong> et un <strong>chemin de re-rating à la CD Projekt</strong>. Le succès de Crimson Desert est déjà établi. Les prochaines preuves attendues sont : 6 millions d'exemplaires officiels, la visibilité DLC/extension, la visibilité DokeV et l'allocation du capital.
 
 ---
 
@@ -134,7 +134,7 @@ Mais la question de décote du marché reste similaire.
 | Le DLC est-il quantifié ? | Faible | Encore faible |
 | Le calendrier du prochain titre est-il visible ? | Faible | Preuve DokeV nécessaire |
 
-Le risque est une décote à la Neowiz : **un bon jeu, de bonnes critiques, de solides ventes au lancement et un retour à la rentabilité ne suffisent pas** tant que le marché n'aperçoit pas les résultats de l'année prochaine et un chemin de franchise répétable.
+Le risque est une décote à la Neowiz : <strong>un bon jeu, de bonnes critiques, de solides ventes au lancement et un retour à la rentabilité ne suffisent pas</strong> tant que le marché n'aperçoit pas les résultats de l'année prochaine et un chemin de franchise répétable.
 
 ---
 
@@ -144,7 +144,7 @@ CD Projekt est le comparable structurel le plus important. La direction est diff
 
 Le communiqué 3T23 de CD Projekt indique que Phantom Liberty a été lancé le 26 septembre 2023 et a dépassé 4,3 millions d'exemplaires en deux mois. La société a également précisé que la mise à jour 2.0 et Phantom Liberty avaient relevé la qualité de l'expérience Night City, tandis que le chiffre d'affaires 3T23 atteignait PLN 443 millions et le bénéfice net PLN 203 millions. ([CD Projekt][2])
 
-C'est le chemin central : **correctifs → reconquête de la confiance → ventes d'extension → durabilité de l'IP**.
+C'est le chemin central : <strong>correctifs → reconquête de la confiance → ventes d'extension → durabilité de l'IP</strong>.
 
 | Axe | CD Projekt | Pearl Abyss |
 |---|---|---|
@@ -155,7 +155,7 @@ C'est le chemin central : **correctifs → reconquête de la confiance → vente
 
 La différence est notable. CD Projekt opérait une reprise après un lancement raté. Pearl Abyss, lui, part d'un lancement réussi dont la répétabilité n'est pas encore reconnue.
 
-Pearl Abyss n'est donc pas décoté parce qu'il est plus faible. Il est décoté parce que le marché attend le prochain point de preuve à la CD Projekt : **DLC, extension et visibilité du prochain titre**.
+Pearl Abyss n'est donc pas décoté parce qu'il est plus faible. Il est décoté parce que le marché attend le prochain point de preuve à la CD Projekt : <strong>DLC, extension et visibilité du prochain titre</strong>.
 
 ---
 
@@ -248,7 +248,7 @@ Un retour aux actionnaires issu des produits CCP ou une annulation d'actions pro
 
 ## Lecture finale
 
-Pearl Abyss n'est pas valorisé comme une société dont le jeu a échoué. Il est valorisé comme une société disposant d'**un seul jeu réussi qui n'a pas encore été reconnu comme une société plateforme**.
+Pearl Abyss n'est pas valorisé comme une société dont le jeu a échoué. Il est valorisé comme une société disposant d'<strong>un seul jeu réussi qui n'a pas encore été reconnu comme une société plateforme</strong>.
 
 L'analogie la plus limpide est :
 

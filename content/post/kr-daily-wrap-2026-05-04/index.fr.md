@@ -20,7 +20,7 @@ draft: false
 | USD/KRW | 1 472 | −0,1 % | → Stable |
 | Brent | 111,9 $ | −5,2 % | 📉 Repli |
 
-**Verdict :** Corée → **Bull** | États-Unis → **Neutre** | Biais opérationnel : surpondérer la Corée de façon sélective. L'écart de dynamique entre le KOSPI (+4,9 %) et le KOSDAQ (−1,0 %) sur cinq jours signale une rotation vers les grandes capitalisations. Le repli du Brent (−5,2 %) allège la pression sur les marges industrielles et contribue à l'appétit au risque.
+<strong>Verdict :</strong> Corée → <strong>Bull</strong> | États-Unis → <strong>Neutre</strong> | Biais opérationnel : surpondérer la Corée de façon sélective. L'écart de dynamique entre le KOSPI (+4,9 %) et le KOSDAQ (−1,0 %) sur cinq jours signale une rotation vers les grandes capitalisations. Le repli du Brent (−5,2 %) allège la pression sur les marges industrielles et contribue à l'appétit au risque.
 
 ---
 
@@ -30,13 +30,13 @@ La session du 4 mai a été franchement risk-on. À 14h15 KST, le KOSPI affichai
 
 La clé de lecture, c'est la nature du flux. Les étrangers ont acheté +2,72 billions de KRW en net sur le KOSPI au comptant, et les institutionnels ont ajouté +1,55 billion supplémentaire. Ce type de double achat massif, étranger et institutionnel conjoint, est caractéristique d'une réévaluation fondamentale plutôt que d'un positionnement tactique court terme.
 
-**Secteurs en tête :** semi-conducteurs et infrastructure AI, équipements électriques haute tension, courtage. Ces trois thèmes partagent un fil conducteur : l'essor des dépenses de capex des grands fournisseurs cloud. Les quatre principaux hyperscalers américains ont relevé leur budget d'investissement 2026 à 700 milliards de dollars ; la chaîne de valeur des centres de données — mémoire HBM, alimentation électrique, substrats — en bénéficie directement en Corée.
+<strong>Secteurs en tête :</strong> semi-conducteurs et infrastructure AI, équipements électriques haute tension, courtage. Ces trois thèmes partagent un fil conducteur : l'essor des dépenses de capex des grands fournisseurs cloud. Les quatre principaux hyperscalers américains ont relevé leur budget d'investissement 2026 à 700 milliards de dollars ; la chaîne de valeur des centres de données — mémoire HBM, alimentation électrique, substrats — en bénéficie directement en Corée.
 
-**Secteurs à la traîne :** construction résidentielle, immobilier, papier et bois. Ces segments restent sous pression dans un environnement de taux élevés (US 10 ans à 4,38 %).
+<strong>Secteurs à la traîne :</strong> construction résidentielle, immobilier, papier et bois. Ces segments restent sous pression dans un environnement de taux élevés (US 10 ans à 4,38 %).
 
 Sur le front macro, la décision de l'OPEP+ d'augmenter sa production et l'initiative américaine "Project Freedom" ont contribué à faire refluer le Brent de 5,2 %, ce qui allège légèrement la contrainte pétrolière sur le secteur manufacturier coréen. Le risque résiduel d'érosion de la demande mondiale reste néanmoins présent tant que le brut se maintient au-dessus de 100 dollars.
 
-**Avertissement de timing :** la hausse intervient la veille d'un jour férié coréen (5 mai). Un suivi de confirmation lundi — en particulier sur la persistance des flux étrangers — sera nécessaire avant de considérer que cette dynamique est durable.
+<strong>Avertissement de timing :</strong> la hausse intervient la veille d'un jour férié coréen (5 mai). Un suivi de confirmation lundi — en particulier sur la persistance des flux étrangers — sera nécessaire avant de considérer que cette dynamique est durable.
 
 ---
 
@@ -63,15 +63,15 @@ Sur le front macro, la décision de l'OPEP+ d'augmenter sa production et l'initi
 
 ### Focus sur les trois premiers candidats
 
-**1. SK Hynix (000660.KS) — Score 100,1 | 4 screeners**
+<strong>1. SK Hynix (000660.KS) — Score 100,1 | 4 screeners</strong>
 
 Chef de file mondial de la mémoire HBM, SK Hynix est le candidat le mieux noté de loin. Les trois couches de la logique sont toutes vertes : la qualité fondamentale d'abord (ROE 44,1 %, marge opérationnelle +13,1 points de pourcentage en un an) ; les flux ensuite, avec +3 194 milliards de KRW de flux nets étrangers et institutionnels sur cinq jours, ce qui représente l'un des niveaux les plus élevés du marché coréen ; la réévaluation enfin, avec une progression du résultat opérationnel de +101 % en rythme annuel et des révisions de consensus à la hausse. La seule note de prudence porte sur une publication DART classée comme risque — à vérifier avant d'agir.
 
-**2. Bosung Powertech (006910.KS) — Score 86,3 | 4 screeners**
+<strong>2. Bosung Powertech (006910.KS) — Score 86,3 | 4 screeners</strong>
 
 Fabricant d'équipements structuraux métalliques pour l'infrastructure électrique. La progression du résultat opérationnel de +458 % en un an reflète un levier opérationnel exceptionnel sur une base basse, avec une marge qui s'est redressée de +11,9 points. La société est classée n°3 dans le Quality Compounder et n°2 dans le Smart Money Quality, avec des achats nets institutionnels confirmés. Point de surveillance : le titre est proche de ses sommets et a déjà fortement progressé — attendre une consolidation avant d'envisager un suivi.
 
-**3. Pharms Cell (005690.KS) — Score 74,7 | 3 screeners**
+<strong>3. Pharms Cell (005690.KS) — Score 74,7 | 3 screeners</strong>
 
 Fabricant de composants électroniques avec une dynamique de résultats remarquable (+629,8 % de croissance opérationnelle). Le ROE de 38,3 % est élevé pour le secteur. Les flux sont constructifs : étrangers et institutionnels en achat net simultané. La position de la valeur dans le screener Smart Money Quality (n°1 parmi 17 candidats) confirme que l'argent institutionnel s'intéresse activement à ce dossier. À surveiller : confirmation de la croissance organique lors des résultats du premier trimestre 2026 et validation des contrats en cours avant toute exposition pleine taille.
 

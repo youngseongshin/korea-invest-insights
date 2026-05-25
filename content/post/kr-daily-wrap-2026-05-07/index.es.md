@@ -20,23 +20,23 @@ draft: false
 | US 10Y | 4,36% | −0,03 pp | → Neutro |
 | Brent | 98,5 USD | −13,9% | 📉 Retrocede |
 
-**Régimen:** Corea **Bull** · EE.UU. **Bull**. Ambos mercados en modo expansión simultánea; stance: ampliar posiciones activamente.
+<strong>Régimen:</strong> Corea <strong>Bull</strong> · EE.UU. <strong>Bull</strong>. Ambos mercados en modo expansión simultánea; stance: ampliar posiciones activamente.
 
 ---
 
 ## 2. Cierre del Mercado Coreano — 7 de mayo de 2026
 
-El KOSPI Korea stock market cerró en 7.490,05 (+1,43%), con un volumen negociado de 49,8 billones de wones, nivel que confirma participación institucional activa. El KOSDAQ, en cambio, cedió un 0,91% hasta 1.199,18. La brecha de rendimiento a cinco días entre ambos índices alcanzó 13,7 puntos porcentuales: una sesión de **riesgo concentrado**, no de amplia participación.
+El KOSPI Korea stock market cerró en 7.490,05 (+1,43%), con un volumen negociado de 49,8 billones de wones, nivel que confirma participación institucional activa. El KOSDAQ, en cambio, cedió un 0,91% hasta 1.199,18. La brecha de rendimiento a cinco días entre ambos índices alcanzó 13,7 puntos porcentuales: una sesión de <strong>riesgo concentrado</strong>, no de amplia participación.
 
-**Sectores fuertes.** Semiconductores e infraestructura de IA encabezaron el avance con claridad. Samsung Electronics (005930.KS) subió +2,07% y marcó nuevos máximos de 52 semanas. Los segmentos de energía eléctrica, astilleros selectivos y corredurías bursátiles también cerraron en positivo. El catalizador del día fue la reorganización del ETF KODEX AI반도체, que concentrará un 50% conjunto entre Samsung Electronics y SK Hynix (000660.KS), reforzando el discurso de ambas como infraestructura core del ciclo de IA.
+<strong>Sectores fuertes.</strong> Semiconductores e infraestructura de IA encabezaron el avance con claridad. Samsung Electronics (005930.KS) subió +2,07% y marcó nuevos máximos de 52 semanas. Los segmentos de energía eléctrica, astilleros selectivos y corredurías bursátiles también cerraron en positivo. El catalizador del día fue la reorganización del ETF KODEX AI반도체, que concentrará un 50% conjunto entre Samsung Electronics y SK Hynix (000660.KS), reforzando el discurso de ambas como infraestructura core del ciclo de IA.
 
 Samsung Electro-Mechanics (009150.KS) avanzó +0,55% y se consolida en zona de máximos históricos. Mirae Asset elevó su precio objetivo de 530.000 a 1.300.000 wones, citando expansión de CAPEX en FC-BGA, placas de circuito para servidores de IA y alza de precios de MLCC para inteligencia artificial. El mercado empieza a re-catalogar el valor como proveedor de infraestructura de IA, no como fabricante de componentes convencionales. Los comentarios sobre Arista Networks y la interconexión óptica CPO confirman cuellos de botella que favorecen a fabricantes coreanos de sustratos y componentes ópticos: Simmtech, Daeduck Electronics (대덕전자).
 
-**Sectores débiles.** Pequeña capitalización del KOSDAQ, biotecnología y videojuegos cerraron rezagados. Los nombres cuyos catalizadores de eventos ya estaban descontados sufrieron distribución.
+<strong>Sectores débiles.</strong> Pequeña capitalización del KOSDAQ, biotecnología y videojuegos cerraron rezagados. Los nombres cuyos catalizadores de eventos ya estaban descontados sufrieron distribución.
 
-**Flujos institucionales.** Los institucionales compraron semiconductores de forma selectiva: Samsung Electronics recibió compra neta institucional de +168.700 millones de wones, aunque los extranjeros vendieron en términos netos −2,8 billones de wones en la misma sesión. Esta divergencia precio-flujo merece seguimiento. El riesgo geopolítico —posible cierre del estrecho de Ormuz— permaneció en el radar, pero el mercado lo ignoró frente a la fortaleza del flujo hacia infraestructura de IA y la caída del petróleo Brent.
+<strong>Flujos institucionales.</strong> Los institucionales compraron semiconductores de forma selectiva: Samsung Electronics recibió compra neta institucional de +168.700 millones de wones, aunque los extranjeros vendieron en términos netos −2,8 billones de wones en la misma sesión. Esta divergencia precio-flujo merece seguimiento. El riesgo geopolítico —posible cierre del estrecho de Ormuz— permaneció en el radar, pero el mercado lo ignoró frente a la fortaleza del flujo hacia infraestructura de IA y la caída del petróleo Brent.
 
-**Diagnóstico.** Sesión selectivamente alcista. El dinero fue hacia líderes de semiconductores con fundamentos sólidos; los rezagados sin catalizador visible acumularon papel.
+<strong>Diagnóstico.</strong> Sesión selectivamente alcista. El dinero fue hacia líderes de semiconductores con fundamentos sólidos; los rezagados sin catalizador visible acumularon papel.
 
 ---
 
@@ -60,13 +60,13 @@ El meta-screener consolida cinco capas de análisis: calidad del negocio (Qualit
 
 ### Contexto para los Tres Primeros
 
-**#1 — RFHIC (218410.KQ) | Puntuación 93,0 | 5 screeners**
-RFHIC fabrica componentes de radiofrecuencia en nitruro de galio (GaN) para telecomunicaciones y defensa. Es el único nombre que activa los cinco screeners hoy. La lógica es completa: negocio de calidad estructural, dinero institucional entrando (+274.800 millones de wones netos en cinco días), margen operativo con expansión de 15,3 puntos porcentuales, beneficio operativo YoY +1.960%, y el mercado aún no ha terminado de repreciar la historia (PEAD activo, RS 99). El resultado provisional del 27 de abril fue el detonador. **Verificar a continuación:** sostenibilidad del margen GaN, ciclo de pedidos de defensa, confirmación de flujo en los próximos dos o tres días.
+<strong>#1 — RFHIC (218410.KQ) | Puntuación 93,0 | 5 screeners</strong>
+RFHIC fabrica componentes de radiofrecuencia en nitruro de galio (GaN) para telecomunicaciones y defensa. Es el único nombre que activa los cinco screeners hoy. La lógica es completa: negocio de calidad estructural, dinero institucional entrando (+274.800 millones de wones netos en cinco días), margen operativo con expansión de 15,3 puntos porcentuales, beneficio operativo YoY +1.960%, y el mercado aún no ha terminado de repreciar la historia (PEAD activo, RS 99). El resultado provisional del 27 de abril fue el detonador. <strong>Verificar a continuación:</strong> sostenibilidad del margen GaN, ciclo de pedidos de defensa, confirmación de flujo en los próximos dos o tres días.
 
-**#2 — 원익IPS (240810.KQ) | Puntuación 64,9 | 4 screeners**
-원익IPS suministra equipos de deposición de semiconductores (CVD/ALD) al ecosistema de fabricación de chips coreano. Activa cuatro screeners: flujo positivo (F+I +262.500 millones de wones), ciclo mejora (margen +6,7pp, beneficio operativo YoY +596%), PEAD activo (RS 98). La ausencia del screener Quality Compounder es la diferencia con RFHIC: el ROE del 9% es más modesto. **Verificar a continuación:** resultados definitivos pendientes (comunicado DART del 29 de abril), cartera de pedidos de equipos de proceso.
+<strong>#2 — 원익IPS (240810.KQ) | Puntuación 64,9 | 4 screeners</strong>
+원익IPS suministra equipos de deposición de semiconductores (CVD/ALD) al ecosistema de fabricación de chips coreano. Activa cuatro screeners: flujo positivo (F+I +262.500 millones de wones), ciclo mejora (margen +6,7pp, beneficio operativo YoY +596%), PEAD activo (RS 98). La ausencia del screener Quality Compounder es la diferencia con RFHIC: el ROE del 9% es más modesto. <strong>Verificar a continuación:</strong> resultados definitivos pendientes (comunicado DART del 29 de abril), cartera de pedidos de equipos de proceso.
 
-**#3 — HD한국조선해양 (009540.KS) | Puntuación 61,0 | 4 screeners**
-HD Korea Shipbuilding & Offshore Engineering es el holding de astilleros más grande de Corea. Publicó resultados provisionales el 7 de mayo (catalizador DART confirmado): beneficio operativo YoY +172%, margen +7,4pp. El flujo institucional y extranjero es positivo neto (+205.800 millones de wones a cinco días). Riesgo a vigilar: la posición corta equivale al 5,8% del capital flotante, lo que puede amplificar movimientos en ambas direcciones. **Verificar a continuación:** revisiones de consenso post-publicación, cartera de pedidos 2026-2027 en LNG y portacontenedores.
+<strong>#3 — HD한국조선해양 (009540.KS) | Puntuación 61,0 | 4 screeners</strong>
+HD Korea Shipbuilding & Offshore Engineering es el holding de astilleros más grande de Corea. Publicó resultados provisionales el 7 de mayo (catalizador DART confirmado): beneficio operativo YoY +172%, margen +7,4pp. El flujo institucional y extranjero es positivo neto (+205.800 millones de wones a cinco días). Riesgo a vigilar: la posición corta equivale al 5,8% del capital flotante, lo que puede amplificar movimientos en ambas direcciones. <strong>Verificar a continuación:</strong> revisiones de consenso post-publicación, cartera de pedidos 2026-2027 en LNG y portacontenedores.
 
-> **Nota editorial:** Los nombres con una sola señal no aparecen como candidatos principales en esta edición. Universo cubierto: 130 tickers; los 20 primeros del meta-screener son los publicados. Esta selección es una cola de investigación, no una recomendación de compra.
+> <strong>Nota editorial:</strong> Los nombres con una sola señal no aparecen como candidatos principales en esta edición. Universo cubierto: 130 tickers; los 20 primeros del meta-screener son los publicados. Esta selección es una cola de investigación, no una recomendación de compra.

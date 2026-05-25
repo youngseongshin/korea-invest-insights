@@ -32,20 +32,20 @@ draft: false
 
 La note précédente sur le KOSDAQ soulignait une divergence : les prix restent faibles, mais les flux étrangers, programmatiques et de fonds domestiques commencent à s'améliorer. Cette note ajoute la couche de capital public. Si l'argent revient vers le KOSDAQ, quels canaux de politique industrielle et quels goulets d'étranglement peuvent réellement l'absorber ?
 
-La réponse courte : le Fonds national de croissance n'est pas une promesse que l'État achètera l'indice KOSDAQ. C'est plutôt un outil qui réduit le coût du capital dans les industries stratégiques et débloque des décisions de scale-up ou d'investissement industriel. La bonne question n'est donc pas « quelles actions portent l'étiquette politique ? », mais **quels goulets d'étranglement peuvent transformer ce capital en commandes, capacité, chiffre d'affaires et bénéfices**.
+La réponse courte : le Fonds national de croissance n'est pas une promesse que l'État achètera l'indice KOSDAQ. C'est plutôt un outil qui réduit le coût du capital dans les industries stratégiques et débloque des décisions de scale-up ou d'investissement industriel. La bonne question n'est donc pas « quelles actions portent l'étiquette politique ? », mais <strong>quels goulets d'étranglement peuvent transformer ce capital en commandes, capacité, chiffre d'affaires et bénéfices</strong>.
 
 ## Résumé
 
-- **Il faut séparer les couches chiffrées.** Le Fonds national de croissance total dépasse **₩150 000 milliards** sur cinq ans, avec ₩75 000 milliards du Fonds pour les industries stratégiques avancées et au moins ₩75 000 milliards de capitaux privés, de fonds de pension, d'institutions financières et du public. [FSC][1]
-- **Le plan 2026 est de ₩30 000 milliards+.** Il comprend ₩3 000 milliards d'investissement direct, ₩7 000 milliards d'investissement indirect, ₩10 000 milliards de financement d'infrastructures et ₩10 000 milliards de prêts à taux très bas. [FSC][2]
-- **Le paquet de ₩50 000 milliards+ annoncé en avril 2026 est une couche séparée pour l'écosystème industriel avancé.** Il repose surtout sur ₩35 000 milliards d'investissement indirect et ₩15 000 milliards+ d'investissement direct. [FSC][3]
-- **Les ₩6 600 milliards du premier tour ne sont pas le total des sept premiers mégaprojets.** C'est le montant de soutien approuvé entre janvier et mars 2026 : Shinan Ui ₩3 400 milliards, matériaux de batteries Ulsan ₩100 milliards, base de semi-conducteurs IA à Pyeongtaek ₩2 500 milliards, et Rebellions ₩600 milliards. [FSC][3]
-- **Pour le KOSDAQ, la structure d'investissement indirect compte le plus.** Le FSC mentionne les entreprises Pre-IPO, les sociétés récemment cotées sur le KOSDAQ, les fonds M&A, les restructurations, les fonds KOSDAQ et les fonds régionaux. [FSC][3]
-- **Les meilleures idées cotées sont des fournisseurs de goulets d'étranglement, pas des paniers thématiques.** Électricité, services de conception de semi-conducteurs IA, équipements OLED, packaging, substrats, tests et biotech de phase avancée sont les zones à surveiller.
+- <strong>Il faut séparer les couches chiffrées.</strong> Le Fonds national de croissance total dépasse <strong>₩150 000 milliards</strong> sur cinq ans, avec ₩75 000 milliards du Fonds pour les industries stratégiques avancées et au moins ₩75 000 milliards de capitaux privés, de fonds de pension, d'institutions financières et du public. [FSC][1]
+- <strong>Le plan 2026 est de ₩30 000 milliards+.</strong> Il comprend ₩3 000 milliards d'investissement direct, ₩7 000 milliards d'investissement indirect, ₩10 000 milliards de financement d'infrastructures et ₩10 000 milliards de prêts à taux très bas. [FSC][2]
+- <strong>Le paquet de ₩50 000 milliards+ annoncé en avril 2026 est une couche séparée pour l'écosystème industriel avancé.</strong> Il repose surtout sur ₩35 000 milliards d'investissement indirect et ₩15 000 milliards+ d'investissement direct. [FSC][3]
+- <strong>Les ₩6 600 milliards du premier tour ne sont pas le total des sept premiers mégaprojets.</strong> C'est le montant de soutien approuvé entre janvier et mars 2026 : Shinan Ui ₩3 400 milliards, matériaux de batteries Ulsan ₩100 milliards, base de semi-conducteurs IA à Pyeongtaek ₩2 500 milliards, et Rebellions ₩600 milliards. [FSC][3]
+- <strong>Pour le KOSDAQ, la structure d'investissement indirect compte le plus.</strong> Le FSC mentionne les entreprises Pre-IPO, les sociétés récemment cotées sur le KOSDAQ, les fonds M&A, les restructurations, les fonds KOSDAQ et les fonds régionaux. [FSC][3]
+- <strong>Les meilleures idées cotées sont des fournisseurs de goulets d'étranglement, pas des paniers thématiques.</strong> Électricité, services de conception de semi-conducteurs IA, équipements OLED, packaging, substrats, tests et biotech de phase avancée sont les zones à surveiller.
 
 En une phrase :
 
-**Le Fonds national de croissance n'est pas un acheteur d'indice KOSDAQ ; c'est un canal de capital qui aide à identifier les prochains candidats alpha en finançant des sociétés de croissance et des goulets d'étranglement industriels ciblés.**
+<strong>Le Fonds national de croissance n'est pas un acheteur d'indice KOSDAQ ; c'est un canal de capital qui aide à identifier les prochains candidats alpha en finançant des sociétés de croissance et des goulets d'étranglement industriels ciblés.</strong>
 
 ---
 
@@ -63,15 +63,15 @@ La direction générale est correcte. La Corée utilise le capital public pour s
 
 Selon le FSC, le Fonds national de croissance total dépasse ₩150 000 milliards sur cinq ans. Le plan initial de ₩100 000 milliards a été porté à au moins ₩150 000 milliards, en combinant capitaux publics et privés. [FSC][1]
 
-Le plan 2026 est séparé : **₩30 000 milliards+**, avec ₩3 000 milliards d'investissement direct, ₩7 000 milliards d'investissement indirect, ₩10 000 milliards de financement d'infrastructure et ₩10 000 milliards de prêts à taux très bas. [FSC][2]
+Le plan 2026 est séparé : <strong>₩30 000 milliards+</strong>, avec ₩3 000 milliards d'investissement direct, ₩7 000 milliards d'investissement indirect, ₩10 000 milliards de financement d'infrastructure et ₩10 000 milliards de prêts à taux très bas. [FSC][2]
 
 Le paquet du 14 avril 2026 pour l'écosystème industriel avancé est encore une autre couche. Yonhap le décrit comme plus de ₩50 000 milliards sur cinq ans, divisé entre ₩35 000 milliards d'investissement indirect et ₩15 000 milliards d'investissement direct. [Yonhap][4] Le FSC précise aussi que l'investissement indirect inclut Pre-IPO, jeunes sociétés KOSDAQ, M&A, restructuration, fonds KOSDAQ et fonds régionaux. [FSC][3]
 
-L'erreur la plus fréquente concerne les **₩6 600 milliards du premier tour**. Ce n'est pas la taille totale des sept projets initiaux, mais le montant approuvé entre janvier et mars 2026 :
+L'erreur la plus fréquente concerne les <strong>₩6 600 milliards du premier tour</strong>. Ce n'est pas la taille totale des sept projets initiaux, mais le montant approuvé entre janvier et mars 2026 :
 
 `Shinan Ui ₩3 400 milliards + Ulsan batteries ₩100 milliards + Pyeongtaek semi-conducteurs IA ₩2 500 milliards + Rebellions ₩600 milliards = ₩6 600 milliards`
 
-La bonne question n'est donc pas « où l'État injecte-t-il immédiatement ₩50 000 milliards ? ». C'est : **quel canal de capital débloque quel goulet d'étranglement, et à quelle vitesse ?**
+La bonne question n'est donc pas « où l'État injecte-t-il immédiatement ₩50 000 milliards ? ». C'est : <strong>quel canal de capital débloque quel goulet d'étranglement, et à quelle vitesse ?</strong>
 
 ---
 
@@ -108,7 +108,7 @@ Cette structure ne soulève pas mécaniquement tout le KOSDAQ. Elle répare la c
 
 Les couches ne sont pas également investissables. Beaucoup d'acteurs IA sont privés. Samsung Electronics est trop grande pour qu'un seul programme public détermine son cours. La biotech garde le risque clinique. Défense et équipements électriques ont déjà été réévalués.
 
-L'alpha coté se trouve probablement là où le capital public **débloque une décision d'investissement retardée** ou renforce un **goulet de demande déjà visible**.
+L'alpha coté se trouve probablement là où le capital public <strong>débloque une décision d'investissement retardée</strong> ou renforce un <strong>goulet de demande déjà visible</strong>.
 
 ---
 
@@ -128,7 +128,7 @@ Mais une discipline de valorisation reste nécessaire. Beaucoup de valeurs élec
 
 K-Nvidia et Sovereign AI sont des titres puissants, mais l'accès coté est limité. Rebellions, FuriosaAI et DEEPX sont principalement privés.
 
-La zone cotée est donc le **goulet de mise en œuvre** : design, vérification, interface foundry, packaging, transition vers production.
+La zone cotée est donc le <strong>goulet de mise en œuvre</strong> : design, vérification, interface foundry, packaging, transition vers production.
 
 ADTechnology est le nom KOSDAQ le plus clair. Sa page IR affichait le 22 mai 2026 un cours de ₩42 600, un PER de 153,24x et 13 462 007 actions en circulation. La capitalisation simple est `₩42 600 × 13 462 007 = environ ₩573,5 milliards`. [ADTechnology][6]
 
@@ -136,7 +136,7 @@ Arm décrit ADTechnology comme le plus grand design house ASIC de Corée du Sud 
 
 La logique est intéressante, mais le prix est exigeant. Un PER de 153x exige des preuves : nouveaux contrats IA/HPC, plus de tape-outs, passage au revenu de production, amélioration de la crédibilité Samsung Foundry et revenus plus récurrents.
 
-Conclusion : **Watchlist**.
+Conclusion : <strong>Watchlist</strong>.
 
 ---
 
@@ -146,7 +146,7 @@ Pour le KOSDAQ, les équipements OLED sont l'une des zones les plus lisibles. Le
 
 Même si le capital va aux grands fabricants de panneaux, l'alpha coté peut être plus visible chez les fournisseurs d'équipements. Les panneaux portent le risque de demande, d'amortissement et de concurrence chinoise. Les équipementiers voient la décision de capex se transformer en commandes.
 
-Sunic System, AP System, les équipements d'inspection, laser et logistique sont à surveiller. Mais le mot-clé n'est pas OLED. Le mot-clé est **commande d'équipement réelle**.
+Sunic System, AP System, les équipements d'inspection, laser et logistique sont à surveiller. Mais le mot-clé n'est pas OLED. Le mot-clé est <strong>commande d'équipement réelle</strong>.
 
 ---
 
@@ -156,7 +156,7 @@ Le deuxième tour inclut biotech et vaccins. La politique peut soutenir les entr
 
 Mais le capital public en biotech ne change pas la biologie. Il peut réduire la dilution et prolonger le runway. Il n'augmente pas l'efficacité, la sécurité ou la probabilité d'approbation.
 
-La biotech liée à ce fonds doit donc être traitée comme une stratégie **événementielle**, pas comme un achat sectoriel large.
+La biotech liée à ce fonds doit donc être traitée comme une stratégie <strong>événementielle</strong>, pas comme un achat sectoriel large.
 
 ---
 
@@ -180,7 +180,7 @@ Le Fonds national de croissance est positif pour le KOSDAQ, mais pas parce qu'il
 
 La suite de la thèse smart money KOSDAQ est donc simple :
 
-**N'achetez pas tout le panier politique. Cherchez les entreprises où le capital public devient commande, capacité, investissement ou financement annoncé.**
+<strong>N'achetez pas tout le panier politique. Cherchez les entreprises où le capital public devient commande, capacité, investissement ou financement annoncé.</strong>
 
 Les cours KOSDAQ restent faibles, mais les flux s'améliorent. Le Fonds national de croissance crée le canal de capital auquel ces flux peuvent s'accrocher. Le prochain alpha viendra probablement non pas de l'étiquette "bénéficiaire politique", mais des passages étroits où l'argent doit réellement circuler.
 

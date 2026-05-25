@@ -22,18 +22,18 @@ tags:
   - "supply chain"
 ---
 
-> 🔗 **Related read**: [Korean Equity Screener Top 5 — Semyung Electric, Wooone Construction, SK hynix, SK Square, Pharmicell](https://koreainvestinsights.com/post/kr-weekly-screener-top5-2026-04-16/)
+> 🔗 <strong>Related read</strong>: [Korean Equity Screener Top 5 — Semyung Electric, Wooone Construction, SK hynix, SK Square, Pharmicell](https://koreainvestinsights.com/post/kr-weekly-screener-top5-2026-04-16/)
 
-*This note connects the four big-tech 1Q26 prints (Amazon, Microsoft, Alphabet, Meta — released April 29–30) to the two anchor names in the Korean AI supply chain: **Samsung Electronics (005930) and Samsung Electro-Mechanics (009150)**. The simple framing: the same capex number is order flow for one and already-discounted narrative for the other.*
+*This note connects the four big-tech 1Q26 prints (Amazon, Microsoft, Alphabet, Meta — released April 29–30) to the two anchor names in the Korean AI supply chain: <strong>Samsung Electronics (005930) and Samsung Electro-Mechanics (009150)</strong>. The simple framing: the same capex number is order flow for one and already-discounted narrative for the other.*
 
 ---
 
 ## Executive Summary
 
-- **The big-tech message is not AI demand fatigue. It is AI capex re-acceleration.** AWS +28%, Azure +39–40%, Google Cloud +63% — three hyperscaler clouds are accelerating *simultaneously*. Combined 2026 AI/cloud capex run-rate ≈ **$650B** across the four names.
-- **Samsung Electronics is the direct beneficiary.** With DS operating profit at ₩53.7T in 1Q26 (\~94% of total OP), big-tech capex translates almost one-to-one into HBM / DDR5 / eSSD / server DRAM orders. Samsung is on the **receiving end** of capex, not the burden side.
-- **Samsung Electro-Mechanics has structural tailwind plus near-term price overhang.** AI-server MLCC and FC-BGA demand is genuinely accelerating, but the market has already re-rated the equity from "smartphone-cycle component" to "AI-server component." Further upside requires **two-to-three consecutive quarters of upward estimate revisions**, not just one strong print.
-- **6-12 month relative factor preference: Samsung Electronics > Samsung Electro-Mechanics.** Samsung Electronics has the cleaner first-order capex transmission. Samsung Electro-Mechanics needs estimate revisions and margin confirmation before the next leg is easier to underwrite.
+- <strong>The big-tech message is not AI demand fatigue. It is AI capex re-acceleration.</strong> AWS +28%, Azure +39–40%, Google Cloud +63% — three hyperscaler clouds are accelerating *simultaneously*. Combined 2026 AI/cloud capex run-rate ≈ <strong>$650B</strong> across the four names.
+- <strong>Samsung Electronics is the direct beneficiary.</strong> With DS operating profit at ₩53.7T in 1Q26 (\~94% of total OP), big-tech capex translates almost one-to-one into HBM / DDR5 / eSSD / server DRAM orders. Samsung is on the <strong>receiving end</strong> of capex, not the burden side.
+- <strong>Samsung Electro-Mechanics has structural tailwind plus near-term price overhang.</strong> AI-server MLCC and FC-BGA demand is genuinely accelerating, but the market has already re-rated the equity from "smartphone-cycle component" to "AI-server component." Further upside requires <strong>two-to-three consecutive quarters of upward estimate revisions</strong>, not just one strong print.
+- <strong>6-12 month relative factor preference: Samsung Electronics > Samsung Electro-Mechanics.</strong> Samsung Electronics has the cleaner first-order capex transmission. Samsung Electro-Mechanics needs estimate revisions and margin confirmation before the next leg is easier to underwrite.
 
 ---
 
@@ -41,12 +41,12 @@ tags:
 
 | Stock | Factor read | Core reasoning |
 | --- | --- | --- |
-| **Samsung Electronics (005930)** | **First-order capex beneficiary** | Big-tech capex translates directly into DS revenue. HBM4 customer expansion and server-memory pricing are incremental upside. Sell-on-news risk low. |
-| **Samsung Electro-Mechanics (009150)** | **Second-order beneficiary; confirmation needed** | AI MLCC and FC-BGA tailwinds are real, but a meaningful share of growth optionality is already priced in. Sell-on-news risk medium-to-high. |
+| <strong>Samsung Electronics (005930)</strong> | <strong>First-order capex beneficiary</strong> | Big-tech capex translates directly into DS revenue. HBM4 customer expansion and server-memory pricing are incremental upside. Sell-on-news risk low. |
+| <strong>Samsung Electro-Mechanics (009150)</strong> | <strong>Second-order beneficiary; confirmation needed</strong> | AI MLCC and FC-BGA tailwinds are real, but a meaningful share of growth optionality is already priced in. Sell-on-news risk medium-to-high. |
 
 The single sentence that captures the difference:
 
-> **Samsung Electronics is the first-order beneficiary of AI capex; Samsung Electro-Mechanics is the second-order beneficiary.** First-order means the demand prints directly in the income statement. Second-order means the narrative reaches the share price ahead of the revenue.
+> <strong>Samsung Electronics is the first-order beneficiary of AI capex; Samsung Electro-Mechanics is the second-order beneficiary.</strong> First-order means the demand prints directly in the income statement. Second-order means the narrative reaches the share price ahead of the revenue.
 
 ---
 
@@ -56,10 +56,10 @@ The earnings season's message is not "spending less on AI." It is the opposite.
 
 | Hyperscaler | Headline | Korean supply-chain read |
 | --- | --- | --- |
-| **Amazon** | AWS revenue $37.6B, **YoY +28%**. 2026 AI investment target **$200B reaffirmed**; Q1 capex $44.2B. | AWS server build-out → HBM / DDR5 / eSSD / server DRAM. Trainium / ASIC server expansion → FC-BGA, high-density MLCC. |
-| **Microsoft** | Azure **+39–40%**, AI annualized run-rate $37B, Q3 capex $31.9B. | Easing Azure capacity shortage = higher memory throughput. Server, networking, and power-rail MLCC demand. |
-| **Alphabet** | Google Cloud revenue $20B, **YoY +63%**, backlog \~$460B; 2026 capex $180–190B. | TPU / AI server expansion → HBM / DRAM / NAND / SSD. TPU and server-board / networking FC-BGA + MLCC. |
-| **Meta** | Revenue $56.3B (+33%), ad impressions +19%, ad pricing +12%. 2026 capex guidance **raised to $125–145B**. | Continued AI data-center build-out lifts memory demand. Component-pricing leverage favorable. |
+| <strong>Amazon</strong> | AWS revenue $37.6B, <strong>YoY +28%</strong>. 2026 AI investment target <strong>$200B reaffirmed</strong>; Q1 capex $44.2B. | AWS server build-out → HBM / DDR5 / eSSD / server DRAM. Trainium / ASIC server expansion → FC-BGA, high-density MLCC. |
+| <strong>Microsoft</strong> | Azure <strong>+39–40%</strong>, AI annualized run-rate $37B, Q3 capex $31.9B. | Easing Azure capacity shortage = higher memory throughput. Server, networking, and power-rail MLCC demand. |
+| <strong>Alphabet</strong> | Google Cloud revenue $20B, <strong>YoY +63%</strong>, backlog \~$460B; 2026 capex $180–190B. | TPU / AI server expansion → HBM / DRAM / NAND / SSD. TPU and server-board / networking FC-BGA + MLCC. |
+| <strong>Meta</strong> | Revenue $56.3B (+33%), ad impressions +19%, ad pricing +12%. 2026 capex guidance <strong>raised to $125–145B</strong>. | Continued AI data-center build-out lifts memory demand. Component-pricing leverage favorable. |
 
 Three observations matter.
 
@@ -67,7 +67,7 @@ Three observations matter.
 
 **Observation 2 — Capex is *up*, not down.** Amazon $200B reaffirmed; Alphabet $180–190B; Meta raised to $125–145B; Microsoft Q3-annualized \~$128B. For the hyperscaler equities, this is FCF pressure. For the supply chain, it is order flow.
 
-**Observation 3 — But the market is grading capex ROI strictly.** Meta's stock pressure right after raising 2026 capex is the cleanest example. So *raising capex by itself* does not lift the hyperscaler equity. The result: **the same capex number reads accounting-positive for the supply chain and accounting-cautionary for the hyperscaler.**
+<strong>Observation 3 — But the market is grading capex ROI strictly.</strong> Meta's stock pressure right after raising 2026 capex is the cleanest example. So *raising capex by itself* does not lift the hyperscaler equity. The result: <strong>the same capex number reads accounting-positive for the supply chain and accounting-cautionary for the hyperscaler.</strong>
 
 ---
 
@@ -84,11 +84,11 @@ Microsoft Q3 capex × 4 (annualized)        = $127.6B ($31.9B × 4)
 Run-rate proxy                             ≈ $647.6B  ≈ ~$650B
 ```
 
-Caveat — this is *not* a precise total annual capex number. Microsoft is annualized from a single quarter and is variable. Amazon's "$200B AI investment" includes some non-cloud line items. Treat the figure as a **demand-strength proxy**, not a clean total.
+Caveat — this is *not* a precise total annual capex number. Microsoft is annualized from a single quarter and is variable. Amazon's "$200B AI investment" includes some non-cloud line items. Treat the figure as a <strong>demand-strength proxy</strong>, not a clean total.
 
 The takeaway is still clear:
 
-> **For the hyperscalers, this is \~$650B of FCF burden. For the Korean supply chain, this is \~$650B of procurement budget.**
+> <strong>For the hyperscalers, this is \~$650B of FCF burden. For the Korean supply chain, this is \~$650B of procurement budget.</strong>
 
 The same number reads opposite ways on the income statement depending on which side of the supply chain you sit on. That asymmetry is the defining feature of this cycle.
 
@@ -98,13 +98,13 @@ The same number reads opposite ways on the income statement depending on which s
 
 ### 4.1 What 1Q26 Showed
 
-Samsung Electronics 1Q26 — revenue **₩133.9T**, operating profit **₩57.2T**, of which the **DS division contributed ₩53.7T**. DS share of total OP:
+Samsung Electronics 1Q26 — revenue <strong>₩133.9T</strong>, operating profit <strong>₩57.2T</strong>, of which the <strong>DS division contributed ₩53.7T</strong>. DS share of total OP:
 
 ```
 DS share = 53.7 / 57.2 = 93.9%
 ```
 
-The earnings mix has moved permanently. Profit is no longer driven by PC / mobile memory; it is driven by the **AI server memory stack**. Reuters framed the print as a record quarter built on AI-infrastructure memory demand.
+The earnings mix has moved permanently. Profit is no longer driven by PC / mobile memory; it is driven by the <strong>AI server memory stack</strong>. Reuters framed the print as a record quarter built on AI-infrastructure memory demand.
 
 ### 4.2 The Demand-Transmission Path Is Direct
 
@@ -126,7 +126,7 @@ Not a single stage in this path was broken in 1Q26. The AWS / Azure / GCP simult
 
 | Checkpoint | Meaning | Current read |
 | --- | --- | --- |
-| HBM4 / HBM4E customer expansion | Closing the gap vs. SK hynix | **Most important — the core of incremental upside** |
+| HBM4 / HBM4E customer expansion | Closing the gap vs. SK hynix | <strong>Most important — the core of incremental upside</strong> |
 | Server DRAM pricing | Reflects AI-server supply tightness | Constructive |
 | eSSD / NAND pricing | AI inference / storage bottleneck pass-through | Constructive |
 | DS operating margin | Cycle-peak indicator | Still strong; no peak signal yet |
@@ -150,7 +150,7 @@ Short-term profit-taking is normal; structural sell-on-news is unlikely. Holders
 
 ### 5.1 1Q26 Results and the Structural Shift
 
-Samsung Electro-Mechanics 1Q26 — revenue **₩3.21T**, operating profit **₩280.6B**. YoY revenue +17%, OP +40%.
+Samsung Electro-Mechanics 1Q26 — revenue <strong>₩3.21T</strong>, operating profit <strong>₩280.6B</strong>. YoY revenue +17%, OP +40%.
 
 ```
 Revenue YoY = +17%
@@ -158,7 +158,7 @@ Operating profit YoY = +40%
 Operating leverage = 40 / 17 ≈ 2.4×
 ```
 
-Operating leverage of 2.4× is the cleanest evidence yet that **mix improvement is real**. Higher-spec MLCC and high-layer-count FC-BGA for AI servers are pulling the company-wide margin up. This is the first accounting-level signal that Samsung Electro-Mechanics is no longer trapped in a single smartphone cycle.
+Operating leverage of 2.4× is the cleanest evidence yet that <strong>mix improvement is real</strong>. Higher-spec MLCC and high-layer-count FC-BGA for AI servers are pulling the company-wide margin up. This is the first accounting-level signal that Samsung Electro-Mechanics is no longer trapped in a single smartphone cycle.
 
 ### 5.2 The Demand-Transmission Path — One Step Lagged
 
@@ -173,21 +173,21 @@ AI-server power, networking, and storage-adjacent MLCC content
 Samsung Electro-Mechanics Component + Package Solution
 ```
 
-Compared to Samsung Electronics, the path is **one step lagged**. Memory orders flow as soon as a hyperscaler builds a data center. MLCC and FC-BGA orders follow once the accelerator / ASIC / networking-chip shipments crystallize. That timing gap is exactly what creates the divergence between the company's results and its share-price reaction.
+Compared to Samsung Electronics, the path is <strong>one step lagged</strong>. Memory orders flow as soon as a hyperscaler builds a data center. MLCC and FC-BGA orders follow once the accelerator / ASIC / networking-chip shipments crystallize. That timing gap is exactly what creates the divergence between the company's results and its share-price reaction.
 
 ### 5.3 Why More Caution Than Samsung Electronics
 
-The issue is not direction. It is **price**.
+The issue is not direction. It is <strong>price</strong>.
 
 | Item | Samsung Electronics | Samsung Electro-Mechanics |
 | --- | --- | --- |
 | Big-tech capex sensitivity | Very direct | Direct but one-step lagged |
 | Earnings-surprise magnitude | Very large | Solid but relatively bounded |
-| Pre-priced upside | Present | **Larger** |
-| Multiple-justification condition | HBM4 customer expansion + sustained DS margin | **2-3 consecutive quarters of upward estimate revisions for AI MLCC / FC-BGA** |
-| Sell-on-news risk | Low–medium | **Medium–high** |
+| Pre-priced upside | Present | <strong>Larger</strong> |
+| Multiple-justification condition | HBM4 customer expansion + sustained DS margin | <strong>2-3 consecutive quarters of upward estimate revisions for AI MLCC / FC-BGA</strong> |
+| Sell-on-news risk | Low–medium | <strong>Medium–high</strong> |
 
-The market has already re-rated Samsung Electro-Mechanics from "smartphone MLCC supplier" to "AI server component name." At this point, what the price requires is **estimate revisions that keep going up**, not just "another good print." A single strong quarter is already in the share price.
+The market has already re-rated Samsung Electro-Mechanics from "smartphone MLCC supplier" to "AI server component name." At this point, what the price requires is <strong>estimate revisions that keep going up</strong>, not just "another good print." A single strong quarter is already in the share price.
 
 ### 5.4 What Would Justify Further Upside
 
@@ -206,12 +206,12 @@ None of those landed *additionally* on April 30. Without "good print + better gu
 
 | Cohort | Factor read |
 | --- | --- |
-| **Samsung Electronics existing exposure** | HBM4 customer expansion and 2Q DS margin remain the key confirmation factors. |
-| **Samsung Electronics new interest** | Memory-pricing data and 5-day / 20-day MA support matter more than the immediate earnings headline. |
-| **Samsung Electro-Mechanics existing exposure** | The AI MLCC / FC-BGA structural story is intact, but expectations already embed part of that story. |
-| **Samsung Electro-Mechanics new interest** | 2Q guidance, order commentary, and OPM-near-10% confirmation are the key factors. |
+| <strong>Samsung Electronics existing exposure</strong> | HBM4 customer expansion and 2Q DS margin remain the key confirmation factors. |
+| <strong>Samsung Electronics new interest</strong> | Memory-pricing data and 5-day / 20-day MA support matter more than the immediate earnings headline. |
+| <strong>Samsung Electro-Mechanics existing exposure</strong> | The AI MLCC / FC-BGA structural story is intact, but expectations already embed part of that story. |
+| <strong>Samsung Electro-Mechanics new interest</strong> | 2Q guidance, order commentary, and OPM-near-10% confirmation are the key factors. |
 
-The crux: **the same big-tech print transmits through two different factor chains.** Samsung Electronics receives the AI capex cycle more directly. Samsung Electro-Mechanics needs more evidence because the component narrative reached the share price earlier.
+The crux: <strong>the same big-tech print transmits through two different factor chains.</strong> Samsung Electronics receives the AI capex cycle more directly. Samsung Electro-Mechanics needs more evidence because the component narrative reached the share price earlier.
 
 ---
 
@@ -225,17 +225,17 @@ The crux: **the same big-tech print transmits through two different factor chain
 | Meta capex re-raise | Data-center memory demand | MLCC pricing / mix |
 | NVIDIA / ASIC supply-chain news | HBM4 qualification progress | High-end FC-BGA customer expansion |
 | DRAM / NAND spot + contract pricing | Very high earnings sensitivity | Indirect |
-| MLCC pricing actions | Limited | **Core for Samsung Electro-Mechanics** |
+| MLCC pricing actions | Limited | <strong>Core for Samsung Electro-Mechanics</strong> |
 
-For Samsung Electronics, **a single line of HBM4 qualification news** can move the next 12 months. For Samsung Electro-Mechanics, **a single line of new large AI-server customer commentary** can do the same.
+For Samsung Electronics, <strong>a single line of HBM4 qualification news</strong> can move the next 12 months. For Samsung Electro-Mechanics, <strong>a single line of new large AI-server customer commentary</strong> can do the same.
 
 ---
 
 ## 8. The Single Closing Line
 
-The 1Q26 big-tech print delivers one message clearly: **AI demand has not bent, capex has been raised, and cloud revenue is genuinely growing.** What the market has added is stricter scrutiny on capex ROI.
+The 1Q26 big-tech print delivers one message clearly: <strong>AI demand has not bent, capex has been raised, and cloud revenue is genuinely growing.</strong> What the market has added is stricter scrutiny on capex ROI.
 
-That separation creates a clean asymmetry on the Korean side. Samsung Electronics, where capex flows directly into revenue, is favored. Samsung Electro-Mechanics, where the narrative reached the price first, needs more printed evidence. **6-12 month relative factor preference: Samsung Electronics > Samsung Electro-Mechanics.** The principle holds again this quarter: a good company and a good entry price are not the same thing.
+That separation creates a clean asymmetry on the Korean side. Samsung Electronics, where capex flows directly into revenue, is favored. Samsung Electro-Mechanics, where the narrative reached the price first, needs more printed evidence. <strong>6-12 month relative factor preference: Samsung Electronics > Samsung Electro-Mechanics.</strong> The principle holds again this quarter: a good company and a good entry price are not the same thing.
 
 ---
 

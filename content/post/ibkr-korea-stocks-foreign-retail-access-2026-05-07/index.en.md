@@ -23,17 +23,17 @@ tags:
 series: ["korea-stocks-foreign-investor-guide"]
 ---
 
-> **News reaction and playbook.** This post is linked to the new [Korea Stocks for Foreign Investors hub](/page/korea-stocks-foreign-investors-hub/), which organizes IBKR-style access, KOSPI, KOSDAQ, HBM, AI substrates, Korean financials, Pearl Abyss and K-beauty research for overseas readers.
+> <strong>News reaction and playbook.</strong> This post is linked to the new [Korea Stocks for Foreign Investors hub](/page/korea-stocks-foreign-investors-hub/), which organizes IBKR-style access, KOSPI, KOSDAQ, HBM, AI substrates, Korean financials, Pearl Abyss and K-beauty research for overseas readers.
 
 ---
 
 ## TL;DR
 
-1. **Foreign retail access to Korean stocks is moving from policy reform to product reality.** Maeil Business Newspaper reported on May 4, 2026 that Interactive Brokers is preparing Korea stock access in cooperation with Samsung Securities, while Futu is expected to work with Hana Securities and other Korean brokers are also exploring partnerships.
-2. **The bigger story is not one brokerage stock.** Samsung Securities and Hana Securities matter as access pipes, but the structural change is that Korea can become a searchable single-stock market for overseas retail investors instead of a market reached mainly through ETFs, ADRs and institutional channels.
-3. **The first demand layer will be search-led.** Queries such as "IBKR Korea stocks," "how to buy Korean stocks," "KOSPI vs KOSDAQ," "Samsung Electronics vs SK Hynix," "Pearl Abyss stock," "Korean AI stocks," and "best Korean stocks to buy" will matter before flows show up cleanly in turnover data.
-4. **The first investable content clusters are already visible.** HBM and AI memory, AI substrates and CCL, Korean financials under Value-Up, Pearl Abyss / Crimson Desert, and K-beauty are the themes global retail investors can understand fastest.
-5. **For readers, the practical response is a filter, not a trade.** Easier access is a reason to build a Korea watchlist by theme: market structure first, then HBM, AI substrates, financials, gaming and K-beauty, with broker availability and liquidity checked before any decision.
+1. <strong>Foreign retail access to Korean stocks is moving from policy reform to product reality.</strong> Maeil Business Newspaper reported on May 4, 2026 that Interactive Brokers is preparing Korea stock access in cooperation with Samsung Securities, while Futu is expected to work with Hana Securities and other Korean brokers are also exploring partnerships.
+2. <strong>The bigger story is not one brokerage stock.</strong> Samsung Securities and Hana Securities matter as access pipes, but the structural change is that Korea can become a searchable single-stock market for overseas retail investors instead of a market reached mainly through ETFs, ADRs and institutional channels.
+3. <strong>The first demand layer will be search-led.</strong> Queries such as "IBKR Korea stocks," "how to buy Korean stocks," "KOSPI vs KOSDAQ," "Samsung Electronics vs SK Hynix," "Pearl Abyss stock," "Korean AI stocks," and "best Korean stocks to buy" will matter before flows show up cleanly in turnover data.
+4. <strong>The first investable content clusters are already visible.</strong> HBM and AI memory, AI substrates and CCL, Korean financials under Value-Up, Pearl Abyss / Crimson Desert, and K-beauty are the themes global retail investors can understand fastest.
+5. <strong>For readers, the practical response is a filter, not a trade.</strong> Easier access is a reason to build a Korea watchlist by theme: market structure first, then HBM, AI substrates, financials, gaming and K-beauty, with broker availability and liquidity checked before any decision.
 
 ---
 

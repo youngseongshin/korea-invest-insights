@@ -20,11 +20,11 @@ April's gains were unusually concentrated. Korean AI physical infrastructure sto
 
 Three specific pressure vectors are worth watching:
 
-**1. Brent and rates remain elevated.** High oil prices combined with sticky interest rates compress growth multiples. For duration-sensitive AI infrastructure capex trades, this is a direct headwind. Foreign investor flows into Korean equities—already sensitive to USD/KRW movements—can turn quickly if the macro backdrop deteriorates.
+<strong>1. Brent and rates remain elevated.</strong> High oil prices combined with sticky interest rates compress growth multiples. For duration-sensitive AI infrastructure capex trades, this is a direct headwind. Foreign investor flows into Korean equities—already sensitive to USD/KRW movements—can turn quickly if the macro backdrop deteriorates.
 
-**2. Big-tech capex dependency is now a single point of failure.** As BlackRock has noted, U.S. growth and equity markets are increasingly tethered to hyperscaler AI capex cycles. A modest downward revision to capex guidance from any of the major cloud providers could simultaneously pressure Korean semiconductors, power equipment, PCBs, data center materials, and AI accelerator supply chains. The correlation is no longer theoretical.
+<strong>2. Big-tech capex dependency is now a single point of failure.</strong> As BlackRock has noted, U.S. growth and equity markets are increasingly tethered to hyperscaler AI capex cycles. A modest downward revision to capex guidance from any of the major cloud providers could simultaneously pressure Korean semiconductors, power equipment, PCBs, data center materials, and AI accelerator supply chains. The correlation is no longer theoretical.
 
-**3. First-order winners are priced for perfection.** Names like Hanwha Engine (082740.KS), Samsung Electro-Mechanics (009150.KS), and Doosan (000150.KS) have already absorbed much of the AI infrastructure re-rating. If "Sell in May" materializes, it's most likely to show up as multiple compression in exactly these names—not a broad market selloff.
+<strong>3. First-order winners are priced for perfection.</strong> Names like Hanwha Engine (082740.KS), Samsung Electro-Mechanics (009150.KS), and Doosan (000150.KS) have already absorbed much of the AI infrastructure re-rating. If "Sell in May" materializes, it's most likely to show up as multiple compression in exactly these names—not a broad market selloff.
 
 ## Why a Full De-Risk Would Be a Mistake
 
@@ -32,8 +32,8 @@ The case against blanket selling is equally concrete.
 
 KB Securities' May strategy note maintains an overweight on semiconductors and AI power infrastructure—institutional consensus has not flipped to risk-off. More importantly, South Korea's April provisional export data, released by the Ministry of Trade, Industry and Energy, delivered a blunt signal that the AI hardware cycle is still running:
 
-- SSD exports: **+715% year-over-year**
-- Computers and consumer electronics: **+242% year-over-year**
+- SSD exports: <strong>+715% year-over-year</strong>
+- Computers and consumer electronics: <strong>+242% year-over-year</strong>
 
 These are not soft sentiment indicators. This is physical shipment data. Cutting core positions on seasonality alone while underlying demand prints numbers like these is a category error.
 
@@ -58,9 +58,9 @@ None of these are sells on thesis. They're candidates for trimming size when the
 
 Two names deserve attention as May event catalysts approach—both with limited market recognition relative to the first-order plays:
 
-**Pamicell (005690.KS)**, a South Korean biotech and advanced materials company, has emerged as an indirect proxy for the AI substrate supply chain through its materials exposure to Doosan Electro-BG's CCL (Copper Clad Laminate) production ecosystem. The stock has not repriced to the same degree as the upstream names. Key near-term triggers to monitor: Q1 2026 operating profit confirmation above ₩14 billion, a follow-on contract with Doosan, and a sustained break above the ₩20,000 level on meaningful volume.
+<strong>Pamicell (005690.KS)</strong>, a South Korean biotech and advanced materials company, has emerged as an indirect proxy for the AI substrate supply chain through its materials exposure to Doosan Electro-BG's CCL (Copper Clad Laminate) production ecosystem. The stock has not repriced to the same degree as the upstream names. Key near-term triggers to monitor: Q1 2026 operating profit confirmation above ₩14 billion, a follow-on contract with Doosan, and a sustained break above the ₩20,000 level on meaningful volume.
 
-**Daeduck Electronics (008060.KS)**, one of South Korea's established PCB manufacturers, represents a more direct second-order play on AI server infrastructure buildout. As hyperscaler demand for high-layer-count boards accelerates, Daeduck's positioning in the advanced PCB supply chain becomes increasingly relevant—but at a valuation that still reflects older earnings expectations.
+<strong>Daeduck Electronics (008060.KS)</strong>, one of South Korea's established PCB manufacturers, represents a more direct second-order play on AI server infrastructure buildout. As hyperscaler demand for high-layer-count boards accelerates, Daeduck's positioning in the advanced PCB supply chain becomes increasingly relevant—but at a valuation that still reflects older earnings expectations.
 
 Both names should be treated as small, conditional entries pending event confirmation. Initiating full-size positions before Q1 results and contract newsflow is premature.
 
@@ -68,13 +68,13 @@ Both names should be treated as small, conditional entries pending event confirm
 
 Markets rarely follow a single script. The May setup has four credible paths:
 
-**Normal rotation (base case):** Semiconductors and AI power trade off leadership. KOSPI breadth holds. Core positions stay intact; small entries in second-order proxies proceed on schedule.
+<strong>Normal rotation (base case):</strong> Semiconductors and AI power trade off leadership. KOSPI breadth holds. Core positions stay intact; small entries in second-order proxies proceed on schedule.
 
-**First-order profit-taking:** Hanwha Engine, Samsung Electro-Mechanics, and power stocks pull back on crowding, while the underlying thesis (exports, capex) remains intact. This is the buy-the-dip scenario for second-order names.
+<strong>First-order profit-taking:</strong> Hanwha Engine, Samsung Electro-Mechanics, and power stocks pull back on crowding, while the underlying thesis (exports, capex) remains intact. This is the buy-the-dip scenario for second-order names.
 
-**AI capex shock:** A hyperscaler cuts capex guidance. Semiconductors, power, PCBs, and data center materials sell off together. In this scenario: halt new buying, raise cash above 7%, trim unconfirmed positions including the second-order proxies.
+<strong>AI capex shock:</strong> A hyperscaler cuts capex guidance. Semiconductors, power, PCBs, and data center materials sell off together. In this scenario: halt new buying, raise cash above 7%, trim unconfirmed positions including the second-order proxies.
 
-**Oil/rates risk-off:** Brent stays elevated, U.S. 10-year yields spike, USD/KRW surges, foreign investors sell Korean equities. Raise cash, reduce overheated winners, hold only core names like Samsung Electronics (005930.KS) until the macro stabilizes.
+<strong>Oil/rates risk-off:</strong> Brent stays elevated, U.S. 10-year yields spike, USD/KRW surges, foreign investors sell Korean equities. Raise cash, reduce overheated winners, hold only core names like Samsung Electronics (005930.KS) until the macro stabilizes.
 
 ## The Bottom Line
 

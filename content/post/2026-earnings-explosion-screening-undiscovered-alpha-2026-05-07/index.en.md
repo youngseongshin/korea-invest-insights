@@ -21,19 +21,19 @@ tags:
   - "small-cap alpha"
 ---
 
-> 🔗 **Related reads**: [Korea Daily Market Hub](/page/korea-daily-market-hub/) · [Korean Semis Rally May 6](/post/korean-semis-rally-may-6-samsung-sk-hynix-substrate-equipment-2026-05-07/) · [Korea Semiconductor HBM Hub](/page/korea-semiconductor-hbm-kospi-hub/)
+> 🔗 <strong>Related reads</strong>: [Korea Daily Market Hub](/page/korea-daily-market-hub/) · [Korean Semis Rally May 6](/post/korean-semis-rally-may-6-samsung-sk-hynix-substrate-equipment-2026-05-07/) · [Korea Semiconductor HBM Hub](/page/korea-semiconductor-hbm-kospi-hub/)
 
-*Screening Korean equities on `(2025 OP > 0) ∧ (2025 NI > 0) ∧ (2026F OP > 0) ∧ (2026F NI > 0) ∧ (2026F OP growth ≥ +80%) ∧ (2026F NI growth ≥ +80%)` produces **67 hits**. The interesting fact: most have already moved. The harder analytical question is not "which screen output should I buy?" but "where in the 67 does residual alpha still live, and why?" This piece anchors that question with FnGuide as the "after-discovery" reference case, then runs a depth pass on the three names with the most distinct under-discovered profile: QRT (semiconductor reliability validation), BCnC (substrate-materials localization), and Wirenet (5G-SA transmission equipment).*
+*Screening Korean equities on `(2025 OP > 0) ∧ (2025 NI > 0) ∧ (2026F OP > 0) ∧ (2026F NI > 0) ∧ (2026F OP growth ≥ +80%) ∧ (2026F NI growth ≥ +80%)` produces <strong>67 hits</strong>. The interesting fact: most have already moved. The harder analytical question is not "which screen output should I buy?" but "where in the 67 does residual alpha still live, and why?" This piece anchors that question with FnGuide as the "after-discovery" reference case, then runs a depth pass on the three names with the most distinct under-discovered profile: QRT (semiconductor reliability validation), BCnC (substrate-materials localization), and Wirenet (5G-SA transmission equipment).*
 
 ---
 
 ## Executive Summary
 
-- **The screen returned 67 names — most have already moved.** Even with strict criteria (2025 profit + 2026 profit + ≥+80% YoY OP and NI growth), 67 Korean listed names cleared. More than half are up >+50% YTD. The screen does not by itself produce alpha; the market has already discovered most of these names.
-- **FnGuide demonstrates the "after-discovery" regime most dramatically.** Year-start P/E 10× and P/B 1.4× → May P/E 38× and P/B 5.45×. Total return YTD +279%. A genuinely strong business — Korea's data / index / financial-information infrastructure with effectively monopolistic positioning, 2025 OPM 30%, ROE 15%. But at today's price, the stock is no longer "cheap-and-buy" — it now requires 2026 OP \~₩20.0bn to be sustained. Even on May 6's surge, foreigners and institutions both net-sold.
-- **Among the 67, the relatively under-moved cohort**: QRT (YTD +27–42%), BCnC (+26–33%), Tech Wing (+22%), STI (+20%), DI (+47%), Devsisters (-35%), Alteogen (-21%). "Up less" is not the same as "undervalued" — it can be a discount-for-reason. Distinguishing the two is the actual analytical work.
-- **Three-name deep-dive priority: QRT > BCnC > Wirenet.** QRT carries a structural thesis ("the more complex semis become, the more validation is the bottleneck") that fires across AI / HBM / CXL / RF / space — a multi-vector thesis. BCnC has a clean materials-localization narrative but P/E 42× with ROE 6.4% — price has run ahead of capital efficiency. Wirenet is up +118% YTD with foreign net selling — the market has already discovered it; further alpha requires confirmation, not discovery.
-- **The takeaway about screening itself**: the screen is the start, not the destination. 67 hits but most already moved. Alpha lives in **"speed-of-market-discovery vs gap-still-remaining,"** which is a separate question from "what passed the screen."
+- <strong>The screen returned 67 names — most have already moved.</strong> Even with strict criteria (2025 profit + 2026 profit + ≥+80% YoY OP and NI growth), 67 Korean listed names cleared. More than half are up >+50% YTD. The screen does not by itself produce alpha; the market has already discovered most of these names.
+- <strong>FnGuide demonstrates the "after-discovery" regime most dramatically.</strong> Year-start P/E 10× and P/B 1.4× → May P/E 38× and P/B 5.45×. Total return YTD +279%. A genuinely strong business — Korea's data / index / financial-information infrastructure with effectively monopolistic positioning, 2025 OPM 30%, ROE 15%. But at today's price, the stock is no longer "cheap-and-buy" — it now requires 2026 OP \~₩20.0bn to be sustained. Even on May 6's surge, foreigners and institutions both net-sold.
+- <strong>Among the 67, the relatively under-moved cohort</strong>: QRT (YTD +27–42%), BCnC (+26–33%), Tech Wing (+22%), STI (+20%), DI (+47%), Devsisters (-35%), Alteogen (-21%). "Up less" is not the same as "undervalued" — it can be a discount-for-reason. Distinguishing the two is the actual analytical work.
+- <strong>Three-name deep-dive priority: QRT > BCnC > Wirenet.</strong> QRT carries a structural thesis ("the more complex semis become, the more validation is the bottleneck") that fires across AI / HBM / CXL / RF / space — a multi-vector thesis. BCnC has a clean materials-localization narrative but P/E 42× with ROE 6.4% — price has run ahead of capital efficiency. Wirenet is up +118% YTD with foreign net selling — the market has already discovered it; further alpha requires confirmation, not discovery.
+- <strong>The takeaway about screening itself</strong>: the screen is the start, not the destination. 67 hits but most already moved. Alpha lives in <strong>"speed-of-market-discovery vs gap-still-remaining,"</strong> which is a separate question from "what passed the screen."
 
 ---
 
@@ -61,13 +61,13 @@ Sorting the cohort by year-to-date return reveals the most important observation
 
 | YTD bucket | Approx. count | Representative names |
 | --- | ---: | --- |
-| ≥ +200% | 5+ | Joosung Engineering (+319%), HD Hyundai Energy (+286%), **FnGuide (+279%)**, Amotech (+215%) |
+| ≥ +200% | 5+ | Joosung Engineering (+319%), HD Hyundai Energy (+286%), <strong>FnGuide (+279%)</strong>, Amotech (+215%) |
 | +100% to +200% | 15+ | Daeduck Electronics (+162%), SK Hynix (+137%), Kolon Industries (+125%), Wirenet (+112%), Samsung Electronics (+107%) |
 | +50% to +100% | 15+ | Korea Circuit (+99%), Hooseong (+91%), Nano (+88%), Dongwoon Anatech (+74%), Wonik IPS (+61%) |
-| +0% to +50% | 20+ | **QRT (+27–42%)**, **BCnC (+26–33%)**, Tech Wing (+22%), STI (+20%), Robotis (+15%) |
+| +0% to +50% | 20+ | <strong>QRT (+27–42%)</strong>, <strong>BCnC (+26–33%)</strong>, Tech Wing (+22%), STI (+20%), Robotis (+15%) |
 | Negative | 6 | Devsisters (-35%), Astera Sys (-22%), Alteogen (-21%), SBS (-17%) |
 
-The single-line read: **more than half of the 67-name cohort is already up >+50% YTD.** Treating "the screen output" as a buy list is structurally late.
+The single-line read: <strong>more than half of the 67-name cohort is already up >+50% YTD.</strong> Treating "the screen output" as a buy list is structurally late.
 
 ### 1.3 The Under-Moved Subset — Where Residual Alpha Could Sit
 
@@ -77,14 +77,14 @@ Best-positioned candidates from this group:
 
 | Name | YTD | 2026F OP | OP growth | 2026F P/E | Why under-moved? |
 | --- | ---: | ---: | ---: | ---: | --- |
-| **QRT** | +27–42% | ₩10.8bn | +125% | 33.3× | Semiconductor validation isn't yet recognized as a "theme" |
-| **BCnC** | +26–33% | ₩10.9bn | +180% | 42.0× | Materials-localization story is good, but ROE 6.4% |
+| <strong>QRT</strong> | +27–42% | ₩10.8bn | +125% | 33.3× | Semiconductor validation isn't yet recognized as a "theme" |
+| <strong>BCnC</strong> | +26–33% | ₩10.9bn | +180% | 42.0× | Materials-localization story is good, but ROE 6.4% |
 | Tech Wing | +22% | — | — | — | Quiet semi-test-equipment earnings story |
 | STI | +20% | — | — | — | Semi equipment / parts |
 | Devsisters | -35% | — | — | — | Game-segment decline followed by turn — low market interest |
 | Alteogen | -21% | — | — | — | Biotech price correction vs expectations |
 
-Three names sit on top of this for a depth pass: **QRT, BCnC, Wirenet**. (Wirenet is included from the +100–200% bucket because it represents the contrasting "already discovered" case.)
+Three names sit on top of this for a depth pass: <strong>QRT, BCnC, Wirenet</strong>. (Wirenet is included from the +100–200% bucket because it represents the contrasting "already discovered" case.)
 
 ---
 
@@ -99,7 +99,7 @@ Before the three-name deep dive, FnGuide is the cleanest reference case for what
 | Jan 2 | ₩8,690 | 10.0× | 1.44× | 5.1× |
 | Feb 27 | ₩20,400 | 23.6× | 3.38× | 12.0× |
 | Apr 30 | ₩27,200 | 31.4× | 4.50× | 16.0× |
-| **May 6** | **₩32,900** | **38.0×** | **5.45×** | **19.4×** |
+| <strong>May 6</strong> | <strong>₩32,900</strong> | <strong>38.0×</strong> | <strong>5.45×</strong> | <strong>19.4×</strong> |
 
 In five months, P/E expanded from 10× to 38× and P/B from 1.4× to 5.45×. Total return YTD +279%.
 
@@ -163,11 +163,11 @@ These four lessons frame the next three names. "Earnings explosion + relatively 
 
 ### 3.1 Business
 
-QRT in one line: **a Korean semiconductor reliability-validation specialist**. Not a chip maker — a company that validates whether chips work correctly.
+QRT in one line: <strong>a Korean semiconductor reliability-validation specialist</strong>. Not a chip maker — a company that validates whether chips work correctly.
 
 Hanyang Securities frames QRT as "a validation platform performing reliability assessment and comprehensive analysis simultaneously." KB Securities classifies it as "Korea's domestic semiconductor reliability validation company."
 
-The reason this matters: **the more complex semiconductors get, the more validation becomes the bottleneck**.
+The reason this matters: <strong>the more complex semiconductors get, the more validation becomes the bottleneck</strong>.
 
 ```
 AI chips get more complex → HBM stacks get taller → CXL connections get added
@@ -194,7 +194,7 @@ The number of companies capable of doing this validation is constrained.
 | 2026F P/E | 33.3× |
 | OP growth | +125% |
 
-Hanyang Securities estimates 2026F revenue ₩85.0bn, OP ₩9.45bn. Local DB OP ₩10.8bn appears to average across sources. Either way, **OP \~₩10bn is the core 2026 verification line**.
+Hanyang Securities estimates 2026F revenue ₩85.0bn, OP ₩9.45bn. Local DB OP ₩10.8bn appears to average across sources. Either way, <strong>OP \~₩10bn is the core 2026 verification line</strong>.
 
 A recently-disclosed MOU with Hyperaccel for AI-chip product-development and mass-production quality cooperation is constructive — but an MOU is not revenue.
 
@@ -219,9 +219,9 @@ The thesis "the more complex semis get, the more validation is the bottleneck" f
 
 | Factor | Read |
 | --- | --- |
-| **P (price)** | More complex tests on AI / HBM / CXL / RF / space command higher unit pricing |
-| **Q (volume)** | Customers, product families, validation items expand (AI, RF, space, autonomous driving) |
-| **C (cost)** | Equipment-utilization rise + analysis-headcount leverage drive OPM up |
+| <strong>P (price)</strong> | More complex tests on AI / HBM / CXL / RF / space command higher unit pricing |
+| <strong>Q (volume)</strong> | Customers, product families, validation items expand (AI, RF, space, autonomous driving) |
+| <strong>C (cost)</strong> | Equipment-utilization rise + analysis-headcount leverage drive OPM up |
 
 ### 3.5 Honest Caveats
 
@@ -244,7 +244,7 @@ The thesis "the more complex semis get, the more validation is the bottleneck" f
 
 ### 4.1 Business
 
-BCnC manufactures consumable parts (quartz, silicon, ceramic) for semiconductor etch and deposition processes. The core thesis is **localization of synthetic quartz (QD9 / QD9+) and silicon (SD9+)**.
+BCnC manufactures consumable parts (quartz, silicon, ceramic) for semiconductor etch and deposition processes. The core thesis is <strong>localization of synthetic quartz (QD9 / QD9+) and silicon (SD9+)</strong>.
 
 ```
 Semi etch process
@@ -315,7 +315,7 @@ Hana Securities raised the target price to ₩25,000 in April 2026, with 2026F r
 | Item | Value |
 | --- | ---: |
 | May 6 close | ₩15,810 |
-| YTD | **+118.1%** |
+| YTD | <strong>+118.1%</strong> |
 | 20-day return | +41.9% |
 | 60-day return | +100.6% |
 | RSI(14) | 60.2 |
@@ -324,7 +324,7 @@ Hana Securities raised the target price to ₩25,000 in April 2026, with 2026F r
 | 2026F OPM | 7.5% |
 | 2026F P/E | 23.7× |
 | OP growth | +358% |
-| 20D foreign | **-₩6.5bn (net sell)** |
+| 20D foreign | <strong>-₩6.5bn (net sell)</strong> |
 
 ### 5.3 The Problem: Already Up +118% YTD with Foreign Net Selling
 
@@ -359,10 +359,10 @@ Hana's target headroom is large. But this name isn't a "quiet undervalue" — it
 | 2026F OP | ₩10.8bn | ₩10.9bn | ₩8.7bn |
 | 2026F P/E | 33.3× | 42.0× | 23.7× |
 | ROE | (unconfirmed) | 6.4% | (unconfirmed) |
-| 20D foreign | +₩210m | +₩3.97bn | **-₩6.5bn** |
+| 20D foreign | +₩210m | +₩3.97bn | <strong>-₩6.5bn</strong> |
 | Core strength | AI / RF / space expansion, bottleneck business | Materials localization, customer expansion | 5G-SA, quantum-crypto option |
 | Core weakness | P/E 33× burden | P/E 42× + low ROE | Up +118% already, weak flow |
-| Priority | **#1** | **#2** | **#3** |
+| Priority | <strong>#1</strong> | <strong>#2</strong> | <strong>#3</strong> |
 
 QRT ranks #1 because of the structural multi-vector thesis. AI, HBM, CXL, RF, space — every vector lifts validation demand. The thesis isn't bet on a single direction; it's bet on multiple directions simultaneously.
 
@@ -453,7 +453,7 @@ That 67 names cleared the "earnings explosion" criteria is interesting — but t
 
 The "earnings explosion" screen returned 67 names. Most have already moved. FnGuide demonstrates the "after-discovery" regime most dramatically — P/E 10× → 38×, +279%. Buying FnGuide today on "earnings explosion" framing is buying near the top.
 
-Alpha lives in **"speed-of-market-discovery vs gap-still-remaining,"** not in the screen output itself. Among the three under-moved names — QRT (+42%, semiconductor validation bottleneck), BCnC (+33%, materials localization), Wirenet (+118%, already discovered) — the answer to "why under-moved?" is different.
+Alpha lives in <strong>"speed-of-market-discovery vs gap-still-remaining,"</strong> not in the screen output itself. Among the three under-moved names — QRT (+42%, semiconductor validation bottleneck), BCnC (+33%, materials localization), Wirenet (+118%, already discovered) — the answer to "why under-moved?" is different.
 
 QRT is under-moved because "semiconductor validation" hasn't been claimed as a market theme. Its structural thesis ("the more complex semis get, the more validation is the bottleneck") fires across AI / HBM / CXL / RF / space. BCnC's materials-localization story is known but P/E 42× × ROE 6.4% means price has run ahead. Wirenet at +118% YTD with foreign -₩6.5bn 20D is late-stage momentum — strong but past the discovery stage.
 
@@ -463,31 +463,31 @@ All three are up +40–50% in the last 20 sessions. This is not a "full convicti
 
 ## FAQ — Korean Earnings-Explosion Screen May 2026
 
-**Q: How many Korean stocks pass an "earnings explosion" screen for 2026?**
+<strong>Q: How many Korean stocks pass an "earnings explosion" screen for 2026?</strong>
 A: As of May 7, 2026: 67 names cleared the criteria `(2025 OP > 0) ∧ (2025 NI > 0) ∧ (2026F OP > 0) ∧ (2026F NI > 0) ∧ (2026F OP growth ≥ +80%) ∧ (2026F NI growth ≥ +80%)`. More than half of those 67 names are up >+50% YTD.
 
-**Q: What is FnGuide and why does it matter as a reference case?**
+<strong>Q: What is FnGuide and why does it matter as a reference case?</strong>
 A: FnGuide is a Korean financial-data and index infrastructure company. Year-start to May 6, 2026, its P/E expanded from 10× to 38× and total return reached +279%. It demonstrates how the "earnings explosion + low multiple + good business" combination plays out under market discovery — and why screening for such names after the re-rating event is structurally late.
 
-**Q: Is QRT (405100) publicly traded?**
+<strong>Q: Is QRT (405100) publicly traded?</strong>
 A: Yes — QRT is listed on KOSDAQ under ticker 405100. Its core business is semiconductor reliability validation (testing and analysis services for chip makers and fabless designers).
 
-**Q: Why is QRT considered structurally interesting?**
+<strong>Q: Why is QRT considered structurally interesting?</strong>
 A: The thesis "the more complex semiconductors get, the more validation is the bottleneck" applies across AI, HBM, CXL, RF, and space-bound chips. Validation demand scales with chip complexity, and validation capacity is hard to scale on a short timeline. QRT is a multi-vector beneficiary rather than dependent on any single product cycle.
 
-**Q: Is BCnC (146320) publicly traded?**
+<strong>Q: Is BCnC (146320) publicly traded?</strong>
 A: Yes — BCnC is listed on KOSDAQ under ticker 146320. It manufactures consumable parts (synthetic quartz QD9 / QD9+, silicon SD9+, ceramic CD9) for semiconductor etch and deposition processes, with a localization-driven margin-improvement thesis.
 
-**Q: Is Wirenet (115440) publicly traded?**
+<strong>Q: Is Wirenet (115440) publicly traded?</strong>
 A: Yes — Wirenet is listed on KOSDAQ under ticker 115440. It is a Korean telecom transmission-equipment company exposed to 5G-SA transition, PTN demand, transmission-network replacement, and quantum-cryptography optionality.
 
-**Q: Which Korean small-cap is the cleanest "earnings explosion" alpha right now?**
+<strong>Q: Which Korean small-cap is the cleanest "earnings explosion" alpha right now?</strong>
 A: Among the three covered here, QRT ranks first on structural-thesis quality (multi-vector, bottleneck character, capacity-constrained). BCnC ranks second on localization narrative but with P/E 42× and ROE 6.4% the multiple has run ahead. Wirenet ranks third — strong momentum but already up +118% YTD with foreign net selling, closer to event-trade than core-add territory.
 
-**Q: Is the 67-name screen output a buy list?**
+<strong>Q: Is the 67-name screen output a buy list?</strong>
 A: No. The screen is a starting filter, not a buy list. More than half of the 67 names have already moved >+50% YTD. The actual analytical work is distinguishing "still under-discovered" from "discounted-for-reason" within the cohort.
 
-**Q: What's the single most important lesson from the FnGuide reference case?**
+<strong>Q: What's the single most important lesson from the FnGuide reference case?</strong>
 A: Re-rating from low-multiple to high-multiple compresses future return space. P/E 10× → 38× over five months means today's price requires the most aggressive earnings estimate to print just to be "fair." Screening for such names after the re-rating event is structurally late.
 
 ---

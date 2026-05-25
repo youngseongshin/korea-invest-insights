@@ -20,19 +20,19 @@ valley_cashtags:
 draft: false
 ---
 
-> **Pearl Abyss × Crimson Desert series**
+> <strong>Pearl Abyss × Crimson Desert series</strong>
 > [Neowiz and CD Projekt comparables](/post/pearl-abyss-neowiz-cd-projekt-rerating-comps-2026-05-23/) / [KOSDAQ smart money and Pearl Abyss](/post/kosdaq-smart-money-return-pearl-abyss-rebound-2026-05-22/) / [Flow bottom test](/post/pearl-abyss-flow-bottom-test-2026-05-18/) / [Patch 1.07 weekend data](/post/pearl-abyss-crimson-desert-patch-107-weekend-data-2026-05-17/) / [Pearl Abyss hub](/page/pearl-abyss-crimson-desert-hub/)
 
 *The Pearl Abyss debate has moved from "did Crimson Desert sell?" to "how long can the sales tail last?" The May 25 data is clear enough: the game data supports the long tail, short pressure is easing, and foreign investors are absorbing supply. The stock has not fully priced that combination yet.*
 
 ## Key Takeaways
 
-- **Crimson Desert is not a collapsing game.** As of May 25, 20:20 KST, Steam sales ranks were global **#18**, Korea **#5**, US **#13**, and China **#17**. For a day-68 premium game, that is upper-tail persistence.
-- **CCU is decaying normally, but purchase-conversion proxies improved.** Average CCU for the weekend-plus-holiday window fell **12.8%** vs the prior comparable window, but new reviews rose **5.2%**, reviews/day rose **4.7%**, and new-review positivity improved to **89.0%**.
-- **Patch 1.08 improved quality signals.** Since May 22, 17:20 KST, there were **1,318** new reviews with **90.0%** positivity. The sequence is patch, review recovery, then US/global rank defense.
-- **Short pressure is easing.** Short-sale balance fell from roughly **KRW 131.2B** in early April to **KRW 62.1B** as of May 20. Short-sale value ratio dropped from **32.1%** on May 13 to **2.7%** on May 22.
-- **Foreign investors are absorbing.** From April 1 to May 22, foreigners bought **KRW 56.6B** net, individuals bought **KRW 19.2B**, and institutions sold **KRW 76.1B**. Over the latest five trading days, foreigners bought **KRW 15.1B** while individuals sold **KRW 14.9B**.
-- **Conclusion: Hold thesis strengthened.** More aggressive buying still needs official 6M units, DLC/expansion roadmap, DokeV visibility, or a capital-return message.
+- <strong>Crimson Desert is not a collapsing game.</strong> As of May 25, 20:20 KST, Steam sales ranks were global <strong>#18</strong>, Korea <strong>#5</strong>, US <strong>#13</strong>, and China <strong>#17</strong>. For a day-68 premium game, that is upper-tail persistence.
+- <strong>CCU is decaying normally, but purchase-conversion proxies improved.</strong> Average CCU for the weekend-plus-holiday window fell <strong>12.8%</strong> vs the prior comparable window, but new reviews rose <strong>5.2%</strong>, reviews/day rose <strong>4.7%</strong>, and new-review positivity improved to <strong>89.0%</strong>.
+- <strong>Patch 1.08 improved quality signals.</strong> Since May 22, 17:20 KST, there were <strong>1,318</strong> new reviews with <strong>90.0%</strong> positivity. The sequence is patch, review recovery, then US/global rank defense.
+- <strong>Short pressure is easing.</strong> Short-sale balance fell from roughly <strong>KRW 131.2B</strong> in early April to <strong>KRW 62.1B</strong> as of May 20. Short-sale value ratio dropped from <strong>32.1%</strong> on May 13 to <strong>2.7%</strong> on May 22.
+- <strong>Foreign investors are absorbing.</strong> From April 1 to May 22, foreigners bought <strong>KRW 56.6B</strong> net, individuals bought <strong>KRW 19.2B</strong>, and institutions sold <strong>KRW 76.1B</strong>. Over the latest five trading days, foreigners bought <strong>KRW 15.1B</strong> while individuals sold <strong>KRW 14.9B</strong>.
+- <strong>Conclusion: Hold thesis strengthened.</strong> More aggressive buying still needs official 6M units, DLC/expansion roadmap, DokeV visibility, or a capital-return message.
 
 ## 1. Latest Snapshot
 
@@ -56,7 +56,7 @@ Estimated units are now close to the next milestone.
 | Total-review anchor | 5.926M | about 74k |
 | Positive-review anchor | 5.940M | about 60k |
 
-The practical estimate is roughly **5.93M units**. An actual 6M crossing in late May to early June is plausible, although the official announcement may lag.
+The practical estimate is roughly <strong>5.93M units</strong>. An actual 6M crossing in late May to early June is plausible, although the official announcement may lag.
 
 ## 2. Game Data: The Sales Tail Is Holding
 
@@ -92,7 +92,7 @@ CCU decay is normal for a two-month-old premium game. The important question is 
 
 ![Crimson Desert daily reviews and positive rate](crimson-desert-daily-reviews-positive-rate-2026-05-25.png)
 
-Daily reviews are off the launch peak, but the recent month has held a **250-500/day** range. The recent 7-day positive rate recovered to the **85-90%** zone. Since Patch 1.08:
+Daily reviews are off the launch peak, but the recent month has held a <strong>250-500/day</strong> range. The recent 7-day positive rate recovered to the <strong>85-90%</strong> zone. Since Patch 1.08:
 
 | Metric | Since Patch 1.08 |
 |---|---:|
@@ -135,7 +135,7 @@ Short selling spiked around the May 13 earnings/event window, but both trading i
 | Individuals | -KRW 14.9B |
 | Institutions | -KRW 0.7B |
 
-Since April, foreigners and individuals bought while institutions sold. Recently, individuals have been selling and foreigners have absorbed that supply. This is not a pure retail accumulation setup; it is **foreign absorption plus institutional selling digestion**.
+Since April, foreigners and individuals bought while institutions sold. Recently, individuals have been selling and foreigners have absorbed that supply. This is not a pure retail accumulation setup; it is <strong>foreign absorption plus institutional selling digestion</strong>.
 
 ## 6. Integrated Read
 
@@ -150,7 +150,7 @@ Pearl Abyss has improving game data and easing short pressure, but repricing is 
 
 ## 7. Investment Read
 
-**Stance: Hold / add only after triggers.**
+<strong>Stance: Hold / add only after triggers.</strong>
 
 The data supports holding because the game is holding, new-buyer reactions improved, short pressure eased, and foreigners are absorbing supply. But adding capital requires official catalysts.
 

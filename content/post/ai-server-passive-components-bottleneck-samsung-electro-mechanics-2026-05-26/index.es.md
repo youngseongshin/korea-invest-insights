@@ -14,17 +14,17 @@ valley_cashtag_exclude: ["삼성전자", "SK하이닉스"]
 
 ## TL;DR
 
-- El cuello de botella de componentes pasivos en servidores de IA no es una historia de GPU, sino de **estabilidad eléctrica**.
-- Un rack NVIDIA DGX GB200 consume alrededor de **120kW**, mientras Lenovo cita **135kW TDP** y hasta **155kW pico** para GB300 NVL72. ([NVIDIA][1], [Lenovo][2])
+- El cuello de botella de componentes pasivos en servidores de IA no es una historia de GPU, sino de <strong>estabilidad eléctrica</strong>.
+- Un rack NVIDIA DGX GB200 consume alrededor de <strong>120kW</strong>, mientras Lenovo cita <strong>135kW TDP</strong> y hasta <strong>155kW pico</strong> para GB300 NVL72. ([NVIDIA][1], [Lenovo][2])
 - Los MLCC, capacitores de silicio e inductores actúan como amortiguadores eléctricos: estabilizan, filtran y suavizan la energía que consumen GPU y HBM.
 - La oportunidad no está en MLCC genéricos, sino en componentes de servidor de IA con alta capacitancia, bajo ESR/ESL, bajo ruido y perfil ultrabajo.
-- Samsung Electro-Mechanics importa porque combina **MLCC + FC-BGA + capacitores de silicio**.
+- Samsung Electro-Mechanics importa porque combina <strong>MLCC + FC-BGA + capacitores de silicio</strong>.
 
 ## La idea simple
 
 Un servidor de IA es como un motor de carreras. La GPU es el motor, HBM es el tanque de combustible rápido, el sustrato es la carretera y los MLCC/capacitores de silicio son el control de presión que evita que el motor falle.
 
-TDK describe la ruta de energía de un centro de datos como **UPS → PSU → IBC → VRM → voltaje CPU/GPU**. Cada etapa necesita eficiencia, bajo ripple, tolerancia térmica y confiabilidad. ([TDK][3])
+TDK describe la ruta de energía de un centro de datos como <strong>UPS → PSU → IBC → VRM → voltaje CPU/GPU</strong>. Cada etapa necesita eficiencia, bajo ripple, tolerancia térmica y confiabilidad. ([TDK][3])
 
 Samsung Electro-Mechanics explica que GPU y CPU operan por debajo de 1V y que la corriente puede cambiar por decenas o cientos de amperios. Por eso los MLCC de alta capacitancia cerca de la GPU funcionan como buffers de corriente. ([Samsung Electro-Mechanics][4])
 
@@ -35,7 +35,7 @@ Samsung Electro-Mechanics explica que GPU y CPU operan por debajo de 1V y que la
 | MLCC | Placa y zonas cercanas al chip | Estabilización amplia de voltaje |
 | Capacitor de silicio | Dentro o muy cerca del paquete GPU/HBM | Supresión ultracercana de transientes |
 
-Samsung Electro-Mechanics anunció un contrato de aproximadamente **KRW 1.5 billones** para capacitores de silicio entre **2027 y 2028**. La empresa afirma que estos componentes mejoran la estabilidad de energía dentro de paquetes de semiconductores de alto rendimiento para servidores de IA. ([Samsung Electro-Mechanics][8])
+Samsung Electro-Mechanics anunció un contrato de aproximadamente <strong>KRW 1.5 billones</strong> para capacitores de silicio entre <strong>2027 y 2028</strong>. La empresa afirma que estos componentes mejoran la estabilidad de energía dentro de paquetes de semiconductores de alto rendimiento para servidores de IA. ([Samsung Electro-Mechanics][8])
 
 ## Lectura para Samsung Electro-Mechanics
 

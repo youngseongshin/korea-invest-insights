@@ -8,17 +8,17 @@ tags: ["SK Hynix", "000660.KS", "Part de marché HBM", "HBM", "HBM3E", "HBM4", "
 series: ["Korean Semiconductor & HBM"]
 ---
 
-> **En résumé :** SK Hynix reste l'exposition la plus lisible sur les marchés cotés à la mémoire à haute bande passante pour l'IA en 2026, mais les investisseurs ne devraient pas s'appuyer sur un seul chiffre de « part de marché HBM ». La fourchette réaliste tourne autour de **50 % du chiffre d'affaires/part HBM total en 2026E**, avec une part potentiellement bien plus élevée dans le déploiement HBM4 de Nvidia si les rapports actuels sur les allocations se confirment.
+> <strong>En résumé :</strong> SK Hynix reste l'exposition la plus lisible sur les marchés cotés à la mémoire à haute bande passante pour l'IA en 2026, mais les investisseurs ne devraient pas s'appuyer sur un seul chiffre de « part de marché HBM ». La fourchette réaliste tourne autour de <strong>50 % du chiffre d'affaires/part HBM total en 2026E</strong>, avec une part potentiellement bien plus élevée dans le déploiement HBM4 de Nvidia si les rapports actuels sur les allocations se confirment.
 
 ---
 
 ## L'essentiel en bref
 
-1. **SK Hynix est toujours le leader HBM, mais le chiffre de part de marché dépend du périmètre retenu.** Des rapports locaux citant TrendForce placent SK Hynix à **59 % du marché HBM en 2025** et autour de **50 % en 2026E**, tandis que Counterpoint projette **54 % de part HBM4** pour 2026, et des sources sectorielles indiquent que l'allocation HBM4 de Nvidia en faveur de SK Hynix pourrait avoisiner les deux tiers, voire davantage.
-2. **La vraie question d'investissement porte sur la part des profits, pas sur la part des livraisons.** SK Hynix a affiché un **chiffre d'affaires de 52 576,3 milliards KRW** et un **bénéfice opérationnel de 37 610,3 milliards KRW** au T1 2026, avec une **marge opérationnelle record de 72 %**. Voilà ce que représente le leadership HBM quand les prix, les rendements et les allocations clients s'alignent parfaitement.
-3. **La demande IA s'élargit au-delà des GPU Nvidia.** Les GPU restent le premier moteur, mais la demande ASIC d'Amazon, Google, Meta, Broadcom et d'autres programmes de puces personnalisées constitue un deuxième pilier de la demande HBM. TrendForce, citant des prévisions de Goldman Sachs, estime que la demande HBM liée aux GPU progressera de 23 % en glissement annuel en 2026, contre +82 % pour la demande HBM liée aux ASIC, qui atteindrait 33 % du marché.
-4. **HBM4 est l'événement de recomposition des parts.** Le leadership sur HBM3E a construit le vivier de profits de SK Hynix ; HBM4 déterminera si l'entreprise défend ce vivier face au redressement de Samsung et à la montée en capacité de Micron.
-5. **Check-list pour les investisseurs :** surveiller la qualification HBM4, l'allocation Nvidia/Rubin, les rendements HBM4 de Samsung, le nombre de clients de Micron, les prix HBM, les prix DRAM génériques, les marges eSSD/Solidigm, la discipline sur les dépenses d'investissement et le taux KRW/USD.
+1. <strong>SK Hynix est toujours le leader HBM, mais le chiffre de part de marché dépend du périmètre retenu.</strong> Des rapports locaux citant TrendForce placent SK Hynix à <strong>59 % du marché HBM en 2025</strong> et autour de <strong>50 % en 2026E</strong>, tandis que Counterpoint projette <strong>54 % de part HBM4</strong> pour 2026, et des sources sectorielles indiquent que l'allocation HBM4 de Nvidia en faveur de SK Hynix pourrait avoisiner les deux tiers, voire davantage.
+2. <strong>La vraie question d'investissement porte sur la part des profits, pas sur la part des livraisons.</strong> SK Hynix a affiché un <strong>chiffre d'affaires de 52 576,3 milliards KRW</strong> et un <strong>bénéfice opérationnel de 37 610,3 milliards KRW</strong> au T1 2026, avec une <strong>marge opérationnelle record de 72 %</strong>. Voilà ce que représente le leadership HBM quand les prix, les rendements et les allocations clients s'alignent parfaitement.
+3. <strong>La demande IA s'élargit au-delà des GPU Nvidia.</strong> Les GPU restent le premier moteur, mais la demande ASIC d'Amazon, Google, Meta, Broadcom et d'autres programmes de puces personnalisées constitue un deuxième pilier de la demande HBM. TrendForce, citant des prévisions de Goldman Sachs, estime que la demande HBM liée aux GPU progressera de 23 % en glissement annuel en 2026, contre +82 % pour la demande HBM liée aux ASIC, qui atteindrait 33 % du marché.
+4. <strong>HBM4 est l'événement de recomposition des parts.</strong> Le leadership sur HBM3E a construit le vivier de profits de SK Hynix ; HBM4 déterminera si l'entreprise défend ce vivier face au redressement de Samsung et à la montée en capacité de Micron.
+5. <strong>Check-list pour les investisseurs :</strong> surveiller la qualification HBM4, l'allocation Nvidia/Rubin, les rendements HBM4 de Samsung, le nombre de clients de Micron, les prix HBM, les prix DRAM génériques, les marges eSSD/Solidigm, la discipline sur les dépenses d'investissement et le taux KRW/USD.
 
 ---
 
@@ -49,15 +49,15 @@ Il existe au moins cinq versions différentes de ce chiffre :
 
 | Angle d'analyse | Lecture pratique 2026 | Pourquoi c'est important |
 |---|---:|---|
-| **Marché HBM total 2025** | **\~59 % SK Hynix** | Illustre la position de leadership acquise à l'entrée en 2026 |
-| **Marché HBM total 2026E** | **\~50 % SK Hynix** | Meilleure estimation de travail pour la part de revenus HBM globale |
-| **Marché HBM4 2026E** | **\~54 % SK Hynix / 28 % Samsung / 18 % Micron** selon une projection Counterpoint | Meilleur instantané de la transition générationnelle |
-| **Allocation HBM4 Nvidia** | Les sources sectorielles suggèrent **environ deux tiers**, possiblement **70 %+** pour SK Hynix | Chiffre le plus important pour la part des profits à court terme |
-| **Part du vivier de profits** | Probablement supérieure à la part des livraisons quand les rendements et le mix ASP sont favorables | Ce dont les investisseurs en actions devraient ultimement se préoccuper |
+| <strong>Marché HBM total 2025</strong> | <strong>\~59 % SK Hynix</strong> | Illustre la position de leadership acquise à l'entrée en 2026 |
+| <strong>Marché HBM total 2026E</strong> | <strong>\~50 % SK Hynix</strong> | Meilleure estimation de travail pour la part de revenus HBM globale |
+| <strong>Marché HBM4 2026E</strong> | <strong>\~54 % SK Hynix / 28 % Samsung / 18 % Micron</strong> selon une projection Counterpoint | Meilleur instantané de la transition générationnelle |
+| <strong>Allocation HBM4 Nvidia</strong> | Les sources sectorielles suggèrent <strong>environ deux tiers</strong>, possiblement <strong>70 %+</strong> pour SK Hynix | Chiffre le plus important pour la part des profits à court terme |
+| <strong>Part du vivier de profits</strong> | Probablement supérieure à la part des livraisons quand les rendements et le mix ASP sont favorables | Ce dont les investisseurs en actions devraient ultimement se préoccuper |
 
 La réponse la plus directe pour les lecteurs :
 
-> SK Hynix représente probablement **environ la moitié du marché HBM total en 2026**, mais sa part du déploiement HBM4 de Nvidia à plus forte valeur ajoutée pourrait être sensiblement plus élevée.
+> SK Hynix représente probablement <strong>environ la moitié du marché HBM total en 2026</strong>, mais sa part du déploiement HBM4 de Nvidia à plus forte valeur ajoutée pourrait être sensiblement plus élevée.
 
 C'est toute la différence entre « part de marché » et « part économique ».
 
@@ -67,7 +67,7 @@ Si Samsung regagne du volume en HBM4 mais que SK Hynix conserve les allocations 
 
 ## Pourquoi la part HBM compte davantage que la part DRAM
 
-SK Hynix a toujours été un grand fournisseur de DRAM. Si l'action est devenue un proxy mondial de l'infrastructure IA, ce n'est pas seulement en raison de sa part DRAM, mais de son **mix en mémoire premium**.
+SK Hynix a toujours été un grand fournisseur de DRAM. Si l'action est devenue un proxy mondial de l'infrastructure IA, ce n'est pas seulement en raison de sa part DRAM, mais de son <strong>mix en mémoire premium</strong>.
 
 La HBM est structurellement différente de la DRAM générique :
 
@@ -78,18 +78,18 @@ La HBM est structurellement différente de la DRAM générique :
 - L'expansion de capacité est plus lente car les contraintes de TSV et de packaging comptent autant que la production de wafers.
 - L'ASP par bit est bien plus élevé que celui de la DRAM conventionnelle.
 
-La conséquence pratique : **un modeste déplacement dans le mix HBM peut engendrer un déplacement disproportionné dans les marges.**
+La conséquence pratique : <strong>un modeste déplacement dans le mix HBM peut engendrer un déplacement disproportionné dans les marges.</strong>
 
 C'est visible dans les résultats du T1 2026 de SK Hynix :
 
 | Indicateur T1 2026 | Résultat |
 |---|---:|
-| Chiffre d'affaires | **52 576,3 milliards KRW** |
-| Bénéfice opérationnel | **37 610,3 milliards KRW** |
-| Marge opérationnelle | **72 %** |
-| Bénéfice net | **40 345,9 milliards KRW** |
-| Trésorerie et équivalents | **54 300 milliards KRW** |
-| Trésorerie nette | **35 000 milliards KRW** |
+| Chiffre d'affaires | <strong>52 576,3 milliards KRW</strong> |
+| Bénéfice opérationnel | <strong>37 610,3 milliards KRW</strong> |
+| Marge opérationnelle | <strong>72 %</strong> |
+| Bénéfice net | <strong>40 345,9 milliards KRW</strong> |
+| Trésorerie et équivalents | <strong>54 300 milliards KRW</strong> |
+| Trésorerie nette | <strong>35 000 milliards KRW</strong> |
 
 Ce ne sont pas des marges de mémoire générique ordinaires. Elles résultent d'une recomposition du mix tirée par le HBM, d'une offre DRAM tendue, d'une forte demande en DRAM serveur haute capacité et d'une meilleure valorisation des SSD d'entreprise, le tout survenant simultanément.
 
@@ -107,9 +107,9 @@ Mais les investisseurs doivent distinguer les générations :
 
 | Génération | Signification pour les investisseurs |
 |---|---|
-| **HBM3 / HBM3E** | A construit le vivier de profits HBM actuel de SK Hynix et la relation Nvidia |
-| **HBM4** | Le point de basculement 2026 où Samsung et Micron tentent de recomposer les parts |
-| **HBM4E / HBM personnalisé** | Le champ de bataille 2027+ pour les architectures mémoire spécifiques aux ASIC |
+| <strong>HBM3 / HBM3E</strong> | A construit le vivier de profits HBM actuel de SK Hynix et la relation Nvidia |
+| <strong>HBM4</strong> | Le point de basculement 2026 où Samsung et Micron tentent de recomposer les parts |
+| <strong>HBM4E / HBM personnalisé</strong> | Le champ de bataille 2027+ pour les architectures mémoire spécifiques aux ASIC |
 
 Cette distinction est importante car HBM4 n'est pas simplement un « HBM3E plus rapide ». Il introduit une interface plus large et davantage d'options d'architecture spécifiques aux clients. Le marché devient ainsi plus attractif, mais aussi plus concurrentiel.
 
@@ -139,9 +139,9 @@ C'est pourquoi le chiffre d'allocation Nvidia compte davantage qu'un chiffre gé
 
 TrendForce, citant Goldman Sachs et des données sectorielles, a décrit un basculement significatif vers les puces IA personnalisées. Les chiffres clés :
 
-- Demande HBM liée aux GPU en 2026 : **+23 % en glissement annuel**
-- Demande HBM liée aux ASIC en 2026 : **+82 % en glissement annuel**
-- Part des ASIC dans le marché HBM : **33 %**
+- Demande HBM liée aux GPU en 2026 : <strong>+23 % en glissement annuel</strong>
+- Demande HBM liée aux ASIC en 2026 : <strong>+82 % en glissement annuel</strong>
+- Part des ASIC dans le marché HBM : <strong>33 %</strong>
 
 La demande HBM n'est donc plus uniquement un goulet d'étranglement lié aux GPU Nvidia. Les plateformes ASIC personnalisées d'Amazon, Google, Meta, Broadcom et d'autres accélérateurs sur mesure deviennent de plus en plus incontournables.
 
@@ -170,7 +170,7 @@ Autrement dit, l'opportunité mémoire IA se propage du HBM vers la pile mémoir
 
 ## Les marges : pourquoi une marge opérationnelle de 72 % change la donne
 
-La marge opérationnelle de SK Hynix au T1 2026 est annoncée à **72 %**. Ce chiffre mérite davantage d'attention que le simple dépassement des prévisions de revenus.
+La marge opérationnelle de SK Hynix au T1 2026 est annoncée à <strong>72 %</strong>. Ce chiffre mérite davantage d'attention que le simple dépassement des prévisions de revenus.
 
 Dans les anciens cycles mémoire, une entreprise pouvait enchaîner quelques trimestres de profits explosifs avant de retomber dans les pertes dès que l'offre rattrapait la demande. Les investisseurs valorisaient l'activité comme profondément cyclique car le produit était banalisé.
 
@@ -188,7 +188,7 @@ Le HBM consomme des wafers DRAM, mais le goulet d'étranglement ne se limite pas
 
 Quand le HBM représente une part plus importante des revenus DRAM et que les prix DRAM génériques sont aussi en hausse, le profil de marge combiné peut se réinitialiser à la hausse.
 
-Asia Business Daily a rapporté que TrendForce estimait que les prix contractuels DRAM génériques avaient progressé de **90 à 95 % en glissement trimestriel** au T1 2026, et que les estimations sectorielles plaçaient les marges opérationnelles DRAM et NAND de SK Hynix à respectivement **74 %** et **48 %**. Aju Press a rapporté que le HBM représentait environ **30 % des livraisons DRAM totales** de SK Hynix.
+Asia Business Daily a rapporté que TrendForce estimait que les prix contractuels DRAM génériques avaient progressé de <strong>90 à 95 % en glissement trimestriel</strong> au T1 2026, et que les estimations sectorielles plaçaient les marges opérationnelles DRAM et NAND de SK Hynix à respectivement <strong>74 %</strong> et <strong>48 %</strong>. Aju Press a rapporté que le HBM représentait environ <strong>30 % des livraisons DRAM totales</strong> de SK Hynix.
 
 Ce dernier point est crucial. Si le HBM représente environ 30 % des livraisons DRAM mais affiche un ASP et une marge bien supérieurs, le poids économique du HBM est bien plus grand que sa part des livraisons.
 
@@ -241,18 +241,18 @@ Pour les investisseurs internationaux qui suivent SK Hynix comme exposition IA/H
 
 | Point de contrôle | Signal haussier | Signal baissier |
 |---|---|---|
-| **Part HBM totale** | SK Hynix reste près de 50 %+ en 2026 | La part tombe nettement sous 45 % |
-| **Allocation HBM4 Nvidia** | Allocation des deux tiers ou plus confirmée par les commandes | Samsung/Micron se partagent l'allocation bien plus tôt |
-| **Rendement et qualité HBM4** | Pas de problème de validation majeur ; passage stable des échantillons payants à la production | Retard de qualification, rééchantillonnage ou report client |
-| **Prix HBM** | L'ASP se maintient malgré l'expansion de la capacité | La correction des prix commence avant que la hausse des volumes ne la compense |
-| **Traction auprès des clients ASIC** | SK Hynix remporte des programmes HBM personnalisés de type Google/Amazon/Broadcom | Les clients ASIC se diversifient en s'éloignant de SK Hynix |
-| **Retour en force de Samsung** | Samsung gagne des parts lentement sans perturbation des prix | Samsung remporte une grande allocation HBM4 avec une tarification agressive |
-| **Expansion de Micron** | Micron croît mais reste troisième fournisseur | Micron devient un concurrent crédible à la fois sur GPU et ASIC |
-| **DRAM générique** | Les prix DDR5/DRAM serveur restent fermes | L'expansion de l'offre affaiblit les prix |
-| **NAND / eSSD** | Les marges Solidigm et eSSD s'améliorent avec la croissance du stockage IA | Le NAND reste un poids mort à plus faible marge |
-| **Discipline sur les capex** | Les investissements M15X, P&T7, Indiana et Yongin correspondent à la demande visible | Les capex dépassent la visibilité des commandes |
-| **Bilan** | La trésorerie nette croît tout en finançant l'expansion | La dette augmente avant que la pérennité des marges soit prouvée |
-| **KRW/USD** | La stabilité du KRW soutient les rendements des investisseurs en USD | La faiblesse du KRW annule la performance de l'action en monnaie locale |
+| <strong>Part HBM totale</strong> | SK Hynix reste près de 50 %+ en 2026 | La part tombe nettement sous 45 % |
+| <strong>Allocation HBM4 Nvidia</strong> | Allocation des deux tiers ou plus confirmée par les commandes | Samsung/Micron se partagent l'allocation bien plus tôt |
+| <strong>Rendement et qualité HBM4</strong> | Pas de problème de validation majeur ; passage stable des échantillons payants à la production | Retard de qualification, rééchantillonnage ou report client |
+| <strong>Prix HBM</strong> | L'ASP se maintient malgré l'expansion de la capacité | La correction des prix commence avant que la hausse des volumes ne la compense |
+| <strong>Traction auprès des clients ASIC</strong> | SK Hynix remporte des programmes HBM personnalisés de type Google/Amazon/Broadcom | Les clients ASIC se diversifient en s'éloignant de SK Hynix |
+| <strong>Retour en force de Samsung</strong> | Samsung gagne des parts lentement sans perturbation des prix | Samsung remporte une grande allocation HBM4 avec une tarification agressive |
+| <strong>Expansion de Micron</strong> | Micron croît mais reste troisième fournisseur | Micron devient un concurrent crédible à la fois sur GPU et ASIC |
+| <strong>DRAM générique</strong> | Les prix DDR5/DRAM serveur restent fermes | L'expansion de l'offre affaiblit les prix |
+| <strong>NAND / eSSD</strong> | Les marges Solidigm et eSSD s'améliorent avec la croissance du stockage IA | Le NAND reste un poids mort à plus faible marge |
+| <strong>Discipline sur les capex</strong> | Les investissements M15X, P&T7, Indiana et Yongin correspondent à la demande visible | Les capex dépassent la visibilité des commandes |
+| <strong>Bilan</strong> | La trésorerie nette croît tout en finançant l'expansion | La dette augmente avant que la pérennité des marges soit prouvée |
+| <strong>KRW/USD</strong> | La stabilité du KRW soutient les rendements des investisseurs en USD | La faiblesse du KRW annule la performance de l'action en monnaie locale |
 
 Cette check-list est plus utile qu'un simple objectif de cours. Le HBM évolue trop vite pour que des ancres de valorisation statiques suffisent.
 

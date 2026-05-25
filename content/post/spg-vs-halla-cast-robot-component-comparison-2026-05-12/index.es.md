@@ -16,7 +16,7 @@ tags:
   - "renta variable coreana"
 ---
 
-> 📚 **Serie robótica coreana.**
+> 📚 <strong>Serie robótica coreana.</strong>
 > Artículo anterior: [Cadena de Valor de la Robótica en Corea — Samsung / Hyundai Motor / LG Avanzan en Paralelo](/post/korea-robotics-value-chain-complete-map-2026-05-11/)
 
 *SPG apareció 5 veces en el análisis de la cadena de valor robótica coreana — suministrando reductores a Boston Dynamics, Rainbow Robotics, Samsung y LG. Capitalización ₩3,0 bn, PER \~110×. Halla Cast, más recientemente, ganó un pedido de componentes humanoides de un "fabricante global de IA". Capitalización ₩620 bn, PER \~62×. Ambas figuran como "nombres robóticos" — pero su posición en la cadena de valor, su precio y la forma que adopta su riesgo son distintos. ¿Cuál ofrece mejor punto de entrada — o más precisamente, cuál asume menos riesgo?*
@@ -25,9 +25,9 @@ tags:
 
 ## Resumen ejecutivo
 
-* **SPG = la "articulación" del robot.** Fabrica reductores y actuadores — los componentes de movimiento más core en la cadena de valor. Única empresa coreana que produce en casa los tres tipos de reductores: harmónico, planetario y RV. **Capitalización \~₩3,0 bn, PER 2026E \~110×.**
-* **Halla Cast = el "esqueleto" del robot.** Fundición a presión de magnesio y aluminio para piezas estructurales ligeras y componentes de gestión térmica. En 2025 ganó un pedido de ₩12,4 bn en componentes humanoides de un "fabricante global de IA". **Capitalización \~₩620 bn, PER 2026E \~62×.**
-* **Lectura de situación.** SPG es el activo robótico más core, pero el precio actual ya descuenta esa condición de forma agresiva. Halla Cast es menos core, pero su carga de valoración es menor y queda verificación por delante. **Ambas están caras**, pero la *razón* y el *perfil de riesgo* son distintos.
+* <strong>SPG = la "articulación" del robot.</strong> Fabrica reductores y actuadores — los componentes de movimiento más core en la cadena de valor. Única empresa coreana que produce en casa los tres tipos de reductores: harmónico, planetario y RV. <strong>Capitalización \~₩3,0 bn, PER 2026E \~110×.</strong>
+* <strong>Halla Cast = el "esqueleto" del robot.</strong> Fundición a presión de magnesio y aluminio para piezas estructurales ligeras y componentes de gestión térmica. En 2025 ganó un pedido de ₩12,4 bn en componentes humanoides de un "fabricante global de IA". <strong>Capitalización \~₩620 bn, PER 2026E \~62×.</strong>
+* <strong>Lectura de situación.</strong> SPG es el activo robótico más core, pero el precio actual ya descuenta esa condición de forma agresiva. Halla Cast es menos core, pero su carga de valoración es menor y queda verificación por delante. <strong>Ambas están caras</strong>, pero la *razón* y el *perfil de riesgo* son distintos.
 
 ---
 
@@ -48,11 +48,11 @@ N.º 1 mundial: Harmonic Drive de Japón (décadas de monopolio efectivo)
 Único competidor coreano en casa: SPG (produce los tres tipos)
 ```
 
-SPG también fabrica **actuadores (módulo integrado de motor + reductor + sensor)**. Su actuador propietario SDD (Smart Direct Drive) tiene como objetivo 5.000 unidades vendidas en el 1S 2026 — una estrategia para ascender de "proveedor de reductores" a "proveedor de soluciones integradas reductor + actuador".
+SPG también fabrica <strong>actuadores (módulo integrado de motor + reductor + sensor)</strong>. Su actuador propietario SDD (Smart Direct Drive) tiene como objetivo 5.000 unidades vendidas en el 1S 2026 — una estrategia para ascender de "proveedor de reductores" a "proveedor de soluciones integradas reductor + actuador".
 
 ### 1.2 Piezas estructurales de Halla Cast — el aligeramiento del esqueleto del robot
 
-Halla Cast fabrica piezas metálicas de precisión mediante fundición a presión de magnesio y aluminio fundidos. Originalmente centrada en carcasas de sensores para automoción, marcos para pantallas y cajas de inversores para vehículos eléctricos, la empresa está ampliando su actividad hacia **bastidores estructurales humanoides, periféricos de mecanismos de accionamiento y componentes de gestión térmica**.
+Halla Cast fabrica piezas metálicas de precisión mediante fundición a presión de magnesio y aluminio fundidos. Originalmente centrada en carcasas de sensores para automoción, marcos para pantallas y cajas de inversores para vehículos eléctricos, la empresa está ampliando su actividad hacia <strong>bastidores estructurales humanoides, periféricos de mecanismos de accionamiento y componentes de gestión térmica</strong>.
 
 ```
 Por qué un esqueleto ligero importa:
@@ -72,7 +72,7 @@ El magnesio también es más difícil de trabajar:
 → mantener el rendimiento en producción en serie es la competencia clave
 ```
 
-La ventaja técnica de Halla Cast reside en la **fundición a presión de alto vacío (elimina la porosidad) y la fundición de paredes delgadas (piezas de gran área con mínimo espesor)**. La plataforma fue validada en electrónica de automoción; las piezas estructurales para humanoides son su extensión natural.
+La ventaja técnica de Halla Cast reside en la <strong>fundición a presión de alto vacío (elimina la porosidad) y la fundición de paredes delgadas (piezas de gran área con mínimo espesor)</strong>. La plataforma fue validada en electrónica de automoción; las piezas estructurales para humanoides son su extensión natural.
 
 ### 1.3 En una sola línea
 
@@ -96,14 +96,14 @@ Cierre del 12 de mayo.
 | Concepto | SPG | Halla Cast |
 |---|---:|---:|
 | Precio | ₩135.100 | ₩16.900 |
-| Capitalización | **\~₩3,0 bn** | **\~₩620 bn** |
+| Capitalización | <strong>\~₩3,0 bn</strong> | <strong>\~₩620 bn</strong> |
 | Ingresos 2025 | ₩341,7 bn | ₩155,9 bn |
 | Resultado operativo 2025 | ₩17,9 bn | ₩10,3 bn |
 | Margen operativo 2025 | 5,2% | 6,6% |
 | Ingresos 2026E | \~₩418,6 bn | \~₩181,4 bn |
 | Resultado operativo 2026E | \~₩27,1 bn | \~₩14,6 bn |
 | Margen operativo 2026E | \~6,5% | \~8,0% |
-| **PER 2026E** | **\~110×** | **\~62×** |
+| <strong>PER 2026E</strong> | <strong>\~110×</strong> | <strong>\~62×</strong> |
 | PSR 2026E | \~7,2× | \~3,4× |
 | Posición en la cadena de valor | Articulaciones (reductores / actuadores) | Esqueleto (estructura / térmica / aligeramiento) |
 | Menciones en el análisis de cadena de valor | 5× (la más citada) | 1-2× |
@@ -111,11 +111,11 @@ Cierre del 12 de mayo.
 
 ### 2.1 Lo que muestra la tabla
 
-**Primero: SPG es 4,8× más cara que Halla Cast.** ₩3,0 bn vs. ₩620 bn. PER 110× vs. 62×.
+<strong>Primero: SPG es 4,8× más cara que Halla Cast.</strong> ₩3,0 bn vs. ₩620 bn. PER 110× vs. 62×.
 
-**Segundo: Halla Cast tiene el margen operativo más alto.** SPG 5,2-6,5% vs. Halla Cast 6,6-8,0%. La mezcla de producto de SPG combina motores de ventilador (margen 2-3%) y motores con reductor (margen \~10%), tirando a la baja del consolidado. Los reductores de precisión para robots siguen siendo solo \~3% de los ingresos.
+<strong>Segundo: Halla Cast tiene el margen operativo más alto.</strong> SPG 5,2-6,5% vs. Halla Cast 6,6-8,0%. La mezcla de producto de SPG combina motores de ventilador (margen 2-3%) y motores con reductor (margen \~10%), tirando a la baja del consolidado. Los reductores de precisión para robots siguen siendo solo \~3% de los ingresos.
 
-**Tercero: la prima de SPG se paga por su condición de "pieza core".** Los reductores representan el 30-40% del coste de los materiales de un robot, y SPG es el único productor coreano de los tres tipos de reductor. Las piezas estructurales de Halla Cast son relevantes, pero el nivel de "insustituibilidad" es inferior al de los reductores.
+<strong>Tercero: la prima de SPG se paga por su condición de "pieza core".</strong> Los reductores representan el 30-40% del coste de los materiales de un robot, y SPG es el único productor coreano de los tres tipos de reductor. Las piezas estructurales de Halla Cast son relevantes, pero el nivel de "insustituibilidad" es inferior al de los reductores.
 
 ---
 
@@ -123,7 +123,7 @@ Cierre del 12 de mayo.
 
 ### 3.1 Por qué es core
 
-SPG es la única empresa que apareció **5 veces** en el análisis de la cadena de valor — Boston Dynamics (Spot, Atlas), Rainbow Robotics, Samsung Electronics, LG Science Park, todos le compran reductores. Prácticamente todas las principales plataformas robóticas coreanas.
+SPG es la única empresa que apareció <strong>5 veces</strong> en el análisis de la cadena de valor — Boston Dynamics (Spot, Atlas), Rainbow Robotics, Samsung Electronics, LG Science Park, todos le compran reductores. Prácticamente todas las principales plataformas robóticas coreanas.
 
 El lanzamiento del actuador SDD (objetivo 5.000 unidades en 1S26) es el movimiento estratégico de "proveedor de reductores" a "proveedor de soluciones integradas de accionamiento".
 
@@ -158,9 +158,9 @@ Buena empresa, precio no tan bueno. La tesis de los reductores como pieza core e
 
 ### 4.1 Por qué atrae la atención
 
-En mayo de 2025, Halla Cast ganó un pedido de componentes para robots humanoides de 3 referencias por ₩12,4 bn de un **"fabricante global de IA"**. Se informa de que \~10 referencias adicionales están en negociación, con producción en serie plena prevista para el 2S 2026.
+En mayo de 2025, Halla Cast ganó un pedido de componentes para robots humanoides de 3 referencias por ₩12,4 bn de un <strong>"fabricante global de IA"</strong>. Se informa de que \~10 referencias adicionales están en negociación, con producción en serie plena prevista para el 2S 2026.
 
-El mercado interpreta "fabricante global de IA" como Tesla. Pero **ninguna fuente pública lo confirma**. El encuadre analítico conservador: no es un "proveedor confirmado de Tesla" sino "una opción vinculada a componentes humanoides de un fabricante global de IA".
+El mercado interpreta "fabricante global de IA" como Tesla. Pero <strong>ninguna fuente pública lo confirma</strong>. El encuadre analítico conservador: no es un "proveedor confirmado de Tesla" sino "una opción vinculada a componentes humanoides de un fabricante global de IA".
 
 ### 4.2 La composición de la cartera de pedidos
 
@@ -171,27 +171,27 @@ La cartera de pedidos de Halla Cast a finales de 2025 es de ₩1.134,6 bn — si
 | Pantallas | ₩641,9 bn | 56,6% |
 | Conducción autónoma | ₩350,6 bn | 30,9% |
 | Inversores para VE | ₩95,6 bn | 8,4% |
-| **Robot** | **₩12,4 bn** | **1,1%** |
+| <strong>Robot</strong> | <strong>₩12,4 bn</strong> | <strong>1,1%</strong> |
 | Baterías | ₩11,2 bn | 1,0% |
 | Otros | ₩22,9 bn | 2,0% |
 
-**El robot representa el 1,1% de la cartera total.** Halla Cast sigue siendo un **proveedor de electrónica de automoción para pantallas y conducción autónoma** que acaba de empezar a añadir piezas humanoides. La robótica es pequeña pero representa opcionalidad.
+<strong>El robot representa el 1,1% de la cartera total.</strong> Halla Cast sigue siendo un <strong>proveedor de electrónica de automoción para pantallas y conducción autónoma</strong> que acaba de empezar a añadir piezas humanoides. La robótica es pequeña pero representa opcionalidad.
 
 El valor de la opción depende de si las \~10 referencias en negociación se convierten en pedidos en firme. Que los ₩12,4 bn crezcan hasta ₩50,0 bn+ reclasificaría a la empresa como "valor de componentes robóticos". Sin esa conversión, seguirá siendo un "proveedor de electrónica de automoción caro".
 
 ### 4.3 En qué aventaja Halla Cast a SPG
 
-**Menor carga de precio.** PER 62× sigue siendo elevado, pero es la mitad del 110× de SPG.
+<strong>Menor carga de precio.</strong> PER 62× sigue siendo elevado, pero es la mitad del 110× de SPG.
 
-**Margen operativo más alto y en mejora.** Trayectoria del margen operativo de Halla Cast: 6,6% (2025) → 7,8% (2026E) → 8,4% (2027F). SPG avanza más lentamente, del 5,2% al 6,5%.
+<strong>Margen operativo más alto y en mejora.</strong> Trayectoria del margen operativo de Halla Cast: 6,6% (2025) → 7,8% (2026E) → 8,4% (2027F). SPG avanza más lentamente, del 5,2% al 6,5%.
 
-**Negocio base defensivo.** La cartera de pedidos no robóticos de Halla Cast (>₩1 bn) protege ante escenarios en los que la robótica no entrega. SPG también tiene un negocio base en motores industriales, pero el alto precio de la acción implica que "si la robótica no se materializa → fuerte caída del precio".
+<strong>Negocio base defensivo.</strong> La cartera de pedidos no robóticos de Halla Cast (>₩1 bn) protege ante escenarios en los que la robótica no entrega. SPG también tiene un negocio base en motores industriales, pero el alto precio de la acción implica que "si la robótica no se materializa → fuerte caída del precio".
 
 ### 4.4 En qué está por debajo de SPG
 
-**Menor posición core en la cadena de valor.** Los reductores son imprescindibles para que un robot se mueva. Las piezas estructurales de fundición son importantes, pero más sustituibles — en principio, otro fundidor podría suministrarlas.
+<strong>Menor posición core en la cadena de valor.</strong> Los reductores son imprescindibles para que un robot se mueva. Las piezas estructurales de fundición son importantes, pero más sustituibles — en principio, otro fundidor podría suministrarlas.
 
-**Sin confirmación de cliente.** Las relaciones de SPG con Rainbow / Boston Dynamics están documentadas. El "fabricante global de IA" de Halla Cast no ha sido identificado oficialmente.
+<strong>Sin confirmación de cliente.</strong> Las relaciones de SPG con Rainbow / Boston Dynamics están documentadas. El "fabricante global de IA" de Halla Cast no ha sido identificado oficialmente.
 
 ---
 
@@ -199,19 +199,19 @@ El valor de la opción depende de si las \~10 referencias en negociación se con
 
 | Concepto | SPG | Halla Cast | Ventaja |
 |---|---|---|---|
-| Core en robótica | **Reductores / actuadores (articulaciones)** | Estructura / térmica / aligeramiento (esqueleto) | SPG |
-| PER | \~110× | **\~62×** | Halla Cast |
-| PSR | \~7,2× | **\~3,4×** | Halla Cast |
-| Margen operativo | 5,2-6,5% | **6,6-8,0%** | Halla Cast |
-| Crecimiento de beneficios (2026E) | +70% | **+112%** | Halla Cast |
-| Menciones en la cadena de valor | **5×** | 1-2× | SPG |
-| Verificación de cliente | **Rainbow / BD confirmados** | "Fabricante global de IA" (sin confirmar) | SPG |
-| Red de seguridad del negocio base | Motores industriales (existe, pero efecto protector más débil dado el precio) | **Cartera en pantallas / conducción autónoma >₩1 bn** | Halla Cast |
-| Precio ya descontado | **Muy pesado** | Pesado pero relativamente menor | Halla Cast |
+| Core en robótica | <strong>Reductores / actuadores (articulaciones)</strong> | Estructura / térmica / aligeramiento (esqueleto) | SPG |
+| PER | \~110× | <strong>\~62×</strong> | Halla Cast |
+| PSR | \~7,2× | <strong>\~3,4×</strong> | Halla Cast |
+| Margen operativo | 5,2-6,5% | <strong>6,6-8,0%</strong> | Halla Cast |
+| Crecimiento de beneficios (2026E) | +70% | <strong>+112%</strong> | Halla Cast |
+| Menciones en la cadena de valor | <strong>5×</strong> | 1-2× | SPG |
+| Verificación de cliente | <strong>Rainbow / BD confirmados</strong> | "Fabricante global de IA" (sin confirmar) | SPG |
+| Red de seguridad del negocio base | Motores industriales (existe, pero efecto protector más débil dado el precio) | <strong>Cartera en pantallas / conducción autónoma >₩1 bn</strong> | Halla Cast |
+| Precio ya descontado | <strong>Muy pesado</strong> | Pesado pero relativamente menor | Halla Cast |
 
-**En términos relativos, Halla Cast asume menos riesgo.** SPG es el mejor activo robótico, pero su precio actual ha absorbido esa calidad de forma demasiado agresiva. Halla Cast es menos core pero cotiza con menos carga, y dispone de una red de seguridad de negocio base más gruesa.
+<strong>En términos relativos, Halla Cast asume menos riesgo.</strong> SPG es el mejor activo robótico, pero su precio actual ha absorbido esa calidad de forma demasiado agresiva. Halla Cast es menos core pero cotiza con menos carga, y dispone de una red de seguridad de negocio base más gruesa.
 
-Dicho esto, **"menos arriesgada" ≠ "barata".** Halla Cast a PER 62× es cara para un proveedor de automoción. Sin mayor expansión de pedidos robóticos, el múltiplo es difícil de defender.
+Dicho esto, <strong>"menos arriesgada" ≠ "barata".</strong> Halla Cast a PER 62× es cara para un proveedor de automoción. Sin mayor expansión de pedidos robóticos, el múltiplo es difícil de defender.
 
 ---
 
@@ -272,31 +272,31 @@ SPG es el "nudo central" de la cadena de valor robótica de Corea — el único 
 
 Halla Cast es menos core que SPG — estructura / térmica / aligeramiento en lugar de reductores. Pero ₩620 bn a PER 62× es la mitad del múltiplo, con una red de seguridad de negocio base no robótico de >₩1 bn. Si la cartera robótica se expande de ₩12,4 bn a ₩50,0 bn+, se abre margen de re-rating.
 
-Ambas están caras. **La razón de estar caras difiere.** SPG: "pieza core, por eso es cara". Halla Cast: "opcionalidad incorporada, por eso es cara". Riesgo de SPG: "si las expectativas no se realizan, caída pronunciada". Riesgo de Halla Cast: "si la opción no se ejerce, vuelve a un múltiplo de automoción".
+Ambas están caras. <strong>La razón de estar caras difiere.</strong> SPG: "pieza core, por eso es cara". Halla Cast: "opcionalidad incorporada, por eso es cara". Riesgo de SPG: "si las expectativas no se realizan, caída pronunciada". Riesgo de Halla Cast: "si la opción no se ejerce, vuelve a un múltiplo de automoción".
 
 ---
 
 ## Preguntas frecuentes
 
-**P: ¿Cuál es la diferencia más importante entre SPG y Halla Cast?**
+<strong>P: ¿Cuál es la diferencia más importante entre SPG y Halla Cast?</strong>
 R: Su posición en la cadena de valor robótica. SPG es la "articulación" (reductores); Halla Cast es el "esqueleto" (bastidor estructural). Los reductores no son sustituibles; las piezas estructurales pueden obtenerse de otros fundidores. Esa asimetría explica por qué SPG cotiza a un múltiplo más alto.
 
-**P: ¿Puede normalizarse el PER 110× de SPG?**
+<strong>P: ¿Puede normalizarse el PER 110× de SPG?</strong>
 R: Hay dos caminos. (1) Los beneficios crecen lo suficientemente rápido como para que el múltiplo se comprima de forma natural — el resultado operativo actual de ₩27,1 bn subiendo a ₩80 bn+ para 2027-28 llevaría el PER hacia 30-40×, posible si la producción en serie de humanoides globales se acelera. (2) El precio cae para comprimir el múltiplo — si el SDD o el pedido mayor se retrasan. El tiempo que tarde en materializarse uno u otro camino es la variable clave.
 
-**P: ¿El "fabricante global de IA" es Tesla?**
+<strong>P: ¿El "fabricante global de IA" es Tesla?</strong>
 R: El mercado lo interpreta así, pero ninguna fuente pública lo confirma. El documento de la empresa solo dice "fabricante global de IA". Analíticamente: trátelo como "una opción vinculada a un fabricante global de IA", no como "proveedor confirmado de Tesla". La confirmación de Tesla añadiría un tramo adicional de re-rating sobre la prima actual.
 
-**P: Si la robótica es solo el 3% de los ingresos de SPG, ¿qué representa el 97% restante?**
+<strong>P: Si la robótica es solo el 3% de los ingresos de SPG, ¿qué representa el 97% restante?</strong>
 R: Motores y reductores industriales — motores para electrodomésticos (aire acondicionado / lavadoras), motores industriales con reductor, motores de ventilador. Negocio base estable pero de crecimiento de un dígito. La robótica es el "acelerador de crecimiento" añadido encima.
 
-**P: ¿La cartera de pedidos de ₩1 bn de Halla Cast es una red de seguridad real?**
+<strong>P: ¿La cartera de pedidos de ₩1 bn de Halla Cast es una red de seguridad real?</strong>
 R: Parcialmente. Pantallas (56,6%) + conducción autónoma (30,9%) = 87,5% de la cartera es negocio base de electrónica de automoción. Eso significa que "si la robótica no entrega, la acción vuelve a un múltiplo de automoción". Es protección útil. Pero defender PER 62× requiere que la opción robótica funcione.
 
-**P: ¿Debería evitarse ambas y buscar otros nombres robóticos?**
+<strong>P: ¿Debería evitarse ambas y buscar otros nombres robóticos?</strong>
 R: Es una alternativa razonable. El [análisis de la cadena de valor robótica](/post/korea-robotics-value-chain-complete-map-2026-05-11/) cubre otros proveedores de componentes (HL Mando, Samsung Electro-Mechanics, LG Innotek, Hyundai Mobis) y nombres pure-play en robótica (Rainbow Robotics, Doosan Robotics). Los pure-plays cargan con una valoración más pesada; los grandes proveedores de componentes tienen una cuota de ingresos robóticos minúscula, de modo que los catalizadores en robótica tienen un efecto limitado en el precio de la acción.
 
-**P: ¿Qué señales justificarían tener ambas en cartera?**
+<strong>P: ¿Qué señales justificarían tener ambas en cartera?</strong>
 R: Tres simultáneamente: (1) Tesla Optimus o Boston Dynamics Atlas entrando formalmente en producción en serie; (2) proveedores de componentes coreanos mostrando ingresos robóticos reconocidos en su cuenta de resultados (ingresos trimestrales en robótica ≥₩10 bn); (3) las previsiones del tamaño del mercado humanoide global revisadas al alza. Las tres juntas relanzarían los componentes robóticos coreanos de forma generalizada.
 
 ---

@@ -24,7 +24,7 @@ tags:
 series: ["ai-pcb-substrate-thesis-2026"]
 ---
 
-> **Carte sectorielle :** Cette note constitue la thèse PCB et substrats IA de niveau supérieur qui sous-tend les travaux sur Pamicell. À lire conjointement avec le [hub PCB IA](/page/korea-ai-pcb-substrate-hub/), [Pamicell Partie 1](/post/pamicell-doosan-electro-bg-proxy-rediscovery-2026-04-30/), [Pamicell Partie 2](/post/pamicell-four-layer-progress-and-fifth-cycle-layer-2026-05-03/), et la précédente [note de revalorisation de Samsung Electro-Mechanics dans l'infrastructure IA](/post/samsung-electro-mechanics-ai-infrastructure-rerating-2026-04-21/).
+> <strong>Carte sectorielle :</strong> Cette note constitue la thèse PCB et substrats IA de niveau supérieur qui sous-tend les travaux sur Pamicell. À lire conjointement avec le [hub PCB IA](/page/korea-ai-pcb-substrate-hub/), [Pamicell Partie 1](/post/pamicell-doosan-electro-bg-proxy-rediscovery-2026-04-30/), [Pamicell Partie 2](/post/pamicell-four-layer-progress-and-fifth-cycle-layer-2026-05-03/), et la précédente [note de revalorisation de Samsung Electro-Mechanics dans l'infrastructure IA](/post/samsung-electro-mechanics-ai-infrastructure-rerating-2026-04-21/).
 
 Les analyses précédentes au niveau des entreprises posaient une question plus ciblée : quels noms coréens sont le mieux positionnés dans le PCB IA, le FC-BGA et l'approvisionnement en matériaux faible perte ? Cette note prend de la hauteur. Elle cherche à comprendre pourquoi le capital devrait entrer dans l'ensemble de cet écosystème en premier lieu.
 

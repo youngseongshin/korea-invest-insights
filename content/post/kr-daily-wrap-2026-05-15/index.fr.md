@@ -21,7 +21,7 @@ draft: false
 | Brent | 108,0 $ | +3,6 % | Hausse |
 | DXY | 99,1 | +1,2 % | Dollar fort |
 
-**Verdict de régime :** Corée **Baissier** · États-Unis **Haussier**. L'écart entre les deux marchés justifie une réduction de l'exposition coréenne et le maintien des positions américaines. Sur cinq séances, le KOSPI a perdu 329 points et le KOSDAQ 78 points, pendant que le dollar monte et que le Brent progresse — un environnement de double pression pour les actions coréennes importatrices d'énergie.
+<strong>Verdict de régime :</strong> Corée <strong>Baissier</strong> · États-Unis <strong>Haussier</strong>. L'écart entre les deux marchés justifie une réduction de l'exposition coréenne et le maintien des positions américaines. Sur cinq séances, le KOSPI a perdu 329 points et le KOSDAQ 78 points, pendant que le dollar monte et que le Brent progresse — un environnement de double pression pour les actions coréennes importatrices d'énergie.
 
 ---
 
@@ -29,15 +29,15 @@ draft: false
 
 La séance du 15 mai s'est jouée sur deux vitesses. Le découvreur coréen (*KR Discovery Screener*) affiche un score de 65/100 avec le signal FTD au jour 20 — le marché dans son ensemble n'a pas décroché, mais la rotation interne était nettement défensive.
 
-**Axes forts.** Les équipementiers semi-conducteurs de niche, la robotique industrielle et certaines valeurs de consommation domestique (K-consommation) ont tenu ou progressé. Samsung Electro-Mechanics (009150.KS) s'inscrit parmi les titres les plus résistants de la journée, avec une force relative sur 5 séances de +10,5 %, et un flux institutionnel net positif. Daeduck Electronics (000990.KS) présente une configuration similaire : RS à 98,2, flux étrangers positifs sur la semaine.
+<strong>Axes forts.</strong> Les équipementiers semi-conducteurs de niche, la robotique industrielle et certaines valeurs de consommation domestique (K-consommation) ont tenu ou progressé. Samsung Electro-Mechanics (009150.KS) s'inscrit parmi les titres les plus résistants de la journée, avec une force relative sur 5 séances de +10,5 %, et un flux institutionnel net positif. Daeduck Electronics (000990.KS) présente une configuration similaire : RS à 98,2, flux étrangers positifs sur la semaine.
 
-**Axes faibles.** Les semi-conducteurs mémoire de grande capitalisation ont subi des distributions significatives. Samsung Electronics (005930.KS) a enregistré des ventes étrangères massives, tandis que les valeurs de jeu (gaming) et les biotechs en dehors de tout catalyseur précis ont également reculé. Les courtiers en ligne — segment sensible au volume de transactions — ont amplifié la tendance baissière.
+<strong>Axes faibles.</strong> Les semi-conducteurs mémoire de grande capitalisation ont subi des distributions significatives. Samsung Electronics (005930.KS) a enregistré des ventes étrangères massives, tandis que les valeurs de jeu (gaming) et les biotechs en dehors de tout catalyseur précis ont également reculé. Les courtiers en ligne — segment sensible au volume de transactions — ont amplifié la tendance baissière.
 
-**Flux notables.** Le signal le plus marquant de la journée reste la divergence entre étrangers et institutionnels sur plusieurs dossiers de niche : les étrangers ont continué d'entrer dans les équipementiers semi et certains fabricants spécialisés, pendant que les institutions ont allégé les grandes capitalisations mémoire. Cette rotation intra-sectorielle — des mémoires de masse vers les équipements spécialisés et la robotique — est un signal à surveiller.
+<strong>Flux notables.</strong> Le signal le plus marquant de la journée reste la divergence entre étrangers et institutionnels sur plusieurs dossiers de niche : les étrangers ont continué d'entrer dans les équipementiers semi et certains fabricants spécialisés, pendant que les institutions ont allégé les grandes capitalisations mémoire. Cette rotation intra-sectorielle — des mémoires de masse vers les équipements spécialisés et la robotique — est un signal à surveiller.
 
-**Thèmes suivis.** Cisco a relevé son objectif de prises de commandes en infrastructure AI de 5 à 9 milliards de dollars, avec des revenus réseau en hausse de +24,7 % en glissement annuel. Ce catalyseur soutient la thèse qualitative autour de l'infrastructure AI coréenne (fabricants de PCB avancés, testeurs de semi-conducteurs), sans pour autant avoir été directement transmis aux cours des valeurs coréennes concernées lors de cette séance. La mémoire flash (NAND +75 % QoQ attendu, DRAM +53 % QoQ) reste un thème de fond positif à moyen terme, mais les flux du jour n'ont pas encore intégré cette lecture.
+<strong>Thèmes suivis.</strong> Cisco a relevé son objectif de prises de commandes en infrastructure AI de 5 à 9 milliards de dollars, avec des revenus réseau en hausse de +24,7 % en glissement annuel. Ce catalyseur soutient la thèse qualitative autour de l'infrastructure AI coréenne (fabricants de PCB avancés, testeurs de semi-conducteurs), sans pour autant avoir été directement transmis aux cours des valeurs coréennes concernées lors de cette séance. La mémoire flash (NAND +75 % QoQ attendu, DRAM +53 % QoQ) reste un thème de fond positif à moyen terme, mais les flux du jour n'ont pas encore intégré cette lecture.
 
-**Caractère de séance :** sélective, avec rotation depuis les grandes capitalisations vers les valeurs de niche affichant une amélioration réelle des marges et des flux institutionnels confirmés.
+<strong>Caractère de séance :</strong> sélective, avec rotation depuis les grandes capitalisations vers les valeurs de niche affichant une amélioration réelle des marges et des flux institutionnels confirmés.
 
 ---
 
@@ -60,17 +60,17 @@ Le méta-screener du jour couvre 121 valeurs et croise cinq grilles : *Quality C
 
 ### Focus sur les trois premiers candidats
 
-**1. Device (187870.KQ) — score méta 102, 5 grilles simultanées**
+<strong>1. Device (187870.KQ) — score méta 102, 5 grilles simultanées</strong>
 
 Device fabrique des équipements à usage spécial pour la production industrielle. Sa présence dans les cinq grilles en fait le candidat le mieux ancré du jour : la logique qualité (*Quality Compounder* avec ROE 11,1 % et OPM 20,6 %) se combine à des flux institutionnels et étrangers nets positifs sur cinq jours (+87,7 milliards KRW), une expansion de marge opérationnelle de +11,7 pp, et un signal PEAD confirmé (score +1,31). Un événement sans numéraire notable dans les dépôts DART récents — une distribution d'actions gratuites (*bonus shares*) datée du 27 avril — constitue un catalyseur officiel à court terme. Point de vigilance : le titre a progressé de +30,4 % sur cinq jours ; l'entrée sur élan pur présente un risque de retour à la moyenne à court terme. À surveiller sur consolidation avec maintien du flux institutionnel.
 
-**2. Gigavis (420770.KQ) — score méta 87, 4 grilles**
+<strong>2. Gigavis (420770.KQ) — score méta 87, 4 grilles</strong>
 
-Gigavis opère dans les équipements spéciaux pour semi-conducteurs (inspection optique de PCB). Les fondamentaux sont spectaculaires : croissance du chiffre d'affaires +100,6 % et progression de l'OP de +777 % en glissement annuel, avec une expansion de marge de +29,9 pp — l'un des ratios d'amélioration de levier opérationnel les plus élevés du screener du jour. Les flux institutionnels et étrangers nets sur cinq jours s'élèvent à +187 milliards KRW. Signal d'alerte : le consensus analytique est en **révision baissière** malgré ces chiffres — l'écart suggère soit une attente de normalisation après un pic exceptionnel, soit une divergence entre estimateurs. La valeur mérite un suivi de la qualité des commandes et du carnet avant toute pondération accrue dans l'univers d'analyse.
+Gigavis opère dans les équipements spéciaux pour semi-conducteurs (inspection optique de PCB). Les fondamentaux sont spectaculaires : croissance du chiffre d'affaires +100,6 % et progression de l'OP de +777 % en glissement annuel, avec une expansion de marge de +29,9 pp — l'un des ratios d'amélioration de levier opérationnel les plus élevés du screener du jour. Les flux institutionnels et étrangers nets sur cinq jours s'élèvent à +187 milliards KRW. Signal d'alerte : le consensus analytique est en <strong>révision baissière</strong> malgré ces chiffres — l'écart suggère soit une attente de normalisation après un pic exceptionnel, soit une divergence entre estimateurs. La valeur mérite un suivi de la qualité des commandes et du carnet avant toute pondération accrue dans l'univers d'analyse.
 
-**3. Jeju Semiconductor (080220.KQ) — score méta 78,5, 4 grilles**
+<strong>3. Jeju Semiconductor (080220.KQ) — score méta 78,5, 4 grilles</strong>
 
-Fabricant de semi-conducteurs spécialisés (mémoires DRAM et NOR Flash pour marchés industriels et IoT), Jeju Semi cumule ROE 17,4 %, croissance OP +274 % et flux entrants nets de +645,8 milliards KRW sur cinq jours — le flux le plus fort du groupe. Le titre est en RS percentile 96,9, proche du plus haut sur 52 semaines. Risque documenté : **quatre publications DART à caractère potentiellement dilutif**, dont deux exercices d'options sur obligations convertibles (OC) publiés ce jour même. Ces signaux de dilution potentielle nécessitent une vérification des textes DART avant toute nouvelle entrée.
+Fabricant de semi-conducteurs spécialisés (mémoires DRAM et NOR Flash pour marchés industriels et IoT), Jeju Semi cumule ROE 17,4 %, croissance OP +274 % et flux entrants nets de +645,8 milliards KRW sur cinq jours — le flux le plus fort du groupe. Le titre est en RS percentile 96,9, proche du plus haut sur 52 semaines. Risque documenté : <strong>quatre publications DART à caractère potentiellement dilutif</strong>, dont deux exercices d'options sur obligations convertibles (OC) publiés ce jour même. Ces signaux de dilution potentielle nécessitent une vérification des textes DART avant toute nouvelle entrée.
 
 ---
 

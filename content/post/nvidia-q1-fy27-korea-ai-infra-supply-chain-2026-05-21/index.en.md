@@ -196,11 +196,11 @@ The stance on SK Hynix is therefore Hold / Pullback Buy. Existing positions can 
 
 The channel through which NVIDIA revenue growth flows into Korea does not end at HBM.
 
-**HBM Equipment / Inspection / Sockets.** As the industry transitions from HBM3E to HBM4 and HBM4E, the complexity of TSV, bonding, packaging, and testing continues to rise. Hanmi Semiconductor, PSK Holdings, Intekplus, ISC, and Leeno Industrial remain in the beneficiary category. However, names like Hanmi Semiconductor that have already rallied significantly are better approached after order-gap confirmation, a pullback, or customer diversification evidence rather than on new buys.
+<strong>HBM Equipment / Inspection / Sockets.</strong> As the industry transitions from HBM3E to HBM4 and HBM4E, the complexity of TSV, bonding, packaging, and testing continues to rise. Hanmi Semiconductor, PSK Holdings, Intekplus, ISC, and Leeno Industrial remain in the beneficiary category. However, names like Hanmi Semiconductor that have already rallied significantly are better approached after order-gap confirmation, a pullback, or customer diversification evidence rather than on new buys.
 
-**PCB / Substrates.** AI servers demand high-speed signal integrity and power stability. Samsung Electro-Mechanics, Daeduck Electronics, Korea Circuit, Simtech, and TLB are candidates within the AI server PCB/substrate space. However, this segment carries high risk of thematic excess. Terms like SOCAMM, LPDDR server modules, North American customers, or NVIDIA reference design, attached to a stock name without verified orders, ASP data, and margins, remain in theme territory.
+<strong>PCB / Substrates.</strong> AI servers demand high-speed signal integrity and power stability. Samsung Electro-Mechanics, Daeduck Electronics, Korea Circuit, Simtech, and TLB are candidates within the AI server PCB/substrate space. However, this segment carries high risk of thematic excess. Terms like SOCAMM, LPDDR server modules, North American customers, or NVIDIA reference design, attached to a stock name without verified orders, ASP data, and margins, remain in theme territory.
 
-**Power Infrastructure.** Data center bottlenecks ultimately converge on power. HD Hyundai Electric, Hyosung Heavy Industries, LS ELECTRIC, LS Cable & System/LS, and Gaon Cable can serve as alternative AI infrastructure exposure when semiconductor beta becomes overheated. That said, many power equipment names have also rallied significantly, making valuation and margin sustainability important.
+<strong>Power Infrastructure.</strong> Data center bottlenecks ultimately converge on power. HD Hyundai Electric, Hyosung Heavy Industries, LS ELECTRIC, LS Cable & System/LS, and Gaon Cable can serve as alternative AI infrastructure exposure when semiconductor beta becomes overheated. That said, many power equipment names have also rallied significantly, making valuation and margin sustainability important.
 
 ## 9. NVIDIA Investment View
 
@@ -273,11 +273,11 @@ NVIDIA Q1 FY27 refuted the AI CAPEX peakout narrative. Revenue of $81.6B. Data C
 
 But it is also understandable why the stock did not surge immediately. The market had already expected strong numbers. What is now needed is validation of ACIE durability, Vera Rubin ramp execution, growth maintenance ex-China, and defense against custom ASIC encroachment. NVIDIA is still a BUY, but the risk is not the earnings — it is the expectations.
 
-The Korean implication is more important. **HBM is not over. But alpha is spreading beyond HBM.** SK Hynix is the most direct winner but is crowded. Samsung Electronics is the HBM4 catch-up option. Samsung Electro-Mechanics, following its major silicon capacitor contract, has earned the possibility of being reclassified as an AI package power-integrity component supplier.
+The Korean implication is more important. <strong>HBM is not over. But alpha is spreading beyond HBM.</strong> SK Hynix is the most direct winner but is crowded. Samsung Electronics is the HBM4 catch-up option. Samsung Electro-Mechanics, following its major silicon capacitor contract, has earned the possibility of being reclassified as an AI package power-integrity component supplier.
 
 The real question is not "is NVIDIA good?" It already is. The question is "which Korean node does NVIDIA's revenue growth translate into in new earnings?" Right now the answer is Samsung Electro-Mechanics, Samsung Electronics HBM4, HBM equipment, AI server substrates, and power infrastructure.
 
-**A great company and a great stock are different things. NVIDIA remains a great company. In Korea, the great stocks are more likely to come not from the leading names that have already rallied, but from the bottleneck nodes where GPU revenue growth has not yet been fully priced in.**
+<strong>A great company and a great stock are different things. NVIDIA remains a great company. In Korea, the great stocks are more likely to come not from the leading names that have already rallied, but from the bottleneck nodes where GPU revenue growth has not yet been fully priced in.</strong>
 
 ---
 

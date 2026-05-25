@@ -21,19 +21,19 @@ draft: false
 | Brent | 98,5 $ | −13,9 % | Baisse marquée |
 | DXY | 97,9 | −0,6 % | Dollar faible |
 
-**Régime KR : Bull — Régime US : Bull.** Les deux marchés en phase haussière simultanée, ce qui valide une posture d'expansion active. Le breadth coréen reste positif : 56,0 % des titres au-dessus de leur MM50, 56,5 % au-dessus de leur MM200.
+<strong>Régime KR : Bull — Régime US : Bull.</strong> Les deux marchés en phase haussière simultanée, ce qui valide une posture d'expansion active. Le breadth coréen reste positif : 56,0 % des titres au-dessus de leur MM50, 56,5 % au-dessus de leur MM200.
 
 ---
 
 ## Bilan de séance
 
-Le KOSPI a clôturé à 7 490,05 (+1,43 %) sur un volume de 49,8 billions de wons. Le KOSDAQ a reculé à 1 199,18 (−0,91 %), avec 16,9 billions traités. La divergence de 13,7 points de pourcentage entre les deux indices résume le caractère de la séance : un **risk-on ciblé, non diffus**. Les grands caps tirés par l'infrastructure AI ont capté l'essentiel des flux.
+Le KOSPI a clôturé à 7 490,05 (+1,43 %) sur un volume de 49,8 billions de wons. Le KOSDAQ a reculé à 1 199,18 (−0,91 %), avec 16,9 billions traités. La divergence de 13,7 points de pourcentage entre les deux indices résume le caractère de la séance : un <strong>risk-on ciblé, non diffus</strong>. Les grands caps tirés par l'infrastructure AI ont capté l'essentiel des flux.
 
-**Secteurs forts.** Les semi-conducteurs et l'infrastructure AI ont dominé. Samsung Electronics (005930.KS) a progressé de +2,07 % et consolide un breakout en zone de plus-hauts sur 52 semaines. Mirae Asset a relevé son objectif sur Samsung Electro-Mechanics (009150.KS) de 530 000 KRW à 1 300 000 KRW, identifiant le titre non plus comme un simple fournisseur de composants électroniques mais comme un acteur de l'infrastructure AI via les substrats FC-BGA et les MLCC haute valeur pour serveurs AI. Le secteur de l'énergie et de la construction électrique a aussi affiché de la force, avec Doosan Enerbility (034020.KS, +7,4 %) en tête. L'activité des ETF sectoriels a été un vecteur supplémentaire : la restructuration annoncée du KODEX AI Semiconductor — avec une allocation combinée de 50 % sur Samsung Electronics et SK Hynix — renforce mécaniquement la demande sur ces deux piliers.
+<strong>Secteurs forts.</strong> Les semi-conducteurs et l'infrastructure AI ont dominé. Samsung Electronics (005930.KS) a progressé de +2,07 % et consolide un breakout en zone de plus-hauts sur 52 semaines. Mirae Asset a relevé son objectif sur Samsung Electro-Mechanics (009150.KS) de 530 000 KRW à 1 300 000 KRW, identifiant le titre non plus comme un simple fournisseur de composants électroniques mais comme un acteur de l'infrastructure AI via les substrats FC-BGA et les MLCC haute valeur pour serveurs AI. Le secteur de l'énergie et de la construction électrique a aussi affiché de la force, avec Doosan Enerbility (034020.KS, +7,4 %) en tête. L'activité des ETF sectoriels a été un vecteur supplémentaire : la restructuration annoncée du KODEX AI Semiconductor — avec une allocation combinée de 50 % sur Samsung Electronics et SK Hynix — renforce mécaniquement la demande sur ces deux piliers.
 
-**Secteurs faibles.** Le KOSDAQ mid/small, le biotech et les valeurs gaming ont sous-performé. Les titres qui avaient profité d'un catalyseur événementiel se sont retrouvés sous pression dès la dissipation de ce même catalyseur.
+<strong>Secteurs faibles.</strong> Le KOSDAQ mid/small, le biotech et les valeurs gaming ont sous-performé. Les titres qui avaient profité d'un catalyseur événementiel se sont retrouvés sous pression dès la dissipation de ce même catalyseur.
 
-**Flux notables.** Les étrangers ont vendu massivement sur Samsung Electronics (environ −2,80 billions de KRW), mais le titre a tenu grâce aux institutionnels (+168,7 milliards), aux ETF domestiques et aux particuliers. Sur les valeurs d'infrastructure AI secondaires, l'intersection acheteurs étrangers + institutionnels sur des noms comme Wonik IPS (240810.KQ, +262,5 milliards nets sur 5 jours) et RFHIC (218410.KQ, +274,8 milliards nets) est plus nette que le signal de surface sur le KOSPI global.
+<strong>Flux notables.</strong> Les étrangers ont vendu massivement sur Samsung Electronics (environ −2,80 billions de KRW), mais le titre a tenu grâce aux institutionnels (+168,7 milliards), aux ETF domestiques et aux particuliers. Sur les valeurs d'infrastructure AI secondaires, l'intersection acheteurs étrangers + institutionnels sur des noms comme Wonik IPS (240810.KQ, +262,5 milliards nets sur 5 jours) et RFHIC (218410.KQ, +274,8 milliards nets) est plus nette que le signal de surface sur le KOSPI global.
 
 ---
 
@@ -57,15 +57,15 @@ Le méta-screener du 7 mai couvre 130 valeurs et en retient 20 après croisement
 
 ### Top 3 en détail
 
-**RFHIC (218410.KQ) — Score méta 93,0 · 5 screeners**
+<strong>RFHIC (218410.KQ) — Score méta 93,0 · 5 screeners</strong>
 
 RFHIC fabrique des amplificateurs de puissance à transistors GaN (nitrure de gallium) pour les réseaux de télécommunications et les infrastructures radar. La société est présente dans les cinq screeners simultanément, ce qui est rare dans l'univers des 130 titres couverts. La croissance opérationnelle annuelle dépasse +1 960 % en base YoY avec une expansion de marge de +15,3 pp — un levier opérationnel massif confirmé par le screener Cycle Rerating. Les institutionnels et les étrangers ont acheté +274,8 milliards de KRW nets sur 5 jours. Un résultat préliminaire publié via DART le 27 avril (촉매 공시) constitue le catalyseur officiel de la période. À vérifier : la durabilité du carnet de commandes et le caractère récurrent ou exceptionnel de la croissance opérationnelle.
 
-**원익IPS (240810.KQ) — Score méta 64,9 · 4 screeners**
+<strong>원익IPS (240810.KQ) — Score méta 64,9 · 4 screeners</strong>
 
 Wonik IPS est un fournisseur d'équipements de dépôt de couches minces (ALD, CVD) pour l'industrie des semi-conducteurs, exposé à la montée en puissance de la production NAND et DRAM. Avec une croissance opérationnelle de +596 % YoY et un flux institutionnel + étranger de +262,5 milliards sur 5 jours, le profil combine amélioration des résultats et accumulation de positions significative. Le titre affiche une RS percentile de 95,1 et évolue en zone de nouveaux plus-hauts. DART a prévu une annonce de résultats définitifs (20260429). À vérifier : confirmation du flux lors de la publication complète et tenue du support MA50.
 
-**HD한국조선해양 (009540.KS) — Score méta 61,0 · 4 screeners**
+<strong>HD한국조선해양 (009540.KS) — Score méta 61,0 · 4 screeners</strong>
 
 HD Korea Shipbuilding & Offshore Engineering est la holding de tête du groupe HD Hyundai dans la construction navale. La société a publié ses résultats flash le 7 mai même (deux publications DART en date du jour, classées « catalyseur »), avec une croissance opérationnelle de +172 % YoY et une expansion de marge de +7,4 pp. Le taux d'ownership étranger atteint 33,8 %, et les flux institutionnels + étrangers nets sur 5 jours s'élèvent à +205,8 milliards. Point de vigilance : taux de vente à découvert à 5,8 % et une publication DART à caractère de risque à surveiller. La thèse est le cycle de supercommandes navales qui se traduit désormais en résultats opérationnels.
 

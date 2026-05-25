@@ -19,28 +19,28 @@ draft: false
 | US 10Y | 4.59% | −0.01pp | → Flat |
 | USD/KRW | 1,517 | +1.3% | ⚠ KRW weak |
 | Brent | $105.4 | −6.0% | ▼ Falling |
-| **KR Regime** | **Bull** | — | Aggressive expand |
-| **US Regime** | **Bull** | — | Supportive |
+| <strong>KR Regime</strong> | <strong>Bull</strong> | — | Aggressive expand |
+| <strong>US Regime</strong> | <strong>Bull</strong> | — | Supportive |
 
-Both Korea and the US are in **Bull** regime. KOSPI five-day breadth above the 50-day MA stands at 36.0% and above the 200-day MA at 47.8% — constructive but not overheated. The main friction: USD/KRW at 1,517 compresses USD-denominated returns even as Korean prices advance. The tailwind: Brent down 6% over five sessions takes pressure off Korea's energy-import bill and widens industrial margins.
+Both Korea and the US are in <strong>Bull</strong> regime. KOSPI five-day breadth above the 50-day MA stands at 36.0% and above the 200-day MA at 47.8% — constructive but not overheated. The main friction: USD/KRW at 1,517 compresses USD-denominated returns even as Korean prices advance. The tailwind: Brent down 6% over five sessions takes pressure off Korea's energy-import bill and widens industrial margins.
 
 ---
 
 ## Market Wrap
 
-Today's session was **selective risk-on**, not a full-market breakout. KOSPI held near +0.5% intraday while KOSDAQ surged approximately +4%, with 99 names clearing quality screener filters — the widest breadth count in recent sessions.
+Today's session was <strong>selective risk-on</strong>, not a full-market breakout. KOSPI held near +0.5% intraday while KOSDAQ surged approximately +4%, with 99 names clearing quality screener filters — the widest breadth count in recent sessions.
 
-**Sectors leading.** Pharmaceuticals and biotech drove KOSDAQ's advance, joined by power/energy equipment and semiconductor materials-and-equipment plays. The ABF substrate theme re-ignited after Morgan Stanley reportedly raised its 2030 supply-shortage-rate forecast for high-performance ABF substrates from 15% to 22% — a demand-outlook upgrade that directly lifted PCB and advanced packaging names. Samsung Electro-Mechanics (009150.KS) surged +11.3% on the day (+32.7% over five sessions) on that thesis; Daedeok Electronics (353200.KQ) added +3.3% in the same theme, though institutional and foreign flows diverged between the two. Semiconductor equipment saw a separate breakout: Juseong Engineering (036930.KQ) rallied +20.9% with simultaneous foreign and institutional co-buying.
+<strong>Sectors leading.</strong> Pharmaceuticals and biotech drove KOSDAQ's advance, joined by power/energy equipment and semiconductor materials-and-equipment plays. The ABF substrate theme re-ignited after Morgan Stanley reportedly raised its 2030 supply-shortage-rate forecast for high-performance ABF substrates from 15% to 22% — a demand-outlook upgrade that directly lifted PCB and advanced packaging names. Samsung Electro-Mechanics (009150.KS) surged +11.3% on the day (+32.7% over five sessions) on that thesis; Daedeok Electronics (353200.KQ) added +3.3% in the same theme, though institutional and foreign flows diverged between the two. Semiconductor equipment saw a separate breakout: Juseong Engineering (036930.KQ) rallied +20.9% with simultaneous foreign and institutional co-buying.
 
-**Sectors lagging.** Large-cap semis absorbed profit-taking after the prior session's rally. Samsung Electronics (005930.KS) recorded net foreign selling of approximately ₩1.01tn and program selling of ₩998bn, capping KOSPI upside. Telecoms and defensives underperformed as capital rotated toward higher-beta growth themes.
+<strong>Sectors lagging.</strong> Large-cap semis absorbed profit-taking after the prior session's rally. Samsung Electronics (005930.KS) recorded net foreign selling of approximately ₩1.01tn and program selling of ₩998bn, capping KOSPI upside. Telecoms and defensives underperformed as capital rotated toward higher-beta growth themes.
 
-**Flow picture.** Institutional and foreign buying concentrated in mid-cap semiconductor equipment, ABF substrate, and biotech names while reducing in large-cap semis and telecoms. KOSDAQ breadth above the 50-day MA reached 36.0%; quality screener breadth above the 200-day MA hit 47.8% — both consistent with a broadening rather than narrowing rally. That said, USD/KRW above 1,515 and the magnitude of Samsung Electronics' foreign outflow signal that full risk-on has not been confirmed. Today reads as **quality mid-cap accumulation with selective large-cap rotation out**.
+<strong>Flow picture.</strong> Institutional and foreign buying concentrated in mid-cap semiconductor equipment, ABF substrate, and biotech names while reducing in large-cap semis and telecoms. KOSDAQ breadth above the 50-day MA reached 36.0%; quality screener breadth above the 200-day MA hit 47.8% — both consistent with a broadening rather than narrowing rally. That said, USD/KRW above 1,515 and the magnitude of Samsung Electronics' foreign outflow signal that full risk-on has not been confirmed. Today reads as <strong>quality mid-cap accumulation with selective large-cap rotation out</strong>.
 
 ---
 
 ## Today's Quality Re-Rating Candidates
 
-The May 22 meta screener processed 115 names and produced a sharp hierarchy. Three stocks cleared **all five** quality-flow screeners simultaneously — Quality Compounder, Smart Money Quality, Cycle Rerating, Smart Money Earnings, and PEAD — a combination that rarely fires on more than one or two names per session.
+The May 22 meta screener processed 115 names and produced a sharp hierarchy. Three stocks cleared <strong>all five</strong> quality-flow screeners simultaneously — Quality Compounder, Smart Money Quality, Cycle Rerating, Smart Money Earnings, and PEAD — a combination that rarely fires on more than one or two names per session.
 
 ### Top 10 Candidates
 
@@ -63,21 +63,21 @@ The May 22 meta screener processed 115 names and produced a sharp hierarchy. Thr
 
 ### Deeper Look: Top 3
 
-**SamC&S (252990.KQ) — Meta Score 97.5**
+<strong>SamC&S (252990.KQ) — Meta Score 97.5</strong>
 
-SamC&S is an electronic components manufacturer. The three-layer logic is intact: **(1) Quality** — operating profit grew +183% YoY with OPM expanding +9.1pp, an early earnings inflection for a business with stable fundamentals; **(2) Flow** — foreign and qualified institutional investors net-bought ₩5.5bn over five days, absorbing ₩5.4bn of retail selling — a clean smart-money accumulation pattern; **(3) Catalyst** — the company held an IR session on May 21 (DART-confirmed), indicating management is actively engaging investors around the improved story. **Next checks:** OPM sustainability into Q2 2026; whether institutional buying persists after the post-IR window closes.
+SamC&S is an electronic components manufacturer. The three-layer logic is intact: <strong>(1) Quality</strong> — operating profit grew +183% YoY with OPM expanding +9.1pp, an early earnings inflection for a business with stable fundamentals; <strong>(2) Flow</strong> — foreign and qualified institutional investors net-bought ₩5.5bn over five days, absorbing ₩5.4bn of retail selling — a clean smart-money accumulation pattern; <strong>(3) Catalyst</strong> — the company held an IR session on May 21 (DART-confirmed), indicating management is actively engaging investors around the improved story. <strong>Next checks:</strong> OPM sustainability into Q2 2026; whether institutional buying persists after the post-IR window closes.
 
-**VM (089970.KQ) — Meta Score 96.5**
+<strong>VM (089970.KQ) — Meta Score 96.5</strong>
 
-VM manufactures semiconductor equipment. The cycle signal is exceptional: operating margin expanded +29.3pp on +105% revenue growth, producing an operating leverage spread of 281pp. The Cycle Rerating screener ranks VM #1 (score 0.747) — typically a signal that revenue is converting to earnings at an unusually high rate. Foreign and qualified institutional buying of ₩33.0bn over five sessions absorbed ₩21.5bn in retail selling. The stock trades at its 52-week high. **Next checks:** H2 2026 order backlog disclosures; whether the margin expansion is structural or concentrated in a single large order.
+VM manufactures semiconductor equipment. The cycle signal is exceptional: operating margin expanded +29.3pp on +105% revenue growth, producing an operating leverage spread of 281pp. The Cycle Rerating screener ranks VM #1 (score 0.747) — typically a signal that revenue is converting to earnings at an unusually high rate. Foreign and qualified institutional buying of ₩33.0bn over five sessions absorbed ₩21.5bn in retail selling. The stock trades at its 52-week high. <strong>Next checks:</strong> H2 2026 order backlog disclosures; whether the margin expansion is structural or concentrated in a single large order.
 
-**TLB (356860.KQ) — Meta Score 90.1**
+<strong>TLB (356860.KQ) — Meta Score 90.1</strong>
 
-TLB makes electronic components in the PCB space. Operating profit grew +665% YoY with OPM up +8.2pp; the operating leverage spread of 621pp is among the most extreme cycle re-rating readings in the KR universe today. Smart Money Earnings ranks TLB #1 (score 0.854) and it also ranks #1 in Smart Money Quality — institutional and foreign co-buying is firing simultaneously across both money-flow screens. An IR session on May 15 was DART-confirmed. Today's Morgan Stanley ABF/substrate supply-upgrade narrative may provide a sector tailwind if TLB's product mix directly overlaps. **Next checks:** confirm product exposure to high-performance ABF substrates; two insider trading plan filings logged on DART May 15 are worth monitoring for directional signals.
+TLB makes electronic components in the PCB space. Operating profit grew +665% YoY with OPM up +8.2pp; the operating leverage spread of 621pp is among the most extreme cycle re-rating readings in the KR universe today. Smart Money Earnings ranks TLB #1 (score 0.854) and it also ranks #1 in Smart Money Quality — institutional and foreign co-buying is firing simultaneously across both money-flow screens. An IR session on May 15 was DART-confirmed. Today's Morgan Stanley ABF/substrate supply-upgrade narrative may provide a sector tailwind if TLB's product mix directly overlaps. <strong>Next checks:</strong> confirm product exposure to high-performance ABF substrates; two insider trading plan filings logged on DART May 15 are worth monitoring for directional signals.
 
 ---
 
-**SK Hynix (000660.KS) — flag.** Fundamentals remain strong (ROE 35.6%, OPM +13.1pp, active consensus upgrades), but net foreign and qualified institutional selling of ₩5.35tn over five sessions is being absorbed by retail — the inverse of the accumulation pattern this framework is built to catch. The meta screener scores it 65.8, reflecting this divergence. Watch for flow stabilization before treating it as an actionable re-rating candidate.
+<strong>SK Hynix (000660.KS) — flag.</strong> Fundamentals remain strong (ROE 35.6%, OPM +13.1pp, active consensus upgrades), but net foreign and qualified institutional selling of ₩5.35tn over five sessions is being absorbed by retail — the inverse of the accumulation pattern this framework is built to catch. The meta screener scores it 65.8, reflecting this divergence. Watch for flow stabilization before treating it as an actionable re-rating candidate.
 
 ---
 

@@ -23,9 +23,9 @@ slug: hyundai-mobis-atlas-robot-valuation-comprehensive-2026-05-17
 
 ## TL;DR
 
-* **Bottom line:** At today's price, Hyundai Mobis already prices in **most of the Atlas 30K-units/year actuator-supply scenario**. What is *not* fully priced is **gripper / sensor / controller expansion, external (non-HMG) customer wins, and the indirect Boston Dynamics stake**.
-* **Base estimate:** On 30K Atlas units/year, Mobis's robot-parts revenue is in a **KRW 2.1–3.0 trillion** band, operating profit **KRW 170–360 billion**, and segment value **KRW 3.4–7.2 trillion**.
-* **Investment call:** Today's price is not "cheap" — it is a **verification window**. New buys: **Wait**. Holders: **Hold**. Additions should follow confirmation of scope, units, and margin.
+* <strong>Bottom line:</strong> At today's price, Hyundai Mobis already prices in <strong>most of the Atlas 30K-units/year actuator-supply scenario</strong>. What is *not* fully priced is <strong>gripper / sensor / controller expansion, external (non-HMG) customer wins, and the indirect Boston Dynamics stake</strong>.
+* <strong>Base estimate:</strong> On 30K Atlas units/year, Mobis's robot-parts revenue is in a <strong>KRW 2.1–3.0 trillion</strong> band, operating profit <strong>KRW 170–360 billion</strong>, and segment value <strong>KRW 3.4–7.2 trillion</strong>.
+* <strong>Investment call:</strong> Today's price is not "cheap" — it is a <strong>verification window</strong>. New buys: <strong>Wait</strong>. Holders: <strong>Hold</strong>. Additions should follow confirmation of scope, units, and margin.
 
 ---
 
@@ -35,15 +35,15 @@ slug: hyundai-mobis-atlas-robot-valuation-comprehensive-2026-05-17
 
 In its shareholder letter, Hyundai Motor said it would deploy Boston Dynamics' Atlas on its manufacturing floors and build the infrastructure to scale to 30,000 robots/year by 2028, alongside Google DeepMind and NVIDIA physical-AI infrastructure tie-ins.
 
-At CES 2026, Hyundai Mobis formalized a strategic-cooperation framework with Boston Dynamics and announced it would supply actuators for Atlas. Mobis stated that actuators account for **more than 60% of a humanoid robot's BOM cost**.
+At CES 2026, Hyundai Mobis formalized a strategic-cooperation framework with Boston Dynamics and announced it would supply actuators for Atlas. Mobis stated that actuators account for <strong>more than 60% of a humanoid robot's BOM cost</strong>.
 
 At Kia's 2026 CEO Investor Day, Kia said Atlas will be deployed at HMGMA in 2028 and expand to Kia AutoLand Georgia in 2029. This moves Atlas off the "showcase" track and onto a real plant-deployment roadmap.
 
-Hyundai Mobis 1Q26 figures: revenue **KRW 15.5605 trillion**, operating profit **KRW 802.6 billion**. The A/S business posted revenue of **KRW 3.5190 trillion** and operating profit of **KRW 923.9 billion**, defending overall profitability while the Module / Core Components segment ran a loss.
+Hyundai Mobis 1Q26 figures: revenue <strong>KRW 15.5605 trillion</strong>, operating profit <strong>KRW 802.6 billion</strong>. The A/S business posted revenue of <strong>KRW 3.5190 trillion</strong> and operating profit of <strong>KRW 923.9 billion</strong>, defending overall profitability while the Module / Core Components segment ran a loss.
 
-FY2025: revenue **KRW 61.1180 trillion**, operating profit **KRW 3.3570 trillion**, net income **KRW 3.6650 trillion**, EPS **KRW 40,861**.
+FY2025: revenue <strong>KRW 61.1180 trillion</strong>, operating profit <strong>KRW 3.3570 trillion</strong>, net income <strong>KRW 3.6650 trillion</strong>, EPS <strong>KRW 40,861</strong>.
 
-As of May 16, 2026: share price **KRW 629,000**, TTM EPS **KRW 40,861**, PER \~**15.4x**, market cap roughly **KRW 56 trillion**. Sell-side average target **KRW 568,828**, top target **KRW 750,000**.
+As of May 16, 2026: share price <strong>KRW 629,000</strong>, TTM EPS <strong>KRW 40,861</strong>, PER \~<strong>15.4x</strong>, market cap roughly <strong>KRW 56 trillion</strong>. Sell-side average target <strong>KRW 568,828</strong>, top target <strong>KRW 750,000</strong>.
 
 ---
 
@@ -65,7 +65,7 @@ Actuators / Reducers / Motors / Grippers
 Robot Assembly / Plant Deployment / Maintenance
 ```
 
-Hyundai Mobis's formally disclosed position is **actuator supply**. KB Securities expects Boston Dynamics to source the entirety of its actuator requirement from Mobis and noted that talks on additional components — grippers in particular — are ongoing.
+Hyundai Mobis's formally disclosed position is <strong>actuator supply</strong>. KB Securities expects Boston Dynamics to source the entirety of its actuator requirement from Mobis and noted that talks on additional components — grippers in particular — are ongoing.
 
 That makes the investment question more than "robot-parts supply." The actual swing variables are these three:
 
@@ -81,28 +81,28 @@ That makes the investment question more than "robot-parts supply." The actual sw
 
 ### 3.1 The math
 
-**Mobis robot-parts revenue = Atlas units × per-unit Mobis content × FX**
+<strong>Mobis robot-parts revenue = Atlas units × per-unit Mobis content × FX</strong>
 
 Assumptions:
 
-* Atlas units: **30,000 / year**
-* FX: **KRW 1,500 / USD**
-* Per-unit Mobis content: **$30,000 – $80,000**
+* Atlas units: <strong>30,000 / year</strong>
+* FX: <strong>KRW 1,500 / USD</strong>
+* Per-unit Mobis content: <strong>$30,000 – $80,000</strong>
 * Rounding: revenue to KRW 0.01T, OP to KRW 10B.
 
-Mobis's actual per-unit content, ASP, and gross margin on Atlas are not officially disclosed. **This is genuinely uncertain.** Verification will come through Mobis IR, Boston Dynamics supply-contract disclosures, broker follow-up notes, and any future stand-alone robot-parts revenue guidance. For interim decisions, $50,000–$65,000 per unit is a conservative base case.
+Mobis's actual per-unit content, ASP, and gross margin on Atlas are not officially disclosed. <strong>This is genuinely uncertain.</strong> Verification will come through Mobis IR, Boston Dynamics supply-contract disclosures, broker follow-up notes, and any future stand-alone robot-parts revenue guidance. For interim decisions, $50,000–$65,000 per unit is a conservative base case.
 
 ### 3.2 Revenue sensitivity
 
 | Per-unit Mobis content | Annual USD revenue | KRW revenue |
 | ---: | ---: | ---: |
-| $30,000 | $0.90 bn | **KRW 1.35 T** |
-| $40,000 | $1.20 bn | **KRW 1.80 T** |
-| $50,000 | $1.50 bn | **KRW 2.25 T** |
-| $65,000 | $1.95 bn | **KRW 2.93 T** |
-| $80,000 | $2.40 bn | **KRW 3.60 T** |
+| $30,000 | $0.90 bn | <strong>KRW 1.35 T</strong> |
+| $40,000 | $1.20 bn | <strong>KRW 1.80 T</strong> |
+| $50,000 | $1.50 bn | <strong>KRW 2.25 T</strong> |
+| $65,000 | $1.95 bn | <strong>KRW 2.93 T</strong> |
+| $80,000 | $2.40 bn | <strong>KRW 3.60 T</strong> |
 
-**Base range: KRW 2.1–3.0 trillion per year.**
+<strong>Base range: KRW 2.1–3.0 trillion per year.</strong>
 
 That range squares with an Atlas ASP of roughly $190,000 and Mobis capturing 25–35% of per-unit content. KB Securities models a 2035 scenario of 1.5 million premium humanoids at \~$190,000 each.
 
@@ -112,7 +112,7 @@ That range squares with an Atlas ASP of roughly $190,000 and Mobis capturing 25�
 
 ### 4.1 OP sensitivity
 
-Robot actuators are likely higher-value than legacy auto modules, but early-ramp costs, quality validation, and CAPEX have to be allowed for. As a first cut, **8–12% OPM** is the right bracket.
+Robot actuators are likely higher-value than legacy auto modules, but early-ramp costs, quality validation, and CAPEX have to be allowed for. As a first cut, <strong>8–12% OPM</strong> is the right bracket.
 
 | Per-unit content | Revenue | OP @ 8% | OP @ 12% |
 | ---: | ---: | ---: | ---: |
@@ -122,11 +122,11 @@ Robot actuators are likely higher-value than legacy auto modules, but early-ramp
 | $65,000 | KRW 2.93T | KRW 234B | KRW 351B |
 | $80,000 | KRW 3.60T | KRW 288B | KRW 432B |
 
-**Base values:**
+<strong>Base values:</strong>
 
-* Revenue: **KRW 2.25–2.93 trillion**
-* Operating profit: **KRW 180–351 billion**
-* Midpoint: **revenue \~KRW 2.6T, OP \~KRW 260–300B**
+* Revenue: <strong>KRW 2.25–2.93 trillion</strong>
+* Operating profit: <strong>KRW 180–351 billion</strong>
+* Midpoint: <strong>revenue \~KRW 2.6T, OP \~KRW 260–300B</strong>
 
 ### 4.2 Appropriate multiples
 
@@ -139,11 +139,11 @@ Applying a robot-pure-play multiple to the entire Mobis franchise is too aggress
 | Atlas-actuator segment | EV/EBIT 18–22x | Base 20x |
 | Robot bull case (expansion) | EV/EBIT 25–30x | Requires external customer + gripper / sensor expansion |
 
-KB Securities maintains a target price of KRW 750,000, with a DCF-implied market cap of KRW 67T, 12-month forward PER 16.0x, and P/B 1.22x. KB also flags that Hyundai Mobis owns 20.0% of Hyundai Global, and Hyundai Global in turn owns 54.7% of Boston Dynamics — giving Mobis indirect economic exposure of **10.9% to Boston Dynamics**.
+KB Securities maintains a target price of KRW 750,000, with a DCF-implied market cap of KRW 67T, 12-month forward PER 16.0x, and P/B 1.22x. KB also flags that Hyundai Mobis owns 20.0% of Hyundai Global, and Hyundai Global in turn owns 54.7% of Boston Dynamics — giving Mobis indirect economic exposure of <strong>10.9% to Boston Dynamics</strong>.
 
 ### 4.3 Segment value
 
-**Robot segment value = robot OP × EV/EBIT multiple**
+<strong>Robot segment value = robot OP × EV/EBIT multiple</strong>
 
 | Per-unit content | OP @ 8% | Value @ 20x | OP @ 12% | Value @ 20x |
 | ---: | ---: | ---: | ---: | ---: |
@@ -153,9 +153,9 @@ KB Securities maintains a target price of KRW 750,000, with a DCF-implied market
 | $65,000 | KRW 234B | KRW 4.68T | KRW 351B | KRW 7.02T |
 | $80,000 | KRW 288B | KRW 5.76T | KRW 432B | KRW 8.64T |
 
-**Base read:** On 30K Atlas units, Mobis's robot segment value sits at **\~KRW 3.6–7.0 trillion**.
+<strong>Base read:</strong> On 30K Atlas units, Mobis's robot segment value sits at <strong>\~KRW 3.6–7.0 trillion</strong>.
 
-A bull case with $80,000/unit content and 12% OPM gets to **KRW 8.6 trillion**, but that already embeds at least partial expansion beyond pure actuator content.
+A bull case with $80,000/unit content and 12% OPM gets to <strong>KRW 8.6 trillion</strong>, but that already embeds at least partial expansion beyond pure actuator content.
 
 ---
 
@@ -165,28 +165,28 @@ A bull case with $80,000/unit content and 12% OPM gets to **KRW 8.6 trillion**, 
 
 At KRW 629,000 and TTM EPS of KRW 40,861, PER works out to:
 
-**629,000 ÷ 40,861 = 15.39x**
+<strong>629,000 ÷ 40,861 = 15.39x</strong>
 
 ### 5.2 SOTP on TTM EPS
 
 Assumptions:
 
-* TTM EPS: **KRW 40,861**
-* Legacy-business fair PER: **14x**
-* Shares outstanding: \~**89.2 million**
-* Current price: **KRW 629,000**
+* TTM EPS: <strong>KRW 40,861</strong>
+* Legacy-business fair PER: <strong>14x</strong>
+* Shares outstanding: \~<strong>89.2 million</strong>
+* Current price: <strong>KRW 629,000</strong>
 
 Math:
 
-* **Legacy value / share = 40,861 × 14 = KRW 572,054**
-* **Residual option value / share = 629,000 − 572,054 = KRW 56,946**
-* **Aggregate residual = 56,946 × 89.2M ≈ KRW 5.1 trillion**
+* <strong>Legacy value / share = 40,861 × 14 = KRW 572,054</strong>
+* <strong>Residual option value / share = 629,000 − 572,054 = KRW 56,946</strong>
+* <strong>Aggregate residual = 56,946 × 89.2M ≈ KRW 5.1 trillion</strong>
 
-In other words, on TTM EPS and a 14x legacy multiple, today's price already carries **\~KRW 5 trillion of robot / Boston Dynamics optionality**.
+In other words, on TTM EPS and a 14x legacy multiple, today's price already carries <strong>\~KRW 5 trillion of robot / Boston Dynamics optionality</strong>.
 
 ### 5.3 SOTP on 2026E EPS
 
-KB Securities models 2026E controlling-interest net income of **KRW 4.115 trillion**, implying **\~KRW 46,100** per-share EPS on \~89.2M shares.
+KB Securities models 2026E controlling-interest net income of <strong>KRW 4.115 trillion</strong>, implying <strong>\~KRW 46,100</strong> per-share EPS on \~89.2M shares.
 
 | Legacy PER | Legacy value/share | Residual option value/share | Aggregate option value |
 | ---: | ---: | ---: | ---: |
@@ -197,9 +197,9 @@ KB Securities models 2026E controlling-interest net income of **KRW 4.115 trilli
 
 This table is the key:
 
-**The robot optionality embedded in the current price runs from KRW 0 to \~11 trillion depending on the legacy multiple you assign.**
+<strong>The robot optionality embedded in the current price runs from KRW 0 to \~11 trillion depending on the legacy multiple you assign.</strong>
 
-A realistic legacy band is 12–14x. On that band, today's quote embeds **KRW 0–7T of robot optionality**, with a midpoint around **\~KRW 5T**.
+A realistic legacy band is 12–14x. On that band, today's quote embeds <strong>KRW 0–7T of robot optionality</strong>, with a midpoint around <strong>\~KRW 5T</strong>.
 
 ---
 
@@ -207,7 +207,7 @@ A realistic legacy band is 12–14x. On that band, today's quote embeds **KRW 0�
 
 ### 6.1 Is the 30K-Atlas case already in the price?
 
-**Yes — largely.**
+<strong>Yes — largely.</strong>
 
 | Scenario | Robot segment value |
 | --- | ---: |
@@ -216,7 +216,7 @@ A realistic legacy band is 12–14x. On that band, today's quote embeds **KRW 0�
 | Top | KRW 4.7–7.0 T |
 | Bull | KRW 5.8–8.6 T |
 
-Embedded option value in today's price is \~**KRW 5 trillion**. So **the base 30K-Atlas actuator-supply case alone does not clearly make the stock "cheap" at this level**.
+Embedded option value in today's price is \~<strong>KRW 5 trillion</strong>. So <strong>the base 30K-Atlas actuator-supply case alone does not clearly make the stock "cheap" at this level</strong>.
 
 ### 6.2 What is *not yet* priced
 
@@ -236,7 +236,7 @@ KB Securities frames Mobis as central to the supply chain enabling Boston Dynami
 
 ### 7.1 The call
 
-**Hyundai Mobis: Wait / Holders: Hold**
+<strong>Hyundai Mobis: Wait / Holders: Hold</strong>
 
 This is no longer a "cheap auto-parts" quote. The A/S cash cow, the robot option, the indirect Boston Dynamics stake, and governance-improvement expectations are all at least partially priced in.
 
@@ -246,7 +246,7 @@ This is no longer a "cheap auto-parts" quote. The A/S cash cow, the robot option
 | ---: | --- | --- |
 | KRW 500–550K | Legacy at 11–12x + partial robot option | High buying interest |
 | KRW 560–600K | Partial 30K-Atlas embedded | Conditional buy |
-| **KRW 620–650K** | Today's level — substantial 30K actuator embedded | **Wait / Hold** |
+| <strong>KRW 620–650K</strong> | Today's level — substantial 30K actuator embedded | <strong>Wait / Hold</strong> |
 | KRW 700–750K | Approaches the KB target. Needs more data | Chasing inefficient |
 | Above KRW 750K | Long-run platform scenario pre-priced | Overheating risk |
 
@@ -275,10 +275,10 @@ The robot re-rating thesis weakens on any of:
 
 ## 8. How this links to other posts
 
-- **[Hyundai Mobis — The EV-Parts Giant Powering Robotics (April 28 deep dive)](/post/kr-deep-dive-hyundai-mobis-2026-04-28/)** — the starting point. Defines the 3-pillar framing: EV parts + A/S cash cow + robotics option.
-- **[Complete Korea Robotics Value Chain Map (May 11)](/post/korea-robotics-value-chain-complete-map-2026-05-11/)** — locates Mobis at the actuator layer; useful for comparing layers above and below.
-- **[SPG vs Halla Cast — Robot-Component Compare (May 12)](/post/spg-vs-halla-cast-robot-component-comparison-2026-05-12/)** — the smaller-cap component peers; useful as the size / multiple / optionality contrast vs Mobis (captive + large).
-- **[Robotis vs Rainbow Robotics — Humanoid OEM Compare (May 12)](/post/robotis-vs-rainbow-robotics-humanoid-comparison-2026-05-12/)** — the Korean humanoid-OEM candidates; useful to see "parts platform" (Mobis) vs "OEM" framing.
+- <strong>[Hyundai Mobis — The EV-Parts Giant Powering Robotics (April 28 deep dive)](/post/kr-deep-dive-hyundai-mobis-2026-04-28/)</strong> — the starting point. Defines the 3-pillar framing: EV parts + A/S cash cow + robotics option.
+- <strong>[Complete Korea Robotics Value Chain Map (May 11)](/post/korea-robotics-value-chain-complete-map-2026-05-11/)</strong> — locates Mobis at the actuator layer; useful for comparing layers above and below.
+- <strong>[SPG vs Halla Cast — Robot-Component Compare (May 12)](/post/spg-vs-halla-cast-robot-component-comparison-2026-05-12/)</strong> — the smaller-cap component peers; useful as the size / multiple / optionality contrast vs Mobis (captive + large).
+- <strong>[Robotis vs Rainbow Robotics — Humanoid OEM Compare (May 12)](/post/robotis-vs-rainbow-robotics-humanoid-comparison-2026-05-12/)</strong> — the Korean humanoid-OEM candidates; useful to see "parts platform" (Mobis) vs "OEM" framing.
 
 ---
 
@@ -286,9 +286,9 @@ The robot re-rating thesis weakens on any of:
 
 The Hyundai Mobis robot story has substance. Hyundai Motor's 2028 plan for 30K robots/year, Kia's 2028–2029 plant-deployment roadmap, and Mobis's CES 2026 actuator-supply announcement are all confirmed facts.
 
-But today's price already embeds a meaningful share of the **base-case KRW 3.6–5.4T Atlas-actuator value**. For the stock to climb further from here, the question is no longer "30K Atlas" — it is **how much of Atlas's hardware content Mobis will capture, and whether it can win external (non-HMG) customers**.
+But today's price already embeds a meaningful share of the <strong>base-case KRW 3.6–5.4T Atlas-actuator value</strong>. For the stock to climb further from here, the question is no longer "30K Atlas" — it is <strong>how much of Atlas's hardware content Mobis will capture, and whether it can win external (non-HMG) customers</strong>.
 
-**The current price is not cheap. But if the long-run robot-platform-supplier transition is confirmed, it is not "done" either.**
+<strong>The current price is not cheap. But if the long-run robot-platform-supplier transition is confirmed, it is not "done" either.</strong>
 
 What is needed now is verification rather than buying. Hold what you own; postpone new additions until scope and margin become observable. That is what risk-adjusted return calls for here.
 

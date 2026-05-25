@@ -20,7 +20,7 @@ draft: false
 | USD/KRW | 1,514 | +1.4% | ⚠️ Won débil |
 | Brent | $100.2 | -9.9% | Presión bajista |
 
-**Régimen:** Korea en **Bull**, EE.UU. en **Neutral**. La divergencia favorece ampliación selectiva en renta variable coreana. El VIX por debajo de 17 y el bono del Tesoro a 10 años estabilizado en 4.56% reducen la presión sistémica. El won débil a 1,514 KRW/USD es el único factor macro de cautela para inversores en divisa extranjera.
+<strong>Régimen:</strong> Korea en <strong>Bull</strong>, EE.UU. en <strong>Neutral</strong>. La divergencia favorece ampliación selectiva en renta variable coreana. El VIX por debajo de 17 y el bono del Tesoro a 10 años estabilizado en 4.56% reducen la presión sistémica. El won débil a 1,514 KRW/USD es el único factor macro de cautela para inversores en divisa extranjera.
 
 ---
 
@@ -28,17 +28,17 @@ draft: false
 
 *(Datos de cierre: 2026-05-22 — fuente más reciente disponible al momento del análisis)*
 
-La sesión del viernes fue de **risk-on selectivo**, con el KOSDAQ liderando intradía con cerca del +4% frente al +0.5% del KOSPI. La narrativa no fue de índice sino de **dispersión a nivel de acción individual**: el número de valores que superaron el filtro de calidad llegó a 99, mientras que solo el 36% cotizaba por encima de su media de 50 sesiones, señal de que el avance no fue indiscriminado.
+La sesión del viernes fue de <strong>risk-on selectivo</strong>, con el KOSDAQ liderando intradía con cerca del +4% frente al +0.5% del KOSPI. La narrativa no fue de índice sino de <strong>dispersión a nivel de acción individual</strong>: el número de valores que superaron el filtro de calidad llegó a 99, mientras que solo el 36% cotizaba por encima de su media de 50 sesiones, señal de que el avance no fue indiscriminado.
 
-**Sectores fuertes:** farmacéuticas y biotecnología, energía eléctrica y materiales para semiconductores. **Sectores débiles:** semiconductores de gran capitalización y telecomunicaciones, con toma de beneficios tras las subidas acumuladas.
+<strong>Sectores fuertes:</strong> farmacéuticas y biotecnología, energía eléctrica y materiales para semiconductores. <strong>Sectores débiles:</strong> semiconductores de gran capitalización y telecomunicaciones, con toma de beneficios tras las subidas acumuladas.
 
-El movimiento más destacado del día fue **Samsung Electro-Mechanics (009150.KS)**, con +11.30% en la sesión y +32.67% en cinco días. El catalizador fue una revisión de analistas que elevó la previsión de déficit de sustratos ABF de alto rendimiento para 2030 del 15% al 22%, reforzando la tesis de escasez estructural en el segmento de encapsulado avanzado. El flujo externo fue comprador en la sesión (+17.4 mil millones KRW), aunque el institucional tomó beneficios.
+El movimiento más destacado del día fue <strong>Samsung Electro-Mechanics (009150.KS)</strong>, con +11.30% en la sesión y +32.67% en cinco días. El catalizador fue una revisión de analistas que elevó la previsión de déficit de sustratos ABF de alto rendimiento para 2030 del 15% al 22%, reforzando la tesis de escasez estructural en el segmento de encapsulado avanzado. El flujo externo fue comprador en la sesión (+17.4 mil millones KRW), aunque el institucional tomó beneficios.
 
-Por el contrario, el flujo extranjero en **Samsung Electronics (005930.KS)** fue vendedor neto por -1.01 billones KRW, con ventas de programa adicionales de -998 mil millones KRW. La recuperación de cinco días (+8.1%) sigue activa, pero el momentum de corto plazo requiere confirmación de flujos en las próximas sesiones.
+Por el contrario, el flujo extranjero en <strong>Samsung Electronics (005930.KS)</strong> fue vendedor neto por -1.01 billones KRW, con ventas de programa adicionales de -998 mil millones KRW. La recuperación de cinco días (+8.1%) sigue activa, pero el momentum de corto plazo requiere confirmación de flujos en las próximas sesiones.
 
-En el segmento de pequeña capitalización, **Jusung Engineering (036930.KQ)** registró +20.95% con compra conjunta extranjera e institucional (CoBuy), un patrón que históricamente precede a continuación. La referencia técnica de 214,000 KRW actúa como nivel de validación para cualquier seguimiento.
+En el segmento de pequeña capitalización, <strong>Jusung Engineering (036930.KQ)</strong> registró +20.95% con compra conjunta extranjera e institucional (CoBuy), un patrón que históricamente precede a continuación. La referencia técnica de 214,000 KRW actúa como nivel de validación para cualquier seguimiento.
 
-El carácter general de la semana apunta a una **rotación desde el núcleo semiconductor hacia biotecnología, energía y materiales**, con la dispersión de precios creando más oportunidades de selección individual que de exposición a índice.
+El carácter general de la semana apunta a una <strong>rotación desde el núcleo semiconductor hacia biotecnología, energía y materiales</strong>, con la dispersión de precios creando más oportunidades de selección individual que de exposición a índice.
 
 ---
 
@@ -65,17 +65,17 @@ El meta-screener cubre hoy 137 valores y genera 20 candidatos principales. La pr
 
 ### Los tres candidatos principales en detalle
 
-**VM (089970.KQ) — El caso de mayor convergencia del día**
+<strong>VM (089970.KQ) — El caso de mayor convergencia del día</strong>
 
 VM fabrica equipos de proceso para la industria de semiconductores. Es el único valor que aparece en los cinco screeners simultáneamente: calidad comprobada, flujo institucional activo, revalorización de ciclo, mejora de resultados y drift post-resultados. El beneficio operativo creció un +387% interanual con expansión de margen de +29pp, lo que apunta a un cambio estructural en la rentabilidad, no a un efecto base transitorio. En los últimos cinco días, el flujo de extranjeros más instituciones cualificadas absorbió -214.5 mil millones KRW de venta minorista neta. El RS percentil en 97 confirma liderazgo técnico relativo. Próximo punto de verificación: sostenibilidad del margen operativo en los próximos trimestres y estado de la cartera de pedidos.
 
-**Microcontact Sol (098120.KQ) — Calidad alta con entrada institucional confirmada**
+<strong>Microcontact Sol (098120.KQ) — Calidad alta con entrada institucional confirmada</strong>
 
 Fabricante de componentes de contacto de precisión para equipos de prueba de semiconductores. Con ROE del 23.1% y crecimiento operativo del +73.5%, supera con holgura el umbral del screener Quality Compounder. El patrón de flujo en cinco días —compra neta institucional y extranjera de +74.6 mil millones KRW frente a ventas minoristas de -74.3 mil millones KRW— es un clásico de redistribución hacia dinero cualificado. El informe trimestral 2026 Q1 publicado en DART (20260514) es el referente fundamental más reciente a contrastar con las métricas del screener.
 
-**RFHIC (218410.KQ) — Máxima aceleración de beneficios, con matiz de cortos**
+<strong>RFHIC (218410.KQ) — Máxima aceleración de beneficios, con matiz de cortos</strong>
 
-RFHIC diseña y fabrica amplificadores de potencia en nitruro de galio (GaN) para infraestructura de telecomunicaciones 5G. El crecimiento operativo del +1,919% interanual refleja un punto de inflexión de ciclo profundo tras un período de márgenes comprimidos. El flujo institucional y extranjero acumulado en cinco días (+138.7 mil millones KRW) indica que el dinero cualificado está tomando posiciones. **Cautela a monitorizar:** la tasa de préstamo de valores para posiciones cortas alcanza el 7.2% del capital flotante y la posición de préstamo (대차) sigue en expansión, lo que añade volatilidad bidireccional y riesgo de presión vendedora si el momentum se debilita.
+RFHIC diseña y fabrica amplificadores de potencia en nitruro de galio (GaN) para infraestructura de telecomunicaciones 5G. El crecimiento operativo del +1,919% interanual refleja un punto de inflexión de ciclo profundo tras un período de márgenes comprimidos. El flujo institucional y extranjero acumulado en cinco días (+138.7 mil millones KRW) indica que el dinero cualificado está tomando posiciones. <strong>Cautela a monitorizar:</strong> la tasa de préstamo de valores para posiciones cortas alcanza el 7.2% del capital flotante y la posición de préstamo (대차) sigue en expansión, lo que añade volatilidad bidireccional y riesgo de presión vendedora si el momentum se debilita.
 
 ---
 

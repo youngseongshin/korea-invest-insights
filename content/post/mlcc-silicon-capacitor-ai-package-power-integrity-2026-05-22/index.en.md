@@ -28,17 +28,17 @@ slug: mlcc-silicon-capacitor-ai-package-power-integrity-2026-05-22
 
 ## Key Summary
 
-A capacitor stores electrical charge briefly and releases it on demand. For non-engineers, think of it as a **water tank, shock absorber, or noise filter for an electrical circuit**. An MLCC is the highest-volume ceramic multilayer version of that capacitor. Samsung Electro-Mechanics describes MLCCs as playing the role of a "dam" — holding electricity and releasing it in controlled amounts.[^samsung-mlcc]
+A capacitor stores electrical charge briefly and releases it on demand. For non-engineers, think of it as a <strong>water tank, shock absorber, or noise filter for an electrical circuit</strong>. An MLCC is the highest-volume ceramic multilayer version of that capacitor. Samsung Electro-Mechanics describes MLCCs as playing the role of a "dam" — holding electricity and releasing it in controlled amounts.[^samsung-mlcc]
 
 A silicon capacitor is also a type of capacitor. Unlike an MLCC, which stacks hundreds of ceramic layers, a silicon capacitor forms dielectric and electrode layers on a silicon wafer. According to Samsung Electro-Mechanics' product documentation, it can be thinned to under 100 micrometers, embedded inside a package, and benefits from low parasitic inductance that is favorable for power stabilization.[^samsung-sicap-product]
 
-The essential point is **not substitution but a shift in location**. MLCCs are mounted primarily on the PCB surface or around the chip. Silicon capacitors can go inside the package, beneath the substrate, or directly adjacent to the die. Because AI GPUs and HBM draw sudden, large current spikes, proximity matters as much as raw capacitance — "how quickly can power be delivered" becomes as important as "how much can be stored."
+The essential point is <strong>not substitution but a shift in location</strong>. MLCCs are mounted primarily on the PCB surface or around the chip. Silicon capacitors can go inside the package, beneath the substrate, or directly adjacent to the die. Because AI GPUs and HBM draw sudden, large current spikes, proximity matters as much as raw capacitance — "how quickly can power be delivered" becomes as important as "how much can be stored."
 
 Samsung Electro-Mechanics' May 20, 2026 silicon capacitor supply contract worth approximately ₩1.5 trillion is the first large-scale evidence of this structural shift. The contract runs from January 1, 2027 through December 31, 2028. The company stated that the product is embedded inside high-performance semiconductor packages — including AI server GPUs and HBM — to enhance power-supply stability.[^samsung-sicap-contract]
 
 Investment judgment, however, must remain cold. This week (May 18–22), the three core MLCC names averaged <strong>+35.6%</strong>, handily outpacing the five core AI substrate names at <strong>+14.0%</strong>. Samsung Electro-Mechanics gained +32.7% on the week; Samwha Capacitor surged +56.4%. Theme momentum is unmistakable, but the efficiency of fresh capital deployment has diminished sharply.
 
-The bottom line: **the significance of silicon capacitors is not MLCC replacement — it is the expansion of the passive component battlefield from the PCB surface into the interior of AI semiconductor packages**. Premium product lines at Samsung Electro-Mechanics and Murata may be re-classified as AI infrastructure supply chain assets. But a good industry shift and a good entry price remain entirely separate questions.
+The bottom line: <strong>the significance of silicon capacitors is not MLCC replacement — it is the expansion of the passive component battlefield from the PCB surface into the interior of AI semiconductor packages</strong>. Premium product lines at Samsung Electro-Mechanics and Murata may be re-classified as AI infrastructure supply chain assets. But a good industry shift and a good entry price remain entirely separate questions.
 
 ---
 
@@ -46,7 +46,7 @@ The bottom line: **the significance of silicon capacitors is not MLCC replacemen
 
 A capacitor stores electrical charge and releases it rapidly when needed. When a semiconductor chip demands a sudden surge of current, a nearby capacitor supplies it, preventing voltage from collapsing. Conversely, when voltage spikes, the capacitor absorbs some of it, stabilizing the circuit. This is why capacitors serve the roles of energy storage, voltage smoothing, noise rejection, and power stabilization in electronic circuits.
 
-An MLCC — **Multi-Layer Ceramic Capacitor** — is an ultra-compact capacitor constructed by stacking hundreds of thin ceramic dielectric layers alternating with metal electrode layers. Samsung Electro-Mechanics references production capability for high-capacitance MLCCs with up to 600 layers, noting that MLCC importance grows alongside the expansion of 5G, consumer electronics, autonomous vehicles, and the Internet of Things.[^samsung-mlcc]
+An MLCC — <strong>Multi-Layer Ceramic Capacitor</strong> — is an ultra-compact capacitor constructed by stacking hundreds of thin ceramic dielectric layers alternating with metal electrode layers. Samsung Electro-Mechanics references production capability for high-capacitance MLCCs with up to 600 layers, noting that MLCC importance grows alongside the expansion of 5G, consumer electronics, autonomous vehicles, and the Internet of Things.[^samsung-mlcc]
 
 The hierarchy is straightforward:
 
@@ -94,13 +94,13 @@ General capacitors appear in virtually every electrical circuit, from consumer e
 
 ### 3.2 MLCC
 
-The core application for MLCCs is **power stabilization around chips**. They appear in smartphones, automobiles, servers, network equipment, home appliances, and industrial machinery. As devices shrink, semiconductors switch faster, and the number of sensors and communication modules grows, the number of points requiring voltage stabilization increases proportionally.
+The core application for MLCCs is <strong>power stabilization around chips</strong>. They appear in smartphones, automobiles, servers, network equipment, home appliances, and industrial machinery. As devices shrink, semiconductors switch faster, and the number of sensors and communication modules grows, the number of points requiring voltage stabilization increases proportionally.
 
 MLCC importance in AI servers is also rising. TDK notes that as AI and cloud demand drives higher integration density and performance in data center servers, power density per rack and per server increases — making the performance and footprint of passive components a genuine design constraint.[^tdk-capacitors] This is why the MLCC thesis has expanded beyond a simple smartphone-cycle recovery story into AI server power stabilization.
 
 ### 3.3 Silicon Capacitors
 
-The core application for silicon capacitors is **power stabilization inside packages**. Samsung Electro-Mechanics describes silicon capacitors as ultra-compact, high-performance devices built on silicon wafers, embedded inside high-performance semiconductor packages — including AI server GPUs and HBM — to enhance power-supply stability.[^samsung-sicap-contract]
+The core application for silicon capacitors is <strong>power stabilization inside packages</strong>. Samsung Electro-Mechanics describes silicon capacitors as ultra-compact, high-performance devices built on silicon wafers, embedded inside high-performance semiconductor packages — including AI server GPUs and HBM — to enhance power-supply stability.[^samsung-sicap-contract]
 
 The company's product documentation reinforces this: silicon capacitors form dielectric and internal electrodes on silicon, can be thinned to under 100 micrometers through wafer processing, and are well-suited for embedding inside packages. Low parasitic inductance is the key advantage for power stabilization.[^samsung-sicap-product]
 
@@ -112,7 +112,7 @@ Parasitic resistance = an interference factor that causes energy loss as current
 Power integrity = the ability to deliver stable, ripple-free voltage and current to a chip exactly when needed
 ```
 
-AI semiconductors draw power in sudden, large spikes. A capacitor far from the die responds too slowly. The solution is to move the capacitor immediately adjacent to the chip — or inside the package itself. The investment case for silicon capacitors is not "higher capacitance" but **faster response from a closer location**.
+AI semiconductors draw power in sudden, large spikes. A capacitor far from the die responds too slowly. The solution is to move the capacitor immediately adjacent to the chip — or inside the package itself. The investment case for silicon capacitors is not "higher capacitance" but <strong>faster response from a closer location</strong>.
 
 ---
 
@@ -127,7 +127,7 @@ AI semiconductors draw power in sudden, large spikes. A capacitor far from the d
 | Taiwan / Greater China | Yageo, Walsin | Commodity, industrial, and mid-to-low price passive component portfolio |
 | US / Japan-affiliated | KYOCERA AVX, KEMET/Yageo, Vishay | Specialty capacitors, automotive, industrial, and high-frequency product lines |
 
-The MLCC customer base is extremely broad: smartphone OEMs, PC and server manufacturers, automotive OEMs, Tier-1 suppliers, telecom equipment makers, and semiconductor module companies. For MLCC investing, **demand mix by end-market and the share of high-value products** matter more than exposure to any single customer.
+The MLCC customer base is extremely broad: smartphone OEMs, PC and server manufacturers, automotive OEMs, Tier-1 suppliers, telecom equipment makers, and semiconductor module companies. For MLCC investing, <strong>demand mix by end-market and the share of high-value products</strong> matter more than exposure to any single customer.
 
 ### 4.2 Silicon Capacitor Key Suppliers
 
@@ -150,7 +150,7 @@ Samsung Electro-Mechanics' contract counterparty is officially disclosed only as
 
 As AI GPUs and HBM scale in compute intensity and data movement, instantaneous current demand has grown substantially. The problem is that power arriving from a distance is slowed by parasitic elements in the power traces, substrate, and package — degrading the transient response. The solution is to move capacitors closer to the die.
 
-Conventional MLCCs sit primarily on the PCB or around the package perimeter. Silicon capacitors can go inside the package or immediately adjacent to the die. With capacitors of equivalent capacitance, **placement determines performance**.
+Conventional MLCCs sit primarily on the PCB or around the package perimeter. Silicon capacitors can go inside the package or immediately adjacent to the die. With capacitors of equivalent capacitance, <strong>placement determines performance</strong>.
 
 ### 5.2 Business Significance — Passive Components Re-rated as AI Packaging Components
 
@@ -181,23 +181,23 @@ This week (May 18–22, 2026), the market aggressively re-rated the MLCC theme. 
 
 | Name | Weekly Return | 20D | 60D | 2026E PER | Foreign | Institution | Foreign + Inst. | Program |
 |---|---:|---:|---:|---:|---:|---:|---:|---:|
-| Samwha Capacitor | **+56.4%** | +56.0% | +68.0% | 40.8x | -₩5.88B | +₩16.09B | +₩10.21B | N/A |
-| Samsung Electro-Mechanics | **+32.7%** | +65.0% | +200.5% | 73.2x | -₩292.90B | +₩111.79B | -₩181.11B | +₩170.96B |
+| Samwha Capacitor | <strong>+56.4%</strong> | +56.0% | +68.0% | 40.8x | -₩5.88B | +₩16.09B | +₩10.21B | N/A |
+| Samsung Electro-Mechanics | <strong>+32.7%</strong> | +65.0% | +200.5% | 73.2x | -₩292.90B | +₩111.79B | -₩181.11B | +₩170.96B |
 | Amotech | +17.6% | -18.4% | +55.2% | 18.9x | +₩4.91B | -₩0.87B | +₩4.05B | +₩5.10B |
 
-Samsung Electro-Mechanics posted three consecutive sessions of strength: +7.5% on May 20, +13.5% on May 21, and +11.3% on May 22. Samwha Capacitor was more extreme: +23.0% on May 20, +29.9% on May 22. This is less a pure earnings-driven move than **a re-rating of AI power-integrity components that originated with Samsung Electro-Mechanics and radiated outward into the MLCC ecosystem**.
+Samsung Electro-Mechanics posted three consecutive sessions of strength: +7.5% on May 20, +13.5% on May 21, and +11.3% on May 22. Samwha Capacitor was more extreme: +23.0% on May 20, +29.9% on May 22. This is less a pure earnings-driven move than <strong>a re-rating of AI power-integrity components that originated with Samsung Electro-Mechanics and radiated outward into the MLCC ecosystem</strong>.
 
 ### 6.2 Core AI Substrate Five-Name Basket
 
 | Name | Weekly Return | 20D | 60D | 2026E PER | Foreign | Institution | Foreign + Inst. | Program |
 |---|---:|---:|---:|---:|---:|---:|---:|---:|
-|심텍 (심텍) | **+31.4%** | +52.2% | +146.8% | 38.7x | -₩24.58B | +₩61.81B | +₩37.22B | -₩5.35B |
+|심텍 (심텍) | <strong>+31.4%</strong> | +52.2% | +146.8% | 38.7x | -₩24.58B | +₩61.81B | +₩37.22B | -₩5.35B |
 | TLB | +18.0% | +44.4% | +89.2% | 25.3x | -₩7.80B | +₩15.30B | +₩7.50B | -₩3.98B |
 | Daeduck Electronics | +11.4% | +49.5% | +132.8% | 38.9x | -₩2.93B | +₩29.05B | +₩26.12B | +₩5.28B |
 | Korea Circuit | +10.7% | +5.6% | +66.7% | 25.5x | -₩2.71B | -₩0.58B | -₩3.29B | +₩0.44B |
 | ISU Petasys | -1.5% | -21.9% | +12.7% | 35.6x | -₩119.17B | -₩0.74B | -₩119.90B | -₩125.28B |
 
-The AI substrate basket was not a uniformly rising tide. Simtech, TLB, and Daeduck Electronics were strong, but ISU Petasys finished the week at -1.5% amid heavy foreign and program selling. Within AI substrates, the market this week appeared to favor **SoCAMM, memory module, and FC-CSP exposure over high-layer-count network boards**.
+The AI substrate basket was not a uniformly rising tide. Simtech, TLB, and Daeduck Electronics were strong, but ISU Petasys finished the week at -1.5% amid heavy foreign and program selling. Within AI substrates, the market this week appeared to favor <strong>SoCAMM, memory module, and FC-CSP exposure over high-layer-count network boards</strong>.
 
 ### 6.3 Price Leadership to MLCCs; Flow Quality Favors Select AI Substrate Names
 
@@ -207,7 +207,7 @@ The AI substrate basket was not a uniformly rising tide. Simtech, TLB, and Daedu
 | Core AI Substrate (5 names) | -₩157.19B | +₩104.84B | -₩52.35B | +₩52.05B | -₩128.89B |
 | AI Substrate ex-ISU Petasys | -₩38.02B | +₩105.57B | +₩67.55B | -₩65.47B | -₩3.60B |
 
-On price, MLCCs dominated. On flow quality, **the AI substrate basket excluding ISU Petasys** looks cleaner. Simtech, TLB, and Daeduck show clear institutional accumulation with retail sellers or neutral retail — a more constructive configuration. In MLCC names, the ₩292.9 billion of foreign selling in Samsung Electro-Mechanics alone is too large to ignore. The stock price was strong, but this looks more like institutional, program, and retail-driven re-rating than foreign-led accumulation.
+On price, MLCCs dominated. On flow quality, <strong>the AI substrate basket excluding ISU Petasys</strong> looks cleaner. Simtech, TLB, and Daeduck show clear institutional accumulation with retail sellers or neutral retail — a more constructive configuration. In MLCC names, the ₩292.9 billion of foreign selling in Samsung Electro-Mechanics alone is too large to ignore. The stock price was strong, but this looks more like institutional, program, and retail-driven re-rating than foreign-led accumulation.
 
 ---
 
@@ -223,7 +223,7 @@ On price, MLCCs dominated. On flow quality, **the AI substrate basket excluding 
 | Simtech / TLB | Led this week's AI substrate expansion. Next week, monitor for a post-heat consolidation before re-entry. |
 | ISU Petasys | Relative laggard within AI substrates. Lower priority until foreign flow stabilizes. |
 
-This week's market was one in which **attention expanded from AI substrates into MLCCs**. The AI substrate thesis has not been invalidated. Rather, the market is now disaggregating "the next bottleneck after memory" more finely — extending the re-rating into AI server power integrity components.
+This week's market was one in which <strong>attention expanded from AI substrates into MLCCs</strong>. The AI substrate thesis has not been invalidated. Rather, the market is now disaggregating "the next bottleneck after memory" more finely — extending the re-rating into AI server power integrity components.
 
 In practical terms:
 
@@ -241,9 +241,9 @@ Key confirmation needed: Whether MLCC price increases and AI-server revenue lift
 
 An MLCC is the electronic industry's "ultra-compact ceramic water tank." A silicon capacitor is an "ultra-proximity power stabilizer" embedded inside AI GPU and HBM packages. Silicon capacitors do not replace MLCCs. The battlefield for passive components is expanding from the PCB surface into the interior of AI semiconductor packages.
 
-The real meaning of Samsung Electro-Mechanics' ₩1.5 trillion contract is not "selling one more type of capacitor." It is the signal that **a passive component maker has entered the bottleneck component supply chain inside AI semiconductor packages**. This shift can re-classify premium product lines at Samsung Electro-Mechanics and Murata into AI infrastructure value chain assets.
+The real meaning of Samsung Electro-Mechanics' ₩1.5 trillion contract is not "selling one more type of capacitor." It is the signal that <strong>a passive component maker has entered the bottleneck component supply chain inside AI semiconductor packages</strong>. This shift can re-classify premium product lines at Samsung Electro-Mechanics and Murata into AI infrastructure value chain assets.
 
-The market has, however, already responded quickly. The three core MLCC names averaged +35.6% this week; Samsung Electro-Mechanics is up +200.5% over 60 days and trades at 73.2x 2026E PER. The company is excellent and the industry shift is real. Whether today's price is also a good new entry point is a separate question entirely. The next catalyst to monitor is not price action but **2Q–3Q earnings revisions, disaggregated AI-server revenue disclosure, follow-on silicon capacitor orders, and foreign flow recovery**.
+The market has, however, already responded quickly. The three core MLCC names averaged +35.6% this week; Samsung Electro-Mechanics is up +200.5% over 60 days and trades at 73.2x 2026E PER. The company is excellent and the industry shift is real. Whether today's price is also a good new entry point is a separate question entirely. The next catalyst to monitor is not price action but <strong>2Q–3Q earnings revisions, disaggregated AI-server revenue disclosure, follow-on silicon capacitor orders, and foreign flow recovery</strong>.
 
 ---
 

@@ -8,18 +8,18 @@ tags: ["Upstage AI", "Daum", "Kakao", "AXZ", "MiniMax", "Zhipu AI", "IA souverai
 series: ["korea-ai-sovereign-stack-2026"]
 ---
 
-> **Upstage - Partie 2.** La partie 1 soutenait qu'Upstage ne devait pas être présentée comme le clone coréen de ChatGPT. La partie 2 pose la question qui intéresse vraiment les investisseurs : après la sélection au titre de l'IA souveraine, la transaction Daum et l'émergence de pairs chinois cotés tels que MiniMax et Zhipu, quel chemin pourrait permettre à Upstage de se revaloriser avant son introduction en Bourse ?
+> <strong>Upstage - Partie 2.</strong> La partie 1 soutenait qu'Upstage ne devait pas être présentée comme le clone coréen de ChatGPT. La partie 2 pose la question qui intéresse vraiment les investisseurs : après la sélection au titre de l'IA souveraine, la transaction Daum et l'émergence de pairs chinois cotés tels que MiniMax et Zhipu, quel chemin pourrait permettre à Upstage de se revaloriser avant son introduction en Bourse ?
 
 ---
 
 ## Résumé
 
-1. **Le projet d'IA souveraine transforme le canal de demande d'Upstage.** Il ne crée pas automatiquement du chiffre d'affaires, mais il confère à Upstage une crédibilité en matière de marchés publics auprès des administrations, des institutions publiques, des secteurs réglementés et des programmes nationaux de transformation par l'IA. La prochaine question commerciale est de savoir si le statut d'« équipe nationale des modèles » se traduit par des déploiements effectifs : agents du secteur public, flux documentaires, assistants IA pour les organismes publics et adoption par les PME via les chèques IA.
-2. **Daum est un accélérateur financier et un terrain d'expérimentation stratégique, mais le traitement comptable doit être géré avec soin.** Upstage et Kakao ont approuvé un protocole d'accord en janvier 2026 pour une transaction en échange d'actions impliquant AXZ, l'entité opératrice de Daum. Kakao a ensuite réévalué les actifs liés à AXZ/Daum à environ KRW 194,4 Mds, tandis que la presse cite un chiffre d'affaires du portail Daum d'environ KRW 300 Mds l'an passé et KRW 332 Mds en 2024. Si la transaction se clôture suffisamment tôt et que Daum est consolidé sur une partie de 2026, **un chiffre d'affaires reconnu supérieur à KRW 100 Mds est un scénario plausible, et non une guidance officielle de la société.**
-3. **La valeur stratégique de Daum ne se résume pas au chiffre d'affaires.** L'option la plus importante est la distribution : recherche, actualités, messagerie, café, communautés et comportement des utilisateurs connectés. Cela donne à Upstage une surface B2C domestique pour tester la recherche IA, les agents personnels, les assistants documentaires, la synthèse d'actualités et des produits de culture IA du quotidien, sans partir de zéro en termes de trafic.
-4. **MiniMax et Zhipu offrent à l'Asie son premier ensemble de pairs cotés en modèles fondationnels.** L'IPO de MiniMax à Hong Kong en 2026 a montré que les marchés publics peuvent valoriser agressivement la croissance de l'IA grand public et l'échelle mondiale des utilisateurs, tandis que la cotation de Zhipu offre un pair plus pur pour les modèles déployés sur site dans le secteur public et en entreprise. Upstage se situe entre les deux : noyau d'IA documentaire en entreprise, crédibilité en IA souveraine, et Daum comme option de distribution grand public.
-5. **Le débat sur la valorisation passe de « 40x le chiffre d'affaires historique est cher » à « quel chiffre d'affaires est-on en train de multiplier ? »** Le chiffre d'affaires 2025 d'Upstage, rapporté à KRW 24,8 Mds, rendait sa valorisation privée dépassant KRW 1 000 Mds visuellement élevée. Si Daum contribue à plus de KRW 100 Mds de chiffre d'affaires 2026, le multiple de ventes affiché se comprime mécaniquement. Mais les investisseurs doivent distinguer le chiffre d'affaires en logiciels IA à haute valeur ajoutée du chiffre d'affaires portail à croissance plus faible. Le bon cadre d'analyse est une approche par somme des parties, et non un multiple PSR unique.
-6. **Opinion d'investissement : candidat à l'IPO à forte optionnalité, mais pas encore une histoire de croissance logicielle claire et régulière.** Le scénario haussier est celui d'un champion coréen de l'IA qui évoluerait d'un laboratoire d'IA en entreprise vers une plateforme du secteur public associée à une couche d'agents grand public. Le scénario baissier est que Daum ajoute un chiffre d'affaires en déclin et une complexité opérationnelle, tandis que l'IA souveraine consomme du capital plus vite que l'IA commerciale ne génère de revenus.
+1. <strong>Le projet d'IA souveraine transforme le canal de demande d'Upstage.</strong> Il ne crée pas automatiquement du chiffre d'affaires, mais il confère à Upstage une crédibilité en matière de marchés publics auprès des administrations, des institutions publiques, des secteurs réglementés et des programmes nationaux de transformation par l'IA. La prochaine question commerciale est de savoir si le statut d'« équipe nationale des modèles » se traduit par des déploiements effectifs : agents du secteur public, flux documentaires, assistants IA pour les organismes publics et adoption par les PME via les chèques IA.
+2. <strong>Daum est un accélérateur financier et un terrain d'expérimentation stratégique, mais le traitement comptable doit être géré avec soin.</strong> Upstage et Kakao ont approuvé un protocole d'accord en janvier 2026 pour une transaction en échange d'actions impliquant AXZ, l'entité opératrice de Daum. Kakao a ensuite réévalué les actifs liés à AXZ/Daum à environ KRW 194,4 Mds, tandis que la presse cite un chiffre d'affaires du portail Daum d'environ KRW 300 Mds l'an passé et KRW 332 Mds en 2024. Si la transaction se clôture suffisamment tôt et que Daum est consolidé sur une partie de 2026, <strong>un chiffre d'affaires reconnu supérieur à KRW 100 Mds est un scénario plausible, et non une guidance officielle de la société.</strong>
+3. <strong>La valeur stratégique de Daum ne se résume pas au chiffre d'affaires.</strong> L'option la plus importante est la distribution : recherche, actualités, messagerie, café, communautés et comportement des utilisateurs connectés. Cela donne à Upstage une surface B2C domestique pour tester la recherche IA, les agents personnels, les assistants documentaires, la synthèse d'actualités et des produits de culture IA du quotidien, sans partir de zéro en termes de trafic.
+4. <strong>MiniMax et Zhipu offrent à l'Asie son premier ensemble de pairs cotés en modèles fondationnels.</strong> L'IPO de MiniMax à Hong Kong en 2026 a montré que les marchés publics peuvent valoriser agressivement la croissance de l'IA grand public et l'échelle mondiale des utilisateurs, tandis que la cotation de Zhipu offre un pair plus pur pour les modèles déployés sur site dans le secteur public et en entreprise. Upstage se situe entre les deux : noyau d'IA documentaire en entreprise, crédibilité en IA souveraine, et Daum comme option de distribution grand public.
+5. <strong>Le débat sur la valorisation passe de « 40x le chiffre d'affaires historique est cher » à « quel chiffre d'affaires est-on en train de multiplier ? »</strong> Le chiffre d'affaires 2025 d'Upstage, rapporté à KRW 24,8 Mds, rendait sa valorisation privée dépassant KRW 1 000 Mds visuellement élevée. Si Daum contribue à plus de KRW 100 Mds de chiffre d'affaires 2026, le multiple de ventes affiché se comprime mécaniquement. Mais les investisseurs doivent distinguer le chiffre d'affaires en logiciels IA à haute valeur ajoutée du chiffre d'affaires portail à croissance plus faible. Le bon cadre d'analyse est une approche par somme des parties, et non un multiple PSR unique.
+6. <strong>Opinion d'investissement : candidat à l'IPO à forte optionnalité, mais pas encore une histoire de croissance logicielle claire et régulière.</strong> Le scénario haussier est celui d'un champion coréen de l'IA qui évoluerait d'un laboratoire d'IA en entreprise vers une plateforme du secteur public associée à une couche d'agents grand public. Le scénario baissier est que Daum ajoute un chiffre d'affaires en déclin et une complexité opérationnelle, tandis que l'IA souveraine consomme du capital plus vite que l'IA commerciale ne génère de revenus.
 
 ---
 
@@ -41,7 +41,7 @@ Upstage aborde 2026 avec trois éléments qui changent la donne :
 
 La question n'est plus de savoir si Upstage peut être présentée comme une start-up coréenne d'IA prometteuse. Elle le peut.
 
-La question est de savoir si Upstage peut devenir **une plateforme IA coréenne cotée, dotée d'une base de chiffre d'affaires suffisante, d'une crédibilité dans le secteur public et d'une distribution grand public pour justifier une valorisation IPO en dizaines de milliards d'euros.**
+La question est de savoir si Upstage peut devenir <strong>une plateforme IA coréenne cotée, dotée d'une base de chiffre d'affaires suffisante, d'une crédibilité dans le secteur public et d'une distribution grand public pour justifier une valorisation IPO en dizaines de milliards d'euros.</strong>
 
 C'est une question bien plus difficile. C'est aussi la bonne.
 
@@ -69,7 +69,7 @@ La société a construit des modèles et des outils d'IA documentaire que les en
 
 Mais l'IA en entreprise seule pose un problème pour une IPO : de l'extérieur, elle peut sembler modeste.
 
-Quand une société d'IA privée est valorisée au-dessus de KRW 1 000 Mds alors que son chiffre d'affaires annuel rapporté est encore en dizaines de milliards de won, les investisseurs sur les marchés publics poseront une question directe : **où est l'échelle du chiffre d'affaires ?**
+Quand une société d'IA privée est valorisée au-dessus de KRW 1 000 Mds alors que son chiffre d'affaires annuel rapporté est encore en dizaines de milliards de won, les investisseurs sur les marchés publics poseront une question directe : <strong>où est l'échelle du chiffre d'affaires ?</strong>
 
 C'est là que le nouveau récit commence.
 
@@ -81,7 +81,7 @@ MiniMax et Zhipu apportent la dernière pièce : des comparables cotés. Les inv
 
 La partie 2 est donc celle du pont :
 
-**de produit IA en entreprise à fournisseur d'IA souveraine ; de flux documentaires B2B à surface d'agents B2C ; de récit de marché privé à cadre de pairs IPO.**
+<strong>de produit IA en entreprise à fournisseur d'IA souveraine ; de flux documentaires B2B à surface d'agents B2C ; de récit de marché privé à cadre de pairs IPO.</strong>
 
 C'est la version de la thèse Upstage qui peut avoir le plus d'impact avant la cotation.
 
@@ -108,7 +108,7 @@ Cela compte, car la demande d'IA dans les secteurs public et gouvernemental pass
 | Transformation AX des collectivités locales | Les flux de travail municipaux ont des cas d'usage documentaires et de services aux citoyens répétables | Agents packagés via des partenaires intégrateurs |
 | Adoption de l'IA par les PME | Les PME ont besoin de solutions IA subventionnées plus que de projets de modèles sur mesure | Canal de chèques IA et produits de workflows low-code |
 
-Le programme de chèques IA intégrés NIPA 2026 est un signal utile. Il soutient la demande des entreprises souhaitant acheter des solutions IA, l'État rémunérant les fournisseurs via un mécanisme de bons. Le plafond annoncé est de KRW 200 M par tâche, et le programme comprend des catégories générale, semi-conducteurs IA, petites entreprises et international. Ce n'est pas une garantie qu'Upstage remporte des revenus via ces chèques. Mais cela illustre la direction politique : **le gouvernement veut que l'IA passe du développement de modèles au déploiement sur le terrain.**
+Le programme de chèques IA intégrés NIPA 2026 est un signal utile. Il soutient la demande des entreprises souhaitant acheter des solutions IA, l'État rémunérant les fournisseurs via un mécanisme de bons. Le plafond annoncé est de KRW 200 M par tâche, et le programme comprend des catégories générale, semi-conducteurs IA, petites entreprises et international. Ce n'est pas une garantie qu'Upstage remporte des revenus via ces chèques. Mais cela illustre la direction politique : <strong>le gouvernement veut que l'IA passe du développement de modèles au déploiement sur le terrain.</strong>
 
 Pour Upstage, c'est exactement là que le Document AI prend de la valeur.
 
@@ -126,7 +126,7 @@ Les flux documentaires sont plus simples :
 | Convertir d'anciens formulaires en données structurées | Complétude des données, cohérence des formats |
 | Assister les agents publics avec les manuels de politique | Précision des réponses, qualité de la recherche, adoption interne |
 
-C'est pourquoi le point d'entrée d'Upstage dans le secteur public ne devrait pas être « nous avons un LLM coréen ». Il devrait être : **nous pouvons rendre les documents du secteur public lisibles par les machines, consultables et actionnables, tout en maintenant les données sous des contraintes de gouvernance coréennes.**
+C'est pourquoi le point d'entrée d'Upstage dans le secteur public ne devrait pas être « nous avons un LLM coréen ». Il devrait être : <strong>nous pouvons rendre les documents du secteur public lisibles par les machines, consultables et actionnables, tout en maintenant les données sous des contraintes de gouvernance coréennes.</strong>
 
 Le label de modèle fondationnel ouvre des portes. Le Document AI conclut les budgets.
 
@@ -136,10 +136,10 @@ L'idée du « chèque pour tous » - quel que soit le nom des programmes selon l
 
 Cela crée une opportunité certes moins directe, mais importante pour Upstage :
 
-1. **Surface de formation :** Upstage peut packager Solar et Studio dans des workflows guidés pour des utilisateurs non techniques.
-2. **Surface de chèques IA :** des programmes de type chèques IA peuvent subventionner l'adoption par les PME et les petites institutions.
-3. **Surface portail :** Daum peut devenir un lieu où les utilisateurs ordinaires rencontrent des outils IA dans la recherche, la messagerie, l'actualité, les publications de café et l'assistance documentaire.
-4. **Surface de confiance publique :** une marque d'IA coréenne bénéficiant d'une crédibilité en IA souveraine rencontrera probablement moins de résistance dans les programmes publics qu'un modèle étranger opaque.
+1. <strong>Surface de formation :</strong> Upstage peut packager Solar et Studio dans des workflows guidés pour des utilisateurs non techniques.
+2. <strong>Surface de chèques IA :</strong> des programmes de type chèques IA peuvent subventionner l'adoption par les PME et les petites institutions.
+3. <strong>Surface portail :</strong> Daum peut devenir un lieu où les utilisateurs ordinaires rencontrent des outils IA dans la recherche, la messagerie, l'actualité, les publications de café et l'assistance documentaire.
+4. <strong>Surface de confiance publique :</strong> une marque d'IA coréenne bénéficiant d'une crédibilité en IA souveraine rencontrera probablement moins de résistance dans les programmes publics qu'un modèle étranger opaque.
 
 Ce n'est pas une garantie de revenus à court terme. C'est une option de distribution.
 
@@ -180,7 +180,7 @@ Voici la sensibilité approximative :
 
 C'est pourquoi la vision d'une reconnaissance de revenus supérieure à KRW 100 Mds est plausible.
 
-Mais elle doit être correctement qualifiée : **il s'agit d'un scénario comptable inféré, et non d'une guidance officielle d'Upstage.**
+Mais elle doit être correctement qualifiée : <strong>il s'agit d'un scénario comptable inféré, et non d'une guidance officielle d'Upstage.</strong>
 
 Cette distinction est importante. Si les investisseurs traitent l'intégralité du chiffre d'affaires consolidé comme un chiffre d'affaires en logiciels IA de haute qualité, ils surestimeront l'histoire. S'ils ignorent complètement Daum parce que c'est un portail en déclin, ils passeront peut-être à côté de l'option de distribution.
 
@@ -208,14 +208,14 @@ Le chiffre d'affaires comptable peut faciliter la mise sur le marché de l'IPO. 
 
 Daum apporte à Upstage quatre choses qu'une start-up ne peut généralement pas acquérir à bon compte :
 
-1. **Surface de recherche :** un espace pour tester des réponses IA, des synthèses IA et de la découverte assistée.
-2. **Surface de messagerie :** un ancrage naturel pour des agents personnels qui synthétisent, rédigent, classifient et agissent.
-3. **Surface café / communauté :** contenu généré par les utilisateurs en langue coréenne et graphes d'intérêts.
-4. **Surface actualités :** cas d'usage de synthèse, de personnalisation et de suivi agentique.
+1. <strong>Surface de recherche :</strong> un espace pour tester des réponses IA, des synthèses IA et de la découverte assistée.
+2. <strong>Surface de messagerie :</strong> un ancrage naturel pour des agents personnels qui synthétisent, rédigent, classifient et agissent.
+3. <strong>Surface café / communauté :</strong> contenu généré par les utilisateurs en langue coréenne et graphes d'intérêts.
+4. <strong>Surface actualités :</strong> cas d'usage de synthèse, de personnalisation et de suivi agentique.
 
 Cela pourrait devenir la version coréenne d'un terrain d'expérimentation pour l'IA grand public.
 
-Upstage n'a pas besoin que Daum batte Naver Search dès demain. C'est probablement le mauvais objectif. Le bon objectif est de savoir si Daum permet à Upstage de créer **des habitudes IA quotidiennes** chez les utilisateurs coréens :
+Upstage n'a pas besoin que Daum batte Naver Search dès demain. C'est probablement le mauvais objectif. Le bon objectif est de savoir si Daum permet à Upstage de créer <strong>des habitudes IA quotidiennes</strong> chez les utilisateurs coréens :
 
 | Surface produit | Fonctionnalité IA possible | Voie de monétisation |
 |---|---|---|
@@ -270,7 +270,7 @@ Les utilisateurs interagissent. Upstage observe ce qui fonctionne. Le produit s'
 
 C'est la leçon MiniMax. MiniMax n'est pas entrée en Bourse simplement parce qu'elle avait un modèle. Elle avait des produits IA grand public, notamment Hailuo AI et Talkie, avec des millions d'utilisateurs et une histoire de monétisation claire via les abonnements, les achats intégrés, l'utilisation des API et les services en entreprise.
 
-Upstage n'a pas besoin de copier MiniMax. Le marché coréen de l'IA grand public est plus petit, et l'audience de Daum est différente. Mais le principe est similaire : **les modèles sont plus faciles à valoriser quand ils sont attachés à des produits que les gens utilisent de façon répétée.**
+Upstage n'a pas besoin de copier MiniMax. Le marché coréen de l'IA grand public est plus petit, et l'audience de Daum est différente. Mais le principe est similaire : <strong>les modèles sont plus faciles à valoriser quand ils sont attachés à des produits que les gens utilisent de façon répétée.</strong>
 
 ### La partie difficile : la confiance et les droits sur les données
 
@@ -306,9 +306,9 @@ Cela donne aux investisseurs un nouveau langage pour valoriser Upstage.
 
 | Société | Cotation / statut | Signal de chiffre d'affaires | Signal de valorisation | Lecture du modèle économique |
 |---|---|---:|---:|---|
-| **MiniMax** | IPO à Hong Kong en janvier 2026 | Chiffre d'affaires 2025 rapporté à environ US$79 M ; chiffre d'affaires 9M 2025 de US$53,4 M dans le prospectus | Valorisation au premier jour rapportée à plus de HK$103 Mds / US$13 Mds après un gain de 109 % à l'introduction | Applications IA grand public et plateforme ouverte / services en entreprise |
-| **Zhipu / Z.ai** | IPO à Hong Kong en janvier 2026 | Chiffre d'affaires 2025 rapporté à RMB 724,3 M / US$104,8 M, +131,9 % en glissement annuel | Capitalisation boursière IPO rapportée à plus de US$7 Mds | Entreprise, secteur public, déploiement de modèles sur site |
-| **Upstage** | Privée ; valorisation dépassant KRW 1 000 Mds rapportée après le premier closing de la Série C | Chiffre d'affaires 2025 rapporté de KRW 24,8 Mds avant consolidation de Daum | Valorisation privée dépassant KRW 1 000 Mds | Document AI en entreprise, IA souveraine, surface grand public Daum potentielle |
+| <strong>MiniMax</strong> | IPO à Hong Kong en janvier 2026 | Chiffre d'affaires 2025 rapporté à environ US$79 M ; chiffre d'affaires 9M 2025 de US$53,4 M dans le prospectus | Valorisation au premier jour rapportée à plus de HK$103 Mds / US$13 Mds après un gain de 109 % à l'introduction | Applications IA grand public et plateforme ouverte / services en entreprise |
+| <strong>Zhipu / Z.ai</strong> | IPO à Hong Kong en janvier 2026 | Chiffre d'affaires 2025 rapporté à RMB 724,3 M / US$104,8 M, +131,9 % en glissement annuel | Capitalisation boursière IPO rapportée à plus de US$7 Mds | Entreprise, secteur public, déploiement de modèles sur site |
+| <strong>Upstage</strong> | Privée ; valorisation dépassant KRW 1 000 Mds rapportée après le premier closing de la Série C | Chiffre d'affaires 2025 rapporté de KRW 24,8 Mds avant consolidation de Daum | Valorisation privée dépassant KRW 1 000 Mds | Document AI en entreprise, IA souveraine, surface grand public Daum potentielle |
 
 La comparaison est imparfaite, mais utile.
 
@@ -443,7 +443,7 @@ Il devient l'interface grand public de Solar :
 
 Dans ce monde, Upstage devient un hybride :
 
-**IA souveraine en entreprise à la Zhipu, associée à une surface de produits IA grand public à la MiniMax, avec un portail coréen en appui.**
+<strong>IA souveraine en entreprise à la Zhipu, associée à une surface de produits IA grand public à la MiniMax, avec un portail coréen en appui.</strong>
 
 C'est le scénario dans lequel parler d'une IPO en dizaines de milliards de won devient plus crédible.
 
@@ -457,9 +457,9 @@ C'est aussi le scénario présentant le risque d'exécution le plus élevé.
 
 Le premier déclencheur n'est pas un nouveau communiqué de presse. C'est un déploiement effectif.
 
-**Définition :** Upstage reste dans les phases avancées du projet coréen de modèle fondationnel d'IA indépendant et convertit cette crédibilité en contrats dans le secteur public ou dans les secteurs réglementés.
+<strong>Définition :</strong> Upstage reste dans les phases avancées du projet coréen de modèle fondationnel d'IA indépendant et convertit cette crédibilité en contrats dans le secteur public ou dans les secteurs réglementés.
 
-**Indicateurs avancés :**
+<strong>Indicateurs avancés :</strong>
 
 - pilotes gouvernementaux ou dans des organismes publics citant Upstage,
 - appels d'offres publics pour du Document AI ou des agents IA souverains,
@@ -467,17 +467,17 @@ Le premier déclencheur n'est pas un nouveau communiqué de presse. C'est un dé
 - clients de référence dans le secteur public,
 - annonces de partenariats avec des intégrateurs.
 
-**Impact pour l'investissement :** cela transforme l'IA souveraine d'un récit en chiffre d'affaires.
+<strong>Impact pour l'investissement :</strong> cela transforme l'IA souveraine d'un récit en chiffre d'affaires.
 
-**Risque :** les projets du secteur public peuvent être lents, politiques et à faible marge s'ils sont trop personnalisés.
+<strong>Risque :</strong> les projets du secteur public peuvent être lents, politiques et à faible marge s'ils sont trop personnalisés.
 
 ### Déclencheur 2 - Finalisation de la transaction Daum et détails de la consolidation
 
 Le deuxième déclencheur est la clôture de la transaction et le traitement comptable.
 
-**Définition :** Upstage finalise la transaction AXZ / Daum et divulgue suffisamment d'informations pour permettre aux investisseurs d'estimer le chiffre d'affaires, la marge et le calendrier de consolidation.
+<strong>Définition :</strong> Upstage finalise la transaction AXZ / Daum et divulgue suffisamment d'informations pour permettre aux investisseurs d'estimer le chiffre d'affaires, la marge et le calendrier de consolidation.
 
-**Indicateurs avancés :**
+<strong>Indicateurs avancés :</strong>
 
 - termes définitifs de l'échange d'actions,
 - date de clôture,
@@ -485,17 +485,17 @@ Le deuxième déclencheur est la clôture de la transaction et le traitement com
 - détails sur la rationalisation du personnel et des services,
 - guidance de chiffre d'affaires consolidé ou données de segment dans le dossier IPO.
 
-**Impact pour l'investissement :** cela peut faire passer Upstage d'une société avec un chiffre d'affaires en dizaines de milliards à une société affichant un chiffre d'affaires potentiellement supérieur à KRW 100 Mds en 2026, selon le calendrier.
+<strong>Impact pour l'investissement :</strong> cela peut faire passer Upstage d'une société avec un chiffre d'affaires en dizaines de milliards à une société affichant un chiffre d'affaires potentiellement supérieur à KRW 100 Mds en 2026, selon le calendrier.
 
-**Risque :** la qualité du chiffre d'affaires peut être faible si Daum est déficitaire et en déclin.
+<strong>Risque :</strong> la qualité du chiffre d'affaires peut être faible si Daum est déficitaire et en déclin.
 
 ### Déclencheur 3 - Premier lancement d'agents IA Daum avec indicateurs d'utilisation
 
 Le troisième déclencheur est la preuve produit.
 
-**Définition :** Upstage lance des fonctionnalités IA significatives à l'intérieur de Daum et divulgue des indicateurs d'adoption.
+<strong>Définition :</strong> Upstage lance des fonctionnalités IA significatives à l'intérieur de Daum et divulgue des indicateurs d'adoption.
 
-**Indicateurs avancés :**
+<strong>Indicateurs avancés :</strong>
 
 - utilisation de la recherche IA,
 - activation de l'agent mail,
@@ -504,17 +504,17 @@ Le troisième déclencheur est la preuve produit.
 - progression du DAU / MAU,
 - rétention des utilisateurs de fonctionnalités IA vs non-utilisateurs.
 
-**Impact pour l'investissement :** cela transforme Daum d'actif comptable en plateforme produit.
+<strong>Impact pour l'investissement :</strong> cela transforme Daum d'actif comptable en plateforme produit.
 
-**Risque :** les utilisateurs peuvent ignorer les fonctionnalités, ou la recherche IA peut cannibaliser les clics publicitaires sans créer de nouvelle monétisation.
+<strong>Risque :</strong> les utilisateurs peuvent ignorer les fonctionnalités, ou la recherche IA peut cannibaliser les clics publicitaires sans créer de nouvelle monétisation.
 
 ### Déclencheur 4 - Le canal chèques IA / PME / culture IA s'ouvre
 
 Le quatrième déclencheur est l'adoption packagée.
 
-**Définition :** Upstage utilise des programmes subsidiés ou public-privé pour diffuser des solutions IA standardisées auprès des PME, des collectivités locales, de l'éducation, de la santé ou des petites institutions.
+<strong>Définition :</strong> Upstage utilise des programmes subsidiés ou public-privé pour diffuser des solutions IA standardisées auprès des PME, des collectivités locales, de l'éducation, de la santé ou des petites institutions.
 
-**Indicateurs avancés :**
+<strong>Indicateurs avancés :</strong>
 
 - inclusion dans des réservoirs de fournisseurs de chèques IA ou dans des packages de chèques pilotés par des partenaires,
 - programmes de « culture IA » ou de formation publique utilisant Solar / Studio,
@@ -522,17 +522,17 @@ Le quatrième déclencheur est l'adoption packagée.
 - modèles de workflows low-code pour les PME,
 - tarification de déploiement répétable.
 
-**Impact pour l'investissement :** cela ouvre à Upstage une voie de marché intermédiaire scalable, au-delà des projets en entreprise sur mesure.
+<strong>Impact pour l'investissement :</strong> cela ouvre à Upstage une voie de marché intermédiaire scalable, au-delà des projets en entreprise sur mesure.
 
-**Risque :** les revenus issus des chèques IA peuvent être épisodiques, sensibles aux prix et dépendants des partenaires.
+<strong>Risque :</strong> les revenus issus des chèques IA peuvent être épisodiques, sensibles aux prix et dépendants des partenaires.
 
 ### Déclencheur 5 - Le dossier IPO présente des données de segment claires
 
 Le cinquième déclencheur est la transparence financière.
 
-**Définition :** Upstage dépose ou pré-commercialise une IPO avec des données de segment claires séparant le chiffre d'affaires IA principal, le chiffre d'affaires Daum, le chiffre d'affaires secteur public, la marge brute et le coût de calcul.
+<strong>Définition :</strong> Upstage dépose ou pré-commercialise une IPO avec des données de segment claires séparant le chiffre d'affaires IA principal, le chiffre d'affaires Daum, le chiffre d'affaires secteur public, la marge brute et le coût de calcul.
 
-**Indicateurs avancés :**
+<strong>Indicateurs avancés :</strong>
 
 - croissance du chiffre d'affaires IA supérieure à la croissance du chiffre d'affaires portail,
 - amélioration de la marge brute,
@@ -541,9 +541,9 @@ Le cinquième déclencheur est la transparence financière.
 - concentration des clients gérable,
 - indicateurs d'utilisateurs payants ou de fonctionnalités IA issus de Daum.
 
-**Impact pour l'investissement :** cela permet aux investisseurs publics de valoriser Upstage à partir d'un cadre de pairs approprié.
+<strong>Impact pour l'investissement :</strong> cela permet aux investisseurs publics de valoriser Upstage à partir d'un cadre de pairs approprié.
 
-**Risque :** si le dossier révèle une faible qualité du chiffre d'affaires IA ou une consommation de trésorerie élevée, le récit de la licorne pourrait se contracter.
+<strong>Risque :</strong> si le dossier révèle une faible qualité du chiffre d'affaires IA ou une consommation de trésorerie élevée, le récit de la licorne pourrait se contracter.
 
 ---
 
@@ -623,11 +623,11 @@ Mais la complexité est à double tranchant.
 
 La thèse haussière la plus nette est la suivante :
 
-**Upstage devient la couche opérationnelle IA de la Corée pour les documents, les flux de travail du secteur public et les agents coréens du quotidien. Daum lui apporte la distribution. L'IA souveraine lui apporte la confiance. MiniMax et Zhipu lui apportent des comparables sur les marchés publics.**
+<strong>Upstage devient la couche opérationnelle IA de la Corée pour les documents, les flux de travail du secteur public et les agents coréens du quotidien. Daum lui apporte la distribution. L'IA souveraine lui apporte la confiance. MiniMax et Zhipu lui apportent des comparables sur les marchés publics.</strong>
 
 La version disciplinée est plus étroite :
 
-**Ne pas payer un multiple IA sur l'intégralité du chiffre d'affaires de Daum. Payer pour le noyau IA, puis valoriser Daum uniquement comme option de distribution si les indicateurs produit le prouvent.**
+<strong>Ne pas payer un multiple IA sur l'intégralité du chiffre d'affaires de Daum. Payer pour le noyau IA, puis valoriser Daum uniquement comme option de distribution si les indicateurs produit le prouvent.</strong>
 
 C'est tout le débat d'investissement.
 
@@ -637,8 +637,8 @@ Dans le cas contraire, la transaction Daum risque de n'être qu'un costume : un 
 
 Pour l'instant, je considérerais Upstage comme le candidat à l'IPO IA privé le plus important à surveiller en Corée, mais je l'analyserais avec deux livres de comptes distincts :
 
-1. **Livre de comptes IA :** Solar, Document AI, déploiements dans le secteur public, Japon, marge brute, coût de calcul.
-2. **Livre de comptes Daum :** chiffre d'affaires, pertes, trafic, données consenties, adoption des fonctionnalités IA, conversion payante.
+1. <strong>Livre de comptes IA :</strong> Solar, Document AI, déploiements dans le secteur public, Japon, marge brute, coût de calcul.
+2. <strong>Livre de comptes Daum :</strong> chiffre d'affaires, pertes, trafic, données consenties, adoption des fonctionnalités IA, conversion payante.
 
 Ce n'est que lorsque les deux livres de comptes s'améliorent simultanément que la thèse complète de revalorisation fonctionne.
 
@@ -646,7 +646,7 @@ Ce n'est que lorsque les deux livres de comptes s'améliorent simultanément que
 
 ## Notes sur les sources
 
-**Sources primaires et de haute fiabilité utilisées**
+<strong>Sources primaires et de haute fiabilité utilisées</strong>
 
 - Korea JoongAng Daily, 29 janvier 2026 : Upstage et Kakao ont signé un protocole d'accord pour acquérir Daum via une transaction en échange d'actions impliquant AXZ.
 - ChosunBiz, 15 janvier et 12 mars 2026 : références de valorisation de la transaction Daum, références de chiffre d'affaires du portail Kakao, réévaluation d'AXZ / Daum à KRW 194,4 Mds et contexte du transfert de services Daum.
@@ -658,12 +658,12 @@ Ce n'est que lorsque les deux livres de comptes s'améliorent simultanément que
 - Global Times / couverture liée à Reuters, janvier 2026 : taille de l'IPO de MiniMax à Hong Kong, performance du premier jour et signal de capitalisation boursière.
 - Seoul Economic Daily English, janvier et avril 2026 : valorisation de l'IPO de Zhipu, premier closing de la Série C d'Upstage et statut de licorne.
 
-**Mentions d'incertitude importantes**
+<strong>Mentions d'incertitude importantes</strong>
 
-- **La reconnaissance de revenus Daum 2026 supérieure à KRW 100 Mds est un scénario inféré, et non une guidance officielle de la société.** Elle dépend de la date de clôture, du traitement de la consolidation, de la rationalisation des services, du déclin du chiffre d'affaires standalone de Daum et de la politique comptable.
-- **Le chiffre d'affaires de Daum ne doit pas être traité comme un chiffre d'affaires en logiciels IA.** La bonne méthode de valorisation sépare le chiffre d'affaires IA principal du chiffre d'affaires portail, et ne valorise l'option agent IA de Daum que lorsque des indicateurs d'utilisation émergent.
-- **Les opportunités liées aux chèques IA et à la culture IA sont des options de canal de demande.** Sauf divulgation spécifique d'Upstage ou de ses partenaires dans un programme, elles ne doivent pas être modélisées comme des revenus confirmés.
-- **Les multiples de pairs de MiniMax et Zhipu peuvent être gonflés par des conditions de marché favorables.** Ce sont des points de référence utiles, mais pas des ancres de valorisation figées.
+- <strong>La reconnaissance de revenus Daum 2026 supérieure à KRW 100 Mds est un scénario inféré, et non une guidance officielle de la société.</strong> Elle dépend de la date de clôture, du traitement de la consolidation, de la rationalisation des services, du déclin du chiffre d'affaires standalone de Daum et de la politique comptable.
+- <strong>Le chiffre d'affaires de Daum ne doit pas être traité comme un chiffre d'affaires en logiciels IA.</strong> La bonne méthode de valorisation sépare le chiffre d'affaires IA principal du chiffre d'affaires portail, et ne valorise l'option agent IA de Daum que lorsque des indicateurs d'utilisation émergent.
+- <strong>Les opportunités liées aux chèques IA et à la culture IA sont des options de canal de demande.</strong> Sauf divulgation spécifique d'Upstage ou de ses partenaires dans un programme, elles ne doivent pas être modélisées comme des revenus confirmés.
+- <strong>Les multiples de pairs de MiniMax et Zhipu peuvent être gonflés par des conditions de marché favorables.</strong> Ce sont des points de référence utiles, mais pas des ancres de valorisation figées.
 
 ---
 

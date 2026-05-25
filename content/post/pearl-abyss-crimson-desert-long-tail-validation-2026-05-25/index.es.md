@@ -20,19 +20,19 @@ valley_cashtags:
 draft: false
 ---
 
-> **Pearl Abyss × Serie Crimson Desert**
+> <strong>Pearl Abyss × Serie Crimson Desert</strong>
 > [Comparables Neowiz y CD Projekt](/post/pearl-abyss-neowiz-cd-projekt-rerating-comps-2026-05-23/) / [Smart money en KOSDAQ y Pearl Abyss](/post/kosdaq-smart-money-return-pearl-abyss-rebound-2026-05-22/) / [Test de suelo de flujo](/post/pearl-abyss-flow-bottom-test-2026-05-18/) / [Datos del fin de semana tras Patch 1.07](/post/pearl-abyss-crimson-desert-patch-107-weekend-data-2026-05-17/) / [Hub Pearl Abyss](/page/pearl-abyss-crimson-desert-hub/)
 
 *El debate sobre Pearl Abyss ya no es si Crimson Desert vendió. La pregunta es cuánto puede durar la cola de ventas. Los datos del 25 de mayo son claros: el juego defiende la tesis de long tail, la presión short baja y los extranjeros absorben papel.*
 
 ## Resumen Clave
 
-- **Crimson Desert no está colapsando.** Al 25 de mayo, 20:20 KST, el ranking de ventas de Steam era global **#18**, Corea **#5**, EE.UU. **#13** y China **#17**.
-- **El CCU cae de forma normal, pero los indicadores de conversión mejoran.** El CCU medio cayó **12,8%** frente al fin de semana comparable, pero las nuevas reseñas subieron **5,2%**, las reseñas/día **4,7%** y la positividad de nuevas reseñas mejoró a **89,0%**.
-- **Patch 1.08 mejoró la señal de calidad.** Desde el 22 de mayo a las 17:20 KST, hubo **1.318** nuevas reseñas con **90,0%** de positividad.
-- **La presión short se modera.** El saldo de ventas en corto bajó de unos **KRW 131,2B** a principios de abril a **KRW 62,1B** al 20 de mayo. La ratio de valor short cayó de **32,1%** el 13 de mayo a **2,7%** el 22 de mayo.
-- **Los extranjeros absorben.** Entre el 1 de abril y el 22 de mayo, los extranjeros compraron **KRW 56,6B** netos, los individuos **KRW 19,2B**, y las instituciones vendieron **KRW 76,1B**.
-- **Lectura: se refuerza el Hold.** Para comprar más hace falta 6M oficial, roadmap de DLC/expansión, visibilidad de DokeV o mensaje de retorno de capital.
+- <strong>Crimson Desert no está colapsando.</strong> Al 25 de mayo, 20:20 KST, el ranking de ventas de Steam era global <strong>#18</strong>, Corea <strong>#5</strong>, EE.UU. <strong>#13</strong> y China <strong>#17</strong>.
+- <strong>El CCU cae de forma normal, pero los indicadores de conversión mejoran.</strong> El CCU medio cayó <strong>12,8%</strong> frente al fin de semana comparable, pero las nuevas reseñas subieron <strong>5,2%</strong>, las reseñas/día <strong>4,7%</strong> y la positividad de nuevas reseñas mejoró a <strong>89,0%</strong>.
+- <strong>Patch 1.08 mejoró la señal de calidad.</strong> Desde el 22 de mayo a las 17:20 KST, hubo <strong>1.318</strong> nuevas reseñas con <strong>90,0%</strong> de positividad.
+- <strong>La presión short se modera.</strong> El saldo de ventas en corto bajó de unos <strong>KRW 131,2B</strong> a principios de abril a <strong>KRW 62,1B</strong> al 20 de mayo. La ratio de valor short cayó de <strong>32,1%</strong> el 13 de mayo a <strong>2,7%</strong> el 22 de mayo.
+- <strong>Los extranjeros absorben.</strong> Entre el 1 de abril y el 22 de mayo, los extranjeros compraron <strong>KRW 56,6B</strong> netos, los individuos <strong>KRW 19,2B</strong>, y las instituciones vendieron <strong>KRW 76,1B</strong>.
+- <strong>Lectura: se refuerza el Hold.</strong> Para comprar más hace falta 6M oficial, roadmap de DLC/expansión, visibilidad de DokeV o mensaje de retorno de capital.
 
 ## 1. Foto Actual
 
@@ -49,7 +49,7 @@ draft: false
 | EE.UU. | #13 |
 | China | #17 |
 
-La estimación práctica de ventas está cerca de **5,93M** de copias. El cruce real de 6M a finales de mayo o inicios de junio es razonable, aunque el anuncio oficial puede llegar después.
+La estimación práctica de ventas está cerca de <strong>5,93M</strong> de copias. El cruce real de 6M a finales de mayo o inicios de junio es razonable, aunque el anuncio oficial puede llegar después.
 
 ## 2. Ranking de Ventas: La Cola Sigue Viva
 
@@ -68,7 +68,7 @@ El dato de EE.UU. es el más importante. Ese mercado es frío para juegos AAA pr
 
 ![Reseñas diarias y positividad de Crimson Desert](crimson-desert-daily-reviews-positive-rate-2026-05-25.png)
 
-Las reseñas diarias bajaron desde el pico inicial, pero durante el último mes siguen en el rango **250-500/día**. Desde Patch 1.08:
+Las reseñas diarias bajaron desde el pico inicial, pero durante el último mes siguen en el rango <strong>250-500/día</strong>. Desde Patch 1.08:
 
 | Métrica | Desde Patch 1.08 |
 |---|---:|
@@ -103,7 +103,7 @@ El saldo KRX tiene retraso de reporte, así que el último saldo fiable es el 20
 | Individuos | +KRW 19,2B |
 | Instituciones | -KRW 76,1B |
 
-En los últimos cinco días, los extranjeros compraron **KRW 15,1B** y los individuos vendieron **KRW 14,9B**. La configuración es absorción extranjera más digestión de venta institucional.
+En los últimos cinco días, los extranjeros compraron <strong>KRW 15,1B</strong> y los individuos vendieron <strong>KRW 14,9B</strong>. La configuración es absorción extranjera más digestión de venta institucional.
 
 ## 5. Lectura de Inversión
 
@@ -114,7 +114,7 @@ En los últimos cinco días, los extranjeros compraron **KRW 15,1B** y los indiv
 | Short | Saldo baja y ratio se desploma | Presión vendedora menor |
 | Flujo | Compran extranjeros, venden instituciones | Repricing retrasado, tesis no rota |
 
-**Postura: Hold / añadir solo con catalizadores.**
+<strong>Postura: Hold / añadir solo con catalizadores.</strong>
 
 | Catalizador para añadir | Significado |
 |---|---|

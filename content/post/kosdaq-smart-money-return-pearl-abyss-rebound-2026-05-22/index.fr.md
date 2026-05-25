@@ -17,22 +17,22 @@ valley_cashtags:
 draft: false
 ---
 
-> 📚 **Série liée**
+> 📚 <strong>Série liée</strong>
 > [Test de plancher des flux de Pearl Abyss](/fr/post/pearl-abyss-flow-bottom-test-2026-05-18/) / [Hub Pearl Abyss](/fr/page/pearl-abyss-crimson-desert-hub/) / [Synthèse marché du 17 mai](/fr/post/macro-snapshot-complex-risk-off-recovery-triggers-2026-05-17/) / [Guide complet du KOSDAQ](/fr/post/kosdaq-complete-guide-promotion-relegation-system-2026-05-10/) / [Fonds national de croissance et capital politique KOSDAQ](/fr/post/national-growth-fund-kosdaq-smart-money-policy-bottlenecks-2026-05-24/)
 
 *Les deux derniers mois ont été une victoire nette des grandes capitalisations du KOSPI et une phase de faiblesse relative extrême du KOSDAQ. Selon un indice approximatif pondéré par la capitalisation, le KOSPI a progressé de +49,8% et le KOSDAQ de +11,4%, soit -38,4 points de retard. Pourtant, les flux commencent à diverger du prix. Sur les cinq dernières séances, le KOSDAQ affiche +707,9 Mds₩ d'achats étrangers+institutions et +410,4 Mds₩ d'achats de programmes. Sur la même période, le KOSPI affiche -14 058 Mds₩ de ventes étrangers+institutions et -8 157 Mds₩ de ventes de programmes. Le prix dit que le KOSPI a gagné. Le nouvel argent commence à regarder à nouveau le KOSDAQ.*
 
 ## Points clés
 
-- **Le prix à deux mois donne une victoire au KOSPI.** KOSPI +49,8% contre KOSDAQ +11,4% en pondération par capitalisation. Sur 20 séances, KOSPI +27,0% et KOSDAQ -0,1%.
-- **La lecture équipondérée est différente.** Sur deux mois, KOSPI +14,5% et KOSDAQ +17,4%. L'ensemble du KOSDAQ n'est pas effondré; ce sont les méga-capitalisations IA du KOSPI qui ont tiré l'indice.
-- **Le ratio KOSDAQ/KOSPI est proche d'un plus bas de deux mois.** Il est à 74,1, -29,5% sous le sommet de 105,1. Le score standard sur 40 séances est -1,88σ, déjà une zone de survente relative.
-- **Les flux s'améliorent d'abord sur le KOSDAQ.** Sur cinq séances, étrangers+institutions achètent +707,9 Mds₩ et les programmes +410,4 Mds₩. Le KOSPI reste vendu par ces deux canaux.
-- **La composition institutionnelle diffère.** Les achats institutionnels du KOSPI viennent surtout de la finance d'investissement, qui peut inclure indice, dérivés et arbitrage. Sur le KOSDAQ, les fonds d'investissement achètent +124,9 Mds₩.
-- **Pearl Abyss est la 7e plus forte baisse parmi les 100 premières valeurs du KOSDAQ.** Le titre a chuté de -41,3%, de 77 400₩ à 45 450₩, soit environ 19 points de plus que la médiane de -22,0%.
-- **Pearl Abyss ressemble davantage à un candidat de rebond investissable qu'à une simple survente.** OP 2026E de 476,9 Mds₩, PER 2026E de 8,0x, ROE 2026E de 36,9%, achats étrangers+institutions de +22,08 Mds₩ sur cinq séances et ventes des particuliers de -22,33 Mds₩.
+- <strong>Le prix à deux mois donne une victoire au KOSPI.</strong> KOSPI +49,8% contre KOSDAQ +11,4% en pondération par capitalisation. Sur 20 séances, KOSPI +27,0% et KOSDAQ -0,1%.
+- <strong>La lecture équipondérée est différente.</strong> Sur deux mois, KOSPI +14,5% et KOSDAQ +17,4%. L'ensemble du KOSDAQ n'est pas effondré; ce sont les méga-capitalisations IA du KOSPI qui ont tiré l'indice.
+- <strong>Le ratio KOSDAQ/KOSPI est proche d'un plus bas de deux mois.</strong> Il est à 74,1, -29,5% sous le sommet de 105,1. Le score standard sur 40 séances est -1,88σ, déjà une zone de survente relative.
+- <strong>Les flux s'améliorent d'abord sur le KOSDAQ.</strong> Sur cinq séances, étrangers+institutions achètent +707,9 Mds₩ et les programmes +410,4 Mds₩. Le KOSPI reste vendu par ces deux canaux.
+- <strong>La composition institutionnelle diffère.</strong> Les achats institutionnels du KOSPI viennent surtout de la finance d'investissement, qui peut inclure indice, dérivés et arbitrage. Sur le KOSDAQ, les fonds d'investissement achètent +124,9 Mds₩.
+- <strong>Pearl Abyss est la 7e plus forte baisse parmi les 100 premières valeurs du KOSDAQ.</strong> Le titre a chuté de -41,3%, de 77 400₩ à 45 450₩, soit environ 19 points de plus que la médiane de -22,0%.
+- <strong>Pearl Abyss ressemble davantage à un candidat de rebond investissable qu'à une simple survente.</strong> OP 2026E de 476,9 Mds₩, PER 2026E de 8,0x, ROE 2026E de 36,9%, achats étrangers+institutions de +22,08 Mds₩ sur cinq séances et ventes des particuliers de -22,33 Mds₩.
 
-Conclusion simple : le KOSDAQ n'est pas encore confirmé comme nouveau leader. Mais **les flux commencent à tourner avant la confirmation par les prix**. Dans ce cadre, Pearl Abyss est l'un des grands candidats de rebond les plus intéressants.
+Conclusion simple : le KOSDAQ n'est pas encore confirmé comme nouveau leader. Mais <strong>les flux commencent à tourner avant la confirmation par les prix</strong>. Dans ce cadre, Pearl Abyss est l'un des grands candidats de rebond les plus intéressants.
 
 ---
 
@@ -49,7 +49,7 @@ Les chiffres de cet article ne sont pas les indices officiels KRX. Ce sont des s
 | Méthode | Indice approximatif pondéré par capitalisation à partir d'actions individuelles |
 | Limite | Pas un indice officiel KRX |
 
-L'objectif n'est pas de répliquer parfaitement l'indice officiel. L'objectif est de trouver le point où **la force relative du prix et la direction des flux divergent**.
+L'objectif n'est pas de répliquer parfaitement l'indice officiel. L'objectif est de trouver le point où <strong>la force relative du prix et la direction des flux divergent</strong>.
 
 ---
 
@@ -57,17 +57,17 @@ L'objectif n'est pas de répliquer parfaitement l'indice officiel. L'objectif es
 
 | Catégorie | KOSPI | KOSDAQ | Lecture |
 |---|---:|---:|---|
-| Rendement 2M pondéré par capitalisation | **+49,8%** | **+11,4%** | Victoire nette du KOSPI |
-| Rendement 2M équipondéré | +14,5% | **+17,4%** | L'ampleur interne du KOSDAQ reste correcte |
-| Rendement récent 20D | **+27,0%** | -0,1% | KOSDAQ totalement délaissé sur un mois |
-| Rendement récent 5D | **+4,8%** | -0,5% | Le KOSPI reste dominant |
+| Rendement 2M pondéré par capitalisation | <strong>+49,8%</strong> | <strong>+11,4%</strong> | Victoire nette du KOSPI |
+| Rendement 2M équipondéré | +14,5% | <strong>+17,4%</strong> | L'ampleur interne du KOSDAQ reste correcte |
+| Rendement récent 20D | <strong>+27,0%</strong> | -0,1% | KOSDAQ totalement délaissé sur un mois |
+| Rendement récent 5D | <strong>+4,8%</strong> | -0,5% | Le KOSPI reste dominant |
 | Ratio moyen de valeurs en hausse 2M | 43,1% | 41,5% | Ampleur faible des deux côtés |
 
 Le point clé est l'écart entre pondération par capitalisation et équipondération. En pondération par capitalisation, le KOSPI écrase le KOSDAQ. En équipondération, le KOSPI est à +14,5% et le KOSDAQ à +17,4%.
 
-Cela ne signifie pas que toutes les valeurs du KOSPI étaient fortes. Cela signifie que **Samsung Electronics, SK Hynix, Samsung Electro-Mechanics et d'autres méga-capitalisations liées à l'infrastructure IA ont tiré le KOSPI**.
+Cela ne signifie pas que toutes les valeurs du KOSPI étaient fortes. Cela signifie que <strong>Samsung Electronics, SK Hynix, Samsung Electro-Mechanics et d'autres méga-capitalisations liées à l'infrastructure IA ont tiré le KOSPI</strong>.
 
-Inversement, le KOSDAQ est faible au niveau de l'indice, mais son univers interne ne s'est pas totalement brisé. Le problème n'est pas "toutes les valeurs vont plus mal"; c'est que **le leadership de capitalisation et de flux s'est déplacé vers les grandes du KOSPI**.
+Inversement, le KOSDAQ est faible au niveau de l'indice, mais son univers interne ne s'est pas totalement brisé. Le problème n'est pas "toutes les valeurs vont plus mal"; c'est que <strong>le leadership de capitalisation et de flux s'est déplacé vers les grandes du KOSPI</strong>.
 
 ---
 
@@ -77,15 +77,15 @@ Inversement, le KOSDAQ est faible au niveau de l'indice, mais son univers intern
 |---|---:|
 | Ratio relatif début 2M | 99,7 |
 | Sommet 2M | 105,1, 2026-03-31 |
-| Actuel | **74,1** |
-| Depuis le sommet | **-29,5%** |
-| Variation 2M | **-25,6%** |
-| Versus moyenne 20D | **-12,5%** |
-| Score standard 40 séances | **-1,88σ** |
+| Actuel | <strong>74,1</strong> |
+| Depuis le sommet | <strong>-29,5%</strong> |
+| Variation 2M | <strong>-25,6%</strong> |
+| Versus moyenne 20D | <strong>-12,5%</strong> |
+| Score standard 40 séances | <strong>-1,88σ</strong> |
 
 Le KOSDAQ est au plus bas relatif des deux derniers mois contre le KOSPI. Un score standard de -1,88σ sur 40 séances représente une faiblesse relative déjà profonde.
 
-Mais il ne faut pas conclure immédiatement "acheter KOSDAQ". La survente relative montre **une possibilité de rebond**, pas **un rebond confirmé**.
+Mais il ne faut pas conclure immédiatement "acheter KOSDAQ". La survente relative montre <strong>une possibilité de rebond</strong>, pas <strong>un rebond confirmé</strong>.
 
 ```text
 Prix : KOSDAQ à un bas relatif
@@ -102,8 +102,8 @@ Unité : 100 millions de won
 
 | Marché | Particuliers 2M | Étrangers 2M | Institutions 2M | Étrangers+Institutions 2M | Programmes 2M |
 |---|---:|---:|---:|---:|---:|
-| KOSPI | +252 628 | -555 191 | +177 042 | **-378 149** | -293 401 |
-| KOSDAQ | +4 765 | +19 909 | -36 542 | **-16 632** | +6 300 |
+| KOSPI | +252 628 | -555 191 | +177 042 | <strong>-378 149</strong> | -293 401 |
+| KOSDAQ | +4 765 | +19 909 | -36 542 | <strong>-16 632</strong> | +6 300 |
 
 Sur deux mois, les étrangers+institutions sont négatifs dans les deux marchés. Mais la qualité est différente.
 
@@ -113,12 +113,12 @@ Sur le KOSDAQ, les institutions ont vendu, mais les étrangers et les programmes
 
 | Marché | Étrangers+Institutions 20D | Programmes 20D | Étrangers+Institutions 5D | Programmes 5D |
 |---|---:|---:|---:|---:|
-| KOSPI | **-323 604** | -219 789 | **-140 578** | -81 572 |
-| KOSDAQ | **+876** | +5 182 | **+7 079** | +4 104 |
+| KOSPI | <strong>-323 604</strong> | -219 789 | <strong>-140 578</strong> | -81 572 |
+| KOSDAQ | <strong>+876</strong> | +5 182 | <strong>+7 079</strong> | +4 104 |
 
 Voilà le cœur de l'analyse.
 
-**Le prix est beaucoup plus fort sur le KOSPI, mais l'amélioration récente des flux est meilleure sur le KOSDAQ.**
+<strong>Le prix est beaucoup plus fort sur le KOSPI, mais l'amélioration récente des flux est meilleure sur le KOSDAQ.</strong>
 
 Le prix est le résultat du passé. Les flux donnent un indice sur le prochain mouvement. Le KOSDAQ reste faible en prix, mais ressemble de plus en plus à un marché qui teste un plancher.
 
@@ -129,7 +129,7 @@ Le prix est le résultat du passé. Les flux donnent un indice sur le prochain m
 | Marché | Finance d'investissement 5D | Assurance 5D | Fonds d'investissement 5D | Fonds privés 5D | Retraites/État 5D |
 |---|---:|---:|---:|---:|---:|
 | KOSPI | +45 340 | -623 | +1 143 | +3 299 | -2 409 |
-| KOSDAQ | +177 | +4 | **+1 249** | +205 | -690 |
+| KOSDAQ | +177 | +4 | <strong>+1 249</strong> | +205 | -690 |
 
 La majorité des achats institutionnels du KOSPI vient de la finance d'investissement. Ce flux peut être lié aux indices, dérivés ou arbitrages. Il faut donc éviter de le lire comme du capital long terme directionnel.
 
@@ -165,7 +165,7 @@ Baisse depuis le sommet = 45 450 / 77 400 - 1
 | Baisse supérieure à -30% | 23 valeurs |
 | Baisse supérieure à -40% | 7 valeurs |
 
-Pearl Abyss, à -41,3%, appartient exactement au **groupe des sept valeurs en baisse de plus de -40%**. Ce n'est pas une simple faiblesse; c'est l'une des plus fortes baisses parmi les grandes valeurs du KOSDAQ.
+Pearl Abyss, à -41,3%, appartient exactement au <strong>groupe des sept valeurs en baisse de plus de -40%</strong>. Ce n'est pas une simple faiblesse; c'est l'une des plus fortes baisses parmi les grandes valeurs du KOSDAQ.
 
 ---
 
@@ -179,7 +179,7 @@ Pearl Abyss, à -41,3%, appartient exactement au **groupe des sept valeurs en ba
 | 4 | Seers Technology | 88 | 63 200 | 34 300 | -45,7% |
 | 5 | Woori Technology | 39 | 29 500 | 16 700 | -43,4% |
 | 6 | ABL Bio | 11 | 189 400 | 109 900 | -42,0% |
-| **7** | **Pearl Abyss** | **38** | **77 400** | **45 450** | **-41,3%** |
+| <strong>7</strong> | <strong>Pearl Abyss</strong> | <strong>38</strong> | <strong>77 400</strong> | <strong>45 450</strong> | <strong>-41,3%</strong> |
 | 8 | LigaChem Biosciences | 15 | 224 000 | 139 500 | -37,7% |
 | 9 | Sampyo Cement | 84 | 19 690 | 12 780 | -35,1% |
 | 10 | Curiox Biosystems | 81 | 126 800 | 82 500 | -34,9% |
@@ -196,7 +196,7 @@ Pearl Abyss s'est vendu avec des valeurs biotech événementielles, mais sa natu
 | 4 | Seers Technology | -45,7% | 607 | 22,6x | 86,1% | +114,5 | +22,2 | -121,7 | +172,3 |
 | 5 | Woori Technology | -43,4% | [Non confirmé] | [Non confirmé] | [Non confirmé] | +368,5 | +9,6 | +6,1 | +190,1 |
 | 6 | ABL Bio | -42,0% | -486 | Perte | -26,4% | +564,0 | -1 026,5 | -556,5 | +779,1 |
-| **7** | **Pearl Abyss** | **-41,3%** | **4 769** | **8,0x** | **36,9%** | **+220,8** | **-73,8** | **-223,3** | **+235,6** |
+| <strong>7</strong> | <strong>Pearl Abyss</strong> | <strong>-41,3%</strong> | <strong>4 769</strong> | <strong>8,0x</strong> | <strong>36,9%</strong> | <strong>+220,8</strong> | <strong>-73,8</strong> | <strong>-223,3</strong> | <strong>+235,6</strong> |
 | 8 | LigaChem Biosciences | -37,7% | 268 | 116,1x | 8,1% | -860,4 | -815,0 | +821,1 | -149,4 |
 | 13 | Peptro | -33,2% | [Non confirmé] | [Non confirmé] | [Non confirmé] | -263,9 | -958,8 | -70,3 | [Non confirmé] |
 | 15 | Oscotec | -32,7% | 340 | 46,5x | 16,6% | -76,4 | -237,1 | +80,7 | +7,5 |
@@ -210,9 +210,9 @@ Pearl Abyss est le plus équilibré : baisse profonde, PER faible, base bénéfi
 
 | Groupe | Achat net 5D |
 |---|---:|
-| Particuliers | **-22,33 Mds₩** |
-| Étrangers | **+20,77 Mds₩** |
-| Institutions total | **+1,32 Md₩** |
+| Particuliers | <strong>-22,33 Mds₩</strong> |
+| Étrangers | <strong>+20,77 Mds₩</strong> |
+| Institutions total | <strong>+1,32 Md₩</strong> |
 | Finance d'investissement | -1,61 Md₩ |
 | Assurance | +0,01 Md₩ |
 | Fonds d'investissement | +0,30 Md₩ |
@@ -234,11 +234,11 @@ Mais les premiers signes sont apparus.
 
 ## 10. Jugement comparatif
 
-Les biotechs survendues dépendent souvent d'essais, de licences ou de décisions réglementaires. Même avec de bons flux, la valorisation est difficile à ancrer sur les profits. Pearl Abyss a au contraire des chiffres : OP 2026E de 476,9 Mds₩, PER 8,0x et ROE 36,9%. La question centrale est donc **quelle part des profits 2026 peut être maintenue en 2027**.
+Les biotechs survendues dépendent souvent d'essais, de licences ou de décisions réglementaires. Même avec de bons flux, la valorisation est difficile à ancrer sur les profits. Pearl Abyss a au contraire des chiffres : OP 2026E de 476,9 Mds₩, PER 8,0x et ROE 36,9%. La question centrale est donc <strong>quelle part des profits 2026 peut être maintenue en 2027</strong>.
 
 Seers Technology est intéressant, avec OP 2026E de 60,7 Mds₩, PER 22,6x, ROE 86,1% et +11,45 Mds₩ de flux étrangers+institutions sur cinq séances. Mais Pearl Abyss a une valorisation beaucoup plus basse et une combinaison étrangers + fonds privés plus visible.
 
-En rendement ajusté du risque : **Pearl Abyss > Seers Technology**, tout en demandant une confirmation supplémentaire des flux.
+En rendement ajusté du risque : <strong>Pearl Abyss > Seers Technology</strong>, tout en demandant une confirmation supplémentaire des flux.
 
 ---
 
@@ -284,7 +284,7 @@ Le ratio KOSDAQ/KOSPI est à 74,1, -29,5% sous son sommet de deux mois, avec un 
 
 Pearl Abyss est la valeur à surveiller dans ce cadre. 7e plus forte baisse parmi les 100 grandes du KOSDAQ, de 77 400₩ à 45 450₩ (-41,3%). Mais le titre affiche OP 2026E de 476,9 Mds₩, PER 8,0x et ROE 36,9%; sur cinq séances, les particuliers vendent -22,33 Mds₩, les étrangers achètent +20,77 Mds₩ et les institutions +1,32 Md₩. C'est pourquoi il ne s'agit pas seulement d'une survente, mais d'un candidat de rebond investissable.
 
-Le retournement n'est toutefois pas confirmé. Les flux étrangers+institutions sur 20 séances restent à -7,38 Mds₩, et le prix n'a pas encore confirmé le rebond relatif du KOSDAQ. Nous sommes dans une phase où **les flux commencent à revenir, mais le prix n'a pas encore confirmé**. Pearl Abyss n'est pas tant un candidat à couper qu'une grande valeur survendue dont le potentiel de rebond augmente si 45 000₩ tient et si les achats étrangers/fonds privés continuent.
+Le retournement n'est toutefois pas confirmé. Les flux étrangers+institutions sur 20 séances restent à -7,38 Mds₩, et le prix n'a pas encore confirmé le rebond relatif du KOSDAQ. Nous sommes dans une phase où <strong>les flux commencent à revenir, mais le prix n'a pas encore confirmé</strong>. Pearl Abyss n'est pas tant un candidat à couper qu'une grande valeur survendue dont le potentiel de rebond augmente si 45 000₩ tient et si les achats étrangers/fonds privés continuent.
 
 ---
 

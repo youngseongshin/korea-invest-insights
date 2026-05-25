@@ -19,20 +19,20 @@ tags:
   - "Korean equities"
 ---
 
-> 🔗 **Related reading**: [Pamicell Part 3 — 1Q26 Earnings Confirmation](/post/pamicell-1q26-earnings-confirmation-2026-05-12/) · [Rejuran — PharmaResearch PN Skin Booster](/post/rejuran-owner-pharmaresearch-pn-technology-skin-booster-2026-04-27/) · [Easy Bio Part 1](/post/easybio-north-america-feed-additive-rollup-2026-05-07/) · [Easy Bio Part 2](/post/easybio-anpario-phibro-discount-1q-checkpoint-2026-05-09/) · [ROE-25% Screen — 4 Names That Pass 9 Filters](/post/roe-25-screening-only-four-pass-2026-05-07/)
+> 🔗 <strong>Related reading</strong>: [Pamicell Part 3 — 1Q26 Earnings Confirmation](/post/pamicell-1q26-earnings-confirmation-2026-05-12/) · [Rejuran — PharmaResearch PN Skin Booster](/post/rejuran-owner-pharmaresearch-pn-technology-skin-booster-2026-04-27/) · [Easy Bio Part 1](/post/easybio-north-america-feed-additive-rollup-2026-05-07/) · [Easy Bio Part 2](/post/easybio-anpario-phibro-discount-1q-checkpoint-2026-05-09/) · [ROE-25% Screen — 4 Names That Pass 9 Filters](/post/roe-25-screening-only-four-pass-2026-05-07/)
 
-*Korean biotech is not a broad-beta buy regime right now. It's a selection regime where only data-, BD-, royalty-, or CDMO-validated names work. End-of-May stacks ASCO (May 29-Jun 2), EASL (May 27-30), and EHA abstract releases (May 12 / Jun 2) into one window. The core principle is simple — you're not buying clinical success probability. You're buying **the gap between market-implied success probability and your internal estimate**.*
+*Korean biotech is not a broad-beta buy regime right now. It's a selection regime where only data-, BD-, royalty-, or CDMO-validated names work. End-of-May stacks ASCO (May 29-Jun 2), EASL (May 27-30), and EHA abstract releases (May 12 / Jun 2) into one window. The core principle is simple — you're not buying clinical success probability. You're buying <strong>the gap between market-implied success probability and your internal estimate</strong>.*
 
 ---
 
 ## TL;DR
 
-* **The sector is in selection regime, not broad-buy regime.** Conference catalysts, global regulatory change, and Korea-specific positioning reflexivity all interact in the same window.
-* **End-of-May conference data is the first price-setting window.** ASCO general abstracts release May 21 17:00 ET (May 22 06:00 KST); congress May 29-Jun 2. EASL May 27-30. EHA general abstracts May 12 22:30 KST, late-breakers June 2 22:30 KST.
-* **Five concurrent theses.** (1) Oncology BD — LegoChem Bio, Voronoi, GI Innovation, Lunit; (2) MASH 48-week histology — D&D Pharmatech DD01; (3) SC-conversion royalty — Alteogen; (4) CDMO + biosimilars — Samsung Biologics, Celltrion; (5) FDA regulatory-innovation long option.
-* **The market's biggest mispricing is "abstract acceptance ≠ data quality."** ORR, PFS, OS, DoR, Grade 3/4 AEs, discontinuation rates, and biomarker-defined subgroups determine post-release price action.
-* **The avoid list is clear.** Names already running on abstract acceptance alone, names with only preclinical / platform narrative and no human data, names with short cash runway and large CB/BW overhang, names recycling "global big-pharma interest" without partners or upfronts, names entering hot biotech ETF flows.
-* **Core discipline.** Don't believe the tech; believe the data and the cash runway.
+* <strong>The sector is in selection regime, not broad-buy regime.</strong> Conference catalysts, global regulatory change, and Korea-specific positioning reflexivity all interact in the same window.
+* <strong>End-of-May conference data is the first price-setting window.</strong> ASCO general abstracts release May 21 17:00 ET (May 22 06:00 KST); congress May 29-Jun 2. EASL May 27-30. EHA general abstracts May 12 22:30 KST, late-breakers June 2 22:30 KST.
+* <strong>Five concurrent theses.</strong> (1) Oncology BD — LegoChem Bio, Voronoi, GI Innovation, Lunit; (2) MASH 48-week histology — D&D Pharmatech DD01; (3) SC-conversion royalty — Alteogen; (4) CDMO + biosimilars — Samsung Biologics, Celltrion; (5) FDA regulatory-innovation long option.
+* <strong>The market's biggest mispricing is "abstract acceptance ≠ data quality."</strong> ORR, PFS, OS, DoR, Grade 3/4 AEs, discontinuation rates, and biomarker-defined subgroups determine post-release price action.
+* <strong>The avoid list is clear.</strong> Names already running on abstract acceptance alone, names with only preclinical / platform narrative and no human data, names with short cash runway and large CB/BW overhang, names recycling "global big-pharma interest" without partners or upfronts, names entering hot biotech ETF flows.
+* <strong>Core discipline.</strong> Don't believe the tech; believe the data and the cash runway.
 
 ---
 
@@ -42,7 +42,7 @@ tags:
 
 ASCO 2026 runs May 29-Jun 2. General abstracts release May 21 17:00 ET — May 22 06:00 KST. EASL Congress 2026 runs May 27-30 in Barcelona and online.
 
-End-of-May is the window where **oncology (ASCO) and liver-fibrosis / MASH (EASL) data hit the same week**. The 1-2 weeks between abstract release and main-stage presentation is the first price-setting window for Korean biotech event names.
+End-of-May is the window where <strong>oncology (ASCO) and liver-fibrosis / MASH (EASL) data hit the same week</strong>. The 1-2 weeks between abstract release and main-stage presentation is the first price-setting window for Korean biotech event names.
 
 ### 1.2 Global regulatory environment shift
 
@@ -52,7 +52,7 @@ In April 2026, FDA announced the Real-Time Clinical Trials initiative — a proo
 
 ### 1.3 Korean market positioning reflexivity
 
-KRX Data Marketplace publishes short-sale, flow, and investor-segment data, and Korean short-selling has been re-enabled since March 31, 2025. Korean biotech event names see **short-sale, securities-lending, ETF flow, and retail-overheating amplifying volatility**. Data analysis and flow analysis cannot be separated for the asset class to make sense.
+KRX Data Marketplace publishes short-sale, flow, and investor-segment data, and Korean short-selling has been re-enabled since March 31, 2025. Korean biotech event names see <strong>short-sale, securities-lending, ETF flow, and retail-overheating amplifying volatility</strong>. Data analysis and flow analysis cannot be separated for the asset class to make sense.
 
 ---
 
@@ -62,11 +62,11 @@ KRX Data Marketplace publishes short-sale, flow, and investor-segment data, and 
 
 | Thesis | Mechanism | Representative names |
 |---|---|---|
-| **Data → BD** | Trial data re-prices big-pharma licensing optionality | LegoChem Bio, Voronoi, GI Innovation |
-| **Disease-specific binary** | One readout shifts the entire equity value | D&D Pharmatech, Yuhan MASH read-through |
-| **Royalty infrastructure** | Repeatable royalty structure, not single-trial success | Alteogen |
-| **Cash-flow bio** | Real revenue / orders / utilization protect valuation | Samsung Biologics, Celltrion, Samsung Bioepis line |
-| **FDA regulatory-innovation option** | Long-dated optionality on clinical-development time-value | Names with US clinical infrastructure |
+| <strong>Data → BD</strong> | Trial data re-prices big-pharma licensing optionality | LegoChem Bio, Voronoi, GI Innovation |
+| <strong>Disease-specific binary</strong> | One readout shifts the entire equity value | D&D Pharmatech, Yuhan MASH read-through |
+| <strong>Royalty infrastructure</strong> | Repeatable royalty structure, not single-trial success | Alteogen |
+| <strong>Cash-flow bio</strong> | Real revenue / orders / utilization protect valuation | Samsung Biologics, Celltrion, Samsung Bioepis line |
+| <strong>FDA regulatory-innovation option</strong> | Long-dated optionality on clinical-development time-value | Names with US clinical infrastructure |
 
 ### 2.2 The avoid list
 
@@ -98,7 +98,7 @@ Q = patients / indication expansion / prescribing conversion / backlog
 C = trial cost / cost of goods / dilution cost / time cost
 ```
 
-The discipline: **separate technology → trials → regulation → commercialization → public-market price**. Good science doesn't equal a good stock. The recurring failure mode in Korean biotech isn't a failure to understand the science — it's a failure to price data maturity and funding risk.
+The discipline: <strong>separate technology → trials → regulation → commercialization → public-market price</strong>. Good science doesn't equal a good stock. The recurring failure mode in Korean biotech isn't a failure to understand the science — it's a failure to price data maturity and funding risk.
 
 ---
 
@@ -125,7 +125,7 @@ Lunit is reportedly presenting 5 abstracts based on the Lunit SCOPE platform at 
 
 ### 4.3 Market mispricing variable
 
-The market overweights "abstract acceptance" and underweights **data quality**. What actually matters: ORR, PFS, OS, DoR, Grade 3/4 AEs, discontinuation rates, dose-response, biomarker-defined subgroups.
+The market overweights "abstract acceptance" and underweights <strong>data quality</strong>. What actually matters: ORR, PFS, OS, DoR, Grade 3/4 AEs, discontinuation rates, dose-response, biomarker-defined subgroups.
 
 ### 4.4 Red-team
 
@@ -140,7 +140,7 @@ The market overweights "abstract acceptance" and underweights **data quality**. 
 
 ### 5.1 Core logic
 
-MASH (metabolic dysfunction-associated steatohepatitis) is the follow-on alpha after obesity / GLP-1. In MASH, the value driver is not weight loss or liver fat — it's **biopsy-based fibrosis improvement and MASH resolution**.
+MASH (metabolic dysfunction-associated steatohepatitis) is the follow-on alpha after obesity / GLP-1. In MASH, the value driver is not weight loss or liver fat — it's <strong>biopsy-based fibrosis improvement and MASH resolution</strong>.
 
 EASL Congress 2026 runs May 27-30. For Korean investors, the highest-impact event is D&D Pharmatech DD01.
 
@@ -157,7 +157,7 @@ D&D Pharmatech disclosed that the DD01 Phase 2 48-week patient dataset is databa
 
 ### 5.3 Market mispricing variable
 
-The market over-reacts to "GLP-1" as a category. The actual investment point for DD01 is not the GLP-1 theme — it's **whether MASH histological improvement materializes**.
+The market over-reacts to "GLP-1" as a category. The actual investment point for DD01 is not the GLP-1 theme — it's <strong>whether MASH histological improvement materializes</strong>.
 
 ### 5.4 Red-team
 
@@ -171,11 +171,11 @@ The market over-reacts to "GLP-1" as a category. The actual investment point for
 
 ### 6.1 Core logic
 
-The Alteogen-style SC (subcutaneous) conversion platform differs from conventional clinical biotech. Value is not from one drug's clinical-success probability — it's from **capturing as royalty the economic value of administration convenience, clinic throughput, and patient chair-time savings when IV formulations convert to SC**.
+The Alteogen-style SC (subcutaneous) conversion platform differs from conventional clinical biotech. Value is not from one drug's clinical-success probability — it's from <strong>capturing as royalty the economic value of administration convenience, clinic throughput, and patient chair-time savings when IV formulations convert to SC</strong>.
 
 ### 6.2 Market mispricing
 
-The market tends to read Alteogen as a single-drug (Keytruda SC) theme. The variable that actually matters is **whether the SC-conversion platform is repeatable**. As prescription-conversion data accumulates, Alteogen re-rates from "single-event bio" to "royalty DCF."
+The market tends to read Alteogen as a single-drug (Keytruda SC) theme. The variable that actually matters is <strong>whether the SC-conversion platform is repeatable</strong>. As prescription-conversion data accumulates, Alteogen re-rates from "single-event bio" to "royalty DCF."
 
 ### 6.3 Red-team
 
@@ -189,7 +189,7 @@ The market tends to read Alteogen as a single-drug (Keytruda SC) theme. The vari
 
 ### 7.1 Core logic
 
-CDMO (contract development and manufacturing) and biosimilars are more defensive than event biotech. But they aren't just defensive — they're a **structural growth axis combining global biopharma supply chain, FDA deregulation, and manufacturing quality trust**.
+CDMO (contract development and manufacturing) and biosimilars are more defensive than event biotech. But they aren't just defensive — they're a <strong>structural growth axis combining global biopharma supply chain, FDA deregulation, and manufacturing quality trust</strong>.
 
 Samsung Biologics' 1Q26 CDMO revenue was ₩1,257.1bn with OP ₩580.8bn — full utilization on plants 1-4 plus project execution drove the print.
 
@@ -197,7 +197,7 @@ FDA's March 2026 biosimilar-simplification draft guidance directionally lowers b
 
 ### 7.2 Market mispricing
 
-The market often reads CDMO as a "defensive biotech" trade. The actual industry is **quality + delivery + capacity + regulatory trust** — customers buy "won't fail manufacturing," not "cheapest price."
+The market often reads CDMO as a "defensive biotech" trade. The actual industry is <strong>quality + delivery + capacity + regulatory trust</strong> — customers buy "won't fail manufacturing," not "cheapest price."
 
 ### 7.3 Red-team
 
@@ -213,7 +213,7 @@ The FDA Real-Time Clinical Trials initiative aims to enable real-time trial-data
 
 If clinical-development dead-time falls, rNPV time-value discount can soften. But this is still early-stage regulation. Actual beneficiaries are most likely names with US clinical infrastructure, data-management capability, and regulatory bandwidth.
 
-**Red-team**: pilot scope may be narrow; Korean small-to-mid-cap biotech likely won't be early adopters in the FDA real-time pipeline; the regime change lowers time cost but doesn't raise approval probability itself.
+<strong>Red-team</strong>: pilot scope may be narrow; Korean small-to-mid-cap biotech likely won't be early adopters in the FDA real-time pipeline; the regime change lowers time cost but doesn't raise approval probability itself.
 
 ---
 
@@ -267,7 +267,7 @@ Implied SuccProb =
   ÷ unrisked NPV of the asset
 ```
 
-The reason this matters is simple. Biotech equity is not "high success probability" — it's **the gap between market-implied success probability and your internal estimate**.
+The reason this matters is simple. Biotech equity is not "high success probability" — it's <strong>the gap between market-implied success probability and your internal estimate</strong>.
 
 Example:
 
@@ -307,7 +307,7 @@ If internal estimate is 45%, undervalued. 15%, overvalued. That gap is the alpha
 | 2 | Sell-side reports | Consensus and market narrative |
 | 3 | News / IR / community | Sentiment / overheating |
 
-ClinicalTrials.gov primary-completion-date = date of final data collection for primary outcome (last participant examined / intervened). In practice, **registry primary-completion-date drift matters more than company-stated "expected readout dates"**.
+ClinicalTrials.gov primary-completion-date = date of final data collection for primary outcome (last participant examined / intervened). In practice, <strong>registry primary-completion-date drift matters more than company-stated "expected readout dates"</strong>.
 
 ---
 
@@ -344,35 +344,35 @@ When each thesis breaks, the signal is specific.
 
 ## 14. Bottom line
 
-Korean biotech right now is **not a "pick good names" market — it's a "pick names whose good data the market has under-priced" market**. ASCO and EASL are powerful catalysts, but buying on abstract acceptance alone is low-grade event trading.
+Korean biotech right now is <strong>not a "pick good names" market — it's a "pick names whose good data the market has under-priced" market</strong>. ASCO and EASL are powerful catalysts, but buying on abstract acceptance alone is low-grade event trading.
 
 D&D Pharmatech is the cleanest binary; LegoChem Bio is the textbook BD-optionality name; Alteogen is the highest-quality royalty platform. Conversely, story-only names in obesity / ADC / cell-gene therapy without actual data are the explicit avoid list.
 
-The single discipline that matters in this sector: **don't believe the technology; believe the data and the cash runway**. Late-May congresses are the first verification gate; the June ADA is the follow-on. The licensing / partnering / follow-up papers in the month after the events set the final price.
+The single discipline that matters in this sector: <strong>don't believe the technology; believe the data and the cash runway</strong>. Late-May congresses are the first verification gate; the June ADA is the follow-on. The licensing / partnering / follow-up papers in the month after the events set the final price.
 
 ---
 
 ## FAQ
 
-**Q: Why is D&D Pharmatech #1?**
+<strong>Q: Why is D&D Pharmatech #1?</strong>
 A: At EASL Congress 2026 (May 27-30), DD01 Phase 2 48-week data will be presented as a Late-Breaking Abstract. The MASH endpoint that matters most — biopsy-confirmed liver-fibrosis improvement — is disclosed. Good data triggers re-rating against global MASH comparables; weak data triggers a sharp drop. The cleanest binary structure of the cohort.
 
-**Q: Why isn't ASCO abstract acceptance enough to buy?**
+<strong>Q: Why isn't ASCO abstract acceptance enough to buy?</strong>
 A: Acceptance is not a guarantee of data quality. What actually matters: ORR, PFS, OS, DoR, Grade 3/4 AEs, discontinuation, dose-response. Buying purely on acceptance leads to sell-the-news when post-release data turns out average.
 
-**Q: How is Alteogen different from clinical biotech?**
+<strong>Q: How is Alteogen different from clinical biotech?</strong>
 A: Alteogen's value is not in one drug's clinical success — it's in capturing as royalty the economic value of administration convenience and clinic-throughput improvements when IV formulations convert to SC. As real-world prescription-conversion data accumulates, the valuation can re-rate from "single-event bio" to "royalty DCF." Binary-event risk is structurally lower.
 
-**Q: Why isn't Samsung Biologics #1?**
+<strong>Q: Why isn't Samsung Biologics #1?</strong>
 A: 1Q26 print is strong (revenue ₩1,257.1bn, OP ₩580.8bn). But unlike event biotech, short-term conference catalysts are limited. Valuation, plus labor / quality risk, has to be priced. CDMO is a "on weakness" candidate, not a chase.
 
-**Q: Is FDA deregulation an immediate tailwind?**
+<strong>Q: Is FDA deregulation an immediate tailwind?</strong>
 A: Long-dated option, limited short-term effect. PK-trial cost cuts (up to 50%, \~$20M) and the real-time clinical-trials initiative are sector-positive but Korean small-to-mid-cap biotech is unlikely to be an early beneficiary. Names with US clinical infrastructure benefit first.
 
-**Q: How do you calculate market-implied success probability?**
+<strong>Q: How do you calculate market-implied success probability?</strong>
 A: (Current EV − net cash − legacy business − other pipeline) ÷ core-asset unrisked NPV. If that ratio is below your internal estimate, undervalued. The Section 10 worked example shows EV ₩1tn + core-asset NPV ₩2tn → implied 30%.
 
-**Q: Which sources to read first?**
+<strong>Q: Which sources to read first?</strong>
 A: DART (disclosures), ClinicalTrials.gov (phase, endpoints, completion dates), official conference abstracts (patient count, safety, format), patent databases, KRX (short / lending / segment flow). Sell-side reports for consensus; news / IR for sentiment temperature. Registry primary-completion-date drift is a more reliable signal than company-stated "expected readout" timing.
 
 ---

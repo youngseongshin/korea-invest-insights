@@ -15,7 +15,7 @@ slug: hanamicron-jeju-semi-1q26-comparison-2026-05-17
 ---
 
 
-> **相关系列**
+> <strong>相关系列</strong>
 > [AI 11个股数据对比](/zh/post/ai-substrate-test-socket-data-comparison-2026-05-16/) · [Jeju Semiconductor 1Q26 深度剖析](/zh/post/jeju-semiconductor-1q26-earnings-legacy-memory-squeeze-2026-05-15/) · [5月15日流量累积屏](/zh/post/kr-flow-accumulation-absorption-screen-2026-05-15/) · [韩国半导体价值链中心](/zh/page/korea-semiconductor-equipment-ip-hub/)
 
 两只股票均在 2026 年第一季度爆发。 Hana Micron实现营业利润720亿韩元； Jeju Semiconductor 交付 671 亿韩元。在每次公告发布后的第一个交易日，该股分别上涨+18.6%和+8.9%。从表面上看，两者看起来都是“人工智能时代内存后端的受益者”。但这两个惊喜在结构上是不同的。 Hana Micron 更接近商业模式改进的故事——Vina 实体的成本转嫁重新定价，巴西子公司的利润率提高。 Jeju Semiconductor 更接近周期性意外之财——LPDDR4X 供应短缺因关税驱动的前期加载而放大。同样的标签“收益惊喜”掩盖了截然不同的耐用性概况。这种区别就是本文的重点。
@@ -24,12 +24,12 @@ slug: hanamicron-jeju-semi-1q26-comparison-2026-05-17
 
 ## 要点
 
-- **两组数字都很强劲。** Hana Micron：26 年第一季度收入 5,077 亿韩元，OP 720 亿韩元，OPM 14.2%。 Jeju Semiconductor：收入1805亿韩元，OP 671亿韩元，OPM 37.2%。
-- **每次惊喜的性质都不同。** Hana Micron 的上涨是由 Vina 实体重新定价的成本转嫁结构和巴西子公司的利润率提高推动的。 Jeju Semiconductor 的上涨是由 LPDDR4X 供应稀缺和关税驱动的预购推动的。
-- **耐久性有利于 Hana Micron。** 第一季度的保证金不能全部重复年化，但 Hana Micron 可能已经建立了结构性更高的保证金下限。 Jeju Semiconductor 的 37.2% OPM 很难称为新常态。
-- **多重幻觉对于济州岛来说是真实存在的。** 简单地将第一季度净利润年化意味着 9 倍 PER — 但这需要四个相同的季度。标准化调整将预期值倍数推至 16-17 倍。
-- **两者近期明显超买。** Hana Micron：20天内+58.6%，RSI \~78。 Jeju Semiconductor：20天内+94.3%，RSI约81.5，较52周低点+574%。
-- **条目优先级：Hana Micron > Jeju Semiconductor。**但是在打印后立即追逐其中任何一个都是低效的。真正的阿尔法在于确认惊喜不是一次性的——即 2026 年第二季度的业绩——并分批买入任何确认后的疲软。
+- <strong>两组数字都很强劲。</strong> Hana Micron：26 年第一季度收入 5,077 亿韩元，OP 720 亿韩元，OPM 14.2%。 Jeju Semiconductor：收入1805亿韩元，OP 671亿韩元，OPM 37.2%。
+- <strong>每次惊喜的性质都不同。</strong> Hana Micron 的上涨是由 Vina 实体重新定价的成本转嫁结构和巴西子公司的利润率提高推动的。 Jeju Semiconductor 的上涨是由 LPDDR4X 供应稀缺和关税驱动的预购推动的。
+- <strong>耐久性有利于 Hana Micron。</strong> 第一季度的保证金不能全部重复年化，但 Hana Micron 可能已经建立了结构性更高的保证金下限。 Jeju Semiconductor 的 37.2% OPM 很难称为新常态。
+- <strong>多重幻觉对于济州岛来说是真实存在的。</strong> 简单地将第一季度净利润年化意味着 9 倍 PER — 但这需要四个相同的季度。标准化调整将预期值倍数推至 16-17 倍。
+- <strong>两者近期明显超买。</strong> Hana Micron：20天内+58.6%，RSI \~78。 Jeju Semiconductor：20天内+94.3%，RSI约81.5，较52周低点+574%。
+- <strong>条目优先级：Hana Micron > Jeju Semiconductor。</strong>但是在打印后立即追逐其中任何一个都是低效的。真正的阿尔法在于确认惊喜不是一次性的——即 2026 年第二季度的业绩——并分批买入任何确认后的疲软。
 
 ---
 
@@ -52,7 +52,7 @@ slug: hanamicron-jeju-semi-1q26-comparison-2026-05-17
 
 仅看此表，Jeju Semiconductor 显得更便宜 - OPM 较高，而年化 PER 较低。但该算术要求 1Q26 在 Q2、Q3 和 Q4 中相同地重复。在记忆周期中，这种假设是最危险的假设之一。受供应稀缺和预订推动的季度可能会在一个报告期内出现逆转。
 
-那么，真正的问题不是“谁的季度表现更好？”它是：**该利润的可重复性如何？**
+那么，真正的问题不是“谁的季度表现更好？”它是：<strong>该利润的可重复性如何？</strong>
 
 ---
 
@@ -161,7 +161,7 @@ Hana Micron 主要是一个 OSAT 故事。随着高价值内存封装（HBM、DD
 
 ## 8. 实际检查点
 
-**对于 Hana Micron**，2Q26 的关键变量是 OPM。如果第一季度的 14.2% 确实是一次性的，那么第二季度的利润率将大幅下降。如果 OPM 保持在大约 13%，则证明 Vina 定价结构和巴西子公司利润率对公司的盈利能力产生了真正、持久的变化。
+<strong>对于 Hana Micron</strong>，2Q26 的关键变量是 OPM。如果第一季度的 14.2% 确实是一次性的，那么第二季度的利润率将大幅下降。如果 OPM 保持在大约 13%，则证明 Vina 定价结构和巴西子公司利润率对公司的盈利能力产生了真正、持久的变化。
 
 需要监控的四个检查点：
 
@@ -170,7 +170,7 @@ Hana Micron 主要是一个 OSAT 故事。随着高价值内存封装（HBM、DD
 - 巴西子公司维持高青少年 OPM
 - DDR5/eSSD 包装在收入组合中的份额不断上升
 
-**对于 Jeju Semiconductor**，关键变量是 2Q 减速度的大小。如果第二季度营业利润保持在 500 亿韩元以上，OPM 高于 30%，那么第一季度就不仅仅是一次高峰。如果第二季度跌破 400 亿韩元，前期和稀缺效应的解除速度将快于预期。
+<strong>对于 Jeju Semiconductor</strong>，关键变量是 2Q 减速度的大小。如果第二季度营业利润保持在 500 亿韩元以上，OPM 高于 30%，那么第一季度就不仅仅是一次高峰。如果第二季度跌破 400 亿韩元，前期和稀缺效应的解除速度将快于预期。
 
 需要监控的五个检查点：
 
@@ -198,15 +198,15 @@ Hana Micron 主要是一个 OSAT 故事。随着高价值内存封装（HBM、DD
 
 Hana Micron 和 Jeju Semiconductor 均在 2026 年 1 季度取得了强劲的业绩。它们不是同一种惊喜。
 
-Hana Micron 是一个 **结构改进故事**。 Vina 成本转嫁重新定价、巴西高青少年 OPM 以及不断增长的 SK hynix 相关包装量一起移动。第一季度的利润率无法完全标准化为年化运行率，但证据表明盈利下限高于之前的周期。
+Hana Micron 是一个 <strong>结构改进故事</strong>。 Vina 成本转嫁重新定价、巴西高青少年 OPM 以及不断增长的 SK hynix 相关包装量一起移动。第一季度的利润率无法完全标准化为年化运行率，但证据表明盈利下限高于之前的周期。
 
-Jeju Semiconductor 更接近**周期峰值**。 37.2%的OPM是由LPDDR4X供应稀缺和关税驱动的前期加载产生的。该公司的产品能力和利基市场定位是真实的，但将 37.2% OPM 视为可持续的稳定状态是错误的框架。
+Jeju Semiconductor 更接近<strong>周期峰值</strong>。 37.2%的OPM是由LPDDR4X供应稀缺和关税驱动的前期加载产生的。该公司的产品能力和利基市场定位是真实的，但将 37.2% OPM 视为可持续的稳定状态是错误的框架。
 
 从倍数来看，Hana Micron 看起来更有吸引力。 Jeju Semiconductor 的 1Q 运行率 PER 的 9 倍是一种幻想 - 它需要四个相同的季度，而不太可能实现。标准化调整将预期值 PER 推至 16-17 倍。在到 2027 年结构性改善的情况下，Hana Micron 仍具有较当前价格更高的预期价值。
 
 目前这两只股票都不是值得追逐的股票。在强劲的财报公布后，最危险的举动是立即买入，因为数字看起来不错。真正的阿尔法来自于区分惊喜的原因，确认 2Q26 的持久性，并在公告后的热度消退后分批进入。
 
-**单行版本：Hana Micron是结构改进确认交易； Jeju Semiconductor 是周期峰值定时调用。新资金优先考虑 Hana Micron，但在 2Q26 结果之前追逐其中任何一个都是低效的。**
+<strong>单行版本：Hana Micron是结构改进确认交易； Jeju Semiconductor 是周期峰值定时调用。新资金优先考虑 Hana Micron，但在 2Q26 结果之前追逐其中任何一个都是低效的。</strong>
 
 ---
 

@@ -27,23 +27,23 @@ tags:
   - "Korean equities"
 ---
 
-> 📚 **Korean Financials Capital-Buyback Compounding Series — Part 4/N.**
+> 📚 <strong>Korean Financials Capital-Buyback Compounding Series — Part 4/N.</strong>
 > Previous installments:
 > - [Part 1 — Meritz Financial Holdings: The Static Peak of Capital-Buyback Compounding](/post/meritz-financial-capital-buyback-compounding-standard-2026-04-30/)
 > - [Part 2 — Kiwoom Securities: The Dynamic Peak of Trading-Volume Beta](/post/kiwoom-securities-roe20-recognition-completed-2026-04-30/)
 > - [Part 3 — KB Financial Group: The Flow Peak Built by Foreign Access](/post/kb-financial-foreign-access-proxy-third-peak-2026-05-03/)
 
-*Parts 1–3 framed Korean financials as a market where three distinct peaks coexist simultaneously. Meritz, Kiwoom, KB. Once three coordinates settle on the same matrix, the market's gaze naturally moves to what comes next — **the speed at which followers move toward those peaks**. This installment introduces the first case of that new chapter. Shinhan Financial Group is the company moving fastest toward the 'foreign access' coordinate KB reached first. And volume recognized that move before price did — captured in the accounting fact below.*
+*Parts 1–3 framed Korean financials as a market where three distinct peaks coexist simultaneously. Meritz, Kiwoom, KB. Once three coordinates settle on the same matrix, the market's gaze naturally moves to what comes next — <strong>the speed at which followers move toward those peaks</strong>. This installment introduces the first case of that new chapter. Shinhan Financial Group is the company moving fastest toward the 'foreign access' coordinate KB reached first. And volume recognized that move before price did — captured in the accounting fact below.*
 
 ---
 
 ## Executive Summary
 
-- **After three peaks settle, the market starts watching 'transit'.** Once Meritz, Kiwoom, and KB have each established a peak on different dimensions, the natural next analytical question is: **at what speed is which follower moving toward which peak?** Shinhan Financial is the first case.
-- **Shinhan is moving toward the 'foreign access' coordinate KB reached first.** Foreign ownership 60%-class (#2 behind KB at 75.72%), CET1 **13.19%** (just 0.44 pp behind KB's 13.63%), 1Q26 ROE **11.9%** (above KB's 10.5%), 2025 payout ratio **50.2%**, and a ₩700B treasury share buyback-and-cancel announced for the first half.
-- **Volume recognized the move first.** Per internal data, NVR (Net Volume Ratio) read **+18%** — meaning that, in a window where price barely moved, **up-day volume exceeded down-day volume by \~44%**. That is a more robust accumulation signal than a raw OBV reading of +37%, and points to a flow advantage that hasn't been fully priced in yet.
-- **Fundamentals and policy back the signal.** The core of Value-up 2.0 is not a simple dividend uplift — it is **a capital policy that explicitly links ROE × growth × CET1 in a formula**. That puts Shinhan inside the same "ROE × payout × EPS accretion" matrix Meritz and KB are already on, in the bank-holdco version.
-- **The implied cost of equity makes the position concrete.** Shinhan ROE 11.9% / PBR 0.78× = **15.26%**. That's 3.4 pp above KB's 11.9%. The speed at which that gap narrows is, mechanically, the speed of "transit between peaks."
+- <strong>After three peaks settle, the market starts watching 'transit'.</strong> Once Meritz, Kiwoom, and KB have each established a peak on different dimensions, the natural next analytical question is: <strong>at what speed is which follower moving toward which peak?</strong> Shinhan Financial is the first case.
+- <strong>Shinhan is moving toward the 'foreign access' coordinate KB reached first.</strong> Foreign ownership 60%-class (#2 behind KB at 75.72%), CET1 <strong>13.19%</strong> (just 0.44 pp behind KB's 13.63%), 1Q26 ROE <strong>11.9%</strong> (above KB's 10.5%), 2025 payout ratio <strong>50.2%</strong>, and a ₩700B treasury share buyback-and-cancel announced for the first half.
+- <strong>Volume recognized the move first.</strong> Per internal data, NVR (Net Volume Ratio) read <strong>+18%</strong> — meaning that, in a window where price barely moved, <strong>up-day volume exceeded down-day volume by \~44%</strong>. That is a more robust accumulation signal than a raw OBV reading of +37%, and points to a flow advantage that hasn't been fully priced in yet.
+- <strong>Fundamentals and policy back the signal.</strong> The core of Value-up 2.0 is not a simple dividend uplift — it is <strong>a capital policy that explicitly links ROE × growth × CET1 in a formula</strong>. That puts Shinhan inside the same "ROE × payout × EPS accretion" matrix Meritz and KB are already on, in the bank-holdco version.
+- <strong>The implied cost of equity makes the position concrete.</strong> Shinhan ROE 11.9% / PBR 0.78× = <strong>15.26%</strong>. That's 3.4 pp above KB's 11.9%. The speed at which that gap narrows is, mechanically, the speed of "transit between peaks."
 
 ---
 
@@ -59,7 +59,7 @@ The series began with three peaks:
 | Part 2 | Kiwoom Securities | Trading-volume beta (dynamic) | 14.9% |
 | Part 3 | KB Financial Group | Foreign access proxy (flow) | 11.9% |
 
-Once those three peaks settled, the market's attention naturally shifts to what's next — **at what speed are followers moving toward which peak?** That is when Shinhan Financial Group becomes visible.
+Once those three peaks settled, the market's attention naturally shifts to what's next — <strong>at what speed are followers moving toward which peak?</strong> That is when Shinhan Financial Group becomes visible.
 
 ### 1.2 Shinhan Financial in One Table
 
@@ -69,19 +69,19 @@ Once those three peaks settled, the market's attention naturally shifts to what'
 | 52-week high | ₩107,200 |
 | Distance from high | -6.8% |
 | Market cap | ₩47.4T |
-| Foreign ownership | **61.37%** |
+| Foreign ownership | <strong>61.37%</strong> |
 | 1-year return | +94.36% |
 | 1-month return | +10.39% |
-| 2026E P/E / P/B | 8.61× / **0.78×** |
+| 2026E P/E / P/B | 8.61× / <strong>0.78×</strong> |
 | 2026E EPS / BPS | ₩11,604 / ₩128,901 |
 | 2026E DPS / dividend yield | ₩2,979 / 2.98% |
-| **1Q26 ROE** | **11.9%** |
-| **1Q26 CET1** | **13.19%** |
+| <strong>1Q26 ROE</strong> | <strong>11.9%</strong> |
+| <strong>1Q26 CET1</strong> | <strong>13.19%</strong> |
 | 1Q26 Cost-Income Ratio | 36.7% |
 | 1Q26 credit cost ratio | 0.46% |
 | 2025 payout ratio | 50.2% |
 | 1H26 treasury share buyback-and-cancel | ₩700B |
-| **NVR (custom window, internal data)** | **+18%** |
+| <strong>NVR (custom window, internal data)</strong> | <strong>+18%</strong> |
 
 Arithmetic checks:
 - 2026E PBR = 99,900 / 128,901 = 0.7750 ≈ 0.78× ✓
@@ -90,7 +90,7 @@ Arithmetic checks:
 - Buyback ratio = 700 / 47,418 = 1.476% ≈ 1.48%
 - Distance from high = 99,900 / 107,200 - 1 = -6.81% ≈ -6.8% ✓
 
-What this table shows: **Shinhan's fundamental coordinates (ROE 11.9%, CET1 13.19%) have already reached, and in some places exceeded, KB Financial's level.** Yet the PBR at 0.78× is 12% below KB's 0.88×. That gap is the room for "transit."
+What this table shows: <strong>Shinhan's fundamental coordinates (ROE 11.9%, CET1 13.19%) have already reached, and in some places exceeded, KB Financial's level.</strong> Yet the PBR at 0.78× is 12% below KB's 0.88×. That gap is the room for "transit."
 
 ---
 
@@ -136,7 +136,7 @@ Verification:
 - Up − Down = 20.65 − 14.35 = 6.3M ✓
 - (20.65 − 14.35) / (20.65 + 14.35) = 6.3 / 35.0 = 0.18 = 18% ✓
 
-Read: **In a window where price barely moved, up-day volume exceeded down-day volume by \~44%.**
+Read: <strong>In a window where price barely moved, up-day volume exceeded down-day volume by \~44%.</strong>
 
 What does that mean? An OBV increase after a +20–30% price move is often just trend-chasing volume. But an NVR of +18% in a window where price was flat is a different pattern.
 
@@ -148,7 +148,7 @@ Price unresponsive
   → price not yet fully priced-in
 ```
 
-That is the accounting signature of a company **where the move has begun but price hasn't yet reacted** — not a company that has already run.
+That is the accounting signature of a company <strong>where the move has begun but price hasn't yet reacted</strong> — not a company that has already run.
 
 ### 2.3 Methodology Limit — Honest Caveat
 
@@ -156,11 +156,11 @@ To fairly evaluate signal credibility, one caveat must be flagged explicitly. Th
 
 So the signal should be interpreted as one of:
 
-- **Label error** — the actual 30-trading-day NVR needs to be re-computed with the correct window
-- **50D accumulation signal** — if read as a medium-term window, the implication is structurally stronger
-- **Custom event-window signal** — interpretable as cumulative accumulation around a specific event
+- <strong>Label error</strong> — the actual 30-trading-day NVR needs to be re-computed with the correct window
+- <strong>50D accumulation signal</strong> — if read as a medium-term window, the implication is structurally stronger
+- <strong>Custom event-window signal</strong> — interpretable as cumulative accumulation around a specific event
 
-The directionality of the signal is robust, but **window definition needs separate verification**. Since this series is tracking how volume recognizes "transit between peaks," the cleaner the window definition, the cleaner the signal interpretation. Subsequent installments will track 20D / 30D / 50D NVRs computed against the same formula.
+The directionality of the signal is robust, but <strong>window definition needs separate verification</strong>. Since this series is tracking how volume recognizes "transit between peaks," the cleaner the window definition, the cleaner the signal interpretation. Subsequent installments will track 20D / 30D / 50D NVRs computed against the same formula.
 
 ---
 
@@ -168,21 +168,21 @@ The directionality of the signal is robust, but **window definition needs separa
 
 ### 3.1 Where 1Q26 Results Place Shinhan
 
-Shinhan's 1Q26 print isn't simply "a good quarter" — it is **accounting evidence that fundamentals have already reached KB Financial's coordinate**.
+Shinhan's 1Q26 print isn't simply "a good quarter" — it is <strong>accounting evidence that fundamentals have already reached KB Financial's coordinate</strong>.
 
 | Metric | Shinhan 1Q26 | KB 1Q26 |
 | --- | ---: | ---: |
 | Net income | ₩1.6226T (record quarterly) | ₩1.89T |
-| ROE | **11.9%** | 10.5% |
-| CET1 | **13.19%** | 13.63% |
+| ROE | <strong>11.9%</strong> | 10.5% |
+| CET1 | <strong>13.19%</strong> | 13.63% |
 | Cost-Income Ratio | 36.7% | — |
 | Credit cost ratio | 0.46% | — |
 
 Math: ROE 11.9% (Shinhan) − 10.5% (KB) = +1.4 pp. CET1 13.63% (KB) − 13.19% (Shinhan) = +0.44 pp.
 
-Notable observation: **ROE is higher at Shinhan.** The non-bank ROE lift came from Shinhan Investment's 1Q net income (+167.4% YoY), which pulled group-level ROE up. CET1 is 0.44 pp higher at KB, but both are inside the 13%-class — i.e., both satisfy the "accounting ceiling on capital-return capacity."
+Notable observation: <strong>ROE is higher at Shinhan.</strong> The non-bank ROE lift came from Shinhan Investment's 1Q net income (+167.4% YoY), which pulled group-level ROE up. CET1 is 0.44 pp higher at KB, but both are inside the 13%-class — i.e., both satisfy the "accounting ceiling on capital-return capacity."
 
-The single line this table delivers: **Shinhan's fundamental coordinate is no longer a 'follower' coordinate.** It already sits at roughly the same place as the "foreign access coordinate" KB reached first.
+The single line this table delivers: <strong>Shinhan's fundamental coordinate is no longer a 'follower' coordinate.</strong> It already sits at roughly the same place as the "foreign access coordinate" KB reached first.
 
 ### 3.2 Value-up 2.0 — Same Language, On the Same Matrix
 
@@ -195,7 +195,7 @@ The core of Value-up 2.0 is not headline dividend uplift. Per Shinhan's KRX corp
 | CET1 | 13%+ stable management |
 | Implementation mechanism | ROE × growth × CET1 linkage |
 
-This framework speaks the same language as Parts 1 / 2 / 3 because the algorithm is the same: **"build ROE → recycle excess capital into capital return → drive EPS accretion."** Meritz operates this algorithm at ROE 22.4%; KB operates it at ROE 10.5%; Shinhan is now entering the same algorithm at ROE 11.9%.
+This framework speaks the same language as Parts 1 / 2 / 3 because the algorithm is the same: <strong>"build ROE → recycle excess capital into capital return → drive EPS accretion."</strong> Meritz operates this algorithm at ROE 22.4%; KB operates it at ROE 10.5%; Shinhan is now entering the same algorithm at ROE 11.9%.
 
 The arithmetic of Value-up 2.0 (per Yonhap reporting):
 
@@ -208,7 +208,7 @@ With growth 4–5%:
   → Effective ceiling on payout disappears
 ```
 
-Crucially: **the company is no longer pinned at a 30–40% dividend-payout ceiling.** Payout becomes a function of ROE and growth, automatically adjusting. That is the same kind of algorithm-driven capital allocation that Meritz uses (auto-scaling buybacks when 1/PER exceeds cost of equity).
+Crucially: <strong>the company is no longer pinned at a 30–40% dividend-payout ceiling.</strong> Payout becomes a function of ROE and growth, automatically adjusting. That is the same kind of algorithm-driven capital allocation that Meritz uses (auto-scaling buybacks when 1/PER exceeds cost of equity).
 
 ### 3.3 The Math of the ₩700B Buyback
 
@@ -224,7 +224,7 @@ Annualized buyback ratio ≈ \~2.96% (simple 2×)
 Visible total yield ≈ 2.98% + \~3% = \~6%
 ```
 
-That \~6% sits between Meritz (6.7% in Part 1) and KB (9.6% in Part 3). On total yield alone, Shinhan trails Meritz slightly and trails KB clearly. More important than the absolute level: **that gap is the room for transit.**
+That \~6% sits between Meritz (6.7% in Part 1) and KB (9.6% in Part 3). On total yield alone, Shinhan trails Meritz slightly and trails KB clearly. More important than the absolute level: <strong>that gap is the room for transit.</strong>
 
 ---
 
@@ -238,8 +238,8 @@ Putting all the implied cost-of-equity readings the series has produced in one t
 | --- | ---: | ---: | ---: |
 | Meritz Financial Holdings | 22.4% | 1.57× | 14.3% (Wise basis) \~ 11.5% (source basis) |
 | Kiwoom Securities | 20.7% | 1.39× | 14.9% |
-| KB Financial Group | 10.5% | 0.88× | **11.9%** |
-| **Shinhan Financial** | **11.9%** | **0.78×** | **15.26%** |
+| KB Financial Group | 10.5% | 0.88× | <strong>11.9%</strong> |
+| <strong>Shinhan Financial</strong> | <strong>11.9%</strong> | <strong>0.78×</strong> | <strong>15.26%</strong> |
 | Hana Financial | 10.5% | 0.70× | 15.00% |
 
 Verification:
@@ -247,7 +247,7 @@ Verification:
 - KB: 10.5 / 0.88 = 11.93% ≈ 11.9% ✓
 - Shinhan − KB = 15.26 − 11.93 = 3.33 pp
 
-Key observation: **Shinhan's implied cost of equity 15.26% sits 3.3 pp above KB's 11.93%** — even though both belong to the ROE 10%-class category, share the CET1 13%-class structural strength, both have foreign-leaning ownership, and both operate inside the Value-up framework.
+Key observation: <strong>Shinhan's implied cost of equity 15.26% sits 3.3 pp above KB's 11.93%</strong> — even though both belong to the ROE 10%-class category, share the CET1 13%-class structural strength, both have foreign-leaning ownership, and both operate inside the Value-up framework.
 
 That 3.3 pp gap is precisely the "room for transit." As Shinhan converges toward the coordinate KB reached, the gap mechanically narrows.
 
@@ -257,17 +257,17 @@ Holding ROE 11.9% constant, lowering implied cost of equity step by step, the pr
 
 | Implied cost of equity | Justified PBR | Justified price (BPS ₩128,901) | Meaning |
 | ---: | ---: | ---: | --- |
-| 15.3% (current) | 0.78× | **₩99,900 (current)** | Transit start |
+| 15.3% (current) | 0.78× | <strong>₩99,900 (current)</strong> | Transit start |
 | 14.0% | 0.85× | ₩109,600 | First narrowing |
 | 13.0% | 0.92× | ₩118,500 | Within 1 pp of KB |
-| 11.9% (KB level) | 1.00× | **₩128,900** | Reaches KB coordinate |
+| 11.9% (KB level) | 1.00× | <strong>₩128,900</strong> | Reaches KB coordinate |
 | 10.5% (KB at PBR 1.13× hypothetical) | 1.13× | ₩145,700 | Past KB |
 
 Verification:
 - PBR 0.92× = 11.9 / 13.0 = 0.915 ≈ 0.92×; price = 128,901 × 0.92 = ₩118,589 ≈ ₩118,500 ✓
 - PBR 1.00× price = 128,901 × 1.00 = ₩128,901 ✓
 
-What this table shows in one line: **the hypothesis "Shinhan transits to the coordinate KB reached" expresses, mathematically, as PBR 1.00× and a price of \~₩128,900.** That is not a price target — it is the accounting position at which "the market accepts Shinhan's cost of equity at KB's level."
+What this table shows in one line: <strong>the hypothesis "Shinhan transits to the coordinate KB reached" expresses, mathematically, as PBR 1.00× and a price of \~₩128,900.</strong> That is not a price target — it is the accounting position at which "the market accepts Shinhan's cost of equity at KB's level."
 
 ### 4.3 How the Transit Mechanism Operates
 
@@ -283,9 +283,9 @@ Transit drivers:
   → Same ROE, same BPS, but PBR mechanically rises
 ```
 
-This is the same kind of self-reinforcing mechanism described in Part 1 (capital-buyback compounding), Part 2 (trading-volume beta), and Part 3 (foreign access proxy). The difference in Shinhan's case is that **this mechanism operates 'toward the peak' rather than 'at the peak'.**
+This is the same kind of self-reinforcing mechanism described in Part 1 (capital-buyback compounding), Part 2 (trading-volume beta), and Part 3 (foreign access proxy). The difference in Shinhan's case is that <strong>this mechanism operates 'toward the peak' rather than 'at the peak'.</strong>
 
-That distinction is exactly why Shinhan occupies a meaningful position in the series. Parts 1–3 painted the landscape *of* the peaks; Shinhan is the first case that shows **how a follower moves between peaks on the same matrix**.
+That distinction is exactly why Shinhan occupies a meaningful position in the series. Parts 1–3 painted the landscape *of* the peaks; Shinhan is the first case that shows <strong>how a follower moves between peaks on the same matrix</strong>.
 
 ---
 
@@ -295,17 +295,17 @@ That distinction is exactly why Shinhan occupies a meaningful position in the se
 
 The most interesting alignment of this post is the following.
 
-**Signal 1 (volume)**: NVR +18% — in a window of essentially flat price, up-day volume exceeded down-day volume by 44%. Accumulation pattern.
+<strong>Signal 1 (volume)</strong>: NVR +18% — in a window of essentially flat price, up-day volume exceeded down-day volume by 44%. Accumulation pattern.
 
-**Signal 2 (fundamentals)**: ROE 11.9%, CET1 13.19%, ₩700B buyback, Value-up 2.0 — already at the coordinate KB reached.
+<strong>Signal 2 (fundamentals)</strong>: ROE 11.9%, CET1 13.19%, ₩700B buyback, Value-up 2.0 — already at the coordinate KB reached.
 
-**Signal 3 (valuation)**: PBR 0.78× vs KB 0.88× — same fundamentals, 12% lower price.
+<strong>Signal 3 (valuation)</strong>: PBR 0.78× vs KB 0.88× — same fundamentals, 12% lower price.
 
 All three signals point in the same direction. Volume recognized the "transit" first; fundamentals verify the "transit coordinate"; the valuation gap shows the "room for transit."
 
 ### 5.2 Significance Inside the Series Frame
 
-The reason that alignment matters in series terms is simple. **The volume signal (NVR) is co-aligned with the implied cost-of-equity gap (+3.3 pp vs KB) — meaning the market has begun to recognize 'transit between peaks' in accounting terms.**
+The reason that alignment matters in series terms is simple. <strong>The volume signal (NVR) is co-aligned with the implied cost-of-equity gap (+3.3 pp vs KB) — meaning the market has begun to recognize 'transit between peaks' in accounting terms.</strong>
 
 ```
 Peak-recognition phase (Parts 1–3):
@@ -327,15 +327,15 @@ This phase shift itself is a deeper-stage signal of how the recognition shift in
 
 The +167.4% YoY net-income jump at Shinhan Investment in 1Q26 was the decisive variable that produced group ROE 11.9%. But securities earnings are sensitive to trading volume and market environment — exactly the volatility Part 2 tracked at Kiwoom.
 
-So whether Shinhan's ROE 11.9% is a "structural transit" or a "1Q one-off" requires verification from **2Q26 onward**. If non-bank earnings persist into 2Q, the transit-coordinate read deepens. If 1Q proves to be a one-off, the transit slows.
+So whether Shinhan's ROE 11.9% is a "structural transit" or a "1Q one-off" requires verification from <strong>2Q26 onward</strong>. If non-bank earnings persist into 2Q, the transit-coordinate read deepens. If 1Q proves to be a one-off, the transit slows.
 
-That isn't a weakness — it's the **model's self-verification mechanism**. Same kind of signal as Meritz's (Part 1) self-stabilization or Kiwoom's (Part 2) self-verification. The data needed to validate the transit prints automatically each quarter.
+That isn't a weakness — it's the <strong>model's self-verification mechanism</strong>. Same kind of signal as Meritz's (Part 1) self-stabilization or Kiwoom's (Part 2) self-verification. The data needed to validate the transit prints automatically each quarter.
 
 ### 6.2 NVR Window Definition Itself Needs Verification
 
 As flagged in Section 2.3, the internal "30 trading days" label doesn't match the calendar. The directionality of NVR +18% is robust, but window precision needs separate verification.
 
-This limit isn't simply a data-accuracy issue — it is the **prerequisite for accurately measuring 'how fast the transit is happening'**. Whether the window is 30D or 50D changes the speed interpretation. Since the series tracks the speed of inter-peak transit, a clean window definition makes the analysis cleaner.
+This limit isn't simply a data-accuracy issue — it is the <strong>prerequisite for accurately measuring 'how fast the transit is happening'</strong>. Whether the window is 30D or 50D changes the speed interpretation. Since the series tracks the speed of inter-peak transit, a clean window definition makes the analysis cleaner.
 
 Subsequent installments will track 20D / 30D / 50D NVRs computed against the same formula and aligned in a single comparison.
 
@@ -347,25 +347,25 @@ Not trading triggers. Observation points showing the speed at which "transit bet
 
 ### 7.1 Shinhan Financial — Verifying the Transit
 
-- **2Q26 ROE held above 10%.** Verification of the structural nature of the 1Q non-bank uplift. Stabilization above 10% closes the transit-coordinate move accountingly.
-- **CET1 held above 13.0%.** The capital-return capacity ceiling. Below 13.0% would shake the buyback-and-cancel algorithm.
-- **2H26 additional buyback-and-cancel disclosure.** A second-half size comparable to the ₩700B 1H run cements the \~6% annualized total yield.
-- **Foreign ownership 60% → 65–70% progression.** Gradual approach to KB's 75.72%. The most direct signal of transit toward the foreign access coordinate.
-- **52-week-high break (₩107,200) accompanied by volume.** The accounting verification of the NVR signal.
+- <strong>2Q26 ROE held above 10%.</strong> Verification of the structural nature of the 1Q non-bank uplift. Stabilization above 10% closes the transit-coordinate move accountingly.
+- <strong>CET1 held above 13.0%.</strong> The capital-return capacity ceiling. Below 13.0% would shake the buyback-and-cancel algorithm.
+- <strong>2H26 additional buyback-and-cancel disclosure.</strong> A second-half size comparable to the ₩700B 1H run cements the \~6% annualized total yield.
+- <strong>Foreign ownership 60% → 65–70% progression.</strong> Gradual approach to KB's 75.72%. The most direct signal of transit toward the foreign access coordinate.
+- <strong>52-week-high break (₩107,200) accompanied by volume.</strong> The accounting verification of the NVR signal.
 
 ### 7.2 Series-Level Meta Signals
 
-- **Speed at which Shinhan's implied cost of equity 15.26% narrows toward 14% → 13% → 12%.** The most direct measure of "transit speed."
-- **Co-movement between the NVR signal and the implied cost-of-equity gap.** When both move in the same direction, the "transit" model gains depth.
-- **Position changes of other followers.** Hana Financial (15.00%), Woori Financial (14.71%) — at what speeds do they each move on the same matrix?
+- <strong>Speed at which Shinhan's implied cost of equity 15.26% narrows toward 14% → 13% → 12%.</strong> The most direct measure of "transit speed."
+- <strong>Co-movement between the NVR signal and the implied cost-of-equity gap.</strong> When both move in the same direction, the "transit" model gains depth.
+- <strong>Position changes of other followers.</strong> Hana Financial (15.00%), Woori Financial (14.71%) — at what speeds do they each move on the same matrix?
 
 ### 7.3 Next Case Candidates
 
 If Shinhan is the "first case of transit," subsequent series posts will examine other followers:
 
-- **Hana Financial Holdings** — Implied cost of equity 15.00%, PBR 0.7×. Almost the same coordinate as Shinhan, but with lower foreign ownership (\~68% vs Shinhan 61%, KB 75%). The transit toward "foreign access" is one structural step further behind Shinhan.
-- **DB Insurance** — A candidate to transit toward the Meritz coordinate within insurance. The 30% → 35%+ payout transition is the key signal.
-- **Korea Investment Holdings** — A securities-cohort candidate to transit toward the Kiwoom coordinate. Whether ROE stabilizes in the 16% range while accepting the volatility is the key question.
+- <strong>Hana Financial Holdings</strong> — Implied cost of equity 15.00%, PBR 0.7×. Almost the same coordinate as Shinhan, but with lower foreign ownership (\~68% vs Shinhan 61%, KB 75%). The transit toward "foreign access" is one structural step further behind Shinhan.
+- <strong>DB Insurance</strong> — A candidate to transit toward the Meritz coordinate within insurance. The 30% → 35%+ payout transition is the key signal.
+- <strong>Korea Investment Holdings</strong> — A securities-cohort candidate to transit toward the Kiwoom coordinate. Whether ROE stabilizes in the 16% range while accepting the volatility is the key question.
 
 Which peak each candidate moves toward — and at what speed — defines the next chapter of the series.
 
@@ -373,7 +373,7 @@ Which peak each candidate moves toward — and at what speed — defines the nex
 
 ## 8. The Single Closing Line
 
-Parts 1–3 painted the landscape of "three peaks coexisting simultaneously." This Part 4 adds a chapter to that landscape — **once the peaks settle, the market starts watching 'transit between peaks'.** Shinhan Financial Group is the first case of that new chapter.
+Parts 1–3 painted the landscape of "three peaks coexisting simultaneously." This Part 4 adds a chapter to that landscape — <strong>once the peaks settle, the market starts watching 'transit between peaks'.</strong> Shinhan Financial Group is the first case of that new chapter.
 
 Shinhan's fundamental coordinates (ROE 11.9%, CET1 13.19%, Value-up 2.0) sit nearly identical to the "foreign access" coordinate KB reached first. But the implied cost of equity is 3.3 pp higher than KB's. That gap is the "room for transit," and NVR +18% is the accounting signal that volume recognized the transit first. Volume, fundamentals, and the valuation gap all point the same way.
 
@@ -385,28 +385,28 @@ The next post in the series returns when (1) Shinhan's 2Q26 ROE is verified, (2)
 
 ## FAQ — Shinhan Financial Group
 
-**Q: Is Shinhan Financial publicly traded?**
-A: Yes. Shinhan Financial Group is listed on KOSPI under ticker **055550**. ADRs are traded on the NYSE under ticker **SHG**.
+<strong>Q: Is Shinhan Financial publicly traded?</strong>
+A: Yes. Shinhan Financial Group is listed on KOSPI under ticker <strong>055550</strong>. ADRs are traded on the NYSE under ticker <strong>SHG</strong>.
 
-**Q: Who owns Shinhan Financial?**
+<strong>Q: Who owns Shinhan Financial?</strong>
 A: Shinhan Financial has no controlling family or industrial-capital block. Major shareholders include the National Pension Service, foreign institutional investors, and global asset managers. Foreign ownership is approximately 61% as of late April 2026 — second highest among the four major Korean bank holdcos, behind only KB Financial.
 
-**Q: What is Shinhan's foreign ownership ratio?**
+<strong>Q: What is Shinhan's foreign ownership ratio?</strong>
 A: \~61.37% as of April 30, 2026. The four-bank-holdco ranking is KB (75.72%) > Shinhan (\~61%) > Hana (\~68%) > Woori (\~48%).
 
-**Q: What is Value-up 2.0?**
+<strong>Q: What is Value-up 2.0?</strong>
 A: Shinhan's enhanced corporate-value-up plan, disclosed via KRX. It links ROE × growth × CET1 in an explicit formula rather than pinning the company to a fixed dividend payout ratio. ROE 10%+, payout 50%+, CET1 13%+ stable management.
 
-**Q: What's Shinhan's ADR ticker?**
+<strong>Q: What's Shinhan's ADR ticker?</strong>
 A: SHG on the NYSE.
 
-**Q: How does Shinhan compare to KB Financial?**
+<strong>Q: How does Shinhan compare to KB Financial?</strong>
 A: Fundamentally very close. ROE: Shinhan 11.9% vs KB 10.5% (Shinhan higher). CET1: Shinhan 13.19% vs KB 13.63% (KB slightly higher). Foreign ownership: Shinhan \~61% vs KB \~76% (KB higher). PBR: Shinhan 0.78× vs KB 0.88× (KB higher). The series describes Shinhan as "transiting toward the coordinate KB reached first."
 
-**Q: Is Shinhan's 1Q26 record quarterly profit sustainable?**
+<strong>Q: Is Shinhan's 1Q26 record quarterly profit sustainable?</strong>
 A: 1Q's ₩1.6226T was a record. The non-bank arm — Shinhan Investment Corp — drove a +167.4% YoY net-income lift, which lifted group ROE to 11.9%. Sustainability requires verification in 2Q and beyond, since securities earnings carry trading-volume sensitivity.
 
-**Q: What is NVR (Net Volume Ratio)?**
+<strong>Q: What is NVR (Net Volume Ratio)?</strong>
 A: A normalized accumulation indicator: (up-day volume − down-day volume) / (up-day volume + down-day volume). Range: −1 to +1. Unlike raw OBV, it allows cleaner cross-name comparison. NVR +18% means up-day volume exceeded down-day volume by \~44%.
 
 ---

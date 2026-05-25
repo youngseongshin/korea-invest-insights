@@ -21,7 +21,7 @@ tags:
 slug: roe-25-screening-only-four-pass-2026-05-07
 ---
 
-> 🔗 **À lire aussi** : [Écran Explosion des Bénéfices — 67 Valeurs](/post/2026-earnings-explosion-screening-undiscovered-alpha-2026-05-07/) · [Hub Marché Quotidien Coréen](/page/korea-daily-market-hub/)
+> 🔗 <strong>À lire aussi</strong> : [Écran Explosion des Bénéfices — 67 Valeurs](/post/2026-earnings-explosion-screening-undiscovered-alpha-2026-05-07/) · [Hub Marché Quotidien Coréen](/page/korea-daily-market-hub/)
 
 *Le [billet précédent](/post/2026-earnings-explosion-screening-undiscovered-alpha-2026-05-07/) montrait un écran « explosion des bénéfices » retournant 67 noms avec la leçon « la plupart ont déjà bougé ». Ce billet fait l'expérience inverse : pousser les filtres à la limite et observer ce qui passe réellement. Neuf conditions simultanées — ROE ≥25%, croissance du CA ≥+15%, croissance du RO ≥+20%, marge opérationnelle ≥10%, P/E ≤25×, potentiel cours cible ≥+15%, volume quotidien ≥₩3,0 Mds, achats nets étrangers+institutionnels, RSI <75 — et seulement quatre valeurs coréennes passent.*
 
@@ -29,12 +29,12 @@ slug: roe-25-screening-only-four-pass-2026-05-07
 
 ## Synthèse Exécutive
 
-- **Seulement quatre valeurs passent les neuf filtres simultanés** : VM, Pamicell, Silicon2, Samyang Foods. Sur l'ensemble de l'univers coté coréen. L'étroitesse du résultat est précisément le message.
-- **La formule cible l'intersection entre « bonne entreprise » et « ce que le marché achète actuellement ».** ROE ≥25% capte les utilisateurs de capital efficients ; P/E ≤25× capte les valeurs pas encore chèrement valorisées ; achats nets étrangers+institutionnels capte les valeurs bénéficiant d'un flux actif. Lorsque les trois dimensions passent simultanément, **qualité, valorisation et flux sont confirmés en une seule cohorte**.
-- **Pamicell survit aux deux écrans.** Elle a passé l'écran explosion des bénéfices des 67 valeurs *et* cet écran à 9 filtres des 4 valeurs. ROE 38%, marge opérationnelle 36,3%, croissance du RO +72,3%, flux étrangers+institutionnels sur 20J +₩53,7 Mds. **Deux prismes de sélection indépendants, même conclusion** — le signal individuel le plus fort de cette cohorte.
-- **Silicon2 présente la combinaison qualité/valorisation la plus propre.** ROE 38,7%, P/E 13,3×, potentiel cours cible +36,8%. Parmi les quatre, la combinaison prix-par-rapport-à-la-qualité est la plus nette. Mais son intensité de leadership actuelle est inférieure à celle de Pamicell.
-- **VM arrive #1 sur le quantitatif pur, mais avec un risque de volatilité en fin de cycle élevé.** Croissance du RO +242,9%, P/E 19,8×, potentiel cours cible +29,8%. En chiffres seuls, le plus fort. Mais +451% depuis le plus bas sur 52 semaines, c'est du territoire « déjà-bougé » — une position tactique/agressive plutôt qu'une position cœur de portefeuille.
-- **La liste des quasi-qualifiés est le résultat de recherche le plus intéressant.** HD Hyundai Marine Engine (P/E 25,7×, raté de 0,7×), Classys (seul le filtre flux a échoué), PharmaResearch (seul le filtre flux a échoué), Isu Petasys (P/E trop élevé), Samsung Electronics (RSI trop élevé). Qu'une condition bascule et ces valeurs entrent — utiles comme candidats à la « liste de surveillance ».
+- <strong>Seulement quatre valeurs passent les neuf filtres simultanés</strong> : VM, Pamicell, Silicon2, Samyang Foods. Sur l'ensemble de l'univers coté coréen. L'étroitesse du résultat est précisément le message.
+- <strong>La formule cible l'intersection entre « bonne entreprise » et « ce que le marché achète actuellement ».</strong> ROE ≥25% capte les utilisateurs de capital efficients ; P/E ≤25× capte les valeurs pas encore chèrement valorisées ; achats nets étrangers+institutionnels capte les valeurs bénéficiant d'un flux actif. Lorsque les trois dimensions passent simultanément, <strong>qualité, valorisation et flux sont confirmés en une seule cohorte</strong>.
+- <strong>Pamicell survit aux deux écrans.</strong> Elle a passé l'écran explosion des bénéfices des 67 valeurs *et* cet écran à 9 filtres des 4 valeurs. ROE 38%, marge opérationnelle 36,3%, croissance du RO +72,3%, flux étrangers+institutionnels sur 20J +₩53,7 Mds. <strong>Deux prismes de sélection indépendants, même conclusion</strong> — le signal individuel le plus fort de cette cohorte.
+- <strong>Silicon2 présente la combinaison qualité/valorisation la plus propre.</strong> ROE 38,7%, P/E 13,3×, potentiel cours cible +36,8%. Parmi les quatre, la combinaison prix-par-rapport-à-la-qualité est la plus nette. Mais son intensité de leadership actuelle est inférieure à celle de Pamicell.
+- <strong>VM arrive #1 sur le quantitatif pur, mais avec un risque de volatilité en fin de cycle élevé.</strong> Croissance du RO +242,9%, P/E 19,8×, potentiel cours cible +29,8%. En chiffres seuls, le plus fort. Mais +451% depuis le plus bas sur 52 semaines, c'est du territoire « déjà-bougé » — une position tactique/agressive plutôt qu'une position cœur de portefeuille.
+- <strong>La liste des quasi-qualifiés est le résultat de recherche le plus intéressant.</strong> HD Hyundai Marine Engine (P/E 25,7×, raté de 0,7×), Classys (seul le filtre flux a échoué), PharmaResearch (seul le filtre flux a échoué), Isu Petasys (P/E trop élevé), Samsung Electronics (RSI trop élevé). Qu'une condition bascule et ces valeurs entrent — utiles comme candidats à la « liste de surveillance ».
 
 ---
 
@@ -54,7 +54,7 @@ ROE ≥25% comporte trois implications :
 | Valeur de réinvestissement | Les bénéfices réinvestis composent la base de fonds propres |
 | Justification du multiple | Un P/E ou P/B plus élevé a une base analytique |
 
-La question critique est **la durabilité du ROE**. Un ROE de 25% sur un seul exercice ne signifie rien. Pour constituer un « bon ROE », il doit se maintenir sur 2 à 3 ans ou plus, être accompagné d'une croissance du chiffre d'affaires, et ne pas dépendre du levier financier.
+La question critique est <strong>la durabilité du ROE</strong>. Un ROE de 25% sur un seul exercice ne signifie rien. Pour constituer un « bon ROE », il doit se maintenir sur 2 à 3 ans ou plus, être accompagné d'une croissance du chiffre d'affaires, et ne pas dépendre du levier financier.
 
 ### 1.3 Bon ROE 25% vs Mauvais ROE 25%
 
@@ -112,7 +112,7 @@ Validation marché : flux étrangers+institutionnels + RSI + volume
 
 Une « bonne entreprise » (qualité) qui n'est « pas encore valorisée trop cher » (valorisation) et qui est « actuellement achetée » (validation marché) — c'est l'intersection.
 
-Le fait que neuf filtres simultanés soient *difficiles à passer* constitue en soi la valeur. Là où l'écran explosion des bénéfices en retournait 67, cet écran en retourne 4. **Des filtres stricts produisent des résultats significatifs.**
+Le fait que neuf filtres simultanés soient *difficiles à passer* constitue en soi la valeur. Là où l'écran explosion des bénéfices en retournait 67, cet écran en retourne 4. <strong>Des filtres stricts produisent des résultats significatifs.</strong>
 
 ---
 
@@ -121,7 +121,7 @@ Le fait que neuf filtres simultanés soient *difficiles à passer* constitue en 
 | Rang | Valeur | ROE | P/E | Croissance RO | Marge op. | Potentiel cible | Rendement 20J | Flux étrangers+inst. 20J | Profil |
 | ---: | --- | ---: | ---: | ---: | ---: | ---: | ---: | ---: | --- |
 | 1 | VM (KOSDAQ : 081000) | 34,2% | 19,8× | +242,9% | 29,4% | +29,8% | +42,2% | +₩25,1 Mds | Momentum agressif |
-| 2 | **Pamicell (KOSPI : 005690)** | **38,0%** | **21,1×** | **+72,3%** | **36,3%** | **+21,9%** | **+36,7%** | **+₩53,7 Mds** | **Candidat principal** |
+| 2 | <strong>Pamicell (KOSPI : 005690)</strong> | <strong>38,0%</strong> | <strong>21,1×</strong> | <strong>+72,3%</strong> | <strong>36,3%</strong> | <strong>+21,9%</strong> | <strong>+36,7%</strong> | <strong>+₩53,7 Mds</strong> | <strong>Candidat principal</strong> |
 | 3 | Silicon2 (KOSDAQ : 257720) | 38,7% | 13,3× | +30,3% | 18,0% | +36,8% | +15,1% | +₩31,7 Mds | Candidat qualité |
 | 4 | Samyang Foods (KOSPI : 003230) | 35,3% | 18,8× | +31,7% | 23,4% | +38,2% | +7,1% | +₩16,3 Mds | Compounder régulier |
 
@@ -143,7 +143,7 @@ P/E 21,1× → pas encore valorisée trop cher
 Flux étrangers+inst. 20J +₩53,7 Mds → flux le plus fort de la cohorte
 ```
 
-Pamicell a déjà été analysée dans la [Partie 3 de la Série](/post/pamicell-four-layer-progress-and-fifth-cycle-layer-2026-05-03/) avec un Score GARP de 150 (sommet de l'univers valeurs-matériaux). Le fait qu'elle passe également cet écran multi-facteurs ROE-25% indépendant signifie que **l'attrait se maintient à travers des logiques de filtres très différentes** — qualité + valorisation + flux comme prisme distinct du composite GARP original.
+Pamicell a déjà été analysée dans la [Partie 3 de la Série](/post/pamicell-four-layer-progress-and-fifth-cycle-layer-2026-05-03/) avec un Score GARP de 150 (sommet de l'univers valeurs-matériaux). Le fait qu'elle passe également cet écran multi-facteurs ROE-25% indépendant signifie que <strong>l'attrait se maintient à travers des logiques de filtres très différentes</strong> — qualité + valorisation + flux comme prisme distinct du composite GARP original.
 
 Cela dit, un rendement sur 20 jours de +36,7% soulève un risque de surchauffe à court terme. La bonne posture est « attendre un repli ou rentrer progressivement après confirmation des résultats T1 » plutôt que « conviction totale maintenant ».
 
@@ -185,7 +185,7 @@ Potentiel cours cible +29,8% → adéquat
 Flux étrangers+inst. 20J +₩25,1 Mds → solide
 ```
 
-Le problème est la position dans le cycle de prix. **Du plus bas sur 52 semaines au cours actuel : +451%.** Une progression de 4,5× en un an. Ce n'est plus une « découverte sous-évaluée » — c'est du territoire « déjà-bougé ».
+Le problème est la position dans le cycle de prix. <strong>Du plus bas sur 52 semaines au cours actuel : +451%.</strong> Une progression de 4,5× en un an. Ce n'est plus une « découverte sous-évaluée » — c'est du territoire « déjà-bougé ».
 
 La croissance du RO de +242,9% peut porter un caractère « effet de base redressement ». Si le RO 2025 était déprimé, même une progression absolue modeste produit un taux de croissance élevé. La question analytique est de savoir si la croissance est « structurelle » ou un « effet de base ».
 
@@ -228,7 +228,7 @@ Signaux de suivi :
 | Isu Petasys | P/E 41,4×, potentiel +10,5% | ⑤⑥ P/E + potentiel | Leader, mais valorisé |
 | Samsung Electronics | RSI >75 | ⑨ RSI | Conservation OK ; nouvelle entrée bloquée par le filtre |
 
-La liste des quasi-qualifiés est plus intéressante qu'elle n'y paraît, car **une seule condition assouplie suffit à faire entrer chaque valeur dans la cohorte active**.
+La liste des quasi-qualifiés est plus intéressante qu'elle n'y paraît, car <strong>une seule condition assouplie suffit à faire entrer chaque valeur dans la cohorte active</strong>.
 
 HD Hyundai Marine Engine est à 0,7× près. Dans un régime de marché agressif où le filtre P/E passe de 25× à 30×, elle entre. Classys et PharmaResearch entrent dès que les flux redeviennent positifs. Samsung Electronics entre quand le RSI refroidit sous 75.
 
@@ -238,7 +238,7 @@ Suivre ces « candidats en attente » fait partie de la valeur de l'écran.
 
 ## 6. L'Intersection des Deux Écrans — Là Où 67 Rencontre 4
 
-Le billet précédent retournait 67 noms de l'écran explosion des bénéfices. Ce billet retourne 4 noms de l'écran ROE-25%-9-filtres. **Croiser les deux — et Pamicell apparaît dans les deux.**
+Le billet précédent retournait 67 noms de l'écran explosion des bénéfices. Ce billet retourne 4 noms de l'écran ROE-25%-9-filtres. <strong>Croiser les deux — et Pamicell apparaît dans les deux.</strong>
 
 ```
 [Écran explosion des bénéfices — 67 valeurs]
@@ -258,7 +258,7 @@ Résultat de l'écran croisé :
 
 C'est pourquoi l'analyse croisée des écrans est plus significative que n'importe quel écran individuel. Un seul filtre crée un biais de confirmation ; deux filtres indépendants apportent la robustesse.
 
-Que Silicon2, VM et Samyang Foods aient également passé l'écran explosion des bénéfices est une vérification croisée distincte. Le fait que **Pamicell apparaisse dans les deux est, en soi, le signal analytique le plus fort de cette cohorte**.
+Que Silicon2, VM et Samyang Foods aient également passé l'écran explosion des bénéfices est une vérification croisée distincte. Le fait que <strong>Pamicell apparaisse dans les deux est, en soi, le signal analytique le plus fort de cette cohorte</strong>.
 
 ---
 
@@ -279,10 +279,10 @@ VM et Pamicell progressent de 35–42% sur 20 séances. L'écran a signalé les 
 
 Ces neuf conditions ne sont pas une formule absolue. Plusieurs pièges :
 
-- **Le ROE peut être temporaire** : un ROE 2025 solide qui chute en 2026 ne signifie rien
-- **Les estimations consensus peuvent se réviser** : la croissance du RO 2026P est une estimation sell-side, et les estimations peuvent être fausses
-- **Les flux peuvent s'inverser** : les achats nets étrangers+institutionnels d'aujourd'hui peuvent devenir les ventes nettes de demain
-- **RSI <75 est un instantané** : le lendemain, le chiffre peut être ≥75
+- <strong>Le ROE peut être temporaire</strong> : un ROE 2025 solide qui chute en 2026 ne signifie rien
+- <strong>Les estimations consensus peuvent se réviser</strong> : la croissance du RO 2026P est une estimation sell-side, et les estimations peuvent être fausses
+- <strong>Les flux peuvent s'inverser</strong> : les achats nets étrangers+institutionnels d'aujourd'hui peuvent devenir les ventes nettes de demain
+- <strong>RSI <75 est un instantané</strong> : le lendemain, le chiffre peut être ≥75
 
 L'écran signifie « regarder cette valeur de plus près », pas « acheter cette valeur ». Le fait que quatre valeurs aient passé signifie « mérite un examen approfondi », pas « achat garanti ».
 
@@ -311,9 +311,9 @@ L'écran signifie « regarder cette valeur de plus près », pas « acheter cett
 - Vérification d'un plafonnement de la marge op.
 
 ### 8.5 Liste de Surveillance
-- **HD Hyundai Marine Engine** : quand le P/E passe sous 25×
-- **Classys / PharmaResearch** : quand les flux étrangers+institutionnels redeviennent acheteurs nets
-- **Samsung Electronics** : quand le RSI refroidit sous 75
+- <strong>HD Hyundai Marine Engine</strong> : quand le P/E passe sous 25×
+- <strong>Classys / PharmaResearch</strong> : quand les flux étrangers+institutionnels redeviennent acheteurs nets
+- <strong>Samsung Electronics</strong> : quand le RSI refroidit sous 75
 
 ---
 
@@ -321,11 +321,11 @@ L'écran signifie « regarder cette valeur de plus près », pas « acheter cett
 
 ROE ≥25%, croissance du CA ≥+15%, croissance du RO ≥+20%, marge opérationnelle ≥10%, P/E ≤25×, potentiel cours cible ≥+15%, volume quotidien ≥₩3,0 Mds, achats nets étrangers+institutionnels, RSI <75. Empiler neuf filtres simultanés et seulement quatre valeurs coréennes passent : VM, Pamicell, Silicon2, Samyang Foods.
 
-Si l'écran explosion des bénéfices à 67 valeurs du billet précédent enseignait « la plupart ont déjà bougé », cet écran à 4 valeurs enseigne **« des filtres stricts font émerger ce qui compose vraiment »**. Soixante-sept, c'est trop — le marché en a découvert la plupart. Quatre, c'est suffisamment peu pour avoir du sens.
+Si l'écran explosion des bénéfices à 67 valeurs du billet précédent enseignait « la plupart ont déjà bougé », cet écran à 4 valeurs enseigne <strong>« des filtres stricts font émerger ce qui compose vraiment »</strong>. Soixante-sept, c'est trop — le marché en a découvert la plupart. Quatre, c'est suffisamment peu pour avoir du sens.
 
 Les quatre partagent un déploiement de capital efficient, une croissance des bénéfices et un flux actif. Leurs différences sont de caractère : Pamicell est le candidat principal (passe les deux écrans, ROE 38%, marge op. 36,3%, flux +₩53,7 Mds) ; Silicon2 est le candidat qualité (ROE 38,7% avec P/E 13,3× — meilleure combinaison qualité/valorisation) ; VM est la position agressive (croissance RO +243%, dominant en quantitatif pur, mais +451% depuis le bas) ; Samyang Foods est le compounder régulier (chiffres propres, mais pas le leader momentum actuel).
 
-**Le fait que Pamicell survive aux deux écrans est le signal analytique le plus fort de cette cohorte.** Deux logiques de filtrage indépendantes — croissance explosion des bénéfices et qualité ROE+valorisation+flux — produisent la même réponse.
+<strong>Le fait que Pamicell survive aux deux écrans est le signal analytique le plus fort de cette cohorte.</strong> Deux logiques de filtrage indépendantes — croissance explosion des bénéfices et qualité ROE+valorisation+flux — produisent la même réponse.
 
 Cela dit, les quatre ont récemment fortement progressé. Le résultat de l'écran n'est pas un signal « conviction totale maintenant ». Attendre un repli ou entrer après les résultats est plus propre. La liste de surveillance des quasi-qualifiés (HD Hyundai Marine Engine, Classys, PharmaResearch, Samsung Electronics) mérite également d'être suivie — relâcher un filtre et chacun d'eux entre.
 
@@ -335,28 +335,28 @@ L'écran est le point de départ, pas la destination. Que les quatre valeurs aff
 
 ## FAQ — Écran Qualité-Compounder Coréen Mai 2026
 
-**Q : Combien d'actions coréennes passent un écran strict à 9 filtres avec ROE ≥25% ?**
+<strong>Q : Combien d'actions coréennes passent un écran strict à 9 filtres avec ROE ≥25% ?</strong>
 R : Au 7 mai 2026 : seulement 4 valeurs — VM (KOSDAQ 081000), Pamicell (KOSPI 005690), Silicon2 (KOSDAQ 257720), Samyang Foods (KOSPI 003230). Les critères combinent ROE ≥25%, croissance du CA ≥+15%, croissance du RO ≥+20%, marge opérationnelle ≥10%, P/E ≤25×, potentiel cours cible ≥+15%, volume quotidien ≥₩3,0 Mds, achats nets étrangers+institutionnels, RSI <75.
 
-**Q : Pourquoi un ROE de 25% est-il un seuil de sélection significatif ?**
+<strong>Q : Pourquoi un ROE de 25% est-il un seuil de sélection significatif ?</strong>
 R : Un ROE de 25% signifie que la société génère ₩25 de bénéfice net par ₩100 de fonds propres par an — un fort indicateur d'efficience dans le déploiement du capital. Combiné à des filtres de croissance (CA / RO / marge), de valorisation (P/E / cours cible) et de flux (étrangers+institutionnels / RSI), il isole simultanément « bonne entreprise + prix raisonnable + soutien actif du marché ».
 
-**Q : Pourquoi Pamicell se distingue-t-elle dans cette cohorte ?**
-R : Pamicell a passé **les deux** écrans : l'écran explosion des bénéfices précédent (67 valeurs) et cet écran ROE-25% (4 valeurs). Deux logiques de filtrage indépendantes ont produit la même réponse — c'est le signal analytique le plus fort des deux écrans. ROE 38%, marge op. 36,3%, croissance RO +72,3%, flux étrangers+institutionnels sur 20J +₩53,7 Mds.
+<strong>Q : Pourquoi Pamicell se distingue-t-elle dans cette cohorte ?</strong>
+R : Pamicell a passé <strong>les deux</strong> écrans : l'écran explosion des bénéfices précédent (67 valeurs) et cet écran ROE-25% (4 valeurs). Deux logiques de filtrage indépendantes ont produit la même réponse — c'est le signal analytique le plus fort des deux écrans. ROE 38%, marge op. 36,3%, croissance RO +72,3%, flux étrangers+institutionnels sur 20J +₩53,7 Mds.
 
-**Q : Silicon2 (257720) est-elle cotée en bourse ?**
+<strong>Q : Silicon2 (257720) est-elle cotée en bourse ?</strong>
 R : Oui — Silicon2 est cotée sur le KOSDAQ sous le ticker 257720. C'est une plateforme mondiale de distribution K-beauty avec un fort mix de revenus étrangers et un ROE de 38,7%. Son P/E de 13,3× combiné à un ROE proche de 39% constitue une arithmétique qualité/valorisation inhabituellement propre selon les standards du marché coréen.
 
-**Q : Qu'est-ce que VM (081000) ?**
+<strong>Q : Qu'est-ce que VM (081000) ?</strong>
 R : VM est une société coréenne d'équipements / produits industriels cotée sur le KOSDAQ, qui a passé l'écran avec le meilleur score quantitatif pur (croissance RO +242,9%). Elle a cependant progressé de +451% depuis son plus bas sur 52 semaines, la situant fermement en territoire « déjà-bougé » — davantage une position agressive qu'une position cœur de portefeuille.
 
-**Q : Pourquoi Samyang Foods (003230) est-elle listée mais qualifiée de compounder régulier ?**
+<strong>Q : Pourquoi Samyang Foods (003230) est-elle listée mais qualifiée de compounder régulier ?</strong>
 R : Samyang Foods (KOSPI 003230) passe les neuf filtres avec des fondamentaux solides (ROE 35,3%, marge op. 23,4%, P/E 18,8×). Toutefois, son rendement sur 20 jours de +7,1% est le plus bas de la cohorte, signifiant qu'elle n'est pas actuellement le leader momentum du marché — ce qui en fait un poste de stabilité de portefeuille plutôt qu'un poste de momentum à court terme.
 
-**Q : Faut-il simplement acheter les quatre valeurs qui passent l'écran ?**
+<strong>Q : Faut-il simplement acheter les quatre valeurs qui passent l'écran ?</strong>
 R : Non. L'écran signifie « mérite un examen approfondi », pas « achat garanti ». Quatre mises en garde importantes : le ROE peut être temporaire, les estimations consensus peuvent se réviser, les flux peuvent s'inverser, et RSI <75 est un instantané. Deux des quatre (VM et Pamicell) progressent de 35–42% sur 20 séances — attendre un repli ou entrer après les résultats est plus propre que de courir après les cours.
 
-**Q : Pourquoi la liste des quasi-qualifiés (« HD Hyundai Marine Engine, Classys, PharmaResearch ») est-elle intéressante ?**
+<strong>Q : Pourquoi la liste des quasi-qualifiés (« HD Hyundai Marine Engine, Classys, PharmaResearch ») est-elle intéressante ?</strong>
 R : Chacune a raté d'exactement une condition. HD Hyundai Marine Engine : P/E 25,7× (raté de 0,7×). Classys / PharmaResearch : ventes nettes étrangers+institutionnels (seul le filtre flux a échoué). Qu'une condition bascule et elles entrent dans la cohorte active. Cela en fait des candidats productifs à la liste de surveillance.
 
 ---

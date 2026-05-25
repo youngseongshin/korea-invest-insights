@@ -11,16 +11,16 @@ valley_body_mode: teaser
 
 ## TL;DR
 
-* Tỷ lệ sở hữu ngoại theo vốn hóa của KOSPI vẫn cao: **36.02% → 38.56%** từ đầu năm theo chuỗi tham chiếu.
-* Nhưng hai cổ phiếu bị bán mạnh nhất đã giảm về đáy năm: Samsung Electronics **52.37% → 48.32%**, SK Hynix **53.81% → 51.62%**.
+* Tỷ lệ sở hữu ngoại theo vốn hóa của KOSPI vẫn cao: <strong>36.02% → 38.56%</strong> từ đầu năm theo chuỗi tham chiếu.
+* Nhưng hai cổ phiếu bị bán mạnh nhất đã giảm về đáy năm: Samsung Electronics <strong>52.37% → 48.32%</strong>, SK Hynix <strong>53.81% → 51.62%</strong>.
 * Khác biệt đến từ cách tính. KOSPI phản ánh giá trị thị trường; tỷ lệ sở hữu từng cổ phiếu phản ánh số cổ phần. Khi Samsung và SK Hynix tăng mạnh, tỷ trọng giá trị còn lại của khối ngoại vẫn có thể tăng dù họ bán ròng.
-* Tín hiệu thực tế hiện nay là tốc độ bán ròng 5 ngày có giảm về khoảng **1 nghìn tỷ won/ngày** hay không.
+* Tín hiệu thực tế hiện nay là tốc độ bán ròng 5 ngày có giảm về khoảng <strong>1 nghìn tỷ won/ngày</strong> hay không.
 
 ## Diễn giải
 
 Yonhap Infomax cho biết tỷ lệ sở hữu ngoại 48.32% của Samsung là thấp nhất từ tháng 9/2013, còn 51.62% của SK Hynix là thấp nhất từ tháng 5/2023. ([Yonhap Infomax](https://news.einfomax.co.kr/news/articleViewAmp.html?idxno=4416519))
 
-Từ 7/5 đến 22/5, khối ngoại bán ròng **46.3383 nghìn tỷ won** trên KOSPI; Samsung và SK Hynix chiếm **82.9%**. ([Daum / Energy Economy](https://v.daum.net/v/20260525140625125?f=p))
+Từ 7/5 đến 22/5, khối ngoại bán ròng <strong>46.3383 nghìn tỷ won</strong> trên KOSPI; Samsung và SK Hynix chiếm <strong>82.9%</strong>. ([Daum / Energy Economy](https://v.daum.net/v/20260525140625125?f=p))
 
 ## Khung theo dõi
 

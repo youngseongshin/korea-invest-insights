@@ -15,11 +15,11 @@ tags:
   - "Korean equities"
 ---
 
-> 📚 **Korea robotics series.**
+> 📚 <strong>Korea robotics series.</strong>
 > Part 1: [Korea Robotics Value Chain Complete Map](/post/korea-robotics-value-chain-complete-map-2026-05-11/)
 > Part 2: [SPG vs. Halla Cast — Robot Component Compare](/post/spg-vs-halla-cast-robot-component-comparison-2026-05-12/)
 >
-> 🔗 **Related**: [Humanoid / Robotics Investment Hub](/page/korea-humanoid-robotics-hub/) · [Hyundai Mobis Deep Dive](/post/kr-deep-dive-hyundai-mobis-2026-04-28/) · [Samsung Electro-Mechanics AI Infrastructure Re-rating](/post/samsung-electro-mechanics-ai-infrastructure-rerating-2026-04-21/)
+> 🔗 <strong>Related</strong>: [Humanoid / Robotics Investment Hub](/page/korea-humanoid-robotics-hub/) · [Hyundai Mobis Deep Dive](/post/kr-deep-dive-hyundai-mobis-2026-04-28/) · [Samsung Electro-Mechanics AI Infrastructure Re-rating](/post/samsung-electro-mechanics-ai-infrastructure-rerating-2026-04-21/)
 
 *Part 1 mapped components broadly; Part 2 compared reducers (SPG) and structural parts (Halla Cast). This piece moves to the "top" of the value chain — humanoid finished-product makers. Robotis and Rainbow Robotics are both flagship Korean robotics names, but what they make, how they earn, and how much expectation is in the price differ. Robotis makes the "fingers" of a robot; Rainbow makes the "whole body." Robotis is profitable; Rainbow is loss-making. Yet Rainbow's market cap is 3× larger. Why — and which is more verifiable?*
 
@@ -27,10 +27,10 @@ tags:
 
 ## TL;DR
 
-* **Robotis = the robot's "fingers and joints."** Dynamixel actuators are the core product. 2025 revenue ₩38.9bn, **OP turn-positive ₩3.4bn**, market cap \~₩5.1tn. 2026E PSR 79×, 2027E PSR 50× — **multiple compression path is visible.**
-* **Rainbow Robotics = humanoid platform with Samsung Electronics as anchor shareholder.** Collaborative robots (RB series), dual-arm mobile robot (RB-Y1). 2025 revenue ₩34.1bn, **OP -₩2.5bn (loss)**, market cap \~₩16.2tn. 2025 PSR 476× — **2027 revenue must hit \~₩330bn and net income \~₩63bn to align with Robotis's multiple.**
-* **Why Rainbow is 3× larger despite smaller revenue and losses.** Samsung Electronics now owns 35% as anchor shareholder. The market is pricing in "Samsung's robotics strategy = Rainbow's future revenue."
-* **Comparative read.** Robotis is more verifiable — earnings are already arriving, growth path through 2027 is in numbers, and multiple compression is feasible. Rainbow has the larger optionality but needs 10× revenue growth in 2 years to justify current cap, and those numbers are not visible yet. **Neither is cheap.**
+* <strong>Robotis = the robot's "fingers and joints."</strong> Dynamixel actuators are the core product. 2025 revenue ₩38.9bn, <strong>OP turn-positive ₩3.4bn</strong>, market cap \~₩5.1tn. 2026E PSR 79×, 2027E PSR 50× — <strong>multiple compression path is visible.</strong>
+* <strong>Rainbow Robotics = humanoid platform with Samsung Electronics as anchor shareholder.</strong> Collaborative robots (RB series), dual-arm mobile robot (RB-Y1). 2025 revenue ₩34.1bn, <strong>OP -₩2.5bn (loss)</strong>, market cap \~₩16.2tn. 2025 PSR 476× — <strong>2027 revenue must hit \~₩330bn and net income \~₩63bn to align with Robotis's multiple.</strong>
+* <strong>Why Rainbow is 3× larger despite smaller revenue and losses.</strong> Samsung Electronics now owns 35% as anchor shareholder. The market is pricing in "Samsung's robotics strategy = Rainbow's future revenue."
+* <strong>Comparative read.</strong> Robotis is more verifiable — earnings are already arriving, growth path through 2027 is in numbers, and multiple compression is feasible. Rainbow has the larger optionality but needs 10× revenue growth in 2 years to justify current cap, and those numbers are not visible yet. <strong>Neither is cheap.</strong>
 
 ---
 
@@ -38,7 +38,7 @@ tags:
 
 ### 1.1 Robotis — the "fingers and joints" of a robot
 
-Robotis's core product is the **Dynamixel actuator** — the "motor + reducer + sensor + electronics in one module" that drives a robot's joints, as covered in [Part 1](/post/korea-robotics-value-chain-complete-map-2026-05-11/).
+Robotis's core product is the <strong>Dynamixel actuator</strong> — the "motor + reducer + sensor + electronics in one module" that drives a robot's joints, as covered in [Part 1](/post/korea-robotics-value-chain-complete-map-2026-05-11/).
 
 Why Robotis matters:
 
@@ -58,11 +58,11 @@ Why Robotis matters:
    - QDD targets 200K-unit production from 4Q26 at the new Uzbekistan plant
 ```
 
-**Why the "robot hand" matters**: Part 1 listed "fingers" as Problem #2 of "why humanoids are hard." To replace humans on a factory floor, **grip-rotate-insert-press-assemble hands** matter more than walking. Robotis sits directly on this bottleneck.
+<strong>Why the "robot hand" matters</strong>: Part 1 listed "fingers" as Problem #2 of "why humanoids are hard." To replace humans on a factory floor, <strong>grip-rotate-insert-press-assemble hands</strong> matter more than walking. Robotis sits directly on this bottleneck.
 
 ### 1.2 Rainbow Robotics — the "whole body" of a robot
 
-Rainbow Robotics is a **robot platform company that designs and manufactures whole robots**. Spun out of the KAIST HUBO research group, it is Korea's most recognizable humanoid robot brand.
+Rainbow Robotics is a <strong>robot platform company that designs and manufactures whole robots</strong>. Spun out of the KAIST HUBO research group, it is Korea's most recognizable humanoid robot brand.
 
 Core products:
 
@@ -110,22 +110,22 @@ May 12 basis.
 | Item | Robotis | Rainbow Robotics |
 |---|---:|---:|
 | Price | ₩345,000 | ₩837,000 |
-| Market cap | **\~₩5.1tn** | **\~₩16.2tn** |
-| 2025 revenue | **₩38.9bn** | ₩34.1bn |
-| 2025 OP | **+₩3.4bn (profit)** | -₩2.5bn (loss) |
-| 2025 OPM | **\~8.7%** | \~-7.3% |
-| 2025 PSR | \~130× | **\~476×** |
-| **2026E revenue** | **₩64.0bn** | Unverified (est. ₩130-210bn needed) |
-| **2026E OP** | **₩9.0bn** | ₩32.0bn (consensus) |
-| **2026E PSR** | **79×** | 78-130× (depending on revenue assumption) |
-| **2026E PER** | **496×** | \~518× |
-| **2027E revenue** | **₩101.0bn** | Unverified (est. ₩330bn needed) |
-| **2027E PSR** | **50×** | Unverified |
-| **2027E PER** | **264×** | Unverified |
+| Market cap | <strong>\~₩5.1tn</strong> | <strong>\~₩16.2tn</strong> |
+| 2025 revenue | <strong>₩38.9bn</strong> | ₩34.1bn |
+| 2025 OP | <strong>+₩3.4bn (profit)</strong> | -₩2.5bn (loss) |
+| 2025 OPM | <strong>\~8.7%</strong> | \~-7.3% |
+| 2025 PSR | \~130× | <strong>\~476×</strong> |
+| <strong>2026E revenue</strong> | <strong>₩64.0bn</strong> | Unverified (est. ₩130-210bn needed) |
+| <strong>2026E OP</strong> | <strong>₩9.0bn</strong> | ₩32.0bn (consensus) |
+| <strong>2026E PSR</strong> | <strong>79×</strong> | 78-130× (depending on revenue assumption) |
+| <strong>2026E PER</strong> | <strong>496×</strong> | \~518× |
+| <strong>2027E revenue</strong> | <strong>₩101.0bn</strong> | Unverified (est. ₩330bn needed) |
+| <strong>2027E PSR</strong> | <strong>50×</strong> | Unverified |
+| <strong>2027E PER</strong> | <strong>264×</strong> | Unverified |
 | Value-chain position | Components (actuators) | Finished product (platform) |
-| Core premium | Pure-play actuators | **Samsung Electronics anchor shareholder** |
+| Core premium | Pure-play actuators | <strong>Samsung Electronics anchor shareholder</strong> |
 | Major customers | LG Electronics (2nd-largest shareholder), global robot makers | Samsung Electronics (largest shareholder) |
-| 2025 revenue growth | +30% | **+76%** |
+| 2025 revenue growth | +30% | <strong>+76%</strong> |
 
 Cross-checks:
 
@@ -134,14 +134,14 @@ Cross-checks:
 
 ### 2.1 What the table shows
 
-**Rainbow's cap is 3.2× larger, but revenue is smaller and the business is loss-making.** Robotis revenue ₩38.9bn > Rainbow revenue ₩34.1bn. Robotis profitable, Rainbow loss. Yet market cap: Robotis ₩5.1tn < Rainbow ₩16.2tn.
+<strong>Rainbow's cap is 3.2× larger, but revenue is smaller and the business is loss-making.</strong> Robotis revenue ₩38.9bn > Rainbow revenue ₩34.1bn. Robotis profitable, Rainbow loss. Yet market cap: Robotis ₩5.1tn < Rainbow ₩16.2tn.
 
-The wedge that produces this is one word: **Samsung**. Samsung Electronics holds 35% as anchor shareholder, and the strategy of deploying Rainbow robots into Samsung's semiconductor, display, appliance, and logistics operations is already in the price.
+The wedge that produces this is one word: <strong>Samsung</strong>. Samsung Electronics holds 35% as anchor shareholder, and the strategy of deploying Rainbow robots into Samsung's semiconductor, display, appliance, and logistics operations is already in the price.
 
 Simplified:
 
-* Robotis price = **current earnings + future actuator-growth expectation**
-* Rainbow price = **expectation that Samsung succeeds in robotics**
+* Robotis price = <strong>current earnings + future actuator-growth expectation</strong>
+* Rainbow price = <strong>expectation that Samsung succeeds in robotics</strong>
 
 ---
 
@@ -151,7 +151,7 @@ Simplified:
 
 Part 1 noted that "of 28 Korean robot-related listed companies, only 3-4 are profitable." Robotis is one of them. 2025 revenue ₩38.9bn, OP ₩3.4bn, OPM \~8.7%.
 
-A profitable robot company means **"the business model can actually earn money."** Most Korean robot names are still burning cash in R&D, while Robotis is selling Dynamixel actuators and generating real cash flow.
+A profitable robot company means <strong>"the business model can actually earn money."</strong> Most Korean robot names are still burning cash in R&D, while Robotis is selling Dynamixel actuators and generating real cash flow.
 
 ### 3.2 Growth trajectory ahead
 
@@ -159,12 +159,12 @@ Consensus from Hana Securities's report (Consensus Data section):
 
 | Period | 2025 (actual) | 2026E | 2027E |
 |---|---:|---:|---:|
-| Revenue | ₩38.9bn | **₩64.0bn (+65%)** | **₩101.0bn (+58%)** |
-| OP | ₩3.3bn | **₩9.0bn** | **₩20.0bn** |
-| OPM | 8.5% | **14.1%** | **19.8%** |
-| EPS | \~₩380 | **₩696** | **₩1,306** |
+| Revenue | ₩38.9bn | <strong>₩64.0bn (+65%)</strong> | <strong>₩101.0bn (+58%)</strong> |
+| OP | ₩3.3bn | <strong>₩9.0bn</strong> | <strong>₩20.0bn</strong> |
+| OPM | 8.5% | <strong>14.1%</strong> | <strong>19.8%</strong> |
+| EPS | \~₩380 | <strong>₩696</strong> | <strong>₩1,306</strong> |
 
-Inter-broker dispersion is wide. Samsung Securities at 2026 revenue ₩51bn (conservative); Daol Investment & Securities at ₩80bn (aggressive). Consensus mid ₩64bn sits between. The decisive variable is **how fast QDD (Dynamixel Q) — the large-form-factor actuator — scales into mass production**.
+Inter-broker dispersion is wide. Samsung Securities at 2026 revenue ₩51bn (conservative); Daol Investment & Securities at ₩80bn (aggressive). Consensus mid ₩64bn sits between. The decisive variable is <strong>how fast QDD (Dynamixel Q) — the large-form-factor actuator — scales into mass production</strong>.
 
 ```
 Why QDD matters:
@@ -185,7 +185,7 @@ QDD = EV components (large market but mass-production is the gate)
 
 ### 3.3 Demand exists; supply is the bottleneck
 
-Per Hana Securities, 2026 actuator orders are estimated at **1M+ units**. Actual 2025 production was **220K units**. Demand is there; supply capacity isn't.
+Per Hana Securities, 2026 actuator orders are estimated at <strong>1M+ units</strong>. Actual 2025 production was <strong>220K units</strong>. Demand is there; supply capacity isn't.
 
 2026 production targets:
 
@@ -193,9 +193,9 @@ Per Hana Securities, 2026 actuator orders are estimated at **1M+ units**. Actual
 * New QDD: 200K units (4Q26, Uzbekistan plant)
 * Total: \~500K units
 
-500K units producible against 1M+ orders = **demand sufficient, supply constrained**. Not a bad analytical structure — if it can be built, it can be sold.
+500K units producible against 1M+ orders = <strong>demand sufficient, supply constrained</strong>. Not a bad analytical structure — if it can be built, it can be sold.
 
-Caution: whether "1M orders" is **confirmed POs (purchase orders)** or **inquiries / expressions of interest** is not disclosed. That distinction matters.
+Caution: whether "1M orders" is <strong>confirmed POs (purchase orders)</strong> or <strong>inquiries / expressions of interest</strong> is not disclosed. That distinction matters.
 
 ### 3.4 Robotis — strengths and weaknesses
 
@@ -215,7 +215,7 @@ Caution: whether "1M orders" is **confirmed POs (purchase orders)** or **inquiri
 
 Samsung Electronics exercised its call option in December 2024 to secure a 35% stake in Rainbow Robotics — making it the largest shareholder. Samsung also established a Future Robotics Office internally.
 
-The reason Samsung is in robotics was covered in Part 1 — "Physical AI." Samsung intends to **automate manufacturing (semiconductor, display) first, then expand to home and retail**.
+The reason Samsung is in robotics was covered in Part 1 — "Physical AI." Samsung intends to <strong>automate manufacturing (semiconductor, display) first, then expand to home and retail</strong>.
 
 Rainbow can be the core executor of that strategy:
 
@@ -238,9 +238,9 @@ Current ₩16tn market cap embeds a substantial portion of that scenario.
 
 ### 4.2 Samsung-related revenue — still at initial stage
 
-Through 3Q25, Samsung Electronics's purchases from Rainbow Robotics totaled \~**₩6.9bn**. Annualized that's \~**₩10bn** of Samsung-related revenue.
+Through 3Q25, Samsung Electronics's purchases from Rainbow Robotics totaled \~<strong>₩6.9bn</strong>. Annualized that's \~<strong>₩10bn</strong> of Samsung-related revenue.
 
-For a ₩16.2tn market-cap company, \~₩10bn from its largest-shareholder customer = still **test / pilot stage**. The phase where Samsung issues large-volume orders for hundreds-to-thousands of robots into actual factories has not arrived.
+For a ₩16.2tn market-cap company, \~₩10bn from its largest-shareholder customer = still <strong>test / pilot stage</strong>. The phase where Samsung issues large-volume orders for hundreds-to-thousands of robots into actual factories has not arrived.
 
 ```
 Rainbow's actual position:
@@ -275,17 +275,17 @@ All three are currently "possibility," not "confirmed."
 
 | Item | Robotis | Rainbow | Edge |
 |---|---|---|---|
-| **Earnings** | Profitable, OPM 8.7% | Loss | **Robotis** |
-| Revenue growth | +30% | **+76%** | Rainbow |
-| **2025 PSR** | 130× | 476× | **Robotis** |
-| **2026E PSR** | **79×** | 78-130× (est.) | **Robotis (firm number)** |
-| **2027E PSR** | **50×** | Unverified (needs ₩330bn revenue) | **Robotis** |
-| **2026E PER** | **496×** | \~518× | similar; Robotis has better visibility |
-| **2027E PER** | **264×** | Unverified (needs \~₩63bn NI) | **Robotis** |
-| Core customer | LG Electronics (2nd shareholder) | **Samsung Electronics (largest shareholder)** | Rainbow |
-| **Verifiability** | High (orders, production, margin trackable) | Low (Samsung-internal-strategy-dependent) | **Robotis** |
+| <strong>Earnings</strong> | Profitable, OPM 8.7% | Loss | <strong>Robotis</strong> |
+| Revenue growth | +30% | <strong>+76%</strong> | Rainbow |
+| <strong>2025 PSR</strong> | 130× | 476× | <strong>Robotis</strong> |
+| <strong>2026E PSR</strong> | <strong>79×</strong> | 78-130× (est.) | <strong>Robotis (firm number)</strong> |
+| <strong>2027E PSR</strong> | <strong>50×</strong> | Unverified (needs ₩330bn revenue) | <strong>Robotis</strong> |
+| <strong>2026E PER</strong> | <strong>496×</strong> | \~518× | similar; Robotis has better visibility |
+| <strong>2027E PER</strong> | <strong>264×</strong> | Unverified (needs \~₩63bn NI) | <strong>Robotis</strong> |
+| Core customer | LG Electronics (2nd shareholder) | <strong>Samsung Electronics (largest shareholder)</strong> | Rainbow |
+| <strong>Verifiability</strong> | High (orders, production, margin trackable) | Low (Samsung-internal-strategy-dependent) | <strong>Robotis</strong> |
 | Industry leverage | Components → into many robots | Finished product → dependent on Rainbow's own success | Robotis |
-| Option size | Mid (actuator market) | **Very large (Samsung whole-of-robotics strategy)** | Rainbow |
+| Option size | Mid (actuator market) | <strong>Very large (Samsung whole-of-robotics strategy)</strong> | Rainbow |
 | Technology moat | 20 years actuators, robot hand, component integration | Locomotion algos, in-house components, Samsung captive | Similar |
 
 ### 5.2 Two completely different analytical setups
@@ -303,19 +303,19 @@ testing "Samsung succeeds in robotics"
 → Big if it works; long wait if delayed
 ```
 
-**Auto analogy**: Robotis is the Bosch-style supplier of engines and transmissions to multiple OEMs — grows with the industry. Rainbow is an EV startup that Samsung has invested in — huge if it works, but failure means losing the capital.
+<strong>Auto analogy</strong>: Robotis is the Bosch-style supplier of engines and transmissions to multiple OEMs — grows with the industry. Rainbow is an EV startup that Samsung has invested in — huge if it works, but failure means losing the capital.
 
 ### 5.3 Relative read — Robotis has higher verifiability
 
 Three reasons:
 
-**One: earnings already arriving.** Robotis turned positive; per sell-side estimates, 2026 OPM could reach \~15%. Rainbow remains loss-making.
+<strong>One: earnings already arriving.</strong> Robotis turned positive; per sell-side estimates, 2026 OPM could reach \~15%. Rainbow remains loss-making.
 
-**Two: verification is possible.** Robotis publishes "of 1M orders, how many were built, what ASP, what margin" quarter by quarter. Rainbow's "how many robots did Samsung actually order" is hard to determine from outside.
+<strong>Two: verification is possible.</strong> Robotis publishes "of 1M orders, how many were built, what ASP, what margin" quarter by quarter. Rainbow's "how many robots did Samsung actually order" is hard to determine from outside.
 
-**Three: price burden lower with a visible compression path.** Robotis 2026E PSR 79× → 2027E 50× shows a **multiple-compression path**. Rainbow's 2026E PSR requires a revenue assumption to even calculate; 2027E has no public consensus. Visibility differs.
+<strong>Three: price burden lower with a visible compression path.</strong> Robotis 2026E PSR 79× → 2027E 50× shows a <strong>multiple-compression path</strong>. Rainbow's 2026E PSR requires a revenue assumption to even calculate; 2027E has no public consensus. Visibility differs.
 
-**Note: "Robotis is more verifiable" ≠ "Robotis is cheap."** Both are expensive. Robotis at 2027E PSR 50×, PER 264× still requires revenue to reach ₩101bn and OPM to reach 20% to make sense.
+<strong>Note: "Robotis is more verifiable" ≠ "Robotis is cheap."</strong> Both are expensive. Robotis at 2027E PSR 50×, PER 264× still requires revenue to reach ₩101bn and OPM to reach 20% to make sense.
 
 ---
 
@@ -327,35 +327,35 @@ Sell-side consensus (Hana Securities's report, Consensus Data section):
 
 | Period | 2025 (actual) | 2026E | 2027E |
 |---|---:|---:|---:|
-| Revenue | ₩38.9bn | **₩64.0bn** | **₩101.0bn** |
-| Revenue growth | +30% | **+65%** | **+58%** |
-| OP | ₩3.3bn | **₩9.0bn** | **₩20.0bn** |
-| OPM | 8.5% | **14.1%** | **19.8%** |
-| EPS | \~₩380 | **₩696** | **₩1,306** |
+| Revenue | ₩38.9bn | <strong>₩64.0bn</strong> | <strong>₩101.0bn</strong> |
+| Revenue growth | +30% | <strong>+65%</strong> | <strong>+58%</strong> |
+| OP | ₩3.3bn | <strong>₩9.0bn</strong> | <strong>₩20.0bn</strong> |
+| OPM | 8.5% | <strong>14.1%</strong> | <strong>19.8%</strong> |
+| EPS | \~₩380 | <strong>₩696</strong> | <strong>₩1,306</strong> |
 
 At ₩345,000 current price:
 
 | Basis | PSR | PER |
 |---|---:|---:|
 | 2025 (actual) | 130× | \~910× |
-| **2026E** | **79×** | **496×** |
-| **2027E** | **50×** | **264×** |
+| <strong>2026E</strong> | <strong>79×</strong> | <strong>496×</strong> |
+| <strong>2027E</strong> | <strong>50×</strong> | <strong>264×</strong> |
 
 Cross-checks: 2026E PER = 345,000 / 696 = 495.7× ✓; 2027E PER = 345,000 / 1,306 = 264.2× ✓
 
-**Read**: 2026 PER 496× is extreme, but moving to 2027 PER 264× and PSR 50× shows **a multiple-compression path**. Revenue 640 → 1,010 won bn and OPM 14% → 20% supports a "high-growth components" framing.
+<strong>Read</strong>: 2026 PER 496× is extreme, but moving to 2027 PER 264× and PSR 50× shows <strong>a multiple-compression path</strong>. Revenue 640 → 1,010 won bn and OPM 14% → 20% supports a "high-growth components" framing.
 
 Key check variables: 2026 revenue must reach ₩60bn+, OPM must hold above 14%.
 
-Average sell-side target price \~₩317,000; high (Daol Investment & Securities) ₩435,000. **The current ₩345,000 already exceeds the average target.**
+Average sell-side target price \~₩317,000; high (Daol Investment & Securities) ₩435,000. <strong>The current ₩345,000 already exceeds the average target.</strong>
 
 ### 6.2 Rainbow Robotics — consensus is thin; reverse-engineer instead
 
-Rainbow's problem is **lack of reliable consensus**. What is confirmable is 2026E OP ₩32.0bn (FnGuide); 2026 revenue and 2027 figures lack public consensus.
+Rainbow's problem is <strong>lack of reliable consensus</strong>. What is confirmable is 2026E OP ₩32.0bn (FnGuide); 2026 revenue and 2027 figures lack public consensus.
 
-So we must **reverse-engineer** what's needed to justify current cap.
+So we must <strong>reverse-engineer</strong> what's needed to justify current cap.
 
-**2026 reverse-engineering — what revenue is needed to produce OP ₩32.0bn:**
+<strong>2026 reverse-engineering — what revenue is needed to produce OP ₩32.0bn:</strong>
 
 | Assumed OPM | Required 2026 revenue | Growth vs. 2025 | Implied PSR at current cap |
 |---:|---:|---:|---:|
@@ -363,28 +363,28 @@ So we must **reverse-engineer** what's needed to justify current cap.
 | 20% | ₩160.0bn | +369% | 104× |
 | 25% | ₩128.0bn | +275% | 130× |
 
-**4-6× revenue growth in one year from ₩34.1bn (2025).** Essentially impossible without large-scale Samsung-related revenue.
+<strong>4-6× revenue growth in one year from ₩34.1bn (2025).</strong> Essentially impossible without large-scale Samsung-related revenue.
 
-2026E PER from current cap is \~**518×** (₩16.6tn / estimated NI). Looks similar to Robotis's 2026E PER (496×), but Robotis's underlying revenue / OP estimates are firm; Rainbow's revenue visibility is low.
+2026E PER from current cap is \~<strong>518×</strong> (₩16.6tn / estimated NI). Looks similar to Robotis's 2026E PER (496×), but Robotis's underlying revenue / OP estimates are firm; Rainbow's revenue visibility is low.
 
 ### 6.3 The 2027 alignment math
 
-Robotis's 2027 multiples are PSR 50×, PER 264×. **What Rainbow must produce in 2027 to align:**
+Robotis's 2027 multiples are PSR 50×, PER 264×. <strong>What Rainbow must produce in 2027 to align:</strong>
 
 | Standard | Rainbow's required number |
 |---|---:|
-| Robotis 2027E PSR (50×) | Revenue \~**₩330bn** |
-| Robotis 2027E PER (264×) | NI \~**₩63bn** |
+| Robotis 2027E PSR (50×) | Revenue \~<strong>₩330bn</strong> |
+| Robotis 2027E PER (264×) | NI \~<strong>₩63bn</strong> |
 
 Cross-checks: ₩16.6tn / 50 = ₩332bn revenue ✓; ₩16.6tn / 264 = ₩62.9bn NI ✓
 
-**Rainbow needs revenue ₩330bn and NI ₩63bn in 2027 to align with Robotis's multiple.** That's \~10× revenue growth from ₩34.1bn in 2 years — annualized \~+211%.
+<strong>Rainbow needs revenue ₩330bn and NI ₩63bn in 2027 to align with Robotis's multiple.</strong> That's \~10× revenue growth from ₩34.1bn in 2 years — annualized \~+211%.
 
 Not impossible — Samsung would need to order thousands of robots. But that number is not yet visible anywhere.
 
 ### 6.4 Scenario price grid
 
-**Robotis:**
+<strong>Robotis:</strong>
 
 | Scenario | 2027 revenue | Applied PSR | Implied price | Vs. current |
 |---|---:|---:|---:|---:|
@@ -392,15 +392,15 @@ Not impossible — Samsung would need to order thousands of robots. But that num
 | Base (consensus delivered) | ₩101bn | 45× | \~₩310,000 | -10% |
 | Bull (QDD breakout success) | ₩130bn | 50× | \~₩440,000 | +28% |
 
-**Rainbow Robotics:**
+<strong>Rainbow Robotics:</strong>
 
 | Scenario | Base business value | Samsung-option value | Total | Implied price | Vs. current |
 |---|---:|---:|---:|---:|---:|
-| Bear | ₩2.0tn | ₩3.0tn | ₩5.0tn | \~₩255,000 | **-70%** |
-| Base | ₩4.8tn | ₩6.0tn | ₩10.8tn | \~₩550,000 | **-34%** |
+| Bear | ₩2.0tn | ₩3.0tn | ₩5.0tn | \~₩255,000 | <strong>-70%</strong> |
+| Base | ₩4.8tn | ₩6.0tn | ₩10.8tn | \~₩550,000 | <strong>-34%</strong> |
 | Bull | ₩10.0tn | ₩8.0tn | ₩18.0tn | \~₩920,000 | +10% |
 
-Average sell-side target: Robotis \~₩317,000, Rainbow \~₩580,000. **Both currently trade above the average target price.**
+Average sell-side target: Robotis \~₩317,000, Rainbow \~₩580,000. <strong>Both currently trade above the average target price.</strong>
 
 ### 6.5 Asymmetric structure — the core of the analysis
 
@@ -418,7 +418,7 @@ Rainbow:
 → Downside 3-7× the upside — unfavorable asymmetry
 ```
 
-**Rainbow sits in a structure where the best-case Samsung-option realization still leaves only +10% upside, while reversion to base implies -34%.** Numerically, this is unfavorable for new entry.
+<strong>Rainbow sits in a structure where the best-case Samsung-option realization still leaves only +10% upside, while reversion to base implies -34%.</strong> Numerically, this is unfavorable for new entry.
 
 ### 6.6 The one line that matters
 
@@ -458,11 +458,11 @@ Rainbow: to justify current cap, needs 10× revenue and \~₩63bn NI in 2 years.
 
 Robotis and Rainbow Robotics are both symbols of Korean robotics. But analytically, they're entirely different structures.
 
-Robotis is **a "components supplier where earnings have started to arrive."** Turn-positive on OP, actuator orders growing, QDD mass-production poised to step up revenue. Expensive but verifiable on numbers.
+Robotis is <strong>a "components supplier where earnings have started to arrive."</strong> Turn-positive on OP, actuator orders growing, QDD mass-production poised to step up revenue. Expensive but verifiable on numbers.
 
-Rainbow Robotics is **a "company priced for a giant Samsung option."** Samsung's robotics success would make Rainbow successful. But the current price has already embedded most of that success. Even the bull case offers only +10%; reversion to base implies -34%.
+Rainbow Robotics is <strong>a "company priced for a giant Samsung option."</strong> Samsung's robotics success would make Rainbow successful. But the current price has already embedded most of that success. Even the bull case offers only +10%; reversion to base implies -34%.
 
-Of the two, **Robotis has higher verifiability**. But Robotis at ₩345,000 still trades above its base-case implied price (₩310,000). The most disciplined analytical approach is to track **1Q earnings for revenue growth + OPM, then QDD ramp progress**.
+Of the two, <strong>Robotis has higher verifiability</strong>. But Robotis at ₩345,000 still trades above its base-case implied price (₩310,000). The most disciplined analytical approach is to track <strong>1Q earnings for revenue growth + OPM, then QDD ramp progress</strong>.
 
 Korea robotics is still an "industry of expectations." The cleanest analytical window opens where expectation converts to earnings. And that window is more likely to open at Robotis first than at Rainbow.
 
@@ -470,28 +470,28 @@ Korea robotics is still an "industry of expectations." The cleanest analytical w
 
 ## FAQ
 
-**Q: Which is the better company, Robotis or Rainbow?**
+<strong>Q: Which is the better company, Robotis or Rainbow?</strong>
 A: Quality-of-business is a different question. Both are symbols of Korean robotics with credible technical capabilities. The "more verifiable" one is Robotis — turn-positive financials, quarterly-trackable orders / production / margin, visible multiple-compression path through 2027. Rainbow has the bigger option but lower verifiability.
 
-**Q: Why is Rainbow 3× Robotis in market cap?**
+<strong>Q: Why is Rainbow 3× Robotis in market cap?</strong>
 A: Samsung Electronics is the largest shareholder (35%). The market is pricing "Samsung's robotics strategy = Rainbow's future revenue." Robotis currently has larger revenue (₩38.9bn vs ₩34.1bn) and profitability, but Rainbow's cap (₩16.2tn) exceeds Robotis's (₩5.1tn).
 
-**Q: PSR 79× and PER 496× — is that ever justifiable?**
+<strong>Q: PSR 79× and PER 496× — is that ever justifiable?</strong>
 A: Extreme by Korean-market norms. In high-growth themes (robotics, AI), fast revenue growth can naturally compress multiples. Robotis's path to 2027 PSR 50× / PER 264× is visible if revenue ₩101bn and OPM 20% materialize.
 
-**Q: If Rainbow doesn't reach ₩330bn revenue in 2027?**
+<strong>Q: If Rainbow doesn't reach ₩330bn revenue in 2027?</strong>
 A: The market repositions the multiple. Bear case (revenue <₩100bn) implies cap \~₩5tn — current-price downside \~-70%. Partial Samsung-option realization could pull it back to base case (cap ₩10.8tn, -34%).
 
-**Q: Is Robotis's "1M-unit order" real?**
+<strong>Q: Is Robotis's "1M-unit order" real?</strong>
 A: It's a Hana Securities-cited estimate. Whether it represents confirmed POs or inquiry-level interest isn't disclosed. Verification = whether quarterly shipment and revenue line items actually increase. 2025 actual production was 220K units.
 
-**Q: Why is QDD so important?**
+<strong>Q: Why is QDD so important?</strong>
 A: Existing Dynamixel (X/P/Y) addresses small education / research markets. QDD addresses the large humanoid joints (waist, knee, shoulder) — directly exposed to the broader humanoid market, with materially higher ASP. Targets 200K units in 4Q26 at the Uzbekistan plant.
 
-**Q: Could Samsung outright acquire Rainbow?**
+<strong>Q: Could Samsung outright acquire Rainbow?</strong>
 A: Possible but not officially confirmed. Samsung adding to its 35% stake or fully consolidating Rainbow would be a major catalyst. But the premium implied by a tender-offer scenario is hard for the market to anticipate.
 
-**Q: If one must pick a robot name, what's the analytical guidance?**
+<strong>Q: If one must pick a robot name, what's the analytical guidance?</strong>
 A: Definitive recommendations aren't appropriate. The [value-chain Part 1](/post/korea-robotics-value-chain-complete-map-2026-05-11/) covered component suppliers (SPG, Robotis, HL Mando, Samsung Electro-Mechanics, LG Innotek, Hyundai Mobis) where a robust base business cushions robotics-option risk. Pure-play robotics names carry higher price burden. Analytically, "base business + robot option" structures are easier to verify than "robot-option-only" structures.
 
 ---

@@ -12,7 +12,7 @@ The easiest mistake in discussing Arctic shipping is to make one of two extreme 
 
 The Northern Sea Route is not a finished global highway. It is seasonal, ice-sensitive and dependent on Russian permissions, icebreaker support, insurance and geopolitics. Yet it is also a real industrial option for Korea. Korea is an export economy, it has Busan Port, it has world-class shipyards, and it is starting to align HMM, the Ministry of Oceans and Fisheries, ship finance and regional policy around a single maritime-cluster agenda.
 
-The investment question, therefore, is not simply whether HMM will send a ship through the Arctic. The better question is this: **can Korea turn Arctic shipping into a cluster of polar-capable vessels, Busan port logistics, marine finance, insurance, legal services, green fuel and maritime data infrastructure?**
+The investment question, therefore, is not simply whether HMM will send a ship through the Arctic. The better question is this: <strong>can Korea turn Arctic shipping into a cluster of polar-capable vessels, Busan port logistics, marine finance, insurance, legal services, green fuel and maritime data infrastructure?</strong>
 
 ---
 
@@ -172,7 +172,7 @@ The right question is therefore not "who sends the ship?" but "who reduces the r
 
 The weaknesses are just as clear. Korea does not control the route. The Northeast Passage is tied to Russia and sanctions. Container-liner economics remain unproven. That is why the conclusion should stay conservative.
 
-**Before a successful trial, this is a policy theme. Before repeated voyages, it is a capex theme. Before regular cargo contracts, it is not yet a direct earnings theme.** But if the policy theme becomes a capex theme, the first industries to move are likely to be shipbuilding, polar vessels and the infrastructure around them.
+<strong>Before a successful trial, this is a policy theme. Before repeated voyages, it is a capex theme. Before regular cargo contracts, it is not yet a direct earnings theme.</strong> But if the policy theme becomes a capex theme, the first industries to move are likely to be shipbuilding, polar vessels and the infrastructure around them.
 
 ---
 
