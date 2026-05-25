@@ -125,6 +125,107 @@ body {
   color: var(--accent-color-darker, #6da3f7);
 }
 
+/* ── Left sidebar hub navigation ──
+   The main menu is long now. Give the durable research hubs a quiet
+   magazine-index treatment without changing the underlying menu structure. */
+.left-sidebar #main-menu {
+  gap: 0.34rem;
+}
+
+.left-sidebar #main-menu > li > a {
+  min-height: 2.55rem;
+  padding: 0.18rem 0.16rem;
+  border-radius: 6px;
+  line-height: 1.25;
+  transition: background-color 0.15s ease, color 0.15s ease, box-shadow 0.15s ease;
+}
+
+.left-sidebar #main-menu > li[data-menu-section] {
+  margin-top: 0.75rem;
+}
+
+.left-sidebar #main-menu > li[data-menu-section]::before {
+  content: attr(data-menu-section);
+  display: block;
+  margin: 0 0 0.46rem 0.22rem;
+  color: var(--card-text-color-tertiary);
+  font-size: 1.04rem;
+  font-weight: 750;
+  letter-spacing: 0.075em;
+  line-height: 1.2;
+  text-transform: uppercase;
+}
+
+html[lang^="ko"] .left-sidebar #main-menu > li[data-menu-section]::before,
+html[lang^="ja"] .left-sidebar #main-menu > li[data-menu-section]::before,
+html[lang^="zh"] .left-sidebar #main-menu > li[data-menu-section]::before {
+  letter-spacing: 0;
+  text-transform: none;
+}
+
+.left-sidebar #main-menu > li.kii-menu-hub > a {
+  width: 100%;
+  padding: 0.58rem 0.72rem;
+  background: var(--kii-sage-wash, rgba(47, 125, 107, 0.055));
+  color: var(--card-text-color-main);
+  font-weight: 650;
+  box-shadow: inset 0 0 0 1px transparent, inset 2px 0 0 var(--kii-sage-line, rgba(47, 125, 107, 0.16));
+}
+
+.left-sidebar #main-menu > li.kii-menu-hub > a:hover,
+.left-sidebar #main-menu > li.kii-menu-hub > a:focus-visible {
+  background: var(--kii-blue-wash, rgba(37, 99, 235, 0.065));
+  color: var(--accent-color);
+  box-shadow: inset 0 0 0 1px var(--kii-blue-line, rgba(37, 99, 235, 0.18)), inset 2px 0 0 var(--accent-color);
+}
+
+.left-sidebar #main-menu > li.kii-menu-hub.current > a {
+  background: var(--kii-blue-wash, rgba(37, 99, 235, 0.065));
+  color: var(--accent-color);
+  font-weight: 800;
+  box-shadow: inset 0 0 0 1px var(--kii-blue-line, rgba(37, 99, 235, 0.18)), inset 3px 0 0 var(--accent-color);
+}
+
+.left-sidebar #main-menu > li.kii-menu-utility[data-menu-break] {
+  margin-top: 0.72rem;
+  padding-top: 0.62rem;
+}
+
+.left-sidebar #main-menu > li.kii-menu-utility[data-menu-break]::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0.18rem;
+  right: 0.18rem;
+  height: 1px;
+  background: var(--card-separator-color, rgba(34, 39, 46, 0.08));
+}
+
+.left-sidebar #main-menu > li.kii-menu-utility > a,
+.left-sidebar #main-menu > li.kii-menu-info > a {
+  color: var(--card-text-color-secondary);
+}
+
+.left-sidebar #main-menu > li.kii-menu-info > a {
+  font-size: 0.95em;
+}
+
+.left-sidebar #main-menu > li.kii-menu-utility.current > a,
+.left-sidebar #main-menu > li.kii-menu-info.current > a,
+.left-sidebar #main-menu > li.kii-menu-utility > a:hover,
+.left-sidebar #main-menu > li.kii-menu-info > a:hover,
+.left-sidebar #main-menu > li.kii-menu-utility > a:focus-visible,
+.left-sidebar #main-menu > li.kii-menu-info > a:focus-visible {
+  color: var(--accent-color);
+  background: var(--kii-blue-wash, rgba(37, 99, 235, 0.065));
+}
+
+@media (max-width: 768px) {
+  .left-sidebar #main-menu > li.kii-menu-hub > a {
+    padding: 0.7rem 0.82rem;
+  }
+}
+
 /* ── Editorial research note typography ── */
 .article-title,
 .article-content h1,
@@ -874,11 +975,17 @@ body {
   font-size: 1.65rem;
   font-weight: 700;
   margin: 0;
+  color: var(--card-text-color-main, #22272e);
+}
+
+[data-scheme="dark"] .home-hubs-title {
+  color: var(--card-text-color-main, #eef2ed);
 }
 
 .home-hubs-sub {
   font-size: 0.875rem;
-  opacity: 0.7;
+  color: var(--card-text-color-tertiary, #7a837d);
+  opacity: 1;
 }
 
 .home-hubs-grid {
