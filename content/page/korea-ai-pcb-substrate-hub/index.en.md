@@ -5,7 +5,7 @@ date: 2026-05-05T23:20:00+09:00
 aliases: ["/ai-pcb/", "/pcb/", "/fc-bga/", "/ccl/", "/ai-substrate/", "/en/ai-pcb/", "/en/page/korea-ai-pcb-substrate-hub/", "/es/page/korea-ai-pcb-substrate-hub/", "/vi/page/korea-ai-pcb-substrate-hub/", "/fr/page/korea-ai-pcb-substrate-hub/", "/ja/page/korea-ai-pcb-substrate-hub/", "/zh/page/korea-ai-pcb-substrate-hub/"]
 layout: "page"
 description: "A research hub for Korean AI PCB and substrate exposure: FC-BGA, MLB, CCL, low-dielectric materials, Samsung Electro-Mechanics, Daeduck Electronics, Doosan Electronic BG, Kolon Industries and Pamicell."
-lastmod: 2026-05-26T09:00:00+09:00
+lastmod: 2026-05-26T11:30:00+09:00
 ---
 
 ## One-Line Thesis
@@ -26,6 +26,7 @@ AI substrates are not simply "the next theme after GPUs." They are a **common bo
 | What does Mirae Asset's KRW 1.3M Samsung Electro-Mechanics target mean? | The KRW 1.3M target applies a 37x 2017-style MLCC shortage multiple to 2028F EPS. With the stock already above a normal upcycle multiple, the key evidence is MLCC pricing and FC-BGA margin realization. | [Samsung Electro-Mechanics KRW 1.3M Target Analysis](/post/samsung-electro-mechanics-mirae-tp-1300000-valuation-frame-shift-2026-05-07/) |
 | What does SEMCO's KRW 1.5T silicon-capacitor win change? | A reclassification event — from "MLCC / substrate maker" to "AI-package power-integrity component company." KRW 1.557T / 2 yrs (~6.9% of FY25 revenue), recognized 2027–28. SEMCO is the only player globally able to bundle FC-BGA + MLCC + Si-Cap. But the May 20 +7.5% / May 21 pre-market KRW 1,109,000 means the price already reflects much of it. | [Si-Cap KRW 1.5T — Reclassification Event](/post/samsung-electro-mechanics-silicon-capacitor-1p5tn-2026-05-21/) |
 | What does SEMCO's KRW 100T market cap mean for the AI substrate thesis? | It is a signal that SEMCO is being treated as an AI package power-integrity plus FC-BGA platform, not just a substrate stock. Hyundai Motor is mathematically reachable, but a durable KRW 150T valuation needs a 2028 OP path around KRW 4T and group margin near 20%. | [SEMCO at KRW 100T](/post/samsung-electro-mechanics-100tn-murata-hyundai-market-cap-2026-05-26/) |
+| How does the passive-component bottleneck connect to AI substrates? | FC-BGA is the physical floor for the chip package, while MLCCs, silicon capacitors and inductors stabilize the power riding on that floor. Larger GPU/HBM packages make substrates and power integrity one system bottleneck. | [AI server passive-component bottleneck](/post/ai-server-passive-components-bottleneck-samsung-electro-mechanics-2026-05-26/) |
 | Why is Pamicell connected to AI CCL? | Pamicell does not make PCBs. The thesis is upstream material exposure through low-dielectric materials tied to Doosan Electronic BG's high-end CCL cycle. | [Pamicell Part 1](/post/pamicell-doosan-electro-bg-proxy-rediscovery-2026-04-30/) |
 | Is Pamicell a one-quarter event or a cycle? | KRX reclassification, Doosan Electronic BG margins and CCL undersupply commentary extend the frame from one quarter to a 12-24 month industry cycle. | [Pamicell Part 2](/post/pamicell-four-layer-progress-and-fifth-cycle-layer-2026-05-03/) |
 | Has Pamicell already been reclassified by the market as an AI substrate materials stock? | Fundamentally it is close to an electronic materials stock, but the flow data says not yet. From May 4 to May 18, Pamicell fell -17.9% with only KRW 1.6bn of foreign + institutional net buying, while Daeduck rose +22.7% with KRW 64.8bn. That recognition gap is the key. | [Pamicell flow analysis](/post/pamicell-supply-demand-analysis-recognition-gap-2026-05-18/) |
@@ -49,6 +50,7 @@ AI substrates are not simply "the next theme after GPUs." They are a **common bo
 | 5 | What valuation frame sits behind Mirae Asset's KRW 1.3M Samsung Electro-Mechanics target? | [Samsung Electro-Mechanics KRW 1.3M Target Analysis](/post/samsung-electro-mechanics-mirae-tp-1300000-valuation-frame-shift-2026-05-07/) |
 | 5+ | SEMCO Si-Cap KRW 1.5T contract — what changes, and is the price already reflecting it? | [Si-Cap KRW 1.5T Supply Contract (May 21)](/post/samsung-electro-mechanics-silicon-capacitor-1p5tn-2026-05-21/) |
 | 5++ | Is SEMCO's KRW 100T market cap a Murata-style rerating or a price that needs earnings to catch up? | [SEMCO at KRW 100T](/post/samsung-electro-mechanics-100tn-murata-hyundai-market-cap-2026-05-26/) |
+| 5+++ | Why do components smaller than the GPU become AI server bottlenecks? | [AI server passive-component bottleneck](/post/ai-server-passive-components-bottleneck-samsung-electro-mechanics-2026-05-26/) |
 | 6 | Why is Pamicell a Doosan Electronic BG CCL material proxy? | [Pamicell Analysis: AI CCL Materials Re-Rating](/post/pamicell-doosan-electro-bg-proxy-rediscovery-2026-04-30/) |
 | 7 | Has the Pamicell thesis moved into a 12-24 month cycle? | [Pamicell Part 2: AI CCL Materials and Industry Cycle](/post/pamicell-four-layer-progress-and-fifth-cycle-layer-2026-05-03/) |
 | 8 | Why are Pamicell's fundamentals and flow-based market recognition still misaligned? | [Pamicell Flow Analysis: Between Doosan and ST Pharm; Daeduck Is Still Far Away](/post/pamicell-supply-demand-analysis-recognition-gap-2026-05-18/) |
@@ -68,7 +70,7 @@ AI substrates are not simply "the next theme after GPUs." They are a **common bo
 | Memory package substrate + lead frame | Haesung DS | DDR4/DDR5 R2R substrate + global lead-frame #2; automotive + memory dual axis |
 | CCL body | Doosan Electronic BG | High-end copper-clad laminate for AI servers and high-speed networking |
 | Low-dielectric materials | Kolon Industries, Pamicell | mPPO, low-loss resin, hardener and upstream material exposure |
-| Power-stability components | Samsung Electro-Mechanics and MLCC peers | Rising MLCC content in AI servers and networking equipment |
+| Power-stability components | Samsung Electro-Mechanics and MLCC peers | Rising MLCC content in AI servers and networking equipment; silicon capacitors are not an MLCC replacement but a closer-to-GPU/HBM complement for package power integrity. See the [passive-component bottleneck explainer](/post/ai-server-passive-components-bottleneck-samsung-electro-mechanics-2026-05-26/) |
 | AI package thermal | Haesung DS (option) | Heat slug / heat spreader second-source optionality in the Shinko / Honeywell / Jentech / I-Chiun ~85%-concentrated market |
 | AI optical / CPO | OE Solutions (core), Optocore / Daehan Optical / BWE / WooriRo / Lycom / Coset (thematic) | 800G/1.6T transceivers, CPO ELSFP external laser source, optical fiber — same system-BOM bottleneck logic as substrate, but earnings still trailing the price |
 

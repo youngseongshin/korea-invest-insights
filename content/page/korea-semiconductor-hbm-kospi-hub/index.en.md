@@ -5,7 +5,7 @@ date: 2026-04-30T23:05:00+09:00
 aliases: ["/hbm/", "/semiconductor/", "/samsung-hynix/", "/kospi-hbm/", "/en/hbm/", "/en/semiconductor/", "/en/samsung-hynix/", "/en/kospi-hbm/", "/en/page/korea-semiconductor-hbm-kospi-hub/", "/es/page/korea-semiconductor-hbm-kospi-hub/", "/vi/page/korea-semiconductor-hbm-kospi-hub/", "/fr/page/korea-semiconductor-hbm-kospi-hub/", "/ja/page/korea-semiconductor-hbm-kospi-hub/", "/zh/page/korea-semiconductor-hbm-kospi-hub/"]
 layout: "page"
 description: "AI HBM hub for Samsung Electronics, SK Hynix, HBM, AI memory and KOSPI concentration. Covers HBM market share, Samsung's KOSPI weight, Korean semiconductor exposure and the 2026 KOSPI re-rating thesis."
-lastmod: 2026-05-26T10:30:00+09:00
+lastmod: 2026-05-26T11:30:00+09:00
 ---
 
 ## One-Line Thesis
@@ -24,6 +24,7 @@ Korean semiconductor exposure is not one trade. It combines **SK Hynix's HBM lea
 | Why is HBM a bottleneck from a chip-design perspective? | AI performance is less about headline FLOPS and more about how close data sits to compute. HBM is the common memory bottleneck for GPUs and custom ASICs, and it pulls FC-BGA, PCBs and power-integrity parts into the same thesis. | [AI chip design and the data-movement bottleneck](/post/ai-chip-design-data-movement-fcbga-bottleneck-2026-05-24/) |
 | What do Marvell and Broadcom earnings mean for HBM? | If custom AI chips and AI Ethernet networking stay strong, HBM demand broadens beyond Nvidia GPUs into Broadcom XPUs, Google TPUs, OpenAI accelerators and Marvell custom silicon. | [Marvell and Broadcom earnings preview for Korea's AI bottlenecks](/post/marvell-broadcom-earnings-korea-ai-bottleneck-preview-2026-05-23/) |
 | How does SEMCO's KRW 100T market cap connect to the HBM thesis? | As HBM packages grow, power integrity and FC-BGA become parallel bottlenecks. SEMCO at KRW 100T is a signal that the market is starting to price the layer below HBM, not just HBM itself. | [SEMCO at KRW 100T](/post/samsung-electro-mechanics-100tn-murata-hyundai-market-cap-2026-05-26/) |
+| How do AI server passive components connect to HBM? | Larger GPU/HBM packages create bigger transient power swings. MLCCs, silicon capacitors and inductors become the power-integrity layer that lets HBM and GPU packages run reliably. | [AI server passive-component bottleneck](/post/ai-server-passive-components-bottleneck-samsung-electro-mechanics-2026-05-26/) |
 | What does Korea's global No. 6 market-cap headline mean for HBM? | It is not a buy button. It is a signal to verify Samsung + SK hynix AI-memory earnings durability and KOSPI concentration risk. | [Why Korea Part 5: Global No. 6 Market Cap](/post/why-korea-market-cap-global-six-ai-memory-rerating-2026-05-24/) |
 | Does foreign selling in Samsung and SK Hynix kill the HBM thesis? | Not by itself. Most 2026 foreign selling was concentrated in the two memory mega-caps, but domestic liquidity absorbed the supply. The discipline is to wait for foreign re-buying or ownership recovery before chasing. | [Korea Foreign Investor Flow Analysis](/post/korea-foreign-investor-flow-memory-megacap-rotation-2026-05-24/) |
 | Why is KOSPI foreign ownership high while Samsung and SK Hynix ownership is low? | KOSPI ownership is market-value weighted, so it can stay high after a price rally. Samsung and SK Hynix share-count ownership is already near 2026 lows, making the five-day foreign-selling speed the key timing signal. | [KOSPI ownership versus Samsung / SK Hynix](/post/korea-foreign-ownership-kospi-samsung-hynix-divergence-2026-05-26/) |
@@ -37,6 +38,7 @@ Korean semiconductor exposure is not one trade. It combines **SK Hynix's HBM lea
 
 | Date | Topic | Read |
 |---|---|---|
+| 2026-05-26 | **AI server passive-component bottlenecks below HBM** — a non-engineer explainer for MLCCs, silicon capacitors and inductors as the power-integrity layer that lets GPU/HBM packages run reliably | [AI server passive-component bottleneck](/post/ai-server-passive-components-bottleneck-samsung-electro-mechanics-2026-05-26/) |
 | 2026-05-26 | **KOSPI foreign ownership versus Samsung / SK Hynix ownership** — KOSPI market-value foreign ownership remains high, but Samsung at 48.32% and SK Hynix at 51.62% are already near 2026 lows; the note lays out the stabilization triggers | [KOSPI ownership versus Samsung / SK Hynix](/post/korea-foreign-ownership-kospi-samsung-hynix-divergence-2026-05-26/) |
 | 2026-05-26 | **SEMCO at KRW 100T and the power-integrity bottleneck below HBM** — using Hyundai Motor and Murata as benchmarks to test whether silicon capacitors and FC-BGA are receiving their own AI multiple | [SEMCO at KRW 100T](/post/samsung-electro-mechanics-100tn-murata-hyundai-market-cap-2026-05-26/) |
 | 2026-05-24 | **Korea market cap near global No. 6 and AI-memory concentration** — cross-checking WFE, CEIC, KRX and a Research OS proxy to explain why the headline is mainly a Samsung + SK hynix AI-memory re-rating | [Why Korea Part 5: Global No. 6 Market Cap](/post/why-korea-market-cap-global-six-ai-memory-rerating-2026-05-24/) |
@@ -73,6 +75,7 @@ Korean semiconductor exposure is not one trade. It combines **SK Hynix's HBM lea
 ### HBM and AI Memory
 
 - [After NVIDIA, the AI semiconductor bottleneck: data movement, HBM, FC-BGA and power integrity](/post/ai-chip-design-data-movement-fcbga-bottleneck-2026-05-24/)
+- [AI server passive-component bottleneck: why tiny power-stability parts now matter](/post/ai-server-passive-components-bottleneck-samsung-electro-mechanics-2026-05-26/)
 - [SEMCO at KRW 100T: Can It Overtake Murata and Hyundai Motor?](/post/samsung-electro-mechanics-100tn-murata-hyundai-market-cap-2026-05-26/)
 - [Marvell and Broadcom earnings preview: from single HBM bet to AI ASIC, networking and power-delivery bottlenecks](/post/marvell-broadcom-earnings-korea-ai-bottleneck-preview-2026-05-23/)
 - [SK Hynix HBM Market Share 2026: AI Memory Investor Guide](/post/sk-hynix-hbm-market-share-ai-memory-demand-2026/)
