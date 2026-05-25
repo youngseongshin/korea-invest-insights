@@ -1300,3 +1300,80 @@ body {
 .widget .widget-title.section-title a:hover {
   color: var(--accent-color, #2563eb);
 }
+
+/* ──────────────────────────────────────────────
+   Fix: Korean word-break across headings, body, callouts, TOC, share
+   ──────────────────────────────────────────────
+   Without this Chrome breaks Korean text at every glyph when the line
+   runs out of room. word-break: keep-all keeps the break point at the
+   word boundary (CJK or Latin), and overflow-wrap: break-word still
+   protects against unbreakable monstrosities like long URLs. */
+.article-title,
+.article-subtitle,
+.article-content,
+.article-content h1,
+.article-content h2,
+.article-content h3,
+.article-content h4,
+.article-content h5,
+.article-content h6,
+.article-content p,
+.article-content li,
+.article-content blockquote,
+.widget--toc .toc-nav,
+.article-share-label,
+.post-recommendation-list-label {
+  word-break: keep-all;
+  overflow-wrap: break-word;
+}
+
+/* English-heavy code spans should still break by character; keep-all
+   would push long inline-code outside the column. */
+.article-content code,
+.article-content pre {
+  word-break: normal;
+  overflow-wrap: anywhere;
+}
+
+/* ──────────────────────────────────────────────
+   Fix: TOC — remove default li bullets, let the active-state border
+   be the only indicator
+   ──────────────────────────────────────────────
+   Stack's default TOC list ships with disc bullets that collide
+   visually with the cobalt active-link strip added in stage 5. */
+.widget--toc .toc-nav ul {
+  list-style: none;
+  padding-left: 0;
+  margin: 0;
+}
+
+.widget--toc .toc-nav ul ul {
+  /* Indent nested levels with padding, not bullets. */
+  padding-left: 0.9rem;
+  margin-top: 0.15rem;
+}
+
+.widget--toc .toc-nav li {
+  margin: 0;
+  padding: 0;
+}
+
+.widget--toc .toc-nav a {
+  /* Slightly tighter than the stage-5 baseline now that the bullet is
+     gone. The cobalt left border / active-state still uses the same
+     rules from stage 5. */
+  padding-block: 0.28rem;
+  line-height: 1.5;
+}
+
+/* Top-level TOC links read as section labels — a touch heavier. */
+.widget--toc .toc-nav > ol > li > a,
+.widget--toc .toc-nav > ul > li > a {
+  font-weight: 600;
+  color: var(--card-text-color-main);
+}
+
+[data-scheme="dark"] .widget--toc .toc-nav > ol > li > a,
+[data-scheme="dark"] .widget--toc .toc-nav > ul > li > a {
+  color: var(--card-text-color-main);
+}
