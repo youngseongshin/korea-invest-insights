@@ -29,7 +29,7 @@ draft: false
 ---
 
 > 📚 NVIDIA 실적 후속 시리즈
-> [구글 I/O + NVIDIA 실적 프리뷰](/ko/post/google-io-nvidia-earnings-korea-semi-preview-2026-05-17/) / [AI-RAN과 한국 공급망](/ko/post/ai-ran-nvidia-earnings-skt-vs-supply-chain-2026-05-17/) / [5/17 시황 종합](/ko/post/macro-snapshot-complex-risk-off-recovery-triggers-2026-05-17/)
+> [구글 I/O + NVIDIA 실적 프리뷰](/ko/post/google-io-nvidia-earnings-korea-semi-preview-2026-05-17/) / [AI-RAN과 한국 공급망](/ko/post/ai-ran-nvidia-earnings-skt-vs-supply-chain-2026-05-17/) / [Vera Rubin 추론 스택: LPX·CMX](/ko/post/nvidia-vera-rubin-lpx-cmx-inference-stack-samsung-hbm-2026-05-28/) / [5/17 시황 종합](/ko/post/macro-snapshot-complex-risk-off-recovery-triggers-2026-05-17/)
 
 > 📚 삼성전자·한국 AI 인프라 연결 글
 > [삼성전자 TSMC식 리레이팅 가능성](/ko/post/samsung-electronics-tsmc-rerating-thesis-2026-05-16/) / [삼성전기 하이브리드 챌린저](/ko/post/samsung-electro-mechanics-hybrid-challenger-2026-05-17/) / [AI PCB thesis](/ko/post/ai-pcb-thesis-system-bom-common-bottleneck-2026-05-05/)

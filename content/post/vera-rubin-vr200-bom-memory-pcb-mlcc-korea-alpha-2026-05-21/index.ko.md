@@ -30,7 +30,7 @@ draft: false
 ---
 
 > 📚 관련 시리즈
-> [엔비디아 Q1 FY27 이후 한국 AI 인프라](/ko/post/nvidia-q1-fy27-korea-ai-infra-supply-chain-2026-05-21/) / [Google I/O 2026과 한국 AI 인프라](/ko/post/google-io-2026-agentic-os-korea-ai-infra-2026-05-21/) / [삼성전기 Si-Cap 1.5조원 계약](/ko/post/samsung-electro-mechanics-silicon-capacitor-1p5tn-2026-05-21/) / [AI HBM 허브](/ko/page/korea-semiconductor-hbm-kospi-hub/) / [반도체 밸류체인 허브](/ko/page/korea-semiconductor-equipment-ip-hub/)
+> [엔비디아 Q1 FY27 이후 한국 AI 인프라](/ko/post/nvidia-q1-fy27-korea-ai-infra-supply-chain-2026-05-21/) / [Vera Rubin 추론 스택: LPX·CMX](/ko/post/nvidia-vera-rubin-lpx-cmx-inference-stack-samsung-hbm-2026-05-28/) / [Google I/O 2026과 한국 AI 인프라](/ko/post/google-io-2026-agentic-os-korea-ai-infra-2026-05-21/) / [삼성전기 Si-Cap 1.5조원 계약](/ko/post/samsung-electro-mechanics-silicon-capacitor-1p5tn-2026-05-21/) / [AI HBM 허브](/ko/page/korea-semiconductor-hbm-kospi-hub/) / [반도체 밸류체인 허브](/ko/page/korea-semiconductor-equipment-ip-hub/)
 
 *모건스탠리 추정으로 보도된 엔비디아 Vera Rubin VR200 랙 부품 원가표를 검산하면 핵심은 GPU가 아니라 메모리 부품 금액의 폭발이다. GB300 대비 VR200 총 부품 원가 증가분 380.9만 달러 중 메모리 증가분이 162.8만 달러, 42.7%를 차지한다. GPU 증가분 144.0만 달러, 37.8%보다 크다. PCB는 +232.6%, MLCC는 +182.4%로 증가율은 화려하지만 절대 증분은 각각 전체 증가분의 2.1%, 0.1%에 그친다. 국내 우선순위는 HBM4·LPDDR5X·SOCAMM 메모리 본류, 그다음 직접 인증이 확인되는 PCB/ABF/CCL, 그리고 일반 MLCC가 아니라 실리콘 커패시터·전력 안정화 부품이다. Vera Rubin은 GPU 랙이 아니라 메모리와 데이터 이동 병목이 재가격화되는 랙이다.*
 

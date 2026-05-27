@@ -23,7 +23,7 @@ tags:
   - "한국 주식"
 ---
 
-> 🔗 <strong>관련 글</strong>: [SK하이닉스 HBM 시장점유율](/post/sk-hynix-hbm-market-share-ai-memory-demand-2026/) · [OpenEdges Technology — LPDDR6/5X 데이터센터 IP 알파](/post/openedges-lpddr-datacenter-ip-alpha-thesis-2026-04-30/) · [빅테크 1Q26 → Samsung Electronics vs Samsung Electro-Mechanics](/post/bigtech-1q26-samsung-electronics-vs-electro-mechanics-2026-04-30/)
+> 🔗 <strong>관련 글</strong>: [SK하이닉스 HBM 시장점유율](/post/sk-hynix-hbm-market-share-ai-memory-demand-2026/) · [OpenEdges Technology — LPDDR6/5X 데이터센터 IP 알파](/post/openedges-lpddr-datacenter-ip-alpha-thesis-2026-04-30/) · [빅테크 1Q26 → Samsung Electronics vs Samsung Electro-Mechanics](/post/bigtech-1q26-samsung-electronics-vs-electro-mechanics-2026-04-30/) · [NVIDIA Groq 3 LPX와 삼성 LPU 파운드리 옵션](/ko/post/nvidia-vera-rubin-lpx-cmx-inference-stack-samsung-hbm-2026-05-28/)
 
 *이 글은 "2026년 삼성 파운드리를 누가 쓰나?"라는 질문에 직접 답한다. 각 고객사가 어떤 이유로 삼성 파운드리를 선택하는지, 어떤 노드를 쓰는지, 그리고 고객 구성이 삼성 파운드리 대 TSMC의 포지셔닝에 대해 무엇을 말해주는지 살펴본다.*
 
