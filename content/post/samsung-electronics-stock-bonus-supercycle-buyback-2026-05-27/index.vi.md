@@ -1,212 +1,334 @@
 ---
-title: "Thưởng Cổ Phiếu Của Samsung Electronics: Tín Hiệu Siêu Chu Kỳ Hay Rủi Ro Pha Loãng Tương Lai?"
+title: "Samsung Có Đang Phát Tín Hiệu Về Một Siêu Chu Kỳ Bộ Nhớ Đến Năm 2028? Đọc Lại Thương Vụ Mua Lại Cổ Phiếu Thưởng Cho DS"
 slug: "samsung-electronics-stock-bonus-supercycle-buyback-2026-05-27"
 date: 2026-05-27T09:30:00+09:00
-description: "Phân tích cơ cấu thưởng cổ phiếu DS của Samsung Electronics: không đơn thuần là tin tốt về hoàn trả cổ đông, mà là phép thử về độ bền của siêu chu kỳ HBM4, server DRAM, eSSD, cùng dòng chảy mua lại cổ phiếu và rủi ro pha loãng trong tương lai."
+description: "Phân tích lại kế hoạch thưởng cổ phiếu của bộ phận DS Samsung Electronics theo hai góc nhìn: liệu công thức tính thưởng có phản ánh quan điểm nội bộ về một siêu chu kỳ bộ nhớ kéo dài đến năm 2028, và kế hoạch này có thể tạo ra thêm bao nhiêu lượng mua cổ phiếu quỹ."
 categories: ["Stock-Analysis", "Korean Market"]
-tags: ["Samsung Electronics", "005930", "HBM4", "HBM4E", "DS", "thưởng cổ phiếu", "mua lại cổ phiếu", "siêu chu kỳ bộ nhớ", "KOSPI", "bán dẫn Hàn Quốc"]
+tags: ["Samsung Electronics", "005930", "HBM4", "HBM4E", "DS", "thưởng đặc biệt", "thưởng cổ phiếu", "mua lại cổ phiếu", "siêu chu kỳ bộ nhớ", "KOSPI", "bán dẫn Hàn Quốc"]
 draft: false
 ---
 
-> Chuỗi bài Samsung Electronics: [Mục tiêu ₩460,000 của Citi và câu chuyện định giá lại bộ nhớ](/post/samsung-electronics-citi-tp-460000-memory-rerating-2026-05-11/) · [Rủi ro đình công vs. siêu chu kỳ bộ nhớ](/post/samsung-electronics-strike-vs-memory-supercycle-2026-05-15/) · [Samsung có xứng đáng với P/E 15x?](/post/samsung-electronics-tsmc-rerating-thesis-2026-05-16/) · [Phân kỳ tỷ lệ sở hữu nước ngoài](/post/korea-foreign-ownership-kospi-samsung-hynix-divergence-2026-05-26/) · [Trung tâm HBM AI](/page/korea-semiconductor-hbm-kospi-hub/)
+> Chuỗi bài về Samsung Electronics: [Mục tiêu giá ₩460.000 của Citi và định giá lại bộ nhớ](/post/samsung-electronics-citi-tp-460000-memory-rerating-2026-05-11/) · [Rủi ro đình công vs. siêu chu kỳ bộ nhớ](/post/samsung-electronics-strike-vs-memory-supercycle-2026-05-15/) · [Samsung có xứng đáng hưởng P/E 15x?](/post/samsung-electronics-tsmc-rerating-thesis-2026-05-16/) · [Phân kỳ tỷ lệ sở hữu nước ngoài](/post/korea-foreign-ownership-kospi-samsung-hynix-divergence-2026-05-26/) · [Trung tâm HBM AI](/page/korea-semiconductor-hbm-kospi-hub/)
 
 ## Tóm Tắt
 
-- Hướng đi của tiêu đề là đúng, nhưng con số thì đáng lo. Con số "₩80T thưởng cổ phiếu mua lại" không phải là số liệu chính thức đã được xác nhận. Đây có vẻ là ước tính được suy ngược từ **lợi nhuận hoạt động theo consensus × 10,5% × tỷ lệ chi trả sau thuế**.
-- Điểm đầu tư cốt lõi không phải là "hoàn trả cổ đông nhiều hơn." Đó là mức độ quyết liệt trong mục tiêu lợi nhuận DS nội bộ của Samsung xoay quanh **HBM4, server DRAM và enterprise SSD**, cộng với dòng tiền mua vào bắt buộc tiềm năng.
-- Kết luận của tôi là **Samsung Electronics 005930.KS: Chờ**. Sau một đợt tăng mạnh do sự kiện, kỷ luật tốt hơn là xác minh thỏa thuận cuối cùng, lộ trình phê duyệt cổ đông, cơ chế mua lại và tốc độ tăng trưởng lợi nhuận DS trong quý 2/quý 3.
+- Sự kiện này cần được đặt trong bối cảnh hai câu hỏi cốt lõi: **(1) Samsung có thực sự nhìn nhận nội bộ rằng bộ nhớ đang bước vào siêu chu kỳ kéo dài đến 2028? (2) Cấu trúc thưởng cổ phiếu đặc biệt này có thể tạo ra thêm bao nhiêu lượng mua cổ phiếu quỹ?**
+- Với câu hỏi thứ nhất, câu trả lời là **có — nhưng có điều kiện**. Nếu ngưỡng kích hoạt là lợi nhuận hoạt động DS hàng năm đạt 200 nghìn tỷ KRW, đây là tín hiệu nội bộ mạnh về khả năng duy trì HBM4, DRAM server và eSSD đến năm 2028. Nếu là lợi nhuận lũy kế 2026–2028 đạt 200 nghìn tỷ KRW, tín hiệu đó yếu hơn rất nhiều.
+- Với câu hỏi thứ hai, kết quả phụ thuộc lớn vào mẫu số tính toán. Con số 80 nghìn tỷ KRW được truyền thông đưa tin không phải là một giá trị cố định chính thức. Đây có vẻ là ước tính dựa trên dự báo lợi nhuận hoạt động hợp nhất 2026–2028 là 1.220 nghìn tỷ KRW, tỷ lệ quỹ thưởng 10,5% và giả định chi trả sau thuế 60%.
+- Nếu con số ròng 80 nghìn tỷ KRW là chính xác, Samsung sẽ cần mua khoảng **252 triệu cổ phiếu** ở mức giá KRW 317.500, tương đương khoảng **4,3%** cổ phiếu phổ thông đang lưu hành. Tuy nhiên, đây là **cổ phiếu bồi thường cho nhân viên**, không phải chương trình mua lại để hủy bỏ nhằm hoàn trả cổ đông.
+- Sự kiện này nên được đọc là **tín hiệu siêu chu kỳ nội bộ + giữ chân nhân tài HBM + hấp thụ nguồn cung cổ phiếu trong ngắn hạn + áp lực bán tiềm năng trong tương lai**, chứ không đơn thuần là một thông báo tăng cường trả thưởng cho cổ đông.
 
-## 1. Điều Gì Đã Được Xác Nhận và Điều Gì Vẫn Còn Là Ước Tính
+---
 
-Đây không chỉ là một tin tức lao động thông thường. Cơ cấu thưởng cổ phiếu DS đụng chạm đến ba biến số đầu tư cùng một lúc: quan điểm nội bộ của Samsung về chu kỳ thu nhập DS, dòng tiền mua lại thị trường tiềm năng, và rủi ro pha loãng trong tương lai khi cổ phiếu thưởng trở nên có thể giao dịch.
+## 1. Hai Câu Hỏi Cốt Lõi
 
-Sự phân biệt giữa thực tế và suy luận là điều quan trọng.
+Tiêu đề trên thị trường tập trung vào câu nói "Samsung có thể mua 80 nghìn tỷ KRW cổ phiếu cho chương trình thưởng đặc biệt." Đó là cách diễn giải quá thô.
 
-| Tuyên bố | Trạng thái | Bình luận |
-|---|---:|---|
-| Samsung và công đoàn đạt được thỏa thuận sơ bộ liên kết thưởng DS với kết quả hoạt động | Đại thể đúng | Reuters đưa tin công đoàn hoãn kế hoạch đình công và Samsung chấp nhận cơ cấu liên kết với lợi nhuận bộ phận bán dẫn. Samsung từ chối bình luận về chi tiết. |
-| Quỹ thưởng đặc biệt tương đương khoảng 10,5% hiệu quả kinh doanh | Đại thể đúng, nhưng chưa đầy đủ | Reuters và các nguồn báo chí Hàn Quốc đều đề cập đến mức 10,5%. Mẫu số chính xác vẫn cần thỏa thuận cuối cùng. |
-| Mục tiêu lợi nhuận hoạt động bán dẫn 2026-2028 là ₩200T | Được xác minh một phần / bất định chính | Một số nguồn đọc như mục tiêu hàng năm; nguồn khác lại đọc như mục tiêu lũy kế 2026-2028. Sự khác biệt đó thay đổi toàn bộ tín hiệu đầu tư. |
-| ₩130T gộp và ₩80T sau thuế trong ba năm | Ước tính | Con số này có vẻ được suy ngược từ lợi nhuận hoạt động consensus 2026-2028, tỷ lệ 10,5% và giả định tỷ lệ chi trả sau thuế. Đây không phải là hướng dẫn chính thức. |
-| Thưởng cổ phiếu tự động có lợi cho cổ đông | Chỉ đúng một nửa | Dòng tiền mua vào có thể hỗ trợ giá, nhưng đây là phúc lợi nhân viên, không phải hủy cổ phiếu. Không nên định giá như một chương trình mua lại thuần túy làm tăng EPS. |
+Câu hỏi đầu tư nên được rút gọn thành hai phần:
 
-Câu hỏi then chốt không phải là liệu ₩80T có khả thi về mặt toán học hay không. Câu hỏi then chốt là **mẫu số nào tạo ra con số đó và liệu cổ phiếu có bị hủy hay được trả cho nhân viên**.
+1. **Điều này có nghĩa là Samsung nội bộ đã nhìn nhận DS và bộ nhớ đang bước vào siêu chu kỳ kéo dài đến 2028?**
+2. **Cấu trúc thưởng đặc biệt này có thể tạo ra thêm bao nhiêu lượng mua cổ phiếu quỹ?**
 
-## 2. Tái Tạo Con Số ₩130T / ₩80T
+Câu hỏi thứ nhất liên quan đến **độ bền của chu kỳ lợi nhuận**: Samsung nhìn nhận chu kỳ nhu cầu HBM4, DRAM server, SSD doanh nghiệp và SOCAMM2 sẽ kéo dài đến khi nào.
 
-Sử dụng các ước tính lợi nhuận hoạt động được trích dẫn trong các bài báo tiếng Hàn, phép tính khá đơn giản.
+Câu hỏi thứ hai liên quan đến **cơ chế dòng tiền và chính sách vốn**: công ty có thể cần mua bao nhiêu cổ phiếu, và liệu những cổ phiếu đó sẽ bị hủy hay được trả cho nhân viên.
+
+---
+
+## 2. Những Gì Đã Xác Nhận Và Những Gì Còn Chưa Rõ
+
+Các sự kiện đã được xác nhận:
+
+| Hạng mục | Chi tiết đã xác nhận | Nguồn |
+|---|---|---|
+| Kết quả hợp nhất 1Q26 | Doanh thu KRW 133,9tn, lợi nhuận hoạt động KRW 57,2tn | [Samsung Global Newsroom](https://news.samsung.com/global/samsung-electronics-announces-first-quarter-2026-results) |
+| Kết quả DS 1Q26 | Doanh thu DS KRW 81,7tn, lợi nhuận hoạt động DS KRW 53,7tn | [Samsung Global Newsroom](https://news.samsung.com/global/samsung-electronics-announces-first-quarter-2026-results) |
+| Bình luận về bộ nhớ AI | HBM4 và SOCAMM2 bán hàng loạt cho NVIDIA Vera Rubin, mẫu HBM4E, nhu cầu bộ nhớ server mạnh mẽ | [Samsung Global Newsroom](https://news.samsung.com/global/samsung-electronics-announces-first-quarter-2026-results) |
+| Chính sách hoàn trả cổ đông hiện tại | Cổ tức thường niên KRW 9,8tn và hoàn trả 50% FCF cho FY2024–2026 | [Samsung IR](https://www.samsung.com/global/ir/stock-information/shareholder-return/) |
+| Mua lại cổ phiếu 2024–2025 | IR chính thức ghi nhận KRW 1,8118tn năm 2024 và KRW 8,1893tn năm 2025, tổng cộng khoảng KRW 10,0tn | [Samsung IR](https://www.samsung.com/global/ir/stock-information/shareholder-return/) |
+| Thương lượng thưởng đặc biệt | Các báo cáo về thỏa thuận sơ bộ liên kết thưởng đặc biệt DS với hiệu quả kinh doanh và thanh toán bằng cổ phiếu | [Reuters](https://www.reuters.com/business/world-at-work/samsung-elec-union-resume-pay-talks-one-day-ahead-strike-deadline-2026-05-20/), [Hankyoreh](https://www.hani.co.kr/arti/economy/economy_general/1259878.html) |
+
+Các hạng mục chưa rõ thậm chí còn quan trọng hơn:
+
+| Hạng mục chưa rõ | Tại sao quan trọng |
+|---|---|
+| Mẫu số 10,5% là lợi nhuận hoạt động hợp nhất, DS hay đã điều chỉnh | Ảnh hưởng đáng kể đến quy mô mua cổ phiếu |
+| Điều kiện KRW 200tn giai đoạn 2026–2028 là hàng năm hay lũy kế | Quyết định đây có thực sự là tín hiệu siêu chu kỳ đến 2028 hay không |
+| Tỷ lệ chi trả sau thuế 60% có chính xác không | Ảnh hưởng đến số tiền mua ròng |
+| Thời gian khóa, khả năng giao dịch và lịch thanh lý sau khi nhân viên nhận cổ phiếu | Quyết định dòng tiền ngắn hạn và áp lực bán tương lai |
+| Liệu ước tính đồng thuận hiện tại đã bao gồm chi phí thưởng chưa | Xác định liệu các nhà phân tích đang tính trùng hay bỏ sót chi phí này |
+
+Do đó, phân tích dưới đây là một khung kịch bản, không phải mô hình dựa trên hướng dẫn chính thức từ công ty.
+
+---
+
+## 3. Câu Hỏi 1: Samsung Có Thừa Nhận Nội Bộ Về Một Siêu Chu Kỳ Đến 2028?
+
+Câu trả lời là **có — nhưng có điều kiện**.
+
+Samsung chưa chính thức tuyên bố "siêu chu kỳ kéo dài đến 2028." Nhưng nếu ngưỡng thưởng được báo cáo gắn với lợi nhuận hoạt động DS hàng năm đạt 200 nghìn tỷ KRW, đây trở thành một tín hiệu nội bộ mạnh mẽ.
+
+Lý do: lợi nhuận hoạt động DS trong 1Q26 là KRW 53,7 nghìn tỷ.
+
+```text
+Lợi nhuận DS 1Q26 KRW 53,7tn x 4 = KRW 214,8tn theo năm
+```
+
+Con số KRW 200 nghìn tỷ mỗi năm không phải là không tưởng. Nó gần với tốc độ hiện tại.
+
+### 3.1 Nếu Ngưỡng Là KRW 200tn Hàng Năm, Đây Là Tín Hiệu Đáng Chú Ý
+
+Nếu thỏa thuận yêu cầu DS phải đạt khoảng KRW 200 nghìn tỷ mỗi năm từ 2026 đến 2028, hàm ý rất rõ ràng.
+
+Samsung có thể đang nội bộ giả định rằng:
+
+1. Quá trình chứng nhận và tăng sản lượng HBM4 và HBM4E diễn ra theo kế hoạch.
+2. Nhu cầu DRAM server và SSD doanh nghiệp kéo dài hơn một chu kỳ tăng đơn lẻ.
+3. NVIDIA Vera Rubin, thế hệ GPU/CPU tiếp theo và đầu tư capex AI của hyperscaler tiếp tục cải thiện cơ cấu sản phẩm bộ nhớ.
+4. Sự dịch chuyển sang AI và bộ nhớ server bù đắp cho tốc độ tăng trưởng nguồn cung DRAM thông thường.
+
+Trong trường hợp đó, kế hoạch thưởng đặc biệt không chỉ là một thỏa thuận lao động.
+
+Đây là dấu hiệu cho thấy **Samsung đã thiết kế cơ chế khuyến khích DS xoay quanh môi trường bộ nhớ lợi nhuận cao kéo dài đến 2028**.
+
+### 3.2 Nếu Ngưỡng Là KRW 200tn Lũy Kế, Tín Hiệu Rất Yếu
+
+Nếu điều kiện là tổng lợi nhuận hoạt động DS lũy kế 2026–2028 đạt 200 nghìn tỷ KRW, cách hiểu thay đổi hoàn toàn.
+
+```text
+KRW 200tn lũy kế / 3 năm = bình quân hàng năm KRW 66,7tn
+```
+
+So với tốc độ theo năm của DS trong 1Q26 là KRW 214,8 nghìn tỷ, đây là ngưỡng rất thấp. Theo cách hiểu này, kế hoạch gần với một công thức bồi thường hơn là một tín hiệu siêu chu kỳ mạnh mẽ.
+
+Vì vậy, điểm mấu chốt là **hàng năm hay lũy kế**.
+
+| Cách diễn giải | Ngưỡng lợi nhuận DS | So với tốc độ 1Q26 theo năm | Ý nghĩa đầu tư |
+|---|---:|---:|---|
+| KRW 200tn hàng năm | KRW 200tn mỗi năm | Gần với KRW 214,8tn theo năm | Tín hiệu nội bộ mạnh về siêu chu kỳ 2026–2028 |
+| KRW 200tn lũy kế 2026–2028 | Bình quân hàng năm KRW 66,7tn | Thấp hơn nhiều so với tốc độ hiện tại | Tín hiệu siêu chu kỳ yếu |
+| KRW 100tn hàng năm giai đoạn 2029–2035 | Điều kiện lợi nhuận cao dài hạn | Cao hơn nhiều chu kỳ trong quá khứ | Luận điểm về lợi nhuận cấu trúc sau đỉnh chu kỳ |
+
+### 3.3 Thông Tin Chính Thức Đã Xác Nhận Sức Mạnh 2026
+
+Thông cáo chính thức 1Q26 của Samsung đủ để xác nhận rằng ban lãnh đạo đánh giá nhu cầu bộ nhớ AI năm 2026 rất mạnh.
+
+Công ty báo cáo lợi nhuận hoạt động DS đạt KRW 53,7 nghìn tỷ và giải thích rằng kết quả bộ nhớ được thúc đẩy bởi nhu cầu AI, nguồn cung hạn chế, tăng giá toàn ngành và doanh số bán hàng loạt HBM4 cùng SOCAMM2. Công ty cũng cho biết kế hoạch cung cấp mẫu HBM4E trong Q2 và kỳ vọng nhu cầu bộ nhớ server tiếp tục mạnh trong nửa cuối năm nhờ sự triển khai AI/LLM của hyperscaler và doanh nghiệp.
+
+Tuy nhiên, thông cáo chính thức đó không phải là dự báo đến năm 2028. Tín hiệu 2028 chỉ có thể được suy luận từ công thức thưởng đặc biệt.
+
+Kết luận rõ ràng:
+
+> Samsung chưa chính thức tuyên bố siêu chu kỳ đến năm 2028. Nhưng nếu ngưỡng thưởng là lợi nhuận hoạt động DS hàng năm đạt KRW 200 nghìn tỷ, kế hoạch này có thể được đọc là tín hiệu nội bộ mạnh mẽ rằng Samsung nhìn nhận chu kỳ bộ nhớ lợi nhuận cao sẽ kéo dài đến 2026–2028.
+
+---
+
+## 4. Câu Hỏi 2: Samsung Có Thể Mua Thêm Bao Nhiêu Cổ Phiếu?
+
+Câu hỏi thứ hai mang tính số học.
+
+Con số KRW 80 nghìn tỷ được báo cáo có vẻ xuất phát từ công thức sau:
+
+```text
+Ước tính mua cổ phiếu quỹ ròng
+= Dự báo lợi nhuận hoạt động 2026–2028 x 10,5% x Tỷ lệ chi trả sau thuế
+```
+
+### 4.1 Kịch Bản Tiêu Đề: Lợi Nhuận Hoạt Động Hợp Nhất
+
+Sử dụng các dự báo lợi nhuận hoạt động được trích dẫn trong các bài báo tiếng Hàn:
 
 | Hạng mục | 2026E | 2027E | 2028E | Tổng |
 |---|---:|---:|---:|---:|
-| Ước tính lợi nhuận hoạt động hợp nhất | ₩352T | ₩444T | ₩424T | ₩1.220T |
-| Quỹ 10,5% | ₩37,0T | ₩46,6T | ₩44,5T | ₩128,1T |
-| Giả định chi trả sau thuế 60% | ₩22,2T | ₩28,0T | ₩26,7T | ₩76,9T |
+| Dự báo lợi nhuận hoạt động hợp nhất | KRW 352tn | KRW 444tn | KRW 424tn | KRW 1.220tn |
+| Quỹ 10,5% | KRW 37,0tn | KRW 46,6tn | KRW 44,5tn | KRW 128,1tn |
+| Giả định 60% sau thuế | KRW 22,2tn | KRW 28,0tn | KRW 26,7tn | KRW 76,9tn |
 
-Vậy tiêu đề ₩130T gộp / ₩80T ròng nhìn chung phù hợp với các ước tính được trích dẫn. Nhưng mẫu số vẫn chưa được giải quyết.
+Vì vậy, tiêu đề "KRW 130tn gộp / KRW 80tn ròng" nhìn chung phù hợp với phép tính.
 
-| Cách diễn giải | Ý nghĩa | Hàm ý đầu tư |
+Nhưng điều này chỉ đúng nếu mẫu số là lợi nhuận hoạt động hợp nhất. Nếu thỏa thuận cuối cùng sử dụng lợi nhuận hoạt động DS, lợi nhuận hoạt động đã điều chỉnh hoặc lợi nhuận hoạt động trước thưởng, con số sẽ thay đổi.
+
+### 4.2 KRW 80tn Ròng Tương Đương Bao Nhiêu Cổ Phiếu?
+
+Chia KRW 80 nghìn tỷ ròng theo tiêu đề cho mức giá ngày 27/5 được dẫn là KRW 317.500:
+
+```text
+KRW 80tn / KRW 317.500 = khoảng 252 triệu cổ phiếu
+```
+
+So với khoảng 5,846 tỷ cổ phiếu phổ thông, con số đó chiếm khoảng 4,3%.
+
+| Giả định | Số tiền mua ròng | Cổ phiếu tại KRW 317.500 | % cổ phiếu phổ thông |
+|---|---:|---:|---:|
+| Ròng theo tiêu đề | KRW 80,0tn | \~252 triệu | \~4,3% |
+| Lợi nhuận hợp nhất x 10,5% x 60% | KRW 76,9tn | \~242 triệu | \~4,1% |
+| DS hàng năm KRW 200tn x 3 năm x 10,5% x 60% | KRW 37,8tn | \~119 triệu | \~2,0% |
+| DS lũy kế KRW 200tn x 10,5% x 60% | KRW 12,6tn | \~40 triệu | \~0,7% |
+
+Đây là bảng quan trọng nhất.
+
+**KRW 80 nghìn tỷ gần với kịch bản lạc quan nhất. Tùy vào mẫu số, lượng mua cổ phiếu gia tăng thực tế có thể chỉ ở mức hàng chục nghìn tỷ won.**
+
+### 4.3 So Sánh Với Lượng Mua Lại Hiện Tại
+
+Trang IR chính thức của Samsung ghi nhận khoảng KRW 10,0 nghìn tỷ mua lại trong giai đoạn 2024–2025: KRW 1,8118 nghìn tỷ năm 2024 và KRW 8,1893 nghìn tỷ năm 2025. ([Samsung IR](https://www.samsung.com/global/ir/stock-information/shareholder-return/))
+
+Nếu lượng mua cổ phiếu cho thưởng đặc biệt đạt mức ròng theo tiêu đề là KRW 76,9–80,0 nghìn tỷ, con số đó sẽ gấp khoảng 7,7–8,0 lần tổng mua lại chính thức giai đoạn 2024–2025.
+
+| So sánh | Giá trị |
+|---|---:|
+| Mua lại chính thức 2024–2025 | \~KRW 10,0tn |
+| Ước tính mua thưởng đặc biệt ròng theo tiêu đề | \~KRW 76,9–80,0tn |
+| Bội số | \~7,7–8,0 lần |
+
+Điều đó có ý nghĩa đáng kể về mặt dòng tiền.
+
+Tuy nhiên, điểm mấu chốt là các cổ phiếu này không bị hủy bỏ. Chúng sẽ được trả cho nhân viên.
+
+---
+
+## 5. Trả Thưởng Cho Cổ Đông Hay Bồi Thường Cho Nhân Viên?
+
+Câu trả lời chính xác là bồi thường cho nhân viên.
+
+Trong giai đoạn mua vào, công ty mua cổ phiếu có thể hấp thụ nguồn cung lưu thông và hỗ trợ dòng tiền ngắn hạn. Nhưng các cổ phiếu đó sau đó sẽ được chuyển cho nhân viên, không phải bị hủy bỏ.
+
+Cơ chế diễn ra qua ba giai đoạn:
+
+| Giai đoạn | Tác động | Đánh giá từ góc độ cổ đông |
 |---|---|---|
-| 10,5% lợi nhuận hoạt động hợp nhất | Quỹ gộp gần ₩128T trong ba năm | Khớp với tiêu đề |
-| 10,5% lợi nhuận hoạt động DS | Khoản chi trả thực tế có thể nhỏ hơn đáng kể | Con số ₩80T có thể phóng đại sự kiện |
-| Lợi nhuận hoạt động trước thưởng | Có thể có tính trùng lặp so với consensus | Phép tính định giá trở nên kém rõ ràng |
-| Chỉ số nội bộ đã điều chỉnh | Không thể biết nếu không có tài liệu cuối cùng | Vẫn bị chặn |
+| Công ty mua cổ phiếu trên thị trường | Hấp thụ nguồn cung và tạo dòng tiền mua vào | Tích cực ngắn hạn |
+| Cổ phiếu được trả cho nhân viên | Cổ phiếu quỹ trở thành cổ phiếu nắm giữ cá nhân | Không có tác động hủy bỏ |
+| Thời gian khóa hết hạn hoặc phần có thể giao dịch được bán | Một số cổ phiếu có thể quay lại thị trường | Áp lực bán tiềm năng trong tương lai |
 
-Hiện tại, con số này được xem như **chỉ số về quy mô**, không phải cam kết đã ký.
+Chương trình mua lại theo kiểu hủy bỏ sẽ vĩnh viễn giảm số cổ phiếu lưu hành và tăng EPS. Cổ phiếu bồi thường cho nhân viên thì không. Chúng có thể quay lại thị trường sau này, và quyền biểu quyết được khôi phục khi cổ phiếu quỹ được chuyển cho các cá nhân.
 
-## 3. Câu Hỏi Lớn Hơn: Mục Tiêu ₩200T DS Là Hàng Năm Hay Lũy Kế?
+Điều đó không có nghĩa là sự kiện này tiêu cực. Đơn giản là mục tiêu khác:
 
-Samsung công bố doanh thu hợp nhất quý 1/2026 là ₩133,9T và lợi nhuận hoạt động là ₩57,2T. Doanh thu DS là ₩81,7T và lợi nhuận hoạt động DS là ₩53,7T. Nhân thêm quý DS cho cả năm cho ra tốc độ chạy trên ₩200T.
+1. Giữ chân nhân viên then chốt trong mảng HBM.
+2. Gắn kết hiệu quả DS với bồi thường nhân viên.
+3. Trao cho nhân viên cơ hội hưởng lợi từ diễn biến giá cổ phiếu Samsung.
+4. Giảm áp lực thưởng bằng tiền mặt ngay lập tức.
+5. Giảm rủi ro lao động.
 
-Đây là nơi cách diễn giải trở nên quan trọng.
+Đây không phải chủ yếu là sự kiện trả thưởng cho cổ đông. Đây là **sự kiện thực thi HBM và giữ chân nhân tài**.
 
-| Cách diễn giải | Ý nghĩa | Tín hiệu đầu tư |
-|---|---|---|
-| Lợi nhuận hoạt động DS hàng năm ₩200T | Tốc độ chạy DS quý 1/2026 đã gần đến | Tín hiệu nội bộ mạnh về HBM4, server DRAM và eSSD |
-| Lợi nhuận hoạt động DS lũy kế 2026-2028 là ₩200T | Bình quân hàng năm khoảng ₩67T | Ngưỡng rất thấp so với tốc độ chạy hiện tại |
-| Mục tiêu ₩100T hàng năm cho 2029-2035 | Mức lợi nhuận cao sau đỉnh chu kỳ | Một tuyên bố về bộ nhớ cấu trúc dài hạn |
+---
 
-Nếu điều kiện là **lợi nhuận hoạt động DS hàng năm ₩200T**, tin tức này không chủ yếu về việc chấm dứt xung đột lao động. Đó là bằng chứng Samsung nhìn nhận chu kỳ HBM/server-memory đủ bền vững để bảo lãnh một cơ cấu khuyến khích lớn.
+## 6. Tại Sao Thưởng Cổ Phiếu Lại Quan Trọng Với HBM
 
-Nếu điều kiện là **₩200T lũy kế**, giá trị thông tin thấp hơn nhiều. Theo tốc độ chạy DS quý 1/2026, ngưỡng đó không đòi hỏi gì nhiều.
+Năng lực cạnh tranh HBM không chỉ phụ thuộc vào capex.
 
-Đây là lý do bài phân tích này vẫn giữ trạng thái Chờ, không phải Mua.
+Quá trình phục hồi HBM4 và HBM4E của Samsung phụ thuộc vào:
 
-## 4. Mua Lại Hay Hoàn Trả Cổ Đông?
+* chứng nhận từ khách hàng
+* độ ổn định quy trình TSV
+* năng suất đóng gói
+* tích hợp die nền và foundry
+* đặc tính nhiệt và điện năng
+* chứng nhận từ NVIDIA và custom ASIC
+* dịch chuyển cơ cấu sang SSD doanh nghiệp, SOCAMM2 và DDR5
 
-Thị trường tự nhiên phản ứng với cụm từ "mua lại ₩80T." Nhưng cơ cấu này khác với một chương trình hủy cổ phiếu.
+Điểm nghẽn là con người không kém gì thiết bị. Bồi thường bằng cổ phiếu có thể được đọc là cơ chế khuyến khích dài hạn nhằm giữ chân nhân tài DS đến năm 2028.
 
-| Hạng mục | Quy mô | Diễn giải |
-|---|---:|---|
-| Chương trình mua lại 2024 | ₩10T | Chương trình hoàn trả cổ đông, với ₩3T đầu tiên dự kiến hủy |
-| Mua lại chính thức 2024-2025 | Khoảng ₩10T | Trong khuôn khổ hoàn trả hiện có |
-| Nghị quyết mua cổ phiếu bồi thường 2026 | Khoảng ₩13,25T | Mua để trả lương cho nhân viên |
-| Ước tính thưởng đặc biệt gộp được báo cáo | ₩128-130T | Lợi nhuận hoạt động consensus × 10,5% |
-| Ước tính thưởng đặc biệt ròng được báo cáo | ₩77-80T | Giả định sau thuế |
-| ₩80T ròng so với vốn hóa thị trường | Khoảng 4,3% | Dựa trên vốn hóa thị trường chỉ định gần ₩1.856T |
+Điều này kết nối hai câu hỏi:
 
-Ở mức ₩317.500 mỗi cổ phiếu, ₩80T mua được khoảng 252 triệu cổ phiếu thường, tương đương khoảng 4,3% số cổ phiếu niêm yết. Đó là dòng chảy đáng kể.
+```text
+Samsung kỳ vọng lợi nhuận DS cao đến năm 2028
+  ↓
+Phân bổ một phần lợi nhuận đó cho nhân viên bằng cổ phiếu
+  ↓
+Nhân viên gắn kết với giá cổ phiếu Samsung và kết quả thực thi DS
+  ↓
+Samsung giữ chân nhân tài HBM và giảm rủi ro lao động
+```
 
-Nhưng một khi cổ phiếu được trả cho nhân viên, chúng có thể quay lại thị trường. Một số có thể giao dịch ngay lập tức; phần còn lại có thể trở thành áp lực pha loãng sau khi hết thời gian khóa. Quyền bỏ phiếu cũng được khôi phục khi cổ phiếu quỹ được chuyển sang cá nhân.
+Với nhà đầu tư, cấu trúc này có hai mặt.
 
-Vì vậy, mô tả chính xác hơn là:
-
-> Đề xuất thưởng cổ phiếu DS của Samsung không phải là chương trình hoàn trả cổ đông thuần túy. Đây là một thiết kế bồi thường kết hợp hấp thụ lượng cổ phiếu lưu hành ngắn hạn, giảm thiểu rủi ro lao động và giữ chân nhân tài HBM, kèm theo rủi ro pha loãng trong tương lai.
-
-## 5. Tại Sao Trả Bằng Cổ Phiếu?
-
-Năng lực cạnh tranh HBM không chỉ là công suất thiết bị. Điểm nghẽn là con người: xác nhận từ khách hàng, cải thiện yield, TSV, đóng gói, tích hợp die nền và phản ứng chất lượng.
-
-Bồi thường bằng cổ phiếu có thể phục vụ ba mục đích:
-
-1. Giữ chân nhân tài then chốt cho HBM.
-2. Gắn kết lợi ích nhân viên với giá cổ phiếu Samsung và kết quả thực hiện DS.
-3. Giảm dòng tiền mặt chi ra tức thì so với thưởng tiền mặt.
-
-Nhưng nó cũng có chi phí. Nó có thể nới rộng khoảng cách nội bộ giữa DS và DX, giữa bộ nhớ và phi bộ nhớ, giữa các đơn vị có lãi và đơn vị thua lỗ. Quỹ thưởng cũng là sự chuyển giao lợi nhuận chu kỳ từ cổ đông sang lao động.
-
-Chi phí đó không tự động là xấu. Nếu nó đẩy nhanh việc xác nhận HBM4/HBM4E và phục hồi yield, lợi nhuận trên chi phí lao động đó có thể rất cao. Tuy nhiên, nếu chu kỳ bộ nhớ AI đạt đỉnh vào 2026-2027, thưởng dựa trên cổ phiếu trở thành rủi ro thuận chu kỳ cho cả nhân viên lẫn cổ đông.
-
-## 6. Định Giá: Trông Rẻ, Nhưng Tất Cả Phụ Thuộc Vào Độ Bền Thu Nhập
-
-Sử dụng vốn hóa thị trường chỉ định khoảng ₩1.856T và các số liệu consensus được báo cáo:
-
-| Năm | Ước tính lợi nhuận hoạt động | Vốn hóa / Lợi nhuận hoạt động | Lợi nhuận hoạt động sau giả định chi phí thưởng 10,5% | Vốn hóa / Lợi nhuận hoạt động đã điều chỉnh |
-|---|---:|---:|---:|---:|
-| 2026E | ₩352T | 5,3x | ₩315T | 5,9x |
-| 2027E | ₩444T | 4,2x | ₩397T | 4,7x |
-| 2028E | ₩424T | 4,4x | ₩379T | 4,9x |
-
-Cổ phiếu không trông quá đắt nếu lợi nhuận hoạt động 2027E gần ₩444T là có thực. Rủi ro không nằm ở bội số. Rủi ro nằm ở độ bền của ước tính thu nhập.
-
-Nếu giá HBM, server DRAM và nhu cầu eSSD duy trì đến 2027, định giá hiện tại có thể được bảo vệ. Nếu chúng đảo chiều, bội số thấp sẽ trở thành bẫy giá trị tại đỉnh chu kỳ.
-
-## 7. Quan Điểm Đầu Tư Thực Tế
-
-### Đánh Giá: Chờ
-
-Tôi sẽ không đuổi theo sự kiện này vì ba lý do:
-
-1. ₩80T không phải là con số chính thức đã được xác nhận.
-2. Đây là bồi thường nhân viên, không phải hủy cổ phiếu.
-3. Cách diễn giải hàng năm hay lũy kế của mục tiêu ₩200T vẫn chưa được giải quyết.
-
-Mức vào thứ nhất thận trọng là **dưới ₩305.000**.
-
-Phép tính đơn giản:
-
-- Lợi nhuận hoạt động 2027E: ₩444T
-- Trừ giả định chi phí thưởng 10,5%: lợi nhuận hoạt động điều chỉnh gần ₩397T
-- Bội số chấp nhận được: 4,5x lợi nhuận hoạt động điều chỉnh
-- Vốn hóa thị trường ngụ ý: khoảng ₩1.788T
-- Với khoảng 5,846 tỷ cổ phiếu thường, giá ngụ ý gần ₩306.000
-
-Ở mức khoảng ₩317.500, tôi sẽ xác minh thay vì đuổi theo.
-
-### Điều Kiện Vào Lệnh
-
-| Điều kiện | Cần xác minh |
+| Cơ hội | Rủi ro |
 |---|---|
-| Thỏa thuận cuối cùng | Bỏ phiếu công đoàn và mẫu số thưởng đặc biệt |
-| Lộ trình phê duyệt cổ phiếu | Phê duyệt nắm giữ/xử lý cổ phiếu quỹ và tốc độ mua |
-| Tốc độ DS | Lợi nhuận hoạt động DS quý 2 hoặc quý 3 duy trì trên khoảng ₩50T mỗi quý |
-| Thực hiện HBM | Mẫu HBM4E, tăng tốc HBM4 và lịch trình nền tảng NVIDIA |
-| Giá / Ước tính | Kéo lui xuống dưới ₩305.000 hoặc nâng cấp consensus thêm |
+| Phục hồi thực thi HBM, giữ chân nhân tài, giảm rủi ro lao động | Chi phí bồi thường cao hơn, lao động nhận một phần lợi tức chu kỳ, áp lực bán tiềm năng |
+| Dòng tiền mua vào ngắn hạn | Không tăng EPS như chương trình hủy bỏ cổ phiếu |
+| Tín hiệu siêu chu kỳ nội bộ | Tín hiệu yếu đi nếu ngưỡng KRW 200tn là lũy kế chứ không phải hàng năm |
 
-### Điều Kiện Hủy Bỏ Luận Điểm
+---
 
-- Thỏa thuận cuối cùng xác nhận mục tiêu ₩200T là lũy kế, không phải hàng năm.
-- Quy mô mua cổ phiếu thực tế thấp hơn đáng kể so với tiêu đề.
-- Lợi nhuận hoạt động DS quý 2/quý 3 giảm xuống dưới khoảng ₩50T mỗi quý.
-- Xác nhận hoặc tăng tốc HBM4/HBM4E bị trì hoãn.
-- Consensus lợi nhuận hoạt động hợp nhất 2027E giảm xuống dưới ₩300T.
-- Sự chậm trễ phê duyệt hoặc phản đối của cổ đông thiểu số làm chậm kế hoạch mua lại/xử lý.
-- Lịch trình capex AI hoặc nền tảng NVIDIA/custom-ASIC bị đẩy lùi, trì hoãn đơn hàng HBM.
+## 7. Câu Trả Lời Cuối Cùng Cho Hai Câu Hỏi
 
-## Quan Điểm Cuối Cùng
+### Câu hỏi 1. Samsung Có Nội Bộ Nhìn Nhận Siêu Chu Kỳ Đến 2028?
 
-Điều có lợi cho Samsung không phải là bản thân tiêu đề mua lại. Đó là khả năng ban quản lý đang bảo lãnh một mục tiêu lợi nhuận DS quyết liệt vì họ nhìn thấy chu kỳ HBM/server-memory đủ bền.
+**Không phải tuyên bố chính thức. Nhưng có thể là tín hiệu nội bộ mạnh mẽ theo cách diễn giải lợi nhuận hàng năm.**
 
-Nhưng con số ₩80T được báo cáo không phải là chính thức, và đây không phải là chương trình hủy cổ phiếu. Cơ cấu này mang lại **dòng tiền ngắn hạn, bình yên lao động và giữ chân nhân tài HBM**, nhưng cũng đi kèm **chi phí bồi thường, rủi ro pha loãng tương lai và bất định công thức**.
+* Nếu ngưỡng là lợi nhuận hoạt động DS hàng năm KRW 200tn: **gần như là có.** Tốc độ DS theo năm trong 1Q26 là KRW 214,8tn, và việc nhúng loại mục tiêu đó vào chế độ đãi ngộ đến năm 2028 phát đi tín hiệu tự tin về chu kỳ bộ nhớ lợi nhuận cao.
+* Nếu ngưỡng là lợi nhuận hoạt động DS lũy kế 2026–2028 là KRW 200tn: **gần như là không.** Bình quân hàng năm KRW 66,7tn thấp hơn nhiều so với tốc độ hiện tại, khiến nó giống ngưỡng bồi thường hơn là tín hiệu siêu chu kỳ.
 
-Samsung vẫn là cổ phiếu vốn hóa lớn cốt lõi trong lĩnh vực bộ nhớ AI. Tuy nhiên, sự kiện cụ thể này là một điểm kiểm tra chứ không phải tín hiệu để đuổi theo. Lập trường đúng đắn là **Chờ** cho đến khi công thức thỏa thuận và thu nhập DS quý 2/quý 3 xác nhận luận điểm.
+Văn bản thỏa thuận cuối cùng là chìa khóa.
+
+### Câu hỏi 2. Samsung Có Thể Mua Thêm Bao Nhiêu Cổ Phiếu?
+
+**Kịch bản tiêu đề: KRW 76,9–80,0tn, khoảng 242–252 triệu cổ phiếu, tức khoảng 4,1–4,3% cổ phiếu phổ thông.**
+
+Nhưng biên độ rất rộng:
+
+| Kịch bản | Ước tính mua cổ phiếu | % cổ phiếu phổ thông |
+|---|---:|---:|
+| Cơ sở DS lũy kế KRW 200tn | \~KRW 12,6tn | \~0,7% |
+| DS hàng năm KRW 200tn x 3 năm | \~KRW 37,8tn | \~2,0% |
+| Dự báo lợi nhuận hợp nhất KRW 1.220tn | \~KRW 76,9tn | \~4,1% |
+| Ròng theo tiêu đề KRW 80tn | \~KRW 80,0tn | \~4,3% |
+
+Câu quan trọng nhất:
+
+> Đây không phải cổ phiếu bị hủy bỏ. Đây là cổ phiếu bồi thường cho nhân viên. Giai đoạn mua vào có thể hỗ trợ dòng tiền ngắn hạn, nhưng các cổ phiếu này có thể trở thành áp lực bán tiềm năng sau khi được trả cho nhân viên.
+
+Vì vậy, cốt lõi của sự kiện này không phải là "trả thưởng thêm cho cổ đông."
+
+Vấn đề là **Samsung nhìn nhận siêu chu kỳ DS/HBM kéo dài đến khi nào, và sẵn sàng dùng bao nhiêu phần lợi tức đó để giữ chân nhân tài HBM then chốt bằng cổ phiếu**.
+
+---
+
+## Danh Sách Kiểm Tra
+
+Các bước kiểm tra tiếp theo tập trung vào công thức tính và lộ trình thực thi thực tế.
+
+| Điểm cần kiểm tra | Cần xác nhận điều gì |
+|---|---|
+| Văn bản thỏa thuận cuối cùng | KRW 200tn là hàng năm hay lũy kế? |
+| Mẫu số tính thưởng | Lợi nhuận hoạt động hợp nhất, DS hay đã điều chỉnh? |
+| Chi trả sau thuế | Tỷ lệ chi trả ròng thực tế và phương pháp khấu trừ thuế |
+| Cơ chế mua | Tốc độ mua thị trường, thời hạn thực thi và phê duyệt cổ đông |
+| Áp lực bán sau chi trả | Phần có thể giao dịch ngay lập tức, thời gian khóa và lịch mở khóa |
+
+Cho đến khi những điều đó được làm rõ, KRW 80 nghìn tỷ nên được coi là kịch bản lạc quan nhất, không phải con số cố định.
+
+---
 
 ## Phân Loại Bằng Chứng
 
-### [Thực tế]
+### [Sự kiện đã xác nhận]
 
-- Samsung công bố doanh thu hợp nhất quý 1/2026 là ₩133,9T, lợi nhuận hoạt động ₩57,2T, doanh thu DS ₩81,7T và lợi nhuận hoạt động DS ₩53,7T. [4]
-- Samsung đã thảo luận về HBM4, HBM4E và SOCAMM2 như một phần trong bộ sản phẩm cơ sở hạ tầng AI NVIDIA, bao gồm HBM4 cho NVIDIA Vera Rubin. [5]
-- Chương trình mua lại trước đó của Samsung là ₩10T, và các trang IR chính thức cho thấy khoảng ₩10T mua lại trong 2024-2025. [7][9]
-- Ngày 27/5/2026, giá cổ phiếu thường của Samsung được trích dẫn ở mức ₩317.500, với vốn hóa thị trường gần ₩1.856T. [8]
+* Samsung báo cáo doanh thu hợp nhất 1Q26 KRW 133,9tn, lợi nhuận hoạt động KRW 57,2tn, doanh thu DS KRW 81,7tn và lợi nhuận hoạt động DS KRW 53,7tn. ([Samsung Global Newsroom](https://news.samsung.com/global/samsung-electronics-announces-first-quarter-2026-results))
+* Samsung đề cập đến doanh số bán hàng loạt HBM4 và SOCAMM2 cho NVIDIA Vera Rubin, mẫu HBM4E và nhu cầu bộ nhớ server mạnh trong nửa cuối năm. ([Samsung Global Newsroom](https://news.samsung.com/global/samsung-electronics-announces-first-quarter-2026-results))
+* Chính sách hoàn trả cổ đông FY2024–2026 của Samsung bao gồm cổ tức thường niên KRW 9,8tn và hoàn trả 50% FCF cho cổ đông. ([Samsung IR](https://www.samsung.com/global/ir/stock-information/shareholder-return/))
+* Trang IR chính thức của Samsung ghi nhận khoảng KRW 10,0tn mua cổ phiếu trong giai đoạn 2024–2025. ([Samsung IR](https://www.samsung.com/global/ir/stock-information/shareholder-return/))
 
 ### [Suy luận]
 
-- Tiêu đề ₩130T gộp / ₩80T ròng có vẻ được suy ngược từ ước tính lợi nhuận hoạt động 2026-2028, quỹ 10,5% và giả định tỷ lệ chi trả sau thuế.
-- Nếu điều kiện ₩200T DS là hàng năm, tốc độ chạy DS quý 1/2026 biến nó thành tín hiệu nội bộ có ý nghĩa về siêu chu kỳ bộ nhớ.
-- ₩80T ròng tương đương khoảng 4,3% vốn hóa thị trường chỉ định, vì vậy nó có tác động đến dòng tiền. Nhưng vì cổ phiếu được trả cho nhân viên, không nên định giá như một chương trình hủy cổ phiếu thuần túy.
+* Con số gộp KRW 130tn và ròng KRW 80tn được báo cáo có vẻ dựa trên ước tính lợi nhuận hoạt động hợp nhất 2026–2028 là KRW 1.220tn, tỷ lệ quỹ 10,5% và giả định chi trả sau thuế.
+* Nếu ngưỡng thưởng là lợi nhuận hoạt động DS hàng năm KRW 200tn, kế hoạch có thể được đọc là tín hiệu nội bộ rằng Samsung kỳ vọng chu kỳ bộ nhớ lợi nhuận cao kéo dài đến 2028.
+* Lượng mua cổ phiếu cho thưởng có thể hỗ trợ dòng tiền ngắn hạn, nhưng không nên được định giá như chương trình trả thưởng cổ đông theo kiểu hủy bỏ cổ phiếu.
 
 ### [Suy đoán]
 
-- Thiết kế trả thưởng bằng cổ phiếu có khả năng nhằm giữ chân nhân tài quan trọng cho HBM và gắn kết bồi thường với giá cổ phiếu Samsung.
-- Nếu phục hồi HBM4/HBM4E được xác nhận, Samsung có thể chứng kiến giao dịch thu hẹp chiết khấu so với SK Hynix.
+* Samsung nhiều khả năng chọn bồi thường bằng cổ phiếu để kết hợp giữ chân nhân tài HBM với cơ chế khuyến khích gắn với giá cổ phiếu.
+* Nếu quá trình chứng nhận và phục hồi năng suất HBM4/HBM4E được xác nhận, chi phí bồi thường có thể tạo ra ROI cao.
 
 ### [Chưa xác định]
 
-- Mẫu số chính xác của công thức thưởng đặc biệt không có sẵn từ thỏa thuận cuối cùng.
-- Cách diễn giải hàng năm hay lũy kế của điều kiện ₩200T vẫn chưa được giải quyết.
-- Không rõ liệu các ước tính consensus hiện tại đã bao gồm chi phí thưởng đặc biệt hay chưa.
-- Tốc độ mua lại hàng ngày và tỷ lệ bán ra của nhân viên sau thời gian khóa vẫn chưa được biết.
-
-[1]: https://www.reuters.com/business/world-at-work/samsung-elec-union-resume-pay-talks-one-day-ahead-strike-deadline-2026-05-20/ "Samsung union suspends planned strike after reaching tentative pay deal | Reuters"
-[2]: https://v.daum.net/v/20260527003355625 "Samsung Electronics to buy stock for stock-bonus program"
-[3]: https://www.jipyong.com/en/board/jipyongNews_post.php?seq=7526 "JIPYONG LLC"
-[4]: https://news.samsung.com/global/samsung-electronics-announces-first-quarter-2026-results "Samsung Electronics Announces First Quarter 2026 Results – Samsung Global Newsroom"
-[5]: https://news.samsungsemiconductor.com/global/samsung-unveils-hbm4e-showcasing-comprehensive-ai-solutions-nvidia-partnership-and-vision-at-nvidia-gtc-2026/ "Samsung Unveils HBM4E at NVIDIA GTC 2026 – Samsung Semiconductor Global Newsroom"
-[6]: https://www.trendforce.com/research/download/RP260204DA3 "HBM Industry Analysis - 1Q26 | TrendForce"
-[7]: https://www.samsung.com/global/ir/stock-information/shareholder-return/ "Shareholder Return │ Samsung Investor Relations"
-[8]: https://stock.mk.co.kr/price/home/KR7005930003 "Samsung Electronics (005930) - Maeil Business Newspaper"
-[9]: https://news.samsung.com/global/samsung-electronics-to-buy-back-krw-10-trillion-in-stock "Samsung Electronics to Buy Back KRW 10 Trillion in Stock – Samsung Global Newsroom"
-[10]: https://www.hani.co.kr/arti/economy/economy_general/1259878.html "Hankyoreh Q&A on Samsung Electronics' tentative agreement"
-[11]: https://www.reuters.com/business/world-at-work/samsung-electronics-shares-jump-after-tentative-wage-deal-suspends-strike-2026-05-21/ "Samsung shares soar as strike averted | Reuters"
+* Mẫu số chính xác của quỹ thưởng 10,5%.
+* Điều kiện KRW 200tn giai đoạn 2026–2028 là hàng năm hay lũy kế.
+* Tỷ lệ chi trả sau thuế 60% có chính xác hay không.
+* Lịch mua thực tế và tốc độ mua trên thị trường mỗi ngày.
+* Lịch khóa và bán cổ phiếu của nhân viên sau khi được chi trả.
 
 *Disclaimer: For research and information purposes only. Not investment advice. Names cited are for analytical illustration; readers should perform their own due diligence and consult licensed advisors before any investment decision.*

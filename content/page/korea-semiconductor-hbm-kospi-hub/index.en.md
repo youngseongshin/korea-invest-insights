@@ -5,7 +5,7 @@ date: 2026-04-30T23:05:00+09:00
 aliases: ["/hbm/", "/semiconductor/", "/samsung-hynix/", "/kospi-hbm/", "/en/hbm/", "/en/semiconductor/", "/en/samsung-hynix/", "/en/kospi-hbm/", "/en/page/korea-semiconductor-hbm-kospi-hub/", "/es/page/korea-semiconductor-hbm-kospi-hub/", "/vi/page/korea-semiconductor-hbm-kospi-hub/", "/fr/page/korea-semiconductor-hbm-kospi-hub/", "/ja/page/korea-semiconductor-hbm-kospi-hub/", "/zh/page/korea-semiconductor-hbm-kospi-hub/"]
 layout: "page"
 description: "AI HBM hub for Samsung Electronics, SK Hynix, HBM, AI memory and KOSPI concentration. Covers HBM market share, Samsung's KOSPI weight, Korean semiconductor exposure and the 2026 KOSPI re-rating thesis."
-lastmod: 2026-05-27T09:30:00+09:00
+lastmod: 2026-05-27T16:10:00+09:00
 ---
 
 ## One-Line Thesis
@@ -28,7 +28,7 @@ Korean semiconductor exposure is not one trade. It combines <strong>SK Hynix's H
 | What does Korea's global No. 6 market-cap headline mean for HBM? | It is not a buy button. It is a signal to verify Samsung + SK hynix AI-memory earnings durability and KOSPI concentration risk. | [Why Korea Part 5: Global No. 6 Market Cap](/post/why-korea-market-cap-global-six-ai-memory-rerating-2026-05-24/) |
 | Does foreign selling in Samsung and SK Hynix kill the HBM thesis? | Not by itself. Most 2026 foreign selling was concentrated in the two memory mega-caps, but domestic liquidity absorbed the supply. The discipline is to wait for foreign re-buying or ownership recovery before chasing. | [Korea Foreign Investor Flow Analysis](/post/korea-foreign-investor-flow-memory-megacap-rotation-2026-05-24/) |
 | Why is KOSPI foreign ownership high while Samsung and SK Hynix ownership is low? | KOSPI ownership is market-value weighted, so it can stay high after a price rally. Samsung and SK Hynix share-count ownership is already near 2026 lows, making the five-day foreign-selling speed the key timing signal. | [KOSPI ownership versus Samsung / SK Hynix](/post/korea-foreign-ownership-kospi-samsung-hynix-divergence-2026-05-26/) |
-| Is Samsung's DS stock-bonus buyback a shareholder-return program? | Not really. It can support near-term flow, but these are employee-compensation shares rather than cancelled stock. The real signal is the DS earnings target behind the HBM4/server-memory cycle. | [Samsung stock-bonus buyback analysis](/post/samsung-electronics-stock-bonus-supercycle-buyback-2026-05-27/) |
+| What is the real question behind Samsung's DS stock-bonus buyback? | Two questions matter: whether the KRW 200T condition refers to annual or cumulative DS operating profit, and whether the stock-bonus buyback lands closer to KRW 12.6T or KRW 80T. | [Samsung stock-bonus buyback analysis](/post/samsung-electronics-stock-bonus-supercycle-buyback-2026-05-27/) |
 | How can foreign investors access Korean AI memory stocks? | Start with the access map, then move from KOSPI heavyweights into HBM, equipment and substrate names. Broker availability depends on country and account type. | [Korea Stocks for Foreign Investors Hub](/page/korea-stocks-foreign-investors-hub/) |
 | Why is KOSPI being re-rated in 2026? | HBM earnings, governance reform and global allocation away from crowded US exposure are working together to compress Korea's discount. | [Korea 2026 Re-Rating](/post/korea-outperformance-2026-structural-rerating-2026-04-24/) |
 | Why did Samsung jump +14.4% and SK Hynix +10.6% on May 6? | ₩3.1T foreign net buying on Samsung in a single session, re-pricing "AI memory bottleneck at NVIDIA / TSMC discount." Spread to AI substrate (Daeduck +9.62%, Simmtech +6.35%) and front-end equipment (Wonik IPS, Eugene Tech, KC Tech). | [Korean Semis Rally May 6: Samsung + SK Hynix + Substrate + Equipment](/post/korean-semis-rally-may-6-samsung-sk-hynix-substrate-equipment-2026-05-07/) |
@@ -39,7 +39,7 @@ Korean semiconductor exposure is not one trade. It combines <strong>SK Hynix's H
 
 | Date | Topic | Read |
 |---|---|---|
-| 2026-05-27 | <strong>Samsung Electronics' DS stock-bonus buyback and the memory supercycle</strong> — reframing the ₩80T headline as employee compensation, forced-buying flow and a signal on HBM4/server DRAM earnings rather than a pure cancellation program | [Samsung stock-bonus buyback analysis](/post/samsung-electronics-stock-bonus-supercycle-buyback-2026-05-27/) |
+| 2026-05-27 | <strong>Did Samsung signal a memory supercycle through 2028?</strong> — reframing the DS stock-bonus issue around the annual-vs-cumulative KRW 200T condition and the possible KRW 12.6T-80T stock-buyback range | [Samsung stock-bonus buyback analysis](/post/samsung-electronics-stock-bonus-supercycle-buyback-2026-05-27/) |
 | 2026-05-26 | <strong>AI server passive-component bottlenecks below HBM</strong> — a non-engineer explainer for MLCCs, silicon capacitors and inductors as the power-integrity layer that lets GPU/HBM packages run reliably | [AI server passive-component bottleneck](/post/ai-server-passive-components-bottleneck-samsung-electro-mechanics-2026-05-26/) |
 | 2026-05-26 | <strong>KOSPI foreign ownership versus Samsung / SK Hynix ownership</strong> — KOSPI market-value foreign ownership remains high, but Samsung at 48.32% and SK Hynix at 51.62% are already near 2026 lows; the note lays out the stabilization triggers | [KOSPI ownership versus Samsung / SK Hynix](/post/korea-foreign-ownership-kospi-samsung-hynix-divergence-2026-05-26/) |
 | 2026-05-26 | <strong>SEMCO at KRW 100T and the power-integrity bottleneck below HBM</strong> — using Hyundai Motor and Murata as benchmarks to test whether silicon capacitors and FC-BGA are receiving their own AI multiple | [SEMCO at KRW 100T](/post/samsung-electro-mechanics-100tn-murata-hyundai-market-cap-2026-05-26/) |
@@ -69,7 +69,7 @@ Korean semiconductor exposure is not one trade. It combines <strong>SK Hynix's H
 | 6 | Is Korea's global No. 6 market-cap headline a buy signal? | [Why Korea Part 5: Global No. 6 Market Cap](/post/why-korea-market-cap-global-six-ai-memory-rerating-2026-05-24/) |
 | 7 | Is foreign selling a HBM thesis break or position reduction? | [Korea Foreign Investor Flow Analysis](/post/korea-foreign-investor-flow-memory-megacap-rotation-2026-05-24/) |
 | 8 | How much ownership-based foreign selling pressure remains? | [KOSPI ownership versus Samsung / SK Hynix](/post/korea-foreign-ownership-kospi-samsung-hynix-divergence-2026-05-26/) |
-| 9 | Is Samsung's stock-bonus plan a supercycle signal or future overhang? | [Samsung Electronics' Stock-Bonus Deal: Supercycle Signal or Future Overhang?](/post/samsung-electronics-stock-bonus-supercycle-buyback-2026-05-27/) |
+| 9 | Did Samsung signal a memory supercycle through 2028? | [Samsung stock-bonus formula analysis](/post/samsung-electronics-stock-bonus-supercycle-buyback-2026-05-27/) |
 
 ---
 
@@ -91,7 +91,7 @@ Korean semiconductor exposure is not one trade. It combines <strong>SK Hynix's H
 - [Why Korea Part 5: Korea's Stock Market Is Now Near Global No. 6](/post/why-korea-market-cap-global-six-ai-memory-rerating-2026-05-24/)
 - [Korea Foreign Investor Flows: 95% of the selling came from Samsung and SK hynix](/post/korea-foreign-investor-flow-memory-megacap-rotation-2026-05-24/)
 - [KOSPI foreign ownership is high, but Samsung and SK Hynix are at 2026 lows](/post/korea-foreign-ownership-kospi-samsung-hynix-divergence-2026-05-26/)
-- [Samsung Electronics' Stock-Bonus Deal: Supercycle Signal or Future Overhang?](/post/samsung-electronics-stock-bonus-supercycle-buyback-2026-05-27/)
+- [Did Samsung Signal a Memory Supercycle Through 2028? Reframing the DS Stock-Bonus Buyback](/post/samsung-electronics-stock-bonus-supercycle-buyback-2026-05-27/)
 - [Korea 2026: Why KOSPI +49% YTD Is a Re-Rating, Not a Rally](/post/korea-outperformance-2026-structural-rerating-2026-04-24/)
 - [KOSPI Focus Stocks: April 2026 Strategy](/post/kr-concentrated-weekly-2026-04-24/)
 
