@@ -5,7 +5,7 @@ date: 2026-05-07T00:40:00+09:00
 aliases: ["/ko/korea-stocks/", "/ko/korean-stocks/", "/ko/ibkr-korea-stocks/", "/ko/foreign-investors-korea/", "/ko/page/korea-stocks-foreign-investors-hub/"]
 layout: "page"
 description: "해외 투자자를 위한 한국 주식 허브. IBKR·해외 증권사 한국 주식 접근, KOSPI, KOSDAQ, 삼성전자, SK하이닉스, 펄어비스, 한국 금융주, AI 하드웨어, K-뷰티, 일간 시장 브리핑을 한곳에 정리한다."
-lastmod: 2026-05-26T10:30:00+09:00
+lastmod: 2026-05-27T14:40:00+09:00
 ---
 
 ## 한 줄 결론
@@ -28,6 +28,7 @@ lastmod: 2026-05-26T10:30:00+09:00
 | 해외 투자자가 먼저 볼 한국 AI 주식은 무엇인가요? | 삼성전자, SK하이닉스, HBM 체인을 먼저 보고, 이후 AI 기판, CCL, FC-BGA, 저유전율 소재로 확장하는 순서가 자연스럽다. | [삼성전자·SK하이닉스·HBM 허브](/ko/page/korea-semiconductor-hbm-kospi-hub/) |
 | 한국 중소형 AI 하드웨어 종목은 어디를 봐야 하나요? | AI 기판 생태계에는 삼성전기, 대덕전자, 두산전자BG, 코오롱인더, 파미셀 등이 포함된다. | [AI 기판·PCB 허브](/ko/page/korea-ai-pcb-substrate-hub/) |
 | 왜 한국 AI 기판주가 해외 투자자에게 중요한가요? | 한국에 기판 회사가 많은 이유는 단순 테마가 아니라 30년 제조·수율 축적이다. 이 구조를 이해해야 AI 기판 종목 비교가 의미를 갖는다. | [Why Korea 1편: 한국 반도체 기판 경쟁력](/ko/post/why-korea-semiconductor-substrate-competitive-edge-2026-05-07/) |
+| 한국 조선·SMR·데이터센터 전력 종목은 어디서 시작하나요? | HD현대중공업은 조선 본업과 엔진 실적 위에 TerraPower Natrium SMR 옵션이 붙은 대표 사례다. 다만 현재는 SMR보다 조선·엔진 실적과 기관 수급 리테스트가 먼저다. | [HD현대중공업 SMR 옵션 분석](/ko/post/hd-hyundai-heavy-industries-smr-terrapower-natrium-option-2026-05-27/) |
 | 한국 로봇·피지컬 AI 상장사는 어디서 시작하나요? | 삼성전자·현대차·LG의 로봇 전략을 보고, 감속기·액추에이터·카메라·배터리·조립 부품사로 내려가는 방식이 좋다. | [한국 휴머노이드 로봇 밸류체인 분석](/ko/post/korea-robotics-value-chain-complete-map-2026-05-11/) |
 | 해외 투자자가 검색하기 쉬운 한국 게임주는 무엇인가요? | 펄어비스는 크림슨 데저트·검은사막 케이스, 크래프톤은 PUBG·inZOI 케이스로 이해하기 쉽다. | [펄어비스 허브](/ko/page/pearl-abyss-crimson-desert-hub/) |
 | 밸류업과 해외 접근성 변화에서 볼 금융주는 무엇인가요? | KB금융, 신한지주, 하나금융지주, 메리츠금융지주, 키움증권, 한국금융지주, 증권주가 주주환원·유동성·외국인 접근성의 교차점에 있다. | [한국 금융주 허브](/ko/page/korean-financials-hub/) |
@@ -62,6 +63,7 @@ lastmod: 2026-05-26T10:30:00+09:00
 |---|---|---|
 | HBM과 AI 메모리 | 삼성전자, SK하이닉스 | 글로벌 AI capex가 한국 이익으로 연결되는 가장 큰 KOSPI 레이어다. |
 | AI 기판과 CCL | 삼성전기, 대덕전자, 두산, 코오롱인더, 파미셀 | GPU, CPU, NIC, 스위치 ASIC 확장의 2차 하드웨어 레이어다. |
+| 조선·방산·SMR·데이터센터 전력 | HD현대중공업, HD한국조선해양, 한화오션, 삼성중공업, 한화엔진, 현대건설 | AI 데이터센터 전력 부족, 미국 조선 협력, SMR 제조 공급망이 한국 heavy fabrication capacity를 다시 보게 만든다. |
 | 피지컬 AI와 로봇 | 레인보우로보틱스, 에스피지, 로보티즈, 삼성전기, LG이노텍, HL만도, 현대모비스 | 휴머노이드 완성 로봇보다 감속기·액추에이터·센서 부품에서 매출이 먼저 확인될 수 있다. |
 | 밸류업 금융주 | KB금융, 신한지주, 하나금융지주, 메리츠금융지주, 키움증권, 한국금융지주, 삼성증권 | 주주환원, 거래대금, 해외 접근성, 지배구조 개혁이 한 섹터에 모인다. |
 | 게임·콘텐츠 | 펄어비스, 크래프톤 | 글로벌 IP가 있어 해외 개인투자자가 단일 종목으로 이해하기 쉽다. |

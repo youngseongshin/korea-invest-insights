@@ -5,7 +5,7 @@ date: 2026-05-07T00:40:00+09:00
 aliases: ["/korea-stocks/", "/korean-stocks/", "/ibkr-korea-stocks/", "/foreign-investors-korea/", "/en/korea-stocks/", "/en/korean-stocks/", "/en/ibkr-korea-stocks/", "/en/page/korea-stocks-foreign-investors-hub/", "/es/page/korea-stocks-foreign-investors-hub/", "/vi/page/korea-stocks-foreign-investors-hub/", "/fr/page/korea-stocks-foreign-investors-hub/", "/ja/page/korea-stocks-foreign-investors-hub/", "/zh/page/korea-stocks-foreign-investors-hub/"]
 layout: "page"
 description: "A foreign-investor guide to Korean stocks: IBKR and international-broker access, KOSPI, KOSDAQ, Samsung Electronics, SK Hynix, Pearl Abyss, Korean financials, AI hardware, K-beauty and daily market research."
-lastmod: 2026-05-26T10:30:00+09:00
+lastmod: 2026-05-27T14:40:00+09:00
 ---
 
 ## One-Line Thesis
@@ -28,6 +28,7 @@ Foreign access to Korean equities is becoming less of a brokerage problem and mo
 | Which Korean AI stocks should a foreign investor study first? | Start with Samsung Electronics, SK Hynix and the HBM chain, then move into AI substrates, CCL, FC-BGA and low-dielectric materials. | [Samsung / SK Hynix / HBM Hub](/page/korea-semiconductor-hbm-kospi-hub/) |
 | Which Korean small-cap AI hardware names matter? | The AI substrate ecosystem includes Samsung Electro-Mechanics, Daeduck Electronics, Doosan Electronic BG, Kolon Industries and Pamicell. | [AI PCB and Substrate Hub](/page/korea-ai-pcb-substrate-hub/) |
 | Why do Korean AI substrate stocks matter to global investors? | Korea's substrate cluster is not just a theme. It reflects three decades of manufacturing, customer certification and yield learning. That structure is the base layer behind the stock map. | [Why Korea Part 1: Semiconductor Substrates](/post/why-korea-semiconductor-substrate-competitive-edge-2026-05-07/) |
+| Where should global investors start with Korean shipbuilding, SMR and data-center power? | HD Hyundai Heavy Industries is the cleanest case of shipbuilding earnings plus engine/data-center power plus TerraPower Natrium SMR optionality. For now, shipbuilding and engines matter more than SMR EPS. | [HD Hyundai Heavy Industries SMR Option](/post/hd-hyundai-heavy-industries-smr-terrapower-natrium-option-2026-05-27/) |
 | Where should foreign investors start with Korean robotics and physical AI stocks? | Start with Samsung, Hyundai and LG's robotics roadmaps, then follow the value chain down to reducers, actuators, cameras, batteries and assembly suppliers. | [Korea Humanoid Robot Value Chain](/post/korea-robotics-value-chain-complete-map-2026-05-11/) |
 | What are the Korean gaming names global investors search for? | Pearl Abyss is the main Crimson Desert / Black Desert case; Krafton is the PUBG and inZOI large-cap case. | [Pearl Abyss Hub](/page/pearl-abyss-crimson-desert-hub/) |
 | Which Korean financial stocks benefit from Value-Up and foreign access? | KB, Shinhan, Hana, Meritz, Kiwoom, Korea Investment Holdings and brokerages sit at the intersection of capital return, liquidity and foreign access. | [Korean Financials Hub](/page/korean-financials-hub/) |
@@ -62,6 +63,7 @@ Foreign access to Korean equities is becoming less of a brokerage problem and mo
 |---|---|---|
 | HBM and AI memory | Samsung Electronics, SK Hynix | The biggest KOSPI weights and the cleanest bridge from global AI capex to Korean earnings. |
 | AI substrates and CCL | Samsung Electro-Mechanics, Daeduck Electronics, Doosan, Kolon Industries, Pamicell | The second-order hardware layer behind GPUs, CPUs, NICs and switch ASICs. |
+| Shipbuilding, defense, SMR and data-center power | HD Hyundai Heavy Industries, HD Korea Shipbuilding, Hanwha Ocean, Samsung Heavy Industries, Hanwha Engine, Hyundai E&C | AI data-center power shortages, U.S. shipbuilding cooperation and SMR supply chains are pushing investors to revalue Korean heavy fabrication capacity. |
 | Physical AI and robotics | Rainbow Robotics, SPG, Robotis, Samsung Electro-Mechanics, LG Innotek, HL Mando, Hyundai Mobis | Robot revenue may appear first in reducers, actuators and sensors before pure humanoid makers scale. |
 | Korea Value-Up financials | KB Financial, Shinhan Financial, Hana Financial, Meritz Financial, Kiwoom Securities, Korea Investment Holdings, Samsung Securities | Capital return, brokerage volume, foreign access and governance reform meet in one sector. |
 | Gaming and content | Pearl Abyss, Krafton | Globally recognizable IP gives foreign retail investors a natural single-stock entry point. |

@@ -5,7 +5,7 @@ date: 2026-05-03T11:00:00+09:00
 aliases: ["/ko/korea-daily/", "/ko/kospi/", "/ko/kosdaq/", "/ko/page/korea-daily-market-hub/"]
 layout: "page"
 description: "한국 주식시장 일일 업데이트 허브 — KOSPI / KOSDAQ 장마감 브리핑, 주간 집중 픽, 외국인·기관 수급, 섹터 로테이션, 그리고 매 세션 한국 주식에서 실제로 무엇이 움직이는지. '오늘 한국 주식시장은 어떤가요?' 같은 질문의 직접 답."
-lastmod: 2026-05-26T23:45:50+09:00
+lastmod: 2026-05-27T14:40:00+09:00
 ---
 
 ## 이 허브가 답하는 질문
@@ -23,6 +23,7 @@ lastmod: 2026-05-26T23:45:50+09:00
 | 국민성장펀드는 KOSDAQ에 어떤 의미인가요? | 지수 전체 매수보다 Pre-IPO, 코스닥 상장초기기업, AI·반도체·OLED·전력 인프라 병목에 자금을 붙이는 구조로 봐야 합니다. | [국민성장펀드와 코스닥 스마트머니](/ko/post/national-growth-fund-kosdaq-smart-money-policy-bottlenecks-2026-05-24/) |
 | 한국 증시 시총 세계 6위는 매수 신호인가요? | 아니다. 세계 6위 헤드라인은 후행지표이며, 삼성전자·SK하이닉스 AI 메모리 이익 지속성과 수급 확산을 확인해야 한다. | [Why Korea 5편: 한국 시총 세계 6위](/ko/post/why-korea-market-cap-global-six-ai-memory-rerating-2026-05-24/) |
 | KII의 투자 테시스는 실제 성과가 있었나요? | 207개 한국어 글과 593개 종목 연결 pair를 점검한 결과, AI 인프라·반도체·스마트머니 축은 강했고 게임·바이오·K-뷰티·상장 VC는 편차가 컸다. | [투자 테시스 중간점검](/ko/post/kii-investment-thesis-performance-mid-review-2026-05-26/) |
+| HD현대중공업 SMR 뉴스는 매수 신호인가요? | TerraPower Natrium RES preferred manufacturer 지위는 실체 있는 장기 옵션이다. 다만 현재 숫자는 조선·엔진이 만들고, SMR은 2030년대 멀티플 옵션에 가깝다. | [HD현대중공업 SMR 옵션 분석](/ko/post/hd-hyundai-heavy-industries-smr-terrapower-natrium-option-2026-05-27/) |
 | 해외 투자자가 IBKR 같은 글로벌 증권사로 한국 주식을 살 수 있나요? | 옴니버스 계좌 제도 개선과 해외 증권사 제휴로 KRX 상장주 접근 경로가 열리고 있다. 다만 실제 이용 가능 여부는 증권사, 거주 국가, 거래 가능 종목에 따라 달라진다. | [해외 투자자용 한국 주식 허브](/ko/page/korea-stocks-foreign-investors-hub/) |
 | 2026년 한국 시장은 글로벌 대비 강한가요? | 2026년 초 KOSPI / KOSDAQ 모두 구조적 재평가 흐름. Value-Up, 외국인 로테이션, AI 인프라 사이클이 3대 동력. | [한국 시장 2026 아웃퍼포먼스](/ko/post/korea-outperformance-2026-structural-rerating-2026-04-24/) |
 
@@ -87,6 +88,7 @@ lastmod: 2026-05-26T23:45:50+09:00
 | 외국인 수급 / 메모리 대형주 분배 | [한국증시 외국인 수급 분석](/ko/post/korea-foreign-investor-flow-memory-megacap-rotation-2026-05-24/) |
 | 외국인 지분율 / KOSPI 수급 진정 조건 | [KOSPI 외국인 지분율 vs 삼성전자·SK하이닉스](/ko/post/korea-foreign-ownership-kospi-samsung-hynix-divergence-2026-05-26/) |
 | 리서치 프로세스 / 테시스 성과 점검 | [KII 투자 테시스 중간점검](/ko/post/kii-investment-thesis-performance-mid-review-2026-05-26/) |
+| 조선 / 방산 / SMR / 데이터센터 전력 | [HD현대중공업 SMR 옵션 분석](/ko/post/hd-hyundai-heavy-industries-smr-terrapower-natrium-option-2026-05-27/) |
 | AI 기판 / FC-BGA / CCL | [AI 기판·PCB 허브](/ko/page/korea-ai-pcb-substrate-hub/) |
 | 올리브영 + 파마리서치 + K-뷰티 | [K-뷰티 허브](/ko/page/k-beauty-olive-young-pharmaresearch-hub/) |
 | 한국 AI / Sovereign AI | [한국 AI 기업 허브](/ko/page/korean-ai-companies-hub/) |
