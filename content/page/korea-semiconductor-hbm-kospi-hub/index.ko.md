@@ -5,7 +5,7 @@ date: 2026-04-30T23:05:00+09:00
 aliases: ["/ko/hbm/", "/ko/semiconductor/", "/ko/samsung-hynix/", "/ko/kospi-hbm/", "/ko/page/hbm/"]
 layout: "page"
 description: "AI HBM 허브. 삼성전자, SK하이닉스, HBM, AI 메모리, 코스피 지수 쏠림과 한국 반도체 투자 논거를 한곳에 모은 리서치 허브. HBM 시장점유율, 삼성전자 코스피 비중, KOSPI 리레이팅, AI 서버 수요를 순서대로 정리한다."
-lastmod: 2026-05-27T16:10:00+09:00
+lastmod: 2026-05-27T16:25:00+09:00
 ---
 
 ## 한 줄 결론
@@ -29,6 +29,7 @@ lastmod: 2026-05-27T16:10:00+09:00
 | 한국 증시 시총 세계 6위는 HBM 투자에 어떤 의미인가 | 세계 6위 헤드라인은 매수 신호가 아니라 삼성전자·SK하이닉스 AI 메모리 이익 지속성과 KOSPI 집중도를 검증하라는 신호다. | [Why Korea 5편: 한국 시총 세계 6위](/ko/post/why-korea-market-cap-global-six-ai-memory-rerating-2026-05-24/) |
 | 외국인이 삼성전자·SK하이닉스를 팔고 있다면 HBM 투자는 끝났나 | 아니다. 2026년 외국인 순매도 대부분은 두 메모리 대형주 비중 축소지만, 가격은 국내 유동성이 흡수했다. 추격보다 외국인 재매수·지분율 회복을 확인해야 한다. | [한국증시 외국인 수급 분석](/ko/post/korea-foreign-investor-flow-memory-megacap-rotation-2026-05-24/) |
 | KOSPI 외국인 보유비중은 높은데 삼성전자·하이닉스 지분율은 낮다는 건 무슨 뜻인가 | KOSPI 보유비중은 평가금액 기준이라 높게 보이지만, 삼성전자·SK하이닉스의 주식 수 기준 외국인 지분율은 이미 연중 최저권이다. 이제 HBM 매수 타이밍은 5일 평균 순매도 둔화로 판단해야 한다. | [KOSPI 외국인 지분율 vs 삼성전자·SK하이닉스](/ko/post/korea-foreign-ownership-kospi-samsung-hynix-divergence-2026-05-26/) |
+| KOSPI는 강한데 왜 반도체 2선 후보만 봐야 하나 | 전체 20일 ADR이 67.3까지 내려와 넓은 장이 아니라 좁은 주도주 장세이기 때문이다. HBM 대장주 추격보다 HPSP, SFA반도체, 하나마이크론 같은 2선 확산 후보의 거래대금과 수급을 봐야 한다. | [한국 ADR 67과 좁은 주도주 장세](/ko/post/korea-adr-breadth-narrow-leadership-kospi-kosdaq-2026-05-27/) |
 | 삼성전자 특별성과급 자사주 이슈의 핵심은 무엇인가 | 핵심은 두 가지다. 200조원 조건이 연간 DS 영업이익인지 누적인지, 그리고 특별상여금용 자사주 매입 규모가 12.6조~80조원 범위 중 어디에 위치하는지다. | [삼성전자 특별성과급 자사주 분석](/ko/post/samsung-electronics-stock-bonus-supercycle-buyback-2026-05-27/) |
 | 해외 투자자는 한국 AI 메모리 주식에 어떻게 접근하나요 | 먼저 해외 투자자 접근 지도를 확인하고, KOSPI 대형주에서 HBM·장비·기판 종목으로 확장하는 순서가 좋다. 실제 매매 가능 여부는 국가와 계좌 유형에 따라 다르다. | [해외 투자자용 한국 주식 허브](/ko/page/korea-stocks-foreign-investors-hub/) |
 | KOSPI 2026 리레이팅의 핵심 동력은 무엇인가 | HBM 슈퍼사이클, 지배구조 개혁, Sell America 로테이션이 동시에 작동하면서 한국 시장의 할인율이 낮아지는 구조다. | [2026년 한국 리레이팅](/ko/post/korea-outperformance-2026-structural-rerating-2026-04-24/) |
@@ -40,6 +41,7 @@ lastmod: 2026-05-27T16:10:00+09:00
 
 | 날짜 | 주제 | 자세히 보기 |
 |---|---|---|
+| 2026-05-27 | <strong>한국 ADR 67과 좁은 주도주 장세</strong> — KOSPI·KOSDAQ 모두 20일 ADR이 60대로 내려오며 평균 종목은 약하지만, AI 인프라·후공정·기판·조선/방산 일부로 돈이 압축되는 구조를 점검 | [한국 ADR 67과 KOSPI·KOSDAQ 브레드스 분석](/ko/post/korea-adr-breadth-narrow-leadership-kospi-kosdaq-2026-05-27/) |
 | 2026-05-27 | <strong>삼성전자는 2028년까지 메모리 슈퍼사이클을 인정한 것인가</strong> — 특별성과급 200조원 조건의 연간/누적 해석 차이와 자사주 추가 매입 규모 12.6조~80조원 범위를 중심으로 재구성 | [삼성전자 특별성과급 자사주 분석](/ko/post/samsung-electronics-stock-bonus-supercycle-buyback-2026-05-27/) |
 | 2026-05-26 | <strong>AI 서버 수동소자 병목과 HBM 아래 전력무결성</strong> — GPU/HBM이 먹는 순간 전력을 안정화하는 MLCC·실리콘 커패시터·인덕터를 비전공자용으로 설명하고 삼성전기 리레이팅의 기술적 전제를 정리 | [AI 서버 수동소자 병목: 삼성전기 기술 설명](/ko/post/ai-server-passive-components-bottleneck-samsung-electro-mechanics-2026-05-26/) |
 | 2026-05-26 | <strong>KOSPI 외국인 보유비중과 삼성전자·SK하이닉스 지분율의 괴리</strong> — KOSPI 시총가중 외국인 비중은 38.5%대지만, 삼성전자 48.32%, SK하이닉스 51.62%로 연중 최저권이라는 점을 분해하고 매도 진정 조건을 정리 | [KOSPI 외국인 지분율 vs 삼성전자·SK하이닉스](/ko/post/korea-foreign-ownership-kospi-samsung-hynix-divergence-2026-05-26/) |
@@ -95,6 +97,7 @@ lastmod: 2026-05-27T16:10:00+09:00
 - [Why Korea 5편: 한국 증시 시총 세계 6위 — 4.9조 달러 리레이팅은 매수 신호인가, 경고등인가](/ko/post/why-korea-market-cap-global-six-ai-memory-rerating-2026-05-24/)
 - [한국증시 외국인 수급 분석: -89조원 매도의 95%는 삼성전자·SK하이닉스였다](/ko/post/korea-foreign-investor-flow-memory-megacap-rotation-2026-05-24/)
 - [KOSPI 외국인 지분율은 높은데, 삼성전자·SK하이닉스는 연중 최저다](/ko/post/korea-foreign-ownership-kospi-samsung-hynix-divergence-2026-05-26/)
+- [한국 ADR 67: 지수는 버티는데 왜 종목은 약한가](/ko/post/korea-adr-breadth-narrow-leadership-kospi-kosdaq-2026-05-27/)
 - [삼성전자는 2028년까지 메모리 슈퍼사이클을 인정한 것인가: 특별성과급 자사주 산식 재구성](/ko/post/samsung-electronics-stock-bonus-supercycle-buyback-2026-05-27/)
 - [2026년 한국 리레이팅: KOSPI +49%는 단순 랠리가 아니다](/ko/post/korea-outperformance-2026-structural-rerating-2026-04-24/)
 - [KOSPI Focus Stocks: April 2026 Strategy](/ko/post/kr-concentrated-weekly-2026-04-24/)

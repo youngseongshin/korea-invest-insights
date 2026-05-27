@@ -5,7 +5,7 @@ date: 2026-05-03T11:00:00+09:00
 aliases: ["/ko/korea-daily/", "/ko/kospi/", "/ko/kosdaq/", "/ko/page/korea-daily-market-hub/"]
 layout: "page"
 description: "한국 주식시장 일일 업데이트 허브 — KOSPI / KOSDAQ 장마감 브리핑, 주간 집중 픽, 외국인·기관 수급, 섹터 로테이션, 그리고 매 세션 한국 주식에서 실제로 무엇이 움직이는지. '오늘 한국 주식시장은 어떤가요?' 같은 질문의 직접 답."
-lastmod: 2026-05-27T14:40:00+09:00
+lastmod: 2026-05-27T16:25:00+09:00
 ---
 
 ## 이 허브가 답하는 질문
@@ -15,6 +15,7 @@ lastmod: 2026-05-27T14:40:00+09:00
 | 검색 질문 | 빠른 답 | 읽을 글 |
 |---|---|---|
 | 오늘 한국 주식시장은 어떤가요? | 가장 최근 Korea Daily Wrap이 그날의 시장 국면, 섹터 로테이션, 외국인 수급, 핵심 공시를 정리합니다. | [최근 데일리 랩](/ko/post/kr-daily-wrap-2026-05-26/) |
+| 지수는 버티는데 왜 체감 장세는 약한가요? | 20일 ADR이 전체 67.3, KOSPI 68.5, KOSDAQ 66.7까지 내려와 평균 종목은 약하고 AI 인프라·조선·방산 일부만 살아 있는 좁은 주도주 장세이기 때문이다. | [한국 ADR 67과 좁은 주도주 장세](/ko/post/korea-adr-breadth-narrow-leadership-kospi-kosdaq-2026-05-27/) |
 | 이번 주 한국 집중 매수 픽은? | 매주 금요일 저녁(KST) 공개되는 Weekly Concentrated 시리즈가 3-5개 고확신 아이디어를 제시합니다. | [최근 주간 집중 전략](/ko/post/kr-concentrated-weekly-2026-04-24/) |
 | 외국인이 한국 주식을 사고 있나요, 팔고 있나요? | 2026년 외국인 순매도는 한국 전체 이탈이라기보다 삼성전자·SK하이닉스 메모리 대형주 분배가 핵심이다. | [한국증시 외국인 수급 분석](/ko/post/korea-foreign-investor-flow-memory-megacap-rotation-2026-05-24/) |
 | 외국인 매도 압력은 지분율 기준으로 얼마나 남았나요? | KOSPI 시총가중 외국인 보유비중은 높은 편이지만 삼성전자·SK하이닉스 지분율은 연중 최저권이다. 이제는 지분율 레벨보다 5일 평균 순매도 속도를 봐야 한다. | [KOSPI 외국인 지분율 vs 삼성전자·SK하이닉스](/ko/post/korea-foreign-ownership-kospi-samsung-hynix-divergence-2026-05-26/) |
@@ -45,6 +46,7 @@ lastmod: 2026-05-27T14:40:00+09:00
 | 8 | 외국인 수급은 한국 이탈인가, 메모리 분배인가? | [한국증시 외국인 수급 분석](/ko/post/korea-foreign-investor-flow-memory-megacap-rotation-2026-05-24/) |
 | 9 | 외국인 지분율 기준으로 매도 압력은 끝났나? | [KOSPI 외국인 지분율 vs 삼성전자·SK하이닉스](/ko/post/korea-foreign-ownership-kospi-samsung-hynix-divergence-2026-05-26/) |
 | 10 | 이 사이트의 투자 테시스는 어디서 맞고 틀렸나? | [KII 투자 테시스 중간점검](/ko/post/kii-investment-thesis-performance-mid-review-2026-05-26/) |
+| 11 | 지수와 평균 종목의 괴리는 어떻게 봐야 하나? | [한국 ADR 67: 지수는 버티는데 왜 종목은 약한가](/ko/post/korea-adr-breadth-narrow-leadership-kospi-kosdaq-2026-05-27/) |
 
 ---
 
@@ -52,6 +54,7 @@ lastmod: 2026-05-27T14:40:00+09:00
 
 | 날짜 | 주제 | 읽을 글 |
 |---|---|---|
+| 2026-05-27 | 한국 ADR 67: 지수는 버티는데 종목은 약한 이유 — KOSPI·KOSDAQ 모두 넓은 위험 선호장이 아니라 AI 인프라·후공정·조선/방산 일부로 돈이 압축된 좁은 주도주 장세 | [한국 ADR과 좁은 주도주 장세](/ko/post/korea-adr-breadth-narrow-leadership-kospi-kosdaq-2026-05-27/) |
 | 2026-05-26 | 한국 퀄리티 리레이팅 워치 2026-05-26: 기가비스·브이엠·마이크로컨텍솔 — 퀄리티 위에 수급이 붙는 기업들 | [데일리 랩 2026-05-26](/ko/post/kr-daily-wrap-2026-05-26/) |
 | 2026-05-25 | 한국 퀄리티 리레이팅 워치 2026-05-25: 브이엠·마이크로컨텍솔·RFHIC — 수급 붙은 소부장 재평가 | [데일리 랩 2026-05-25](/ko/post/kr-daily-wrap-2026-05-25/) |
 | 2026-05-22 | 한국 퀄리티 리레이팅 워치 2026-05-22: 샘씨엔에스·브이엠·티엘비 — 5개 스크리너 동시 통과 | [데일리 랩 2026-05-22](/ko/post/kr-daily-wrap-2026-05-22/) |
@@ -87,6 +90,7 @@ lastmod: 2026-05-27T14:40:00+09:00
 | 한국 시총 세계 6위 / Why Korea | [Why Korea 5편: 한국 시총 세계 6위](/ko/post/why-korea-market-cap-global-six-ai-memory-rerating-2026-05-24/) |
 | 외국인 수급 / 메모리 대형주 분배 | [한국증시 외국인 수급 분석](/ko/post/korea-foreign-investor-flow-memory-megacap-rotation-2026-05-24/) |
 | 외국인 지분율 / KOSPI 수급 진정 조건 | [KOSPI 외국인 지분율 vs 삼성전자·SK하이닉스](/ko/post/korea-foreign-ownership-kospi-samsung-hynix-divergence-2026-05-26/) |
+| ADR / 시장 브레드스 / 좁은 주도주 장세 | [한국 ADR 67과 KOSPI·KOSDAQ 브레드스 분석](/ko/post/korea-adr-breadth-narrow-leadership-kospi-kosdaq-2026-05-27/) |
 | 리서치 프로세스 / 테시스 성과 점검 | [KII 투자 테시스 중간점검](/ko/post/kii-investment-thesis-performance-mid-review-2026-05-26/) |
 | 조선 / 방산 / SMR / 데이터센터 전력 | [HD현대중공업 SMR 옵션 분석](/ko/post/hd-hyundai-heavy-industries-smr-terrapower-natrium-option-2026-05-27/) |
 | AI 기판 / FC-BGA / CCL | [AI 기판·PCB 허브](/ko/page/korea-ai-pcb-substrate-hub/) |

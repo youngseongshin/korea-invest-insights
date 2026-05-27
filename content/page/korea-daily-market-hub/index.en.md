@@ -5,7 +5,7 @@ date: 2026-05-03T11:00:00+09:00
 aliases: ["/korea-daily/", "/kospi/", "/kosdaq/", "/en/korea-daily/", "/en/page/korea-daily-market-hub/", "/es/page/korea-daily-market-hub/", "/vi/page/korea-daily-market-hub/", "/fr/page/korea-daily-market-hub/", "/ja/page/korea-daily-market-hub/", "/zh/page/korea-daily-market-hub/"]
 layout: "page"
 description: "A hub for Korean stock market daily updates — KOSPI and KOSDAQ market closes, weekly concentrated picks, foreign-investor flows, sector rotation, and what's actually moving in Korean equities each session. Direct answers to 'What is the Korean stock market doing today?' and similar queries."
-lastmod: 2026-05-27T14:40:00+09:00
+lastmod: 2026-05-27T16:25:00+09:00
 ---
 
 ## What This Hub Answers
@@ -15,6 +15,7 @@ Direct, search-engine-friendly answers to the questions global investors ask abo
 | Search Question | Quick Answer | Read |
 |---|---|---|
 | What is the Korean stock market doing today? | The most recent Korea Daily Wrap covers the day's regime, sector rotation, foreign flows, and key disclosures. | [Latest Korea Daily Wrap](/post/kr-daily-wrap-2026-05-26/) |
+| Why does the index hold while the average stock feels weak? | Korea's 20-day ADR is down to 67.3, with KOSPI at 68.5 and KOSDAQ at 66.7. This is narrow leadership, not broad risk-on: money is compressed into AI infrastructure, back-end semis, substrates, shipbuilding and defense. | [Korea ADR at 67 and narrow leadership](/post/korea-adr-breadth-narrow-leadership-kospi-kosdaq-2026-05-27/) |
 | What are this week's top Korean concentrated picks? | The Weekly Concentrated Strategy publishes Friday evening (KST) with 3–5 deep-dive picks. | [Latest Weekly Concentrated](/post/kr-concentrated-weekly-2026-04-24/) |
 | Are foreigners buying or selling Korean stocks? | The 2026 outflow is less a broad Korea exit and more a Samsung Electronics + SK Hynix AI-memory mega-cap distribution. | [Korea Foreign Investor Flow Analysis](/post/korea-foreign-investor-flow-memory-megacap-rotation-2026-05-24/) |
 | How much foreign-selling pressure is left by ownership? | KOSPI market-value foreign ownership remains high, but Samsung and SK Hynix share-count ownership is already near 2026 lows. The next signal is the five-day foreign-selling speed. | [KOSPI ownership versus Samsung / SK Hynix](/post/korea-foreign-ownership-kospi-samsung-hynix-divergence-2026-05-26/) |
@@ -45,6 +46,7 @@ Sequential reading for someone new to Korean equities — what to read in order 
 | 8 | Are foreigners leaving Korea, or just reducing memory mega-caps? | [Korea Foreign Investor Flow Analysis](/post/korea-foreign-investor-flow-memory-megacap-rotation-2026-05-24/) |
 | 9 | Is foreign selling exhausted by ownership levels? | [KOSPI ownership versus Samsung / SK Hynix](/post/korea-foreign-ownership-kospi-samsung-hynix-divergence-2026-05-26/) |
 | 10 | Where have this site's theses worked or failed? | [KII Thesis Performance Review](/post/kii-investment-thesis-performance-mid-review-2026-05-26/) |
+| 11 | How should investors read the gap between the index and the average stock? | [Korea ADR at 67: Why the Index Can Hold While Most Stocks Are Weak](/post/korea-adr-breadth-narrow-leadership-kospi-kosdaq-2026-05-27/) |
 
 ---
 
@@ -52,6 +54,7 @@ Sequential reading for someone new to Korean equities — what to read in order 
 
 | Date | Theme | Read |
 |---|---|---|
+| 2026-05-27 | Korea ADR at 67: why the index can hold while most stocks are weak — KOSPI and KOSDAQ are not in broad risk-on; money is compressed into AI infrastructure, back-end semis, substrates, shipbuilding and defense | [Korea ADR and narrow leadership](/post/korea-adr-breadth-narrow-leadership-kospi-kosdaq-2026-05-27/) |
 | 2026-05-26 | Korea Quality Re-Rating Watch 2026-05-26: GigaVis, VM, Micro Contact Sol — Triple-Screen Compounders Lead the Bull | [Korea Daily Wrap 2026-05-26](/post/kr-daily-wrap-2026-05-26/) |
 | 2026-05-25 | Korea Quality Re-Rating Watch 2026-05-25: VM, RFHIC and MicroContact Sol | [Korea Daily Wrap 2026-05-25](/post/kr-daily-wrap-2026-05-25/) |
 | 2026-05-22 | Korea Quality Re-Rating Watch 2026-05-22: VM, SamC&S and TLB — Five-Screener Clean Sweep | [Korea Daily Wrap 2026-05-22](/post/kr-daily-wrap-2026-05-22/) |
@@ -87,6 +90,7 @@ The Friday-evening "concentrated" series picks 3–5 highest-conviction Korean e
 | Korea global No. 6 market cap / Why Korea | [Why Korea Part 5: Global No. 6 Market Cap](/post/why-korea-market-cap-global-six-ai-memory-rerating-2026-05-24/) |
 | Foreign flows / memory mega-cap distribution | [Korea Foreign Investor Flow Analysis](/post/korea-foreign-investor-flow-memory-megacap-rotation-2026-05-24/) |
 | Foreign ownership / KOSPI stabilization triggers | [KOSPI ownership versus Samsung / SK Hynix](/post/korea-foreign-ownership-kospi-samsung-hynix-divergence-2026-05-26/) |
+| ADR / market breadth / narrow leadership | [Korea ADR at 67 and KOSPI-KOSDAQ breadth analysis](/post/korea-adr-breadth-narrow-leadership-kospi-kosdaq-2026-05-27/) |
 | Research process / thesis performance review | [KII Thesis Performance Review](/post/kii-investment-thesis-performance-mid-review-2026-05-26/) |
 | Shipbuilding / defense / SMR / data-center power | [HD Hyundai Heavy Industries SMR Option](/post/hd-hyundai-heavy-industries-smr-terrapower-natrium-option-2026-05-27/) |
 | AI substrates / FC-BGA / CCL | [AI PCB and Substrate Hub](/page/korea-ai-pcb-substrate-hub/) |
