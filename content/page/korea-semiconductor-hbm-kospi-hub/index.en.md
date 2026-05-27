@@ -5,7 +5,7 @@ date: 2026-04-30T23:05:00+09:00
 aliases: ["/hbm/", "/semiconductor/", "/samsung-hynix/", "/kospi-hbm/", "/en/hbm/", "/en/semiconductor/", "/en/samsung-hynix/", "/en/kospi-hbm/", "/en/page/korea-semiconductor-hbm-kospi-hub/", "/es/page/korea-semiconductor-hbm-kospi-hub/", "/vi/page/korea-semiconductor-hbm-kospi-hub/", "/fr/page/korea-semiconductor-hbm-kospi-hub/", "/ja/page/korea-semiconductor-hbm-kospi-hub/", "/zh/page/korea-semiconductor-hbm-kospi-hub/"]
 layout: "page"
 description: "AI HBM hub for Samsung Electronics, SK Hynix, HBM, AI memory and KOSPI concentration. Covers HBM market share, Samsung's KOSPI weight, Korean semiconductor exposure and the 2026 KOSPI re-rating thesis."
-lastmod: 2026-05-27T16:25:00+09:00
+lastmod: 2026-05-28T10:20:00+09:00
 ---
 
 ## One-Line Thesis
@@ -23,6 +23,7 @@ Korean semiconductor exposure is not one trade. It combines <strong>SK Hynix's H
 | Samsung or SK Hynix: which is cleaner HBM exposure? | SK Hynix is the cleaner public HBM exposure. Samsung is a broader semiconductor and electronics compounder with HBM recovery, DDR5/eSSD, foundry and device exposure. | [SK Hynix Deep Dive](/post/kr-deep-dive-sk-hynix-2026-04-16/) · [Samsung Electronics Deep Dive](/post/kr-deep-dive-samsung-electronics-2026-04-16/) |
 | Why is HBM a bottleneck from a chip-design perspective? | AI performance is less about headline FLOPS and more about how close data sits to compute. HBM is the common memory bottleneck for GPUs and custom ASICs, and it pulls FC-BGA, PCBs and power-integrity parts into the same thesis. | [AI chip design and the data-movement bottleneck](/post/ai-chip-design-data-movement-fcbga-bottleneck-2026-05-24/) |
 | What do Marvell and Broadcom earnings mean for HBM? | If custom AI chips and AI Ethernet networking stay strong, HBM demand broadens beyond Nvidia GPUs into Broadcom XPUs, Google TPUs, OpenAI accelerators and Marvell custom silicon. | [Marvell and Broadcom earnings preview for Korea's AI bottlenecks](/post/marvell-broadcom-earnings-korea-ai-bottleneck-preview-2026-05-23/) |
+| What does Marvell Q1 FY2027 mean for Korean semiconductors? | The key is not a simple HBM-only trade. Custom XPU, optical interconnect and scale-up networking push the bottleneck into FCBGA, MLCC, silicon capacitors and test sockets. | [Marvell Q1 FY2027 and Korean semiconductors](/post/marvell-q1-fy2027-korea-semiconductor-readthrough-2026-05-28/) |
 | How does SEMCO's KRW 100T market cap connect to the HBM thesis? | As HBM packages grow, power integrity and FC-BGA become parallel bottlenecks. SEMCO at KRW 100T is a signal that the market is starting to price the layer below HBM, not just HBM itself. | [SEMCO at KRW 100T](/post/samsung-electro-mechanics-100tn-murata-hyundai-market-cap-2026-05-26/) |
 | How do AI server passive components connect to HBM? | Larger GPU/HBM packages create bigger transient power swings. MLCCs, silicon capacitors and inductors become the power-integrity layer that lets HBM and GPU packages run reliably. | [AI server passive-component bottleneck](/post/ai-server-passive-components-bottleneck-samsung-electro-mechanics-2026-05-26/) |
 | What does Korea's global No. 6 market-cap headline mean for HBM? | It is not a buy button. It is a signal to verify Samsung + SK hynix AI-memory earnings durability and KOSPI concentration risk. | [Why Korea Part 5: Global No. 6 Market Cap](/post/why-korea-market-cap-global-six-ai-memory-rerating-2026-05-24/) |
@@ -40,6 +41,7 @@ Korean semiconductor exposure is not one trade. It combines <strong>SK Hynix's H
 
 | Date | Topic | Read |
 |---|---|---|
+| 2026-05-28 | <strong>Marvell Q1 FY2027 and Korea semiconductor read-through</strong> — Q1 revenue $2.418B, Q2 guide $2.70B ±5%, custom XPU / optical / scale-up networking strength translated into SEMCO FCBGA / MLCC / SiCap, Samsung / SK Hynix memory and test sockets | [Marvell Q1 FY2027 and Korean semiconductors](/post/marvell-q1-fy2027-korea-semiconductor-readthrough-2026-05-28/) |
 | 2026-05-27 | <strong>Korea ADR at 67 and narrow leadership</strong> — KOSPI and KOSDAQ 20-day ADRs have both fallen into the 60s; the average stock is weak while money is compressed into AI infrastructure, back-end semis, substrates, shipbuilding and defense | [Korea ADR at 67 and KOSPI-KOSDAQ breadth analysis](/post/korea-adr-breadth-narrow-leadership-kospi-kosdaq-2026-05-27/) |
 | 2026-05-27 | <strong>Did Samsung signal a memory supercycle through 2028?</strong> — reframing the DS stock-bonus issue around the annual-vs-cumulative KRW 200T condition and the possible KRW 12.6T-80T stock-buyback range | [Samsung stock-bonus buyback analysis](/post/samsung-electronics-stock-bonus-supercycle-buyback-2026-05-27/) |
 | 2026-05-26 | <strong>AI server passive-component bottlenecks below HBM</strong> — a non-engineer explainer for MLCCs, silicon capacitors and inductors as the power-integrity layer that lets GPU/HBM packages run reliably | [AI server passive-component bottleneck](/post/ai-server-passive-components-bottleneck-samsung-electro-mechanics-2026-05-26/) |
@@ -83,6 +85,7 @@ Korean semiconductor exposure is not one trade. It combines <strong>SK Hynix's H
 - [AI server passive-component bottleneck: why tiny power-stability parts now matter](/post/ai-server-passive-components-bottleneck-samsung-electro-mechanics-2026-05-26/)
 - [SEMCO at KRW 100T: Can It Overtake Murata and Hyundai Motor?](/post/samsung-electro-mechanics-100tn-murata-hyundai-market-cap-2026-05-26/)
 - [Marvell and Broadcom earnings preview: from single HBM bet to AI ASIC, networking and power-delivery bottlenecks](/post/marvell-broadcom-earnings-korea-ai-bottleneck-preview-2026-05-23/)
+- [Marvell Q1 FY2027 and Korean semiconductors: connectivity, substrates and power integrity beyond HBM](/post/marvell-q1-fy2027-korea-semiconductor-readthrough-2026-05-28/)
 - [SK Hynix HBM Market Share 2026: AI Memory Investor Guide](/post/sk-hynix-hbm-market-share-ai-memory-demand-2026/)
 - [SK Hynix: The HBM Leader Powering the AI Revolution](/post/kr-deep-dive-sk-hynix-2026-04-16/)
 - [Samsung Electronics 2026: AI, HBM and Foundry Deep Dive](/post/kr-deep-dive-samsung-electronics-2026-04-16/)
