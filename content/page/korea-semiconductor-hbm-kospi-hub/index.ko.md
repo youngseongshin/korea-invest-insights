@@ -5,7 +5,7 @@ date: 2026-04-30T23:05:00+09:00
 aliases: ["/ko/hbm/", "/ko/semiconductor/", "/ko/samsung-hynix/", "/ko/kospi-hbm/", "/ko/page/hbm/"]
 layout: "page"
 description: "AI HBM 허브. 삼성전자, SK하이닉스, HBM, AI 메모리, 코스피 지수 쏠림과 한국 반도체 투자 논거를 한곳에 모은 리서치 허브. HBM 시장점유율, 삼성전자 코스피 비중, KOSPI 리레이팅, AI 서버 수요를 순서대로 정리한다."
-lastmod: 2026-05-26T11:30:00+09:00
+lastmod: 2026-05-27T09:30:00+09:00
 ---
 
 ## 한 줄 결론
@@ -29,6 +29,7 @@ lastmod: 2026-05-26T11:30:00+09:00
 | 한국 증시 시총 세계 6위는 HBM 투자에 어떤 의미인가 | 세계 6위 헤드라인은 매수 신호가 아니라 삼성전자·SK하이닉스 AI 메모리 이익 지속성과 KOSPI 집중도를 검증하라는 신호다. | [Why Korea 5편: 한국 시총 세계 6위](/ko/post/why-korea-market-cap-global-six-ai-memory-rerating-2026-05-24/) |
 | 외국인이 삼성전자·SK하이닉스를 팔고 있다면 HBM 투자는 끝났나 | 아니다. 2026년 외국인 순매도 대부분은 두 메모리 대형주 비중 축소지만, 가격은 국내 유동성이 흡수했다. 추격보다 외국인 재매수·지분율 회복을 확인해야 한다. | [한국증시 외국인 수급 분석](/ko/post/korea-foreign-investor-flow-memory-megacap-rotation-2026-05-24/) |
 | KOSPI 외국인 보유비중은 높은데 삼성전자·하이닉스 지분율은 낮다는 건 무슨 뜻인가 | KOSPI 보유비중은 평가금액 기준이라 높게 보이지만, 삼성전자·SK하이닉스의 주식 수 기준 외국인 지분율은 이미 연중 최저권이다. 이제 HBM 매수 타이밍은 5일 평균 순매도 둔화로 판단해야 한다. | [KOSPI 외국인 지분율 vs 삼성전자·SK하이닉스](/ko/post/korea-foreign-ownership-kospi-samsung-hynix-divergence-2026-05-26/) |
+| 삼성전자 특별성과급 자사주 매입은 주주환원인가 | 아니다. 단기 매입 수급에는 긍정적이지만 소각이 아니라 직원 보상용 주식이다. 핵심은 80조원 헤드라인보다 DS 이익 목표와 HBM4 슈퍼사이클 지속성이다. | [삼성전자 특별성과급 자사주 분석](/ko/post/samsung-electronics-stock-bonus-supercycle-buyback-2026-05-27/) |
 | 해외 투자자는 한국 AI 메모리 주식에 어떻게 접근하나요 | 먼저 해외 투자자 접근 지도를 확인하고, KOSPI 대형주에서 HBM·장비·기판 종목으로 확장하는 순서가 좋다. 실제 매매 가능 여부는 국가와 계좌 유형에 따라 다르다. | [해외 투자자용 한국 주식 허브](/ko/page/korea-stocks-foreign-investors-hub/) |
 | KOSPI 2026 리레이팅의 핵심 동력은 무엇인가 | HBM 슈퍼사이클, 지배구조 개혁, Sell America 로테이션이 동시에 작동하면서 한국 시장의 할인율이 낮아지는 구조다. | [2026년 한국 리레이팅](/ko/post/korea-outperformance-2026-structural-rerating-2026-04-24/) |
 | 5월 6일 삼성전자 +14.4%, SK하이닉스 +10.6% 급등 이유는? | 외국인 단일 세션 ₩3.1조 삼성전자 순매수가 'AI 메모리 병목을 NVIDIA / TSMC 할인 가격에 사는' 거래를 재가격화. 그 다음 AI 기판(대덕전자 +9.62%, 심텍 +6.35%)과 전공정 장비(원익IPS, 유진테크, 케이씨텍)로 확산. | [한국 반도체 5월 6일 랠리: 삼성전자·SK하이닉스·기판·장비](/ko/post/korean-semis-rally-may-6-samsung-sk-hynix-substrate-equipment-2026-05-07/) |
@@ -39,6 +40,7 @@ lastmod: 2026-05-26T11:30:00+09:00
 
 | 날짜 | 주제 | 자세히 보기 |
 |---|---|---|
+| 2026-05-27 | <strong>삼성전자 특별성과급 자사주와 DS 슈퍼사이클</strong> — 80조원 자사주 헤드라인을 소각형 주주환원이 아니라 직원 보상·강제 매수 수급·HBM4/서버 DRAM 이익 목표의 신호로 분해 | [삼성전자 특별성과급 자사주 분석](/ko/post/samsung-electronics-stock-bonus-supercycle-buyback-2026-05-27/) |
 | 2026-05-26 | <strong>AI 서버 수동소자 병목과 HBM 아래 전력무결성</strong> — GPU/HBM이 먹는 순간 전력을 안정화하는 MLCC·실리콘 커패시터·인덕터를 비전공자용으로 설명하고 삼성전기 리레이팅의 기술적 전제를 정리 | [AI 서버 수동소자 병목: 삼성전기 기술 설명](/ko/post/ai-server-passive-components-bottleneck-samsung-electro-mechanics-2026-05-26/) |
 | 2026-05-26 | <strong>KOSPI 외국인 보유비중과 삼성전자·SK하이닉스 지분율의 괴리</strong> — KOSPI 시총가중 외국인 비중은 38.5%대지만, 삼성전자 48.32%, SK하이닉스 51.62%로 연중 최저권이라는 점을 분해하고 매도 진정 조건을 정리 | [KOSPI 외국인 지분율 vs 삼성전자·SK하이닉스](/ko/post/korea-foreign-ownership-kospi-samsung-hynix-divergence-2026-05-26/) |
 | 2026-05-26 | <strong>삼성전기 시총 100조원과 HBM 아래 전력무결성 병목</strong> — 현대차·무라타 비교를 통해 AI GPU·HBM 패키지 내부 실리콘 커패시터와 FC-BGA가 별도 멀티플을 받기 시작했는지 점검 | [삼성전기 100조원과 무라타·현대차 비교](/ko/post/samsung-electro-mechanics-100tn-murata-hyundai-market-cap-2026-05-26/) |
@@ -70,6 +72,7 @@ lastmod: 2026-05-26T11:30:00+09:00
 | 6 | 한국 시총 세계 6위 헤드라인은 매수 신호인가 | [Why Korea 5편: 한국 시총 세계 6위](/ko/post/why-korea-market-cap-global-six-ai-memory-rerating-2026-05-24/) |
 | 7 | 외국인 매도는 HBM thesis 훼손인가, 비중 조절인가 | [한국증시 외국인 수급 분석](/ko/post/korea-foreign-investor-flow-memory-megacap-rotation-2026-05-24/) |
 | 8 | 외국인 지분율 기준으로 매도 압력은 얼마나 남았나 | [KOSPI 외국인 지분율 vs 삼성전자·SK하이닉스](/ko/post/korea-foreign-ownership-kospi-samsung-hynix-divergence-2026-05-26/) |
+| 9 | 삼성전자 자사주 성과급은 슈퍼사이클 신호인가, 오버행인가 | [삼성전자 특별성과급 자사주: 슈퍼사이클 신호인가, 미래 오버행인가](/ko/post/samsung-electronics-stock-bonus-supercycle-buyback-2026-05-27/) |
 
 ---
 
@@ -92,6 +95,7 @@ lastmod: 2026-05-26T11:30:00+09:00
 - [Why Korea 5편: 한국 증시 시총 세계 6위 — 4.9조 달러 리레이팅은 매수 신호인가, 경고등인가](/ko/post/why-korea-market-cap-global-six-ai-memory-rerating-2026-05-24/)
 - [한국증시 외국인 수급 분석: -89조원 매도의 95%는 삼성전자·SK하이닉스였다](/ko/post/korea-foreign-investor-flow-memory-megacap-rotation-2026-05-24/)
 - [KOSPI 외국인 지분율은 높은데, 삼성전자·SK하이닉스는 연중 최저다](/ko/post/korea-foreign-ownership-kospi-samsung-hynix-divergence-2026-05-26/)
+- [삼성전자 특별성과급 자사주: 슈퍼사이클 신호인가, 미래 오버행인가](/ko/post/samsung-electronics-stock-bonus-supercycle-buyback-2026-05-27/)
 - [2026년 한국 리레이팅: KOSPI +49%는 단순 랠리가 아니다](/ko/post/korea-outperformance-2026-structural-rerating-2026-04-24/)
 - [KOSPI Focus Stocks: April 2026 Strategy](/ko/post/kr-concentrated-weekly-2026-04-24/)
 
