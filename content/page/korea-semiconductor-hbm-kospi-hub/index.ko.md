@@ -5,7 +5,7 @@ date: 2026-04-30T23:05:00+09:00
 aliases: ["/ko/hbm/", "/ko/semiconductor/", "/ko/samsung-hynix/", "/ko/kospi-hbm/", "/ko/page/hbm/"]
 layout: "page"
 description: "AI HBM 허브. 삼성전자, SK하이닉스, HBM, AI 메모리, 코스피 지수 쏠림과 한국 반도체 투자 논거를 한곳에 모은 리서치 허브. HBM 시장점유율, 삼성전자 코스피 비중, KOSPI 리레이팅, AI 서버 수요를 순서대로 정리한다."
-lastmod: 2026-05-27T16:25:00+09:00
+lastmod: 2026-05-28T10:20:00+09:00
 ---
 
 ## 한 줄 결론
@@ -24,6 +24,7 @@ lastmod: 2026-05-27T16:25:00+09:00
 | 엔비디아 Vera Rubin VR200 부품 원가표에서 한국 메모리 수혜는 무엇인가 | 모건스탠리 추정 기준 VR200 총 부품 원가 증가분의 42.7%가 메모리에서 발생한다. 단, HBM4뿐 아니라 LPDDR5X·SOCAMM까지 같이 봐야 한다. | [엔비디아 VR200 부품 원가표 검산](/ko/post/vera-rubin-vr200-bom-memory-pcb-mlcc-korea-alpha-2026-05-21/) |
 | AI 칩 설계 관점에서 HBM은 왜 병목인가 | AI 성능은 초당 연산량보다 데이터를 얼마나 가까운 곳에서, 얼마나 덜 움직이는지가 중요하다. 그래서 HBM은 GPU·맞춤형 ASIC 공통 병목이고, 그 아래 FC-BGA·PCB·전력 안정화 부품까지 같이 봐야 한다. | [AI 칩 설계와 데이터 이동 병목](/ko/post/ai-chip-design-data-movement-fcbga-bottleneck-2026-05-24/) |
 | 마벨·브로드컴 실적은 HBM 투자에 어떤 의미인가 | AI 맞춤형 칩과 이더넷 네트워크가 강하면 HBM 수요는 NVIDIA GPU 단일 고객 의존이 아니라 Broadcom XPU·Google TPU·OpenAI accelerator·Marvell custom silicon까지 넓어진다. | [마벨·브로드컴 실적 전 한국 반도체 병목 점검](/ko/post/marvell-broadcom-earnings-korea-ai-bottleneck-preview-2026-05-23/) |
+| 마벨 Q1 FY2027 실적은 한국 반도체에 어떤 의미인가 | 핵심은 HBM 단일 베팅이 아니라 custom XPU·optical interconnect·scale-up networking이 FCBGA, MLCC, 실리콘 커패시터, 테스트 소켓 병목으로 번진다는 점이다. 한국 read-through는 삼성전기 > 삼성전자·SK하이닉스 > 테스트 소켓 순서다. | [마벨 Q1 FY2027 실적과 한국 반도체](/ko/post/marvell-q1-fy2027-korea-semiconductor-readthrough-2026-05-28/) |
 | 삼성전기 시총 100조원은 HBM thesis와 어떻게 연결되나 | HBM이 커질수록 GPU·ASIC 패키지 안쪽의 전력 안정화와 FC-BGA도 같이 병목이 된다. 삼성전기 100조원은 HBM 아래 전력무결성 레이어가 별도 멀티플을 받기 시작했다는 신호다. | [삼성전기 시총 100조 돌파](/ko/post/samsung-electro-mechanics-100tn-murata-hyundai-market-cap-2026-05-26/) |
 | AI 서버 수동소자 병목은 HBM 투자와 어떻게 연결되나 | GPU·HBM 패키지가 커질수록 순간 전력 피크를 잡는 MLCC·실리콘 커패시터·인덕터가 성능 병목이 된다. 즉 HBM 투자는 메모리만이 아니라 전력무결성 부품까지 같이 봐야 한다. | [AI 서버 수동소자 병목: 삼성전기 기술 설명](/ko/post/ai-server-passive-components-bottleneck-samsung-electro-mechanics-2026-05-26/) |
 | 한국 증시 시총 세계 6위는 HBM 투자에 어떤 의미인가 | 세계 6위 헤드라인은 매수 신호가 아니라 삼성전자·SK하이닉스 AI 메모리 이익 지속성과 KOSPI 집중도를 검증하라는 신호다. | [Why Korea 5편: 한국 시총 세계 6위](/ko/post/why-korea-market-cap-global-six-ai-memory-rerating-2026-05-24/) |
@@ -41,6 +42,7 @@ lastmod: 2026-05-27T16:25:00+09:00
 
 | 날짜 | 주제 | 자세히 보기 |
 |---|---|---|
+| 2026-05-28 | <strong>마벨 Q1 FY2027 실적과 한국 반도체 read-through</strong> — Q1 매출 24.18억 달러, Q2 가이던스 27.0억 달러 ±5%, custom XPU·optical interconnect·scale-up networking 강세를 삼성전기 FCBGA/MLCC/SiCap, 삼성전자·SK하이닉스 HBM, 테스트 소켓으로 번역 | [마벨 Q1 FY2027 실적과 한국 반도체](/ko/post/marvell-q1-fy2027-korea-semiconductor-readthrough-2026-05-28/) |
 | 2026-05-27 | <strong>한국 ADR 67과 좁은 주도주 장세</strong> — KOSPI·KOSDAQ 모두 20일 ADR이 60대로 내려오며 평균 종목은 약하지만, AI 인프라·후공정·기판·조선/방산 일부로 돈이 압축되는 구조를 점검 | [한국 ADR 67과 KOSPI·KOSDAQ 브레드스 분석](/ko/post/korea-adr-breadth-narrow-leadership-kospi-kosdaq-2026-05-27/) |
 | 2026-05-27 | <strong>삼성전자는 2028년까지 메모리 슈퍼사이클을 인정한 것인가</strong> — DS 부문이 2026~2028년에 매년 200조원 수준의 영업이익을 달성한다는 조건과, 특별상여금용 자사주 net 매입 규모 약 37.8조원 산식을 중심으로 재구성 | [삼성전자 특별성과급 자사주 분석](/ko/post/samsung-electronics-stock-bonus-supercycle-buyback-2026-05-27/) |
 | 2026-05-26 | <strong>AI 서버 수동소자 병목과 HBM 아래 전력무결성</strong> — GPU/HBM이 먹는 순간 전력을 안정화하는 MLCC·실리콘 커패시터·인덕터를 비전공자용으로 설명하고 삼성전기 리레이팅의 기술적 전제를 정리 | [AI 서버 수동소자 병목: 삼성전기 기술 설명](/ko/post/ai-server-passive-components-bottleneck-samsung-electro-mechanics-2026-05-26/) |
@@ -85,6 +87,7 @@ lastmod: 2026-05-27T16:25:00+09:00
 - [엔비디아 이후 AI 반도체 병목: 초당 연산량보다 데이터 이동, HBM, FC-BGA, 전력 안정화](/ko/post/ai-chip-design-data-movement-fcbga-bottleneck-2026-05-24/)
 - [AI 서버 수동소자 병목: GPU보다 작은 전력 안정화 부품이 왜 중요해졌나](/ko/post/ai-server-passive-components-bottleneck-samsung-electro-mechanics-2026-05-26/)
 - [삼성전기 시총 100조 돌파: 무라타와 현대차를 넘어설 수 있을까](/ko/post/samsung-electro-mechanics-100tn-murata-hyundai-market-cap-2026-05-26/)
+- [마벨 Q1 FY2027 실적과 한국 반도체: HBM보다 연결·기판·전력 병목](/ko/post/marvell-q1-fy2027-korea-semiconductor-readthrough-2026-05-28/)
 - [마벨·브로드컴 실적 전 한국 반도체 병목 점검: HBM 단일 베팅에서 AI ASIC·네트워크·전력 안정화로](/ko/post/marvell-broadcom-earnings-korea-ai-bottleneck-preview-2026-05-23/)
 - [엔비디아 VR200 부품 원가표 검산: 메모리 부품 금액과 한국 AI 메모리 알파](/ko/post/vera-rubin-vr200-bom-memory-pcb-mlcc-korea-alpha-2026-05-21/)
 - [SK하이닉스 HBM 시장점유율 2026: AI 메모리 투자 가이드](/ko/post/sk-hynix-hbm-market-share-ai-memory-demand-2026/)

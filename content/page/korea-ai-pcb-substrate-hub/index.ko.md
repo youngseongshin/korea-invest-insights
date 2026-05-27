@@ -5,7 +5,7 @@ date: 2026-05-05T23:20:00+09:00
 aliases: ["/ko/ai-pcb/", "/ko/pcb/", "/ko/fc-bga/", "/ko/ccl/", "/ko/ai-substrate/", "/ko/page/korea-ai-pcb-substrate-hub/"]
 layout: "page"
 description: "AI 기판·PCB 투자 허브. FC-BGA, MLB, CCL, 저유전율 소재, 삼성전기, 대덕전자, 두산전자BG, 코오롱인더, 파미셀을 한곳에 묶어 GPU·CPU·NIC·스위치 ASIC이 만드는 AI 시스템 병목을 정리한다."
-lastmod: 2026-05-26T11:30:00+09:00
+lastmod: 2026-05-28T10:20:00+09:00
 ---
 
 ## 한 줄 결론
@@ -21,6 +21,7 @@ AI 기판 투자는 "GPU 다음 테마"가 아니라 <strong>AI 시스템 전체
 | 왜 한국에 반도체 기판 회사가 이렇게 많나요? | 미국·유럽이 설계·소프트웨어·장비에 집중하는 동안, 고객 인증과 수율 데이터가 필요한 기판 양산은 한국·일본·대만에 축적됐다. 한국의 강점은 삼성전자·SK하이닉스 고객 기반, 모바일·메모리 양산 경험, 빠른 투자 실행력이다. | [Why Korea 1편: 한국 반도체 기판 경쟁력](/ko/post/why-korea-semiconductor-substrate-competitive-edge-2026-05-07/) |
 | AI 기판 투자의 핵심은 무엇인가요? | GPU 하나가 아니라 rack-scale 시스템 전체가 칩과 보드를 늘린다. 기판은 모든 칩 확장의 공통 분모다. | [AI PCB와 기판 thesis](/ko/post/ai-pcb-thesis-system-bom-common-bottleneck-2026-05-05/) |
 | AI 칩 설계에서 왜 FC-BGA와 고속 PCB가 중요해졌나요? | AI 칩 성능은 초당 연산량보다 데이터를 덜 움직이고, 메모리와 연산칩을 더 가까이 붙이는 데 달려 있다. 그래서 HBM 아래에서 FC-BGA, 고다층 PCB, 전력 안정화 부품이 성능 병목으로 올라온다. | [엔비디아 이후 AI 반도체 병목](/ko/post/ai-chip-design-data-movement-fcbga-bottleneck-2026-05-24/) |
+| 마벨 Q1 FY2027 실적은 AI 기판 thesis를 강화했나요? | 그렇다. Marvell이 custom XPU, 51.2T Ethernet switch, 800G/1.6T optics, scale-up networking을 성장축으로 제시하면서 GPU용 기판뿐 아니라 network ASIC·XPU attach용 FCBGA와 고속 PCB 난이도가 같이 올라간다. | [마벨 Q1 FY2027 실적과 한국 반도체](/ko/post/marvell-q1-fy2027-korea-semiconductor-readthrough-2026-05-28/) |
 | 한국 AI 기판 생태계에서 어떤 회사를 비교해야 하나요? | 기판 제조사만 보면 부족하다. 삼성전기·대덕전자·이수페타시스·심텍·코리아써키트에 두산전자BG, 코오롱인더, 파미셀, 티엘비, 태성까지 같이 봐야 한다. | [한국 AI 기판·PCB 생태계 10개사](/ko/post/korea-ai-pcb-ecosystem-ten-companies-2026-05-05/) |
 | 삼성전기는 AI 기판주인가요? | 삼성전기는 FC-BGA와 MLCC를 함께 가진 한국 대형 부품주다. AI 서버가 고성능 기판과 전력 안정 부품을 더 많이 쓰면서 수혜를 받는다. | [삼성전기 AI 인프라 리레이팅](/ko/post/samsung-electro-mechanics-ai-infrastructure-rerating-2026-04-21/) |
 | 삼성전기 목표가 130만원은 어떤 의미인가요? | 미래에셋의 130만원은 2028F EPS에 2017년 MLCC 쇼티지 초기 멀티플 37배를 적용한 리레이팅 프레임이다. 현재가는 이미 정상 업사이클 상단을 넘어선 만큼 MLCC 가격 인상과 FC-BGA 마진 확인이 중요하다. | [삼성전기 목표가 130만원 분석](/ko/post/samsung-electro-mechanics-mirae-tp-1300000-valuation-frame-shift-2026-05-07/) |
@@ -47,6 +48,7 @@ AI 기판 투자는 "GPU 다음 테마"가 아니라 <strong>AI 시스템 전체
 | 1 | 왜 한국에 기판 회사가 이렇게 많은가 | [Why Korea 1편: 한국 반도체 기판 경쟁력](/ko/post/why-korea-semiconductor-substrate-competitive-edge-2026-05-07/) |
 | 2 | 왜 AI 기판은 "다음 테마"가 아니라 공통 병목인가 | [AI PCB와 기판 thesis](/ko/post/ai-pcb-thesis-system-bom-common-bottleneck-2026-05-05/) |
 | 2+ | AI 칩 설계 관점에서 왜 데이터 이동·FC-BGA·고속 PCB가 병목인가 | [엔비디아 이후 AI 반도체 병목](/ko/post/ai-chip-design-data-movement-fcbga-bottleneck-2026-05-24/) |
+| 2++ | 마벨 실적은 custom XPU·network ASIC용 기판 병목을 어떻게 확인했나 | [마벨 Q1 FY2027 실적과 한국 반도체](/ko/post/marvell-q1-fy2027-korea-semiconductor-readthrough-2026-05-28/) |
 | 3 | 한국 AI 기판 생태계 10개사를 어떻게 나눠 봐야 하나 | [한국 AI 기판·PCB 생태계 10개사](/ko/post/korea-ai-pcb-ecosystem-ten-companies-2026-05-05/) |
 | 4 | 한국 대형주 중 기판·MLCC 앵커는 어디인가 | [삼성전기 주가가 90일 만에 두 배 오른 이유](/ko/post/samsung-electro-mechanics-ai-infrastructure-rerating-2026-04-21/) |
 | 5 | 미래에셋 130만원 목표가는 어떤 멀티플 전환을 말하나 | [삼성전기 목표가 130만원 분석](/ko/post/samsung-electro-mechanics-mirae-tp-1300000-valuation-frame-shift-2026-05-07/) |
