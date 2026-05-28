@@ -10,6 +10,16 @@ posting is paused.
 
 ## Standard Flow
 
+Default operator rule:
+
+- When the user asks for a blog post, treat the request as a full publish task
+  unless they explicitly say otherwise.
+- The full publish task includes multilingual generation, Hugo validation,
+  commit/push, live URL confirmation, and targeted post-publish distribution.
+- Korean-only manual posts are allowed only as an explicit exception. Otherwise,
+  create the English version and translated language files before distribution
+  so Substack can run instead of recording `skip_no_english`.
+
 1. Publish through the OpenClaw blog pipeline when creating a new post. This is
    the normal path for multilingual posts:
 
@@ -19,7 +29,19 @@ posting is paused.
    publish_blog(english_md=english_content, korean_md=korean_content)
    ```
 
-2. For manual Hugo edits, update `content/post/*/index.<lang>.md`.
+2. For manual Hugo edits, update `content/post/*/index.<lang>.md`. If a new
+   post is created manually, add the complete multilingual file set before
+   the post-publish distribution stage:
+
+   ```text
+   index.ko.md
+   index.en.md
+   index.es.md
+   index.vi.md
+   index.fr.md
+   index.ja.md
+   index.zh.md
+   ```
 3. Validate locally:
 
    ```bash
