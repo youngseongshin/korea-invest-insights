@@ -35,6 +35,10 @@ draft: false
 > [실리콘 커패시터 1.5조원 계약](/ko/post/samsung-electro-mechanics-silicon-capacitor-1p5tn-2026-05-21/) / [MLCC와 실리콘 커패시터 이해하기](/ko/post/mlcc-silicon-capacitor-ai-package-power-integrity-2026-05-22/) / [AI 서버 수동소자 병목](/ko/post/ai-server-passive-components-bottleneck-samsung-electro-mechanics-2026-05-26/) / [삼성전기 시총 100조 돌파](/ko/post/samsung-electro-mechanics-100tn-murata-hyundai-market-cap-2026-05-26/) / [마벨 Q1과 한국 반도체](/ko/post/marvell-q1-fy2027-korea-semiconductor-readthrough-2026-05-28/)
 > 관련 허브: [AI 기판·PCB 허브](/ko/page/korea-ai-pcb-substrate-hub/) / [한국 반도체 밸류체인 허브](/ko/page/korea-semiconductor-equipment-ip-hub/)
 
+![AI 패키징 생태계 전쟁과 삼성전기의 3층 진입: 기판, 커패시터, 브리지](ai-packaging-ecosystem-samsung-electro-mechanics-3-layer-entry.jpg)
+
+<small>한 장 요약: AI 패키징 경쟁은 CoWoS와 EMIB-T 같은 플랫폼 싸움에서 기판·브리지·커패시터·EDA 생태계 경쟁으로 확산되고 있다. 삼성전기의 핵심 포지션은 FC-BGA, 실리콘 커패시터, 향후 브리지·인터포저 생태계 진입 옵션이다.</small>
+
 ## TL;DR
 
 이번 이슈의 본질은 <strong>삼성전기가 AI 반도체의 안쪽으로 들어가기 시작했다</strong>는 점이다.

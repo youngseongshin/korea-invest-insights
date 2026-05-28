@@ -34,6 +34,10 @@ draft: false
 > [₩1.5 Trillion Silicon Capacitor Contract](/post/samsung-electro-mechanics-silicon-capacitor-1p5tn-2026-05-21/) / [Understanding MLCC and Silicon Capacitors](/post/mlcc-silicon-capacitor-ai-package-power-integrity-2026-05-22/) / [AI Server Passive Component Bottleneck](/post/ai-server-passive-components-bottleneck-samsung-electro-mechanics-2026-05-26/) / [Samsung Electro-Mechanics Breaks ₩100 Trillion Market Cap](/post/samsung-electro-mechanics-100tn-murata-hyundai-market-cap-2026-05-26/) / [Marvell Q1 and Korea Semiconductor Read-Through](/post/marvell-q1-fy2027-korea-semiconductor-readthrough-2026-05-28/)
 > Related Hubs: [AI Substrate & PCB Hub](/page/korea-ai-pcb-substrate-hub/) / [Korea Semiconductor Value Chain Hub](/page/korea-semiconductor-equipment-ip-hub/)
 
+![AI packaging ecosystem war and Samsung Electro-Mechanics' three-layer entry: substrate, capacitor, bridge](ai-packaging-ecosystem-samsung-electro-mechanics-3-layer-entry.jpg)
+
+<small>One-page Korean infographic: AI packaging competition is expanding from a CoWoS-vs-EMIB-T platform battle into a broader ecosystem contest across substrates, bridges, capacitors, and EDA. Samsung Electro-Mechanics' key position sits in FC-BGA, silicon capacitors, and the optional bridge/interposer ecosystem.</small>
+
 ## TL;DR
 
 The essence of this story is that <strong>Samsung Electro-Mechanics has begun moving inside AI semiconductors</strong>.
