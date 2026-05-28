@@ -5,7 +5,7 @@ date: 2026-05-05T23:20:00+09:00
 aliases: ["/ko/ai-pcb/", "/ko/pcb/", "/ko/fc-bga/", "/ko/ccl/", "/ko/ai-substrate/", "/ko/page/korea-ai-pcb-substrate-hub/"]
 layout: "page"
 description: "AI 기판·PCB 투자 허브. FC-BGA, MLB, CCL, 저유전율 소재, 삼성전기, 대덕전자, 두산전자BG, 코오롱인더, 파미셀을 한곳에 묶어 GPU·CPU·NIC·스위치 ASIC이 만드는 AI 시스템 병목을 정리한다."
-lastmod: 2026-05-28T10:20:00+09:00
+lastmod: 2026-05-28T17:20:00+09:00
 ---
 
 ## 한 줄 결론
@@ -27,6 +27,7 @@ AI 기판 투자는 "GPU 다음 테마"가 아니라 <strong>AI 시스템 전체
 | 삼성전기 목표가 130만원은 어떤 의미인가요? | 미래에셋의 130만원은 2028F EPS에 2017년 MLCC 쇼티지 초기 멀티플 37배를 적용한 리레이팅 프레임이다. 현재가는 이미 정상 업사이클 상단을 넘어선 만큼 MLCC 가격 인상과 FC-BGA 마진 확인이 중요하다. | [삼성전기 목표가 130만원 분석](/ko/post/samsung-electro-mechanics-mirae-tp-1300000-valuation-frame-shift-2026-05-07/) |
 | 삼성전기는 무라타·이비덴 중 누구와 비교해야 하나요? | 한쪽 피어로만 보면 답이 어긋난다. 삼성전기는 MLCC와 FC-BGA를 동시에 가진 하이브리드 챌린저이고, 현 주가 101만원은 2027E OP 2.7조원 이상과 패키지 OPM 20% 접근을 요구한다. | [삼성전기 하이브리드 챌린저](/ko/post/samsung-electro-mechanics-hybrid-challenger-2026-05-17/) |
 | 삼성전기 실리콘 커패시터 1.5조원 계약은 뭘 바꿉니까? | '수주 한 건'이 아니라 <strong>MLCC·기판 회사 → AI 패키지 전력 안정화 부품사로 분류가 바뀌는 사건</strong>. 2년 1.557조원(연환산 7,785억원, 2025년 매출의 6.9%), 2027년부터 2028년까지 인식. FC-BGA·MLCC·Si-Cap 통합 공급자가 글로벌에서 삼성전기 한 곳. 다만 5/21 프리마켓 1,109,000원은 이미 상당히 반영. | [Si-Cap 1.5조원 — 분류가 바뀌는 사건](/ko/post/samsung-electro-mechanics-silicon-capacitor-1p5tn-2026-05-21/) |
+| 인텔 EMIB-T와 삼성전기 실리콘 커패시터는 어떻게 연결되나요? | EMIB-T는 칩렛·HBM 연결에 TSV 기반 전력 전달까지 더하는 2.5D 패키징이고, Si-Cap은 AI 패키지 내부 전압 흔들림을 줄이는 die-near PDN 부품이다. 공식 확인은 1.5조원 Si-Cap 계약이고, 구글 TPU·EMIB-T 연결은 아직 추정 영역이다. | [삼성전기 Si-Cap과 인텔 EMIB-T](/ko/post/samsung-electro-mechanics-silicon-capacitor-emib-t-ai-package-pdn-2026-05-28/) |
 | 삼성전기 시총 100조원은 AI 기판 thesis에 어떤 의미인가요? | 삼성전기가 단순 기판주가 아니라 <strong>AI 패키지 전력무결성 + FC-BGA 플랫폼</strong>으로 재분류됐다는 신호다. 현대차 시총 추월은 가능하지만, 150조원 유지에는 2028년 OP 4조원대와 전사 OPM 20% 접근이 필요하다. | [삼성전기 시총 100조 돌파](/ko/post/samsung-electro-mechanics-100tn-murata-hyundai-market-cap-2026-05-26/) |
 | AI 서버 수동소자 병목은 기판 thesis와 어떻게 연결되나요? | AI 서버 기판은 칩을 얹는 바닥판이고, MLCC·실리콘 커패시터·인덕터는 그 위에서 전압 흔들림을 잡는 전력 안정화 층이다. GPU/HBM 패키지가 커질수록 FC-BGA와 전력무결성 부품은 같은 시스템 병목이 된다. | [AI 서버 수동소자 병목: 삼성전기 기술 설명](/ko/post/ai-server-passive-components-bottleneck-samsung-electro-mechanics-2026-05-26/) |
 | MLCC와 실리콘 커패시터는 같은 부품인가요? | 둘 다 커패시터의 한 종류지만 위치와 용도가 다르다. MLCC는 PCB 위와 칩 주변에 넓게 쓰이는 초소형 세라믹 전원 안정 부품이고, 실리콘 커패시터는 AI GPU·HBM 패키지 내부 또는 칩 바로 근처에서 순간 전력 흔들림을 잡는 고성능 보완재다. | [MLCC와 실리콘 커패시터 이해하기](/ko/post/mlcc-silicon-capacitor-ai-package-power-integrity-2026-05-22/) |
@@ -57,6 +58,7 @@ AI 기판 투자는 "GPU 다음 테마"가 아니라 <strong>AI 시스템 전체
 | 6++ | MLCC와 실리콘 커패시터는 어떻게 다르고 왜 AI 패키지 전력 병목인가 | [MLCC와 실리콘 커패시터 이해하기](/ko/post/mlcc-silicon-capacitor-ai-package-power-integrity-2026-05-22/) |
 | 6+++ | 삼성전기 100조원은 현대차·무라타 추월의 시작인가, 이미 선반영된 가격인가 | [삼성전기 시총 100조 돌파](/ko/post/samsung-electro-mechanics-100tn-murata-hyundai-market-cap-2026-05-26/) |
 | 6++++ | GPU보다 작은 수동소자가 왜 AI 서버 병목이 되는가 | [AI 서버 수동소자 병목: 삼성전기 기술 설명](/ko/post/ai-server-passive-components-bottleneck-samsung-electro-mechanics-2026-05-26/) |
+| 6+++++ | 인텔 EMIB-T와 실리콘 커패시터는 AI 패키지 전력망 병목을 어떻게 바꾸나 | [삼성전기 Si-Cap과 인텔 EMIB-T](/ko/post/samsung-electro-mechanics-silicon-capacitor-emib-t-ai-package-pdn-2026-05-28/) |
 | 7 | 파미셀은 왜 두산전자BG CCL 소재 프록시인가 | [파미셀 분석: 두산전자BG AI CCL 소재 재평가](/ko/post/pamicell-doosan-electro-bg-proxy-rediscovery-2026-04-30/) |
 | 8 | 파미셀 논거가 12-24개월 사이클로 확장됐는가 | [파미셀 2편: AI CCL 소재 전환과 산업 사이클](/ko/post/pamicell-four-layer-progress-and-fifth-cycle-layer-2026-05-03/) |
 | 9 | 파미셀의 펀더멘털 전환과 수급 재분류는 왜 아직 어긋나 있나 | [파미셀 수급분석: 두산과 에스티팜 사이, 대덕전자는 아직 멀다](/ko/post/pamicell-supply-demand-analysis-recognition-gap-2026-05-18/) |
