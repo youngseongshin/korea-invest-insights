@@ -5,7 +5,7 @@ date: 2026-04-30T23:05:00+09:00
 aliases: ["/hbm/", "/semiconductor/", "/samsung-hynix/", "/kospi-hbm/", "/en/hbm/", "/en/semiconductor/", "/en/samsung-hynix/", "/en/kospi-hbm/", "/en/page/korea-semiconductor-hbm-kospi-hub/", "/es/page/korea-semiconductor-hbm-kospi-hub/", "/vi/page/korea-semiconductor-hbm-kospi-hub/", "/fr/page/korea-semiconductor-hbm-kospi-hub/", "/ja/page/korea-semiconductor-hbm-kospi-hub/", "/zh/page/korea-semiconductor-hbm-kospi-hub/"]
 layout: "page"
 description: "AI HBM hub for Samsung Electronics, SK Hynix, HBM, AI memory and KOSPI concentration. Covers HBM market share, Samsung's KOSPI weight, Korean semiconductor exposure and the 2026 KOSPI re-rating thesis."
-lastmod: 2026-05-28T10:20:00+09:00
+lastmod: 2026-05-29T22:30:00+09:00
 ---
 
 ## One-Line Thesis
@@ -41,6 +41,7 @@ Korean semiconductor exposure is not one trade. It combines <strong>SK Hynix's H
 
 | Date | Topic | Read |
 |---|---|---|
+| 2026-05-29 | <strong>Dell Q1 FY2027 and Korea AI-server margin read-through</strong> — the print was a big beat, but AI-server gross margin compressed from 21.6% to 18.1%. Pricing power and durable margin sit upstream with memory (Samsung / SK Hynix) and high-value package/passive components (SEMCO), not with the server OEM | [Dell Q1 FY2027 and Korea AI-server margin](/post/dell-q1-fy2027-earnings-korea-ai-server-margin-readthrough-2026-05-29/) |
 | 2026-05-28 | <strong>Marvell Q1 FY2027 and Korea semiconductor read-through</strong> — Q1 revenue $2.418B, Q2 guide $2.70B ±5%, custom XPU / optical / scale-up networking strength translated into SEMCO FCBGA / MLCC / SiCap, Samsung / SK Hynix memory and test sockets | [Marvell Q1 FY2027 and Korean semiconductors](/post/marvell-q1-fy2027-korea-semiconductor-readthrough-2026-05-28/) |
 | 2026-05-27 | <strong>Korea ADR at 67 and narrow leadership</strong> — KOSPI and KOSDAQ 20-day ADRs have both fallen into the 60s; the average stock is weak while money is compressed into AI infrastructure, back-end semis, substrates, shipbuilding and defense | [Korea ADR at 67 and KOSPI-KOSDAQ breadth analysis](/post/korea-adr-breadth-narrow-leadership-kospi-kosdaq-2026-05-27/) |
 | 2026-05-27 | <strong>Did Samsung signal a memory supercycle through 2028?</strong> — reframing the DS stock-bonus issue around the annual-vs-cumulative KRW 200T condition and the possible KRW 12.6T-80T stock-buyback range | [Samsung stock-bonus buyback analysis](/post/samsung-electronics-stock-bonus-supercycle-buyback-2026-05-27/) |
@@ -85,6 +86,7 @@ Korean semiconductor exposure is not one trade. It combines <strong>SK Hynix's H
 - [AI server passive-component bottleneck: why tiny power-stability parts now matter](/post/ai-server-passive-components-bottleneck-samsung-electro-mechanics-2026-05-26/)
 - [SEMCO at KRW 100T: Can It Overtake Murata and Hyundai Motor?](/post/samsung-electro-mechanics-100tn-murata-hyundai-market-cap-2026-05-26/)
 - [Marvell and Broadcom earnings preview: from single HBM bet to AI ASIC, networking and power-delivery bottlenecks](/post/marvell-broadcom-earnings-korea-ai-bottleneck-preview-2026-05-23/)
+- [Dell Q1 FY2027 and Korea AI-server margin read-through: margin sits upstream, not with the server OEM](/post/dell-q1-fy2027-earnings-korea-ai-server-margin-readthrough-2026-05-29/)
 - [Marvell Q1 FY2027 and Korean semiconductors: connectivity, substrates and power integrity beyond HBM](/post/marvell-q1-fy2027-korea-semiconductor-readthrough-2026-05-28/)
 - [SK Hynix HBM Market Share 2026: AI Memory Investor Guide](/post/sk-hynix-hbm-market-share-ai-memory-demand-2026/)
 - [SK Hynix: The HBM Leader Powering the AI Revolution](/post/kr-deep-dive-sk-hynix-2026-04-16/)

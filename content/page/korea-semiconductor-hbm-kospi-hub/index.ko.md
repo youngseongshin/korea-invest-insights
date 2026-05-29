@@ -5,7 +5,7 @@ date: 2026-04-30T23:05:00+09:00
 aliases: ["/ko/hbm/", "/ko/semiconductor/", "/ko/samsung-hynix/", "/ko/kospi-hbm/", "/ko/page/hbm/"]
 layout: "page"
 description: "AI HBM 허브. 삼성전자, SK하이닉스, HBM, AI 메모리, 코스피 지수 쏠림과 한국 반도체 투자 논거를 한곳에 모은 리서치 허브. HBM 시장점유율, 삼성전자 코스피 비중, KOSPI 리레이팅, AI 서버 수요를 순서대로 정리한다."
-lastmod: 2026-05-28T15:30:00+09:00
+lastmod: 2026-05-29T22:30:00+09:00
 ---
 
 ## 한 줄 결론
@@ -43,6 +43,7 @@ lastmod: 2026-05-28T15:30:00+09:00
 
 | 날짜 | 주제 | 자세히 보기 |
 |---|---|---|
+| 2026-05-29 | <strong>델(Dell) Q1 FY2027 실적과 한국 AI 서버 마진 read-through</strong> — 실적은 깜짝 호조였지만 AI 서버 매출총이익률이 21.6%에서 18.1%로 눌렸다. 가격 결정력과 지속 마진은 서버 조립사가 아니라 메모리(삼성전자·SK하이닉스)와 고부가 패키지·수동소자(삼성전기) 같은 상위 부품에 있다는 신호 | [델 Q1 FY2027 실적과 한국 AI 서버 마진](/ko/post/dell-q1-fy2027-earnings-korea-ai-server-margin-readthrough-2026-05-29/) |
 | 2026-05-28 | <strong>NVIDIA GTC 2026 이후 Vera Rubin 추론 스택 변화</strong> — CPX 공식 취소가 아니라 LPX·CMX/STX·SPX가 전면에 선 heterogeneous AI factory 구조로 재해석하고, 삼성전자를 HBM4·SOCAMM2·Groq LPU·eSSD/KV-cache 공급자로 연결 | [NVIDIA Vera Rubin 추론 스택](/ko/post/nvidia-vera-rubin-lpx-cmx-inference-stack-samsung-hbm-2026-05-28/) |
 | 2026-05-28 | <strong>마벨 Q1 FY2027 실적과 한국 반도체 read-through</strong> — Q1 매출 24.18억 달러, Q2 가이던스 27.0억 달러 ±5%, custom XPU·optical interconnect·scale-up networking 강세를 삼성전기 FCBGA/MLCC/SiCap, 삼성전자·SK하이닉스 HBM, 테스트 소켓으로 번역 | [마벨 Q1 FY2027 실적과 한국 반도체](/ko/post/marvell-q1-fy2027-korea-semiconductor-readthrough-2026-05-28/) |
 | 2026-05-27 | <strong>한국 ADR 67과 좁은 주도주 장세</strong> — KOSPI·KOSDAQ 모두 20일 ADR이 60대로 내려오며 평균 종목은 약하지만, AI 인프라·후공정·기판·조선/방산 일부로 돈이 압축되는 구조를 점검 | [한국 ADR 67과 KOSPI·KOSDAQ 브레드스 분석](/ko/post/korea-adr-breadth-narrow-leadership-kospi-kosdaq-2026-05-27/) |
@@ -91,6 +92,7 @@ lastmod: 2026-05-28T15:30:00+09:00
 - [엔비디아 이후 AI 반도체 병목: 초당 연산량보다 데이터 이동, HBM, FC-BGA, 전력 안정화](/ko/post/ai-chip-design-data-movement-fcbga-bottleneck-2026-05-24/)
 - [AI 서버 수동소자 병목: GPU보다 작은 전력 안정화 부품이 왜 중요해졌나](/ko/post/ai-server-passive-components-bottleneck-samsung-electro-mechanics-2026-05-26/)
 - [삼성전기 시총 100조 돌파: 무라타와 현대차를 넘어설 수 있을까](/ko/post/samsung-electro-mechanics-100tn-murata-hyundai-market-cap-2026-05-26/)
+- [델 Q1 FY2027 실적과 한국 AI 서버 마진 read-through: 마진은 서버 조립사가 아니라 상위 부품에 있다](/ko/post/dell-q1-fy2027-earnings-korea-ai-server-margin-readthrough-2026-05-29/)
 - [마벨 Q1 FY2027 실적과 한국 반도체: HBM보다 연결·기판·전력 병목](/ko/post/marvell-q1-fy2027-korea-semiconductor-readthrough-2026-05-28/)
 - [마벨·브로드컴 실적 전 한국 반도체 병목 점검: HBM 단일 베팅에서 AI ASIC·네트워크·전력 안정화로](/ko/post/marvell-broadcom-earnings-korea-ai-bottleneck-preview-2026-05-23/)
 - [엔비디아 VR200 부품 원가표 검산: 메모리 부품 금액과 한국 AI 메모리 알파](/ko/post/vera-rubin-vr200-bom-memory-pcb-mlcc-korea-alpha-2026-05-21/)
