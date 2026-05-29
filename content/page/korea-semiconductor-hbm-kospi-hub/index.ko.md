@@ -5,7 +5,7 @@ date: 2026-04-30T23:05:00+09:00
 aliases: ["/ko/hbm/", "/ko/semiconductor/", "/ko/samsung-hynix/", "/ko/kospi-hbm/", "/ko/page/hbm/"]
 layout: "page"
 description: "AI HBM 허브. 삼성전자, SK하이닉스, HBM, AI 메모리, 코스피 지수 쏠림과 한국 반도체 투자 논거를 한곳에 모은 리서치 허브. HBM 시장점유율, 삼성전자 코스피 비중, KOSPI 리레이팅, AI 서버 수요를 순서대로 정리한다."
-lastmod: 2026-05-29T22:30:00+09:00
+lastmod: 2026-05-30T09:00:00+09:00
 ---
 
 ## 한 줄 결론
@@ -43,6 +43,7 @@ lastmod: 2026-05-29T22:30:00+09:00
 
 | 날짜 | 주제 | 자세히 보기 |
 |---|---|---|
+| 2026-05-30 | <strong>AI 토큰 선물과 토큰당 비용 — 성능 경쟁에서 비용 경쟁으로</strong> — 상하이선물거래소가 AI 토큰 가격 연동 선물을 초기 설계 중이고 CME·ICE가 GPU 컴퓨트 선물을 준비하면서, AI 사용량에 시장 가격이 붙으면 산업 축이 성능에서 토큰당 비용으로 이동한다. 결론은 일반 AI 주식이 아니라 토큰당 비용을 낮추는 병목(맞춤형 ASIC → 메모리·KV-cache → 패키지)을 사는 것이고, 한국에서는 삼성전자가 가장 균형 잡힌 선택 | [AI 토큰 선물과 토큰당 비용 투자 논거](/ko/post/ai-token-futures-cost-per-token-korea-semiconductor-thesis-2026-05-30/) |
 | 2026-05-29 | <strong>델(Dell) Q1 FY2027 실적과 한국 AI 서버 마진 read-through</strong> — 실적은 깜짝 호조였지만 AI 서버 매출총이익률이 21.6%에서 18.1%로 눌렸다. 가격 결정력과 지속 마진은 서버 조립사가 아니라 메모리(삼성전자·SK하이닉스)와 고부가 패키지·수동소자(삼성전기) 같은 상위 부품에 있다는 신호 | [델 Q1 FY2027 실적과 한국 AI 서버 마진](/ko/post/dell-q1-fy2027-earnings-korea-ai-server-margin-readthrough-2026-05-29/) |
 | 2026-05-28 | <strong>NVIDIA GTC 2026 이후 Vera Rubin 추론 스택 변화</strong> — CPX 공식 취소가 아니라 LPX·CMX/STX·SPX가 전면에 선 heterogeneous AI factory 구조로 재해석하고, 삼성전자를 HBM4·SOCAMM2·Groq LPU·eSSD/KV-cache 공급자로 연결 | [NVIDIA Vera Rubin 추론 스택](/ko/post/nvidia-vera-rubin-lpx-cmx-inference-stack-samsung-hbm-2026-05-28/) |
 | 2026-05-28 | <strong>마벨 Q1 FY2027 실적과 한국 반도체 read-through</strong> — Q1 매출 24.18억 달러, Q2 가이던스 27.0억 달러 ±5%, custom XPU·optical interconnect·scale-up networking 강세를 삼성전기 FCBGA/MLCC/SiCap, 삼성전자·SK하이닉스 HBM, 테스트 소켓으로 번역 | [마벨 Q1 FY2027 실적과 한국 반도체](/ko/post/marvell-q1-fy2027-korea-semiconductor-readthrough-2026-05-28/) |

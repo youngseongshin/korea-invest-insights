@@ -5,7 +5,7 @@ date: 2026-05-03T12:00:00+09:00
 aliases: ["/semiscope/", "/korea-semi-equipment/", "/korea-semiconductor-value-chain/", "/page/korea-semiconductor-value-chain-hub/", "/en/semiscope/", "/en/page/korea-semiconductor-value-chain-hub/", "/en/page/korea-semiconductor-equipment-ip-hub/"]
 layout: "page"
 description: "A Korean semiconductor value-chain hub covering HBM test equipment, memory IP, Samsung Foundry, display equipment, FC-BGA, PCB substrates, CCL and low-loss materials. Maps Neosem, Exicon, OpenEdges, Samsung Electro-Mechanics, Daeduck Electronics, Doosan Electronics BG and Pamicell across the AI infrastructure supply chain."
-lastmod: 2026-05-29T22:30:00+09:00
+lastmod: 2026-05-30T09:00:00+09:00
 ---
 
 ## What This Hub Answers
@@ -110,6 +110,7 @@ When AI silicon sells, two back-end regions benefit together — but the structu
 
 | Date | Topic | Read |
 |---|---|---|
+| 2026-05-30 | <strong>AI token futures and cost per token — from a performance race to a cost race</strong> — once AI usage gets a market price, the axis shifts from performance to cost per token. This maps how the packaging / substrate layer of that bottleneck (SEMCO FC-BGA / MLCC / silicon capacitor, Daeduck as a second-order FC-BGA beta) connects to the token-cost thesis — with the discipline that the direction is right but the price is rich | [AI token futures and cost per token thesis](/post/ai-token-futures-cost-per-token-korea-semiconductor-thesis-2026-05-30/) |
 | 2026-05-29 | <strong>Dell Q1 FY2027 and Korea AI-server margin read-through</strong> — the print was a big beat, but AI-server gross margin compressed from 21.6% to 18.1%. The server OEM not keeping the margin signals that pricing power sits upstream with memory (Samsung / SK Hynix) and high-value FC-BGA / MLCC / silicon capacitors (SEMCO); low-margin assembly is the part to avoid | [Dell Q1 FY2027 and Korea AI-server margin](/post/dell-q1-fy2027-earnings-korea-ai-server-margin-readthrough-2026-05-29/) |
 | 2026-05-28 | <strong>SEMCO at KRW 138T and peer premium</strong> — checks whether Samsung Electro-Mechanics can command a premium over Murata and Ibiden after reaching Hyundai Motor's common-share weight class, using Si-Cap references and a KRW 150–205T market-cap range | [SEMCO at KRW 138T and peer premium](/post/samsung-electro-mechanics-market-cap-murata-ibiden-premium-2026-05-28/) |
 | 2026-05-28 | <strong>SEMCO Si-Cap and Intel EMIB-T</strong> — separates the official KRW 1.5T Si-Cap contract from the still-inferred Google TPU / EMIB-T link, and reframes the story as an internal AI-package PDN bottleneck | [SEMCO Si-Cap and Intel EMIB-T](/post/samsung-electro-mechanics-silicon-capacitor-emib-t-ai-package-pdn-2026-05-28/) |

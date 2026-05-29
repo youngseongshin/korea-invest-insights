@@ -5,7 +5,7 @@ date: 2026-05-05T23:20:00+09:00
 aliases: ["/ai-pcb/", "/pcb/", "/fc-bga/", "/ccl/", "/ai-substrate/", "/en/ai-pcb/", "/en/page/korea-ai-pcb-substrate-hub/", "/es/page/korea-ai-pcb-substrate-hub/", "/vi/page/korea-ai-pcb-substrate-hub/", "/fr/page/korea-ai-pcb-substrate-hub/", "/ja/page/korea-ai-pcb-substrate-hub/", "/zh/page/korea-ai-pcb-substrate-hub/"]
 layout: "page"
 description: "A research hub for Korean AI PCB and substrate exposure: FC-BGA, MLB, CCL, low-dielectric materials, Samsung Electro-Mechanics, Daeduck Electronics, Doosan Electronic BG, Kolon Industries and Pamicell."
-lastmod: 2026-05-28T18:10:00+09:00
+lastmod: 2026-05-30T09:00:00+09:00
 ---
 
 ## One-Line Thesis
@@ -49,6 +49,7 @@ AI substrates are not simply "the next theme after GPUs." They are a <strong>com
 | 2 | Why are AI substrates a common bottleneck rather than a late-cycle theme? | [AI PCB and Substrate Thesis](/post/ai-pcb-thesis-system-bom-common-bottleneck-2026-05-05/) |
 | 2+ | Why do data movement, FC-BGA and high-speed PCBs become AI chip-design bottlenecks? | [After NVIDIA: the AI semiconductor bottleneck](/post/ai-chip-design-data-movement-fcbga-bottleneck-2026-05-24/) |
 | 2++ | What does Marvell's Q1 FY2027 say about custom ASIC, optical and substrate bottlenecks? | [Marvell Q1 FY2027 and Korean semiconductors](/post/marvell-q1-fy2027-korea-semiconductor-readthrough-2026-05-28/) |
+| 2+++ | Once AI usage gets a price, how do FC-BGA and substrates connect to the cost-per-token thesis? | [AI token futures and cost per token thesis](/post/ai-token-futures-cost-per-token-korea-semiconductor-thesis-2026-05-30/) |
 | 3 | How should investors split the ten-company Korean AI PCB ecosystem? | [Korea AI PCB Ecosystem: 10 Companies](/post/korea-ai-pcb-ecosystem-ten-companies-2026-05-05/) |
 | 4 | Which large Korean name anchors FC-BGA and MLCC? | [Samsung Electro-Mechanics: Why the Stock Doubled in 90 Days](/post/samsung-electro-mechanics-ai-infrastructure-rerating-2026-04-21/) |
 | 5 | What valuation frame sits behind Mirae Asset's KRW 1.3M Samsung Electro-Mechanics target? | [Samsung Electro-Mechanics KRW 1.3M Target Analysis](/post/samsung-electro-mechanics-mirae-tp-1300000-valuation-frame-shift-2026-05-07/) |

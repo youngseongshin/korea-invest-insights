@@ -5,7 +5,7 @@ date: 2026-05-05T23:20:00+09:00
 aliases: ["/ko/ai-pcb/", "/ko/pcb/", "/ko/fc-bga/", "/ko/ccl/", "/ko/ai-substrate/", "/ko/page/korea-ai-pcb-substrate-hub/"]
 layout: "page"
 description: "AI 기판·PCB 투자 허브. FC-BGA, MLB, CCL, 저유전율 소재, 삼성전기, 대덕전자, 두산전자BG, 코오롱인더, 파미셀을 한곳에 묶어 GPU·CPU·NIC·스위치 ASIC이 만드는 AI 시스템 병목을 정리한다."
-lastmod: 2026-05-28T18:10:00+09:00
+lastmod: 2026-05-30T09:00:00+09:00
 ---
 
 ## 한 줄 결론
@@ -51,6 +51,7 @@ AI 기판 투자는 "GPU 다음 테마"가 아니라 <strong>AI 시스템 전체
 | 2 | 왜 AI 기판은 "다음 테마"가 아니라 공통 병목인가 | [AI PCB와 기판 thesis](/ko/post/ai-pcb-thesis-system-bom-common-bottleneck-2026-05-05/) |
 | 2+ | AI 칩 설계 관점에서 왜 데이터 이동·FC-BGA·고속 PCB가 병목인가 | [엔비디아 이후 AI 반도체 병목](/ko/post/ai-chip-design-data-movement-fcbga-bottleneck-2026-05-24/) |
 | 2++ | 마벨 실적은 custom XPU·network ASIC용 기판 병목을 어떻게 확인했나 | [마벨 Q1 FY2027 실적과 한국 반도체](/ko/post/marvell-q1-fy2027-korea-semiconductor-readthrough-2026-05-28/) |
+| 2+++ | AI 사용량에 가격이 붙으면 FC-BGA·기판은 토큰당 비용 테제에 어떻게 연결되나 | [AI 토큰 선물과 토큰당 비용 투자 논거](/ko/post/ai-token-futures-cost-per-token-korea-semiconductor-thesis-2026-05-30/) |
 | 3 | 한국 AI 기판 생태계 10개사를 어떻게 나눠 봐야 하나 | [한국 AI 기판·PCB 생태계 10개사](/ko/post/korea-ai-pcb-ecosystem-ten-companies-2026-05-05/) |
 | 4 | 한국 대형주 중 기판·MLCC 앵커는 어디인가 | [삼성전기 주가가 90일 만에 두 배 오른 이유](/ko/post/samsung-electro-mechanics-ai-infrastructure-rerating-2026-04-21/) |
 | 5 | 미래에셋 130만원 목표가는 어떤 멀티플 전환을 말하나 | [삼성전기 목표가 130만원 분석](/ko/post/samsung-electro-mechanics-mirae-tp-1300000-valuation-frame-shift-2026-05-07/) |
