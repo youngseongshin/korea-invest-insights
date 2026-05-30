@@ -171,6 +171,57 @@
     });
   }
 
+  // Kakao JS SDK: lazy-loaded on first KakaoTalk share click so the script
+  // never burdens readers who don't share.
+  var KAKAO_SDK_SRC = 'https://t1.kakaocdn.net/kakao_js_sdk/2.7.5/kakao.min.js';
+  var KAKAO_SDK_INTEGRITY = 'sha384-dok87au0gKqJdxs7msEdBPNnKSRT+/mhTVzq+qOhcL464zXwvcrpjeWvyj1kCdq6';
+  var kakaoSdkPromise = null;
+
+  function loadKakaoSdk() {
+    if (window.Kakao && typeof window.Kakao.init === 'function') {
+      return Promise.resolve(window.Kakao);
+    }
+    if (kakaoSdkPromise) return kakaoSdkPromise;
+    kakaoSdkPromise = new Promise(function (resolve, reject) {
+      var s = document.createElement('script');
+      s.src = KAKAO_SDK_SRC;
+      s.integrity = KAKAO_SDK_INTEGRITY;
+      s.crossOrigin = 'anonymous';
+      s.async = true;
+      s.onload = function () { resolve(window.Kakao); };
+      s.onerror = function () { reject(new Error('kakao sdk load failed')); };
+      document.head.appendChild(s);
+    });
+    return kakaoSdkPromise;
+  }
+
+  function shareKakao(btn, url, title) {
+    var key = btn.getAttribute('data-kakao-key');
+    if (!key) { copyToClipboard(url); return; }
+    var desc = btn.getAttribute('data-desc') || '';
+    var image = btn.getAttribute('data-image') || '';
+    loadKakaoSdk().then(function (Kakao) {
+      if (!Kakao) throw new Error('no kakao');
+      if (!Kakao.isInitialized()) Kakao.init(key);
+      Kakao.Share.sendDefault({
+        objectType: 'feed',
+        content: {
+          title: title,
+          description: desc,
+          imageUrl: image,
+          link: { mobileWebUrl: url, webUrl: url }
+        },
+        buttons: [{
+          title: 'Korea Invest Insights',
+          link: { mobileWebUrl: url, webUrl: url }
+        }]
+      });
+    }).catch(function () {
+      // SDK blocked or domain not registered: fall back to copying the link.
+      copyToClipboard(url);
+    });
+  }
+
   function initShare() {
     var buttons = document.querySelectorAll('[data-share]');
     if (!buttons.length) return;
@@ -186,6 +237,18 @@
 
         if (kind === 'native' && navigator.share) {
           navigator.share({ title: title, url: url }).catch(function () { /* user cancelled */ });
+          return;
+        }
+
+        if (kind === 'telegram') {
+          var tg = 'https://t.me/share/url?url=' +
+            encodeURIComponent(url) + '&text=' + encodeURIComponent(title);
+          window.open(tg, '_blank', 'noopener,noreferrer');
+          return;
+        }
+
+        if (kind === 'kakao') {
+          shareKakao(btn, url, title);
           return;
         }
 

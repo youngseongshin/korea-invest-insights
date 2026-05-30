@@ -689,6 +689,58 @@ html[lang^="zh"] .left-sidebar #main-menu > li[data-menu-section]::before {
   margin-top: 0.85rem;
 }
 
+/* Share CTA: two brand buttons (KakaoTalk + Telegram), same widget format. */
+.post-recommendation + .article-share-cta,
+.article-subscribe-cta + .article-share-cta {
+  margin-top: 0.85rem;
+}
+
+.article-share-cta-buttons {
+  flex: 0 0 auto;
+  display: flex;
+  gap: 0.6rem;
+}
+
+.article-share-cta-buttons .post-recommendation-button {
+  min-width: 6rem;
+}
+
+.article-share-kakao-button {
+  border-color: #fee500;
+  background: #fee500;
+  color: #191600;
+}
+
+.article-share-kakao-button:hover:not(:disabled),
+.article-share-kakao-button:focus-visible:not(:disabled) {
+  transform: translateY(-1px);
+  background: #f5dc00;
+}
+
+.article-share-telegram-button {
+  border-color: #0088cc;
+  background: #0088cc;
+  color: #fff;
+  text-decoration: none;
+}
+
+.article-share-telegram-button:hover:not(:disabled),
+.article-share-telegram-button:focus-visible:not(:disabled) {
+  transform: translateY(-1px);
+  background: #0077b3;
+}
+
+@media (max-width: 768px) {
+  .article-share-cta-buttons {
+    width: 100%;
+  }
+
+  .article-share-cta-buttons .post-recommendation-button {
+    flex: 1;
+    min-width: 0;
+  }
+}
+
 .post-recommendation-count {
   min-width: 1.8rem;
   padding: 0.12rem 0.42rem;

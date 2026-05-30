@@ -13,8 +13,9 @@
     {{- if eq .Section "post" -}}
         {{- $recommendation := partial "article/components/recommendations.html" . -}}
         {{- $subscribe := partial "article/components/subscribe-cta.html" . -}}
-        {{/* Telegram CTA sits directly below the top recommendation widget. */}}
-        {{- $widget := printf "%s%s" $recommendation $subscribe -}}
+        {{- $share := partial "article/components/share-cta.html" . -}}
+        {{/* Stack order below the top recommendation widget: subscribe → share. */}}
+        {{- $widget := printf "%s%s%s" $recommendation $subscribe $share -}}
         {{- if $widget -}}
             {{- $summaryPattern := `(?s)(<h2[^>]*>\s*(?:핵심 요약|요약|TL;DR|TL;DR（要旨）|まとめ（TL;DR）|Summary|摘要|核心摘要)\s*</h2>.*?)(<hr>\s*<h2[^>]*>)` -}}
             {{- $summaryFallbackPattern := `(?s)(<h2[^>]*>\s*(?:핵심 요약|요약|TL;DR|TL;DR（要旨）|まとめ（TL;DR）|Summary|摘要|核心摘要)\s*</h2>.*?)(<h2[^>]*>)` -}}

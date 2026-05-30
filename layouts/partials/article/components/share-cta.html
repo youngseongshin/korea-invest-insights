@@ -1,0 +1,66 @@
+{{/*
+  Share CTA for post pages. Same widget format as the recommendation and
+  Telegram-subscribe boxes; sits directly below the subscribe CTA.
+  Channels: KakaoTalk (Kakao JS SDK) + Telegram (t.me share link).
+  The click handlers live in assets/js/article-enhancements.js.
+*/}}
+{{- $lang := .Lang -}}
+{{- $headline := "Share this post" -}}
+{{- $body := "Share this analysis on KakaoTalk or Telegram." -}}
+{{- $kakao := "KakaoTalk" -}}
+{{- $telegram := "Telegram" -}}
+{{- if eq $lang "ko" -}}
+    {{- $headline = "이 글 공유하기" -}}
+    {{- $body = "카카오톡이나 텔레그램으로 이 분석을 공유해 보세요." -}}
+    {{- $kakao = "카카오톡" -}}
+    {{- $telegram = "텔레그램" -}}
+{{- else if eq $lang "ja" -}}
+    {{- $headline = "この記事をシェア" -}}
+    {{- $body = "KakaoTalkやTelegramでこの分析をシェアしましょう。" -}}
+    {{- $kakao = "カカオトーク" -}}
+    {{- $telegram = "Telegram" -}}
+{{- else if eq $lang "zh" -}}
+    {{- $headline = "分享这篇文章" -}}
+    {{- $body = "通过KakaoTalk或Telegram分享这篇分析。" -}}
+    {{- $kakao = "KakaoTalk" -}}
+    {{- $telegram = "Telegram" -}}
+{{- else if eq $lang "es" -}}
+    {{- $headline = "Comparte este artículo" -}}
+    {{- $body = "Comparte este análisis en KakaoTalk o Telegram." -}}
+{{- else if eq $lang "fr" -}}
+    {{- $headline = "Partager cet article" -}}
+    {{- $body = "Partagez cette analyse sur KakaoTalk ou Telegram." -}}
+{{- else if eq $lang "vi" -}}
+    {{- $headline = "Chia sẻ bài viết" -}}
+    {{- $body = "Chia sẻ phân tích này qua KakaoTalk hoặc Telegram." -}}
+{{- end -}}
+{{- $kakaoCfg := .Site.Params.kakao | default dict -}}
+{{- $kakaoKey := $kakaoCfg.jsKey | default (getenv "HUGO_KAKAO_JS_KEY") -}}
+{{- $desc := .Description | default (.Summary | plainify | truncate 120) -}}
+{{- $image := "img/korea-invest-insights-logo.png" | absURL -}}
+{{- with .Params.image -}}
+    {{- if hasPrefix . "http" -}}{{- $image = . -}}{{- end -}}
+{{- end -}}
+<aside class="post-recommendation article-share-cta">
+    <div class="post-recommendation-copy">
+        <div class="post-recommendation-title">🔗 {{ $headline }}</div>
+        <p>{{ $body }}</p>
+    </div>
+    <div class="article-share-cta-buttons">
+        {{- if $kakaoKey -}}
+        <button type="button" class="post-recommendation-button article-share-kakao-button"
+                data-share="kakao"
+                data-url="{{ .Permalink }}"
+                data-title="{{ .Title }}"
+                data-desc="{{ $desc }}"
+                data-image="{{ $image }}"
+                data-kakao-key="{{ $kakaoKey }}">{{ $kakao }}</button>
+        {{- end -}}
+        <a class="post-recommendation-button article-share-telegram-button"
+           href="https://t.me/share/url?url={{ .Permalink }}&text={{ .Title }}"
+           target="_blank" rel="noopener"
+           data-share="telegram"
+           data-url="{{ .Permalink }}"
+           data-title="{{ .Title }}">{{ $telegram }}</a>
+    </div>
+</aside>
