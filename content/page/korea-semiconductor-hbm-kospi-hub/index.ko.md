@@ -5,7 +5,7 @@ date: 2026-04-30T23:05:00+09:00
 aliases: ["/ko/hbm/", "/ko/semiconductor/", "/ko/samsung-hynix/", "/ko/kospi-hbm/", "/ko/page/hbm/"]
 layout: "page"
 description: "AI HBM 허브. 삼성전자, SK하이닉스, HBM, AI 메모리, 코스피 지수 쏠림과 한국 반도체 투자 논거를 한곳에 모은 리서치 허브. HBM 시장점유율, 삼성전자 코스피 비중, KOSPI 리레이팅, AI 서버 수요를 순서대로 정리한다."
-lastmod: 2026-05-30T09:00:00+09:00
+lastmod: 2026-05-31T09:00:00+09:00
 ---
 
 ## 한 줄 결론
@@ -26,6 +26,7 @@ lastmod: 2026-05-30T09:00:00+09:00
 | 마벨·브로드컴 실적은 HBM 투자에 어떤 의미인가 | AI 맞춤형 칩과 이더넷 네트워크가 강하면 HBM 수요는 NVIDIA GPU 단일 고객 의존이 아니라 Broadcom XPU·Google TPU·OpenAI accelerator·Marvell custom silicon까지 넓어진다. | [마벨·브로드컴 실적 전 한국 반도체 병목 점검](/ko/post/marvell-broadcom-earnings-korea-ai-bottleneck-preview-2026-05-23/) |
 | 마벨 Q1 FY2027 실적은 한국 반도체에 어떤 의미인가 | 핵심은 HBM 단일 베팅이 아니라 custom XPU·optical interconnect·scale-up networking이 FCBGA, MLCC, 실리콘 커패시터, 테스트 소켓 병목으로 번진다는 점이다. 한국 read-through는 삼성전기 > 삼성전자·SK하이닉스 > 테스트 소켓 순서다. | [마벨 Q1 FY2027 실적과 한국 반도체](/ko/post/marvell-q1-fy2027-korea-semiconductor-readthrough-2026-05-28/) |
 | NVIDIA GTC 2026 이후 LPX·CMX는 HBM에 부정적인가 | 아니다. LPX는 SRAM 기반 저지연 decode tier, Rubin GPU/HBM은 prefill·attention·verification·large-memory tier, CMX/STX는 KV-cache storage tier다. HBM 대체가 아니라 추론 memory hierarchy 확장이다. | [NVIDIA Vera Rubin 추론 스택: LPX·CMX](/ko/post/nvidia-vera-rubin-lpx-cmx-inference-stack-samsung-hbm-2026-05-28/) |
+| 같은 AI 인프라 사이클인데 왜 삼성전자는 싸고 삼성전기는 비싸 보이나 | 멀티플은 AI 노출도가 아니라 이익 지속기간, 가격 결정권, 고객 lock-in, capex 부담, 피크이익 의심의 함수다. 삼성전자는 HBM catch-up과 memory hierarchy option을 낮은 멀티플에 보유하지만, 삼성전기는 MLCC·FC-BGA·Si-Cap thesis가 이미 높은 가격에 반영됐다. | [AI 인프라 멀티플 지도](/ko/post/ai-infrastructure-multiple-map-gpu-hbm-mlcc-fcbga-samsung-2026-05-31/) |
 | 삼성전기 시총 100조원은 HBM thesis와 어떻게 연결되나 | HBM이 커질수록 GPU·ASIC 패키지 안쪽의 전력 안정화와 FC-BGA도 같이 병목이 된다. 삼성전기 100조원은 HBM 아래 전력무결성 레이어가 별도 멀티플을 받기 시작했다는 신호다. | [삼성전기 시총 100조 돌파](/ko/post/samsung-electro-mechanics-100tn-murata-hyundai-market-cap-2026-05-26/) |
 | AI 서버 수동소자 병목은 HBM 투자와 어떻게 연결되나 | GPU·HBM 패키지가 커질수록 순간 전력 피크를 잡는 MLCC·실리콘 커패시터·인덕터가 성능 병목이 된다. 즉 HBM 투자는 메모리만이 아니라 전력무결성 부품까지 같이 봐야 한다. | [AI 서버 수동소자 병목: 삼성전기 기술 설명](/ko/post/ai-server-passive-components-bottleneck-samsung-electro-mechanics-2026-05-26/) |
 | 한국 증시 시총 세계 6위는 HBM 투자에 어떤 의미인가 | 세계 6위 헤드라인은 매수 신호가 아니라 삼성전자·SK하이닉스 AI 메모리 이익 지속성과 KOSPI 집중도를 검증하라는 신호다. | [Why Korea 5편: 한국 시총 세계 6위](/ko/post/why-korea-market-cap-global-six-ai-memory-rerating-2026-05-24/) |
@@ -43,6 +44,8 @@ lastmod: 2026-05-30T09:00:00+09:00
 
 | 날짜 | 주제 | 자세히 보기 |
 |---|---|---|
+| 2026-05-31 | <strong>AI 인프라 멀티플 지도 — 왜 삼성전자는 싸고 삼성전기는 비싸 보이는가</strong> — GPU, HBM, CPU, MLCC, FC-BGA가 같은 AI capex 사이클에 있어도 서로 다른 멀티플을 받아야 하는 이유를 가격 결정권, LTA, 고객 lock-in, capex 부담, 피크이익 의심으로 분해. 결론은 삼성전자 상대가치 우위와 삼성전기 추격 부담 | [AI 인프라 멀티플 지도](/ko/post/ai-infrastructure-multiple-map-gpu-hbm-mlcc-fcbga-samsung-2026-05-31/) |
+| 2026-05-31 | <strong>골드만 토큰 수요 vs JP모간 메모리 ASP 피크아웃</strong> — 골드만은 토큰 24배·토큰당 비용 연 60-70% 하락을, JP모간은 DRAM·NAND ASP 전년 대비 상승률의 2027년 둔화를 본다. P·Q·C로 분리하면 충돌이 아니며, 2026 메모리 베타 → 2027 가격 모멘텀 피크아웃 → 2028-2030 토큰원가 절감 스택으로 알파가 이동한다 | [골드만 토큰 수요 vs JP모간 메모리 ASP 피크아웃](/ko/post/goldman-token-demand-vs-jpm-memory-asp-peakout-korea-semiconductor-2026-05-31/) |
 | 2026-05-30 | <strong>AI 토큰 선물과 토큰당 비용 — 성능 경쟁에서 비용 경쟁으로</strong> — 상하이선물거래소가 AI 토큰 가격 연동 선물을 초기 설계 중이고 CME·ICE가 GPU 컴퓨트 선물을 준비하면서, AI 사용량에 시장 가격이 붙으면 산업 축이 성능에서 토큰당 비용으로 이동한다. 결론은 일반 AI 주식이 아니라 토큰당 비용을 낮추는 병목(맞춤형 ASIC → 메모리·KV-cache → 패키지)을 사는 것이고, 한국에서는 삼성전자가 가장 균형 잡힌 선택 | [AI 토큰 선물과 토큰당 비용 투자 논거](/ko/post/ai-token-futures-cost-per-token-korea-semiconductor-thesis-2026-05-30/) |
 | 2026-05-29 | <strong>델(Dell) Q1 FY2027 실적과 한국 AI 서버 마진 read-through</strong> — 실적은 깜짝 호조였지만 AI 서버 매출총이익률이 21.6%에서 18.1%로 눌렸다. 가격 결정력과 지속 마진은 서버 조립사가 아니라 메모리(삼성전자·SK하이닉스)와 고부가 패키지·수동소자(삼성전기) 같은 상위 부품에 있다는 신호 | [델 Q1 FY2027 실적과 한국 AI 서버 마진](/ko/post/dell-q1-fy2027-earnings-korea-ai-server-margin-readthrough-2026-05-29/) |
 | 2026-05-28 | <strong>NVIDIA GTC 2026 이후 Vera Rubin 추론 스택 변화</strong> — CPX 공식 취소가 아니라 LPX·CMX/STX·SPX가 전면에 선 heterogeneous AI factory 구조로 재해석하고, 삼성전자를 HBM4·SOCAMM2·Groq LPU·eSSD/KV-cache 공급자로 연결 | [NVIDIA Vera Rubin 추론 스택](/ko/post/nvidia-vera-rubin-lpx-cmx-inference-stack-samsung-hbm-2026-05-28/) |
