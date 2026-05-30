@@ -5,6 +5,7 @@ date: 2026-04-30T23:05:00+09:00
 aliases: ["/k-beauty/", "/olive-young/", "/pharmaresearch/", "/rejuran/", "/en/k-beauty/", "/en/olive-young/", "/en/pharmaresearch/", "/en/rejuran/", "/en/page/k-beauty-olive-young-pharmaresearch-hub/", "/es/page/k-beauty-olive-young-pharmaresearch-hub/", "/vi/page/k-beauty-olive-young-pharmaresearch-hub/", "/fr/page/k-beauty-olive-young-pharmaresearch-hub/", "/ja/page/k-beauty-olive-young-pharmaresearch-hub/", "/zh/page/k-beauty-olive-young-pharmaresearch-hub/"]
 layout: "page"
 description: "A research hub for Olive Young, CJ Corp, PharmaResearch, Rejuran, APR and Korean beauty equities. Covers whether Olive Young is publicly traded, CJ as indirect exposure, PharmaResearch's PN/PDRN platform and listed K-beauty growth stocks."
+lastmod: 2026-05-31T10:00:00+09:00
 ---
 
 ## One-Line Thesis
@@ -21,6 +22,7 @@ K-beauty is not one trade. <strong>Olive Young is a private retail and discovery
 | Is Olive Young publicly traded? | No. CJ Olive Young is private. The closest listed indirect proxy is CJ Corporation, while CJ CheilJedang is a separate food and bio company rather than a direct Olive Young exposure. | [Is Olive Young Publicly Traded?](/post/olive-young-publicly-traded-cj-corp-korea-beauty-exposure-2026-04-27/) |
 | What would an Olive Young IPO mean? | An IPO could crystallize hidden value inside CJ Corp and reduce the holding-company discount, but there is no confirmed listing timetable as of April 2026. | [CJ Corp and Olive Young Deep Dive](/post/kr-deep-dive-cj-olive-young-2026-04-05/) |
 | Who owns Rejuran? | Rejuran is owned and manufactured by PharmaResearch. The investment thesis is not just the consumer brand, but the PN/PDRN platform and global medical-aesthetics expansion. | [Who Owns Rejuran?](/post/rejuran-owner-pharmaresearch-pn-technology-skin-booster-2026-04-27/) |
+| Can PharmaResearch re-rate again? | Yes, but the key is no longer just the Rejuran medical-device monopoly story. The proof points are U.S. repeat sales for Rejuran Cosmetics, 2Q26 cosmetics exports above KRW 30B and OPM above 38%. | [PharmaResearch Re-Rating Check](/post/pharmaresearch-rejuran-cosmetics-olive-young-us-rerating-2026-05-31/) |
 | Which listed K-beauty growth stocks matter? | PharmaResearch, APR, Cosmax, Kolmar Korea, AmorePacific and LG H&H offer different forms of K-beauty exposure across medical aesthetics, devices, ODM and consumer brands. | [PharmaResearch Deep Dive](/post/kr-deep-dive-pharma-research-products-2026-04-16/) · [APR Analysis](/post/apr-medicube-age-r-deep-dive-valuation-2026/) |
 
 ---
@@ -34,7 +36,8 @@ K-beauty is not one trade. <strong>Olive Young is a private retail and discovery
 | 3 | What is the CJ holding-company discount and Olive Young IPO option? | [CJ Corp and Olive Young: Korea's Hidden K-Beauty Asset](/post/kr-deep-dive-cj-olive-young-2026-04-05/) |
 | 4 | What is the real investment point behind Rejuran and PharmaResearch? | [Who Owns Rejuran? PharmaResearch and Korea's Skin-Booster Platform](/post/rejuran-owner-pharmaresearch-pn-technology-skin-booster-2026-04-27/) |
 | 5 | How scalable is PharmaResearch's PN/PDRN platform? | [PharmaResearch: The PDRN Pioneer Behind Rejuran](/post/kr-deep-dive-pharma-research-products-2026-04-16/) |
-| 6 | What kind of K-beauty growth stock is APR? | [APR Analysis: Medicube and AGE-R's K-Beauty Growth Platform](/post/apr-medicube-age-r-deep-dive-valuation-2026/) |
+| 6 | After the multiple compression, can Rejuran Cosmetics' U.S. channel traction re-open the re-rating path? | [PharmaResearch Re-Rating Check](/post/pharmaresearch-rejuran-cosmetics-olive-young-us-rerating-2026-05-31/) |
+| 7 | What kind of K-beauty growth stock is APR? | [APR Analysis: Medicube and AGE-R's K-Beauty Growth Platform](/post/apr-medicube-age-r-deep-dive-valuation-2026/) |
 
 ---
 
@@ -52,6 +55,7 @@ K-beauty is not one trade. <strong>Olive Young is a private retail and discovery
 
 ### Rejuran and PharmaResearch
 
+- [PharmaResearch Re-Rating Check: Can Rejuran Move From Medical Device Monopoly to U.S. Derma-Cosmetics Platform?](/post/pharmaresearch-rejuran-cosmetics-olive-young-us-rerating-2026-05-31/)
 - [Who Owns Rejuran? PharmaResearch and Korea's Skin-Booster Platform](/post/rejuran-owner-pharmaresearch-pn-technology-skin-booster-2026-04-27/)
 - [PharmaResearch: The PDRN Pioneer Behind Rejuran](/post/kr-deep-dive-pharma-research-products-2026-04-16/)
 
