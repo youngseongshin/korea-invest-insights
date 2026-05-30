@@ -33,7 +33,7 @@ buildFuture = true  # 장마감 브리핑(16:30 KST) 등 발행 시각보다 살
     # partial reads this, falling back to the HUGO_KAKAO_JS_KEY env var.
     # NOTE: koreainvestinsights.com must be registered under the Kakao app's
     # Web platform domains for KakaoTalk share to succeed.
-    jsKey = "f24b273c34253a242073746feb7b0305"
+    jsKey = "72f53c89262506bf799120ccecd93649"
   [params.sidebar]
     avatar = "img/korea-invest-insights-logo.png"
     subtitle = "We map Korea’s alpha."
