@@ -612,17 +612,17 @@ html[lang^="zh"] .left-sidebar #main-menu > li[data-menu-section]::before {
 }
 
 .post-recommendation-title {
-  margin: 0 0 0.25rem;
+  margin: 0 0 0.3rem;
   font-weight: 700;
-  font-size: 1.02rem;
+  font-size: 1.2rem;
   color: var(--card-text-color-main, inherit);
 }
 
 .post-recommendation-copy p,
 .post-recommendation-status {
   margin: 0;
-  font-size: 0.92rem;
-  line-height: 1.45;
+  font-size: 1.04rem;
+  line-height: 1.5;
   color: var(--card-text-color-secondary, rgba(71, 85, 105, 0.9));
 }
 
@@ -653,7 +653,7 @@ html[lang^="zh"] .left-sidebar #main-menu > li[data-menu-section]::before {
   background: var(--accent-color, #2563eb);
   color: var(--accent-color-text, #fff);
   font-weight: 700;
-  font-size: 0.94rem;
+  font-size: 1.02rem;
   cursor: pointer;
   transition: transform 0.15s ease, opacity 0.15s ease, background-color 0.15s ease;
 }
@@ -667,6 +667,26 @@ html[lang^="zh"] .left-sidebar #main-menu > li[data-menu-section]::before {
 .post-recommendation-button:disabled {
   cursor: default;
   opacity: 0.76;
+}
+
+/* Telegram subscribe CTA: same widget format, telegram-blue accent.
+   Declared after the base button rules so the brand color wins on hover. */
+.article-subscribe-cta-button {
+  border-color: #0088cc;
+  background: #0088cc;
+  color: #fff;
+  text-decoration: none;
+}
+
+.article-subscribe-cta-button:hover:not(:disabled),
+.article-subscribe-cta-button:focus-visible:not(:disabled) {
+  transform: translateY(-1px);
+  background: #0077b3;
+}
+
+/* Sit the CTA snugly beneath the recommendation widget when both are present. */
+.post-recommendation + .article-subscribe-cta {
+  margin-top: 0.85rem;
 }
 
 .post-recommendation-count {

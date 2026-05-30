@@ -38,10 +38,12 @@
     {{- $body = "Subscribe to the Telegram channel for instant notifications on every new post." -}}
     {{- $cta = "Subscribe on Telegram" -}}
 {{- end -}}
-<aside class="article-subscribe-cta" style="margin: 1.5rem 0 2rem; padding: 1.25rem 1.5rem; border-left: 4px solid #0088cc; background: var(--card-background, #f5f7fa); border-radius: 6px;">
-    <div style="font-weight: 600; font-size: 1.05rem; margin-bottom: 0.35rem; color: var(--card-text-color-main, #22272e);">📡 {{ $headline }}</div>
-    <div style="font-size: 0.95rem; margin-bottom: 0.75rem; color: var(--card-text-color-secondary, #59625c);">{{ $body }}</div>
-    <a href="https://t.me/korea_invest_insights" target="_blank" rel="noopener" style="display: inline-block; padding: 0.5rem 1rem; background: #0088cc; color: #fff; text-decoration: none; border-radius: 4px; font-weight: 500; font-size: 0.95rem;">
-        {{ $cta }} →
-    </a>
+{{/* Same layout/classes as the recommendation widget so the two boxes match.
+     The telegram-blue button accent is applied via .article-subscribe-cta-button. */}}
+<aside class="post-recommendation article-subscribe-cta">
+    <div class="post-recommendation-copy">
+        <div class="post-recommendation-title">📡 {{ $headline }}</div>
+        <p>{{ $body }}</p>
+    </div>
+    <a class="post-recommendation-button article-subscribe-cta-button" href="https://t.me/korea_invest_insights" target="_blank" rel="noopener">{{ $cta }} →</a>
 </aside>
