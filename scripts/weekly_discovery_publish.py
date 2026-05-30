@@ -168,15 +168,21 @@ def scan_gate(text: str) -> tuple[list[str], list[str]]:
     return hard, soft
 
 
-def build_post(date: str, public_md: str, soft: list[str]) -> str:
-    review_banner = (
-        "> **DRAFT — 검토 필요.** 격자 주간 발굴 결산에서 비공개 포트폴리오 판단"
-        "(리포트×스크리너 교집합·실전 편입 후보·비중·재원·소액 옵션·추격 주의·체크포인트)은 "
-        "모두 제외하고, 외부 데이터 요약(§1 애널리스트 리포트 발굴 · §2 스크리너 발굴)만 추렸습니다. "
-        "공개 전 반드시 사람이 검토하세요."
-    )
-    if soft:
-        review_banner += "\n>\n> ⚠️ 검토 포인트(매매 동사 감지): " + "; ".join(soft)
+def build_post(date: str, public_md: str, soft: list[str], publish: bool = False) -> str:
+    # The DRAFT review banner is internal-only — it must never appear in a live
+    # (draft:false) post. Published posts get a neutral one-line provenance note.
+    if publish:
+        notice = ""
+    else:
+        banner = (
+            "> **DRAFT — 검토 필요.** 격자 주간 발굴 결산에서 비공개 포트폴리오 판단"
+            "(리포트×스크리너 교집합·실전 편입 후보·비중·재원·소액 옵션·추격 주의·체크포인트)은 "
+            "모두 제외하고, 외부 데이터 요약(§1 애널리스트 리포트 발굴 · §2 스크리너 발굴)만 추렸습니다. "
+            "공개 전 반드시 사람이 검토하세요."
+        )
+        if soft:
+            banner += "\n>\n> ⚠️ 검토 포인트(매매 동사 감지): " + "; ".join(soft)
+        notice = banner + "\n\n"
     desc = "이번 주 애널리스트 리포트와 스크리너에서 반복 포착된 테마와 종목을 발굴 관점에서 정리한다. (비공개 포트폴리오 판단 제외)"
     return f"""---
 title: "주간 발굴 결산 — {date} 테마·종목 디스커버리"
@@ -190,12 +196,10 @@ tags:
   - "스크리너"
   - "테마 디스커버리"
 series: ["Weekly Discovery"]
-draft: true
+draft: {"false" if publish else "true"}
 ---
 
-{review_banner}
-
-{public_md}
+{notice}{public_md}
 
 ---
 
@@ -236,9 +240,7 @@ def main(argv: list[str] | None = None) -> int:
         return 2
     print(f"[GATE: PASS] no HARD leaks. SOFT warnings: {soft or '(none)'}")
 
-    post = build_post(date, public_md, soft)
-    if args.publish:
-        post = post.replace("draft: true", "draft: false", 1)
+    post = build_post(date, public_md, soft, publish=args.publish)
 
     out_dir = REPO_ROOT / "content" / "post" / f"weekly-discovery-review-{date}"
     out_path = out_dir / "index.ko.md"
