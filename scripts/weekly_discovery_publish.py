@@ -47,9 +47,13 @@ def briefs_dir() -> Path | None:
         pass
     return None
 
-# Section heading number → keep (thematic discovery) vs drop (portfolio decision).
-KEEP_SECTIONS = {"1", "2", "3"}
-DROP_SECTIONS = {"4", "5", "6", "7"}
+# Section heading number → keep vs drop.
+# §1 analyst reports + §2 screener lists are summaries of EXTERNAL data (tickers OK).
+# §3 (교집합) onward interleaves 격자's OWN portfolio judgment — holdings, sizing,
+# buy/sell, timing — so it is dropped. (Learned 2026-05-30: §3 leaked "이미 포트에 있고
+# / 일부 현금화 후보 / 1~2% 파일럿 / 추격 금지 / 종가·RSI"; keep-list tightened to §1-2,
+# unknown/unnumbered sections now also drop, and the gate was hardened below.)
+KEEP_SECTIONS = {"1", "2"}
 
 # HARD: true confidentiality leaks. Never legitimately in a public thematic post.
 # THIS REPO IS PUBLIC — in-repo patterns are GENERIC only (Korean-finance position
@@ -57,10 +61,11 @@ DROP_SECTIONS = {"4", "5", "6", "7"}
 # vault taxonomy, and live ids load at runtime from an external gitignored file
 # (~/.config/korea-invest-insights/redaction_patterns.txt) so they never enter git.
 HARD_PATTERNS = {
-    "포지션/비중": re.compile(r"비중|오버\s?웨이트|언더\s?웨이트|풀\s?포지션|분할\s?매수|포지션\s*(사이|크기)"),
-    "재원/현금": re.compile(r"재원|현금\s*\d+\s*%|현금\s*비중|실탄"),
-    "보유 공개": re.compile(r"보유\s*(종목|중|비중|중인)|내\s*포트|우리\s*포트|포트폴리오에\s*(넣|실|담)"),
-    "계좌/체결": re.compile(r"계좌|주문\s*번호|체결\s*(가|단가|내역)|평단(가)?"),
+    "포지션/사이징": re.compile(r"비중|오버\s?웨이트|언더\s?웨이트|풀\s?포지션|분할\s?(매수|매도)|파일럿|포지션\s*(사이|크기)|\d+\s*%\s*(이하|이상|내외)?\s*(파일럿|비중|편입)"),
+    "재원/현금화": re.compile(r"재원|현금화|일부\s*현금|차익\s*실현|현금\s*\d+\s*%|현금\s*비중|실탄|비중\s*(축소|확대|조절)"),
+    "보유/편입 공개": re.compile(r"이미\s*포트|포트(폴리오)?\s*에?\s*(있|편입|넣|담|실)|편입\s*후보|보유\s*(종목|중|비중|중인)|내\s*포트|우리\s*포트|들고\s*있"),
+    "타이밍 판단": re.compile(r"추격\s*금지|눌림\s*(조건|대기|매수|시|에)|오버슛|신규\s*매수\s*후보|진입\s*금지"),
+    "보유 디테일/계좌": re.compile(r"계좌|주문\s*번호|체결\s*(가|단가|내역)|평단가?|종가\s*[\d,]+\s*만\s*원|RSI\s*\d|수익률\s*[+\-]?\d"),
     "telegram bot token": re.compile(r"\b\d{8,10}:[A-Za-z0-9_-]{35}\b"),
     "api key": re.compile(r"\bsk-[A-Za-z0-9]{20,}\b"),
     "private key": re.compile(r"-----BEGIN (?:RSA |EC |DSA |OPENSSH |PGP )?PRIVATE KEY-----"),
@@ -134,15 +139,18 @@ def section_number(heading: str) -> str | None:
 
 
 def transform(body: str) -> tuple[str, list[str]]:
-    """Keep thematic sections; drop portfolio-decision sections. Return (public_md, dropped)."""
+    """Keep ONLY allow-listed external sections; drop everything else (default-deny).
+
+    Return (public_md, dropped_headings). Unknown/unnumbered sections are dropped,
+    not kept — a new portfolio-judgment section must never pass by default.
+    """
     kept, dropped = [], []
     for heading, block in split_sections(body):
         num = section_number(heading)
-        if num in DROP_SECTIONS:
-            dropped.append(heading.strip())
-            continue
-        if num in KEEP_SECTIONS or num is None:
+        if num in KEEP_SECTIONS:
             kept.append(f"{heading}\n{block}".rstrip())
+        else:
+            dropped.append(heading.strip())
     return "\n\n".join(kept).strip(), dropped
 
 
@@ -163,8 +171,9 @@ def scan_gate(text: str) -> tuple[list[str], list[str]]:
 def build_post(date: str, public_md: str, soft: list[str]) -> str:
     review_banner = (
         "> **DRAFT — 검토 필요.** 격자 주간 발굴 결산에서 비공개 포트폴리오 판단"
-        "(실전 편입 후보·비중·재원·소액 옵션·추격 주의·체크포인트)은 제외하고 "
-        "테마/매크로 발굴 부분만 추렸습니다. 공개 전 반드시 사람이 검토하세요."
+        "(리포트×스크리너 교집합·실전 편입 후보·비중·재원·소액 옵션·추격 주의·체크포인트)은 "
+        "모두 제외하고, 외부 데이터 요약(§1 애널리스트 리포트 발굴 · §2 스크리너 발굴)만 추렸습니다. "
+        "공개 전 반드시 사람이 검토하세요."
     )
     if soft:
         review_banner += "\n>\n> ⚠️ 검토 포인트(매매 동사 감지): " + "; ".join(soft)
