@@ -17,6 +17,8 @@ tags:
 ---
 
 > 🔗 <strong>함께 읽기</strong>: [삼성전자 Citi 목표가 46만원 — 메모리 사이클 프레임 재해석](/ko/post/samsung-electronics-citi-tp-460000-memory-rerating-2026-05-11/) · [KOSPI 5월 13일 V자 반등 — 외국인 3.76조 매도에도 신고가](/ko/post/kospi-may-13-v-reversal-large-cap-compression-rally-2026-05-14/) · [Why Korea 4편 — 67억 달러 유입과 코리아 할인 vs 밸류 트랩](/ko/post/korea-67-billion-etf-inflow-korea-discount-or-value-trap-2026-05-09/)
+>
+> 후속 분석: [파두는 샌디스크의 한국 베타인가 — 외국인 수급과 AI 스토리지 병목 검증](/ko/post/fadu-sandisk-ai-storage-korea-beta-jeju-semiconductor-2026-05-31/)
 
 *제주반도체가 하루에 28% 올랐다. 이유는 1분기 실적이 폭발했기 때문이다. 매출 1,805억원, 영업이익 671억원, 이익률 37.2%. 전년 같은 기간 대비 매출 +273%, 영업이익 +1,713%. 그런데 이 회사가 뭘 하는 곳인지 모르는 사람이 많다. 삼성전자나 SK하이닉스 같은 AI 반도체 회사가 아니다. HBM도 안 만든다. IoT 기기, 중저가 스마트폰, 자동차 전장에 들어가는 '저전력 메모리'를 설계하는 팹리스(공장 없는 반도체 회사)다. 그런데 왜 이렇게 돈을 많이 벌었을까.*
 

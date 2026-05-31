@@ -17,6 +17,8 @@ tags:
 ---
 
 > 🔗 <strong>À lire aussi</strong> : [Samsung Electronics — Objectif de cours Citi ₩460 000 — Réinitialisation du cadre cycle mémoire](/post/samsung-electronics-citi-tp-460000-memory-rerating-2026-05-11/) · [KOSPI 13 mai, retournement en V — Record absolu malgré ₩3,76 Mds de ventes étrangères](/post/kospi-may-13-v-reversal-large-cap-compression-rally-2026-05-14/) · [Pourquoi la Corée ? (4/4) — 6,7 Mds $, décote coréenne en train de se dissoudre ou value trap ?](/post/korea-67-billion-etf-inflow-korea-discount-or-value-trap-2026-05-09/)
+>
+> Suite : [FADU est-il le bêta coréen de Sandisk ?](/post/fadu-sandisk-ai-storage-korea-beta-jeju-semiconductor-2026-05-31/)
 
 *Jeju Semiconductor a terminé le 14 mai en hausse de +28 %. Le déclencheur : des résultats 1T26 exceptionnellement solides — CA ₩180,5 Mds, RO ₩67,1 Mds, marge opérationnelle 37,2 % ; CA en progression de +273 % sur un an, RO de +1 713 %. La plupart des investisseurs ne savent pas réellement ce que fait cette société. Ce n'est ni Samsung ni SK hynix. Elle ne fabrique pas de HBM. C'est un concepteur fabless de mémoire basse consommation (MCP, LPDDR) pour l'IoT, les smartphones d'entrée et milieu de gamme, et l'électronique automobile. Alors pourquoi gagne-t-elle autant d'argent ?*
 

@@ -17,6 +17,8 @@ tags:
 ---
 
 > 🔗 <strong>Related</strong>: [Samsung Electronics Citi TP ₩460,000 — Memory-Cycle Frame Reset](/post/samsung-electronics-citi-tp-460000-memory-rerating-2026-05-11/) · [KOSPI May 13 V-Reversal — All-Time High Through ₩3.76tn Foreign Selling](/post/kospi-may-13-v-reversal-large-cap-compression-rally-2026-05-14/) · [Why Korea Part 4 — $6.7B Inflows, Korea-Discount Dissolving or Value Trap?](/post/korea-67-billion-etf-inflow-korea-discount-or-value-trap-2026-05-09/)
+>
+> Follow-up: [Is FADU Korea's Sandisk Beta? Foreign Flows and the AI Storage Bottleneck](/post/fadu-sandisk-ai-storage-korea-beta-jeju-semiconductor-2026-05-31/)
 
 *Jeju Semiconductor closed +28% on May 14. The trigger is a 1Q26 print that came in extraordinarily strong — revenue ₩180.5bn, OP ₩67.1bn, OPM 37.2%; YoY revenue +273% and OP +1,713%. Most market participants are unfamiliar with what the company actually does. It isn't Samsung or SK hynix. It doesn't make HBM. It's a fabless designer of low-power memory (MCP, LPDDR) for IoT devices, mid-tier smartphones, and automotive electronics. So why is it earning so much money?*
 

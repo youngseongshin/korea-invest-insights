@@ -5,7 +5,7 @@ date: 2026-04-30T23:05:00+09:00
 aliases: ["/hbm/", "/semiconductor/", "/samsung-hynix/", "/kospi-hbm/", "/en/hbm/", "/en/semiconductor/", "/en/samsung-hynix/", "/en/kospi-hbm/", "/en/page/korea-semiconductor-hbm-kospi-hub/", "/es/page/korea-semiconductor-hbm-kospi-hub/", "/vi/page/korea-semiconductor-hbm-kospi-hub/", "/fr/page/korea-semiconductor-hbm-kospi-hub/", "/ja/page/korea-semiconductor-hbm-kospi-hub/", "/zh/page/korea-semiconductor-hbm-kospi-hub/"]
 layout: "page"
 description: "AI HBM hub for Samsung Electronics, SK Hynix, HBM, AI memory and KOSPI concentration. Covers HBM market share, Samsung's KOSPI weight, Korean semiconductor exposure and the 2026 KOSPI re-rating thesis."
-lastmod: 2026-05-31T12:15:00+09:00
+lastmod: 2026-05-31T13:20:00+09:00
 ---
 
 ## One-Line Thesis
@@ -23,6 +23,7 @@ Korean semiconductor exposure is not one trade. It combines <strong>SK Hynix's H
 | Samsung or SK Hynix: which is cleaner HBM exposure? | SK Hynix is the cleaner public HBM exposure. Samsung is a broader semiconductor and electronics compounder with HBM recovery, DDR5/eSSD, foundry and device exposure. | [SK Hynix Deep Dive](/post/kr-deep-dive-sk-hynix-2026-04-16/) · [Samsung Electronics Deep Dive](/post/kr-deep-dive-samsung-electronics-2026-04-16/) |
 | Is SK Hynix's higher P/E versus Samsung a new normal? | The 2026E annual P/E inversion is unusual but explainable through the HBM bottleneck premium. The 12-month-forward view is closer to parity, and the cleaner relative-value alpha is Samsung's HBM4E catch-up rather than chasing SK Hynix. | [Samsung vs SK Hynix Forward P/E Inversion](/post/samsung-sk-hynix-forward-per-inversion-hbm-catchup-2026-05-31/) |
 | Is Micron's higher forward P/E versus SK Hynix a technology premium? | Not really. SK Hynix still leads on technology, references and current HBM profitability, while Micron earns a U.S.-listed AI-memory scarcity premium plus an HBM4, SOCAMM2 and Gen6 SSD platform narrative. | [SK Hynix vs Micron](/post/sk-hynix-vs-micron-hbm-premium-ai-memory-platform-2026-05-31/) |
+| Is FADU Korea's Sandisk beta? | Foreign flow says the relationship is forming: foreigners net bought about KRW 445.1bn of FADU since May, but return correlation is not yet as structural as SK Hynix-Micron. | [FADU and Sandisk AI storage beta](/post/fadu-sandisk-ai-storage-korea-beta-jeju-semiconductor-2026-05-31/) |
 | Why is HBM a bottleneck from a chip-design perspective? | AI performance is less about headline FLOPS and more about how close data sits to compute. HBM is the common memory bottleneck for GPUs and custom ASICs, and it pulls FC-BGA, PCBs and power-integrity parts into the same thesis. | [AI chip design and the data-movement bottleneck](/post/ai-chip-design-data-movement-fcbga-bottleneck-2026-05-24/) |
 | What do Marvell and Broadcom earnings mean for HBM? | If custom AI chips and AI Ethernet networking stay strong, HBM demand broadens beyond Nvidia GPUs into Broadcom XPUs, Google TPUs, OpenAI accelerators and Marvell custom silicon. | [Marvell and Broadcom earnings preview for Korea's AI bottlenecks](/post/marvell-broadcom-earnings-korea-ai-bottleneck-preview-2026-05-23/) |
 | What does Marvell Q1 FY2027 mean for Korean semiconductors? | The key is not a simple HBM-only trade. Custom XPU, optical interconnect and scale-up networking push the bottleneck into FCBGA, MLCC, silicon capacitors and test sockets. | [Marvell Q1 FY2027 and Korean semiconductors](/post/marvell-q1-fy2027-korea-semiconductor-readthrough-2026-05-28/) |
@@ -44,6 +45,7 @@ Korean semiconductor exposure is not one trade. It combines <strong>SK Hynix's H
 
 | Date | Topic | Read |
 |---|---|---|
+| 2026-05-31 | <strong>Is FADU Korea's Sandisk beta?</strong> — tests whether FADU is being discovered as a Korean high-beta proxy for AI storage/NAND using KRW 445.1bn of foreign net buying since May, institution selling and FADU-Sandisk return correlations | [FADU and Sandisk AI storage beta](/post/fadu-sandisk-ai-storage-korea-beta-jeju-semiconductor-2026-05-31/) |
 | 2026-05-31 | <strong>SK Hynix vs Micron — HBM technology premium or U.S. listing premium?</strong> — compares two trillion-dollar AI-memory stocks: SK Hynix as the technology/reference/HBM-profitability leader and Micron as the U.S.-listed scarcity proxy with an HBM4, SOCAMM2 and Gen6 SSD story | [SK Hynix vs Micron](/post/sk-hynix-vs-micron-hbm-premium-ai-memory-platform-2026-05-31/) |
 | 2026-05-31 | <strong>Samsung vs SK Hynix Forward P/E inversion</strong> — decomposes SK Hynix's slight 2026E P/E premium into HBM bottleneck value and Samsung's HBM laggard discount. The conclusion: annual P/E has inverted, 12MF is closer to parity, and the cleaner alpha is Samsung's HBM4E catch-up trade | [Samsung vs SK Hynix Forward P/E Inversion](/post/samsung-sk-hynix-forward-per-inversion-hbm-catchup-2026-05-31/) |
 | 2026-05-31 | <strong>AI Infrastructure Multiple Map — why Samsung Electronics looks cheap and Samsung Electro-Mechanics looks expensive</strong> — decomposes why GPU, HBM, CPU, MLCC and FC-BGA deserve different multiples inside the same AI capex cycle, using pricing power, LTAs, customer lock-in, capex burden and peak-earnings doubt. Bottom line: Samsung Electronics has the cleaner relative-value case; SEMCO is a thesis with chase risk | [AI Infrastructure Multiple Map](/post/ai-infrastructure-multiple-map-gpu-hbm-mlcc-fcbga-samsung-2026-05-31/) |
@@ -94,6 +96,7 @@ Korean semiconductor exposure is not one trade. It combines <strong>SK Hynix's H
 
 - [Samsung vs SK Hynix Forward P/E Inversion: Is the HBM Premium a New Normal?](/post/samsung-sk-hynix-forward-per-inversion-hbm-catchup-2026-05-31/)
 - [SK Hynix vs Micron: HBM Technology Premium or U.S. Listing Premium?](/post/sk-hynix-vs-micron-hbm-premium-ai-memory-platform-2026-05-31/)
+- [Is FADU Korea's Sandisk Beta? Foreign Flows and the AI Storage Bottleneck](/post/fadu-sandisk-ai-storage-korea-beta-jeju-semiconductor-2026-05-31/)
 - [After NVIDIA, the AI semiconductor bottleneck: data movement, HBM, FC-BGA and power integrity](/post/ai-chip-design-data-movement-fcbga-bottleneck-2026-05-24/)
 - [AI server passive-component bottleneck: why tiny power-stability parts now matter](/post/ai-server-passive-components-bottleneck-samsung-electro-mechanics-2026-05-26/)
 - [SEMCO at KRW 100T: Can It Overtake Murata and Hyundai Motor?](/post/samsung-electro-mechanics-100tn-murata-hyundai-market-cap-2026-05-26/)

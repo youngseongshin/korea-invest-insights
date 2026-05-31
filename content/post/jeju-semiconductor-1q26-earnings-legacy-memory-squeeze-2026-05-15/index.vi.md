@@ -17,6 +17,8 @@ tags:
 ---
 
 > 🔗 <strong>Liên quan</strong>: [Samsung Electronics — Citi nâng TP lên ₩460.000 — Tái Định Giá Chu Kỳ Bộ Nhớ](/post/samsung-electronics-citi-tp-460000-memory-rerating-2026-05-11/) · [KOSPI Phục Hồi Chữ V Ngày 13/5 — Lập Đỉnh Mọi Thời Đại Giữa ₩3,76 nghìn tỷ Khối Ngoại Bán Ròng](/post/kospi-may-13-v-reversal-large-cap-compression-rally-2026-05-14/) · [Tại Sao Hàn Quốc — Phần 4: $6,7 tỷ Đổ Vào, Korea-Discount Đang Tan Biến Hay Bẫy Giá Trị?](/post/korea-67-billion-etf-inflow-korea-discount-or-value-trap-2026-05-09/)
+>
+> Bài tiếp theo: [FADU có phải beta Hàn Quốc của Sandisk?](/post/fadu-sandisk-ai-storage-korea-beta-jeju-semiconductor-2026-05-31/)
 
 *Jeju Semiconductor tăng +28% ngày 14/5. Chất xúc tác là kết quả 1Q26 vượt kỳ vọng mạnh mẽ — doanh thu ₩180,5 tỷ, LNHĐ ₩67,1 tỷ, biên LNHĐ 37,2%; doanh thu tăng +273% và LNHĐ tăng +1.713% so cùng kỳ. Phần lớn nhà đầu tư không thực sự hiểu công ty này làm gì. Đây không phải Samsung hay SK hynix. Công ty không sản xuất HBM. Đây là hãng thiết kế fabless chuyên bộ nhớ tiêu thụ điện thấp (MCP, LPDDR) cho thiết bị IoT, smartphone tầm trung và điện tử ô tô. Vậy tại sao lợi nhuận lại lớn đến vậy?*
 

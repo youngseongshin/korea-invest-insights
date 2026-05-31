@@ -17,6 +17,8 @@ tags:
 ---
 
 > 🔗 <strong>関連記事</strong>: [Samsung Electronics シティTP46万ウォン — メモリサイクルのフレームリセット](/post/samsung-electronics-citi-tp-460000-memory-rerating-2026-05-11/) · [KOSPI 5月13日V字回復 — 3兆7,600億ウォンの外国人売りを吸収した史上最高値更新](/post/kospi-may-13-v-reversal-large-cap-compression-rally-2026-05-14/) · [なぜ韓国か 第4回 — 67億ドル流入、コリアディスカウントの解消か、それともバリュートラップか](/post/korea-67-billion-etf-inflow-korea-discount-or-value-trap-2026-05-09/)
+>
+> 続編: [FADUはSandiskの韓国ベータか](/post/fadu-sandisk-ai-storage-korea-beta-jeju-semiconductor-2026-05-31/)
 
 *済州半導体は5月14日に+28%上昇した。きっかけは、売上高1,805億ウォン・営業利益671億ウォン・営業利益率37.2%という1Q26の驚異的な決算だ。前年同期比で売上高+273%、営業利益+1,713%。多くの市場参加者は、この会社が実際に何をしているのか知らない。SamsungでもSK hynixでもない。HBMも作らない。IoTデバイス・ミッドレンジスマートフォン・車載エレクトロニクス向けに低消費電力メモリ（MCP、LPDDR）を設計するファブレス企業だ。では、なぜこれほど稼いでいるのか？*
 

@@ -17,6 +17,8 @@ tags:
 ---
 
 > 🔗 <strong>相关文章</strong>：[三星电子花旗目标价46万韩元——内存周期框架重置](/post/samsung-electronics-citi-tp-460000-memory-rerating-2026-05-11/) · [KOSPI 5月13日V形反转——外资3.76万亿净卖出下创历史新高](/post/kospi-may-13-v-reversal-large-cap-compression-rally-2026-05-14/) · [为什么是韩国（四）——67亿美元资金流入，韩国折价消解还是价值陷阱？](/post/korea-67-billion-etf-inflow-korea-discount-or-value-trap-2026-05-09/)
+>
+> 后续分析：[FADU 是 Sandisk 的韩国高贝塔吗](/post/fadu-sandisk-ai-storage-korea-beta-jeju-semiconductor-2026-05-31/)
 
 *济州半导体5月14日单日上涨28%。导火索是一份异常强劲的1Q26业绩——营收1805亿韩元、营业利润671亿、营业利润率37.2%；营收同比+273%，营业利润同比+1713%。大多数市场参与者对这家公司究竟做什么并不了解。它既不是三星，也不是SK海力士，不生产HBM，而是一家面向IoT设备、中端智能手机和汽车电子的低功耗内存（MCP、LPDDR）无晶圆厂设计商。那么，它为什么能赚这么多钱？*
 

@@ -5,7 +5,7 @@ date: 2026-04-30T23:05:00+09:00
 aliases: ["/ko/hbm/", "/ko/semiconductor/", "/ko/samsung-hynix/", "/ko/kospi-hbm/", "/ko/page/hbm/"]
 layout: "page"
 description: "AI HBM 허브. 삼성전자, SK하이닉스, HBM, AI 메모리, 코스피 지수 쏠림과 한국 반도체 투자 논거를 한곳에 모은 리서치 허브. HBM 시장점유율, 삼성전자 코스피 비중, KOSPI 리레이팅, AI 서버 수요를 순서대로 정리한다."
-lastmod: 2026-05-31T12:15:00+09:00
+lastmod: 2026-05-31T13:20:00+09:00
 ---
 
 ## 한 줄 결론
@@ -23,6 +23,7 @@ lastmod: 2026-05-31T12:15:00+09:00
 | 삼성전자와 SK하이닉스 중 HBM 순수 노출은 어디가 강한가 | 순수 HBM 노출은 SK하이닉스가 더 명확하다. 삼성전자는 HBM 회복, DDR5/eSSD, 파운드리 옵션, 스마트폰·세트 사업까지 포함한 복합 반도체·전자 대형주다. | [SK하이닉스 딥다이브](/ko/post/kr-deep-dive-sk-hynix-2026-04-16/) · [삼성전자 딥다이브](/ko/post/kr-deep-dive-samsung-electronics-2026-04-16/) |
 | SK하이닉스 PER이 삼성전자보다 높아진 것은 뉴노멀인가 | 2026E 연간 PER 역전은 이례적이지만 HBM 병목 프리미엄으로 설명 가능하다. 다만 12MF 기준은 parity 접근에 가깝고, 지금 상대가치 알파는 SK하이닉스 추격보다 삼성전자 HBM4E catch-up trade다. | [삼성전자 vs SK하이닉스 Forward PER 역전](/ko/post/samsung-sk-hynix-forward-per-inversion-hbm-catchup-2026-05-31/) |
 | 마이크론이 SK하이닉스보다 높은 forward PER을 받는 것은 기술 우위인가 | 아니다. 기술·레퍼런스·현재 HBM 수익성은 SK하이닉스가 우위지만, 마이크론은 미국 상장 AI 메모리 scarcity premium과 HBM4·SOCAMM2·Gen6 SSD 내러티브를 받는다. | [SK하이닉스 vs 마이크론](/ko/post/sk-hynix-vs-micron-hbm-premium-ai-memory-platform-2026-05-31/) |
+| 파두는 샌디스크의 한국 베타인가 | 외국인 수급 기준으로는 초기 신호가 강하다. 5월 이후 파두 외국인은 약 +4,451억원 순매수했지만, 가격 상관은 아직 하이닉스-마이크론만큼 구조화되지 않았다. | [파두와 샌디스크 AI storage 베타](/ko/post/fadu-sandisk-ai-storage-korea-beta-jeju-semiconductor-2026-05-31/) |
 | 엔비디아 Vera Rubin VR200 부품 원가표에서 한국 메모리 수혜는 무엇인가 | 모건스탠리 추정 기준 VR200 총 부품 원가 증가분의 42.7%가 메모리에서 발생한다. 단, HBM4뿐 아니라 LPDDR5X·SOCAMM까지 같이 봐야 한다. | [엔비디아 VR200 부품 원가표 검산](/ko/post/vera-rubin-vr200-bom-memory-pcb-mlcc-korea-alpha-2026-05-21/) |
 | AI 칩 설계 관점에서 HBM은 왜 병목인가 | AI 성능은 초당 연산량보다 데이터를 얼마나 가까운 곳에서, 얼마나 덜 움직이는지가 중요하다. 그래서 HBM은 GPU·맞춤형 ASIC 공통 병목이고, 그 아래 FC-BGA·PCB·전력 안정화 부품까지 같이 봐야 한다. | [AI 칩 설계와 데이터 이동 병목](/ko/post/ai-chip-design-data-movement-fcbga-bottleneck-2026-05-24/) |
 | 마벨·브로드컴 실적은 HBM 투자에 어떤 의미인가 | AI 맞춤형 칩과 이더넷 네트워크가 강하면 HBM 수요는 NVIDIA GPU 단일 고객 의존이 아니라 Broadcom XPU·Google TPU·OpenAI accelerator·Marvell custom silicon까지 넓어진다. | [마벨·브로드컴 실적 전 한국 반도체 병목 점검](/ko/post/marvell-broadcom-earnings-korea-ai-bottleneck-preview-2026-05-23/) |
@@ -46,6 +47,7 @@ lastmod: 2026-05-31T12:15:00+09:00
 
 | 날짜 | 주제 | 자세히 보기 |
 |---|---|---|
+| 2026-05-31 | <strong>파두는 샌디스크의 한국 베타인가</strong> — 5월 이후 외국인 +4,451억원 순매수와 기관 -2,152억원 순매도를 기준으로, 파두가 AI storage/NAND의 한국 고베타 proxy로 발견되는지 검증. 결론은 외국인 Yes, 기관 No, 시장 전체는 초기 형성 단계 | [파두와 샌디스크 AI storage 베타](/ko/post/fadu-sandisk-ai-storage-korea-beta-jeju-semiconductor-2026-05-31/) |
 | 2026-05-31 | <strong>SK하이닉스 vs 마이크론 — HBM 기술 프리미엄인가, 미국 상장 프리미엄인가</strong> — 같은 1조 달러급 AI 메모리 주식이지만 SK하이닉스는 기술·레퍼런스·HBM 수익성, 마이크론은 미국 상장 scarcity premium과 HBM4·SOCAMM2·Gen6 SSD 내러티브로 재평가되는 구조를 비교 | [SK하이닉스 vs 마이크론](/ko/post/sk-hynix-vs-micron-hbm-premium-ai-memory-platform-2026-05-31/) |
 | 2026-05-31 | <strong>삼성전자 vs SK하이닉스 Forward PER 역전</strong> — 2026E PER 기준 SK하이닉스가 삼성전자를 근소하게 넘어선 현상을 HBM 병목 프리미엄과 삼성전자 HBM laggard discount로 분해. 결론은 연간 PER은 역전, 12MF는 parity 접근이며, 지금 알파는 SK하이닉스 추격보다 삼성전자 HBM4E catch-up trade | [삼성전자 vs SK하이닉스 Forward PER 역전](/ko/post/samsung-sk-hynix-forward-per-inversion-hbm-catchup-2026-05-31/) |
 | 2026-05-31 | <strong>AI 인프라 멀티플 지도 — 왜 삼성전자는 싸고 삼성전기는 비싸 보이는가</strong> — GPU, HBM, CPU, MLCC, FC-BGA가 같은 AI capex 사이클에 있어도 서로 다른 멀티플을 받아야 하는 이유를 가격 결정권, LTA, 고객 lock-in, capex 부담, 피크이익 의심으로 분해. 결론은 삼성전자 상대가치 우위와 삼성전기 추격 부담 | [AI 인프라 멀티플 지도](/ko/post/ai-infrastructure-multiple-map-gpu-hbm-mlcc-fcbga-samsung-2026-05-31/) |
@@ -100,6 +102,7 @@ lastmod: 2026-05-31T12:15:00+09:00
 
 - [삼성전자 vs SK하이닉스 Forward PER 역전: HBM 프리미엄은 뉴노멀인가](/ko/post/samsung-sk-hynix-forward-per-inversion-hbm-catchup-2026-05-31/)
 - [SK하이닉스 vs 마이크론: HBM 기술 프리미엄인가, 미국 상장 프리미엄인가](/ko/post/sk-hynix-vs-micron-hbm-premium-ai-memory-platform-2026-05-31/)
+- [파두는 샌디스크의 한국 베타인가: AI storage/NAND 고베타 proxy와 외국인 수급](/ko/post/fadu-sandisk-ai-storage-korea-beta-jeju-semiconductor-2026-05-31/)
 - [NVIDIA Vera Rubin 추론 스택: CPX보다 LPX·CMX가 전면에 선 이유](/ko/post/nvidia-vera-rubin-lpx-cmx-inference-stack-samsung-hbm-2026-05-28/)
 - [엔비디아 이후 AI 반도체 병목: 초당 연산량보다 데이터 이동, HBM, FC-BGA, 전력 안정화](/ko/post/ai-chip-design-data-movement-fcbga-bottleneck-2026-05-24/)
 - [AI 서버 수동소자 병목: GPU보다 작은 전력 안정화 부품이 왜 중요해졌나](/ko/post/ai-server-passive-components-bottleneck-samsung-electro-mechanics-2026-05-26/)
