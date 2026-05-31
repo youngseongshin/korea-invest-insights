@@ -5,7 +5,7 @@ date: 2026-05-07T00:40:00+09:00
 aliases: ["/ko/korea-stocks/", "/ko/korean-stocks/", "/ko/ibkr-korea-stocks/", "/ko/foreign-investors-korea/", "/ko/page/korea-stocks-foreign-investors-hub/"]
 layout: "page"
 description: "해외 투자자를 위한 한국 주식 허브. IBKR·해외 증권사 한국 주식 접근, KOSPI, KOSDAQ, 삼성전자, SK하이닉스, 펄어비스, 한국 금융주, AI 하드웨어, K-뷰티, 일간 시장 브리핑을 한곳에 정리한다."
-lastmod: 2026-05-27T16:25:00+09:00
+lastmod: 2026-05-31T15:30:00+09:00
 ---
 
 ## 한 줄 결론
@@ -27,6 +27,7 @@ lastmod: 2026-05-27T16:25:00+09:00
 | KOSPI와 KOSDAQ이 모두 오르는 장인가요? | 아니다. 2026년 5월 26일 기준 전체 20일 ADR은 67.3으로, 지수보다 평균 종목의 폭이 훨씬 약하다. 해외 투자자는 지수 방향보다 주도 섹터와 2선 후보 확산을 봐야 한다. | [한국 ADR 67과 좁은 주도주 장세](/ko/post/korea-adr-breadth-narrow-leadership-kospi-kosdaq-2026-05-27/) |
 | KOSDAQ은 무엇인가요? | 한국의 성장주·중소형주 시장이다. 바이오, 게임, AI 소프트웨어, 반도체 장비, 틈새 산업재 기업이 많이 상장돼 있다. | [KOSDAQ 커버리지 갭](/ko/post/kosdaq-coverage-gaps-variant-perception-2026-04-23/) |
 | 해외 투자자가 먼저 볼 한국 AI 주식은 무엇인가요? | 삼성전자, SK하이닉스, HBM 체인을 먼저 보고, 이후 AI 기판, CCL, FC-BGA, 저유전율 소재로 확장하는 순서가 자연스럽다. | [삼성전자·SK하이닉스·HBM 허브](/ko/page/korea-semiconductor-hbm-kospi-hub/) |
+| 중국·홍콩 AI 과열은 한국 AI 주식으로 전이될 수 있나요? | 상장 LLM pure-play가 없기 때문에 NAVER, LG CNS, 삼성SDS, SK텔레콤, SK네트웍스 같은 기존 상장사가 sovereign AI, AI cloud, AIDC/GPUaaS, 업스테이지 proxy로 재분류되는 방식이 더 현실적이다. | [중국과 홍콩의 AI 과열이 한국에 전이될 수 있을까](/ko/post/china-hong-kong-ai-overheat-korea-ai-cloud-llm-proxy-2026-05-31/) |
 | 한국 중소형 AI 하드웨어 종목은 어디를 봐야 하나요? | AI 기판 생태계에는 삼성전기, 대덕전자, 두산전자BG, 코오롱인더, 파미셀 등이 포함된다. | [AI 기판·PCB 허브](/ko/page/korea-ai-pcb-substrate-hub/) |
 | 왜 한국 AI 기판주가 해외 투자자에게 중요한가요? | 한국에 기판 회사가 많은 이유는 단순 테마가 아니라 30년 제조·수율 축적이다. 이 구조를 이해해야 AI 기판 종목 비교가 의미를 갖는다. | [Why Korea 1편: 한국 반도체 기판 경쟁력](/ko/post/why-korea-semiconductor-substrate-competitive-edge-2026-05-07/) |
 | 한국 조선·SMR·데이터센터 전력 종목은 어디서 시작하나요? | HD현대중공업은 조선 본업과 엔진 실적 위에 TerraPower Natrium SMR 옵션이 붙은 대표 사례다. 다만 현재는 SMR보다 조선·엔진 실적과 기관 수급 리테스트가 먼저다. | [HD현대중공업 SMR 옵션 분석](/ko/post/hd-hyundai-heavy-industries-smr-terrapower-natrium-option-2026-05-27/) |
@@ -50,12 +51,13 @@ lastmod: 2026-05-27T16:25:00+09:00
 | 6 | 외국인 지분율상 매도 압력은 얼마나 남았나 | [KOSPI 외국인 지분율 vs 삼성전자·SK하이닉스](/ko/post/korea-foreign-ownership-kospi-samsung-hynix-divergence-2026-05-26/) |
 | 7 | 지수는 버티는데 평균 종목은 왜 약한가 | [한국 ADR 67과 좁은 주도주 장세](/ko/post/korea-adr-breadth-narrow-leadership-kospi-kosdaq-2026-05-27/) |
 | 8 | 삼성전자, SK하이닉스, HBM은 어떻게 봐야 하나 | [삼성전자·SK하이닉스·HBM 허브](/ko/page/korea-semiconductor-hbm-kospi-hub/) |
-| 9 | AI 기판과 CCL 논거는 무엇인가 | [AI 기판·PCB 허브](/ko/page/korea-ai-pcb-substrate-hub/) |
-| 10 | 왜 한국에 AI 기판 회사가 이렇게 많은가 | [Why Korea 1편: 한국 반도체 기판 경쟁력](/ko/post/why-korea-semiconductor-substrate-competitive-edge-2026-05-07/) |
-| 11 | 한국 로봇·피지컬 AI 밸류체인은 어떻게 보나 | [한국 휴머노이드 로봇 밸류체인 분석](/ko/post/korea-robotics-value-chain-complete-map-2026-05-11/) |
-| 12 | 밸류업 국면의 한국 금융주는 어디를 봐야 하나 | [한국 금융주 허브](/ko/page/korean-financials-hub/) |
-| 13 | 왜 한국 화장품은 세계 2-3위 수출 산업이 됐나 | [Why Korea 2편: 한국 화장품 경쟁력](/ko/post/why-korea-cosmetics-global-competitiveness-2026-05-07/) |
-| 14 | 해외 검색 수요가 붙기 쉬운 소비·게임주는 어디인가 | [펄어비스 허브](/ko/page/pearl-abyss-crimson-desert-hub/) · [K-뷰티 허브](/ko/page/k-beauty-olive-young-pharmaresearch-hub/) |
+| 9 | 중국·홍콩 AI 과열이 한국으로 전이되면 어떤 상장 proxy를 봐야 하나 | [중국과 홍콩의 AI 과열이 한국에 전이될 수 있을까](/ko/post/china-hong-kong-ai-overheat-korea-ai-cloud-llm-proxy-2026-05-31/) |
+| 10 | AI 기판과 CCL 논거는 무엇인가 | [AI 기판·PCB 허브](/ko/page/korea-ai-pcb-substrate-hub/) |
+| 11 | 왜 한국에 AI 기판 회사가 이렇게 많은가 | [Why Korea 1편: 한국 반도체 기판 경쟁력](/ko/post/why-korea-semiconductor-substrate-competitive-edge-2026-05-07/) |
+| 12 | 한국 로봇·피지컬 AI 밸류체인은 어떻게 보나 | [한국 휴머노이드 로봇 밸류체인 분석](/ko/post/korea-robotics-value-chain-complete-map-2026-05-11/) |
+| 13 | 밸류업 국면의 한국 금융주는 어디를 봐야 하나 | [한국 금융주 허브](/ko/page/korean-financials-hub/) |
+| 14 | 왜 한국 화장품은 세계 2-3위 수출 산업이 됐나 | [Why Korea 2편: 한국 화장품 경쟁력](/ko/post/why-korea-cosmetics-global-competitiveness-2026-05-07/) |
+| 15 | 해외 검색 수요가 붙기 쉬운 소비·게임주는 어디인가 | [펄어비스 허브](/ko/page/pearl-abyss-crimson-desert-hub/) · [K-뷰티 허브](/ko/page/k-beauty-olive-young-pharmaresearch-hub/) |
 
 ---
 
@@ -64,6 +66,7 @@ lastmod: 2026-05-27T16:25:00+09:00
 | 테마 | 한국 상장 종목 | 해외 투자자에게 중요한 이유 |
 |---|---|---|
 | HBM과 AI 메모리 | 삼성전자, SK하이닉스 | 글로벌 AI capex가 한국 이익으로 연결되는 가장 큰 KOSPI 레이어다. |
+| AI 소프트웨어·클라우드·데이터센터 | NAVER, LG CNS, 삼성SDS, SK텔레콤, SK네트웍스 | 한국에는 상장 LLM pure-play가 거의 없기 때문에 sovereign AI, AI cloud integrator, AIDC/GPUaaS, 업스테이지 proxy로 나눠 봐야 한다. |
 | AI 기판과 CCL | 삼성전기, 대덕전자, 두산, 코오롱인더, 파미셀 | GPU, CPU, NIC, 스위치 ASIC 확장의 2차 하드웨어 레이어다. |
 | 조선·방산·SMR·데이터센터 전력 | HD현대중공업, HD한국조선해양, 한화오션, 삼성중공업, 한화엔진, 현대건설 | AI 데이터센터 전력 부족, 미국 조선 협력, SMR 제조 공급망이 한국 heavy fabrication capacity를 다시 보게 만든다. |
 | 피지컬 AI와 로봇 | 레인보우로보틱스, 에스피지, 로보티즈, 삼성전기, LG이노텍, HL만도, 현대모비스 | 휴머노이드 완성 로봇보다 감속기·액추에이터·센서 부품에서 매출이 먼저 확인될 수 있다. |
