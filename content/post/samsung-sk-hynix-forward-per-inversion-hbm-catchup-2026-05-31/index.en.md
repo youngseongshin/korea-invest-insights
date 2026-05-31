@@ -22,6 +22,7 @@ draft: false
 
 > Context
 > This is a bridge post linking the [Samsung stock-bonus / memory-supercycle note](/post/samsung-electronics-stock-bonus-supercycle-buyback-2026-05-27/), the [AI infrastructure multiple map](/post/ai-infrastructure-multiple-map-gpu-hbm-mlcc-fcbga-samsung-2026-05-31/), and the [NVIDIA Vera Rubin LPX / CMX inference-stack note](/post/nvidia-vera-rubin-lpx-cmx-inference-stack-samsung-hbm-2026-05-28/). The related hub is the [AI HBM Hub](/page/korea-semiconductor-hbm-kospi-hub/).
+> The next linked note is [SK Hynix vs Micron: HBM Technology Premium or U.S. Listing Premium?](/post/sk-hynix-vs-micron-hbm-premium-ai-memory-platform-2026-05-31/).
 
 ## TL;DR
 

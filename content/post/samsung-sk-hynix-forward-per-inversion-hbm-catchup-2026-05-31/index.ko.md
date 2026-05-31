@@ -23,6 +23,7 @@ draft: false
 
 > 후속 글 맥락
 > 이 글은 [삼성전자 특별성과급·슈퍼사이클 글](/ko/post/samsung-electronics-stock-bonus-supercycle-buyback-2026-05-27/), [AI 인프라 멀티플 지도](/ko/post/ai-infrastructure-multiple-map-gpu-hbm-mlcc-fcbga-samsung-2026-05-31/), [NVIDIA Vera Rubin 추론 스택 글](/ko/post/nvidia-vera-rubin-lpx-cmx-inference-stack-samsung-hbm-2026-05-28/)의 연결 글입니다. 앞선 글들이 삼성전자 DS 이익 duration, HBM 아래 밸류체인, 추론 memory hierarchy를 봤다면, 이번 글은 삼성전자와 SK하이닉스의 forward PER 역전이 실제로 어떤 투자 신호인지 정리합니다. 관련 허브는 [AI HBM 허브](/ko/page/korea-semiconductor-hbm-kospi-hub/)입니다.
+> 다음 연결 글은 [SK하이닉스 vs 마이크론: HBM 기술 프리미엄인가, 미국 상장 프리미엄인가](/ko/post/sk-hynix-vs-micron-hbm-premium-ai-memory-platform-2026-05-31/)입니다.
 
 ## TL;DR
 
