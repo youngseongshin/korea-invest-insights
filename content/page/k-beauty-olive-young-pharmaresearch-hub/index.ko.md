@@ -5,7 +5,7 @@ date: 2026-04-30T23:05:00+09:00
 aliases: ["/ko/k-beauty/", "/ko/olive-young/", "/ko/pharmaresearch/", "/ko/rejuran/", "/ko/page/k-beauty/"]
 layout: "page"
 description: "올리브영, CJ, 파마리서치, 리쥬란, 에이피알, 메디큐브를 묶어 K-뷰티 투자 논거를 정리한 허브. 올리브영 상장 여부, CJ 간접 투자, 파마리서치 PN/PDRN 플랫폼, K-에스테틱 성장주를 한곳에 모았다."
-lastmod: 2026-05-31T10:00:00+09:00
+lastmod: 2026-05-31T23:05:00+09:00
 ---
 
 ## 한 줄 결론
@@ -19,6 +19,7 @@ K-뷰티 투자는 단일 섹터가 아니다. <strong>올리브영은 비상장
 | 검색 질문 | 현재 답변 | 자세히 보기 |
 |---|---|---|
 | 한국 화장품은 왜 세계 2-3위 수출 산업이 됐나 | 한국 화장품 경쟁력은 대기업 럭셔리 브랜드가 아니라 빠른 제품개발, ODM, 까다로운 소비자, 올리브영, 한류와 디지털 유통이 결합된 생태계에서 나온다. | [Why Korea 2편: 한국 화장품 경쟁력](/ko/post/why-korea-cosmetics-global-competitiveness-2026-05-07/) |
+| 알리바바 Accio Work는 K-뷰티에 위협인가 기회인가 | 둘 다입니다. 한국 셀러의 해외판매 workflow가 Alibaba seller OS로 넘어가면 위협이지만, AI가 상세페이지·바이어 문의·정산·물류를 낮은 비용으로 자동화하면 K-뷰티 브랜드와 ODM의 해외 SKU 확장에는 기회입니다. | [알리바바 AI 결제 3억 건과 한국 셀러 OS](/ko/post/alibaba-ai-pay-accio-work-korea-agentic-commerce-seller-os-2026-05-31/) |
 | 올리브영은 상장사인가 | 아니다. CJ 올리브영은 비상장사이며, 가장 직접적인 간접 투자 수단은 CJ주식회사다. CJ제일제당은 식품·바이오 계열사로 올리브영 직접 투자처가 아니다. | [올리브영은 상장사인가?](/ko/post/olive-young-publicly-traded-cj-corp-korea-beauty-exposure-2026-04-27/) |
 | 올리브영 IPO는 어떤 의미인가 | IPO가 현실화되면 CJ 지주사 할인과 올리브영의 숨은 가치가 동시에 재평가될 수 있다. 다만 2026년 4월 현재 확정 일정은 없다. | [CJ주식회사·올리브영 딥다이브](/ko/post/kr-deep-dive-cj-olive-young-2026-04-05/) |
 | 리쥬란은 누가 만드나 | 리쥬란은 파마리서치가 소유·제조하는 브랜드다. 핵심은 소비자 브랜드가 아니라 PN/PDRN 플랫폼과 글로벌 메디컬 에스테틱 확장성이다. | [리쥬란은 누가 만드나?](/ko/post/rejuran-owner-pharmaresearch-pn-technology-skin-booster-2026-04-27/) |
@@ -32,12 +33,13 @@ K-뷰티 투자는 단일 섹터가 아니다. <strong>올리브영은 비상장
 | 순서 | 핵심 질문 | 글 |
 |---:|---|---|
 | 1 | 왜 한국 화장품은 세계 2-3위 수출 산업이 됐나 | [Why Korea 2편: 한국 화장품 경쟁력](/ko/post/why-korea-cosmetics-global-competitiveness-2026-05-07/) |
-| 2 | 올리브영에 직접 투자할 수 있나 | [올리브영은 상장사인가? K-뷰티에 투자하는 현실적인 방법](/ko/post/olive-young-publicly-traded-cj-corp-korea-beauty-exposure-2026-04-27/) |
-| 3 | CJ 지주사 할인과 올리브영 IPO 옵션은 무엇인가 | [CJ주식회사·올리브영: K-뷰티의 숨겨진 보석](/ko/post/kr-deep-dive-cj-olive-young-2026-04-05/) |
-| 4 | 리쥬란과 파마리서치의 실제 투자 포인트는 무엇인가 | [리쥬란은 누가 만드나? 파마리서치와 K-스킨부스터 플랫폼](/ko/post/rejuran-owner-pharmaresearch-pn-technology-skin-booster-2026-04-27/) |
-| 5 | 파마리서치의 PDRN/PN 플랫폼은 얼마나 확장 가능한가 | [파마리서치: 리쥬란을 탄생시킨 PDRN의 선구자](/ko/post/kr-deep-dive-pharma-research-products-2026-04-16/) |
-| 6 | 파마리서치 멀티플 하락 이후 리쥬란코스메틱 미국 채널은 리레이팅 신호인가 | [파마리서치 리레이팅 점검](/ko/post/pharmaresearch-rejuran-cosmetics-olive-young-us-rerating-2026-05-31/) |
-| 7 | 에이피알·메디큐브·AGE-R은 어떤 유형의 K-뷰티 성장주인가 | [에이피알 분석: 메디큐브·AGE-R이 만든 K뷰티 1위주](/ko/post/apr-medicube-age-r-deep-dive-valuation-2026/) |
+| 2 | AI seller OS와 agentic commerce는 K-뷰티 수출에 어떤 의미인가 | [알리바바 AI 결제 3억 건과 한국 셀러 OS](/ko/post/alibaba-ai-pay-accio-work-korea-agentic-commerce-seller-os-2026-05-31/) |
+| 3 | 올리브영에 직접 투자할 수 있나 | [올리브영은 상장사인가? K-뷰티에 투자하는 현실적인 방법](/ko/post/olive-young-publicly-traded-cj-corp-korea-beauty-exposure-2026-04-27/) |
+| 4 | CJ 지주사 할인과 올리브영 IPO 옵션은 무엇인가 | [CJ주식회사·올리브영: K-뷰티의 숨겨진 보석](/ko/post/kr-deep-dive-cj-olive-young-2026-04-05/) |
+| 5 | 리쥬란과 파마리서치의 실제 투자 포인트는 무엇인가 | [리쥬란은 누가 만드나? 파마리서치와 K-스킨부스터 플랫폼](/ko/post/rejuran-owner-pharmaresearch-pn-technology-skin-booster-2026-04-27/) |
+| 6 | 파마리서치의 PDRN/PN 플랫폼은 얼마나 확장 가능한가 | [파마리서치: 리쥬란을 탄생시킨 PDRN의 선구자](/ko/post/kr-deep-dive-pharma-research-products-2026-04-16/) |
+| 7 | 파마리서치 멀티플 하락 이후 리쥬란코스메틱 미국 채널은 리레이팅 신호인가 | [파마리서치 리레이팅 점검](/ko/post/pharmaresearch-rejuran-cosmetics-olive-young-us-rerating-2026-05-31/) |
+| 8 | 에이피알·메디큐브·AGE-R은 어떤 유형의 K-뷰티 성장주인가 | [에이피알 분석: 메디큐브·AGE-R이 만든 K뷰티 1위주](/ko/post/apr-medicube-age-r-deep-dive-valuation-2026/) |
 
 ---
 

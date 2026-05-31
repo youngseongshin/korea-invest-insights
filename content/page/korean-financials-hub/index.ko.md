@@ -5,7 +5,7 @@ date: 2026-05-03T22:30:00+09:00
 aliases: ["/ko/korean-financials/", "/ko/k-financials/", "/ko/value-up/", "/ko/page/korean-financials-hub/"]
 layout: "page"
 description: "Value-up 시대 한국 금융주 허브 — KB금융, 신한지주, 하나금융, 우리금융, 메리츠금융지주, 키움증권, DB손해보험, 한국금융지주, 미래에셋벤처투자. 'KB금융은 상장사인가요?', 'Value-up 2.0은 무엇인가요?', '한국 은행지주 중 ROE가 가장 높은 곳은?' 같은 직답 질문 + 세 정점(자본 소각 / 자본 회전 / 외국인 액세스)과 정점 사이의 이동을 매핑한 시리즈 전체."
-lastmod: 2026-05-31T17:40:00+09:00
+lastmod: 2026-05-31T23:05:00+09:00
 ---
 
 ## 이 허브가 답하는 질문
@@ -21,6 +21,7 @@ Value-up 이후의 한국 금융주에 대해 글로벌·국내 투자자가 묻
 | 비바리퍼블리카(토스)는 상장사인가요? | 아직 비상장. 미국 ADR 상장이 준비 중인 것으로 보도됨. IPO 가격 스펙트럼은 시장 분류에 따라 $5B–$15B로 펼쳐지며, 어느 점도 'base case'가 아님. | [토스·비바리퍼블리카 IPO 시나리오](/ko/post/toss-pre-listing-coordinate-definition-event-2026-05-03/) |
 | IBKR·해외 개인투자자 접근성이 열리면 어떤 증권주를 봐야 하나요? | 현재 접근성 뉴스에서는 삼성증권과 하나증권이 가장 직접적으로 보이지만, 거래대금·위탁매매·보관·Value-Up 관점에서는 키움증권, 한국금융지주, 미래에셋증권, NH투자증권, KB금융, 신한지주까지 함께 봐야 한다. | [IBKR 한국 주식 직접투자 분석](/ko/post/ibkr-korea-stocks-foreign-retail-access-2026-05-07/) |
 | NAVER·두나무·미래에셋증권은 금융주 리레이팅과 어떻게 연결되나요? | NAVER는 전통 금융주는 아니지만 Npay, Dunamu/Upbit, 미래에셋증권 지분, 원화 스테이블코인 옵션을 묶으면 플랫폼 금융 SOTP 후보가 됩니다. | [NAVER 리레이팅 가능성](/ko/post/naver-rerating-dunamu-mirae-ai-cloud-stablecoin-turnaround-2026-05-31/) |
+| AI agent 결제와 스테이블코인은 한국 결제주에 어떤 의미인가요? | 핵심은 결제 버튼이 아니라 agent 신원, 한도, 위임, 환불·분쟁, card/bank/stablecoin routing을 맡는 payment trust layer입니다. | [알리바바 AI 결제 3억 건과 한국 셀러 OS](/ko/post/alibaba-ai-pay-accio-work-korea-agentic-commerce-seller-os-2026-05-31/) |
 | Value-up 2.0은 무엇인가요? | 고정 배당성향 한도 대신 ROE × 성장률 × CET1을 formula로 연결한 자본정책. 신한지주 KRX 공시가 가장 명확한 사례. | [신한 Value-up 2.0](/ko/post/shinhan-financial-transit-between-peaks-2026-05-03/) |
 | 한국 금융주 중 ROE가 가장 높은 곳은? | 메리츠금융지주(약 22%)가 1위, 키움증권(약 20%)이 2위. 은행지주는 구조적으로 10-12% 영역. | [메리츠 재평가 표준](/ko/post/meritz-financial-capital-buyback-compounding-standard-2026-04-30/) |
 | 메리츠금융지주는 상장사인가요? | 네 — KOSPI 138040. '자본 소각 복리' 모델의 정적 정점. | [메리츠 재평가 표준](/ko/post/meritz-financial-capital-buyback-compounding-standard-2026-04-30/) |
@@ -44,6 +45,7 @@ Value-up 이후의 한국 금융주에 대해 글로벌·국내 투자자가 묻
 | 6 | Part 5의 거울상은 어떤 모습인가 — 시장이 이미 새 좌표를 가격에 반영한 회사 | [Part 6 — 카카오뱅크: ROE 11% 선반영 밸류에이션](/ko/post/kakaobank-mirror-of-korea-investment-2026-05-03/) |
 | 7 | '좌표 정의 이벤트 자체'는 어떤 모습인가 — 가격이 아직 결정되지 않은 pre-listing 사례 | [Part 7 — 토스·비바리퍼블리카 IPO: $5B–$15B 기업가치 시나리오](/ko/post/toss-pre-listing-coordinate-definition-event-2026-05-03/) |
 | 8 | 플랫폼이 금융 SOTP로 재분류되는 사례는 어떤 모습인가 | [NAVER 리레이팅 가능성: 두나무·미래에셋증권·스테이블코인 옵션](/ko/post/naver-rerating-dunamu-mirae-ai-cloud-stablecoin-turnaround-2026-05-31/) |
+| 9 | 결제사가 agent commerce 시대에 단순 PG를 넘어서는 조건은 무엇인가 | [알리바바 AI 결제 3억 건과 한국 셀러 OS](/ko/post/alibaba-ai-pay-accio-work-korea-agentic-commerce-seller-os-2026-05-31/) |
 
 ---
 

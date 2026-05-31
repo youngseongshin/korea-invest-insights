@@ -5,7 +5,7 @@ date: 2026-05-07T00:40:00+09:00
 aliases: ["/ko/korea-stocks/", "/ko/korean-stocks/", "/ko/ibkr-korea-stocks/", "/ko/foreign-investors-korea/", "/ko/page/korea-stocks-foreign-investors-hub/"]
 layout: "page"
 description: "해외 투자자를 위한 한국 주식 허브. IBKR·해외 증권사 한국 주식 접근, KOSPI, KOSDAQ, 삼성전자, SK하이닉스, 펄어비스, 한국 금융주, AI 하드웨어, K-뷰티, 일간 시장 브리핑을 한곳에 정리한다."
-lastmod: 2026-05-31T17:40:00+09:00
+lastmod: 2026-05-31T23:05:00+09:00
 ---
 
 ## 한 줄 결론
@@ -30,6 +30,7 @@ lastmod: 2026-05-31T17:40:00+09:00
 | 중국·홍콩 AI 과열은 한국 AI 주식으로 전이될 수 있나요? | 상장 LLM pure-play가 없기 때문에 NAVER, LG CNS, 삼성SDS, SK텔레콤, SK네트웍스 같은 기존 상장사가 sovereign AI, AI cloud, AIDC/GPUaaS, 업스테이지 proxy로 재분류되는 방식이 더 현실적이다. | [중국과 홍콩의 AI 과열이 한국에 전이될 수 있을까](/ko/post/china-hong-kong-ai-overheat-korea-ai-cloud-llm-proxy-2026-05-31/) |
 | 미국 비반도체 AI 리레이팅은 한국에서 어떤 종목으로 번역되나요? | 미국의 AI 전력·소프트웨어·스테이블코인 rails 리레이팅은 한국에서 전력 대장 추격보다 NHN KCP, 더존비즈온, 한화시스템, 세명전기 같은 2선 후보의 가격·수급 확인으로 번역하는 편이 낫다. | [미국 비반도체 리레이팅의 한국장 번역](/ko/post/us-nonsemi-rerating-ai-power-software-korea-translation-2026-05-31/) |
 | 해외 투자자가 NAVER를 포털주로만 봐도 되나요? | 이제는 부족합니다. NAVER는 두나무, 미래에셋증권 지분, NAVER Cloud, 원화 스테이블코인, 글로벌 C2C 턴어라운드까지 묶어 SOTP·AI cloud·플랫폼 금융주로 다시 봐야 합니다. | [NAVER 리레이팅 가능성](/ko/post/naver-rerating-dunamu-mirae-ai-cloud-stablecoin-turnaround-2026-05-31/) |
+| 알리바바 AI Pay와 Accio Work는 한국 주식에 어떤 종목 힌트를 주나요? | BABA 단독 매수보다 NAVER, NHN KCP, Cafe24, KakaoPay, K-beauty export stack이 seller OS와 agent payment layer를 내재화하는지 보는 편이 더 현실적입니다. | [알리바바 AI 결제 3억 건과 한국 셀러 OS](/ko/post/alibaba-ai-pay-accio-work-korea-agentic-commerce-seller-os-2026-05-31/) |
 | 한국 중소형 AI 하드웨어 종목은 어디를 봐야 하나요? | AI 기판 생태계에는 삼성전기, 대덕전자, 두산전자BG, 코오롱인더, 파미셀 등이 포함된다. | [AI 기판·PCB 허브](/ko/page/korea-ai-pcb-substrate-hub/) |
 | 왜 한국 AI 기판주가 해외 투자자에게 중요한가요? | 한국에 기판 회사가 많은 이유는 단순 테마가 아니라 30년 제조·수율 축적이다. 이 구조를 이해해야 AI 기판 종목 비교가 의미를 갖는다. | [Why Korea 1편: 한국 반도체 기판 경쟁력](/ko/post/why-korea-semiconductor-substrate-competitive-edge-2026-05-07/) |
 | 한국 조선·SMR·데이터센터 전력 종목은 어디서 시작하나요? | HD현대중공업은 조선 본업과 엔진 실적 위에 TerraPower Natrium SMR 옵션이 붙은 대표 사례다. 다만 현재는 SMR보다 조선·엔진 실적과 기관 수급 리테스트가 먼저다. | [HD현대중공업 SMR 옵션 분석](/ko/post/hd-hyundai-heavy-industries-smr-terrapower-natrium-option-2026-05-27/) |
@@ -56,12 +57,13 @@ lastmod: 2026-05-31T17:40:00+09:00
 | 9 | 중국·홍콩 AI 과열이 한국으로 전이되면 어떤 상장 proxy를 봐야 하나 | [중국과 홍콩의 AI 과열이 한국에 전이될 수 있을까](/ko/post/china-hong-kong-ai-overheat-korea-ai-cloud-llm-proxy-2026-05-31/) |
 | 10 | 미국 비반도체 리레이팅은 한국 2선으로 어떻게 번역되나 | [미국 비반도체 리레이팅의 한국장 번역](/ko/post/us-nonsemi-rerating-ai-power-software-korea-translation-2026-05-31/) |
 | 11 | NAVER는 왜 포털주가 아니라 SOTP·AI cloud·플랫폼 금융주로 다시 봐야 하나 | [NAVER 리레이팅 가능성](/ko/post/naver-rerating-dunamu-mirae-ai-cloud-stablecoin-turnaround-2026-05-31/) |
-| 12 | AI 기판과 CCL 논거는 무엇인가 | [AI 기판·PCB 허브](/ko/page/korea-ai-pcb-substrate-hub/) |
-| 13 | 왜 한국에 AI 기판 회사가 이렇게 많은가 | [Why Korea 1편: 한국 반도체 기판 경쟁력](/ko/post/why-korea-semiconductor-substrate-competitive-edge-2026-05-07/) |
-| 14 | 한국 로봇·피지컬 AI 밸류체인은 어떻게 보나 | [한국 휴머노이드 로봇 밸류체인 분석](/ko/post/korea-robotics-value-chain-complete-map-2026-05-11/) |
-| 15 | 밸류업 국면의 한국 금융주는 어디를 봐야 하나 | [한국 금융주 허브](/ko/page/korean-financials-hub/) |
-| 16 | 왜 한국 화장품은 세계 2-3위 수출 산업이 됐나 | [Why Korea 2편: 한국 화장품 경쟁력](/ko/post/why-korea-cosmetics-global-competitiveness-2026-05-07/) |
-| 17 | 해외 검색 수요가 붙기 쉬운 소비·게임주는 어디인가 | [펄어비스 허브](/ko/page/pearl-abyss-crimson-desert-hub/) · [K-뷰티 허브](/ko/page/k-beauty-olive-young-pharmaresearch-hub/) |
+| 12 | 알리바바 agentic commerce는 NAVER·NHN KCP·Cafe24에 어떤 질문을 던지나 | [알리바바 AI 결제 3억 건과 한국 셀러 OS](/ko/post/alibaba-ai-pay-accio-work-korea-agentic-commerce-seller-os-2026-05-31/) |
+| 13 | AI 기판과 CCL 논거는 무엇인가 | [AI 기판·PCB 허브](/ko/page/korea-ai-pcb-substrate-hub/) |
+| 14 | 왜 한국에 AI 기판 회사가 이렇게 많은가 | [Why Korea 1편: 한국 반도체 기판 경쟁력](/ko/post/why-korea-semiconductor-substrate-competitive-edge-2026-05-07/) |
+| 15 | 한국 로봇·피지컬 AI 밸류체인은 어떻게 보나 | [한국 휴머노이드 로봇 밸류체인 분석](/ko/post/korea-robotics-value-chain-complete-map-2026-05-11/) |
+| 16 | 밸류업 국면의 한국 금융주는 어디를 봐야 하나 | [한국 금융주 허브](/ko/page/korean-financials-hub/) |
+| 17 | 왜 한국 화장품은 세계 2-3위 수출 산업이 됐나 | [Why Korea 2편: 한국 화장품 경쟁력](/ko/post/why-korea-cosmetics-global-competitiveness-2026-05-07/) |
+| 18 | 해외 검색 수요가 붙기 쉬운 소비·게임주는 어디인가 | [펄어비스 허브](/ko/page/pearl-abyss-crimson-desert-hub/) · [K-뷰티 허브](/ko/page/k-beauty-olive-young-pharmaresearch-hub/) |
 
 ---
 

@@ -24,7 +24,7 @@ draft: false
 ---
 
 > Context
-> This is a follow-up to [Can China and Hong Kong's AI overheat spill into Korea?](/post/china-hong-kong-ai-overheat-korea-ai-cloud-llm-proxy-2026-05-31/) and [US non-semiconductor rerating and its Korea translation](/post/us-nonsemi-rerating-ai-power-software-korea-translation-2026-05-31/). Those pieces treated NAVER as a sovereign AI and AI software/data-operations candidate. This note focuses on NAVER itself: Dunamu, its Mirae Asset Securities stake, NAVER Cloud, won stablecoin optionality, and global C2C turnaround. Related hubs: [Korean AI Companies Hub](/page/korean-ai-companies-hub/), [Korean Financials Hub](/page/korean-financials-hub/), and [Korean Stocks for Foreign Investors Hub](/page/korea-stocks-foreign-investors-hub/).
+> This is a follow-up to [Can China and Hong Kong's AI overheat spill into Korea?](/post/china-hong-kong-ai-overheat-korea-ai-cloud-llm-proxy-2026-05-31/) and [US non-semiconductor rerating and its Korea translation](/post/us-nonsemi-rerating-ai-power-software-korea-translation-2026-05-31/). Those pieces treated NAVER as a sovereign AI and AI software/data-operations candidate. This note focuses on NAVER itself: Dunamu, its Mirae Asset Securities stake, NAVER Cloud, won stablecoin optionality, and global C2C turnaround. The next follow-up is [Alibaba AI Pay and Korea seller OS](/post/alibaba-ai-pay-accio-work-korea-agentic-commerce-seller-os-2026-05-31/), which extends the NAVER thesis into agentic commerce and seller workflow. Related hubs: [Korean AI Companies Hub](/page/korean-ai-companies-hub/), [Korean Financials Hub](/page/korean-financials-hub/), and [Korean Stocks for Foreign Investors Hub](/page/korea-stocks-foreign-investors-hub/).
 
 ## TL;DR
 
