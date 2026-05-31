@@ -5,7 +5,7 @@ date: 2026-05-07T00:40:00+09:00
 aliases: ["/korea-stocks/", "/korean-stocks/", "/ibkr-korea-stocks/", "/foreign-investors-korea/", "/en/korea-stocks/", "/en/korean-stocks/", "/en/ibkr-korea-stocks/", "/en/page/korea-stocks-foreign-investors-hub/", "/es/page/korea-stocks-foreign-investors-hub/", "/vi/page/korea-stocks-foreign-investors-hub/", "/fr/page/korea-stocks-foreign-investors-hub/", "/ja/page/korea-stocks-foreign-investors-hub/", "/zh/page/korea-stocks-foreign-investors-hub/"]
 layout: "page"
 description: "A foreign-investor guide to Korean stocks: IBKR and international-broker access, KOSPI, KOSDAQ, Samsung Electronics, SK Hynix, Pearl Abyss, Korean financials, AI hardware, K-beauty and daily market research."
-lastmod: 2026-05-31T16:20:00+09:00
+lastmod: 2026-05-31T17:40:00+09:00
 ---
 
 ## One-Line Thesis
@@ -29,6 +29,7 @@ Foreign access to Korean equities is becoming less of a brokerage problem and mo
 | Which Korean AI stocks should a foreign investor study first? | Start with Samsung Electronics, SK Hynix and the HBM chain, then move into AI substrates, CCL, FC-BGA and low-dielectric materials. | [Samsung / SK Hynix / HBM Hub](/page/korea-semiconductor-hbm-kospi-hub/) |
 | Can China's and Hong Kong's AI overheat spill into Korean AI stocks? | Because Korea has almost no listed LLM pure-play, the more realistic route is reclassifying existing names: NAVER for sovereign AI, LG CNS / Samsung SDS for AI cloud, SK Telecom for AIDC/GPUaaS, and SK Networks as an Upstage proxy. | [China / Hong Kong AI spillover to Korea](/post/china-hong-kong-ai-overheat-korea-ai-cloud-llm-proxy-2026-05-31/) |
 | How does the US non-semiconductor AI re-rating translate into Korean stocks? | US AI power, software and stablecoin rails have re-rated outside semis. In Korea, the better map is second-line confirmation across NHN KCP, Douzone Bizon, Hanwha Systems and Semyung Electric rather than chasing already-priced power and copper leaders. | [US non-semiconductor re-rating through a Korean equity lens](/post/us-nonsemi-rerating-ai-power-software-korea-translation-2026-05-31/) |
+| Should foreign investors still view NAVER only as a portal stock? | No. NAVER now needs an SOTP and platform-financial lens: Dunamu, the Mirae Asset stake, NAVER Cloud, won-stablecoin optionality and global C2C turnaround. | [NAVER rerating case](/post/naver-rerating-dunamu-mirae-ai-cloud-stablecoin-turnaround-2026-05-31/) |
 | Which Korean small-cap AI hardware names matter? | The AI substrate ecosystem includes Samsung Electro-Mechanics, Daeduck Electronics, Doosan Electronic BG, Kolon Industries and Pamicell. | [AI PCB and Substrate Hub](/page/korea-ai-pcb-substrate-hub/) |
 | Why do Korean AI substrate stocks matter to global investors? | Korea's substrate cluster is not just a theme. It reflects three decades of manufacturing, customer certification and yield learning. That structure is the base layer behind the stock map. | [Why Korea Part 1: Semiconductor Substrates](/post/why-korea-semiconductor-substrate-competitive-edge-2026-05-07/) |
 | Where should global investors start with Korean shipbuilding, SMR and data-center power? | HD Hyundai Heavy Industries is the cleanest case of shipbuilding earnings plus engine/data-center power plus TerraPower Natrium SMR optionality. For now, shipbuilding and engines matter more than SMR EPS. | [HD Hyundai Heavy Industries SMR Option](/post/hd-hyundai-heavy-industries-smr-terrapower-natrium-option-2026-05-27/) |
@@ -54,12 +55,13 @@ Foreign access to Korean equities is becoming less of a brokerage problem and mo
 | 8 | How should I think about Samsung Electronics, SK Hynix and HBM? | [Samsung / SK Hynix / HBM Hub](/page/korea-semiconductor-hbm-kospi-hub/) |
 | 9 | If China / Hong Kong AI heat spills into Korea, which listed proxies matter? | [China / Hong Kong AI spillover to Korea](/post/china-hong-kong-ai-overheat-korea-ai-cloud-llm-proxy-2026-05-31/) |
 | 10 | How does the US non-semiconductor re-rating translate into Korean second-line stocks? | [US non-semiconductor re-rating through a Korean equity lens](/post/us-nonsemi-rerating-ai-power-software-korea-translation-2026-05-31/) |
-| 11 | What is the AI PCB and substrate thesis? | [AI PCB and Substrate Hub](/page/korea-ai-pcb-substrate-hub/) |
-| 12 | Why does Korea have so many AI substrate companies? | [Why Korea Part 1: Semiconductor Substrates](/post/why-korea-semiconductor-substrate-competitive-edge-2026-05-07/) |
-| 13 | How should I map Korean robotics and physical AI stocks? | [Korea Humanoid Robot Value Chain](/post/korea-robotics-value-chain-complete-map-2026-05-11/) |
-| 14 | Which Korean financials matter under Value-Up? | [Korean Financials Hub](/page/korean-financials-hub/) |
-| 15 | Why did Korean cosmetics become a top-three export industry? | [Why Korea Part 2: Korean Cosmetics](/post/why-korea-cosmetics-global-competitiveness-2026-05-07/) |
-| 16 | Which Korean consumer and game stories are searchable globally? | [Pearl Abyss Hub](/page/pearl-abyss-crimson-desert-hub/) · [K-Beauty Hub](/page/k-beauty-olive-young-pharmaresearch-hub/) |
+| 11 | Why should NAVER be mapped through SOTP, AI cloud and platform-financial optionality? | [NAVER rerating case](/post/naver-rerating-dunamu-mirae-ai-cloud-stablecoin-turnaround-2026-05-31/) |
+| 12 | What is the AI PCB and substrate thesis? | [AI PCB and Substrate Hub](/page/korea-ai-pcb-substrate-hub/) |
+| 13 | Why does Korea have so many AI substrate companies? | [Why Korea Part 1: Semiconductor Substrates](/post/why-korea-semiconductor-substrate-competitive-edge-2026-05-07/) |
+| 14 | How should I map Korean robotics and physical AI stocks? | [Korea Humanoid Robot Value Chain](/post/korea-robotics-value-chain-complete-map-2026-05-11/) |
+| 15 | Which Korean financials matter under Value-Up? | [Korean Financials Hub](/page/korean-financials-hub/) |
+| 16 | Why did Korean cosmetics become a top-three export industry? | [Why Korea Part 2: Korean Cosmetics](/post/why-korea-cosmetics-global-competitiveness-2026-05-07/) |
+| 17 | Which Korean consumer and game stories are searchable globally? | [Pearl Abyss Hub](/page/pearl-abyss-crimson-desert-hub/) · [K-Beauty Hub](/page/k-beauty-olive-young-pharmaresearch-hub/) |
 
 ---
 

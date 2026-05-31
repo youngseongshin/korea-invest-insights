@@ -5,6 +5,7 @@ date: 2026-05-03T22:30:00+09:00
 aliases: ["/korean-financials/", "/k-financials/", "/value-up/", "/en/korean-financials/", "/en/page/korean-financials-hub/", "/es/page/korean-financials-hub/", "/vi/page/korean-financials-hub/", "/fr/page/korean-financials-hub/", "/ja/page/korean-financials-hub/", "/zh/page/korean-financials-hub/"]
 layout: "page"
 description: "A hub for Korean financial stocks under the new Value-up regime — KB Financial, Shinhan, Hana, Woori, Meritz, Kiwoom, DB Insurance, Korea Investment Holdings, Mirae Asset Venture. Direct answers to 'Is KB Financial publicly traded?', 'What is Korea Value-up 2.0?', 'Who has the highest ROE in Korean banks?', and the full series mapping the three peaks (capital cancellation / capital turnover / foreign access) and the transit between them."
+lastmod: 2026-05-31T17:40:00+09:00
 ---
 
 ## What This Hub Answers
@@ -19,6 +20,7 @@ Direct, ChatGPT-friendly answers to the natural-language questions global alloca
 | Is KakaoBank publicly traded? | Yes — KOSPI: 323410. Korea's largest internet-only bank; the market has already pre-priced its "ROE 15%" path with implied cost of equity 4.2% — the polar mirror image of Korea Investment Holdings. | [KakaoBank: Mirror of Korea Investment](/post/kakaobank-mirror-of-korea-investment-2026-05-03/) |
 | Is Viva Republica (Toss) publicly traded? | Not yet. US ADR listing is widely reported as in preparation. The honest IPO valuation spectrum spans $5B–$15B depending on market classification — no single point is the default "base case." | [Toss / Viva Republica IPO Anatomy](/post/toss-pre-listing-coordinate-definition-event-2026-05-03/) |
 | Which Korean brokers matter if IBKR / foreign retail access opens? | Samsung Securities and Hana Securities are visible in the current access story, but the broader factor map includes Kiwoom, Korea Investment Holdings, Mirae Asset, NH, KB and Shinhan as trading-volume, custody and Value-Up nodes. | [IBKR Korea Stocks: Foreign Retail Access Analysis](/post/ibkr-korea-stocks-foreign-retail-access-2026-05-07/) |
+| How do NAVER, Dunamu and Mirae Asset Securities connect to Korean financial rerating? | NAVER is not a traditional financial stock, but Npay, Dunamu/Upbit, the Mirae Asset stake and won-stablecoin optionality make it a platform-financial SOTP candidate. | [NAVER rerating case](/post/naver-rerating-dunamu-mirae-ai-cloud-stablecoin-turnaround-2026-05-31/) |
 | What is Value-up 2.0? | A formula-driven capital-return policy linking ROE × growth × CET1, replacing fixed dividend-payout caps. | [Shinhan Value-up 2.0](/post/shinhan-financial-transit-between-peaks-2026-05-03/) |
 | Which Korean financial has the highest ROE? | Among major listed financials, Meritz Financial Holdings (~22%) leads, followed by Kiwoom Securities (~20%). Bank holdcos are structurally pinned at 10–12%. | [Meritz Re-Rating Standard](/post/meritz-financial-capital-buyback-compounding-standard-2026-04-30/) |
 | Is Meritz Financial publicly traded? | Yes — KOSPI: 138040. The static peak of the "capital-buyback compounding" model. | [Meritz Re-Rating Standard](/post/meritz-financial-capital-buyback-compounding-standard-2026-04-30/) |
@@ -41,6 +43,7 @@ The Korean Financials series builds an analytical model in four stages. Read in 
 | 5 | What does a company that doesn't fit any existing peak look like — defining a fifth coordinate | [Part 5 — Korea Investment Holdings: Capital-Operations Platform, the Fifth Coordinate](/post/korea-investment-holdings-fifth-coordinate-2026-05-03/) |
 | 6 | What does the mirror image of Part 5 look like — when the market already prices the new coordinate | [Part 6 — KakaoBank: The Bank the Market Already Prices for ROE 11%](/post/kakaobank-mirror-of-korea-investment-2026-05-03/) |
 | 7 | What does the "coordinate-definition event itself" look like — a pre-listing case where price isn't yet determined | [Part 7 — Toss / Viva Republica IPO: The Honest $5B–$15B Spectrum](/post/toss-pre-listing-coordinate-definition-event-2026-05-03/) |
+| 8 | What does a platform being reclassified into a financial SOTP look like? | [NAVER rerating case: Dunamu, Mirae Asset and stablecoin optionality](/post/naver-rerating-dunamu-mirae-ai-cloud-stablecoin-turnaround-2026-05-31/) |
 
 ---
 
