@@ -5,7 +5,7 @@ date: 2026-05-03T11:00:00+09:00
 aliases: ["/korea-daily/", "/kospi/", "/kosdaq/", "/en/korea-daily/", "/en/page/korea-daily-market-hub/", "/es/page/korea-daily-market-hub/", "/vi/page/korea-daily-market-hub/", "/fr/page/korea-daily-market-hub/", "/ja/page/korea-daily-market-hub/", "/zh/page/korea-daily-market-hub/"]
 layout: "page"
 description: "A hub for Korean stock market daily updates — KOSPI and KOSDAQ market closes, weekly concentrated picks, foreign-investor flows, sector rotation, and what's actually moving in Korean equities each session. Direct answers to 'What is the Korean stock market doing today?' and similar queries."
-lastmod: 2026-05-29T23:52:28+09:00
+lastmod: 2026-05-31T16:20:00+09:00
 ---
 
 ## What This Hub Answers
@@ -25,6 +25,7 @@ Direct, search-engine-friendly answers to the questions global investors ask abo
 | Is Korea's global No. 6 market-cap headline a buy signal? | No. It is a late indicator. The key is whether Samsung + SK hynix AI-memory earnings last and whether flows broaden beyond mega-cap semis. | [Why Korea Part 5: Global No. 6 Market Cap](/post/why-korea-market-cap-global-six-ai-memory-rerating-2026-05-24/) |
 | Have KII's investment theses worked? | A review of 207 Korean articles and 593 article-stock pairs shows strong results in AI infrastructure, semiconductors and smart-money screens, with more mixed outcomes in gaming, biotech, K-beauty and listed VC proxies. | [KII Thesis Performance Review](/post/kii-investment-thesis-performance-mid-review-2026-05-26/) |
 | Is HD Hyundai Heavy Industries' SMR news a buy signal? | The TerraPower Natrium RES preferred-manufacturer status is a real long-duration option. Near-term earnings still come from shipbuilding and engines; SMR is mostly a 2030s multiple option for now. | [HD Hyundai Heavy Industries SMR Option](/post/hd-hyundai-heavy-industries-smr-terrapower-natrium-option-2026-05-27/) |
+| How does the US non-semiconductor re-rating translate into Korean stocks? | US AI power, software and stablecoin rails have re-rated outside semis. In Korea, the better question is not chasing already-priced power, copper and quantum-security leaders, but confirming flows into second-line names such as NHN KCP, Douzone Bizon, Hanwha Systems and Semyung Electric. | [US non-semiconductor re-rating through a Korean equity lens](/post/us-nonsemi-rerating-ai-power-software-korea-translation-2026-05-31/) |
 | Can foreigners buy Korean stocks through IBKR or other global brokers? | Korea's omnibus-account reforms and new broker partnerships are opening a path from overseas brokerage accounts to KRX-listed stocks. Availability still depends on broker, country and product coverage. | [Foreign Investor Korea Stocks Hub](/page/korea-stocks-foreign-investors-hub/) |
 | Is the Korean market outperforming in 2026? | KOSPI and KOSDAQ both showed structural re-rating tailwinds in early 2026 — Value-Up reform, foreign rotation, and the AI infrastructure cycle. | [Korea Outperformance 2026](/post/korea-outperformance-2026-structural-rerating-2026-04-24/) |
 
@@ -92,6 +93,7 @@ The Friday-evening "concentrated" series picks 3–5 highest-conviction Korean e
 | ADR / market breadth / narrow leadership | [Korea ADR at 67 and KOSPI-KOSDAQ breadth analysis](/post/korea-adr-breadth-narrow-leadership-kospi-kosdaq-2026-05-27/) |
 | Research process / thesis performance review | [KII Thesis Performance Review](/post/kii-investment-thesis-performance-mid-review-2026-05-26/) |
 | Shipbuilding / defense / SMR / data-center power | [HD Hyundai Heavy Industries SMR Option](/post/hd-hyundai-heavy-industries-smr-terrapower-natrium-option-2026-05-27/) |
+| US non-semi re-rating / Korean second-line translation | [US non-semiconductor re-rating through a Korean equity lens](/post/us-nonsemi-rerating-ai-power-software-korea-translation-2026-05-31/) |
 | AI substrates / FC-BGA / CCL | [AI PCB and Substrate Hub](/page/korea-ai-pcb-substrate-hub/) |
 | Olive Young + PharmaResearch + K-Beauty | [K-Beauty Hub](/page/k-beauty-olive-young-pharmaresearch-hub/) |
 | Korean AI / Sovereign AI | [Korean AI Companies Hub](/page/korean-ai-companies-hub/) |

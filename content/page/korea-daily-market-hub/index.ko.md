@@ -5,7 +5,7 @@ date: 2026-05-03T11:00:00+09:00
 aliases: ["/ko/korea-daily/", "/ko/kospi/", "/ko/kosdaq/", "/ko/page/korea-daily-market-hub/"]
 layout: "page"
 description: "한국 주식시장 일일 업데이트 허브 — KOSPI / KOSDAQ 장마감 브리핑, 주간 집중 픽, 외국인·기관 수급, 섹터 로테이션, 그리고 매 세션 한국 주식에서 실제로 무엇이 움직이는지. '오늘 한국 주식시장은 어떤가요?' 같은 질문의 직접 답."
-lastmod: 2026-05-29T23:52:28+09:00
+lastmod: 2026-05-31T16:20:00+09:00
 ---
 
 ## 이 허브가 답하는 질문
@@ -25,6 +25,7 @@ lastmod: 2026-05-29T23:52:28+09:00
 | 한국 증시 시총 세계 6위는 매수 신호인가요? | 아니다. 세계 6위 헤드라인은 후행지표이며, 삼성전자·SK하이닉스 AI 메모리 이익 지속성과 수급 확산을 확인해야 한다. | [Why Korea 5편: 한국 시총 세계 6위](/ko/post/why-korea-market-cap-global-six-ai-memory-rerating-2026-05-24/) |
 | KII의 투자 테시스는 실제 성과가 있었나요? | 207개 한국어 글과 593개 종목 연결 pair를 점검한 결과, AI 인프라·반도체·스마트머니 축은 강했고 게임·바이오·K-뷰티·상장 VC는 편차가 컸다. | [투자 테시스 중간점검](/ko/post/kii-investment-thesis-performance-mid-review-2026-05-26/) |
 | HD현대중공업 SMR 뉴스는 매수 신호인가요? | TerraPower Natrium RES preferred manufacturer 지위는 실체 있는 장기 옵션이다. 다만 현재 숫자는 조선·엔진이 만들고, SMR은 2030년대 멀티플 옵션에 가깝다. | [HD현대중공업 SMR 옵션 분석](/ko/post/hd-hyundai-heavy-industries-smr-terrapower-natrium-option-2026-05-27/) |
+| 미국 비반도체 리레이팅은 한국장 어디로 번역되나요? | 미국에서는 AI 전력·소프트웨어·스테이블코인 rails가 반도체 밖에서 재평가됐고, 한국에서는 전력·구리·양자보안 대장보다 NHN KCP, 더존비즈온, 한화시스템, 세명전기 같은 2선 후보의 수급 확인이 더 중요하다. | [미국 비반도체 리레이팅의 한국장 번역](/ko/post/us-nonsemi-rerating-ai-power-software-korea-translation-2026-05-31/) |
 | 해외 투자자가 IBKR 같은 글로벌 증권사로 한국 주식을 살 수 있나요? | 옴니버스 계좌 제도 개선과 해외 증권사 제휴로 KRX 상장주 접근 경로가 열리고 있다. 다만 실제 이용 가능 여부는 증권사, 거주 국가, 거래 가능 종목에 따라 달라진다. | [해외 투자자용 한국 주식 허브](/ko/page/korea-stocks-foreign-investors-hub/) |
 | 2026년 한국 시장은 글로벌 대비 강한가요? | 2026년 초 KOSPI / KOSDAQ 모두 구조적 재평가 흐름. Value-Up, 외국인 로테이션, AI 인프라 사이클이 3대 동력. | [한국 시장 2026 아웃퍼포먼스](/ko/post/korea-outperformance-2026-structural-rerating-2026-04-24/) |
 
@@ -92,6 +93,7 @@ lastmod: 2026-05-29T23:52:28+09:00
 | ADR / 시장 브레드스 / 좁은 주도주 장세 | [한국 ADR 67과 KOSPI·KOSDAQ 브레드스 분석](/ko/post/korea-adr-breadth-narrow-leadership-kospi-kosdaq-2026-05-27/) |
 | 리서치 프로세스 / 테시스 성과 점검 | [KII 투자 테시스 중간점검](/ko/post/kii-investment-thesis-performance-mid-review-2026-05-26/) |
 | 조선 / 방산 / SMR / 데이터센터 전력 | [HD현대중공업 SMR 옵션 분석](/ko/post/hd-hyundai-heavy-industries-smr-terrapower-natrium-option-2026-05-27/) |
+| 미국 비반도체 리레이팅 / 한국 2선 번역 | [미국 비반도체 리레이팅의 한국장 번역](/ko/post/us-nonsemi-rerating-ai-power-software-korea-translation-2026-05-31/) |
 | AI 기판 / FC-BGA / CCL | [AI 기판·PCB 허브](/ko/page/korea-ai-pcb-substrate-hub/) |
 | 올리브영 + 파마리서치 + K-뷰티 | [K-뷰티 허브](/ko/page/k-beauty-olive-young-pharmaresearch-hub/) |
 | 한국 AI / Sovereign AI | [한국 AI 기업 허브](/ko/page/korean-ai-companies-hub/) |
