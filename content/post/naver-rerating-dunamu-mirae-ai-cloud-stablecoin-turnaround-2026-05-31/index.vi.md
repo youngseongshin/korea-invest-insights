@@ -1,7 +1,7 @@
 ---
-title: "Khả năng tái định giá NAVER: Dunamu, Mirae Asset, AI cloud và stablecoin"
+title: "NAVER vốn hóa 36,7 nghìn tỷ won: 8 nghìn tỷ won tiền mặt/BTC kết hợp Dunamu và 3 nghìn tỷ won cổ phần Mirae"
 date: 2026-05-31T17:40:00+09:00
-description: "Bản tóm tắt tiếng Việt về luận điểm tái định giá NAVER qua Dunamu, cổ phần Mirae Asset Securities, NAVER Cloud, stablecoin won và mảng C2C toàn cầu."
+description: "Bản tóm tắt tiếng Việt: liệu vốn hóa 36,7 nghìn tỷ won của NAVER đã phản ánh 8 nghìn tỷ won tiền mặt/BTC kết hợp Dunamu, 3 nghìn tỷ won cổ phần Mirae, NAVER Cloud, stablecoin won và khả năng phục hồi C2C toàn cầu hay chưa."
 categories: ["Company-Deep-Dive"]
 tags:
   - "NAVER"

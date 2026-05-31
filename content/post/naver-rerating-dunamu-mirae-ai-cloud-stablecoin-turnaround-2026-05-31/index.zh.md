@@ -1,7 +1,7 @@
 ---
-title: "NAVER重估可能性：Dunamu、未来资产证券、AI云与稳定币期权"
+title: "NAVER市值36.7万亿韩元：Dunamu合并口径现金/BTC 8万亿、未来资产持股3万亿是否已反映？"
 date: 2026-05-31T17:40:00+09:00
-description: "中文摘要：NAVER能否从门户网站股票，重估为金融资产、数字资产、AI云和韩元稳定币支付基础设施平台。"
+description: "中文摘要：NAVER 36.7万亿韩元市值是否已经反映Dunamu合并口径现金/BTC 8万亿韩元、未来资产证券持股约3万亿韩元、AI云、韩元稳定币和全球C2C复苏期权。"
 categories: ["Company-Deep-Dive"]
 tags:
   - "NAVER"

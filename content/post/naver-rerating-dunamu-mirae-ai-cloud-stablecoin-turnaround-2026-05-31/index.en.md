@@ -1,7 +1,7 @@
 ---
-title: "NAVER Rerating Case: Dunamu, Mirae Asset Securities, AI Cloud, and Stablecoin Optionality"
+title: "NAVER at KRW 36.7T: Are KRW 8T Dunamu-Combined Cash/BTC and a KRW 3T Mirae Stake Priced In?"
 date: 2026-05-31T17:40:00+09:00
-description: "A sum-of-the-parts and flow-driven look at whether NAVER can be rerated from a portal stock into a platform, financial-asset, digital-asset, AI cloud, stablecoin, and global C2C turnaround compound."
+description: "A sum-of-the-parts and flow-driven look at whether NAVER's KRW 36.7T market cap prices in KRW 8T Dunamu-combined cash/BTC, a KRW 3T Mirae Asset Securities stake, AI cloud, stablecoin, and global C2C turnaround optionality."
 categories: ["Company-Deep-Dive"]
 tags:
   - "NAVER"

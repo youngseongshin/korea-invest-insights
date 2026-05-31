@@ -1,7 +1,7 @@
 ---
-title: "El posible rerating de NAVER: Dunamu, Mirae Asset, nube de IA y stablecoins"
+title: "NAVER en KRW 36,7 billones: efectivo/BTC combinado con Dunamu de KRW 8 billones y participación en Mirae de KRW 3 billones"
 date: 2026-05-31T17:40:00+09:00
-description: "Resumen en español del caso de rerating de NAVER: Dunamu, participación en Mirae Asset Securities, NAVER Cloud, stablecoins en won y recuperación del negocio global C2C."
+description: "Resumen en español: si la capitalización de NAVER de KRW 36,7 billones ya refleja el efectivo/BTC combinado con Dunamu de KRW 8 billones, la participación en Mirae de KRW 3 billones, NAVER Cloud, stablecoins en won y el giro global C2C."
 categories: ["Company-Deep-Dive"]
 tags:
   - "NAVER"
