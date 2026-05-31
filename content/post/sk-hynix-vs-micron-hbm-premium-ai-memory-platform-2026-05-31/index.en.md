@@ -119,7 +119,7 @@ Reuters' report that SK Hynix is exploring a U.S. listing is itself evidence tha
 
 The logic behind UBS's sharp Micron target raise was not merely technology. It was the argument that long-term supply agreements reduce historical earnings volatility in memory. Reuters reported that hyperscalers are choosing supply security over price flexibility, with some volume and pricing commitments improving visibility. ([Reuters][9])
 
-This also applies to SK Hynix. Reuters reported that Hynix customer requests for HBM exceed capacity over the next three years. ([Reuters][6]) The difference is that U.S. markets can price this narrative faster through Micron.
+This also applies to SK Hynix. In its 1Q26 results, SK Hynix said HBM, high-capacity server DRAM and eSSD sales drove the profit expansion. ([SK hynix Newsroom][3]) The difference is that U.S. markets can price this narrative faster through Micron.
 
 ### 4.3 HBM plus memory/storage stack
 
