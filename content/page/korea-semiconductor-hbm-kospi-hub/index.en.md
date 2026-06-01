@@ -5,7 +5,7 @@ date: 2026-04-30T23:05:00+09:00
 aliases: ["/hbm/", "/semiconductor/", "/samsung-hynix/", "/kospi-hbm/", "/en/hbm/", "/en/semiconductor/", "/en/samsung-hynix/", "/en/kospi-hbm/", "/en/page/korea-semiconductor-hbm-kospi-hub/", "/es/page/korea-semiconductor-hbm-kospi-hub/", "/vi/page/korea-semiconductor-hbm-kospi-hub/", "/fr/page/korea-semiconductor-hbm-kospi-hub/", "/ja/page/korea-semiconductor-hbm-kospi-hub/", "/zh/page/korea-semiconductor-hbm-kospi-hub/"]
 layout: "page"
 description: "AI HBM hub for Samsung Electronics, SK Hynix, HBM, AI memory and KOSPI concentration. Covers HBM market share, Samsung's KOSPI weight, Korean semiconductor exposure and the 2026 KOSPI re-rating thesis."
-lastmod: 2026-06-01T22:20:00+09:00
+lastmod: 2026-06-01T23:45:00+09:00
 ---
 
 ## One-Line Thesis
@@ -29,6 +29,7 @@ Korean semiconductor exposure is not one trade. It combines <strong>SK Hynix's H
 | What do Marvell and Broadcom earnings mean for HBM? | If custom AI chips and AI Ethernet networking stay strong, HBM demand broadens beyond Nvidia GPUs into Broadcom XPUs, Google TPUs, OpenAI accelerators and Marvell custom silicon. | [Marvell and Broadcom earnings preview for Korea's AI bottlenecks](/post/marvell-broadcom-earnings-korea-ai-bottleneck-preview-2026-05-23/) |
 | What does Marvell Q1 FY2027 mean for Korean semiconductors? | The key is not a simple HBM-only trade. Custom XPU, optical interconnect and scale-up networking push the bottleneck into FCBGA, MLCC, silicon capacitors and test sockets. | [Marvell Q1 FY2027 and Korean semiconductors](/post/marvell-q1-fy2027-korea-semiconductor-readthrough-2026-05-28/) |
 | Why can Samsung Electronics look cheap while Samsung Electro-Mechanics looks expensive inside the same AI cycle? | Multiples are not driven by AI exposure alone. They reflect earnings duration, pricing power, customer lock-in, capex burden and peak-earnings doubt. Samsung offers HBM catch-up plus AI memory-hierarchy optionality at a lower multiple, while SEMCO's MLCC / FC-BGA / Si-Cap thesis is already priced aggressively. | [AI Infrastructure Multiple Map](/post/ai-infrastructure-multiple-map-gpu-hbm-mlcc-fcbga-samsung-2026-05-31/) |
+| Does SEMCO's KRW 2.8M report prove it is stronger than memory? | Not yet. The June 1 target is 2029F EPS of KRW 93,242 multiplied by 30x, so it pulls a long-term earnings path into today's valuation. SEMCO must prove 2027-2029 ASP durability, Si-Cap repeat orders and high OPM to deserve a premium versus memory. | [SEMCO KRW 2.8M Follow-Up](/post/samsung-electro-mechanics-mirae-tp-2800000-2029-memory-duration-proof-2026-06-01/) |
 | How does SEMCO's KRW 100T market cap connect to the HBM thesis? | As HBM packages grow, power integrity and FC-BGA become parallel bottlenecks. SEMCO at KRW 100T is a signal that the market is starting to price the layer below HBM, not just HBM itself. | [SEMCO at KRW 100T](/post/samsung-electro-mechanics-100tn-murata-hyundai-market-cap-2026-05-26/) |
 | How do AI server passive components connect to HBM? | Larger GPU/HBM packages create bigger transient power swings. MLCCs, silicon capacitors and inductors become the power-integrity layer that lets HBM and GPU packages run reliably. | [AI server passive-component bottleneck](/post/ai-server-passive-components-bottleneck-samsung-electro-mechanics-2026-05-26/) |
 | What does Korea's global No. 6 market-cap headline mean for HBM? | It is not a buy button. It is a signal to verify Samsung + SK hynix AI-memory earnings durability and KOSPI concentration risk. | [Why Korea Part 5: Global No. 6 Market Cap](/post/why-korea-market-cap-global-six-ai-memory-rerating-2026-05-24/) |
@@ -46,6 +47,7 @@ Korean semiconductor exposure is not one trade. It combines <strong>SK Hynix's H
 
 | Date | Topic | Read |
 |---|---|---|
+| 2026-06-01 | <strong>SEMCO KRW 2.8M follow-up — 2029 is far, and it must prove stronger duration than memory</strong> — checks Mirae Asset's June 1 formula of 2029F EPS KRW 93,242 × 30x and reframes the debate as a 2027-2029 proof test for MLCC +10%, FC-BGA +20%, Si-Cap repeat orders and high OPM | [SEMCO KRW 2.8M Follow-Up](/post/samsung-electro-mechanics-mirae-tp-2800000-2029-memory-duration-proof-2026-06-01/) |
 | 2026-06-01 | <strong>Is Samsung C&T a lagging Samsung Electronics proxy?</strong> — tests the trade using 51.7% Samsung Electronics stake-value pass-through, 0.83 YTD beta, 1.10 recent-20D beta, and the choice between Samsung common, Samsung C&T and Samsung Electronics 2x ETFs | [Samsung C&T Samsung Electronics proxy / NAV gap trade](/post/samsung-ct-samsung-electronics-proxy-nav-gap-trade-2026-06-01/) |
 | 2026-05-31 | <strong>Is FADU Korea's Sandisk beta?</strong> — tests whether FADU is being discovered as a Korean high-beta proxy for AI storage/NAND using KRW 445.1bn of foreign net buying since May, institution selling and FADU-Sandisk return correlations | [FADU and Sandisk AI storage beta](/post/fadu-sandisk-ai-storage-korea-beta-jeju-semiconductor-2026-05-31/) |
 | 2026-05-31 | <strong>SK Hynix vs Micron — HBM technology premium or U.S. listing premium?</strong> — compares two trillion-dollar AI-memory stocks: SK Hynix as the technology/reference/HBM-profitability leader and Micron as the U.S.-listed scarcity proxy with an HBM4, SOCAMM2 and Gen6 SSD story | [SK Hynix vs Micron](/post/sk-hynix-vs-micron-hbm-premium-ai-memory-platform-2026-05-31/) |
@@ -90,6 +92,7 @@ Korean semiconductor exposure is not one trade. It combines <strong>SK Hynix's H
 | 10 | Is foreign selling a HBM thesis break or position reduction? | [Korea Foreign Investor Flow Analysis](/post/korea-foreign-investor-flow-memory-megacap-rotation-2026-05-24/) |
 | 11 | How much ownership-based foreign selling pressure remains? | [KOSPI ownership versus Samsung / SK Hynix](/post/korea-foreign-ownership-kospi-samsung-hynix-divergence-2026-05-26/) |
 | 12 | Did Samsung signal a memory supercycle through 2028? | [Samsung stock-bonus formula analysis](/post/samsung-electronics-stock-bonus-supercycle-buyback-2026-05-27/) |
+| 13 | Does SEMCO's KRW 2.8M report prove stronger duration than memory? | [SEMCO KRW 2.8M Follow-Up](/post/samsung-electro-mechanics-mirae-tp-2800000-2029-memory-duration-proof-2026-06-01/) |
 
 ---
 

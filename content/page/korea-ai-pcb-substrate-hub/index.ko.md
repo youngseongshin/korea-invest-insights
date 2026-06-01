@@ -5,7 +5,7 @@ date: 2026-05-05T23:20:00+09:00
 aliases: ["/ko/ai-pcb/", "/ko/pcb/", "/ko/fc-bga/", "/ko/ccl/", "/ko/ai-substrate/", "/ko/page/korea-ai-pcb-substrate-hub/"]
 layout: "page"
 description: "AI 기판·PCB 투자 허브. FC-BGA, MLB, CCL, 저유전율 소재, 삼성전기, 대덕전자, 두산전자BG, 코오롱인더, 파미셀을 한곳에 묶어 GPU·CPU·NIC·스위치 ASIC이 만드는 AI 시스템 병목을 정리한다."
-lastmod: 2026-05-31T09:00:00+09:00
+lastmod: 2026-06-01T23:45:00+09:00
 ---
 
 ## 한 줄 결론
@@ -26,6 +26,7 @@ AI 기판 투자는 "GPU 다음 테마"가 아니라 <strong>AI 시스템 전체
 | 한국 AI 기판 생태계에서 어떤 회사를 비교해야 하나요? | 기판 제조사만 보면 부족하다. 삼성전기·대덕전자·이수페타시스·심텍·코리아써키트에 두산전자BG, 코오롱인더, 파미셀, 티엘비, 태성까지 같이 봐야 한다. | [한국 AI 기판·PCB 생태계 10개사](/ko/post/korea-ai-pcb-ecosystem-ten-companies-2026-05-05/) |
 | 삼성전기는 AI 기판주인가요? | 삼성전기는 FC-BGA와 MLCC를 함께 가진 한국 대형 부품주다. AI 서버가 고성능 기판과 전력 안정 부품을 더 많이 쓰면서 수혜를 받는다. | [삼성전기 AI 인프라 리레이팅](/ko/post/samsung-electro-mechanics-ai-infrastructure-rerating-2026-04-21/) |
 | 삼성전기 목표가 130만원은 어떤 의미인가요? | 미래에셋의 130만원은 2028F EPS에 2017년 MLCC 쇼티지 초기 멀티플 37배를 적용한 리레이팅 프레임이다. 현재가는 이미 정상 업사이클 상단을 넘어선 만큼 MLCC 가격 인상과 FC-BGA 마진 확인이 중요하다. | [삼성전기 목표가 130만원 분석](/ko/post/samsung-electro-mechanics-mirae-tp-1300000-valuation-frame-shift-2026-05-07/) |
+| 삼성전기 목표가 280만원은 왜 2029년 검증이 필요한가요? | 미래에셋 6월 1일 목표가 280만원은 29F EPS 93,242원 × PER 30배다. 멀티플 상향이 아니라 2027~2029년 MLCC·FC-BGA·Si-Cap 이익 추정 상향이므로, 삼성전기는 메모리보다 긴 이익 지속성과 가격결정력을 증명해야 한다. | [삼성전기 280만원 리포트 후속](/ko/post/samsung-electro-mechanics-mirae-tp-2800000-2029-memory-duration-proof-2026-06-01/) |
 | 삼성전기는 무라타·이비덴 중 누구와 비교해야 하나요? | 한쪽 피어로만 보면 답이 어긋난다. 삼성전기는 MLCC와 FC-BGA를 동시에 가진 하이브리드 챌린저이고, 현 주가 101만원은 2027E OP 2.7조원 이상과 패키지 OPM 20% 접근을 요구한다. | [삼성전기 하이브리드 챌린저](/ko/post/samsung-electro-mechanics-hybrid-challenger-2026-05-17/) |
 | 삼성전기 실리콘 커패시터 1.5조원 계약은 뭘 바꿉니까? | '수주 한 건'이 아니라 <strong>MLCC·기판 회사 → AI 패키지 전력 안정화 부품사로 분류가 바뀌는 사건</strong>. 2년 1.557조원(연환산 7,785억원, 2025년 매출의 6.9%), 2027년부터 2028년까지 인식. FC-BGA·MLCC·Si-Cap 통합 공급자가 글로벌에서 삼성전기 한 곳. 다만 5/21 프리마켓 1,109,000원은 이미 상당히 반영. | [Si-Cap 1.5조원 — 분류가 바뀌는 사건](/ko/post/samsung-electro-mechanics-silicon-capacitor-1p5tn-2026-05-21/) |
 | 인텔 EMIB-T와 삼성전기 실리콘 커패시터는 어떻게 연결되나요? | EMIB-T는 칩렛·HBM 연결에 TSV 기반 전력 전달까지 더하는 2.5D 패키징이고, Si-Cap은 AI 패키지 내부 전압 흔들림을 줄이는 die-near PDN 부품이다. 공식 확인은 1.5조원 Si-Cap 계약이고, 구글 TPU·EMIB-T 연결은 아직 추정 영역이다. | [삼성전기 Si-Cap과 인텔 EMIB-T](/ko/post/samsung-electro-mechanics-silicon-capacitor-emib-t-ai-package-pdn-2026-05-28/) |
@@ -58,6 +59,7 @@ AI 기판 투자는 "GPU 다음 테마"가 아니라 <strong>AI 시스템 전체
 | 3 | 한국 AI 기판 생태계 10개사를 어떻게 나눠 봐야 하나 | [한국 AI 기판·PCB 생태계 10개사](/ko/post/korea-ai-pcb-ecosystem-ten-companies-2026-05-05/) |
 | 4 | 한국 대형주 중 기판·MLCC 앵커는 어디인가 | [삼성전기 주가가 90일 만에 두 배 오른 이유](/ko/post/samsung-electro-mechanics-ai-infrastructure-rerating-2026-04-21/) |
 | 5 | 미래에셋 130만원 목표가는 어떤 멀티플 전환을 말하나 | [삼성전기 목표가 130만원 분석](/ko/post/samsung-electro-mechanics-mirae-tp-1300000-valuation-frame-shift-2026-05-07/) |
+| 5+ | 미래에셋 280만원 목표가는 왜 2029년 이익 검증 문제인가 | [삼성전기 280만원 리포트 후속](/ko/post/samsung-electro-mechanics-mirae-tp-2800000-2029-memory-duration-proof-2026-06-01/) |
 | 6 | 삼성전기는 무라타·이비덴 중 어디에 가까운가 | [삼성전기 하이브리드 챌린저: 101만원이 묻는 2027E OP 2.7조원](/ko/post/samsung-electro-mechanics-hybrid-challenger-2026-05-17/) |
 | 6+ | 삼성전기 실리콘 커패시터 1.5조원 — 분류가 바뀌는 사건 | [Si-Cap 1.5조원 공급계약 분석 (5/21)](/ko/post/samsung-electro-mechanics-silicon-capacitor-1p5tn-2026-05-21/) |
 | 6++ | MLCC와 실리콘 커패시터는 어떻게 다르고 왜 AI 패키지 전력 병목인가 | [MLCC와 실리콘 커패시터 이해하기](/ko/post/mlcc-silicon-capacitor-ai-package-power-integrity-2026-05-22/) |

@@ -5,7 +5,7 @@ date: 2026-04-30T23:05:00+09:00
 aliases: ["/ko/hbm/", "/ko/semiconductor/", "/ko/samsung-hynix/", "/ko/kospi-hbm/", "/ko/page/hbm/"]
 layout: "page"
 description: "AI HBM 허브. 삼성전자, SK하이닉스, HBM, AI 메모리, 코스피 지수 쏠림과 한국 반도체 투자 논거를 한곳에 모은 리서치 허브. HBM 시장점유율, 삼성전자 코스피 비중, KOSPI 리레이팅, AI 서버 수요를 순서대로 정리한다."
-lastmod: 2026-06-01T22:20:00+09:00
+lastmod: 2026-06-01T23:45:00+09:00
 ---
 
 ## 한 줄 결론
@@ -31,6 +31,7 @@ lastmod: 2026-06-01T22:20:00+09:00
 | 마벨 Q1 FY2027 실적은 한국 반도체에 어떤 의미인가 | 핵심은 HBM 단일 베팅이 아니라 custom XPU·optical interconnect·scale-up networking이 FCBGA, MLCC, 실리콘 커패시터, 테스트 소켓 병목으로 번진다는 점이다. 한국 read-through는 삼성전기 > 삼성전자·SK하이닉스 > 테스트 소켓 순서다. | [마벨 Q1 FY2027 실적과 한국 반도체](/ko/post/marvell-q1-fy2027-korea-semiconductor-readthrough-2026-05-28/) |
 | NVIDIA GTC 2026 이후 LPX·CMX는 HBM에 부정적인가 | 아니다. LPX는 SRAM 기반 저지연 decode tier, Rubin GPU/HBM은 prefill·attention·verification·large-memory tier, CMX/STX는 KV-cache storage tier다. HBM 대체가 아니라 추론 memory hierarchy 확장이다. | [NVIDIA Vera Rubin 추론 스택: LPX·CMX](/ko/post/nvidia-vera-rubin-lpx-cmx-inference-stack-samsung-hbm-2026-05-28/) |
 | 같은 AI 인프라 사이클인데 왜 삼성전자는 싸고 삼성전기는 비싸 보이나 | 멀티플은 AI 노출도가 아니라 이익 지속기간, 가격 결정권, 고객 lock-in, capex 부담, 피크이익 의심의 함수다. 삼성전자는 HBM catch-up과 memory hierarchy option을 낮은 멀티플에 보유하지만, 삼성전기는 MLCC·FC-BGA·Si-Cap thesis가 이미 높은 가격에 반영됐다. | [AI 인프라 멀티플 지도](/ko/post/ai-infrastructure-multiple-map-gpu-hbm-mlcc-fcbga-samsung-2026-05-31/) |
+| 삼성전기 280만원 리포트는 메모리보다 강하다는 증거인가 | 아직 증거라기보다 검증해야 할 가정이다. 미래에셋 6월 1일 목표가 280만원은 29F EPS 93,242원 × 30배로, 2029년 장기 이익을 당겨 쓴 산식이다. 삼성전기는 메모리보다 강하려면 2027~2029년 ASP, Si-Cap 반복수주, 고OPM을 증명해야 한다. | [삼성전기 280만원 리포트 후속](/ko/post/samsung-electro-mechanics-mirae-tp-2800000-2029-memory-duration-proof-2026-06-01/) |
 | 삼성전기 시총 100조원은 HBM thesis와 어떻게 연결되나 | HBM이 커질수록 GPU·ASIC 패키지 안쪽의 전력 안정화와 FC-BGA도 같이 병목이 된다. 삼성전기 100조원은 HBM 아래 전력무결성 레이어가 별도 멀티플을 받기 시작했다는 신호다. | [삼성전기 시총 100조 돌파](/ko/post/samsung-electro-mechanics-100tn-murata-hyundai-market-cap-2026-05-26/) |
 | AI 서버 수동소자 병목은 HBM 투자와 어떻게 연결되나 | GPU·HBM 패키지가 커질수록 순간 전력 피크를 잡는 MLCC·실리콘 커패시터·인덕터가 성능 병목이 된다. 즉 HBM 투자는 메모리만이 아니라 전력무결성 부품까지 같이 봐야 한다. | [AI 서버 수동소자 병목: 삼성전기 기술 설명](/ko/post/ai-server-passive-components-bottleneck-samsung-electro-mechanics-2026-05-26/) |
 | 한국 증시 시총 세계 6위는 HBM 투자에 어떤 의미인가 | 세계 6위 헤드라인은 매수 신호가 아니라 삼성전자·SK하이닉스 AI 메모리 이익 지속성과 KOSPI 집중도를 검증하라는 신호다. | [Why Korea 5편: 한국 시총 세계 6위](/ko/post/why-korea-market-cap-global-six-ai-memory-rerating-2026-05-24/) |
@@ -48,6 +49,7 @@ lastmod: 2026-06-01T22:20:00+09:00
 
 | 날짜 | 주제 | 자세히 보기 |
 |---|---|---|
+| 2026-06-01 | <strong>삼성전기 280만원 리포트 후속 — 2029년은 멀고 메모리보다 강한 이유를 증명해야 한다</strong> — 미래에셋 6월 1일 목표가 280만원을 29F EPS 93,242원 × 30배로 검산하고, 2027~2029년 MLCC +10%, FC-BGA +20%, Si-Cap 반복수주가 메모리보다 강한 duration을 증명해야 한다는 상대가치 논점으로 정리 | [삼성전기 280만원 리포트 후속](/ko/post/samsung-electro-mechanics-mirae-tp-2800000-2029-memory-duration-proof-2026-06-01/) |
 | 2026-06-01 | <strong>삼성물산은 삼성전자 후행 proxy인가</strong> — 삼성물산 보유 삼성전자 지분가치 상승분 반영률 51.7%, 삼성전자 대비 YTD 베타 0.83, 최근 20D 베타 1.10을 기준으로, 본주·삼성물산·삼성전자 2X ETF 중 어떤 도구가 맞는지 점검 | [삼성물산 삼성전자 proxy / NAV gap trade](/ko/post/samsung-ct-samsung-electronics-proxy-nav-gap-trade-2026-06-01/) |
 | 2026-05-31 | <strong>파두는 샌디스크의 한국 베타인가</strong> — 5월 이후 외국인 +4,451억원 순매수와 기관 -2,152억원 순매도를 기준으로, 파두가 AI storage/NAND의 한국 고베타 proxy로 발견되는지 검증. 결론은 외국인 Yes, 기관 No, 시장 전체는 초기 형성 단계 | [파두와 샌디스크 AI storage 베타](/ko/post/fadu-sandisk-ai-storage-korea-beta-jeju-semiconductor-2026-05-31/) |
 | 2026-05-31 | <strong>SK하이닉스 vs 마이크론 — HBM 기술 프리미엄인가, 미국 상장 프리미엄인가</strong> — 같은 1조 달러급 AI 메모리 주식이지만 SK하이닉스는 기술·레퍼런스·HBM 수익성, 마이크론은 미국 상장 scarcity premium과 HBM4·SOCAMM2·Gen6 SSD 내러티브로 재평가되는 구조를 비교 | [SK하이닉스 vs 마이크론](/ko/post/sk-hynix-vs-micron-hbm-premium-ai-memory-platform-2026-05-31/) |
@@ -95,7 +97,8 @@ lastmod: 2026-06-01T22:20:00+09:00
 | 10 | 외국인 매도는 HBM thesis 훼손인가, 비중 조절인가 | [한국증시 외국인 수급 분석](/ko/post/korea-foreign-investor-flow-memory-megacap-rotation-2026-05-24/) |
 | 11 | 외국인 지분율 기준으로 매도 압력은 얼마나 남았나 | [KOSPI 외국인 지분율 vs 삼성전자·SK하이닉스](/ko/post/korea-foreign-ownership-kospi-samsung-hynix-divergence-2026-05-26/) |
 | 12 | 삼성전자는 2028년까지 메모리 슈퍼사이클을 인정한 것인가 | [삼성전자 특별성과급 자사주 산식 재구성](/ko/post/samsung-electronics-stock-bonus-supercycle-buyback-2026-05-27/) |
-| 13 | LPX는 HBM을 대체하는가, 아니면 HBM GPU를 보완하는가 | [NVIDIA Vera Rubin 추론 스택: CPX보다 LPX·CMX가 전면에 선 이유](/ko/post/nvidia-vera-rubin-lpx-cmx-inference-stack-samsung-hbm-2026-05-28/) |
+| 13 | 삼성전기 280만원은 메모리보다 강한 duration을 증명했나 | [삼성전기 280만원 리포트 후속](/ko/post/samsung-electro-mechanics-mirae-tp-2800000-2029-memory-duration-proof-2026-06-01/) |
+| 14 | LPX는 HBM을 대체하는가, 아니면 HBM GPU를 보완하는가 | [NVIDIA Vera Rubin 추론 스택: CPX보다 LPX·CMX가 전면에 선 이유](/ko/post/nvidia-vera-rubin-lpx-cmx-inference-stack-samsung-hbm-2026-05-28/) |
 
 ---
 
