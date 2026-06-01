@@ -5,7 +5,7 @@ date: 2026-05-03T11:00:00+09:00
 aliases: ["/korea-daily/", "/kospi/", "/kosdaq/", "/en/korea-daily/", "/en/page/korea-daily-market-hub/", "/es/page/korea-daily-market-hub/", "/vi/page/korea-daily-market-hub/", "/fr/page/korea-daily-market-hub/", "/ja/page/korea-daily-market-hub/", "/zh/page/korea-daily-market-hub/"]
 layout: "page"
 description: "A hub for Korean stock market daily updates — KOSPI and KOSDAQ market closes, weekly concentrated picks, foreign-investor flows, sector rotation, and what's actually moving in Korean equities each session. Direct answers to 'What is the Korean stock market doing today?' and similar queries."
-lastmod: 2026-05-31T23:45:00+09:00
+lastmod: 2026-06-01T23:10:00+09:00
 ---
 
 ## What This Hub Answers
@@ -14,8 +14,8 @@ Direct, search-engine-friendly answers to the questions global investors ask abo
 
 | Search Question | Quick Answer | Read |
 |---|---|---|
-| What is the Korean stock market doing today? | The most recent Korea Daily Wrap covers the day's regime, sector rotation, foreign flows, and key disclosures. | [Latest Korea Daily Wrap](/post/kr-daily-wrap-2026-05-29/) |
-| Why does the index hold while the average stock feels weak? | Korea's 20-day ADR is down to 67.3, with KOSPI at 68.5 and KOSDAQ at 66.7. This is narrow leadership, not broad risk-on: money is compressed into AI infrastructure, back-end semis, substrates, shipbuilding and defense. | [Korea ADR at 67 and narrow leadership](/post/korea-adr-breadth-narrow-leadership-kospi-kosdaq-2026-05-27/) |
+| What is the Korean stock market doing today? | On June 1, GTC Taipei and Jensen Huang Korea-visit expectations lifted Samsung Electronics, LG Electronics, NAVER, robotics and LS ELECTRIC, but the daily ADR was only 18.1%: a very narrow market, not broad risk-on. | [Korea's Narrow Path at an 18.1% ADR](/post/korea-narrow-market-jensen-huang-catalyst-gtc-taipei-2026-06-01/) |
+| Why does the index hold while the average stock feels weak? | Korea's 20-day ADR is down to 48.0%. Money is compressed into AI factory, physical AI and mega-cap semis while most stocks remain weak. | [Korea's Narrow Path at an 18.1% ADR](/post/korea-narrow-market-jensen-huang-catalyst-gtc-taipei-2026-06-01/) · [Korea ADR at 67 and narrow leadership](/post/korea-adr-breadth-narrow-leadership-kospi-kosdaq-2026-05-27/) |
 | What are this week's top Korean concentrated picks? | The Weekly Concentrated Strategy publishes Friday evening (KST) with 3–5 deep-dive picks. | [Latest Weekly Concentrated](/post/kr-concentrated-weekly-2026-04-24/) |
 | Are foreigners buying or selling Korean stocks? | The 2026 outflow is less a broad Korea exit and more a Samsung Electronics + SK Hynix AI-memory mega-cap distribution. | [Korea Foreign Investor Flow Analysis](/post/korea-foreign-investor-flow-memory-megacap-rotation-2026-05-24/) |
 | How much foreign-selling pressure is left by ownership? | KOSPI market-value foreign ownership remains high, but Samsung and SK Hynix share-count ownership is already near 2026 lows. The next signal is the five-day foreign-selling speed. | [KOSPI ownership versus Samsung / SK Hynix](/post/korea-foreign-ownership-kospi-samsung-hynix-divergence-2026-05-26/) |
@@ -39,7 +39,7 @@ Sequential reading for someone new to Korean equities — what to read in order 
 | Step | Question | Read |
 |---:|---|---|
 | 1 | Why is Korea outperforming in 2026? | [Korea Outperformance 2026: The Structural Re-Rating Backdrop](/post/korea-outperformance-2026-structural-rerating-2026-04-24/) |
-| 2 | What's actually driving the daily tape? | [Latest Korea Daily Wrap](/post/kr-daily-wrap-2026-05-29/) |
+| 2 | What's actually driving the daily tape? | [Korea's Narrow Path at an 18.1% ADR](/post/korea-narrow-market-jensen-huang-catalyst-gtc-taipei-2026-06-01/) |
 | 3 | Where is the high-conviction concentrated alpha? | [Latest Weekly Concentrated Strategy](/post/kr-concentrated-weekly-2026-04-24/) |
 | 4 | What's the deeper story on the largest names? | [Samsung Electronics Deep Dive](/post/kr-deep-dive-samsung-electronics-2026-04-16/) · [SK hynix Deep Dive](/post/kr-deep-dive-sk-hynix-2026-04-16/) |
 | 5 | Where are the un-priced KOSDAQ corners? | [KOSDAQ Coverage Gaps & Variant Perception](/post/kosdaq-coverage-gaps-variant-perception-2026-04-23/) |
@@ -57,6 +57,7 @@ Sequential reading for someone new to Korean equities — what to read in order 
 
 | Date | Theme | Read |
 |---|---|---|
+| 2026-06-01 | Korea's narrow 18.1% ADR session: GTC Taipei and Jensen Huang expectations lifted only AI factory and physical AI leaders | [Korea's narrow Jensen Huang market](/post/korea-narrow-market-jensen-huang-catalyst-gtc-taipei-2026-06-01/) |
 | 2026-05-29 | Korea Quality Re-Rating Watch 2026-05-29: VM, Gigavis, DB Hi-Tek | [Korea Daily Wrap 2026-05-29](/post/kr-daily-wrap-2026-05-29/) |
 | 2026-05-28 | Korea Quality Re-Rating Watch 2026-05-28: VM, SamCNS and Protek — Five Screeners | [Korea Daily Wrap 2026-05-28](/post/kr-daily-wrap-2026-05-28/) |
 | 2026-05-27 | Korea Quality Re-Rating Watch 2026-05-27: SK Square, Gigavis & HD Hyundai Heavy | [Korea Daily Wrap 2026-05-27](/post/kr-daily-wrap-2026-05-27/) |
@@ -97,6 +98,7 @@ The Friday-evening "concentrated" series picks 3–5 highest-conviction Korean e
 | Research process / thesis performance review | [KII Thesis Performance Review](/post/kii-investment-thesis-performance-mid-review-2026-05-26/) |
 | Shipbuilding / defense / SMR / data-center power | [HD Hyundai Heavy Industries SMR Option](/post/hd-hyundai-heavy-industries-smr-terrapower-natrium-option-2026-05-27/) |
 | US non-semi re-rating / Korean second-line translation | [US non-semiconductor re-rating through a Korean equity lens](/post/us-nonsemi-rerating-ai-power-software-korea-translation-2026-05-31/) |
+| GTC Taipei / Jensen Huang / AI factory and physical AI | [Korea's Narrow Path at an 18.1% ADR](/post/korea-narrow-market-jensen-huang-catalyst-gtc-taipei-2026-06-01/) |
 | AI substrates / FC-BGA / CCL | [AI PCB and Substrate Hub](/page/korea-ai-pcb-substrate-hub/) |
 | Olive Young + PharmaResearch + K-Beauty | [K-Beauty Hub](/page/k-beauty-olive-young-pharmaresearch-hub/) |
 | Korean AI / Sovereign AI | [Korean AI Companies Hub](/page/korean-ai-companies-hub/) |
