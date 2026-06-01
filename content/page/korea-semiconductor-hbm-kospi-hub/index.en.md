@@ -5,7 +5,7 @@ date: 2026-04-30T23:05:00+09:00
 aliases: ["/hbm/", "/semiconductor/", "/samsung-hynix/", "/kospi-hbm/", "/en/hbm/", "/en/semiconductor/", "/en/samsung-hynix/", "/en/kospi-hbm/", "/en/page/korea-semiconductor-hbm-kospi-hub/", "/es/page/korea-semiconductor-hbm-kospi-hub/", "/vi/page/korea-semiconductor-hbm-kospi-hub/", "/fr/page/korea-semiconductor-hbm-kospi-hub/", "/ja/page/korea-semiconductor-hbm-kospi-hub/", "/zh/page/korea-semiconductor-hbm-kospi-hub/"]
 layout: "page"
 description: "AI HBM hub for Samsung Electronics, SK Hynix, HBM, AI memory and KOSPI concentration. Covers HBM market share, Samsung's KOSPI weight, Korean semiconductor exposure and the 2026 KOSPI re-rating thesis."
-lastmod: 2026-05-31T13:20:00+09:00
+lastmod: 2026-06-01T22:20:00+09:00
 ---
 
 ## One-Line Thesis
@@ -21,6 +21,7 @@ Korean semiconductor exposure is not one trade. It combines <strong>SK Hynix's H
 | What is SK Hynix's HBM market share? | A practical 2026 baseline is roughly 50% of total HBM revenue/share, with potentially higher exposure in Nvidia's HBM4 ramp if allocation reports hold. | [SK Hynix HBM Market Share 2026](/post/sk-hynix-hbm-market-share-ai-memory-demand-2026/) |
 | How large is Samsung Electronics in KOSPI? | For Korea ETF investors, Samsung Electronics is not just one holding. In major Korea index products, its weight typically sits in the low-20s to low-30s percentage range. | [Samsung Electronics Weight in KOSPI](/post/samsung-electronics-weight-in-kospi-index-2026/) |
 | Samsung or SK Hynix: which is cleaner HBM exposure? | SK Hynix is the cleaner public HBM exposure. Samsung is a broader semiconductor and electronics compounder with HBM recovery, DDR5/eSSD, foundry and device exposure. | [SK Hynix Deep Dive](/post/kr-deep-dive-sk-hynix-2026-04-16/) · [Samsung Electronics Deep Dive](/post/kr-deep-dive-samsung-electronics-2026-04-16/) |
+| Can Samsung C&T work as a lagging Samsung Electronics proxy? | Yes, but it is not a high-beta substitute. As of Jun 1, 2026, Samsung C&T's YTD stake-value pass-through was 51.7%, its YTD beta to Samsung Electronics was 0.83, and a 60% pass-through recovery implies roughly KRW 489,000. | [Samsung C&T Samsung Electronics proxy / NAV gap trade](/post/samsung-ct-samsung-electronics-proxy-nav-gap-trade-2026-06-01/) |
 | Is SK Hynix's higher P/E versus Samsung a new normal? | The 2026E annual P/E inversion is unusual but explainable through the HBM bottleneck premium. The 12-month-forward view is closer to parity, and the cleaner relative-value alpha is Samsung's HBM4E catch-up rather than chasing SK Hynix. | [Samsung vs SK Hynix Forward P/E Inversion](/post/samsung-sk-hynix-forward-per-inversion-hbm-catchup-2026-05-31/) |
 | Is Micron's higher forward P/E versus SK Hynix a technology premium? | Not really. SK Hynix still leads on technology, references and current HBM profitability, while Micron earns a U.S.-listed AI-memory scarcity premium plus an HBM4, SOCAMM2 and Gen6 SSD platform narrative. | [SK Hynix vs Micron](/post/sk-hynix-vs-micron-hbm-premium-ai-memory-platform-2026-05-31/) |
 | Is FADU Korea's Sandisk beta? | Foreign flow says the relationship is forming: foreigners net bought about KRW 445.1bn of FADU since May, but return correlation is not yet as structural as SK Hynix-Micron. | [FADU and Sandisk AI storage beta](/post/fadu-sandisk-ai-storage-korea-beta-jeju-semiconductor-2026-05-31/) |
@@ -45,6 +46,7 @@ Korean semiconductor exposure is not one trade. It combines <strong>SK Hynix's H
 
 | Date | Topic | Read |
 |---|---|---|
+| 2026-06-01 | <strong>Is Samsung C&T a lagging Samsung Electronics proxy?</strong> — tests the trade using 51.7% Samsung Electronics stake-value pass-through, 0.83 YTD beta, 1.10 recent-20D beta, and the choice between Samsung common, Samsung C&T and Samsung Electronics 2x ETFs | [Samsung C&T Samsung Electronics proxy / NAV gap trade](/post/samsung-ct-samsung-electronics-proxy-nav-gap-trade-2026-06-01/) |
 | 2026-05-31 | <strong>Is FADU Korea's Sandisk beta?</strong> — tests whether FADU is being discovered as a Korean high-beta proxy for AI storage/NAND using KRW 445.1bn of foreign net buying since May, institution selling and FADU-Sandisk return correlations | [FADU and Sandisk AI storage beta](/post/fadu-sandisk-ai-storage-korea-beta-jeju-semiconductor-2026-05-31/) |
 | 2026-05-31 | <strong>SK Hynix vs Micron — HBM technology premium or U.S. listing premium?</strong> — compares two trillion-dollar AI-memory stocks: SK Hynix as the technology/reference/HBM-profitability leader and Micron as the U.S.-listed scarcity proxy with an HBM4, SOCAMM2 and Gen6 SSD story | [SK Hynix vs Micron](/post/sk-hynix-vs-micron-hbm-premium-ai-memory-platform-2026-05-31/) |
 | 2026-05-31 | <strong>Samsung vs SK Hynix Forward P/E inversion</strong> — decomposes SK Hynix's slight 2026E P/E premium into HBM bottleneck value and Samsung's HBM laggard discount. The conclusion: annual P/E has inverted, 12MF is closer to parity, and the cleaner alpha is Samsung's HBM4E catch-up trade | [Samsung vs SK Hynix Forward P/E Inversion](/post/samsung-sk-hynix-forward-per-inversion-hbm-catchup-2026-05-31/) |
@@ -80,13 +82,14 @@ Korean semiconductor exposure is not one trade. It combines <strong>SK Hynix's H
 | 2 | Where does SK Hynix stand in HBM and AI memory? | [SK Hynix HBM Market Share 2026: AI Memory Investor Guide](/post/sk-hynix-hbm-market-share-ai-memory-demand-2026/) |
 | 3 | Is SK Hynix's P/E inversion a Samsung catch-up signal? | [Samsung vs SK Hynix Forward P/E Inversion](/post/samsung-sk-hynix-forward-per-inversion-hbm-catchup-2026-05-31/) |
 | 4 | Is Micron's premium a HBM technology premium or a U.S. listing premium? | [SK Hynix vs Micron: HBM Technology Premium or U.S. Listing Premium?](/post/sk-hynix-vs-micron-hbm-premium-ai-memory-platform-2026-05-31/) |
-| 5 | What are Samsung's AI, HBM and foundry options? | [Samsung Electronics 2026: AI, HBM and Foundry Deep Dive](/post/kr-deep-dive-samsung-electronics-2026-04-16/) |
-| 6 | Why is SK Hynix central to AI infrastructure? | [SK Hynix: The HBM Leader Powering the AI Revolution](/post/kr-deep-dive-sk-hynix-2026-04-16/) |
-| 7 | Why is Korea being re-rated? | [Korea 2026: Why KOSPI +49% YTD Is a Re-Rating, Not a Rally](/post/korea-outperformance-2026-structural-rerating-2026-04-24/) |
-| 8 | Is Korea's global No. 6 market-cap headline a buy signal? | [Why Korea Part 5: Global No. 6 Market Cap](/post/why-korea-market-cap-global-six-ai-memory-rerating-2026-05-24/) |
-| 9 | Is foreign selling a HBM thesis break or position reduction? | [Korea Foreign Investor Flow Analysis](/post/korea-foreign-investor-flow-memory-megacap-rotation-2026-05-24/) |
-| 10 | How much ownership-based foreign selling pressure remains? | [KOSPI ownership versus Samsung / SK Hynix](/post/korea-foreign-ownership-kospi-samsung-hynix-divergence-2026-05-26/) |
-| 11 | Did Samsung signal a memory supercycle through 2028? | [Samsung stock-bonus formula analysis](/post/samsung-electronics-stock-bonus-supercycle-buyback-2026-05-27/) |
+| 5 | What is the lagging proxy after Samsung Electronics' rally? | [Samsung C&T Samsung Electronics proxy / NAV gap trade](/post/samsung-ct-samsung-electronics-proxy-nav-gap-trade-2026-06-01/) |
+| 6 | What are Samsung's AI, HBM and foundry options? | [Samsung Electronics 2026: AI, HBM and Foundry Deep Dive](/post/kr-deep-dive-samsung-electronics-2026-04-16/) |
+| 7 | Why is SK Hynix central to AI infrastructure? | [SK Hynix: The HBM Leader Powering the AI Revolution](/post/kr-deep-dive-sk-hynix-2026-04-16/) |
+| 8 | Why is Korea being re-rated? | [Korea 2026: Why KOSPI +49% YTD Is a Re-Rating, Not a Rally](/post/korea-outperformance-2026-structural-rerating-2026-04-24/) |
+| 9 | Is Korea's global No. 6 market-cap headline a buy signal? | [Why Korea Part 5: Global No. 6 Market Cap](/post/why-korea-market-cap-global-six-ai-memory-rerating-2026-05-24/) |
+| 10 | Is foreign selling a HBM thesis break or position reduction? | [Korea Foreign Investor Flow Analysis](/post/korea-foreign-investor-flow-memory-megacap-rotation-2026-05-24/) |
+| 11 | How much ownership-based foreign selling pressure remains? | [KOSPI ownership versus Samsung / SK Hynix](/post/korea-foreign-ownership-kospi-samsung-hynix-divergence-2026-05-26/) |
+| 12 | Did Samsung signal a memory supercycle through 2028? | [Samsung stock-bonus formula analysis](/post/samsung-electronics-stock-bonus-supercycle-buyback-2026-05-27/) |
 
 ---
 
@@ -109,6 +112,7 @@ Korean semiconductor exposure is not one trade. It combines <strong>SK Hynix's H
 
 ### KOSPI and Index Concentration
 
+- [Is Samsung C&T a Lagging Samsung Electronics Proxy? 51.7% Stake Pass-Through and the NAV Gap Trade](/post/samsung-ct-samsung-electronics-proxy-nav-gap-trade-2026-06-01/)
 - [Samsung Electronics Weight in KOSPI: 2026 Index Concentration Explained](/post/samsung-electronics-weight-in-kospi-index-2026/)
 - [Why Korea Part 5: Korea's Stock Market Is Now Near Global No. 6](/post/why-korea-market-cap-global-six-ai-memory-rerating-2026-05-24/)
 - [Korea Foreign Investor Flows: 95% of the selling came from Samsung and SK hynix](/post/korea-foreign-investor-flow-memory-megacap-rotation-2026-05-24/)

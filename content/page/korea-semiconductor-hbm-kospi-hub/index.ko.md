@@ -5,7 +5,7 @@ date: 2026-04-30T23:05:00+09:00
 aliases: ["/ko/hbm/", "/ko/semiconductor/", "/ko/samsung-hynix/", "/ko/kospi-hbm/", "/ko/page/hbm/"]
 layout: "page"
 description: "AI HBM 허브. 삼성전자, SK하이닉스, HBM, AI 메모리, 코스피 지수 쏠림과 한국 반도체 투자 논거를 한곳에 모은 리서치 허브. HBM 시장점유율, 삼성전자 코스피 비중, KOSPI 리레이팅, AI 서버 수요를 순서대로 정리한다."
-lastmod: 2026-05-31T13:20:00+09:00
+lastmod: 2026-06-01T22:20:00+09:00
 ---
 
 ## 한 줄 결론
@@ -21,6 +21,7 @@ lastmod: 2026-05-31T13:20:00+09:00
 | SK하이닉스 HBM 시장점유율은 어느 정도인가 | 2026년 전체 HBM 매출·점유율 기준으로는 약 50% 안팎이 실용적 기준이며, 엔비디아 HBM4 램프업에서는 더 높은 점유율 가능성이 있다. | [SK하이닉스 HBM 시장점유율 2026](/ko/post/sk-hynix-hbm-market-share-ai-memory-demand-2026/) |
 | 삼성전자 코스피 비중은 얼마나 큰가 | 한국 ETF 투자자 기준 삼성전자는 단일 종목이 아니라 지수 자체를 좌우하는 핵심 익스포저다. 주요 한국 지수 상품에서 대략 20% 초반에서 30% 초반 비중으로 나타난다. | [삼성전자 코스피 비중](/ko/post/samsung-electronics-weight-in-kospi-index-2026/) |
 | 삼성전자와 SK하이닉스 중 HBM 순수 노출은 어디가 강한가 | 순수 HBM 노출은 SK하이닉스가 더 명확하다. 삼성전자는 HBM 회복, DDR5/eSSD, 파운드리 옵션, 스마트폰·세트 사업까지 포함한 복합 반도체·전자 대형주다. | [SK하이닉스 딥다이브](/ko/post/kr-deep-dive-sk-hynix-2026-04-16/) · [삼성전자 딥다이브](/ko/post/kr-deep-dive-samsung-electronics-2026-04-16/) |
+| 삼성물산은 삼성전자 후행 proxy로 볼 수 있나 | 가능하지만 고베타 대체재는 아니다. 2026년 6월 1일 기준 삼성물산의 삼성전자 지분가치 상승분 반영률은 51.7%, YTD 삼성전자 대비 베타는 0.83이며, 60% 반영률 회복 시 약 489,000원 gap trade가 가능하다. | [삼성물산 삼성전자 proxy / NAV gap trade](/ko/post/samsung-ct-samsung-electronics-proxy-nav-gap-trade-2026-06-01/) |
 | SK하이닉스 PER이 삼성전자보다 높아진 것은 뉴노멀인가 | 2026E 연간 PER 역전은 이례적이지만 HBM 병목 프리미엄으로 설명 가능하다. 다만 12MF 기준은 parity 접근에 가깝고, 지금 상대가치 알파는 SK하이닉스 추격보다 삼성전자 HBM4E catch-up trade다. | [삼성전자 vs SK하이닉스 Forward PER 역전](/ko/post/samsung-sk-hynix-forward-per-inversion-hbm-catchup-2026-05-31/) |
 | 마이크론이 SK하이닉스보다 높은 forward PER을 받는 것은 기술 우위인가 | 아니다. 기술·레퍼런스·현재 HBM 수익성은 SK하이닉스가 우위지만, 마이크론은 미국 상장 AI 메모리 scarcity premium과 HBM4·SOCAMM2·Gen6 SSD 내러티브를 받는다. | [SK하이닉스 vs 마이크론](/ko/post/sk-hynix-vs-micron-hbm-premium-ai-memory-platform-2026-05-31/) |
 | 파두는 샌디스크의 한국 베타인가 | 외국인 수급 기준으로는 초기 신호가 강하다. 5월 이후 파두 외국인은 약 +4,451억원 순매수했지만, 가격 상관은 아직 하이닉스-마이크론만큼 구조화되지 않았다. | [파두와 샌디스크 AI storage 베타](/ko/post/fadu-sandisk-ai-storage-korea-beta-jeju-semiconductor-2026-05-31/) |
@@ -47,6 +48,7 @@ lastmod: 2026-05-31T13:20:00+09:00
 
 | 날짜 | 주제 | 자세히 보기 |
 |---|---|---|
+| 2026-06-01 | <strong>삼성물산은 삼성전자 후행 proxy인가</strong> — 삼성물산 보유 삼성전자 지분가치 상승분 반영률 51.7%, 삼성전자 대비 YTD 베타 0.83, 최근 20D 베타 1.10을 기준으로, 본주·삼성물산·삼성전자 2X ETF 중 어떤 도구가 맞는지 점검 | [삼성물산 삼성전자 proxy / NAV gap trade](/ko/post/samsung-ct-samsung-electronics-proxy-nav-gap-trade-2026-06-01/) |
 | 2026-05-31 | <strong>파두는 샌디스크의 한국 베타인가</strong> — 5월 이후 외국인 +4,451억원 순매수와 기관 -2,152억원 순매도를 기준으로, 파두가 AI storage/NAND의 한국 고베타 proxy로 발견되는지 검증. 결론은 외국인 Yes, 기관 No, 시장 전체는 초기 형성 단계 | [파두와 샌디스크 AI storage 베타](/ko/post/fadu-sandisk-ai-storage-korea-beta-jeju-semiconductor-2026-05-31/) |
 | 2026-05-31 | <strong>SK하이닉스 vs 마이크론 — HBM 기술 프리미엄인가, 미국 상장 프리미엄인가</strong> — 같은 1조 달러급 AI 메모리 주식이지만 SK하이닉스는 기술·레퍼런스·HBM 수익성, 마이크론은 미국 상장 scarcity premium과 HBM4·SOCAMM2·Gen6 SSD 내러티브로 재평가되는 구조를 비교 | [SK하이닉스 vs 마이크론](/ko/post/sk-hynix-vs-micron-hbm-premium-ai-memory-platform-2026-05-31/) |
 | 2026-05-31 | <strong>삼성전자 vs SK하이닉스 Forward PER 역전</strong> — 2026E PER 기준 SK하이닉스가 삼성전자를 근소하게 넘어선 현상을 HBM 병목 프리미엄과 삼성전자 HBM laggard discount로 분해. 결론은 연간 PER은 역전, 12MF는 parity 접근이며, 지금 알파는 SK하이닉스 추격보다 삼성전자 HBM4E catch-up trade | [삼성전자 vs SK하이닉스 Forward PER 역전](/ko/post/samsung-sk-hynix-forward-per-inversion-hbm-catchup-2026-05-31/) |
@@ -85,14 +87,15 @@ lastmod: 2026-05-31T13:20:00+09:00
 | 2 | HBM 시장점유율과 AI 메모리 수요는 어디까지 왔나 | [SK하이닉스 HBM 시장점유율 2026: AI 메모리 투자 가이드](/ko/post/sk-hynix-hbm-market-share-ai-memory-demand-2026/) |
 | 3 | SK하이닉스 PER 역전은 삼성전자 catch-up 신호인가 | [삼성전자 vs SK하이닉스 Forward PER 역전](/ko/post/samsung-sk-hynix-forward-per-inversion-hbm-catchup-2026-05-31/) |
 | 4 | 마이크론 프리미엄은 HBM 기술 우위인가, 미국 상장 프리미엄인가 | [SK하이닉스 vs 마이크론: HBM 기술 프리미엄인가, 미국 상장 프리미엄인가](/ko/post/sk-hynix-vs-micron-hbm-premium-ai-memory-platform-2026-05-31/) |
-| 5 | 삼성전자의 AI·HBM·파운드리 옵션은 무엇인가 | [삼성전자 2026: AI, HBM, 파운드리 심층 분석](/ko/post/kr-deep-dive-samsung-electronics-2026-04-16/) |
-| 6 | SK하이닉스가 AI 인프라 핵심 공급자가 된 이유는 무엇인가 | [SK하이닉스: AI 혁명을 이끄는 HBM 절대강자](/ko/post/kr-deep-dive-sk-hynix-2026-04-16/) |
-| 7 | 한국 시장 전체를 왜 리레이팅으로 봐야 하나 | [2026년 한국 리레이팅: KOSPI +49%는 단순 랠리가 아니다](/ko/post/korea-outperformance-2026-structural-rerating-2026-04-24/) |
-| 8 | 한국 시총 세계 6위 헤드라인은 매수 신호인가 | [Why Korea 5편: 한국 시총 세계 6위](/ko/post/why-korea-market-cap-global-six-ai-memory-rerating-2026-05-24/) |
-| 9 | 외국인 매도는 HBM thesis 훼손인가, 비중 조절인가 | [한국증시 외국인 수급 분석](/ko/post/korea-foreign-investor-flow-memory-megacap-rotation-2026-05-24/) |
-| 10 | 외국인 지분율 기준으로 매도 압력은 얼마나 남았나 | [KOSPI 외국인 지분율 vs 삼성전자·SK하이닉스](/ko/post/korea-foreign-ownership-kospi-samsung-hynix-divergence-2026-05-26/) |
-| 11 | 삼성전자는 2028년까지 메모리 슈퍼사이클을 인정한 것인가 | [삼성전자 특별성과급 자사주 산식 재구성](/ko/post/samsung-electronics-stock-bonus-supercycle-buyback-2026-05-27/) |
-| 12 | LPX는 HBM을 대체하는가, 아니면 HBM GPU를 보완하는가 | [NVIDIA Vera Rubin 추론 스택: CPX보다 LPX·CMX가 전면에 선 이유](/ko/post/nvidia-vera-rubin-lpx-cmx-inference-stack-samsung-hbm-2026-05-28/) |
+| 5 | 삼성전자 급등 이후 후행 proxy는 무엇인가 | [삼성물산 삼성전자 proxy / NAV gap trade](/ko/post/samsung-ct-samsung-electronics-proxy-nav-gap-trade-2026-06-01/) |
+| 6 | 삼성전자의 AI·HBM·파운드리 옵션은 무엇인가 | [삼성전자 2026: AI, HBM, 파운드리 심층 분석](/ko/post/kr-deep-dive-samsung-electronics-2026-04-16/) |
+| 7 | SK하이닉스가 AI 인프라 핵심 공급자가 된 이유는 무엇인가 | [SK하이닉스: AI 혁명을 이끄는 HBM 절대강자](/ko/post/kr-deep-dive-sk-hynix-2026-04-16/) |
+| 8 | 한국 시장 전체를 왜 리레이팅으로 봐야 하나 | [2026년 한국 리레이팅: KOSPI +49%는 단순 랠리가 아니다](/ko/post/korea-outperformance-2026-structural-rerating-2026-04-24/) |
+| 9 | 한국 시총 세계 6위 헤드라인은 매수 신호인가 | [Why Korea 5편: 한국 시총 세계 6위](/ko/post/why-korea-market-cap-global-six-ai-memory-rerating-2026-05-24/) |
+| 10 | 외국인 매도는 HBM thesis 훼손인가, 비중 조절인가 | [한국증시 외국인 수급 분석](/ko/post/korea-foreign-investor-flow-memory-megacap-rotation-2026-05-24/) |
+| 11 | 외국인 지분율 기준으로 매도 압력은 얼마나 남았나 | [KOSPI 외국인 지분율 vs 삼성전자·SK하이닉스](/ko/post/korea-foreign-ownership-kospi-samsung-hynix-divergence-2026-05-26/) |
+| 12 | 삼성전자는 2028년까지 메모리 슈퍼사이클을 인정한 것인가 | [삼성전자 특별성과급 자사주 산식 재구성](/ko/post/samsung-electronics-stock-bonus-supercycle-buyback-2026-05-27/) |
+| 13 | LPX는 HBM을 대체하는가, 아니면 HBM GPU를 보완하는가 | [NVIDIA Vera Rubin 추론 스택: CPX보다 LPX·CMX가 전면에 선 이유](/ko/post/nvidia-vera-rubin-lpx-cmx-inference-stack-samsung-hbm-2026-05-28/) |
 
 ---
 
@@ -117,6 +120,7 @@ lastmod: 2026-05-31T13:20:00+09:00
 
 ### KOSPI와 지수 쏠림
 
+- [삼성물산은 삼성전자 후행 Proxy인가: 지분가치 반영률 51.7%와 NAV Gap Trade](/ko/post/samsung-ct-samsung-electronics-proxy-nav-gap-trade-2026-06-01/)
 - [삼성전자 코스피 비중: 2026년 지수 쏠림 현상 완전 해설](/ko/post/samsung-electronics-weight-in-kospi-index-2026/)
 - [Why Korea 5편: 한국 증시 시총 세계 6위 — 4.9조 달러 리레이팅은 매수 신호인가, 경고등인가](/ko/post/why-korea-market-cap-global-six-ai-memory-rerating-2026-05-24/)
 - [한국증시 외국인 수급 분석: -89조원 매도의 95%는 삼성전자·SK하이닉스였다](/ko/post/korea-foreign-investor-flow-memory-megacap-rotation-2026-05-24/)
