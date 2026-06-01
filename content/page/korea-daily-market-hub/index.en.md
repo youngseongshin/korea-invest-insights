@@ -5,7 +5,7 @@ date: 2026-05-03T11:00:00+09:00
 aliases: ["/korea-daily/", "/kospi/", "/kosdaq/", "/en/korea-daily/", "/en/page/korea-daily-market-hub/", "/es/page/korea-daily-market-hub/", "/vi/page/korea-daily-market-hub/", "/fr/page/korea-daily-market-hub/", "/ja/page/korea-daily-market-hub/", "/zh/page/korea-daily-market-hub/"]
 layout: "page"
 description: "A hub for Korean stock market daily updates — KOSPI and KOSDAQ market closes, weekly concentrated picks, foreign-investor flows, sector rotation, and what's actually moving in Korean equities each session. Direct answers to 'What is the Korean stock market doing today?' and similar queries."
-lastmod: 2026-06-01T23:49:16+09:00
+lastmod: 2026-06-02T08:55:00+09:00
 ---
 
 ## What This Hub Answers
@@ -16,6 +16,7 @@ Direct, search-engine-friendly answers to the questions global investors ask abo
 |---|---|---|
 | What is the Korean stock market doing today? | The most recent Korea Daily Wrap covers the day's regime, sector rotation, foreign flows, and key disclosures. | [Latest Korea Daily Wrap](/post/kr-daily-wrap-2026-06-01/) |
 | Why does the index hold while the average stock feels weak? | Korea's 20-day ADR is down to 48.0%. Money is compressed into AI factory, physical AI and mega-cap semis while most stocks remain weak. | [Korea's Narrow Path at an 18.1% ADR](/post/korea-narrow-market-jensen-huang-catalyst-gtc-taipei-2026-06-01/) · [Korea ADR at 67 and narrow leadership](/post/korea-adr-breadth-narrow-leadership-kospi-kosdaq-2026-05-27/) |
+| What should Korean equities watch after GTC Taipei? | NVIDIA's message expanded beyond GPUs into AI Factory, Vera CPU, Agent Runtime, AI PCs and Physical AI. Korean investors need to map HBM, power, networking, GPUaaS, NAVER Cloud and robotics bottlenecks separately. | [Korea Is Watching Jensen Huang: What Changed Overnight?](/post/korea-market-after-gtc-taipei-jensen-huang-naver-ai-factory-2026-06-02/) |
 | What are this week's top Korean concentrated picks? | The Weekly Concentrated Strategy publishes Friday evening (KST) with 3–5 deep-dive picks. | [Latest Weekly Concentrated](/post/kr-concentrated-weekly-2026-04-24/) |
 | Are foreigners buying or selling Korean stocks? | The 2026 outflow is less a broad Korea exit and more a Samsung Electronics + SK Hynix AI-memory mega-cap distribution. | [Korea Foreign Investor Flow Analysis](/post/korea-foreign-investor-flow-memory-megacap-rotation-2026-05-24/) |
 | How much foreign-selling pressure is left by ownership? | KOSPI market-value foreign ownership remains high, but Samsung and SK Hynix share-count ownership is already near 2026 lows. The next signal is the five-day foreign-selling speed. | [KOSPI ownership versus Samsung / SK Hynix](/post/korea-foreign-ownership-kospi-samsung-hynix-divergence-2026-05-26/) |
@@ -50,6 +51,7 @@ Sequential reading for someone new to Korean equities — what to read in order 
 | 10 | Where have this site's theses worked or failed? | [KII Thesis Performance Review](/post/kii-investment-thesis-performance-mid-review-2026-05-26/) |
 | 11 | How should investors read the gap between the index and the average stock? | [Korea ADR at 67: Why the Index Can Hold While Most Stocks Are Weak](/post/korea-adr-breadth-narrow-leadership-kospi-kosdaq-2026-05-27/) |
 | 12 | Is MSCI DM upside broad Korea beta, or a foreign-playbook stock story? | [Korea Foreign-Investor Playbook: KOSPI 168, KOSDAQ 355](/post/korea-foreign-playbook-msci-dm-kospi-168-kosdaq-355-2026-05-31/) |
+| 13 | How does NVIDIA GTC Taipei translate into Korean AI infrastructure bottlenecks? | [Korea Is Watching Jensen Huang: What Changed Overnight?](/post/korea-market-after-gtc-taipei-jensen-huang-naver-ai-factory-2026-06-02/) |
 
 ---
 
@@ -97,7 +99,7 @@ The Friday-evening "concentrated" series picks 3–5 highest-conviction Korean e
 | Research process / thesis performance review | [KII Thesis Performance Review](/post/kii-investment-thesis-performance-mid-review-2026-05-26/) |
 | Shipbuilding / defense / SMR / data-center power | [HD Hyundai Heavy Industries SMR Option](/post/hd-hyundai-heavy-industries-smr-terrapower-natrium-option-2026-05-27/) |
 | US non-semi re-rating / Korean second-line translation | [US non-semiconductor re-rating through a Korean equity lens](/post/us-nonsemi-rerating-ai-power-software-korea-translation-2026-05-31/) |
-| GTC Taipei / Jensen Huang / AI factory and physical AI | [Korea's Narrow Path at an 18.1% ADR](/post/korea-narrow-market-jensen-huang-catalyst-gtc-taipei-2026-06-01/) |
+| GTC Taipei / Jensen Huang / AI factory and physical AI | [Korea Is Watching Jensen Huang: What Changed Overnight?](/post/korea-market-after-gtc-taipei-jensen-huang-naver-ai-factory-2026-06-02/) · [Korea's Narrow Path at an 18.1% ADR](/post/korea-narrow-market-jensen-huang-catalyst-gtc-taipei-2026-06-01/) |
 | AI substrates / FC-BGA / CCL | [AI PCB and Substrate Hub](/page/korea-ai-pcb-substrate-hub/) |
 | Olive Young + PharmaResearch + K-Beauty | [K-Beauty Hub](/page/k-beauty-olive-young-pharmaresearch-hub/) |
 | Korean AI / Sovereign AI | [Korean AI Companies Hub](/page/korean-ai-companies-hub/) |

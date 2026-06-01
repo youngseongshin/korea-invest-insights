@@ -5,7 +5,7 @@ date: 2026-05-03T11:30:00+09:00
 aliases: ["/korean-ai/", "/k-ai/", "/sovereign-ai-korea/", "/en/korean-ai/", "/en/page/korean-ai-companies-hub/"]
 layout: "page"
 description: "A hub for Korean AI companies — Upstage (LLM, IPO timeline), Rebellions and FuriosaAI (NPU / AI accelerator startups), Naver Hyperclova X, Samsung Gauss, Kakao, and the broader Korean Sovereign AI program. Direct answers to 'Is Upstage publicly traded?', 'Is FuriosaAI publicly traded?', 'What is Korea's Sovereign AI program?', and similar queries."
-lastmod: 2026-05-31T23:05:00+09:00
+lastmod: 2026-06-02T08:55:00+09:00
 ---
 
 ## What This Hub Answers
@@ -21,6 +21,7 @@ Direct, ChatGPT-friendly answers to the questions global investors and AI resear
 | What is Korea's Sovereign AI program? | The Korean government-led initiative to develop domestic LLMs and AI infrastructure. Upstage is one of the named participants; SK Telecom and others contribute compute / data-center layers. | [Korea Sovereign AI Coverage](/post/upstage-ai-korea-sovereign-ai-unicorn-2026-04-26/) |
 | Can China's and Hong Kong's AI overheat spill into Korea? | The cleanest route is not a listed LLM pure-play, because Korea has almost none. The spillover is more likely through NAVER sovereign AI, LG CNS / Samsung SDS AI cloud, SK Telecom AIDC / GPUaaS and SK Networks as an Upstage proxy. | [China / Hong Kong AI spillover to Korea](/post/china-hong-kong-ai-overheat-korea-ai-cloud-llm-proxy-2026-05-31/) |
 | Can NAVER be rerated from portal stock to integrated AI cloud operator? | Possibly, but it needs confirmation through Dunamu approval, the Mirae Asset stake SOTP, NAVER Cloud's 60,000-plus GPU AI infrastructure, stablecoin regulation, C2C turnaround, margin recovery and foreign flow. | [NAVER rerating case](/post/naver-rerating-dunamu-mirae-ai-cloud-stablecoin-turnaround-2026-05-31/) |
+| Why does NVIDIA care about NAVER? | NAVER is not only a GPU buyer. NAVER Cloud, the 60,000-plus GPU plan, HyperCLOVA X, regulated cloud, and physical-AI testbeds make it a candidate regional sovereign AI factory operator. | [Korea Is Watching Jensen Huang: What Changed Overnight?](/post/korea-market-after-gtc-taipei-jensen-huang-naver-ai-factory-2026-06-02/) |
 | What does Alibaba AI Pay and Accio Work mean for Korean AI commerce? | The issue is less immediate full-market e-commerce disruption and more whether Korean sellers' global-export workflow and agent-payment permission layer accumulate inside Accio Work and Alipay. | [Alibaba AI Pay and Korea seller OS](/post/alibaba-ai-pay-accio-work-korea-agentic-commerce-seller-os-2026-05-31/) |
 | What is SK Telecom's AI strategy? | SK Telecom positions as an AI Infrastructure Operator — AIDC, GPUaaS, Edge AI — rather than a pure telecom. | [SK Telecom AI Re-rating](/post/sk-telecom-rerating-ai-infrastructure-operator-2026-04-25/) |
 | Is Samsung Foundry making AI chips? | Yes. Samsung Foundry's external customers include Tesla (FSD SoCs), Tenstorrent, Rebellions, FuriosaAI, plus captive Samsung System LSI work. | [Samsung Foundry Customer List](/post/samsung-foundry-customer-list-tesla-tenstorrent-2026-05-03/) |
@@ -36,12 +37,13 @@ Direct, ChatGPT-friendly answers to the questions global investors and AI resear
 | 2 | What's Upstage's IPO valuation peer map? | [Upstage + Daum + MiniMax IPO valuation peers](/post/upstage-ai-daum-sovereign-ai-minimax-ipo-2026-04-27/) |
 | 3 | How could China / Hong Kong AI heat translate into listed Korean proxies? | [China / Hong Kong AI spillover to Korea](/post/china-hong-kong-ai-overheat-korea-ai-cloud-llm-proxy-2026-05-31/) |
 | 4 | Can NAVER rerate through AI cloud, Dunamu and stablecoin optionality? | [NAVER rerating case](/post/naver-rerating-dunamu-mirae-ai-cloud-stablecoin-turnaround-2026-05-31/) |
-| 5 | What does agentic commerce ask of NAVER, NHN KCP and Cafe24? | [Alibaba AI Pay and Korea seller OS](/post/alibaba-ai-pay-accio-work-korea-agentic-commerce-seller-os-2026-05-31/) |
-| 6 | How do listed Korean VCs give exposure to Rebellions / FuriosaAI / Upstage / SpaceX? | [Listed Korean VC Re-Rating Map](/post/listed-korean-vc-rerating-capital-inflow-2026-04-29/) |
-| 7 | What's SK Telecom's AI infrastructure play? | [SK Telecom AI Re-Rating](/post/sk-telecom-rerating-ai-infrastructure-operator-2026-04-25/) |
-| 8 | Who actually uses Samsung Foundry for AI chips? | [Samsung Foundry Customer List](/post/samsung-foundry-customer-list-tesla-tenstorrent-2026-05-03/) |
-| 9 | Where does the LPDDR-to-AI-inference theme connect Korean IP? | [OpenEdges LPDDR Data Center Alpha](/post/openedges-lpddr-datacenter-ip-alpha-thesis-2026-04-30/) |
-| 10 | Where do Korean listed companies sit in physical AI and humanoid robotics? | [Korea Humanoid Robot Value Chain](/post/korea-robotics-value-chain-complete-map-2026-05-11/) |
+| 5 | Why did NAVER Cloud matter more after NVIDIA GTC Taipei? | [Korea Is Watching Jensen Huang: What Changed Overnight?](/post/korea-market-after-gtc-taipei-jensen-huang-naver-ai-factory-2026-06-02/) |
+| 6 | What does agentic commerce ask of NAVER, NHN KCP and Cafe24? | [Alibaba AI Pay and Korea seller OS](/post/alibaba-ai-pay-accio-work-korea-agentic-commerce-seller-os-2026-05-31/) |
+| 7 | How do listed Korean VCs give exposure to Rebellions / FuriosaAI / Upstage / SpaceX? | [Listed Korean VC Re-Rating Map](/post/listed-korean-vc-rerating-capital-inflow-2026-04-29/) |
+| 8 | What's SK Telecom's AI infrastructure play? | [SK Telecom AI Re-Rating](/post/sk-telecom-rerating-ai-infrastructure-operator-2026-04-25/) |
+| 9 | Who actually uses Samsung Foundry for AI chips? | [Samsung Foundry Customer List](/post/samsung-foundry-customer-list-tesla-tenstorrent-2026-05-03/) |
+| 10 | Where does the LPDDR-to-AI-inference theme connect Korean IP? | [OpenEdges LPDDR Data Center Alpha](/post/openedges-lpddr-datacenter-ip-alpha-thesis-2026-04-30/) |
+| 11 | Where do Korean listed companies sit in physical AI and humanoid robotics? | [Korea Humanoid Robot Value Chain](/post/korea-robotics-value-chain-complete-map-2026-05-11/) |
 
 ---
 
