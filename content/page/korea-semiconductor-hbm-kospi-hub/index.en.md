@@ -5,7 +5,7 @@ date: 2026-04-30T23:05:00+09:00
 aliases: ["/hbm/", "/semiconductor/", "/samsung-hynix/", "/kospi-hbm/", "/en/hbm/", "/en/semiconductor/", "/en/samsung-hynix/", "/en/kospi-hbm/", "/en/page/korea-semiconductor-hbm-kospi-hub/", "/es/page/korea-semiconductor-hbm-kospi-hub/", "/vi/page/korea-semiconductor-hbm-kospi-hub/", "/fr/page/korea-semiconductor-hbm-kospi-hub/", "/ja/page/korea-semiconductor-hbm-kospi-hub/", "/zh/page/korea-semiconductor-hbm-kospi-hub/"]
 layout: "page"
 description: "AI HBM hub for Samsung Electronics, SK Hynix, HBM, AI memory and KOSPI concentration. Covers HBM market share, Samsung's KOSPI weight, Korean semiconductor exposure and the 2026 KOSPI re-rating thesis."
-lastmod: 2026-06-01T23:58:00+09:00
+lastmod: 2026-06-02T09:20:00+09:00
 ---
 
 ## One-Line Thesis
@@ -24,6 +24,7 @@ Korean semiconductor exposure is not one trade. It combines <strong>SK Hynix's H
 | Can Samsung C&T work as a lagging Samsung Electronics proxy? | Yes, but it is not a high-beta substitute. As of Jun 1, 2026, Samsung C&T's YTD stake-value pass-through was 51.7%, its YTD beta to Samsung Electronics was 0.83, and a 60% pass-through recovery implies roughly KRW 489,000. | [Samsung C&T Samsung Electronics proxy / NAV gap trade](/post/samsung-ct-samsung-electronics-proxy-nav-gap-trade-2026-06-01/) |
 | Is SK Hynix's higher P/E versus Samsung a new normal? | The 2026E annual P/E inversion is unusual but explainable through the HBM bottleneck premium. The 12-month-forward view is closer to parity, and the cleaner relative-value alpha is Samsung's HBM4E catch-up rather than chasing SK Hynix. | [Samsung vs SK Hynix Forward P/E Inversion](/post/samsung-sk-hynix-forward-per-inversion-hbm-catchup-2026-05-31/) |
 | What does Samsung's HBM4E 12-high sample shipment mean? | It is evidence that the HBM catch-up path is alive, but not yet confirmed revenue before customer qualification, mass production and EPS revisions. For Hanmi, it raises Samsung TC-bonder option value rather than confirming an order. | [Samsung HBM4E 12-high samples](/post/samsung-electronics-hbm4e-12h-sample-market-watch-hanmi-tc-bonder-2026-06-01/) |
+| What does Hanmi's June 1 IR notice mean for the HBM equipment thesis? | It expands the story from HBM TC bonders toward 2.5D packaging, AI system semiconductors, OSAT and HBF. But it is not an order, so investors still need flow confirmation and real customer / production data. | [Hanmi IR notice and TC-bonder TAM expansion](/post/hanmi-semiconductor-ir-tc-bonder-tam-expansion-watchlist-2026-06-02/) |
 | Is Micron's higher forward P/E versus SK Hynix a technology premium? | Not really. SK Hynix still leads on technology, references and current HBM profitability, while Micron earns a U.S.-listed AI-memory scarcity premium plus an HBM4, SOCAMM2 and Gen6 SSD platform narrative. | [SK Hynix vs Micron](/post/sk-hynix-vs-micron-hbm-premium-ai-memory-platform-2026-05-31/) |
 | Is FADU Korea's Sandisk beta? | Foreign flow says the relationship is forming: foreigners net bought about KRW 445.1bn of FADU since May, but return correlation is not yet as structural as SK Hynix-Micron. | [FADU and Sandisk AI storage beta](/post/fadu-sandisk-ai-storage-korea-beta-jeju-semiconductor-2026-05-31/) |
 | Why is HBM a bottleneck from a chip-design perspective? | AI performance is less about headline FLOPS and more about how close data sits to compute. HBM is the common memory bottleneck for GPUs and custom ASICs, and it pulls FC-BGA, PCBs and power-integrity parts into the same thesis. | [AI chip design and the data-movement bottleneck](/post/ai-chip-design-data-movement-fcbga-bottleneck-2026-05-24/) |
@@ -48,6 +49,7 @@ Korean semiconductor exposure is not one trade. It combines <strong>SK Hynix's H
 
 | Date | Topic | Read |
 |---|---|---|
+| 2026-06-02 | <strong>Hanmi Semiconductor IR notice and TC-bonder TAM expansion</strong> — interprets the June 1 IR notice as a 2H26 overseas new-market message rather than an order, then checks whether Hanmi can expand from HBM TC bonders into 2.5D packaging, AI system semiconductors, OSAT and HBF, with KRW 300,000, foreign buying and easing financial-investment selling as confirmation triggers | [Hanmi IR notice and TC-bonder TAM expansion](/post/hanmi-semiconductor-ir-tc-bonder-tam-expansion-watchlist-2026-06-02/) |
 | 2026-06-01 | <strong>Samsung HBM4E 12-high samples — what is the market watching?</strong> — reframes Samsung's official sample shipment into customer qualification, mass-production timing, HBM laggard-discount compression, Hanmi Semiconductor's TC-bonder option value, and short-selling / flow confirmation signals | [Samsung HBM4E 12-high samples](/post/samsung-electronics-hbm4e-12h-sample-market-watch-hanmi-tc-bonder-2026-06-01/) |
 | 2026-06-01 | <strong>SEMCO KRW 2.8M follow-up — 2029 is far, and it must prove stronger duration than memory</strong> — checks Mirae Asset's June 1 formula of 2029F EPS KRW 93,242 × 30x and reframes the debate as a 2027-2029 proof test for MLCC +10%, FC-BGA +20%, Si-Cap repeat orders and high OPM | [SEMCO KRW 2.8M Follow-Up](/post/samsung-electro-mechanics-mirae-tp-2800000-2029-memory-duration-proof-2026-06-01/) |
 | 2026-06-01 | <strong>Is Samsung C&T a lagging Samsung Electronics proxy?</strong> — tests the trade using 51.7% Samsung Electronics stake-value pass-through, 0.83 YTD beta, 1.10 recent-20D beta, and the choice between Samsung common, Samsung C&T and Samsung Electronics 2x ETFs | [Samsung C&T Samsung Electronics proxy / NAV gap trade](/post/samsung-ct-samsung-electronics-proxy-nav-gap-trade-2026-06-01/) |
@@ -86,16 +88,17 @@ Korean semiconductor exposure is not one trade. It combines <strong>SK Hynix's H
 | 2 | Where does SK Hynix stand in HBM and AI memory? | [SK Hynix HBM Market Share 2026: AI Memory Investor Guide](/post/sk-hynix-hbm-market-share-ai-memory-demand-2026/) |
 | 3 | Is SK Hynix's P/E inversion a Samsung catch-up signal? | [Samsung vs SK Hynix Forward P/E Inversion](/post/samsung-sk-hynix-forward-per-inversion-hbm-catchup-2026-05-31/) |
 | 4 | How does Samsung's HBM4E sample connect differently to the common stock and equipment names? | [Samsung HBM4E 12-high samples](/post/samsung-electronics-hbm4e-12h-sample-market-watch-hanmi-tc-bonder-2026-06-01/) |
-| 5 | Is Micron's premium a HBM technology premium or a U.S. listing premium? | [SK Hynix vs Micron: HBM Technology Premium or U.S. Listing Premium?](/post/sk-hynix-vs-micron-hbm-premium-ai-memory-platform-2026-05-31/) |
-| 6 | What is the lagging proxy after Samsung Electronics' rally? | [Samsung C&T Samsung Electronics proxy / NAV gap trade](/post/samsung-ct-samsung-electronics-proxy-nav-gap-trade-2026-06-01/) |
-| 7 | What are Samsung's AI, HBM and foundry options? | [Samsung Electronics 2026: AI, HBM and Foundry Deep Dive](/post/kr-deep-dive-samsung-electronics-2026-04-16/) |
-| 8 | Why is SK Hynix central to AI infrastructure? | [SK Hynix: The HBM Leader Powering the AI Revolution](/post/kr-deep-dive-sk-hynix-2026-04-16/) |
-| 9 | Why is Korea being re-rated? | [Korea 2026: Why KOSPI +49% YTD Is a Re-Rating, Not a Rally](/post/korea-outperformance-2026-structural-rerating-2026-04-24/) |
-| 10 | Is Korea's global No. 6 market-cap headline a buy signal? | [Why Korea Part 5: Global No. 6 Market Cap](/post/why-korea-market-cap-global-six-ai-memory-rerating-2026-05-24/) |
-| 11 | Is foreign selling a HBM thesis break or position reduction? | [Korea Foreign Investor Flow Analysis](/post/korea-foreign-investor-flow-memory-megacap-rotation-2026-05-24/) |
-| 12 | How much ownership-based foreign selling pressure remains? | [KOSPI ownership versus Samsung / SK Hynix](/post/korea-foreign-ownership-kospi-samsung-hynix-divergence-2026-05-26/) |
-| 13 | Did Samsung signal a memory supercycle through 2028? | [Samsung stock-bonus formula analysis](/post/samsung-electronics-stock-bonus-supercycle-buyback-2026-05-27/) |
-| 14 | Does SEMCO's KRW 2.8M report prove stronger duration than memory? | [SEMCO KRW 2.8M Follow-Up](/post/samsung-electro-mechanics-mirae-tp-2800000-2029-memory-duration-proof-2026-06-01/) |
+| 5 | How far can Hanmi's IR notice expand the TC-bonder TAM? | [Hanmi IR notice and TC-bonder TAM expansion](/post/hanmi-semiconductor-ir-tc-bonder-tam-expansion-watchlist-2026-06-02/) |
+| 6 | Is Micron's premium a HBM technology premium or a U.S. listing premium? | [SK Hynix vs Micron: HBM Technology Premium or U.S. Listing Premium?](/post/sk-hynix-vs-micron-hbm-premium-ai-memory-platform-2026-05-31/) |
+| 7 | What is the lagging proxy after Samsung Electronics' rally? | [Samsung C&T Samsung Electronics proxy / NAV gap trade](/post/samsung-ct-samsung-electronics-proxy-nav-gap-trade-2026-06-01/) |
+| 8 | What are Samsung's AI, HBM and foundry options? | [Samsung Electronics 2026: AI, HBM and Foundry Deep Dive](/post/kr-deep-dive-samsung-electronics-2026-04-16/) |
+| 9 | Why is SK Hynix central to AI infrastructure? | [SK Hynix: The HBM Leader Powering the AI Revolution](/post/kr-deep-dive-sk-hynix-2026-04-16/) |
+| 10 | Why is Korea being re-rated? | [Korea 2026: Why KOSPI +49% YTD Is a Re-Rating, Not a Rally](/post/korea-outperformance-2026-structural-rerating-2026-04-24/) |
+| 11 | Is Korea's global No. 6 market-cap headline a buy signal? | [Why Korea Part 5: Global No. 6 Market Cap](/post/why-korea-market-cap-global-six-ai-memory-rerating-2026-05-24/) |
+| 12 | Is foreign selling a HBM thesis break or position reduction? | [Korea Foreign Investor Flow Analysis](/post/korea-foreign-investor-flow-memory-megacap-rotation-2026-05-24/) |
+| 13 | How much ownership-based foreign selling pressure remains? | [KOSPI ownership versus Samsung / SK Hynix](/post/korea-foreign-ownership-kospi-samsung-hynix-divergence-2026-05-26/) |
+| 14 | Did Samsung signal a memory supercycle through 2028? | [Samsung stock-bonus formula analysis](/post/samsung-electronics-stock-bonus-supercycle-buyback-2026-05-27/) |
+| 15 | Does SEMCO's KRW 2.8M report prove stronger duration than memory? | [SEMCO KRW 2.8M Follow-Up](/post/samsung-electro-mechanics-mirae-tp-2800000-2029-memory-duration-proof-2026-06-01/) |
 
 ---
 
@@ -103,6 +106,7 @@ Korean semiconductor exposure is not one trade. It combines <strong>SK Hynix's H
 
 ### HBM and AI Memory
 
+- [Hanmi Semiconductor IR Notice: Not an Order, but a TC-Bonder TAM Expansion Signal](/post/hanmi-semiconductor-ir-tc-bonder-tam-expansion-watchlist-2026-06-02/)
 - [Samsung HBM4E 12-High Samples: What Is the Market Really Watching?](/post/samsung-electronics-hbm4e-12h-sample-market-watch-hanmi-tc-bonder-2026-06-01/)
 - [Samsung vs SK Hynix Forward P/E Inversion: Is the HBM Premium a New Normal?](/post/samsung-sk-hynix-forward-per-inversion-hbm-catchup-2026-05-31/)
 - [SK Hynix vs Micron: HBM Technology Premium or U.S. Listing Premium?](/post/sk-hynix-vs-micron-hbm-premium-ai-memory-platform-2026-05-31/)

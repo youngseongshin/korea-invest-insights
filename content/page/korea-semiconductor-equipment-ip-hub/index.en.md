@@ -5,7 +5,7 @@ date: 2026-05-03T12:00:00+09:00
 aliases: ["/semiscope/", "/korea-semi-equipment/", "/korea-semiconductor-value-chain/", "/page/korea-semiconductor-value-chain-hub/", "/en/semiscope/", "/en/page/korea-semiconductor-value-chain-hub/", "/en/page/korea-semiconductor-equipment-ip-hub/"]
 layout: "page"
 description: "A Korean semiconductor value-chain hub covering HBM test equipment, memory IP, Samsung Foundry, display equipment, FC-BGA, PCB substrates, CCL and low-loss materials. Maps Neosem, Exicon, OpenEdges, Samsung Electro-Mechanics, Daeduck Electronics, Doosan Electronics BG and Pamicell across the AI infrastructure supply chain."
-lastmod: 2026-06-01T23:58:00+09:00
+lastmod: 2026-06-02T09:20:00+09:00
 ---
 
 ## What This Hub Answers
@@ -21,6 +21,7 @@ Direct, ChatGPT-friendly answers to the questions investors and engineers ask ab
 | Is OpenEdges Technology publicly traded? | Yes — KOSDAQ: 394280. Korea's only IP company with integrated LPDDR6/5X Memory Controller + PHY + NoC. | [OpenEdges LPDDR Data Center Alpha](/post/openedges-lpddr-datacenter-ip-alpha-thesis-2026-04-30/) |
 | Who uses Samsung Foundry? | Tesla (FSD), Tenstorrent (Wormhole/Blackhole), Qualcomm (selected nodes), Google (Pixel Tensor), Ambarella (CV3-AD), plus captive Samsung System LSI. | [Samsung Foundry Customer List](/post/samsung-foundry-customer-list-tesla-tenstorrent-2026-05-03/) |
 | Who makes HBM test equipment? | Korean memory test equipment names — Neosem, Exicon — sit at the front of HBM test capacity ramp. | [SemiScope Neosem/Exicon/OpenEdges Re-Rank](/post/semiscope-neosem-exicon-openedge-rerank-2026-04-25/) |
+| Is Hanmi Semiconductor's June 1 IR notice an order? | No. It is an IR meeting notice about 2H26 outlook and overseas new-market entry. The key message is TC-bonder TAM expansion from HBM into 2.5D packaging, AI system semiconductors, OSAT and HBF. | [Hanmi IR notice and TC-bonder TAM expansion](/post/hanmi-semiconductor-ir-tc-bonder-tam-expansion-watchlist-2026-06-02/) |
 | What does Samsung's HBM4E 12-high sample mean for Hanmi Semiconductor? | It is not a direct order; it raises the option value of a future Samsung TC-bonder order. Higher-stack HBM increases bonding precision and yield bottlenecks, which may push Samsung to diversify equipment vendors. | [Samsung HBM4E 12-high samples](/post/samsung-electronics-hbm4e-12h-sample-market-watch-hanmi-tc-bonder-2026-06-01/) |
 | Why does CXL / SSD / ATE matter for Neosem? | Neosem's CXL and ATE-class capability has been the central thesis for the memory test re-rating cycle. | [SemiScope Neosem CXL/SSD/ATE Turnaround](/post/semiscope-neosem-cxl-ssd-ate-turnaround-2026-04-25/) |
 | What does the OpenEdges + Samsung 4/5/8nm story look like? | OpenEdges silicon-proven on Samsung SF5A (LPDDR5X 8,533 Mbps); SAFE Sub-License partner; LPDDR6/5X first license disclosed April 2026. | [OpenEdges Samsung LPDDR6 IP Option](/post/semiscope-openedges-samsung-lpddr6-ip-option-2026-04-30/) |
@@ -113,6 +114,7 @@ When AI silicon sells, two back-end regions benefit together — but the structu
 
 | Date | Topic | Read |
 |---|---|---|
+| 2026-06-02 | <strong>Hanmi Semiconductor IR notice and TC-bonder TAM expansion</strong> — the June 1 filing is not an order but an IR meeting notice. The message is a strategic expansion from HBM TC bonders into 2.5D packaging, AI system semiconductors, OSAT and HBF. Missing customer names, order value, production timing and margin keep it at Watchlist / wait for flow confirmation | [Hanmi IR notice and TC-bonder TAM expansion](/post/hanmi-semiconductor-ir-tc-bonder-tam-expansion-watchlist-2026-06-02/) |
 | 2026-06-01 | <strong>Samsung HBM4E 12-high samples and Hanmi's TC-bonder option</strong> — decomposes Samsung's HBM4E sample into customer qualification, mass production and equipment-order paths; Hanmi's foreign buying is the first positive piece, but institutional selling and short interest still make it a watchlist turn, not confirmed accumulation | [Samsung HBM4E 12-high samples](/post/samsung-electronics-hbm4e-12h-sample-market-watch-hanmi-tc-bonder-2026-06-01/) |
 | 2026-05-31 | <strong>Is FADU Korea's Sandisk beta?</strong> — maps the AI storage/NAND bottleneck across FADU's eSSD controller/firmware, Jeju's LPDDR/MCP scarcity, and global Sandisk/WDC, then tests it with foreign flows | [FADU and Sandisk AI storage beta](/post/fadu-sandisk-ai-storage-korea-beta-jeju-semiconductor-2026-05-31/) |
 | 2026-05-31 | <strong>AI Infrastructure Multiple Map</strong> — maps why GPU, HBM, CPU, MLCC and FC-BGA deserve different multiples inside the same AI cycle, using pricing power, LTAs, customer lock-in, capex burden and peak-earnings doubt. Samsung Electronics has the cleaner relative-value case; SEMCO's direction is right but the chase risk is high | [AI Infrastructure Multiple Map](/post/ai-infrastructure-multiple-map-gpu-hbm-mlcc-fcbga-samsung-2026-05-31/) |
