@@ -5,7 +5,7 @@ date: 2026-04-30T23:05:00+09:00
 aliases: ["/ko/hbm/", "/ko/semiconductor/", "/ko/samsung-hynix/", "/ko/kospi-hbm/", "/ko/page/hbm/"]
 layout: "page"
 description: "AI HBM 허브. 삼성전자, SK하이닉스, HBM, AI 메모리, 코스피 지수 쏠림과 한국 반도체 투자 논거를 한곳에 모은 리서치 허브. HBM 시장점유율, 삼성전자 코스피 비중, KOSPI 리레이팅, AI 서버 수요를 순서대로 정리한다."
-lastmod: 2026-06-01T23:45:00+09:00
+lastmod: 2026-06-01T23:58:00+09:00
 ---
 
 ## 한 줄 결론
@@ -23,6 +23,7 @@ lastmod: 2026-06-01T23:45:00+09:00
 | 삼성전자와 SK하이닉스 중 HBM 순수 노출은 어디가 강한가 | 순수 HBM 노출은 SK하이닉스가 더 명확하다. 삼성전자는 HBM 회복, DDR5/eSSD, 파운드리 옵션, 스마트폰·세트 사업까지 포함한 복합 반도체·전자 대형주다. | [SK하이닉스 딥다이브](/ko/post/kr-deep-dive-sk-hynix-2026-04-16/) · [삼성전자 딥다이브](/ko/post/kr-deep-dive-samsung-electronics-2026-04-16/) |
 | 삼성물산은 삼성전자 후행 proxy로 볼 수 있나 | 가능하지만 고베타 대체재는 아니다. 2026년 6월 1일 기준 삼성물산의 삼성전자 지분가치 상승분 반영률은 51.7%, YTD 삼성전자 대비 베타는 0.83이며, 60% 반영률 회복 시 약 489,000원 gap trade가 가능하다. | [삼성물산 삼성전자 proxy / NAV gap trade](/ko/post/samsung-ct-samsung-electronics-proxy-nav-gap-trade-2026-06-01/) |
 | SK하이닉스 PER이 삼성전자보다 높아진 것은 뉴노멀인가 | 2026E 연간 PER 역전은 이례적이지만 HBM 병목 프리미엄으로 설명 가능하다. 다만 12MF 기준은 parity 접근에 가깝고, 지금 상대가치 알파는 SK하이닉스 추격보다 삼성전자 HBM4E catch-up trade다. | [삼성전자 vs SK하이닉스 Forward PER 역전](/ko/post/samsung-sk-hynix-forward-per-inversion-hbm-catchup-2026-05-31/) |
+| 삼성전자 HBM4E 12단 샘플 출하는 무엇을 의미하나 | 샘플 출하는 HBM catch-up의 증거지만 고객 인증·양산·EPS revision 전에는 확정 매출이 아니다. 한미반도체에는 직접 수주가 아니라 삼성향 TC본더 옵션가치 상승으로 해석해야 한다. | [삼성전자 HBM4E 12단 샘플 출하](/ko/post/samsung-electronics-hbm4e-12h-sample-market-watch-hanmi-tc-bonder-2026-06-01/) |
 | 마이크론이 SK하이닉스보다 높은 forward PER을 받는 것은 기술 우위인가 | 아니다. 기술·레퍼런스·현재 HBM 수익성은 SK하이닉스가 우위지만, 마이크론은 미국 상장 AI 메모리 scarcity premium과 HBM4·SOCAMM2·Gen6 SSD 내러티브를 받는다. | [SK하이닉스 vs 마이크론](/ko/post/sk-hynix-vs-micron-hbm-premium-ai-memory-platform-2026-05-31/) |
 | 파두는 샌디스크의 한국 베타인가 | 외국인 수급 기준으로는 초기 신호가 강하다. 5월 이후 파두 외국인은 약 +4,451억원 순매수했지만, 가격 상관은 아직 하이닉스-마이크론만큼 구조화되지 않았다. | [파두와 샌디스크 AI storage 베타](/ko/post/fadu-sandisk-ai-storage-korea-beta-jeju-semiconductor-2026-05-31/) |
 | 엔비디아 Vera Rubin VR200 부품 원가표에서 한국 메모리 수혜는 무엇인가 | 모건스탠리 추정 기준 VR200 총 부품 원가 증가분의 42.7%가 메모리에서 발생한다. 단, HBM4뿐 아니라 LPDDR5X·SOCAMM까지 같이 봐야 한다. | [엔비디아 VR200 부품 원가표 검산](/ko/post/vera-rubin-vr200-bom-memory-pcb-mlcc-korea-alpha-2026-05-21/) |
@@ -49,6 +50,7 @@ lastmod: 2026-06-01T23:45:00+09:00
 
 | 날짜 | 주제 | 자세히 보기 |
 |---|---|---|
+| 2026-06-01 | <strong>삼성전자 HBM4E 12단 샘플 출하 — 시장은 무엇을 보고 있는가</strong> — 삼성 공식 HBM4E 샘플 출하를 고객 인증, 양산 전환, HBM laggard discount 축소, 한미반도체 TC본더 옵션가치, 공매도·수급 전환 조건으로 분해 | [삼성전자 HBM4E 12단 샘플 출하](/ko/post/samsung-electronics-hbm4e-12h-sample-market-watch-hanmi-tc-bonder-2026-06-01/) |
 | 2026-06-01 | <strong>삼성전기 280만원 리포트 후속 — 2029년은 멀고 메모리보다 강한 이유를 증명해야 한다</strong> — 미래에셋 6월 1일 목표가 280만원을 29F EPS 93,242원 × 30배로 검산하고, 2027~2029년 MLCC +10%, FC-BGA +20%, Si-Cap 반복수주가 메모리보다 강한 duration을 증명해야 한다는 상대가치 논점으로 정리 | [삼성전기 280만원 리포트 후속](/ko/post/samsung-electro-mechanics-mirae-tp-2800000-2029-memory-duration-proof-2026-06-01/) |
 | 2026-06-01 | <strong>삼성물산은 삼성전자 후행 proxy인가</strong> — 삼성물산 보유 삼성전자 지분가치 상승분 반영률 51.7%, 삼성전자 대비 YTD 베타 0.83, 최근 20D 베타 1.10을 기준으로, 본주·삼성물산·삼성전자 2X ETF 중 어떤 도구가 맞는지 점검 | [삼성물산 삼성전자 proxy / NAV gap trade](/ko/post/samsung-ct-samsung-electronics-proxy-nav-gap-trade-2026-06-01/) |
 | 2026-05-31 | <strong>파두는 샌디스크의 한국 베타인가</strong> — 5월 이후 외국인 +4,451억원 순매수와 기관 -2,152억원 순매도를 기준으로, 파두가 AI storage/NAND의 한국 고베타 proxy로 발견되는지 검증. 결론은 외국인 Yes, 기관 No, 시장 전체는 초기 형성 단계 | [파두와 샌디스크 AI storage 베타](/ko/post/fadu-sandisk-ai-storage-korea-beta-jeju-semiconductor-2026-05-31/) |
@@ -88,17 +90,18 @@ lastmod: 2026-06-01T23:45:00+09:00
 | 1 | KOSPI 쏠림과 삼성전자 비중을 어떻게 봐야 하나 | [삼성전자 코스피 비중: 2026년 지수 쏠림 현상 완전 해설](/ko/post/samsung-electronics-weight-in-kospi-index-2026/) |
 | 2 | HBM 시장점유율과 AI 메모리 수요는 어디까지 왔나 | [SK하이닉스 HBM 시장점유율 2026: AI 메모리 투자 가이드](/ko/post/sk-hynix-hbm-market-share-ai-memory-demand-2026/) |
 | 3 | SK하이닉스 PER 역전은 삼성전자 catch-up 신호인가 | [삼성전자 vs SK하이닉스 Forward PER 역전](/ko/post/samsung-sk-hynix-forward-per-inversion-hbm-catchup-2026-05-31/) |
-| 4 | 마이크론 프리미엄은 HBM 기술 우위인가, 미국 상장 프리미엄인가 | [SK하이닉스 vs 마이크론: HBM 기술 프리미엄인가, 미국 상장 프리미엄인가](/ko/post/sk-hynix-vs-micron-hbm-premium-ai-memory-platform-2026-05-31/) |
-| 5 | 삼성전자 급등 이후 후행 proxy는 무엇인가 | [삼성물산 삼성전자 proxy / NAV gap trade](/ko/post/samsung-ct-samsung-electronics-proxy-nav-gap-trade-2026-06-01/) |
-| 6 | 삼성전자의 AI·HBM·파운드리 옵션은 무엇인가 | [삼성전자 2026: AI, HBM, 파운드리 심층 분석](/ko/post/kr-deep-dive-samsung-electronics-2026-04-16/) |
-| 7 | SK하이닉스가 AI 인프라 핵심 공급자가 된 이유는 무엇인가 | [SK하이닉스: AI 혁명을 이끄는 HBM 절대강자](/ko/post/kr-deep-dive-sk-hynix-2026-04-16/) |
-| 8 | 한국 시장 전체를 왜 리레이팅으로 봐야 하나 | [2026년 한국 리레이팅: KOSPI +49%는 단순 랠리가 아니다](/ko/post/korea-outperformance-2026-structural-rerating-2026-04-24/) |
-| 9 | 한국 시총 세계 6위 헤드라인은 매수 신호인가 | [Why Korea 5편: 한국 시총 세계 6위](/ko/post/why-korea-market-cap-global-six-ai-memory-rerating-2026-05-24/) |
-| 10 | 외국인 매도는 HBM thesis 훼손인가, 비중 조절인가 | [한국증시 외국인 수급 분석](/ko/post/korea-foreign-investor-flow-memory-megacap-rotation-2026-05-24/) |
-| 11 | 외국인 지분율 기준으로 매도 압력은 얼마나 남았나 | [KOSPI 외국인 지분율 vs 삼성전자·SK하이닉스](/ko/post/korea-foreign-ownership-kospi-samsung-hynix-divergence-2026-05-26/) |
-| 12 | 삼성전자는 2028년까지 메모리 슈퍼사이클을 인정한 것인가 | [삼성전자 특별성과급 자사주 산식 재구성](/ko/post/samsung-electronics-stock-bonus-supercycle-buyback-2026-05-27/) |
-| 13 | 삼성전기 280만원은 메모리보다 강한 duration을 증명했나 | [삼성전기 280만원 리포트 후속](/ko/post/samsung-electro-mechanics-mirae-tp-2800000-2029-memory-duration-proof-2026-06-01/) |
-| 14 | LPX는 HBM을 대체하는가, 아니면 HBM GPU를 보완하는가 | [NVIDIA Vera Rubin 추론 스택: CPX보다 LPX·CMX가 전면에 선 이유](/ko/post/nvidia-vera-rubin-lpx-cmx-inference-stack-samsung-hbm-2026-05-28/) |
+| 4 | 삼성전자 HBM4E 샘플은 본주와 장비주에 어떻게 다르게 연결되나 | [삼성전자 HBM4E 12단 샘플 출하](/ko/post/samsung-electronics-hbm4e-12h-sample-market-watch-hanmi-tc-bonder-2026-06-01/) |
+| 5 | 마이크론 프리미엄은 HBM 기술 우위인가, 미국 상장 프리미엄인가 | [SK하이닉스 vs 마이크론: HBM 기술 프리미엄인가, 미국 상장 프리미엄인가](/ko/post/sk-hynix-vs-micron-hbm-premium-ai-memory-platform-2026-05-31/) |
+| 6 | 삼성전자 급등 이후 후행 proxy는 무엇인가 | [삼성물산 삼성전자 proxy / NAV gap trade](/ko/post/samsung-ct-samsung-electronics-proxy-nav-gap-trade-2026-06-01/) |
+| 7 | 삼성전자의 AI·HBM·파운드리 옵션은 무엇인가 | [삼성전자 2026: AI, HBM, 파운드리 심층 분석](/ko/post/kr-deep-dive-samsung-electronics-2026-04-16/) |
+| 8 | SK하이닉스가 AI 인프라 핵심 공급자가 된 이유는 무엇인가 | [SK하이닉스: AI 혁명을 이끄는 HBM 절대강자](/ko/post/kr-deep-dive-sk-hynix-2026-04-16/) |
+| 9 | 한국 시장 전체를 왜 리레이팅으로 봐야 하나 | [2026년 한국 리레이팅: KOSPI +49%는 단순 랠리가 아니다](/ko/post/korea-outperformance-2026-structural-rerating-2026-04-24/) |
+| 10 | 한국 시총 세계 6위 헤드라인은 매수 신호인가 | [Why Korea 5편: 한국 시총 세계 6위](/ko/post/why-korea-market-cap-global-six-ai-memory-rerating-2026-05-24/) |
+| 11 | 외국인 매도는 HBM thesis 훼손인가, 비중 조절인가 | [한국증시 외국인 수급 분석](/ko/post/korea-foreign-investor-flow-memory-megacap-rotation-2026-05-24/) |
+| 12 | 외국인 지분율 기준으로 매도 압력은 얼마나 남았나 | [KOSPI 외국인 지분율 vs 삼성전자·SK하이닉스](/ko/post/korea-foreign-ownership-kospi-samsung-hynix-divergence-2026-05-26/) |
+| 13 | 삼성전자는 2028년까지 메모리 슈퍼사이클을 인정한 것인가 | [삼성전자 특별성과급 자사주 산식 재구성](/ko/post/samsung-electronics-stock-bonus-supercycle-buyback-2026-05-27/) |
+| 14 | 삼성전기 280만원은 메모리보다 강한 duration을 증명했나 | [삼성전기 280만원 리포트 후속](/ko/post/samsung-electro-mechanics-mirae-tp-2800000-2029-memory-duration-proof-2026-06-01/) |
+| 15 | LPX는 HBM을 대체하는가, 아니면 HBM GPU를 보완하는가 | [NVIDIA Vera Rubin 추론 스택: CPX보다 LPX·CMX가 전면에 선 이유](/ko/post/nvidia-vera-rubin-lpx-cmx-inference-stack-samsung-hbm-2026-05-28/) |
 
 ---
 
@@ -106,6 +109,7 @@ lastmod: 2026-06-01T23:45:00+09:00
 
 ### HBM과 AI 메모리
 
+- [삼성전자 HBM4E 12단 샘플 출하: 시장은 무엇을 보고 있는가](/ko/post/samsung-electronics-hbm4e-12h-sample-market-watch-hanmi-tc-bonder-2026-06-01/)
 - [삼성전자 vs SK하이닉스 Forward PER 역전: HBM 프리미엄은 뉴노멀인가](/ko/post/samsung-sk-hynix-forward-per-inversion-hbm-catchup-2026-05-31/)
 - [SK하이닉스 vs 마이크론: HBM 기술 프리미엄인가, 미국 상장 프리미엄인가](/ko/post/sk-hynix-vs-micron-hbm-premium-ai-memory-platform-2026-05-31/)
 - [파두는 샌디스크의 한국 베타인가: AI storage/NAND 고베타 proxy와 외국인 수급](/ko/post/fadu-sandisk-ai-storage-korea-beta-jeju-semiconductor-2026-05-31/)
