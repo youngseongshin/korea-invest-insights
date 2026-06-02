@@ -1,7 +1,7 @@
 ---
 title: "Hanmi Semiconductor IR Notice: Not an Order, but a TC-Bonder TAM Expansion Signal"
 date: 2026-06-02T09:20:00+09:00
-description: "Hanmi Semiconductor's June 1 IR notice is not an order announcement. It is a strategy message about 2H26 outlook and overseas market expansion, widening the TC-bonder TAM from HBM into 2.5D packaging, AI system semiconductors, OSAT and HBF."
+description: "Hanmi Semiconductor's June 1 IR notice is not an order announcement. It is a strategy message about 2H26 outlook and overseas market expansion, widening the TC-bonder TAM from HBM into 2.5D packaging, AI system semiconductors, OSAT and HBF, while CEO insider buying adds a secondary support signal."
 categories: ["Market-Outlook"]
 tags:
   - "Hanmi Semiconductor"
@@ -30,6 +30,8 @@ The June 1 filing is **not an order announcement**. It is an IR meeting notice. 
 The key is **TC-bonder TAM expansion**. Hanmi is trying to move the market's frame from HBM memory TC bonders into `2.5D package / AI system semiconductors / OSAT / HBF / U.S.-led AI semiconductor alliance`. The direction is constructive, but the disclosure still lacks customer names, order size, production timing and margin.
 
 The investment stance is **Watchlist / enter only after flow confirmation**. The stock is down about 28% from its 60-day high, so the overheating has cooled. But recent 5-10 day flows still show retail absorbing supply while institutions, program trading and short selling remain pressure points.
+
+CEO insider buying is a constructive secondary signal. Based on the DART filing history provided by the user, CEO Kwak Dong Shin bought 692,398 shares in 29 open-market purchases from July 26, 2023 to April 27, 2026, spending about KRW 56.53bn at a weighted-average price of KRW 81,643. But the most relevant number now is the latest purchase: 9,576 shares at KRW 315,407. At the June 1 close of KRW 293,000, that latest lot is still underwater. The practical question is whether the KRW 290,000-315,000 zone becomes an insider-supported defense line. ([DART][3])
 
 ---
 
@@ -167,7 +169,53 @@ The short-selling ratio has fallen from the peak, but it remains high. The stock
 
 ---
 
-## 5. Investment Read
+## 5. Insider Buying History: Strong Secondary Signal, but the Latest Purchase Price Matters
+
+[Fact] Based on the user-provided DART filing aggregation for Hanmi Semiconductor corp code `00161383`, submitter `Kwak Dong Shin`, and the filing type `report on ownership of specific securities by executives / major shareholders` from Jan. 1, 2020 to Jun. 2, 2026, Kwak's open-market purchases total 29 events from Jul. 26, 2023 to Apr. 27, 2026. The aggregate purchase size is 692,398 shares, about KRW 56.53bn, with a weighted-average purchase price of KRW 81,643.
+
+The latest DART report confirms that Kwak bought 9,576 common shares in the open market on Apr. 27, 2026 at KRW 315,407 per share. The report's base date is Apr. 27, 2026, and the actual settlement / change date is Apr. 29, 2026. The prior major purchase of 47,715 shares at KRW 129,910 on Jan. 5, 2026 is confirmed in the Dec. 30, 2025 DART report. ([DART][3]) ([DART][4])
+
+Annual purchase summary:
+
+| Year | Open-Market Purchases | Shares Bought | Amount Invested | Weighted Avg. Price | Versus Jun. 1 Close |
+|---:|---:|---:|---:|---:|---:|
+| 2023 | 16 | 388,800 | KRW 20.98bn | KRW 53,965 | +442.9% |
+| 2024 | 8 | 139,254 | KRW 16.32bn | KRW 117,181 | +150.0% |
+| 2025 | 3 | 107,053 | KRW 10.01bn | KRW 93,515 | +213.3% |
+| 2026 | 2 | 57,291 | KRW 9.22bn | KRW 160,915 | +82.1% |
+| Total | 29 | 692,398 | KRW 56.53bn | KRW 81,643 | +258.9% |
+
+Key purchase prices:
+
+| Change Date | Shares | Avg. Purchase Price | Amount | Same-Day Close | Versus Current Price |
+|---|---:|---:|---:|---:|---:|
+| 2026-04-27 | 9,576 | KRW 315,407 | KRW 3.02bn | KRW 373,500 | -7.1% |
+| 2026-01-05 | 47,715 | KRW 129,910 | KRW 6.20bn | KRW 167,300 | +125.5% |
+| 2025-11-28 | 41,103 | KRW 121,757 | KRW 5.00bn | KRW 123,600 | +140.6% |
+| 2025-04-17 | 43,692 | KRW 68,821 | KRW 3.01bn | KRW 68,000 | +325.7% |
+| 2025-03-14 | 22,258 | KRW 89,834 | KRW 2.00bn | KRW 87,800 | +226.2% |
+| 2024-06-05 | 20,958 | KRW 143,124 | KRW 3.00bn | KRW 155,800 | +104.7% |
+| 2024-02-27 | 28,000 | KRW 73,589 | KRW 2.06bn | KRW 82,700 | +298.2% |
+| 2023-11-15 | 50,000 | KRW 61,436 | KRW 3.07bn | KRW 62,300 | +376.9% |
+| 2023-07-26 | 24,000 | KRW 42,452 | KRW 1.02bn | KRW 43,800 | +590.2% |
+
+[Inference] This is not a symbolic KRW 100-200mn purchase pattern. Since 2023, Kwak has repeatedly bought in KRW 2-6bn increments. As an insider signal, that is meaningful.
+
+But the key for today's trade is not the full-period weighted-average price of KRW 81,643. That lot is already deeply profitable. The key is the latest high-price purchase at KRW 315,407. At the Jun. 1 close of KRW 293,000, that latest purchase is about 7.1% underwater.
+
+The read:
+
+| Interpretation | Meaning |
+|---|---|
+| Positive | The current price is below the latest CEO purchase price, creating a gap between management conviction and market pricing |
+| Negative | If the stock cannot recover the KRW 315,000 area, insider buying alone is not enough to offset institutional / foreign selling and short pressure |
+| Practical trigger | Defend KRW 290,000, regain KRW 315,000, rising turnover, and easing foreign / institutional selling |
+
+If the stock breaks into the KRW 270,000-280,000 area, the latest insider purchase signal should be treated as a short-term failure. In that case, the IR notice and insider buying remain long-term support, but near-term flow pressure takes priority.
+
+---
+
+## 6. Investment Read
 
 ### Bull Case
 
@@ -193,7 +241,7 @@ Fifth, with FY2026 consensus P/E around 80x, delayed numerical proof can compres
 
 ---
 
-## 6. Entry Strategy
+## 7. Entry Strategy
 
 Stance: **Watchlist / conditional entry only**.
 
@@ -201,11 +249,11 @@ Stance: **Watchlist / conditional entry only**.
 |---|---|
 | KRW 285,000-295,000 | Observation zone. Only small probing size |
 | Regain KRW 300,000 + foreigners net buy for 2-3 sessions | First entry review |
-| Regain KRW 313,000 / 50-day MA | Flow-turn confirmation zone |
+| Regain KRW 313,000-315,000 | 50-day MA and latest CEO purchase-price recovery zone |
 | Regain KRW 347,000 / 20-day MA | Trend recovery confirmation |
-| Break below KRW 280,000 | Reassess. IR-notice effect may have faded |
+| Break below KRW 280,000 | Reassess. IR-notice effect and latest insider defense line may be weakening |
 
-The key signal is flow, not just price. Even if the stock regains KRW 300,000, upside may remain heavy if financial-investment selling continues and short-selling ratio stays in the mid-to-high 20s. If foreigners keep buying for 2-3 sessions and financial-investment selling slows, this IR notice can become the start of a narrative reset rather than just another schedule filing.
+The key signal is flow, not just price. Even if the stock regains KRW 300,000, upside may remain heavy if financial-investment selling continues and short-selling ratio stays in the mid-to-high 20s. If foreigners keep buying for 2-3 sessions, financial-investment selling slows, and the stock regains the KRW 315,000 area, the IR notice and insider buying can become the start of a narrative reset rather than just another schedule filing and a secondary signal.
 
 ---
 
@@ -213,9 +261,11 @@ The key signal is flow, not just price. Even if the stock regains KRW 300,000, u
 
 The IR notice is constructive. The direction is right. Hanmi is telling the market that it wants to expand from an HBM-only equipment story into a broader AI packaging TC-bonder platform.
 
-But the investment action is different from the narrative. The filing expands the story; the flow is still weak. One day of foreign buying on June 1 is not enough.
+The insider buying history is also constructive. Kwak's cumulative open-market purchases since 2023 are not small, and most of them were very good prices in hindsight. But the number that matters now is not the old weighted-average price. It is the latest purchase price of KRW 315,407.
 
-The practical trigger is **KRW 300,000 regained + continued foreign buying + financial-investment selling easing**. For now, this is a good disclosure to track while waiting for a real flow turn.
+But the investment action is different from the narrative. The filing expands the story; insider buying is a secondary support signal; the flow is still weak. One day of foreign buying on June 1 is not enough.
+
+The practical trigger is **KRW 300,000 regained + continued foreign buying + financial-investment selling easing + recovery of the KRW 315,000 area**. For now, this is a good disclosure and a strong insider signal to track while waiting for a real flow turn.
 
 ---
 
@@ -226,6 +276,8 @@ The practical trigger is **KRW 300,000 regained + continued foreign buying + fin
 - Hanmi's June 1, 2026 filing is an IR meeting notice. The meeting date is June 4, 2026 and the purpose is "2H26 outlook and overseas new-market entry." ([DART][1])
 - The filing summary includes AI system semiconductors, foundry, OSAT, 2.5D Package TC bonders, HBF and participation in a U.S.-led AI semiconductor alliance. ([DART][1])
 - IRGO also lists the same Hanmi IR schedule. ([IRGO][2])
+- The latest DART insider report confirms that Kwak Dong Shin bought 9,576 common shares on Apr. 27, 2026 at KRW 315,407. ([DART][3])
+- Based on the user-provided DART aggregation, Kwak's open-market purchases from Jul. 26, 2023 to Apr. 27, 2026 total 29 events, 692,398 shares, about KRW 56.53bn, with a weighted-average price of KRW 81,643.
 - As of June 1 close, the stock was KRW 293,000 and down 28.4% from its 60-day high. Price and flow data are based on the user's Research OS local DB / Kiwoom REST.
 
 ### [Inference]
@@ -233,12 +285,14 @@ The practical trigger is **KRW 300,000 regained + continued foreign buying + fin
 - The filing is a strategy message about expanding the TC-bonder TAM from HBM into AI advanced packaging, not an order.
 - If 2.5D package, OSAT and HBF convert into customer adoption and repeat orders, Hanmi's multiple logic can shift from HBM equipment to an AI packaging equipment platform.
 - The stock has cooled, but flow confirmation has not arrived yet.
+- Insider buying is a strong secondary signal, but for the current trade the latest high-price purchase at KRW 315,407 matters more than the full-period average price.
 
 ### [Speculation]
 
 - Whether HBF TC bonders become a meaningful production market is still unclear.
 - The revenue path from the U.S.-led AI semiconductor alliance language is not yet disclosed.
 - A short-covering setup is possible, but not confirmed.
+- Whether the CEO continues buying after the latest purchase is unknown.
 
 ### [Blocked]
 
@@ -246,6 +300,9 @@ The practical trigger is **KRW 300,000 regained + continued foreign buying + fin
 - Whether the 2.5D Package TC bonder is adopted in production lines.
 - HBF market standardization and Hanmi's tool margin.
 - The identity and motive of stock-loan / short-selling positions.
+- A complete pre-2020 review of older / non-standard filings was not performed.
 
 [1]: https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260601800176 "Hanmi Semiconductor IR meeting notice, June 1 2026"
 [2]: https://m.irgo.co.kr/IR-ROOM/042700/-IR-ROOM "Hanmi Semiconductor - IRGO"
+[3]: https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260427000030 "Hanmi Semiconductor executive / major shareholder ownership report, Apr. 27 2026"
+[4]: https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20251230000226 "Hanmi Semiconductor executive / major shareholder ownership report, Dec. 30 2025"
