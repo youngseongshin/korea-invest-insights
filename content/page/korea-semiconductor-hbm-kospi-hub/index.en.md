@@ -5,7 +5,7 @@ date: 2026-04-30T23:05:00+09:00
 aliases: ["/hbm/", "/semiconductor/", "/samsung-hynix/", "/kospi-hbm/", "/en/hbm/", "/en/semiconductor/", "/en/samsung-hynix/", "/en/kospi-hbm/", "/en/page/korea-semiconductor-hbm-kospi-hub/", "/es/page/korea-semiconductor-hbm-kospi-hub/", "/vi/page/korea-semiconductor-hbm-kospi-hub/", "/fr/page/korea-semiconductor-hbm-kospi-hub/", "/ja/page/korea-semiconductor-hbm-kospi-hub/", "/zh/page/korea-semiconductor-hbm-kospi-hub/"]
 layout: "page"
 description: "AI HBM hub for Samsung Electronics, SK Hynix, HBM, AI memory and KOSPI concentration. Covers HBM market share, Samsung's KOSPI weight, Korean semiconductor exposure and the 2026 KOSPI re-rating thesis."
-lastmod: 2026-06-02T09:20:00+09:00
+lastmod: 2026-06-02T20:45:00+09:00
 ---
 
 ## One-Line Thesis
@@ -30,6 +30,7 @@ Korean semiconductor exposure is not one trade. It combines <strong>SK Hynix's H
 | Why is HBM a bottleneck from a chip-design perspective? | AI performance is less about headline FLOPS and more about how close data sits to compute. HBM is the common memory bottleneck for GPUs and custom ASICs, and it pulls FC-BGA, PCBs and power-integrity parts into the same thesis. | [AI chip design and the data-movement bottleneck](/post/ai-chip-design-data-movement-fcbga-bottleneck-2026-05-24/) |
 | What do Marvell and Broadcom earnings mean for HBM? | If custom AI chips and AI Ethernet networking stay strong, HBM demand broadens beyond Nvidia GPUs into Broadcom XPUs, Google TPUs, OpenAI accelerators and Marvell custom silicon. | [Marvell and Broadcom earnings preview for Korea's AI bottlenecks](/post/marvell-broadcom-earnings-korea-ai-bottleneck-preview-2026-05-23/) |
 | What does Marvell Q1 FY2027 mean for Korean semiconductors? | The key is not a simple HBM-only trade. Custom XPU, optical interconnect and scale-up networking push the bottleneck into FCBGA, MLCC, silicon capacitors and test sockets. | [Marvell Q1 FY2027 and Korean semiconductors](/post/marvell-q1-fy2027-korea-semiconductor-readthrough-2026-05-28/) |
+| What do Marvell's trillion-dollar story and Broadcom's call mean for HBM investors? | Strong custom XPU and AI Ethernet/networking demand broadens HBM exposure beyond Nvidia GPUs into Marvell custom silicon, Broadcom XPUs, TPUs and OpenAI accelerators. But Korea's first-order bottlenecks are FC-BGA, AI network PCBs, Si-Cap and power integrity. | [Marvell's trillion-dollar story and the Broadcom read-through](/post/marvell-trillion-broadcom-readthrough-korea-ai-connectivity-2026-06-02/) |
 | Why can Samsung Electronics look cheap while Samsung Electro-Mechanics looks expensive inside the same AI cycle? | Multiples are not driven by AI exposure alone. They reflect earnings duration, pricing power, customer lock-in, capex burden and peak-earnings doubt. Samsung offers HBM catch-up plus AI memory-hierarchy optionality at a lower multiple, while SEMCO's MLCC / FC-BGA / Si-Cap thesis is already priced aggressively. | [AI Infrastructure Multiple Map](/post/ai-infrastructure-multiple-map-gpu-hbm-mlcc-fcbga-samsung-2026-05-31/) |
 | Does SEMCO's KRW 2.8M report prove it is stronger than memory? | Not yet. The June 1 target is 2029F EPS of KRW 93,242 multiplied by 30x, so it pulls a long-term earnings path into today's valuation. SEMCO must prove 2027-2029 ASP durability, Si-Cap repeat orders and high OPM to deserve a premium versus memory. | [SEMCO KRW 2.8M Follow-Up](/post/samsung-electro-mechanics-mirae-tp-2800000-2029-memory-duration-proof-2026-06-01/) |
 | How does SEMCO's KRW 100T market cap connect to the HBM thesis? | As HBM packages grow, power integrity and FC-BGA become parallel bottlenecks. SEMCO at KRW 100T is a signal that the market is starting to price the layer below HBM, not just HBM itself. | [SEMCO at KRW 100T](/post/samsung-electro-mechanics-100tn-murata-hyundai-market-cap-2026-05-26/) |
@@ -49,6 +50,7 @@ Korean semiconductor exposure is not one trade. It combines <strong>SK Hynix's H
 
 | Date | Topic | Read |
 |---|---|---|
+| 2026-06-02 | <strong>Marvell's trillion-dollar story and the Broadcom read-through</strong> — interprets Jensen Huang's Marvell "next trillion-dollar company" call-out and Broadcom's AI semiconductor call through custom XPU, AI networking, optical interconnect and 3.5D packaging bottlenecks, then maps the Korea read-through to Samsung Electro-Mechanics, Korea Circuit, ISU Petasys, Samsung Electronics and SK Hynix | [Marvell's trillion-dollar story and the Broadcom read-through](/post/marvell-trillion-broadcom-readthrough-korea-ai-connectivity-2026-06-02/) |
 | 2026-06-02 | <strong>Hanmi Semiconductor IR notice and TC-bonder TAM expansion</strong> — interprets the June 1 IR notice as a 2H26 overseas new-market message rather than an order, then checks whether Hanmi can expand from HBM TC bonders into 2.5D packaging, AI system semiconductors, OSAT and HBF, with KRW 300,000, the KRW 315,000 insider purchase zone, foreign buying and easing financial-investment selling as confirmation triggers | [Hanmi IR notice and TC-bonder TAM expansion](/post/hanmi-semiconductor-ir-tc-bonder-tam-expansion-watchlist-2026-06-02/) |
 | 2026-06-01 | <strong>Samsung HBM4E 12-high samples — what is the market watching?</strong> — reframes Samsung's official sample shipment into customer qualification, mass-production timing, HBM laggard-discount compression, Hanmi Semiconductor's TC-bonder option value, and short-selling / flow confirmation signals | [Samsung HBM4E 12-high samples](/post/samsung-electronics-hbm4e-12h-sample-market-watch-hanmi-tc-bonder-2026-06-01/) |
 | 2026-06-01 | <strong>SEMCO KRW 2.8M follow-up — 2029 is far, and it must prove stronger duration than memory</strong> — checks Mirae Asset's June 1 formula of 2029F EPS KRW 93,242 × 30x and reframes the debate as a 2027-2029 proof test for MLCC +10%, FC-BGA +20%, Si-Cap repeat orders and high OPM | [SEMCO KRW 2.8M Follow-Up](/post/samsung-electro-mechanics-mirae-tp-2800000-2029-memory-duration-proof-2026-06-01/) |
@@ -89,16 +91,17 @@ Korean semiconductor exposure is not one trade. It combines <strong>SK Hynix's H
 | 3 | Is SK Hynix's P/E inversion a Samsung catch-up signal? | [Samsung vs SK Hynix Forward P/E Inversion](/post/samsung-sk-hynix-forward-per-inversion-hbm-catchup-2026-05-31/) |
 | 4 | How does Samsung's HBM4E sample connect differently to the common stock and equipment names? | [Samsung HBM4E 12-high samples](/post/samsung-electronics-hbm4e-12h-sample-market-watch-hanmi-tc-bonder-2026-06-01/) |
 | 5 | How far can Hanmi's IR notice expand the TC-bonder TAM? | [Hanmi IR notice and TC-bonder TAM expansion](/post/hanmi-semiconductor-ir-tc-bonder-tam-expansion-watchlist-2026-06-02/) |
-| 6 | Is Micron's premium a HBM technology premium or a U.S. listing premium? | [SK Hynix vs Micron: HBM Technology Premium or U.S. Listing Premium?](/post/sk-hynix-vs-micron-hbm-premium-ai-memory-platform-2026-05-31/) |
-| 7 | What is the lagging proxy after Samsung Electronics' rally? | [Samsung C&T Samsung Electronics proxy / NAV gap trade](/post/samsung-ct-samsung-electronics-proxy-nav-gap-trade-2026-06-01/) |
-| 8 | What are Samsung's AI, HBM and foundry options? | [Samsung Electronics 2026: AI, HBM and Foundry Deep Dive](/post/kr-deep-dive-samsung-electronics-2026-04-16/) |
-| 9 | Why is SK Hynix central to AI infrastructure? | [SK Hynix: The HBM Leader Powering the AI Revolution](/post/kr-deep-dive-sk-hynix-2026-04-16/) |
-| 10 | Why is Korea being re-rated? | [Korea 2026: Why KOSPI +49% YTD Is a Re-Rating, Not a Rally](/post/korea-outperformance-2026-structural-rerating-2026-04-24/) |
-| 11 | Is Korea's global No. 6 market-cap headline a buy signal? | [Why Korea Part 5: Global No. 6 Market Cap](/post/why-korea-market-cap-global-six-ai-memory-rerating-2026-05-24/) |
-| 12 | Is foreign selling a HBM thesis break or position reduction? | [Korea Foreign Investor Flow Analysis](/post/korea-foreign-investor-flow-memory-megacap-rotation-2026-05-24/) |
-| 13 | How much ownership-based foreign selling pressure remains? | [KOSPI ownership versus Samsung / SK Hynix](/post/korea-foreign-ownership-kospi-samsung-hynix-divergence-2026-05-26/) |
-| 14 | Did Samsung signal a memory supercycle through 2028? | [Samsung stock-bonus formula analysis](/post/samsung-electronics-stock-bonus-supercycle-buyback-2026-05-27/) |
-| 15 | Does SEMCO's KRW 2.8M report prove stronger duration than memory? | [SEMCO KRW 2.8M Follow-Up](/post/samsung-electro-mechanics-mirae-tp-2800000-2029-memory-duration-proof-2026-06-01/) |
+| 6 | How do Marvell and Broadcom expand the bottlenecks below HBM? | [Marvell's trillion-dollar story and the Broadcom read-through](/post/marvell-trillion-broadcom-readthrough-korea-ai-connectivity-2026-06-02/) |
+| 7 | Is Micron's premium a HBM technology premium or a U.S. listing premium? | [SK Hynix vs Micron: HBM Technology Premium or U.S. Listing Premium?](/post/sk-hynix-vs-micron-hbm-premium-ai-memory-platform-2026-05-31/) |
+| 8 | What is the lagging proxy after Samsung Electronics' rally? | [Samsung C&T Samsung Electronics proxy / NAV gap trade](/post/samsung-ct-samsung-electronics-proxy-nav-gap-trade-2026-06-01/) |
+| 9 | What are Samsung's AI, HBM and foundry options? | [Samsung Electronics 2026: AI, HBM and Foundry Deep Dive](/post/kr-deep-dive-samsung-electronics-2026-04-16/) |
+| 10 | Why is SK Hynix central to AI infrastructure? | [SK Hynix: The HBM Leader Powering the AI Revolution](/post/kr-deep-dive-sk-hynix-2026-04-16/) |
+| 11 | Why is Korea being re-rated? | [Korea 2026: Why KOSPI +49% YTD Is a Re-Rating, Not a Rally](/post/korea-outperformance-2026-structural-rerating-2026-04-24/) |
+| 12 | Is Korea's global No. 6 market-cap headline a buy signal? | [Why Korea Part 5: Global No. 6 Market Cap](/post/why-korea-market-cap-global-six-ai-memory-rerating-2026-05-24/) |
+| 13 | Is foreign selling a HBM thesis break or position reduction? | [Korea Foreign Investor Flow Analysis](/post/korea-foreign-investor-flow-memory-megacap-rotation-2026-05-24/) |
+| 14 | How much ownership-based foreign selling pressure remains? | [KOSPI ownership versus Samsung / SK Hynix](/post/korea-foreign-ownership-kospi-samsung-hynix-divergence-2026-05-26/) |
+| 15 | Did Samsung signal a memory supercycle through 2028? | [Samsung stock-bonus formula analysis](/post/samsung-electronics-stock-bonus-supercycle-buyback-2026-05-27/) |
+| 16 | Does SEMCO's KRW 2.8M report prove stronger duration than memory? | [SEMCO KRW 2.8M Follow-Up](/post/samsung-electro-mechanics-mirae-tp-2800000-2029-memory-duration-proof-2026-06-01/) |
 
 ---
 
@@ -107,6 +110,7 @@ Korean semiconductor exposure is not one trade. It combines <strong>SK Hynix's H
 ### HBM and AI Memory
 
 - [Hanmi Semiconductor IR Notice: Not an Order, but a TC-Bonder TAM Expansion Signal](/post/hanmi-semiconductor-ir-tc-bonder-tam-expansion-watchlist-2026-06-02/)
+- [Marvell's Trillion-Dollar Story and the Broadcom Read-Through: What Does It Mean for Korea?](/post/marvell-trillion-broadcom-readthrough-korea-ai-connectivity-2026-06-02/)
 - [Samsung HBM4E 12-High Samples: What Is the Market Really Watching?](/post/samsung-electronics-hbm4e-12h-sample-market-watch-hanmi-tc-bonder-2026-06-01/)
 - [Samsung vs SK Hynix Forward P/E Inversion: Is the HBM Premium a New Normal?](/post/samsung-sk-hynix-forward-per-inversion-hbm-catchup-2026-05-31/)
 - [SK Hynix vs Micron: HBM Technology Premium or U.S. Listing Premium?](/post/sk-hynix-vs-micron-hbm-premium-ai-memory-platform-2026-05-31/)
