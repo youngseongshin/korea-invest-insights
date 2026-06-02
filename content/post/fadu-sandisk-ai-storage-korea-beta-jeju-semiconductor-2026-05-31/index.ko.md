@@ -29,7 +29,7 @@ draft: false
 ---
 
 > 연결 맥락
-> 이 글은 [SK하이닉스 vs 마이크론](/ko/post/sk-hynix-vs-micron-hbm-premium-ai-memory-platform-2026-05-31/)과 [AI 인프라 멀티플 지도](/ko/post/ai-infrastructure-multiple-map-gpu-hbm-mlcc-fcbga-samsung-2026-05-31/)의 후속입니다. 앞선 글들이 HBM과 메모리 대형주 프리미엄을 봤다면, 이번 글은 그 아래의 <strong>AI storage / NAND / eSSD controller</strong> 병목을 파두와 제주반도체로 번역합니다. 관련 허브는 [AI HBM 허브](/ko/page/korea-semiconductor-hbm-kospi-hub/)와 [한국 반도체 밸류체인 허브](/ko/page/korea-semiconductor-equipment-ip-hub/)입니다.
+> 이 글은 [SK하이닉스 vs 마이크론](/ko/post/sk-hynix-vs-micron-hbm-premium-ai-memory-platform-2026-05-31/)과 [AI 인프라 멀티플 지도](/ko/post/ai-infrastructure-multiple-map-gpu-hbm-mlcc-fcbga-samsung-2026-05-31/)의 후속입니다. 앞선 글들이 HBM과 메모리 대형주 프리미엄을 봤다면, 이번 글은 그 아래의 <strong>AI storage / NAND / eSSD controller</strong> 병목을 파두와 제주반도체로 번역합니다. 이후 후속편에서는 [파두가 메모리보다 좋은 AI 인프라 병목이 될 수 있는지](/ko/post/fadu-ai-infra-storage-bottleneck-p-q-new-segment-2026-06-02/)를 P·Q·새 세그먼트 관점에서 다시 점검했습니다. 관련 허브는 [AI HBM 허브](/ko/page/korea-semiconductor-hbm-kospi-hub/)와 [한국 반도체 밸류체인 허브](/ko/page/korea-semiconductor-equipment-ip-hub/)입니다.
 
 ## TL;DR
 

@@ -28,7 +28,7 @@ draft: false
 ---
 
 > Context
-> This note follows [SK Hynix vs Micron](/post/sk-hynix-vs-micron-hbm-premium-ai-memory-platform-2026-05-31/) and the [AI Infrastructure Multiple Map](/post/ai-infrastructure-multiple-map-gpu-hbm-mlcc-fcbga-samsung-2026-05-31/). Those notes focused on HBM and mega-cap memory. This one moves down the stack into <strong>AI storage, NAND and eSSD controllers</strong>. Related hubs: [AI HBM Hub](/page/korea-semiconductor-hbm-kospi-hub/) and [Korea Semiconductor Value Chain Hub](/page/korea-semiconductor-equipment-ip-hub/).
+> This note follows [SK Hynix vs Micron](/post/sk-hynix-vs-micron-hbm-premium-ai-memory-platform-2026-05-31/) and the [AI Infrastructure Multiple Map](/post/ai-infrastructure-multiple-map-gpu-hbm-mlcc-fcbga-samsung-2026-05-31/). Those notes focused on HBM and mega-cap memory. This one moves down the stack into <strong>AI storage, NAND and eSSD controllers</strong>. A follow-up tests [whether FADU can become a stronger AI infrastructure bottleneck than memory](/post/fadu-ai-infra-storage-bottleneck-p-q-new-segment-2026-06-02/) through P, Q and new segments. Related hubs: [AI HBM Hub](/page/korea-semiconductor-hbm-kospi-hub/) and [Korea Semiconductor Value Chain Hub](/page/korea-semiconductor-equipment-ip-hub/).
 
 ## TL;DR
 
