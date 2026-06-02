@@ -27,7 +27,7 @@ lastmod: 2026-06-02T22:35:00+09:00
 | 한미반도체 6월 1일 IR 공시는 HBM 장비 thesis에 어떤 의미인가 | HBM용 TC본더만의 이야기가 아니라 2.5D package, AI 시스템반도체, OSAT, HBF로 확장하겠다는 메시지다. 다만 수주 공시가 아니므로 수급 턴과 실제 고객·양산 데이터를 기다려야 하고, 최신 내부자 매입단가 315,407원 회복도 체크포인트다. | [한미반도체 IR 공시와 TC본더 TAM 확장](/ko/post/hanmi-semiconductor-ir-tc-bonder-tam-expansion-watchlist-2026-06-02/) |
 | 마이크론이 SK하이닉스보다 높은 forward PER을 받는 것은 기술 우위인가 | 아니다. 기술·레퍼런스·현재 HBM 수익성은 SK하이닉스가 우위지만, 마이크론은 미국 상장 AI 메모리 scarcity premium과 HBM4·SOCAMM2·Gen6 SSD 내러티브를 받는다. | [SK하이닉스 vs 마이크론](/ko/post/sk-hynix-vs-micron-hbm-premium-ai-memory-platform-2026-05-31/) |
 | 파두는 샌디스크의 한국 베타인가 | 외국인 수급 기준으로는 초기 신호가 강하다. 5월 이후 파두 외국인은 약 +4,451억원 순매수했지만, 가격 상관은 아직 하이닉스-마이크론만큼 구조화되지 않았다. | [파두와 샌디스크 AI storage 베타](/ko/post/fadu-sandisk-ai-storage-korea-beta-jeju-semiconductor-2026-05-31/) |
-| 파두가 메모리보다 좋은 AI 인프라 병목이 될 수 있나 | 가능성은 있다. 다만 메모리보다 높은 멀티플을 받으려면 P(단가), Q(물량), C(비용), Gen6·PMIC·CXL 같은 새 세그먼트를 함께 증명해야 한다. 2Q26 매출 900억~1,050억원과 외국인·기관 수급 전환이 핵심이다. | [파두 P·Q·새 세그먼트 점검](/ko/post/fadu-ai-infra-storage-bottleneck-p-q-new-segment-2026-06-02/) |
+| 파두가 메모리보다 좋은 AI 인프라 병목이 될 수 있나 | 가능성은 있다. 다만 메모리보다 높은 멀티플을 받으려면 단가, 물량, 비용, Gen6·PMIC·CXL 같은 새 시장을 함께 증명해야 한다. 2Q26 매출 900억~1,050억원과 외국인·기관 수급 전환이 핵심이다. | [파두가 증명해야 할 단가·물량·새 시장](/ko/post/fadu-ai-infra-storage-bottleneck-p-q-new-segment-2026-06-02/) |
 | 엔비디아 Vera Rubin VR200 부품 원가표에서 한국 메모리 수혜는 무엇인가 | 모건스탠리 추정 기준 VR200 총 부품 원가 증가분의 42.7%가 메모리에서 발생한다. 단, HBM4뿐 아니라 LPDDR5X·SOCAMM까지 같이 봐야 한다. | [엔비디아 VR200 부품 원가표 검산](/ko/post/vera-rubin-vr200-bom-memory-pcb-mlcc-korea-alpha-2026-05-21/) |
 | AI 칩 설계 관점에서 HBM은 왜 병목인가 | AI 성능은 초당 연산량보다 데이터를 얼마나 가까운 곳에서, 얼마나 덜 움직이는지가 중요하다. 그래서 HBM은 GPU·맞춤형 ASIC 공통 병목이고, 그 아래 FC-BGA·PCB·전력 안정화 부품까지 같이 봐야 한다. | [AI 칩 설계와 데이터 이동 병목](/ko/post/ai-chip-design-data-movement-fcbga-bottleneck-2026-05-24/) |
 | 마벨·브로드컴 실적은 HBM 투자에 어떤 의미인가 | AI 맞춤형 칩과 이더넷 네트워크가 강하면 HBM 수요는 NVIDIA GPU 단일 고객 의존이 아니라 Broadcom XPU·Google TPU·OpenAI accelerator·Marvell custom silicon까지 넓어진다. | [마벨·브로드컴 실적 전 한국 반도체 병목 점검](/ko/post/marvell-broadcom-earnings-korea-ai-bottleneck-preview-2026-05-23/) |
@@ -53,7 +53,7 @@ lastmod: 2026-06-02T22:35:00+09:00
 
 | 날짜 | 주제 | 자세히 보기 |
 |---|---|---|
-| 2026-06-02 | <strong>파두 P·Q·새 세그먼트 점검</strong> — 메모리보다 오래 갈 AI 인프라 병목의 조건을 단가·물량·비용·새 세그먼트로 나누고, 파두의 2Q26 매출 900억~1,050억원, 컨트롤러 비중, Gen6·PMIC·CXL 옵션, 외국인·프로그램 수급을 검증 | [파두 P·Q·새 세그먼트 점검](/ko/post/fadu-ai-infra-storage-bottleneck-p-q-new-segment-2026-06-02/) |
+| 2026-06-02 | <strong>파두가 증명해야 할 단가·물량·새 시장</strong> — 메모리보다 오래 갈 AI 인프라 병목의 조건을 단가·물량·비용·새 시장으로 나누고, 파두의 2Q26 매출 900억~1,050억원, 컨트롤러 비중, Gen6·PMIC·CXL 옵션, 외국인·프로그램 수급을 검증 | [파두가 증명해야 할 단가·물량·새 시장](/ko/post/fadu-ai-infra-storage-bottleneck-p-q-new-segment-2026-06-02/) |
 | 2026-06-02 | <strong>젠슨 황의 마벨 1조 달러 발언</strong> — 젠슨 황의 마벨 1조 달러 후보 언급과 브로드컴 AI 반도체 실적을 맞춤형 AI 가속기, AI 네트워크, 광 연결, 3.5D 패키징 병목으로 해석하고, 한국 파급을 삼성전기·코리아써키트·이수페타시스·삼성전자·SK하이닉스 순서로 정리 | [젠슨 황의 마벨 1조 달러 발언](/ko/post/marvell-trillion-broadcom-readthrough-korea-ai-connectivity-2026-06-02/) |
 | 2026-06-02 | <strong>한미반도체 IR 공시와 TC본더 TAM 확장</strong> — 6월 1일 IR 개최 안내를 수주가 아니라 하반기 해외 신시장 진출 메시지로 해석하고, HBM용 TC본더에서 2.5D package, AI 시스템반도체, OSAT, HBF로 확장되는지와 300,000원·315,000원대·외국인 순매수·금투 매도 둔화 조건을 점검 | [한미반도체 IR 공시와 TC본더 TAM 확장](/ko/post/hanmi-semiconductor-ir-tc-bonder-tam-expansion-watchlist-2026-06-02/) |
 | 2026-06-01 | <strong>삼성전자 HBM4E 12단 샘플 출하 — 시장은 무엇을 보고 있는가</strong> — 삼성 공식 HBM4E 샘플 출하를 고객 인증, 양산 전환, HBM laggard discount 축소, 한미반도체 TC본더 옵션가치, 공매도·수급 전환 조건으로 분해 | [삼성전자 HBM4E 12단 샘플 출하](/ko/post/samsung-electronics-hbm4e-12h-sample-market-watch-hanmi-tc-bonder-2026-06-01/) |
@@ -118,12 +118,12 @@ lastmod: 2026-06-02T22:35:00+09:00
 ### HBM과 AI 메모리
 
 - [한미반도체 IR 공시: 수주가 아니라 TC본더 TAM 확장 신호](/ko/post/hanmi-semiconductor-ir-tc-bonder-tam-expansion-watchlist-2026-06-02/)
-- [파두 P·Q·새 세그먼트 점검: 메모리보다 좋은 AI 인프라 병목이 될 수 있을까](/ko/post/fadu-ai-infra-storage-bottleneck-p-q-new-segment-2026-06-02/)
+- [파두가 증명해야 할 단가·물량·새 시장: 메모리보다 좋은 AI 인프라 병목이 될 수 있을까](/ko/post/fadu-ai-infra-storage-bottleneck-p-q-new-segment-2026-06-02/)
 - [젠슨 황의 마벨 1조 달러 발언: 브로드컴과 한국 반도체가 봐야 할 것](/ko/post/marvell-trillion-broadcom-readthrough-korea-ai-connectivity-2026-06-02/)
 - [삼성전자 HBM4E 12단 샘플 출하: 시장은 무엇을 보고 있는가](/ko/post/samsung-electronics-hbm4e-12h-sample-market-watch-hanmi-tc-bonder-2026-06-01/)
 - [삼성전자 vs SK하이닉스 Forward PER 역전: HBM 프리미엄은 뉴노멀인가](/ko/post/samsung-sk-hynix-forward-per-inversion-hbm-catchup-2026-05-31/)
 - [SK하이닉스 vs 마이크론: HBM 기술 프리미엄인가, 미국 상장 프리미엄인가](/ko/post/sk-hynix-vs-micron-hbm-premium-ai-memory-platform-2026-05-31/)
-- [파두는 P와 Q와 새 세그먼트를 같이 열 수 있을까](/ko/post/fadu-ai-infra-storage-bottleneck-p-q-new-segment-2026-06-02/)
+- [파두가 단가·물량·새 시장을 함께 열 수 있을까](/ko/post/fadu-ai-infra-storage-bottleneck-p-q-new-segment-2026-06-02/)
 - [파두는 샌디스크의 한국 베타인가: AI storage/NAND 고베타 proxy와 외국인 수급](/ko/post/fadu-sandisk-ai-storage-korea-beta-jeju-semiconductor-2026-05-31/)
 - [NVIDIA Vera Rubin 추론 스택: CPX보다 LPX·CMX가 전면에 선 이유](/ko/post/nvidia-vera-rubin-lpx-cmx-inference-stack-samsung-hbm-2026-05-28/)
 - [엔비디아 이후 AI 반도체 병목: 초당 연산량보다 데이터 이동, HBM, FC-BGA, 전력 안정화](/ko/post/ai-chip-design-data-movement-fcbga-bottleneck-2026-05-24/)
