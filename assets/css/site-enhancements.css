@@ -373,6 +373,46 @@ html[lang^="zh"] .left-sidebar #main-menu > li[data-menu-section]::before {
   font-weight: 700;
 }
 
+.article-content .thesis-callout {
+  max-width: min(72rem, 100%);
+  margin: 2rem 0 2.25rem;
+  padding: 1.35rem 1.55rem 1.45rem 1.8rem;
+  border: 1px solid var(--kii-sage-line);
+  border-left: 0.48rem solid var(--kii-sage);
+  border-radius: 8px;
+  background:
+    linear-gradient(135deg, var(--kii-sage-wash), var(--kii-blue-wash)),
+    var(--card-background);
+  box-shadow: 0 12px 30px rgba(34, 39, 46, 0.075);
+}
+
+.article-content .thesis-callout::before {
+  content: attr(data-label);
+  display: inline-flex;
+  align-items: center;
+  margin-bottom: 0.65rem;
+  padding: 0.16rem 0.46rem;
+  border-radius: 4px;
+  background: var(--kii-sage-soft);
+  color: var(--kii-sage-darker);
+  font-size: 1.18rem;
+  font-weight: 800;
+  letter-spacing: 0.04em;
+  line-height: 1.2;
+}
+
+.article-content .thesis-callout p {
+  margin: 0;
+  color: var(--card-text-color-main);
+  font-size: clamp(1.78rem, 1.35vw, 2.04rem);
+  font-weight: 750;
+  line-height: 1.58;
+}
+
+[data-scheme="dark"] .article-content .thesis-callout {
+  box-shadow: 0 14px 34px rgba(0, 0, 0, 0.28);
+}
+
 .article-content > h2:first-of-type {
   margin-top: 1.6em;
 }
