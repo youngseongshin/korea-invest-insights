@@ -375,42 +375,42 @@ html[lang^="zh"] .left-sidebar #main-menu > li[data-menu-section]::before {
 
 .article-content .thesis-callout {
   max-width: min(72rem, 100%);
-  margin: 2rem 0 2.25rem;
-  padding: 1.35rem 1.55rem 1.45rem 1.8rem;
+  margin: 1.75rem 0 2rem;
+  padding: 1.15rem 1.4rem 1.2rem 1.5rem;
   border: 1px solid var(--kii-sage-line);
-  border-left: 0.48rem solid var(--kii-sage);
+  border-left: 0.3rem solid var(--kii-sage);
   border-radius: 8px;
   background:
-    linear-gradient(135deg, var(--kii-sage-wash), var(--kii-blue-wash)),
+    linear-gradient(var(--kii-sage-wash), var(--kii-sage-wash)),
     var(--card-background);
-  box-shadow: 0 12px 30px rgba(34, 39, 46, 0.075);
+  box-shadow: var(--shadow-l1, 0 4px 6px rgba(15, 23, 42, 0.04));
 }
 
 .article-content .thesis-callout::before {
   content: attr(data-label);
   display: inline-flex;
   align-items: center;
-  margin-bottom: 0.65rem;
-  padding: 0.16rem 0.46rem;
-  border-radius: 4px;
+  margin-bottom: 0.5rem;
+  padding: 0.14rem 0.5rem;
+  border-radius: 999px;
   background: var(--kii-sage-soft);
   color: var(--kii-sage-darker);
-  font-size: 1.18rem;
-  font-weight: 800;
-  letter-spacing: 0.04em;
+  font-size: 0.8rem;
+  font-weight: 700;
+  letter-spacing: 0.02em;
   line-height: 1.2;
 }
 
 .article-content .thesis-callout p {
   margin: 0;
   color: var(--card-text-color-main);
-  font-size: clamp(1.78rem, 1.35vw, 2.04rem);
-  font-weight: 750;
-  line-height: 1.58;
+  font-size: 1.1rem;
+  font-weight: 600;
+  line-height: 1.6;
 }
 
 [data-scheme="dark"] .article-content .thesis-callout {
-  box-shadow: 0 14px 34px rgba(0, 0, 0, 0.28);
+  box-shadow: 0 6px 16px rgba(0, 0, 0, 0.24);
 }
 
 .article-content > h2:first-of-type {
