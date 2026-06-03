@@ -5,7 +5,7 @@ date: 2026-05-03T11:00:00+09:00
 aliases: ["/korea-daily/", "/kospi/", "/kosdaq/", "/en/korea-daily/", "/en/page/korea-daily-market-hub/", "/es/page/korea-daily-market-hub/", "/vi/page/korea-daily-market-hub/", "/fr/page/korea-daily-market-hub/", "/ja/page/korea-daily-market-hub/", "/zh/page/korea-daily-market-hub/"]
 layout: "page"
 description: "A hub for Korean stock market daily updates — KOSPI and KOSDAQ market closes, weekly concentrated picks, foreign-investor flows, sector rotation, and what's actually moving in Korean equities each session. Direct answers to 'What is the Korean stock market doing today?' and similar queries."
-lastmod: 2026-06-03T11:20:00+09:00
+lastmod: 2026-06-03T15:10:00+09:00
 ---
 
 ## What This Hub Answers
@@ -19,6 +19,7 @@ Direct, search-engine-friendly answers to the questions global investors ask abo
 | What should Korean equities watch after GTC Taipei? | NVIDIA's message expanded beyond GPUs into AI Factory, Vera CPU, Agent Runtime, AI PCs and Physical AI. Korean investors need to map HBM, power, networking, GPUaaS, NAVER Cloud and robotics bottlenecks separately. | [Korea Is Watching Jensen Huang: What Changed Overnight?](/post/korea-market-after-gtc-taipei-jensen-huang-naver-ai-factory-2026-06-02/) |
 | What are this week's top Korean concentrated picks? | The Weekly Concentrated Strategy publishes Friday evening (KST) with 3–5 deep-dive picks. | [Latest Weekly Concentrated](/post/kr-concentrated-weekly-2026-04-24/) |
 | Are foreigners buying or selling Korean stocks? | The headline outflow is less a broad Korea exit and more a Samsung Electronics + SK Hynix mega-cap memory reduction, while foreigners selectively reallocate into KOSDAQ, batteries, robotics, biotech and infrastructure. | [Korea Has Liquidity, But Breadth Has Broken](/post/korea-market-liquidity-foreign-reallocation-adr-narrow-leadership-2026-06-03/) · [Korea Foreign Investor Flow Analysis](/post/korea-foreign-investor-flow-memory-megacap-rotation-2026-05-24/) |
+| Are Samsung and SK hynix attractive again despite foreign selling? | Micron re-rated faster, pushing Samsung/Micron to 0.82x and SK hynix/Micron to 0.80x forward PER. SK hynix is a first-tranche buy candidate, while Samsung has the larger HBM4E/HBM4 catch-up path if proof arrives. | [Sam-Ha-Ma Parity](/post/samsung-hynix-micron-forward-per-parity-memory-catch-up-2026-06-03/) |
 | How much foreign-selling pressure is left by ownership? | KOSPI market-value foreign ownership remains high, but Samsung and SK Hynix share-count ownership is already near 2026 lows. The next signal is the five-day foreign-selling speed. | [KOSPI ownership versus Samsung / SK Hynix](/post/korea-foreign-ownership-kospi-samsung-hynix-divergence-2026-05-26/) |
 | Which Korean stocks are actually in the foreign-investor playbook? | In 2026 YTD, KOSPI A+B 168 names captured 94.4% of the foreign-activity proxy, while KOSDAQ A+B 355 captured 84.5%. Playbook inclusion matters before net buying direction. | [Korea Foreign-Investor Playbook: KOSPI 168, KOSDAQ 355](/post/korea-foreign-playbook-msci-dm-kospi-168-kosdaq-355-2026-05-31/) |
 | Why is KOSDAQ weak if foreigners are buying? | Foreign buying is narrow, while investment trusts, private funds and pension-style real money have not returned. KOSDAQ needs ADR 60 and positive 5-day real-money flows. | [Why Is KOSDAQ Falling If Foreigners Are Buying?](/post/kosdaq-foreign-buying-institution-real-money-adr-2026-06-03/) |
@@ -54,9 +55,10 @@ Sequential reading for someone new to Korean equities — what to read in order 
 | 11 | Why can Korea have abundant liquidity and broken breadth at the same time? | [Korea Has Liquidity, But Breadth Has Broken](/post/korea-market-liquidity-foreign-reallocation-adr-narrow-leadership-2026-06-03/) |
 | 12 | Why is KOSDAQ not rallying despite foreign buying? | [Why Is KOSDAQ Falling If Foreigners Are Buying?](/post/kosdaq-foreign-buying-institution-real-money-adr-2026-06-03/) |
 | 13 | How should investors decompose institutional buying? | [Real Money Flow Framework](/post/real-money-flow-framework-korea-institution-quality-2026-06-03/) |
-| 14 | How should investors read the gap between the index and the average stock? | [Korea ADR at 67: Why the Index Can Hold While Most Stocks Are Weak](/post/korea-adr-breadth-narrow-leadership-kospi-kosdaq-2026-05-27/) |
-| 15 | Is MSCI DM upside broad Korea beta, or a foreign-playbook stock story? | [Korea Foreign-Investor Playbook: KOSPI 168, KOSDAQ 355](/post/korea-foreign-playbook-msci-dm-kospi-168-kosdaq-355-2026-05-31/) |
-| 16 | How does NVIDIA GTC Taipei translate into Korean AI infrastructure bottlenecks? | [Korea Is Watching Jensen Huang: What Changed Overnight?](/post/korea-market-after-gtc-taipei-jensen-huang-naver-ai-factory-2026-06-02/) |
+| 14 | Did Samsung and SK hynix become attractive again versus Micron? | [Sam-Ha-Ma Parity: Samsung and Hynix Look Cheap Again Versus Micron](/post/samsung-hynix-micron-forward-per-parity-memory-catch-up-2026-06-03/) |
+| 15 | How should investors read the gap between the index and the average stock? | [Korea ADR at 67: Why the Index Can Hold While Most Stocks Are Weak](/post/korea-adr-breadth-narrow-leadership-kospi-kosdaq-2026-05-27/) |
+| 16 | Is MSCI DM upside broad Korea beta, or a foreign-playbook stock story? | [Korea Foreign-Investor Playbook: KOSPI 168, KOSDAQ 355](/post/korea-foreign-playbook-msci-dm-kospi-168-kosdaq-355-2026-05-31/) |
+| 17 | How does NVIDIA GTC Taipei translate into Korean AI infrastructure bottlenecks? | [Korea Is Watching Jensen Huang: What Changed Overnight?](/post/korea-market-after-gtc-taipei-jensen-huang-naver-ai-factory-2026-06-02/) |
 
 ---
 
@@ -96,6 +98,7 @@ The Friday-evening "concentrated" series picks 3–5 highest-conviction Korean e
 | Pearl Abyss / Crimson Desert (game sector heavyweight) | [Pearl Abyss Hub](/page/pearl-abyss-crimson-desert-hub/) |
 | Foreign investor access / IBKR / KRX basics | [Korea Stocks for Foreign Investors Hub](/page/korea-stocks-foreign-investors-hub/) |
 | Samsung Electronics + SK hynix + HBM | [Korea Semiconductor / HBM / KOSPI Hub](/page/korea-semiconductor-hbm-kospi-hub/) |
+| Samsung / SK hynix / Micron relative PER | [Sam-Ha-Ma Parity](/post/samsung-hynix-micron-forward-per-parity-memory-catch-up-2026-06-03/) |
 | Korea global No. 6 market cap / Why Korea | [Why Korea Part 5: Global No. 6 Market Cap](/post/why-korea-market-cap-global-six-ai-memory-rerating-2026-05-24/) |
 | Foreign flows / memory mega-cap distribution | [Korea Foreign Investor Flow Analysis](/post/korea-foreign-investor-flow-memory-megacap-rotation-2026-05-24/) |
 | Market liquidity / ADR / narrow leadership regime | [Korea Has Liquidity, But Breadth Has Broken](/post/korea-market-liquidity-foreign-reallocation-adr-narrow-leadership-2026-06-03/) |

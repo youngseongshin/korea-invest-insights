@@ -5,7 +5,7 @@ date: 2026-05-07T00:40:00+09:00
 aliases: ["/ko/korea-stocks/", "/ko/korean-stocks/", "/ko/ibkr-korea-stocks/", "/ko/foreign-investors-korea/", "/ko/page/korea-stocks-foreign-investors-hub/"]
 layout: "page"
 description: "해외 투자자를 위한 한국 주식 허브. IBKR·해외 증권사 한국 주식 접근, KOSPI, KOSDAQ, 삼성전자, SK하이닉스, 펄어비스, 한국 금융주, AI 하드웨어, K-뷰티, 일간 시장 브리핑을 한곳에 정리한다."
-lastmod: 2026-06-03T11:20:00+09:00
+lastmod: 2026-06-03T15:10:00+09:00
 ---
 
 ## 한 줄 결론
@@ -27,6 +27,7 @@ lastmod: 2026-06-03T11:20:00+09:00
 | 외국인이 KOSDAQ을 사는데 왜 코스닥은 약한가요? | 외국인 매수는 좁고, 기관 real money는 아직 돌아오지 않았다. KOSDAQ 전체 반등에는 ADR 60 회복, KOSDAQ 1,080~1,100 회복, 투신·사모·연기금 5D 플러스 전환이 필요하다. | [외국인은 사는데 왜 코스닥은 빠졌나](/ko/post/kosdaq-foreign-buying-institution-real-money-adr-2026-06-03/) |
 | 한국에서 기관 순매수는 어떻게 봐야 하나요? | 기관 합계에는 금융투자가 섞여 있다. 해외 투자자가 지속성을 보려면 금투를 제외하고 투신·사모·연기금 등 Real Money를 따로 봐야 한다. | [Real Money 수급 프레임워크](/ko/post/real-money-flow-framework-korea-institution-quality-2026-06-03/) |
 | KOSPI 외국인 지분율은 높은데 삼성전자·SK하이닉스 지분율은 낮다는 건 무슨 뜻인가요? | KOSPI는 평가금액 기준이라 높게 보일 수 있지만, 실제 매도 대상인 삼성전자·SK하이닉스 주식 수 기준 지분율은 이미 연중 최저권이다. 이제는 지분율 레벨보다 5일 평균 순매도 속도가 핵심이다. | [KOSPI 외국인 지분율 vs 삼성전자·SK하이닉스](/ko/post/korea-foreign-ownership-kospi-samsung-hynix-divergence-2026-05-26/) |
+| 해외 투자자가 삼성전자·하이닉스를 다시 봐야 하는 상대가치 신호는 무엇인가요? | 마이크론이 더 빠르게 리레이팅되면서 삼성전자/Micron 0.82배, SK하이닉스/Micron 0.80배까지 상대 PER이 내려왔다. 한국 메모리 대형주는 외국인 수급 전환만 확인되면 다시 패리티 회복 후보가 된다. | [삼하마 패리티](/ko/post/samsung-hynix-micron-forward-per-parity-memory-catch-up-2026-06-03/) |
 | 해외 long-only가 실제로 볼 수 있는 한국 종목은 몇 개인가요? | 2026년 YTD 외국인 활동 proxy 기준 KOSPI는 168개, KOSDAQ은 355개가 실질 거래대상이다. MSCI DM 편입 수혜도 시장 전체보다 이 플레이북 종목으로 먼저 압축될 가능성이 높다. | [외국인 플레이북 KOSPI 168·KOSDAQ 355](/ko/post/korea-foreign-playbook-msci-dm-kospi-168-kosdaq-355-2026-05-31/) |
 | KOSPI와 KOSDAQ이 모두 오르는 장인가요? | 아니다. 2026년 6월 2일 기준 전체 20일 ADR은 48.4까지 내려왔다. 해외 투자자는 지수 방향보다 외국인 재배치 종목, ADR 회복, 주도주 눌림을 봐야 한다. | [유동성은 많은데 시장 폭은 무너졌다](/ko/post/korea-market-liquidity-foreign-reallocation-adr-narrow-leadership-2026-06-03/) · [한국 ADR 67과 좁은 주도주 장세](/ko/post/korea-adr-breadth-narrow-leadership-kospi-kosdaq-2026-05-27/) |
 | KOSDAQ은 무엇인가요? | 한국의 성장주·중소형주 시장이다. 바이오, 게임, AI 소프트웨어, 반도체 장비, 틈새 산업재 기업이 많이 상장돼 있다. | [KOSDAQ 커버리지 갭](/ko/post/kosdaq-coverage-gaps-variant-perception-2026-04-23/) |
@@ -62,16 +63,17 @@ lastmod: 2026-06-03T11:20:00+09:00
 | 10 | 지수와 평균 종목의 괴리를 ADR로 어떻게 읽나 | [한국 ADR 67과 좁은 주도주 장세](/ko/post/korea-adr-breadth-narrow-leadership-kospi-kosdaq-2026-05-27/) |
 | 11 | 외국인 플레이북에 오른 KOSPI·KOSDAQ 종목은 몇 개인가 | [외국인 플레이북 KOSPI 168·KOSDAQ 355](/ko/post/korea-foreign-playbook-msci-dm-kospi-168-kosdaq-355-2026-05-31/) |
 | 12 | 삼성전자, SK하이닉스, HBM은 어떻게 봐야 하나 | [삼성전자·SK하이닉스·HBM 허브](/ko/page/korea-semiconductor-hbm-kospi-hub/) |
-| 13 | 중국·홍콩 AI 과열이 한국으로 전이되면 어떤 상장 proxy를 봐야 하나 | [중국과 홍콩의 AI 과열이 한국에 전이될 수 있을까](/ko/post/china-hong-kong-ai-overheat-korea-ai-cloud-llm-proxy-2026-05-31/) |
-| 14 | 미국 비반도체 리레이팅은 한국 2선으로 어떻게 번역되나 | [미국 비반도체 리레이팅의 한국장 번역](/ko/post/us-nonsemi-rerating-ai-power-software-korea-translation-2026-05-31/) |
-| 15 | NAVER는 왜 포털주가 아니라 SOTP·AI cloud·플랫폼 금융주로 다시 봐야 하나 | [NAVER 리레이팅 가능성](/ko/post/naver-rerating-dunamu-mirae-ai-cloud-stablecoin-turnaround-2026-05-31/) |
-| 16 | 알리바바 agentic commerce는 NAVER·NHN KCP·Cafe24에 어떤 질문을 던지나 | [알리바바 AI 결제 3억 건과 한국 셀러 OS](/ko/post/alibaba-ai-pay-accio-work-korea-agentic-commerce-seller-os-2026-05-31/) |
-| 17 | AI 기판과 CCL 논거는 무엇인가 | [AI 기판·PCB 허브](/ko/page/korea-ai-pcb-substrate-hub/) |
-| 18 | 왜 한국에 AI 기판 회사가 이렇게 많은가 | [Why Korea 1편: 한국 반도체 기판 경쟁력](/ko/post/why-korea-semiconductor-substrate-competitive-edge-2026-05-07/) |
-| 19 | 한국 로봇·피지컬 AI 밸류체인은 어떻게 보나 | [한국 휴머노이드 로봇 밸류체인 분석](/ko/post/korea-robotics-value-chain-complete-map-2026-05-11/) |
-| 20 | 밸류업 국면의 한국 금융주는 어디를 봐야 하나 | [한국 금융주 허브](/ko/page/korean-financials-hub/) |
-| 21 | 왜 한국 화장품은 세계 2-3위 수출 산업이 됐나 | [Why Korea 2편: 한국 화장품 경쟁력](/ko/post/why-korea-cosmetics-global-competitiveness-2026-05-07/) |
-| 22 | 해외 검색 수요가 붙기 쉬운 소비·게임주는 어디인가 | [펄어비스 허브](/ko/page/pearl-abyss-crimson-desert-hub/) · [K-뷰티 허브](/ko/page/k-beauty-olive-young-pharmaresearch-hub/) |
+| 13 | 삼성전자·하이닉스가 마이크론 대비 다시 싸진 구간인가 | [삼하마 패리티: 삼성전자·하이닉스가 마이크론보다 다시 싸진 구간](/ko/post/samsung-hynix-micron-forward-per-parity-memory-catch-up-2026-06-03/) |
+| 14 | 중국·홍콩 AI 과열이 한국으로 전이되면 어떤 상장 proxy를 봐야 하나 | [중국과 홍콩의 AI 과열이 한국에 전이될 수 있을까](/ko/post/china-hong-kong-ai-overheat-korea-ai-cloud-llm-proxy-2026-05-31/) |
+| 15 | 미국 비반도체 리레이팅은 한국 2선으로 어떻게 번역되나 | [미국 비반도체 리레이팅의 한국장 번역](/ko/post/us-nonsemi-rerating-ai-power-software-korea-translation-2026-05-31/) |
+| 16 | NAVER는 왜 포털주가 아니라 SOTP·AI cloud·플랫폼 금융주로 다시 봐야 하나 | [NAVER 리레이팅 가능성](/ko/post/naver-rerating-dunamu-mirae-ai-cloud-stablecoin-turnaround-2026-05-31/) |
+| 17 | 알리바바 agentic commerce는 NAVER·NHN KCP·Cafe24에 어떤 질문을 던지나 | [알리바바 AI 결제 3억 건과 한국 셀러 OS](/ko/post/alibaba-ai-pay-accio-work-korea-agentic-commerce-seller-os-2026-05-31/) |
+| 18 | AI 기판과 CCL 논거는 무엇인가 | [AI 기판·PCB 허브](/ko/page/korea-ai-pcb-substrate-hub/) |
+| 19 | 왜 한국에 AI 기판 회사가 이렇게 많은가 | [Why Korea 1편: 한국 반도체 기판 경쟁력](/ko/post/why-korea-semiconductor-substrate-competitive-edge-2026-05-07/) |
+| 20 | 한국 로봇·피지컬 AI 밸류체인은 어떻게 보나 | [한국 휴머노이드 로봇 밸류체인 분석](/ko/post/korea-robotics-value-chain-complete-map-2026-05-11/) |
+| 21 | 밸류업 국면의 한국 금융주는 어디를 봐야 하나 | [한국 금융주 허브](/ko/page/korean-financials-hub/) |
+| 22 | 왜 한국 화장품은 세계 2-3위 수출 산업이 됐나 | [Why Korea 2편: 한국 화장품 경쟁력](/ko/post/why-korea-cosmetics-global-competitiveness-2026-05-07/) |
+| 23 | 해외 검색 수요가 붙기 쉬운 소비·게임주는 어디인가 | [펄어비스 허브](/ko/page/pearl-abyss-crimson-desert-hub/) · [K-뷰티 허브](/ko/page/k-beauty-olive-young-pharmaresearch-hub/) |
 
 ---
 

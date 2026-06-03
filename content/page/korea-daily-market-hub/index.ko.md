@@ -5,7 +5,7 @@ date: 2026-05-03T11:00:00+09:00
 aliases: ["/ko/korea-daily/", "/ko/kospi/", "/ko/kosdaq/", "/ko/page/korea-daily-market-hub/"]
 layout: "page"
 description: "한국 주식시장 일일 업데이트 허브 — KOSPI / KOSDAQ 장마감 브리핑, 주간 집중 픽, 외국인·기관 수급, 섹터 로테이션, 그리고 매 세션 한국 주식에서 실제로 무엇이 움직이는지. '오늘 한국 주식시장은 어떤가요?' 같은 질문의 직접 답."
-lastmod: 2026-06-03T11:20:00+09:00
+lastmod: 2026-06-03T15:10:00+09:00
 ---
 
 ## 이 허브가 답하는 질문
@@ -19,6 +19,7 @@ lastmod: 2026-06-03T11:20:00+09:00
 | 간밤 GTC Taipei 이후 한국 증시는 무엇을 봐야 하나요? | NVIDIA의 메시지는 GPU 단품보다 AI Factory, Vera CPU, Agent Runtime, AI PC, Physical AI로 확장됐다. 한국장은 HBM뿐 아니라 전력, 네트워킹, GPUaaS, NAVER Cloud, 로봇의 병목을 따져야 한다. | [젠슨 황을 바라보는 한국 증시: 간밤에 무슨 일이 있었나](/ko/post/korea-market-after-gtc-taipei-jensen-huang-naver-ai-factory-2026-06-02/) |
 | 이번 주 한국 집중 매수 픽은? | 매주 금요일 저녁(KST) 공개되는 Weekly Concentrated 시리즈가 3-5개 고확신 아이디어를 제시합니다. | [최근 주간 집중 전략](/ko/post/kr-concentrated-weekly-2026-04-24/) |
 | 외국인이 한국 주식을 사고 있나요, 팔고 있나요? | 2026년 외국인 순매도는 한국 전체 이탈이라기보다 삼성전자·SK하이닉스 대형 메모리 비중 조정과 KOSDAQ·2차전지·로봇·바이오·일부 인프라로의 선택 재배치가 핵심이다. | [유동성은 많은데 시장 폭은 무너졌다](/ko/post/korea-market-liquidity-foreign-reallocation-adr-narrow-leadership-2026-06-03/) · [한국증시 외국인 수급 분석](/ko/post/korea-foreign-investor-flow-memory-megacap-rotation-2026-05-24/) |
+| 외국인 매도 속에서도 삼성전자·하이닉스는 다시 매력적인가요? | 마이크론이 더 빠르게 리레이팅되면서 삼성전자/Micron 상대 PER은 0.82배, SK하이닉스/Micron은 0.80배까지 내려왔다. 하이닉스는 1차 매수 가능, 삼성전자는 HBM4E·HBM4 증명 시 더 큰 catch-up 후보로 볼 수 있다. | [삼하마 패리티](/ko/post/samsung-hynix-micron-forward-per-parity-memory-catch-up-2026-06-03/) |
 | 외국인 매도 압력은 지분율 기준으로 얼마나 남았나요? | KOSPI 시총가중 외국인 보유비중은 높은 편이지만 삼성전자·SK하이닉스 지분율은 연중 최저권이다. 이제는 지분율 레벨보다 5일 평균 순매도 속도를 봐야 한다. | [KOSPI 외국인 지분율 vs 삼성전자·SK하이닉스](/ko/post/korea-foreign-ownership-kospi-samsung-hynix-divergence-2026-05-26/) |
 | 외국인 플레이북에 올라온 KOSPI·KOSDAQ 종목은 몇 개인가요? | 2026년 YTD 기준 KOSPI는 A+B 168개가 외국인 활동 proxy의 94.4%, KOSDAQ은 A+B 355개가 84.5%를 차지한다. 이제는 순매수보다 플레이북 포함 여부가 먼저다. | [외국인 플레이북 KOSPI 168·KOSDAQ 355](/ko/post/korea-foreign-playbook-msci-dm-kospi-168-kosdaq-355-2026-05-31/) |
 | 외국인이 KOSDAQ을 사는데 왜 지수는 약한가요? | 외국인 매수는 파두·반도체·바이오·기판 일부로 좁고, 투신·사모·연기금성 real money는 아직 매도다. KOSDAQ 반등에는 ADR 60 회복과 real money 5D 플러스 전환이 필요하다. | [외국인은 사는데 왜 코스닥은 빠졌나](/ko/post/kosdaq-foreign-buying-institution-real-money-adr-2026-06-03/) |
@@ -54,9 +55,10 @@ lastmod: 2026-06-03T11:20:00+09:00
 | 11 | 유동성은 많은데 왜 시장 폭은 무너졌나? | [유동성은 많은데 시장 폭은 무너졌다](/ko/post/korea-market-liquidity-foreign-reallocation-adr-narrow-leadership-2026-06-03/) |
 | 12 | 외국인 매수에도 KOSDAQ이 못 가는 이유는? | [외국인은 사는데 왜 코스닥은 빠졌나](/ko/post/kosdaq-foreign-buying-institution-real-money-adr-2026-06-03/) |
 | 13 | 기관 순매수 숫자는 어떻게 분해해야 하나? | [Real Money 수급 프레임워크](/ko/post/real-money-flow-framework-korea-institution-quality-2026-06-03/) |
-| 14 | 지수와 평균 종목의 괴리는 어떻게 봐야 하나? | [한국 ADR 67: 지수는 버티는데 왜 종목은 약한가](/ko/post/korea-adr-breadth-narrow-leadership-kospi-kosdaq-2026-05-27/) |
-| 15 | MSCI DM 편입 수혜는 한국 전체인가, 외국인 플레이북 종목인가? | [외국인 플레이북 KOSPI 168·KOSDAQ 355](/ko/post/korea-foreign-playbook-msci-dm-kospi-168-kosdaq-355-2026-05-31/) |
-| 16 | NVIDIA GTC Taipei 이후 한국 AI 인프라 병목은 어디로 번역되나? | [젠슨 황을 바라보는 한국 증시: 간밤에 무슨 일이 있었나](/ko/post/korea-market-after-gtc-taipei-jensen-huang-naver-ai-factory-2026-06-02/) |
+| 14 | 외국인 매도 속에서도 삼성전자·하이닉스는 상대가치가 열렸나? | [삼하마 패리티: 삼성전자·하이닉스가 마이크론보다 다시 싸진 구간](/ko/post/samsung-hynix-micron-forward-per-parity-memory-catch-up-2026-06-03/) |
+| 15 | 지수와 평균 종목의 괴리는 어떻게 봐야 하나? | [한국 ADR 67: 지수는 버티는데 왜 종목은 약한가](/ko/post/korea-adr-breadth-narrow-leadership-kospi-kosdaq-2026-05-27/) |
+| 16 | MSCI DM 편입 수혜는 한국 전체인가, 외국인 플레이북 종목인가? | [외국인 플레이북 KOSPI 168·KOSDAQ 355](/ko/post/korea-foreign-playbook-msci-dm-kospi-168-kosdaq-355-2026-05-31/) |
+| 17 | NVIDIA GTC Taipei 이후 한국 AI 인프라 병목은 어디로 번역되나? | [젠슨 황을 바라보는 한국 증시: 간밤에 무슨 일이 있었나](/ko/post/korea-market-after-gtc-taipei-jensen-huang-naver-ai-factory-2026-06-02/) |
 
 ---
 
@@ -96,6 +98,7 @@ lastmod: 2026-06-03T11:20:00+09:00
 | 펄어비스 / 크림슨 데저트 (게임 섹터 대장주) | [펄어비스 허브](/ko/page/pearl-abyss-crimson-desert-hub/) |
 | 해외 투자자 접근 / IBKR / KRX 기본 지도 | [해외 투자자용 한국 주식 허브](/ko/page/korea-stocks-foreign-investors-hub/) |
 | 삼성전자 + SK하이닉스 + HBM | [한국 반도체 / HBM / KOSPI 허브](/ko/page/korea-semiconductor-hbm-kospi-hub/) |
+| 삼성전자·SK하이닉스·마이크론 상대 PER | [삼하마 패리티](/ko/post/samsung-hynix-micron-forward-per-parity-memory-catch-up-2026-06-03/) |
 | 한국 시총 세계 6위 / Why Korea | [Why Korea 5편: 한국 시총 세계 6위](/ko/post/why-korea-market-cap-global-six-ai-memory-rerating-2026-05-24/) |
 | 외국인 수급 / 메모리 대형주 분배 | [한국증시 외국인 수급 분석](/ko/post/korea-foreign-investor-flow-memory-megacap-rotation-2026-05-24/) |
 | 자금흐름 / ADR / 좁은 주도주 레짐 | [유동성은 많은데 시장 폭은 무너졌다](/ko/post/korea-market-liquidity-foreign-reallocation-adr-narrow-leadership-2026-06-03/) |

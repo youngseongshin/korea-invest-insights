@@ -1,0 +1,304 @@
+date,ticker,name,market,close,eps_2026_like,eps_nexty,per_2026_like,per_headline_forward,eps_source,eps_fetched_at,data_source
+2026-01-02,000660,SK hynix,KR,677000.0,,,,,,,KR: prices_daily + consensus_daily FY2026; US: prices_daily + consensus_daily CURRENTY/NEXTY
+2026-01-05,000660,SK hynix,KR,696000.0,,,,,,,KR: prices_daily + consensus_daily FY2026; US: prices_daily + consensus_daily CURRENTY/NEXTY
+2026-01-06,000660,SK hynix,KR,726000.0,,,,,,,KR: prices_daily + consensus_daily FY2026; US: prices_daily + consensus_daily CURRENTY/NEXTY
+2026-01-07,000660,SK hynix,KR,742000.0,,,,,,,KR: prices_daily + consensus_daily FY2026; US: prices_daily + consensus_daily CURRENTY/NEXTY
+2026-01-08,000660,SK hynix,KR,756000.0,,,,,,,KR: prices_daily + consensus_daily FY2026; US: prices_daily + consensus_daily CURRENTY/NEXTY
+2026-01-09,000660,SK hynix,KR,744000.0,,,,,,,KR: prices_daily + consensus_daily FY2026; US: prices_daily + consensus_daily CURRENTY/NEXTY
+2026-01-12,000660,SK hynix,KR,749000.0,,,,,,,KR: prices_daily + consensus_daily FY2026; US: prices_daily + consensus_daily CURRENTY/NEXTY
+2026-01-13,000660,SK hynix,KR,738000.0,,,,,,,KR: prices_daily + consensus_daily FY2026; US: prices_daily + consensus_daily CURRENTY/NEXTY
+2026-01-14,000660,SK hynix,KR,742000.0,,,,,,,KR: prices_daily + consensus_daily FY2026; US: prices_daily + consensus_daily CURRENTY/NEXTY
+2026-01-15,000660,SK hynix,KR,749000.0,,,,,,,KR: prices_daily + consensus_daily FY2026; US: prices_daily + consensus_daily CURRENTY/NEXTY
+2026-01-16,000660,SK hynix,KR,756000.0,,,,,,,KR: prices_daily + consensus_daily FY2026; US: prices_daily + consensus_daily CURRENTY/NEXTY
+2026-01-19,000660,SK hynix,KR,764000.0,,,,,,,KR: prices_daily + consensus_daily FY2026; US: prices_daily + consensus_daily CURRENTY/NEXTY
+2026-01-20,000660,SK hynix,KR,743000.0,,,,,,,KR: prices_daily + consensus_daily FY2026; US: prices_daily + consensus_daily CURRENTY/NEXTY
+2026-01-21,000660,SK hynix,KR,740000.0,,,,,,,KR: prices_daily + consensus_daily FY2026; US: prices_daily + consensus_daily CURRENTY/NEXTY
+2026-01-22,000660,SK hynix,KR,755000.0,,,,,,,KR: prices_daily + consensus_daily FY2026; US: prices_daily + consensus_daily CURRENTY/NEXTY
+2026-01-23,000660,SK hynix,KR,767000.0,,,,,,,KR: prices_daily + consensus_daily FY2026; US: prices_daily + consensus_daily CURRENTY/NEXTY
+2026-01-26,000660,SK hynix,KR,736000.0,,,,,,,KR: prices_daily + consensus_daily FY2026; US: prices_daily + consensus_daily CURRENTY/NEXTY
+2026-01-27,000660,SK hynix,KR,800000.0,,,,,,,KR: prices_daily + consensus_daily FY2026; US: prices_daily + consensus_daily CURRENTY/NEXTY
+2026-01-28,000660,SK hynix,KR,841000.0,,,,,,,KR: prices_daily + consensus_daily FY2026; US: prices_daily + consensus_daily CURRENTY/NEXTY
+2026-01-29,000660,SK hynix,KR,861000.0,,,,,,,KR: prices_daily + consensus_daily FY2026; US: prices_daily + consensus_daily CURRENTY/NEXTY
+2026-01-30,000660,SK hynix,KR,909000.0,,,,,,,KR: prices_daily + consensus_daily FY2026; US: prices_daily + consensus_daily CURRENTY/NEXTY
+2026-02-02,000660,SK hynix,KR,830000.0,,,,,,,KR: prices_daily + consensus_daily FY2026; US: prices_daily + consensus_daily CURRENTY/NEXTY
+2026-02-03,000660,SK hynix,KR,907000.0,,,,,,,KR: prices_daily + consensus_daily FY2026; US: prices_daily + consensus_daily CURRENTY/NEXTY
+2026-02-04,000660,SK hynix,KR,900000.0,,,,,,,KR: prices_daily + consensus_daily FY2026; US: prices_daily + consensus_daily CURRENTY/NEXTY
+2026-02-05,000660,SK hynix,KR,842000.0,,,,,,,KR: prices_daily + consensus_daily FY2026; US: prices_daily + consensus_daily CURRENTY/NEXTY
+2026-02-06,000660,SK hynix,KR,839000.0,,,,,,,KR: prices_daily + consensus_daily FY2026; US: prices_daily + consensus_daily CURRENTY/NEXTY
+2026-02-09,000660,SK hynix,KR,887000.0,,,,,,,KR: prices_daily + consensus_daily FY2026; US: prices_daily + consensus_daily CURRENTY/NEXTY
+2026-02-10,000660,SK hynix,KR,876000.0,,,,,,,KR: prices_daily + consensus_daily FY2026; US: prices_daily + consensus_daily CURRENTY/NEXTY
+2026-02-11,000660,SK hynix,KR,860000.0,,,,,,,KR: prices_daily + consensus_daily FY2026; US: prices_daily + consensus_daily CURRENTY/NEXTY
+2026-02-12,000660,SK hynix,KR,888000.0,,,,,,,KR: prices_daily + consensus_daily FY2026; US: prices_daily + consensus_daily CURRENTY/NEXTY
+2026-02-13,000660,SK hynix,KR,880000.0,,,,,,,KR: prices_daily + consensus_daily FY2026; US: prices_daily + consensus_daily CURRENTY/NEXTY
+2026-02-19,000660,SK hynix,KR,894000.0,,,,,,,KR: prices_daily + consensus_daily FY2026; US: prices_daily + consensus_daily CURRENTY/NEXTY
+2026-02-20,000660,SK hynix,KR,949000.0,,,,,,,KR: prices_daily + consensus_daily FY2026; US: prices_daily + consensus_daily CURRENTY/NEXTY
+2026-02-23,000660,SK hynix,KR,951000.0,,,,,,,KR: prices_daily + consensus_daily FY2026; US: prices_daily + consensus_daily CURRENTY/NEXTY
+2026-02-24,000660,SK hynix,KR,1005000.0,,,,,,,KR: prices_daily + consensus_daily FY2026; US: prices_daily + consensus_daily CURRENTY/NEXTY
+2026-02-25,000660,SK hynix,KR,1018000.0,,,,,,,KR: prices_daily + consensus_daily FY2026; US: prices_daily + consensus_daily CURRENTY/NEXTY
+2026-02-26,000660,SK hynix,KR,1099000.0,,,,,,,KR: prices_daily + consensus_daily FY2026; US: prices_daily + consensus_daily CURRENTY/NEXTY
+2026-02-27,000660,SK hynix,KR,1061000.0,,,,,,,KR: prices_daily + consensus_daily FY2026; US: prices_daily + consensus_daily CURRENTY/NEXTY
+2026-03-03,000660,SK hynix,KR,939000.0,,,,,,,KR: prices_daily + consensus_daily FY2026; US: prices_daily + consensus_daily CURRENTY/NEXTY
+2026-03-04,000660,SK hynix,KR,849000.0,,,,,,,KR: prices_daily + consensus_daily FY2026; US: prices_daily + consensus_daily CURRENTY/NEXTY
+2026-03-05,000660,SK hynix,KR,941000.0,,,,,,,KR: prices_daily + consensus_daily FY2026; US: prices_daily + consensus_daily CURRENTY/NEXTY
+2026-03-06,000660,SK hynix,KR,924000.0,,,,,,,KR: prices_daily + consensus_daily FY2026; US: prices_daily + consensus_daily CURRENTY/NEXTY
+2026-03-09,000660,SK hynix,KR,836000.0,,,,,,,KR: prices_daily + consensus_daily FY2026; US: prices_daily + consensus_daily CURRENTY/NEXTY
+2026-03-10,000660,SK hynix,KR,938000.0,,,,,,,KR: prices_daily + consensus_daily FY2026; US: prices_daily + consensus_daily CURRENTY/NEXTY
+2026-03-11,000660,SK hynix,KR,955000.0,,,,,,,KR: prices_daily + consensus_daily FY2026; US: prices_daily + consensus_daily CURRENTY/NEXTY
+2026-03-12,000660,SK hynix,KR,930000.0,,,,,,,KR: prices_daily + consensus_daily FY2026; US: prices_daily + consensus_daily CURRENTY/NEXTY
+2026-03-13,000660,SK hynix,KR,910000.0,,,,,,,KR: prices_daily + consensus_daily FY2026; US: prices_daily + consensus_daily CURRENTY/NEXTY
+2026-03-16,000660,SK hynix,KR,974000.0,,,,,,,KR: prices_daily + consensus_daily FY2026; US: prices_daily + consensus_daily CURRENTY/NEXTY
+2026-03-17,000660,SK hynix,KR,970000.0,,,,,,,KR: prices_daily + consensus_daily FY2026; US: prices_daily + consensus_daily CURRENTY/NEXTY
+2026-03-18,000660,SK hynix,KR,1056000.0,,,,,,,KR: prices_daily + consensus_daily FY2026; US: prices_daily + consensus_daily CURRENTY/NEXTY
+2026-03-19,000660,SK hynix,KR,1013000.0,,,,,,,KR: prices_daily + consensus_daily FY2026; US: prices_daily + consensus_daily CURRENTY/NEXTY
+2026-03-20,000660,SK hynix,KR,1007000.0,,,,,,,KR: prices_daily + consensus_daily FY2026; US: prices_daily + consensus_daily CURRENTY/NEXTY
+2026-03-23,000660,SK hynix,KR,933000.0,,,,,,,KR: prices_daily + consensus_daily FY2026; US: prices_daily + consensus_daily CURRENTY/NEXTY
+2026-03-24,000660,SK hynix,KR,986000.0,,,,,,,KR: prices_daily + consensus_daily FY2026; US: prices_daily + consensus_daily CURRENTY/NEXTY
+2026-03-25,000660,SK hynix,KR,995000.0,,,,,,,KR: prices_daily + consensus_daily FY2026; US: prices_daily + consensus_daily CURRENTY/NEXTY
+2026-03-26,000660,SK hynix,KR,933000.0,,,,,,,KR: prices_daily + consensus_daily FY2026; US: prices_daily + consensus_daily CURRENTY/NEXTY
+2026-03-27,000660,SK hynix,KR,922000.0,,,,,,,KR: prices_daily + consensus_daily FY2026; US: prices_daily + consensus_daily CURRENTY/NEXTY
+2026-03-30,000660,SK hynix,KR,873000.0,,,,,,,KR: prices_daily + consensus_daily FY2026; US: prices_daily + consensus_daily CURRENTY/NEXTY
+2026-03-31,000660,SK hynix,KR,807000.0,,,,,,,KR: prices_daily + consensus_daily FY2026; US: prices_daily + consensus_daily CURRENTY/NEXTY
+2026-04-01,000660,SK hynix,KR,893000.0,,,,,,,KR: prices_daily + consensus_daily FY2026; US: prices_daily + consensus_daily CURRENTY/NEXTY
+2026-04-02,000660,SK hynix,KR,830000.0,,,,,,,KR: prices_daily + consensus_daily FY2026; US: prices_daily + consensus_daily CURRENTY/NEXTY
+2026-04-03,000660,SK hynix,KR,876000.0,,,,,,,KR: prices_daily + consensus_daily FY2026; US: prices_daily + consensus_daily CURRENTY/NEXTY
+2026-04-06,000660,SK hynix,KR,886000.0,,,,,,,KR: prices_daily + consensus_daily FY2026; US: prices_daily + consensus_daily CURRENTY/NEXTY
+2026-04-07,000660,SK hynix,KR,916000.0,,,,,,,KR: prices_daily + consensus_daily FY2026; US: prices_daily + consensus_daily CURRENTY/NEXTY
+2026-04-08,000660,SK hynix,KR,1033000.0,,,,,,,KR: prices_daily + consensus_daily FY2026; US: prices_daily + consensus_daily CURRENTY/NEXTY
+2026-04-09,000660,SK hynix,KR,998000.0,,,,,,,KR: prices_daily + consensus_daily FY2026; US: prices_daily + consensus_daily CURRENTY/NEXTY
+2026-04-10,000660,SK hynix,KR,1027000.0,,,,,,,KR: prices_daily + consensus_daily FY2026; US: prices_daily + consensus_daily CURRENTY/NEXTY
+2026-04-13,000660,SK hynix,KR,1040000.0,,,,,,,KR: prices_daily + consensus_daily FY2026; US: prices_daily + consensus_daily CURRENTY/NEXTY
+2026-04-14,000660,SK hynix,KR,1103000.0,220159.0,,5.010015488805817,5.010015488805817,naver,2026-04-14T15:59:55,KR: prices_daily + consensus_daily FY2026; US: prices_daily + consensus_daily CURRENTY/NEXTY
+2026-04-15,000660,SK hynix,KR,1136000.0,220159.0,,5.15990715800853,5.15990715800853,naver,2026-04-15T16:02:06,KR: prices_daily + consensus_daily FY2026; US: prices_daily + consensus_daily CURRENTY/NEXTY
+2026-04-16,000660,SK hynix,KR,1155000.0,224066.0,,5.154731195272821,5.154731195272821,naver,2026-04-16T16:02:47,KR: prices_daily + consensus_daily FY2026; US: prices_daily + consensus_daily CURRENTY/NEXTY
+2026-04-17,000660,SK hynix,KR,1128000.0,224066.0,,5.034230985513197,5.034230985513197,naver,2026-04-17T16:04:27,KR: prices_daily + consensus_daily FY2026; US: prices_daily + consensus_daily CURRENTY/NEXTY
+2026-04-20,000660,SK hynix,KR,1166000.0,224066.0,,5.203823873323039,5.203823873323039,naver,2026-04-20T16:03:49,KR: prices_daily + consensus_daily FY2026; US: prices_daily + consensus_daily CURRENTY/NEXTY
+2026-04-21,000660,SK hynix,KR,1224000.0,229302.0,,5.337938613705942,5.337938613705942,naver,2026-04-21T16:04:02,KR: prices_daily + consensus_daily FY2026; US: prices_daily + consensus_daily CURRENTY/NEXTY
+2026-04-22,000660,SK hynix,KR,1223000.0,236494.0,,5.171378555058479,5.171378555058479,naver,2026-04-22T16:04:03,KR: prices_daily + consensus_daily FY2026; US: prices_daily + consensus_daily CURRENTY/NEXTY
+2026-04-23,000660,SK hynix,KR,1225000.0,236494.0,,5.179835429228649,5.179835429228649,naver,2026-04-23T16:16:19,KR: prices_daily + consensus_daily FY2026; US: prices_daily + consensus_daily CURRENTY/NEXTY
+2026-04-24,000660,SK hynix,KR,1222000.0,237486.0,,5.145566475497503,5.145566475497503,naver,2026-04-24T16:24:24,KR: prices_daily + consensus_daily FY2026; US: prices_daily + consensus_daily CURRENTY/NEXTY
+2026-04-27,000660,SK hynix,KR,1292000.0,276486.0,,4.672930998314562,4.672930998314562,naver,2026-04-27T16:14:13,KR: prices_daily + consensus_daily FY2026; US: prices_daily + consensus_daily CURRENTY/NEXTY
+2026-04-28,000660,SK hynix,KR,1300000.0,279612.0,,4.649299743930876,4.649299743930876,naver,2026-04-28T16:16:33,KR: prices_daily + consensus_daily FY2026; US: prices_daily + consensus_daily CURRENTY/NEXTY
+2026-04-29,000660,SK hynix,KR,1293000.0,279612.0,,4.624265053002017,4.624265053002017,naver,2026-04-28T16:16:33,KR: prices_daily + consensus_daily FY2026; US: prices_daily + consensus_daily CURRENTY/NEXTY
+2026-04-30,000660,SK hynix,KR,1286000.0,279612.0,,4.5992303620731585,4.5992303620731585,naver,2026-04-28T16:16:33,KR: prices_daily + consensus_daily FY2026; US: prices_daily + consensus_daily CURRENTY/NEXTY
+2026-05-04,000660,SK hynix,KR,1447000.0,285474.0,,5.068762829539643,5.068762829539643,naver,2026-05-04T16:15:25,KR: prices_daily + consensus_daily FY2026; US: prices_daily + consensus_daily CURRENTY/NEXTY
+2026-05-06,000660,SK hynix,KR,1601000.0,286170.0,,5.594576650242862,5.594576650242862,naver,2026-05-06T16:17:42,KR: prices_daily + consensus_daily FY2026; US: prices_daily + consensus_daily CURRENTY/NEXTY
+2026-05-07,000660,SK hynix,KR,1654000.0,286170.0,,5.779781248907992,5.779781248907992,naver,2026-05-07T16:19:47,KR: prices_daily + consensus_daily FY2026; US: prices_daily + consensus_daily CURRENTY/NEXTY
+2026-05-08,000660,SK hynix,KR,1686000.0,287185.0,,5.870780159130874,5.870780159130874,naver,2026-05-10T21:57:56,KR: prices_daily + consensus_daily FY2026; US: prices_daily + consensus_daily CURRENTY/NEXTY
+2026-05-11,000660,SK hynix,KR,1880000.0,287185.0,,6.546302905792434,6.546302905792434,naver,2026-05-11T16:24:24,KR: prices_daily + consensus_daily FY2026; US: prices_daily + consensus_daily CURRENTY/NEXTY
+2026-05-12,000660,SK hynix,KR,1835000.0,290404.0,,6.318783487830746,6.318783487830746,naver,2026-05-12T16:24:26,KR: prices_daily + consensus_daily FY2026; US: prices_daily + consensus_daily CURRENTY/NEXTY
+2026-05-13,000660,SK hynix,KR,1976000.0,290980.0,,6.790844731596673,6.790844731596673,naver,2026-05-13T16:24:24,KR: prices_daily + consensus_daily FY2026; US: prices_daily + consensus_daily CURRENTY/NEXTY
+2026-05-14,000660,SK hynix,KR,1970000.0,291777.0,,6.751731630663143,6.751731630663143,naver,2026-05-14T16:24:24,KR: prices_daily + consensus_daily FY2026; US: prices_daily + consensus_daily CURRENTY/NEXTY
+2026-05-15,000660,SK hynix,KR,1819000.0,291777.0,,6.2342131148102835,6.2342131148102835,naver,2026-05-15T16:24:26,KR: prices_daily + consensus_daily FY2026; US: prices_daily + consensus_daily CURRENTY/NEXTY
+2026-05-18,000660,SK hynix,KR,1840000.0,292970.0,,6.280506536505444,6.280506536505444,naver,2026-05-18T16:24:25,KR: prices_daily + consensus_daily FY2026; US: prices_daily + consensus_daily CURRENTY/NEXTY
+2026-05-19,000660,SK hynix,KR,1745000.0,295485.0,,5.905545120733709,5.905545120733709,naver,2026-05-19T16:24:27,KR: prices_daily + consensus_daily FY2026; US: prices_daily + consensus_daily CURRENTY/NEXTY
+2026-05-20,000660,SK hynix,KR,1745000.0,295485.0,,5.905545120733709,5.905545120733709,naver,2026-05-20T16:24:25,KR: prices_daily + consensus_daily FY2026; US: prices_daily + consensus_daily CURRENTY/NEXTY
+2026-05-21,000660,SK hynix,KR,1940000.0,295733.0,,6.559971325486165,6.559971325486165,naver,2026-05-21T16:24:23,KR: prices_daily + consensus_daily FY2026; US: prices_daily + consensus_daily CURRENTY/NEXTY
+2026-05-22,000660,SK hynix,KR,1941000.0,296287.0,,6.551080540151947,6.551080540151947,naver,2026-05-25T16:24:28,KR: prices_daily + consensus_daily FY2026; US: prices_daily + consensus_daily CURRENTY/NEXTY
+2026-05-26,000660,SK hynix,KR,2052000.0,296287.0,,6.925717294380111,6.925717294380111,naver,2026-05-26T16:24:24,KR: prices_daily + consensus_daily FY2026; US: prices_daily + consensus_daily CURRENTY/NEXTY
+2026-05-27,000660,SK hynix,KR,2243000.0,296550.0,,7.563648625864104,7.563648625864104,naver,2026-05-27T16:24:27,KR: prices_daily + consensus_daily FY2026; US: prices_daily + consensus_daily CURRENTY/NEXTY
+2026-05-28,000660,SK hynix,KR,2289000.0,298475.0,,7.668984002010219,7.668984002010219,naver,2026-05-28T16:24:24,KR: prices_daily + consensus_daily FY2026; US: prices_daily + consensus_daily CURRENTY/NEXTY
+2026-05-29,000660,SK hynix,KR,2333000.0,298495.0,,7.815876312836061,7.815876312836061,naver,2026-05-29T16:24:26,KR: prices_daily + consensus_daily FY2026; US: prices_daily + consensus_daily CURRENTY/NEXTY
+2026-06-01,000660,SK hynix,KR,2363000.0,298954.0,,7.904226068224543,7.904226068224543,naver,2026-06-01T16:24:26,KR: prices_daily + consensus_daily FY2026; US: prices_daily + consensus_daily CURRENTY/NEXTY
+2026-01-02,005930,Samsung Electronics,KR,128500.0,,,,,,,KR: prices_daily + consensus_daily FY2026; US: prices_daily + consensus_daily CURRENTY/NEXTY
+2026-01-05,005930,Samsung Electronics,KR,138100.0,,,,,,,KR: prices_daily + consensus_daily FY2026; US: prices_daily + consensus_daily CURRENTY/NEXTY
+2026-01-06,005930,Samsung Electronics,KR,138900.0,,,,,,,KR: prices_daily + consensus_daily FY2026; US: prices_daily + consensus_daily CURRENTY/NEXTY
+2026-01-07,005930,Samsung Electronics,KR,141000.0,,,,,,,KR: prices_daily + consensus_daily FY2026; US: prices_daily + consensus_daily CURRENTY/NEXTY
+2026-01-08,005930,Samsung Electronics,KR,138800.0,,,,,,,KR: prices_daily + consensus_daily FY2026; US: prices_daily + consensus_daily CURRENTY/NEXTY
+2026-01-09,005930,Samsung Electronics,KR,139000.0,,,,,,,KR: prices_daily + consensus_daily FY2026; US: prices_daily + consensus_daily CURRENTY/NEXTY
+2026-01-12,005930,Samsung Electronics,KR,138800.0,,,,,,,KR: prices_daily + consensus_daily FY2026; US: prices_daily + consensus_daily CURRENTY/NEXTY
+2026-01-13,005930,Samsung Electronics,KR,137600.0,,,,,,,KR: prices_daily + consensus_daily FY2026; US: prices_daily + consensus_daily CURRENTY/NEXTY
+2026-01-14,005930,Samsung Electronics,KR,140300.0,,,,,,,KR: prices_daily + consensus_daily FY2026; US: prices_daily + consensus_daily CURRENTY/NEXTY
+2026-01-15,005930,Samsung Electronics,KR,143900.0,,,,,,,KR: prices_daily + consensus_daily FY2026; US: prices_daily + consensus_daily CURRENTY/NEXTY
+2026-01-16,005930,Samsung Electronics,KR,148900.0,,,,,,,KR: prices_daily + consensus_daily FY2026; US: prices_daily + consensus_daily CURRENTY/NEXTY
+2026-01-19,005930,Samsung Electronics,KR,149300.0,,,,,,,KR: prices_daily + consensus_daily FY2026; US: prices_daily + consensus_daily CURRENTY/NEXTY
+2026-01-20,005930,Samsung Electronics,KR,145200.0,,,,,,,KR: prices_daily + consensus_daily FY2026; US: prices_daily + consensus_daily CURRENTY/NEXTY
+2026-01-21,005930,Samsung Electronics,KR,149500.0,,,,,,,KR: prices_daily + consensus_daily FY2026; US: prices_daily + consensus_daily CURRENTY/NEXTY
+2026-01-22,005930,Samsung Electronics,KR,152300.0,,,,,,,KR: prices_daily + consensus_daily FY2026; US: prices_daily + consensus_daily CURRENTY/NEXTY
+2026-01-23,005930,Samsung Electronics,KR,152100.0,,,,,,,KR: prices_daily + consensus_daily FY2026; US: prices_daily + consensus_daily CURRENTY/NEXTY
+2026-01-26,005930,Samsung Electronics,KR,152100.0,,,,,,,KR: prices_daily + consensus_daily FY2026; US: prices_daily + consensus_daily CURRENTY/NEXTY
+2026-01-27,005930,Samsung Electronics,KR,159500.0,,,,,,,KR: prices_daily + consensus_daily FY2026; US: prices_daily + consensus_daily CURRENTY/NEXTY
+2026-01-28,005930,Samsung Electronics,KR,162400.0,,,,,,,KR: prices_daily + consensus_daily FY2026; US: prices_daily + consensus_daily CURRENTY/NEXTY
+2026-01-29,005930,Samsung Electronics,KR,160700.0,,,,,,,KR: prices_daily + consensus_daily FY2026; US: prices_daily + consensus_daily CURRENTY/NEXTY
+2026-01-30,005930,Samsung Electronics,KR,160500.0,,,,,,,KR: prices_daily + consensus_daily FY2026; US: prices_daily + consensus_daily CURRENTY/NEXTY
+2026-02-02,005930,Samsung Electronics,KR,150400.0,,,,,,,KR: prices_daily + consensus_daily FY2026; US: prices_daily + consensus_daily CURRENTY/NEXTY
+2026-02-03,005930,Samsung Electronics,KR,167500.0,,,,,,,KR: prices_daily + consensus_daily FY2026; US: prices_daily + consensus_daily CURRENTY/NEXTY
+2026-02-04,005930,Samsung Electronics,KR,169100.0,,,,,,,KR: prices_daily + consensus_daily FY2026; US: prices_daily + consensus_daily CURRENTY/NEXTY
+2026-02-05,005930,Samsung Electronics,KR,159300.0,,,,,,,KR: prices_daily + consensus_daily FY2026; US: prices_daily + consensus_daily CURRENTY/NEXTY
+2026-02-06,005930,Samsung Electronics,KR,158600.0,,,,,,,KR: prices_daily + consensus_daily FY2026; US: prices_daily + consensus_daily CURRENTY/NEXTY
+2026-02-09,005930,Samsung Electronics,KR,166400.0,,,,,,,KR: prices_daily + consensus_daily FY2026; US: prices_daily + consensus_daily CURRENTY/NEXTY
+2026-02-10,005930,Samsung Electronics,KR,165800.0,,,,,,,KR: prices_daily + consensus_daily FY2026; US: prices_daily + consensus_daily CURRENTY/NEXTY
+2026-02-11,005930,Samsung Electronics,KR,167800.0,,,,,,,KR: prices_daily + consensus_daily FY2026; US: prices_daily + consensus_daily CURRENTY/NEXTY
+2026-02-12,005930,Samsung Electronics,KR,178600.0,,,,,,,KR: prices_daily + consensus_daily FY2026; US: prices_daily + consensus_daily CURRENTY/NEXTY
+2026-02-13,005930,Samsung Electronics,KR,181200.0,,,,,,,KR: prices_daily + consensus_daily FY2026; US: prices_daily + consensus_daily CURRENTY/NEXTY
+2026-02-19,005930,Samsung Electronics,KR,190000.0,,,,,,,KR: prices_daily + consensus_daily FY2026; US: prices_daily + consensus_daily CURRENTY/NEXTY
+2026-02-20,005930,Samsung Electronics,KR,190100.0,,,,,,,KR: prices_daily + consensus_daily FY2026; US: prices_daily + consensus_daily CURRENTY/NEXTY
+2026-02-23,005930,Samsung Electronics,KR,193000.0,,,,,,,KR: prices_daily + consensus_daily FY2026; US: prices_daily + consensus_daily CURRENTY/NEXTY
+2026-02-24,005930,Samsung Electronics,KR,200000.0,,,,,,,KR: prices_daily + consensus_daily FY2026; US: prices_daily + consensus_daily CURRENTY/NEXTY
+2026-02-25,005930,Samsung Electronics,KR,203500.0,,,,,,,KR: prices_daily + consensus_daily FY2026; US: prices_daily + consensus_daily CURRENTY/NEXTY
+2026-02-26,005930,Samsung Electronics,KR,218000.0,,,,,,,KR: prices_daily + consensus_daily FY2026; US: prices_daily + consensus_daily CURRENTY/NEXTY
+2026-02-27,005930,Samsung Electronics,KR,216500.0,,,,,,,KR: prices_daily + consensus_daily FY2026; US: prices_daily + consensus_daily CURRENTY/NEXTY
+2026-03-03,005930,Samsung Electronics,KR,195100.0,,,,,,,KR: prices_daily + consensus_daily FY2026; US: prices_daily + consensus_daily CURRENTY/NEXTY
+2026-03-04,005930,Samsung Electronics,KR,172200.0,,,,,,,KR: prices_daily + consensus_daily FY2026; US: prices_daily + consensus_daily CURRENTY/NEXTY
+2026-03-05,005930,Samsung Electronics,KR,191600.0,,,,,,,KR: prices_daily + consensus_daily FY2026; US: prices_daily + consensus_daily CURRENTY/NEXTY
+2026-03-06,005930,Samsung Electronics,KR,188200.0,,,,,,,KR: prices_daily + consensus_daily FY2026; US: prices_daily + consensus_daily CURRENTY/NEXTY
+2026-03-09,005930,Samsung Electronics,KR,173500.0,,,,,,,KR: prices_daily + consensus_daily FY2026; US: prices_daily + consensus_daily CURRENTY/NEXTY
+2026-03-10,005930,Samsung Electronics,KR,187900.0,,,,,,,KR: prices_daily + consensus_daily FY2026; US: prices_daily + consensus_daily CURRENTY/NEXTY
+2026-03-11,005930,Samsung Electronics,KR,190000.0,,,,,,,KR: prices_daily + consensus_daily FY2026; US: prices_daily + consensus_daily CURRENTY/NEXTY
+2026-03-12,005930,Samsung Electronics,KR,187900.0,,,,,,,KR: prices_daily + consensus_daily FY2026; US: prices_daily + consensus_daily CURRENTY/NEXTY
+2026-03-13,005930,Samsung Electronics,KR,183500.0,,,,,,,KR: prices_daily + consensus_daily FY2026; US: prices_daily + consensus_daily CURRENTY/NEXTY
+2026-03-16,005930,Samsung Electronics,KR,188700.0,,,,,,,KR: prices_daily + consensus_daily FY2026; US: prices_daily + consensus_daily CURRENTY/NEXTY
+2026-03-17,005930,Samsung Electronics,KR,193900.0,,,,,,,KR: prices_daily + consensus_daily FY2026; US: prices_daily + consensus_daily CURRENTY/NEXTY
+2026-03-18,005930,Samsung Electronics,KR,208500.0,,,,,,,KR: prices_daily + consensus_daily FY2026; US: prices_daily + consensus_daily CURRENTY/NEXTY
+2026-03-19,005930,Samsung Electronics,KR,200500.0,,,,,,,KR: prices_daily + consensus_daily FY2026; US: prices_daily + consensus_daily CURRENTY/NEXTY
+2026-03-20,005930,Samsung Electronics,KR,199400.0,,,,,,,KR: prices_daily + consensus_daily FY2026; US: prices_daily + consensus_daily CURRENTY/NEXTY
+2026-03-23,005930,Samsung Electronics,KR,186300.0,,,,,,,KR: prices_daily + consensus_daily FY2026; US: prices_daily + consensus_daily CURRENTY/NEXTY
+2026-03-24,005930,Samsung Electronics,KR,189700.0,,,,,,,KR: prices_daily + consensus_daily FY2026; US: prices_daily + consensus_daily CURRENTY/NEXTY
+2026-03-25,005930,Samsung Electronics,KR,189000.0,,,,,,,KR: prices_daily + consensus_daily FY2026; US: prices_daily + consensus_daily CURRENTY/NEXTY
+2026-03-26,005930,Samsung Electronics,KR,180100.0,,,,,,,KR: prices_daily + consensus_daily FY2026; US: prices_daily + consensus_daily CURRENTY/NEXTY
+2026-03-27,005930,Samsung Electronics,KR,179700.0,,,,,,,KR: prices_daily + consensus_daily FY2026; US: prices_daily + consensus_daily CURRENTY/NEXTY
+2026-03-30,005930,Samsung Electronics,KR,176300.0,,,,,,,KR: prices_daily + consensus_daily FY2026; US: prices_daily + consensus_daily CURRENTY/NEXTY
+2026-03-31,005930,Samsung Electronics,KR,167200.0,,,,,,,KR: prices_daily + consensus_daily FY2026; US: prices_daily + consensus_daily CURRENTY/NEXTY
+2026-04-01,005930,Samsung Electronics,KR,189600.0,,,,,,,KR: prices_daily + consensus_daily FY2026; US: prices_daily + consensus_daily CURRENTY/NEXTY
+2026-04-02,005930,Samsung Electronics,KR,178400.0,,,,,,,KR: prices_daily + consensus_daily FY2026; US: prices_daily + consensus_daily CURRENTY/NEXTY
+2026-04-03,005930,Samsung Electronics,KR,186200.0,,,,,,,KR: prices_daily + consensus_daily FY2026; US: prices_daily + consensus_daily CURRENTY/NEXTY
+2026-04-06,005930,Samsung Electronics,KR,193100.0,,,,,,,KR: prices_daily + consensus_daily FY2026; US: prices_daily + consensus_daily CURRENTY/NEXTY
+2026-04-07,005930,Samsung Electronics,KR,196500.0,,,,,,,KR: prices_daily + consensus_daily FY2026; US: prices_daily + consensus_daily CURRENTY/NEXTY
+2026-04-08,005930,Samsung Electronics,KR,210500.0,,,,,,,KR: prices_daily + consensus_daily FY2026; US: prices_daily + consensus_daily CURRENTY/NEXTY
+2026-04-09,005930,Samsung Electronics,KR,204000.0,,,,,,,KR: prices_daily + consensus_daily FY2026; US: prices_daily + consensus_daily CURRENTY/NEXTY
+2026-04-10,005930,Samsung Electronics,KR,206000.0,,,,,,,KR: prices_daily + consensus_daily FY2026; US: prices_daily + consensus_daily CURRENTY/NEXTY
+2026-04-13,005930,Samsung Electronics,KR,201000.0,,,,,,,KR: prices_daily + consensus_daily FY2026; US: prices_daily + consensus_daily CURRENTY/NEXTY
+2026-04-14,005930,Samsung Electronics,KR,206500.0,36119.0,,5.717212547412719,5.717212547412719,naver,2026-04-14T15:59:55,KR: prices_daily + consensus_daily FY2026; US: prices_daily + consensus_daily CURRENTY/NEXTY
+2026-04-15,005930,Samsung Electronics,KR,211000.0,36119.0,,5.84180071430549,5.84180071430549,naver,2026-04-15T16:02:06,KR: prices_daily + consensus_daily FY2026; US: prices_daily + consensus_daily CURRENTY/NEXTY
+2026-04-16,005930,Samsung Electronics,KR,217500.0,36464.0,,5.964787187362878,5.964787187362878,naver,2026-04-16T16:02:47,KR: prices_daily + consensus_daily FY2026; US: prices_daily + consensus_daily CURRENTY/NEXTY
+2026-04-17,005930,Samsung Electronics,KR,216000.0,36464.0,,5.923650724001755,5.923650724001755,naver,2026-04-17T16:04:27,KR: prices_daily + consensus_daily FY2026; US: prices_daily + consensus_daily CURRENTY/NEXTY
+2026-04-20,005930,Samsung Electronics,KR,214500.0,36464.0,,5.882514260640632,5.882514260640632,naver,2026-04-20T16:03:49,KR: prices_daily + consensus_daily FY2026; US: prices_daily + consensus_daily CURRENTY/NEXTY
+2026-04-21,005930,Samsung Electronics,KR,219000.0,36464.0,,6.005923650724002,6.005923650724002,naver,2026-04-21T16:04:02,KR: prices_daily + consensus_daily FY2026; US: prices_daily + consensus_daily CURRENTY/NEXTY
+2026-04-22,005930,Samsung Electronics,KR,217500.0,36745.0,,5.919172676554633,5.919172676554633,naver,2026-04-22T16:04:03,KR: prices_daily + consensus_daily FY2026; US: prices_daily + consensus_daily CURRENTY/NEXTY
+2026-04-23,005930,Samsung Electronics,KR,224500.0,36745.0,,6.109674785685127,6.109674785685127,naver,2026-04-23T16:16:19,KR: prices_daily + consensus_daily FY2026; US: prices_daily + consensus_daily CURRENTY/NEXTY
+2026-04-24,005930,Samsung Electronics,KR,219500.0,36745.0,,5.973601850591917,5.973601850591917,naver,2026-04-24T16:24:24,KR: prices_daily + consensus_daily FY2026; US: prices_daily + consensus_daily CURRENTY/NEXTY
+2026-04-27,005930,Samsung Electronics,KR,224500.0,36745.0,,6.109674785685127,6.109674785685127,naver,2026-04-27T16:14:13,KR: prices_daily + consensus_daily FY2026; US: prices_daily + consensus_daily CURRENTY/NEXTY
+2026-04-28,005930,Samsung Electronics,KR,222000.0,37334.0,,5.94632238710023,5.94632238710023,naver,2026-04-28T16:16:33,KR: prices_daily + consensus_daily FY2026; US: prices_daily + consensus_daily CURRENTY/NEXTY
+2026-04-29,005930,Samsung Electronics,KR,226000.0,37334.0,,6.053463331011947,6.053463331011947,naver,2026-04-28T16:16:33,KR: prices_daily + consensus_daily FY2026; US: prices_daily + consensus_daily CURRENTY/NEXTY
+2026-04-30,005930,Samsung Electronics,KR,220500.0,37334.0,,5.906144533133337,5.906144533133337,naver,2026-04-28T16:16:33,KR: prices_daily + consensus_daily FY2026; US: prices_daily + consensus_daily CURRENTY/NEXTY
+2026-05-04,005930,Samsung Electronics,KR,232500.0,38055.0,,6.109578242018132,6.109578242018132,naver,2026-05-04T16:15:25,KR: prices_daily + consensus_daily FY2026; US: prices_daily + consensus_daily CURRENTY/NEXTY
+2026-05-06,005930,Samsung Electronics,KR,266000.0,40286.0,,6.602790051134389,6.602790051134389,naver,2026-05-06T16:17:42,KR: prices_daily + consensus_daily FY2026; US: prices_daily + consensus_daily CURRENTY/NEXTY
+2026-05-07,005930,Samsung Electronics,KR,271500.0,41493.0,,6.543272359193117,6.543272359193117,naver,2026-05-07T16:19:47,KR: prices_daily + consensus_daily FY2026; US: prices_daily + consensus_daily CURRENTY/NEXTY
+2026-05-08,005930,Samsung Electronics,KR,268500.0,41546.0,,6.462716025610167,6.462716025610167,naver,2026-05-10T21:57:56,KR: prices_daily + consensus_daily FY2026; US: prices_daily + consensus_daily CURRENTY/NEXTY
+2026-05-11,005930,Samsung Electronics,KR,285500.0,41546.0,,6.87190102536947,6.87190102536947,naver,2026-05-11T16:24:24,KR: prices_daily + consensus_daily FY2026; US: prices_daily + consensus_daily CURRENTY/NEXTY
+2026-05-12,005930,Samsung Electronics,KR,279000.0,41972.0,,6.647288668636234,6.647288668636234,naver,2026-05-12T16:24:26,KR: prices_daily + consensus_daily FY2026; US: prices_daily + consensus_daily CURRENTY/NEXTY
+2026-05-13,005930,Samsung Electronics,KR,284000.0,41972.0,,6.766415705708567,6.766415705708567,naver,2026-05-13T16:24:24,KR: prices_daily + consensus_daily FY2026; US: prices_daily + consensus_daily CURRENTY/NEXTY
+2026-05-14,005930,Samsung Electronics,KR,296000.0,42022.0,,7.043929370329828,7.043929370329828,naver,2026-05-14T16:24:24,KR: prices_daily + consensus_daily FY2026; US: prices_daily + consensus_daily CURRENTY/NEXTY
+2026-05-15,005930,Samsung Electronics,KR,270500.0,42022.0,,6.437104373899386,6.437104373899386,naver,2026-05-15T16:24:26,KR: prices_daily + consensus_daily FY2026; US: prices_daily + consensus_daily CURRENTY/NEXTY
+2026-05-18,005930,Samsung Electronics,KR,281000.0,42216.0,,6.656244078074663,6.656244078074663,naver,2026-05-18T16:24:25,KR: prices_daily + consensus_daily FY2026; US: prices_daily + consensus_daily CURRENTY/NEXTY
+2026-05-19,005930,Samsung Electronics,KR,275500.0,42571.0,,6.471541659815367,6.471541659815367,naver,2026-05-19T16:24:27,KR: prices_daily + consensus_daily FY2026; US: prices_daily + consensus_daily CURRENTY/NEXTY
+2026-05-20,005930,Samsung Electronics,KR,276000.0,42571.0,,6.483286744497428,6.483286744497428,naver,2026-05-20T16:24:25,KR: prices_daily + consensus_daily FY2026; US: prices_daily + consensus_daily CURRENTY/NEXTY
+2026-05-21,005930,Samsung Electronics,KR,299500.0,42769.0,,7.002735626271365,7.002735626271365,naver,2026-05-21T16:24:23,KR: prices_daily + consensus_daily FY2026; US: prices_daily + consensus_daily CURRENTY/NEXTY
+2026-05-22,005930,Samsung Electronics,KR,292500.0,42966.0,,6.807708420611647,6.807708420611647,naver,2026-05-25T16:24:28,KR: prices_daily + consensus_daily FY2026; US: prices_daily + consensus_daily CURRENTY/NEXTY
+2026-05-26,005930,Samsung Electronics,KR,299000.0,42966.0,,6.958990829958572,6.958990829958572,naver,2026-05-26T16:24:24,KR: prices_daily + consensus_daily FY2026; US: prices_daily + consensus_daily CURRENTY/NEXTY
+2026-05-27,005930,Samsung Electronics,KR,307000.0,43004.0,,7.138870802716027,7.138870802716027,naver,2026-05-27T16:24:27,KR: prices_daily + consensus_daily FY2026; US: prices_daily + consensus_daily CURRENTY/NEXTY
+2026-05-28,005930,Samsung Electronics,KR,299500.0,43137.0,,6.942995572246564,6.942995572246564,naver,2026-05-28T16:24:24,KR: prices_daily + consensus_daily FY2026; US: prices_daily + consensus_daily CURRENTY/NEXTY
+2026-05-29,005930,Samsung Electronics,KR,317000.0,43098.0,,7.3553297136758085,7.3553297136758085,naver,2026-05-29T16:24:26,KR: prices_daily + consensus_daily FY2026; US: prices_daily + consensus_daily CURRENTY/NEXTY
+2026-06-01,005930,Samsung Electronics,KR,349000.0,43098.0,,8.097823564898603,8.097823564898603,naver,2026-06-01T16:24:26,KR: prices_daily + consensus_daily FY2026; US: prices_daily + consensus_daily CURRENTY/NEXTY
+2026-01-02,MU,Micron,US,315.4200134277344,,,,,,,KR: prices_daily + consensus_daily FY2026; US: prices_daily + consensus_daily CURRENTY/NEXTY
+2026-01-05,MU,Micron,US,312.1499938964844,,,,,,,KR: prices_daily + consensus_daily FY2026; US: prices_daily + consensus_daily CURRENTY/NEXTY
+2026-01-06,MU,Micron,US,343.42999267578125,,,,,,,KR: prices_daily + consensus_daily FY2026; US: prices_daily + consensus_daily CURRENTY/NEXTY
+2026-01-07,MU,Micron,US,339.54998779296875,,,,,,,KR: prices_daily + consensus_daily FY2026; US: prices_daily + consensus_daily CURRENTY/NEXTY
+2026-01-08,MU,Micron,US,327.0199890136719,,,,,,,KR: prices_daily + consensus_daily FY2026; US: prices_daily + consensus_daily CURRENTY/NEXTY
+2026-01-09,MU,Micron,US,345.0899963378906,,,,,,,KR: prices_daily + consensus_daily FY2026; US: prices_daily + consensus_daily CURRENTY/NEXTY
+2026-01-12,MU,Micron,US,345.8699951171875,,,,,,,KR: prices_daily + consensus_daily FY2026; US: prices_daily + consensus_daily CURRENTY/NEXTY
+2026-01-13,MU,Micron,US,338.1300048828125,,,,,,,KR: prices_daily + consensus_daily FY2026; US: prices_daily + consensus_daily CURRENTY/NEXTY
+2026-01-14,MU,Micron,US,333.3500061035156,,,,,,,KR: prices_daily + consensus_daily FY2026; US: prices_daily + consensus_daily CURRENTY/NEXTY
+2026-01-15,MU,Micron,US,336.6300048828125,,,,,,,KR: prices_daily + consensus_daily FY2026; US: prices_daily + consensus_daily CURRENTY/NEXTY
+2026-01-16,MU,Micron,US,362.75,32.62527,41.32815,11.118681929682115,8.777310380454969,yfinance_backfill,2026-04-16T20:48:37,KR: prices_daily + consensus_daily FY2026; US: prices_daily + consensus_daily CURRENTY/NEXTY
+2026-01-20,MU,Micron,US,365.0,32.62527,41.32815,11.187646876179109,8.83175269156737,yfinance_backfill,2026-04-16T20:48:37,KR: prices_daily + consensus_daily FY2026; US: prices_daily + consensus_daily CURRENTY/NEXTY
+2026-01-21,MU,Micron,US,389.1099853515625,32.62527,41.32815,11.926644142763033,9.415131946423019,yfinance_backfill,2026-04-16T20:48:37,KR: prices_daily + consensus_daily FY2026; US: prices_daily + consensus_daily CURRENTY/NEXTY
+2026-01-22,MU,Micron,US,397.5799865722656,32.62527,41.32815,12.18625888988093,9.620077031569659,yfinance_backfill,2026-04-16T20:48:37,KR: prices_daily + consensus_daily FY2026; US: prices_daily + consensus_daily CURRENTY/NEXTY
+2026-01-23,MU,Micron,US,399.6499938964844,32.62527,41.32815,12.249706865153433,9.670164135014133,yfinance_backfill,2026-04-16T20:48:37,KR: prices_daily + consensus_daily FY2026; US: prices_daily + consensus_daily CURRENTY/NEXTY
+2026-01-26,MU,Micron,US,389.0899963378906,32.62527,41.32815,11.926031457759295,9.414648280600284,yfinance_backfill,2026-04-16T20:48:37,KR: prices_daily + consensus_daily FY2026; US: prices_daily + consensus_daily CURRENTY/NEXTY
+2026-01-27,MU,Micron,US,410.239990234375,32.62527,41.32815,12.574301767751654,9.926405857372638,yfinance_backfill,2026-04-16T20:48:37,KR: prices_daily + consensus_daily FY2026; US: prices_daily + consensus_daily CURRENTY/NEXTY
+2026-01-28,MU,Micron,US,435.2799987792969,32.62527,41.32815,13.34180525645602,10.532288495354786,yfinance_backfill,2026-04-16T20:48:37,KR: prices_daily + consensus_daily FY2026; US: prices_daily + consensus_daily CURRENTY/NEXTY
+2026-01-29,MU,Micron,US,435.7900085449219,32.62527,41.32815,13.357437610322362,10.544628988835017,yfinance_backfill,2026-04-16T20:48:37,KR: prices_daily + consensus_daily FY2026; US: prices_daily + consensus_daily CURRENTY/NEXTY
+2026-01-30,MU,Micron,US,414.8800048828125,32.62527,41.32815,12.71652326196266,10.038678355619899,yfinance_backfill,2026-04-16T20:48:37,KR: prices_daily + consensus_daily FY2026; US: prices_daily + consensus_daily CURRENTY/NEXTY
+2026-02-02,MU,Micron,US,437.79998779296875,32.62527,41.32815,13.41904565978975,10.593263617969077,yfinance_backfill,2026-04-16T20:48:37,KR: prices_daily + consensus_daily FY2026; US: prices_daily + consensus_daily CURRENTY/NEXTY
+2026-02-03,MU,Micron,US,419.44000244140625,32.62527,41.32815,12.856292145364812,10.14901471373401,yfinance_backfill,2026-04-16T20:48:37,KR: prices_daily + consensus_daily FY2026; US: prices_daily + consensus_daily CURRENTY/NEXTY
+2026-02-04,MU,Micron,US,379.3999938964844,32.62527,41.32815,11.629022346680483,9.18018333500252,yfinance_backfill,2026-04-16T20:48:37,KR: prices_daily + consensus_daily FY2026; US: prices_daily + consensus_daily CURRENTY/NEXTY
+2026-02-05,MU,Micron,US,382.8900146484375,32.62527,41.32815,11.735995277539082,9.264629910809884,yfinance_backfill,2026-04-16T20:48:37,KR: prices_daily + consensus_daily FY2026; US: prices_daily + consensus_daily CURRENTY/NEXTY
+2026-02-06,MU,Micron,US,394.69000244140625,32.62527,41.32815,12.097677733897873,9.550149291497593,yfinance_backfill,2026-04-16T20:48:37,KR: prices_daily + consensus_daily FY2026; US: prices_daily + consensus_daily CURRENTY/NEXTY
+2026-02-09,MU,Micron,US,383.5,32.62527,41.32815,11.754691991821064,9.279389471824894,yfinance_backfill,2026-04-16T20:48:37,KR: prices_daily + consensus_daily FY2026; US: prices_daily + consensus_daily CURRENTY/NEXTY
+2026-02-10,MU,Micron,US,373.25,32.62527,41.32815,11.440518346668089,9.03137449897951,yfinance_backfill,2026-04-16T20:48:37,KR: prices_daily + consensus_daily FY2026; US: prices_daily + consensus_daily CURRENTY/NEXTY
+2026-02-11,MU,Micron,US,410.3399963378906,32.62527,41.32815,12.577367063564244,9.92882566332852,yfinance_backfill,2026-04-16T20:48:37,KR: prices_daily + consensus_daily FY2026; US: prices_daily + consensus_daily CURRENTY/NEXTY
+2026-02-12,MU,Micron,US,413.9700012207031,32.62527,41.32815,12.688630660242907,10.01665937673724,yfinance_backfill,2026-04-16T20:48:37,KR: prices_daily + consensus_daily FY2026; US: prices_daily + consensus_daily CURRENTY/NEXTY
+2026-02-13,MU,Micron,US,411.6600036621094,32.62527,41.32815,12.61782672333775,9.960765329735528,yfinance_backfill,2026-04-16T20:48:37,KR: prices_daily + consensus_daily FY2026; US: prices_daily + consensus_daily CURRENTY/NEXTY
+2026-02-17,MU,Micron,US,399.7799987792969,33.79346,43.90146,11.8300996340504,9.106303042752948,yfinance_backfill,2026-04-16T20:48:37,KR: prices_daily + consensus_daily FY2026; US: prices_daily + consensus_daily CURRENTY/NEXTY
+2026-02-18,MU,Micron,US,420.95001220703125,33.79346,43.90146,12.456552605357109,9.588519657592965,yfinance_backfill,2026-04-16T20:48:37,KR: prices_daily + consensus_daily FY2026; US: prices_daily + consensus_daily CURRENTY/NEXTY
+2026-02-19,MU,Micron,US,417.3500061035156,33.79346,43.90146,12.350022936494682,9.506517689924564,yfinance_backfill,2026-04-16T20:48:37,KR: prices_daily + consensus_daily FY2026; US: prices_daily + consensus_daily CURRENTY/NEXTY
+2026-02-20,MU,Micron,US,428.1700134277344,33.79346,43.90146,12.670203448470039,9.752978908394718,yfinance_backfill,2026-04-16T20:48:37,KR: prices_daily + consensus_daily FY2026; US: prices_daily + consensus_daily CURRENTY/NEXTY
+2026-02-23,MU,Micron,US,420.9700012207031,33.79346,43.90146,12.457144110745189,9.588974973057915,yfinance_backfill,2026-04-16T20:48:37,KR: prices_daily + consensus_daily FY2026; US: prices_daily + consensus_daily CURRENTY/NEXTY
+2026-02-24,MU,Micron,US,418.010009765625,33.79346,43.90146,12.369553451041265,9.52155144192528,yfinance_backfill,2026-04-16T20:48:37,KR: prices_daily + consensus_daily FY2026; US: prices_daily + consensus_daily CURRENTY/NEXTY
+2026-02-25,MU,Micron,US,429.0,33.79346,43.90146,12.694764016469458,9.771884579692793,yfinance_backfill,2026-04-16T20:48:37,KR: prices_daily + consensus_daily FY2026; US: prices_daily + consensus_daily CURRENTY/NEXTY
+2026-02-26,MU,Micron,US,415.55999755859375,33.79346,43.90146,12.29705385475751,9.465744363822838,yfinance_backfill,2026-04-16T20:48:37,KR: prices_daily + consensus_daily FY2026; US: prices_daily + consensus_daily CURRENTY/NEXTY
+2026-02-27,MU,Micron,US,412.3699951171875,33.79346,43.90146,12.202656819313189,9.393081576721766,yfinance_backfill,2026-04-16T20:48:37,KR: prices_daily + consensus_daily FY2026; US: prices_daily + consensus_daily CURRENTY/NEXTY
+2026-03-02,MU,Micron,US,412.6700134277344,33.79346,43.90146,12.21153481850436,9.399915479524699,yfinance_backfill,2026-04-16T20:48:37,KR: prices_daily + consensus_daily FY2026; US: prices_daily + consensus_daily CURRENTY/NEXTY
+2026-03-03,MU,Micron,US,379.67999267578125,33.79346,43.90146,11.23530981070838,8.648459360480977,yfinance_backfill,2026-04-16T20:48:37,KR: prices_daily + consensus_daily FY2026; US: prices_daily + consensus_daily CURRENTY/NEXTY
+2026-03-04,MU,Micron,US,400.7699890136719,33.79346,43.90146,11.859394954339445,9.128853323184966,yfinance_backfill,2026-04-16T20:48:37,KR: prices_daily + consensus_daily FY2026; US: prices_daily + consensus_daily CURRENTY/NEXTY
+2026-03-05,MU,Micron,US,397.04998779296875,33.79346,43.90146,11.749314447025215,9.044118072450637,yfinance_backfill,2026-04-16T20:48:37,KR: prices_daily + consensus_daily FY2026; US: prices_daily + consensus_daily CURRENTY/NEXTY
+2026-03-06,MU,Micron,US,370.29998779296875,33.79346,43.90146,10.957741166277993,8.434798929078184,yfinance_backfill,2026-04-16T20:48:37,KR: prices_daily + consensus_daily FY2026; US: prices_daily + consensus_daily CURRENTY/NEXTY
+2026-03-09,MU,Micron,US,389.32000732421875,33.79346,43.90146,11.520572540492116,8.868042368618692,yfinance_backfill,2026-04-16T20:48:37,KR: prices_daily + consensus_daily FY2026; US: prices_daily + consensus_daily CURRENTY/NEXTY
+2026-03-10,MU,Micron,US,403.1099853515625,33.79346,43.90146,11.928639013334605,9.182154428384898,yfinance_backfill,2026-04-16T20:48:37,KR: prices_daily + consensus_daily FY2026; US: prices_daily + consensus_daily CURRENTY/NEXTY
+2026-03-11,MU,Micron,US,418.69000244140625,33.79346,43.90146,12.389675470975929,9.537040509390946,yfinance_backfill,2026-04-16T20:48:37,KR: prices_daily + consensus_daily FY2026; US: prices_daily + consensus_daily CURRENTY/NEXTY
+2026-03-12,MU,Micron,US,405.3500061035156,33.79346,43.90146,11.994924642327705,9.233178261121967,yfinance_backfill,2026-04-16T20:48:37,KR: prices_daily + consensus_daily FY2026; US: prices_daily + consensus_daily CURRENTY/NEXTY
+2026-03-13,MU,Micron,US,426.1300048828125,33.79346,43.90146,12.609836485604388,9.706511010859604,yfinance_backfill,2026-04-16T20:48:37,KR: prices_daily + consensus_daily FY2026; US: prices_daily + consensus_daily CURRENTY/NEXTY
+2026-03-16,MU,Micron,US,441.79998779296875,33.79346,43.90146,13.073535169022902,10.063446359026983,yfinance_backfill,2026-04-16T20:48:37,KR: prices_daily + consensus_daily FY2026; US: prices_daily + consensus_daily CURRENTY/NEXTY
+2026-03-17,MU,Micron,US,461.69000244140625,38.10108,59.45457,12.11750434479564,7.765424969710592,yfinance_backfill,2026-04-16T20:48:37,KR: prices_daily + consensus_daily FY2026; US: prices_daily + consensus_daily CURRENTY/NEXTY
+2026-03-18,MU,Micron,US,461.7300109863281,38.10108,59.45457,12.118554408072635,7.766097896029324,yfinance_backfill,2026-04-16T20:48:37,KR: prices_daily + consensus_daily FY2026; US: prices_daily + consensus_daily CURRENTY/NEXTY
+2026-03-19,MU,Micron,US,444.2699890136719,38.10108,59.45457,11.660299104741174,7.472427922927908,yfinance_backfill,2026-04-16T20:48:37,KR: prices_daily + consensus_daily FY2026; US: prices_daily + consensus_daily CURRENTY/NEXTY
+2026-03-20,MU,Micron,US,422.8999938964844,38.10108,59.45457,11.099422743305029,7.1129939026803894,yfinance_backfill,2026-04-16T20:48:37,KR: prices_daily + consensus_daily FY2026; US: prices_daily + consensus_daily CURRENTY/NEXTY
+2026-03-23,MU,Micron,US,404.3500061035156,38.10108,59.45457,10.612560224106918,6.800991178701917,yfinance_backfill,2026-04-16T20:48:37,KR: prices_daily + consensus_daily FY2026; US: prices_daily + consensus_daily CURRENTY/NEXTY
+2026-03-24,MU,Micron,US,395.5299987792969,38.10108,59.45457,10.381070530790645,6.652642492903353,yfinance_backfill,2026-04-16T20:48:37,KR: prices_daily + consensus_daily FY2026; US: prices_daily + consensus_daily CURRENTY/NEXTY
+2026-03-25,MU,Micron,US,382.0899963378906,38.10108,59.45457,10.028324560298307,6.426587499293841,yfinance_backfill,2026-04-16T20:48:37,KR: prices_daily + consensus_daily FY2026; US: prices_daily + consensus_daily CURRENTY/NEXTY
+2026-03-26,MU,Micron,US,355.4599914550781,38.10108,59.45457,9.329394113108554,5.978682403305215,yfinance_backfill,2026-04-16T20:48:37,KR: prices_daily + consensus_daily FY2026; US: prices_daily + consensus_daily CURRENTY/NEXTY
+2026-03-27,MU,Micron,US,357.2200012207031,38.10108,59.45457,9.37558728573319,6.008285001820771,yfinance_backfill,2026-04-16T20:48:37,KR: prices_daily + consensus_daily FY2026; US: prices_daily + consensus_daily CURRENTY/NEXTY
+2026-03-30,MU,Micron,US,321.79998779296875,38.10108,59.45457,8.445954492444013,5.412535786449532,yfinance_backfill,2026-04-16T20:48:37,KR: prices_daily + consensus_daily FY2026; US: prices_daily + consensus_daily CURRENTY/NEXTY
+2026-03-31,MU,Micron,US,337.8399963378906,38.10108,59.45457,8.866940158596307,5.682321751513646,yfinance_backfill,2026-04-16T20:48:37,KR: prices_daily + consensus_daily FY2026; US: prices_daily + consensus_daily CURRENTY/NEXTY
+2026-04-01,MU,Micron,US,367.8500061035156,38.10108,59.45457,9.654582130047642,6.187077059064015,yfinance_backfill,2026-04-16T20:48:37,KR: prices_daily + consensus_daily FY2026; US: prices_daily + consensus_daily CURRENTY/NEXTY
+2026-04-02,MU,Micron,US,366.239990234375,38.10108,59.45457,9.612325693507243,6.159997292628221,yfinance_backfill,2026-04-16T20:48:37,KR: prices_daily + consensus_daily FY2026; US: prices_daily + consensus_daily CURRENTY/NEXTY
+2026-04-06,MU,Micron,US,377.760009765625,38.10108,59.45457,9.914679840194161,6.353759009032022,yfinance_backfill,2026-04-16T20:48:37,KR: prices_daily + consensus_daily FY2026; US: prices_daily + consensus_daily CURRENTY/NEXTY
+2026-04-07,MU,Micron,US,377.5799865722656,38.10108,59.45457,9.90995495592948,6.350731097243924,yfinance_backfill,2026-04-16T20:48:37,KR: prices_daily + consensus_daily FY2026; US: prices_daily + consensus_daily CURRENTY/NEXTY
+2026-04-08,MU,Micron,US,406.7300109863281,38.10108,59.45457,10.675025773188795,6.841021825342074,yfinance_backfill,2026-04-16T20:48:37,KR: prices_daily + consensus_daily FY2026; US: prices_daily + consensus_daily CURRENTY/NEXTY
+2026-04-09,MU,Micron,US,421.510009765625,57.79431,97.94317,7.293278694141776,4.303618208044778,yfinance_backfill,2026-04-16T20:48:37,KR: prices_daily + consensus_daily FY2026; US: prices_daily + consensus_daily CURRENTY/NEXTY
+2026-04-10,MU,Micron,US,420.5899963378906,57.79431,97.94317,7.2773599397222775,4.29422486874675,yfinance_backfill,2026-04-16T20:48:37,KR: prices_daily + consensus_daily FY2026; US: prices_daily + consensus_daily CURRENTY/NEXTY
+2026-04-13,MU,Micron,US,426.55999755859375,57.79431,97.94317,7.380657326968584,4.355178595491587,yfinance_backfill,2026-04-16T20:48:37,KR: prices_daily + consensus_daily FY2026; US: prices_daily + consensus_daily CURRENTY/NEXTY
+2026-04-14,MU,Micron,US,465.6600036621094,57.79431,97.94317,8.057194621098676,4.7543897513436555,yfinance_backfill,2026-04-16T20:48:37,KR: prices_daily + consensus_daily FY2026; US: prices_daily + consensus_daily CURRENTY/NEXTY
+2026-04-15,MU,Micron,US,456.2300109863281,57.79431,97.94317,7.894029896478185,4.658109503565467,yfinance_backfill,2026-04-16T20:48:37,KR: prices_daily + consensus_daily FY2026; US: prices_daily + consensus_daily CURRENTY/NEXTY
+2026-04-16,MU,Micron,US,457.2300109863281,57.95431,99.19884,7.889491066088581,4.609227396069633,yfinance,2026-04-16T20:48:37,KR: prices_daily + consensus_daily FY2026; US: prices_daily + consensus_daily CURRENTY/NEXTY
+2026-04-17,MU,Micron,US,455.07000732421875,57.95431,99.19884,7.852220263242177,4.587452910983825,yfinance,2026-04-17T20:48:49,KR: prices_daily + consensus_daily FY2026; US: prices_daily + consensus_daily CURRENTY/NEXTY
+2026-04-20,MU,Micron,US,448.4200134277344,57.95431,101.07363,7.7374748043369745,4.436567811285045,yfinance,2026-04-20T20:50:43,KR: prices_daily + consensus_daily FY2026; US: prices_daily + consensus_daily CURRENTY/NEXTY
+2026-04-21,MU,Micron,US,449.3800048828125,57.95431,101.07363,7.75403943007539,4.446065753083297,yfinance,2026-04-21T20:49:18,KR: prices_daily + consensus_daily FY2026; US: prices_daily + consensus_daily CURRENTY/NEXTY
+2026-04-22,MU,Micron,US,487.4800109863281,57.95431,101.07363,8.41145397100454,4.823018733831249,yfinance,2026-04-22T20:50:40,KR: prices_daily + consensus_daily FY2026; US: prices_daily + consensus_daily CURRENTY/NEXTY
+2026-04-23,MU,Micron,US,481.7200012207031,57.95431,101.07363,8.312065163414129,4.766030479173481,yfinance,2026-04-23T22:06:55,KR: prices_daily + consensus_daily FY2026; US: prices_daily + consensus_daily CURRENTY/NEXTY
+2026-04-24,MU,Micron,US,496.7200012207031,57.95431,101.07363,8.570889744364193,4.91443714073298,yfinance,2026-04-24T21:07:33,KR: prices_daily + consensus_daily FY2026; US: prices_daily + consensus_daily CURRENTY/NEXTY
+2026-04-27,MU,Micron,US,524.5599975585938,57.95431,101.07363,9.051268103417913,5.189879868355314,yfinance,2026-04-27T21:07:07,KR: prices_daily + consensus_daily FY2026; US: prices_daily + consensus_daily CURRENTY/NEXTY
+2026-04-28,MU,Micron,US,504.2900085449219,57.95416,101.10917,8.701532530967956,4.98757935155557,yfinance,2026-04-28T21:02:55,KR: prices_daily + consensus_daily FY2026; US: prices_daily + consensus_daily CURRENTY/NEXTY
+2026-04-29,MU,Micron,US,518.4600219726562,57.95416,101.10917,8.946036349636614,5.127725031989247,yfinance,2026-04-28T21:02:55,KR: prices_daily + consensus_daily FY2026; US: prices_daily + consensus_daily CURRENTY/NEXTY
+2026-04-30,MU,Micron,US,517.1599731445312,58.0779,101.4692,8.904591473598929,5.096718739721327,yfinance,2026-04-30T21:02:46,KR: prices_daily + consensus_daily FY2026; US: prices_daily + consensus_daily CURRENTY/NEXTY
+2026-05-01,MU,Micron,US,542.2100219726562,58.0779,101.4692,9.335909562374953,5.343592163658098,yfinance,2026-05-01T21:08:24,KR: prices_daily + consensus_daily FY2026; US: prices_daily + consensus_daily CURRENTY/NEXTY
+2026-05-04,MU,Micron,US,576.4500122070312,58.0779,101.4692,9.925462391151045,5.68103436517713,yfinance,2026-05-04T21:04:28,KR: prices_daily + consensus_daily FY2026; US: prices_daily + consensus_daily CURRENTY/NEXTY
+2026-05-05,MU,Micron,US,640.2000122070312,58.0779,101.4692,11.023126046345189,6.309303830197058,yfinance,2026-05-05T21:07:57,KR: prices_daily + consensus_daily FY2026; US: prices_daily + consensus_daily CURRENTY/NEXTY
+2026-05-06,MU,Micron,US,666.5900268554688,58.0779,101.4692,11.477516006182537,6.56938289506046,yfinance,2026-05-06T21:08:26,KR: prices_daily + consensus_daily FY2026; US: prices_daily + consensus_daily CURRENTY/NEXTY
+2026-05-07,MU,Micron,US,646.6300048828125,58.10855,101.7821,11.127966622516178,6.353081778454291,yfinance,2026-05-07T21:10:53,KR: prices_daily + consensus_daily FY2026; US: prices_daily + consensus_daily CURRENTY/NEXTY
+2026-05-08,MU,Micron,US,746.8099975585938,58.10855,101.7821,12.85198129291806,7.3373412177445125,yfinance,2026-05-08T21:04:38,KR: prices_daily + consensus_daily FY2026; US: prices_daily + consensus_daily CURRENTY/NEXTY
+2026-05-11,MU,Micron,US,795.3300170898438,58.10855,101.7821,13.686970628071837,7.814046056132107,yfinance,2026-05-11T21:03:42,KR: prices_daily + consensus_daily FY2026; US: prices_daily + consensus_daily CURRENTY/NEXTY
+2026-05-12,MU,Micron,US,766.5800170898438,58.10855,101.7821,13.192206948716562,7.531579885754408,yfinance,2026-05-12T21:04:06,KR: prices_daily + consensus_daily FY2026; US: prices_daily + consensus_daily CURRENTY/NEXTY
+2026-05-13,MU,Micron,US,803.6300048828125,58.10855,101.7821,13.829806541082379,7.895592691473378,yfinance,2026-05-13T21:33:41,KR: prices_daily + consensus_daily FY2026; US: prices_daily + consensus_daily CURRENTY/NEXTY
+2026-05-14,MU,Micron,US,776.010009765625,58.10855,101.7821,13.354489309501355,7.624228717678501,yfinance,2026-05-14T21:03:46,KR: prices_daily + consensus_daily FY2026; US: prices_daily + consensus_daily CURRENTY/NEXTY
+2026-05-15,MU,Micron,US,724.6599731445312,58.10855,102.5821,12.470797725025513,7.064195148515494,yfinance,2026-05-15T21:04:04,KR: prices_daily + consensus_daily FY2026; US: prices_daily + consensus_daily CURRENTY/NEXTY
+2026-05-18,MU,Micron,US,681.5399780273438,58.10855,102.5821,11.728738335879036,6.643848956370983,yfinance,2026-05-18T21:04:40,KR: prices_daily + consensus_daily FY2026; US: prices_daily + consensus_daily CURRENTY/NEXTY
+2026-05-19,MU,Micron,US,698.739990234375,58.29113,102.73888,11.987072308160348,6.801125243280587,yfinance,2026-05-19T21:04:01,KR: prices_daily + consensus_daily FY2026; US: prices_daily + consensus_daily CURRENTY/NEXTY
+2026-05-20,MU,Micron,US,731.989990234375,58.29113,102.73888,12.557484993589505,7.124761241648488,yfinance,2026-05-20T21:05:01,KR: prices_daily + consensus_daily FY2026; US: prices_daily + consensus_daily CURRENTY/NEXTY
+2026-05-21,MU,Micron,US,762.0999755859375,58.29113,102.73888,13.074029883893784,7.417834179094979,yfinance,2026-05-21T21:06:45,KR: prices_daily + consensus_daily FY2026; US: prices_daily + consensus_daily CURRENTY/NEXTY
+2026-05-22,MU,Micron,US,751.0,58.29113,102.73888,12.883606819768291,7.309793527046431,yfinance,2026-05-22T21:06:16,KR: prices_daily + consensus_daily FY2026; US: prices_daily + consensus_daily CURRENTY/NEXTY
+2026-05-26,MU,Micron,US,895.8800048828125,58.29113,102.73888,15.369062237819245,8.719970520243287,yfinance,2026-05-26T21:06:13,KR: prices_daily + consensus_daily FY2026; US: prices_daily + consensus_daily CURRENTY/NEXTY
+2026-05-27,MU,Micron,US,928.4099731445312,58.46154,103.97292,15.880696491138128,8.929344036356113,yfinance,2026-05-27T21:07:39,KR: prices_daily + consensus_daily FY2026; US: prices_daily + consensus_daily CURRENTY/NEXTY
+2026-05-28,MU,Micron,US,923.52001953125,58.46154,103.97292,15.79705254995421,8.882313005456131,yfinance,2026-05-28T21:06:51,KR: prices_daily + consensus_daily FY2026; US: prices_daily + consensus_daily CURRENTY/NEXTY
+2026-05-29,MU,Micron,US,971.0,58.72185,104.93135,16.535582581270855,9.253669184662163,yfinance,2026-05-29T21:07:22,KR: prices_daily + consensus_daily FY2026; US: prices_daily + consensus_daily CURRENTY/NEXTY
+2026-06-01,MU,Micron,US,1035.5,58.7281,105.28448,17.632104563232932,9.835257770186072,yfinance,2026-06-01T21:05:56,KR: prices_daily + consensus_daily FY2026; US: prices_daily + consensus_daily CURRENTY/NEXTY
