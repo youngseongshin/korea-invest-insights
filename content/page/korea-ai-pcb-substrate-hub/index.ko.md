@@ -5,7 +5,7 @@ date: 2026-05-05T23:20:00+09:00
 aliases: ["/ko/ai-pcb/", "/ko/pcb/", "/ko/fc-bga/", "/ko/ccl/", "/ko/ai-substrate/", "/ko/page/korea-ai-pcb-substrate-hub/"]
 layout: "page"
 description: "AI 기판·PCB 투자 허브. FC-BGA, MLB, CCL, 저유전율 소재, 삼성전기, 대덕전자, 두산전자BG, 코오롱인더, 파미셀을 한곳에 묶어 GPU·CPU·NIC·스위치 ASIC이 만드는 AI 시스템 병목을 정리한다."
-lastmod: 2026-06-02T22:35:00+09:00
+lastmod: 2026-06-03T17:40:00+09:00
 ---
 
 ## 한 줄 결론
@@ -23,6 +23,7 @@ AI 기판 투자는 "GPU 다음 테마"가 아니라 <strong>AI 시스템 전체
 | AI 칩 설계에서 왜 FC-BGA와 고속 PCB가 중요해졌나요? | AI 칩 성능은 초당 연산량보다 데이터를 덜 움직이고, 메모리와 연산칩을 더 가까이 붙이는 데 달려 있다. 그래서 HBM 아래에서 FC-BGA, 고다층 PCB, 전력 안정화 부품이 성능 병목으로 올라온다. | [엔비디아 이후 AI 반도체 병목](/ko/post/ai-chip-design-data-movement-fcbga-bottleneck-2026-05-24/) |
 | 마벨 Q1 FY2027 실적은 AI 기판 thesis를 강화했나요? | 그렇다. Marvell이 custom XPU, 51.2T Ethernet switch, 800G/1.6T optics, scale-up networking을 성장축으로 제시하면서 GPU용 기판뿐 아니라 network ASIC·XPU attach용 FCBGA와 고속 PCB 난이도가 같이 올라간다. | [마벨 Q1 FY2027 실적과 한국 반도체](/ko/post/marvell-q1-fy2027-korea-semiconductor-readthrough-2026-05-28/) |
 | 젠슨 황의 마벨 1조 달러 발언과 브로드컴 실적은 한국 기판주에 어떤 의미인가요? | 핵심은 HBM이 아니라 연결 병목이다. 마벨은 NVLink Fusion 안의 맞춤형 AI 가속기와 대규모 네트워크를, 브로드컴은 AI 반도체 107억 달러 가이던스와 Tomahawk 6·CPO를 통해 AI 네트워크 병목을 숫자로 검증해야 한다. 한국 1차 파급은 삼성전기, 코리아써키트, 이수페타시스다. | [젠슨 황의 마벨 1조 달러 발언](/ko/post/marvell-trillion-broadcom-readthrough-korea-ai-connectivity-2026-06-02/) |
+| 마벨 후속으로 광원 병목은 한국 기판 thesis와 어떻게 연결되나요? | AI 네트워크가 800G·1.6T·CPO로 가면 기판과 고속 PCB만이 아니라 EML·CW-DFB 광원도 병목이 된다. 오이솔루션은 국내에서 가장 직접적인 EML/ELSFP proxy지만, 현재 수급은 쏠리드·RFHIC·삼지전자 같은 AI-RAN/RU 쪽이 더 살아 있어 기술 직접성과 매매 우선순위를 분리해야 한다. | [마벨 후속: EML·CW-DFB 광원](/ko/post/marvell-follow-up-eml-cw-dfb-laser-source-korea-cpo-2026-06-03/) |
 | 메모리 ASP가 2027년 꺾이면 AI 기판도 같이 피크아웃인가요? | 아니다. JP모간 피크아웃은 주로 범용 메모리 가격 상승률에 적용된다. 골드만의 2030년 토큰 수요가 맞으면 서버·랙 복잡도는 계속 올라가, 기판 면적·전력 안정화·FC-BGA·MLCC 수요는 메모리 가격 모멘텀과 별개로 이어질 수 있다. | [골드만 토큰 수요 vs JP모간 메모리 ASP 피크아웃](/ko/post/goldman-token-demand-vs-jpm-memory-asp-peakout-korea-semiconductor-2026-05-31/) |
 | 한국 AI 기판 생태계에서 어떤 회사를 비교해야 하나요? | 기판 제조사만 보면 부족하다. 삼성전기·대덕전자·이수페타시스·심텍·코리아써키트에 두산전자BG, 코오롱인더, 파미셀, 티엘비, 태성까지 같이 봐야 한다. | [한국 AI 기판·PCB 생태계 10개사](/ko/post/korea-ai-pcb-ecosystem-ten-companies-2026-05-05/) |
 | 삼성전기는 AI 기판주인가요? | 삼성전기는 FC-BGA와 MLCC를 함께 가진 한국 대형 부품주다. AI 서버가 고성능 기판과 전력 안정 부품을 더 많이 쓰면서 수혜를 받는다. | [삼성전기 AI 인프라 리레이팅](/ko/post/samsung-electro-mechanics-ai-infrastructure-rerating-2026-04-21/) |
@@ -42,7 +43,7 @@ AI 기판 투자는 "GPU 다음 테마"가 아니라 <strong>AI 시스템 전체
 | 해외 개인투자자는 한국 AI 기판주를 어떻게 발견하게 되나요? | IBKR·해외 증권사 접근성이 개선되면 AI 기판은 국내 공급망 테마를 넘어 해외 검색 수요가 붙는 중소형주 클러스터가 될 수 있다. | [해외 투자자용 한국 주식 허브](/ko/page/korea-stocks-foreign-investors-hub/) |
 | 삼성전자·SK하이닉스 HBM과 기판은 어떻게 연결되나요? | HBM은 메모리 병목이고, 기판은 GPU·CPU·네트워크 칩을 모두 실장하는 물리적 병목이다. 두 레이어는 경쟁이 아니라 같은 AI 시스템의 다른 층이다. | [HBM·한국 반도체 허브](/ko/page/korea-semiconductor-hbm-kospi-hub/) |
 | 해성디에스는 왜 PCB 클러스터에 같이 보나요? | 해성디에스는 PCB·기판 회사가 아니라 리드프레임 글로벌 2위 + DDR 패키지 기판 + AI 데이터센터 Heat Spreader second-source 옵션이 결합된 11번째 종목이다. 클러스터 내에서 유일한 비-PCB axis다. | [해성디에스: 자동차 LF에서 AI 방열부품 second-source까지](/ko/post/haesung-ds-leadframe-ai-heat-spreader-second-source-2026-05-07/) |
-| 한국 광통신·CPO 관련주는 어떻게 정리되나요? | 7개사 중 진짜 CPO에 가까운 회사는 오이솔루션 하나뿐이고, 나머지는 후방 수혜이거나 테마다. 그리고 7개 중 대부분이 올해 +300~900% 올랐다. 기판 클러스터와 달리 실적이 아직 안 따라온 과열 구간이다. | [한국 광통신·CPO 밸류체인 7개사](/ko/post/korea-optical-cpo-value-chain-seven-companies-2026-05-09/) |
+| 한국 광통신·CPO 관련주는 어떻게 정리되나요? | 7개사 중 진짜 CPO에 가까운 회사는 오이솔루션 하나뿐이고, 새 광원 후속글에서는 이 논리를 EML·CW-DFB·ELSFP까지 확장했다. 다만 광통신 대장주는 3~4월에 이미 급등했고, 현재는 수급 전환 확인이 필요하다. | [한국 광통신·CPO 밸류체인 7개사](/ko/post/korea-optical-cpo-value-chain-seven-companies-2026-05-09/) · [마벨 후속: EML·CW-DFB 광원](/ko/post/marvell-follow-up-eml-cw-dfb-laser-source-korea-cpo-2026-06-03/) |
 | 기판과 테스트 소켓을 같이 묶어도 되나요? | 안 된다. 둘 다 'AI 후공정' 수혜지만 기판은 CAPEX·물량 베타(OPM 약 12-15%), 테스트 소켓은 소모품·복잡도 베타(OPM 약 35-47%) — 마진 구조가 약 3배 차이. 보유 기간이 짧으면 기판, 1-2년이면 테스트 소켓. | [기판 vs 테스트 소켓 비교](/ko/post/ai-substrate-vs-test-socket-comparison-2026-05-15/) |
 
 ---
@@ -56,6 +57,7 @@ AI 기판 투자는 "GPU 다음 테마"가 아니라 <strong>AI 시스템 전체
 | 2+ | AI 칩 설계 관점에서 왜 데이터 이동·FC-BGA·고속 PCB가 병목인가 | [엔비디아 이후 AI 반도체 병목](/ko/post/ai-chip-design-data-movement-fcbga-bottleneck-2026-05-24/) |
 | 2++ | 마벨 실적은 custom XPU·network ASIC용 기판 병목을 어떻게 확인했나 | [마벨 Q1 FY2027 실적과 한국 반도체](/ko/post/marvell-q1-fy2027-korea-semiconductor-readthrough-2026-05-28/) |
 | 2+++ | 젠슨 황의 마벨 1조 달러 발언과 브로드컴 실적은 한국에서 어떤 연결·기판 병목을 다시 가격에 반영하나 | [젠슨 황의 마벨 1조 달러 발언](/ko/post/marvell-trillion-broadcom-readthrough-korea-ai-connectivity-2026-06-02/) |
+| 2+++A | 연결 병목을 광원까지 내리면 EML·CW-DFB·ELSFP와 오이솔루션은 어떻게 봐야 하나 | [마벨 후속: EML·CW-DFB 광원](/ko/post/marvell-follow-up-eml-cw-dfb-laser-source-korea-cpo-2026-06-03/) |
 | 2++++ | AI 사용량에 가격이 붙으면 FC-BGA·기판은 토큰당 비용 테제에 어떻게 연결되나 | [AI 토큰 선물과 토큰당 비용 투자 논거](/ko/post/ai-token-futures-cost-per-token-korea-semiconductor-thesis-2026-05-30/) |
 | 2+++++ | 같은 AI 인프라 안에서도 MLCC·FC-BGA는 왜 GPU/HBM과 다른 멀티플을 받나 | [AI 인프라 멀티플 지도](/ko/post/ai-infrastructure-multiple-map-gpu-hbm-mlcc-fcbga-samsung-2026-05-31/) |
 | 3 | 한국 AI 기판 생태계 10개사를 어떻게 나눠 봐야 하나 | [한국 AI 기판·PCB 생태계 10개사](/ko/post/korea-ai-pcb-ecosystem-ten-companies-2026-05-05/) |
@@ -75,6 +77,7 @@ AI 기판 투자는 "GPU 다음 테마"가 아니라 <strong>AI 시스템 전체
 | 10 | 빅테크 AI 투자지출은 한국 공급망에 어떻게 전달되나 | [삼성전자 vs 삼성전기: 빅테크 AI 투자 재가속](/ko/post/bigtech-1q26-samsung-electronics-vs-electro-mechanics-2026-04-30/) |
 | 11 | 클러스터 11번째 종목, 리드프레임에서 AI 방열부품으로 가는 unique angle | [해성디에스: 자동차 LF에서 AI Heat Spreader second-source까지](/ko/post/haesung-ds-leadframe-ai-heat-spreader-second-source-2026-05-07/) |
 | 12 | AI 데이터센터의 다음 병목 — 광통신·CPO 7개사 중 진짜는 누구인가 | [한국 광통신·CPO 밸류체인 7개사 — 진짜 가까운 회사는 오이솔루션 하나뿐](/ko/post/korea-optical-cpo-value-chain-seven-companies-2026-05-09/) |
+| 12+ | CPO의 더 안쪽 병목 — EML·CW-DFB 광원과 ELSFP는 왜 중요한가 | [마벨 후속: EML·CW-DFB 광원](/ko/post/marvell-follow-up-eml-cw-dfb-laser-source-korea-cpo-2026-06-03/) |
 | 13 | 같은 'AI 후공정 수혜주'라도 기판과 테스트 소켓을 같이 묶으면 안 되는 이유 | [기판 vs 테스트 소켓: AI 후공정 두 가지 베타](/ko/post/ai-substrate-vs-test-socket-comparison-2026-05-15/) |
 
 ---
@@ -90,7 +93,7 @@ AI 기판 투자는 "GPU 다음 테마"가 아니라 <strong>AI 시스템 전체
 | 저유전율 소재 | 코오롱인더, 파미셀 | mPPO, 저손실 수지, 경화제 등 상류 소재 |
 | 전력 안정 부품 | 삼성전기, 삼화콘덴서, 아모텍, Murata 등 | AI 서버와 네트워크 장비의 MLCC 탑재량 증가. 실리콘 커패시터는 MLCC 대체가 아니라 AI GPU·HBM 패키지 내부의 초근접 전원 안정화 보완재. [수동소자 병목 설명](/ko/post/ai-server-passive-components-bottleneck-samsung-electro-mechanics-2026-05-26/) 참조 |
 | AI 패키지 방열부품 | 해성디에스 (option) | Heat slug / Heat spreader second-source 진입 옵션, Shinko·Honeywell·Jentech·I-Chiun 과점 영역 |
-| AI 광통신·CPO | 오이솔루션 (핵심), 옵티코어·대한광통신·빛과전자·우리로·라이콤·코셋 (테마) | 800G/1.6T 광전송 모듈, CPO 외부 광원(ELSFP), 광섬유 — 기판처럼 시스템 부품 원가와 공급을 좌우하는 병목, 다만 실적이 아직 안 따라온 과열 구간 |
+| AI 광통신·CPO | 오이솔루션 (핵심), 옵티코어·대한광통신·빛과전자·우리로·라이콤·코셋 (테마), 쏠리드·RFHIC·삼지전자 (AI-RAN/RU 수급 관찰) | 800G/1.6T 광전송 모듈, CPO 외부 광원(ELSFP), EML·CW-DFB 광원, 광섬유 — 기판처럼 시스템 부품 원가와 공급을 좌우하는 병목. 다만 오이솔루션은 고객 인증·반복 주문 확인 전이고, 3~4월 대장주는 과열 후 수급 재확인이 필요 |
 
 ---
 
