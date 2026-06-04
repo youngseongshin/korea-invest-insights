@@ -5,7 +5,7 @@ date: 2026-05-03T11:00:00+09:00
 aliases: ["/ko/korea-daily/", "/ko/kospi/", "/ko/kosdaq/", "/ko/page/korea-daily-market-hub/"]
 layout: "page"
 description: "한국 주식시장 일일 업데이트 허브 — KOSPI / KOSDAQ 장마감 브리핑, 주간 집중 픽, 외국인·기관 수급, 섹터 로테이션, 그리고 매 세션 한국 주식에서 실제로 무엇이 움직이는지. '오늘 한국 주식시장은 어떤가요?' 같은 질문의 직접 답."
-lastmod: 2026-06-05T05:15:00+09:00
+lastmod: 2026-06-05T16:20:00+09:00
 ---
 
 ## 이 허브가 답하는 질문
@@ -17,6 +17,7 @@ lastmod: 2026-06-05T05:15:00+09:00
 | 오늘 한국 주식시장은 어떤가요? | 가장 최근 Korea Daily Wrap이 그날의 시장 국면, 섹터 로테이션, 외국인 수급, 핵심 공시를 정리합니다. | [최근 데일리 랩](/ko/post/kr-daily-wrap-2026-06-04/) |
 | 지수는 버티는데 왜 체감 장세는 약한가요? | 20일 ADR이 KOSPI 48.9, KOSDAQ 48.1까지 내려왔기 때문이다. 유동성은 많지만 시장 폭은 무너져 있고, 돈은 외국인 재배치 종목과 소수 주도주로만 좁게 흐른다. | [유동성은 많은데 시장 폭은 무너졌다](/ko/post/korea-market-liquidity-foreign-reallocation-adr-narrow-leadership-2026-06-03/) · [ADR 18.1%의 좁은 길](/ko/post/korea-narrow-market-jensen-huang-catalyst-gtc-taipei-2026-06-01/) |
 | AI 데이터센터 CapEx 5.3조 달러는 한국장 어디로 번역되나요? | GPU 전체 매수가 아니라 전력기기, 삼성전기 MLCC·FC-BGA·Si-Cap, 고다층 PCB, 광통신, eSSD처럼 가격 전가력과 반복 수주를 증명할 수 있는 병목으로 번역해야 한다. | [AI 데이터센터 CapEx 5.3조 달러 시대](/ko/post/ai-datacenter-capex-5p3t-korea-power-substrate-storage-bottleneck-2026-06-05/) |
+| 스페이스X 상장은 한국 증시에 영향을 주나요? | 시스템 유동성 고갈보다 성장주·AI·우주·Musk 포지션 안의 리밸런싱 이벤트다. 한국에는 달러 수요, 외국인 funding source, HBM 수요 검증, 우주방산 테마를 통해 간접 영향이 들어온다. | [스페이스X IPO와 한국 증시](/ko/post/spacex-ipo-korea-market-liquidity-ai-space-readthrough-2026-06-05/) |
 | 간밤 GTC Taipei 이후 한국 증시는 무엇을 봐야 하나요? | NVIDIA의 메시지는 GPU 단품보다 AI Factory, Vera CPU, Agent Runtime, AI PC, Physical AI로 확장됐다. 한국장은 HBM뿐 아니라 전력, 네트워킹, GPUaaS, NAVER Cloud, 로봇의 병목을 따져야 한다. | [젠슨 황을 바라보는 한국 증시: 간밤에 무슨 일이 있었나](/ko/post/korea-market-after-gtc-taipei-jensen-huang-naver-ai-factory-2026-06-02/) |
 | 젠슨 황은 왜 NAVER와 만날까요? | 소프트뱅크·YTL·델 사례처럼 NVIDIA가 찾는 것은 GPU 구매자가 아니라 현지 AI 공장 운영자다. NAVER는 NAVER Cloud, HyperCLOVA X, 60,000개 이상 GPU 계획, 검색·쇼핑·결제·지도 데이터를 가진 한국형 AI Factory 후보입니다. | [젠슨 황은 왜 네이버와 만날까](/ko/post/naver-nvidia-jensen-huang-softbank-ytl-dell-ai-factory-2026-06-05/) |
 | 이번 주 한국 집중 매수 픽은? | 매주 금요일 저녁(KST) 공개되는 Weekly Concentrated 시리즈가 3-5개 고확신 아이디어를 제시합니다. | [최근 주간 집중 전략](/ko/post/kr-concentrated-weekly-2026-04-24/) |
@@ -59,10 +60,11 @@ lastmod: 2026-06-05T05:15:00+09:00
 | 13 | 기관 순매수 숫자는 어떻게 분해해야 하나? | [Real Money 수급 프레임워크](/ko/post/real-money-flow-framework-korea-institution-quality-2026-06-03/) |
 | 14 | AI 데이터센터 CapEx 5.3조 달러는 한국의 어떤 병목으로 내려오나? | [AI 데이터센터 CapEx 5.3조 달러 시대](/ko/post/ai-datacenter-capex-5p3t-korea-power-substrate-storage-bottleneck-2026-06-05/) |
 | 15 | 외국인 매도 속에서도 삼성전자·하이닉스는 상대가치가 열렸나? | [삼하마 패리티: 삼성전자·하이닉스가 마이크론보다 다시 싸진 구간](/ko/post/samsung-hynix-micron-forward-per-parity-memory-catch-up-2026-06-03/) |
-| 16 | 지수와 평균 종목의 괴리는 어떻게 봐야 하나? | [한국 ADR 67: 지수는 버티는데 왜 종목은 약한가](/ko/post/korea-adr-breadth-narrow-leadership-kospi-kosdaq-2026-05-27/) |
-| 17 | MSCI DM 편입 수혜는 한국 전체인가, 외국인 플레이북 종목인가? | [외국인 플레이북 KOSPI 168·KOSDAQ 355](/ko/post/korea-foreign-playbook-msci-dm-kospi-168-kosdaq-355-2026-05-31/) |
-| 18 | NVIDIA GTC Taipei 이후 한국 AI 인프라 병목은 어디로 번역되나? | [젠슨 황을 바라보는 한국 증시: 간밤에 무슨 일이 있었나](/ko/post/korea-market-after-gtc-taipei-jensen-huang-naver-ai-factory-2026-06-02/) |
-| 19 | 젠슨 황은 왜 소프트뱅크·YTL·델 이후 NAVER를 보나? | [젠슨 황은 왜 네이버와 만날까](/ko/post/naver-nvidia-jensen-huang-softbank-ytl-dell-ai-factory-2026-06-05/) |
+| 16 | 스페이스X 상장은 한국의 AI·우주·HBM 수급에 어떤 영향을 주나? | [스페이스X IPO와 한국 증시](/ko/post/spacex-ipo-korea-market-liquidity-ai-space-readthrough-2026-06-05/) |
+| 17 | 지수와 평균 종목의 괴리는 어떻게 봐야 하나? | [한국 ADR 67: 지수는 버티는데 왜 종목은 약한가](/ko/post/korea-adr-breadth-narrow-leadership-kospi-kosdaq-2026-05-27/) |
+| 18 | MSCI DM 편입 수혜는 한국 전체인가, 외국인 플레이북 종목인가? | [외국인 플레이북 KOSPI 168·KOSDAQ 355](/ko/post/korea-foreign-playbook-msci-dm-kospi-168-kosdaq-355-2026-05-31/) |
+| 19 | NVIDIA GTC Taipei 이후 한국 AI 인프라 병목은 어디로 번역되나? | [젠슨 황을 바라보는 한국 증시: 간밤에 무슨 일이 있었나](/ko/post/korea-market-after-gtc-taipei-jensen-huang-naver-ai-factory-2026-06-02/) |
+| 20 | 젠슨 황은 왜 소프트뱅크·YTL·델 이후 NAVER를 보나? | [젠슨 황은 왜 네이버와 만날까](/ko/post/naver-nvidia-jensen-huang-softbank-ytl-dell-ai-factory-2026-06-05/) |
 
 ---
 
@@ -105,6 +107,7 @@ lastmod: 2026-06-05T05:15:00+09:00
 | 한국 시총 세계 6위 / Why Korea | [Why Korea 5편: 한국 시총 세계 6위](/ko/post/why-korea-market-cap-global-six-ai-memory-rerating-2026-05-24/) |
 | 외국인 수급 / 메모리 대형주 분배 | [한국증시 외국인 수급 분석](/ko/post/korea-foreign-investor-flow-memory-megacap-rotation-2026-05-24/) |
 | 자금흐름 / ADR / 좁은 주도주 레짐 | [유동성은 많은데 시장 폭은 무너졌다](/ko/post/korea-market-liquidity-foreign-reallocation-adr-narrow-leadership-2026-06-03/) |
+| SpaceX IPO / 우주·AI 리밸런싱 | [스페이스X IPO와 한국 증시](/ko/post/spacex-ipo-korea-market-liquidity-ai-space-readthrough-2026-06-05/) |
 | KOSDAQ 수급 / 기관 real money 복귀 조건 | [외국인은 사는데 왜 코스닥은 빠졌나](/ko/post/kosdaq-foreign-buying-institution-real-money-adr-2026-06-03/) |
 | Real Money 수급 / 기관의 질 | [Real Money 수급 프레임워크](/ko/post/real-money-flow-framework-korea-institution-quality-2026-06-03/) |
 | AI 데이터센터 CapEx / 전력·기판·스토리지 병목 | [AI 데이터센터 CapEx 5.3조 달러 시대](/ko/post/ai-datacenter-capex-5p3t-korea-power-substrate-storage-bottleneck-2026-06-05/) |

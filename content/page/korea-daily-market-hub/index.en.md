@@ -5,7 +5,7 @@ date: 2026-05-03T11:00:00+09:00
 aliases: ["/korea-daily/", "/kospi/", "/kosdaq/", "/en/korea-daily/", "/en/page/korea-daily-market-hub/", "/es/page/korea-daily-market-hub/", "/vi/page/korea-daily-market-hub/", "/fr/page/korea-daily-market-hub/", "/ja/page/korea-daily-market-hub/", "/zh/page/korea-daily-market-hub/"]
 layout: "page"
 description: "A hub for Korean stock market daily updates — KOSPI and KOSDAQ market closes, weekly concentrated picks, foreign-investor flows, sector rotation, and what's actually moving in Korean equities each session. Direct answers to 'What is the Korean stock market doing today?' and similar queries."
-lastmod: 2026-06-04T23:47:29+09:00
+lastmod: 2026-06-05T16:20:00+09:00
 ---
 
 ## What This Hub Answers
@@ -16,6 +16,7 @@ Direct, search-engine-friendly answers to the questions global investors ask abo
 |---|---|---|
 | What is the Korean stock market doing today? | The most recent Korea Daily Wrap covers the day's regime, sector rotation, foreign flows, and key disclosures. | [Latest Korea Daily Wrap](/post/kr-daily-wrap-2026-06-04/) |
 | Why does the index hold while the average stock feels weak? | Korea's 20-day ADR is down to 48.9 for KOSPI and 48.1 for KOSDAQ. Liquidity is abundant, but breadth has broken and money is compressed into a narrow leadership list. | [Korea Has Liquidity, But Breadth Has Broken](/post/korea-market-liquidity-foreign-reallocation-adr-narrow-leadership-2026-06-03/) · [Korea's Narrow Path at an 18.1% ADR](/post/korea-narrow-market-jensen-huang-catalyst-gtc-taipei-2026-06-01/) |
+| Can the SpaceX IPO move Korean equities? | It is not a system-wide liquidity crisis. It is a growth, AI, space and Musk-ecosystem rebalancing event that reaches Korea through FX, foreign funding-source trades, HBM validation and space-defense theme flows. | [SpaceX IPO and Korean equities](/post/spacex-ipo-korea-market-liquidity-ai-space-readthrough-2026-06-05/) |
 | What should Korean equities watch after GTC Taipei? | NVIDIA's message expanded beyond GPUs into AI Factory, Vera CPU, Agent Runtime, AI PCs and Physical AI. Korean investors need to map HBM, power, networking, GPUaaS, NAVER Cloud and robotics bottlenecks separately. | [Korea Is Watching Jensen Huang: What Changed Overnight?](/post/korea-market-after-gtc-taipei-jensen-huang-naver-ai-factory-2026-06-02/) |
 | What are this week's top Korean concentrated picks? | The Weekly Concentrated Strategy publishes Friday evening (KST) with 3–5 deep-dive picks. | [Latest Weekly Concentrated](/post/kr-concentrated-weekly-2026-04-24/) |
 | Are foreigners buying or selling Korean stocks? | The headline outflow is less a broad Korea exit and more a Samsung Electronics + SK Hynix mega-cap memory reduction, while foreigners selectively reallocate into KOSDAQ, batteries, robotics, biotech and infrastructure. | [Korea Has Liquidity, But Breadth Has Broken](/post/korea-market-liquidity-foreign-reallocation-adr-narrow-leadership-2026-06-03/) · [Korea Foreign Investor Flow Analysis](/post/korea-foreign-investor-flow-memory-megacap-rotation-2026-05-24/) |
@@ -56,9 +57,10 @@ Sequential reading for someone new to Korean equities — what to read in order 
 | 12 | Why is KOSDAQ not rallying despite foreign buying? | [Why Is KOSDAQ Falling If Foreigners Are Buying?](/post/kosdaq-foreign-buying-institution-real-money-adr-2026-06-03/) |
 | 13 | How should investors decompose institutional buying? | [Real Money Flow Framework](/post/real-money-flow-framework-korea-institution-quality-2026-06-03/) |
 | 14 | Did Samsung and SK hynix become attractive again versus Micron? | [Sam-Ha-Ma Parity: Samsung and Hynix Look Cheap Again Versus Micron](/post/samsung-hynix-micron-forward-per-parity-memory-catch-up-2026-06-03/) |
-| 15 | How should investors read the gap between the index and the average stock? | [Korea ADR at 67: Why the Index Can Hold While Most Stocks Are Weak](/post/korea-adr-breadth-narrow-leadership-kospi-kosdaq-2026-05-27/) |
-| 16 | Is MSCI DM upside broad Korea beta, or a foreign-playbook stock story? | [Korea Foreign-Investor Playbook: KOSPI 168, KOSDAQ 355](/post/korea-foreign-playbook-msci-dm-kospi-168-kosdaq-355-2026-05-31/) |
-| 17 | How does NVIDIA GTC Taipei translate into Korean AI infrastructure bottlenecks? | [Korea Is Watching Jensen Huang: What Changed Overnight?](/post/korea-market-after-gtc-taipei-jensen-huang-naver-ai-factory-2026-06-02/) |
+| 15 | Can the SpaceX IPO move Korean AI, space and HBM flows? | [SpaceX IPO and Korean equities](/post/spacex-ipo-korea-market-liquidity-ai-space-readthrough-2026-06-05/) |
+| 16 | How should investors read the gap between the index and the average stock? | [Korea ADR at 67: Why the Index Can Hold While Most Stocks Are Weak](/post/korea-adr-breadth-narrow-leadership-kospi-kosdaq-2026-05-27/) |
+| 17 | Is MSCI DM upside broad Korea beta, or a foreign-playbook stock story? | [Korea Foreign-Investor Playbook: KOSPI 168, KOSDAQ 355](/post/korea-foreign-playbook-msci-dm-kospi-168-kosdaq-355-2026-05-31/) |
+| 18 | How does NVIDIA GTC Taipei translate into Korean AI infrastructure bottlenecks? | [Korea Is Watching Jensen Huang: What Changed Overnight?](/post/korea-market-after-gtc-taipei-jensen-huang-naver-ai-factory-2026-06-02/) |
 
 ---
 
@@ -101,6 +103,7 @@ The Friday-evening "concentrated" series picks 3–5 highest-conviction Korean e
 | Korea global No. 6 market cap / Why Korea | [Why Korea Part 5: Global No. 6 Market Cap](/post/why-korea-market-cap-global-six-ai-memory-rerating-2026-05-24/) |
 | Foreign flows / memory mega-cap distribution | [Korea Foreign Investor Flow Analysis](/post/korea-foreign-investor-flow-memory-megacap-rotation-2026-05-24/) |
 | Market liquidity / ADR / narrow leadership regime | [Korea Has Liquidity, But Breadth Has Broken](/post/korea-market-liquidity-foreign-reallocation-adr-narrow-leadership-2026-06-03/) |
+| SpaceX IPO / space and AI rebalancing | [SpaceX IPO and Korean equities](/post/spacex-ipo-korea-market-liquidity-ai-space-readthrough-2026-06-05/) |
 | KOSDAQ flows / institutional real-money return | [Why Is KOSDAQ Falling If Foreigners Are Buying?](/post/kosdaq-foreign-buying-institution-real-money-adr-2026-06-03/) |
 | Real Money flows / institution quality | [Real Money Flow Framework](/post/real-money-flow-framework-korea-institution-quality-2026-06-03/) |
 | Foreign ownership / KOSPI stabilization triggers | [KOSPI ownership versus Samsung / SK Hynix](/post/korea-foreign-ownership-kospi-samsung-hynix-divergence-2026-05-26/) |
