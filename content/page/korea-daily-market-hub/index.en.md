@@ -95,7 +95,6 @@ The Friday-evening "concentrated" series picks 3–5 highest-conviction Korean e
 
 | Theme | Direct Answer Link |
 |---|---|
-| Pearl Abyss / Crimson Desert (game sector heavyweight) | [Pearl Abyss Hub](/page/pearl-abyss-crimson-desert-hub/) |
 | Foreign investor access / IBKR / KRX basics | [Korea Stocks for Foreign Investors Hub](/page/korea-stocks-foreign-investors-hub/) |
 | Samsung Electronics + SK hynix + HBM | [Korea Semiconductor / HBM / KOSPI Hub](/page/korea-semiconductor-hbm-kospi-hub/) |
 | Samsung / SK hynix / Micron relative PER | [Sam-Ha-Ma Parity](/post/samsung-hynix-micron-forward-per-parity-memory-catch-up-2026-06-03/) |

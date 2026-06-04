@@ -4,7 +4,7 @@ slug: "korea-stocks-foreign-investors-hub"
 date: 2026-05-07T00:40:00+09:00
 aliases: ["/korea-stocks/", "/korean-stocks/", "/ibkr-korea-stocks/", "/foreign-investors-korea/", "/en/korea-stocks/", "/en/korean-stocks/", "/en/ibkr-korea-stocks/", "/en/page/korea-stocks-foreign-investors-hub/", "/es/page/korea-stocks-foreign-investors-hub/", "/vi/page/korea-stocks-foreign-investors-hub/", "/fr/page/korea-stocks-foreign-investors-hub/", "/ja/page/korea-stocks-foreign-investors-hub/", "/zh/page/korea-stocks-foreign-investors-hub/"]
 layout: "page"
-description: "A foreign-investor guide to Korean stocks: IBKR and international-broker access, KOSPI, KOSDAQ, Samsung Electronics, SK Hynix, Pearl Abyss, Korean financials, AI hardware, K-beauty and daily market research."
+description: "A foreign-investor guide to Korean stocks: IBKR and international-broker access, KOSPI, KOSDAQ, Samsung Electronics, SK Hynix, Korean financials, AI hardware, K-beauty and daily market research."
 lastmod: 2026-06-03T15:10:00+09:00
 ---
 
@@ -40,7 +40,6 @@ Foreign access to Korean equities is becoming less of a brokerage problem and mo
 | Why do Korean AI substrate stocks matter to global investors? | Korea's substrate cluster is not just a theme. It reflects three decades of manufacturing, customer certification and yield learning. That structure is the base layer behind the stock map. | [Why Korea Part 1: Semiconductor Substrates](/post/why-korea-semiconductor-substrate-competitive-edge-2026-05-07/) |
 | Where should global investors start with Korean shipbuilding, SMR and data-center power? | HD Hyundai Heavy Industries is the cleanest case of shipbuilding earnings plus engine/data-center power plus TerraPower Natrium SMR optionality. For now, shipbuilding and engines matter more than SMR EPS. | [HD Hyundai Heavy Industries SMR Option](/post/hd-hyundai-heavy-industries-smr-terrapower-natrium-option-2026-05-27/) |
 | Where should foreign investors start with Korean robotics and physical AI stocks? | Start with Samsung, Hyundai and LG's robotics roadmaps, then follow the value chain down to reducers, actuators, cameras, batteries and assembly suppliers. | [Korea Humanoid Robot Value Chain](/post/korea-robotics-value-chain-complete-map-2026-05-11/) |
-| What are the Korean gaming names global investors search for? | Pearl Abyss is the main Crimson Desert / Black Desert case; Krafton is the PUBG and inZOI large-cap case. | [Pearl Abyss Hub](/page/pearl-abyss-crimson-desert-hub/) |
 | Which Korean financial stocks benefit from Value-Up and foreign access? | KB, Shinhan, Hana, Meritz, Kiwoom, Korea Investment Holdings and brokerages sit at the intersection of capital return, liquidity and foreign access. | [Korean Financials Hub](/page/korean-financials-hub/) |
 | Why do Korean K-beauty stocks matter to global investors? | Korea's cosmetics exports reached USD 11.43 billion in 2025, and the public-market value chain now spans Olive Young, ODM manufacturers, APR, PharmaResearch and listed brand platforms. | [Why Korea Part 2: Korean Cosmetics](/post/why-korea-cosmetics-global-competitiveness-2026-05-07/) |
 | Which Korean K-beauty stocks are investable? | PharmaResearch is the listed Rejuran / PDRN compounding case; Olive Young is private but creates a category map for public alternatives. | [K-Beauty Hub](/page/k-beauty-olive-young-pharmaresearch-hub/) |
@@ -73,7 +72,7 @@ Foreign access to Korean equities is becoming less of a brokerage problem and mo
 | 20 | How should I map Korean robotics and physical AI stocks? | [Korea Humanoid Robot Value Chain](/post/korea-robotics-value-chain-complete-map-2026-05-11/) |
 | 21 | Which Korean financials matter under Value-Up? | [Korean Financials Hub](/page/korean-financials-hub/) |
 | 22 | Why did Korean cosmetics become a top-three export industry? | [Why Korea Part 2: Korean Cosmetics](/post/why-korea-cosmetics-global-competitiveness-2026-05-07/) |
-| 23 | Which Korean consumer and game stories are searchable globally? | [Pearl Abyss Hub](/page/pearl-abyss-crimson-desert-hub/) · [K-Beauty Hub](/page/k-beauty-olive-young-pharmaresearch-hub/) |
+| 23 | Which Korean consumer stories are searchable globally? | [K-Beauty Hub](/page/k-beauty-olive-young-pharmaresearch-hub/) |
 
 ---
 
@@ -87,7 +86,6 @@ Foreign access to Korean equities is becoming less of a brokerage problem and mo
 | Shipbuilding, defense, SMR and data-center power | HD Hyundai Heavy Industries, HD Korea Shipbuilding, Hanwha Ocean, Samsung Heavy Industries, Hanwha Engine, Hyundai E&C | AI data-center power shortages, U.S. shipbuilding cooperation and SMR supply chains are pushing investors to revalue Korean heavy fabrication capacity. |
 | Physical AI and robotics | Rainbow Robotics, SPG, Robotis, Samsung Electro-Mechanics, LG Innotek, HL Mando, Hyundai Mobis | Robot revenue may appear first in reducers, actuators and sensors before pure humanoid makers scale. |
 | Korea Value-Up financials | KB Financial, Shinhan Financial, Hana Financial, Meritz Financial, Kiwoom Securities, Korea Investment Holdings, Samsung Securities | Capital return, brokerage volume, foreign access and governance reform meet in one sector. |
-| Gaming and content | Pearl Abyss, Krafton | Globally recognizable IP gives foreign retail investors a natural single-stock entry point. |
 | K-beauty and medical aesthetics | PharmaResearch, Classys, Hugel, APR | Korean consumer-health brands and aesthetics franchises are easier to understand than many domestic industrial names. |
 | Daily market discovery | KOSPI, KOSDAQ, sector rotation, foreign flows | Overseas investors need an English-language daily map before they can confidently research individual names. |
 
@@ -109,7 +107,7 @@ For market structure, start with KOSPI because the index weights are easier to m
 
 ### Which Korean stocks are easiest for foreign investors to understand first?
 
-The cleanest starting points are Samsung Electronics, SK Hynix, Pearl Abyss, KB Financial, Shinhan Financial, PharmaResearch and the AI substrate chain. They connect to global themes that overseas investors already understand: AI memory, gaming IP, capital return and K-beauty.
+The cleanest starting points are Samsung Electronics, SK Hynix, KB Financial, Shinhan Financial, PharmaResearch and the AI substrate chain. They connect to global themes that overseas investors already understand: AI memory, capital return and K-beauty.
 
 ### What should foreign retail investors be careful about?
 

@@ -99,7 +99,6 @@ lastmod: 2026-06-05T05:15:00+09:00
 
 | 테마 | 직답 링크 |
 |---|---|
-| 펄어비스 / 크림슨 데저트 (게임 섹터 대장주) | [펄어비스 허브](/ko/page/pearl-abyss-crimson-desert-hub/) |
 | 해외 투자자 접근 / IBKR / KRX 기본 지도 | [해외 투자자용 한국 주식 허브](/ko/page/korea-stocks-foreign-investors-hub/) |
 | 삼성전자 + SK하이닉스 + HBM | [한국 반도체 / HBM / KOSPI 허브](/ko/page/korea-semiconductor-hbm-kospi-hub/) |
 | 삼성전자·SK하이닉스·마이크론 상대 PER | [삼하마 패리티](/ko/post/samsung-hynix-micron-forward-per-parity-memory-catch-up-2026-06-03/) |

@@ -122,10 +122,6 @@ buildFuture = true  # 장마감 브리핑(16:30 KST) 등 발행 시각보다 살
       url = "/page/korea-semiconductor-hbm-kospi-hub"
       weight = 2
     [[languages.en.menu.main]]
-      name = "Pearl Abyss Hub"
-      url = "/page/pearl-abyss-crimson-desert-hub"
-      weight = 5
-    [[languages.en.menu.main]]
       name = "Semiconductor Value Chain"
       url = "/page/korea-semiconductor-equipment-ip-hub"
       weight = 3
@@ -226,10 +222,6 @@ buildFuture = true  # 장마감 브리핑(16:30 KST) 등 발행 시각보다 살
       name = "AI HBM 허브"
       url = "/ko/page/korea-semiconductor-hbm-kospi-hub"
       weight = 2
-    [[languages.ko.menu.main]]
-      name = "펄어비스 주가 허브"
-      url = "/ko/page/pearl-abyss-crimson-desert-hub"
-      weight = 5
     [[languages.ko.menu.main]]
       name = "반도체 밸류체인"
       url = "/ko/page/korea-semiconductor-equipment-ip-hub"

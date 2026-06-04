@@ -35,13 +35,7 @@ The goal is simple: turn local Korean market information into usable investment 
 - [SemiScope: OpenEdges Technology - Korea's Memory Subsystem IP Platform](/post/semiscope-openedges-technology-ip-platform-2026-04-25/)
 - [Korea Display Equipment Thesis: Go to Picks & Shovels](/post/korea-display-equipment-picks-shovels-2026-04-25/)
 
-### 3. Pearl Abyss / Korean Gaming
-
-- [Pearl Abyss 1Q26 Earnings Preview](/post/pearl-abyss-1q26-earnings-preview-2026-04-21/)
-- [The BDO Resurgence Nobody Noticed](/post/pearl-abyss-black-desert-online-resurgence-2026-04-19/)
-- [Crimson Desert 5M: The Sell-Side Consensus Gap](/post/pearl-abyss-crimson-desert-consensus-gap-thesis-2026-04-18/)
-
-### 4. Daily Market Discovery
+### 3. Daily Market Discovery
 
 - [Korea Daily Wrap Apr 23: Large-Cap Quality Surge](/post/kr-daily-wrap-2026-04-23/)
 - [Korea Daily Wrap Apr 22: Foreigners Coil Defense & Chemicals](/post/kr-daily-wrap-2026-04-22/)
