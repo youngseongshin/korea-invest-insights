@@ -1,6 +1,6 @@
 ---
 title: "Why Jensen Huang Would Meet NAVER: After SoftBank, YTL and Dell, Korea Needs an AI Factory Operator"
-date: 2026-06-05T14:30:00+09:00
+date: 2026-06-05T05:10:00+09:00
 description: "A NAVER follow-up on why NVIDIA’s Jensen Huang would engage NAVER after SoftBank, YTL and Dell: NAVER Cloud, 60,000+ GPUs, sovereign AI, physical AI and valuation re-rating conditions."
 categories: ["Company-Deep-Dive", "Market-Outlook"]
 tags:

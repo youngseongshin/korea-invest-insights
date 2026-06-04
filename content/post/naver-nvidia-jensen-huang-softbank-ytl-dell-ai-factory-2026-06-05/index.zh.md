@@ -1,6 +1,6 @@
 ---
 title: "黄仁勋为什么会见NAVER：继软银、YTL、戴尔之后，韩国AI工厂运营商的条件"
-date: 2026-06-05T14:30:00+09:00
+date: 2026-06-05T05:10:00+09:00
 description: "NAVER后续分析：NVIDIA、NAVER Cloud、6万颗以上GPU、主权AI、物理AI，以及NAVER估值重估的条件。"
 categories: ["Company-Deep-Dive", "Market-Outlook"]
 tags: ["NAVER", "NVIDIA", "Jensen Huang", "AI Factory", "Sovereign AI", "Physical AI"]

@@ -1,6 +1,6 @@
 ---
 title: "Por qué Jensen Huang miraría a NAVER: tras SoftBank, YTL y Dell, Corea necesita un operador de fábricas de IA"
-date: 2026-06-05T14:30:00+09:00
+date: 2026-06-05T05:10:00+09:00
 description: "Seguimiento de NAVER sobre NVIDIA, NAVER Cloud, más de 60.000 GPU, IA soberana, IA física y las condiciones para una revaloración de múltiplos."
 categories: ["Company-Deep-Dive", "Market-Outlook"]
 tags: ["NAVER", "NVIDIA", "Jensen Huang", "AI Factory", "Sovereign AI", "Physical AI"]

@@ -1,6 +1,6 @@
 ---
 title: "ジェンスン・フアンはなぜNAVERと会うのか：ソフトバンク、YTL、デルの次に韓国型AIファクトリーを見る理由"
-date: 2026-06-05T14:30:00+09:00
+date: 2026-06-05T05:10:00+09:00
 description: "NAVER後続分析。NVIDIA、NAVER Cloud、6万超GPU、ソブリンAI、フィジカルAI、そしてNAVER再評価の条件を整理する。"
 categories: ["Company-Deep-Dive", "Market-Outlook"]
 tags: ["NAVER", "NVIDIA", "Jensen Huang", "AI Factory", "Sovereign AI", "Physical AI"]

@@ -5,7 +5,7 @@ date: 2026-05-03T11:30:00+09:00
 aliases: ["/ko/korean-ai/", "/ko/k-ai/", "/ko/sovereign-ai-korea/", "/ko/page/korean-ai-companies-hub/"]
 layout: "page"
 description: "한국 AI 기업 허브 — 업스테이지(LLM, IPO 일정), 리벨리온·퓨리오사AI(NPU·AI 가속기 스타트업), 네이버 하이퍼클로바 X, 삼성 가우스, 카카오, 그리고 한국 정부 주도 Sovereign AI 프로그램까지. '업스테이지는 상장사인가요?', '퓨리오사AI는 상장사인가요?', '한국 Sovereign AI는 무엇인가요?' 같은 질문의 직접 답."
-lastmod: 2026-06-05T14:35:00+09:00
+lastmod: 2026-06-05T05:15:00+09:00
 ---
 
 ## 이 허브가 답하는 질문

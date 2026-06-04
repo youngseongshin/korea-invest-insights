@@ -1,6 +1,6 @@
 ---
 title: "Vì sao Jensen Huang có thể gặp NAVER: sau SoftBank, YTL và Dell là điều kiện cho nhà vận hành nhà máy AI của Hàn Quốc"
-date: 2026-06-05T14:30:00+09:00
+date: 2026-06-05T05:10:00+09:00
 description: "Bài tiếp theo về NAVER, NVIDIA, NAVER Cloud, hơn 60.000 GPU, sovereign AI, physical AI và điều kiện để NAVER được định giá lại."
 categories: ["Company-Deep-Dive", "Market-Outlook"]
 tags: ["NAVER", "NVIDIA", "Jensen Huang", "AI Factory", "Sovereign AI", "Physical AI"]

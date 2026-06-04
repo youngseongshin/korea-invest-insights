@@ -1,6 +1,6 @@
 ---
 title: "젠슨 황은 왜 네이버와 만날까: 소프트뱅크·YTL·델 이후 한국형 AI 공장의 조건"
-date: 2026-06-05T14:30:00+09:00
+date: 2026-06-05T05:10:00+09:00
 description: "젠슨 황이 일본 소프트뱅크, 말레이시아 YTL, 미국 델 이후 한국의 NAVER를 AI Factory 파트너로 보는 이유를 NAVER Cloud, 6만 GPU, Sovereign AI, Physical AI, 밸류에이션 민감도로 분석한다."
 categories: ["Company-Deep-Dive", "Market-Outlook"]
 tags:
