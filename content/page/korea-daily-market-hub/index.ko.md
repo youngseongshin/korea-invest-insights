@@ -5,7 +5,7 @@ date: 2026-05-03T11:00:00+09:00
 aliases: ["/ko/korea-daily/", "/ko/kospi/", "/ko/kosdaq/", "/ko/page/korea-daily-market-hub/"]
 layout: "page"
 description: "한국 주식시장 일일 업데이트 허브 — KOSPI / KOSDAQ 장마감 브리핑, 주간 집중 픽, 외국인·기관 수급, 섹터 로테이션, 그리고 매 세션 한국 주식에서 실제로 무엇이 움직이는지. '오늘 한국 주식시장은 어떤가요?' 같은 질문의 직접 답."
-lastmod: 2026-06-03T23:45:46+09:00
+lastmod: 2026-06-04T23:47:29+09:00
 ---
 
 ## 이 허브가 답하는 질문
@@ -14,7 +14,7 @@ lastmod: 2026-06-03T23:45:46+09:00
 
 | 검색 질문 | 빠른 답 | 읽을 글 |
 |---|---|---|
-| 오늘 한국 주식시장은 어떤가요? | 가장 최근 Korea Daily Wrap이 그날의 시장 국면, 섹터 로테이션, 외국인 수급, 핵심 공시를 정리합니다. | [최근 데일리 랩](/ko/post/kr-daily-wrap-2026-06-03/) |
+| 오늘 한국 주식시장은 어떤가요? | 가장 최근 Korea Daily Wrap이 그날의 시장 국면, 섹터 로테이션, 외국인 수급, 핵심 공시를 정리합니다. | [최근 데일리 랩](/ko/post/kr-daily-wrap-2026-06-04/) |
 | 지수는 버티는데 왜 체감 장세는 약한가요? | 20일 ADR이 KOSPI 48.9, KOSDAQ 48.1까지 내려왔기 때문이다. 유동성은 많지만 시장 폭은 무너져 있고, 돈은 외국인 재배치 종목과 소수 주도주로만 좁게 흐른다. | [유동성은 많은데 시장 폭은 무너졌다](/ko/post/korea-market-liquidity-foreign-reallocation-adr-narrow-leadership-2026-06-03/) · [ADR 18.1%의 좁은 길](/ko/post/korea-narrow-market-jensen-huang-catalyst-gtc-taipei-2026-06-01/) |
 | 간밤 GTC Taipei 이후 한국 증시는 무엇을 봐야 하나요? | NVIDIA의 메시지는 GPU 단품보다 AI Factory, Vera CPU, Agent Runtime, AI PC, Physical AI로 확장됐다. 한국장은 HBM뿐 아니라 전력, 네트워킹, GPUaaS, NAVER Cloud, 로봇의 병목을 따져야 한다. | [젠슨 황을 바라보는 한국 증시: 간밤에 무슨 일이 있었나](/ko/post/korea-market-after-gtc-taipei-jensen-huang-naver-ai-factory-2026-06-02/) |
 | 이번 주 한국 집중 매수 픽은? | 매주 금요일 저녁(KST) 공개되는 Weekly Concentrated 시리즈가 3-5개 고확신 아이디어를 제시합니다. | [최근 주간 집중 전략](/ko/post/kr-concentrated-weekly-2026-04-24/) |
@@ -43,7 +43,7 @@ lastmod: 2026-06-03T23:45:46+09:00
 | 단계 | 질문 | 읽을 글 |
 |---:|---|---|
 | 1 | 왜 2026년 한국이 글로벌 대비 강한가? | [한국 아웃퍼포먼스 2026: 구조적 재평가 배경](/ko/post/korea-outperformance-2026-structural-rerating-2026-04-24/) |
-| 2 | 일일 시장은 어떤 흐름인가? | [최근 데일리 랩](/ko/post/kr-daily-wrap-2026-06-03/) |
+| 2 | 일일 시장은 어떤 흐름인가? | [최근 데일리 랩](/ko/post/kr-daily-wrap-2026-06-04/) |
 | 3 | 고확신 집중 알파는 어디인가? | [최근 주간 집중 전략](/ko/post/kr-concentrated-weekly-2026-04-24/) |
 | 4 | 시총 1, 2위 기업의 깊이 있는 분석은? | [삼성전자 딥다이브](/ko/post/kr-deep-dive-samsung-electronics-2026-04-16/) · [SK하이닉스 딥다이브](/ko/post/kr-deep-dive-sk-hynix-2026-04-16/) |
 | 5 | 가격이 안 붙은 KOSDAQ 코너는? | [KOSDAQ 커버리지 갭 & Variant Perception](/ko/post/kosdaq-coverage-gaps-variant-perception-2026-04-23/) |
@@ -66,13 +66,13 @@ lastmod: 2026-06-03T23:45:46+09:00
 
 | 날짜 | 주제 | 읽을 글 |
 |---|---|---|
+| 2026-06-04 | 한국 퀄리티 리레이팅 워치 2026-06-04: 기가비스·브이엠·이오테크닉스 — 반도체 장비에 돈이 몰린다 | [데일리 랩 2026-06-04](/ko/post/kr-daily-wrap-2026-06-04/) |
 | 2026-06-03 | 한국 퀄리티 리레이팅 워치 2026-06-03: 브이엠·SK스퀘어·이수페타시스 — 돈이 붙는 좋은 기업 | [데일리 랩 2026-06-03](/ko/post/kr-daily-wrap-2026-06-03/) |
 | 2026-06-02 | 한국 퀄리티 리레이팅 워치 2026-06-02: 브이엠·이수페타시스·SK스퀘어 — 돈이 붙는 좋은 기업 | [데일리 랩 2026-06-02](/ko/post/kr-daily-wrap-2026-06-02/) |
 | 2026-06-01 | 한국 퀄리티 리레이팅 워치 2026-06-01: 기가비스·DB하이텍·에이피알 — 약세장이 걸러낸 진짜 후보 | [데일리 랩 2026-06-01](/ko/post/kr-daily-wrap-2026-06-01/) |
 | 2026-05-29 | 한국 퀄리티 리레이팅 워치 2026-05-29: 브이엠·기가비스·DB하이텍 — 수급이 붙는 퀄리티 기업 | [데일리 랩 2026-05-29](/ko/post/kr-daily-wrap-2026-05-29/) |
 | 2026-05-28 | 한국 퀄리티 리레이팅 워치 2026-05-28: 브이엠·프로텍·기가비스 — 수급과 실적이 동시에 붙는 기업들 | [데일리 랩 2026-05-28](/ko/post/kr-daily-wrap-2026-05-28/) |
 | 2026-05-27 | 한국 퀄리티 리레이팅 워치 2026-05-27: SK스퀘어·HD현대중공업·기가비스 — 기관·외국인이 담는 퀄리티 | [데일리 랩 2026-05-27](/ko/post/kr-daily-wrap-2026-05-27/) |
-| 2026-05-26 | 한국 퀄리티 리레이팅 워치 2026-05-26: 기가비스·브이엠·마이크로컨텍솔 — 퀄리티 위에 수급이 붙는 기업들 | [데일리 랩 2026-05-26](/ko/post/kr-daily-wrap-2026-05-26/) |
 
 이전 일일 브리핑은 [아카이브](/ko/page/archives)에서 확인할 수 있습니다.
 
