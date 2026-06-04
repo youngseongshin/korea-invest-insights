@@ -10,7 +10,6 @@ from __future__ import annotations
 
 import argparse
 import datetime as dt
-import fcntl
 import json
 import os
 import subprocess
@@ -20,17 +19,42 @@ from pathlib import Path
 import valley_auto_publish
 import valley_crosspost as valley
 
+if hasattr(sys.stdout, "reconfigure"):
+    sys.stdout.reconfigure(encoding="utf-8")
+if hasattr(sys.stderr, "reconfigure"):
+    sys.stderr.reconfigure(encoding="utf-8")
+
 
 DEFAULT_REPO_ROOT = Path(__file__).resolve().parents[1]
 DEFAULT_CONFIG_PATH = Path.home() / ".config" / "korea-invest-insights" / "valley.env"
 DEFAULT_DATA_DIR = Path.home() / ".local" / "share" / "korea-invest-insights"
 LOCK_PATH = DEFAULT_DATA_DIR / "post_publish_distribution.lock"
-OPENCLAW_TOOLS = Path.home() / ".openclaw" / "workspace" / "tools"
 # Valley cross-posting is paused in the default blog publish path. Keep it as
 # an explicit opt-in channel so it can be revived without restoring old code.
 DEFAULT_CHANNELS = ["telegram", "botmadang", "substack"]
 SUPPORTED_CHANNELS = set(DEFAULT_CHANNELS) | {"valley"}
 UNIFIED_WATERMARK_KEY = "unifiedDistributionActivatedAt"
+
+
+def resolve_openclaw_tools() -> Path:
+    configured = os.environ.get("OPENCLAW_TOOLS", "").strip()
+    candidates = []
+    if configured:
+        candidates.append(Path(configured).expanduser())
+    candidates.extend(
+        [
+            Path.home() / ".openclaw" / "workspace" / "tools",
+            DEFAULT_REPO_ROOT.parent / "openclaw-workspace" / "workspace" / "tools",
+            DEFAULT_REPO_ROOT.parent / "openclaw-workspace" / "tools",
+        ]
+    )
+    for candidate in candidates:
+        if candidate.exists():
+            return candidate.resolve()
+    return candidates[0].resolve()
+
+
+OPENCLAW_TOOLS = resolve_openclaw_tools()
 
 
 def valley_access_allowed() -> bool:
@@ -101,17 +125,29 @@ def save_json(path: Path, data: dict) -> None:
     path.write_text(json.dumps(data, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
 
 
-def acquire_distribution_lock() -> object | None:
+class DistributionLock:
+    def __init__(self, path: Path, fd: int):
+        self.path = path
+        self.fd = fd
+
+    def release(self) -> None:
+        try:
+            os.close(self.fd)
+        finally:
+            try:
+                self.path.unlink()
+            except FileNotFoundError:
+                pass
+
+
+def acquire_distribution_lock() -> DistributionLock | None:
     LOCK_PATH.parent.mkdir(parents=True, exist_ok=True)
-    lock_handle = LOCK_PATH.open("w", encoding="utf-8")
     try:
-        fcntl.flock(lock_handle.fileno(), fcntl.LOCK_EX | fcntl.LOCK_NB)
-    except BlockingIOError:
-        lock_handle.close()
+        fd = os.open(str(LOCK_PATH), os.O_CREAT | os.O_EXCL | os.O_WRONLY)
+    except FileExistsError:
         return None
-    lock_handle.write(f"{os.getpid()}\n")
-    lock_handle.flush()
-    return lock_handle
+    os.write(fd, f"{os.getpid()}\n".encode("utf-8"))
+    return DistributionLock(LOCK_PATH, fd)
 
 
 def post_slug(post: dict) -> str:
@@ -290,7 +326,17 @@ def discover_channel_candidates(args: argparse.Namespace, channel: str) -> tuple
 
 def run_external(command: list[str], args: argparse.Namespace) -> tuple[int, str]:
     env = os.environ.copy()
-    env["PYTHONPATH"] = f"{OPENCLAW_TOOLS}:{env.get('PYTHONPATH', '')}"
+    repo_root = Path(args.repo_root).resolve()
+    python_paths = [str(OPENCLAW_TOOLS), str(repo_root / "scripts")]
+    if env.get("PYTHONPATH"):
+        python_paths.append(env["PYTHONPATH"])
+    env["PYTHONPATH"] = os.pathsep.join(python_paths)
+    env.setdefault("KII_REPO_ROOT", str(repo_root))
+    env.setdefault("KOREA_INVEST_INSIGHTS_ROOT", str(repo_root))
+    env.setdefault("KII_SCRIPTS", str(repo_root / "scripts"))
+    env.setdefault("OPENCLAW_TOOLS", str(OPENCLAW_TOOLS))
+    env.setdefault("PYTHONUTF8", "1")
+    env.setdefault("PYTHONIOENCODING", "utf-8")
     if args.dry_run:
         return 0, "dry_run"
     completed = subprocess.run(
@@ -547,8 +593,7 @@ def main(argv: list[str] | None = None) -> int:
         )
     )
     if lock_handle is not None:
-        fcntl.flock(lock_handle.fileno(), fcntl.LOCK_UN)
-        lock_handle.close()
+        lock_handle.release()
     return 0 if status == "completed" else 1
 
 
