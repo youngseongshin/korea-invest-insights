@@ -5,7 +5,7 @@ date: 2026-05-05T23:20:00+09:00
 aliases: ["/ko/ai-pcb/", "/ko/pcb/", "/ko/fc-bga/", "/ko/ccl/", "/ko/ai-substrate/", "/ko/page/korea-ai-pcb-substrate-hub/"]
 layout: "page"
 description: "AI 기판·PCB 투자 허브. FC-BGA, MLB, CCL, 저유전율 소재, 삼성전기, 대덕전자, 두산전자BG, 코오롱인더, 파미셀을 한곳에 묶어 GPU·CPU·NIC·스위치 ASIC이 만드는 AI 시스템 병목을 정리한다."
-lastmod: 2026-06-03T17:40:00+09:00
+lastmod: 2026-06-05T10:45:00+09:00
 ---
 
 ## 한 줄 결론
@@ -23,6 +23,8 @@ AI 기판 투자는 "GPU 다음 테마"가 아니라 <strong>AI 시스템 전체
 | AI 칩 설계에서 왜 FC-BGA와 고속 PCB가 중요해졌나요? | AI 칩 성능은 초당 연산량보다 데이터를 덜 움직이고, 메모리와 연산칩을 더 가까이 붙이는 데 달려 있다. 그래서 HBM 아래에서 FC-BGA, 고다층 PCB, 전력 안정화 부품이 성능 병목으로 올라온다. | [엔비디아 이후 AI 반도체 병목](/ko/post/ai-chip-design-data-movement-fcbga-bottleneck-2026-05-24/) |
 | 마벨 Q1 FY2027 실적은 AI 기판 thesis를 강화했나요? | 그렇다. Marvell이 custom XPU, 51.2T Ethernet switch, 800G/1.6T optics, scale-up networking을 성장축으로 제시하면서 GPU용 기판뿐 아니라 network ASIC·XPU attach용 FCBGA와 고속 PCB 난이도가 같이 올라간다. | [마벨 Q1 FY2027 실적과 한국 반도체](/ko/post/marvell-q1-fy2027-korea-semiconductor-readthrough-2026-05-28/) |
 | 젠슨 황의 마벨 1조 달러 발언과 브로드컴 실적은 한국 기판주에 어떤 의미인가요? | 핵심은 HBM이 아니라 연결 병목이다. 마벨은 NVLink Fusion 안의 맞춤형 AI 가속기와 대규모 네트워크를, 브로드컴은 AI 반도체 107억 달러 가이던스와 Tomahawk 6·CPO를 통해 AI 네트워크 병목을 숫자로 검증해야 한다. 한국 1차 파급은 삼성전기, 코리아써키트, 이수페타시스다. | [젠슨 황의 마벨 1조 달러 발언](/ko/post/marvell-trillion-broadcom-readthrough-korea-ai-connectivity-2026-06-02/) |
+| 브로드컴이 2027년 AI 반도체 1,000억 달러 초과를 다시 확인한 것은 한국 기판주에 어떤 의미인가요? | AI ASIC과 AI 네트워크 수요가 유지된다는 신호다. 다만 주가 하락은 시장이 더 큰 상향을 기대했다는 뜻이므로, 삼성전기·코리아써키트·이수페타시스는 고객 인증, FC-BGA·고속기판 마진, 반복 수주를 숫자로 증명해야 한다. | [브로드컴 2027년 AI 반도체 1,000억 달러 재확인](/ko/post/broadcom-ai-semiconductor-100b-2027-korea-value-chain-2026-06-05/) |
+| AI 데이터센터 CapEx 5.3조 달러는 기판·PCB에 어떤 의미인가요? | CapEx가 커질수록 GPU보다 전력, 기판, 광연결, eSSD 병목이 넓어진다. 기판에서는 FC-BGA와 고다층 PCB를 구분하고, 삼성전기·이수페타시스·대덕전자·코리아써키트가 단가(P), 물량(Q), 비용(C)을 증명해야 한다. | [AI 데이터센터 CapEx 5.3조 달러 시대](/ko/post/ai-datacenter-capex-5p3t-korea-power-substrate-storage-bottleneck-2026-06-05/) |
 | 마벨 후속으로 광원 병목은 한국 기판 thesis와 어떻게 연결되나요? | AI 네트워크가 800G·1.6T·CPO로 가면 기판과 고속 PCB만이 아니라 EML·CW-DFB 광원도 병목이 된다. 오이솔루션은 국내에서 가장 직접적인 EML/ELSFP proxy지만, 현재 수급은 쏠리드·RFHIC·삼지전자 같은 AI-RAN/RU 쪽이 더 살아 있어 기술 직접성과 매매 우선순위를 분리해야 한다. | [마벨 후속: EML·CW-DFB 광원](/ko/post/marvell-follow-up-eml-cw-dfb-laser-source-korea-cpo-2026-06-03/) |
 | 메모리 ASP가 2027년 꺾이면 AI 기판도 같이 피크아웃인가요? | 아니다. JP모간 피크아웃은 주로 범용 메모리 가격 상승률에 적용된다. 골드만의 2030년 토큰 수요가 맞으면 서버·랙 복잡도는 계속 올라가, 기판 면적·전력 안정화·FC-BGA·MLCC 수요는 메모리 가격 모멘텀과 별개로 이어질 수 있다. | [골드만 토큰 수요 vs JP모간 메모리 ASP 피크아웃](/ko/post/goldman-token-demand-vs-jpm-memory-asp-peakout-korea-semiconductor-2026-05-31/) |
 | 한국 AI 기판 생태계에서 어떤 회사를 비교해야 하나요? | 기판 제조사만 보면 부족하다. 삼성전기·대덕전자·이수페타시스·심텍·코리아써키트에 두산전자BG, 코오롱인더, 파미셀, 티엘비, 태성까지 같이 봐야 한다. | [한국 AI 기판·PCB 생태계 10개사](/ko/post/korea-ai-pcb-ecosystem-ten-companies-2026-05-05/) |
@@ -57,7 +59,9 @@ AI 기판 투자는 "GPU 다음 테마"가 아니라 <strong>AI 시스템 전체
 | 2+ | AI 칩 설계 관점에서 왜 데이터 이동·FC-BGA·고속 PCB가 병목인가 | [엔비디아 이후 AI 반도체 병목](/ko/post/ai-chip-design-data-movement-fcbga-bottleneck-2026-05-24/) |
 | 2++ | 마벨 실적은 custom XPU·network ASIC용 기판 병목을 어떻게 확인했나 | [마벨 Q1 FY2027 실적과 한국 반도체](/ko/post/marvell-q1-fy2027-korea-semiconductor-readthrough-2026-05-28/) |
 | 2+++ | 젠슨 황의 마벨 1조 달러 발언과 브로드컴 실적은 한국에서 어떤 연결·기판 병목을 다시 가격에 반영하나 | [젠슨 황의 마벨 1조 달러 발언](/ko/post/marvell-trillion-broadcom-readthrough-korea-ai-connectivity-2026-06-02/) |
-| 2+++A | 연결 병목을 광원까지 내리면 EML·CW-DFB·ELSFP와 오이솔루션은 어떻게 봐야 하나 | [마벨 후속: EML·CW-DFB 광원](/ko/post/marvell-follow-up-eml-cw-dfb-laser-source-korea-cpo-2026-06-03/) |
+| 2+++A | 브로드컴 Q2 이후 AI ASIC 1,000억 달러 프레임은 FC-BGA·고속 PCB·Si-Cap에 어떻게 연결되나 | [브로드컴 2027년 AI 반도체 1,000억 달러 재확인](/ko/post/broadcom-ai-semiconductor-100b-2027-korea-value-chain-2026-06-05/) |
+| 2+++B | 5.3조 달러 AI 데이터센터 CapEx는 전력·기판·광연결·스토리지 병목으로 어떻게 내려오나 | [AI 데이터센터 CapEx 5.3조 달러 시대](/ko/post/ai-datacenter-capex-5p3t-korea-power-substrate-storage-bottleneck-2026-06-05/) |
+| 2+++C | 연결 병목을 광원까지 내리면 EML·CW-DFB·ELSFP와 오이솔루션은 어떻게 봐야 하나 | [마벨 후속: EML·CW-DFB 광원](/ko/post/marvell-follow-up-eml-cw-dfb-laser-source-korea-cpo-2026-06-03/) |
 | 2++++ | AI 사용량에 가격이 붙으면 FC-BGA·기판은 토큰당 비용 테제에 어떻게 연결되나 | [AI 토큰 선물과 토큰당 비용 투자 논거](/ko/post/ai-token-futures-cost-per-token-korea-semiconductor-thesis-2026-05-30/) |
 | 2+++++ | 같은 AI 인프라 안에서도 MLCC·FC-BGA는 왜 GPU/HBM과 다른 멀티플을 받나 | [AI 인프라 멀티플 지도](/ko/post/ai-infrastructure-multiple-map-gpu-hbm-mlcc-fcbga-samsung-2026-05-31/) |
 | 3 | 한국 AI 기판 생태계 10개사를 어떻게 나눠 봐야 하나 | [한국 AI 기판·PCB 생태계 10개사](/ko/post/korea-ai-pcb-ecosystem-ten-companies-2026-05-05/) |

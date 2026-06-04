@@ -34,6 +34,8 @@ draft: false
 
 > 📚 연결 맥락
 > 이 글은 [마벨·브로드컴 실적 전 한국 반도체 병목 점검](/ko/post/marvell-broadcom-earnings-korea-ai-bottleneck-preview-2026-05-23/), [마벨 Q1 FY2027 실적과 한국 반도체](/ko/post/marvell-q1-fy2027-korea-semiconductor-readthrough-2026-05-28/), [AI 인프라 멀티플 지도](/ko/post/ai-infrastructure-multiple-map-gpu-hbm-mlcc-fcbga-samsung-2026-05-31/)의 후속편입니다. 관련 허브는 [AI 기판·PCB 허브](/ko/page/korea-ai-pcb-substrate-hub/), [한국 반도체 밸류체인 허브](/ko/page/korea-semiconductor-equipment-ip-hub/), [AI HBM 허브](/ko/page/korea-semiconductor-hbm-kospi-hub/)입니다.
+>
+> 🔁 브로드컴 실적 발표 후속편은 [브로드컴 2027년 AI 반도체 1,000억 달러 재확인과 한국 밸류체인](/ko/post/broadcom-ai-semiconductor-100b-2027-korea-value-chain-2026-06-05/)에서 이어집니다.
 
 ## TL;DR
 

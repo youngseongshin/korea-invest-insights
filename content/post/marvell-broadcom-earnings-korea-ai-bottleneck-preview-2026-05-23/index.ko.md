@@ -40,6 +40,8 @@ draft: false
 > [ARM 급등과 한국 반도체 병목 이동](/ko/post/arm-ai-cpu-rally-korea-semiconductor-value-chain-2026-05-22/) / [엔비디아 Q1 FY27 이후 한국 AI 인프라](/ko/post/nvidia-q1-fy27-korea-ai-infra-supply-chain-2026-05-21/) / [삼성전기 실리콘 커패시터 1.5조원](/ko/post/samsung-electro-mechanics-silicon-capacitor-1p5tn-2026-05-21/) / [삼성전자 TSMC식 리레이팅](/ko/post/samsung-electronics-tsmc-rerating-thesis-2026-05-16/) / [엔비디아 VR200 부품 원가표 검산](/ko/post/vera-rubin-vr200-bom-memory-pcb-mlcc-korea-alpha-2026-05-21/)
 >
 > 🔁 실적 발표 후속편: [마벨 Q1 FY2027 실적과 한국 반도체 — HBM보다 연결·기판·전력 병목](/ko/post/marvell-q1-fy2027-korea-semiconductor-readthrough-2026-05-28/)
+>
+> 🔁 브로드컴 Q2 후속편: [브로드컴이 2027년 AI 반도체 1,000억 달러를 다시 확인했다](/ko/post/broadcom-ai-semiconductor-100b-2027-korea-value-chain-2026-06-05/)
 
 *마벨과 브로드컴의 다음 실적발표는 한국 반도체 투자에서 “HBM만 보면 되는가”라는 질문을 다시 여는 이벤트다. 브로드컴은 AI 맞춤형 칩과 AI 이더넷 네트워크가 Q2 AI 반도체 107억 달러 가이던스를 얼마나 넘는지, 마벨은 맞춤형 AI 칩·전기광학·CXL/PCIe 연결이 실제 매출 가속으로 이어지는지가 핵심이다. 숫자가 강하면 한국 수혜는 SK하이닉스·삼성전자 HBM에서 삼성전기 실리콘 커패시터, FC-BGA, 고속 PCB, 테스트소켓으로 확산된다.*
 
