@@ -33,7 +33,7 @@ draft: false
 ---
 
 > 연결 맥락
-> 이 글은 [ADR 18.1%의 좁은 길: 젠슨 황을 바라보는 한국 증시에 필요한 촉매](/ko/post/korea-narrow-market-jensen-huang-catalyst-gtc-taipei-2026-06-01/)와 [네이버 시총 36.7조원: 두나무 결합 현금성자산 8조원, 미래에셋 지분 3조원은 반영됐나](/ko/post/naver-rerating-dunamu-mirae-ai-cloud-stablecoin-turnaround-2026-05-31/)의 후속입니다. 전자는 2026년 6월 1일 한국장의 좁은 수급과 젠슨 황 촉매를 봤고, 후자는 NAVER를 포털주가 아니라 AI cloud·금융자산·스테이블코인 옵션으로 다시 봤습니다. 이번 글은 간밤 NVIDIA GTC Taipei 메시지를 한국 증시의 다음 질문으로 번역합니다. 관련 허브는 [한국 데일리 마켓 허브](/ko/page/korea-daily-market-hub/), [한국 AI 기업 허브](/ko/page/korean-ai-companies-hub/), [한국 반도체 / HBM 허브](/ko/page/korea-semiconductor-hbm-kospi-hub/)입니다.
+> 이 글은 [ADR 18.1%의 좁은 길: 젠슨 황을 바라보는 한국 증시에 필요한 촉매](/ko/post/korea-narrow-market-jensen-huang-catalyst-gtc-taipei-2026-06-01/)와 [네이버 시총 36.7조원: 두나무 결합 현금성자산 8조원, 미래에셋 지분 3조원은 반영됐나](/ko/post/naver-rerating-dunamu-mirae-ai-cloud-stablecoin-turnaround-2026-05-31/)의 후속입니다. 전자는 2026년 6월 1일 한국장의 좁은 수급과 젠슨 황 촉매를 봤고, 후자는 NAVER를 포털주가 아니라 AI cloud·금융자산·스테이블코인 옵션으로 다시 봤습니다. 이어지는 NAVER 전용 후속글은 [젠슨 황은 왜 네이버와 만날까](/ko/post/naver-nvidia-jensen-huang-softbank-ytl-dell-ai-factory-2026-06-05/)입니다. 이번 글은 간밤 NVIDIA GTC Taipei 메시지를 한국 증시의 다음 질문으로 번역합니다. 관련 허브는 [한국 데일리 마켓 허브](/ko/page/korea-daily-market-hub/), [한국 AI 기업 허브](/ko/page/korean-ai-companies-hub/), [한국 반도체 / HBM 허브](/ko/page/korea-semiconductor-hbm-kospi-hub/)입니다.
 
 ## TL;DR
 

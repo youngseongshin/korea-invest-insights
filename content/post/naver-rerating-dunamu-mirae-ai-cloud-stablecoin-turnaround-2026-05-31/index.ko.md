@@ -26,7 +26,7 @@ draft: false
 ---
 
 > 연결 맥락
-> 이 글은 [중국·홍콩 AI 과열의 한국장 전이 가능성](/ko/post/china-hong-kong-ai-overheat-korea-ai-cloud-llm-proxy-2026-05-31/)과 [미국 비반도체 리레이팅의 한국장 번역](/ko/post/us-nonsemi-rerating-ai-power-software-korea-translation-2026-05-31/)의 후속입니다. 앞선 글에서 NAVER를 sovereign AI와 AI software/data operations 후보로 언급했다면, 이번 글은 NAVER 자체를 두나무, 미래에셋증권 지분, AI 클라우드, 원화 스테이블코인, 글로벌 C2C 턴어라운드까지 묶어 SOTP 관점으로 다시 봅니다. 다음 후속글은 [알리바바 AI 결제 3억 건과 한국 셀러 OS](/ko/post/alibaba-ai-pay-accio-work-korea-agentic-commerce-seller-os-2026-05-31/)로, NAVER 리레이팅 논거를 agentic commerce와 seller workflow 관점에서 확장합니다. 관련 허브는 [한국 AI 기업 허브](/ko/page/korean-ai-companies-hub/), [한국 금융주 허브](/ko/page/korean-financials-hub/), [해외 투자자를 위한 한국 주식 허브](/ko/page/korea-stocks-foreign-investors-hub/)입니다.
+> 이 글은 [중국·홍콩 AI 과열의 한국장 전이 가능성](/ko/post/china-hong-kong-ai-overheat-korea-ai-cloud-llm-proxy-2026-05-31/)과 [미국 비반도체 리레이팅의 한국장 번역](/ko/post/us-nonsemi-rerating-ai-power-software-korea-translation-2026-05-31/)의 후속입니다. 앞선 글에서 NAVER를 sovereign AI와 AI software/data operations 후보로 언급했다면, 이번 글은 NAVER 자체를 두나무, 미래에셋증권 지분, AI 클라우드, 원화 스테이블코인, 글로벌 C2C 턴어라운드까지 묶어 SOTP 관점으로 다시 봅니다. 후속으로는 [젠슨 황은 왜 네이버와 만날까](/ko/post/naver-nvidia-jensen-huang-softbank-ytl-dell-ai-factory-2026-06-05/)에서 NAVER Cloud와 NVIDIA Global AI Factory 협력이 왜 NAVER의 비교군을 바꿀 수 있는지 분석했고, [알리바바 AI 결제 3억 건과 한국 셀러 OS](/ko/post/alibaba-ai-pay-accio-work-korea-agentic-commerce-seller-os-2026-05-31/)에서는 agentic commerce와 seller workflow 관점으로 확장합니다. 관련 허브는 [한국 AI 기업 허브](/ko/page/korean-ai-companies-hub/), [한국 금융주 허브](/ko/page/korean-financials-hub/), [해외 투자자를 위한 한국 주식 허브](/ko/page/korea-stocks-foreign-investors-hub/)입니다.
 
 ## TL;DR
 
