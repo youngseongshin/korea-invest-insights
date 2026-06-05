@@ -374,22 +374,26 @@ html[lang^="zh"] .left-sidebar #main-menu > li[data-menu-section]::before {
 }
 
 .article-content .thesis-callout {
-  max-width: min(72rem, 100%);
+  max-width: min(68rem, 100%);
   margin: 1.75rem 0 2rem;
-  padding: 1.15rem 1.4rem 1.2rem 1.5rem;
-  border: 1px solid var(--kii-sage-line);
+  padding: 1.05rem 1.35rem 1.1rem 1.4rem;
+  border: 0;
   border-left: 0.3rem solid var(--kii-sage);
-  border-radius: 8px;
+  border-radius: 6px;
   background:
     linear-gradient(var(--kii-sage-wash), var(--kii-sage-wash)),
     var(--card-background);
-  box-shadow: var(--shadow-l1, 0 4px 6px rgba(15, 23, 42, 0.04));
+  box-shadow: none;
 }
 
-.article-content .thesis-callout::before {
+/* Label chip — shared by the data-label (::before) and BEM (__label) markups.
+   Scope ::before to [data-label] so the BEM form does not render an empty pill. */
+.article-content .thesis-callout[data-label]::before,
+.article-content .thesis-callout__label {
   content: attr(data-label);
   display: inline-flex;
   align-items: center;
+  width: fit-content;
   margin-bottom: 0.5rem;
   padding: 0.14rem 0.5rem;
   border-radius: 999px;
@@ -401,16 +405,14 @@ html[lang^="zh"] .left-sidebar #main-menu > li[data-menu-section]::before {
   line-height: 1.2;
 }
 
-.article-content .thesis-callout p {
+/* Body text — shared by the data-label (p) and BEM (__body) markups. */
+.article-content .thesis-callout p,
+.article-content .thesis-callout__body {
   margin: 0;
   color: var(--card-text-color-main);
   font-size: 1.1rem;
   font-weight: 600;
   line-height: 1.6;
-}
-
-[data-scheme="dark"] .article-content .thesis-callout {
-  box-shadow: 0 6px 16px rgba(0, 0, 0, 0.24);
 }
 
 .article-content > h2:first-of-type {
