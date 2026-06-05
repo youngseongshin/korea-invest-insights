@@ -404,10 +404,10 @@ html[lang^="zh"] .left-sidebar #main-menu > li[data-menu-section]::before {
 .article-content .thesis-callout__body {
   margin: 0;
   color: var(--card-text-color-main);
-  font-size: 1.6rem;
+  font-size: 1.8rem;
   font-style: italic;
-  font-weight: 500;
-  line-height: 1.55;
+  font-weight: 700;
+  line-height: 1.5;
   letter-spacing: -0.01em;
 }
 
@@ -429,17 +429,8 @@ html[lang^="zh"] .left-sidebar #main-menu > li[data-menu-section]::before {
 .article-content > h2:first-of-type + ul,
 .article-content > h2:first-of-type + ol {
   margin: 0 0 2.2rem;
-  padding: 1.15rem 1.35rem 1.15rem 2.05rem;
   max-width: min(68rem, 100%);
-  border: 1px solid transparent;
-  border-radius: 8px;
-  background: var(--kii-sage-wash, rgba(47, 125, 107, 0.055));
-}
-
-[data-scheme="dark"] .article-content > h2:first-of-type + ul,
-[data-scheme="dark"] .article-content > h2:first-of-type + ol {
-  border-color: transparent;
-  background: var(--kii-sage-wash, rgba(109, 179, 159, 0.1));
+  background: none;
 }
 
 @media (max-width: 768px) {
