@@ -373,21 +373,15 @@ html[lang^="zh"] .left-sidebar #main-menu > li[data-menu-section]::before {
   font-weight: 700;
 }
 
+/* Frameless pull-quote: no box, large italic body wrapped in curly quotes. */
 .article-content .thesis-callout {
   max-width: min(68rem, 100%);
-  margin: 1.9rem 0 2.1rem;
-  padding: 1.4rem 1.6rem;
-  border: 1px solid var(--card-separator-color, rgba(15, 23, 42, 0.1));
-  border-left: 0.28rem solid var(--accent-color, #2563eb);
-  border-radius: 10px;
-  background: var(--card-background, #fff);
-  box-shadow: var(--shadow-l1, 0 6px 18px rgba(15, 23, 42, 0.05));
-}
-
-[data-scheme="dark"] .article-content .thesis-callout {
-  border-color: rgba(240, 246, 252, 0.12);
-  border-left-color: var(--accent-color, #6da3f7);
-  background: #202821;
+  margin: 2.1rem 0 2.3rem;
+  padding: 0;
+  border: 0;
+  border-radius: 0;
+  background: none;
+  box-shadow: none;
 }
 
 /* Eyebrow label — accent-colored, shared by data-label (::before) and BEM (__label).
@@ -396,23 +390,36 @@ html[lang^="zh"] .left-sidebar #main-menu > li[data-menu-section]::before {
 .article-content .thesis-callout__label {
   content: attr(data-label);
   display: block;
-  margin-bottom: 0.6rem;
+  margin-bottom: 0.55rem;
   color: var(--accent-color, #2563eb);
-  font-size: 0.82rem;
+  font-size: 0.85rem;
   font-weight: 800;
+  font-style: normal;
   letter-spacing: 0.06em;
   line-height: 1.2;
 }
 
-/* Emphasized body — pull-quote scale, shared by data-label (p) and BEM (__body). */
+/* Pull-quote body — large italic, shared by data-label (p) and BEM (__body). */
 .article-content .thesis-callout p,
 .article-content .thesis-callout__body {
   margin: 0;
   color: var(--card-text-color-main);
-  font-size: 1.38rem;
-  font-weight: 600;
-  line-height: 1.62;
+  font-size: 1.6rem;
+  font-style: italic;
+  font-weight: 500;
+  line-height: 1.55;
   letter-spacing: -0.01em;
+}
+
+/* Wrap the body text in curly quotation marks. */
+.article-content .thesis-callout p::before,
+.article-content .thesis-callout__body::before {
+  content: "\201C";
+}
+
+.article-content .thesis-callout p::after,
+.article-content .thesis-callout__body::after {
+  content: "\201D";
 }
 
 .article-content > h2:first-of-type {
