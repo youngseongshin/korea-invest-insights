@@ -5,7 +5,7 @@ date: 2026-04-30T23:05:00+09:00
 aliases: ["/ko/hbm/", "/ko/semiconductor/", "/ko/samsung-hynix/", "/ko/kospi-hbm/", "/ko/page/hbm/"]
 layout: "page"
 description: "AI HBM 허브. 삼성전자, SK하이닉스, HBM, AI 메모리, 코스피 지수 쏠림과 한국 반도체 투자 논거를 한곳에 모은 리서치 허브. HBM 시장점유율, 삼성전자 코스피 비중, KOSPI 리레이팅, AI 서버 수요를 순서대로 정리한다."
-lastmod: 2026-06-05T10:45:00+09:00
+lastmod: 2026-06-05T12:34:00+09:00
 ---
 
 ## 한 줄 결론
@@ -26,6 +26,7 @@ lastmod: 2026-06-05T10:45:00+09:00
 | 삼성전자 HBM4E 12단 샘플 출하는 무엇을 의미하나 | 샘플 출하는 HBM catch-up의 증거지만 고객 인증·양산·EPS revision 전에는 확정 매출이 아니다. 한미반도체에는 직접 수주가 아니라 삼성향 TC본더 옵션가치 상승으로 해석해야 한다. | [삼성전자 HBM4E 12단 샘플 출하](/ko/post/samsung-electronics-hbm4e-12h-sample-market-watch-hanmi-tc-bonder-2026-06-01/) |
 | 한미반도체 6월 1일 IR 공시는 HBM 장비 thesis에 어떤 의미인가 | HBM용 TC본더만의 이야기가 아니라 2.5D package, AI 시스템반도체, OSAT, HBF로 확장하겠다는 메시지다. 다만 수주 공시가 아니므로 수급 턴과 실제 고객·양산 데이터를 기다려야 하고, 최신 내부자 매입단가 315,407원 회복도 체크포인트다. | [한미반도체 IR 공시와 TC본더 TAM 확장](/ko/post/hanmi-semiconductor-ir-tc-bonder-tam-expansion-watchlist-2026-06-02/) |
 | 삼성전자·하이닉스는 마이크론 대비 다시 싸졌나 | 그렇다. 2026년 6월 1일 기준 삼성전자/Micron 상대 PER은 0.82배, SK하이닉스/Micron은 0.80배로 내려왔다. 저평가의 본질은 한국 악재보다 마이크론이 더 빠르게 리레이팅된 것이다. | [삼하마 패리티: 삼성전자·하이닉스가 다시 싸진 구간](/ko/post/samsung-hynix-micron-forward-per-parity-memory-catch-up-2026-06-03/) |
+| AI 칩 전체 바스켓으로 봐도 한국 메모리 할인은 과도한가 | 그렇다. AI Chip & Memory Forward P/E 지도에서 삼성전자와 SK하이닉스는 2028E P/E 6배 안팎으로 가장 낮은 축이다. 낮은 P/E가 곧 매수 신호는 아니지만, EPS가 훼손되지 않았다면 마이크론 프리미엄 대비 할인 폭은 과도해 보인다. | [삼하마 패리티 후속](/ko/post/sam-hama-parity-follow-up-ai-chip-memory-pe-map-2026-06-05/) |
 | 마이크론이 SK하이닉스보다 높은 forward PER을 받는 것은 기술 우위인가 | 아니다. 기술·레퍼런스·현재 HBM 수익성은 SK하이닉스가 우위지만, 마이크론은 미국 상장 AI 메모리 scarcity premium과 HBM4·SOCAMM2·Gen6 SSD 내러티브를 받는다. | [SK하이닉스 vs 마이크론](/ko/post/sk-hynix-vs-micron-hbm-premium-ai-memory-platform-2026-05-31/) |
 | 파두는 샌디스크의 한국 베타인가 | 외국인 수급 기준으로는 초기 신호가 강하다. 5월 이후 파두 외국인은 약 +4,451억원 순매수했지만, 가격 상관은 아직 하이닉스-마이크론만큼 구조화되지 않았다. | [파두와 샌디스크 AI storage 베타](/ko/post/fadu-sandisk-ai-storage-korea-beta-jeju-semiconductor-2026-05-31/) |
 | 파두가 메모리보다 좋은 AI 인프라 병목이 될 수 있나 | 가능성은 있다. 다만 메모리보다 높은 멀티플을 받으려면 단가, 물량, 비용, Gen6·PMIC·CXL 같은 새 시장을 함께 증명해야 한다. 2Q26 매출 900억~1,050억원과 외국인·기관 수급 전환이 핵심이다. | [파두가 증명해야 할 단가·물량·새 시장](/ko/post/fadu-ai-infra-storage-bottleneck-p-q-new-segment-2026-06-02/) |
@@ -56,6 +57,7 @@ lastmod: 2026-06-05T10:45:00+09:00
 
 | 날짜 | 주제 | 자세히 보기 |
 |---|---|---|
+| 2026-06-05 | <strong>삼하마 패리티 후속</strong> — AI Chip & Memory Forward P/E 지도와 2Q run-rate 영업이익 배수를 함께 보며, 마이크론 프리미엄은 정당하지만 삼성전자·SK하이닉스의 2028E P/E 6배 안팎 할인은 EPS 지속성이 유지될 경우 과도하다는 논리로 정리 | [삼하마 패리티 후속](/ko/post/sam-hama-parity-follow-up-ai-chip-memory-pe-map-2026-06-05/) |
 | 2026-06-05 | <strong>AI 데이터센터 CapEx 5.3조 달러 시대</strong> — Goldman 5.3조 달러 CapEx 프레임과 Alphabet 2026년 1,800억~1,900억 달러 CapEx를 전력기기, 삼성전기 MLCC·FC-BGA·Si-Cap, 고다층 PCB, 광통신, eSSD 병목으로 번역 | [AI 데이터센터 CapEx 5.3조 달러 시대](/ko/post/ai-datacenter-capex-5p3t-korea-power-substrate-storage-bottleneck-2026-06-05/) |
 | 2026-06-05 | <strong>브로드컴 2027년 AI 반도체 1,000억 달러 재확인</strong> — Q2 AI 반도체 108억 달러, Q3 160억 달러 전망, FY2027 1,000억 달러 초과 프레임을 HBM 고객 기반 확장으로 읽고, 삼성전자를 core, SK하이닉스를 pullback, 삼성전기를 valuation discipline으로 정리 | [브로드컴 2027년 AI 반도체 1,000억 달러 재확인](/ko/post/broadcom-ai-semiconductor-100b-2027-korea-value-chain-2026-06-05/) |
 | 2026-06-03 | <strong>삼하마 패리티</strong> — 삼성전자·SK하이닉스·마이크론 Forward PER을 같은 바구니로 비교해, 삼성전자/Micron 0.82배, SK하이닉스/Micron 0.80배까지 내려온 상대 저평가를 점검. 결론은 하이닉스 1차 매수 가능, 삼성전자는 HBM4E·HBM4 증명 시 더 큰 catch-up 후보 | [삼하마 패리티](/ko/post/samsung-hynix-micron-forward-per-parity-memory-catch-up-2026-06-03/) |
