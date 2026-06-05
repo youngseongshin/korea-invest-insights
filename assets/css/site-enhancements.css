@@ -384,26 +384,18 @@ html[lang^="zh"] .left-sidebar #main-menu > li[data-menu-section]::before {
   box-shadow: none;
 }
 
-/* Eyebrow label — accent-colored, shared by data-label (::before) and BEM (__label).
-   Scope ::before to [data-label] so the BEM form does not render an empty label. */
+/* Eyebrow label removed per design: hide both the data-label (::before)
+   and the BEM (__label) markups. */
 .article-content .thesis-callout[data-label]::before,
 .article-content .thesis-callout__label {
-  content: attr(data-label);
-  display: block;
-  margin-bottom: 0.55rem;
-  color: var(--accent-color, #2563eb);
-  font-size: 0.85rem;
-  font-weight: 800;
-  font-style: normal;
-  letter-spacing: 0.06em;
-  line-height: 1.2;
+  display: none;
 }
 
 /* Pull-quote body — large italic, shared by data-label (p) and BEM (__body). */
 .article-content .thesis-callout p,
 .article-content .thesis-callout__body {
   margin: 0;
-  color: var(--card-text-color-main);
+  color: var(--kii-sage);
   font-size: 1.8rem;
   font-style: italic;
   font-weight: 700;
