@@ -1,7 +1,7 @@
 ---
 title: "GigaVis Follow-Up: Foreign and Institutional Money Tests the AI FC-BGA Yield Bottleneck"
 date: 2026-06-05T12:50:00+09:00
-description: "GigaVis is not an AI chip maker or a substrate producer. It is an inspection, review, repair and automation equipment supplier for high-end FC-BGA / ABF substrates used in AI GPUs and ASICs. Over the latest five trading days, the stock rose 6.7%, ranking in the top 5.2% of Korean equities, while retail sold KRW 19.46B and foreigners plus institutions bought KRW 19.33B."
+description: "GigaVis is not an AI chip maker or a substrate producer. It is an inspection, review, repair, automation and software equipment supplier for high-end FC-BGA / ABF substrates used in AI GPUs and ASICs. Its 2026 disclosed orders total KRW 29.41B, or 56.1% of FY2025 revenue, while the FY2025 mix was AOI/VRS/AOR-heavy with FA and software attached."
 categories: ["Market-Outlook"]
 tags:
   - "GigaVis"
@@ -38,7 +38,7 @@ But the category matters. GigaVis is not Samsung Electro-Mechanics or Korea Circ
 <div class="thesis-callout">
   <div class="thesis-callout__label">Key Judgment</div>
   <div class="thesis-callout__body">
-    The latest GigaVis signal is less about one order and more about flow quality. Over the latest five trading days, retail sold KRW 19.46B while foreigners and institutions bought KRW 19.33B. The stock ranked in the top 5.2% of Korean equities during a weak tape. That puts it on the watchlist. After the June 4 +11.2% surge, however, the better setup is a hold around KRW 135,000 or a breakout above KRW 144,400 with renewed turnover.
+    GigaVis is better described as an AI-substrate yield-equipment name than as an AI-substrate stock. The KRW 29.41B of disclosed 2026 orders is meaningful at 56.1% of FY2025 revenue, but it does not yet lock in a 2027 step-change. The key checks are AOI/AOR/FA mix, Q2-Q3 revenue conversion, a return toward 30% operating margin and whether PLP/WLP/glass-substrate inspection moves from option value into real orders.
   </div>
 </div>
 
@@ -48,6 +48,8 @@ But the category matters. GigaVis is not Samsung Electro-Mechanics or Korea Circ
 | Latest price action | +6.7% over five sessions, top 5.2% of Korean equities |
 | Latest flow | Retail sold; foreigners, institutions and programs absorbed supply |
 | 2026 disclosed orders | Three contracts totaling KRW 29.41B, 56.1% of FY2025 revenue |
+| FY2025 product mix | AOI/VRS/AOR 59.4%, FA 22.9%, software 4.0% |
+| Margin structure | 2023 OPM 38.3% → 2024 -6.8% → 2025 23.1% |
 | Main risk | Revenue-recognition timing, customer CapEx delays and valuation already pricing part of the thesis |
 | Action stance | Watchlist / wait for confirmation |
 
@@ -92,6 +94,8 @@ Three major disclosed orders have been identified so far in 2026.
 | 2026-06-04 | Japan | Semiconductor substrate inspection / repair equipment | KRW 9.47B | 2026-06-02 to 2027-05-31 |
 | Total | - | - | **KRW 29.41B** | - |
 
+All three contracts are described as semiconductor-substrate inspection / repair equipment, and customer names are withheld for confidentiality. Payment terms include order, delivery, installation and inspection / acceptance milestones. That matters because **confirmed orders do not equal same-quarter revenue** for equipment companies. ([Digital Today][1], [Digital Today][2], [Digital Today][3])
+
 FY2025 revenue was KRW 52.44B. The disclosed 2026 order total equals roughly 56.1% of that revenue base.
 
 ```text
@@ -106,7 +110,78 @@ The key question is where the orders expand: only FC-BGA, or also WLP / PLP RDL,
 
 ---
 
-## 3. Price action: it beat the market
+## 3. Product mix: not a single AOI tool
+
+FY2025 revenue was KRW 52.44B. The mix shows that the recovery was not only AOI; AOR, automation and software also came back.
+
+| Product | FY2025 revenue | Mix | YoY | Investment read |
+|---|---:|---:|---:|---|
+| AOI | KRW 18.31B | 34.9% | +109.1% | Core optical inspection |
+| VRS | KRW 3.10B | 5.9% | +69.9% | Defect review / validation |
+| AOR | KRW 9.75B | 18.6% | +270.5% | Laser repair and yield recovery |
+| FA | KRW 12.01B | 22.9% | +157.1% | Inline automation, loaders / unloaders |
+| Software | KRW 2.09B | 4.0% | +90.0% | Inspection data and defect classification |
+| Service | KRW 6.90B | 13.2% | +7.5% | Installed-base service |
+| Rent | KRW 0.28B | 0.5% | -61.4% | Small |
+| Total | **KRW 52.44B** | **100.0%** | **+100.6%** | Recovery after the FY2024 downturn |
+
+AOI, VRS and AOR together represented 59.4% of FY2025 revenue. Including FA and software, GigaVis looks less like a one-product AOI vendor and more like a **process stack for inspection, review, repair, automation and data management**.
+
+That is the business-quality point. As FC-BGA substrates become larger, finer and more expensive, customers do not only want to find defects; they want to recover yield.
+
+---
+
+## 4. Margin: high-quality equipment, but lumpy quarters
+
+GigaVis can produce strong margins when utilization and mix are normal. It can also swing hard when customer CapEx slows or revenue recognition shifts.
+
+| Period | Revenue | Operating profit | OPM |
+|---|---:|---:|---:|
+| 2023 | KRW 91.42B | KRW 35.01B | 38.3% |
+| 2024 | KRW 26.13B | -KRW 1.79B | -6.8% |
+| 2025 | KRW 52.44B | KRW 12.10B | 23.1% |
+| 1Q26 | KRW 6.0B | -KRW 1.0B | about -16% |
+
+The 2025 gross margin was 54.1%, and the 2025 operating margin recovered to 23.1%. But Q1 2026 revenue was only KRW 6.0B with an operating loss, after Q4 2025 had KRW 31.7B revenue and 35.0% OPM. That is not automatically demand destruction; it is the lumpy delivery and acceptance pattern of equipment revenue. ([AwakePlus][6])
+
+The next key checks are backlog, contract liabilities / advances, gross margin, AOR/FA mix and acceptance timing.
+
+---
+
+## 5. Moat: the recipe inside the customer's process matters
+
+The moat is not simply a camera, a laser or a stage. The more important asset is the customer-validated inspection / repair recipe and defect-data loop.
+
+| Moat layer | What it means | Investment relevance |
+|---|---|---|
+| Performance moat | Optics, lighting, stage control and image processing | Harder as line / space gets finer |
+| Yield moat | AOI detects; AOR repairs | Defect recovery has real economics on expensive substrates |
+| Qualification moat | Equipment is tuned to customer process recipes | Switching equipment creates requalification risk |
+| Data moat | DTS / GiDC-style defect tracking and classification | Installed base can improve software and lock-in |
+
+Some pieces are replicable. Global players can source cameras, optics, stages, lasers and AI-classification software. Competitors such as KLA, Camtek and Inspec are relevant to the broader inspection-equipment field, and KB Securities has discussed this competitive frame. ([KB Securities][5])
+
+The harder-to-copy part is the combination of customer-specific fine-pattern recipes, AOI-AOR linkage, post-laser repair quality assurance, global substrate qualification and installed-base data.
+
+---
+
+## 6. Step-change triggers
+
+The stock deserves a higher-quality re-rating only if several checks move from option to evidence.
+
+| Trigger | What to watch | Meaning |
+|---|---|---|
+| FC-BGA expansion restarts | Additional orders from Japan, Taiwan and Korea | AI GPU / ASIC substrate CapEx becomes equipment revenue |
+| AOR / FA mix rises | Higher AOR and FA revenue share | More yield-improvement value, not just inspection |
+| WLP / PLP RDL enters production | OSAT or semiconductor-maker orders | TAM expands beyond FC-BGA |
+| Glass substrate inspection advances | Pilot delivery or customer validation | Long-dated next-generation substrate option |
+| Software / service expands | Software and service revenue growth | More recurring, less cyclical revenue layer |
+
+So far, only the first trigger has early evidence. Taiwan, Korea and Japan orders are positive. PLP / WLP / glass-substrate and software expansion remain option value until specific orders or repeat revenue are disclosed.
+
+---
+
+## 7. Price action: it beat the market
 
 The data window is the five trading days from May 28 to June 4, 2026. The latest local database close is June 4.
 
@@ -136,7 +211,7 @@ This places GigaVis in the second-line substrate / inspection-equipment strength
 
 ---
 
-## 4. Flow: retail sold, foreigners and institutions absorbed
+## 8. Flow: retail sold, foreigners and institutions absorbed
 
 | Date | Close | Retail | Foreigners | Institutions | Read |
 |---|---:|---:|---:|---:|---|
@@ -181,17 +256,19 @@ The program bid supports the flow, but also means the foreign buying should not 
 
 ---
 
-## 5. Why the stock is back on the screen
+## 9. Why the stock is back on the screen
 
-First, the AI-substrate discussion has focused heavily on substrate makers. But the more complex the substrate, the more valuable inspection and repair become. GigaVis fills that gap.
+First, the AI-substrate discussion has focused heavily on substrate makers. But the more complex the substrate, the more valuable inspection and repair become. GigaVis fills that missing layer.
 
 Second, the product mix is broader than a single inspection tool. AOI, VRS, AOR, automation and software together create a yield-management equipment stack.
 
-Third, relative strength appeared during a weak tape. A stock that holds up when the market is weak tends to re-enter institutional screens quickly when the next round of risk appetite appears.
+Third, orders have been geographically diversified across Taiwan, Korea and Japan in 2026. Customer names are undisclosed, but the pattern looks more like a high-end substrate CapEx restart signal than a single-customer event.
+
+Fourth, relative strength appeared during a weak tape. A stock that holds up when the market is weak tends to re-enter institutional screens quickly when the next round of risk appetite appears.
 
 ---
 
-## 6. Risks
+## 10. Risks
 
 The first risk is category confusion. GigaVis does not sell AI chips. It sells equipment to substrate customers. If customer CapEx is delayed, orders and revenue recognition can slip.
 
@@ -201,9 +278,11 @@ The third risk is price. After a +11.2% one-day move on June 4, chasing the stoc
 
 The fourth risk is flow quality. Foreigners bought aggressively, but program buying was also large. Part of the move may be basket / program-driven rather than long-only accumulation.
 
+The fifth risk is competition and customer diversification. GigaVis may have a strong position in high-end FC-BGA inspection / repair, but global inspection-equipment suppliers can still pressure pricing and customers may dual-source over time.
+
 ---
 
-## 7. Action view
+## 11. Action view
 
 Current stance: **Watchlist / wait for confirmation**.
 
@@ -214,6 +293,8 @@ Current stance: **Watchlist / wait for confirmation**.
 | Two or more sessions of foreign + institutional buying | Ownership handoff continues |
 | Program buying holds and short-sale share stays low | Mechanical selling pressure remains limited |
 | Break below KRW 125,000 | Weakens the flow-turn thesis |
+| Q2-Q3 revenue conversion | Confirms Q1 weakness was timing, not demand |
+| OPM returns toward 30% | Key proof for a high-margin equipment re-rating |
 
 Fund-manager summary:
 
@@ -227,18 +308,26 @@ Fund-manager summary:
 
 - GigaVis rose 6.7% over the latest five trading days, ranking in the top 5.2% of Korean equities. Data window: 2026-05-28 to 2026-06-04, local database.
 - Five-day flow was retail -KRW 19.46B, foreigners +KRW 14.04B and institutions +KRW 5.29B.
-- The three identified 2026 disclosed orders total KRW 29.41B, equal to 56.1% of FY2025 revenue.
-- On June 4, 2026, a KRW 9.47B inspection / repair equipment contract with a Japanese semiconductor substrate customer was reported. ([Digital Today][1])
+- The three identified 2026 disclosed orders total KRW 29.41B, equal to 56.1% of FY2025 revenue. ([Digital Today][1], [Digital Today][2], [Digital Today][3])
+- FY2025 product mix was AOI 34.9%, VRS 5.9%, AOR 18.6%, FA 22.9%, software 4.0% and service 13.2%.
+- FY2025 gross margin was 54.1% and operating margin was 23.1%. 2023 OPM was 38.3%; 2024 OPM was -6.8%.
+- Q1 2026 revenue was KRW 6.0B with an operating loss of about KRW 1.0B. ([AwakePlus][6])
 
 ### [Inference]
 
 - GigaVis should be classified as an AI FC-BGA / ABF substrate yield-equipment beneficiary, not as a direct AI chip or substrate maker.
 - The latest flow is a retail-to-foreign/institutional ownership handoff.
+- If AOI/AOR/FA/software mix keeps expanding, GigaVis can be valued less as a simple inspection-tool vendor and more as a yield-management equipment platform.
 - Because program buying was also large, the foreign buying cannot yet be treated as pure long-only accumulation.
 
 ### [Blocked]
 
 - Customer names, final package applications, equipment-level ASP, total backlog and 2027 revenue-recognition pace are not fully confirmed in public materials.
+- WLP / PLP RDL and glass-substrate inspection are confirmed as development / validation areas, but mass-production revenue and customer timing remain unconfirmed.
 - June 5, 2026 intraday data was not included.
 
-[1]: https://www.digitaltoday.co.kr/news/articleView.html?idxno=671983 "GigaVis signs KRW 9.5B inspection / repair equipment contract with Japanese substrate customer"
+[1]: https://www.digitaltoday.co.kr/news/articleView.html?idxno=636118 "GigaVis signs KRW 10.9B inspection / repair equipment contract with Taiwan substrate customer"
+[2]: https://www.digitaltoday.co.kr/news/articleView.html?idxno=660082 "GigaVis signs domestic semiconductor substrate inspection equipment contract"
+[3]: https://www.digitaltoday.co.kr/news/articleView.html?idxno=671983 "GigaVis signs KRW 9.5B inspection / repair equipment contract with Japanese substrate customer"
+[5]: https://kbthink.com/securities-view.html?docId=20260126173555143K "GigaVis research note"
+[6]: https://www.awakeplus.co.kr/data/view/20260515001237 "GigaVis Q1 2026 filing summary"
