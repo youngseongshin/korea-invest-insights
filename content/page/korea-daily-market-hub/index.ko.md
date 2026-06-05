@@ -21,6 +21,7 @@ lastmod: 2026-06-05T16:30:00+09:00
 | 스페이스X 상장은 한국 증시에 영향을 주나요? | 시스템 유동성 고갈보다 성장주·AI·우주·Musk 포지션 안의 리밸런싱 이벤트다. 한국에는 달러 수요, 외국인 funding source, HBM 수요 검증, 우주방산 테마를 통해 간접 영향이 들어온다. | [스페이스X IPO와 한국 증시](/ko/post/spacex-ipo-korea-market-liquidity-ai-space-readthrough-2026-06-05/) |
 | 간밤 GTC Taipei 이후 한국 증시는 무엇을 봐야 하나요? | NVIDIA의 메시지는 GPU 단품보다 AI Factory, Vera CPU, Agent Runtime, AI PC, Physical AI로 확장됐다. 한국장은 HBM뿐 아니라 전력, 네트워킹, GPUaaS, NAVER Cloud, 로봇의 병목을 따져야 한다. | [젠슨 황을 바라보는 한국 증시: 간밤에 무슨 일이 있었나](/ko/post/korea-market-after-gtc-taipei-jensen-huang-naver-ai-factory-2026-06-02/) |
 | 젠슨 황은 왜 NAVER와 만날까요? | 소프트뱅크·YTL·델 사례처럼 NVIDIA가 찾는 것은 GPU 구매자가 아니라 현지 AI 공장 운영자다. NAVER는 NAVER Cloud, HyperCLOVA X, 60,000개 이상 GPU 계획, 검색·쇼핑·결제·지도 데이터를 가진 한국형 AI Factory 후보입니다. | [젠슨 황은 왜 네이버와 만날까](/ko/post/naver-nvidia-jensen-huang-softbank-ytl-dell-ai-factory-2026-06-05/) |
+| 젠슨 황의 HBM4 발언을 시장이 놓쳤나요? | 핵심은 삼성전자·SK하이닉스·마이크론이 모두 Vera Rubin용 HBM4 qualified/in production 단계로 해석된다는 점이다. 삼성전자에는 HBM discount 축소, SK하이닉스에는 독점 프리미엄 희석과 수요 총량 확대가 동시에 작용한다. | [젠슨 황의 큰 발언과 HBM4 3사 검증 통과](/ko/post/jensen-huang-hbm4-three-vendors-qualified-market-missed-2026-06-05/) |
 | 이번 주 한국 집중 매수 픽은? | 매주 금요일 저녁(KST) 공개되는 Weekly Concentrated 시리즈가 3-5개 고확신 아이디어를 제시합니다. | [최근 주간 집중 전략](/ko/post/kr-concentrated-weekly-2026-04-24/) |
 | 외국인이 한국 주식을 사고 있나요, 팔고 있나요? | 2026년 외국인 순매도는 한국 전체 이탈이라기보다 삼성전자·SK하이닉스 대형 메모리 비중 조정과 KOSDAQ·2차전지·로봇·바이오·일부 인프라로의 선택 재배치가 핵심이다. | [유동성은 많은데 시장 폭은 무너졌다](/ko/post/korea-market-liquidity-foreign-reallocation-adr-narrow-leadership-2026-06-03/) · [한국증시 외국인 수급 분석](/ko/post/korea-foreign-investor-flow-memory-megacap-rotation-2026-05-24/) |
 | 외국인 매도 속에서도 삼성전자·하이닉스는 다시 매력적인가요? | 마이크론이 더 빠르게 리레이팅되면서 삼성전자·SK하이닉스의 상대 P/E가 낮아졌다. AI 칩 바스켓 전체로 봐도 두 종목은 2028E P/E 6배 안팎의 최저 P/E 축이다. 관건은 EPS 지속성과 외국인 수급 전환이다. | [삼하마 패리티 후속](/ko/post/sam-hama-parity-follow-up-ai-chip-memory-pe-map-2026-06-05/) · [기존 삼하마 패리티](/ko/post/samsung-hynix-micron-forward-per-parity-memory-catch-up-2026-06-03/) |
@@ -60,12 +61,13 @@ lastmod: 2026-06-05T16:30:00+09:00
 | 12 | 외국인 매수에도 KOSDAQ이 못 가는 이유는? | [외국인은 사는데 왜 코스닥은 빠졌나](/ko/post/kosdaq-foreign-buying-institution-real-money-adr-2026-06-03/) |
 | 13 | 기관 순매수 숫자는 어떻게 분해해야 하나? | [Real Money 수급 프레임워크](/ko/post/real-money-flow-framework-korea-institution-quality-2026-06-03/) |
 | 14 | AI 데이터센터 CapEx 5.3조 달러는 한국의 어떤 병목으로 내려오나? | [AI 데이터센터 CapEx 5.3조 달러 시대](/ko/post/ai-datacenter-capex-5p3t-korea-power-substrate-storage-bottleneck-2026-06-05/) |
-| 15 | 외국인 매도 속에서도 삼성전자·하이닉스는 상대가치가 열렸나? | [삼하마 패리티 후속: 마이크론 프리미엄은 맞지만 한국 메모리 할인은 과도하다](/ko/post/sam-hama-parity-follow-up-ai-chip-memory-pe-map-2026-06-05/) |
-| 16 | 스페이스X 상장은 한국의 AI·우주·HBM 수급에 어떤 영향을 주나? | [스페이스X IPO와 한국 증시](/ko/post/spacex-ipo-korea-market-liquidity-ai-space-readthrough-2026-06-05/) |
-| 17 | 지수와 평균 종목의 괴리는 어떻게 봐야 하나? | [한국 ADR 67: 지수는 버티는데 왜 종목은 약한가](/ko/post/korea-adr-breadth-narrow-leadership-kospi-kosdaq-2026-05-27/) |
-| 18 | MSCI DM 편입 수혜는 한국 전체인가, 외국인 플레이북 종목인가? | [외국인 플레이북 KOSPI 168·KOSDAQ 355](/ko/post/korea-foreign-playbook-msci-dm-kospi-168-kosdaq-355-2026-05-31/) |
-| 19 | NVIDIA GTC Taipei 이후 한국 AI 인프라 병목은 어디로 번역되나? | [젠슨 황을 바라보는 한국 증시: 간밤에 무슨 일이 있었나](/ko/post/korea-market-after-gtc-taipei-jensen-huang-naver-ai-factory-2026-06-02/) |
-| 20 | 젠슨 황은 왜 소프트뱅크·YTL·델 이후 NAVER를 보나? | [젠슨 황은 왜 네이버와 만날까](/ko/post/naver-nvidia-jensen-huang-softbank-ytl-dell-ai-factory-2026-06-05/) |
+| 15 | 젠슨 황의 HBM4 3사 검증 통과 발언은 메모리 대형주와 장비주를 어떻게 재분류하나? | [젠슨 황의 큰 발언과 HBM4 3사 검증 통과](/ko/post/jensen-huang-hbm4-three-vendors-qualified-market-missed-2026-06-05/) |
+| 16 | 외국인 매도 속에서도 삼성전자·하이닉스는 상대가치가 열렸나? | [삼하마 패리티 후속: 마이크론 프리미엄은 맞지만 한국 메모리 할인은 과도하다](/ko/post/sam-hama-parity-follow-up-ai-chip-memory-pe-map-2026-06-05/) |
+| 17 | 스페이스X 상장은 한국의 AI·우주·HBM 수급에 어떤 영향을 주나? | [스페이스X IPO와 한국 증시](/ko/post/spacex-ipo-korea-market-liquidity-ai-space-readthrough-2026-06-05/) |
+| 18 | 지수와 평균 종목의 괴리는 어떻게 봐야 하나? | [한국 ADR 67: 지수는 버티는데 왜 종목은 약한가](/ko/post/korea-adr-breadth-narrow-leadership-kospi-kosdaq-2026-05-27/) |
+| 19 | MSCI DM 편입 수혜는 한국 전체인가, 외국인 플레이북 종목인가? | [외국인 플레이북 KOSPI 168·KOSDAQ 355](/ko/post/korea-foreign-playbook-msci-dm-kospi-168-kosdaq-355-2026-05-31/) |
+| 20 | NVIDIA GTC Taipei 이후 한국 AI 인프라 병목은 어디로 번역되나? | [젠슨 황을 바라보는 한국 증시: 간밤에 무슨 일이 있었나](/ko/post/korea-market-after-gtc-taipei-jensen-huang-naver-ai-factory-2026-06-02/) |
+| 21 | 젠슨 황은 왜 소프트뱅크·YTL·델 이후 NAVER를 보나? | [젠슨 황은 왜 네이버와 만날까](/ko/post/naver-nvidia-jensen-huang-softbank-ytl-dell-ai-factory-2026-06-05/) |
 
 ---
 
@@ -104,6 +106,7 @@ lastmod: 2026-06-05T16:30:00+09:00
 |---|---|
 | 해외 투자자 접근 / IBKR / KRX 기본 지도 | [해외 투자자용 한국 주식 허브](/ko/page/korea-stocks-foreign-investors-hub/) |
 | 삼성전자 + SK하이닉스 + HBM | [한국 반도체 / HBM / KOSPI 허브](/ko/page/korea-semiconductor-hbm-kospi-hub/) |
+| 젠슨 황 / HBM4 3사 qualified / 한미반도체 read-through | [젠슨 황의 큰 발언과 HBM4 3사 qualified](/ko/post/jensen-huang-hbm4-three-vendors-qualified-market-missed-2026-06-05/) |
 | 삼성전자·SK하이닉스·마이크론 상대 PER | [삼하마 패리티 후속](/ko/post/sam-hama-parity-follow-up-ai-chip-memory-pe-map-2026-06-05/) · [기존 삼하마 패리티](/ko/post/samsung-hynix-micron-forward-per-parity-memory-catch-up-2026-06-03/) |
 | 한국 시총 세계 6위 / Why Korea | [Why Korea 5편: 한국 시총 세계 6위](/ko/post/why-korea-market-cap-global-six-ai-memory-rerating-2026-05-24/) |
 | 외국인 수급 / 메모리 대형주 분배 | [한국증시 외국인 수급 분석](/ko/post/korea-foreign-investor-flow-memory-megacap-rotation-2026-05-24/) |

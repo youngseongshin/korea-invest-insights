@@ -5,7 +5,7 @@ date: 2026-04-30T23:05:00+09:00
 aliases: ["/hbm/", "/semiconductor/", "/samsung-hynix/", "/kospi-hbm/", "/en/hbm/", "/en/semiconductor/", "/en/samsung-hynix/", "/en/kospi-hbm/", "/en/page/korea-semiconductor-hbm-kospi-hub/", "/es/page/korea-semiconductor-hbm-kospi-hub/", "/vi/page/korea-semiconductor-hbm-kospi-hub/", "/fr/page/korea-semiconductor-hbm-kospi-hub/", "/ja/page/korea-semiconductor-hbm-kospi-hub/", "/zh/page/korea-semiconductor-hbm-kospi-hub/"]
 layout: "page"
 description: "AI HBM hub for Samsung Electronics, SK Hynix, HBM, AI memory and KOSPI concentration. Covers HBM market share, Samsung's KOSPI weight, Korean semiconductor exposure and the 2026 KOSPI re-rating thesis."
-lastmod: 2026-06-05T12:34:00+09:00
+lastmod: 2026-06-05T16:30:00+09:00
 ---
 
 ## One-Line Thesis
@@ -24,6 +24,7 @@ Korean semiconductor exposure is not one trade. It combines <strong>SK Hynix's H
 | Can Samsung C&T work as a lagging Samsung Electronics proxy? | Yes, but it is not a high-beta substitute. As of Jun 1, 2026, Samsung C&T's YTD stake-value pass-through was 51.7%, its YTD beta to Samsung Electronics was 0.83, and a 60% pass-through recovery implies roughly KRW 489,000. | [Samsung C&T Samsung Electronics proxy / NAV gap trade](/post/samsung-ct-samsung-electronics-proxy-nav-gap-trade-2026-06-01/) |
 | Is SK Hynix's higher P/E versus Samsung a new normal? | The 2026E annual P/E inversion is unusual but explainable through the HBM bottleneck premium. The 12-month-forward view is closer to parity, and the cleaner relative-value alpha is Samsung's HBM4E catch-up rather than chasing SK Hynix. | [Samsung vs SK Hynix Forward P/E Inversion](/post/samsung-sk-hynix-forward-per-inversion-hbm-catchup-2026-05-31/) |
 | What does Samsung's HBM4E 12-high sample shipment mean? | It is evidence that the HBM catch-up path is alive, but not yet confirmed revenue before customer qualification, mass production and EPS revisions. For Hanmi, it raises Samsung TC-bonder option value rather than confirming an order. | [Samsung HBM4E 12-high samples](/post/samsung-electronics-hbm4e-12h-sample-market-watch-hanmi-tc-bonder-2026-06-01/) |
+| What does Jensen Huang's "all three vendors qualified" HBM comment change? | It suggests Samsung Electronics, SK hynix and Micron are all in the qualified / production structure for Vera Rubin HBM4. Samsung gets HBM-discount compression, while SK hynix sees monopoly-premium dilution and TAM expansion at the same time. | [Jensen Huang's bigger HBM4 comment](/post/jensen-huang-hbm4-three-vendors-qualified-market-missed-2026-06-05/) |
 | What does Hanmi's June 1 IR notice mean for the HBM equipment thesis? | It expands the story from HBM TC bonders toward 2.5D packaging, AI system semiconductors, OSAT and HBF. But it is not an order, so investors still need flow confirmation, real customer / production data, and a recovery of the latest CEO purchase-price zone around KRW 315,000. | [Hanmi IR notice and TC-bonder TAM expansion](/post/hanmi-semiconductor-ir-tc-bonder-tam-expansion-watchlist-2026-06-02/) |
 | Do Samsung and SK hynix look cheap again versus Micron? | Yes. As of Jun 1, 2026, Samsung/Micron forward PER is 0.82x and SK hynix/Micron is 0.80x. The discount is less about Korean memory weakness and more about Micron re-rating faster. | [Sam-Ha-Ma Parity](/post/samsung-hynix-micron-forward-per-parity-memory-catch-up-2026-06-03/) |
 | Does the broader AI chip basket also show Korean memory as too cheap? | Yes. In the AI Chip & Memory Forward P/E map, Samsung and SK hynix sit near 6x 2028E P/E, the lowest cluster in the basket. Low P/E is not automatically bullish, but if EPS durability holds, the discount versus Micron's U.S.-listed AI-memory premium looks wide. | [Sam-Ha-Ma parity follow-up](/post/sam-hama-parity-follow-up-ai-chip-memory-pe-map-2026-06-05/) |
@@ -53,6 +54,7 @@ Korean semiconductor exposure is not one trade. It combines <strong>SK Hynix's H
 
 | Date | Topic | Read |
 |---|---|---|
+| 2026-06-05 | <strong>Jensen Huang's HBM4 three-vendor qualified comment</strong> — reads the comment as Samsung, SK hynix and Micron entering Vera Rubin HBM4 production competition, then separates Samsung HBM-discount compression, SK hynix leadership-premium transition and Hanmi TC-bonder read-through | [Jensen Huang's bigger HBM4 comment](/post/jensen-huang-hbm4-three-vendors-qualified-market-missed-2026-06-05/) |
 | 2026-06-05 | <strong>Sam-Ha-Ma parity follow-up</strong> — combines the AI Chip & Memory Forward P/E map with 2Q run-rate OP multiples. The conclusion: Micron deserves a premium, but Samsung and SK hynix near 6x 2028E P/E look too cheap if EPS durability holds | [Sam-Ha-Ma parity follow-up](/post/sam-hama-parity-follow-up-ai-chip-memory-pe-map-2026-06-05/) |
 | 2026-06-03 | <strong>Sam-Ha-Ma parity</strong> — compares Samsung Electronics, SK hynix and Micron on forward PER and finds Samsung/Micron at 0.82x and SK hynix/Micron at 0.80x. The conclusion: SK hynix is buyable in a first tranche, while Samsung is the larger HBM4E/HBM4 catch-up candidate if proof arrives | [Sam-Ha-Ma parity](/post/samsung-hynix-micron-forward-per-parity-memory-catch-up-2026-06-03/) |
 | 2026-06-02 | <strong>Marvell's trillion-dollar story and the Broadcom read-through</strong> — interprets Jensen Huang's Marvell "next trillion-dollar company" call-out and Broadcom's AI semiconductor call through custom XPU, AI networking, optical interconnect and 3.5D packaging bottlenecks, then maps the Korea read-through to Samsung Electro-Mechanics, Korea Circuit, ISU Petasys, Samsung Electronics and SK Hynix | [Marvell's trillion-dollar story and the Broadcom read-through](/post/marvell-trillion-broadcom-readthrough-korea-ai-connectivity-2026-06-02/) |
@@ -96,7 +98,8 @@ Korean semiconductor exposure is not one trade. It combines <strong>SK Hynix's H
 | 2 | Where does SK Hynix stand in HBM and AI memory? | [SK Hynix HBM Market Share 2026: AI Memory Investor Guide](/post/sk-hynix-hbm-market-share-ai-memory-demand-2026/) |
 | 3 | Is SK Hynix's P/E inversion a Samsung catch-up signal? | [Samsung vs SK Hynix Forward P/E Inversion](/post/samsung-sk-hynix-forward-per-inversion-hbm-catchup-2026-05-31/) |
 | 4 | How does Samsung's HBM4E sample connect differently to the common stock and equipment names? | [Samsung HBM4E 12-high samples](/post/samsung-electronics-hbm4e-12h-sample-market-watch-hanmi-tc-bonder-2026-06-01/) |
-| 5 | How far can Hanmi's IR notice expand the TC-bonder TAM? | [Hanmi IR notice and TC-bonder TAM expansion](/post/hanmi-semiconductor-ir-tc-bonder-tam-expansion-watchlist-2026-06-02/) |
+| 5 | How does Jensen Huang's HBM4 three-vendor comment connect differently to Samsung, SK hynix and Hanmi? | [Jensen Huang's bigger HBM4 comment](/post/jensen-huang-hbm4-three-vendors-qualified-market-missed-2026-06-05/) |
+| 5+ | How far can Hanmi's IR notice expand the TC-bonder TAM? | [Hanmi IR notice and TC-bonder TAM expansion](/post/hanmi-semiconductor-ir-tc-bonder-tam-expansion-watchlist-2026-06-02/) |
 | 6 | How do Marvell and Broadcom expand the bottlenecks below HBM? | [Marvell's trillion-dollar story and the Broadcom read-through](/post/marvell-trillion-broadcom-readthrough-korea-ai-connectivity-2026-06-02/) |
 | 7 | Are Samsung and SK hynix cheap again versus Micron? | [Sam-Ha-Ma Parity: Samsung and Hynix Look Cheap Again Versus Micron](/post/samsung-hynix-micron-forward-per-parity-memory-catch-up-2026-06-03/) |
 | 8 | Can FADU open price, volume and a new AI storage segment at the same time? | [FADU P, Q and new-segment check](/post/fadu-ai-infra-storage-bottleneck-p-q-new-segment-2026-06-02/) |
@@ -117,6 +120,7 @@ Korean semiconductor exposure is not one trade. It combines <strong>SK Hynix's H
 
 ### HBM and AI Memory
 
+- [The Market Missed Jensen Huang's Bigger HBM4 Comment: All Three Vendors Are Qualified](/post/jensen-huang-hbm4-three-vendors-qualified-market-missed-2026-06-05/)
 - [Hanmi Semiconductor IR Notice: Not an Order, but a TC-Bonder TAM Expansion Signal](/post/hanmi-semiconductor-ir-tc-bonder-tam-expansion-watchlist-2026-06-02/)
 - [Sam-Ha-Ma Parity: Samsung and Hynix Look Cheap Again Versus Micron](/post/samsung-hynix-micron-forward-per-parity-memory-catch-up-2026-06-03/)
 - [Marvell's Trillion-Dollar Story and the Broadcom Read-Through: What Does It Mean for Korea?](/post/marvell-trillion-broadcom-readthrough-korea-ai-connectivity-2026-06-02/)
