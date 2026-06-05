@@ -5,7 +5,7 @@ date: 2026-05-03T11:00:00+09:00
 aliases: ["/korea-daily/", "/kospi/", "/kosdaq/", "/en/korea-daily/", "/en/page/korea-daily-market-hub/", "/es/page/korea-daily-market-hub/", "/vi/page/korea-daily-market-hub/", "/fr/page/korea-daily-market-hub/", "/ja/page/korea-daily-market-hub/", "/zh/page/korea-daily-market-hub/"]
 layout: "page"
 description: "A hub for Korean stock market daily updates — KOSPI and KOSDAQ market closes, weekly concentrated picks, foreign-investor flows, sector rotation, and what's actually moving in Korean equities each session. Direct answers to 'What is the Korean stock market doing today?' and similar queries."
-lastmod: 2026-06-05T16:20:00+09:00
+lastmod: 2026-06-05T16:30:00+09:00
 ---
 
 ## What This Hub Answers
@@ -15,6 +15,7 @@ Direct, search-engine-friendly answers to the questions global investors ask abo
 | Search Question | Quick Answer | Read |
 |---|---|---|
 | What is the Korean stock market doing today? | The most recent Korea Daily Wrap covers the day's regime, sector rotation, foreign flows, and key disclosures. | [Latest Korea Daily Wrap](/post/kr-daily-wrap-2026-06-04/) |
+| Is the June 4 GigaVis spike a chase signal? | Not yet. The five-day +6.7% move, top-5.2% relative strength and retail-to-foreign/institutional handoff are constructive. But after the June 4 +11.2% surge, the better setup is support around KRW 135,000 or a breakout above KRW 144,400. | [GigaVis follow-up: AI FC-BGA yield bottleneck](/post/gigavis-ai-fcbga-yield-equipment-smart-money-flow-2026-06-05/) |
 | Why does the index hold while the average stock feels weak? | Korea's 20-day ADR is down to 48.9 for KOSPI and 48.1 for KOSDAQ. Liquidity is abundant, but breadth has broken and money is compressed into a narrow leadership list. | [Korea Has Liquidity, But Breadth Has Broken](/post/korea-market-liquidity-foreign-reallocation-adr-narrow-leadership-2026-06-03/) · [Korea's Narrow Path at an 18.1% ADR](/post/korea-narrow-market-jensen-huang-catalyst-gtc-taipei-2026-06-01/) |
 | Can the SpaceX IPO move Korean equities? | It is not a system-wide liquidity crisis. It is a growth, AI, space and Musk-ecosystem rebalancing event that reaches Korea through FX, foreign funding-source trades, HBM validation and space-defense theme flows. | [SpaceX IPO and Korean equities](/post/spacex-ipo-korea-market-liquidity-ai-space-readthrough-2026-06-05/) |
 | What should Korean equities watch after GTC Taipei? | NVIDIA's message expanded beyond GPUs into AI Factory, Vera CPU, Agent Runtime, AI PCs and Physical AI. Korean investors need to map HBM, power, networking, GPUaaS, NAVER Cloud and robotics bottlenecks separately. | [Korea Is Watching Jensen Huang: What Changed Overnight?](/post/korea-market-after-gtc-taipei-jensen-huang-naver-ai-factory-2026-06-02/) |
@@ -114,6 +115,7 @@ The Friday-evening "concentrated" series picks 3–5 highest-conviction Korean e
 | US non-semi re-rating / Korean second-line translation | [US non-semiconductor re-rating through a Korean equity lens](/post/us-nonsemi-rerating-ai-power-software-korea-translation-2026-05-31/) |
 | GTC Taipei / Jensen Huang / AI factory and physical AI | [Korea Is Watching Jensen Huang: What Changed Overnight?](/post/korea-market-after-gtc-taipei-jensen-huang-naver-ai-factory-2026-06-02/) · [Korea's Narrow Path at an 18.1% ADR](/post/korea-narrow-market-jensen-huang-catalyst-gtc-taipei-2026-06-01/) |
 | AI substrates / FC-BGA / CCL | [AI PCB and Substrate Hub](/page/korea-ai-pcb-substrate-hub/) |
+| AI FC-BGA yield equipment / GigaVis | [GigaVis follow-up: AI FC-BGA yield bottleneck](/post/gigavis-ai-fcbga-yield-equipment-smart-money-flow-2026-06-05/) |
 | Olive Young + PharmaResearch + K-Beauty | [K-Beauty Hub](/page/k-beauty-olive-young-pharmaresearch-hub/) |
 | Korean AI / Sovereign AI | [Korean AI Companies Hub](/page/korean-ai-companies-hub/) |
 | Semiconductor Equipment, IP, Foundry | [Korea Semiconductor Equipment & IP Hub](/page/korea-semiconductor-equipment-ip-hub/) |

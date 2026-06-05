@@ -5,7 +5,7 @@ date: 2026-05-03T11:00:00+09:00
 aliases: ["/ko/korea-daily/", "/ko/kospi/", "/ko/kosdaq/", "/ko/page/korea-daily-market-hub/"]
 layout: "page"
 description: "한국 주식시장 일일 업데이트 허브 — KOSPI / KOSDAQ 장마감 브리핑, 주간 집중 픽, 외국인·기관 수급, 섹터 로테이션, 그리고 매 세션 한국 주식에서 실제로 무엇이 움직이는지. '오늘 한국 주식시장은 어떤가요?' 같은 질문의 직접 답."
-lastmod: 2026-06-05T16:20:00+09:00
+lastmod: 2026-06-05T16:30:00+09:00
 ---
 
 ## 이 허브가 답하는 질문
@@ -15,6 +15,7 @@ lastmod: 2026-06-05T16:20:00+09:00
 | 검색 질문 | 빠른 답 | 읽을 글 |
 |---|---|---|
 | 오늘 한국 주식시장은 어떤가요? | 가장 최근 Korea Daily Wrap이 그날의 시장 국면, 섹터 로테이션, 외국인 수급, 핵심 공시를 정리합니다. | [최근 데일리 랩](/ko/post/kr-daily-wrap-2026-06-04/) |
+| 기가비스 6월 4일 급등은 추격 신호인가요? | 추격보다 확인 구간이다. 최근 5D +6.7%, 상위 5.2% 상대강도와 개인 -194.6억원 대 외국인+기관 +193.3억원 손바뀜은 좋지만, 6/4 +11.2% 이후에는 135,000원 지지 또는 144,400원 돌파 확인이 우선이다. | [기가비스 후속: AI FC-BGA 수율 병목](/ko/post/gigavis-ai-fcbga-yield-equipment-smart-money-flow-2026-06-05/) |
 | 지수는 버티는데 왜 체감 장세는 약한가요? | 20일 ADR이 KOSPI 48.9, KOSDAQ 48.1까지 내려왔기 때문이다. 유동성은 많지만 시장 폭은 무너져 있고, 돈은 외국인 재배치 종목과 소수 주도주로만 좁게 흐른다. | [유동성은 많은데 시장 폭은 무너졌다](/ko/post/korea-market-liquidity-foreign-reallocation-adr-narrow-leadership-2026-06-03/) · [ADR 18.1%의 좁은 길](/ko/post/korea-narrow-market-jensen-huang-catalyst-gtc-taipei-2026-06-01/) |
 | AI 데이터센터 CapEx 5.3조 달러는 한국장 어디로 번역되나요? | GPU 전체 매수가 아니라 전력기기, 삼성전기 MLCC·FC-BGA·Si-Cap, 고다층 PCB, 광통신, eSSD처럼 가격 전가력과 반복 수주를 증명할 수 있는 병목으로 번역해야 한다. | [AI 데이터센터 CapEx 5.3조 달러 시대](/ko/post/ai-datacenter-capex-5p3t-korea-power-substrate-storage-bottleneck-2026-06-05/) |
 | 스페이스X 상장은 한국 증시에 영향을 주나요? | 시스템 유동성 고갈보다 성장주·AI·우주·Musk 포지션 안의 리밸런싱 이벤트다. 한국에는 달러 수요, 외국인 funding source, HBM 수요 검증, 우주방산 테마를 통해 간접 영향이 들어온다. | [스페이스X IPO와 한국 증시](/ko/post/spacex-ipo-korea-market-liquidity-ai-space-readthrough-2026-06-05/) |
@@ -119,6 +120,7 @@ lastmod: 2026-06-05T16:20:00+09:00
 | 미국 비반도체 리레이팅 / 한국 2선 번역 | [미국 비반도체 리레이팅의 한국장 번역](/ko/post/us-nonsemi-rerating-ai-power-software-korea-translation-2026-05-31/) |
 | GTC Taipei / 젠슨 황 / AI factory·physical AI | [젠슨 황은 왜 네이버와 만날까](/ko/post/naver-nvidia-jensen-huang-softbank-ytl-dell-ai-factory-2026-06-05/) · [젠슨 황을 바라보는 한국 증시: 간밤에 무슨 일이 있었나](/ko/post/korea-market-after-gtc-taipei-jensen-huang-naver-ai-factory-2026-06-02/) · [ADR 18.1%의 좁은 길](/ko/post/korea-narrow-market-jensen-huang-catalyst-gtc-taipei-2026-06-01/) |
 | AI 기판 / FC-BGA / CCL | [AI 기판·PCB 허브](/ko/page/korea-ai-pcb-substrate-hub/) |
+| AI FC-BGA 수율 장비 / 기가비스 | [기가비스 후속: AI FC-BGA 수율 병목](/ko/post/gigavis-ai-fcbga-yield-equipment-smart-money-flow-2026-06-05/) |
 | 올리브영 + 파마리서치 + K-뷰티 | [K-뷰티 허브](/ko/page/k-beauty-olive-young-pharmaresearch-hub/) |
 | 한국 AI / Sovereign AI | [한국 AI 기업 허브](/ko/page/korean-ai-companies-hub/) |
 | 반도체 장비, IP, 파운드리 | [한국 반도체 장비·IP 허브](/ko/page/korea-semiconductor-equipment-ip-hub/) |
