@@ -375,44 +375,44 @@ html[lang^="zh"] .left-sidebar #main-menu > li[data-menu-section]::before {
 
 .article-content .thesis-callout {
   max-width: min(68rem, 100%);
-  margin: 1.75rem 0 2rem;
-  padding: 1.05rem 1.35rem 1.1rem 1.4rem;
-  border: 0;
-  border-left: 0.3rem solid var(--kii-sage);
-  border-radius: 6px;
-  background:
-    linear-gradient(var(--kii-sage-wash), var(--kii-sage-wash)),
-    var(--card-background);
-  box-shadow: none;
+  margin: 1.9rem 0 2.1rem;
+  padding: 1.4rem 1.6rem;
+  border: 1px solid var(--card-separator-color, rgba(15, 23, 42, 0.1));
+  border-left: 0.28rem solid var(--accent-color, #2563eb);
+  border-radius: 10px;
+  background: var(--card-background, #fff);
+  box-shadow: var(--shadow-l1, 0 6px 18px rgba(15, 23, 42, 0.05));
 }
 
-/* Label chip — shared by the data-label (::before) and BEM (__label) markups.
-   Scope ::before to [data-label] so the BEM form does not render an empty pill. */
+[data-scheme="dark"] .article-content .thesis-callout {
+  border-color: rgba(240, 246, 252, 0.12);
+  border-left-color: var(--accent-color, #6da3f7);
+  background: #202821;
+}
+
+/* Eyebrow label — accent-colored, shared by data-label (::before) and BEM (__label).
+   Scope ::before to [data-label] so the BEM form does not render an empty label. */
 .article-content .thesis-callout[data-label]::before,
 .article-content .thesis-callout__label {
   content: attr(data-label);
-  display: inline-flex;
-  align-items: center;
-  width: fit-content;
-  margin-bottom: 0.5rem;
-  padding: 0.14rem 0.5rem;
-  border-radius: 999px;
-  background: var(--kii-sage-soft);
-  color: var(--kii-sage-darker);
-  font-size: 0.8rem;
-  font-weight: 700;
-  letter-spacing: 0.02em;
+  display: block;
+  margin-bottom: 0.6rem;
+  color: var(--accent-color, #2563eb);
+  font-size: 0.82rem;
+  font-weight: 800;
+  letter-spacing: 0.06em;
   line-height: 1.2;
 }
 
-/* Body text — shared by the data-label (p) and BEM (__body) markups. */
+/* Emphasized body — pull-quote scale, shared by data-label (p) and BEM (__body). */
 .article-content .thesis-callout p,
 .article-content .thesis-callout__body {
   margin: 0;
   color: var(--card-text-color-main);
-  font-size: 1.1rem;
+  font-size: 1.38rem;
   font-weight: 600;
-  line-height: 1.6;
+  line-height: 1.62;
+  letter-spacing: -0.01em;
 }
 
 .article-content > h2:first-of-type {
