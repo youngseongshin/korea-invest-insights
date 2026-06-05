@@ -5,7 +5,7 @@ date: 2026-05-03T11:00:00+09:00
 aliases: ["/korea-daily/", "/kospi/", "/kosdaq/", "/en/korea-daily/", "/en/page/korea-daily-market-hub/", "/es/page/korea-daily-market-hub/", "/vi/page/korea-daily-market-hub/", "/fr/page/korea-daily-market-hub/", "/ja/page/korea-daily-market-hub/", "/zh/page/korea-daily-market-hub/"]
 layout: "page"
 description: "A hub for Korean stock market daily updates — KOSPI and KOSDAQ market closes, weekly concentrated picks, foreign-investor flows, sector rotation, and what's actually moving in Korean equities each session. Direct answers to 'What is the Korean stock market doing today?' and similar queries."
-lastmod: 2026-06-05T16:30:00+09:00
+lastmod: 2026-06-05T23:49:48+09:00
 ---
 
 ## What This Hub Answers
@@ -14,7 +14,7 @@ Direct, search-engine-friendly answers to the questions global investors ask abo
 
 | Search Question | Quick Answer | Read |
 |---|---|---|
-| What is the Korean stock market doing today? | The most recent Korea Daily Wrap covers the day's regime, sector rotation, foreign flows, and key disclosures. | [Latest Korea Daily Wrap](/post/kr-daily-wrap-2026-06-04/) |
+| What is the Korean stock market doing today? | The most recent Korea Daily Wrap covers the day's regime, sector rotation, foreign flows, and key disclosures. | [Latest Korea Daily Wrap](/post/kr-daily-wrap-2026-06-05/) |
 | Is the June 4 GigaVis spike a chase signal? | Not yet. The five-day +6.7% move, top-5.2% relative strength and retail-to-foreign/institutional handoff are constructive. But after the June 4 +11.2% surge, the better setup is support around KRW 135,000 or a breakout above KRW 144,400. | [GigaVis follow-up: AI FC-BGA yield bottleneck](/post/gigavis-ai-fcbga-yield-equipment-smart-money-flow-2026-06-05/) |
 | Why does the index hold while the average stock feels weak? | Korea's 20-day ADR is down to 48.9 for KOSPI and 48.1 for KOSDAQ. Liquidity is abundant, but breadth has broken and money is compressed into a narrow leadership list. | [Korea Has Liquidity, But Breadth Has Broken](/post/korea-market-liquidity-foreign-reallocation-adr-narrow-leadership-2026-06-03/) · [Korea's Narrow Path at an 18.1% ADR](/post/korea-narrow-market-jensen-huang-catalyst-gtc-taipei-2026-06-01/) |
 | Can the SpaceX IPO move Korean equities? | It is not a system-wide liquidity crisis. It is a growth, AI, space and Musk-ecosystem rebalancing event that reaches Korea through FX, foreign funding-source trades, HBM validation and space-defense theme flows. | [SpaceX IPO and Korean equities](/post/spacex-ipo-korea-market-liquidity-ai-space-readthrough-2026-06-05/) |
@@ -46,7 +46,7 @@ Sequential reading for someone new to Korean equities — what to read in order 
 | Step | Question | Read |
 |---:|---|---|
 | 1 | Why is Korea outperforming in 2026? | [Korea Outperformance 2026: The Structural Re-Rating Backdrop](/post/korea-outperformance-2026-structural-rerating-2026-04-24/) |
-| 2 | What's actually driving the daily tape? | [Latest Korea Daily Wrap](/post/kr-daily-wrap-2026-06-04/) |
+| 2 | What's actually driving the daily tape? | [Latest Korea Daily Wrap](/post/kr-daily-wrap-2026-06-05/) |
 | 3 | Where is the high-conviction concentrated alpha? | [Latest Weekly Concentrated Strategy](/post/kr-concentrated-weekly-2026-04-24/) |
 | 4 | What's the deeper story on the largest names? | [Samsung Electronics Deep Dive](/post/kr-deep-dive-samsung-electronics-2026-04-16/) · [SK hynix Deep Dive](/post/kr-deep-dive-sk-hynix-2026-04-16/) |
 | 5 | Where are the un-priced KOSDAQ corners? | [KOSDAQ Coverage Gaps & Variant Perception](/post/kosdaq-coverage-gaps-variant-perception-2026-04-23/) |
@@ -71,13 +71,13 @@ Sequential reading for someone new to Korean equities — what to read in order 
 
 | Date | Theme | Read |
 |---|---|---|
+| 2026-06-05 | Korea Quality Re-Rating Watch Jun 5: VM, Gigabis and Wonik IPS | [Korea Daily Wrap 2026-06-05](/post/kr-daily-wrap-2026-06-05/) |
 | 2026-06-04 | Korea Quality Re-Rating Watch Jun 4: Gigavis, VM — Equipment Rerates | [Korea Daily Wrap 2026-06-04](/post/kr-daily-wrap-2026-06-04/) |
 | 2026-06-03 | Korea Quality Re-Rating Watch 2026-06-03: VM, SK Square, ISU Petasys — Smart Money Buys While KOSDAQ Slides | [Korea Daily Wrap 2026-06-03](/post/kr-daily-wrap-2026-06-03/) |
 | 2026-06-02 | Korea Quality Re-Rating Watch Jun 2: VM, ISU Petasys, SK Square | [Korea Daily Wrap 2026-06-02](/post/kr-daily-wrap-2026-06-02/) |
 | 2026-06-01 | Korea Quality Re-Rating Watch 2026-06-01: Givabes, DB HiTek & APR — Quality with Smart Money Backing | [Korea Daily Wrap 2026-06-01](/post/kr-daily-wrap-2026-06-01/) |
 | 2026-05-29 | Korea Quality Re-Rating Watch 2026-05-29: VM, Gigavis, DB Hi-Tek | [Korea Daily Wrap 2026-05-29](/post/kr-daily-wrap-2026-05-29/) |
 | 2026-05-28 | Korea Quality Re-Rating Watch 2026-05-28: VM, SamCNS and Protek — Five Screeners | [Korea Daily Wrap 2026-05-28](/post/kr-daily-wrap-2026-05-28/) |
-| 2026-05-27 | Korea Quality Re-Rating Watch 2026-05-27: SK Square, Gigavis & HD Hyundai Heavy | [Korea Daily Wrap 2026-05-27](/post/kr-daily-wrap-2026-05-27/) |
 
 For older daily wraps, see [Archives](/page/archives).
 
