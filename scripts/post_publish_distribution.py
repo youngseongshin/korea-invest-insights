@@ -34,6 +34,7 @@ LOCK_PATH = DEFAULT_DATA_DIR / "post_publish_distribution.lock"
 DEFAULT_CHANNELS = ["telegram", "botmadang", "substack"]
 SUPPORTED_CHANNELS = set(DEFAULT_CHANNELS) | {"valley"}
 UNIFIED_WATERMARK_KEY = "unifiedDistributionActivatedAt"
+REQUIRED_TRANSLATION_LANGS = ("ko", "en", "es", "vi", "fr", "ja", "zh")
 
 
 def resolve_openclaw_tools() -> Path:
@@ -155,6 +156,31 @@ def post_slug(post: dict) -> str:
     return path.parent.name
 
 
+def missing_translation_files(repo_root: Path, slug: str) -> list[str]:
+    """Return required language markdown files missing from a leaf-bundle post."""
+    post_dir = repo_root / "content" / "post" / slug
+    return [
+        f"index.{lang}.md"
+        for lang in REQUIRED_TRANSLATION_LANGS
+        if not (post_dir / f"index.{lang}.md").exists()
+    ]
+
+
+def translation_gate_result(repo_root: Path, slug: str) -> dict | None:
+    """Block distribution until every configured language file exists."""
+    missing = missing_translation_files(repo_root, slug)
+    if not missing:
+        return None
+    return {
+        "status": "missing_translations",
+        "blocking": True,
+        "reason": "Complete multilingual file set is required before post-publish distribution.",
+        "slug": slug,
+        "required": [f"index.{lang}.md" for lang in REQUIRED_TRANSLATION_LANGS],
+        "missing": missing,
+    }
+
+
 def git_added_timestamp(repo_root: Path, path: Path) -> float | None:
     try:
         relative_path = str(path.resolve().relative_to(repo_root.resolve()))
@@ -238,6 +264,8 @@ def discover_distribution_candidates(
     candidates: list[tuple[float, dict]] = []
 
     for path in post_paths:
+        if missing_translation_files(repo_root, path.parent.name):
+            continue
         post = valley.load_post(path)
         if post["front_matter"].get("draft") is True:
             continue
@@ -265,6 +293,10 @@ def discover_channel_candidates(args: argparse.Namespace, channel: str) -> tuple
                 "path": str(post_path),
             }
         post = valley.load_post(post_path)
+        translation_gate = translation_gate_result(repo_root, args.slug)
+        if translation_gate:
+            translation_gate["url"] = post["canonical_url"]
+            return [], translation_gate
         if post["front_matter"].get("draft") is True:
             return [], {
                 "status": "draft_slug",
@@ -439,6 +471,15 @@ def run_candidate_channel(channel: str, args: argparse.Namespace) -> int:
     results: list[dict] = []
     if initialized:
         results.append(initialized)
+        if initialized.get("blocking"):
+            print(
+                json.dumps(
+                    {"channel": channel, "status": "failed", "results": results},
+                    ensure_ascii=False,
+                    indent=2,
+                )
+            )
+            return 1
 
     processed = 0
     for post in candidates:

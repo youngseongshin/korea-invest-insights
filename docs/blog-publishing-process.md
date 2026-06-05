@@ -19,6 +19,10 @@ Default operator rule:
 - Korean-only manual posts are allowed only as an explicit exception. Otherwise,
   create the English version and translated language files before distribution
   so Substack can run instead of recording `skip_no_english`.
+- The post-publish distribution script now enforces the complete multilingual
+  set. A new post cannot be sent to Telegram, Botmadang, Substack, or Valley
+  until these seven files exist: `index.ko.md`, `index.en.md`, `index.es.md`,
+  `index.vi.md`, `index.fr.md`, `index.ja.md`, and `index.zh.md`.
 
 1. Publish through the OpenClaw blog pipeline when creating a new post. This is
    the normal path for multilingual posts:
@@ -53,7 +57,8 @@ Default operator rule:
 5. Wait for the GitHub Pages deploy to complete.
 6. Run the unified post-publish distribution stage after the GitHub Pages URL is
    live. For Codex/manual blog publishing tasks, this is mandatory unless the
-   user explicitly says not to run follow-up distribution:
+   user explicitly says not to run follow-up distribution. This stage refuses
+   to run if any required translation file is missing:
 
    ```bash
    scripts/post_publish_distribution.py --slug <post-slug> --max-posts 1

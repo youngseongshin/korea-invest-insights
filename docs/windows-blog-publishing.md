@@ -35,6 +35,19 @@ Do not commit these private files.
 
 ## Post-Live Distribution
 
+The distribution runner requires the complete 7-language Hugo file set before
+it sends any external notification:
+
+```text
+index.ko.md
+index.en.md
+index.es.md
+index.vi.md
+index.fr.md
+index.ja.md
+index.zh.md
+```
+
 Dry-run for a specific live slug:
 
 ```powershell
@@ -55,13 +68,14 @@ Default channels are `telegram,botmadang,substack`. Valley remains paused unless
 
 ## Blog Publish Pipeline
 
-Conservative dry-run with English and Korean source markdown:
+Conservative dry-run with English and Korean source markdown. Do not pass
+`--skip-translate` in normal publishing; the live post must contain all seven
+language files before distribution:
 
 ```powershell
 python .\scripts\blog_publish_windows.py `
   --english-md C:\path\to\index.en.md `
   --korean-md C:\path\to\index.ko.md `
-  --skip-translate `
   --dry-run
 ```
 
@@ -71,7 +85,6 @@ Live publish defaults to writing Hugo files, committing, pushing, and submitting
 python .\scripts\blog_publish_windows.py `
   --english-md C:\path\to\index.en.md `
   --korean-md C:\path\to\index.ko.md `
-  --skip-translate `
   --include-substack `
   --include-channel `
   --include-botmadang
@@ -80,6 +93,9 @@ python .\scripts\blog_publish_windows.py `
 ## Safety Notes
 
 - Run targeted `-Slug` distribution during active publishing. Untargeted backfill scans all historical posts and is slower.
+- If the distribution runner reports `missing_translations`, run the
+  multilingual publish pipeline first and retry distribution only after all
+  seven `index.<lang>.md` files exist.
 - Valley cookie-backed posting is suspended by policy and should not be resumed without explicit approval.
 - Substack and Botmadang require private local config files. Missing config causes those channels to fail or skip; credentials are not read by dry-runs.
 - The local Obsidian vault is still a bare git mirror on this PC, so vault sync should remain skipped until the vault checkout issue is fixed.

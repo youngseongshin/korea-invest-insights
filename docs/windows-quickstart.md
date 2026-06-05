@@ -23,10 +23,10 @@ This prints whether Substack/Botmadang config and the Claude CLI are present.
 ## Step 1 — write & publish a post (Hugo + commit + push + IndexNow)
 ```powershell
 # Dry-run first (no writes):
-python .\scripts\blog_publish_windows.py --english-md <path>\index.en.md --korean-md <path>\index.ko.md --skip-translate --dry-run
+python .\scripts\blog_publish_windows.py --english-md <path>\index.en.md --korean-md <path>\index.ko.md --dry-run
 
 # Live: writes 7-language Hugo files, commits, pushes, submits IndexNow.
-python .\scripts\blog_publish_windows.py --english-md <path>\index.en.md --korean-md <path>\index.ko.md --skip-translate
+python .\scripts\blog_publish_windows.py --english-md <path>\index.en.md --korean-md <path>\index.ko.md
 ```
 Pushing to `main` triggers the GitHub Pages deploy workflow automatically.
 On Windows, channels (Substack/Telegram/Botmadang/Valley) are **skipped** unless
@@ -38,6 +38,12 @@ After the push, wait for the GitHub Pages deploy to finish, then confirm
 `https://koreainvestinsights.com/ko/post/<slug>/` returns 200.
 
 ## Step 3 — post-publish distribution (Telegram + Botmadang + Substack)
+
+Distribution now requires all seven language files in the post bundle:
+`index.ko.md`, `index.en.md`, `index.es.md`, `index.vi.md`, `index.fr.md`,
+`index.ja.md`, and `index.zh.md`. If any are missing, translate first and then
+retry this step.
+
 ```powershell
 # Dry-run for a slug (safe, no sends, no creds read):
 .\scripts\run_post_publish_distribution.ps1 -Slug "<slug>" -DryRun -NoRequireLive
