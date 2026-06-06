@@ -5,7 +5,7 @@ date: 2026-04-30T23:05:00+09:00
 aliases: ["/ko/hbm/", "/ko/semiconductor/", "/ko/samsung-hynix/", "/ko/kospi-hbm/", "/ko/page/hbm/"]
 layout: "page"
 description: "AI HBM 허브. 삼성전자, SK하이닉스, HBM, AI 메모리, 코스피 지수 쏠림과 한국 반도체 투자 논거를 한곳에 모은 리서치 허브. HBM 시장점유율, 삼성전자 코스피 비중, KOSPI 리레이팅, AI 서버 수요를 순서대로 정리한다."
-lastmod: 2026-06-05T16:30:00+09:00
+lastmod: 2026-06-06T19:30:00+09:00
 ---
 
 ## 한 줄 결론
@@ -38,6 +38,7 @@ lastmod: 2026-06-05T16:30:00+09:00
 | 젠슨 황의 마벨 1조 달러 발언은 HBM 투자에 어떤 의미인가 | 맞춤형 AI 가속기와 AI 네트워크가 강하면 HBM 수요는 엔비디아 GPU 단일축을 넘어 마벨 맞춤형 칩, 브로드컴 XPU, TPU, OpenAI 가속기로 넓어진다. 다만 한국 1차 병목은 메모리보다 FC-BGA·AI 네트워크 기판·실리콘 커패시터·전력 안정화다. | [젠슨 황의 마벨 1조 달러 발언](/ko/post/marvell-trillion-broadcom-readthrough-korea-ai-connectivity-2026-06-02/) |
 | 브로드컴이 2027년 AI 반도체 1,000억 달러 초과를 재확인한 것은 HBM에 어떤 의미인가 | AI ASIC 수요 둔화가 아니라 고객 기반 확장 신호다. Broadcom XPU, Google TPU, OpenAI accelerator, Meta·Anthropic compute가 커지면 HBM 수요는 엔비디아 GPU 단일축을 넘어선다. 다만 한국에서는 삼성전자 catch-up과 SK하이닉스 가격 규율을 나눠 봐야 한다. | [브로드컴 2027년 AI 반도체 1,000억 달러 재확인](/ko/post/broadcom-ai-semiconductor-100b-2027-korea-value-chain-2026-06-05/) |
 | AI 데이터센터 CapEx 5.3조 달러는 HBM 외 무엇을 키우나 | HBM은 본류지만 CapEx가 인프라 자산군으로 커지면 전력기기, FC-BGA·Si-Cap, 고다층 PCB, 광통신, eSSD까지 병목이 넓어진다. 한국에서는 메모리 본주와 하부 병목의 멀티플을 분리해야 한다. | [AI 데이터센터 CapEx 5.3조 달러 시대](/ko/post/ai-datacenter-capex-5p3t-korea-power-substrate-storage-bottleneck-2026-06-05/) |
+| 금리 상승은 HBM·AI 메모리 사이클을 이미 꺾었나 | 아직 아니다. 관찰된 것은 수요 붕괴가 아니라 금리·자본비용·데이터센터 금융구조가 AI 인프라 멀티플의 상단을 누르는 노란불이다. 메모리 본주는 HBM 가격, EPS 지속성, 고객 재고, capex 하향 여부를 봐야 한다. | [중반을 넘어선 AI 슈퍼사이클](/ko/post/ai-supercycle-midgame-rate-risk-yellow-not-red-2026-06-06/) |
 | NVIDIA GTC 2026 이후 LPX·CMX는 HBM에 부정적인가 | 아니다. LPX는 SRAM 기반 저지연 decode tier, Rubin GPU/HBM은 prefill·attention·verification·large-memory tier, CMX/STX는 KV-cache storage tier다. HBM 대체가 아니라 추론 memory hierarchy 확장이다. | [NVIDIA Vera Rubin 추론 스택: LPX·CMX](/ko/post/nvidia-vera-rubin-lpx-cmx-inference-stack-samsung-hbm-2026-05-28/) |
 | 같은 AI 인프라 사이클인데 왜 삼성전자는 싸고 삼성전기는 비싸 보이나 | 멀티플은 AI 노출도가 아니라 이익 지속기간, 가격 결정권, 고객 lock-in, capex 부담, 피크이익 의심의 함수다. 삼성전자는 HBM catch-up과 memory hierarchy option을 낮은 멀티플에 보유하지만, 삼성전기는 MLCC·FC-BGA·Si-Cap thesis가 이미 높은 가격에 반영됐다. | [AI 인프라 멀티플 지도](/ko/post/ai-infrastructure-multiple-map-gpu-hbm-mlcc-fcbga-samsung-2026-05-31/) |
 | 삼성전기 280만원 리포트는 메모리보다 강하다는 증거인가 | 아직 증거라기보다 검증해야 할 가정이다. 미래에셋 6월 1일 목표가 280만원은 29F EPS 93,242원 × 30배로, 2029년 장기 이익을 당겨 쓴 산식이다. 삼성전기는 메모리보다 강하려면 2027~2029년 ASP, Si-Cap 반복수주, 고OPM을 증명해야 한다. | [삼성전기 280만원 리포트 후속](/ko/post/samsung-electro-mechanics-mirae-tp-2800000-2029-memory-duration-proof-2026-06-01/) |
@@ -58,6 +59,7 @@ lastmod: 2026-06-05T16:30:00+09:00
 
 | 날짜 | 주제 | 자세히 보기 |
 |---|---|---|
+| 2026-06-06 | <strong>중반을 넘어선 AI 슈퍼사이클</strong> — AI 메모리 상승장은 아직 실적 기반이지만 장기금리·데이터센터 자본조달·hyperscaler FCF가 멀티플 상단을 누르는 노란불로 부상했고, 빨간불은 capex guidance cut, HBM 가격 반전, financing stress에서 확인해야 한다는 프레임 | [중반을 넘어선 AI 슈퍼사이클](/ko/post/ai-supercycle-midgame-rate-risk-yellow-not-red-2026-06-06/) |
 | 2026-06-05 | <strong>젠슨 황의 HBM4 3사 검증 통과 발언</strong> — 삼성전자·SK하이닉스·마이크론이 Vera Rubin용 HBM4 공급 경쟁에 들어갔다는 이벤트로 해석하고, 삼성전자 HBM discount 축소, SK하이닉스 리더십 프리미엄 전환, 한미반도체 TC본더 read-through를 분리 | [젠슨 황의 큰 발언과 HBM4 3사 검증 통과](/ko/post/jensen-huang-hbm4-three-vendors-qualified-market-missed-2026-06-05/) |
 | 2026-06-05 | <strong>삼하마 패리티 후속</strong> — AI Chip & Memory Forward P/E 지도와 2Q run-rate 영업이익 배수를 함께 보며, 마이크론 프리미엄은 정당하지만 삼성전자·SK하이닉스의 2028E P/E 6배 안팎 할인은 EPS 지속성이 유지될 경우 과도하다는 논리로 정리 | [삼하마 패리티 후속](/ko/post/sam-hama-parity-follow-up-ai-chip-memory-pe-map-2026-06-05/) |
 | 2026-06-05 | <strong>AI 데이터센터 CapEx 5.3조 달러 시대</strong> — Goldman 5.3조 달러 CapEx 프레임과 Alphabet 2026년 1,800억~1,900억 달러 CapEx를 전력기기, 삼성전기 MLCC·FC-BGA·Si-Cap, 고다층 PCB, 광통신, eSSD 병목으로 번역 | [AI 데이터센터 CapEx 5.3조 달러 시대](/ko/post/ai-datacenter-capex-5p3t-korea-power-substrate-storage-bottleneck-2026-06-05/) |
@@ -132,6 +134,7 @@ lastmod: 2026-06-05T16:30:00+09:00
 ### HBM과 AI 메모리
 
 - [젠슨 황의 큰 발언에 시장은 귀 기울이지 않았다: HBM4 3사 검증 통과의 의미](/ko/post/jensen-huang-hbm4-three-vendors-qualified-market-missed-2026-06-05/)
+- [중반을 넘어선 AI 슈퍼사이클: 금리 영향은 커졌지만 아직 빨간불은 없다](/ko/post/ai-supercycle-midgame-rate-risk-yellow-not-red-2026-06-06/)
 - [한미반도체 IR 공시: 수주가 아니라 TC본더 TAM 확장 신호](/ko/post/hanmi-semiconductor-ir-tc-bonder-tam-expansion-watchlist-2026-06-02/)
 - [삼하마 패리티: 삼성전자·하이닉스가 마이크론보다 다시 싸진 구간](/ko/post/samsung-hynix-micron-forward-per-parity-memory-catch-up-2026-06-03/)
 - [파두가 증명해야 할 단가·물량·새 시장: 메모리보다 좋은 AI 인프라 병목이 될 수 있을까](/ko/post/fadu-ai-infra-storage-bottleneck-p-q-new-segment-2026-06-02/)

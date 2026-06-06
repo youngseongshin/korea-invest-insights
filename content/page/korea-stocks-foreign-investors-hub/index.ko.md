@@ -5,7 +5,7 @@ date: 2026-05-07T00:40:00+09:00
 aliases: ["/ko/korea-stocks/", "/ko/korean-stocks/", "/ko/ibkr-korea-stocks/", "/ko/foreign-investors-korea/", "/ko/page/korea-stocks-foreign-investors-hub/"]
 layout: "page"
 description: "해외 투자자를 위한 한국 주식 허브. IBKR·해외 증권사 한국 주식 접근, KOSPI, KOSDAQ, 삼성전자, SK하이닉스, 한국 금융주, AI 하드웨어, K-뷰티, 일간 시장 브리핑을 한곳에 정리한다."
-lastmod: 2026-06-06T17:45:00+09:00
+lastmod: 2026-06-06T19:30:00+09:00
 ---
 
 ## 한 줄 결론
@@ -25,6 +25,7 @@ lastmod: 2026-06-06T17:45:00+09:00
 | 외국인은 2026년에 한국 주식을 팔고 있나요? | 전체 순매도는 크지만 대부분 삼성전자·SK하이닉스 두 메모리 대형주에서 발생했다. 한국 이탈보다 메모리 분배와 선별 로테이션에 가깝다. | [한국증시 외국인 수급 분석](/ko/post/korea-foreign-investor-flow-memory-megacap-rotation-2026-05-24/) |
 | 한국장에 돈이 없어서 시장 폭이 약한가요? | 아니다. 예탁금+CMA는 246조원까지 늘었지만 20일 ADR은 KOSPI 48.9, KOSDAQ 48.1까지 내려왔다. 유동성은 많지만 외국인 재배치 종목과 소수 주도주로만 좁게 흐르는 장이다. | [유동성은 많은데 시장 폭은 무너졌다](/ko/post/korea-market-liquidity-foreign-reallocation-adr-narrow-leadership-2026-06-03/) |
 | 강한 미국 고용 이후 한국을 broad beta로 사도 되나요? | 아직 아니다. 6월 5일 고용 쇼크는 5월 금리 쇼크의 하드데이터 버전에 가깝다. KOSPI 8,000, 7,770~7,820, 미국 10년물 4.5%, 외국인 선물, 삼성전자·SK하이닉스 상대강도 확인이 먼저다. | [고용 쇼크와 KOSPI 8,000 관문](/ko/post/us-jobs-rate-hike-shock-kospi-macro-gate-2026-06-06/) |
+| 해외 투자자는 AI 슈퍼사이클을 금리 리스크로 봐야 하나요? | 예, 하지만 아직 빨간불은 아니다. AI 수요 붕괴보다 금리·자본비용·데이터센터 금융구조가 AI 인프라 멀티플 상단을 누르는 노란불로 보는 편이 정확하다. | [중반을 넘어선 AI 슈퍼사이클](/ko/post/ai-supercycle-midgame-rate-risk-yellow-not-red-2026-06-06/) |
 | 스페이스X IPO는 해외 투자자 관점에서 한국장에 영향을 주나요? | 직접 우주 수혜보다 외국인 funding source와 HBM 수요 검증이 핵심이다. 단기에는 삼성전자·SK하이닉스가 팔릴 수 있고, 중기에는 SpaceX·Starlink·AI compute CapEx가 HBM·전력·네트워크 병목을 다시 검증할 수 있다. | [스페이스X IPO와 한국 증시](/ko/post/spacex-ipo-korea-market-liquidity-ai-space-readthrough-2026-06-05/) |
 | 외국인이 KOSDAQ을 사는데 왜 코스닥은 약한가요? | 외국인 매수는 좁고, 기관 real money는 아직 돌아오지 않았다. KOSDAQ 전체 반등에는 ADR 60 회복, KOSDAQ 1,080~1,100 회복, 투신·사모·연기금 5D 플러스 전환이 필요하다. | [외국인은 사는데 왜 코스닥은 빠졌나](/ko/post/kosdaq-foreign-buying-institution-real-money-adr-2026-06-03/) |
 | 한국에서 기관 순매수는 어떻게 봐야 하나요? | 기관 합계에는 금융투자가 섞여 있다. 해외 투자자가 지속성을 보려면 금투를 제외하고 투신·사모·연기금 등 Real Money를 따로 봐야 한다. | [Real Money 수급 프레임워크](/ko/post/real-money-flow-framework-korea-institution-quality-2026-06-03/) |
