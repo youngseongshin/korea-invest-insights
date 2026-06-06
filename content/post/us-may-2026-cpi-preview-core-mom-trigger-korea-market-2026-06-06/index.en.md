@@ -30,6 +30,8 @@ draft: false
 > 📚 Context
 > This is a deeper CPI companion to [CPI, BOJ and FOMC: Korea Needs a Reaction Function, Not a Forecast](/post/us-cpi-boj-fomc-macro-event-cluster-korea-reaction-function-2026-06-06/). That note framed the macro event cluster. This one focuses on the first gate: **U.S. May CPI itself**. Related reading: [the jobs shock and the KOSPI 8,000 gate](/post/us-jobs-rate-hike-shock-kospi-macro-gate-2026-06-06/), [the AI supercycle midgame and rate risk](/post/ai-supercycle-midgame-rate-risk-yellow-not-red-2026-06-06/) and [the complex risk-off recovery map](/post/macro-snapshot-complex-risk-off-recovery-triggers-2026-05-17/).
 
+![U.S. May CPI preview scenario map: Core CPI MoM matters more than headline CPI](cpi-ft.png)
+
 ## TL;DR
 
 - **Headline CPI is likely to look hot.** Energy prices and the low May 2025 base both work upward. The central range is **Headline CPI +0.43-0.46% MoM / 4.1-4.2% YoY**.

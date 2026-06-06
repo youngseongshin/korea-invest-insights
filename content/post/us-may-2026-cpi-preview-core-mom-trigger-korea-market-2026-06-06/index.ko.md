@@ -31,6 +31,8 @@ draft: false
 > 📚 연결 맥락
 > 이 글은 [강한 고용 뒤 CPI·BOJ·FOMC 이벤트 클러스터](/ko/post/us-cpi-boj-fomc-macro-event-cluster-korea-reaction-function-2026-06-06/)의 후속 CPI 딥다이브입니다. 앞글이 “한국장은 예측보다 반응 함수가 중요하다”고 정리했다면, 이번 글은 그 반응 함수의 첫 관문인 **미국 5월 CPI 자체**를 분해합니다. 함께 읽을 글은 [고용 쇼크와 KOSPI 8,000 관문](/ko/post/us-jobs-rate-hike-shock-kospi-macro-gate-2026-06-06/), [중반을 넘어선 AI 슈퍼사이클](/ko/post/ai-supercycle-midgame-rate-risk-yellow-not-red-2026-06-06/), [복합 risk-off와 회복 조건](/ko/post/macro-snapshot-complex-risk-off-recovery-triggers-2026-05-17/)입니다. 관련 허브는 [한국 데일리 마켓 허브](/ko/page/korea-daily-market-hub/)와 [해외 투자자용 한국 주식 허브](/ko/page/korea-stocks-foreign-investors-hub/)입니다.
 
+![미국 5월 CPI 프리뷰: Headline보다 Core CPI MoM이 핵심이라는 시나리오 지도](cpi-ft.png)
+
 ## TL;DR
 
 - **헤드라인 CPI는 높게 나올 가능성이 큽니다.** 에너지 가격과 2025년 5월 저베이스가 동시에 작동합니다. 중심 전망은 **Headline CPI +0.43~0.46% MoM / 4.1~4.2% YoY**입니다.

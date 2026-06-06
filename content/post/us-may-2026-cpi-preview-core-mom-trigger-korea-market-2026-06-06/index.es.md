@@ -10,6 +10,8 @@ draft: false
 
 > Contexto: este artículo acompaña la nota sobre el clúster **CPI → vencimiento de derivados en Corea → BOJ → FOMC**. Aquí el foco es el IPC de EE. UU. de mayo de 2026.
 
+![Mapa de escenarios del IPC de EE. UU. de mayo: Core CPI MoM importa más que el headline](cpi-ft.png)
+
 ## Resumen
 
 - El IPC general probablemente será alto: el escenario central es **+0,43~0,46% MoM / 4,1~4,2% YoY**.

@@ -10,6 +10,8 @@ draft: false
 
 > Bối cảnh: bài này là phần đào sâu CPI sau bài về cụm sự kiện **CPI → đáo hạn phái sinh Hàn Quốc → BOJ → FOMC**.
 
+![Bản đồ kịch bản CPI Mỹ tháng 5: Core CPI MoM quan trọng hơn headline](cpi-ft.png)
+
 ## Tóm tắt
 
 - CPI headline có khả năng cao: vùng trung tâm là **+0,43~0,46% MoM / 4,1~4,2% YoY**.

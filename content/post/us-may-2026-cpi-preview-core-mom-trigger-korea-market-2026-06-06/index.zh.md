@@ -10,6 +10,8 @@ draft: false
 
 > 背景：本文是 **CPI → 韩国衍生品到期 → BOJ → FOMC** 事件链中的CPI深度分析。
 
+![美国5月CPI情景图：比headline更重要的是Core CPI MoM](cpi-ft.png)
+
 ## 摘要
 
 - Headline CPI大概率偏高，核心区间为 **+0.43~0.46% MoM / 4.1~4.2% YoY**。

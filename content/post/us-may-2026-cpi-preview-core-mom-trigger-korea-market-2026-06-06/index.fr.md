@@ -10,6 +10,8 @@ draft: false
 
 > Contexte : cet article approfondit le CPI après la note sur le cluster **CPI → échéance dérivés coréens → BOJ → FOMC**.
 
+![Carte de scénarios du CPI américain de mai : le Core CPI MoM compte plus que le headline](cpi-ft.png)
+
 ## Résumé
 
 - Le CPI headline devrait être élevé : scénario central **+0,43~0,46 % MoM / 4,1~4,2 % YoY**.
