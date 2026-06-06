@@ -24,6 +24,27 @@ Default operator rule:
   until these seven files exist: `index.ko.md`, `index.en.md`, `index.es.md`,
   `index.vi.md`, `index.fr.md`, `index.ja.md`, and `index.zh.md`.
 
+Source-fidelity rule for detailed research attachments:
+
+- Treat a detailed attached report as a **source manuscript to restructure**,
+  not as a short memo to summarize. The Korean post should preserve the original
+  report's analytical density unless the user explicitly asks for a brief post.
+- Keep the source report's major sections, tables, scenario grids, valuation
+  arithmetic, catalysts, invalidation conditions, red-team arguments, and
+  `[Fact] / [Inference] / [Speculation] / [Blocked]` distinctions when they are
+  present. Convert them into blog-friendly headings and prose, but do not drop
+  them merely to make the post shorter.
+- If the source includes multiple analytical angles, publish them as separate
+  sections rather than collapsing them into one conclusion. A good post can be
+  long when the input is a full report.
+- Shorten only duplicated wording, raw collection notes, execution logs,
+  malformed fragments, or details that are clearly outside the requested topic.
+  If a potentially important detail is omitted, make that omission intentional
+  and explain it briefly in the working notes or final report.
+- For translations, preserve the same core structure as the Korean version.
+  Translations may be slightly tighter for readability, but they should not
+  remove central evidence, tables, risk checks, or investment conclusions.
+
 1. Publish through the OpenClaw blog pipeline when creating a new post. This is
    the normal path for multilingual posts:
 
