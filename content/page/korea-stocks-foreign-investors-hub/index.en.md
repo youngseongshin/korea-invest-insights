@@ -5,7 +5,7 @@ date: 2026-05-07T00:40:00+09:00
 aliases: ["/korea-stocks/", "/korean-stocks/", "/ibkr-korea-stocks/", "/foreign-investors-korea/", "/en/korea-stocks/", "/en/korean-stocks/", "/en/ibkr-korea-stocks/", "/en/page/korea-stocks-foreign-investors-hub/", "/es/page/korea-stocks-foreign-investors-hub/", "/vi/page/korea-stocks-foreign-investors-hub/", "/fr/page/korea-stocks-foreign-investors-hub/", "/ja/page/korea-stocks-foreign-investors-hub/", "/zh/page/korea-stocks-foreign-investors-hub/"]
 layout: "page"
 description: "A foreign-investor guide to Korean stocks: IBKR and international-broker access, KOSPI, KOSDAQ, Samsung Electronics, SK Hynix, Korean financials, AI hardware, K-beauty and daily market research."
-lastmod: 2026-06-05T16:30:00+09:00
+lastmod: 2026-06-06T17:45:00+09:00
 ---
 
 ## One-Line Thesis
@@ -24,6 +24,7 @@ Foreign access to Korean equities is becoming less of a brokerage problem and mo
 | What does Korea being near global No. 6 by market cap mean? | Korea has re-rated, but the key is whether Samsung + SK hynix AI-memory earnings last and whether flows broaden beyond mega-cap semis. | [Why Korea Part 5: Global No. 6 Market Cap](/post/why-korea-market-cap-global-six-ai-memory-rerating-2026-05-24/) |
 | Are foreigners selling Korean stocks in 2026? | The headline outflow is large, but most of it is concentrated in Samsung Electronics and SK hynix. It is better read as memory mega-cap distribution plus selective rotation, not a simple Korea exit. | [Korea Foreign Investor Flow Analysis](/post/korea-foreign-investor-flow-memory-megacap-rotation-2026-05-24/) |
 | Is Korea weak because there is no liquidity? | No. Investor deposits plus CMA balances reached KRW 246.3T, but the 20-day ADR fell to 48.9 for KOSPI and 48.1 for KOSDAQ. Liquidity exists, but it is flowing narrowly into leadership and foreign-reallocation names. | [Korea Has Liquidity, But Breadth Has Broken](/post/korea-market-liquidity-foreign-reallocation-adr-narrow-leadership-2026-06-03/) |
+| Should foreign investors buy broad Korea beta after strong U.S. jobs? | Not yet. The June 5 jobs shock is the hard-data version of the May rate shock. Watch KOSPI 8,000, the 7,770-7,820 downside zone, the U.S. 10-year yield near 4.5%, foreign futures and Samsung / SK Hynix relative strength first. | [Jobs shock and the KOSPI 8,000 gate](/post/us-jobs-rate-hike-shock-kospi-macro-gate-2026-06-06/) |
 | Can the SpaceX IPO affect Korean equities for foreign investors? | The direct Korean space-stock read-through is weaker than the funding-source and HBM-demand channels. Samsung and SK Hynix can be sold short term to fund SpaceX, while SpaceX / Starlink / AI-compute capex can validate HBM, power and networking demand medium term. | [SpaceX IPO and Korean equities](/post/spacex-ipo-korea-market-liquidity-ai-space-readthrough-2026-06-05/) |
 | Why is KOSDAQ weak if foreigners are buying? | Foreign buying is narrow and institutional real money has not returned. A broad KOSDAQ rebound needs ADR 60, KOSDAQ 1,080-1,100 and positive 5-day flows from investment trusts, private funds and pensions. | [Why Is KOSDAQ Falling If Foreigners Are Buying?](/post/kosdaq-foreign-buying-institution-real-money-adr-2026-06-03/) |
 | How should foreign investors read Korean institutional buying? | Headline institutional buying includes financial-investment accounts. For durability, remove those flows and track real money — investment trusts, private funds and pensions. | [Real Money Flow Framework](/post/real-money-flow-framework-korea-institution-quality-2026-06-03/) |
@@ -59,23 +60,24 @@ Foreign access to Korean equities is becoming less of a brokerage problem and mo
 | 5 | Are foreign investors leaving Korea, or reducing memory mega-caps? | [Korea Foreign Investor Flow Analysis](/post/korea-foreign-investor-flow-memory-megacap-rotation-2026-05-24/) |
 | 6 | How much foreign-selling pressure is left by ownership? | [KOSPI ownership versus Samsung / SK Hynix](/post/korea-foreign-ownership-kospi-samsung-hynix-divergence-2026-05-26/) |
 | 7 | Why can the index hold while the average stock is weak? | [Korea Has Liquidity, But Breadth Has Broken](/post/korea-market-liquidity-foreign-reallocation-adr-narrow-leadership-2026-06-03/) |
-| 8 | Why is KOSDAQ not rallying despite foreign buying? | [Why Is KOSDAQ Falling If Foreigners Are Buying?](/post/kosdaq-foreign-buying-institution-real-money-adr-2026-06-03/) |
-| 9 | How should investors decompose institutional buying? | [Real Money Flow Framework](/post/real-money-flow-framework-korea-institution-quality-2026-06-03/) |
-| 10 | How should investors read the index-versus-average-stock gap with ADR? | [Korea ADR at 67 and narrow leadership](/post/korea-adr-breadth-narrow-leadership-kospi-kosdaq-2026-05-27/) |
-| 11 | Which KOSPI and KOSDAQ names are actually in the foreign-investor playbook? | [Korea Foreign-Investor Playbook: KOSPI 168, KOSDAQ 355](/post/korea-foreign-playbook-msci-dm-kospi-168-kosdaq-355-2026-05-31/) |
-| 12 | How should I think about Samsung Electronics, SK Hynix and HBM? | [Samsung / SK Hynix / HBM Hub](/page/korea-semiconductor-hbm-kospi-hub/) |
-| 13 | Are Samsung and SK hynix cheap again versus Micron? | [Sam-Ha-Ma parity follow-up: Micron deserves a premium, but Korean memory looks too cheap](/post/sam-hama-parity-follow-up-ai-chip-memory-pe-map-2026-06-05/) |
-| 14 | Can the SpaceX IPO move Korean AI, space and HBM flows? | [SpaceX IPO and Korean equities](/post/spacex-ipo-korea-market-liquidity-ai-space-readthrough-2026-06-05/) |
-| 15 | If China / Hong Kong AI heat spills into Korea, which listed proxies matter? | [China / Hong Kong AI spillover to Korea](/post/china-hong-kong-ai-overheat-korea-ai-cloud-llm-proxy-2026-05-31/) |
-| 16 | How does the US non-semiconductor re-rating translate into Korean second-line stocks? | [US non-semiconductor re-rating through a Korean equity lens](/post/us-nonsemi-rerating-ai-power-software-korea-translation-2026-05-31/) |
-| 17 | Why should NAVER be mapped through SOTP, AI cloud and platform-financial optionality? | [NAVER rerating case](/post/naver-rerating-dunamu-mirae-ai-cloud-stablecoin-turnaround-2026-05-31/) |
-| 18 | What does Alibaba agentic commerce ask of NAVER, NHN KCP and Cafe24? | [Alibaba AI Pay and Korea seller OS](/post/alibaba-ai-pay-accio-work-korea-agentic-commerce-seller-os-2026-05-31/) |
-| 19 | What is the AI PCB and substrate thesis? | [AI PCB and Substrate Hub](/page/korea-ai-pcb-substrate-hub/) |
-| 20 | Why does Korea have so many AI substrate companies? | [Why Korea Part 1: Semiconductor Substrates](/post/why-korea-semiconductor-substrate-competitive-edge-2026-05-07/) |
-| 21 | How should I map Korean robotics and physical AI stocks? | [Korea Humanoid Robot Value Chain](/post/korea-robotics-value-chain-complete-map-2026-05-11/) |
-| 22 | Which Korean financials matter under Value-Up? | [Korean Financials Hub](/page/korean-financials-hub/) |
-| 23 | Why did Korean cosmetics become a top-three export industry? | [Why Korea Part 2: Korean Cosmetics](/post/why-korea-cosmetics-global-competitiveness-2026-05-07/) |
-| 24 | Which Korean consumer stories are searchable globally? | [K-Beauty Hub](/page/k-beauty-olive-young-pharmaresearch-hub/) |
+| 8 | Should foreign investors buy broad Korea beta after the jobs shock? | [Jobs shock and the KOSPI 8,000 gate](/post/us-jobs-rate-hike-shock-kospi-macro-gate-2026-06-06/) |
+| 9 | Why is KOSDAQ not rallying despite foreign buying? | [Why Is KOSDAQ Falling If Foreigners Are Buying?](/post/kosdaq-foreign-buying-institution-real-money-adr-2026-06-03/) |
+| 10 | How should investors decompose institutional buying? | [Real Money Flow Framework](/post/real-money-flow-framework-korea-institution-quality-2026-06-03/) |
+| 11 | How should investors read the index-versus-average-stock gap with ADR? | [Korea ADR at 67 and narrow leadership](/post/korea-adr-breadth-narrow-leadership-kospi-kosdaq-2026-05-27/) |
+| 12 | Which KOSPI and KOSDAQ names are actually in the foreign-investor playbook? | [Korea Foreign-Investor Playbook: KOSPI 168, KOSDAQ 355](/post/korea-foreign-playbook-msci-dm-kospi-168-kosdaq-355-2026-05-31/) |
+| 13 | How should I think about Samsung Electronics, SK Hynix and HBM? | [Samsung / SK Hynix / HBM Hub](/page/korea-semiconductor-hbm-kospi-hub/) |
+| 14 | Are Samsung and SK hynix cheap again versus Micron? | [Sam-Ha-Ma parity follow-up: Micron deserves a premium, but Korean memory looks too cheap](/post/sam-hama-parity-follow-up-ai-chip-memory-pe-map-2026-06-05/) |
+| 15 | Can the SpaceX IPO move Korean AI, space and HBM flows? | [SpaceX IPO and Korean equities](/post/spacex-ipo-korea-market-liquidity-ai-space-readthrough-2026-06-05/) |
+| 16 | If China / Hong Kong AI heat spills into Korea, which listed proxies matter? | [China / Hong Kong AI spillover to Korea](/post/china-hong-kong-ai-overheat-korea-ai-cloud-llm-proxy-2026-05-31/) |
+| 17 | How does the US non-semiconductor re-rating translate into Korean second-line stocks? | [US non-semiconductor re-rating through a Korean equity lens](/post/us-nonsemi-rerating-ai-power-software-korea-translation-2026-05-31/) |
+| 18 | Why should NAVER be mapped through SOTP, AI cloud and platform-financial optionality? | [NAVER rerating case](/post/naver-rerating-dunamu-mirae-ai-cloud-stablecoin-turnaround-2026-05-31/) |
+| 19 | What does Alibaba agentic commerce ask of NAVER, NHN KCP and Cafe24? | [Alibaba AI Pay and Korea seller OS](/post/alibaba-ai-pay-accio-work-korea-agentic-commerce-seller-os-2026-05-31/) |
+| 20 | What is the AI PCB and substrate thesis? | [AI PCB and Substrate Hub](/page/korea-ai-pcb-substrate-hub/) |
+| 21 | Why does Korea have so many AI substrate companies? | [Why Korea Part 1: Semiconductor Substrates](/post/why-korea-semiconductor-substrate-competitive-edge-2026-05-07/) |
+| 22 | How should I map Korean robotics and physical AI stocks? | [Korea Humanoid Robot Value Chain](/post/korea-robotics-value-chain-complete-map-2026-05-11/) |
+| 23 | Which Korean financials matter under Value-Up? | [Korean Financials Hub](/page/korean-financials-hub/) |
+| 24 | Why did Korean cosmetics become a top-three export industry? | [Why Korea Part 2: Korean Cosmetics](/post/why-korea-cosmetics-global-competitiveness-2026-05-07/) |
+| 25 | Which Korean consumer stories are searchable globally? | [K-Beauty Hub](/page/k-beauty-olive-young-pharmaresearch-hub/) |
 
 ---
 
