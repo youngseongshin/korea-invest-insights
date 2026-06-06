@@ -5,7 +5,7 @@ date: 2026-05-03T11:00:00+09:00
 aliases: ["/korea-daily/", "/kospi/", "/kosdaq/", "/en/korea-daily/", "/en/page/korea-daily-market-hub/", "/es/page/korea-daily-market-hub/", "/vi/page/korea-daily-market-hub/", "/fr/page/korea-daily-market-hub/", "/ja/page/korea-daily-market-hub/", "/zh/page/korea-daily-market-hub/"]
 layout: "page"
 description: "A hub for Korean stock market daily updates — KOSPI and KOSDAQ market closes, weekly concentrated picks, foreign-investor flows, sector rotation, and what's actually moving in Korean equities each session. Direct answers to 'What is the Korean stock market doing today?' and similar queries."
-lastmod: 2026-06-06T19:30:00+09:00
+lastmod: 2026-06-06T20:40:00+09:00
 ---
 
 ## What This Hub Answers
@@ -16,6 +16,7 @@ Direct, search-engine-friendly answers to the questions global investors ask abo
 |---|---|---|
 | What is the Korean stock market doing today? | The most recent Korea Daily Wrap covers the day's regime, sector rotation, foreign flows, and key disclosures. | [Latest Korea Daily Wrap](/post/kr-daily-wrap-2026-06-05/) |
 | What should Korean equities watch after the strong U.S. jobs report? | The event cluster is June 10 U.S. CPI, June 11 Korea derivatives expiry, June 15-16 BOJ and June 16-17 FOMC. The key is not a heroic forecast but a reaction function around core CPI, the U.S. 10-year yield near 4.6%, USD/JPY near 160 and Korea foreign futures flows. | [CPI, BOJ and FOMC event cluster](/post/us-cpi-boj-fomc-macro-event-cluster-korea-reaction-function-2026-06-06/) |
+| What is the key number in U.S. May CPI? | Not the 4.1-4.2% headline. The key is Core CPI MoM: probability-weighted center +0.26%, 75% probability at +0.30% or lower, and 13% probability at +0.35% or higher. Below +0.30% can support relief; above +0.35% requires defense. | [U.S. May CPI Preview](/post/us-may-2026-cpi-preview-core-mom-trigger-korea-market-2026-06-06/) |
 | How does the U.S. jobs shock change the KOSPI risk map? | The June 5 jobs shock is the hard-data version of the May long-rate shock. Watch KOSPI 8,000, the 7,770-7,820 downside zone, the U.S. 10-year yield near 4.5%, foreign futures flows and Samsung / SK Hynix relative strength. | [Jobs shock and the KOSPI 8,000 gate](/post/us-jobs-rate-hike-shock-kospi-macro-gate-2026-06-06/) |
 | Has the AI supercycle already broken because of rates? | Not yet. The observed fact is not AI-demand collapse, but a yellow light: long rates, capital costs and data-center financing structures are starting to cap AI infrastructure multiples. | [AI Supercycle Midgame](/post/ai-supercycle-midgame-rate-risk-yellow-not-red-2026-06-06/) |
 | Is the June 4 GigaVis spike a chase signal? | Not yet. The five-day +6.7% move, top-5.2% relative strength and retail-to-foreign/institutional handoff are constructive. But after the June 4 +11.2% surge, the better setup is support around KRW 135,000 or a breakout above KRW 144,400. | [GigaVis follow-up: AI FC-BGA yield bottleneck](/post/gigavis-ai-fcbga-yield-equipment-smart-money-flow-2026-06-05/) |
@@ -65,11 +66,12 @@ Sequential reading for someone new to Korean equities — what to read in order 
 | 15 | Did Samsung and SK hynix become attractive again versus Micron? | [Sam-Ha-Ma parity follow-up: Micron deserves a premium, but Korean memory looks too cheap](/post/sam-hama-parity-follow-up-ai-chip-memory-pe-map-2026-06-05/) |
 | 16 | Can the SpaceX IPO move Korean AI, space and HBM flows? | [SpaceX IPO and Korean equities](/post/spacex-ipo-korea-market-liquidity-ai-space-readthrough-2026-06-05/) |
 | 17 | How should Korea handle the CPI, BOJ and FOMC event cluster? | [CPI, BOJ and FOMC event cluster](/post/us-cpi-boj-fomc-macro-event-cluster-korea-reaction-function-2026-06-06/) |
-| 18 | Why is the jobs shock the hard-data version of the May rate shock? | [Jobs shock and the KOSPI 8,000 gate](/post/us-jobs-rate-hike-shock-kospi-macro-gate-2026-06-06/) |
-| 19 | Is the AI supercycle now a rate-risk trade? | [AI Supercycle Midgame: Rate Risk Is Rising, But the Red Flags Are Not Yet Observed](/post/ai-supercycle-midgame-rate-risk-yellow-not-red-2026-06-06/) |
-| 20 | How should investors read the gap between the index and the average stock? | [Korea ADR at 67: Why the Index Can Hold While Most Stocks Are Weak](/post/korea-adr-breadth-narrow-leadership-kospi-kosdaq-2026-05-27/) |
-| 21 | Is MSCI DM upside broad Korea beta, or a foreign-playbook stock story? | [Korea Foreign-Investor Playbook: KOSPI 168, KOSDAQ 355](/post/korea-foreign-playbook-msci-dm-kospi-168-kosdaq-355-2026-05-31/) |
-| 22 | How does NVIDIA GTC Taipei translate into Korean AI infrastructure bottlenecks? | [Korea Is Watching Jensen Huang: What Changed Overnight?](/post/korea-market-after-gtc-taipei-jensen-huang-naver-ai-factory-2026-06-02/) |
+| 18 | What is the Core MoM trigger in U.S. May CPI? | [U.S. May CPI Preview: Base Case Is Core +0.26%, Defense Starts Above +0.35%](/post/us-may-2026-cpi-preview-core-mom-trigger-korea-market-2026-06-06/) |
+| 19 | Why is the jobs shock the hard-data version of the May rate shock? | [Jobs shock and the KOSPI 8,000 gate](/post/us-jobs-rate-hike-shock-kospi-macro-gate-2026-06-06/) |
+| 20 | Is the AI supercycle now a rate-risk trade? | [AI Supercycle Midgame: Rate Risk Is Rising, But the Red Flags Are Not Yet Observed](/post/ai-supercycle-midgame-rate-risk-yellow-not-red-2026-06-06/) |
+| 21 | How should investors read the gap between the index and the average stock? | [Korea ADR at 67: Why the Index Can Hold While Most Stocks Are Weak](/post/korea-adr-breadth-narrow-leadership-kospi-kosdaq-2026-05-27/) |
+| 22 | Is MSCI DM upside broad Korea beta, or a foreign-playbook stock story? | [Korea Foreign-Investor Playbook: KOSPI 168, KOSDAQ 355](/post/korea-foreign-playbook-msci-dm-kospi-168-kosdaq-355-2026-05-31/) |
+| 23 | How does NVIDIA GTC Taipei translate into Korean AI infrastructure bottlenecks? | [Korea Is Watching Jensen Huang: What Changed Overnight?](/post/korea-market-after-gtc-taipei-jensen-huang-naver-ai-factory-2026-06-02/) |
 
 ---
 
@@ -113,7 +115,7 @@ The Friday-evening "concentrated" series picks 3–5 highest-conviction Korean e
 | Korea global No. 6 market cap / Why Korea | [Why Korea Part 5: Global No. 6 Market Cap](/post/why-korea-market-cap-global-six-ai-memory-rerating-2026-05-24/) |
 | Foreign flows / memory mega-cap distribution | [Korea Foreign Investor Flow Analysis](/post/korea-foreign-investor-flow-memory-megacap-rotation-2026-05-24/) |
 | Market liquidity / ADR / narrow leadership regime | [Korea Has Liquidity, But Breadth Has Broken](/post/korea-market-liquidity-foreign-reallocation-adr-narrow-leadership-2026-06-03/) |
-| CPI / BOJ / FOMC / Korea derivatives expiry | [CPI, BOJ and FOMC event cluster](/post/us-cpi-boj-fomc-macro-event-cluster-korea-reaction-function-2026-06-06/) · [Jobs shock and the KOSPI 8,000 gate](/post/us-jobs-rate-hike-shock-kospi-macro-gate-2026-06-06/) |
+| CPI / BOJ / FOMC / Korea derivatives expiry | [U.S. May CPI Preview](/post/us-may-2026-cpi-preview-core-mom-trigger-korea-market-2026-06-06/) · [CPI, BOJ and FOMC event cluster](/post/us-cpi-boj-fomc-macro-event-cluster-korea-reaction-function-2026-06-06/) · [Jobs shock and the KOSPI 8,000 gate](/post/us-jobs-rate-hike-shock-kospi-macro-gate-2026-06-06/) |
 | SpaceX IPO / space and AI rebalancing | [SpaceX IPO and Korean equities](/post/spacex-ipo-korea-market-liquidity-ai-space-readthrough-2026-06-05/) |
 | KOSDAQ flows / institutional real-money return | [Why Is KOSDAQ Falling If Foreigners Are Buying?](/post/kosdaq-foreign-buying-institution-real-money-adr-2026-06-03/) |
 | Real Money flows / institution quality | [Real Money Flow Framework](/post/real-money-flow-framework-korea-institution-quality-2026-06-03/) |
