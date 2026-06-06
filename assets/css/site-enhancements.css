@@ -10,7 +10,7 @@
    exceed that specificity, otherwise Stack's defaults win. */
 html:root,
 html[data-scheme="light"] {
-  --kii-body-font: "Inter", "Pretendard", "Apple SD Gothic Neo", "Noto Sans KR", -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+  --kii-body-font: "Hanken Grotesk", "Pretendard", "Apple SD Gothic Neo", "Noto Sans KR", -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
   --kii-heading-font: "IBM Plex Serif", "Noto Serif KR", "AppleMyungjo", "Nanum Myeongjo", Georgia, serif;
   --kii-mono-font: "SFMono-Regular", "Cascadia Mono", "IBM Plex Mono", ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace;
 
@@ -52,7 +52,7 @@ html[data-scheme="light"] {
 
 html:root[data-scheme="dark"],
 html[data-scheme="dark"] {
-  --kii-body-font: "Inter", "Pretendard", "Apple SD Gothic Neo", "Noto Sans KR", -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+  --kii-body-font: "Hanken Grotesk", "Pretendard", "Apple SD Gothic Neo", "Noto Sans KR", -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
   --kii-heading-font: "IBM Plex Serif", "Noto Serif KR", "AppleMyungjo", "Nanum Myeongjo", Georgia, serif;
   --kii-mono-font: "SFMono-Regular", "Cascadia Mono", "IBM Plex Mono", ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace;
 
