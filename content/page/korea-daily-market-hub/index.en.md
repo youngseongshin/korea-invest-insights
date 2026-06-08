@@ -5,7 +5,7 @@ date: 2026-05-03T11:00:00+09:00
 aliases: ["/korea-daily/", "/kospi/", "/kosdaq/", "/en/korea-daily/", "/en/page/korea-daily-market-hub/", "/es/page/korea-daily-market-hub/", "/vi/page/korea-daily-market-hub/", "/fr/page/korea-daily-market-hub/", "/ja/page/korea-daily-market-hub/", "/zh/page/korea-daily-market-hub/"]
 layout: "page"
 description: "A hub for Korean stock market daily updates — KOSPI and KOSDAQ market closes, weekly concentrated picks, foreign-investor flows, sector rotation, and what's actually moving in Korean equities each session. Direct answers to 'What is the Korean stock market doing today?' and similar queries."
-lastmod: 2026-06-06T20:40:00+09:00
+lastmod: 2026-06-09T00:06:00+09:00
 ---
 
 ## What This Hub Answers
@@ -14,7 +14,7 @@ Direct, search-engine-friendly answers to the questions global investors ask abo
 
 | Search Question | Quick Answer | Read |
 |---|---|---|
-| What is the Korean stock market doing today? | The most recent Korea Daily Wrap covers the day's regime, sector rotation, foreign flows, and key disclosures. | [Latest Korea Daily Wrap](/post/kr-daily-wrap-2026-06-05/) |
+| What is the Korean stock market doing today? | The most recent Korea Daily Wrap covers the day's regime, sector rotation, foreign flows, and key disclosures. | [Latest Korea Daily Wrap](/post/kr-daily-wrap-2026-06-08/) |
 | What should Korean equities watch after the strong U.S. jobs report? | The event cluster is June 10 U.S. CPI, June 11 Korea derivatives expiry, June 15-16 BOJ and June 16-17 FOMC. The key is not a heroic forecast but a reaction function around core CPI, the U.S. 10-year yield near 4.6%, USD/JPY near 160 and Korea foreign futures flows. | [CPI, BOJ and FOMC event cluster](/post/us-cpi-boj-fomc-macro-event-cluster-korea-reaction-function-2026-06-06/) |
 | What is the key number in U.S. May CPI? | Not the 4.1-4.2% headline. The key is Core CPI MoM: probability-weighted center +0.26%, 75% probability at +0.30% or lower, and 13% probability at +0.35% or higher. Below +0.30% can support relief; above +0.35% requires defense. | [U.S. May CPI Preview](/post/us-may-2026-cpi-preview-core-mom-trigger-korea-market-2026-06-06/) |
 | How does the U.S. jobs shock change the KOSPI risk map? | The June 5 jobs shock is the hard-data version of the May long-rate shock. Watch KOSPI 8,000, the 7,770-7,820 downside zone, the U.S. 10-year yield near 4.5%, foreign futures flows and Samsung / SK Hynix relative strength. | [Jobs shock and the KOSPI 8,000 gate](/post/us-jobs-rate-hike-shock-kospi-macro-gate-2026-06-06/) |
@@ -50,7 +50,7 @@ Sequential reading for someone new to Korean equities — what to read in order 
 | Step | Question | Read |
 |---:|---|---|
 | 1 | Why is Korea outperforming in 2026? | [Korea Outperformance 2026: The Structural Re-Rating Backdrop](/post/korea-outperformance-2026-structural-rerating-2026-04-24/) |
-| 2 | What's actually driving the daily tape? | [Latest Korea Daily Wrap](/post/kr-daily-wrap-2026-06-05/) |
+| 2 | What's actually driving the daily tape? | [Latest Korea Daily Wrap](/post/kr-daily-wrap-2026-06-08/) |
 | 3 | Where is the high-conviction concentrated alpha? | [Latest Weekly Concentrated Strategy](/post/kr-concentrated-weekly-2026-04-24/) |
 | 4 | What's the deeper story on the largest names? | [Samsung Electronics Deep Dive](/post/kr-deep-dive-samsung-electronics-2026-04-16/) · [SK hynix Deep Dive](/post/kr-deep-dive-sk-hynix-2026-04-16/) |
 | 5 | Where are the un-priced KOSDAQ corners? | [KOSDAQ Coverage Gaps & Variant Perception](/post/kosdaq-coverage-gaps-variant-perception-2026-04-23/) |
@@ -79,13 +79,13 @@ Sequential reading for someone new to Korean equities — what to read in order 
 
 | Date | Theme | Read |
 |---|---|---|
+| 2026-06-08 | Korea Quality Re-Rating Watch 2026-06-08: Jeju Semi, VM — Smart Money | [Korea Daily Wrap 2026-06-08](/post/kr-daily-wrap-2026-06-08/) |
 | 2026-06-05 | Korea Quality Re-Rating Watch Jun 5: VM, Gigabis and Wonik IPS | [Korea Daily Wrap 2026-06-05](/post/kr-daily-wrap-2026-06-05/) |
 | 2026-06-04 | Korea Quality Re-Rating Watch Jun 4: Gigavis, VM — Equipment Rerates | [Korea Daily Wrap 2026-06-04](/post/kr-daily-wrap-2026-06-04/) |
 | 2026-06-03 | Korea Quality Re-Rating Watch 2026-06-03: VM, SK Square, ISU Petasys — Smart Money Buys While KOSDAQ Slides | [Korea Daily Wrap 2026-06-03](/post/kr-daily-wrap-2026-06-03/) |
 | 2026-06-02 | Korea Quality Re-Rating Watch Jun 2: VM, ISU Petasys, SK Square | [Korea Daily Wrap 2026-06-02](/post/kr-daily-wrap-2026-06-02/) |
 | 2026-06-01 | Korea Quality Re-Rating Watch 2026-06-01: Givabes, DB HiTek & APR — Quality with Smart Money Backing | [Korea Daily Wrap 2026-06-01](/post/kr-daily-wrap-2026-06-01/) |
 | 2026-05-29 | Korea Quality Re-Rating Watch 2026-05-29: VM, Gigavis, DB Hi-Tek | [Korea Daily Wrap 2026-05-29](/post/kr-daily-wrap-2026-05-29/) |
-| 2026-05-28 | Korea Quality Re-Rating Watch 2026-05-28: VM, SamCNS and Protek — Five Screeners | [Korea Daily Wrap 2026-05-28](/post/kr-daily-wrap-2026-05-28/) |
 
 For older daily wraps, see [Archives](/page/archives).
 
