@@ -5,7 +5,7 @@ date: 2026-05-03T11:00:00+09:00
 aliases: ["/ko/korea-daily/", "/ko/kospi/", "/ko/kosdaq/", "/ko/page/korea-daily-market-hub/"]
 layout: "page"
 description: "한국 주식시장 일일 업데이트 허브 — KOSPI / KOSDAQ 장마감 브리핑, 주간 집중 픽, 외국인·기관 수급, 섹터 로테이션, 그리고 매 세션 한국 주식에서 실제로 무엇이 움직이는지. '오늘 한국 주식시장은 어떤가요?' 같은 질문의 직접 답."
-lastmod: 2026-06-10T23:51:14+09:00
+lastmod: 2026-06-11T08:45:00+09:00
 ---
 
 ## 이 허브가 답하는 질문
@@ -15,6 +15,7 @@ lastmod: 2026-06-10T23:51:14+09:00
 | 검색 질문 | 빠른 답 | 읽을 글 |
 |---|---|---|
 | 오늘 한국 주식시장은 어떤가요? | 가장 최근 Korea Daily Wrap이 그날의 시장 국면, 섹터 로테이션, 외국인 수급, 핵심 공시를 정리합니다. | [최근 데일리 랩](/ko/post/kr-daily-wrap-2026-06-10/) |
+| 삼닉 쏠림이 계속될 때 3분기에 다시 볼 퀄리티 후보는 무엇인가요? | 삼성전자·SK하이닉스가 여전히 한국장의 첫 축이지만, FY26 EPS가 5% 이상 상향되고 1Q 실적도 좋았는데 주가는 2025년 말보다 낮은 35개 후보도 3분기 실적 시즌에 다시 볼 필요가 있다. 1차 Focus는 대한유화, SK바이오팜, 삼성바이오로직스, 크래프톤, GKL이다. | [삼닉 쏠림과 3분기 퀄리티 후보](/ko/post/samnik-crowding-q3-quality-watchlist-eps-up-price-lag-2026-06-11/) |
 | 강한 미국 고용 이후 이번 주 한국장은 무엇을 봐야 하나요? | 6월 10일 미국 CPI, 6월 11일 한국 파생 만기, 6월 15~16일 BOJ, 6월 16~17일 FOMC가 한 덩어리로 붙어 있다. 예측보다 core CPI, 10년물 4.6%, USD/JPY 160, 외국인 선물 수급이라는 반응 함수가 중요하다. | [CPI·BOJ·FOMC 이벤트 클러스터](/ko/post/us-cpi-boj-fomc-macro-event-cluster-korea-reaction-function-2026-06-06/) |
 | 미국 5월 CPI에서 진짜 봐야 할 숫자는 무엇인가요? | 헤드라인 4.1~4.2%보다 Core CPI MoM이 핵심이다. 확률가중 중심값은 +0.26%, +0.30% 이하 확률은 75%, +0.35% 이상 hot print 확률은 13%로 본다. +0.30% 이하면 안도 반등, +0.35% 이상이면 방어 전환이다. | [미국 5월 CPI 프리뷰](/ko/post/us-may-2026-cpi-preview-core-mom-trigger-korea-market-2026-06-06/) |
 | 미국 고용 쇼크는 한국장 급락을 어떻게 바꾸나요? | 6월 5일 고용 쇼크는 5월 장기금리 쇼크의 하드데이터 버전에 가깝다. KOSPI 8,000, 7,770~7,820, 미국 10년물 4.5%, 외국인 선물, 삼성전자·SK하이닉스 상대강도가 핵심 관문이다. | [고용 쇼크와 KOSPI 8,000 관문](/ko/post/us-jobs-rate-hike-shock-kospi-macro-gate-2026-06-06/) |
@@ -113,6 +114,7 @@ lastmod: 2026-06-10T23:51:14+09:00
 | 테마 | 직답 링크 |
 |---|---|
 | 해외 투자자 접근 / IBKR / KRX 기본 지도 | [해외 투자자용 한국 주식 허브](/ko/page/korea-stocks-foreign-investors-hub/) |
+| 삼닉 쏠림 이후 3분기 퀄리티 후보 | [삼닉 쏠림과 3분기 퀄리티 후보 35개](/ko/post/samnik-crowding-q3-quality-watchlist-eps-up-price-lag-2026-06-11/) |
 | 삼성전자 + SK하이닉스 + HBM | [한국 반도체 / HBM / KOSPI 허브](/ko/page/korea-semiconductor-hbm-kospi-hub/) |
 | 젠슨 황 / HBM4 3사 qualified / 한미반도체 read-through | [젠슨 황의 큰 발언과 HBM4 3사 qualified](/ko/post/jensen-huang-hbm4-three-vendors-qualified-market-missed-2026-06-05/) |
 | 삼성전자·SK하이닉스·마이크론 상대 PER | [삼하마 패리티 후속](/ko/post/sam-hama-parity-follow-up-ai-chip-memory-pe-map-2026-06-05/) · [기존 삼하마 패리티](/ko/post/samsung-hynix-micron-forward-per-parity-memory-catch-up-2026-06-03/) |
