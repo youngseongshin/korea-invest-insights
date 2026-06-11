@@ -5,7 +5,7 @@ date: 2026-05-03T11:00:00+09:00
 aliases: ["/korea-daily/", "/kospi/", "/kosdaq/", "/en/korea-daily/", "/en/page/korea-daily-market-hub/", "/es/page/korea-daily-market-hub/", "/vi/page/korea-daily-market-hub/", "/fr/page/korea-daily-market-hub/", "/ja/page/korea-daily-market-hub/", "/zh/page/korea-daily-market-hub/"]
 layout: "page"
 description: "A hub for Korean stock market daily updates — KOSPI and KOSDAQ market closes, weekly concentrated picks, foreign-investor flows, sector rotation, and what's actually moving in Korean equities each session. Direct answers to 'What is the Korean stock market doing today?' and similar queries."
-lastmod: 2026-06-11T08:45:00+09:00
+lastmod: 2026-06-12T00:00:04+09:00
 ---
 
 ## What This Hub Answers
@@ -14,7 +14,7 @@ Direct, search-engine-friendly answers to the questions global investors ask abo
 
 | Search Question | Quick Answer | Read |
 |---|---|---|
-| What is the Korean stock market doing today? | The most recent Korea Daily Wrap covers the day's regime, sector rotation, foreign flows, and key disclosures. | [Latest Korea Daily Wrap](/post/kr-daily-wrap-2026-06-10/) |
+| What is the Korean stock market doing today? | The most recent Korea Daily Wrap covers the day's regime, sector rotation, foreign flows, and key disclosures. | [Latest Korea Daily Wrap](/post/kr-daily-wrap-2026-06-11/) |
 | What quality stocks should investors revisit in Q3 while the Samsung-Hynix concentration continues? | Samsung Electronics and SK Hynix remain Korea's first axis, but a local screen found 35 stocks with FY26 EPS revisions above +5%, positive Q1 earnings and prices still below 2025 year-end. The first focus list is Korea Petrochemical, SK Biopharmaceuticals, Samsung Biologics, Krafton and GKL. | [Samsung-Hynix concentration and Q3 quality watchlist](/post/samnik-crowding-q3-quality-watchlist-eps-up-price-lag-2026-06-11/) |
 | What should Korean equities watch after the strong U.S. jobs report? | The event cluster is June 10 U.S. CPI, June 11 Korea derivatives expiry, June 15-16 BOJ and June 16-17 FOMC. The key is not a heroic forecast but a reaction function around core CPI, the U.S. 10-year yield near 4.6%, USD/JPY near 160 and Korea foreign futures flows. | [CPI, BOJ and FOMC event cluster](/post/us-cpi-boj-fomc-macro-event-cluster-korea-reaction-function-2026-06-06/) |
 | What is the key number in U.S. May CPI? | Not the 4.1-4.2% headline. The key is Core CPI MoM: probability-weighted center +0.26%, 75% probability at +0.30% or lower, and 13% probability at +0.35% or higher. Below +0.30% can support relief; above +0.35% requires defense. | [U.S. May CPI Preview](/post/us-may-2026-cpi-preview-core-mom-trigger-korea-market-2026-06-06/) |
@@ -51,7 +51,7 @@ Sequential reading for someone new to Korean equities — what to read in order 
 | Step | Question | Read |
 |---:|---|---|
 | 1 | Why is Korea outperforming in 2026? | [Korea Outperformance 2026: The Structural Re-Rating Backdrop](/post/korea-outperformance-2026-structural-rerating-2026-04-24/) |
-| 2 | What's actually driving the daily tape? | [Latest Korea Daily Wrap](/post/kr-daily-wrap-2026-06-10/) |
+| 2 | What's actually driving the daily tape? | [Latest Korea Daily Wrap](/post/kr-daily-wrap-2026-06-11/) |
 | 3 | Where is the high-conviction concentrated alpha? | [Latest Weekly Concentrated Strategy](/post/kr-concentrated-weekly-2026-04-24/) |
 | 4 | What's the deeper story on the largest names? | [Samsung Electronics Deep Dive](/post/kr-deep-dive-samsung-electronics-2026-04-16/) · [SK hynix Deep Dive](/post/kr-deep-dive-sk-hynix-2026-04-16/) |
 | 5 | Where are the un-priced KOSDAQ corners? | [KOSDAQ Coverage Gaps & Variant Perception](/post/kosdaq-coverage-gaps-variant-perception-2026-04-23/) |
@@ -80,13 +80,13 @@ Sequential reading for someone new to Korean equities — what to read in order 
 
 | Date | Theme | Read |
 |---|---|---|
+| 2026-06-11 | Korea Quality Re-Rating Watch Jun 11: Gigavis, Wonik IPS, Protec | [Korea Daily Wrap 2026-06-11](/post/kr-daily-wrap-2026-06-11/) |
 | 2026-06-10 | Korea Quality Re-Rating Watch 2026-06-10: Gigavis · HD Hyundai · VM | [Korea Daily Wrap 2026-06-10](/post/kr-daily-wrap-2026-06-10/) |
 | 2026-06-09 | Korea Quality Re-Rating Watch 2026-06-09: TES, Hyosung Heavy & Korea Circuit — Institutions Buy the Circuit-Breaker Dip | [Korea Daily Wrap 2026-06-09](/post/kr-daily-wrap-2026-06-09/) |
 | 2026-06-08 | Korea Quality Re-Rating Watch 2026-06-08: Jeju Semi, VM — Smart Money | [Korea Daily Wrap 2026-06-08](/post/kr-daily-wrap-2026-06-08/) |
 | 2026-06-05 | Korea Quality Re-Rating Watch Jun 5: VM, Gigabis and Wonik IPS | [Korea Daily Wrap 2026-06-05](/post/kr-daily-wrap-2026-06-05/) |
 | 2026-06-04 | Korea Quality Re-Rating Watch Jun 4: Gigavis, VM — Equipment Rerates | [Korea Daily Wrap 2026-06-04](/post/kr-daily-wrap-2026-06-04/) |
 | 2026-06-03 | Korea Quality Re-Rating Watch 2026-06-03: VM, SK Square, ISU Petasys — Smart Money Buys While KOSDAQ Slides | [Korea Daily Wrap 2026-06-03](/post/kr-daily-wrap-2026-06-03/) |
-| 2026-06-02 | Korea Quality Re-Rating Watch Jun 2: VM, ISU Petasys, SK Square | [Korea Daily Wrap 2026-06-02](/post/kr-daily-wrap-2026-06-02/) |
 
 For older daily wraps, see [Archives](/page/archives).
 
