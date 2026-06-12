@@ -5,7 +5,7 @@ date: 2026-05-03T11:00:00+09:00
 aliases: ["/korea-daily/", "/kospi/", "/kosdaq/", "/en/korea-daily/", "/en/page/korea-daily-market-hub/", "/es/page/korea-daily-market-hub/", "/vi/page/korea-daily-market-hub/", "/fr/page/korea-daily-market-hub/", "/ja/page/korea-daily-market-hub/", "/zh/page/korea-daily-market-hub/"]
 layout: "page"
 description: "A hub for Korean stock market daily updates — KOSPI and KOSDAQ market closes, weekly concentrated picks, foreign-investor flows, sector rotation, and what's actually moving in Korean equities each session. Direct answers to 'What is the Korean stock market doing today?' and similar queries."
-lastmod: 2026-06-12T00:00:04+09:00
+lastmod: 2026-06-12T17:55:00+09:00
 ---
 
 ## What This Hub Answers
@@ -15,6 +15,7 @@ Direct, search-engine-friendly answers to the questions global investors ask abo
 | Search Question | Quick Answer | Read |
 |---|---|---|
 | What is the Korean stock market doing today? | The most recent Korea Daily Wrap covers the day's regime, sector rotation, foreign flows, and key disclosures. | [Latest Korea Daily Wrap](/post/kr-daily-wrap-2026-06-11/) |
+| Have foreign investors really returned to Korea? | The June 12 KOSPI foreign buy of KRW 2.72tn matters, but it is only a 3.6% reversal of the prior KRW 75.57tn 24-session selloff. Treat it as Samsung Electronics / SK Hynix position repair until three consecutive buy days, USD/KRW below 1,520 and KOSDAQ / second-line spread confirm. | [Have Foreign Investors Returned?](/post/foreign-return-after-24-day-kospi-selling-memory-rebalance-2026-06-12/) |
 | What quality stocks should investors revisit in Q3 while the Samsung-Hynix concentration continues? | Samsung Electronics and SK Hynix remain Korea's first axis, but a local screen found 35 stocks with FY26 EPS revisions above +5%, positive Q1 earnings and prices still below 2025 year-end. The first focus list is Korea Petrochemical, SK Biopharmaceuticals, Samsung Biologics, Krafton and GKL. | [Samsung-Hynix concentration and Q3 quality watchlist](/post/samnik-crowding-q3-quality-watchlist-eps-up-price-lag-2026-06-11/) |
 | What should Korean equities watch after the strong U.S. jobs report? | The event cluster is June 10 U.S. CPI, June 11 Korea derivatives expiry, June 15-16 BOJ and June 16-17 FOMC. The key is not a heroic forecast but a reaction function around core CPI, the U.S. 10-year yield near 4.6%, USD/JPY near 160 and Korea foreign futures flows. | [CPI, BOJ and FOMC event cluster](/post/us-cpi-boj-fomc-macro-event-cluster-korea-reaction-function-2026-06-06/) |
 | What is the key number in U.S. May CPI? | Not the 4.1-4.2% headline. The key is Core CPI MoM: probability-weighted center +0.26%, 75% probability at +0.30% or lower, and 13% probability at +0.35% or higher. Below +0.30% can support relief; above +0.35% requires defense. | [U.S. May CPI Preview](/post/us-may-2026-cpi-preview-core-mom-trigger-korea-market-2026-06-06/) |
@@ -59,20 +60,21 @@ Sequential reading for someone new to Korean equities — what to read in order 
 | 7 | Is Korea's global No. 6 market cap a re-rating or overheating? | [Why Korea Part 5: Global No. 6 Market Cap](/post/why-korea-market-cap-global-six-ai-memory-rerating-2026-05-24/) |
 | 8 | Are foreigners leaving Korea, or just reducing memory mega-caps? | [Korea Foreign Investor Flow Analysis](/post/korea-foreign-investor-flow-memory-megacap-rotation-2026-05-24/) |
 | 9 | Is foreign selling exhausted by ownership levels? | [KOSPI ownership versus Samsung / SK Hynix](/post/korea-foreign-ownership-kospi-samsung-hynix-divergence-2026-05-26/) |
-| 10 | Where have this site's theses worked or failed? | [KII Thesis Performance Review](/post/kii-investment-thesis-performance-mid-review-2026-05-26/) |
-| 11 | Why can Korea have abundant liquidity and broken breadth at the same time? | [Korea Has Liquidity, But Breadth Has Broken](/post/korea-market-liquidity-foreign-reallocation-adr-narrow-leadership-2026-06-03/) |
-| 12 | Why is KOSDAQ not rallying despite foreign buying? | [Why Is KOSDAQ Falling If Foreigners Are Buying?](/post/kosdaq-foreign-buying-institution-real-money-adr-2026-06-03/) |
-| 13 | How should investors decompose institutional buying? | [Real Money Flow Framework](/post/real-money-flow-framework-korea-institution-quality-2026-06-03/) |
-| 14 | How does Jensen Huang's HBM4 three-vendor comment reclassify Korean memory and equipment names? | [Jensen Huang's bigger HBM4 comment](/post/jensen-huang-hbm4-three-vendors-qualified-market-missed-2026-06-05/) |
-| 15 | Did Samsung and SK hynix become attractive again versus Micron? | [Sam-Ha-Ma parity follow-up: Micron deserves a premium, but Korean memory looks too cheap](/post/sam-hama-parity-follow-up-ai-chip-memory-pe-map-2026-06-05/) |
-| 16 | Can the SpaceX IPO move Korean AI, space and HBM flows? | [SpaceX IPO and Korean equities](/post/spacex-ipo-korea-market-liquidity-ai-space-readthrough-2026-06-05/) |
-| 17 | How should Korea handle the CPI, BOJ and FOMC event cluster? | [CPI, BOJ and FOMC event cluster](/post/us-cpi-boj-fomc-macro-event-cluster-korea-reaction-function-2026-06-06/) |
-| 18 | What is the Core MoM trigger in U.S. May CPI? | [U.S. May CPI Preview: Base Case Is Core +0.26%, Defense Starts Above +0.35%](/post/us-may-2026-cpi-preview-core-mom-trigger-korea-market-2026-06-06/) |
-| 19 | Why is the jobs shock the hard-data version of the May rate shock? | [Jobs shock and the KOSPI 8,000 gate](/post/us-jobs-rate-hike-shock-kospi-macro-gate-2026-06-06/) |
-| 20 | Is the AI supercycle now a rate-risk trade? | [AI Supercycle Midgame: Rate Risk Is Rising, But the Red Flags Are Not Yet Observed](/post/ai-supercycle-midgame-rate-risk-yellow-not-red-2026-06-06/) |
-| 21 | How should investors read the gap between the index and the average stock? | [Korea ADR at 67: Why the Index Can Hold While Most Stocks Are Weak](/post/korea-adr-breadth-narrow-leadership-kospi-kosdaq-2026-05-27/) |
-| 22 | Is MSCI DM upside broad Korea beta, or a foreign-playbook stock story? | [Korea Foreign-Investor Playbook: KOSPI 168, KOSDAQ 355](/post/korea-foreign-playbook-msci-dm-kospi-168-kosdaq-355-2026-05-31/) |
-| 23 | How does NVIDIA GTC Taipei translate into Korean AI infrastructure bottlenecks? | [Korea Is Watching Jensen Huang: What Changed Overnight?](/post/korea-market-after-gtc-taipei-jensen-huang-naver-ai-factory-2026-06-02/) |
+| 10 | Is the foreign KRW 2.7tn buy after 24 sell days a structural return? | [Have Foreign Investors Returned?](/post/foreign-return-after-24-day-kospi-selling-memory-rebalance-2026-06-12/) |
+| 11 | Where have this site's theses worked or failed? | [KII Thesis Performance Review](/post/kii-investment-thesis-performance-mid-review-2026-05-26/) |
+| 12 | Why can Korea have abundant liquidity and broken breadth at the same time? | [Korea Has Liquidity, But Breadth Has Broken](/post/korea-market-liquidity-foreign-reallocation-adr-narrow-leadership-2026-06-03/) |
+| 13 | Why is KOSDAQ not rallying despite foreign buying? | [Why Is KOSDAQ Falling If Foreigners Are Buying?](/post/kosdaq-foreign-buying-institution-real-money-adr-2026-06-03/) |
+| 14 | How should investors decompose institutional buying? | [Real Money Flow Framework](/post/real-money-flow-framework-korea-institution-quality-2026-06-03/) |
+| 15 | How does Jensen Huang's HBM4 three-vendor comment reclassify Korean memory and equipment names? | [Jensen Huang's bigger HBM4 comment](/post/jensen-huang-hbm4-three-vendors-qualified-market-missed-2026-06-05/) |
+| 16 | Did Samsung and SK hynix become attractive again versus Micron? | [Sam-Ha-Ma parity follow-up: Micron deserves a premium, but Korean memory looks too cheap](/post/sam-hama-parity-follow-up-ai-chip-memory-pe-map-2026-06-05/) |
+| 17 | Can the SpaceX IPO move Korean AI, space and HBM flows? | [SpaceX IPO and Korean equities](/post/spacex-ipo-korea-market-liquidity-ai-space-readthrough-2026-06-05/) |
+| 18 | How should Korea handle the CPI, BOJ and FOMC event cluster? | [CPI, BOJ and FOMC event cluster](/post/us-cpi-boj-fomc-macro-event-cluster-korea-reaction-function-2026-06-06/) |
+| 19 | What is the Core MoM trigger in U.S. May CPI? | [U.S. May CPI Preview: Base Case Is Core +0.26%, Defense Starts Above +0.35%](/post/us-may-2026-cpi-preview-core-mom-trigger-korea-market-2026-06-06/) |
+| 20 | Why is the jobs shock the hard-data version of the May rate shock? | [Jobs shock and the KOSPI 8,000 gate](/post/us-jobs-rate-hike-shock-kospi-macro-gate-2026-06-06/) |
+| 21 | Is the AI supercycle now a rate-risk trade? | [AI Supercycle Midgame: Rate Risk Is Rising, But the Red Flags Are Not Yet Observed](/post/ai-supercycle-midgame-rate-risk-yellow-not-red-2026-06-06/) |
+| 22 | How should investors read the gap between the index and the average stock? | [Korea ADR at 67: Why the Index Can Hold While Most Stocks Are Weak](/post/korea-adr-breadth-narrow-leadership-kospi-kosdaq-2026-05-27/) |
+| 23 | Is MSCI DM upside broad Korea beta, or a foreign-playbook stock story? | [Korea Foreign-Investor Playbook: KOSPI 168, KOSDAQ 355](/post/korea-foreign-playbook-msci-dm-kospi-168-kosdaq-355-2026-05-31/) |
+| 24 | How does NVIDIA GTC Taipei translate into Korean AI infrastructure bottlenecks? | [Korea Is Watching Jensen Huang: What Changed Overnight?](/post/korea-market-after-gtc-taipei-jensen-huang-naver-ai-factory-2026-06-02/) |
 
 ---
 
@@ -110,6 +112,7 @@ The Friday-evening "concentrated" series picks 3–5 highest-conviction Korean e
 | Theme | Direct Answer Link |
 |---|---|
 | Foreign investor access / IBKR / KRX basics | [Korea Stocks for Foreign Investors Hub](/page/korea-stocks-foreign-investors-hub/) |
+| Foreign investor return / memory megacap rebalancing | [Have Foreign Investors Returned? The KRW 2.7tn Buy Is Still Only a 3.6% Reversal](/post/foreign-return-after-24-day-kospi-selling-memory-rebalance-2026-06-12/) |
 | Q3 quality watchlist after the Samsung-Hynix concentration | [Samsung-Hynix concentration and 35 Q3 quality candidates](/post/samnik-crowding-q3-quality-watchlist-eps-up-price-lag-2026-06-11/) |
 | Samsung Electronics + SK hynix + HBM | [Korea Semiconductor / HBM / KOSPI Hub](/page/korea-semiconductor-hbm-kospi-hub/) |
 | Jensen Huang / HBM4 three-vendor qualified / Hanmi read-through | [Jensen Huang's bigger HBM4 comment](/post/jensen-huang-hbm4-three-vendors-qualified-market-missed-2026-06-05/) |

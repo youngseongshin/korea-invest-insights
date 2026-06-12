@@ -5,7 +5,7 @@ date: 2026-05-03T11:00:00+09:00
 aliases: ["/ko/korea-daily/", "/ko/kospi/", "/ko/kosdaq/", "/ko/page/korea-daily-market-hub/"]
 layout: "page"
 description: "한국 주식시장 일일 업데이트 허브 — KOSPI / KOSDAQ 장마감 브리핑, 주간 집중 픽, 외국인·기관 수급, 섹터 로테이션, 그리고 매 세션 한국 주식에서 실제로 무엇이 움직이는지. '오늘 한국 주식시장은 어떤가요?' 같은 질문의 직접 답."
-lastmod: 2026-06-12T00:00:04+09:00
+lastmod: 2026-06-12T17:55:00+09:00
 ---
 
 ## 이 허브가 답하는 질문
@@ -15,6 +15,7 @@ lastmod: 2026-06-12T00:00:04+09:00
 | 검색 질문 | 빠른 답 | 읽을 글 |
 |---|---|---|
 | 오늘 한국 주식시장은 어떤가요? | 가장 최근 Korea Daily Wrap이 그날의 시장 국면, 섹터 로테이션, 외국인 수급, 핵심 공시를 정리합니다. | [최근 데일리 랩](/ko/post/kr-daily-wrap-2026-06-11/) |
+| 외국인은 정말 한국장으로 돌아왔나요? | 6월 12일 외국인 코스피 순매수 2.72조원은 의미 있지만 직전 24거래일 순매도 75.57조원의 3.6% 되돌림이다. 삼성전자·SK하이닉스 중심 포지션 복구로 보고, 3거래일 연속 순매수·환율 1,520원 이하·코스닥/2선 확산을 확인해야 한다. | [외국인은 돌아왔나](/ko/post/foreign-return-after-24-day-kospi-selling-memory-rebalance-2026-06-12/) |
 | 삼닉 쏠림이 계속될 때 3분기에 다시 볼 퀄리티 후보는 무엇인가요? | 삼성전자·SK하이닉스가 여전히 한국장의 첫 축이지만, FY26 EPS가 5% 이상 상향되고 1Q 실적도 좋았는데 주가는 2025년 말보다 낮은 35개 후보도 3분기 실적 시즌에 다시 볼 필요가 있다. 1차 Focus는 대한유화, SK바이오팜, 삼성바이오로직스, 크래프톤, GKL이다. | [삼닉 쏠림과 3분기 퀄리티 후보](/ko/post/samnik-crowding-q3-quality-watchlist-eps-up-price-lag-2026-06-11/) |
 | 강한 미국 고용 이후 이번 주 한국장은 무엇을 봐야 하나요? | 6월 10일 미국 CPI, 6월 11일 한국 파생 만기, 6월 15~16일 BOJ, 6월 16~17일 FOMC가 한 덩어리로 붙어 있다. 예측보다 core CPI, 10년물 4.6%, USD/JPY 160, 외국인 선물 수급이라는 반응 함수가 중요하다. | [CPI·BOJ·FOMC 이벤트 클러스터](/ko/post/us-cpi-boj-fomc-macro-event-cluster-korea-reaction-function-2026-06-06/) |
 | 미국 5월 CPI에서 진짜 봐야 할 숫자는 무엇인가요? | 헤드라인 4.1~4.2%보다 Core CPI MoM이 핵심이다. 확률가중 중심값은 +0.26%, +0.30% 이하 확률은 75%, +0.35% 이상 hot print 확률은 13%로 본다. +0.30% 이하면 안도 반등, +0.35% 이상이면 방어 전환이다. | [미국 5월 CPI 프리뷰](/ko/post/us-may-2026-cpi-preview-core-mom-trigger-korea-market-2026-06-06/) |
@@ -61,22 +62,23 @@ lastmod: 2026-06-12T00:00:04+09:00
 | 7 | 한국 시총 세계 6위는 리레이팅인가 과열인가? | [Why Korea 5편: 한국 시총 세계 6위](/ko/post/why-korea-market-cap-global-six-ai-memory-rerating-2026-05-24/) |
 | 8 | 외국인 수급은 한국 이탈인가, 메모리 분배인가? | [한국증시 외국인 수급 분석](/ko/post/korea-foreign-investor-flow-memory-megacap-rotation-2026-05-24/) |
 | 9 | 외국인 지분율 기준으로 매도 압력은 끝났나? | [KOSPI 외국인 지분율 vs 삼성전자·SK하이닉스](/ko/post/korea-foreign-ownership-kospi-samsung-hynix-divergence-2026-05-26/) |
-| 10 | 이 사이트의 투자 테시스는 어디서 맞고 틀렸나? | [KII 투자 테시스 중간점검](/ko/post/kii-investment-thesis-performance-mid-review-2026-05-26/) |
-| 11 | 유동성은 많은데 왜 시장 폭은 무너졌나? | [유동성은 많은데 시장 폭은 무너졌다](/ko/post/korea-market-liquidity-foreign-reallocation-adr-narrow-leadership-2026-06-03/) |
-| 12 | 외국인 매수에도 KOSDAQ이 못 가는 이유는? | [외국인은 사는데 왜 코스닥은 빠졌나](/ko/post/kosdaq-foreign-buying-institution-real-money-adr-2026-06-03/) |
-| 13 | 기관 순매수 숫자는 어떻게 분해해야 하나? | [Real Money 수급 프레임워크](/ko/post/real-money-flow-framework-korea-institution-quality-2026-06-03/) |
-| 14 | AI 데이터센터 CapEx 5.3조 달러는 한국의 어떤 병목으로 내려오나? | [AI 데이터센터 CapEx 5.3조 달러 시대](/ko/post/ai-datacenter-capex-5p3t-korea-power-substrate-storage-bottleneck-2026-06-05/) |
-| 15 | 젠슨 황의 HBM4 3사 검증 통과 발언은 메모리 대형주와 장비주를 어떻게 재분류하나? | [젠슨 황의 큰 발언과 HBM4 3사 검증 통과](/ko/post/jensen-huang-hbm4-three-vendors-qualified-market-missed-2026-06-05/) |
-| 16 | 외국인 매도 속에서도 삼성전자·하이닉스는 상대가치가 열렸나? | [삼하마 패리티 후속: 마이크론 프리미엄은 맞지만 한국 메모리 할인은 과도하다](/ko/post/sam-hama-parity-follow-up-ai-chip-memory-pe-map-2026-06-05/) |
-| 17 | 스페이스X 상장은 한국의 AI·우주·HBM 수급에 어떤 영향을 주나? | [스페이스X IPO와 한국 증시](/ko/post/spacex-ipo-korea-market-liquidity-ai-space-readthrough-2026-06-05/) |
-| 18 | 강한 고용 이후 CPI·BOJ·FOMC 이벤트 클러스터는 어떻게 대응하나? | [CPI·BOJ·FOMC 이벤트 클러스터](/ko/post/us-cpi-boj-fomc-macro-event-cluster-korea-reaction-function-2026-06-06/) |
-| 19 | 미국 5월 CPI에서 Core MoM 임계값은 무엇인가? | [미국 5월 CPI 프리뷰: 기본값은 Core +0.26%, 방어 전환선은 +0.35%](/ko/post/us-may-2026-cpi-preview-core-mom-trigger-korea-market-2026-06-06/) |
-| 20 | 고용 쇼크는 왜 5월 금리 쇼크의 하드데이터 버전인가? | [고용 쇼크와 KOSPI 8,000 관문](/ko/post/us-jobs-rate-hike-shock-kospi-macro-gate-2026-06-06/) |
-| 21 | AI 슈퍼사이클은 금리 앞에서 어디까지 흔들렸나? | [중반을 넘어선 AI 슈퍼사이클: 금리 영향은 커졌지만 아직 빨간불은 없다](/ko/post/ai-supercycle-midgame-rate-risk-yellow-not-red-2026-06-06/) |
-| 22 | 지수와 평균 종목의 괴리는 어떻게 봐야 하나? | [한국 ADR 67: 지수는 버티는데 왜 종목은 약한가](/ko/post/korea-adr-breadth-narrow-leadership-kospi-kosdaq-2026-05-27/) |
-| 23 | MSCI DM 편입 수혜는 한국 전체인가, 외국인 플레이북 종목인가? | [외국인 플레이북 KOSPI 168·KOSDAQ 355](/ko/post/korea-foreign-playbook-msci-dm-kospi-168-kosdaq-355-2026-05-31/) |
-| 24 | NVIDIA GTC Taipei 이후 한국 AI 인프라 병목은 어디로 번역되나? | [젠슨 황을 바라보는 한국 증시: 간밤에 무슨 일이 있었나](/ko/post/korea-market-after-gtc-taipei-jensen-huang-naver-ai-factory-2026-06-02/) |
-| 25 | 젠슨 황은 왜 소프트뱅크·YTL·델 이후 NAVER를 보나? | [젠슨 황은 왜 네이버와 만날까](/ko/post/naver-nvidia-jensen-huang-softbank-ytl-dell-ai-factory-2026-06-05/) |
+| 10 | 24거래일 매도 뒤 외국인 2.7조 순매수는 구조적 복귀인가? | [외국인은 돌아왔나](/ko/post/foreign-return-after-24-day-kospi-selling-memory-rebalance-2026-06-12/) |
+| 11 | 이 사이트의 투자 테시스는 어디서 맞고 틀렸나? | [KII 투자 테시스 중간점검](/ko/post/kii-investment-thesis-performance-mid-review-2026-05-26/) |
+| 12 | 유동성은 많은데 왜 시장 폭은 무너졌나? | [유동성은 많은데 시장 폭은 무너졌다](/ko/post/korea-market-liquidity-foreign-reallocation-adr-narrow-leadership-2026-06-03/) |
+| 13 | 외국인 매수에도 KOSDAQ이 못 가는 이유는? | [외국인은 사는데 왜 코스닥은 빠졌나](/ko/post/kosdaq-foreign-buying-institution-real-money-adr-2026-06-03/) |
+| 14 | 기관 순매수 숫자는 어떻게 분해해야 하나? | [Real Money 수급 프레임워크](/ko/post/real-money-flow-framework-korea-institution-quality-2026-06-03/) |
+| 15 | AI 데이터센터 CapEx 5.3조 달러는 한국의 어떤 병목으로 내려오나? | [AI 데이터센터 CapEx 5.3조 달러 시대](/ko/post/ai-datacenter-capex-5p3t-korea-power-substrate-storage-bottleneck-2026-06-05/) |
+| 16 | 젠슨 황의 HBM4 3사 검증 통과 발언은 메모리 대형주와 장비주를 어떻게 재분류하나? | [젠슨 황의 큰 발언과 HBM4 3사 검증 통과](/ko/post/jensen-huang-hbm4-three-vendors-qualified-market-missed-2026-06-05/) |
+| 17 | 외국인 매도 속에서도 삼성전자·하이닉스는 상대가치가 열렸나? | [삼하마 패리티 후속: 마이크론 프리미엄은 맞지만 한국 메모리 할인은 과도하다](/ko/post/sam-hama-parity-follow-up-ai-chip-memory-pe-map-2026-06-05/) |
+| 18 | 스페이스X 상장은 한국의 AI·우주·HBM 수급에 어떤 영향을 주나? | [스페이스X IPO와 한국 증시](/ko/post/spacex-ipo-korea-market-liquidity-ai-space-readthrough-2026-06-05/) |
+| 19 | 강한 고용 이후 CPI·BOJ·FOMC 이벤트 클러스터는 어떻게 대응하나? | [CPI·BOJ·FOMC 이벤트 클러스터](/ko/post/us-cpi-boj-fomc-macro-event-cluster-korea-reaction-function-2026-06-06/) |
+| 20 | 미국 5월 CPI에서 Core MoM 임계값은 무엇인가? | [미국 5월 CPI 프리뷰: 기본값은 Core +0.26%, 방어 전환선은 +0.35%](/ko/post/us-may-2026-cpi-preview-core-mom-trigger-korea-market-2026-06-06/) |
+| 21 | 고용 쇼크는 왜 5월 금리 쇼크의 하드데이터 버전인가? | [고용 쇼크와 KOSPI 8,000 관문](/ko/post/us-jobs-rate-hike-shock-kospi-macro-gate-2026-06-06/) |
+| 22 | AI 슈퍼사이클은 금리 앞에서 어디까지 흔들렸나? | [중반을 넘어선 AI 슈퍼사이클: 금리 영향은 커졌지만 아직 빨간불은 없다](/ko/post/ai-supercycle-midgame-rate-risk-yellow-not-red-2026-06-06/) |
+| 23 | 지수와 평균 종목의 괴리는 어떻게 봐야 하나? | [한국 ADR 67: 지수는 버티는데 왜 종목은 약한가](/ko/post/korea-adr-breadth-narrow-leadership-kospi-kosdaq-2026-05-27/) |
+| 24 | MSCI DM 편입 수혜는 한국 전체인가, 외국인 플레이북 종목인가? | [외국인 플레이북 KOSPI 168·KOSDAQ 355](/ko/post/korea-foreign-playbook-msci-dm-kospi-168-kosdaq-355-2026-05-31/) |
+| 25 | NVIDIA GTC Taipei 이후 한국 AI 인프라 병목은 어디로 번역되나? | [젠슨 황을 바라보는 한국 증시: 간밤에 무슨 일이 있었나](/ko/post/korea-market-after-gtc-taipei-jensen-huang-naver-ai-factory-2026-06-02/) |
+| 26 | 젠슨 황은 왜 소프트뱅크·YTL·델 이후 NAVER를 보나? | [젠슨 황은 왜 네이버와 만날까](/ko/post/naver-nvidia-jensen-huang-softbank-ytl-dell-ai-factory-2026-06-05/) |
 
 ---
 
@@ -114,6 +116,7 @@ lastmod: 2026-06-12T00:00:04+09:00
 | 테마 | 직답 링크 |
 |---|---|
 | 해외 투자자 접근 / IBKR / KRX 기본 지도 | [해외 투자자용 한국 주식 허브](/ko/page/korea-stocks-foreign-investors-hub/) |
+| 외국인 복귀 / 메모리 대형주 리밸런싱 | [외국인은 돌아왔나: 2.7조 순매수는 아직 3.6% 되돌림](/ko/post/foreign-return-after-24-day-kospi-selling-memory-rebalance-2026-06-12/) |
 | 삼닉 쏠림 이후 3분기 퀄리티 후보 | [삼닉 쏠림과 3분기 퀄리티 후보 35개](/ko/post/samnik-crowding-q3-quality-watchlist-eps-up-price-lag-2026-06-11/) |
 | 삼성전자 + SK하이닉스 + HBM | [한국 반도체 / HBM / KOSPI 허브](/ko/page/korea-semiconductor-hbm-kospi-hub/) |
 | 젠슨 황 / HBM4 3사 qualified / 한미반도체 read-through | [젠슨 황의 큰 발언과 HBM4 3사 qualified](/ko/post/jensen-huang-hbm4-three-vendors-qualified-market-missed-2026-06-05/) |
