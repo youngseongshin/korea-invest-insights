@@ -60,6 +60,7 @@ lastmod: 2026-06-12T18:20:00+09:00
 
 | 날짜 | 주제 | 자세히 보기 |
 |---|---|---|
+| 2026-06-12 | <strong>AI 슈퍼사이클은 왜 더 길어지는가 — 에이전트 수요·IPO 자금·메모리/스토리지</strong> — 에이전트발 토큰 수요 폭증 → 빅테크 자금조달 확대 → 스페이스X·앤트로픽 IPO 공모 자금 공급으로 사이클 연료가 릴레이되며 수명이 길어진다. 노무라의 삼성전자 59만원·SK하이닉스 500만원 목표가를 이정표로, 가장 강력하면서 가장 싸게 남은 자산은 상대 PER 0.80-0.82배의 메모리와 재분류 초기의 스토리지라는 종합 결론 | [AI 슈퍼사이클 장기화와 메모리·스토리지](/ko/post/ai-supercycle-extension-agent-demand-ipo-funding-memory-storage-2026-06-12/) |
 | 2026-06-12 | <strong>테마 ETF 리밸런싱 수급</strong> — KR Theme ETF Rebalance Flow v1 첫 실행 결과 ETF 31개, 유효 30개, 구성종목 291개에서 후보 69개가 포착됐고, 6월 12일 기준 원전/SMR보다 반도체 소부장 ETF cap 재배분 신호가 더 강했다는 점을 정리. 리노공업·이오테크닉스·솔브레인·DB하이텍·한미반도체는 buy pressure, SK하이닉스·삼성전기·LS ELECTRIC은 cap trim watch로 분류 | [테마 ETF 리밸런싱 수급](/ko/post/kr-theme-etf-rebalance-flow-semicap-cap-trim-2026-06-12/) |
 | 2026-06-06 | <strong>중반을 넘어선 AI 슈퍼사이클</strong> — AI 메모리 상승장은 아직 실적 기반이지만 장기금리·데이터센터 자본조달·hyperscaler FCF가 멀티플 상단을 누르는 노란불로 부상했고, 빨간불은 capex guidance cut, HBM 가격 반전, financing stress에서 확인해야 한다는 프레임 | [중반을 넘어선 AI 슈퍼사이클](/ko/post/ai-supercycle-midgame-rate-risk-yellow-not-red-2026-06-06/) |
 | 2026-06-05 | <strong>젠슨 황의 HBM4 3사 검증 통과 발언</strong> — 삼성전자·SK하이닉스·마이크론이 Vera Rubin용 HBM4 공급 경쟁에 들어갔다는 이벤트로 해석하고, 삼성전자 HBM discount 축소, SK하이닉스 리더십 프리미엄 전환, 한미반도체 TC본더 read-through를 분리 | [젠슨 황의 큰 발언과 HBM4 3사 검증 통과](/ko/post/jensen-huang-hbm4-three-vendors-qualified-market-missed-2026-06-05/) |
