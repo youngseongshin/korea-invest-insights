@@ -5,7 +5,7 @@ date: 2026-06-13T19:35:00+09:00
 aliases: ["/ja/exclusive-analysis/", "/ja/page/exclusive-analysis-hub/"]
 layout: "page"
 description: "Korea Invest Insightsの独自分析ハブ。Thesis OSローカルDB、ETF構成銘柄スキャン、Real Moneyフロー、流動性、ADR、相対強度を扱う。"
-lastmod: 2026-06-13T20:20:00+09:00
+lastmod: 2026-06-13T22:30:00+09:00
 ---
 
 ## 目的
@@ -14,6 +14,7 @@ lastmod: 2026-06-13T20:20:00+09:00
 
 | 日付 | テーマ | 記事 |
 |---|---|---|
+| 2026-06-13 | 韓国の対米投資特別法と原子力Team Koreaの機会 | [原子力Team Koreaの機会](/ja/post/us-investment-special-act-team-korea-nuclear-opportunity-2026-06-13/) |
 | 2026-06-13 | Samsung・SK Hynixを上回る可能性のある半導体Top50候補 | [韓国半導体Top50](/ja/post/korea-semiconductor-top50-two-month-alpha-candidates-samsung-hynix-2026-06-13/) |
 | 2026-06-13 | 韓国半導体ETFエクスポージャー | [Samsung・SK Hynix集中とETF感応度](/ja/post/korea-semiconductor-etf-exposure-marketcap-gap-strategy-2026-06-13/) |
 | 2026-06-13 | ETFフロー主導の韓国市場 | [ETFフローとボラティリティ戦略](/ja/post/korea-etf-flow-led-market-volatility-strategy-2026-06-13/) |
@@ -28,6 +29,10 @@ lastmod: 2026-06-13T20:20:00+09:00
 - [Sam-Ha-Maパリティ続編](/post/sam-hama-parity-follow-up-ai-chip-memory-pe-map-2026-06-05/)
 - [Samsung ElectronicsにPER15倍は可能か](/ja/post/samsung-electronics-tsmc-rerating-thesis-2026-05-16/)
 - [AIスーパーサイクルはなぜ長くなるのか](/ja/post/ai-supercycle-extension-agent-demand-ipo-funding-memory-storage-2026-06-12/)
+
+## 政策資本とイベントの読み方
+
+- [韓国の3,500億ドル対米投資特別法：原子力Team Koreaの機会](/ja/post/us-investment-special-act-team-korea-nuclear-opportunity-2026-06-13/)
 
 ## 使い方
 

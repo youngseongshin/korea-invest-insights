@@ -5,7 +5,7 @@ date: 2026-06-13T19:35:00+09:00
 aliases: ["/zh/exclusive-analysis/", "/zh/page/exclusive-analysis-hub/"]
 layout: "page"
 description: "Korea Invest Insights的独家分析中心，涵盖Thesis OS本地数据库、ETF成分扫描、Real Money资金流、流动性、ADR和相对强度。"
-lastmod: 2026-06-13T20:20:00+09:00
+lastmod: 2026-06-13T22:30:00+09:00
 ---
 
 ## 目的
@@ -14,6 +14,7 @@ lastmod: 2026-06-13T20:20:00+09:00
 
 | 日期 | 主题 | 文章 |
 |---|---|---|
+| 2026-06-13 | 韩国对美投资特别法与Team Korea核电机会 | [Team Korea核电机会](/zh/post/us-investment-special-act-team-korea-nuclear-opportunity-2026-06-13/) |
 | 2026-06-13 | 半导体Top50中可能跑赢三星电子和SK海力士的候选 | [韩国半导体Top50](/zh/post/korea-semiconductor-top50-two-month-alpha-candidates-samsung-hynix-2026-06-13/) |
 | 2026-06-13 | 韩国半导体ETF敞口 | [三星电子与SK海力士集中度](/zh/post/korea-semiconductor-etf-exposure-marketcap-gap-strategy-2026-06-13/) |
 | 2026-06-13 | ETF资金流主导的韩国市场 | [ETF资金流与波动策略](/zh/post/korea-etf-flow-led-market-volatility-strategy-2026-06-13/) |
@@ -28,6 +29,10 @@ lastmod: 2026-06-13T20:20:00+09:00
 - [Sam-Ha-Ma平价后续](/post/sam-hama-parity-follow-up-ai-chip-memory-pe-map-2026-06-05/)
 - [三星电子能否获得15倍PER？](/zh/post/samsung-electronics-tsmc-rerating-thesis-2026-05-16/)
 - [AI超级周期为何拉长](/zh/post/ai-supercycle-extension-agent-demand-ipo-funding-memory-storage-2026-06-12/)
+
+## 政策资本与事件解读
+
+- [韩国3500亿美元对美投资特别法：Team Korea的核电机会在哪里？](/zh/post/us-investment-special-act-team-korea-nuclear-opportunity-2026-06-13/)
 
 ## 如何使用
 

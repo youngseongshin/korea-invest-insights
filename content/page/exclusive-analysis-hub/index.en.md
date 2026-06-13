@@ -5,7 +5,7 @@ date: 2026-06-13T19:35:00+09:00
 aliases: ["/exclusive-analysis/", "/page/exclusive-analysis-hub/"]
 layout: "page"
 description: "A hub for Korea Invest Insights proprietary analysis: Thesis OS local databases, full ETF constituent scans, real-money flow frameworks, ETF rebalance proxies, breadth and liquidity screens, and original stock-selection work."
-lastmod: 2026-06-13T20:20:00+09:00
+lastmod: 2026-06-13T22:30:00+09:00
 ---
 
 ## Purpose
@@ -22,6 +22,7 @@ This hub collects Korea Invest Insights posts built from proprietary or locally 
 
 | Date | Topic | Key takeaway | Post |
 |---|---|---|---|
+| 2026-06-13 | Korea-U.S. policy capital and Team Korea nuclear | Breaks the $350bn policy-capital event into nuclear beta, execution risk and follow-on alpha across O&M, controls, instrumentation and grid equipment. | [Korea's $350 Billion U.S. Investment Law](/post/us-investment-special-act-team-korea-nuclear-opportunity-2026-06-13/) |
 | 2026-06-13 | Semiconductor Top 50 relative alpha | Samsung and SK Hynix are core exposure, but two-month alpha candidates are second-line equipment, substrate and AI storage names such as Korea Circuit, HPSP, TES, VM and FADU. | [Korean Semiconductor Top 50: Which Names Can Beat Samsung and SK Hynix?](/post/korea-semiconductor-top50-two-month-alpha-candidates-samsung-hynix-2026-06-13/) |
 | 2026-06-13 | Semiconductor ETF exposure | Separate absolute ETF ownership, market-cap-adjusted ETF sensitivity and under-owned ETF gap candidates. | [Samsung and SK Hynix Are 90.8% of Korean Semis](/post/korea-semiconductor-etf-exposure-marketcap-gap-strategy-2026-06-13/) |
 | 2026-06-13 | ETF-led market volatility | Use ETF rebalance flow, big-figure pullbacks and KOSPI200 expiry squeeze signals as separate playbooks. | [ETF Flow Is Leading the Korean Market](/post/korea-etf-flow-led-market-volatility-strategy-2026-06-13/) |
@@ -42,6 +43,10 @@ This hub collects Korea Invest Insights posts built from proprietary or locally 
 - [Samsung and SK Hynix Are 90.8% of Korean Semis](/post/korea-semiconductor-etf-exposure-marketcap-gap-strategy-2026-06-13/)
 - [ETF Flow Is Leading the Korean Market](/post/korea-etf-flow-led-market-volatility-strategy-2026-06-13/)
 - [Korea Theme ETF Rebalance Flow](/post/kr-theme-etf-rebalance-flow-semicap-cap-trim-2026-06-12/)
+
+### Policy Capital And Event Reading
+
+- [Korea's $350 Billion U.S. Investment Law: What Is the Nuclear Opportunity for Team Korea?](/post/us-investment-special-act-team-korea-nuclear-opportunity-2026-06-13/)
 
 ### Relative Valuation And Cycle Frames
 
