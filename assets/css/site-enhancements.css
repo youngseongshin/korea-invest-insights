@@ -418,6 +418,23 @@ html[lang^="zh"] .left-sidebar #main-menu > li[data-menu-section]::before {
   letter-spacing: -0.005em;
 }
 
+/* Intro "연결 맥락 / context" blockquote: understated editorial further-reading
+   note instead of the theme's gray box. Targets only the first-child quote. */
+.article-content > blockquote:first-child {
+  margin: 0 0 2.4rem;
+  padding: 0.15rem 0 0.15rem 1.15rem;
+  border-inline-start: 2px solid var(--kii-sage, #2f7d6b);
+  border-radius: 0;
+  background: none;
+  font-size: 0.94rem;
+  line-height: 1.7;
+  color: var(--card-text-color-secondary);
+}
+
+.article-content > blockquote:first-child p {
+  margin: 0;
+}
+
 .article-content > h2:first-of-type {
   margin-top: 1.6em;
 }
