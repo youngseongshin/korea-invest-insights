@@ -5,7 +5,7 @@ date: 2026-05-07T00:40:00+09:00
 aliases: ["/ko/korea-stocks/", "/ko/korean-stocks/", "/ko/ibkr-korea-stocks/", "/ko/foreign-investors-korea/", "/ko/page/korea-stocks-foreign-investors-hub/"]
 layout: "page"
 description: "해외 투자자를 위한 한국 주식 허브. IBKR·해외 증권사 한국 주식 접근, KOSPI, KOSDAQ, 삼성전자, SK하이닉스, 한국 금융주, AI 하드웨어, K-뷰티, 일간 시장 브리핑을 한곳에 정리한다."
-lastmod: 2026-06-12T17:55:00+09:00
+lastmod: 2026-06-13T11:30:00+09:00
 ---
 
 ## 한 줄 결론
@@ -103,6 +103,7 @@ lastmod: 2026-06-12T17:55:00+09:00
 | 조선·방산·SMR·데이터센터 전력 | HD현대중공업, HD한국조선해양, 한화오션, 삼성중공업, 한화엔진, 현대건설 | AI 데이터센터 전력 부족, 미국 조선 협력, SMR 제조 공급망이 한국 heavy fabrication capacity를 다시 보게 만든다. |
 | 피지컬 AI와 로봇 | 레인보우로보틱스, 에스피지, 로보티즈, 삼성전기, LG이노텍, HL만도, 현대모비스 | 휴머노이드 완성 로봇보다 감속기·액추에이터·센서 부품에서 매출이 먼저 확인될 수 있다. |
 | 밸류업 금융주 | KB금융, 신한지주, 하나금융지주, 메리츠금융지주, 키움증권, 한국금융지주, 삼성증권 | 주주환원, 거래대금, 해외 접근성, 지배구조 개혁이 한 섹터에 모인다. |
+| 제도 유동성 / WGBI / balance-sheet multiplier | KB금융, 한국금융지주, 삼성생명, 현대차 | WGBI·밸류업·금융규제 완화가 만드는 제도 유동성은 M2가 아니라 외국인 접근성과 금융기관 위험선호로 흐른다. [규제가 푸는 유동성 장세](/ko/post/regulation-adjusted-liquidity-korea-financials-us-infra-japan-governance-2026-06-13/) 참고. |
 | K-뷰티·미용의료 | 파마리서치, 클래시스, 휴젤, 에이피알 | 한국 소비·미용의료 브랜드는 국내 산업재보다 해외 독자가 이해하기 쉽다. |
 | 데일리 시장 발견 | KOSPI, KOSDAQ, 섹터 로테이션, 외국인 수급 | 개별 종목 리서치 전에 영어로 된 일간 시장 지도가 필요하다. |
 

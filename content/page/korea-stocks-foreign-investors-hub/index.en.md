@@ -5,7 +5,7 @@ date: 2026-05-07T00:40:00+09:00
 aliases: ["/korea-stocks/", "/korean-stocks/", "/ibkr-korea-stocks/", "/foreign-investors-korea/", "/en/korea-stocks/", "/en/korean-stocks/", "/en/ibkr-korea-stocks/", "/en/page/korea-stocks-foreign-investors-hub/", "/es/page/korea-stocks-foreign-investors-hub/", "/vi/page/korea-stocks-foreign-investors-hub/", "/fr/page/korea-stocks-foreign-investors-hub/", "/ja/page/korea-stocks-foreign-investors-hub/", "/zh/page/korea-stocks-foreign-investors-hub/"]
 layout: "page"
 description: "A foreign-investor guide to Korean stocks: IBKR and international-broker access, KOSPI, KOSDAQ, Samsung Electronics, SK Hynix, Korean financials, AI hardware, K-beauty and daily market research."
-lastmod: 2026-06-12T17:55:00+09:00
+lastmod: 2026-06-13T11:30:00+09:00
 ---
 
 ## One-Line Thesis
@@ -99,6 +99,7 @@ Foreign access to Korean equities is becoming less of a brokerage problem and mo
 | Shipbuilding, defense, SMR and data-center power | HD Hyundai Heavy Industries, HD Korea Shipbuilding, Hanwha Ocean, Samsung Heavy Industries, Hanwha Engine, Hyundai E&C | AI data-center power shortages, U.S. shipbuilding cooperation and SMR supply chains are pushing investors to revalue Korean heavy fabrication capacity. |
 | Physical AI and robotics | Rainbow Robotics, SPG, Robotis, Samsung Electro-Mechanics, LG Innotek, HL Mando, Hyundai Mobis | Robot revenue may appear first in reducers, actuators and sensors before pure humanoid makers scale. |
 | Korea Value-Up financials | KB Financial, Shinhan Financial, Hana Financial, Meritz Financial, Kiwoom Securities, Korea Investment Holdings, Samsung Securities | Capital return, brokerage volume, foreign access and governance reform meet in one sector. |
+| Regulation-adjusted liquidity / WGBI / balance-sheet multiplier | KB Financial, Korea Investment Holdings, Samsung Life, Hyundai Motor | The regulation-adjusted liquidity from WGBI, Value-up and capital-rule easing flows through foreign access and bank risk-taking, not M2. See [Regulation-Adjusted Liquidity](/post/regulation-adjusted-liquidity-korea-financials-us-infra-japan-governance-2026-06-13/). |
 | K-beauty and medical aesthetics | PharmaResearch, Classys, Hugel, APR | Korean consumer-health brands and aesthetics franchises are easier to understand than many domestic industrial names. |
 | Daily market discovery | KOSPI, KOSDAQ, sector rotation, foreign flows | Overseas investors need an English-language daily map before they can confidently research individual names. |
 

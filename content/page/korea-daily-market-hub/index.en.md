@@ -131,6 +131,7 @@ The Friday-evening "concentrated" series picks 3–5 highest-conviction Korean e
 | Foreign flows / memory mega-cap distribution | [Korea Foreign Investor Flow Analysis](/post/korea-foreign-investor-flow-memory-megacap-rotation-2026-05-24/) |
 | Market liquidity / ADR / narrow leadership regime | [Korea Has Liquidity, But Breadth Has Broken](/post/korea-market-liquidity-foreign-reallocation-adr-narrow-leadership-2026-06-03/) |
 | CPI / BOJ / FOMC / Korea derivatives expiry | [U.S. May CPI Preview](/post/us-may-2026-cpi-preview-core-mom-trigger-korea-market-2026-06-06/) · [CPI, BOJ and FOMC event cluster](/post/us-cpi-boj-fomc-macro-event-cluster-korea-reaction-function-2026-06-06/) · [Jobs shock and the KOSPI 8,000 gate](/post/us-jobs-rate-hike-shock-kospi-macro-gate-2026-06-06/) |
+| Regulation-adjusted liquidity / WGBI / Value-up / Korean financials | [It Isn't Money Printed, It's Regulation Eased: Regulation-Adjusted Liquidity and Korean Financials](/post/regulation-adjusted-liquidity-korea-financials-us-infra-japan-governance-2026-06-13/) |
 | SpaceX IPO / space and AI rebalancing | [SpaceX IPO and Korean equities](/post/spacex-ipo-korea-market-liquidity-ai-space-readthrough-2026-06-05/) |
 | KOSDAQ flows / institutional real-money return | [Why Is KOSDAQ Falling If Foreigners Are Buying?](/post/kosdaq-foreign-buying-institution-real-money-adr-2026-06-03/) |
 | Real Money flows / institution quality | [Real Money Flow Framework](/post/real-money-flow-framework-korea-institution-quality-2026-06-03/) |

@@ -5,7 +5,7 @@ date: 2026-05-03T22:30:00+09:00
 aliases: ["/korean-financials/", "/k-financials/", "/value-up/", "/en/korean-financials/", "/en/page/korean-financials-hub/", "/es/page/korean-financials-hub/", "/vi/page/korean-financials-hub/", "/fr/page/korean-financials-hub/", "/ja/page/korean-financials-hub/", "/zh/page/korean-financials-hub/"]
 layout: "page"
 description: "A hub for Korean financial stocks under the new Value-up regime — KB Financial, Shinhan, Hana, Woori, Meritz, Kiwoom, DB Insurance, Korea Investment Holdings, Mirae Asset Venture. Direct answers to 'Is KB Financial publicly traded?', 'What is Korea Value-up 2.0?', 'Who has the highest ROE in Korean banks?', and the full series mapping the three peaks (capital cancellation / capital turnover / foreign access) and the transit between them."
-lastmod: 2026-05-31T23:05:00+09:00
+lastmod: 2026-06-13T11:30:00+09:00
 ---
 
 ## What This Hub Answers
@@ -28,6 +28,7 @@ Direct, ChatGPT-friendly answers to the natural-language questions global alloca
 | Is Kiwoom Securities publicly traded? | Yes — KOSPI: 039490. The dynamic peak of the "trading-volume beta" model. | [Kiwoom Re-Rating Recognition](/post/kiwoom-securities-roe20-recognition-completed-2026-04-30/) |
 | What is the highest dividend yield in Korean financials? | Total yield (dividend + buyback-and-cancel): KB ~9.6%, Hana ~7.1%, Shinhan ~6%, Meritz ~6.7%. KB leads on total yield. | [KB Capital-Return Package](/post/kb-financial-foreign-access-proxy-third-peak-2026-05-03/) |
 | Are Korean bank stocks cheap? | The "low-PBR discount" framing has largely closed. The four bank holdcos sit at PBR 0.7–0.9× with ROE 10–11%, implying cost of equity ~12–15%. The remaining alpha is in capital-return execution, not in the multiple alone. | [Meritz Re-Rating Standard — Series Part 1](/post/meritz-financial-capital-buyback-compounding-standard-2026-04-30/) |
+| Why look at Korean financials first in this liquidity regime? | This is not QE. It is regulation and policy raising the turnover of existing balance sheets. When WGBI, Value-up and capital-rule easing fire together, financials become the transmitter of regulation-adjusted liquidity. | [It Isn't Money Printed, It's Regulation Eased: Regulation-Adjusted Liquidity and Korean Financials](/post/regulation-adjusted-liquidity-korea-financials-us-infra-japan-governance-2026-06-13/) |
 
 ---
 

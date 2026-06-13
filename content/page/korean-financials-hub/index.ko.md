@@ -5,7 +5,7 @@ date: 2026-05-03T22:30:00+09:00
 aliases: ["/ko/korean-financials/", "/ko/k-financials/", "/ko/value-up/", "/ko/page/korean-financials-hub/"]
 layout: "page"
 description: "Value-up 시대 한국 금융주 허브 — KB금융, 신한지주, 하나금융, 우리금융, 메리츠금융지주, 키움증권, DB손해보험, 한국금융지주, 미래에셋벤처투자. 'KB금융은 상장사인가요?', 'Value-up 2.0은 무엇인가요?', '한국 은행지주 중 ROE가 가장 높은 곳은?' 같은 직답 질문 + 세 정점(자본 소각 / 자본 회전 / 외국인 액세스)과 정점 사이의 이동을 매핑한 시리즈 전체."
-lastmod: 2026-05-31T23:05:00+09:00
+lastmod: 2026-06-13T11:30:00+09:00
 ---
 
 ## 이 허브가 답하는 질문
@@ -28,6 +28,7 @@ Value-up 이후의 한국 금융주에 대해 글로벌·국내 투자자가 묻
 | 키움증권은 상장사인가요? | 네 — KOSPI 039490. '거래대금 베타' 모델의 동적 정점. | [키움 재평가 인식 완료](/ko/post/kiwoom-securities-roe20-recognition-completed-2026-04-30/) |
 | 한국 금융주 중 환원수익률이 가장 높은 곳은? | 총주주환원수익률(배당+자사주 소각 포함): KB 약 9.6%, 하나 약 7.1%, 신한 약 6%, 메리츠 약 6.7%. KB가 1위. | [KB 환원 패키지](/ko/post/kb-financial-foreign-access-proxy-third-peak-2026-05-03/) |
 | 한국 은행주는 싼가요? | '저PBR 할인' 프레임은 거의 닫혔습니다. 4대 은행지주 PBR 0.7-0.9×, ROE 10-11%, 자기자본비용 약 12-15%. 남은 알파는 멀티플이 아니라 환원 실행에 있습니다. | [메리츠 시리즈 Part 1](/ko/post/meritz-financial-capital-buyback-compounding-standard-2026-04-30/) |
+| 이번 유동성 장세에서 왜 한국 금융주를 1차로 봐야 하나요? | 이번 장세는 QE가 아니라 규제·제도가 balance sheet 회전율을 높이는 장세입니다. WGBI·밸류업·금융규제 완화가 동시에 작동하면 금융주가 제도 유동성의 전달자가 됩니다. | [돈이 풀린 게 아니라 규제가 풀렸다: 제도 유동성 장세와 한국 금융주](/ko/post/regulation-adjusted-liquidity-korea-financials-us-infra-japan-governance-2026-06-13/) |
 
 ---
 

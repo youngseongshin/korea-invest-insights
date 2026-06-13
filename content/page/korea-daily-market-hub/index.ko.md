@@ -136,6 +136,7 @@ lastmod: 2026-06-13T18:20:00+09:00
 | 외국인 수급 / 메모리 대형주 분배 | [한국증시 외국인 수급 분석](/ko/post/korea-foreign-investor-flow-memory-megacap-rotation-2026-05-24/) |
 | 자금흐름 / ADR / 좁은 주도주 레짐 | [유동성은 많은데 시장 폭은 무너졌다](/ko/post/korea-market-liquidity-foreign-reallocation-adr-narrow-leadership-2026-06-03/) |
 | CPI / BOJ / FOMC / 한국 만기 이벤트 대응 | [미국 5월 CPI 프리뷰](/ko/post/us-may-2026-cpi-preview-core-mom-trigger-korea-market-2026-06-06/) · [CPI·BOJ·FOMC 이벤트 클러스터](/ko/post/us-cpi-boj-fomc-macro-event-cluster-korea-reaction-function-2026-06-06/) · [고용 쇼크와 KOSPI 8,000 관문](/ko/post/us-jobs-rate-hike-shock-kospi-macro-gate-2026-06-06/) |
+| 제도 유동성 / 규제 완화 / WGBI·밸류업 / 한국 금융주 | [돈이 풀린 게 아니라 규제가 풀렸다: 제도 유동성 장세와 한국 금융주](/ko/post/regulation-adjusted-liquidity-korea-financials-us-infra-japan-governance-2026-06-13/) |
 | SpaceX IPO / 우주·AI 리밸런싱 | [스페이스X IPO와 한국 증시](/ko/post/spacex-ipo-korea-market-liquidity-ai-space-readthrough-2026-06-05/) |
 | KOSDAQ 수급 / 기관 real money 복귀 조건 | [외국인은 사는데 왜 코스닥은 빠졌나](/ko/post/kosdaq-foreign-buying-institution-real-money-adr-2026-06-03/) |
 | Real Money 수급 / 기관의 질 | [Real Money 수급 프레임워크](/ko/post/real-money-flow-framework-korea-institution-quality-2026-06-03/) |
