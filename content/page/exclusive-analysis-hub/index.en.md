@@ -5,7 +5,7 @@ date: 2026-06-13T19:35:00+09:00
 aliases: ["/exclusive-analysis/", "/page/exclusive-analysis-hub/"]
 layout: "page"
 description: "A hub for Korea Invest Insights proprietary analysis: Thesis OS local databases, full ETF constituent scans, real-money flow frameworks, ETF rebalance proxies, breadth and liquidity screens, and original stock-selection work."
-lastmod: 2026-06-13T23:20:00+09:00
+lastmod: 2026-06-13T23:55:00+09:00
 ---
 
 ## Purpose
@@ -22,6 +22,7 @@ This hub collects Korea Invest Insights posts built from proprietary or locally 
 
 | Date | Topic | Key takeaway | Post |
 |---|---|---|---|
+| 2026-06-13 | Target-price gap and comfort-entry candidates | A large target-price gap is not enough. Combining target revisions, smart money and 20/50-day trend leaves KB Financial and Hana Financial as the cleaner comfort-entry candidates. | [A Large Target-Price Gap Is Not Enough](/post/korea-target-price-gap-comfortable-entry-candidates-2026-06-13/) |
 | 2026-06-13 | Hyundai E&C and Woojin U.S. nuclear bargaining power | Separates Hyundai E&C's Fermi AP1000 / Holtec SMR-300 execution bottleneck from Woojin's smaller instrumentation and recurring ICI replacement option. | [Hyundai E&C and Woojin in U.S. nuclear expansion](/post/hyundai-ec-woojin-us-nuclear-expansion-bargaining-power-2026-06-13/) |
 | 2026-06-13 | Korea-U.S. policy capital and Team Korea nuclear | Breaks the $350bn policy-capital event into nuclear beta, execution risk and follow-on alpha across O&M, controls, instrumentation and grid equipment. | [Korea's $350 Billion U.S. Investment Law](/post/us-investment-special-act-team-korea-nuclear-opportunity-2026-06-13/) |
 | 2026-06-13 | Semiconductor Top 50 relative alpha | Samsung and SK Hynix are core exposure, but two-month alpha candidates are second-line equipment, substrate and AI storage names such as Korea Circuit, HPSP, TES, VM and FADU. | [Korean Semiconductor Top 50: Which Names Can Beat Samsung and SK Hynix?](/post/korea-semiconductor-top50-two-month-alpha-candidates-samsung-hynix-2026-06-13/) |
@@ -61,6 +62,12 @@ This hub collects Korea Invest Insights posts built from proprietary or locally 
 
 - [Real Money Flow Framework](/post/real-money-flow-framework-korea-institution-quality-2026-06-03/)
 - [Korea Market Liquidity and Narrow Leadership](/post/korea-market-liquidity-foreign-reallocation-adr-narrow-leadership-2026-06-03/)
+
+### Stock Selection Screens
+
+- [A Large Target-Price Gap Is Not Enough: KB Financial and Hana Financial Screen Best](/post/korea-target-price-gap-comfortable-entry-candidates-2026-06-13/)
+- [Quality Names to Revisit in Q3](/post/samnik-crowding-q3-quality-watchlist-eps-up-price-lag-2026-06-11/)
+- [Korean Semiconductor Top 50: Which Names Can Beat Samsung and SK Hynix?](/post/korea-semiconductor-top50-two-month-alpha-candidates-samsung-hynix-2026-06-13/)
 
 ## How To Use This Hub
 
