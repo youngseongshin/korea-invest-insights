@@ -69,7 +69,7 @@ US price data is based on `yfinance` adjusted close prices, from the **March 31,
 Korean price and flow data comes from the local Research OS database:
 
 ```text
-/Users/youngseongshin/agents/Stock_Research/agents/KR_Crawler/data/screener_kr.db
+Thesis OS local screener DB
 ```
 
 Korean prices use the same March 31 to May 29 window. Flow data uses the most recent 20 and 5 trading days from `investor_flow_raw_daily`, with `amount_unit='million_krw'`.

@@ -69,7 +69,7 @@ Buy now는 제한적입니다. 지금은 급등 대장 추격장이 아니라 **
 한국 데이터는 Research OS local DB 기준입니다.
 
 ```text
-/Users/youngseongshin/agents/Stock_Research/agents/KR_Crawler/data/screener_kr.db
+Thesis OS local screener DB
 ```
 
 가격 기준은 **2026년 3월 31일 종가부터 2026년 5월 29일 종가**까지이고, 수급은 최근 20거래일과 5거래일의 `investor_flow_raw_daily`, `amount_unit='million_krw'` 기준입니다.

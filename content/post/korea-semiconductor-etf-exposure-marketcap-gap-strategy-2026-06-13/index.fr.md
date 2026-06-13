@@ -360,11 +360,11 @@ Conclusion en une ligne :
 
 | Élément | Détail |
 |---|---|
-| Note de recherche source | `/Users/youngseongshin/agents/Obsidian_KB/MyAgent_Knowledgebase/30_market-watch/semiconductor/etf-exposure/2026-06-13_kr-semiconductor-marketcap-etf-exposure.md` |
-| Proxy prix / capitalisation boursière | `/Users/youngseongshin/agents/Stock_Research/engines/KR_US_Operations_Engine/outputs/full_results_20260613_061000.csv` |
+| Note de recherche source | `Thesis OS source research note` |
+| Proxy prix / capitalisation boursière | `full_results_20260613_061000.csv` |
 | Date de référence des prix | 2026-06-12 |
-| Base de données ETF thématiques locaux | `/Users/youngseongshin/agents/Stock_Research/agents/KR_Crawler/data/theme_etf_rebalance_flow.db` |
-| Base de données flux ETF actifs | `/Users/youngseongshin/agents/Stock_Research/agents/KR_Crawler/data/active_etf_flow.db` |
+| Base de données ETF thématiques locaux | `theme_etf_rebalance_flow.db` |
+| Base de données flux ETF actifs | `active_etf_flow.db` |
 | API complète des composants ETF | `https://m.stock.naver.com/api/stocks/etf`, `https://m.stock.naver.com/api/etf/{ETF_CODE}/basic` |
 | Analyse complète des ETF | 1 137 ETF analysés, 1 137 succès, 0 échec |
 | API directe KRX | Les endpoints JSON/PDF de `data.krx.co.kr` ont retourné `LOGOUT` |

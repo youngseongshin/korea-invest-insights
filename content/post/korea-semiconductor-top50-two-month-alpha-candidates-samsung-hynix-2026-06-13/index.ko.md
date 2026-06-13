@@ -321,8 +321,8 @@ HPSP는 이번 후보군 중 수급 신뢰도가 가장 높다. 외국인도 사
 |---|---|---|
 | ETF universe | Naver ETF front API / Thesis OS 수집 | ETF 1,137개, 구성 행 75,001개 전수 스캔 |
 | 가격·수급 | 로컬 `screener_kr.db`, 2026-06-12 | 2주/1개월/3개월 수익률, 외국인·기관 수급 |
-| 산출 CSV | `/Users/youngseongshin/agents/Stock_Research/agents/KR_Crawler/outputs/kr_semiconductor_top50_etf_return_flow_20260612.csv` | 반도체 Top50 ETF 노출·수익률·수급 결합 데이터 |
-| 산출 CSV | `/Users/youngseongshin/agents/Stock_Research/agents/KR_Crawler/outputs/kr_semiconductor_top50_naver_etf_exposure_20260612.csv` | Naver ETF 기반 종목별 노출 추정 |
+| 산출 CSV | `kr_semiconductor_top50_etf_return_flow_20260612.csv` | 반도체 Top50 ETF 노출·수익률·수급 결합 데이터 |
+| 산출 CSV | `kr_semiconductor_top50_naver_etf_exposure_20260612.csv` | Naver ETF 기반 종목별 노출 추정 |
 | 코리아써키트 촉매 | 프라임경제 / 메리츠증권 리포트 인용 | FC-BGA 가동률, SOCAMM 매출 성장, 브로드컴향 AI 스위치 옵션 |
 | 테스 촉매 | 데이터투자 / 공급계약 공시 분석 | SK하이닉스 212억원 장비 계약, 2026년 누적 공급계약 증가 |
 | 파두 촉매 | 더벨 | 500억원 SSD 컨트롤러 계약, 누적 수주 확대, 1Q 흑자전환 |

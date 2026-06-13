@@ -360,11 +360,11 @@ One-line conclusion:
 
 | Item | Detail |
 |---|---|
-| Source research note | `/Users/youngseongshin/agents/Obsidian_KB/MyAgent_Knowledgebase/30_market-watch/semiconductor/etf-exposure/2026-06-13_kr-semiconductor-marketcap-etf-exposure.md` |
-| Price / market-cap proxy | `/Users/youngseongshin/agents/Stock_Research/engines/KR_US_Operations_Engine/outputs/full_results_20260613_061000.csv` |
+| Source research note | `Thesis OS source research note` |
+| Price / market-cap proxy | `full_results_20260613_061000.csv` |
 | Price as-of date | 2026-06-12 |
-| Local theme ETF DB | `/Users/youngseongshin/agents/Stock_Research/agents/KR_Crawler/data/theme_etf_rebalance_flow.db` |
-| Active ETF flow DB | `/Users/youngseongshin/agents/Stock_Research/agents/KR_Crawler/data/active_etf_flow.db` |
+| Local theme ETF DB | `theme_etf_rebalance_flow.db` |
+| Active ETF flow DB | `active_etf_flow.db` |
 | Full ETF constituent API | `https://m.stock.naver.com/api/stocks/etf`, `https://m.stock.naver.com/api/etf/{ETF_CODE}/basic` |
 | Full ETF scan | 1,137 ETFs scanned, 1,137 successes, 0 failures |
 | KRX direct API | `data.krx.co.kr` JSON/PDF endpoints returned `LOGOUT` |

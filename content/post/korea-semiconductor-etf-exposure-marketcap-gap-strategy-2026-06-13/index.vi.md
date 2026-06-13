@@ -360,11 +360,11 @@ Kết luận một dòng:
 
 | Mục | Chi tiết |
 |---|---|
-| Ghi chú nghiên cứu nguồn | `/Users/youngseongshin/agents/Obsidian_KB/MyAgent_Knowledgebase/30_market-watch/semiconductor/etf-exposure/2026-06-13_kr-semiconductor-marketcap-etf-exposure.md` |
-| Proxy giá / vốn hóa thị trường | `/Users/youngseongshin/agents/Stock_Research/engines/KR_US_Operations_Engine/outputs/full_results_20260613_061000.csv` |
+| Ghi chú nghiên cứu nguồn | `Thesis OS source research note` |
+| Proxy giá / vốn hóa thị trường | `full_results_20260613_061000.csv` |
 | Ngày cập nhật giá | 2026-06-12 |
-| DB ETF chủ đề nội địa | `/Users/youngseongshin/agents/Stock_Research/agents/KR_Crawler/data/theme_etf_rebalance_flow.db` |
-| DB dòng tiền ETF chủ động | `/Users/youngseongshin/agents/Stock_Research/agents/KR_Crawler/data/active_etf_flow.db` |
+| DB ETF chủ đề nội địa | `theme_etf_rebalance_flow.db` |
+| DB dòng tiền ETF chủ động | `active_etf_flow.db` |
 | API thành phần ETF đầy đủ | `https://m.stock.naver.com/api/stocks/etf`, `https://m.stock.naver.com/api/etf/{ETF_CODE}/basic` |
 | Quét ETF toàn diện | Đã quét 1.137 ETF, thành công 1.137, thất bại 0 |
 | API trực tiếp KRX | Các endpoint JSON/PDF tại `data.krx.co.kr` trả về `LOGOUT` |

@@ -17,7 +17,7 @@ slug: thesis-os-open-source-research-operating-system-2026-05-30
 draft: false
 ---
 
-> 🔗 <strong>Đến kho lưu trữ</strong>: <strong>[github.com/youngseongshin/thesis-investment-os](https://github.com/youngseongshin/thesis-investment-os)</strong> — hệ thống mã nguồn mở vận hành phần nghiên cứu của blog này
+> 🔗 <strong>Đến kho lưu trữ</strong>: <strong>Thesis Investment OS repository</strong> — hệ thống mã nguồn mở vận hành phần nghiên cứu của blog này
 
 Bài hôm nay hơi khác thường lệ. Nó không nói về một cổ phiếu, mà nói về <strong>cách các bài viết trên blog này thực sự được tạo ra</strong>. Hãy để tôi vén bức màn sân khấu một chút.
 
@@ -102,7 +102,7 @@ Mục đích của bài này không phải khoe khoang — mà là một lời m
 
 > Bạn không phải đọc hết mã nguồn. Chỉ cần lướt qua README cũng đủ để cảm được "à, hóa ra những bài blog này được tạo ra theo cách này."
 
-👉 <strong>[github.com/youngseongshin/thesis-investment-os](https://github.com/youngseongshin/thesis-investment-os)</strong>
+👉 <strong>Thesis Investment OS repository</strong>
 
 Một ngôi sao thì rất quý, nhưng chỉ ngắm nghía cấu trúc thôi cũng được. Chỉ có một lý do để vén màn: <strong>để bạn tự mình thấy các phán đoán của blog này ra đời từ đâu và như thế nào.</strong>
 

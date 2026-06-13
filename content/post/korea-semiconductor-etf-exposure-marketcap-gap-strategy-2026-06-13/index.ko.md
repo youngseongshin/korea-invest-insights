@@ -396,11 +396,11 @@ ETF 보유 추정액 = ETF NAV × 구성비중
 
 | 항목 | 내용 |
 |---|---|
-| 원문 리서치 | `/Users/youngseongshin/agents/Obsidian_KB/MyAgent_Knowledgebase/30_market-watch/semiconductor/etf-exposure/2026-06-13_kr-semiconductor-marketcap-etf-exposure.md` |
-| 가격/시총 proxy | `/Users/youngseongshin/agents/Stock_Research/engines/KR_US_Operations_Engine/outputs/full_results_20260613_061000.csv` |
+| 원문 리서치 | `Thesis OS source research note` |
+| 가격/시총 proxy | `full_results_20260613_061000.csv` |
 | 기준 가격일 | 2026-06-12 |
-| 로컬 테마 ETF DB | `/Users/youngseongshin/agents/Stock_Research/agents/KR_Crawler/data/theme_etf_rebalance_flow.db` |
-| 액티브 ETF 변경 DB | `/Users/youngseongshin/agents/Stock_Research/agents/KR_Crawler/data/active_etf_flow.db` |
+| 로컬 테마 ETF DB | `theme_etf_rebalance_flow.db` |
+| 액티브 ETF 변경 DB | `active_etf_flow.db` |
 | 전체 ETF 구성 API | `https://m.stock.naver.com/api/stocks/etf`, `https://m.stock.naver.com/api/etf/{ETF_CODE}/basic` |
 | 전체 ETF 스캔 | 1,137개 ETF 전수, 성공 1,137개, 실패 0개 |
 | KRX 직접 API | `data.krx.co.kr` JSON/PDF endpoint는 `LOGOUT` 응답으로 실패 |

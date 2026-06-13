@@ -17,7 +17,7 @@ slug: thesis-os-open-source-research-operating-system-2026-05-30
 draft: false
 ---
 
-> 🔗 <strong>Ir al repositorio</strong>: <strong>[github.com/youngseongshin/thesis-investment-os](https://github.com/youngseongshin/thesis-investment-os)</strong> — el sistema de código abierto que impulsa la investigación de este blog
+> 🔗 <strong>Ir al repositorio</strong>: <strong>Thesis Investment OS repository</strong> — el sistema de código abierto que impulsa la investigación de este blog
 
 El artículo de hoy es un poco distinto de lo habitual. No trata de una acción, sino de <strong>cómo se crean realmente las publicaciones de este blog</strong>. Permíteme correr el telón por un momento.
 
@@ -102,7 +102,7 @@ El objetivo de este artículo no es presumir, sino invitar. Si alguna vez te has
 
 > No tienes que leer todo el código. Incluso hojear el README debería darte una idea de "ah, así es como se crean estas publicaciones del blog."
 
-👉 <strong>[github.com/youngseongshin/thesis-investment-os](https://github.com/youngseongshin/thesis-investment-os)</strong>
+👉 <strong>Thesis Investment OS repository</strong>
 
 Una estrella es bienvenida, pero solo curiosear la estructura también está bien. Hay una sola razón para correr el telón: <strong>para que puedas ver por ti mismo de dónde y cómo salen los juicios de este blog.</strong>
 

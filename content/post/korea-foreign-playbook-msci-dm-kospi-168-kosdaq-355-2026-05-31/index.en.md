@@ -172,7 +172,7 @@ The practical answer is KOSPI 168 and KOSDAQ 355. Stocks outside that universe a
 | Item | Source | What was verified |
 |---|---|---|
 | Foreign A/B classification | Research OS local DB, `investor_flow_raw_daily`, `prices_daily`, `kr_fundamentals_daily`, accessed 2026-05-31 | KOSPI 168 and KOSDAQ 355 A/B foreign-target lists for 2026-01-02 to 2026-05-29 |
-| Local output | `/Users/youngseongshin/agents/Stock_Research/outputs/kr_foreign_trading_targets_ytd_20260529.md` | Full markdown output plus KOSPI 168 and KOSDAQ 355 CSV files confirmed |
+| Local output | `Thesis OS generated foreign-trading-targets output` | Full markdown output plus KOSPI 168 and KOSDAQ 355 CSV files confirmed |
 | Korea market accessibility | [MSCI 2025 Market Classification Review](https://www.msci.com/downloads/documents/press-releases/media-room/MSCI%20Announces%20Results%20of%20the%20MSCI%202025%20Market%20Classification%20Review.pdf) | Korea was not upgraded in 2025; MSCI continues to monitor accessibility reforms |
 | MSCI EM composition | [MSCI EM Index](https://www.msci.com/indexes/index/891800) | Samsung Electronics 6.03%, SK hynix 4.05% as of April 30, 2026 |
 | MSCI Korea composition | [MSCI Korea Index](https://www.msci.com/indexes/index/941000) | Samsung Electronics 32.24%, SK hynix 21.68% as of April 30, 2026 |

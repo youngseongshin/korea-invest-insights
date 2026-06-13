@@ -17,7 +17,7 @@ slug: thesis-os-open-source-research-operating-system-2026-05-30
 draft: false
 ---
 
-> 🔗 <strong>Go to repo</strong>: <strong>[github.com/youngseongshin/thesis-investment-os](https://github.com/youngseongshin/thesis-investment-os)</strong> — the open-source system that runs this blog's research
+> 🔗 <strong>Go to repo</strong>: <strong>Thesis Investment OS repository</strong> — the open-source system that runs this blog's research
 
 Today's post is a little different from the usual. It isn't about a stock — it's about <strong>how the posts on this blog actually get made</strong>. Let me pull back the curtain for a moment.
 
@@ -102,7 +102,7 @@ The point of this post isn't to brag — it's an invitation. If you've ever wond
 
 > You don't have to read all the code. Even skimming the README should give you a feel for "ah, so this is how these blog posts get made."
 
-👉 <strong>[github.com/youngseongshin/thesis-investment-os](https://github.com/youngseongshin/thesis-investment-os)</strong>
+👉 <strong>Thesis Investment OS repository</strong>
 
 A star is welcome, but just browsing the structure is fine too. There is only one reason I opened the curtain: <strong>so you can see for yourself where and how this blog's judgments come from.</strong>
 

@@ -47,7 +47,7 @@ My view: NAVER moves from Watchlist to **conditional Buy candidate**. Do not cha
 Market data, flow, and consensus come from the Research OS local database:
 
 ```text
-/Users/youngseongshin/agents/Stock_Research/agents/KR_Crawler/data/screener_kr.db
+Thesis OS local screener DB
 ```
 
 The price and flow date is **May 29, 2026**. The two-week window covers **10 trading days from May 15 to May 29**. I used `prices_daily`, `kr_market_surface_daily`, `investor_flow_raw_daily`, and `consensus_daily`.

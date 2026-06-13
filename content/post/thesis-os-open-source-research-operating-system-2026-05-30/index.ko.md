@@ -17,7 +17,7 @@ slug: thesis-os-open-source-research-operating-system-2026-05-30
 draft: false
 ---
 
-> 🔗 <strong>바로가기</strong>: <strong>[github.com/youngseongshin/thesis-investment-os](https://github.com/youngseongshin/thesis-investment-os)</strong> — 이 블로그의 리서치를 돌리는 오픈소스 시스템
+> 🔗 <strong>바로가기</strong>: <strong>Thesis Investment OS repository</strong> — 이 블로그의 리서치를 돌리는 오픈소스 시스템
 
 오늘은 평소와 조금 다른 글입니다. 종목 이야기가 아니라, <strong>이 블로그의 글이 어떻게 만들어지는지</strong>에 대한 이야기입니다. 무대 뒤를 한번 보여드리려고 합니다.
 
@@ -102,7 +102,7 @@ Thesis OS는 그 불편함을 일부러 시스템 안에 넣었습니다. 모든
 
 > 코드를 다 읽지 않아도 됩니다. README만 훑어봐도 "아, 이 블로그 글들이 이런 식으로 만들어지는구나" 하는 감이 잡힐 겁니다.
 
-👉 <strong>[github.com/youngseongshin/thesis-investment-os](https://github.com/youngseongshin/thesis-investment-os)</strong>
+👉 <strong>Thesis Investment OS repository</strong>
 
 별(star)을 눌러주셔도 좋고, 그냥 구조만 구경하셔도 좋습니다. 무대 뒤를 열어 보여드린 이유는 단 하나입니다. <strong>이 블로그의 판단이 어디서 어떻게 나오는지, 여러분이 직접 확인할 수 있게 하기 위해서</strong>입니다.
 
