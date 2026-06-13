@@ -126,9 +126,13 @@ buildFuture = true  # 장마감 브리핑(16:30 KST) 등 발행 시각보다 살
       url = "/page/korea-semiconductor-equipment-ip-hub"
       weight = 3
     [[languages.en.menu.main]]
+      name = "Exclusive Analysis"
+      url = "/page/exclusive-analysis-hub"
+      weight = 4
+    [[languages.en.menu.main]]
       name = "Daily Market"
       url = "/page/korea-daily-market-hub"
-      weight = 4
+      weight = 5
     [[languages.en.menu.main]]
       name = "Start Here"
       url = "/page/start-here"
@@ -227,9 +231,13 @@ buildFuture = true  # 장마감 브리핑(16:30 KST) 등 발행 시각보다 살
       url = "/ko/page/korea-semiconductor-equipment-ip-hub"
       weight = 3
     [[languages.ko.menu.main]]
+      name = "단독 분석"
+      url = "/ko/page/exclusive-analysis-hub"
+      weight = 4
+    [[languages.ko.menu.main]]
       name = "데일리 마켓"
       url = "/ko/page/korea-daily-market-hub"
-      weight = 4
+      weight = 5
     [[languages.ko.menu.main]]
       name = "K-뷰티 허브"
       url = "/ko/page/k-beauty-olive-young-pharmaresearch-hub"
