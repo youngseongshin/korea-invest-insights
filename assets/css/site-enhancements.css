@@ -373,45 +373,49 @@ html[lang^="zh"] .left-sidebar #main-menu > li[data-menu-section]::before {
   font-weight: 700;
 }
 
-/* Frameless pull-quote: no box, large italic body wrapped in curly quotes. */
+/* Elegant pull-quote: an oversized serif opening quotation mark sets off a
+   refined serif-italic body. No box, no label. */
 .article-content .thesis-callout {
-  max-width: min(68rem, 100%);
-  margin: 2.1rem 0 2.3rem;
-  padding: 0;
+  position: relative;
+  max-width: min(64rem, 100%);
+  margin: 2.6rem 0 2.8rem;
+  padding: 0.2rem 0 0.2rem 3.4rem;
   border: 0;
   border-radius: 0;
   background: none;
   box-shadow: none;
 }
 
-/* Eyebrow label removed per design: hide both the data-label (::before)
-   and the BEM (__label) markups. */
-.article-content .thesis-callout[data-label]::before,
+/* Hide the eyebrow label; the quotation mark carries the visual cue. */
 .article-content .thesis-callout__label {
   display: none;
 }
 
-/* Pull-quote body — large italic, shared by data-label (p) and BEM (__body). */
+/* Oversized decorative opening quotation mark (serif). Replaces both the
+   old label (data-label ::before) and the inline wrapping quotes. */
+.article-content .thesis-callout::before {
+  content: "\201C";
+  position: absolute;
+  left: 0;
+  top: 0.5rem;
+  font-family: var(--kii-heading-font);
+  font-size: 4rem;
+  line-height: 1;
+  color: var(--kii-sage);
+  opacity: 0.42;
+}
+
+/* Refined serif-italic body, shared by data-label (p) and BEM (__body). */
 .article-content .thesis-callout p,
 .article-content .thesis-callout__body {
   margin: 0;
-  color: var(--kii-sage);
-  font-size: 1.8rem;
+  font-family: var(--kii-heading-font);
+  font-size: 1.5rem;
   font-style: italic;
-  font-weight: 700;
-  line-height: 1.5;
-  letter-spacing: -0.01em;
-}
-
-/* Wrap the body text in curly quotation marks. */
-.article-content .thesis-callout p::before,
-.article-content .thesis-callout__body::before {
-  content: "\201C";
-}
-
-.article-content .thesis-callout p::after,
-.article-content .thesis-callout__body::after {
-  content: "\201D";
+  font-weight: 500;
+  line-height: 1.62;
+  color: var(--kii-sage);
+  letter-spacing: -0.005em;
 }
 
 .article-content > h2:first-of-type {
