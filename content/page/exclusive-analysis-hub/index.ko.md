@@ -5,7 +5,7 @@ date: 2026-06-13T19:35:00+09:00
 aliases: ["/ko/exclusive-analysis/", "/ko/page/exclusive-analysis-hub/"]
 layout: "page"
 description: "Korea Invest Insights의 자체 데이터 분석 허브. Thesis OS 로컬 DB, Naver ETF 구성 전수 스캔, Real Money 수급, ETF 리밸런싱, 브레드스와 유동성 프레임워크 등 공개 기사 요약이 아니라 직접 계산한 분석 글을 모은다."
-lastmod: 2026-06-13T19:35:00+09:00
+lastmod: 2026-06-13T20:20:00+09:00
 ---
 
 ## 이 허브의 목적
@@ -29,11 +29,15 @@ lastmod: 2026-06-13T19:35:00+09:00
 | 2026-06-13 | 반도체 Top50 2개월 상대 알파 | 삼성전자·SK하이닉스는 core지만, 초과수익 후보는 코리아써키트·HPSP·테스·브이엠·파두 같은 2선 장비·기판·AI 스토리지에서 찾는다. | [반도체 Top50에서 삼성전자·SK하이닉스를 2개월 이길 후보는 어디인가](/ko/post/korea-semiconductor-top50-two-month-alpha-candidates-samsung-hynix-2026-06-13/) |
 | 2026-06-13 | 반도체 ETF 노출과 수급 민감도 | 삼성전자·SK하이닉스 90.8% 쏠림 속에서 ETF 절대 보유액과 시총 대비 민감도, ETF 미반영 gap 후보를 분리한다. | [삼성전자·SK하이닉스 90.8% 쏠림](/ko/post/korea-semiconductor-etf-exposure-marketcap-gap-strategy-2026-06-13/) |
 | 2026-06-13 | ETF 수급 주도 장세 전략 | ETF 재배분, 고점 돌파 후 눌림, KOSPI200 만기 스퀴즈를 나눠 변동성 대응 규칙을 만든다. | [ETF 수급이 주도하는 한국 시장](/ko/post/korea-etf-flow-led-market-volatility-strategy-2026-06-13/) |
+| 2026-06-12 | AI 슈퍼사이클 장기화 | 금리 스트레스는 남아 있지만, 관찰된 데이터는 아직 AI capex·에이전트 수요·메모리/스토리지 사이클의 장기화를 훼손하지 않았다는 프레임을 제시한다. | [AI 슈퍼사이클은 왜 더 길어지는가](/ko/post/ai-supercycle-extension-agent-demand-ipo-funding-memory-storage-2026-06-12/) |
 | 2026-06-12 | 테마 ETF 리밸런싱 수급 | Naver ETF surface 기반 cap redistribution proxy로 반도체 소부장 재배분 후보와 대장주 trim pressure를 추적한다. | [테마 ETF 리밸런싱 수급](/ko/post/kr-theme-etf-rebalance-flow-semicap-cap-trim-2026-06-12/) |
 | 2026-06-11 | 삼닉 쏠림 이후 퀄리티 후보 | EPS 전망과 1Q 실적은 좋은데 주가는 뒤처진 3분기 재점검 후보를 찾는다. | [삼닉 쏠림은 계속된다. 하지만 3분기에 돌아볼 퀄리티 종목](/ko/post/samnik-crowding-q3-quality-watchlist-eps-up-price-lag-2026-06-11/) |
+| 2026-06-05 | 삼하마 패리티 후속 | ARM·MRVL·MU·SNDK·NVDA·AMD까지 확장한 AI chip & memory PER map으로 한국 메모리 할인과 미국 AI 메모리 프리미엄을 비교한다. | [삼하마 패리티 후속](/ko/post/sam-hama-parity-follow-up-ai-chip-memory-pe-map-2026-06-05/) |
+| 2026-06-03 | 삼하마 Forward PER 패리티 | 삼성전자·SK하이닉스가 EPS 훼손 없이 마이크론 대비 상대 PER 할인으로 내려온 구간을 포착한다. | [삼하마 패리티](/ko/post/samsung-hynix-micron-forward-per-parity-memory-catch-up-2026-06-03/) |
 | 2026-06-03 | Real Money 수급 프레임워크 | 외국인·기관 수급을 금투성 단기 매매와 투신·사모·연기금성 real money로 분리한다. | [Real Money 수급 프레임워크](/ko/post/real-money-flow-framework-korea-institution-quality-2026-06-03/) |
 | 2026-06-03 | 한국 증시 자금흐름과 ADR | 유동성은 많지만 시장 폭은 무너진 좁은 주도주 장세라는 결론을 도출한다. | [유동성은 많은데 시장 폭은 무너졌다](/ko/post/korea-market-liquidity-foreign-reallocation-adr-narrow-leadership-2026-06-03/) |
 | 2026-05-31 | 외국인 플레이북 | KOSPI 168개, KOSDAQ 355개를 외국인 거래대상으로 분류해 long-only 후보와 국내 유동성 후보를 분리한다. | [외국인이 보는 종목과 안 보는 종목](/ko/post/korea-foreign-playbook-msci-dm-kospi-168-kosdaq-355-2026-05-31/) |
+| 2026-05-16 | 삼성전자 vs TSMC식 PER 재분류 | 삼성전자를 메모리 사이클주가 아니라 AI 통합 플랫폼으로 재분류할 경우 PER 15배가 가능한지 점검한다. | [삼성전자에 PER 15배가 가능한가](/ko/post/samsung-electronics-tsmc-rerating-thesis-2026-05-16/) |
 
 ---
 
@@ -45,6 +49,13 @@ lastmod: 2026-06-13T19:35:00+09:00
 - [삼성전자·SK하이닉스 90.8% 쏠림: 반도체 ETF 수급은 어디가 더 민감한가](/ko/post/korea-semiconductor-etf-exposure-marketcap-gap-strategy-2026-06-13/)
 - [ETF 수급이 주도하는 한국 시장: 변동성이 커질 때 대응하는 몇 가지 전략](/ko/post/korea-etf-flow-led-market-volatility-strategy-2026-06-13/)
 - [테마 ETF 리밸런싱 수급: 반도체 소부장에는 재배분 매수, 대장주에는 비중 상한 압력](/ko/post/kr-theme-etf-rebalance-flow-semicap-cap-trim-2026-06-12/)
+
+### 상대 밸류에이션과 사이클 프레임
+
+- [삼하마 패리티: 삼성전자·하이닉스가 마이크론보다 다시 싸진 구간](/ko/post/samsung-hynix-micron-forward-per-parity-memory-catch-up-2026-06-03/)
+- [삼하마 패리티 후속: 마이크론 프리미엄은 맞지만 한국 메모리 할인은 과도하다](/ko/post/sam-hama-parity-follow-up-ai-chip-memory-pe-map-2026-06-05/)
+- [삼성전자에 PER 15배가 가능한가: 메모리 사이클주에서 AI 통합 플랫폼으로의 재분류 가능성](/ko/post/samsung-electronics-tsmc-rerating-thesis-2026-05-16/)
+- [AI 슈퍼사이클은 왜 더 길어지는가: 에이전트 수요, IPO 자금, 그리고 가장 싸게 남은 메모리·스토리지](/ko/post/ai-supercycle-extension-agent-demand-ipo-funding-memory-storage-2026-06-12/)
 
 ### 수급의 질
 
@@ -67,4 +78,3 @@ lastmod: 2026-06-13T19:35:00+09:00
 3. 수급이 외국인·기관 전체인지, real money인지, 프로그램성인지 나눈다.
 4. 테마가 실제 매출·수주·이익으로 연결되는지 확인한다.
 5. 무효화 조건이 발생하면 후보에서 제외한다.
-

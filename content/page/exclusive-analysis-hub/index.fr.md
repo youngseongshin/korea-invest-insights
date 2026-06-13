@@ -5,7 +5,7 @@ date: 2026-06-13T19:35:00+09:00
 aliases: ["/fr/exclusive-analysis/", "/fr/page/exclusive-analysis-hub/"]
 layout: "page"
 description: "Analyses propriétaires de Korea Invest Insights fondées sur les bases Thesis OS, scans ETF, flux real money, liquidité, ADR et force relative."
-lastmod: 2026-06-13T19:35:00+09:00
+lastmod: 2026-06-13T20:20:00+09:00
 ---
 
 ## Objectif
@@ -17,8 +17,18 @@ Ce hub rassemble les analyses construites sur des bases de données propriétair
 | 2026-06-13 | Candidats du Top 50 semi-conducteurs pouvant battre Samsung et SK Hynix | [Top 50 semi-conducteurs coréens](/fr/post/korea-semiconductor-top50-two-month-alpha-candidates-samsung-hynix-2026-06-13/) |
 | 2026-06-13 | Exposition ETF dans les semi-conducteurs coréens | [Samsung et SK Hynix concentrent le marché](/fr/post/korea-semiconductor-etf-exposure-marketcap-gap-strategy-2026-06-13/) |
 | 2026-06-13 | Marché coréen mené par les ETF | [Flux ETF et volatilité](/fr/post/korea-etf-flow-led-market-volatility-strategy-2026-06-13/) |
+| 2026-06-12 | Cycle IA plus long | [Pourquoi le supercycle IA s'allonge](/fr/post/ai-supercycle-extension-agent-demand-ipo-funding-memory-storage-2026-06-12/) |
+| 2026-06-05 | Suivi de la parité Sam-Ha-Ma | [Sam-Ha-Ma parity follow-up](/post/sam-hama-parity-follow-up-ai-chip-memory-pe-map-2026-06-05/) |
+| 2026-06-03 | Parité forward P/E Samsung-Hynix-Micron | [Parité mémoire Sam-Ha-Ma](/fr/post/samsung-hynix-micron-forward-per-parity-memory-catch-up-2026-06-03/) |
+| 2026-05-16 | Samsung face à une reclassification type TSMC | [Samsung Electronics peut-il obtenir 15x de PER ?](/fr/post/samsung-electronics-tsmc-rerating-thesis-2026-05-16/) |
+
+## Cadres de valorisation relative et de cycle
+
+- [Parité forward P/E Samsung-Hynix-Micron](/fr/post/samsung-hynix-micron-forward-per-parity-memory-catch-up-2026-06-03/)
+- [Suivi de la parité Sam-Ha-Ma](/post/sam-hama-parity-follow-up-ai-chip-memory-pe-map-2026-06-05/)
+- [Samsung Electronics et l'hypothèse d'un PER de 15x](/fr/post/samsung-electronics-tsmc-rerating-thesis-2026-05-16/)
+- [Pourquoi le supercycle IA s'allonge](/fr/post/ai-supercycle-extension-agent-demand-ipo-funding-memory-storage-2026-06-12/)
 
 ## Mode d'emploi
 
 Commencez par la méthode de données. Vérifiez ensuite si le mouvement de prix est soutenu par les flux, si ces flux sont du real money ou du programme, et si le thème devient du chiffre d'affaires.
-
