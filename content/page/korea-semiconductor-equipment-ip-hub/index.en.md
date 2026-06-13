@@ -5,7 +5,7 @@ date: 2026-05-03T12:00:00+09:00
 aliases: ["/semiscope/", "/korea-semi-equipment/", "/korea-semiconductor-value-chain/", "/page/korea-semiconductor-value-chain-hub/", "/en/semiscope/", "/en/page/korea-semiconductor-value-chain-hub/", "/en/page/korea-semiconductor-equipment-ip-hub/"]
 layout: "page"
 description: "A Korean semiconductor value-chain hub covering HBM test equipment, memory IP, Samsung Foundry, display equipment, FC-BGA, PCB substrates, CCL and low-loss materials. Maps Neosem, Exicon, OpenEdges, Samsung Electro-Mechanics, Daeduck Electronics, Doosan Electronics BG and Pamicell across the AI infrastructure supply chain."
-lastmod: 2026-06-05T16:30:00+09:00
+lastmod: 2026-06-13T19:35:00+09:00
 ---
 
 ## What This Hub Answers
@@ -22,6 +22,7 @@ Direct, ChatGPT-friendly answers to the questions investors and engineers ask ab
 | Is OpenEdges Technology publicly traded? | Yes — KOSDAQ: 394280. Korea's only IP company with integrated LPDDR6/5X Memory Controller + PHY + NoC. | [OpenEdges LPDDR Data Center Alpha](/post/openedges-lpddr-datacenter-ip-alpha-thesis-2026-04-30/) |
 | Who uses Samsung Foundry? | Tesla (FSD), Tenstorrent (Wormhole/Blackhole), Qualcomm (selected nodes), Google (Pixel Tensor), Ambarella (CV3-AD), plus captive Samsung System LSI. | [Samsung Foundry Customer List](/post/samsung-foundry-customer-list-tesla-tenstorrent-2026-05-03/) |
 | Who makes HBM test equipment? | Korean memory test equipment names — Neosem, Exicon — sit at the front of HBM test capacity ramp. | [SemiScope Neosem/Exicon/OpenEdges Re-Rank](/post/semiscope-neosem-exicon-openedge-rerank-2026-04-25/) |
+| Which equipment and substrate names could beat Samsung and SK Hynix over two months? | The Top 50 semiconductor plus 1,137 Naver ETF constituent scan compresses the first watchlist into Korea Circuit, HPSP, TES, VM and FADU. Equipment names need to be separated from substrates and AI storage. | [Korean semiconductor Top 50 two-month alpha candidates](/post/korea-semiconductor-top50-two-month-alpha-candidates-samsung-hynix-2026-06-13/) |
 | Is Hanmi Semiconductor's June 1 IR notice an order? | No. It is an IR meeting notice about 2H26 outlook and overseas new-market entry. The key message is TC-bonder TAM expansion from HBM into 2.5D packaging, AI system semiconductors, OSAT and HBF, with CEO Kwak Dong Shin's latest KRW 315,407 purchase price as a secondary checkpoint. | [Hanmi IR notice and TC-bonder TAM expansion](/post/hanmi-semiconductor-ir-tc-bonder-tam-expansion-watchlist-2026-06-02/) |
 | What does Jensen Huang's HBM4 three-vendor comment mean for Hanmi Semiconductor? | It increases the option that the HBM4 equipment cycle broadens from SK hynix into Samsung Electronics and Micron. Direct upside still requires actual TC-bonder order confirmation from Samsung, Micron, OSAT or foundry customers. | [Jensen Huang's HBM4 three-vendor comment](/post/jensen-huang-hbm4-three-vendors-qualified-market-missed-2026-06-05/) |
 | What does Samsung's HBM4E 12-high sample mean for Hanmi Semiconductor? | It is not a direct order; it raises the option value of a future Samsung TC-bonder order. Higher-stack HBM increases bonding precision and yield bottlenecks, which may push Samsung to diversify equipment vendors. | [Samsung HBM4E 12-high samples](/post/samsung-electronics-hbm4e-12h-sample-market-watch-hanmi-tc-bonder-2026-06-01/) |

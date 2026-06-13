@@ -5,7 +5,7 @@ date: 2026-05-03T12:00:00+09:00
 aliases: ["/ko/semiscope/", "/ko/korea-semi-equipment/", "/ko/semiconductor-value-chain/", "/ko/page/korea-semiconductor-value-chain-hub/", "/ko/page/korea-semiconductor-equipment-ip-hub/"]
 layout: "page"
 description: "한국 반도체 밸류체인 허브 — HBM 테스트 장비, 메모리 IP, 삼성파운드리, 디스플레이 장비, FC-BGA, CCL, PCB·기판, 저유전율 소재를 한곳에서 정리한다. 네오셈, 엑시콘, OpenEdges, 삼성전기, 대덕전자, 두산전자BG, 파미셀까지 AI 인프라 공급망을 레이어별로 연결한다."
-lastmod: 2026-06-05T16:30:00+09:00
+lastmod: 2026-06-13T19:35:00+09:00
 ---
 
 ## 이 허브가 답하는 질문
@@ -22,6 +22,7 @@ lastmod: 2026-06-05T16:30:00+09:00
 | OpenEdges 테크놀로지는 상장사인가요? | 네 — KOSDAQ 394280. LPDDR6/5X 메모리 컨트롤러 + PHY + NoC를 통합 보유한 한국 유일의 IP 회사. | [OpenEdges LPDDR 데이터센터 알파](/ko/post/openedges-lpddr-datacenter-ip-alpha-thesis-2026-04-30/) |
 | 삼성파운드리는 누가 사용하나요? | 테슬라(FSD), Tenstorrent(Wormhole/Blackhole), 퀄컴(일부 노드), 구글(Pixel Tensor), Ambarella(CV3-AD), 그리고 자체 시스템LSI. | [삼성파운드리 고객사 리스트](/ko/post/samsung-foundry-customer-list-tesla-tenstorrent-2026-05-03/) |
 | HBM 테스트 장비는 누가 만드나요? | 네오셈, 엑시콘 같은 한국 메모리 테스트 장비 기업이 HBM 테스트 capa 램프업의 전선에 있습니다. | [SemiScope 네오셈/엑시콘/OpenEdges 재평가](/ko/post/semiscope-neosem-exicon-openedge-rerank-2026-04-25/) |
+| 삼성전자·SK하이닉스를 2개월 이길 장비·기판 후보는 어디인가요? | 반도체 Top50과 Naver ETF 1,137개 구성 전수 스캔 기준, 코리아써키트·HPSP·테스·브이엠·파두가 1순위 후보로 압축됐다. 장비에서는 HPSP·테스·브이엠, 기판에서는 코리아써키트, AI 스토리지에서는 파두를 분리해서 봐야 한다. | [반도체 Top50 2개월 알파 후보](/ko/post/korea-semiconductor-top50-two-month-alpha-candidates-samsung-hynix-2026-06-13/) |
 | 한미반도체 6월 1일 IR 공시는 수주인가요? | 아니다. 수주 공시가 아니라 2026년 하반기 전망과 해외 신시장 진출을 설명하는 IR 개최 안내다. 핵심은 HBM용 TC본더에서 2.5D package, AI 시스템반도체, OSAT, HBF로 TAM을 확장하려는 전략 메시지이며, 곽동신 대표의 최신 315,407원 매입단가 회복 여부도 보조 체크포인트다. | [한미반도체 IR 공시와 TC본더 TAM 확장](/ko/post/hanmi-semiconductor-ir-tc-bonder-tam-expansion-watchlist-2026-06-02/) |
 | 젠슨 황의 HBM4 3사 검증 통과 발언은 한미반도체에 어떤 의미인가요? | HBM4 장비 사이클이 SK하이닉스 단일축에서 삼성전자·마이크론까지 확장될 수 있다는 옵션을 키운다. 다만 직접 수혜는 삼성전자·마이크론향 TC본더 수주 공시가 확인돼야 한다. | [젠슨 황의 HBM4 3사 검증 통과 발언](/ko/post/jensen-huang-hbm4-three-vendors-qualified-market-missed-2026-06-05/) |
 | 삼성전자 HBM4E 12단 샘플은 한미반도체에 어떤 의미인가요? | 직접 수주가 아니라 삼성향 TC본더 옵션가치 상승이다. HBM4E 고단 적층이 본딩 정밀도·수율 병목을 키우면 삼성의 장비 벤더 다변화 필요성이 커질 수 있다. | [삼성전자 HBM4E 12단 샘플 출하](/ko/post/samsung-electronics-hbm4e-12h-sample-market-watch-hanmi-tc-bonder-2026-06-01/) |
