@@ -5,7 +5,7 @@ date: 2026-05-03T11:00:00+09:00
 aliases: ["/korea-daily/", "/kospi/", "/kosdaq/", "/en/korea-daily/", "/en/page/korea-daily-market-hub/", "/es/page/korea-daily-market-hub/", "/vi/page/korea-daily-market-hub/", "/fr/page/korea-daily-market-hub/", "/ja/page/korea-daily-market-hub/", "/zh/page/korea-daily-market-hub/"]
 layout: "page"
 description: "A hub for Korean stock market daily updates — KOSPI and KOSDAQ market closes, weekly concentrated picks, foreign-investor flows, sector rotation, and what's actually moving in Korean equities each session. Direct answers to 'What is the Korean stock market doing today?' and similar queries."
-lastmod: 2026-06-13T15:35:00+09:00
+lastmod: 2026-06-13T18:20:00+09:00
 ---
 
 ## What This Hub Answers
@@ -15,6 +15,7 @@ Direct, search-engine-friendly answers to the questions global investors ask abo
 | Search Question | Quick Answer | Read |
 |---|---|---|
 | What is the Korean stock market doing today? | The most recent Korea Daily Wrap covers the day's regime, sector rotation, foreign flows, and key disclosures. | [Latest Korea Daily Wrap](/post/kr-daily-wrap-2026-06-11/) |
+| What has been confirmed halfway through June's event cluster? | This was not easing confirmation. It was a rates, oil and crowded-AI stress test. Jobs, CPI and PPI made it harder for the Fed to talk comfortably about cuts, while Korea was hit by foreign semiconductor selling before the June 12 foreign/institution/program rebound. | [June event cluster midpoint review](/post/june-event-cluster-midpoint-review-rates-oil-ai-stress-test-2026-06-13/) |
 | Have foreign investors really returned to Korea? | The June 12 KOSPI foreign buy of KRW 2.72tn matters, but it is only a 3.6% reversal of the prior KRW 75.57tn 24-session selloff. Treat it as Samsung Electronics / SK Hynix position repair until three consecutive buy days, USD/KRW below 1,520 and KOSDAQ / second-line spread confirm. | [Have Foreign Investors Returned?](/post/foreign-return-after-24-day-kospi-selling-memory-rebalance-2026-06-12/) |
 | Where is Korea theme ETF rebalance flow pointing? | Thesis OS's first KR Theme ETF Rebalance Flow v1 run scanned 31 ETFs, 30 valid ETFs and 291 constituent rows, producing 69 candidates. As of Jun 12, the stronger signal was semiconductor materials/equipment redistribution rather than nuclear/SMR: Leeno, EO Technics, Soulbrain, DB HiTek and Hanmi ranked high on buy-pressure, while SK Hynix, Samsung Electro-Mechanics and LS ELECTRIC were cap-trim watches. | [Korea theme ETF rebalance flow](/post/kr-theme-etf-rebalance-flow-semicap-cap-trim-2026-06-12/) |
 | How should investors respond when ETF flow leads the market? | Do not chase ETF redistribution candidates on the event day; confirm T+1/T+3 flow first. For Samsung and SK Hynix, big-figure breakouts are confirmation zones rather than automatic chase signals. KOSPI200 expiry squeezes should be treated as event flow, separate from core investment theses. | [ETF flow is leading the Korean market](/post/korea-etf-flow-led-market-volatility-strategy-2026-06-13/) |
@@ -64,6 +65,7 @@ Sequential reading for someone new to Korean equities — what to read in order 
 | 8 | Are foreigners leaving Korea, or just reducing memory mega-caps? | [Korea Foreign Investor Flow Analysis](/post/korea-foreign-investor-flow-memory-megacap-rotation-2026-05-24/) |
 | 9 | Is foreign selling exhausted by ownership levels? | [KOSPI ownership versus Samsung / SK Hynix](/post/korea-foreign-ownership-kospi-samsung-hynix-divergence-2026-05-26/) |
 | 10 | Is the foreign KRW 2.7tn buy after 24 sell days a structural return? | [Have Foreign Investors Returned?](/post/foreign-return-after-24-day-kospi-selling-memory-rebalance-2026-06-12/) |
+| 10A | Has the June event cluster already improved the regime? | [June event cluster midpoint review: rates, oil and crowded-AI stress test](/post/june-event-cluster-midpoint-review-rates-oil-ai-stress-test-2026-06-13/) |
 | 10+ | Where does theme ETF rebalance and cap-rule flow point? | [Korea theme ETF rebalance flow: semicap redistribution buy pressure and mega-cap trim pressure](/post/kr-theme-etf-rebalance-flow-semicap-cap-trim-2026-06-12/) |
 | 10++ | How should investors respond when ETF and expiry flow increase volatility? | [ETF Flow Is Leading the Korean Market](/post/korea-etf-flow-led-market-volatility-strategy-2026-06-13/) |
 | 10+++ | What remains when semiconductor ETF exposure is adjusted for market cap? | [Korean semiconductor ETF exposure strategy](/post/korea-semiconductor-etf-exposure-marketcap-gap-strategy-2026-06-13/) |
@@ -118,6 +120,7 @@ The Friday-evening "concentrated" series picks 3–5 highest-conviction Korean e
 | Theme | Direct Answer Link |
 |---|---|
 | Foreign investor access / IBKR / KRX basics | [Korea Stocks for Foreign Investors Hub](/page/korea-stocks-foreign-investors-hub/) |
+| June event cluster / rates, oil and AI stress test | [June event cluster midpoint review](/post/june-event-cluster-midpoint-review-rates-oil-ai-stress-test-2026-06-13/) |
 | Foreign investor return / memory megacap rebalancing | [Have Foreign Investors Returned? The KRW 2.7tn Buy Is Still Only a 3.6% Reversal](/post/foreign-return-after-24-day-kospi-selling-memory-rebalance-2026-06-12/) |
 | Theme ETF rebalance / semiconductor equipment redistribution | [Korea theme ETF rebalance flow: semicap redistribution buy pressure and mega-cap trim pressure](/post/kr-theme-etf-rebalance-flow-semicap-cap-trim-2026-06-12/) |
 | Q3 quality watchlist after the Samsung-Hynix concentration | [Samsung-Hynix concentration and 35 Q3 quality candidates](/post/samnik-crowding-q3-quality-watchlist-eps-up-price-lag-2026-06-11/) |

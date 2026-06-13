@@ -5,7 +5,7 @@ date: 2026-05-03T11:00:00+09:00
 aliases: ["/ko/korea-daily/", "/ko/kospi/", "/ko/kosdaq/", "/ko/page/korea-daily-market-hub/"]
 layout: "page"
 description: "한국 주식시장 일일 업데이트 허브 — KOSPI / KOSDAQ 장마감 브리핑, 주간 집중 픽, 외국인·기관 수급, 섹터 로테이션, 그리고 매 세션 한국 주식에서 실제로 무엇이 움직이는지. '오늘 한국 주식시장은 어떤가요?' 같은 질문의 직접 답."
-lastmod: 2026-06-13T15:35:00+09:00
+lastmod: 2026-06-13T18:20:00+09:00
 ---
 
 ## 이 허브가 답하는 질문
@@ -15,6 +15,7 @@ lastmod: 2026-06-13T15:35:00+09:00
 | 검색 질문 | 빠른 답 | 읽을 글 |
 |---|---|---|
 | 오늘 한국 주식시장은 어떤가요? | 가장 최근 Korea Daily Wrap이 그날의 시장 국면, 섹터 로테이션, 외국인 수급, 핵심 공시를 정리합니다. | [최근 데일리 랩](/ko/post/kr-daily-wrap-2026-06-11/) |
+| 6월 집중 이벤트 절반을 지나며 무엇이 확인됐나요? | 완화 확인이 아니라 금리·유가·AI 과열 스트레스 테스트였다. 고용·CPI·PPI는 Fed가 편하게 인하를 말하기 어려운 쪽이었고, 한국장은 외국인 반도체 매도에 크게 흔들린 뒤 6월 12일 외국인·기관·프로그램 되돌림을 확인했다. | [6월 이벤트 중간 복기](/ko/post/june-event-cluster-midpoint-review-rates-oil-ai-stress-test-2026-06-13/) |
 | 외국인은 정말 한국장으로 돌아왔나요? | 6월 12일 외국인 코스피 순매수 2.72조원은 의미 있지만 직전 24거래일 순매도 75.57조원의 3.6% 되돌림이다. 삼성전자·SK하이닉스 중심 포지션 복구로 보고, 3거래일 연속 순매수·환율 1,520원 이하·코스닥/2선 확산을 확인해야 한다. | [외국인은 돌아왔나](/ko/post/foreign-return-after-24-day-kospi-selling-memory-rebalance-2026-06-12/) |
 | 테마 ETF 리밸런싱 수급은 어디로 향하나요? | Thesis OS의 KR Theme ETF Rebalance Flow v1 첫 실행은 ETF 31개, 유효 30개, 구성종목 291개를 스캔했고 후보 69개를 잡았다. 6월 12일 기준 핵심은 원전/SMR보다 반도체 소부장 재배분 매수였고, 리노공업·이오테크닉스·솔브레인·DB하이텍·한미반도체가 buy pressure 상위, SK하이닉스·삼성전기·LS ELECTRIC은 cap-trim watch다. | [테마 ETF 리밸런싱 수급](/ko/post/kr-theme-etf-rebalance-flow-semicap-cap-trim-2026-06-12/) |
 | ETF 수급이 주도하는 장에서 변동성은 어떻게 대응해야 하나요? | ETF 재배분 후보는 당일 추격보다 T+1/T+3 수급 확인이 우선이고, 삼성전자·SK하이닉스 같은 대형 core는 Big Figure 돌파 후 눌림 반복을 감안해 추격 강도를 낮춰야 한다. KOSPI200 만기 스퀴즈는 core 투자와 분리한 이벤트 수급으로 봐야 한다. | [ETF 수급이 주도하는 한국 시장](/ko/post/korea-etf-flow-led-market-volatility-strategy-2026-06-13/) |
@@ -66,6 +67,7 @@ lastmod: 2026-06-13T15:35:00+09:00
 | 8 | 외국인 수급은 한국 이탈인가, 메모리 분배인가? | [한국증시 외국인 수급 분석](/ko/post/korea-foreign-investor-flow-memory-megacap-rotation-2026-05-24/) |
 | 9 | 외국인 지분율 기준으로 매도 압력은 끝났나? | [KOSPI 외국인 지분율 vs 삼성전자·SK하이닉스](/ko/post/korea-foreign-ownership-kospi-samsung-hynix-divergence-2026-05-26/) |
 | 10 | 24거래일 매도 뒤 외국인 2.7조 순매수는 구조적 복귀인가? | [외국인은 돌아왔나](/ko/post/foreign-return-after-24-day-kospi-selling-memory-rebalance-2026-06-12/) |
+| 10A | 6월 이벤트 클러스터 절반을 지나며 레짐은 좋아졌나? | [6월 집중 이벤트 중간 복기: 금리·유가·AI 과열 스트레스 테스트](/ko/post/june-event-cluster-midpoint-review-rates-oil-ai-stress-test-2026-06-13/) |
 | 10+ | 테마 ETF 정기변경·비중 상한 재조정 수급은 어디로 흐르나? | [테마 ETF 리밸런싱 수급: 반도체 소부장에는 재배분 매수, 대장주에는 비중 상한 압력](/ko/post/kr-theme-etf-rebalance-flow-semicap-cap-trim-2026-06-12/) |
 | 10++ | ETF 수급과 만기 이벤트가 주도할 때 변동성은 어떻게 대응하나? | [ETF 수급이 주도하는 한국 시장: 변동성이 커질 때 대응하는 몇 가지 전략](/ko/post/korea-etf-flow-led-market-volatility-strategy-2026-06-13/) |
 | 10+++ | 반도체 ETF 노출을 시총 대비로 보면 어떤 후보가 남았나? | [반도체 ETF 노출 전략](/ko/post/korea-semiconductor-etf-exposure-marketcap-gap-strategy-2026-06-13/) |
@@ -122,6 +124,7 @@ lastmod: 2026-06-13T15:35:00+09:00
 | 테마 | 직답 링크 |
 |---|---|
 | 해외 투자자 접근 / IBKR / KRX 기본 지도 | [해외 투자자용 한국 주식 허브](/ko/page/korea-stocks-foreign-investors-hub/) |
+| 6월 이벤트 클러스터 / 금리·유가·AI 스트레스 테스트 | [6월 집중 이벤트 중간 복기](/ko/post/june-event-cluster-midpoint-review-rates-oil-ai-stress-test-2026-06-13/) |
 | 외국인 복귀 / 메모리 대형주 리밸런싱 | [외국인은 돌아왔나: 2.7조 순매수는 아직 3.6% 되돌림](/ko/post/foreign-return-after-24-day-kospi-selling-memory-rebalance-2026-06-12/) |
 | 테마 ETF 리밸런싱 / 반도체 소부장 재배분 | [테마 ETF 리밸런싱 수급: 반도체 소부장에는 재배분 매수, 대장주에는 비중 상한 압력](/ko/post/kr-theme-etf-rebalance-flow-semicap-cap-trim-2026-06-12/) |
 | ETF 수급 주도장 / 변동성 대응 | [ETF 수급이 주도하는 한국 시장: 변동성이 커질 때 대응하는 몇 가지 전략](/ko/post/korea-etf-flow-led-market-volatility-strategy-2026-06-13/) |
