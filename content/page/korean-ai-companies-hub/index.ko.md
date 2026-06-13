@@ -5,7 +5,7 @@ date: 2026-05-03T11:30:00+09:00
 aliases: ["/ko/korean-ai/", "/ko/k-ai/", "/ko/sovereign-ai-korea/", "/ko/page/korean-ai-companies-hub/"]
 layout: "page"
 description: "한국 AI 기업 허브 — 업스테이지(LLM, IPO 일정), 리벨리온·퓨리오사AI(NPU·AI 가속기 스타트업), 네이버 하이퍼클로바 X, 삼성 가우스, 카카오, 그리고 한국 정부 주도 Sovereign AI 프로그램까지. '업스테이지는 상장사인가요?', '퓨리오사AI는 상장사인가요?', '한국 Sovereign AI는 무엇인가요?' 같은 질문의 직접 답."
-lastmod: 2026-06-05T05:15:00+09:00
+lastmod: 2026-06-13T14:45:00+09:00
 ---
 
 ## 이 허브가 답하는 질문
@@ -19,6 +19,7 @@ lastmod: 2026-06-05T05:15:00+09:00
 | 리벨리온은 상장사인가요? | 아직 비상장. 한국 NPU(AI 가속기) 스타트업으로, 다수의 국내 상장 VC가 프리IPO 지분을 보유합니다. | [상장 한국 VC SpaceX/리벨리온/퓨리오사/업스테이지 매핑](/ko/post/listed-korean-vc-rerating-capital-inflow-2026-04-29/) |
 | 퓨리오사AI는 상장사인가요? | 아직 비상장. Renegade 칩을 삼성파운드리에서 양산하는 한국 AI 가속기 스타트업. 프리IPO 라운드와 상장 VC 지분이 공개되어 있습니다. | [상장 한국 VC 퓨리오사AI 노출](/ko/post/listed-korean-vc-rerating-capital-inflow-2026-04-29/) |
 | 한국 Sovereign AI 프로그램은 무엇인가요? | 한국 정부 주도의 자국 LLM·AI 인프라 개발 이니셔티브. 업스테이지가 참여 기업 중 하나이고, SK텔레콤 등이 컴퓨트·데이터센터 레이어를 담당합니다. | [한국 Sovereign AI 분석](/ko/post/upstage-ai-korea-sovereign-ai-unicorn-2026-04-26/) |
+| Fable 5 차단은 한국 소버린 AI와 업스테이지에 어떤 의미인가요? | 외국 AI 의존 위험이 실제 사례로 확인됐다는 점에서 소버린 AI 명분은 강해졌습니다. 다만 업스테이지의 가격표를 바꾸려면 공공·규제 산업 계약과 반복 매출이 필요합니다. | [업스테이지와 소버린 AI: Fable 5 이후](/ko/post/upstage-ai-fable5-sovereign-ai-export-control-2026-06-13/) |
 | 중국·홍콩 LLM 상장사 과열이 한국에 전이될 수 있나요? | 직접적인 LLM pure-play 전이보다 NAVER sovereign AI, LG CNS·삼성SDS AI cloud, SK텔레콤 AIDC/GPUaaS, SK네트웍스 업스테이지 proxy로 재분류될 가능성이 큽니다. | [중국과 홍콩의 AI 과열이 한국에 전이될 수 있을까](/ko/post/china-hong-kong-ai-overheat-korea-ai-cloud-llm-proxy-2026-05-31/) |
 | NAVER는 포털주가 아니라 AI 클라우드 통합사업자로 리레이팅될 수 있나요? | 가능성은 커졌습니다. 다만 두나무 연결, 미래에셋증권 지분가치, 60,000개 이상 GPU AI 인프라, 원화 스테이블코인 옵션, C2C 턴어라운드가 2Q26 마진과 외국인 수급으로 확인되어야 합니다. | [NAVER 리레이팅 가능성](/ko/post/naver-rerating-dunamu-mirae-ai-cloud-stablecoin-turnaround-2026-05-31/) |
 | NVIDIA가 NAVER를 언급하는 이유는 무엇인가요? | NAVER는 단순 GPU 구매자가 아니라 NAVER Cloud, 60,000개 이상 GPU 계획, HyperCLOVA X, 공공·금융 클라우드, physical AI 테스트베드를 가진 regional sovereign AI factory operator 후보입니다. | [젠슨 황은 왜 네이버와 만날까](/ko/post/naver-nvidia-jensen-huang-softbank-ytl-dell-ai-factory-2026-06-05/) · [GTC Taipei 이후 한국 증시](/ko/post/korea-market-after-gtc-taipei-jensen-huang-naver-ai-factory-2026-06-02/) |
@@ -36,17 +37,18 @@ lastmod: 2026-06-05T05:15:00+09:00
 |---:|---|---|
 | 1 | 업스테이지는 누구이고 왜 중요한가요? | [업스테이지 AI: 한국의 Sovereign AI 유니콘](/ko/post/upstage-ai-korea-sovereign-ai-unicorn-2026-04-26/) |
 | 2 | 업스테이지 IPO 밸류에이션 피어 맵은? | [업스테이지 + 다음 + MiniMax IPO 밸류에이션 피어](/ko/post/upstage-ai-daum-sovereign-ai-minimax-ipo-2026-04-27/) |
-| 3 | 중국·홍콩 AI 과열은 한국 상장 AI proxy로 어떻게 번역되나요? | [중국과 홍콩의 AI 과열이 한국에 전이될 수 있을까](/ko/post/china-hong-kong-ai-overheat-korea-ai-cloud-llm-proxy-2026-05-31/) |
-| 4 | NAVER는 AI cloud와 스테이블코인 옵션으로 다시 가격이 매겨질 수 있나요? | [NAVER 리레이팅 가능성](/ko/post/naver-rerating-dunamu-mirae-ai-cloud-stablecoin-turnaround-2026-05-31/) |
-| 5 | NVIDIA GTC Taipei 이후 NAVER Cloud는 왜 중요해졌나요? | [젠슨 황은 왜 네이버와 만날까](/ko/post/naver-nvidia-jensen-huang-softbank-ytl-dell-ai-factory-2026-06-05/) |
-| 6 | GTC Taipei 이후 한국 증시 전체는 어떤 병목을 봐야 하나요? | [젠슨 황을 바라보는 한국 증시: 간밤에 무슨 일이 있었나](/ko/post/korea-market-after-gtc-taipei-jensen-huang-naver-ai-factory-2026-06-02/) |
-| 7 | Agentic commerce가 NAVER·NHN KCP·Cafe24에 던지는 질문은? | [알리바바 AI 결제 3억 건과 한국 셀러 OS](/ko/post/alibaba-ai-pay-accio-work-korea-agentic-commerce-seller-os-2026-05-31/) |
-| 8 | 한국 상장 VC가 리벨리온·퓨리오사·업스테이지·SpaceX 노출을 어떻게 가져가나요? | [상장 한국 VC 재평가 매핑](/ko/post/listed-korean-vc-rerating-capital-inflow-2026-04-29/) |
-| 9 | SK텔레콤의 AI 인프라 사업은? | [SK텔레콤 AI 재평가](/ko/post/sk-telecom-rerating-ai-infrastructure-operator-2026-04-25/) |
-| 10 | AI-RAN 테마는 SK텔레콤 단일 베팅인가요, 공급망 베팅인가요? | [AI-RAN 공급망 분석](/ko/post/ai-ran-nvidia-earnings-skt-vs-supply-chain-2026-05-17/) |
-| 11 | 삼성파운드리는 AI 칩을 제조하나요? | [삼성파운드리 고객사 리스트](/ko/post/samsung-foundry-customer-list-tesla-tenstorrent-2026-05-03/) |
-| 12 | LPDDR이 AI 추론으로 가는 흐름과 한국 IP 회사의 연결점은? | [OpenEdges LPDDR 데이터센터 알파](/ko/post/openedges-lpddr-datacenter-ip-alpha-thesis-2026-04-30/) |
-| 13 | 피지컬 AI와 휴머노이드 로봇에서 한국 상장사는 어디에 있나요? | [한국 휴머노이드 로봇 밸류체인 분석](/ko/post/korea-robotics-value-chain-complete-map-2026-05-11/) |
+| 3 | Fable 5 차단은 업스테이지 소버린 AI 논거를 어떻게 바꾸나요? | [업스테이지와 소버린 AI: Fable 5 차단 이후 바뀐 것과 남은 것](/ko/post/upstage-ai-fable5-sovereign-ai-export-control-2026-06-13/) |
+| 4 | 중국·홍콩 AI 과열은 한국 상장 AI proxy로 어떻게 번역되나요? | [중국과 홍콩의 AI 과열이 한국에 전이될 수 있을까](/ko/post/china-hong-kong-ai-overheat-korea-ai-cloud-llm-proxy-2026-05-31/) |
+| 5 | NAVER는 AI cloud와 스테이블코인 옵션으로 다시 가격이 매겨질 수 있나요? | [NAVER 리레이팅 가능성](/ko/post/naver-rerating-dunamu-mirae-ai-cloud-stablecoin-turnaround-2026-05-31/) |
+| 6 | NVIDIA GTC Taipei 이후 NAVER Cloud는 왜 중요해졌나요? | [젠슨 황은 왜 네이버와 만날까](/ko/post/naver-nvidia-jensen-huang-softbank-ytl-dell-ai-factory-2026-06-05/) |
+| 7 | GTC Taipei 이후 한국 증시 전체는 어떤 병목을 봐야 하나요? | [젠슨 황을 바라보는 한국 증시: 간밤에 무슨 일이 있었나](/ko/post/korea-market-after-gtc-taipei-jensen-huang-naver-ai-factory-2026-06-02/) |
+| 8 | Agentic commerce가 NAVER·NHN KCP·Cafe24에 던지는 질문은? | [알리바바 AI 결제 3억 건과 한국 셀러 OS](/ko/post/alibaba-ai-pay-accio-work-korea-agentic-commerce-seller-os-2026-05-31/) |
+| 9 | 한국 상장 VC가 리벨리온·퓨리오사·업스테이지·SpaceX 노출을 어떻게 가져가나요? | [상장 한국 VC 재평가 매핑](/ko/post/listed-korean-vc-rerating-capital-inflow-2026-04-29/) |
+| 10 | SK텔레콤의 AI 인프라 사업은? | [SK텔레콤 AI 재평가](/ko/post/sk-telecom-rerating-ai-infrastructure-operator-2026-04-25/) |
+| 11 | AI-RAN 테마는 SK텔레콤 단일 베팅인가요, 공급망 베팅인가요? | [AI-RAN 공급망 분석](/ko/post/ai-ran-nvidia-earnings-skt-vs-supply-chain-2026-05-17/) |
+| 12 | 삼성파운드리는 AI 칩을 제조하나요? | [삼성파운드리 고객사 리스트](/ko/post/samsung-foundry-customer-list-tesla-tenstorrent-2026-05-03/) |
+| 13 | LPDDR이 AI 추론으로 가는 흐름과 한국 IP 회사의 연결점은? | [OpenEdges LPDDR 데이터센터 알파](/ko/post/openedges-lpddr-datacenter-ip-alpha-thesis-2026-04-30/) |
+| 14 | 피지컬 AI와 휴머노이드 로봇에서 한국 상장사는 어디에 있나요? | [한국 휴머노이드 로봇 밸류체인 분석](/ko/post/korea-robotics-value-chain-complete-map-2026-05-11/) |
 
 ---
 
