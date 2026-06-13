@@ -5,7 +5,7 @@ date: 2026-06-13T19:35:00+09:00
 aliases: ["/zh/exclusive-analysis/", "/zh/page/exclusive-analysis-hub/"]
 layout: "page"
 description: "Korea Invest Insights的独家分析中心，涵盖Thesis OS本地数据库、ETF成分扫描、Real Money资金流、流动性、ADR和相对强度。"
-lastmod: 2026-06-13T22:30:00+09:00
+lastmod: 2026-06-13T23:20:00+09:00
 ---
 
 ## 目的
@@ -14,6 +14,7 @@ lastmod: 2026-06-13T22:30:00+09:00
 
 | 日期 | 主题 | 文章 |
 |---|---|---|
+| 2026-06-13 | 现代建设与Woojin的美国核电影响力 | [美国核电扩张中的非对称议价能力](/zh/post/hyundai-ec-woojin-us-nuclear-expansion-bargaining-power-2026-06-13/) |
 | 2026-06-13 | 韩国对美投资特别法与Team Korea核电机会 | [Team Korea核电机会](/zh/post/us-investment-special-act-team-korea-nuclear-opportunity-2026-06-13/) |
 | 2026-06-13 | 半导体Top50中可能跑赢三星电子和SK海力士的候选 | [韩国半导体Top50](/zh/post/korea-semiconductor-top50-two-month-alpha-candidates-samsung-hynix-2026-06-13/) |
 | 2026-06-13 | 韩国半导体ETF敞口 | [三星电子与SK海力士集中度](/zh/post/korea-semiconductor-etf-exposure-marketcap-gap-strategy-2026-06-13/) |
@@ -32,6 +33,7 @@ lastmod: 2026-06-13T22:30:00+09:00
 
 ## 政策资本与事件解读
 
+- [现代建设与Woojin：美国核电扩张中的非对称议价能力在哪里？](/zh/post/hyundai-ec-woojin-us-nuclear-expansion-bargaining-power-2026-06-13/)
 - [韩国3500亿美元对美投资特别法：Team Korea的核电机会在哪里？](/zh/post/us-investment-special-act-team-korea-nuclear-opportunity-2026-06-13/)
 
 ## 如何使用

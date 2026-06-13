@@ -5,7 +5,7 @@ date: 2026-06-13T19:35:00+09:00
 aliases: ["/ko/exclusive-analysis/", "/ko/page/exclusive-analysis-hub/"]
 layout: "page"
 description: "Korea Invest Insights의 자체 데이터 분석 허브. Thesis OS 로컬 DB, Naver ETF 구성 전수 스캔, Real Money 수급, ETF 리밸런싱, 브레드스와 유동성 프레임워크 등 공개 기사 요약이 아니라 직접 계산한 분석 글을 모은다."
-lastmod: 2026-06-13T22:30:00+09:00
+lastmod: 2026-06-13T23:20:00+09:00
 ---
 
 ## 이 허브의 목적
@@ -26,6 +26,7 @@ lastmod: 2026-06-13T22:30:00+09:00
 
 | 날짜 | 주제 | 핵심 결론 | 글 |
 |---|---|---|---|
+| 2026-06-13 | 현대건설과 우진의 미국 원전 협상력 | 현대건설은 Fermi AP1000·Holtec SMR-300 실행 병목, 우진은 원전 계측기·ICI 반복 교체수요에 걸린 소형 비대칭 옵션으로 분리한다. | [현대건설과 우진: 미국 원전 확대 흐름 속 비대칭 협상력](/ko/post/hyundai-ec-woojin-us-nuclear-expansion-bargaining-power-2026-06-13/) |
 | 2026-06-13 | 대미투자특별법과 원전 팀코리아 | 3,500억달러 정책자본 이벤트를 원전 밸류체인으로 분해해 두산에너빌리티·현대건설·한전기술 베타와 한전KPS·우리기술·우진·전력기기 후방 알파를 나눈다. | [500조원 대미투자특별법 시행 카운트다운](/ko/post/us-investment-special-act-team-korea-nuclear-opportunity-2026-06-13/) |
 | 2026-06-13 | 반도체 Top50 2개월 상대 알파 | 삼성전자·SK하이닉스는 core지만, 초과수익 후보는 코리아써키트·HPSP·테스·브이엠·파두 같은 2선 장비·기판·AI 스토리지에서 찾는다. | [반도체 Top50에서 삼성전자·SK하이닉스를 2개월 이길 후보는 어디인가](/ko/post/korea-semiconductor-top50-two-month-alpha-candidates-samsung-hynix-2026-06-13/) |
 | 2026-06-13 | 반도체 ETF 노출과 수급 민감도 | 삼성전자·SK하이닉스 90.8% 쏠림 속에서 ETF 절대 보유액과 시총 대비 민감도, ETF 미반영 gap 후보를 분리한다. | [삼성전자·SK하이닉스 90.8% 쏠림](/ko/post/korea-semiconductor-etf-exposure-marketcap-gap-strategy-2026-06-13/) |
@@ -53,6 +54,7 @@ lastmod: 2026-06-13T22:30:00+09:00
 
 ### 정책자본과 이벤트 판독
 
+- [현대건설과 우진: 미국 원전 확대 흐름 속에서 비대칭 협상력은 있는가](/ko/post/hyundai-ec-woojin-us-nuclear-expansion-bargaining-power-2026-06-13/)
 - [500조원 대미투자특별법 시행 카운트다운: 원전 팀코리아의 기회는?](/ko/post/us-investment-special-act-team-korea-nuclear-opportunity-2026-06-13/)
 
 ### 상대 밸류에이션과 사이클 프레임

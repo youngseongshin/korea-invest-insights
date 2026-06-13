@@ -5,7 +5,7 @@ date: 2026-06-13T19:35:00+09:00
 aliases: ["/es/exclusive-analysis/", "/es/page/exclusive-analysis-hub/"]
 layout: "page"
 description: "Análisis propietario de Korea Invest Insights: bases locales de Thesis OS, escaneos completos de ETF, flujos real money, liquidez, ADR y selección de acciones."
-lastmod: 2026-06-13T22:30:00+09:00
+lastmod: 2026-06-13T23:20:00+09:00
 ---
 
 ## Propósito
@@ -14,6 +14,7 @@ Este hub reúne análisis propios de Korea Invest Insights basados en datos cons
 
 | Fecha | Tema | Lectura |
 |---|---|---|
+| 2026-06-13 | Hyundai E&C y Woojin en la expansión nuclear de EE. UU. | [Poder de negociación asimétrico en nuclear estadounidense](/es/post/hyundai-ec-woojin-us-nuclear-expansion-bargaining-power-2026-06-13/) |
 | 2026-06-13 | Ley coreana de inversión en EE. UU. y oportunidad nuclear de Team Korea | [Oportunidad nuclear de Team Korea](/es/post/us-investment-special-act-team-korea-nuclear-opportunity-2026-06-13/) |
 | 2026-06-13 | Candidatos del Top 50 de semiconductores para superar a Samsung y SK Hynix | [Top 50 de semiconductores coreanos](/es/post/korea-semiconductor-top50-two-month-alpha-candidates-samsung-hynix-2026-06-13/) |
 | 2026-06-13 | Exposición ETF en semiconductores coreanos | [Samsung y SK Hynix concentran el mercado](/es/post/korea-semiconductor-etf-exposure-marketcap-gap-strategy-2026-06-13/) |
@@ -32,6 +33,7 @@ Este hub reúne análisis propios de Korea Invest Insights basados en datos cons
 
 ## Capital político y lectura de eventos
 
+- [Hyundai E&C y Woojin: poder de negociación asimétrico en la expansión nuclear de EE. UU.](/es/post/hyundai-ec-woojin-us-nuclear-expansion-bargaining-power-2026-06-13/)
 - [Ley coreana de inversión en EE. UU. de 350.000 millones de dólares: oportunidad nuclear de Team Korea](/es/post/us-investment-special-act-team-korea-nuclear-opportunity-2026-06-13/)
 
 ## Cómo usarlo
