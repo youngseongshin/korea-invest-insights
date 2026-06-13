@@ -5,7 +5,7 @@ date: 2026-04-30T23:05:00+09:00
 aliases: ["/ko/hbm/", "/ko/semiconductor/", "/ko/samsung-hynix/", "/ko/kospi-hbm/", "/ko/page/hbm/"]
 layout: "page"
 description: "AI HBM 허브. 삼성전자, SK하이닉스, HBM, AI 메모리, 코스피 지수 쏠림과 한국 반도체 투자 논거를 한곳에 모은 리서치 허브. HBM 시장점유율, 삼성전자 코스피 비중, KOSPI 리레이팅, AI 서버 수요를 순서대로 정리한다."
-lastmod: 2026-06-12T18:20:00+09:00
+lastmod: 2026-06-13T10:55:00+09:00
 ---
 
 ## 한 줄 결론
@@ -26,6 +26,7 @@ lastmod: 2026-06-12T18:20:00+09:00
 | 삼성전자 HBM4E 12단 샘플 출하는 무엇을 의미하나 | 샘플 출하는 HBM catch-up의 증거지만 고객 인증·양산·EPS revision 전에는 확정 매출이 아니다. 한미반도체에는 직접 수주가 아니라 삼성향 TC본더 옵션가치 상승으로 해석해야 한다. | [삼성전자 HBM4E 12단 샘플 출하](/ko/post/samsung-electronics-hbm4e-12h-sample-market-watch-hanmi-tc-bonder-2026-06-01/) |
 | 젠슨 황의 HBM 3사 검증 통과 발언은 무엇을 바꾸나 | 삼성전자·SK하이닉스·마이크론이 Vera Rubin용 HBM4 공급망에서 모두 qualified/in production 단계로 해석되는 이벤트다. 삼성전자에는 HBM discount 축소, SK하이닉스에는 독점 프리미엄 희석과 TAM 확대가 동시에 작용한다. | [젠슨 황의 큰 발언과 HBM4 3사 검증 통과](/ko/post/jensen-huang-hbm4-three-vendors-qualified-market-missed-2026-06-05/) |
 | 테마 ETF 리밸런싱은 반도체 소부장에 어떤 의미인가 | 6월 12일 Thesis OS KR Theme ETF Rebalance Flow v1은 ETF 31개 중 유효 30개, 구성종목 291개를 스캔해 후보 69개를 잡았다. 가장 강한 신호는 반도체 TOP10·AI반도체 ETF의 cap 재배분으로, 리노공업·이오테크닉스·솔브레인·DB하이텍·한미반도체는 재배분 매수 후보, SK하이닉스·삼성전기·LS ELECTRIC은 비중 상한 압력 후보로 분류됐다. | [테마 ETF 리밸런싱 수급](/ko/post/kr-theme-etf-rebalance-flow-semicap-cap-trim-2026-06-12/) |
+| ETF 수급이 반도체 변동성을 키울 때 어떻게 대응해야 하나 | 반도체 소부장 재배분 후보는 T+1/T+3 확인 후 접근하고, SK하이닉스·삼성전자 같은 core 대장주는 ETF cap 압력보다 외국인 현물 수급과 Big Figure 돌파 후 눌림 패턴을 함께 봐야 한다. KOSPI200 만기 스퀴즈는 별도 이벤트 수급으로 분리해야 한다. | [ETF 수급이 주도하는 한국 시장](/ko/post/korea-etf-flow-led-market-volatility-strategy-2026-06-13/) |
 | 한미반도체 6월 1일 IR 공시는 HBM 장비 thesis에 어떤 의미인가 | HBM용 TC본더만의 이야기가 아니라 2.5D package, AI 시스템반도체, OSAT, HBF로 확장하겠다는 메시지다. 다만 수주 공시가 아니므로 수급 턴과 실제 고객·양산 데이터를 기다려야 하고, 최신 내부자 매입단가 315,407원 회복도 체크포인트다. | [한미반도체 IR 공시와 TC본더 TAM 확장](/ko/post/hanmi-semiconductor-ir-tc-bonder-tam-expansion-watchlist-2026-06-02/) |
 | 삼성전자·하이닉스는 마이크론 대비 다시 싸졌나 | 그렇다. 2026년 6월 1일 기준 삼성전자/Micron 상대 PER은 0.82배, SK하이닉스/Micron은 0.80배로 내려왔다. 저평가의 본질은 한국 악재보다 마이크론이 더 빠르게 리레이팅된 것이다. | [삼하마 패리티: 삼성전자·하이닉스가 다시 싸진 구간](/ko/post/samsung-hynix-micron-forward-per-parity-memory-catch-up-2026-06-03/) |
 | AI 칩 전체 바스켓으로 봐도 한국 메모리 할인은 과도한가 | 그렇다. AI Chip & Memory Forward P/E 지도에서 삼성전자와 SK하이닉스는 2028E P/E 6배 안팎으로 가장 낮은 축이다. 낮은 P/E가 곧 매수 신호는 아니지만, EPS가 훼손되지 않았다면 마이크론 프리미엄 대비 할인 폭은 과도해 보인다. | [삼하마 패리티 후속](/ko/post/sam-hama-parity-follow-up-ai-chip-memory-pe-map-2026-06-05/) |
@@ -62,6 +63,7 @@ lastmod: 2026-06-12T18:20:00+09:00
 |---|---|---|
 | 2026-06-12 | <strong>AI 슈퍼사이클은 왜 더 길어지는가 — 에이전트 수요·IPO 자금·메모리/스토리지</strong> — 에이전트발 토큰 수요 폭증 → 빅테크 자금조달 확대 → 스페이스X·앤트로픽 IPO 공모 자금 공급으로 사이클 연료가 릴레이되며 수명이 길어진다. 노무라의 삼성전자 59만원·SK하이닉스 500만원 목표가를 이정표로, 가장 강력하면서 가장 싸게 남은 자산은 상대 PER 0.80-0.82배의 메모리와 재분류 초기의 스토리지라는 종합 결론 | [AI 슈퍼사이클 장기화와 메모리·스토리지](/ko/post/ai-supercycle-extension-agent-demand-ipo-funding-memory-storage-2026-06-12/) |
 | 2026-06-12 | <strong>테마 ETF 리밸런싱 수급</strong> — KR Theme ETF Rebalance Flow v1 첫 실행 결과 ETF 31개, 유효 30개, 구성종목 291개에서 후보 69개가 포착됐고, 6월 12일 기준 원전/SMR보다 반도체 소부장 ETF cap 재배분 신호가 더 강했다는 점을 정리. 리노공업·이오테크닉스·솔브레인·DB하이텍·한미반도체는 buy pressure, SK하이닉스·삼성전기·LS ELECTRIC은 cap trim watch로 분류 | [테마 ETF 리밸런싱 수급](/ko/post/kr-theme-etf-rebalance-flow-semicap-cap-trim-2026-06-12/) |
+| 2026-06-13 | <strong>ETF 수급이 주도하는 한국 시장</strong> — 테마 ETF 재배분, cap trim, KOSPI Big Figure 이후 눌림 반복, KOSPI200 만기 반도체 스퀴즈 모니터를 하나의 대응 프레임으로 연결. core 반도체 thesis와 이벤트 수급을 분리하고, ETF 후보는 T+1/T+3 확인 후 접근해야 한다는 전략 | [ETF 수급이 주도하는 한국 시장](/ko/post/korea-etf-flow-led-market-volatility-strategy-2026-06-13/) |
 | 2026-06-06 | <strong>중반을 넘어선 AI 슈퍼사이클</strong> — AI 메모리 상승장은 아직 실적 기반이지만 장기금리·데이터센터 자본조달·hyperscaler FCF가 멀티플 상단을 누르는 노란불로 부상했고, 빨간불은 capex guidance cut, HBM 가격 반전, financing stress에서 확인해야 한다는 프레임 | [중반을 넘어선 AI 슈퍼사이클](/ko/post/ai-supercycle-midgame-rate-risk-yellow-not-red-2026-06-06/) |
 | 2026-06-05 | <strong>젠슨 황의 HBM4 3사 검증 통과 발언</strong> — 삼성전자·SK하이닉스·마이크론이 Vera Rubin용 HBM4 공급 경쟁에 들어갔다는 이벤트로 해석하고, 삼성전자 HBM discount 축소, SK하이닉스 리더십 프리미엄 전환, 한미반도체 TC본더 read-through를 분리 | [젠슨 황의 큰 발언과 HBM4 3사 검증 통과](/ko/post/jensen-huang-hbm4-three-vendors-qualified-market-missed-2026-06-05/) |
 | 2026-06-05 | <strong>삼하마 패리티 후속</strong> — AI Chip & Memory Forward P/E 지도와 2Q run-rate 영업이익 배수를 함께 보며, 마이크론 프리미엄은 정당하지만 삼성전자·SK하이닉스의 2028E P/E 6배 안팎 할인은 EPS 지속성이 유지될 경우 과도하다는 논리로 정리 | [삼하마 패리티 후속](/ko/post/sam-hama-parity-follow-up-ai-chip-memory-pe-map-2026-06-05/) |
@@ -139,6 +141,7 @@ lastmod: 2026-06-12T18:20:00+09:00
 
 - [젠슨 황의 큰 발언에 시장은 귀 기울이지 않았다: HBM4 3사 검증 통과의 의미](/ko/post/jensen-huang-hbm4-three-vendors-qualified-market-missed-2026-06-05/)
 - [테마 ETF 리밸런싱 수급: 반도체 소부장에는 재배분 매수, 대장주에는 비중 상한 압력](/ko/post/kr-theme-etf-rebalance-flow-semicap-cap-trim-2026-06-12/)
+- [ETF 수급이 주도하는 한국 시장: 변동성이 커질 때 대응하는 몇 가지 전략](/ko/post/korea-etf-flow-led-market-volatility-strategy-2026-06-13/)
 - [중반을 넘어선 AI 슈퍼사이클: 금리 영향은 커졌지만 아직 빨간불은 없다](/ko/post/ai-supercycle-midgame-rate-risk-yellow-not-red-2026-06-06/)
 - [한미반도체 IR 공시: 수주가 아니라 TC본더 TAM 확장 신호](/ko/post/hanmi-semiconductor-ir-tc-bonder-tam-expansion-watchlist-2026-06-02/)
 - [삼하마 패리티: 삼성전자·하이닉스가 마이크론보다 다시 싸진 구간](/ko/post/samsung-hynix-micron-forward-per-parity-memory-catch-up-2026-06-03/)

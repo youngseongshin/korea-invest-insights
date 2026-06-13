@@ -5,7 +5,7 @@ date: 2026-05-03T11:00:00+09:00
 aliases: ["/ko/korea-daily/", "/ko/kospi/", "/ko/kosdaq/", "/ko/page/korea-daily-market-hub/"]
 layout: "page"
 description: "한국 주식시장 일일 업데이트 허브 — KOSPI / KOSDAQ 장마감 브리핑, 주간 집중 픽, 외국인·기관 수급, 섹터 로테이션, 그리고 매 세션 한국 주식에서 실제로 무엇이 움직이는지. '오늘 한국 주식시장은 어떤가요?' 같은 질문의 직접 답."
-lastmod: 2026-06-12T18:20:00+09:00
+lastmod: 2026-06-13T11:30:00+09:00
 ---
 
 ## 이 허브가 답하는 질문
@@ -17,6 +17,7 @@ lastmod: 2026-06-12T18:20:00+09:00
 | 오늘 한국 주식시장은 어떤가요? | 가장 최근 Korea Daily Wrap이 그날의 시장 국면, 섹터 로테이션, 외국인 수급, 핵심 공시를 정리합니다. | [최근 데일리 랩](/ko/post/kr-daily-wrap-2026-06-11/) |
 | 외국인은 정말 한국장으로 돌아왔나요? | 6월 12일 외국인 코스피 순매수 2.72조원은 의미 있지만 직전 24거래일 순매도 75.57조원의 3.6% 되돌림이다. 삼성전자·SK하이닉스 중심 포지션 복구로 보고, 3거래일 연속 순매수·환율 1,520원 이하·코스닥/2선 확산을 확인해야 한다. | [외국인은 돌아왔나](/ko/post/foreign-return-after-24-day-kospi-selling-memory-rebalance-2026-06-12/) |
 | 테마 ETF 리밸런싱 수급은 어디로 향하나요? | Thesis OS의 KR Theme ETF Rebalance Flow v1 첫 실행은 ETF 31개, 유효 30개, 구성종목 291개를 스캔했고 후보 69개를 잡았다. 6월 12일 기준 핵심은 원전/SMR보다 반도체 소부장 재배분 매수였고, 리노공업·이오테크닉스·솔브레인·DB하이텍·한미반도체가 buy pressure 상위, SK하이닉스·삼성전기·LS ELECTRIC은 cap-trim watch다. | [테마 ETF 리밸런싱 수급](/ko/post/kr-theme-etf-rebalance-flow-semicap-cap-trim-2026-06-12/) |
+| ETF 수급이 주도하는 장에서 변동성은 어떻게 대응해야 하나요? | ETF 재배분 후보는 당일 추격보다 T+1/T+3 수급 확인이 우선이고, 삼성전자·SK하이닉스 같은 대형 core는 Big Figure 돌파 후 눌림 반복을 감안해 추격 강도를 낮춰야 한다. KOSPI200 만기 스퀴즈는 core 투자와 분리한 이벤트 수급으로 봐야 한다. | [ETF 수급이 주도하는 한국 시장](/ko/post/korea-etf-flow-led-market-volatility-strategy-2026-06-13/) |
 | 삼닉 쏠림이 계속될 때 3분기에 다시 볼 퀄리티 후보는 무엇인가요? | 삼성전자·SK하이닉스가 여전히 한국장의 첫 축이지만, FY26 EPS가 5% 이상 상향되고 1Q 실적도 좋았는데 주가는 2025년 말보다 낮은 35개 후보도 3분기 실적 시즌에 다시 볼 필요가 있다. 1차 Focus는 대한유화, SK바이오팜, 삼성바이오로직스, 크래프톤, GKL이다. | [삼닉 쏠림과 3분기 퀄리티 후보](/ko/post/samnik-crowding-q3-quality-watchlist-eps-up-price-lag-2026-06-11/) |
 | 강한 미국 고용 이후 이번 주 한국장은 무엇을 봐야 하나요? | 6월 10일 미국 CPI, 6월 11일 한국 파생 만기, 6월 15~16일 BOJ, 6월 16~17일 FOMC가 한 덩어리로 붙어 있다. 예측보다 core CPI, 10년물 4.6%, USD/JPY 160, 외국인 선물 수급이라는 반응 함수가 중요하다. | [CPI·BOJ·FOMC 이벤트 클러스터](/ko/post/us-cpi-boj-fomc-macro-event-cluster-korea-reaction-function-2026-06-06/) |
 | 미국 5월 CPI에서 진짜 봐야 할 숫자는 무엇인가요? | 헤드라인 4.1~4.2%보다 Core CPI MoM이 핵심이다. 확률가중 중심값은 +0.26%, +0.30% 이하 확률은 75%, +0.35% 이상 hot print 확률은 13%로 본다. +0.30% 이하면 안도 반등, +0.35% 이상이면 방어 전환이다. | [미국 5월 CPI 프리뷰](/ko/post/us-may-2026-cpi-preview-core-mom-trigger-korea-market-2026-06-06/) |
@@ -65,6 +66,7 @@ lastmod: 2026-06-12T18:20:00+09:00
 | 9 | 외국인 지분율 기준으로 매도 압력은 끝났나? | [KOSPI 외국인 지분율 vs 삼성전자·SK하이닉스](/ko/post/korea-foreign-ownership-kospi-samsung-hynix-divergence-2026-05-26/) |
 | 10 | 24거래일 매도 뒤 외국인 2.7조 순매수는 구조적 복귀인가? | [외국인은 돌아왔나](/ko/post/foreign-return-after-24-day-kospi-selling-memory-rebalance-2026-06-12/) |
 | 10+ | 테마 ETF 정기변경·비중 상한 재조정 수급은 어디로 흐르나? | [테마 ETF 리밸런싱 수급: 반도체 소부장에는 재배분 매수, 대장주에는 비중 상한 압력](/ko/post/kr-theme-etf-rebalance-flow-semicap-cap-trim-2026-06-12/) |
+| 10++ | ETF 수급과 만기 이벤트가 주도할 때 변동성은 어떻게 대응하나? | [ETF 수급이 주도하는 한국 시장: 변동성이 커질 때 대응하는 몇 가지 전략](/ko/post/korea-etf-flow-led-market-volatility-strategy-2026-06-13/) |
 | 11 | 이 사이트의 투자 테시스는 어디서 맞고 틀렸나? | [KII 투자 테시스 중간점검](/ko/post/kii-investment-thesis-performance-mid-review-2026-05-26/) |
 | 12 | 유동성은 많은데 왜 시장 폭은 무너졌나? | [유동성은 많은데 시장 폭은 무너졌다](/ko/post/korea-market-liquidity-foreign-reallocation-adr-narrow-leadership-2026-06-03/) |
 | 13 | 외국인 매수에도 KOSDAQ이 못 가는 이유는? | [외국인은 사는데 왜 코스닥은 빠졌나](/ko/post/kosdaq-foreign-buying-institution-real-money-adr-2026-06-03/) |
@@ -120,6 +122,7 @@ lastmod: 2026-06-12T18:20:00+09:00
 | 해외 투자자 접근 / IBKR / KRX 기본 지도 | [해외 투자자용 한국 주식 허브](/ko/page/korea-stocks-foreign-investors-hub/) |
 | 외국인 복귀 / 메모리 대형주 리밸런싱 | [외국인은 돌아왔나: 2.7조 순매수는 아직 3.6% 되돌림](/ko/post/foreign-return-after-24-day-kospi-selling-memory-rebalance-2026-06-12/) |
 | 테마 ETF 리밸런싱 / 반도체 소부장 재배분 | [테마 ETF 리밸런싱 수급: 반도체 소부장에는 재배분 매수, 대장주에는 비중 상한 압력](/ko/post/kr-theme-etf-rebalance-flow-semicap-cap-trim-2026-06-12/) |
+| ETF 수급 주도장 / 변동성 대응 | [ETF 수급이 주도하는 한국 시장: 변동성이 커질 때 대응하는 몇 가지 전략](/ko/post/korea-etf-flow-led-market-volatility-strategy-2026-06-13/) |
 | 삼닉 쏠림 이후 3분기 퀄리티 후보 | [삼닉 쏠림과 3분기 퀄리티 후보 35개](/ko/post/samnik-crowding-q3-quality-watchlist-eps-up-price-lag-2026-06-11/) |
 | 삼성전자 + SK하이닉스 + HBM | [한국 반도체 / HBM / KOSPI 허브](/ko/page/korea-semiconductor-hbm-kospi-hub/) |
 | 젠슨 황 / HBM4 3사 qualified / 한미반도체 read-through | [젠슨 황의 큰 발언과 HBM4 3사 qualified](/ko/post/jensen-huang-hbm4-three-vendors-qualified-market-missed-2026-06-05/) |
