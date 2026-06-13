@@ -5,7 +5,7 @@ date: 2026-05-05T23:20:00+09:00
 aliases: ["/ko/ai-pcb/", "/ko/pcb/", "/ko/fc-bga/", "/ko/ccl/", "/ko/ai-substrate/", "/ko/page/korea-ai-pcb-substrate-hub/"]
 layout: "page"
 description: "AI 기판·PCB 투자 허브. FC-BGA, MLB, CCL, 저유전율 소재, 삼성전기, 대덕전자, 두산전자BG, 코오롱인더, 파미셀을 한곳에 묶어 GPU·CPU·NIC·스위치 ASIC이 만드는 AI 시스템 병목을 정리한다."
-lastmod: 2026-06-05T12:55:00+09:00
+lastmod: 2026-06-13T15:35:00+09:00
 ---
 
 ## 한 줄 결론
@@ -25,6 +25,7 @@ AI 기판 투자는 "GPU 다음 테마"가 아니라 <strong>AI 시스템 전체
 | 젠슨 황의 마벨 1조 달러 발언과 브로드컴 실적은 한국 기판주에 어떤 의미인가요? | 핵심은 HBM이 아니라 연결 병목이다. 마벨은 NVLink Fusion 안의 맞춤형 AI 가속기와 대규모 네트워크를, 브로드컴은 AI 반도체 107억 달러 가이던스와 Tomahawk 6·CPO를 통해 AI 네트워크 병목을 숫자로 검증해야 한다. 한국 1차 파급은 삼성전기, 코리아써키트, 이수페타시스다. | [젠슨 황의 마벨 1조 달러 발언](/ko/post/marvell-trillion-broadcom-readthrough-korea-ai-connectivity-2026-06-02/) |
 | 브로드컴이 2027년 AI 반도체 1,000억 달러 초과를 다시 확인한 것은 한국 기판주에 어떤 의미인가요? | AI ASIC과 AI 네트워크 수요가 유지된다는 신호다. 다만 주가 하락은 시장이 더 큰 상향을 기대했다는 뜻이므로, 삼성전기·코리아써키트·이수페타시스는 고객 인증, FC-BGA·고속기판 마진, 반복 수주를 숫자로 증명해야 한다. | [브로드컴 2027년 AI 반도체 1,000억 달러 재확인](/ko/post/broadcom-ai-semiconductor-100b-2027-korea-value-chain-2026-06-05/) |
 | AI 데이터센터 CapEx 5.3조 달러는 기판·PCB에 어떤 의미인가요? | CapEx가 커질수록 GPU보다 전력, 기판, 광연결, eSSD 병목이 넓어진다. 기판에서는 FC-BGA와 고다층 PCB를 구분하고, 삼성전기·이수페타시스·대덕전자·코리아써키트가 단가(P), 물량(Q), 비용(C)을 증명해야 한다. | [AI 데이터센터 CapEx 5.3조 달러 시대](/ko/post/ai-datacenter-capex-5p3t-korea-power-substrate-storage-bottleneck-2026-06-05/) |
+| ETF 미반영 gap 관점에서 AI 기판주는 어디가 남았나요? | 대덕전자는 16개 ETF에 이미 편입됐지만 시총 대비 ETF 보유 추정액은 1.95%에 그쳐 AI 기판 ETF 확장 후보로 남아 있다. 코리아써키트는 2.27%와 최근 액티브 ETF +0.59%p로 조용한 비중 확대 후보이고, 심텍은 3.87%로 이미 ETF 수급이 상당 부분 반영됐다. | [반도체 ETF 노출 전략](/ko/post/korea-semiconductor-etf-exposure-marketcap-gap-strategy-2026-06-13/) |
 | 기가비스는 AI 기판주인가요, 장비주인가요? | 기가비스는 기판 제조사가 아니라 AI GPU·ASIC용 FC-BGA/ABF 기판의 검사·수리 장비사다. 최근 5D 개인 -194.6억원 매도를 외국인+기관 +193.3억원이 흡수했지만, 6/4 +11.2% 이후에는 135,000원 지지 또는 144,400원 돌파 확인이 우선이다. | [기가비스 후속: AI FC-BGA 수율 병목](/ko/post/gigavis-ai-fcbga-yield-equipment-smart-money-flow-2026-06-05/) |
 | 마벨 후속으로 광원 병목은 한국 기판 thesis와 어떻게 연결되나요? | AI 네트워크가 800G·1.6T·CPO로 가면 기판과 고속 PCB만이 아니라 EML·CW-DFB 광원도 병목이 된다. 오이솔루션은 국내에서 가장 직접적인 EML/ELSFP proxy지만, 현재 수급은 쏠리드·RFHIC·삼지전자 같은 AI-RAN/RU 쪽이 더 살아 있어 기술 직접성과 매매 우선순위를 분리해야 한다. | [마벨 후속: EML·CW-DFB 광원](/ko/post/marvell-follow-up-eml-cw-dfb-laser-source-korea-cpo-2026-06-03/) |
 | 메모리 ASP가 2027년 꺾이면 AI 기판도 같이 피크아웃인가요? | 아니다. JP모간 피크아웃은 주로 범용 메모리 가격 상승률에 적용된다. 골드만의 2030년 토큰 수요가 맞으면 서버·랙 복잡도는 계속 올라가, 기판 면적·전력 안정화·FC-BGA·MLCC 수요는 메모리 가격 모멘텀과 별개로 이어질 수 있다. | [골드만 토큰 수요 vs JP모간 메모리 ASP 피크아웃](/ko/post/goldman-token-demand-vs-jpm-memory-asp-peakout-korea-semiconductor-2026-05-31/) |
@@ -62,6 +63,7 @@ AI 기판 투자는 "GPU 다음 테마"가 아니라 <strong>AI 시스템 전체
 | 2+++ | 젠슨 황의 마벨 1조 달러 발언과 브로드컴 실적은 한국에서 어떤 연결·기판 병목을 다시 가격에 반영하나 | [젠슨 황의 마벨 1조 달러 발언](/ko/post/marvell-trillion-broadcom-readthrough-korea-ai-connectivity-2026-06-02/) |
 | 2+++A | 브로드컴 Q2 이후 AI ASIC 1,000억 달러 프레임은 FC-BGA·고속 PCB·Si-Cap에 어떻게 연결되나 | [브로드컴 2027년 AI 반도체 1,000억 달러 재확인](/ko/post/broadcom-ai-semiconductor-100b-2027-korea-value-chain-2026-06-05/) |
 | 2+++B | 5.3조 달러 AI 데이터센터 CapEx는 전력·기판·광연결·스토리지 병목으로 어떻게 내려오나 | [AI 데이터센터 CapEx 5.3조 달러 시대](/ko/post/ai-datacenter-capex-5p3t-korea-power-substrate-storage-bottleneck-2026-06-05/) |
+| 2+++B+ | ETF 노출로 보면 대덕전자·코리아써키트·심텍 중 어디가 더 남았나 | [반도체 ETF 노출 전략](/ko/post/korea-semiconductor-etf-exposure-marketcap-gap-strategy-2026-06-13/) |
 | 2+++C | 연결 병목을 광원까지 내리면 EML·CW-DFB·ELSFP와 오이솔루션은 어떻게 봐야 하나 | [마벨 후속: EML·CW-DFB 광원](/ko/post/marvell-follow-up-eml-cw-dfb-laser-source-korea-cpo-2026-06-03/) |
 | 2+++D | 기판 제조사가 아니라 수율 장비사로 보면 기가비스는 어디에 놓이나 | [기가비스 후속: AI FC-BGA 수율 병목](/ko/post/gigavis-ai-fcbga-yield-equipment-smart-money-flow-2026-06-05/) |
 | 2++++ | AI 사용량에 가격이 붙으면 FC-BGA·기판은 토큰당 비용 테제에 어떻게 연결되나 | [AI 토큰 선물과 토큰당 비용 투자 논거](/ko/post/ai-token-futures-cost-per-token-korea-semiconductor-thesis-2026-05-30/) |
