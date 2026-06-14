@@ -5,7 +5,7 @@ date: 2026-05-03T11:00:00+09:00
 aliases: ["/ko/korea-daily/", "/ko/kospi/", "/ko/kosdaq/", "/ko/page/korea-daily-market-hub/"]
 layout: "page"
 description: "한국 주식시장 일일 업데이트 허브 — KOSPI / KOSDAQ 장마감 브리핑, 주간 집중 픽, 외국인·기관 수급, 섹터 로테이션, 그리고 매 세션 한국 주식에서 실제로 무엇이 움직이는지. '오늘 한국 주식시장은 어떤가요?' 같은 질문의 직접 답."
-lastmod: 2026-06-13T23:20:00+09:00
+lastmod: 2026-06-14T22:35:00+09:00
 ---
 
 ## 이 허브가 답하는 질문
@@ -15,6 +15,7 @@ lastmod: 2026-06-13T23:20:00+09:00
 | 검색 질문 | 빠른 답 | 읽을 글 |
 |---|---|---|
 | 오늘 한국 주식시장은 어떤가요? | 가장 최근 Korea Daily Wrap이 그날의 시장 국면, 섹터 로테이션, 외국인 수급, 핵심 공시를 정리합니다. | [최근 데일리 랩](/ko/post/kr-daily-wrap-2026-06-11/) |
+| 건설사 리레이팅은 정말 오나요? | 건설업종 전체 리레이팅이 아니라 원전·SMR, AI 데이터센터 전력, 에너지 EPC, 재건 EPC로 재분류되는 일부 건설사 리레이팅이다. 현대건설은 직접성, DL이앤씨는 비대칭, 삼성물산은 퀄리티, 삼성E&A는 에너지 EPC 옵션으로 나눠 봐야 한다. | [건설사 리레이팅은 오는가](/ko/post/construction-epc-rerating-ai-power-nuclear-datacenter-reconstruction-2026-06-14/) |
 | 500조원 규모 대미투자특별법에서 원전 팀코리아 기회는 어디인가요? | 3,500억달러 대미 전략투자 구조에서 원전은 1호 또는 핵심 후보로 부상했지만 아직 확정은 아니다. 두산에너빌리티·현대건설·한전기술은 베타, 한전KPS·우리기술·우진·전력기기는 발표문에 O&M·제어·계측·전력계통 역할이 들어갈 때 후방 알파다. | [대미투자특별법과 원전 팀코리아](/ko/post/us-investment-special-act-team-korea-nuclear-opportunity-2026-06-13/) |
 | 현대건설과 우진은 미국 원전 확대에서 어떤 협상력이 있나요? | 현대건설은 Fermi AP1000과 Holtec SMR-300에서 미국 원전 실행 병목에 걸린 직접 노출주이고, 우진은 한국형 원전 계측기·ICI 반복 교체수요와 미국 옵션을 가진 소형 비대칭 후보다. 현대건설은 계약구조, 우진은 AP1000 직접 채택 여부가 핵심 확인 지점이다. | [현대건설과 우진: 미국 원전 확대 흐름 속 협상력](/ko/post/hyundai-ec-woojin-us-nuclear-expansion-bargaining-power-2026-06-13/) |
 | 6월 집중 이벤트 절반을 지나며 무엇이 확인됐나요? | 완화 확인이 아니라 금리·유가·AI 과열 스트레스 테스트였다. 고용·CPI·PPI는 Fed가 편하게 인하를 말하기 어려운 쪽이었고, 한국장은 외국인 반도체 매도에 크게 흔들린 뒤 6월 12일 외국인·기관·프로그램 되돌림을 확인했다. | [6월 이벤트 중간 복기](/ko/post/june-event-cluster-midpoint-review-rates-oil-ai-stress-test-2026-06-13/) |
@@ -75,6 +76,7 @@ lastmod: 2026-06-13T23:20:00+09:00
 | 10+++ | 반도체 ETF 노출을 시총 대비로 보면 어떤 후보가 남았나? | [반도체 ETF 노출 전략](/ko/post/korea-semiconductor-etf-exposure-marketcap-gap-strategy-2026-06-13/) |
 | 10++++ | 500조원 대미투자특별법에서 원전 팀코리아는 무엇을 확인해야 하나? | [500조원 대미투자특별법 시행 카운트다운: 원전 팀코리아의 기회는?](/ko/post/us-investment-special-act-team-korea-nuclear-opportunity-2026-06-13/) |
 | 10+++++ | 미국 원전 확대에서 현대건설과 우진의 협상력은 어떻게 다른가? | [현대건설과 우진: 미국 원전 확대 흐름 속에서 비대칭 협상력은 있는가](/ko/post/hyundai-ec-woojin-us-nuclear-expansion-bargaining-power-2026-06-13/) |
+| 10++++++ | 건설사는 주택주가 아니라 AI 전력·원전·에너지 EPC로 다시 가격 받을 수 있나? | [건설사 리레이팅은 오는가: 주택이 아니라 원전·전력·AI 인프라 EPC다](/ko/post/construction-epc-rerating-ai-power-nuclear-datacenter-reconstruction-2026-06-14/) |
 | 11 | 이 사이트의 투자 테시스는 어디서 맞고 틀렸나? | [KII 투자 테시스 중간점검](/ko/post/kii-investment-thesis-performance-mid-review-2026-05-26/) |
 | 12 | 유동성은 많은데 왜 시장 폭은 무너졌나? | [유동성은 많은데 시장 폭은 무너졌다](/ko/post/korea-market-liquidity-foreign-reallocation-adr-narrow-leadership-2026-06-03/) |
 | 13 | 외국인 매수에도 KOSDAQ이 못 가는 이유는? | [외국인은 사는데 왜 코스닥은 빠졌나](/ko/post/kosdaq-foreign-buying-institution-real-money-adr-2026-06-03/) |
@@ -134,6 +136,7 @@ lastmod: 2026-06-13T23:20:00+09:00
 | ETF 수급 주도장 / 변동성 대응 | [ETF 수급이 주도하는 한국 시장: 변동성이 커질 때 대응하는 몇 가지 전략](/ko/post/korea-etf-flow-led-market-volatility-strategy-2026-06-13/) |
 | 대미투자특별법 / 원전 팀코리아 / AP1000·O&M | [500조원 대미투자특별법 시행 카운트다운: 원전 팀코리아의 기회는?](/ko/post/us-investment-special-act-team-korea-nuclear-opportunity-2026-06-13/) |
 | 현대건설 / 우진 / 미국 원전 실행·계측 병목 | [현대건설과 우진: 미국 원전 확대 흐름 속에서 비대칭 협상력은 있는가](/ko/post/hyundai-ec-woojin-us-nuclear-expansion-bargaining-power-2026-06-13/) |
+| 건설사 리레이팅 / 원전·전력·AI 인프라 EPC | [건설사 리레이팅은 오는가: 주택이 아니라 원전·전력·AI 인프라 EPC다](/ko/post/construction-epc-rerating-ai-power-nuclear-datacenter-reconstruction-2026-06-14/) |
 | 삼닉 쏠림 이후 3분기 퀄리티 후보 | [삼닉 쏠림과 3분기 퀄리티 후보 35개](/ko/post/samnik-crowding-q3-quality-watchlist-eps-up-price-lag-2026-06-11/) |
 | 삼성전자 + SK하이닉스 + HBM | [한국 반도체 / HBM / KOSPI 허브](/ko/page/korea-semiconductor-hbm-kospi-hub/) |
 | 젠슨 황 / HBM4 3사 qualified / 한미반도체 read-through | [젠슨 황의 큰 발언과 HBM4 3사 qualified](/ko/post/jensen-huang-hbm4-three-vendors-qualified-market-missed-2026-06-05/) |

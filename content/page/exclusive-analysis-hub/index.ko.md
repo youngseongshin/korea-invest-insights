@@ -5,7 +5,7 @@ date: 2026-06-13T19:35:00+09:00
 aliases: ["/ko/exclusive-analysis/", "/ko/page/exclusive-analysis-hub/"]
 layout: "page"
 description: "Korea Invest Insights의 자체 데이터 분석 허브. Thesis OS 로컬 DB, Naver ETF 구성 전수 스캔, Real Money 수급, ETF 리밸런싱, 브레드스와 유동성 프레임워크 등 공개 기사 요약이 아니라 직접 계산한 분석 글을 모은다."
-lastmod: 2026-06-13T23:55:00+09:00
+lastmod: 2026-06-14T22:35:00+09:00
 ---
 
 ## 이 허브의 목적
@@ -26,6 +26,7 @@ lastmod: 2026-06-13T23:55:00+09:00
 
 | 날짜 | 주제 | 핵심 결론 | 글 |
 |---|---|---|---|
+| 2026-06-14 | 건설사 리레이팅과 인프라 EPC 재분류 | 건설주 전체가 아니라 현대건설·DL이앤씨·삼성물산·삼성E&A처럼 원전·AI 전력·데이터센터·에너지 EPC로 다시 읽히는 일부 종목만 리레이팅 가능하다. | [건설사 리레이팅은 오는가](/ko/post/construction-epc-rerating-ai-power-nuclear-datacenter-reconstruction-2026-06-14/) |
 | 2026-06-13 | 목표가 갭과 편한 진입 후보 | 목표가 갭이 큰 종목을 그대로 사지 않고, 목표가 상향·smart money·20/50일선까지 결합하면 KB금융·하나금융만 현재 편한 후보로 남는다. | [목표가 갭이 크다고 다 편한 자리는 아니다](/ko/post/korea-target-price-gap-comfortable-entry-candidates-2026-06-13/) |
 | 2026-06-13 | 현대건설과 우진의 미국 원전 협상력 | 현대건설은 Fermi AP1000·Holtec SMR-300 실행 병목, 우진은 원전 계측기·ICI 반복 교체수요에 걸린 소형 비대칭 옵션으로 분리한다. | [현대건설과 우진: 미국 원전 확대 흐름 속 비대칭 협상력](/ko/post/hyundai-ec-woojin-us-nuclear-expansion-bargaining-power-2026-06-13/) |
 | 2026-06-13 | 대미투자특별법과 원전 팀코리아 | 3,500억달러 정책자본 이벤트를 원전 밸류체인으로 분해해 두산에너빌리티·현대건설·한전기술 베타와 한전KPS·우리기술·우진·전력기기 후방 알파를 나눈다. | [500조원 대미투자특별법 시행 카운트다운](/ko/post/us-investment-special-act-team-korea-nuclear-opportunity-2026-06-13/) |
@@ -55,6 +56,7 @@ lastmod: 2026-06-13T23:55:00+09:00
 
 ### 정책자본과 이벤트 판독
 
+- [건설사 리레이팅은 오는가: 주택이 아니라 원전·전력·AI 인프라 EPC다](/ko/post/construction-epc-rerating-ai-power-nuclear-datacenter-reconstruction-2026-06-14/)
 - [현대건설과 우진: 미국 원전 확대 흐름 속에서 비대칭 협상력은 있는가](/ko/post/hyundai-ec-woojin-us-nuclear-expansion-bargaining-power-2026-06-13/)
 - [500조원 대미투자특별법 시행 카운트다운: 원전 팀코리아의 기회는?](/ko/post/us-investment-special-act-team-korea-nuclear-opportunity-2026-06-13/)
 
