@@ -421,6 +421,7 @@ html[lang^="zh"] .left-sidebar #main-menu > li[data-menu-section]::before {
 /* Intro "연결 맥락 / context" blockquote: understated editorial further-reading
    note instead of the theme's gray box. Targets only the first-child quote. */
 .article-content > blockquote:first-child {
+  max-width: min(68rem, 100%);
   margin: 0 0 2.4rem;
   padding: 0.15rem 0 0.15rem 1.25rem;
   border-inline-start: 2px solid var(--kii-sage, #2f7d6b);
@@ -429,6 +430,7 @@ html[lang^="zh"] .left-sidebar #main-menu > li[data-menu-section]::before {
   font-size: var(--article-font-size, 1.6rem);
   line-height: 1.65;
   color: var(--card-text-color-secondary);
+  overflow-wrap: break-word;
 }
 
 .article-content > blockquote:first-child p {
