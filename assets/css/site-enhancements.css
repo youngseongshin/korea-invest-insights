@@ -422,12 +422,12 @@ html[lang^="zh"] .left-sidebar #main-menu > li[data-menu-section]::before {
    note instead of the theme's gray box. Targets only the first-child quote. */
 .article-content > blockquote:first-child {
   margin: 0 0 2.4rem;
-  padding: 0.15rem 0 0.15rem 1.15rem;
+  padding: 0.15rem 0 0.15rem 1.25rem;
   border-inline-start: 2px solid var(--kii-sage, #2f7d6b);
   border-radius: 0;
   background: none;
-  font-size: 0.94rem;
-  line-height: 1.7;
+  font-size: var(--article-font-size, 1.6rem);
+  line-height: 1.65;
   color: var(--card-text-color-secondary);
 }
 
