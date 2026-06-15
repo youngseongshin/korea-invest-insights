@@ -5,7 +5,7 @@ date: 2026-05-03T11:00:00+09:00
 aliases: ["/korea-daily/", "/kospi/", "/kosdaq/", "/en/korea-daily/", "/en/page/korea-daily-market-hub/", "/es/page/korea-daily-market-hub/", "/vi/page/korea-daily-market-hub/", "/fr/page/korea-daily-market-hub/", "/ja/page/korea-daily-market-hub/", "/zh/page/korea-daily-market-hub/"]
 layout: "page"
 description: "A hub for Korean stock market daily updates — KOSPI and KOSDAQ market closes, weekly concentrated picks, foreign-investor flows, sector rotation, and what's actually moving in Korean equities each session. Direct answers to 'What is the Korean stock market doing today?' and similar queries."
-lastmod: 2026-06-13T23:20:00+09:00
+lastmod: 2026-06-16T00:22:57+09:00
 ---
 
 ## What This Hub Answers
@@ -14,7 +14,7 @@ Direct, search-engine-friendly answers to the questions global investors ask abo
 
 | Search Question | Quick Answer | Read |
 |---|---|---|
-| What is the Korean stock market doing today? | The most recent Korea Daily Wrap covers the day's regime, sector rotation, foreign flows, and key disclosures. | [Latest Korea Daily Wrap](/post/kr-daily-wrap-2026-06-11/) |
+| What is the Korean stock market doing today? | The most recent Korea Daily Wrap covers the day's regime, sector rotation, foreign flows, and key disclosures. | [Latest Korea Daily Wrap](/post/kr-daily-wrap-2026-06-15/) |
 | What is the nuclear opportunity in Korea's $350bn U.S. investment law? | Nuclear is a credible first-project or core-project candidate, but not yet confirmed. Doosan Enerbility, Hyundai E&C and KEPCO E&C are beta; KEPCO KPS, Woori Technology, Woojin and power-equipment names become follow-on alpha only if announcements include O&M, controls, instrumentation or grid scope. | [Korea's U.S. investment law and Team Korea nuclear](/post/us-investment-special-act-team-korea-nuclear-opportunity-2026-06-13/) |
 | Where is the asymmetry between Hyundai E&C and Woojin in U.S. nuclear expansion? | Hyundai E&C is the direct U.S. execution bottleneck through Fermi AP1000 and Holtec SMR-300. Woojin is the smaller instrumentation option built on Korean ICI/RSPT references. Hyundai needs contract-scope proof; Woojin needs evidence of U.S. AP1000 or SMR adoption. | [Hyundai E&C and Woojin in U.S. nuclear expansion](/post/hyundai-ec-woojin-us-nuclear-expansion-bargaining-power-2026-06-13/) |
 | What has been confirmed halfway through June's event cluster? | This was not easing confirmation. It was a rates, oil and crowded-AI stress test. Jobs, CPI and PPI made it harder for the Fed to talk comfortably about cuts, while Korea was hit by foreign semiconductor selling before the June 12 foreign/institution/program rebound. | [June event cluster midpoint review](/post/june-event-cluster-midpoint-review-rates-oil-ai-stress-test-2026-06-13/) |
@@ -58,7 +58,7 @@ Sequential reading for someone new to Korean equities — what to read in order 
 | Step | Question | Read |
 |---:|---|---|
 | 1 | Why is Korea outperforming in 2026? | [Korea Outperformance 2026: The Structural Re-Rating Backdrop](/post/korea-outperformance-2026-structural-rerating-2026-04-24/) |
-| 2 | What's actually driving the daily tape? | [Latest Korea Daily Wrap](/post/kr-daily-wrap-2026-06-11/) |
+| 2 | What's actually driving the daily tape? | [Latest Korea Daily Wrap](/post/kr-daily-wrap-2026-06-15/) |
 | 3 | Where is the high-conviction concentrated alpha? | [Latest Weekly Concentrated Strategy](/post/kr-concentrated-weekly-2026-04-24/) |
 | 4 | What's the deeper story on the largest names? | [Samsung Electronics Deep Dive](/post/kr-deep-dive-samsung-electronics-2026-04-16/) · [SK hynix Deep Dive](/post/kr-deep-dive-sk-hynix-2026-04-16/) |
 | 5 | Where are the un-priced KOSDAQ corners? | [KOSDAQ Coverage Gaps & Variant Perception](/post/kosdaq-coverage-gaps-variant-perception-2026-04-23/) |
@@ -94,13 +94,13 @@ Sequential reading for someone new to Korean equities — what to read in order 
 
 | Date | Theme | Read |
 |---|---|---|
+| 2026-06-15 | Korea Quality Re-Rating Watch Jun 15 2026: Gigavis & SK Hynix Lead | [Korea Daily Wrap 2026-06-15](/post/kr-daily-wrap-2026-06-15/) |
 | 2026-06-11 | Korea Quality Re-Rating Watch Jun 11: Gigavis, Wonik IPS, Protec | [Korea Daily Wrap 2026-06-11](/post/kr-daily-wrap-2026-06-11/) |
 | 2026-06-10 | Korea Quality Re-Rating Watch 2026-06-10: Gigavis · HD Hyundai · VM | [Korea Daily Wrap 2026-06-10](/post/kr-daily-wrap-2026-06-10/) |
 | 2026-06-09 | Korea Quality Re-Rating Watch 2026-06-09: TES, Hyosung Heavy & Korea Circuit — Institutions Buy the Circuit-Breaker Dip | [Korea Daily Wrap 2026-06-09](/post/kr-daily-wrap-2026-06-09/) |
 | 2026-06-08 | Korea Quality Re-Rating Watch 2026-06-08: Jeju Semi, VM — Smart Money | [Korea Daily Wrap 2026-06-08](/post/kr-daily-wrap-2026-06-08/) |
 | 2026-06-05 | Korea Quality Re-Rating Watch Jun 5: VM, Gigabis and Wonik IPS | [Korea Daily Wrap 2026-06-05](/post/kr-daily-wrap-2026-06-05/) |
 | 2026-06-04 | Korea Quality Re-Rating Watch Jun 4: Gigavis, VM — Equipment Rerates | [Korea Daily Wrap 2026-06-04](/post/kr-daily-wrap-2026-06-04/) |
-| 2026-06-03 | Korea Quality Re-Rating Watch 2026-06-03: VM, SK Square, ISU Petasys — Smart Money Buys While KOSDAQ Slides | [Korea Daily Wrap 2026-06-03](/post/kr-daily-wrap-2026-06-03/) |
 
 For older daily wraps, see [Archives](/page/archives).
 
