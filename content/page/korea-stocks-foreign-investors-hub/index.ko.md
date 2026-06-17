@@ -5,7 +5,7 @@ date: 2026-05-07T00:40:00+09:00
 aliases: ["/ko/korea-stocks/", "/ko/korean-stocks/", "/ko/ibkr-korea-stocks/", "/ko/foreign-investors-korea/", "/ko/page/korea-stocks-foreign-investors-hub/"]
 layout: "page"
 description: "해외 투자자를 위한 한국 주식 허브. IBKR·해외 증권사 한국 주식 접근, KOSPI, KOSDAQ, 삼성전자, SK하이닉스, 한국 금융주, AI 하드웨어, K-뷰티, 일간 시장 브리핑을 한곳에 정리한다."
-lastmod: 2026-06-17T18:00:00+09:00
+lastmod: 2026-06-17T22:25:00+09:00
 ---
 
 ## 한 줄 결론
@@ -32,6 +32,7 @@ lastmod: 2026-06-17T18:00:00+09:00
 | AI 생산성은 FOMC에서 한국장에 비둘기파 재료인가요? | 아직은 아니다. AI 생산성은 장기 옵션이지만, 이번 FOMC에서 더 직접적인 관측값은 데이터센터·전력·반도체 CapEx와 중립금리 상방 리스크다. 한국장에는 달러/원, 미국 2년물, 외국인 반도체 현물 수급으로 번역된다. | [AI는 1996년인가 1999년인가](/ko/post/ai-1996-vs-1999-fomc-hawkish-hold-productivity-capex-2026-06-17/) |
 | 스페이스X IPO는 해외 투자자 관점에서 한국장에 영향을 주나요? | 직접 우주 수혜보다 외국인 funding source와 HBM 수요 검증이 핵심이다. 단기에는 삼성전자·SK하이닉스가 팔릴 수 있고, 중기에는 SpaceX·Starlink·AI compute CapEx가 HBM·전력·네트워크 병목을 다시 검증할 수 있다. | [스페이스X IPO와 한국 증시](/ko/post/spacex-ipo-korea-market-liquidity-ai-space-readthrough-2026-06-05/) |
 | 외국인이 KOSDAQ을 사는데 왜 코스닥은 약한가요? | 외국인 매수는 좁고, 기관 real money는 아직 돌아오지 않았다. KOSDAQ 전체 반등에는 ADR 60 회복, KOSDAQ 1,080~1,100 회복, 투신·사모·연기금 5D 플러스 전환이 필요하다. | [외국인은 사는데 왜 코스닥은 빠졌나](/ko/post/kosdaq-foreign-buying-institution-real-money-adr-2026-06-03/) |
+| 코스닥 프리미엄 70개 리그가 나오면 무엇을 먼저 봐야 하나요? | 공식 명단은 아직 미공개지만, 패시브 수급 이벤트로 연결되면 시총·거래대금·KRX 글로벌 편입·실적·지배구조 요건을 동시에 통과할 코어 후보를 먼저 봐야 한다. | [코스닥 프리미엄 70개 리그](/ko/post/kosdaq-premium-segment-70-core-candidates-passive-flow-2026-06-17/) |
 | 한국에서 기관 순매수는 어떻게 봐야 하나요? | 기관 합계에는 금융투자가 섞여 있다. 해외 투자자가 지속성을 보려면 금투를 제외하고 투신·사모·연기금 등 Real Money를 따로 봐야 한다. | [Real Money 수급 프레임워크](/ko/post/real-money-flow-framework-korea-institution-quality-2026-06-03/) |
 | KOSPI 외국인 지분율은 높은데 삼성전자·SK하이닉스 지분율은 낮다는 건 무슨 뜻인가요? | KOSPI는 평가금액 기준이라 높게 보일 수 있지만, 실제 매도 대상인 삼성전자·SK하이닉스 주식 수 기준 지분율은 이미 연중 최저권이다. 이제는 지분율 레벨보다 5일 평균 순매도 속도가 핵심이다. | [KOSPI 외국인 지분율 vs 삼성전자·SK하이닉스](/ko/post/korea-foreign-ownership-kospi-samsung-hynix-divergence-2026-05-26/) |
 | 해외 투자자가 삼성전자·하이닉스를 다시 봐야 하는 상대가치 신호는 무엇인가요? | 마이크론이 미국 AI 메모리 proxy로 먼저 비싸졌고, 삼성전자·SK하이닉스는 EPS 훼손 없이 상대 P/E가 낮아졌다. AI 칩 바스켓 전체로 봐도 한국 메모리 대형주는 2028E P/E 6배 안팎의 최저 P/E 축이다. | [삼하마 패리티 후속](/ko/post/sam-hama-parity-follow-up-ai-chip-memory-pe-map-2026-06-05/) |
@@ -72,6 +73,7 @@ lastmod: 2026-06-17T18:00:00+09:00
 | 10 | 고용 쇼크 이후 한국장을 broad beta로 사도 되나 | [고용 쇼크와 KOSPI 8,000 관문](/ko/post/us-jobs-rate-hike-shock-kospi-macro-gate-2026-06-06/) |
 | 11 | 미국 5월 CPI에서 한국장에 중요한 Core MoM 임계값은 무엇인가 | [미국 5월 CPI 프리뷰](/ko/post/us-may-2026-cpi-preview-core-mom-trigger-korea-market-2026-06-06/) |
 | 12 | 외국인 매수에도 KOSDAQ이 못 가는 이유는? | [외국인은 사는데 왜 코스닥은 빠졌나](/ko/post/kosdaq-foreign-buying-institution-real-money-adr-2026-06-03/) |
+| 12A | 코스닥 프리미엄 70개 리그가 패시브 수급 이벤트가 되면 어떤 종목을 먼저 봐야 하나 | [코스닥 프리미엄 70개 리그 후보](/ko/post/kosdaq-premium-segment-70-core-candidates-passive-flow-2026-06-17/) |
 | 13 | 기관 순매수 숫자는 어떻게 분해해야 하나 | [Real Money 수급 프레임워크](/ko/post/real-money-flow-framework-korea-institution-quality-2026-06-03/) |
 | 14 | 지수와 평균 종목의 괴리를 ADR로 어떻게 읽나 | [한국 ADR 67과 좁은 주도주 장세](/ko/post/korea-adr-breadth-narrow-leadership-kospi-kosdaq-2026-05-27/) |
 | 15 | 외국인 플레이북에 오른 KOSPI·KOSDAQ 종목은 몇 개인가 | [외국인 플레이북 KOSPI 168·KOSDAQ 355](/ko/post/korea-foreign-playbook-msci-dm-kospi-168-kosdaq-355-2026-05-31/) |

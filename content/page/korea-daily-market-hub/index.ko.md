@@ -5,7 +5,7 @@ date: 2026-05-03T11:00:00+09:00
 aliases: ["/ko/korea-daily/", "/ko/kospi/", "/ko/kosdaq/", "/ko/page/korea-daily-market-hub/"]
 layout: "page"
 description: "한국 주식시장 일일 업데이트 허브 — KOSPI / KOSDAQ 장마감 브리핑, 주간 집중 픽, 외국인·기관 수급, 섹터 로테이션, 그리고 매 세션 한국 주식에서 실제로 무엇이 움직이는지. '오늘 한국 주식시장은 어떤가요?' 같은 질문의 직접 답."
-lastmod: 2026-06-17T18:00:00+09:00
+lastmod: 2026-06-17T22:25:00+09:00
 ---
 
 ## 이 허브가 답하는 질문
@@ -43,6 +43,7 @@ lastmod: 2026-06-17T18:00:00+09:00
 | 외국인 매도 속에서도 삼성전자·하이닉스는 다시 매력적인가요? | 마이크론이 더 빠르게 리레이팅되면서 삼성전자·SK하이닉스의 상대 P/E가 낮아졌다. AI 칩 바스켓 전체로 봐도 두 종목은 2028E P/E 6배 안팎의 최저 P/E 축이다. 관건은 EPS 지속성과 외국인 수급 전환이다. | [삼하마 패리티 후속](/ko/post/sam-hama-parity-follow-up-ai-chip-memory-pe-map-2026-06-05/) · [기존 삼하마 패리티](/ko/post/samsung-hynix-micron-forward-per-parity-memory-catch-up-2026-06-03/) |
 | 외국인 매도 압력은 지분율 기준으로 얼마나 남았나요? | KOSPI 시총가중 외국인 보유비중은 높은 편이지만 삼성전자·SK하이닉스 지분율은 연중 최저권이다. 이제는 지분율 레벨보다 5일 평균 순매도 속도를 봐야 한다. | [KOSPI 외국인 지분율 vs 삼성전자·SK하이닉스](/ko/post/korea-foreign-ownership-kospi-samsung-hynix-divergence-2026-05-26/) |
 | 외국인 플레이북에 올라온 KOSPI·KOSDAQ 종목은 몇 개인가요? | 2026년 YTD 기준 KOSPI는 A+B 168개가 외국인 활동 proxy의 94.4%, KOSDAQ은 A+B 355개가 84.5%를 차지한다. 이제는 순매수보다 플레이북 포함 여부가 먼저다. | [외국인 플레이북 KOSPI 168·KOSDAQ 355](/ko/post/korea-foreign-playbook-msci-dm-kospi-168-kosdaq-355-2026-05-31/) |
+| 코스닥 프리미엄 70개 리그가 나오면 무엇을 먼저 봐야 하나요? | 공식 70개 명단은 아직 미공개지만, KRX 코스닥 글로벌 요건과 시총·거래대금·실적·지배구조 가능성을 조합하면 30개 코어 후보가 좁혀진다. 이벤트 알파는 KRX 글로벌 미편입이지만 대표성이 큰 레인보우로보틱스, 이오테크닉스, 제주반도체, 하나마이크론, 동진쎄미켐, ISC, 유진테크, 서진시스템에서 먼저 확인할 만하다. | [코스닥 프리미엄 70개 리그 후보](/ko/post/kosdaq-premium-segment-70-core-candidates-passive-flow-2026-06-17/) |
 | 외국인이 KOSDAQ을 사는데 왜 지수는 약한가요? | 외국인 매수는 파두·반도체·바이오·기판 일부로 좁고, 투신·사모·연기금성 real money는 아직 매도다. KOSDAQ 반등에는 ADR 60 회복과 real money 5D 플러스 전환이 필요하다. | [외국인은 사는데 왜 코스닥은 빠졌나](/ko/post/kosdaq-foreign-buying-institution-real-money-adr-2026-06-03/) |
 | 기관이 샀다는 말은 어떻게 해석해야 하나요? | 기관 합계에는 금투가 섞여 착시가 크다. 추세 지속성을 보려면 투신·사모·연기금 등 Real Money를 따로 봐야 한다. KOSPI 기관 매수도 최근 20D 기준 대부분 금투였고, KOSDAQ은 외국인 매수에도 Real Money가 빠져 있었다. | [Real Money 수급 프레임워크](/ko/post/real-money-flow-framework-korea-institution-quality-2026-06-03/) |
 | KOSPI는 무엇인가요? | 한국 종합주가지수 — 한국거래소의 대형주 메인 지수(미국의 S&P 500과 유사한 역할). 시총 상위: 삼성전자, SK하이닉스, LG에너지솔루션, 현대차, 삼성바이오로직스. | [삼성전자 KOSPI 비중](/ko/post/samsung-electronics-weight-in-kospi-index-2026/) |
@@ -69,6 +70,7 @@ lastmod: 2026-06-17T18:00:00+09:00
 | 4 | 시총 1, 2위 기업의 깊이 있는 분석은? | [삼성전자 딥다이브](/ko/post/kr-deep-dive-samsung-electronics-2026-04-16/) · [SK하이닉스 딥다이브](/ko/post/kr-deep-dive-sk-hynix-2026-04-16/) |
 | 5 | 가격이 안 붙은 KOSDAQ 코너는? | [KOSDAQ 커버리지 갭 & Variant Perception](/ko/post/kosdaq-coverage-gaps-variant-perception-2026-04-23/) |
 | 6 | 코스닥 정책자금은 어디로 흐르나? | [국민성장펀드와 코스닥 스마트머니](/ko/post/national-growth-fund-kosdaq-smart-money-policy-bottlenecks-2026-05-24/) |
+| 6A | 코스닥 프리미엄 70개 리그 후보는 누구인가? | [코스닥 프리미엄 70개 리그 후보](/ko/post/kosdaq-premium-segment-70-core-candidates-passive-flow-2026-06-17/) |
 | 7 | 한국 시총 세계 6위는 리레이팅인가 과열인가? | [Why Korea 5편: 한국 시총 세계 6위](/ko/post/why-korea-market-cap-global-six-ai-memory-rerating-2026-05-24/) |
 | 8 | 외국인 수급은 한국 이탈인가, 메모리 분배인가? | [한국증시 외국인 수급 분석](/ko/post/korea-foreign-investor-flow-memory-megacap-rotation-2026-05-24/) |
 | 9 | 외국인 지분율 기준으로 매도 압력은 끝났나? | [KOSPI 외국인 지분율 vs 삼성전자·SK하이닉스](/ko/post/korea-foreign-ownership-kospi-samsung-hynix-divergence-2026-05-26/) |
