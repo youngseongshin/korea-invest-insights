@@ -5,7 +5,7 @@ date: 2026-06-13T19:35:00+09:00
 aliases: ["/ko/exclusive-analysis/", "/ko/page/exclusive-analysis-hub/"]
 layout: "page"
 description: "Korea Invest Insights의 자체 데이터 분석 허브. Thesis OS 로컬 DB, Naver ETF 구성 전수 스캔, Real Money 수급, ETF 리밸런싱, 브레드스와 유동성 프레임워크 등 공개 기사 요약이 아니라 직접 계산한 분석 글을 모은다."
-lastmod: 2026-06-16T10:10:00+09:00
+lastmod: 2026-06-17T10:30:00+09:00
 ---
 
 ## 이 허브의 목적
@@ -26,6 +26,7 @@ lastmod: 2026-06-16T10:10:00+09:00
 
 | 날짜 | 주제 | 핵심 결론 | 글 |
 |---|---|---|---|
+| 2026-06-17 | AI 생산성 실증과 거시 확산 | Generative AI at Work의 현장 15% 생산성 개선, FEDS Notes의 채택률, Kansas City Fed의 좁은 생산성 확산, SF Fed의 정책 반응 함수를 연결해 AI capex가 정당화되려면 업무 생산성이 산업 통계로 확산되어야 한다고 정리한다. | [AI 생산성은 실제인가](/ko/post/ai-productivity-real-evidence-generative-ai-at-work-fed-2026-06-17/) |
 | 2026-06-16 | Rheinmetall-LIG 유럽/NATO 방공 채널 | 유럽은 다층 방공망과 현지 생산능력을 동시에 다시 만들어야 하고, Rheinmetall 과반 JV와 LIG MRAD/LRAD 현지화 구조는 한국 방공 미사일을 유럽 조달 언어로 제안할 수 있는 공식 통로다. | [Rheinmetall과 LIG](/ko/post/rheinmetall-lig-europe-nato-air-defense-channel-2026-06-16/) |
 | 2026-06-14 | 건설사 리레이팅과 인프라 EPC 재분류 | 건설주 전체가 아니라 현대건설·DL이앤씨·삼성물산·삼성E&A처럼 원전·AI 전력·데이터센터·에너지 EPC로 다시 읽히는 일부 종목만 리레이팅 가능하다. | [건설사 리레이팅은 오는가](/ko/post/construction-epc-rerating-ai-power-nuclear-datacenter-reconstruction-2026-06-14/) |
 | 2026-06-13 | 목표가 갭과 편한 진입 후보 | 목표가 갭이 큰 종목을 그대로 사지 않고, 목표가 상향·smart money·20/50일선까지 결합하면 KB금융·하나금융만 현재 편한 후보로 남는다. | [목표가 갭이 크다고 다 편한 자리는 아니다](/ko/post/korea-target-price-gap-comfortable-entry-candidates-2026-06-13/) |
@@ -68,6 +69,7 @@ lastmod: 2026-06-16T10:10:00+09:00
 - [삼하마 패리티 후속: 마이크론 프리미엄은 맞지만 한국 메모리 할인은 과도하다](/ko/post/sam-hama-parity-follow-up-ai-chip-memory-pe-map-2026-06-05/)
 - [삼성전자에 PER 15배가 가능한가: 메모리 사이클주에서 AI 통합 플랫폼으로의 재분류 가능성](/ko/post/samsung-electronics-tsmc-rerating-thesis-2026-05-16/)
 - [AI 슈퍼사이클은 왜 더 길어지는가: 에이전트 수요, IPO 자금, 그리고 가장 싸게 남은 메모리·스토리지](/ko/post/ai-supercycle-extension-agent-demand-ipo-funding-memory-storage-2026-06-12/)
+- [AI 생산성은 실제인가: 현장 15% 개선과 거시 확산 사이](/ko/post/ai-productivity-real-evidence-generative-ai-at-work-fed-2026-06-17/)
 
 ### 수급의 질
 

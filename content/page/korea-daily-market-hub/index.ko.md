@@ -5,7 +5,7 @@ date: 2026-05-03T11:00:00+09:00
 aliases: ["/ko/korea-daily/", "/ko/kospi/", "/ko/kosdaq/", "/ko/page/korea-daily-market-hub/"]
 layout: "page"
 description: "한국 주식시장 일일 업데이트 허브 — KOSPI / KOSDAQ 장마감 브리핑, 주간 집중 픽, 외국인·기관 수급, 섹터 로테이션, 그리고 매 세션 한국 주식에서 실제로 무엇이 움직이는지. '오늘 한국 주식시장은 어떤가요?' 같은 질문의 직접 답."
-lastmod: 2026-06-16T10:10:00+09:00
+lastmod: 2026-06-17T10:30:00+09:00
 ---
 
 ## 이 허브가 답하는 질문
@@ -16,6 +16,7 @@ lastmod: 2026-06-16T10:10:00+09:00
 |---|---|---|
 | 오늘 한국 주식시장은 어떤가요? | 가장 최근 Korea Daily Wrap이 그날의 시장 국면, 섹터 로테이션, 외국인 수급, 핵심 공시를 정리합니다. | [최근 데일리 랩](/ko/post/kr-daily-wrap-2026-06-11/) |
 | Rheinmetall-LIG 파트너십은 왜 중요한가요? | 유럽은 우크라이나 이후 드론·순항미사일·탄도미사일을 함께 막는 다층 방공망과 현지 생산능력을 다시 만들어야 한다. Rheinmetall 과반 JV와 LIG MRAD/LRAD 현지화 구조는 한국 방공 미사일을 유럽/NATO 조달 언어로 제안할 수 있는 통로를 공식화한 것이다. | [Rheinmetall과 LIG: 유럽/NATO 방공망 채널](/ko/post/rheinmetall-lig-europe-nato-air-defense-channel-2026-06-16/) |
+| AI 생산성은 실제로 확인됐나요? | 현장에서는 이미 확인되고 있다. Generative AI at Work는 고객지원 상담원 5,172명 기준 생산성 +15%를 보고했고, Fed FEDS Notes는 업무 관련 GenAI 사용률 41%와 고용가중 AI 채택 78%를 제시한다. 다만 Kansas City Fed 기준 거시 생산성 개선은 아직 좁아, AI capex의 정당화는 산업별 확산을 봐야 한다. | [AI 생산성은 실제인가](/ko/post/ai-productivity-real-evidence-generative-ai-at-work-fed-2026-06-17/) |
 | 건설사 리레이팅은 정말 오나요? | 건설업종 전체 리레이팅이 아니라 원전·SMR, AI 데이터센터 전력, 에너지 EPC, 재건 EPC로 재분류되는 일부 건설사 리레이팅이다. 현대건설은 직접성, DL이앤씨는 비대칭, 삼성물산은 퀄리티, 삼성E&A는 에너지 EPC 옵션으로 나눠 봐야 한다. | [건설사 리레이팅은 오는가](/ko/post/construction-epc-rerating-ai-power-nuclear-datacenter-reconstruction-2026-06-14/) |
 | 500조원 규모 대미투자특별법에서 원전 팀코리아 기회는 어디인가요? | 3,500억달러 대미 전략투자 구조에서 원전은 1호 또는 핵심 후보로 부상했지만 아직 확정은 아니다. 두산에너빌리티·현대건설·한전기술은 베타, 한전KPS·우리기술·우진·전력기기는 발표문에 O&M·제어·계측·전력계통 역할이 들어갈 때 후방 알파다. | [대미투자특별법과 원전 팀코리아](/ko/post/us-investment-special-act-team-korea-nuclear-opportunity-2026-06-13/) |
 | 현대건설과 우진은 미국 원전 확대에서 어떤 협상력이 있나요? | 현대건설은 Fermi AP1000과 Holtec SMR-300에서 미국 원전 실행 병목에 걸린 직접 노출주이고, 우진은 한국형 원전 계측기·ICI 반복 교체수요와 미국 옵션을 가진 소형 비대칭 후보다. 현대건설은 계약구조, 우진은 AP1000 직접 채택 여부가 핵심 확인 지점이다. | [현대건설과 우진: 미국 원전 확대 흐름 속 협상력](/ko/post/hyundai-ec-woojin-us-nuclear-expansion-bargaining-power-2026-06-13/) |
@@ -84,6 +85,7 @@ lastmod: 2026-06-16T10:10:00+09:00
 | 13 | 외국인 매수에도 KOSDAQ이 못 가는 이유는? | [외국인은 사는데 왜 코스닥은 빠졌나](/ko/post/kosdaq-foreign-buying-institution-real-money-adr-2026-06-03/) |
 | 14 | 기관 순매수 숫자는 어떻게 분해해야 하나? | [Real Money 수급 프레임워크](/ko/post/real-money-flow-framework-korea-institution-quality-2026-06-03/) |
 | 15 | AI 데이터센터 CapEx 5.3조 달러는 한국의 어떤 병목으로 내려오나? | [AI 데이터센터 CapEx 5.3조 달러 시대](/ko/post/ai-datacenter-capex-5p3t-korea-power-substrate-storage-bottleneck-2026-06-05/) |
+| 15+ | AI 생산성은 실제로 관찰되고, AI CapEx를 정당화할 만큼 확산되고 있나? | [AI 생산성은 실제인가: 현장 15% 개선과 거시 확산 사이](/ko/post/ai-productivity-real-evidence-generative-ai-at-work-fed-2026-06-17/) |
 | 16 | 젠슨 황의 HBM4 3사 검증 통과 발언은 메모리 대형주와 장비주를 어떻게 재분류하나? | [젠슨 황의 큰 발언과 HBM4 3사 검증 통과](/ko/post/jensen-huang-hbm4-three-vendors-qualified-market-missed-2026-06-05/) |
 | 17 | 외국인 매도 속에서도 삼성전자·하이닉스는 상대가치가 열렸나? | [삼하마 패리티 후속: 마이크론 프리미엄은 맞지만 한국 메모리 할인은 과도하다](/ko/post/sam-hama-parity-follow-up-ai-chip-memory-pe-map-2026-06-05/) |
 | 18 | 스페이스X 상장은 한국의 AI·우주·HBM 수급에 어떤 영향을 주나? | [스페이스X IPO와 한국 증시](/ko/post/spacex-ipo-korea-market-liquidity-ai-space-readthrough-2026-06-05/) |
@@ -153,6 +155,7 @@ lastmod: 2026-06-16T10:10:00+09:00
 | KOSDAQ 수급 / 기관 real money 복귀 조건 | [외국인은 사는데 왜 코스닥은 빠졌나](/ko/post/kosdaq-foreign-buying-institution-real-money-adr-2026-06-03/) |
 | Real Money 수급 / 기관의 질 | [Real Money 수급 프레임워크](/ko/post/real-money-flow-framework-korea-institution-quality-2026-06-03/) |
 | AI 데이터센터 CapEx / 전력·기판·스토리지 병목 | [AI 데이터센터 CapEx 5.3조 달러 시대](/ko/post/ai-datacenter-capex-5p3t-korea-power-substrate-storage-bottleneck-2026-06-05/) |
+| AI 생산성 / 업무 채택률 / Fed 생산성 프레임 | [AI 생산성은 실제인가: 현장 15% 개선과 거시 확산 사이](/ko/post/ai-productivity-real-evidence-generative-ai-at-work-fed-2026-06-17/) |
 | 외국인 지분율 / KOSPI 수급 진정 조건 | [KOSPI 외국인 지분율 vs 삼성전자·SK하이닉스](/ko/post/korea-foreign-ownership-kospi-samsung-hynix-divergence-2026-05-26/) |
 | 외국인 플레이북 / MSCI DM 편입 옵션 | [외국인 플레이북 KOSPI 168·KOSDAQ 355](/ko/post/korea-foreign-playbook-msci-dm-kospi-168-kosdaq-355-2026-05-31/) |
 | ADR / 시장 브레드스 / 좁은 주도주 장세 | [한국 ADR 67과 KOSPI·KOSDAQ 브레드스 분석](/ko/post/korea-adr-breadth-narrow-leadership-kospi-kosdaq-2026-05-27/) |
