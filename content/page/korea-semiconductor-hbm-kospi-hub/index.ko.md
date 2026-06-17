@@ -5,7 +5,7 @@ date: 2026-04-30T23:05:00+09:00
 aliases: ["/ko/hbm/", "/ko/semiconductor/", "/ko/samsung-hynix/", "/ko/kospi-hbm/", "/ko/page/hbm/"]
 layout: "page"
 description: "AI HBM 허브. 삼성전자, SK하이닉스, HBM, AI 메모리, 코스피 지수 쏠림과 한국 반도체 투자 논거를 한곳에 모은 리서치 허브. HBM 시장점유율, 삼성전자 코스피 비중, KOSPI 리레이팅, AI 서버 수요를 순서대로 정리한다."
-lastmod: 2026-06-17T10:30:00+09:00
+lastmod: 2026-06-17T18:00:00+09:00
 ---
 
 ## 한 줄 결론
@@ -43,6 +43,7 @@ lastmod: 2026-06-17T10:30:00+09:00
 | 브로드컴이 2027년 AI 반도체 1,000억 달러 초과를 재확인한 것은 HBM에 어떤 의미인가 | AI ASIC 수요 둔화가 아니라 고객 기반 확장 신호다. Broadcom XPU, Google TPU, OpenAI accelerator, Meta·Anthropic compute가 커지면 HBM 수요는 엔비디아 GPU 단일축을 넘어선다. 다만 한국에서는 삼성전자 catch-up과 SK하이닉스 가격 규율을 나눠 봐야 한다. | [브로드컴 2027년 AI 반도체 1,000억 달러 재확인](/ko/post/broadcom-ai-semiconductor-100b-2027-korea-value-chain-2026-06-05/) |
 | AI 데이터센터 CapEx 5.3조 달러는 HBM 외 무엇을 키우나 | HBM은 본류지만 CapEx가 인프라 자산군으로 커지면 전력기기, FC-BGA·Si-Cap, 고다층 PCB, 광통신, eSSD까지 병목이 넓어진다. 한국에서는 메모리 본주와 하부 병목의 멀티플을 분리해야 한다. | [AI 데이터센터 CapEx 5.3조 달러 시대](/ko/post/ai-datacenter-capex-5p3t-korea-power-substrate-storage-bottleneck-2026-06-05/) |
 | AI 생산성은 HBM·AI 인프라 사이클을 정당화하나 | 현장 업무 생산성 개선과 AI 채택률은 AI capex를 정당화하는 근거지만, 거시 생산성 확산은 아직 좁다. HBM·서버 DRAM·eSSD 수요 지속성은 업무 AI가 금융·전문서비스에서 제조·헬스케어로 확산되는지 확인해야 한다. | [AI 생산성은 실제인가](/ko/post/ai-productivity-real-evidence-generative-ai-at-work-fed-2026-06-17/) |
+| AI 생산성 논쟁은 HBM·AI 인프라 멀티플에 어떤 금리 함의를 주나 | AI가 1996년형 생산성 디스인플레로 확인되면 멀티플에 우호적이지만, 현재 FOMC가 보는 관측값은 데이터센터·전력·반도체 CapEx가 먼저 움직이는 1999년형 투자 사이클에 가깝다. | [AI는 1996년인가 1999년인가](/ko/post/ai-1996-vs-1999-fomc-hawkish-hold-productivity-capex-2026-06-17/) |
 | 금리 상승은 HBM·AI 메모리 사이클을 이미 꺾었나 | 아직 아니다. 관찰된 것은 수요 붕괴가 아니라 금리·자본비용·데이터센터 금융구조가 AI 인프라 멀티플의 상단을 누르는 노란불이다. 메모리 본주는 HBM 가격, EPS 지속성, 고객 재고, capex 하향 여부를 봐야 한다. | [중반을 넘어선 AI 슈퍼사이클](/ko/post/ai-supercycle-midgame-rate-risk-yellow-not-red-2026-06-06/) |
 | NVIDIA GTC 2026 이후 LPX·CMX는 HBM에 부정적인가 | 아니다. LPX는 SRAM 기반 저지연 decode tier, Rubin GPU/HBM은 prefill·attention·verification·large-memory tier, CMX/STX는 KV-cache storage tier다. HBM 대체가 아니라 추론 memory hierarchy 확장이다. | [NVIDIA Vera Rubin 추론 스택: LPX·CMX](/ko/post/nvidia-vera-rubin-lpx-cmx-inference-stack-samsung-hbm-2026-05-28/) |
 | 같은 AI 인프라 사이클인데 왜 삼성전자는 싸고 삼성전기는 비싸 보이나 | 멀티플은 AI 노출도가 아니라 이익 지속기간, 가격 결정권, 고객 lock-in, capex 부담, 피크이익 의심의 함수다. 삼성전자는 HBM catch-up과 memory hierarchy option을 낮은 멀티플에 보유하지만, 삼성전기는 MLCC·FC-BGA·Si-Cap thesis가 이미 높은 가격에 반영됐다. | [AI 인프라 멀티플 지도](/ko/post/ai-infrastructure-multiple-map-gpu-hbm-mlcc-fcbga-samsung-2026-05-31/) |
@@ -64,6 +65,7 @@ lastmod: 2026-06-17T10:30:00+09:00
 
 | 날짜 | 주제 | 자세히 보기 |
 |---|---|---|
+| 2026-06-17 | <strong>AI는 1996년인가 1999년인가</strong> — AI 생산성은 장기 옵션이지만 이번 FOMC가 당장 다루는 관측 가능한 충격은 데이터센터·전력·반도체 CapEx와 중립금리 상방 리스크라는 점을 정리 | [AI는 1996년인가 1999년인가](/ko/post/ai-1996-vs-1999-fomc-hawkish-hold-productivity-capex-2026-06-17/) |
 | 2026-06-17 | <strong>AI 생산성은 실제인가</strong> — Brynjolfsson·Li·Raymond의 현장 실증, FEDS Notes의 채택률, Kansas City Fed의 산업별 생산성, SF Fed의 정책 프레임을 연결해 AI capex 정당화의 핵심은 모델 성능이 아니라 업무 생산성이 산업별 통계로 확산되는지라고 정리 | [AI 생산성은 실제인가](/ko/post/ai-productivity-real-evidence-generative-ai-at-work-fed-2026-06-17/) |
 | 2026-06-12 | <strong>AI 슈퍼사이클은 왜 더 길어지는가 — 에이전트 수요·IPO 자금·메모리/스토리지</strong> — 에이전트발 토큰 수요 폭증 → 빅테크 자금조달 확대 → 스페이스X·앤트로픽 IPO 공모 자금 공급으로 사이클 연료가 릴레이되며 수명이 길어진다. 노무라의 삼성전자 59만원·SK하이닉스 500만원 목표가를 이정표로, 가장 강력하면서 가장 싸게 남은 자산은 상대 PER 0.80-0.82배의 메모리와 재분류 초기의 스토리지라는 종합 결론 | [AI 슈퍼사이클 장기화와 메모리·스토리지](/ko/post/ai-supercycle-extension-agent-demand-ipo-funding-memory-storage-2026-06-12/) |
 | 2026-06-12 | <strong>테마 ETF 리밸런싱 수급</strong> — KR Theme ETF Rebalance Flow v1 첫 실행 결과 ETF 31개, 유효 30개, 구성종목 291개에서 후보 69개가 포착됐고, 6월 12일 기준 원전/SMR보다 반도체 소부장 ETF cap 재배분 신호가 더 강했다는 점을 정리. 리노공업·이오테크닉스·솔브레인·DB하이텍·한미반도체는 buy pressure, SK하이닉스·삼성전기·LS ELECTRIC은 cap trim watch로 분류 | [테마 ETF 리밸런싱 수급](/ko/post/kr-theme-etf-rebalance-flow-semicap-cap-trim-2026-06-12/) |
@@ -153,6 +155,7 @@ lastmod: 2026-06-17T10:30:00+09:00
 - [삼성전자·SK하이닉스 90.8% 쏠림: 반도체 ETF 수급은 어디가 더 민감한가](/ko/post/korea-semiconductor-etf-exposure-marketcap-gap-strategy-2026-06-13/)
 - [반도체 Top50에서 삼성전자·SK하이닉스를 2개월 이길 후보는 어디인가](/ko/post/korea-semiconductor-top50-two-month-alpha-candidates-samsung-hynix-2026-06-13/)
 - [중반을 넘어선 AI 슈퍼사이클: 금리 영향은 커졌지만 아직 빨간불은 없다](/ko/post/ai-supercycle-midgame-rate-risk-yellow-not-red-2026-06-06/)
+- [AI는 1996년인가 1999년인가: 이번 FOMC와 그 이후](/ko/post/ai-1996-vs-1999-fomc-hawkish-hold-productivity-capex-2026-06-17/)
 - [한미반도체 IR 공시: 수주가 아니라 TC본더 TAM 확장 신호](/ko/post/hanmi-semiconductor-ir-tc-bonder-tam-expansion-watchlist-2026-06-02/)
 - [삼하마 패리티: 삼성전자·하이닉스가 마이크론보다 다시 싸진 구간](/ko/post/samsung-hynix-micron-forward-per-parity-memory-catch-up-2026-06-03/)
 - [파두가 증명해야 할 단가·물량·새 시장: 메모리보다 좋은 AI 인프라 병목이 될 수 있을까](/ko/post/fadu-ai-infra-storage-bottleneck-p-q-new-segment-2026-06-02/)

@@ -5,7 +5,7 @@ date: 2026-05-07T00:40:00+09:00
 aliases: ["/ko/korea-stocks/", "/ko/korean-stocks/", "/ko/ibkr-korea-stocks/", "/ko/foreign-investors-korea/", "/ko/page/korea-stocks-foreign-investors-hub/"]
 layout: "page"
 description: "해외 투자자를 위한 한국 주식 허브. IBKR·해외 증권사 한국 주식 접근, KOSPI, KOSDAQ, 삼성전자, SK하이닉스, 한국 금융주, AI 하드웨어, K-뷰티, 일간 시장 브리핑을 한곳에 정리한다."
-lastmod: 2026-06-13T11:30:00+09:00
+lastmod: 2026-06-17T18:00:00+09:00
 ---
 
 ## 한 줄 결론
@@ -29,6 +29,7 @@ lastmod: 2026-06-13T11:30:00+09:00
 | 강한 미국 고용 이후 한국을 broad beta로 사도 되나요? | 아직 아니다. 6월 5일 고용 쇼크는 5월 금리 쇼크의 하드데이터 버전에 가깝다. KOSPI 8,000, 7,770~7,820, 미국 10년물 4.5%, 외국인 선물, 삼성전자·SK하이닉스 상대강도 확인이 먼저다. | [고용 쇼크와 KOSPI 8,000 관문](/ko/post/us-jobs-rate-hike-shock-kospi-macro-gate-2026-06-06/) |
 | 해외 투자자가 미국 5월 CPI에서 봐야 할 숫자는 무엇인가요? | 헤드라인보다 Core CPI MoM이다. 확률가중 중심값은 +0.26%, +0.30% 이하 확률은 75%, +0.35% 이상 확률은 13%다. 한국장에서는 이 숫자가 원화, 외국인 선물, 반도체·인터넷·2차전지 멀티플을 동시에 움직인다. | [미국 5월 CPI 프리뷰](/ko/post/us-may-2026-cpi-preview-core-mom-trigger-korea-market-2026-06-06/) |
 | 해외 투자자는 AI 슈퍼사이클을 금리 리스크로 봐야 하나요? | 예, 하지만 아직 빨간불은 아니다. AI 수요 붕괴보다 금리·자본비용·데이터센터 금융구조가 AI 인프라 멀티플 상단을 누르는 노란불로 보는 편이 정확하다. | [중반을 넘어선 AI 슈퍼사이클](/ko/post/ai-supercycle-midgame-rate-risk-yellow-not-red-2026-06-06/) |
+| AI 생산성은 FOMC에서 한국장에 비둘기파 재료인가요? | 아직은 아니다. AI 생산성은 장기 옵션이지만, 이번 FOMC에서 더 직접적인 관측값은 데이터센터·전력·반도체 CapEx와 중립금리 상방 리스크다. 한국장에는 달러/원, 미국 2년물, 외국인 반도체 현물 수급으로 번역된다. | [AI는 1996년인가 1999년인가](/ko/post/ai-1996-vs-1999-fomc-hawkish-hold-productivity-capex-2026-06-17/) |
 | 스페이스X IPO는 해외 투자자 관점에서 한국장에 영향을 주나요? | 직접 우주 수혜보다 외국인 funding source와 HBM 수요 검증이 핵심이다. 단기에는 삼성전자·SK하이닉스가 팔릴 수 있고, 중기에는 SpaceX·Starlink·AI compute CapEx가 HBM·전력·네트워크 병목을 다시 검증할 수 있다. | [스페이스X IPO와 한국 증시](/ko/post/spacex-ipo-korea-market-liquidity-ai-space-readthrough-2026-06-05/) |
 | 외국인이 KOSDAQ을 사는데 왜 코스닥은 약한가요? | 외국인 매수는 좁고, 기관 real money는 아직 돌아오지 않았다. KOSDAQ 전체 반등에는 ADR 60 회복, KOSDAQ 1,080~1,100 회복, 투신·사모·연기금 5D 플러스 전환이 필요하다. | [외국인은 사는데 왜 코스닥은 빠졌나](/ko/post/kosdaq-foreign-buying-institution-real-money-adr-2026-06-03/) |
 | 한국에서 기관 순매수는 어떻게 봐야 하나요? | 기관 합계에는 금융투자가 섞여 있다. 해외 투자자가 지속성을 보려면 금투를 제외하고 투신·사모·연기금 등 Real Money를 따로 봐야 한다. | [Real Money 수급 프레임워크](/ko/post/real-money-flow-framework-korea-institution-quality-2026-06-03/) |
@@ -76,6 +77,7 @@ lastmod: 2026-06-13T11:30:00+09:00
 | 15 | 외국인 플레이북에 오른 KOSPI·KOSDAQ 종목은 몇 개인가 | [외국인 플레이북 KOSPI 168·KOSDAQ 355](/ko/post/korea-foreign-playbook-msci-dm-kospi-168-kosdaq-355-2026-05-31/) |
 | 16 | 삼성전자, SK하이닉스, HBM은 어떻게 봐야 하나 | [삼성전자·SK하이닉스·HBM 허브](/ko/page/korea-semiconductor-hbm-kospi-hub/) |
 | 17 | 삼성전자·하이닉스가 마이크론 대비 다시 싸진 구간인가 | [삼하마 패리티 후속: 마이크론 프리미엄은 맞지만 한국 메모리 할인은 과도하다](/ko/post/sam-hama-parity-follow-up-ai-chip-memory-pe-map-2026-06-05/) |
+| 17+ | AI 생산성 논쟁은 FOMC와 한국 AI 인프라 멀티플에 어떤 영향을 주나 | [AI는 1996년인가 1999년인가](/ko/post/ai-1996-vs-1999-fomc-hawkish-hold-productivity-capex-2026-06-17/) |
 | 18 | AI 데이터센터 CapEx 5.3조 달러는 전력·기판·스토리지 병목으로 어떻게 번역되나 | [AI 데이터센터 CapEx 5.3조 달러 시대](/ko/post/ai-datacenter-capex-5p3t-korea-power-substrate-storage-bottleneck-2026-06-05/) |
 | 19 | 스페이스X IPO는 한국 AI·우주·HBM 수급에 어떤 영향을 주나 | [스페이스X IPO와 한국 증시](/ko/post/spacex-ipo-korea-market-liquidity-ai-space-readthrough-2026-06-05/) |
 | 20 | 중국·홍콩 AI 과열이 한국으로 전이되면 어떤 상장 proxy를 봐야 하나 | [중국과 홍콩의 AI 과열이 한국에 전이될 수 있을까](/ko/post/china-hong-kong-ai-overheat-korea-ai-cloud-llm-proxy-2026-05-31/) |
