@@ -5,7 +5,7 @@ date: 2026-05-07T00:40:00+09:00
 aliases: ["/ko/korea-stocks/", "/ko/korean-stocks/", "/ko/ibkr-korea-stocks/", "/ko/foreign-investors-korea/", "/ko/page/korea-stocks-foreign-investors-hub/"]
 layout: "page"
 description: "해외 투자자를 위한 한국 주식 허브. IBKR·해외 증권사 한국 주식 접근, KOSPI, KOSDAQ, 삼성전자, SK하이닉스, 한국 금융주, AI 하드웨어, K-뷰티, 일간 시장 브리핑을 한곳에 정리한다."
-lastmod: 2026-06-17T22:25:00+09:00
+lastmod: 2026-06-18T22:40:00+09:00
 ---
 
 ## 한 줄 결론
@@ -36,6 +36,7 @@ lastmod: 2026-06-17T22:25:00+09:00
 | 한국에서 기관 순매수는 어떻게 봐야 하나요? | 기관 합계에는 금융투자가 섞여 있다. 해외 투자자가 지속성을 보려면 금투를 제외하고 투신·사모·연기금 등 Real Money를 따로 봐야 한다. | [Real Money 수급 프레임워크](/ko/post/real-money-flow-framework-korea-institution-quality-2026-06-03/) |
 | KOSPI 외국인 지분율은 높은데 삼성전자·SK하이닉스 지분율은 낮다는 건 무슨 뜻인가요? | KOSPI는 평가금액 기준이라 높게 보일 수 있지만, 실제 매도 대상인 삼성전자·SK하이닉스 주식 수 기준 지분율은 이미 연중 최저권이다. 이제는 지분율 레벨보다 5일 평균 순매도 속도가 핵심이다. | [KOSPI 외국인 지분율 vs 삼성전자·SK하이닉스](/ko/post/korea-foreign-ownership-kospi-samsung-hynix-divergence-2026-05-26/) |
 | 해외 투자자가 삼성전자·하이닉스를 다시 봐야 하는 상대가치 신호는 무엇인가요? | 마이크론이 미국 AI 메모리 proxy로 먼저 비싸졌고, 삼성전자·SK하이닉스는 EPS 훼손 없이 상대 P/E가 낮아졌다. AI 칩 바스켓 전체로 봐도 한국 메모리 대형주는 2028E P/E 6배 안팎의 최저 P/E 축이다. | [삼하마 패리티 후속](/ko/post/sam-hama-parity-follow-up-ai-chip-memory-pe-map-2026-06-05/) |
+| HBM4E 12단 경쟁에서 삼성전자와 SK하이닉스 중 누구를 먼저 봐야 하나요? | 삼성전자는 HBM4E 샘플 선행과 1c DRAM·4nm 베이스 다이 통합 스토리가 강해졌고, SK하이닉스는 HBM 점유율과 NVIDIA 장기 파트너십이 강하다. 해외 투자자는 2026년 3Q~4Q 고객 퀄·양산 출하·2027년 물량 배정 코멘트를 먼저 확인해야 한다. | [HBM4E 12단 경쟁](/ko/post/samsung-sk-hynix-hbm4e-12h-sample-allocation-battle-2026-06-18/) |
 | AI 데이터센터 CapEx 확대는 해외 투자자에게 어떤 한국 주식 지도를 만드나요? | Goldman 5.3조 달러 CapEx 프레임과 Alphabet 2026~2027년 기술 인프라 투자 확대는 한국에서 GPU보다 전력기기, 삼성전기, 고다층 PCB, 광통신, eSSD 병목으로 번역된다. | [AI 데이터센터 CapEx 5.3조 달러 시대](/ko/post/ai-datacenter-capex-5p3t-korea-power-substrate-storage-bottleneck-2026-06-05/) |
 | 해외 long-only가 실제로 볼 수 있는 한국 종목은 몇 개인가요? | 2026년 YTD 외국인 활동 proxy 기준 KOSPI는 168개, KOSDAQ은 355개가 실질 거래대상이다. MSCI DM 편입 수혜도 시장 전체보다 이 플레이북 종목으로 먼저 압축될 가능성이 높다. | [외국인 플레이북 KOSPI 168·KOSDAQ 355](/ko/post/korea-foreign-playbook-msci-dm-kospi-168-kosdaq-355-2026-05-31/) |
 | KOSPI와 KOSDAQ이 모두 오르는 장인가요? | 아니다. 2026년 6월 2일 기준 전체 20일 ADR은 48.4까지 내려왔다. 해외 투자자는 지수 방향보다 외국인 재배치 종목, ADR 회복, 주도주 눌림을 봐야 한다. | [유동성은 많은데 시장 폭은 무너졌다](/ko/post/korea-market-liquidity-foreign-reallocation-adr-narrow-leadership-2026-06-03/) · [한국 ADR 67과 좁은 주도주 장세](/ko/post/korea-adr-breadth-narrow-leadership-kospi-kosdaq-2026-05-27/) |
@@ -78,6 +79,7 @@ lastmod: 2026-06-17T22:25:00+09:00
 | 14 | 지수와 평균 종목의 괴리를 ADR로 어떻게 읽나 | [한국 ADR 67과 좁은 주도주 장세](/ko/post/korea-adr-breadth-narrow-leadership-kospi-kosdaq-2026-05-27/) |
 | 15 | 외국인 플레이북에 오른 KOSPI·KOSDAQ 종목은 몇 개인가 | [외국인 플레이북 KOSPI 168·KOSDAQ 355](/ko/post/korea-foreign-playbook-msci-dm-kospi-168-kosdaq-355-2026-05-31/) |
 | 16 | 삼성전자, SK하이닉스, HBM은 어떻게 봐야 하나 | [삼성전자·SK하이닉스·HBM 허브](/ko/page/korea-semiconductor-hbm-kospi-hub/) |
+| 16A | HBM4E 12단 경쟁에서 삼성전자와 SK하이닉스의 판세는 어떻게 갈라지나 | [HBM4E 12단 경쟁: 삼성의 기술 재진입과 하이닉스의 공급 지배력](/ko/post/samsung-sk-hynix-hbm4e-12h-sample-allocation-battle-2026-06-18/) |
 | 17 | 삼성전자·하이닉스가 마이크론 대비 다시 싸진 구간인가 | [삼하마 패리티 후속: 마이크론 프리미엄은 맞지만 한국 메모리 할인은 과도하다](/ko/post/sam-hama-parity-follow-up-ai-chip-memory-pe-map-2026-06-05/) |
 | 17+ | AI 생산성 논쟁은 FOMC와 한국 AI 인프라 멀티플에 어떤 영향을 주나 | [AI는 1996년인가 1999년인가](/ko/post/ai-1996-vs-1999-fomc-hawkish-hold-productivity-capex-2026-06-17/) |
 | 18 | AI 데이터센터 CapEx 5.3조 달러는 전력·기판·스토리지 병목으로 어떻게 번역되나 | [AI 데이터센터 CapEx 5.3조 달러 시대](/ko/post/ai-datacenter-capex-5p3t-korea-power-substrate-storage-bottleneck-2026-06-05/) |

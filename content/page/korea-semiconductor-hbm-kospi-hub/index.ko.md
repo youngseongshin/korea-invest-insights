@@ -5,7 +5,7 @@ date: 2026-04-30T23:05:00+09:00
 aliases: ["/ko/hbm/", "/ko/semiconductor/", "/ko/samsung-hynix/", "/ko/kospi-hbm/", "/ko/page/hbm/"]
 layout: "page"
 description: "AI HBM 허브. 삼성전자, SK하이닉스, HBM, AI 메모리, 코스피 지수 쏠림과 한국 반도체 투자 논거를 한곳에 모은 리서치 허브. HBM 시장점유율, 삼성전자 코스피 비중, KOSPI 리레이팅, AI 서버 수요를 순서대로 정리한다."
-lastmod: 2026-06-17T18:00:00+09:00
+lastmod: 2026-06-18T22:40:00+09:00
 ---
 
 ## 한 줄 결론
@@ -24,6 +24,7 @@ lastmod: 2026-06-17T18:00:00+09:00
 | 삼성물산은 삼성전자 후행 proxy로 볼 수 있나 | 가능하지만 고베타 대체재는 아니다. 2026년 6월 1일 기준 삼성물산의 삼성전자 지분가치 상승분 반영률은 51.7%, YTD 삼성전자 대비 베타는 0.83이며, 60% 반영률 회복 시 약 489,000원 gap trade가 가능하다. | [삼성물산 삼성전자 proxy / NAV gap trade](/ko/post/samsung-ct-samsung-electronics-proxy-nav-gap-trade-2026-06-01/) |
 | SK하이닉스 PER이 삼성전자보다 높아진 것은 뉴노멀인가 | 2026E 연간 PER 역전은 이례적이지만 HBM 병목 프리미엄으로 설명 가능하다. 다만 12MF 기준은 parity 접근에 가깝고, 지금 상대가치 알파는 SK하이닉스 추격보다 삼성전자 HBM4E catch-up trade다. | [삼성전자 vs SK하이닉스 Forward PER 역전](/ko/post/samsung-sk-hynix-forward-per-inversion-hbm-catchup-2026-05-31/) |
 | 삼성전자 HBM4E 12단 샘플 출하는 무엇을 의미하나 | 샘플 출하는 HBM catch-up의 증거지만 고객 인증·양산·EPS revision 전에는 확정 매출이 아니다. 한미반도체에는 직접 수주가 아니라 삼성향 TC본더 옵션가치 상승으로 해석해야 한다. | [삼성전자 HBM4E 12단 샘플 출하](/ko/post/samsung-electronics-hbm4e-12h-sample-market-watch-hanmi-tc-bonder-2026-06-01/) |
+| HBM4E 12단 경쟁에서 삼성전자와 SK하이닉스 중 누가 앞서나 | 제품 발표와 기술 재진입 신호는 삼성전자가 강해졌지만, 실제 HBM 점유율·NVIDIA 고객 락인·양산 경험은 SK하이닉스가 앞서 있다. 1차 판별 지점은 2026년 3Q~4Q 고객 퀄·양산 출하·2027년 물량 배정 코멘트다. | [HBM4E 12단 경쟁: 삼성의 기술 재진입과 하이닉스의 공급 지배력](/ko/post/samsung-sk-hynix-hbm4e-12h-sample-allocation-battle-2026-06-18/) |
 | 젠슨 황의 HBM 3사 검증 통과 발언은 무엇을 바꾸나 | 삼성전자·SK하이닉스·마이크론이 Vera Rubin용 HBM4 공급망에서 모두 qualified/in production 단계로 해석되는 이벤트다. 삼성전자에는 HBM discount 축소, SK하이닉스에는 독점 프리미엄 희석과 TAM 확대가 동시에 작용한다. | [젠슨 황의 큰 발언과 HBM4 3사 검증 통과](/ko/post/jensen-huang-hbm4-three-vendors-qualified-market-missed-2026-06-05/) |
 | 테마 ETF 리밸런싱은 반도체 소부장에 어떤 의미인가 | 6월 12일 Thesis OS KR Theme ETF Rebalance Flow v1은 ETF 31개 중 유효 30개, 구성종목 291개를 스캔해 후보 69개를 잡았다. 가장 강한 신호는 반도체 TOP10·AI반도체 ETF의 cap 재배분으로, 리노공업·이오테크닉스·솔브레인·DB하이텍·한미반도체는 재배분 매수 후보, SK하이닉스·삼성전기·LS ELECTRIC은 비중 상한 압력 후보로 분류됐다. | [테마 ETF 리밸런싱 수급](/ko/post/kr-theme-etf-rebalance-flow-semicap-cap-trim-2026-06-12/) |
 | ETF 수급이 반도체 변동성을 키울 때 어떻게 대응해야 하나 | 반도체 소부장 재배분 후보는 T+1/T+3 확인 후 접근하고, SK하이닉스·삼성전자 같은 core 대장주는 ETF cap 압력보다 외국인 현물 수급과 Big Figure 돌파 후 눌림 패턴을 함께 봐야 한다. KOSPI200 만기 스퀴즈는 별도 이벤트 수급으로 분리해야 한다. | [ETF 수급이 주도하는 한국 시장](/ko/post/korea-etf-flow-led-market-volatility-strategy-2026-06-13/) |
@@ -65,6 +66,7 @@ lastmod: 2026-06-17T18:00:00+09:00
 
 | 날짜 | 주제 | 자세히 보기 |
 |---|---|---|
+| 2026-06-18 | <strong>HBM4E 12단 경쟁</strong> — 삼성전자의 HBM4E 12단 샘플 선행 발표와 SK하이닉스의 12단 샘플 공급을 제품 스펙, NVIDIA·AMD 고객 채널, 현재 점유율, 2026년 3Q~4Q 판별 시점으로 분리해 정리 | [HBM4E 12단 경쟁: 삼성의 기술 재진입과 하이닉스의 공급 지배력](/ko/post/samsung-sk-hynix-hbm4e-12h-sample-allocation-battle-2026-06-18/) |
 | 2026-06-17 | <strong>AI는 1996년인가 1999년인가</strong> — AI 생산성은 장기 옵션이지만 이번 FOMC가 당장 다루는 관측 가능한 충격은 데이터센터·전력·반도체 CapEx와 중립금리 상방 리스크라는 점을 정리 | [AI는 1996년인가 1999년인가](/ko/post/ai-1996-vs-1999-fomc-hawkish-hold-productivity-capex-2026-06-17/) |
 | 2026-06-17 | <strong>AI 생산성은 실제인가</strong> — Brynjolfsson·Li·Raymond의 현장 실증, FEDS Notes의 채택률, Kansas City Fed의 산업별 생산성, SF Fed의 정책 프레임을 연결해 AI capex 정당화의 핵심은 모델 성능이 아니라 업무 생산성이 산업별 통계로 확산되는지라고 정리 | [AI 생산성은 실제인가](/ko/post/ai-productivity-real-evidence-generative-ai-at-work-fed-2026-06-17/) |
 | 2026-06-12 | <strong>AI 슈퍼사이클은 왜 더 길어지는가 — 에이전트 수요·IPO 자금·메모리/스토리지</strong> — 에이전트발 토큰 수요 폭증 → 빅테크 자금조달 확대 → 스페이스X·앤트로픽 IPO 공모 자금 공급으로 사이클 연료가 릴레이되며 수명이 길어진다. 노무라의 삼성전자 59만원·SK하이닉스 500만원 목표가를 이정표로, 가장 강력하면서 가장 싸게 남은 자산은 상대 PER 0.80-0.82배의 메모리와 재분류 초기의 스토리지라는 종합 결론 | [AI 슈퍼사이클 장기화와 메모리·스토리지](/ko/post/ai-supercycle-extension-agent-demand-ipo-funding-memory-storage-2026-06-12/) |
@@ -123,6 +125,7 @@ lastmod: 2026-06-17T18:00:00+09:00
 | 3 | SK하이닉스 PER 역전은 삼성전자 catch-up 신호인가 | [삼성전자 vs SK하이닉스 Forward PER 역전](/ko/post/samsung-sk-hynix-forward-per-inversion-hbm-catchup-2026-05-31/) |
 | 4 | 삼성전자 HBM4E 샘플은 본주와 장비주에 어떻게 다르게 연결되나 | [삼성전자 HBM4E 12단 샘플 출하](/ko/post/samsung-electronics-hbm4e-12h-sample-market-watch-hanmi-tc-bonder-2026-06-01/) |
 | 5 | 젠슨 황의 HBM4 3사 검증 통과 발언은 삼성전자·하이닉스·한미반도체에 어떻게 다르게 연결되나 | [젠슨 황의 큰 발언과 HBM4 3사 검증 통과](/ko/post/jensen-huang-hbm4-three-vendors-qualified-market-missed-2026-06-05/) |
+| 5A | HBM4E 12단 세대에서 삼성전자와 SK하이닉스 중 어느 쪽이 더 유리한가 | [HBM4E 12단 경쟁: 삼성의 기술 재진입과 하이닉스의 공급 지배력](/ko/post/samsung-sk-hynix-hbm4e-12h-sample-allocation-battle-2026-06-18/) |
 | 5+ | 반도체 테마 ETF 비중 상한 재조정은 소부장 2선에 어떤 수급을 만들 수 있나 | [테마 ETF 리밸런싱 수급: 반도체 소부장에는 재배분 매수, 대장주에는 비중 상한 압력](/ko/post/kr-theme-etf-rebalance-flow-semicap-cap-trim-2026-06-12/) |
 | 5+A | 반도체 ETF 노출을 시총 대비로 보면 어떤 종목이 더 민감한가 | [삼성전자·SK하이닉스 90.8% 쏠림: 반도체 ETF 수급은 어디가 더 민감한가](/ko/post/korea-semiconductor-etf-exposure-marketcap-gap-strategy-2026-06-13/) |
 | 5+B | 그럼 삼성전자·SK하이닉스보다 2개월 더 강할 수 있는 2선 후보는 어디인가 | [반도체 Top50에서 삼성전자·SK하이닉스를 2개월 이길 후보는 어디인가](/ko/post/korea-semiconductor-top50-two-month-alpha-candidates-samsung-hynix-2026-06-13/) |
@@ -149,6 +152,7 @@ lastmod: 2026-06-17T18:00:00+09:00
 
 ### HBM과 AI 메모리
 
+- [HBM4E 12단 경쟁: 삼성의 기술 재진입과 하이닉스의 공급 지배력](/ko/post/samsung-sk-hynix-hbm4e-12h-sample-allocation-battle-2026-06-18/)
 - [젠슨 황의 큰 발언에 시장은 귀 기울이지 않았다: HBM4 3사 검증 통과의 의미](/ko/post/jensen-huang-hbm4-three-vendors-qualified-market-missed-2026-06-05/)
 - [테마 ETF 리밸런싱 수급: 반도체 소부장에는 재배분 매수, 대장주에는 비중 상한 압력](/ko/post/kr-theme-etf-rebalance-flow-semicap-cap-trim-2026-06-12/)
 - [ETF 수급이 주도하는 한국 시장: 변동성이 커질 때 대응하는 몇 가지 전략](/ko/post/korea-etf-flow-led-market-volatility-strategy-2026-06-13/)

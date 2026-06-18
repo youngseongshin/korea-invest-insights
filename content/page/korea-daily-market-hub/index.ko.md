@@ -5,7 +5,7 @@ date: 2026-05-03T11:00:00+09:00
 aliases: ["/ko/korea-daily/", "/ko/kospi/", "/ko/kosdaq/", "/ko/page/korea-daily-market-hub/"]
 layout: "page"
 description: "한국 주식시장 일일 업데이트 허브 — KOSPI / KOSDAQ 장마감 브리핑, 주간 집중 픽, 외국인·기관 수급, 섹터 로테이션, 그리고 매 세션 한국 주식에서 실제로 무엇이 움직이는지. '오늘 한국 주식시장은 어떤가요?' 같은 질문의 직접 답."
-lastmod: 2026-06-18T00:19:44+09:00
+lastmod: 2026-06-18T22:40:00+09:00
 ---
 
 ## 이 허브가 답하는 질문
@@ -38,6 +38,7 @@ lastmod: 2026-06-18T00:19:44+09:00
 | 간밤 GTC Taipei 이후 한국 증시는 무엇을 봐야 하나요? | NVIDIA의 메시지는 GPU 단품보다 AI Factory, Vera CPU, Agent Runtime, AI PC, Physical AI로 확장됐다. 한국장은 HBM뿐 아니라 전력, 네트워킹, GPUaaS, NAVER Cloud, 로봇의 병목을 따져야 한다. | [젠슨 황을 바라보는 한국 증시: 간밤에 무슨 일이 있었나](/ko/post/korea-market-after-gtc-taipei-jensen-huang-naver-ai-factory-2026-06-02/) |
 | 젠슨 황은 왜 NAVER와 만날까요? | 소프트뱅크·YTL·델 사례처럼 NVIDIA가 찾는 것은 GPU 구매자가 아니라 현지 AI 공장 운영자다. NAVER는 NAVER Cloud, HyperCLOVA X, 60,000개 이상 GPU 계획, 검색·쇼핑·결제·지도 데이터를 가진 한국형 AI Factory 후보입니다. | [젠슨 황은 왜 네이버와 만날까](/ko/post/naver-nvidia-jensen-huang-softbank-ytl-dell-ai-factory-2026-06-05/) |
 | 젠슨 황의 HBM4 발언을 시장이 놓쳤나요? | 핵심은 삼성전자·SK하이닉스·마이크론이 모두 Vera Rubin용 HBM4 qualified/in production 단계로 해석된다는 점이다. 삼성전자에는 HBM discount 축소, SK하이닉스에는 독점 프리미엄 희석과 수요 총량 확대가 동시에 작용한다. | [젠슨 황의 큰 발언과 HBM4 3사 검증 통과](/ko/post/jensen-huang-hbm4-three-vendors-qualified-market-missed-2026-06-05/) |
+| HBM4E 12단 경쟁은 삼성전자와 SK하이닉스 중 누구에게 유리한가요? | 삼성전자는 샘플 발표와 1c DRAM·4nm 베이스 다이 통합 스토리에서 따라붙었고, SK하이닉스는 현재 HBM 점유율과 NVIDIA 장기 파트너십에서 앞선다. 시장은 2026년 3Q~4Q 고객 퀄·양산 출하·2027년 물량 배정을 봐야 한다. | [HBM4E 12단 경쟁](/ko/post/samsung-sk-hynix-hbm4e-12h-sample-allocation-battle-2026-06-18/) |
 | 이번 주 한국 집중 매수 픽은? | 매주 금요일 저녁(KST) 공개되는 Weekly Concentrated 시리즈가 3-5개 고확신 아이디어를 제시합니다. | [최근 주간 집중 전략](/ko/post/kr-concentrated-weekly-2026-04-24/) |
 | 외국인이 한국 주식을 사고 있나요, 팔고 있나요? | 2026년 외국인 순매도는 한국 전체 이탈이라기보다 삼성전자·SK하이닉스 대형 메모리 비중 조정과 KOSDAQ·2차전지·로봇·바이오·일부 인프라로의 선택 재배치가 핵심이다. | [유동성은 많은데 시장 폭은 무너졌다](/ko/post/korea-market-liquidity-foreign-reallocation-adr-narrow-leadership-2026-06-03/) · [한국증시 외국인 수급 분석](/ko/post/korea-foreign-investor-flow-memory-megacap-rotation-2026-05-24/) |
 | 외국인 매도 속에서도 삼성전자·하이닉스는 다시 매력적인가요? | 마이크론이 더 빠르게 리레이팅되면서 삼성전자·SK하이닉스의 상대 P/E가 낮아졌다. AI 칩 바스켓 전체로 봐도 두 종목은 2028E P/E 6배 안팎의 최저 P/E 축이다. 관건은 EPS 지속성과 외국인 수급 전환이다. | [삼하마 패리티 후속](/ko/post/sam-hama-parity-follow-up-ai-chip-memory-pe-map-2026-06-05/) · [기존 삼하마 패리티](/ko/post/samsung-hynix-micron-forward-per-parity-memory-catch-up-2026-06-03/) |
@@ -91,6 +92,7 @@ lastmod: 2026-06-18T00:19:44+09:00
 | 15+ | AI 생산성은 실제로 관찰되고, AI CapEx를 정당화할 만큼 확산되고 있나? | [AI 생산성은 실제인가: 현장 15% 개선과 거시 확산 사이](/ko/post/ai-productivity-real-evidence-generative-ai-at-work-fed-2026-06-17/) |
 | 15++ | AI 생산성 논쟁은 이번 FOMC에서 비둘기파인가 매파인가? | [AI는 1996년인가 1999년인가: 이번 FOMC와 그 이후](/ko/post/ai-1996-vs-1999-fomc-hawkish-hold-productivity-capex-2026-06-17/) |
 | 16 | 젠슨 황의 HBM4 3사 검증 통과 발언은 메모리 대형주와 장비주를 어떻게 재분류하나? | [젠슨 황의 큰 발언과 HBM4 3사 검증 통과](/ko/post/jensen-huang-hbm4-three-vendors-qualified-market-missed-2026-06-05/) |
+| 16A | HBM4E 12단 세대에서 삼성전자와 SK하이닉스 중 어느 쪽이 유리한가? | [HBM4E 12단 경쟁: 삼성의 기술 재진입과 하이닉스의 공급 지배력](/ko/post/samsung-sk-hynix-hbm4e-12h-sample-allocation-battle-2026-06-18/) |
 | 17 | 외국인 매도 속에서도 삼성전자·하이닉스는 상대가치가 열렸나? | [삼하마 패리티 후속: 마이크론 프리미엄은 맞지만 한국 메모리 할인은 과도하다](/ko/post/sam-hama-parity-follow-up-ai-chip-memory-pe-map-2026-06-05/) |
 | 18 | 스페이스X 상장은 한국의 AI·우주·HBM 수급에 어떤 영향을 주나? | [스페이스X IPO와 한국 증시](/ko/post/spacex-ipo-korea-market-liquidity-ai-space-readthrough-2026-06-05/) |
 | 19 | 강한 고용 이후 CPI·BOJ·FOMC 이벤트 클러스터는 어떻게 대응하나? | [CPI·BOJ·FOMC 이벤트 클러스터](/ko/post/us-cpi-boj-fomc-macro-event-cluster-korea-reaction-function-2026-06-06/) |
@@ -148,6 +150,7 @@ lastmod: 2026-06-18T00:19:44+09:00
 | Rheinmetall-LIG / 유럽·NATO 방공망 / 중·장거리 미사일 | [Rheinmetall과 LIG: 유럽/NATO 방공망에 한국 중·장거리 미사일 채널이 열렸다](/ko/post/rheinmetall-lig-europe-nato-air-defense-channel-2026-06-16/) |
 | 삼닉 쏠림 이후 3분기 퀄리티 후보 | [삼닉 쏠림과 3분기 퀄리티 후보 35개](/ko/post/samnik-crowding-q3-quality-watchlist-eps-up-price-lag-2026-06-11/) |
 | 삼성전자 + SK하이닉스 + HBM | [한국 반도체 / HBM / KOSPI 허브](/ko/page/korea-semiconductor-hbm-kospi-hub/) |
+| HBM4E 12단 / 삼성 기술 재진입 / SK하이닉스 공급 지배력 | [HBM4E 12단 경쟁](/ko/post/samsung-sk-hynix-hbm4e-12h-sample-allocation-battle-2026-06-18/) |
 | 젠슨 황 / HBM4 3사 qualified / 한미반도체 read-through | [젠슨 황의 큰 발언과 HBM4 3사 qualified](/ko/post/jensen-huang-hbm4-three-vendors-qualified-market-missed-2026-06-05/) |
 | 삼성전자·SK하이닉스·마이크론 상대 PER | [삼하마 패리티 후속](/ko/post/sam-hama-parity-follow-up-ai-chip-memory-pe-map-2026-06-05/) · [기존 삼하마 패리티](/ko/post/samsung-hynix-micron-forward-per-parity-memory-catch-up-2026-06-03/) |
 | 한국 시총 세계 6위 / Why Korea | [Why Korea 5편: 한국 시총 세계 6위](/ko/post/why-korea-market-cap-global-six-ai-memory-rerating-2026-05-24/) |
