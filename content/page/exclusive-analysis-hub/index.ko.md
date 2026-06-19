@@ -5,7 +5,7 @@ date: 2026-06-13T19:35:00+09:00
 aliases: ["/ko/exclusive-analysis/", "/ko/page/exclusive-analysis-hub/"]
 layout: "page"
 description: "Korea Invest Insights의 자체 데이터 분석 허브. 자체 계산 데이터셋, Naver ETF 구성 전수 스캔, Real Money 수급, ETF 리밸런싱, 브레드스와 유동성 프레임워크 등 공개 기사 요약이 아니라 직접 계산한 분석 글을 모은다."
-lastmod: 2026-06-17T18:00:00+09:00
+lastmod: 2026-06-19T22:20:00+09:00
 ---
 
 ## 이 허브의 목적
@@ -26,6 +26,7 @@ lastmod: 2026-06-17T18:00:00+09:00
 
 | 날짜 | 주제 | 핵심 결론 | 글 |
 |---|---|---|---|
+| 2026-06-19 | Warsh Fed와 비싸진 돈의 시대 | 6월 FOMC의 핵심은 금리 인상 선언보다 forward guidance 축소와 Fed put 약화다. 돈이 사라진 장이 아니라, 비싸진 돈이 AI 인프라·전력·방산·에너지·실물 병목과 현금흐름으로 더 까다롭게 이동하는 장으로 해석한다. | [비싸진 돈의 시대](/ko/post/warsh-fed-expensive-money-era-forward-guidance-ai-infra-2026-06-19/) |
 | 2026-06-17 | AI 1996 vs 1999와 FOMC 반응 함수 | AI는 1996년형 생산성 옵션을 품고 있지만, 이번 FOMC가 당장 다룰 관측 가능한 충격은 1999년형 CapEx·기대 선반영에 더 가깝다. 생산성은 옵션이고 데이터센터·전력·반도체·금융여건은 현재형이다. | [AI는 1996년인가 1999년인가](/ko/post/ai-1996-vs-1999-fomc-hawkish-hold-productivity-capex-2026-06-17/) |
 | 2026-06-17 | AI 생산성 실증과 거시 확산 | Generative AI at Work의 현장 15% 생산성 개선, FEDS Notes의 채택률, Kansas City Fed의 좁은 생산성 확산, SF Fed의 정책 반응 함수를 연결해 AI capex가 정당화되려면 업무 생산성이 산업 통계로 확산되어야 한다고 정리한다. | [AI 생산성은 실제인가](/ko/post/ai-productivity-real-evidence-generative-ai-at-work-fed-2026-06-17/) |
 | 2026-06-16 | Rheinmetall-LIG 유럽/NATO 방공 채널 | 유럽은 다층 방공망과 현지 생산능력을 동시에 다시 만들어야 하고, Rheinmetall 과반 JV와 LIG MRAD/LRAD 현지화 구조는 한국 방공 미사일을 유럽 조달 언어로 제안할 수 있는 공식 통로다. | [Rheinmetall과 LIG](/ko/post/rheinmetall-lig-europe-nato-air-defense-channel-2026-06-16/) |
@@ -66,6 +67,7 @@ lastmod: 2026-06-17T18:00:00+09:00
 
 ### 상대 밸류에이션과 사이클 프레임
 
+- [비싸진 돈의 시대: Warsh Fed가 바꾼 것은 금리보다 시장의 습관이다](/ko/post/warsh-fed-expensive-money-era-forward-guidance-ai-infra-2026-06-19/)
 - [AI는 1996년인가 1999년인가: 이번 FOMC와 그 이후](/ko/post/ai-1996-vs-1999-fomc-hawkish-hold-productivity-capex-2026-06-17/)
 - [삼하마 패리티: 삼성전자·하이닉스가 마이크론보다 다시 싸진 구간](/ko/post/samsung-hynix-micron-forward-per-parity-memory-catch-up-2026-06-03/)
 - [삼하마 패리티 후속: 마이크론 프리미엄은 맞지만 한국 메모리 할인은 과도하다](/ko/post/sam-hama-parity-follow-up-ai-chip-memory-pe-map-2026-06-05/)

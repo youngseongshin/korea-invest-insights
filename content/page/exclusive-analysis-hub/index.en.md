@@ -4,13 +4,13 @@ slug: "exclusive-analysis-hub"
 date: 2026-06-13T19:35:00+09:00
 aliases: ["/exclusive-analysis/", "/page/exclusive-analysis-hub/"]
 layout: "page"
-description: "A hub for Korea Invest Insights proprietary analysis: Thesis OS local databases, full ETF constituent scans, real-money flow frameworks, ETF rebalance proxies, breadth and liquidity screens, and original stock-selection work."
-lastmod: 2026-06-13T23:55:00+09:00
+description: "A hub for Korea Invest Insights proprietary analysis: internally constructed datasets, full ETF constituent scans, real-money flow frameworks, ETF rebalance proxies, breadth and liquidity screens, and original stock-selection work."
+lastmod: 2026-06-19T22:20:00+09:00
 ---
 
 ## Purpose
 
-This hub collects Korea Invest Insights posts built from proprietary or locally constructed datasets. These are not simple news summaries. They use Thesis OS local databases, ETF constituent scans, foreign and institutional flow, real-money classifications, breadth, liquidity and relative-strength screens.
+This hub collects Korea Invest Insights posts built from proprietary or internally constructed datasets. These are not simple news summaries. They use ETF constituent scans, foreign and institutional flow, real-money classifications, breadth, liquidity and relative-strength screens.
 
 | Question | Data used | Goal |
 |---|---|---|
@@ -22,6 +22,7 @@ This hub collects Korea Invest Insights posts built from proprietary or locally 
 
 | Date | Topic | Key takeaway | Post |
 |---|---|---|---|
+| 2026-06-19 | Warsh Fed and expensive money | The June FOMC changed market habits more than it changed rates: less forward guidance, a weaker Fed put, and more selective capital moving toward AI infrastructure, power, defense, energy, physical bottlenecks and proven cash flow. | [The Era of Expensive Money](/post/warsh-fed-expensive-money-era-forward-guidance-ai-infra-2026-06-19/) |
 | 2026-06-13 | Target-price gap and comfort-entry candidates | A large target-price gap is not enough. Combining target revisions, smart money and 20/50-day trend leaves KB Financial and Hana Financial as the cleaner comfort-entry candidates. | [A Large Target-Price Gap Is Not Enough](/post/korea-target-price-gap-comfortable-entry-candidates-2026-06-13/) |
 | 2026-06-13 | Hyundai E&C and Woojin U.S. nuclear bargaining power | Separates Hyundai E&C's Fermi AP1000 / Holtec SMR-300 execution bottleneck from Woojin's smaller instrumentation and recurring ICI replacement option. | [Hyundai E&C and Woojin in U.S. nuclear expansion](/post/hyundai-ec-woojin-us-nuclear-expansion-bargaining-power-2026-06-13/) |
 | 2026-06-13 | Korea-U.S. policy capital and Team Korea nuclear | Breaks the $350bn policy-capital event into nuclear beta, execution risk and follow-on alpha across O&M, controls, instrumentation and grid equipment. | [Korea's $350 Billion U.S. Investment Law](/post/us-investment-special-act-team-korea-nuclear-opportunity-2026-06-13/) |
@@ -53,6 +54,7 @@ This hub collects Korea Invest Insights posts built from proprietary or locally 
 
 ### Relative Valuation And Cycle Frames
 
+- [The Era of Expensive Money: What the Warsh Fed Really Changed](/post/warsh-fed-expensive-money-era-forward-guidance-ai-infra-2026-06-19/)
 - [Samsung-Hynix-Micron Forward P/E Parity](/post/samsung-hynix-micron-forward-per-parity-memory-catch-up-2026-06-03/)
 - [Sam-Ha-Ma Parity Follow-Up](/post/sam-hama-parity-follow-up-ai-chip-memory-pe-map-2026-06-05/)
 - [Can Samsung Electronics Get 15x PER?](/post/samsung-electronics-tsmc-rerating-thesis-2026-05-16/)

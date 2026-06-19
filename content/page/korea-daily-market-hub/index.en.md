@@ -5,7 +5,7 @@ date: 2026-05-03T11:00:00+09:00
 aliases: ["/korea-daily/", "/kospi/", "/kosdaq/", "/en/korea-daily/", "/en/page/korea-daily-market-hub/", "/es/page/korea-daily-market-hub/", "/vi/page/korea-daily-market-hub/", "/fr/page/korea-daily-market-hub/", "/ja/page/korea-daily-market-hub/", "/zh/page/korea-daily-market-hub/"]
 layout: "page"
 description: "A hub for Korean stock market daily updates — KOSPI and KOSDAQ market closes, weekly concentrated picks, foreign-investor flows, sector rotation, and what's actually moving in Korean equities each session. Direct answers to 'What is the Korean stock market doing today?' and similar queries."
-lastmod: 2026-06-18T22:40:00+09:00
+lastmod: 2026-06-19T22:20:00+09:00
 ---
 
 ## What This Hub Answers
@@ -15,6 +15,7 @@ Direct, search-engine-friendly answers to the questions global investors ask abo
 | Search Question | Quick Answer | Read |
 |---|---|---|
 | What is the Korean stock market doing today? | The most recent Korea Daily Wrap covers the day's regime, sector rotation, foreign flows, and key disclosures. | [Latest Korea Daily Wrap](/post/kr-daily-wrap-2026-06-16/) |
+| What changed after the Warsh Fed's June FOMC? | The key change is less forward guidance and a weaker Fed put, not an immediate rate-hike declaration. This is an expensive-money regime: capital still flows, but more selectively toward AI infrastructure, power, defense, energy, physical bottlenecks and proven cash flow. | [The Era of Expensive Money](/post/warsh-fed-expensive-money-era-forward-guidance-ai-infra-2026-06-19/) |
 | What is the nuclear opportunity in Korea's $350bn U.S. investment law? | Nuclear is a credible first-project or core-project candidate, but not yet confirmed. Doosan Enerbility, Hyundai E&C and KEPCO E&C are beta; KEPCO KPS, Woori Technology, Woojin and power-equipment names become follow-on alpha only if announcements include O&M, controls, instrumentation or grid scope. | [Korea's U.S. investment law and Team Korea nuclear](/post/us-investment-special-act-team-korea-nuclear-opportunity-2026-06-13/) |
 | Where is the asymmetry between Hyundai E&C and Woojin in U.S. nuclear expansion? | Hyundai E&C is the direct U.S. execution bottleneck through Fermi AP1000 and Holtec SMR-300. Woojin is the smaller instrumentation option built on Korean ICI/RSPT references. Hyundai needs contract-scope proof; Woojin needs evidence of U.S. AP1000 or SMR adoption. | [Hyundai E&C and Woojin in U.S. nuclear expansion](/post/hyundai-ec-woojin-us-nuclear-expansion-bargaining-power-2026-06-13/) |
 | What has been confirmed halfway through June's event cluster? | This was not easing confirmation. It was a rates, oil and crowded-AI stress test. Jobs, CPI and PPI made it harder for the Fed to talk comfortably about cuts, while Korea was hit by foreign semiconductor selling before the June 12 foreign/institution/program rebound. | [June event cluster midpoint review](/post/june-event-cluster-midpoint-review-rates-oil-ai-stress-test-2026-06-13/) |
@@ -80,6 +81,7 @@ Sequential reading for someone new to Korean equities — what to read in order 
 | 12 | Why can Korea have abundant liquidity and broken breadth at the same time? | [Korea Has Liquidity, But Breadth Has Broken](/post/korea-market-liquidity-foreign-reallocation-adr-narrow-leadership-2026-06-03/) |
 | 13 | Why is KOSDAQ not rallying despite foreign buying? | [Why Is KOSDAQ Falling If Foreigners Are Buying?](/post/kosdaq-foreign-buying-institution-real-money-adr-2026-06-03/) |
 | 14 | How should investors decompose institutional buying? | [Real Money Flow Framework](/post/real-money-flow-framework-korea-institution-quality-2026-06-03/) |
+| 14A | What changed after the Warsh Fed reduced forward guidance? | [The Era of Expensive Money: What the Warsh Fed Really Changed](/post/warsh-fed-expensive-money-era-forward-guidance-ai-infra-2026-06-19/) |
 | 15 | How does Jensen Huang's HBM4 three-vendor comment reclassify Korean memory and equipment names? | [Jensen Huang's bigger HBM4 comment](/post/jensen-huang-hbm4-three-vendors-qualified-market-missed-2026-06-05/) |
 | 15A | Who is better positioned in the HBM4E 12-high generation, Samsung or SK hynix? | [HBM4E 12-high race: Samsung's re-entry vs SK hynix supply lock-in](/post/samsung-sk-hynix-hbm4e-12h-sample-allocation-battle-2026-06-18/) |
 | 16 | Did Samsung and SK hynix become attractive again versus Micron? | [Sam-Ha-Ma parity follow-up: Micron deserves a premium, but Korean memory looks too cheap](/post/sam-hama-parity-follow-up-ai-chip-memory-pe-map-2026-06-05/) |
@@ -142,6 +144,7 @@ The Friday-evening "concentrated" series picks 3–5 highest-conviction Korean e
 | Foreign flows / memory mega-cap distribution | [Korea Foreign Investor Flow Analysis](/post/korea-foreign-investor-flow-memory-megacap-rotation-2026-05-24/) |
 | Market liquidity / ADR / narrow leadership regime | [Korea Has Liquidity, But Breadth Has Broken](/post/korea-market-liquidity-foreign-reallocation-adr-narrow-leadership-2026-06-03/) |
 | CPI / BOJ / FOMC / Korea derivatives expiry | [U.S. May CPI Preview](/post/us-may-2026-cpi-preview-core-mom-trigger-korea-market-2026-06-06/) · [CPI, BOJ and FOMC event cluster](/post/us-cpi-boj-fomc-macro-event-cluster-korea-reaction-function-2026-06-06/) · [Jobs shock and the KOSPI 8,000 gate](/post/us-jobs-rate-hike-shock-kospi-macro-gate-2026-06-06/) |
+| Warsh Fed / forward guidance / expensive money | [The Era of Expensive Money: What the Warsh Fed Really Changed](/post/warsh-fed-expensive-money-era-forward-guidance-ai-infra-2026-06-19/) |
 | Regulation-adjusted liquidity / WGBI / Value-up / Korean financials | [It Isn't Money Printed, It's Regulation Eased: Regulation-Adjusted Liquidity and Korean Financials](/post/regulation-adjusted-liquidity-korea-financials-us-infra-japan-governance-2026-06-13/) |
 | SpaceX IPO / space and AI rebalancing | [SpaceX IPO and Korean equities](/post/spacex-ipo-korea-market-liquidity-ai-space-readthrough-2026-06-05/) |
 | KOSDAQ flows / institutional real-money return | [Why Is KOSDAQ Falling If Foreigners Are Buying?](/post/kosdaq-foreign-buying-institution-real-money-adr-2026-06-03/) |
