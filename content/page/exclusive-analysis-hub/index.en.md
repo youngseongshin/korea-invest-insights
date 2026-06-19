@@ -5,7 +5,7 @@ date: 2026-06-13T19:35:00+09:00
 aliases: ["/exclusive-analysis/", "/page/exclusive-analysis-hub/"]
 layout: "page"
 description: "A hub for Korea Invest Insights proprietary analysis: internally constructed datasets, full ETF constituent scans, real-money flow frameworks, ETF rebalance proxies, breadth and liquidity screens, and original stock-selection work."
-lastmod: 2026-06-19T22:20:00+09:00
+lastmod: 2026-06-20T10:30:00+09:00
 ---
 
 ## Purpose
@@ -22,6 +22,7 @@ This hub collects Korea Invest Insights posts built from proprietary or internal
 
 | Date | Topic | Key takeaway | Post |
 |---|---|---|---|
+| 2026-06-20 | How hard is it to beat pure KOSPI? | In 2026, pure KOSPI was not the average Korean market; it was a concentrated Samsung Electronics / SK Hynix AI-memory benchmark. In a 2,730-stock Monte Carlo, a random equal-weight 20-stock portfolio beat KOSPI only 1.0% of the time; a 30-stock portfolio only 0.5%. | [How Rare Is It To Beat The Pure KOSPI Benchmark?](/post/kospi-benchmark-hard-to-beat-narrow-market-monte-carlo-2026-06-20/) |
 | 2026-06-19 | Warsh Fed and expensive money | The June FOMC changed market habits more than it changed rates: less forward guidance, a weaker Fed put, and more selective capital moving toward AI infrastructure, power, defense, energy, physical bottlenecks and proven cash flow. | [The Era of Expensive Money](/post/warsh-fed-expensive-money-era-forward-guidance-ai-infra-2026-06-19/) |
 | 2026-06-13 | Target-price gap and comfort-entry candidates | A large target-price gap is not enough. Combining target revisions, smart money and 20/50-day trend leaves KB Financial and Hana Financial as the cleaner comfort-entry candidates. | [A Large Target-Price Gap Is Not Enough](/post/korea-target-price-gap-comfortable-entry-candidates-2026-06-13/) |
 | 2026-06-13 | Hyundai E&C and Woojin U.S. nuclear bargaining power | Separates Hyundai E&C's Fermi AP1000 / Holtec SMR-300 execution bottleneck from Woojin's smaller instrumentation and recurring ICI replacement option. | [Hyundai E&C and Woojin in U.S. nuclear expansion](/post/hyundai-ec-woojin-us-nuclear-expansion-bargaining-power-2026-06-13/) |
@@ -62,11 +63,13 @@ This hub collects Korea Invest Insights posts built from proprietary or internal
 
 ### Flow Quality
 
+- [How Rare Is It To Beat The Pure KOSPI Benchmark In This Narrow Market?](/post/kospi-benchmark-hard-to-beat-narrow-market-monte-carlo-2026-06-20/)
 - [Real Money Flow Framework](/post/real-money-flow-framework-korea-institution-quality-2026-06-03/)
 - [Korea Market Liquidity and Narrow Leadership](/post/korea-market-liquidity-foreign-reallocation-adr-narrow-leadership-2026-06-03/)
 
 ### Stock Selection Screens
 
+- [How Rare Is It To Beat The Pure KOSPI Benchmark In This Narrow Market?](/post/kospi-benchmark-hard-to-beat-narrow-market-monte-carlo-2026-06-20/)
 - [A Large Target-Price Gap Is Not Enough: KB Financial and Hana Financial Screen Best](/post/korea-target-price-gap-comfortable-entry-candidates-2026-06-13/)
 - [Quality Names to Revisit in Q3](/post/samnik-crowding-q3-quality-watchlist-eps-up-price-lag-2026-06-11/)
 - [Korean Semiconductor Top 50: Which Names Can Beat Samsung and SK Hynix?](/post/korea-semiconductor-top50-two-month-alpha-candidates-samsung-hynix-2026-06-13/)
