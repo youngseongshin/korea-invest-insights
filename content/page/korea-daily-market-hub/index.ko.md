@@ -5,7 +5,7 @@ date: 2026-05-03T11:00:00+09:00
 aliases: ["/ko/korea-daily/", "/ko/kospi/", "/ko/kosdaq/", "/ko/page/korea-daily-market-hub/"]
 layout: "page"
 description: "한국 주식시장 일일 업데이트 허브 — KOSPI / KOSDAQ 장마감 브리핑, 주간 집중 픽, 외국인·기관 수급, 섹터 로테이션, 그리고 매 세션 한국 주식에서 실제로 무엇이 움직이는지. '오늘 한국 주식시장은 어떤가요?' 같은 질문의 직접 답."
-lastmod: 2026-06-19T22:20:00+09:00
+lastmod: 2026-06-19T23:10:00+09:00
 ---
 
 ## 이 허브가 답하는 질문
@@ -19,6 +19,7 @@ lastmod: 2026-06-19T22:20:00+09:00
 | AI 생산성은 실제로 확인됐나요? | 현장에서는 이미 확인되고 있다. Generative AI at Work는 고객지원 상담원 5,172명 기준 생산성 +15%를 보고했고, Fed FEDS Notes는 업무 관련 GenAI 사용률 41%와 고용가중 AI 채택 78%를 제시한다. 다만 Kansas City Fed 기준 거시 생산성 개선은 아직 좁아, AI capex의 정당화는 산업별 확산을 봐야 한다. | [AI 생산성은 실제인가](/ko/post/ai-productivity-real-evidence-generative-ai-at-work-fed-2026-06-17/) |
 | AI는 1996년형 생산성 디스인플레인가, 1999년형 CapEx 과열인가요? | 현재 AI는 1996년형 생산성 옵션을 품고 있지만, 이번 FOMC가 당장 다뤄야 하는 충격은 1999년형 CapEx·기대 선반영에 더 가깝다. 생산성은 가능성이지만, 데이터센터·전력·반도체·금융여건은 현재형이다. | [AI는 1996년인가 1999년인가](/ko/post/ai-1996-vs-1999-fomc-hawkish-hold-productivity-capex-2026-06-17/) |
 | Warsh Fed 이후 무엇이 바뀌었나요? | 금리 인상 선언보다 중요한 변화는 forward guidance 축소와 Fed put 약화다. 돈이 사라진 장이 아니라, 비싸진 돈이 AI 인프라·전력·방산·에너지·실물 병목과 현금흐름으로 더 까다롭게 이동하는 장으로 봐야 한다. | [비싸진 돈의 시대](/ko/post/warsh-fed-expensive-money-era-forward-guidance-ai-infra-2026-06-19/) |
+| 6월 후반부에는 무엇을 확인해야 하나요? | 고용·CPI·PPI·ECB·BOJ·FOMC·BoE를 지나며 확인된 것은 완화가 아니라 중앙은행 put 약화다. 남은 분기점은 6월 25일 PCE·GDP·내구재와 6월 말 Russell 리밸런싱이며, 한국 AI 메모리/HBM은 이벤트 확인 후 조건부 매수 구간으로 봐야 한다. | [6월 후반 이벤트 지도](/ko/post/june-second-half-event-map-central-bank-put-korea-ai-memory-2026-06-19/) |
 | 건설사 리레이팅은 정말 오나요? | 건설업종 전체 리레이팅이 아니라 원전·SMR, AI 데이터센터 전력, 에너지 EPC, 재건 EPC로 재분류되는 일부 건설사 리레이팅이다. 현대건설은 직접성, DL이앤씨는 비대칭, 삼성물산은 퀄리티, 삼성E&A는 에너지 EPC 옵션으로 나눠 봐야 한다. | [건설사 리레이팅은 오는가](/ko/post/construction-epc-rerating-ai-power-nuclear-datacenter-reconstruction-2026-06-14/) |
 | 500조원 규모 대미투자특별법에서 원전 팀코리아 기회는 어디인가요? | 3,500억달러 대미 전략투자 구조에서 원전은 1호 또는 핵심 후보로 부상했지만 아직 확정은 아니다. 두산에너빌리티·현대건설·한전기술은 베타, 한전KPS·우리기술·우진·전력기기는 발표문에 O&M·제어·계측·전력계통 역할이 들어갈 때 후방 알파다. | [대미투자특별법과 원전 팀코리아](/ko/post/us-investment-special-act-team-korea-nuclear-opportunity-2026-06-13/) |
 | 현대건설과 우진은 미국 원전 확대에서 어떤 협상력이 있나요? | 현대건설은 Fermi AP1000과 Holtec SMR-300에서 미국 원전 실행 병목에 걸린 직접 노출주이고, 우진은 한국형 원전 계측기·ICI 반복 교체수요와 미국 옵션을 가진 소형 비대칭 후보다. 현대건설은 계약구조, 우진은 AP1000 직접 채택 여부가 핵심 확인 지점이다. | [현대건설과 우진: 미국 원전 확대 흐름 속 협상력](/ko/post/hyundai-ec-woojin-us-nuclear-expansion-bargaining-power-2026-06-13/) |
@@ -78,6 +79,7 @@ lastmod: 2026-06-19T22:20:00+09:00
 | 9 | 외국인 지분율 기준으로 매도 압력은 끝났나? | [KOSPI 외국인 지분율 vs 삼성전자·SK하이닉스](/ko/post/korea-foreign-ownership-kospi-samsung-hynix-divergence-2026-05-26/) |
 | 10 | 24거래일 매도 뒤 외국인 2.7조 순매수는 구조적 복귀인가? | [외국인은 돌아왔나](/ko/post/foreign-return-after-24-day-kospi-selling-memory-rebalance-2026-06-12/) |
 | 10A | 6월 이벤트 클러스터 절반을 지나며 레짐은 좋아졌나? | [6월 집중 이벤트 중간 복기: 금리·유가·AI 과열 스트레스 테스트](/ko/post/june-event-cluster-midpoint-review-rates-oil-ai-stress-test-2026-06-13/) |
+| 10B | 6월 후반부 PCE·GDP·내구재·Russell 이벤트는 어떻게 대응하나? | [6월 후반 이벤트 지도: 중앙은행 put 약화와 한국 AI 메모리의 조건부 매수 구간](/ko/post/june-second-half-event-map-central-bank-put-korea-ai-memory-2026-06-19/) |
 | 10+ | 테마 ETF 정기변경·비중 상한 재조정 수급은 어디로 흐르나? | [테마 ETF 리밸런싱 수급: 반도체 소부장에는 재배분 매수, 대장주에는 비중 상한 압력](/ko/post/kr-theme-etf-rebalance-flow-semicap-cap-trim-2026-06-12/) |
 | 10++ | ETF 수급과 만기 이벤트가 주도할 때 변동성은 어떻게 대응하나? | [ETF 수급이 주도하는 한국 시장: 변동성이 커질 때 대응하는 몇 가지 전략](/ko/post/korea-etf-flow-led-market-volatility-strategy-2026-06-13/) |
 | 10+++ | 반도체 ETF 노출을 시총 대비로 보면 어떤 후보가 남았나? | [반도체 ETF 노출 전략](/ko/post/korea-semiconductor-etf-exposure-marketcap-gap-strategy-2026-06-13/) |
@@ -143,6 +145,7 @@ lastmod: 2026-06-19T22:20:00+09:00
 |---|---|
 | 해외 투자자 접근 / IBKR / KRX 기본 지도 | [해외 투자자용 한국 주식 허브](/ko/page/korea-stocks-foreign-investors-hub/) |
 | 6월 이벤트 클러스터 / 금리·유가·AI 스트레스 테스트 | [6월 집중 이벤트 중간 복기](/ko/post/june-event-cluster-midpoint-review-rates-oil-ai-stress-test-2026-06-13/) |
+| 6월 후반 이벤트 / PCE·GDP·Russell / 한국 AI 메모리 진입 조건 | [6월 후반 이벤트 지도](/ko/post/june-second-half-event-map-central-bank-put-korea-ai-memory-2026-06-19/) |
 | 외국인 복귀 / 메모리 대형주 리밸런싱 | [외국인은 돌아왔나: 2.7조 순매수는 아직 3.6% 되돌림](/ko/post/foreign-return-after-24-day-kospi-selling-memory-rebalance-2026-06-12/) |
 | 테마 ETF 리밸런싱 / 반도체 소부장 재배분 | [테마 ETF 리밸런싱 수급: 반도체 소부장에는 재배분 매수, 대장주에는 비중 상한 압력](/ko/post/kr-theme-etf-rebalance-flow-semicap-cap-trim-2026-06-12/) |
 | ETF 수급 주도장 / 변동성 대응 | [ETF 수급이 주도하는 한국 시장: 변동성이 커질 때 대응하는 몇 가지 전략](/ko/post/korea-etf-flow-led-market-volatility-strategy-2026-06-13/) |
