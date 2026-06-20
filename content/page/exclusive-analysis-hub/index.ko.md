@@ -5,7 +5,7 @@ date: 2026-06-13T19:35:00+09:00
 aliases: ["/ko/exclusive-analysis/", "/ko/page/exclusive-analysis-hub/"]
 layout: "page"
 description: "Korea Invest Insights의 자체 데이터 분석 허브. 자체 계산 데이터셋, Naver ETF 구성 전수 스캔, Real Money 수급, ETF 리밸런싱, 브레드스와 유동성 프레임워크 등 공개 기사 요약이 아니라 직접 계산한 분석 글을 모은다."
-lastmod: 2026-06-21T02:20:00+09:00
+lastmod: 2026-06-21T02:42:00+09:00
 ---
 
 ## 이 허브의 목적
@@ -26,6 +26,7 @@ lastmod: 2026-06-21T02:20:00+09:00
 
 | 날짜 | 주제 | 핵심 결론 | 글 |
 |---|---|---|---|
+| 2026-06-21 | KOSPI 이격60 과열 프레임워크 | KOSPI 이격60 +28.6%는 천장 콜이 아니라 부분 리스크 축소 신호다. 2025년 이후 이격도 과열 신호 뒤의 +5일·+20일 평균 수익률은 플러스였지만, 이격60 +20% 이상에서는 10거래일 안 -5% 눌림 확률이 베이스라인 16%에서 63%로 올라갔다. 표본은 8개 에피소드에 불과하므로 기계적 매도보다 추격 강도 조절에 써야 한다. | [KOSPI 이격60 +28.6%](/ko/post/kospi-disparity60-overheat-framework-partial-trim-2026-06-21/) |
 | 2026-06-21 | 창신메모리 IPO와 메모리 가격 리스크 | CXMT IPO는 HBM 가격 붕괴 신호가 아니라 client DDR5·LPDDR·consumer NAND 가격 상단을 낮출 수 있는 공급 구조 변화다. 메모리 주식의 핵심 질문은 이제 DRAM 전체 가격이 아니라 HBM·AI 서버 메모리 믹스가 client DRAM/NAND 리스크를 얼마나 흡수하는지다. | [창신메모리 IPO와 메모리 가격 리스크](/ko/post/cxmt-ipo-memory-price-risk-hbm-client-dram-2026-06-21/) |
 | 2026-06-20 | 순수 KOSPI 벤치마크 초과 난이도 | 2026년 KOSPI는 시장 평균이 아니라 삼성전자·SK하이닉스 중심의 초집중 AI 메모리 베팅에 가까웠다. 한국 2,730개 종목 몬테카를로 기준 20종목 균등 분산 계좌가 KOSPI를 이긴 비율은 1.0%, 30종목은 0.5%에 그쳤다. | [순수 KOSPI 벤치마크를 이기는 계좌는 얼마나 드문가](/ko/post/kospi-benchmark-hard-to-beat-narrow-market-monte-carlo-2026-06-20/) |
 | 2026-06-19 | Warsh Fed와 비싸진 돈의 시대 | 6월 FOMC의 핵심은 금리 인상 선언보다 forward guidance 축소와 Fed put 약화다. 돈이 사라진 장이 아니라, 비싸진 돈이 AI 인프라·전력·방산·에너지·실물 병목과 현금흐름으로 더 까다롭게 이동하는 장으로 해석한다. | [비싸진 돈의 시대](/ko/post/warsh-fed-expensive-money-era-forward-guidance-ai-infra-2026-06-19/) |
@@ -80,6 +81,7 @@ lastmod: 2026-06-21T02:20:00+09:00
 
 ### 수급의 질
 
+- [KOSPI 이격60 +28.6%: 천장 콜이 아니라 부분 리스크 축소 신호](/ko/post/kospi-disparity60-overheat-framework-partial-trim-2026-06-21/)
 - [순수 KOSPI 벤치마크를 이기는 계좌는 얼마나 드문가: 극단적으로 좁은 장세의 몬테카를로 분석](/ko/post/kospi-benchmark-hard-to-beat-narrow-market-monte-carlo-2026-06-20/)
 - [Real Money 수급 프레임워크](/ko/post/real-money-flow-framework-korea-institution-quality-2026-06-03/)
 - [외국인이 보는 종목과 안 보는 종목](/ko/post/korea-foreign-playbook-msci-dm-kospi-168-kosdaq-355-2026-05-31/)

@@ -5,7 +5,7 @@ date: 2026-05-03T11:00:00+09:00
 aliases: ["/ko/korea-daily/", "/ko/kospi/", "/ko/kosdaq/", "/ko/page/korea-daily-market-hub/"]
 layout: "page"
 description: "한국 주식시장 일일 업데이트 허브 — KOSPI / KOSDAQ 장마감 브리핑, 주간 집중 픽, 외국인·기관 수급, 섹터 로테이션, 그리고 매 세션 한국 주식에서 실제로 무엇이 움직이는지. '오늘 한국 주식시장은 어떤가요?' 같은 질문의 직접 답."
-lastmod: 2026-06-19T23:10:00+09:00
+lastmod: 2026-06-21T02:42:00+09:00
 ---
 
 ## 이 허브가 답하는 질문
@@ -15,6 +15,7 @@ lastmod: 2026-06-19T23:10:00+09:00
 | 검색 질문 | 빠른 답 | 읽을 글 |
 |---|---|---|
 | 오늘 한국 주식시장은 어떤가요? | 가장 최근 Korea Daily Wrap이 그날의 시장 국면, 섹터 로테이션, 외국인 수급, 핵심 공시를 정리합니다. | [최근 데일리 랩](/ko/post/kr-daily-wrap-2026-06-17/) |
+| KOSPI 이격60 +28.6%는 고점 신호인가요? | 과열은 맞지만 천장 콜은 아니다. 2025년 이후 이격도 과열 신호 뒤의 평균 수익률은 오히려 플러스였고, 이격60 +20% 이상에서 높아진 것은 대세 하락 확률보다 10거래일 안 -5% 눌림 확률이다. 지금은 추격 강도를 낮추고 일부 리스크 예산을 회수하는 구간으로 봐야 한다. | [KOSPI 이격60 +28.6%](/ko/post/kospi-disparity60-overheat-framework-partial-trim-2026-06-21/) |
 | Rheinmetall-LIG 파트너십은 왜 중요한가요? | 유럽은 우크라이나 이후 드론·순항미사일·탄도미사일을 함께 막는 다층 방공망과 현지 생산능력을 다시 만들어야 한다. Rheinmetall 과반 JV와 LIG MRAD/LRAD 현지화 구조는 한국 방공 미사일을 유럽/NATO 조달 언어로 제안할 수 있는 통로를 공식화한 것이다. | [Rheinmetall과 LIG: 유럽/NATO 방공망 채널](/ko/post/rheinmetall-lig-europe-nato-air-defense-channel-2026-06-16/) |
 | AI 생산성은 실제로 확인됐나요? | 현장에서는 이미 확인되고 있다. Generative AI at Work는 고객지원 상담원 5,172명 기준 생산성 +15%를 보고했고, Fed FEDS Notes는 업무 관련 GenAI 사용률 41%와 고용가중 AI 채택 78%를 제시한다. 다만 Kansas City Fed 기준 거시 생산성 개선은 아직 좁아, AI capex의 정당화는 산업별 확산을 봐야 한다. | [AI 생산성은 실제인가](/ko/post/ai-productivity-real-evidence-generative-ai-at-work-fed-2026-06-17/) |
 | AI는 1996년형 생산성 디스인플레인가, 1999년형 CapEx 과열인가요? | 현재 AI는 1996년형 생산성 옵션을 품고 있지만, 이번 FOMC가 당장 다뤄야 하는 충격은 1999년형 CapEx·기대 선반영에 더 가깝다. 생산성은 가능성이지만, 데이터센터·전력·반도체·금융여건은 현재형이다. | [AI는 1996년인가 1999년인가](/ko/post/ai-1996-vs-1999-fomc-hawkish-hold-productivity-capex-2026-06-17/) |
@@ -80,6 +81,7 @@ lastmod: 2026-06-19T23:10:00+09:00
 | 10 | 24거래일 매도 뒤 외국인 2.7조 순매수는 구조적 복귀인가? | [외국인은 돌아왔나](/ko/post/foreign-return-after-24-day-kospi-selling-memory-rebalance-2026-06-12/) |
 | 10A | 6월 이벤트 클러스터 절반을 지나며 레짐은 좋아졌나? | [6월 집중 이벤트 중간 복기: 금리·유가·AI 과열 스트레스 테스트](/ko/post/june-event-cluster-midpoint-review-rates-oil-ai-stress-test-2026-06-13/) |
 | 10B | 6월 후반부 PCE·GDP·내구재·Russell 이벤트는 어떻게 대응하나? | [6월 후반 이벤트 지도: 중앙은행 put 약화와 한국 AI 메모리의 조건부 매수 구간](/ko/post/june-second-half-event-map-central-bank-put-korea-ai-memory-2026-06-19/) |
+| 10C | KOSPI 이격60 +28.6%는 매도 신호인가, 리스크 축소 신호인가? | [KOSPI 이격60 +28.6%: 천장 콜이 아니라 부분 리스크 축소 신호](/ko/post/kospi-disparity60-overheat-framework-partial-trim-2026-06-21/) |
 | 10+ | 테마 ETF 정기변경·비중 상한 재조정 수급은 어디로 흐르나? | [테마 ETF 리밸런싱 수급: 반도체 소부장에는 재배분 매수, 대장주에는 비중 상한 압력](/ko/post/kr-theme-etf-rebalance-flow-semicap-cap-trim-2026-06-12/) |
 | 10++ | ETF 수급과 만기 이벤트가 주도할 때 변동성은 어떻게 대응하나? | [ETF 수급이 주도하는 한국 시장: 변동성이 커질 때 대응하는 몇 가지 전략](/ko/post/korea-etf-flow-led-market-volatility-strategy-2026-06-13/) |
 | 10+++ | 반도체 ETF 노출을 시총 대비로 보면 어떤 후보가 남았나? | [반도체 ETF 노출 전략](/ko/post/korea-semiconductor-etf-exposure-marketcap-gap-strategy-2026-06-13/) |
