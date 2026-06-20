@@ -1,6 +1,6 @@
 ---
 title: "La IPO de CXMT y el riesgo de precios de memoria: HBM no es el primer punto débil"
-date: 2026-06-21T02:30:00+09:00
+date: 2026-06-21T02:20:00+09:00
 description: "Análisis por producto de lo que la salida a bolsa de CXMT implica para HBM, DRAM de servidor, DDR5 cliente, LPDDR, NAND, Samsung Electronics, SK Hynix y Micron."
 categories: ["Exclusive Analysis", "Market-Outlook"]
 tags: ["CXMT", "ChangXin Memory", "DRAM", "HBM", "HBM4", "DDR5", "LPDDR", "NAND", "SK Hynix", "Samsung Electronics", "Micron", "AI memory"]

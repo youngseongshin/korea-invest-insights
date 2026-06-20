@@ -1,6 +1,6 @@
 ---
 title: "IPO de CXMT et risque sur les prix mémoire : HBM n’est pas le premier point de rupture"
-date: 2026-06-21T02:30:00+09:00
+date: 2026-06-21T02:20:00+09:00
 description: "Lecture par segment de l’impact de l’IPO de CXMT sur HBM, DRAM serveur, DDR5 client, LPDDR, NAND, Samsung Electronics, SK Hynix et Micron."
 categories: ["Exclusive Analysis", "Market-Outlook"]
 tags: ["CXMT", "ChangXin Memory", "DRAM", "HBM", "HBM4", "DDR5", "LPDDR", "NAND", "SK Hynix", "Samsung Electronics", "Micron", "AI memory"]

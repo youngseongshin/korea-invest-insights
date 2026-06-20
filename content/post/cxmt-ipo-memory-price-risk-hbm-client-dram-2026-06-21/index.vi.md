@@ -1,6 +1,6 @@
 ---
 title: "IPO của CXMT và rủi ro giá bộ nhớ: HBM không phải nơi gãy đầu tiên"
-date: 2026-06-21T02:30:00+09:00
+date: 2026-06-21T02:20:00+09:00
 description: "Phân tích theo từng sản phẩm về tác động của IPO CXMT đối với HBM, DRAM máy chủ, DDR5 client, LPDDR, NAND, Samsung Electronics, SK Hynix và Micron."
 categories: ["Exclusive Analysis", "Market-Outlook"]
 tags: ["CXMT", "ChangXin Memory", "DRAM", "HBM", "HBM4", "DDR5", "LPDDR", "NAND", "SK Hynix", "Samsung Electronics", "Micron", "AI memory"]

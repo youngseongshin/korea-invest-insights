@@ -1,6 +1,6 @@
 ---
 title: "长鑫存储IPO与内存价格风险：首先承压的不是HBM"
-date: 2026-06-21T02:30:00+09:00
+date: 2026-06-21T02:20:00+09:00
 description: "从产品层面分析CXMT科创板IPO对HBM、服务器DRAM、客户端DDR5、LPDDR、NAND、三星电子、SK海力士和美光的影响。"
 categories: ["Exclusive Analysis", "Market-Outlook"]
 tags: ["CXMT", "长鑫存储", "DRAM", "HBM", "HBM4", "DDR5", "LPDDR", "NAND", "SK Hynix", "Samsung Electronics", "Micron", "AI memory"]

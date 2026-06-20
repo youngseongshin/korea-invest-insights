@@ -1,6 +1,6 @@
 ---
 title: "창신메모리 IPO와 메모리 가격 리스크: HBM이 먼저 꺾이는 장은 아니다"
-date: 2026-06-21T02:30:00+09:00
+date: 2026-06-21T02:20:00+09:00
 description: "CXMT의 상하이 STAR Market IPO와 중국 DRAM 공급 확대가 HBM, 서버 DRAM, client DDR5, LPDDR, NAND 가격에 미칠 영향을 제품별로 나눠 점검한다."
 categories: ["Exclusive Analysis", "Market-Outlook"]
 tags:

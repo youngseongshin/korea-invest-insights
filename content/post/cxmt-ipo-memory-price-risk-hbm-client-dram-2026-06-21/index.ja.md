@@ -1,6 +1,6 @@
 ---
 title: "CXMT上場とメモリ価格リスク：最初に崩れるのはHBMではない"
-date: 2026-06-21T02:30:00+09:00
+date: 2026-06-21T02:20:00+09:00
 description: "CXMTのSTAR Market上場がHBM、サーバーDRAM、クライアントDDR5、LPDDR、NAND、Samsung Electronics、SK Hynix、Micronに与える影響を製品別に整理する。"
 categories: ["Exclusive Analysis", "Market-Outlook"]
 tags: ["CXMT", "ChangXin Memory", "DRAM", "HBM", "HBM4", "DDR5", "LPDDR", "NAND", "SK Hynix", "Samsung Electronics", "Micron", "AI memory"]

@@ -1,6 +1,6 @@
 ---
 title: "CXMT IPO And Memory Price Risk: HBM Is Not The First Place To Break"
-date: 2026-06-21T02:30:00+09:00
+date: 2026-06-21T02:20:00+09:00
 description: "A product-by-product view of what CXMT's STAR Market IPO means for HBM, server DRAM, client DDR5, LPDDR, NAND, Samsung Electronics, SK Hynix and Micron."
 categories: ["Exclusive Analysis", "Market-Outlook"]
 tags:
