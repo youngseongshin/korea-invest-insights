@@ -5,7 +5,7 @@ date: 2026-06-13T19:35:00+09:00
 aliases: ["/exclusive-analysis/", "/page/exclusive-analysis-hub/"]
 layout: "page"
 description: "A hub for Korea Invest Insights proprietary analysis: internally constructed datasets, full ETF constituent scans, real-money flow frameworks, ETF rebalance proxies, breadth and liquidity screens, and original stock-selection work."
-lastmod: 2026-06-20T10:30:00+09:00
+lastmod: 2026-06-21T02:35:00+09:00
 ---
 
 ## Purpose
@@ -22,6 +22,7 @@ This hub collects Korea Invest Insights posts built from proprietary or internal
 
 | Date | Topic | Key takeaway | Post |
 |---|---|---|---|
+| 2026-06-21 | CXMT IPO and memory price risk | CXMT's IPO is not an immediate HBM price-collapse signal. It is a structural supply event that can cap client DDR5, LPDDR and consumer NAND pricing. The key equity question is whether HBM and AI server memory mix can absorb client DRAM/NAND risk. | [CXMT IPO And Memory Price Risk](/post/cxmt-ipo-memory-price-risk-hbm-client-dram-2026-06-21/) |
 | 2026-06-20 | How hard is it to beat pure KOSPI? | In 2026, pure KOSPI was not the average Korean market; it was a concentrated Samsung Electronics / SK Hynix AI-memory benchmark. In a 2,730-stock Monte Carlo, a random equal-weight 20-stock portfolio beat KOSPI only 1.0% of the time; a 30-stock portfolio only 0.5%. | [How Rare Is It To Beat The Pure KOSPI Benchmark?](/post/kospi-benchmark-hard-to-beat-narrow-market-monte-carlo-2026-06-20/) |
 | 2026-06-19 | Warsh Fed and expensive money | The June FOMC changed market habits more than it changed rates: less forward guidance, a weaker Fed put, and more selective capital moving toward AI infrastructure, power, defense, energy, physical bottlenecks and proven cash flow. | [The Era of Expensive Money](/post/warsh-fed-expensive-money-era-forward-guidance-ai-infra-2026-06-19/) |
 | 2026-06-13 | Target-price gap and comfort-entry candidates | A large target-price gap is not enough. Combining target revisions, smart money and 20/50-day trend leaves KB Financial and Hana Financial as the cleaner comfort-entry candidates. | [A Large Target-Price Gap Is Not Enough](/post/korea-target-price-gap-comfortable-entry-candidates-2026-06-13/) |
@@ -55,6 +56,7 @@ This hub collects Korea Invest Insights posts built from proprietary or internal
 
 ### Relative Valuation And Cycle Frames
 
+- [CXMT IPO And Memory Price Risk: HBM Is Not The First Place To Break](/post/cxmt-ipo-memory-price-risk-hbm-client-dram-2026-06-21/)
 - [The Era of Expensive Money: What the Warsh Fed Really Changed](/post/warsh-fed-expensive-money-era-forward-guidance-ai-infra-2026-06-19/)
 - [Samsung-Hynix-Micron Forward P/E Parity](/post/samsung-hynix-micron-forward-per-parity-memory-catch-up-2026-06-03/)
 - [Sam-Ha-Ma Parity Follow-Up](/post/sam-hama-parity-follow-up-ai-chip-memory-pe-map-2026-06-05/)

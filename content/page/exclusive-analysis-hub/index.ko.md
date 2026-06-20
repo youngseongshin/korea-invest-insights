@@ -5,7 +5,7 @@ date: 2026-06-13T19:35:00+09:00
 aliases: ["/ko/exclusive-analysis/", "/ko/page/exclusive-analysis-hub/"]
 layout: "page"
 description: "Korea Invest Insights의 자체 데이터 분석 허브. 자체 계산 데이터셋, Naver ETF 구성 전수 스캔, Real Money 수급, ETF 리밸런싱, 브레드스와 유동성 프레임워크 등 공개 기사 요약이 아니라 직접 계산한 분석 글을 모은다."
-lastmod: 2026-06-20T10:30:00+09:00
+lastmod: 2026-06-21T02:35:00+09:00
 ---
 
 ## 이 허브의 목적
@@ -26,6 +26,7 @@ lastmod: 2026-06-20T10:30:00+09:00
 
 | 날짜 | 주제 | 핵심 결론 | 글 |
 |---|---|---|---|
+| 2026-06-21 | 창신메모리 IPO와 메모리 가격 리스크 | CXMT IPO는 HBM 가격 붕괴 신호가 아니라 client DDR5·LPDDR·consumer NAND 가격 상단을 낮출 수 있는 공급 구조 변화다. 메모리 주식의 핵심 질문은 이제 DRAM 전체 가격이 아니라 HBM·AI 서버 메모리 믹스가 client DRAM/NAND 리스크를 얼마나 흡수하는지다. | [창신메모리 IPO와 메모리 가격 리스크](/ko/post/cxmt-ipo-memory-price-risk-hbm-client-dram-2026-06-21/) |
 | 2026-06-20 | 순수 KOSPI 벤치마크 초과 난이도 | 2026년 KOSPI는 시장 평균이 아니라 삼성전자·SK하이닉스 중심의 초집중 AI 메모리 베팅에 가까웠다. 한국 2,730개 종목 몬테카를로 기준 20종목 균등 분산 계좌가 KOSPI를 이긴 비율은 1.0%, 30종목은 0.5%에 그쳤다. | [순수 KOSPI 벤치마크를 이기는 계좌는 얼마나 드문가](/ko/post/kospi-benchmark-hard-to-beat-narrow-market-monte-carlo-2026-06-20/) |
 | 2026-06-19 | Warsh Fed와 비싸진 돈의 시대 | 6월 FOMC의 핵심은 금리 인상 선언보다 forward guidance 축소와 Fed put 약화다. 돈이 사라진 장이 아니라, 비싸진 돈이 AI 인프라·전력·방산·에너지·실물 병목과 현금흐름으로 더 까다롭게 이동하는 장으로 해석한다. | [비싸진 돈의 시대](/ko/post/warsh-fed-expensive-money-era-forward-guidance-ai-infra-2026-06-19/) |
 | 2026-06-17 | AI 1996 vs 1999와 FOMC 반응 함수 | AI는 1996년형 생산성 옵션을 품고 있지만, 이번 FOMC가 당장 다룰 관측 가능한 충격은 1999년형 CapEx·기대 선반영에 더 가깝다. 생산성은 옵션이고 데이터센터·전력·반도체·금융여건은 현재형이다. | [AI는 1996년인가 1999년인가](/ko/post/ai-1996-vs-1999-fomc-hawkish-hold-productivity-capex-2026-06-17/) |
@@ -68,6 +69,7 @@ lastmod: 2026-06-20T10:30:00+09:00
 
 ### 상대 밸류에이션과 사이클 프레임
 
+- [창신메모리 IPO와 메모리 가격 리스크: HBM이 먼저 꺾이는 장은 아니다](/ko/post/cxmt-ipo-memory-price-risk-hbm-client-dram-2026-06-21/)
 - [비싸진 돈의 시대: Warsh Fed가 바꾼 것은 금리보다 시장의 습관이다](/ko/post/warsh-fed-expensive-money-era-forward-guidance-ai-infra-2026-06-19/)
 - [AI는 1996년인가 1999년인가: 이번 FOMC와 그 이후](/ko/post/ai-1996-vs-1999-fomc-hawkish-hold-productivity-capex-2026-06-17/)
 - [삼하마 패리티: 삼성전자·하이닉스가 마이크론보다 다시 싸진 구간](/ko/post/samsung-hynix-micron-forward-per-parity-memory-catch-up-2026-06-03/)
