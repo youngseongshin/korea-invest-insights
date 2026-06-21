@@ -5,7 +5,7 @@ date: 2026-04-30T23:05:00+09:00
 aliases: ["/ko/hbm/", "/ko/semiconductor/", "/ko/samsung-hynix/", "/ko/kospi-hbm/", "/ko/page/hbm/"]
 layout: "page"
 description: "AI HBM 허브. 삼성전자, SK하이닉스, HBM, AI 메모리, 코스피 지수 쏠림과 한국 반도체 투자 논거를 한곳에 모은 리서치 허브. HBM 시장점유율, 삼성전자 코스피 비중, KOSPI 리레이팅, AI 서버 수요를 순서대로 정리한다."
-lastmod: 2026-06-21T02:20:00+09:00
+lastmod: 2026-06-21T22:30:00+09:00
 ---
 
 ## 한 줄 결론
@@ -18,6 +18,7 @@ lastmod: 2026-06-21T02:20:00+09:00
 
 | 검색 질문 | 현재 답변 | 자세히 보기 |
 |---|---|---|
+| 2027년 메모리·HBM 실적 컨센서스를 수요자가 지불할 수 있나 | 핵심 지불자는 소비자 전자가 아니라 하이퍼스케일러 CAPEX다. 빅테크 4사 2027E CAPEX 약 7,822억달러 대비 FCF는 약 1,199억달러로 회계상 지불은 가능하나 완충은 얇다. 정부·주권 AI는 보조 수요, PC·스마트폰 OEM은 가격 전가 한계로 지불불능 구간이다. 메모리 3사 이익은 CAPEX보다 ASP 유지·HBM 공급부족 지속에 더 민감하다. | [2027 반도체 컨센서스는 누가 지불하는가](/ko/post/semiconductor-2027-earnings-hyperscaler-payability-memory-nvidia-2026-06-21/) |
 | SK하이닉스 HBM 시장점유율은 어느 정도인가 | 2026년 전체 HBM 매출·점유율 기준으로는 약 50% 안팎이 실용적 기준이며, 엔비디아 HBM4 램프업에서는 더 높은 점유율 가능성이 있다. | [SK하이닉스 HBM 시장점유율 2026](/ko/post/sk-hynix-hbm-market-share-ai-memory-demand-2026/) |
 | 삼성전자 코스피 비중은 얼마나 큰가 | 한국 ETF 투자자 기준 삼성전자는 단일 종목이 아니라 지수 자체를 좌우하는 핵심 익스포저다. 주요 한국 지수 상품에서 대략 20% 초반에서 30% 초반 비중으로 나타난다. | [삼성전자 코스피 비중](/ko/post/samsung-electronics-weight-in-kospi-index-2026/) |
 | 삼성전자와 SK하이닉스 중 HBM 순수 노출은 어디가 강한가 | 순수 HBM 노출은 SK하이닉스가 더 명확하다. 삼성전자는 HBM 회복, DDR5/eSSD, 파운드리 옵션, 스마트폰·세트 사업까지 포함한 복합 반도체·전자 대형주다. | [SK하이닉스 딥다이브](/ko/post/kr-deep-dive-sk-hynix-2026-04-16/) · [삼성전자 딥다이브](/ko/post/kr-deep-dive-samsung-electronics-2026-04-16/) |
