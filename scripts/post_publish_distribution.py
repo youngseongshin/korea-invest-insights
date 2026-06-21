@@ -31,8 +31,11 @@ DEFAULT_DATA_DIR = Path.home() / ".local" / "share" / "korea-invest-insights"
 LOCK_PATH = DEFAULT_DATA_DIR / "post_publish_distribution.lock"
 # Valley cross-posting is paused in the default blog publish path. Keep it as
 # an explicit opt-in channel so it can be revived without restoring old code.
-DEFAULT_CHANNELS = ["telegram", "botmadang", "substack"]
+DEFAULT_CHANNELS = ["telegram", "botmadang", "substack", "linkedin"]
 SUPPORTED_CHANNELS = set(DEFAULT_CHANNELS) | {"valley"}
+
+# LinkedIn secrets live outside the repo (token from linkedin_oauth_setup.py).
+LINKEDIN_ENV_PATH = Path.home() / ".config" / "korea-invest-insights" / "linkedin.env"
 UNIFIED_WATERMARK_KEY = "unifiedDistributionActivatedAt"
 REQUIRED_TRANSLATION_LANGS = ("ko", "en", "es", "vi", "fr", "ja", "zh")
 
@@ -466,6 +469,54 @@ def run_substack_for_post(post: dict, args: argparse.Namespace) -> dict:
     return {"status": "error", "slug": slug, "exitCode": code, "tail": tail}
 
 
+def linkedin_configured() -> bool:
+    try:
+        text = LINKEDIN_ENV_PATH.read_text(encoding="utf-8")
+    except OSError:
+        return False
+    return "LINKEDIN_ACCESS_TOKEN=" in text and "LINKEDIN_MEMBER_URN=" in text
+
+
+def run_linkedin_for_post(post: dict, args: argparse.Namespace) -> dict:
+    slug = post_slug(post)
+    if not linkedin_configured():
+        # LinkedIn is a default channel but optional: never fail the run just
+        # because the token is not set up yet.
+        return {
+            "status": "skipped",
+            "slug": slug,
+            "url": post["canonical_url"],
+            "reason": "LinkedIn not configured (run scripts/linkedin_oauth_setup.py)",
+        }
+    if args.dry_run:
+        return {"status": "would_publish", "slug": slug, "url": post["canonical_url"]}
+    desc = str(post.get("front_matter", {}).get("description", ""))
+    code, tail = run_external(
+        [
+            sys.executable,
+            str(Path(args.repo_root).resolve() / "scripts" / "linkedin_notify.py"),
+            "--slug", slug,
+            "--url", post["canonical_url"],
+            "--title", post["title"],
+            "--desc", desc,
+        ],
+        args,
+    )
+    if code == 0:
+        summary = {"slug": slug, "url": post["canonical_url"]}
+        record_channel("linkedin", post, "publish", summary)
+        return {"status": "published", **summary}
+    # Non-fatal: a LinkedIn failure (e.g. expired token) must not block the
+    # other channels. Not recorded, so it retries on the next run.
+    return {
+        "status": "skipped",
+        "slug": slug,
+        "url": post["canonical_url"],
+        "reason": "LinkedIn post failed (non-fatal)",
+        "tail": tail,
+    }
+
+
 def run_candidate_channel(channel: str, args: argparse.Namespace) -> int:
     candidates, initialized = discover_channel_candidates(args, channel)
     results: list[dict] = []
@@ -523,6 +574,8 @@ def run_candidate_channel(channel: str, args: argparse.Namespace) -> int:
             result = run_botmadang_for_post(post, args)
         elif channel == "substack":
             result = run_substack_for_post(post, args)
+        elif channel == "linkedin":
+            result = run_linkedin_for_post(post, args)
         else:
             raise RuntimeError(f"unsupported candidate channel: {channel}")
         result.setdefault("title", post["title"])
@@ -562,8 +615,10 @@ def main(argv: list[str] | None = None) -> int:
         default=",".join(DEFAULT_CHANNELS),
         help=(
             "Comma-separated channels to run after the blog URL is live. "
-            "Default: telegram,botmadang,substack. Valley is paused by default "
-            "but remains available by passing --channels valley or adding valley explicitly."
+            "Default: telegram,botmadang,substack,linkedin. LinkedIn auto-posts to "
+            "the configured personal profile when a token exists (scripts/linkedin_oauth_setup.py); "
+            "it silently skips if not configured and never blocks other channels. "
+            "Valley is paused by default but remains available by passing --channels valley."
         ),
     )
     parser.add_argument("--lang", default="ko")
@@ -616,7 +671,7 @@ def main(argv: list[str] | None = None) -> int:
                 "reason": "Valley access suspended after abnormal-access warning",
             })
 
-    for channel in ("telegram", "botmadang", "substack"):
+    for channel in ("telegram", "botmadang", "substack", "linkedin"):
         if channel in channels:
             code = run_candidate_channel(channel, args)
             results.append({"channel": channel, "exitCode": code})

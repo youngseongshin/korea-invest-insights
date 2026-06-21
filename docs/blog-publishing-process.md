@@ -103,6 +103,12 @@ All channel notifications are now run from one post-live wrapper:
   version only. Korean-only posts are logged as `skip_no_english`, not treated as
   failures. That skip is retryable: if `index.en.md` is added later, the
   Substack channel may publish the post on the next targeted run.
+- **LinkedIn**: `scripts/post_publish_distribution.py` calls
+  `scripts/linkedin_notify.py`, which posts the canonical blog URL + title +
+  teaser to the configured **personal LinkedIn profile** via the LinkedIn Posts
+  API. It is a default channel but optional: if no token is configured it
+  silently skips, and any LinkedIn failure (e.g. expired token) is non-fatal and
+  never blocks the other channels. One-time setup below.
 - **Valley**: paused by default after the abnormal-access warning. The code path
   remains available for explicit recovery, but do not include it in default
   follow-up distribution until the user resumes Valley posting.
@@ -110,8 +116,35 @@ All channel notifications are now run from one post-live wrapper:
 The default channel set is:
 
 ```text
-telegram,botmadang,substack
+telegram,botmadang,substack,linkedin
 ```
+
+### LinkedIn one-time setup
+
+LinkedIn auto-posting needs a member access token (`w_member_social`). The token
+and app credentials live ONLY in a local secrets file, never in the repo or
+GitHub Actions:
+
+```text
+~/.config/korea-invest-insights/linkedin.env
+```
+
+Steps (the user authorizes in their own browser; the tooling never handles the
+password):
+
+1. On developer.linkedin.com: create an app, add the products "Share on
+   LinkedIn" and "Sign In with LinkedIn using OpenID Connect", and add the
+   redirect URL `http://localhost:8765/callback`.
+2. Put the app Client ID/Secret in `linkedin.env`
+   (`LINKEDIN_CLIENT_ID=...`, `LINKEDIN_CLIENT_SECRET=...`).
+3. Run `python3 scripts/linkedin_oauth_setup.py`, click "Allow" in the browser.
+   It writes the access token, refresh token, expiry and member URN into
+   `linkedin.env`.
+4. Test: `scripts/post_publish_distribution.py --slug <slug> --channels linkedin --max-posts 1`.
+
+The member token is valid ~60 days; a refresh token (if the app is approved for
+it) renews silently for ~1 year, otherwise re-run the setup script when posting
+starts failing with an auth error.
 
 Override only for targeted recovery:
 
