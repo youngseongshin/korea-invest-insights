@@ -45,6 +45,28 @@ Source-fidelity rule for detailed research attachments:
   Translations may be slightly tighter for readability, but they should not
   remove central evidence, tables, risk checks, or investment conclusions.
 
+Korean writing quality defaults:
+
+- Treat Korean readability as a publish blocker for every `index.ko.md`, not as
+  a cosmetic pass after publishing.
+- Avoid the em dash character `—` in Korean posts. Rewrite with a comma, colon,
+  parentheses, or a separate sentence.
+- Avoid raw Markdown bold markers such as `**...**` in Korean source. They can
+  leak as literal text in downstream surfaces or mixed HTML blocks. Prefer
+  `<strong>...</strong>` only when emphasis is truly useful, or remove the
+  emphasis.
+- Do not use raw `**` in frontmatter, tables, callouts, HTML snippets, Telegram
+  messages, Substack blurbs, LinkedIn copy, or other external summaries.
+- Remove AI-slop wording before publish: translationese, stiff English word
+  order, repeated formulaic phrases, unnatural Korean nouns/verbs, and
+  over-polished but vague sentences. Keep analytical density, but make the
+  Korean sound like a human investment memo.
+- Prefer natural Korean expressions. Keep English market terms only when they
+  are standard for the intended reader, and explain them once if the term is
+  doing analytical work.
+- Read the title, TL;DR, and highlighted callouts aloud before publishing. If
+  they sound like directly translated English, rewrite them.
+
 1. Publish through the OpenClaw blog pipeline when creating a new post. This is
    the normal path for multilingual posts:
 
@@ -70,6 +92,7 @@ Source-fidelity rule for detailed research attachments:
 3. Validate locally:
 
    ```bash
+   scripts/check_korean_post_style.py content/post/<post-slug>/index.ko.md
    git diff --check
    hugo --minify
    ```
