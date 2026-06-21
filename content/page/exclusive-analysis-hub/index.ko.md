@@ -5,7 +5,7 @@ date: 2026-06-13T19:35:00+09:00
 aliases: ["/ko/exclusive-analysis/", "/ko/page/exclusive-analysis-hub/"]
 layout: "page"
 description: "Korea Invest Insights의 자체 데이터 분석 허브. 자체 계산 데이터셋, Naver ETF 구성 전수 스캔, Real Money 수급, ETF 리밸런싱, 브레드스와 유동성 프레임워크 등 공개 기사 요약이 아니라 직접 계산한 분석 글을 모은다."
-lastmod: 2026-06-21T02:42:00+09:00
+lastmod: 2026-06-21T12:05:00+09:00
 ---
 
 ## 이 허브의 목적
@@ -32,10 +32,7 @@ lastmod: 2026-06-21T02:42:00+09:00
 | 2026-06-19 | Warsh Fed와 비싸진 돈의 시대 | 6월 FOMC의 핵심은 금리 인상 선언보다 forward guidance 축소와 Fed put 약화다. 돈이 사라진 장이 아니라, 비싸진 돈이 AI 인프라·전력·방산·에너지·실물 병목과 현금흐름으로 더 까다롭게 이동하는 장으로 해석한다. | [비싸진 돈의 시대](/ko/post/warsh-fed-expensive-money-era-forward-guidance-ai-infra-2026-06-19/) |
 | 2026-06-17 | AI 1996 vs 1999와 FOMC 반응 함수 | AI는 1996년형 생산성 옵션을 품고 있지만, 이번 FOMC가 당장 다룰 관측 가능한 충격은 1999년형 CapEx·기대 선반영에 더 가깝다. 생산성은 옵션이고 데이터센터·전력·반도체·금융여건은 현재형이다. | [AI는 1996년인가 1999년인가](/ko/post/ai-1996-vs-1999-fomc-hawkish-hold-productivity-capex-2026-06-17/) |
 | 2026-06-17 | AI 생산성 실증과 거시 확산 | Generative AI at Work의 현장 15% 생산성 개선, FEDS Notes의 채택률, Kansas City Fed의 좁은 생산성 확산, SF Fed의 정책 반응 함수를 연결해 AI capex가 정당화되려면 업무 생산성이 산업 통계로 확산되어야 한다고 정리한다. | [AI 생산성은 실제인가](/ko/post/ai-productivity-real-evidence-generative-ai-at-work-fed-2026-06-17/) |
-| 2026-06-16 | Rheinmetall-LIG 유럽/NATO 방공 채널 | 유럽은 다층 방공망과 현지 생산능력을 동시에 다시 만들어야 하고, Rheinmetall 과반 JV와 LIG MRAD/LRAD 현지화 구조는 한국 방공 미사일을 유럽 조달 언어로 제안할 수 있는 공식 통로다. | [Rheinmetall과 LIG](/ko/post/rheinmetall-lig-europe-nato-air-defense-channel-2026-06-16/) |
-| 2026-06-14 | 건설사 리레이팅과 인프라 EPC 재분류 | 건설주 전체가 아니라 현대건설·DL이앤씨·삼성물산·삼성E&A처럼 원전·AI 전력·데이터센터·에너지 EPC로 다시 읽히는 일부 종목만 리레이팅 가능하다. | [건설사 리레이팅은 오는가](/ko/post/construction-epc-rerating-ai-power-nuclear-datacenter-reconstruction-2026-06-14/) |
 | 2026-06-13 | 목표가 갭과 편한 진입 후보 | 목표가 갭이 큰 종목을 그대로 사지 않고, 목표가 상향·smart money·20/50일선까지 결합하면 KB금융·하나금융만 현재 편한 후보로 남는다. | [목표가 갭이 크다고 다 편한 자리는 아니다](/ko/post/korea-target-price-gap-comfortable-entry-candidates-2026-06-13/) |
-| 2026-06-13 | 현대건설과 우진의 미국 원전 협상력 | 현대건설은 Fermi AP1000·Holtec SMR-300 실행 병목, 우진은 원전 계측기·ICI 반복 교체수요에 걸린 소형 비대칭 옵션으로 분리한다. | [현대건설과 우진: 미국 원전 확대 흐름 속 비대칭 협상력](/ko/post/hyundai-ec-woojin-us-nuclear-expansion-bargaining-power-2026-06-13/) |
 | 2026-06-13 | 대미투자특별법과 원전 팀코리아 | 3,500억달러 정책자본 이벤트를 원전 밸류체인으로 분해해 두산에너빌리티·현대건설·한전기술 베타와 한전KPS·우리기술·우진·전력기기 후방 알파를 나눈다. | [500조원 대미투자특별법 시행 카운트다운](/ko/post/us-investment-special-act-team-korea-nuclear-opportunity-2026-06-13/) |
 | 2026-06-13 | 반도체 Top50 2개월 상대 알파 | 삼성전자·SK하이닉스는 core지만, 초과수익 후보는 코리아써키트·HPSP·테스·브이엠·파두 같은 2선 장비·기판·AI 스토리지에서 찾는다. | [반도체 Top50에서 삼성전자·SK하이닉스를 2개월 이길 후보는 어디인가](/ko/post/korea-semiconductor-top50-two-month-alpha-candidates-samsung-hynix-2026-06-13/) |
 | 2026-06-13 | 반도체 ETF 노출과 수급 민감도 | 삼성전자·SK하이닉스 90.8% 쏠림 속에서 ETF 절대 보유액과 시총 대비 민감도, ETF 미반영 gap 후보를 분리한다. | [삼성전자·SK하이닉스 90.8% 쏠림](/ko/post/korea-semiconductor-etf-exposure-marketcap-gap-strategy-2026-06-13/) |
@@ -49,6 +46,8 @@ lastmod: 2026-06-21T02:42:00+09:00
 | 2026-06-03 | 한국 증시 자금흐름과 ADR | 유동성은 많지만 시장 폭은 무너진 좁은 주도주 장세라는 결론을 도출한다. | [유동성은 많은데 시장 폭은 무너졌다](/ko/post/korea-market-liquidity-foreign-reallocation-adr-narrow-leadership-2026-06-03/) |
 | 2026-05-31 | 외국인 플레이북 | KOSPI 168개, KOSDAQ 355개를 외국인 거래대상으로 분류해 long-only 후보와 국내 유동성 후보를 분리한다. | [외국인이 보는 종목과 안 보는 종목](/ko/post/korea-foreign-playbook-msci-dm-kospi-168-kosdaq-355-2026-05-31/) |
 | 2026-05-16 | 삼성전자 vs TSMC식 PER 재분류 | 삼성전자를 메모리 사이클주가 아니라 AI 통합 플랫폼으로 재분류할 경우 PER 15배가 가능한지 점검한다. | [삼성전자에 PER 15배가 가능한가](/ko/post/samsung-electronics-tsmc-rerating-thesis-2026-05-16/) |
+| 2026-05-05 | AI PCB 시스템 병목 논거 | GPU 다음 기판이라는 선형 순환매가 아니라, GPU·CPU·DPU·NIC·스위치 ASIC·메모리 모듈이 함께 늘어나는 랙 단위 AI 시스템 BOM의 공통 병목으로 PCB·기판·CCL을 재정의한다. | [AI 기판·PCB 투자 논거](/ko/post/ai-pcb-thesis-system-bom-common-bottleneck-2026-05-05/) |
+| 2026-05-05 | 한국 AI PCB 생태계 10개사 | 삼성전기·이수페타시스·대덕전자·심텍·코리아써키트·티엘비·두산 전자BG·코오롱인더·파미셀·태성을 FC-BGA, MLB, SoCAMM, CCL, 저유전 소재, 장비로 나눠 사업 품질과 투자 팩터를 분리한다. | [한국 AI 기판·PCB 생태계 10개사](/ko/post/korea-ai-pcb-ecosystem-ten-companies-2026-05-05/) |
 
 ---
 
@@ -61,11 +60,13 @@ lastmod: 2026-06-21T02:42:00+09:00
 - [ETF 수급이 주도하는 한국 시장: 변동성이 커질 때 대응하는 몇 가지 전략](/ko/post/korea-etf-flow-led-market-volatility-strategy-2026-06-13/)
 - [테마 ETF 리밸런싱 수급: 반도체 소부장에는 재배분 매수, 대장주에는 비중 상한 압력](/ko/post/kr-theme-etf-rebalance-flow-semicap-cap-trim-2026-06-12/)
 
+### AI PCB·시스템 병목
+
+- [AI 기판·PCB 투자 논거: GPU·CPU·NIC·CCL 수요가 함께 늘어나는 이유](/ko/post/ai-pcb-thesis-system-bom-common-bottleneck-2026-05-05/)
+- [한국 AI 기판·PCB 생태계 10개사: FC-BGA·CCL·SoCAMM·소재·장비 비교](/ko/post/korea-ai-pcb-ecosystem-ten-companies-2026-05-05/)
+
 ### 정책자본과 이벤트 판독
 
-- [Rheinmetall과 LIG: 유럽/NATO 방공망에 한국 중·장거리 미사일 채널이 열렸다](/ko/post/rheinmetall-lig-europe-nato-air-defense-channel-2026-06-16/)
-- [건설사 리레이팅은 오는가: 주택이 아니라 원전·전력·AI 인프라 EPC다](/ko/post/construction-epc-rerating-ai-power-nuclear-datacenter-reconstruction-2026-06-14/)
-- [현대건설과 우진: 미국 원전 확대 흐름 속에서 비대칭 협상력은 있는가](/ko/post/hyundai-ec-woojin-us-nuclear-expansion-bargaining-power-2026-06-13/)
 - [500조원 대미투자특별법 시행 카운트다운: 원전 팀코리아의 기회는?](/ko/post/us-investment-special-act-team-korea-nuclear-opportunity-2026-06-13/)
 
 ### 상대 밸류에이션과 사이클 프레임

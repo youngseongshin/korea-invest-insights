@@ -5,7 +5,7 @@ date: 2026-06-13T19:35:00+09:00
 aliases: ["/exclusive-analysis/", "/page/exclusive-analysis-hub/"]
 layout: "page"
 description: "A hub for Korea Invest Insights proprietary analysis: internally constructed datasets, full ETF constituent scans, real-money flow frameworks, ETF rebalance proxies, breadth and liquidity screens, and original stock-selection work."
-lastmod: 2026-06-21T02:42:00+09:00
+lastmod: 2026-06-21T12:05:00+09:00
 ---
 
 ## Purpose
@@ -27,7 +27,6 @@ This hub collects Korea Invest Insights posts built from proprietary or internal
 | 2026-06-20 | How hard is it to beat pure KOSPI? | In 2026, pure KOSPI was not the average Korean market; it was a concentrated Samsung Electronics / SK Hynix AI-memory benchmark. In a 2,730-stock Monte Carlo, a random equal-weight 20-stock portfolio beat KOSPI only 1.0% of the time; a 30-stock portfolio only 0.5%. | [How Rare Is It To Beat The Pure KOSPI Benchmark?](/post/kospi-benchmark-hard-to-beat-narrow-market-monte-carlo-2026-06-20/) |
 | 2026-06-19 | Warsh Fed and expensive money | The June FOMC changed market habits more than it changed rates: less forward guidance, a weaker Fed put, and more selective capital moving toward AI infrastructure, power, defense, energy, physical bottlenecks and proven cash flow. | [The Era of Expensive Money](/post/warsh-fed-expensive-money-era-forward-guidance-ai-infra-2026-06-19/) |
 | 2026-06-13 | Target-price gap and comfort-entry candidates | A large target-price gap is not enough. Combining target revisions, smart money and 20/50-day trend leaves KB Financial and Hana Financial as the cleaner comfort-entry candidates. | [A Large Target-Price Gap Is Not Enough](/post/korea-target-price-gap-comfortable-entry-candidates-2026-06-13/) |
-| 2026-06-13 | Hyundai E&C and Woojin U.S. nuclear bargaining power | Separates Hyundai E&C's Fermi AP1000 / Holtec SMR-300 execution bottleneck from Woojin's smaller instrumentation and recurring ICI replacement option. | [Hyundai E&C and Woojin in U.S. nuclear expansion](/post/hyundai-ec-woojin-us-nuclear-expansion-bargaining-power-2026-06-13/) |
 | 2026-06-13 | Korea-U.S. policy capital and Team Korea nuclear | Breaks the $350bn policy-capital event into nuclear beta, execution risk and follow-on alpha across O&M, controls, instrumentation and grid equipment. | [Korea's $350 Billion U.S. Investment Law](/post/us-investment-special-act-team-korea-nuclear-opportunity-2026-06-13/) |
 | 2026-06-13 | Semiconductor Top 50 relative alpha | Samsung and SK Hynix are core exposure, but two-month alpha candidates are second-line equipment, substrate and AI storage names such as Korea Circuit, HPSP, TES, VM and FADU. | [Korean Semiconductor Top 50: Which Names Can Beat Samsung and SK Hynix?](/post/korea-semiconductor-top50-two-month-alpha-candidates-samsung-hynix-2026-06-13/) |
 | 2026-06-13 | Semiconductor ETF exposure | Separate absolute ETF ownership, market-cap-adjusted ETF sensitivity and under-owned ETF gap candidates. | [Samsung and SK Hynix Are 90.8% of Korean Semis](/post/korea-semiconductor-etf-exposure-marketcap-gap-strategy-2026-06-13/) |
@@ -40,6 +39,8 @@ This hub collects Korea Invest Insights posts built from proprietary or internal
 | 2026-06-03 | Real-money flow framework | Split institutional flow into short-term broker flow and real-money buying from funds, private funds and pensions. | [Real Money Flow Framework](/post/real-money-flow-framework-korea-institution-quality-2026-06-03/) |
 | 2026-06-03 | Liquidity and ADR | The market has liquidity, but breadth is weak and leadership is narrow. | [Korea Market Liquidity and Narrow Leadership](/post/korea-market-liquidity-foreign-reallocation-adr-narrow-leadership-2026-06-03/) |
 | 2026-05-16 | Samsung versus TSMC-style PER reclassification | Tests whether Samsung can move from a memory-cycle multiple to an AI platform multiple. | [Can Samsung Electronics Get 15x PER?](/post/samsung-electronics-tsmc-rerating-thesis-2026-05-16/) |
+| 2026-05-05 | AI PCB system bottleneck thesis | Reframes PCB, substrates and CCL not as a linear "next theme after GPUs," but as the common bill-of-materials bottleneck across rack-scale AI systems where GPUs, CPUs, DPUs, NICs, switch ASICs and memory modules expand together. | [AI PCB and Substrate Thesis](/post/ai-pcb-thesis-system-bom-common-bottleneck-2026-05-05/) |
+| 2026-05-05 | Korea AI PCB ecosystem, 10 companies | Maps Samsung Electro-Mechanics, Isu Petasys, Daeduck Electronics, Simmtech, Korea Circuit, TLB, Doosan Electronic BG, Kolon Industries, Pamicell and Taesung across FC-BGA, MLB, SoCAMM, CCL, low-dielectric materials and equipment. | [Korea AI PCB Ecosystem: 10 Companies](/post/korea-ai-pcb-ecosystem-ten-companies-2026-05-05/) |
 
 ## Analysis Angles
 
@@ -50,9 +51,13 @@ This hub collects Korea Invest Insights posts built from proprietary or internal
 - [ETF Flow Is Leading the Korean Market](/post/korea-etf-flow-led-market-volatility-strategy-2026-06-13/)
 - [Korea Theme ETF Rebalance Flow](/post/kr-theme-etf-rebalance-flow-semicap-cap-trim-2026-06-12/)
 
+### AI PCB And System Bottlenecks
+
+- [AI PCB and Substrate Thesis: GPU, CPU, NIC and CCL Demand Are One System Bottleneck](/post/ai-pcb-thesis-system-bom-common-bottleneck-2026-05-05/)
+- [Korea AI PCB Ecosystem: 10 Companies Across FC-BGA, CCL, SoCAMM, Materials and Equipment](/post/korea-ai-pcb-ecosystem-ten-companies-2026-05-05/)
+
 ### Policy Capital And Event Reading
 
-- [Hyundai E&C and Woojin: Where Is the Asymmetric Bargaining Power in U.S. Nuclear Expansion?](/post/hyundai-ec-woojin-us-nuclear-expansion-bargaining-power-2026-06-13/)
 - [Korea's $350 Billion U.S. Investment Law: What Is the Nuclear Opportunity for Team Korea?](/post/us-investment-special-act-team-korea-nuclear-opportunity-2026-06-13/)
 
 ### Relative Valuation And Cycle Frames
