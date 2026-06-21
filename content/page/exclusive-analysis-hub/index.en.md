@@ -5,7 +5,7 @@ date: 2026-06-13T19:35:00+09:00
 aliases: ["/exclusive-analysis/", "/page/exclusive-analysis-hub/"]
 layout: "page"
 description: "A hub for Korea Invest Insights proprietary analysis: internally constructed datasets, full ETF constituent scans, real-money flow frameworks, ETF rebalance proxies, breadth and liquidity screens, and original stock-selection work."
-lastmod: 2026-06-21T21:20:00+09:00
+lastmod: 2026-06-21T21:45:00+09:00
 ---
 
 ## Purpose
@@ -22,6 +22,7 @@ This hub collects Korea Invest Insights posts built from proprietary or internal
 
 | Date | Topic | Key takeaway | Post |
 |---|---|---|---|
+| 2026-06-21 | Q2 KRW-weakness earnings surprise candidates | FRED USD/KRW and May/early-June export data show a supportive FX setup for Q2 exporters. The alpha is not generic exporter exposure, but names where dollar revenue, won costs, improving volume or pricing, and under-reflected consensus line up, led by Kolmar Korea, PSK Holdings and Wonik QnC. | [Q2 Earnings: Exporters That Can Still Benefit From KRW Weakness](/post/krw-weakness-2q-earnings-surprise-export-candidates-2026-06-21/) |
 | 2026-06-21 | TechWing HBM Cube Prober | TechWing is no longer just an HBM theme name. Samsung supply, the first SK hynix order and Micron evaluation could reclassify it from memory handler into HBM inspection platform, but entry still needs support at KRW 58,000-60,000 or a reclaim of KRW 65,300. | [TechWing HBM Cube Prober analysis](/post/techwing-hbm-cube-prober-big3-conditional-buy-2026-06-21/) |
 | 2026-06-21 | KOSPI 60-day disparity overheat framework | KOSPI's +28.6% 60-day disparity is not a top call. It is a partial risk-budget reduction signal. Since 2025, disparity-overheat signals still produced positive average 5-day and 20-day forward returns, but 60-day disparity above +20% lifted the probability of a 10-session -5% pullback from a 16% baseline to 63%. Because the effective sample is only eight episodes, use it to reduce chase intensity, not as a mechanical sell rule. | [KOSPI 60-Day Disparity At +28.6%](/post/kospi-disparity60-overheat-framework-partial-trim-2026-06-21/) |
 | 2026-06-21 | CXMT IPO and memory price risk | CXMT's IPO is not an immediate HBM price-collapse signal. It is a structural supply event that can cap client DDR5, LPDDR and consumer NAND pricing. The key equity question is whether HBM and AI server memory mix can absorb client DRAM/NAND risk. | [CXMT IPO And Memory Price Risk](/post/cxmt-ipo-memory-price-risk-hbm-client-dram-2026-06-21/) |
@@ -79,6 +80,7 @@ This hub collects Korea Invest Insights posts built from proprietary or internal
 
 ### Stock Selection Screens
 
+- [Q2 Earnings: Exporters That Can Still Benefit From KRW Weakness](/post/krw-weakness-2q-earnings-surprise-export-candidates-2026-06-21/)
 - [TechWing HBM Cube Prober: from watchlist to conditional-buy candidate](/post/techwing-hbm-cube-prober-big3-conditional-buy-2026-06-21/)
 - [How Rare Is It To Beat The Pure KOSPI Benchmark In This Narrow Market?](/post/kospi-benchmark-hard-to-beat-narrow-market-monte-carlo-2026-06-20/)
 - [A Large Target-Price Gap Is Not Enough: KB Financial and Hana Financial Screen Best](/post/korea-target-price-gap-comfortable-entry-candidates-2026-06-13/)
