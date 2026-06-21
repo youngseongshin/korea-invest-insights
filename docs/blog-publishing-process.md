@@ -117,6 +117,18 @@ All channel notifications are now run from one post-live wrapper:
   scripts/linkedin_approve.py          # review + approve each (y/N)
   scripts/linkedin_approve.py --slug <slug>   # approve one
   ```
+
+  The same capability is available system-wide as a reusable asset for any task
+  (`linkedin-share` on PATH → `~/.openclaw/workspace/tools/linkedin_share.py`),
+  sharing the same token and approval queue:
+
+  ```bash
+  linkedin-share post  "comment" --link https://...   # post now
+  linkedin-share stage "draft"   --link https://...   # queue for approval
+  linkedin-share list ; linkedin-share approve         # also covers blog-staged posts
+  ```
+
+  See the vault note `90_meta/linkedin-share-capability.md`.
 - **Valley**: paused by default after the abnormal-access warning. The code path
   remains available for explicit recovery, but do not include it in default
   follow-up distribution until the user resumes Valley posting.
