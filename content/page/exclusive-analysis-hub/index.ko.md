@@ -5,7 +5,7 @@ date: 2026-06-13T19:35:00+09:00
 aliases: ["/ko/exclusive-analysis/", "/ko/page/exclusive-analysis-hub/"]
 layout: "page"
 description: "Korea Invest Insights의 자체 데이터 분석 허브. 자체 계산 데이터셋, Naver ETF 구성 전수 스캔, Real Money 수급, ETF 리밸런싱, 브레드스와 유동성 프레임워크 등 공개 기사 요약이 아니라 직접 계산한 분석 글을 모은다."
-lastmod: 2026-06-21T12:05:00+09:00
+lastmod: 2026-06-21T21:20:00+09:00
 ---
 
 ## 이 허브의 목적
@@ -26,6 +26,7 @@ lastmod: 2026-06-21T12:05:00+09:00
 
 | 날짜 | 주제 | 핵심 결론 | 글 |
 |---|---|---|---|
+| 2026-06-21 | 테크윙 HBM Cube Prober | 테크윙은 단순 HBM 테마가 아니라 삼성전자 공급, SK하이닉스 초도 수주, 마이크론 평가 진행이 붙은 HBM 검사 플랫폼 후보로 재분류될 수 있다. 다만 현재 수급은 외국인·프로그램 중심이고 파생손실 리스크가 있어 58,000~60,000원 지지 또는 65,300원 재돌파 확인이 필요하다. | [테크윙 HBM Cube Prober 분석](/ko/post/techwing-hbm-cube-prober-big3-conditional-buy-2026-06-21/) |
 | 2026-06-21 | KOSPI 이격60 과열 프레임워크 | KOSPI 이격60 +28.6%는 천장 콜이 아니라 부분 리스크 축소 신호다. 2025년 이후 이격도 과열 신호 뒤의 +5일·+20일 평균 수익률은 플러스였지만, 이격60 +20% 이상에서는 10거래일 안 -5% 눌림 확률이 베이스라인 16%에서 63%로 올라갔다. 표본은 8개 에피소드에 불과하므로 기계적 매도보다 추격 강도 조절에 써야 한다. | [KOSPI 이격60 +28.6%](/ko/post/kospi-disparity60-overheat-framework-partial-trim-2026-06-21/) |
 | 2026-06-21 | 창신메모리 IPO와 메모리 가격 리스크 | CXMT IPO는 HBM 가격 붕괴 신호가 아니라 client DDR5·LPDDR·consumer NAND 가격 상단을 낮출 수 있는 공급 구조 변화다. 메모리 주식의 핵심 질문은 이제 DRAM 전체 가격이 아니라 HBM·AI 서버 메모리 믹스가 client DRAM/NAND 리스크를 얼마나 흡수하는지다. | [창신메모리 IPO와 메모리 가격 리스크](/ko/post/cxmt-ipo-memory-price-risk-hbm-client-dram-2026-06-21/) |
 | 2026-06-20 | 순수 KOSPI 벤치마크 초과 난이도 | 2026년 KOSPI는 시장 평균이 아니라 삼성전자·SK하이닉스 중심의 초집중 AI 메모리 베팅에 가까웠다. 한국 2,730개 종목 몬테카를로 기준 20종목 균등 분산 계좌가 KOSPI를 이긴 비율은 1.0%, 30종목은 0.5%에 그쳤다. | [순수 KOSPI 벤치마크를 이기는 계좌는 얼마나 드문가](/ko/post/kospi-benchmark-hard-to-beat-narrow-market-monte-carlo-2026-06-20/) |
@@ -90,6 +91,7 @@ lastmod: 2026-06-21T12:05:00+09:00
 
 ### 상대수익률 후보 발굴
 
+- [테크윙 HBM Cube Prober 분석: Watchlist에서 Conditional Buy 후보로](/ko/post/techwing-hbm-cube-prober-big3-conditional-buy-2026-06-21/)
 - [순수 KOSPI 벤치마크를 이기는 계좌는 얼마나 드문가: 극단적으로 좁은 장세의 몬테카를로 분석](/ko/post/kospi-benchmark-hard-to-beat-narrow-market-monte-carlo-2026-06-20/)
 - [목표가 갭이 크다고 다 편한 자리는 아니다: KB금융·하나금융부터 본다](/ko/post/korea-target-price-gap-comfortable-entry-candidates-2026-06-13/)
 - [삼닉 쏠림은 계속된다. 하지만 3분기에 돌아볼 퀄리티 종목](/ko/post/samnik-crowding-q3-quality-watchlist-eps-up-price-lag-2026-06-11/)
