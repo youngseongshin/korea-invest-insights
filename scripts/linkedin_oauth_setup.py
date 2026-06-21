@@ -9,7 +9,7 @@ Prerequisites (do these on developer.linkedin.com yourself):
   1. Create a LinkedIn app.
   2. Add the products "Share on LinkedIn" and
      "Sign In with LinkedIn using OpenID Connect".
-  3. Under Auth, add this redirect URL:  http://localhost:8765/callback
+  3. Under Auth, add this redirect URL:  http://localhost:8473/callback
   4. Copy the app's Client ID and Client Secret.
 
 Then put the app credentials in the local secrets file (NOT committed):
@@ -45,7 +45,7 @@ from pathlib import Path
 
 from linkedin_notify import ENV_PATH, read_env, write_env  # type: ignore
 
-REDIRECT_URI = "http://localhost:8765/callback"
+REDIRECT_URI = "http://localhost:8473/callback"
 AUTH_URL = "https://www.linkedin.com/oauth/v2/authorization"
 TOKEN_URL = "https://www.linkedin.com/oauth/v2/accessToken"
 USERINFO_URL = "https://api.linkedin.com/v2/userinfo"
@@ -126,7 +126,7 @@ def main() -> int:
     )
     auth_url = f"{AUTH_URL}?{auth_query}"
 
-    server = http.server.HTTPServer(("127.0.0.1", 8765), _Handler)
+    server = http.server.HTTPServer(("127.0.0.1", 8473), _Handler)
     thread = threading.Thread(target=server.handle_request, daemon=True)
     thread.start()
 

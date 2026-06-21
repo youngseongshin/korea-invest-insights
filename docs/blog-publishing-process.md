@@ -103,12 +103,20 @@ All channel notifications are now run from one post-live wrapper:
   version only. Korean-only posts are logged as `skip_no_english`, not treated as
   failures. That skip is retryable: if `index.en.md` is added later, the
   Substack channel may publish the post on the next targeted run.
-- **LinkedIn**: `scripts/post_publish_distribution.py` calls
-  `scripts/linkedin_notify.py`, which posts the canonical blog URL + title +
-  teaser to the configured **personal LinkedIn profile** via the LinkedIn Posts
-  API. It is a default channel but optional: if no token is configured it
-  silently skips, and any LinkedIn failure (e.g. expired token) is non-fatal and
-  never blocks the other channels. One-time setup below.
+- **LinkedIn**: semi-automatic ("approval") publishing to the configured
+  **personal LinkedIn profile**. On publish, `post_publish_distribution.py`
+  STAGES the post (composed title + teaser + canonical URL) into a pending
+  queue instead of posting. You then review and approve with
+  `scripts/linkedin_approve.py`, which posts via the LinkedIn Posts API
+  (`scripts/linkedin_notify.py`). It is a default channel but optional: if no
+  token is configured it silently skips, and it never blocks the other channels.
+  One-time setup below.
+
+  ```bash
+  scripts/linkedin_approve.py --list   # see what is queued
+  scripts/linkedin_approve.py          # review + approve each (y/N)
+  scripts/linkedin_approve.py --slug <slug>   # approve one
+  ```
 - **Valley**: paused by default after the abnormal-access warning. The code path
   remains available for explicit recovery, but do not include it in default
   follow-up distribution until the user resumes Valley posting.
@@ -134,7 +142,7 @@ password):
 
 1. On developer.linkedin.com: create an app, add the products "Share on
    LinkedIn" and "Sign In with LinkedIn using OpenID Connect", and add the
-   redirect URL `http://localhost:8765/callback`.
+   redirect URL `http://localhost:8473/callback`.
 2. Put the app Client ID/Secret in `linkedin.env`
    (`LINKEDIN_CLIENT_ID=...`, `LINKEDIN_CLIENT_SECRET=...`).
 3. Run `python3 scripts/linkedin_oauth_setup.py`, click "Allow" in the browser.

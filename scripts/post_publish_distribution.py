@@ -477,6 +477,23 @@ def linkedin_configured() -> bool:
     return "LINKEDIN_ACCESS_TOKEN=" in text and "LINKEDIN_MEMBER_URN=" in text
 
 
+LINKEDIN_PENDING_PATH = DEFAULT_DATA_DIR / "linkedin_pending.json"
+
+
+def stage_linkedin_post(post: dict) -> None:
+    """Queue a post for manual LinkedIn approval (semi-automatic publishing)."""
+    data = load_json(LINKEDIN_PENDING_PATH)
+    data.setdefault("pending", {})
+    data["pending"][post["canonical_url"]] = {
+        "slug": post_slug(post),
+        "title": post["title"],
+        "url": post["canonical_url"],
+        "desc": str(post.get("front_matter", {}).get("description", "")),
+        "staged_at": dt.datetime.now(dt.timezone.utc).isoformat(),
+    }
+    save_json(LINKEDIN_PENDING_PATH, data)
+
+
 def run_linkedin_for_post(post: dict, args: argparse.Namespace) -> dict:
     slug = post_slug(post)
     if not linkedin_configured():
@@ -489,31 +506,16 @@ def run_linkedin_for_post(post: dict, args: argparse.Namespace) -> dict:
             "reason": "LinkedIn not configured (run scripts/linkedin_oauth_setup.py)",
         }
     if args.dry_run:
-        return {"status": "would_publish", "slug": slug, "url": post["canonical_url"]}
-    desc = str(post.get("front_matter", {}).get("description", ""))
-    code, tail = run_external(
-        [
-            sys.executable,
-            str(Path(args.repo_root).resolve() / "scripts" / "linkedin_notify.py"),
-            "--slug", slug,
-            "--url", post["canonical_url"],
-            "--title", post["title"],
-            "--desc", desc,
-        ],
-        args,
-    )
-    if code == 0:
-        summary = {"slug": slug, "url": post["canonical_url"]}
-        record_channel("linkedin", post, "publish", summary)
-        return {"status": "published", **summary}
-    # Non-fatal: a LinkedIn failure (e.g. expired token) must not block the
-    # other channels. Not recorded, so it retries on the next run.
+        return {"status": "would_stage", "slug": slug, "url": post["canonical_url"]}
+    # Semi-automatic: stage for manual approval instead of auto-posting. The post
+    # is NOT recorded as distributed until it is approved + published via
+    # scripts/linkedin_approve.py, so it stays in the pending queue.
+    stage_linkedin_post(post)
     return {
-        "status": "skipped",
+        "status": "staged_for_approval",
         "slug": slug,
         "url": post["canonical_url"],
-        "reason": "LinkedIn post failed (non-fatal)",
-        "tail": tail,
+        "reason": "Queued for manual approval — run scripts/linkedin_approve.py",
     }
 
 
@@ -615,9 +617,9 @@ def main(argv: list[str] | None = None) -> int:
         default=",".join(DEFAULT_CHANNELS),
         help=(
             "Comma-separated channels to run after the blog URL is live. "
-            "Default: telegram,botmadang,substack,linkedin. LinkedIn auto-posts to "
-            "the configured personal profile when a token exists (scripts/linkedin_oauth_setup.py); "
-            "it silently skips if not configured and never blocks other channels. "
+            "Default: telegram,botmadang,substack,linkedin. LinkedIn is semi-automatic: "
+            "it STAGES each post for manual approval (scripts/linkedin_approve.py) instead "
+            "of auto-posting; it silently skips if not configured and never blocks other channels. "
             "Valley is paused by default but remains available by passing --channels valley."
         ),
     )
