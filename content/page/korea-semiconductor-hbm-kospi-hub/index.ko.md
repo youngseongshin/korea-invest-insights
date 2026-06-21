@@ -5,7 +5,7 @@ date: 2026-04-30T23:05:00+09:00
 aliases: ["/ko/hbm/", "/ko/semiconductor/", "/ko/samsung-hynix/", "/ko/kospi-hbm/", "/ko/page/hbm/"]
 layout: "page"
 description: "AI HBM 허브. 삼성전자, SK하이닉스, HBM, AI 메모리, 코스피 지수 쏠림과 한국 반도체 투자 논거를 한곳에 모은 리서치 허브. HBM 시장점유율, 삼성전자 코스피 비중, KOSPI 리레이팅, AI 서버 수요를 순서대로 정리한다."
-lastmod: 2026-06-21T22:30:00+09:00
+lastmod: 2026-06-22T08:50:00+09:00
 ---
 
 ## 한 줄 결론
@@ -32,6 +32,7 @@ lastmod: 2026-06-21T22:30:00+09:00
 | ETF 수급이 반도체 변동성을 키울 때 어떻게 대응해야 하나 | 반도체 소부장 재배분 후보는 T+1/T+3 확인 후 접근하고, SK하이닉스·삼성전자 같은 core 대장주는 ETF cap 압력보다 외국인 현물 수급과 Big Figure 돌파 후 눌림 패턴을 함께 봐야 한다. KOSPI200 만기 스퀴즈는 별도 이벤트 수급으로 분리해야 한다. | [ETF 수급이 주도하는 한국 시장](/ko/post/korea-etf-flow-led-market-volatility-strategy-2026-06-13/) |
 | 반도체 ETF 노출로 보면 어디가 더 민감한가 | 삼성전자·SK하이닉스가 반도체 상위 50개 시총 proxy의 90.8%를 차지하지만, 시총 대비 ETF 수급 민감도는 리노공업·DB하이텍·이오테크닉스·원익IPS·HPSP·ISC가 더 크다. ETF 미반영 gap은 티씨케이·대덕전자·코리아써키트·두산테스나를 우선 본다. | [반도체 ETF 노출 전략](/ko/post/korea-semiconductor-etf-exposure-marketcap-gap-strategy-2026-06-13/) |
 | 향후 2개월 삼성전자·SK하이닉스를 이길 반도체 2선 후보는 어디인가 | 대형 메모리는 core exposure지만 상대 알파는 ETF 노출이 낮고 수급이 붙기 시작한 2선 장비·기판·AI 스토리지에서 나올 수 있다. 우선 후보는 코리아써키트, HPSP, 테스, 브이엠, 파두다. | [반도체 Top50 2개월 알파 후보](/ko/post/korea-semiconductor-top50-two-month-alpha-candidates-samsung-hynix-2026-06-13/) |
+| 삼전닉스 쏠림 이후 코스닥 반도체 소부장은 언제 돌아오나 | 삼성전자·SK하이닉스가 급락하는 구간이 아니라 좋은 실적에도 5~10거래일 횡보하는 구간이 필요하다. Micron 6월 24일 실적 이후 대형 메모리가 추가 신고가를 못 만들고 개인자금이 KOSDAQ으로 돌아오면 리노공업·HPSP·파크시스템스 같은 테스트·장비·계측이 1차 후보가 된다. | [삼전닉스 쏠림 이후 코스닥 회복 조건](/ko/post/kosdaq-recovery-samsung-hynix-sideways-semiconductor-sme-2026-06-22/) |
 | 한미반도체 6월 1일 IR 공시는 HBM 장비 thesis에 어떤 의미인가 | HBM용 TC본더만의 이야기가 아니라 2.5D package, AI 시스템반도체, OSAT, HBF로 확장하겠다는 메시지다. 다만 수주 공시가 아니므로 수급 턴과 실제 고객·양산 데이터를 기다려야 하고, 최신 내부자 매입단가 315,407원 회복도 체크포인트다. | [한미반도체 IR 공시와 TC본더 TAM 확장](/ko/post/hanmi-semiconductor-ir-tc-bonder-tam-expansion-watchlist-2026-06-02/) |
 | 삼성전자·하이닉스는 마이크론 대비 다시 싸졌나 | 그렇다. 2026년 6월 1일 기준 삼성전자/Micron 상대 PER은 0.82배, SK하이닉스/Micron은 0.80배로 내려왔다. 저평가의 본질은 한국 악재보다 마이크론이 더 빠르게 리레이팅된 것이다. | [삼하마 패리티: 삼성전자·하이닉스가 다시 싸진 구간](/ko/post/samsung-hynix-micron-forward-per-parity-memory-catch-up-2026-06-03/) |
 | AI 칩 전체 바스켓으로 봐도 한국 메모리 할인은 과도한가 | 그렇다. AI Chip & Memory Forward P/E 지도에서 삼성전자와 SK하이닉스는 2028E P/E 6배 안팎으로 가장 낮은 축이다. 낮은 P/E가 곧 매수 신호는 아니지만, EPS가 훼손되지 않았다면 마이크론 프리미엄 대비 할인 폭은 과도해 보인다. | [삼하마 패리티 후속](/ko/post/sam-hama-parity-follow-up-ai-chip-memory-pe-map-2026-06-05/) |
@@ -68,6 +69,7 @@ lastmod: 2026-06-21T22:30:00+09:00
 
 | 날짜 | 주제 | 자세히 보기 |
 |---|---|---|
+| 2026-06-22 | <strong>삼전닉스 쏠림 이후 코스닥 회복 조건</strong>: 삼성전자·SK하이닉스 급락이 아니라 실적 논리가 살아 있는 횡보가 필요하다는 점을 정리. 6월 24일 Micron, 7월 삼성전자·SK하이닉스 2Q 기대 소화 이후 개인자금 복귀와 코스닥 반도체 테스트·장비·계측 거래대금을 확인해야 한다는 결론 | [삼전닉스 쏠림 이후 코스닥 회복 조건](/ko/post/kosdaq-recovery-samsung-hynix-sideways-semiconductor-sme-2026-06-22/) |
 | 2026-06-21 | <strong>창신메모리 IPO와 메모리 가격 리스크</strong> — CXMT의 STAR Market IPO와 중국 DRAM 공급 확대를 HBM 붕괴 신호가 아니라 client DDR5·LPDDR·consumer NAND 가격 상단을 낮추는 구조 변화로 해석. 2026년은 가격 하락보다 가격 인상률 정점, 2027년은 HBM·AI 서버 메모리와 client DRAM/NAND의 분화가 핵심이라는 결론 | [창신메모리 IPO와 메모리 가격 리스크](/ko/post/cxmt-ipo-memory-price-risk-hbm-client-dram-2026-06-21/) |
 | 2026-06-18 | <strong>HBM4E 12단 경쟁</strong> — 삼성전자의 HBM4E 12단 샘플 선행 발표와 SK하이닉스의 12단 샘플 공급을 제품 스펙, NVIDIA·AMD 고객 채널, 현재 점유율, 2026년 3Q~4Q 판별 시점으로 분리해 정리 | [HBM4E 12단 경쟁: 삼성의 기술 재진입과 하이닉스의 공급 지배력](/ko/post/samsung-sk-hynix-hbm4e-12h-sample-allocation-battle-2026-06-18/) |
 | 2026-06-17 | <strong>AI는 1996년인가 1999년인가</strong> — AI 생산성은 장기 옵션이지만 이번 FOMC가 당장 다루는 관측 가능한 충격은 데이터센터·전력·반도체 CapEx와 중립금리 상방 리스크라는 점을 정리 | [AI는 1996년인가 1999년인가](/ko/post/ai-1996-vs-1999-fomc-hawkish-hold-productivity-capex-2026-06-17/) |
@@ -161,6 +163,7 @@ lastmod: 2026-06-21T22:30:00+09:00
 - [ETF 수급이 주도하는 한국 시장: 변동성이 커질 때 대응하는 몇 가지 전략](/ko/post/korea-etf-flow-led-market-volatility-strategy-2026-06-13/)
 - [삼성전자·SK하이닉스 90.8% 쏠림: 반도체 ETF 수급은 어디가 더 민감한가](/ko/post/korea-semiconductor-etf-exposure-marketcap-gap-strategy-2026-06-13/)
 - [반도체 Top50에서 삼성전자·SK하이닉스를 2개월 이길 후보는 어디인가](/ko/post/korea-semiconductor-top50-two-month-alpha-candidates-samsung-hynix-2026-06-13/)
+- [삼전닉스 쏠림 이후 코스닥은 언제 돌아오나: 급락이 아니라 횡보가 필요하다](/ko/post/kosdaq-recovery-samsung-hynix-sideways-semiconductor-sme-2026-06-22/)
 - [중반을 넘어선 AI 슈퍼사이클: 금리 영향은 커졌지만 아직 빨간불은 없다](/ko/post/ai-supercycle-midgame-rate-risk-yellow-not-red-2026-06-06/)
 - [AI는 1996년인가 1999년인가: 이번 FOMC와 그 이후](/ko/post/ai-1996-vs-1999-fomc-hawkish-hold-productivity-capex-2026-06-17/)
 - [한미반도체 IR 공시: 수주가 아니라 TC본더 TAM 확장 신호](/ko/post/hanmi-semiconductor-ir-tc-bonder-tam-expansion-watchlist-2026-06-02/)

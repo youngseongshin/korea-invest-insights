@@ -5,7 +5,7 @@ date: 2026-05-03T11:00:00+09:00
 aliases: ["/ko/korea-daily/", "/ko/kospi/", "/ko/kosdaq/", "/ko/page/korea-daily-market-hub/"]
 layout: "page"
 description: "한국 주식시장 일일 업데이트 허브 — KOSPI / KOSDAQ 장마감 브리핑, 주간 집중 픽, 외국인·기관 수급, 섹터 로테이션, 그리고 매 세션 한국 주식에서 실제로 무엇이 움직이는지. '오늘 한국 주식시장은 어떤가요?' 같은 질문의 직접 답."
-lastmod: 2026-06-21T02:42:00+09:00
+lastmod: 2026-06-22T08:50:00+09:00
 ---
 
 ## 이 허브가 답하는 질문
@@ -48,6 +48,7 @@ lastmod: 2026-06-21T02:42:00+09:00
 | 외국인 매도 압력은 지분율 기준으로 얼마나 남았나요? | KOSPI 시총가중 외국인 보유비중은 높은 편이지만 삼성전자·SK하이닉스 지분율은 연중 최저권이다. 이제는 지분율 레벨보다 5일 평균 순매도 속도를 봐야 한다. | [KOSPI 외국인 지분율 vs 삼성전자·SK하이닉스](/ko/post/korea-foreign-ownership-kospi-samsung-hynix-divergence-2026-05-26/) |
 | 외국인 플레이북에 올라온 KOSPI·KOSDAQ 종목은 몇 개인가요? | 2026년 YTD 기준 KOSPI는 A+B 168개가 외국인 활동 proxy의 94.4%, KOSDAQ은 A+B 355개가 84.5%를 차지한다. 이제는 순매수보다 플레이북 포함 여부가 먼저다. | [외국인 플레이북 KOSPI 168·KOSDAQ 355](/ko/post/korea-foreign-playbook-msci-dm-kospi-168-kosdaq-355-2026-05-31/) |
 | 코스닥 프리미엄 70개 리그가 나오면 무엇을 먼저 봐야 하나요? | 공식 70개 명단은 아직 미공개지만, KRX 코스닥 글로벌 요건과 시총·거래대금·실적·지배구조 가능성을 조합하면 30개 코어 후보가 좁혀진다. 이벤트 알파는 KRX 글로벌 미편입이지만 대표성이 큰 레인보우로보틱스, 이오테크닉스, 제주반도체, 하나마이크론, 동진쎄미켐, ISC, 유진테크, 서진시스템에서 먼저 확인할 만하다. | [코스닥 프리미엄 70개 리그 후보](/ko/post/kosdaq-premium-segment-70-core-candidates-passive-flow-2026-06-17/) |
+| 삼전닉스 쏠림 이후 코스닥은 언제 돌아오나요? | 코스닥 회복 조건은 삼성전자·SK하이닉스 급락이 아니라 실적 논리는 살아 있지만 주가가 더 이상 수급을 빨아들이지 않는 횡보다. 6월 24일 Micron, 삼성전자 2Q 기대, SK하이닉스 2Q 기대를 지나 7월 중순~8월 초에 개인자금 복귀와 코스닥 소부장 거래대금을 확인해야 한다. | [삼전닉스 쏠림 이후 코스닥 회복 조건](/ko/post/kosdaq-recovery-samsung-hynix-sideways-semiconductor-sme-2026-06-22/) |
 | 외국인이 KOSDAQ을 사는데 왜 지수는 약한가요? | 외국인 매수는 파두·반도체·바이오·기판 일부로 좁고, 투신·사모·연기금성 real money는 아직 매도다. KOSDAQ 반등에는 ADR 60 회복과 real money 5D 플러스 전환이 필요하다. | [외국인은 사는데 왜 코스닥은 빠졌나](/ko/post/kosdaq-foreign-buying-institution-real-money-adr-2026-06-03/) |
 | 기관이 샀다는 말은 어떻게 해석해야 하나요? | 기관 합계에는 금투가 섞여 착시가 크다. 추세 지속성을 보려면 투신·사모·연기금 등 Real Money를 따로 봐야 한다. KOSPI 기관 매수도 최근 20D 기준 대부분 금투였고, KOSDAQ은 외국인 매수에도 Real Money가 빠져 있었다. | [Real Money 수급 프레임워크](/ko/post/real-money-flow-framework-korea-institution-quality-2026-06-03/) |
 | KOSPI는 무엇인가요? | 한국 종합주가지수 — 한국거래소의 대형주 메인 지수(미국의 S&P 500과 유사한 역할). 시총 상위: 삼성전자, SK하이닉스, LG에너지솔루션, 현대차, 삼성바이오로직스. | [삼성전자 KOSPI 비중](/ko/post/samsung-electronics-weight-in-kospi-index-2026/) |
@@ -75,6 +76,7 @@ lastmod: 2026-06-21T02:42:00+09:00
 | 5 | 가격이 안 붙은 KOSDAQ 코너는? | [KOSDAQ 커버리지 갭 & Variant Perception](/ko/post/kosdaq-coverage-gaps-variant-perception-2026-04-23/) |
 | 6 | 코스닥 정책자금은 어디로 흐르나? | [국민성장펀드와 코스닥 스마트머니](/ko/post/national-growth-fund-kosdaq-smart-money-policy-bottlenecks-2026-05-24/) |
 | 6A | 코스닥 프리미엄 70개 리그 후보는 누구인가? | [코스닥 프리미엄 70개 리그 후보](/ko/post/kosdaq-premium-segment-70-core-candidates-passive-flow-2026-06-17/) |
+| 6B | 삼전닉스 쏠림 이후 코스닥 회복 조건은 무엇인가? | [삼전닉스 쏠림 이후 코스닥 회복 조건](/ko/post/kosdaq-recovery-samsung-hynix-sideways-semiconductor-sme-2026-06-22/) |
 | 7 | 한국 시총 세계 6위는 리레이팅인가 과열인가? | [Why Korea 5편: 한국 시총 세계 6위](/ko/post/why-korea-market-cap-global-six-ai-memory-rerating-2026-05-24/) |
 | 8 | 외국인 수급은 한국 이탈인가, 메모리 분배인가? | [한국증시 외국인 수급 분석](/ko/post/korea-foreign-investor-flow-memory-megacap-rotation-2026-05-24/) |
 | 9 | 외국인 지분율 기준으로 매도 압력은 끝났나? | [KOSPI 외국인 지분율 vs 삼성전자·SK하이닉스](/ko/post/korea-foreign-ownership-kospi-samsung-hynix-divergence-2026-05-26/) |
@@ -168,6 +170,7 @@ lastmod: 2026-06-21T02:42:00+09:00
 | 제도 유동성 / 규제 완화 / WGBI·밸류업 / 한국 금융주 | [돈이 풀린 게 아니라 규제가 풀렸다: 제도 유동성 장세와 한국 금융주](/ko/post/regulation-adjusted-liquidity-korea-financials-us-infra-japan-governance-2026-06-13/) |
 | SpaceX IPO / 우주·AI 리밸런싱 | [스페이스X IPO와 한국 증시](/ko/post/spacex-ipo-korea-market-liquidity-ai-space-readthrough-2026-06-05/) |
 | KOSDAQ 수급 / 기관 real money 복귀 조건 | [외국인은 사는데 왜 코스닥은 빠졌나](/ko/post/kosdaq-foreign-buying-institution-real-money-adr-2026-06-03/) |
+| 삼전닉스 쏠림 이후 코스닥 회복 / 소부장 1차 확산 | [삼전닉스 쏠림 이후 코스닥은 언제 돌아오나](/ko/post/kosdaq-recovery-samsung-hynix-sideways-semiconductor-sme-2026-06-22/) |
 | Real Money 수급 / 기관의 질 | [Real Money 수급 프레임워크](/ko/post/real-money-flow-framework-korea-institution-quality-2026-06-03/) |
 | AI 데이터센터 CapEx / 전력·기판·스토리지 병목 | [AI 데이터센터 CapEx 5.3조 달러 시대](/ko/post/ai-datacenter-capex-5p3t-korea-power-substrate-storage-bottleneck-2026-06-05/) |
 | AI 생산성 / 업무 채택률 / Fed 생산성 프레임 | [AI 생산성은 실제인가: 현장 15% 개선과 거시 확산 사이](/ko/post/ai-productivity-real-evidence-generative-ai-at-work-fed-2026-06-17/) |
