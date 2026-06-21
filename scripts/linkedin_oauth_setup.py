@@ -184,8 +184,9 @@ def main() -> int:
     print(f"  member URN: {member_urn}")
     print(f"  토큰 만료: 약 {expires_days}일 후" + ("  (refresh token 저장됨 — 자동 갱신)" if token_payload.get("refresh_token") else "  (refresh token 없음 — 만료 시 이 스크립트 재실행)"))
     print(f"  저장 위치: {ENV_PATH} (로컬 전용, 커밋 금지)")
-    print("\n이제 배포 시 LinkedIn 채널이 자동 발행됩니다. 단건 테스트:")
-    print("  scripts/post_publish_distribution.py --slug <slug> --channels linkedin --max-posts 1")
+    print("\n이제 배포 시 LinkedIn 채널은 글을 '승인 대기 큐'에 적재합니다(반자동). 검토·승인:")
+    print("  scripts/linkedin_approve.py --list   # 대기 목록")
+    print("  scripts/linkedin_approve.py          # 하나씩 검토 후 y/N 승인")
     return 0
 
 
