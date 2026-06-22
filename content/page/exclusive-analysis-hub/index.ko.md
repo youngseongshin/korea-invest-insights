@@ -5,7 +5,7 @@ date: 2026-06-13T19:35:00+09:00
 aliases: ["/ko/exclusive-analysis/", "/ko/page/exclusive-analysis-hub/"]
 layout: "page"
 description: "Korea Invest Insights의 자체 데이터 분석 허브. 자체 계산 데이터셋, Naver ETF 구성 전수 스캔, Real Money 수급, ETF 리밸런싱, 브레드스와 유동성 프레임워크 등 공개 기사 요약이 아니라 직접 계산한 분석 글을 모은다."
-lastmod: 2026-06-22T08:10:00+09:00
+lastmod: 2026-06-22T23:10:00+09:00
 ---
 
 ## 이 허브의 목적
@@ -26,6 +26,7 @@ lastmod: 2026-06-22T08:10:00+09:00
 
 | 날짜 | 주제 | 핵심 결론 | 글 |
 |---|---|---|---|
+| 2026-06-22 | 삼성전자우 괴리율과 삼성물산 NAV 갭 | 삼성전자 HBM·FCF 환원 캐치업을 보통주, 삼성전자우, 삼성물산으로 나눴다. 핵심 알파는 ETF 캡 대체수급이 아니라 우선주/보통주 비율 63.4%, 할인율 36.6%의 상대가치 정상화다. 삼성물산은 삼성전자 지분가치 상승분 반영률이 66.3%까지 올라와 조건부 위성으로 낮춰 봐야 한다. | [삼성전자 캐치업을 무엇으로 살까](/ko/post/samsung-electronics-catchup-preferred-share-samsung-ct-nav-spread-2026-06-22/) |
 | 2026-06-22 | MSCI 선진국 Watch List 확률과 KB금융 트레이드 | 6월 24일 MSCI 발표에서 즉시 선진국 편입은 1% 안팎이고 본질은 Developed Markets Watch List 재등재다. 두 분석(확률 프레임 + Red Team)을 종합하면 Watch List 30-35%, 베이스 케이스는 긍정적 모니터링(약 53%)이다. 가장 실전적인 수혜는 반도체 추격이 아니라 약 0.87배 2026F P/B의 KB금융 조건부 리레이팅이며, 발표문 문구 확인 후 진입이 기대값이 높다. | [MSCI Watch List 확률과 KB금융 트레이드](/ko/post/korea-msci-2026-developed-watch-list-probability-kb-financial-2026-06-22/) |
 | 2026-06-22 | 삼성전자 FCF 환원과 DS 성과급 자사주 매수 | 삼성전자는 고배당주가 아니다. 그러나 2026E 순이익 300.2조원 기준 FCF 50% 환원 정책의 옵션 가치는 커졌고, DS 성과급용 자사주 매수는 소각은 아니지만 세후 20조~22조원, 보통주 시총 약 1%의 회사 매수 수요로 작동할 수 있다. | [삼성전자는 고배당주가 아니다](/ko/post/samsung-electronics-shareholder-return-ds-bonus-buyback-flow-2026-06-22/) |
 | 2026-06-21 | 2027 반도체 컨센서스 지불능력 | 삼성전자·SK하이닉스·마이크론·엔비디아의 2027E 컨센서스는 소비자가 아니라 하이퍼스케일러 CAPEX가 받쳐야 성립한다. 빅테크 4사 2027E CAPEX 7,822억달러 대비 FCF는 1,199억달러로 회계상 지불은 가능하나 완충은 얇고, 엔비디아 FY2028 매출 5,517억달러는 4사 CAPEX의 약 70.5%여서 4사 밖 수요까지 필요하다. 정부·주권 AI는 보조 수요, PC·스마트폰 OEM은 지불불능 구간이다. | [2027 반도체 컨센서스는 누가 지불하는가](/ko/post/semiconductor-2027-earnings-hyperscaler-payability-memory-nvidia-2026-06-21/) |
@@ -76,6 +77,7 @@ lastmod: 2026-06-22T08:10:00+09:00
 
 ### 상대 밸류에이션과 사이클 프레임
 
+- [삼성전자 캐치업을 무엇으로 살까: 삼성전자우 괴리율과 삼성물산 NAV 갭](/ko/post/samsung-electronics-catchup-preferred-share-samsung-ct-nav-spread-2026-06-22/)
 - [삼성전자는 고배당주가 아니다: FCF 50% 환원과 DS 성과급 자사주 매수 플로우](/ko/post/samsung-electronics-shareholder-return-ds-bonus-buyback-flow-2026-06-22/)
 - [창신메모리 IPO와 메모리 가격 리스크: HBM이 먼저 꺾이는 장은 아니다](/ko/post/cxmt-ipo-memory-price-risk-hbm-client-dram-2026-06-21/)
 - [비싸진 돈의 시대: Warsh Fed가 바꾼 것은 금리보다 시장의 습관이다](/ko/post/warsh-fed-expensive-money-era-forward-guidance-ai-infra-2026-06-19/)

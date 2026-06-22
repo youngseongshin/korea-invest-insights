@@ -5,7 +5,7 @@ date: 2026-04-30T23:05:00+09:00
 aliases: ["/ko/hbm/", "/ko/semiconductor/", "/ko/samsung-hynix/", "/ko/kospi-hbm/", "/ko/page/hbm/"]
 layout: "page"
 description: "AI HBM 허브. 삼성전자, SK하이닉스, HBM, AI 메모리, 코스피 지수 쏠림과 한국 반도체 투자 논거를 한곳에 모은 리서치 허브. HBM 시장점유율, 삼성전자 코스피 비중, KOSPI 리레이팅, AI 서버 수요를 순서대로 정리한다."
-lastmod: 2026-06-22T17:45:00+09:00
+lastmod: 2026-06-22T23:10:00+09:00
 ---
 
 ## 한 줄 결론
@@ -27,6 +27,7 @@ lastmod: 2026-06-22T17:45:00+09:00
 | 삼성전자 HBM4E 12단 샘플 출하는 무엇을 의미하나 | 샘플 출하는 HBM catch-up의 증거지만 고객 인증·양산·EPS revision 전에는 확정 매출이 아니다. 한미반도체에는 직접 수주가 아니라 삼성향 TC본더 옵션가치 상승으로 해석해야 한다. | [삼성전자 HBM4E 12단 샘플 출하](/ko/post/samsung-electronics-hbm4e-12h-sample-market-watch-hanmi-tc-bonder-2026-06-01/) |
 | HBM4E 12단 경쟁에서 삼성전자와 SK하이닉스 중 누가 앞서나 | 제품 발표와 기술 재진입 신호는 삼성전자가 강해졌지만, 실제 HBM 점유율·NVIDIA 고객 락인·양산 경험은 SK하이닉스가 앞서 있다. 1차 판별 지점은 2026년 3Q~4Q 고객 퀄·양산 출하·2027년 물량 배정 코멘트다. | [HBM4E 12단 경쟁: 삼성의 기술 재진입과 하이닉스의 공급 지배력](/ko/post/samsung-sk-hynix-hbm4e-12h-sample-allocation-battle-2026-06-18/) |
 | 삼성전자 주주환원은 왜 배당수익률만 보면 틀리나 | 삼성전자는 고배당주가 아니지만, 2026E 순이익 300.2조원 기준 FCF 50% 환원 정책의 옵션 가치가 커졌다. DS 성과급용 자사주 매수는 소각은 아니지만 세후 20조~22조원 규모의 별도 회사 매수 수요가 될 수 있다. | [삼성전자는 고배당주가 아니다](/ko/post/samsung-electronics-shareholder-return-ds-bonus-buyback-flow-2026-06-22/) |
+| 삼성전자 캐치업을 보통주 대신 우선주나 삼성물산으로 살 수 있나 | 우선순위는 삼성전자우가 더 선명하다. 2026년 6월 22일 우선주/보통주 비율은 63.4%, 할인율은 36.6%로 3년 평균 대비 크게 벌어져 있다. 삼성물산은 삼성전자 지분가치와 계열사 배당 환원 옵션이 있지만, 지분가치 상승분 반영률이 66.3%까지 올라와 추격보다 눌림과 수급 확인이 필요하다. | [삼성전자우 괴리율과 삼성물산 NAV 갭](/ko/post/samsung-electronics-catchup-preferred-share-samsung-ct-nav-spread-2026-06-22/) |
 | 창신메모리 IPO는 HBM 가격 붕괴 신호인가 | 아니다. CXMT IPO는 중국 client DDR5·LPDDR·consumer NAND 가격 상단을 낮출 수 있는 구조 변화지만, HBM은 고객 검증·적층 수율·장기계약·패키징이 결합된 별도 가격 체계다. 핵심은 HBM·AI 서버 메모리 믹스가 client DRAM/NAND 리스크를 흡수하는지다. | [창신메모리 IPO와 메모리 가격 리스크](/ko/post/cxmt-ipo-memory-price-risk-hbm-client-dram-2026-06-21/) |
 | 젠슨 황의 HBM 3사 검증 통과 발언은 무엇을 바꾸나 | 삼성전자·SK하이닉스·마이크론이 Vera Rubin용 HBM4 공급망에서 모두 qualified/in production 단계로 해석되는 이벤트다. 삼성전자에는 HBM discount 축소, SK하이닉스에는 독점 프리미엄 희석과 TAM 확대가 동시에 작용한다. | [젠슨 황의 큰 발언과 HBM4 3사 검증 통과](/ko/post/jensen-huang-hbm4-three-vendors-qualified-market-missed-2026-06-05/) |
 | 테마 ETF 리밸런싱은 반도체 소부장에 어떤 의미인가 | 6월 12일 Thesis OS KR Theme ETF Rebalance Flow v1은 ETF 31개 중 유효 30개, 구성종목 291개를 스캔해 후보 69개를 잡았다. 가장 강한 신호는 반도체 TOP10·AI반도체 ETF의 cap 재배분으로, 리노공업·이오테크닉스·솔브레인·DB하이텍·한미반도체는 재배분 매수 후보, SK하이닉스·삼성전기·LS ELECTRIC은 비중 상한 압력 후보로 분류됐다. | [테마 ETF 리밸런싱 수급](/ko/post/kr-theme-etf-rebalance-flow-semicap-cap-trim-2026-06-12/) |
@@ -151,6 +152,7 @@ lastmod: 2026-06-22T17:45:00+09:00
 | 15 | 외국인 지분율 기준으로 매도 압력은 얼마나 남았나 | [KOSPI 외국인 지분율 vs 삼성전자·SK하이닉스](/ko/post/korea-foreign-ownership-kospi-samsung-hynix-divergence-2026-05-26/) |
 | 16 | 삼성전자는 2028년까지 메모리 슈퍼사이클을 인정한 것인가 | [삼성전자 특별성과급 자사주 산식 재구성](/ko/post/samsung-electronics-stock-bonus-supercycle-buyback-2026-05-27/) |
 | 16A | 삼성전자 주주환원을 배당수익률이 아니라 FCF와 DS 성과급 자사주 매수로 보면 무엇이 달라지나 | [삼성전자는 고배당주가 아니다](/ko/post/samsung-electronics-shareholder-return-ds-bonus-buyback-flow-2026-06-22/) |
+| 16B | 삼성전자 catch-up을 보통주, 우선주, 삼성물산 중 무엇으로 표현해야 하나 | [삼성전자우 괴리율과 삼성물산 NAV 갭](/ko/post/samsung-electronics-catchup-preferred-share-samsung-ct-nav-spread-2026-06-22/) |
 | 17 | 삼성전기 280만원은 메모리보다 강한 duration을 증명했나 | [삼성전기 280만원 리포트 후속](/ko/post/samsung-electro-mechanics-mirae-tp-2800000-2029-memory-duration-proof-2026-06-01/) |
 | 18 | LPX는 HBM을 대체하는가, 아니면 HBM GPU를 보완하는가 | [NVIDIA Vera Rubin 추론 스택: CPX보다 LPX·CMX가 전면에 선 이유](/ko/post/nvidia-vera-rubin-lpx-cmx-inference-stack-samsung-hbm-2026-05-28/) |
 
@@ -160,6 +162,7 @@ lastmod: 2026-06-22T17:45:00+09:00
 
 ### HBM과 AI 메모리
 
+- [삼성전자 캐치업을 무엇으로 살까: 삼성전자우 괴리율과 삼성물산 NAV 갭](/ko/post/samsung-electronics-catchup-preferred-share-samsung-ct-nav-spread-2026-06-22/)
 - [삼성전자는 고배당주가 아니다: FCF 50% 환원과 DS 성과급 자사주 매수 플로우](/ko/post/samsung-electronics-shareholder-return-ds-bonus-buyback-flow-2026-06-22/)
 - [HBM4E 12단 경쟁: 삼성의 기술 재진입과 하이닉스의 공급 지배력](/ko/post/samsung-sk-hynix-hbm4e-12h-sample-allocation-battle-2026-06-18/)
 - [젠슨 황의 큰 발언에 시장은 귀 기울이지 않았다: HBM4 3사 검증 통과의 의미](/ko/post/jensen-huang-hbm4-three-vendors-qualified-market-missed-2026-06-05/)
@@ -193,6 +196,7 @@ lastmod: 2026-06-22T17:45:00+09:00
 
 ### KOSPI와 지수 쏠림
 
+- [삼성전자 캐치업을 무엇으로 살까: 삼성전자우 괴리율과 삼성물산 NAV 갭](/ko/post/samsung-electronics-catchup-preferred-share-samsung-ct-nav-spread-2026-06-22/)
 - [삼성물산은 삼성전자 후행 Proxy인가: 지분가치 반영률 51.7%와 NAV Gap Trade](/ko/post/samsung-ct-samsung-electronics-proxy-nav-gap-trade-2026-06-01/)
 - [삼성전자 코스피 비중: 2026년 지수 쏠림 현상 완전 해설](/ko/post/samsung-electronics-weight-in-kospi-index-2026/)
 - [Why Korea 5편: 한국 증시 시총 세계 6위 — 4.9조 달러 리레이팅은 매수 신호인가, 경고등인가](/ko/post/why-korea-market-cap-global-six-ai-memory-rerating-2026-05-24/)
