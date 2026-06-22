@@ -5,7 +5,7 @@ date: 2026-04-30T23:05:00+09:00
 aliases: ["/hbm/", "/semiconductor/", "/samsung-hynix/", "/kospi-hbm/", "/en/hbm/", "/en/semiconductor/", "/en/samsung-hynix/", "/en/kospi-hbm/", "/en/page/korea-semiconductor-hbm-kospi-hub/", "/es/page/korea-semiconductor-hbm-kospi-hub/", "/vi/page/korea-semiconductor-hbm-kospi-hub/", "/fr/page/korea-semiconductor-hbm-kospi-hub/", "/ja/page/korea-semiconductor-hbm-kospi-hub/", "/zh/page/korea-semiconductor-hbm-kospi-hub/"]
 layout: "page"
 description: "AI HBM hub for Samsung Electronics, SK Hynix, HBM, AI memory and KOSPI concentration. Covers HBM market share, Samsung's KOSPI weight, Korean semiconductor exposure and the 2026 KOSPI re-rating thesis."
-lastmod: 2026-06-22T08:50:00+09:00
+lastmod: 2026-06-22T17:45:00+09:00
 ---
 
 ## One-Line Thesis
@@ -26,6 +26,7 @@ Korean semiconductor exposure is not one trade. It combines <strong>SK Hynix's H
 | Is SK Hynix's higher P/E versus Samsung a new normal? | The 2026E annual P/E inversion is unusual but explainable through the HBM bottleneck premium. The 12-month-forward view is closer to parity, and the cleaner relative-value alpha is Samsung's HBM4E catch-up rather than chasing SK Hynix. | [Samsung vs SK Hynix Forward P/E Inversion](/post/samsung-sk-hynix-forward-per-inversion-hbm-catchup-2026-05-31/) |
 | What does Samsung's HBM4E 12-high sample shipment mean? | It is evidence that the HBM catch-up path is alive, but not yet confirmed revenue before customer qualification, mass production and EPS revisions. For Hanmi, it raises Samsung TC-bonder option value rather than confirming an order. | [Samsung HBM4E 12-high samples](/post/samsung-electronics-hbm4e-12h-sample-market-watch-hanmi-tc-bonder-2026-06-01/) |
 | Who is ahead in the HBM4E 12-high race, Samsung or SK hynix? | Samsung's technical re-entry signal is stronger after its earlier sample announcement, but SK hynix still leads in HBM share, NVIDIA lock-in and production learning. The first proof window is 3Q-4Q 2026 customer qualification, mass-production shipment and 2027 allocation commentary. | [HBM4E 12-high race: Samsung's re-entry vs SK hynix supply lock-in](/post/samsung-sk-hynix-hbm4e-12h-sample-allocation-battle-2026-06-18/) |
+| Why is Samsung shareholder return understated by dividend yield? | Samsung is not a high-dividend stock, but FY2026E net income near KRW 300.2tn makes the 50% FCF return policy more valuable. The DS bonus treasury-share purchase is not cancellation, but it can add KRW 20-22tn of company purchase demand. | [Samsung Is Not A Dividend Stock](/post/samsung-electronics-shareholder-return-ds-bonus-buyback-flow-2026-06-22/) |
 | Is CXMT's IPO an HBM price-collapse signal? | No. CXMT's IPO can cap pricing power first in client DDR5, LPDDR and consumer NAND, but HBM remains a separate pricing structure driven by customer qualification, stacking yield, packaging, long-term agreements and AI roadmaps. The key question is whether HBM and AI server memory mix can absorb client DRAM/NAND risk. | [CXMT IPO And Memory Price Risk](/post/cxmt-ipo-memory-price-risk-hbm-client-dram-2026-06-21/) |
 | What does Jensen Huang's "all three vendors qualified" HBM comment change? | It suggests Samsung Electronics, SK hynix and Micron are all in the qualified / production structure for Vera Rubin HBM4. Samsung gets HBM-discount compression, while SK hynix sees monopoly-premium dilution and TAM expansion at the same time. | [Jensen Huang's bigger HBM4 comment](/post/jensen-huang-hbm4-three-vendors-qualified-market-missed-2026-06-05/) |
 | What does theme ETF rebalancing mean for Korean semiconductor equipment names? | On Jun 12, Thesis OS's KR Theme ETF Rebalance Flow v1 scanned 31 ETFs, 30 valid ETFs and 291 constituent rows, producing 69 candidates. The strongest signal was cap redistribution inside semiconductor TOP10 / AI semiconductor ETFs: Leeno, EO Technics, Soulbrain, DB HiTek and Hanmi were buy-pressure candidates, while SK Hynix, Samsung Electro-Mechanics and LS ELECTRIC were cap-trim watches. | [Korea theme ETF rebalance flow](/post/kr-theme-etf-rebalance-flow-semicap-cap-trim-2026-06-12/) |
@@ -63,6 +64,7 @@ Korean semiconductor exposure is not one trade. It combines <strong>SK Hynix's H
 
 | Date | Topic | Read |
 |---|---|---|
+| 2026-06-22 | <strong>Samsung FCF return and DS bonus buyback flow</strong> — reframes Samsung's shareholder return away from headline dividend yield and toward FY2026E net income of KRW 300.2tn, the 50% FCF return policy, and a possible KRW 20-22tn after-tax DS bonus treasury-share purchase flow | [Samsung Is Not A Dividend Stock](/post/samsung-electronics-shareholder-return-ds-bonus-buyback-flow-2026-06-22/) |
 | 2026-06-22 | <strong>KOSDAQ recovery after Samsung/SK Hynix crowding</strong> — argues that KOSDAQ needs sideways Samsung Electronics and SK hynix, not a mega-cap memory selloff. The key window is after Micron's Jun 24 print and the July Samsung/SK hynix Q2 expectation reset, with retail capital and KOSDAQ semiconductor test/equipment/metrology turnover as the confirmation checks | [KOSDAQ recovery after Samsung/SK Hynix crowding](/post/kosdaq-recovery-samsung-hynix-sideways-semiconductor-sme-2026-06-22/) |
 | 2026-06-21 | <strong>CXMT IPO and memory price risk</strong> — reads CXMT's STAR Market IPO and China DRAM supply expansion not as an immediate HBM bear case, but as a structural supply event that can cap client DDR5, LPDDR and consumer NAND pricing. The 2026 risk is price-momentum peak-out; the 2027 risk is bifurcation between HBM / AI server memory and client DRAM / NAND | [CXMT IPO And Memory Price Risk](/post/cxmt-ipo-memory-price-risk-hbm-client-dram-2026-06-21/) |
 | 2026-06-18 | <strong>HBM4E 12-high race</strong> — separates Samsung's earlier HBM4E sample announcement and SK hynix's 12-high sample supply into product specs, NVIDIA and AMD customer channels, current share and the 3Q-4Q 2026 proof window | [HBM4E 12-high race: Samsung's re-entry vs SK hynix supply lock-in](/post/samsung-sk-hynix-hbm4e-12h-sample-allocation-battle-2026-06-18/) |
@@ -134,6 +136,7 @@ Korean semiconductor exposure is not one trade. It combines <strong>SK Hynix's H
 | 15 | Is foreign selling a HBM thesis break or position reduction? | [Korea Foreign Investor Flow Analysis](/post/korea-foreign-investor-flow-memory-megacap-rotation-2026-05-24/) |
 | 16 | How much ownership-based foreign selling pressure remains? | [KOSPI ownership versus Samsung / SK Hynix](/post/korea-foreign-ownership-kospi-samsung-hynix-divergence-2026-05-26/) |
 | 17 | Did Samsung signal a memory supercycle through 2028? | [Samsung stock-bonus formula analysis](/post/samsung-electronics-stock-bonus-supercycle-buyback-2026-05-27/) |
+| 17A | What changes if Samsung shareholder return is read through FCF and DS bonus buyback flow instead of dividend yield? | [Samsung Is Not A Dividend Stock](/post/samsung-electronics-shareholder-return-ds-bonus-buyback-flow-2026-06-22/) |
 | 18 | Does SEMCO's KRW 2.8M report prove stronger duration than memory? | [SEMCO KRW 2.8M Follow-Up](/post/samsung-electro-mechanics-mirae-tp-2800000-2029-memory-duration-proof-2026-06-01/) |
 
 ---
@@ -142,6 +145,7 @@ Korean semiconductor exposure is not one trade. It combines <strong>SK Hynix's H
 
 ### HBM and AI Memory
 
+- [Samsung Electronics Is Not a Dividend Stock: FCF Return and the DS Bonus Buyback Flow](/post/samsung-electronics-shareholder-return-ds-bonus-buyback-flow-2026-06-22/)
 - [The Market Missed Jensen Huang's Bigger HBM4 Comment: All Three Vendors Are Qualified](/post/jensen-huang-hbm4-three-vendors-qualified-market-missed-2026-06-05/)
 - [Korea theme ETF rebalance flow: semicap redistribution buy pressure and mega-cap trim pressure](/post/kr-theme-etf-rebalance-flow-semicap-cap-trim-2026-06-12/)
 - [Samsung and SK Hynix Are 90.8% of Korean Semis: Where ETF Flow Is More Sensitive](/post/korea-semiconductor-etf-exposure-marketcap-gap-strategy-2026-06-13/)

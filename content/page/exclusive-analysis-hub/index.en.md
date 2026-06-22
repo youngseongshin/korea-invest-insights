@@ -5,7 +5,7 @@ date: 2026-06-13T19:35:00+09:00
 aliases: ["/exclusive-analysis/", "/page/exclusive-analysis-hub/"]
 layout: "page"
 description: "A hub for Korea Invest Insights proprietary analysis: internally constructed datasets, full ETF constituent scans, real-money flow frameworks, ETF rebalance proxies, breadth and liquidity screens, and original stock-selection work."
-lastmod: 2026-06-21T22:30:00+09:00
+lastmod: 2026-06-22T17:45:00+09:00
 ---
 
 ## Purpose
@@ -22,6 +22,7 @@ This hub collects Korea Invest Insights posts built from proprietary or internal
 
 | Date | Topic | Key takeaway | Post |
 |---|---|---|---|
+| 2026-06-22 | Samsung FCF return and DS bonus buyback flow | Samsung is not a high-dividend stock, but with FY2026E net income near KRW 300.2tn, the 50% FCF return policy has meaningful option value. The DS bonus treasury-share purchase is not cancellation, but it can still create KRW 20-22tn of company purchase demand, roughly 1% of common market cap. | [Samsung Is Not A Dividend Stock](/post/samsung-electronics-shareholder-return-ds-bonus-buyback-flow-2026-06-22/) |
 | 2026-06-21 | Who pays for the 2027 semiconductor consensus | The 2027E consensus for Samsung, SK hynix, Micron and NVIDIA rests on hyperscaler CAPEX, not consumer electronics. Big-four 2027E CAPEX of ~$782.2bn against ~$119.9bn of FCF means it is payable on paper but with a thin buffer, and NVIDIA's FY2028 ~$551.7bn revenue is ~70.5% of that CAPEX, so demand beyond the big four is required. Government / sovereign AI is supplementary; PC and smartphone OEMs are already in the can't-pay zone. | [Who Pays For The 2027 Semiconductor Consensus](/post/semiconductor-2027-earnings-hyperscaler-payability-memory-nvidia-2026-06-21/) |
 | 2026-06-21 | Q2 KRW-weakness earnings surprise candidates | FRED USD/KRW and May/early-June export data show a supportive FX setup for Q2 exporters. The alpha is not generic exporter exposure, but names where dollar revenue, won costs, improving volume or pricing, and under-reflected consensus line up, led by Kolmar Korea, PSK Holdings and Wonik QnC. | [Q2 Earnings: Exporters That Can Still Benefit From KRW Weakness](/post/krw-weakness-2q-earnings-surprise-export-candidates-2026-06-21/) |
 | 2026-06-21 | TechWing HBM Cube Prober | TechWing is no longer just an HBM theme name. Samsung supply, the first SK hynix order and Micron evaluation could reclassify it from memory handler into HBM inspection platform, but entry still needs support at KRW 58,000-60,000 or a reclaim of KRW 65,300. | [TechWing HBM Cube Prober analysis](/post/techwing-hbm-cube-prober-big3-conditional-buy-2026-06-21/) |
@@ -65,6 +66,7 @@ This hub collects Korea Invest Insights posts built from proprietary or internal
 
 ### Relative Valuation And Cycle Frames
 
+- [Samsung Electronics Is Not a Dividend Stock: FCF Return and the DS Bonus Buyback Flow](/post/samsung-electronics-shareholder-return-ds-bonus-buyback-flow-2026-06-22/)
 - [CXMT IPO And Memory Price Risk: HBM Is Not The First Place To Break](/post/cxmt-ipo-memory-price-risk-hbm-client-dram-2026-06-21/)
 - [The Era of Expensive Money: What the Warsh Fed Really Changed](/post/warsh-fed-expensive-money-era-forward-guidance-ai-infra-2026-06-19/)
 - [Samsung-Hynix-Micron Forward P/E Parity](/post/samsung-hynix-micron-forward-per-parity-memory-catch-up-2026-06-03/)

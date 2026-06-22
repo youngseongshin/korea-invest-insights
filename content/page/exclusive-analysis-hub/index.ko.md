@@ -5,7 +5,7 @@ date: 2026-06-13T19:35:00+09:00
 aliases: ["/ko/exclusive-analysis/", "/ko/page/exclusive-analysis-hub/"]
 layout: "page"
 description: "Korea Invest Insights의 자체 데이터 분석 허브. 자체 계산 데이터셋, Naver ETF 구성 전수 스캔, Real Money 수급, ETF 리밸런싱, 브레드스와 유동성 프레임워크 등 공개 기사 요약이 아니라 직접 계산한 분석 글을 모은다."
-lastmod: 2026-06-21T22:30:00+09:00
+lastmod: 2026-06-22T17:45:00+09:00
 ---
 
 ## 이 허브의 목적
@@ -26,6 +26,7 @@ lastmod: 2026-06-21T22:30:00+09:00
 
 | 날짜 | 주제 | 핵심 결론 | 글 |
 |---|---|---|---|
+| 2026-06-22 | 삼성전자 FCF 환원과 DS 성과급 자사주 매수 | 삼성전자는 고배당주가 아니다. 그러나 2026E 순이익 300.2조원 기준 FCF 50% 환원 정책의 옵션 가치는 커졌고, DS 성과급용 자사주 매수는 소각은 아니지만 세후 20조~22조원, 보통주 시총 약 1%의 회사 매수 수요로 작동할 수 있다. | [삼성전자는 고배당주가 아니다](/ko/post/samsung-electronics-shareholder-return-ds-bonus-buyback-flow-2026-06-22/) |
 | 2026-06-21 | 2027 반도체 컨센서스 지불능력 | 삼성전자·SK하이닉스·마이크론·엔비디아의 2027E 컨센서스는 소비자가 아니라 하이퍼스케일러 CAPEX가 받쳐야 성립한다. 빅테크 4사 2027E CAPEX 7,822억달러 대비 FCF는 1,199억달러로 회계상 지불은 가능하나 완충은 얇고, 엔비디아 FY2028 매출 5,517억달러는 4사 CAPEX의 약 70.5%여서 4사 밖 수요까지 필요하다. 정부·주권 AI는 보조 수요, PC·스마트폰 OEM은 지불불능 구간이다. | [2027 반도체 컨센서스는 누가 지불하는가](/ko/post/semiconductor-2027-earnings-hyperscaler-payability-memory-nvidia-2026-06-21/) |
 | 2026-06-21 | 2Q 원화 약세 어닝 서프 후보 | FRED USD/KRW와 5월·6월 수출 데이터를 결합하면 환율은 2Q 수출주에 우호적이다. 다만 알파는 한국 수출주 전반이 아니라 달러 매출, 원화 비용, 물량·판가 개선, 컨센서스 미반영이 동시에 있는 한국콜마·피에스케이홀딩스·원익QnC 같은 후보에서 나온다. | [2Q 어닝 시즌: 원화 약세가 만드는 서프라이즈 후보](/ko/post/krw-weakness-2q-earnings-surprise-export-candidates-2026-06-21/) |
 | 2026-06-21 | 테크윙 HBM Cube Prober | 테크윙은 단순 HBM 테마가 아니라 삼성전자 공급, SK하이닉스 초도 수주, 마이크론 평가 진행이 붙은 HBM 검사 플랫폼 후보로 재분류될 수 있다. 다만 현재 수급은 외국인·프로그램 중심이고 파생손실 리스크가 있어 58,000~60,000원 지지 또는 65,300원 재돌파 확인이 필요하다. | [테크윙 HBM Cube Prober 분석](/ko/post/techwing-hbm-cube-prober-big3-conditional-buy-2026-06-21/) |
@@ -74,6 +75,7 @@ lastmod: 2026-06-21T22:30:00+09:00
 
 ### 상대 밸류에이션과 사이클 프레임
 
+- [삼성전자는 고배당주가 아니다: FCF 50% 환원과 DS 성과급 자사주 매수 플로우](/ko/post/samsung-electronics-shareholder-return-ds-bonus-buyback-flow-2026-06-22/)
 - [창신메모리 IPO와 메모리 가격 리스크: HBM이 먼저 꺾이는 장은 아니다](/ko/post/cxmt-ipo-memory-price-risk-hbm-client-dram-2026-06-21/)
 - [비싸진 돈의 시대: Warsh Fed가 바꾼 것은 금리보다 시장의 습관이다](/ko/post/warsh-fed-expensive-money-era-forward-guidance-ai-infra-2026-06-19/)
 - [AI는 1996년인가 1999년인가: 이번 FOMC와 그 이후](/ko/post/ai-1996-vs-1999-fomc-hawkish-hold-productivity-capex-2026-06-17/)
