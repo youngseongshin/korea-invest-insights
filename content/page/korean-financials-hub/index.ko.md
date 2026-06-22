@@ -5,7 +5,7 @@ date: 2026-05-03T22:30:00+09:00
 aliases: ["/ko/korean-financials/", "/ko/k-financials/", "/ko/value-up/", "/ko/page/korean-financials-hub/"]
 layout: "page"
 description: "Value-up 시대 한국 금융주 허브 — KB금융, 신한지주, 하나금융, 우리금융, 메리츠금융지주, 키움증권, DB손해보험, 한국금융지주, 미래에셋벤처투자. 'KB금융은 상장사인가요?', 'Value-up 2.0은 무엇인가요?', '한국 은행지주 중 ROE가 가장 높은 곳은?' 같은 직답 질문 + 세 정점(자본 소각 / 자본 회전 / 외국인 액세스)과 정점 사이의 이동을 매핑한 시리즈 전체."
-lastmod: 2026-06-13T11:30:00+09:00
+lastmod: 2026-06-22T08:10:00+09:00
 ---
 
 ## 이 허브가 답하는 질문
@@ -14,6 +14,7 @@ Value-up 이후의 한국 금융주에 대해 글로벌·국내 투자자가 묻
 
 | 검색 질문 | 빠른 답 | 읽을 글 |
 |---|---|---|
+| 6월 24일 MSCI 선진국 편입 이벤트가 금융주에 어떤 의미인가요? | 즉시 편입 확률은 1% 안팎이고, 진짜 이벤트는 Developed Markets Watch List 재등재(확률 30-35%)다. 실제 수혜는 한국 전체가 아니라 외국인 접근성·비용자본 하락을 수익화하는 금융·증권주에 집중된다. 가장 실전적인 예시는 약 0.87배 2026F P/B의 KB금융 조건부 리레이팅이고, 삼성증권은 이벤트 베타지만 레버리지 ETF 규제 리스크가 크다. | [MSCI Watch List 확률과 KB금융 트레이드](/ko/post/korea-msci-2026-developed-watch-list-probability-kb-financial-2026-06-22/) |
 | KB금융은 상장사인가요? | 네 — KOSPI 105560 / NYSE ADR KB. 한국 은행지주 중 외국인지분율(75.72%) 최고. | [KB금융: 외국인 액세스 프록시](/ko/post/kb-financial-foreign-access-proxy-third-peak-2026-05-03/) |
 | 신한지주는 상장사인가요? | 네 — KOSPI 055550 / NYSE ADR SHG. 외국인지분율 2위로, KB 좌표로 가장 빠르게 옮겨가는 회사. | [신한지주: 외국인 수급·주주환원 스토리](/ko/post/shinhan-financial-transit-between-peaks-2026-05-03/) |
 | 한국금융지주는 상장사인가요? | 네 — KOSPI 071050. 국내 유일 투자은행 중심 금융지주. 기존 4개 정점 어디에도 매핑되지 않는 다섯 번째 좌표('자본 운용 플랫폼')를 정의 중. | [한국금융지주: 증권·운용 플랫폼 재평가](/ko/post/korea-investment-holdings-fifth-coordinate-2026-05-03/) |

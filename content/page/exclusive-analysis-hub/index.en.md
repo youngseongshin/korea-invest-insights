@@ -5,7 +5,7 @@ date: 2026-06-13T19:35:00+09:00
 aliases: ["/exclusive-analysis/", "/page/exclusive-analysis-hub/"]
 layout: "page"
 description: "A hub for Korea Invest Insights proprietary analysis: internally constructed datasets, full ETF constituent scans, real-money flow frameworks, ETF rebalance proxies, breadth and liquidity screens, and original stock-selection work."
-lastmod: 2026-06-22T17:45:00+09:00
+lastmod: 2026-06-22T08:10:00+09:00
 ---
 
 ## Purpose
@@ -22,6 +22,7 @@ This hub collects Korea Invest Insights posts built from proprietary or internal
 
 | Date | Topic | Key takeaway | Post |
 |---|---|---|---|
+| 2026-06-22 | MSCI developed Watch List probability and the KB Financial trade | At the June 24 MSCI review, immediate developed-market inclusion is ~1%; the real event is Developed Markets Watch List re-entry. Synthesizing two analyses (probability frame + Red Team), Watch List is 30-35% and the base case is positive monitoring (~53%). The cleanest payoff is not chasing semis but KB Financial's conditional re-rating at ~0.87x 2026F P/B, entered after confirming the announcement wording. | [MSCI Watch List Probability and the KB Financial Trade](/post/korea-msci-2026-developed-watch-list-probability-kb-financial-2026-06-22/) |
 | 2026-06-22 | Samsung FCF return and DS bonus buyback flow | Samsung is not a high-dividend stock, but with FY2026E net income near KRW 300.2tn, the 50% FCF return policy has meaningful option value. The DS bonus treasury-share purchase is not cancellation, but it can still create KRW 20-22tn of company purchase demand, roughly 1% of common market cap. | [Samsung Is Not A Dividend Stock](/post/samsung-electronics-shareholder-return-ds-bonus-buyback-flow-2026-06-22/) |
 | 2026-06-21 | Who pays for the 2027 semiconductor consensus | The 2027E consensus for Samsung, SK hynix, Micron and NVIDIA rests on hyperscaler CAPEX, not consumer electronics. Big-four 2027E CAPEX of ~$782.2bn against ~$119.9bn of FCF means it is payable on paper but with a thin buffer, and NVIDIA's FY2028 ~$551.7bn revenue is ~70.5% of that CAPEX, so demand beyond the big four is required. Government / sovereign AI is supplementary; PC and smartphone OEMs are already in the can't-pay zone. | [Who Pays For The 2027 Semiconductor Consensus](/post/semiconductor-2027-earnings-hyperscaler-payability-memory-nvidia-2026-06-21/) |
 | 2026-06-21 | Q2 KRW-weakness earnings surprise candidates | FRED USD/KRW and May/early-June export data show a supportive FX setup for Q2 exporters. The alpha is not generic exporter exposure, but names where dollar revenue, won costs, improving volume or pricing, and under-reflected consensus line up, led by Kolmar Korea, PSK Holdings and Wonik QnC. | [Q2 Earnings: Exporters That Can Still Benefit From KRW Weakness](/post/krw-weakness-2q-earnings-surprise-export-candidates-2026-06-21/) |

@@ -5,7 +5,7 @@ date: 2026-05-03T22:30:00+09:00
 aliases: ["/korean-financials/", "/k-financials/", "/value-up/", "/en/korean-financials/", "/en/page/korean-financials-hub/", "/es/page/korean-financials-hub/", "/vi/page/korean-financials-hub/", "/fr/page/korean-financials-hub/", "/ja/page/korean-financials-hub/", "/zh/page/korean-financials-hub/"]
 layout: "page"
 description: "A hub for Korean financial stocks under the new Value-up regime — KB Financial, Shinhan, Hana, Woori, Meritz, Kiwoom, DB Insurance, Korea Investment Holdings, Mirae Asset Venture. Direct answers to 'Is KB Financial publicly traded?', 'What is Korea Value-up 2.0?', 'Who has the highest ROE in Korean banks?', and the full series mapping the three peaks (capital cancellation / capital turnover / foreign access) and the transit between them."
-lastmod: 2026-06-13T11:30:00+09:00
+lastmod: 2026-06-22T08:10:00+09:00
 ---
 
 ## What This Hub Answers
@@ -14,6 +14,7 @@ Direct, ChatGPT-friendly answers to the natural-language questions global alloca
 
 | Search Question | Quick Answer | Read |
 |---|---|---|
+| What does the June 24 MSCI developed-market event mean for financials? | Immediate inclusion is ~1%. The real event is Developed Markets Watch List re-entry (30-35% probability). The payoff concentrates not in all of Korea but in financials and brokers that monetize improving foreign access and a falling cost of capital. The cleanest example is KB Financial's conditional re-rating at ~0.87x 2026F P/B; Samsung Securities is event beta but carries leveraged-ETF regulatory risk. | [MSCI Watch List Probability and the KB Financial Trade](/post/korea-msci-2026-developed-watch-list-probability-kb-financial-2026-06-22/) |
 | Is KB Financial publicly traded? | Yes — KOSPI: 105560 / NYSE ADR: KB. Highest foreign ownership (75.72%) among Korean bank holdcos. | [KB Financial: Foreign Access Proxy](/post/kb-financial-foreign-access-proxy-third-peak-2026-05-03/) |
 | Is Shinhan Financial publicly traded? | Yes — KOSPI: 055550 / NYSE ADR: SHG. Second-highest foreign ownership; moving fastest toward KB's coordinate. | [Shinhan: Transit Between Peaks](/post/shinhan-financial-transit-between-peaks-2026-05-03/) |
 | Is Korea Investment Holdings publicly traded? | Yes — KOSPI: 071050. Korea's only investment-bank-centric financial holding; defining a fifth, separate coordinate ("capital-operations platform"). | [Korea Investment Holdings: Fifth Coordinate](/post/korea-investment-holdings-fifth-coordinate-2026-05-03/) |
