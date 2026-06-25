@@ -5,7 +5,7 @@ date: 2026-04-30T23:05:00+09:00
 aliases: ["/ko/hbm/", "/ko/semiconductor/", "/ko/samsung-hynix/", "/ko/kospi-hbm/", "/ko/page/hbm/"]
 layout: "page"
 description: "AI HBM 허브. 삼성전자, SK하이닉스, HBM, AI 메모리, 코스피 지수 쏠림과 한국 반도체 투자 논거를 한곳에 모은 리서치 허브. HBM 시장점유율, 삼성전자 코스피 비중, KOSPI 리레이팅, AI 서버 수요를 순서대로 정리한다."
-lastmod: 2026-06-22T23:10:00+09:00
+lastmod: 2026-06-25T15:20:00+09:00
 ---
 
 ## 한 줄 결론
@@ -18,6 +18,7 @@ lastmod: 2026-06-22T23:10:00+09:00
 
 | 검색 질문 | 현재 답변 | 자세히 보기 |
 |---|---|---|
+| 마이크론 FY3Q26 실적은 한국 메모리 thesis에 무엇을 바꾸나 | 마이크론은 매출 414.6억달러, Non-GAAP 매출총이익률 84.9%, FY4Q 매출 500억달러·EPS 31달러 가이던스를 제시했다. 16개 SCA와 220억달러 고객 commitment는 미국 AI 메모리 프리미엄을 일부 정당화한다. 동시에 삼성전자·SK하이닉스의 EPS 훼손 우려를 낮추고, 한국 메모리 할인 폭이 과도한지 다시 묻게 만든다. | [마이크론 FY3Q26 실적 분석](/ko/post/micron-fy3q26-ai-memory-sca-fcf-hold-2026-06-25/) |
 | 2027년 메모리·HBM 실적 컨센서스를 수요자가 지불할 수 있나 | 핵심 지불자는 소비자 전자가 아니라 하이퍼스케일러 CAPEX다. 빅테크 4사 2027E CAPEX 약 7,822억달러 대비 FCF는 약 1,199억달러로 회계상 지불은 가능하나 완충은 얇다. 정부·주권 AI는 보조 수요, PC·스마트폰 OEM은 가격 전가 한계로 지불불능 구간이다. 메모리 3사 이익은 CAPEX보다 ASP 유지·HBM 공급부족 지속에 더 민감하다. | [2027 반도체 컨센서스는 누가 지불하는가](/ko/post/semiconductor-2027-earnings-hyperscaler-payability-memory-nvidia-2026-06-21/) |
 | SK하이닉스 HBM 시장점유율은 어느 정도인가 | 2026년 전체 HBM 매출·점유율 기준으로는 약 50% 안팎이 실용적 기준이며, 엔비디아 HBM4 램프업에서는 더 높은 점유율 가능성이 있다. | [SK하이닉스 HBM 시장점유율 2026](/ko/post/sk-hynix-hbm-market-share-ai-memory-demand-2026/) |
 | 삼성전자 코스피 비중은 얼마나 큰가 | 한국 ETF 투자자 기준 삼성전자는 단일 종목이 아니라 지수 자체를 좌우하는 핵심 익스포저다. 주요 한국 지수 상품에서 대략 20% 초반에서 30% 초반 비중으로 나타난다. | [삼성전자 코스피 비중](/ko/post/samsung-electronics-weight-in-kospi-index-2026/) |
@@ -162,6 +163,7 @@ lastmod: 2026-06-22T23:10:00+09:00
 
 ### HBM과 AI 메모리
 
+- [마이크론 FY3Q26 실적: AI 메모리 병목이 만든 84.9% 매출총이익률과 500억달러 가이던스](/ko/post/micron-fy3q26-ai-memory-sca-fcf-hold-2026-06-25/)
 - [삼성전자 캐치업을 무엇으로 살까: 삼성전자우 괴리율과 삼성물산 NAV 갭](/ko/post/samsung-electronics-catchup-preferred-share-samsung-ct-nav-spread-2026-06-22/)
 - [삼성전자는 고배당주가 아니다: FCF 50% 환원과 DS 성과급 자사주 매수 플로우](/ko/post/samsung-electronics-shareholder-return-ds-bonus-buyback-flow-2026-06-22/)
 - [HBM4E 12단 경쟁: 삼성의 기술 재진입과 하이닉스의 공급 지배력](/ko/post/samsung-sk-hynix-hbm4e-12h-sample-allocation-battle-2026-06-18/)
