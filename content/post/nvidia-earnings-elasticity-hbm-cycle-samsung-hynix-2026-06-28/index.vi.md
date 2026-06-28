@@ -1,6 +1,6 @@
 ---
 title: "Bài học từ NVIDIA cho chu kỳ HBM của Samsung và SK Hynix"
-date: 2026-06-28T23:20:00+09:00
+date: 2026-06-28T22:00:00+09:00
 slug: "nvidia-earnings-elasticity-hbm-cycle-samsung-hynix-2026-06-28"
 canonical: "https://koreainvestinsights.com/vi/post/nvidia-earnings-elasticity-hbm-cycle-samsung-hynix-2026-06-28/"
 description: "Phân tích chu kỳ Samsung Electronics và SK Hynix qua độ nhạy giữa lợi nhuận và giá cổ phiếu của NVIDIA."

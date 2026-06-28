@@ -1,6 +1,6 @@
 ---
 title: "NVIDIA 변곡점으로 본 전닉: 실적은 강한데 주가 탄성은 언제 꺾이나"
-date: 2026-06-28T23:20:00+09:00
+date: 2026-06-28T22:00:00+09:00
 slug: "nvidia-earnings-elasticity-hbm-cycle-samsung-hynix-2026-06-28"
 canonical: "https://koreainvestinsights.com/ko/post/nvidia-earnings-elasticity-hbm-cycle-samsung-hynix-2026-06-28/"
 description: "NVIDIA의 실적 성장률과 주가 탄성 변곡점을 사례로 삼아 삼성전자와 SK하이닉스, 즉 전닉의 HBM 사이클을 점검한다. 핵심은 실적 피크가 아니라 EPS revision 피크와 주가 탄성 둔화이며, 본격 판별 구간은 2026년 4분기부터 2027년 1분기다."

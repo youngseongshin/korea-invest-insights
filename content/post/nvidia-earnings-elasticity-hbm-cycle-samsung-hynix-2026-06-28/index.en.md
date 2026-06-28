@@ -1,6 +1,6 @@
 ---
 title: "What NVIDIA's Earnings Elasticity Says About Samsung And SK Hynix"
-date: 2026-06-28T23:20:00+09:00
+date: 2026-06-28T22:00:00+09:00
 slug: "nvidia-earnings-elasticity-hbm-cycle-samsung-hynix-2026-06-28"
 canonical: "https://koreainvestinsights.com/post/nvidia-earnings-elasticity-hbm-cycle-samsung-hynix-2026-06-28/"
 description: "A standalone analysis using NVIDIA's earnings and share-price elasticity as a template for judging the HBM cycle in Samsung Electronics and SK Hynix."

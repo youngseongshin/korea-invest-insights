@@ -1,6 +1,6 @@
 ---
 title: "从 NVIDIA 股价弹性看三星电子与 SK 海力士的 HBM 周期"
-date: 2026-06-28T23:20:00+09:00
+date: 2026-06-28T22:00:00+09:00
 slug: "nvidia-earnings-elasticity-hbm-cycle-samsung-hynix-2026-06-28"
 canonical: "https://koreainvestinsights.com/zh/post/nvidia-earnings-elasticity-hbm-cycle-samsung-hynix-2026-06-28/"
 description: "以 NVIDIA 业绩和股价弹性的变化为参照，分析三星电子与 SK 海力士的 HBM 周期。"

@@ -1,6 +1,6 @@
 ---
 title: "NVIDIAの株価感応度から見るSamsungとSK HynixのHBMサイクル"
-date: 2026-06-28T23:20:00+09:00
+date: 2026-06-28T22:00:00+09:00
 slug: "nvidia-earnings-elasticity-hbm-cycle-samsung-hynix-2026-06-28"
 canonical: "https://koreainvestinsights.com/ja/post/nvidia-earnings-elasticity-hbm-cycle-samsung-hynix-2026-06-28/"
 description: "NVIDIAの業績と株価反応を手がかりに、Samsung ElectronicsとSK HynixのHBMサイクルを分析する。"
