@@ -5,7 +5,7 @@ date: 2026-04-30T23:05:00+09:00
 aliases: ["/hbm/", "/semiconductor/", "/samsung-hynix/", "/kospi-hbm/", "/en/hbm/", "/en/semiconductor/", "/en/samsung-hynix/", "/en/kospi-hbm/", "/en/page/korea-semiconductor-hbm-kospi-hub/", "/es/page/korea-semiconductor-hbm-kospi-hub/", "/vi/page/korea-semiconductor-hbm-kospi-hub/", "/fr/page/korea-semiconductor-hbm-kospi-hub/", "/ja/page/korea-semiconductor-hbm-kospi-hub/", "/zh/page/korea-semiconductor-hbm-kospi-hub/"]
 layout: "page"
 description: "AI HBM hub for Samsung Electronics, SK Hynix, HBM, AI memory and KOSPI concentration. Covers HBM market share, Samsung's KOSPI weight, Korean semiconductor exposure and the 2026 KOSPI re-rating thesis."
-lastmod: 2026-06-22T17:45:00+09:00
+lastmod: 2026-06-28T10:00:00+09:00
 ---
 
 ## One-Line Thesis
@@ -18,6 +18,7 @@ Korean semiconductor exposure is not one trade. It combines <strong>SK Hynix's H
 
 | Search Question | Current Answer | Read |
 |---|---|---|
+| How do HBM, HBF and HBC differ, and are they substitutes? | They are not the same type. HBM (bandwidth) and HBF (capacity) are memory components; HBC is Qualcomm's accelerator architecture name, not a memory chip. Maturity differs sharply: HBM is in mass production (★★★★★), HBF is simulation-stage (★★, first sample H2 2026), HBC is a blueprint (★, 2027 sample target). The three are complements, not competitors: hot data (KV cache) goes to HBM, cold data (frozen weights) goes to HBF. No technology threatens HBM's working-memory role today; HBF/HBC revenue contribution is earliest 2027-2028. | [HBM, HBF and HBC: How to Tell AI Memory Technologies Apart](/post/hbm-hbf-hbc-ai-memory-comparison-2026-06-22/) |
 | Can demand actually pay for the 2027 memory/HBM consensus? | The real payer is hyperscaler CAPEX, not consumer electronics. Big-four 2027E CAPEX of ~$782.2bn against ~$119.9bn of FCF is payable on paper but with a thin buffer. Government / sovereign AI is supplementary; PC and smartphone OEMs are in the can't-pass-through, can't-pay zone. Memory earnings are more sensitive to ASP and HBM scarcity persistence than to CAPEX itself. | [Who Pays For The 2027 Semiconductor Consensus](/post/semiconductor-2027-earnings-hyperscaler-payability-memory-nvidia-2026-06-21/) |
 | What is SK Hynix's HBM market share? | A practical 2026 baseline is roughly 50% of total HBM revenue/share, with potentially higher exposure in Nvidia's HBM4 ramp if allocation reports hold. | [SK Hynix HBM Market Share 2026](/post/sk-hynix-hbm-market-share-ai-memory-demand-2026/) |
 | How large is Samsung Electronics in KOSPI? | For Korea ETF investors, Samsung Electronics is not just one holding. In major Korea index products, its weight typically sits in the low-20s to low-30s percentage range. | [Samsung Electronics Weight in KOSPI](/post/samsung-electronics-weight-in-kospi-index-2026/) |
