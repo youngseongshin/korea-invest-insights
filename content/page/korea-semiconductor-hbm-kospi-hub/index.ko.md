@@ -5,7 +5,7 @@ date: 2026-04-30T23:05:00+09:00
 aliases: ["/ko/hbm/", "/ko/semiconductor/", "/ko/samsung-hynix/", "/ko/kospi-hbm/", "/ko/page/hbm/"]
 layout: "page"
 description: "AI HBM 허브. 삼성전자, SK하이닉스, HBM, AI 메모리, 코스피 지수 쏠림과 한국 반도체 투자 논거를 한곳에 모은 리서치 허브. HBM 시장점유율, 삼성전자 코스피 비중, KOSPI 리레이팅, AI 서버 수요를 순서대로 정리한다."
-lastmod: 2026-06-28T22:00:00+09:00
+lastmod: 2026-06-28T23:20:00+09:00
 ---
 
 ## 한 줄 결론
@@ -18,6 +18,7 @@ lastmod: 2026-06-28T22:00:00+09:00
 
 | 검색 질문 | 현재 답변 | 자세히 보기 |
 |---|---|---|
+| HBF와 HBC 상용화는 언제 주가 트리거가 되나 | HBF와 HBC는 아직 매출보다 마일스톤 테마다. 2026년 하반기는 HBF 1세대 샘플과 Qualcomm AI200 출하, 2027년은 HBF 고객 qualification과 AI250/HBC Gen1 샘플, 2028년 이후는 실제 매출 확인 구간이다. HBF 직접 노출은 SanDisk, HBC 본진은 Qualcomm, 한국 확정 부품 노출은 삼성전기다. 파두를 HBF로, 한미반도체를 HBC로 묶는 프레임은 공개 근거가 약하다. | [HBF·HBC 상용화 캘린더](/ko/post/hbf-hbc-commercialization-stock-trigger-catalyst-calendar-2026-06-28/) |
 | NVIDIA 사례로 보면 전닉/HBM 주가는 언제 꺾이나 | 실적 사이클은 아직 꺾이지 않았다. 그러나 NVIDIA 사례처럼 실적이 계속 좋아져도 EPS revision 속도와 기대치 상회 폭이 둔화되면 주가 탄성이 먼저 낮아질 수 있다. 전닉은 2026년 6월 전후 1차 과열권에 들어왔고, 본격 판별 구간은 2026년 4분기부터 2027년 1분기다. | [NVIDIA 변곡점으로 본 전닉](/ko/post/nvidia-earnings-elasticity-hbm-cycle-samsung-hynix-2026-06-28/) |
 | HBM·HBF·HBC는 어떻게 다른가, 서로 대체재인가 | 셋은 같은 종류가 아니다. HBM(대역폭)과 HBF(용량)는 메모리 부품이고, HBC는 퀄컴의 가속기 아키텍처다. 성숙도가 크게 다르다. HBM은 완전 양산(★★★★★), HBF는 시뮬레이션 단계(★★), HBC는 청사진(★)이다. 데이터 온도에 따라 뜨거운 데이터(KV 캐시)는 HBM, 차가운 데이터(불변 가중치)는 HBF로 분담하는 보완 구조다. 지금 HBM의 자리를 위협하는 기술은 없고, HBF·HBC 매출 기여는 빨라야 2027-2028년이다. | [HBM·HBF·HBC AI 메모리 기술 비교](/ko/post/hbm-hbf-hbc-ai-memory-comparison-2026-06-22/) |
 | 마이크론 FY3Q26 실적은 한국 메모리 thesis에 무엇을 바꾸나 | 마이크론은 매출 414.6억달러, Non-GAAP 매출총이익률 84.9%, FY4Q 매출 500억달러·EPS 31달러 가이던스를 제시했다. 16개 SCA와 220억달러 고객 commitment는 미국 AI 메모리 프리미엄을 일부 정당화한다. 동시에 삼성전자·SK하이닉스의 EPS 훼손 우려를 낮추고, 한국 메모리 할인 폭이 과도한지 다시 묻게 만든다. | [마이크론 FY3Q26 실적 분석](/ko/post/micron-fy3q26-ai-memory-sca-fcf-hold-2026-06-25/) |
@@ -74,6 +75,7 @@ lastmod: 2026-06-28T22:00:00+09:00
 
 | 날짜 | 주제 | 자세히 보기 |
 |---|---|---|
+| 2026-06-28 | <strong>HBF·HBC 상용화 캘린더</strong>: HBF는 2026년 하반기 샘플, 2027년 초 inference device 샘플, 2028년 이후 매출 가능성으로 보고, HBC는 AI200 전초전 뒤 AI250/HBC Gen1 2027년 중반 샘플과 2028년 이후 매출로 분리. 실질 레버리지는 HBF=SanDisk 옵션, HBC=Qualcomm 본진+삼성전기 FC-BGA이며, 파두(HBF)·한미반도체(HBC)는 오분류로 정리 | [HBF·HBC 상용화 캘린더](/ko/post/hbf-hbc-commercialization-stock-trigger-catalyst-calendar-2026-06-28/) |
 | 2026-06-22 | <strong>삼성전자 FCF 환원과 DS 성과급 자사주 매수 플로우</strong> — 정규 배당수익률이 아니라 2026E 순이익 300.2조원, FCF 50% 환원 정책, 세후 20조~22조원 규모의 DS 성과급용 자사주 매수 가능성을 분리해 삼성전자 주주환원 논리를 재해석 | [삼성전자는 고배당주가 아니다](/ko/post/samsung-electronics-shareholder-return-ds-bonus-buyback-flow-2026-06-22/) |
 | 2026-06-22 | <strong>삼전닉스 쏠림 이후 코스닥 회복 조건</strong>: 삼성전자·SK하이닉스 급락이 아니라 실적 논리가 살아 있는 횡보가 필요하다는 점을 정리. 6월 24일 Micron, 7월 삼성전자·SK하이닉스 2Q 기대 소화 이후 개인자금 복귀와 코스닥 반도체 테스트·장비·계측 거래대금을 확인해야 한다는 결론 | [삼전닉스 쏠림 이후 코스닥 회복 조건](/ko/post/kosdaq-recovery-samsung-hynix-sideways-semiconductor-sme-2026-06-22/) |
 | 2026-06-21 | <strong>창신메모리 IPO와 메모리 가격 리스크</strong> — CXMT의 STAR Market IPO와 중국 DRAM 공급 확대를 HBM 붕괴 신호가 아니라 client DDR5·LPDDR·consumer NAND 가격 상단을 낮추는 구조 변화로 해석. 2026년은 가격 하락보다 가격 인상률 정점, 2027년은 HBM·AI 서버 메모리와 client DRAM/NAND의 분화가 핵심이라는 결론 | [창신메모리 IPO와 메모리 가격 리스크](/ko/post/cxmt-ipo-memory-price-risk-hbm-client-dram-2026-06-21/) |
@@ -165,6 +167,7 @@ lastmod: 2026-06-28T22:00:00+09:00
 
 ### HBM과 AI 메모리
 
+- [HBF·HBC 상용화 캘린더: 주가를 움직일 마일스톤과 오분류 정리](/ko/post/hbf-hbc-commercialization-stock-trigger-catalyst-calendar-2026-06-28/)
 - [NVIDIA 변곡점으로 본 전닉: 실적은 강한데 주가 탄성은 언제 꺾이나](/ko/post/nvidia-earnings-elasticity-hbm-cycle-samsung-hynix-2026-06-28/)
 - [마이크론 FY3Q26 실적: AI 메모리 병목이 만든 84.9% 매출총이익률과 500억달러 가이던스](/ko/post/micron-fy3q26-ai-memory-sca-fcf-hold-2026-06-25/)
 - [삼성전자 캐치업을 무엇으로 살까: 삼성전자우 괴리율과 삼성물산 NAV 갭](/ko/post/samsung-electronics-catchup-preferred-share-samsung-ct-nav-spread-2026-06-22/)
