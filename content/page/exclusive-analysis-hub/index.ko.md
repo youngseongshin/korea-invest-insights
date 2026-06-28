@@ -5,7 +5,7 @@ date: 2026-06-13T19:35:00+09:00
 aliases: ["/ko/exclusive-analysis/", "/ko/page/exclusive-analysis-hub/"]
 layout: "page"
 description: "Korea Invest Insights의 자체 데이터 분석 허브. 자체 계산 데이터셋, Naver ETF 구성 전수 스캔, Real Money 수급, ETF 리밸런싱, 브레드스와 유동성 프레임워크 등 공개 기사 요약이 아니라 직접 계산한 분석 글을 모은다."
-lastmod: 2026-06-28T10:00:00+09:00
+lastmod: 2026-06-28T23:20:00+09:00
 ---
 
 ## 이 허브의 목적
@@ -26,6 +26,7 @@ lastmod: 2026-06-28T10:00:00+09:00
 
 | 날짜 | 주제 | 핵심 결론 | 글 |
 |---|---|---|---|
+| 2026-06-28 | NVIDIA 주가 탄성으로 본 전닉/HBM 사이클 | NVIDIA 사례는 실적이 계속 좋아져도 EPS revision 속도와 기대치 상회 폭이 둔화되면 주가 탄성이 먼저 낮아질 수 있음을 보여준다. 전닉의 실적 사이클은 아직 꺾이지 않았지만 주가 기준으로는 2026년 6월 전후 1차 과열권이며, 본격 판별 구간은 2026년 4분기부터 2027년 1분기다. 삼성전자는 HBM4/Rubin catch-up 옵션, SK하이닉스는 crowded winner 리스크를 분리해 봐야 한다. | [NVIDIA 변곡점으로 본 전닉](/ko/post/nvidia-earnings-elasticity-hbm-cycle-samsung-hynix-2026-06-28/) |
 | 2026-06-25 | 마이크론 FY3Q26 실적과 AI 메모리 SCA | 마이크론은 매출 414.6억달러, Non-GAAP 매출총이익률 84.9%, FY4Q 매출 500억달러·EPS 31달러 가이던스로 미국 AI 메모리 프리미엄을 숫자로 방어했다. 핵심은 16개 SCA와 220억달러 고객 commitment가 메모리 cyclicality discount를 낮출 수 있느냐다. 다만 장후 급등 이후 신규 진입은 조정 대기가 더 합리적이다. | [마이크론 FY3Q26 실적 분석](/ko/post/micron-fy3q26-ai-memory-sca-fcf-hold-2026-06-25/) |
 | 2026-06-22 | 삼성전자우 괴리율과 삼성물산 NAV 갭 | 삼성전자 HBM·FCF 환원 캐치업을 보통주, 삼성전자우, 삼성물산으로 나눴다. 핵심 알파는 ETF 캡 대체수급이 아니라 우선주/보통주 비율 63.4%, 할인율 36.6%의 상대가치 정상화다. 삼성물산은 삼성전자 지분가치 상승분 반영률이 66.3%까지 올라와 조건부 위성으로 낮춰 봐야 한다. | [삼성전자 캐치업을 무엇으로 살까](/ko/post/samsung-electronics-catchup-preferred-share-samsung-ct-nav-spread-2026-06-22/) |
 | 2026-06-22 | MSCI 선진국 Watch List 확률과 KB금융 트레이드 | 6월 24일 MSCI 발표에서 즉시 선진국 편입은 1% 안팎이고 본질은 Developed Markets Watch List 재등재다. 두 분석(확률 프레임 + Red Team)을 종합하면 Watch List 30-35%, 베이스 케이스는 긍정적 모니터링(약 53%)이다. 가장 실전적인 수혜는 반도체 추격이 아니라 약 0.87배 2026F P/B의 KB금융 조건부 리레이팅이며, 발표문 문구 확인 후 진입이 기대값이 높다. | [MSCI Watch List 확률과 KB금융 트레이드](/ko/post/korea-msci-2026-developed-watch-list-probability-kb-financial-2026-06-22/) |
@@ -79,6 +80,7 @@ lastmod: 2026-06-28T10:00:00+09:00
 
 ### 상대 밸류에이션과 사이클 프레임
 
+- [NVIDIA 변곡점으로 본 전닉: 실적은 강한데 주가 탄성은 언제 꺾이나](/ko/post/nvidia-earnings-elasticity-hbm-cycle-samsung-hynix-2026-06-28/)
 - [마이크론 FY3Q26 실적: AI 메모리 병목이 만든 84.9% 매출총이익률과 500억달러 가이던스](/ko/post/micron-fy3q26-ai-memory-sca-fcf-hold-2026-06-25/)
 - [삼성전자 캐치업을 무엇으로 살까: 삼성전자우 괴리율과 삼성물산 NAV 갭](/ko/post/samsung-electronics-catchup-preferred-share-samsung-ct-nav-spread-2026-06-22/)
 - [삼성전자는 고배당주가 아니다: FCF 50% 환원과 DS 성과급 자사주 매수 플로우](/ko/post/samsung-electronics-shareholder-return-ds-bonus-buyback-flow-2026-06-22/)
