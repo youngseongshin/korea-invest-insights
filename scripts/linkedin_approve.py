@@ -8,7 +8,7 @@ personal LinkedIn profile.
     scripts/linkedin_approve.py             # interactively review all pending
     scripts/linkedin_approve.py --list      # just list pending
     scripts/linkedin_approve.py --slug X    # approve + post one slug
-    scripts/linkedin_approve.py --all --yes # post all pending without prompting
+    scripts/linkedin_approve.py --all       # review each pending entry
 
 Pending queue: ~/.local/share/korea-invest-insights/linkedin_pending.json
 Token/secrets: ~/.config/korea-invest-insights/linkedin.env (linkedin_oauth_setup.py)
@@ -19,6 +19,7 @@ from __future__ import annotations
 import argparse
 import datetime as dt
 import json
+import os
 import sys
 from pathlib import Path
 
@@ -32,6 +33,7 @@ from linkedin_notify import (  # same scripts/ dir
 DATA_DIR = Path.home() / ".local" / "share" / "korea-invest-insights"
 PENDING_PATH = DATA_DIR / "linkedin_pending.json"
 LOG_PATH = DATA_DIR / "linkedin_distribution_log.json"
+AUTO_APPROVE_ENV = "KII_LINKEDIN_ALLOW_AUTO_APPROVE"
 
 
 def _load(path: Path) -> dict:
@@ -100,8 +102,19 @@ def main(argv: list[str] | None = None) -> int:
     parser.add_argument("--list", action="store_true", help="list pending posts and exit")
     parser.add_argument("--slug", default="", help="approve + post a single slug")
     parser.add_argument("--all", action="store_true", help="post all pending")
-    parser.add_argument("--yes", action="store_true", help="skip the y/N prompt")
+    parser.add_argument(
+        "--yes",
+        action="store_true",
+        help=f"skip the y/N prompt only when {AUTO_APPROVE_ENV}=1 is set",
+    )
     args = parser.parse_args(argv)
+
+    if args.yes and os.environ.get(AUTO_APPROVE_ENV) != "1":
+        print(
+            "LinkedIn 자동 승인은 비활성화되어 있습니다. "
+            f"정말 필요한 1회성 수동 예외에서만 {AUTO_APPROVE_ENV}=1 을 설정하세요."
+        )
+        return 2
 
     data = _load(PENDING_PATH)
     pending = list(data.get("pending", {}).values())

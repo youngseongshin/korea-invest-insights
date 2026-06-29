@@ -481,7 +481,7 @@ LINKEDIN_PENDING_PATH = DEFAULT_DATA_DIR / "linkedin_pending.json"
 
 
 def stage_linkedin_post(post: dict) -> None:
-    """Queue a post for manual LinkedIn approval (semi-automatic publishing)."""
+    """Queue a post for manual LinkedIn approval. Never auto-post from distribution."""
     data = load_json(LINKEDIN_PENDING_PATH)
     data.setdefault("pending", {})
     data["pending"][post["canonical_url"]] = {
@@ -617,9 +617,9 @@ def main(argv: list[str] | None = None) -> int:
         default=",".join(DEFAULT_CHANNELS),
         help=(
             "Comma-separated channels to run after the blog URL is live. "
-            "Default: telegram,botmadang,substack,linkedin. LinkedIn is semi-automatic: "
-            "it STAGES each post for manual approval (scripts/linkedin_approve.py) instead "
-            "of auto-posting; it silently skips if not configured and never blocks other channels. "
+            "Default: telegram,botmadang,substack,linkedin. LinkedIn is manual-approval only: "
+            "it STAGES each post for review (scripts/linkedin_approve.py) instead of posting "
+            "or approving automatically; it silently skips if not configured and never blocks other channels. "
             "Valley is paused by default but remains available by passing --channels valley."
         ),
     )

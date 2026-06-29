@@ -126,14 +126,15 @@ All channel notifications are now run from one post-live wrapper:
   version only. Korean-only posts are logged as `skip_no_english`, not treated as
   failures. That skip is retryable: if `index.en.md` is added later, the
   Substack channel may publish the post on the next targeted run.
-- **LinkedIn**: semi-automatic ("approval") publishing to the configured
+- **LinkedIn**: manual-approval only publishing to the configured
   **personal LinkedIn profile**. On publish, `post_publish_distribution.py`
-  STAGES the post (composed title + teaser + canonical URL) into a pending
-  queue instead of posting. You then review and approve with
+  only STAGES the post (composed title + teaser + canonical URL) into a pending
+  queue. It must not post or approve automatically as part of routine blog
+  post-process. The user reviews and approves manually with
   `scripts/linkedin_approve.py`, which posts via the LinkedIn Posts API
-  (`scripts/linkedin_notify.py`). It is a default channel but optional: if no
-  token is configured it silently skips, and it never blocks the other channels.
-  One-time setup below.
+  (`scripts/linkedin_notify.py`). It is a default staging channel but optional:
+  if no token is configured it silently skips, and it never blocks the other
+  channels. One-time setup below.
 
   ```bash
   scripts/linkedin_approve.py --list   # see what is queued
@@ -141,14 +142,20 @@ All channel notifications are now run from one post-live wrapper:
   scripts/linkedin_approve.py --slug <slug>   # approve one
   ```
 
+  Do not run automatic approval from normal publishing tasks:
+  `scripts/linkedin_approve.py --all --yes`,
+  `scripts/linkedin_approve.py --slug <slug> --yes`, and
+  `linkedin-share approve --yes` are blocked by default. A one-off manual
+  exception requires `KII_LINKEDIN_ALLOW_AUTO_APPROVE=1`.
+
   The same capability is available system-wide as a reusable asset for any task
   (`linkedin-share` on PATH → `~/.openclaw/workspace/tools/linkedin_share.py`),
   sharing the same token and approval queue:
 
   ```bash
-  linkedin-share post  "comment" --link https://...   # post now
+  linkedin-share post  "comment" --link https://...   # explicit one-off post only
   linkedin-share stage "draft"   --link https://...   # queue for approval
-  linkedin-share list ; linkedin-share approve         # also covers blog-staged posts
+  linkedin-share list ; linkedin-share approve         # interactive approval
   ```
 
   See the vault note `90_meta/linkedin-share-capability.md`.
@@ -164,9 +171,9 @@ telegram,botmadang,substack,linkedin
 
 ### LinkedIn one-time setup
 
-LinkedIn auto-posting needs a member access token (`w_member_social`). The token
-and app credentials live ONLY in a local secrets file, never in the repo or
-GitHub Actions:
+LinkedIn posting needs a member access token (`w_member_social`), but automatic
+posting is disabled by policy. The token and app credentials live ONLY in a
+local secrets file, never in the repo or GitHub Actions:
 
 ```text
 ~/.config/korea-invest-insights/linkedin.env
