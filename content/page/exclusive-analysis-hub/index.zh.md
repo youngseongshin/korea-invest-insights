@@ -5,7 +5,7 @@ date: 2026-06-13T19:35:00+09:00
 aliases: ["/zh/exclusive-analysis/", "/zh/page/exclusive-analysis-hub/"]
 layout: "page"
 description: "Korea Invest Insights的独家分析中心，涵盖Thesis OS本地数据库、ETF成分扫描、Real Money资金流、流动性、ADR和相对强度。"
-lastmod: 2026-06-13T23:55:00+09:00
+lastmod: 2026-06-29T14:45:00+09:00
 ---
 
 ## 目的
@@ -14,6 +14,7 @@ lastmod: 2026-06-13T23:55:00+09:00
 
 | 日期 | 主题 | 文章 |
 |---|---|---|
+| 2026-06-29 | 三星电子2Q26：美光惊喜被抹去，关键是Core OP | [重点不是reported OP，而是Core OP](/zh/post/samsung-2q26-preview-micron-surprise-erased-core-op-hbm-2026-06-29/) |
 | 2026-06-13 | 目标价缺口与安心配置候选 | [KB金融和韩亚金融更适合安心持有](/zh/post/korea-target-price-gap-comfortable-entry-candidates-2026-06-13/) |
 | 2026-06-13 | 现代建设与Woojin的美国核电影响力 | [美国核电扩张中的非对称议价能力](/zh/post/hyundai-ec-woojin-us-nuclear-expansion-bargaining-power-2026-06-13/) |
 | 2026-06-13 | 韩国对美投资特别法与Team Korea核电机会 | [Team Korea核电机会](/zh/post/us-investment-special-act-team-korea-nuclear-opportunity-2026-06-13/) |
@@ -27,6 +28,7 @@ lastmod: 2026-06-13T23:55:00+09:00
 
 ## 相对估值与周期框架
 
+- [三星电子2Q26预览：美光惊喜已被价格抹去，关键是Core OP](/zh/post/samsung-2q26-preview-micron-surprise-erased-core-op-hbm-2026-06-29/)
 - [Samsung-Hynix-Micron forward P/E平价](/zh/post/samsung-hynix-micron-forward-per-parity-memory-catch-up-2026-06-03/)
 - [Sam-Ha-Ma平价后续](/post/sam-hama-parity-follow-up-ai-chip-memory-pe-map-2026-06-05/)
 - [三星电子能否获得15倍PER？](/zh/post/samsung-electronics-tsmc-rerating-thesis-2026-05-16/)

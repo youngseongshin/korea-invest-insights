@@ -5,7 +5,7 @@ date: 2026-06-13T19:35:00+09:00
 aliases: ["/exclusive-analysis/", "/page/exclusive-analysis-hub/"]
 layout: "page"
 description: "A hub for Korea Invest Insights proprietary analysis: internally constructed datasets, full ETF constituent scans, real-money flow frameworks, ETF rebalance proxies, breadth and liquidity screens, and original stock-selection work."
-lastmod: 2026-06-28T23:20:00+09:00
+lastmod: 2026-06-29T14:45:00+09:00
 ---
 
 ## Purpose
@@ -22,6 +22,7 @@ This hub collects Korea Invest Insights posts built from proprietary or internal
 
 | Date | Topic | Key takeaway | Post |
 |---|---|---|---|
+| 2026-06-29 | Samsung 2Q26 Core OP preview | Micron's FY3Q26 surprise was reflected in Samsung and SK Hynix for one session, but by June 29 intraday Samsung was below its pre-event price and SK Hynix was nearly back to zero. The key for Samsung 2Q26 is not reported OP of KRW 87-92tn alone, but Core OP of KRW 102-107tn after adding back catch-up bonus accruals and 3Q OP durability near KRW 100tn. | [Samsung 2Q26 Preview](/post/samsung-2q26-preview-micron-surprise-erased-core-op-hbm-2026-06-29/) |
 | 2026-06-28 | HBF and HBC commercialization calendar | HBF and HBC are real AI-memory bottleneck themes, but they are milestone trades before they are revenue trades. The 2026 signals are HBF sample delivery and Qualcomm AI200 shipment; 2027 is about HBF customer qualification and AI250/HBC Gen 1; 2028 and beyond is revenue. The clean exposure is SanDisk for HBF, Qualcomm for HBC and Samsung Electro-Mechanics as Korea's confirmed component exposure, while FADU in HBF and Hanmi Semiconductor in HBC are weak classifications. | [HBF And HBC Commercialization Calendar](/post/hbf-hbc-commercialization-stock-trigger-catalyst-calendar-2026-06-28/) |
 | 2026-06-22 | MSCI developed Watch List probability and the KB Financial trade | At the June 24 MSCI review, immediate developed-market inclusion is ~1%; the real event is Developed Markets Watch List re-entry. Synthesizing two analyses (probability frame + Red Team), Watch List is 30-35% and the base case is positive monitoring (~53%). The cleanest payoff is not chasing semis but KB Financial's conditional re-rating at ~0.87x 2026F P/B, entered after confirming the announcement wording. | [MSCI Watch List Probability and the KB Financial Trade](/post/korea-msci-2026-developed-watch-list-probability-kb-financial-2026-06-22/) |
 | 2026-06-22 | Samsung FCF return and DS bonus buyback flow | Samsung is not a high-dividend stock, but with FY2026E net income near KRW 300.2tn, the 50% FCF return policy has meaningful option value. The DS bonus treasury-share purchase is not cancellation, but it can still create KRW 20-22tn of company purchase demand, roughly 1% of common market cap. | [Samsung Is Not A Dividend Stock](/post/samsung-electronics-shareholder-return-ds-bonus-buyback-flow-2026-06-22/) |
@@ -69,6 +70,7 @@ This hub collects Korea Invest Insights posts built from proprietary or internal
 
 ### Relative Valuation And Cycle Frames
 
+- [Samsung 2Q26 Preview: Micron’s Surprise Has Been Erased, Core OP Is the Real Test](/post/samsung-2q26-preview-micron-surprise-erased-core-op-hbm-2026-06-29/)
 - [Samsung Electronics Is Not a Dividend Stock: FCF Return and the DS Bonus Buyback Flow](/post/samsung-electronics-shareholder-return-ds-bonus-buyback-flow-2026-06-22/)
 - [CXMT IPO And Memory Price Risk: HBM Is Not The First Place To Break](/post/cxmt-ipo-memory-price-risk-hbm-client-dram-2026-06-21/)
 - [The Era of Expensive Money: What the Warsh Fed Really Changed](/post/warsh-fed-expensive-money-era-forward-guidance-ai-infra-2026-06-19/)

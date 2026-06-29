@@ -5,7 +5,7 @@ date: 2026-06-13T19:35:00+09:00
 aliases: ["/fr/exclusive-analysis/", "/fr/page/exclusive-analysis-hub/"]
 layout: "page"
 description: "Analyses propriétaires de Korea Invest Insights fondées sur les bases Thesis OS, scans ETF, flux real money, liquidité, ADR et force relative."
-lastmod: 2026-06-13T23:55:00+09:00
+lastmod: 2026-06-29T14:45:00+09:00
 ---
 
 ## Objectif
@@ -14,6 +14,7 @@ Ce hub rassemble les analyses construites sur des bases de données propriétair
 
 | Date | Sujet | Lire |
 |---|---|---|
+| 2026-06-29 | Samsung 2T26 : Core OP et surprise de Micron effacée | [Le vrai test est le Core OP](/fr/post/samsung-2q26-preview-micron-surprise-erased-core-op-hbm-2026-06-29/) |
 | 2026-06-13 | Écart aux objectifs de cours et entrées confortables | [KB Financial et Hana ressortent le mieux](/fr/post/korea-target-price-gap-comfortable-entry-candidates-2026-06-13/) |
 | 2026-06-13 | Hyundai E&C et Woojin dans l'expansion nucléaire américaine | [Pouvoir de négociation asymétrique dans le nucléaire américain](/fr/post/hyundai-ec-woojin-us-nuclear-expansion-bargaining-power-2026-06-13/) |
 | 2026-06-13 | Loi coréenne d'investissement aux États-Unis et opportunité nucléaire Team Korea | [Opportunité nucléaire Team Korea](/fr/post/us-investment-special-act-team-korea-nuclear-opportunity-2026-06-13/) |
@@ -27,6 +28,7 @@ Ce hub rassemble les analyses construites sur des bases de données propriétair
 
 ## Cadres de valorisation relative et de cycle
 
+- [Samsung 2T26 : la surprise de Micron a été effacée, le vrai test est le Core OP](/fr/post/samsung-2q26-preview-micron-surprise-erased-core-op-hbm-2026-06-29/)
 - [Parité forward P/E Samsung-Hynix-Micron](/fr/post/samsung-hynix-micron-forward-per-parity-memory-catch-up-2026-06-03/)
 - [Suivi de la parité Sam-Ha-Ma](/post/sam-hama-parity-follow-up-ai-chip-memory-pe-map-2026-06-05/)
 - [Samsung Electronics et l'hypothèse d'un PER de 15x](/fr/post/samsung-electronics-tsmc-rerating-thesis-2026-05-16/)

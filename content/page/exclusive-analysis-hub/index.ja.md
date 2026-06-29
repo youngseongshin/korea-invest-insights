@@ -5,7 +5,7 @@ date: 2026-06-13T19:35:00+09:00
 aliases: ["/ja/exclusive-analysis/", "/ja/page/exclusive-analysis-hub/"]
 layout: "page"
 description: "Korea Invest Insightsの独自分析ハブ。Thesis OSローカルDB、ETF構成銘柄スキャン、Real Moneyフロー、流動性、ADR、相対強度を扱う。"
-lastmod: 2026-06-13T23:55:00+09:00
+lastmod: 2026-06-29T14:45:00+09:00
 ---
 
 ## 目的
@@ -14,6 +14,7 @@ lastmod: 2026-06-13T23:55:00+09:00
 
 | 日付 | テーマ | 記事 |
 |---|---|---|
+| 2026-06-29 | サムスン電子2Q26：Micronサプライズ消失とCore OP | [焦点はreported OPではなくCore OP](/ja/post/samsung-2q26-preview-micron-surprise-erased-core-op-hbm-2026-06-29/) |
 | 2026-06-13 | 目標株価ギャップと入りやすい候補 | [KB金融とハナ金融が最も入りやすい](/ja/post/korea-target-price-gap-comfortable-entry-candidates-2026-06-13/) |
 | 2026-06-13 | 現代建設とWoojinの米国原発交渉力 | [米国原発拡大で非対称な交渉力はどこにあるのか](/ja/post/hyundai-ec-woojin-us-nuclear-expansion-bargaining-power-2026-06-13/) |
 | 2026-06-13 | 韓国の対米投資特別法と原子力Team Koreaの機会 | [原子力Team Koreaの機会](/ja/post/us-investment-special-act-team-korea-nuclear-opportunity-2026-06-13/) |
@@ -27,6 +28,7 @@ lastmod: 2026-06-13T23:55:00+09:00
 
 ## 相対バリュエーションとサイクルの見方
 
+- [サムスン電子2Q26プレビュー: Micronサプライズは消え、焦点はCore OPへ](/ja/post/samsung-2q26-preview-micron-surprise-erased-core-op-hbm-2026-06-29/)
 - [Samsung-Hynix-Micron forward P/Eパリティ](/ja/post/samsung-hynix-micron-forward-per-parity-memory-catch-up-2026-06-03/)
 - [Sam-Ha-Maパリティ続編](/post/sam-hama-parity-follow-up-ai-chip-memory-pe-map-2026-06-05/)
 - [Samsung ElectronicsにPER15倍は可能か](/ja/post/samsung-electronics-tsmc-rerating-thesis-2026-05-16/)
