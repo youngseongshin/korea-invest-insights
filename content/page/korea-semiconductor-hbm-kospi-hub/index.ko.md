@@ -5,7 +5,7 @@ date: 2026-04-30T23:05:00+09:00
 aliases: ["/ko/hbm/", "/ko/semiconductor/", "/ko/samsung-hynix/", "/ko/kospi-hbm/", "/ko/page/hbm/"]
 layout: "page"
 description: "AI HBM 허브. 삼성전자, SK하이닉스, HBM, AI 메모리, 코스피 지수 쏠림과 한국 반도체 투자 논거를 한곳에 모은 리서치 허브. HBM 시장점유율, 삼성전자 코스피 비중, KOSPI 리레이팅, AI 서버 수요를 순서대로 정리한다."
-lastmod: 2026-06-29T14:45:00+09:00
+lastmod: 2026-06-30T22:35:00+09:00
 ---
 
 ## 한 줄 결론
@@ -18,6 +18,7 @@ lastmod: 2026-06-29T14:45:00+09:00
 
 | 검색 질문 | 현재 답변 | 자세히 보기 |
 |---|---|---|
+| 2026년 상반기 AI/HBM 장세는 넓은 강세장이었나 | 아니다. 한국은 KOSPI가 +101.1% 올랐지만 코스닥은 -1.0%, 전체 종목 중앙값은 -12.6%였다. 미국도 엔비디아 단독장이 아니라 메모리·스토리지·서버·반도체 장비·전력으로 AI 물리 병목이 이동한 장이었다. | [2026 상반기 복기](/ko/post/h1-2026-ai-infra-bottleneck-korea-narrow-market-postmortem-2026-06-30/) |
 | 삼성전자 2Q26에서 봐야 할 숫자는 reported OP인가 Core OP인가 | 핵심은 reported OP 87~92조원이 아니라 성과급 catch-up 충당금을 되돌린 Core OP다. 마이크론 FY3Q26 서프라이즈는 6월 25일 전닉에 반영됐지만 6월 29일 장중 기준 대부분 지워졌다. 삼성전자는 마이크론 효과를 거의 반영하지 않은 가격으로 돌아왔고, 2Q Core OP 102~107조원과 3Q OP 100조원대 지속성이 다음 판별점이다. | [삼성전자 2Q26 프리뷰](/ko/post/samsung-2q26-preview-micron-surprise-erased-core-op-hbm-2026-06-29/) |
 | HBF와 HBC 상용화는 언제 주가 트리거가 되나 | HBF와 HBC는 아직 매출보다 마일스톤 테마다. 2026년 하반기는 HBF 1세대 샘플과 Qualcomm AI200 출하, 2027년은 HBF 고객 qualification과 AI250/HBC Gen1 샘플, 2028년 이후는 실제 매출 확인 구간이다. HBF 직접 노출은 SanDisk, HBC 본진은 Qualcomm, 한국 확정 부품 노출은 삼성전기다. 파두를 HBF로, 한미반도체를 HBC로 묶는 프레임은 공개 근거가 약하다. | [HBF·HBC 상용화 캘린더](/ko/post/hbf-hbc-commercialization-stock-trigger-catalyst-calendar-2026-06-28/) |
 | NVIDIA 사례로 보면 전닉/HBM 주가는 언제 꺾이나 | 실적 사이클은 아직 꺾이지 않았다. 그러나 NVIDIA 사례처럼 실적이 계속 좋아져도 EPS revision 속도와 기대치 상회 폭이 둔화되면 주가 탄성이 먼저 낮아질 수 있다. 전닉은 2026년 6월 전후 1차 과열권에 들어왔고, 본격 판별 구간은 2026년 4분기부터 2027년 1분기다. | [NVIDIA 변곡점으로 본 전닉](/ko/post/nvidia-earnings-elasticity-hbm-cycle-samsung-hynix-2026-06-28/) |
@@ -76,6 +77,7 @@ lastmod: 2026-06-29T14:45:00+09:00
 
 | 날짜 | 주제 | 자세히 보기 |
 |---|---|---|
+| 2026-06-30 | <strong>2026 상반기 AI 인프라 병목과 좁은 시장</strong> — 한국은 KOSPI 대형주 초쏠림과 코스닥 부진이 동시에 나타났고, 미국은 GPU 이후의 병목이 메모리·스토리지·서버·장비·전력으로 확산됐다. 하반기에는 연속 매출 병목과 옵션형 테마를 분리해야 한다는 결론 | [2026 상반기 복기](/ko/post/h1-2026-ai-infra-bottleneck-korea-narrow-market-postmortem-2026-06-30/) |
 | 2026-06-28 | <strong>HBF·HBC 상용화 캘린더</strong>: HBF는 2026년 하반기 샘플, 2027년 초 inference device 샘플, 2028년 이후 매출 가능성으로 보고, HBC는 AI200 전초전 뒤 AI250/HBC Gen1 2027년 중반 샘플과 2028년 이후 매출로 분리. 실질 레버리지는 HBF=SanDisk 옵션, HBC=Qualcomm 본진+삼성전기 FC-BGA이며, 파두(HBF)·한미반도체(HBC)는 오분류로 정리 | [HBF·HBC 상용화 캘린더](/ko/post/hbf-hbc-commercialization-stock-trigger-catalyst-calendar-2026-06-28/) |
 | 2026-06-22 | <strong>삼성전자 FCF 환원과 DS 성과급 자사주 매수 플로우</strong> — 정규 배당수익률이 아니라 2026E 순이익 300.2조원, FCF 50% 환원 정책, 세후 20조~22조원 규모의 DS 성과급용 자사주 매수 가능성을 분리해 삼성전자 주주환원 논리를 재해석 | [삼성전자는 고배당주가 아니다](/ko/post/samsung-electronics-shareholder-return-ds-bonus-buyback-flow-2026-06-22/) |
 | 2026-06-22 | <strong>삼전닉스 쏠림 이후 코스닥 회복 조건</strong>: 삼성전자·SK하이닉스 급락이 아니라 실적 논리가 살아 있는 횡보가 필요하다는 점을 정리. 6월 24일 Micron, 7월 삼성전자·SK하이닉스 2Q 기대 소화 이후 개인자금 복귀와 코스닥 반도체 테스트·장비·계측 거래대금을 확인해야 한다는 결론 | [삼전닉스 쏠림 이후 코스닥 회복 조건](/ko/post/kosdaq-recovery-samsung-hynix-sideways-semiconductor-sme-2026-06-22/) |

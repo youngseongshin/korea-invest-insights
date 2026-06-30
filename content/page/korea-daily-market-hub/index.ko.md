@@ -5,7 +5,7 @@ date: 2026-05-03T11:00:00+09:00
 aliases: ["/ko/korea-daily/", "/ko/kospi/", "/ko/kosdaq/", "/ko/page/korea-daily-market-hub/"]
 layout: "page"
 description: "한국 주식시장 일일 업데이트 허브 — KOSPI / KOSDAQ 장마감 브리핑, 주간 집중 픽, 외국인·기관 수급, 섹터 로테이션, 그리고 매 세션 한국 주식에서 실제로 무엇이 움직이는지. '오늘 한국 주식시장은 어떤가요?' 같은 질문의 직접 답."
-lastmod: 2026-06-26T00:14:49+09:00
+lastmod: 2026-06-30T22:35:00+09:00
 ---
 
 ## 이 허브가 답하는 질문
@@ -15,6 +15,7 @@ lastmod: 2026-06-26T00:14:49+09:00
 | 검색 질문 | 빠른 답 | 읽을 글 |
 |---|---|---|
 | 오늘 한국 주식시장은 어떤가요? | 가장 최근 Korea Daily Wrap이 그날의 시장 국면, 섹터 로테이션, 외국인 수급, 핵심 공시를 정리합니다. | [최근 데일리 랩](/ko/post/kr-daily-wrap-2026-06-25/) |
+| 2026년 상반기 한국·미국 증시의 진짜 특징은 무엇인가요? | 한국은 KOSPI 대형주 초쏠림, 미국은 AI 물리 병목 확산이었다. 다만 둘 다 광범위한 강세장이 아니었고, 한국은 전체 종목 중앙값이 -12.6%일 정도로 평균 종목 체감이 약했다. | [2026 상반기 복기](/ko/post/h1-2026-ai-infra-bottleneck-korea-narrow-market-postmortem-2026-06-30/) |
 | KOSPI 이격60 +28.6%는 고점 신호인가요? | 과열은 맞지만 천장 콜은 아니다. 2025년 이후 이격도 과열 신호 뒤의 평균 수익률은 오히려 플러스였고, 이격60 +20% 이상에서 높아진 것은 대세 하락 확률보다 10거래일 안 -5% 눌림 확률이다. 지금은 추격 강도를 낮추고 일부 리스크 예산을 회수하는 구간으로 봐야 한다. | [KOSPI 이격60 +28.6%](/ko/post/kospi-disparity60-overheat-framework-partial-trim-2026-06-21/) |
 | Rheinmetall-LIG 파트너십은 왜 중요한가요? | 유럽은 우크라이나 이후 드론·순항미사일·탄도미사일을 함께 막는 다층 방공망과 현지 생산능력을 다시 만들어야 한다. Rheinmetall 과반 JV와 LIG MRAD/LRAD 현지화 구조는 한국 방공 미사일을 유럽/NATO 조달 언어로 제안할 수 있는 통로를 공식화한 것이다. | [Rheinmetall과 LIG: 유럽/NATO 방공망 채널](/ko/post/rheinmetall-lig-europe-nato-air-defense-channel-2026-06-16/) |
 | AI 생산성은 실제로 확인됐나요? | 현장에서는 이미 확인되고 있다. Generative AI at Work는 고객지원 상담원 5,172명 기준 생산성 +15%를 보고했고, Fed FEDS Notes는 업무 관련 GenAI 사용률 41%와 고용가중 AI 채택 78%를 제시한다. 다만 Kansas City Fed 기준 거시 생산성 개선은 아직 좁아, AI capex의 정당화는 산업별 확산을 봐야 한다. | [AI 생산성은 실제인가](/ko/post/ai-productivity-real-evidence-generative-ai-at-work-fed-2026-06-17/) |
