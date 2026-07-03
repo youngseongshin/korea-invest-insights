@@ -5,7 +5,7 @@ date: 2026-06-13T19:35:00+09:00
 aliases: ["/exclusive-analysis/", "/page/exclusive-analysis-hub/"]
 layout: "page"
 description: "A hub for Korea Invest Insights proprietary analysis: internally constructed datasets, full ETF constituent scans, real-money flow frameworks, ETF rebalance proxies, breadth and liquidity screens, and original stock-selection work."
-lastmod: 2026-07-04T10:30:00+09:00
+lastmod: 2026-07-04T05:00:00+09:00
 ---
 
 ## Purpose
@@ -22,6 +22,7 @@ This hub collects Korea Invest Insights posts built from proprietary or internal
 
 | Date | Topic | Key takeaway | Post |
 |---|---|---|---|
+| 2026-07-04 | FADU 2Q26 earnings preview | Combining 1Q financials, 2Q supply contracts, June amendments and local consensus data gives a midpoint of KRW 70.5B revenue and KRW 11.8B operating profit. A consensus beat looks likely, but the contract total should not be pulled fully into 2Q, so this is a moderate beat rather than a mega surprise. | [FADU 2Q26 earnings preview](/post/fadu-2q26-earnings-preview-essd-controller-moderate-beat-2026-07-04/) |
 | 2026-07-04 | VinaTech and Bloom Energy power-buffer chain | VinaTech should not be read as an AI data-center power-generation stock. It sits in the power-quality layer that can buffer transient load, voltage movement and peak current between Bloom SOFC units and AI servers. The KRW 41.2B Bloom contract is 50.12% of FY2025 revenue, but the real thesis needs repeat POs, system margins and customers beyond Bloom. | [VinaTech and Bloom Energy](/post/vinatech-bloom-ai-datacenter-supercapacitor-power-buffer-2026-07-04/) |
 | 2026-06-30 | H1 2026 AI infrastructure bottlenecks and narrow markets | Korea doubled at the KOSPI level while the median stock was still down, and the U.S. rally was less about all mega-cap tech than memory, storage, servers, equipment and power. H2 is about separating recurring-revenue bottlenecks from option-like names exposed to leverage and ETF plumbing. | [H1 2026 Review](/post/h1-2026-ai-infra-bottleneck-korea-narrow-market-postmortem-2026-06-30/) |
 | 2026-06-29 | Samsung 2Q26 Core OP preview | Micron's FY3Q26 surprise was reflected in Samsung and SK Hynix for one session, but by June 29 intraday Samsung was below its pre-event price and SK Hynix was nearly back to zero. The key for Samsung 2Q26 is not reported OP of KRW 87-92tn alone, but Core OP of KRW 102-107tn after adding back catch-up bonus accruals and 3Q OP durability near KRW 100tn. | [Samsung 2Q26 Preview](/post/samsung-2q26-preview-micron-surprise-erased-core-op-hbm-2026-06-29/) |
