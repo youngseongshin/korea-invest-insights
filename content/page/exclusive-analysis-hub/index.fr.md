@@ -4,16 +4,17 @@ slug: "exclusive-analysis-hub"
 date: 2026-06-13T19:35:00+09:00
 aliases: ["/fr/exclusive-analysis/", "/fr/page/exclusive-analysis-hub/"]
 layout: "page"
-description: "Analyses propriétaires de Korea Invest Insights fondées sur les bases Thesis OS, scans ETF, flux real money, liquidité, ADR et force relative."
-lastmod: 2026-06-29T14:45:00+09:00
+description: "Analyses propriétaires de Korea Invest Insights fondées sur des données internes, scans ETF, flux real money, liquidité, ADR et force relative."
+lastmod: 2026-07-04T05:54:00+09:00
 ---
 
 ## Objectif
 
-Ce hub rassemble les analyses construites sur des bases de données propriétaires ou locales : Thesis OS, composants ETF, flux étrangers et institutionnels, real money, ADR, liquidité et force relative.
+Ce hub rassemble les analyses construites sur des bases de données propriétaires ou internes : composants ETF, flux étrangers et institutionnels, real money, ADR, liquidité et force relative.
 
 | Date | Sujet | Lire |
 |---|---|---|
+| 2026-07-04 | SK Gas contre SK Oceanplant dans l’énergie des data centers IA | [SK Gas est plus directe, SK Oceanplant reste une option offshore de deuxième phase](/fr/post/sk-gas-sk-oceanplant-ai-datacenter-power-second-line-2026-07-04/) |
 | 2026-06-29 | Samsung 2T26 : Core OP et surprise de Micron effacée | [Le vrai test est le Core OP](/fr/post/samsung-2q26-preview-micron-surprise-erased-core-op-hbm-2026-06-29/) |
 | 2026-06-13 | Écart aux objectifs de cours et entrées confortables | [KB Financial et Hana ressortent le mieux](/fr/post/korea-target-price-gap-comfortable-entry-candidates-2026-06-13/) |
 | 2026-06-13 | Hyundai E&C et Woojin dans l'expansion nucléaire américaine | [Pouvoir de négociation asymétrique dans le nucléaire américain](/fr/post/hyundai-ec-woojin-us-nuclear-expansion-bargaining-power-2026-06-13/) |

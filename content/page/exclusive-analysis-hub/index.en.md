@@ -5,7 +5,7 @@ date: 2026-06-13T19:35:00+09:00
 aliases: ["/exclusive-analysis/", "/page/exclusive-analysis-hub/"]
 layout: "page"
 description: "A hub for Korea Invest Insights proprietary analysis: internally constructed datasets, full ETF constituent scans, real-money flow frameworks, ETF rebalance proxies, breadth and liquidity screens, and original stock-selection work."
-lastmod: 2026-07-04T05:45:00+09:00
+lastmod: 2026-07-04T05:54:00+09:00
 ---
 
 ## Purpose
@@ -22,6 +22,7 @@ This hub collects Korea Invest Insights posts built from proprietary or internal
 
 | Date | Topic | Key takeaway | Post |
 |---|---|---|---|
+| 2026-07-04 | SK Gas vs SK Oceanplant as second-line AI data-center power candidates | After SK Group's AI data-center investment announcement, the market selected power bottleneck directness rather than the whole group. SK Gas is tied to Ulsan GPS, KET LNG and the Ulsan AI data-center power structure, with 2026F PER 3.9x and PBR 0.52x. SK Oceanplant remains a second-line offshore-wind infrastructure option, but it needs chart repair and earnings confirmation. | [SK Gas vs SK Oceanplant](/post/sk-gas-sk-oceanplant-ai-datacenter-power-second-line-2026-07-04/) |
 | 2026-07-04 | GNC Energy AI data-center backup power | GNC Energy should be read as an AI data-center backup-power EPC candidate, not a generic AI power stock. LG Uplus AIDC cooperation, the KRW 29.748bn Samsung SDS Gumi AI data-center generator contract, data-center backup-generator demand and five-day institutional buying of KRW 7.66bn explain the rally. But after a 45.5% five-day move, foreign selling and a wide upper wick argue for waiting for a pullback. | [GNC Energy rally analysis](/post/gnc-energy-ai-datacenter-backup-generator-sustainable-rally-2026-07-04/) |
 | 2026-07-04 | SK Hynix F-1/A and F-6 | On the latest SEC filings, SKHY is not just an ADR wrapper. It packages HBM, Custom HBM, eSSD, Yongin Fab 1 and Cheongju P&T7 capex for U.S. AI-memory investors. The F-6 confirms 1 ADS = 0.1 common share, and the board-authorized new-share ceiling is 17.79mn shares, 2.50% of existing shares. But ADS count, offer price, net proceeds and effectiveness are still unavailable, so this remains a watchlist event. | [SK Hynix F-1/A and F-6](/post/sk-hynix-f1a-f6-skhy-adr-hbm-capex-2026-07-04/) |
 | 2026-07-04 | FADU 2Q26 earnings preview | Combining 1Q financials, 2Q supply contracts, June amendments and local consensus data gives a midpoint of KRW 70.5B revenue and KRW 11.8B operating profit. A consensus beat looks likely, but the contract total should not be pulled fully into 2Q, so this is a moderate beat rather than a mega surprise. | [FADU 2Q26 earnings preview](/post/fadu-2q26-earnings-preview-essd-controller-moderate-beat-2026-07-04/) |
@@ -76,6 +77,7 @@ This hub collects Korea Invest Insights posts built from proprietary or internal
 ### Relative Valuation And Cycle Frames
 
 - [SK Hynix F-1/A And F-6: What The SKHY ADR Says About HBM Capex](/post/sk-hynix-f1a-f6-skhy-adr-hbm-capex-2026-07-04/)
+- [SK Gas vs SK Oceanplant: Which Second-Line AI Data-Center Power Candidate Is Cleaner?](/post/sk-gas-sk-oceanplant-ai-datacenter-power-second-line-2026-07-04/)
 - [GNC Energy Rally Analysis: AI Data-Center Backup Power Stock Or Short-Term Overheat?](/post/gnc-energy-ai-datacenter-backup-generator-sustainable-rally-2026-07-04/)
 - [H1 2026 Review: AI Infrastructure Bottlenecks Broadened, but the Market Did Not](/post/h1-2026-ai-infra-bottleneck-korea-narrow-market-postmortem-2026-06-30/)
 - [Samsung 2Q26 Preview: Micron’s Surprise Has Been Erased, Core OP Is the Real Test](/post/samsung-2q26-preview-micron-surprise-erased-core-op-hbm-2026-06-29/)

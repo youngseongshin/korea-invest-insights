@@ -4,16 +4,17 @@ slug: "exclusive-analysis-hub"
 date: 2026-06-13T19:35:00+09:00
 aliases: ["/ja/exclusive-analysis/", "/ja/page/exclusive-analysis-hub/"]
 layout: "page"
-description: "Korea Invest Insightsの独自分析ハブ。Thesis OSローカルDB、ETF構成銘柄スキャン、Real Moneyフロー、流動性、ADR、相対強度を扱う。"
-lastmod: 2026-06-29T14:45:00+09:00
+description: "Korea Invest Insightsの独自分析ハブ。内部データ、ETF構成銘柄スキャン、Real Moneyフロー、流動性、ADR、相対強度を扱う。"
+lastmod: 2026-07-04T05:54:00+09:00
 ---
 
 ## 目的
 
-このハブは、Thesis OSのローカルデータ、ETF構成銘柄、外国人・機関投資家フロー、Real Money、ADR、流動性、相対強度を使った独自分析をまとめるページです。
+このハブは、内部データ、ETF構成銘柄、外国人・機関投資家フロー、Real Money、ADR、流動性、相対強度を使った独自分析をまとめるページです。
 
 | 日付 | テーマ | 記事 |
 |---|---|---|
+| 2026-07-04 | AIデータセンター電力候補としてのSKガスとSKオーシャンプラント | [SKガスは直接的、SKオーシャンプラントは洋上風力の第2段階候補](/ja/post/sk-gas-sk-oceanplant-ai-datacenter-power-second-line-2026-07-04/) |
 | 2026-06-29 | サムスン電子2Q26：Micronサプライズ消失とCore OP | [焦点はreported OPではなくCore OP](/ja/post/samsung-2q26-preview-micron-surprise-erased-core-op-hbm-2026-06-29/) |
 | 2026-06-13 | 目標株価ギャップと入りやすい候補 | [KB金融とハナ金融が最も入りやすい](/ja/post/korea-target-price-gap-comfortable-entry-candidates-2026-06-13/) |
 | 2026-06-13 | 現代建設とWoojinの米国原発交渉力 | [米国原発拡大で非対称な交渉力はどこにあるのか](/ja/post/hyundai-ec-woojin-us-nuclear-expansion-bargaining-power-2026-06-13/) |

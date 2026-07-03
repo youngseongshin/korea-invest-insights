@@ -4,16 +4,17 @@ slug: "exclusive-analysis-hub"
 date: 2026-06-13T19:35:00+09:00
 aliases: ["/zh/exclusive-analysis/", "/zh/page/exclusive-analysis-hub/"]
 layout: "page"
-description: "Korea Invest Insights的独家分析中心，涵盖Thesis OS本地数据库、ETF成分扫描、Real Money资金流、流动性、ADR和相对强度。"
-lastmod: 2026-06-29T14:45:00+09:00
+description: "Korea Invest Insights的独家分析中心，涵盖内部数据、ETF成分扫描、Real Money资金流、流动性、ADR和相对强度。"
+lastmod: 2026-07-04T05:54:00+09:00
 ---
 
 ## 目的
 
-本页面汇集基于自建数据的韩国市场分析，包括Thesis OS本地数据库、ETF成分、外资和机构资金流、Real Money、ADR、流动性和相对强度。
+本页面汇集基于自建数据的韩国市场分析，包括ETF成分、外资和机构资金流、Real Money、ADR、流动性和相对强度。
 
 | 日期 | 主题 | 文章 |
 |---|---|---|
+| 2026-07-04 | SK Gas vs SK Oceanplant：AI 数据中心电力二线标的 | [SK Gas 更直接，SK Oceanplant 是海上风电第二阶段候选](/zh/post/sk-gas-sk-oceanplant-ai-datacenter-power-second-line-2026-07-04/) |
 | 2026-06-29 | 三星电子2Q26：美光惊喜被抹去，关键是Core OP | [重点不是reported OP，而是Core OP](/zh/post/samsung-2q26-preview-micron-surprise-erased-core-op-hbm-2026-06-29/) |
 | 2026-06-13 | 目标价缺口与安心配置候选 | [KB金融和韩亚金融更适合安心持有](/zh/post/korea-target-price-gap-comfortable-entry-candidates-2026-06-13/) |
 | 2026-06-13 | 现代建设与Woojin的美国核电影响力 | [美国核电扩张中的非对称议价能力](/zh/post/hyundai-ec-woojin-us-nuclear-expansion-bargaining-power-2026-06-13/) |
