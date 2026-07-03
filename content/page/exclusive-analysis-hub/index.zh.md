@@ -5,7 +5,7 @@ date: 2026-06-13T19:35:00+09:00
 aliases: ["/zh/exclusive-analysis/", "/zh/page/exclusive-analysis-hub/"]
 layout: "page"
 description: "Korea Invest Insights的独家分析中心，涵盖内部数据、ETF成分扫描、Real Money资金流、流动性、ADR和相对强度。"
-lastmod: 2026-07-04T05:54:00+09:00
+lastmod: 2026-07-04T07:18:00+09:00
 ---
 
 ## 目的
@@ -14,6 +14,7 @@ lastmod: 2026-07-04T05:54:00+09:00
 
 | 日期 | 主题 | 文章 |
 |---|---|---|
+| 2026-07-04 | SK海力士ADR、000660与杠杆ETF资金流 | [SKHY扩大美国投资者通道，但首先要观察套利、溢价或折价以及2倍ETF再平衡](/zh/post/sk-hynix-adr-000660-price-path-leverage-etf-plumbing-2026-07-04/) |
 | 2026-07-04 | SK Gas vs SK Oceanplant：AI 数据中心电力二线标的 | [SK Gas 更直接，SK Oceanplant 是海上风电第二阶段候选](/zh/post/sk-gas-sk-oceanplant-ai-datacenter-power-second-line-2026-07-04/) |
 | 2026-06-29 | 三星电子2Q26：美光惊喜被抹去，关键是Core OP | [重点不是reported OP，而是Core OP](/zh/post/samsung-2q26-preview-micron-surprise-erased-core-op-hbm-2026-06-29/) |
 | 2026-06-13 | 目标价缺口与安心配置候选 | [KB金融和韩亚金融更适合安心持有](/zh/post/korea-target-price-gap-comfortable-entry-candidates-2026-06-13/) |

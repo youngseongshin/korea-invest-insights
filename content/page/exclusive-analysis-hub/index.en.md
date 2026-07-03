@@ -5,7 +5,7 @@ date: 2026-06-13T19:35:00+09:00
 aliases: ["/exclusive-analysis/", "/page/exclusive-analysis-hub/"]
 layout: "page"
 description: "A hub for Korea Invest Insights proprietary analysis: internally constructed datasets, full ETF constituent scans, real-money flow frameworks, ETF rebalance proxies, breadth and liquidity screens, and original stock-selection work."
-lastmod: 2026-07-04T05:54:00+09:00
+lastmod: 2026-07-04T07:18:00+09:00
 ---
 
 ## Purpose
@@ -22,6 +22,7 @@ This hub collects Korea Invest Insights posts built from proprietary or internal
 
 | Date | Topic | Key takeaway | Post |
 |---|---|---|---|
+| 2026-07-04 | SK Hynix ADR, common-share price transmission and leveraged ETF plumbing | SKHY can broaden U.S. AI-memory investor access, but in the short run the key is ADR-common-share arbitrage, offer discount, first-week premium or discount and Korea's single-stock 2x ETF close rebalancing. The clean stance is watch the common share and ADR, avoid leveraged wrappers. | [SK Hynix ADR price transmission](/post/sk-hynix-adr-000660-price-path-leverage-etf-plumbing-2026-07-04/) |
 | 2026-07-04 | SK Gas vs SK Oceanplant as second-line AI data-center power candidates | After SK Group's AI data-center investment announcement, the market selected power bottleneck directness rather than the whole group. SK Gas is tied to Ulsan GPS, KET LNG and the Ulsan AI data-center power structure, with 2026F PER 3.9x and PBR 0.52x. SK Oceanplant remains a second-line offshore-wind infrastructure option, but it needs chart repair and earnings confirmation. | [SK Gas vs SK Oceanplant](/post/sk-gas-sk-oceanplant-ai-datacenter-power-second-line-2026-07-04/) |
 | 2026-07-04 | GNC Energy AI data-center backup power | GNC Energy should be read as an AI data-center backup-power EPC candidate, not a generic AI power stock. LG Uplus AIDC cooperation, the KRW 29.748bn Samsung SDS Gumi AI data-center generator contract, data-center backup-generator demand and five-day institutional buying of KRW 7.66bn explain the rally. But after a 45.5% five-day move, foreign selling and a wide upper wick argue for waiting for a pullback. | [GNC Energy rally analysis](/post/gnc-energy-ai-datacenter-backup-generator-sustainable-rally-2026-07-04/) |
 | 2026-07-04 | SK Hynix F-1/A and F-6 | On the latest SEC filings, SKHY is not just an ADR wrapper. It packages HBM, Custom HBM, eSSD, Yongin Fab 1 and Cheongju P&T7 capex for U.S. AI-memory investors. The F-6 confirms 1 ADS = 0.1 common share, and the board-authorized new-share ceiling is 17.79mn shares, 2.50% of existing shares. But ADS count, offer price, net proceeds and effectiveness are still unavailable, so this remains a watchlist event. | [SK Hynix F-1/A and F-6](/post/sk-hynix-f1a-f6-skhy-adr-hbm-capex-2026-07-04/) |

@@ -5,7 +5,7 @@ date: 2026-06-13T19:35:00+09:00
 aliases: ["/es/exclusive-analysis/", "/es/page/exclusive-analysis-hub/"]
 layout: "page"
 description: "Análisis propietario de Korea Invest Insights: datos internos, escaneos completos de ETF, flujos real money, liquidez, ADR y selección de acciones."
-lastmod: 2026-07-04T05:54:00+09:00
+lastmod: 2026-07-04T07:18:00+09:00
 ---
 
 ## Propósito
@@ -14,6 +14,7 @@ Este hub reúne análisis propios de Korea Invest Insights basados en datos cons
 
 | Fecha | Tema | Lectura |
 |---|---|---|
+| 2026-07-04 | ADR de SK Hynix, 000660 y flujos de ETF apalancados | [SKHY amplía el acceso estadounidense, pero primero hay que vigilar arbitraje, prima o descuento y rebalanceo de ETF 2x](/es/post/sk-hynix-adr-000660-price-path-leverage-etf-plumbing-2026-07-04/) |
 | 2026-07-04 | SK Gas vs SK Oceanplant en energía para centros de datos de IA | [SK Gas es más directa; SK Oceanplant es una opción eólica offshore de segunda fase](/es/post/sk-gas-sk-oceanplant-ai-datacenter-power-second-line-2026-07-04/) |
 | 2026-06-29 | Samsung 2T26: Core OP y sorpresa de Micron borrada | [El foco no es el OP reportado, sino el Core OP](/es/post/samsung-2q26-preview-micron-surprise-erased-core-op-hbm-2026-06-29/) |
 | 2026-06-13 | Gap frente a precios objetivo y entradas cómodas | [KB Financial y Hana son los casos más cómodos](/es/post/korea-target-price-gap-comfortable-entry-candidates-2026-06-13/) |

@@ -5,7 +5,7 @@ date: 2026-04-30T23:05:00+09:00
 aliases: ["/ko/hbm/", "/ko/semiconductor/", "/ko/samsung-hynix/", "/ko/kospi-hbm/", "/ko/page/hbm/"]
 layout: "page"
 description: "AI HBM 허브. 삼성전자, SK하이닉스, HBM, AI 메모리, 코스피 지수 쏠림과 한국 반도체 투자 논거를 한곳에 모은 리서치 허브. HBM 시장점유율, 삼성전자 코스피 비중, KOSPI 리레이팅, AI 서버 수요를 순서대로 정리한다."
-lastmod: 2026-07-04T05:20:00+09:00
+lastmod: 2026-07-04T07:18:00+09:00
 ---
 
 ## 한 줄 결론
@@ -18,6 +18,7 @@ lastmod: 2026-07-04T05:20:00+09:00
 
 | 검색 질문 | 현재 답변 | 자세히 보기 |
 |---|---|---|
+| SK하이닉스 ADR은 원주와 국내 레버리지 ETF 수급을 어떻게 바꾸나 | SKHY는 중장기적으로 미국 AI 메모리 투자자 접근성을 넓히지만, 단기에는 변동성 완충보다 ADR-원주 차익거래, 공모가 할인율, 첫 주 프리미엄·디스카운트, 국내 단일종목 2배 ETF 종가 리밸런싱이 중요하다. 원주와 ADR은 관찰, 레버리지 ETF는 회피가 기본 판단이다. | [SK하이닉스 ADR 가격 전이](/ko/post/sk-hynix-adr-000660-price-path-leverage-etf-plumbing-2026-07-04/) |
 | SK하이닉스 SKHY ADR 상장은 HBM 투자에 무엇을 바꾸나 | 2026년 6월 30일 F-1/A와 7월 1일 F-6 기준, SK하이닉스는 Nasdaq `SKHY` ADS 상장을 준비 중이다. F-6는 1 ADS = 보통주 1/10주를 확인했고, 이사회 최대 신주 한도는 17,790,000주, 기존 발행주식 대비 2.50%다. 핵심은 희석보다 미국 AI 메모리 long-only 접근성 확대와 HBM·Custom HBM·eSSD CAPEX 내러티브의 미국 상장 포맷화다. | [SK하이닉스 F-1/A와 F-6](/ko/post/sk-hynix-f1a-f6-skhy-adr-hbm-capex-2026-07-04/) |
 | 2026년 상반기 AI/HBM 장세는 넓은 강세장이었나 | 아니다. 한국은 KOSPI가 +101.1% 올랐지만 코스닥은 -1.0%, 전체 종목 중앙값은 -12.6%였다. 미국도 엔비디아 단독장이 아니라 메모리·스토리지·서버·반도체 장비·전력으로 AI 물리 병목이 이동한 장이었다. | [2026 상반기 복기](/ko/post/h1-2026-ai-infra-bottleneck-korea-narrow-market-postmortem-2026-06-30/) |
 | 삼성전자 2Q26에서 봐야 할 숫자는 reported OP인가 Core OP인가 | 핵심은 reported OP 87~92조원이 아니라 성과급 catch-up 충당금을 되돌린 Core OP다. 마이크론 FY3Q26 서프라이즈는 6월 25일 전닉에 반영됐지만 6월 29일 장중 기준 대부분 지워졌다. 삼성전자는 마이크론 효과를 거의 반영하지 않은 가격으로 돌아왔고, 2Q Core OP 102~107조원과 3Q OP 100조원대 지속성이 다음 판별점이다. | [삼성전자 2Q26 프리뷰](/ko/post/samsung-2q26-preview-micron-surprise-erased-core-op-hbm-2026-06-29/) |
@@ -37,7 +38,7 @@ lastmod: 2026-07-04T05:20:00+09:00
 | 삼성전자 캐치업을 보통주 대신 우선주나 삼성물산으로 살 수 있나 | 우선순위는 삼성전자우가 더 선명하다. 2026년 6월 22일 우선주/보통주 비율은 63.4%, 할인율은 36.6%로 3년 평균 대비 크게 벌어져 있다. 삼성물산은 삼성전자 지분가치와 계열사 배당 환원 옵션이 있지만, 지분가치 상승분 반영률이 66.3%까지 올라와 추격보다 눌림과 수급 확인이 필요하다. | [삼성전자우 괴리율과 삼성물산 NAV 갭](/ko/post/samsung-electronics-catchup-preferred-share-samsung-ct-nav-spread-2026-06-22/) |
 | 창신메모리 IPO는 HBM 가격 붕괴 신호인가 | 아니다. CXMT IPO는 중국 client DDR5·LPDDR·consumer NAND 가격 상단을 낮출 수 있는 구조 변화지만, HBM은 고객 검증·적층 수율·장기계약·패키징이 결합된 별도 가격 체계다. 핵심은 HBM·AI 서버 메모리 믹스가 client DRAM/NAND 리스크를 흡수하는지다. | [창신메모리 IPO와 메모리 가격 리스크](/ko/post/cxmt-ipo-memory-price-risk-hbm-client-dram-2026-06-21/) |
 | 젠슨 황의 HBM 3사 검증 통과 발언은 무엇을 바꾸나 | 삼성전자·SK하이닉스·마이크론이 Vera Rubin용 HBM4 공급망에서 모두 qualified/in production 단계로 해석되는 이벤트다. 삼성전자에는 HBM discount 축소, SK하이닉스에는 독점 프리미엄 희석과 TAM 확대가 동시에 작용한다. | [젠슨 황의 큰 발언과 HBM4 3사 검증 통과](/ko/post/jensen-huang-hbm4-three-vendors-qualified-market-missed-2026-06-05/) |
-| 테마 ETF 리밸런싱은 반도체 소부장에 어떤 의미인가 | 6월 12일 Thesis OS KR Theme ETF Rebalance Flow v1은 ETF 31개 중 유효 30개, 구성종목 291개를 스캔해 후보 69개를 잡았다. 가장 강한 신호는 반도체 TOP10·AI반도체 ETF의 cap 재배분으로, 리노공업·이오테크닉스·솔브레인·DB하이텍·한미반도체는 재배분 매수 후보, SK하이닉스·삼성전기·LS ELECTRIC은 비중 상한 압력 후보로 분류됐다. | [테마 ETF 리밸런싱 수급](/ko/post/kr-theme-etf-rebalance-flow-semicap-cap-trim-2026-06-12/) |
+| 테마 ETF 리밸런싱은 반도체 소부장에 어떤 의미인가 | 6월 12일 KR Theme ETF Rebalance Flow v1은 ETF 31개 중 유효 30개, 구성종목 291개를 스캔해 후보 69개를 잡았다. 가장 강한 신호는 반도체 TOP10·AI반도체 ETF의 cap 재배분으로, 리노공업·이오테크닉스·솔브레인·DB하이텍·한미반도체는 재배분 매수 후보, SK하이닉스·삼성전기·LS ELECTRIC은 비중 상한 압력 후보로 분류됐다. | [테마 ETF 리밸런싱 수급](/ko/post/kr-theme-etf-rebalance-flow-semicap-cap-trim-2026-06-12/) |
 | ETF 수급이 반도체 변동성을 키울 때 어떻게 대응해야 하나 | 반도체 소부장 재배분 후보는 T+1/T+3 확인 후 접근하고, SK하이닉스·삼성전자 같은 core 대장주는 ETF cap 압력보다 외국인 현물 수급과 Big Figure 돌파 후 눌림 패턴을 함께 봐야 한다. KOSPI200 만기 스퀴즈는 별도 이벤트 수급으로 분리해야 한다. | [ETF 수급이 주도하는 한국 시장](/ko/post/korea-etf-flow-led-market-volatility-strategy-2026-06-13/) |
 | 반도체 ETF 노출로 보면 어디가 더 민감한가 | 삼성전자·SK하이닉스가 반도체 상위 50개 시총 proxy의 90.8%를 차지하지만, 시총 대비 ETF 수급 민감도는 리노공업·DB하이텍·이오테크닉스·원익IPS·HPSP·ISC가 더 크다. ETF 미반영 gap은 티씨케이·대덕전자·코리아써키트·두산테스나를 우선 본다. | [반도체 ETF 노출 전략](/ko/post/korea-semiconductor-etf-exposure-marketcap-gap-strategy-2026-06-13/) |
 | 향후 2개월 삼성전자·SK하이닉스를 이길 반도체 2선 후보는 어디인가 | 대형 메모리는 core exposure지만 상대 알파는 ETF 노출이 낮고 수급이 붙기 시작한 2선 장비·기판·AI 스토리지에서 나올 수 있다. 우선 후보는 코리아써키트, HPSP, 테스, 브이엠, 파두다. | [반도체 Top50 2개월 알파 후보](/ko/post/korea-semiconductor-top50-two-month-alpha-candidates-samsung-hynix-2026-06-13/) |
@@ -79,6 +80,7 @@ lastmod: 2026-07-04T05:20:00+09:00
 
 | 날짜 | 주제 | 자세히 보기 |
 |---|---|---|
+| 2026-07-04 | <strong>SK하이닉스 ADR 가격 전이와 레버리지 ETF 배관</strong> — SKHY ADR을 단순 상장 호재가 아니라 000660 원주 가격, ADR-원주 차익거래, 미국장 가격 발견, 국내 단일종목 2배 ETF 리밸런싱이 만나는 수급 배관으로 분석. 결론은 중장기 접근성 확대는 긍정적이나 단기에는 공모가와 첫 주 프리미엄·디스카운트 확인이 먼저 | [SK하이닉스 ADR 가격 전이](/ko/post/sk-hynix-adr-000660-price-path-leverage-etf-plumbing-2026-07-04/) |
 | 2026-07-04 | <strong>SK하이닉스 F-1/A와 F-6</strong>: SKHY ADR 준비를 단순 상장 기술 절차가 아니라 미국 AI 메모리 투자자 접근성 이벤트로 해석. F-6 기준 1 ADS = 보통주 1/10주, 이사회 최대 신주 17,790,000주, 용인 Fab 1·청주 P&T7·EUV CAPEX, HBM·Custom HBM·eSSD 내러티브를 분해 | [SK하이닉스 F-1/A와 F-6](/ko/post/sk-hynix-f1a-f6-skhy-adr-hbm-capex-2026-07-04/) |
 | 2026-07-04 | <strong>파두 2Q26 실적 프리뷰</strong>: 1Q 재무제표, 2Q 단일판매공급계약, 6월 정정공시와 매출 인식 컷오프를 결합해 매출 690억~720억원, 영업이익 110억~125억원을 추정. 컨센서스는 넘겠지만 대형 서프라이즈는 아니라는 결론 | [파두 2Q26 실적 프리뷰](/ko/post/fadu-2q26-earnings-preview-essd-controller-moderate-beat-2026-07-04/) |
 | 2026-06-30 | <strong>2026 상반기 AI 인프라 병목과 좁은 시장</strong> — 한국은 KOSPI 대형주 초쏠림과 코스닥 부진이 동시에 나타났고, 미국은 GPU 이후의 병목이 메모리·스토리지·서버·장비·전력으로 확산됐다. 하반기에는 연속 매출 병목과 옵션형 테마를 분리해야 한다는 결론 | [2026 상반기 복기](/ko/post/h1-2026-ai-infra-bottleneck-korea-narrow-market-postmortem-2026-06-30/) |
@@ -120,7 +122,7 @@ lastmod: 2026-07-04T05:20:00+09:00
 | 2026-05-26 | <strong>AI 서버 수동소자 병목과 HBM 아래 전력무결성</strong> — GPU/HBM이 먹는 순간 전력을 안정화하는 MLCC·실리콘 커패시터·인덕터를 비전공자용으로 설명하고 삼성전기 리레이팅의 기술적 전제를 정리 | [AI 서버 수동소자 병목: 삼성전기 기술 설명](/ko/post/ai-server-passive-components-bottleneck-samsung-electro-mechanics-2026-05-26/) |
 | 2026-05-26 | <strong>KOSPI 외국인 보유비중과 삼성전자·SK하이닉스 지분율의 괴리</strong> — KOSPI 시총가중 외국인 비중은 38.5%대지만, 삼성전자 48.32%, SK하이닉스 51.62%로 연중 최저권이라는 점을 분해하고 매도 진정 조건을 정리 | [KOSPI 외국인 지분율 vs 삼성전자·SK하이닉스](/ko/post/korea-foreign-ownership-kospi-samsung-hynix-divergence-2026-05-26/) |
 | 2026-05-26 | <strong>삼성전기 시총 100조원과 HBM 아래 전력무결성 병목</strong> — 현대차·무라타 비교를 통해 AI GPU·HBM 패키지 내부 실리콘 커패시터와 FC-BGA가 별도 멀티플을 받기 시작했는지 점검 | [삼성전기 100조원과 무라타·현대차 비교](/ko/post/samsung-electro-mechanics-100tn-murata-hyundai-market-cap-2026-05-26/) |
-| 2026-05-24 | <strong>한국 시총 세계 6위와 AI 메모리 집중도</strong> — WFE·CEIC·KRX·Research OS proxy로 한국 4조 달러대 후반 시총 헤드라인을 검증하고, 삼성전자·SK하이닉스 집중도가 KOSPI 리레이팅을 어떻게 설명하는지 정리 | [Why Korea 5편: 한국 시총 세계 6위](/ko/post/why-korea-market-cap-global-six-ai-memory-rerating-2026-05-24/) |
+| 2026-05-24 | <strong>한국 시총 세계 6위와 AI 메모리 집중도</strong> — WFE·CEIC·KRX·시총 proxy로 한국 4조 달러대 후반 시총 헤드라인을 검증하고, 삼성전자·SK하이닉스 집중도가 KOSPI 리레이팅을 어떻게 설명하는지 정리 | [Why Korea 5편: 한국 시총 세계 6위](/ko/post/why-korea-market-cap-global-six-ai-memory-rerating-2026-05-24/) |
 | 2026-05-24 | <strong>외국인 수급으로 본 메모리 대형주 분배</strong> — 전체 외국인 순매도 -89.2조원 중 삼성전자·SK하이닉스가 -84.8조원을 차지한 구조를 분해하고, HBM 대장주 추격보다 보유 관리가 맞는 이유를 정리 | [한국증시 외국인 수급 분석](/ko/post/korea-foreign-investor-flow-memory-megacap-rotation-2026-05-24/) |
 | 2026-05-24 | <strong>엔비디아 이후 AI 반도체 병목</strong> — Dwarkesh/Reiner Pope의 칩 설계 설명을 투자 언어로 번역해, AI 성능 경쟁이 초당 연산량보다 데이터 이동·HBM·FC-BGA·전력 안정화·테스트 병목으로 내려오고 있음을 정리 | [AI 칩 설계와 한국 반도체 하부 병목](/ko/post/ai-chip-design-data-movement-fcbga-bottleneck-2026-05-24/) |
 | 2026-05-23 | <strong>마벨·브로드컴 실적 전 한국 반도체 병목 점검</strong> — Broadcom AI 반도체 107억 달러 가이던스와 Marvell 데이터센터 74% 매출 구조를 기준으로 HBM, 맞춤형 ASIC, 이더넷, 광연결, 삼성전기 실리콘 커패시터까지 수혜 확산 여부 점검 | [마벨·브로드컴 실적 프리뷰와 한국 AI 병목](/ko/post/marvell-broadcom-earnings-korea-ai-bottleneck-preview-2026-05-23/) |
@@ -174,6 +176,7 @@ lastmod: 2026-07-04T05:20:00+09:00
 
 ### HBM과 AI 메모리
 
+- [SK하이닉스 ADR 상장은 원주와 레버리지 ETF 수급을 어떻게 바꾸나](/ko/post/sk-hynix-adr-000660-price-path-leverage-etf-plumbing-2026-07-04/)
 - [SK하이닉스 F-1/A와 F-6: SKHY ADR 상장은 HBM CAPEX를 어떻게 포장하는가](/ko/post/sk-hynix-f1a-f6-skhy-adr-hbm-capex-2026-07-04/)
 - [삼성전자 2Q26 프리뷰: 마이크론 서프라이즈는 지워졌고, 핵심은 Core OP다](/ko/post/samsung-2q26-preview-micron-surprise-erased-core-op-hbm-2026-06-29/)
 - [HBF·HBC 상용화 캘린더: 주가를 움직일 마일스톤과 오분류 정리](/ko/post/hbf-hbc-commercialization-stock-trigger-catalyst-calendar-2026-06-28/)

@@ -5,7 +5,7 @@ date: 2026-06-13T19:35:00+09:00
 aliases: ["/vi/exclusive-analysis/", "/vi/page/exclusive-analysis-hub/"]
 layout: "page"
 description: "Tổng hợp các phân tích độc quyền của Korea Invest Insights dựa trên dữ liệu nội bộ, ETF scan, real-money flow, ADR và thanh khoản."
-lastmod: 2026-07-04T05:54:00+09:00
+lastmod: 2026-07-04T07:18:00+09:00
 ---
 
 ## Mục đích
@@ -14,6 +14,7 @@ Hub này tập hợp các bài phân tích tự xây dựng dữ liệu: thành 
 
 | Ngày | Chủ đề | Bài viết |
 |---|---|---|
+| 2026-07-04 | ADR SK Hynix, cổ phiếu 000660 và ETF đòn bẩy | [SKHY mở rộng kênh vốn Mỹ, nhưng cần theo dõi arbitrage, premium hoặc discount và tái cân bằng ETF 2x](/vi/post/sk-hynix-adr-000660-price-path-leverage-etf-plumbing-2026-07-04/) |
 | 2026-07-04 | SK Gas và SK Oceanplant trong chuỗi điện cho data center AI | [SK Gas trực tiếp hơn, SK Oceanplant là lựa chọn gió ngoài khơi giai đoạn sau](/vi/post/sk-gas-sk-oceanplant-ai-datacenter-power-second-line-2026-07-04/) |
 | 2026-06-29 | Samsung 2Q26: Core OP và bất ngờ Micron bị xóa khỏi giá | [Trọng tâm là Core OP, không chỉ OP báo cáo](/vi/post/samsung-2q26-preview-micron-surprise-erased-core-op-hbm-2026-06-29/) |
 | 2026-06-13 | Khoảng cách tới giá mục tiêu và điểm vào dễ nắm | [KB Financial và Hana là hai mã dễ nắm nhất](/vi/post/korea-target-price-gap-comfortable-entry-candidates-2026-06-13/) |
