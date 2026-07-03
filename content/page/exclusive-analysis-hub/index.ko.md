@@ -5,7 +5,7 @@ date: 2026-06-13T19:35:00+09:00
 aliases: ["/ko/exclusive-analysis/", "/ko/page/exclusive-analysis-hub/"]
 layout: "page"
 description: "Korea Invest Insights의 자체 데이터 분석 허브. 자체 계산 데이터셋, Naver ETF 구성 전수 스캔, Real Money 수급, ETF 리밸런싱, 브레드스와 유동성 프레임워크 등 공개 기사 요약이 아니라 직접 계산한 분석 글을 모은다."
-lastmod: 2026-06-30T22:35:00+09:00
+lastmod: 2026-07-04T10:30:00+09:00
 ---
 
 ## 이 허브의 목적
@@ -26,6 +26,7 @@ lastmod: 2026-06-30T22:35:00+09:00
 
 | 날짜 | 주제 | 핵심 결론 | 글 |
 |---|---|---|---|
+| 2026-07-04 | 비나텍과 Bloom Energy 전력 완충 체인 | 비나텍은 AI 데이터센터 발전주가 아니라 Bloom SOFC와 AI 서버 사이에서 순간 부하, 전압 변동, 피크 전류를 흡수하는 전력 품질 시스템 후보로 봐야 한다. Bloom 412억원 계약은 2025년 매출의 50.12%로 크지만, 핵심은 일회성 계약이 아니라 후속 PO, 시스템 마진, Bloom 외 고객 확보다. | [비나텍과 Bloom Energy](/ko/post/vinatech-bloom-ai-datacenter-supercapacitor-power-buffer-2026-07-04/) |
 | 2026-06-30 | 2026 상반기 AI 인프라 병목과 좁은 시장 | 한국은 KOSPI +101.1%에도 전체 종목 중앙값 -12.6%였고, 미국은 빅테크 전체가 아니라 메모리·스토리지·서버·장비·전력 같은 AI 물리 병목이 더 강했다. 하반기 핵심은 싼 종목이 아니라 연속 매출이 붙는 병목과 레버리지 수급 리스크를 구분하는 것이다. | [2026 상반기 복기](/ko/post/h1-2026-ai-infra-bottleneck-korea-narrow-market-postmortem-2026-06-30/) |
 | 2026-06-29 | 삼성전자 2Q26 Core OP 프리뷰 | 마이크론 FY3Q26 서프라이즈는 6월 25일 전닉에 반영됐지만 6월 29일 장중 기준 삼성전자는 발표 전보다 낮고 하이닉스도 거의 원점이다. 삼성전자 2Q26의 핵심은 reported OP 87~92조원이 아니라 성과급 catch-up 충당금을 되돌린 Core OP 102~107조원과 3Q OP 100조원대 지속성이다. | [삼성전자 2Q26 프리뷰](/ko/post/samsung-2q26-preview-micron-surprise-erased-core-op-hbm-2026-06-29/) |
 | 2026-06-28 | HBF·HBC 상용화 캘린더 | HBF와 HBC는 모두 AI 메모리 병목을 겨냥하지만 아직 매출 테마가 아니라 마일스톤 테마다. 2026년 하반기는 HBF 샘플과 Qualcomm AI200 출하, 2027년은 HBF 고객 qualification과 AI250/HBC Gen1 샘플, 2028년 이후는 실제 매출 확인 구간이다. HBF 직접 노출은 SanDisk, HBC 본진은 Qualcomm, 한국 확정 부품 노출은 삼성전기이며, 파두의 HBF 분류와 한미반도체의 HBC 분류는 공개 근거가 약하다. | [HBF·HBC 상용화 캘린더](/ko/post/hbf-hbc-commercialization-stock-trigger-catalyst-calendar-2026-06-28/) |

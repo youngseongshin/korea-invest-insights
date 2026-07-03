@@ -5,7 +5,7 @@ date: 2026-06-13T19:35:00+09:00
 aliases: ["/exclusive-analysis/", "/page/exclusive-analysis-hub/"]
 layout: "page"
 description: "A hub for Korea Invest Insights proprietary analysis: internally constructed datasets, full ETF constituent scans, real-money flow frameworks, ETF rebalance proxies, breadth and liquidity screens, and original stock-selection work."
-lastmod: 2026-06-30T22:35:00+09:00
+lastmod: 2026-07-04T10:30:00+09:00
 ---
 
 ## Purpose
@@ -22,6 +22,7 @@ This hub collects Korea Invest Insights posts built from proprietary or internal
 
 | Date | Topic | Key takeaway | Post |
 |---|---|---|---|
+| 2026-07-04 | VinaTech and Bloom Energy power-buffer chain | VinaTech should not be read as an AI data-center power-generation stock. It sits in the power-quality layer that can buffer transient load, voltage movement and peak current between Bloom SOFC units and AI servers. The KRW 41.2B Bloom contract is 50.12% of FY2025 revenue, but the real thesis needs repeat POs, system margins and customers beyond Bloom. | [VinaTech and Bloom Energy](/post/vinatech-bloom-ai-datacenter-supercapacitor-power-buffer-2026-07-04/) |
 | 2026-06-30 | H1 2026 AI infrastructure bottlenecks and narrow markets | Korea doubled at the KOSPI level while the median stock was still down, and the U.S. rally was less about all mega-cap tech than memory, storage, servers, equipment and power. H2 is about separating recurring-revenue bottlenecks from option-like names exposed to leverage and ETF plumbing. | [H1 2026 Review](/post/h1-2026-ai-infra-bottleneck-korea-narrow-market-postmortem-2026-06-30/) |
 | 2026-06-29 | Samsung 2Q26 Core OP preview | Micron's FY3Q26 surprise was reflected in Samsung and SK Hynix for one session, but by June 29 intraday Samsung was below its pre-event price and SK Hynix was nearly back to zero. The key for Samsung 2Q26 is not reported OP of KRW 87-92tn alone, but Core OP of KRW 102-107tn after adding back catch-up bonus accruals and 3Q OP durability near KRW 100tn. | [Samsung 2Q26 Preview](/post/samsung-2q26-preview-micron-surprise-erased-core-op-hbm-2026-06-29/) |
 | 2026-06-28 | HBF and HBC commercialization calendar | HBF and HBC are real AI-memory bottleneck themes, but they are milestone trades before they are revenue trades. The 2026 signals are HBF sample delivery and Qualcomm AI200 shipment; 2027 is about HBF customer qualification and AI250/HBC Gen 1; 2028 and beyond is revenue. The clean exposure is SanDisk for HBF, Qualcomm for HBC and Samsung Electro-Mechanics as Korea's confirmed component exposure, while FADU in HBF and Hanmi Semiconductor in HBC are weak classifications. | [HBF And HBC Commercialization Calendar](/post/hbf-hbc-commercialization-stock-trigger-catalyst-calendar-2026-06-28/) |
