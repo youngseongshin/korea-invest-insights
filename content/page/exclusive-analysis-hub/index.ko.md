@@ -5,7 +5,7 @@ date: 2026-06-13T19:35:00+09:00
 aliases: ["/ko/exclusive-analysis/", "/ko/page/exclusive-analysis-hub/"]
 layout: "page"
 description: "Korea Invest Insights의 자체 데이터 분석 허브. 자체 계산 데이터셋, Naver ETF 구성 전수 스캔, Real Money 수급, ETF 리밸런싱, 브레드스와 유동성 프레임워크 등 공개 기사 요약이 아니라 직접 계산한 분석 글을 모은다."
-lastmod: 2026-07-04T05:00:00+09:00
+lastmod: 2026-07-04T05:20:00+09:00
 ---
 
 ## 이 허브의 목적
@@ -26,6 +26,7 @@ lastmod: 2026-07-04T05:00:00+09:00
 
 | 날짜 | 주제 | 핵심 결론 | 글 |
 |---|---|---|---|
+| 2026-07-04 | SK하이닉스 F-1/A와 F-6 | 최신 SEC 제출 기준으로 SKHY ADR은 단순 상장 래퍼가 아니라 HBM·Custom HBM·eSSD·용인 Fab 1·청주 P&T7 CAPEX를 미국 AI 메모리 투자자에게 설명하는 자본시장 이벤트다. F-6 기준 1 ADS = 보통주 1/10주이고, 최대 신주 한도는 17,790,000주, 기존 발행주식 대비 2.50%다. 다만 공모 ADS 수, 가격, 순조달액, 효력 발생일은 아직 공란이라 Watchlist 이벤트로 봐야 한다. | [SK하이닉스 F-1/A와 F-6](/ko/post/sk-hynix-f1a-f6-skhy-adr-hbm-capex-2026-07-04/) |
 | 2026-07-04 | 파두 2Q26 실적 프리뷰 | 1Q 재무제표와 2Q 공급계약, 6월 정정공시, 로컬 컨센서스 DB를 결합하면 파두의 2Q26 중심 추정치는 매출 705억원, 영업이익 118억원이다. 컨센서스 대비 beat 가능성은 높지만, 계약총액 전체를 2Q로 당겨 잡기 어렵기 때문에 대형 서프라이즈가 아니라 moderate beat로 봐야 한다. | [파두 2Q26 실적 프리뷰](/ko/post/fadu-2q26-earnings-preview-essd-controller-moderate-beat-2026-07-04/) |
 | 2026-07-04 | 비나텍과 Bloom Energy 전력 완충 체인 | 비나텍은 AI 데이터센터 발전주가 아니라 Bloom SOFC와 AI 서버 사이에서 순간 부하, 전압 변동, 피크 전류를 흡수하는 전력 품질 시스템 후보로 봐야 한다. Bloom 412억원 계약은 2025년 매출의 50.12%로 크지만, 핵심은 일회성 계약이 아니라 후속 PO, 시스템 마진, Bloom 외 고객 확보다. | [비나텍과 Bloom Energy](/ko/post/vinatech-bloom-ai-datacenter-supercapacitor-power-buffer-2026-07-04/) |
 | 2026-06-30 | 2026 상반기 AI 인프라 병목과 좁은 시장 | 한국은 KOSPI +101.1%에도 전체 종목 중앙값 -12.6%였고, 미국은 빅테크 전체가 아니라 메모리·스토리지·서버·장비·전력 같은 AI 물리 병목이 더 강했다. 하반기 핵심은 싼 종목이 아니라 연속 매출이 붙는 병목과 레버리지 수급 리스크를 구분하는 것이다. | [2026 상반기 복기](/ko/post/h1-2026-ai-infra-bottleneck-korea-narrow-market-postmortem-2026-06-30/) |
@@ -85,6 +86,7 @@ lastmod: 2026-07-04T05:00:00+09:00
 
 ### 상대 밸류에이션과 사이클 프레임
 
+- [SK하이닉스 F-1/A와 F-6: SKHY ADR 상장은 HBM CAPEX를 어떻게 포장하는가](/ko/post/sk-hynix-f1a-f6-skhy-adr-hbm-capex-2026-07-04/)
 - [2026 상반기 복기: AI 인프라 병목은 확산됐지만 시장은 넓어지지 않았다](/ko/post/h1-2026-ai-infra-bottleneck-korea-narrow-market-postmortem-2026-06-30/)
 - [삼성전자 2Q26 프리뷰: 마이크론 서프라이즈는 지워졌고, 핵심은 Core OP다](/ko/post/samsung-2q26-preview-micron-surprise-erased-core-op-hbm-2026-06-29/)
 - [HBF·HBC 상용화 캘린더: 주가를 움직일 마일스톤과 오분류 정리](/ko/post/hbf-hbc-commercialization-stock-trigger-catalyst-calendar-2026-06-28/)

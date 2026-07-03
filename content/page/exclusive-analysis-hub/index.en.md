@@ -5,7 +5,7 @@ date: 2026-06-13T19:35:00+09:00
 aliases: ["/exclusive-analysis/", "/page/exclusive-analysis-hub/"]
 layout: "page"
 description: "A hub for Korea Invest Insights proprietary analysis: internally constructed datasets, full ETF constituent scans, real-money flow frameworks, ETF rebalance proxies, breadth and liquidity screens, and original stock-selection work."
-lastmod: 2026-07-04T05:00:00+09:00
+lastmod: 2026-07-04T05:20:00+09:00
 ---
 
 ## Purpose
@@ -22,6 +22,7 @@ This hub collects Korea Invest Insights posts built from proprietary or internal
 
 | Date | Topic | Key takeaway | Post |
 |---|---|---|---|
+| 2026-07-04 | SK Hynix F-1/A and F-6 | On the latest SEC filings, SKHY is not just an ADR wrapper. It packages HBM, Custom HBM, eSSD, Yongin Fab 1 and Cheongju P&T7 capex for U.S. AI-memory investors. The F-6 confirms 1 ADS = 0.1 common share, and the board-authorized new-share ceiling is 17.79mn shares, 2.50% of existing shares. But ADS count, offer price, net proceeds and effectiveness are still unavailable, so this remains a watchlist event. | [SK Hynix F-1/A and F-6](/post/sk-hynix-f1a-f6-skhy-adr-hbm-capex-2026-07-04/) |
 | 2026-07-04 | FADU 2Q26 earnings preview | Combining 1Q financials, 2Q supply contracts, June amendments and local consensus data gives a midpoint of KRW 70.5B revenue and KRW 11.8B operating profit. A consensus beat looks likely, but the contract total should not be pulled fully into 2Q, so this is a moderate beat rather than a mega surprise. | [FADU 2Q26 earnings preview](/post/fadu-2q26-earnings-preview-essd-controller-moderate-beat-2026-07-04/) |
 | 2026-07-04 | VinaTech and Bloom Energy power-buffer chain | VinaTech should not be read as an AI data-center power-generation stock. It sits in the power-quality layer that can buffer transient load, voltage movement and peak current between Bloom SOFC units and AI servers. The KRW 41.2B Bloom contract is 50.12% of FY2025 revenue, but the real thesis needs repeat POs, system margins and customers beyond Bloom. | [VinaTech and Bloom Energy](/post/vinatech-bloom-ai-datacenter-supercapacitor-power-buffer-2026-07-04/) |
 | 2026-06-30 | H1 2026 AI infrastructure bottlenecks and narrow markets | Korea doubled at the KOSPI level while the median stock was still down, and the U.S. rally was less about all mega-cap tech than memory, storage, servers, equipment and power. H2 is about separating recurring-revenue bottlenecks from option-like names exposed to leverage and ETF plumbing. | [H1 2026 Review](/post/h1-2026-ai-infra-bottleneck-korea-narrow-market-postmortem-2026-06-30/) |
@@ -73,6 +74,7 @@ This hub collects Korea Invest Insights posts built from proprietary or internal
 
 ### Relative Valuation And Cycle Frames
 
+- [SK Hynix F-1/A And F-6: What The SKHY ADR Says About HBM Capex](/post/sk-hynix-f1a-f6-skhy-adr-hbm-capex-2026-07-04/)
 - [H1 2026 Review: AI Infrastructure Bottlenecks Broadened, but the Market Did Not](/post/h1-2026-ai-infra-bottleneck-korea-narrow-market-postmortem-2026-06-30/)
 - [Samsung 2Q26 Preview: Micron’s Surprise Has Been Erased, Core OP Is the Real Test](/post/samsung-2q26-preview-micron-surprise-erased-core-op-hbm-2026-06-29/)
 - [Samsung Electronics Is Not a Dividend Stock: FCF Return and the DS Bonus Buyback Flow](/post/samsung-electronics-shareholder-return-ds-bonus-buyback-flow-2026-06-22/)

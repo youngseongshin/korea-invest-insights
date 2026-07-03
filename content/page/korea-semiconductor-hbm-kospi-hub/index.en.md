@@ -5,7 +5,7 @@ date: 2026-04-30T23:05:00+09:00
 aliases: ["/hbm/", "/semiconductor/", "/samsung-hynix/", "/kospi-hbm/", "/en/hbm/", "/en/semiconductor/", "/en/samsung-hynix/", "/en/kospi-hbm/", "/en/page/korea-semiconductor-hbm-kospi-hub/", "/es/page/korea-semiconductor-hbm-kospi-hub/", "/vi/page/korea-semiconductor-hbm-kospi-hub/", "/fr/page/korea-semiconductor-hbm-kospi-hub/", "/ja/page/korea-semiconductor-hbm-kospi-hub/", "/zh/page/korea-semiconductor-hbm-kospi-hub/"]
 layout: "page"
 description: "AI HBM hub for Samsung Electronics, SK Hynix, HBM, AI memory and KOSPI concentration. Covers HBM market share, Samsung's KOSPI weight, Korean semiconductor exposure and the 2026 KOSPI re-rating thesis."
-lastmod: 2026-07-04T05:00:00+09:00
+lastmod: 2026-07-04T05:20:00+09:00
 ---
 
 ## One-Line Thesis
@@ -18,6 +18,7 @@ Korean semiconductor exposure is not one trade. It combines <strong>SK Hynix's H
 
 | Search Question | Current Answer | Read |
 |---|---|---|
+| What does SK Hynix's SKHY ADR preparation change for HBM investors? | As of the June 30 F-1/A and July 1 F-6, SK Hynix is preparing a Nasdaq ADS listing under `SKHY`. The F-6 confirms 1 ADS = 0.1 common share, while the board-authorized new-share ceiling is 17.79mn shares, 2.50% of existing shares. The key issue is not dilution alone, but U.S. AI-memory long-only access and the packaging of HBM, Custom HBM and eSSD capex into a U.S.-listed format. | [SK Hynix F-1/A and F-6](/post/sk-hynix-f1a-f6-skhy-adr-hbm-capex-2026-07-04/) |
 | Was H1 2026 a broad AI/HBM bull market? | No. Korea's KOSPI rose +101.1%, but KOSDAQ was down -1.0% and the median Korean stock was down -12.6%. In the U.S., the stronger signal was the shift of AI bottlenecks beyond GPUs into memory, storage, servers, equipment and power. | [H1 2026 Review](/post/h1-2026-ai-infra-bottleneck-korea-narrow-market-postmortem-2026-06-30/) |
 | For Samsung 2Q26, should investors focus on reported OP or Core OP? | The key is not reported OP of KRW 87-92tn alone, but Core OP after adding back the catch-up accrual for performance-based compensation. Micron's FY3Q26 surprise was reflected in Korean memory names on June 25, but most of it was erased by June 29 intraday. Samsung is back to a price that barely embeds Micron's read-through; the next test is Core OP of KRW 102-107tn and 3Q OP durability near KRW 100tn. | [Samsung 2Q26 Preview](/post/samsung-2q26-preview-micron-surprise-erased-core-op-hbm-2026-06-29/) |
 | When do HBF and HBC become stock triggers? | They are milestone trades before they are revenue trades. For HBF, watch second-half 2026 samples, early-2027 inference-device samples and 2028-plus revenue. For HBC, AI200 is the 2026 pre-HBC shipment, AI250/HBC Gen 1 is the mid-2027 sample target, and revenue is more likely 2028 or later. The clean exposure is SanDisk for HBF, Qualcomm for HBC, and Samsung Electro-Mechanics as Korea's confirmed component exposure; FADU in HBF and Hanmi in HBC are weak classifications. | [HBF And HBC Commercialization Calendar](/post/hbf-hbc-commercialization-stock-trigger-catalyst-calendar-2026-06-28/) |
@@ -69,6 +70,7 @@ Korean semiconductor exposure is not one trade. It combines <strong>SK Hynix's H
 
 | Date | Topic | Read |
 |---|---|---|
+| 2026-07-04 | <strong>SK Hynix F-1/A and F-6</strong> — reads the SKHY ADR process not as a simple listing wrapper, but as a U.S. AI-memory investor access event. The F-6 confirms 1 ADS = 0.1 common share; the board-authorized new-share ceiling is 17.79mn shares; the filing packages Yongin Fab 1, Cheongju P&T7, EUV capex, HBM, Custom HBM and eSSD into a U.S. prospectus format | [SK Hynix F-1/A and F-6](/post/sk-hynix-f1a-f6-skhy-adr-hbm-capex-2026-07-04/) |
 | 2026-07-04 | <strong>FADU 2Q26 earnings preview</strong> — combines 1Q financials, Q2 supply contracts, June amendments and revenue-recognition cutoffs to estimate Q2 revenue of KRW 69-72bn and operating profit of KRW 11-12.5bn. The conclusion is a clear beat versus consensus, but not a mega-surprise | [FADU 2Q26 earnings preview](/post/fadu-2q26-earnings-preview-essd-controller-moderate-beat-2026-07-04/) |
 | 2026-06-30 | <strong>H1 2026 AI infrastructure bottlenecks and narrow markets</strong> — Korea's index surge came with weak breadth, while U.S. AI leadership moved from GPU-only narratives toward memory, storage, servers, equipment and power. H2 discipline is to separate recurring-revenue bottlenecks from option-like themes | [H1 2026 Review](/post/h1-2026-ai-infra-bottleneck-korea-narrow-market-postmortem-2026-06-30/) |
 | 2026-06-29 | <strong>Samsung 2Q26 Core OP preview</strong> — Micron's FY3Q26 surprise was reflected in Samsung and SK Hynix for one session, then largely erased. The next test is not headline OP but Core OP after adding back bonus accruals and whether 3Q OP can stay near KRW 100tn | [Samsung 2Q26 Preview](/post/samsung-2q26-preview-micron-surprise-erased-core-op-hbm-2026-06-29/) |
