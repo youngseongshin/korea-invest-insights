@@ -5,7 +5,7 @@ date: 2026-06-13T19:35:00+09:00
 aliases: ["/exclusive-analysis/", "/page/exclusive-analysis-hub/"]
 layout: "page"
 description: "A hub for Korea Invest Insights proprietary analysis: internally constructed datasets, full ETF constituent scans, real-money flow frameworks, ETF rebalance proxies, breadth and liquidity screens, and original stock-selection work."
-lastmod: 2026-07-04T13:40:00+09:00
+lastmod: 2026-07-04T14:48:00+09:00
 ---
 
 ## Purpose
@@ -22,6 +22,7 @@ This hub collects Korea Invest Insights posts built from proprietary or internal
 
 | Date | Topic | Key takeaway | Post |
 |---|---|---|---|
+| 2026-07-04 | SK Gas LNG cold energy and AI data-center cooling option | SK Gas has not disclosed a confirmed commercial cold-energy project. The confirmed point is that an SK Gas-linked engineer published the technical logic for using LNG cold energy in AI data-center cooling on SK Group's DevOcean channel. The physics of roughly 0.2 MWh of cold energy per ton of LNG and the Ulsan KET / SK-AWS data-center location are relevant, but target PUE, tariff, capex, payback and SK Gas margin attribution remain undisclosed. | [SK Gas LNG cold energy](/post/sk-gas-lng-cold-energy-ai-datacenter-cooling-option-2026-07-04/) |
 | 2026-07-04 | AI data-center power bottleneck map | Splitting AI data-center power demand into generation and backup power, fuel cells and distributed power, ESS/UPS, power conversion and transformers, cables and bus ducts, and cooling/EPC shows the cleanest direct evidence in GNC Energy, VinaTech and Seojin System. Sanil Electric, Iljin Electric, Gaon Cable and SK Gas remain follow-up diligence candidates, while Hanwha Engine and HD Hyundai Marine Engine still need listed-entity proof. | [AI data-center power bottleneck map](/post/ai-datacenter-power-bottleneck-korea-value-chain-screen-2026-07-04/) |
 | 2026-07-04 | SK Hynix ADR, common-share price transmission and leveraged ETF plumbing | SKHY can broaden U.S. AI-memory investor access, but in the short run the key is ADR-common-share arbitrage, offer discount, first-week premium or discount and Korea's single-stock 2x ETF close rebalancing. The clean stance is watch the common share and ADR, avoid leveraged wrappers. | [SK Hynix ADR price transmission](/post/sk-hynix-adr-000660-price-path-leverage-etf-plumbing-2026-07-04/) |
 | 2026-07-04 | SK Gas vs SK Oceanplant as second-line AI data-center power candidates | After SK Group's AI data-center investment announcement, the market selected power bottleneck directness rather than the whole group. SK Gas is tied to Ulsan GPS, KET LNG and the Ulsan AI data-center power structure, with 2026F PER 3.9x and PBR 0.52x. SK Oceanplant remains a second-line offshore-wind infrastructure option, but it needs chart repair and earnings confirmation. | [SK Gas vs SK Oceanplant](/post/sk-gas-sk-oceanplant-ai-datacenter-power-second-line-2026-07-04/) |
@@ -78,6 +79,7 @@ This hub collects Korea Invest Insights posts built from proprietary or internal
 
 ### Relative Valuation And Cycle Frames
 
+- [SK Gas LNG Cold Energy: How Much Of The AI Data-Center Cooling Option Can Become Earnings?](/post/sk-gas-lng-cold-energy-ai-datacenter-cooling-option-2026-07-04/)
 - [AI Data-Center Power Bottleneck Map: After GNC Energy, VinaTech and Seojin System, Who Is Next?](/post/ai-datacenter-power-bottleneck-korea-value-chain-screen-2026-07-04/)
 - [SK Hynix F-1/A And F-6: What The SKHY ADR Says About HBM Capex](/post/sk-hynix-f1a-f6-skhy-adr-hbm-capex-2026-07-04/)
 - [SK Gas vs SK Oceanplant: Which Second-Line AI Data-Center Power Candidate Is Cleaner?](/post/sk-gas-sk-oceanplant-ai-datacenter-power-second-line-2026-07-04/)
@@ -101,6 +103,7 @@ This hub collects Korea Invest Insights posts built from proprietary or internal
 
 ### Stock Selection Screens
 
+- [SK Gas LNG Cold Energy: How Much Of The AI Data-Center Cooling Option Can Become Earnings?](/post/sk-gas-lng-cold-energy-ai-datacenter-cooling-option-2026-07-04/)
 - [Q2 Earnings: Exporters That Can Still Benefit From KRW Weakness](/post/krw-weakness-2q-earnings-surprise-export-candidates-2026-06-21/)
 - [GNC Energy Rally Analysis: AI Data-Center Backup Power Stock Or Short-Term Overheat?](/post/gnc-energy-ai-datacenter-backup-generator-sustainable-rally-2026-07-04/)
 - [TechWing HBM Cube Prober: from watchlist to conditional-buy candidate](/post/techwing-hbm-cube-prober-big3-conditional-buy-2026-06-21/)
