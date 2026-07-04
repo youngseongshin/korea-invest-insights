@@ -5,7 +5,7 @@ date: 2026-06-13T19:35:00+09:00
 aliases: ["/ja/exclusive-analysis/", "/ja/page/exclusive-analysis-hub/"]
 layout: "page"
 description: "Korea Invest Insightsの独自分析ハブ。内部データ、ETF構成銘柄スキャン、Real Moneyフロー、流動性、ADR、相対強度を扱う。"
-lastmod: 2026-07-04T21:55:00+09:00
+lastmod: 2026-07-04T22:25:00+09:00
 ---
 
 ## 目的
@@ -14,6 +14,7 @@ lastmod: 2026-07-04T21:55:00+09:00
 
 | 日付 | テーマ | 記事 |
 |---|---|---|
+| 2026-07-04 | ドゥコバニとWestinghouse合意 | [受注リスクは下がったが、Westinghouseへの支払い、現地化、固定価格・工程リスク、実際のマージン確認が次の焦点](/ja/post/dukovany-westinghouse-ip-settlement-korea-nuclear-margin-risk-2026-07-04/) |
 | 2026-07-04 | SK SquareとSK Hynixキャッシュフロー転換 | [焦点はHynix利益そのものではなく、FCFが現金配当になりSK SquareのNAVディスカウントを縮小するか](/ja/post/sk-square-hynix-cash-flow-nav-discount-listed-ai-semi-allocator-2026-07-04/) |
 | 2026-07-04 | SKハイニックスADR、000660、レバレッジETF需給 | [SKHYは米国投資家アクセスを広げるが、まず裁定、プレミアム/ディスカウント、2倍ETFリバランスを見る](/ja/post/sk-hynix-adr-000660-price-path-leverage-etf-plumbing-2026-07-04/) |
 | 2026-07-04 | AIデータセンター電力候補としてのSKガスとSKオーシャンプラント | [SKガスは直接的、SKオーシャンプラントは洋上風力の第2段階候補](/ja/post/sk-gas-sk-oceanplant-ai-datacenter-power-second-line-2026-07-04/) |
@@ -40,6 +41,7 @@ lastmod: 2026-07-04T21:55:00+09:00
 
 ## 政策資本とイベントの読み方
 
+- [チェコ・ドゥコバニ原発とWestinghouse合意: 受注リスクは下がったが、マージンリスクは残る](/ja/post/dukovany-westinghouse-ip-settlement-korea-nuclear-margin-risk-2026-07-04/)
 - [現代建設とWoojin：米国原発拡大で非対称な交渉力はどこにあるのか](/ja/post/hyundai-ec-woojin-us-nuclear-expansion-bargaining-power-2026-06-13/)
 - [韓国の3,500億ドル対米投資特別法：原子力Team Koreaの機会](/ja/post/us-investment-special-act-team-korea-nuclear-opportunity-2026-06-13/)
 

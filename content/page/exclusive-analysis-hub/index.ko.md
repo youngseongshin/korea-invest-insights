@@ -5,12 +5,12 @@ date: 2026-06-13T19:35:00+09:00
 aliases: ["/ko/exclusive-analysis/", "/ko/page/exclusive-analysis-hub/"]
 layout: "page"
 description: "Korea Invest Insights의 자체 데이터 분석 허브. 자체 계산 데이터셋, Naver ETF 구성 전수 스캔, Real Money 수급, ETF 리밸런싱, 브레드스와 유동성 프레임워크 등 공개 기사 요약이 아니라 직접 계산한 분석 글을 모은다."
-lastmod: 2026-07-04T21:55:00+09:00
+lastmod: 2026-07-04T22:25:00+09:00
 ---
 
 ## 이 허브의 목적
 
-이 페이지는 Korea Invest Insights의 **단독 분석형 글**을 모으는 허브다. 단순 뉴스 해석이나 리포트 요약이 아니라, 자체 계산 데이터셋, ETF 구성 전수 스캔, 외국인·기관 세부 수급, Real Money 프레임워크, ADR·유동성 계산처럼 직접 만든 데이터셋을 기반으로 한 글을 묶는다.
+이 페이지는 Korea Invest Insights의 <strong>단독 분석형 글</strong>을 모으는 허브다. 단순 뉴스 해석이나 리포트 요약이 아니라, 자체 계산 데이터셋, ETF 구성 전수 스캔, 외국인·기관 세부 수급, Real Money 프레임워크, ADR·유동성 계산처럼 직접 만든 데이터셋을 기반으로 한 글을 묶는다.
 
 핵심 질문은 세 가지다.
 
@@ -26,6 +26,7 @@ lastmod: 2026-07-04T21:55:00+09:00
 
 | 날짜 | 주제 | 핵심 결론 | 글 |
 |---|---|---|---|
+| 2026-07-04 | 체코 두코바니 원전과 Westinghouse 합의 | 두코바니 5·6호기를 막던 Westinghouse IP 리스크는 2025년 1월 글로벌 합의와 2025년 6월 계약 체결로 크게 낮아졌다. 그러나 이것은 한국 원전 수출이 유럽에서 자유로워졌다는 뜻이 아니라, Westinghouse toll, 현지화, 고정가격·공기 보증, 실제 마진을 확인해야 하는 단계로 바뀌었다는 뜻이다. | [두코바니와 Westinghouse 합의](/ko/post/dukovany-westinghouse-ip-settlement-korea-nuclear-margin-risk-2026-07-04/) |
 | 2026-07-04 | SK스퀘어와 하이닉스 현금흐름 | SK스퀘어는 SK그룹 전체 투자비클이 아니라 SK하이닉스 지분가치에 기반한 AI·반도체 전용 상장 자본배분 플랫폼으로 봐야 한다. 핵심은 하이닉스 순이익이 아니라 FCF가 현금배당으로 바뀌고, SK스퀘어가 그 현금을 자사주 소각 또는 하이닉스 시너지 투자로 배분해 NAV 할인율을 줄일 수 있느냐다. | [SK스퀘어 통합 투자 메모](/ko/post/sk-square-hynix-cash-flow-nav-discount-listed-ai-semi-allocator-2026-07-04/) |
 | 2026-07-04 | SK가스 LNG 냉열과 AI 데이터센터 냉각 옵션 | SK가스는 상용 냉열 프로젝트 성과를 공시한 것이 아니라, SK가스 소속 담당자가 DevOcean에서 LNG 냉열을 AI 데이터센터 냉각에 적용하는 기술 논리를 공개했다. LNG 1톤당 약 0.2MWh 냉열이 발생한다는 물리 논리와 울산 KET·SK-AWS AI 데이터센터 입지는 의미 있지만, 목표 PUE, 냉열 단가, CAPEX, 회수기간, SK가스 귀속 마진은 아직 미확인이다. | [SK가스 LNG 냉열](/ko/post/sk-gas-lng-cold-energy-ai-datacenter-cooling-option-2026-07-04/) |
 | 2026-07-04 | AI 데이터센터 전력 병목 지도 | AI 데이터센터 전력 수요를 발전·백업전원, 연료전지·분산전원, ESS·UPS, 전력변환·변압기, 케이블·부스덕트, 냉각·EPC로 분해하면 지엔씨에너지·비나텍·서진시스템이 가장 직접적인 공급 증거를 갖고, 산일전기·일진전기·가온전선·SK가스는 후속 실사 후보로 남는다. 한화엔진·HD현대마린엔진은 아직 상장 법인 기준 직접 증거가 약하다. | [AI 데이터센터 전력 병목 지도](/ko/post/ai-datacenter-power-bottleneck-korea-value-chain-screen-2026-07-04/) |
@@ -88,6 +89,7 @@ lastmod: 2026-07-04T21:55:00+09:00
 
 ### 정책자본과 이벤트 판독
 
+- [체코 두코바니 원전과 웨스팅하우스 합의: 수주 리스크는 줄었지만 마진 리스크는 남았다](/ko/post/dukovany-westinghouse-ip-settlement-korea-nuclear-margin-risk-2026-07-04/)
 - [500조원 대미투자특별법 시행 카운트다운: 원전 팀코리아의 기회는?](/ko/post/us-investment-special-act-team-korea-nuclear-opportunity-2026-06-13/)
 
 ### 상대 밸류에이션과 사이클 프레임
@@ -138,7 +140,7 @@ lastmod: 2026-07-04T21:55:00+09:00
 
 ## 사용법
 
-이 허브의 글은 대부분 투자 결론보다 **확인 순서**를 중시한다. 따라서 글을 읽을 때는 다음 순서가 좋다.
+이 허브의 글은 대부분 투자 결론보다 <strong>확인 순서</strong>를 중시한다. 따라서 글을 읽을 때는 다음 순서가 좋다.
 
 1. 어떤 데이터로 계산했는지 본다.
 2. 가격 상승이 수급으로 설명되는지 본다.

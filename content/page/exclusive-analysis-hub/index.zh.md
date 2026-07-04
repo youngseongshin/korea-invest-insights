@@ -5,7 +5,7 @@ date: 2026-06-13T19:35:00+09:00
 aliases: ["/zh/exclusive-analysis/", "/zh/page/exclusive-analysis-hub/"]
 layout: "page"
 description: "Korea Invest Insights的独家分析中心，涵盖内部数据、ETF成分扫描、Real Money资金流、流动性、ADR和相对强度。"
-lastmod: 2026-07-04T21:55:00+09:00
+lastmod: 2026-07-04T22:25:00+09:00
 ---
 
 ## 目的
@@ -14,6 +14,7 @@ lastmod: 2026-07-04T21:55:00+09:00
 
 | 日期 | 主题 | 文章 |
 |---|---|---|
+| 2026-07-04 | 杜科瓦尼与Westinghouse和解 | [合同风险下降，但下一步要看Westinghouse费用、本地化、固定价格和工期风险以及真实利润率](/zh/post/dukovany-westinghouse-ip-settlement-korea-nuclear-margin-risk-2026-07-04/) |
 | 2026-07-04 | SK Square与SK Hynix现金流转换 | [关键不是Hynix利润本身，而是FCF能否变成现金分红并压缩SK Square的NAV折价](/zh/post/sk-square-hynix-cash-flow-nav-discount-listed-ai-semi-allocator-2026-07-04/) |
 | 2026-07-04 | SK海力士ADR、000660与杠杆ETF资金流 | [SKHY扩大美国投资者通道，但首先要观察套利、溢价或折价以及2倍ETF再平衡](/zh/post/sk-hynix-adr-000660-price-path-leverage-etf-plumbing-2026-07-04/) |
 | 2026-07-04 | SK Gas vs SK Oceanplant：AI 数据中心电力二线标的 | [SK Gas 更直接，SK Oceanplant 是海上风电第二阶段候选](/zh/post/sk-gas-sk-oceanplant-ai-datacenter-power-second-line-2026-07-04/) |
@@ -40,6 +41,7 @@ lastmod: 2026-07-04T21:55:00+09:00
 
 ## 政策资本与事件解读
 
+- [捷克杜科瓦尼核电与西屋和解: 订单风险下降，但利润率风险仍在](/zh/post/dukovany-westinghouse-ip-settlement-korea-nuclear-margin-risk-2026-07-04/)
 - [现代建设与Woojin：美国核电扩张中的非对称议价能力在哪里？](/zh/post/hyundai-ec-woojin-us-nuclear-expansion-bargaining-power-2026-06-13/)
 - [韩国3500亿美元对美投资特别法：Team Korea的核电机会在哪里？](/zh/post/us-investment-special-act-team-korea-nuclear-opportunity-2026-06-13/)
 

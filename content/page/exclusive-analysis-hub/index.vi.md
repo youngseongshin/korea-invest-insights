@@ -5,7 +5,7 @@ date: 2026-06-13T19:35:00+09:00
 aliases: ["/vi/exclusive-analysis/", "/vi/page/exclusive-analysis-hub/"]
 layout: "page"
 description: "Tổng hợp các phân tích độc quyền của Korea Invest Insights dựa trên dữ liệu nội bộ, ETF scan, real-money flow, ADR và thanh khoản."
-lastmod: 2026-07-04T21:55:00+09:00
+lastmod: 2026-07-04T22:25:00+09:00
 ---
 
 ## Mục đích
@@ -14,6 +14,7 @@ Hub này tập hợp các bài phân tích tự xây dựng dữ liệu: thành 
 
 | Ngày | Chủ đề | Bài viết |
 |---|---|---|
+| 2026-07-04 | Dukovany và thỏa thuận Westinghouse | [Rủi ro ký hợp đồng giảm, nhưng cần kiểm tra phí Westinghouse, nội địa hóa, rủi ro giá cố định, tiến độ và biên lợi nhuận thực tế](/vi/post/dukovany-westinghouse-ip-settlement-korea-nuclear-margin-risk-2026-07-04/) |
 | 2026-07-04 | SK Square và chuyển đổi dòng tiền SK Hynix | [Trọng tâm là FCF của Hynix có trở thành cổ tức tiền mặt và giúp thu hẹp chiết khấu NAV của SK Square hay không](/vi/post/sk-square-hynix-cash-flow-nav-discount-listed-ai-semi-allocator-2026-07-04/) |
 | 2026-07-04 | ADR SK Hynix, cổ phiếu 000660 và ETF đòn bẩy | [SKHY mở rộng kênh vốn Mỹ, nhưng cần theo dõi arbitrage, premium hoặc discount và tái cân bằng ETF 2x](/vi/post/sk-hynix-adr-000660-price-path-leverage-etf-plumbing-2026-07-04/) |
 | 2026-07-04 | SK Gas và SK Oceanplant trong chuỗi điện cho data center AI | [SK Gas trực tiếp hơn, SK Oceanplant là lựa chọn gió ngoài khơi giai đoạn sau](/vi/post/sk-gas-sk-oceanplant-ai-datacenter-power-second-line-2026-07-04/) |
@@ -40,6 +41,7 @@ Hub này tập hợp các bài phân tích tự xây dựng dữ liệu: thành 
 
 ## Vốn chính sách và cách đọc sự kiện
 
+- [Dukovany và thỏa thuận Westinghouse: rủi ro ký hợp đồng giảm, rủi ro biên lợi nhuận còn lại](/vi/post/dukovany-westinghouse-ip-settlement-korea-nuclear-margin-risk-2026-07-04/)
 - [Hyundai E&C và Woojin: quyền mặc cả bất đối xứng trong làn sóng hạt nhân Mỹ](/vi/post/hyundai-ec-woojin-us-nuclear-expansion-bargaining-power-2026-06-13/)
 - [Luật đầu tư chiến lược Hàn Quốc vào Mỹ 350 tỷ USD: cơ hội hạt nhân cho Team Korea](/vi/post/us-investment-special-act-team-korea-nuclear-opportunity-2026-06-13/)
 
