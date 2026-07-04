@@ -5,7 +5,7 @@ date: 2026-06-13T19:35:00+09:00
 aliases: ["/exclusive-analysis/", "/page/exclusive-analysis-hub/"]
 layout: "page"
 description: "A hub for Korea Invest Insights proprietary analysis: internally constructed datasets, full ETF constituent scans, real-money flow frameworks, ETF rebalance proxies, breadth and liquidity screens, and original stock-selection work."
-lastmod: 2026-07-04T07:18:00+09:00
+lastmod: 2026-07-04T13:40:00+09:00
 ---
 
 ## Purpose
@@ -22,6 +22,7 @@ This hub collects Korea Invest Insights posts built from proprietary or internal
 
 | Date | Topic | Key takeaway | Post |
 |---|---|---|---|
+| 2026-07-04 | AI data-center power bottleneck map | Splitting AI data-center power demand into generation and backup power, fuel cells and distributed power, ESS/UPS, power conversion and transformers, cables and bus ducts, and cooling/EPC shows the cleanest direct evidence in GNC Energy, VinaTech and Seojin System. Sanil Electric, Iljin Electric, Gaon Cable and SK Gas remain follow-up diligence candidates, while Hanwha Engine and HD Hyundai Marine Engine still need listed-entity proof. | [AI data-center power bottleneck map](/post/ai-datacenter-power-bottleneck-korea-value-chain-screen-2026-07-04/) |
 | 2026-07-04 | SK Hynix ADR, common-share price transmission and leveraged ETF plumbing | SKHY can broaden U.S. AI-memory investor access, but in the short run the key is ADR-common-share arbitrage, offer discount, first-week premium or discount and Korea's single-stock 2x ETF close rebalancing. The clean stance is watch the common share and ADR, avoid leveraged wrappers. | [SK Hynix ADR price transmission](/post/sk-hynix-adr-000660-price-path-leverage-etf-plumbing-2026-07-04/) |
 | 2026-07-04 | SK Gas vs SK Oceanplant as second-line AI data-center power candidates | After SK Group's AI data-center investment announcement, the market selected power bottleneck directness rather than the whole group. SK Gas is tied to Ulsan GPS, KET LNG and the Ulsan AI data-center power structure, with 2026F PER 3.9x and PBR 0.52x. SK Oceanplant remains a second-line offshore-wind infrastructure option, but it needs chart repair and earnings confirmation. | [SK Gas vs SK Oceanplant](/post/sk-gas-sk-oceanplant-ai-datacenter-power-second-line-2026-07-04/) |
 | 2026-07-04 | GNC Energy AI data-center backup power | GNC Energy should be read as an AI data-center backup-power EPC candidate, not a generic AI power stock. LG Uplus AIDC cooperation, the KRW 29.748bn Samsung SDS Gumi AI data-center generator contract, data-center backup-generator demand and five-day institutional buying of KRW 7.66bn explain the rally. But after a 45.5% five-day move, foreign selling and a wide upper wick argue for waiting for a pullback. | [GNC Energy rally analysis](/post/gnc-energy-ai-datacenter-backup-generator-sustainable-rally-2026-07-04/) |
@@ -77,6 +78,7 @@ This hub collects Korea Invest Insights posts built from proprietary or internal
 
 ### Relative Valuation And Cycle Frames
 
+- [AI Data-Center Power Bottleneck Map: After GNC Energy, VinaTech and Seojin System, Who Is Next?](/post/ai-datacenter-power-bottleneck-korea-value-chain-screen-2026-07-04/)
 - [SK Hynix F-1/A And F-6: What The SKHY ADR Says About HBM Capex](/post/sk-hynix-f1a-f6-skhy-adr-hbm-capex-2026-07-04/)
 - [SK Gas vs SK Oceanplant: Which Second-Line AI Data-Center Power Candidate Is Cleaner?](/post/sk-gas-sk-oceanplant-ai-datacenter-power-second-line-2026-07-04/)
 - [GNC Energy Rally Analysis: AI Data-Center Backup Power Stock Or Short-Term Overheat?](/post/gnc-energy-ai-datacenter-backup-generator-sustainable-rally-2026-07-04/)

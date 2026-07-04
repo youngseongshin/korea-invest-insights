@@ -5,7 +5,7 @@ date: 2026-06-13T19:35:00+09:00
 aliases: ["/ko/exclusive-analysis/", "/ko/page/exclusive-analysis-hub/"]
 layout: "page"
 description: "Korea Invest Insights의 자체 데이터 분석 허브. 자체 계산 데이터셋, Naver ETF 구성 전수 스캔, Real Money 수급, ETF 리밸런싱, 브레드스와 유동성 프레임워크 등 공개 기사 요약이 아니라 직접 계산한 분석 글을 모은다."
-lastmod: 2026-07-04T07:18:00+09:00
+lastmod: 2026-07-04T13:40:00+09:00
 ---
 
 ## 이 허브의 목적
@@ -26,6 +26,7 @@ lastmod: 2026-07-04T07:18:00+09:00
 
 | 날짜 | 주제 | 핵심 결론 | 글 |
 |---|---|---|---|
+| 2026-07-04 | AI 데이터센터 전력 병목 지도 | AI 데이터센터 전력 수요를 발전·백업전원, 연료전지·분산전원, ESS·UPS, 전력변환·변압기, 케이블·부스덕트, 냉각·EPC로 분해하면 지엔씨에너지·비나텍·서진시스템이 가장 직접적인 공급 증거를 갖고, 산일전기·일진전기·가온전선·SK가스는 후속 실사 후보로 남는다. 한화엔진·HD현대마린엔진은 아직 상장 법인 기준 직접 증거가 약하다. | [AI 데이터센터 전력 병목 지도](/ko/post/ai-datacenter-power-bottleneck-korea-value-chain-screen-2026-07-04/) |
 | 2026-07-04 | SK하이닉스 ADR과 원주·레버리지 ETF 배관 | SKHY ADR은 중장기적으로 미국 AI 메모리 투자자 접근성을 넓히지만, 단기에는 변동성 완충보다 ADR-원주 차익거래, 공모가 할인율, 첫 1~2주 프리미엄·디스카운트, 국내 단일종목 2배 ETF 종가 리밸런싱을 봐야 한다. 결론은 원주와 ADR은 관찰, 레버리지 ETF는 회피다. | [SK하이닉스 ADR 가격 전이](/ko/post/sk-hynix-adr-000660-price-path-leverage-etf-plumbing-2026-07-04/) |
 | 2026-07-04 | SK가스 vs SK오션플랜트 AI 데이터센터 전력 2선 후보 | SK그룹 AI 데이터센터 투자 발표 이후 시장은 그룹 전체보다 전력 병목 직접성을 골랐다. SK가스는 울산GPS 1.2GW, KET LNG터미널, 울산 AI 데이터센터 전력 구조와 직접 연결되고 2026F PER 3.9배, PBR 0.52배로 낮다. SK오션플랜트는 해상풍력 하부구조물 2선 후보지만 직접성은 낮고 차트 회복 확인이 필요하다. | [SK가스 vs SK오션플랜트](/ko/post/sk-gas-sk-oceanplant-ai-datacenter-power-second-line-2026-07-04/) |
 | 2026-07-04 | 지엔씨에너지 AI 데이터센터 비상전력 | 지엔씨에너지는 AI 데이터센터 발전주가 아니라 비상전력 EPC 실적주 후보로 봐야 한다. LG유플러스 AIDC 협력, 삼성SDS 297억원 구미 AI 데이터센터 발전기 계약, 데이터센터 비상발전기 수주 사이클, 기관 5D +76.6억원이 급등을 설명한다. 다만 5D +45.5% 뒤 외국인 매도와 윗꼬리가 있어 추격보다 25,400~26,000원 또는 23,400~22,700원 눌림 확인이 맞다. | [지엔씨에너지 급등 분석](/ko/post/gnc-energy-ai-datacenter-backup-generator-sustainable-rally-2026-07-04/) |
@@ -89,6 +90,7 @@ lastmod: 2026-07-04T07:18:00+09:00
 
 ### 상대 밸류에이션과 사이클 프레임
 
+- [AI 데이터센터 전력 병목 지도: 지엔씨에너지·비나텍·서진시스템 다음은 어디인가](/ko/post/ai-datacenter-power-bottleneck-korea-value-chain-screen-2026-07-04/)
 - [SK하이닉스 F-1/A와 F-6: SKHY ADR 상장은 HBM CAPEX를 어떻게 포장하는가](/ko/post/sk-hynix-f1a-f6-skhy-adr-hbm-capex-2026-07-04/)
 - [SK가스 vs SK오션플랜트: AI 데이터센터 전력 2선 후보는 어디인가](/ko/post/sk-gas-sk-oceanplant-ai-datacenter-power-second-line-2026-07-04/)
 - [지엔씨에너지 급등 분석: AI 데이터센터 비상전력 실적주인가, 단기 과열인가](/ko/post/gnc-energy-ai-datacenter-backup-generator-sustainable-rally-2026-07-04/)
@@ -118,6 +120,7 @@ lastmod: 2026-07-04T07:18:00+09:00
 
 ### 상대수익률 후보 발굴
 
+- [AI 데이터센터 전력 병목 지도: 지엔씨에너지·비나텍·서진시스템 다음은 어디인가](/ko/post/ai-datacenter-power-bottleneck-korea-value-chain-screen-2026-07-04/)
 - [2Q 어닝 시즌: 원화 약세가 만드는 서프라이즈 후보](/ko/post/krw-weakness-2q-earnings-surprise-export-candidates-2026-06-21/)
 - [SK가스 vs SK오션플랜트: AI 데이터센터 전력 2선 후보는 어디인가](/ko/post/sk-gas-sk-oceanplant-ai-datacenter-power-second-line-2026-07-04/)
 - [지엔씨에너지 급등 분석: AI 데이터센터 비상전력 실적주인가, 단기 과열인가](/ko/post/gnc-energy-ai-datacenter-backup-generator-sustainable-rally-2026-07-04/)
