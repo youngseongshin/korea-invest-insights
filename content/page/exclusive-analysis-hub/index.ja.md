@@ -5,7 +5,7 @@ date: 2026-06-13T19:35:00+09:00
 aliases: ["/ja/exclusive-analysis/", "/ja/page/exclusive-analysis-hub/"]
 layout: "page"
 description: "Korea Invest Insightsの独自分析ハブ。内部データ、ETF構成銘柄スキャン、Real Moneyフロー、流動性、ADR、相対強度を扱う。"
-lastmod: 2026-07-04T07:18:00+09:00
+lastmod: 2026-07-04T21:55:00+09:00
 ---
 
 ## 目的
@@ -14,6 +14,7 @@ lastmod: 2026-07-04T07:18:00+09:00
 
 | 日付 | テーマ | 記事 |
 |---|---|---|
+| 2026-07-04 | SK SquareとSK Hynixキャッシュフロー転換 | [焦点はHynix利益そのものではなく、FCFが現金配当になりSK SquareのNAVディスカウントを縮小するか](/ja/post/sk-square-hynix-cash-flow-nav-discount-listed-ai-semi-allocator-2026-07-04/) |
 | 2026-07-04 | SKハイニックスADR、000660、レバレッジETF需給 | [SKHYは米国投資家アクセスを広げるが、まず裁定、プレミアム/ディスカウント、2倍ETFリバランスを見る](/ja/post/sk-hynix-adr-000660-price-path-leverage-etf-plumbing-2026-07-04/) |
 | 2026-07-04 | AIデータセンター電力候補としてのSKガスとSKオーシャンプラント | [SKガスは直接的、SKオーシャンプラントは洋上風力の第2段階候補](/ja/post/sk-gas-sk-oceanplant-ai-datacenter-power-second-line-2026-07-04/) |
 | 2026-06-29 | サムスン電子2Q26：Micronサプライズ消失とCore OP | [焦点はreported OPではなくCore OP](/ja/post/samsung-2q26-preview-micron-surprise-erased-core-op-hbm-2026-06-29/) |
@@ -30,6 +31,7 @@ lastmod: 2026-07-04T07:18:00+09:00
 
 ## 相対バリュエーションとサイクルの見方
 
+- [SK Square投資メモ: SK HynixのキャッシュフローはいつSK Squareの現金になるのか](/ja/post/sk-square-hynix-cash-flow-nav-discount-listed-ai-semi-allocator-2026-07-04/)
 - [サムスン電子2Q26プレビュー: Micronサプライズは消え、焦点はCore OPへ](/ja/post/samsung-2q26-preview-micron-surprise-erased-core-op-hbm-2026-06-29/)
 - [Samsung-Hynix-Micron forward P/Eパリティ](/ja/post/samsung-hynix-micron-forward-per-parity-memory-catch-up-2026-06-03/)
 - [Sam-Ha-Maパリティ続編](/post/sam-hama-parity-follow-up-ai-chip-memory-pe-map-2026-06-05/)

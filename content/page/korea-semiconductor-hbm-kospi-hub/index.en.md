@@ -5,7 +5,7 @@ date: 2026-04-30T23:05:00+09:00
 aliases: ["/hbm/", "/semiconductor/", "/samsung-hynix/", "/kospi-hbm/", "/en/hbm/", "/en/semiconductor/", "/en/samsung-hynix/", "/en/kospi-hbm/", "/en/page/korea-semiconductor-hbm-kospi-hub/", "/es/page/korea-semiconductor-hbm-kospi-hub/", "/vi/page/korea-semiconductor-hbm-kospi-hub/", "/fr/page/korea-semiconductor-hbm-kospi-hub/", "/ja/page/korea-semiconductor-hbm-kospi-hub/", "/zh/page/korea-semiconductor-hbm-kospi-hub/"]
 layout: "page"
 description: "AI HBM hub for Samsung Electronics, SK Hynix, HBM, AI memory and KOSPI concentration. Covers HBM market share, Samsung's KOSPI weight, Korean semiconductor exposure and the 2026 KOSPI re-rating thesis."
-lastmod: 2026-07-04T07:18:00+09:00
+lastmod: 2026-07-04T21:55:00+09:00
 ---
 
 ## One-Line Thesis
@@ -18,6 +18,7 @@ Korean semiconductor exposure is not one trade. It combines <strong>SK Hynix's H
 
 | Search Question | Current Answer | Read |
 |---|---|---|
+| Is SK Square an alternative way to own the SK Hynix HBM cycle? | Partly, but the core is not simple Hynix share-price beta. The key is whether SK Hynix FCF becomes cash dividends and whether SK Square allocates that cash to buyback cancellation or Hynix-linked AI/semi investments. SK Square is better read as a listed AI and semiconductor capital allocator built on SK Hynix equity value, not as the investment vehicle for the whole SK Group. | [SK Square investment memo](/post/sk-square-hynix-cash-flow-nav-discount-listed-ai-semi-allocator-2026-07-04/) |
 | How can SK Hynix's ADR change the common share and leveraged ETF flows? | SKHY can broaden U.S. AI-memory investor access, but in the short run the key is not volatility dampening. Watch ADR-common-share arbitrage, offer discount, first-week premium or discount and Korea's single-stock 2x ETF close rebalancing. The clean stance is watch the common share and ADR, avoid leveraged wrappers. | [SK Hynix ADR price transmission](/post/sk-hynix-adr-000660-price-path-leverage-etf-plumbing-2026-07-04/) |
 | What does SK Hynix's SKHY ADR preparation change for HBM investors? | As of the June 30 F-1/A and July 1 F-6, SK Hynix is preparing a Nasdaq ADS listing under `SKHY`. The F-6 confirms 1 ADS = 0.1 common share, while the board-authorized new-share ceiling is 17.79mn shares, 2.50% of existing shares. The key issue is not dilution alone, but U.S. AI-memory long-only access and the packaging of HBM, Custom HBM and eSSD capex into a U.S.-listed format. | [SK Hynix F-1/A and F-6](/post/sk-hynix-f1a-f6-skhy-adr-hbm-capex-2026-07-04/) |
 | Was H1 2026 a broad AI/HBM bull market? | No. Korea's KOSPI rose +101.1%, but KOSDAQ was down -1.0% and the median Korean stock was down -12.6%. In the U.S., the stronger signal was the shift of AI bottlenecks beyond GPUs into memory, storage, servers, equipment and power. | [H1 2026 Review](/post/h1-2026-ai-infra-bottleneck-korea-narrow-market-postmortem-2026-06-30/) |
@@ -157,6 +158,7 @@ Korean semiconductor exposure is not one trade. It combines <strong>SK Hynix's H
 
 ### HBM and AI Memory
 
+- [SK Square Investment Memo: When Does SK Hynix Cash Flow Become SK Square Cash?](/post/sk-square-hynix-cash-flow-nav-discount-listed-ai-semi-allocator-2026-07-04/)
 - [Samsung Electronics Is Not a Dividend Stock: FCF Return and the DS Bonus Buyback Flow](/post/samsung-electronics-shareholder-return-ds-bonus-buyback-flow-2026-06-22/)
 - [The Market Missed Jensen Huang's Bigger HBM4 Comment: All Three Vendors Are Qualified](/post/jensen-huang-hbm4-three-vendors-qualified-market-missed-2026-06-05/)
 - [Korea theme ETF rebalance flow: semicap redistribution buy pressure and mega-cap trim pressure](/post/kr-theme-etf-rebalance-flow-semicap-cap-trim-2026-06-12/)

@@ -5,7 +5,7 @@ date: 2026-06-13T19:35:00+09:00
 aliases: ["/ko/exclusive-analysis/", "/ko/page/exclusive-analysis-hub/"]
 layout: "page"
 description: "Korea Invest Insights의 자체 데이터 분석 허브. 자체 계산 데이터셋, Naver ETF 구성 전수 스캔, Real Money 수급, ETF 리밸런싱, 브레드스와 유동성 프레임워크 등 공개 기사 요약이 아니라 직접 계산한 분석 글을 모은다."
-lastmod: 2026-07-04T14:48:00+09:00
+lastmod: 2026-07-04T21:55:00+09:00
 ---
 
 ## 이 허브의 목적
@@ -26,6 +26,7 @@ lastmod: 2026-07-04T14:48:00+09:00
 
 | 날짜 | 주제 | 핵심 결론 | 글 |
 |---|---|---|---|
+| 2026-07-04 | SK스퀘어와 하이닉스 현금흐름 | SK스퀘어는 SK그룹 전체 투자비클이 아니라 SK하이닉스 지분가치에 기반한 AI·반도체 전용 상장 자본배분 플랫폼으로 봐야 한다. 핵심은 하이닉스 순이익이 아니라 FCF가 현금배당으로 바뀌고, SK스퀘어가 그 현금을 자사주 소각 또는 하이닉스 시너지 투자로 배분해 NAV 할인율을 줄일 수 있느냐다. | [SK스퀘어 통합 투자 메모](/ko/post/sk-square-hynix-cash-flow-nav-discount-listed-ai-semi-allocator-2026-07-04/) |
 | 2026-07-04 | SK가스 LNG 냉열과 AI 데이터센터 냉각 옵션 | SK가스는 상용 냉열 프로젝트 성과를 공시한 것이 아니라, SK가스 소속 담당자가 DevOcean에서 LNG 냉열을 AI 데이터센터 냉각에 적용하는 기술 논리를 공개했다. LNG 1톤당 약 0.2MWh 냉열이 발생한다는 물리 논리와 울산 KET·SK-AWS AI 데이터센터 입지는 의미 있지만, 목표 PUE, 냉열 단가, CAPEX, 회수기간, SK가스 귀속 마진은 아직 미확인이다. | [SK가스 LNG 냉열](/ko/post/sk-gas-lng-cold-energy-ai-datacenter-cooling-option-2026-07-04/) |
 | 2026-07-04 | AI 데이터센터 전력 병목 지도 | AI 데이터센터 전력 수요를 발전·백업전원, 연료전지·분산전원, ESS·UPS, 전력변환·변압기, 케이블·부스덕트, 냉각·EPC로 분해하면 지엔씨에너지·비나텍·서진시스템이 가장 직접적인 공급 증거를 갖고, 산일전기·일진전기·가온전선·SK가스는 후속 실사 후보로 남는다. 한화엔진·HD현대마린엔진은 아직 상장 법인 기준 직접 증거가 약하다. | [AI 데이터센터 전력 병목 지도](/ko/post/ai-datacenter-power-bottleneck-korea-value-chain-screen-2026-07-04/) |
 | 2026-07-04 | SK하이닉스 ADR과 원주·레버리지 ETF 배관 | SKHY ADR은 중장기적으로 미국 AI 메모리 투자자 접근성을 넓히지만, 단기에는 변동성 완충보다 ADR-원주 차익거래, 공모가 할인율, 첫 1~2주 프리미엄·디스카운트, 국내 단일종목 2배 ETF 종가 리밸런싱을 봐야 한다. 결론은 원주와 ADR은 관찰, 레버리지 ETF는 회피다. | [SK하이닉스 ADR 가격 전이](/ko/post/sk-hynix-adr-000660-price-path-leverage-etf-plumbing-2026-07-04/) |
@@ -91,6 +92,7 @@ lastmod: 2026-07-04T14:48:00+09:00
 
 ### 상대 밸류에이션과 사이클 프레임
 
+- [SK스퀘어 통합 투자 메모: 하이닉스 현금흐름은 언제 SK스퀘어 현금이 되는가](/ko/post/sk-square-hynix-cash-flow-nav-discount-listed-ai-semi-allocator-2026-07-04/)
 - [SK가스 LNG 냉열: AI 데이터센터 냉각 옵션은 어디까지 실적이 될까](/ko/post/sk-gas-lng-cold-energy-ai-datacenter-cooling-option-2026-07-04/)
 - [AI 데이터센터 전력 병목 지도: 지엔씨에너지·비나텍·서진시스템 다음은 어디인가](/ko/post/ai-datacenter-power-bottleneck-korea-value-chain-screen-2026-07-04/)
 - [SK하이닉스 F-1/A와 F-6: SKHY ADR 상장은 HBM CAPEX를 어떻게 포장하는가](/ko/post/sk-hynix-f1a-f6-skhy-adr-hbm-capex-2026-07-04/)

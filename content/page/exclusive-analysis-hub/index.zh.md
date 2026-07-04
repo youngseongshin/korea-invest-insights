@@ -5,7 +5,7 @@ date: 2026-06-13T19:35:00+09:00
 aliases: ["/zh/exclusive-analysis/", "/zh/page/exclusive-analysis-hub/"]
 layout: "page"
 description: "Korea Invest Insights的独家分析中心，涵盖内部数据、ETF成分扫描、Real Money资金流、流动性、ADR和相对强度。"
-lastmod: 2026-07-04T07:18:00+09:00
+lastmod: 2026-07-04T21:55:00+09:00
 ---
 
 ## 目的
@@ -14,6 +14,7 @@ lastmod: 2026-07-04T07:18:00+09:00
 
 | 日期 | 主题 | 文章 |
 |---|---|---|
+| 2026-07-04 | SK Square与SK Hynix现金流转换 | [关键不是Hynix利润本身，而是FCF能否变成现金分红并压缩SK Square的NAV折价](/zh/post/sk-square-hynix-cash-flow-nav-discount-listed-ai-semi-allocator-2026-07-04/) |
 | 2026-07-04 | SK海力士ADR、000660与杠杆ETF资金流 | [SKHY扩大美国投资者通道，但首先要观察套利、溢价或折价以及2倍ETF再平衡](/zh/post/sk-hynix-adr-000660-price-path-leverage-etf-plumbing-2026-07-04/) |
 | 2026-07-04 | SK Gas vs SK Oceanplant：AI 数据中心电力二线标的 | [SK Gas 更直接，SK Oceanplant 是海上风电第二阶段候选](/zh/post/sk-gas-sk-oceanplant-ai-datacenter-power-second-line-2026-07-04/) |
 | 2026-06-29 | 三星电子2Q26：美光惊喜被抹去，关键是Core OP | [重点不是reported OP，而是Core OP](/zh/post/samsung-2q26-preview-micron-surprise-erased-core-op-hbm-2026-06-29/) |
@@ -30,6 +31,7 @@ lastmod: 2026-07-04T07:18:00+09:00
 
 ## 相对估值与周期框架
 
+- [SK Square投资备忘录：SK Hynix的现金流何时会变成SK Square的现金？](/zh/post/sk-square-hynix-cash-flow-nav-discount-listed-ai-semi-allocator-2026-07-04/)
 - [三星电子2Q26预览：美光惊喜已被价格抹去，关键是Core OP](/zh/post/samsung-2q26-preview-micron-surprise-erased-core-op-hbm-2026-06-29/)
 - [Samsung-Hynix-Micron forward P/E平价](/zh/post/samsung-hynix-micron-forward-per-parity-memory-catch-up-2026-06-03/)
 - [Sam-Ha-Ma平价后续](/post/sam-hama-parity-follow-up-ai-chip-memory-pe-map-2026-06-05/)

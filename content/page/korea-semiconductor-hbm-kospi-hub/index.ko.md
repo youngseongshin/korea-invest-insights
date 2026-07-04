@@ -5,7 +5,7 @@ date: 2026-04-30T23:05:00+09:00
 aliases: ["/ko/hbm/", "/ko/semiconductor/", "/ko/samsung-hynix/", "/ko/kospi-hbm/", "/ko/page/hbm/"]
 layout: "page"
 description: "AI HBM 허브. 삼성전자, SK하이닉스, HBM, AI 메모리, 코스피 지수 쏠림과 한국 반도체 투자 논거를 한곳에 모은 리서치 허브. HBM 시장점유율, 삼성전자 코스피 비중, KOSPI 리레이팅, AI 서버 수요를 순서대로 정리한다."
-lastmod: 2026-07-04T07:18:00+09:00
+lastmod: 2026-07-04T21:55:00+09:00
 ---
 
 ## 한 줄 결론
@@ -18,6 +18,7 @@ lastmod: 2026-07-04T07:18:00+09:00
 
 | 검색 질문 | 현재 답변 | 자세히 보기 |
 |---|---|---|
+| SK스퀘어는 SK하이닉스 HBM 사이클을 사는 대체 수단인가 | 부분적으로 그렇지만, 핵심은 하이닉스 주가 베타가 아니라 하이닉스 FCF가 현금배당으로 바뀌고 SK스퀘어가 이를 자사주 소각 또는 HBM·AI 반도체 시너지 투자로 배분할 수 있느냐다. SK스퀘어는 SK그룹 전체 투자비클이 아니라 SK하이닉스 지분가치에 기반한 AI·반도체 상장 자본배분 플랫폼으로 봐야 한다. | [SK스퀘어 통합 투자 메모](/ko/post/sk-square-hynix-cash-flow-nav-discount-listed-ai-semi-allocator-2026-07-04/) |
 | SK하이닉스 ADR은 원주와 국내 레버리지 ETF 수급을 어떻게 바꾸나 | SKHY는 중장기적으로 미국 AI 메모리 투자자 접근성을 넓히지만, 단기에는 변동성 완충보다 ADR-원주 차익거래, 공모가 할인율, 첫 주 프리미엄·디스카운트, 국내 단일종목 2배 ETF 종가 리밸런싱이 중요하다. 원주와 ADR은 관찰, 레버리지 ETF는 회피가 기본 판단이다. | [SK하이닉스 ADR 가격 전이](/ko/post/sk-hynix-adr-000660-price-path-leverage-etf-plumbing-2026-07-04/) |
 | SK하이닉스 SKHY ADR 상장은 HBM 투자에 무엇을 바꾸나 | 2026년 6월 30일 F-1/A와 7월 1일 F-6 기준, SK하이닉스는 Nasdaq `SKHY` ADS 상장을 준비 중이다. F-6는 1 ADS = 보통주 1/10주를 확인했고, 이사회 최대 신주 한도는 17,790,000주, 기존 발행주식 대비 2.50%다. 핵심은 희석보다 미국 AI 메모리 long-only 접근성 확대와 HBM·Custom HBM·eSSD CAPEX 내러티브의 미국 상장 포맷화다. | [SK하이닉스 F-1/A와 F-6](/ko/post/sk-hynix-f1a-f6-skhy-adr-hbm-capex-2026-07-04/) |
 | 2026년 상반기 AI/HBM 장세는 넓은 강세장이었나 | 아니다. 한국은 KOSPI가 +101.1% 올랐지만 코스닥은 -1.0%, 전체 종목 중앙값은 -12.6%였다. 미국도 엔비디아 단독장이 아니라 메모리·스토리지·서버·반도체 장비·전력으로 AI 물리 병목이 이동한 장이었다. | [2026 상반기 복기](/ko/post/h1-2026-ai-infra-bottleneck-korea-narrow-market-postmortem-2026-06-30/) |
@@ -176,6 +177,7 @@ lastmod: 2026-07-04T07:18:00+09:00
 
 ### HBM과 AI 메모리
 
+- [SK스퀘어 통합 투자 메모: 하이닉스 현금흐름은 언제 SK스퀘어 현금이 되는가](/ko/post/sk-square-hynix-cash-flow-nav-discount-listed-ai-semi-allocator-2026-07-04/)
 - [SK하이닉스 ADR 상장은 원주와 레버리지 ETF 수급을 어떻게 바꾸나](/ko/post/sk-hynix-adr-000660-price-path-leverage-etf-plumbing-2026-07-04/)
 - [SK하이닉스 F-1/A와 F-6: SKHY ADR 상장은 HBM CAPEX를 어떻게 포장하는가](/ko/post/sk-hynix-f1a-f6-skhy-adr-hbm-capex-2026-07-04/)
 - [삼성전자 2Q26 프리뷰: 마이크론 서프라이즈는 지워졌고, 핵심은 Core OP다](/ko/post/samsung-2q26-preview-micron-surprise-erased-core-op-hbm-2026-06-29/)
