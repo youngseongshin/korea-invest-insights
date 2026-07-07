@@ -5,7 +5,7 @@ date: 2026-06-13T19:35:00+09:00
 aliases: ["/exclusive-analysis/", "/page/exclusive-analysis-hub/"]
 layout: "page"
 description: "A hub for Korea Invest Insights proprietary analysis: internally constructed datasets, full ETF constituent scans, real-money flow frameworks, ETF rebalance proxies, breadth and liquidity screens, and original stock-selection work."
-lastmod: 2026-07-04T22:25:00+09:00
+lastmod: 2026-07-07T21:10:00+09:00
 ---
 
 ## Purpose
@@ -22,6 +22,7 @@ This hub collects Korea Invest Insights posts built from proprietary or internal
 
 | Date | Topic | Key takeaway | Post |
 |---|---|---|---|
+| 2026-07-07 | Late-July Big Tech calls and the memory thesis | The Alphabet, Microsoft, Meta and Amazon calls are less about total capex and more about the 2027 capex slope plus memory-price durability. The scenario map is 50% strengthening, 35% neutral and 15% weakening, with structural damage around 4%. Samsung's 2Q26 preliminary result cleared the first gate, but the July 30 call still needs DS core profit, 3Q pricing and HBM4/HBM4E confirmation. | [Late-July Big Tech earnings and the memory thesis](/post/big-tech-july-earnings-call-memory-thesis-scenarios-2026-07-07/) |
 | 2026-07-04 | Dukovany and the Westinghouse settlement | The Westinghouse IP risk that could have blocked Dukovany 5 and 6 has fallen after the January 2025 global settlement and June 2025 contract signing. But this is not free European market access for Korean nuclear exports. The next question is Westinghouse tolls, localization, fixed-price and schedule risk, and actual margins. | [Dukovany and the Westinghouse settlement](/post/dukovany-westinghouse-ip-settlement-korea-nuclear-margin-risk-2026-07-04/) |
 | 2026-07-04 | SK Square and SK Hynix cash-flow conversion | SK Square is not the investment vehicle for the whole SK Group. It is better framed as a listed AI and semiconductor capital allocator built on SK Hynix equity value. The key is not Hynix net income by itself, but whether Hynix FCF turns into cash dividends and SK Square allocates that cash to buyback cancellation or Hynix-linked investments, compressing the NAV discount. | [SK Square investment memo](/post/sk-square-hynix-cash-flow-nav-discount-listed-ai-semi-allocator-2026-07-04/) |
 | 2026-07-04 | SK Gas LNG cold energy and AI data-center cooling option | SK Gas has not disclosed a confirmed commercial cold-energy project. The confirmed point is that an SK Gas-linked engineer published the technical logic for using LNG cold energy in AI data-center cooling on SK Group's DevOcean channel. The physics of roughly 0.2 MWh of cold energy per ton of LNG and the Ulsan KET / SK-AWS data-center location are relevant, but target PUE, tariff, capex, payback and SK Gas margin attribution remain undisclosed. | [SK Gas LNG cold energy](/post/sk-gas-lng-cold-energy-ai-datacenter-cooling-option-2026-07-04/) |

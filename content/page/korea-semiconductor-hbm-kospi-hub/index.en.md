@@ -5,7 +5,7 @@ date: 2026-04-30T23:05:00+09:00
 aliases: ["/hbm/", "/semiconductor/", "/samsung-hynix/", "/kospi-hbm/", "/en/hbm/", "/en/semiconductor/", "/en/samsung-hynix/", "/en/kospi-hbm/", "/en/page/korea-semiconductor-hbm-kospi-hub/", "/es/page/korea-semiconductor-hbm-kospi-hub/", "/vi/page/korea-semiconductor-hbm-kospi-hub/", "/fr/page/korea-semiconductor-hbm-kospi-hub/", "/ja/page/korea-semiconductor-hbm-kospi-hub/", "/zh/page/korea-semiconductor-hbm-kospi-hub/"]
 layout: "page"
 description: "AI HBM hub for Samsung Electronics, SK Hynix, HBM, AI memory and KOSPI concentration. Covers HBM market share, Samsung's KOSPI weight, Korean semiconductor exposure and the 2026 KOSPI re-rating thesis."
-lastmod: 2026-07-04T21:55:00+09:00
+lastmod: 2026-07-07T21:10:00+09:00
 ---
 
 ## One-Line Thesis
@@ -18,6 +18,7 @@ Korean semiconductor exposure is not one trade. It combines <strong>SK Hynix's H
 
 | Search Question | Current Answer | Read |
 |---|---|---|
+| What can late-July Big Tech earnings calls change for the memory thesis? | The key is not total capex, but the 2027 capex slope and memory-price durability. For Alphabet, Microsoft, Meta and Amazon, the probability map is 50% strengthening, 35% neutral and 15% weakening, with structural damage around 4%. Samsung's 2Q26 preliminary result cleared the first gate, but the July 30 call needs to confirm DS core profit, 3Q pricing tone and HBM4/HBM4E progress. | [Late-July Big Tech earnings and the memory thesis](/post/big-tech-july-earnings-call-memory-thesis-scenarios-2026-07-07/) |
 | Is SK Square an alternative way to own the SK Hynix HBM cycle? | Partly, but the core is not simple Hynix share-price beta. The key is whether SK Hynix FCF becomes cash dividends and whether SK Square allocates that cash to buyback cancellation or Hynix-linked AI/semi investments. SK Square is better read as a listed AI and semiconductor capital allocator built on SK Hynix equity value, not as the investment vehicle for the whole SK Group. | [SK Square investment memo](/post/sk-square-hynix-cash-flow-nav-discount-listed-ai-semi-allocator-2026-07-04/) |
 | How can SK Hynix's ADR change the common share and leveraged ETF flows? | SKHY can broaden U.S. AI-memory investor access, but in the short run the key is not volatility dampening. Watch ADR-common-share arbitrage, offer discount, first-week premium or discount and Korea's single-stock 2x ETF close rebalancing. The clean stance is watch the common share and ADR, avoid leveraged wrappers. | [SK Hynix ADR price transmission](/post/sk-hynix-adr-000660-price-path-leverage-etf-plumbing-2026-07-04/) |
 | What does SK Hynix's SKHY ADR preparation change for HBM investors? | As of the June 30 F-1/A and July 1 F-6, SK Hynix is preparing a Nasdaq ADS listing under `SKHY`. The F-6 confirms 1 ADS = 0.1 common share, while the board-authorized new-share ceiling is 17.79mn shares, 2.50% of existing shares. The key issue is not dilution alone, but U.S. AI-memory long-only access and the packaging of HBM, Custom HBM and eSSD capex into a U.S.-listed format. | [SK Hynix F-1/A and F-6](/post/sk-hynix-f1a-f6-skhy-adr-hbm-capex-2026-07-04/) |

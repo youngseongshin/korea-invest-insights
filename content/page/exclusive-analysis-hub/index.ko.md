@@ -5,7 +5,7 @@ date: 2026-06-13T19:35:00+09:00
 aliases: ["/ko/exclusive-analysis/", "/ko/page/exclusive-analysis-hub/"]
 layout: "page"
 description: "Korea Invest Insights의 자체 데이터 분석 허브. 자체 계산 데이터셋, Naver ETF 구성 전수 스캔, Real Money 수급, ETF 리밸런싱, 브레드스와 유동성 프레임워크 등 공개 기사 요약이 아니라 직접 계산한 분석 글을 모은다."
-lastmod: 2026-07-04T22:25:00+09:00
+lastmod: 2026-07-07T21:10:00+09:00
 ---
 
 ## 이 허브의 목적
@@ -26,6 +26,7 @@ lastmod: 2026-07-04T22:25:00+09:00
 
 | 날짜 | 주제 | 핵심 결론 | 글 |
 |---|---|---|---|
+| 2026-07-07 | 7월 말 빅테크 어닝콜과 메모리 테시스 | 알파벳·마이크로소프트·메타·아마존의 7월 말 콜은 투자 총액보다 2027년 투자 기울기와 메모리 가격 지속성을 판정하는 이벤트다. 강화 확률은 50%, 중립 35%, 약화 15%로 보고, 구조적 훼손은 약 4%다. 삼성전자 2Q26 잠정실적은 첫 관문을 통과했지만, 7월 30일 DS 본업 이익과 3Q 가격, HBM4·HBM4E 인증이 다음 확인 지점이다. | [7월 말 빅테크 어닝콜과 메모리 테시스](/ko/post/big-tech-july-earnings-call-memory-thesis-scenarios-2026-07-07/) |
 | 2026-07-04 | 체코 두코바니 원전과 Westinghouse 합의 | 두코바니 5·6호기를 막던 Westinghouse IP 리스크는 2025년 1월 글로벌 합의와 2025년 6월 계약 체결로 크게 낮아졌다. 그러나 이것은 한국 원전 수출이 유럽에서 자유로워졌다는 뜻이 아니라, Westinghouse toll, 현지화, 고정가격·공기 보증, 실제 마진을 확인해야 하는 단계로 바뀌었다는 뜻이다. | [두코바니와 Westinghouse 합의](/ko/post/dukovany-westinghouse-ip-settlement-korea-nuclear-margin-risk-2026-07-04/) |
 | 2026-07-04 | SK스퀘어와 하이닉스 현금흐름 | SK스퀘어는 SK그룹 전체 투자비클이 아니라 SK하이닉스 지분가치에 기반한 AI·반도체 전용 상장 자본배분 플랫폼으로 봐야 한다. 핵심은 하이닉스 순이익이 아니라 FCF가 현금배당으로 바뀌고, SK스퀘어가 그 현금을 자사주 소각 또는 하이닉스 시너지 투자로 배분해 NAV 할인율을 줄일 수 있느냐다. | [SK스퀘어 통합 투자 메모](/ko/post/sk-square-hynix-cash-flow-nav-discount-listed-ai-semi-allocator-2026-07-04/) |
 | 2026-07-04 | SK가스 LNG 냉열과 AI 데이터센터 냉각 옵션 | SK가스는 상용 냉열 프로젝트 성과를 공시한 것이 아니라, SK가스 소속 담당자가 DevOcean에서 LNG 냉열을 AI 데이터센터 냉각에 적용하는 기술 논리를 공개했다. LNG 1톤당 약 0.2MWh 냉열이 발생한다는 물리 논리와 울산 KET·SK-AWS AI 데이터센터 입지는 의미 있지만, 목표 PUE, 냉열 단가, CAPEX, 회수기간, SK가스 귀속 마진은 아직 미확인이다. | [SK가스 LNG 냉열](/ko/post/sk-gas-lng-cold-energy-ai-datacenter-cooling-option-2026-07-04/) |
@@ -94,6 +95,7 @@ lastmod: 2026-07-04T22:25:00+09:00
 
 ### 상대 밸류에이션과 사이클 프레임
 
+- [7월 말 빅테크의 어닝콜과 메모리 테시스 시나리오 분석](/ko/post/big-tech-july-earnings-call-memory-thesis-scenarios-2026-07-07/)
 - [SK스퀘어 통합 투자 메모: 하이닉스 현금흐름은 언제 SK스퀘어 현금이 되는가](/ko/post/sk-square-hynix-cash-flow-nav-discount-listed-ai-semi-allocator-2026-07-04/)
 - [SK가스 LNG 냉열: AI 데이터센터 냉각 옵션은 어디까지 실적이 될까](/ko/post/sk-gas-lng-cold-energy-ai-datacenter-cooling-option-2026-07-04/)
 - [AI 데이터센터 전력 병목 지도: 지엔씨에너지·비나텍·서진시스템 다음은 어디인가](/ko/post/ai-datacenter-power-bottleneck-korea-value-chain-screen-2026-07-04/)
