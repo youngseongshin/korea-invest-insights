@@ -66,9 +66,9 @@ Micron là điểm thay đổi lớn. Công ty công bố 16 hợp đồng khác
 | Nhiễu câu chuyện | 11% | Giá điều chỉnh nhưng dữ liệu giá và hợp đồng vẫn tốt. |
 | Hư hại cấu trúc | 4% | Phải đặt lại luận điểm. |
 
-## Khung hành động công khai
+## Danh sách kiểm tra cho bộ nhớ Hàn Quốc
 
-Samsung Electronics là core exposure của bộ nhớ Hàn Quốc, nhưng chỉ nên tăng sau khi lợi nhuận lõi DS, ba cuộc gọi Big Tech tích cực và giá bộ nhớ 3Q hai chữ số được xác nhận. SK Hynix là beta HBM rõ nhất, nhưng cần xác nhận cấu trúc hợp đồng, xuất hàng HBM và tiến độ HBM4. Micron là chuẩn tham chiếu cho hợp đồng dài hạn. Marvell phải tách khỏi luận điểm bộ nhớ và xem như custom silicon. Meta là sự kiện riêng về capex và khả năng kiếm tiền từ cloud.
+Phần này là danh sách kiểm tra nghiên cứu công khai, không phải chỉ dẫn giao dịch. Samsung Electronics cần được kiểm chứng qua lợi nhuận lõi DS, giả định giá bộ nhớ 3Q và tiến độ chứng nhận HBM4. SK Hynix cần được kiểm chứng qua xuất hàng HBM, độ bền ASP, cấu trúc giá của hợp đồng dài hạn và phân bổ HBM4.
 
 ## Điều kiện vô hiệu
 

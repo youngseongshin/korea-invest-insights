@@ -119,15 +119,14 @@ For SK Hynix, the key question is whether its long-term contracts have similar f
 
 If two or more companies cut plans or use digestion language, the table no longer applies. That becomes a thesis reset exercise.
 
-## Public Investment Framework
+## Korean Memory Checklist
 
-| Name | Role | Public framework |
+This section is a public research checklist, not a trading instruction. The late-July Big Tech calls matter here because they help test the Korean memory thesis.
+
+| Name | Role | What to verify |
 |---|---|---|
-| Samsung Electronics | Korean memory core | Maintain core exposure. Add only after DS core profit, three-plus positive Big Tech calls and double-digit 3Q memory price growth are confirmed. |
-| SK Hynix | HBM pure beta | Wait. The key items are long-term contract pricing, HBM shipments and HBM4 qualification. |
-| Micron | US-listed contract-structure benchmark | Watchlist. Attractive only if Big Tech calls strengthen and SCA terms remain intact. |
-| Marvell | Custom silicon and Trainium read-through | Separate from the memory thesis. Do not translate every Trainium comment directly into Marvell revenue. |
-| Meta | AI capex buyer and possible cloud monetization story | Treat July 29 as a Meta-specific event, not a memory-thesis event unless capex language changes. |
+| Samsung Electronics | Korean memory core with DRAM and NAND volume leverage | DS core profit, 3Q memory price assumptions and HBM4 customer qualification. |
+| SK Hynix | HBM purity and long-term contract structure | HBM shipment, ASP durability, contract pricing structure and HBM4 allocation. |
 
 ## Phrases To Listen For
 

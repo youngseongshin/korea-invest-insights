@@ -72,9 +72,9 @@ Si Alphabet mantiene plan, reafirma 2027 y aumenta backlog, la probabilidad de f
 
 Si dos compañías o más recortan planes o usan lenguaje de digestión, la tesis debe resetearse.
 
-## Marco de inversión
+## Lista de verificación para memoria coreana
 
-Samsung Electronics sigue siendo la exposición core de memoria coreana, pero solo conviene aumentar tras confirmar beneficio real de DS, tres llamadas positivas de Big Tech y precios de memoria de 3T aún de doble dígito. SK Hynix es el beta puro de HBM, pero requiere confirmación de contratos, envíos de HBM y HBM4. Micron entra como referencia de estructura contractual. Marvell debe separarse de la tesis de memoria y tratarse como exposición a custom silicon. Meta es un evento propio de capex y monetización cloud.
+Esta sección es una lista pública de verificación, no una instrucción de trading. Samsung Electronics debe evaluarse por beneficio real de DS, supuestos de precio de memoria en 3T y certificación HBM4. SK Hynix debe evaluarse por envíos HBM, resistencia de ASP, estructura de precios de contratos de largo plazo y asignación HBM4.
 
 ## Condiciones de invalidación
 

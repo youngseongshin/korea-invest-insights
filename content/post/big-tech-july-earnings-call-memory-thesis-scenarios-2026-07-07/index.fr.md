@@ -66,9 +66,9 @@ Cela ne supprime pas la cyclicité mémoire, mais réduit la décote de cyclicit
 | Bruit narratif | 11% | Correction des actions, données de prix et contrats encore saines. |
 | Dommage structurel | 4% | Réinitialisation de la thèse. |
 
-## Cadre public d'investissement
+## Checklist mémoire coréenne
 
-Samsung Electronics reste l'exposition core à la mémoire coréenne, mais un ajout exige confirmation du profit sous-jacent DS, au moins trois appels Big Tech positifs et une hausse des prix mémoire 3T encore à deux chiffres. SK Hynix est le beta HBM le plus pur, mais doit confirmer la structure des contrats, les livraisons HBM et HBM4. Micron devient la référence contractuelle. Marvell doit être séparé de la thèse mémoire et traité comme custom silicon. Meta est un événement capex et monétisation cloud, pas une thèse mémoire directe.
+Cette section est une checklist de recherche publique, pas une instruction de trading. Samsung Electronics doit être évalué à partir du profit sous-jacent de DS, des hypothèses de prix mémoire au 3T et de la qualification client HBM4. SK Hynix doit être évalué à partir des livraisons HBM, de la tenue des ASP, de la structure de prix des contrats de long terme et de l'allocation HBM4.
 
 ## Conditions d'invalidation
 
