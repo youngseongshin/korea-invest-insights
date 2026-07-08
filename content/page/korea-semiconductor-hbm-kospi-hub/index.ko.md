@@ -5,7 +5,7 @@ date: 2026-04-30T23:05:00+09:00
 aliases: ["/ko/hbm/", "/ko/semiconductor/", "/ko/samsung-hynix/", "/ko/kospi-hbm/", "/ko/page/hbm/"]
 layout: "page"
 description: "AI HBM 허브. 삼성전자, SK하이닉스, HBM, AI 메모리, 코스피 지수 쏠림과 한국 반도체 투자 논거를 한곳에 모은 리서치 허브. HBM 시장점유율, 삼성전자 코스피 비중, KOSPI 리레이팅, AI 서버 수요를 순서대로 정리한다."
-lastmod: 2026-07-07T21:45:00+09:00
+lastmod: 2026-07-08T14:30:00+09:00
 ---
 
 ## 한 줄 결론
@@ -18,6 +18,7 @@ lastmod: 2026-07-07T21:45:00+09:00
 
 | 검색 질문 | 현재 답변 | 자세히 보기 |
 |---|---|---|
+| 삼성전자 2Q26 실적 급락은 엔비디아 어느 분기와 닮았나 | 7월 7~8일 삼성전자 이틀 누적 -12.7% 하락은 2024년 8월 엔비디아 sell-on보다 2026년 2월 Q4 FY26과 더 닮았다. 엔비디아의 큰 실적 후 급락은 모두 결국 회복됐지만, 좋은 실적만으로는 부족했고 하락 공포를 직접 없애는 촉매가 필요했다. 삼성전자에는 7월 말 빅테크 CapEx 가이던스가 그 역할을 할 수 있다. | [삼성전자 실적 급락과 엔비디아 유사 분기](/ko/post/samsung-earnings-selloff-nvidia-q4fy26-rebound-trigger-2026-07-08/) |
 | 빅테크 자금조달 릴레이는 메모리 테시스에 무엇을 말하나 | 아마존·메타·알파벳의 채권·증자 릴레이는 2026년 AI CapEx 절대 삭감 가능성을 낮춘다. 다만 하이퍼스케일러 주식에는 FCF·부채·희석 부담이 있고, 더 직접적인 수취자는 메모리·HBM 병목이다. 핵심은 7월 말 콜에서 2027년 투자 기울기와 메모리 가격 부담 흡수 여부를 확인하는 것이다. | [빅테크 자금조달 릴레이와 메모리 병목](/ko/post/hyperscaler-financing-race-ai-capex-memory-bottleneck-2026-07-07/) |
 | 7월 말 빅테크 어닝콜은 메모리 테시스에 무엇을 바꾸나 | 핵심은 투자 총액이 아니라 2027년 투자 기울기와 메모리 가격 지속성이다. 알파벳·마이크로소프트·메타·아마존 콜에서 메모리 논리가 강해질 확률은 50%, 중립 35%, 약화 15%로 본다. 삼성전자 2Q26 잠정실적은 첫 관문을 통과했지만, 7월 30일 DS 본업 이익과 3Q 가격 톤, HBM4·HBM4E 인증을 확인해야 한다. | [7월 말 빅테크 어닝콜과 메모리 테시스](/ko/post/big-tech-july-earnings-call-memory-thesis-scenarios-2026-07-07/) |
 | SK스퀘어는 SK하이닉스 HBM 사이클을 사는 대체 수단인가 | 부분적으로 그렇지만, 핵심은 하이닉스 주가 베타가 아니라 하이닉스 FCF가 현금배당으로 바뀌고 SK스퀘어가 이를 자사주 소각 또는 HBM·AI 반도체 시너지 투자로 배분할 수 있느냐다. SK스퀘어는 SK그룹 전체 투자비클이 아니라 SK하이닉스 지분가치에 기반한 AI·반도체 상장 자본배분 플랫폼으로 봐야 한다. | [SK스퀘어 통합 투자 메모](/ko/post/sk-square-hynix-cash-flow-nav-discount-listed-ai-semi-allocator-2026-07-04/) |
@@ -179,6 +180,7 @@ lastmod: 2026-07-07T21:45:00+09:00
 
 ### HBM과 AI 메모리
 
+- [삼성전자 실적 급락은 엔비디아 어느 분기와 닮았나](/ko/post/samsung-earnings-selloff-nvidia-q4fy26-rebound-trigger-2026-07-08/)
 - [빅테크 자금조달 릴레이: AI CapEx는 줄지 않았고, 메모리 병목은 더 단단해졌다](/ko/post/hyperscaler-financing-race-ai-capex-memory-bottleneck-2026-07-07/)
 - [7월 말 빅테크의 어닝콜과 메모리 테시스 시나리오 분석](/ko/post/big-tech-july-earnings-call-memory-thesis-scenarios-2026-07-07/)
 - [SK스퀘어 통합 투자 메모: 하이닉스 현금흐름은 언제 SK스퀘어 현금이 되는가](/ko/post/sk-square-hynix-cash-flow-nav-discount-listed-ai-semi-allocator-2026-07-04/)

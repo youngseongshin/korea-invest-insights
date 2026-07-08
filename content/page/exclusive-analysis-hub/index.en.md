@@ -5,7 +5,7 @@ date: 2026-06-13T19:35:00+09:00
 aliases: ["/exclusive-analysis/", "/page/exclusive-analysis-hub/"]
 layout: "page"
 description: "A hub for Korea Invest Insights proprietary analysis: internally constructed datasets, full ETF constituent scans, real-money flow frameworks, ETF rebalance proxies, breadth and liquidity screens, and original stock-selection work."
-lastmod: 2026-07-07T21:45:00+09:00
+lastmod: 2026-07-08T14:30:00+09:00
 ---
 
 ## Purpose
@@ -22,6 +22,7 @@ This hub collects Korea Invest Insights posts built from proprietary or internal
 
 | Date | Topic | Key takeaway | Post |
 |---|---|---|---|
+| 2026-07-08 | Samsung selloff and the closest NVIDIA earnings analogue | Samsung's two-day post-print drawdown after 2Q26 looks less like NVIDIA's August 2024 one-day sell-on and more like NVIDIA Q4 FY26 in February 2026. NVIDIA's large post-earnings drawdowns did not recover on strong numbers alone. They needed a catalyst that killed the specific fear, such as a Fed cut, tariff pause or GTC 2026 $1T demand comment. For Samsung, the next proof point is late-July Big Tech CapEx guidance. | [Samsung earnings selloff and NVIDIA analogue](/post/samsung-earnings-selloff-nvidia-q4fy26-rebound-trigger-2026-07-08/) |
 | 2026-07-07 | Big Tech financing relay and the memory bottleneck | The Amazon, Meta and Alphabet bond/equity financing relay lowers the probability of an absolute 2026 AI capex cut. But hyperscaler equities also carry FCF, debt and dilution risk. The cleaner recipient is the memory/HBM bottleneck, with late-July calls needed to confirm the 2027 capex slope and continued absorption of memory-cost pressure. | [Big Tech financing relay](/post/hyperscaler-financing-race-ai-capex-memory-bottleneck-2026-07-07/) |
 | 2026-07-07 | Late-July Big Tech calls and the memory thesis | The Alphabet, Microsoft, Meta and Amazon calls are less about total capex and more about the 2027 capex slope plus memory-price durability. The scenario map is 50% strengthening, 35% neutral and 15% weakening, with structural damage around 4%. Samsung's 2Q26 preliminary result cleared the first gate, but the July 30 call still needs DS core profit, 3Q pricing and HBM4/HBM4E confirmation. | [Late-July Big Tech earnings and the memory thesis](/post/big-tech-july-earnings-call-memory-thesis-scenarios-2026-07-07/) |
 | 2026-07-04 | Dukovany and the Westinghouse settlement | The Westinghouse IP risk that could have blocked Dukovany 5 and 6 has fallen after the January 2025 global settlement and June 2025 contract signing. But this is not free European market access for Korean nuclear exports. The next question is Westinghouse tolls, localization, fixed-price and schedule risk, and actual margins. | [Dukovany and the Westinghouse settlement](/post/dukovany-westinghouse-ip-settlement-korea-nuclear-margin-risk-2026-07-04/) |
