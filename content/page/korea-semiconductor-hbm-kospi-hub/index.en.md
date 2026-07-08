@@ -5,7 +5,7 @@ date: 2026-04-30T23:05:00+09:00
 aliases: ["/hbm/", "/semiconductor/", "/samsung-hynix/", "/kospi-hbm/", "/en/hbm/", "/en/semiconductor/", "/en/samsung-hynix/", "/en/kospi-hbm/", "/en/page/korea-semiconductor-hbm-kospi-hub/", "/es/page/korea-semiconductor-hbm-kospi-hub/", "/vi/page/korea-semiconductor-hbm-kospi-hub/", "/fr/page/korea-semiconductor-hbm-kospi-hub/", "/ja/page/korea-semiconductor-hbm-kospi-hub/", "/zh/page/korea-semiconductor-hbm-kospi-hub/"]
 layout: "page"
 description: "AI HBM hub for Samsung Electronics, SK Hynix, HBM, AI memory and KOSPI concentration. Covers HBM market share, Samsung's KOSPI weight, Korean semiconductor exposure and the 2026 KOSPI re-rating thesis."
-lastmod: 2026-07-08T14:30:00+09:00
+lastmod: 2026-07-08T22:35:00+09:00
 ---
 
 ## One-Line Thesis
@@ -18,6 +18,7 @@ Korean semiconductor exposure is not one trade. It combines <strong>SK Hynix's H
 
 | Search Question | Current Answer | Read |
 |---|---|---|
+| After Samsung's 2Q26 preliminary result, what is signal and what is noise? | KRW 89.4tn of operating profit, DRAM ASP +47%, NAND ASP +66%, legacy-memory price spikes and hyperscaler capex strengthen the investment case. Foreign selling, high rates and FX, ASML/TSMC high-bar risk and weak Korean breadth weaken the entry timing. The stance is not thesis abandonment, but strong hold and no incremental buying until the next proof points. | [Samsung 2Q26 signals and noise](/post/samsung-record-quarter-profit-signals-noise-2026-07-08/) |
 | Which NVIDIA quarter does Samsung's 2Q26 selloff resemble? | Samsung's July 7-8 two-day drawdown of -12.7% is closer to NVIDIA Q4 FY26 in February 2026 than to the August 2024 one-day sell-on. NVIDIA's big post-print selloffs eventually recovered, but strong numbers alone were not enough. The rebound required a catalyst that directly killed the fear behind the selloff. For Samsung, late-July Big Tech CapEx guidance is the equivalent proof point. | [Samsung selloff and NVIDIA analogue](/post/samsung-earnings-selloff-nvidia-q4fy26-rebound-trigger-2026-07-08/) |
 | What does the Big Tech financing relay say about the memory thesis? | The Amazon, Meta and Alphabet bond/equity financing relay lowers the probability of an absolute 2026 AI capex cut. But hyperscaler equities also carry FCF, debt and dilution risk. The cleaner read-through is memory and HBM bottlenecks, with late-July calls needed to confirm the 2027 capex slope and whether memory-cost pressure keeps being absorbed. | [Big Tech financing and the memory bottleneck](/post/hyperscaler-financing-race-ai-capex-memory-bottleneck-2026-07-07/) |
 | What can late-July Big Tech earnings calls change for the memory thesis? | The key is not total capex, but the 2027 capex slope and memory-price durability. For Alphabet, Microsoft, Meta and Amazon, the probability map is 50% strengthening, 35% neutral and 15% weakening, with structural damage around 4%. Samsung's 2Q26 preliminary result cleared the first gate, but the July 30 call needs to confirm DS core profit, 3Q pricing tone and HBM4/HBM4E progress. | [Late-July Big Tech earnings and the memory thesis](/post/big-tech-july-earnings-call-memory-thesis-scenarios-2026-07-07/) |
@@ -161,6 +162,7 @@ Korean semiconductor exposure is not one trade. It combines <strong>SK Hynix's H
 
 ### HBM and AI Memory
 
+- [Samsung 2Q26 signals and noise: what to confirm after the record-scale operating profit](/post/samsung-record-quarter-profit-signals-noise-2026-07-08/)
 - [Which NVIDIA quarter does Samsung's earnings selloff resemble?](/post/samsung-earnings-selloff-nvidia-q4fy26-rebound-trigger-2026-07-08/)
 - [The Big Tech financing relay: AI capex has not been cut, and the memory bottleneck looks stronger](/post/hyperscaler-financing-race-ai-capex-memory-bottleneck-2026-07-07/)
 - [SK Square Investment Memo: When Does SK Hynix Cash Flow Become SK Square Cash?](/post/sk-square-hynix-cash-flow-nav-discount-listed-ai-semi-allocator-2026-07-04/)

@@ -5,7 +5,7 @@ date: 2026-06-13T19:35:00+09:00
 aliases: ["/ja/exclusive-analysis/", "/ja/page/exclusive-analysis-hub/"]
 layout: "page"
 description: "Korea Invest Insightsの独自分析ハブ。内部データ、ETF構成銘柄スキャン、Real Moneyフロー、流動性、ADR、相対強度を扱う。"
-lastmod: 2026-07-04T22:25:00+09:00
+lastmod: 2026-07-08T22:35:00+09:00
 ---
 
 ## 目的
@@ -14,6 +14,7 @@ lastmod: 2026-07-04T22:25:00+09:00
 
 | 日付 | テーマ | 記事 |
 |---|---|---|
+| 2026-07-08 | Samsung 2Q26のシグナルとノイズ | [89.4兆ウォンの営業利益は投資論拠を強めるが、外国人売り、金利、ASML、TSMCを確認するまで追加買いは待つ局面](/ja/post/samsung-record-quarter-profit-signals-noise-2026-07-08/) |
 | 2026-07-04 | ドゥコバニとWestinghouse合意 | [受注リスクは下がったが、Westinghouseへの支払い、現地化、固定価格・工程リスク、実際のマージン確認が次の焦点](/ja/post/dukovany-westinghouse-ip-settlement-korea-nuclear-margin-risk-2026-07-04/) |
 | 2026-07-04 | SK SquareとSK Hynixキャッシュフロー転換 | [焦点はHynix利益そのものではなく、FCFが現金配当になりSK SquareのNAVディスカウントを縮小するか](/ja/post/sk-square-hynix-cash-flow-nav-discount-listed-ai-semi-allocator-2026-07-04/) |
 | 2026-07-04 | SKハイニックスADR、000660、レバレッジETF需給 | [SKHYは米国投資家アクセスを広げるが、まず裁定、プレミアム/ディスカウント、2倍ETFリバランスを見る](/ja/post/sk-hynix-adr-000660-price-path-leverage-etf-plumbing-2026-07-04/) |
@@ -32,6 +33,7 @@ lastmod: 2026-07-04T22:25:00+09:00
 
 ## 相対バリュエーションとサイクルの見方
 
+- [Samsung 2Q26のシグナルとノイズ: 記録的な営業利益の後に確認すべきこと](/ja/post/samsung-record-quarter-profit-signals-noise-2026-07-08/)
 - [SK Square投資メモ: SK HynixのキャッシュフローはいつSK Squareの現金になるのか](/ja/post/sk-square-hynix-cash-flow-nav-discount-listed-ai-semi-allocator-2026-07-04/)
 - [サムスン電子2Q26プレビュー: Micronサプライズは消え、焦点はCore OPへ](/ja/post/samsung-2q26-preview-micron-surprise-erased-core-op-hbm-2026-06-29/)
 - [Samsung-Hynix-Micron forward P/Eパリティ](/ja/post/samsung-hynix-micron-forward-per-parity-memory-catch-up-2026-06-03/)

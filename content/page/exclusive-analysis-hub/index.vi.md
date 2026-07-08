@@ -5,7 +5,7 @@ date: 2026-06-13T19:35:00+09:00
 aliases: ["/vi/exclusive-analysis/", "/vi/page/exclusive-analysis-hub/"]
 layout: "page"
 description: "Tổng hợp các phân tích độc quyền của Korea Invest Insights dựa trên dữ liệu nội bộ, ETF scan, real-money flow, ADR và thanh khoản."
-lastmod: 2026-07-04T22:25:00+09:00
+lastmod: 2026-07-08T22:35:00+09:00
 ---
 
 ## Mục đích
@@ -14,6 +14,7 @@ Hub này tập hợp các bài phân tích tự xây dựng dữ liệu: thành 
 
 | Ngày | Chủ đề | Bài viết |
 |---|---|---|
+| 2026-07-08 | Samsung 2Q26: tín hiệu và nhiễu | [Lợi nhuận hoạt động 89,4 nghìn tỷ won củng cố luận điểm, nhưng dòng vốn ngoại, lãi suất, ASML và TSMC khiến việc mua thêm cần chờ xác nhận](/vi/post/samsung-record-quarter-profit-signals-noise-2026-07-08/) |
 | 2026-07-04 | Dukovany và thỏa thuận Westinghouse | [Rủi ro ký hợp đồng giảm, nhưng cần kiểm tra phí Westinghouse, nội địa hóa, rủi ro giá cố định, tiến độ và biên lợi nhuận thực tế](/vi/post/dukovany-westinghouse-ip-settlement-korea-nuclear-margin-risk-2026-07-04/) |
 | 2026-07-04 | SK Square và chuyển đổi dòng tiền SK Hynix | [Trọng tâm là FCF của Hynix có trở thành cổ tức tiền mặt và giúp thu hẹp chiết khấu NAV của SK Square hay không](/vi/post/sk-square-hynix-cash-flow-nav-discount-listed-ai-semi-allocator-2026-07-04/) |
 | 2026-07-04 | ADR SK Hynix, cổ phiếu 000660 và ETF đòn bẩy | [SKHY mở rộng kênh vốn Mỹ, nhưng cần theo dõi arbitrage, premium hoặc discount và tái cân bằng ETF 2x](/vi/post/sk-hynix-adr-000660-price-path-leverage-etf-plumbing-2026-07-04/) |
@@ -32,6 +33,7 @@ Hub này tập hợp các bài phân tích tự xây dựng dữ liệu: thành 
 
 ## Khung định giá tương đối và chu kỳ
 
+- [Samsung 2Q26: tín hiệu và nhiễu sau lợi nhuận hoạt động quy mô kỷ lục](/vi/post/samsung-record-quarter-profit-signals-noise-2026-07-08/)
 - [SK Square: khi nào dòng tiền của SK Hynix trở thành tiền mặt của SK Square?](/vi/post/sk-square-hynix-cash-flow-nav-discount-listed-ai-semi-allocator-2026-07-04/)
 - [Samsung 2Q26: bất ngờ của Micron đã bị xóa khỏi giá, trọng tâm là Core OP](/vi/post/samsung-2q26-preview-micron-surprise-erased-core-op-hbm-2026-06-29/)
 - [Samsung-Hynix-Micron forward P/E parity](/vi/post/samsung-hynix-micron-forward-per-parity-memory-catch-up-2026-06-03/)

@@ -5,7 +5,7 @@ date: 2026-06-13T19:35:00+09:00
 aliases: ["/es/exclusive-analysis/", "/es/page/exclusive-analysis-hub/"]
 layout: "page"
 description: "Análisis propietario de Korea Invest Insights: datos internos, escaneos completos de ETF, flujos real money, liquidez, ADR y selección de acciones."
-lastmod: 2026-07-04T22:25:00+09:00
+lastmod: 2026-07-08T22:35:00+09:00
 ---
 
 ## Propósito
@@ -14,6 +14,7 @@ Este hub reúne análisis propios de Korea Invest Insights basados en datos cons
 
 | Fecha | Tema | Lectura |
 |---|---|---|
+| 2026-07-08 | Samsung 2T26: señales y ruido | [El beneficio operativo de 89,4 billones de won refuerza la tesis, pero los flujos extranjeros, las tasas, ASML y TSMC obligan a esperar antes de añadir](/es/post/samsung-record-quarter-profit-signals-noise-2026-07-08/) |
 | 2026-07-04 | Dukovany y el acuerdo con Westinghouse | [Baja el riesgo de contrato, pero el foco pasa a peajes de Westinghouse, localización, precio fijo, calendario y margen real](/es/post/dukovany-westinghouse-ip-settlement-korea-nuclear-margin-risk-2026-07-04/) |
 | 2026-07-04 | SK Square y conversión de caja de SK Hynix | [SK Square no es el vehículo de todo el grupo SK; la clave es si el FCF de Hynix se convierte en dividendos y reduce el descuento sobre NAV](/es/post/sk-square-hynix-cash-flow-nav-discount-listed-ai-semi-allocator-2026-07-04/) |
 | 2026-07-04 | ADR de SK Hynix, 000660 y flujos de ETF apalancados | [SKHY amplía el acceso estadounidense, pero primero hay que vigilar arbitraje, prima o descuento y rebalanceo de ETF 2x](/es/post/sk-hynix-adr-000660-price-path-leverage-etf-plumbing-2026-07-04/) |
@@ -32,6 +33,7 @@ Este hub reúne análisis propios de Korea Invest Insights basados en datos cons
 
 ## Marcos de valoración relativa y ciclo
 
+- [Samsung 2T26: señales y ruido tras un beneficio operativo de escala récord](/es/post/samsung-record-quarter-profit-signals-noise-2026-07-08/)
 - [SK Square: cuándo el flujo de caja de SK Hynix se convierte en efectivo para SK Square](/es/post/sk-square-hynix-cash-flow-nav-discount-listed-ai-semi-allocator-2026-07-04/)
 - [Samsung 2T26: la sorpresa de Micron se borró y el verdadero foco es el Core OP](/es/post/samsung-2q26-preview-micron-surprise-erased-core-op-hbm-2026-06-29/)
 - [Paridad forward P/E Samsung-Hynix-Micron](/es/post/samsung-hynix-micron-forward-per-parity-memory-catch-up-2026-06-03/)
