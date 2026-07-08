@@ -2,7 +2,7 @@
 title: "Samsung: Kiwoom's KRW 390k vs KB's KRW 600k, By the Numbers — 'Level' and 'Growth Rate' Don't Conflict (2026-07-08)"
 slug: samsung-kiwoom-39-vs-kb-60-level-vs-growth-2026-07-08
 date: 2026-07-08T09:30:00+09:00
-description: "On the same day, Kiwoom cut Samsung's target to KRW 390k and KB raised it to KRW 600k. They look contradictory, but by the numbers they don't refute each other. Kiwoom talks about the deceleration of the earnings growth RATE (second derivative); KB talks about the absolute LEVEL of earnings. Both are true. A one-off provision of ~KRW 17.6tn backed out of Q2 (adjusted OP 107tn vs reported 89.4tn), a clean Q3 QoQ of +4.7%, TrendForce's Q2-to-Q3 slowdown in contract-price growth, and a ~6.7x 2026E P/E at the KRW 296,000 close — this post minimizes buy/sell calls and decomposes both reports' reasoning and data."
+description: "On the same day, Kiwoom cut Samsung's target to KRW 390k and KB raised it to KRW 600k. They look contradictory, but by the numbers they don't refute each other. Kiwoom talks about the deceleration of the earnings growth RATE (second derivative); KB talks about the absolute LEVEL of earnings. Both are true. The provision adjustment is the crux — of the incentive provision in Q2's reported OP of 89.4tn, only ~KRW 5tn is genuinely one-off (a retroactive Q1 top-up; provisions recur in Q3 too), and normalizing just that puts Q3 QoQ near +16–19%, not the headline +26% or +4.7%. TrendForce's Q2-to-Q3 slowdown in contract-price growth, and a ~6.7x 2026E P/E at the KRW 296,000 close — this post minimizes buy/sell calls and decomposes both reports' reasoning and data."
 categories: ["Sector-Deep-Dive", "한국 시장"]
 tags:
   - "Samsung Electronics"
@@ -28,7 +28,7 @@ tags:
 ## TL;DR
 
 * **Kiwoom is about the deceleration of the growth rate (dG/dt, the second derivative); KB is about the absolute level of earnings.** They can coexist mathematically, and within the figures given, both are true. Framing them as "opposing reports" is a misspecification.
-* **One key number.** The gap between KB's Q2 adjusted OP of 107tn and reported OP of 89.4tn ≈ a **one-off provision of KRW 17.6tn**. Strip that base distortion out and the headline "Q3 +26%" falls to about **+4.7%** on a clean basis. Kiwoom's verbal "growth slowdown" is already sitting inside KB's own numbers.
+* **It hinges on the provision adjustment.** The incentive provision in Q2's reported OP of 89.4tn totals about 17.6tn, but the genuinely **one-off** part is only the **\~5tn** retroactive top-up of Q1's under-accrual (the rest recurs every quarter, including Q3). Normalize just that 5tn and Q3 QoQ is neither the headline +26% nor the +4.7% you get by stripping the whole provision, but **\~+16–19%**. The growth acceleration moderates (Kiwoom's direction) but does not collapse (KB's level holds).
 * **The market already answered.** Right after a record quarter, the stock fell sharply and a circuit breaker tripped. What the market priced was not a demand collapse but a **peak in the growth rate + extreme positioning**.
 
 ---
@@ -49,26 +49,27 @@ One fact jumps out immediately. **Their Q3 OP estimates are essentially the same
 
 What KB adds on top of the earnings level is a set of options: the scale of global AI investment (\~USD 800bn this year → 1.1tn next → 1.5tn in 2028), a shortage into 1H 2028, 2027 HBM price negotiations, buyback/cancellation and special dividends, potential new foundry wins, and an ADR-listing review. Many of these are still **event options or estimates**, and should be separated from confirmed facts.
 
-## 2. Level vs growth rate — by the numbers, both hold
+## 2. Level vs growth rate — it hinges on how you adjust for the provision
 
-A stock trades the rate of change of earnings, not the level. So "record earnings (level)" and "peak in the growth acceleration (growth rate)" can hold at the same time. Using KB's own numbers makes this coexistence clear.
+A stock trades the rate of change of earnings, not the level. So "record earnings (level)" and "a slowdown in the growth acceleration (growth rate)" can hold at the same time. But there is a common trap when you try to show this in numbers: **how you adjust for the incentive provision.**
 
-First, strip out the one-off. On KB's basis, Q2 adjusted (clean) OP is **107tn** and reported OP (with the incentive provision) is **89.4tn**. The difference is the one-off burden loaded into the quarter.
+On KB's basis, Q2 adjusted (ex-incentive-provision) OP is **107tn** and reported OP (with the provision) is **89.4tn**. The difference of about **17.6tn** is the total incentive provision booked in Q2.
 
-* **Q2 one-off provision ≈ 107tn − 89.4tn = \~KRW 17.6tn**
+Here is the key correction. **You must not strip out that full 17.6tn as "one-off."** The incentive provision is tied to profit and is booked every quarter — **Q3 results will carry a provision too.** The genuinely one-off part of Q2 is the retroactive top-up: the incentive under-accrued in Q1 relative to its profit, booked belatedly in Q2. That top-up is estimated at about **KRW 5tn, in proportion to Q1 operating profit (\~57tn)** (Q2's 89.4tn ≈ +56% over Q1).
 
-Now re-read the quarterly path on a **clean-vs-clean** basis.
+So when normalizing the base, you add back only that **one-off \~5tn**, not 17.6tn — leaving each quarter's own normal provision in place.
 
-* **Q3 clean QoQ ≈ 112tn ÷ 107tn = +4.7%**
-* **Q4 clean QoQ ≈ 124tn ÷ 112tn = +10.7%**
+* **Q2 normalized OP ≈ 89.4tn + 5tn = \~94tn**
+* **Q3 estimated OP ≈ 110–112tn** (this too includes a normal provision)
+* **Normalized Q3 QoQ ≈ 112tn ÷ 94tn ≈ +18%** (about +16% on 110tn) → **\~+16–19%**
 
-The headline "Q3 OP +26%" uses the provision-depressed Q2 report (89.4tn) as the denominator — a **base illusion**. Remove the provision and Q3's real QoQ momentum drops to around **+5%**. In short:
+Line up the three numbers and the illusion shows:
 
-* **The earnings level is a record** — KB's observation holds.
-* **The quarterly growth acceleration slows sharply in Q3** — Kiwoom's observation holds.
-* And the sequencing (Q3 slowdown → Q4 re-acceleration) is the real story.
+* **Headline "Q3 +26%"** — uses the provision-depressed Q2 report (89.4tn) as the denominator, overstating the acceleration.
+* **+4.7% if you remove the full 17.6tn** — an asymmetric comparison that strips Q2's provision but leaves Q3's in, so it understates growth instead.
+* **\~+16–19% after normalizing only the one-off (\~5tn)** — this is closest to reality.
 
-The two reports are not contradictory; they are **looking at different derivatives (level vs rate of change) of the same earnings curve.**
+In short: **the earnings level is a record (KB right).** The growth acceleration does moderate from the extreme Q2 pace (Kiwoom's direction right). But that moderation is not a Q3 cliff; it is a **gradual curve** — Q2 (surge) → Q3 (\~+16–19%) → Q4 (124tn ÷ 112tn ≈ +10.7%). The two reports are not contradictory; they **look at different derivatives (level vs rate of change) of the same earnings curve**, and the growth-rate slowdown is far milder than a "strip the full provision" calculation implies.
 
 ## 3. The data the market printed on July 7
 
@@ -89,7 +90,7 @@ The industry-data basis for Kiwoom's case is the **slowdown in memory contract-p
 | Q2 (QoQ) | **+58\~63%** | **+70\~75%** |
 | Q3 (QoQ) | **+13\~18%** | **+10\~15%** |
 
-So prices **still rise in Q3** — but the slope drops sharply, from the Q2 surge to the low-teens/mid-teens. Kiwoom's line that "2H price growth is unlikely to beat expectations by a wide margin again" should be read not as cycle-end but as a **narrowing of the beat**. This data lines up with the clean QoQ slowdown (+4.7%) from Section 2.
+So prices **still rise in Q3** — but the slope drops sharply, from the Q2 surge to the low-teens/mid-teens. Kiwoom's line that "2H price growth is unlikely to beat expectations by a wide margin again" should be read not as cycle-end but as a **narrowing of the beat**. This data lines up directionally with the gradual growth-rate moderation in Section 2 (Q3 \~+16–19%).
 
 ## 5. Valuation is a P/E question, not an EPS question
 
@@ -140,8 +141,8 @@ The nature of this debate is not a bull-vs-bear clash but a **time-axis illusion
 * Verifiable 2026E EPS: Kiwoom 43,429 / KB 44,379; prior close 296,000.
 
 ### [Inference]
-* Q2 adjusted 107tn − reported 89.4tn ≈ one-off provision 17.6tn; strip it out → Q3 clean QoQ ≈ +4.7%, Q4 ≈ +10.7%.
-* Headline "Q3 +26%" is a provision-depressed base illusion; Kiwoom's growth-slowdown case is embedded in KB's numbers.
+* The incentive provision in Q2 reported 89.4tn totals ≈17.6tn, but only \~5tn is genuinely one-off (a retroactive Q1 top-up, in proportion to Q1 OP \~57tn). Since a provision recurs in Q3 too, removing the full 17.6tn is an asymmetric comparison. Normalizing only the \~5tn one-off puts Q2 base ≈94tn and Q3 QoQ ≈ +16–19% (headline +26%; +4.7% if fully stripped), Q4 ≈ +10.7%.
+* Growth acceleration moderates gradually: Q2 (surge) → Q3 (+16–19%) → Q4 (+10.7%). Kiwoom's growth-slowdown case is directionally right but milder than a full-provision-strip illusion.
 * The real axis is P/E, not EPS (now \~6.7x → 390k ≈ 8.9x, 600k ≈ 13.6x on 2026E / 10.3x on 2027E).
 * Memory demand bifurcates into consumer (elastic) and AI (inelastic); a consumer volume cut may be offset by AI mix improving blended margins.
 * The July 7 drop reads as a peak-in-growth-rate + extreme-positioning (foreign 17-yr low, retail margin ATH) unwind, not a demand collapse.

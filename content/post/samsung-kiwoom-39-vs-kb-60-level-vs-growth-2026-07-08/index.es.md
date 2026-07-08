@@ -2,7 +2,7 @@
 title: "Samsung: 390k de Kiwoom vs 600k de KB, en cifras — 'nivel' y 'tasa de crecimiento' no se contradicen (2026-07-08)"
 slug: samsung-kiwoom-39-vs-kb-60-level-vs-growth-2026-07-08
 date: 2026-07-08T09:30:00+09:00
-description: "El mismo día, Kiwoom bajó el objetivo de Samsung a 390.000 KRW y KB lo subió a 600.000. Parecen contradictorios, pero en cifras no se refutan. Kiwoom habla de la desaceleración de la TASA de crecimiento del beneficio (segunda derivada); KB, del NIVEL absoluto. Ambos son ciertos. Una provisión no recurrente de ~17,6 bn KRW deducida del 2T (OP ajustado 107 bn vs reportado 89,4 bn), un 3T limpio de +4,7% QoQ, la desaceleración del 2T al 3T según TrendForce y un PER 2026E de ~6,7x al cierre de 296.000 KRW — este texto minimiza el veredicto de compra/venta y descompone los argumentos y datos de ambos informes."
+description: "El mismo día, Kiwoom bajó el objetivo de Samsung a 390.000 KRW y KB lo subió a 600.000. Parecen contradictorios, pero en cifras no se refutan. Kiwoom habla de la desaceleración de la TASA de crecimiento del beneficio (segunda derivada); KB, del NIVEL absoluto. Ambos son ciertos. La clave es el ajuste de la provisión — del total de provisión por incentivos incluido en el OP reportado del 2T de 89,4 bn, solo ~5 bn KRW es realmente no recurrente (un ajuste retroactivo del 1T; la provisión también se registra en el 3T), y al normalizar solo eso el QoQ del 3T queda cerca de +16–19%, no del +26% ni del +4,7%. La desaceleración del 2T al 3T según TrendForce y un PER 2026E de ~6,7x al cierre de 296.000 KRW — este texto minimiza el veredicto de compra/venta y descompone los argumentos y datos de ambos informes."
 categories: ["Sector-Deep-Dive", "한국 시장"]
 tags:
   - "Samsung Electronics"
@@ -28,7 +28,7 @@ tags:
 ## TL;DR
 
 * **Kiwoom trata de la desaceleración de la tasa de crecimiento (dG/dt, la segunda derivada); KB, del nivel absoluto del beneficio.** Coexisten matemáticamente y, dentro de las cifras dadas, ambos son ciertos. Enmarcarlos como "informes opuestos" es un error de planteamiento.
-* **Una cifra clave.** La diferencia entre el OP ajustado del 2T de KB (107 bn) y el OP reportado (89,4 bn) ≈ una **provisión no recurrente de 17,6 bn KRW**. Elimina esa distorsión de base y el titular "3T +26%" cae a cerca de **+4,7%** en términos limpios. La "desaceleración" verbal de Kiwoom ya está dentro de los propios números de KB.
+* **Todo depende del ajuste de la provisión.** La provisión por incentivos incluida en el OP reportado del 2T de 89,4 bn suma unos 17,6 bn, pero la parte realmente **no recurrente** es solo el ajuste retroactivo de **\~5 bn** por lo sub-provisionado en el 1T (el resto se repite cada trimestre, incluido el 3T). Normaliza solo esos 5 bn y el QoQ del 3T no es ni el titular +26% ni el +4,7% que sale al quitar toda la provisión, sino **\~+16–19%**. La aceleración del crecimiento se modera (dirección de Kiwoom) pero no colapsa (el nivel de KB se sostiene).
 * **El mercado ya respondió.** Justo tras un trimestre récord, la acción cayó con fuerza y saltó un circuit breaker. Lo que el mercado puso en precio no fue un colapso de demanda, sino un **pico en la tasa de crecimiento + un posicionamiento extremo**.
 
 ---
@@ -49,26 +49,27 @@ Un hecho salta de inmediato. **Sus estimaciones de OP del 3T son esencialmente i
 
 Lo que KB añade sobre el nivel de beneficio es un conjunto de opciones: la escala de la inversión global en IA (\~800.000 M USD este año → 1,1 bn el próximo → 1,5 bn en 2028), escasez hasta 1S 2028, negociaciones de precio de HBM en 2027, recompra/amortización y dividendos especiales, posibles nuevos contratos de fundición y una revisión de cotización ADR. Muchas de estas son aún **opciones de evento o estimaciones**, y deben separarse de los hechos confirmados.
 
-## 2. Nivel vs tasa de crecimiento — en cifras, ambos se sostienen
+## 2. Nivel vs tasa de crecimiento — todo depende de cómo ajustes la provisión
 
-Una acción cotiza la tasa de cambio del beneficio, no el nivel. Por eso "beneficio récord (nivel)" y "pico en la aceleración del crecimiento (tasa)" pueden sostenerse a la vez. Usar los propios números de KB lo deja claro.
+Una acción cotiza la tasa de cambio del beneficio, no el nivel. Por eso "beneficio récord (nivel)" y "una desaceleración de la aceleración del crecimiento (tasa)" pueden sostenerse a la vez. Pero hay una trampa común al mostrarlo en cifras: **cómo ajustas la provisión por incentivos.**
 
-Primero, elimina el no recurrente. En base de KB, el OP ajustado (limpio) del 2T es **107 bn** y el OP reportado (con la provisión de incentivos) es **89,4 bn**. La diferencia es la carga no recurrente del trimestre.
+En base de KB, el OP ajustado (ex-provisión de incentivos) del 2T es **107 bn** y el OP reportado (con la provisión) es **89,4 bn**. La diferencia de unos **17,6 bn** es la provisión total por incentivos registrada en el 2T.
 
-* **Provisión no recurrente del 2T ≈ 107 bn − 89,4 bn = \~17,6 bn KRW**
+Aquí la corrección clave. **No debes quitar esos 17,6 bn completos como "no recurrentes."** La provisión por incentivos está ligada al beneficio y se registra cada trimestre — **los resultados del 3T también llevarán provisión.** La parte genuinamente no recurrente del 2T es el ajuste retroactivo: el incentivo sub-provisionado en el 1T respecto a su beneficio, registrado tardíamente en el 2T. Ese ajuste se estima en unos **5 bn KRW, en proporción al OP del 1T (\~57 bn)** (el 89,4 bn del 2T ≈ +56% sobre el 1T).
 
-Ahora relee la senda trimestral en base **limpio contra limpio**.
+Así que al normalizar la base, solo devuelves ese **no recurrente \~5 bn**, no 17,6 bn — dejando en su sitio la provisión normal de cada trimestre.
 
-* **3T limpio QoQ ≈ 112 bn ÷ 107 bn = +4,7%**
-* **4T limpio QoQ ≈ 124 bn ÷ 112 bn = +10,7%**
+* **OP normalizado del 2T ≈ 89,4 bn + 5 bn = \~94 bn**
+* **OP estimado del 3T ≈ 110–112 bn** (esto también incluye una provisión normal)
+* **QoQ normalizado del 3T ≈ 112 bn ÷ 94 bn ≈ +18%** (unos +16% sobre 110 bn) → **\~+16–19%**
 
-El titular "OP 3T +26%" usa como denominador el reporte del 2T deprimido por la provisión (89,4 bn) — una **ilusión de base**. Elimina la provisión y el momentum QoQ real del 3T cae a cerca de **+5%**. En resumen:
+Pon las tres cifras en fila y aparece la ilusión:
 
-* **El nivel de beneficio es récord** — la observación de KB se sostiene.
-* **La aceleración del crecimiento trimestral se frena con fuerza en el 3T** — la observación de Kiwoom se sostiene.
-* Y la secuencia (frenada en 3T → reaceleración en 4T) es la verdadera historia.
+* **Titular "3T +26%"** — usa el reporte del 2T deprimido por la provisión (89,4 bn) como denominador, exagerando la aceleración.
+* **+4,7% si quitas los 17,6 bn completos** — una comparación asimétrica que quita la provisión del 2T pero deja la del 3T, subestimando el crecimiento.
+* **\~+16–19% tras normalizar solo el no recurrente (\~5 bn)** — esto es lo más cercano a la realidad.
 
-Los dos informes no son contradictorios; **miran derivadas distintas (nivel vs tasa de cambio) de la misma curva de beneficio.**
+En resumen: **el nivel de beneficio es récord (KB tiene razón).** La aceleración del crecimiento sí se modera desde el ritmo extremo del 2T (la dirección de Kiwoom es correcta). Pero esa moderación no es un desplome en el 3T; es una **curva gradual** — 2T (auge) → 3T (\~+16–19%) → 4T (124 bn ÷ 112 bn ≈ +10,7%). Los dos informes no son contradictorios; **miran derivadas distintas (nivel vs tasa de cambio) de la misma curva de beneficio**, y la desaceleración del crecimiento es mucho más suave de lo que sugiere un cálculo de "quitar toda la provisión".
 
 ## 3. Los datos que el mercado imprimió el 7 de julio
 
@@ -89,7 +90,7 @@ La base de datos sectorial del caso de Kiwoom es la **desaceleración del crecim
 | 2T (QoQ) | **+58\~63%** | **+70\~75%** |
 | 3T (QoQ) | **+13\~18%** | **+10\~15%** |
 
-Así que los precios **aún suben en el 3T** — pero la pendiente baja con fuerza, del pico del 2T a la franja del 10 y pico por ciento. La frase de Kiwoom de que "el crecimiento de precios del 2S difícilmente vuelva a superar ampliamente las expectativas" debe leerse no como fin de ciclo, sino como un **estrechamiento del margen de sorpresa**. Este dato encaja con la desaceleración QoQ limpia (+4,7%) de la Sección 2.
+Así que los precios **aún suben en el 3T** — pero la pendiente baja con fuerza, del pico del 2T a la franja del 10 y pico por ciento. La frase de Kiwoom de que "el crecimiento de precios del 2S difícilmente vuelva a superar ampliamente las expectativas" debe leerse no como fin de ciclo, sino como un **estrechamiento del margen de sorpresa**. Este dato encaja, en dirección, con la moderación gradual de la tasa de crecimiento de la Sección 2 (3T \~+16–19%).
 
 ## 5. La valoración es una cuestión de PER, no de BPA
 
@@ -140,8 +141,8 @@ La naturaleza del debate no es un choque alcista-bajista, sino una **ilusión de
 * BPA 2026E verificable: Kiwoom 43.429 / KB 44.379; cierre previo 296.000.
 
 ### [Inference]
-* 2T ajustado 107 bn − reportado 89,4 bn ≈ provisión no recurrente 17,6 bn; al eliminarla → 3T limpio QoQ ≈ +4,7%, 4T ≈ +10,7%.
-* El titular "3T +26%" es una ilusión de base deprimida por la provisión; el caso de desaceleración de Kiwoom está incrustado en los números de KB.
+* La provisión por incentivos en el 2T reportado de 89,4 bn suma ≈17,6 bn, pero solo \~5 bn es realmente no recurrente (un ajuste retroactivo del 1T, en proporción al OP del 1T \~57 bn). Como la provisión también se repite en el 3T, quitar los 17,6 bn completos es una comparación asimétrica. Normalizando solo el no recurrente \~5 bn, la base del 2T ≈94 bn y el QoQ del 3T ≈ +16–19% (titular +26%; +4,7% si se quita todo), 4T ≈ +10,7%.
+* La aceleración del crecimiento se modera de forma gradual: 2T (auge) → 3T (+16–19%) → 4T (+10,7%). El caso de desaceleración de Kiwoom es correcto en dirección, pero más suave que la ilusión de quitar toda la provisión.
 * El eje real es el PER, no el BPA (ahora \~6,7x → 390k ≈ 8,9x, 600k ≈ 13,6x en 2026E / 10,3x en 2027E).
 * La demanda de memoria se bifurca en consumo (elástica) e IA (inelástica); un recorte de volumen de consumo puede compensarse si el mix IA mejora los márgenes combinados.
 * La caída del 7 de julio se lee como pico en la tasa de crecimiento + desarme de posicionamiento extremo (extranjero mínimo de 17 años, apalancamiento minorista en máximos), no como colapso de demanda.

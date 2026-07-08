@@ -2,7 +2,7 @@
 title: "Samsung : 390k de Kiwoom vs 600k de KB, en chiffres — « niveau » et « taux de croissance » ne se contredisent pas (2026-07-08)"
 slug: samsung-kiwoom-39-vs-kb-60-level-vs-growth-2026-07-08
 date: 2026-07-08T09:30:00+09:00
-description: "Le même jour, Kiwoom abaisse l'objectif de Samsung à 390 000 KRW et KB le relève à 600 000. Ils semblent contradictoires, mais en chiffres ils ne se réfutent pas. Kiwoom parle du ralentissement du TAUX de croissance du bénéfice (dérivée seconde) ; KB parle du NIVEAU absolu. Les deux sont vrais. Une provision non récurrente d'environ 17,6 Bn KRW retirée du T2 (RO ajusté 107 Bn vs publié 89,4 Bn), un T3 propre à +4,7 % en séquentiel, le ralentissement du T2 au T3 selon TrendForce et un PER 2026E d'environ 6,7x au cours de 296 000 KRW — ce billet minimise le verdict achat/vente et décompose les arguments et données des deux rapports."
+description: "Le même jour, Kiwoom abaisse l'objectif de Samsung à 390 000 KRW et KB le relève à 600 000. Ils semblent contradictoires, mais en chiffres ils ne se réfutent pas. Kiwoom parle du ralentissement du TAUX de croissance du bénéfice (dérivée seconde) ; KB parle du NIVEAU absolu. Les deux sont vrais. Tout dépend de l'ajustement de la provision — sur la provision d'intéressement incluse dans le RO publié du T2 de 89,4 Bn, seuls ~5 Bn KRW sont réellement non récurrents (un rattrapage rétroactif du T1 ; la provision revient aussi au T3), et en ne normalisant que cela, le séquentiel du T3 avoisine +16–19 %, pas +26 % ni +4,7 %. Le ralentissement du T2 au T3 selon TrendForce et un PER 2026E d'environ 6,7x au cours de 296 000 KRW — ce billet minimise le verdict achat/vente et décompose les arguments et données des deux rapports."
 categories: ["Sector-Deep-Dive", "한국 시장"]
 tags:
   - "Samsung Electronics"
@@ -28,7 +28,7 @@ tags:
 ## TL;DR
 
 * **Kiwoom porte sur le ralentissement du taux de croissance (dG/dt, la dérivée seconde) ; KB porte sur le niveau absolu du bénéfice.** Ils coexistent mathématiquement et, dans les chiffres fournis, les deux sont vrais. Les présenter comme des « rapports opposés » est une erreur de cadrage.
-* **Un chiffre clé.** L'écart entre le RO ajusté du T2 de KB (107 Bn) et le RO publié (89,4 Bn) ≈ une **provision non récurrente de 17,6 Bn KRW**. Retirez cette distorsion de base et le titre « T3 +26 % » tombe à environ **+4,7 %** en base propre. Le « ralentissement » verbal de Kiwoom est déjà dans les propres chiffres de KB.
+* **Tout dépend de l'ajustement de la provision.** La provision d'intéressement incluse dans le RO publié du T2 de 89,4 Bn totalise environ 17,6 Bn, mais la part réellement **non récurrente** n'est que le rattrapage rétroactif de **\~5 Bn** du T1 sous-provisionné (le reste revient chaque trimestre, T3 compris). Ne normalisez que ces 5 Bn et le séquentiel du T3 n'est ni le titre +26 % ni le +4,7 % obtenu en retirant toute la provision, mais **\~+16–19 %**. L'accélération de la croissance se modère (sens de Kiwoom) mais ne s'effondre pas (le niveau de KB tient).
 * **Le marché a déjà répondu.** Juste après un trimestre record, l'action a chuté fortement et un coupe-circuit s'est déclenché. Ce que le marché a valorisé n'est pas un effondrement de la demande, mais un **pic du taux de croissance + un positionnement extrême**.
 
 ---
@@ -49,26 +49,27 @@ Un fait saute aux yeux. **Leurs estimations de RO au T3 sont essentiellement ide
 
 Ce que KB ajoute au-dessus du niveau de bénéfice, c'est un ensemble d'options : l'ampleur de l'investissement mondial en IA (\~800 Md USD cette année → 1,1 Bn l'an prochain → 1,5 Bn en 2028), une pénurie jusqu'au 1S 2028, les négociations de prix HBM 2027, rachats/annulations et dividendes exceptionnels, d'éventuels nouveaux contrats de fonderie, et une revue de cotation ADR. Beaucoup restent des **options d'événement ou des estimations**, à distinguer des faits confirmés.
 
-## 2. Niveau vs taux de croissance — en chiffres, les deux tiennent
+## 2. Niveau vs taux de croissance — tout dépend de la façon d'ajuster la provision
 
-Une action négocie le taux de variation du bénéfice, pas le niveau. Ainsi « bénéfice record (niveau) » et « pic de l'accélération de la croissance (taux) » peuvent tenir en même temps. Utiliser les propres chiffres de KB rend cette coexistence limpide.
+Une action négocie le taux de variation du bénéfice, pas le niveau. Ainsi « bénéfice record (niveau) » et « un ralentissement de l'accélération de la croissance (taux) » peuvent tenir en même temps. Mais il y a un piège courant quand on veut le montrer en chiffres : **la façon d'ajuster la provision d'intéressement.**
 
-D'abord, retirez le non-récurrent. En base KB, le RO ajusté (propre) du T2 est de **107 Bn** et le RO publié (avec la provision d'intéressement) de **89,4 Bn**. L'écart est la charge non récurrente logée dans le trimestre.
+En base KB, le RO ajusté (hors provision d'intéressement) du T2 est de **107 Bn** et le RO publié (avec la provision) de **89,4 Bn**. L'écart d'environ **17,6 Bn** est la provision d'intéressement totale comptabilisée au T2.
 
-* **Provision non récurrente T2 ≈ 107 − 89,4 = \~17,6 Bn KRW**
+Voici la correction clé. **Il ne faut pas retirer ces 17,6 Bn entiers comme « non récurrents ».** La provision d'intéressement est liée au bénéfice et comptabilisée chaque trimestre — **les résultats du T3 porteront aussi une provision.** La part réellement non récurrente du T2 est le rattrapage rétroactif : l'intéressement sous-provisionné au T1 par rapport à son bénéfice, comptabilisé tardivement au T2. Ce rattrapage est estimé à environ **5 Bn KRW, en proportion du RO du T1 (\~57 Bn)** (les 89,4 Bn du T2 ≈ +56 % sur le T1).
 
-Relisez maintenant la trajectoire trimestrielle en base **propre contre propre**.
+Donc, pour normaliser la base, on ne réintègre que ce **non-récurrent \~5 Bn**, pas 17,6 Bn — en laissant en place la provision normale de chaque trimestre.
 
-* **T3 propre séquentiel ≈ 112 ÷ 107 = +4,7 %**
-* **T4 propre séquentiel ≈ 124 ÷ 112 = +10,7 %**
+* **RO normalisé T2 ≈ 89,4 + 5 = \~94 Bn**
+* **RO estimé T3 ≈ 110–112 Bn** (cela inclut aussi une provision normale)
+* **Séquentiel T3 normalisé ≈ 112 ÷ 94 ≈ +18 %** (environ +16 % sur 110) → **\~+16–19 %**
 
-Le titre « RO T3 +26 % » utilise comme dénominateur le rapport T2 déprimé par la provision (89,4) — une **illusion de base**. Retirez la provision et l'élan séquentiel réel du T3 tombe à environ **+5 %**. En résumé :
+Alignez les trois chiffres et l'illusion apparaît :
 
-* **Le niveau de bénéfice est un record** — l'observation de KB tient.
-* **L'accélération de la croissance trimestrielle ralentit fortement au T3** — l'observation de Kiwoom tient.
-* Et le séquencement (ralentissement T3 → ré-accélération T4) est la vraie histoire.
+* **Titre « T3 +26 % »** — utilise le rapport T2 déprimé par la provision (89,4) comme dénominateur, surestimant l'accélération.
+* **+4,7 % si l'on retire les 17,6 Bn entiers** — une comparaison asymétrique qui retire la provision du T2 mais laisse celle du T3, sous-estimant au contraire la croissance.
+* **\~+16–19 % après n'avoir normalisé que le non-récurrent (\~5 Bn)** — c'est le plus proche de la réalité.
 
-Les deux rapports ne sont pas contradictoires ; ils **regardent des dérivées différentes (niveau vs taux de variation) de la même courbe de bénéfice.**
+En résumé : **le niveau de bénéfice est un record (KB a raison).** L'accélération de la croissance se modère bien depuis le rythme extrême du T2 (le sens de Kiwoom est correct). Mais cette modération n'est pas une falaise au T3 ; c'est une **courbe graduelle** — T2 (envolée) → T3 (\~+16–19 %) → T4 (124 ÷ 112 ≈ +10,7 %). Les deux rapports ne sont pas contradictoires ; ils **regardent des dérivées différentes (niveau vs taux de variation) de la même courbe de bénéfice**, et le ralentissement est bien plus doux que ne le suggère un calcul « retirer toute la provision ».
 
 ## 3. Les données que le marché a imprimées le 7 juillet
 
@@ -89,7 +90,7 @@ La base de données sectorielle du dossier Kiwoom est le **ralentissement de la 
 | T2 (séq.) | **+58\~63 %** | **+70\~75 %** |
 | T3 (séq.) | **+13\~18 %** | **+10\~15 %** |
 
-Les prix **montent donc encore au T3** — mais la pente baisse fortement, du bond du T2 à une fourchette d'une dizaine de pour cent. La phrase de Kiwoom selon laquelle « la croissance des prix au 2S dépassera difficilement à nouveau les attentes d'une large marge » doit se lire non comme une fin de cycle, mais comme un **rétrécissement de la surprise**. Cette donnée s'aligne sur le ralentissement séquentiel propre (+4,7 %) de la Section 2.
+Les prix **montent donc encore au T3** — mais la pente baisse fortement, du bond du T2 à une fourchette d'une dizaine de pour cent. La phrase de Kiwoom selon laquelle « la croissance des prix au 2S dépassera difficilement à nouveau les attentes d'une large marge » doit se lire non comme une fin de cycle, mais comme un **rétrécissement de la surprise**. Cette donnée s'aligne, en direction, sur la modération graduelle du taux de croissance de la Section 2 (T3 \~+16–19 %).
 
 ## 5. La valorisation est une question de PER, pas de BPA
 
@@ -140,8 +141,8 @@ La nature du débat n'est pas un choc haussier-baissier mais une **illusion de l
 * BPA 2026E vérifiable : Kiwoom 43 429 / KB 44 379 ; clôture précédente 296 000.
 
 ### [Inference]
-* T2 ajusté 107 − publié 89,4 ≈ provision non récurrente 17,6 ; en la retirant → T3 propre séq. ≈ +4,7 %, T4 ≈ +10,7 %.
-* Le titre « T3 +26 % » est une illusion de base déprimée par la provision ; le dossier de ralentissement de Kiwoom est incorporé dans les chiffres de KB.
+* La provision d'intéressement dans le T2 publié 89,4 totalise ≈17,6, mais seuls \~5 sont réellement non récurrents (un rattrapage rétroactif du T1, en proportion du RO T1 \~57). Comme une provision revient aussi au T3, retirer les 17,6 entiers est une comparaison asymétrique. En ne normalisant que le non-récurrent \~5, la base T2 ≈94 et le séquentiel T3 ≈ +16–19 % (titre +26 % ; +4,7 % si tout est retiré), T4 ≈ +10,7 %.
+* L'accélération de la croissance se modère graduellement : T2 (envolée) → T3 (+16–19 %) → T4 (+10,7 %). Le dossier de ralentissement de Kiwoom est correct en direction mais plus doux que l'illusion d'un retrait total de la provision.
 * Le vrai axe est le PER, pas le BPA (aujourd'hui \~6,7x → 390k ≈ 8,9x, 600k ≈ 13,6x sur 2026E / 10,3x sur 2027E).
 * La demande de mémoire bifurque en grand public (élastique) et IA (inélastique) ; une coupe de volume grand public peut être compensée si le mix IA améliore les marges mélangées.
 * La chute du 7 juillet se lit comme un pic du taux de croissance + un débouclage de positionnement extrême (étranger au plus bas de 17 ans, marge des particuliers au sommet), non un effondrement de la demande.
