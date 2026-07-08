@@ -5,7 +5,7 @@ date: 2026-05-03T11:00:00+09:00
 aliases: ["/korea-daily/", "/kospi/", "/kosdaq/", "/en/korea-daily/", "/en/page/korea-daily-market-hub/", "/es/page/korea-daily-market-hub/", "/vi/page/korea-daily-market-hub/", "/fr/page/korea-daily-market-hub/", "/ja/page/korea-daily-market-hub/", "/zh/page/korea-daily-market-hub/"]
 layout: "page"
 description: "A hub for Korean stock market daily updates — KOSPI and KOSDAQ market closes, weekly concentrated picks, foreign-investor flows, sector rotation, and what's actually moving in Korean equities each session. Direct answers to 'What is the Korean stock market doing today?' and similar queries."
-lastmod: 2026-07-08T00:12:58+09:00
+lastmod: 2026-07-09T00:15:35+09:00
 ---
 
 ## What This Hub Answers
@@ -14,7 +14,7 @@ Direct, search-engine-friendly answers to the questions global investors ask abo
 
 | Search Question | Quick Answer | Read |
 |---|---|---|
-| What is the Korean stock market doing today? | The most recent Korea Daily Wrap covers the day's regime, sector rotation, foreign flows, and key disclosures. | [Latest Korea Daily Wrap](/post/kr-daily-wrap-2026-07-07/) |
+| What is the Korean stock market doing today? | The most recent Korea Daily Wrap covers the day's regime, sector rotation, foreign flows, and key disclosures. | [Latest Korea Daily Wrap](/post/kr-daily-wrap-2026-07-08/) |
 | What really defined Korean and U.S. equities in H1 2026? | Korea was a KOSPI mega-cap concentration market, while the U.S. saw AI bottlenecks broaden into memory, storage, servers, equipment and power. Neither was a broad bull market; Korea's median stock was still down -12.6%. | [H1 2026 Review](/post/h1-2026-ai-infra-bottleneck-korea-narrow-market-postmortem-2026-06-30/) |
 | Is KOSPI's +28.6% 60-day disparity a top signal? | It is an overheat signal, but not a top call. Since 2025, disparity-overheat signals still produced positive average forward returns; what rises meaningfully above +20% 60-day disparity is the probability of a -5% pullback within 10 sessions. Use it to reduce chase intensity and partially reclaim risk budget, not to mechanically exit the market. | [KOSPI 60-Day Disparity At +28.6%](/post/kospi-disparity60-overheat-framework-partial-trim-2026-06-21/) |
 | What changed after the Warsh Fed's June FOMC? | The key change is less forward guidance and a weaker Fed put, not an immediate rate-hike declaration. This is an expensive-money regime: capital still flows, but more selectively toward AI infrastructure, power, defense, energy, physical bottlenecks and proven cash flow. | [The Era of Expensive Money](/post/warsh-fed-expensive-money-era-forward-guidance-ai-infra-2026-06-19/) |
@@ -65,7 +65,7 @@ Sequential reading for someone new to Korean equities — what to read in order 
 | Step | Question | Read |
 |---:|---|---|
 | 1 | Why is Korea outperforming in 2026? | [Korea Outperformance 2026: The Structural Re-Rating Backdrop](/post/korea-outperformance-2026-structural-rerating-2026-04-24/) |
-| 2 | What's actually driving the daily tape? | [Latest Korea Daily Wrap](/post/kr-daily-wrap-2026-07-07/) |
+| 2 | What's actually driving the daily tape? | [Latest Korea Daily Wrap](/post/kr-daily-wrap-2026-07-08/) |
 | 3 | Where is the high-conviction concentrated alpha? | [Latest Weekly Concentrated Strategy](/post/kr-concentrated-weekly-2026-04-24/) |
 | 4 | What's the deeper story on the largest names? | [Samsung Electronics Deep Dive](/post/kr-deep-dive-samsung-electronics-2026-04-16/) · [SK hynix Deep Dive](/post/kr-deep-dive-sk-hynix-2026-04-16/) |
 | 5 | Where are the un-priced KOSDAQ corners? | [KOSDAQ Coverage Gaps & Variant Perception](/post/kosdaq-coverage-gaps-variant-perception-2026-04-23/) |
@@ -107,13 +107,13 @@ Sequential reading for someone new to Korean equities — what to read in order 
 
 | Date | Theme | Read |
 |---|---|---|
+| 2026-07-08 | Korea Quality Re-Rating Watch 2026-07-08: Kolmar Korea, Seegene & APR | [Korea Daily Wrap 2026-07-08](/post/kr-daily-wrap-2026-07-08/) |
 | 2026-07-07 | Korea Quality Re-Rating Watch Jul 7: Kolmar, APR & Seegene | [Korea Daily Wrap 2026-07-07](/post/kr-daily-wrap-2026-07-07/) |
 | 2026-07-06 | Korea Quality Re-Rating Watch 2026-07-06: Kolmar, Gigavis, Jeju Semi | [Korea Daily Wrap 2026-07-06](/post/kr-daily-wrap-2026-07-06/) |
 | 2026-07-03 | Korea Quality Re-Rating Watch Jul 3: Kolmar, Gigabis & Orion | [Korea Daily Wrap 2026-07-03](/post/kr-daily-wrap-2026-07-03/) |
 | 2026-07-02 | Korea Quality Re-Rating Watch 2026-07-02: Chips Sell, Quality Holds | [Korea Daily Wrap 2026-07-02](/post/kr-daily-wrap-2026-07-02/) |
 | 2026-07-01 | Korea Quality Re-Rating Watch 2026-07-01: ISU Petasys & Hyosung Heavy | [Korea Daily Wrap 2026-07-01](/post/kr-daily-wrap-2026-07-01/) |
 | 2026-06-30 | Korea Quality Re-Rating Watch 2026-06-30: Daeduck, Kolmar & Mirae — AI Memory Cycle | [Korea Daily Wrap 2026-06-30](/post/kr-daily-wrap-2026-06-30/) |
-| 2026-06-29 | Korea Quality Re-Rating Watch: Gigavis, Mirae Industry, VM | [Korea Daily Wrap 2026-06-29](/post/kr-daily-wrap-2026-06-29/) |
 
 For older daily wraps, see [Archives](/page/archives).
 
