@@ -5,7 +5,7 @@ date: 2026-06-13T19:35:00+09:00
 aliases: ["/ja/exclusive-analysis/", "/ja/page/exclusive-analysis-hub/"]
 layout: "page"
 description: "Korea Invest Insightsの独自分析ハブ。内部データ、ETF構成銘柄スキャン、Real Moneyフロー、流動性、ADR、相対強度を扱う。"
-lastmod: 2026-07-09T09:40:00+09:00
+lastmod: 2026-07-09T14:40:00+09:00
 ---
 
 ## 目的
@@ -14,6 +14,7 @@ lastmod: 2026-07-09T09:40:00+09:00
 
 | 日付 | テーマ | 記事 |
 |---|---|---|
+| 2026-07-09 | SamsungとSK Hynixの2028E利益評価 | [MarketScreenerでは4.1倍と4.4倍の2028E PERで安く見えるが、供給、HBM契約、過去サイクルを入れると上昇余地は+36~81%と+23~64%に縮む](/ja/post/samsung-hynix-2028e-profit-valuation-cycle-scenarios-2026-07-09/) |
 | 2026-07-09 | AIトークン価値とメモリ付加価値 | [AIトークン1ドルの価値はモデルとアプリに多く残るが、メモリ株はHBM4価格、ASP、中期純利益100兆から140兆ウォンを証明する必要がある](/ja/post/ai-token-value-memory-value-added-2026-07-09/) |
 | 2026-07-08 | Samsung 2Q26のシグナルとノイズ | [89.4兆ウォンの営業利益は投資論拠を強めるが、外国人売り、金利、ASML、TSMCを確認するまで追加買いは待つ局面](/ja/post/samsung-record-quarter-profit-signals-noise-2026-07-08/) |
 | 2026-07-04 | ドゥコバニとWestinghouse合意 | [受注リスクは下がったが、Westinghouseへの支払い、現地化、固定価格・工程リスク、実際のマージン確認が次の焦点](/ja/post/dukovany-westinghouse-ip-settlement-korea-nuclear-margin-risk-2026-07-04/) |
@@ -34,6 +35,7 @@ lastmod: 2026-07-09T09:40:00+09:00
 
 ## 相対バリュエーションとサイクルの見方
 
+- [SamsungとSK Hynixの2028E利益バリュエーション: 安く見える数字とサイクル検証](/ja/post/samsung-hynix-2028e-profit-valuation-cycle-scenarios-2026-07-09/)
 - [AIトークン価値の現在と未来: メモリ企業の付加価値分析](/ja/post/ai-token-value-memory-value-added-2026-07-09/)
 - [Samsung 2Q26のシグナルとノイズ: 記録的な営業利益の後に確認すべきこと](/ja/post/samsung-record-quarter-profit-signals-noise-2026-07-08/)
 - [SK Square投資メモ: SK HynixのキャッシュフローはいつSK Squareの現金になるのか](/ja/post/sk-square-hynix-cash-flow-nav-discount-listed-ai-semi-allocator-2026-07-04/)

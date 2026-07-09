@@ -5,7 +5,7 @@ date: 2026-06-13T19:35:00+09:00
 aliases: ["/ko/exclusive-analysis/", "/ko/page/exclusive-analysis-hub/"]
 layout: "page"
 description: "Korea Invest Insights의 자체 데이터 분석 허브. 자체 계산 데이터셋, Naver ETF 구성 전수 스캔, Real Money 수급, ETF 리밸런싱, 브레드스와 유동성 프레임워크 등 공개 기사 요약이 아니라 직접 계산한 분석 글을 모은다."
-lastmod: 2026-07-09T09:40:00+09:00
+lastmod: 2026-07-09T14:40:00+09:00
 ---
 
 ## 이 허브의 목적
@@ -26,6 +26,7 @@ lastmod: 2026-07-09T09:40:00+09:00
 
 | 날짜 | 주제 | 핵심 결론 | 글 |
 |---|---|---|---|
+| 2026-07-09 | 삼성전자·SK하이닉스 2028E 이익 밸류에이션 | MarketScreener 2028E 순이익을 그대로 쓰면 삼성전자와 SK하이닉스는 각각 4.1배, 4.4배 2028E P/E에 거래되어 크게 싸 보인다. 그러나 공급, HBM LTA, 과거 감익률을 반영한 시나리오 가중값은 삼성전자 +36~81%, 하이닉스 +23~64%로 낮아진다. 핵심은 멀티플이 아니라 2028E가 정상 이익인지 피크 이익인지다. | [삼성전자·SK하이닉스 2028E 밸류에이션](/ko/post/samsung-hynix-2028e-profit-valuation-cycle-scenarios-2026-07-09/) |
 | 2026-07-09 | AI 토큰 가치와 메모리 부가가치 | AI 토큰 1달러의 현재 부가가치는 모델 사업자 45~55센트, 클라우드 10~16센트, GPU 약 13센트, 메모리 약 2.3센트로 나뉜다. 메모리는 AI 물리 병목이지만 토큰당 경제적 몫은 작기 때문에, 투자 판단의 핵심은 낮은 PER이 아니라 중기 순이익 100조~140조원을 정당화할 HBM4 계약 가격, ASP 유지력, 클라우드 backlog 전환이다. | [AI토큰 가치와 메모리 부가가치](/ko/post/ai-token-value-memory-value-added-2026-07-09/) |
 | 2026-07-08 | 삼성전자 2Q26 신호와 소음 | 삼성전자의 2Q26 잠정 영업이익 89.4조원, DRAM ASP +47%, NAND ASP +66%, legacy 메모리 가격 급등, 하이퍼스케일러 CapEx 확대는 투자 논거를 강화한다. 그러나 7월 7~8일 외국인 매도, 금리·환율 부담, ASML·TSMC high bar, 약한 시장 폭은 추가매수 타이밍을 훼손했다. 결론은 강한 보유, 추가매수 동결, ASML·TSMC·삼성전자 IR 확인 후 재판단이다. | [삼성전자 2Q26 신호와 소음](/ko/post/samsung-record-quarter-profit-signals-noise-2026-07-08/) |
 | 2026-07-08 | 삼성전자 실적 급락과 엔비디아 유사 분기 | 삼성전자 2Q26 잠정실적 뒤 이틀 누적 -12.7% 하락은 엔비디아 2024년 8월 sell-on보다 2026년 2월 Q4 FY26과 더 닮았다. 엔비디아의 큰 실적 후 급락 사례는 좋은 실적만으로 바로 회복되지 않았고, Fed 인하·관세 유예·GTC 1조달러 수요 발언처럼 하락 공포를 직접 없앤 촉매가 필요했다. 삼성전자의 다음 관문은 7월 말 빅테크 CapEx 가이던스다. | [삼성전자 실적 급락과 엔비디아 유사 분기](/ko/post/samsung-earnings-selloff-nvidia-q4fy26-rebound-trigger-2026-07-08/) |
@@ -99,6 +100,7 @@ lastmod: 2026-07-09T09:40:00+09:00
 
 ### 상대 밸류에이션과 사이클 프레임
 
+- [삼성전자·SK하이닉스 2028E 이익 밸류에이션: 싸 보이는 숫자와 사이클 검증](/ko/post/samsung-hynix-2028e-profit-valuation-cycle-scenarios-2026-07-09/)
 - [AI토큰 가치의 현재와 미래: 메모리 사업자의 부가가치와 중기 이익 조건](/ko/post/ai-token-value-memory-value-added-2026-07-09/)
 - [삼성전자 2Q26 신호와 소음: 세계 최대 규모급 분기 영업이익 뒤에 무엇을 확인해야 하나](/ko/post/samsung-record-quarter-profit-signals-noise-2026-07-08/)
 - [빅테크 자금조달 릴레이: AI CapEx는 줄지 않았고, 메모리 병목은 더 단단해졌다](/ko/post/hyperscaler-financing-race-ai-capex-memory-bottleneck-2026-07-07/)
