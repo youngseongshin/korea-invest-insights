@@ -5,7 +5,7 @@ date: 2026-06-13T19:35:00+09:00
 aliases: ["/exclusive-analysis/", "/page/exclusive-analysis-hub/"]
 layout: "page"
 description: "A hub for Korea Invest Insights proprietary analysis: internally constructed datasets, full ETF constituent scans, real-money flow frameworks, ETF rebalance proxies, breadth and liquidity screens, and original stock-selection work."
-lastmod: 2026-07-09T14:40:00+09:00
+lastmod: 2026-07-09T17:20:00+09:00
 ---
 
 ## Purpose
@@ -22,6 +22,7 @@ This hub collects Korea Invest Insights posts built from proprietary or internal
 
 | Date | Topic | Key takeaway | Post |
 |---|---|---|---|
+| 2026-07-09 | US-China agentic inference split and the SRAM opportunity | The US is combining HBM and SRAM/LPU to reduce token cost per watt, while China is working around leading-edge logic and HBM constraints through optical mesh and parallel scale-out. Korean listed-equity opportunities are cleaner in Samsung HBM4E/SRAM-LPU foundry, SK Hynix HBM4, HD Hyundai Electric power equipment and Hanmi packaging tools than in China optical modules. | [US-China inference infrastructure split](/post/us-china-agentic-inference-stack-sram-opportunity-2026-07-09/) |
 | 2026-07-09 | Samsung and SK Hynix 2028E profit valuation | On MarketScreener 2028E net income, Samsung and SK Hynix trade at about 4.1x and 4.4x 2028E P/E and look very cheap. But after supply, HBM LTA and historical drawdown scenarios, the probability-weighted upside narrows to +36-81% for Samsung and +23-64% for SK Hynix. The bottleneck is not the multiple, but whether 2028E is normalized or peak earnings. | [Samsung and SK Hynix 2028E valuation](/post/samsung-hynix-2028e-profit-valuation-cycle-scenarios-2026-07-09/) |
 | 2026-07-09 | AI token value and memory value added | One current AI token dollar splits roughly into 45-55 cents of model-layer value added, 10-16 cents for cloud, about 13 cents for GPUs and about 2.3 cents for memory. Memory is a real physical bottleneck, but its token-dollar value share is small. The key test is not low P/E, but whether HBM4 pricing, blended ASP and cloud backlog conversion can support KRW 100-140tn of mid-cycle net income. | [AI token value and memory value added](/post/ai-token-value-memory-value-added-2026-07-09/) |
 | 2026-07-08 | Samsung 2Q26 signals and noise | Samsung's provisional 2Q26 operating profit of KRW 89.4tn, DRAM ASP +47%, NAND ASP +66%, legacy-memory price spikes and hyperscaler capex strengthen the investment case. But July 7-8 foreign selling, rates and FX pressure, ASML/TSMC high-bar risk and weak market breadth argue against adding before the next proof points. | [Samsung 2Q26 signals and noise](/post/samsung-record-quarter-profit-signals-noise-2026-07-08/) |

@@ -5,7 +5,7 @@ date: 2026-06-13T19:35:00+09:00
 aliases: ["/zh/exclusive-analysis/", "/zh/page/exclusive-analysis-hub/"]
 layout: "page"
 description: "Korea Invest Insights的独家分析中心，涵盖内部数据、ETF成分扫描、Real Money资金流、流动性、ADR和相对强度。"
-lastmod: 2026-07-09T14:40:00+09:00
+lastmod: 2026-07-09T17:20:00+09:00
 ---
 
 ## 目的
@@ -14,6 +14,7 @@ lastmod: 2026-07-09T14:40:00+09:00
 
 | 日期 | 主题 | 文章 |
 |---|---|---|
+| 2026-07-09 | 中美智能体推理基础设施分化与SRAM机会 | [美国用HBM加SRAM/LPU降低每瓦token成本，中国用光互连和并行扩展绕开先进逻辑与HBM限制。韩国机会更集中在Samsung、SK Hynix、HD Hyundai Electric和Hanmi，而不是中国光模块](/zh/post/us-china-agentic-inference-stack-sram-opportunity-2026-07-09/) |
 | 2026-07-09 | 三星电子与SK海力士2028E利润估值 | [按MarketScreener看是4.1倍和4.4倍2028E市盈率，但纳入供给、HBM合同和周期后，上行空间降至+36~81%和+23~64%](/zh/post/samsung-hynix-2028e-profit-valuation-cycle-scenarios-2026-07-09/) |
 | 2026-07-09 | AI Token价值与存储附加值 | [一美元AI token的大部分价值仍留在模型和应用层，但存储股需要用HBM4价格、ASP和100万亿至140万亿韩元中周期净利润来证明估值](/zh/post/ai-token-value-memory-value-added-2026-07-09/) |
 | 2026-07-08 | Samsung 2Q26信号与噪音 | [89.4万亿韩元营业利润强化投资逻辑，但外资流向、利率、ASML和TSMC仍需确认后再加仓](/zh/post/samsung-record-quarter-profit-signals-noise-2026-07-08/) |
@@ -35,6 +36,7 @@ lastmod: 2026-07-09T14:40:00+09:00
 
 ## 相对估值与周期框架
 
+- [中美智能体推理基础设施分化与SRAM机会](/zh/post/us-china-agentic-inference-stack-sram-opportunity-2026-07-09/)
 - [三星电子与SK海力士2028E利润估值：看似便宜的数字与周期检验](/zh/post/samsung-hynix-2028e-profit-valuation-cycle-scenarios-2026-07-09/)
 - [AI Token价值的现在与未来：存储厂商的附加值分析](/zh/post/ai-token-value-memory-value-added-2026-07-09/)
 - [Samsung 2Q26信号与噪音: 记录级营业利润之后要确认什么](/zh/post/samsung-record-quarter-profit-signals-noise-2026-07-08/)

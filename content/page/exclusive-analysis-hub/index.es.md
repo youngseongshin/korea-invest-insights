@@ -5,7 +5,7 @@ date: 2026-06-13T19:35:00+09:00
 aliases: ["/es/exclusive-analysis/", "/es/page/exclusive-analysis-hub/"]
 layout: "page"
 description: "Análisis propietario de Korea Invest Insights: datos internos, escaneos completos de ETF, flujos real money, liquidez, ADR y selección de acciones."
-lastmod: 2026-07-09T14:40:00+09:00
+lastmod: 2026-07-09T17:20:00+09:00
 ---
 
 ## Propósito
@@ -14,6 +14,7 @@ Este hub reúne análisis propios de Korea Invest Insights basados en datos cons
 
 | Fecha | Tema | Lectura |
 |---|---|---|
+| 2026-07-09 | Infraestructura de inferencia agente de EE. UU. y China | [EE. UU. combina HBM y SRAM/LPU para bajar el coste de token por vatio, mientras China rodea restricciones de lógica avanzada y HBM. La oportunidad coreana está más en Samsung, SK Hynix, HD Hyundai Electric y Hanmi que en módulos ópticos chinos](/es/post/us-china-agentic-inference-stack-sram-opportunity-2026-07-09/) |
 | 2026-07-09 | Samsung y SK Hynix con beneficios 2028E | [Con MarketScreener parecen baratas a 4,1x y 4,4x 2028E, pero al ponderar oferta, contratos HBM y ciclo, el potencial baja a +36~81% y +23~64%](/es/post/samsung-hynix-2028e-profit-valuation-cycle-scenarios-2026-07-09/) |
 | 2026-07-09 | Valor del token de IA y memoria | [Un dólar de token de IA deja mucho valor en modelos y aplicaciones, pero la memoria debe justificar su valoración con contratos HBM4, ASP y utilidad de ciclo medio de 100 a 140 billones de wones](/es/post/ai-token-value-memory-value-added-2026-07-09/) |
 | 2026-07-08 | Samsung 2T26: señales y ruido | [El beneficio operativo de 89,4 billones de won refuerza la tesis, pero los flujos extranjeros, las tasas, ASML y TSMC obligan a esperar antes de añadir](/es/post/samsung-record-quarter-profit-signals-noise-2026-07-08/) |
@@ -35,6 +36,7 @@ Este hub reúne análisis propios de Korea Invest Insights basados en datos cons
 
 ## Marcos de valoración relativa y ciclo
 
+- [La divergencia entre la infraestructura de inferencia agente en EE. UU. y China, y la oportunidad de SRAM](/es/post/us-china-agentic-inference-stack-sram-opportunity-2026-07-09/)
 - [Samsung y SK Hynix con beneficios 2028E: números baratos y prueba de ciclo](/es/post/samsung-hynix-2028e-profit-valuation-cycle-scenarios-2026-07-09/)
 - [El valor actual y futuro del token de IA: valor agregado de las empresas de memoria](/es/post/ai-token-value-memory-value-added-2026-07-09/)
 - [Samsung 2T26: señales y ruido tras un beneficio operativo de escala récord](/es/post/samsung-record-quarter-profit-signals-noise-2026-07-08/)

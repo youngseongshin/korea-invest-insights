@@ -5,7 +5,7 @@ date: 2026-04-30T23:05:00+09:00
 aliases: ["/ko/hbm/", "/ko/semiconductor/", "/ko/samsung-hynix/", "/ko/kospi-hbm/", "/ko/page/hbm/"]
 layout: "page"
 description: "AI HBM 허브. 삼성전자, SK하이닉스, HBM, AI 메모리, 코스피 지수 쏠림과 한국 반도체 투자 논거를 한곳에 모은 리서치 허브. HBM 시장점유율, 삼성전자 코스피 비중, KOSPI 리레이팅, AI 서버 수요를 순서대로 정리한다."
-lastmod: 2026-07-09T14:40:00+09:00
+lastmod: 2026-07-09T17:20:00+09:00
 ---
 
 ## 한 줄 결론
@@ -18,6 +18,7 @@ lastmod: 2026-07-09T14:40:00+09:00
 
 | 검색 질문 | 현재 답변 | 자세히 보기 |
 |---|---|---|
+| 미국과 중국의 에이전트 추론 인프라 분화는 한국 반도체에 무엇을 바꾸나 | 미국은 전력과 랙 밀도를 아끼기 위해 HBM과 SRAM/LPU를 묶어 토큰당 전력을 낮추고, 중국은 첨단 로직과 HBM 제약을 광메시와 병렬 확장으로 우회한다. 한국의 직접 기회는 중국 광모듈보다 미국형 병목에 팔리는 HBM, 전력장비, 고급 패키징, 삼성전자 SRAM/LPU 파운드리 옵션에 더 크다. | [미국과 중국의 AI 추론 인프라 분화](/ko/post/us-china-agentic-inference-stack-sram-opportunity-2026-07-09/) |
 | 삼성전자·SK하이닉스를 2028E 이익으로 보면 얼마나 싸 보이나 | MarketScreener 2028E 순이익 기준 삼성전자와 SK하이닉스는 각각 약 4.1배, 4.4배 2028E P/E에 거래되어 싸 보인다. 하지만 공급, HBM LTA, 과거 감익률을 반영한 시나리오 가중값은 삼성전자 +36~81%, 하이닉스 +23~64%로 낮아진다. 핵심은 2028E가 정상 이익인지 피크 이익인지다. | [삼성전자·SK하이닉스 2028E 밸류에이션](/ko/post/samsung-hynix-2028e-profit-valuation-cycle-scenarios-2026-07-09/) |
 | AI 토큰 1달러에서 메모리 사업자는 얼마를 가져가나 | 현재 토큰 1달러의 부가가치는 모델 사업자 45~55센트, 클라우드 10~16센트, GPU 약 13센트, 메모리 약 2.3센트로 나뉜다. 메모리는 AI 물리 병목이지만 경제적 몫은 작기 때문에, 핵심은 PER이 아니라 HBM4 계약 가격, ASP 유지력, 클라우드 backlog 전환, 중기 순이익 100조~140조원 가능성이다. | [AI토큰 가치와 메모리 부가가치](/ko/post/ai-token-value-memory-value-added-2026-07-09/) |
 | 삼성전자 2Q26 잠정실적 뒤 무엇이 신호이고 무엇이 소음인가 | 89.4조원 영업이익, DRAM ASP +47%, NAND ASP +66%, legacy 메모리 가격 급등, 하이퍼스케일러 CapEx 확대는 투자 논거를 강화한다. 반대로 외국인 매도, 높은 금리와 환율, ASML·TSMC high bar, 약한 시장 폭은 추가매수 타이밍을 훼손한다. 결론은 thesis 폐기가 아니라 강한 보유와 추가매수 동결이다. | [삼성전자 2Q26 신호와 소음](/ko/post/samsung-record-quarter-profit-signals-noise-2026-07-08/) |
@@ -87,6 +88,7 @@ lastmod: 2026-07-09T14:40:00+09:00
 
 | 날짜 | 주제 | 자세히 보기 |
 |---|---|---|
+| 2026-07-09 | <strong>미국과 중국의 에이전트 추론 인프라 분화</strong>: 미국은 전력·랙 밀도 제약 때문에 HBM과 SRAM/LPU를 묶은 토큰당 전력 최적화로 가고, 중국은 첨단 로직·HBM 제약을 광메시와 병렬 확장으로 우회한다. 한국 landing은 중국 광모듈보다 삼성전자 HBM4E·SRAM/LPU 파운드리, SK하이닉스 HBM4, HD현대일렉트릭 전력장비, 한미반도체 패키징 장비에 더 가깝다는 결론 | [미국과 중국의 AI 추론 인프라 분화](/ko/post/us-china-agentic-inference-stack-sram-opportunity-2026-07-09/) |
 | 2026-07-09 | <strong>삼성전자·SK하이닉스 2028E 이익 밸류에이션</strong>: MarketScreener 2028E 순이익 점추정과 공급, HBM LTA, 과거 감익률 기반 시나리오를 나란히 비교. 숫자만 보면 두 종목 모두 싸지만, 2028E가 정상 이익인지 피크 이익인지가 핵심이며, 상대 비대칭은 삼성전자가 조금 더 낫다는 결론 | [삼성전자·SK하이닉스 2028E 밸류에이션](/ko/post/samsung-hynix-2028e-profit-valuation-cycle-scenarios-2026-07-09/) |
 | 2026-07-09 | <strong>AI 토큰 가치와 메모리 부가가치</strong>: AI 토큰 1달러의 현재 부가가치를 모델 사업자, 클라우드, GPU, 메모리, 파운드리, 전력, 애플리케이션으로 분해. 메모리는 HBM 병목이지만 토큰당 경제적 몫은 작기 때문에, 낮은 PER보다 HBM4 계약 프리미엄과 중기 순이익 100조~140조원 검증이 더 중요하다는 결론 | [AI토큰 가치와 메모리 부가가치](/ko/post/ai-token-value-memory-value-added-2026-07-09/) |
 | 2026-07-04 | <strong>SK하이닉스 ADR 가격 전이와 레버리지 ETF 배관</strong> — SKHY ADR을 단순 상장 호재가 아니라 000660 원주 가격, ADR-원주 차익거래, 미국장 가격 발견, 국내 단일종목 2배 ETF 리밸런싱이 만나는 수급 배관으로 분석. 결론은 중장기 접근성 확대는 긍정적이나 단기에는 공모가와 첫 주 프리미엄·디스카운트 확인이 먼저 | [SK하이닉스 ADR 가격 전이](/ko/post/sk-hynix-adr-000660-price-path-leverage-etf-plumbing-2026-07-04/) |

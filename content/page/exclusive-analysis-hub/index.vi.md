@@ -5,7 +5,7 @@ date: 2026-06-13T19:35:00+09:00
 aliases: ["/vi/exclusive-analysis/", "/vi/page/exclusive-analysis-hub/"]
 layout: "page"
 description: "Tổng hợp các phân tích độc quyền của Korea Invest Insights dựa trên dữ liệu nội bộ, ETF scan, real-money flow, ADR và thanh khoản."
-lastmod: 2026-07-09T14:40:00+09:00
+lastmod: 2026-07-09T17:20:00+09:00
 ---
 
 ## Mục đích
@@ -14,6 +14,7 @@ Hub này tập hợp các bài phân tích tự xây dựng dữ liệu: thành 
 
 | Ngày | Chủ đề | Bài viết |
 |---|---|---|
+| 2026-07-09 | Hạ tầng suy luận AI tác tử của Mỹ và Trung Quốc | [Mỹ kết hợp HBM với SRAM/LPU để giảm chi phí token trên mỗi watt, còn Trung Quốc né giới hạn logic tiên tiến và HBM. Cơ hội Hàn Quốc rõ hơn ở Samsung, SK Hynix, HD Hyundai Electric và Hanmi hơn là module quang Trung Quốc](/vi/post/us-china-agentic-inference-stack-sram-opportunity-2026-07-09/) |
 | 2026-07-09 | Định giá Samsung và SK Hynix bằng lợi nhuận 2028E | [Nếu dùng MarketScreener, hai cổ phiếu có vẻ rẻ ở 4,1x và 4,4x 2028E, nhưng khi thêm nguồn cung, hợp đồng HBM và xác suất chu kỳ, tiềm năng giảm còn +36~81% và +23~64%](/vi/post/samsung-hynix-2028e-profit-valuation-cycle-scenarios-2026-07-09/) |
 | 2026-07-09 | Giá trị token AI và giá trị gia tăng của bộ nhớ | [Một đô la token AI vẫn để lại nhiều giá trị ở mô hình và ứng dụng, nhưng cổ phiếu bộ nhớ cần chứng minh giá HBM4, ASP và lợi nhuận giữa chu kỳ 100 đến 140 nghìn tỷ won](/vi/post/ai-token-value-memory-value-added-2026-07-09/) |
 | 2026-07-08 | Samsung 2Q26: tín hiệu và nhiễu | [Lợi nhuận hoạt động 89,4 nghìn tỷ won củng cố luận điểm, nhưng dòng vốn ngoại, lãi suất, ASML và TSMC khiến việc mua thêm cần chờ xác nhận](/vi/post/samsung-record-quarter-profit-signals-noise-2026-07-08/) |
@@ -35,6 +36,7 @@ Hub này tập hợp các bài phân tích tự xây dựng dữ liệu: thành 
 
 ## Khung định giá tương đối và chu kỳ
 
+- [Hạ tầng suy luận AI tác tử của Mỹ và Trung Quốc đang tách hướng, cơ hội của SRAM nằm ở đâu](/vi/post/us-china-agentic-inference-stack-sram-opportunity-2026-07-09/)
 - [Định giá Samsung và SK Hynix theo lợi nhuận 2028E: con số rẻ và bài kiểm tra chu kỳ](/vi/post/samsung-hynix-2028e-profit-valuation-cycle-scenarios-2026-07-09/)
 - [Giá trị hiện tại và tương lai của token AI: giá trị gia tăng của doanh nghiệp bộ nhớ](/vi/post/ai-token-value-memory-value-added-2026-07-09/)
 - [Samsung 2Q26: tín hiệu và nhiễu sau lợi nhuận hoạt động quy mô kỷ lục](/vi/post/samsung-record-quarter-profit-signals-noise-2026-07-08/)
