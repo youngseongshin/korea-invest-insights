@@ -5,7 +5,7 @@ date: 2026-06-13T19:35:00+09:00
 aliases: ["/exclusive-analysis/", "/page/exclusive-analysis-hub/"]
 layout: "page"
 description: "A hub for Korea Invest Insights proprietary analysis: internally constructed datasets, full ETF constituent scans, real-money flow frameworks, ETF rebalance proxies, breadth and liquidity screens, and original stock-selection work."
-lastmod: 2026-07-08T22:35:00+09:00
+lastmod: 2026-07-09T09:40:00+09:00
 ---
 
 ## Purpose
@@ -22,6 +22,7 @@ This hub collects Korea Invest Insights posts built from proprietary or internal
 
 | Date | Topic | Key takeaway | Post |
 |---|---|---|---|
+| 2026-07-09 | AI token value and memory value added | One current AI token dollar splits roughly into 45-55 cents of model-layer value added, 10-16 cents for cloud, about 13 cents for GPUs and about 2.3 cents for memory. Memory is a real physical bottleneck, but its token-dollar value share is small. The key test is not low P/E, but whether HBM4 pricing, blended ASP and cloud backlog conversion can support KRW 100-140tn of mid-cycle net income. | [AI token value and memory value added](/post/ai-token-value-memory-value-added-2026-07-09/) |
 | 2026-07-08 | Samsung 2Q26 signals and noise | Samsung's provisional 2Q26 operating profit of KRW 89.4tn, DRAM ASP +47%, NAND ASP +66%, legacy-memory price spikes and hyperscaler capex strengthen the investment case. But July 7-8 foreign selling, rates and FX pressure, ASML/TSMC high-bar risk and weak market breadth argue against adding before the next proof points. | [Samsung 2Q26 signals and noise](/post/samsung-record-quarter-profit-signals-noise-2026-07-08/) |
 | 2026-07-08 | Samsung selloff and the closest NVIDIA earnings analogue | Samsung's two-day post-print drawdown after 2Q26 looks less like NVIDIA's August 2024 one-day sell-on and more like NVIDIA Q4 FY26 in February 2026. NVIDIA's large post-earnings drawdowns did not recover on strong numbers alone. They needed a catalyst that killed the specific fear, such as a Fed cut, tariff pause or GTC 2026 $1T demand comment. For Samsung, the next proof point is late-July Big Tech CapEx guidance. | [Samsung earnings selloff and NVIDIA analogue](/post/samsung-earnings-selloff-nvidia-q4fy26-rebound-trigger-2026-07-08/) |
 | 2026-07-07 | Big Tech financing relay and the memory bottleneck | The Amazon, Meta and Alphabet bond/equity financing relay lowers the probability of an absolute 2026 AI capex cut. But hyperscaler equities also carry FCF, debt and dilution risk. The cleaner recipient is the memory/HBM bottleneck, with late-July calls needed to confirm the 2027 capex slope and continued absorption of memory-cost pressure. | [Big Tech financing relay](/post/hyperscaler-financing-race-ai-capex-memory-bottleneck-2026-07-07/) |
@@ -85,6 +86,7 @@ This hub collects Korea Invest Insights posts built from proprietary or internal
 
 ### Relative Valuation And Cycle Frames
 
+- [AI Token Value Today and Tomorrow: value added for memory companies](/post/ai-token-value-memory-value-added-2026-07-09/)
 - [Samsung 2Q26 signals and noise: what to confirm after the record-scale operating profit](/post/samsung-record-quarter-profit-signals-noise-2026-07-08/)
 - [The Big Tech financing relay: AI capex has not been cut, and the memory bottleneck looks stronger](/post/hyperscaler-financing-race-ai-capex-memory-bottleneck-2026-07-07/)
 - [SK Square Investment Memo: When Does SK Hynix Cash Flow Become SK Square Cash?](/post/sk-square-hynix-cash-flow-nav-discount-listed-ai-semi-allocator-2026-07-04/)

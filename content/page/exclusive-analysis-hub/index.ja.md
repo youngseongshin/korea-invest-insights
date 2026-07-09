@@ -5,7 +5,7 @@ date: 2026-06-13T19:35:00+09:00
 aliases: ["/ja/exclusive-analysis/", "/ja/page/exclusive-analysis-hub/"]
 layout: "page"
 description: "Korea Invest Insightsの独自分析ハブ。内部データ、ETF構成銘柄スキャン、Real Moneyフロー、流動性、ADR、相対強度を扱う。"
-lastmod: 2026-07-08T22:35:00+09:00
+lastmod: 2026-07-09T09:40:00+09:00
 ---
 
 ## 目的
@@ -14,6 +14,7 @@ lastmod: 2026-07-08T22:35:00+09:00
 
 | 日付 | テーマ | 記事 |
 |---|---|---|
+| 2026-07-09 | AIトークン価値とメモリ付加価値 | [AIトークン1ドルの価値はモデルとアプリに多く残るが、メモリ株はHBM4価格、ASP、中期純利益100兆から140兆ウォンを証明する必要がある](/ja/post/ai-token-value-memory-value-added-2026-07-09/) |
 | 2026-07-08 | Samsung 2Q26のシグナルとノイズ | [89.4兆ウォンの営業利益は投資論拠を強めるが、外国人売り、金利、ASML、TSMCを確認するまで追加買いは待つ局面](/ja/post/samsung-record-quarter-profit-signals-noise-2026-07-08/) |
 | 2026-07-04 | ドゥコバニとWestinghouse合意 | [受注リスクは下がったが、Westinghouseへの支払い、現地化、固定価格・工程リスク、実際のマージン確認が次の焦点](/ja/post/dukovany-westinghouse-ip-settlement-korea-nuclear-margin-risk-2026-07-04/) |
 | 2026-07-04 | SK SquareとSK Hynixキャッシュフロー転換 | [焦点はHynix利益そのものではなく、FCFが現金配当になりSK SquareのNAVディスカウントを縮小するか](/ja/post/sk-square-hynix-cash-flow-nav-discount-listed-ai-semi-allocator-2026-07-04/) |
@@ -33,6 +34,7 @@ lastmod: 2026-07-08T22:35:00+09:00
 
 ## 相対バリュエーションとサイクルの見方
 
+- [AIトークン価値の現在と未来: メモリ企業の付加価値分析](/ja/post/ai-token-value-memory-value-added-2026-07-09/)
 - [Samsung 2Q26のシグナルとノイズ: 記録的な営業利益の後に確認すべきこと](/ja/post/samsung-record-quarter-profit-signals-noise-2026-07-08/)
 - [SK Square投資メモ: SK HynixのキャッシュフローはいつSK Squareの現金になるのか](/ja/post/sk-square-hynix-cash-flow-nav-discount-listed-ai-semi-allocator-2026-07-04/)
 - [サムスン電子2Q26プレビュー: Micronサプライズは消え、焦点はCore OPへ](/ja/post/samsung-2q26-preview-micron-surprise-erased-core-op-hbm-2026-06-29/)

@@ -5,7 +5,7 @@ date: 2026-06-13T19:35:00+09:00
 aliases: ["/zh/exclusive-analysis/", "/zh/page/exclusive-analysis-hub/"]
 layout: "page"
 description: "Korea Invest Insights的独家分析中心，涵盖内部数据、ETF成分扫描、Real Money资金流、流动性、ADR和相对强度。"
-lastmod: 2026-07-08T22:35:00+09:00
+lastmod: 2026-07-09T09:40:00+09:00
 ---
 
 ## 目的
@@ -14,6 +14,7 @@ lastmod: 2026-07-08T22:35:00+09:00
 
 | 日期 | 主题 | 文章 |
 |---|---|---|
+| 2026-07-09 | AI Token价值与存储附加值 | [一美元AI token的大部分价值仍留在模型和应用层，但存储股需要用HBM4价格、ASP和100万亿至140万亿韩元中周期净利润来证明估值](/zh/post/ai-token-value-memory-value-added-2026-07-09/) |
 | 2026-07-08 | Samsung 2Q26信号与噪音 | [89.4万亿韩元营业利润强化投资逻辑，但外资流向、利率、ASML和TSMC仍需确认后再加仓](/zh/post/samsung-record-quarter-profit-signals-noise-2026-07-08/) |
 | 2026-07-04 | 杜科瓦尼与Westinghouse和解 | [合同风险下降，但下一步要看Westinghouse费用、本地化、固定价格和工期风险以及真实利润率](/zh/post/dukovany-westinghouse-ip-settlement-korea-nuclear-margin-risk-2026-07-04/) |
 | 2026-07-04 | SK Square与SK Hynix现金流转换 | [关键不是Hynix利润本身，而是FCF能否变成现金分红并压缩SK Square的NAV折价](/zh/post/sk-square-hynix-cash-flow-nav-discount-listed-ai-semi-allocator-2026-07-04/) |
@@ -33,6 +34,7 @@ lastmod: 2026-07-08T22:35:00+09:00
 
 ## 相对估值与周期框架
 
+- [AI Token价值的现在与未来：存储厂商的附加值分析](/zh/post/ai-token-value-memory-value-added-2026-07-09/)
 - [Samsung 2Q26信号与噪音: 记录级营业利润之后要确认什么](/zh/post/samsung-record-quarter-profit-signals-noise-2026-07-08/)
 - [SK Square投资备忘录：SK Hynix的现金流何时会变成SK Square的现金？](/zh/post/sk-square-hynix-cash-flow-nav-discount-listed-ai-semi-allocator-2026-07-04/)
 - [三星电子2Q26预览：美光惊喜已被价格抹去，关键是Core OP](/zh/post/samsung-2q26-preview-micron-surprise-erased-core-op-hbm-2026-06-29/)
