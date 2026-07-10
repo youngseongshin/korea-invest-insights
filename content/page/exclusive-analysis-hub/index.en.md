@@ -5,7 +5,7 @@ date: 2026-06-13T19:35:00+09:00
 aliases: ["/exclusive-analysis/", "/page/exclusive-analysis-hub/"]
 layout: "page"
 description: "A hub for Korea Invest Insights proprietary analysis: internally constructed datasets, full ETF constituent scans, real-money flow frameworks, ETF rebalance proxies, breadth and liquidity screens, and original stock-selection work."
-lastmod: 2026-07-09T17:20:00+09:00
+lastmod: 2026-07-10T11:00:00+09:00
 ---
 
 ## Purpose
@@ -22,6 +22,7 @@ This hub collects Korea Invest Insights posts built from proprietary or internal
 
 | Date | Topic | Key takeaway | Post |
 |---|---|---|---|
+| 2026-07-10 | Reverse-engineering the 2027 consensus dispersion: the worst case is already the price | Samsung at KRW 285,000 divided by the lowest 2027 EPS estimate of KRW 24,323 gives 11.72x; SK Hynix at KRW 2,180,000 over the lowest estimate of KRW 186,357 gives 11.70x. Both trade at the street's most bearish scenario times a normal mid-cycle multiple. The buy trigger is not "cheap versus the average" but two consecutive months of low-estimate upgrades plus high/low dispersion narrowing below 3x, judged against late-July big-tech 2027 CAPEX commentary and SK Hynix's Q2 LTA price-floor disclosure. | [The Worst Case Is Already the Price](/post/samsung-hynix-worst-case-eps-priced-in-consensus-dispersion-2026-07-10/) |
 | 2026-07-09 | US-China agentic inference split and the SRAM opportunity | The US is combining HBM and SRAM/LPU to reduce token cost per watt, while China is working around leading-edge logic and HBM constraints through optical mesh and parallel scale-out. Korean listed-equity opportunities are cleaner in Samsung HBM4E/SRAM-LPU foundry, SK Hynix HBM4, HD Hyundai Electric power equipment and Hanmi packaging tools than in China optical modules. | [US-China inference infrastructure split](/post/us-china-agentic-inference-stack-sram-opportunity-2026-07-09/) |
 | 2026-07-09 | Samsung and SK Hynix 2028E profit valuation | On MarketScreener 2028E net income, Samsung and SK Hynix trade at about 4.1x and 4.4x 2028E P/E and look very cheap. But after supply, HBM LTA and historical drawdown scenarios, the probability-weighted upside narrows to +36-81% for Samsung and +23-64% for SK Hynix. The bottleneck is not the multiple, but whether 2028E is normalized or peak earnings. | [Samsung and SK Hynix 2028E valuation](/post/samsung-hynix-2028e-profit-valuation-cycle-scenarios-2026-07-09/) |
 | 2026-07-09 | AI token value and memory value added | One current AI token dollar splits roughly into 45-55 cents of model-layer value added, 10-16 cents for cloud, about 13 cents for GPUs and about 2.3 cents for memory. Memory is a real physical bottleneck, but its token-dollar value share is small. The key test is not low P/E, but whether HBM4 pricing, blended ASP and cloud backlog conversion can support KRW 100-140tn of mid-cycle net income. | [AI token value and memory value added](/post/ai-token-value-memory-value-added-2026-07-09/) |
