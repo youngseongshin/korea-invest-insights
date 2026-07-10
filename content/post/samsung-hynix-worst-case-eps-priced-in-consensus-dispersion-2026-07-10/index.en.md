@@ -1,5 +1,5 @@
 ---
-title: "Is the Market Really Oversold Versus the 2027 Consensus? The Worst Case Is Already the Price"
+title: "Are Samsung Electronics and SK Hynix Really Oversold Versus the 2027 Consensus? The Worst Case Is Already the Price"
 slug: "samsung-hynix-worst-case-eps-priced-in-consensus-dispersion-2026-07-10"
 date: 2026-07-10T11:00:00+09:00
 description: "Reverse-engineering the 2027 EPS consensus dispersion for Samsung, SK Hynix, Micron and SanDisk shows the two Korean names trade at 11.7x the most bearish street estimate, not a discount to the average. The market has already adopted the worst case as its base case. The real question is whether that worst case gets rejected on paper within three weeks."

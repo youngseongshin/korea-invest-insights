@@ -1,5 +1,5 @@
 ---
-title: "Thị trường có thực sự bị bán quá mức so với đồng thuận 2027? Kịch bản xấu nhất đã nằm trong giá"
+title: "Samsung Electronics và SK Hynix có thực sự bị bán quá mức so với đồng thuận 2027? Kịch bản xấu nhất đã nằm trong giá"
 slug: "samsung-hynix-worst-case-eps-priced-in-consensus-dispersion-2026-07-10"
 date: 2026-07-10T11:00:00+09:00
 description: "Tính ngược từ độ phân tán đồng thuận EPS 2027 của Samsung, SK Hynix, Micron và SanDisk cho thấy hai cổ phiếu Hàn Quốc đang giao dịch ở mức 11,7 lần ước tính bi quan nhất. Thị trường đã lấy kịch bản xấu nhất làm kịch bản cơ sở."

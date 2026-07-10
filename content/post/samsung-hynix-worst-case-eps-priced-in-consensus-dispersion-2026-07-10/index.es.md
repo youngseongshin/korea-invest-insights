@@ -1,5 +1,5 @@
 ---
-title: "¿Está el mercado realmente sobrevendido frente al consenso de 2027? El peor escenario ya es el precio"
+title: "¿Están Samsung Electronics y SK Hynix realmente sobrevendidos frente al consenso de 2027? El peor escenario ya es el precio"
 slug: "samsung-hynix-worst-case-eps-priced-in-consensus-dispersion-2026-07-10"
 date: 2026-07-10T11:00:00+09:00
 description: "Al invertir el cálculo sobre la dispersión del consenso de BPA 2027 de Samsung, SK Hynix, Micron y SanDisk, los dos valores coreanos cotizan a 11,7 veces la estimación más pesimista de la calle. El mercado ya adoptó el peor escenario como caso base."

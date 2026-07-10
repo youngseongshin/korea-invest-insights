@@ -1,5 +1,5 @@
 ---
-title: "Le marché est-il vraiment survendu face au consensus 2027 ? Le pire scénario est déjà dans le prix"
+title: "Samsung Electronics et SK Hynix sont-ils vraiment survendus face au consensus 2027 ? Le pire scénario est déjà dans le prix"
 slug: "samsung-hynix-worst-case-eps-priced-in-consensus-dispersion-2026-07-10"
 date: 2026-07-10T11:00:00+09:00
 description: "En inversant le calcul sur la dispersion du consensus de BPA 2027 de Samsung, SK Hynix, Micron et SanDisk, les deux valeurs coréennes se traitent à 11,7 fois l'estimation la plus pessimiste. Le marché a déjà adopté le pire scénario comme scénario de base."
