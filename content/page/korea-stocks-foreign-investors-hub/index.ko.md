@@ -5,7 +5,7 @@ date: 2026-05-07T00:40:00+09:00
 aliases: ["/ko/korea-stocks/", "/ko/korean-stocks/", "/ko/ibkr-korea-stocks/", "/ko/foreign-investors-korea/", "/ko/page/korea-stocks-foreign-investors-hub/"]
 layout: "page"
 description: "해외 투자자를 위한 한국 주식 허브. IBKR·해외 증권사 한국 주식 접근, KOSPI, KOSDAQ, 삼성전자, SK하이닉스, 한국 금융주, AI 하드웨어, K-뷰티, 일간 시장 브리핑을 한곳에 정리한다."
-lastmod: 2026-06-18T22:40:00+09:00
+lastmod: 2026-07-12T09:10:00+09:00
 ---
 
 ## 한 줄 결론
@@ -40,6 +40,7 @@ lastmod: 2026-06-18T22:40:00+09:00
 | AI 데이터센터 CapEx 확대는 해외 투자자에게 어떤 한국 주식 지도를 만드나요? | Goldman 5.3조 달러 CapEx 프레임과 Alphabet 2026~2027년 기술 인프라 투자 확대는 한국에서 GPU보다 전력기기, 삼성전기, 고다층 PCB, 광통신, eSSD 병목으로 번역된다. | [AI 데이터센터 CapEx 5.3조 달러 시대](/ko/post/ai-datacenter-capex-5p3t-korea-power-substrate-storage-bottleneck-2026-06-05/) |
 | 해외 long-only가 실제로 볼 수 있는 한국 종목은 몇 개인가요? | 2026년 YTD 외국인 활동 proxy 기준 KOSPI는 168개, KOSDAQ은 355개가 실질 거래대상이다. MSCI DM 편입 수혜도 시장 전체보다 이 플레이북 종목으로 먼저 압축될 가능성이 높다. | [외국인 플레이북 KOSPI 168·KOSDAQ 355](/ko/post/korea-foreign-playbook-msci-dm-kospi-168-kosdaq-355-2026-05-31/) |
 | KOSPI와 KOSDAQ이 모두 오르는 장인가요? | 아니다. 2026년 6월 2일 기준 전체 20일 ADR은 48.4까지 내려왔다. 해외 투자자는 지수 방향보다 외국인 재배치 종목, ADR 회복, 주도주 눌림을 봐야 한다. | [유동성은 많은데 시장 폭은 무너졌다](/ko/post/korea-market-liquidity-foreign-reallocation-adr-narrow-leadership-2026-06-03/) · [한국 ADR 67과 좁은 주도주 장세](/ko/post/korea-adr-breadth-narrow-leadership-kospi-kosdaq-2026-05-27/) |
+| 반도체를 제외하면 KOSPI와 KOSDAQ의 시장 폭은 어떻게 다른가요? | 7월 10일 기준 코스피 비반도체의 YTD 플러스 비중은 63.2%지만 코스닥은 32.6%다. 코스닥 상위 10개의 상승폭은 더 컸지만 중간 종목은 -12.4%여서, 시장 전체 리레이팅보다 소수 종목·테마·이벤트 집중으로 봐야 한다. | [비반도체 320개 YTD 전수 분석](/ko/post/korea-nonsemiconductor-ytd-leaders-kospi-kosdaq-breadth-2026-07-10/) |
 | KOSDAQ은 무엇인가요? | 한국의 성장주·중소형주 시장이다. 바이오, 게임, AI 소프트웨어, 반도체 장비, 틈새 산업재 기업이 많이 상장돼 있다. | [KOSDAQ 커버리지 갭](/ko/post/kosdaq-coverage-gaps-variant-perception-2026-04-23/) |
 | 해외 투자자가 먼저 볼 한국 AI 주식은 무엇인가요? | 삼성전자, SK하이닉스, HBM 체인을 먼저 보고, 이후 AI 기판, CCL, FC-BGA, 저유전율 소재로 확장하는 순서가 자연스럽다. | [삼성전자·SK하이닉스·HBM 허브](/ko/page/korea-semiconductor-hbm-kospi-hub/) |
 | 중국·홍콩 AI 과열은 한국 AI 주식으로 전이될 수 있나요? | 상장 LLM pure-play가 없기 때문에 NAVER, LG CNS, 삼성SDS, SK텔레콤, SK네트웍스 같은 기존 상장사가 sovereign AI, AI cloud, AIDC/GPUaaS, 업스테이지 proxy로 재분류되는 방식이 더 현실적이다. | [중국과 홍콩의 AI 과열이 한국에 전이될 수 있을까](/ko/post/china-hong-kong-ai-overheat-korea-ai-cloud-llm-proxy-2026-05-31/) |
@@ -70,6 +71,7 @@ lastmod: 2026-06-18T22:40:00+09:00
 | 6 | 외국인 지분율상 매도 압력은 얼마나 남았나 | [KOSPI 외국인 지분율 vs 삼성전자·SK하이닉스](/ko/post/korea-foreign-ownership-kospi-samsung-hynix-divergence-2026-05-26/) |
 | 7 | 외국인 2.7조 순매수는 구조적 복귀인가, 숏커버인가 | [외국인은 돌아왔나](/ko/post/foreign-return-after-24-day-kospi-selling-memory-rebalance-2026-06-12/) |
 | 8 | 삼닉 쏠림이 계속될 때 3분기에 다시 볼 퀄리티 후보는 무엇인가 | [삼닉 쏠림과 3분기 퀄리티 후보 35개](/ko/post/samnik-crowding-q3-quality-watchlist-eps-up-price-lag-2026-06-11/) |
+| 8A | 반도체를 빼면 어떤 업종과 종목이 실제로 올랐나 | [비반도체 320개 YTD 전수 분석](/ko/post/korea-nonsemiconductor-ytd-leaders-kospi-kosdaq-breadth-2026-07-10/) |
 | 9 | 지수는 버티는데 평균 종목은 왜 약한가 | [유동성은 많은데 시장 폭은 무너졌다](/ko/post/korea-market-liquidity-foreign-reallocation-adr-narrow-leadership-2026-06-03/) |
 | 10 | 고용 쇼크 이후 한국장을 broad beta로 사도 되나 | [고용 쇼크와 KOSPI 8,000 관문](/ko/post/us-jobs-rate-hike-shock-kospi-macro-gate-2026-06-06/) |
 | 11 | 미국 5월 CPI에서 한국장에 중요한 Core MoM 임계값은 무엇인가 | [미국 5월 CPI 프리뷰](/ko/post/us-may-2026-cpi-preview-core-mom-trigger-korea-market-2026-06-06/) |

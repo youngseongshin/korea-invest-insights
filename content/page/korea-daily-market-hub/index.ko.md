@@ -5,7 +5,7 @@ date: 2026-05-03T11:00:00+09:00
 aliases: ["/ko/korea-daily/", "/ko/kospi/", "/ko/kosdaq/", "/ko/page/korea-daily-market-hub/"]
 layout: "page"
 description: "한국 주식시장 일일 업데이트 허브 — KOSPI / KOSDAQ 장마감 브리핑, 주간 집중 픽, 외국인·기관 수급, 섹터 로테이션, 그리고 매 세션 한국 주식에서 실제로 무엇이 움직이는지. '오늘 한국 주식시장은 어떤가요?' 같은 질문의 직접 답."
-lastmod: 2026-07-11T00:26:16+09:00
+lastmod: 2026-07-12T09:10:00+09:00
 ---
 
 ## 이 허브가 답하는 질문
@@ -15,6 +15,7 @@ lastmod: 2026-07-11T00:26:16+09:00
 | 검색 질문 | 빠른 답 | 읽을 글 |
 |---|---|---|
 | 오늘 한국 주식시장은 어떤가요? | 가장 최근 Korea Daily Wrap이 그날의 시장 국면, 섹터 로테이션, 외국인 수급, 핵심 공시를 정리합니다. | [최근 데일리 랩](/ko/post/kr-daily-wrap-2026-07-10/) |
+| 반도체를 빼면 2026년 한국 시장에서 무엇이 올랐나요? | 코스피에서는 전력망·건설·유통·금융·에너지로 초과수익 상위군이 확산됐지만, 코스닥 비반도체 138개의 YTD 중간값은 -12.4%에 그쳤다. YTD 승자와 최근 20거래일 주도주를 분리해야 한다. | [비반도체 320개 YTD 전수 분석](/ko/post/korea-nonsemiconductor-ytd-leaders-kospi-kosdaq-breadth-2026-07-10/) |
 | 2026년 상반기 한국·미국 증시의 진짜 특징은 무엇인가요? | 한국은 KOSPI 대형주 초쏠림, 미국은 AI 물리 병목 확산이었다. 다만 둘 다 광범위한 강세장이 아니었고, 한국은 전체 종목 중앙값이 -12.6%일 정도로 평균 종목 체감이 약했다. | [2026 상반기 복기](/ko/post/h1-2026-ai-infra-bottleneck-korea-narrow-market-postmortem-2026-06-30/) |
 | KOSPI 이격60 +28.6%는 고점 신호인가요? | 과열은 맞지만 천장 콜은 아니다. 2025년 이후 이격도 과열 신호 뒤의 평균 수익률은 오히려 플러스였고, 이격60 +20% 이상에서 높아진 것은 대세 하락 확률보다 10거래일 안 -5% 눌림 확률이다. 지금은 추격 강도를 낮추고 일부 리스크 예산을 회수하는 구간으로 봐야 한다. | [KOSPI 이격60 +28.6%](/ko/post/kospi-disparity60-overheat-framework-partial-trim-2026-06-21/) |
 | Rheinmetall-LIG 파트너십은 왜 중요한가요? | 유럽은 우크라이나 이후 드론·순항미사일·탄도미사일을 함께 막는 다층 방공망과 현지 생산능력을 다시 만들어야 한다. Rheinmetall 과반 JV와 LIG MRAD/LRAD 현지화 구조는 한국 방공 미사일을 유럽/NATO 조달 언어로 제안할 수 있는 통로를 공식화한 것이다. | [Rheinmetall과 LIG: 유럽/NATO 방공망 채널](/ko/post/rheinmetall-lig-europe-nato-air-defense-channel-2026-06-16/) |
@@ -149,6 +150,7 @@ lastmod: 2026-07-11T00:26:16+09:00
 | 테마 | 직답 링크 |
 |---|---|
 | 해외 투자자 접근 / IBKR / KRX 기본 지도 | [해외 투자자용 한국 주식 허브](/ko/page/korea-stocks-foreign-investors-hub/) |
+| 반도체 제외 KOSPI·KOSDAQ YTD / 시장 폭 / 현재 주도주 | [비반도체 320개 YTD 전수 분석](/ko/post/korea-nonsemiconductor-ytd-leaders-kospi-kosdaq-breadth-2026-07-10/) |
 | 6월 이벤트 클러스터 / 금리·유가·AI 스트레스 테스트 | [6월 집중 이벤트 중간 복기](/ko/post/june-event-cluster-midpoint-review-rates-oil-ai-stress-test-2026-06-13/) |
 | 6월 후반 이벤트 / PCE·GDP·Russell / 한국 AI 메모리 진입 조건 | [6월 후반 이벤트 지도](/ko/post/june-second-half-event-map-central-bank-put-korea-ai-memory-2026-06-19/) |
 | 외국인 복귀 / 메모리 대형주 리밸런싱 | [외국인은 돌아왔나: 2.7조 순매수는 아직 3.6% 되돌림](/ko/post/foreign-return-after-24-day-kospi-selling-memory-rebalance-2026-06-12/) |

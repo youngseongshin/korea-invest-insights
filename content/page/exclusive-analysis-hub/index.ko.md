@@ -5,7 +5,7 @@ date: 2026-06-13T19:35:00+09:00
 aliases: ["/ko/exclusive-analysis/", "/ko/page/exclusive-analysis-hub/"]
 layout: "page"
 description: "Korea Invest Insights의 자체 데이터 분석 허브. 자체 계산 데이터셋, Naver ETF 구성 전수 스캔, Real Money 수급, ETF 리밸런싱, 브레드스와 유동성 프레임워크 등 공개 기사 요약이 아니라 직접 계산한 분석 글을 모은다."
-lastmod: 2026-07-10T11:00:00+09:00
+lastmod: 2026-07-12T09:10:00+09:00
 ---
 
 ## 이 허브의 목적
@@ -26,6 +26,7 @@ lastmod: 2026-07-10T11:00:00+09:00
 
 | 날짜 | 주제 | 핵심 결론 | 글 |
 |---|---|---|---|
+| 2026-07-12 | 반도체를 뺀 코스피·코스닥 비반도체 320개 YTD 분석 | 코스피 비반도체 182개의 YTD 중간값은 +6.5%, 플러스 비중은 63.2%로 전력망·건설·유통·금융·에너지까지 초과수익 상위군이 확산됐다. 반면 코스닥 비반도체 138개의 중간값은 -12.4%, 플러스 비중은 32.6%에 그쳤다. 상위 종목의 폭등과 시장 전체 약세를 분리하고, YTD 승자 중 최근 20거래일까지 강한 종목과 실적·수주형 후보를 다시 좁혔다. | [반도체를 빼면 무엇이 올랐나](/ko/post/korea-nonsemiconductor-ytd-leaders-kospi-kosdaq-breadth-2026-07-10/) |
 | 2026-07-10 | 2027 컨센서스 분산 역산: 최악 시나리오가 이미 가격이다 | 삼성전자 285,000원을 2027년 최저 EPS 전망 24,323원으로 나누면 11.72배, SK하이닉스 2,180,000원을 최저 전망 186,357원으로 나누면 11.70배다. 두 종목 모두 스트리트 최악 시나리오에 정상 중간 사이클 배수를 곱한 가격이 현재가다. 매수 근거는 "평균보다 싸다"가 아니라 최저 전망치 두 달 연속 상향과 최고/최저 배율 3배 미만 축소 확인이다. 판정 문서는 7월 28-30일 빅테크 2027 CAPEX 코멘트와 SK하이닉스 2Q 장기계약 가격 하한 공개다. | [최악 시나리오가 이미 가격이다](/ko/post/samsung-hynix-worst-case-eps-priced-in-consensus-dispersion-2026-07-10/) |
 | 2026-07-09 | 미국과 중국의 에이전트 추론 인프라 분화와 SRAM 기회 | 미국은 전력·랙 밀도 제약 때문에 HBM과 SRAM/LPU를 묶어 토큰당 전력을 낮추고, 중국은 첨단 로직·HBM 제약을 광메시와 병렬 확장으로 우회한다. 한국 상장사 기회는 중국 광모듈보다 삼성전자 HBM4E·SRAM/LPU 파운드리, SK하이닉스 HBM4, HD현대일렉트릭 전력장비, 한미반도체 패키징 장비에 더 크다. | [미국과 중국의 AI 추론 인프라 분화](/ko/post/us-china-agentic-inference-stack-sram-opportunity-2026-07-09/) |
 | 2026-07-09 | 삼성전자·SK하이닉스 2028E 이익 밸류에이션 | MarketScreener 2028E 순이익을 그대로 쓰면 삼성전자와 SK하이닉스는 각각 4.1배, 4.4배 2028E P/E에 거래되어 크게 싸 보인다. 그러나 공급, HBM LTA, 과거 감익률을 반영한 시나리오 가중값은 삼성전자 +36~81%, 하이닉스 +23~64%로 낮아진다. 핵심은 멀티플이 아니라 2028E가 정상 이익인지 피크 이익인지다. | [삼성전자·SK하이닉스 2028E 밸류에이션](/ko/post/samsung-hynix-2028e-profit-valuation-cycle-scenarios-2026-07-09/) |
@@ -140,6 +141,7 @@ lastmod: 2026-07-10T11:00:00+09:00
 
 ### 상대수익률 후보 발굴
 
+- [반도체를 빼면 무엇이 올랐나: 코스피·코스닥 비반도체 320개 YTD 전수 분석](/ko/post/korea-nonsemiconductor-ytd-leaders-kospi-kosdaq-breadth-2026-07-10/)
 - [SK가스 LNG 냉열: AI 데이터센터 냉각 옵션은 어디까지 실적이 될까](/ko/post/sk-gas-lng-cold-energy-ai-datacenter-cooling-option-2026-07-04/)
 - [AI 데이터센터 전력 병목 지도: 지엔씨에너지·비나텍·서진시스템 다음은 어디인가](/ko/post/ai-datacenter-power-bottleneck-korea-value-chain-screen-2026-07-04/)
 - [2Q 어닝 시즌: 원화 약세가 만드는 서프라이즈 후보](/ko/post/krw-weakness-2q-earnings-surprise-export-candidates-2026-06-21/)
