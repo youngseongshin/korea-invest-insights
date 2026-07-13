@@ -5,7 +5,7 @@ date: 2026-06-13T19:35:00+09:00
 aliases: ["/exclusive-analysis/", "/page/exclusive-analysis-hub/"]
 layout: "page"
 description: "A hub for Korea Invest Insights proprietary analysis: internally constructed datasets, full ETF constituent scans, real-money flow frameworks, ETF rebalance proxies, breadth and liquidity screens, and original stock-selection work."
-lastmod: 2026-07-10T11:00:00+09:00
+lastmod: 2026-07-13T11:00:00+09:00
 ---
 
 ## Purpose
@@ -22,6 +22,7 @@ This hub collects Korea Invest Insights posts built from proprietary or internal
 
 | Date | Topic | Key takeaway | Post |
 |---|---|---|---|
+| 2026-07-13 | HBM 2030 supply-demand deep research: cross-checking the 26.7EB demand model | We independently reproduce the widely-shared 2030 claim of 26.7EB HBM demand versus 10.6EB supply (a 2.5x shortage) from the published formula. The arithmetic reproduces, but it is a bull scenario that needs 24x tokens, 5x model scale, 4x context and 70% KV residency to hold at once. Synthesizing three lenses (demand-model structure, Goldman/DeepSeek/TurboQuant counter-evidence, Big 3 capacity schedule), tight through 2027 and supply relief from 2028 are robust, while a precise 2.5x in 2030 is bull-biased. The point is to separate confidence in direction from uncertainty in magnitude. | [HBM 2030 Supply-Demand Deep Research](/post/hbm-2030-supply-demand-267eb-demand-model-crosscheck-2026-07-13/) |
 | 2026-07-10 | Reverse-engineering the 2027 consensus dispersion: the worst case is already the price | Samsung at KRW 285,000 divided by the lowest 2027 EPS estimate of KRW 24,323 gives 11.72x; SK Hynix at KRW 2,180,000 over the lowest estimate of KRW 186,357 gives 11.70x. Both trade at the street's most bearish scenario times a normal mid-cycle multiple. The buy trigger is not "cheap versus the average" but two consecutive months of low-estimate upgrades plus high/low dispersion narrowing below 3x, judged against late-July big-tech 2027 CAPEX commentary and SK Hynix's Q2 LTA price-floor disclosure. | [The Worst Case Is Already the Price](/post/samsung-hynix-worst-case-eps-priced-in-consensus-dispersion-2026-07-10/) |
 | 2026-07-09 | US-China agentic inference split and the SRAM opportunity | The US is combining HBM and SRAM/LPU to reduce token cost per watt, while China is working around leading-edge logic and HBM constraints through optical mesh and parallel scale-out. Korean listed-equity opportunities are cleaner in Samsung HBM4E/SRAM-LPU foundry, SK Hynix HBM4, HD Hyundai Electric power equipment and Hanmi packaging tools than in China optical modules. | [US-China inference infrastructure split](/post/us-china-agentic-inference-stack-sram-opportunity-2026-07-09/) |
 | 2026-07-09 | Samsung and SK Hynix 2028E profit valuation | On MarketScreener 2028E net income, Samsung and SK Hynix trade at about 4.1x and 4.4x 2028E P/E and look very cheap. But after supply, HBM LTA and historical drawdown scenarios, the probability-weighted upside narrows to +36-81% for Samsung and +23-64% for SK Hynix. The bottleneck is not the multiple, but whether 2028E is normalized or peak earnings. | [Samsung and SK Hynix 2028E valuation](/post/samsung-hynix-2028e-profit-valuation-cycle-scenarios-2026-07-09/) |
