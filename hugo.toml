@@ -1,5 +1,6 @@
 baseURL = "https://koreainvestinsights.com/"
 title = "Korea Invest Insights"
+copyright = "koreainvestinsights.com · @korea_invest_insights"
 theme = "hugo-theme-stack"
 defaultContentLanguage = "en"
 defaultContentLanguageInSubdir = false
