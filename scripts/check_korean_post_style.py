@@ -4,19 +4,13 @@
 from __future__ import annotations
 
 import argparse
+import importlib.util
+import os
 import sys
 from pathlib import Path
 
 
-SLOP_PHRASES = (
-    "핵심은 이것이다",
-    "이것이 바로",
-    "놓치면 안 됩니다",
-    "정확히는",
-    "명확합니다",
-    "한 문장으로 정리하면",
-    "여기서 가설이 검증된다",
-)
+DEFAULT_SLOP_LINT = Path.home() / ".openclaw/skills/thesis-os-human-editor/scripts/slop_lint.py"
 
 ENGLISH_HEAVY_TERMS = (
     "read-through",
@@ -28,6 +22,19 @@ ENGLISH_HEAVY_TERMS = (
     "bearish",
     "funding source",
 )
+
+
+def load_slop_scanner():
+    path = Path(os.environ.get("THESIS_OS_SLOP_LINT", DEFAULT_SLOP_LINT)).expanduser()
+    if not path.exists():
+        raise FileNotFoundError(path)
+    spec = importlib.util.spec_from_file_location("thesis_os_blog_slop_lint", path)
+    if spec is None or spec.loader is None:
+        raise ImportError(f"cannot load slop scanner: {path}")
+    module = importlib.util.module_from_spec(spec)
+    sys.modules[spec.name] = module
+    spec.loader.exec_module(module)
+    return module
 
 
 def iter_diagnostics(path: Path) -> tuple[int, int]:
@@ -61,14 +68,6 @@ def iter_diagnostics(path: Path) -> tuple[int, int]:
             )
 
         lowered = line.lower()
-        for phrase in SLOP_PHRASES:
-            if phrase in line:
-                col = line.index(phrase) + 1
-                warnings += 1
-                print(
-                    f"{path}:{line_no}:{col}: WARN: possible formulaic or AI-slop phrase "
-                    f"'{phrase}'; rewrite if it reads unnaturally"
-                )
         for term in ENGLISH_HEAVY_TERMS:
             if term in lowered:
                 col = lowered.index(term) + 1
@@ -77,6 +76,25 @@ def iter_diagnostics(path: Path) -> tuple[int, int]:
                     f"{path}:{line_no}:{col}: WARN: English-heavy term '{term}'; "
                     "keep only if standard for readers or explain once"
                 )
+
+    try:
+        slop = load_slop_scanner().scan_text(text, surface="blog")
+    except Exception as exc:
+        hard_errors += 1
+        print(f"{path}: ERROR: Thesis OS slop scanner unavailable: {exc}")
+        return hard_errors, warnings
+
+    for finding in slop["findings"]:
+        level = finding["severity"]
+        if level == "FAIL":
+            hard_errors += 1
+        else:
+            warnings += 1
+        location = f":{finding['line']}:1" if finding["line"] else ""
+        print(
+            f"{path}{location}: {level}: {finding['category']}: "
+            f"{finding['excerpt']} -> {finding['suggestion']}"
+        )
 
     return hard_errors, warnings
 
