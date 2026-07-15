@@ -40,6 +40,18 @@ Use cobalt only for true actions: links, active TOC, progress bar, buttons, and 
 - Avoid heavy borders. Section/card borders should usually be transparent.
 - Prefer spacing, quiet background tint, and subtle shadow for hierarchy.
 
+### Dashboard And Hub Hierarchy
+
+For data hubs and interactive posts, use a conclusion-first sequence:
+
+1. One reader conclusion and at most five decision-relevant metrics.
+2. One primary trend or comparison that explains the conclusion.
+3. Detailed tables, sources, and methodology below or behind drilldown.
+
+Do not turn every number into a card. A public research page should read like an
+edited article with data support, not an internal SaaS admin dashboard. Keep the
+as-of date and source state next to the data they qualify.
+
 ## Tables
 
 - Table wrapper outer border should be transparent.
