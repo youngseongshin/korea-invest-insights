@@ -5,7 +5,7 @@ date: 2026-06-13T19:35:00+09:00
 aliases: ["/es/exclusive-analysis/", "/es/page/exclusive-analysis-hub/"]
 layout: "page"
 description: "Análisis propietario de Korea Invest Insights: datos internos, escaneos completos de ETF, flujos real money, liquidez, ADR y selección de acciones."
-lastmod: 2026-07-09T17:20:00+09:00
+lastmod: 2026-07-17T12:31:36+09:00
 ---
 
 ## Propósito
@@ -14,6 +14,7 @@ Este hub reúne análisis propios de Korea Invest Insights basados en datos cons
 
 | Fecha | Tema | Lectura |
 |---|---|---|
+| 2026-07-17 | Kimi K3, precios de IA y demanda de semiconductores | [K3 combina 2,8 billones de parámetros, contexto de un millón de tokens y 16 expertos activos de 896 al mismo precio estándar que Sonnet 5. Kimi Linear reduce la caché por solicitud, mientras el autoalojamiento con 64 o más aceleradores puede elevar el despliegue total. El 27 de julio se comprobarán pesos, licencia y rendimiento externo](/es/post/kimi-k3-linear-api-pricing-semiconductor-big-tech-impact-2026-07-17/) |
 | 2026-07-09 | Infraestructura de inferencia agente de EE. UU. y China | [EE. UU. combina HBM y SRAM/LPU para bajar el coste de token por vatio, mientras China rodea restricciones de lógica avanzada y HBM. La oportunidad coreana está más en Samsung, SK Hynix, HD Hyundai Electric y Hanmi que en módulos ópticos chinos](/es/post/us-china-agentic-inference-stack-sram-opportunity-2026-07-09/) |
 | 2026-07-09 | Samsung y SK Hynix con beneficios 2028E | [Con MarketScreener parecen baratas a 4,1x y 4,4x 2028E, pero al ponderar oferta, contratos HBM y ciclo, el potencial baja a +36~81% y +23~64%](/es/post/samsung-hynix-2028e-profit-valuation-cycle-scenarios-2026-07-09/) |
 | 2026-07-09 | Valor del token de IA y memoria | [Un dólar de token de IA deja mucho valor en modelos y aplicaciones, pero la memoria debe justificar su valoración con contratos HBM4, ASP y utilidad de ciclo medio de 100 a 140 billones de wones](/es/post/ai-token-value-memory-value-added-2026-07-09/) |

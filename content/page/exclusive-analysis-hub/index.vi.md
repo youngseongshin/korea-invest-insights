@@ -5,7 +5,7 @@ date: 2026-06-13T19:35:00+09:00
 aliases: ["/vi/exclusive-analysis/", "/vi/page/exclusive-analysis-hub/"]
 layout: "page"
 description: "Tổng hợp các phân tích độc quyền của Korea Invest Insights dựa trên dữ liệu nội bộ, ETF scan, real-money flow, ADR và thanh khoản."
-lastmod: 2026-07-09T17:20:00+09:00
+lastmod: 2026-07-17T12:31:36+09:00
 ---
 
 ## Mục đích
@@ -14,6 +14,7 @@ Hub này tập hợp các bài phân tích tự xây dựng dữ liệu: thành 
 
 | Ngày | Chủ đề | Bài viết |
 |---|---|---|
+| 2026-07-17 | Kimi K3, giá AI và nhu cầu bán dẫn | [K3 kết hợp 2,8 nghìn tỷ tham số, ngữ cảnh một triệu token và 16 chuyên gia hoạt động trong số 896 với mức giá chuẩn ngang Sonnet 5. Kimi Linear giảm bộ nhớ đệm mỗi yêu cầu, nhưng tự triển khai trên cụm từ 64 bộ tăng tốc có thể làm tổng nhu cầu phần cứng tăng. Trọng tâm kiểm chứng là trọng số, giấy phép và hiệu năng bên ngoài ngày 27/7](/vi/post/kimi-k3-linear-api-pricing-semiconductor-big-tech-impact-2026-07-17/) |
 | 2026-07-09 | Hạ tầng suy luận AI tác tử của Mỹ và Trung Quốc | [Mỹ kết hợp HBM với SRAM/LPU để giảm chi phí token trên mỗi watt, còn Trung Quốc né giới hạn logic tiên tiến và HBM. Cơ hội Hàn Quốc rõ hơn ở Samsung, SK Hynix, HD Hyundai Electric và Hanmi hơn là module quang Trung Quốc](/vi/post/us-china-agentic-inference-stack-sram-opportunity-2026-07-09/) |
 | 2026-07-09 | Định giá Samsung và SK Hynix bằng lợi nhuận 2028E | [Nếu dùng MarketScreener, hai cổ phiếu có vẻ rẻ ở 4,1x và 4,4x 2028E, nhưng khi thêm nguồn cung, hợp đồng HBM và xác suất chu kỳ, tiềm năng giảm còn +36~81% và +23~64%](/vi/post/samsung-hynix-2028e-profit-valuation-cycle-scenarios-2026-07-09/) |
 | 2026-07-09 | Giá trị token AI và giá trị gia tăng của bộ nhớ | [Một đô la token AI vẫn để lại nhiều giá trị ở mô hình và ứng dụng, nhưng cổ phiếu bộ nhớ cần chứng minh giá HBM4, ASP và lợi nhuận giữa chu kỳ 100 đến 140 nghìn tỷ won](/vi/post/ai-token-value-memory-value-added-2026-07-09/) |

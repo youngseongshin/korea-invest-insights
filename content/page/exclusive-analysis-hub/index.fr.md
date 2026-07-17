@@ -5,7 +5,7 @@ date: 2026-06-13T19:35:00+09:00
 aliases: ["/fr/exclusive-analysis/", "/fr/page/exclusive-analysis-hub/"]
 layout: "page"
 description: "Analyses propriétaires de Korea Invest Insights fondées sur des données internes, scans ETF, flux real money, liquidité, ADR et force relative."
-lastmod: 2026-07-09T17:20:00+09:00
+lastmod: 2026-07-17T12:31:36+09:00
 ---
 
 ## Objectif
@@ -14,6 +14,7 @@ Ce hub rassemble les analyses construites sur des bases de données propriétair
 
 | Date | Sujet | Lire |
 |---|---|---|
+| 2026-07-17 | Kimi K3, prix de l'IA et demande de semi-conducteurs | [K3 associe 2,8 billions de paramètres, un contexte d'un million de tokens et 16 experts actifs sur 896 au tarif standard de Sonnet 5. Kimi Linear réduit le cache par requête, mais l'auto-hébergement sur 64 accélérateurs ou plus peut augmenter le déploiement total. Les poids, la licence et le débit externe du 27 juillet seront décisifs](/fr/post/kimi-k3-linear-api-pricing-semiconductor-big-tech-impact-2026-07-17/) |
 | 2026-07-09 | Infrastructures d’inférence agentique États-Unis/Chine | [Les États-Unis combinent HBM et SRAM/LPU pour réduire le coût du token par watt, tandis que la Chine contourne les limites de logique avancée et de HBM. L'opportunité coréenne est plus nette dans Samsung, SK Hynix, HD Hyundai Electric et Hanmi que dans les modules optiques chinois](/fr/post/us-china-agentic-inference-stack-sram-opportunity-2026-07-09/) |
 | 2026-07-09 | Samsung et SK Hynix sur bénéfices 2028E | [Avec MarketScreener, les titres semblent bon marché à 4,1x et 4,4x 2028E, mais l'approche par offre, contrats HBM et cycle réduit le potentiel à +36~81% et +23~64%](/fr/post/samsung-hynix-2028e-profit-valuation-cycle-scenarios-2026-07-09/) |
 | 2026-07-09 | Valeur du token IA et mémoire | [Un dollar de token IA laisse encore beaucoup de valeur aux modèles et aux applications, mais les actions mémoire doivent justifier leur valeur par HBM4, les ASP et un bénéfice de milieu de cycle de 100 à 140 mille milliards de wons](/fr/post/ai-token-value-memory-value-added-2026-07-09/) |
