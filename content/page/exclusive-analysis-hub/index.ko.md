@@ -5,7 +5,7 @@ date: 2026-06-13T19:35:00+09:00
 aliases: ["/ko/exclusive-analysis/", "/ko/page/exclusive-analysis-hub/"]
 layout: "page"
 description: "Korea Invest Insights의 자체 데이터 분석 허브. 자체 계산 데이터셋, Naver ETF 구성 전수 스캔, Real Money 수급, ETF 리밸런싱, 브레드스와 유동성 프레임워크 등 공개 기사 요약이 아니라 직접 계산한 분석 글을 모은다."
-lastmod: 2026-07-17T12:31:36+09:00
+lastmod: 2026-07-17T20:00:00+09:00
 ---
 
 ## 이 허브의 목적
@@ -26,6 +26,7 @@ lastmod: 2026-07-17T12:31:36+09:00
 
 | 날짜 | 주제 | 핵심 결론 | 글 |
 |---|---|---|---|
+| 2026-07-17 | 반도체 적정 주가: FCFE와 정상화 이익으로 계산 | 2028 컨센서스 기준 삼성전자 3.9배, SK하이닉스 4.3배는 시장이 이익 소멸이 아니라 지속기간을 의심한다는 뜻이다. 정상화 PER 8배를 역산하면 시장이 허용하는 EPS는 컨센서스보다 각각 52%, 46% 낮다. 주가는 2028년이나 2029년 EPS 중 하나가 아니라 2026-2028 FCFE에 2029 정상화 잔존가치를 더한 값이다. 확률가중 적정가는 삼성전자 385,000원(+51%), SK하이닉스 1,950,000원(+6%), 마이크론 1,140달러(+34%)이며, 3년 FCF 비중이 삼성 26%로 가장 커 위험조정 매력도는 삼성전자, 마이크론, SK하이닉스 순이다. | [반도체 적정 주가: FCFE와 정상화 이익](/ko/post/memory-fair-value-fcfe-terminal-samsung-hynix-micron-2026-07-17/) |
 | 2026-07-17 | Kimi K3와 AI 가격표·반도체 수요 | Kimi K3는 2.8조 파라미터, 100만 토큰, 896개 전문가 중 16개 활성 구조를 Sonnet 5 정상가와 같은 입력 3달러·출력 15달러에 내놓았다. Kimi Linear의 KV 캐시 절감과 양자화는 요청당 GPU·HBM 부담을 낮추지만, 64개 이상 가속기 슈퍼노드와 오픈웨이트 자체 배포는 총장비 수요를 늘린다. 단기에는 NVIDIA·HBM 효율 우려, 중기에는 서버 DRAM·eSSD·네트워크와 멀티모델 클라우드 수요가 맞선다. 7월 27일 가중치·라이선스·외부 처리량이 판별점이다. | [Kimi K3가 바꾼 AI 가격표](/ko/post/kimi-k3-linear-api-pricing-semiconductor-big-tech-impact-2026-07-17/) |
 | 2026-07-17 | 반도체 Bull/Bear 통합 논리: 네 개의 실물 시계와 하나의 주가 시계 | 반도체 논쟁은 더 이상 AI 수요의 존재가 아니라 시간·가격·자본비용의 경쟁이다. 가격·투자·건설·수익화의 네 실물 시계와 주가 시계가 다른 속도로 가기 때문에 호실적과 CAPEX 상향이 오히려 매도 재료가 될 수 있다. Bull(TSMC CAPEX 600억-640억달러, HBM crowding-out, 과점·LTA)과 Bear(선구매 payback, 공급 반응, Oracle FCF -237억달러·CoreWeave 자본비용, SOXX -19%)를 각각 최강 형태로 전개하고, 같은 증거를 양측이 어떻게 다르게 읽는지 11개 항목으로 대조했다. 중심 경로는 산업 bull과 주가 valuation bear의 공존(55%)이며, scarcity cycle이 capital-intensity cycle로 이동 중이다. | [반도체 Bull/Bear 통합 논리](/ko/post/semiconductor-bull-bear-four-clocks-capital-intensity-cycle-2026-07-17/) |
 | 2026-07-14 | IBM·에릭슨 실적으로 본 메모리 가격의 실물 도달 | IBM은 예비 2분기 실적에서 매출 172억달러, 조정 EPS 2.93달러로 컨센서스를 하회하며 프리마켓 17% 이상 급락했다. 미스 사유 중 하나가 결정적이다. 크리슈나 CEO는 6월 마지막 몇 주간 고객이 가격 인상 전 공급제약 인프라를 확보하려 CAPEX를 서버·스토리지·메모리로 옮겼다고 썼다. 같은 날 에릭슨은 AI發 부품 비용 상승으로 마진 압박을 경고했다. 메모리 수요가 공급자 주장이 아니라 최종 고객 행동으로 확인된 강세 증거인 동시에, 그 대가가 IT 예산 잠식과 3분기 선구매 payback이라는 경고다. | [IBM이 실적을 미스한 이유가 메모리 강세의 증거다](/ko/post/ibm-ericsson-q2-memory-cost-evidence-semiconductor-sentiment-2026-07-14/) |
