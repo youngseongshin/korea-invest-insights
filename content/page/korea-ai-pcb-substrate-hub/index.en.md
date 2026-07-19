@@ -5,7 +5,7 @@ date: 2026-05-05T23:20:00+09:00
 aliases: ["/ai-pcb/", "/pcb/", "/fc-bga/", "/ccl/", "/ai-substrate/", "/en/ai-pcb/", "/en/page/korea-ai-pcb-substrate-hub/", "/es/page/korea-ai-pcb-substrate-hub/", "/vi/page/korea-ai-pcb-substrate-hub/", "/fr/page/korea-ai-pcb-substrate-hub/", "/ja/page/korea-ai-pcb-substrate-hub/", "/zh/page/korea-ai-pcb-substrate-hub/"]
 layout: "page"
 description: "A research hub for Korean AI PCB and substrate exposure: FC-BGA, MLB, CCL, low-dielectric materials, Samsung Electro-Mechanics, Daeduck Electronics, Doosan Electronic BG, Kolon Industries and Pamicell."
-lastmod: 2026-06-13T19:35:00+09:00
+lastmod: 2026-07-19T18:05:00+09:00
 ---
 
 ## One-Line Thesis
@@ -18,6 +18,7 @@ AI substrates are not simply "the next theme after GPUs." They are a <strong>com
 
 | Search Question | Quick Answer | Read |
 |---|---|---|
+| Is NVIDIA's Vera CPU expansion and lower SoCAMM2 capacity bullish for Simmtech? | TrendForce describes a supply-driven redesign: lower memory bits per module, but more Vera CPUs and total modules. Simmtech sells module PCBs, so its demand is closer to CPU units × modules per CPU × share than to DRAM bits. The official SoCAMM PCB product exposure is confirmed, while supply to all three memory makers and market-share leadership remain analyst estimates. Foreign and program selling was also still active as of July 16, so the business thesis and the price bottom should be judged separately. | [NVIDIA Vera CPU Expansion and Simmtech](/post/nvidia-vera-cpu-socamm2-simmtech-module-unit-thesis-2026-07-19/) |
 | Why does Korea have so many semiconductor substrate companies? | The U.S. and Europe emphasized design, software, tools and selected materials, while the yield-learning layer of substrate mass production compounded in Japan, Taiwan and Korea. Korea's edge comes from Samsung / SK Hynix demand, mass-production culture and fast capex execution. | [Why Korea Part 1: Semiconductor Substrates](/post/why-korea-semiconductor-substrate-competitive-edge-2026-05-07/) |
 | What is the AI PCB investment thesis? | Rack-scale AI systems add chips and boards together. Substrates are the common denominator across GPU, CPU, DPU, NIC and switch ASIC expansion. | [AI PCB and Substrate Thesis](/post/ai-pcb-thesis-system-bom-common-bottleneck-2026-05-05/) |
 | Why do FC-BGA and high-speed PCB matter in chip design? | AI performance depends on moving less data and keeping memory closer to compute. That pushes FC-BGA, high-layer PCB and power-stability parts from "components" into performance bottlenecks. | [After NVIDIA: the AI semiconductor bottleneck](/post/ai-chip-design-data-movement-fcbga-bottleneck-2026-05-24/) |

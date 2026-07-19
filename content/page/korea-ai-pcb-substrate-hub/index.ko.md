@@ -5,7 +5,7 @@ date: 2026-05-05T23:20:00+09:00
 aliases: ["/ko/ai-pcb/", "/ko/pcb/", "/ko/fc-bga/", "/ko/ccl/", "/ko/ai-substrate/", "/ko/page/korea-ai-pcb-substrate-hub/"]
 layout: "page"
 description: "AI 기판·PCB 투자 허브. FC-BGA, MLB, CCL, 저유전율 소재, 삼성전기, 대덕전자, 두산전자BG, 코오롱인더, 파미셀을 한곳에 묶어 GPU·CPU·NIC·스위치 ASIC이 만드는 AI 시스템 병목을 정리한다."
-lastmod: 2026-06-13T19:35:00+09:00
+lastmod: 2026-07-19T18:05:00+09:00
 ---
 
 ## 한 줄 결론
@@ -18,6 +18,7 @@ AI 기판 투자는 "GPU 다음 테마"가 아니라 <strong>AI 시스템 전체
 
 | 검색 질문 | 빠른 답 | 읽을 글 |
 |---|---|---|
+| 엔비디아 Vera CPU 증산과 SoCAMM2 용량 축소는 심텍에 호재인가요? | TrendForce가 전한 용량 축소는 LPDDR 부족 속에서 CPU 한 대당 비트를 낮추고 전체 Vera CPU와 모듈 출하를 늘리려는 조정이다. 심텍의 모듈 PCB 수요는 DRAM 비트보다 CPU 수 × 모듈 수 × 점유율에 가까워 기판 수요 감소로 바로 연결되지 않는다. 다만 메모리 3사 동시 공급과 점유율 1위는 회사 공시가 아니라 증권사 추정이고, 7월 16일에는 외국인·프로그램 매도가 이어져 가격 바닥도 확인되지 않았다. | [엔비디아 Vera CPU 증산과 심텍](/ko/post/nvidia-vera-cpu-socamm2-simmtech-module-unit-thesis-2026-07-19/) |
 | 왜 한국에 반도체 기판 회사가 이렇게 많나요? | 미국·유럽이 설계·소프트웨어·장비에 집중하는 동안, 고객 인증과 수율 데이터가 필요한 기판 양산은 한국·일본·대만에 축적됐다. 한국의 강점은 삼성전자·SK하이닉스 고객 기반, 모바일·메모리 양산 경험, 빠른 투자 실행력이다. | [Why Korea 1편: 한국 반도체 기판 경쟁력](/ko/post/why-korea-semiconductor-substrate-competitive-edge-2026-05-07/) |
 | AI 기판 투자의 핵심은 무엇인가요? | GPU 하나가 아니라 rack-scale 시스템 전체가 칩과 보드를 늘린다. 기판은 모든 칩 확장의 공통 분모다. | [AI PCB와 기판 thesis](/ko/post/ai-pcb-thesis-system-bom-common-bottleneck-2026-05-05/) |
 | AI 칩 설계에서 왜 FC-BGA와 고속 PCB가 중요해졌나요? | AI 칩 성능은 초당 연산량보다 데이터를 덜 움직이고, 메모리와 연산칩을 더 가까이 붙이는 데 달려 있다. 그래서 HBM 아래에서 FC-BGA, 고다층 PCB, 전력 안정화 부품이 성능 병목으로 올라온다. | [엔비디아 이후 AI 반도체 병목](/ko/post/ai-chip-design-data-movement-fcbga-bottleneck-2026-05-24/) |
