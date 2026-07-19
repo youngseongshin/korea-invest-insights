@@ -5,7 +5,7 @@ date: 2026-06-13T19:35:00+09:00
 aliases: ["/ja/exclusive-analysis/", "/ja/page/exclusive-analysis-hub/"]
 layout: "page"
 description: "Korea Invest Insightsの独自分析ハブ。内部データ、ETF構成銘柄スキャン、Real Moneyフロー、流動性、ADR、相対強度を扱う。"
-lastmod: 2026-07-17T20:45:00+09:00
+lastmod: 2026-07-19T15:53:00+09:00
 ---
 
 ## 目的
@@ -14,6 +14,7 @@ lastmod: 2026-07-17T20:45:00+09:00
 
 | 日付 | テーマ | 記事 |
 |---|---|---|
+| 2026-07-19 | 半導体週間ディープレポート | [TSMC・ASML決算とメモリ価格は2026〜2027年の強い実需を確認する一方、同じ増産計画が2028年の供給反応を予約する。中心シナリオは強い利益と低い倍率の共存であり、契約価格、2028年EPS、AI収益化、相対強度で検証する](/ja/post/weekly-semiconductor-deep-dive-strong-earnings-lower-multiple-2028-pivot-2026-07-19/) |
 | 2026-07-17 | 米下院の中国メモリ調達制限書簡 | [施行済み規制ではなく、YMTC統制強化、CXMT審査加速、AI・データセンター・重要インフラ向け調達制限を求める超党派の政策要請である。最大の影響は2026年HBM数量ではなく、2027～2028年の中国供給過剰ディスカウント縮小にある](/ja/post/us-house-chinese-memory-procurement-ban-cxmt-ymtc-cycle-impact-2026-07-17/) |
 | 2026-07-17 | Kimi K3、AI価格、半導体需要 | [K3は2.8兆パラメータ、100万トークン文脈、896専門家のうち16を稼働し、Sonnet 5の通常価格と同水準で提供する。Kimi Linearは1リクエスト当たりのキャッシュを減らす一方、64基以上のアクセラレータによる自己運用は総ハードウェア需要を増やし得る。7月27日の重み、ライセンス、外部性能が判定点](/ja/post/kimi-k3-linear-api-pricing-semiconductor-big-tech-impact-2026-07-17/) |
 | 2026-07-09 | 米中エージェント推論インフラ分岐とSRAM機会 | [米国はHBMとSRAM/LPUで1ワットあたりのトークン処理を下げ、中国は先端ロジックとHBM制約を光メッシュと並列拡張で迂回する。韓国の機会は中国光モジュールよりSamsung、SK Hynix、HD Hyundai Electric、Hanmiに近い](/ja/post/us-china-agentic-inference-stack-sram-opportunity-2026-07-09/) |

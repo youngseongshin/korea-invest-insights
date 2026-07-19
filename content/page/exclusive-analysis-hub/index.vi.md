@@ -5,7 +5,7 @@ date: 2026-06-13T19:35:00+09:00
 aliases: ["/vi/exclusive-analysis/", "/vi/page/exclusive-analysis-hub/"]
 layout: "page"
 description: "Tổng hợp các phân tích độc quyền của Korea Invest Insights dựa trên dữ liệu nội bộ, ETF scan, real-money flow, ADR và thanh khoản."
-lastmod: 2026-07-17T20:45:00+09:00
+lastmod: 2026-07-19T15:53:00+09:00
 ---
 
 ## Mục đích
@@ -14,6 +14,7 @@ Hub này tập hợp các bài phân tích tự xây dựng dữ liệu: thành 
 
 | Ngày | Chủ đề | Bài viết |
 |---|---|---|
+| 2026-07-19 | Báo cáo chuyên sâu bán dẫn hàng tuần | [TSMC, ASML và giá bộ nhớ xác nhận nhu cầu vật chất mạnh trong giai đoạn 2026-2027, nhưng chính các kế hoạch mở rộng công suất đó cũng báo trước phản ứng nguồn cung vào năm 2028. Kịch bản trung tâm là lợi nhuận mạnh đi cùng định giá thấp hơn, được kiểm tra bằng giá hợp đồng, EPS 2028, khả năng kiếm tiền từ AI và sức mạnh tương đối](/vi/post/weekly-semiconductor-deep-dive-strong-earnings-lower-multiple-2028-pivot-2026-07-19/) |
 | 2026-07-17 | Thư của Hạ viện Mỹ về hạn chế mua bộ nhớ Trung Quốc | [Đây chưa phải quy định có hiệu lực mà là yêu cầu chính sách lưỡng đảng nhằm siết YMTC, đẩy nhanh xem xét CXMT và hạn chế mua cho AI, trung tâm dữ liệu và hạ tầng trọng yếu. Tác động lớn nhất là giảm chiết khấu do rủi ro dư cung Trung Quốc giai đoạn 2027-2028](/vi/post/us-house-chinese-memory-procurement-ban-cxmt-ymtc-cycle-impact-2026-07-17/) |
 | 2026-07-17 | Kimi K3, giá AI và nhu cầu bán dẫn | [K3 kết hợp 2,8 nghìn tỷ tham số, ngữ cảnh một triệu token và 16 chuyên gia hoạt động trong số 896 với mức giá chuẩn ngang Sonnet 5. Kimi Linear giảm bộ nhớ đệm mỗi yêu cầu, nhưng tự triển khai trên cụm từ 64 bộ tăng tốc có thể làm tổng nhu cầu phần cứng tăng. Trọng tâm kiểm chứng là trọng số, giấy phép và hiệu năng bên ngoài ngày 27/7](/vi/post/kimi-k3-linear-api-pricing-semiconductor-big-tech-impact-2026-07-17/) |
 | 2026-07-09 | Hạ tầng suy luận AI tác tử của Mỹ và Trung Quốc | [Mỹ kết hợp HBM với SRAM/LPU để giảm chi phí token trên mỗi watt, còn Trung Quốc né giới hạn logic tiên tiến và HBM. Cơ hội Hàn Quốc rõ hơn ở Samsung, SK Hynix, HD Hyundai Electric và Hanmi hơn là module quang Trung Quốc](/vi/post/us-china-agentic-inference-stack-sram-opportunity-2026-07-09/) |

@@ -5,7 +5,7 @@ date: 2026-06-13T19:35:00+09:00
 aliases: ["/fr/exclusive-analysis/", "/fr/page/exclusive-analysis-hub/"]
 layout: "page"
 description: "Analyses propriétaires de Korea Invest Insights fondées sur des données internes, scans ETF, flux real money, liquidité, ADR et force relative."
-lastmod: 2026-07-17T20:45:00+09:00
+lastmod: 2026-07-19T15:53:00+09:00
 ---
 
 ## Objectif
@@ -14,6 +14,7 @@ Ce hub rassemble les analyses construites sur des bases de données propriétair
 
 | Date | Sujet | Lire |
 |---|---|---|
+| 2026-07-19 | Rapport hebdomadaire approfondi sur les semi-conducteurs | [TSMC, ASML et les prix mémoire confirment une demande physique solide en 2026-2027, tandis que les mêmes plans de capacité préparent une réponse de l'offre en 2028. Le scénario central combine des bénéfices élevés et des multiples plus bas, à vérifier par les prix contractuels, le BPA 2028, la rentabilité de l'IA et la force relative](/fr/post/weekly-semiconductor-deep-dive-strong-earnings-lower-multiple-2028-pivot-2026-07-19/) |
 | 2026-07-17 | Lettre de la Chambre américaine sur l'achat de mémoire chinoise | [Il ne s'agit pas encore d'une réglementation, mais d'une demande bipartisane visant à renforcer les contrôles sur YMTC, accélérer l'examen de CXMT et limiter les achats pour l'IA, les data centers et les infrastructures critiques. L'effet majeur serait de réduire la décote liée au risque de surcapacité chinoise en 2027-2028](/fr/post/us-house-chinese-memory-procurement-ban-cxmt-ymtc-cycle-impact-2026-07-17/) |
 | 2026-07-17 | Kimi K3, prix de l'IA et demande de semi-conducteurs | [K3 associe 2,8 billions de paramètres, un contexte d'un million de tokens et 16 experts actifs sur 896 au tarif standard de Sonnet 5. Kimi Linear réduit le cache par requête, mais l'auto-hébergement sur 64 accélérateurs ou plus peut augmenter le déploiement total. Les poids, la licence et le débit externe du 27 juillet seront décisifs](/fr/post/kimi-k3-linear-api-pricing-semiconductor-big-tech-impact-2026-07-17/) |
 | 2026-07-09 | Infrastructures d’inférence agentique États-Unis/Chine | [Les États-Unis combinent HBM et SRAM/LPU pour réduire le coût du token par watt, tandis que la Chine contourne les limites de logique avancée et de HBM. L'opportunité coréenne est plus nette dans Samsung, SK Hynix, HD Hyundai Electric et Hanmi que dans les modules optiques chinois](/fr/post/us-china-agentic-inference-stack-sram-opportunity-2026-07-09/) |
