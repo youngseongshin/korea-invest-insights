@@ -28,6 +28,9 @@ draft: false
 > 연결 맥락
 > 이 글은 [파두는 샌디스크의 한국 베타인가](/ko/post/fadu-sandisk-ai-storage-korea-beta-jeju-semiconductor-2026-05-31/), [파두가 증명해야 할 단가·물량·새 시장](/ko/post/fadu-ai-infra-storage-bottleneck-p-q-new-segment-2026-06-02/), [반도체 Top50 2개월 알파 후보](/ko/post/korea-semiconductor-top50-two-month-alpha-candidates-samsung-hynix-2026-06-13/), [HBF·HBC 상용화 캘린더](/ko/post/hbf-hbc-commercialization-stock-trigger-catalyst-calendar-2026-06-28/)의 후속이다. 관련 허브는 [Exclusive Analysis 허브](/ko/page/exclusive-analysis-hub/), [한국 반도체 밸류체인 허브](/ko/page/korea-semiconductor-equipment-ip-hub/), [AI HBM 허브](/ko/page/korea-semiconductor-hbm-kospi-hub/)다.
 
+> 결과 업데이트, 2026년 7월 22일
+> 파두의 2Q26 잠정실적은 매출 731.6억원, 영업이익 162.7억원, 영업이익률 22.2%였다. 매출은 이 글의 강세 기준 750억원에 조금 못 미쳤지만 영업이익은 강세 상단 154억원을 넘어섰다. 사후 검증과 Gen6·QLC 해자 평가는 [파두 2Q 서프라이즈와 진짜 해자](/ko/post/fadu-2q26-earnings-surprise-gen6-essd-controller-narrow-moat-2026-07-22/)에서 이어진다.
+
 ## TL;DR
 
 파두 2Q26 실적의 기본 시나리오는 <strong>매출 690억~720억원, 영업이익 110억~125억원</strong>이다. 중심값은 매출 705억원, 영업이익 118억원, 영업이익률 16.7%다.

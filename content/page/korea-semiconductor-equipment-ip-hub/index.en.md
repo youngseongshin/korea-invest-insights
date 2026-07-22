@@ -5,7 +5,7 @@ date: 2026-05-03T12:00:00+09:00
 aliases: ["/semiscope/", "/korea-semi-equipment/", "/korea-semiconductor-value-chain/", "/page/korea-semiconductor-value-chain-hub/", "/en/semiscope/", "/en/page/korea-semiconductor-value-chain-hub/", "/en/page/korea-semiconductor-equipment-ip-hub/"]
 layout: "page"
 description: "A Korean semiconductor value-chain hub covering HBM test equipment, memory IP, Samsung Foundry, display equipment, FC-BGA, PCB substrates, CCL and low-loss materials. Maps Neosem, Exicon, OpenEdges, Samsung Electro-Mechanics, Daeduck Electronics, Doosan Electronics BG and Pamicell across the AI infrastructure supply chain."
-lastmod: 2026-07-04T14:48:00+09:00
+lastmod: 2026-07-22T17:32:00+09:00
 ---
 
 ## What This Hub Answers
@@ -14,6 +14,7 @@ Direct, ChatGPT-friendly answers to the questions investors and engineers ask ab
 
 | Search Question | Quick Answer | Read |
 |---|---|---|
+| Did FADU's Q2 2026 preliminary result prove its moat? | It strongly proved Gen5 commercialization and profitability. Revenue was KRW 73.16bn, operating profit KRW 16.27bn and operating margin 22.2%, above the prior bull-case profit ceiling. Gen6 customer qualification and production, a 64TB/128TB QLC design win and lower customer concentration remain unconfirmed. The current assessment is a 3.0/5 narrow but expandable moat. | [FADU's Q2 Surprise and Its Real Moat](/post/fadu-2q26-earnings-surprise-gen6-essd-controller-narrow-moat-2026-07-22/) |
 | How is the Korean semiconductor value chain structured? | HBM sits at the memory product layer. Beneath and around it are test equipment, IP, foundry, FC-BGA / PCB substrates, CCL, low-loss materials and display equipment. | [AI PCB and Substrate Hub](/page/korea-ai-pcb-substrate-hub/) |
 | Why does Korea have so many semiconductor substrate companies? | While the US and Europe focused on design, software and equipment, substrate mass-production know-how, customer qualification and yield data accumulated in Korea, Japan and Taiwan. | [Why Korea Part 1: Semiconductor Substrates](/post/why-korea-semiconductor-substrate-competitive-edge-2026-05-07/) |
 | What is the core AI substrate thesis? | AI is not just a GPU cycle. Rack-scale systems increase GPUs, CPUs, DPUs, NICs, switch ASICs and memory modules together. Substrates become the common denominator. | [AI PCB and Substrate Thesis](/post/ai-pcb-thesis-system-bom-common-bottleneck-2026-05-05/) |
@@ -132,6 +133,7 @@ When AI silicon sells, two back-end regions benefit together — but the structu
 
 | Date | Topic | Read |
 |---|---|---|
+| 2026-07-22 | <strong>FADU's Q2 surprise and real moat</strong> — tests preliminary revenue of KRW 73.16bn, operating profit of KRW 16.27bn and a 22.2% margin against Gen5 commercialization, the Gen6 FC6161, OCP FDP, QLC, customer concentration, revised EPS and flows. Current profitability is proven, but the Gen6 and QLC options remain unconfirmed | [FADU's Q2 Surprise and Its Real Moat](/post/fadu-2q26-earnings-surprise-gen6-essd-controller-narrow-moat-2026-07-22/) |
 | 2026-07-04 | <strong>FADU 2Q26 earnings preview</strong> — uses 1Q financials, Q2 contract disclosures and June amendment cutoffs to estimate Q2 revenue of KRW 69-72bn and operating profit of KRW 11-12.5bn, implying a clear beat versus consensus but not a mega-surprise | [FADU 2Q26 earnings preview](/post/fadu-2q26-earnings-preview-essd-controller-moderate-beat-2026-07-04/) |
 | 2026-07-04 | <strong>SK Gas LNG cold energy and AI data-center cooling option</strong> — separates the confirmed DevOcean technical logic from unproven commercial economics. The Ulsan KET / SK-AWS data-center location matters, but target PUE, tariff, capex, payback and SK Gas margin attribution still need proof | [SK Gas LNG cold energy](/post/sk-gas-lng-cold-energy-ai-datacenter-cooling-option-2026-07-04/) |
 | 2026-07-04 | <strong>AI data-center power bottleneck map</strong> — screens listed Korean companies by generation and backup power, fuel cells and distributed power, ESS/UPS, power conversion and transformers, cables and bus ducts, and cooling/EPC. GNC Energy, VinaTech and Seojin System have the cleanest direct evidence, while Sanil Electric, Iljin Electric, Gaon Cable and SK Gas remain diligence candidates | [AI data-center power bottleneck map](/post/ai-datacenter-power-bottleneck-korea-value-chain-screen-2026-07-04/) |

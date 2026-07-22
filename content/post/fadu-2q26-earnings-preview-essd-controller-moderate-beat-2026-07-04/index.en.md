@@ -13,6 +13,9 @@ draft: false
 > Context
 > This is a follow-up to [FADU as Korea's Sandisk beta](/post/fadu-sandisk-ai-storage-korea-beta-jeju-semiconductor-2026-05-31/), [FADU's P, Q and new-segment test](/post/fadu-ai-infra-storage-bottleneck-p-q-new-segment-2026-06-02/), [Korean semiconductor Top 50 two-month alpha candidates](/post/korea-semiconductor-top50-two-month-alpha-candidates-samsung-hynix-2026-06-13/) and the [HBF/HBC commercialization calendar](/post/hbf-hbc-commercialization-stock-trigger-catalyst-calendar-2026-06-28/). FADU should be analyzed as an eSSD controller and AI-storage bottleneck name, not as a confirmed HBF beneficiary.
 
+> Result update, July 22, 2026
+> FADU's preliminary Q2 result was KRW 73.16bn of revenue, KRW 16.27bn of operating profit and a 22.2% operating margin. Revenue fell just below this preview's KRW 75bn bull threshold, while operating profit exceeded the KRW 15.4bn bull-case upper bound. The post-mortem and Gen6/QLC moat assessment continue in [FADU's Q2 Surprise and Its Real Moat](/post/fadu-2q26-earnings-surprise-gen6-essd-controller-narrow-moat-2026-07-22/).
+
 ## TL;DR
 
 My FADU 2Q26 estimate is KRW 69-72B revenue and KRW 11-12.5B operating profit. The midpoint is KRW 70.5B revenue, KRW 11.8B operating profit and 16.7% operating margin.
