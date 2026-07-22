@@ -31,6 +31,9 @@ valley_cashtags:
 draft: false
 ---
 
+> 7월 22일 후속 분석
+> 아마존·마이크로소프트·알파벳의 최근 네 분기 클라우드 성장, 수주잔고, 설비투자, 신용시장, 메모리 계약을 다시 검산했다. 2027년까지의 수요 가시성과 2028년 이후 FCF 회복 조건은 [빅테크 AI 3연전: 2027년 수요는 계약됐고, 승부는 2028년 현금흐름이다](/ko/post/big-tech-ai-earnings-capex-roi-memory-2028-fcf-2026-07-22/)에서 이어서 볼 수 있다.
+
 > 연결 맥락
 > 이 글은 [마이크론 FY3Q26 실적 분석](/ko/post/micron-fy3q26-ai-memory-sca-fcf-hold-2026-06-25/), [삼성전자 2Q26 프리뷰](/ko/post/samsung-2q26-preview-micron-surprise-erased-core-op-hbm-2026-06-29/), [2027 반도체 컨센서스는 누가 지불하는가](/ko/post/semiconductor-2027-earnings-hyperscaler-payability-memory-nvidia-2026-06-21/), [NVIDIA 변곡점으로 본 전닉](/ko/post/nvidia-earnings-elasticity-hbm-cycle-samsung-hynix-2026-06-28/), [2026 상반기 AI 인프라 병목 복기](/ko/post/h1-2026-ai-infra-bottleneck-korea-narrow-market-postmortem-2026-06-30/)의 후속 분석이다. 관련 허브는 [Exclusive Analysis 허브](/ko/page/exclusive-analysis-hub/)와 [AI HBM 허브](/ko/page/korea-semiconductor-hbm-kospi-hub/)다.
 
