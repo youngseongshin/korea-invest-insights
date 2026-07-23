@@ -41,6 +41,9 @@ valley_cashtags:
 draft: false
 ---
 
+> 2026년 7월 23일 업데이트
+> 공급 직접성, 최근 수급, 밸류에이션과 진입 가격을 함께 반영한 후속 순위는 [AI 데이터센터 수혜주 19개 재정렬](/ko/post/korea-ai-datacenter-beneficiaries-power-cooling-operator-flow-ranking-2026-07-23/)에서 확인할 수 있다. 직접성만 보면 지엔씨에너지와 LS ELECTRIC이 앞서지만, 현재 위험조정 우선순위는 LG전자, 일진전기, 삼성SDS, GST, SK가스 순으로 달라진다.
+
 > 연결 맥락
 > 이 글은 [AI 데이터센터 CapEx 5.3조 달러 시대](/ko/post/ai-datacenter-capex-5p3t-korea-power-substrate-storage-bottleneck-2026-06-05/), [지엔씨에너지 AI 데이터센터 비상전력](/ko/post/gnc-energy-ai-datacenter-backup-generator-sustainable-rally-2026-07-04/), [비나텍과 Bloom Energy 전력 완충 체인](/ko/post/vinatech-bloom-ai-datacenter-supercapacitor-power-buffer-2026-07-04/), [SK가스 vs SK오션플랜트 AI 데이터센터 전력 2선 후보](/ko/post/sk-gas-sk-oceanplant-ai-datacenter-power-second-line-2026-07-04/), [2026 상반기 AI 인프라 병목 복기](/ko/post/h1-2026-ai-infra-bottleneck-korea-narrow-market-postmortem-2026-06-30/)의 후속이다. 관련 허브는 [Exclusive Analysis 허브](/ko/page/exclusive-analysis-hub/)와 [한국 반도체 밸류체인 허브](/ko/page/korea-semiconductor-equipment-ip-hub/)다.
 

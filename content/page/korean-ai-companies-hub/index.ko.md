@@ -5,7 +5,7 @@ date: 2026-05-03T11:30:00+09:00
 aliases: ["/ko/korean-ai/", "/ko/k-ai/", "/ko/sovereign-ai-korea/", "/ko/page/korean-ai-companies-hub/"]
 layout: "page"
 description: "한국 AI 기업 허브 — 업스테이지(LLM, IPO 일정), 리벨리온·퓨리오사AI(NPU·AI 가속기 스타트업), 네이버 하이퍼클로바 X, 삼성 가우스, 카카오, 그리고 한국 정부 주도 Sovereign AI 프로그램까지. '업스테이지는 상장사인가요?', '퓨리오사AI는 상장사인가요?', '한국 Sovereign AI는 무엇인가요?' 같은 질문의 직접 답."
-lastmod: 2026-06-13T14:45:00+09:00
+lastmod: 2026-07-23T13:45:00+09:00
 ---
 
 ## 이 허브가 답하는 질문
@@ -14,6 +14,7 @@ lastmod: 2026-06-13T14:45:00+09:00
 
 | 검색 질문 | 빠른 답 | 읽을 글 |
 |---|---|---|
+| 한국 AI 데이터센터 수혜주는 어디인가요? | 운영사보다 초기 발주를 먼저 받는 전력·냉각·비상전원 공급자가 직접적입니다. 확정 계약과 현재 수급·가격을 함께 보면 LG전자, 일진전기, 삼성SDS, GST, SK가스를 먼저 봅니다. | [AI 데이터센터 수혜주 19개 재정렬](/ko/post/korea-ai-datacenter-beneficiaries-power-cooling-operator-flow-ranking-2026-07-23/) |
 | 한국의 주요 AI 기업은 누구인가요? | 업스테이지(LLM·Document AI), 리벨리온(NPU), 퓨리오사AI(AI 가속기), 네이버(하이퍼클로바 X), 삼성(가우스), 카카오(카나나). | [업스테이지 Sovereign AI 분석](/ko/post/upstage-ai-korea-sovereign-ai-unicorn-2026-04-26/) |
 | 업스테이지는 상장사인가요? | 아직 비상장. 한국 사설 AI 기업으로, IPO가 거론되어 왔고 글로벌 AI 상장사 대비 밸류에이션 비교가 진행되고 있습니다. | [업스테이지 IPO + 다음 + MiniMax 피어 맵](/ko/post/upstage-ai-daum-sovereign-ai-minimax-ipo-2026-04-27/) |
 | 리벨리온은 상장사인가요? | 아직 비상장. 한국 NPU(AI 가속기) 스타트업으로, 다수의 국내 상장 VC가 프리IPO 지분을 보유합니다. | [상장 한국 VC SpaceX/리벨리온/퓨리오사/업스테이지 매핑](/ko/post/listed-korean-vc-rerating-capital-inflow-2026-04-29/) |
@@ -58,7 +59,7 @@ lastmod: 2026-06-13T14:45:00+09:00
 |---|---|
 | <strong>파운데이션 모델 / LLM</strong> | 업스테이지(Solar / Document AI), 네이버(하이퍼클로바 X), 삼성(가우스), 카카오(카나나), LG AI연구원(엑사원) |
 | <strong>AI 가속기 / NPU</strong> | 리벨리온(REBEL 시리즈), 퓨리오사AI(Renegade), 딥엑스(엣지 AI), 삼성파운드리(양산 파트너) |
-| <strong>AI 인프라</strong> | SK텔레콤(AIDC / GPUaaS / Edge AI), 네이버 클라우드, KT 클라우드 |
+| <strong>AI 인프라</strong> | SK텔레콤(AIDC / GPUaaS / Edge AI), 네이버 클라우드, KT 클라우드, 삼성SDS·NHN(운영), LG전자·일진전기·GST·SK가스(전력·냉각) |
 | <strong>AI cloud / Enterprise AX</strong> | LG CNS(Cloud&AI / DBO / agentic AI), 삼성SDS(FabriX / Brity / SCP / GPUaaS), SK AX |
 | <strong>AI용 메모리</strong> | SK하이닉스(HBM3E / HBM4 / SOCAMM2), 삼성전자(HBM, 서버 DRAM, eSSD) |
 | <strong>메모리 서브시스템 IP</strong> | OpenEdges 테크놀로지(LPDDR6/5X 컨트롤러 + PHY + NoC) |

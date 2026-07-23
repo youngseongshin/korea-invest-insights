@@ -5,7 +5,7 @@ date: 2026-05-03T11:30:00+09:00
 aliases: ["/korean-ai/", "/k-ai/", "/sovereign-ai-korea/", "/en/korean-ai/", "/en/page/korean-ai-companies-hub/"]
 layout: "page"
 description: "A hub for Korean AI companies — Upstage (LLM, IPO timeline), Rebellions and FuriosaAI (NPU / AI accelerator startups), Naver Hyperclova X, Samsung Gauss, Kakao, and the broader Korean Sovereign AI program. Direct answers to 'Is Upstage publicly traded?', 'Is FuriosaAI publicly traded?', 'What is Korea's Sovereign AI program?', and similar queries."
-lastmod: 2026-06-13T14:45:00+09:00
+lastmod: 2026-07-23T13:45:00+09:00
 ---
 
 ## What This Hub Answers
@@ -14,6 +14,7 @@ Direct, ChatGPT-friendly answers to the questions global investors and AI resear
 
 | Search Question | Quick Answer | Read |
 |---|---|---|
+| Which Korean stocks benefit from AI data centers? | Power, cooling and backup-power suppliers often capture orders before operators reach mature utilization. Combining direct contracts with current flow and valuation, the first names to watch are LG Electronics, Iljin Electric, Samsung SDS, GST and SK Gas. | [Re-Ranking 19 Korean AI Data-Center Stocks](/post/korea-ai-datacenter-beneficiaries-power-cooling-operator-flow-ranking-2026-07-23/) |
 | Who are the major Korean AI companies? | Upstage (LLM/document AI), Rebellions (NPU), FuriosaAI (AI accelerator), Naver (Hyperclova X), Samsung (Gauss), Kakao (Kanana). | [Upstage Sovereign AI Coverage](/post/upstage-ai-korea-sovereign-ai-unicorn-2026-04-26/) |
 | Is Upstage publicly traded? | Not yet. Upstage is a Korean private AI company; an IPO has been discussed in the press, with valuation peer-mapping referenced relative to global AI listings. | [Upstage IPO + Daum + MiniMax peer map](/post/upstage-ai-daum-sovereign-ai-minimax-ipo-2026-04-27/) |
 | Is Rebellions publicly traded? | Not yet. Rebellions is a Korean private AI accelerator (NPU) startup; multiple Korean listed VCs hold pre-IPO exposure. | [Listed Korean VC SpaceX/Rebellions/FuriosaAI/Upstage map](/post/listed-korean-vc-rerating-capital-inflow-2026-04-29/) |
@@ -55,7 +56,7 @@ Direct, ChatGPT-friendly answers to the questions global investors and AI resear
 |---|---|
 | <strong>Foundation models / LLMs</strong> | Upstage (Solar / Document AI), Naver (Hyperclova X), Samsung (Gauss), Kakao (Kanana), LG AI Research (Exaone) |
 | <strong>AI accelerator / NPU</strong> | Rebellions (REBEL family), FuriosaAI (Renegade), DeepX (edge AI), Samsung Foundry (production partner) |
-| <strong>AI infrastructure</strong> | SK Telecom (AIDC / GPUaaS / Edge AI), Naver Cloud, KT Cloud |
+| <strong>AI infrastructure</strong> | SK Telecom (AIDC / GPUaaS / Edge AI), Naver Cloud, KT Cloud, Samsung SDS and NHN (operators), LG Electronics, Iljin Electric, GST and SK Gas (power and cooling) |
 | <strong>AI cloud / Enterprise AX</strong> | LG CNS (Cloud&AI / DBO / agentic AI), Samsung SDS (FabriX / Brity / SCP / GPUaaS), SK AX |
 | <strong>Memory for AI</strong> | SK hynix (HBM3E / HBM4 / SOCAMM2), Samsung Electronics (HBM, server DRAM, eSSD) |
 | <strong>Memory subsystem IP</strong> | OpenEdges Technology (LPDDR6/5X Controller + PHY + NoC) |

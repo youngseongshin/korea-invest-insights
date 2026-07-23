@@ -33,6 +33,9 @@ valley_cashtags:
 draft: false
 ---
 
+> July 23, 2026 update
+> Our follow-up [re-ranks 19 Korean AI data-center stocks](/post/korea-ai-datacenter-beneficiaries-power-cooling-operator-flow-ranking-2026-07-23/) using direct exposure, current flow, valuation and entry price. GnCenergy and LS ELECTRIC lead on directness, but the present risk-adjusted order changes to LG Electronics, Iljin Electric, Samsung SDS, GST and SK Gas.
+
 > Related context
 > This post follows [AI data-center CapEx and Korean bottlenecks](/post/ai-datacenter-capex-5p3t-korea-power-substrate-storage-bottleneck-2026-06-05/), [GnCenergy and AI data-center backup power](/post/gnc-energy-ai-datacenter-backup-generator-sustainable-rally-2026-07-04/), [VinaTech and Bloom Energy power buffering](/post/vinatech-bloom-ai-datacenter-supercapacitor-power-buffer-2026-07-04/), [SK Gas vs SK Oceanplant](/post/sk-gas-sk-oceanplant-ai-datacenter-power-second-line-2026-07-04/), and the [H1 2026 AI infrastructure postmortem](/post/h1-2026-ai-infra-bottleneck-korea-narrow-market-postmortem-2026-06-30/). The relevant hubs are the [Exclusive Analysis Hub](/page/exclusive-analysis-hub/) and the [Korean Semiconductor Value Chain Hub](/page/korea-semiconductor-equipment-ip-hub/).
 
