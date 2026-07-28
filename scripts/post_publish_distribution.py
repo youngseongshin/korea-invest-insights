@@ -37,7 +37,8 @@ SUPPORTED_CHANNELS = set(DEFAULT_CHANNELS) | {"valley"}
 # LinkedIn secrets live outside the repo (token from linkedin_oauth_setup.py).
 LINKEDIN_ENV_PATH = Path.home() / ".config" / "korea-invest-insights" / "linkedin.env"
 UNIFIED_WATERMARK_KEY = "unifiedDistributionActivatedAt"
-REQUIRED_TRANSLATION_LANGS = ("ko", "en", "es", "vi", "fr", "ja", "zh")
+# 2026-07-29: publishing policy reduced to Korean + English (owner directive).
+REQUIRED_TRANSLATION_LANGS = ("ko", "en")
 
 
 def resolve_openclaw_tools() -> Path:
