@@ -1838,25 +1838,38 @@ html[data-scheme="dark"] {
   --kii-chart-surface: #181d1a;
 }
 
+/* Match the same content column as paragraphs and tables so figures do
+   not bleed past the text they belong to. */
 .article-content .kii-figure {
-  margin: 2.1rem 0;
+  margin: 2.1rem auto;
   padding: 0;
+  width: min(68rem, 100%);
 }
 
 /* Wide diagrams scroll inside their own box so the page body never
-   scrolls horizontally on narrow screens. */
+   scrolls horizontally on narrow screens. The gradient masks are the
+   affordance that tells a reader the chart continues past the edge,
+   the same technique the table wrapper uses. */
 .article-content .kii-figure__frame {
   overflow-x: auto;
   overflow-y: hidden;
   -webkit-overflow-scrolling: touch;
   padding: 0.35rem 0 0.15rem;
+  background:
+    linear-gradient(to right, var(--card-background) 30%, rgba(255, 255, 255, 0)) 0 0 / 34px 100% no-repeat local,
+    linear-gradient(to right, rgba(0, 0, 0, 0.10), transparent 30%) 0 0 / 18px 100% no-repeat scroll,
+    linear-gradient(to left, var(--card-background) 30%, rgba(255, 255, 255, 0)) 100% 0 / 34px 100% no-repeat local,
+    linear-gradient(to left, rgba(0, 0, 0, 0.10), transparent 30%) 100% 0 / 18px 100% no-repeat scroll;
 }
 
+/* The charts carry 11-12px type on a 700-unit canvas, so below roughly
+   440px the labels stop being readable. Above that floor the chart
+   always scales to the column and never scrolls. */
 .article-content .kii-figure svg {
   display: block;
   width: 100%;
   height: auto;
-  min-width: 480px;
+  min-width: 440px;
   font-family: var(--kii-body-font);
 }
 
