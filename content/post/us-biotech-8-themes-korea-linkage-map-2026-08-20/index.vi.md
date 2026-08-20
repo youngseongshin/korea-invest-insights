@@ -25,7 +25,7 @@ tags:
 
 > 🔗 **Đọc cùng**: [Sáu cổ phiếu bio Hàn Quốc, nhìn lại thật đơn giản: 'chất xúc tác còn sống' và 'giá rẻ' là hai chuyện khác nhau](/post/korea-bio-six-stocks-catalyst-alive-not-cheap-2026-06-11/) · [Luận điểm đầu tư ngành bio Hàn Quốc: thị trường thưởng cho dữ liệu chưa được phản ánh vào giá](/post/korea-bio-sector-investment-thesis-2026-05-12/) · [Khung phân tích dòng tiền Real Money](/post/real-money-flow-framework-korea-institution-quality-2026-06-03/)
 
-*Hồi tháng 6 chúng tôi đã sắp xếp sáu cổ phiếu bio Hàn Quốc theo trục "chất xúc tác vs giá". Bài này nâng ống kính lên một bậc: **chuyện gì đang thực sự diễn ra ở biotech Mỹ, và làn sóng đó chạm tới những công ty Hàn Quốc nào?** Bài viết dựa trên báo cáo nghiên cứu nội bộ của chúng tôi (108 nguồn web cộng với một lượt sàng lọc định lượng toàn bộ các biotech niêm yết Hàn Quốc), được viết lại cho người mới, mọi thuật ngữ đều được giải nghĩa và có hình minh họa xuyên suốt. Bài dài, nhưng được thiết kế để chỉ cần đọc một lần là bạn nắm được toàn cảnh biotech Mỹ.*
+*Hồi tháng 6 chúng tôi đã sắp xếp sáu cổ phiếu bio Hàn Quốc theo trục "chất xúc tác vs giá". Bài này nâng ống kính lên một bậc: **chuyện gì đang thực sự diễn ra ở biotech Mỹ, và làn sóng đó chạm tới những công ty Hàn Quốc nào?** Bài viết đối chiếu 108 nguồn công khai với một lượt sàng lọc định lượng toàn bộ các biotech niêm yết Hàn Quốc, được viết cho người mới, mọi thuật ngữ đều được giải nghĩa và có hình minh họa xuyên suốt. Bài dài, nhưng được thiết kế để chỉ cần đọc một lần là bạn nắm được toàn cảnh biotech Mỹ.*
 
 ---
 
@@ -156,7 +156,7 @@ Vì sao điều này quan trọng với nhà đầu tư Hàn Quốc, gói gọn 
 
 ## 3. Hai ngày tháng 8 đã thay đổi bản đồ
 
-Hai sự kiện trong hai ngày 18 và 19 tháng 8 buộc báo cáo phải được viết lại.
+Hai sự kiện trong hai ngày 18 và 19 tháng 8 buộc bản đồ chủ đề phải được vẽ lại.
 
 ### Sự kiện ① Thành công Phase 3 đầu tiên trong lịch sử của liệu pháp ung thư mRNA (19/8)
 
@@ -273,15 +273,15 @@ Tính cả hai sự kiện trên, các chủ đề dẫn dắt của biotech M�
 
 **④ Liệu pháp phối tử phóng xạ (RLT)**: các phân tử tự tìm đến dấu hiệu trên tế bào ung thư, mang theo đồng vị phóng xạ. Đúng nghĩa đen là ung bướu học tên lửa dẫn đường. Pluvicto của Novartis đã chứng minh tính thương mại, và thương vụ Curium–Lantheus $8.0B đầu tháng 8 đặt lại định giá cả ngành. Cần cảnh giác: nút thắt nguồn cung đồng vị (Ac-225) và tiền lệ thất bại trong việc chứng minh lợi ích sống còn.
 
-**⑤ CNS**: sự kiện lớn nhất là kết quả H2 của ADEPT, thử nghiệm mở rộng thuốc tâm thần phân liệt Cobenfy của BMS sang loạn thần trong bệnh Alzheimer. Nhưng CNS mang **tỷ lệ thất bại nền cao nhất trong mọi lĩnh vực bệnh**, nên báo cáo ưu tiên tiếp cận gián tiếp qua các cổ phiếu lớn như BMS thay vì các công ty nhỏ chỉ có một kết quả duy nhất.
+**⑤ CNS**: sự kiện lớn nhất là kết quả H2 của ADEPT, thử nghiệm mở rộng thuốc tâm thần phân liệt Cobenfy của BMS sang loạn thần trong bệnh Alzheimer. Nhưng CNS mang **tỷ lệ thất bại nền cao nhất trong mọi lĩnh vực bệnh**, nên ưu tiên tiếp cận gián tiếp qua các cổ phiếu lớn như BMS thay vì các công ty nhỏ chỉ có một kết quả duy nhất.
 
 **⑥ Liệu pháp tế bào tự miễn**: đưa CAR-T (tái lập trình tế bào miễn dịch của chính bệnh nhân) từ ung thư máu sang các bệnh tự miễn như lupus. NEJM đã đăng dữ liệu in-vivo (tái lập trình tế bào ngay trong cơ thể), và các thương vụ thâu tóm của AbbVie và Gilead đã xác nhận chủ đề. Nó là hàng xóm của trục tự miễn (FcRn) nơi HanAll Biopharma của Hàn Quốc kết nối.
 
 **⑦ và ⑧** chính là hai sự kiện được mô tả ở mục 3.
 
-## 5. Các tên tuổi Mỹ đáng theo dõi: thứ tự ưu tiên của báo cáo, và kỷ luật của nó
+## 5. Các tên tuổi Mỹ đáng theo dõi: thứ tự ưu tiên, và kỷ luật đằng sau nó
 
-Báo cáo xếp hạng các cổ phiếu vừa/nhỏ rủi ro cao ("high-beta") như sau. Với người mới, tiêu chí quan trọng hơn mã cổ phiếu: ⓐ độ rõ ràng và độ gần của sự kiện, ⓑ tỷ lệ rủi ro-lợi nhuận (mức giảm giá, tiền mặt), ⓒ gió thuận của chủ đề, ⓓ mức độ đã được phản ánh vào giá.
+Xếp hạng các cổ phiếu vừa/nhỏ rủi ro cao ("high-beta") theo bốn tiêu chí cho ra thứ tự sau. Với người mới, tiêu chí quan trọng hơn mã cổ phiếu: ⓐ độ rõ ràng và độ gần của sự kiện, ⓑ tỷ lệ rủi ro-lợi nhuận (mức giảm giá, tiền mặt), ⓒ gió thuận của chủ đề, ⓓ mức độ đã được phản ánh vào giá.
 
 | Hạng | Mã | Chủ đề | Vì sao ở hạng này (bản dễ hiểu) | Sự kiện chính |
 |---|---|---|---|---|
@@ -291,9 +291,9 @@ Báo cáo xếp hạng các cổ phiếu vừa/nhỏ rủi ro cao ("high-beta") 
 | 4 | **CABA/KYTX** | ⑥ tự miễn | Những công ty vốn hóa thấp còn sót lại của chủ đề đã được M&A xác nhận | Dữ liệu hội nghị, lộ trình phê duyệt |
 | 5 | **GPCR** | ① béo phì dạng uống | Đăng tạp chí uy tín + bước vào Phase 3. Xếp thấp hơn vì dữ liệu còn xa | Bắt đầu Ph3 |
 
-Vậy còn hai nhân vật chính của ngày 18\~19/8, **MRNA và TWST**? Câu trả lời của báo cáo rất đáng học. **"Chúng là những trụ cột đã xác nhận các chủ đề, nhưng không phải là thứ để mua đuổi ngay sau khi giá nhảy vọt (gap-up)."** Tin tốt đã vào giá qua cú gap, nên chúng bị loại khỏi ưu tiên hàng đầu cho vị thế mới; kỷ luật là chờ nhịp điều chỉnh và dữ liệu đầy đủ. Nguyên tắc "đứng trước sự kiện, không đuổi theo sau sự kiện" áp dụng cho các cổ phiếu Hàn Quốc y hệt như vậy.
+Vậy còn hai nhân vật chính của ngày 18\~19/8, **MRNA và TWST**? Đây chính là chỗ kỷ luật phát huy tác dụng. **"Chúng là những trụ cột đã xác nhận các chủ đề, nhưng không phải là thứ để mua đuổi ngay sau khi giá nhảy vọt (gap-up)."** Tin tốt đã vào giá qua cú gap, nên chúng bị loại khỏi ưu tiên hàng đầu cho vị thế mới; kỷ luật là chờ nhịp điều chỉnh và dữ liệu đầy đủ. Nguyên tắc "đứng trước sự kiện, không đuổi theo sau sự kiện" áp dụng cho các cổ phiếu Hàn Quốc y hệt như vậy.
 
-Thêm một mảnh kỷ luật nữa. Các cổ phiếu rủi ro cao kiểu này chỉ được **một tỷ lệ phần trăm một chữ số của danh mục làm trần tổng**, mỗi mã tối đa một phần ba mức đó, phân bổ trên các chủ đề khác nhau, và không bao giờ đặt cược toàn bộ trước một kết quả thử nghiệm (vào lệnh theo từng đợt). Các quy tắc này đến từ bản tổng kết tháng 7 của báo cáo.
+Thêm một mảnh kỷ luật nữa. Các cổ phiếu rủi ro cao kiểu này chỉ được **một tỷ lệ phần trăm một chữ số của danh mục làm trần tổng**, mỗi mã tối đa một phần ba mức đó, phân bổ trên các chủ đề khác nhau, và không bao giờ đặt cược toàn bộ trước một kết quả thử nghiệm (vào lệnh theo từng đợt). Các quy tắc này đến từ bản mổ xẻ nhịp giảm giá hồi tháng 7.
 
 ## 6. Bản đồ liên kết Hàn Quốc: làn sóng này đổ bộ vào đâu?
 
@@ -341,13 +341,13 @@ Giờ đến món chính. Đây là bản đồ nơi 8 chủ đề Mỹ kết n�
 
 ### Từng công ty một: đâu là thực chất và đâu là hy vọng
 
-Báo cáo chấm điểm từng công ty theo **thực chất (hồ sơ công bố và hợp đồng)** giao với **định lượng (sức mạnh giá tương đối RS, và dòng tiền tổ chức/nước ngoài)**. Bách phân vị RS trả lời câu hỏi "trong toàn bộ cổ phiếu Hàn Quốc, đà giá gần đây của cổ phiếu này ở bách phân vị nào?" trên thang 0\~100 (93 nghĩa là thuộc top 7%).
+Bài viết này chấm điểm từng công ty theo **thực chất (hồ sơ công bố và hợp đồng)** giao với **định lượng (sức mạnh giá tương đối RS, và dòng tiền tổ chức/nước ngoài)**. Bách phân vị RS trả lời câu hỏi "trong toàn bộ cổ phiếu Hàn Quốc, đà giá gần đây của cổ phiếu này ở bách phân vị nào?" trên thang 0\~100 (93 nghĩa là thuộc top 7%).
 
-**Alteogen: công ty duy nhất đã thu tiền bản quyền từ một sản phẩm được FDA phê duyệt.** Đã được đề cập ở đây nhiều lần. Keytruda SC, xây trên nền tảng chuyển từ tiêm tĩnh mạch sang tiêm dưới da (ALT-B4), đã được FDA phê duyệt, và **tiền bản quyền đã bắt đầu chảy vào doanh thu thực** (doanh thu Q2 +262%). Khoản trả trước $20M cho Enhertu SC và việc chuyển sàn sang KOSPI cũng đang diễn ra. Vì dòng tiền dựa trên một sản phẩm đã được phê duyệt thay vì các lời hứa, báo cáo xếp hạng công ty này cao nhất về thực chất trong các liên kết Hàn Quốc. RS 47 (trung bình), dòng tiền +₩7.5bn.
+**Alteogen: công ty duy nhất đã thu tiền bản quyền từ một sản phẩm được FDA phê duyệt.** Đã được đề cập ở đây nhiều lần. Keytruda SC, xây trên nền tảng chuyển từ tiêm tĩnh mạch sang tiêm dưới da (ALT-B4), đã được FDA phê duyệt, và **tiền bản quyền đã bắt đầu chảy vào doanh thu thực** (doanh thu Q2 +262%). Khoản trả trước $20M cho Enhertu SC và việc chuyển sàn sang KOSPI cũng đang diễn ra. Vì dòng tiền dựa trên một sản phẩm đã được phê duyệt thay vì các lời hứa, công ty này xếp hạng cao nhất về thực chất trong các liên kết Hàn Quốc. RS 47 (trung bình), dòng tiền +₩7.5bn.
 
 **HanAll Biopharma: thành công lâm sàng của đối tác đã nằm trong các con số.** Họ đã chuyển giao bản quyền một thuốc cơ chế FcRn (loại bỏ các kháng thể gây bệnh tự miễn) cho Immunovant của Mỹ, và ứng viên IMVT-1402 của đối tác này đã ghi nhận **ACR20 mạnh mẽ 72.7%** (tỷ lệ bệnh nhân cải thiện triệu chứng từ 20% trở lên) trong Phase 2b viêm khớp dạng thấp. Các kết quả lần lượt theo từng chỉ định sẽ đến trong H2. Với RS 93 (top 7%), đây là trường hợp hiếm hoi mà **thực chất và đà giá cùng cao một lúc**. Một lưu ý: dòng tiền gần đây cho thấy chốt lời ở mức −₩5.1bn.
 
-**Samsung Biologics: được phân loại là mỏ neo.** Hưởng lợi từ đạo luật BIOSECURE (hiệu lực 18/12) hạn chế các CDMO Trung Quốc, cộng thương vụ mua nhà máy GSK Rockville đã hoàn tất và backlog đơn hàng ₩6.8tn. Bài viết tháng 6 của chúng tôi xếp công ty này vào nhóm "công ty tuyệt vời, giá đã đắt", nhưng qua lăng kính của báo cáo lần này nó là **thân chính của giao dịch xoay vòng vốn** (tổ chức cộng nước ngoài +₩365bn trong 20 ngày). Dùng để tiếp xúc với ngành hơn là một cú đặt cược rủi ro cao.
+**Samsung Biologics: được phân loại là mỏ neo.** Hưởng lợi từ đạo luật BIOSECURE (hiệu lực 18/12) hạn chế các CDMO Trung Quốc, cộng thương vụ mua nhà máy GSK Rockville đã hoàn tất và backlog đơn hàng ₩6.8tn. Bài viết tháng 6 của chúng tôi xếp công ty này vào nhóm "công ty tuyệt vời, giá đã đắt", nhưng trong giai đoạn này nó là **thân chính của giao dịch xoay vòng vốn** (tổ chức cộng nước ngoài +₩365bn trong 20 ngày). Dùng để tiếp xúc với ngành hơn là một cú đặt cược rủi ro cao.
 
 **OliX: công ty siRNA có hợp đồng thực với Lilly.** Họ đã chuyển giao ứng viên béo phì/MASH (OLX702A) cho Lilly với **tổng giá trị ₩911.7bn**, và Lilly trực tiếp tiếp quản Phase 1. Là một trong số ít công ty Hàn Quốc gắn với chủ đề ① bằng hợp đồng thực sự. RS 92 nghĩa là đà giá cũng cao; dòng ra −₩18.9bn là điểm cần theo dõi.
 
@@ -359,7 +359,7 @@ Báo cáo chấm điểm từng công ty theo **thực chất (hồ sơ công b�
 
 **Hanmi Pharm: đang chờ dữ liệu.** Việc dùng thuốc trong Phase 2b của ứng viên MASH (efpegdutide) chuyển giao cho MSD đã hoàn tất, đang trong giai đoạn phân tích. Lưu ý rằng thương vụ ₩1.9tn với Lilly là thuốc **hội chứng ruột ngắn (GLP-2)**, không phải thuốc béo phì. Thị trường thường gán nhãn nhầm là câu chuyện béo phì, hãy tách bạch hai chuyện này.
 
-**FutureChem: nhị phân kép rủi ro cực cao.** Việc dùng thuốc đã hoàn tất trong Phase 2a tại Mỹ của phối tử phóng xạ ung thư tiền liệt tuyến (FC705) với kết quả chờ trong H2, và đàm phán chuyển giao bản quyền vẫn chưa ký. Cả dữ liệu lẫn thương vụ đều phải thành công, nên báo cáo định cỡ vị thế như một quyền chọn (nhỏ). RS 4 (nhóm thấp nhất).
+**FutureChem: nhị phân kép rủi ro cực cao.** Việc dùng thuốc đã hoàn tất trong Phase 2a tại Mỹ của phối tử phóng xạ ung thư tiền liệt tuyến (FC705) với kết quả chờ trong H2, và đàm phán chuyển giao bản quyền vẫn chưa ký. Cả dữ liệu lẫn thương vụ đều phải thành công, nên nó được định cỡ vị thế như một quyền chọn (nhỏ). RS 4 (nhóm thấp nhất).
 
 **Orum Therapeutics: thực chất nền tảng, quy mô nhỏ.** Công nghệ DAC của họ (gắn chất phân hủy protein vào kháng thể) được chuyển giao cho BMS ($100M trả trước) với quyền chọn của Vertex. Nhưng doanh thu Q1 bằng không, nên rủi ro là thời điểm các mốc milestone.
 
@@ -390,11 +390,11 @@ Báo cáo chấm điểm từng công ty theo **thực chất (hồ sơ công b�
   <circle cx="526" cy="228" r="6" fill="#64748b"/><text x="538" y="224" class="qt" font-size="12">Hanmi Pharm</text>
   <circle cx="622" cy="262" r="6" fill="#f59e0b"/><text x="610" y="278" class="qt" font-size="12" text-anchor="end">Orum Therapeutics</text>
   <circle cx="94" cy="356" r="6" fill="#f59e0b"/><text x="106" y="352" class="qt" font-size="12">FutureChem</text>
-  <text x="70" y="490" class="qs" font-size="11">Trục dọc là đánh giá định tính của báo cáo được đơn giản hóa. RS lấy từ cơ sở dữ liệu 8/7 (điều chỉnh một phần theo giá 8/19).</text>
+  <text x="70" y="490" class="qs" font-size="11">Trục dọc là đánh giá định tính được đơn giản hóa. RS lấy từ cơ sở dữ liệu 8/7 (điều chỉnh một phần theo giá 8/19).</text>
   <text x="70" y="508" class="qs" font-size="11">Ví dụ điều chỉnh: HanAll +9.4%, FutureChem −15.6%. Luôn kiểm tra lại số liệu mới nhất trước khi giao dịch.</text>
 </svg>
 
-Thứ tự ưu tiên cuối cùng của báo cáo (ưu tiên nghiên cứu, không phải khuyến nghị đầu tư):
+Thứ tự ưu tiên cuối cùng (ưu tiên nghiên cứu, không phải khuyến nghị đầu tư):
 
 * **Nhóm A (ứng viên cốt lõi)**: Alteogen, HanAll Biopharma. Cả thực chất lẫn định lượng đều xếp hạng cao
 * **Nhóm B (gom khi giảm sâu)**: LigaChem Bio, ABL Bio, ST Pharm. Thực chất hợp đồng vững và chất xúc tác rõ, nhưng tiền đề là vào lệnh theo từng đợt (tranches)
@@ -405,7 +405,7 @@ Một chú thích quan trọng về dòng tiền. Trong 20 ngày, các tổ ch�
 
 ## 7. Danh sách cảnh giác: những cái tên mượn chủ đề mà không có thực chất
 
-Điều nguy hiểm nhất với người mới là **cổ phiếu có liên kết chủ đề bị thổi phồng so với thực chất**. Kết quả kiểm chứng của báo cáo, nguyên văn:
+Điều nguy hiểm nhất với người mới là **cổ phiếu có liên kết chủ đề bị thổi phồng so với thực chất**. Đây là những gì việc kiểm chứng cho thấy:
 
 | Tên | Câu chuyện đang lan truyền | Thực tế đã kiểm chứng |
 |---|---|---|
@@ -451,7 +451,7 @@ Một đặc điểm định hình của chu kỳ này: **các sự kiện nhị
   <text x="640" y="108" class="tt" font-size="11.5" text-anchor="middle" font-weight="700">18/12: BIOSECURE</text>
   <text x="640" y="122" class="ts" font-size="10.5" text-anchor="middle" font-weight="700">danh sách hạn chế hiệu lực</text>
   <text x="40" y="216" class="ts" font-size="11.5">Chưa rõ thời điểm: dữ liệu đầy đủ vắc xin ung thư Merck/Moderna tại hội nghị · quyết định option J&amp;J của LigaChem · Hanmi MASH 2b · FutureChem 2a Mỹ</text>
-  <text x="40" y="238" class="ts" font-size="11.5">Sự kiện càng dồn cục, đặt cược tất tay trước kết quả càng tệ. Quy tắc của báo cáo: phân tán so le giữa các chủ đề</text>
+  <text x="40" y="238" class="ts" font-size="11.5">Sự kiện càng dồn cục, đặt cược tất tay trước kết quả càng tệ. Hãy phân tán so le giữa các chủ đề khác nhau</text>
 </svg>
 
 ### Danh sách rủi ro thẳng thắn (red team)
@@ -475,7 +475,7 @@ Ba câu.
 ## FAQ
 
 **H. XBI đã tăng +88.8%. Tôi có quá muộn không?**
-Đ. Chính xác hơn "muộn hay chưa" là "phần dễ đã qua rồi". Beta năm đầu (cả ngành cùng tăng) đã trôi qua; từ đây, sự kiện và việc chọn cổ phiếu quyết định lợi nhuận. Đó là lý do báo cáo dẫn đầu bằng kỷ luật: trần tổng, đa dạng hóa, vào lệnh theo từng đợt.
+Đ. Chính xác hơn "muộn hay chưa" là "phần dễ đã qua rồi". Beta năm đầu (cả ngành cùng tăng) đã trôi qua; từ đây, sự kiện và việc chọn cổ phiếu quyết định lợi nhuận. Đó là lý do kỷ luật phải đến trước: trần tổng, đa dạng hóa, vào lệnh theo từng đợt.
 
 **H. Nếu biotech Mỹ tăng, bio Hàn Quốc có tự động tăng theo không?**
 Đ. Không tự động. Trong khi XBI tăng +39%, các biotech vừa/nhỏ Hàn Quốc không theo kịp, và dòng tiền phân cực chỉ vào các cổ phiếu lớn. Khoảng cách đó có thể là cơ hội, nhưng khoảng cách khép lại trước tiên ở các tên tuổi có thực chất hợp đồng. Vì thế bài viết này tập trung vào việc kiểm chứng thực chất.
@@ -484,7 +484,7 @@ Ba câu.
 Đ. Kiểm tra loại hợp đồng trước. Một thương vụ chính thức (tổng giá trị, khoản trả trước, các mốc milestone trong hồ sơ công bố) và một thỏa thuận đánh giá hay nghiên cứu chung mang sức nặng hoàn toàn khác nhau. Danh sách cảnh giác ở mục 7 cho thấy chính xác những cái bẫy đó.
 
 **H. Vắc xin ung thư mRNA đã thành công. Tôi có nên mua các cổ phiếu liên quan?**
-Đ. Hãy tách hai chuyện. ① Đây là thành công Phase 3, không phải phê duyệt, và mức hiệu quả tuyệt đối chưa được công bố. ② Chưa có công ty niêm yết Hàn Quốc nào được xác nhận hưởng lợi trực tiếp. Năng lực sản xuất mRNA của ST Pharm là gần nhất, nhưng chưa có đơn hàng nào như vậy được xác nhận. Kỷ luật của báo cáo là chờ dữ liệu đầy đủ và công bố đơn hàng thay vì đuổi theo cú tăng vọt của chủ đề.
+Đ. Hãy tách hai chuyện. ① Đây là thành công Phase 3, không phải phê duyệt, và mức hiệu quả tuyệt đối chưa được công bố. ② Chưa có công ty niêm yết Hàn Quốc nào được xác nhận hưởng lợi trực tiếp. Năng lực sản xuất mRNA của ST Pharm là gần nhất, nhưng chưa có đơn hàng nào như vậy được xác nhận. Chờ dữ liệu đầy đủ và công bố đơn hàng vẫn tốt hơn đuổi theo cú tăng vọt của chủ đề.
 
 **H. Dữ liệu chốt theo ngày nào?**
 Đ. Giá Mỹ là giá đóng cửa 19/8; định lượng Hàn Quốc (RS, dòng tiền) là cơ sở dữ liệu ngày 7/8 được điều chỉnh một phần theo giá 19/8. Sự kiện và giá liên tục biến động, nên luôn kiểm tra lại trước khi giao dịch.
@@ -518,7 +518,7 @@ Ba câu.
 * Chi tiết thỏa thuận đánh giá của Peptron; số phận chương trình tiếp theo của D&D Pharmatech.
 * Khoảng chênh giữa các số liệu M&A ($123B vs $134B) giữa các đơn vị thống kê.
 
-*Nguồn tài liệu: báo cáo nghiên cứu nội bộ của chúng tôi (2026-08-20; 108 nguồn web bao gồm hồ sơ công bố, STAT, NEJM, CNBC, FierceBiotech, BioSpectator, cộng sàng lọc định lượng 312 biotech niêm yết Hàn Quốc). Các cấp nguồn từ S1 (hồ sơ công bố) đến S4 (blog, không sử dụng) được áp dụng, và các mục chưa xác minh được gắn cờ trong bài và dưới mục [Chưa xác minh được].*
+*Phương pháp: 108 nguồn công khai (hồ sơ công bố, STAT, NEJM, CNBC, FierceBiotech, BioSpectator và các nguồn khác) được đối chiếu với một lượt sàng lọc định lượng 312 biotech niêm yết Hàn Quốc (RS và dòng tiền), tính đến 2026-08-20. Các cấp nguồn từ S1 (hồ sơ công bố) đến S4 (blog, không sử dụng) được áp dụng, và các mục chưa xác minh được gắn cờ trong bài và dưới mục [Chưa xác minh được].*
 
 ---
 

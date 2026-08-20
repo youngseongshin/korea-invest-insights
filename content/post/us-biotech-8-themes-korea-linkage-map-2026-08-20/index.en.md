@@ -25,7 +25,7 @@ tags:
 
 > 🔗 **Read together**: [Six Korean bio stocks, made simple: 'the catalyst is alive' and 'it's cheap' are not the same thing](/post/korea-bio-six-stocks-catalyst-alive-not-cheap-2026-06-11/) · [Our Korea bio-sector thesis: the market that rewards under-priced data](/post/korea-bio-sector-investment-thesis-2026-05-12/) · [The Real Money flow framework](/post/real-money-flow-framework-korea-institution-quality-2026-06-03/)
 
-*In June we sorted six Korean bio names by "catalyst vs price." This post lifts the lens one level up: **what is actually happening in US biotech, and which Korean companies does that wave reach?** It is based on our in-house research report (108 web sources plus a full quantitative screen of Korean listed biotechs), rewritten for beginners, with every piece of jargon unpacked and visuals throughout. It is long, but it is designed so that one read gives you the whole US biotech picture.*
+*In June we sorted six Korean bio names by "catalyst vs price." This post lifts the lens one level up: **what is actually happening in US biotech, and which Korean companies does that wave reach?** It cross-checks 108 public sources against a full quantitative screen of Korean listed biotechs, written for beginners, with every piece of jargon unpacked and visuals throughout. It is long, but it is designed so that one read gives you the whole US biotech picture.*
 
 ---
 
@@ -156,7 +156,7 @@ Why this matters for Korean investors comes down to one line. **In an era when b
 
 ## 3. Two days in August that changed the map
 
-Two events between August 18 and 19 forced the report to be rewritten.
+Two events between August 18 and 19 forced the theme map to be redrawn.
 
 ### Event ① The first-ever Phase 3 win for an mRNA cancer therapy (8/19)
 
@@ -273,15 +273,15 @@ With the two events included, US biotech's leading themes settle into eight.
 
 **④ Radioligand therapy (RLT)**: molecules that home in on markers on cancer cells, carrying radioactive isotopes. Literally guided-missile oncology. Novartis's Pluvicto proved the commercial case, and the Curium–Lantheus $8.0B deal in early August reset sector valuations. Watch out: isotope supply bottlenecks (Ac-225) and a precedent of failing to prove survival benefit.
 
-**⑤ CNS**: the biggest event is the H2 readout of ADEPT, which extends BMS's schizophrenia drug Cobenfy into Alzheimer's-disease psychosis. But CNS carries **the highest failure base rate of any disease area**, so the report prefers indirect exposure through large caps like BMS over single-readout small caps.
+**⑤ CNS**: the biggest event is the H2 readout of ADEPT, which extends BMS's schizophrenia drug Cobenfy into Alzheimer's-disease psychosis. But CNS carries **the highest failure base rate of any disease area**, so indirect exposure through large caps like BMS beats a single-readout small cap here.
 
 **⑥ Autoimmune cell therapy**: taking CAR-T (re-engineering a patient's own immune cells) from blood cancer into autoimmune diseases like lupus. NEJM published in-vivo data (re-engineering cells inside the body), and acquisitions by AbbVie and Gilead validated the theme. It neighbors the autoimmune (FcRn) axis where Korea's HanAll Biopharma connects.
 
 **⑦ and ⑧** are the two events described in section 3.
 
-## 5. US names to watch: the report's priorities, and its discipline
+## 5. US names to watch: priorities, and the discipline behind them
 
-The report ranked high-risk small/mid-cap ("high-beta") names as follows. For beginners, the criteria matter more than the tickers: ⓐ clarity and proximity of the event, ⓑ risk-reward (drawdown, cash), ⓒ theme tailwind, ⓓ how much is already priced in.
+Ranking the high-risk small/mid-cap ("high-beta") names on four criteria gives this order. For beginners, the criteria matter more than the tickers: ⓐ clarity and proximity of the event, ⓑ risk-reward (drawdown, cash), ⓒ theme tailwind, ⓓ how much is already priced in.
 
 | Rank | Ticker | Theme | Why this rank (plain version) | Key event |
 |---|---|---|---|---|
@@ -291,9 +291,9 @@ The report ranked high-risk small/mid-cap ("high-beta") names as follows. For be
 | 4 | **CABA/KYTX** | ⑥ autoimmune | Low-cap survivors of an M&A-validated theme | Conference data, approval track |
 | 5 | **GPCR** | ① oral obesity | Journal publication + Phase 3 entry. Ranked lower because data are far away | Ph3 start |
 
-What about the two headliners of 8/18\~19, **MRNA and TWST**? The report's answer is instructive. **"They are anchors that validated the themes, but not chase-buys right after a gap-up."** The good news entered the price via the gap, so they are excluded from first-priority new additions; the discipline is to wait for pullbacks and full data. The principle "stand before the event, do not chase after it" applies to Korean names just the same.
+What about the two headliners of 8/18\~19, **MRNA and TWST**? This is where the discipline bites. **"They are anchors that validated the themes, but not chase-buys right after a gap-up."** The good news entered the price via the gap, so they are excluded from first-priority new additions; the discipline is to wait for pullbacks and full data. The principle "stand before the event, do not chase after it" applies to Korean names just the same.
 
-One more piece of discipline. High-risk names like these get **a single-digit percent of the portfolio as a total cap**, one third of that per name at most, spread across different themes, and never a full bet before a readout (enter in tranches). These rules come from the report's July post-mortem.
+One more piece of discipline. High-risk names like these get **a single-digit percent of the portfolio as a total cap**, one third of that per name at most, spread across different themes, and never a full bet before a readout (enter in tranches). These rules came out of a post-mortem on July's drawdown.
 
 ## 6. The Korea linkage map: where does this wave land?
 
@@ -341,13 +341,13 @@ Now the main course. Here is the map of where the 8 US themes connect to Korean 
 
 ### Company by company: what is substance and what is hope
 
-The report scored each name on **substance (filings and contracts)** crossed with **quant (price relative strength, RS, and institutional/foreign flows)**. The RS percentile answers "among all Korean stocks, what percentile is this stock's recent price momentum?" on a 0\~100 scale (93 means top 7%).
+This post scores each name on **substance (filings and contracts)** crossed with **quant (price relative strength, RS, and institutional/foreign flows)**. The RS percentile answers "among all Korean stocks, what percentile is this stock's recent price momentum?" on a 0\~100 scale (93 means top 7%).
 
-**Alteogen: the only one already collecting royalties from an FDA-approved product.** Covered here many times. Keytruda SC, built on its IV-to-subcutaneous platform (ALT-B4), won FDA approval, and **royalties have started flowing into actual revenue** (Q2 revenue +262%). An Enhertu SC upfront of $20M and a KOSPI transfer are also in motion. Because the cash flow rests on an approved product rather than on promises, the report ranks it highest on substance among Korean links. RS 47 (middle), flows +₩7.5bn.
+**Alteogen: the only one already collecting royalties from an FDA-approved product.** Covered here many times. Keytruda SC, built on its IV-to-subcutaneous platform (ALT-B4), won FDA approval, and **royalties have started flowing into actual revenue** (Q2 revenue +262%). An Enhertu SC upfront of $20M and a KOSPI transfer are also in motion. Because the cash flow rests on an approved product rather than on promises, it ranks highest on substance among the Korean links. RS 47 (middle), flows +₩7.5bn.
 
 **HanAll Biopharma: the partner's clinical success is already in the numbers.** It licensed an FcRn-mechanism drug (removing the antibodies that cause autoimmune disease) to US-based Immunovant, whose candidate IMVT-1402 posted a strong **ACR20 of 72.7%** (share of patients with 20%+ symptom improvement) in a rheumatoid-arthritis Phase 2b. Serial indication-by-indication readouts come in H2. At RS 93 (top 7%), it is the rare case where **substance and momentum are high at the same time**. One caveat: recent flows show profit-taking at −₩5.1bn.
 
-**Samsung Biologics: classified as the anchor.** A beneficiary of the BIOSECURE act (effective 12/18) restricting Chinese CDMOs, plus the completed GSK Rockville plant purchase and a ₩6.8tn order backlog. Our June post filed it under "great company, already expensive," but through this report's lens it is **the main body of the rotation trade** (institutions+foreigners +₩365bn over 20 days). Sector exposure rather than a high-risk bet.
+**Samsung Biologics: classified as the anchor.** A beneficiary of the BIOSECURE act (effective 12/18) restricting Chinese CDMOs, plus the completed GSK Rockville plant purchase and a ₩6.8tn order backlog. Our June post filed it under "great company, already expensive," but in this phase it is **the main body of the rotation trade** (institutions+foreigners +₩365bn over 20 days). Sector exposure rather than a high-risk bet.
 
 **OliX: the siRNA company with a real Lilly contract.** It licensed its obesity/MASH candidate (OLX702A) to Lilly for a **total of ₩911.7bn**, and Lilly took over Phase 1 directly. One of the few Korean names tied to theme ① by an actual contract. RS 92 puts momentum high too; the −₩18.9bn outflow is the watch item.
 
@@ -359,7 +359,7 @@ The report scored each name on **substance (filings and contracts)** crossed wit
 
 **Hanmi Pharm: waiting on data.** Dosing has finished in the Phase 2b of the MASH candidate (efpegdutide) licensed to MSD, with analysis under way. Note that its ₩1.9tn Lilly deal is a **short-bowel-syndrome (GLP-2)** drug, not an obesity drug. The market often mislabels it as an obesity story, so keep the two apart.
 
-**FutureChem: an ultra-high-risk double binary.** Dosing is complete in the US Phase 2a of its prostate-cancer radioligand (FC705) with H2 results pending, and licensing talks remain unsigned. Both the data and the deal have to work, so the report sizes it as an option (small). RS 4 (bottom decile).
+**FutureChem: an ultra-high-risk double binary.** Dosing is complete in the US Phase 2a of its prostate-cancer radioligand (FC705) with H2 results pending, and licensing talks remain unsigned. Both the data and the deal have to work, so it is sized as an option (small). RS 4 (bottom decile).
 
 **Orum Therapeutics: platform substance, small size.** Its DAC technology (attaching protein degraders to antibodies) is licensed to BMS ($100M upfront) with a Vertex option. But Q1 revenue was zero, so milestone timing is the risk.
 
@@ -390,11 +390,11 @@ The report scored each name on **substance (filings and contracts)** crossed wit
   <circle cx="526" cy="228" r="6" fill="#64748b"/><text x="538" y="224" class="qt" font-size="12">Hanmi Pharm</text>
   <circle cx="622" cy="262" r="6" fill="#f59e0b"/><text x="610" y="278" class="qt" font-size="12" text-anchor="end">Orum Therapeutics</text>
   <circle cx="94" cy="356" r="6" fill="#f59e0b"/><text x="106" y="352" class="qt" font-size="12">FutureChem</text>
-  <text x="70" y="490" class="qs" font-size="11">The vertical axis simplifies the report's qualitative assessment. RS is from the 8/7 database (partially adjusted to 8/19 prices).</text>
+  <text x="70" y="490" class="qs" font-size="11">The vertical axis simplifies the qualitative assessment. RS is from the 8/7 database (partially adjusted to 8/19 prices).</text>
   <text x="70" y="508" class="qs" font-size="11">Adjustment examples: HanAll +9.4%, FutureChem −15.6%. Always re-check the latest before trading.</text>
 </svg>
 
-The report's final priorities (research priorities, not investment advice):
+Final priorities (research priorities, not investment advice):
 
 * **Group A (core candidates)**: Alteogen, HanAll Biopharma. Substance and quant both rank high
 * **Group B (accumulation-in-drawdown)**: LigaChem Bio, ABL Bio, ST Pharm. Contract substance is solid and catalysts are clear, but tranches (staged entry) are the premise
@@ -405,7 +405,7 @@ One important footnote on flows. Over 20 days, institutions appeared to accumula
 
 ## 7. The caution list: names that borrowed the theme without the substance
 
-The most dangerous thing for a beginner is a **stock whose theme link is exaggerated relative to its substance**. The report's verification results, verbatim:
+The most dangerous thing for a beginner is a **stock whose theme link is exaggerated relative to its substance**. Here is what verification turned up:
 
 | Name | The story going around | Verified reality |
 |---|---|---|
@@ -451,7 +451,7 @@ A defining feature of this cycle: **the binary events cluster in Q4.**
   <text x="640" y="108" class="tt" font-size="11.5" text-anchor="middle" font-weight="700">Dec 18: BIOSECURE</text>
   <text x="640" y="122" class="ts" font-size="10.5" text-anchor="middle" font-weight="700">restricted list effective</text>
   <text x="40" y="216" class="ts" font-size="11.5">Timing TBD: Merck/Moderna full cancer-vaccine data at a conference · LigaChem J&amp;J option decision · Hanmi MASH 2b · FutureChem US 2a</text>
-  <text x="40" y="238" class="ts" font-size="11.5">The more events cluster, the worse an all-in bet before readouts. Staggered diversification across themes is the report's rule</text>
+  <text x="40" y="238" class="ts" font-size="11.5">The more events cluster, the worse an all-in bet before readouts. Stagger them across different themes</text>
 </svg>
 
 ### The honest risk list (red team)
@@ -475,7 +475,7 @@ Three sentences.
 ## FAQ
 
 **Q. XBI is up +88.8%. Am I too late?**
-A. More precise than "late or not" is "the easy part is over." Year-one beta (the whole sector rising) has passed; from here, events and stock selection decide returns. That is why the report leads with discipline: total caps, diversification, tranches.
+A. More precise than "late or not" is "the easy part is over." Year-one beta (the whole sector rising) has passed; from here, events and stock selection decide returns. That is why discipline comes first: total caps, diversification, tranches.
 
 **Q. If US biotech rises, does Korean biotech automatically follow?**
 A. Not automatically. While XBI rose +39%, Korean small/mid biotechs failed to keep up, and flows polarized into large caps only. That gap can be the opportunity, but the gap closes first in names with contract substance. Hence this post's focus on verifying substance.
@@ -484,7 +484,7 @@ A. Not automatically. While XBI rose +39%, Korean small/mid biotechs failed to k
 A. Check the contract type first. A definitive deal (total value, upfront, milestones in the filing) and an evaluation agreement or joint research carry completely different weight. Section 7's caution list shows exactly those traps.
 
 **Q. The mRNA cancer vaccine succeeded. Should I buy related stocks?**
-A. Separate two things. ① It is a Phase 3 success, not an approval, and the absolute effect size is undisclosed. ② No Korean listed company has confirmed direct benefit. ST Pharm's mRNA manufacturing capability is the closest, but no such order is confirmed. The report's discipline prefers waiting for full data and order filings over chasing theme spikes.
+A. Separate two things. ① It is a Phase 3 success, not an approval, and the absolute effect size is undisclosed. ② No Korean listed company has confirmed direct benefit. ST Pharm's mRNA manufacturing capability is the closest, but no such order is confirmed. Waiting for full data and order filings beats chasing theme spikes.
 
 **Q. What are the data cut-offs?**
 A. US prices are the 8/19 close; Korean quant (RS, flows) is an 8/7 database partially adjusted to 8/19 prices. Events and prices keep moving, so always re-check before trading.
@@ -518,7 +518,7 @@ A. US prices are the 8/19 close; Korean quant (RS, flows) is an 8/7 database par
 * Details of Peptron's evaluation agreement; the fate of D&D Pharmatech's follow-on program.
 * The gap between M&A tallies ($123B vs $134B) across trackers.
 
-*Source material: our in-house research report (2026-08-20; 108 web sources including filings, STAT, NEJM, CNBC, FierceBiotech, BioSpectator, plus a quantitative screen of 312 Korean listed biotechs). Source grades S1 (filings) through S4 (blogs, not adopted) were applied, and unverified items are flagged in the text and under [Blocked].*
+*Method: 108 public sources (filings, STAT, NEJM, CNBC, FierceBiotech, BioSpectator and others) cross-checked against a quantitative screen of 312 Korean listed biotechs (RS and flows), as of 2026-08-20. Source grades S1 (filings) through S4 (blogs, not adopted) were applied, and unverified items are flagged in the text and under [Blocked].*
 
 ---
 

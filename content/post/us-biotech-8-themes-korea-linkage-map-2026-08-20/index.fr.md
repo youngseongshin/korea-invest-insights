@@ -25,7 +25,7 @@ tags:
 
 > 🔗 **À lire ensemble** : [Six valeurs bio coréennes, expliquées simplement : « le catalyseur est vivant » et « c'est bon marché » ne sont pas la même chose](/post/korea-bio-six-stocks-catalyst-alive-not-cheap-2026-06-11/) · [Notre thèse sur le secteur bio coréen : le marché qui récompense les données sous-évaluées](/post/korea-bio-sector-investment-thesis-2026-05-12/) · [Le cadre des flux Real Money](/post/real-money-flow-framework-korea-institution-quality-2026-06-03/)
 
-*En juin, nous avions trié six valeurs bio coréennes selon l'axe « catalyseur vs prix ». Ce billet remonte la focale d'un cran : **que se passe-t-il réellement dans la biotech américaine, et jusqu'à quelles sociétés coréennes cette vague arrive-t-elle ?** Il s'appuie sur notre rapport de recherche interne (108 sources web plus un criblage quantitatif complet des biotechs cotées coréennes), réécrit pour les débutants, avec chaque terme de jargon décortiqué et des visuels tout au long du texte. C'est long, mais c'est conçu pour qu'une seule lecture vous donne l'image complète de la biotech américaine.*
+*En juin, nous avions trié six valeurs bio coréennes selon l'axe « catalyseur vs prix ». Ce billet remonte la focale d'un cran : **que se passe-t-il réellement dans la biotech américaine, et jusqu'à quelles sociétés coréennes cette vague arrive-t-elle ?** Il recoupe 108 sources publiques avec un criblage quantitatif complet des biotechs cotées coréennes, écrit pour les débutants, avec chaque terme de jargon décortiqué et des visuels tout au long du texte. C'est long, mais c'est conçu pour qu'une seule lecture vous donne l'image complète de la biotech américaine.*
 
 ---
 
@@ -156,7 +156,7 @@ Pourquoi cela compte pour les investisseurs coréens tient en une ligne. **À l'
 
 ## 3. Deux jours d'août qui ont changé la carte
 
-Deux événements entre le 18 et le 19 août ont forcé la réécriture du rapport.
+Deux événements entre le 18 et le 19 août ont contraint à redessiner la carte des thèmes.
 
 ### Événement ① Le tout premier succès de Phase 3 d'une thérapie anticancéreuse à mRNA (19/8)
 
@@ -273,15 +273,15 @@ Avec les deux événements inclus, les thèmes leaders de la biotech américaine
 
 **④ Thérapie par radioligand (RLT)** : des molécules qui se dirigent vers des marqueurs sur les cellules cancéreuses, transportant des isotopes radioactifs. Littéralement de l'oncologie « missile guidé ». Pluvicto de Novartis a prouvé le cas commercial, et le deal Curium–Lantheus de $8.0B début août a réinitialisé les valorisations du secteur. Attention : des goulets d'approvisionnement en isotopes (Ac-225) et un précédent d'échec à prouver un bénéfice de survie.
 
-**⑤ CNS** : le plus grand événement est le résultat au S2 d'ADEPT, qui étend Cobenfy, le médicament de BMS contre la schizophrénie, à la psychose de la maladie d'Alzheimer. Mais le CNS porte **le taux d'échec de base le plus élevé de tous les domaines pathologiques**, donc le rapport préfère une exposition indirecte via des large caps comme BMS plutôt que des small caps à résultat unique.
+**⑤ CNS** : le plus grand événement est le résultat au S2 d'ADEPT, qui étend Cobenfy, le médicament de BMS contre la schizophrénie, à la psychose de la maladie d'Alzheimer. Mais le CNS porte **le taux d'échec de base le plus élevé de tous les domaines pathologiques**, donc une exposition indirecte via des large caps comme BMS vaut mieux ici que des small caps à résultat unique.
 
 **⑥ Thérapie cellulaire auto-immune** : porter le CAR-T (réingénierie des propres cellules immunitaires du patient) du cancer du sang vers les maladies auto-immunes comme le lupus. Le NEJM a publié des données in vivo (réingénierie des cellules à l'intérieur du corps), et les acquisitions d'AbbVie et de Gilead ont validé le thème. C'est le voisin de l'axe auto-immun (FcRn) auquel le coréen HanAll Biopharma se connecte.
 
 **⑦ et ⑧** sont les deux événements décrits dans la section 3.
 
-## 5. Les noms américains à suivre : les priorités du rapport, et sa discipline
+## 5. Les noms américains à suivre : les priorités, et la discipline qui les sous-tend
 
-Le rapport a classé comme suit les valeurs small/mid cap à haut risque (« high beta »). Pour les débutants, les critères comptent plus que les tickers : ⓐ clarté et proximité de l'événement, ⓑ rapport risque/rendement (repli, trésorerie), ⓒ vent porteur du thème, ⓓ ce qui est déjà dans les prix.
+Classer les valeurs small/mid cap à haut risque (« high beta ») sur quatre critères donne cet ordre. Pour les débutants, les critères comptent plus que les tickers : ⓐ clarté et proximité de l'événement, ⓑ rapport risque/rendement (repli, trésorerie), ⓒ vent porteur du thème, ⓓ ce qui est déjà dans les prix.
 
 | Rang | Ticker | Thème | Pourquoi ce rang (version simple) | Événement clé |
 |---|---|---|---|---|
@@ -291,9 +291,9 @@ Le rapport a classé comme suit les valeurs small/mid cap à haut risque (« hig
 | 4 | **CABA/KYTX** | ⑥ auto-immun | Survivants à faible capitalisation d'un thème validé par le M&A | Données en congrès, piste d'approbation |
 | 5 | **GPCR** | ① obésité orale | Publication dans une revue + entrée en Phase 3. Classé plus bas car les données sont lointaines | Début de Ph3 |
 
-Et les deux têtes d'affiche des 18\~19/8, **MRNA et TWST** ? La réponse du rapport est instructive. **« Ce sont des ancres qui ont validé les thèmes, mais pas des achats de poursuite juste après un gap haussier. »** La bonne nouvelle est entrée dans le prix via le gap, donc elles sont exclues des ajouts prioritaires ; la discipline est d'attendre les replis et les données complètes. Le principe « se placer avant l'événement, ne pas courir après » s'applique tel quel aux valeurs coréennes.
+Et les deux têtes d'affiche des 18\~19/8, **MRNA et TWST** ? C'est là que la discipline mord. **« Ce sont des ancres qui ont validé les thèmes, mais pas des achats de poursuite juste après un gap haussier. »** La bonne nouvelle est entrée dans le prix via le gap, donc elles sont exclues des ajouts prioritaires ; la discipline est d'attendre les replis et les données complètes. Le principe « se placer avant l'événement, ne pas courir après » s'applique tel quel aux valeurs coréennes.
 
-Encore une pièce de discipline. Les valeurs à haut risque de ce type reçoivent **un plafond total d'un pourcentage à un chiffre du portefeuille**, au plus un tiers de cela par valeur, réparties sur des thèmes différents, et jamais de pari intégral avant un résultat (entrée par tranches). Ces règles viennent du post-mortem de juillet du rapport.
+Encore une pièce de discipline. Les valeurs à haut risque de ce type reçoivent **un plafond total d'un pourcentage à un chiffre du portefeuille**, au plus un tiers de cela par valeur, réparties sur des thèmes différents, et jamais de pari intégral avant un résultat (entrée par tranches). Ces règles sont issues d'un post-mortem sur le repli de juillet.
 
 ## 6. La carte des liens coréens : où cette vague atterrit-elle ?
 
@@ -341,13 +341,13 @@ Voici maintenant le plat principal. La carte des points où les 8 thèmes améri
 
 ### Société par société : ce qui est substance et ce qui est espoir
 
-Le rapport a noté chaque valeur sur la **substance (dépôts réglementaires et contrats)** croisée avec le **quantitatif (force relative du prix, RS, et flux institutionnels/étrangers)**. Le percentile RS répond à la question « parmi toutes les actions coréennes, à quel percentile se situe le momentum récent du prix de ce titre ? » sur une échelle de 0\~100 (93 signifie top 7%).
+Ce billet note chaque valeur sur la **substance (dépôts réglementaires et contrats)** croisée avec le **quantitatif (force relative du prix, RS, et flux institutionnels/étrangers)**. Le percentile RS répond à la question « parmi toutes les actions coréennes, à quel percentile se situe le momentum récent du prix de ce titre ? » sur une échelle de 0\~100 (93 signifie top 7%).
 
-**Alteogen : la seule qui perçoit déjà des redevances d'un produit approuvé par la FDA.** Couverte ici de nombreuses fois. Keytruda SC, construit sur sa plateforme de conversion IV vers sous-cutané (ALT-B4), a obtenu l'approbation FDA, et **les redevances ont commencé à alimenter le chiffre d'affaires réel** (CA du T2 +262%). Un upfront de $20M pour Enhertu SC et un transfert vers le KOSPI sont aussi en cours. Parce que le flux de trésorerie repose sur un produit approuvé plutôt que sur des promesses, le rapport la classe au plus haut en substance parmi les liens coréens. RS 47 (milieu), flux +₩7.5bn.
+**Alteogen : la seule qui perçoit déjà des redevances d'un produit approuvé par la FDA.** Couverte ici de nombreuses fois. Keytruda SC, construit sur sa plateforme de conversion IV vers sous-cutané (ALT-B4), a obtenu l'approbation FDA, et **les redevances ont commencé à alimenter le chiffre d'affaires réel** (CA du T2 +262%). Un upfront de $20M pour Enhertu SC et un transfert vers le KOSPI sont aussi en cours. Parce que le flux de trésorerie repose sur un produit approuvé plutôt que sur des promesses, elle se classe au plus haut en substance parmi les liens coréens. RS 47 (milieu), flux +₩7.5bn.
 
 **HanAll Biopharma : le succès clinique du partenaire est déjà dans les chiffres.** Elle a licencié un médicament à mécanisme FcRn (éliminer les anticorps qui causent la maladie auto-immune) à l'américain Immunovant, dont le candidat IMVT-1402 a affiché un solide **ACR20 de 72.7%** (part des patients avec 20%+ d'amélioration des symptômes) dans une Phase 2b en polyarthrite rhumatoïde. Des résultats en série, indication par indication, arrivent au S2. À RS 93 (top 7%), c'est le cas rare où **substance et momentum sont élevés en même temps**. Une réserve : les flux récents montrent des prises de bénéfices à −₩5.1bn.
 
-**Samsung Biologics : classée comme l'ancre.** Bénéficiaire de la loi BIOSECURE (effective le 18/12) restreignant les CDMO chinois, plus l'achat finalisé de l'usine GSK de Rockville et un carnet de commandes de ₩6.8tn. Notre billet de juin l'avait rangée sous « grande société, déjà chère », mais à travers la lentille de ce rapport, c'est **le corps principal du trade de rotation** (institutions + étrangers +₩365bn sur 20 jours). Une exposition sectorielle plutôt qu'un pari à haut risque.
+**Samsung Biologics : classée comme l'ancre.** Bénéficiaire de la loi BIOSECURE (effective le 18/12) restreignant les CDMO chinois, plus l'achat finalisé de l'usine GSK de Rockville et un carnet de commandes de ₩6.8tn. Notre billet de juin l'avait rangée sous « grande société, déjà chère », mais dans cette phase, c'est **le corps principal du trade de rotation** (institutions + étrangers +₩365bn sur 20 jours). Une exposition sectorielle plutôt qu'un pari à haut risque.
 
 **OliX : la société siRNA avec un vrai contrat Lilly.** Elle a licencié son candidat obésité/MASH (OLX702A) à Lilly pour un **total de ₩911.7bn**, et Lilly a repris directement la Phase 1. L'une des rares valeurs coréennes liées au thème ① par un contrat réel. RS 92, donc momentum élevé aussi ; la sortie de −₩18.9bn est le point à surveiller.
 
@@ -359,7 +359,7 @@ Le rapport a noté chaque valeur sur la **substance (dépôts réglementaires et
 
 **Hanmi Pharm : en attente de données.** Le dosage est terminé dans la Phase 2b du candidat MASH (efpegdutide) licencié à MSD, l'analyse est en cours. Notez que son deal de ₩1.9tn avec Lilly concerne un médicament du **syndrome du grêle court (GLP-2)**, pas un médicament anti-obésité. Le marché l'étiquette souvent à tort comme une histoire d'obésité, donc gardez les deux séparés.
 
-**FutureChem : un double binaire ultra-risqué.** Le dosage est terminé dans la Phase 2a américaine de son radioligand contre le cancer de la prostate (FC705) avec des résultats attendus au S2, et les discussions de licence restent non signées. Les données et le deal doivent tous deux réussir, donc le rapport le dimensionne comme une option (petite taille). RS 4 (dernier décile).
+**FutureChem : un double binaire ultra-risqué.** Le dosage est terminé dans la Phase 2a américaine de son radioligand contre le cancer de la prostate (FC705) avec des résultats attendus au S2, et les discussions de licence restent non signées. Les données et le deal doivent tous deux réussir, donc il est dimensionné comme une option (petite taille). RS 4 (dernier décile).
 
 **Orum Therapeutics : substance de plateforme, petite taille.** Sa technologie DAC (attacher des dégradeurs de protéines à des anticorps) est licenciée à BMS ($100M d'upfront) avec une option Vertex. Mais le CA du T1 était nul, donc le calendrier des jalons est le risque.
 
@@ -390,11 +390,11 @@ Le rapport a noté chaque valeur sur la **substance (dépôts réglementaires et
   <circle cx="526" cy="228" r="6" fill="#64748b"/><text x="538" y="224" class="qt" font-size="12">Hanmi Pharm</text>
   <circle cx="622" cy="262" r="6" fill="#f59e0b"/><text x="610" y="278" class="qt" font-size="12" text-anchor="end">Orum Therapeutics</text>
   <circle cx="94" cy="356" r="6" fill="#f59e0b"/><text x="106" y="352" class="qt" font-size="12">FutureChem</text>
-  <text x="70" y="490" class="qs" font-size="11">L'axe vertical simplifie l'évaluation qualitative du rapport. RS issu de la base du 7/8 (ajusté en partie aux cours du 19/8).</text>
+  <text x="70" y="490" class="qs" font-size="11">L'axe vertical simplifie l'évaluation qualitative. RS issu de la base du 7/8 (ajusté en partie aux cours du 19/8).</text>
   <text x="70" y="508" class="qs" font-size="11">Exemples d'ajustement : HanAll +9.4%, FutureChem −15.6%. Toujours revérifier les derniers chiffres avant de trader.</text>
 </svg>
 
-Les priorités finales du rapport (priorités de recherche, pas des conseils d'investissement) :
+Les priorités finales (priorités de recherche, pas des conseils d'investissement) :
 
 * **Groupe A (candidats cœur)** : Alteogen, HanAll Biopharma. Substance et quantitatif se classent tous deux en haut
 * **Groupe B (accumulation en repli)** : LigaChem Bio, ABL Bio, ST Pharm. La substance contractuelle est solide et les catalyseurs sont clairs, mais les tranches (entrée échelonnée) sont la condition
@@ -405,7 +405,7 @@ Une note de bas de page importante sur les flux. Sur 20 jours, les institutions 
 
 ## 7. La liste de prudence : des noms qui ont emprunté le thème sans la substance
 
-Le plus dangereux pour un débutant est **une action dont le lien avec le thème est exagéré par rapport à sa substance**. Les résultats de vérification du rapport, tels quels :
+Le plus dangereux pour un débutant est **une action dont le lien avec le thème est exagéré par rapport à sa substance**. Voici ce que la vérification a fait apparaître :
 
 | Nom | L'histoire qui circule | Réalité vérifiée |
 |---|---|---|
@@ -451,7 +451,7 @@ Un trait marquant de ce cycle : **les événements binaires se concentrent au T4
   <text x="640" y="108" class="tt" font-size="11.5" text-anchor="middle" font-weight="700">18 déc : BIOSECURE</text>
   <text x="640" y="122" class="ts" font-size="10.5" text-anchor="middle" font-weight="700">liste restreinte en vigueur</text>
   <text x="40" y="216" class="ts" font-size="11.5">Dates à fixer : données complètes du vaccin Merck/Moderna en congrès · décision d'option J&amp;J de LigaChem · MASH 2b de Hanmi · Ph2a US de FutureChem</text>
-  <text x="40" y="238" class="ts" font-size="11.5">Plus les événements se concentrent, pire est le all-in avant résultats. Diversification échelonnée entre thèmes : la règle du rapport</text>
+  <text x="40" y="238" class="ts" font-size="11.5">Plus les événements se concentrent, pire est le all-in avant résultats. Échelonnez-les entre des thèmes différents</text>
 </svg>
 
 ### La liste honnête des risques (red team)
@@ -475,7 +475,7 @@ Trois phrases.
 ## FAQ
 
 **Q. XBI a gagné +88.8%. Suis-je trop en retard ?**
-R. Plus précis que « en retard ou non » : « la partie facile est terminée ». Le bêta de la première année (tout le secteur qui monte) est passé ; à partir d'ici, les événements et la sélection de titres décident des rendements. C'est pourquoi le rapport met la discipline en tête : plafonds totaux, diversification, tranches.
+R. Plus précis que « en retard ou non » : « la partie facile est terminée ». Le bêta de la première année (tout le secteur qui monte) est passé ; à partir d'ici, les événements et la sélection de titres décident des rendements. C'est pourquoi la discipline vient en premier : plafonds totaux, diversification, tranches.
 
 **Q. Si la biotech américaine monte, la biotech coréenne suit-elle automatiquement ?**
 R. Pas automatiquement. Pendant que XBI gagnait +39%, les biotechs coréennes small/mid n'ont pas suivi, et les flux se sont polarisés vers les seules grandes capitalisations. Cet écart peut être l'opportunité, mais l'écart se referme d'abord dans les valeurs ayant une substance contractuelle. D'où l'attention de ce billet à la vérification de la substance.
@@ -484,7 +484,7 @@ R. Pas automatiquement. Pendant que XBI gagnait +39%, les biotechs coréennes sm
 R. Vérifiez d'abord le type de contrat. Un accord définitif (valeur totale, upfront, jalons dans le dépôt) et un accord d'évaluation ou une recherche conjointe ont un poids complètement différent. La liste de prudence de la section 7 montre exactement ces pièges.
 
 **Q. Le vaccin anticancéreux mRNA a réussi. Dois-je acheter les valeurs liées ?**
-R. Séparez deux choses. ① C'est un succès de Phase 3, pas une approbation, et l'ampleur absolue de l'effet est non divulguée. ② Aucune société cotée coréenne n'a de bénéfice direct confirmé. La capacité de fabrication mRNA de ST Pharm est la plus proche, mais aucune commande de ce type n'est confirmée. La discipline du rapport préfère attendre les données complètes et les dépôts de commandes plutôt que de courir après les pics thématiques.
+R. Séparez deux choses. ① C'est un succès de Phase 3, pas une approbation, et l'ampleur absolue de l'effet est non divulguée. ② Aucune société cotée coréenne n'a de bénéfice direct confirmé. La capacité de fabrication mRNA de ST Pharm est la plus proche, mais aucune commande de ce type n'est confirmée. Attendre les données complètes et les dépôts de commandes vaut mieux que de courir après les pics thématiques.
 
 **Q. Quelles sont les dates de référence des données ?**
 R. Les cours américains sont à la clôture du 19/8 ; le quantitatif coréen (RS, flux) est une base de données du 7/8 partiellement ajustée aux cours du 19/8. Les événements et les prix bougent en permanence, donc revérifiez toujours avant de trader.
@@ -518,7 +518,7 @@ R. Les cours américains sont à la clôture du 19/8 ; le quantitatif coréen (R
 * Détails de l'accord d'évaluation de Peptron ; le sort du programme de suivi de D&D Pharmatech.
 * L'écart entre les totaux de M&A ($123B contre $134B) selon les trackers.
 
-*Matériau source : notre rapport de recherche interne (2026-08-20 ; 108 sources web dont dépôts réglementaires, STAT, NEJM, CNBC, FierceBiotech, BioSpectator, plus un criblage quantitatif de 312 biotechs cotées coréennes). Les grades de source S1 (dépôts) à S4 (blogs, non retenus) ont été appliqués, et les éléments non vérifiés sont signalés dans le texte et sous [Bloqué].*
+*Méthode : 108 sources publiques (dépôts réglementaires, STAT, NEJM, CNBC, FierceBiotech, BioSpectator et autres) recoupées avec un criblage quantitatif de 312 biotechs cotées coréennes (RS et flux), au 2026-08-20. Les grades de source S1 (dépôts) à S4 (blogs, non retenus) ont été appliqués, et les éléments non vérifiés sont signalés dans le texte et sous [Bloqué].*
 
 ---
 
