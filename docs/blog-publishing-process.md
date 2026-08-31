@@ -49,6 +49,11 @@ Korean writing quality defaults:
 
 - Treat Korean readability as a publish blocker for every `index.ko.md`, not as
   a cosmetic pass after publishing.
+- Use the writing rhythm of the live [YS-VC blog](https://www.ys-vc.com/blog)
+  as the default Korean reference: calm `합니다` prose, a concrete opening,
+  short paragraphs, and section headings that state the answer. This borrows
+  the writing style only. Korea Invest Insights still keeps its listed-stock
+  analysis, valuation, scenarios, and investment judgment.
 - Avoid the em dash character `—` in Korean posts. Rewrite with a comma, colon,
   parentheses, or a separate sentence.
 - Avoid raw Markdown bold markers such as `**...**` in Korean source. They can
@@ -66,6 +71,54 @@ Korean writing quality defaults:
   doing analytical work.
 - Read the title, TL;DR, and highlighted callouts aloud before publishing. If
   they sound like directly translated English, rewrite them.
+
+### Easy Korean house style
+
+The target is not a shorter or less rigorous report. The target is a report
+that a reader can follow on the first pass.
+
+- Open with the event, number, or tension that made the post worth writing.
+  Within the first three short paragraphs, tell the reader what happened, why
+  it matters, and what judgment the article will test. Do not begin with the
+  writing process, a table of contents, or a generic market introduction.
+- Use one paragraph for one claim. Two to four sentences is the normal range.
+  A long report may have many paragraphs; it should not have dense walls of
+  text. Split a paragraph when it changes from fact to interpretation, from one
+  company to another, or from upside to risk.
+- Make section headings carry information. Prefer `전력 대기열이 서버보다
+  오래 걸립니다` to `현황 분석`, and `수요는 사라진 것이 아니라 2027년으로
+  밀렸습니다` to `반도체 영향`. Avoid process-only headings such as `총정리`,
+  `비교 분석`, `살펴보기`, and `매칭 매트릭스`.
+- Prefer ordinary Korean verbs and concrete nouns. Write `기업가치` before
+  `밸류에이션`, `가격 협상력` before `프라이싱 파워`, and `무효 조건` before
+  `invalidation`. If an English market term is needed, explain it in Korean at
+  first use and use the shorter Korean expression afterward.
+- Use a familiar analogy only when it removes real abstraction. One clear
+  analogy, followed immediately by the data and its limits, is better than a
+  chain of metaphors.
+- Introduce a table or figure with the question it answers. Follow it with one
+  plain sentence explaining what changes for the investor. A table is evidence,
+  not a substitute for prose.
+- Keep the distinction between fact, inference, speculation, and blocked
+  evidence, but do not mechanically prefix every paragraph. Use explicit
+  labels for disputed or uncertain claims; elsewhere write natural sentences
+  such as `공시로 확인된 것은 여기까지입니다` or `이 대목은 추정입니다`.
+- Keep the title concrete and answer-shaped. A good title names the company,
+  event, or bottleneck and makes one claim. Avoid report labels, vague question
+  titles, and titles built around a numbered list.
+- Keep the opening summary to three to five conclusions. Each item should say
+  both what happened and why it matters. Do not repeat the same summary again
+  in a final conclusion.
+
+Run three editing passes before validation:
+
+1. **Structure pass**: check the opening, argument order, and answer-shaped
+   headings.
+2. **Plain-language pass**: shorten long paragraphs, split overloaded
+   sentences, and replace avoidable jargon.
+3. **Evidence pass**: confirm that numbers, source attribution, scenarios,
+   counterarguments, valuation arithmetic, and invalidation conditions survived
+   the readability edit.
 
 1. Publish through the OpenClaw blog pipeline when creating a new post. This is
    the normal path for multilingual posts:

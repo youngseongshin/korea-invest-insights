@@ -1,0 +1,62 @@
+---
+title: "Korea Quality Re-Rating Watch — Aug 31: Dual Neutral at KOSPI 6,820"
+date: 2026-08-31T16:30:00+09:00
+categories: ["daily-wrap"]
+tags: ["KOSPI", "Korea stocks", "Korea market", "Quality Compounder", "Smart Money", "Cycle Rerating", "Neutral regime", "KRW", "Korea ETF", "macro regime"]
+series: ["korea-quality-rerating-watch"]
+slug: "kr-daily-wrap-2026-08-31"
+description: "KOSPI holds 6,820 under a confirmed dual Neutral regime. VIX steady at 15.2, KRW firms to 1,367. Aug 31 screener candidates pending pipeline completion."
+draft: false
+---
+
+## Macro Dashboard
+
+| Indicator | Level | 5-Day Change | Signal |
+|-----------|-------|-------------|--------|
+| KOSPI | 6,820.0 | +1.1% | → Holding |
+| KOSDAQ | 834.3 | +0.9% | → Holding |
+| USD/KRW | 1,367 | −1.0% | → KRW firming |
+| VIX | 15.2 | −1.6% | 🟢 Stable |
+| US 10Y | 4.72% | +0.02 pp | → Steady |
+| Brent | $88.7 | +1.0% | → Stable |
+| DXY | 99.5 | +0.4% | → Mild USD strength |
+
+**Regime verdict:** KR Neutral · US Neutral · Stance: Selective Hold
+
+No pending transition signals on either side. Korea's breadth sits at 50% above both the 50- and 200-day moving averages, with the Discovery index at 60/100 (Day 20 of the current confirmed signal). No dominant downside driver is flagged for Korea or the US.
+
+---
+
+## Market Wrap
+
+*Note: Same-day KR close briefing data (SOURCE: KR CLOSE BRIEFING or KR MARKET SNAPSHOT) is not available for Aug 31. The section below reflects macro-regime signals only.*
+
+KOSPI closed the Aug 31 session near 6,820, extending a five-session gain of roughly 1.1%, while KOSDAQ tacked on 0.9% over the same window. The tone is orderly, range-bound consolidation — not a directional breakout in either direction.
+
+VIX at 15.2, down 1.6% over five sessions, points to contained global risk appetite. US 10-year yields at 4.72% remain sticky but are not accelerating, limiting rate-sensitivity pressure in the near term. KRW has firmed approximately 1.0% against the dollar to 1,367, a constructive data point for the foreign-flow arithmetic on Korean equities.
+
+The derivative and passive-flow picture offers the most actionable read available today. ETF net creation of ₩260.5 billion (through Aug 27–28) indicates domestic institutional money continues to support the index at these levels. Program trading ran a notably negative ₩1.495 trillion over the same window — a divergence between passive inflows and program outflows that is consistent with a selective, range-bound market rather than broad momentum in either direction. Open interest on KOSPI futures rose by 697 contracts, and futures basis stayed positive at +2.30, suggesting the derivatives market is not pricing in near-term index stress.
+
+Without same-day sector-level close data, identifying today's intraday leadership rotation or flow attribution by industry is not possible. That detail will be incorporated when the close briefing becomes available.
+
+---
+
+## Today's Quality Re-Rating Candidates
+
+*Note: The KR Meta Screener (SOURCE: KR META SCREENER) is not present in today's data package. Aug 31 ranked candidates cannot be populated at this time.*
+
+The three-layer screening framework — **Quality Compounder** as the business-quality anchor, **Smart Money Quality** as the institutional-flow validator, and **Cycle Rerating** as the earnings-leverage re-pricing signal — runs daily and typically surfaces the highest-conviction overlap names after the close. That output is not yet available for Aug 31.
+
+**What the macro setup implies for the next screener pass:**
+
+A dual Neutral regime with VIX at 15 and KRW firming is a constructive backdrop for quality names where real institutional demand is detectable. The 60/100 Discovery score — at Day 20 of the current signal — is the most important nuance here. It means Korea is not in a fully broad-based momentum phase. Selectivity matters: names that clear the Quality Compounder bar but lack a money-flow confirmation are lower priority. Names where institutional or foreign accumulation is visible *and* where earnings leverage is being re-priced by the market are the natural candidates to lead when today's screener output posts.
+
+The editorial priority for the next update will be names hitting at least two of the three core screeners. Three-screener overlaps — Quality Compounder + Smart Money Quality + Cycle Rerating — will take the top positions in the candidate table regardless of meta-screener rank, because that combination reflects the full thesis: a good business, with real money entering, at a moment when the market is beginning to reprice the earnings story.
+
+DART filing checks — recent earnings guidance revisions, capex announcements, or supply-contract disclosures — will be layered on top of screener output as the catalyst verification step. That is where the "why now" timing signal tends to emerge most cleanly.
+
+*Screener candidates for Aug 31 will be added when the pipeline completes.*
+
+---
+
+*Data: Macro regime generated by macro_regime_verdict_v2 as of Aug 31, 2026 evening session. Derivative/passive flow data sourced from kr_semisqueeze_v2_features_daily; latest available date Aug 28, 2026.*
