@@ -2,7 +2,7 @@
 title: "Korea's First US Investment Project and the Hormuz Deployment: The Announcement Becomes a Package, and the Alpha Stays in the Contracts"
 slug: "korea-us-investment-project-one-hormuz-package-supply-chain-alpha-2026-09-06"
 date: 2026-09-06T14:30:00+09:00
-description: "Under the Korea-US tariff deal's $200 billion strategic investment, the base case for Project No. 1 is a combined-cycle gas plant in Encinal, Texas. But as of September 6 there is no official designation, the United States is asking Korea to raise the project cost from $19.8 billion to $25 billion, and the government's stated goal of finishing within September is a target, not an announcement date. On top of that, the Hormuz deployment review that the presidential office confirmed on September 3 and 4 means the announcement now reads as one package: the deployment decision, summit contact at the UN General Assembly, the Project No. 1 announcement, and semiconductor tariffs. The stocks rose 7% to 51% after the first report on July 28, then gave back 8% to 14% over the week after the August 28 report that the US wants a higher project cost, and that pullback hit only this theme, not the market. Even with Korean capital in the deal, equity returns split 90 to 10 in favor of the United States once principal and interest are recovered, so the stock market alpha sits not in the equity stake but in how gas turbine, heat recovery steam generator, and construction contracts get allocated. This piece lays out the verdicts, Watch for BHI and Wait for Doosan Enerbility and Hyundai E&C, along with the events that would change them."
+description: "Under the Korea-US tariff deal's $200 billion strategic investment, the base case for Project No. 1 is a combined-cycle gas plant in Encinal, Texas. But as of September 6 there is no official designation, the United States is asking Korea to raise the project cost from $19.8 billion to $25 billion, and the government's stated goal of finishing within September is a target, not an announcement date. On top of that, the Hormuz deployment review that the presidential office confirmed on September 3 and 4 means the announcement now reads as one package: the deployment decision, summit contact at the UN General Assembly, the Project No. 1 announcement, and semiconductor tariffs. The stocks rose 7% to 51% after the first report on July 28, then gave back 8% to 14% over the week after the August 28 report that the US wants a higher project cost, and that pullback hit only this theme, not the market. Even with Korean capital in the deal, equity returns split 90 to 10 in favor of the United States once principal and interest are recovered, so the stock market alpha sits not in the equity stake but in how gas turbine, heat recovery steam generator, and construction contracts get allocated. Nuclear is unlikely as a standalone No. 1 but is the leading hypothesis when bundled as FEED and long-lead equipment with a first gas tranche, and the real issue is reactor type and control. This piece lays out the verdicts, Watch for BHI and Wait for Doosan Enerbility and Hyundai E&C, along with the events that would change them."
 categories: ["Exclusive Analysis", "Korean-Equities", "Market-Outlook"]
 tags:
   - "Korea-US Investment"
@@ -28,6 +28,7 @@ draft: false
 - For Project No. 1, <strong>a combined-cycle gas plant in Encinal, Texas is the base case</strong>. Under the July 28 report, the project cost is $19.8 billion, with a 1.4GW gas turbine phase and a 5GW combined-cycle phase totaling about 6.4GW. But as of September 6 there is no official designation notice, and the United States is asking Korea to raise the project cost to $25 billion. [Fact: media reports] The finish-within-September timeline that Industry Minister Kim Jung-kwan gave in Washington on September 3 is a target, not an announcement date.
 - The odds have risen that the announcement will not come as a standalone event. On September 3 and 4, the presidential office <strong>confirmed a review of a Hormuz deployment</strong>. Under review is a force of about 150 personnel built around a P-8A maritime patrol aircraft, a logistics support ship, and EOD personnel. Iran has warned it would treat a deployment as entering the war, and part of the ruling party along with the Rebuilding Korea Party opposes it. [Fact: media reports] The announcement sequence reads as bundled together: the deployment decision, summit contact at the UN General Assembly starting September 22, the Project No. 1 announcement, and confirmation on semiconductor tariffs. [Inference]
 - Scenario probabilities split on whether the deployment happens. If the deployment is decided, I put a compromise announcement at 55%, delay or scale-back at 20%, and an expanded package at 25%. If the deployment is blocked, those become 35%, 50%, and 15%. Putting the odds of the deployment going ahead at 60%, the unconditional weights are <strong>47 to 32 to 21</strong>. All three numbers are subjective judgments based on the strength of public evidence.
+- Nuclear is <strong>unlikely as a standalone No. 1 but the leading hypothesis as part of a package</strong>. A March 20 report naming nuclear the leading candidate sent GS E&C up 22.54% and Daewoo E&C up 18.18%, and an August 24 report on a Westinghouse equity stake sent nuclear stocks up 10% to 20% before the Industry Ministry denied it. [Fact: exchange data, media reports] Making a project with no confirmed order the standalone No. 1 is a hard sell, but bundling nuclear's FEED work and long-lead equipment with the first gas tranche gives both sides a story that fits their needs. The real issue is reactor type and control, between AP1000 and APR1400. [Inference]
 - The stocks have already moved a great deal. Since July 28, BHI is up 50.6%, GS E&C 34.3%, Hyundai E&C 26.9%, and Doosan Enerbility 22.4%, and they <strong>gave back 8% to 14% over the week after the August 28 report of the cost-increase demand</strong>. Samsung Electronics and SK Hynix were flat that same week. [Fact: exchange data]
 - This basket also trades on geopolitical headlines together. On August 31, while the KOSPI fell as much as 3.55% intraday before closing up 0.46%, Daewoo E&C, Doosan Enerbility, Hyosung Heavy Industries, KEPCO E&C, Hyundai E&C, and BHI fell 4% to 8%. On August 25, the same stocks had risen 10% to 20%. [Fact: exchange data]
 - Even with Korean capital in the deal, <strong>equity returns tilt 90 to 10 toward the United States once principal and interest are recovered</strong>. That is the structure of the joint fact sheet. [Fact: White House fact sheet] So the alpha in Korean listed equities lies not in the equity stake but in how gas turbine, heat recovery steam generator (HRSG), and construction contracts get allocated, and to whom.
@@ -189,7 +190,87 @@ If the deployment is decided, there is more room for the US to walk back part of
 
 The energy picture has also changed character. Hormuz transit volume has fallen from 21.6 million barrels a day before the conflict to 4.9 million barrels, and with US-Iran fighting resuming in the first week of September, Brent crude is at $95 to $96. [Fact: media reports] The blockade that began in late February was interrupted once by an April ceasefire and has since resumed. More than 70% of Korea's crude oil imports pass through this strait. Long-term US LNG purchases have become a Korean necessity rather than a US demand, and that raises the odds of a Louisiana or Alaska LNG project becoming Project No. 2 by that much. Despite the renewed rise in oil prices, the won strengthened to 1,359.3 won per dollar on September 3, which actually eases the foreign exchange burden of the $20 billion in annual disbursements. [Fact: media reports, market prices]
 
-## 3. How Much Have the Stocks Already Priced In
+## 3. Where Nuclear Sits: Standalone No. 1 or Part of the Package
+
+Nuclear power has never been out of the running for Project No. 1. On March 20, a report that a US nuclear plant was the leading candidate for No. 1 sent GS E&C up 22.54% and Daewoo E&C up 18.18%, and that was this theme's first rally. Hyundai E&C fell 3.24% that same day. [Fact: media reports, exchange data] When the US linked tariffs to a warning on August 14, the candidates named also included Texas gas, Louisiana LNG, and NuScale's small modular reactor (SMR) in Tennessee. [Fact: media reports] Since the previous section focused on gas, here is why nuclear deserves its own treatment.
+
+<figure class="kii-figure">
+<div class="kii-figure__frame">
+<svg viewBox="0 0 700 438" xmlns="http://www.w3.org/2000/svg" role="img">
+<rect x="24" y="24" width="222" height="26" rx="13" fill="var(--kii-cat-1)" fill-opacity="0.16" stroke="var(--kii-cat-1)" stroke-width="1.5"/>
+<text x="135.0" y="42" fill="var(--card-text-color-main)" font-size="12" font-weight="700" text-anchor="middle">Most likely</text>
+<text x="264" y="40" fill="var(--card-text-color-main)" font-size="13.5" font-weight="700">Texas Encinal combined cycle, about 6.4GW</text>
+<text x="264" y="60" fill="var(--card-text-color-tertiary)" font-size="11.5">Check: owner, water, long-term power sales, financing, Korean supply share</text>
+<line x1="24" y1="73" x2="676" y2="73" stroke="var(--kii-chart-grid)" stroke-width="1"/>
+<rect x="24" y="82" width="222" height="26" rx="13" fill="var(--kii-cat-2)" fill-opacity="0.16" stroke="var(--kii-cat-2)" stroke-width="1.5"/>
+<text x="135.0" y="100" fill="var(--card-text-color-main)" font-size="12" font-weight="700" text-anchor="middle">Leading negotiation hypothesis</text>
+<text x="264" y="98" fill="var(--card-text-color-main)" font-size="13.5" font-weight="700">Gas first tranche + nuclear FEED and long-lead equipment bundle</text>
+<text x="264" y="118" fill="var(--card-text-color-tertiary)" font-size="11.5">Check: separate non-binding pacts from firm orders; no double-counting</text>
+<line x1="24" y1="131" x2="676" y2="131" stroke="var(--kii-chart-grid)" stroke-width="1"/>
+<rect x="24" y="140" width="222" height="26" rx="13" fill="var(--kii-cat-3)" fill-opacity="0.16" stroke="var(--kii-cat-3)" stroke-width="1.5"/>
+<text x="135.0" y="158" fill="var(--card-text-color-main)" font-size="12" font-weight="700" text-anchor="middle">Low as sole No. 1, key mid-term</text>
+<text x="264" y="156" fill="var(--card-text-color-main)" font-size="13.5" font-weight="700">Fermi America, 4 AP1000 units</text>
+<text x="264" y="176" fill="var(--card-text-color-tertiary)" font-size="11.5">Check: per-unit licensing, financial close, main EPC. Customer deals alone are not enough</text>
+<line x1="24" y1="189" x2="676" y2="189" stroke="var(--kii-chart-grid)" stroke-width="1"/>
+<rect x="24" y="198" width="222" height="26" rx="13" fill="var(--kii-cat-3)" fill-opacity="0.16" stroke="var(--kii-cat-3)" stroke-width="1.5"/>
+<text x="135.0" y="216" fill="var(--card-text-color-main)" font-size="12" font-weight="700" text-anchor="middle">Low now, key follow-on</text>
+<text x="264" y="214" fill="var(--card-text-color-main)" font-size="13.5" font-weight="700">TerraPower Natrium follow-on, up to 8 units</text>
+<text x="264" y="234" fill="var(--card-text-color-tertiary)" font-size="11.5">Check: individual sites and orders, caps on completion and price guarantees</text>
+<line x1="24" y1="247" x2="676" y2="247" stroke="var(--kii-chart-grid)" stroke-width="1"/>
+<rect x="24" y="256" width="222" height="26" rx="13" fill="var(--kii-cat-3)" fill-opacity="0.16" stroke="var(--kii-cat-3)" stroke-width="1.5"/>
+<text x="135.0" y="274" fill="var(--card-text-color-main)" font-size="12" font-weight="700" text-anchor="middle">Low for now</text>
+<text x="264" y="272" fill="var(--card-text-color-main)" font-size="13.5" font-weight="700">Holtec and Entergy SMR-300</text>
+<text x="264" y="292" fill="var(--card-text-color-tertiary)" font-size="11.5">Check: the Aug 4 pact is an evaluation stage. Site, customer, permits, main contract</text>
+<line x1="24" y1="305" x2="676" y2="305" stroke="var(--kii-chart-grid)" stroke-width="1"/>
+<rect x="24" y="314" width="222" height="26" rx="13" fill="var(--kii-cat-2)" fill-opacity="0.16" stroke="var(--kii-cat-2)" stroke-width="1.5"/>
+<text x="135.0" y="332" fill="var(--card-text-color-main)" font-size="12" font-weight="700" text-anchor="middle">Moved up to No. 2 candidate</text>
+<text x="264" y="330" fill="var(--card-text-color-main)" font-size="13.5" font-weight="700">Louisiana and Alaska LNG</text>
+<text x="264" y="350" fill="var(--card-text-color-tertiary)" font-size="11.5">Check: cost, financing, long-term offtake. Hormuz changed its nature</text>
+<line x1="24" y1="363" x2="676" y2="363" stroke="var(--kii-chart-grid)" stroke-width="1"/>
+<rect x="24" y="372" width="222" height="26" rx="13" fill="var(--kii-cat-4)" fill-opacity="0.16" stroke="var(--kii-cat-4)" stroke-width="1.5"/>
+<text x="135.0" y="390" fill="var(--card-text-color-main)" font-size="12" font-weight="700" text-anchor="middle">Key downside</text>
+<text x="264" y="388" fill="var(--card-text-color-main)" font-size="13.5" font-weight="700">Prolonged renegotiation, phased investment</text>
+<text x="264" y="408" fill="var(--card-text-color-tertiary)" font-size="11.5">Check: whether cost, water and guarantee issues resolve; announcements turn into execution</text>
+</svg>
+</div>
+<figcaption><strong>The ladder of Project No. 1 candidates.</strong> A qualitative reading of the weight of public evidence, with no probabilities attached. Nuclear is unlikely as a standalone No. 1 but is the leading negotiation hypothesis when bundled as FEED and long-lead equipment alongside a first gas tranche. The right column lists what must be confirmed for each candidate.</figcaption>
+<details class="kii-figure__table"><summary>View as table</summary>
+
+| Candidate | Likelihood as No. 1 | What to confirm |
+|---|---|---|
+| Texas Encinal combined cycle | Most likely | Owner, water, long-term power sales, financing, Korean supply share |
+| Gas first tranche + nuclear front-end bundle | Leading negotiation hypothesis | Separate non-binding pacts from firm orders; no double-counting |
+| Fermi America, 4 AP1000 units | Low as sole No. 1, key mid-term | Per-unit licensing, financial close, main EPC |
+| TerraPower Natrium follow-on, up to 8 units | Low now, key follow-on | Individual sites and orders, caps on completion and price guarantees |
+| Holtec and Entergy SMR-300 | Low for now | Site, customer, permits, main contract |
+| Louisiana and Alaska LNG | Moved up to No. 2 candidate | Cost, financing, long-term offtake |
+| Prolonged renegotiation, phased investment | Key downside | Whether cost, water and guarantee issues resolve |
+
+</details>
+</figure>
+
+Start with why nuclear is a hard sell as a standalone No. 1. What President Trump needs is not a nuclear plant that actually generates electricity. An investment figure, an order, a groundbreaking, and a jobs commitment are enough to make a political win. So a long construction timeline alone cannot rule nuclear out. [Inference] The more likely source of resistance is Korea. Taking on uncertain construction costs and completion risk in a big way on the very first project is difficult, and it runs into the special act's commercial-reasonableness test and the parliamentary consent process. US nuclear projects themselves are at uneven stages of ordering. Fermi America's main EPC contract is targeted for the second half. The company had a $150 million customer contract canceled in January, and in April its founder and CEO stepped down after a conflict with Secretary Lutnick. TerraPower's August 14 agreement is a framework for up to eight follow-on units, not an individual order, and Holtec's August 4 agreement is at the evaluation stage for a candidate project. [Fact: company announcements, media reports] Naming a project with no confirmed order as No. 1 gets you an announcement, but not execution.
+
+Here is why nuclear looks like the leading hypothesis as part of a package. Bundling nuclear's FEED work and long-lead equipment agreements together with the portion of the gas plant executed first lets the United States announce a large headline number that includes nuclear, while Korea splits its execution between confirmed orders and non-binding agreements. [Inference: a negotiation hypothesis, not a confirmed agreement] The US Department of Energy's June 23 move to offer up to $17.5 billion in conditional loan commitments for the supply chain behind as many as ten large reactors across up to five sites points the same way. [Fact: US Department of Energy] The expanded-package scenario adds an Alaska LNG equity stake and purchase agreement, a Westinghouse equity SPC or a NuScale small modular reactor, and Philly Shipyard vessels to this bundle.
+
+The real issue in the nuclear track is reactor type and control. The United States wants to attach Korean capital and construction to Westinghouse's AP1000 (1.1GW), while Korea wants the APR1400 (1.4GW) and KHNP in control. The structure reported on August 24 had a Korea-US joint special purpose company acquiring up to a 20% stake in Westinghouse and building ten AP1000 units by 2030, and the Industry Ministry denied it on the 25th. [Fact: media reports] Commentary the same week pointed out that an equity stake or joint venture does not guarantee decision-making authority, volume, or intellectual property on individual projects, and Toshiba's losses after acquiring Westinghouse were repeatedly cited as the comparison case. [Fact: media reports] Korean capital going in does not mean a Korean-design reactor gets chosen, and there is not enough basis to automatically assume participation by KHNP, KEPCO E&C, and Daewoo E&C. Reactor type and the design, manufacturing, and construction contracts come first.
+
+Where Korean companies fit differs by scenario.
+
+| Scenario | What it involves | Where Korean companies fit | What to confirm |
+|---|---|---|---|
+| Korean subcontract role (most likely) | Korean design, equipment, and construction combined as subcontracts within the AP1000 build | KEPCO E&C design (brokerage estimate of about 300 billion won per unit), Doosan Enerbility main equipment and large forgings, Hyundai E&C, Daewoo E&C, and Samsung C&T on construction | Design scope and contract value, forging volume |
+| Westinghouse equity SPC | Korea-US joint SPC taking up to a 20% stake | Doosan and KEPCO E&C hope for volume priority, against the loss-sharing burden on KEPCO and KHNP | The SPC's loss-sharing terms and decision-making authority |
+| Fermi main EPC contract | Part of a four-unit AP1000, 11GW complex | Hyundai E&C. Would be Korea's first EPC contract on a large US nuclear plant if it happens | The owner's governance, financial close, guarantee caps |
+| Small modular reactors | Holtec's SMR-300 (two Palisades units, Gulf South), TerraPower's sodium reactor, X-energy, NuScale | Hyundai E&C construction, Doosan equipment (a reservation agreement for forgings on up to 16 X-energy units) | Site-by-site permitting and orders, the substance behind the Tennessee project |
+
+[Fact: company announcements, media reports. The 300 billion won per unit figure is NH Investment & Securities' February estimate]
+
+One distinction is worth making. The Palisades fuel loading that Holtec announced in late August is the restart of an existing plant, not a new SMR order. The NuScale project in Tennessee has no specified site, and TVA's Clinch River project in the same state is a separate matter, built around GE Hitachi's BWRX-300. [Fact: company announcements, media reports] Lumping together projects with similar names produces the wrong list of beneficiary stocks.
+
+The stock-price implication mirrors the section that follows. Both nuclear rallies, on March 20 and August 25, were reactions to media reports, and the second was a reaction to a report that was later denied. The next event that will move stocks on the nuclear track is not a selection announcement but disclosure of a confirmed reactor type and a design or equipment contract.
+
+## 4. How Much Have the Stocks Already Priced In
 
 <figure class="kii-figure">
 <div class="kii-figure__frame">
@@ -415,11 +496,11 @@ The pullback is an event specific to this theme. Over the week after the August 
 
 The fact that this basket trades on geopolitical headlines together is also measurable. On August 31, the KOSPI fell as much as 3.55% intraday on Fed Chair Powell's remarks and a sell-off in US tech stocks, then closed up 0.46% on buying in large-cap semiconductor names. Samsung Electronics rose 1.17% and SK Hynix 1.27%. Yet Daewoo E&C fell 7.62%, Doosan Enerbility 6.46%, Hyosung Heavy Industries 6.03%, KEPCO E&C 4.90%, Hyundai E&C 4.34%, and BHI 3.98%. [Fact: exchange data] Only these stocks fell on a day the index closed higher, the mirror image of the same stocks rising 10% to 20% on August 25. If a deployment decision is followed by a phase where Iranian retaliation becomes real, this basket will be the first to shake, regardless of fundamentals.
 
-## 4. The Alpha Is in the Contracts, Not the Equity
+## 5. The Alpha Is in the Contracts, Not the Equity
 
 Look again at the structure of the joint fact sheet. Returns on the capital Korea puts in are split 50 to 50 until principal and interest are recovered, and 90 to 10 in favor of the United States after that. [Fact: White House fact sheet] The upside on Korea's equity stake effectively ends at recovery of principal and interest. For Korean listed companies to make money from this project, they need supply contracts, not equity. The questions are who builds the gas turbines, who supplies the HRSGs, and on what terms someone takes on construction.
 
-This is where the two countries' interests diverge. The United States wants to expand US production, equipment, and technology supply chains, while Korea wants to protect domestic manufacturing and equipment exports. A division of labor that pairs US technology and local construction with Korean manufacturing is the likely compromise. [Inference] Announcing the near-term gas plant work alongside a follow-on nuclear design and long-lead equipment agreement, as one bundle, is a structure that could satisfy both sides' talking points, but it is not a confirmed agreement.
+This is where the two countries' interests diverge. The United States wants to expand US production, equipment, and technology supply chains, while Korea wants to protect domestic manufacturing and equipment exports. A division of labor that pairs US technology and local construction with Korean manufacturing is the likely compromise. [Inference] The package hypothesis in section 3 is one form of that compromise, and it is not a confirmed agreement.
 
 ### BHI: The Combined-Cycle Order Over the Gas Plant
 
@@ -459,7 +540,7 @@ At 119,700 won, the stock trades at about 30x trailing earnings per share of 3,9
 
 Buying all three names together does not diversify the risk. All three are exposed to the same variables: US power investment and Korean policy execution.
 
-## 5. Other Tracks: LNG, Shipbuilding, Semiconductors, and Steel
+## 6. Other Tracks: LNG, Shipbuilding, Semiconductors, and Steel
 
 <strong>LNG</strong> is the track whose character has changed because of the Hormuz blockade. There were reports that a Louisiana LNG export terminal had fallen out of contention over cost and profitability concerns, but while Gulf LNG supply is under strain, long-term US LNG purchases have become a Korean energy security priority. A structure built around purchase contracts, carriers, and floating facilities, rather than equity, is also easier to sell to the National Assembly. POSCO International is already in through equity, steel pipe, and a one-million-ton annual purchase commitment tied to Alaska LNG, and its stock is up only 8.5% since July 28, suggesting less expectation has attached to it. [Fact: media reports, exchange data]
 
@@ -471,7 +552,7 @@ Buying all three names together does not diversify the risk. All three are expos
 
 Cash goes out first, and revenue comes later, on the way to the 2029 target of 2.7 million tons of annual production. The stock, up 22.1% since July 28, has seen almost no pullback.
 
-## 6. Events That Would Change the Judgment
+## 7. Events That Would Change the Judgment
 
 The nearest catalyst is the government's finish-within-September timeline, with no exact date attached. When the announcement comes, look first at Korea's investment amount, the share of Korean-made supply, and how binding the contracts are, not the project name.
 
@@ -482,6 +563,8 @@ The nearest catalyst is the government's finish-within-September timeline, with 
 | Encinal turbines confirmed to a foreign supplier | Remove the project-specific expectation from Doosan. Treat BHI's boiler as a separate contract |
 | Only the simple gas turbine phase moves forward first | Push back the timing of profit realization for BHI |
 | Hyundai E&C's main EPC contract clarifies liability caps, cost adjustment, and exemptions | Recalculate project value with the risk reflected |
+| Reactor type is confirmed and a design or equipment contract is disclosed | This is the real catalyst for the nuclear track. Evaluate KEPCO E&C and Doosan Enerbility on contract scope and value, and the contractor on guarantee terms |
+| A Westinghouse equity SPC is revived as an actual agenda item | Look first at the loss-sharing terms and decision-making authority. The equity stake itself is a burden borne by KEPCO and KHNP |
 | Iranian retaliation phase following a deployment decision | Do not add exposure, using the August 31 precedent that confirmed this basket's geopolitical beta |
 | Deployment falls through and a delay-or-scale-back scenario is confirmed | The 25% tariff, Section 301, and the Coupang matter return as pressure. Avoid order-less theme stocks first |
 
@@ -493,7 +576,7 @@ Getting the first project right is not, by itself, enough to earn excess returns
 
 The stocks mentioned in this piece are examples for analysis and are not a recommendation to buy or sell any specific stock. Responsibility for investment decisions and their outcomes rests with the investor. Share prices are Korea Exchange closing prices as of September 4, 2026, and period returns and daily price changes were calculated in-house from exchange data. The scenario probabilities and the 60% probability of the deployment going ahead are subjective judgments based on the strength of public evidence and are not based on confirmed deal terms. Encinal's project sponsor, water rights, power purchase agreement, Korea's funding burden, equipment suppliers, and the guarantee cap in the main nuclear contract could not be confirmed due to insufficient public evidence.
 
-BHI's earnings per share splits between 1,682 won and 2,107 won depending on the data provider, so the multiple is given as a range, and trailing multiples were not used for relative comparison across the three companies because their business mix and profit recognition differ. The claim that Hyundai E&C disclosed FEED completion in August was not confirmed in public sources and was excluded from the body of this piece. Company and government announcements establish that an agreement exists, not that it is economically sound, and brokerage target prices are opinions that reflect future orders, not confirmed profit.
+BHI's earnings per share splits between 1,682 won and 2,107 won depending on the data provider, so the multiple is given as a range, and trailing multiples were not used for relative comparison across the three companies because their business mix and profit recognition differ. The claim that Hyundai E&C disclosed FEED completion in August was not confirmed in public sources and was excluded from the body of this piece. The March 20 and August 25 price changes are based on exchange closing prices, and the Westinghouse equity SPC and the ten AP1000 units were the content of the August 24 report, which the government denied the next day. Company and government announcements establish that an agreement exists, not that it is economically sound, and brokerage target prices are opinions that reflect future orders, not confirmed profit.
 
 ### Related posts
 
