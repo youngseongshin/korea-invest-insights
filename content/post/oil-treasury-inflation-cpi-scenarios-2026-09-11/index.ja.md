@@ -63,6 +63,8 @@ EIAは米国の中間留分在庫が9月に1億バレルを下回り、2026年�
 
 原油が下がっても軽油マージンや運賃が上がれば、製造業の負担は残ります。逆に製品供給が回復すれば、原油が高止まりしていても一部費用は先に落ち着く可能性があります。
 
+<blockquote id="eia-source-timing-note"><p>出典確認：EIAの<a href="https://www.eia.gov/outlooks/steo/report/petro_prod.php">詳細見通し</a>は1億バレル割れを9月とする一方、同日付の<a href="https://www.eia.gov/pressroom/releases/press592.php">報道発表</a>は10月としています。上記の9月は詳細本文に基づきます。月を確定せず、9～10月の在庫圧力と実際の週次在庫で判断すべきです。</p></blockquote>
+
 ## 4. PPIは翌月CPIを確定する公式ではありません
 
 | 8月PPI内訳 | 前月比 | 読み方 |

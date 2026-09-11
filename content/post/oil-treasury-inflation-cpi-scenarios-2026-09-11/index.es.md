@@ -63,6 +63,8 @@ El mismo análisis prevé márgenes de refino del diésel superiores a 2 dólare
 
 Un crudo descendente con márgenes de diésel o fletes ascendentes puede mantener el coste industrial elevado. A la inversa, normalizar productos puede aliviar algunos costes incluso antes de abaratarse el crudo.
 
+<blockquote id="eia-source-timing-note"><p>Comprobación de fuentes: el <a href="https://www.eia.gov/outlooks/steo/report/petro_prod.php">informe detallado</a> de la EIA sitúa la caída por debajo de 100 millones de barriles en septiembre, mientras su <a href="https://www.eia.gov/pressroom/releases/press592.php">comunicado del mismo día</a> señala octubre. El texto anterior sigue el informe detallado. El mes exacto es incierto: utilizar septiembre–octubre como ventana y comprobar los inventarios semanales reales.</p></blockquote>
+
 ## 4. El IPP no determina mecánicamente el próximo IPC
 
 | Componente del IPP de agosto | Cambio mensual | Interpretación |

@@ -69,6 +69,8 @@ The same outlook projects US diesel crack spreads above $2 per gallon during Aug
 
 Consequently, monitoring crude alone can miss the inflation channel. Falling crude alongside rising diesel margins or freight rates may leave manufacturers under pressure. Conversely, normalizing product availability can ease some operating costs even before crude becomes cheap.
 
+<blockquote id="eia-source-timing-note"><p>Source check: the EIA <a href="https://www.eia.gov/outlooks/steo/report/petro_prod.php">detailed outlook</a> places the fall below 100 million barrels in September, while its same-day <a href="https://www.eia.gov/pressroom/releases/press592.php">press release</a> says October. September above follows the detailed text. The precise month is uncertain; use a September–October window and actual weekly inventories rather than treating either month as settled.</p></blockquote>
+
 ## 4. PPI is a warning, not a formula for next month's CPI
 
 The August producer-price report contains substantial pressure, but it is not a uniform acceleration across the economy.[^ppi]

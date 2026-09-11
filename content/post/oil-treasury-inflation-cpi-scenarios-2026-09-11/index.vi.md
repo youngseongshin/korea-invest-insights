@@ -63,6 +63,8 @@ EIA còn dự báo chênh lệch giá diesel so với dầu thô trên 2 USD/gal
 
 Dầu thô giảm nhưng chênh lệch diesel hoặc cước vận tải tăng vẫn có thể khiến doanh nghiệp sản xuất chịu áp lực. Ngược lại, nguồn cung sản phẩm bình thường hóa có thể giảm một phần chi phí trước khi dầu thô trở nên rẻ.
 
+<blockquote id="eia-source-timing-note"><p>Kiểm tra nguồn: <a href="https://www.eia.gov/outlooks/steo/report/petro_prod.php">triển vọng chi tiết</a> của EIA ghi tồn kho xuống dưới 100 triệu thùng vào tháng 9, nhưng <a href="https://www.eia.gov/pressroom/releases/press592.php">thông cáo cùng ngày</a> ghi tháng 10. Tháng 9 ở trên theo phần chi tiết. Thời điểm chính xác chưa thống nhất; nên dùng khoảng tháng 9–10 và kiểm tra tồn kho tuần thực tế.</p></blockquote>
+
 ## 4. PPI không ấn định CPI tháng kế tiếp
 
 | Thành phần PPI tháng 8 | Thay đổi theo tháng | Diễn giải |

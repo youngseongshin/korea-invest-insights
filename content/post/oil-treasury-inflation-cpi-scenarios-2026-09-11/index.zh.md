@@ -63,6 +63,8 @@ EIA预测美国包括柴油在内的馏分油库存9月将低于1亿桶，并在
 
 若原油下降而柴油价差与运费上升，制造企业仍承受成本压力。相反，产品供应恢复可能在原油仍高位时先缓解一部分成本。
 
+<blockquote id="eia-source-timing-note"><p>来源核验：EIA<a href="https://www.eia.gov/outlooks/steo/report/petro_prod.php">详细展望</a>将库存跌破1亿桶的时间列为9月，但同日<a href="https://www.eia.gov/pressroom/releases/press592.php">新闻稿</a>写的是10月。上文9月依据详细正文。具体月份仍不确定，应以9至10月的库存压力及实际周度数据判断，而非将某月视为定论。</p></blockquote>
+
 ## 4. PPI是风险信号，不是下个月CPI的确定公式
 
 | 8月PPI分项 | 环比 | 含义 |

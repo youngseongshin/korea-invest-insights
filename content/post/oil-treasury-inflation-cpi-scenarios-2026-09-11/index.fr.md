@@ -63,6 +63,8 @@ Elle prévoit aussi un écart de raffinage du diesel supérieur à 2 dollars par
 
 Une baisse du brut avec hausse des écarts diesel ou du fret peut laisser les industriels sous pression. Inversement, une amélioration de la disponibilité des produits peut soulager certains coûts avant que le brut ne redevienne bon marché.
 
+<blockquote id="eia-source-timing-note"><p>Vérification des sources : les <a href="https://www.eia.gov/outlooks/steo/report/petro_prod.php">prévisions détaillées</a> de l’EIA situent le passage sous 100 millions de barils en septembre, contre octobre dans son <a href="https://www.eia.gov/pressroom/releases/press592.php">communiqué du même jour</a>. Le texte ci-dessus suit la version détaillée. Le mois exact reste incertain : retenir une fenêtre septembre–octobre et vérifier les stocks hebdomadaires observés.</p></blockquote>
+
 ## 4. Le PPI n'impose pas le CPI du mois suivant
 
 | Composante du PPI d'août | Variation mensuelle | Lecture |
