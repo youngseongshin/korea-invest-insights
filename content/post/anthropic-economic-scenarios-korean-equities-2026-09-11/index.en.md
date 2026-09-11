@@ -8,7 +8,7 @@ description: "Anthropic's economic scenarios and occupational exposure data poin
 draft: false
 ---
 
-In Anthropic's extreme scenario, the economy is 32.4% larger at the start of 2030 than on a no-AI path, while cognitive employment is 21.5% lower than in mid-2026. Neither number is a forecast for semiconductor revenue or a probability of job loss. The comparators are different, and the scenario has no assigned probability.[^paper]
+In Anthropic's [extreme scenario](https://www-cdn.anthropic.com/files/4zrzovbb/website/cf58f84d46a4a76bf5a5b039ac695fba6b80041c.pdf), the economy is 32.4% larger at the start of 2030 than on a no-AI path, while cognitive employment is 21.5% lower than in mid-2026. Neither number is a forecast for semiconductor revenue or a probability of job loss. The comparators are different, and the scenario has no assigned probability.
 
 For Korean equities, the useful question is who retains the savings when office work becomes cheaper. A bank may reduce processing costs while its outsourcing supplier loses billable hours. A software vendor may sell more AI services while paying still more for infrastructure. A memory supplier may benefit from demand, but expansion, depreciation and the purchase valuation determine shareholder returns.
 
@@ -16,7 +16,7 @@ For Korean equities, the useful question is who retains the savings when office 
 
 ## The macro model is not an occupation-by-occupation forecast
 
-The September economic paper models two labor groups. The detailed exposure readings come from a separate March study using observed Claude activity and task characteristics. Exposure is not displacement, and US occupational aggregates cannot simply be transplanted to Korea.[^paper][^labor]
+The September [economic paper](https://www-cdn.anthropic.com/files/4zrzovbb/website/cf58f84d46a4a76bf5a5b039ac695fba6b80041c.pdf) models two labor groups. The detailed exposure readings come from a separate [March study](https://www.anthropic.com/research/labor-market-impacts) using observed Claude activity and task characteristics. Exposure is not displacement, and US occupational aggregates cannot simply be transplanted to Korea.
 
 | Published Table 3: start of 2030 | Modest | Substantial | Extreme |
 |---|---:|---:|---:|
@@ -29,7 +29,7 @@ The September economic paper models two labor groups. The detailed exposure read
 | Capital share of income | 40.6% | 43.9% | 54.8% |
 | Capital income versus no-AI path | +3.1% | +18.9% | +81.4% |
 
-These are published model outputs, not independently re-solved estimates. GDP gaps are level differences, not compound annual growth rates. Higher average pay among employed workers also says little by itself about displaced workers' income.[^paper]
+These are published [model outputs](https://www-cdn.anthropic.com/files/4zrzovbb/website/cf58f84d46a4a76bf5a5b039ac695fba6b80041c.pdf), not independently re-solved estimates. GDP gaps are level differences, not compound annual growth rates. Higher average pay among employed workers also says little by itself about displaced workers' income.
 
 The investor's inference is that aggregate prosperity and the profitability of an individual business can diverge. The owner of a needed input and a vendor paid for a shrinking activity can face opposite outcomes in the same economy.
 
@@ -47,13 +47,13 @@ Task mass in the paper is weighted by the pre-AI wage bill. It is not headcount.
 | New-task reinstatement ratio ρ | 50% | 25% | 0% |
 | Net labor-task mass removed (1−ρ)×m×d×ψ | 1% | 6.75% | 27% |
 
-The final row is not an employment forecast. Another unit trap is the productivity parameter a: 0.30, 0.45 and 0.80 are log gains, corresponding to exp(a)−1 of about 35.0%, 56.8% and 122.6%, not 30%, 45% and 80%.[^paper]
+The final row is not an employment forecast. Another unit trap is the [productivity parameter](https://www-cdn.anthropic.com/files/4zrzovbb/website/cf58f84d46a4a76bf5a5b039ac695fba6b80041c.pdf) a: 0.30, 0.45 and 0.80 are log gains, corresponding to exp(a)−1 of about 35.0%, 56.8% and 122.6%, not 30%, 45% and 80%.
 
 For equities, do not multiply the number of office workers by a developer's token consumption. A usable demand model needs deployed workers or workflows, frequency, task duration, successful completion, retries and the computation required per completion. It then needs product mix and prices. A GDP uplift is not an HBM shipment forecast.
 
 ## Occupational change identifies the customer and the endangered revenue unit
 
-The exposure percentages below are Figure 3 values from the March research, not September adoption rates. The business implications are analytical hypotheses.[^labor]
+The exposure percentages below are [Figure 3 values from the March research](https://www.anthropic.com/research/labor-market-impacts), not September adoption rates. The business implications are analytical hypotheses.
 
 | Occupation | Observed exposure | Potential spending shift | Revenue at risk |
 |---|---:|---|---|
@@ -74,21 +74,21 @@ The same change can benefit a customer and hurt its supplier. A reduction in pro
 
 ## Memory needs deployment evidence, not a labor-market multiplier
 
-Samsung Electronics' July results attributed memory strength to server-focused demand and higher prices. Management also described server DRAM, enterprise SSDs and HBM as areas of expected second-half demand growth. Those statements are company evidence and guidance, not independent proof of future demand.[^samsung]
+Samsung Electronics' [July results](https://news.samsung.com/global/samsung-electronics-announces-second-quarter-2026-results) attributed memory strength to server-focused demand and higher prices. Management also described server DRAM, enterprise SSDs and HBM as areas of expected second-half demand growth. Those statements are company evidence and guidance, not independent proof of future demand.
 
 Samsung Electronics and SK hynix therefore belong on a memory watchlist, but the test is application-level demand, product qualification, shipment mix, pricing and cash returns after expansion. This article does not estimate SK hynix earnings or imply an unverified valuation discount.
 
 A reasonable upside hypothesis is that recurring office-agent execution broadens inference demand. A reasonable downside hypothesis is that more efficient inference, lower prices, weak customer monetization or excessive expansion reduce the profit captured per unit of usage. Both can be true at once: token volume may grow while hardware profits disappoint.
 
-Within one diversified company, effects can also offset. Samsung reported an operating loss in its mobile and networks businesses alongside memory strength, citing component cost pressure. Investors should not apply a memory pricing benefit to the entire group without a segment bridge.[^samsung]
+Within one diversified company, effects can also offset. Samsung reported an operating loss in its mobile and networks businesses alongside memory strength, citing component cost pressure in its [July results](https://news.samsung.com/global/samsung-electronics-announces-second-quarter-2026-results). Investors should not apply a memory pricing benefit to the entire group without a segment bridge.
 
 ## Power equipment benefits from scarce delivery capacity, not unlimited scarcity
 
-HD Hyundai Electric told Reuters that its backlog reached USD 8.5 billion at end-June, 23% above year-end, with more than three years of orders and discussions extending to 2030 deliveries. This is evidence of contracted demand and long lead times, not certainty about the margin of every future order.[^power]
+HD Hyundai Electric told [Reuters](https://www.reuters.com/business/energy/not-just-nvidia-these-power-cooling-firms-are-riding-trillion-dollar-data-centre-2026-09-01/) that its backlog reached USD 8.5 billion at end-June, 23% above year-end, with more than three years of orders and discussions extending to 2030 deliveries. This is evidence of contracted demand and long lead times, not certainty about the margin of every future order.
 
 An investor should connect orders to delivery schedules, advances, cancellation terms, cost pass-through, factory expansion and cash collection. A long backlog can protect utilization; it can also contain low-priced contracts signed before costs rose. Backlog value alone cannot resolve that distinction.
 
-The macro paper offers a useful stress test. Holding the extreme technology scenario but changing capital supply elasticity gives:[^paper]
+The [macro paper](https://www-cdn.anthropic.com/files/4zrzovbb/website/cf58f84d46a4a76bf5a5b039ac695fba6b80041c.pdf) offers a useful stress test. Holding the extreme technology scenario but changing capital supply elasticity gives:
 
 | Capital-supply elasticity ε | GDP gap | Net return on capital | Capital stock gap |
 |---|---:|---:|---:|
@@ -101,11 +101,11 @@ These are Table 5 outputs; the no-AI net return is 6.5%. Capital elasticity is n
 
 ## Samsung SDS and LG CNS require a bridge from projects to recurring profit
 
-Samsung SDS reported Q2 revenue of KRW 3.7178 trillion and operating profit of KRW 231.8 billion, up 5.9% and 0.7% year on year. Cloud revenue grew 17%. Logistics revenue was KRW 1.9553 trillion, about 52.6% of total revenue by division.[^sds]
+Samsung SDS [reported](https://www.samsungsds.com/kr/news/ss-260730.html) Q2 revenue of KRW 3.7178 trillion and operating profit of KRW 231.8 billion, up 5.9% and 0.7% year on year. Cloud revenue grew 17%. Logistics revenue was KRW 1.9553 trillion, about 52.6% of total revenue by division.
 
 That mix is why company-wide revenue cannot be labeled AI revenue. The analytical question is whether new deployments become reusable products and recurring operating contracts, or remain labor-intensive implementation projects. Faster code generation may reduce delivery costs while customers demand lower project prices. A growing AI order book is not enough to determine the net effect.
 
-LG CNS describes contact-center offerings spanning integration, generative AI assistance, subscriptions and usage-based services. Its own product material discusses implementation, maintenance and security challenges.[^lg] This establishes commercial exposure, not a verified AI profit contribution.
+LG CNS [describes](https://www.lgcns.com/en/service/ai/ai-contact-center) contact-center offerings spanning integration, generative AI assistance, subscriptions and usage-based services. Its own product material discusses implementation, maintenance and security challenges. This establishes commercial exposure, not a verified AI profit contribution.
 
 For both companies, request the share of repeatable products, external-customer renewals, deployment costs, ongoing human support, infrastructure depreciation and operating cash flow. Infrastructure ownership and software distribution should be valued separately when their capital requirements differ.
 
@@ -115,7 +115,7 @@ Financial analysts, support staff and administrative workflows suggest a cost-sa
 
 There is also a second-order risk. A technology transition that damages some borrowers' employment can worsen credit costs at the same time it improves back-office efficiency. This is a scenario to test, not a forecast for Korean defaults. Insurers similarly need claims-cost and pricing analysis rather than a blanket labor-savings uplift.
 
-Education, healthcare and field services need the same caution. Stronger demand for human services may raise both sales and wages. Without pricing power, the operator may not be the beneficiary. The paper excludes advanced robotics, and its cognitive category includes healthcare practitioners and technical occupations; the other-group wage gain cannot be assigned directly to nurses.[^paper]
+Education, healthcare and field services need the same caution. Stronger demand for human services may raise both sales and wages. Without pricing power, the operator may not be the beneficiary. The [paper](https://www-cdn.anthropic.com/files/4zrzovbb/website/cf58f84d46a4a76bf5a5b039ac695fba6b80041c.pdf) excludes advanced robotics, and its cognitive category includes healthcare practitioners and technical occupations; the other-group wage gain cannot be assigned directly to nurses.
 
 ## Saved time must become cash, and cash must survive competition
 
@@ -131,7 +131,7 @@ A separate pricing example illustrates the vendor problem. A 20% seat reduction 
 
 ## Wage adjustment makes headline unemployment highly assumption-sensitive
 
-Table 6 changes wage rigidity under the extreme technology path:[^paper]
+[Table 6](https://www-cdn.anthropic.com/files/4zrzovbb/website/cf58f84d46a4a76bf5a5b039ac695fba6b80041c.pdf) changes wage rigidity under the extreme technology path:
 
 | Annual relative-wage rigidity ξ | Cognitive wage gap | Cognitive unemployment |
 |---|---:|---:|
@@ -171,9 +171,11 @@ The 57-page technical paper and the separate occupational study were reviewed. T
 
 One accounting check remains unresolved. Table 3's extreme GDP gap of 32.4%, labor share of 45.2% and baseline share of 60% imply (1.324×0.452÷0.60−1)×100 = −0.259% labor-income change on a common-denominator identity, versus the reported +0.5%. The roughly 0.759-percentage-point difference cannot be explained by rounding those two inputs to one decimal alone. The published value is retained and the definition/output aggregation flagged for source verification, not declared a confirmed paper error. No investment conclusion relies on the precision of +0.5%.
 
-[^paper]: Korinek et al., September 2026, [Economic Scenarios for Transformative AI](https://www-cdn.anthropic.com/files/4zrzovbb/website/cf58f84d46a4a76bf5a5b039ac695fba6b80041c.pdf), Tables 1, 3, 5, 6 and appendices; [scenario explorer](https://www.anthropic.com/institute/econ-scenarios).
-[^labor]: Massenkoff and McCrory, March 5, 2026, [Labor market impacts of AI: A new measure](https://www.anthropic.com/research/labor-market-impacts), Figure 3. Observed exposure is not a job-loss probability.
-[^samsung]: Samsung Electronics, July 30, 2026, [Q2 results](https://news.samsung.com/global/samsung-electronics-announces-second-quarter-2026-results). Separate reported results from management outlook.
-[^sds]: Samsung SDS, July 30, 2026, [Q2 preliminary results](https://www.samsungsds.com/kr/news/ss-260730.html). Logistics share calculated as 19,553/37,178, rounded to one decimal.
-[^lg]: LG CNS, [AI Contact Center](https://www.lgcns.com/en/service/ai/ai-contact-center), accessed September 11, 2026. Product descriptions do not establish margins.
-[^power]: Reuters, September 1 UTC/updated September 2, 2026, [power and cooling equipment suppliers](https://www.reuters.com/business/energy/not-just-nvidia-these-power-cooling-firms-are-riding-trillion-dollar-data-centre-2026-09-01/), including statements by HD Hyundai Electric.
+## Sources
+
+- Korinek et al., September 2026, [Economic Scenarios for Transformative AI](https://www-cdn.anthropic.com/files/4zrzovbb/website/cf58f84d46a4a76bf5a5b039ac695fba6b80041c.pdf), Tables 1, 3, 5, 6 and appendices; [scenario explorer](https://www.anthropic.com/institute/econ-scenarios).
+- Massenkoff and McCrory, March 5, 2026, [Labor market impacts of AI: A new measure](https://www.anthropic.com/research/labor-market-impacts), Figure 3. Observed exposure is not a job-loss probability.
+- Samsung Electronics, July 30, 2026, [Q2 results](https://news.samsung.com/global/samsung-electronics-announces-second-quarter-2026-results). Separate reported results from management outlook.
+- Samsung SDS, July 30, 2026, [Q2 preliminary results](https://www.samsungsds.com/kr/news/ss-260730.html). Logistics share calculated as 19,553/37,178, rounded to one decimal.
+- LG CNS, [AI Contact Center](https://www.lgcns.com/en/service/ai/ai-contact-center), accessed September 11, 2026. Product descriptions do not establish margins.
+- Reuters, September 1 UTC/updated September 2, 2026, [power and cooling equipment suppliers](https://www.reuters.com/business/energy/not-just-nvidia-these-power-cooling-firms-are-riding-trillion-dollar-data-centre-2026-09-01/), including statements by HD Hyundai Electric.
