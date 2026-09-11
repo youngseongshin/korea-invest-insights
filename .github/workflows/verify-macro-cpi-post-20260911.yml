@@ -17,11 +17,40 @@ jobs:
   verify:
     runs-on: ubuntu-latest
     timeout-minutes: 12
+    permissions:
+      contents: write
     steps:
       - uses: actions/checkout@v4
         with:
           submodules: recursive
           fetch-depth: 0
+      - name: Add the reviewed EIA timing discrepancy note to this draft only
+        if: github.ref == 'refs/heads/publish/macro-cpi-20260911'
+        run: |
+          python3 - <<'PY'
+          from pathlib import Path
+          import re
+          directory = Path('content/post/oil-treasury-inflation-cpi-scenarios-2026-09-11')
+          details = 'https://www.eia.gov/outlooks/steo/report/petro_prod.php'
+          release = 'https://www.eia.gov/pressroom/releases/press592.php'
+          notes = {
+            'ko': '출처 점검: EIA의 <a href="'+details+'">상세 전망</a>은 재고 1억 배럴 하회 시점을 9월, 같은 날의 <a href="'+release+'">보도자료</a>는 10월로 제시해 서로 다릅니다. 위 문장의 9월은 상세 전망 기준입니다. 특정 월을 확정하지 않고 9~10월의 재고 압력과 실제 주간 재고로 판단하는 편이 안전합니다.',
+            'en': 'Source check: the EIA <a href="'+details+'">detailed outlook</a> places the fall below 100 million barrels in September, while its same-day <a href="'+release+'">press release</a> says October. September above follows the detailed text. The precise month is uncertain; use a September–October window and actual weekly inventories rather than treating either month as settled.',
+            'ja': '出典確認：EIAの<a href="'+details+'">詳細見通し</a>は1億バレル割れを9月とする一方、同日付の<a href="'+release+'">報道発表</a>は10月としています。上記の9月は詳細本文に基づきます。月を確定せず、9～10月の在庫圧力と実際の週次在庫で判断すべきです。',
+            'zh': '来源核验：EIA<a href="'+details+'">详细展望</a>将库存跌破1亿桶的时间列为9月，但同日<a href="'+release+'">新闻稿</a>写的是10月。上文9月依据详细正文。具体月份仍不确定，应以9至10月的库存压力及实际周度数据判断，而非将某月视为定论。',
+            'fr': 'Vérification des sources : les <a href="'+details+'">prévisions détaillées</a> de l’EIA situent le passage sous 100 millions de barils en septembre, contre octobre dans son <a href="'+release+'">communiqué du même jour</a>. Le texte ci-dessus suit la version détaillée. Le mois exact reste incertain : retenir une fenêtre septembre–octobre et vérifier les stocks hebdomadaires observés.',
+            'es': 'Comprobación de fuentes: el <a href="'+details+'">informe detallado</a> de la EIA sitúa la caída por debajo de 100 millones de barriles en septiembre, mientras su <a href="'+release+'">comunicado del mismo día</a> señala octubre. El texto anterior sigue el informe detallado. El mes exacto es incierto: utilizar septiembre–octubre como ventana y comprobar los inventarios semanales reales.',
+            'vi': 'Kiểm tra nguồn: <a href="'+details+'">triển vọng chi tiết</a> của EIA ghi tồn kho xuống dưới 100 triệu thùng vào tháng 9, nhưng <a href="'+release+'">thông cáo cùng ngày</a> ghi tháng 10. Tháng 9 ở trên theo phần chi tiết. Thời điểm chính xác chưa thống nhất; nên dùng khoảng tháng 9–10 và kiểm tra tồn kho tuần thực tế.'
+          }
+          for lang, note in notes.items():
+              path = directory / ('index.'+lang+'.md')
+              text = path.read_text()
+              if 'eia-source-timing-note' not in text:
+                  replacement = '\n<blockquote id="eia-source-timing-note"><p>'+note+'</p></blockquote>\n\n## 4.'
+                  text, count = re.subn(r'\n## 4\.', lambda _: replacement, text, count=1)
+                  assert count == 1, ('section4', lang)
+                  path.write_text(text)
+          PY
       - name: Install production Hugo version
         run: |
           wget -q -O /tmp/hugo.deb https://github.com/gohugoio/hugo/releases/download/v0.159.2/hugo_extended_0.159.2_linux-amd64.deb
@@ -31,7 +60,7 @@ jobs:
           HUGO_ENVIRONMENT: production
           TZ: Asia/Seoul
         run: |
-          git diff --check ecab28d2ef496a4615c1eb276800ae6c4d3642d4 HEAD -- content/post/oil-treasury-inflation-cpi-scenarios-2026-09-11 static/img/macro-cpi-20260911
+          git diff --check ecab28d2ef496a4615c1eb276800ae6c4d3642d4 -- content/post/oil-treasury-inflation-cpi-scenarios-2026-09-11 static/img/macro-cpi-20260911
           hugo --minify
       - name: Record availability of the canonical local style gate
         run: |
@@ -58,14 +87,15 @@ jobs:
           languages = ['en', 'ko', 'es', 'vi', 'fr', 'ja', 'zh']
           figures = ['cpi-path', 'supply-chain', 'ppi-components', 'yield-decomposition', 'scenario-map', 'valuation-sensitivity']
           base = 'https://koreainvestinsights.com'
-          report = {'slug': slug, 'commit': os.environ.get('GITHUB_SHA'), 'source': {}, 'rendered': {}, 'live': {}, 'assets': {}, 'feeds': {}, 'canonical_style_gate': pathlib.Path('canonical-style-status.txt').read_text().strip(), 'private_distribution': {'status': 'not_executed', 'reason': 'Authorized local OpenClaw runner and channel credentials are not present in GitHub Actions; LinkedIn remains manual approval and Valley remains paused.'}}
+          report = {'slug': slug, 'event_commit': os.environ.get('GITHUB_SHA'), 'source': {}, 'rendered': {}, 'live': {}, 'assets': {}, 'feeds': {}, 'canonical_style_gate': pathlib.Path('canonical-style-status.txt').read_text().strip(), 'private_distribution': {'status': 'not_executed', 'reason': 'The local OpenClaw distribution runner is not present in GitHub Actions; no channel credentials were accessed.'}}
           class Links(HTMLParser):
               def __init__(self):
-                  super().__init__(); self.links = []; self.images = []
+                  super().__init__(); self.links = []; self.images = []; self.anchors = []
               def handle_starttag(self, tag, attrs):
                   attrs = dict(attrs)
                   if tag == 'link': self.links.append(attrs)
                   if tag == 'img': self.images.append(attrs)
+                  if tag == 'a': self.anchors.append(attrs)
           def url_for(lang):
               return base + ('' if lang == 'en' else '/' + lang) + '/post/' + slug + '/'
           def inspect_page(raw, lang):
@@ -79,18 +109,30 @@ jobs:
               for figure in figures:
                   assert '/img/macro-cpi-20260911/' + figure + '.svg' in images, ('figure', lang, figure)
               assert len(re.findall(r'<h2\b', raw)) >= 14, ('sections', lang)
-              assert 'fn:ppi' in raw and 'fn:credit' in raw, ('source_footnotes', lang)
+              # Goldmark renders numeric footnote IDs; verify actual source links, not Markdown labels.
+              anchors = {a.get('href') for a in parser.anchors}
+              for source in ['https://www.bls.gov/news.release/archives/ppi_09102026.htm', 'https://fred.stlouisfed.org/series/BAMLH0A0HYM2', 'https://www.eia.gov/pressroom/releases/press592.php']:
+                  assert source in anchors, ('source_link', lang, source)
+              assert 'eia-source-timing-note' in raw, ('source_discrepancy_note', lang)
               return {'status': 'passed', 'canonical': url_for(lang), 'language_links': 7, 'figures': 6, 'main_sections': 14}
           def request(url):
               req = urllib.request.Request(url, headers={'User-Agent': 'KII-Publication-Verification/1.0'})
               with urllib.request.urlopen(req, timeout=20) as response:
                   assert response.status == 200, response.status
                   return response.read()
+          def contains_sitemap_entry(url, expected, depth=0):
+              root = ET.fromstring(request(url))
+              locations = [e.text for e in root.iter() if e.tag.rsplit('}', 1)[-1] == 'loc' and e.text]
+              if expected in locations: return True
+              if root.tag.rsplit('}', 1)[-1] == 'sitemapindex' and depth < 2:
+                  return any(contains_sitemap_entry(child, expected, depth+1) for child in locations[:10] if child.startswith(base+'/'))
+              return False
           try:
               for lang in languages:
                   path = pathlib.Path('content/post') / slug / ('index.' + lang + '.md')
                   text = path.read_text()
-                  assert len(text) > 10000, ('length', lang)
+                  # Bytes avoid imposing Latin-script character counts on CJK translations.
+                  assert len(text.encode('utf-8')) > 10000, ('length', lang)
                   assert 'draft: false' in text and '2026-09-11T14:00:00+09:00' in text
                   assert len(re.findall(r'^## ', text, flags=re.M)) == 14, ('source_sections', lang)
                   definitions = set(re.findall(r'^\[\^([^\]]+)\]:', text, flags=re.M))
@@ -120,8 +162,7 @@ jobs:
                   while pending and time.monotonic() < deadline:
                       for lang in list(pending):
                           try:
-                              raw = request(url_for(lang)).decode('utf-8')
-                              report['live'][lang] = inspect_page(raw, lang)
+                              report['live'][lang] = inspect_page(request(url_for(lang)).decode('utf-8'), lang)
                               pending.remove(lang)
                           except Exception as exc:
                               report['live'][lang] = {'status': 'pending', 'error': str(exc)}
@@ -133,12 +174,12 @@ jobs:
                       report['assets'][figure]['live'] = 'passed'
                   for lang in languages:
                       prefix = '' if lang == 'en' else '/' + lang
-                      for name in ['feed.xml', 'sitemap.xml']:
-                          raw = request(base + prefix + '/' + name)
-                          root = ET.fromstring(raw)
-                          targets = [e.text for e in root.iter() if e.text and e.tag.rsplit('}', 1)[-1] in ['link', 'loc']]
-                          assert url_for(lang) in targets, ('feed_entry_missing', lang, name)
-                          report['feeds'][lang + '/' + name] = 'passed'
+                      root = ET.fromstring(request(base + prefix + '/feed.xml'))
+                      targets = [e.text for e in root.iter() if e.text and e.tag.rsplit('}', 1)[-1] == 'link']
+                      assert url_for(lang) in targets, ('feed_entry_missing', lang)
+                      report['feeds'][lang + '/feed.xml'] = 'passed'
+                      assert contains_sitemap_entry(base + prefix + '/sitemap.xml', url_for(lang)), ('sitemap_entry_missing', lang)
+                      report['feeds'][lang + '/sitemap.xml'] = 'passed'
                   report['publication'] = 'live_verified'
               else:
                   report['publication'] = 'prepublication_validated'
@@ -154,6 +195,17 @@ jobs:
                   out.write('# Macro CPI publication verification\n\n```json\n' + json.dumps(report, ensure_ascii=False, indent=2) + '\n```\n')
           if report['overall'] != 'passed': raise SystemExit(report.get('error', 'Verification failed'))
           PY
+      - name: Commit only the reviewed source notes to the publication branch
+        if: github.ref == 'refs/heads/publish/macro-cpi-20260911'
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add -- content/post/oil-treasury-inflation-cpi-scenarios-2026-09-11/index.*.md
+          if ! git diff --cached --quiet; then
+            git commit -m 'sources: disclose EIA September versus October inventory timing discrepancy'
+            git push origin HEAD:refs/heads/publish/macro-cpi-20260911
+          fi
+          git rev-parse HEAD > validated-source-commit.txt
       - name: Retain verification evidence
         if: always()
         uses: actions/upload-artifact@v4
@@ -163,4 +215,5 @@ jobs:
             publication-verification.json
             canonical-style-gate.txt
             canonical-style-status.txt
+            validated-source-commit.txt
           retention-days: 30
