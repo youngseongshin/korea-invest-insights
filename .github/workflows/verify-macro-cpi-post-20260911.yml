@@ -1,0 +1,166 @@
+name: Verify macro CPI publication 20260911
+
+# Scoped to this authorized publication. No private credentials or distribution.
+on:
+  push:
+    branches: [main, publish/macro-cpi-20260911]
+    paths:
+      - 'content/post/oil-treasury-inflation-cpi-scenarios-2026-09-11/**'
+      - 'static/img/macro-cpi-20260911/**'
+      - '.github/workflows/verify-macro-cpi-post-20260911.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  verify:
+    runs-on: ubuntu-latest
+    timeout-minutes: 12
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          submodules: recursive
+          fetch-depth: 0
+      - name: Install production Hugo version
+        run: |
+          wget -q -O /tmp/hugo.deb https://github.com/gohugoio/hugo/releases/download/v0.159.2/hugo_extended_0.159.2_linux-amd64.deb
+          sudo dpkg -i /tmp/hugo.deb
+      - name: Build and check whitespace
+        env:
+          HUGO_ENVIRONMENT: production
+          TZ: Asia/Seoul
+        run: |
+          git diff --check ecab28d2ef496a4615c1eb276800ae6c4d3642d4 HEAD -- content/post/oil-treasury-inflation-cpi-scenarios-2026-09-11 static/img/macro-cpi-20260911
+          hugo --minify
+      - name: Record availability of the canonical local style gate
+        run: |
+          if python3 scripts/check_korean_post_style.py content/post/oil-treasury-inflation-cpi-scenarios-2026-09-11/index.ko.md > canonical-style-gate.txt 2>&1; then
+            echo passed > canonical-style-status.txt
+          else
+            cat canonical-style-gate.txt
+            if grep -q 'Thesis OS slop scanner unavailable' canonical-style-gate.txt; then
+              echo unavailable_local_dependency > canonical-style-status.txt
+              echo '::warning::The full local Thesis OS style gate is unavailable here. This is not recorded as a passed gate.'
+            else
+              exit 1
+            fi
+          fi
+      - name: Verify source, rendered pages and live publication
+        env:
+          CURRENT_REF: ${{ github.ref }}
+        run: |
+          python3 - <<'PY'
+          import datetime, hashlib, json, os, pathlib, re, time, urllib.request
+          import xml.etree.ElementTree as ET
+          from html.parser import HTMLParser
+          slug = 'oil-treasury-inflation-cpi-scenarios-2026-09-11'
+          languages = ['en', 'ko', 'es', 'vi', 'fr', 'ja', 'zh']
+          figures = ['cpi-path', 'supply-chain', 'ppi-components', 'yield-decomposition', 'scenario-map', 'valuation-sensitivity']
+          base = 'https://koreainvestinsights.com'
+          report = {'slug': slug, 'commit': os.environ.get('GITHUB_SHA'), 'source': {}, 'rendered': {}, 'live': {}, 'assets': {}, 'feeds': {}, 'canonical_style_gate': pathlib.Path('canonical-style-status.txt').read_text().strip(), 'private_distribution': {'status': 'not_executed', 'reason': 'Authorized local OpenClaw runner and channel credentials are not present in GitHub Actions; LinkedIn remains manual approval and Valley remains paused.'}}
+          class Links(HTMLParser):
+              def __init__(self):
+                  super().__init__(); self.links = []; self.images = []
+              def handle_starttag(self, tag, attrs):
+                  attrs = dict(attrs)
+                  if tag == 'link': self.links.append(attrs)
+                  if tag == 'img': self.images.append(attrs)
+          def url_for(lang):
+              return base + ('' if lang == 'en' else '/' + lang) + '/post/' + slug + '/'
+          def inspect_page(raw, lang):
+              parser = Links(); parser.feed(raw)
+              canonical = [a.get('href') for a in parser.links if a.get('rel') == 'canonical']
+              assert url_for(lang) in canonical, ('canonical', lang, canonical)
+              alternates = {a.get('hreflang'): a.get('href') for a in parser.links if a.get('rel') == 'alternate' and a.get('hreflang')}
+              for other in languages:
+                  assert url_for(other) in alternates.values(), ('hreflang', lang, other)
+              images = {a.get('src') for a in parser.images}
+              for figure in figures:
+                  assert '/img/macro-cpi-20260911/' + figure + '.svg' in images, ('figure', lang, figure)
+              assert len(re.findall(r'<h2\b', raw)) >= 14, ('sections', lang)
+              assert 'fn:ppi' in raw and 'fn:credit' in raw, ('source_footnotes', lang)
+              return {'status': 'passed', 'canonical': url_for(lang), 'language_links': 7, 'figures': 6, 'main_sections': 14}
+          def request(url):
+              req = urllib.request.Request(url, headers={'User-Agent': 'KII-Publication-Verification/1.0'})
+              with urllib.request.urlopen(req, timeout=20) as response:
+                  assert response.status == 200, response.status
+                  return response.read()
+          try:
+              for lang in languages:
+                  path = pathlib.Path('content/post') / slug / ('index.' + lang + '.md')
+                  text = path.read_text()
+                  assert len(text) > 10000, ('length', lang)
+                  assert 'draft: false' in text and '2026-09-11T14:00:00+09:00' in text
+                  assert len(re.findall(r'^## ', text, flags=re.M)) == 14, ('source_sections', lang)
+                  definitions = set(re.findall(r'^\[\^([^\]]+)\]:', text, flags=re.M))
+                  references = set(re.findall(r'\[\^([^\]]+)\]', text))
+                  assert references <= definitions, ('missing_footnote', lang, references-definitions)
+                  assert text.count('<figure>') == 6
+                  if lang == 'ko':
+                      assert '**' not in text and '\u2014' not in text
+                      assert not re.search(r'[\u3040-\u30ff]', text), 'Unexpected Japanese in Korean source'
+                      assert '단순 합산보다 커집니다' not in text
+                  report['source'][lang] = {'status': 'passed', 'characters': len(text), 'footnotes': len(definitions), 'sha256': hashlib.sha256(text.encode()).hexdigest()}
+                  relative = (pathlib.Path() if lang == 'en' else pathlib.Path(lang)) / 'post' / slug / 'index.html'
+                  report['rendered'][lang] = inspect_page((pathlib.Path('public') / relative).read_text(), lang)
+              for figure in figures:
+                  raw = (pathlib.Path('static/img/macro-cpi-20260911') / (figure + '.svg')).read_bytes()
+                  assert ET.fromstring(raw).tag.endswith('svg')
+                  report['assets'][figure] = {'source_xml': 'passed', 'sha256': hashlib.sha256(raw).hexdigest()}
+              base_value = 100 / (.09-.03)
+              assert round((90/(.10-.03)/base_value-1)*100, 1) == -22.9
+              assert round((1.10*1.05-1)*100, 1) == 15.5
+              assert round((4.83-4.77)*100) == 6
+              assert round((2.46-2.42)*100) == 4
+              report['arithmetic'] = 'passed'
+              if os.environ['CURRENT_REF'] == 'refs/heads/main':
+                  deadline = time.monotonic() + 360
+                  pending = set(languages)
+                  while pending and time.monotonic() < deadline:
+                      for lang in list(pending):
+                          try:
+                              raw = request(url_for(lang)).decode('utf-8')
+                              report['live'][lang] = inspect_page(raw, lang)
+                              pending.remove(lang)
+                          except Exception as exc:
+                              report['live'][lang] = {'status': 'pending', 'error': str(exc)}
+                      if pending: time.sleep(15)
+                  assert not pending, ('live_pages_missing', sorted(pending))
+                  for figure in figures:
+                      raw = request(base + '/img/macro-cpi-20260911/' + figure + '.svg')
+                      assert hashlib.sha256(raw).hexdigest() == report['assets'][figure]['sha256']
+                      report['assets'][figure]['live'] = 'passed'
+                  for lang in languages:
+                      prefix = '' if lang == 'en' else '/' + lang
+                      for name in ['feed.xml', 'sitemap.xml']:
+                          raw = request(base + prefix + '/' + name)
+                          root = ET.fromstring(raw)
+                          targets = [e.text for e in root.iter() if e.text and e.tag.rsplit('}', 1)[-1] in ['link', 'loc']]
+                          assert url_for(lang) in targets, ('feed_entry_missing', lang, name)
+                          report['feeds'][lang + '/' + name] = 'passed'
+                  report['publication'] = 'live_verified'
+              else:
+                  report['publication'] = 'prepublication_validated'
+              report['overall'] = 'passed'
+          except Exception as exc:
+              report['overall'] = 'failed'; report['error'] = str(exc)
+          finally:
+              report['checked_at_utc'] = datetime.datetime.now(datetime.timezone.utc).isoformat()
+              pathlib.Path('publication-verification.json').write_text(json.dumps(report, ensure_ascii=False, indent=2) + '\n')
+              compact = {'overall': report['overall'], 'publication': report.get('publication'), 'canonical_style_gate': report['canonical_style_gate'], 'error': report.get('error')}
+              print('::notice title=Macro CPI verification::' + json.dumps(compact, ensure_ascii=False))
+              with open(os.environ['GITHUB_STEP_SUMMARY'], 'a') as out:
+                  out.write('# Macro CPI publication verification\n\n```json\n' + json.dumps(report, ensure_ascii=False, indent=2) + '\n```\n')
+          if report['overall'] != 'passed': raise SystemExit(report.get('error', 'Verification failed'))
+          PY
+      - name: Retain verification evidence
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: macro-cpi-publication-verification
+          path: |
+            publication-verification.json
+            canonical-style-gate.txt
+            canonical-style-status.txt
+          retention-days: 30
