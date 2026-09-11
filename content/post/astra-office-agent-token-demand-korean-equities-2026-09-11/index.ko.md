@@ -34,7 +34,7 @@ draft: false
 
 | 공개 항목 | Astra | GPT-5.6 Sol | 읽어야 할 의미 |
 |---|---:|---:|---|
-| AutomationBench | 41.4 | 18.1 | 업무 자동화 평가의 개선 신호이지, 전체 사무업무 자동화율은 아님 |
+| AutomationBench | 41.4% | 18.1% | 업무 자동화 평가의 개선 신호이지, 전체 사무업무 자동화율은 아님 |
 | OSWorld 2.0 부분점수 | 72.6% | 65.7% | 오프라인 평가 하위 집합의 부분점수이며, 완전 무인 성공률이 아님 |
 | OSWorld 지연시간 시뮬레이션 | 40분 | 75분 | 특정 평가 조건의 소요시간이며, 현장 노동시간 절감률과 다름 |
 
@@ -128,7 +128,7 @@ AI는 모델의 가중치뿐 아니라 이전 문맥의 계산 결과도 보관�
 
 하지만 모든 상태가 비싼 HBM에 계속 머무를 필요는 없습니다. 엔비디아는 2026년 3월 STX와 CMX를 발표하면서 장기 맥락을 위한 별도 저장 계층을 제시했습니다. 이는 메모리 용량을 넓히는 동시에 기존 GPU를 더 효율적으로 쓰려는 설계입니다. 업체가 제시한 성능 개선치는 제품·비교 환경에 따른 주장이지, 전체 데이터센터의 실측 개선률이 아닙니다.[^nvidia]
 
-7월 공개된 HyMCache 연구도 DRAM과 SSD를 결합해 이전 계산을 재사용하는 방식을 실험했습니다. 한 실험 구성에서는 비교 시스템보다 DRAM을 훨씬 적게 쓰는 대신 성능 일부를 포기했습니다. 연구 결과가 당장 대규모 상용 설계로 채택됐다는 뜻은 아니지만, 토큰 증가가 특정 메모리 제품의 동일 비율 증가로 이어지지 않는 반례입니다.[^cache]
+7월 최초 공개되고 8월 개정된 HyMCache 연구도 DRAM과 SSD를 결합해 이전 계산을 재사용하는 방식을 실험했습니다. 한 실험 구성에서는 비교 시스템보다 DRAM을 훨씬 적게 쓰는 대신 성능 일부를 포기했습니다. 연구 결과가 당장 대규모 상용 설계로 채택됐다는 뜻은 아니지만, 토큰 증가가 특정 메모리 제품의 동일 비율 증가로 이어지지 않는 반례입니다.[^cache]
 
 따라서 한국 투자자에게 유효한 가설은 장기 실행이 HBM 수요를 없애거나 무조건 폭증시킨다는 양자택일이 아닙니다. 빠른 계산용 HBM, 서버용 DRAM, 대용량 기업용 SSD가 어떻게 역할을 나누며, 공급 업체가 각 영역에서 이익을 확보하는지를 봐야 합니다. 저장되는 문서량과 토큰량도 동일하지 않습니다. 같은 자료를 반복 읽었다면 토큰은 늘어도 원본 저장량은 거의 늘지 않을 수 있습니다.
 
@@ -161,7 +161,7 @@ SK하이닉스는 8월 26일 공개한 제품 소개에서 HBM, 서버 DRAM, 기
 
 ### LS ELECTRIC: 토큰이 아니라 실제 건설과 설비 주문에 투자합니다
 
-LS ELECTRIC은 8월 24일 북미 AI 데이터센터 전력설비 프로젝트 약 2,309억 원 수주를 발표했습니다. 데이터센터 전력설비라는 사업 연결은 실제 계약으로 확인됩니다. 다만 Astra 발표보다 앞선 계약이므로 Astra의 효과로 귀속하면 안 됩니다.[^ls]
+LS ELECTRIC은 8월 24일 북미 AI 데이터센터 전력설비 계약의 증액을 발표했으며, 변경 후 총액은 약 2,309억 원입니다. 기존 계약에 이 금액 전부를 추가 수주로 다시 더하면 안 됩니다. 데이터센터 전력설비라는 사업 연결은 실제 계약으로 확인되지만, Astra 발표보다 앞선 계약이므로 Astra의 효과로 귀속할 수 없습니다.[^ls]
 
 사무업무의 계산 수요가 기존 설비 가동률을 높이는 데 그치면 신규 전력설비 주문은 바로 늘지 않습니다. 수요가 지속되고 자금 조달과 전력 연결이 확보돼 추가 건설로 이어져야 합니다. 높은 금리와 건설 지연은 장기적인 수요 증가와 동시에 존재할 수 있습니다.
 
@@ -215,12 +215,12 @@ Astra가 열 수 있는 시장은 더 많은 답변의 시장보다 더 많은 �
 [^finance]: OpenAI, [Introducing ChatGPT Financial Services](https://openai.com/index/introducing-chatgpt-financial-services/), 2026-09-10.
 [^data]: OpenAI, [Put data to work](https://openai.com/index/put-data-to-work/), 2026-09-10.
 [^agents]: OpenAI, [Introducing the Agents API](https://openai.com/index/introducing-the-agents-api/), 2026-09-10.
-[^coding]: Bai 외, [How Do AI Agents Spend Your Money? Analyzing and Predicting Token Consumption in Agentic Coding Tasks](https://arxiv.org/abs/2604.22750), 2026-04-24. 공개 초록 기준이며 평가 결과를 전체 사무업무로 일반화하지 않았습니다.
+[^coding]: Bai 외, [How Do AI Agents Spend Your Money? Analyzing and Predicting Token Consumption in Agentic Coding Tasks](https://arxiv.org/abs/2604.22750v2), 최초 공개 2026-04-24, 개정 2026-04-29. 공개 초록 기준이며 평가 결과를 전체 사무업무로 일반화하지 않았습니다.
 [^anthropic]: Anthropic, [How we built our multi-agent research system](https://www.anthropic.com/engineering/multi-agent-research-system), 2025-06-13.
 [^nvidia]: NVIDIA, [NVIDIA Launches BlueField-4 STX Storage Architecture With Broad Industry Adoption](https://nvidianews.nvidia.com/news/nvidia-launches-bluefield-4-stx-storage-architecture-with-broad-industry-adoption), 2026-03-16.
-[^cache]: Jang 외, [HyMCache: A KV Cache Framework for Multi-Turn LLM Serving with CXL-Hybrid Memory](https://arxiv.org/abs/2607.18141), 2026-07-20. 연구 실험과 상용 채택을 구분했습니다.
+[^cache]: Jang 외, [A CXL Memory Rack for Multi-Turn LLM Serving](https://arxiv.org/abs/2607.18141v3), 최초 공개 2026-07-20, v3 개정 2026-08-05. 연구 실험과 상용 채택을 구분했습니다.
 [^hynix]: SK hynix, [SK hynix Presents a Full Lineup of Memory Solutions Optimized for AI Infrastructure at DTF 2026](https://news.skhynix.com/en/dtf-2026/), 2026-08-26.
 [^samsung]: Samsung Electronics, [Second Quarter 2026 Results](https://news.samsung.com/global/samsung-electronics-announces-second-quarter-2026-results), 2026-07-30.
-[^ls]: LS ELECTRIC, [북미 AI 데이터센터 전력설비 수주 발표](https://www.ls-electric.com/ko/pr/news/view/401457?b_date=&e_date=&k_type=both&k_word=&page=1&rowsPerPage=10&visiblePage=10), 2026-08-24.
+[^ls]: LS ELECTRIC, [북미 AI 데이터센터 전력설비 계약 발표](https://www.ls-electric.com/ko/pr/news/view/401457?b_date=&e_date=&k_type=both&k_word=&page=1&rowsPerPage=10&visiblePage=10), 2026-08-24. 증액 후 계약 총액이며 전액 신규 수주가 아닙니다.
 [^sds]: 삼성SDS, [기업을 위한 AI Agent 플랫폼 FabriX](https://www.samsungsds.com/kr/ai-fabrix/fabrix.html), 2026-09-11 확인.
 [^sdsagent]: 삼성SDS, [삼성SDS AI Agent](https://www.samsungsds.com/kr/ai-agent/ai-agent.html), 2026-09-11 확인.
