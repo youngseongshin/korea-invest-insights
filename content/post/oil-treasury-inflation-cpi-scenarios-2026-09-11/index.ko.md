@@ -110,7 +110,7 @@ EIA는 미국의 경유를 포함한 중간유분 재고가 9월에 1억 배럴 
 
 연준의 장기 목표는 전체 PCE 물가의 연 2% 상승입니다. 근원 지표는 지속적인 물가 흐름을 파악하는 도구이지, 공식 목표를 대체하는 별도의 목표가 아닙니다. 연준은 월별 변동, 세부항목과 여러 달의 흐름을 함께 본다고 설명합니다.[^fed-target]
 
-CPI와 PCE는 소비 범위와 가중치, 계산 방식이 다릅니다. 예를 들어 소비자가 직접 낸 비용을 중심으로 보는 통계와 제3자가 대신 부담한 의료비까지 폭넓게 포착하는 통계는 같은 신호를 주지 않을 수 있습니다. 따라서 CPI가 좋게 나와도 의료서비스 등 PCE 관련 가격이 어떻게 움직였는지를 별도로 확인해야 합니다.
+CPI와 PCE는 소비 범위와 가중치, 계산 방식이 다릅니다. 예를 들어 소비자가 직접 낸 비용을 중심으로 보는 통계와 제3자가 대신 부담한 의료비까지 폭넓게 포착하는 통계는 같은 신호를 주지 않을 수 있습니다. 따라서 CPI가 좋게 나와도 의료서비스 등 PCE 관련 가격이 어떻게 움직였는지를 별도로 확인해야 합니다.[^pce-method]
 
 다만 두 지표의 0.8%포인트 차이가 전부 의료비 때문이라고 계산한 것은 아닙니다. 이 리포트는 그 격차의 항목별 기여도를 재구성하지 않았습니다. 확인된 것은 두 지표의 수준이 다르다는 사실과, 같은 것으로 취급해서는 안 된다는 판단입니다.
 
@@ -146,7 +146,7 @@ CPI와 PCE는 소비 범위와 가중치, 계산 방식이 다릅니다. 예를 
 
 ## 7. 국채 환매는 양적완화도, 재정문제의 해결도 아닙니다
 
-최근 국채 환매에 대한 기대와 실망이 가격 변동을 키웠다는 보도가 있습니다. 그러나 이 문제를 이해하는 데 개별 환매액보다 중요한 것은 제도의 목적입니다. 재무부의 환매는 유통 중인 국채를 사들여 시장 유동성이나 현금 관리를 개선하는 부채 관리 수단입니다.[^buyback]
+국채 환매를 이해할 때는 개별 환매액보다 제도의 목적을 먼저 구분해야 합니다. 재무부의 환매는 유통 중인 국채를 사들여 시장 유동성이나 현금 관리를 개선하는 부채 관리 수단입니다.[^buyback]
 
 거래가 뜸한 기존 국채를 사주면 그 구간의 거래 여건은 좋아질 수 있습니다. 하지만 이를 위한 자금을 다른 국채 발행으로 조달한다면 정부의 순부채가 같은 규모로 사라지는 것은 아닙니다. 연준이 대차대조표를 확대하는 양적완화와도 다릅니다.
 
@@ -237,7 +237,7 @@ AI·데이터센터 투자에도 구분이 필요합니다. 원유가격 상승�
 
 성장성이 높은 기업을 모두 팔아야 한다는 결론은 아닙니다. 실제 현금창출과 주문이 있는 기업, 외부 자금이 끊기면 계획이 중단되는 기업을 구분해야 한다는 뜻입니다. 구조적 성장과 매수 가격의 안전성은 서로 다른 질문입니다.
 
-## 12. 비용과 할인율이 겹칠 때 주가 압력은 단순 합산보다 커집니다
+## 12. 비용과 할인율은 같은 기업가치를 동시에 낮춥니다
 
 간단한 영구성장 현금흐름 모형으로 크기를 가늠할 수 있습니다. 다음 해 현금흐름을 100, 할인율을 9%, 장기성장률을 3%로 가정하면 기업가치는 100÷(0.09-0.03)=1,666.7입니다. 금액 단위는 임의 단위이며 실제 기업의 목표가가 아닙니다.
 
@@ -288,10 +288,11 @@ FRED에서 확인한 미국 하이일드 회사채의 옵션조정 신용가산�
 [^cpi]: BLS, [Consumer Price Index, July 2026](https://www.bls.gov/news.release/archives/cpi_08122026.htm), 2026-08-12.
 [^ppi]: BLS, [Producer Price Index, August 2026](https://www.bls.gov/news.release/archives/ppi_09102026.htm), 2026-09-10. 잠정·수정치 구분은 원문 참조.
 [^pce]: BEA, [Personal Income and Outlays, July 2026](https://www.bea.gov/news/2026/personal-income-and-outlays-july-2026), 2026-08-26.
+[^pce-method]: BEA, [CPI와 PCE의 차이](https://www.bea.gov/help/faq/555). 계산 방식·가중치·범위 차이 설명.
 [^fed]: Federal Reserve, [FOMC statement, July 29, 2026](https://www.federalreserve.gov/newsevents/pressreleases/monetary20260729a.htm).
 [^fomc]: Federal Reserve, [FOMC calendars](https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm).
 [^fed-target]: Federal Reserve, [How the Fed evaluates inflation](https://www.federalreserve.gov/faqs/economy_14419.htm).
-[^eia-oil]: EIA, [September 2026 STEO: Global oil markets](https://www.eia.gov/outlooks/steo/report/global_oil.php), 2026-09-09公表、予測作業の締切は2026-09-03。현재 페이지는 다음 발표 때 변경될 수 있으며 본문은 9월판 기준입니다.
+[^eia-oil]: EIA, [September 2026 STEO: Global oil markets](https://www.eia.gov/outlooks/steo/report/global_oil.php), 2026년 9월 9일 발표, 전망 작업은 9월 3일 종료. 현재 페이지는 다음 발표 때 변경될 수 있으며 본문은 9월판 기준입니다.
 [^eia-products]: EIA, [September 2026 STEO: Petroleum products](https://www.eia.gov/outlooks/steo/report/petro_prod.php). 재고·정제마진의 전망과 관측치를 구분했습니다.
 [^ppi-method]: BLS, [PPI overview and coverage](https://www.bls.gov/ppi/overview.htm). 국내 생산자의 판매가격 및 최종수요 분류 설명.
 [^nominal]: Federal Reserve H.15 / FRED, [DGS10](https://fred.stlouisfed.org/series/DGS10), 2026-09-03~09 관측값.
