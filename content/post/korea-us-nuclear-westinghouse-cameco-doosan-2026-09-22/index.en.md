@@ -2,6 +2,7 @@
 title: "The Korea-US Investment Deal and the Westinghouse Repricing: A Paired Idea in Cameco and Doosan Enerbility"
 slug: "korea-us-nuclear-westinghouse-cameco-doosan-2026-09-22"
 date: 2026-09-22T02:00:00+09:00
+lastmod: 2026-09-22T10:50:00+09:00
 description: "The Korea-US investment negotiation is entering its final stretch. Nuclear power is the largest single item in the package: up to eight reactors, roughly $120 billion. If a deal triggers a repricing of Westinghouse and accelerates US reactor construction, the exposure splits into two channels: Cameco, which owns 49% of Westinghouse, and Doosan Enerbility, which supplies equipment for both the AP1000 and the APR1400."
 categories: ["Exclusive Analysis", "Market-Outlook"]
 tags: ["nuclear", "Westinghouse", "Cameco", "Doosan Enerbility", "Korea-US deal", "AP1000", "APR1400"]
@@ -22,10 +23,12 @@ A week of reporting gives the outline below.
 | Nuclear | Up to 8 large reactors, ~$15B each | Reuters 9/18 |
 | Reactor types | 6 AP1000 + 2 APR1400 (Korea's proposal) | Korea Times 9/20 |
 | Westinghouse stake | Korea wants ~20% with board seats and voting rights; the US offers 5-10% non-voting | Korea Times 9/20, Yonhap 9/16 |
-| Latest stake level | Narrowing toward 7% + alpha | Financial News 9/21 |
+| Stake negotiation status | Not agreed: Korea wants ~20% plus board seats and real voting rights; the US holds a 7%-range cap | Reuters 9/22, Yonhap 9/22 |
 | First project | Encinal gas combined-cycle plant in Texas, ~$22.3B | Reuters 9/18 |
 
 Nothing is final. President Lee Jae Myung said at his September 18 press conference that "some provisions are hard to accept," and the ministry's parliamentary briefing was postponed once. The inclusion of the two APR1400 units and the stake size and voting rights are the last sticking points.
+
+*Correction (September 22, 2026, morning KST): at publication this piece described the Westinghouse stake terms as broadly agreed at a 7% + alpha level, following September 21 domestic reporting (Hankook Ilbo and others). On September 22, Reuters reported from sources that Korea and the US have not reached agreement on the Westinghouse stake investment: Korea is seeking around a 20% stake with board participation and substantive voting rights, while the US is holding a 7%-range cap. That conflicts with the 9/21 reports; this piece is corrected to reflect the latest Reuters 9/22 reporting, which says the matter is unresolved.*
 
 One more condition hangs over this. KEPCO and KHNP ended their intellectual-property dispute with Westinghouse in January 2025 with a global settlement. The reported terms require Korea to pay royalties on reactor exports and provide roughly one trillion won per unit in goods and services contracts. Korea could end up funding and building US reactors and buying a Westinghouse stake, while still paying separately when it builds the APR1400. Whether that burden was eased is a verification point for the September 22 briefing.
 
@@ -82,7 +85,7 @@ The stock traded at ₩85,200 intraday on September 21, a market cap of ₩54.6 
 
 From here on, this is interpretation, not fact.
 
-The Westinghouse stake Korea takes will likely stop at 7% plus alpha, with no voting rights. If so, the return on Korea's equity investment is limited, and the real beneficiary of a Westinghouse repricing is the existing owners. The only listed window into that ownership is Cameco with its 49%.
+The stake negotiation remains unresolved per the Reuters 9/22 report, and the stake Korea takes will likely stop near the 7%-range cap the US is holding, with no voting rights. If so, the return on Korea's equity investment is limited, and the real beneficiary of a Westinghouse repricing is the existing owners. The only listed window into that ownership is Cameco with its 49%.
 
 Doosan Enerbility is a different axis. It is exposed through volume, not equity. Even if the reactor-type negotiation ends badly for Korea, the AP1000 equipment floor remains, and if the APR1400 survives, per-unit orders jump six-fold. A winning scenario remains at either branch of the outcome.
 
@@ -110,6 +113,8 @@ Cameco is the equity window into that repricing. Doosan Enerbility is the equipm
 
 ### Sources
 
+- [Yonhap, "Korea, US fail to reach agreement on Westinghouse stake investment" (Reuters, 2026-09-22)](https://www.yna.co.kr/view/AKR20260922061400009)
+- [Yonhap, Commercial viability concerns cloud Korea-US investment deal (2026-09-21)](https://www.yna.co.kr/view/AKR20260921126000003)
 - [Reuters, Texas power plant, nuclear projects under discussion in South Korea's US investment (2026-09-18)](https://www.reuters.com/business/energy/texas-power-plant-nuclear-projects-under-discussion-south-koreas-us-investment-2026-09-18/)
 - [Korea Times, Korea-US $200 bil. investment talks hit last-stage hurdles (2026-09-20)](https://www.koreatimes.co.kr/foreignaffairs/others/20260920/cover-story-korea-us-200-bil-investment-talks-hit-last-stage-hurdles-over-commercial-viability)
 - [Financial News, 대미투자, 국회 문턱 못넘을라 (2026-09-21)](https://www.fnnews.com/news/202609211844165334)
