@@ -1923,3 +1923,12 @@ html[data-scheme="dark"] {
     font-size: 0.82rem;
   }
 }
+
+/* Single post cover — show the whole image. The theme caps it at 50vh with
+   object-fit: cover, which crops text-bearing 1200x630 covers on wide,
+   short viewports. */
+.article-page .main-article .article-header--single .article-image img {
+  max-height: none;
+  height: auto;
+  object-fit: contain;
+}
