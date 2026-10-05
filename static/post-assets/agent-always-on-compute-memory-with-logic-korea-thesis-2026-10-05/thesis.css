@@ -1,0 +1,3 @@
+.kii-figure{max-width:100%;overflow-x:auto;overflow-y:hidden;margin:1.5rem auto;padding:0;overscroll-behavior-x:contain}.kii-figure img{display:block;width:700px;min-width:620px;max-width:none;height:auto}
+.article-content .kii-figure figcaption{font-size:14px;line-height:1.55;text-align:left;color:var(--card-text-color-secondary,#59625c);margin:.75rem 0;max-width:100%;overflow-wrap:anywhere;position:sticky;left:0}
+.kii-figure:focus-visible{outline:3px solid #2563eb;outline-offset:3px}
