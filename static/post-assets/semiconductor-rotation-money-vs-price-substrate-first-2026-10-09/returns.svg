@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="380" viewBox="0 0 720 380" role="img" aria-labelledby="t d"><title id="t">One-month median return by chain</title><desc id="d">Median return from Sep 8 to Oct 8, 2026. Suppliers rose 18 to 51 percent while Samsung Electronics fell 2.8 percent and SK hynix fell 6.2 percent.</desc>
+<rect width="720" height="380" fill="#fffefa"/>
+<text x="24" y="34" font-family="Helvetica Neue, Arial, sans-serif" font-size="17" font-weight="700" fill="#22272e">One-month median return, Sep 8 to Oct 8, 2026</text>
+<text x="24" y="56" font-family="Helvetica Neue, Arial, sans-serif" font-size="12" fill="#59625c">Chain bars show the median of stocks in the group. Samsung and SK hynix are single stocks.</text>
+<text x="24" y="101" font-family="Helvetica Neue, Arial, sans-serif" font-size="13" fill="#22272e">OSAT packaging (13 stocks)</text>
+<rect x="290.0" y="84" width="331.5" height="24" rx="3" fill="#2f7d6b"/>
+<text x="629.5" y="101" font-family="Helvetica Neue, Arial, sans-serif" font-size="13" font-weight="700" fill="#22272e">+50.7%</text>
+<text x="24" y="139" font-family="Helvetica Neue, Arial, sans-serif" font-size="13" fill="#22272e">Substrates (21)</text>
+<rect x="290.0" y="122" width="178.5" height="24" rx="3" fill="#2f7d6b"/>
+<text x="476.5" y="139" font-family="Helvetica Neue, Arial, sans-serif" font-size="13" font-weight="700" fill="#22272e">+27.3%</text>
+<text x="24" y="177" font-family="Helvetica Neue, Arial, sans-serif" font-size="13" fill="#22272e">Equipment &amp; parts (59)</text>
+<rect x="290.0" y="160" width="169.3" height="24" rx="3" fill="#2f7d6b"/>
+<text x="467.3" y="177" font-family="Helvetica Neue, Arial, sans-serif" font-size="13" font-weight="700" fill="#22272e">+25.9%</text>
+<text x="24" y="215" font-family="Helvetica Neue, Arial, sans-serif" font-size="13" fill="#22272e">Materials (29)</text>
+<rect x="290.0" y="198" width="164.8" height="24" rx="3" fill="#2f7d6b"/>
+<text x="462.8" y="215" font-family="Helvetica Neue, Arial, sans-serif" font-size="13" font-weight="700" fill="#22272e">+25.2%</text>
+<text x="24" y="253" font-family="Helvetica Neue, Arial, sans-serif" font-size="13" fill="#22272e">Foundry &amp; design (7)</text>
+<rect x="290.0" y="236" width="120.3" height="24" rx="3" fill="#2f7d6b"/>
+<text x="418.3" y="253" font-family="Helvetica Neue, Arial, sans-serif" font-size="13" font-weight="700" fill="#22272e">+18.4%</text>
+<text x="24" y="291" font-family="Helvetica Neue, Arial, sans-serif" font-size="13" fill="#22272e">Samsung Electronics</text>
+<rect x="271.7" y="274" width="18.3" height="24" rx="3" fill="#9aa39d"/>
+<text x="298.0" y="291" font-family="Helvetica Neue, Arial, sans-serif" font-size="13" font-weight="700" fill="#22272e">-2.8%</text>
+<text x="24" y="329" font-family="Helvetica Neue, Arial, sans-serif" font-size="13" fill="#22272e">SK hynix</text>
+<rect x="249.5" y="312" width="40.5" height="24" rx="3" fill="#9aa39d"/>
+<text x="298.0" y="329" font-family="Helvetica Neue, Arial, sans-serif" font-size="13" font-weight="700" fill="#22272e">-6.2%</text>
+<line x1="290" y1="74" x2="290" y2="344" stroke="#59625c" stroke-width="1"/>
+</svg>
