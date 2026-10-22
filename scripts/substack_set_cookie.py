@@ -71,6 +71,12 @@ def main() -> int:
         print("value too short to be a session cookie; nothing written", file=sys.stderr)
         return 2
 
+    if value == clean(cfg.get("connect_sid", "")):
+        print("The clipboard holds the cookie that is already stored (the old session).\n"
+              "Sign OUT of Substack in the browser, sign back in, then copy the cookie again.",
+              file=sys.stderr)
+        return 1
+
     g = gate_status(sub, value)
     print(f"publish gate: {g}")
     if g != "ok":
