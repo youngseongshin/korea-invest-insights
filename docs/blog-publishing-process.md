@@ -272,6 +272,17 @@ Rich path, interactive, no cookie (the user logs in; the agent never types crede
 6. Fix `substack_distribution_log.json` so the entry carries the live URL, draft id and
    Note URL.
 
+Fixing, unpublishing and deleting (same logged-in page, verified 2026-10-22):
+
+- Fix a published post: `PUT /api/v1/drafts/<id>` with the new `draft_body`, then
+  `POST /api/v1/drafts/<id>/publish {send:false}`. Post date, slug, comments and the
+  email record stay. The plain URL can serve the old body from cache for a few minutes.
+- Unpublish: `POST /api/v1/drafts/<id>/unpublish` returns the post to a draft and the
+  URL answers 404. Delete a draft: `DELETE /api/v1/drafts/<id>`.
+- Delete a Note: `DELETE https://substack.com/api/v1/comment/<noteId>` from a
+  `substack.com` page.
+- Unpublishing breaks the link in an email already sent, so prefer fixing the original.
+
 The pane denies local-network access, so nothing can be served from this machine to
 the page. The script therefore pulls the markdown from raw GitHub and the SVGs from the
 live site, which are public and CORS-open. Commit and push the post first.
