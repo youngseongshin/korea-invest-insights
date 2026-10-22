@@ -460,7 +460,10 @@ def run_substack_for_post(post: dict, args: argparse.Namespace) -> dict:
         "desc_m=re.search(r'^description:\\s*\"?(.+?)\"?\\s*$', md, re.M); "
         "desc=desc_m.group(1).strip('\"') if desc_m else ''; "
         "note=post_note_for_post(slug, title, desc, url) if url else {}; "
-        "print(json.dumps({'substack': result, 'note': note}, ensure_ascii=False))"
+        "print(json.dumps({'substack': result, 'note': note}, ensure_ascii=False)); "
+        # publish_to_substack reports failure in its result dict; without this the
+        # wrapper exits 0 and the failure is logged as a published post (2026-10-10).
+        "raise SystemExit(0 if result.get('success') else 3)"
     )
     code, tail = run_external([sys.executable, "-c", script], args)
     if code == 0:

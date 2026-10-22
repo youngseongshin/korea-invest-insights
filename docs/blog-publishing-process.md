@@ -222,6 +222,47 @@ The default channel set is:
 telegram,botmadang,substack,linkedin
 ```
 
+### Substack operations
+
+The automatic path (`substack_publisher.py` in the Gyeokja workspace tools) converts
+only plain markdown: no images, no footnotes, and tables become pipe-joined lines.
+Use it for short text posts. A long post with figures, tables or `[^key]` footnotes
+needs the rich path below, or the draft shows raw `[^key]` and HTML.
+
+Auth facts, observed 2026-10-10 and 2026-10-22:
+
+- The publisher reads an HttpOnly `connect.sid` cookie from
+  `state/profiles/gyeokja/legacy-workspace/data/substack_config.json` (outside Git).
+  No script can read that cookie from a browser.
+- Reads and draft creation work with an old cookie. Publish returns
+  `403 reauthentication_required` unless the session was authenticated recently.
+- A wrapper failure now exits 3 and is not logged as published. Before 2026-10-22 it
+  logged `mode: publish` and blocked retries. Each failed run can leave an orphan draft;
+  delete drafts you do not need in the Substack dashboard.
+
+Rich path, interactive, no cookie (the user logs in; the agent never types credentials):
+
+1. Open `https://<pub>.substack.com/publish/post/<draftId>` in the browser pane and ask the
+   user to log in. Reuse the draft the failed run created, or create an empty one.
+2. Paste `scripts/substack_pane_push.js` into `javascript_tool`. Run
+   `window.__kiiRun({slug, draft, dry:true})`, then the same call without `dry`.
+   Compare `window.__kii.summary` with the post (footnote definitions, figures, tables).
+3. Reload the draft and inspect figures, one table image and the footnote block.
+4. Publish with `POST /api/v1/drafts/<id>/publish {send:true,type:"new"}` from the same
+   page, the call the automatic path uses. `send:true` emails subscribers; use
+   `send:false` for web only.
+5. Post the Note from a `substack.com` page: `POST /api/v1/comment/feed` with the body
+   `substack_notes.py` builds. The `notes/new?body=` deep link no longer opens a composer.
+6. Fix `substack_distribution_log.json` so the entry carries the live URL, draft id and
+   Note URL.
+
+The pane denies local-network access, so nothing can be served from this machine to
+the page. The script therefore pulls the markdown from raw GitHub and the SVGs from the
+live site, which are public and CORS-open. Commit and push the post first.
+
+For the unattended path, run `scripts/substack_set_cookie.py --clipboard` right after a
+fresh login (see the script header for what its check does and does not prove).
+
 ### LinkedIn one-time setup
 
 LinkedIn posting needs a member access token (`w_member_social`), but automatic
