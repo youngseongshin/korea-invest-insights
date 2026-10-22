@@ -235,15 +235,31 @@ Auth facts, observed 2026-10-10 and 2026-10-22:
   `state/profiles/gyeokja/legacy-workspace/data/substack_config.json` (outside Git).
   No script can read that cookie from a browser.
 - Reads and draft creation work with an old cookie. Publish returns
-  `403 reauthentication_required` unless the session was authenticated recently.
-- A wrapper failure now exits 3 and is not logged as published. Before 2026-10-22 it
-  logged `mode: publish` and blocked retries. Each failed run can leave an orphan draft;
-  delete drafts you do not need in the Substack dashboard.
+  `403 reauthentication_required` ("sign out and sign back in") when the session needs a
+  fresh sign-in. The April cookie returned it on 2026-10-22 while a fresh browser session
+  passed. How long a fresh session keeps passing is unknown: a re-login on 2026-10-10
+  allowed one publish, and runs failed again by 10-13.
+- `scripts/substack_gate.py` tells the cases apart without side effects: a publish call on
+  a draft id that cannot exist returns 404 when the gate passes and 403
+  `reauthentication_required` when it does not. `substack_set_cookie.py --check` runs it
+  on the stored cookie. Read calls pass in both cases and prove nothing.
+- The wrapper checks the gate before it creates a draft and exits 4 when it fails. Any
+  other failure exits 3. Neither is logged as published. Before 2026-10-22 the wrapper
+  exited 0, logged `mode: publish` and blocked retries, and each failed run left an orphan
+  draft (eight daily drafts piled up between 10-08 and 10-20).
+- The daily research flow (`blog_publish_pipeline.py`) uses the same cookie without this
+  check, so it fails the same way until the cookie is refreshed.
+- Before publishing an existing draft, list `post_management/published` and compare titles.
+  On 2026-10-22 an old orphan draft of the 10-09 semiconductor post was published after a
+  copy of the same post had already gone out on 10-10, which created a duplicate.
 
 Rich path, interactive, no cookie (the user logs in; the agent never types credentials):
 
 1. Open `https://<pub>.substack.com/publish/post/<draftId>` in the browser pane and ask the
-   user to log in. Reuse the draft the failed run created, or create an empty one.
+   user to log in. Reuse the draft the failed run created, or create an empty one. Check
+   that the post is not already published (see above). The converter handles
+   `fig-scroll` figures, `![alt](/path.svg|png)` images, tables, footnotes and a missing
+   cover, links only the languages that exist, and aborts on leftover markdown.
 2. Paste `scripts/substack_pane_push.js` into `javascript_tool`. Run
    `window.__kiiRun({slug, draft, dry:true})`, then the same call without `dry`.
    Compare `window.__kii.summary` with the post (footnote definitions, figures, tables).
@@ -260,8 +276,11 @@ The pane denies local-network access, so nothing can be served from this machine
 the page. The script therefore pulls the markdown from raw GitHub and the SVGs from the
 live site, which are public and CORS-open. Commit and push the post first.
 
-For the unattended path, run `scripts/substack_set_cookie.py --clipboard` right after a
-fresh login (see the script header for what its check does and does not prove).
+For the unattended path, sign in to Substack in a browser, copy the session cookie
+(DevTools -> Application -> Cookies -> substack.com -> `connect.sid` or `substack.sid`),
+then run `python3 scripts/substack_set_cookie.py --clipboard`. It writes the cookie only
+after the publish gate passes. The HttpOnly cookie cannot be read by an agent, and an
+agent must not read it from a browser store.
 
 ### LinkedIn one-time setup
 

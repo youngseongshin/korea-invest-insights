@@ -19,8 +19,8 @@ window.__kiiRun = (over = {}) => {
   const CFG = {slug: '', draft: 0, lang: 'en', dry: false,
     raw: 'https://raw.githubusercontent.com/youngseongshin/korea-invest-insights/main',
     site: 'https://koreainvestinsights.com', ...over};
-  const LANGS = [['English', ''], ['Korean', '/ko'], ['Japanese', '/ja'], ['Chinese', '/zh'],
-                 ['Spanish', '/es'], ['French', '/fr'], ['Vietnamese', '/vi']];
+  const LANGS = [['English', '', 'en'], ['Korean', '/ko', 'ko'], ['Japanese', '/ja', 'ja'], ['Chinese', '/zh', 'zh'],
+                 ['Spanish', '/es', 'es'], ['French', '/fr', 'fr'], ['Vietnamese', '/vi', 'vi']];
   const st = window.__kii = {step: 'init', done: 0, total: 0, error: null, result: null, doc: null, hash: null};
 
   const INLINE = new RegExp(
@@ -110,6 +110,13 @@ window.__kiiRun = (over = {}) => {
     const im = await loadImage(URL.createObjectURL(new Blob([text], {type: 'image/svg+xml'})));
     return {blob: await toPng(im, w * 2, h * 2), w: w * 2, h: h * 2};
   }
+  async function rasterUrl(url) {
+    if (/\.svg$/i.test(url)) return svgToBlob(url);
+    if (!/\.png$/i.test(url)) throw new Error('unsupported image type: ' + url);
+    const blob = await (await fetch(url)).blob();
+    const bm = await createImageBitmap(blob);
+    return {blob, w: bm.width, h: bm.height};
+  }
   async function tableToBlob(rows, aligns, nums) {
     const cell = (tag, c, a) => `<${tag}${a === 'r' ? ' class="r"' : a === 'c' ? ' class="c"' : ''}>${inlineHtml(c, nums)}</${tag}>`;
     const head = rows[0].map((c, i) => cell('th', c, aligns[i])).join('');
@@ -162,6 +169,9 @@ window.__kiiRun = (over = {}) => {
       if (m) defs[m[1]] = m[2].trim(); else lines.push(l);
     }
     const nums = new Numbering(defs);
+    // Footer links only for languages that exist; many posts are ko+en only.
+    const have = [];
+    for (const l of LANGS) if ((await fetch(`${postUrl}/index.${l[2]}.md`, {method: 'HEAD'})).ok) have.push(l);
     const content = [], images = [];
     let bullets = [];
     const flush = () => { if (bullets.length) { content.push({type: 'bullet_list', content: bullets}); bullets = []; } };
@@ -184,6 +194,15 @@ window.__kiiRun = (over = {}) => {
         const name = `fig-${String(images.length + 1).padStart(2, '0')}-${stem}.png`;
         const r = CFG.dry ? {blob: null, w: 0, h: 0} : await svgToBlob(CFG.site + im[1]);
         addImage(name, im[2], r.w, r.h, r.blob);
+        i++; continue;
+      }
+      const mi = s.match(/^!\[([^\]]*)\]\(([^)\s]+)\)$/);
+      if (mi) {
+        flush();
+        const stem = mi[2].split('/').pop().replace(/\.[a-z]+$/i, '').replace(/\./g, '-');
+        const name = `fig-${String(images.length + 1).padStart(2, '0')}-${stem}.png`;
+        const r = CFG.dry ? {blob: null, w: 0, h: 0} : await rasterUrl(mi[2].startsWith('/') ? CFG.site + mi[2] : mi[2]);
+        addImage(name, mi[1], r.w, r.h, r.blob);
         i++; continue;
       }
       if (s.startsWith('|')) {
@@ -212,8 +231,8 @@ window.__kiiRun = (over = {}) => {
 
     const em = {type: 'em'};
     const foot = [{type: 'text', text: 'This analysis is also available in ', marks: [em]}];
-    LANGS.forEach(([name, prefix], k) => {
-      if (k) foot.push({type: 'text', text: k === LANGS.length - 1 ? ', and ' : ', ', marks: [em]});
+    have.forEach(([name, prefix], k) => {
+      if (k) foot.push({type: 'text', text: k === have.length - 1 ? ', and ' : ', ', marks: [em]});
       foot.push({type: 'text', text: name, marks: [em, {type: 'link', attrs: {
         href: `${CFG.site}${prefix}/post/${meta.slug}/`, target: '_blank', rel: 'noopener noreferrer nofollow', class: null}}]});
     });
@@ -227,21 +246,35 @@ window.__kiiRun = (over = {}) => {
     st.hash = await sha(stripped);
     st.summary = {blocks: content.length, images: images.length, footnotes: nums.order.length,
       unusedDefs: Object.keys(defs).filter(k => !nums.order.includes(k)).length};
+    // Literal markdown or HTML in a text node means the converter missed a construct.
+    const bad = [];
+    const lintWalk = n => {
+      if (n.type === 'text') for (const re of [/\[\^/, /\]\(/, /<\/?\w+/, /\*\*/, /&\w+;/, /^!\[/]) if (re.test(n.text)) bad.push(re.source + ': ' + n.text.slice(0, 80));
+      (n.content || []).forEach(lintWalk);
+    };
+    content.forEach(lintWalk);
+    st.lint = bad.slice(0, 20);
     let desc = meta.description || '';
     if (desc.length > 240) desc = desc.slice(0, 237).replace(/\s+\S*$/, '') + '…';
     if (CFG.dry) { st.step = 'dry-done'; return; }
+    if (bad.length) throw new Error('lint failed (' + bad.length + '): ' + bad[0]);
 
     st.total = images.length + 1;
     st.step = 'upload';
     const urls = {};
     for (const im of images) { urls['local:' + im.name] = await upload(im.blob); st.done++; }
-    const coverBlob = await (await fetch(`${postUrl}/${meta.image || 'cover.png'}`)).blob();
-    const cover = await upload(coverBlob); st.done++;
+    let cover = null;  // many posts have no cover file
+    if (meta.image) {
+      const cr = await fetch(`${postUrl}/${meta.image}`);
+      if (cr.ok) cover = await upload(await cr.blob());
+    }
+    st.done++;
     const walk = n => { if (n.attrs && urls[n.attrs.src]) n.attrs.src = urls[n.attrs.src]; (n.content || []).forEach(walk); };
     walk(doc);
     st.step = 'save';
-    const r = await api('PUT', '/drafts/' + CFG.draft, {draft_title: meta.title, draft_subtitle: desc,
-      draft_body: JSON.stringify(doc), cover_image: cover});
+    const put = {draft_title: meta.title, draft_subtitle: desc, draft_body: JSON.stringify(doc)};
+    if (cover) put.cover_image = cover;
+    const r = await api('PUT', '/drafts/' + CFG.draft, put);
     st.result = {id: r.id, title: (r.draft_title || '').slice(0, 60), bodyLen: (r.draft_body || '').length};
     st.step = 'done';
   }

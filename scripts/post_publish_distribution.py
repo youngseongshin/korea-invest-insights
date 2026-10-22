@@ -454,6 +454,12 @@ def run_substack_for_post(post: dict, args: argparse.Namespace) -> dict:
         "from substack_notes import post_note_for_post; "
         f"p=Path({str(english_path)!r}); md=p.read_text(encoding='utf-8'); "
         f"slug={slug!r}; "
+        # Fail before creating a draft when Substack wants a fresh sign-in; otherwise every
+        # run leaves an orphan draft (eight daily drafts piled up between 10-08 and 10-20).
+        "import sys; from substack_gate import gate_status; from substack_publisher import load_config; "
+        "cfg=load_config(); gate=gate_status(cfg['subdomain'], cfg['connect_sid']); "
+        "gate=='ok' or (print(json.dumps({'substack': {'success': False, 'error': 'publish gate: '+gate+"
+        "' (sign in to Substack again, then run scripts/substack_set_cookie.py --clipboard)'}})), sys.exit(4)); "
         "result=publish_to_substack(md, slug); "
         "url=result.get('url',''); "
         "title=(re.search(r'^title:\\s*\"?(.+?)\"?\\s*$', md, re.M) or [None, slug])[1].strip('\"'); "

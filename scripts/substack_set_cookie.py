@@ -9,13 +9,17 @@ script can read it from the browser. The user copies it once from DevTools
   python3 scripts/substack_set_cookie.py --clipboard     # value is on the clipboard
   python3 scripts/substack_set_cookie.py                 # hidden prompt
 
-The value is never printed or logged. It is written only after the Substack API accepts
-it for reads, with file mode 600. The old value stays untouched when validation fails.
+The value is never printed or logged. It is written only after substack_gate.gate_status
+reports "ok": a side-effect-free probe that Substack answers with 403 reauthentication_required
+when the session must sign in again, and 404 when publishing is allowed. Reads (profile,
+drafts list) pass even for a session that cannot publish, so they are not used. The old
+value stays untouched when the check fails. File mode is 600.
 
-Limit of the check: it proves read access only. On 2026-10-10 the April cookie still passed
-reads and draft creation while publish returned 403 reauthentication_required, so publishing
-needs a recently authenticated session. Copy the cookie right after a fresh login, and
-log in again when the publisher reports that error.
+  python3 scripts/substack_set_cookie.py --check         # test the stored cookie only
+
+Copy the cookie right after a fresh sign-in. On 2026-10-22 the cookie saved in April
+returned reauthentication_required while a fresh browser session passed. How long a fresh
+session keeps passing is not known; if the publisher logs that error again, sign in again.
 
 Interactive publishing does not need this: a logged-in browser pane can publish through
 scripts/substack_pane_push.js. See memory note substack-publish-workflow.
@@ -30,22 +34,12 @@ import re
 import subprocess
 import sys
 import tempfile
-import urllib.error
-import urllib.request
 from pathlib import Path
 
+sys.path.insert(0, str(Path(__file__).resolve().parent))
+from substack_gate import gate_status  # noqa: E402
+
 CONFIG = Path.home() / "ThesisOS/repos/runtime/agents/gyeokja/workspace/data/substack_config.json"
-UA = "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
-
-
-def status(url: str, cookie_header: str) -> int:
-    req = urllib.request.Request(url, headers={"Cookie": cookie_header, "User-Agent": UA})
-    try:
-        return urllib.request.urlopen(req, timeout=20).status
-    except urllib.error.HTTPError as e:
-        return e.code
-    except OSError:
-        return -1
 
 
 def clean(raw: str) -> str:
@@ -57,6 +51,7 @@ def clean(raw: str) -> str:
 def main() -> int:
     ap = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
     ap.add_argument("--clipboard", action="store_true", help="read the cookie value from the clipboard (pbpaste)")
+    ap.add_argument("--check", action="store_true", help="test the stored cookie and exit")
     ap.add_argument("--config", type=Path, default=CONFIG)
     a = ap.parse_args()
 
@@ -65,6 +60,10 @@ def main() -> int:
     if not sub:
         print("config has no subdomain", file=sys.stderr)
         return 2
+    if a.check:
+        g = gate_status(sub, cfg.get("connect_sid", ""))
+        print(f"stored cookie: {g}")
+        return 0 if g == "ok" else 1
     raw = (subprocess.run(["pbpaste"], capture_output=True, text=True).stdout
            if a.clipboard else getpass.getpass("connect.sid value (hidden): "))
     value = clean(raw)
@@ -72,14 +71,12 @@ def main() -> int:
         print("value too short to be a session cookie; nothing written", file=sys.stderr)
         return 2
 
-    # The publisher sends connect.sid; send both names so either cookie in the jar counts.
-    header = f"connect.sid={value}; substack.sid={value}"
-    profile = status("https://substack.com/api/v1/user/profile/self", header)
-    pub = status(f"https://{sub}.substack.com/api/v1/drafts?limit=1", header)
-    print(f"substack.com profile/self: HTTP {profile}")
-    print(f"{sub}.substack.com drafts : HTTP {pub}")
-    if profile != 200 or pub != 200:
-        print("validation failed; config NOT changed. Re-copy the cookie right after logging in.", file=sys.stderr)
+    g = gate_status(sub, value)
+    print(f"publish gate: {g}")
+    if g != "ok":
+        hint = {"reauth": "the session needs a fresh sign-in; sign in again, then copy the cookie",
+                "invalid": "not a valid session cookie; copy connect.sid or substack.sid for substack.com"}.get(g, "network or unexpected response")
+        print(f"config NOT changed: {hint}.", file=sys.stderr)
         return 1
 
     cfg["connect_sid"] = value
@@ -90,8 +87,6 @@ def main() -> int:
     os.chmod(tmp, 0o600)
     os.replace(tmp, a.config)
     print(f"config updated: {a.config} (mode 600)")
-    print("note: reads passed. Publishing still needs a recently authenticated session; "
-          "on 403 reauthentication_required, log in again and rerun this.")
     return 0
 
 
