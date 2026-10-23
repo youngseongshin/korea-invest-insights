@@ -2,11 +2,23 @@
 
 This is the canonical operating flow for Korea Invest Insights posts. The
 OpenClaw blog publish pipeline remains the source of truth: it creates the
-multilingual Hugo files, commits/pushes them, submits IndexNow, and then runs a
-single post-live distribution stage. That stage keeps Telegram, Botmadang, and
-Substack aligned from the same canonical blog URL. Valley remains available as
+English and Korean Hugo files, commits/pushes them, submits IndexNow, and then
+runs the post-live stage. In that stage the English post goes to Substack first,
+from a logged-in built-in browser, with a Substack Note. Telegram, Botmadang and
+LinkedIn follow from the same canonical blog URL. Valley remains available as
 an explicit opt-in channel, but it is not part of the default flow while Valley
 posting is paused.
+
+Owner directive 2026-10-23 (Registry M-20261023-25):
+
+- Substack English publication is the top priority of the post-live stage. It
+  runs before every other channel, through the browser path in
+  [Substack operations](#substack-operations), with figures, tables and
+  footnotes intact, and it ends with a Note.
+- The blog publishes English and Korean only. Spanish, Vietnamese, French,
+  Japanese and Chinese are on hold. Do not create those files for new posts.
+  Existing translations stay live.
+- Every other rule, editing pass and post-process in this document is unchanged.
 
 ## Standard Flow
 
@@ -14,15 +26,14 @@ Default operator rule:
 
 - When the user asks for a blog post, treat the request as a full publish task
   unless they explicitly say otherwise.
-- The full publish task includes multilingual generation, Hugo validation,
-  commit/push, live URL confirmation, and targeted post-publish distribution.
+- The full publish task includes the English and Korean versions, Hugo
+  validation, commit/push, live URL confirmation, Substack English publication
+  with a Note, and targeted post-publish distribution.
 - Korean-only manual posts are allowed only as an explicit exception. Otherwise,
-  create the English version and translated language files before distribution
-  so Substack can run instead of recording `skip_no_english`.
-- The post-publish distribution script now enforces the complete multilingual
-  set. A new post cannot be sent to Telegram, Botmadang, Substack, or Valley
-  until these seven files exist: `index.ko.md`, `index.en.md`, `index.es.md`,
-  `index.vi.md`, `index.fr.md`, `index.ja.md`, and `index.zh.md`.
+  create the English version before distribution so Substack can run instead of
+  recording `skip_no_english`.
+- The post-publish distribution script enforces the publishing set. A new post
+  cannot be sent to any channel until `index.ko.md` and `index.en.md` exist.
 
 Source-fidelity rule for detailed research attachments:
 
@@ -41,8 +52,8 @@ Source-fidelity rule for detailed research attachments:
   malformed fragments, or details that are clearly outside the requested topic.
   If a potentially important detail is omitted, make that omission intentional
   and explain it briefly in the working notes or final report.
-- For translations, preserve the same core structure as the Korean version.
-  Translations may be slightly tighter for readability, but they should not
+- For the English version, preserve the same core structure as the Korean
+  version. It may be slightly tighter for readability, but it should not
   remove central evidence, tables, risk checks, or investment conclusions.
 
 Korean writing quality defaults:
@@ -121,7 +132,7 @@ Run three editing passes before validation:
    the readability edit.
 
 1. Publish through the OpenClaw blog pipeline when creating a new post. This is
-   the normal path for multilingual posts:
+   the normal path for English and Korean posts:
 
    ```python
    from blog_publish_pipeline import publish_blog
@@ -130,18 +141,15 @@ Run three editing passes before validation:
    ```
 
 2. For manual Hugo edits, update `content/post/*/index.<lang>.md`. If a new
-   post is created manually, add the complete multilingual file set before
-   the post-publish distribution stage:
+   post is created manually, add both files before the post-live stage:
 
    ```text
    index.ko.md
    index.en.md
-   index.es.md
-   index.vi.md
-   index.fr.md
-   index.ja.md
-   index.zh.md
    ```
+
+   Do not add `index.es.md`, `index.vi.md`, `index.fr.md`, `index.ja.md` or
+   `index.zh.md` to new posts while those languages are on hold.
 3. Validate locally:
 
    ```bash
@@ -152,17 +160,25 @@ Run three editing passes before validation:
 
 4. Commit and push the post.
 5. Wait for the GitHub Pages deploy to complete.
-6. Run the unified post-publish distribution stage after the GitHub Pages URL is
-   live. For Codex/manual blog publishing tasks, this is mandatory unless the
-   user explicitly says not to run follow-up distribution. This stage refuses
-   to run if any required translation file is missing:
+6. Publish the English post on Substack first, after the GitHub Pages URL is
+   live. Use the browser path in [Substack operations](#substack-operations):
+   log in from the Claude Code or Codex built-in browser, convert, verify,
+   publish, post the Note, and record the receipt. This is the top-priority
+   post-live step.
+7. Run the unified post-publish distribution stage. For Codex/manual blog
+   publishing tasks, this is mandatory unless the user explicitly says not to
+   run follow-up distribution. It refuses to run if `index.ko.md` or
+   `index.en.md` is missing. It checks the Substack receipt first and stops the
+   other channels when the receipt is missing:
 
    ```bash
    scripts/post_publish_distribution.py --slug <post-slug> --max-posts 1
    ```
 
-   The local LaunchAgent can still catch missed posts on its 10-minute cycle,
-   but it is a backup, not a substitute for the active publishing task.
+   To run the other channels without Substack, the user must say so; then pass
+   `--channels telegram,botmadang,linkedin`. No LaunchAgent backup for this
+   stage is installed (checked 2026-10-23). If one is installed again, it also
+   waits for the Substack receipt.
 
 The legacy `scripts/run_valley_auto_publish.sh` entrypoint is still present for
 launchd compatibility, but it now delegates to the unified distribution stage.
@@ -175,10 +191,16 @@ All channel notifications are now run from one post-live wrapper:
   `blog_channel_notify.py` after the live URL exists.
 - **Botmadang**: `scripts/post_publish_distribution.py` calls OpenClaw
   `blog_botmadang_notify.py` after the live URL exists.
-- **Substack**: `scripts/post_publish_distribution.py` publishes the English
-  version only. Korean-only posts are logged as `skip_no_english`, not treated as
-  failures. That skip is retryable: if `index.en.md` is added later, the
-  Substack channel may publish the post on the next targeted run.
+- **Substack**: the English version only, published first from the built-in
+  browser (see [Substack operations](#substack-operations)).
+  `scripts/post_publish_distribution.py` runs this channel first in `browser`
+  mode: it does not publish, it checks the receipt that
+  `scripts/substack_record_browser_publish.py` writes. Without a receipt it
+  reports `pending_browser_publish` and marks the other channels
+  `blocked_by_substack`. `--substack-mode api` runs the old cookie publisher
+  for a short plain-text post only. Korean-only posts are logged as
+  `skip_no_english`, not treated as failures. That skip is retryable: if
+  `index.en.md` is added later, the Substack channel runs again.
 - **LinkedIn**: manual-approval only publishing to the configured
   **personal LinkedIn profile**. On publish, `post_publish_distribution.py`
   only STAGES the post (composed title + teaser + canonical URL) into a pending
@@ -216,18 +238,102 @@ All channel notifications are now run from one post-live wrapper:
   remains available for explicit recovery, but do not include it in default
   follow-up distribution until the user resumes Valley posting.
 
-The default channel set is:
+The default channel set, in run order, is:
 
 ```text
-telegram,botmadang,substack,linkedin
+substack,telegram,botmadang,linkedin
 ```
 
 ### Substack operations
 
-The automatic path (`substack_publisher.py` in the Gyeokja workspace tools) converts
-only plain markdown: no images, no footnotes, and tables become pipe-joined lines.
-Use it for short text posts. A long post with figures, tables or `[^key]` footnotes
-needs the rich path below, or the draft shows raw `[^key]` and HTML.
+Since 2026-10-23 the browser path below is the standard Substack route for every
+English post. It keeps figures, tables and footnotes, and it ends with a Note.
+The cookie API path (`substack_publisher.py` in the Gyeokja workspace tools) is
+off by default: it converts only plain markdown (no images, no footnotes, tables
+become pipe-joined lines), and its stored cookie fails the publish gate. The
+unattended daily job (`blog_publish_pipeline.py`) therefore creates no Substack
+draft; it logs `[SUBSTACK] 브라우저 발행 대기`. `KII_SUBSTACK_API=1` turns the
+cookie path back on, and it then runs only after the publish gate passes.
+
+#### Browser path (standard)
+
+Who does what:
+
+- The agent works in the Claude Code built-in browser (browser pane with
+  `javascript_tool`) or the Codex built-in browser. Use a browser whose page can
+  run JavaScript in the logged-in Substack tab.
+- The user logs in. The agent never types a password or a sign-in code, never
+  reads cookies, and never reads a browser credential store. When a login screen
+  appears, ask the user to log in and wait.
+- `send:true` emails every subscriber. The user's request to publish the post
+  covers it; for a fix of a published post use `send:false`.
+
+Before you start, commit and push the post and wait until the GitHub Pages URL is
+live. The pane denies local-network access, so the script pulls the markdown from
+raw GitHub and the SVGs from the live site, which are public and CORS-open.
+
+1. Open `https://koreainvestinsights.substack.com/publish/post/<draftId>`. Reuse an
+   existing draft or create an empty one from the dashboard. If a login screen
+   appears, ask the user to log in.
+2. Paste `scripts/substack_pane_push.js` into the page once. Run
+   `window.__kiiRun({slug, draft, dry:true})` and read `window.__kii`:
+   `summary` (blocks, images, footnotes, unusedDefs) must match the post
+   (figures + tables, footnote definitions), and `lint` must be empty.
+3. Run `window.__kiiRun({slug, draft})` without `dry`. Poll `window.__kii` until
+   `step` is `done`; never await the run. The converter turns SVG figures and
+   `![alt](/path.svg|png)` images into PNG, markdown tables into PNG (Substack has
+   no table node), `[^key]` into native footnotes, handles a missing cover, links
+   only the languages that exist (now English and Korean) and aborts on leftover
+   markdown.
+4. Run `await window.__kiiVerify({draft})`. It rereads the saved draft and fails
+   when the image or footnote count differs from the run summary, when an image
+   was not uploaded, or when literal markdown or HTML is left. Do not publish
+   unless `ok` is `true`.
+5. Reload the draft and look at it: the first figure, one table image, the
+   footnote block and the language footer. The run summary survives the reload in
+   `sessionStorage`, so `__kiiVerify` still works after you paste the script again.
+6. Run `await window.__kiiPublish({draft})`. It refuses a title that is already in
+   the public archive under another post id, refuses `send:true` on a post that
+   is already published, publishes, and returns `{slug, url, emailed}`. Open the
+   returned URL once and check the first figure and a footnote link.
+7. Open any `https://substack.com/` page (same login), paste the script again and
+   run `await window.__kiiNote({title, desc, url})` with the post title, the
+   frontmatter description and the URL from step 6. It posts the Note with the same
+   text `substack_notes.py` builds and returns `noteUrl`. The
+   `notes/new?body=` deep link no longer opens a composer.
+8. Record the receipt:
+
+   ```bash
+   scripts/substack_record_browser_publish.py --slug <slug> \
+     --substack-url <url> --draft-id <draftId> --note-url <noteUrl>
+   ```
+
+   It checks that the Substack URL answers 200 and writes the entry
+   `post_publish_distribution.py` waits for (`--emailed no` for a web-only
+   publish, `--no-note "<reason>"` only for an explicit exception,
+   `--check --slug <slug>` to read it back).
+9. Run `scripts/post_publish_distribution.py --slug <slug> --max-posts 1` for the
+   other channels.
+
+Fixing, unpublishing and deleting (same logged-in page, verified 2026-10-22):
+
+- Fix a published post: rerun step 3 on the same draft id (or `PUT /api/v1/drafts/<id>`
+  with the new `draft_body`), check it with step 4, then
+  `await window.__kiiPublish({draft, send:false})`. Post date, slug, comments and the
+  email record stay. The plain URL can serve the old body from cache for a few minutes.
+- Unpublish: `POST /api/v1/drafts/<id>/unpublish` returns the post to a draft and the
+  URL answers 404. Delete a draft: `DELETE /api/v1/drafts/<id>`.
+- Delete a Note: `DELETE https://substack.com/api/v1/comment/<noteId>` from a
+  `substack.com` page.
+- Unpublishing breaks the link in an email already sent, so prefer fixing the original.
+
+Known limits:
+
+- Text inside table images is small on a phone (a tap zooms). A footnote inside a
+  table becomes a superscript number in the image, not a body anchor.
+- Gmail clips emails over 102KB; the footnote block at the end is clipped first.
+
+#### Cookie API path (opt-in, plain text only)
 
 Auth facts, observed 2026-10-10 and 2026-10-22:
 
@@ -243,51 +349,13 @@ Auth facts, observed 2026-10-10 and 2026-10-22:
   a draft id that cannot exist returns 404 when the gate passes and 403
   `reauthentication_required` when it does not. `substack_set_cookie.py --check` runs it
   on the stored cookie. Read calls pass in both cases and prove nothing.
-- The wrapper checks the gate before it creates a draft and exits 4 when it fails. Any
-  other failure exits 3. Neither is logged as published. Before 2026-10-22 the wrapper
-  exited 0, logged `mode: publish` and blocked retries, and each failed run left an orphan
-  draft (eight daily drafts piled up between 10-08 and 10-20).
-- The daily research flow (`blog_publish_pipeline.py`) uses the same cookie without this
-  check, so it fails the same way until the cookie is refreshed.
-- Before publishing an existing draft, list `post_management/published` and compare titles.
-  On 2026-10-22 an old orphan draft of the 10-09 semiconductor post was published after a
-  copy of the same post had already gone out on 10-10, which created a duplicate.
+- `post_publish_distribution.py --substack-mode api` checks the gate before it creates a
+  draft and exits 4 when it fails. Any other failure exits 3. Neither is logged as
+  published. With `KII_SUBSTACK_API=1`, `blog_publish_pipeline.py` checks the same gate
+  before it creates a draft. Before 2026-10-22 failed runs left orphan drafts (eight daily
+  drafts piled up between 10-08 and 10-20).
 
-Rich path, interactive, no cookie (the user logs in; the agent never types credentials):
-
-1. Open `https://<pub>.substack.com/publish/post/<draftId>` in the browser pane and ask the
-   user to log in. Reuse the draft the failed run created, or create an empty one. Check
-   that the post is not already published (see above). The converter handles
-   `fig-scroll` figures, `![alt](/path.svg|png)` images, tables, footnotes and a missing
-   cover, links only the languages that exist, and aborts on leftover markdown.
-2. Paste `scripts/substack_pane_push.js` into `javascript_tool`. Run
-   `window.__kiiRun({slug, draft, dry:true})`, then the same call without `dry`.
-   Compare `window.__kii.summary` with the post (footnote definitions, figures, tables).
-3. Reload the draft and inspect figures, one table image and the footnote block.
-4. Publish with `POST /api/v1/drafts/<id>/publish {send:true,type:"new"}` from the same
-   page, the call the automatic path uses. `send:true` emails subscribers; use
-   `send:false` for web only.
-5. Post the Note from a `substack.com` page: `POST /api/v1/comment/feed` with the body
-   `substack_notes.py` builds. The `notes/new?body=` deep link no longer opens a composer.
-6. Fix `substack_distribution_log.json` so the entry carries the live URL, draft id and
-   Note URL.
-
-Fixing, unpublishing and deleting (same logged-in page, verified 2026-10-22):
-
-- Fix a published post: `PUT /api/v1/drafts/<id>` with the new `draft_body`, then
-  `POST /api/v1/drafts/<id>/publish {send:false}`. Post date, slug, comments and the
-  email record stay. The plain URL can serve the old body from cache for a few minutes.
-- Unpublish: `POST /api/v1/drafts/<id>/unpublish` returns the post to a draft and the
-  URL answers 404. Delete a draft: `DELETE /api/v1/drafts/<id>`.
-- Delete a Note: `DELETE https://substack.com/api/v1/comment/<noteId>` from a
-  `substack.com` page.
-- Unpublishing breaks the link in an email already sent, so prefer fixing the original.
-
-The pane denies local-network access, so nothing can be served from this machine to
-the page. The script therefore pulls the markdown from raw GitHub and the SVGs from the
-live site, which are public and CORS-open. Commit and push the post first.
-
-For the unattended path, sign in to Substack in a browser, copy the session cookie
+To refresh the cookie, sign in to Substack in a browser, copy the session cookie
 (DevTools -> Application -> Cookies -> substack.com -> `connect.sid` or `substack.sid`),
 then run `python3 scripts/substack_set_cookie.py --clipboard`. It writes the cookie only
 after the publish gate passes. The HttpOnly cookie cannot be read by an agent, and an

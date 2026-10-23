@@ -14,7 +14,17 @@
 //   3. window.__kiiRun({slug:'<slug>', draft:<id>, dry:true})   structure check, no writes
 //   4. window.__kiiRun({slug:'<slug>', draft:<id>})             render, upload, replace the draft body
 //   5. poll window.__kii -> {step, done, total, error, result, summary, hash}; never await run
+//   6. await window.__kiiVerify({draft:<id>})        reread the saved draft: figure, table and
+//      footnote counts must match __kii.summary, no literal markdown, no unuploaded image
+//   7. await window.__kiiPublish({draft:<id>})       refuses a title that is already published,
+//      publishes ({send:true} emails subscribers; pass send:false for web only), returns the URL
+//   8. on a https://substack.com page, paste this file again and
+//      await window.__kiiNote({title, desc, url})    posts the Note, returns its URL
+//   9. record: scripts/substack_record_browser_publish.py --slug ... --substack-url ...
+//      --draft-id ... --note-url ...   (post_publish_distribution.py waits for this receipt)
 // Footnote numbers follow first reference. The draft stays private until you publish it.
+// Literal markdown or HTML left in a text node means the converter missed a construct.
+window.__kiiLintRes = [/\[\^/, /\]\(/, /<\/?\w+/, /\*\*/, /&\w+;/, /^!\[/];
 window.__kiiRun = (over = {}) => {
   const CFG = {slug: '', draft: 0, lang: 'en', dry: false,
     raw: 'https://raw.githubusercontent.com/youngseongshin/korea-invest-insights/main',
@@ -246,10 +256,9 @@ window.__kiiRun = (over = {}) => {
     st.hash = await sha(stripped);
     st.summary = {blocks: content.length, images: images.length, footnotes: nums.order.length,
       unusedDefs: Object.keys(defs).filter(k => !nums.order.includes(k)).length};
-    // Literal markdown or HTML in a text node means the converter missed a construct.
     const bad = [];
     const lintWalk = n => {
-      if (n.type === 'text') for (const re of [/\[\^/, /\]\(/, /<\/?\w+/, /\*\*/, /&\w+;/, /^!\[/]) if (re.test(n.text)) bad.push(re.source + ': ' + n.text.slice(0, 80));
+      if (n.type === 'text') for (const re of window.__kiiLintRes) if (re.test(n.text)) bad.push(re.source + ': ' + n.text.slice(0, 80));
       (n.content || []).forEach(lintWalk);
     };
     content.forEach(lintWalk);
@@ -276,9 +285,95 @@ window.__kiiRun = (over = {}) => {
     if (cover) put.cover_image = cover;
     const r = await api('PUT', '/drafts/' + CFG.draft, put);
     st.result = {id: r.id, title: (r.draft_title || '').slice(0, 60), bodyLen: (r.draft_body || '').length};
+    try { sessionStorage.setItem('kii-summary-' + CFG.draft, JSON.stringify(st.summary)); } catch (e) { /* verify takes expect */ }
     st.step = 'done';
   }
   run().catch(e => { st.error = String(e && e.stack || e).slice(0, 600); st.step = 'error'; });
   return 'started';
+};
+
+window.__kiiGetDraft = async draft => {
+  const r = await fetch(`/api/v1/drafts/${draft}`, {credentials: 'same-origin'});
+  if (!r.ok) throw new Error(`GET /drafts/${draft} ${r.status}`);
+  return r.json();
+};
+
+// Reread the saved draft. expect defaults to the summary the last live __kiiRun for this
+// draft kept in sessionStorage, so the check also works after reloading the tab.
+window.__kiiVerify = async ({draft, expect} = {}) => {
+  const d = await window.__kiiGetDraft(draft);
+  const doc = JSON.parse(d.draft_body || '{"type":"doc","content":[]}');
+  const got = {blocks: (doc.content || []).length, images: 0, footnotes: 0, notUploaded: 0};
+  const lint = [];
+  const walk = n => {
+    if (n.type === 'captionedImage') got.images++;
+    if (n.type === 'footnote') got.footnotes++;
+    if (n.type === 'image2' && !/^https:\/\//.test((n.attrs || {}).src || '')) got.notUploaded++;
+    if (n.type === 'text') for (const re of window.__kiiLintRes) if (re.test(n.text)) lint.push(re.source + ': ' + n.text.slice(0, 80));
+    (n.content || []).forEach(walk);
+  };
+  (doc.content || []).forEach(walk);
+  let want = expect || null;
+  if (!want) try { want = JSON.parse(sessionStorage.getItem('kii-summary-' + draft) || 'null'); } catch (e) { want = null; }
+  const problems = [];
+  if (!d.draft_title) problems.push('no title');
+  if (got.notUploaded) problems.push(got.notUploaded + ' image(s) not uploaded');
+  if (lint.length) problems.push('literal markdown/HTML: ' + lint[0]);
+  if (want) {
+    for (const k of ['blocks', 'images', 'footnotes']) if (want[k] !== got[k]) problems.push(`${k} ${got[k]} != expected ${want[k]}`);
+  } else {
+    problems.push('no expected summary: run __kiiRun for this draft in this tab first, or pass expect');
+  }
+  return {ok: !problems.length, problems, got, expected: want, title: d.draft_title,
+    published: !!d.is_published, slug: d.slug || null, lint: lint.slice(0, 10)};
+};
+
+// Publish the draft. A title already in the public archive (another post id) stops it,
+// because an orphan draft of a post that already went out was republished on 2026-10-22.
+window.__kiiPublish = async ({draft, send = true} = {}) => {
+  const d = await window.__kiiGetDraft(draft);
+  const title = (d.draft_title || '').trim();
+  if (!title) throw new Error('draft has no title');
+  if (d.is_published && send) throw new Error('already published; republish a fix with send:false');
+  const norm = s => (s || '').toLowerCase().replace(/\s+/g, ' ').trim();
+  const dup = [];
+  for (let offset = 0; offset < 500; offset += 50) {
+    const r = await fetch(`/api/v1/archive?sort=new&offset=${offset}&limit=50`, {credentials: 'same-origin'});
+    if (!r.ok) throw new Error(`archive ${r.status}: cannot check for duplicates`);
+    const page = await r.json();
+    if (!Array.isArray(page) || !page.length) break;
+    for (const p of page) if (p.id !== d.id && norm(p.title) === norm(title)) dup.push({id: p.id, slug: p.slug, date: p.post_date});
+    if (page.length < 50) break;
+  }
+  if (dup.length) throw new Error('same title already published: ' + JSON.stringify(dup));
+  const r = await fetch(`/api/v1/drafts/${draft}/publish`, {method: 'POST', credentials: 'same-origin',
+    headers: {'Content-Type': 'application/json'}, body: JSON.stringify({send, type: 'new'})});
+  const t = await r.text();
+  if (!r.ok) throw new Error(`publish ${r.status} ${t.slice(0, 200)}`);
+  const after = await window.__kiiGetDraft(draft);
+  if (!after.is_published || !after.slug) throw new Error('publish call returned but the draft is not published');
+  return {draftId: draft, slug: after.slug, url: `${location.origin}/p/${after.slug}`, emailed: send,
+    postDate: after.post_date || null};
+};
+
+// Post the Note from a substack.com page (the feed API lives on that origin).
+// The text matches substack_notes.build_note_text: description hook, then the post URL.
+window.__kiiNote = async ({title = '', desc = '', url, max = 420} = {}) => {
+  if (location.hostname !== 'substack.com') throw new Error('open a https://substack.com page first');
+  if (!/^https:\/\/[a-z0-9-]+\.substack\.com\/p\/[A-Za-z0-9-]+\/?$/.test(url || '')) throw new Error('url must be the published post');
+  let hook = (desc || '').replace(/\s+/g, ' ').trim().replace(/[ .…]+$/, '') || title;
+  const budget = max - url.length - 5;
+  if (hook.length > budget) hook = hook.slice(0, budget - 1).replace(/\s+\S*$/, '') + '…';
+  const text = `${hook}\n\n→ ${url}`;
+  const r = await fetch('/api/v1/comment/feed', {method: 'POST', credentials: 'same-origin',
+    headers: {'Content-Type': 'application/json'}, body: JSON.stringify({
+      bodyJson: {type: 'doc', attrs: {schemaVersion: 'v1'}, content: [{type: 'paragraph', content: [{type: 'text', text}]}]},
+      tabId: 'for-you', surface: 'feed', replyMinimumRole: 'everyone'})});
+  const t = await r.text();
+  if (!r.ok) throw new Error(`note ${r.status} ${t.slice(0, 200)}`);
+  const data = t ? JSON.parse(t) : {};
+  const id = data.id || (data.comment || {}).id;
+  if (!id) throw new Error('note response has no id: ' + t.slice(0, 200));
+  return {noteId: id, noteUrl: `https://substack.com/note/c-${id}`, text};
 };
 'defined'

@@ -31,13 +31,29 @@ DEFAULT_DATA_DIR = Path.home() / ".local" / "share" / "korea-invest-insights"
 LOCK_PATH = DEFAULT_DATA_DIR / "post_publish_distribution.lock"
 # Valley cross-posting is paused in the default blog publish path. Keep it as
 # an explicit opt-in channel so it can be revived without restoring old code.
-DEFAULT_CHANNELS = ["telegram", "botmadang", "substack", "linkedin"]
+# Substack runs first (owner directive 2026-10-23): the English post goes out through
+# the built-in browser before any other channel, and a missing receipt stops the rest.
+DEFAULT_CHANNELS = ["substack", "telegram", "botmadang", "linkedin"]
 SUPPORTED_CHANNELS = set(DEFAULT_CHANNELS) | {"valley"}
+CANDIDATE_CHANNEL_ORDER = ("substack", "telegram", "botmadang", "linkedin")
+# browser: the post is published in a logged-in browser pane (scripts/substack_pane_push.js)
+# and recorded with scripts/substack_record_browser_publish.py; this stage only checks the
+# receipt. api: the old cookie publisher, which drops figures, footnotes and tables.
+SUBSTACK_MODES = ("browser", "api")
+BROWSER_PUBLISH_STEPS = (
+    "Substack is published from the built-in browser, not by this script: "
+    "open https://koreainvestinsights.substack.com/publish/post/<draftId> logged in, "
+    "paste scripts/substack_pane_push.js, run __kiiRun dry then live, __kiiVerify, "
+    "__kiiPublish, then __kiiNote on a substack.com page, and record the result with "
+    "scripts/substack_record_browser_publish.py --slug <slug> --substack-url <url> "
+    "--draft-id <id> --note-url <url>. See docs/blog-publishing-process.md."
+)
 
 # LinkedIn secrets live outside the repo (token from linkedin_oauth_setup.py).
 LINKEDIN_ENV_PATH = Path.home() / ".config" / "korea-invest-insights" / "linkedin.env"
 UNIFIED_WATERMARK_KEY = "unifiedDistributionActivatedAt"
 # 2026-07-29: publishing policy reduced to Korean + English (owner directive).
+# 2026-10-23: other languages are on hold; new posts ship only these two files.
 REQUIRED_TRANSLATION_LANGS = ("ko", "en")
 
 
@@ -444,6 +460,16 @@ def run_substack_for_post(post: dict, args: argparse.Namespace) -> dict:
             record_channel("substack", post, "skip_no_english", summary)
         return {"status": "skipped", **summary}
 
+    if args.substack_mode == "browser":
+        # A live run reaches this point only without a receipt; a dry run does not
+        # read the log earlier, so look here.
+        receipt = load_json(channel_log_path("substack")).get("posts", {}).get(post["canonical_url"])
+        if is_blocking_distribution_entry("substack", receipt):
+            return {"status": "browser_receipt_found", "slug": slug,
+                    "substackUrl": (receipt.get("response") or {}).get("substack_url", "")}
+        status = "would_require_browser_publish" if args.dry_run else "pending_browser_publish"
+        return {"status": status, "slug": slug, "path": str(english_path), "next": BROWSER_PUBLISH_STEPS}
+
     if args.dry_run:
         return {"status": "would_publish", "slug": slug, "path": str(english_path)}
 
@@ -595,7 +621,7 @@ def run_candidate_channel(channel: str, args: argparse.Namespace) -> int:
         results.append(result)
         processed += 1
 
-        if result.get("status") == "error":
+        if result.get("status") in ("error", "pending_browser_publish"):
             print(json.dumps({"channel": channel, "status": "failed", "results": results}, ensure_ascii=False, indent=2))
             return 1
 
@@ -627,10 +653,21 @@ def main(argv: list[str] | None = None) -> int:
         default=",".join(DEFAULT_CHANNELS),
         help=(
             "Comma-separated channels to run after the blog URL is live. "
-            "Default: telegram,botmadang,substack,linkedin. LinkedIn is manual-approval only: "
+            "Default: substack,telegram,botmadang,linkedin. Substack runs first; in browser mode "
+            "it checks the browser publish receipt and a missing receipt stops the other channels. "
+            "LinkedIn is manual-approval only: "
             "it STAGES each post for review (scripts/linkedin_approve.py) instead of posting "
             "or approving automatically; it silently skips if not configured and never blocks other channels. "
             "Valley is paused by default but remains available by passing --channels valley."
+        ),
+    )
+    parser.add_argument(
+        "--substack-mode",
+        choices=SUBSTACK_MODES,
+        default="browser",
+        help=(
+            "browser (default): require the receipt written by substack_record_browser_publish.py. "
+            "api: the old cookie publisher, for short plain-text posts only."
         ),
     )
     parser.add_argument("--lang", default="ko")
@@ -670,8 +707,23 @@ def main(argv: list[str] | None = None) -> int:
 
     channels = parse_channels(args.channels)
     results: list[dict[str, int | str]] = []
+    substack_blocked = False
 
-    if "valley" in channels:
+    if "substack" in channels:
+        code = run_candidate_channel("substack", args)
+        results.append({"channel": "substack", "exitCode": code})
+        substack_blocked = code != 0 and not args.dry_run
+
+    if substack_blocked:
+        for channel in channels:
+            if channel != "substack":
+                results.append({
+                    "channel": channel,
+                    "exitCode": 1,
+                    "status": "blocked_by_substack",
+                    "reason": "Publish the English post on Substack first, or leave substack out of --channels.",
+                })
+    elif "valley" in channels:
         if valley_access_allowed():
             code = run_valley(args)
             results.append({"channel": "valley", "exitCode": code})
@@ -683,8 +735,8 @@ def main(argv: list[str] | None = None) -> int:
                 "reason": "Valley access suspended after abnormal-access warning",
             })
 
-    for channel in ("telegram", "botmadang", "substack", "linkedin"):
-        if channel in channels:
+    for channel in CANDIDATE_CHANNEL_ORDER[1:]:
+        if channel in channels and not substack_blocked:
             code = run_candidate_channel(channel, args)
             results.append({"channel": channel, "exitCode": code})
 
