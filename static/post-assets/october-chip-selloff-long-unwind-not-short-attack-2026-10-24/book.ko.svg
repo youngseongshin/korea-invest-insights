@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 330" role="img" aria-label="헤지된 쏠림 북 구조: 롱은 메모리와 한국 반도체 현물, 숏은 지수 우산(헤지)과 네오클라우드 같은 조달 약한 고리(방향성). 프라임 북은 롱 약 192%, 숏 약 120%, 순 72.7%, 총 311.7%." width="1000" height="330" style="font-family:-apple-system, 'Apple SD Gothic Neo', 'Noto Sans KR', 'Malgun Gothic', sans-serif"><rect x="0" y="0" width="1000" height="330" fill="#ffffff" /><defs><marker id="a3" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" style="fill:#6f7a88" /></marker></defs>
+<rect x="10" y="50" width="290" height="230" rx="8" style="fill:#2a78d6;stroke:#2a78d6;stroke-width:1.6;fill-opacity:0.078" />
+<text x="22" y="72" font-size="13" text-anchor="start" font-weight="700" style="fill:#121821">롱: AI로 돈을 받는 쪽</text>
+<text x="22" y="92" font-size="12" text-anchor="start" font-weight="600" style="fill:#121821">메모리·한국 반도체 현물</text>
+<text x="22" y="110" font-size="12" text-anchor="start" style="fill:#465160">하이닉스·삼성·마이크론</text>
+<text x="22" y="128" font-size="12" text-anchor="start" style="fill:#465160" />
+<text x="22" y="146" font-size="12" text-anchor="start" font-weight="600" style="fill:#121821">논리</text>
+<text x="22" y="164" font-size="12" text-anchor="start" style="fill:#465160">2026~27 메모리 이익은 계약으로</text>
+<text x="22" y="182" font-size="12" text-anchor="start" style="fill:#465160">상당 부분 확정</text>
+<text x="22" y="200" font-size="12" text-anchor="start" style="fill:#465160" />
+<text x="22" y="218" font-size="12" text-anchor="start" font-weight="600" style="fill:#121821">문제</text>
+<text x="22" y="236" font-size="12" text-anchor="start" style="fill:#465160">모두가 들고 있어 팔면 충격이 큼</text>
+<rect x="385" y="95" width="230" height="140" rx="8" style="fill:#ffffff;stroke:#d6dce3;stroke-width:1.2" />
+<text x="397" y="117" font-size="13" text-anchor="start" font-weight="700" style="fill:#121821">헤지펀드 북(10/16 주)</text>
+<text x="397" y="137" font-size="12" text-anchor="start" font-weight="600" style="fill:#121821">롱 약 192% · 숏 약 120%</text>
+<text x="397" y="155" font-size="12" text-anchor="start" style="fill:#465160">순 72.7% · 총 311.7%</text>
+<text x="397" y="173" font-size="12" text-anchor="start" style="fill:#465160">숏 레버리지 5년 99백분위</text>
+<text x="397" y="191" font-size="12" text-anchor="start" style="fill:#465160">순은 낮고 총은 사상 최고권</text>
+<rect x="700" y="10" width="290" height="140" rx="8" style="fill:#eb6834;stroke:#eb6834;stroke-width:1.6;fill-opacity:0.078" />
+<text x="712" y="32" font-size="13" text-anchor="start" font-weight="700" style="fill:#121821">숏 ①: 지수 우산(헤지)</text>
+<text x="712" y="52" font-size="12" text-anchor="start" style="fill:#465160">S&amp;P500·나스닥100·SOX ETF</text>
+<text x="712" y="70" font-size="12" text-anchor="start" style="fill:#465160">EWY·코스피200 선물</text>
+<text x="712" y="88" font-size="12" text-anchor="start" font-weight="600" style="fill:#121821">확신은 두고 경로 위험만 줄임</text>
+<text x="712" y="106" font-size="12" text-anchor="start" style="fill:#465160">롱을 파는 것보다 싸고 빠름</text>
+<rect x="700" y="180" width="290" height="140" rx="8" style="fill:#eb6834;stroke:#eb6834;stroke-width:1.6;fill-opacity:0.078" />
+<text x="712" y="202" font-size="13" text-anchor="start" font-weight="700" style="fill:#121821">숏 ②: 조달 약한 고리(방향성)</text>
+<text x="712" y="222" font-size="12" text-anchor="start" style="fill:#465160">네오클라우드(CRWV·CORZ·NBIS 등)</text>
+<text x="712" y="240" font-size="12" text-anchor="start" style="fill:#465160">유통주식 대비 20~26%</text>
+<text x="712" y="258" font-size="12" text-anchor="start" style="fill:#465160">약 170억달러(ORTEX 집계)</text>
+<text x="712" y="276" font-size="12" text-anchor="start" font-weight="600" style="fill:#121821">빚으로 짓는 쪽은 금리·신용에 약함</text>
+<path d="M385,165 L302,165" marker-end="url(#a3)" style="fill:none;stroke:#6f7a88;stroke-width:1.6" /><text x="343" y="157" font-size="11" text-anchor="middle" style="fill:#465160">보유</text>
+<path d="M615,140 L698,85" marker-end="url(#a3)" style="fill:none;stroke:#6f7a88;stroke-width:1.6" />
+<path d="M615,190 L698,245" marker-end="url(#a3)" style="fill:none;stroke:#6f7a88;stroke-width:1.6" />
+<text x="500" y="268" font-size="12" text-anchor="middle" style="fill:#465160">"돈을 받는 쪽은 사고, 빚으로 짓는 쪽과 시장 전체는 판다"</text></svg>

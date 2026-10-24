@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 260" role="img" aria-label="P&amp;L when correlation breaks: if longs and short targets both fall 5%, the book loses 3.65 points of equity; if longs fall 5% while short targets rise 2%, it loses 12.05 points, 3.3 times more, and de-grossing is forced." width="960" height="260" style="font-family:-apple-system, 'Helvetica Neue', Helvetica, Arial, sans-serif"><rect x="0" y="0" width="960" height="260" fill="#ffffff" /><line x1="208" y1="40" x2="208" y2="230" style="stroke:#e4e8ed;stroke-width:1" />
+<text x="208" y="30" font-size="11" text-anchor="middle" style="fill:#6f7a88">−12</text>
+<line x1="316" y1="40" x2="316" y2="230" style="stroke:#e4e8ed;stroke-width:1" />
+<text x="316" y="30" font-size="11" text-anchor="middle" style="fill:#6f7a88">−9</text>
+<line x1="424" y1="40" x2="424" y2="230" style="stroke:#e4e8ed;stroke-width:1" />
+<text x="424" y="30" font-size="11" text-anchor="middle" style="fill:#6f7a88">−6</text>
+<line x1="532" y1="40" x2="532" y2="230" style="stroke:#e4e8ed;stroke-width:1" />
+<text x="532" y="30" font-size="11" text-anchor="middle" style="fill:#6f7a88">−3</text>
+<line x1="640" y1="40" x2="640" y2="230" style="stroke:#e4e8ed;stroke-width:1" />
+<text x="640" y="30" font-size="11" text-anchor="middle" style="fill:#6f7a88">0</text>
+<line x1="748" y1="40" x2="748" y2="230" style="stroke:#e4e8ed;stroke-width:1" />
+<text x="748" y="30" font-size="11" text-anchor="middle" style="fill:#6f7a88">+3</text>
+<line x1="856" y1="40" x2="856" y2="230" style="stroke:#e4e8ed;stroke-width:1" />
+<text x="856" y="30" font-size="11" text-anchor="middle" style="fill:#6f7a88">+6</text>
+<text x="640" y="250" font-size="11" text-anchor="middle" style="fill:#6f7a88">P&amp;L in % of equity = 193% × long return − 120% × short-target return</text>
+<text x="12" y="74" font-size="13" text-anchor="start" font-weight="600" style="fill:#121821">Both −5%</text>
+<text x="12" y="92" font-size="11" text-anchor="start" style="fill:#6f7a88">Longs and shorts −5%</text>
+<path d="M640.0,64.0 H296.6 Q292.6,64.0 292.6,68.0 V86.0 Q292.6,90.0 296.6,90.0 H640.0 Z" style="fill:#2a78d6" />
+<text x="466.29999999999995" y="56" font-size="11" text-anchor="middle" style="fill:#465160">Long −9.65</text>
+<path d="M640.0,64.0 H852.0 Q856.0,64.0 856.0,68.0 V86.0 Q856.0,90.0 852.0,90.0 H640.0 Z" style="fill:#eb6834" />
+<text x="748.0" y="56" font-size="11" text-anchor="middle" style="fill:#465160">Short +6.00</text>
+<line x1="508.6" y1="58" x2="508.6" y2="96" style="stroke:#121821;stroke-width:2.5" />
+<text x="508.6" y="112" font-size="12" text-anchor="middle" font-weight="700" style="fill:#121821">Net −3.65</text>
+<text x="12" y="164" font-size="13" text-anchor="start" font-weight="600" style="fill:#121821">Longs only −5%</text>
+<text x="12" y="182" font-size="11" text-anchor="start" style="fill:#6f7a88">Shorts +2%</text>
+<path d="M640.0,154.0 H296.6 Q292.6,154.0 292.6,158.0 V176.0 Q292.6,180.0 296.6,180.0 H640.0 Z" style="fill:#2a78d6" />
+<text x="466.29999999999995" y="146" font-size="11" text-anchor="middle" style="fill:#465160">Long −9.65</text>
+<path d="M290.6,154.0 H210.2 Q206.2,154.0 206.2,158.0 V176.0 Q206.2,180.0 210.2,180.0 H290.6 Z" style="fill:#eb6834" />
+<text x="249.39999999999998" y="146" font-size="11" text-anchor="middle" style="fill:#465160">Short −2.40</text>
+<line x1="206.2" y1="148" x2="206.2" y2="186" style="stroke:#121821;stroke-width:2.5" />
+<text x="206.2" y="202" font-size="12" text-anchor="middle" font-weight="700" style="fill:#121821">Net −12.05 (3.3x)</text>
+<line x1="640" y1="40" x2="640" y2="230" style="stroke:#6f7a88;stroke-width:1.2" /></svg>

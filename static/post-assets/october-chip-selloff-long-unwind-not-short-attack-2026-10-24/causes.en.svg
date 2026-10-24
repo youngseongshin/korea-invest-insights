@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 300" role="img" aria-label="Causal chain of the October selloff: AI-specific news and funding fears lit it, hedge-fund long liquidation amplified it into the U.S. AI chain and foreign cash selling in Korea, and retail leverage and the SK hynix buyback absorbed the supply. DRAM spot prices stayed calm." width="1000" height="300" style="font-family:-apple-system, 'Helvetica Neue', Helvetica, Arial, sans-serif"><rect x="0" y="0" width="1000" height="300" fill="#ffffff" /><defs><marker id="a2" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" style="fill:#6f7a88" /></marker></defs>
+<rect x="10" y="10" width="200" height="150" rx="8" style="fill:#6250d6;stroke:#6250d6;stroke-width:1.6;fill-opacity:0.071" />
+<text x="22" y="32" font-size="13" text-anchor="start" font-weight="700" style="fill:#121821">① Trigger: AI news</text>
+<text x="22" y="52" font-size="12" text-anchor="start" font-weight="600" style="fill:#121821">Earnings, capex wording</text>
+<text x="22" y="70" font-size="12" text-anchor="start" style="fill:#465160">Lam Research guidance</text>
+<text x="22" y="88" font-size="12" text-anchor="start" style="fill:#465160">Meta results reaction, 10/22</text>
+<text x="22" y="106" font-size="12" text-anchor="start" font-weight="600" style="fill:#121821">Funding fear</text>
+<text x="22" y="124" font-size="12" text-anchor="start" style="fill:#465160">Oracle CDS ~315bp</text>
+<text x="22" y="142" font-size="12" text-anchor="start" style="fill:#465160">CoreWeave 2032s at 14.9%</text>
+<rect x="260" y="10" width="205" height="150" rx="8" style="fill:#ffffff;stroke:#d6dce3;stroke-width:1.2" />
+<text x="272" y="32" font-size="13" text-anchor="start" font-weight="700" style="fill:#121821">② Amplifier: HF cuts</text>
+<text x="272" y="52" font-size="12" text-anchor="start" style="fill:#465160">Long sales 3.5x short sales</text>
+<text x="272" y="70" font-size="12" text-anchor="start" style="fill:#465160">(Goldman PB, Oct 8–14)</text>
+<text x="272" y="88" font-size="12" text-anchor="start" style="fill:#465160">Biggest tech de-grossing</text>
+<text x="272" y="106" font-size="12" text-anchor="start" style="fill:#465160">(since data began in 2016)</text>
+<text x="272" y="124" font-size="12" text-anchor="start" style="fill:#465160">Gross 311.7% · net 72.7%</text>
+<rect x="520" y="10" width="220" height="120" rx="8" style="fill:#eb6834;stroke:#eb6834;stroke-width:1.6;fill-opacity:0.078" />
+<text x="532" y="32" font-size="13" text-anchor="start" font-weight="700" style="fill:#121821">③ U.S.: AI chain only</text>
+<text x="532" y="52" font-size="12" text-anchor="start" style="fill:#465160">SOX −18.4% · Micron −20.0%</text>
+<text x="532" y="70" font-size="12" text-anchor="start" style="fill:#465160">CoreWeave −40.9%</text>
+<text x="532" y="88" font-size="12" text-anchor="start" font-weight="600" style="fill:#121821">S&amp;P 500 held at −2.5%</text>
+<rect x="520" y="170" width="220" height="120" rx="8" style="fill:#eb6834;stroke:#eb6834;stroke-width:1.6;fill-opacity:0.078" />
+<text x="532" y="192" font-size="13" text-anchor="start" font-weight="700" style="fill:#121821">③ Korea: cash longs sold</text>
+<text x="532" y="212" font-size="12" text-anchor="start" style="fill:#465160">Cash −KRW 27.0tn</text>
+<text x="532" y="230" font-size="12" text-anchor="start" style="fill:#465160">KOSPI200 futures +KRW 0.6tn</text>
+<text x="532" y="248" font-size="12" text-anchor="start" style="fill:#465160">(9/24–10/15, KOSPI −21.6%)</text>
+<text x="532" y="266" font-size="12" text-anchor="start" font-weight="600" style="fill:#121821">Long sales, not index shorts</text>
+<rect x="790" y="10" width="200" height="280" rx="8" style="fill:#2a78d6;stroke:#2a78d6;stroke-width:1.6;fill-opacity:0.078" />
+<text x="802" y="32" font-size="13" text-anchor="start" font-weight="700" style="fill:#121821">④ Who absorbed it</text>
+<text x="802" y="52" font-size="12" text-anchor="start" font-weight="600" style="fill:#121821">U.S. retail leverage</text>
+<text x="802" y="70" font-size="12" text-anchor="start" style="fill:#465160">ETFs: ~$10bn in one week</text>
+<text x="802" y="88" font-size="12" text-anchor="start" style="fill:#465160">SOXL +$7bn (record)</text>
+<text x="802" y="106" font-size="12" text-anchor="start" style="fill:#465160" />
+<text x="802" y="124" font-size="12" text-anchor="start" font-weight="600" style="fill:#121821">Korea</text>
+<text x="802" y="142" font-size="12" text-anchor="start" style="fill:#465160">Hynix buyback ~KRW 39.4tn</text>
+<text x="802" y="160" font-size="12" text-anchor="start" style="fill:#465160">(est.; ended 10/21)</text>
+<text x="802" y="178" font-size="12" text-anchor="start" style="fill:#465160">KODEX leveraged vs.</text>
+<text x="802" y="196" font-size="12" text-anchor="start" style="fill:#465160">2x inverse AUM ~5:1</text>
+<rect x="10" y="190" width="455" height="100" rx="8" stroke-dasharray="5 4" style="fill:#ffffff;stroke:#d6dce3;stroke-width:1.2" />
+<text x="22" y="212" font-size="13" text-anchor="start" font-weight="700" style="fill:#121821">Counter-evidence: physical prices stayed calm</text>
+<text x="22" y="232" font-size="12" text-anchor="start" style="fill:#465160">DRAM spot, DDR5 16Gb: +0.8% 10/19→10/22, +11.4% vs 9/16</text>
+<text x="22" y="250" font-size="12" text-anchor="start" style="fill:#465160">Stocks sold durability beyond 2027, not today's prices</text>
+<path d="M210,85 L258,85" marker-end="url(#a2)" style="fill:none;stroke:#6f7a88;stroke-width:1.6" /><text x="234" y="77" font-size="11" text-anchor="middle" style="fill:#465160">sell</text>
+<path d="M465,60 L518,60" marker-end="url(#a2)" style="fill:none;stroke:#6f7a88;stroke-width:1.6" /><text x="492" y="52" font-size="11" text-anchor="middle" style="fill:#465160">exits</text>
+<path d="M465,130 L492,130 L492,230 L518,230" marker-end="url(#a2)" style="fill:none;stroke:#6f7a88;stroke-width:1.6" />
+<text x="487" y="168" font-size="11" text-anchor="end" style="fill:#465160">risk</text>
+<text x="487" y="182" font-size="11" text-anchor="end" style="fill:#465160">cuts</text>
+<path d="M740,70 L788,70" marker-end="url(#a2)" style="fill:none;stroke:#6f7a88;stroke-width:1.6" /><text x="764" y="62" font-size="11" text-anchor="middle" style="fill:#465160">dip buy</text>
+<path d="M740,230 L788,230" marker-end="url(#a2)" style="fill:none;stroke:#6f7a88;stroke-width:1.6" /><text x="764" y="222" font-size="11" text-anchor="middle" style="fill:#465160">absorb</text></svg>

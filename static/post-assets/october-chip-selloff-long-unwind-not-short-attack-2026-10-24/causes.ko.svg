@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 300" role="img" aria-label="10월 하락의 인과 사슬: AI 고유 뉴스와 조달 공포가 촉발하고, 헤지펀드 롱 청산이 증폭해 미국 AI 체인과 한국 외국인 현물 매도로 번졌으며, 개인 레버리지와 하이닉스 자사주가 매물을 받았다. D램 현물은 평온했다." width="1000" height="300" style="font-family:-apple-system, 'Apple SD Gothic Neo', 'Noto Sans KR', 'Malgun Gothic', sans-serif"><rect x="0" y="0" width="1000" height="300" fill="#ffffff" /><defs><marker id="a2" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" style="fill:#6f7a88" /></marker></defs>
+<rect x="10" y="10" width="200" height="150" rx="8" style="fill:#6250d6;stroke:#6250d6;stroke-width:1.6;fill-opacity:0.071" />
+<text x="22" y="32" font-size="13" text-anchor="start" font-weight="700" style="fill:#121821">① 촉발: AI 고유 뉴스</text>
+<text x="22" y="52" font-size="12" text-anchor="start" font-weight="600" style="fill:#121821">실적·지출 문구</text>
+<text x="22" y="70" font-size="12" text-anchor="start" style="fill:#465160">램리서치 가이던스</text>
+<text x="22" y="88" font-size="12" text-anchor="start" style="fill:#465160">메타 실적 반응(10/22)</text>
+<text x="22" y="106" font-size="12" text-anchor="start" font-weight="600" style="fill:#121821">조달 공포</text>
+<text x="22" y="124" font-size="12" text-anchor="start" style="fill:#465160">오라클 CDS 약 315bp</text>
+<text x="22" y="142" font-size="12" text-anchor="start" style="fill:#465160">코어위브 2032년물 14.9%</text>
+<rect x="260" y="10" width="205" height="150" rx="8" style="fill:#ffffff;stroke:#d6dce3;stroke-width:1.2" />
+<text x="272" y="32" font-size="13" text-anchor="start" font-weight="700" style="fill:#121821">② 증폭: 헤지펀드 축소</text>
+<text x="272" y="52" font-size="12" text-anchor="start" style="fill:#465160">롱 매도가 숏 매도의 3.5배</text>
+<text x="272" y="70" font-size="12" text-anchor="start" style="fill:#465160">(골드만 PB, 10/8~14)</text>
+<text x="272" y="88" font-size="12" text-anchor="start" style="fill:#465160">기술주 비중 축소 최대</text>
+<text x="272" y="106" font-size="12" text-anchor="start" style="fill:#465160">(2016년 집계 시작 이후)</text>
+<text x="272" y="124" font-size="12" text-anchor="start" style="fill:#465160">총 311.7%·순 72.7%</text>
+<rect x="520" y="10" width="220" height="120" rx="8" style="fill:#eb6834;stroke:#eb6834;stroke-width:1.6;fill-opacity:0.078" />
+<text x="532" y="32" font-size="13" text-anchor="start" font-weight="700" style="fill:#121821">③ 미국: AI 체인만 급락</text>
+<text x="532" y="52" font-size="12" text-anchor="start" style="fill:#465160">SOX −18.4% · 마이크론 −20.0%</text>
+<text x="532" y="70" font-size="12" text-anchor="start" style="fill:#465160">코어위브 −40.9%</text>
+<text x="532" y="88" font-size="12" text-anchor="start" font-weight="600" style="fill:#121821">S&amp;P500은 −2.5%로 버팀</text>
+<rect x="520" y="170" width="220" height="120" rx="8" style="fill:#eb6834;stroke:#eb6834;stroke-width:1.6;fill-opacity:0.078" />
+<text x="532" y="192" font-size="13" text-anchor="start" font-weight="700" style="fill:#121821">③ 한국: 외국인 현물 청산</text>
+<text x="532" y="212" font-size="12" text-anchor="start" style="fill:#465160">현물 −27.0조원</text>
+<text x="532" y="230" font-size="12" text-anchor="start" style="fill:#465160">코스피200 선물 +0.6조원</text>
+<text x="532" y="248" font-size="12" text-anchor="start" style="fill:#465160">(9/24~10/15, 코스피 −21.6%)</text>
+<text x="532" y="266" font-size="12" text-anchor="start" font-weight="600" style="fill:#121821">지수 숏이 아니라 롱 매도</text>
+<rect x="790" y="10" width="200" height="280" rx="8" style="fill:#2a78d6;stroke:#2a78d6;stroke-width:1.6;fill-opacity:0.078" />
+<text x="802" y="32" font-size="13" text-anchor="start" font-weight="700" style="fill:#121821">④ 매물을 받은 쪽</text>
+<text x="802" y="52" font-size="12" text-anchor="start" font-weight="600" style="fill:#121821">미국 개인 레버리지</text>
+<text x="802" y="70" font-size="12" text-anchor="start" style="fill:#465160">ETF 주간 약 100억달러 유입</text>
+<text x="802" y="88" font-size="12" text-anchor="start" style="fill:#465160">SOXL +70억달러(사상 최대)</text>
+<text x="802" y="106" font-size="12" text-anchor="start" style="fill:#465160" />
+<text x="802" y="124" font-size="12" text-anchor="start" font-weight="600" style="fill:#121821">한국</text>
+<text x="802" y="142" font-size="12" text-anchor="start" style="fill:#465160">하이닉스 자사주 약 39.4조원</text>
+<text x="802" y="160" font-size="12" text-anchor="start" style="fill:#465160">(추정, 10/21 종료)</text>
+<text x="802" y="178" font-size="12" text-anchor="start" style="fill:#465160">KODEX 레버리지 대</text>
+<text x="802" y="196" font-size="12" text-anchor="start" style="fill:#465160">2X 인버스 시총 약 5:1</text>
+<rect x="10" y="190" width="455" height="100" rx="8" stroke-dasharray="5 4" style="fill:#ffffff;stroke:#d6dce3;stroke-width:1.2" />
+<text x="22" y="212" font-size="13" text-anchor="start" font-weight="700" style="fill:#121821">반대 증거: 실물 가격은 평온</text>
+<text x="22" y="232" font-size="12" text-anchor="start" style="fill:#465160">D램 현물 DDR5 16Gb 10/19→10/22 +0.8%, 9/16 대비 +11.4%</text>
+<text x="22" y="250" font-size="12" text-anchor="start" style="fill:#465160">주가가 판 것은 지금 가격이 아니라 2027년 이후의 지속성</text>
+<path d="M210,85 L258,85" marker-end="url(#a2)" style="fill:none;stroke:#6f7a88;stroke-width:1.6" /><text x="234" y="77" font-size="11" text-anchor="middle" style="fill:#465160">매도</text>
+<path d="M465,60 L518,60" marker-end="url(#a2)" style="fill:none;stroke:#6f7a88;stroke-width:1.6" /><text x="492" y="52" font-size="11" text-anchor="middle" style="fill:#465160">롱 청산</text>
+<path d="M465,130 L492,130 L492,230 L518,230" marker-end="url(#a2)" style="fill:none;stroke:#6f7a88;stroke-width:1.6" />
+<text x="487" y="168" font-size="11" text-anchor="end" style="fill:#465160">한도</text>
+<text x="487" y="182" font-size="11" text-anchor="end" style="fill:#465160">축소</text>
+<path d="M740,70 L788,70" marker-end="url(#a2)" style="fill:none;stroke:#6f7a88;stroke-width:1.6" /><text x="764" y="62" font-size="11" text-anchor="middle" style="fill:#465160">저가 매수</text>
+<path d="M740,230 L788,230" marker-end="url(#a2)" style="fill:none;stroke:#6f7a88;stroke-width:1.6" /><text x="764" y="222" font-size="11" text-anchor="middle" style="fill:#465160">흡수</text></svg>

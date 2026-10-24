@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 300" role="img" aria-label="Foreign net buying of KOSPI cash and KOSPI200 futures (KRW tn): 6/23–7/29 cash −44.0, futures +8.0; 7/30–9/23 −14.5, +1.9; 9/24–10/15 −27.0, +0.6; 10/16–23 −0.3, −1.45" width="1000" height="300" style="font-family:-apple-system, 'Helvetica Neue', Helvetica, Arial, sans-serif"><rect x="0" y="0" width="1000" height="300" fill="#ffffff" /><line x1="70" y1="37.6" x2="980" y2="37.6" style="stroke:#e4e8ed;stroke-width:1" />
+<text x="60" y="41.58620689655172" font-size="11" text-anchor="end" style="fill:#6f7a88">+10</text>
+<line x1="70" y1="75.5" x2="980" y2="75.5" style="stroke:#6f7a88;stroke-width:1.2" />
+<text x="60" y="79.51724137931035" font-size="11" text-anchor="end" style="fill:#6f7a88">0</text>
+<line x1="70" y1="113.4" x2="980" y2="113.4" style="stroke:#e4e8ed;stroke-width:1" />
+<text x="60" y="117.44827586206897" font-size="11" text-anchor="end" style="fill:#6f7a88">−10</text>
+<line x1="70" y1="151.4" x2="980" y2="151.4" style="stroke:#e4e8ed;stroke-width:1" />
+<text x="60" y="155.3793103448276" font-size="11" text-anchor="end" style="fill:#6f7a88">−20</text>
+<line x1="70" y1="189.3" x2="980" y2="189.3" style="stroke:#e4e8ed;stroke-width:1" />
+<text x="60" y="193.31034482758622" font-size="11" text-anchor="end" style="fill:#6f7a88">−30</text>
+<line x1="70" y1="227.2" x2="980" y2="227.2" style="stroke:#e4e8ed;stroke-width:1" />
+<text x="60" y="231.24137931034483" font-size="11" text-anchor="end" style="fill:#6f7a88">−40</text>
+<text x="60" y="16" font-size="11" text-anchor="end" style="fill:#6f7a88">KRW tn</text>
+<path d="M123.8,75.5 V238.4 Q123.8,242.4 127.8,242.4 H177.8 Q181.8,242.4 181.8,238.4 V75.5 Z" style="fill:#2a78d6" />
+<text x="152.75" y="257.41379310344826" font-size="12" text-anchor="middle" font-weight="600" style="fill:#121821">−44.0</text>
+<path d="M185.8,75.5 V49.2 Q185.8,45.2 189.8,45.2 H239.8 Q243.8,45.2 243.8,49.2 V75.5 Z" style="fill:#eb6834" />
+<text x="214.75" y="39.172413793103445" font-size="12" text-anchor="middle" font-weight="600" style="fill:#121821">+8.0</text>
+<text x="183.75" y="278" font-size="12" text-anchor="middle" font-weight="600" style="fill:#121821">6/23–7/29</text>
+<text x="183.75" y="294" font-size="11" text-anchor="middle" style="fill:#6f7a88">KOSPI −37.9%</text>
+<path d="M351.2,75.5 V126.5 Q351.2,130.5 355.2,130.5 H405.2 Q409.2,130.5 409.2,126.5 V75.5 Z" style="fill:#2a78d6" />
+<text x="380.25" y="145.51724137931035" font-size="12" text-anchor="middle" font-weight="600" style="fill:#121821">−14.5</text>
+<path d="M413.2,75.5 V72.3 Q413.2,68.3 417.2,68.3 H467.2 Q471.2,68.3 471.2,72.3 V75.5 Z" style="fill:#eb6834" />
+<text x="442.25" y="62.310344827586206" font-size="12" text-anchor="middle" font-weight="600" style="fill:#121821">+1.9</text>
+<text x="411.25" y="278" font-size="12" text-anchor="middle" font-weight="600" style="fill:#121821">7/30–9/23</text>
+<text x="411.25" y="294" font-size="11" text-anchor="middle" style="fill:#6f7a88">KOSPI +25.0%</text>
+<path d="M578.8,75.5 V173.9 Q578.8,177.9 582.8,177.9 H632.8 Q636.8,177.9 636.8,173.9 V75.5 Z" style="fill:#2a78d6" />
+<text x="607.75" y="192.93103448275863" font-size="12" text-anchor="middle" font-weight="600" style="fill:#121821">−27.0</text>
+<path d="M640.8,75.5 V75.5 Q640.8,73.2 643.0,73.2 H696.5 Q698.8,73.2 698.8,75.5 V75.5 Z" style="fill:#eb6834" />
+<text x="669.75" y="67.24137931034483" font-size="12" text-anchor="middle" font-weight="600" style="fill:#121821">+0.6</text>
+<text x="638.75" y="278" font-size="12" text-anchor="middle" font-weight="600" style="fill:#121821">9/24–10/15</text>
+<text x="638.75" y="294" font-size="11" text-anchor="middle" style="fill:#6f7a88">KOSPI −21.6%</text>
+<path d="M806.2,75.5 V75.5 Q806.2,76.7 807.4,76.7 H863.1 Q864.2,76.7 864.2,75.5 V75.5 Z" style="fill:#2a78d6" />
+<text x="835.25" y="91.65517241379311" font-size="12" text-anchor="middle" font-weight="600" style="fill:#121821">−0.3</text>
+<path d="M868.2,75.5 V77.0 Q868.2,81.0 872.2,81.0 H922.2 Q926.2,81.0 926.2,77.0 V75.5 Z" style="fill:#eb6834" />
+<text x="897.25" y="96.01724137931035" font-size="12" text-anchor="middle" font-weight="600" style="fill:#121821">−1.45</text>
+<text x="866.25" y="278" font-size="12" text-anchor="middle" font-weight="600" style="fill:#121821">10/16–23</text>
+<text x="866.25" y="294" font-size="11" text-anchor="middle" style="fill:#6f7a88">KOSPI −0.1%</text></svg>

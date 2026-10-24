@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 340" role="img" aria-label="Decline from the October closing high to the Oct 23 close. S&amp;P 500 −2.5%, SOX −18.4%, Micron −20.0%, KOSPI −20.8%, Samsung Electronics −22.6%, SK hynix −31.4%, CoreWeave −40.9%" width="960" height="340" style="font-family:-apple-system, 'Helvetica Neue', Helvetica, Arial, sans-serif"><rect x="0" y="0" width="960" height="340" fill="#ffffff" /><line x1="250.0" y1="34" x2="250.0" y2="328" style="stroke:#e4e8ed;stroke-width:1" />
+<text x="250.0" y="24" font-size="11" text-anchor="middle" style="fill:#6f7a88">0%</text>
+<line x1="405.0" y1="34" x2="405.0" y2="328" style="stroke:#e4e8ed;stroke-width:1" />
+<text x="405.0" y="24" font-size="11" text-anchor="middle" style="fill:#6f7a88">−10%</text>
+<line x1="560.0" y1="34" x2="560.0" y2="328" style="stroke:#e4e8ed;stroke-width:1" />
+<text x="560.0" y="24" font-size="11" text-anchor="middle" style="fill:#6f7a88">−20%</text>
+<line x1="715.0" y1="34" x2="715.0" y2="328" style="stroke:#e4e8ed;stroke-width:1" />
+<text x="715.0" y="24" font-size="11" text-anchor="middle" style="fill:#6f7a88">−30%</text>
+<line x1="870.0" y1="34" x2="870.0" y2="328" style="stroke:#e4e8ed;stroke-width:1" />
+<text x="870.0" y="24" font-size="11" text-anchor="middle" style="fill:#6f7a88">−40%</text>
+<text x="12" y="55" font-size="13" text-anchor="start" font-weight="600" style="fill:#121821">S&amp;P500</text>
+<text x="12" y="71" font-size="11" text-anchor="start" style="fill:#6f7a88">Index hedge</text>
+<path d="M250.0,46.0 H284.8 Q288.8,46.0 288.8,50.0 V64.0 Q288.8,68.0 284.8,68.0 H250.0 Z" style="fill:#eb6834" />
+<text x="296.75" y="62" font-size="12" text-anchor="start" font-weight="600" style="fill:#121821">−2.5%</text>
+<text x="12" y="97" font-size="13" text-anchor="start" font-weight="600" style="fill:#121821">SOX</text>
+<text x="12" y="113" font-size="11" text-anchor="start" style="fill:#6f7a88">Index hedge</text>
+<path d="M250.0,88.0 H531.2 Q535.2,88.0 535.2,92.0 V106.0 Q535.2,110.0 531.2,110.0 H250.0 Z" style="fill:#eb6834" />
+<text x="543.2" y="104" font-size="12" text-anchor="start" font-weight="600" style="fill:#121821">−18.4%</text>
+<text x="12" y="139" font-size="13" text-anchor="start" font-weight="600" style="fill:#121821">Micron</text>
+<text x="12" y="155" font-size="11" text-anchor="start" style="fill:#6f7a88">Long target</text>
+<path d="M250.0,130.0 H556.0 Q560.0,130.0 560.0,134.0 V148.0 Q560.0,152.0 556.0,152.0 H250.0 Z" style="fill:#2a78d6" />
+<text x="568.0" y="146" font-size="12" text-anchor="start" font-weight="600" style="fill:#121821">−20.0%</text>
+<text x="12" y="181" font-size="13" text-anchor="start" font-weight="600" style="fill:#121821">KOSPI</text>
+<text x="12" y="197" font-size="11" text-anchor="start" style="fill:#6f7a88">Index hedge</text>
+<path d="M250.0,172.0 H568.4 Q572.4,172.0 572.4,176.0 V190.0 Q572.4,194.0 568.4,194.0 H250.0 Z" style="fill:#eb6834" />
+<text x="580.4000000000001" y="188" font-size="12" text-anchor="start" font-weight="600" style="fill:#121821">−20.8%</text>
+<text x="12" y="223" font-size="13" text-anchor="start" font-weight="600" style="fill:#121821">Samsung Elec.</text>
+<text x="12" y="239" font-size="11" text-anchor="start" style="fill:#6f7a88">Long target</text>
+<path d="M250.0,214.0 H596.3 Q600.3,214.0 600.3,218.0 V232.0 Q600.3,236.0 596.3,236.0 H250.0 Z" style="fill:#2a78d6" />
+<text x="608.3" y="230" font-size="12" text-anchor="start" font-weight="600" style="fill:#121821">−22.6%</text>
+<text x="12" y="265" font-size="13" text-anchor="start" font-weight="600" style="fill:#121821">SK hynix</text>
+<text x="12" y="281" font-size="11" text-anchor="start" style="fill:#6f7a88">Long target</text>
+<path d="M250.0,256.0 H732.7 Q736.7,256.0 736.7,260.0 V274.0 Q736.7,278.0 732.7,278.0 H250.0 Z" style="fill:#2a78d6" />
+<text x="744.7" y="272" font-size="12" text-anchor="start" font-weight="600" style="fill:#121821">−31.4%</text>
+<text x="12" y="307" font-size="13" text-anchor="start" font-weight="600" style="fill:#121821">CoreWeave</text>
+<text x="12" y="323" font-size="11" text-anchor="start" style="fill:#6f7a88">Funding weak link</text>
+<path d="M250.0,298.0 H879.9 Q883.9,298.0 883.9,302.0 V316.0 Q883.9,320.0 879.9,320.0 H250.0 Z" style="fill:#eb6834" />
+<text x="891.9499999999999" y="314" font-size="12" text-anchor="start" font-weight="600" style="fill:#121821">−40.9%</text>
+<line x1="250" y1="34" x2="250" y2="328" style="stroke:#6f7a88;stroke-width:1.2" /></svg>
