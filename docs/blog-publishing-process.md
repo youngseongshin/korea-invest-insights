@@ -287,7 +287,8 @@ raw GitHub and the SVGs from the live site, which are public and CORS-open.
    markdown.
 4. Run `await window.__kiiVerify({draft})`. It rereads the saved draft and fails
    when the image or footnote count differs from the run summary, when an image
-   was not uploaded, or when literal markdown or HTML is left. Do not publish
+   was not uploaded, or when literal markdown or HTML is left in the text or an
+   HTML entity (such as `&amp;`) is left in image alt text. Do not publish
    unless `ok` is `true`.
 5. Reload the draft and look at it: the first figure, one table image, the
    footnote block and the language footer. The run summary survives the reload in

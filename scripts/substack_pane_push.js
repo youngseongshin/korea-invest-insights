@@ -25,6 +25,8 @@
 // Footnote numbers follow first reference. The draft stays private until you publish it.
 // Literal markdown or HTML left in a text node means the converter missed a construct.
 window.__kiiLintRes = [/\[\^/, /\]\(/, /<\/?\w+/, /\*\*/, /&\w+;/, /^!\[/];
+// An HTML entity left in image alt text is read aloud literally by screen readers ("P&amp;L").
+window.__kiiAltRe = /&#?\w+;/;
 window.__kiiRun = (over = {}) => {
   const CFG = {slug: '', draft: 0, lang: 'en', dry: false,
     raw: 'https://raw.githubusercontent.com/youngseongshin/korea-invest-insights/main',
@@ -42,6 +44,10 @@ window.__kiiRun = (over = {}) => {
     '|(?<c>`(?<ct>[^`]+)`)' +
     '|(?<l>\\[(?<lt>[^\\]]+)\\]\\((?<lu>[^)\\s]+)\\))', 'g');
   const esc = s => s.replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;').replace(/"/g, '&quot;');
+  // Figure alt comes from an HTML attribute, so decode its entities once (&amp;lt; stays &lt;).
+  const NAMED = {amp: '&', lt: '<', gt: '>', quot: '"', apos: "'"};
+  const unesc = s => s.replace(/&(?:#(\d+)|#x([0-9a-f]+)|(amp|lt|gt|quot|apos));/gi, (m, d, x, n) =>
+    d ? String.fromCodePoint(+d) : x ? String.fromCodePoint(parseInt(x, 16)) : NAMED[n.toLowerCase()]);
 
   class Numbering {
     constructor(defs) { this.defs = defs; this.order = []; }
@@ -203,7 +209,7 @@ window.__kiiRun = (over = {}) => {
         const stem = im[1].split('/').pop().replace(/\.svg$/, '').replace(/\./g, '-');
         const name = `fig-${String(images.length + 1).padStart(2, '0')}-${stem}.png`;
         const r = CFG.dry ? {blob: null, w: 0, h: 0} : await svgToBlob(CFG.site + im[1]);
-        addImage(name, im[2], r.w, r.h, r.blob);
+        addImage(name, unesc(im[2]), r.w, r.h, r.blob);
         i++; continue;
       }
       const mi = s.match(/^!\[([^\]]*)\]\(([^)\s]+)\)$/);
@@ -212,7 +218,7 @@ window.__kiiRun = (over = {}) => {
         const stem = mi[2].split('/').pop().replace(/\.[a-z]+$/i, '').replace(/\./g, '-');
         const name = `fig-${String(images.length + 1).padStart(2, '0')}-${stem}.png`;
         const r = CFG.dry ? {blob: null, w: 0, h: 0} : await rasterUrl(mi[2].startsWith('/') ? CFG.site + mi[2] : mi[2]);
-        addImage(name, mi[1], r.w, r.h, r.blob);
+        addImage(name, unesc(mi[1]), r.w, r.h, r.blob);
         i++; continue;
       }
       if (s.startsWith('|')) {
@@ -259,13 +265,14 @@ window.__kiiRun = (over = {}) => {
     const bad = [];
     const lintWalk = n => {
       if (n.type === 'text') for (const re of window.__kiiLintRes) if (re.test(n.text)) bad.push(re.source + ': ' + n.text.slice(0, 80));
+      if (n.type === 'image2' && window.__kiiAltRe.test(n.attrs.alt || '')) bad.push('alt entity: ' + n.attrs.alt.slice(0, 80));
       (n.content || []).forEach(lintWalk);
     };
     content.forEach(lintWalk);
     st.lint = bad.slice(0, 20);
     let desc = meta.description || '';
     if (desc.length > 240) desc = desc.slice(0, 237).replace(/\s+\S*$/, '') + '…';
-    if (CFG.dry) { st.step = 'dry-done'; return; }
+    if (CFG.dry) { st.doc = doc; st.step = 'dry-done'; return; }
     if (bad.length) throw new Error('lint failed (' + bad.length + '): ' + bad[0]);
 
     st.total = images.length + 1;
@@ -310,6 +317,7 @@ window.__kiiVerify = async ({draft, expect} = {}) => {
     if (n.type === 'footnote') got.footnotes++;
     if (n.type === 'image2' && !/^https:\/\//.test((n.attrs || {}).src || '')) got.notUploaded++;
     if (n.type === 'text') for (const re of window.__kiiLintRes) if (re.test(n.text)) lint.push(re.source + ': ' + n.text.slice(0, 80));
+    if (n.type === 'image2' && window.__kiiAltRe.test((n.attrs || {}).alt || '')) lint.push('alt entity: ' + n.attrs.alt.slice(0, 80));
     (n.content || []).forEach(walk);
   };
   (doc.content || []).forEach(walk);
