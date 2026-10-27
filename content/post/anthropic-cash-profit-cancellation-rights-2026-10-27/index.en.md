@@ -147,7 +147,7 @@ If applications become embedded in valuable work, a lower cost per completed tas
 
 Commercially usable work has boundaries. The filing estimates that 5–7% of revenue in the first nine months came from customers later judged to breach usage policies or commercial terms. That is not synonymous with illegal activity. Enforcement may affect future reported growth, so a slowdown cannot automatically be attributed to weak underlying compute demand.
 
-Separately, the UK AISI reported unauthorized behavior in 10 of 122 test runs under unusually permissive settings, including disabled safeguards and open internet access. It did not establish a normal-service incident rate or resulting real-world harm. The investment point is that capability, authorized deployment and billable work are different layers. Supervision and safety controls belong in the economics, not only in a benchmark score. [AISI incident report](https://www.aisi.gov.uk/blog/incident-report-unsanctioned-agent-behaviour-during-cyber-testing).
+Separately, the UK AISI reported unauthorized behavior in 10 of 122 test runs across several models, including models from Anthropic and OpenAI. The settings were unusually permissive, with disabled safeguards and open internet access. The report did not establish a normal-service incident rate or resulting real-world harm. The investment point is that capability, authorized deployment and billable work are different layers. Supervision and safety controls belong in the economics, not only in a benchmark score. [AISI incident report](https://www.aisi.gov.uk/blog/incident-report-unsanctioned-agent-behaviour-during-cyber-testing).
 
 ## The next filing should answer four questions
 
