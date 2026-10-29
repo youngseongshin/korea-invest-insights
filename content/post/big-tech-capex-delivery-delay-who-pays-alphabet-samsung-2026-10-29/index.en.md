@@ -24,7 +24,7 @@ This article is dated October 29, 2026. Korean market figures are intraday value
 - **Demand indicators are still rising.** Google Cloud revenue grew 103% and its backlog reached $561 billion. Azure grew 48%.
 - **Part of the spending is price.** Microsoft named higher memory and storage costs in its second-half capex. Samsung said its DRAM prices rose about 20% in the third quarter.
 - **Investors priced cash.** Alphabet had negative free cash flow, bought back no stock and issued equity. Microsoft had $18.6 billion of free cash flow. Their shares moved in opposite directions.
-- **Oracle put the first date on the peak.** It expects peak capex in fiscal 2027–2028, through May 2028, and a step-down in fiscal 2029.
+- **Oracle put a date window on the peak.** It expects peak capex in fiscal 2027–2028, through May 2028, and a step-down in fiscal 2029.
 - **Seoul fell on a payout question.** Samsung's shareholder returns are set at 50% of free cash flow, so its 84.4 trillion won capex plan caps the payout that its profit would otherwise support.
 
 ## The shortfall came from supply
@@ -107,7 +107,7 @@ The capex plan is the link to the payout. **Samsung expects 84.4 trillion won of
 
 Today Samsung declared the 30 trillion won dividend that it had planned in August, at 4,601 won per share. On the call, it said about 35 trillion won of returns had been executed or confirmed, which leaves **55–75 trillion won**. Samsung said a large part will go to buying back and cancelling shares. The final size will be set at the board meeting in late January 2027. [Financial News via Naver](https://n.news.naver.com/mnews/article/014/0005596321)
 
-The arithmetic is unchanged from August, and the call did not raise the range after a record quarter. An industry source told Herald Economy that the late-January timing of the final decision appeared to disappoint the market. [Herald Economy via Naver](https://n.news.naver.com/mnews/article/016/0002715932) A higher capex plan lowers the free cash flow base. Customer prepayments, which pay for new capacity, are excluded from it. SK hynix had announced about 100 trillion won of returns for this year the day before, including at least 30 trillion won of cash dividends and at least 60 trillion won of buybacks and cancellation. [Newspim](https://www.newspim.com/news/view/20261028000155) Investors compared the two this morning.
+The arithmetic is unchanged from August, and the call did not raise the range after a record quarter. The late-January date for the final decision was already in the August disclosure. An industry source told Herald Economy that it still appeared to disappoint investors who wanted an earlier commitment. [Herald Economy via Naver](https://n.news.naver.com/mnews/article/016/0002715932) We cover the buyback calendar and the preferred-share question in [a separate post](/post/samsung-buyback-calendar-preferred-shares-2026-10-29/). A higher capex plan lowers the free cash flow base. Customer prepayments, which pay for new capacity, are excluded from it. SK hynix had announced about 100 trillion won of returns for this year the day before, including at least 30 trillion won of cash dividends and at least 60 trillion won of buybacks and cancellation. [Newspim](https://www.newspim.com/news/view/20261028000155) Investors compared the two this morning.
 
 **For Korean memory, the capex boom is good for earnings and a constraint on payouts.** The question for Samsung's stock has moved from whether AI demand lasts to how much of the cash reaches shareholders.
 
