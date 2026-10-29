@@ -5,7 +5,7 @@ categories: ["Exclusive Analysis", "Korean-Equities", "Nuclear-Energy"]
 tags: ["Dukovany", "Czech nuclear", "KHNP", "Daewoo E&C", "Doosan Enerbility", "KEPCO E&C", "Hyundai E&C", "APR1000", "Westinghouse", "Barakah", "Team Korea"]
 series: ["exclusive-analysis", "korea-policy-capital"]
 slug: "dukovany-construction-talks-collapse-risk-allocation-team-korea-2026-10-29"
-description: "KHNP ended Dukovany building talks with Daewoo E&C and Doosan Enerbility and will name a new builder by July 2027. The main contract and Doosan's equipment deal stand. Four stocks lost over 7 trillion won, far above the profit at stake."
+description: "KHNP ended Dukovany building talks with Daewoo E&C and Doosan Enerbility and will name a new builder by July 2027. The main contract and Doosan's equipment deal stand. Four stocks closed 5.2tn won lower, far above the profit at stake."
 image: "cover.en.png"
 draft: false
 ---
@@ -14,18 +14,18 @@ On October 29, Korea Hydro & Nuclear Power (KHNP) ended talks on the constructio
 
 The main contract between KHNP and the Czech owner, EDU II, stands. So do Doosan Enerbility's main-equipment contract, worth about 5.6 trillion won, and KEPCO E&C's design contract. What broke is one contract: the construction of the plant buildings and the installation of its equipment. Even so, by midday **Daewoo E&C was down 20% and Doosan Enerbility was down 12%.**
 
-**Our judgment: the variable that broke the talks was who carries the quantity risk on the first-ever APR1000, more than the price level. The more than 7 trillion won of market value erased from four stocks is more than ten times the profit this construction work could earn. The stocks priced a discount on the Team Korea story, that Korea builds reactors cheaply and on time, more than the contract's cash flows.** That story rested on affiliates and partners absorbing cost risk together. A private builder refused fixed-price risk on a first-of-a-kind reactor, and the premise became visible.
+**Our judgment: the variable that broke the talks was who carries the quantity risk on the first-ever APR1000, more than the price level. The roughly 5.2 trillion won of market value that four stocks lost by the regular-session close is 9 to 17 times the profit this construction work could earn. The stocks priced a discount on the Team Korea story, that Korea builds reactors cheaply and on time, more than the contract's cash flows.** That story rested on affiliates and partners absorbing cost risk together. A private builder refused fixed-price risk on a first-of-a-kind reactor, and the premise became visible.
 
 In July we wrote that the Czech project's contract risk had fallen but its margin risk remained. [KII, July 4](/post/dukovany-westinghouse-ip-settlement-korea-nuclear-margin-risk-2026-07-04/) Today that margin risk broke the construction contract.
 
-This article is dated October 29, 2026. Korean market figures are intraday values at 12:14 p.m. KST and are provisional until the close.
+This article is dated October 29, 2026. Korean market figures in the tables and charts are intraday values at 12:14 p.m. KST. Regular-session closing values are stated separately in the text (updated 6 p.m. KST, October 29).
 
 ## What stands and what broke
 
 - **What stands:** KHNP's main contract with EDU II (signed June 4, 2025), Doosan Enerbility's main equipment at about 5.6 trillion won, and KEPCO E&C's design work.
 - **What broke:** construction talks with the Daewoo E&C–Doosan Enerbility consortium, after about 15 months, 78 working meetings, 11 dispute-adjustment committee sessions and two meetings between the chief executives.
 - **The dispute:** KHNP wanted a lump-sum fixed price. The consortium wanted to settle quantity increases after detailed design.
-- **The stocks:** four companies lost about 7.5 trillion won of market value. We estimate the consortium's total construction profit at 0.3–0.6 trillion won.
+- **The stocks:** four companies lost about 7.5 trillion won of market value intraday and about 5.2 trillion won by the regular-session close. We estimate the consortium's total construction profit at 0.3–0.6 trillion won.
 - **The ecosystem:** a cost fight that erupted after construction at Barakah has erupted before construction in the Czech Republic. US–Korea nuclear cooperation has given private builders an alternative.
 - **The next test:** who attends the January 2027 briefing, and what risk clauses the April tender carries.
 
@@ -79,7 +79,7 @@ Sources: Korea Economic Daily, Financial News, Aju Business Daily, Etoday, MTN, 
 
 The re-tender will settle what kind of dispute this was. If large builders bid on lump-sum terms, the problem was the Daewoo consortium's risk aversion. If bidders refuse the same terms, the problem is the structure of a first-of-a-kind build, and KHNP must change its terms.
 
-## Seven trillion won lost against half a trillion at stake
+## Five trillion won lost against half a trillion at stake
 
 ![Market value lost intraday on October 29, compared with our estimate of the consortium's total construction profit. Doosan Enerbility lost about 4.9 trillion won, Daewoo E&C about 1.2 trillion, Hyundai E&C about 1.0 trillion and KEPCO E&C about 0.4 trillion. The estimated construction profit range for the whole consortium is 0.3 to 0.6 trillion won.](/post-assets/dukovany-construction-talks-collapse-risk-allocation-team-korea-2026-10-29/value-lost-vs-profit.en.png)
 
@@ -95,13 +95,15 @@ The re-tender will settle what kind of dispute this was. If large builders bid o
 
 Source: Naver Finance, intraday at 12:14 p.m. KST on October 29. The KOSPI was down 2.59% at the same time. Market value lost is the fall from the previous close times shares outstanding.
 
-Together the four stocks lost about 7.5 trillion won of market value. Net of the KOSPI's fall, the loss is still about 5.9 trillion won.
+Together the four stocks lost about 7.5 trillion won of market value intraday. Net of the KOSPI's fall, the loss is still about 5.9 trillion won.
+
+**Close update:** the losses narrowed in the afternoon. At the regular-session close, Daewoo E&C was down 20.0%, Doosan Enerbility 8.1%, KEPCO E&C 7.6% and Hyundai E&C 5.1%, and the KOSPI was down 1.24%. The four stocks lost about 5.2 trillion won of market value, or about 4.5 trillion won net of the KOSPI's fall. By company, Doosan Enerbility lost about 3.2 trillion won, Daewoo E&C about 1.2 trillion won, Hyundai E&C about 0.5 trillion won and KEPCO E&C about 0.3 trillion won.
 
 The profit at stake in this contract is far smaller. At signing, the Czech side put the cost of the two Dukovany units at about CZK 407 billion in current prices. [oEnergetice and ČTK](https://oenergetice.cz/en/nuclear-power/south-koreas-khnp-to-build-at-czechias-dukovany-plant-contract-signed-after-court-ruling) At the October 29 exchange rate of about 61 won per koruna, that is about 25 trillion won; Korean media cite 25–28 trillion won, depending on when they convert. The construction value is not public. The JoongAng Ilbo estimated it in March at 10-plus trillion won, and the reports that a 10% cut equals more than 1 trillion won point to the same scale. [JoongAng Ilbo via Daum](https://v.daum.net/v/20260324050154461) At about 10 trillion won of construction and a 3–6% operating margin, the whole consortium would earn 0.3–0.6 trillion won over about a decade. The margin and the consortium shares are not public, so this range is our assumption.
 
-**Daewoo E&C's one-day loss alone is about twice the top of that range, and Daewoo would earn only part of it.** Doosan Enerbility kept its main-equipment contract and still lost about 4.9 trillion won. The stocks therefore repriced an option and a story more than this contract's cash flows. Daewoo E&C lost its option on an overseas nuclear EPC reference. Doosan Enerbility lost some of the story that Team Korea moves as one.
+**Daewoo E&C's one-day loss alone is about twice the top of that range, and Daewoo would earn only part of it.** Doosan Enerbility kept its main-equipment contract and still lost about 4.9 trillion won intraday and about 3.2 trillion won by the close. The stocks therefore repriced an option and a story more than this contract's cash flows. Daewoo E&C lost its option on an overseas nuclear EPC reference. Doosan Enerbility lost some of the story that Team Korea moves as one.
 
-Hyundai E&C fell 9% even though the market is watching whether it and Samsung C&T will bid. [MTN](https://news.mtn.co.kr/article/2026102909393462147) The market did not read this as one company's problem. The risk of building a first-of-a-kind reactor at a fixed price is the same whoever builds it, and Hyundai E&C faces the same question on US AP1000 work. [KII, August 30](/post/us-nuclear-ap1000-apr1400-korea-epc-scenario-2026-08-30/)
+Hyundai E&C fell 9% intraday and closed 5.1% lower even though the market is watching whether it and Samsung C&T will bid. [MTN](https://news.mtn.co.kr/article/2026102909393462147) The market did not read this as one company's problem. The risk of building a first-of-a-kind reactor at a fixed price is the same whoever builds it, and Hyundai E&C faces the same question on US AP1000 work. [KII, August 30](/post/us-nuclear-ap1000-apr1400-korea-epc-scenario-2026-08-30/)
 
 ## Today's drop hit stocks that had already halved
 
@@ -109,7 +111,7 @@ Hyundai E&C fell 9% even though the market is watching whether it and Samsung C&
 
 The nuclear rerating peaked in the spring. At the October 28 close, Daewoo E&C was 62% below its peak, Doosan Enerbility 55%, KEPCO E&C 50% and Hyundai E&C 49%. The KOSPI was 34% below its June 22 peak. From September 21 to October 28 the four stocks fell 23–28%, while the KOSPI fell 14%. After the US–Korea nuclear framework appeared, nuclear stocks were weaker than the market. [KII, September 22](/post/korea-us-nuclear-westinghouse-cameco-doosan-2026-09-22/)
 
-Even after today, Daewoo E&C trades at about 2.3 times its January 30 close of 4,970 won. If the nuclear EPC option drove a large part of that rise, its discount may not have finished in one day. Doosan Enerbility trades at about 190 times earnings on Naver Finance data. A stock whose price rests more on a story than on earnings reacts hard to a flaw in the story.
+Even after today, Daewoo E&C trades at about 2.3 times its January 30 close of 4,970 won. If the nuclear EPC option drove a large part of that rise, its discount may not have finished in one day. Doosan Enerbility trades at about 200 times earnings at the close on Naver Finance data. A stock whose price rests more on a story than on earnings reacts hard to a flaw in the story.
 
 ## What Team Korea's cost structure revealed
 
