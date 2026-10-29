@@ -284,12 +284,15 @@ raw GitHub and the SVGs from the live site, which are public and CORS-open.
    `![alt](/path.svg|png)` images into PNG, markdown tables into PNG (Substack has
    no table node), `[^key]` into native footnotes, handles a missing cover, links
    only the languages that exist (now English and Korean) and aborts on leftover
-   markdown.
+   markdown. Site-relative links such as `/post/<slug>/` become
+   `https://koreainvestinsights.com/post/<slug>/`; a relative link on Substack
+   resolves against the publication domain and breaks. Any other link that is not
+   `http(s)://` or `mailto:` (for example `#section`) fails the lint.
 4. Run `await window.__kiiVerify({draft})`. It rereads the saved draft and fails
    when the image or footnote count differs from the run summary, when an image
-   was not uploaded, or when literal markdown or HTML is left in the text or an
-   HTML entity (such as `&amp;`) is left in image alt text. Do not publish
-   unless `ok` is `true`.
+   was not uploaded, when literal markdown or HTML is left in the text, when an
+   HTML entity (such as `&amp;`) is left in image alt text, or when a link is not
+   absolute (`links` lists them). Do not publish unless `ok` is `true`.
 5. Reload the draft and look at it: the first figure, one table image, the
    footnote block and the language footer. The run summary survives the reload in
    `sessionStorage`, so `__kiiVerify` still works after you paste the script again.

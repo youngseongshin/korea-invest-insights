@@ -7,6 +7,8 @@
 //
 // Converts: SVG figures -> PNG, markdown tables -> PNG (Substack has no table node),
 // [^key] -> native footnotes, bold/italic/code/links, bullets, headings, rules.
+// Site-relative links (/post/..., /ko/post/...) become absolute site URLs, because Substack
+// resolves a relative href against the publication domain and the link breaks.
 //
 // Use (javascript_tool):
 //   1. open https://<pub>.substack.com/publish/post/<draftId> in the pane (logged in)
@@ -27,6 +29,10 @@
 window.__kiiLintRes = [/\[\^/, /\]\(/, /<\/?\w+/, /\*\*/, /&\w+;/, /^!\[/];
 // An HTML entity left in image alt text is read aloud literally by screen readers ("P&amp;L").
 window.__kiiAltRe = /&#?\w+;/;
+// A link that is not absolute resolves against the Substack domain, so it is a defect.
+window.__kiiLinkOk = href => /^(https?:\/\/|mailto:)/i.test(href || '');
+window.__kiiBadLinks = n => (n.marks || []).filter(m => m.type === 'link' && !window.__kiiLinkOk((m.attrs || {}).href))
+  .map(m => 'relative link: ' + (m.attrs || {}).href);
 window.__kiiRun = (over = {}) => {
   const CFG = {slug: '', draft: 0, lang: 'en', dry: false,
     raw: 'https://raw.githubusercontent.com/youngseongshin/korea-invest-insights/main',
@@ -58,6 +64,7 @@ window.__kiiRun = (over = {}) => {
     }
   }
   const addMark = (n, mark) => n.type === 'text' ? {...n, marks: [...(n.marks || []), mark]} : n;
+  const absHref = u => /^\/(?!\/)/.test(u) ? CFG.site + u : u;
 
   function parseInline(text, nums) {
     const out = [];
@@ -71,7 +78,7 @@ window.__kiiRun = (over = {}) => {
       else if (g.i) parseInline(g.it, nums).forEach(n => out.push(addMark(n, {type: 'em'})));
       else if (g.c) out.push({type: 'text', text: g.ct, marks: [{type: 'code'}]});
       else if (g.l) {
-        const link = {type: 'link', attrs: {href: g.lu, target: '_blank', rel: 'noopener noreferrer nofollow', class: null}};
+        const link = {type: 'link', attrs: {href: absHref(g.lu), target: '_blank', rel: 'noopener noreferrer nofollow', class: null}};
         parseInline(g.lt, nums).forEach(n => out.push(addMark(n, link)));
       }
       pos = m.index + m[0].length;
@@ -265,6 +272,7 @@ window.__kiiRun = (over = {}) => {
     const bad = [];
     const lintWalk = n => {
       if (n.type === 'text') for (const re of window.__kiiLintRes) if (re.test(n.text)) bad.push(re.source + ': ' + n.text.slice(0, 80));
+      if (n.type === 'text') bad.push(...window.__kiiBadLinks(n));
       if (n.type === 'image2' && window.__kiiAltRe.test(n.attrs.alt || '')) bad.push('alt entity: ' + n.attrs.alt.slice(0, 80));
       (n.content || []).forEach(lintWalk);
     };
@@ -311,12 +319,13 @@ window.__kiiVerify = async ({draft, expect} = {}) => {
   const d = await window.__kiiGetDraft(draft);
   const doc = JSON.parse(d.draft_body || '{"type":"doc","content":[]}');
   const got = {blocks: (doc.content || []).length, images: 0, footnotes: 0, notUploaded: 0};
-  const lint = [];
+  const lint = [], links = [];
   const walk = n => {
     if (n.type === 'captionedImage') got.images++;
     if (n.type === 'footnote') got.footnotes++;
     if (n.type === 'image2' && !/^https:\/\//.test((n.attrs || {}).src || '')) got.notUploaded++;
     if (n.type === 'text') for (const re of window.__kiiLintRes) if (re.test(n.text)) lint.push(re.source + ': ' + n.text.slice(0, 80));
+    if (n.type === 'text') links.push(...window.__kiiBadLinks(n));
     if (n.type === 'image2' && window.__kiiAltRe.test((n.attrs || {}).alt || '')) lint.push('alt entity: ' + n.attrs.alt.slice(0, 80));
     (n.content || []).forEach(walk);
   };
@@ -327,13 +336,14 @@ window.__kiiVerify = async ({draft, expect} = {}) => {
   if (!d.draft_title) problems.push('no title');
   if (got.notUploaded) problems.push(got.notUploaded + ' image(s) not uploaded');
   if (lint.length) problems.push('literal markdown/HTML: ' + lint[0]);
+  if (links.length) problems.push(links.length + ' ' + links[0]);
   if (want) {
     for (const k of ['blocks', 'images', 'footnotes']) if (want[k] !== got[k]) problems.push(`${k} ${got[k]} != expected ${want[k]}`);
   } else {
     problems.push('no expected summary: run __kiiRun for this draft in this tab first, or pass expect');
   }
   return {ok: !problems.length, problems, got, expected: want, title: d.draft_title,
-    published: !!d.is_published, slug: d.slug || null, lint: lint.slice(0, 10)};
+    published: !!d.is_published, slug: d.slug || null, lint: lint.slice(0, 10), links: links.slice(0, 10)};
 };
 
 // Publish the draft. A title already in the public archive (another post id) stops it,
