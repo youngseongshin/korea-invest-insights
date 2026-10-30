@@ -5,7 +5,7 @@ categories: ["semiconductors", "company-deep-dive", "market-analysis"]
 tags: ["Marvell", "MRVL", "Lumentum", "LITE", "M&A", "Cavium", "Inphi", "Lasers", "AI Networking"]
 series: ["Korea Semiconductor Watch"]
 slug: "marvell-acquisition-playbook-lumentum-outside-it-2026-10-30"
-description: "Marvell trailed chip stocks by 11.8 points on the Lumentum report. Its last two big deals fooled the first-day verdict. But its record was built on fabless assets, and Lumentum brings fabs, a customer conflict and a peak-scarcity price."
+description: "Marvell trailed chip stocks by 11.8 points on the Lumentum report. After its last two big deals, the first-day move and the one-year result went opposite ways. But its record is in fabless assets. Lumentum brings fabs and customer conflict."
 image: "cover.en.png"
 draft: false
 ---

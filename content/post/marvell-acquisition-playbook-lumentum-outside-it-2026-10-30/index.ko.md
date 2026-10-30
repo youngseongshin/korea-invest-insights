@@ -5,7 +5,7 @@ categories: ["semiconductors", "company-deep-dive", "market-analysis"]
 tags: ["Marvell", "MRVL", "Lumentum", "LITE", "M&A", "Cavium", "Inphi", "Lasers", "AI Networking"]
 series: ["Korea Semiconductor Watch"]
 slug: "marvell-acquisition-playbook-lumentum-outside-it-2026-10-30"
-description: "루멘텀 인수 보도에 마벨은 반도체지수보다 11.8%p 더 내렸습니다. 지난 대형 인수 두 건에서 첫날 판정은 1년 뒤와 반대였습니다. 그러나 마벨의 인수 실력은 팹리스 자산에서 쌓였고, 루멘텀은 팹·고객 충돌·부족 정점의 가격을 함께 가져옵니다."
+description: "루멘텀 인수 보도에 마벨은 반도체지수보다 11.8%p 더 내렸습니다. 지난 대형 인수 두 건에서 첫날 반응과 1년 뒤 결과는 방향이 반대였습니다. 그러나 마벨의 인수 실력은 팹리스 자산에서 쌓였고, 루멘텀은 팹·고객 충돌·부족 정점의 가격을 함께 가져옵니다."
 image: "cover.ko.png"
 draft: false
 ---
