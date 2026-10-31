@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 320" width="760" height="320" font-family="-apple-system, 'Apple SD Gothic Neo', 'Noto Sans KR', sans-serif" font-size="15">
+<rect width="760" height="320" fill="#ffffff"/>
+<text x="24" y="34" font-size="19" font-weight="700" fill="#111">AI bullwhip: inflation and risk sit in different places</text>
+<rect x="250" y="52" width="14" height="14" fill="#e08a2c"/><text x="270" y="64" fill="#333">Inflation</text>
+<rect x="400" y="52" width="14" height="14" fill="#2b6cb0"/><text x="420" y="64" fill="#333">Real risk</text>
+<text x="24" y="108" fill="#111">Grid requests</text><rect x="250" y="92" width="460" height="12" fill="#e08a2c"/><rect x="250" y="106" width="80" height="12" fill="#2b6cb0"/>
+<text x="24" y="160" fill="#111">Cloud commitments</text><rect x="250" y="144" width="260" height="12" fill="#e08a2c"/><rect x="250" y="158" width="240" height="12" fill="#2b6cb0"/>
+<text x="24" y="212" fill="#111">GPUs (China)</text><rect x="250" y="196" width="400" height="12" fill="#e08a2c"/><rect x="250" y="210" width="60" height="12" fill="#2b6cb0"/>
+<text x="24" y="264" fill="#111">Memory inventory</text><rect x="250" y="248" width="220" height="12" fill="#e08a2c"/><rect x="250" y="262" width="460" height="12" fill="#2b6cb0"/>
+<text x="24" y="304" font-size="12" fill="#666">Qualitative assessment. Sources: ERCOT (Texas Tribune), Bernstein (press), GE Vernova 8-K, TrendForce, SEC 10-Q</text>
+</svg>
