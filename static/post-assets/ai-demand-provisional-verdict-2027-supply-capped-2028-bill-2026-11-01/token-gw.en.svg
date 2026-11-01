@@ -21,8 +21,8 @@
 <text x="60.0" y="360.0" font-size="13.5" font-weight="400" fill="#17212b" text-anchor="start">→ finance-path risk shrinks</text>
 <rect x="420.0" y="266.0" width="340.0" height="120.0" rx="8" fill="#eef1f4" stroke="#6b7a88" stroke-width="1.5" opacity="1"/>
 <text x="440.0" y="292.0" font-size="14.5" font-weight="700" fill="#6b7a88" text-anchor="start">If tokens miss</text>
-<text x="440.0" y="316.0" font-size="13.5" font-weight="400" fill="#17212b" text-anchor="start">2027 GW does not move</text>
-<text x="440.0" y="338.0" font-size="13.5" font-weight="400" fill="#17212b" text-anchor="start">LTAs, prepayments, power cap bind</text>
+<text x="440.0" y="316.0" font-size="13.5" font-weight="400" fill="#17212b" text-anchor="start">2027 GW barely moves</text>
+<text x="440.0" y="338.0" font-size="13.5" font-weight="400" fill="#17212b" text-anchor="start">LTAs, prepayments, power cap bind most</text>
 <text x="440.0" y="360.0" font-size="13.5" font-weight="400" fill="#17212b" text-anchor="start">→ 2027 memory profit is token-insensitive</text>
 <text x="24.0" y="414.0" font-size="12" font-weight="400" fill="#5b6670" text-anchor="start">Note: sensitivity at 2.8x Rubin efficiency and 4.2x volume. KII estimates.</text>
 </svg>

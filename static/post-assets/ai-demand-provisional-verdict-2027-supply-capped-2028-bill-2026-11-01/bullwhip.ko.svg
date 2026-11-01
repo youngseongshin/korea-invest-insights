@@ -25,8 +25,8 @@
 <rect x="24.0" y="296.0" width="752.0" height="84.0" rx="8" fill="#f6dcd9" stroke="#b8322a" stroke-width="1.5" opacity="1"/>
 <text x="36.0" y="330.0" font-size="15" font-weight="700" fill="#b8322a" text-anchor="start">재고를 만드는 채찍</text>
 <text x="36.0" y="354.0" font-size="12.5" font-weight="400" fill="#5b6670" text-anchor="start">범용 서버·PC D램 구매자</text>
-<text x="226.0" y="330.0" font-size="14" font-weight="400" fill="#17212b" text-anchor="start">버퍼 3~5주</text>
-<text x="226.0" y="354.0" font-size="12.5" font-weight="400" fill="#5b6670" text-anchor="start">기본 경로 1~5주</text>
+<text x="226.0" y="330.0" font-size="14" font-weight="400" fill="#17212b" text-anchor="start">초과 버퍼 1~5주</text>
+<text x="226.0" y="354.0" font-size="12.5" font-weight="400" fill="#5b6670" text-anchor="start">중심 5주, 기초재고 미상</text>
 <text x="416.0" y="330.0" font-size="14" font-weight="400" fill="#17212b" text-anchor="start">CPU·기판 도착 뒤</text>
 <text x="416.0" y="354.0" font-size="12.5" font-weight="400" fill="#5b6670" text-anchor="start">구매 중단</text>
 <text x="606.0" y="330.0" font-size="14" font-weight="700" fill="#b8322a" text-anchor="start">2028년 수요 −10%</text>

@@ -1,12 +1,12 @@
 ---
 title: "Provisional Verdict on AI Demand: Supply Caps 2027, the Bill Lands in 2028, and the Market Sold the Wrong Year"
 date: 2026-11-01T23:47:00+09:00
-lastmod: 2026-11-01T23:47:00+09:00
+lastmod: 2026-11-02T00:03:00+09:00
 categories: ["semiconductors", "market-analysis"]
 tags: ["AI Demand", "Tokens", "Memory Cycle", "DRAM", "HBM", "Bullwhip Effect", "Hyperscalers", "Neocloud", "Credit", "Samsung Electronics", "SK hynix"]
 series: ["Korea Semiconductor Watch"]
 slug: "ai-demand-provisional-verdict-2027-supply-capped-2028-bill-2026-11-01"
-description: "Google API tokens hold at +40% a quarter, Google raised list prices, and Amazon has sold most of 2027. That is a supply ceiling, not fatigue. The risk sits in lab margins and funding, and it bills 2028 orders, not 2027 profits."
+description: "Google API tokens hold at +40% a quarter, Google announced price hikes, and Amazon has sold most of 2027. That is a supply ceiling, not fatigue. The risk sits in lab margins and funding, and it bills 2028 orders, not 2027 profits."
 image: "cover.en.png"
 draft: false
 ---
@@ -17,8 +17,8 @@ We take the other side. Over the past two weeks this series asked the same quest
 
 <strong>Our view: In 2027, AI compute demand exceeds supply, and it stays that way all year. Supply, not demand, sets the 2027 token count. So "demand slowdown" is not the 2027 risk. The risk sits where the money flows. Token prices fall 45-55% a year while compute rents hold. That squeeze lands on labs that rent their compute, and the real variable is whether it travels through finance into 2028 orders. The bullwhip is real but small. It sits in buyers' commodity DRAM buffers, and its bill comes in 2028. Because the supply chain is behaving conservatively, a 2028 commodity DRAM correction is coming, but it will be shallower than what the market has priced. The market sold 2028 deep and has not bought any of 2027's earnings.</strong>
 
-- We put 80% odds on paying demand exceeding capacity for all of 2027. Flat growth, higher list prices and sold-out capacity are the shape of a ceiling.
-- The odds that 2027 memory profits break through the demand path are 10% or less. The odds that the finance path cuts 2027 shipments are under 15%. The squeeze lands on 2028 orders.
+- We put 80% odds on paying demand exceeding capacity for all of 2027. Flat growth, announced list-price hikes and sold-out capacity are the shape of a ceiling.
+- The odds that 2027 memory profits break through the demand path are 10% or less. The odds that the finance path cuts 2027 shipments are 15% or less. The squeeze lands on 2028 orders.
 - Non-repeating buyer-buffer demand is 8-13% of 2027 shipments. Moved into 2028 demand, it is about 10%, one scenario notch.
 - We put 55% odds on a 2028-29 commodity DRAM correction. Because the big four memory makers add only 15-17% more wafers in 2028, we expect it to be shallow.
 
@@ -28,19 +28,19 @@ The reference date is November 1, 2026. All probabilities are our subjective est
 
 In a market with tiring demand, quarterly growth keeps slowing and prices and bookings fall with it. Every current number points the other way.
 
-![A ceiling, not fatigue. Google first-party API tokens per minute grew 60%, 37% and 40% QoQ in Q1, Q2 and Q3 2026, flat near +40%. Combined quarterly revenue of two frontier labs was $10.4bn, $18.2bn and $26.4bn, up 45% QoQ despite falling prices. Per Epoch, fixed-price demand grows about 10x a year against 3.4x for inference supply, a gap of about 3x. Google raised API list prices, North American data center vacancy is 1.4%, H100 one-year contract prices are up 38% YoY, and most of Amazon's 2027 capacity is already booked.](/post-assets/ai-demand-provisional-verdict-2027-supply-capped-2028-bill-2026-11-01/ceiling.en.svg)
+![A ceiling, not fatigue. Google first-party API tokens per minute grew 60%, 37% and 40% QoQ in Q1, Q2 and Q3 2026, flat near +40%. Combined quarterly revenue of two frontier labs was $10.4bn, $18.2bn and $26.4bn, up 45% QoQ despite falling prices. Per Epoch, fixed-price demand grows about 10x a year against 3.4x for inference supply, a gap of about 3x. Google announced API list-price hikes, North American data center vacancy is 1.4%, H100 one-year contract prices are up 38% YoY, and most of Amazon's 2027 capacity is already booked.](/post-assets/ai-demand-provisional-verdict-2027-supply-capped-2028-bill-2026-11-01/ceiling.en.svg)
 
 | Indicator | Value | How to read it |
 |---|---|---|
 | Google first-party API tokens per minute, QoQ | Q1 2026 +60%, Q2 +37%, Q3 +40%. Two quarters annualized: 3.7-4.0x | It stepped down once and then flattened. It is not bending every quarter |
-| Google API list prices | Raised | Demand fatigue would push prices down. They went up |
+| Google API list prices | Hike announced (effective Dec 1 and Jan 1, 2027) | Demand fatigue would push prices down. They are going up |
 | Two frontier labs, combined quarterly revenue | Q1 2026 $10.4bn, Q2 $18.2bn, Q3 $26.4bn | +45% QoQ despite falling unit prices |
 | Amazon Bedrock tokens (YoY), Microsoft Foundry | 17x, 5x | Wherever capacity frees up, it fills |
 | North American DC vacancy, H100 one-year contract price | 1.4%, +38% YoY | The scarce thing is energized GW |
 | Amazon 2027 capacity | Mostly booked; a sizable share of 2028 too | 2027 is already sold |
 | Epoch: fixed-price demand vs inference supply | About 10x vs 3.4x a year | A ~3x gap, toward shortage |
 
-Google's token growth is flat near +40%. Over the same stretch Google raised list prices and Amazon closed out 2027. That combination is the shape of a supply curve, not a demand curve. The Q3 token figure is in Alphabet's earnings release ([Alphabet 8-K, Q3 2026](https://www.sec.gov/Archives/edgar/data/1652044/000165204426000080/googexhibit991q32026.htm)).
+Google's token growth is flat near +40%. Over the same stretch Google announced list-price hikes and Amazon closed out 2027. That combination is the shape of a supply curve, not a demand curve. The Q3 token figure is in Alphabet's earnings release ([Alphabet 8-K, Q3 2026](https://www.sec.gov/Archives/edgar/data/1652044/000165204426000080/googexhibit991q32026.htm)).
 
 Anthropic's second quarter showed the same thing. When capacity freed up, pent-up demand appeared at once. We used Anthropic's Claude for research and editing, so we carry Anthropic's numbers as reported and do not judge their impact.
 
@@ -48,13 +48,13 @@ Anthropic's second quarter showed the same thing. When capacity freed up, pent-u
 
 When demand is pinned against a ceiling, demand surveys cannot tell you 2027 volume. The supply formula can. Multiply supply GW growth of 40-50% a year by Nvidia Rubin's realized efficiency.
 
-If Rubin delivers 5-7x Blackwell on real workloads, hardware alone gives 2.5-3.1x the 2026 level. Add 1.3x from software and the ceiling is 3.3-4.0x. Our previous base range of 2.5-3.0x sat at the bottom of that ceiling. We move the base to 2.8-3.3x.
+If Rubin delivers 5-7x Blackwell on real workloads, hardware alone gives 2.5-3.1x the 2026 level. Add 1.3x from software and the ceiling is 3.3-4.0x. Our previous base range of 2.5-3.0x sat at the bottom of that ceiling. We move the base to 2.8-3.3x. That range is GW +45% times 1.9-2.3x tokens per GW. Because volume is supply-bound, GW demand is also near the same +45%.
 
 ![The supply formula for 2027 token volume. Hardware alone: 2.5-3.1x. Ceiling with 1.3x software: 3.3-4.0x. Old base: 2.5-3.0x. New base: 2.8-3.3x. Scenario weights move from bear 30 / base 50 / bull 20 to bear 20 / base 55 / bull 25. This is a sensitivity example that excludes power, HBM, CPU and substrate bottlenecks.](/post-assets/ai-demand-provisional-verdict-2027-supply-capped-2028-bill-2026-11-01/supply-math.en.svg)
 
-Demand does not decide anything above 3.5x. Rubin does. That is why the bull case struggles to go above 20-25% no matter how strong demand is. A result below 2.5x, on the other hand, needs demand to break. There is no evidence that it has, so we cut the bear case from 30% to 20%.
+Demand does not decide anything above 3.5x. Rubin does. That is why the bull case struggles to go above 20-25% no matter how strong demand is. A result below 2.5x has two routes. One is demand breaking. The other is smaller throughput from a Rubin delay, weak realized efficiency, or power and substrate bottlenecks. In that second case unit prices and rents hold, which is the opposite signal from weak demand. There is no evidence that demand has broken, so we cut the bear case from 30% to 20%. We track the supply route separately through measured Rubin efficiency and power.
 
-One condition proves this wrong. If Alphabet's Q4 API tokens per minute grow less than 15% QoQ, and token volume in corporate spend samples like Ramp also shrinks, the problem is demand, not price. The first check is the Ramp data on November 13. The decisive check is Alphabet's results in early February 2027.
+One condition withdraws this call. If Alphabet's Q4 API tokens per minute grow less than 15% QoQ, the problem is demand, not price, and that number alone is enough. If token volume in corporate spend samples like Ramp shrinks, we review; three months of no growth plus another drop in the top 1% sends us back to the previous base. The first check is the Ramp data on November 13. The decisive check is Alphabet's results in early February 2027.
 
 ## The risk lives where the money flows
 
@@ -66,8 +66,9 @@ Demand can grow without money growing at the same rate. We call this the token-c
 |---|---|
 | Ramp blended token price, 4 weeks | −26.8% |
 | B200 rental, same period | +10.6% |
-| 2027 lab revenue (4Q27/4Q26, base case) | +40-80% |
-| 2027 GW demand (base case) | +25-90%, center +53% |
+| 2027 lab revenue (4Q27/4Q26, previous base of 2.5-3.0x volume) | +40-80% |
+| 2027 GW demand (previous base) | +25-90%, center +53% |
+| Lab revenue at the new 2.8-3.3x base and unit prices −40-45% | +54-98% |
 | GW demand at 2.8x Rubin efficiency and 4.2x volume | +50% |
 | Lab revenue per GW under the same conditions | +12-40% |
 
@@ -77,7 +78,7 @@ If lab funding stalls, the backlog that leans on labs wobbles. Oracle's prepayme
 
 ![Where the risk lives. Token prices falling 45-55% a year squeeze the margins of labs that rent compute. That pressure runs into Oracle prepayments, the OpenAI share of Microsoft and Oracle backlog, and neoclouds, and then into hyperscaler balance sheets through Alphabet's $48bn data center guarantees and Meta's $41.5bn residual value guarantees. Odds: neocloud partial funding block 35%, hyperscaler funding block 15%. 2027 shipments are locked by LTAs, prepayments and the power cap, so the odds the finance path cuts them are under 15%; the squeeze lands on 2028 orders. +100bp is 0.28% of hyperscaler operating cash flow; 2027 funding need is about $200bn.](/post-assets/ai-demand-provisional-verdict-2027-supply-capped-2028-bill-2026-11-01/money-path.en.svg)
 
-That does not put 2027 at risk. We put 15% odds on hyperscaler funding stalling and 35% on neoclouds being partly blocked. Hyperscalers are the ones buying 2027 shipments. So this path cuts 2028 orders more than 2027 shipments.
+We put 15% odds on hyperscaler funding stalling and 35% on neoclouds being partly blocked. This path can arrive inside 2027. LTAs carry price bands, volume-cut and undelivered-volume termination clauses, and SK hynix's contracts cover more than 50% of 2027-28 capacity, not all of it. Still, hyperscalers are the ones buying 2027 shipments, and prepayments and the power cap tie up volume. So this path mainly cuts 2028 orders rather than 2027 shipments. How firmly volume is locked follows the counterparty's cash ranking: hyperscalers first, then labs, then neoclouds.
 
 ### More tokens do not mean proportionally more memory bits
 
@@ -85,9 +86,9 @@ Here is the paradox. Even if tokens grow faster than expected, GW and memory bit
 
 ![Token upside is not memory-bit upside. 4.2x token volume equals 1.5x GW demand times 2.8x Rubin efficiency. If tokens beat, lab revenue per GW rises 12-40%, lab margins recover and finance-path risk shrinks. If tokens miss, 2027 GW stays put because LTAs, prepayments and the power cap bind it, so 2027 memory profit is insensitive to the token count.](/post-assets/ai-demand-provisional-verdict-2027-supply-capped-2028-bill-2026-11-01/token-gw.en.svg)
 
-So token upside does not arrive as memory-bit upside. It arrives as recovering lab margins, and it shrinks the finance-path risk. In reverse, token downside cannot cut 2027 GW either, because 2027 volume is tied up by long-term agreements (LTAs), prepayments and the power cap. 2027 memory profit is insensitive to the token count. That is the precise meaning of "2027 is locked."
+So token upside does not arrive as memory-bit upside. It arrives as recovering lab margins, and it shrinks the finance-path risk. In reverse, token downside cannot cut 2027 GW by much either, because most 2027 volume is tied up by long-term agreements (LTAs), prepayments and the power cap. 2027 memory profit is insensitive to the token count. That is the precise meaning of "2027 is locked."
 
-So here is where we stand. The odds that 2027 memory profits break through the demand path are 10% or less. The odds that the finance path cuts 2027 shipments are under 15%. In 2027, the squeeze will show up in lab margins and in Oracle and neocloud spreads, not in memory earnings.
+So here is where we stand. The odds that 2027 memory profits break through the demand path are 10% or less. The odds that the finance path cuts 2027 shipments are 15% or less. In 2027, the squeeze will show up in lab margins and in Oracle and neocloud spreads, not in memory earnings.
 
 Rates are second-order. A 100bp rise costs hyperscalers 0.28% of operating cash flow. The issue is funding volume, not the rate level. The 2027 funding need is about $200 billion. As our [same-day Ackman post](/post/ackman-ai-rates-fed-mistake-marginal-dollar-is-debt-2026-11-01/) showed, Big Tech's combined Q3 free cash flow is already negative. The marginal AI dollar is debt, and the variable is whether that debt gets funded on time.
 
@@ -101,9 +102,10 @@ The bullwhip that builds inventory is in memory, specifically buyers' buffers of
 
 | Item | Value |
 |---|---|
-| Buyer DRAM buffer vs normal | About 3-5 weeks (base path 1-5 weeks) |
+| Buyer DRAM buffer, excess over normal | 1-5 weeks estimated (cumulative shipments minus installs 2-9 weeks, center 5; end-2025 opening stock unconfirmed) |
 | Non-repeating buffer demand in 2027 shipments | About 8-13% |
 | Share of 2028 demand taken by a 5-week excess buffer | About 10%. One scenario notch, about 10 points of price |
+| Threshold for a deep correction | Excess buffer of 8-12 weeks at end-2027, 2028 orders down 15-23% |
 | Trigger for unwinding | 2H27 server CPU and substrate supply additions |
 | First to take an HBM-side whip | Nvidia supply commitments of $279bn, 96% in FY27-29 ([NVIDIA 10-Q](https://www.sec.gov/Archives/edgar/data/1045810/000104581026000075/nvda-20260726.htm), Note 10) |
 
@@ -113,13 +115,17 @@ It is small, and we know where it sits. The 2027 profit figure does not change. 
 
 The big four memory makers grow 2028 wafers by 15-17%. Samsung runs five-year rolling LTAs, SK hynix typically five years, and the three makers' $38 billion of prepayments stretch to 2030 ([LTAs lock in volume, not profit](/post/samsung-sk-hynix-lta-volume-locked-terms-flexible-2026-10-29/)).
 
-The 38% drop in the equipment basket discounts lower equipment orders in 2027-28. If that is the main cause, 2028 supply is more disciplined than the market fears. HBM is only 10-19% of DRAM revenue at all three makers, so they ration capacity like commodity-cycle companies.
+The 38% drop in the equipment basket discounts lower equipment orders in 2027-28. If that is the main cause, 2028 supply is more disciplined than the market fears. HBM is only about 10% of DRAM revenue at all three makers (estimates: SK hynix 13-14%, Samsung 11-12%, Micron 7-10%), so they ration capacity like commodity-cycle companies.
 
-Power points the same way. The US can build at most 30-40GW of data centers a year. Transformers are about 15% short. Gas turbines ordered today deliver in 2029-31. So supply cannot grow in 2027 and grows only modestly in 2028.
+Power points the same way. The US can build at most 30-40GW of data centers a year. Transformers are about 15% short. Gas turbines ordered today deliver in 2029-31. So 2027 supply cannot grow beyond the build-out already set (GW +40-50%), and extra supply arrives only modestly in 2028.
 
 ![The supply chain is conservative. Memory LTAs roll for five years and $38bn of prepayments run to 2030. Big-four wafers grow only 15-17% in 2028. On power, the US build cap of 30-40GW a year and a 15% transformer shortfall run through 2028, and gas turbines deliver in 2029-31. Buyer buffers build through 1H27 and are drawn down after CPUs arrive in 2H27. Amazon has booked most of 2027 and a sizable share of 2028. Our call: 55% odds of a 2028-29 commodity DRAM correction, shallow, and 20% odds of an HBM glut.](/post-assets/ai-demand-provisional-verdict-2027-supply-capped-2028-bill-2026-11-01/lock-timeline.en.svg)
 
-Here is how we see 2028. A commodity DRAM correction is coming; we put the cumulative 2028-29 odds at 55%. It will not be a deep 2021-22-style correction, because the supply increment is small and volume is tied up by prepayments and LTAs. We put the odds of an HBM glut at 20%. Samsung, with its larger commodity share, is more exposed. The first signal is mobile DRAM contract prices.
+Here is how we see 2028. A commodity DRAM correction is coming; we put the cumulative 2028-29 odds at 55%. If CPUs and substrates arrive in 2H27, buffer building stops and installs absorb the stock, it will not be a deep 2021-22-style correction, because the supply increment is small and volume is tied up by prepayments and LTAs.
+
+The shallow call is conditional. In 2021 the excess buffer was 3-7 weeks, which overlaps today's 1-5 week estimate. If the excess buffer reaches 8-12 weeks by end-2027, 2028 orders fall 15-23%, a collapse-level cut. The threshold is buyer inventory days rising all through 2027 and not turning in 2H27.
+
+We put the odds of an HBM glut at 20%. Samsung, with its larger commodity share, is more exposed. The first signal is mobile DRAM contract prices.
 
 ## The market sold 2028 deep and bought none of 2027
 
@@ -127,7 +133,7 @@ This is where the market is wrong. From September 21 to October 30, about 83% of
 
 Prices make it sharper. Samsung trades at 3.1x 2027 expected earnings. Plug in a normal 8x multiple, and the price assumes 2028 earnings about 60% below 2027 ([the Samsung 3x post](/post/samsung-per-3x-prices-60-percent-2028-profit-drop-2026-11-01/)). Almost none of 2026-27's earnings are in the price; 2028 is priced deep. The 2028 we see is shallower.
 
-Reading the drops in Intel and Chinese AI stocks as a demand slowdown is a misread. The gate to the demand-slowdown scenario (S3) is a single one: hyperscalers slowing capex. On their Q3 calls, all four raised 2027 capex. Amazon called 2027 a "meaningful increase," and Meta even turned to equity financing.
+Reading the drops in Intel and Chinese AI stocks as a demand slowdown today is not supported by current demand data. The gate to the demand-slowdown scenario (S3) is a single one: hyperscalers slowing capex. On their Q3 calls, all four raised 2027 capex. Amazon called 2027 a "meaningful increase," and Meta even turned to equity financing. Prices alone cannot rule out that the market is pricing a future demand slowdown starting with suppliers. The tell is the order in which equipment and memory relative strength turn.
 
 Our call rests on 2027 earnings that are not in the price. The fastest way that gap closes is through flows, not fundamentals. Deleveraging is at the start of stage 4 of 6, and forced selling by leveraged retail investors is still ahead. That means one more shakeout before the bottom is possible.
 
@@ -150,13 +156,13 @@ Moving 5 points from S3 to S2 has one meaning: we move the risk's address from d
 
 ## Answering the obvious objections first
 
-<strong>"People use tokens because they got cheap. That is not real demand."</strong> Cheap tokens did pull in demand. That is exactly why we put the risk in the money flow. But demand that rests only on price would not let Google raise list prices. Google raised them, and quarterly growth held at +40%.
+<strong>"People use tokens because they got cheap. That is not real demand."</strong> Cheap tokens did pull in demand. That is exactly why we put the risk in the money flow. But demand that rests only on price would give Google no reason to announce list-price hikes. In quarters when unit prices fell, volume still grew 40% and lab revenue grew 45%.
 
 <strong>"Intel and Chinese AI stocks fell. Demand is cooling."</strong> The gate that decides a demand slowdown is hyperscalers' 2027 capex. All four raised it in Q3. While that gate is shut, drops in peripheral stocks are explained by flows and discount rates.
 
 <strong>"If Rubin is 7x more efficient, there will be spare GW."</strong> Higher efficiency raises the ceiling on 2027 token volume. It does not leave GW idle. 2027 GW is already tied up by LTAs and the power cap, and paying demand fills it. If Rubin stays at 2-4x, volume comes in smaller and unit prices hold. Either way, 2027 memory profits barely move.
 
-<strong>"When the bullwhip snaps, it will be as deep as 2021-22."</strong> What differs is supply's hands. 2028 wafer growth is 15-17%, and volume is tied up in prepayments and LTAs. A 5-week excess buffer takes about 10% of 2028 demand. That is one scenario notch, not a whole cycle.
+<strong>"When the bullwhip snaps, it will be as deep as 2021-22."</strong> What differs is supply's hands. 2028 wafer growth is 15-17%, and volume is tied up in prepayments and LTAs. A 5-week excess buffer takes about 10% of 2028 demand. That is one scenario notch, not a whole cycle. We also wrote down when this answer fails: an excess buffer of 8-12 weeks by end-2027 means a deep correction.
 
 ## What would flip this call
 
