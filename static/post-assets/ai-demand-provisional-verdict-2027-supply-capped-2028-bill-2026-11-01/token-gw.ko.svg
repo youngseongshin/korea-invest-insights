@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 430" width="800" height="430" font-family="-apple-system, 'Apple SD Gothic Neo', 'Noto Sans KR', 'Helvetica Neue', Arial, sans-serif" font-size="14">
+<rect x="0" y="0" width="800" height="430" fill="#ffffff"/>
+<text x="24.0" y="34.0" font-size="21" font-weight="700" fill="#17212b" text-anchor="start">토큰 상방은 메모리 비트 상방이 아닙니다</text>
+<text x="24.0" y="58.0" font-size="13.5" font-weight="400" fill="#5b6670" text-anchor="start">토큰이 4.2배로 늘어도 GW 수요는 +50%입니다. 나머지는 효율이 흡수합니다</text>
+<rect x="40.0" y="90.0" width="200.0" height="120.0" rx="10" fill="#f7ead2" stroke="#b8730a" stroke-width="2" opacity="1"/>
+<text x="140.0" y="128.0" font-size="15" font-weight="700" fill="#b8730a" text-anchor="middle">토큰 물량</text>
+<text x="140.0" y="182.0" font-size="40" font-weight="700" fill="#b8730a" text-anchor="middle">4.2배</text>
+<rect x="300.0" y="90.0" width="200.0" height="120.0" rx="10" fill="#dde7fb" stroke="#2f62d6" stroke-width="2" opacity="1"/>
+<text x="400.0" y="128.0" font-size="15" font-weight="700" fill="#2f62d6" text-anchor="middle">GW 수요</text>
+<text x="400.0" y="182.0" font-size="40" font-weight="700" fill="#2f62d6" text-anchor="middle">1.5배</text>
+<rect x="560.0" y="90.0" width="200.0" height="120.0" rx="10" fill="#eef1f4" stroke="#6b7a88" stroke-width="2" opacity="1"/>
+<text x="660.0" y="128.0" font-size="15" font-weight="700" fill="#6b7a88" text-anchor="middle">루빈 효율</text>
+<text x="660.0" y="182.0" font-size="40" font-weight="700" fill="#6b7a88" text-anchor="middle">2.8배</text>
+<text x="270.0" y="165.0" font-size="40" font-weight="700" fill="#17212b" text-anchor="middle">=</text>
+<text x="530.0" y="165.0" font-size="40" font-weight="700" fill="#17212b" text-anchor="middle">×</text>
+<text x="400.0" y="240.0" font-size="13" font-weight="700" fill="#2f62d6" text-anchor="middle">기준 시나리오 중심(+53%)과 같은 크기</text>
+<rect x="40.0" y="266.0" width="340.0" height="120.0" rx="8" fill="#dcefe3" stroke="#2e7d4f" stroke-width="1.5" opacity="1"/>
+<text x="60.0" y="292.0" font-size="14.5" font-weight="700" fill="#2e7d4f" text-anchor="start">토큰이 예상보다 많으면</text>
+<text x="60.0" y="316.0" font-size="13.5" font-weight="400" fill="#17212b" text-anchor="start">GW당 랩 매출 밀도 +12~40%</text>
+<text x="60.0" y="338.0" font-size="13.5" font-weight="400" fill="#17212b" text-anchor="start">→ 랩 마진 회복</text>
+<text x="60.0" y="360.0" font-size="13.5" font-weight="400" fill="#17212b" text-anchor="start">→ 금융 경로 위험이 줄어듦</text>
+<rect x="420.0" y="266.0" width="340.0" height="120.0" rx="8" fill="#eef1f4" stroke="#6b7a88" stroke-width="1.5" opacity="1"/>
+<text x="440.0" y="292.0" font-size="14.5" font-weight="700" fill="#6b7a88" text-anchor="start">토큰이 예상보다 적으면</text>
+<text x="440.0" y="316.0" font-size="13.5" font-weight="400" fill="#17212b" text-anchor="start">2027년 GW는 그대로</text>
+<text x="440.0" y="338.0" font-size="13.5" font-weight="400" fill="#17212b" text-anchor="start">LTA·선수금·전력 상한이 묶음</text>
+<text x="440.0" y="360.0" font-size="13.5" font-weight="400" fill="#17212b" text-anchor="start">→ 2027 메모리 이익은 토큰에 둔감</text>
+<text x="24.0" y="414.0" font-size="12" font-weight="400" fill="#5b6670" text-anchor="start">주: 루빈 효율 2.8배·물량 4.2배 조건의 민감도 계산. KII 추정.</text>
+</svg>

@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 515" width="800" height="515" font-family="-apple-system, 'Apple SD Gothic Neo', 'Noto Sans KR', 'Helvetica Neue', Arial, sans-serif" font-size="14">
+<rect x="0" y="0" width="800" height="515" fill="#ffffff"/>
+<text x="24.0" y="34.0" font-size="21" font-weight="700" fill="#17212b" text-anchor="start">The supply chain is conservative. That keeps the 2028 correction shallow</text>
+<text x="24.0" y="58.0" font-size="13.5" font-weight="400" fill="#5b6670" text-anchor="start">2027 is locked; the 2028 supply increment is small</text>
+<rect x="237.3" y="76.0" width="134.7" height="370.0" rx="0" fill="#dde7fb" stroke="none" stroke-width="1" opacity="0.6"/>
+<rect x="372.0" y="76.0" width="202.0" height="370.0" rx="0" fill="#f6dcd9" stroke="none" stroke-width="1" opacity="0.45"/>
+<text x="304.7" y="94.0" font-size="13.5" font-weight="700" fill="#2f62d6" text-anchor="middle">2027: locked</text>
+<text x="473.0" y="94.0" font-size="13.5" font-weight="700" fill="#b8322a" text-anchor="middle">2028-29: the bill</text>
+<line x1="170.0" y1="104.0" x2="170.0" y2="446.0" stroke="#e6e9ec" stroke-width="1"/>
+<text x="170.0" y="466.0" font-size="12.5" font-weight="400" fill="#5b6670" text-anchor="middle" font-family="Menlo, 'DejaVu Sans Mono', monospace">2H26</text>
+<line x1="237.3" y1="104.0" x2="237.3" y2="446.0" stroke="#e6e9ec" stroke-width="1"/>
+<text x="237.3" y="466.0" font-size="12.5" font-weight="400" fill="#5b6670" text-anchor="middle" font-family="Menlo, 'DejaVu Sans Mono', monospace">2027</text>
+<line x1="372.0" y1="104.0" x2="372.0" y2="446.0" stroke="#e6e9ec" stroke-width="1"/>
+<text x="372.0" y="466.0" font-size="12.5" font-weight="400" fill="#5b6670" text-anchor="middle" font-family="Menlo, 'DejaVu Sans Mono', monospace">2028</text>
+<line x1="506.7" y1="104.0" x2="506.7" y2="446.0" stroke="#e6e9ec" stroke-width="1"/>
+<text x="506.7" y="466.0" font-size="12.5" font-weight="400" fill="#5b6670" text-anchor="middle" font-family="Menlo, 'DejaVu Sans Mono', monospace">2029</text>
+<line x1="641.3" y1="104.0" x2="641.3" y2="446.0" stroke="#e6e9ec" stroke-width="1"/>
+<text x="641.3" y="466.0" font-size="12.5" font-weight="400" fill="#5b6670" text-anchor="middle" font-family="Menlo, 'DejaVu Sans Mono', monospace">2030-31</text>
+<text x="24.0" y="143.0" font-size="13.5" font-weight="700" fill="#17212b" text-anchor="start">Memory contracts</text>
+<rect x="172.0" y="128.0" width="588.5" height="24.0" rx="4" fill="#2f62d6" stroke="none" stroke-width="1" opacity="0.92"/>
+<text x="180.0" y="145.0" font-size="12" font-weight="700" fill="#ffffff" text-anchor="start">5-yr rolling LTAs · $38bn prepayments to 2030</text>
+<text x="24.0" y="195.0" font-size="13.5" font-weight="700" fill="#17212b" text-anchor="start">Memory supply</text>
+<rect x="374.0" y="180.0" width="130.7" height="24.0" rx="4" fill="#b8730a" stroke="none" stroke-width="1" opacity="0.92"/>
+<text x="382.0" y="197.0" font-size="12" font-weight="700" fill="#ffffff" text-anchor="start">Big-4 wafers +15-17%</text>
+<text x="24.0" y="247.0" font-size="13.5" font-weight="700" fill="#17212b" text-anchor="start">Power</text>
+<rect x="172.0" y="232.0" width="332.7" height="24.0" rx="4" fill="#6b7a88" stroke="none" stroke-width="1" opacity="0.92"/>
+<text x="180.0" y="249.0" font-size="12" font-weight="700" fill="#ffffff" text-anchor="start">US build cap 30-40GW/yr · transformers 15% short</text>
+<rect x="508.7" y="232.0" width="251.9" height="24.0" rx="4" fill="#6b7a88" stroke="none" stroke-width="1" opacity="0.92"/>
+<text x="516.7" y="249.0" font-size="12" font-weight="700" fill="#ffffff" text-anchor="start">Gas turbines</text>
+<text x="24.0" y="299.0" font-size="13.5" font-weight="700" fill="#17212b" text-anchor="start">Buyer buffer</text>
+<rect x="172.0" y="284.0" width="130.7" height="24.0" rx="4" fill="#b8730a" stroke="none" stroke-width="1" opacity="0.92"/>
+<text x="180.0" y="301.0" font-size="12" font-weight="700" fill="#ffffff" text-anchor="start">Building</text>
+<rect x="306.7" y="284.0" width="130.7" height="24.0" rx="4" fill="#b8322a" stroke="none" stroke-width="1" opacity="0.92"/>
+<text x="314.7" y="301.0" font-size="12" font-weight="700" fill="#ffffff" text-anchor="start">Drawn after 2H27 CPUs</text>
+<text x="24.0" y="351.0" font-size="13.5" font-weight="700" fill="#17212b" text-anchor="start">Demand bookings</text>
+<rect x="239.3" y="336.0" width="130.7" height="24.0" rx="4" fill="#2f62d6" stroke="none" stroke-width="1" opacity="0.92"/>
+<text x="247.3" y="353.0" font-size="12" font-weight="700" fill="#ffffff" text-anchor="start">Amazon mostly booked</text>
+<rect x="374.0" y="336.0" width="130.7" height="24.0" rx="4" fill="#2f62d6" stroke="none" stroke-width="1" opacity="0.92"/>
+<text x="382.0" y="353.0" font-size="12" font-weight="700" fill="#ffffff" text-anchor="start">Sizable bookings</text>
+<text x="24.0" y="403.0" font-size="13.5" font-weight="700" fill="#17212b" text-anchor="start">Our call</text>
+<rect x="374.0" y="388.0" width="292.3" height="24.0" rx="4" fill="#b8322a" stroke="none" stroke-width="1" opacity="0.92"/>
+<text x="382.0" y="405.0" font-size="12" font-weight="700" fill="#ffffff" text-anchor="start">Commodity DRAM correction 55%, shallow · HBM glut 20%</text>
+<text x="24.0" y="499.0" font-size="12" font-weight="400" fill="#5b6670" text-anchor="start">Sources: company statements, industry tallies, KII. Correction and glut figures are KII subjective odds (Nov 1, 2026).</text>
+</svg>

@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 430" width="800" height="430" font-family="-apple-system, 'Apple SD Gothic Neo', 'Noto Sans KR', 'Helvetica Neue', Arial, sans-serif" font-size="14">
+<rect x="0" y="0" width="800" height="430" fill="#ffffff"/>
+<text x="24.0" y="34.0" font-size="21" font-weight="700" fill="#17212b" text-anchor="start">Token upside is not memory-bit upside</text>
+<text x="24.0" y="58.0" font-size="13.5" font-weight="400" fill="#5b6670" text-anchor="start">Even at 4.2x tokens, GW demand is +50%. Efficiency absorbs the rest</text>
+<rect x="40.0" y="90.0" width="200.0" height="120.0" rx="10" fill="#f7ead2" stroke="#b8730a" stroke-width="2" opacity="1"/>
+<text x="140.0" y="128.0" font-size="15" font-weight="700" fill="#b8730a" text-anchor="middle">Token volume</text>
+<text x="140.0" y="182.0" font-size="40" font-weight="700" fill="#b8730a" text-anchor="middle">4.2x</text>
+<rect x="300.0" y="90.0" width="200.0" height="120.0" rx="10" fill="#dde7fb" stroke="#2f62d6" stroke-width="2" opacity="1"/>
+<text x="400.0" y="128.0" font-size="15" font-weight="700" fill="#2f62d6" text-anchor="middle">GW demand</text>
+<text x="400.0" y="182.0" font-size="40" font-weight="700" fill="#2f62d6" text-anchor="middle">1.5x</text>
+<rect x="560.0" y="90.0" width="200.0" height="120.0" rx="10" fill="#eef1f4" stroke="#6b7a88" stroke-width="2" opacity="1"/>
+<text x="660.0" y="128.0" font-size="15" font-weight="700" fill="#6b7a88" text-anchor="middle">Rubin efficiency</text>
+<text x="660.0" y="182.0" font-size="40" font-weight="700" fill="#6b7a88" text-anchor="middle">2.8x</text>
+<text x="270.0" y="165.0" font-size="40" font-weight="700" fill="#17212b" text-anchor="middle">=</text>
+<text x="530.0" y="165.0" font-size="40" font-weight="700" fill="#17212b" text-anchor="middle">×</text>
+<text x="400.0" y="240.0" font-size="13" font-weight="700" fill="#2f62d6" text-anchor="middle">Same GW as the base-case center (+53%)</text>
+<rect x="40.0" y="266.0" width="340.0" height="120.0" rx="8" fill="#dcefe3" stroke="#2e7d4f" stroke-width="1.5" opacity="1"/>
+<text x="60.0" y="292.0" font-size="14.5" font-weight="700" fill="#2e7d4f" text-anchor="start">If tokens beat</text>
+<text x="60.0" y="316.0" font-size="13.5" font-weight="400" fill="#17212b" text-anchor="start">Lab revenue per GW +12-40%</text>
+<text x="60.0" y="338.0" font-size="13.5" font-weight="400" fill="#17212b" text-anchor="start">→ lab margins recover</text>
+<text x="60.0" y="360.0" font-size="13.5" font-weight="400" fill="#17212b" text-anchor="start">→ finance-path risk shrinks</text>
+<rect x="420.0" y="266.0" width="340.0" height="120.0" rx="8" fill="#eef1f4" stroke="#6b7a88" stroke-width="1.5" opacity="1"/>
+<text x="440.0" y="292.0" font-size="14.5" font-weight="700" fill="#6b7a88" text-anchor="start">If tokens miss</text>
+<text x="440.0" y="316.0" font-size="13.5" font-weight="400" fill="#17212b" text-anchor="start">2027 GW does not move</text>
+<text x="440.0" y="338.0" font-size="13.5" font-weight="400" fill="#17212b" text-anchor="start">LTAs, prepayments, power cap bind</text>
+<text x="440.0" y="360.0" font-size="13.5" font-weight="400" fill="#17212b" text-anchor="start">→ 2027 memory profit is token-insensitive</text>
+<text x="24.0" y="414.0" font-size="12" font-weight="400" fill="#5b6670" text-anchor="start">Note: sensitivity at 2.8x Rubin efficiency and 4.2x volume. KII estimates.</text>
+</svg>

@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" width="800" height="500" font-family="-apple-system, 'Apple SD Gothic Neo', 'Noto Sans KR', 'Helvetica Neue', Arial, sans-serif" font-size="14">
+<rect x="0" y="0" width="800" height="500" fill="#ffffff"/>
+<text x="24.0" y="34.0" font-size="21" font-weight="700" fill="#17212b" text-anchor="start">수요 피로의 모양이 아닙니다. 천장에 닿은 모양입니다</text>
+<text x="24.0" y="58.0" font-size="13.5" font-weight="400" fill="#5b6670" text-anchor="start">꺾여야 할 것이 꺾이지 않았습니다: 성장률은 평탄, 정가는 인상, 2027년 용량은 매진</text>
+<rect x="24.0" y="82.0" width="230.0" height="300.0" rx="6" fill="#fafbfc" stroke="#e6e9ec" stroke-width="1" opacity="1"/>
+<text x="36.0" y="104.0" font-size="13.5" font-weight="700" fill="#17212b" text-anchor="start">구글 1차 모델 API 분당 토큰</text>
+<text x="36.0" y="122.0" font-size="12" font-weight="400" fill="#5b6670" text-anchor="start">전 분기 대비 증가율</text>
+<line x1="36.0" y1="340.0" x2="242.0" y2="340.0" stroke="#17212b" stroke-width="1"/>
+<rect x="53.0" y="182.3" width="46.0" height="157.7" rx="2" fill="#2f62d6" stroke="none" stroke-width="1" opacity="1"/>
+<text x="76.0" y="175.3" font-size="14" font-weight="700" fill="#2f62d6" text-anchor="middle">+60%</text>
+<text x="76.0" y="358.0" font-size="12.5" font-weight="400" fill="#5b6670" text-anchor="middle">1Q26</text>
+<rect x="116.0" y="242.7" width="46.0" height="97.3" rx="2" fill="#2f62d6" stroke="none" stroke-width="1" opacity="1"/>
+<text x="139.0" y="235.7" font-size="14" font-weight="700" fill="#2f62d6" text-anchor="middle">+37%</text>
+<text x="139.0" y="358.0" font-size="12.5" font-weight="400" fill="#5b6670" text-anchor="middle">2Q26</text>
+<rect x="179.0" y="234.9" width="46.0" height="105.1" rx="2" fill="#2f62d6" stroke="none" stroke-width="1" opacity="1"/>
+<text x="202.0" y="227.9" font-size="14" font-weight="700" fill="#2f62d6" text-anchor="middle">+40%</text>
+<text x="202.0" y="358.0" font-size="12.5" font-weight="400" fill="#5b6670" text-anchor="middle">3Q26</text>
+<rect x="285.0" y="82.0" width="230.0" height="300.0" rx="6" fill="#fafbfc" stroke="#e6e9ec" stroke-width="1" opacity="1"/>
+<text x="297.0" y="104.0" font-size="13.5" font-weight="700" fill="#17212b" text-anchor="start">프런티어 랩 두 곳 합산 매출</text>
+<text x="297.0" y="122.0" font-size="12" font-weight="400" fill="#5b6670" text-anchor="start">분기, 억달러</text>
+<line x1="297.0" y1="340.0" x2="503.0" y2="340.0" stroke="#17212b" stroke-width="1"/>
+<rect x="314.0" y="276.2" width="46.0" height="63.8" rx="2" fill="#b8730a" stroke="none" stroke-width="1" opacity="1"/>
+<text x="337.0" y="269.2" font-size="14" font-weight="700" fill="#b8730a" text-anchor="middle">104</text>
+<text x="337.0" y="358.0" font-size="12.5" font-weight="400" fill="#5b6670" text-anchor="middle">1Q26</text>
+<rect x="377.0" y="228.4" width="46.0" height="111.6" rx="2" fill="#b8730a" stroke="none" stroke-width="1" opacity="1"/>
+<text x="400.0" y="221.4" font-size="14" font-weight="700" fill="#b8730a" text-anchor="middle">182</text>
+<text x="400.0" y="358.0" font-size="12.5" font-weight="400" fill="#5b6670" text-anchor="middle">2Q26</text>
+<rect x="440.0" y="178.1" width="46.0" height="161.9" rx="2" fill="#b8730a" stroke="none" stroke-width="1" opacity="1"/>
+<text x="463.0" y="171.1" font-size="14" font-weight="700" fill="#b8730a" text-anchor="middle">264</text>
+<text x="463.0" y="358.0" font-size="12.5" font-weight="400" fill="#5b6670" text-anchor="middle">3Q26</text>
+<rect x="546.0" y="82.0" width="230.0" height="300.0" rx="6" fill="#fafbfc" stroke="#e6e9ec" stroke-width="1" opacity="1"/>
+<text x="558.0" y="104.0" font-size="13.5" font-weight="700" fill="#17212b" text-anchor="start">가격 고정 수요 대 추론 공급</text>
+<text x="558.0" y="122.0" font-size="12" font-weight="400" fill="#5b6670" text-anchor="start">연간 증가 배수(Epoch)</text>
+<line x1="558.0" y1="340.0" x2="764.0" y2="340.0" stroke="#17212b" stroke-width="1"/>
+<rect x="585.3" y="172.7" width="62.0" height="167.3" rx="2" fill="#b8322a" stroke="none" stroke-width="1" opacity="1"/>
+<text x="616.3" y="165.7" font-size="14" font-weight="700" fill="#b8322a" text-anchor="middle">10배</text>
+<text x="616.3" y="358.0" font-size="12.5" font-weight="400" fill="#5b6670" text-anchor="middle">수요</text>
+<rect x="674.7" y="283.1" width="62.0" height="56.9" rx="2" fill="#b8322a" stroke="none" stroke-width="1" opacity="1"/>
+<text x="705.7" y="276.1" font-size="14" font-weight="700" fill="#b8322a" text-anchor="middle">3.4배</text>
+<text x="705.7" y="358.0" font-size="12.5" font-weight="400" fill="#5b6670" text-anchor="middle">공급</text>
+<text x="139.0" y="380.0" font-size="12.5" font-weight="700" fill="#2f62d6" text-anchor="middle">+40%에서 평탄, 연환산 3.7~4.0배</text>
+<text x="400.0" y="380.0" font-size="12.5" font-weight="700" fill="#b8730a" text-anchor="middle">단가 하락 속에서도 분기 +45%</text>
+<text x="661.0" y="380.0" font-size="12.5" font-weight="700" fill="#b8322a" text-anchor="middle">격차 약 3배, 부족 방향</text>
+<rect x="24.0" y="400.0" width="752.0" height="60.0" rx="6" fill="#eef1f4" stroke="none" stroke-width="1" opacity="1"/>
+<text x="118.0" y="435.0" font-size="13" font-weight="700" fill="#17212b" text-anchor="middle">구글 API 정가 인상</text>
+<text x="306.0" y="435.0" font-size="13" font-weight="700" fill="#17212b" text-anchor="middle">북미 DC 공실률 1.4%</text>
+<text x="494.0" y="435.0" font-size="13" font-weight="700" fill="#17212b" text-anchor="middle">H100 1년 계약가 +38% YoY</text>
+<text x="682.0" y="435.0" font-size="13" font-weight="700" fill="#17212b" text-anchor="middle">아마존 2027 용량 대부분 예약</text>
+<text x="24.0" y="484.0" font-size="12" font-weight="400" fill="#5b6670" text-anchor="start">출처: 알파벳 8-K(3Q26), 랩 매출·Epoch·공실률·계약가는 공개 보도와 KII 집계(일부 2차 전재)</text>
+</svg>

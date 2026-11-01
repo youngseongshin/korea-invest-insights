@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 520" width="800" height="520" font-family="-apple-system, 'Apple SD Gothic Neo', 'Noto Sans KR', 'Helvetica Neue', Arial, sans-serif" font-size="14">
+<rect x="0" y="0" width="800" height="520" fill="#ffffff"/>
+<text x="24.0" y="34.0" font-size="21" font-weight="700" fill="#17212b" text-anchor="start">채찍은 단계마다 성격이 다릅니다. 재고를 만드는 채찍은 하나뿐입니다</text>
+<text x="24.0" y="58.0" font-size="13.5" font-weight="400" fill="#5b6670" text-anchor="start">부풀림의 크기보다 '재고가 생기느냐, 현금이 묶이느냐'가 손실을 정합니다</text>
+<text x="32.0" y="92.0" font-size="13" font-weight="700" fill="#5b6670" text-anchor="start">단계</text>
+<text x="222.0" y="92.0" font-size="13" font-weight="700" fill="#5b6670" text-anchor="start">부풀림</text>
+<text x="412.0" y="92.0" font-size="13" font-weight="700" fill="#5b6670" text-anchor="start">하강 경로</text>
+<text x="602.0" y="92.0" font-size="13" font-weight="700" fill="#5b6670" text-anchor="start">청구서</text>
+<rect x="24.0" y="104.0" width="752.0" height="84.0" rx="8" fill="#eef1f4" stroke="#6b7a88" stroke-width="1.5" opacity="1"/>
+<text x="36.0" y="138.0" font-size="15" font-weight="700" fill="#6b7a88" text-anchor="start">종이 주문</text>
+<text x="36.0" y="162.0" font-size="12.5" font-weight="400" fill="#5b6670" text-anchor="start">전력망 요청·중국 GPU</text>
+<text x="226.0" y="138.0" font-size="14" font-weight="400" fill="#17212b" text-anchor="start">가장 큼</text>
+<text x="226.0" y="162.0" font-size="12.5" font-weight="400" fill="#5b6670" text-anchor="start">재고 없음</text>
+<text x="416.0" y="138.0" font-size="14" font-weight="400" fill="#17212b" text-anchor="start">이미 걸러짐</text>
+<text x="416.0" y="162.0" font-size="12.5" font-weight="400" fill="#5b6670" text-anchor="start">예측에서 삭제</text>
+<text x="606.0" y="138.0" font-size="14" font-weight="700" fill="#6b7a88" text-anchor="start">거의 없음</text>
+<rect x="24.0" y="200.0" width="752.0" height="84.0" rx="8" fill="#f7ead2" stroke="#b8730a" stroke-width="1.5" opacity="1"/>
+<text x="36.0" y="234.0" font-size="15" font-weight="700" fill="#b8730a" text-anchor="start">약정형 선행 수요</text>
+<text x="36.0" y="258.0" font-size="12.5" font-weight="400" fill="#5b6670" text-anchor="start">랩→클라우드 RPO</text>
+<text x="226.0" y="234.0" font-size="14" font-weight="400" fill="#17212b" text-anchor="start">금액이 가장 큼</text>
+<text x="226.0" y="258.0" font-size="12.5" font-weight="400" fill="#5b6670" text-anchor="start">다년 약정</text>
+<text x="416.0" y="234.0" font-size="14" font-weight="400" fill="#17212b" text-anchor="start">재협상</text>
+<text x="416.0" y="258.0" font-size="12.5" font-weight="400" fill="#5b6670" text-anchor="start">취소보다 연기</text>
+<text x="606.0" y="234.0" font-size="14" font-weight="700" fill="#b8730a" text-anchor="start">2028년 주문</text>
+<rect x="24.0" y="296.0" width="752.0" height="84.0" rx="8" fill="#f6dcd9" stroke="#b8322a" stroke-width="1.5" opacity="1"/>
+<text x="36.0" y="330.0" font-size="15" font-weight="700" fill="#b8322a" text-anchor="start">재고를 만드는 채찍</text>
+<text x="36.0" y="354.0" font-size="12.5" font-weight="400" fill="#5b6670" text-anchor="start">범용 서버·PC D램 구매자</text>
+<text x="226.0" y="330.0" font-size="14" font-weight="400" fill="#17212b" text-anchor="start">버퍼 3~5주</text>
+<text x="226.0" y="354.0" font-size="12.5" font-weight="400" fill="#5b6670" text-anchor="start">기본 경로 1~5주</text>
+<text x="416.0" y="330.0" font-size="14" font-weight="400" fill="#17212b" text-anchor="start">CPU·기판 도착 뒤</text>
+<text x="416.0" y="354.0" font-size="12.5" font-weight="400" fill="#5b6670" text-anchor="start">구매 중단</text>
+<text x="606.0" y="330.0" font-size="14" font-weight="700" fill="#b8322a" text-anchor="start">2028년 수요 −10%</text>
+<text x="606.0" y="354.0" font-size="12.5" font-weight="400" fill="#5b6670" text-anchor="start">판가 약 −10%p</text>
+<rect x="24.0" y="400.0" width="370.0" height="80.0" rx="8" fill="#ffffff" stroke="#b8322a" stroke-width="1.5" opacity="1"/>
+<text x="40.0" y="426.0" font-size="13.5" font-weight="700" fill="#17212b" text-anchor="start">2027년 출하 중 반복되지 않는 몫</text>
+<text x="40.0" y="462.0" font-size="28" font-weight="700" fill="#b8322a" text-anchor="start" font-family="Menlo, 'DejaVu Sans Mono', monospace">8~13%</text>
+<text x="176.0" y="460.0" font-size="13" font-weight="400" fill="#5b6670" text-anchor="start">해소 트리거: 2H27 CPU·기판</text>
+<rect x="406.0" y="400.0" width="370.0" height="80.0" rx="8" fill="#ffffff" stroke="#2f62d6" stroke-width="1.5" opacity="1"/>
+<text x="422.0" y="426.0" font-size="13.5" font-weight="700" fill="#17212b" text-anchor="start">HBM 쪽 채찍을 먼저 받는 자리</text>
+<text x="422.0" y="462.0" font-size="28" font-weight="700" fill="#2f62d6" text-anchor="start" font-family="Menlo, 'DejaVu Sans Mono', monospace">2,790억$</text>
+<text x="580.0" y="460.0" font-size="13" font-weight="400" fill="#5b6670" text-anchor="start">엔비디아 약정, 96% FY27~29</text>
+<text x="24.0" y="504.0" font-size="12" font-weight="400" fill="#5b6670" text-anchor="start">출처: 엔비디아 10-Q(Note 10), TrendForce, Dominion·PJM 공시, KII 추정. 버퍼 크기는 기초재고 미상으로 1~5주 범위.</text>
+</svg>

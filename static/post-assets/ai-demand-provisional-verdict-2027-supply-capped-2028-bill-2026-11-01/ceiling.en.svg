@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" width="800" height="500" font-family="-apple-system, 'Apple SD Gothic Neo', 'Noto Sans KR', 'Helvetica Neue', Arial, sans-serif" font-size="14">
+<rect x="0" y="0" width="800" height="500" fill="#ffffff"/>
+<text x="24.0" y="34.0" font-size="21" font-weight="700" fill="#17212b" text-anchor="start">This is not demand fatigue. It is a ceiling.</text>
+<text x="24.0" y="58.0" font-size="13.5" font-weight="400" fill="#5b6670" text-anchor="start">What should bend has not: growth is flat, list prices went up, 2027 capacity is sold</text>
+<rect x="24.0" y="82.0" width="230.0" height="300.0" rx="6" fill="#fafbfc" stroke="#e6e9ec" stroke-width="1" opacity="1"/>
+<text x="36.0" y="104.0" font-size="13.5" font-weight="700" fill="#17212b" text-anchor="start">Google first-party API tokens/min</text>
+<text x="36.0" y="122.0" font-size="12" font-weight="400" fill="#5b6670" text-anchor="start">QoQ growth</text>
+<line x1="36.0" y1="340.0" x2="242.0" y2="340.0" stroke="#17212b" stroke-width="1"/>
+<rect x="53.0" y="182.3" width="46.0" height="157.7" rx="2" fill="#2f62d6" stroke="none" stroke-width="1" opacity="1"/>
+<text x="76.0" y="175.3" font-size="14" font-weight="700" fill="#2f62d6" text-anchor="middle">+60%</text>
+<text x="76.0" y="358.0" font-size="12.5" font-weight="400" fill="#5b6670" text-anchor="middle">1Q26</text>
+<rect x="116.0" y="242.7" width="46.0" height="97.3" rx="2" fill="#2f62d6" stroke="none" stroke-width="1" opacity="1"/>
+<text x="139.0" y="235.7" font-size="14" font-weight="700" fill="#2f62d6" text-anchor="middle">+37%</text>
+<text x="139.0" y="358.0" font-size="12.5" font-weight="400" fill="#5b6670" text-anchor="middle">2Q26</text>
+<rect x="179.0" y="234.9" width="46.0" height="105.1" rx="2" fill="#2f62d6" stroke="none" stroke-width="1" opacity="1"/>
+<text x="202.0" y="227.9" font-size="14" font-weight="700" fill="#2f62d6" text-anchor="middle">+40%</text>
+<text x="202.0" y="358.0" font-size="12.5" font-weight="400" fill="#5b6670" text-anchor="middle">3Q26</text>
+<rect x="285.0" y="82.0" width="230.0" height="300.0" rx="6" fill="#fafbfc" stroke="#e6e9ec" stroke-width="1" opacity="1"/>
+<text x="297.0" y="104.0" font-size="13.5" font-weight="700" fill="#17212b" text-anchor="start">Two frontier labs, revenue</text>
+<text x="297.0" y="122.0" font-size="12" font-weight="400" fill="#5b6670" text-anchor="start">quarterly, $bn</text>
+<line x1="297.0" y1="340.0" x2="503.0" y2="340.0" stroke="#17212b" stroke-width="1"/>
+<rect x="314.0" y="276.2" width="46.0" height="63.8" rx="2" fill="#b8730a" stroke="none" stroke-width="1" opacity="1"/>
+<text x="337.0" y="269.2" font-size="14" font-weight="700" fill="#b8730a" text-anchor="middle">10.4</text>
+<text x="337.0" y="358.0" font-size="12.5" font-weight="400" fill="#5b6670" text-anchor="middle">1Q26</text>
+<rect x="377.0" y="228.4" width="46.0" height="111.6" rx="2" fill="#b8730a" stroke="none" stroke-width="1" opacity="1"/>
+<text x="400.0" y="221.4" font-size="14" font-weight="700" fill="#b8730a" text-anchor="middle">18.2</text>
+<text x="400.0" y="358.0" font-size="12.5" font-weight="400" fill="#5b6670" text-anchor="middle">2Q26</text>
+<rect x="440.0" y="178.1" width="46.0" height="161.9" rx="2" fill="#b8730a" stroke="none" stroke-width="1" opacity="1"/>
+<text x="463.0" y="171.1" font-size="14" font-weight="700" fill="#b8730a" text-anchor="middle">26.4</text>
+<text x="463.0" y="358.0" font-size="12.5" font-weight="400" fill="#5b6670" text-anchor="middle">3Q26</text>
+<rect x="546.0" y="82.0" width="230.0" height="300.0" rx="6" fill="#fafbfc" stroke="#e6e9ec" stroke-width="1" opacity="1"/>
+<text x="558.0" y="104.0" font-size="13.5" font-weight="700" fill="#17212b" text-anchor="start">Fixed-price demand vs inference supply</text>
+<text x="558.0" y="122.0" font-size="12" font-weight="400" fill="#5b6670" text-anchor="start">annual multiple (Epoch)</text>
+<line x1="558.0" y1="340.0" x2="764.0" y2="340.0" stroke="#17212b" stroke-width="1"/>
+<rect x="585.3" y="172.7" width="62.0" height="167.3" rx="2" fill="#b8322a" stroke="none" stroke-width="1" opacity="1"/>
+<text x="616.3" y="165.7" font-size="14" font-weight="700" fill="#b8322a" text-anchor="middle">10x</text>
+<text x="616.3" y="358.0" font-size="12.5" font-weight="400" fill="#5b6670" text-anchor="middle">Demand</text>
+<rect x="674.7" y="283.1" width="62.0" height="56.9" rx="2" fill="#b8322a" stroke="none" stroke-width="1" opacity="1"/>
+<text x="705.7" y="276.1" font-size="14" font-weight="700" fill="#b8322a" text-anchor="middle">3.4x</text>
+<text x="705.7" y="358.0" font-size="12.5" font-weight="400" fill="#5b6670" text-anchor="middle">Supply</text>
+<text x="139.0" y="380.0" font-size="12.5" font-weight="700" fill="#2f62d6" text-anchor="middle">Flat near +40%, 3.7-4.0x annualized</text>
+<text x="400.0" y="380.0" font-size="12.5" font-weight="700" fill="#b8730a" text-anchor="middle">+45% QoQ despite falling prices</text>
+<text x="661.0" y="380.0" font-size="12.5" font-weight="700" fill="#b8322a" text-anchor="middle">~3x gap, toward shortage</text>
+<rect x="24.0" y="400.0" width="752.0" height="60.0" rx="6" fill="#eef1f4" stroke="none" stroke-width="1" opacity="1"/>
+<text x="118.0" y="435.0" font-size="13" font-weight="700" fill="#17212b" text-anchor="middle">Google raised list prices</text>
+<text x="306.0" y="435.0" font-size="13" font-weight="700" fill="#17212b" text-anchor="middle">N.A. DC vacancy 1.4%</text>
+<text x="494.0" y="435.0" font-size="13" font-weight="700" fill="#17212b" text-anchor="middle">H100 1-yr contract +38% YoY</text>
+<text x="682.0" y="435.0" font-size="13" font-weight="700" fill="#17212b" text-anchor="middle">Amazon 2027 mostly reserved</text>
+<text x="24.0" y="484.0" font-size="12" font-weight="400" fill="#5b6670" text-anchor="start">Sources: Alphabet 8-K (Q3 2026); lab revenue, Epoch, vacancy and contract prices from public reports and KII tallies (some secondary)</text>
+</svg>

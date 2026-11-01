@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 520" width="800" height="520" font-family="-apple-system, 'Apple SD Gothic Neo', 'Noto Sans KR', 'Helvetica Neue', Arial, sans-serif" font-size="14">
+<rect x="0" y="0" width="800" height="520" fill="#ffffff"/>
+<text x="24.0" y="34.0" font-size="21" font-weight="700" fill="#17212b" text-anchor="start">The bullwhip differs by stage. Only one stage builds inventory</text>
+<text x="24.0" y="58.0" font-size="13.5" font-weight="400" fill="#5b6670" text-anchor="start">Losses depend on whether inventory forms and cash is tied up, not on how inflated a number looks</text>
+<text x="32.0" y="92.0" font-size="13" font-weight="700" fill="#5b6670" text-anchor="start">Stage</text>
+<text x="222.0" y="92.0" font-size="13" font-weight="700" fill="#5b6670" text-anchor="start">Inflation</text>
+<text x="412.0" y="92.0" font-size="13" font-weight="700" fill="#5b6670" text-anchor="start">Downside path</text>
+<text x="602.0" y="92.0" font-size="13" font-weight="700" fill="#5b6670" text-anchor="start">Bill</text>
+<rect x="24.0" y="104.0" width="752.0" height="84.0" rx="8" fill="#eef1f4" stroke="#6b7a88" stroke-width="1.5" opacity="1"/>
+<text x="36.0" y="138.0" font-size="15" font-weight="700" fill="#6b7a88" text-anchor="start">Paper orders</text>
+<text x="36.0" y="162.0" font-size="12.5" font-weight="400" fill="#5b6670" text-anchor="start">grid requests, China GPUs</text>
+<text x="226.0" y="138.0" font-size="14" font-weight="400" fill="#17212b" text-anchor="start">Largest</text>
+<text x="226.0" y="162.0" font-size="12.5" font-weight="400" fill="#5b6670" text-anchor="start">no inventory</text>
+<text x="416.0" y="138.0" font-size="14" font-weight="400" fill="#17212b" text-anchor="start">Already filtered</text>
+<text x="416.0" y="162.0" font-size="12.5" font-weight="400" fill="#5b6670" text-anchor="start">removed from forecasts</text>
+<text x="606.0" y="138.0" font-size="14" font-weight="700" fill="#6b7a88" text-anchor="start">Near zero</text>
+<rect x="24.0" y="200.0" width="752.0" height="84.0" rx="8" fill="#f7ead2" stroke="#b8730a" stroke-width="1.5" opacity="1"/>
+<text x="36.0" y="234.0" font-size="15" font-weight="700" fill="#b8730a" text-anchor="start">Committed demand</text>
+<text x="36.0" y="258.0" font-size="12.5" font-weight="400" fill="#5b6670" text-anchor="start">lab → cloud RPO</text>
+<text x="226.0" y="234.0" font-size="14" font-weight="400" fill="#17212b" text-anchor="start">Largest in dollars</text>
+<text x="226.0" y="258.0" font-size="12.5" font-weight="400" fill="#5b6670" text-anchor="start">multi-year</text>
+<text x="416.0" y="234.0" font-size="14" font-weight="400" fill="#17212b" text-anchor="start">Renegotiation</text>
+<text x="416.0" y="258.0" font-size="12.5" font-weight="400" fill="#5b6670" text-anchor="start">delay, not cancel</text>
+<text x="606.0" y="234.0" font-size="14" font-weight="700" fill="#b8730a" text-anchor="start">2028 orders</text>
+<rect x="24.0" y="296.0" width="752.0" height="84.0" rx="8" fill="#f6dcd9" stroke="#b8322a" stroke-width="1.5" opacity="1"/>
+<text x="36.0" y="330.0" font-size="15" font-weight="700" fill="#b8322a" text-anchor="start">Inventory-building</text>
+<text x="36.0" y="354.0" font-size="12.5" font-weight="400" fill="#5b6670" text-anchor="start">commodity server/PC DRAM</text>
+<text x="226.0" y="330.0" font-size="14" font-weight="400" fill="#17212b" text-anchor="start">Buffer 3-5 weeks</text>
+<text x="226.0" y="354.0" font-size="12.5" font-weight="400" fill="#5b6670" text-anchor="start">base path 1-5 wks</text>
+<text x="416.0" y="330.0" font-size="14" font-weight="400" fill="#17212b" text-anchor="start">Buyers stop when</text>
+<text x="416.0" y="354.0" font-size="12.5" font-weight="400" fill="#5b6670" text-anchor="start">CPUs/substrates land</text>
+<text x="606.0" y="330.0" font-size="14" font-weight="700" fill="#b8322a" text-anchor="start">2028 demand −10%</text>
+<text x="606.0" y="354.0" font-size="12.5" font-weight="400" fill="#5b6670" text-anchor="start">price about −10pp</text>
+<rect x="24.0" y="400.0" width="370.0" height="80.0" rx="8" fill="#ffffff" stroke="#b8322a" stroke-width="1.5" opacity="1"/>
+<text x="40.0" y="426.0" font-size="13.5" font-weight="700" fill="#17212b" text-anchor="start">Non-repeating share of 2027 shipments</text>
+<text x="40.0" y="462.0" font-size="28" font-weight="700" fill="#b8322a" text-anchor="start" font-family="Menlo, 'DejaVu Sans Mono', monospace">8~13%</text>
+<text x="176.0" y="460.0" font-size="13" font-weight="400" fill="#5b6670" text-anchor="start">Trigger: 2H27 CPU/substrates</text>
+<rect x="406.0" y="400.0" width="370.0" height="80.0" rx="8" fill="#ffffff" stroke="#2f62d6" stroke-width="1.5" opacity="1"/>
+<text x="422.0" y="426.0" font-size="13.5" font-weight="700" fill="#17212b" text-anchor="start">First to take an HBM-side whip</text>
+<text x="422.0" y="462.0" font-size="28" font-weight="700" fill="#2f62d6" text-anchor="start" font-family="Menlo, 'DejaVu Sans Mono', monospace">$279bn</text>
+<text x="580.0" y="460.0" font-size="13" font-weight="400" fill="#5b6670" text-anchor="start">NVDA commitments, 96% FY27-29</text>
+<text x="24.0" y="504.0" font-size="12" font-weight="400" fill="#5b6670" text-anchor="start">Sources: NVIDIA 10-Q (Note 10), TrendForce, Dominion/PJM filings, KII estimates. Buffer size is 1-5 weeks; opening stock unknown.</text>
+</svg>
