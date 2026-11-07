@@ -278,7 +278,9 @@ raw GitHub and the SVGs from the live site, which are public and CORS-open.
 2. Paste `scripts/substack_pane_push.js` into the page once. Run
    `window.__kiiRun({slug, draft, dry:true})` and read `window.__kii`:
    `summary` (blocks, images, footnotes, unusedDefs) must match the post
-   (figures + tables, footnote definitions), and `lint` must be empty.
+   (figures + tables, footnote definitions), and `lint` must be empty. Also
+   confirm that the post source holds the Telegram invitation (see
+   [Telegram invitation in the post body](#telegram-invitation-in-the-post-body)).
 3. Run `window.__kiiRun({slug, draft})` without `dry`. Poll `window.__kii` until
    `step` is `done`; never await the run. The converter turns SVG figures and
    `![alt](/path.svg|png)` images into PNG, markdown tables into PNG (Substack has
@@ -336,6 +338,37 @@ Known limits:
 - Text inside table images is small on a phone (a tap zooms). A footnote inside a
   table becomes a superscript number in the image, not a body anchor.
 - Gmail clips emails over 102KB; the footnote block at the end is clipped first.
+
+#### Telegram invitation in the post body
+
+Owner directive 2026-11-08: every Substack post published from now on carries
+one short, polite invitation to join the Telegram channel
+`@korea_invest_insights`. Posts published before 2026-11-08 are not changed.
+
+- Write the invitation in `index.en.md`. The converter turns that file into the
+  Substack post, so the blog's English page shows the same paragraph. The
+  Korean file stays unchanged unless the user asks. The rule covers the post
+  body only.
+- Put it once, in the middle of the body, as its own paragraph between two
+  sections: before the heading that starts the second half, counting each
+  figure and table as one block. Do not put it in the opening, the last
+  section, a table, a list, a callout or a figure caption.
+- Use this text. Small wording changes are allowed. Keep it to two short
+  sentences, with no urgency, no promise of returns and no `**`:
+
+  ```text
+  We also share new analyses on Telegram as they are published. You are welcome to join us at [@korea_invest_insights](https://t.me/korea_invest_insights).
+  ```
+
+- The link must be the absolute address `https://t.me/korea_invest_insights`.
+  A relative or bare link breaks on Substack.
+- Before the push, check that the file holds the invitation exactly once:
+
+  ```bash
+  grep -c 'https://t.me/korea_invest_insights' content/post/<slug>/index.en.md
+  ```
+
+  The count must be `1`. Do the check again after any rewrite of the post.
 
 #### Cookie API path (opt-in, plain text only)
 
