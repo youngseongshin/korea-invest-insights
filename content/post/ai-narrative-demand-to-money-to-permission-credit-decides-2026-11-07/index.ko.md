@@ -1,7 +1,7 @@
 ---
 title: "SK하이닉스 -61%인데 2027 이익 추정은 올랐습니다: AI 주식의 질문이 '수요가 있나'에서 '누가 돈을 대나'로 넘어갔습니다"
 date: 2026-11-07T20:50:00+09:00
-lastmod: 2026-11-07T20:50:00+09:00
+lastmod: 2026-11-07T22:04:00+09:00
 categories: ["semiconductors", "market-analysis"]
 tags: ["SK hynix", "Samsung Electronics", "Micron", "Nvidia", "Credit Spreads", "High Yield", "AI Capex", "Memory", "Bear Market"]
 series: ["Korea Semiconductor Watch"]

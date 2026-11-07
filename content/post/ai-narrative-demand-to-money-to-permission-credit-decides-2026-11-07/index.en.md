@@ -1,7 +1,7 @@
 ---
 title: "SK hynix -61%, 2027 Profit Estimates Up: AI Stocks Stopped Asking Whether Demand Is Real and Started Asking Who Pays"
 date: 2026-11-07T20:50:00+09:00
-lastmod: 2026-11-07T20:50:00+09:00
+lastmod: 2026-11-07T22:04:00+09:00
 categories: ["semiconductors", "market-analysis"]
 tags: ["SK hynix", "Samsung Electronics", "Micron", "Nvidia", "Credit Spreads", "High Yield", "AI Capex", "Memory", "Bear Market"]
 series: ["Korea Semiconductor Watch"]
