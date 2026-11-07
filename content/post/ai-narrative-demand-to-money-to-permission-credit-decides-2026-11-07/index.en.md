@@ -121,8 +121,10 @@ This is not a call to buy. Fear gauges and low multiples alone are not a reason.
 
 <strong>Which breaks first? Reply with A, B or C, and one data point that backs your pick.</strong>
 
-<strong>A. Credit: high yield stays above 350bp for five sessions.</strong><br>
-<strong>B. Capex: a hyperscaler cuts its 2027 plan.</strong><br>
+<strong>A. Credit: high yield stays above 350bp for five sessions.</strong>
+
+<strong>B. Capex: a hyperscaler cuts its 2027 plan.</strong>
+
 <strong>C. Neither: Nvidia's guidance holds, the November issuance window clears and high yield falls to 330bp or lower.</strong>
 
 This is for research and information only, not investment advice. Estimates and scenarios are analytical assumptions, not trading instructions or individual portfolio decisions. Figures are dated data, and some reported figures are secondary compilations. We used Anthropic's Claude for research and editing. Anthropic appears in this post as an AI lab whose filed S-1/A figures we report as filed and do not weigh.
