@@ -6,7 +6,7 @@ categories: ["semiconductors", "market-analysis"]
 tags: ["DRAM", "HBM", "Memory Cycle", "Node Shrink", "Wafers", "Oversupply", "Micron", "SK hynix", "Samsung Electronics"]
 series: ["Korea Semiconductor Watch"]
 slug: "dram-glut-2019-rhymes-in-2029-hbm-takes-the-wafers-2026-11-08"
-description: "In 2018 shrinks alone lifted DRAM bits 20%+, and 2019 prices fell 30%. Shrinks now add 6-11% a year and HBM is set to use 30% of 2027 wafers. 2028 conventional supply stays inside demand; 2029 is the year that looks like 2019."
+description: "In 2018 shrinks lifted DRAM bits 20%+ with almost no new fabs, and 2019 prices fell 30%. Shrinks now add 6-11% a year and HBM is set to use 30% of 2027 wafers. 2028 conventional supply overlaps demand; 2029 looks like 2019."
 image: "cover.en.png"
 draft: false
 ---

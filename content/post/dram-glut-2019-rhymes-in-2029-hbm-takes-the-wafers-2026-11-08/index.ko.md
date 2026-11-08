@@ -6,7 +6,7 @@ categories: ["semiconductors", "market-analysis"]
 tags: ["D램", "HBM", "메모리 사이클", "미세화", "웨이퍼", "공급 과잉", "마이크론", "SK하이닉스", "삼성전자"]
 series: ["Korea Semiconductor Watch"]
 slug: "dram-glut-2019-rhymes-in-2029-hbm-takes-the-wafers-2026-11-08"
-description: "2018년에는 공장을 거의 늘리지 않고도 미세화만으로 D램 비트가 20% 남짓 늘었고, 2019년 가격은 약 30% 내렸습니다. 지금 미세화 기여는 연 6~11%이고 2027년 웨이퍼의 30%를 HBM이 쓸 전망입니다. 2028년 범용 공급은 수요 범위 안이고, 2019년과 닮은 해는 2029년입니다."
+description: "2018년에는 공장을 거의 늘리지 않고도 미세화로 D램 비트가 20% 남짓 늘었고, 2019년 가격은 약 30% 내렸습니다. 지금 미세화 기여는 연 6~11%이고 2027년 웨이퍼의 30%를 HBM이 쓸 전망입니다. 2028년 범용 공급은 수요 범위와 겹치고, 2019년과 닮은 해는 2029년입니다."
 image: "cover.ko.png"
 draft: false
 ---
