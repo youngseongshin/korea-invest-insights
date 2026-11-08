@@ -129,7 +129,7 @@ The best case uses both engines. Supply discipline keeps λ up and supports the 
 ## Data Notes
 
 - We collected no new external data for this post. Figures come from our model files and the analysis note of November 8.
-- The share price and market values are as of November 6. Samsung's current P/B of 2.1 uses equity reported at September 30. On projected end-2028 equity, P/B is about 0.9 to 1.1.
+- The share price and market values are as of November 6. The 1.17 times book value in our earlier post used 12-month-forward equity. The current P/B of 2.1 in this post uses equity reported at September 30. On projected end-2028 equity, P/B is about 0.9 to 1.1.
 - For global equity, US company values were rechecked directly in SEC XBRL data. The Chinese banks and Aramco come from filed reports. Berkshire and the Chinese banks have no September 30 report yet, so their June 30 values are used. All values are converted at the November 6 exchange rate, and reporting dates differ from pricing dates.
 - Aramco's ROE slot shows ROACE (return on average capital employed). Samsung's boom-year ROE of about 50% is an approximation.
 - Fair P/B is simplified to 0% growth and a 10% required return. ROE effects are measured inside our model and depend on its settings.
