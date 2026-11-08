@@ -57,6 +57,7 @@ K-뷰티 투자는 단일 섹터가 아니다. <strong>올리브영은 비상장
 
 ### 리쥬란과 파마리서치
 
+- [한국 스킨부스터 두 종목, 매출은 늘었는데 주가는 반토막: 파마리서치와 엘앤씨바이오, 국경을 넘는 제품](/ko/post/korea-skin-boosters-pharmaresearch-lnc-bio-what-crosses-borders-2026-11-08/)
 - [파마리서치 리레이팅 점검: 리쥬란은 의료기기에서 미국 더마 코스메틱 플랫폼으로 확장될 수 있나](/ko/post/pharmaresearch-rejuran-cosmetics-olive-young-us-rerating-2026-05-31/)
 - [리쥬란은 누가 만드나? 파마리서치와 K-스킨부스터 플랫폼](/ko/post/rejuran-owner-pharmaresearch-pn-technology-skin-booster-2026-04-27/)
 - [파마리서치: 리쥬란을 탄생시킨 PDRN의 선구자](/ko/post/kr-deep-dive-pharma-research-products-2026-04-16/)

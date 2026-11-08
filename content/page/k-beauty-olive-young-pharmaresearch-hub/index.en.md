@@ -57,6 +57,7 @@ K-beauty is not one trade. <strong>Olive Young is a private retail and discovery
 
 ### Rejuran and PharmaResearch
 
+- [Korea's Skin-Booster Stocks Halved While Sales Grew: PharmaResearch vs L&C Bio and What Can Cross Borders](/post/korea-skin-boosters-pharmaresearch-lnc-bio-what-crosses-borders-2026-11-08/)
 - [PharmaResearch Re-Rating Check: Can Rejuran Move From Medical Device Monopoly to U.S. Derma-Cosmetics Platform?](/post/pharmaresearch-rejuran-cosmetics-olive-young-us-rerating-2026-05-31/)
 - [Who Owns Rejuran? PharmaResearch and Korea's Skin-Booster Platform](/post/rejuran-owner-pharmaresearch-pn-technology-skin-booster-2026-04-27/)
 - [PharmaResearch: The PDRN Pioneer Behind Rejuran](/post/kr-deep-dive-pharma-research-products-2026-04-16/)
