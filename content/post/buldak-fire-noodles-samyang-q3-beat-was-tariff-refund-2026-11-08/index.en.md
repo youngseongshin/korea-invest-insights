@@ -1,7 +1,7 @@
 ---
 title: "Buldak Fire Noodles Beat Earnings, but the Extra Spice Was an Estimated ₩20 Billion Tariff Refund"
 date: 2026-11-08T18:41:00+09:00
-lastmod: 2026-11-08T18:41:00+09:00
+lastmod: 2026-11-08T18:59:00+09:00
 categories: ["company-deep-dive", "consumer"]
 tags: ["Samyang Foods", "Buldak", "Fire Noodles", "Earnings", "Tariff Refund", "Exchange Rate", "K-Food", "Inbound Tourism"]
 series: ["K-Food Watch"]
@@ -193,6 +193,7 @@ Two of these dates can change the numbers above. The quarterly report will show 
 ## Data notes
 
 - We did not obtain a transcript of the call. The ₩20 billion refund, the 82.3% utilization, the price-increase remark, and the freight and advertising savings come from one article by Umbrella Research, a paid independent research house, reconstructing the call (Alpha Biz, November 7). The ₩20 billion matches a KB Securities preview estimate of about ₩20 billion. The company's own deck gives no refund amount.
+- The call reconstruction puts Jiaxing at 1.13 billion packs a year and about 40% more supply. It also gives 1.58 billion packs a year for Miryang plants 1 and 2, and Jiaxing would be about 70% of that figure. So the base of the 40% probably includes other capacity. We have not seen the breakdown.
 - Broker reviews written after the results were not yet indexed on November 8.
 - Results are preliminary and have not had the outside auditor's review.
 - Consensus is Naver Finance (FnGuide source) as of November 5. We could not query FnGuide directly. Some pre-results articles cited ₩186.8 billion for operating profit.
