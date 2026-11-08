@@ -30,7 +30,7 @@ We first checked the old explanation, "demand slows, shrinks keep adding bits, a
 | Claim | 2019 | This cycle |
 |---|---|---|
 | Makers add supply into a boom | True. They invested in shrinks in 2017–2018 | True. They build cleanrooms for 2027–2029, but tools go in step by step as demand allows |
-| Shrinks keep adding bits | True. Bits grew 20%+ with no new wafers | Weaker. 6–11% a year, about half of 2018 |
+| Shrinks keep adding bits | True. Bits grew 20%+ with almost no new wafers | Weaker. 6–11% a year, about half of 2018 |
 | The demand-supply gap becomes a price drop | True. Demand mid-teens, average selling price about −30% | True, but how many wafers HBM takes sets the size of conventional supply |
 | "Supply is constrained this time" proves this time is different | The same words were said in 2018 | Words prove nothing. The size of the shrink engine and the HBM draw are different numbers |
 | NAND is the same | | NAND still adds many bits through stacking (Micron G11 has about 2x the bits of G9), so the old explanation still fits |
