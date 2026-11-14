@@ -1,7 +1,7 @@
 ---
 title: "Howard Marks Calls AI Payback a Matter of Faith. Big Tech Has Already Signed $3 Trillion on It, and Credit Is Not Charging for the Risk"
-date: 2026-11-14T17:40:00+09:00
-lastmod: 2026-11-14T17:40:00+09:00
+date: 2026-11-14T17:30:00+09:00
+lastmod: 2026-11-14T17:30:00+09:00
 categories: ["market-analysis", "ai-infrastructure"]
 tags: ["Howard Marks", "Federal Reserve", "Financial Stability Report", "AI Capex", "Corporate Bonds", "Credit Spreads", "Hyperscalers", "Private Credit"]
 series: ["AI Capex Watch"]
