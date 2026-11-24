@@ -298,10 +298,36 @@ raw GitHub and the SVGs from the live site, which are public and CORS-open.
 5. Reload the draft and look at it: the first figure, one table image, the
    footnote block and the language footer. The run summary survives the reload in
    `sessionStorage`, so `__kiiVerify` still works after you paste the script again.
+
+   To load a script fix you just pushed, do not wait for the branch raw cache.
+   Load the script from the commit that last changed it. Get the commit in the
+   blog repo with `git log -1 --format=%H -- scripts/substack_pane_push.js`, then
+   run this in the page, with that commit in place of `<sha>`:
+
+   ```js
+   (0, eval)(await (await fetch('https://raw.githubusercontent.com/youngseongshin/korea-invest-insights/<sha>/scripts/substack_pane_push.js')).text())
+   ```
+
+   Pass the pushed commit that holds the post as `raw` to `__kiiRun`
+   (`raw: 'https://raw.githubusercontent.com/youngseongshin/korea-invest-insights/<sha>'`),
+   so the converter reads the markdown you just pushed. This doc does not store a
+   commit id, because a commit cannot contain its own id.
 6. Run `await window.__kiiPublish({draft})`. It refuses a title that is already in
    the public archive under another post id, refuses `send:true` on a post that
    is already published, publishes, and returns `{slug, url, emailed}`. Open the
    returned URL once and check the first figure and a footnote link.
+   The duplicate check reads the whole archive with
+   `GET /api/v1/archive?sort=new&limit=25`, then `&cursor=<nextCursor>` until
+   `nextCursor` is empty (551 posts were 23 pages on 2026-11-24; the cap is 80
+   pages). Since 2026-11-24 the endpoint answers `{posts, nextCursor}` and returns
+   HTTP 400 for `limit=50` and for `offset`. The check fails closed: a non-200
+   status, an unexpected response shape, a repeated cursor or more than 80 pages
+   stops `__kiiPublish` with an error before it publishes. If it stops, do not post
+   `/publish` by hand until the same archive scan shows no equal title. To run only
+   the check, with nothing published, call
+   `await window.__kiiDuplicates({title, id})`. It returns `{scanned, dup}`, and
+   `dup` is empty for a new title. `id` is the post id to leave out, usually the
+   draft id.
 7. Open any `https://substack.com/` page (same login), paste the script again and
    run `await window.__kiiNote({title, desc, url})` with the post title, the
    frontmatter description and the URL from step 6. It posts the Note with the same

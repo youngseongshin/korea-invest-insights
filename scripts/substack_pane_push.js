@@ -20,6 +20,7 @@
 //      footnote counts must match __kii.summary, no literal markdown, no unuploaded image
 //   7. await window.__kiiPublish({draft:<id>})       refuses a title that is already published,
 //      publishes ({send:true} emails subscribers; pass send:false for web only), returns the URL
+//      (await window.__kiiDuplicates({title, id}) runs only the duplicate check: {scanned, dup})
 //   8. on a https://substack.com page, paste this file again and
 //      await window.__kiiNote({title, desc, url})    posts the Note, returns its URL
 //   9. record: scripts/substack_record_browser_publish.py --slug ... --substack-url ...
@@ -346,6 +347,48 @@ window.__kiiVerify = async ({draft, expect} = {}) => {
     published: !!d.is_published, slug: d.slug || null, lint: lint.slice(0, 10), links: links.slice(0, 10)};
 };
 
+// Every post of the public archive, newest first. Since 2026-11-24 the API rejects limit=50 and
+// offset (HTTP 400) and answers {posts, nextCursor}; the next page is &cursor=<nextCursor>.
+// A bare array (the old shape) is accepted only when it is one short page, because it has no
+// cursor to follow. Fails closed: a non-200 status, an unexpected shape, a repeated cursor or
+// more than maxPages pages throws, so a broken archive call can never pass as "no duplicate".
+window.__kiiArchivePosts = async ({limit = 25, maxPages = 80} = {}) => {
+  const all = [];
+  const seen = new Set();
+  let cursor = '';
+  for (let n = 0; n < maxPages; n++) {
+    const url = `/api/v1/archive?sort=new&limit=${limit}` + (cursor ? `&cursor=${encodeURIComponent(cursor)}` : '');
+    const r = await fetch(url, {credentials: 'same-origin'});
+    if (r.status !== 200) throw new Error(`archive ${r.status}: cannot check for duplicates`);
+    const page = await r.json();
+    const posts = Array.isArray(page) ? page : (page && Array.isArray(page.posts) ? page.posts : null);
+    if (!posts) throw new Error('archive: unexpected response shape, cannot check for duplicates');
+    if (posts.some(p => !p || typeof p !== 'object')) throw new Error('archive: unexpected post entry, cannot check for duplicates');
+    all.push(...posts);
+    if (Array.isArray(page)) {
+      if (posts.length >= limit) throw new Error('archive: array response cannot be paged, cannot check for duplicates');
+      return all;
+    }
+    const next = page.nextCursor;
+    if (next === undefined || next === null || next === '') return all;
+    if (typeof next !== 'string') throw new Error('archive: unexpected nextCursor, cannot check for duplicates');
+    if (seen.has(next)) throw new Error('archive: cursor repeated, cannot check for duplicates');
+    seen.add(next);
+    cursor = next;
+  }
+  throw new Error(`archive: more than ${maxPages} pages, cannot check for duplicates`);
+};
+
+// Posts in the public archive whose normalized title equals this title, other than post id `id`.
+window.__kiiDuplicates = async ({title, id = null} = {}) => {
+  const norm = s => (s || '').toLowerCase().replace(/\s+/g, ' ').trim();
+  const want = norm(title);
+  if (!want) throw new Error('no title to check');
+  const posts = await window.__kiiArchivePosts();
+  return {scanned: posts.length, dup: posts.filter(p => p.id !== id && norm(p.title) === want)
+    .map(p => ({id: p.id, slug: p.slug, date: p.post_date}))};
+};
+
 // Publish the draft. A title already in the public archive (another post id) stops it,
 // because an orphan draft of a post that already went out was republished on 2026-10-22.
 window.__kiiPublish = async ({draft, send = true} = {}) => {
@@ -353,16 +396,7 @@ window.__kiiPublish = async ({draft, send = true} = {}) => {
   const title = (d.draft_title || '').trim();
   if (!title) throw new Error('draft has no title');
   if (d.is_published && send) throw new Error('already published; republish a fix with send:false');
-  const norm = s => (s || '').toLowerCase().replace(/\s+/g, ' ').trim();
-  const dup = [];
-  for (let offset = 0; offset < 500; offset += 50) {
-    const r = await fetch(`/api/v1/archive?sort=new&offset=${offset}&limit=50`, {credentials: 'same-origin'});
-    if (!r.ok) throw new Error(`archive ${r.status}: cannot check for duplicates`);
-    const page = await r.json();
-    if (!Array.isArray(page) || !page.length) break;
-    for (const p of page) if (p.id !== d.id && norm(p.title) === norm(title)) dup.push({id: p.id, slug: p.slug, date: p.post_date});
-    if (page.length < 50) break;
-  }
+  const {dup} = await window.__kiiDuplicates({title, id: d.id});
   if (dup.length) throw new Error('same title already published: ' + JSON.stringify(dup));
   const r = await fetch(`/api/v1/drafts/${draft}/publish`, {method: 'POST', credentials: 'same-origin',
     headers: {'Content-Type': 'application/json'}, body: JSON.stringify({send, type: 'new'})});
